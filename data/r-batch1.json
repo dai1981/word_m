@@ -1,0 +1,542 @@
+[
+  {
+    "english": "rabbit",
+    "pron": "ˈræbɪt",
+    "kana": "ラビット",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "中英語 rabet（若いウサギ）",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "身近な動物"],
+    "meaning_main": "ウサギ／飼いウサギ",
+    "description": "rabbit（ウサギ）の意味・発音・例文・語源をやさしく解説。英検5級レベルの基本単語で、hare（野ウサギ）との違いも紹介します。",
+    "keywords": ["rabbit 意味", "rabbit 発音", "rabbit ウサギ 英語", "rabbit hare 違い"],
+    "meanings": [
+      { "hinshi": "【名詞】ウサギ", "note": "特にペットや家畜として飼われる小型のウサギ。" },
+      { "hinshi": "【名詞】ウサギの肉・毛皮", "note": "料理や衣料の素材を指すこともある。" }
+    ],
+    "usages": [
+      { "title": "① ペット・身近な動物として", "desc": "子ども向けの話や絵本によく登場する基本語です。", "example_en": "We keep a white rabbit in the garden.", "example_ja": "私たちは庭で白いウサギを飼っています。" },
+      { "title": "② 比喩・慣用表現で", "desc": "「素早い」「臆病」などのイメージで使われることもあります。", "example_en": "He ran like a rabbit when he saw the dog.", "example_ja": "彼は犬を見ると、ウサギのように走って逃げた。" }
+    ],
+    "warn": [
+      "rabbit（飼いウサギ）と hare（野ウサギ）は別の動物。hare の方が大きく耳と脚が長い。",
+      "「ウサギ年（卯年）」は英語で the Year of the Rabbit と言う。"
+    ],
+    "etym_note": "中英語の rabet（若いウサギ）に由来し、もとは古フランス語系の言葉とされます。成獣はかつて coney と呼ばれていました。",
+    "etym_chain": [
+      { "node": "rabet", "sub": "若いウサギ", "era": "中英語" },
+      { "node": "rabbit", "sub": "ウサギ", "era": "近代英語" },
+      { "node": "rabbit", "sub": "ウサギ／飼いウサギ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a pet rabbit", "ja": "ペットのウサギ" },
+      { "en": "a wild rabbit", "ja": "野生のウサギ" },
+      { "en": "rabbit hutch", "ja": "ウサギ小屋" },
+      { "en": "breed like rabbits", "ja": "（ウサギのように）どんどん増える" },
+      { "en": "the Year of the Rabbit", "ja": "卯（うさぎ）年" },
+      { "en": "white rabbit", "ja": "白ウサギ" }
+    ],
+    "related": [
+      { "en": "hare", "ja": "野ウサギ" },
+      { "en": "bunny", "ja": "ウサちゃん（幼児語）" },
+      { "en": "carrot", "ja": "ニンジン" },
+      { "en": "pet", "ja": "ペット" }
+    ],
+    "faq": [
+      { "q": "rabbit と bunny の違いは？", "a": "bunny は rabbit の幼児語・愛称で、子どもや会話でよく使います。意味はほぼ同じです。" },
+      { "q": "rabbit の複数形は？", "a": "規則変化で rabbits です。" }
+    ],
+    "quiz": [
+      { "q": "We keep a white ___ as a pet.（ペットとして白いウサギを飼っている）", "A": "rabbit", "B": "carrot", "C": "garden", "D": "river", "correct": "A" },
+      { "q": "野ウサギを表す英語はどれ？", "A": "bunny", "B": "hare", "C": "rabbit", "D": "rat", "correct": "B" }
+    ]
+  },
+  {
+    "english": "race",
+    "pron": "reɪs",
+    "kana": "レイス",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "古ノルド語 rás（走り・流れ）",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "多義語"],
+    "meaning_main": "競走・レース／人種／競争する・速く走る",
+    "description": "race の意味・発音・例文・語源を解説。「競走」と「人種」というまったく別の二つの意味を持つ多義語で、使い分けのコツも紹介します。",
+    "keywords": ["race 意味", "race 発音", "race 競走 人種", "race 使い方"],
+    "meanings": [
+      { "hinshi": "【名詞】競走・レース", "note": "速さを競う競技。a 100-meter race（100メートル走）など。" },
+      { "hinshi": "【名詞】人種・民族", "note": "people of different races（さまざまな人種の人々）。" },
+      { "hinshi": "【動詞】競走する・速く走る", "note": "race against time（時間と競争する）のようにも使う。" }
+    ],
+    "usages": [
+      { "title": "① 競走・レースとして", "desc": "スポーツや乗り物の競争でもっともよく使う意味です。", "example_en": "She won the 100-meter race.", "example_ja": "彼女は100メートル走で優勝した。" },
+      { "title": "② 人種・民族として", "desc": "社会・人権の話題で使われる重要な意味です。", "example_en": "People of all races live together in this city.", "example_ja": "この街ではあらゆる人種の人々が共に暮らしている。" },
+      { "title": "③ 動詞「急ぐ・競う」として", "desc": "「全力で急ぐ」というニュアンスでも使えます。", "example_en": "We raced to catch the last train.", "example_ja": "私たちは終電に間に合うよう急いだ。" }
+    ],
+    "warn": [
+      "「人種」の意味の race はデリケートな話題なので、文脈に注意して使う。",
+      "「競走」と「人種」は同じつづりだが語源が異なる別の単語。文脈で判断する。"
+    ],
+    "etym_note": "「競走」の race は古ノルド語 rás（走り・流れ）に由来します。一方「人種」の race は16世紀にフランス語・イタリア語経由で入った別系統の語です。",
+    "etym_chain": [
+      { "node": "rás", "sub": "走り・流れ", "era": "古ノルド語" },
+      { "node": "race", "sub": "走ること・競走", "era": "中英語" },
+      { "node": "race", "sub": "競走／人種", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "win a race", "ja": "レースに勝つ" },
+      { "en": "lose a race", "ja": "レースに負ける" },
+      { "en": "a horse race", "ja": "競馬" },
+      { "en": "the human race", "ja": "人類" },
+      { "en": "race against time", "ja": "時間との戦い" },
+      { "en": "an arms race", "ja": "軍拡競争" },
+      { "en": "race car", "ja": "レーシングカー" }
+    ],
+    "related": [
+      { "en": "racer", "ja": "競走者・レーサー" },
+      { "en": "compete", "ja": "競争する" },
+      { "en": "speed", "ja": "速さ・スピード" },
+      { "en": "nation", "ja": "国民・民族" }
+    ],
+    "faq": [
+      { "q": "race はなぜ「競走」と「人種」の両方を意味するの？", "a": "実は語源が違う別々の単語が、たまたま同じつづり・発音になったものです。文脈でどちらの意味か判断します。" },
+      { "q": "「人類」は英語で何と言う？", "a": "the human race または humankind と言います。" }
+    ],
+    "quiz": [
+      { "q": "She won the 100-meter ___.（100メートル走で優勝した）", "A": "race", "B": "rice", "C": "road", "D": "rain", "correct": "A" },
+      { "q": "the human ___ で「人類」を表す単語は？", "A": "race", "B": "place", "C": "face", "D": "space", "correct": "A" }
+    ]
+  },
+  {
+    "english": "radio",
+    "pron": "ˈreɪdioʊ",
+    "kana": "レイディオウ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "ラテン語 radius（光線）由来の radio-",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A1", "身近な機器"],
+    "meaning_main": "ラジオ／無線（で連絡する）",
+    "description": "radio の意味・発音・例文・語源を解説。日本語の「ラジオ」と発音が違う点に注意。on the radio（ラジオで）などの表現も紹介します。",
+    "keywords": ["radio 意味", "radio 発音", "radio ラジオ 英語", "on the radio"],
+    "meanings": [
+      { "hinshi": "【名詞】ラジオ（放送・受信機）", "note": "listen to the radio（ラジオを聞く）。" },
+      { "hinshi": "【名詞】無線（通信）", "note": "電波を使った通信のしくみそのものも指す。" },
+      { "hinshi": "【動詞】無線で連絡する", "note": "radio for help（無線で助けを求める）。" }
+    ],
+    "usages": [
+      { "title": "① 放送・受信機としての「ラジオ」", "desc": "もっとも身近な使い方。冠詞は the をつけることが多いです。", "example_en": "I listen to the radio every morning.", "example_ja": "私は毎朝ラジオを聞きます。" },
+      { "title": "② 無線で連絡する（動詞）", "desc": "船・飛行機・警察などが無線で交信する場面で使います。", "example_en": "The pilot radioed the control tower.", "example_ja": "パイロットは管制塔に無線で連絡した。" }
+    ],
+    "warn": [
+      "発音は「ラジオ」ではなく「レイディオウ」。日本語のカタカナ発音と大きく異なる。",
+      "「ラジオで（放送で）」は on the radio。in ではない点に注意。"
+    ],
+    "etym_note": "「光線」を意味するラテン語 radius に由来する radio-（放射）から生まれた語で、電波を四方に「放射」して伝える通信を表します。",
+    "etym_chain": [
+      { "node": "radius", "sub": "光線・放射", "era": "ラテン語" },
+      { "node": "radio-", "sub": "放射の", "era": "近代" },
+      { "node": "radio", "sub": "ラジオ・無線", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "listen to the radio", "ja": "ラジオを聞く" },
+      { "en": "on the radio", "ja": "ラジオで（放送中）" },
+      { "en": "turn on the radio", "ja": "ラジオをつける" },
+      { "en": "turn off the radio", "ja": "ラジオを消す" },
+      { "en": "a radio station", "ja": "ラジオ局" },
+      { "en": "a car radio", "ja": "カーラジオ" }
+    ],
+    "related": [
+      { "en": "television", "ja": "テレビ" },
+      { "en": "broadcast", "ja": "放送（する）" },
+      { "en": "wireless", "ja": "無線の" },
+      { "en": "signal", "ja": "信号・電波" }
+    ],
+    "faq": [
+      { "q": "「ラジオで聞いた」は in the radio？ on the radio？", "a": "on the radio が正しい表現です。放送・電波に「乗って」というイメージで on を使います。" },
+      { "q": "radio の複数形は？", "a": "radios です。-o で終わりますが es ではなく s をつけます。" }
+    ],
+    "quiz": [
+      { "q": "I listen to the ___ every morning.（毎朝ラジオを聞く）", "A": "radio", "B": "ratio", "C": "radar", "D": "ready", "correct": "A" },
+      { "q": "「ラジオで」を表す正しい前置詞は？", "A": "in the radio", "B": "on the radio", "C": "at the radio", "D": "by the radio", "correct": "B" }
+    ]
+  },
+  {
+    "english": "rail",
+    "pron": "reɪl",
+    "kana": "レイル",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "ラテン語 regula（まっすぐな棒・定規）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "交通"],
+    "meaning_main": "レール・線路／手すり・柵／鉄道",
+    "description": "rail の意味・発音・例文・語源を解説。「線路」だけでなく「手すり」「鉄道（by rail）」の意味もある便利な単語です。",
+    "keywords": ["rail 意味", "rail 発音", "rail 線路 手すり", "by rail"],
+    "meanings": [
+      { "hinshi": "【名詞】レール・線路", "note": "電車が走る2本の鋼鉄の棒。複数形 rails で使うことが多い。" },
+      { "hinshi": "【名詞】手すり・横木・柵", "note": "階段やバルコニーの手すり、囲いの横棒など。" },
+      { "hinshi": "【名詞】鉄道（交通手段）", "note": "by rail で「鉄道で」。" }
+    ],
+    "usages": [
+      { "title": "① 線路・レールとして", "desc": "電車・列車が走る金属の軌道を指します。", "example_en": "The train ran off the rails.", "example_ja": "列車が線路から脱線した。" },
+      { "title": "② 手すり・柵として", "desc": "つかまる横棒や囲いの棒を表します。", "example_en": "Hold on to the rail when you go down the stairs.", "example_ja": "階段を下りるときは手すりにつかまりなさい。" },
+      { "title": "③ 交通手段「鉄道」として", "desc": "by rail で移動手段を表します。", "example_en": "We traveled to Osaka by rail.", "example_ja": "私たちは鉄道で大阪まで行った。" }
+    ],
+    "warn": [
+      "「鉄道で行く」は by rail（無冠詞）。by train とほぼ同じ意味。",
+      "off the rails は「脱線して」→比喩で「（人生・計画が）狂って」の意味にもなる。"
+    ],
+    "etym_note": "「まっすぐな棒・定規」を意味するラテン語 regula に由来します。まっすぐ伸びる棒というイメージから「手すり」「レール」へと意味が広がりました。",
+    "etym_chain": [
+      { "node": "regula", "sub": "まっすぐな棒・定規", "era": "ラテン語" },
+      { "node": "reille", "sub": "横木・棒", "era": "古フランス語" },
+      { "node": "rail", "sub": "レール・手すり", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "by rail", "ja": "鉄道で" },
+      { "en": "a hand rail", "ja": "手すり" },
+      { "en": "off the rails", "ja": "脱線して／狂って" },
+      { "en": "a guard rail", "ja": "ガードレール" },
+      { "en": "rail track", "ja": "線路" },
+      { "en": "a towel rail", "ja": "タオル掛け" }
+    ],
+    "related": [
+      { "en": "railway", "ja": "鉄道（英）" },
+      { "en": "railroad", "ja": "鉄道（米）" },
+      { "en": "track", "ja": "線路・軌道" },
+      { "en": "train", "ja": "列車" }
+    ],
+    "faq": [
+      { "q": "rail と railway の違いは？", "a": "rail は「レール・線路」や「鉄道（手段）」を指す語、railway は線路や駅を含む「鉄道システム全体」を指す語です。" },
+      { "q": "off the rails はどういう意味？", "a": "文字どおりは「脱線して」、比喩では「（計画や人が）正常な状態から外れて」という意味になります。" }
+    ],
+    "quiz": [
+      { "q": "Hold on to the ___ on the stairs.（階段では手すりにつかまって）", "A": "rail", "B": "rain", "C": "tail", "D": "mail", "correct": "A" },
+      { "q": "「鉄道で旅行した」を表すのはどれ？", "A": "by rail", "B": "in rail", "C": "on rail", "D": "at rail", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rain",
+    "pron": "reɪn",
+    "kana": "レイン",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "古英語 regn（雨）",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "天気"],
+    "meaning_main": "雨／雨が降る",
+    "description": "rain の意味・発音・例文・語源を解説。天気を表す基本中の基本の単語で、It rains. の主語 it の使い方も紹介します。",
+    "keywords": ["rain 意味", "rain 発音", "rain 雨 英語", "It rains 使い方"],
+    "meanings": [
+      { "hinshi": "【名詞】雨", "note": "数えられない名詞。heavy rain（大雨）、light rain（小雨）。" },
+      { "hinshi": "【動詞】雨が降る", "note": "天気の it を主語にして It rains. と言う。" },
+      { "hinshi": "【動詞】（比喩）降り注ぐ", "note": "rain down で「雨のように降りそそぐ」。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「雨」として", "desc": "天気を語るときの基本語です。", "example_en": "We had a lot of rain last night.", "example_ja": "昨夜はたくさん雨が降った。" },
+      { "title": "② 動詞「雨が降る」として", "desc": "主語に天気の it を使うのがポイントです。", "example_en": "It is raining hard outside.", "example_ja": "外は激しく雨が降っている。" }
+    ],
+    "warn": [
+      "動詞で使うときの主語は it。It rains.／It is raining. のように言う。",
+      "rain（雨）と reign（統治）と rein（手綱）は発音が同じ同音異義語。つづりに注意。"
+    ],
+    "etym_note": "古英語 regn に由来し、ドイツ語 Regen などゲルマン語の仲間とつながる、非常に古い基礎語です。",
+    "etym_chain": [
+      { "node": "regn", "sub": "雨", "era": "古英語" },
+      { "node": "reyn", "sub": "雨", "era": "中英語" },
+      { "node": "rain", "sub": "雨・雨が降る", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "heavy rain", "ja": "大雨" },
+      { "en": "in the rain", "ja": "雨の中で" },
+      { "en": "It looks like rain.", "ja": "雨が降りそうだ" },
+      { "en": "rain or shine", "ja": "晴雨にかかわらず・何があっても" },
+      { "en": "rain cats and dogs", "ja": "土砂降りに降る" },
+      { "en": "a rainy day", "ja": "雨の日／まさかの時" }
+    ],
+    "related": [
+      { "en": "rainy", "ja": "雨の（形容詞）" },
+      { "en": "snow", "ja": "雪" },
+      { "en": "cloud", "ja": "雲" },
+      { "en": "umbrella", "ja": "傘" }
+    ],
+    "faq": [
+      { "q": "「雨が降っている」は英語で？", "a": "It is raining. と言います。主語は天気を表す it を使います。" },
+      { "q": "rain cats and dogs ってどんな意味？", "a": "「土砂降りに雨が降る」という意味の有名な慣用句です。" }
+    ],
+    "quiz": [
+      { "q": "It is ___ hard outside.（外は激しく雨が降っている）", "A": "raining", "B": "rain", "C": "rained", "D": "rains", "correct": "A" },
+      { "q": "rain と同じ発音の単語はどれ？", "A": "ran", "B": "reign", "C": "run", "D": "rim", "correct": "B" }
+    ]
+  },
+  {
+    "english": "rainbow",
+    "pron": "ˈreɪnboʊ",
+    "kana": "レインボウ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rain（雨）＋ bow（弓・弧）",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A1", "自然"],
+    "meaning_main": "虹",
+    "description": "rainbow（虹）の意味・発音・例文・語源を解説。rain（雨）と bow（弓）が合わさった語で、多様性の象徴としての使い方も紹介します。",
+    "keywords": ["rainbow 意味", "rainbow 発音", "rainbow 虹 英語", "rainbow 語源"],
+    "meanings": [
+      { "hinshi": "【名詞】虹", "note": "雨上がりに空にかかる七色の弧。" },
+      { "hinshi": "【名詞】（比喩）多彩なもの・希望", "note": "色とりどりであることや、希望の象徴としても使う。" }
+    ],
+    "usages": [
+      { "title": "① 自然現象の「虹」として", "desc": "雨上がりの空に現れる虹そのものを表します。", "example_en": "A beautiful rainbow appeared after the rain.", "example_ja": "雨上がりに美しい虹が現れた。" },
+      { "title": "② 色彩・多様性の象徴として", "desc": "「七色＝多彩」のイメージから比喩的にも使われます。", "example_en": "The flag is a rainbow of colors.", "example_ja": "その旗は色とりどりの虹のようだ。" }
+    ],
+    "warn": [
+      "つづりは rain ＋ bow。bow は「弓・弧」の意味で、ここでは「ボウ」と読む。",
+      "虹は「ひとつの弧」なので a rainbow と数えられる名詞。"
+    ],
+    "etym_note": "rain（雨）と bow（弓・弧）を組み合わせた語で、「雨の弓」つまり空にかかる弓のような弧を表します。古英語 renboga に由来します。",
+    "etym_chain": [
+      { "node": "renboga", "sub": "雨の弓", "era": "古英語" },
+      { "node": "reinbowe", "sub": "虹", "era": "中英語" },
+      { "node": "rainbow", "sub": "虹", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "see a rainbow", "ja": "虹を見る" },
+      { "en": "a double rainbow", "ja": "二重の虹" },
+      { "en": "the colors of the rainbow", "ja": "虹の色（七色）" },
+      { "en": "chase rainbows", "ja": "実現しない夢を追う" },
+      { "en": "over the rainbow", "ja": "虹の向こうに・理想郷へ" },
+      { "en": "a rainbow flag", "ja": "レインボーフラッグ" }
+    ],
+    "related": [
+      { "en": "rain", "ja": "雨" },
+      { "en": "color", "ja": "色" },
+      { "en": "sky", "ja": "空" },
+      { "en": "sunlight", "ja": "日光" }
+    ],
+    "faq": [
+      { "q": "rainbow の bow はどう読む？", "a": "「弓・弧」の意味の bow で、発音は「ボウ」です。「おじぎ」の bow と同じ発音です。" },
+      { "q": "chase rainbows はどんな意味？", "a": "「かなわない夢や非現実的な目標を追いかける」という意味の表現です。" }
+    ],
+    "quiz": [
+      { "q": "A beautiful ___ appeared after the rain.（雨上がりに虹が現れた）", "A": "rainbow", "B": "window", "C": "shadow", "D": "yellow", "correct": "A" },
+      { "q": "rainbow は何と何が合わさった語？", "A": "rain ＋ bow", "B": "rail ＋ now", "C": "ray ＋ bow", "D": "run ＋ bow", "correct": "A" }
+    ]
+  },
+  {
+    "english": "raise",
+    "pron": "reɪz",
+    "kana": "レイズ",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "古ノルド語 reisa（立たせる・上げる）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "多義語"],
+    "meaning_main": "上げる・育てる・（資金を）集める／昇給",
+    "description": "raise の意味・発音・例文・語源を解説。「上げる」「育てる」「集める」と意味が広く、rise との違いも分かりやすく紹介します。",
+    "keywords": ["raise 意味", "raise 発音", "raise rise 違い", "raise 使い方"],
+    "meanings": [
+      { "hinshi": "【動詞】（物を）上げる・持ち上げる", "note": "raise your hand（手を挙げる）。必ず目的語をとる他動詞。" },
+      { "hinshi": "【動詞】（子ども・動物を）育てる", "note": "raise children（子どもを育てる）。" },
+      { "hinshi": "【動詞】（お金を）集める", "note": "raise money for charity（慈善のために募金する）。" },
+      { "hinshi": "【名詞】昇給（米）", "note": "get a raise（昇給する）。英では rise。" }
+    ],
+    "usages": [
+      { "title": "① 「上げる・挙げる」として", "desc": "手・値段・声などを「上に上げる」基本の使い方です。", "example_en": "Please raise your hand if you have a question.", "example_ja": "質問があれば手を挙げてください。" },
+      { "title": "② 「育てる」として", "desc": "子どもや家畜・作物を育てる意味でも頻出です。", "example_en": "They raised three children in this town.", "example_ja": "彼らはこの町で3人の子どもを育てた。" },
+      { "title": "③ 「（資金などを）集める」として", "desc": "お金や意識・問題を「高める・引き起こす」意味でも使います。", "example_en": "We raised a lot of money for the school.", "example_ja": "私たちは学校のために多くの資金を集めた。" }
+    ],
+    "warn": [
+      "raise は必ず目的語が必要な他動詞（raise something）。rise は目的語をとらない自動詞。",
+      "rise–rose–risen（自動詞）と raise–raised–raised（他動詞）の活用も区別する。"
+    ],
+    "etym_note": "古ノルド語 reisa（立たせる・上げる）に由来し、rise（自分が上がる）の「使役（〜を上げる）」にあたる語として発達しました。",
+    "etym_chain": [
+      { "node": "reisa", "sub": "立たせる・上げる", "era": "古ノルド語" },
+      { "node": "reisen", "sub": "上げる", "era": "中英語" },
+      { "node": "raise", "sub": "上げる・育てる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "raise your hand", "ja": "手を挙げる" },
+      { "en": "raise money", "ja": "資金を集める・募金する" },
+      { "en": "raise a child", "ja": "子どもを育てる" },
+      { "en": "raise a question", "ja": "問題を提起する" },
+      { "en": "raise prices", "ja": "値段を上げる" },
+      { "en": "get a raise", "ja": "昇給する" }
+    ],
+    "related": [
+      { "en": "rise", "ja": "上がる（自動詞）" },
+      { "en": "lift", "ja": "持ち上げる" },
+      { "en": "grow", "ja": "育てる・育つ" },
+      { "en": "increase", "ja": "増やす・増える" }
+    ],
+    "faq": [
+      { "q": "raise と rise の違いは？", "a": "raise は「〜を上げる」と目的語が必要な他動詞、rise は「上がる」と目的語をとらない自動詞です。The sun rises.／I raise my hand. のように使い分けます。" },
+      { "q": "「昇給」は raise？ rise？", "a": "アメリカ英語では a raise、イギリス英語では a rise を使います。" }
+    ],
+    "quiz": [
+      { "q": "Please ___ your hand if you have a question.（質問があれば手を挙げて）", "A": "raise", "B": "rise", "C": "rose", "D": "risen", "correct": "A" },
+      { "q": "目的語が必要な他動詞はどっち？", "A": "rise", "B": "raise", "C": "arise", "D": "arose", "correct": "B" }
+    ]
+  },
+  {
+    "english": "rapid",
+    "pron": "ˈræpɪd",
+    "kana": "ラピッド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 rapidus（ひったくるように速い）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "形容詞"],
+    "meaning_main": "急速な・すばやい",
+    "description": "rapid の意味・発音・例文・語源を解説。fast や quick との違い、rapidly（副詞）や名詞 rapids（急流）への広がりも紹介します。",
+    "keywords": ["rapid 意味", "rapid 発音", "rapid fast 違い", "rapid rapidly"],
+    "meanings": [
+      { "hinshi": "【形容詞】急速な・すばやい", "note": "変化や成長の速さを表すことが多い。rapid growth（急成長）。" },
+      { "hinshi": "【名詞】(rapids) 急流", "note": "通常複数形で川の流れの速い場所を指す。" }
+    ],
+    "usages": [
+      { "title": "① 「急速な変化・成長」として", "desc": "数値や状況がすばやく変わる様子を表すフォーマルな語です。", "example_en": "The city has seen rapid economic growth.", "example_ja": "その都市は急速な経済成長をとげた。" },
+      { "title": "② 「すばやい動作」として", "desc": "動きや反応の速さにも使えます。", "example_en": "He made a rapid recovery after the operation.", "example_ja": "彼は手術後すばやく回復した。" }
+    ],
+    "warn": [
+      "rapid はやや硬い語で「変化・成長の速さ」に好まれる。日常会話の「速い」は fast / quick が普通。",
+      "副詞は rapidly。名詞の rapids（複数形）は「急流」を指す。"
+    ],
+    "etym_note": "ラテン語 rapidus（ひったくるように速い）に由来します。rapidus はさらに rapere（つかみ取る）から来ており、勢いよく素早い様子を表します。",
+    "etym_chain": [
+      { "node": "rapere", "sub": "つかみ取る", "era": "ラテン語" },
+      { "node": "rapidus", "sub": "速い・激しい", "era": "ラテン語" },
+      { "node": "rapid", "sub": "急速な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rapid growth", "ja": "急成長" },
+      { "en": "rapid change", "ja": "急激な変化" },
+      { "en": "a rapid increase", "ja": "急増" },
+      { "en": "rapid progress", "ja": "急速な進歩" },
+      { "en": "a rapid recovery", "ja": "すばやい回復" },
+      { "en": "rapid transit", "ja": "高速輸送（鉄道）" }
+    ],
+    "related": [
+      { "en": "rapidly", "ja": "急速に（副詞）" },
+      { "en": "fast", "ja": "速い" },
+      { "en": "quick", "ja": "すばやい" },
+      { "en": "swift", "ja": "迅速な" }
+    ],
+    "faq": [
+      { "q": "rapid と fast の違いは？", "a": "fast は「動きが速い」一般的な語、rapid は「変化や成長が急速」というニュアンスで、ややフォーマルです。" },
+      { "q": "rapid の副詞形は？", "a": "rapidly（急速に）です。The number grew rapidly. のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The city has seen ___ economic growth.（急速な経済成長）", "A": "rapid", "B": "rabbit", "C": "ready", "D": "rare", "correct": "A" },
+      { "q": "rapid の副詞形はどれ？", "A": "rapidive", "B": "rapidly", "C": "rapidness", "D": "rapider", "correct": "B" }
+    ]
+  },
+  {
+    "english": "rare",
+    "pron": "rer",
+    "kana": "レア",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 rarus（まばらな・少ない）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "形容詞"],
+    "meaning_main": "まれな・珍しい／（肉が）レアの",
+    "description": "rare の意味・発音・例文・語源を解説。「珍しい」だけでなくステーキの「レア」の意味もある単語で、rarely（めったに〜ない）も紹介します。",
+    "keywords": ["rare 意味", "rare 発音", "rare 珍しい レア", "rarely 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】まれな・珍しい", "note": "数が少なくめったに見られないこと。a rare animal（珍しい動物）。" },
+      { "hinshi": "【形容詞】（肉が）生焼けの・レアの", "note": "ステーキの焼き加減。中が赤い状態。" }
+    ],
+    "usages": [
+      { "title": "① 「珍しい・まれな」として", "desc": "数が少なくめったにない様子を表す基本の意味です。", "example_en": "It is rare to see snow in this region.", "example_ja": "この地域で雪が見られるのは珍しい。" },
+      { "title": "② 肉の焼き加減「レア」として", "desc": "ステーキなどの焼き加減を表す使い方です。", "example_en": "I would like my steak rare.", "example_ja": "ステーキはレアでお願いします。" }
+    ],
+    "warn": [
+      "副詞 rarely は「めったに〜ない」という否定的な意味。It rarely rains here.（ここではめったに雨が降らない）。",
+      "rare（珍しい）と rear（後ろの・育てる）はつづりも発音も違う別語。混同しない。"
+    ],
+    "etym_note": "ラテン語 rarus（まばらな・密度が低い）に由来します。「すきまが多い＝数が少ない」というイメージから「珍しい」の意味になりました。",
+    "etym_chain": [
+      { "node": "rarus", "sub": "まばらな・少ない", "era": "ラテン語" },
+      { "node": "rare", "sub": "珍しい・まれな", "era": "中英語" },
+      { "node": "rare", "sub": "珍しい／（肉が）レアの", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rare animal", "ja": "珍しい動物" },
+      { "en": "a rare chance", "ja": "めったにない機会" },
+      { "en": "on rare occasions", "ja": "まれに・ごくたまに" },
+      { "en": "rare and valuable", "ja": "珍しくて貴重な" },
+      { "en": "a rare steak", "ja": "レアのステーキ" },
+      { "en": "a rare disease", "ja": "まれな病気・難病" }
+    ],
+    "related": [
+      { "en": "rarely", "ja": "めったに〜ない（副詞）" },
+      { "en": "unusual", "ja": "ふつうでない・珍しい" },
+      { "en": "uncommon", "ja": "まれな" },
+      { "en": "common", "ja": "ありふれた（反対語）" }
+    ],
+    "faq": [
+      { "q": "rare と rarely の違いは？", "a": "rare は形容詞「珍しい」、rarely は副詞「めったに〜しない」です。a rare event（珍しい出来事）／He rarely comes.（彼はめったに来ない）。" },
+      { "q": "ステーキの『レア』は rare で合っている？", "a": "はい。rare（中が赤い）→ medium（中ぐらい）→ well-done（よく焼いた）の順で焼き加減を表します。" }
+    ],
+    "quiz": [
+      { "q": "It is ___ to see snow in this region.（雪が見られるのは珍しい）", "A": "rare", "B": "rich", "C": "real", "D": "ride", "correct": "A" },
+      { "q": "「めったに〜ない」を表す副詞はどれ？", "A": "rarely", "B": "really", "C": "nearly", "D": "early", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rat",
+    "pron": "ræt",
+    "kana": "ラット",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 ræt（ネズミ）",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "動物"],
+    "meaning_main": "（大型の）ネズミ・ドブネズミ",
+    "description": "rat の意味・発音・例文・語源を解説。mouse（小型のネズミ）との違いや、「裏切り者」というスラング的な意味も紹介します。",
+    "keywords": ["rat 意味", "rat 発音", "rat mouse 違い", "rat ネズミ 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】ネズミ・ドブネズミ", "note": "mouse より大型のネズミ。実験動物としても有名。" },
+      { "hinshi": "【名詞】（俗）裏切り者・卑劣な人", "note": "口語で「密告者・裏切り者」を指すことがある。" }
+    ],
+    "usages": [
+      { "title": "① 動物の「ネズミ」として", "desc": "mouse より大きいネズミを指すのが基本です。", "example_en": "A big rat ran across the kitchen floor.", "example_ja": "大きなネズミが台所の床を走り抜けた。" },
+      { "title": "② 比喩「裏切り者」として", "desc": "口語では人をののしる言葉としても使われます。", "example_en": "Don't trust him; he's a rat.", "example_ja": "彼を信用するな、裏切り者だ。" }
+    ],
+    "warn": [
+      "rat（大型のネズミ）と mouse（小型のネズミ）は別の語。mouse の複数形は mice、rat は rats。",
+      "「ネズミ年（子年）」は the Year of the Rat と言う。"
+    ],
+    "etym_note": "古英語 ræt に由来する古いゲルマン系の語で、ヨーロッパの多くの言語に似た形が見られます。",
+    "etym_chain": [
+      { "node": "ræt", "sub": "ネズミ", "era": "古英語" },
+      { "node": "ratte", "sub": "ネズミ", "era": "中英語" },
+      { "node": "rat", "sub": "ネズミ・ドブネズミ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a lab rat", "ja": "実験用ネズミ" },
+      { "en": "the rat race", "ja": "出世競争・激しい生存競争" },
+      { "en": "smell a rat", "ja": "怪しいと感づく" },
+      { "en": "a sewer rat", "ja": "ドブネズミ" },
+      { "en": "the Year of the Rat", "ja": "子（ね）年" },
+      { "en": "rats!", "ja": "ちぇっ！（くやしさを表す）" }
+    ],
+    "related": [
+      { "en": "mouse", "ja": "（小型の）ネズミ" },
+      { "en": "mice", "ja": "mouse の複数形" },
+      { "en": "rodent", "ja": "げっ歯類" },
+      { "en": "hamster", "ja": "ハムスター" }
+    ],
+    "faq": [
+      { "q": "rat と mouse の違いは？", "a": "rat は大型のネズミ（ドブネズミなど）、mouse は小型のネズミ（ハツカネズミなど）を指します。" },
+      { "q": "smell a rat ってどういう意味？", "a": "「何かおかしい・怪しいと感づく」という意味の慣用表現です。" }
+    ],
+    "quiz": [
+      { "q": "A big ___ ran across the kitchen floor.（大きなネズミが床を走った）", "A": "rat", "B": "rate", "C": "rain", "D": "road", "correct": "A" },
+      { "q": "小型のネズミを表す単語はどれ？", "A": "rat", "B": "mouse", "C": "rabbit", "D": "rodent", "correct": "B" }
+    ]
+  }
+]
