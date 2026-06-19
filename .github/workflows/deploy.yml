@@ -1,0 +1,41 @@
+name: Deploy to Lolipop
+
+# 「Run workflow」ボタン（ワンボタン）で実行。main への push でも自動実行。
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: リポジトリを取得
+        uses: actions/checkout@v4
+
+      - name: Python を準備
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: HTML を生成（data/*.json -> word/word/*.html）
+        run: python3 generate.py
+
+      - name: lftp を準備
+        run: sudo apt-get update -qq && sudo apt-get install -y lftp
+
+      # アップロードのみ。--delete を付けないので、サーバー上の他の単語ページは消えません。
+      - name: ロリポップへアップロード（削除なし同期）
+        env:
+          FTP_SERVER: ftp.lolipop.jp
+          FTP_USERNAME: lolipop.jp-dp07302908
+          FTP_PASSWORD: 2021eigoduke
+        run: |
+          lftp -c "
+            set ftp:ssl-allow true;
+            set ftp:ssl-protect-data true;
+            set ssl:verify-certificate no;
+            open -u '$FTP_USERNAME','$FTP_PASSWORD' '$FTP_SERVER';
+            mirror -R --only-newer --parallel=4 ./word/word/ /word/word/;
+          "
+          # FTPS で接続できない場合は、上の set ftp:ssl-allow を false にして再実行してください。
