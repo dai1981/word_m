@@ -1,0 +1,531 @@
+[
+  {
+    "english": "ranch",
+    "pron": "ræntʃ",
+    "kana": "ランチ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "スペイン語 rancho（小屋・集まり）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "場所"],
+    "meaning_main": "牧場・大農場",
+    "description": "ranch の意味・発音・例文・語源を解説。アメリカの「牧場」を表す語で、farm との違いや、語源のスペイン語 rancho も分かりやすく紹介します。",
+    "keywords": ["ranch 意味", "ranch 発音", "ranch farm 違い", "ranch 牧場"],
+    "meanings": [
+      { "hinshi": "【名詞】牧場・大農場", "note": "おもに牛・馬などを放牧する広い農場。a cattle ranch（牛の牧場）。" }
+    ],
+    "usages": [
+      { "title": "① 「牧場」として", "desc": "家畜を飼う広大な農場を表します。", "example_en": "They raise cattle on a large ranch in Texas.", "example_ja": "彼らはテキサスの大きな牧場で牛を育てている。" },
+      { "title": "② 関連語とともに", "desc": "rancher（牧場主）などと使います。", "example_en": "The rancher rode his horse across the field.", "example_ja": "牧場主は馬に乗って野原を横切った。" }
+    ],
+    "warn": [
+      "ranch は『（放牧中心の）牧場・大農場』、farm はより一般的な『農場』。",
+      "発音は『ランチ』だが、昼食 lunch /lʌntʃ/ とは母音が違う。"
+    ],
+    "etym_note": "スペイン語 rancho（小屋・宿営・人の集まり）に由来し、メキシコ経由でアメリカ英語に入りました。西部開拓時代に『牧場』の意味で広まりました。",
+    "etym_chain": [
+      { "node": "rancho", "sub": "小屋・集まり", "era": "スペイン語" },
+      { "node": "ranch", "sub": "牧場", "era": "19世紀" },
+      { "node": "ranch", "sub": "牧場・大農場", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a cattle ranch", "ja": "牛の牧場" },
+      { "en": "a horse ranch", "ja": "馬の牧場" },
+      { "en": "live on a ranch", "ja": "牧場で暮らす" },
+      { "en": "a ranch house", "ja": "平屋建ての家・牧場の家" },
+      { "en": "run a ranch", "ja": "牧場を経営する" },
+      { "en": "a dude ranch", "ja": "観光牧場" }
+    ],
+    "related": [
+      { "en": "farm", "ja": "農場" },
+      { "en": "rancher", "ja": "牧場主" },
+      { "en": "cattle", "ja": "牛" },
+      { "en": "cowboy", "ja": "カウボーイ" }
+    ],
+    "faq": [
+      { "q": "ranch と farm の違いは？", "a": "ranch はおもに牛・馬などを放牧する『牧場・大農場』、farm は作物や家畜を育てる一般的な『農場』です。" },
+      { "q": "ranch の発音は lunch と同じ？", "a": "いいえ。ranch は /ræntʃ/「ラ」、lunch は /lʌntʃ/「ラ（あいまい母音）」で母音が違います。" }
+    ],
+    "quiz": [
+      { "q": "They raise cattle on a large ___ in Texas.（牧場）", "A": "ranch", "B": "lunch", "C": "branch", "D": "bench", "correct": "A" },
+      { "q": "「牧場主」を表すのはどれ？", "A": "rancher", "B": "ranchman の標準ではない", "C": "ranchist", "D": "ranchor", "correct": "A" }
+    ]
+  },
+  {
+    "english": "refund",
+    "pron": "名:ˈriːfʌnd 動:rɪˈfʌnd",
+    "kana": "名:リーファンド 動:リファンド",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "ラテン語 refundere（注ぎ戻す・払い戻す）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "お金"],
+    "meaning_main": "払い戻し・返金／払い戻す",
+    "description": "refund の意味・発音・例文・語源を解説。get a refund（返金してもらう）の使い方や、名詞と動詞のアクセントの違いも分かりやすく紹介します。",
+    "keywords": ["refund 意味", "refund 発音 アクセント", "get a refund 使い方", "refund 返金"],
+    "meanings": [
+      { "hinshi": "【名詞】払い戻し・返金", "note": "アクセントは前。get a refund（返金を受ける）。" },
+      { "hinshi": "【動詞】払い戻す・返金する", "note": "アクセントは後ろ。refund the money（お金を返す）。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「返金」として", "desc": "支払ったお金を返してもらうことです。", "example_en": "Can I get a refund for this ticket?", "example_ja": "このチケットを返金してもらえますか。" },
+      { "title": "② 動詞「払い戻す」として", "desc": "店などがお金を返す意味です。", "example_en": "The store refunded my money in full.", "example_ja": "その店は全額返金してくれた。" }
+    ],
+    "warn": [
+      "名詞は前にアクセント（RE-fund）、動詞は後ろ（re-FUND）になりやすい。record・reject と同じパターン。",
+      "a full refund は『全額返金』。a refund policy は『返金規定』。"
+    ],
+    "etym_note": "ラテン語 refundere（re-「戻して」＋ fundere「注ぐ」＝注ぎ戻す）に由来します。fund（資金）と同じ語源で、「お金を注ぎ戻す＝払い戻す」が原義です。",
+    "etym_chain": [
+      { "node": "refundere", "sub": "注ぎ戻す", "era": "ラテン語" },
+      { "node": "refunden", "sub": "払い戻す", "era": "中英語" },
+      { "node": "refund", "sub": "払い戻し・払い戻す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "get a refund", "ja": "返金してもらう" },
+      { "en": "a full refund", "ja": "全額返金" },
+      { "en": "ask for a refund", "ja": "返金を求める" },
+      { "en": "a refund policy", "ja": "返金規定" },
+      { "en": "refund the money", "ja": "お金を払い戻す" },
+      { "en": "a tax refund", "ja": "税金の還付" }
+    ],
+    "related": [
+      { "en": "repay", "ja": "返済する" },
+      { "en": "return", "ja": "返す" },
+      { "en": "reimburse", "ja": "弁済する・払い戻す" },
+      { "en": "money", "ja": "お金" }
+    ],
+    "faq": [
+      { "q": "refund のアクセントは？", "a": "名詞は前（RE-fund）、動詞は後ろ（re-FUND）に置かれることが多いです。" },
+      { "q": "get a refund とは？", "a": "『返金してもらう』という意味です。get a refund for〜（〜の返金を受ける）の形で使います。" }
+    ],
+    "quiz": [
+      { "q": "Can I get a ___ for this ticket?（返金）", "A": "refund", "B": "reward", "C": "receipt", "D": "rent", "correct": "A" },
+      { "q": "「全額返金」を表すのはどれ？", "A": "a full refund", "B": "a full reward", "C": "a full return", "D": "a full receipt", "correct": "A" }
+    ]
+  },
+  {
+    "english": "refugee",
+    "pron": "ˌrefjʊˈdʒiː",
+    "kana": "レフュジー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 réfugié（避難した人）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "社会"],
+    "meaning_main": "難民・避難者",
+    "description": "refugee の意味・発音・例文・語源を解説。戦争や迫害から逃れた「難民」を表す語で、refuge（避難所）との関係も分かりやすく紹介します。",
+    "keywords": ["refugee 意味", "refugee 発音", "refuge 違い", "refugee 難民"],
+    "meanings": [
+      { "hinshi": "【名詞】難民・避難者", "note": "戦争・迫害・災害から国外などへ逃れた人。" }
+    ],
+    "usages": [
+      { "title": "① 「難民」として", "desc": "故郷を追われた人々を表す重要な社会語です。", "example_en": "Many refugees fled the war-torn country.", "example_ja": "多くの難民が戦争で荒れた国から逃れた。" },
+      { "title": "② 関連の表現とともに", "desc": "a refugee camp（難民キャンプ）などで使います。", "example_en": "Aid was sent to the refugee camp.", "example_ja": "難民キャンプに支援物資が送られた。" }
+    ],
+    "warn": [
+      "refugee（難民＝人）と refuge（避難所・避難＝場所・行為）を区別する。take refuge は『避難する』。",
+      "アクセントは後ろ寄り /ˌrefjʊˈdʒiː/「レフュジー」。"
+    ],
+    "etym_note": "フランス語 réfugié（避難した人。se réfugier「避難する」から）に由来します。refuge（避難所）と同じ語源で、ラテン語 refugium（逃げ場）にさかのぼります。",
+    "etym_chain": [
+      { "node": "refugium", "sub": "逃げ場・避難所", "era": "ラテン語" },
+      { "node": "réfugié", "sub": "避難した人", "era": "フランス語" },
+      { "node": "refugee", "sub": "難民", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a refugee camp", "ja": "難民キャンプ" },
+      { "en": "political refugees", "ja": "政治難民" },
+      { "en": "accept refugees", "ja": "難民を受け入れる" },
+      { "en": "a refugee crisis", "ja": "難民危機" },
+      { "en": "war refugees", "ja": "戦争難民" },
+      { "en": "flee as a refugee", "ja": "難民として逃れる" }
+    ],
+    "related": [
+      { "en": "refuge", "ja": "避難所・避難" },
+      { "en": "immigrant", "ja": "移民" },
+      { "en": "asylum", "ja": "亡命・保護" },
+      { "en": "shelter", "ja": "避難所" }
+    ],
+    "faq": [
+      { "q": "refugee と refuge の違いは？", "a": "refugee は『難民（人）』、refuge は『避難所・避難（場所・行為）』です。take refuge in〜（〜に避難する）のように使います。" },
+      { "q": "refugee と immigrant の違いは？", "a": "refugee は『（迫害・戦争などから）逃れざるを得ない難民』、immigrant は『（よりよい生活を求めて）移り住む移民』です。" }
+    ],
+    "quiz": [
+      { "q": "Many ___ fled the war-torn country.（難民が逃れた）", "A": "refugees", "B": "refuges", "C": "referees", "D": "refunds", "correct": "A" },
+      { "q": "「避難所・避難」を表すのはどれ？", "A": "refuge", "B": "refugee", "C": "refund", "D": "referee", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reign",
+    "pron": "reɪn",
+    "kana": "レイン",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "ラテン語 regnum（王国・統治）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "社会"],
+    "meaning_main": "治世・統治／君臨する・支配する",
+    "description": "reign の意味・発音・例文・語源を解説。rain（雨）・rein（手綱）との同音異義や、during the reign of（〜の治世に）も分かりやすく紹介します。",
+    "keywords": ["reign 意味", "reign 発音", "reign rain rein 違い", "reign 治世"],
+    "meanings": [
+      { "hinshi": "【名詞】治世・在位期間", "note": "王や女王が国を治める期間。during the reign of（〜の治世に）。" },
+      { "hinshi": "【動詞】君臨する・統治する", "note": "reign over a country（国を統治する）。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「治世」として", "desc": "王の在位期間を表します。", "example_en": "Many changes happened during the reign of Queen Victoria.", "example_ja": "ビクトリア女王の治世に多くの変化が起きた。" },
+      { "title": "② 動詞「君臨する」として", "desc": "王として国を治める意味です。", "example_en": "The king reigned for over forty years.", "example_ja": "その王は40年以上にわたり君臨した。" }
+    ],
+    "warn": [
+      "reign（治世）/ rain（雨）/ rein（手綱）はすべて同音 /reɪn/。つづりと意味に注意。",
+      "reign は『君臨する（権威の象徴）』、rule は『（実際に）統治する』のニュアンス。"
+    ],
+    "etym_note": "ラテン語 regnum（王国・統治。rex「王」から）に由来し、古フランス語 reigne を経て英語に入りました。royal・regal と同じ reg-（王・治める）の語根です。",
+    "etym_chain": [
+      { "node": "regnum", "sub": "王国・統治", "era": "ラテン語" },
+      { "node": "reigne", "sub": "治世", "era": "古フランス語" },
+      { "node": "reign", "sub": "治世・君臨する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "during the reign of", "ja": "〜の治世に" },
+      { "en": "reign over", "ja": "〜を統治する" },
+      { "en": "a long reign", "ja": "長い治世" },
+      { "en": "the reign of terror", "ja": "恐怖政治・恐怖時代" },
+      { "en": "reign supreme", "ja": "君臨する・圧倒的である" },
+      { "en": "come to the end of a reign", "ja": "治世が終わる" }
+    ],
+    "related": [
+      { "en": "rule", "ja": "支配する・治める" },
+      { "en": "monarch", "ja": "君主" },
+      { "en": "throne", "ja": "王座" },
+      { "en": "kingdom", "ja": "王国" }
+    ],
+    "faq": [
+      { "q": "reign と rain と rein の違いは？", "a": "発音は同じ /reɪn/ ですが、reign は『治世・君臨する』、rain は『雨』、rein は『手綱』です。つづりで区別します。" },
+      { "q": "reign と rule の違いは？", "a": "reign は『（象徴的に）君臨する・在位する』、rule は『（実権をもって）統治する』というニュアンスです。" }
+    ],
+    "quiz": [
+      { "q": "Many changes happened during the ___ of Queen Victoria.（治世）", "A": "reign", "B": "rain", "C": "rein", "D": "range", "correct": "A" },
+      { "q": "reign と同音でないのはどれ？", "A": "rain", "B": "rein", "C": "range", "D": "（すべて同音ではない）range", "correct": "C" }
+    ]
+  },
+  {
+    "english": "reliable",
+    "pron": "rɪˈlaɪəbəl",
+    "kana": "リライアブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "rely（頼る）＋ -able",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "形容詞"],
+    "meaning_main": "信頼できる・あてになる",
+    "description": "reliable の意味・発音・例文・語源を解説。rely on（頼る）との関係や、反対語 unreliable、a reliable source（信頼できる情報源）も紹介します。",
+    "keywords": ["reliable 意味", "reliable 発音", "rely reliable 関係", "unreliable 反対"],
+    "meanings": [
+      { "hinshi": "【形容詞】信頼できる・あてになる", "note": "人・物・情報が頼りになること。a reliable car（故障しにくい車）。" }
+    ],
+    "usages": [
+      { "title": "① 人について「信頼できる」として", "desc": "頼りになる人柄を表します。", "example_en": "She is a reliable and honest worker.", "example_ja": "彼女は信頼でき正直な働き手だ。" },
+      { "title": "② 物・情報について", "desc": "あてになる物や情報源を表します。", "example_en": "We need information from a reliable source.", "example_ja": "私たちは信頼できる情報源からの情報が必要だ。" }
+    ],
+    "warn": [
+      "動詞は rely on（〜に頼る）。reliable は『頼りにできる』という形容詞。",
+      "反対語は unreliable（あてにならない）。名詞は reliability（信頼性）。"
+    ],
+    "etym_note": "動詞 rely（頼る。古フランス語 relier「結びつける」から）に -able がついた語で、「頼ることができる＝信頼できる」が原義です。",
+    "etym_chain": [
+      { "node": "relier", "sub": "結びつける", "era": "古フランス語" },
+      { "node": "rely", "sub": "頼る", "era": "中英語" },
+      { "node": "reliable", "sub": "信頼できる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a reliable source", "ja": "信頼できる情報源" },
+      { "en": "a reliable person", "ja": "頼りになる人" },
+      { "en": "a reliable car", "ja": "故障しにくい車" },
+      { "en": "highly reliable", "ja": "非常に信頼できる" },
+      { "en": "reliable information", "ja": "確かな情報" },
+      { "en": "prove reliable", "ja": "信頼できるとわかる" }
+    ],
+    "related": [
+      { "en": "rely", "ja": "頼る（動詞）" },
+      { "en": "reliability", "ja": "信頼性（名詞）" },
+      { "en": "dependable", "ja": "頼りになる" },
+      { "en": "unreliable", "ja": "あてにならない（反対語）" }
+    ],
+    "faq": [
+      { "q": "reliable と rely の関係は？", "a": "rely は動詞『頼る』、reliable はその形容詞『頼りにできる・信頼できる』です。rely on a reliable friend のように使います。" },
+      { "q": "reliable の反対語は？", "a": "unreliable（あてにならない・信頼できない）です。" }
+    ],
+    "quiz": [
+      { "q": "We need information from a ___ source.（信頼できる情報源）", "A": "reliable", "B": "relative", "C": "reasonable", "D": "remarkable", "correct": "A" },
+      { "q": "reliable のもとになる動詞はどれ？", "A": "rely", "B": "relate", "C": "release", "D": "relax", "correct": "A" }
+    ]
+  },
+  {
+    "english": "relevant",
+    "pron": "ˈreləvənt",
+    "kana": "レレバント",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 relevare（持ち上げる→関係する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "形容詞"],
+    "meaning_main": "関連のある・適切な・意義のある",
+    "description": "relevant の意味・発音・例文・語源を解説。relevant to（〜に関連した）の使い方や、反対語 irrelevant も分かりやすく紹介します。",
+    "keywords": ["relevant 意味", "relevant 発音", "relevant to 使い方", "irrelevant 反対"],
+    "meanings": [
+      { "hinshi": "【形容詞】（〜に）関連のある・適切な", "note": "relevant to the topic（その話題に関連した）。" },
+      { "hinshi": "【形容詞】今の時代に意義のある", "note": "stay relevant（時代に即している）。" }
+    ],
+    "usages": [
+      { "title": "① 「関連のある・適切な」として", "desc": "relevant to〜で「〜に関係する」を表します。", "example_en": "Please provide all relevant information.", "example_ja": "関連するすべての情報を提供してください。" },
+      { "title": "② 「意義のある」として", "desc": "現代において重要であることを表します。", "example_en": "His ideas are still relevant today.", "example_ja": "彼の考えは今でも意義がある。" }
+    ],
+    "warn": [
+      "「〜に関連した」は relevant to。反対語は irrelevant（無関係の）。",
+      "relevant は『今・この件に関係し意味がある』。relative（相対的な・親戚）と混同しない。"
+    ],
+    "etym_note": "ラテン語 relevare（持ち上げる・助ける）の現在分詞 relevans に由来します。もとは『（事柄を）支える・関係する』で、そこから『関連のある』になりました。relief とも語源的につながります。",
+    "etym_chain": [
+      { "node": "relevare", "sub": "持ち上げる・助ける", "era": "ラテン語" },
+      { "node": "relevant", "sub": "関係する", "era": "近代英語" },
+      { "node": "relevant", "sub": "関連のある・適切な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "relevant to", "ja": "〜に関連した" },
+      { "en": "relevant information", "ja": "関連情報" },
+      { "en": "relevant experience", "ja": "関連する経験" },
+      { "en": "stay relevant", "ja": "時代に即している" },
+      { "en": "directly relevant", "ja": "直接関係のある" },
+      { "en": "all relevant details", "ja": "関連するすべての詳細" }
+    ],
+    "related": [
+      { "en": "related", "ja": "関連した" },
+      { "en": "irrelevant", "ja": "無関係の（反対語）" },
+      { "en": "appropriate", "ja": "適切な" },
+      { "en": "applicable", "ja": "あてはまる" }
+    ],
+    "faq": [
+      { "q": "relevant のあとの前置詞は？", "a": "to です。relevant to the discussion（その議論に関連した）のように使います。" },
+      { "q": "relevant の反対語は？", "a": "irrelevant（無関係の・的外れの）です。an irrelevant question（的外れな質問）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "Please provide all ___ information.（関連情報）", "A": "relevant", "B": "reliable", "C": "relative", "D": "reluctant", "correct": "A" },
+      { "q": "relevant の反対語はどれ？", "A": "irrelevant", "B": "unrelevant", "C": "disrelevant", "D": "non-relevant", "correct": "A" }
+    ]
+  },
+  {
+    "english": "remark",
+    "pron": "rɪˈmɑːrk",
+    "kana": "リマーク",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "フランス語 remarquer（注目する・述べる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "基本語"],
+    "meaning_main": "発言・所見／（意見を）述べる・気づいて言う",
+    "description": "remark の意味・発音・例文・語源を解説。make a remark（一言述べる）の使い方や、remark on（〜について述べる）、remarkable との関係も紹介します。",
+    "keywords": ["remark 意味", "remark 発音", "make a remark 使い方", "remark on 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】発言・所見・批評", "note": "ちょっとした意見・コメント。a rude remark（失礼な発言）。" },
+      { "hinshi": "【動詞】（意見を）述べる・気づいて言う", "note": "remark that〜（〜だと述べる）。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「発言・所見」として", "desc": "make a remark（一言述べる）の形でよく使います。", "example_en": "She made an interesting remark about the book.", "example_ja": "彼女はその本について興味深い意見を述べた。" },
+      { "title": "② 動詞「述べる」として", "desc": "remark that / on の形で使います。", "example_en": "He remarked that the weather was unusually cold.", "example_ja": "彼は天気が異常に寒いと述べた。" }
+    ],
+    "warn": [
+      "「〜について述べる」は remark on / upon。名詞 remark は『一言・所見』。",
+      "remarkable（注目すべき）は remark の派生語。"
+    ],
+    "etym_note": "フランス語 remarquer（re-「強意」＋ marquer「しるしをつける」＝注目する）に由来します。「心にとめて言葉にする＝述べる」が原義です。remarkable と同じ語源です。",
+    "etym_chain": [
+      { "node": "remarquer", "sub": "注目する・述べる", "era": "フランス語" },
+      { "node": "remark", "sub": "述べる・所見", "era": "近代英語" },
+      { "node": "remark", "sub": "発言・述べる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "make a remark", "ja": "一言述べる" },
+      { "en": "remark on", "ja": "〜について述べる" },
+      { "en": "a rude remark", "ja": "失礼な発言" },
+      { "en": "opening remarks", "ja": "冒頭のあいさつ" },
+      { "en": "a passing remark", "ja": "何気ない一言" },
+      { "en": "closing remarks", "ja": "締めくくりの言葉" }
+    ],
+    "related": [
+      { "en": "comment", "ja": "コメント・論評" },
+      { "en": "remarkable", "ja": "注目すべき" },
+      { "en": "observe", "ja": "述べる・観察する" },
+      { "en": "statement", "ja": "発言・声明" }
+    ],
+    "faq": [
+      { "q": "make a remark とは？", "a": "『一言述べる・コメントする』という意味です。make a remark about〜（〜について一言言う）のように使います。" },
+      { "q": "remark と comment の違いは？", "a": "意味は近いですが、remark は『（ふと気づいて）述べる一言』、comment は『（求めに応じての）論評・意見』というニュアンスです。" }
+    ],
+    "quiz": [
+      { "q": "She made an interesting ___ about the book.（意見を述べた）", "A": "remark", "B": "remind", "C": "remove", "D": "remain", "correct": "A" },
+      { "q": "「〜について述べる」を表すのはどれ？", "A": "remark on", "B": "remark to", "C": "remark at", "D": "remark of", "correct": "A" }
+    ]
+  },
+  {
+    "english": "renew",
+    "pron": "rɪˈnuː",
+    "kana": "リニュー",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ new（新しい）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "基本動詞"],
+    "meaning_main": "更新する・再開する・新たにする",
+    "description": "renew の意味・発音・例文・語源を解説。契約やパスポートの「更新」の使い方や、renewable（再生可能な）、名詞 renewal も分かりやすく紹介します。",
+    "keywords": ["renew 意味", "renew 発音", "renewable 意味", "renewal 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】更新する・延長する", "note": "renew a passport（パスポートを更新する）。" },
+      { "hinshi": "【動詞】再開する・新たにする", "note": "renew an effort（努力を新たにする）。" }
+    ],
+    "usages": [
+      { "title": "① 「更新する」として", "desc": "契約・免許・会員などを延長する意味です。", "example_en": "I need to renew my driver's license.", "example_ja": "私は運転免許を更新する必要がある。" },
+      { "title": "② 「新たにする・再開する」として", "desc": "気持ちや活動を新たにする意味です。", "example_en": "They renewed their efforts to win.", "example_ja": "彼らは勝つために努力を新たにした。" }
+    ],
+    "warn": [
+      "renewable energy は『再生可能エネルギー』（太陽光・風力など）。理科・社会で頻出。",
+      "名詞は renewal（更新・再開）。"
+    ],
+    "etym_note": "接頭辞 re-（再び）と new（新しい）を組み合わせた語で、「再び新しくする＝更新する」が原義です。new と同じ語源です。",
+    "etym_chain": [
+      { "node": "new", "sub": "新しい", "era": "古英語系" },
+      { "node": "renewen", "sub": "新しくする", "era": "中英語" },
+      { "node": "renew", "sub": "更新する・新たにする", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "renew a passport", "ja": "パスポートを更新する" },
+      { "en": "renew a contract", "ja": "契約を更新する" },
+      { "en": "renew a subscription", "ja": "定期購読を更新する" },
+      { "en": "renewable energy", "ja": "再生可能エネルギー" },
+      { "en": "renew one's efforts", "ja": "努力を新たにする" },
+      { "en": "with renewed energy", "ja": "新たな活力で" }
+    ],
+    "related": [
+      { "en": "renewal", "ja": "更新・再開（名詞）" },
+      { "en": "renewable", "ja": "再生可能な" },
+      { "en": "update", "ja": "更新する" },
+      { "en": "extend", "ja": "延長する" }
+    ],
+    "faq": [
+      { "q": "renewable energy とは？", "a": "太陽光・風力・水力など、使ってもなくならず『再生可能なエネルギー』のことです。理科・社会で頻出です。" },
+      { "q": "renew の名詞形は？", "a": "renewal（更新・再開）です。contract renewal（契約更新）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "I need to ___ my driver's license.（免許を更新）", "A": "renew", "B": "remove", "C": "remind", "D": "remark", "correct": "A" },
+      { "q": "「再生可能エネルギー」を表すのはどれ？", "A": "renewable energy", "B": "renewed energy のみ", "C": "renewal energy", "D": "renew energy", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rent",
+    "pron": "rent",
+    "kana": "レント",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "古フランス語 rente（収入・地代）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "お金"],
+    "meaning_main": "借りる・貸す／家賃・賃貸料",
+    "description": "rent の意味・発音・例文・語源を解説。borrow との違いや、for rent（賃貸中）、rent out（貸し出す）も分かりやすく紹介します。",
+    "keywords": ["rent 意味", "rent 発音", "rent borrow 違い", "for rent 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（お金を払って）借りる", "note": "rent an apartment（アパートを借りる）。" },
+      { "hinshi": "【動詞】(rent out) 賃貸しする", "note": "rent out a room（部屋を貸す）。" },
+      { "hinshi": "【名詞】家賃・賃貸料", "note": "pay the rent（家賃を払う）。" }
+    ],
+    "usages": [
+      { "title": "① 「借りる」として", "desc": "お金を払って一定期間借りる意味です。", "example_en": "We rented a car for the weekend.", "example_ja": "私たちは週末に車を借りた。" },
+      { "title": "② 名詞「家賃」として", "desc": "毎月支払う賃貸料を表します。", "example_en": "The rent is due at the end of the month.", "example_ja": "家賃は月末が支払い期限だ。" }
+    ],
+    "warn": [
+      "rent は『お金を払って借りる』。borrow は『（無料で）借りる』。lend / rent out は『貸す』。",
+      "for rent は『賃貸中・貸し出し中』。"
+    ],
+    "etym_note": "古フランス語 rente（収入・地代。ラテン語 reddere「返す・もたらす」から）に由来します。もとは『土地が生む収入』で、そこから『賃貸料・賃借』になりました。",
+    "etym_chain": [
+      { "node": "reddita", "sub": "もたらされたもの・収入", "era": "ラテン語" },
+      { "node": "rente", "sub": "収入・地代", "era": "古フランス語" },
+      { "node": "rent", "sub": "家賃・借りる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "pay the rent", "ja": "家賃を払う" },
+      { "en": "for rent", "ja": "賃貸中・貸し出し中" },
+      { "en": "rent a car", "ja": "車を借りる" },
+      { "en": "rent out", "ja": "賃貸しする・貸し出す" },
+      { "en": "high rent", "ja": "高い家賃" },
+      { "en": "a rented apartment", "ja": "賃貸アパート" }
+    ],
+    "related": [
+      { "en": "borrow", "ja": "借りる（無料で）" },
+      { "en": "lease", "ja": "賃貸借（契約）" },
+      { "en": "hire", "ja": "（英）レンタルする・雇う" },
+      { "en": "tenant", "ja": "借家人" }
+    ],
+    "faq": [
+      { "q": "rent と borrow の違いは？", "a": "rent は『お金を払って借りる』、borrow は『（ふつう無料で）借りる』です。rent a car（車を有料で借りる）、borrow a book（本を借りる）のように使います。" },
+      { "q": "for rent とは？", "a": "『賃貸中・貸し出し中』という意味で、貼り紙や広告でよく見ます。" }
+    ],
+    "quiz": [
+      { "q": "We ___ a car for the weekend.（車を借りた）", "A": "rented", "B": "borrowed の無料の語感", "C": "lent", "D": "robbed", "correct": "A" },
+      { "q": "「賃貸中・貸し出し中」を表すのはどれ？", "A": "for rent", "B": "on rent", "C": "in rent", "D": "at rent", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retreat",
+    "pron": "rɪˈtriːt",
+    "kana": "リトリート",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "古フランス語 retret（引き下がること）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "多義語"],
+    "meaning_main": "退却する・退く／退却・隠れ家・保養",
+    "description": "retreat の意味・発音・例文・語源を解説。軍の「退却」や、静かに過ごす「隠れ家・合宿」の意味も分かりやすく紹介します。",
+    "keywords": ["retreat 意味", "retreat 発音", "retreat 退却 隠れ家", "retreat 使い方"],
+    "meanings": [
+      { "hinshi": "【動詞】退却する・退く", "note": "敵・困難から引き下がる。retreat from battle（戦いから退く）。" },
+      { "hinshi": "【名詞】退却・後退", "note": "advance（前進）の反対。" },
+      { "hinshi": "【名詞】隠れ家・静養所・合宿", "note": "a mountain retreat（山の隠れ家）。" }
+    ],
+    "usages": [
+      { "title": "① 「退却する」として", "desc": "軍隊などが引き下がる意味です。", "example_en": "The army was forced to retreat.", "example_ja": "軍隊は退却を余儀なくされた。" },
+      { "title": "② 名詞「隠れ家・保養」として", "desc": "静かに過ごす場所や合宿を表します。", "example_en": "They spent the weekend at a quiet mountain retreat.", "example_ja": "彼らは静かな山の隠れ家で週末を過ごした。" }
+    ],
+    "warn": [
+      "retreat は『退く・退却』のほか、『（静養のための）隠れ家・合宿』の意味も重要。a company retreat は『社員合宿』。",
+      "反対は advance（前進する）。"
+    ],
+    "etym_note": "古フランス語 retret（retraire「re-（後ろへ）＋ traire（引く）」＝引き下がる）に由来します。treat・retract と同じ tract-（引く）の語根で、「後ろへ引く＝退く」が原義です。",
+    "etym_chain": [
+      { "node": "retrahere", "sub": "後ろへ引く", "era": "ラテン語" },
+      { "node": "retret", "sub": "引き下がること", "era": "古フランス語" },
+      { "node": "retreat", "sub": "退却・隠れ家", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "retreat from", "ja": "〜から退却する" },
+      { "en": "beat a retreat", "ja": "退却する・退散する" },
+      { "en": "a mountain retreat", "ja": "山の隠れ家" },
+      { "en": "a company retreat", "ja": "社員合宿" },
+      { "en": "a hasty retreat", "ja": "あわてた退却" },
+      { "en": "a weekend retreat", "ja": "週末の保養" }
+    ],
+    "related": [
+      { "en": "withdraw", "ja": "撤退する" },
+      { "en": "advance", "ja": "前進する（反対語）" },
+      { "en": "shelter", "ja": "避難所・隠れ家" },
+      { "en": "escape", "ja": "逃れる" }
+    ],
+    "faq": [
+      { "q": "retreat の二つの大きな意味は？", "a": "①『退却する・退く』（軍隊などが引き下がる）と、②『隠れ家・静養所・合宿』（静かに過ごす場所）です。" },
+      { "q": "a company retreat とは？", "a": "会社が職場を離れて行う『社員合宿・研修旅行』のことです。" }
+    ],
+    "quiz": [
+      { "q": "The army was forced to ___.（退却を余儀なく）", "A": "retreat", "B": "retire", "C": "return", "D": "remove", "correct": "A" },
+      { "q": "retreat の反対語（前進する）はどれ？", "A": "advance", "B": "withdraw", "C": "escape", "D": "shelter", "correct": "A" }
+    ]
+  }
+]
