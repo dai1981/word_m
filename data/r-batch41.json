@@ -1,0 +1,55 @@
+[
+  {
+    "english": "requiem",
+    "pron": "ˈrekwiəm",
+    "kana": "レクイエム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 requies（安息）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "音楽"],
+    "meaning_main": "死者のためのミサ曲・鎮魂歌・レクイエム",
+    "description": "requiem の意味・発音・例文・語源を解説。死者を悼む「鎮魂歌・レクイエム」の使い方や、ラテン語「安息」の語源も分かりやすく紹介します。",
+    "keywords": ["requiem 意味", "requiem 発音", "requiem 鎮魂歌", "requiem 語源"],
+    "meanings": [
+      { "hinshi": "【名詞】死者のためのミサ曲・鎮魂歌", "note": "死者を悼んで演奏される音楽・ミサ。Mozart's Requiem（モーツァルトのレクイエム）。" },
+      { "hinshi": "【名詞】（比喩）追悼・終わりを惜しむもの", "note": "a requiem for（〜への追悼・別れの歌）。" }
+    ],
+    "usages": [
+      { "title": "① 「鎮魂歌・レクイエム」として", "desc": "死者を悼む音楽やミサを表します。", "example_en": "The choir performed Mozart's Requiem.", "example_ja": "合唱団はモーツァルトのレクイエムを演奏した。" },
+      { "title": "② 比喩「追悼」として", "desc": "終わりや別れを惜しむものを表します。", "example_en": "The film is a requiem for a lost era.", "example_ja": "その映画は失われた時代への追悼だ。" }
+    ],
+    "warn": [
+      "requiem はラテン語の祈りの冒頭 Requiem aeternam（永遠の安息を）から名づけられた語。",
+      "quiet（静かな）・require と語源的に関連はあるが意味は別。"
+    ],
+    "etym_note": "ラテン語 requies（re-「強意」＋ quies「安息・静けさ」＝安息）に由来します。死者のためのミサの祈り Requiem aeternam（永遠の安息を）の冒頭の語がそのまま曲名になりました。quiet と同じ qui-（静か）の語根です。",
+    "etym_chain": [
+      { "node": "quies", "sub": "安息・静けさ", "era": "ラテン語" },
+      { "node": "requiem", "sub": "安息を（祈りの語）", "era": "ラテン語" },
+      { "node": "requiem", "sub": "鎮魂歌・レクイエム", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a requiem mass", "ja": "死者のためのミサ" },
+      { "en": "perform a requiem", "ja": "レクイエムを演奏する" },
+      { "en": "Mozart's Requiem", "ja": "モーツァルトのレクイエム" },
+      { "en": "a requiem for", "ja": "〜への追悼" },
+      { "en": "sing a requiem", "ja": "鎮魂歌を歌う" },
+      { "en": "a final requiem", "ja": "最後の鎮魂歌" }
+    ],
+    "related": [
+      { "en": "elegy", "ja": "哀歌・挽歌" },
+      { "en": "funeral", "ja": "葬儀" },
+      { "en": "mass", "ja": "ミサ" },
+      { "en": "mourning", "ja": "追悼・喪" }
+    ],
+    "faq": [
+      { "q": "requiem とはどんな意味？", "a": "『死者のためのミサ曲・鎮魂歌（レクイエム）』のことです。比喩で『（失われたものへの）追悼・別れの歌』にも使います。" },
+      { "q": "requiem の語源は？", "a": "ラテン語の祈り Requiem aeternam（永遠の安息を）の冒頭の語に由来します。quies（安息）から来ています。" }
+    ],
+    "quiz": [
+      { "q": "The choir performed Mozart's ___.（レクイエム）", "A": "Requiem", "B": "Requirement の必要条件", "C": "Reception", "D": "Reservation", "correct": "A" },
+      { "q": "requiem の語源（ラテン語 quies）の意味は？", "A": "安息・静けさ", "B": "光", "C": "戦い", "D": "喜び", "correct": "A" }
+    ]
+  }
+]
