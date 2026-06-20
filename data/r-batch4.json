@@ -1,0 +1,541 @@
+[
+  {
+    "english": "reflect",
+    "pron": "rɪˈflekt",
+    "kana": "リフレクト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 reflectere（曲げ返す）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "基本動詞"],
+    "meaning_main": "反射する・映す／よく考える・反映する",
+    "description": "reflect の意味・発音・例文・語源を解説。「光や姿を映す」と「じっくり考える」の二つの意味や、reflect on の使い方も紹介します。",
+    "keywords": ["reflect 意味", "reflect 発音", "reflect on 使い方", "reflection 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】反射する・（鏡などに）映す", "note": "The mirror reflects light.（鏡は光を反射する）。" },
+      { "hinshi": "【動詞】（状況などを）反映する・表す", "note": "The price reflects the quality.（値段は質を反映する）。" },
+      { "hinshi": "【動詞】じっくり考える・反省する", "note": "reflect on〜（〜についてよく考える）。" }
+    ],
+    "usages": [
+      { "title": "① 「反射する・映す」として", "desc": "光・音・姿を映し返す物理的な意味です。", "example_en": "The mountains were reflected in the lake.", "example_ja": "山々が湖に映っていた。" },
+      { "title": "② 「反映する」として", "desc": "ある事実や性質を表し示す意味です。", "example_en": "The results reflect months of hard work.", "example_ja": "その結果は数か月の努力を反映している。" },
+      { "title": "③ reflect on（じっくり考える）として", "desc": "過去や物事を振り返って深く考える意味です。", "example_en": "He reflected on his past mistakes.", "example_ja": "彼は過去の過ちをじっくり振り返った。" }
+    ],
+    "warn": [
+      "「〜についてよく考える」は reflect on。think about より深く熟考するニュアンス。",
+      "名詞は reflection（反射・反映・熟考）。文脈で意味が変わる。"
+    ],
+    "etym_note": "ラテン語 reflectere（re-「後ろへ」＋ flectere「曲げる」＝曲げ返す）に由来します。「光を曲げ返す」が原義で、そこから「考えを内へ向ける＝熟考する」意味も生まれました。",
+    "etym_chain": [
+      { "node": "reflectere", "sub": "曲げ返す", "era": "ラテン語" },
+      { "node": "reflecten", "sub": "反射する", "era": "中英語" },
+      { "node": "reflect", "sub": "反射する・熟考する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reflect on", "ja": "〜をじっくり考える" },
+      { "en": "reflect light", "ja": "光を反射する" },
+      { "en": "be reflected in", "ja": "〜に映る・反映される" },
+      { "en": "reflect reality", "ja": "現実を反映する" },
+      { "en": "reflect well on", "ja": "〜の評価を高める" },
+      { "en": "take time to reflect", "ja": "じっくり考える時間をとる" }
+    ],
+    "related": [
+      { "en": "reflection", "ja": "反射・熟考（名詞）" },
+      { "en": "mirror", "ja": "鏡・映す" },
+      { "en": "consider", "ja": "よく考える" },
+      { "en": "show", "ja": "示す・表す" }
+    ],
+    "faq": [
+      { "q": "reflect on とはどういう意味？", "a": "「〜についてじっくり考える・振り返る」という意味です。think about より深く熟考するニュアンスがあります。" },
+      { "q": "reflect の名詞形は？", "a": "reflection です。「反射」「（水や鏡に映る）姿」「熟考」など文脈で意味が変わります。" }
+    ],
+    "quiz": [
+      { "q": "The mountains were ___ in the lake.（山が湖に映っていた）", "A": "reflected", "B": "refused", "C": "reduced", "D": "recorded", "correct": "A" },
+      { "q": "「過去をじっくり振り返る」に合う形は？ reflect ___ the past", "A": "on", "B": "to", "C": "at", "D": "of", "correct": "A" }
+    ]
+  },
+  {
+    "english": "refuse",
+    "pron": "rɪˈfjuːz",
+    "kana": "リフューズ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 refundere（注ぎ戻す→拒む）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "基本動詞"],
+    "meaning_main": "拒む・断る・拒否する",
+    "description": "refuse の意味・発音・例文・語源を解説。refuse to do の形や、deny・reject との違い、名詞 refusal も分かりやすく紹介します。",
+    "keywords": ["refuse 意味", "refuse 発音", "refuse to 使い方", "refuse reject 違い"],
+    "meanings": [
+      { "hinshi": "【動詞】（申し出・要求を）断る・拒む", "note": "refuse an offer（申し出を断る）。" },
+      { "hinshi": "【動詞】（〜することを）拒否する", "note": "refuse to do〜（どうしても〜しようとしない）。" }
+    ],
+    "usages": [
+      { "title": "① 「申し出・要求を断る」として", "desc": "誘いや要求をはっきり断る意味です。", "example_en": "She refused his invitation to the party.", "example_ja": "彼女は彼のパーティーへの誘いを断った。" },
+      { "title": "② refuse to do（〜を拒む）として", "desc": "あとに動詞の原形を続け「どうしても〜しない」を表します。", "example_en": "He refused to answer the question.", "example_ja": "彼はその質問に答えるのを拒んだ。" }
+    ],
+    "warn": [
+      "refuse のあとは to＋動詞の原形（refuse to go）。動名詞 refuse going は不可。",
+      "reject は「（受け入れを）はねつける」、refuse は「（申し出などを）断る」。decline はより丁寧に断る語。"
+    ],
+    "etym_note": "ラテン語 refundere（re-「戻して」＋ fundere「注ぐ」）系の語に由来し、古フランス語を経て「注ぎ戻す→突き返す→拒む」という意味になりました。",
+    "etym_chain": [
+      { "node": "refusare", "sub": "拒む", "era": "俗ラテン語" },
+      { "node": "refuser", "sub": "断る", "era": "古フランス語" },
+      { "node": "refuse", "sub": "拒む・断る", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "refuse to do", "ja": "〜するのを拒む" },
+      { "en": "refuse an offer", "ja": "申し出を断る" },
+      { "en": "refuse an invitation", "ja": "誘いを断る" },
+      { "en": "flatly refuse", "ja": "きっぱり断る" },
+      { "en": "refuse permission", "ja": "許可を与えない" },
+      { "en": "an offer you can't refuse", "ja": "断れない申し出" }
+    ],
+    "related": [
+      { "en": "refusal", "ja": "拒否（名詞）" },
+      { "en": "reject", "ja": "はねつける" },
+      { "en": "decline", "ja": "丁寧に断る" },
+      { "en": "accept", "ja": "受け入れる（反対語）" }
+    ],
+    "faq": [
+      { "q": "refuse のあとの動詞の形は？", "a": "to＋動詞の原形です。refuse to help（手伝うのを拒む）のように使います。動名詞は続けられません。" },
+      { "q": "refuse と reject の違いは？", "a": "refuse は「申し出・要求を断る」、reject は「（応募・提案などを）受け入れずにはねつける」というニュアンスです。" }
+    ],
+    "quiz": [
+      { "q": "He ___ to answer the question.（答えるのを拒んだ）", "A": "refused", "B": "reflected", "C": "received", "D": "reduced", "correct": "A" },
+      { "q": "refuse の正しい使い方はどれ？", "A": "refuse going", "B": "refuse to go", "C": "refuse go", "D": "refuse for go", "correct": "B" }
+    ]
+  },
+  {
+    "english": "region",
+    "pron": "ˈriːdʒən",
+    "kana": "リージョン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 regio（方向・地域）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "地理"],
+    "meaning_main": "地域・地方・region",
+    "description": "region の意味・発音・例文・語源を解説。area との違いや、形容詞 regional（地域の）、体の「部位」の意味も紹介します。",
+    "keywords": ["region 意味", "region 発音", "region area 違い", "regional 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】地域・地方", "note": "比較的広い範囲を指す。the northern region（北部地方）。" },
+      { "hinshi": "【名詞】（体の）部位・領域", "note": "the chest region（胸部）のように使う。" }
+    ],
+    "usages": [
+      { "title": "① 「地域・地方」として", "desc": "国や世界の中の比較的広い範囲を表します。", "example_en": "This region is famous for its wine.", "example_ja": "この地方はワインで有名だ。" },
+      { "title": "② 形容詞 regional として", "desc": "「地域の・地方の」を表す派生語です。", "example_en": "There are many regional differences in food.", "example_ja": "食べ物には多くの地域差がある。" }
+    ],
+    "warn": [
+      "region は比較的広い「地方・地域」、area はもっと一般的で広狭を問わず使える。",
+      "形容詞は regional（地域の）。発音は『リージョナル』。"
+    ],
+    "etym_note": "ラテン語 regio（方向・境界・地域）に由来します。これは regere（治める・まっすぐ導く）から来ており、「治める範囲＝地域」という発想です。",
+    "etym_chain": [
+      { "node": "regere", "sub": "治める・導く", "era": "ラテン語" },
+      { "node": "regio", "sub": "方向・地域", "era": "ラテン語" },
+      { "node": "region", "sub": "地域・地方", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a mountainous region", "ja": "山岳地方" },
+      { "en": "a coastal region", "ja": "沿岸地域" },
+      { "en": "the northern region", "ja": "北部地方" },
+      { "en": "regional differences", "ja": "地域差" },
+      { "en": "in the region of", "ja": "およそ〜（数量）" },
+      { "en": "a tropical region", "ja": "熱帯地方" }
+    ],
+    "related": [
+      { "en": "regional", "ja": "地域の（形容詞）" },
+      { "en": "area", "ja": "地域・面積" },
+      { "en": "district", "ja": "地区" },
+      { "en": "zone", "ja": "区域・地帯" }
+    ],
+    "faq": [
+      { "q": "region と area の違いは？", "a": "region は比較的広く、共通の特徴を持つ『地方・地域』を指します。area はより一般的で、広い・狭いを問わず『場所・区域』に使えます。" },
+      { "q": "region の形容詞は？", "a": "regional（地域の・地方の）です。a regional dialect（方言）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "This ___ is famous for its wine.（この地方はワインで有名）", "A": "region", "B": "reason", "C": "religion", "D": "record", "correct": "A" },
+      { "q": "region の形容詞形はどれ？", "A": "regionable", "B": "regional", "C": "regionic", "D": "regionful", "correct": "B" }
+    ]
+  },
+  {
+    "english": "regret",
+    "pron": "rɪˈɡret",
+    "kana": "リグレット",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "古フランス語 regreter（嘆く・惜しむ）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "感情"],
+    "meaning_main": "後悔する・残念に思う／後悔",
+    "description": "regret の意味・発音・例文・語源を解説。regret doing と regret to do の意味の違いという重要文法ポイントを丁寧に説明します。",
+    "keywords": ["regret 意味", "regret 発音", "regret doing to do 違い", "regret 後悔"],
+    "meanings": [
+      { "hinshi": "【動詞】後悔する・残念に思う", "note": "regret doing（〜したことを後悔する）。" },
+      { "hinshi": "【動詞】残念ながら〜する", "note": "regret to say（残念ながら言う）。" },
+      { "hinshi": "【名詞】後悔・残念な気持ち", "note": "have no regrets（後悔はない）。" }
+    ],
+    "usages": [
+      { "title": "① regret doing（〜したことを後悔する）", "desc": "すでにしたことを悔やむ意味です。動名詞を続けます。", "example_en": "I regret saying those words to her.", "example_ja": "私は彼女にあんなことを言ったのを後悔している。" },
+      { "title": "② regret to do（残念ながら〜する）", "desc": "これから言う・知らせることを残念に思う形です。", "example_en": "We regret to inform you that the event is canceled.", "example_ja": "残念ながらイベントは中止となりました。" }
+    ],
+    "warn": [
+      "regret doing は『〜したことを後悔』、regret to do は『残念ながら（これから）〜する』。意味が変わるので要注意。",
+      "have no regrets（後悔はない）のように名詞は複数形でよく使う。"
+    ],
+    "etym_note": "古フランス語 regreter（嘆く・惜しむ）に由来します。もとは「死者を悼んで泣く」といった意味で、そこから「過去を惜しむ・後悔する」になりました。",
+    "etym_chain": [
+      { "node": "regreter", "sub": "嘆く・惜しむ", "era": "古フランス語" },
+      { "node": "regret", "sub": "後悔する", "era": "中英語" },
+      { "node": "regret", "sub": "後悔する・残念に思う", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "regret doing", "ja": "〜したことを後悔する" },
+      { "en": "regret to say", "ja": "残念ながら言う" },
+      { "en": "have no regrets", "ja": "後悔はない" },
+      { "en": "deeply regret", "ja": "深く後悔する" },
+      { "en": "live to regret it", "ja": "後で後悔する" },
+      { "en": "much to my regret", "ja": "とても残念なことに" }
+    ],
+    "related": [
+      { "en": "regretful", "ja": "後悔している（形容詞）" },
+      { "en": "sorry", "ja": "すまなく思う・残念な" },
+      { "en": "apologize", "ja": "謝る" },
+      { "en": "regrettable", "ja": "残念な・遺憾な" }
+    ],
+    "faq": [
+      { "q": "regret doing と regret to do の違いは？", "a": "regret doing は『（すでに）〜したことを後悔する』、regret to do は『（これから）残念ながら〜する』です。時間の向きが逆になります。" },
+      { "q": "「後悔はしていない」は英語で？", "a": "I have no regrets. と言います。regret を名詞・複数形で使う定番表現です。" }
+    ],
+    "quiz": [
+      { "q": "I regret ___ those words to her.（言ったことを後悔）", "A": "saying", "B": "to say", "C": "say", "D": "said", "correct": "A" },
+      { "q": "We regret ___ you that it is canceled.（残念ながらお知らせします）", "A": "to inform", "B": "informing", "C": "inform", "D": "informed", "correct": "A" }
+    ]
+  },
+  {
+    "english": "regular",
+    "pron": "ˈreɡjələr",
+    "kana": "レギュラー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 regula（定規・規則）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "形容詞"],
+    "meaning_main": "規則的な・定期的な・通常の",
+    "description": "regular の意味・発音・例文・語源を解説。「定期的な」「いつもの」という意味や、副詞 regularly、反対語 irregular も紹介します。",
+    "keywords": ["regular 意味", "regular 発音", "regularly 意味", "irregular 反対"],
+    "meanings": [
+      { "hinshi": "【形容詞】規則的な・定期的な", "note": "at regular intervals（一定の間隔で）。" },
+      { "hinshi": "【形容詞】いつもの・通常の", "note": "my regular doctor（いつもの医者）。" },
+      { "hinshi": "【形容詞】（文法）規則変化の", "note": "a regular verb（規則動詞）。" }
+    ],
+    "usages": [
+      { "title": "① 「規則的・定期的な」として", "desc": "一定の間隔でくり返される様子を表します。", "example_en": "He goes to the gym on a regular basis.", "example_ja": "彼は定期的にジムに通っている。" },
+      { "title": "② 「いつもの・通常の」として", "desc": "ふだんの・標準的なという意味でも使います。", "example_en": "I'll have my regular coffee, please.", "example_ja": "いつものコーヒーをください。" }
+    ],
+    "warn": [
+      "反対語は irregular（不規則な）。ir- がついて否定になる。",
+      "副詞は regularly（定期的に）。on a regular basis も『定期的に』の決まり文句。"
+    ],
+    "etym_note": "ラテン語 regula（定規・規則）に由来します。rule（規則）や rail とも同じ語根で、「定規のようにきちんとそろっている」が原義です。",
+    "etym_chain": [
+      { "node": "regula", "sub": "定規・規則", "era": "ラテン語" },
+      { "node": "reguler", "sub": "規則的な", "era": "古フランス語" },
+      { "node": "regular", "sub": "規則的な・通常の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "on a regular basis", "ja": "定期的に" },
+      { "en": "regular exercise", "ja": "定期的な運動" },
+      { "en": "a regular customer", "ja": "常連客" },
+      { "en": "regular hours", "ja": "通常の営業時間" },
+      { "en": "a regular verb", "ja": "規則動詞" },
+      { "en": "regular size", "ja": "並・普通サイズ" }
+    ],
+    "related": [
+      { "en": "regularly", "ja": "定期的に（副詞）" },
+      { "en": "irregular", "ja": "不規則な（反対語）" },
+      { "en": "normal", "ja": "普通の" },
+      { "en": "usual", "ja": "いつもの" }
+    ],
+    "faq": [
+      { "q": "regular の反対語は？", "a": "irregular（不規則な）です。an irregular verb（不規則動詞）のように使います。" },
+      { "q": "on a regular basis とは？", "a": "「定期的に」という意味の決まった表現で、regularly とほぼ同じ意味です。" }
+    ],
+    "quiz": [
+      { "q": "He goes to the gym on a ___ basis.（定期的に）", "A": "regular", "B": "region", "C": "regret", "D": "reduce", "correct": "A" },
+      { "q": "regular の反対語はどれ？", "A": "unregular", "B": "irregular", "C": "disregular", "D": "nonregular", "correct": "B" }
+    ]
+  },
+  {
+    "english": "reject",
+    "pron": "動:rɪˈdʒekt 名:ˈriːdʒekt",
+    "kana": "動:リジェクト 名:リージェクト",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "ラテン語 reicere（投げ返す）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "拒絶する・はねつける・不採用にする",
+    "description": "reject の意味・発音・例文・語源を解説。accept（受け入れる）の反対語で、refuse との違いや名詞 rejection も紹介します。",
+    "keywords": ["reject 意味", "reject 発音", "reject accept 反対", "reject refuse 違い"],
+    "meanings": [
+      { "hinshi": "【動詞】拒絶する・はねつける", "note": "提案・応募・人などを受け入れずに退ける。" },
+      { "hinshi": "【動詞】不採用にする・却下する", "note": "reject an application（応募を却下する）。" },
+      { "hinshi": "【名詞】不良品・不合格品", "note": "アクセントは前。検品ではねられた品。" }
+    ],
+    "usages": [
+      { "title": "① 「提案・申請をはねつける」として", "desc": "受け入れずに退ける意味で、accept の反対です。", "example_en": "The company rejected his proposal.", "example_ja": "会社は彼の提案を却下した。" },
+      { "title": "② 「人・応募を不採用にする」として", "desc": "選考などで受け入れない意味でも使います。", "example_en": "She was rejected by the university.", "example_ja": "彼女はその大学に不合格になった。" }
+    ],
+    "warn": [
+      "動詞はアクセント後ろ（re-JECT）、名詞（不良品）は前（RE-ject）。",
+      "reject は『はねつける』とやや強い語。refuse は『（申し出を）断る』。accept の反対が reject。"
+    ],
+    "etym_note": "ラテン語 reicere（re-「後ろへ」＋ jacere「投げる」＝投げ返す）に由来します。「差し出されたものを投げ返す」が原義です。project・inject など -ject の仲間です。",
+    "etym_chain": [
+      { "node": "reicere", "sub": "投げ返す", "era": "ラテン語" },
+      { "node": "rejecten", "sub": "拒む", "era": "中英語" },
+      { "node": "reject", "sub": "拒絶する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reject a proposal", "ja": "提案を却下する" },
+      { "en": "reject an offer", "ja": "申し出をはねつける" },
+      { "en": "be rejected", "ja": "拒絶される・不採用になる" },
+      { "en": "flatly reject", "ja": "きっぱり拒絶する" },
+      { "en": "reject an application", "ja": "応募を却下する" },
+      { "en": "feel rejected", "ja": "拒まれたと感じる" }
+    ],
+    "related": [
+      { "en": "rejection", "ja": "拒絶（名詞）" },
+      { "en": "refuse", "ja": "断る" },
+      { "en": "accept", "ja": "受け入れる（反対語）" },
+      { "en": "deny", "ja": "否定する・拒む" }
+    ],
+    "faq": [
+      { "q": "reject と refuse の違いは？", "a": "reject は『提案・応募などを受け入れずにはねつける』、refuse は『申し出・要求を断る』です。reject の方がやや強い拒絶です。" },
+      { "q": "reject のアクセントは？", "a": "動詞は後ろ（re-JECT）、名詞『不良品』は前（RE-ject）にアクセントが来ます。" }
+    ],
+    "quiz": [
+      { "q": "The company ___ his proposal.（提案を却下した）", "A": "rejected", "B": "received", "C": "reflected", "D": "regretted", "correct": "A" },
+      { "q": "reject の反対語はどれ？", "A": "refuse", "B": "accept", "C": "deny", "D": "reduce", "correct": "B" }
+    ]
+  },
+  {
+    "english": "relate",
+    "pron": "rɪˈleɪt",
+    "kana": "リレイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 relatus（運び戻された）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "基本動詞"],
+    "meaning_main": "関連づける・関係がある・共感する",
+    "description": "relate の意味・発音・例文・語源を解説。relate to（〜に関係する／共感する）の使い方や、related・relation・relationship も紹介します。",
+    "keywords": ["relate 意味", "relate 発音", "relate to 使い方", "related 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】関連づける・結びつける", "note": "relate A to B（AをBと関連づける）。" },
+      { "hinshi": "【動詞】関係がある", "note": "relate to〜（〜に関係する）。" },
+      { "hinshi": "【動詞】共感する・気持ちがわかる", "note": "I can relate to that.（その気持ちわかる）。" }
+    ],
+    "usages": [
+      { "title": "① 「関連づける・関係する」として", "desc": "二つの物事のつながりを示す意味です。", "example_en": "The report relates crime to poverty.", "example_ja": "その報告は犯罪を貧困と関連づけている。" },
+      { "title": "② relate to（共感する）として", "desc": "会話で「気持ちがわかる・共感できる」と言うときに使います。", "example_en": "I can really relate to how you feel.", "example_ja": "あなたの気持ちが本当によくわかります。" }
+    ],
+    "warn": [
+      "related to は『〜に関連した』、relationship は『（人や物の）関係』。派生語を整理して覚える。",
+      "口語の relate to は『共感する』。I can relate.（わかるよ）と単独でも使う。"
+    ],
+    "etym_note": "ラテン語 relatus（referre『運び戻す・関連づける』の過去分詞）に由来します。refer と同じ語源で、「結びつけて持ってくる」が原義です。",
+    "etym_chain": [
+      { "node": "relatus", "sub": "運び戻された", "era": "ラテン語" },
+      { "node": "relate", "sub": "関連づける", "era": "近代英語" },
+      { "node": "relate", "sub": "関連づける・共感する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "relate to", "ja": "〜に関係する・共感する" },
+      { "en": "relate A to B", "ja": "AをBと関連づける" },
+      { "en": "be related to", "ja": "〜と関連している・親戚だ" },
+      { "en": "closely related", "ja": "密接に関連した" },
+      { "en": "I can relate.", "ja": "その気持ちわかる" },
+      { "en": "relate well to people", "ja": "人とうまくつき合う" }
+    ],
+    "related": [
+      { "en": "related", "ja": "関連した（形容詞）" },
+      { "en": "relation", "ja": "関係" },
+      { "en": "relationship", "ja": "（人間）関係" },
+      { "en": "connect", "ja": "つなげる" }
+    ],
+    "faq": [
+      { "q": "relate to の二つの意味は？", "a": "①『〜に関係する』（This relates to history＝これは歴史に関係する）と、②口語の『〜に共感する』（I can relate to you＝あなたに共感できる）です。" },
+      { "q": "be related to はどういう意味？", "a": "『〜と関連している』のほか、人について使うと『〜と親戚だ』という意味になります。" }
+    ],
+    "quiz": [
+      { "q": "I can really ___ to how you feel.（気持ちがよくわかる）", "A": "relate", "B": "reflect", "C": "reduce", "D": "refuse", "correct": "A" },
+      { "q": "「〜と親戚だ」を表すのはどれ？", "A": "be related to", "B": "be reduced to", "C": "be refused to", "D": "be recorded to", "correct": "A" }
+    ]
+  },
+  {
+    "english": "relax",
+    "pron": "rɪˈlæks",
+    "kana": "リラックス",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 relaxare（ゆるめる）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "基本動詞"],
+    "meaning_main": "くつろぐ・リラックスする・ゆるめる",
+    "description": "relax の意味・発音・例文・語源を解説。自動詞「くつろぐ」と他動詞「ゆるめる」の両方の使い方や、relaxed・relaxing の違いも紹介します。",
+    "keywords": ["relax 意味", "relax 発音", "relaxed relaxing 違い", "relax くつろぐ"],
+    "meanings": [
+      { "hinshi": "【動詞】くつろぐ・リラックスする", "note": "Just relax.（リラックスして）。自動詞。" },
+      { "hinshi": "【動詞】（筋肉・規則などを）ゆるめる", "note": "relax the rules（規則を緩和する）。他動詞。" }
+    ],
+    "usages": [
+      { "title": "① 「くつろぐ」として", "desc": "緊張をほぐして楽にする基本の意味です。", "example_en": "I like to relax at home on weekends.", "example_ja": "私は週末は家でくつろぐのが好きだ。" },
+      { "title": "② 「ゆるめる・緩和する」として", "desc": "筋肉・規則・緊張をゆるめる意味でも使います。", "example_en": "Relax your shoulders and breathe slowly.", "example_ja": "肩の力を抜いてゆっくり息をしなさい。" }
+    ],
+    "warn": [
+      "relaxed は『（人が）リラックスした』、relaxing は『（物事が）くつろがせる』。a relaxing bath（くつろげる入浴）。",
+      "命令文 Relax! は『落ち着いて！』というなだめる表現にもなる。"
+    ],
+    "etym_note": "ラテン語 relaxare（re-「再び」＋ laxare「ゆるめる」＝ゆるめる）に由来します。lax（ゆるい）と同じ語根で、「張りをゆるめる」が原義です。",
+    "etym_chain": [
+      { "node": "relaxare", "sub": "ゆるめる", "era": "ラテン語" },
+      { "node": "relaxen", "sub": "ゆるめる", "era": "中英語" },
+      { "node": "relax", "sub": "くつろぐ・ゆるめる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "relax at home", "ja": "家でくつろぐ" },
+      { "en": "sit back and relax", "ja": "ゆったりくつろぐ" },
+      { "en": "relax the rules", "ja": "規則を緩和する" },
+      { "en": "help you relax", "ja": "リラックスを助ける" },
+      { "en": "relax your muscles", "ja": "筋肉をゆるめる" },
+      { "en": "Just relax!", "ja": "落ち着いて！" }
+    ],
+    "related": [
+      { "en": "relaxed", "ja": "くつろいだ（形容詞）" },
+      { "en": "relaxing", "ja": "くつろがせる（形容詞）" },
+      { "en": "rest", "ja": "休む" },
+      { "en": "calm", "ja": "落ち着いた" }
+    ],
+    "faq": [
+      { "q": "relaxed と relaxing の違いは？", "a": "relaxed は『（人が）リラックスした気分の』、relaxing は『（物事が）人をくつろがせる』です。I feel relaxed./a relaxing weekend のように使い分けます。" },
+      { "q": "Relax! はどんな意味？", "a": "『落ち着いて！・気楽にして！』と相手をなだめる言い方です。" }
+    ],
+    "quiz": [
+      { "q": "I like to ___ at home on weekends.（週末は家でくつろぐ）", "A": "relax", "B": "reject", "C": "relate", "D": "reduce", "correct": "A" },
+      { "q": "「くつろげる週末」に合うのは？ a ___ weekend", "A": "relaxed", "B": "relaxing", "C": "relax", "D": "relaxation", "correct": "B" }
+    ]
+  },
+  {
+    "english": "release",
+    "pron": "rɪˈliːs",
+    "kana": "リリース",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "古フランス語 relaissier（手放す）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "多義語"],
+    "meaning_main": "解放する・発表／発売する・放出する",
+    "description": "release の意味・発音・例文・語源を解説。「解放する」「（作品を）発売する」「放出する」など幅広い意味と使い方を紹介します。",
+    "keywords": ["release 意味", "release 発音", "release 発売 解放", "release 使い方"],
+    "meanings": [
+      { "hinshi": "【動詞】解放する・自由にする", "note": "release a prisoner（囚人を釈放する）。" },
+      { "hinshi": "【動詞】（作品・製品を）発表・発売する", "note": "release a new album（新アルバムを発売する）。" },
+      { "hinshi": "【動詞】（ガス・熱などを）放出する", "note": "release energy（エネルギーを放出する）。" },
+      { "hinshi": "【名詞】発表・公開／解放", "note": "a new release（新作）。" }
+    ],
+    "usages": [
+      { "title": "① 「解放する・放す」として", "desc": "つかんでいたものや人を自由にする意味です。", "example_en": "The bird was released into the wild.", "example_ja": "その鳥は野生に放たれた。" },
+      { "title": "② 「発売・公開する」として", "desc": "映画・音楽・製品を世に出す意味でよく使います。", "example_en": "The movie will be released next month.", "example_ja": "その映画は来月公開される。" }
+    ],
+    "warn": [
+      "『発売・公開』の意味が現代では非常によく使われる。a press release は『報道発表』。",
+      "発音は『リリース』/rɪˈliːs/。最後は濁らず /s/。"
+    ],
+    "etym_note": "古フランス語 relaissier（手放す・ゆるめる）に由来し、ラテン語 relaxare（ゆるめる）と同じ語源です。relax と兄弟語で、「握りをゆるめて放す」が原義です。",
+    "etym_chain": [
+      { "node": "relaxare", "sub": "ゆるめる", "era": "ラテン語" },
+      { "node": "relaissier", "sub": "手放す", "era": "古フランス語" },
+      { "node": "release", "sub": "解放する・公開する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "release a movie", "ja": "映画を公開する" },
+      { "en": "release an album", "ja": "アルバムを発売する" },
+      { "en": "be released from prison", "ja": "刑務所から釈放される" },
+      { "en": "a press release", "ja": "報道発表" },
+      { "en": "release energy", "ja": "エネルギーを放出する" },
+      { "en": "a new release", "ja": "新作・新発売" }
+    ],
+    "related": [
+      { "en": "free", "ja": "解放する・自由な" },
+      { "en": "publish", "ja": "出版・公開する" },
+      { "en": "launch", "ja": "発売・開始する" },
+      { "en": "set free", "ja": "解き放つ" }
+    ],
+    "faq": [
+      { "q": "release の現代的な主な使い方は？", "a": "映画・音楽・製品などを『発売・公開する』意味が非常によく使われます。The game was released. のように使います。" },
+      { "q": "a press release とは？", "a": "企業や団体が報道機関向けに出す『報道発表・プレスリリース』のことです。" }
+    ],
+    "quiz": [
+      { "q": "The movie will be ___ next month.（来月公開される）", "A": "released", "B": "rejected", "C": "reduced", "D": "received", "correct": "A" },
+      { "q": "「報道発表」を表すのはどれ？", "A": "a press release", "B": "a press reduce", "C": "a press reject", "D": "a press record", "correct": "A" }
+    ]
+  },
+  {
+    "english": "relief",
+    "pron": "rɪˈliːf",
+    "kana": "リリーフ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 relief（持ち上げること・軽減）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "感情"],
+    "meaning_main": "安心・ほっとすること／（苦痛の）軽減・救援",
+    "description": "relief の意味・発音・例文・語源を解説。動詞 relieve との関係や、What a relief!（ほっとした！）などの定番表現も紹介します。",
+    "keywords": ["relief 意味", "relief 発音", "relieve relief 違い", "What a relief 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】安心・ほっとすること", "note": "a sense of relief（安堵感）。心配が消えた気持ち。" },
+      { "hinshi": "【名詞】（苦痛・問題の）軽減", "note": "pain relief（痛みの緩和）。" },
+      { "hinshi": "【名詞】救援・援助", "note": "disaster relief（災害救援）。" }
+    ],
+    "usages": [
+      { "title": "① 「安心・安堵」として", "desc": "心配ごとが消えてほっとする気持ちを表します。", "example_en": "It was a great relief to hear that everyone was safe.", "example_ja": "全員無事と聞いて本当にほっとした。" },
+      { "title": "② 「軽減・救援」として", "desc": "痛みや困難をやわらげること、被災者支援などを表します。", "example_en": "The medicine gave him some relief from the pain.", "example_ja": "その薬で彼は痛みが少しやわらいだ。" }
+    ],
+    "warn": [
+      "名詞は relief、動詞は relieve（つづり・発音が違う）。relieve stress（ストレスを軽減する）。",
+      "What a relief!（ああ、ほっとした！）は会話の定番表現。"
+    ],
+    "etym_note": "古フランス語 relief（持ち上げること・軽減）に由来し、ラテン語 relevare（re-「再び」＋ levare「持ち上げる」＝軽くする）から来ています。「重荷を持ち上げて楽にする」が原義です。",
+    "etym_chain": [
+      { "node": "relevare", "sub": "軽くする・持ち上げる", "era": "ラテン語" },
+      { "node": "relief", "sub": "軽減・救援", "era": "古フランス語" },
+      { "node": "relief", "sub": "安心・軽減", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "What a relief!", "ja": "ああ、ほっとした！" },
+      { "en": "a sense of relief", "ja": "安堵感" },
+      { "en": "to my relief", "ja": "ほっとしたことに" },
+      { "en": "pain relief", "ja": "痛みの緩和" },
+      { "en": "disaster relief", "ja": "災害救援" },
+      { "en": "with relief", "ja": "ほっとして" }
+    ],
+    "related": [
+      { "en": "relieve", "ja": "やわらげる（動詞）" },
+      { "en": "relieved", "ja": "ほっとした（形容詞）" },
+      { "en": "comfort", "ja": "慰め・快適さ" },
+      { "en": "aid", "ja": "援助" }
+    ],
+    "faq": [
+      { "q": "relief と relieve の違いは？", "a": "relief は名詞『安心・軽減』、relieve は動詞『やわらげる』です。The news relieved me.／It was a relief. のように使い分けます。" },
+      { "q": "「ほっとした！」は英語で？", "a": "What a relief! と言います。心配が消えて安心したときの定番表現です。" }
+    ],
+    "quiz": [
+      { "q": "It was a great ___ to hear everyone was safe.（ほっとした）", "A": "relief", "B": "release", "C": "relate", "D": "relax", "correct": "A" },
+      { "q": "relief の動詞形はどれ？", "A": "relieve", "B": "relief", "C": "relate", "D": "release", "correct": "A" }
+    ]
+  }
+]
