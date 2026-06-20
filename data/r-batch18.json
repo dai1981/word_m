@@ -1,0 +1,532 @@
+[
+  {
+    "english": "register",
+    "pron": "ˈredʒɪstər",
+    "kana": "レジスター",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "ラテン語 regesta（記録されたもの）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "多義語"],
+    "meaning_main": "登録する・記録する／登録簿・レジ",
+    "description": "register の意味・発音・例文・語源を解説。「登録する」の使い方や、register for（〜に登録する）、名詞 registration（登録）も分かりやすく紹介します。",
+    "keywords": ["register 意味", "register 発音", "register for 使い方", "registration 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】登録する・記録する", "note": "register for a course（講座に登録する）。" },
+      { "hinshi": "【名詞】登録簿・名簿", "note": "the school register（出席簿）。" },
+      { "hinshi": "【名詞】レジ・現金登録機", "note": "a cash register（レジ）。" }
+    ],
+    "usages": [
+      { "title": "① 動詞「登録する」として", "desc": "register for〜で「〜に登録する」を表します。", "example_en": "You need to register for the event online.", "example_ja": "そのイベントにはオンラインで登録する必要がある。" },
+      { "title": "② 名詞「レジ・登録簿」として", "desc": "a cash register（レジ）などで使います。", "example_en": "Please pay at the register.", "example_ja": "レジでお支払いください。" }
+    ],
+    "warn": [
+      "「〜に登録する」は register for。名詞は registration（登録）。",
+      "a cash register は『レジ（現金登録機）』。日本語の『レジ』はこの略。"
+    ],
+    "etym_note": "ラテン語 regesta（記録されたもの。regerere「書き留める」から）に由来します。「記録に書き入れる＝登録する」が原義です。",
+    "etym_chain": [
+      { "node": "regesta", "sub": "記録されたもの", "era": "ラテン語" },
+      { "node": "registre", "sub": "記録簿", "era": "古フランス語" },
+      { "node": "register", "sub": "登録する・登録簿", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "register for", "ja": "〜に登録する" },
+      { "en": "a cash register", "ja": "レジ・現金登録機" },
+      { "en": "register a birth", "ja": "出生届を出す" },
+      { "en": "registered mail", "ja": "書留郵便" },
+      { "en": "the school register", "ja": "出席簿" },
+      { "en": "register to vote", "ja": "選挙人登録をする" }
+    ],
+    "related": [
+      { "en": "registration", "ja": "登録（名詞）" },
+      { "en": "record", "ja": "記録する" },
+      { "en": "enroll", "ja": "登録・入学する" },
+      { "en": "sign up", "ja": "申し込む" }
+    ],
+    "faq": [
+      { "q": "register for の意味は？", "a": "『〜に登録する・申し込む』という意味です。register for a class（授業に登録する）のように使います。" },
+      { "q": "register の名詞形は？", "a": "registration（登録・登記）です。online registration（オンライン登録）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "You need to ___ for the event online.（登録する）", "A": "register", "B": "remember", "C": "remind", "D": "recover", "correct": "A" },
+      { "q": "「レジ」を表すのはどれ？", "A": "a cash register", "B": "a cash record", "C": "a cash receipt", "D": "a cash receiver", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reinforce",
+    "pron": "ˌriːɪnˈfɔːrs",
+    "kana": "リーインフォース",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ inforce（force 力を加える）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "補強する・強化する・裏づける",
+    "description": "reinforce の意味・発音・例文・語源を解説。物理的な「補強」と、考え・主張を「裏づける」の両方の使い方を分かりやすく紹介します。",
+    "keywords": ["reinforce 意味", "reinforce 発音", "reinforce 補強 強化", "reinforcement 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】補強する・強化する", "note": "reinforce a wall（壁を補強する）。" },
+      { "hinshi": "【動詞】（考え・主張を）裏づける・強める", "note": "reinforce a belief（信念を強める）。" }
+    ],
+    "usages": [
+      { "title": "① 「補強する」として", "desc": "物を物理的に丈夫にする意味です。", "example_en": "The bridge was reinforced with steel.", "example_ja": "その橋は鋼鉄で補強された。" },
+      { "title": "② 「裏づける・強める」として", "desc": "考えや傾向を強める意味です。", "example_en": "The results reinforce our earlier findings.", "example_ja": "その結果は私たちの以前の発見を裏づけている。" }
+    ],
+    "warn": [
+      "名詞は reinforcement（補強・強化・増援）。reinforced concrete は『鉄筋コンクリート』。",
+      "force（力）に re-（再び）と in-（中に）がついた構成。"
+    ],
+    "etym_note": "force（力）に re-（再び）と in-（中へ）がついた語で、「再び力を加える＝補強する」が原義です。force・enforce と同じ語源です。",
+    "etym_chain": [
+      { "node": "fortis", "sub": "強い", "era": "ラテン語" },
+      { "node": "enforce", "sub": "力を加える", "era": "中英語" },
+      { "node": "reinforce", "sub": "補強する・強化する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reinforce a wall", "ja": "壁を補強する" },
+      { "en": "reinforce a belief", "ja": "信念を強める" },
+      { "en": "reinforced concrete", "ja": "鉄筋コンクリート" },
+      { "en": "reinforce a message", "ja": "メッセージを強調する" },
+      { "en": "reinforce the idea that", "ja": "〜という考えを強める" },
+      { "en": "positive reinforcement", "ja": "（心理学の）正の強化" }
+    ],
+    "related": [
+      { "en": "reinforcement", "ja": "補強・強化（名詞）" },
+      { "en": "strengthen", "ja": "強くする" },
+      { "en": "support", "ja": "支える・裏づける" },
+      { "en": "weaken", "ja": "弱める（反対語）" }
+    ],
+    "faq": [
+      { "q": "reinforce の二つの使い方は？", "a": "①物を物理的に『補強する』（reinforce a building）と、②考え・傾向を『裏づける・強める』（reinforce a stereotype）です。" },
+      { "q": "reinforce の名詞形は？", "a": "reinforcement（補強・強化・増援）です。" }
+    ],
+    "quiz": [
+      { "q": "The bridge was ___ with steel.（鋼鉄で補強）", "A": "reinforced", "B": "reformed", "C": "removed", "D": "reduced", "correct": "A" },
+      { "q": "「鉄筋コンクリート」を表すのはどれ？", "A": "reinforced concrete", "B": "reformed concrete", "C": "renewed concrete", "D": "restored concrete", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reproduce",
+    "pron": "ˌriːprəˈduːs",
+    "kana": "リープロデュース",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ produce（生み出す）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "理科"],
+    "meaning_main": "繁殖する・複製する・再現する",
+    "description": "reproduce の意味・発音・例文・語源を解説。生物の「繁殖」や、複製・再現の使い方、名詞 reproduction も分かりやすく紹介します。",
+    "keywords": ["reproduce 意味", "reproduce 発音", "reproduction 意味", "reproduce 繁殖"],
+    "meanings": [
+      { "hinshi": "【動詞】繁殖する・子を産む", "note": "生物が子孫を残す。理科で頻出。" },
+      { "hinshi": "【動詞】複製する・再現する", "note": "reproduce a painting（絵を複製する）。" }
+    ],
+    "usages": [
+      { "title": "① 「繁殖する」として", "desc": "生物が子孫を増やす意味です。", "example_en": "Most fish reproduce by laying eggs.", "example_ja": "ほとんどの魚は卵を産んで繁殖する。" },
+      { "title": "② 「複製・再現する」として", "desc": "もとのものをそのまま作り直す意味です。", "example_en": "The printer can reproduce colors accurately.", "example_ja": "そのプリンターは色を正確に再現できる。" }
+    ],
+    "warn": [
+      "名詞は reproduction（繁殖・複製・再現）。生物の『生殖』も reproduction。",
+      "produce（生産する）に re-（再び）がついた語。"
+    ],
+    "etym_note": "produce（生み出す。ラテン語 producere「前に導き出す」）に re-（再び）がついた語で、「再び生み出す＝繁殖・複製する」が原義です。",
+    "etym_chain": [
+      { "node": "producere", "sub": "前に導き出す", "era": "ラテン語" },
+      { "node": "produce", "sub": "生み出す", "era": "中英語" },
+      { "node": "reproduce", "sub": "繁殖する・複製する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reproduce by", "ja": "〜によって繁殖する" },
+      { "en": "reproduce a sound", "ja": "音を再現する" },
+      { "en": "reproduce an image", "ja": "画像を複製する" },
+      { "en": "ability to reproduce", "ja": "繁殖能力" },
+      { "en": "sexual reproduction", "ja": "有性生殖" },
+      { "en": "faithfully reproduce", "ja": "忠実に再現する" }
+    ],
+    "related": [
+      { "en": "reproduction", "ja": "繁殖・複製（名詞）" },
+      { "en": "produce", "ja": "生産する" },
+      { "en": "copy", "ja": "複製する" },
+      { "en": "breed", "ja": "繁殖させる" }
+    ],
+    "faq": [
+      { "q": "reproduce の理科での意味は？", "a": "『（生物が）繁殖する・子孫を残す』という意味です。reproduce by laying eggs（卵で繁殖する）のように使います。" },
+      { "q": "reproduce の名詞形は？", "a": "reproduction（繁殖・複製・再現）です。sexual reproduction（有性生殖）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "Most fish ___ by laying eggs.（卵で繁殖する）", "A": "reproduce", "B": "represent", "C": "reduce", "D": "remove", "correct": "A" },
+      { "q": "reproduce の名詞形はどれ？", "A": "reproducement", "B": "reproduction", "C": "reproducing のみ", "D": "reproductance", "correct": "B" }
+    ]
+  },
+  {
+    "english": "resort",
+    "pron": "rɪˈzɔːrt",
+    "kana": "リゾート",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "古フランス語 resortir（再び出かける・頼る）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "多義語"],
+    "meaning_main": "行楽地・リゾート／（最後の）手段／（〜に）訴える",
+    "description": "resort の意味・発音・例文・語源を解説。「行楽地」だけでなく、a last resort（最後の手段）、resort to（〜に訴える）も分かりやすく紹介します。",
+    "keywords": ["resort 意味", "resort 発音", "last resort 意味", "resort to 使い方"],
+    "meanings": [
+      { "hinshi": "【名詞】行楽地・保養地・リゾート", "note": "a ski resort（スキー場）、a beach resort（海辺の保養地）。" },
+      { "hinshi": "【名詞】（頼る）手段", "note": "a last resort（最後の手段）。" },
+      { "hinshi": "【動詞】(resort to) （好ましくない手段に）訴える", "note": "resort to violence（暴力に訴える）。" }
+    ],
+    "usages": [
+      { "title": "① 「行楽地・リゾート」として", "desc": "休暇を過ごす保養地を表します。", "example_en": "We stayed at a ski resort last winter.", "example_ja": "私たちは昨冬スキーリゾートに滞在した。" },
+      { "title": "② resort to / a last resort として", "desc": "「（やむを得ず）手段に訴える」を表します。", "example_en": "They had to resort to drastic measures.", "example_ja": "彼らは思い切った手段に訴えざるを得なかった。" }
+    ],
+    "warn": [
+      "a last resort は『最後の手段』。resort to＋名詞／動名詞は『（好ましくない手段に）訴える』。",
+      "日本語の『リゾート』は名詞の意味だけ。英語には『手段に訴える』動詞用法もある。"
+    ],
+    "etym_note": "古フランス語 resortir（re-「再び」＋ sortir「出かける」＝再び出向く・頼る）に由来します。「（困ったとき）何度も足を運ぶ場所・頼るもの」が原義で、そこから『行楽地』『頼る手段』になりました。",
+    "etym_chain": [
+      { "node": "resortir", "sub": "再び出かける・頼る", "era": "古フランス語" },
+      { "node": "resort", "sub": "頼る場所・手段", "era": "中英語" },
+      { "node": "resort", "sub": "行楽地・手段・訴える", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a ski resort", "ja": "スキーリゾート" },
+      { "en": "a beach resort", "ja": "海辺の保養地" },
+      { "en": "a last resort", "ja": "最後の手段" },
+      { "en": "resort to", "ja": "〜（手段）に訴える" },
+      { "en": "resort to violence", "ja": "暴力に訴える" },
+      { "en": "as a last resort", "ja": "最後の手段として" }
+    ],
+    "related": [
+      { "en": "vacation", "ja": "休暇" },
+      { "en": "destination", "ja": "目的地・行楽地" },
+      { "en": "means", "ja": "手段" },
+      { "en": "turn to", "ja": "〜に頼る" }
+    ],
+    "faq": [
+      { "q": "a last resort とは？", "a": "『最後の手段』という意味です。as a last resort（最後の手段として）の形でよく使います。" },
+      { "q": "resort to とは？", "a": "『（ふつう好ましくない手段に）訴える・頼る』という意味です。resort to lying（うそをつくという手段に出る）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "We stayed at a ski ___ last winter.（スキーリゾート）", "A": "resort", "B": "report", "C": "resource", "D": "reserve", "correct": "A" },
+      { "q": "「最後の手段」を表すのはどれ？", "A": "a last resort", "B": "a last report", "C": "a last reserve", "D": "a last resource", "correct": "A" }
+    ]
+  },
+  {
+    "english": "restrict",
+    "pron": "rɪˈstrɪkt",
+    "kana": "リストリクト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 restringere（しばりつける）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "制限する・限定する",
+    "description": "restrict の意味・発音・例文・語源を解説。restrict A to B（AをBに限定する）の使い方や、名詞 restriction、limit との関係も紹介します。",
+    "keywords": ["restrict 意味", "restrict 発音", "restrict to 使い方", "restriction 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】制限する・限定する", "note": "restrict access（立ち入りを制限する）。" },
+      { "hinshi": "【動詞】(restrict A to B) AをBに限定する", "note": "Membership is restricted to adults." }
+    ],
+    "usages": [
+      { "title": "① 「制限する」として", "desc": "自由・量・範囲を制限する意味です。", "example_en": "The new law restricts the use of plastic bags.", "example_ja": "新しい法律はレジ袋の使用を制限している。" },
+      { "title": "② restrict A to B として", "desc": "「AをBの範囲に限定する」を表します。", "example_en": "Entry is restricted to members only.", "example_ja": "入場は会員のみに限られている。" }
+    ],
+    "warn": [
+      "「AをBに限定する」は restrict A to B。名詞は restriction（制限）。",
+      "restrict は『（規則などで）制限する』、limit は『限界を設ける』。意味は近い。"
+    ],
+    "etym_note": "ラテン語 restringere（re-「強意」＋ stringere「ぴんと張る・しばる」＝しばりつける）に由来します。strict・stress と同じ str-（張る・しばる）の語根です。",
+    "etym_chain": [
+      { "node": "restringere", "sub": "しばりつける", "era": "ラテン語" },
+      { "node": "restrict", "sub": "制限する", "era": "近代英語" },
+      { "node": "restrict", "sub": "制限する・限定する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "restrict access", "ja": "立ち入りを制限する" },
+      { "en": "restrict A to B", "ja": "AをBに限定する" },
+      { "en": "restrict the use of", "ja": "〜の使用を制限する" },
+      { "en": "severely restrict", "ja": "厳しく制限する" },
+      { "en": "be restricted to", "ja": "〜に限られている" },
+      { "en": "restrict movement", "ja": "移動を制限する" }
+    ],
+    "related": [
+      { "en": "restriction", "ja": "制限（名詞）" },
+      { "en": "limit", "ja": "制限する・限界" },
+      { "en": "control", "ja": "管理する" },
+      { "en": "allow", "ja": "許す（反対概念）" }
+    ],
+    "faq": [
+      { "q": "restrict A to B とは？", "a": "『AをBの範囲に限定する』という意味です。restrict the discussion to one topic（議論を一つの話題に限定する）のように使います。" },
+      { "q": "restrict の名詞形は？", "a": "restriction（制限・制約）です。travel restrictions（渡航制限）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The new law ___ the use of plastic bags.（制限する）", "A": "restricts", "B": "resists", "C": "resolves", "D": "retains", "correct": "A" },
+      { "q": "restrict の名詞形はどれ？", "A": "restriction", "B": "restrictment", "C": "restrictance", "D": "restricty", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retail",
+    "pron": "ˈriːteɪl",
+    "kana": "リーテイル",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞・形容詞",
+    "ld_etym": "古フランス語 retaille（切り分けたもの）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "商業"],
+    "meaning_main": "小売り（の）",
+    "description": "retail の意味・発音・例文・語源を解説。wholesale（卸売り）との対比や、retail price（小売価格）、retailer（小売業者）も分かりやすく紹介します。",
+    "keywords": ["retail 意味", "retail 発音", "retail wholesale 違い", "retailer 意味"],
+    "meanings": [
+      { "hinshi": "【名詞・形容詞】小売り（の）", "note": "消費者に直接売ること。a retail store（小売店）。" }
+    ],
+    "usages": [
+      { "title": "① 「小売り」として", "desc": "消費者に直接商品を売ることを表します。", "example_en": "She works in retail.", "example_ja": "彼女は小売業で働いている。" },
+      { "title": "② wholesale との対比で", "desc": "卸売り（wholesale）と対比して使います。", "example_en": "The retail price is higher than the wholesale price.", "example_ja": "小売価格は卸売価格より高い。" }
+    ],
+    "warn": [
+      "反対は wholesale（卸売り）。retailer は『小売業者』、retail price は『小売価格』。",
+      "動詞用法もあり、retail at／for＋値段で『（小売りで）〜の値で売られる』。"
+    ],
+    "etym_note": "古フランス語 retaille（retaillier「切り分ける」から）に由来します。「（大きなものを）小さく切り分けて売る＝小売り」が原義です。tailor（仕立て屋）と同じ tail-（切る）の語根です。",
+    "etym_chain": [
+      { "node": "retaillier", "sub": "切り分ける", "era": "古フランス語" },
+      { "node": "retail", "sub": "小分けして売る", "era": "中英語" },
+      { "node": "retail", "sub": "小売り", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a retail store", "ja": "小売店" },
+      { "en": "the retail price", "ja": "小売価格" },
+      { "en": "work in retail", "ja": "小売業で働く" },
+      { "en": "retail and wholesale", "ja": "小売りと卸売り" },
+      { "en": "online retail", "ja": "オンライン小売り" },
+      { "en": "a retail chain", "ja": "小売チェーン" }
+    ],
+    "related": [
+      { "en": "wholesale", "ja": "卸売り（反対語）" },
+      { "en": "retailer", "ja": "小売業者" },
+      { "en": "store", "ja": "店" },
+      { "en": "sell", "ja": "売る" }
+    ],
+    "faq": [
+      { "q": "retail と wholesale の違いは？", "a": "retail は『小売り（消費者に直接売る）』、wholesale は『卸売り（小売業者などにまとめて売る）』です。" },
+      { "q": "retailer とは？", "a": "『小売業者・小売店』のことです。online retailers（オンライン小売業者）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The ___ price is higher than the wholesale price.（小売価格）", "A": "retail", "B": "retain", "C": "return", "D": "result", "correct": "A" },
+      { "q": "retail の反対語はどれ？", "A": "wholesale", "B": "resale", "C": "presale", "D": "discount", "correct": "A" }
+    ]
+  },
+  {
+    "english": "revise",
+    "pron": "rɪˈvaɪz",
+    "kana": "リバイズ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 revisere（再び見る）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "修正する・改訂する／（英）復習する",
+    "description": "revise の意味・発音・例文・語源を解説。「（誤りを直して）修正・改訂する」の使い方や、イギリス英語の「復習する」、名詞 revision も紹介します。",
+    "keywords": ["revise 意味", "revise 発音", "revise 復習 改訂", "revision 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】修正する・改訂する", "note": "誤りや古い点を直す。revise a plan（計画を修正する）。" },
+      { "hinshi": "【動詞】（英）復習する", "note": "イギリス英語で『試験勉強・復習する』。" }
+    ],
+    "usages": [
+      { "title": "① 「修正・改訂する」として", "desc": "内容を見直して直す意味です。", "example_en": "The author revised the book for the second edition.", "example_ja": "著者は第2版のために本を改訂した。" },
+      { "title": "② （英）「復習する」として", "desc": "イギリス英語で試験勉強の意味になります。", "example_en": "I need to revise for my exams.", "example_ja": "（英）試験のために復習しなければならない。" }
+    ],
+    "warn": [
+      "アメリカでは revise＝『改訂する』が中心。『復習する』の意味はおもにイギリス英語。",
+      "名詞は revision（改訂・修正／（英）復習）。review（見直す・批評する）と区別。"
+    ],
+    "etym_note": "ラテン語 revisere（re-「再び」＋ visere「よく見る」＝見直す）に由来します。vision・review と同じ vis-（見る）の語根で、「もう一度見て直す」が原義です。",
+    "etym_chain": [
+      { "node": "revisere", "sub": "再び見る", "era": "ラテン語" },
+      { "node": "reviser", "sub": "見直す", "era": "フランス語" },
+      { "node": "revise", "sub": "修正する・改訂する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "revise a plan", "ja": "計画を修正する" },
+      { "en": "revise an estimate", "ja": "見積もりを見直す" },
+      { "en": "a revised edition", "ja": "改訂版" },
+      { "en": "revise upward", "ja": "上方修正する" },
+      { "en": "revise for exams", "ja": "（英）試験勉強をする" },
+      { "en": "make revisions", "ja": "修正を加える" }
+    ],
+    "related": [
+      { "en": "revision", "ja": "改訂・修正（名詞）" },
+      { "en": "review", "ja": "見直す・批評する" },
+      { "en": "edit", "ja": "編集する" },
+      { "en": "correct", "ja": "訂正する" }
+    ],
+    "faq": [
+      { "q": "revise と review の違いは？", "a": "revise は『（誤りを直して）修正・改訂する』、review は『（もう一度見て）確認・批評する』です。なおイギリスでは revise を『復習する』の意味でも使います。" },
+      { "q": "revise の名詞形は？", "a": "revision（改訂・修正、（英）復習）です。a revised version の名詞形として使います。" }
+    ],
+    "quiz": [
+      { "q": "The author ___ the book for the second edition.（改訂した）", "A": "revised", "B": "reviewed の批評の語感", "C": "reversed", "D": "removed", "correct": "A" },
+      { "q": "revise の名詞形はどれ？", "A": "revisement", "B": "revision", "C": "revisation", "D": "revisence", "correct": "B" }
+    ]
+  },
+  {
+    "english": "rip",
+    "pron": "rɪp",
+    "kana": "リップ",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "中英語 rippen（引き裂く）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "基本動詞"],
+    "meaning_main": "引き裂く・破れる／裂け目",
+    "description": "rip の意味・発音・例文・語源を解説。tear との違いや、rip up（びりびりに破る）、rip off（だまし取る）も分かりやすく紹介します。",
+    "keywords": ["rip 意味", "rip 発音", "rip off 意味", "rip tear 違い"],
+    "meanings": [
+      { "hinshi": "【動詞】引き裂く・破れる", "note": "勢いよく裂く。rip the paper（紙を引き裂く）。" },
+      { "hinshi": "【名詞】裂け目・破れ", "note": "a rip in the jeans（ジーンズの裂け目）。" }
+    ],
+    "usages": [
+      { "title": "① 「引き裂く・破れる」として", "desc": "勢いよく裂く・裂ける意味です。", "example_en": "He ripped the letter into pieces.", "example_ja": "彼は手紙をびりびりに引き裂いた。" },
+      { "title": "② 句動詞 rip off として", "desc": "「だまし取る・ぼったくる」の口語表現です。", "example_en": "That shop ripped me off.", "example_ja": "あの店にぼったくられた。" }
+    ],
+    "warn": [
+      "活用は語尾の p を重ねる：rip – ripped – ripped。",
+      "rip off は『だまし取る・ぼったくる』、a rip-off は『ぼったくり・粗悪な模倣品』。"
+    ],
+    "etym_note": "中英語 rippen（引き裂く）に由来するとされます。擬態的な響きを持つ語で、勢いよく裂くことを表します。",
+    "etym_chain": [
+      { "node": "rippen", "sub": "引き裂く", "era": "中英語" },
+      { "node": "rip", "sub": "裂く", "era": "近代英語" },
+      { "node": "rip", "sub": "引き裂く・裂け目", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rip up", "ja": "びりびりに破る" },
+      { "en": "rip off", "ja": "だまし取る・ぼったくる" },
+      { "en": "rip apart", "ja": "引き裂く・ばらばらにする" },
+      { "en": "a rip-off", "ja": "ぼったくり・粗悪な模倣" },
+      { "en": "rip open", "ja": "破って開ける" },
+      { "en": "let it rip", "ja": "思いきりやる" }
+    ],
+    "related": [
+      { "en": "tear", "ja": "裂く・破る" },
+      { "en": "split", "ja": "裂ける" },
+      { "en": "cut", "ja": "切る" },
+      { "en": "shred", "ja": "細かく裂く" }
+    ],
+    "faq": [
+      { "q": "rip と tear の違いは？", "a": "意味は近いですが、rip は『勢いよく・乱暴に引き裂く』ニュアンスが強く、tear はより一般的な『破る・裂く』です。" },
+      { "q": "rip off とはどんな意味？", "a": "口語で『だまし取る・ぼったくる』という意味です。名詞 a rip-off は『ぼったくり・粗悪な模倣品』です。" }
+    ],
+    "quiz": [
+      { "q": "He ___ the letter into pieces.（引き裂いた）", "A": "ripped", "B": "riped", "C": "rip", "D": "ripping のみ", "correct": "A" },
+      { "q": "「だまし取る・ぼったくる」を表すのはどれ？", "A": "rip off", "B": "rip up", "C": "rip in", "D": "rip at", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rod",
+    "pron": "rɑːd",
+    "kana": "ロッド",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 rodd（細い棒）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "もの"],
+    "meaning_main": "棒・さお・棒状のもの",
+    "description": "rod の意味・発音・例文・語源を解説。釣りざお（fishing rod）や鉄の棒など、細長い棒状のものを表す使い方を分かりやすく紹介します。",
+    "keywords": ["rod 意味", "rod 発音", "fishing rod 意味", "rod 棒"],
+    "meanings": [
+      { "hinshi": "【名詞】棒・さお・棒状のもの", "note": "細長くまっすぐな棒。a fishing rod（釣りざお）。" }
+    ],
+    "usages": [
+      { "title": "① 道具の「棒・さお」として", "desc": "釣りざおやカーテンレールなどを表します。", "example_en": "He bought a new fishing rod.", "example_ja": "彼は新しい釣りざおを買った。" },
+      { "title": "② 金属などの「棒」として", "desc": "建材や器具の棒を表します。", "example_en": "The structure is supported by steel rods.", "example_ja": "その構造物は鋼鉄の棒で支えられている。" }
+    ],
+    "warn": [
+      "rod /rɑːd/ と road（道路）/roʊd/、rode（ride の過去形）は母音が違う。混同に注意。",
+      "spare the rod は『むちを惜しむ（甘やかす）』という古い言い回し。"
+    ],
+    "etym_note": "古英語 rodd（細い棒）に由来する古いゲルマン系の語です。まっすぐな棒状のものを広く表します。",
+    "etym_chain": [
+      { "node": "rodd", "sub": "細い棒", "era": "古英語" },
+      { "node": "rod", "sub": "棒・さお", "era": "中英語" },
+      { "node": "rod", "sub": "棒・棒状のもの", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a fishing rod", "ja": "釣りざお" },
+      { "en": "a metal rod", "ja": "金属の棒" },
+      { "en": "a curtain rod", "ja": "カーテンレール" },
+      { "en": "a lightning rod", "ja": "避雷針" },
+      { "en": "steel rods", "ja": "鉄筋・鉄の棒" },
+      { "en": "spare the rod", "ja": "むちを惜しむ（甘やかす）" }
+    ],
+    "related": [
+      { "en": "stick", "ja": "棒・枝" },
+      { "en": "pole", "ja": "さお・柱" },
+      { "en": "bar", "ja": "棒・かんぬき" },
+      { "en": "staff", "ja": "つえ・棒" }
+    ],
+    "faq": [
+      { "q": "rod と road の違いは？", "a": "rod は『棒・さお』/rɑːd/、road は『道路』/roʊd/ で、母音もつづりも違います。" },
+      { "q": "a lightning rod とは？", "a": "『避雷針』のことです。建物に落ちる雷を安全に地面へ逃がす金属の棒です。" }
+    ],
+    "quiz": [
+      { "q": "He bought a new fishing ___.（釣りざお）", "A": "rod", "B": "road", "C": "rode", "D": "rid", "correct": "A" },
+      { "q": "「避雷針」を表すのはどれ？", "A": "a lightning rod", "B": "a lightning road", "C": "a lightning rope", "D": "a lightning rock", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rotten",
+    "pron": "ˈrɑːtən",
+    "kana": "ロトゥン",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "古ノルド語 rotinn（腐った）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "形容詞"],
+    "meaning_main": "腐った・ひどい・最低の",
+    "description": "rotten の意味・発音・例文・語源を解説。「（食べ物が）腐った」と、口語の「ひどい・最低の」の使い方や、動詞 rot との関係も紹介します。",
+    "keywords": ["rotten 意味", "rotten 発音", "rot rotten 関係", "rotten 腐った"],
+    "meanings": [
+      { "hinshi": "【形容詞】腐った・腐敗した", "note": "rotten food（腐った食べ物）。a rotten egg（腐った卵）。" },
+      { "hinshi": "【形容詞】（口語）ひどい・最低の", "note": "a rotten day（最悪の一日）。" }
+    ],
+    "usages": [
+      { "title": "① 「腐った」として", "desc": "食べ物などがいたんだ状態を表します。", "example_en": "Throw away that rotten apple.", "example_ja": "その腐ったリンゴを捨てなさい。" },
+      { "title": "② 口語「ひどい・最低の」として", "desc": "とても悪い・不快な様子を表します。", "example_en": "I feel rotten about what I said.", "example_ja": "自分の言ったことについて最低な気分だ。" }
+    ],
+    "warn": [
+      "動詞は rot（腐る・腐らせる）。rotten はその形容詞（過去分詞起源）。",
+      "口語の rotten は『ひどい・いやな』という強い否定。a rotten trick（卑劣な手）。"
+    ],
+    "etym_note": "古ノルド語 rotinn（腐った。rot の過去分詞起源）に由来します。動詞 rot（腐る）と同じ語源で、『腐敗した状態』を表します。",
+    "etym_chain": [
+      { "node": "rotinn", "sub": "腐った", "era": "古ノルド語" },
+      { "node": "roten", "sub": "腐った", "era": "中英語" },
+      { "node": "rotten", "sub": "腐った・ひどい", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rotten egg", "ja": "腐った卵" },
+      { "en": "rotten food", "ja": "腐った食べ物" },
+      { "en": "go rotten", "ja": "腐る" },
+      { "en": "a rotten day", "ja": "最悪の一日" },
+      { "en": "feel rotten", "ja": "最低な気分だ・気分が悪い" },
+      { "en": "rotten to the core", "ja": "根っから腐っている" }
+    ],
+    "related": [
+      { "en": "rot", "ja": "腐る（動詞）" },
+      { "en": "decay", "ja": "腐敗する" },
+      { "en": "spoiled", "ja": "いたんだ" },
+      { "en": "fresh", "ja": "新鮮な（反対語）" }
+    ],
+    "faq": [
+      { "q": "rotten と rot の関係は？", "a": "rot は動詞『腐る・腐らせる』、rotten はその形容詞『腐った』です。The fruit rotted. → rotten fruit のようになります。" },
+      { "q": "rotten の口語的な意味は？", "a": "『ひどい・最低の・いやな』という強い否定の意味でも使います。a rotten excuse（見え透いた言い訳）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "Throw away that ___ apple.（腐ったリンゴ）", "A": "rotten", "B": "rotated", "C": "roasted", "D": "ripe", "correct": "A" },
+      { "q": "rotten の動詞形（腐る）はどれ？", "A": "rot", "B": "rote", "C": "rotten の動詞用法", "D": "rotate", "correct": "A" }
+    ]
+  }
+]
