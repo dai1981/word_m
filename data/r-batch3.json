@@ -1,0 +1,534 @@
+[
+  {
+    "english": "receive",
+    "pron": "rɪˈsiːv",
+    "kana": "リシーヴ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 recipere（受け取る）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "基本動詞"],
+    "meaning_main": "受け取る・受ける",
+    "description": "receive の意味・発音・例文・語源を解説。get との違いや、つづりの ei（i before e の例外）、名詞 receipt との関係も紹介します。",
+    "keywords": ["receive 意味", "receive 発音", "receive get 違い", "receive つづり"],
+    "meanings": [
+      { "hinshi": "【動詞】受け取る", "note": "receive a letter（手紙を受け取る）。物や情報を受け取る。" },
+      { "hinshi": "【動詞】（扱いを）受ける", "note": "receive medical treatment（治療を受ける）。" },
+      { "hinshi": "【動詞】（客を）迎える", "note": "receive guests（客を迎える）。" }
+    ],
+    "usages": [
+      { "title": "① 「受け取る」として", "desc": "手紙・贈り物・メールなどを受け取る基本の意味です。", "example_en": "I received a letter from my friend yesterday.", "example_ja": "私は昨日、友人から手紙を受け取った。" },
+      { "title": "② 「（扱い・treatment を）受ける」として", "desc": "治療・教育・賞などを「受ける」意味でも使います。", "example_en": "She received an award for her work.", "example_ja": "彼女は仕事に対して賞を受けた。" }
+    ],
+    "warn": [
+      "つづりは receive。「i before e except after c（c の後は ei）」の代表例で、recieve は誤り。",
+      "receive はやや形式的。日常会話では get もよく使う。名詞は receipt（領収書、p は黙字）。"
+    ],
+    "etym_note": "ラテン語 recipere（re-「戻して」＋ capere「取る」＝受け取る）に由来します。recipe（レシピ）や receipt（領収書）も同じ語源の仲間です。",
+    "etym_chain": [
+      { "node": "recipere", "sub": "受け取る", "era": "ラテン語" },
+      { "node": "receivre", "sub": "受け取る", "era": "古フランス語" },
+      { "node": "receive", "sub": "受け取る", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "receive a letter", "ja": "手紙を受け取る" },
+      { "en": "receive a gift", "ja": "贈り物を受け取る" },
+      { "en": "receive an award", "ja": "賞を受ける" },
+      { "en": "receive an email", "ja": "メールを受け取る" },
+      { "en": "receive treatment", "ja": "治療を受ける" },
+      { "en": "receive a warm welcome", "ja": "温かい歓迎を受ける" }
+    ],
+    "related": [
+      { "en": "get", "ja": "得る・受け取る" },
+      { "en": "accept", "ja": "受け入れる" },
+      { "en": "receipt", "ja": "領収書・受領" },
+      { "en": "send", "ja": "送る（反対語）" }
+    ],
+    "faq": [
+      { "q": "receive と get の違いは？", "a": "意味は近いですが、receive はややフォーマルで「正式に受け取る」、get は日常的でくだけた言い方です。" },
+      { "q": "つづりは receive？ recieve？", "a": "receive が正しいです。『c の後は ei』というルールの代表例です。" }
+    ],
+    "quiz": [
+      { "q": "I ___ a letter from my friend.（手紙を受け取った）", "A": "received", "B": "sent", "C": "wrote", "D": "read", "correct": "A" },
+      { "q": "正しいつづりはどれ？", "A": "recieve", "B": "receive", "C": "receve", "D": "receeve", "correct": "B" }
+    ]
+  },
+  {
+    "english": "recent",
+    "pron": "ˈriːsənt",
+    "kana": "リーセント",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 recens（新しい・新鮮な）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "形容詞"],
+    "meaning_main": "最近の・近頃の",
+    "description": "recent の意味・発音・例文・語源を解説。副詞 recently（最近）の時制の使い方や、late との違いも分かりやすく紹介します。",
+    "keywords": ["recent 意味", "recent 発音", "recently 時制", "recent 最近"],
+    "meanings": [
+      { "hinshi": "【形容詞】最近の・近頃の", "note": "名詞の前で使う。a recent event（最近の出来事）。" }
+    ],
+    "usages": [
+      { "title": "① 「最近の出来事・もの」として", "desc": "名詞の前に置いて「近頃の」を表します。", "example_en": "In recent years, the city has changed a lot.", "example_ja": "近年、その都市は大きく変わった。" },
+      { "title": "② 副詞 recently（最近）として", "desc": "現在完了形や過去形と一緒に使うのが自然です。", "example_en": "I have recently started learning English.", "example_ja": "私は最近、英語の学習を始めた。" }
+    ],
+    "warn": [
+      "recent は名詞を修飾する形容詞。「最近〜した」は副詞 recently を使う。",
+      "recently は現在完了形・過去形と相性がよく、ふつう現在形とは使わない。"
+    ],
+    "etym_note": "ラテン語 recens（新しい・新鮮な）に由来します。「できたばかり」という原義から「最近の」という意味になりました。",
+    "etym_chain": [
+      { "node": "recens", "sub": "新しい・新鮮な", "era": "ラテン語" },
+      { "node": "recent", "sub": "最近の", "era": "近代英語" },
+      { "node": "recent", "sub": "最近の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "in recent years", "ja": "近年" },
+      { "en": "a recent event", "ja": "最近の出来事" },
+      { "en": "recent news", "ja": "最近のニュース" },
+      { "en": "the recent past", "ja": "つい最近のこと" },
+      { "en": "recent changes", "ja": "最近の変化" },
+      { "en": "until recently", "ja": "最近まで" }
+    ],
+    "related": [
+      { "en": "recently", "ja": "最近（副詞）" },
+      { "en": "current", "ja": "現在の" },
+      { "en": "latest", "ja": "最新の" },
+      { "en": "modern", "ja": "現代の" }
+    ],
+    "faq": [
+      { "q": "recent と recently の違いは？", "a": "recent は形容詞（a recent photo＝最近の写真）、recently は副詞（I recently moved＝最近引っ越した）です。" },
+      { "q": "recently はどの時制で使う？", "a": "おもに現在完了形や過去形と使います。I have recently finished it. のように使います。" }
+    ],
+    "quiz": [
+      { "q": "In ___ years, the city has changed.（近年、街は変わった）", "A": "recent", "B": "recently", "C": "recede", "D": "receipt", "correct": "A" },
+      { "q": "「最近、英語を始めた」に合う語は？ I have ___ started English.", "A": "recent", "B": "recently", "C": "recence", "D": "recents", "correct": "B" }
+    ]
+  },
+  {
+    "english": "recipe",
+    "pron": "ˈresəpi",
+    "kana": "レシピ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 recipe（受け取れ＝命令形）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "料理"],
+    "meaning_main": "調理法・レシピ／秘訣",
+    "description": "recipe の意味・発音・例文・語源を解説。発音は「レシピ」ではなく「レサピ」に近い点に注意。a recipe for（〜の秘訣）も紹介します。",
+    "keywords": ["recipe 意味", "recipe 発音", "recipe レシピ 英語", "recipe for 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】調理法・レシピ", "note": "材料と手順を書いた料理の作り方。" },
+      { "hinshi": "【名詞】（比喩）秘訣・原因のもと", "note": "a recipe for success（成功の秘訣）。" }
+    ],
+    "usages": [
+      { "title": "① 料理の「レシピ」として", "desc": "料理の作り方を表す基本の意味です。", "example_en": "Can you give me the recipe for this cake?", "example_ja": "このケーキのレシピを教えてもらえますか。" },
+      { "title": "② 比喩「〜の秘訣・もと」として", "desc": "a recipe for〜で良くも悪くも「〜を招くもの」を表します。", "example_en": "Hard work is a recipe for success.", "example_ja": "努力は成功への秘訣だ。" }
+    ],
+    "warn": [
+      "発音は『レシピ』ではなく /ˈresəpi/「レサピ」に近い。語尾の e も読む。",
+      "「〜のレシピ／秘訣」は a recipe for。recipe of とは言わない。"
+    ],
+    "etym_note": "ラテン語 recipe（『受け取れ』という命令形）に由来します。昔の医者が処方箋の冒頭に書いた言葉で、そこから「調理法・処方」の意味になりました。receive と同じ語源です。",
+    "etym_chain": [
+      { "node": "recipe", "sub": "受け取れ（命令形）", "era": "ラテン語" },
+      { "node": "recipe", "sub": "処方・調理法", "era": "近代英語" },
+      { "node": "recipe", "sub": "レシピ・秘訣", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a recipe for", "ja": "〜のレシピ／秘訣" },
+      { "en": "a recipe for success", "ja": "成功の秘訣" },
+      { "en": "a recipe for disaster", "ja": "災いのもと" },
+      { "en": "follow a recipe", "ja": "レシピに従う" },
+      { "en": "a secret recipe", "ja": "秘伝のレシピ" },
+      { "en": "a simple recipe", "ja": "簡単なレシピ" }
+    ],
+    "related": [
+      { "en": "ingredient", "ja": "材料" },
+      { "en": "cook", "ja": "料理する" },
+      { "en": "dish", "ja": "料理・皿" },
+      { "en": "instructions", "ja": "手順・説明" }
+    ],
+    "faq": [
+      { "q": "recipe の発音は？", "a": "/ˈresəpi/「レサピ」に近く、最後の e も発音します。カタカナの『レシピ』とは少し違います。" },
+      { "q": "a recipe for disaster とは？", "a": "「失敗・災いを招くもとになるもの」という意味の決まった表現です。" }
+    ],
+    "quiz": [
+      { "q": "Can you give me the ___ for this cake?（このケーキのレシピ）", "A": "recipe", "B": "receipt", "C": "recent", "D": "receive", "correct": "A" },
+      { "q": "「成功の秘訣」を表すのはどれ？", "A": "a recipe for success", "B": "a recipe of success", "C": "a recipe to success", "D": "a recipe in success", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recognize",
+    "pron": "ˈrekəɡnaɪz",
+    "kana": "レコグナイズ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 re-（再び）＋ cognoscere（知る）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "基本動詞"],
+    "meaning_main": "（それと）わかる・認識する・認める",
+    "description": "recognize の意味・発音・例文・語源を解説。「見て誰だかわかる」と「正式に認める」の二つの意味や、英米のつづり違いも紹介します。",
+    "keywords": ["recognize 意味", "recognize 発音", "recognize 認識する 認める", "recognise つづり"],
+    "meanings": [
+      { "hinshi": "【動詞】（見て・聞いて）それとわかる", "note": "顔や声などから「以前知っているもの」だと気づく。" },
+      { "hinshi": "【動詞】（正式に）認める・認識する", "note": "recognize a country（国を承認する）、recognize the importance（重要性を認める）。" }
+    ],
+    "usages": [
+      { "title": "① 「見てそれとわかる」として", "desc": "知っている人や物だと気づく基本の意味です。", "example_en": "I didn't recognize you with your new haircut.", "example_ja": "新しい髪型のあなたが誰だかわからなかった。" },
+      { "title": "② 「認める・認識する」として", "desc": "価値・事実・地位などを公に認める意味です。", "example_en": "We must recognize the importance of education.", "example_ja": "私たちは教育の重要性を認めなければならない。" }
+    ],
+    "warn": [
+      "アメリカ式は recognize、イギリス式は recognise。どちらも正しい。",
+      "名詞は recognition（認識・承認）。発音は『レコグニション』。"
+    ],
+    "etym_note": "ラテン語 recognoscere（re-「再び」＋ cognoscere「知る」＝再び知る）に由来します。「以前知っていたものだと再び気づく」が原義です。",
+    "etym_chain": [
+      { "node": "recognoscere", "sub": "再び知る", "era": "ラテン語" },
+      { "node": "reconnaistre", "sub": "それとわかる", "era": "古フランス語" },
+      { "node": "recognize", "sub": "認識する・認める", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "recognize a face", "ja": "顔を見分ける" },
+      { "en": "recognize a voice", "ja": "声でわかる" },
+      { "en": "be widely recognized", "ja": "広く認められている" },
+      { "en": "recognize the importance of", "ja": "〜の重要性を認める" },
+      { "en": "fail to recognize", "ja": "それと気づかない" },
+      { "en": "instantly recognize", "ja": "すぐにそれとわかる" }
+    ],
+    "related": [
+      { "en": "recognition", "ja": "認識・承認" },
+      { "en": "identify", "ja": "特定する・見分ける" },
+      { "en": "realize", "ja": "気づく・実現する" },
+      { "en": "admit", "ja": "認める" }
+    ],
+    "faq": [
+      { "q": "recognize と realize の違いは？", "a": "recognize は「見聞きして以前のものだとわかる・公に認める」、realize は「（頭で）はっと気づく・実現する」です。" },
+      { "q": "recognize と recognise はどちらが正しい？", "a": "どちらも正しく、recognize は主にアメリカ式、recognise は主にイギリス式のつづりです。" }
+    ],
+    "quiz": [
+      { "q": "I didn't ___ you with your new haircut.（誰だかわからなかった）", "A": "recognize", "B": "remember", "C": "receive", "D": "recover", "correct": "A" },
+      { "q": "recognize の名詞形はどれ？", "A": "recognization", "B": "recognition", "C": "recogning", "D": "recognment", "correct": "B" }
+    ]
+  },
+  {
+    "english": "record",
+    "pron": "名:ˈrekərd 動:rɪˈkɔːrd",
+    "kana": "名:レコード 動:リコード",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "ラテン語 recordari（思い出す・心に刻む）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "名動アクセント"],
+    "meaning_main": "記録／記録する・録音する",
+    "description": "record の意味・発音・例文・語源を解説。名詞と動詞でアクセントが移動する重要単語。break a record（記録を破る）も紹介します。",
+    "keywords": ["record 意味", "record 発音 アクセント", "record 名詞 動詞", "break a record"],
+    "meanings": [
+      { "hinshi": "【名詞】記録・記録文書", "note": "keep a record（記録をつける）。データや成績の記録。" },
+      { "hinshi": "【名詞】最高記録", "note": "a world record（世界記録）。" },
+      { "hinshi": "【動詞】記録する・録音／録画する", "note": "record a song（曲を録音する）。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「記録」として", "desc": "アクセントは前。/ˈrekərd/「レコード」と読みます。", "example_en": "He set a new world record in the race.", "example_ja": "彼はそのレースで世界新記録を樹立した。" },
+      { "title": "② 動詞「記録・録音する」として", "desc": "アクセントは後ろ。/rɪˈkɔːrd/「リコード」と読みます。", "example_en": "I recorded the meeting on my phone.", "example_ja": "私は会議をスマホで録音した。" }
+    ],
+    "warn": [
+      "名詞は前にアクセント（RE-cord）、動詞は後ろにアクセント（re-CORD）。意味で読み分ける。",
+      "break a record は「記録を破る」、set a record は「記録を打ち立てる」。"
+    ],
+    "etym_note": "ラテン語 recordari（re-「再び」＋ cor「心」＝心に呼び戻す・思い出す）に由来します。「心に刻んで残す」が原義で、そこから「記録」になりました。",
+    "etym_chain": [
+      { "node": "recordari", "sub": "思い出す・心に刻む", "era": "ラテン語" },
+      { "node": "recorder", "sub": "記録する", "era": "古フランス語" },
+      { "node": "record", "sub": "記録・記録する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "keep a record", "ja": "記録をつける" },
+      { "en": "break a record", "ja": "記録を破る" },
+      { "en": "set a record", "ja": "記録を打ち立てる" },
+      { "en": "a world record", "ja": "世界記録" },
+      { "en": "a criminal record", "ja": "前科" },
+      { "en": "off the record", "ja": "オフレコで・記録に残さず" }
+    ],
+    "related": [
+      { "en": "recorder", "ja": "録音機・記録係" },
+      { "en": "recording", "ja": "録音・録画" },
+      { "en": "note", "ja": "記録する・メモ" },
+      { "en": "data", "ja": "データ" }
+    ],
+    "faq": [
+      { "q": "record のアクセントは？", "a": "名詞は前（RE-cord）、動詞は後ろ（re-CORD）にアクセントが来ます。同じつづりでも品詞で読み方が変わります。" },
+      { "q": "break a record と set a record の違いは？", "a": "break a record は「既存の記録を破る・更新する」、set a record は「新たに記録を打ち立てる」です。" }
+    ],
+    "quiz": [
+      { "q": "He set a new world ___ in the race.（世界新記録を樹立した）", "A": "record", "B": "recover", "C": "recipe", "D": "recent", "correct": "A" },
+      { "q": "動詞「録音する」の record のアクセントは？", "A": "RE-cord", "B": "re-CORD", "C": "re-cord-ED", "D": "どこも同じ", "correct": "B" }
+    ]
+  },
+  {
+    "english": "recover",
+    "pron": "rɪˈkʌvər",
+    "kana": "リカヴァー",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 recuperare（取り戻す）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "基本動詞"],
+    "meaning_main": "回復する・立ち直る・取り戻す",
+    "description": "recover の意味・発音・例文・語源を解説。「病気から回復する」recover from の使い方や、名詞 recovery も紹介します。",
+    "keywords": ["recover 意味", "recover 発音", "recover from 使い方", "recovery 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（健康・状態が）回復する", "note": "recover from illness（病気から回復する）。自動詞用法。" },
+      { "hinshi": "【動詞】（失ったものを）取り戻す", "note": "recover lost data（失ったデータを取り戻す）。他動詞用法。" }
+    ],
+    "usages": [
+      { "title": "① 「回復する・立ち直る」として", "desc": "recover from〜で病気や困難から立ち直る意味です。", "example_en": "It took him a month to recover from the flu.", "example_ja": "彼がインフルエンザから回復するのに1か月かかった。" },
+      { "title": "② 「取り戻す」として", "desc": "失ったお金・データ・意識などを取り戻す意味です。", "example_en": "The police recovered the stolen car.", "example_ja": "警察は盗まれた車を取り戻した。" }
+    ],
+    "warn": [
+      "「〜から回復する」は recover from。recover of とは言わない。",
+      "re-cover（ハイフン付き）は「再びおおう・カバーを掛けなおす」で別の意味になる。"
+    ],
+    "etym_note": "ラテン語 recuperare（取り戻す・回復する）に由来し、古フランス語を経て英語に入りました。re-（再び）＋ capere（取る）系の「取り戻す」が原義です。",
+    "etym_chain": [
+      { "node": "recuperare", "sub": "取り戻す", "era": "ラテン語" },
+      { "node": "recovrer", "sub": "回復する", "era": "古フランス語" },
+      { "node": "recover", "sub": "回復する・取り戻す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "recover from", "ja": "〜から回復する" },
+      { "en": "recover quickly", "ja": "すばやく回復する" },
+      { "en": "fully recover", "ja": "完全に回復する" },
+      { "en": "recover lost data", "ja": "失ったデータを復元する" },
+      { "en": "recover consciousness", "ja": "意識を取り戻す" },
+      { "en": "make a full recovery", "ja": "完全に回復する" }
+    ],
+    "related": [
+      { "en": "recovery", "ja": "回復（名詞）" },
+      { "en": "heal", "ja": "癒える・治す" },
+      { "en": "improve", "ja": "改善する" },
+      { "en": "regain", "ja": "取り戻す" }
+    ],
+    "faq": [
+      { "q": "recover のあとの前置詞は？", "a": "「〜から回復する」は recover from を使います。recover from a cold（風邪から回復する）のように使います。" },
+      { "q": "recover の名詞形は？", "a": "recovery（回復）です。a quick recovery（早い回復）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "It took him a month to ___ from the flu.（インフルから回復するのに）", "A": "recover", "B": "receive", "C": "record", "D": "recent", "correct": "A" },
+      { "q": "「〜から回復する」の正しい前置詞は？", "A": "recover from", "B": "recover of", "C": "recover at", "D": "recover to", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recycle",
+    "pron": "ˌriːˈsaɪkəl",
+    "kana": "リサイクル",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ cycle（循環）",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "環境"],
+    "meaning_main": "再生利用する・リサイクルする",
+    "description": "recycle の意味・発音・例文・語源を解説。環境問題で頻出の単語で、reduce・reuse との「3R」や名詞 recycling も紹介します。",
+    "keywords": ["recycle 意味", "recycle 発音", "recycle リサイクル 英語", "3R reduce reuse"],
+    "meanings": [
+      { "hinshi": "【動詞】再生利用する・リサイクルする", "note": "廃品を加工して再び使えるようにする。recycle paper（紙を再生する）。" },
+      { "hinshi": "【動詞】（資源を）再利用する", "note": "資源やアイデアを繰り返し使う意味でも使う。" }
+    ],
+    "usages": [
+      { "title": "① 「資源を再生利用する」として", "desc": "環境保護の話題でよく使う基本の意味です。", "example_en": "We should recycle plastic bottles.", "example_ja": "私たちはペットボトルをリサイクルすべきだ。" },
+      { "title": "② 名詞 recycling（リサイクル）として", "desc": "動名詞・名詞として「リサイクル活動」を表します。", "example_en": "Recycling helps protect the environment.", "example_ja": "リサイクルは環境を守るのに役立つ。" }
+    ],
+    "warn": [
+      "環境の3R は reduce（減らす）・reuse（再使用）・recycle（再生利用）。意味を区別する。",
+      "名詞・動名詞は recycling。a recycling center（リサイクル施設）。"
+    ],
+    "etym_note": "接頭辞 re-（再び）と cycle（循環）を組み合わせた比較的新しい語で、20世紀に環境問題とともに広まりました。「もう一度循環させる」が原義です。",
+    "etym_chain": [
+      { "node": "kyklos", "sub": "輪・循環", "era": "ギリシャ語" },
+      { "node": "cycle", "sub": "循環", "era": "英語" },
+      { "node": "recycle", "sub": "再生利用する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "recycle paper", "ja": "紙を再生利用する" },
+      { "en": "recycle plastic", "ja": "プラスチックをリサイクルする" },
+      { "en": "a recycling center", "ja": "リサイクル施設" },
+      { "en": "recycled materials", "ja": "再生素材" },
+      { "en": "reduce, reuse, recycle", "ja": "減らす・再使用・再生（3R）" },
+      { "en": "recycling bin", "ja": "リサイクル用ごみ箱" }
+    ],
+    "related": [
+      { "en": "reduce", "ja": "減らす" },
+      { "en": "reuse", "ja": "再使用する" },
+      { "en": "environment", "ja": "環境" },
+      { "en": "waste", "ja": "廃棄物・むだ" }
+    ],
+    "faq": [
+      { "q": "recycle と reuse の違いは？", "a": "reuse は「そのまま再び使う」、recycle は「加工して別の製品として再生する」ことです。" },
+      { "q": "3R とは何？", "a": "reduce（ごみを減らす）・reuse（くり返し使う）・recycle（再生利用する）の3つの頭文字です。" }
+    ],
+    "quiz": [
+      { "q": "We should ___ plastic bottles.（ペットボトルをリサイクルすべき）", "A": "recycle", "B": "reduce", "C": "receive", "D": "record", "correct": "A" },
+      { "q": "「そのまま再び使う」を表す3Rの語は？", "A": "recycle", "B": "reuse", "C": "reduce", "D": "remove", "correct": "B" }
+    ]
+  },
+  {
+    "english": "red",
+    "pron": "red",
+    "kana": "レッド",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞・形容詞",
+    "ld_etym": "古英語 rēad（赤い）",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "色"],
+    "meaning_main": "赤・赤い",
+    "description": "red（赤）の意味・発音・例文・語源を解説。基本の色名であると同時に、in the red（赤字）など慣用表現も豊富な単語です。",
+    "keywords": ["red 意味", "red 発音", "red 赤 英語", "in the red 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】赤い", "note": "a red apple（赤いリンゴ）。基本の色を表す。" },
+      { "hinshi": "【名詞】赤・赤色", "note": "Red is my favorite color.（赤は私の好きな色）。" }
+    ],
+    "usages": [
+      { "title": "① 色を表す「赤い」として", "desc": "もっとも基本的な色名のひとつです。", "example_en": "She was wearing a red dress.", "example_ja": "彼女は赤いドレスを着ていた。" },
+      { "title": "② 慣用表現で", "desc": "「赤字」「真っ赤になる」など比喩的にも使われます。", "example_en": "The company is in the red this year.", "example_ja": "その会社は今年は赤字だ。" }
+    ],
+    "warn": [
+      "read（読む）の過去形『read』も発音は『レッド』/red/ と同じ。文脈で区別する。",
+      "in the red は「赤字」、in the black は「黒字」。色で経営状態を表す。"
+    ],
+    "etym_note": "古英語 rēad（赤い）に由来する非常に古いゲルマン系の基礎語で、ドイツ語 rot、ラテン語 ruber などとも語源的につながっています。",
+    "etym_chain": [
+      { "node": "rēad", "sub": "赤い", "era": "古英語" },
+      { "node": "red", "sub": "赤い", "era": "中英語" },
+      { "node": "red", "sub": "赤・赤い", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a red apple", "ja": "赤いリンゴ" },
+      { "en": "in the red", "ja": "赤字で" },
+      { "en": "red light", "ja": "赤信号" },
+      { "en": "turn red", "ja": "赤くなる・赤面する" },
+      { "en": "the red carpet", "ja": "レッドカーペット・丁重な歓迎" },
+      { "en": "catch someone red-handed", "ja": "現行犯で捕まえる" }
+    ],
+    "related": [
+      { "en": "blue", "ja": "青" },
+      { "en": "color", "ja": "色" },
+      { "en": "crimson", "ja": "深紅" },
+      { "en": "pink", "ja": "ピンク" }
+    ],
+    "faq": [
+      { "q": "in the red はどういう意味？", "a": "「赤字（経営が損失の状態）」を表します。反対に黒字は in the black です。" },
+      { "q": "red と read（過去形）は同じ発音？", "a": "はい。read の過去形は『レッド』/red/ で、red（赤）と同じ発音です。" }
+    ],
+    "quiz": [
+      { "q": "She was wearing a ___ dress.（赤いドレス）", "A": "red", "B": "read", "C": "ready", "D": "real", "correct": "A" },
+      { "q": "「赤字で」を表す表現はどれ？", "A": "in the red", "B": "on the red", "C": "at the red", "D": "by the red", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reduce",
+    "pron": "rɪˈduːs",
+    "kana": "リデュース",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 reducere（引き戻す・減らす）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "基本動詞"],
+    "meaning_main": "減らす・縮小する",
+    "description": "reduce の意味・発音・例文・語源を解説。reduce A to B / by の使い分けや、increase（増やす）との対比、名詞 reduction も紹介します。",
+    "keywords": ["reduce 意味", "reduce 発音", "reduce by to 違い", "reduction 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】減らす・少なくする", "note": "reduce costs（費用を減らす）。他動詞。" },
+      { "hinshi": "【動詞】（ある状態に）変える・追い込む", "note": "reduce A to B（AをBの状態にしてしまう）。" }
+    ],
+    "usages": [
+      { "title": "① 「減らす・削減する」として", "desc": "数・量・程度を少なくする基本の意味です。", "example_en": "We need to reduce plastic waste.", "example_ja": "私たちはプラスチックごみを減らす必要がある。" },
+      { "title": "② reduce by / to（〜だけ／〜まで減らす）", "desc": "by は「減る幅」、to は「減った後の数値」を表します。", "example_en": "Prices were reduced by 20 percent.", "example_ja": "価格は20パーセント引き下げられた。" }
+    ],
+    "warn": [
+      "reduce by は「〜の分だけ減らす」、reduce to は「〜まで減らす」。前置詞で意味が変わる。",
+      "名詞は reduction（削減・縮小）。a price reduction（値下げ）。"
+    ],
+    "etym_note": "ラテン語 reducere（re-「戻して」＋ ducere「導く」＝引き戻す）に由来します。「元の小さな状態に戻す」イメージから「減らす」になりました。",
+    "etym_chain": [
+      { "node": "reducere", "sub": "引き戻す", "era": "ラテン語" },
+      { "node": "reduce", "sub": "減らす", "era": "中英語" },
+      { "node": "reduce", "sub": "減らす・縮小する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reduce costs", "ja": "費用を減らす" },
+      { "en": "reduce waste", "ja": "ごみを減らす" },
+      { "en": "reduce by half", "ja": "半分に減らす" },
+      { "en": "reduce the risk", "ja": "リスクを減らす" },
+      { "en": "reduce speed", "ja": "速度を落とす" },
+      { "en": "be reduced to", "ja": "〜（ひどい状態）に陥る" }
+    ],
+    "related": [
+      { "en": "reduction", "ja": "削減（名詞）" },
+      { "en": "decrease", "ja": "減少する" },
+      { "en": "increase", "ja": "増やす（反対語）" },
+      { "en": "cut", "ja": "削減する" }
+    ],
+    "faq": [
+      { "q": "reduce by と reduce to の違いは？", "a": "by は減る『幅』（reduce by 10%＝10%分減らす）、to は減った『後の値』（reduce to 50＝50まで減らす）を表します。" },
+      { "q": "reduce の名詞形は？", "a": "reduction（削減・縮小）です。a cost reduction（コスト削減）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "We need to ___ plastic waste.（プラごみを減らす必要がある）", "A": "reduce", "B": "increase", "C": "receive", "D": "record", "correct": "A" },
+      { "q": "「20%分だけ減らす」に合う前置詞は？ reduce ___ 20 percent", "A": "by", "B": "to", "C": "of", "D": "in", "correct": "A" }
+    ]
+  },
+  {
+    "english": "refer",
+    "pron": "rɪˈfɜːr",
+    "kana": "リファー",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 referre（運び戻す・関連づける）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "基本動詞"],
+    "meaning_main": "言及する・参照する・差し向ける",
+    "description": "refer の意味・発音・例文・語源を解説。必ず to を伴う refer to の使い方、つづりの r 重ね（referred）、名詞 reference も紹介します。",
+    "keywords": ["refer 意味", "refer 発音", "refer to 使い方", "reference 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】言及する・話に出す", "note": "refer to the problem（その問題に言及する）。" },
+      { "hinshi": "【動詞】参照する・調べる", "note": "refer to a dictionary（辞書を参照する）。" },
+      { "hinshi": "【動詞】（専門家などに）差し向ける", "note": "refer a patient to a specialist（患者を専門医に紹介する）。" }
+    ],
+    "usages": [
+      { "title": "① 「言及する」として", "desc": "refer to〜で「〜について述べる・話に出す」を表します。", "example_en": "She referred to the meeting in her speech.", "example_ja": "彼女はスピーチでその会議に言及した。" },
+      { "title": "② 「参照する・調べる」として", "desc": "資料や辞書を確認する意味でも使います。", "example_en": "Please refer to page 10 for details.", "example_ja": "詳細は10ページを参照してください。" }
+    ],
+    "warn": [
+      "refer は必ず to を伴うことが多い（refer to〜）。to なしで単独では使いにくい。",
+      "活用は語尾の r を重ねて referred / referring。アクセントが後ろにあるため。名詞は reference。"
+    ],
+    "etym_note": "ラテン語 referre（re-「戻して」＋ ferre「運ぶ」＝運び戻す・関連づける）に由来します。「ある事柄に結びつけて持っていく」が原義です。",
+    "etym_chain": [
+      { "node": "referre", "sub": "運び戻す・関連づける", "era": "ラテン語" },
+      { "node": "referer", "sub": "言及する", "era": "古フランス語" },
+      { "node": "refer", "sub": "言及する・参照する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "refer to", "ja": "〜に言及する・参照する" },
+      { "en": "refer to a dictionary", "ja": "辞書を引く" },
+      { "en": "refer back to", "ja": "〜に立ち返る" },
+      { "en": "as referred to above", "ja": "上記のとおり" },
+      { "en": "refer a patient to", "ja": "患者を〜に紹介する" },
+      { "en": "for reference", "ja": "参考のために" }
+    ],
+    "related": [
+      { "en": "reference", "ja": "参照・参考（名詞）" },
+      { "en": "mention", "ja": "言及する" },
+      { "en": "consult", "ja": "相談する・参照する" },
+      { "en": "indicate", "ja": "指し示す" }
+    ],
+    "faq": [
+      { "q": "refer のあとの前置詞は？", "a": "ふつう to を伴って refer to〜（〜に言及する・参照する）の形で使います。" },
+      { "q": "refer の過去形のつづりは？", "a": "referred です。アクセントが後ろにあるため、語尾の r を重ねます（referring も同様）。" }
+    ],
+    "quiz": [
+      { "q": "Please ___ to page 10 for details.（10ページを参照）", "A": "refer", "B": "receive", "C": "reduce", "D": "record", "correct": "A" },
+      { "q": "refer の正しい過去形のつづりは？", "A": "refered", "B": "referred", "C": "refeared", "D": "referd", "correct": "B" }
+    ]
+  }
+]
