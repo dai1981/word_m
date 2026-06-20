@@ -1,0 +1,543 @@
+[
+  {
+    "english": "rate",
+    "pron": "reɪt",
+    "kana": "レイト",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "ラテン語 rata（計算された割合）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "多義語"],
+    "meaning_main": "割合・率／料金・レート／評価する",
+    "description": "rate の意味・発音・例文・語源を解説。「割合」「料金」「評価する」と幅広く、exchange rate（為替レート）などの頻出表現も紹介します。",
+    "keywords": ["rate 意味", "rate 発音", "rate 割合 料金", "exchange rate 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】割合・率", "note": "the birth rate（出生率）、success rate（成功率）など。" },
+      { "hinshi": "【名詞】料金・レート", "note": "一定の基準で決まる値段。exchange rate（為替レート）。" },
+      { "hinshi": "【名詞】速度・ペース", "note": "at a fast rate（速いペースで）。" },
+      { "hinshi": "【動詞】評価する・格付けする", "note": "rate a movie（映画を評価する）。" }
+    ],
+    "usages": [
+      { "title": "① 「割合・率」として", "desc": "統計やニュースでよく使う基本の意味です。", "example_en": "The unemployment rate is rising.", "example_ja": "失業率が上昇している。" },
+      { "title": "② 「料金・レート」として", "desc": "宿泊料や為替など、基準で決まる値段を表します。", "example_en": "What is the exchange rate for the dollar today?", "example_ja": "今日のドルの為替レートはいくらですか。" },
+      { "title": "③ 「評価する」として", "desc": "5段階評価など、ものを格付けする動詞用法です。", "example_en": "I would rate this restaurant five stars.", "example_ja": "このレストランを5つ星と評価します。" }
+    ],
+    "warn": [
+      "at any rate は「いずれにせよ・とにかく」という決まり文句。",
+      "rate（割合）と ratio（比率）は似ているが別語。ratio は a:b の形の「比」を指す。"
+    ],
+    "etym_note": "ラテン語 rata（計算された割合）に由来します。pro rata（割合に応じて）という表現の rata と同じ語源で、「決められた割合」が原義です。",
+    "etym_chain": [
+      { "node": "rata", "sub": "計算された割合", "era": "ラテン語" },
+      { "node": "rate", "sub": "割合・評価", "era": "中英語" },
+      { "node": "rate", "sub": "割合・料金・評価する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "exchange rate", "ja": "為替レート" },
+      { "en": "interest rate", "ja": "金利" },
+      { "en": "birth rate", "ja": "出生率" },
+      { "en": "at any rate", "ja": "いずれにせよ・とにかく" },
+      { "en": "at this rate", "ja": "この調子では" },
+      { "en": "success rate", "ja": "成功率" }
+    ],
+    "related": [
+      { "en": "ratio", "ja": "比率" },
+      { "en": "rating", "ja": "評価・格付け" },
+      { "en": "percentage", "ja": "百分率" },
+      { "en": "price", "ja": "値段" }
+    ],
+    "faq": [
+      { "q": "rate と ratio の違いは？", "a": "rate は「ある量に対する割合・率」（出生率など）、ratio は「2つの量の比」（2:1 など）を指します。" },
+      { "q": "at any rate はどんな意味？", "a": "「いずれにせよ・とにかく」と話を進める時に使う決まり文句です。" }
+    ],
+    "quiz": [
+      { "q": "The unemployment ___ is rising.（失業率が上昇している）", "A": "rate", "B": "rat", "C": "rare", "D": "race", "correct": "A" },
+      { "q": "「為替レート」を表すのはどれ？", "A": "exchange rate", "B": "change rate", "C": "money rate", "D": "cash rate", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rather",
+    "pron": "ˈræðər",
+    "kana": "ラザー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "古英語 hraþor（より早く・むしろ）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "副詞"],
+    "meaning_main": "かなり・むしろ・どちらかといえば",
+    "description": "rather の意味・発音・例文・語源を解説。「かなり」「むしろ」という二つの使い方や、would rather（むしろ〜したい）の重要表現も紹介します。",
+    "keywords": ["rather 意味", "rather 発音", "would rather 意味", "rather than 使い方"],
+    "meanings": [
+      { "hinshi": "【副詞】かなり・やや", "note": "程度を表す。It's rather cold today.（今日はかなり寒い）。" },
+      { "hinshi": "【副詞】むしろ・どちらかといえば", "note": "rather than（〜よりむしろ）の形で使う。" },
+      { "hinshi": "【副詞】(would rather) むしろ〜したい", "note": "I would rather stay home.（むしろ家にいたい）。" }
+    ],
+    "usages": [
+      { "title": "① 程度「かなり・やや」として", "desc": "形容詞・副詞の前に置いて程度を強めます。", "example_en": "The test was rather difficult.", "example_ja": "そのテストはかなり難しかった。" },
+      { "title": "② 「むしろ・〜よりも」として", "desc": "rather than の形で2つを比べて選びます。", "example_en": "I'd like tea rather than coffee.", "example_ja": "コーヒーよりむしろ紅茶がいいです。" },
+      { "title": "③ would rather（〜したい方だ）として", "desc": "あとに動詞の原形を続けて希望を表します。", "example_en": "I would rather walk than take the bus.", "example_ja": "バスに乗るより歩く方がいいです。" }
+    ],
+    "warn": [
+      "would rather のあとは動詞の原形。to は不要（×would rather to go）。",
+      "would rather A than B で「BよりむしろAしたい」。比較対象も原形にする。"
+    ],
+    "etym_note": "古英語 hraþor（より早く）に由来し、もとは raþe（早く）の比較級でした。「より早く＝より好んで＝むしろ」へと意味が発展しました。",
+    "etym_chain": [
+      { "node": "hraþor", "sub": "より早く", "era": "古英語" },
+      { "node": "rather", "sub": "より好んで・むしろ", "era": "中英語" },
+      { "node": "rather", "sub": "かなり・むしろ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rather than", "ja": "〜よりむしろ" },
+      { "en": "would rather", "ja": "むしろ〜したい" },
+      { "en": "rather a lot", "ja": "かなり多く" },
+      { "en": "or rather", "ja": "いや、むしろ（言い直し）" },
+      { "en": "rather like", "ja": "わりと好きだ" },
+      { "en": "rather too much", "ja": "ちょっと多すぎる" }
+    ],
+    "related": [
+      { "en": "quite", "ja": "かなり" },
+      { "en": "fairly", "ja": "わりと" },
+      { "en": "prefer", "ja": "〜の方を好む" },
+      { "en": "instead", "ja": "その代わりに" }
+    ],
+    "faq": [
+      { "q": "would rather のあとの動詞の形は？", "a": "動詞の原形です。to はつけません。I would rather go.（行く方がいい）が正しい形です。" },
+      { "q": "rather と quite の違いは？", "a": "どちらも「かなり」ですが、rather は時にネガティブな含みを持ち、quite はより中立〜肯定的に使われる傾向があります。" }
+    ],
+    "quiz": [
+      { "q": "I'd like tea ___ than coffee.（コーヒーよりむしろ紅茶）", "A": "rather", "B": "better", "C": "more", "D": "other", "correct": "A" },
+      { "q": "I would rather ___ home.（むしろ家にいたい）に入る形は？", "A": "to stay", "B": "stay", "C": "staying", "D": "stayed", "correct": "B" }
+    ]
+  },
+  {
+    "english": "raw",
+    "pron": "rɔː",
+    "kana": "ロー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "古英語 hrēaw（生の）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "形容詞"],
+    "meaning_main": "生の・未加工の／未熟な",
+    "description": "raw の意味・発音・例文・語源を解説。「生の食べ物」だけでなく「未加工の材料」「生データ」など幅広い使い方を紹介します。",
+    "keywords": ["raw 意味", "raw 発音", "raw 生 未加工", "raw data 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】生の・加熱していない", "note": "raw fish（生魚）、raw egg（生卵）。" },
+      { "hinshi": "【形容詞】未加工の・原料のままの", "note": "raw material（原材料）、raw data（生データ）。" },
+      { "hinshi": "【形容詞】未熟な・むき出しの", "note": "raw talent（磨かれていない才能）。" }
+    ],
+    "usages": [
+      { "title": "① 食べ物「生の」として", "desc": "加熱・調理していない食材を表します。", "example_en": "In Japan, people often eat raw fish.", "example_ja": "日本ではよく生の魚を食べる。" },
+      { "title": "② 「未加工の・原料の」として", "desc": "加工前の材料やデータを指します。", "example_en": "The factory imports raw materials from abroad.", "example_ja": "その工場は海外から原材料を輸入している。" }
+    ],
+    "warn": [
+      "発音は「ロー」/rɔː/。row（列・こぐ）/roʊ/ とは母音が違うので注意。",
+      "raw material（原材料）、raw data（生データ）は理科・社会でも頻出のコロケーション。"
+    ],
+    "etym_note": "古英語 hrēaw（生の）に由来する古いゲルマン系の語で、ドイツ語 roh（生の）と同じ仲間です。",
+    "etym_chain": [
+      { "node": "hrēaw", "sub": "生の", "era": "古英語" },
+      { "node": "raw", "sub": "生の・未加工の", "era": "中英語" },
+      { "node": "raw", "sub": "生の・未加工の・未熟な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "raw fish", "ja": "生魚" },
+      { "en": "raw material", "ja": "原材料" },
+      { "en": "raw data", "ja": "生データ" },
+      { "en": "raw meat", "ja": "生肉" },
+      { "en": "in the raw", "ja": "ありのままで・自然のままで" },
+      { "en": "raw talent", "ja": "磨かれていない才能" }
+    ],
+    "related": [
+      { "en": "cooked", "ja": "調理された（反対語）" },
+      { "en": "fresh", "ja": "新鮮な" },
+      { "en": "natural", "ja": "自然のままの" },
+      { "en": "material", "ja": "材料" }
+    ],
+    "faq": [
+      { "q": "raw と row の違いは？", "a": "raw は「生の」/rɔː/「ロー」、row は「列・（船を）こぐ」/roʊ/「ロウ」で、つづりも発音も意味も別です。" },
+      { "q": "raw material とは？", "a": "製品になる前の「原材料」のことです。理科・社会の教科書でよく出ます。" }
+    ],
+    "quiz": [
+      { "q": "In Japan, people often eat ___ fish.（生の魚を食べる）", "A": "raw", "B": "row", "C": "raise", "D": "ready", "correct": "A" },
+      { "q": "「原材料」を表すのはどれ？", "A": "raw material", "B": "raw money", "C": "raw paper", "D": "raw power", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ray",
+    "pron": "reɪ",
+    "kana": "レイ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 radius（光線）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "理科"],
+    "meaning_main": "光線・放射線／一筋の（希望）",
+    "description": "ray の意味・発音・例文・語源を解説。「光線」の意味を中心に、X-ray（レントゲン）や a ray of hope（一筋の希望）も紹介します。",
+    "keywords": ["ray 意味", "ray 発音", "ray 光線", "X-ray 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】光線・放射線", "note": "the sun's rays（太陽の光）、a ray of light（一筋の光）。" },
+      { "hinshi": "【名詞】（比喩）一筋の（希望など）", "note": "a ray of hope（一縷の希望）。" }
+    ],
+    "usages": [
+      { "title": "① 「光線・放射線」として", "desc": "まっすぐ進む光や放射を表す理科でも使う語です。", "example_en": "The sun's rays warmed the room.", "example_ja": "太陽の光が部屋を暖めた。" },
+      { "title": "② 比喩「一筋の〜」として", "desc": "暗い状況の中のわずかな希望などを表します。", "example_en": "There is still a ray of hope.", "example_ja": "まだ一筋の希望が残っている。" }
+    ],
+    "warn": [
+      "X-ray は「レントゲン（X線）」。日本語の『レントゲン』は英語では通じにくい。",
+      "ray（光線）と同音の Ray は男性の名前。文頭の大文字に注意。"
+    ],
+    "etym_note": "ラテン語 radius（光線・車輪のスポーク）に由来し、古フランス語 rai を経て英語に入りました。radio や radius と同じ語源の仲間です。",
+    "etym_chain": [
+      { "node": "radius", "sub": "光線", "era": "ラテン語" },
+      { "node": "rai", "sub": "光線", "era": "古フランス語" },
+      { "node": "ray", "sub": "光線・一筋の光", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a ray of light", "ja": "一筋の光" },
+      { "en": "a ray of hope", "ja": "一縷の希望" },
+      { "en": "the sun's rays", "ja": "太陽の光線" },
+      { "en": "X-ray", "ja": "X線・レントゲン" },
+      { "en": "ultraviolet rays", "ja": "紫外線" },
+      { "en": "cosmic rays", "ja": "宇宙線" }
+    ],
+    "related": [
+      { "en": "light", "ja": "光" },
+      { "en": "beam", "ja": "光線・ビーム" },
+      { "en": "radiation", "ja": "放射線" },
+      { "en": "sunlight", "ja": "日光" }
+    ],
+    "faq": [
+      { "q": "「レントゲン」は英語で何と言う？", "a": "X-ray と言います。レントゲン写真を撮ることは take an X-ray です。" },
+      { "q": "a ray of hope はどんな意味？", "a": "「わずかな希望・一縷の望み」という意味の表現です。暗い状況にさす一筋の光のイメージです。" }
+    ],
+    "quiz": [
+      { "q": "The sun's ___ warmed the room.（太陽の光が部屋を暖めた）", "A": "rays", "B": "rains", "C": "races", "D": "rats", "correct": "A" },
+      { "q": "「X線・レントゲン」を表すのはどれ？", "A": "X-ray", "B": "X-line", "C": "X-light", "D": "X-beam", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reach",
+    "pron": "riːtʃ",
+    "kana": "リーチ",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "古英語 ræcan（手を伸ばす・届く）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "多義語"],
+    "meaning_main": "到着する・届く・手を伸ばす・連絡をとる",
+    "description": "reach の意味・発音・例文・語源を解説。「到着する」「手が届く」「連絡をとる」など幅広い意味と、arrive との違いも紹介します。",
+    "keywords": ["reach 意味", "reach 発音", "reach arrive 違い", "reach 使い方"],
+    "meanings": [
+      { "hinshi": "【動詞】（場所に）到着する・着く", "note": "前置詞なしで直接目的語をとる。reach Tokyo（東京に着く）。" },
+      { "hinshi": "【動詞】手を伸ばす・届く", "note": "reach for the salt（塩に手を伸ばす）。" },
+      { "hinshi": "【動詞】（人に）連絡をとる", "note": "reach someone by phone（電話で連絡をとる）。" },
+      { "hinshi": "【名詞】手の届く範囲", "note": "out of reach（手の届かないところに）。" }
+    ],
+    "usages": [
+      { "title": "① 「到着する」として", "desc": "arrive と違い、reach は直接目的語をとります。", "example_en": "We reached the top of the mountain at noon.", "example_ja": "私たちは正午に山頂に着いた。" },
+      { "title": "② 「手を伸ばす・届く」として", "desc": "reach for（〜に手を伸ばす）の形が便利です。", "example_en": "She reached for the book on the top shelf.", "example_ja": "彼女は一番上の棚の本に手を伸ばした。" },
+      { "title": "③ 「連絡をとる」として", "desc": "電話やメールで人に連絡する意味でも使います。", "example_en": "You can reach me at this number.", "example_ja": "この番号で私に連絡がつきます。" }
+    ],
+    "warn": [
+      "reach は他動詞。reach Tokyo のように前置詞 at / in は不要（×reach at Tokyo）。",
+      "arrive は arrive at / in と前置詞が必要。get to も同様に to が必要。"
+    ],
+    "etym_note": "古英語 ræcan（手を伸ばす・届く）に由来します。「手を伸ばして届く」という原義から、「到着する」「連絡が届く」へと意味が広がりました。",
+    "etym_chain": [
+      { "node": "ræcan", "sub": "手を伸ばす・届く", "era": "古英語" },
+      { "node": "rechen", "sub": "届く・達する", "era": "中英語" },
+      { "node": "reach", "sub": "到着する・届く", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reach for", "ja": "〜に手を伸ばす" },
+      { "en": "reach an agreement", "ja": "合意に達する" },
+      { "en": "out of reach", "ja": "手の届かないところに" },
+      { "en": "within reach", "ja": "手の届くところに" },
+      { "en": "reach a decision", "ja": "決定に達する" },
+      { "en": "reach out", "ja": "手を差し伸べる・連絡をとる" }
+    ],
+    "related": [
+      { "en": "arrive", "ja": "到着する" },
+      { "en": "get to", "ja": "〜に着く" },
+      { "en": "contact", "ja": "連絡をとる" },
+      { "en": "achieve", "ja": "達成する" }
+    ],
+    "faq": [
+      { "q": "reach と arrive の違いは？", "a": "reach は他動詞で前置詞不要（reach Tokyo）、arrive は自動詞で前置詞が必要（arrive in Tokyo）です。意味はどちらも「到着する」です。" },
+      { "q": "reach out はどんな意味？", "a": "「手を差し伸べる」「（助けや交流のために）連絡をとる」という意味で、ビジネスでもよく使われます。" }
+    ],
+    "quiz": [
+      { "q": "We ___ the top of the mountain at noon.（山頂に着いた）", "A": "reached", "B": "arrived", "C": "got", "D": "came", "correct": "A" },
+      { "q": "reach の正しい使い方はどれ？", "A": "reach at Tokyo", "B": "reach to Tokyo", "C": "reach Tokyo", "D": "reach in Tokyo", "correct": "C" }
+    ]
+  },
+  {
+    "english": "react",
+    "pron": "riˈækt",
+    "kana": "リアクト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 re-（再び）＋ agere（行う）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "理科"],
+    "meaning_main": "反応する・反発する",
+    "description": "react の意味・発音・例文・語源を解説。「人の反応」だけでなく理科の「化学反応する」の意味も紹介。react to の使い方も解説します。",
+    "keywords": ["react 意味", "react 発音", "react to 使い方", "react 化学反応"],
+    "meanings": [
+      { "hinshi": "【動詞】反応する・対応する", "note": "react to bad news（悪い知らせに反応する）。" },
+      { "hinshi": "【動詞】（化学）反応する", "note": "理科で「物質が化学反応を起こす」意味でも使う。" }
+    ],
+    "usages": [
+      { "title": "① 「（人が）反応する」として", "desc": "react to〜（〜に反応する）の形でよく使います。", "example_en": "How did she react to the news?", "example_ja": "彼女はその知らせにどう反応しましたか。" },
+      { "title": "② 「（物質が）化学反応する」として", "desc": "理科の文脈で物質どうしの反応を表します。", "example_en": "Sodium reacts violently with water.", "example_ja": "ナトリウムは水と激しく反応する。" }
+    ],
+    "warn": [
+      "「〜に反応する」は react to。react with は化学で「〜と反応する」。前置詞で意味が変わる。",
+      "名詞は reaction（反応）。形容詞・名詞の reactor は「原子炉」。"
+    ],
+    "etym_note": "ラテン語の re-（再び・戻って）と agere（行う・動かす）が合わさった語で、「action（行動）に対して action を返す」＝反応するという意味になりました。",
+    "etym_chain": [
+      { "node": "re- + agere", "sub": "再び＋行う", "era": "ラテン語" },
+      { "node": "reagere", "sub": "反応する", "era": "後期ラテン語" },
+      { "node": "react", "sub": "反応する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "react to", "ja": "〜に反応する" },
+      { "en": "react quickly", "ja": "すばやく反応する" },
+      { "en": "react with", "ja": "（化学で）〜と反応する" },
+      { "en": "react badly", "ja": "悪く反応する・反発する" },
+      { "en": "react calmly", "ja": "冷静に対応する" },
+      { "en": "overreact", "ja": "過剰に反応する" }
+    ],
+    "related": [
+      { "en": "reaction", "ja": "反応（名詞）" },
+      { "en": "respond", "ja": "応答する" },
+      { "en": "act", "ja": "行動する" },
+      { "en": "reply", "ja": "返事をする" }
+    ],
+    "faq": [
+      { "q": "react のあとの前置詞は？", "a": "人の反応は react to（〜に反応する）、化学反応は react with（〜と反応する）を使います。" },
+      { "q": "react の名詞形は？", "a": "reaction（反応）です。a chemical reaction（化学反応）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "How did she ___ to the news?（その知らせにどう反応した？）", "A": "react", "B": "reach", "C": "read", "D": "ready", "correct": "A" },
+      { "q": "「〜に反応する」の正しい前置詞は？", "A": "react to", "B": "react at", "C": "react in", "D": "react on", "correct": "A" }
+    ]
+  },
+  {
+    "english": "read",
+    "pron": "riːd",
+    "kana": "リード",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "古英語 rǣdan（助言する・解釈する）",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "基本動詞"],
+    "meaning_main": "読む・読み取る",
+    "description": "read の意味・発音・例文・語源を解説。過去形・過去分詞は同じつづり read でも発音が「レッド」に変わる重要ポイントを紹介します。",
+    "keywords": ["read 意味", "read 発音", "read 過去形 発音", "read 読む"],
+    "meanings": [
+      { "hinshi": "【動詞】（文字を）読む", "note": "read a book（本を読む）。最も基本的な意味。" },
+      { "hinshi": "【動詞】読み取る・理解する", "note": "read someone's mind（人の心を読む）。" },
+      { "hinshi": "【動詞】（計器が）示す", "note": "The thermometer reads 30 degrees.（温度計は30度を示す）。" }
+    ],
+    "usages": [
+      { "title": "① 「（文字を）読む」として", "desc": "本・新聞・メールなどを読む基本動作です。", "example_en": "I read a book before going to bed.", "example_ja": "私は寝る前に本を読みます。" },
+      { "title": "② 「読み取る・理解する」として", "desc": "状況や気持ちを「読み取る」意味でも使います。", "example_en": "He can read the situation well.", "example_ja": "彼は状況をよく読み取れる。" }
+    ],
+    "warn": [
+      "活用は read–read–read とつづりは同じだが、過去形・過去分詞は『レッド』/red/ と発音する。",
+      "発音『レッド』は red（赤）と同じ音。文脈で区別する。"
+    ],
+    "etym_note": "古英語 rǣdan（助言する・解釈する）に由来します。もとは「（謎などを）解釈する」意味で、そこから「文字を読み解く」という現代の意味になりました。",
+    "etym_chain": [
+      { "node": "rǣdan", "sub": "助言する・解釈する", "era": "古英語" },
+      { "node": "reden", "sub": "読む・解釈する", "era": "中英語" },
+      { "node": "read", "sub": "読む", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "read a book", "ja": "本を読む" },
+      { "en": "read aloud", "ja": "音読する" },
+      { "en": "read between the lines", "ja": "行間を読む・真意をくみ取る" },
+      { "en": "read the news", "ja": "ニュースを読む" },
+      { "en": "read someone's mind", "ja": "人の心を読む" },
+      { "en": "read up on", "ja": "〜について調べて読む" }
+    ],
+    "related": [
+      { "en": "reader", "ja": "読者" },
+      { "en": "reading", "ja": "読書・読解" },
+      { "en": "write", "ja": "書く" },
+      { "en": "book", "ja": "本" }
+    ],
+    "faq": [
+      { "q": "read の過去形の発音は？", "a": "つづりは read のままですが、発音は『レッド』/red/ に変わります。現在形は『リード』/riːd/ です。" },
+      { "q": "read between the lines とは？", "a": "「行間を読む」＝表に書かれていない本当の意味をくみ取る、という意味の慣用句です。" }
+    ],
+    "quiz": [
+      { "q": "I ___ a book before going to bed.（寝る前に本を読む）", "A": "read", "B": "ready", "C": "real", "D": "ride", "correct": "A" },
+      { "q": "read の過去形『read』の発音はどれ？", "A": "リード", "B": "レッド", "C": "レイド", "D": "ラッド", "correct": "B" }
+    ]
+  },
+  {
+    "english": "ready",
+    "pron": "ˈredi",
+    "kana": "レディ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "古英語 rǣde（用意ができた）",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "形容詞"],
+    "meaning_main": "用意ができた・準備した",
+    "description": "ready の意味・発音・例文・語源を解説。be ready for / be ready to の使い分けや、get ready（準備する）の表現も紹介します。",
+    "keywords": ["ready 意味", "ready 発音", "ready for to 違い", "get ready 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】用意ができた・準備した", "note": "Are you ready?（準備はいい？）。" },
+      { "hinshi": "【形容詞】（すぐに）〜しそうな・喜んで〜する", "note": "ready to help（喜んで手伝う）。" }
+    ],
+    "usages": [
+      { "title": "① be ready for（〜の準備ができている）", "desc": "あとに名詞を続けて準備の対象を示します。", "example_en": "Are you ready for the test?", "example_ja": "テストの準備はできていますか。" },
+      { "title": "② be ready to（〜する準備ができている）", "desc": "あとに動詞の原形を続けます。", "example_en": "I'm ready to go now.", "example_ja": "もう出発する準備ができています。" }
+    ],
+    "warn": [
+      "あとに名詞なら ready for、動詞なら ready to。get ready は「準備する（動作）」。",
+      "発音は『レディ』/ˈredi/。lady（女性）/ˈleɪdi/ とは語頭の子音が違う。"
+    ],
+    "etym_note": "古英語 rǣde（用意ができた・素早い）に由来します。ride（乗る）とも関係し、もとは「馬に乗って出発できる状態」のイメージとされます。",
+    "etym_chain": [
+      { "node": "rǣde", "sub": "用意ができた", "era": "古英語" },
+      { "node": "redy", "sub": "準備した", "era": "中英語" },
+      { "node": "ready", "sub": "用意ができた", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be ready for", "ja": "〜の準備ができている" },
+      { "en": "be ready to", "ja": "〜する準備ができている" },
+      { "en": "get ready", "ja": "準備をする" },
+      { "en": "ready to go", "ja": "出発の準備ができた" },
+      { "en": "Ready, set, go!", "ja": "位置について、用意、ドン！" },
+      { "en": "ready-made", "ja": "出来合いの・既製の" }
+    ],
+    "related": [
+      { "en": "prepare", "ja": "準備する" },
+      { "en": "prepared", "ja": "準備のできた" },
+      { "en": "set", "ja": "準備が整った" },
+      { "en": "willing", "ja": "喜んで〜する" }
+    ],
+    "faq": [
+      { "q": "ready for と ready to の違いは？", "a": "あとに名詞が来るなら ready for（ready for the game）、動詞が来るなら ready to（ready to play）を使います。" },
+      { "q": "get ready と be ready の違いは？", "a": "get ready は「準備をする（動作）」、be ready は「準備ができている（状態）」を表します。" }
+    ],
+    "quiz": [
+      { "q": "Are you ___ for the test?（テストの準備はできた？）", "A": "ready", "B": "read", "C": "real", "D": "ride", "correct": "A" },
+      { "q": "I'm ready ___ go now.（出発する準備ができた）に入るのは？", "A": "to", "B": "for", "C": "of", "D": "at", "correct": "A" }
+    ]
+  },
+  {
+    "english": "real",
+    "pron": "ˈriːəl",
+    "kana": "リーアル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 res（もの・事実）",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "形容詞"],
+    "meaning_main": "本当の・実在の・本物の",
+    "description": "real の意味・発音・例文・語源を解説。really（本当に）との関係や、real と true の違い、in real life などの表現も紹介します。",
+    "keywords": ["real 意味", "real 発音", "real true 違い", "really 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】本当の・現実の", "note": "real life（現実の生活）。想像ではなく実際にあること。" },
+      { "hinshi": "【形容詞】本物の・偽物でない", "note": "real gold（本物の金）。fake の反対。" }
+    ],
+    "usages": [
+      { "title": "① 「現実の・実在の」として", "desc": "想像や架空ではなく実際に存在することを表します。", "example_en": "Is this a real story or fiction?", "example_ja": "これは実話ですか、それともフィクションですか。" },
+      { "title": "② 「本物の」として", "desc": "偽物（fake）でない本物を表します。", "example_en": "This bag is made of real leather.", "example_ja": "このかばんは本物の革でできている。" }
+    ],
+    "warn": [
+      "real は形容詞、really は副詞。a real problem（本当の問題）／really difficult（本当に難しい）。",
+      "real（本物の・実在の）と true（事実に合った・忠実な）はニュアンスが異なる。a true story は『実話』。"
+    ],
+    "etym_note": "ラテン語 res（もの・事実）に由来し、「実際にあるもの」という意味から「本当の・本物の」へと発展しました。reality（現実）や realize（実現する・気づく）も同じ語源です。",
+    "etym_chain": [
+      { "node": "res", "sub": "もの・事実", "era": "ラテン語" },
+      { "node": "realis", "sub": "実在の", "era": "後期ラテン語" },
+      { "node": "real", "sub": "本当の・本物の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "in real life", "ja": "実生活で・現実には" },
+      { "en": "the real world", "ja": "現実の世界" },
+      { "en": "a real problem", "ja": "本当の問題" },
+      { "en": "real estate", "ja": "不動産" },
+      { "en": "for real", "ja": "本当に・マジで" },
+      { "en": "real time", "ja": "リアルタイム・即時" }
+    ],
+    "related": [
+      { "en": "really", "ja": "本当に（副詞）" },
+      { "en": "reality", "ja": "現実" },
+      { "en": "true", "ja": "本当の・真実の" },
+      { "en": "fake", "ja": "偽の（反対語）" }
+    ],
+    "faq": [
+      { "q": "real と really の違いは？", "a": "real は形容詞で名詞を修飾（a real diamond）、really は副詞で動詞や形容詞を修飾（really good）します。" },
+      { "q": "real と true の違いは？", "a": "real は「実在する・本物の」、true は「事実に合っている・忠実な」です。a true story は『実話』、real gold は『本物の金』です。" }
+    ],
+    "quiz": [
+      { "q": "This bag is made of ___ leather.（本物の革）", "A": "real", "B": "really", "C": "reality", "D": "realize", "correct": "A" },
+      { "q": "「本当に難しい」を表す正しい語は？", "A": "real difficult", "B": "really difficult", "C": "reality difficult", "D": "realize difficult", "correct": "B" }
+    ]
+  },
+  {
+    "english": "reason",
+    "pron": "ˈriːzən",
+    "kana": "リーズン",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "ラテン語 ratio（計算・理性）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "多義語"],
+    "meaning_main": "理由・わけ／理性／論理的に考える",
+    "description": "reason の意味・発音・例文・語源を解説。「理由」だけでなく「理性」の意味もあり、the reason why / for の使い分けも紹介します。",
+    "keywords": ["reason 意味", "reason 発音", "reason why for 使い方", "reason 理由"],
+    "meanings": [
+      { "hinshi": "【名詞】理由・わけ", "note": "the reason for the delay（遅れの理由）。" },
+      { "hinshi": "【名詞】理性・分別", "note": "human reason（人間の理性）。感情に対する論理的思考。" },
+      { "hinshi": "【動詞】論理的に考える・推論する", "note": "reason that〜（〜と推論する）。" }
+    ],
+    "usages": [
+      { "title": "① 「理由」として", "desc": "the reason for＋名詞、the reason why＋文の形で使います。", "example_en": "What is the reason for your decision?", "example_ja": "あなたの決断の理由は何ですか。" },
+      { "title": "② 「理性」として", "desc": "感情に流されない冷静な判断力を表します。", "example_en": "He lost his reason for a moment.", "example_ja": "彼は一瞬、理性を失った。" }
+    ],
+    "warn": [
+      "「〜という理由」は the reason why＋文、または the reason for＋名詞。because と一緒に重ねて使わない。",
+      "for some reason は「どういうわけか」、for no reason は「理由もなく」。"
+    ],
+    "etym_note": "ラテン語 ratio（計算・割合・理性）に由来します。「物事を筋道立てて計算する力」という原義から、「理性」「理由」の意味になりました。rate や ratio と同じ語源です。",
+    "etym_chain": [
+      { "node": "ratio", "sub": "計算・理性", "era": "ラテン語" },
+      { "node": "reson", "sub": "理由・理性", "era": "古フランス語" },
+      { "node": "reason", "sub": "理由・理性", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the reason for", "ja": "〜の理由" },
+      { "en": "the reason why", "ja": "〜する理由" },
+      { "en": "for some reason", "ja": "どういうわけか" },
+      { "en": "for no reason", "ja": "理由もなく" },
+      { "en": "with reason", "ja": "もっともなことに" },
+      { "en": "listen to reason", "ja": "道理に耳を傾ける" }
+    ],
+    "related": [
+      { "en": "reasonable", "ja": "合理的な・手頃な" },
+      { "en": "cause", "ja": "原因" },
+      { "en": "explanation", "ja": "説明" },
+      { "en": "logic", "ja": "論理" }
+    ],
+    "faq": [
+      { "q": "the reason why と the reason for の違いは？", "a": "why のあとには文（the reason why he left）、for のあとには名詞（the reason for his leaving）が続きます。" },
+      { "q": "reason の形容詞形は？", "a": "reasonable（合理的な・手頃な）です。a reasonable price（手頃な値段）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "What is the ___ for your decision?（決断の理由）", "A": "reason", "B": "season", "C": "region", "D": "real", "correct": "A" },
+      { "q": "「どういうわけか」を表す表現はどれ？", "A": "for some reason", "B": "by some reason", "C": "in some reason", "D": "of some reason", "correct": "A" }
+    ]
+  }
+]
