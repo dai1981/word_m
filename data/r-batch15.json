@@ -1,0 +1,532 @@
+[
+  {
+    "english": "rack",
+    "pron": "ræk",
+    "kana": "ラック",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "中世オランダ語 rec（枠・棚）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "もの"],
+    "meaning_main": "（物をのせる）棚・掛け／（頭を）悩ます",
+    "description": "rack の意味・発音・例文・語源を解説。荷物・服・皿をのせる「ラック」の使い方や、rack one's brain（頭を絞る）も分かりやすく紹介します。",
+    "keywords": ["rack 意味", "rack 発音", "rack 棚", "rack one's brain 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】棚・掛け・ラック", "note": "物をのせたり掛けたりする枠。a coat rack（コート掛け）。" },
+      { "hinshi": "【動詞】（頭・心を）悩ます", "note": "rack one's brain（知恵を絞る）。" }
+    ],
+    "usages": [
+      { "title": "① 物をのせる「ラック」として", "desc": "棚や掛け具を表す身近な語です。", "example_en": "Please put your bag on the luggage rack.", "example_ja": "かばんは荷物棚にのせてください。" },
+      { "title": "② rack one's brain として", "desc": "「知恵を絞る・頭を悩ます」を表します。", "example_en": "I racked my brain trying to remember her name.", "example_ja": "私は彼女の名前を思い出そうと頭を絞った。" }
+    ],
+    "warn": [
+      "rack one's brain(s) は『知恵を絞る』という慣用句。",
+      "go to rack and ruin は『荒廃する』。この rack は wrack（破滅）と関連する別語源。"
+    ],
+    "etym_note": "中世オランダ語 rec（枠・棚）に由来します。物をのせる『枠組み』が原義で、そこから棚や掛け具を指すようになりました。",
+    "etym_chain": [
+      { "node": "rec", "sub": "枠・棚", "era": "中世オランダ語" },
+      { "node": "rakke", "sub": "棚", "era": "中英語" },
+      { "node": "rack", "sub": "棚・ラック", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a luggage rack", "ja": "荷物棚" },
+      { "en": "a coat rack", "ja": "コート掛け" },
+      { "en": "a magazine rack", "ja": "雑誌ラック" },
+      { "en": "rack one's brain", "ja": "知恵を絞る" },
+      { "en": "a roof rack", "ja": "（車の）ルーフキャリア" },
+      { "en": "a spice rack", "ja": "香辛料ラック" }
+    ],
+    "related": [
+      { "en": "shelf", "ja": "棚" },
+      { "en": "stand", "ja": "台・スタンド" },
+      { "en": "hanger", "ja": "ハンガー" },
+      { "en": "frame", "ja": "枠" }
+    ],
+    "faq": [
+      { "q": "rack one's brain とは？", "a": "『知恵を絞る・あれこれ頭を悩ます』という意味の慣用句です。" },
+      { "q": "rack と shelf の違いは？", "a": "rack は物をのせる・掛ける『枠組み（ラック）』、shelf は壁などに固定された『棚板』を指すことが多いです。" }
+    ],
+    "quiz": [
+      { "q": "Please put your bag on the luggage ___.（荷物棚）", "A": "rack", "B": "rock", "C": "rug", "D": "rag", "correct": "A" },
+      { "q": "「知恵を絞る」を表すのはどれ？", "A": "rack one's brain", "B": "rock one's brain", "C": "rug one's brain", "D": "rush one's brain", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rag",
+    "pron": "ræɡ",
+    "kana": "ラグ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古ノルド語 rögg（毛羽立ち）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "もの"],
+    "meaning_main": "ぼろ布・ふきん・ぼろ切れ",
+    "description": "rag の意味・発音・例文・語源を解説。掃除用の布や、from rags to riches（無一文から大金持ちへ）などの表現も分かりやすく紹介します。",
+    "keywords": ["rag 意味", "rag 発音", "from rags to riches 意味", "rag ぼろ布"],
+    "meanings": [
+      { "hinshi": "【名詞】ぼろ布・ふきん", "note": "掃除や手入れに使う古い布切れ。a cleaning rag（ぞうきん）。" },
+      { "hinshi": "【名詞】(rags) ぼろ服", "note": "ぼろぼろの衣服。dressed in rags（ぼろを着て）。" }
+    ],
+    "usages": [
+      { "title": "① 「ぼろ布・ふきん」として", "desc": "掃除に使う布切れを表します。", "example_en": "He wiped the table with an old rag.", "example_ja": "彼は古い布でテーブルをふいた。" },
+      { "title": "② 慣用表現として", "desc": "from rags to riches（無一文から成功へ）などで使います。", "example_en": "His life is a real rags-to-riches story.", "example_ja": "彼の人生はまさに無一文からの成功物語だ。" }
+    ],
+    "warn": [
+      "rug（敷物）と rag（ぼろ布）は母音が違う。発音とつづりに注意。",
+      "from rags to riches は『極貧から大金持ちへ』という決まり文句。"
+    ],
+    "etym_note": "古ノルド語 rögg（毛羽立ち・ふさ）に由来するとされます。rugged（ごつごつした）とも関係し、『ほつれた布切れ』が原義です。",
+    "etym_chain": [
+      { "node": "rögg", "sub": "毛羽立ち・ふさ", "era": "古ノルド語" },
+      { "node": "ragge", "sub": "ぼろ布", "era": "中英語" },
+      { "node": "rag", "sub": "ぼろ布・ふきん", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a cleaning rag", "ja": "ぞうきん・ふきん" },
+      { "en": "an old rag", "ja": "古い布切れ" },
+      { "en": "from rags to riches", "ja": "無一文から大金持ちへ" },
+      { "en": "dressed in rags", "ja": "ぼろを着て" },
+      { "en": "wipe with a rag", "ja": "布でふく" },
+      { "en": "a rag doll", "ja": "ぬいぐるみ人形" }
+    ],
+    "related": [
+      { "en": "cloth", "ja": "布" },
+      { "en": "towel", "ja": "タオル" },
+      { "en": "fabric", "ja": "織物" },
+      { "en": "rug", "ja": "敷物（紛らわしい語）" }
+    ],
+    "faq": [
+      { "q": "from rags to riches とは？", "a": "『無一文（ぼろ）から大金持ちへ』という、貧しさから成功する出世物語を表す決まり文句です。" },
+      { "q": "rag と rug の違いは？", "a": "rag は『ぼろ布・ふきん』/ræɡ/、rug は『敷物』/rʌɡ/ で、母音もつづりも違います。" }
+    ],
+    "quiz": [
+      { "q": "He wiped the table with an old ___.（古い布）", "A": "rag", "B": "rug", "C": "rack", "D": "rib", "correct": "A" },
+      { "q": "「無一文から大金持ちへ」を表すのはどれ？", "A": "from rags to riches", "B": "from rugs to riches", "C": "from racks to riches", "D": "from rags to ruins", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rid",
+    "pron": "rɪd",
+    "kana": "リッド",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古ノルド語 ryðja（取り除く・片づける）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "基本動詞"],
+    "meaning_main": "取り除く・取り払う",
+    "description": "rid の意味・発音・例文・語源を解説。get rid of（〜を取り除く・処分する）という超重要表現や、rid A of B の語法も分かりやすく紹介します。",
+    "keywords": ["rid 意味", "rid 発音", "get rid of 意味", "rid of 使い方"],
+    "meanings": [
+      { "hinshi": "【動詞】（rid A of B）AからBを取り除く", "note": "rid the house of mice（家からネズミを駆除する）。" },
+      { "hinshi": "【動詞】(get rid of) 〜を取り除く・処分する", "note": "最もよく使う形。" }
+    ],
+    "usages": [
+      { "title": "① get rid of（〜を取り除く）として", "desc": "不要なものを処分・除去する超頻出表現です。", "example_en": "I want to get rid of these old clothes.", "example_ja": "私はこの古い服を処分したい。" },
+      { "title": "② rid A of B として", "desc": "「AからBを取り除く」を表すかたい形です。", "example_en": "The medicine helped rid her of the pain.", "example_ja": "その薬は彼女の痛みを取り除くのに役立った。" }
+    ],
+    "warn": [
+      "活用は rid – rid – rid（原形と同じ）。get rid of が圧倒的によく使われる。",
+      "rid A of B（AからBを取り除く）の前置詞 of に注意。"
+    ],
+    "etym_note": "古ノルド語 ryðja（取り除く・道を開ける）に由来します。『邪魔なものを片づける』が原義で、get rid of の形で定着しました。",
+    "etym_chain": [
+      { "node": "ryðja", "sub": "取り除く・片づける", "era": "古ノルド語" },
+      { "node": "ridden", "sub": "取り除く", "era": "中英語" },
+      { "node": "rid", "sub": "取り除く", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "get rid of", "ja": "〜を取り除く・処分する" },
+      { "en": "rid A of B", "ja": "AからBを取り除く" },
+      { "en": "rid the world of", "ja": "世界から〜をなくす" },
+      { "en": "be rid of", "ja": "〜から解放されている" },
+      { "en": "want to get rid of", "ja": "〜を処分したい" },
+      { "en": "get rid of a cold", "ja": "風邪を治す" }
+    ],
+    "related": [
+      { "en": "remove", "ja": "取り除く" },
+      { "en": "eliminate", "ja": "除去する" },
+      { "en": "throw away", "ja": "捨てる" },
+      { "en": "clear", "ja": "片づける" }
+    ],
+    "faq": [
+      { "q": "get rid of とは？", "a": "『〜を取り除く・処分する・厄介払いする』という意味の超頻出表現です。get rid of garbage（ごみを処分する）のように使います。" },
+      { "q": "rid の活用は？", "a": "rid – rid – rid と、原形・過去形・過去分詞がすべて同じです。" }
+    ],
+    "quiz": [
+      { "q": "I want to ___ of these old clothes.（処分したい）", "A": "get rid", "B": "get red", "C": "get ride", "D": "get rod", "correct": "A" },
+      { "q": "rid A ___ B（AからBを取り除く）に入る前置詞は？", "A": "of", "B": "from", "C": "to", "D": "with", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rigid",
+    "pron": "ˈrɪdʒɪd",
+    "kana": "リジッド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 rigidus（こわばった）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "形容詞"],
+    "meaning_main": "硬い・曲がらない・厳格な",
+    "description": "rigid の意味・発音・例文・語源を解説。「物理的に硬い」と「（規則などが）厳格な」の二つの意味や、flexible（柔軟な）との対比も紹介します。",
+    "keywords": ["rigid 意味", "rigid 発音", "rigid flexible 反対", "rigid 厳格"],
+    "meanings": [
+      { "hinshi": "【形容詞】硬い・曲がらない", "note": "a rigid structure（硬い構造）。曲げられない。" },
+      { "hinshi": "【形容詞】厳格な・融通のきかない", "note": "rigid rules（厳格な規則）。" }
+    ],
+    "usages": [
+      { "title": "① 「硬い・曲がらない」として", "desc": "物理的に曲がらない様子を表します。", "example_en": "The frame is made of a rigid material.", "example_ja": "その枠は硬い素材でできている。" },
+      { "title": "② 「厳格な・融通のきかない」として", "desc": "規則や考え方の堅さを表します。", "example_en": "The school has very rigid rules.", "example_ja": "その学校はとても厳格な規則を持っている。" }
+    ],
+    "warn": [
+      "反対語は flexible（柔軟な・曲げられる）。物理的にも比喩的にも対比される。",
+      "rigid は『融通のきかない』とやや否定的に使われることが多い。"
+    ],
+    "etym_note": "ラテン語 rigidus（こわばった。rigere「硬直する」から）に由来します。『こわばって曲がらない』が原義で、そこから『厳格な』の意味にも広がりました。",
+    "etym_chain": [
+      { "node": "rigere", "sub": "硬直する", "era": "ラテン語" },
+      { "node": "rigidus", "sub": "こわばった", "era": "ラテン語" },
+      { "node": "rigid", "sub": "硬い・厳格な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rigid rules", "ja": "厳格な規則" },
+      { "en": "a rigid structure", "ja": "硬い構造" },
+      { "en": "rigid discipline", "ja": "厳しい規律" },
+      { "en": "a rigid attitude", "ja": "融通のきかない態度" },
+      { "en": "rigid with fear", "ja": "恐怖で身がこわばって" },
+      { "en": "too rigid", "ja": "硬すぎる・厳格すぎる" }
+    ],
+    "related": [
+      { "en": "flexible", "ja": "柔軟な（反対語）" },
+      { "en": "stiff", "ja": "硬い・こわばった" },
+      { "en": "strict", "ja": "厳格な" },
+      { "en": "firm", "ja": "しっかりした" }
+    ],
+    "faq": [
+      { "q": "rigid の反対語は？", "a": "flexible（柔軟な・曲げられる）です。物理的な硬さにも、考え方の柔軟さにも対比して使えます。" },
+      { "q": "rigid と strict の違いは？", "a": "どちらも『厳格な』ですが、rigid は『融通がきかず変えられない』、strict は『規則をきちんと守らせる』というニュアンスです。" }
+    ],
+    "quiz": [
+      { "q": "The school has very ___ rules.（厳格な規則）", "A": "rigid", "B": "ripe", "C": "rural", "D": "rude", "correct": "A" },
+      { "q": "rigid の反対語はどれ？", "A": "flexible", "B": "hard", "C": "solid", "D": "strong", "correct": "A" }
+    ]
+  },
+  {
+    "english": "riot",
+    "pron": "ˈraɪət",
+    "kana": "ライオット",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "古フランス語 riote（口論・騒ぎ）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "社会"],
+    "meaning_main": "暴動・騒動／暴動を起こす",
+    "description": "riot の意味・発音・例文・語源を解説。「暴動」の意味や、run riot（暴れまわる・はびこる）などの表現も分かりやすく紹介します。",
+    "keywords": ["riot 意味", "riot 発音", "run riot 意味", "riot 暴動"],
+    "meanings": [
+      { "hinshi": "【名詞】暴動・騒動", "note": "群衆による暴力的な騒ぎ。a riot broke out（暴動が起きた）。" },
+      { "hinshi": "【動詞】暴動を起こす・暴れる", "note": "The crowd rioted in the streets." }
+    ],
+    "usages": [
+      { "title": "① 名詞「暴動」として", "desc": "群衆による暴力的な騒動を表します。", "example_en": "A riot broke out after the match.", "example_ja": "試合のあと、暴動が起きた。" },
+      { "title": "② run riot として", "desc": "「暴れまわる・好き放題に広がる」を表します。", "example_en": "The children ran riot in the garden.", "example_ja": "子どもたちは庭で暴れまわった。" }
+    ],
+    "warn": [
+      "run riot は『暴れまわる・（植物などが）はびこる・想像力が暴走する』。",
+      "riot police は『機動隊』。a riot of color は『色彩の洪水・色とりどり』のよい意味でも使う。"
+    ],
+    "etym_note": "古フランス語 riote（口論・騒ぎ）に由来します。もとは『言い争い・騒動』で、そこから『暴動』の意味になりました。",
+    "etym_chain": [
+      { "node": "riote", "sub": "口論・騒ぎ", "era": "古フランス語" },
+      { "node": "riot", "sub": "騒動", "era": "中英語" },
+      { "node": "riot", "sub": "暴動・騒動", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a riot breaks out", "ja": "暴動が起きる" },
+      { "en": "run riot", "ja": "暴れまわる・はびこる" },
+      { "en": "riot police", "ja": "機動隊" },
+      { "en": "start a riot", "ja": "暴動を起こす" },
+      { "en": "a riot of color", "ja": "色彩の洪水・色とりどり" },
+      { "en": "put down a riot", "ja": "暴動を鎮める" }
+    ],
+    "related": [
+      { "en": "rebellion", "ja": "反乱" },
+      { "en": "chaos", "ja": "混乱" },
+      { "en": "protest", "ja": "抗議" },
+      { "en": "disorder", "ja": "無秩序・騒乱" }
+    ],
+    "faq": [
+      { "q": "run riot とはどんな意味？", "a": "『暴れまわる・好き放題にふるまう・（植物などが）はびこる』という意味です。Let your imagination run riot.（想像力を自由に働かせて）のようにも使います。" },
+      { "q": "a riot of color とは？", "a": "『色彩の洪水・色とりどり』というよい意味の表現です。" }
+    ],
+    "quiz": [
+      { "q": "A ___ broke out after the match.（暴動が起きた）", "A": "riot", "B": "root", "C": "route", "D": "row", "correct": "A" },
+      { "q": "「暴れまわる」を表すのはどれ？", "A": "run riot", "B": "run root", "C": "run route", "D": "run rust", "correct": "A" }
+    ]
+  },
+  {
+    "english": "robe",
+    "pron": "roʊb",
+    "kana": "ロウブ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 robe（戦利品の衣服）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "衣類"],
+    "meaning_main": "ローブ・ゆったりした上着・式服",
+    "description": "robe の意味・発音・例文・語源を解説。バスローブや法服・式服など、ゆったりした長い衣服を表す使い方を分かりやすく紹介します。",
+    "keywords": ["robe 意味", "robe 発音", "bathrobe 意味", "robe ローブ"],
+    "meanings": [
+      { "hinshi": "【名詞】ローブ・ゆったりした長い上着", "note": "a bathrobe（バスローブ）。くつろぎ着。" },
+      { "hinshi": "【名詞】（儀式の）式服・法服", "note": "裁判官・聖職者・卒業式などの正装。" }
+    ],
+    "usages": [
+      { "title": "① くつろぎ着の「ローブ」として", "desc": "入浴後などに着るゆったりした上着です。", "example_en": "She put on a robe after her bath.", "example_ja": "彼女は入浴後にローブを羽織った。" },
+      { "title": "② 儀式の「式服・法服」として", "desc": "裁判官や卒業生が着る正装を表します。", "example_en": "The judge wore a black robe.", "example_ja": "裁判官は黒い法服を着ていた。" }
+    ],
+    "warn": [
+      "robe（ローブ）と rob（奪う）はつづり・発音が近いが別語。robe /roʊb/、rob /rɑːb/。",
+      "『バスローブ』は bathrobe。複数の robes で式服一式を指すこともある。"
+    ],
+    "etym_note": "古フランス語 robe（もとは『略奪した衣服・戦利品』）に由来します。rob（奪う）と同じ語源で、『奪い取った衣服』が原義でした。",
+    "etym_chain": [
+      { "node": "robe", "sub": "戦利品の衣服", "era": "古フランス語" },
+      { "node": "robe", "sub": "ローブ・式服", "era": "中英語" },
+      { "node": "robe", "sub": "ローブ・式服", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a bathrobe", "ja": "バスローブ" },
+      { "en": "put on a robe", "ja": "ローブを羽織る" },
+      { "en": "a judge's robe", "ja": "裁判官の法服" },
+      { "en": "a graduation robe", "ja": "卒業式の式服" },
+      { "en": "a silk robe", "ja": "絹のローブ" },
+      { "en": "royal robes", "ja": "王の式服" }
+    ],
+    "related": [
+      { "en": "gown", "ja": "ガウン・式服" },
+      { "en": "cloak", "ja": "マント" },
+      { "en": "clothes", "ja": "衣服" },
+      { "en": "uniform", "ja": "制服" }
+    ],
+    "faq": [
+      { "q": "robe と rob の違いは？", "a": "robe は『ローブ（ゆったりした長い衣服）』/roʊb/、rob は『奪う』/rɑːb/ です。意味も発音も違います。" },
+      { "q": "robe と gown の違いは？", "a": "どちらもゆったりした長い衣服ですが、robe はくつろぎ着や式服全般、gown はドレスや式服・手術着などを指すことが多いです。" }
+    ],
+    "quiz": [
+      { "q": "She put on a ___ after her bath.（ローブを羽織った）", "A": "robe", "B": "rob", "C": "rope", "D": "rod", "correct": "A" },
+      { "q": "「裁判官の法服」を表すのはどれ？", "A": "a judge's robe", "B": "a judge's rob", "C": "a judge's rope", "D": "a judge's rug", "correct": "A" }
+    ]
+  },
+  {
+    "english": "romance",
+    "pron": "roʊˈmæns",
+    "kana": "ロウマンス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 romanz（ロマンス語の物語）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "名詞"],
+    "meaning_main": "恋愛・ロマンス／恋愛物語",
+    "description": "romance の意味・発音・例文・語源を解説。「恋愛」「恋物語」の意味や、ローマ由来という語源、形容詞 romantic も分かりやすく紹介します。",
+    "keywords": ["romance 意味", "romance 発音", "romance 恋愛", "romance 語源"],
+    "meanings": [
+      { "hinshi": "【名詞】恋愛・ロマンス", "note": "a holiday romance（旅先の恋）。" },
+      { "hinshi": "【名詞】恋愛小説・恋物語", "note": "a romance novel（恋愛小説）。" }
+    ],
+    "usages": [
+      { "title": "① 「恋愛・ロマンス」として", "desc": "男女の恋愛関係を表します。", "example_en": "Their romance began at university.", "example_ja": "彼らの恋は大学で始まった。" },
+      { "title": "② 「恋愛物語」として", "desc": "小説・映画のジャンルも表します。", "example_en": "She loves reading historical romances.", "example_ja": "彼女は歴史恋愛小説を読むのが大好きだ。" }
+    ],
+    "warn": [
+      "形容詞は romantic（ロマンチックな）。アクセントは romance /roʊˈmæns/ で後ろにも置ける。",
+      "Romance languages は『ロマンス諸語（フランス語・スペイン語など）』で大文字。"
+    ],
+    "etym_note": "古フランス語 romanz（『ローマの言葉（俗ラテン語）で書かれた物語』）に由来します。中世の騎士の冒険・恋物語がそう呼ばれ、のちに『恋愛』の意味になりました。Rome（ローマ）と同じ語源です。",
+    "etym_chain": [
+      { "node": "romanice", "sub": "ローマの言葉で", "era": "俗ラテン語" },
+      { "node": "romanz", "sub": "物語・恋物語", "era": "古フランス語" },
+      { "node": "romance", "sub": "恋愛・恋物語", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a holiday romance", "ja": "旅先の恋" },
+      { "en": "a romance novel", "ja": "恋愛小説" },
+      { "en": "a whirlwind romance", "ja": "電撃的な恋" },
+      { "en": "office romance", "ja": "社内恋愛" },
+      { "en": "keep the romance alive", "ja": "恋心を保ち続ける" },
+      { "en": "Romance languages", "ja": "ロマンス諸語" }
+    ],
+    "related": [
+      { "en": "romantic", "ja": "ロマンチックな" },
+      { "en": "love", "ja": "愛・恋" },
+      { "en": "affair", "ja": "情事・関係" },
+      { "en": "relationship", "ja": "交際・関係" }
+    ],
+    "faq": [
+      { "q": "romance の語源は？", "a": "『ローマの言葉（俗ラテン語）で書かれた物語』が原義です。中世の騎士の恋物語から『恋愛』の意味になりました。" },
+      { "q": "Romance languages とは？", "a": "ラテン語から派生したフランス語・スペイン語・イタリア語などの『ロマンス諸語』のことです。" }
+    ],
+    "quiz": [
+      { "q": "Their ___ began at university.（恋が始まった）", "A": "romance", "B": "romantic", "C": "rumor", "D": "routine", "correct": "A" },
+      { "q": "romance の形容詞形はどれ？", "A": "romanceful", "B": "romantic", "C": "romancy", "D": "romanish", "correct": "B" }
+    ]
+  },
+  {
+    "english": "romantic",
+    "pron": "roʊˈmæntɪk",
+    "kana": "ロウマンティック",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "romance（恋物語）＋ -ic",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "形容詞"],
+    "meaning_main": "ロマンチックな・恋愛の・空想的な",
+    "description": "romantic の意味・発音・例文・語源を解説。「恋愛の・ロマンチックな」の使い方や、Romantic（ロマン主義の）との違いも分かりやすく紹介します。",
+    "keywords": ["romantic 意味", "romantic 発音", "romantic ロマンチック", "romantic 恋愛の"],
+    "meanings": [
+      { "hinshi": "【形容詞】ロマンチックな・恋愛の", "note": "a romantic dinner（ロマンチックな夕食）。" },
+      { "hinshi": "【形容詞】空想的な・夢見がちな", "note": "a romantic view of life（人生を理想化した見方）。" }
+    ],
+    "usages": [
+      { "title": "① 「ロマンチックな・恋愛の」として", "desc": "恋愛感情を高める雰囲気を表します。", "example_en": "They had a romantic dinner by the sea.", "example_ja": "彼らは海辺でロマンチックな夕食をとった。" },
+      { "title": "② 「空想的な・理想主義的な」として", "desc": "現実離れして夢見がちな様子を表します。", "example_en": "He has a romantic idea of country life.", "example_ja": "彼は田舎暮らしを理想化して考えている。" }
+    ],
+    "warn": [
+      "名詞 romance から派生。副詞は romantically。",
+      "大文字の Romantic は芸術・文学の『ロマン主義（の）』を指す（the Romantic period）。"
+    ],
+    "etym_note": "名詞 romance（恋物語）に -ic がついた語で、「恋物語のような＝ロマンチックな」が原義です。18〜19世紀には芸術運動『ロマン主義』の意味も生まれました。",
+    "etym_chain": [
+      { "node": "romance", "sub": "恋物語", "era": "古フランス語" },
+      { "node": "romantic", "sub": "恋物語風の", "era": "近代英語" },
+      { "node": "romantic", "sub": "ロマンチックな", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a romantic dinner", "ja": "ロマンチックな夕食" },
+      { "en": "a romantic movie", "ja": "恋愛映画" },
+      { "en": "a romantic gesture", "ja": "ロマンチックな振る舞い" },
+      { "en": "a romantic relationship", "ja": "恋愛関係" },
+      { "en": "hopelessly romantic", "ja": "どうしようもなくロマンチストな" },
+      { "en": "the Romantic period", "ja": "ロマン主義の時代" }
+    ],
+    "related": [
+      { "en": "romance", "ja": "恋愛・恋物語" },
+      { "en": "loving", "ja": "愛情深い" },
+      { "en": "passionate", "ja": "情熱的な" },
+      { "en": "realistic", "ja": "現実的な（対比語）" }
+    ],
+    "faq": [
+      { "q": "romantic と romance の違いは？", "a": "romance は名詞『恋愛・恋物語』、romantic は形容詞『ロマンチックな・恋愛の』です。" },
+      { "q": "大文字の Romantic とは？", "a": "18〜19世紀の芸術・文学運動『ロマン主義（の）』を指します。the Romantic poets（ロマン派詩人）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "They had a ___ dinner by the sea.（ロマンチックな夕食）", "A": "romantic", "B": "romance", "C": "rural", "D": "rigid", "correct": "A" },
+      { "q": "romantic の名詞形はどれ？", "A": "romance", "B": "romantics の単数誤用", "C": "romanticness", "D": "romantism", "correct": "A" }
+    ]
+  },
+  {
+    "english": "runway",
+    "pron": "ˈrʌnweɪ",
+    "kana": "ランウェイ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "run（走る）＋ way（道）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "もの"],
+    "meaning_main": "滑走路／（ファッションの）ランウェイ",
+    "description": "runway の意味・発音・例文・語源を解説。空港の「滑走路」と、ファッションショーの「ランウェイ（花道）」の二つの意味を分かりやすく紹介します。",
+    "keywords": ["runway 意味", "runway 発音", "runway 滑走路", "runway ファッション"],
+    "meanings": [
+      { "hinshi": "【名詞】滑走路", "note": "飛行機が離着陸する道。land on the runway（滑走路に着陸する）。" },
+      { "hinshi": "【名詞】（ショーの）ランウェイ・花道", "note": "モデルが歩く細長い舞台。" }
+    ],
+    "usages": [
+      { "title": "① 空港の「滑走路」として", "desc": "飛行機が離着陸する場所です。", "example_en": "The plane is waiting on the runway.", "example_ja": "飛行機は滑走路で待機している。" },
+      { "title": "② ファッションの「ランウェイ」として", "desc": "モデルが歩く舞台を表します。", "example_en": "The models walked down the runway.", "example_ja": "モデルたちはランウェイを歩いた。" }
+    ],
+    "warn": [
+      "run（走る）＋ way（道）の複合語。空港でもファッションでも『細長い通り道』のイメージ。",
+      "イギリスではファッションの花道を catwalk とも呼ぶ。"
+    ],
+    "etym_note": "run（走る）と way（道）を組み合わせた複合語で、「（飛行機が）走る道＝滑走路」が原義です。のちにファッションショーの細長い舞台も指すようになりました。",
+    "etym_chain": [
+      { "node": "run + way", "sub": "走る＋道", "era": "近代英語" },
+      { "node": "runway", "sub": "滑走路", "era": "20世紀" },
+      { "node": "runway", "sub": "滑走路・ランウェイ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "land on the runway", "ja": "滑走路に着陸する" },
+      { "en": "wait on the runway", "ja": "滑走路で待機する" },
+      { "en": "a long runway", "ja": "長い滑走路" },
+      { "en": "walk down the runway", "ja": "ランウェイを歩く" },
+      { "en": "a fashion runway", "ja": "ファッションのランウェイ" },
+      { "en": "clear the runway", "ja": "滑走路をあける" }
+    ],
+    "related": [
+      { "en": "airport", "ja": "空港" },
+      { "en": "takeoff", "ja": "離陸" },
+      { "en": "catwalk", "ja": "（ショーの）花道" },
+      { "en": "landing", "ja": "着陸" }
+    ],
+    "faq": [
+      { "q": "runway の二つの意味は？", "a": "①空港の『滑走路』と、②ファッションショーでモデルが歩く『ランウェイ（花道）』です。どちらも細長い通り道です。" },
+      { "q": "ファッションの runway の別の言い方は？", "a": "イギリス英語では catwalk（キャットウォーク）とも言います。" }
+    ],
+    "quiz": [
+      { "q": "The plane is waiting on the ___.（滑走路）", "A": "runway", "B": "railway", "C": "highway", "D": "roadway", "correct": "A" },
+      { "q": "runway は何と何の複合語？", "A": "run ＋ way", "B": "rain ＋ way", "C": "rule ＋ way", "D": "row ＋ way", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rookie",
+    "pron": "ˈrʊki",
+    "kana": "ルーキー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "recruit（新兵）のなまりとされる",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "名詞"],
+    "meaning_main": "新人・ルーキー・初心者",
+    "description": "rookie の意味・発音・例文・語源を解説。スポーツや仕事の「新人」を表す使い方や、veteran（ベテラン）との対比も分かりやすく紹介します。",
+    "keywords": ["rookie 意味", "rookie 発音", "rookie veteran 反対", "rookie 新人"],
+    "meanings": [
+      { "hinshi": "【名詞】新人・ルーキー", "note": "スポーツや職場に入りたての人。a rookie player（新人選手）。" },
+      { "hinshi": "【名詞】初心者・未熟者", "note": "経験の浅い人。ややくだけた語。" }
+    ],
+    "usages": [
+      { "title": "① スポーツ・仕事の「新人」として", "desc": "その年に加入したばかりの選手や社員を表します。", "example_en": "He was named rookie of the year.", "example_ja": "彼は新人王に選ばれた。" },
+      { "title": "② 「初心者」として", "desc": "経験が浅い人を指すくだけた言い方です。", "example_en": "Don't worry, everyone is a rookie at first.", "example_ja": "心配しないで、誰でも最初は初心者だよ。" }
+    ],
+    "warn": [
+      "rookie はくだけた語。反対は veteran（ベテラン・経験者）。",
+      "rookie mistake は『新人にありがちな初歩的ミス』。"
+    ],
+    "etym_note": "recruit（新兵・新人）がなまってできた語とされ、20世紀初めにアメリカのスポーツで広まりました。「入りたての新人」を表します。",
+    "etym_chain": [
+      { "node": "recruit", "sub": "新兵・新人", "era": "近代英語" },
+      { "node": "rookie", "sub": "新人（なまり）", "era": "20世紀初め" },
+      { "node": "rookie", "sub": "新人・初心者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rookie player", "ja": "新人選手" },
+      { "en": "rookie of the year", "ja": "新人王" },
+      { "en": "a rookie cop", "ja": "新米警官" },
+      { "en": "a rookie mistake", "ja": "初歩的なミス" },
+      { "en": "the rookie season", "ja": "ルーキーイヤー（1年目）" },
+      { "en": "a complete rookie", "ja": "まったくの初心者" }
+    ],
+    "related": [
+      { "en": "veteran", "ja": "ベテラン（反対語）" },
+      { "en": "beginner", "ja": "初心者" },
+      { "en": "newcomer", "ja": "新参者" },
+      { "en": "freshman", "ja": "新入生・1年目" }
+    ],
+    "faq": [
+      { "q": "rookie の反対語は？", "a": "veteran（ベテラン・経験豊富な人）です。a rookie ↔ a veteran のように対比します。" },
+      { "q": "a rookie mistake とは？", "a": "『新人・初心者にありがちな初歩的なミス』という意味の表現です。" }
+    ],
+    "quiz": [
+      { "q": "He was named ___ of the year.（新人王）", "A": "rookie", "B": "veteran", "C": "ruler", "D": "rival", "correct": "A" },
+      { "q": "rookie の反対語はどれ？", "A": "veteran", "B": "beginner", "C": "newcomer", "D": "starter", "correct": "A" }
+    ]
+  }
+]
