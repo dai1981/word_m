@@ -1,0 +1,526 @@
+[
+  {
+    "english": "reopen",
+    "pron": "riːˈoʊpən",
+    "kana": "リオープン",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ open（開く）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "基本単語"],
+    "meaning_main": "再び開く・営業を再開する／（議論・件を）再開する",
+    "description": "reopen の意味・発音・例文・語源を解説。店や施設が「再び開く・営業を再開する」、また議論や事件を「蒸し返す・再開する」という使い方を紹介します。",
+    "keywords": ["reopen 意味", "reopen 発音", "reopen 再開", "reopen 営業再開"],
+    "meanings": [
+      { "hinshi": "【動詞】再び開く・営業を再開する", "note": "閉じていた店・施設がまた開く。reopen after renovation（改装後に再開する）。" },
+      { "hinshi": "【動詞】（議論・捜査などを）再開する・蒸し返す", "note": "いったん終わった件をもう一度始める。reopen the case（事件を再捜査する）。" }
+    ],
+    "usages": [
+      { "title": "① 「営業を再開する」として", "desc": "閉じていた店や施設がまた開く意味です。", "example_en": "The museum will reopen next month.", "example_ja": "その美術館は来月に再開する。" },
+      { "title": "② 「（件を）再開する」として", "desc": "終わった議論や捜査を再び始める意味です。", "example_en": "Police decided to reopen the investigation.", "example_ja": "警察は捜査を再開することにした。" }
+    ],
+    "warn": [
+      "reopen は『再び開く・再開する』。店舗の営業再開と、議論・事件の蒸し返しの両方に使う。",
+      "reopen old wounds は『（過去の）古傷をえぐり返す』という比喩表現。"
+    ],
+    "etym_note": "re-（再び）＋ open（開く）から成る分かりやすい語です。open は古英語 openian（開く）に由来し、「もう一度開く＝再開する」が原義です。",
+    "etym_chain": [
+      { "node": "openian", "sub": "開く", "era": "古英語" },
+      { "node": "open", "sub": "開く", "era": "中英語" },
+      { "node": "reopen", "sub": "再び開く・再開する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reopen the store", "ja": "店を再開する" },
+      { "en": "reopen after renovation", "ja": "改装後に再開する" },
+      { "en": "reopen the case", "ja": "事件を再捜査する" },
+      { "en": "reopen negotiations", "ja": "交渉を再開する" },
+      { "en": "reopen old wounds", "ja": "古傷をえぐり返す" },
+      { "en": "reopen the debate", "ja": "議論を蒸し返す" }
+    ],
+    "related": [
+      { "en": "open", "ja": "開く" },
+      { "en": "resume", "ja": "再開する" },
+      { "en": "restart", "ja": "再び始める" },
+      { "en": "close", "ja": "閉じる（反対語）" }
+    ],
+    "faq": [
+      { "q": "reopen とはどんな意味？", "a": "閉じていた店や施設が『再び開く・営業を再開する』という意味と、終わった議論や捜査を『再開する・蒸し返す』という意味があります。" },
+      { "q": "reopen old wounds とは？", "a": "『（過去のつらい記憶や対立の）古傷をえぐり返す・蒸し返す』という意味の比喩表現です。" }
+    ],
+    "quiz": [
+      { "q": "The museum will ___ next month.（再開する）", "A": "reopen", "B": "remove の取り除く", "C": "remind の思い出させる", "D": "repeat の繰り返す", "correct": "A" },
+      { "q": "reopen the case の意味はどれ？", "A": "事件を再捜査する", "B": "店を閉める", "C": "本を読み返す", "D": "箱を片づける", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reuse",
+    "pron": "riːˈjuːz",
+    "kana": "リユーズ",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ use（使う）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "環境"],
+    "meaning_main": "再利用する・もう一度使う／（名詞）再利用",
+    "description": "reuse の意味・発音・例文・語源を解説。使い終わったものを「再利用する・もう一度使う」という、環境の話題で頻出の語の使い方を紹介します。",
+    "keywords": ["reuse 意味", "reuse 発音", "reuse 再利用", "reuse リユース"],
+    "meanings": [
+      { "hinshi": "【動詞】再利用する・もう一度使う", "note": "捨てずにまた使うこと。reuse a bag（袋を再利用する）。動詞は『リユーズ』と濁る。" },
+      { "hinshi": "【名詞】再利用", "note": "名詞は『リユース』と濁らない。the reuse of materials（資源の再利用）。" }
+    ],
+    "usages": [
+      { "title": "① 「再利用する」として", "desc": "捨てずにもう一度使う意味です。", "example_en": "Please reuse your shopping bags.", "example_ja": "買い物袋を再利用してください。" },
+      { "title": "② 環境・3Rの文脈で", "desc": "ごみを減らす取り組みとして使います。", "example_en": "Reduce, reuse, and recycle to protect the planet.", "example_ja": "地球を守るため、減らし・再利用し・再生利用しよう。" }
+    ],
+    "warn": [
+      "reuse は動詞『リユーズ（濁る）』、名詞『リユース（濁らない）』で発音が変わる。",
+      "3R は reduce（減らす）・reuse（再利用）・recycle（再生利用）。reuse は『そのままもう一度使う』。"
+    ],
+    "etym_note": "re-（再び）＋ use（使う）から成る分かりやすい語です。use は古フランス語 user（使う）を経て、ラテン語 uti（用いる）に由来します。環境意識の高まりとともによく使われるようになりました。",
+    "etym_chain": [
+      { "node": "uti", "sub": "用いる", "era": "ラテン語" },
+      { "node": "use", "sub": "使う", "era": "中英語" },
+      { "node": "reuse", "sub": "再利用する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reuse a bag", "ja": "袋を再利用する" },
+      { "en": "reduce, reuse, recycle", "ja": "減らす・再利用・再生利用（3R）" },
+      { "en": "reuse water", "ja": "水を再利用する" },
+      { "en": "reuse materials", "ja": "資材を再利用する" },
+      { "en": "for reuse", "ja": "再利用のために" },
+      { "en": "reuse the code", "ja": "コードを再利用する" }
+    ],
+    "related": [
+      { "en": "recycle", "ja": "再生利用する" },
+      { "en": "reduce", "ja": "減らす" },
+      { "en": "repurpose", "ja": "別用途に転用する" },
+      { "en": "use", "ja": "使う" }
+    ],
+    "faq": [
+      { "q": "reuse とはどんな意味？", "a": "使い終わったものを捨てずに『再利用する・もう一度使う』という動詞です。環境の話題で reduce, reuse, recycle（3R）の一つとしてよく使われます。" },
+      { "q": "reuse と recycle の違いは？", "a": "reuse は『そのままの形でもう一度使う』、recycle は『資源に戻して別の製品に作り直す』という違いがあります。" }
+    ],
+    "quiz": [
+      { "q": "Please ___ your shopping bags.（再利用する）", "A": "reuse", "B": "refuse の断る", "C": "reduce の減らす", "D": "review の見直す", "correct": "A" },
+      { "q": "3R に含まれないのはどれ？", "A": "remove（取り除く）", "B": "reduce（減らす）", "C": "reuse（再利用）", "D": "recycle（再生利用）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rename",
+    "pron": "riːˈneɪm",
+    "kana": "リネーム",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ name（名づける）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "基本・IT"],
+    "meaning_main": "名前を変える・改名する・名づけ直す",
+    "description": "rename の意味・発音・例文・語源を解説。人・場所・ファイルなどの「名前を変える・改名する」という日常・ITで頻出の語の使い方を紹介します。",
+    "keywords": ["rename 意味", "rename 発音", "rename 名前を変える", "rename 改名"],
+    "meanings": [
+      { "hinshi": "【動詞】名前を変える・改名する・名づけ直す", "note": "人・場所・組織・ファイルなどに新しい名をつける。rename the file（ファイル名を変える）。" }
+    ],
+    "usages": [
+      { "title": "① 場所・組織について", "desc": "新しい名前に変える意味です。", "example_en": "The city was renamed after the war.", "example_ja": "その都市は戦後に改名された。" },
+      { "title": "② ファイル・データについて", "desc": "ITで名前をつけ直す意味です。", "example_en": "Right-click to rename the file.", "example_ja": "右クリックでファイル名を変えられる。" }
+    ],
+    "warn": [
+      "rename は『名前を変える・つけ直す』。rename A as B / rename A B で『AをBと改名する』。",
+      "ファイル操作で頻出の基本IT用語でもある。"
+    ],
+    "etym_note": "re-（再び）＋ name（名づける）から成る分かりやすい語です。name は古英語 nama（名前）に由来し、「もう一度名づける＝改名する」が原義です。",
+    "etym_chain": [
+      { "node": "nama", "sub": "名前", "era": "古英語" },
+      { "node": "name", "sub": "名づける", "era": "中英語" },
+      { "node": "rename", "sub": "名前を変える", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rename the file", "ja": "ファイル名を変える" },
+      { "en": "rename the company", "ja": "会社を改名する" },
+      { "en": "rename A as B", "ja": "AをBと改名する" },
+      { "en": "be renamed after", "ja": "〜にちなんで改名される" },
+      { "en": "rename the street", "ja": "通りの名を変える" },
+      { "en": "rename the folder", "ja": "フォルダ名を変える" }
+    ],
+    "related": [
+      { "en": "name", "ja": "名づける" },
+      { "en": "retitle", "ja": "題名を変える" },
+      { "en": "relabel", "ja": "ラベルを貼り替える" },
+      { "en": "call", "ja": "（名前で）呼ぶ" }
+    ],
+    "faq": [
+      { "q": "rename とはどんな意味？", "a": "人・場所・組織・ファイルなどの『名前を変える・改名する・名づけ直す』という動詞です。rename the file（ファイル名を変える）のように使います。" },
+      { "q": "「AをBと改名する」はどう言う？", "a": "rename A as B、または rename A B と言います。例: They renamed the team the Lions.（チームをライオンズと改名した）。" }
+    ],
+    "quiz": [
+      { "q": "Right-click to ___ the file.（名前を変える）", "A": "rename", "B": "remain の残る", "C": "remind の思い出させる", "D": "remove の取り除く", "correct": "A" },
+      { "q": "rename のもとになった語はどれ？", "A": "name（名前）", "B": "game（試合）", "C": "frame（枠）", "D": "flame（炎）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "repurpose",
+    "pron": "riːˈpɜːrpəs",
+    "kana": "リパーパス",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ purpose（目的）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "（別の目的に）転用する・作り替えて使う",
+    "description": "repurpose の意味・発音・例文・語源を解説。あるものを「別の目的に転用する・作り替えて使う」という、環境やビジネスで使われる語の使い方を紹介します。",
+    "keywords": ["repurpose 意味", "repurpose 発音", "repurpose 転用", "repurpose 再利用"],
+    "meanings": [
+      { "hinshi": "【動詞】（別の目的に）転用する・作り替えて使う", "note": "本来とは違う用途に使えるよう作り変える。repurpose an old factory（古い工場を転用する）。" }
+    ],
+    "usages": [
+      { "title": "① 物・建物について", "desc": "本来と違う用途に作り替える意味です。", "example_en": "They repurposed the old church as a library.", "example_ja": "彼らは古い教会を図書館に転用した。" },
+      { "title": "② 情報・素材について", "desc": "既存の素材を別の用途に使い回す意味です。", "example_en": "We can repurpose this content for social media.", "example_ja": "このコンテンツをSNS向けに作り替えて使える。" }
+    ],
+    "warn": [
+      "repurpose は『本来と違う目的に転用する』。reuse（そのまま再利用）より『用途を変えて使う』点が違う。",
+      "環境（古い物の活用）・ビジネス（コンテンツの使い回し）でよく使う。"
+    ],
+    "etym_note": "re-（再び）＋ purpose（目的）から成り、「目的を付け直す＝別の用途に作り替える」が原義です。purpose は古フランス語 porpos（意図）を経てラテン語 proponere（前に置く・提案する）に由来します。",
+    "etym_chain": [
+      { "node": "proponere", "sub": "前に置く・意図する", "era": "ラテン語" },
+      { "node": "purpose", "sub": "目的", "era": "中英語" },
+      { "node": "repurpose", "sub": "別目的に転用する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "repurpose an old building", "ja": "古い建物を転用する" },
+      { "en": "repurpose materials", "ja": "素材を別用途に使う" },
+      { "en": "repurpose content", "ja": "コンテンツを作り替えて使う" },
+      { "en": "creatively repurpose", "ja": "工夫して転用する" },
+      { "en": "repurpose furniture", "ja": "家具を別用途に作り替える" },
+      { "en": "repurpose A as B", "ja": "AをBとして転用する" }
+    ],
+    "related": [
+      { "en": "reuse", "ja": "再利用する" },
+      { "en": "convert", "ja": "転換する" },
+      { "en": "adapt", "ja": "適応させる・作り替える" },
+      { "en": "recycle", "ja": "再生利用する" }
+    ],
+    "faq": [
+      { "q": "repurpose とはどんな意味？", "a": "あるものを『本来とは別の目的に転用する・作り替えて使う』という動詞です。repurpose an old factory（古い工場を転用する）のように使います。" },
+      { "q": "repurpose と reuse の違いは？", "a": "reuse は『同じ用途でもう一度使う』、repurpose は『用途を変えて使えるよう作り替える』という違いがあります。" }
+    ],
+    "quiz": [
+      { "q": "They ___d the old church as a library.（転用した）", "A": "repurpose", "B": "represent の代表する", "C": "report の報告する", "D": "request の要求する", "correct": "A" },
+      { "q": "repurpose のもとになった語はどれ？", "A": "purpose（目的）", "B": "person（人）", "C": "promise（約束）", "D": "purchase（購入）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retrain",
+    "pron": "riːˈtreɪn",
+    "kana": "リトレイン",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ train（訓練する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "ビジネス"],
+    "meaning_main": "再訓練する・新しい技能を学び直す・教え直す",
+    "description": "retrain の意味・発音・例文・語源を解説。新しい仕事や技能のために「学び直す・再訓練する」という、雇用・教育で頻出の語の使い方を紹介します。",
+    "keywords": ["retrain 意味", "retrain 発音", "retrain 学び直す", "retrain 再訓練"],
+    "meanings": [
+      { "hinshi": "【動詞】再訓練する・学び直す・教え直す", "note": "新しい仕事や技能のために改めて訓練する／される。retrain as a nurse（看護師に転身するため学び直す）。" }
+    ],
+    "usages": [
+      { "title": "① 「学び直す」として（自分が）", "desc": "新しい技能を身につけ直す意味です。", "example_en": "She retrained as a software developer.", "example_ja": "彼女はソフトウェア開発者になるため学び直した。" },
+      { "title": "② 「再訓練する」として（人を）", "desc": "従業員などを教え直す意味です。", "example_en": "The company retrained its staff for the new system.", "example_ja": "会社は新システムのため社員を再訓練した。" }
+    ],
+    "warn": [
+      "retrain は『新しい技能のために訓練し直す』。転職・配置転換・技術変化の文脈で頻出。",
+      "retrain as ～（〜に転身するため学び直す）の形が便利。"
+    ],
+    "etym_note": "re-（再び）＋ train（訓練する）から成ります。train は古フランス語 trahiner（引く・導く）に由来し、「導いて鍛える＝訓練する」の意味になりました。",
+    "etym_chain": [
+      { "node": "trahiner", "sub": "引く・導く", "era": "古フランス語" },
+      { "node": "train", "sub": "訓練する", "era": "中英語" },
+      { "node": "retrain", "sub": "再訓練する・学び直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "retrain as a nurse", "ja": "看護師になるため学び直す" },
+      { "en": "retrain staff", "ja": "社員を再訓練する" },
+      { "en": "retrain for a new job", "ja": "新しい仕事のため学び直す" },
+      { "en": "retrain workers", "ja": "労働者を再教育する" },
+      { "en": "need to retrain", "ja": "学び直す必要がある" },
+      { "en": "retrain the model", "ja": "（AIの）モデルを再学習させる" }
+    ],
+    "related": [
+      { "en": "train", "ja": "訓練する" },
+      { "en": "reskill", "ja": "新しい技能を学ばせる" },
+      { "en": "upskill", "ja": "技能を高める" },
+      { "en": "educate", "ja": "教育する" }
+    ],
+    "faq": [
+      { "q": "retrain とはどんな意味？", "a": "新しい仕事や技能のために『再訓練する・学び直す・教え直す』という動詞です。She retrained as a developer.（開発者になるため学び直した）のように使います。" },
+      { "q": "retrain と reskill の違いは？", "a": "ほぼ同じですが、retrain は『改めて訓練する』全般、reskill は特に『新しい職種に向けて別の技能を身につける』点を強調します。" }
+    ],
+    "quiz": [
+      { "q": "She ___ed as a software developer.（学び直した）", "A": "retrain", "B": "retain の保持する", "C": "remain の残る", "D": "retreat の退く", "correct": "A" },
+      { "q": "retrain のもとになった語はどれ？", "A": "train（訓練する）", "B": "trade（取引）", "C": "trail（小道）", "D": "treat（扱う）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rephrase",
+    "pron": "riːˈfreɪz",
+    "kana": "リフレイズ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ phrase（言い表す）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "言い換える・別の言葉で言い直す",
+    "description": "rephrase の意味・発音・例文・語源を解説。同じ内容を「別の言葉で言い直す・言い換える」という、会話や文章で役立つ語の使い方を紹介します。",
+    "keywords": ["rephrase 意味", "rephrase 発音", "rephrase 言い換える", "rephrase 言い直す"],
+    "meanings": [
+      { "hinshi": "【動詞】言い換える・別の言葉で言い直す", "note": "意味を変えずに表現を変える。Let me rephrase that.（言い直させて）。" }
+    ],
+    "usages": [
+      { "title": "① 分かりやすく言い直す", "desc": "より伝わるよう表現を変える意味です。", "example_en": "Could you rephrase the question more simply?", "example_ja": "その質問をもっと簡単に言い換えてもらえますか。" },
+      { "title": "② 角を立てずに言い直す", "desc": "言い方を和らげる場面で使います。", "example_en": "Let me rephrase that to avoid confusion.", "example_ja": "誤解を避けるため言い直させてください。" }
+    ],
+    "warn": [
+      "rephrase は『意味は同じで表現だけ変える』。内容も変える revise（改訂する）とは違う。",
+      "Let me rephrase that.（言い直させて）は会話で便利な決まり文句。"
+    ],
+    "etym_note": "re-（再び）＋ phrase（言い回し・言い表す）から成り、「もう一度言い表す＝言い換える」が原義です。phrase はギリシャ語 phrasis（話し方・表現）に由来します。",
+    "etym_chain": [
+      { "node": "phrasis", "sub": "話し方・表現", "era": "ギリシャ語" },
+      { "node": "phrase", "sub": "言い回し・言い表す", "era": "近代英語" },
+      { "node": "rephrase", "sub": "言い換える", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "let me rephrase that", "ja": "言い直させてください" },
+      { "en": "rephrase the question", "ja": "質問を言い換える" },
+      { "en": "rephrase it more simply", "ja": "もっと簡単に言い換える" },
+      { "en": "rephrase the sentence", "ja": "文を言い直す" },
+      { "en": "try to rephrase", "ja": "言い換えてみる" },
+      { "en": "rephrase politely", "ja": "丁寧に言い直す" }
+    ],
+    "related": [
+      { "en": "paraphrase", "ja": "言い換える・かみ砕いて言う" },
+      { "en": "reword", "ja": "言葉を換える" },
+      { "en": "restate", "ja": "言い直す" },
+      { "en": "phrase", "ja": "言い表す" }
+    ],
+    "faq": [
+      { "q": "rephrase とはどんな意味？", "a": "意味を変えずに『別の言葉で言い直す・言い換える』という動詞です。Could you rephrase that?（言い換えてもらえますか）のように使います。" },
+      { "q": "rephrase と paraphrase の違いは？", "a": "rephrase は『言い方を変える』全般、paraphrase は特に『（難しい内容を）かみ砕いて分かりやすく言い換える』ことを指します。" }
+    ],
+    "quiz": [
+      { "q": "Could you ___ the question more simply?（言い換える）", "A": "rephrase", "B": "refuse の断る", "C": "refer の言及する", "D": "reflect の反映する", "correct": "A" },
+      { "q": "rephrase に近い意味はどれ？", "A": "reword（言葉を換える）", "B": "repeat（そっくり繰り返す）", "C": "delete（削除する）", "D": "translate（翻訳する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "regrettable",
+    "pron": "rɪˈɡretəbəl",
+    "kana": "リグレタブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "regret（後悔する）＋ -able",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "遺憾な・残念な・悔やまれる（あってほしくない）",
+    "description": "regrettable の意味・発音・例文・語源を解説。残念で「悔やまれる・遺憾な」出来事や行いを表す、ややかたい語の使い方を分かりやすく紹介します。",
+    "keywords": ["regrettable 意味", "regrettable 発音", "regrettable 遺憾", "regrettable 残念"],
+    "meanings": [
+      { "hinshi": "【形容詞】遺憾な・残念な・悔やまれる", "note": "起きてほしくなかった、悔やまれるようす。a regrettable mistake（悔やまれる誤り）。" }
+    ],
+    "usages": [
+      { "title": "① 「残念な・悔やまれる」として", "desc": "起きてほしくなかった出来事を表します。", "example_en": "It was a regrettable mistake.", "example_ja": "それは悔やまれる誤りだった。" },
+      { "title": "② 「遺憾な」として（公式に）", "desc": "声明などで遺憾の意を表します。", "example_en": "The company called the incident deeply regrettable.", "example_ja": "会社はその出来事を極めて遺憾だと述べた。" }
+    ],
+    "warn": [
+      "regrettable は『（出来事・行いが）残念で悔やまれる』。人ではなく物事を主語にする。",
+      "人について『後悔している』は regretful。regrettable（物事が残念）と区別する。"
+    ],
+    "etym_note": "regret（後悔する・残念に思う）に -able（〜されうる・〜すべき）が付いた語で、「後悔されるべき＝残念な」が原義です。regret は古フランス語 regreter（嘆く）に由来します。",
+    "etym_chain": [
+      { "node": "regreter", "sub": "嘆く・悔やむ", "era": "古フランス語" },
+      { "node": "regret", "sub": "後悔する", "era": "中英語" },
+      { "node": "regrettable", "sub": "残念な・遺憾な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a regrettable mistake", "ja": "悔やまれる誤り" },
+      { "en": "deeply regrettable", "ja": "極めて遺憾な" },
+      { "en": "a regrettable incident", "ja": "遺憾な出来事" },
+      { "en": "it is regrettable that", "ja": "〜なのは残念だ" },
+      { "en": "a regrettable decision", "ja": "悔やまれる決定" },
+      { "en": "highly regrettable", "ja": "非常に残念な" }
+    ],
+    "related": [
+      { "en": "regret", "ja": "後悔する" },
+      { "en": "regretful", "ja": "後悔している（人が主語）" },
+      { "en": "unfortunate", "ja": "不運な・残念な" },
+      { "en": "lamentable", "ja": "嘆かわしい" }
+    ],
+    "faq": [
+      { "q": "regrettable とはどんな意味？", "a": "出来事や行いが『残念で悔やまれる・遺憾な』ことを表すややかたい形容詞です。a regrettable mistake（悔やまれる誤り）のように物事を主語にして使います。" },
+      { "q": "regrettable と regretful の違いは？", "a": "regrettable は『（物事が）残念な』、regretful は『（人が）後悔している』です。主語が物事か人かで使い分けます。" }
+    ],
+    "quiz": [
+      { "q": "It was a ___ mistake.（悔やまれる）", "A": "regrettable", "B": "regretful の後悔している", "C": "regular の規則的な", "D": "reliable の信頼できる", "correct": "A" },
+      { "q": "regrettable の主語にふさわしいのはどれ？", "A": "出来事・行い（物事）", "B": "後悔している人", "C": "うれしい知らせ", "D": "成功した計画", "correct": "A" }
+    ]
+  },
+  {
+    "english": "remarry",
+    "pron": "riːˈmæri",
+    "kana": "リマリー",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ marry（結婚する）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "基本単語"],
+    "meaning_main": "再婚する・また結婚する",
+    "description": "remarry の意味・発音・例文・語源を解説。離婚や死別のあとに「再婚する・また結婚する」という日常的な語の使い方を分かりやすく紹介します。",
+    "keywords": ["remarry 意味", "remarry 発音", "remarry 再婚", "remarried 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再婚する・また結婚する", "note": "離婚・死別のあと再び結婚する。活用は remarry-remarried-remarried。" }
+    ],
+    "usages": [
+      { "title": "① 「再婚する」として", "desc": "再び結婚する意味です。", "example_en": "She remarried a few years after the divorce.", "example_ja": "彼女は離婚の数年後に再婚した。" },
+      { "title": "② 相手を示して", "desc": "remarry のあとに相手を続けます。", "example_en": "He remarried his childhood friend.", "example_ja": "彼は幼なじみと再婚した。" }
+    ],
+    "warn": [
+      "remarry の活用は marry と同じ remarry-remarried-remarried（y→ied）。",
+      "remarry someone で『〜と再婚する』。前置詞は不要（remarry with としない）。"
+    ],
+    "etym_note": "re-（再び）＋ marry（結婚する）から成る分かりやすい語です。marry は古フランス語 marier を経て、ラテン語 maritare（結婚させる）に由来します。",
+    "etym_chain": [
+      { "node": "maritare", "sub": "結婚させる", "era": "ラテン語" },
+      { "node": "marry", "sub": "結婚する", "era": "中英語" },
+      { "node": "remarry", "sub": "再婚する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "remarry after divorce", "ja": "離婚後に再婚する" },
+      { "en": "never remarry", "ja": "二度と再婚しない" },
+      { "en": "remarry someone", "ja": "〜と再婚する" },
+      { "en": "decide to remarry", "ja": "再婚を決める" },
+      { "en": "remarried with children", "ja": "子連れで再婚した" },
+      { "en": "remarry later in life", "ja": "晩年に再婚する" }
+    ],
+    "related": [
+      { "en": "marry", "ja": "結婚する" },
+      { "en": "divorce", "ja": "離婚する" },
+      { "en": "widow", "ja": "未亡人" },
+      { "en": "spouse", "ja": "配偶者" }
+    ],
+    "faq": [
+      { "q": "remarry の過去形は？", "a": "marry と同じで remarry-remarried-remarried です。語尾の y を ied に変えます。" },
+      { "q": "「〜と再婚する」はどう言う？", "a": "remarry someone と、前置詞なしで相手を続けます。例: He remarried his first wife.（彼は最初の妻と再婚した）。" }
+    ],
+    "quiz": [
+      { "q": "She ___ a few years after the divorce.（再婚した）", "A": "remarried", "B": "remarryed", "C": "remarries", "D": "remarrying", "correct": "A" },
+      { "q": "remarry のもとになった語はどれ？", "A": "marry（結婚する）", "B": "merry（陽気な）", "C": "carry（運ぶ）", "D": "hurry（急ぐ）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reflux",
+    "pron": "ˈriːflʌks",
+    "kana": "リフラックス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 refluxus（逆流）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "医療・化学"],
+    "meaning_main": "逆流（特に胃酸の逆流）／（化学）還流",
+    "description": "reflux の意味・発音・例文・語源を解説。胃酸が食道へ戻る「逆流」や、化学の「還流」を指す専門語の使い方を分かりやすく紹介します。",
+    "keywords": ["reflux 意味", "reflux 発音", "reflux 逆流", "acid reflux 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】逆流（特に胃酸の逆流）", "note": "液体が本来と逆の方向に流れること。acid reflux（胃酸の逆流・逆流性食道炎）。" },
+      { "hinshi": "【名詞】（化学）還流", "note": "蒸気を冷やして元の容器に戻しながら加熱する操作。" }
+    ],
+    "usages": [
+      { "title": "① 「胃酸の逆流」として", "desc": "胃酸が食道へ戻る症状を表します。", "example_en": "Spicy food can cause acid reflux.", "example_ja": "辛い食べ物は胃酸の逆流を引き起こすことがある。" },
+      { "title": "② 「（化学）還流」として", "desc": "実験で蒸気を戻しながら加熱する操作です。", "example_en": "The mixture was heated under reflux for an hour.", "example_ja": "その混合物は1時間、還流しながら加熱された。" }
+    ],
+    "warn": [
+      "reflux は日常では acid reflux（胃酸の逆流・逆流性食道炎）の形でよく使う医療語。",
+      "化学の『還流（reflux）』は実験操作の専門用語。文脈で意味を判断する。"
+    ],
+    "etym_note": "ラテン語 refluxus（re-「逆に」＋ fluere「流れる」＝逆流）に由来します。flux（流れ）や fluid（液体）と同じ語根で、「逆向きに流れること」が原義です。",
+    "etym_chain": [
+      { "node": "fluere", "sub": "流れる", "era": "ラテン語" },
+      { "node": "refluxus", "sub": "逆流", "era": "ラテン語" },
+      { "node": "reflux", "sub": "逆流・還流", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "acid reflux", "ja": "胃酸の逆流・逆流性食道炎" },
+      { "en": "suffer from reflux", "ja": "逆流に悩まされる" },
+      { "en": "reflux symptoms", "ja": "逆流の症状" },
+      { "en": "gastric reflux", "ja": "胃の逆流" },
+      { "en": "heat under reflux", "ja": "還流しながら加熱する" },
+      { "en": "reflux disease", "ja": "逆流性の病気" }
+    ],
+    "related": [
+      { "en": "flux", "ja": "流れ・変動" },
+      { "en": "heartburn", "ja": "胸やけ" },
+      { "en": "backflow", "ja": "逆流" },
+      { "en": "flow", "ja": "流れる" }
+    ],
+    "faq": [
+      { "q": "reflux とはどんな意味？", "a": "液体が本来と逆向きに流れる『逆流』のことです。日常では acid reflux（胃酸の逆流・逆流性食道炎）の形でよく使われます。化学では『還流』を指します。" },
+      { "q": "acid reflux とは？", "a": "胃酸が食道へ逆流して胸やけなどを起こす症状で、逆流性食道炎とも呼ばれます。" }
+    ],
+    "quiz": [
+      { "q": "Spicy food can cause acid ___.（逆流）", "A": "reflux", "B": "reflex の反射", "C": "refund の払い戻し", "D": "refuge の避難所", "correct": "A" },
+      { "q": "reflux の語源の意味はどれ？", "A": "逆に流れる", "B": "速く走る", "C": "高く上がる", "D": "強く押す", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rumba",
+    "pron": "ˈrʌmbə",
+    "kana": "ルンバ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "スペイン語 rumba（陽気な騒ぎ・踊り）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "音楽・ダンス"],
+    "meaning_main": "ルンバ（キューバ起源の踊り・音楽）／ルンバを踊る",
+    "description": "rumba の意味・発音・例文・語源を解説。キューバ生まれの情熱的な踊り・音楽「ルンバ」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["rumba 意味", "rumba 発音", "rumba 踊り", "rumba ダンス"],
+    "meanings": [
+      { "hinshi": "【名詞】ルンバ", "note": "キューバ起源の情熱的なリズムの踊り・音楽。社交ダンスの種目にもある。" },
+      { "hinshi": "【動詞】ルンバを踊る", "note": "they rumbaed all night（一晩じゅうルンバを踊った）。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「ルンバ」として", "desc": "キューバ起源の踊り・音楽を指します。", "example_en": "They danced the rumba at the party.", "example_ja": "彼らはパーティーでルンバを踊った。" },
+      { "title": "② 音楽のジャンルとして", "desc": "そのリズム・曲調を表します。", "example_en": "The band played a slow rumba.", "example_ja": "バンドはゆったりしたルンバを演奏した。" }
+    ],
+    "warn": [
+      "rumba は『キューバ起源の踊り・音楽』。samba（ブラジル）, salsa などラテンダンスの一つ。",
+      "つづりは rumba（rhumba とも書く）。発音は『ルンバ（ˈrʌmbə）』。"
+    ],
+    "etym_note": "スペイン語（アメリカ大陸）の rumba（陽気な騒ぎ・お祭り・踊り）に由来します。19世紀キューバでアフロ・キューバ文化から生まれた踊りで、20世紀に世界へ広まりました。",
+    "etym_chain": [
+      { "node": "rumbo", "sub": "陽気な騒ぎ・進路", "era": "スペイン語" },
+      { "node": "rumba", "sub": "踊り・お祭り", "era": "スペイン語(キューバ)" },
+      { "node": "rumba", "sub": "ルンバ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "dance the rumba", "ja": "ルンバを踊る" },
+      { "en": "a slow rumba", "ja": "ゆったりしたルンバ" },
+      { "en": "rumba rhythm", "ja": "ルンバのリズム" },
+      { "en": "a Cuban rumba", "ja": "キューバのルンバ" },
+      { "en": "play a rumba", "ja": "ルンバを演奏する" },
+      { "en": "rumba music", "ja": "ルンバの音楽" }
+    ],
+    "related": [
+      { "en": "samba", "ja": "サンバ" },
+      { "en": "salsa", "ja": "サルサ" },
+      { "en": "tango", "ja": "タンゴ" },
+      { "en": "dance", "ja": "踊り・踊る" }
+    ],
+    "faq": [
+      { "q": "rumba とはどんな意味？", "a": "キューバ起源の情熱的なリズムの踊り・音楽『ルンバ』のことです。社交ダンスの種目にもあり、they danced the rumba（ルンバを踊った）のように使います。" },
+      { "q": "rumba と samba の違いは？", "a": "rumba はキューバ起源、samba はブラジル起源の踊り・音楽です。どちらもラテン系のダンスですが、リズムや雰囲気が異なります。" }
+    ],
+    "quiz": [
+      { "q": "They danced the ___ at the party.（ルンバ）", "A": "rumba", "B": "rumble のとどろき", "C": "rubble の瓦礫", "D": "ruckus の騒ぎ", "correct": "A" },
+      { "q": "rumba はどこ起源の踊り？", "A": "キューバ", "B": "ブラジル", "C": "アルゼンチン", "D": "メキシコ", "correct": "A" }
+    ]
+  }
+]
