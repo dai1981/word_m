@@ -1,0 +1,54 @@
+[
+  {
+    "english": "respective",
+    "pron": "rɪˈspektɪv",
+    "kana": "リスペクティブ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 respectus（顧みること）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "形容詞"],
+    "meaning_main": "それぞれの・各自の",
+    "description": "respective の意味・発音・例文・語源を解説。「それぞれの・各自の」の使い方や、副詞 respectively（それぞれ）との関係も分かりやすく紹介します。",
+    "keywords": ["respective 意味", "respective 発音", "respectively 意味", "respective それぞれの"],
+    "meanings": [
+      { "hinshi": "【形容詞】それぞれの・各自の", "note": "複数の人・物それぞれに対応する。their respective fields（それぞれの分野）。" }
+    ],
+    "usages": [
+      { "title": "① 「それぞれの・各自の」として", "desc": "複数の対象それぞれに属することを表します。", "example_en": "They returned to their respective homes.", "example_ja": "彼らはそれぞれの家へ帰った。" },
+      { "title": "② 副詞 respectively として", "desc": "「（順に）それぞれ」を表します。", "example_en": "Tom and Jane are 10 and 12 years old, respectively.", "example_ja": "トムとジェーンはそれぞれ10歳と12歳だ。" }
+    ],
+    "warn": [
+      "respective（形容詞）はふつう名詞の前に置く（their respective roles）。",
+      "副詞 respectively は『（前に挙げた順に）それぞれ』。respectful（礼儀正しい）・respectable（立派な）と混同しない。"
+    ],
+    "etym_note": "ラテン語 respectus（顧みること。respicere「振り返って見る」から）に由来します。respect と同じ語源で、「それぞれに目を向けた＝各自の」が原義です。",
+    "etym_chain": [
+      { "node": "respicere", "sub": "振り返って見る", "era": "ラテン語" },
+      { "node": "respective", "sub": "それぞれに関する", "era": "近代英語" },
+      { "node": "respective", "sub": "それぞれの・各自の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "their respective fields", "ja": "それぞれの分野" },
+      { "en": "respective homes", "ja": "それぞれの家" },
+      { "en": "respective roles", "ja": "各自の役割" },
+      { "en": "in their respective ways", "ja": "それぞれのやり方で" },
+      { "en": "respective owners", "ja": "それぞれの所有者" },
+      { "en": "respectively", "ja": "（順に）それぞれ" }
+    ],
+    "related": [
+      { "en": "respectively", "ja": "それぞれ（副詞）" },
+      { "en": "individual", "ja": "個々の" },
+      { "en": "separate", "ja": "別々の" },
+      { "en": "each", "ja": "それぞれの" }
+    ],
+    "faq": [
+      { "q": "respective と respectful の違いは？", "a": "respective は『それぞれの・各自の』、respectful は『礼儀正しい・敬意を示す』です。つづりが似ているので注意しましょう。" },
+      { "q": "respectively とは？", "a": "副詞で『（前に挙げた順に）それぞれ』という意味です。A and B won first and second prize respectively（AとBがそれぞれ1位と2位になった）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "They returned to their ___ homes.（それぞれの家）", "A": "respective", "B": "respectful", "C": "respectable", "D": "respected", "correct": "A" },
+      { "q": "「（順に）それぞれ」を表す副詞はどれ？", "A": "respectively", "B": "respectfully", "C": "respectably", "D": "respectedly", "correct": "A" }
+    ]
+  }
+]
