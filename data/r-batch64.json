@@ -1,0 +1,528 @@
+[
+  {
+    "english": "rabble",
+    "pron": "ˈræbəl",
+    "kana": "ラブル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "中英語 rabel（騒がしい群れ）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "文章語"],
+    "meaning_main": "野次馬・がやがやした群衆／（the rabble で軽蔑的に）下層民・大衆",
+    "description": "rabble の意味・発音・例文・語源を解説。秩序のない「がやがやした群衆・野次馬」や、見下した言い方の「下層民」を表す語の使い方を紹介します。",
+    "keywords": ["rabble 意味", "rabble 発音", "rabble 群衆", "rabble-rouser 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】野次馬・がやがやした群衆", "note": "秩序なく騒ぐ人の群れ。an angry rabble（怒った群衆）。" },
+      { "hinshi": "【名詞】（the rabble で・軽蔑的に）下層民・大衆", "note": "上流から見下した言い方。" }
+    ],
+    "usages": [
+      { "title": "① 「がやがやした群衆」として", "desc": "秩序なく騒ぐ人の群れを表します。", "example_en": "An angry rabble gathered outside the gate.", "example_ja": "怒った群衆が門の外に集まった。" },
+      { "title": "② rabble-rouser として", "desc": "「群衆を扇動する人」を表します。", "example_en": "The politician was called a rabble-rouser.", "example_ja": "その政治家は民衆扇動家と呼ばれた。" }
+    ],
+    "warn": [
+      "rabble は『秩序のない群衆・野次馬』。the rabble は『下層民・大衆』を見下す言い方なので使い方に注意。",
+      "rabble-rouser（民衆を扇動する人）は頻出の複合語。"
+    ],
+    "etym_note": "中英語 rabel（騒がしい群れ・寄せ集め）に由来し、もとは「動物の群れがざわめくこと」を表したとされます。そこから「秩序のない人の群れ」の意味になりました。",
+    "etym_chain": [
+      { "node": "rabel", "sub": "騒がしい群れ", "era": "中英語" },
+      { "node": "rabble", "sub": "野次馬の群れ", "era": "近代英語" },
+      { "node": "rabble", "sub": "群衆・下層民", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an angry rabble", "ja": "怒った群衆" },
+      { "en": "rabble-rouser", "ja": "民衆扇動家" },
+      { "en": "rabble-rousing", "ja": "民衆を扇動する（こと）" },
+      { "en": "a noisy rabble", "ja": "騒がしい野次馬" },
+      { "en": "the common rabble", "ja": "下々の大衆" },
+      { "en": "incite the rabble", "ja": "群衆をあおる" }
+    ],
+    "related": [
+      { "en": "mob", "ja": "暴徒・群衆" },
+      { "en": "crowd", "ja": "群衆" },
+      { "en": "horde", "ja": "大群" },
+      { "en": "throng", "ja": "人だかり" }
+    ],
+    "faq": [
+      { "q": "rabble とはどんな意味？", "a": "秩序なく騒ぐ『がやがやした群衆・野次馬』のことです。the rabble の形では『下層民・大衆』を見下した言い方になります。" },
+      { "q": "rabble-rouser とは？", "a": "演説などで『群衆の感情をあおり立てて行動させる人＝民衆扇動家』のことです。" }
+    ],
+    "quiz": [
+      { "q": "An angry ___ gathered outside the gate.（群衆）", "A": "rabble", "B": "rubble の瓦礫", "C": "rabbit のうさぎ", "D": "ribbon のリボン", "correct": "A" },
+      { "q": "rabble-rouser の意味はどれ？", "A": "民衆扇動家", "B": "群衆整理係", "C": "新聞記者", "D": "警備員", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rarefied",
+    "pron": "ˈrerɪfaɪd",
+    "kana": "レアリファイド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "rarefy（希薄にする）の過去分詞",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "文章語"],
+    "meaning_main": "（空気が）希薄な／（世界・趣味が）高尚な・浮世離れした・選ばれた人だけの",
+    "description": "rarefied の意味・発音・例文・語源を解説。高地の「希薄な空気」、また「高尚で浮世離れした・限られた人だけの」世界を表す語の使い方を紹介します。",
+    "keywords": ["rarefied 意味", "rarefied 発音", "rarefied 希薄", "rarefied 高尚"],
+    "meanings": [
+      { "hinshi": "【形容詞】（空気が）希薄な", "note": "高地などで酸素が薄い状態。rarefied air（薄い空気）。" },
+      { "hinshi": "【形容詞】高尚な・浮世離れした・選ばれた人だけの", "note": "一般人には縁遠い特別な世界。a rarefied world（限られた人だけの世界）。" }
+    ],
+    "usages": [
+      { "title": "① 「希薄な空気」として", "desc": "高地などの薄い空気を表します。", "example_en": "Climbers struggled in the rarefied air.", "example_ja": "登山者たちは希薄な空気の中で苦しんだ。" },
+      { "title": "② 「高尚な・浮世離れした」として", "desc": "限られた人だけの特別な世界を表します。", "example_en": "She moved in the rarefied world of high fashion.", "example_ja": "彼女は高級ファッションという特別な世界に身を置いた。" }
+    ],
+    "warn": [
+      "rarefied は『（空気が）希薄な』と『（世界が）高尚で浮世離れした・選ばれた人だけの』の両方で使う。",
+      "動詞は rarefy（希薄にする）。rare（まれな・珍しい）と語源を共有する。"
+    ],
+    "etym_note": "動詞 rarefy（rare「薄い・まれな」＋ -fy「〜にする」＝希薄にする）の過去分詞です。ラテン語 rarus（薄い・まばらな）に由来し、「空気が薄い→俗世から離れた高尚な」へ意味が広がりました。",
+    "etym_chain": [
+      { "node": "rarus", "sub": "薄い・まばらな", "era": "ラテン語" },
+      { "node": "rarefy", "sub": "希薄にする", "era": "近代英語" },
+      { "node": "rarefied", "sub": "希薄な・高尚な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rarefied air", "ja": "希薄な空気" },
+      { "en": "a rarefied world", "ja": "選ばれた人だけの世界" },
+      { "en": "rarefied atmosphere", "ja": "高尚な雰囲気・希薄な大気" },
+      { "en": "rarefied circles", "ja": "限られた上流社会" },
+      { "en": "a rarefied taste", "ja": "高尚な趣味" },
+      { "en": "in rarefied company", "ja": "選ばれた人々に囲まれて" }
+    ],
+    "related": [
+      { "en": "rare", "ja": "まれな・薄い" },
+      { "en": "thin", "ja": "（空気が）薄い" },
+      { "en": "elite", "ja": "えり抜きの" },
+      { "en": "exclusive", "ja": "限られた人だけの" }
+    ],
+    "faq": [
+      { "q": "rarefied とはどんな意味？", "a": "高地などで『空気が希薄な』という意味と、一般人には縁遠い『高尚で浮世離れした・選ばれた人だけの』という意味があります。a rarefied world（特別な世界）のように使います。" },
+      { "q": "rarefied と rare の違いは？", "a": "rare は『まれな・珍しい』、rarefied は『（空気が）希薄な・（世界が）高尚で浮世離れした』です。どちらもラテン語 rarus（薄い）に由来します。" }
+    ],
+    "quiz": [
+      { "q": "Climbers struggled in the ___ air.（希薄な）", "A": "rarefied", "B": "ratified の批准された", "C": "rectified の修正された", "D": "ramified の枝分かれした", "correct": "A" },
+      { "q": "a rarefied world の意味はどれ？", "A": "選ばれた人だけの特別な世界", "B": "貧しい人々の世界", "C": "ありふれた日常", "D": "危険な世界", "correct": "A" }
+    ]
+  },
+  {
+    "english": "roan",
+    "pron": "roʊn",
+    "kana": "ロウン",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古スペイン語 roano（葦毛の）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "動物・色"],
+    "meaning_main": "葦毛（あしげ）の馬／（形容詞）地色に白毛が混じった",
+    "description": "roan の意味・発音・例文・語源を解説。地色に白い毛が混じった「葦毛（あしげ）の馬」やその毛色を表す語の使い方を分かりやすく紹介します。",
+    "keywords": ["roan 意味", "roan 発音", "roan 葦毛", "roan 馬"],
+    "meanings": [
+      { "hinshi": "【形容詞】（馬などの）地色に白毛の混じった", "note": "栗色・黒などの地に白い毛が均等に混じった毛色。a roan horse（葦毛の馬）。" },
+      { "hinshi": "【名詞】葦毛の馬", "note": "そのような毛色をした馬そのもの。" }
+    ],
+    "usages": [
+      { "title": "① 形容詞「葦毛の」として", "desc": "白毛の混じった毛色を表します。", "example_en": "She rode a beautiful roan mare.", "example_ja": "彼女は美しい葦毛の雌馬に乗った。" },
+      { "title": "② 名詞「葦毛の馬」として", "desc": "その毛色の馬を指します。", "example_en": "The roan trotted across the field.", "example_ja": "その葦毛の馬は野原を駆けていった。" }
+    ],
+    "warn": [
+      "roan は『地色に白毛が均等に混じった毛色（葦毛）』。主に馬・牛に使う。",
+      "発音は『ロウン（roʊn）』。同音の Rhone（ローヌ川）とは別。"
+    ],
+    "etym_note": "古スペイン語 roano（葦毛の）に由来し、フランス語を経て英語に入りました。馬の毛色を表す語として古くから使われています。",
+    "etym_chain": [
+      { "node": "roano", "sub": "葦毛の", "era": "古スペイン語" },
+      { "node": "roan", "sub": "葦毛の", "era": "近代英語" },
+      { "node": "roan", "sub": "葦毛の馬", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a roan horse", "ja": "葦毛の馬" },
+      { "en": "a roan mare", "ja": "葦毛の雌馬" },
+      { "en": "a blue roan", "ja": "青葦毛（黒地に白毛）" },
+      { "en": "a red roan", "ja": "赤葦毛（栗地に白毛）" },
+      { "en": "a strawberry roan", "ja": "いちご葦毛" },
+      { "en": "a roan coat", "ja": "葦毛の毛並み" }
+    ],
+    "related": [
+      { "en": "mare", "ja": "雌馬" },
+      { "en": "stallion", "ja": "雄馬" },
+      { "en": "chestnut", "ja": "栗毛" },
+      { "en": "dappled", "ja": "まだらの" }
+    ],
+    "faq": [
+      { "q": "roan とはどんな意味？", "a": "栗色や黒などの地色に白い毛が均等に混じった毛色『葦毛（あしげ）』、またそのような毛色の馬のことです。a roan horse（葦毛の馬）のように使います。" },
+      { "q": "roan にはどんな種類がある？", "a": "黒地に白毛の blue roan（青葦毛）、栗地に白毛の red roan（赤葦毛）、明るい栗地の strawberry roan（いちご葦毛）などがあります。" }
+    ],
+    "quiz": [
+      { "q": "She rode a beautiful ___ mare.（葦毛の）", "A": "roan", "B": "roam のさまよう", "C": "roar のほえる", "D": "roast の焼く", "correct": "A" },
+      { "q": "roan が表すのはどれ？", "A": "地色に白毛の混じった毛色", "B": "真っ黒な毛色", "C": "縞模様の毛色", "D": "金色の毛色", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rotisserie",
+    "pron": "roʊˈtɪsəri",
+    "kana": "ロティサリー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 rôtisserie（焼き肉店）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "料理"],
+    "meaning_main": "回転式の焼き器（串を回しながら肉を焼く装置）／焼き肉を出す店",
+    "description": "rotisserie の意味・発音・例文・語源を解説。串を回しながら肉をあぶり焼く「回転式焼き器」や、それで焼いた料理・店を指す語の使い方を紹介します。",
+    "keywords": ["rotisserie 意味", "rotisserie 発音", "rotisserie chicken 意味", "rotisserie 焼き器"],
+    "meanings": [
+      { "hinshi": "【名詞】回転式の焼き器", "note": "串（スピット）に刺した肉を回転させながら均一にあぶり焼く装置。" },
+      { "hinshi": "【名詞】焼き肉（を出す店・コーナー）", "note": "rotisserie chicken（ロティサリーチキン）など、回転焼きした料理。" }
+    ],
+    "usages": [
+      { "title": "① 「回転式焼き器」として", "desc": "串を回しながら肉を焼く装置です。", "example_en": "The chicken was cooked on a rotisserie.", "example_ja": "その鶏肉は回転式焼き器で調理された。" },
+      { "title": "② 「回転焼きの料理」として", "desc": "それで焼いた料理を表します。", "example_en": "I bought a rotisserie chicken for dinner.", "example_ja": "私は夕食にロティサリーチキンを買った。" }
+    ],
+    "warn": [
+      "rotisserie は『串を回して肉をあぶり焼く回転式焼き器』。rotisserie chicken（回転焼きの丸鶏）が有名。",
+      "発音は『ロティサリー（roʊˈtɪsəri）』。つづりに注意。"
+    ],
+    "etym_note": "フランス語 rôtisserie（焼き肉店、rôtir「あぶり焼く」より）に由来します。rôtir は roast（焼く）と同じ語源で、「回しながら焼く」イメージにつながります。rotate（回転する）とも通じます。",
+    "etym_chain": [
+      { "node": "rôtir", "sub": "あぶり焼く", "era": "フランス語" },
+      { "node": "rôtisserie", "sub": "焼き肉店", "era": "フランス語" },
+      { "node": "rotisserie", "sub": "回転式焼き器", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rotisserie chicken", "ja": "ロティサリーチキン（回転焼きの丸鶏）" },
+      { "en": "cook on a rotisserie", "ja": "回転式焼き器で焼く" },
+      { "en": "a rotisserie oven", "ja": "回転焼きオーブン" },
+      { "en": "rotisserie-style", "ja": "回転焼き風の" },
+      { "en": "slow-roasted on a rotisserie", "ja": "回転式でじっくり焼いた" },
+      { "en": "a rotisserie spit", "ja": "回転焼きの串" }
+    ],
+    "related": [
+      { "en": "roast", "ja": "あぶり焼く" },
+      { "en": "spit", "ja": "（焼き肉用の）串" },
+      { "en": "grill", "ja": "焼き網・焼く" },
+      { "en": "barbecue", "ja": "バーベキュー" }
+    ],
+    "faq": [
+      { "q": "rotisserie とはどんな意味？", "a": "串（スピット）に刺した肉を回転させながら均一にあぶり焼く『回転式焼き器』のことです。それで焼いた rotisserie chicken（回転焼きの丸鶏）が有名です。" },
+      { "q": "rotisserie chicken とは？", "a": "回転式焼き器で串に刺してじっくり焼いた『丸鶏のあぶり焼き』のことです。スーパーの総菜などでよく売られています。" }
+    ],
+    "quiz": [
+      { "q": "I bought a ___ chicken for dinner.（回転焼きの）", "A": "rotisserie", "B": "rotary の回転の", "C": "rotunda の円形ホール", "D": "rosette の花形飾り", "correct": "A" },
+      { "q": "rotisserie のもとになった意味はどれ？", "A": "あぶり焼く", "B": "煮込む", "C": "蒸す", "D": "揚げる", "correct": "A" }
+    ]
+  },
+  {
+    "english": "roughneck",
+    "pron": "ˈrʌfnek",
+    "kana": "ラフネック",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rough（荒い）＋ neck（首）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "口語"],
+    "meaning_main": "荒くれ者・がさつな男／石油掘削現場の作業員",
+    "description": "roughneck の意味・発音・例文・語源を解説。粗暴な「荒くれ者」と、油田の掘削現場で働く「作業員」という二つの使い方を分かりやすく紹介します。",
+    "keywords": ["roughneck 意味", "roughneck 発音", "roughneck 荒くれ者", "roughneck 油田"],
+    "meanings": [
+      { "hinshi": "【名詞】荒くれ者・がさつで粗暴な男", "note": "礼儀知らずで乱暴な男をくだけて言う語。" },
+      { "hinshi": "【名詞】石油掘削現場の作業員", "note": "油田・掘削リグで働く労働者の通称。" }
+    ],
+    "usages": [
+      { "title": "① 「荒くれ者」として", "desc": "粗暴でがさつな男を表します。", "example_en": "He was a roughneck who loved a good fight.", "example_ja": "彼はけんか好きの荒くれ者だった。" },
+      { "title": "② 「掘削作業員」として", "desc": "油田で働く労働者を指します。", "example_en": "The roughnecks worked long shifts on the oil rig.", "example_ja": "掘削作業員たちは石油リグで長時間働いた。" }
+    ],
+    "warn": [
+      "roughneck は『荒くれ者』と『石油掘削作業員』の二つの意味。文脈で判断する。",
+      "石油業界では『掘削リグの労働者』を指す専門的な通称として使う。"
+    ],
+    "etym_note": "rough（荒い・粗暴な）＋ neck（首）の複合語で、「首筋まで荒くれた男」というイメージから「荒くれ者」を表します。アメリカで油田労働者の通称としても広まりました。",
+    "etym_chain": [
+      { "node": "rough + neck", "sub": "荒い＋首", "era": "近代英語" },
+      { "node": "roughneck", "sub": "荒くれ者", "era": "近代英語" },
+      { "node": "roughneck", "sub": "荒くれ者・掘削作業員", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a tough roughneck", "ja": "屈強な荒くれ者" },
+      { "en": "oil-rig roughnecks", "ja": "石油リグの作業員" },
+      { "en": "a gang of roughnecks", "ja": "荒くれ者の一団" },
+      { "en": "work as a roughneck", "ja": "掘削作業員として働く" },
+      { "en": "a young roughneck", "ja": "若い荒くれ者" },
+      { "en": "roughneck crew", "ja": "掘削作業班" }
+    ],
+    "related": [
+      { "en": "ruffian", "ja": "乱暴者" },
+      { "en": "brute", "ja": "粗暴な男" },
+      { "en": "laborer", "ja": "労働者" },
+      { "en": "rig", "ja": "掘削装置" }
+    ],
+    "faq": [
+      { "q": "roughneck とはどんな意味？", "a": "粗暴でがさつな『荒くれ者』を表すくだけた語です。また石油業界では、油田の掘削リグで働く『作業員』の通称としても使われます。" },
+      { "q": "roughneck と ruffian の違いは？", "a": "どちらも『荒くれ者』ですが、ruffian は古風で『暴力をふるうならず者』、roughneck はくだけた語で『がさつな男』や『掘削作業員』も指します。" }
+    ],
+    "quiz": [
+      { "q": "The ___s worked long shifts on the oil rig.（掘削作業員）", "A": "roughneck", "B": "redneck の田舎者", "C": "roughage の食物繊維", "D": "rucksack のリュック", "correct": "A" },
+      { "q": "roughneck の意味に含まれないのはどれ？", "A": "図書館員", "B": "荒くれ者", "C": "がさつな男", "D": "石油掘削作業員", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rosin",
+    "pron": "ˈrɒzɪn",
+    "kana": "ロジン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "resin（樹脂）の変化形",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "音楽・技術"],
+    "meaning_main": "松やに・ロジン（弦楽器の弓やすべり止めに塗る固形樹脂）",
+    "description": "rosin の意味・発音・例文・語源を解説。バイオリンの弓や運動選手の手に塗る固形の樹脂「松やに・ロジン」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["rosin 意味", "rosin 発音", "rosin 松やに", "rosin ロジン"],
+    "meanings": [
+      { "hinshi": "【名詞】松やに・ロジン", "note": "松などの樹脂を精製した固形物。弦楽器の弓に塗って弦をよくこすれるようにする。" },
+      { "hinshi": "【名詞】（すべり止めの）ロジン", "note": "野球の投手や体操選手が手のすべり止めに使う粉。" }
+    ],
+    "usages": [
+      { "title": "① 弦楽器について", "desc": "弓に塗って弦をこすれやすくします。", "example_en": "She rubbed rosin on her violin bow.", "example_ja": "彼女はバイオリンの弓に松やにを塗った。" },
+      { "title": "② すべり止めについて", "desc": "手のすべりを防ぐのに使います。", "example_en": "The pitcher used a rosin bag to dry his hands.", "example_ja": "投手は手を乾かすためロジンバッグを使った。" }
+    ],
+    "warn": [
+      "rosin は固形・粉末の『松やに（精製樹脂）』。液状や一般の『樹脂』は resin。",
+      "発音は『ロジン（ˈrɒzɪn）』。野球の rosin bag（ロジンバッグ）でもおなじみ。"
+    ],
+    "etym_note": "resin（樹脂）の異形・変化形で、もとは同じラテン語 resina（樹脂）に由来します。特に松などから採れる固形の精製樹脂を指すようになりました。",
+    "etym_chain": [
+      { "node": "resina", "sub": "樹脂", "era": "ラテン語" },
+      { "node": "resin / rosin", "sub": "樹脂", "era": "中英語" },
+      { "node": "rosin", "sub": "松やに・ロジン", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "violin rosin", "ja": "バイオリン用松やに" },
+      { "en": "rub rosin on the bow", "ja": "弓に松やにを塗る" },
+      { "en": "a rosin bag", "ja": "ロジンバッグ（すべり止め袋）" },
+      { "en": "a cake of rosin", "ja": "固形の松やに" },
+      { "en": "apply rosin", "ja": "松やにを塗る" },
+      { "en": "powdered rosin", "ja": "粉末ロジン" }
+    ],
+    "related": [
+      { "en": "resin", "ja": "樹脂" },
+      { "en": "pitch", "ja": "（樹脂の）ピッチ・やに" },
+      { "en": "bow", "ja": "（弦楽器の）弓" },
+      { "en": "chalk", "ja": "チョーク・すべり止め" }
+    ],
+    "faq": [
+      { "q": "rosin とはどんな意味？", "a": "松などの樹脂を精製した固形物『松やに・ロジン』のことです。弦楽器の弓に塗って弦をこすれやすくしたり、運動選手が手のすべり止めに使ったりします。" },
+      { "q": "rosin と resin の違いは？", "a": "どちらも語源は同じ『樹脂』ですが、resin は樹脂全般（液状も含む）、rosin は特に松などから採れる固形の精製樹脂を指します。" }
+    ],
+    "quiz": [
+      { "q": "She rubbed ___ on her violin bow.（松やに）", "A": "rosin", "B": "raisin の干しぶどう", "C": "ration の配給", "D": "reason の理由", "correct": "A" },
+      { "q": "rosin と語源を同じくするのはどれ？", "A": "resin（樹脂）", "B": "raisin（干しぶどう）", "C": "reason（理由）", "D": "region（地域）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reread",
+    "pron": "riːˈriːd",
+    "kana": "リリード",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ read（読む）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "基本単語"],
+    "meaning_main": "読み返す・もう一度読む",
+    "description": "reread の意味・発音・例文・語源を解説。本や文章を「読み返す・もう一度読む」という日常的な語の使い方と発音・活用を分かりやすく紹介します。",
+    "keywords": ["reread 意味", "reread 発音", "reread 読み返す", "reread 過去形"],
+    "meanings": [
+      { "hinshi": "【動詞】読み返す・もう一度読む", "note": "同じ文章を再び読む。活用は reread-reread-reread（つづりは同じ、過去は発音が『リレッド』）。" }
+    ],
+    "usages": [
+      { "title": "① 確認のために読み返す", "desc": "内容を確かめようと再び読む意味です。", "example_en": "I reread the email before sending it.", "example_ja": "送る前にそのメールを読み返した。" },
+      { "title": "② 好きで読み返す", "desc": "気に入った本を再び読む意味です。", "example_en": "She rereads her favorite novel every year.", "example_ja": "彼女は毎年お気に入りの小説を読み返す。" }
+    ],
+    "warn": [
+      "reread は活用してもつづりは reread のまま。過去形・過去分詞の発音は『リレッド（riːˈred）』になる。",
+      "現在形『リリード（riːˈriːd）』と過去形『リレッド』で発音が変わる点に注意。"
+    ],
+    "etym_note": "re-（再び）＋ read（読む）から成る分かりやすい語です。read は古英語 rǣdan（助言する・読む）に由来します。",
+    "etym_chain": [
+      { "node": "rǣdan", "sub": "助言する・読む", "era": "古英語" },
+      { "node": "read", "sub": "読む", "era": "中英語" },
+      { "node": "reread", "sub": "読み返す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reread the email", "ja": "メールを読み返す" },
+      { "en": "reread the chapter", "ja": "その章を読み返す" },
+      { "en": "reread a favorite book", "ja": "お気に入りの本を読み返す" },
+      { "en": "reread it carefully", "ja": "注意深く読み返す" },
+      { "en": "worth rereading", "ja": "読み返す価値がある" },
+      { "en": "reread the instructions", "ja": "説明を読み直す" }
+    ],
+    "related": [
+      { "en": "read", "ja": "読む" },
+      { "en": "review", "ja": "見直す" },
+      { "en": "revisit", "ja": "再び見る・読み返す" },
+      { "en": "skim", "ja": "ざっと読む" }
+    ],
+    "faq": [
+      { "q": "reread の過去形は？", "a": "read と同じで reread-reread-reread です。つづりは変わりませんが、過去形・過去分詞の発音は『リレッド（riːˈred）』になります。" },
+      { "q": "reread はどんなときに使う？", "a": "内容を確認するために『読み返す』、または好きな本を『もう一度読む』ときに使います。I reread the email.（メールを読み返した）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "I ___ the email before sending it.（読み返した）", "A": "reread", "B": "rereaded", "C": "rereading", "D": "rereads", "correct": "A" },
+      { "q": "reread の過去形の発音はどれ？", "A": "リレッド（riːˈred）", "B": "リリード（riːˈriːd）", "C": "リレイド", "D": "リーディッド", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reunify",
+    "pron": "riːˈjuːnɪfaɪ",
+    "kana": "リユニファイ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ unify（統一する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "歴史・政治"],
+    "meaning_main": "（分裂した国・組織を）再統一する・再びひとつにする",
+    "description": "reunify の意味・発音・例文・語源を解説。分裂していた国や組織を「再統一する・再びひとつにする」という歴史・政治で使う語の使い方を紹介します。",
+    "keywords": ["reunify 意味", "reunify 発音", "reunify 再統一", "reunification 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（分裂した国・組織を）再統一する", "note": "分かれていたものを再びひとつにまとめる。reunify the country（国を再統一する）。名詞は reunification。" }
+    ],
+    "usages": [
+      { "title": "① 国の再統一として", "desc": "分かれた国を再びひとつにする意味です。", "example_en": "Germany was reunified in 1990.", "example_ja": "ドイツは1990年に再統一された。" },
+      { "title": "② 組織・グループについて", "desc": "分裂した集団を再びまとめる意味です。", "example_en": "Efforts were made to reunify the divided party.", "example_ja": "分裂した政党を再びまとめる努力がなされた。" }
+    ],
+    "warn": [
+      "reunify は『分裂したものを再統一する』。歴史ではドイツ統一（German reunification）が代表例。",
+      "名詞形は reunification（再統一）。reunite（再会させる）より『国家・組織の統合』に使う。"
+    ],
+    "etym_note": "re-（再び）＋ unify（unus「一つ」＋ -fy「〜にする」＝統一する）から成り、「再びひとつにする」が原義です。union（連合）や unite（結合する）と同じ語根です。",
+    "etym_chain": [
+      { "node": "unus", "sub": "一つ", "era": "ラテン語" },
+      { "node": "unify", "sub": "統一する", "era": "近代英語" },
+      { "node": "reunify", "sub": "再統一する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reunify the country", "ja": "国を再統一する" },
+      { "en": "reunify Germany", "ja": "ドイツを再統一する" },
+      { "en": "reunify the divided nation", "ja": "分裂した国を再統一する" },
+      { "en": "reunify the party", "ja": "政党を再びまとめる" },
+      { "en": "efforts to reunify", "ja": "再統一への取り組み" },
+      { "en": "be reunified", "ja": "再統一される" }
+    ],
+    "related": [
+      { "en": "unify", "ja": "統一する" },
+      { "en": "reunification", "ja": "再統一" },
+      { "en": "reunite", "ja": "再会させる・再結合する" },
+      { "en": "merge", "ja": "合併する" }
+    ],
+    "faq": [
+      { "q": "reunify とはどんな意味？", "a": "分裂していた国や組織を『再統一する・再びひとつにする』という動詞です。Germany was reunified in 1990.（ドイツは1990年に再統一された）のように使います。" },
+      { "q": "reunify と reunite の違いは？", "a": "reunify は『国家・組織を制度的に再統合する』、reunite は『（離れていた人や物を）再び一緒にする・再会させる』ことに重点があります。" }
+    ],
+    "quiz": [
+      { "q": "Germany was ___ in 1990.（再統一された）", "A": "reunified", "B": "reused の再利用された", "C": "renewed の更新された", "D": "removed の取り除かれた", "correct": "A" },
+      { "q": "reunify の名詞形はどれ？", "A": "reunification（再統一）", "B": "reunion（再会）", "C": "reunding", "D": "reuse（再利用）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recheck",
+    "pron": "riːˈtʃek",
+    "kana": "リチェック",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ check（確認する）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "基本単語"],
+    "meaning_main": "再確認する・もう一度調べ直す",
+    "description": "recheck の意味・発音・例文・語源を解説。間違いがないか「再確認する・もう一度調べ直す」という日常・実務で役立つ語の使い方を紹介します。",
+    "keywords": ["recheck 意味", "recheck 発音", "recheck 再確認", "recheck 調べ直す"],
+    "meanings": [
+      { "hinshi": "【動詞】再確認する・もう一度調べ直す", "note": "間違いや見落としがないか改めて確かめる。recheck the figures（数字を確認し直す）。" }
+    ],
+    "usages": [
+      { "title": "① 「再確認する」として", "desc": "間違いがないか改めて確かめる意味です。", "example_en": "Please recheck your answers before submitting.", "example_ja": "提出する前に答えを再確認してください。" },
+      { "title": "② 「調べ直す」として", "desc": "数値や状態をもう一度調べる意味です。", "example_en": "The mechanic rechecked the brakes.", "example_ja": "整備士はブレーキをもう一度点検した。" }
+    ],
+    "warn": [
+      "recheck は『（間違いがないか）もう一度確認する』。double-check（念のため確認する）と近い。",
+      "活用は規則変化 recheck-rechecked-rechecked。"
+    ],
+    "etym_note": "re-（再び）＋ check（確認する・点検する）から成る分かりやすい語です。check は古フランス語 eschec（チェスの王手）に由来し、「止めて確かめる」の意味に発展しました。",
+    "etym_chain": [
+      { "node": "eschec", "sub": "王手・阻止", "era": "古フランス語" },
+      { "node": "check", "sub": "確認する・止める", "era": "中英語" },
+      { "node": "recheck", "sub": "再確認する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "recheck the answers", "ja": "答えを再確認する" },
+      { "en": "recheck the figures", "ja": "数字を確認し直す" },
+      { "en": "recheck the details", "ja": "詳細を確認し直す" },
+      { "en": "recheck for errors", "ja": "誤りがないか確認し直す" },
+      { "en": "carefully recheck", "ja": "念入りに再確認する" },
+      { "en": "recheck the results", "ja": "結果を調べ直す" }
+    ],
+    "related": [
+      { "en": "check", "ja": "確認する" },
+      { "en": "double-check", "ja": "念のため確認する" },
+      { "en": "verify", "ja": "検証する" },
+      { "en": "review", "ja": "見直す" }
+    ],
+    "faq": [
+      { "q": "recheck とはどんな意味？", "a": "間違いや見落としがないか『再確認する・もう一度調べ直す』という動詞です。Please recheck your answers.（答えを再確認してください）のように使います。" },
+      { "q": "recheck と double-check の違いは？", "a": "意味はほぼ同じです。recheck は『もう一度確認する』、double-check は『（念のため）二重に確認する』というニュアンスです。" }
+    ],
+    "quiz": [
+      { "q": "Please ___ your answers before submitting.（再確認する）", "A": "recheck", "B": "recall の思い出す", "C": "reject の拒否する", "D": "remove の取り除く", "correct": "A" },
+      { "q": "recheck に近い意味はどれ？", "A": "double-check（念のため確認する）", "B": "ignore（無視する）", "C": "forget（忘れる）", "D": "guess（推測する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ramekin",
+    "pron": "ˈræmɪkɪn",
+    "kana": "ラメキン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 ramequin（チーズ料理）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "料理・道具"],
+    "meaning_main": "ラメキン（オーブン用の小さな耐熱皿・ココット皿）",
+    "description": "ramekin の意味・発音・例文・語源を解説。スフレやプリンなどを焼く一人前用の小さな耐熱皿「ラメキン（ココット皿）」を指す語の使い方を紹介します。",
+    "keywords": ["ramekin 意味", "ramekin 発音", "ramekin 皿", "ramekin ココット"],
+    "meanings": [
+      { "hinshi": "【名詞】ラメキン（小さな耐熱皿）", "note": "一人前の料理を焼く・盛る陶製などの小皿。スフレ・プリン・ディップ用。ココット皿とも。" }
+    ],
+    "usages": [
+      { "title": "① 焼き料理の器として", "desc": "スフレやプリンを焼く小皿です。", "example_en": "Pour the custard into small ramekins.", "example_ja": "カスタードを小さなラメキンに注ぎ入れる。" },
+      { "title": "② 取り分け・ディップ用に", "desc": "ソースやディップを入れる小皿としても使います。", "example_en": "She served the sauce in a ramekin.", "example_ja": "彼女はソースをラメキンに入れて出した。" }
+    ],
+    "warn": [
+      "ramekin は『一人前用の小さな耐熱皿（ココット皿）』。スフレやプリンを焼くのに使う。",
+      "発音は『ラメキン（ˈræmɪkɪn）』。料理本でよく出てくる道具名。"
+    ],
+    "etym_note": "フランス語 ramequin（小さなチーズ料理・その器）に由来し、もとはオランダ・ドイツ系の語からきたとされます。一人前の料理を焼く小皿を指すようになりました。",
+    "etym_chain": [
+      { "node": "rammeken", "sub": "焼きチーズ料理", "era": "オランダ語(古)" },
+      { "node": "ramequin", "sub": "チーズ料理・小皿", "era": "フランス語" },
+      { "node": "ramekin", "sub": "ラメキン（小耐熱皿）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "individual ramekins", "ja": "一人前用のラメキン" },
+      { "en": "pour into ramekins", "ja": "ラメキンに注ぐ" },
+      { "en": "a small ramekin", "ja": "小さなラメキン" },
+      { "en": "bake in ramekins", "ja": "ラメキンで焼く" },
+      { "en": "a ramekin of sauce", "ja": "ソース入りのラメキン" },
+      { "en": "ceramic ramekins", "ja": "陶製のラメキン" }
+    ],
+    "related": [
+      { "en": "souffle", "ja": "スフレ" },
+      { "en": "custard", "ja": "カスタード" },
+      { "en": "dish", "ja": "皿・料理" },
+      { "en": "bowl", "ja": "ボウル・鉢" }
+    ],
+    "faq": [
+      { "q": "ramekin とはどんな意味？", "a": "スフレやプリンなど一人前の料理を焼く、または盛る『小さな耐熱皿（ココット皿）』のことです。ディップやソースを入れる器としても使われます。" },
+      { "q": "ramekin の発音は？", "a": "『ラメキン（ˈræmɪkɪn）』です。フランス語由来の料理道具名で、レシピによく登場します。" }
+    ],
+    "quiz": [
+      { "q": "Pour the custard into small ___s.（ラメキン）", "A": "ramekin", "B": "rampart の城壁", "C": "ramble のぶらつき", "D": "racket のラケット", "correct": "A" },
+      { "q": "ramekin の用途として正しいのはどれ？", "A": "一人前の料理を焼く小皿", "B": "大きな鍋", "C": "包丁", "D": "まな板", "correct": "A" }
+    ]
+  }
+]
