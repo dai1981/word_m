@@ -1,0 +1,528 @@
+[
+  {
+    "english": "rapprochement",
+    "pron": "ˌræprɔːʃˈmɑːn",
+    "kana": "ラプロシュマン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 rapprochement（再接近）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "社会"],
+    "meaning_main": "（国家・関係の）和解・関係改善・再接近",
+    "description": "rapprochement の意味・発音・例文・語源を解説。対立していた国や人どうしの「和解・関係改善・再接近」という外交語の使い方を紹介します。",
+    "keywords": ["rapprochement 意味", "rapprochement 発音", "rapprochement 和解", "rapprochement 外交"],
+    "meanings": [
+      { "hinshi": "【名詞】（国家・関係の）和解・関係改善・再接近", "note": "対立していた両者が再び親しくなること。外交でよく使う。" }
+    ],
+    "usages": [
+      { "title": "① 「和解・関係改善」として", "desc": "対立国どうしの関係改善を表します。", "example_en": "There are signs of rapprochement between the two countries.", "example_ja": "両国間に関係改善の兆しがある。" },
+      { "title": "② 再接近として", "desc": "疎遠だった両者が再び近づく意味です。", "example_en": "The talks led to a rapprochement.", "example_ja": "その会談は和解につながった。" }
+    ],
+    "warn": [
+      "発音は /ˌræprɔːʃˈmɑːn/「ラプロシュマン」でフランス語風。語尾の t は読まない。",
+      "approach（近づく）と語源的につながる（rap-proche-ment＝近づくこと）。"
+    ],
+    "etym_note": "フランス語 rapprochement（rapprocher「再び近づける」から＝再接近）に由来します。approach（近づく）と同じ proche/proximus（近い）の語根です。",
+    "etym_chain": [
+      { "node": "proche", "sub": "近い", "era": "フランス語" },
+      { "node": "rapprocher", "sub": "再び近づける", "era": "フランス語" },
+      { "node": "rapprochement", "sub": "和解・再接近", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "signs of rapprochement", "ja": "関係改善の兆し" },
+      { "en": "a rapprochement between", "ja": "〜の間の和解" },
+      { "en": "seek rapprochement", "ja": "和解を求める" },
+      { "en": "lead to rapprochement", "ja": "和解につながる" },
+      { "en": "a diplomatic rapprochement", "ja": "外交的和解" },
+      { "en": "a gradual rapprochement", "ja": "徐々の関係改善" }
+    ],
+    "related": [
+      { "en": "reconciliation", "ja": "和解" },
+      { "en": "détente", "ja": "緊張緩和" },
+      { "en": "thaw", "ja": "（関係の）雪解け" },
+      { "en": "estrangement", "ja": "疎遠（反対概念）" }
+    ],
+    "faq": [
+      { "q": "rapprochement とはどんな意味？", "a": "対立・疎遠だった国や人どうしの『和解・関係改善・再接近』のことです。とくに外交で使われます。" },
+      { "q": "rapprochement の発音は？", "a": "/ˌræprɔːʃˈmɑːn/「ラプロシュマン」です。フランス語由来で、語尾の t は発音しません。" }
+    ],
+    "quiz": [
+      { "q": "There are signs of ___ between the two countries.（関係改善）", "A": "rapprochement", "B": "reconnaissance の偵察", "C": "rendezvous", "D": "repertoire", "correct": "A" },
+      { "q": "rapprochement と意味が近いのはどれ？", "A": "reconciliation（和解）", "B": "war（戦争）", "C": "conflict（対立）", "D": "rivalry（競争）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "renegade",
+    "pron": "ˈrenɪɡeɪd",
+    "kana": "レネゲイド",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞・形容詞",
+    "ld_etym": "スペイン語 renegado（背教者）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "名詞"],
+    "meaning_main": "裏切り者・離反者／反逆した・無法な",
+    "description": "renegade の意味・発音・例文・語源を解説。所属を裏切って離反した「裏切り者・反逆者」の使い方や、renege との語源的関係も紹介します。",
+    "keywords": ["renegade 意味", "renegade 発音", "renegade 裏切り者", "renege 関係"],
+    "meanings": [
+      { "hinshi": "【名詞】裏切り者・離反者・背教者", "note": "所属・信念を捨てて寝返った人。a renegade soldier（離反した兵士）。" },
+      { "hinshi": "【形容詞】反逆した・無法な・はぐれた", "note": "組織を離れて勝手に動く。a renegade state（無法国家）。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「裏切り者・離反者」として", "desc": "所属を裏切って寝返った人を表します。", "example_en": "He was branded a renegade by his former allies.", "example_ja": "彼はかつての仲間に裏切り者の烙印を押された。" },
+      { "title": "② 形容詞「反逆した・無法な」として", "desc": "組織を離れて勝手に動く様子を表します。", "example_en": "A group of renegade soldiers seized the base.", "example_ja": "離反した兵士の一団が基地を占拠した。" }
+    ],
+    "warn": [
+      "renegade は『（所属・信念を捨てた）裏切り者・離反者』。rogue（無法な）と近い。",
+      "renege（約束を破る、既出）と同じ neg-（否定）の語源。"
+    ],
+    "etym_note": "スペイン語 renegado（背教者。renegar「（信仰を）否認する」から）に由来します。renege・deny と同じ neg-（否定）の語根で、「（信仰・所属を）否認して離反した者」が原義です。",
+    "etym_chain": [
+      { "node": "renegare", "sub": "否認する", "era": "ラテン語" },
+      { "node": "renegado", "sub": "背教者", "era": "スペイン語" },
+      { "node": "renegade", "sub": "裏切り者・離反者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a renegade soldier", "ja": "離反した兵士" },
+      { "en": "branded a renegade", "ja": "裏切り者の烙印を押された" },
+      { "en": "a renegade state", "ja": "無法国家" },
+      { "en": "renegade forces", "ja": "離反した勢力" },
+      { "en": "a renegade priest", "ja": "背教した聖職者" },
+      { "en": "go renegade", "ja": "離反する" }
+    ],
+    "related": [
+      { "en": "traitor", "ja": "裏切り者" },
+      { "en": "rebel", "ja": "反逆者" },
+      { "en": "rogue", "ja": "無法な・悪党" },
+      { "en": "loyalist", "ja": "忠実な人（反対概念）" }
+    ],
+    "faq": [
+      { "q": "renegade とはどんな意味？", "a": "『（所属・信念を捨てて寝返った）裏切り者・離反者』、また形容詞で『反逆した・無法な』という意味です。" },
+      { "q": "renegade と renege は関係ある？", "a": "はい。どちらも『否認する（neg）』が語源です。renege は『約束を破る』、renegade は『（信念を否認して）離反した者』です。" }
+    ],
+    "quiz": [
+      { "q": "He was branded a ___ by his former allies.（裏切り者）", "A": "renegade", "B": "renewable の再生可能な", "C": "reminder", "D": "remainder", "correct": "A" },
+      { "q": "renegade と意味が近いのはどれ？", "A": "traitor（裏切り者）", "B": "loyalist（忠実な人）", "C": "leader（指導者）", "D": "hero（英雄）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reprise",
+    "pron": "rɪˈpriːz",
+    "kana": "リプリーズ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "フランス語 reprise（取り戻し・再演）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "芸術"],
+    "meaning_main": "（音楽の）反復・再現部／（役・演奏を）再び演じる・繰り返す",
+    "description": "reprise の意味・発音・例文・語源を解説。曲の「反復部」や、ある役・演奏を「再び演じる・繰り返す」という芸術語の使い方を紹介します。",
+    "keywords": ["reprise 意味", "reprise 発音", "reprise a role 意味", "reprise 再演"],
+    "meanings": [
+      { "hinshi": "【名詞】（音楽の）反復・再現部・リプライズ", "note": "曲で前の主題を繰り返す部分。" },
+      { "hinshi": "【動詞】（役・演奏・成功を）再び演じる・繰り返す", "note": "reprise a role（同じ役を再び演じる）。" }
+    ],
+    "usages": [
+      { "title": "① 「（役を）再び演じる」として", "desc": "以前の役を再演する意味です。", "example_en": "She reprised her role in the sequel.", "example_ja": "彼女は続編で同じ役を再び演じた。" },
+      { "title": "② 名詞「反復・再現部」として", "desc": "曲の繰り返し部分を表します。", "example_en": "The song ends with a reprise of the chorus.", "example_ja": "その曲はサビの反復で終わる。" }
+    ],
+    "warn": [
+      "発音は /rɪˈpriːz/「リプリーズ」。reprise a role（役を再演する）が頻出。",
+      "reprieve（執行延期、既出）とつづり・発音が似ているが別語。"
+    ],
+    "etym_note": "フランス語 reprise（reprendre「取り戻す・再び取り上げる」の過去分詞＝再演・取り戻し）に由来します。「再び取り上げて演じる・繰り返す」が原義です。",
+    "etym_chain": [
+      { "node": "reprendre", "sub": "再び取り上げる", "era": "フランス語" },
+      { "node": "reprise", "sub": "再演・反復", "era": "近代英語" },
+      { "node": "reprise", "sub": "反復・再び演じる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reprise a role", "ja": "同じ役を再び演じる" },
+      { "en": "reprise the part", "ja": "その役を再演する" },
+      { "en": "a reprise of", "ja": "〜の反復・再現" },
+      { "en": "reprise a hit", "ja": "ヒットを再現する" },
+      { "en": "a brief reprise", "ja": "短い反復部" },
+      { "en": "reprise their success", "ja": "成功を再び収める" }
+    ],
+    "related": [
+      { "en": "repeat", "ja": "繰り返す" },
+      { "en": "reproduce", "ja": "再現する" },
+      { "en": "revive", "ja": "復活させる" },
+      { "en": "encore", "ja": "アンコール" }
+    ],
+    "faq": [
+      { "q": "reprise a role とは？", "a": "『（以前演じた）役を再び演じる・再演する』という意味です。映画の続編などでよく使われます。" },
+      { "q": "reprise と reprieve の違いは？", "a": "reprise は『反復・再演する』、reprieve は『（刑の）執行延期・一時的救済』です。つづり・発音が似ているので注意しましょう。" }
+    ],
+    "quiz": [
+      { "q": "She ___ her role in the sequel.（再び演じた）", "A": "reprised", "B": "reprieved の執行延期した", "C": "reduced", "D": "removed", "correct": "A" },
+      { "q": "「同じ役を再び演じる」を表すのはどれ？", "A": "reprise a role", "B": "reprieve a role", "C": "reprimand a role", "D": "reproduce a role の語感違い", "correct": "A" }
+    ]
+  },
+  {
+    "english": "requite",
+    "pron": "rɪˈkwaɪt",
+    "kana": "リクワイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ quite（古語 quit＝報いる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "感情"],
+    "meaning_main": "（愛・好意・行為に）報いる・応える・お返しする",
+    "description": "requite の意味・発音・例文・語源を解説。受けた愛や好意に「報いる・同じように応える」という文語的な語の使い方を紹介します。",
+    "keywords": ["requite 意味", "requite 発音", "unrequited love 意味", "requite 報いる"],
+    "meanings": [
+      { "hinshi": "【動詞】（愛・好意・行為に）報いる・応える・お返しする", "note": "受けたものに同じように返す。requite love（愛に応える）。" }
+    ],
+    "usages": [
+      { "title": "① 「愛・好意に報いる」として", "desc": "受けた気持ちに応える意味です（文語的）。", "example_en": "She did not requite his love.", "example_ja": "彼女は彼の愛に応えなかった。" },
+      { "title": "② unrequited として", "desc": "「報われない（片思いの）」を表します。", "example_en": "He suffered from unrequited love.", "example_ja": "彼は報われぬ片思いに苦しんだ。" }
+    ],
+    "warn": [
+      "unrequited love（報われぬ愛・片思い）が最も頻出。requite は文語的・やや古風な語。",
+      "quit（解放する・やめる）と同じ語源（報いて解放する）。"
+    ],
+    "etym_note": "re-（再び）＋ 古語 quite（quit「報いる・解放する」。ラテン語 quietus「静かな・免除された」から）に由来します。「（受けたものに）報いて返す」が原義です。quit と同じ語源です。",
+    "etym_chain": [
+      { "node": "quietus", "sub": "免除された・静かな", "era": "ラテン語" },
+      { "node": "quite/quit", "sub": "報いる・解放する", "era": "中英語" },
+      { "node": "requite", "sub": "報いる・応える", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "requite love", "ja": "愛に応える" },
+      { "en": "unrequited love", "ja": "報われぬ愛・片思い" },
+      { "en": "requite kindness", "ja": "親切に報いる" },
+      { "en": "requite a favor", "ja": "好意にお返しする" },
+      { "en": "fail to requite", "ja": "応えない" },
+      { "en": "requite in kind", "ja": "同じように報いる" }
+    ],
+    "related": [
+      { "en": "reciprocate", "ja": "お返しをする" },
+      { "en": "repay", "ja": "報いる" },
+      { "en": "return", "ja": "返す" },
+      { "en": "reward", "ja": "報いる" }
+    ],
+    "faq": [
+      { "q": "unrequited love とは？", "a": "『報われぬ愛・片思い』という意味です。requite（報いる）の否定形 unrequited を使った頻出表現です。" },
+      { "q": "requite と reciprocate の違いは？", "a": "意味は近く『お返しをする』ですが、requite は文語的で、とくに『愛・好意に応える』ときに使います。" }
+    ],
+    "quiz": [
+      { "q": "He suffered from un___ love.（報われぬ）", "A": "requited", "B": "required の必要とされた", "C": "requested", "D": "rewarded", "correct": "A" },
+      { "q": "requite と意味が近いのはどれ？", "A": "reciprocate（お返しをする）", "B": "reject（拒絶する）", "C": "ignore（無視する）", "D": "refuse（断る）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "resonant",
+    "pron": "ˈrezənənt",
+    "kana": "レゾナント",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 resonare（鳴り響く）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "形容詞"],
+    "meaning_main": "よく響く・朗々とした／（心に）深く訴える",
+    "description": "resonant の意味・発音・例文・語源を解説。声や音が「よく響く・朗々とした」様子や、考えが「深く心に訴える」使い方を紹介します。",
+    "keywords": ["resonant 意味", "resonant 発音", "resonate 関係", "resonant 響く"],
+    "meanings": [
+      { "hinshi": "【形容詞】よく響く・朗々とした", "note": "深く豊かに響く。a resonant voice（朗々とした声）。" },
+      { "hinshi": "【形容詞】（心に）深く訴える・共鳴を呼ぶ", "note": "resonant with meaning（意味深い）。" }
+    ],
+    "usages": [
+      { "title": "① 「よく響く・朗々とした」として", "desc": "深く豊かに響く声・音を表します。", "example_en": "He spoke in a deep, resonant voice.", "example_ja": "彼は低く朗々とした声で話した。" },
+      { "title": "② 「深く訴える」として", "desc": "心に響く意味の豊かさを表します。", "example_en": "The poem is resonant with emotion.", "example_ja": "その詩は感情に深く訴える。" }
+    ],
+    "warn": [
+      "resonant は動詞 resonate（鳴り響く・共鳴する、既出）の形容詞。名詞は resonance（共鳴）。",
+      "resonant with＋名詞は『〜に満ちて深く響く』。"
+    ],
+    "etym_note": "ラテン語 resonare（re-「再び」＋ sonare「鳴る」＝鳴り響く）の現在分詞 resonans に由来します。sound・resonate と同じ son-（音）の語根です。",
+    "etym_chain": [
+      { "node": "resonare", "sub": "鳴り響く", "era": "ラテン語" },
+      { "node": "resonant", "sub": "よく響く", "era": "近代英語" },
+      { "node": "resonant", "sub": "よく響く・深く訴える", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a resonant voice", "ja": "朗々とした声" },
+      { "en": "a deep resonant tone", "ja": "深く響く音色" },
+      { "en": "resonant with", "ja": "〜に満ちて深く響く" },
+      { "en": "a resonant theme", "ja": "心に響くテーマ" },
+      { "en": "richly resonant", "ja": "豊かに響く" },
+      { "en": "resonance", "ja": "共鳴・反響" }
+    ],
+    "related": [
+      { "en": "resonate", "ja": "鳴り響く・共鳴する" },
+      { "en": "resounding", "ja": "鳴り響く" },
+      { "en": "rich", "ja": "豊かな" },
+      { "en": "flat", "ja": "平板な（反対概念）" }
+    ],
+    "faq": [
+      { "q": "resonant とはどんな意味？", "a": "声や音が『よく響く・朗々とした』、また考えが『（心に）深く訴える・共鳴を呼ぶ』という意味です。" },
+      { "q": "resonant の動詞・名詞形は？", "a": "動詞は resonate（鳴り響く・共鳴する）、名詞は resonance（共鳴・反響）です。" }
+    ],
+    "quiz": [
+      { "q": "He spoke in a deep, ___ voice.（朗々とした）", "A": "resonant", "B": "reluctant の気が進まない", "C": "resilient", "D": "resolute", "correct": "A" },
+      { "q": "resonant の名詞形はどれ？", "A": "resonance", "B": "resonment", "C": "resonity", "D": "resonation", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reverent",
+    "pron": "ˈrevərənt",
+    "kana": "レバレント",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 revereri（畏敬する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "形容詞"],
+    "meaning_main": "うやうやしい・畏敬の念に満ちた・敬虔な",
+    "description": "reverent の意味・発音・例文・語源を解説。深い尊敬・畏敬を込めた「うやうやしい・敬虔な」態度の使い方や、revere との関係も紹介します。",
+    "keywords": ["reverent 意味", "reverent 発音", "revere 関係", "reverent 敬虔"],
+    "meanings": [
+      { "hinshi": "【形容詞】うやうやしい・畏敬の念に満ちた・敬虔な", "note": "深い尊敬を込めた態度。a reverent silence（うやうやしい沈黙）。" }
+    ],
+    "usages": [
+      { "title": "① 「うやうやしい・敬虔な」として", "desc": "畏敬の念を込めた態度を表します。", "example_en": "The crowd fell into a reverent silence.", "example_ja": "群衆はうやうやしい沈黙に包まれた。" },
+      { "title": "② 尊敬を込めて", "desc": "深い尊敬の念を表します。", "example_en": "He spoke of his teacher in reverent tones.", "example_ja": "彼は畏敬の念を込めて恩師について語った。" }
+    ],
+    "warn": [
+      "reverent は動詞 revere（深く敬う、既出）の形容詞。名詞は reverence（畏敬）。",
+      "反対は irreverent（不敬な・ふざけた）。Reverend は『（聖職者の敬称）〜師』で別語。"
+    ],
+    "etym_note": "ラテン語 revereri（畏敬する）の現在分詞 reverens に由来します。revere・reverence と同じ ver-（畏れる・敬う）の語根です。",
+    "etym_chain": [
+      { "node": "revereri", "sub": "畏敬する", "era": "ラテン語" },
+      { "node": "reverent", "sub": "うやうやしい", "era": "中英語" },
+      { "node": "reverent", "sub": "畏敬の念に満ちた・敬虔な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a reverent silence", "ja": "うやうやしい沈黙" },
+      { "en": "in reverent tones", "ja": "畏敬の念を込めて" },
+      { "en": "a reverent attitude", "ja": "敬虔な態度" },
+      { "en": "reverent and respectful", "ja": "うやうやしく礼儀正しい" },
+      { "en": "with reverent care", "ja": "うやうやしく丁寧に" },
+      { "en": "reverence", "ja": "畏敬・崇敬" }
+    ],
+    "related": [
+      { "en": "revere", "ja": "深く敬う" },
+      { "en": "reverence", "ja": "畏敬（名詞）" },
+      { "en": "respectful", "ja": "礼儀正しい" },
+      { "en": "irreverent", "ja": "不敬な（反対語）" }
+    ],
+    "faq": [
+      { "q": "reverent とはどんな意味？", "a": "『（深い尊敬・畏敬を込めて）うやうやしい・敬虔な』という意味です。a reverent silence（うやうやしい沈黙）のように使います。" },
+      { "q": "reverent の反対語は？", "a": "irreverent（不敬な・ふざけた）です。" }
+    ],
+    "quiz": [
+      { "q": "The crowd fell into a ___ silence.（うやうやしい）", "A": "reverent", "B": "reluctant の気が進まない", "C": "resilient", "D": "redundant", "correct": "A" },
+      { "q": "reverent の動詞形（深く敬う）はどれ？", "A": "revere", "B": "reverse", "C": "review", "D": "revise", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rhapsody",
+    "pron": "ˈræpsədi",
+    "kana": "ラプソディ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 rhapsoidia（叙事詩の朗唱）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "音楽"],
+    "meaning_main": "狂詩曲（ラプソディ）／熱狂的な賛辞・うっとりした語り",
+    "description": "rhapsody の意味・発音・例文・語源を解説。音楽の「狂詩曲（ラプソディ）」や、熱に浮かされたような「賛辞・うっとりした語り」の使い方を紹介します。",
+    "keywords": ["rhapsody 意味", "rhapsody 発音", "rhapsody 狂詩曲", "rhapsody つづり"],
+    "meanings": [
+      { "hinshi": "【名詞】狂詩曲（ラプソディ）", "note": "自由な形式の情熱的な楽曲。Rhapsody in Blue（ラプソディ・イン・ブルー）。" },
+      { "hinshi": "【名詞】熱狂的な賛辞・うっとりした語り", "note": "go into rhapsodies over（〜を熱烈にほめる）。" }
+    ],
+    "usages": [
+      { "title": "① 音楽の「狂詩曲」として", "desc": "情熱的で自由な形式の楽曲を表します。", "example_en": "Liszt composed several Hungarian rhapsodies.", "example_ja": "リストは複数のハンガリー狂詩曲を作曲した。" },
+      { "title": "② 「熱狂的な賛辞」として", "desc": "うっとりとほめたたえる意味です。", "example_en": "She went into rhapsodies over the meal.", "example_ja": "彼女はその食事を熱烈にほめちぎった。" }
+    ],
+    "warn": [
+      "つづり注意：rhapsody。rh- で始まる（rhythm・rhyme と同じギリシャ語系）。",
+      "go into rhapsodies (over) は『〜を熱烈にほめちぎる』。"
+    ],
+    "etym_note": "ギリシャ語 rhapsoidia（叙事詩をつなぎ合わせて朗唱すること。rhaptein「縫い合わせる」＋ ōidē「歌」）に由来します。「歌をつなぎ合わせたもの＝自由な楽曲」が原義です。",
+    "etym_chain": [
+      { "node": "rhapsoidia", "sub": "叙事詩の朗唱", "era": "ギリシャ語" },
+      { "node": "rhapsodia", "sub": "狂詩曲", "era": "ラテン語" },
+      { "node": "rhapsody", "sub": "狂詩曲・熱烈な賛辞", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a Hungarian rhapsody", "ja": "ハンガリー狂詩曲" },
+      { "en": "Rhapsody in Blue", "ja": "ラプソディ・イン・ブルー" },
+      { "en": "go into rhapsodies over", "ja": "〜を熱烈にほめちぎる" },
+      { "en": "a rhapsody of praise", "ja": "賛辞の数々" },
+      { "en": "in rhapsodies", "ja": "うっとりして" },
+      { "en": "a musical rhapsody", "ja": "音楽の狂詩曲" }
+    ],
+    "related": [
+      { "en": "rhapsodic", "ja": "熱狂的な・狂詩曲風の" },
+      { "en": "ecstasy", "ja": "恍惚・有頂天" },
+      { "en": "praise", "ja": "賛辞" },
+      { "en": "symphony", "ja": "交響曲" }
+    ],
+    "faq": [
+      { "q": "rhapsody の二つの意味は？", "a": "①音楽の『狂詩曲（自由で情熱的な楽曲）』と、②『熱狂的な賛辞・うっとりした語り』です。" },
+      { "q": "go into rhapsodies over とは？", "a": "『〜を熱烈にほめちぎる・うっとりと語る』という意味の表現です。" }
+    ],
+    "quiz": [
+      { "q": "Liszt composed several Hungarian ___.（狂詩曲）", "A": "rhapsodies", "B": "rhythms のリズム", "C": "rhymes の韻", "D": "remedies", "correct": "A" },
+      { "q": "rhapsody の正しいつづりはどれ？", "A": "rapsody", "B": "rhapsody", "C": "rhapsodi", "D": "raphsody", "correct": "B" }
+    ]
+  },
+  {
+    "english": "riposte",
+    "pron": "rɪˈpoʊst",
+    "kana": "リポウスト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "イタリア語 risposta（応答）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "言葉"],
+    "meaning_main": "（機知に富んだ・すばやい）反論・切り返し／（フェンシングの）返し突き",
+    "description": "riposte の意味・発音・例文・語源を解説。相手の発言への「すばやく気のきいた切り返し」や、フェンシングの「返し突き」の使い方を紹介します。",
+    "keywords": ["riposte 意味", "riposte 発音", "riposte 切り返し", "riposte フェンシング"],
+    "meanings": [
+      { "hinshi": "【名詞】（機知に富んだ・すばやい）反論・切り返し", "note": "とっさの気のきいた返し。a sharp riposte（鋭い切り返し）。" },
+      { "hinshi": "【名詞】（フェンシングの）返し突き", "note": "相手の攻撃を受けてすぐ返す突き。" }
+    ],
+    "usages": [
+      { "title": "① 「すばやい切り返し」として", "desc": "とっさの気のきいた返しを表します。", "example_en": "She delivered a witty riposte.", "example_ja": "彼女は機知に富んだ切り返しを放った。" },
+      { "title": "② フェンシングの「返し突き」として", "desc": "攻撃を受けてすぐ返す突きを表します。", "example_en": "He parried and made a quick riposte.", "example_ja": "彼は受け流してすばやく返し突きをした。" }
+    ],
+    "warn": [
+      "riposte は『（フェンシングの返し突きのような）すばやく鋭い切り返し』。retort・rejoinder と近い。",
+      "発音は /rɪˈpoʊst/「リポウスト」。"
+    ],
+    "etym_note": "イタリア語 risposta（rispondere「応答する」から＝応答）に由来し、フランス語を経て英語に入りました。respond と同じ語源で、もとはフェンシングの『返し突き』を指しました。",
+    "etym_chain": [
+      { "node": "risposta", "sub": "応答", "era": "イタリア語" },
+      { "node": "riposte", "sub": "返し突き", "era": "フランス語" },
+      { "node": "riposte", "sub": "切り返し・返し突き", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a witty riposte", "ja": "機知に富んだ切り返し" },
+      { "en": "a sharp riposte", "ja": "鋭い切り返し" },
+      { "en": "a quick riposte", "ja": "すばやい返し" },
+      { "en": "deliver a riposte", "ja": "切り返しを放つ" },
+      { "en": "a clever riposte", "ja": "巧みな反論" },
+      { "en": "parry and riposte", "ja": "受け流して返し突きする" }
+    ],
+    "related": [
+      { "en": "retort", "ja": "鋭い返答" },
+      { "en": "rejoinder", "ja": "気のきいた返答" },
+      { "en": "comeback", "ja": "気のきいた返し" },
+      { "en": "repartee", "ja": "当意即妙の応酬" }
+    ],
+    "faq": [
+      { "q": "riposte とはどんな意味？", "a": "①『（すばやく鋭い・機知に富んだ）切り返し・反論』と、②フェンシングの『返し突き』です。もとは剣術の用語です。" },
+      { "q": "riposte と retort の違いは？", "a": "どちらも『鋭い返答』ですが、riposte は『（フェンシングの返し突きのように）すばやく鋭い切り返し』というニュアンスです。" }
+    ],
+    "quiz": [
+      { "q": "She delivered a witty ___.（切り返し）", "A": "riposte", "B": "repose の休息", "C": "report", "D": "request", "correct": "A" },
+      { "q": "riposte と意味が近いのはどれ？", "A": "retort（鋭い返答）", "B": "question（質問）", "C": "silence（沈黙）", "D": "speech（演説）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "roil",
+    "pron": "rɔɪl",
+    "kana": "ロイル",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古フランス語 ruiler（かき混ぜる）由来",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "（液体を）かき乱す・濁らせる／（心・市場を）動揺させる",
+    "description": "roil の意味・発音・例文・語源を解説。水を「かき乱して濁らせる」、市場や心を「動揺させる・荒れさせる」使い方を分かりやすく紹介します。",
+    "keywords": ["roil 意味", "roil 発音", "roiling 意味", "roil 動揺"],
+    "meanings": [
+      { "hinshi": "【動詞】（液体を）かき乱す・濁らせる", "note": "底をかき回して濁らせる。" },
+      { "hinshi": "【動詞】（心・市場などを）動揺させる・荒れさせる", "note": "roil the markets（市場を混乱させる）。" }
+    ],
+    "usages": [
+      { "title": "① 「かき乱す・濁らせる」として", "desc": "水などをかき混ぜて濁す意味です。", "example_en": "The storm roiled the surface of the sea.", "example_ja": "嵐が海面をかき乱した。" },
+      { "title": "② 「動揺させる・荒れさせる」として", "desc": "市場や感情を混乱させる意味です。", "example_en": "The news roiled financial markets.", "example_ja": "そのニュースは金融市場を動揺させた。" }
+    ],
+    "warn": [
+      "roil は『かき乱す・荒れさせる』。形容詞的な roiling は『（雲・海が）渦巻く・荒れた』。",
+      "roil /rɔɪl/ と royal /ˈrɔɪəl/ は別語。"
+    ],
+    "etym_note": "古フランス語 ruiler（壁土をかき混ぜる）由来とされ、「（液体を）かき混ぜて濁らせる」が原義です。そこから比喩で『（心・市場を）かき乱す』になりました。",
+    "etym_chain": [
+      { "node": "ruiler", "sub": "かき混ぜる", "era": "古フランス語" },
+      { "node": "roil", "sub": "かき乱す・濁らせる", "era": "近代英語" },
+      { "node": "roil", "sub": "かき乱す・動揺させる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "roil the markets", "ja": "市場を混乱させる" },
+      { "en": "roiling clouds", "ja": "渦巻く雲" },
+      { "en": "roiling waters", "ja": "荒れる水面" },
+      { "en": "roil the waters", "ja": "波風を立てる" },
+      { "en": "be roiled by", "ja": "〜で動揺する" },
+      { "en": "roiling emotions", "ja": "渦巻く感情" }
+    ],
+    "related": [
+      { "en": "stir up", "ja": "かき立てる" },
+      { "en": "agitate", "ja": "動揺させる" },
+      { "en": "churn", "ja": "かき回す" },
+      { "en": "calm", "ja": "静める（反対概念）" }
+    ],
+    "faq": [
+      { "q": "roil とはどんな意味？", "a": "①水などを『かき乱して濁らせる』と、②市場・心を『動揺させる・荒れさせる』という意味です。roil the markets（市場を混乱させる）のように使います。" },
+      { "q": "roiling とは？", "a": "『（雲・海・感情が）渦巻く・荒れ狂う』という意味で使われます。roiling clouds（渦巻く雲）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The news ___ financial markets.（動揺させた）", "A": "roiled", "B": "ruled の支配した", "C": "rolled の転がった", "D": "ruined", "correct": "A" },
+      { "q": "roil と意味が近いのはどれ？", "A": "agitate（動揺させる）", "B": "calm（静める）", "C": "settle（落ち着かせる）", "D": "soothe（なだめる）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rollicking",
+    "pron": "ˈrɑːlɪkɪŋ",
+    "kana": "ロリッキング",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "rollick（陽気に騒ぐ）＋ -ing",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "形容詞"],
+    "meaning_main": "陽気で騒がしい・愉快でにぎやかな・とても楽しい",
+    "description": "rollicking の意味・発音・例文・語源を解説。陽気で「にぎやかで楽しい」パーティーや物語などを表す語の使い方を分かりやすく紹介します。",
+    "keywords": ["rollicking 意味", "rollicking 発音", "rollicking 陽気", "rollicking good time"],
+    "meanings": [
+      { "hinshi": "【形容詞】陽気で騒がしい・愉快でにぎやかな・とても楽しい", "note": "明るく羽目を外して楽しい。a rollicking party（にぎやかなパーティー）。" }
+    ],
+    "usages": [
+      { "title": "① 「陽気でにぎやかな・楽しい」として", "desc": "明るく愉快で活気ある様子を表します。", "example_en": "We had a rollicking good time at the party.", "example_ja": "私たちはパーティーでとても楽しい時間を過ごした。" },
+      { "title": "② 物語・音楽について", "desc": "テンポよく愉快な作品を表します。", "example_en": "It's a rollicking adventure story.", "example_ja": "それは痛快な冒険物語だ。" }
+    ],
+    "warn": [
+      "a rollicking good time は『とても楽しい時間』という決まり文句。",
+      "rollicking は『陽気でにぎやか・痛快』というよい意味。rowdy（騒々しい）よりも肯定的。"
+    ],
+    "etym_note": "動詞 rollick（陽気に騒ぐ・はしゃぐ）に -ing がついた語です。rollick は frolic（はしゃぐ）と roll（転がる）が混ざってできたとされ、「陽気にはしゃぐ」が原義です。",
+    "etym_chain": [
+      { "node": "rollick", "sub": "陽気に騒ぐ", "era": "19世紀" },
+      { "node": "rollicking", "sub": "陽気な", "era": "19世紀" },
+      { "node": "rollicking", "sub": "陽気でにぎやかな", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rollicking good time", "ja": "とても楽しい時間" },
+      { "en": "a rollicking party", "ja": "にぎやかなパーティー" },
+      { "en": "a rollicking adventure", "ja": "痛快な冒険" },
+      { "en": "a rollicking comedy", "ja": "愉快な喜劇" },
+      { "en": "rollicking fun", "ja": "陽気な楽しさ" },
+      { "en": "a rollicking tune", "ja": "陽気な曲" }
+    ],
+    "related": [
+      { "en": "boisterous", "ja": "騒々しい・元気な" },
+      { "en": "lively", "ja": "活気のある" },
+      { "en": "merry", "ja": "陽気な" },
+      { "en": "dull", "ja": "退屈な（反対語）" }
+    ],
+    "faq": [
+      { "q": "rollicking とはどんな意味？", "a": "『陽気でにぎやか・愉快でとても楽しい』という肯定的な語です。a rollicking good time（とても楽しい時間）のように使います。" },
+      { "q": "a rollicking good time とは？", "a": "『（羽目を外して）とても楽しい時間』という決まり文句です。" }
+    ],
+    "quiz": [
+      { "q": "We had a ___ good time at the party.（とても楽しい）", "A": "rollicking", "B": "reluctant の気が進まない", "C": "ridiculous", "D": "rigorous", "correct": "A" },
+      { "q": "rollicking と意味が近いのはどれ？", "A": "lively（活気のある）", "B": "dull（退屈な）", "C": "quiet（静かな）", "D": "boring（つまらない）", "correct": "A" }
+    ]
+  }
+]
