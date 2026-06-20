@@ -1,0 +1,528 @@
+[
+  {
+    "english": "rasp",
+    "pron": "ræsp",
+    "kana": "ラスプ",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "古フランス語 rasper（削る）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "音"],
+    "meaning_main": "（耳ざわりに）ガリガリこする・しわがれ声を出す／やすり",
+    "description": "rasp の意味・発音・例文・語源を解説。耳ざわりな「ガリガリ音」やしわがれ声、道具の「荒目やすり」の使い方を分かりやすく紹介します。",
+    "keywords": ["rasp 意味", "rasp 発音", "raspy 意味", "rasp しわがれ声"],
+    "meanings": [
+      { "hinshi": "【動詞】（耳ざわりに）こする・しわがれ声を出す", "note": "ガリガリ・ザラザラと耳ざわりな音を立てる。" },
+      { "hinshi": "【名詞】荒目やすり・耳ざわりな音", "note": "金属などを削る粗いやすり。" }
+    ],
+    "usages": [
+      { "title": "① 「ガリガリこする・しわがれ声で言う」として", "desc": "耳ざわりな音を立てる意味です。", "example_en": "\"Get out,\" he rasped.", "example_ja": "「出て行け」と彼はしわがれ声で言った。" },
+      { "title": "② 名詞「やすり・耳ざわりな音」として", "desc": "粗いやすりやその音を表します。", "example_en": "the rasp of a saw", "example_ja": "のこぎりのガリガリという音" }
+    ],
+    "warn": [
+      "形容詞 raspy は『（声が）しわがれた・かすれた』（a raspy voice）。",
+      "raspberry（ラズベリー）とつづりが似ているが別語。"
+    ],
+    "etym_note": "古フランス語 rasper（削る・こする）に由来します。razor・erase と同じ ras-（削る）の語根で、「ザラザラ削る・耳ざわりな音を立てる」が原義です。",
+    "etym_chain": [
+      { "node": "rasper", "sub": "削る・こする", "era": "古フランス語" },
+      { "node": "rasp", "sub": "やすり・こする", "era": "中英語" },
+      { "node": "rasp", "sub": "ガリガリこする・やすり", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a raspy voice", "ja": "しわがれ声" },
+      { "en": "rasp out", "ja": "しわがれ声で言う" },
+      { "en": "the rasp of a file", "ja": "やすりのガリガリ音" },
+      { "en": "a metal rasp", "ja": "金属やすり" },
+      { "en": "rasp against", "ja": "〜にこすれて音を立てる" },
+      { "en": "a harsh rasp", "ja": "耳ざわりな音" }
+    ],
+    "related": [
+      { "en": "raspy", "ja": "しわがれた" },
+      { "en": "grate", "ja": "きしる・すりおろす" },
+      { "en": "scrape", "ja": "こする" },
+      { "en": "file", "ja": "やすり・やすりをかける" }
+    ],
+    "faq": [
+      { "q": "raspy voice とは？", "a": "『しわがれた・かすれた声』のことです。rasp（耳ざわりにこする）の形容詞です。" },
+      { "q": "rasp の名詞の意味は？", "a": "金属などを削る『荒目やすり』、またその『ガリガリという耳ざわりな音』です。" }
+    ],
+    "quiz": [
+      { "q": "\"Get out,\" he ___.（しわがれ声で言った）", "A": "rasped", "B": "reduced", "C": "removed", "D": "refused", "correct": "A" },
+      { "q": "rasp の形容詞形（しわがれた）はどれ？", "A": "raspy", "B": "raspful", "C": "raspous", "D": "raspable", "correct": "A" }
+    ]
+  },
+  {
+    "english": "raucous",
+    "pron": "ˈrɔːkəs",
+    "kana": "ローカス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 raucus（しわがれた）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "形容詞"],
+    "meaning_main": "耳ざわりな・騒々しい・しわがれた",
+    "description": "raucous の意味・発音・例文・語源を解説。群衆や笑い声が「耳ざわりで騒々しい」様子の使い方を分かりやすく紹介します。",
+    "keywords": ["raucous 意味", "raucous 発音", "raucous laughter 意味", "raucous 騒々しい"],
+    "meanings": [
+      { "hinshi": "【形容詞】耳ざわりな・騒々しい・しわがれた", "note": "大きく荒っぽくて不快な音・声。raucous laughter（がやがやした笑い声）。" }
+    ],
+    "usages": [
+      { "title": "① 「騒々しい・耳ざわりな」として", "desc": "大きく荒っぽい音・声を表します。", "example_en": "The bar was full of raucous laughter.", "example_ja": "そのバーはがやがやした笑い声でいっぱいだった。" },
+      { "title": "② 「しわがれた声の」として", "desc": "ざらついた荒い声を表します。", "example_en": "The crow gave a raucous cry.", "example_ja": "カラスが耳ざわりな鳴き声をあげた。" }
+    ],
+    "warn": [
+      "raucous は『耳ざわりで騒々しい』。発音は /ˈrɔːkəs/「ローカス」。",
+      "rowdy（騒々しい・乱暴な）と近い。"
+    ],
+    "etym_note": "ラテン語 raucus（しわがれた・かれた）に由来します。「（声が）ざらついて耳ざわりな」が原義で、そこから『騒々しい』にもなりました。",
+    "etym_chain": [
+      { "node": "raucus", "sub": "しわがれた", "era": "ラテン語" },
+      { "node": "raucous", "sub": "耳ざわりな", "era": "近代英語" },
+      { "node": "raucous", "sub": "耳ざわりな・騒々しい", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "raucous laughter", "ja": "がやがやした笑い声" },
+      { "en": "a raucous crowd", "ja": "騒々しい群衆" },
+      { "en": "a raucous cry", "ja": "耳ざわりな叫び声" },
+      { "en": "raucous noise", "ja": "騒々しい音" },
+      { "en": "a raucous party", "ja": "騒々しいパーティー" },
+      { "en": "raucous cheers", "ja": "騒々しい歓声" }
+    ],
+    "related": [
+      { "en": "rowdy", "ja": "騒々しい・乱暴な" },
+      { "en": "noisy", "ja": "うるさい" },
+      { "en": "harsh", "ja": "耳ざわりな" },
+      { "en": "quiet", "ja": "静かな（反対語）" }
+    ],
+    "faq": [
+      { "q": "raucous とはどんな意味？", "a": "『耳ざわりで騒々しい・しわがれた』という意味です。raucous laughter（がやがやした荒っぽい笑い声）のように使います。" },
+      { "q": "raucous と rowdy の違いは？", "a": "raucous は『（音・声が）耳ざわりで騒々しい』、rowdy は『（人・行動が）荒っぽく手に負えないほど騒々しい』というニュアンスです。" }
+    ],
+    "quiz": [
+      { "q": "The bar was full of ___ laughter.（騒々しい）", "A": "raucous", "B": "rigorous の厳密な", "C": "ridiculous", "D": "ravenous の空腹な", "correct": "A" },
+      { "q": "raucous の反対語はどれ？", "A": "quiet（静かな）", "B": "noisy（うるさい）", "C": "harsh（耳ざわりな）", "D": "loud（大きい）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rebuff",
+    "pron": "rɪˈbʌf",
+    "kana": "リバフ",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "古イタリア語 ribuffo（叱責・突き返し）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "（申し出・好意を）はねつける・素っ気なく断る／拒絶",
+    "description": "rebuff の意味・発音・例文・語源を解説。親切や提案を「素っ気なくはねつける」というかたい語の使い方を分かりやすく紹介します。",
+    "keywords": ["rebuff 意味", "rebuff 発音", "rebuff 拒絶", "rebuff はねつける"],
+    "meanings": [
+      { "hinshi": "【動詞】（申し出・好意を）はねつける・素っ気なく断る", "note": "差し出されたものを冷たく拒む。" },
+      { "hinshi": "【名詞】そっけない拒絶", "note": "meet with a rebuff（拒絶される）。" }
+    ],
+    "usages": [
+      { "title": "① 動詞「はねつける」として", "desc": "好意や申し出を冷たく拒む意味です。", "example_en": "She rebuffed his offer of help.", "example_ja": "彼女は彼の手助けの申し出をはねつけた。" },
+      { "title": "② 名詞「拒絶」として", "desc": "そっけない拒絶を表します。", "example_en": "His proposal met with a sharp rebuff.", "example_ja": "彼の提案は厳しい拒絶にあった。" }
+    ],
+    "warn": [
+      "rebuff は『（申し出・好意・接近を）素っ気なくはねつける』。reject より『冷たく突き返す』ニュアンス。",
+      "meet with a rebuff は『拒絶される』。"
+    ],
+    "etym_note": "古イタリア語 ribuffo（叱責・突き返し。buffo「突風・一撃」から）に由来します。「ぶっきらぼうに突き返す」が原義です。",
+    "etym_chain": [
+      { "node": "ribuffo", "sub": "叱責・突き返し", "era": "古イタリア語" },
+      { "node": "rebuff", "sub": "はねつける", "era": "近代英語" },
+      { "node": "rebuff", "sub": "はねつける・拒絶", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rebuff an offer", "ja": "申し出をはねつける" },
+      { "en": "rebuff advances", "ja": "言い寄りを拒む" },
+      { "en": "meet with a rebuff", "ja": "拒絶される" },
+      { "en": "a sharp rebuff", "ja": "厳しい拒絶" },
+      { "en": "rebuff a request", "ja": "要請をはねつける" },
+      { "en": "coldly rebuff", "ja": "冷たく拒む" }
+    ],
+    "related": [
+      { "en": "reject", "ja": "拒絶する" },
+      { "en": "snub", "ja": "冷たくあしらう" },
+      { "en": "refuse", "ja": "断る" },
+      { "en": "welcome", "ja": "歓迎する（反対語）" }
+    ],
+    "faq": [
+      { "q": "rebuff と reject の違いは？", "a": "どちらも『拒絶する』ですが、rebuff は『（差し出された好意・申し出・接近を）素っ気なく冷たくはねつける』というニュアンスが強いです。" },
+      { "q": "meet with a rebuff とは？", "a": "『拒絶される・はねつけられる』という意味です。" }
+    ],
+    "quiz": [
+      { "q": "She ___ his offer of help.（はねつけた）", "A": "rebuffed", "B": "rebuilt の再建した", "C": "reduced", "D": "removed", "correct": "A" },
+      { "q": "rebuff と最も意味が近いのはどれ？", "A": "reject（拒絶する）", "B": "accept（受け入れる）", "C": "welcome（歓迎する）", "D": "thank（感謝する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rebut",
+    "pron": "rɪˈbʌt",
+    "kana": "リバット",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古フランス語 reboter（打ち返す）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "（証拠・論理で）反論する・論破する",
+    "description": "rebut の意味・発音・例文・語源を解説。議論で相手の主張に「（証拠を挙げて）反論する」使い方や、名詞 rebuttal も分かりやすく紹介します。",
+    "keywords": ["rebut 意味", "rebut 発音", "rebuttal 意味", "rebut 反論"],
+    "meanings": [
+      { "hinshi": "【動詞】（証拠・論理で）反論する・論破する", "note": "相手の主張の誤りを示す。rebut an argument（議論に反論する）。" }
+    ],
+    "usages": [
+      { "title": "① 「反論する・論破する」として", "desc": "証拠を挙げて相手の主張に反論する意味です。", "example_en": "She rebutted the claim with solid evidence.", "example_ja": "彼女は確かな証拠でその主張に反論した。" },
+      { "title": "② 議論・討論で", "desc": "ディベートで反対意見を述べる意味です。", "example_en": "He rebutted every point his opponent made.", "example_ja": "彼は相手の主張すべてに反論した。" }
+    ],
+    "warn": [
+      "活用は語尾の t を重ねる：rebut – rebutted – rebutting。名詞は rebuttal（反論）。",
+      "refute（論破する）と意味が近い。ディベートの『反論パート』は rebuttal。"
+    ],
+    "etym_note": "古フランス語 reboter（re-「逆に」＋ boter「打つ」＝打ち返す）に由来します。「（主張を）打ち返す＝反論する」が原義です。",
+    "etym_chain": [
+      { "node": "reboter", "sub": "打ち返す", "era": "古フランス語" },
+      { "node": "rebut", "sub": "打ち返す・反論する", "era": "中英語" },
+      { "node": "rebut", "sub": "反論する・論破する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rebut an argument", "ja": "議論に反論する" },
+      { "en": "rebut a claim", "ja": "主張に反論する" },
+      { "en": "rebut the allegations", "ja": "申し立てに反論する" },
+      { "en": "rebuttal", "ja": "反論" },
+      { "en": "easily rebut", "ja": "簡単に論破する" },
+      { "en": "a rebuttal witness", "ja": "反証の証人" }
+    ],
+    "related": [
+      { "en": "refute", "ja": "論破する" },
+      { "en": "rebuttal", "ja": "反論（名詞）" },
+      { "en": "counter", "ja": "反論する" },
+      { "en": "disprove", "ja": "反証する" }
+    ],
+    "faq": [
+      { "q": "rebut と refute の違いは？", "a": "意味はほぼ同じ『（証拠・論理で）反論する・論破する』です。ディベートでは反論のパートを rebuttal と呼びます。" },
+      { "q": "rebut の名詞形は？", "a": "rebuttal（反論）です。" }
+    ],
+    "quiz": [
+      { "q": "She ___ the claim with solid evidence.（反論した）", "A": "rebutted", "B": "rebuilt の再建した", "C": "reduced", "D": "removed", "correct": "A" },
+      { "q": "rebut の名詞形はどれ？", "A": "rebuttal", "B": "rebutment", "C": "rebutance", "D": "rebution", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recant",
+    "pron": "rɪˈkænt",
+    "kana": "リカント",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 recantare（取り消して歌う）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "（信念・前言を公に）撤回する・取り消す",
+    "description": "recant の意味・発音・例文・語源を解説。とくに信念や信仰、証言を「公に撤回する」というかたい語の使い方を分かりやすく紹介します。",
+    "keywords": ["recant 意味", "recant 発音", "recant a statement 意味", "recant 撤回"],
+    "meanings": [
+      { "hinshi": "【動詞】（信念・前言を公に）撤回する・取り消す", "note": "以前述べた考え・信仰・証言を公に否定する。" }
+    ],
+    "usages": [
+      { "title": "① 「（信念・前言を）撤回する」として", "desc": "公に以前の考えを取り消す意味です。", "example_en": "Under pressure, he recanted his earlier statement.", "example_ja": "圧力のもと、彼は以前の発言を撤回した。" },
+      { "title": "② 信仰・証言の撤回として", "desc": "信じていたことを公に否定する意味です。", "example_en": "The scientist was forced to recant his theory.", "example_ja": "その科学者は自説の撤回を強いられた。" }
+    ],
+    "warn": [
+      "recant は『（とくに信念・信仰・証言を）公に撤回する』というかたい・やや古風な語。",
+      "cant-（歌う）は chant・cantata と同じ語源。"
+    ],
+    "etym_note": "ラテン語 recantare（re-「逆に」＋ cantare「歌う・唱える」＝取り消して唱える）に由来します。chant・cantata と同じ cant-（歌う）の語根で、「唱えたことを取り消す」が原義です。",
+    "etym_chain": [
+      { "node": "recantare", "sub": "取り消して唱える", "era": "ラテン語" },
+      { "node": "recant", "sub": "撤回する", "era": "近代英語" },
+      { "node": "recant", "sub": "公に撤回する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "recant a statement", "ja": "発言を撤回する" },
+      { "en": "recant one's views", "ja": "意見を撤回する" },
+      { "en": "be forced to recant", "ja": "撤回を強いられる" },
+      { "en": "publicly recant", "ja": "公に撤回する" },
+      { "en": "refuse to recant", "ja": "撤回を拒む" },
+      { "en": "recant testimony", "ja": "証言を撤回する" }
+    ],
+    "related": [
+      { "en": "retract", "ja": "撤回する" },
+      { "en": "withdraw", "ja": "取り下げる" },
+      { "en": "renounce", "ja": "放棄する" },
+      { "en": "affirm", "ja": "断言する（反対概念）" }
+    ],
+    "faq": [
+      { "q": "recant と retract の違いは？", "a": "どちらも『撤回する』ですが、recant は特に『（信念・信仰・証言を）公に撤回・否定する』というかたい語です。" },
+      { "q": "recant の語源は？", "a": "ラテン語の『取り消して唱える（歌う）』に由来します。chant（唱える）と同じ cant（歌う）の語源です。" }
+    ],
+    "quiz": [
+      { "q": "Under pressure, he ___ his earlier statement.（撤回した）", "A": "recanted", "B": "recounted の数え直した", "C": "reduced", "D": "removed", "correct": "A" },
+      { "q": "recant と最も意味が近いのはどれ？", "A": "retract（撤回する）", "B": "affirm（断言する）", "C": "confirm（確認する）", "D": "repeat（繰り返す）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "redolent",
+    "pron": "ˈredələnt",
+    "kana": "レドレント",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 redolere（においを放つ）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "形容詞"],
+    "meaning_main": "（redolent of）〜のかおりがする・〜を思い起こさせる",
+    "description": "redolent の意味・発音・例文・語源を解説。redolent of（〜のかおりがする・〜を強く連想させる）という文語的な使い方を分かりやすく紹介します。",
+    "keywords": ["redolent 意味", "redolent 発音", "redolent of 使い方", "redolent かおり"],
+    "meanings": [
+      { "hinshi": "【形容詞】(redolent of) 〜のかおりがする", "note": "強い香りに満ちている。redolent of spices（香辛料のかおりがする）。" },
+      { "hinshi": "【形容詞】(redolent of) 〜を強く思い起こさせる", "note": "redolent of the past（昔をしのばせる）。" }
+    ],
+    "usages": [
+      { "title": "① 「〜のかおりがする」として", "desc": "強い香りに満ちている意味です。", "example_en": "The kitchen was redolent of fresh bread.", "example_ja": "台所は焼きたてのパンのかおりに満ちていた。" },
+      { "title": "② 「〜を思い起こさせる」として", "desc": "強く連想させる意味です。", "example_en": "The music is redolent of the 1960s.", "example_ja": "その音楽は1960年代を強く思い起こさせる。" }
+    ],
+    "warn": [
+      "redolent はふつう redolent of の形で使う文語的な語。『かおり』と『連想』の二つの意味がある。",
+      "odor（におい）と同じ語源（ol＝においを放つ）。"
+    ],
+    "etym_note": "ラテン語 redolere（red-「強意」＋ olere「においを放つ」）に由来します。odor・olfactory と同じ ol-（におい）の語根で、「強くにおいを放つ」が原義です。",
+    "etym_chain": [
+      { "node": "redolere", "sub": "においを放つ", "era": "ラテン語" },
+      { "node": "redolent", "sub": "かおる", "era": "中英語" },
+      { "node": "redolent", "sub": "かおる・思い起こさせる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "redolent of", "ja": "〜のかおりがする・〜を思わせる" },
+      { "en": "redolent of spices", "ja": "香辛料のかおりがする" },
+      { "en": "redolent of the past", "ja": "昔をしのばせる" },
+      { "en": "an air redolent of", "ja": "〜のかおりに満ちた空気" },
+      { "en": "redolent with", "ja": "〜のかおりに満ちて" },
+      { "en": "richly redolent", "ja": "豊かにかおる" }
+    ],
+    "related": [
+      { "en": "fragrant", "ja": "かおりのよい" },
+      { "en": "evocative", "ja": "（記憶を）呼び起こす" },
+      { "en": "reminiscent", "ja": "思い起こさせる" },
+      { "en": "scented", "ja": "かおりのする" }
+    ],
+    "faq": [
+      { "q": "redolent of の二つの意味は？", "a": "①『〜のかおりがする・〜のにおいに満ちた』と、②『〜を強く思い起こさせる・連想させる』です。" },
+      { "q": "redolent は日常語？", "a": "いいえ、文語的・やや改まった語です。ふつう redolent of の形で使います。" }
+    ],
+    "quiz": [
+      { "q": "The kitchen was ___ of fresh bread.（かおりに満ちた）", "A": "redolent", "B": "reluctant の気が進まない", "C": "resilient", "D": "ridiculous", "correct": "A" },
+      { "q": "redolent of の意味に含まれないのはどれ？", "A": "〜を破壊する", "B": "〜のかおりがする", "C": "〜を思い起こさせる", "D": "〜のにおいに満ちた", "correct": "A" }
+    ]
+  },
+  {
+    "english": "regale",
+    "pron": "rɪˈɡeɪl",
+    "kana": "リゲイル",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "フランス語 régaler（もてなす）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "（話・ごちそうで）大いに楽しませる・もてなす",
+    "description": "regale の意味・発音・例文・語源を解説。話やごちそうで人を「大いに楽しませる・もてなす」使い方や、regale with も分かりやすく紹介します。",
+    "keywords": ["regale 意味", "regale 発音", "regale with 使い方", "regale もてなす"],
+    "meanings": [
+      { "hinshi": "【動詞】（話・ごちそうで）大いに楽しませる・もてなす", "note": "regale someone with stories（話で人を楽しませる）。" }
+    ],
+    "usages": [
+      { "title": "① 「話で楽しませる」として", "desc": "regale A with B（AをBで楽しませる）の形です。", "example_en": "He regaled us with stories of his travels.", "example_ja": "彼は旅の話で私たちを大いに楽しませた。" },
+      { "title": "② 「ごちそうでもてなす」として", "desc": "食事でもてなす意味でも使います。", "example_en": "They regaled their guests with a feast.", "example_ja": "彼らはごちそうで客をもてなした。" }
+    ],
+    "warn": [
+      "「AをBで楽しませる」は regale A with B。royal（王の）と同じ語源（王のようにもてなす）。",
+      "regale は文語的・やや改まった語。"
+    ],
+    "etym_note": "フランス語 régaler（もてなす・楽しませる）に由来します。royal・regal（王の）とつながり、「王のようにごちそうしてもてなす」が原義とされます。",
+    "etym_chain": [
+      { "node": "régaler", "sub": "もてなす", "era": "フランス語" },
+      { "node": "regale", "sub": "もてなす", "era": "近代英語" },
+      { "node": "regale", "sub": "大いに楽しませる・もてなす", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "regale A with B", "ja": "AをBで楽しませる" },
+      { "en": "regale with stories", "ja": "話で楽しませる" },
+      { "en": "regale guests", "ja": "客をもてなす" },
+      { "en": "regale with a feast", "ja": "ごちそうでもてなす" },
+      { "en": "regale an audience", "ja": "聴衆を楽しませる" },
+      { "en": "regale someone with tales", "ja": "物語で楽しませる" }
+    ],
+    "related": [
+      { "en": "entertain", "ja": "楽しませる" },
+      { "en": "amuse", "ja": "面白がらせる" },
+      { "en": "treat", "ja": "もてなす" },
+      { "en": "bore", "ja": "退屈させる（反対概念）" }
+    ],
+    "faq": [
+      { "q": "regale の使い方は？", "a": "regale A with B（AをBで楽しませる）の形が基本です。regale them with jokes（冗談で彼らを楽しませる）のように使います。" },
+      { "q": "regale の語源は？", "a": "『もてなす』を意味するフランス語に由来し、royal（王の）とつながります。『王のようにもてなす』が原義とされます。" }
+    ],
+    "quiz": [
+      { "q": "He ___ us with stories of his travels.（楽しませた）", "A": "regaled", "B": "regained の取り戻した", "C": "reduced", "D": "removed", "correct": "A" },
+      { "q": "「AをBで楽しませる」の形はどれ？", "A": "regale A with B", "B": "regale A to B", "C": "regale A of B", "D": "regale A for B", "correct": "A" }
+    ]
+  },
+  {
+    "english": "relent",
+    "pron": "rɪˈlent",
+    "kana": "リレント",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 lentus（柔らかい・しなやか）由来",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "（態度を）和らげる・折れる／（嵐などが）弱まる",
+    "description": "relent の意味・発音・例文・語源を解説。厳しい態度を「和らげて折れる」、嵐や痛みが「弱まる」使い方を分かりやすく紹介します。",
+    "keywords": ["relent 意味", "relent 発音", "relentless 関係", "relent 折れる"],
+    "meanings": [
+      { "hinshi": "【動詞】（態度を）和らげる・折れる・思い直す", "note": "厳しい態度をゆるめて許す。Finally she relented.（ついに彼女は折れた）。" },
+      { "hinshi": "【動詞】（嵐・痛みが）弱まる・やむ", "note": "The storm finally relented.（嵐がようやくおさまった）。" }
+    ],
+    "usages": [
+      { "title": "① 「態度を和らげる・折れる」として", "desc": "厳しい態度をゆるめて許す意味です。", "example_en": "Her parents finally relented and let her go.", "example_ja": "両親はついに折れて、彼女を行かせた。" },
+      { "title": "② 「（嵐などが）弱まる」として", "desc": "勢いがおさまる意味でも使います。", "example_en": "The rain showed no sign of relenting.", "example_ja": "雨はやむ気配を見せなかった。" }
+    ],
+    "warn": [
+      "relent ＋ -less（〜がない）＝ relentless（容赦のない）。relent は『折れる・ゆるむ』。",
+      "lent-（柔らかい）が語源で、「（態度が）柔らかくなる」が原義。"
+    ],
+    "etym_note": "ラテン語 lentus（柔らかい・しなやか）に re- がついた語に由来します。「（態度が）再び柔らかくなる＝折れる」が原義です。relentless（容赦のない＝折れない）と同じ語源です。",
+    "etym_chain": [
+      { "node": "lentus", "sub": "柔らかい・しなやか", "era": "ラテン語" },
+      { "node": "relenten", "sub": "和らげる", "era": "中英語" },
+      { "node": "relent", "sub": "折れる・弱まる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "finally relent", "ja": "ついに折れる" },
+      { "en": "relent and agree", "ja": "折れて同意する" },
+      { "en": "refuse to relent", "ja": "折れようとしない" },
+      { "en": "the storm relents", "ja": "嵐がおさまる" },
+      { "en": "without relenting", "ja": "ゆるめることなく" },
+      { "en": "relent under pressure", "ja": "圧力に折れる" }
+    ],
+    "related": [
+      { "en": "relentless", "ja": "容赦のない（派生語）" },
+      { "en": "give in", "ja": "折れる・屈する" },
+      { "en": "yield", "ja": "譲る" },
+      { "en": "soften", "ja": "和らげる" }
+    ],
+    "faq": [
+      { "q": "relent とはどんな意味？", "a": "『（厳しい態度を）和らげて折れる・思い直す』、また『（嵐・痛みが）弱まる』という意味です。" },
+      { "q": "relent と relentless の関係は？", "a": "relent（折れる）＋ -less（〜がない）で relentless（折れない＝容赦のない）になります。" }
+    ],
+    "quiz": [
+      { "q": "Her parents finally ___ and let her go.（折れた）", "A": "relented", "B": "relied の頼った", "C": "reduced", "D": "removed", "correct": "A" },
+      { "q": "relent に -less をつけるとどんな語になる？", "A": "relentless（容赦のない）", "B": "relentful", "C": "relentive", "D": "relentous", "correct": "A" }
+    ]
+  },
+  {
+    "english": "replete",
+    "pron": "rɪˈpliːt",
+    "kana": "リプリート",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 repletus（満たされた）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "形容詞"],
+    "meaning_main": "（replete with）〜で満ちた・〜がいっぱいの／満腹の",
+    "description": "replete の意味・発音・例文・語源を解説。replete with（〜で満ちた・〜が豊富な）という文語的な使い方を分かりやすく紹介します。",
+    "keywords": ["replete 意味", "replete 発音", "replete with 使い方", "replete 満ちた"],
+    "meanings": [
+      { "hinshi": "【形容詞】(replete with) 〜で満ちた・〜がいっぱいの", "note": "replete with errors（誤りだらけ）。" },
+      { "hinshi": "【形容詞】満腹の・満ち足りた", "note": "feel replete（満腹である）。" }
+    ],
+    "usages": [
+      { "title": "① replete with（〜で満ちた）として", "desc": "〜が豊富にある様子を表します（文語的）。", "example_en": "The book is replete with examples.", "example_ja": "その本は例で満ちている。" },
+      { "title": "② 「満腹の」として", "desc": "十分食べて満ち足りた様子を表します。", "example_en": "After the feast, we were replete.", "example_ja": "ごちそうのあと、私たちは満腹だった。" }
+    ],
+    "warn": [
+      "replete with は『〜で満ちた・〜が豊富な』という文語的な語。full of に近い。",
+      "plete-（満ちる）は complete・deplete と同じ語源。"
+    ],
+    "etym_note": "ラテン語 repletus（replere「再び満たす」の過去分詞＝満たされた）に由来します。complete・deplete・plenty と同じ ple-（満ちる）の語根です。",
+    "etym_chain": [
+      { "node": "repletus", "sub": "満たされた", "era": "ラテン語" },
+      { "node": "replete", "sub": "満ちた", "era": "中英語" },
+      { "node": "replete", "sub": "満ちた・満腹の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "replete with", "ja": "〜で満ちた・〜が豊富な" },
+      { "en": "replete with examples", "ja": "例で満ちた" },
+      { "en": "replete with detail", "ja": "細部に富んだ" },
+      { "en": "feel replete", "ja": "満腹である" },
+      { "en": "a meal that leaves you replete", "ja": "満腹になる食事" },
+      { "en": "richly replete", "ja": "豊かに満ちて" }
+    ],
+    "related": [
+      { "en": "full", "ja": "いっぱいの" },
+      { "en": "abundant", "ja": "豊富な" },
+      { "en": "packed", "ja": "詰まった" },
+      { "en": "empty", "ja": "空の（反対語）" }
+    ],
+    "faq": [
+      { "q": "replete with とは？", "a": "『〜で満ちた・〜が豊富な』という意味の文語的な表現です。full of に近いですが、よりかたい語です。" },
+      { "q": "replete の二つの意味は？", "a": "①『（replete with）〜で満ちた・〜が豊富な』と、②『満腹の・満ち足りた』です。" }
+    ],
+    "quiz": [
+      { "q": "The book is ___ with examples.（満ちた）", "A": "replete", "B": "replace の取り替える", "C": "reluctant", "D": "resilient", "correct": "A" },
+      { "q": "replete と同じ語源（満ちる）の語はどれ？", "A": "complete", "B": "river", "C": "ribbon", "D": "ripple", "correct": "A" }
+    ]
+  },
+  {
+    "english": "repose",
+    "pron": "rɪˈpoʊz",
+    "kana": "リポウズ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "ラテン語 repausare（再び休む）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "名詞"],
+    "meaning_main": "（静かな）休息・安らぎ／横たわって休む",
+    "description": "repose の意味・発音・例文・語源を解説。静かな「休息・安らぎ」という文語的な使い方や、in repose（休んで・安らかに）も紹介します。",
+    "keywords": ["repose 意味", "repose 発音", "in repose 意味", "repose 休息"],
+    "meanings": [
+      { "hinshi": "【名詞】（静かな）休息・安らぎ・静けさ", "note": "文語的。in repose（休んで・安らかに）。" },
+      { "hinshi": "【動詞】横たわって休む・身を委ねる", "note": "repose on a couch（長いすに横たわる）。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「休息・安らぎ」として", "desc": "静かな休息・落ち着きを表します（文語的）。", "example_en": "Her face was calm in repose.", "example_ja": "彼女の顔は安らかに休んで穏やかだった。" },
+      { "title": "② 動詞「横たわって休む」として", "desc": "身を委ねて休む意味です。", "example_en": "He reposed in the shade of a tree.", "example_ja": "彼は木陰で休んだ。" }
+    ],
+    "warn": [
+      "repose は文語的・かたい語。in repose は『（顔・姿が）休んだ状態で・安らかに』。",
+      "pause（休止）と同じ語源（休む）。"
+    ],
+    "etym_note": "ラテン語 repausare（re-「再び」＋ pausare「休む」＝再び休む）に由来します。pause・pose と同じ語源で、「静かに休むこと」が原義です。",
+    "etym_chain": [
+      { "node": "repausare", "sub": "再び休む", "era": "後期ラテン語" },
+      { "node": "reposer", "sub": "休む", "era": "古フランス語" },
+      { "node": "repose", "sub": "休息・横たわる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "in repose", "ja": "休んで・安らかに" },
+      { "en": "a place of repose", "ja": "安らぎの場所" },
+      { "en": "peace and repose", "ja": "平穏と安らぎ" },
+      { "en": "seek repose", "ja": "休息を求める" },
+      { "en": "repose on", "ja": "〜に横たわる" },
+      { "en": "an air of repose", "ja": "落ち着いた雰囲気" }
+    ],
+    "related": [
+      { "en": "rest", "ja": "休息" },
+      { "en": "calm", "ja": "落ち着き" },
+      { "en": "tranquility", "ja": "静けさ" },
+      { "en": "agitation", "ja": "動揺（反対概念）" }
+    ],
+    "faq": [
+      { "q": "repose とはどんな意味？", "a": "『（静かな）休息・安らぎ・落ち着き』という文語的な名詞です。動詞では『横たわって休む』を表します。" },
+      { "q": "in repose とは？", "a": "『休んだ状態で・安らかに』という意味です。Her face was beautiful in repose.（休んでいる彼女の顔は美しかった）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "Her face was calm in ___.（休んで）", "A": "repose", "B": "report の報告", "C": "respond", "D": "respect", "correct": "A" },
+      { "q": "repose と同じ語源（休む）の語はどれ？", "A": "pause", "B": "river", "C": "ribbon", "D": "ripple", "correct": "A" }
+    ]
+  }
+]
