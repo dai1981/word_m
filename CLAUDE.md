@@ -65,11 +65,11 @@ meanings 3〜5 / usages 2〜3 / phrases 6〜8 / related 3〜4 / faq 2〜3 / quiz
 
 ### 出力先・固定値
 - 出力: `word/word/{english}.html`（実サイトの `/word/word/` に対応）
-- canonical: `/word/word/{english}.html`
-- GA4: `G-MKNGEYPKNJ`、AdSense: `ca-pub-3234684892462480`、JSON-LD set URL: `https://eigo-duke.com/word/word.html`
+- canonical: `https://www.eigo-duke.com/word/word/{english}.html`
+- GA4: `G-MKNGEYPKNJ`、AdSense: `ca-pub-3234684892462480`、JSON-LD set URL: `https://www.eigo-duke.com/word/word.html`
 
 ## 注意
 - 扱う単語は **r- のみ**。s- など他の頭文字は作らないこと（s- は別リポジトリの担当）。
-- デプロイは「アップロードのみ（削除なし）」なので、同じ `/word/word/` にある s- のページを消しません。
+- デプロイは「アップロードのみ（削除なし）」なので、同じ `/word/word/` にある 他 のページを消しません。
 - `data/*.json` は追記式。過去バッチは消さないこと。
 - 内容は学習者向けの正確さを優先。名詞なら可算名詞か不可算名詞か表示
