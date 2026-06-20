@@ -1,0 +1,528 @@
+[
+  {
+    "english": "rake",
+    "pron": "reɪk",
+    "kana": "レイク",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "古英語 raca（熊手）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "もの"],
+    "meaning_main": "熊手・レーキ／（落ち葉などを）かき集める",
+    "description": "rake の意味・発音・例文・語源を解説。庭仕事の道具「熊手」や、落ち葉を「かき集める」使い方、rake in（大金を稼ぐ）も紹介します。",
+    "keywords": ["rake 意味", "rake 発音", "rake 熊手", "rake in 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】熊手・レーキ", "note": "落ち葉や土をかき集める道具。" },
+      { "hinshi": "【動詞】（熊手で）かき集める・ならす", "note": "rake the leaves（落ち葉をかき集める）。" }
+    ],
+    "usages": [
+      { "title": "① 道具・動作として", "desc": "落ち葉や土をかき集める意味です。", "example_en": "He raked the leaves in the garden.", "example_ja": "彼は庭の落ち葉をかき集めた。" },
+      { "title": "② rake in（大金を稼ぐ）として", "desc": "口語で「どっさり儲ける」を表します。", "example_en": "The movie raked in millions of dollars.", "example_ja": "その映画は何百万ドルも稼ぎ出した。" }
+    ],
+    "warn": [
+      "rake in は『（お金を）どっさり稼ぐ』、rake up は『（過去を）ほじくり返す』。",
+      "rake /reɪk/ と lake（湖）/leɪk/ は語頭の子音が違う。"
+    ],
+    "etym_note": "古英語 raca / racu（熊手）に由来する古いゲルマン系の語です。かき集める道具を表す基本語です。",
+    "etym_chain": [
+      { "node": "raca", "sub": "熊手", "era": "古英語" },
+      { "node": "rake", "sub": "熊手", "era": "中英語" },
+      { "node": "rake", "sub": "熊手・かき集める", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rake the leaves", "ja": "落ち葉をかき集める" },
+      { "en": "a garden rake", "ja": "庭用の熊手" },
+      { "en": "rake in", "ja": "（大金を）どっさり稼ぐ" },
+      { "en": "rake up the past", "ja": "過去をほじくり返す" },
+      { "en": "rake over", "ja": "（土を）ならす・蒸し返す" },
+      { "en": "as thin as a rake", "ja": "がりがりにやせて" }
+    ],
+    "related": [
+      { "en": "shovel", "ja": "シャベル" },
+      { "en": "hoe", "ja": "くわ" },
+      { "en": "gather", "ja": "集める" },
+      { "en": "garden", "ja": "庭" }
+    ],
+    "faq": [
+      { "q": "rake in とはどんな意味？", "a": "口語で『（お金を）どっさり稼ぐ・かき集める』という意味です。" },
+      { "q": "as thin as a rake とは？", "a": "『熊手のようにやせ細った＝がりがりにやせた』という意味の慣用表現です。" }
+    ],
+    "quiz": [
+      { "q": "He ___ the leaves in the garden.（かき集めた）", "A": "raked", "B": "ranked", "C": "raged", "D": "raised", "correct": "A" },
+      { "q": "「大金をどっさり稼ぐ」を表すのはどれ？", "A": "rake in", "B": "rake up", "C": "rake out", "D": "rake off のみ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ration",
+    "pron": "ˈræʃən",
+    "kana": "ラション",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "ラテン語 ratio（割り当て・計算）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "社会"],
+    "meaning_main": "（食料などの）割当・配給／配給する",
+    "description": "ration の意味・発音・例文・語源を解説。戦時などの「配給」の使い方や、ratio（比）と同じ語源、動詞「割り当てる」も分かりやすく紹介します。",
+    "keywords": ["ration 意味", "ration 発音", "ration 配給", "ration ratio 関係"],
+    "meanings": [
+      { "hinshi": "【名詞】割当量・配給", "note": "一人あたりに割り当てられる量。a daily ration（1日分の配給）。" },
+      { "hinshi": "【動詞】配給する・制限して分け与える", "note": "ration food（食料を配給制にする）。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「配給・割当」として", "desc": "限られた量を分け与えることを表します。", "example_en": "During the war, sugar was sold in small rations.", "example_ja": "戦時中、砂糖は少量ずつ配給で売られた。" },
+      { "title": "② 動詞「配給する」として", "desc": "不足したものを制限して分ける意味です。", "example_en": "They had to ration water during the drought.", "example_ja": "干ばつの間、彼らは水を配給制にしなければならなかった。" }
+    ],
+    "warn": [
+      "ration /ˈræʃən/「ラション」と rational（理性的な）は別語。語源は同じ ratio（計算・割当）。",
+      "rationing は『配給制』。"
+    ],
+    "etym_note": "ラテン語 ratio（計算・割当）に由来します。ratio（比）・rational（理性的な）と同じ語源で、「計算して割り当てられた分」が原義です。",
+    "etym_chain": [
+      { "node": "ratio", "sub": "計算・割当", "era": "ラテン語" },
+      { "node": "ration", "sub": "割当・配給", "era": "近代英語" },
+      { "node": "ration", "sub": "配給・配給する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a daily ration", "ja": "1日分の配給" },
+      { "en": "food rations", "ja": "食料の配給" },
+      { "en": "ration food", "ja": "食料を配給制にする" },
+      { "en": "on rations", "ja": "配給制で" },
+      { "en": "an emergency ration", "ja": "非常用の食料" },
+      { "en": "rationing", "ja": "配給制" }
+    ],
+    "related": [
+      { "en": "ratio", "ja": "比・割合" },
+      { "en": "allowance", "ja": "割当・手当" },
+      { "en": "portion", "ja": "一人分" },
+      { "en": "supply", "ja": "供給" }
+    ],
+    "faq": [
+      { "q": "ration とはどんな意味？", "a": "戦争や不足のときに『一人あたりに割り当てられる量（配給）』、または動詞で『（不足品を）配給制にする』という意味です。" },
+      { "q": "ration と ratio は関係ある？", "a": "はい。どちらもラテン語 ratio（計算・割当）に由来する語です。" }
+    ],
+    "quiz": [
+      { "q": "They had to ___ water during the drought.（配給制にする）", "A": "ration", "B": "ratio", "C": "rational", "D": "ratify", "correct": "A" },
+      { "q": "ration と同じ語源の語はどれ？", "A": "ratio", "B": "ribbon", "C": "river", "D": "ribbon の誤り", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rebound",
+    "pron": "動:rɪˈbaʊnd 名:ˈriːbaʊnd",
+    "kana": "リバウンド",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "古フランス語 rebondir（はね返る）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "多義語"],
+    "meaning_main": "はね返る・回復する／はね返り・リバウンド",
+    "description": "rebound の意味・発音・例文・語源を解説。ボールが「はね返る」、価格や気分が「持ち直す」使い方や、バスケの「リバウンド」も紹介します。",
+    "keywords": ["rebound 意味", "rebound 発音", "rebound 回復", "rebound リバウンド"],
+    "meanings": [
+      { "hinshi": "【動詞】はね返る・回復する", "note": "ボールがはね返る、価格・体調が持ち直す。" },
+      { "hinshi": "【名詞】はね返り・回復／（バスケの）リバウンド", "note": "a strong rebound（力強い回復）。" }
+    ],
+    "usages": [
+      { "title": "① 「はね返る・持ち直す」として", "desc": "もとに戻る・回復する意味です。", "example_en": "The economy rebounded quickly.", "example_ja": "経済はすばやく持ち直した。" },
+      { "title": "② 名詞「リバウンド」として", "desc": "はね返りや反動を表します。", "example_en": "He grabbed the rebound and scored.", "example_ja": "彼はリバウンドを取って得点した。" }
+    ],
+    "warn": [
+      "on the rebound は『（失恋などの）反動で・立ち直りかけで』。",
+      "ダイエットの『リバウンド（体重が戻る）』もこの語のイメージ。"
+    ],
+    "etym_note": "古フランス語 rebondir（re-「再び」＋ bondir「はねる」＝はね返る）に由来します。bound（はずむ）と同じ語源です。",
+    "etym_chain": [
+      { "node": "rebondir", "sub": "はね返る", "era": "古フランス語" },
+      { "node": "rebound", "sub": "はね返る", "era": "中英語" },
+      { "node": "rebound", "sub": "はね返る・回復", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rebound quickly", "ja": "すばやく持ち直す" },
+      { "en": "on the rebound", "ja": "反動で・立ち直りかけで" },
+      { "en": "a strong rebound", "ja": "力強い回復" },
+      { "en": "rebound off", "ja": "〜にはね返る" },
+      { "en": "grab a rebound", "ja": "リバウンドを取る" },
+      { "en": "bounce back", "ja": "立ち直る（類似表現）" }
+    ],
+    "related": [
+      { "en": "bounce", "ja": "はずむ" },
+      { "en": "recover", "ja": "回復する" },
+      { "en": "recoil", "ja": "はね返る・後ずさる" },
+      { "en": "spring back", "ja": "はね戻る" }
+    ],
+    "faq": [
+      { "q": "on the rebound とはどんな意味？", "a": "『（失恋などの）反動で・立ち直りかけの状態で』という意味です。" },
+      { "q": "rebound の発音・アクセントは？", "a": "動詞は後ろ（re-BOUND）、名詞は前（RE-bound）に置かれやすいです。" }
+    ],
+    "quiz": [
+      { "q": "The economy ___ quickly.（持ち直した）", "A": "rebounded", "B": "reduced", "C": "removed", "D": "refused", "correct": "A" },
+      { "q": "「反動で・立ち直りかけで」を表すのはどれ？", "A": "on the rebound", "B": "in the rebound", "C": "at the rebound", "D": "by the rebound", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reef",
+    "pron": "riːf",
+    "kana": "リーフ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "オランダ語 rif（岩礁）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "自然"],
+    "meaning_main": "岩礁・礁（しょう）・サンゴ礁",
+    "description": "reef の意味・発音・例文・語源を解説。海面近くの「岩礁・サンゴ礁」を表す語で、a coral reef（サンゴ礁）などの表現も分かりやすく紹介します。",
+    "keywords": ["reef 意味", "reef 発音", "coral reef 意味", "reef サンゴ礁"],
+    "meanings": [
+      { "hinshi": "【名詞】岩礁・礁・サンゴ礁", "note": "海面近くの岩やサンゴの連なり。a coral reef（サンゴ礁）。" }
+    ],
+    "usages": [
+      { "title": "① 「サンゴ礁・岩礁」として", "desc": "海中の岩やサンゴの連なりを表します。", "example_en": "The Great Barrier Reef is famous worldwide.", "example_ja": "グレートバリアリーフは世界的に有名だ。" },
+      { "title": "② 航海・自然の話題で", "desc": "船の危険や生態系の話で使います。", "example_en": "The ship struck a reef and sank.", "example_ja": "船は岩礁に乗り上げて沈んだ。" }
+    ],
+    "warn": [
+      "a coral reef は『サンゴ礁』。the Great Barrier Reef は『グレートバリアリーフ』（固有名・大文字）。",
+      "reef /riːf/ と leaf（葉）/liːf/ は語頭の子音が違う。"
+    ],
+    "etym_note": "オランダ語 rif / 古ノルド語 rif（岩礁・あばら）に由来します。海面近くにある岩やサンゴの連なりを表す語です。",
+    "etym_chain": [
+      { "node": "rif", "sub": "岩礁", "era": "古ノルド語" },
+      { "node": "riffe", "sub": "岩礁", "era": "中英語" },
+      { "node": "reef", "sub": "岩礁・サンゴ礁", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a coral reef", "ja": "サンゴ礁" },
+      { "en": "the Great Barrier Reef", "ja": "グレートバリアリーフ" },
+      { "en": "strike a reef", "ja": "岩礁に乗り上げる" },
+      { "en": "a reef ecosystem", "ja": "サンゴ礁の生態系" },
+      { "en": "dive on the reef", "ja": "サンゴ礁で潜る" },
+      { "en": "protect the reef", "ja": "サンゴ礁を守る" }
+    ],
+    "related": [
+      { "en": "coral", "ja": "サンゴ" },
+      { "en": "rock", "ja": "岩" },
+      { "en": "ocean", "ja": "海" },
+      { "en": "island", "ja": "島" }
+    ],
+    "faq": [
+      { "q": "a coral reef とは？", "a": "『サンゴ礁』のことです。サンゴが長い年月をかけて作る海中の構造で、多くの海の生き物のすみかになります。" },
+      { "q": "reef と leaf の発音の違いは？", "a": "reef は /riːf/「リーフ（岩礁）」、leaf は /liːf/「リーフ（葉）」で語頭の子音が違います。" }
+    ],
+    "quiz": [
+      { "q": "The Great Barrier ___ is famous worldwide.（サンゴ礁）", "A": "Reef", "B": "Leaf", "C": "Roof", "D": "Reef の誤り", "correct": "A" },
+      { "q": "「サンゴ礁」を表すのはどれ？", "A": "a coral reef", "B": "a coral roof", "C": "a coral leaf", "D": "a coral rim", "correct": "A" }
+    ]
+  },
+  {
+    "english": "refute",
+    "pron": "rɪˈfjuːt",
+    "kana": "リフュート",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 refutare（打ち返す・論破する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "反論する・論破する・反証する",
+    "description": "refute の意味・発音・例文・語源を解説。「（主張を）論破する・反証する」の使い方や、deny（否定する）との違いも分かりやすく紹介します。",
+    "keywords": ["refute 意味", "refute 発音", "refute deny 違い", "refute 論破"],
+    "meanings": [
+      { "hinshi": "【動詞】反論して論破する・反証する", "note": "証拠や論理で誤りを示す。refute an argument（議論を論破する）。" }
+    ],
+    "usages": [
+      { "title": "① 「論破する・反証する」として", "desc": "証拠で相手の主張の誤りを示す意味です。", "example_en": "The scientist refuted the theory with new data.", "example_ja": "その科学者は新しいデータでその説を反証した。" },
+      { "title": "② 「強く否定する」として", "desc": "主張をきっぱり退ける意味でも使います。", "example_en": "He refuted the accusations.", "example_ja": "彼はその非難に反論した。" }
+    ],
+    "warn": [
+      "refute は『（証拠・論理で）論破・反証する』、deny は『（事実を）否定する』。refute の方が論理的に打ち負かすニュアンス。",
+      "名詞は refutation（反論・反証）。"
+    ],
+    "etym_note": "ラテン語 refutare（re-「逆に」＋ futare「打つ」＝打ち返す）に由来します。「相手の主張を打ち返す＝論破する」が原義です。",
+    "etym_chain": [
+      { "node": "refutare", "sub": "打ち返す・論破する", "era": "ラテン語" },
+      { "node": "refute", "sub": "論破する", "era": "近代英語" },
+      { "node": "refute", "sub": "反論する・反証する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "refute an argument", "ja": "議論を論破する" },
+      { "en": "refute a claim", "ja": "主張に反証する" },
+      { "en": "refute a theory", "ja": "説を反証する" },
+      { "en": "easily refute", "ja": "簡単に論破する" },
+      { "en": "refute the allegations", "ja": "申し立てに反論する" },
+      { "en": "fail to refute", "ja": "反論できない" }
+    ],
+    "related": [
+      { "en": "refutation", "ja": "反論・反証（名詞）" },
+      { "en": "deny", "ja": "否定する" },
+      { "en": "disprove", "ja": "反証する" },
+      { "en": "prove", "ja": "証明する（反対概念）" }
+    ],
+    "faq": [
+      { "q": "refute と deny の違いは？", "a": "deny は『（事実を）否定する・認めない』、refute は『（証拠・論理で）論破・反証する』です。refute の方が論理的に打ち負かすニュアンスがあります。" },
+      { "q": "refute の名詞形は？", "a": "refutation（反論・反証）です。" }
+    ],
+    "quiz": [
+      { "q": "The scientist ___ the theory with new data.（反証した）", "A": "refuted", "B": "refused", "C": "reduced", "D": "removed", "correct": "A" },
+      { "q": "refute と最も近い意味はどれ？", "A": "disprove", "B": "prove", "C": "accept", "D": "agree", "correct": "A" }
+    ]
+  },
+  {
+    "english": "relish",
+    "pron": "ˈrelɪʃ",
+    "kana": "レリッシュ",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "古フランス語 reles（残り味・風味）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "感情"],
+    "meaning_main": "（大いに）楽しむ・味わう／楽しみ・薬味",
+    "description": "relish の意味・発音・例文・語源を解説。「大いに楽しむ・味わう」の使い方や、薬味の「レリッシュ」の意味も分かりやすく紹介します。",
+    "keywords": ["relish 意味", "relish 発音", "relish 楽しむ", "relish 薬味"],
+    "meanings": [
+      { "hinshi": "【動詞】（大いに）楽しむ・味わう", "note": "心から楽しむ。relish a challenge（挑戦を楽しむ）。" },
+      { "hinshi": "【名詞】楽しみ・喜び／薬味・レリッシュ", "note": "with relish（おいしそうに・喜んで）。" }
+    ],
+    "usages": [
+      { "title": "① 「大いに楽しむ・味わう」として", "desc": "心から楽しむ意味です。", "example_en": "She relished the chance to travel abroad.", "example_ja": "彼女は海外旅行の機会を大いに楽しんだ。" },
+      { "title": "② with relish として", "desc": "「おいしそうに・喜んで」を表します。", "example_en": "He ate the meal with relish.", "example_ja": "彼はその食事をおいしそうに食べた。" }
+    ],
+    "warn": [
+      "relish doing / relish the idea of（〜を楽しみにする）。with relish は『喜んで・おいしそうに』。",
+      "名詞の relish には『（ピクルスなどの）薬味』の意味もある。"
+    ],
+    "etym_note": "古フランス語 reles（残り味・あと味。relaisser「残す」から）に由来します。もとは『あとに残る味＝風味』で、そこから『（味わって）楽しむ』になりました。",
+    "etym_chain": [
+      { "node": "reles", "sub": "残り味・風味", "era": "古フランス語" },
+      { "node": "relish", "sub": "風味・楽しみ", "era": "中英語" },
+      { "node": "relish", "sub": "楽しむ・薬味", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "with relish", "ja": "喜んで・おいしそうに" },
+      { "en": "relish a challenge", "ja": "挑戦を楽しむ" },
+      { "en": "relish the idea", "ja": "その考えを楽しみにする" },
+      { "en": "not relish", "ja": "〜を気が進まなく思う" },
+      { "en": "relish every moment", "ja": "一瞬一瞬を味わう" },
+      { "en": "eat with relish", "ja": "おいしそうに食べる" }
+    ],
+    "related": [
+      { "en": "enjoy", "ja": "楽しむ" },
+      { "en": "savor", "ja": "味わう" },
+      { "en": "delight", "ja": "喜ぶ" },
+      { "en": "dread", "ja": "恐れる（反対概念）" }
+    ],
+    "faq": [
+      { "q": "with relish とはどんな意味？", "a": "『喜んで・おいしそうに・大いに楽しんで』という意味です。He told the story with relish.（彼は嬉々として話した）のように使います。" },
+      { "q": "relish に『薬味』の意味もある？", "a": "はい。名詞で『（ピクルスなどの）薬味・付け合わせ』の意味もあります。" }
+    ],
+    "quiz": [
+      { "q": "She ___ the chance to travel abroad.（大いに楽しんだ）", "A": "relished", "B": "refused", "C": "reduced", "D": "removed", "correct": "A" },
+      { "q": "「喜んで・おいしそうに」を表すのはどれ？", "A": "with relish", "B": "with reliance", "C": "with relief のみ", "D": "with relay", "correct": "A" }
+    ]
+  },
+  {
+    "english": "remorse",
+    "pron": "rɪˈmɔːrs",
+    "kana": "リモース",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 remordere（深くかむ→良心が痛む）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "感情"],
+    "meaning_main": "深い後悔・自責の念",
+    "description": "remorse の意味・発音・例文・語源を解説。「（罪への）深い後悔・自責の念」の使い方や、regret との違い、語源「良心がかむ」も紹介します。",
+    "keywords": ["remorse 意味", "remorse 発音", "remorse regret 違い", "remorse 後悔"],
+    "meanings": [
+      { "hinshi": "【名詞】深い後悔・自責の念", "note": "悪いことをしたことへの強い後悔。feel remorse（後悔する）。" }
+    ],
+    "usages": [
+      { "title": "① 「自責の念・深い後悔」として", "desc": "罪悪感を伴う強い後悔を表します。", "example_en": "He felt deep remorse for what he had done.", "example_ja": "彼は自分のしたことを深く後悔した。" },
+      { "title": "② without remorse として", "desc": "「良心の呵責なく」を表します。", "example_en": "She lied without remorse.", "example_ja": "彼女は良心の呵責もなくうそをついた。" }
+    ],
+    "warn": [
+      "remorse は『（道徳的な罪への）深い自責の念』。regret はより一般的な『後悔・残念』。",
+      "形容詞は remorseful（自責の念にかられた）/ remorseless（無慈悲な）。"
+    ],
+    "etym_note": "ラテン語 remordere（re-「強意」＋ mordere「かむ」＝深くかむ）に由来します。「良心が（心を）かむ＝自責の念」が原義です。",
+    "etym_chain": [
+      { "node": "remordere", "sub": "深くかむ", "era": "ラテン語" },
+      { "node": "remors", "sub": "良心の呵責", "era": "古フランス語" },
+      { "node": "remorse", "sub": "深い後悔・自責の念", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "feel remorse", "ja": "自責の念を感じる" },
+      { "en": "deep remorse", "ja": "深い後悔" },
+      { "en": "without remorse", "ja": "良心の呵責もなく" },
+      { "en": "show remorse", "ja": "反省の色を見せる" },
+      { "en": "be filled with remorse", "ja": "自責の念でいっぱいだ" },
+      { "en": "a pang of remorse", "ja": "良心の痛み" }
+    ],
+    "related": [
+      { "en": "regret", "ja": "後悔" },
+      { "en": "guilt", "ja": "罪悪感" },
+      { "en": "remorseful", "ja": "自責の念にかられた" },
+      { "en": "shame", "ja": "恥・羞恥" }
+    ],
+    "faq": [
+      { "q": "remorse と regret の違いは？", "a": "regret は一般的な『後悔・残念に思う気持ち』、remorse は『（道徳的な過ちへの）深い自責の念・良心の呵責』です。" },
+      { "q": "without remorse とは？", "a": "『良心の呵責もなく・平然と』という意味です。" }
+    ],
+    "quiz": [
+      { "q": "He felt deep ___ for what he had done.（自責の念）", "A": "remorse", "B": "reverse", "C": "resource", "D": "response", "correct": "A" },
+      { "q": "remorse より一般的な『後悔』を表すのはどれ？", "A": "regret", "B": "remark", "C": "remind", "D": "remove", "correct": "A" }
+    ]
+  },
+  {
+    "english": "resent",
+    "pron": "rɪˈzent",
+    "kana": "リゼント",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "フランス語 ressentir（強く感じる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "感情"],
+    "meaning_main": "腹を立てる・憤慨する・不快に思う",
+    "description": "resent の意味・発音・例文・語源を解説。不当な扱いに「腹を立てる・恨む」使い方や、名詞 resentment も分かりやすく紹介します。",
+    "keywords": ["resent 意味", "resent 発音", "resentment 意味", "resent 腹を立てる"],
+    "meanings": [
+      { "hinshi": "【動詞】（不当だと）腹を立てる・憤慨する", "note": "不公平な扱いを不快に思い恨む。resent being treated unfairly。" }
+    ],
+    "usages": [
+      { "title": "① 「腹を立てる・不快に思う」として", "desc": "不当な扱いをうらみに思う意味です。", "example_en": "She resented his rude comment.", "example_ja": "彼女は彼の失礼な発言に腹を立てた。" },
+      { "title": "② resent doing として", "desc": "あとに動名詞を続けて使います。", "example_en": "He resented being told what to do.", "example_ja": "彼は指図されることを不快に思った。" }
+    ],
+    "warn": [
+      "resent のあとは動名詞（resent doing）。to do は続けない。",
+      "present（贈り物・現在）と似ているが別語。名詞は resentment（憤り・恨み）。"
+    ],
+    "etym_note": "フランス語 ressentir（re-「強意」＋ sentir「感じる」＝強く感じる）に由来します。sense・sentiment と同じ sent-（感じる）の語根で、「（不快を）強く感じる」が原義です。",
+    "etym_chain": [
+      { "node": "ressentir", "sub": "強く感じる", "era": "フランス語" },
+      { "node": "resent", "sub": "憤慨する", "era": "近代英語" },
+      { "node": "resent", "sub": "腹を立てる・恨む", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "resent doing", "ja": "〜を不快に思う" },
+      { "en": "deeply resent", "ja": "深く恨む" },
+      { "en": "resent being told", "ja": "言われることに腹を立てる" },
+      { "en": "feel resentment", "ja": "憤りを感じる" },
+      { "en": "bitterly resent", "ja": "ひどく恨む" },
+      { "en": "resent the intrusion", "ja": "立ち入りを不快に思う" }
+    ],
+    "related": [
+      { "en": "resentment", "ja": "憤り・恨み（名詞）" },
+      { "en": "resentful", "ja": "憤慨した" },
+      { "en": "dislike", "ja": "嫌う" },
+      { "en": "begrudge", "ja": "ねたむ・出し惜しむ" }
+    ],
+    "faq": [
+      { "q": "resent のあとの動詞の形は？", "a": "動名詞（-ing）です。I resent being ignored.（無視されるのが不快だ）のように使います。" },
+      { "q": "resent の名詞形は？", "a": "resentment（憤り・恨み）です。" }
+    ],
+    "quiz": [
+      { "q": "She ___ his rude comment.（腹を立てた）", "A": "resented", "B": "presented の贈り物", "C": "reduced", "D": "removed", "correct": "A" },
+      { "q": "resent の名詞形はどれ？", "A": "resentment", "B": "resentance", "C": "resention", "D": "resentness", "correct": "A" }
+    ]
+  },
+  {
+    "english": "resilient",
+    "pron": "rɪˈzɪliənt",
+    "kana": "リジリエント",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 resilire（はね返る）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "形容詞"],
+    "meaning_main": "回復力のある・立ち直りが早い・弾力のある",
+    "description": "resilient の意味・発音・例文・語源を解説。困難から「立ち直りが早い」人や、「弾力のある」素材の使い方、名詞 resilience も紹介します。",
+    "keywords": ["resilient 意味", "resilient 発音", "resilience 意味", "resilient 回復力"],
+    "meanings": [
+      { "hinshi": "【形容詞】回復力のある・立ち直りが早い", "note": "困難から元気に立ち直る。a resilient person（打たれ強い人）。" },
+      { "hinshi": "【形容詞】（素材が）弾力のある・元に戻る", "note": "押されても元の形に戻る。" }
+    ],
+    "usages": [
+      { "title": "① 「立ち直りが早い」として", "desc": "困難からすぐに回復する性質を表します。", "example_en": "Children are often very resilient.", "example_ja": "子どもはたいてい立ち直りが早い。" },
+      { "title": "② 「弾力のある」として", "desc": "押しても元に戻る素材を表します。", "example_en": "The material is strong and resilient.", "example_ja": "その素材は丈夫で弾力がある。" }
+    ],
+    "warn": [
+      "名詞は resilience（回復力・弾力性・レジリエンス）。近年ビジネス・心理で頻出。",
+      "語源はラテン語 resilire（はね返る）。rebound（はね返る）と似たイメージ。"
+    ],
+    "etym_note": "ラテン語 resilire（re-「再び」＋ salire「跳ぶ」＝はね返る）に由来します。「（困難から）はね返って戻る」が原義で、result・salmon と同じ sal-（跳ぶ）の語根です。",
+    "etym_chain": [
+      { "node": "resilire", "sub": "はね返る", "era": "ラテン語" },
+      { "node": "resilient", "sub": "はね返る・弾力ある", "era": "近代英語" },
+      { "node": "resilient", "sub": "回復力のある", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a resilient person", "ja": "打たれ強い人" },
+      { "en": "a resilient economy", "ja": "回復力のある経済" },
+      { "en": "emotionally resilient", "ja": "精神的に打たれ強い" },
+      { "en": "strong and resilient", "ja": "丈夫で弾力のある" },
+      { "en": "build resilience", "ja": "回復力を養う" },
+      { "en": "remain resilient", "ja": "立ち直る力を保つ" }
+    ],
+    "related": [
+      { "en": "resilience", "ja": "回復力（名詞）" },
+      { "en": "tough", "ja": "丈夫な・打たれ強い" },
+      { "en": "flexible", "ja": "柔軟な" },
+      { "en": "fragile", "ja": "もろい（反対語）" }
+    ],
+    "faq": [
+      { "q": "resilient の名詞形は？", "a": "resilience（回復力・弾力性）です。近年は『レジリエンス』とカタカナでも使われます。" },
+      { "q": "resilient はどんな人に使う？", "a": "つらい経験や失敗から『すぐに立ち直る・打たれ強い』人に使います。" }
+    ],
+    "quiz": [
+      { "q": "Children are often very ___.（立ち直りが早い）", "A": "resilient", "B": "reluctant", "C": "rigorous", "D": "ridiculous", "correct": "A" },
+      { "q": "resilient の名詞形はどれ？", "A": "resilience", "B": "resiliment", "C": "resiliation", "D": "resilientness", "correct": "A" }
+    ]
+  },
+  {
+    "english": "revival",
+    "pron": "rɪˈvaɪvəl",
+    "kana": "リバイバル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "revive（生き返らせる）＋ -al",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "名詞"],
+    "meaning_main": "復活・再生・復興／リバイバル",
+    "description": "revival の意味・発音・例文・語源を解説。流行や経済の「復活・再生」の使い方や、動詞 revive との関係も分かりやすく紹介します。",
+    "keywords": ["revival 意味", "revival 発音", "revive revival 関係", "revival リバイバル"],
+    "meanings": [
+      { "hinshi": "【名詞】復活・再生・復興", "note": "再び盛んになること。an economic revival（経済の復興）。" },
+      { "hinshi": "【名詞】（劇・流行の）再演・リバイバル", "note": "a revival of a musical（ミュージカルの再演）。" }
+    ],
+    "usages": [
+      { "title": "① 「復活・再生」として", "desc": "再び盛んになることを表します。", "example_en": "There has been a revival of interest in folk music.", "example_ja": "民族音楽への関心の再燃があった。" },
+      { "title": "② 「再演・リバイバル」として", "desc": "古い作品・流行が再び現れることを表します。", "example_en": "The play is a revival of a 1950s classic.", "example_ja": "その劇は1950年代の名作の再演だ。" }
+    ],
+    "warn": [
+      "動詞は revive（生き返らせる・復活させる）。a revival of＋名詞（〜の復活）。",
+      "日本語の『リバイバル（再上映・再流行）』もこの語。"
+    ],
+    "etym_note": "動詞 revive（生き返らせる。ラテン語 revivere「再び生きる」から）に名詞をつくる -al がついた語で、「再び生きること＝復活」が原義です。revive・survive と同じ語源です。",
+    "etym_chain": [
+      { "node": "revivere", "sub": "再び生きる", "era": "ラテン語" },
+      { "node": "revive", "sub": "生き返らせる", "era": "中英語" },
+      { "node": "revival", "sub": "復活・再生", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a revival of", "ja": "〜の復活・再燃" },
+      { "en": "an economic revival", "ja": "経済の復興" },
+      { "en": "a cultural revival", "ja": "文化の復興" },
+      { "en": "a revival of interest", "ja": "関心の再燃" },
+      { "en": "religious revival", "ja": "信仰復興運動" },
+      { "en": "stage a revival", "ja": "再演する" }
+    ],
+    "related": [
+      { "en": "revive", "ja": "生き返らせる（動詞）" },
+      { "en": "recovery", "ja": "回復" },
+      { "en": "comeback", "ja": "復活・返り咲き" },
+      { "en": "decline", "ja": "衰退（反対語）" }
+    ],
+    "faq": [
+      { "q": "revival の動詞形は？", "a": "revive（生き返らせる・復活させる）です。" },
+      { "q": "a revival of interest とは？", "a": "『（一度薄れた）関心の再燃・再び高まること』という意味です。" }
+    ],
+    "quiz": [
+      { "q": "There has been a ___ of interest in folk music.（再燃）", "A": "revival", "B": "reversal", "C": "removal", "D": "renewal の語感違い", "correct": "A" },
+      { "q": "revival の動詞形はどれ？", "A": "revive", "B": "revise", "C": "reverse", "D": "review", "correct": "A" }
+    ]
+  }
+]
