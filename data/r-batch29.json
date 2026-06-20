@@ -1,0 +1,55 @@
+[
+  {
+    "english": "retort",
+    "pron": "rɪˈtɔːrt",
+    "kana": "リトート",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "ラテン語 retorquere（ねじ返す・言い返す）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "感情"],
+    "meaning_main": "（鋭く・とっさに）言い返す／鋭い返答",
+    "description": "retort の意味・発音・例文・語源を解説。批判やからかいに「すばやく言い返す」使い方や、reply との違いも分かりやすく紹介します。",
+    "keywords": ["retort 意味", "retort 発音", "retort reply 違い", "retort 言い返す"],
+    "meanings": [
+      { "hinshi": "【動詞】（鋭く・とっさに）言い返す・やり返す", "note": "批判や皮肉にすばやく反論する。" },
+      { "hinshi": "【名詞】鋭い返答・しっぺ返しの言葉", "note": "a sharp retort（鋭い言い返し）。" }
+    ],
+    "usages": [
+      { "title": "① 動詞「言い返す」として", "desc": "とっさに鋭く反論する意味です。", "example_en": "\"That's none of your business,\" she retorted.", "example_ja": "「あなたには関係ない」と彼女は言い返した。" },
+      { "title": "② 名詞「鋭い返答」として", "desc": "すばやい反論の言葉を表します。", "example_en": "He had a quick retort ready.", "example_ja": "彼はすばやい言い返しを用意していた。" }
+    ],
+    "warn": [
+      "retort は『（批判・皮肉に）鋭くとっさに言い返す』。reply / answer は中立的な『返答』。",
+      "発音は /rɪˈtɔːrt/「リトート」。"
+    ],
+    "etym_note": "ラテン語 retorquere（re-「逆に」＋ torquere「ねじる」＝ねじ返す）に由来します。torture・distort と同じ tort-（ねじる）の語根で、「相手の言葉をねじり返す＝言い返す」が原義です。",
+    "etym_chain": [
+      { "node": "retorquere", "sub": "ねじ返す", "era": "ラテン語" },
+      { "node": "retort", "sub": "言い返す", "era": "近代英語" },
+      { "node": "retort", "sub": "鋭く言い返す・鋭い返答", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a sharp retort", "ja": "鋭い言い返し" },
+      { "en": "a quick retort", "ja": "すばやい返答" },
+      { "en": "retort angrily", "ja": "怒って言い返す" },
+      { "en": "an angry retort", "ja": "怒りの反論" },
+      { "en": "snap back a retort", "ja": "ぴしゃりと言い返す" },
+      { "en": "a witty retort", "ja": "気のきいた切り返し" }
+    ],
+    "related": [
+      { "en": "reply", "ja": "返事をする" },
+      { "en": "respond", "ja": "応答する" },
+      { "en": "snap", "ja": "ぴしゃりと言う" },
+      { "en": "counter", "ja": "反論する" }
+    ],
+    "faq": [
+      { "q": "retort と reply の違いは？", "a": "reply は中立的な『返事をする』、retort は『（批判・皮肉に）鋭くとっさに言い返す』というニュアンスです。" },
+      { "q": "a sharp retort とは？", "a": "『鋭い言い返し・痛烈な切り返しの言葉』という意味です。" }
+    ],
+    "quiz": [
+      { "q": "\"That's none of your business,\" she ___.（言い返した）", "A": "retorted", "B": "reported の報告", "C": "remained", "D": "removed", "correct": "A" },
+      { "q": "retort と最も意味が近いのはどれ？", "A": "snap back", "B": "agree", "C": "ask", "D": "thank", "correct": "A" }
+    ]
+  }
+]

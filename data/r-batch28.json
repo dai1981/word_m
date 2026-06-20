@@ -1,0 +1,477 @@
+[
+  {
+    "english": "radius",
+    "pron": "ˈreɪdiəs",
+    "kana": "レイディアス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 radius（光線・車輪の輻）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "数学"],
+    "meaning_main": "半径／（一定の）範囲",
+    "description": "radius の意味・発音・例文・語源を解説。円の「半径」（直径 diameter との違い）や、「（〜の範囲）」の使い方、複数形 radii も紹介します。",
+    "keywords": ["radius 意味", "radius 発音", "radius diameter 違い", "radius 複数形"],
+    "meanings": [
+      { "hinshi": "【名詞】半径", "note": "円の中心から円周までの距離。diameter（直径）の半分。" },
+      { "hinshi": "【名詞】（中心から一定の）範囲", "note": "within a radius of 5 km（半径5km以内）。" }
+    ],
+    "usages": [
+      { "title": "① 数学の「半径」として", "desc": "円の中心から円周までの距離です。", "example_en": "The radius of the circle is 5 cm.", "example_ja": "その円の半径は5センチだ。" },
+      { "title": "② 「範囲」として", "desc": "中心からの一定の距離を表します。", "example_en": "There are no shops within a radius of 10 km.", "example_ja": "半径10キロ以内に店がない。" }
+    ],
+    "warn": [
+      "複数形は radii /ˈreɪdiaɪ/「レイディアイ」（ラテン語系の特殊な複数形）。radiuses も可。",
+      "radius（半径）は diameter（直径）の半分。radio・ray と同じ語源。"
+    ],
+    "etym_note": "ラテン語 radius（光線・車輪の輻（や））に由来します。「中心から放射状に伸びるもの」が原義で、radio・ray・radiation と同じ語源です。",
+    "etym_chain": [
+      { "node": "radius", "sub": "光線・車輪の輻", "era": "ラテン語" },
+      { "node": "radius", "sub": "半径", "era": "近代英語" },
+      { "node": "radius", "sub": "半径・範囲", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the radius of a circle", "ja": "円の半径" },
+      { "en": "within a radius of", "ja": "半径〜以内に" },
+      { "en": "a 10 km radius", "ja": "半径10キロの範囲" },
+      { "en": "a wide radius", "ja": "広い範囲" },
+      { "en": "the turning radius", "ja": "回転半径" },
+      { "en": "radii (複数形)", "ja": "半径（複数）" }
+    ],
+    "related": [
+      { "en": "diameter", "ja": "直径" },
+      { "en": "circle", "ja": "円" },
+      { "en": "circumference", "ja": "円周" },
+      { "en": "range", "ja": "範囲" }
+    ],
+    "faq": [
+      { "q": "radius と diameter の違いは？", "a": "radius は『半径（中心から円周まで）』、diameter は『直径（円を貫く長さ）』です。直径は半径の2倍です。" },
+      { "q": "radius の複数形は？", "a": "radii /ˈreɪdiaɪ/ です。ラテン語系の特殊な複数形ですが、radiuses も使われます。" }
+    ],
+    "quiz": [
+      { "q": "The ___ of the circle is 5 cm.（半径）", "A": "radius", "B": "diameter の直径", "C": "radio", "D": "ratio", "correct": "A" },
+      { "q": "radius の複数形はどれ？", "A": "radii", "B": "radiums", "C": "radioes", "D": "radia", "correct": "A" }
+    ]
+  },
+  {
+    "english": "raft",
+    "pron": "ræft",
+    "kana": "ラフト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古ノルド語 raptr（丸太）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "もの"],
+    "meaning_main": "いかだ・ゴムボート／（a raft of）多数の",
+    "description": "raft の意味・発音・例文・語源を解説。川を下る「いかだ・ゴムボート」や、a raft of（多数の）という口語表現も分かりやすく紹介します。",
+    "keywords": ["raft 意味", "raft 発音", "raft いかだ", "a raft of 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】いかだ・ゴムボート", "note": "水に浮かべて進む簡単な舟。a rubber raft（ゴムボート）。" },
+      { "hinshi": "【名詞】(a raft of) 多数の・大量の", "note": "口語。a raft of problems（山ほどの問題）。" }
+    ],
+    "usages": [
+      { "title": "① 「いかだ・ゴムボート」として", "desc": "川下りや水遊びに使う舟を表します。", "example_en": "They crossed the river on a raft.", "example_ja": "彼らはいかだで川を渡った。" },
+      { "title": "② a raft of（多数の）として", "desc": "口語で「たくさんの」を表します。", "example_en": "The new law brought a raft of changes.", "example_ja": "新しい法律は数多くの変化をもたらした。" }
+    ],
+    "warn": [
+      "a raft of は『山ほどの・多数の』という口語表現。",
+      "white-water rafting は『急流下り（ラフティング）』。"
+    ],
+    "etym_note": "古ノルド語 raptr（丸太・垂木）に由来します。丸太を組んで作った舟が原義です。rafter（垂木）と同じ語源です。",
+    "etym_chain": [
+      { "node": "raptr", "sub": "丸太・垂木", "era": "古ノルド語" },
+      { "node": "raft", "sub": "いかだ", "era": "中英語" },
+      { "node": "raft", "sub": "いかだ・多数の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "cross on a raft", "ja": "いかだで渡る" },
+      { "en": "a rubber raft", "ja": "ゴムボート" },
+      { "en": "a life raft", "ja": "救命いかだ" },
+      { "en": "white-water rafting", "ja": "急流下り" },
+      { "en": "a raft of", "ja": "山ほどの・多数の" },
+      { "en": "build a raft", "ja": "いかだを作る" }
+    ],
+    "related": [
+      { "en": "boat", "ja": "ボート" },
+      { "en": "float", "ja": "浮かぶ" },
+      { "en": "canoe", "ja": "カヌー" },
+      { "en": "rafting", "ja": "ラフティング" }
+    ],
+    "faq": [
+      { "q": "a raft of とはどんな意味？", "a": "口語で『山ほどの・多数の』という意味です。a whole raft of questions（山ほどの質問）のように使います。" },
+      { "q": "white-water rafting とは？", "a": "ゴムボートで急流を下るアウトドアスポーツ『ラフティング』のことです。" }
+    ],
+    "quiz": [
+      { "q": "They crossed the river on a ___.（いかだ）", "A": "raft", "B": "raft の誤形 raff", "C": "reef", "D": "roof", "correct": "A" },
+      { "q": "「山ほどの・多数の」を表すのはどれ？", "A": "a raft of", "B": "a reef of", "C": "a roof of", "D": "a rim of", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rebuild",
+    "pron": "ˌriːˈbɪld",
+    "kana": "リービルド",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ build（建てる）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "基本動詞"],
+    "meaning_main": "再建する・建て直す・立て直す",
+    "description": "rebuild の意味・発音・例文・語源を解説。建物の「再建」や信頼・チームの「立て直し」の使い方、活用 rebuild-rebuilt も分かりやすく紹介します。",
+    "keywords": ["rebuild 意味", "rebuild 発音", "rebuilt 活用", "rebuild 再建"],
+    "meanings": [
+      { "hinshi": "【動詞】再建する・建て直す", "note": "壊れたものをもう一度建てる。rebuild a house（家を建て直す）。" },
+      { "hinshi": "【動詞】（信頼・組織を）立て直す", "note": "rebuild trust（信頼を取り戻す）。" }
+    ],
+    "usages": [
+      { "title": "① 「再建する・建て直す」として", "desc": "壊れた建物などをもう一度建てる意味です。", "example_en": "They rebuilt the town after the earthquake.", "example_ja": "彼らは地震のあと町を再建した。" },
+      { "title": "② 「立て直す」として", "desc": "信頼・チームなどを立て直す意味です。", "example_en": "It takes time to rebuild trust.", "example_ja": "信頼を取り戻すには時間がかかる。" }
+    ],
+    "warn": [
+      "活用は build と同じく不規則：rebuild – rebuilt – rebuilt。",
+      "re-（再び）＋ build（建てる）の構成。"
+    ],
+    "etym_note": "接頭辞 re-（再び）と build（建てる）を組み合わせた語で、「もう一度建てる＝再建する」が原義です。build と同じ語源です。",
+    "etym_chain": [
+      { "node": "build", "sub": "建てる", "era": "古英語系" },
+      { "node": "re- + build", "sub": "再び建てる", "era": "中英語" },
+      { "node": "rebuild", "sub": "再建する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rebuild a house", "ja": "家を建て直す" },
+      { "en": "rebuild a city", "ja": "都市を再建する" },
+      { "en": "rebuild trust", "ja": "信頼を取り戻す" },
+      { "en": "rebuild one's life", "ja": "人生を立て直す" },
+      { "en": "rebuild the team", "ja": "チームを立て直す" },
+      { "en": "rebuild from scratch", "ja": "ゼロから作り直す" }
+    ],
+    "related": [
+      { "en": "build", "ja": "建てる" },
+      { "en": "reconstruct", "ja": "再建・復元する" },
+      { "en": "restore", "ja": "修復する" },
+      { "en": "destroy", "ja": "破壊する（反対語）" }
+    ],
+    "faq": [
+      { "q": "rebuild の活用は？", "a": "rebuild – rebuilt – rebuilt と不規則変化します。build – built – built と同じパターンです。" },
+      { "q": "rebuild は建物以外にも使う？", "a": "はい。信頼（rebuild trust）、チーム、人生など、抽象的なものを『立て直す』意味でも使います。" }
+    ],
+    "quiz": [
+      { "q": "They ___ the town after the earthquake.（再建した）", "A": "rebuilt", "B": "rebuilded", "C": "rebuild", "D": "rebuilding のみ", "correct": "A" },
+      { "q": "rebuild は build に何がついた語？", "A": "re-（再び）", "B": "un-（否定）", "C": "dis-（否定）", "D": "over-（過度）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recess",
+    "pron": "ˈriːses",
+    "kana": "リーセス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 recessus（後退・引っ込み）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "多義語"],
+    "meaning_main": "休み・休憩／（議会の）休会／くぼみ・奥まった所",
+    "description": "recess の意味・発音・例文・語源を解説。アメリカの学校の「休み時間」や、議会の「休会」、壁の「くぼみ」の意味も分かりやすく紹介します。",
+    "keywords": ["recess 意味", "recess 発音", "recess 休み時間", "recess 休会"],
+    "meanings": [
+      { "hinshi": "【名詞】（米）休み時間・休憩", "note": "学校の休み時間。during recess（休み時間に）。" },
+      { "hinshi": "【名詞】（議会などの）休会", "note": "Congress is in recess.（議会は休会中だ）。" },
+      { "hinshi": "【名詞】くぼみ・奥まった所", "note": "壁のへこみや奥まった場所。" }
+    ],
+    "usages": [
+      { "title": "① 「休み時間」として", "desc": "（米）学校の休憩時間を表します。", "example_en": "The children play outside during recess.", "example_ja": "子どもたちは休み時間に外で遊ぶ。" },
+      { "title": "② 「休会」として", "desc": "議会や法廷の休みを表します。", "example_en": "The court is in recess until tomorrow.", "example_ja": "法廷は明日まで休廷だ。" }
+    ],
+    "warn": [
+      "『休み時間』はおもにアメリカ英語。イギリスでは break。",
+      "recess（休み・休会・くぼみ）と recession（景気後退）は別語だが同じ語源。"
+    ],
+    "etym_note": "ラテン語 recessus（後退・引っ込み。recedere「退く」から）に由来します。recede・recession と同じ語源で、「（一時）退くこと＝休み・くぼみ」が原義です。",
+    "etym_chain": [
+      { "node": "recessus", "sub": "後退・引っ込み", "era": "ラテン語" },
+      { "node": "recess", "sub": "引っ込み・休み", "era": "近代英語" },
+      { "node": "recess", "sub": "休み・休会・くぼみ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "during recess", "ja": "休み時間に" },
+      { "en": "be in recess", "ja": "休会中である" },
+      { "en": "a lunch recess", "ja": "昼休み" },
+      { "en": "the summer recess", "ja": "夏季休会" },
+      { "en": "a wall recess", "ja": "壁のくぼみ" },
+      { "en": "the inner recesses", "ja": "奥深い所" }
+    ],
+    "related": [
+      { "en": "break", "ja": "休憩（英）" },
+      { "en": "recession", "ja": "後退・不況" },
+      { "en": "intermission", "ja": "（劇などの）休憩" },
+      { "en": "alcove", "ja": "（壁の）くぼみ" }
+    ],
+    "faq": [
+      { "q": "recess の『休み時間』はどこの英語？", "a": "おもにアメリカ英語です。イギリスでは break（休み時間）を使います。" },
+      { "q": "be in recess とは？", "a": "『休会中である』という意味です。議会や法廷が一時休みになっていることを表します。" }
+    ],
+    "quiz": [
+      { "q": "The children play outside during ___.（休み時間）", "A": "recess", "B": "recede", "C": "recover", "D": "receive", "correct": "A" },
+      { "q": "「休会中である」を表すのはどれ？", "A": "be in recess", "B": "be on recess", "C": "be at recess", "D": "be by recess", "correct": "A" }
+    ]
+  },
+  {
+    "english": "redundant",
+    "pron": "rɪˈdʌndənt",
+    "kana": "リダンダント",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 redundare（あふれる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "形容詞"],
+    "meaning_main": "余分な・冗長な／（英）解雇された",
+    "description": "redundant の意味・発音・例文・語源を解説。「余分な・くどい」の使い方や、イギリス英語の「（人員が）余って解雇された」も分かりやすく紹介します。",
+    "keywords": ["redundant 意味", "redundant 発音", "redundant 冗長", "made redundant 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】余分な・冗長な・不要な", "note": "なくてもよい・重複している。a redundant word（余計な語）。" },
+      { "hinshi": "【形容詞】（英）（人員過剰で）解雇された", "note": "be made redundant（人員整理で解雇される）。" }
+    ],
+    "usages": [
+      { "title": "① 「余分な・冗長な」として", "desc": "なくてもよい重複したものを表します。", "example_en": "Avoid redundant words in your writing.", "example_ja": "文章では余計な言葉を避けなさい。" },
+      { "title": "② （英）「解雇された」として", "desc": "人員が余って職を失う意味です。", "example_en": "Hundreds of workers were made redundant.", "example_ja": "何百人もの労働者が人員整理で解雇された。" }
+    ],
+    "warn": [
+      "be made redundant は『（人員整理で）解雇される』（英）。名詞は redundancy（冗長・人員整理）。",
+      "アメリカでは『解雇』は lay off を使うことが多い。"
+    ],
+    "etym_note": "ラテン語 redundare（red-「再び」＋ unda「波」＝あふれ返る）に由来します。「あふれて余っている＝余分な」が原義です。abound（あふれる）と同じ語源です。",
+    "etym_chain": [
+      { "node": "redundare", "sub": "あふれる", "era": "ラテン語" },
+      { "node": "redundant", "sub": "あふれた・余分な", "era": "近代英語" },
+      { "node": "redundant", "sub": "余分な・冗長な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a redundant word", "ja": "余計な語" },
+      { "en": "become redundant", "ja": "不要になる" },
+      { "en": "be made redundant", "ja": "（人員整理で）解雇される" },
+      { "en": "redundant information", "ja": "重複した情報" },
+      { "en": "largely redundant", "ja": "ほとんど不要な" },
+      { "en": "redundancy", "ja": "冗長・人員整理" }
+    ],
+    "related": [
+      { "en": "unnecessary", "ja": "不要な" },
+      { "en": "excessive", "ja": "過剰な" },
+      { "en": "superfluous", "ja": "余分な" },
+      { "en": "essential", "ja": "不可欠な（反対語）" }
+    ],
+    "faq": [
+      { "q": "redundant の二つの意味は？", "a": "①『余分な・冗長な（なくてもよい）』と、②（英）『（人員過剰で）解雇された』です。be made redundant（解雇される）のように使います。" },
+      { "q": "redundant の名詞形は？", "a": "redundancy（冗長・余分／（英）人員整理）です。" }
+    ],
+    "quiz": [
+      { "q": "Avoid ___ words in your writing.（余計な語）", "A": "redundant", "B": "reluctant", "C": "resilient", "D": "rigorous", "correct": "A" },
+      { "q": "（英）「人員整理で解雇される」を表すのはどれ？", "A": "be made redundant", "B": "be made reluctant", "C": "be made resilient", "D": "be made rigorous", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reminisce",
+    "pron": "ˌremɪˈnɪs",
+    "kana": "レミニス",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 reminisci（思い出す）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "（昔を懐かしく）思い出を語る・回想する",
+    "description": "reminisce の意味・発音・例文・語源を解説。reminisce about（〜を懐かしく語る）の使い方や、名詞 reminiscence も分かりやすく紹介します。",
+    "keywords": ["reminisce 意味", "reminisce 発音", "reminisce about 使い方", "reminiscence 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（昔を）懐かしく思い出す・回想を語る", "note": "reminisce about old times（昔を懐かしく語る）。" }
+    ],
+    "usages": [
+      { "title": "① 「思い出を語る・回想する」として", "desc": "昔を楽しく懐かしく話す意味です。", "example_en": "We reminisced about our school days.", "example_ja": "私たちは学生時代を懐かしく語り合った。" },
+      { "title": "② reminisce about として", "desc": "「〜を懐かしく振り返る」を表します。", "example_en": "They sat reminiscing about the good old days.", "example_ja": "彼らは座って古きよき日々を懐かしんでいた。" }
+    ],
+    "warn": [
+      "「〜を懐かしく語る」は reminisce about。remember（覚えている・思い出す）より『懐かしむ・語り合う』ニュアンス。",
+      "名詞は reminiscence（回想・思い出）。発音は『レミニス』でつづり注意。"
+    ],
+    "etym_note": "ラテン語 reminisci（re-「再び」＋ -minisci「思い出す」。mens「心」から）に由来します。memory・mind と同じ men-（心・思う）の語根です。",
+    "etym_chain": [
+      { "node": "reminisci", "sub": "思い出す", "era": "ラテン語" },
+      { "node": "reminisce", "sub": "回想する", "era": "近代英語" },
+      { "node": "reminisce", "sub": "懐かしく思い出す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reminisce about", "ja": "〜を懐かしく語る" },
+      { "en": "reminisce about old times", "ja": "昔を懐かしむ" },
+      { "en": "sit reminiscing", "ja": "座って思い出にふける" },
+      { "en": "fondly reminisce", "ja": "懐かしく回想する" },
+      { "en": "reminisce together", "ja": "一緒に思い出を語る" },
+      { "en": "happy reminiscences", "ja": "楽しい思い出" }
+    ],
+    "related": [
+      { "en": "reminiscence", "ja": "回想・思い出（名詞）" },
+      { "en": "recall", "ja": "思い出す" },
+      { "en": "remember", "ja": "覚えている" },
+      { "en": "nostalgia", "ja": "郷愁・懐かしさ" }
+    ],
+    "faq": [
+      { "q": "reminisce と remember の違いは？", "a": "remember は単に『思い出す・覚えている』、reminisce は『（昔を）懐かしく振り返って語る』という、楽しく回想するニュアンスです。" },
+      { "q": "reminisce のあとの前置詞は？", "a": "about です。reminisce about the past（昔を懐かしく語る）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "We ___ about our school days.（懐かしく語った）", "A": "reminisced", "B": "reminded の人に思い出させる", "C": "remained", "D": "removed", "correct": "A" },
+      { "q": "reminisce のあとの前置詞は？", "A": "about", "B": "to", "C": "for", "D": "at", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reproach",
+    "pron": "rɪˈproʊtʃ",
+    "kana": "リプロウチ",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "古フランス語 reprochier（非難する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "感情"],
+    "meaning_main": "（やんわり）非難する・とがめる／非難",
+    "description": "reproach の意味・発音・例文・語源を解説。「（失望して）とがめる」の使い方や、beyond reproach（非の打ちどころがない）も分かりやすく紹介します。",
+    "keywords": ["reproach 意味", "reproach 発音", "beyond reproach 意味", "reproach 非難"],
+    "meanings": [
+      { "hinshi": "【動詞】（やんわり）非難する・とがめる", "note": "失望や悲しみを込めて責める。reproach someone for（〜のことで責める）。" },
+      { "hinshi": "【名詞】非難・とがめ", "note": "a look of reproach（とがめるような表情）。" }
+    ],
+    "usages": [
+      { "title": "① 「とがめる・非難する」として", "desc": "失望を込めて責める意味です。", "example_en": "She reproached him for being late.", "example_ja": "彼女は遅刻したことで彼をとがめた。" },
+      { "title": "② beyond reproach として", "desc": "「非の打ちどころがない」を表します。", "example_en": "His behavior was beyond reproach.", "example_ja": "彼の振る舞いは非の打ちどころがなかった。" }
+    ],
+    "warn": [
+      "reproach は『（失望・悲しみを込めて）やんわり責める』。criticize より感情的・個人的。",
+      "beyond reproach は『非の打ちどころがない』、above reproach も同様。"
+    ],
+    "etym_note": "古フランス語 reprochier（非難する。ラテン語 prope「近くに」系で『顔に近づけて責める』）に由来します。「失望を突きつけて責める」が原義です。",
+    "etym_chain": [
+      { "node": "reprochier", "sub": "非難する", "era": "古フランス語" },
+      { "node": "reproach", "sub": "非難する", "era": "中英語" },
+      { "node": "reproach", "sub": "とがめる・非難", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reproach someone for", "ja": "〜のことで人をとがめる" },
+      { "en": "beyond reproach", "ja": "非の打ちどころがない" },
+      { "en": "a look of reproach", "ja": "とがめるような表情" },
+      { "en": "above reproach", "ja": "非難の余地がない" },
+      { "en": "self-reproach", "ja": "自責" },
+      { "en": "a tone of reproach", "ja": "とがめる口調" }
+    ],
+    "related": [
+      { "en": "criticize", "ja": "批判する" },
+      { "en": "blame", "ja": "責める" },
+      { "en": "scold", "ja": "しかる" },
+      { "en": "praise", "ja": "ほめる（反対語）" }
+    ],
+    "faq": [
+      { "q": "reproach と criticize の違いは？", "a": "criticize は『（客観的に）批判する』、reproach は『（失望・悲しみを込めて）個人的にとがめる』というニュアンスです。" },
+      { "q": "beyond reproach とは？", "a": "『非の打ちどころがない・申し分のない』という意味です。" }
+    ],
+    "quiz": [
+      { "q": "She ___ him for being late.（とがめた）", "A": "reproached", "B": "approached の近づく", "C": "reduced", "D": "removed", "correct": "A" },
+      { "q": "「非の打ちどころがない」を表すのはどれ？", "A": "beyond reproach", "B": "beyond reach のみ", "C": "beyond research", "D": "beyond reason のみ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "revere",
+    "pron": "rɪˈvɪr",
+    "kana": "リビア",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 revereri（畏敬する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "感情"],
+    "meaning_main": "深く敬う・崇拝する・畏敬する",
+    "description": "revere の意味・発音・例文・語源を解説。「深く敬う・崇める」というかたい語の使い方や、名詞 reverence、respect との違いも紹介します。",
+    "keywords": ["revere 意味", "revere 発音", "reverence 意味", "revere respect 違い"],
+    "meanings": [
+      { "hinshi": "【動詞】深く敬う・崇拝する・畏敬する", "note": "respect より強い、ほとんど崇める気持ち。" }
+    ],
+    "usages": [
+      { "title": "① 「深く敬う・崇める」として", "desc": "尊敬を超えて崇拝する意味です。", "example_en": "He is revered as a great leader.", "example_ja": "彼は偉大な指導者として崇められている。" },
+      { "title": "② 受動態でよく使う", "desc": "be revered（崇敬される）の形が多いです。", "example_en": "The poet is revered around the world.", "example_ja": "その詩人は世界中で敬愛されている。" }
+    ],
+    "warn": [
+      "revere は respect より強い『崇拝・畏敬』。かたい語で、偉人・聖人・伝統などに使う。",
+      "名詞は reverence（畏敬・崇敬）、形容詞は revered（崇敬される）/ reverent（敬虔な）。"
+    ],
+    "etym_note": "ラテン語 revereri（re-「強意」＋ vereri「畏れる・敬う」＝畏敬する）に由来します。「深く畏れ敬う」が原義です。reverence と同じ語源です。",
+    "etym_chain": [
+      { "node": "revereri", "sub": "畏敬する", "era": "ラテン語" },
+      { "node": "reverer", "sub": "敬う", "era": "古フランス語" },
+      { "node": "revere", "sub": "深く敬う・崇拝する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be revered as", "ja": "〜として崇められる" },
+      { "en": "deeply revere", "ja": "深く敬う" },
+      { "en": "a revered figure", "ja": "崇敬される人物" },
+      { "en": "revere tradition", "ja": "伝統を重んじる" },
+      { "en": "widely revered", "ja": "広く敬愛される" },
+      { "en": "with reverence", "ja": "畏敬の念をもって" }
+    ],
+    "related": [
+      { "en": "reverence", "ja": "畏敬・崇敬（名詞）" },
+      { "en": "respect", "ja": "尊敬する" },
+      { "en": "worship", "ja": "崇拝する" },
+      { "en": "admire", "ja": "称賛する" }
+    ],
+    "faq": [
+      { "q": "revere と respect の違いは？", "a": "respect は『尊敬する』、revere は『（尊敬を超えて）深く崇める・畏敬する』という、より強くかたい語です。" },
+      { "q": "revere の名詞形は？", "a": "reverence（畏敬・崇敬）です。with great reverence（深い畏敬の念をもって）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "He is ___ as a great leader.（崇められている）", "A": "revered", "B": "reversed の逆", "C": "reviewed", "D": "revised", "correct": "A" },
+      { "q": "revere の名詞形はどれ？", "A": "reverence", "B": "reverement", "C": "reveration", "D": "revereness", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rubble",
+    "pron": "ˈrʌbəl",
+    "kana": "ラブル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "中英語 robel（がれき）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "もの"],
+    "meaning_main": "がれき・破壊された残骸",
+    "description": "rubble の意味・発音・例文・語源を解説。建物が壊れてできる「がれき」の使い方や、reduce to rubble（がれきにする）も分かりやすく紹介します。",
+    "keywords": ["rubble 意味", "rubble 発音", "rubble がれき", "reduce to rubble"],
+    "meanings": [
+      { "hinshi": "【名詞】がれき・破壊された残骸", "note": "壊れた建物のれんが・石・コンクリートの山。数えられない名詞。" }
+    ],
+    "usages": [
+      { "title": "① 「がれき」として", "desc": "崩れた建物の残骸を表します。", "example_en": "Rescuers searched through the rubble.", "example_ja": "救助隊はがれきの中を捜索した。" },
+      { "title": "② reduce to rubble として", "desc": "「がれきと化す」を表します。", "example_en": "The bombing reduced the city to rubble.", "example_ja": "爆撃でその都市はがれきの山と化した。" }
+    ],
+    "warn": [
+      "rubble は数えられない名詞。a rubble とは言わない。",
+      "rubbish（ごみ）と語源は近いが意味が違う。rubble は『がれき』。"
+    ],
+    "etym_note": "中英語 robel（がれき）に由来し、rubbish（ごみ）とも関係する語です。壊れた建材のかけらを表します。",
+    "etym_chain": [
+      { "node": "robel", "sub": "がれき", "era": "中英語" },
+      { "node": "rubble", "sub": "がれき", "era": "近代英語" },
+      { "node": "rubble", "sub": "がれき・残骸", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reduce to rubble", "ja": "がれきと化す" },
+      { "en": "search through the rubble", "ja": "がれきの中を捜索する" },
+      { "en": "a pile of rubble", "ja": "がれきの山" },
+      { "en": "buried under rubble", "ja": "がれきの下敷きになって" },
+      { "en": "clear the rubble", "ja": "がれきを撤去する" },
+      { "en": "lie in rubble", "ja": "がれきと化している" }
+    ],
+    "related": [
+      { "en": "debris", "ja": "残骸・がれき" },
+      { "en": "ruins", "ja": "廃墟" },
+      { "en": "wreckage", "ja": "残骸" },
+      { "en": "rubbish", "ja": "ごみ（紛らわしい語）" }
+    ],
+    "faq": [
+      { "q": "rubble と rubbish の違いは？", "a": "rubble は『（壊れた建物の）がれき』、rubbish は『（家庭などの）ごみ』です。つづりが似ているので注意しましょう。" },
+      { "q": "reduce to rubble とは？", "a": "『（爆撃・地震などで）がれきの山にする・破壊し尽くす』という意味です。" }
+    ],
+    "quiz": [
+      { "q": "Rescuers searched through the ___.（がれき）", "A": "rubble", "B": "rubbish の家庭ごみ", "C": "rubber", "D": "ribbon", "correct": "A" },
+      { "q": "「がれきと化す」を表すのはどれ？", "A": "reduce to rubble", "B": "reduce to rubber", "C": "reduce to rubbish", "D": "reduce to ribbon", "correct": "A" }
+    ]
+  }
+]
