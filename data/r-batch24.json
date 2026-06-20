@@ -1,0 +1,474 @@
+[
+  {
+    "english": "recipient",
+    "pron": "rɪˈsɪpiənt",
+    "kana": "リシピエント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 recipiens（受け取る人）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "名詞"],
+    "meaning_main": "受け取る人・受領者・受賞者",
+    "description": "recipient の意味・発音・例文・語源を解説。「受け取る人・受賞者」の使い方や、receive（受け取る）との関係も分かりやすく紹介します。",
+    "keywords": ["recipient 意味", "recipient 発音", "recipient 受領者", "receive 関係"],
+    "meanings": [
+      { "hinshi": "【名詞】受け取る人・受領者", "note": "贈り物・手紙・賞などを受け取る人。" },
+      { "hinshi": "【名詞】（臓器などの）移植を受ける人", "note": "an organ recipient（臓器移植を受ける人）。" }
+    ],
+    "usages": [
+      { "title": "① 「受け取る人・受賞者」として", "desc": "賞や手紙などを受け取る人を表します。", "example_en": "She was the recipient of the award.", "example_ja": "彼女はその賞の受賞者だった。" },
+      { "title": "② 「受給者・受け手」として", "desc": "援助や移植を受ける人を表します。", "example_en": "The recipients of the aid were very grateful.", "example_ja": "援助の受給者たちはとても感謝していた。" }
+    ],
+    "warn": [
+      "recipient（受け取る人）⇔ sender / donor（送る人・提供者）。receive と同じ語源。",
+      "the recipient of＋もの（〜の受け取り手）の形でよく使う。"
+    ],
+    "etym_note": "ラテン語 recipiens（recipere「受け取る」の現在分詞＝受け取る人）に由来します。receive・receipt と同じ語源です。",
+    "etym_chain": [
+      { "node": "recipere", "sub": "受け取る", "era": "ラテン語" },
+      { "node": "recipiens", "sub": "受け取る人", "era": "ラテン語" },
+      { "node": "recipient", "sub": "受領者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the recipient of", "ja": "〜の受領者・受賞者" },
+      { "en": "an award recipient", "ja": "受賞者" },
+      { "en": "an aid recipient", "ja": "援助の受給者" },
+      { "en": "an organ recipient", "ja": "臓器移植を受ける人" },
+      { "en": "the intended recipient", "ja": "本来の受取人" },
+      { "en": "a worthy recipient", "ja": "ふさわしい受賞者" }
+    ],
+    "related": [
+      { "en": "receive", "ja": "受け取る" },
+      { "en": "receiver", "ja": "受け手" },
+      { "en": "donor", "ja": "提供者（反対語）" },
+      { "en": "sender", "ja": "送り手（反対語）" }
+    ],
+    "faq": [
+      { "q": "recipient とは？", "a": "『受け取る人・受領者』のことです。賞・手紙・援助・臓器移植などを受け取る人を指します。" },
+      { "q": "recipient の反対語は？", "a": "sender（送り手）や donor（提供者）です。" }
+    ],
+    "quiz": [
+      { "q": "She was the ___ of the award.（受賞者）", "A": "recipient", "B": "receipt", "C": "reception", "D": "recipe", "correct": "A" },
+      { "q": "recipient と同じ語源の語はどれ？", "A": "receive", "B": "reduce", "C": "remove", "D": "refuse", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reconsider",
+    "pron": "ˌriːkənˈsɪdər",
+    "kana": "リーコンシダー",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ consider（考える）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "基本動詞"],
+    "meaning_main": "考え直す・再検討する",
+    "description": "reconsider の意味・発音・例文・語源を解説。「考え直す・再考する」の使い方や、consider（考える）に re- がついた成り立ちも分かりやすく紹介します。",
+    "keywords": ["reconsider 意味", "reconsider 発音", "reconsider 考え直す", "reconsider 使い方"],
+    "meanings": [
+      { "hinshi": "【動詞】考え直す・再検討する", "note": "いったん決めたことをもう一度考える。" }
+    ],
+    "usages": [
+      { "title": "① 「考え直す」として", "desc": "一度決めたことを再び検討する意味です。", "example_en": "Please reconsider your decision.", "example_ja": "あなたの決断を考え直してください。" },
+      { "title": "② 提案・依頼として", "desc": "相手に再考を促すときに使います。", "example_en": "We asked them to reconsider the plan.", "example_ja": "私たちは彼らに計画を再検討するよう求めた。" }
+    ],
+    "warn": [
+      "re-（再び）＋ consider（考える）＝『もう一度考える』。",
+      "名詞は reconsideration（再考・再検討）。"
+    ],
+    "etym_note": "接頭辞 re-（再び）と consider（よく考える。ラテン語 considerare「星を観察する」から）を組み合わせた語で、「もう一度考える＝考え直す」が原義です。",
+    "etym_chain": [
+      { "node": "considerare", "sub": "よく考える", "era": "ラテン語" },
+      { "node": "consider", "sub": "考える", "era": "中英語" },
+      { "node": "reconsider", "sub": "考え直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reconsider a decision", "ja": "決断を考え直す" },
+      { "en": "reconsider the plan", "ja": "計画を再検討する" },
+      { "en": "ask to reconsider", "ja": "再考を求める" },
+      { "en": "seriously reconsider", "ja": "真剣に考え直す" },
+      { "en": "be forced to reconsider", "ja": "考え直さざるを得ない" },
+      { "en": "on reconsideration", "ja": "考え直してみると" }
+    ],
+    "related": [
+      { "en": "consider", "ja": "よく考える" },
+      { "en": "rethink", "ja": "考え直す" },
+      { "en": "review", "ja": "見直す" },
+      { "en": "reconsideration", "ja": "再考（名詞）" }
+    ],
+    "faq": [
+      { "q": "reconsider の成り立ちは？", "a": "re-（再び）＋ consider（考える）で、『もう一度考える＝考え直す・再検討する』という意味になります。" },
+      { "q": "reconsider の名詞形は？", "a": "reconsideration（再考・再検討）です。" }
+    ],
+    "quiz": [
+      { "q": "Please ___ your decision.（考え直して）", "A": "reconsider", "B": "recommend", "C": "recognize", "D": "recover", "correct": "A" },
+      { "q": "reconsider は consider に何がついた語？", "A": "re-（再び）", "B": "un-（否定）", "C": "dis-（否定）", "D": "pre-（前）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "regain",
+    "pron": "rɪˈɡeɪn",
+    "kana": "リゲイン",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ gain（得る）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "取り戻す・回復する",
+    "description": "regain の意味・発音・例文・語源を解説。regain consciousness（意識を取り戻す）の使い方や、gain（得る）に re- がついた成り立ちも分かりやすく紹介します。",
+    "keywords": ["regain 意味", "regain 発音", "regain consciousness 意味", "regain 取り戻す"],
+    "meanings": [
+      { "hinshi": "【動詞】取り戻す・再び得る", "note": "失ったものをもう一度手に入れる。regain control（支配を取り戻す）。" }
+    ],
+    "usages": [
+      { "title": "① 「取り戻す」として", "desc": "失ったものを再び得る意味です。", "example_en": "He slowly regained his strength.", "example_ja": "彼は徐々に体力を取り戻した。" },
+      { "title": "② regain consciousness として", "desc": "「意識を取り戻す」を表します。", "example_en": "The patient regained consciousness after the operation.", "example_ja": "患者は手術後に意識を取り戻した。" }
+    ],
+    "warn": [
+      "re-（再び）＋ gain（得る）＝『再び得る＝取り戻す』。",
+      "regain は recover・retrieve に近い。regain one's balance（体勢を立て直す）。"
+    ],
+    "etym_note": "接頭辞 re-（再び）と gain（得る。古フランス語 gaaignier「手に入れる」から）を組み合わせた語で、「再び手に入れる＝取り戻す」が原義です。",
+    "etym_chain": [
+      { "node": "gaaignier", "sub": "手に入れる", "era": "古フランス語" },
+      { "node": "gain", "sub": "得る", "era": "近代英語" },
+      { "node": "regain", "sub": "取り戻す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "regain consciousness", "ja": "意識を取り戻す" },
+      { "en": "regain control", "ja": "支配を取り戻す" },
+      { "en": "regain strength", "ja": "体力を回復する" },
+      { "en": "regain one's balance", "ja": "体勢を立て直す" },
+      { "en": "regain confidence", "ja": "自信を取り戻す" },
+      { "en": "regain the lead", "ja": "首位を奪い返す" }
+    ],
+    "related": [
+      { "en": "recover", "ja": "回復する" },
+      { "en": "retrieve", "ja": "取り戻す" },
+      { "en": "restore", "ja": "回復させる" },
+      { "en": "lose", "ja": "失う（反対語）" }
+    ],
+    "faq": [
+      { "q": "regain の成り立ちは？", "a": "re-（再び）＋ gain（得る）で、『再び得る＝取り戻す』という意味になります。" },
+      { "q": "regain consciousness とは？", "a": "『意識を取り戻す・正気に戻る』という意味です。lose consciousness（意識を失う）の反対です。" }
+    ],
+    "quiz": [
+      { "q": "He slowly ___ his strength.（体力を取り戻した）", "A": "regained", "B": "remained", "C": "reminded", "D": "removed", "correct": "A" },
+      { "q": "regain は gain に何がついた語？", "A": "re-（再び）", "B": "un-（否定）", "C": "dis-（否定）", "D": "mis-（誤り）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rejoice",
+    "pron": "rɪˈdʒɔɪs",
+    "kana": "リジョイス",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古フランス語 rejoiss-（喜ぶ）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "感情"],
+    "meaning_main": "大いに喜ぶ・歓喜する",
+    "description": "rejoice の意味・発音・例文・語源を解説。「大いに喜ぶ」というかたい語の使い方や、rejoice at / in（〜を喜ぶ）も分かりやすく紹介します。",
+    "keywords": ["rejoice 意味", "rejoice 発音", "rejoice at in 使い方", "rejoice 喜ぶ"],
+    "meanings": [
+      { "hinshi": "【動詞】大いに喜ぶ・歓喜する", "note": "うれしくて喜びを表す。文語的・かたい語。" }
+    ],
+    "usages": [
+      { "title": "① 「大いに喜ぶ」として", "desc": "心から喜ぶことを表すかたい語です。", "example_en": "The whole nation rejoiced at the news.", "example_ja": "国中がその知らせに歓喜した。" },
+      { "title": "② rejoice in として", "desc": "「〜を喜ぶ・楽しむ」を表します。", "example_en": "They rejoiced in their victory.", "example_ja": "彼らは勝利を喜んだ。" }
+    ],
+    "warn": [
+      "rejoice は『大いに喜ぶ』というかたい・文語的な語。日常会話では be happy / be glad が普通。",
+      "「〜を喜ぶ」は rejoice at / in / over。名詞は rejoicing（歓喜）。"
+    ],
+    "etym_note": "古フランス語 rejoir / rejoiss-（re-「強意」＋ joir「喜ぶ」）に由来します。joy（喜び）と同じ語源で、「大いに喜ぶ」が原義です。",
+    "etym_chain": [
+      { "node": "gaudere", "sub": "喜ぶ", "era": "ラテン語" },
+      { "node": "rejoir", "sub": "大いに喜ぶ", "era": "古フランス語" },
+      { "node": "rejoice", "sub": "歓喜する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rejoice at", "ja": "〜を喜ぶ" },
+      { "en": "rejoice in", "ja": "〜を喜ぶ・楽しむ" },
+      { "en": "rejoice over", "ja": "〜を喜ぶ" },
+      { "en": "rejoice greatly", "ja": "大いに喜ぶ" },
+      { "en": "Rejoice!", "ja": "喜べ！" },
+      { "en": "cause for rejoicing", "ja": "喜ぶべき理由" }
+    ],
+    "related": [
+      { "en": "joy", "ja": "喜び" },
+      { "en": "celebrate", "ja": "祝う" },
+      { "en": "delight", "ja": "大喜びする" },
+      { "en": "mourn", "ja": "悲しむ（反対語）" }
+    ],
+    "faq": [
+      { "q": "rejoice はどんな場面で使う？", "a": "『大いに喜ぶ』というかたい・文語的な語で、祝賀やニュース・宗教的な文脈などで使われます。日常会話では be happy が普通です。" },
+      { "q": "rejoice のあとの前置詞は？", "a": "at / in / over です。rejoice at the news（その知らせを喜ぶ）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The whole nation ___ at the news.（歓喜した）", "A": "rejoiced", "B": "rejected", "C": "reduced", "D": "removed", "correct": "A" },
+      { "q": "rejoice と同じ語源（喜び）の語はどれ？", "A": "joy", "B": "job", "C": "joke", "D": "journey", "correct": "A" }
+    ]
+  },
+  {
+    "english": "relevance",
+    "pron": "ˈreləvəns",
+    "kana": "レレバンス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "relevant（関連のある）＋ -ance",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "名詞"],
+    "meaning_main": "関連性・適切さ・意義",
+    "description": "relevance の意味・発音・例文・語源を解説。relevance to（〜との関連性）の使い方や、形容詞 relevant との関係も分かりやすく紹介します。",
+    "keywords": ["relevance 意味", "relevance 発音", "relevance to 使い方", "relevant 関係"],
+    "meanings": [
+      { "hinshi": "【名詞】関連性・適切さ", "note": "ある事柄との関係や意義。relevance to the topic（その話題との関連）。" }
+    ],
+    "usages": [
+      { "title": "① 「関連性」として", "desc": "relevance to〜で「〜との関連」を表します。", "example_en": "What is the relevance of this to our discussion?", "example_ja": "これが私たちの議論とどう関係するのですか。" },
+      { "title": "② 「意義・重要性」として", "desc": "現代における意味の大きさを表します。", "example_en": "The old law has little relevance today.", "example_ja": "その古い法律は今ではほとんど意味をなさない。" }
+    ],
+    "warn": [
+      "「〜との関連性」は relevance to。形容詞は relevant、反対語は irrelevance（無関係）。",
+      "relevance（関連性）と relevant（関連した）を品詞で区別する。"
+    ],
+    "etym_note": "形容詞 relevant（関連のある）に名詞をつくる -ance がついた語で、「関連していること＝関連性」が原義です。relevant と同じ語源です。",
+    "etym_chain": [
+      { "node": "relevare", "sub": "持ち上げる・関係する", "era": "ラテン語" },
+      { "node": "relevant", "sub": "関連のある", "era": "近代英語" },
+      { "node": "relevance", "sub": "関連性", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "relevance to", "ja": "〜との関連性" },
+      { "en": "have relevance", "ja": "関連性がある" },
+      { "en": "lose relevance", "ja": "意義を失う" },
+      { "en": "of little relevance", "ja": "ほとんど関係のない" },
+      { "en": "social relevance", "ja": "社会的意義" },
+      { "en": "direct relevance", "ja": "直接的な関連" }
+    ],
+    "related": [
+      { "en": "relevant", "ja": "関連のある（形容詞）" },
+      { "en": "importance", "ja": "重要性" },
+      { "en": "connection", "ja": "つながり" },
+      { "en": "irrelevance", "ja": "無関係（反対語）" }
+    ],
+    "faq": [
+      { "q": "relevance のあとの前置詞は？", "a": "to です。relevance to modern life（現代の生活との関連）のように使います。" },
+      { "q": "relevance と relevant の違いは？", "a": "relevance は名詞『関連性』、relevant は形容詞『関連のある』です。" }
+    ],
+    "quiz": [
+      { "q": "What is the ___ of this to our discussion?（関連性）", "A": "relevance", "B": "relevant", "C": "reliance", "D": "relative", "correct": "A" },
+      { "q": "relevance の形容詞形はどれ？", "A": "relevant", "B": "reliable", "C": "relative", "D": "relieved", "correct": "A" }
+    ]
+  },
+  {
+    "english": "remnant",
+    "pron": "ˈremnənt",
+    "kana": "レムナント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 remenant（残るもの）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "名詞"],
+    "meaning_main": "残り・名残・残骸",
+    "description": "remnant の意味・発音・例文・語源を解説。「（過去の）名残・残り」の使い方や、remain（残る）との関係も分かりやすく紹介します。",
+    "keywords": ["remnant 意味", "remnant 発音", "remnant 名残", "remnant 残り"],
+    "meanings": [
+      { "hinshi": "【名詞】残り・名残・残存物", "note": "わずかに残ったもの。the remnants of（〜の名残）。" }
+    ],
+    "usages": [
+      { "title": "① 「名残・残り」として", "desc": "過去のもののわずかな残りを表します。", "example_en": "These walls are the remnants of an old castle.", "example_ja": "これらの壁は古い城の名残だ。" },
+      { "title": "② 「残骸」として", "desc": "壊れて残ったものを表します。", "example_en": "We cleared away the remnants of the meal.", "example_ja": "私たちは食事の残りを片づけた。" }
+    ],
+    "warn": [
+      "remnant はふつう複数形 remnants で『（過去の）名残・残骸』。remain（残る）と同語源。",
+      "remainder（残り全体）より『わずかに残ったもの・断片』のニュアンス。"
+    ],
+    "etym_note": "古フランス語 remenant（remaindre「残る」の現在分詞＝残るもの）に由来します。remain・remainder と同じ語源です。",
+    "etym_chain": [
+      { "node": "remanere", "sub": "後に残る", "era": "ラテン語" },
+      { "node": "remenant", "sub": "残るもの", "era": "古フランス語" },
+      { "node": "remnant", "sub": "残り・名残", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the remnants of", "ja": "〜の名残・残骸" },
+      { "en": "the last remnants", "ja": "最後の名残" },
+      { "en": "remnants of the past", "ja": "過去の名残" },
+      { "en": "a remnant of fabric", "ja": "布の端切れ" },
+      { "en": "scattered remnants", "ja": "散らばった残骸" },
+      { "en": "a remnant population", "ja": "わずかに残った個体群" }
+    ],
+    "related": [
+      { "en": "remainder", "ja": "残り" },
+      { "en": "remain", "ja": "残る（動詞）" },
+      { "en": "trace", "ja": "跡・名残" },
+      { "en": "fragment", "ja": "断片" }
+    ],
+    "faq": [
+      { "q": "remnant と remainder の違いは？", "a": "remainder は『（全体の）残り』、remnant は『（過去のものの）名残・断片・残骸』というニュアンスです。" },
+      { "q": "remnant はどう使う？", "a": "ふつう複数形 remnants で『〜の名残』を表します。the remnants of an ancient civilization（古代文明の名残）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "These walls are the ___ of an old castle.（名残）", "A": "remnants", "B": "reminders", "C": "remainders", "D": "removals", "correct": "A" },
+      { "q": "remnant と同じ語源の語はどれ？", "A": "remain", "B": "remind", "C": "remove", "D": "remark", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reservation",
+    "pron": "ˌrezərˈveɪʃən",
+    "kana": "レザベイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "reserve（取っておく）＋ -ation",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "多義語"],
+    "meaning_main": "予約／（心の）ためらい・保留",
+    "description": "reservation の意味・発音・例文・語源を解説。「予約」の使い方（make a reservation）や、「ためらい・懸念」の意味も分かりやすく紹介します。",
+    "keywords": ["reservation 意味", "reservation 発音", "make a reservation 使い方", "reservation ためらい"],
+    "meanings": [
+      { "hinshi": "【名詞】予約", "note": "make a reservation（予約する）。レストラン・ホテルなど。" },
+      { "hinshi": "【名詞】（心の）ためらい・懸念・保留", "note": "have reservations about（〜に懸念を持つ）。" }
+    ],
+    "usages": [
+      { "title": "① 「予約」として", "desc": "make a reservation（予約する）の形で使います。", "example_en": "I'd like to make a reservation for two.", "example_ja": "2名で予約をお願いします。" },
+      { "title": "② 「ためらい・懸念」として", "desc": "have reservations about〜で「〜に懸念を持つ」を表します。", "example_en": "She had reservations about the plan.", "example_ja": "彼女はその計画に懸念を抱いていた。" }
+    ],
+    "warn": [
+      "『予約』は make a reservation（米）/ booking（英）。動詞は reserve。",
+      "have reservations about は『〜に（心の）ためらい・懸念がある』。without reservation は『無条件で・全面的に』。"
+    ],
+    "etym_note": "動詞 reserve（取っておく・予約する）の名詞形で、「取っておくこと＝予約」が原義です。心の中に『取っておく＝言わずにおく懸念』から『ためらい』の意味も生まれました。",
+    "etym_chain": [
+      { "node": "reservare", "sub": "取っておく", "era": "ラテン語" },
+      { "node": "reservation", "sub": "取っておくこと", "era": "中英語" },
+      { "node": "reservation", "sub": "予約・ためらい", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "make a reservation", "ja": "予約をする" },
+      { "en": "cancel a reservation", "ja": "予約を取り消す" },
+      { "en": "have reservations about", "ja": "〜に懸念を持つ" },
+      { "en": "without reservation", "ja": "無条件で・全面的に" },
+      { "en": "a hotel reservation", "ja": "ホテルの予約" },
+      { "en": "a dinner reservation", "ja": "夕食の予約" }
+    ],
+    "related": [
+      { "en": "reserve", "ja": "予約する・取っておく" },
+      { "en": "booking", "ja": "予約（英）" },
+      { "en": "doubt", "ja": "疑い・懸念" },
+      { "en": "appointment", "ja": "（人との）予約・約束" }
+    ],
+    "faq": [
+      { "q": "reservation の二つの意味は？", "a": "①レストランやホテルの『予約』と、②心の中の『ためらい・懸念』です。have reservations about〜（〜に懸念がある）のように使います。" },
+      { "q": "without reservation とは？", "a": "『無条件で・全面的に・心置きなく』という意味です。" }
+    ],
+    "quiz": [
+      { "q": "I'd like to make a ___ for two.（予約）", "A": "reservation", "B": "reception", "C": "reservoir", "D": "revelation", "correct": "A" },
+      { "q": "「〜に懸念を持つ」を表すのはどれ？", "A": "have reservations about", "B": "have receptions about", "C": "have reservoirs about", "D": "have revisions about", "correct": "A" }
+    ]
+  },
+  {
+    "english": "restoration",
+    "pron": "ˌrestəˈreɪʃən",
+    "kana": "レストレイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "restore（元に戻す）＋ -ation",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "名詞"],
+    "meaning_main": "修復・復元・回復",
+    "description": "restoration の意味・発音・例文・語源を解説。建物の「修復」や秩序の「回復」の使い方や、動詞 restore との関係も分かりやすく紹介します。",
+    "keywords": ["restoration 意味", "restoration 発音", "restore 関係", "restoration 修復"],
+    "meanings": [
+      { "hinshi": "【名詞】修復・復元", "note": "古いものを元どおりにすること。the restoration of a painting（絵画の修復）。" },
+      { "hinshi": "【名詞】（秩序・地位の）回復", "note": "the restoration of order（秩序の回復）。" }
+    ],
+    "usages": [
+      { "title": "① 「修復・復元」として", "desc": "古い建物や美術品を元に戻すことを表します。", "example_en": "The restoration of the old temple took years.", "example_ja": "その古い寺院の修復には何年もかかった。" },
+      { "title": "② 「回復」として", "desc": "秩序・地位・権利を取り戻すことを表します。", "example_en": "People hoped for the restoration of peace.", "example_ja": "人々は平和の回復を望んだ。" }
+    ],
+    "warn": [
+      "動詞は restore。歴史用語の the Meiji Restoration は『明治維新』、the Restoration は英の『王政復古』。",
+      "restaurant（レストラン）と同じ語源（回復させる）。"
+    ],
+    "etym_note": "動詞 restore（元に戻す・回復する）の名詞形で、「元に戻すこと＝修復・回復」が原義です。restore・restaurant と同じ語源です。",
+    "etym_chain": [
+      { "node": "restaurare", "sub": "再建する・回復する", "era": "ラテン語" },
+      { "node": "restoration", "sub": "回復・修復", "era": "中英語" },
+      { "node": "restoration", "sub": "修復・復元", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the restoration of", "ja": "〜の修復・回復" },
+      { "en": "restoration work", "ja": "修復作業" },
+      { "en": "the restoration of order", "ja": "秩序の回復" },
+      { "en": "the Meiji Restoration", "ja": "明治維新" },
+      { "en": "careful restoration", "ja": "丁寧な修復" },
+      { "en": "habitat restoration", "ja": "生息地の回復" }
+    ],
+    "related": [
+      { "en": "restore", "ja": "元に戻す（動詞）" },
+      { "en": "repair", "ja": "修理" },
+      { "en": "recovery", "ja": "回復" },
+      { "en": "renovation", "ja": "改修" }
+    ],
+    "faq": [
+      { "q": "restoration の名詞のもとになる動詞は？", "a": "restore（元に戻す・修復する・回復する）です。" },
+      { "q": "the Meiji Restoration とは？", "a": "『明治維新』のことです。restoration（復古・回復）を使った歴史用語です。" }
+    ],
+    "quiz": [
+      { "q": "The ___ of the old temple took years.（修復）", "A": "restoration", "B": "reservation", "C": "registration", "D": "reputation", "correct": "A" },
+      { "q": "restoration の動詞形はどれ？", "A": "restore", "B": "restrain", "C": "restrict", "D": "reserve", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ridicule",
+    "pron": "ˈrɪdɪkjuːl",
+    "kana": "リディキュール",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "ラテン語 ridiculum（笑いの種）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "感情"],
+    "meaning_main": "あざ笑う・ばかにする／嘲笑",
+    "description": "ridicule の意味・発音・例文・語源を解説。「あざ笑う」の使い方や、形容詞 ridiculous（ばかげた）との関係も分かりやすく紹介します。",
+    "keywords": ["ridicule 意味", "ridicule 発音", "ridicule ridiculous 関係", "ridicule あざ笑う"],
+    "meanings": [
+      { "hinshi": "【動詞】あざ笑う・ばかにする", "note": "ばかにして笑いものにする。" },
+      { "hinshi": "【名詞】嘲笑・あざけり", "note": "an object of ridicule（笑いものになる対象）。" }
+    ],
+    "usages": [
+      { "title": "① 動詞「あざ笑う」として", "desc": "人や考えをばかにして笑う意味です。", "example_en": "Don't ridicule his ideas.", "example_ja": "彼の考えをばかにしてはいけない。" },
+      { "title": "② 名詞「嘲笑」として", "desc": "あざけりを表します。", "example_en": "Her plan was met with ridicule.", "example_ja": "彼女の計画はあざ笑いで迎えられた。" }
+    ],
+    "warn": [
+      "形容詞 ridiculous（ばかげた）と同じ語源。ridicule は『あざ笑う（行為）』。",
+      "hold A up to ridicule は『Aを笑いものにする』。"
+    ],
+    "etym_note": "ラテン語 ridiculum（笑いの種。ridere「笑う」から）に由来します。ridiculous（ばかげた）と同じ語源で、「笑いものにする」が原義です。",
+    "etym_chain": [
+      { "node": "ridere", "sub": "笑う", "era": "ラテン語" },
+      { "node": "ridiculum", "sub": "笑いの種", "era": "ラテン語" },
+      { "node": "ridicule", "sub": "あざ笑う・嘲笑", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an object of ridicule", "ja": "笑いものになる対象" },
+      { "en": "hold up to ridicule", "ja": "笑いものにする" },
+      { "en": "be met with ridicule", "ja": "あざ笑いで迎えられる" },
+      { "en": "public ridicule", "ja": "世間のあざけり" },
+      { "en": "ridicule an idea", "ja": "考えをばかにする" },
+      { "en": "fear of ridicule", "ja": "笑われることへの恐れ" }
+    ],
+    "related": [
+      { "en": "ridiculous", "ja": "ばかげた（形容詞）" },
+      { "en": "mock", "ja": "あざ笑う" },
+      { "en": "tease", "ja": "からかう" },
+      { "en": "praise", "ja": "ほめる（反対語）" }
+    ],
+    "faq": [
+      { "q": "ridicule と ridiculous の違いは？", "a": "ridicule は動詞『あざ笑う』・名詞『嘲笑』、ridiculous は形容詞『ばかげた』です。同じ語源（笑う）です。" },
+      { "q": "an object of ridicule とは？", "a": "『笑いもの・嘲笑の的』という意味です。" }
+    ],
+    "quiz": [
+      { "q": "Don't ___ his ideas.（ばかにしないで）", "A": "ridicule", "B": "ridiculous の形容詞", "C": "reduce", "D": "refuse", "correct": "A" },
+      { "q": "ridicule の形容詞形はどれ？", "A": "ridiculous", "B": "ridicful", "C": "ridicultive", "D": "ridicable", "correct": "A" }
+    ]
+  }
+]

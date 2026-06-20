@@ -1,0 +1,55 @@
+[
+  {
+    "english": "restraint",
+    "pron": "rɪˈstreɪnt",
+    "kana": "リストレイント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "restrain（抑える）＋ -t",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "名詞"],
+    "meaning_main": "抑制・自制／拘束・制約",
+    "description": "restraint の意味・発音・例文・語源を解説。show restraint（自制する）の使い方や、動詞 restrain との関係も分かりやすく紹介します。",
+    "keywords": ["restraint 意味", "restraint 発音", "show restraint 使い方", "restrain 関係"],
+    "meanings": [
+      { "hinshi": "【名詞】抑制・自制", "note": "感情や行動を抑えること。show restraint（自制する）。" },
+      { "hinshi": "【名詞】拘束・制約", "note": "動きや自由を縛るもの。without restraint（制約なしに）。" }
+    ],
+    "usages": [
+      { "title": "① 「自制・抑制」として", "desc": "感情や欲求を抑えることを表します。", "example_en": "He showed great restraint and stayed calm.", "example_ja": "彼は大いに自制して冷静さを保った。" },
+      { "title": "② 「制約・拘束」として", "desc": "自由や動きを縛るものを表します。", "example_en": "The new rules act as a restraint on spending.", "example_ja": "新しい規則は支出への制約となる。" }
+    ],
+    "warn": [
+      "show / exercise restraint は『自制する』。without restraint は『制約なく・思うがままに』。",
+      "動詞 restrain（抑える）の名詞。restriction（制限）とは少しニュアンスが異なる。"
+    ],
+    "etym_note": "動詞 restrain（抑える・制止する。ラテン語 restringere「しばりつける」から）の名詞形で、「抑えること＝自制・拘束」が原義です。restrain・restrict と同じ語源です。",
+    "etym_chain": [
+      { "node": "restringere", "sub": "しばりつける", "era": "ラテン語" },
+      { "node": "restraint", "sub": "抑制・拘束", "era": "中英語" },
+      { "node": "restraint", "sub": "抑制・自制", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "show restraint", "ja": "自制する" },
+      { "en": "exercise restraint", "ja": "自制する" },
+      { "en": "without restraint", "ja": "制約なく・思うがままに" },
+      { "en": "self-restraint", "ja": "自制・克己" },
+      { "en": "with restraint", "ja": "控えめに" },
+      { "en": "financial restraint", "ja": "財政的な抑制" }
+    ],
+    "related": [
+      { "en": "restrain", "ja": "抑える（動詞）" },
+      { "en": "self-control", "ja": "自制心" },
+      { "en": "restriction", "ja": "制限" },
+      { "en": "freedom", "ja": "自由（反対概念）" }
+    ],
+    "faq": [
+      { "q": "show restraint とは？", "a": "『自制する・自分を抑える』という意味です。exercise restraint も同じ意味です。" },
+      { "q": "restraint と restriction の違いは？", "a": "restraint は『（感情・行動の）抑制・自制』、restriction は『（規則による）制限』というニュアンスです。" }
+    ],
+    "quiz": [
+      { "q": "He showed great ___ and stayed calm.（自制）", "A": "restraint", "B": "restrict", "C": "restore", "D": "research", "correct": "A" },
+      { "q": "「自制する」を表すのはどれ？", "A": "show restraint", "B": "show research", "C": "show reserve のみ", "D": "show return", "correct": "A" }
+    ]
+  }
+]
