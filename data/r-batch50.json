@@ -1,0 +1,54 @@
+[
+  {
+    "english": "revile",
+    "pron": "rɪˈvaɪl",
+    "kana": "リバイル",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古フランス語 reviler（卑しめる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "（激しく）ののしる・こきおろす・非難する",
+    "description": "revile の意味・発音・例文・語源を解説。人や物を「激しくののしる・こきおろす」というかたい語の使い方を分かりやすく紹介します。",
+    "keywords": ["revile 意味", "revile 発音", "reviled 意味", "revile ののしる"],
+    "meanings": [
+      { "hinshi": "【動詞】（激しく）ののしる・こきおろす・非難する", "note": "ひどい言葉で激しく攻撃する。be reviled as（〜だとこきおろされる）。" }
+    ],
+    "usages": [
+      { "title": "① 「激しくののしる・こきおろす」として", "desc": "ひどい言葉で激しく非難する意味です。", "example_en": "The dictator was reviled by his people.", "example_ja": "その独裁者は国民にひどく非難された。" },
+      { "title": "② be reviled as として", "desc": "「〜だとこきおろされる」を表します。", "example_en": "The plan was reviled as a complete failure.", "example_ja": "その計画は完全な失敗だとこきおろされた。" }
+    ],
+    "warn": [
+      "revile は『（激しく）ののしる・こきおろす』というかたい強い語。praise（ほめる）の反対。",
+      "vile（卑しい・ひどい）と同じ語源。受動態 be reviled でよく使う。"
+    ],
+    "etym_note": "古フランス語 reviler（re-「強意」＋ vil「卑しい」＝卑しめる）に由来します。vile（卑劣な）と同じ語源で、「卑しいものとしてののしる」が原義です。",
+    "etym_chain": [
+      { "node": "vilis", "sub": "卑しい・安い", "era": "ラテン語" },
+      { "node": "reviler", "sub": "卑しめる", "era": "古フランス語" },
+      { "node": "revile", "sub": "ののしる・こきおろす", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be reviled by", "ja": "〜にののしられる" },
+      { "en": "be reviled as", "ja": "〜だとこきおろされる" },
+      { "en": "revile and mock", "ja": "ののしりあざける" },
+      { "en": "widely reviled", "ja": "広く非難された" },
+      { "en": "revile someone", "ja": "人をののしる" },
+      { "en": "a reviled figure", "ja": "嫌われ者" }
+    ],
+    "related": [
+      { "en": "denounce", "ja": "公然と非難する" },
+      { "en": "insult", "ja": "侮辱する" },
+      { "en": "abuse", "ja": "ののしる" },
+      { "en": "praise", "ja": "ほめる（反対語）" }
+    ],
+    "faq": [
+      { "q": "revile とはどんな意味？", "a": "『（激しい言葉で）ののしる・こきおろす・非難する』という強くかたい語です。be reviled by the public（世間にひどく非難される）のように使います。" },
+      { "q": "revile の反対語は？", "a": "praise（ほめる）や revere（深く敬う）です。" }
+    ],
+    "quiz": [
+      { "q": "The dictator was ___ by his people.（非難された）", "A": "reviled", "B": "revised の改訂した", "C": "reduced", "D": "removed", "correct": "A" },
+      { "q": "revile の反対語はどれ？", "A": "praise（ほめる）", "B": "denounce（非難する）", "C": "insult（侮辱する）", "D": "abuse（ののしる）", "correct": "A" }
+    ]
+  }
+]
