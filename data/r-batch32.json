@@ -1,0 +1,530 @@
+[
+  {
+    "english": "rampant",
+    "pron": "ˈræmpənt",
+    "kana": "ランパント",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "古フランス語 ramper（よじ登る・はびこる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "形容詞"],
+    "meaning_main": "（悪いものが）はびこる・蔓延した・手に負えない",
+    "description": "rampant の意味・発音・例文・語源を解説。犯罪や病気が「はびこる・蔓延した」という悪い意味での使い方を分かりやすく紹介します。",
+    "keywords": ["rampant 意味", "rampant 発音", "rampant 蔓延", "rampant はびこる"],
+    "meanings": [
+      { "hinshi": "【形容詞】（悪いものが）はびこる・蔓延した", "note": "犯罪・病気・うわさなどが広がって手に負えない。" }
+    ],
+    "usages": [
+      { "title": "① 「はびこる・蔓延した」として", "desc": "悪いものが広がって抑えられない様子を表します。", "example_en": "Corruption was rampant in the government.", "example_ja": "政府内で汚職がはびこっていた。" },
+      { "title": "② 「手に負えない」として", "desc": "勢いよく広がる様子を表します。", "example_en": "Inflation is running rampant.", "example_ja": "インフレが手に負えないほど進行している。" }
+    ],
+    "warn": [
+      "rampant はふつう悪いもの（犯罪・病気・インフレなど）に使う。run rampant で『はびこる・暴走する』。",
+      "よい意味では使わないので注意。"
+    ],
+    "etym_note": "古フランス語 ramper（よじ登る・はう）の現在分詞に由来します。もとは紋章で『（獅子が）立ち上がった姿勢』を表し、そこから『勢いよく広がる＝はびこる』になりました。",
+    "etym_chain": [
+      { "node": "ramper", "sub": "よじ登る・はう", "era": "古フランス語" },
+      { "node": "rampant", "sub": "立ち上がった・はびこる", "era": "中英語" },
+      { "node": "rampant", "sub": "はびこる・蔓延した", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "run rampant", "ja": "はびこる・暴走する" },
+      { "en": "rampant corruption", "ja": "蔓延する汚職" },
+      { "en": "rampant crime", "ja": "はびこる犯罪" },
+      { "en": "rampant inflation", "ja": "手に負えないインフレ" },
+      { "en": "rampant disease", "ja": "蔓延する病気" },
+      { "en": "become rampant", "ja": "はびこるようになる" }
+    ],
+    "related": [
+      { "en": "widespread", "ja": "広まった" },
+      { "en": "uncontrolled", "ja": "抑制されていない" },
+      { "en": "prevalent", "ja": "流行している" },
+      { "en": "rare", "ja": "まれな（反対概念）" }
+    ],
+    "faq": [
+      { "q": "rampant はよい意味でも使う？", "a": "いいえ。ふつう犯罪・病気・インフレなど『悪いものがはびこる』という悪い意味で使います。" },
+      { "q": "run rampant とは？", "a": "『（悪いものが）はびこる・抑えがきかず暴走する』という意味です。" }
+    ],
+    "quiz": [
+      { "q": "Corruption was ___ in the government.（はびこっていた）", "A": "rampant", "B": "radiant", "C": "rigid", "D": "rural", "correct": "A" },
+      { "q": "「はびこる・暴走する」を表すのはどれ？", "A": "run rampant", "B": "run radiant", "C": "run rigid", "D": "run rural", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ransom",
+    "pron": "ˈrænsəm",
+    "kana": "ランサム",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "古フランス語 ranson（身代金）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "社会"],
+    "meaning_main": "身代金／身代金を払って救い出す",
+    "description": "ransom の意味・発音・例文・語源を解説。誘拐の「身代金」の使い方や、hold someone to ransom（人質にして要求する）も分かりやすく紹介します。",
+    "keywords": ["ransom 意味", "ransom 発音", "ransom 身代金", "ransomware 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】身代金", "note": "人質を解放するために要求される金。pay a ransom（身代金を払う）。" },
+      { "hinshi": "【動詞】身代金を払って救い出す", "note": "人質を金で取り戻す。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「身代金」として", "desc": "人質を解放させるための金を表します。", "example_en": "The kidnappers demanded a huge ransom.", "example_ja": "誘拐犯は多額の身代金を要求した。" },
+      { "title": "② hold to ransom として", "desc": "「人質にして要求する」を表します。", "example_en": "The hackers held the company to ransom.", "example_ja": "ハッカーたちは会社を人質に取って要求した。" }
+    ],
+    "warn": [
+      "pay a ransom（身代金を払う）、demand a ransom（要求する）、hold to ransom（人質に取る）。",
+      "ransomware は『身代金要求型ウイルス（ランサムウェア）』。"
+    ],
+    "etym_note": "古フランス語 ranson（ラテン語 redemptio「あがない・買い戻し」から）に由来します。redeem（買い戻す）と同じ語源で、「（人質を）金で買い戻すこと」が原義です。",
+    "etym_chain": [
+      { "node": "redemptio", "sub": "あがない・買い戻し", "era": "ラテン語" },
+      { "node": "ranson", "sub": "身代金", "era": "古フランス語" },
+      { "node": "ransom", "sub": "身代金", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "pay a ransom", "ja": "身代金を払う" },
+      { "en": "demand a ransom", "ja": "身代金を要求する" },
+      { "en": "a ransom note", "ja": "身代金要求の手紙" },
+      { "en": "hold to ransom", "ja": "人質に取って要求する" },
+      { "en": "a king's ransom", "ja": "巨額の金" },
+      { "en": "ransomware", "ja": "ランサムウェア" }
+    ],
+    "related": [
+      { "en": "kidnap", "ja": "誘拐する" },
+      { "en": "hostage", "ja": "人質" },
+      { "en": "redeem", "ja": "買い戻す（同語源）" },
+      { "en": "demand", "ja": "要求する" }
+    ],
+    "faq": [
+      { "q": "hold someone to ransom とは？", "a": "『（人を）人質に取って金品を要求する』という意味です。比喩で『立場を利用して不当な要求をする』にも使います。" },
+      { "q": "ransomware とは？", "a": "データを暗号化して『身代金』を要求するコンピューターウイルス『ランサムウェア』のことです。" }
+    ],
+    "quiz": [
+      { "q": "The kidnappers demanded a huge ___.（身代金）", "A": "ransom", "B": "random", "C": "ranch", "D": "rank", "correct": "A" },
+      { "q": "ransom と同じ語源（買い戻す）の語はどれ？", "A": "redeem", "B": "remove", "C": "reduce", "D": "refuse", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rash",
+    "pron": "ræʃ",
+    "kana": "ラッシュ",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞・形容詞",
+    "ld_etym": "中英語 rasch（すばやい）／発疹は別系統",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "多義語"],
+    "meaning_main": "発疹・吹き出物／軽率な・性急な",
+    "description": "rash の意味・発音・例文・語源を解説。皮膚の「発疹」と、「軽率な・性急な」という二つの意味を分かりやすく紹介します。",
+    "keywords": ["rash 意味", "rash 発音", "rash 発疹 軽率", "rash decision 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】発疹・吹き出物", "note": "皮膚に出る赤いぶつぶつ。a skin rash（皮膚の発疹）。" },
+      { "hinshi": "【形容詞】軽率な・性急な", "note": "よく考えない。a rash decision（軽率な決断）。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「発疹」として", "desc": "皮膚に出る赤いぶつぶつを表します。", "example_en": "She broke out in a rash after eating nuts.", "example_ja": "彼女はナッツを食べて発疹が出た。" },
+      { "title": "② 形容詞「軽率な」として", "desc": "よく考えない行動を表します。", "example_en": "Don't make a rash decision.", "example_ja": "軽率な決断をしてはいけない。" }
+    ],
+    "warn": [
+      "break out in a rash は『発疹が出る』。a rash decision は『軽率な決断』。",
+      "形容詞 rash（軽率な）は reckless（無謀な）に近い。副詞は rashly。"
+    ],
+    "etym_note": "形容詞の rash は中英語 rasch（すばやい・性急な）に由来します。名詞の『発疹』は古フランス語 rasche（皮膚病）系の別の語源とされ、同じつづりになりました。",
+    "etym_chain": [
+      { "node": "rasch", "sub": "すばやい・性急な", "era": "中英語" },
+      { "node": "rash", "sub": "軽率な／発疹", "era": "近代英語" },
+      { "node": "rash", "sub": "軽率な・発疹", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a skin rash", "ja": "皮膚の発疹" },
+      { "en": "break out in a rash", "ja": "発疹が出る" },
+      { "en": "a rash decision", "ja": "軽率な決断" },
+      { "en": "a rash promise", "ja": "軽はずみな約束" },
+      { "en": "rash and impulsive", "ja": "軽率で衝動的な" },
+      { "en": "act rashly", "ja": "軽率に行動する" }
+    ],
+    "related": [
+      { "en": "reckless", "ja": "無謀な" },
+      { "en": "hasty", "ja": "性急な" },
+      { "en": "impulsive", "ja": "衝動的な" },
+      { "en": "cautious", "ja": "慎重な（反対語）" }
+    ],
+    "faq": [
+      { "q": "rash の二つの意味は？", "a": "①名詞『発疹・吹き出物』と、②形容詞『軽率な・性急な』です。同じつづりですが語源は別系統です。" },
+      { "q": "a rash decision とは？", "a": "『（よく考えない）軽率な決断』という意味です。" }
+    ],
+    "quiz": [
+      { "q": "Don't make a ___ decision.（軽率な決断）", "A": "rash", "B": "rush", "C": "rich", "D": "rough", "correct": "A" },
+      { "q": "「発疹が出る」を表すのはどれ？", "A": "break out in a rash", "B": "break out in a rush", "C": "break out in a rich", "D": "break out in a rough", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ravage",
+    "pron": "ˈrævɪdʒ",
+    "kana": "ラビッジ",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "フランス語 ravager（荒らす）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "荒廃させる・破壊する／（the ravages of）破壊の跡",
+    "description": "ravage の意味・発音・例文・語源を解説。戦争や災害が土地を「荒廃させる」使い方や、the ravages of time（時の流れによる損傷）も紹介します。",
+    "keywords": ["ravage 意味", "ravage 発音", "ravages of time 意味", "ravage 荒廃"],
+    "meanings": [
+      { "hinshi": "【動詞】荒廃させる・破壊する", "note": "戦争・災害・病気がひどく損なう。" },
+      { "hinshi": "【名詞】(the ravages of) 〜による破壊の跡", "note": "the ravages of war（戦争による荒廃）。" }
+    ],
+    "usages": [
+      { "title": "① 「荒廃させる・破壊する」として", "desc": "戦争・災害などがひどく損なう意味です。", "example_en": "The country was ravaged by war.", "example_ja": "その国は戦争で荒廃した。" },
+      { "title": "② the ravages of として", "desc": "「〜による破壊・損傷の跡」を表します。", "example_en": "The building showed the ravages of time.", "example_ja": "その建物は時の流れによる傷みを見せていた。" }
+    ],
+    "warn": [
+      "be ravaged by（〜に荒らされる）の受動態が多い。the ravages of war / time / disease。",
+      "発音は /ˈrævɪdʒ/「ラビッジ」。"
+    ],
+    "etym_note": "フランス語 ravager（荒らす。ravir「奪い去る」から）に由来します。「激しく奪い荒らす」が原義で、ravish（奪い去る）と同じ語源です。",
+    "etym_chain": [
+      { "node": "ravir", "sub": "奪い去る", "era": "フランス語" },
+      { "node": "ravager", "sub": "荒らす", "era": "フランス語" },
+      { "node": "ravage", "sub": "荒廃させる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be ravaged by", "ja": "〜に荒らされる" },
+      { "en": "the ravages of war", "ja": "戦争による荒廃" },
+      { "en": "the ravages of time", "ja": "時の流れによる傷み" },
+      { "en": "ravage the land", "ja": "土地を荒廃させる" },
+      { "en": "ravaged by disease", "ja": "病気にむしばまれた" },
+      { "en": "war-ravaged", "ja": "戦争で荒廃した" }
+    ],
+    "related": [
+      { "en": "devastate", "ja": "壊滅させる" },
+      { "en": "destroy", "ja": "破壊する" },
+      { "en": "ruin", "ja": "荒廃させる" },
+      { "en": "damage", "ja": "損なう" }
+    ],
+    "faq": [
+      { "q": "the ravages of time とは？", "a": "『時の流れによる損傷・荒廃』という意味です。建物や肌が年月で傷むことなどに使います。" },
+      { "q": "ravage はどんなものに使う？", "a": "戦争・災害・病気など、ひどく『荒廃させる・むしばむ』ものに使います。be ravaged by war（戦争で荒廃する）のように受動態が多いです。" }
+    ],
+    "quiz": [
+      { "q": "The country was ___ by war.（荒廃した）", "A": "ravaged", "B": "reduced", "C": "removed", "D": "refused", "correct": "A" },
+      { "q": "「時の流れによる傷み」を表すのはどれ？", "A": "the ravages of time", "B": "the ranges of time", "C": "the rivals of time", "D": "the rituals of time", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reel",
+    "pron": "riːl",
+    "kana": "リール",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "古英語 hrēol（糸巻き）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "多義語"],
+    "meaning_main": "リール・糸巻き／（糸を）巻き取る／よろめく",
+    "description": "reel の意味・発音・例文・語源を解説。釣りや糸の「リール」や、reel in（巻き取る）、「よろめく・くらくらする」の意味も分かりやすく紹介します。",
+    "keywords": ["reel 意味", "reel 発音", "reel in 意味", "reel よろめく"],
+    "meanings": [
+      { "hinshi": "【名詞】リール・糸巻き", "note": "糸・テープ・フィルムを巻く道具。a fishing reel（釣りのリール）。" },
+      { "hinshi": "【動詞】（糸を）巻き取る・たぐり寄せる", "note": "reel in a fish（魚をたぐり寄せる）。" },
+      { "hinshi": "【動詞】よろめく・くらくらする", "note": "驚き・衝撃でふらつく。" }
+    ],
+    "usages": [
+      { "title": "① 「リール・巻き取る」として", "desc": "糸を巻き取る道具・動作を表します。", "example_en": "He reeled in a big fish.", "example_ja": "彼は大きな魚をたぐり寄せた。" },
+      { "title": "② 「よろめく・くらくらする」として", "desc": "衝撃でふらつく意味です。", "example_en": "She was still reeling from the shock.", "example_ja": "彼女はまだその衝撃でくらくらしていた。" }
+    ],
+    "warn": [
+      "reel in は『（釣り糸を）巻き取る／（客などを）引き寄せる』。reel off は『すらすら言う』。",
+      "reel from は『（衝撃で）くらくらする・打ちのめされる』。"
+    ],
+    "etym_note": "古英語 hrēol（糸巻き）に由来する古いゲルマン系の語です。「ぐるぐる巻く」イメージから、めまいで『ぐるぐる回る＝よろめく』の意味も生まれました。",
+    "etym_chain": [
+      { "node": "hrēol", "sub": "糸巻き", "era": "古英語" },
+      { "node": "reel", "sub": "リール・巻く", "era": "中英語" },
+      { "node": "reel", "sub": "リール・よろめく", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a fishing reel", "ja": "釣りのリール" },
+      { "en": "reel in", "ja": "巻き取る・引き寄せる" },
+      { "en": "reel off", "ja": "すらすら言う" },
+      { "en": "reel from shock", "ja": "衝撃でくらくらする" },
+      { "en": "a reel of film", "ja": "フィルム1巻" },
+      { "en": "the head reels", "ja": "頭がくらくらする" }
+    ],
+    "related": [
+      { "en": "spool", "ja": "糸巻き・スプール" },
+      { "en": "wind", "ja": "巻く" },
+      { "en": "stagger", "ja": "よろめく" },
+      { "en": "spin", "ja": "回る" }
+    ],
+    "faq": [
+      { "q": "reel in とはどんな意味？", "a": "『（釣り糸を）巻き取る・たぐり寄せる』、また比喩で『（客などを）引き寄せる』という意味です。" },
+      { "q": "reel from とは？", "a": "『（衝撃・知らせで）くらくらする・打ちのめされる』という意味です。" }
+    ],
+    "quiz": [
+      { "q": "He ___ in a big fish.（たぐり寄せた）", "A": "reeled", "B": "ruled", "C": "rolled", "D": "ranged", "correct": "A" },
+      { "q": "「衝撃でくらくらする」を表すのはどれ？", "A": "reel from shock", "B": "rule from shock", "C": "roll from shock", "D": "range from shock", "correct": "A" }
+    ]
+  },
+  {
+    "english": "referendum",
+    "pron": "ˌrefəˈrendəm",
+    "kana": "レファレンダム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 referendum（付託されるべきこと）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "社会"],
+    "meaning_main": "国民投票・住民投票",
+    "description": "referendum の意味・発音・例文・語源を解説。重要事項を直接問う「国民投票」の使い方や、refer（ゆだねる）との関係も分かりやすく紹介します。",
+    "keywords": ["referendum 意味", "referendum 発音", "referendum 国民投票", "refer 関係"],
+    "meanings": [
+      { "hinshi": "【名詞】国民投票・住民投票", "note": "重要事項を有権者の直接投票で決めること。hold a referendum（国民投票を行う）。" }
+    ],
+    "usages": [
+      { "title": "① 「国民投票」として", "desc": "重要事項を国民が直接投票で決める仕組みです。", "example_en": "The country held a referendum on independence.", "example_ja": "その国は独立をめぐる国民投票を行った。" },
+      { "title": "② 結果を語って", "desc": "投票の結果を述べるときに使います。", "example_en": "Voters rejected the proposal in the referendum.", "example_ja": "有権者は国民投票でその提案を否決した。" }
+    ],
+    "warn": [
+      "複数形は referendums または referenda（ラテン語系）。",
+      "refer（ゆだねる）＋ -endum で『（決定を）国民にゆだねること』が原義。"
+    ],
+    "etym_note": "ラテン語 referendum（referre「ゆだねる・報告する」の動形容詞＝付託されるべきこと）に由来します。refer・reference と同じ語源で、「（決定を）国民に付託すること」が原義です。",
+    "etym_chain": [
+      { "node": "referre", "sub": "ゆだねる・報告する", "era": "ラテン語" },
+      { "node": "referendum", "sub": "付託されるべきこと", "era": "ラテン語" },
+      { "node": "referendum", "sub": "国民投票", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "hold a referendum", "ja": "国民投票を行う" },
+      { "en": "a national referendum", "ja": "国民投票" },
+      { "en": "a referendum on", "ja": "〜をめぐる国民投票" },
+      { "en": "win the referendum", "ja": "国民投票で勝つ" },
+      { "en": "call a referendum", "ja": "国民投票を呼びかける" },
+      { "en": "the referendum result", "ja": "国民投票の結果" }
+    ],
+    "related": [
+      { "en": "vote", "ja": "投票" },
+      { "en": "ballot", "ja": "投票・投票用紙" },
+      { "en": "poll", "ja": "投票・世論調査" },
+      { "en": "election", "ja": "選挙" }
+    ],
+    "faq": [
+      { "q": "referendum と election の違いは？", "a": "election は『（人を選ぶ）選挙』、referendum は『（特定の問題について賛否を問う）国民投票・住民投票』です。" },
+      { "q": "referendum の複数形は？", "a": "referendums または referenda（ラテン語系）です。" }
+    ],
+    "quiz": [
+      { "q": "The country held a ___ on independence.（国民投票）", "A": "referendum", "B": "reference", "C": "referee", "D": "reservation", "correct": "A" },
+      { "q": "referendum と同じ語源（ゆだねる）の語はどれ？", "A": "refer", "B": "reduce", "C": "remove", "D": "refuse", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reflex",
+    "pron": "ˈriːfleks",
+    "kana": "リーフレックス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 reflexus（曲げ返された）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "理科"],
+    "meaning_main": "反射・反射運動・とっさの反応",
+    "description": "reflex の意味・発音・例文・語源を解説。意識せず体が動く「反射」の使い方や、reflect（反射する）との関係も分かりやすく紹介します。",
+    "keywords": ["reflex 意味", "reflex 発音", "reflex action 意味", "reflect 関係"],
+    "meanings": [
+      { "hinshi": "【名詞】反射・反射運動", "note": "意識せず自動的に起こる体の反応。a reflex action（反射運動）。" },
+      { "hinshi": "【名詞】(reflexes) とっさの反応・反射神経", "note": "quick reflexes（すばやい反射神経）。" }
+    ],
+    "usages": [
+      { "title": "① 「反射運動」として", "desc": "意識せず自動で起こる反応を表します。", "example_en": "Blinking is a natural reflex.", "example_ja": "まばたきは自然な反射だ。" },
+      { "title": "② reflexes（反射神経）として", "desc": "とっさの反応の速さを表します。", "example_en": "Athletes need quick reflexes.", "example_ja": "運動選手にはすばやい反射神経が必要だ。" }
+    ],
+    "warn": [
+      "a reflex action は『反射運動』。reflexes（複数形）は『反射神経』。reflect（反射する・熟考する）と語源は同じ。",
+      "形容詞 reflexive は文法で『再帰の』（reflexive pronoun＝再帰代名詞）。"
+    ],
+    "etym_note": "ラテン語 reflexus（reflectere「曲げ返す」の過去分詞＝曲げ返された）に由来します。reflect と同じ語源で、「刺激が（神経で）曲げ返されて起こる反応」が原義です。",
+    "etym_chain": [
+      { "node": "reflectere", "sub": "曲げ返す", "era": "ラテン語" },
+      { "node": "reflexus", "sub": "曲げ返された", "era": "ラテン語" },
+      { "node": "reflex", "sub": "反射", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a reflex action", "ja": "反射運動" },
+      { "en": "quick reflexes", "ja": "すばやい反射神経" },
+      { "en": "a natural reflex", "ja": "自然な反射" },
+      { "en": "a knee-jerk reflex", "ja": "膝蓋腱反射・脊髄反射" },
+      { "en": "by reflex", "ja": "反射的に" },
+      { "en": "test one's reflexes", "ja": "反射を調べる" }
+    ],
+    "related": [
+      { "en": "reflect", "ja": "反射する" },
+      { "en": "reaction", "ja": "反応" },
+      { "en": "instinct", "ja": "本能" },
+      { "en": "response", "ja": "応答・反応" }
+    ],
+    "faq": [
+      { "q": "reflex と reflexes の違いは？", "a": "単数 a reflex は『（個々の）反射運動』、複数 reflexes は『反射神経（とっさの反応の速さ）』を指すことが多いです。" },
+      { "q": "reflex と reflect の関係は？", "a": "どちらもラテン語 reflectere（曲げ返す）由来です。reflex は『（刺激が曲げ返されて起こる）反射』です。" }
+    ],
+    "quiz": [
+      { "q": "Blinking is a natural ___.（反射）", "A": "reflex", "B": "reflect", "C": "reflection", "D": "reform", "correct": "A" },
+      { "q": "「すばやい反射神経」を表すのはどれ？", "A": "quick reflexes", "B": "quick reflects", "C": "quick reforms", "D": "quick refers", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rehabilitate",
+    "pron": "ˌriːhəˈbɪlɪteɪt",
+    "kana": "リハビリテイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 rehabilitare（再び適応させる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "社会復帰させる・更生させる・リハビリさせる",
+    "description": "rehabilitate の意味・発音・例文・語源を解説。病気やけがからの「リハビリ・社会復帰」の使い方や、名詞 rehabilitation（リハビリ）も紹介します。",
+    "keywords": ["rehabilitate 意味", "rehabilitate 発音", "rehabilitation 意味", "rehab 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（健康・能力を）回復させる・リハビリさせる", "note": "けが・病気から体の機能を取り戻させる。" },
+      { "hinshi": "【動詞】社会復帰させる・更生させる", "note": "受刑者などを社会に戻す。" }
+    ],
+    "usages": [
+      { "title": "① 「リハビリ・回復させる」として", "desc": "けがや病気から機能を取り戻させる意味です。", "example_en": "The program helps rehabilitate stroke patients.", "example_ja": "そのプログラムは脳卒中患者のリハビリを助ける。" },
+      { "title": "② 「社会復帰・更生させる」として", "desc": "受刑者などを社会に戻す意味です。", "example_en": "The prison aims to rehabilitate offenders.", "example_ja": "その刑務所は犯罪者の更生を目指している。" }
+    ],
+    "warn": [
+      "名詞は rehabilitation（リハビリ・社会復帰・更生）。略して rehab。",
+      "habit（習慣）と語源的に関係し、re-（再び）＋ habilitare（適応させる）。"
+    ],
+    "etym_note": "ラテン語 rehabilitare（re-「再び」＋ habilitare「適応させる」。habilis「適した」から）に由来します。ability・able と同じ語源で、「再び（適応・機能できるように）する」が原義です。",
+    "etym_chain": [
+      { "node": "habilis", "sub": "適した", "era": "ラテン語" },
+      { "node": "rehabilitare", "sub": "再び適応させる", "era": "後期ラテン語" },
+      { "node": "rehabilitate", "sub": "社会復帰させる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rehabilitate patients", "ja": "患者をリハビリさせる" },
+      { "en": "rehabilitate offenders", "ja": "犯罪者を更生させる" },
+      { "en": "a rehabilitation center", "ja": "リハビリ施設" },
+      { "en": "physical rehabilitation", "ja": "身体のリハビリ" },
+      { "en": "drug rehabilitation", "ja": "薬物依存からの更生" },
+      { "en": "in rehab", "ja": "リハビリ中で" }
+    ],
+    "related": [
+      { "en": "rehabilitation", "ja": "リハビリ・更生（名詞）" },
+      { "en": "recover", "ja": "回復する" },
+      { "en": "restore", "ja": "回復させる" },
+      { "en": "reform", "ja": "改める" }
+    ],
+    "faq": [
+      { "q": "rehabilitate の二つの使い方は？", "a": "①けが・病気から『機能を回復させる（リハビリ）』と、②受刑者などを『社会復帰させる・更生させる』です。" },
+      { "q": "rehab とは？", "a": "rehabilitation（リハビリ・社会復帰・更生施設）の略語です。" }
+    ],
+    "quiz": [
+      { "q": "The program helps ___ stroke patients.（リハビリさせる）", "A": "rehabilitate", "B": "reproduce", "C": "reconsider", "D": "reinforce", "correct": "A" },
+      { "q": "rehabilitate の名詞形はどれ？", "A": "rehabilitation", "B": "rehabilitment", "C": "rehabilitance", "D": "rehabilitness", "correct": "A" }
+    ]
+  },
+  {
+    "english": "repeal",
+    "pron": "rɪˈpiːl",
+    "kana": "リピール",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "古フランス語 repeler（呼び戻す）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "社会"],
+    "meaning_main": "（法律を）廃止する・撤廃する／廃止",
+    "description": "repeal の意味・発音・例文・語源を解説。法律を「廃止する」という使い方や、abolish（廃止する）との近さも分かりやすく紹介します。",
+    "keywords": ["repeal 意味", "repeal 発音", "repeal a law 意味", "repeal abolish 違い"],
+    "meanings": [
+      { "hinshi": "【動詞】（法律・規則を）廃止する・撤廃する", "note": "正式に法律を無効にする。repeal a law（法律を廃止する）。" },
+      { "hinshi": "【名詞】廃止・撤廃", "note": "the repeal of a law（法律の廃止）。" }
+    ],
+    "usages": [
+      { "title": "① 「（法律を）廃止する」として", "desc": "成立した法律を正式に無効にする意味です。", "example_en": "Congress voted to repeal the old law.", "example_ja": "議会は古い法律の廃止を可決した。" },
+      { "title": "② 名詞「廃止」として", "desc": "法律を取り消すことを表します。", "example_en": "They called for the repeal of the tax.", "example_ja": "彼らはその税の廃止を求めた。" }
+    ],
+    "warn": [
+      "repeal は『（法律を）正式に廃止する』。abolish（制度・慣習を廃止する）と近い。",
+      "appeal（訴える）とつづり・発音が似ているが別語。"
+    ],
+    "etym_note": "古フランス語 repeler（re-「逆に」＋ apeler「呼ぶ」＝呼び戻す）に由来します。appeal と同じ語源で、「（法を）呼び戻して取り消す＝廃止する」が原義です。",
+    "etym_chain": [
+      { "node": "repeler", "sub": "呼び戻す", "era": "古フランス語" },
+      { "node": "repeal", "sub": "廃止する", "era": "中英語" },
+      { "node": "repeal", "sub": "廃止する・廃止", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "repeal a law", "ja": "法律を廃止する" },
+      { "en": "repeal a ban", "ja": "禁止を撤廃する" },
+      { "en": "the repeal of", "ja": "〜の廃止" },
+      { "en": "call for repeal", "ja": "廃止を求める" },
+      { "en": "vote to repeal", "ja": "廃止を可決する" },
+      { "en": "repeal and replace", "ja": "廃止して置き換える" }
+    ],
+    "related": [
+      { "en": "abolish", "ja": "廃止する" },
+      { "en": "revoke", "ja": "取り消す" },
+      { "en": "cancel", "ja": "取り消す" },
+      { "en": "enact", "ja": "（法律を）制定する（反対語）" }
+    ],
+    "faq": [
+      { "q": "repeal と abolish の違いは？", "a": "repeal はおもに『（法律を）正式に廃止する』、abolish は『（制度・慣習・奴隷制などを）廃止する』です。意味は近いです。" },
+      { "q": "repeal と appeal は同じ？", "a": "違います。repeal は『（法律を）廃止する』、appeal は『訴える・懇願する』です。つづり・発音が似ているので注意しましょう。" }
+    ],
+    "quiz": [
+      { "q": "Congress voted to ___ the old law.（廃止する）", "A": "repeal", "B": "appeal の訴える", "C": "reveal", "D": "repeat", "correct": "A" },
+      { "q": "repeal の反対語（法律を制定する）はどれ？", "A": "enact", "B": "abolish", "C": "revoke", "D": "cancel", "correct": "A" }
+    ]
+  },
+  {
+    "english": "replica",
+    "pron": "ˈreplɪkə",
+    "kana": "レプリカ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "イタリア語 replica（繰り返し・複製）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "もの"],
+    "meaning_main": "複製・レプリカ・忠実な模型",
+    "description": "replica の意味・発音・例文・語源を解説。本物そっくりの「複製・レプリカ」の使い方や、copy との違いも分かりやすく紹介します。",
+    "keywords": ["replica 意味", "replica 発音", "replica copy 違い", "replica レプリカ"],
+    "meanings": [
+      { "hinshi": "【名詞】複製・レプリカ・忠実な模型", "note": "本物そっくりに作られたもの。an exact replica（精巧な複製）。" }
+    ],
+    "usages": [
+      { "title": "① 「複製・レプリカ」として", "desc": "本物そっくりに作った模型・複製を表します。", "example_en": "The museum has a replica of the famous statue.", "example_ja": "その博物館にはあの有名な像の複製がある。" },
+      { "title": "② 精巧さを強調して", "desc": "an exact replica（精巧な複製）のように使います。", "example_en": "He built an exact replica of the old ship.", "example_ja": "彼はその古い船の精巧な複製を作った。" }
+    ],
+    "warn": [
+      "replica は『（本物そっくりの）精巧な複製・模型』。copy はより一般的な『複製・写し』。",
+      "a replica of＋もと（〜の複製）の形で使う。"
+    ],
+    "etym_note": "イタリア語 replica（繰り返し・複製。replicare「折り返す・繰り返す」から）に由来します。reply・replicate と同じ語源で、「（同じものを）繰り返し作ったもの」が原義です。",
+    "etym_chain": [
+      { "node": "replicare", "sub": "折り返す・繰り返す", "era": "ラテン語" },
+      { "node": "replica", "sub": "複製", "era": "イタリア語" },
+      { "node": "replica", "sub": "複製・レプリカ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a replica of", "ja": "〜の複製" },
+      { "en": "an exact replica", "ja": "精巧な複製" },
+      { "en": "a full-size replica", "ja": "実物大の複製" },
+      { "en": "a replica gun", "ja": "模造銃" },
+      { "en": "build a replica", "ja": "複製を作る" },
+      { "en": "a faithful replica", "ja": "忠実な複製" }
+    ],
+    "related": [
+      { "en": "copy", "ja": "複製・写し" },
+      { "en": "reproduction", "ja": "複製・再現" },
+      { "en": "model", "ja": "模型" },
+      { "en": "original", "ja": "原物（反対語）" }
+    ],
+    "faq": [
+      { "q": "replica と copy の違いは？", "a": "replica は『（本物そっくりに作った）精巧な複製・模型』、copy はより一般的な『複製・写し』です。" },
+      { "q": "a replica of とは？", "a": "『〜の複製』という意味です。a replica of the original（原物の複製）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The museum has a ___ of the famous statue.（複製）", "A": "replica", "B": "replay", "C": "reply", "D": "replace", "correct": "A" },
+      { "q": "「精巧な複製」を表すのはどれ？", "A": "an exact replica", "B": "an exact reply", "C": "an exact relay", "D": "an exact relish", "correct": "A" }
+    ]
+  }
+]
