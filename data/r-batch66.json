@@ -1,0 +1,528 @@
+[
+  {
+    "english": "rosemary",
+    "pron": "ˈroʊzmeri",
+    "kana": "ローズマリー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 ros marinus（海のしずく）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "ハーブ・料理"],
+    "meaning_main": "ローズマリー（香りのよい常緑のハーブ）",
+    "description": "rosemary の意味・発音・例文・語源を解説。肉料理などに使う香りのよい常緑のハーブ「ローズマリー」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["rosemary 意味", "rosemary 発音", "rosemary ハーブ", "rosemary 料理"],
+    "meanings": [
+      { "hinshi": "【名詞】ローズマリー", "note": "針のような葉をもつ常緑のハーブ。さわやかな香りで肉料理・パンの風味づけに使う。" }
+    ],
+    "usages": [
+      { "title": "① 料理のハーブとして", "desc": "肉料理などの風味づけに使います。", "example_en": "She seasoned the lamb with rosemary.", "example_ja": "彼女はラム肉をローズマリーで味つけした。" },
+      { "title": "② 植物として", "desc": "庭で育てる常緑のハーブを指します。", "example_en": "Rosemary grows well in sunny gardens.", "example_ja": "ローズマリーは日当たりのよい庭でよく育つ。" }
+    ],
+    "warn": [
+      "rosemary は『香りのよい常緑のハーブ』。rose（ばら）＋ mary ではなく、語源は『海のしずく』。",
+      "発音は『ローズマリー（ˈroʊzmeri）』。女性名 Rosemary と同じつづり。"
+    ],
+    "etym_note": "ラテン語 ros marinus（ros「しずく・露」＋ marinus「海の」＝海のしずく）に由来します。海辺に育つことから名づけられ、英語では rose や Mary と結びつけて綴られるようになりました。",
+    "etym_chain": [
+      { "node": "ros marinus", "sub": "海のしずく", "era": "ラテン語" },
+      { "node": "rosmarine", "sub": "ローズマリー", "era": "中英語" },
+      { "node": "rosemary", "sub": "ローズマリー", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "fresh rosemary", "ja": "生のローズマリー" },
+      { "en": "a sprig of rosemary", "ja": "ローズマリーの小枝1本" },
+      { "en": "rosemary and thyme", "ja": "ローズマリーとタイム" },
+      { "en": "season with rosemary", "ja": "ローズマリーで味つけする" },
+      { "en": "dried rosemary", "ja": "乾燥ローズマリー" },
+      { "en": "rosemary oil", "ja": "ローズマリーオイル" }
+    ],
+    "related": [
+      { "en": "thyme", "ja": "タイム" },
+      { "en": "herb", "ja": "ハーブ・香草" },
+      { "en": "basil", "ja": "バジル" },
+      { "en": "sage", "ja": "セージ" }
+    ],
+    "faq": [
+      { "q": "rosemary とはどんな意味？", "a": "針のような葉をもつ香りのよい常緑のハーブ『ローズマリー』のことです。肉料理やパンの風味づけによく使われます。" },
+      { "q": "rosemary の語源は？", "a": "ラテン語 ros marinus（海のしずく）です。海辺に育つことに由来し、ばら（rose）とは直接の関係はありません。" }
+    ],
+    "quiz": [
+      { "q": "She seasoned the lamb with ___.（ローズマリー）", "A": "rosemary", "B": "rosary のロザリオ", "C": "rosette の花形飾り", "D": "rosin の松やに", "correct": "A" },
+      { "q": "rosemary の語源の意味はどれ？", "A": "海のしずく", "B": "赤いばら", "C": "聖なる花", "D": "山の草", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rune",
+    "pron": "ruːn",
+    "kana": "ルーン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古ノルド語 rún（秘密・文字）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "歴史・文化"],
+    "meaning_main": "ルーン文字（古代ゲルマン人の文字）／神秘的な記号・呪符",
+    "description": "rune の意味・発音・例文・語源を解説。古代ゲルマン人が使った「ルーン文字」や、神秘的な「記号・呪符」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["rune 意味", "rune 発音", "rune ルーン文字", "rune 記号"],
+    "meanings": [
+      { "hinshi": "【名詞】ルーン文字", "note": "古代ゲルマン人・北欧人が石や木に刻んだ角張った文字。占いや呪術にも使われた。" },
+      { "hinshi": "【名詞】神秘的な記号・呪符", "note": "魔法や予言に関わる謎めいた記号。" }
+    ],
+    "usages": [
+      { "title": "① 「ルーン文字」として", "desc": "古代の刻み文字を指します。", "example_en": "The ancient stone was carved with runes.", "example_ja": "その古い石にはルーン文字が刻まれていた。" },
+      { "title": "② 「神秘的な記号」として", "desc": "占いや魔法の記号を表します。", "example_en": "She read the future by casting runes.", "example_ja": "彼女はルーンを投げて未来を占った。" }
+    ],
+    "warn": [
+      "rune は『古代ゲルマンのルーン文字』、転じて『神秘的な記号・呪符』。ファンタジー作品にもよく登場する。",
+      "形容詞は runic（ルーン文字の）。"
+    ],
+    "etym_note": "古ノルド語・古英語の rún（秘密・ささやき・文字）に由来します。もともと「秘密」を意味し、神秘的な力をもつ刻み文字を指すようになりました。",
+    "etym_chain": [
+      { "node": "rún", "sub": "秘密・文字", "era": "古ノルド語" },
+      { "node": "rune", "sub": "ルーン文字", "era": "中英語" },
+      { "node": "rune", "sub": "ルーン文字・呪符", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "carved with runes", "ja": "ルーン文字が刻まれた" },
+      { "en": "cast the runes", "ja": "ルーンで占う" },
+      { "en": "ancient runes", "ja": "古代のルーン文字" },
+      { "en": "read the runes", "ja": "ルーンを読み解く（兆しを読む）" },
+      { "en": "a magic rune", "ja": "魔法のルーン" },
+      { "en": "runic alphabet", "ja": "ルーン文字のアルファベット" }
+    ],
+    "related": [
+      { "en": "runic", "ja": "ルーン文字の" },
+      { "en": "symbol", "ja": "記号" },
+      { "en": "inscription", "ja": "刻まれた文字" },
+      { "en": "glyph", "ja": "字形・記号" }
+    ],
+    "faq": [
+      { "q": "rune とはどんな意味？", "a": "古代ゲルマン人・北欧人が石や木に刻んだ角張った文字『ルーン文字』のことです。占いや呪術にも使われ、転じて『神秘的な記号・呪符』も指します。" },
+      { "q": "read the runes とは？", "a": "文字どおりはルーンを読み解くことですが、比喩で『（状況の）兆し・流れを読み取る』という意味でも使われます。" }
+    ],
+    "quiz": [
+      { "q": "The ancient stone was carved with ___s.（ルーン文字）", "A": "rune", "B": "ruin の廃墟", "C": "rule の規則", "D": "rust のさび", "correct": "A" },
+      { "q": "rune の語源の意味はどれ？", "A": "秘密", "B": "石", "C": "王", "D": "光", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rumpus",
+    "pron": "ˈrʌmpəs",
+    "kana": "ランパス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "由来不明（18世紀の俗語）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "口語"],
+    "meaning_main": "大騒ぎ・騒動・やかましい言い争い",
+    "description": "rumpus の意味・発音・例文・語源を解説。やかましい「大騒ぎ・騒動・言い争い」を表すくだけた語の使い方を分かりやすく紹介します。",
+    "keywords": ["rumpus 意味", "rumpus 発音", "rumpus 大騒ぎ", "rumpus 騒動"],
+    "meanings": [
+      { "hinshi": "【名詞】大騒ぎ・騒動・やかましい言い争い", "note": "騒々しい混乱や抗議。make a rumpus（大騒ぎする）。くだけた語。" }
+    ],
+    "usages": [
+      { "title": "① 「大騒ぎ・騒動」として", "desc": "やかましい混乱を表します。", "example_en": "The children made a rumpus in the hallway.", "example_ja": "子どもたちは廊下で大騒ぎした。" },
+      { "title": "② 「抗議の騒ぎ」として", "desc": "怒りや抗議による騒動を表します。", "example_en": "His comments caused quite a rumpus.", "example_ja": "彼の発言はかなりの騒動を引き起こした。" }
+    ],
+    "warn": [
+      "rumpus は『（やかましい）大騒ぎ・騒動』というくだけた語。make / cause a rumpus が定番。",
+      "アメリカでは rumpus room（家族がくつろぐ遊戯室・娯楽室）という言い方もある。"
+    ],
+    "etym_note": "18世紀の英語に現れた俗語で、はっきりした語源は不明です。robustious（騒々しい）などからの連想ともいわれ、「騒がしさ」を表す擬音的な語と考えられます。",
+    "etym_chain": [
+      { "node": "rumpus", "sub": "騒ぎ（俗語）", "era": "近代英語" },
+      { "node": "rumpus", "sub": "大騒ぎ", "era": "近代英語" },
+      { "node": "rumpus", "sub": "大騒ぎ・騒動", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "make a rumpus", "ja": "大騒ぎする" },
+      { "en": "cause a rumpus", "ja": "騒動を引き起こす" },
+      { "en": "quite a rumpus", "ja": "かなりの騒ぎ" },
+      { "en": "kick up a rumpus", "ja": "騒ぎ立てる" },
+      { "en": "a rumpus over", "ja": "〜をめぐる騒動" },
+      { "en": "a rumpus room", "ja": "遊戯室・娯楽室" }
+    ],
+    "related": [
+      { "en": "commotion", "ja": "騒動・混乱" },
+      { "en": "fuss", "ja": "から騒ぎ" },
+      { "en": "uproar", "ja": "大騒ぎ" },
+      { "en": "ruckus", "ja": "騒ぎ" }
+    ],
+    "faq": [
+      { "q": "rumpus とはどんな意味？", "a": "やかましい『大騒ぎ・騒動・言い争い』を表すくだけた名詞です。make a rumpus（大騒ぎする）、cause a rumpus（騒動を引き起こす）のように使います。" },
+      { "q": "rumpus と ruckus の違いは？", "a": "どちらも『騒ぎ』を表すくだけた語でほぼ同じ意味です。ruckus はアメリカでよく使われ、rumpus はやや古風で英米どちらでも使われます。" }
+    ],
+    "quiz": [
+      { "q": "The children made a ___ in the hallway.（大騒ぎ）", "A": "rumpus", "B": "rumple のしわ", "C": "rumba のルンバ", "D": "rumor のうわさ", "correct": "A" },
+      { "q": "rumpus に近い意味はどれ？", "A": "commotion（騒動）", "B": "silence（静寂）", "C": "comfort（快適さ）", "D": "harmony（調和）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ringmaster",
+    "pron": "ˈrɪŋmæstər",
+    "kana": "リングマスター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ring（円形の演技場）＋ master（仕切る人）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "文化"],
+    "meaning_main": "（サーカスの）団長・進行役／（比喩）全体を取り仕切る人",
+    "description": "ringmaster の意味・発音・例文・語源を解説。サーカスの演技を進行する「団長・進行役」や、場を取り仕切る人を表す語の使い方を紹介します。",
+    "keywords": ["ringmaster 意味", "ringmaster 発音", "ringmaster サーカス", "ringmaster 団長"],
+    "meanings": [
+      { "hinshi": "【名詞】（サーカスの）団長・進行役", "note": "円形の舞台（ring）で演目を紹介し進行を仕切る人。シルクハットに燕尾服が定番。" },
+      { "hinshi": "【名詞】（比喩）全体を取り仕切る人", "note": "騒がしい場や催しを巧みにまとめる人。" }
+    ],
+    "usages": [
+      { "title": "① サーカスの進行役として", "desc": "演目を紹介し進行を仕切る人を指します。", "example_en": "The ringmaster announced the next act.", "example_ja": "団長は次の演目を紹介した。" },
+      { "title": "② 「取り仕切る人」として", "desc": "場全体をまとめる人を表す比喩です。", "example_en": "He acted as ringmaster of the lively debate.", "example_ja": "彼はにぎやかな討論の進行役を務めた。" }
+    ],
+    "warn": [
+      "ringmaster の ring は『指輪』ではなく『サーカスの円形の演技場』。そこを仕切る master（主）の意味。",
+      "比喩で『（混乱しがちな場を）巧みに取り仕切る人』にも使う。"
+    ],
+    "etym_note": "ring（円形の演技場）＋ master（仕切る人・主人）の複合語です。サーカスの円形舞台で演技を進行・統括する人を指し、転じて「全体を取り仕切る人」の意味に広がりました。",
+    "etym_chain": [
+      { "node": "ring + master", "sub": "演技場＋仕切る人", "era": "近代英語" },
+      { "node": "ringmaster", "sub": "サーカスの団長", "era": "近代英語" },
+      { "node": "ringmaster", "sub": "団長・取り仕切る人", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the circus ringmaster", "ja": "サーカスの団長" },
+      { "en": "act as ringmaster", "ja": "進行役を務める" },
+      { "en": "the ringmaster announced", "ja": "団長が紹介した" },
+      { "en": "a skilled ringmaster", "ja": "巧みな進行役" },
+      { "en": "play ringmaster", "ja": "全体を取り仕切る" },
+      { "en": "the ringmaster's whip", "ja": "団長のむち" }
+    ],
+    "related": [
+      { "en": "circus", "ja": "サーカス" },
+      { "en": "host", "ja": "司会者・主催者" },
+      { "en": "master of ceremonies", "ja": "司会役・MC" },
+      { "en": "conductor", "ja": "（全体を）指揮する人" }
+    ],
+    "faq": [
+      { "q": "ringmaster とはどんな意味？", "a": "サーカスの円形舞台（ring）で演目を紹介し進行を仕切る『団長・進行役』のことです。比喩で『（場全体を）取り仕切る人』も指します。" },
+      { "q": "ringmaster の ring は指輪のこと？", "a": "いいえ。ここでの ring は『サーカスの円形の演技場』のことです。そこを仕切る master（主）が ringmaster です。" }
+    ],
+    "quiz": [
+      { "q": "The ___ announced the next act.（団長）", "A": "ringmaster", "B": "ringtone の着信音", "C": "ringlet の巻き毛", "D": "ringleader の首謀者", "correct": "A" },
+      { "q": "ringmaster の ring が指すのはどれ？", "A": "サーカスの円形の演技場", "B": "指輪", "C": "電話の呼び出し音", "D": "ボクシングの試合", "correct": "A" }
+    ]
+  },
+  {
+    "english": "roadrunner",
+    "pron": "ˈroʊdrʌnər",
+    "kana": "ロードランナー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "road（道）＋ runner（走るもの）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "自然・生き物"],
+    "meaning_main": "ミチバシリ（北米の砂漠にすむ、地上を速く走る鳥）",
+    "description": "roadrunner の意味・発音・例文・語源を解説。北米の砂漠で地上を速く走る鳥「ミチバシリ（ロードランナー）」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["roadrunner 意味", "roadrunner 発音", "roadrunner 鳥", "roadrunner ミチバシリ"],
+    "meanings": [
+      { "hinshi": "【名詞】ミチバシリ（ロードランナー）", "note": "北米南西部の砂漠地帯にすむカッコウの仲間。飛ぶより地上を速く走るのが特徴。" }
+    ],
+    "usages": [
+      { "title": "① 砂漠の鳥として", "desc": "地上を速く走る鳥を指します。", "example_en": "A roadrunner darted across the desert road.", "example_ja": "ミチバシリが砂漠の道を素早く横切った。" },
+      { "title": "② 特徴を述べて", "desc": "走る速さで知られています。", "example_en": "Roadrunners can run faster than they fly.", "example_ja": "ミチバシリは飛ぶより速く走ることができる。" }
+    ],
+    "warn": [
+      "roadrunner は『北米砂漠にすむ、地上を走る鳥（ミチバシリ）』。アニメのキャラクターでも有名。",
+      "road（道）＋ runner（走るもの）。道沿いを走る習性から名づけられた。"
+    ],
+    "etym_note": "road（道）＋ runner（走るもの）の複合語で、道沿いを素早く走る習性から名づけられました。カッコウ科の鳥で、北米南西部の砂漠に生息します。",
+    "etym_chain": [
+      { "node": "road + runner", "sub": "道＋走るもの", "era": "近代英語" },
+      { "node": "roadrunner", "sub": "道を走る鳥", "era": "近代英語" },
+      { "node": "roadrunner", "sub": "ミチバシリ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a desert roadrunner", "ja": "砂漠のミチバシリ" },
+      { "en": "a speedy roadrunner", "ja": "すばやいミチバシリ" },
+      { "en": "the roadrunner darted", "ja": "ミチバシリが素早く走った" },
+      { "en": "spot a roadrunner", "ja": "ミチバシリを見つける" },
+      { "en": "a roadrunner's nest", "ja": "ミチバシリの巣" },
+      { "en": "chase like a roadrunner", "ja": "ミチバシリのように走る" }
+    ],
+    "related": [
+      { "en": "cuckoo", "ja": "カッコウ" },
+      { "en": "desert", "ja": "砂漠" },
+      { "en": "bird", "ja": "鳥" },
+      { "en": "sprint", "ja": "全力疾走する" }
+    ],
+    "faq": [
+      { "q": "roadrunner とはどんな意味？", "a": "北米南西部の砂漠にすむカッコウの仲間の鳥『ミチバシリ（ロードランナー）』のことです。飛ぶよりも地上を速く走るのが特徴です。" },
+      { "q": "roadrunner という名前の由来は？", "a": "road（道）＋ runner（走るもの）で、道沿いを素早く走る習性から名づけられました。" }
+    ],
+    "quiz": [
+      { "q": "A ___ darted across the desert road.（ミチバシリ）", "A": "roadrunner", "B": "roadblock の障害", "C": "roadside の道端", "D": "roadway の車道", "correct": "A" },
+      { "q": "roadrunner の特徴はどれ？", "A": "地上を速く走る", "B": "高く飛ぶ", "C": "水中を泳ぐ", "D": "木に登る", "correct": "A" }
+    ]
+  },
+  {
+    "english": "redbreast",
+    "pron": "ˈredbrest",
+    "kana": "レッドブレスト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "red（赤い）＋ breast（胸）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "自然・生き物"],
+    "meaning_main": "コマドリ（赤い胸の小鳥、特にヨーロッパロビン）",
+    "description": "redbreast の意味・発音・例文・語源を解説。胸が赤い小鳥「コマドリ（ロビン）」を指す、やや文学的な語の使い方を分かりやすく紹介します。",
+    "keywords": ["redbreast 意味", "redbreast 発音", "redbreast コマドリ", "redbreast ロビン"],
+    "meanings": [
+      { "hinshi": "【名詞】コマドリ（赤い胸の小鳥）", "note": "胸がオレンジ赤色のヨーロッパロビン。the robin redbreast の形でも使う、やや文学的・古風な呼び名。" }
+    ],
+    "usages": [
+      { "title": "① 小鳥の呼び名として", "desc": "赤い胸の小鳥を指します。", "example_en": "A redbreast hopped across the snowy garden.", "example_ja": "コマドリが雪の庭を跳ねて横切った。" },
+      { "title": "② 文学・季節の象徴として", "desc": "冬やクリスマスの象徴として登場します。", "example_en": "The redbreast is a familiar sight in winter.", "example_ja": "コマドリは冬によく見かける鳥だ。" }
+    ],
+    "warn": [
+      "redbreast は『胸の赤い小鳥＝コマドリ（ロビン）』のやや文学的な呼び名。ふつうは robin という。",
+      "red（赤い）＋ breast（胸）から、胸の色で名づけられた。"
+    ],
+    "etym_note": "red（赤い）＋ breast（胸）の複合語で、胸がオレンジ赤色であることから名づけられました。robin redbreast（コマドリ）の形で、童謡や文学に古くから登場します。",
+    "etym_chain": [
+      { "node": "red + breast", "sub": "赤い＋胸", "era": "中英語" },
+      { "node": "redbreast", "sub": "赤い胸の鳥", "era": "近代英語" },
+      { "node": "redbreast", "sub": "コマドリ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the robin redbreast", "ja": "コマドリ" },
+      { "en": "a little redbreast", "ja": "小さなコマドリ" },
+      { "en": "a redbreast in winter", "ja": "冬のコマドリ" },
+      { "en": "the redbreast sang", "ja": "コマドリが歌った" },
+      { "en": "spot a redbreast", "ja": "コマドリを見つける" },
+      { "en": "a redbreast on the branch", "ja": "枝のコマドリ" }
+    ],
+    "related": [
+      { "en": "robin", "ja": "コマドリ" },
+      { "en": "breast", "ja": "胸" },
+      { "en": "sparrow", "ja": "スズメ" },
+      { "en": "songbird", "ja": "鳴き鳥" }
+    ],
+    "faq": [
+      { "q": "redbreast とはどんな意味？", "a": "胸がオレンジ赤色の小鳥『コマドリ（ロビン）』のやや文学的な呼び名です。red（赤い）＋ breast（胸）から名づけられ、童謡や詩によく登場します。" },
+      { "q": "redbreast と robin の違いは？", "a": "同じ鳥を指します。robin が一般的な呼び名で、redbreast は胸の色を強調したやや古風・文学的な言い方です。" }
+    ],
+    "quiz": [
+      { "q": "A ___ hopped across the snowy garden.（コマドリ）", "A": "redbreast", "B": "redhead の赤毛の人", "C": "redwood のセコイア", "D": "redskin", "correct": "A" },
+      { "q": "redbreast の名の由来はどれ？", "A": "胸が赤い色だから", "B": "頭が赤いから", "C": "羽が赤いから", "D": "足が赤いから", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rockabilly",
+    "pron": "ˈrɒkəbɪli",
+    "kana": "ロカビリー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rock (and roll)＋ hillbilly（田舎の音楽）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "音楽"],
+    "meaning_main": "ロカビリー（1950年代に生まれたロックと田舎音楽が混ざった音楽）",
+    "description": "rockabilly の意味・発音・例文・語源を解説。1950年代アメリカで生まれた、ロックとカントリーが混ざった音楽「ロカビリー」を指す語の使い方を紹介します。",
+    "keywords": ["rockabilly 意味", "rockabilly 発音", "rockabilly 音楽", "rockabilly ロカビリー"],
+    "meanings": [
+      { "hinshi": "【名詞】ロカビリー", "note": "1950年代アメリカ南部で生まれた、ロックンロールとカントリー（ヒルビリー）が融合した音楽スタイル。" }
+    ],
+    "usages": [
+      { "title": "① 音楽ジャンルとして", "desc": "ロックと田舎音楽が混ざった音楽を指します。", "example_en": "Elvis Presley helped popularize rockabilly.", "example_ja": "エルビス・プレスリーはロカビリーを広めるのに貢献した。" },
+      { "title": "② 形容詞的に", "desc": "そのスタイル・雰囲気を表します。", "example_en": "The band has a classic rockabilly sound.", "example_ja": "そのバンドは古典的なロカビリーの音をもつ。" }
+    ],
+    "warn": [
+      "rockabilly は『rock（ロックンロール）＋ hillbilly（田舎の音楽）』を合わせた語。1950年代アメリカ発祥。",
+      "発音は『ロカビリー（ˈrɒkəbɪli）』。"
+    ],
+    "etym_note": "rock (and roll)（ロックンロール）＋ hillbilly（アメリカ南部の田舎音楽・田舎者）を合わせた混成語です。両者が融合した1950年代の音楽スタイルを表します。",
+    "etym_chain": [
+      { "node": "rock + hillbilly", "sub": "ロック＋田舎音楽", "era": "現代英語" },
+      { "node": "rockabilly", "sub": "ロカビリー", "era": "現代英語" },
+      { "node": "rockabilly", "sub": "ロカビリー", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rockabilly music", "ja": "ロカビリー音楽" },
+      { "en": "a rockabilly band", "ja": "ロカビリーバンド" },
+      { "en": "classic rockabilly", "ja": "古典的なロカビリー" },
+      { "en": "play rockabilly", "ja": "ロカビリーを演奏する" },
+      { "en": "rockabilly style", "ja": "ロカビリー風スタイル" },
+      { "en": "a rockabilly revival", "ja": "ロカビリーの復活" }
+    ],
+    "related": [
+      { "en": "rock and roll", "ja": "ロックンロール" },
+      { "en": "country", "ja": "カントリー音楽" },
+      { "en": "hillbilly", "ja": "田舎の音楽・田舎者" },
+      { "en": "genre", "ja": "ジャンル" }
+    ],
+    "faq": [
+      { "q": "rockabilly とはどんな意味？", "a": "1950年代アメリカ南部で生まれた、ロックンロールとカントリー（ヒルビリー）が融合した音楽スタイル『ロカビリー』のことです。エルビス・プレスリーらが広めました。" },
+      { "q": "rockabilly の語源は？", "a": "rock (and roll)（ロックンロール）＋ hillbilly（田舎の音楽）を合わせた混成語です。両者が混ざったスタイルを表します。" }
+    ],
+    "quiz": [
+      { "q": "Elvis Presley helped popularize ___.（ロカビリー）", "A": "rockabilly", "B": "rockery の石庭", "C": "rocketry のロケット工学", "D": "rockiness のごつごつ", "correct": "A" },
+      { "q": "rockabilly を構成する語はどれ？", "A": "rock ＋ hillbilly", "B": "rock ＋ ability", "C": "rocket ＋ baby", "D": "rocky ＋ valley", "correct": "A" }
+    ]
+  },
+  {
+    "english": "runnel",
+    "pron": "ˈrʌnəl",
+    "kana": "ラネル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 rynel（小川）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "文学的"],
+    "meaning_main": "小川・細い流れ・（雨水などの）筋・溝",
+    "description": "runnel の意味・発音・例文・語源を解説。細い「小川・流れ」や、雨水などが作る「筋・溝」を表す文学的な語の使い方を分かりやすく紹介します。",
+    "keywords": ["runnel 意味", "runnel 発音", "runnel 小川", "runnel 流れ"],
+    "meanings": [
+      { "hinshi": "【名詞】小川・細い流れ", "note": "細く流れる水路。stream より小さい流れを指す文語的な語。" },
+      { "hinshi": "【名詞】（雨水・涙などの）筋・溝", "note": "水が流れてできた細い筋。runnels of rain（雨の筋）。" }
+    ],
+    "usages": [
+      { "title": "① 「小川・細い流れ」として", "desc": "細い水路を指します。", "example_en": "A clear runnel trickled down the hillside.", "example_ja": "澄んだ細い流れが丘の斜面を伝って流れた。" },
+      { "title": "② 「雨水の筋」として", "desc": "水が作る細い筋を表します。", "example_en": "Runnels of rain streaked the window.", "example_ja": "雨の筋が窓を流れ落ちた。" }
+    ],
+    "warn": [
+      "runnel は『細い小川・流れ』『水の筋』を表す文語的な語。日常では stream / trickle が普通。",
+      "tunnel（トンネル）とつづりが似るが別語。runnel は run（流れる）に通じる。"
+    ],
+    "etym_note": "古英語 rynel（小川）に由来し、run（走る・流れる）と同じ語根です。「細く流れるもの」を表し、詩や文学的な描写で使われます。",
+    "etym_chain": [
+      { "node": "rynel", "sub": "小川", "era": "古英語" },
+      { "node": "runnel", "sub": "小川・細い流れ", "era": "近代英語" },
+      { "node": "runnel", "sub": "小川・水の筋", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a clear runnel", "ja": "澄んだ細い流れ" },
+      { "en": "a mountain runnel", "ja": "山の小川" },
+      { "en": "runnels of rain", "ja": "雨の筋" },
+      { "en": "runnels of water", "ja": "水の筋" },
+      { "en": "a trickling runnel", "ja": "ちょろちょろ流れる小川" },
+      { "en": "down the runnel", "ja": "細い流れに沿って" }
+    ],
+    "related": [
+      { "en": "stream", "ja": "小川" },
+      { "en": "brook", "ja": "小川" },
+      { "en": "rivulet", "ja": "細流" },
+      { "en": "trickle", "ja": "細い流れ・したたり" }
+    ],
+    "faq": [
+      { "q": "runnel とはどんな意味？", "a": "細く流れる『小川・細い流れ』、また雨水や涙などが作る『筋・溝』を表す文学的な語です。runnels of rain（雨の筋）のように使います。" },
+      { "q": "runnel と stream の違いは？", "a": "どちらも『流れ』ですが、runnel はより小さく細い流れを指す文語的な語で、stream のほうが一般的で幅広く使われます。" }
+    ],
+    "quiz": [
+      { "q": "A clear ___ trickled down the hillside.（細い流れ）", "A": "runnel", "B": "tunnel のトンネル", "C": "funnel の漏斗", "D": "kennel の犬小屋", "correct": "A" },
+      { "q": "runnel と同じ語根なのは？", "A": "run（流れる）", "B": "ruin（廃墟）", "C": "rung（段）", "D": "rust（さび）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ramrod",
+    "pron": "ˈræmrɒd",
+    "kana": "ラムロッド",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ram（突き込む）＋ rod（棒）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "歴史・比喩"],
+    "meaning_main": "（昔の銃の）弾込め棒／（形容詞）背筋がまっすぐで厳格な",
+    "description": "ramrod の意味・発音・例文・語源を解説。昔の銃に弾を詰める「弾込め棒」と、ramrod straight（背筋がぴんとして厳格な）という使い方を紹介します。",
+    "keywords": ["ramrod 意味", "ramrod 発音", "ramrod 弾込め棒", "ramrod straight 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】（昔の銃の）弾込め棒・込め矢", "note": "前装式の銃に火薬や弾を突き込むための細い棒。" },
+      { "hinshi": "【形容詞】背筋がまっすぐで厳格な・きびきびした", "note": "ramrod straight（棒のようにまっすぐ）の形でよく使う。" },
+      { "hinshi": "【動詞】（法案などを）強引に押し通す", "note": "ramrod a bill through（法案を強引に通す）。" }
+    ],
+    "usages": [
+      { "title": "① 「弾込め棒」として", "desc": "昔の銃に弾を詰める棒を指します。", "example_en": "The soldier pushed the charge in with a ramrod.", "example_ja": "兵士は弾込め棒で装薬を押し込んだ。" },
+      { "title": "② ramrod straight として", "desc": "「背筋がまっすぐで厳格な」を表します。", "example_en": "The officer stood ramrod straight.", "example_ja": "その将校は背筋をぴんと伸ばして立っていた。" }
+    ],
+    "warn": [
+      "ramrod は『（前装銃の）弾込め棒』が原義。比喩で ramrod straight（棒のように背筋がまっすぐで厳格）が頻出。",
+      "動詞で『（法案などを）強引に押し通す』の意味もある。"
+    ],
+    "etym_note": "ram（強く突き込む）＋ rod（棒）の複合語で、「弾を突き込む棒」が原義です。まっすぐで硬いイメージから、「背筋がぴんと伸びて厳格な」という比喩が生まれました。",
+    "etym_chain": [
+      { "node": "ram + rod", "sub": "突き込む＋棒", "era": "近代英語" },
+      { "node": "ramrod", "sub": "弾込め棒", "era": "近代英語" },
+      { "node": "ramrod", "sub": "弾込め棒・厳格な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "ramrod straight", "ja": "棒のようにまっすぐ・背筋ぴんと" },
+      { "en": "stand ramrod straight", "ja": "背筋を伸ばして立つ" },
+      { "en": "stiff as a ramrod", "ja": "弾込め棒のように硬い" },
+      { "en": "push with a ramrod", "ja": "弾込め棒で押し込む" },
+      { "en": "ramrod a bill through", "ja": "法案を強引に通す" },
+      { "en": "a ramrod posture", "ja": "ぴんとした姿勢" }
+    ],
+    "related": [
+      { "en": "rod", "ja": "棒" },
+      { "en": "musket", "ja": "マスケット銃（前装銃）" },
+      { "en": "upright", "ja": "直立した" },
+      { "en": "rigid", "ja": "硬い・厳格な" }
+    ],
+    "faq": [
+      { "q": "ramrod とはどんな意味？", "a": "昔の前装式の銃に火薬や弾を突き込む『弾込め棒』のことです。比喩で ramrod straight（棒のように背筋がまっすぐで厳格）の形でもよく使われます。" },
+      { "q": "ramrod straight とは？", "a": "『背筋を棒のようにぴんとまっすぐ伸ばした（厳格できびきびした）』ようすを表す表現です。stand ramrod straight のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The officer stood ___ straight.（背筋ぴんと）", "A": "ramrod", "B": "ragdoll の縫いぐるみ", "C": "raindrop の雨粒", "D": "railroad の鉄道", "correct": "A" },
+      { "q": "ramrod のもとの意味はどれ？", "A": "（銃の）弾込め棒", "B": "魚釣りの竿", "C": "指揮棒", "D": "物差し", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rawhide",
+    "pron": "ˈrɔːhaɪd",
+    "kana": "ローハイド",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "raw（生の）＋ hide（獣の皮）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "素材"],
+    "meaning_main": "生皮（なめしていない硬い動物の皮）／生皮製のむち・ロープ",
+    "description": "rawhide の意味・発音・例文・語源を解説。なめしていない硬い「生皮」や、それで作ったむち・ロープを指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["rawhide 意味", "rawhide 発音", "rawhide 生皮", "rawhide 革"],
+    "meanings": [
+      { "hinshi": "【名詞】生皮（なめしていない硬い皮）", "note": "毛を取り乾かしただけの、なめし加工をしていない硬い動物の皮。" },
+      { "hinshi": "【名詞】生皮製のむち・ひも", "note": "生皮で作った丈夫なむちやロープ。" }
+    ],
+    "usages": [
+      { "title": "① 「生皮」として", "desc": "なめしていない硬い皮を指します。", "example_en": "The dog chewed on a rawhide bone.", "example_ja": "その犬は生皮の骨型ガムをかんだ。" },
+      { "title": "② 「生皮のむち・ひも」として", "desc": "生皮で作った丈夫な道具を表します。", "example_en": "The saddle was bound with rawhide.", "example_ja": "その鞍は生皮のひもで縛られていた。" }
+    ],
+    "warn": [
+      "rawhide は『なめしていない硬い生皮』。なめした柔らかい革は leather。",
+      "raw（生の）＋ hide（獣の皮）。犬用ガムや西部劇の小道具でもおなじみ。"
+    ],
+    "etym_note": "raw（生の・加工していない）＋ hide（獣の皮）の複合語で、「なめし加工をしていない生の皮」を意味します。hide は古英語 hȳd（皮）に由来します。",
+    "etym_chain": [
+      { "node": "raw + hȳd", "sub": "生の＋皮", "era": "古英語" },
+      { "node": "rawhide", "sub": "生皮", "era": "近代英語" },
+      { "node": "rawhide", "sub": "生皮・生皮製品", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rawhide bone", "ja": "生皮の骨型ガム（犬用）" },
+      { "en": "a rawhide whip", "ja": "生皮のむち" },
+      { "en": "bound with rawhide", "ja": "生皮のひもで縛った" },
+      { "en": "a strip of rawhide", "ja": "生皮の細ひも" },
+      { "en": "tough rawhide", "ja": "丈夫な生皮" },
+      { "en": "a rawhide lariat", "ja": "生皮の投げ縄" }
+    ],
+    "related": [
+      { "en": "leather", "ja": "（なめした）革" },
+      { "en": "hide", "ja": "獣の皮" },
+      { "en": "tan", "ja": "なめす" },
+      { "en": "pelt", "ja": "毛皮・獣皮" }
+    ],
+    "faq": [
+      { "q": "rawhide とはどんな意味？", "a": "毛を取り乾かしただけで、なめし加工をしていない『生皮（硬い動物の皮）』のことです。それで作ったむちやひもも指します。犬用のガムとしてもおなじみです。" },
+      { "q": "rawhide と leather の違いは？", "a": "rawhide は『なめしていない硬い生皮』、leather は『なめし加工をして柔らかくした革』です。" }
+    ],
+    "quiz": [
+      { "q": "The dog chewed on a ___ bone.（生皮の）", "A": "rawhide", "B": "rawboned のやせこけた", "C": "cowhide の牛革", "D": "riverside の川辺", "correct": "A" },
+      { "q": "rawhide と leather の違いはどれ？", "A": "rawhide はなめしていない生皮", "B": "rawhide は柔らかい革", "C": "両者は同じもの", "D": "leather は生皮", "correct": "A" }
+    ]
+  }
+]
