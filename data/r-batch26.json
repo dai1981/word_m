@@ -1,0 +1,530 @@
+[
+  {
+    "english": "rattle",
+    "pron": "ˈrætəl",
+    "kana": "ラトゥル",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "中英語 ratelen（がたがた鳴る）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "音"],
+    "meaning_main": "ガタガタ鳴る・鳴らす／（人を）動揺させる／ガラガラ",
+    "description": "rattle の意味・発音・例文・語源を解説。窓などが「ガタガタ鳴る」擬音や、「人を動揺させる」口語、赤ちゃんの「ガラガラ」も紹介します。",
+    "keywords": ["rattle 意味", "rattle 発音", "rattle ガタガタ", "rattle 動揺"],
+    "meanings": [
+      { "hinshi": "【動詞】ガタガタ鳴る・鳴らす", "note": "硬いものが連続してぶつかる音。The windows rattled.（窓がガタガタ鳴った）。" },
+      { "hinshi": "【動詞】（口語）動揺させる・あわてさせる", "note": "be rattled（動揺する）。" },
+      { "hinshi": "【名詞】ガラガラ（おもちゃ）・ガタガタ音", "note": "a baby's rattle（赤ちゃんのガラガラ）。" }
+    ],
+    "usages": [
+      { "title": "① 「ガタガタ鳴る」として", "desc": "硬いものが揺れて鳴る音を表します。", "example_en": "The wind made the windows rattle.", "example_ja": "風で窓がガタガタ鳴った。" },
+      { "title": "② 「動揺させる」として", "desc": "口語で人をあわてさせる意味です。", "example_en": "The tough question rattled the speaker.", "example_ja": "その難しい質問は話し手を動揺させた。" }
+    ],
+    "warn": [
+      "rattle は『硬いものがガタガタ・カタカタ鳴る』擬音語。a rattlesnake は『ガラガラヘビ』。",
+      "口語の be rattled は『（驚いて）動揺する・うろたえる』。"
+    ],
+    "etym_note": "中英語 ratelen（がたがた鳴る）に由来する擬音的な語です。連続して鳴る硬い音をまねた語です。",
+    "etym_chain": [
+      { "node": "ratelen", "sub": "がたがた鳴る", "era": "中英語" },
+      { "node": "rattle", "sub": "ガタガタ鳴る", "era": "近代英語" },
+      { "node": "rattle", "sub": "ガタガタ鳴る・動揺させる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the windows rattle", "ja": "窓がガタガタ鳴る" },
+      { "en": "be rattled", "ja": "動揺する・うろたえる" },
+      { "en": "a baby's rattle", "ja": "赤ちゃんのガラガラ" },
+      { "en": "a rattlesnake", "ja": "ガラガラヘビ" },
+      { "en": "rattle off", "ja": "すらすら言う" },
+      { "en": "rattle around", "ja": "がらがら音を立てて動く" }
+    ],
+    "related": [
+      { "en": "shake", "ja": "揺れる・揺らす" },
+      { "en": "clatter", "ja": "ガチャガチャ鳴る" },
+      { "en": "upset", "ja": "動揺させる" },
+      { "en": "tremble", "ja": "震える" }
+    ],
+    "faq": [
+      { "q": "be rattled とは？", "a": "口語で『（驚き・緊張で）動揺する・うろたえる』という意味です。" },
+      { "q": "rattle off とは？", "a": "『（暗記したことなどを）すらすら言う・一気に並べ立てる』という意味の句動詞です。" }
+    ],
+    "quiz": [
+      { "q": "The wind made the windows ___.（ガタガタ鳴らした）", "A": "rattle", "B": "rumble", "C": "roar", "D": "ripple", "correct": "A" },
+      { "q": "「赤ちゃんのガラガラ」を表すのはどれ？", "A": "a baby's rattle", "B": "a baby's riddle", "C": "a baby's ribbon", "D": "a baby's ripple", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recur",
+    "pron": "rɪˈkɜːr",
+    "kana": "リカー",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 recurrere（走り戻る）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "再発する・繰り返し起こる",
+    "description": "recur の意味・発音・例文・語源を解説。病気や問題が「再発する・くり返し起こる」使い方や、形容詞 recurring も分かりやすく紹介します。",
+    "keywords": ["recur 意味", "recur 発音", "recurring 意味", "recur 再発"],
+    "meanings": [
+      { "hinshi": "【動詞】再発する・繰り返し起こる", "note": "問題・病気・夢などが何度も起こる。" }
+    ],
+    "usages": [
+      { "title": "① 「再発する・くり返す」として", "desc": "何度も起こる意味です。", "example_en": "The same problem keeps recurring.", "example_ja": "同じ問題が何度も起こり続ける。" },
+      { "title": "② 形容詞 recurring として", "desc": "「くり返し起こる」を表します。", "example_en": "She has a recurring dream about flying.", "example_ja": "彼女は空を飛ぶ夢をくり返し見る。" }
+    ],
+    "warn": [
+      "活用は語尾の r を重ねる：recur – recurred – recurring。アクセントが後ろにあるため。",
+      "名詞は recurrence（再発）、形容詞は recurring / recurrent（くり返し起こる）。"
+    ],
+    "etym_note": "ラテン語 recurrere（re-「再び」＋ currere「走る」＝走り戻る）に由来します。current・occur と同じ cur-（走る）の語根で、「再び（思いや出来事が）めぐってくる」が原義です。",
+    "etym_chain": [
+      { "node": "recurrere", "sub": "走り戻る", "era": "ラテン語" },
+      { "node": "recur", "sub": "再発する", "era": "近代英語" },
+      { "node": "recur", "sub": "再発する・くり返す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "keep recurring", "ja": "何度も起こり続ける" },
+      { "en": "a recurring dream", "ja": "くり返し見る夢" },
+      { "en": "a recurring problem", "ja": "再発する問題" },
+      { "en": "a recurring theme", "ja": "くり返し現れるテーマ" },
+      { "en": "recur frequently", "ja": "頻繁に再発する" },
+      { "en": "a recurring cost", "ja": "経常費用" }
+    ],
+    "related": [
+      { "en": "recurrence", "ja": "再発（名詞）" },
+      { "en": "recurring", "ja": "くり返し起こる" },
+      { "en": "repeat", "ja": "繰り返す" },
+      { "en": "occur", "ja": "起こる" }
+    ],
+    "faq": [
+      { "q": "recur の活用は？", "a": "recur – recurred – recurring と、語尾の r を重ねます。アクセントが後ろにあるためです。" },
+      { "q": "a recurring dream とは？", "a": "『くり返し見る（同じ）夢』のことです。recurring は『くり返し起こる』という意味です。" }
+    ],
+    "quiz": [
+      { "q": "The same problem keeps ___.（何度も起こる）", "A": "recurring", "B": "recovering", "C": "recalling", "D": "reducing", "correct": "A" },
+      { "q": "recur の名詞形（再発）はどれ？", "A": "recurrence", "B": "recurment", "C": "recuration", "D": "recurness", "correct": "A" }
+    ]
+  },
+  {
+    "english": "redeem",
+    "pron": "rɪˈdiːm",
+    "kana": "リディーム",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 redimere（買い戻す）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "（クーポンを）換える・買い戻す／名誉を回復する・救う",
+    "description": "redeem の意味・発音・例文・語源を解説。ポイントやクーポンを「換える」使い方や、「名誉を取り戻す・埋め合わせる」の意味も分かりやすく紹介します。",
+    "keywords": ["redeem 意味", "redeem 発音", "redeem points 意味", "redeem 名誉"],
+    "meanings": [
+      { "hinshi": "【動詞】（クーポン・ポイントを）引き換える・換金する", "note": "redeem a coupon（クーポンを使う）。" },
+      { "hinshi": "【動詞】（名誉・欠点を）取り戻す・埋め合わせる", "note": "redeem oneself（汚名をそそぐ）。" }
+    ],
+    "usages": [
+      { "title": "① 「引き換える・換える」として", "desc": "ポイントやクーポンを商品などに換える意味です。", "example_en": "You can redeem your points for gifts.", "example_ja": "ポイントを景品と交換できます。" },
+      { "title": "② 「名誉を回復する」として", "desc": "失敗を埋め合わせ評価を取り戻す意味です。", "example_en": "He redeemed himself with a great performance.", "example_ja": "彼はすばらしい働きで汚名をそそいだ。" }
+    ],
+    "warn": [
+      "redeem a coupon / points は『（クーポン・ポイントを）使う・引き換える』。",
+      "a redeeming feature は『（欠点を補う）取りえ・救いとなる点』。名詞は redemption。"
+    ],
+    "etym_note": "ラテン語 redimere（red-「再び」＋ emere「買う」＝買い戻す）に由来します。「（質入れしたものを）買い戻す」が原義で、そこから『取り戻す・救う』の意味に広がりました。",
+    "etym_chain": [
+      { "node": "redimere", "sub": "買い戻す", "era": "ラテン語" },
+      { "node": "redemen", "sub": "あがなう", "era": "中英語" },
+      { "node": "redeem", "sub": "引き換える・取り戻す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "redeem a coupon", "ja": "クーポンを使う" },
+      { "en": "redeem points", "ja": "ポイントを引き換える" },
+      { "en": "redeem oneself", "ja": "汚名をそそぐ" },
+      { "en": "a redeeming feature", "ja": "取りえ・救いとなる点" },
+      { "en": "redeem a promise", "ja": "約束を果たす" },
+      { "en": "beyond redemption", "ja": "救いようがなく" }
+    ],
+    "related": [
+      { "en": "redemption", "ja": "あがない・換金（名詞）" },
+      { "en": "exchange", "ja": "交換する" },
+      { "en": "recover", "ja": "取り戻す" },
+      { "en": "save", "ja": "救う" }
+    ],
+    "faq": [
+      { "q": "redeem points とは？", "a": "『（ためた）ポイントを商品やサービスに引き換える』という意味です。" },
+      { "q": "a redeeming feature とは？", "a": "『欠点を補う取りえ・救いとなる点』という意味です。Its only redeeming feature is the price.（唯一の取りえは値段だ）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "You can ___ your points for gifts.（引き換える）", "A": "redeem", "B": "reduce", "C": "remove", "D": "refuse", "correct": "A" },
+      { "q": "「汚名をそそぐ」を表すのはどれ？", "A": "redeem oneself", "B": "reduce oneself", "C": "remove oneself", "D": "refuse oneself", "correct": "A" }
+    ]
+  },
+  {
+    "english": "regime",
+    "pron": "reɪˈʒiːm",
+    "kana": "レイジーム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 regimen（統治）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "社会"],
+    "meaning_main": "政権・体制／（管理された）方式・規則",
+    "description": "regime の意味・発音・例文・語源を解説。政治の「政権・体制」の使い方や、フランス語由来の発音、reign との関係も分かりやすく紹介します。",
+    "keywords": ["regime 意味", "regime 発音", "regime 政権 体制", "regime 語源"],
+    "meanings": [
+      { "hinshi": "【名詞】政権・（政治）体制", "note": "とくに権威的な政府。a military regime（軍事政権）。" },
+      { "hinshi": "【名詞】（管理された）方式・régime", "note": "a strict regime（厳格な管理方式）。" }
+    ],
+    "usages": [
+      { "title": "① 「政権・体制」として", "desc": "ある政治体制を表します（しばしば批判的）。", "example_en": "The country was ruled by a military regime.", "example_ja": "その国は軍事政権に支配されていた。" },
+      { "title": "② 「管理方式」として", "desc": "決められた厳しいやり方を表します。", "example_en": "She follows a strict diet regime.", "example_ja": "彼女は厳格な食事管理を守っている。" }
+    ],
+    "warn": [
+      "発音は /reɪˈʒiːm/「レイジーム」でフランス語風。後ろにアクセント。",
+      "regime は『政権・体制』。しばしば独裁的・批判的な含みで使う。reign（治世）と同じ reg-（治める）の語源。"
+    ],
+    "etym_note": "ラテン語 regimen（統治。regere「治める」から）に由来し、フランス語 régime を経て英語に入りました。reign・royal・regular と同じ reg-（治める）の語根です。",
+    "etym_chain": [
+      { "node": "regimen", "sub": "統治", "era": "ラテン語" },
+      { "node": "régime", "sub": "体制", "era": "フランス語" },
+      { "node": "regime", "sub": "政権・体制", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a military regime", "ja": "軍事政権" },
+      { "en": "an authoritarian regime", "ja": "独裁的体制" },
+      { "en": "the previous regime", "ja": "前政権" },
+      { "en": "regime change", "ja": "政権交代・体制転換" },
+      { "en": "a strict regime", "ja": "厳格な管理方式" },
+      { "en": "under the regime", "ja": "その体制下で" }
+    ],
+    "related": [
+      { "en": "government", "ja": "政府" },
+      { "en": "reign", "ja": "治世" },
+      { "en": "rule", "ja": "支配" },
+      { "en": "system", "ja": "体制・制度" }
+    ],
+    "faq": [
+      { "q": "regime の発音は？", "a": "/reɪˈʒiːm/「レイジーム」で、フランス語風に後ろを強く読みます。" },
+      { "q": "regime と government の違いは？", "a": "government は中立的な『政府』、regime はしばしば権威的・独裁的な『政権・体制』を批判的に指します。" }
+    ],
+    "quiz": [
+      { "q": "The country was ruled by a military ___.（政権）", "A": "regime", "B": "region", "C": "regular", "D": "register", "correct": "A" },
+      { "q": "regime と同じ語源（治める）の語はどれ？", "A": "reign", "B": "range", "C": "river", "D": "ribbon", "correct": "A" }
+    ]
+  },
+  {
+    "english": "relay",
+    "pron": "ˈriːleɪ",
+    "kana": "リーレイ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "古フランス語 relais（替え馬の中継所）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "多義語"],
+    "meaning_main": "リレー（競走）／中継する・伝える",
+    "description": "relay の意味・発音・例文・語源を解説。陸上の「リレー」や、情報を「中継・伝達する」使い方を分かりやすく紹介します。",
+    "keywords": ["relay 意味", "relay 発音", "relay race 意味", "relay 中継"],
+    "meanings": [
+      { "hinshi": "【名詞】リレー（競走）", "note": "順番に引き継ぐ競技。a relay race（リレー競走）。" },
+      { "hinshi": "【動詞】中継する・伝える", "note": "relay a message（伝言を伝える）。" }
+    ],
+    "usages": [
+      { "title": "① 「リレー競走」として", "desc": "走者がバトンをつなぐ競技です。", "example_en": "Our team won the relay race.", "example_ja": "私たちのチームはリレーで優勝した。" },
+      { "title": "② 「中継する・伝える」として", "desc": "情報を次へ伝える意味です。", "example_en": "She relayed the message to her boss.", "example_ja": "彼女はその伝言を上司に伝えた。" }
+    ],
+    "warn": [
+      "a relay race は『リレー競走』。relay は『（人から人へ）順々に引き継ぐ・中継する』が中心の意味。",
+      "電気部品の『リレー（継電器）』もこの語。"
+    ],
+    "etym_note": "古フランス語 relais（狩りで疲れた馬を交代させる『替え馬の中継所』）に由来します。「次の走者・次の地点へ引き継ぐ」が原義です。",
+    "etym_chain": [
+      { "node": "relais", "sub": "替え馬の中継所", "era": "古フランス語" },
+      { "node": "relay", "sub": "中継・引き継ぎ", "era": "近代英語" },
+      { "node": "relay", "sub": "リレー・中継する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a relay race", "ja": "リレー競走" },
+      { "en": "relay a message", "ja": "伝言を伝える" },
+      { "en": "the relay team", "ja": "リレーチーム" },
+      { "en": "relay information", "ja": "情報を中継する" },
+      { "en": "in relays", "ja": "交代で" },
+      { "en": "the final relay", "ja": "最終リレー" }
+    ],
+    "related": [
+      { "en": "pass", "ja": "渡す・引き継ぐ" },
+      { "en": "transmit", "ja": "伝える・送信する" },
+      { "en": "broadcast", "ja": "中継放送する" },
+      { "en": "baton", "ja": "バトン" }
+    ],
+    "faq": [
+      { "q": "relay の二つの意味は？", "a": "①陸上などの『リレー（競走）』と、②情報を『中継する・次へ伝える』です。どちらも『順々に引き継ぐ』が中心です。" },
+      { "q": "in relays とは？", "a": "『交代で・入れ替わりで』という意味です。They worked in relays.（彼らは交代で働いた）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "Our team won the ___ race.（リレー）", "A": "relay", "B": "relax", "C": "relate", "D": "release", "correct": "A" },
+      { "q": "「伝言を伝える」を表すのはどれ？", "A": "relay a message", "B": "relax a message", "C": "relate a message のみ", "D": "release a message", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reminder",
+    "pron": "rɪˈmaɪndər",
+    "kana": "リマインダー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "remind（思い出させる）＋ -er",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "名詞"],
+    "meaning_main": "思い出させるもの・督促・リマインダー",
+    "description": "reminder の意味・発音・例文・語源を解説。「思い出させるもの・通知」の使い方や、動詞 remind との関係も分かりやすく紹介します。",
+    "keywords": ["reminder 意味", "reminder 発音", "remind reminder 関係", "reminder 通知"],
+    "meanings": [
+      { "hinshi": "【名詞】思い出させるもの・念押し・通知", "note": "忘れないように知らせるもの。a gentle reminder（やんわりした念押し）。" },
+      { "hinshi": "【名詞】（過去を）思い起こさせるもの・名残", "note": "a reminder of the past（過去を思い出させるもの）。" }
+    ],
+    "usages": [
+      { "title": "① 「念押し・通知」として", "desc": "忘れないよう知らせるものを表します。", "example_en": "I set a reminder on my phone.", "example_ja": "私はスマホにリマインダーを設定した。" },
+      { "title": "② 「思い起こさせるもの」として", "desc": "過去や事実を思い出させるものを表します。", "example_en": "The photo is a reminder of happier times.", "example_ja": "その写真は幸せだったころを思い出させる。" }
+    ],
+    "warn": [
+      "remind（動詞）＋ -er ＝『思い出させるもの』。remainder（残り）とつづりが似ているが別語。",
+      "a reminder that＋文（〜だということを思い起こさせるもの）も頻出。"
+    ],
+    "etym_note": "動詞 remind（思い出させる）に -er（〜するもの）がついた語で、「思い出させるもの＝通知・念押し」が原義です。remind と同じ語源です。",
+    "etym_chain": [
+      { "node": "re- + mind", "sub": "再び心に上らせる", "era": "近代英語" },
+      { "node": "remind", "sub": "思い出させる", "era": "近代英語" },
+      { "node": "reminder", "sub": "思い出させるもの", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a gentle reminder", "ja": "やんわりした念押し" },
+      { "en": "set a reminder", "ja": "リマインダーを設定する" },
+      { "en": "a reminder of", "ja": "〜を思い起こさせるもの" },
+      { "en": "a friendly reminder", "ja": "念のためのお知らせ" },
+      { "en": "a painful reminder", "ja": "つらい思い出を呼ぶもの" },
+      { "en": "a final reminder", "ja": "最終督促" }
+    ],
+    "related": [
+      { "en": "remind", "ja": "思い出させる（動詞）" },
+      { "en": "notice", "ja": "通知" },
+      { "en": "alert", "ja": "警告・通知" },
+      { "en": "memo", "ja": "メモ・覚え書き" }
+    ],
+    "faq": [
+      { "q": "reminder と remainder の違いは？", "a": "reminder は『思い出させるもの・通知』（remind 由来）、remainder は『残り・余り』（remain 由来）です。つづりが似ているので注意しましょう。" },
+      { "q": "a gentle reminder とは？", "a": "『やんわりした念押し・お知らせ』のことです。相手を傷つけずに思い出させるときに使います。" }
+    ],
+    "quiz": [
+      { "q": "I set a ___ on my phone.（リマインダー）", "A": "reminder", "B": "remainder", "C": "remind", "D": "remedy", "correct": "A" },
+      { "q": "reminder のもとになる動詞はどれ？", "A": "remind", "B": "remain", "C": "remove", "D": "remark", "correct": "A" }
+    ]
+  },
+  {
+    "english": "removal",
+    "pron": "rɪˈmuːvəl",
+    "kana": "リムーバル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "remove（取り除く）＋ -al",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "名詞"],
+    "meaning_main": "除去・撤去／（英）引っ越し",
+    "description": "removal の意味・発音・例文・語源を解説。「除去・撤去」の使い方や、イギリス英語の「引っ越し」、動詞 remove との関係も分かりやすく紹介します。",
+    "keywords": ["removal 意味", "removal 発音", "remove removal 関係", "removal 引っ越し"],
+    "meanings": [
+      { "hinshi": "【名詞】除去・撤去・取り外し", "note": "取り除くこと。stain removal（しみ抜き）。" },
+      { "hinshi": "【名詞】（英）引っ越し", "note": "a removal company（引っ越し会社）。" }
+    ],
+    "usages": [
+      { "title": "① 「除去・撤去」として", "desc": "取り除くことを表します。", "example_en": "The removal of the old sign took an hour.", "example_ja": "古い看板の撤去に1時間かかった。" },
+      { "title": "② （英）「引っ越し」として", "desc": "家財を運び出すことを表します。", "example_en": "We hired a removal company.", "example_ja": "私たちは引っ越し会社を雇った。" }
+    ],
+    "warn": [
+      "動詞は remove。stain removal（しみ抜き）、hair removal（脱毛）など複合でよく使う。",
+      "『引っ越し』の意味はおもにイギリス英語。米では moving。"
+    ],
+    "etym_note": "動詞 remove（取り除く・移動させる）に名詞をつくる -al がついた語で、「取り除くこと＝除去」が原義です。remove・move と同じ語源です。",
+    "etym_chain": [
+      { "node": "removere", "sub": "離して動かす", "era": "ラテン語" },
+      { "node": "remove", "sub": "取り除く", "era": "中英語" },
+      { "node": "removal", "sub": "除去・撤去", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "stain removal", "ja": "しみ抜き" },
+      { "en": "hair removal", "ja": "脱毛" },
+      { "en": "waste removal", "ja": "廃棄物の除去" },
+      { "en": "snow removal", "ja": "除雪" },
+      { "en": "a removal company", "ja": "引っ越し会社（英）" },
+      { "en": "the removal of", "ja": "〜の除去・撤去" }
+    ],
+    "related": [
+      { "en": "remove", "ja": "取り除く（動詞）" },
+      { "en": "elimination", "ja": "除去" },
+      { "en": "deletion", "ja": "削除" },
+      { "en": "moving", "ja": "引っ越し（米）" }
+    ],
+    "faq": [
+      { "q": "removal の動詞形は？", "a": "remove（取り除く・移動させる）です。" },
+      { "q": "removal が『引っ越し』を意味するのはどこの英語？", "a": "おもにイギリス英語です。a removal van（引っ越しトラック）のように使います。アメリカでは moving を使います。" }
+    ],
+    "quiz": [
+      { "q": "The ___ of the old sign took an hour.（撤去）", "A": "removal", "B": "remind", "C": "remainder", "D": "reminder", "correct": "A" },
+      { "q": "removal のもとになる動詞はどれ？", "A": "remove", "B": "remain", "C": "remind", "D": "remark", "correct": "A" }
+    ]
+  },
+  {
+    "english": "renovate",
+    "pron": "ˈrenəveɪt",
+    "kana": "レノベイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 renovare（新しくする）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "（建物を）改装する・改修する",
+    "description": "renovate の意味・発音・例文・語源を解説。古い建物を「改装する」使い方や、日本語の『リフォーム』にあたる語、名詞 renovation も紹介します。",
+    "keywords": ["renovate 意味", "renovate 発音", "renovation 意味", "renovate リフォーム"],
+    "meanings": [
+      { "hinshi": "【動詞】（建物を）改装する・改修する", "note": "古い建物を直して新しくする。日本語の『リフォーム』にあたる。" }
+    ],
+    "usages": [
+      { "title": "① 「改装する・改修する」として", "desc": "古い建物を直してよくする意味です。", "example_en": "They renovated the old house completely.", "example_ja": "彼らはその古い家を全面的に改装した。" },
+      { "title": "② 名詞 renovation として", "desc": "改装・改修工事を表します。", "example_en": "The hotel is closed for renovation.", "example_ja": "そのホテルは改装のため閉まっている。" }
+    ],
+    "warn": [
+      "日本語の『リフォーム（家の改装）』は英語では renovate / remodel。reform（制度改革）ではない。",
+      "名詞は renovation（改装・改修）。under renovation は『改装中』。"
+    ],
+    "etym_note": "ラテン語 renovare（re-「再び」＋ novare「新しくする」。novus「新しい」から）に由来します。new・novel・innovate と同じ nov-（新しい）の語根です。",
+    "etym_chain": [
+      { "node": "renovare", "sub": "新しくする", "era": "ラテン語" },
+      { "node": "renovate", "sub": "改装する", "era": "近代英語" },
+      { "node": "renovate", "sub": "改装する・改修する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "renovate a house", "ja": "家を改装する" },
+      { "en": "renovate a building", "ja": "建物を改修する" },
+      { "en": "fully renovate", "ja": "全面改装する" },
+      { "en": "under renovation", "ja": "改装中" },
+      { "en": "a renovation project", "ja": "改修プロジェクト" },
+      { "en": "newly renovated", "ja": "新しく改装された" }
+    ],
+    "related": [
+      { "en": "renovation", "ja": "改装・改修（名詞）" },
+      { "en": "remodel", "ja": "改装する" },
+      { "en": "restore", "ja": "修復する" },
+      { "en": "reform", "ja": "改革する（紛らわしい語）" }
+    ],
+    "faq": [
+      { "q": "renovate と reform の違いは？", "a": "renovate は『建物を改装・改修する』、reform は『制度・法律・人を改革する』です。日本語の『リフォーム（家の改装）』は renovate / remodel です。" },
+      { "q": "renovate の名詞形は？", "a": "renovation（改装・改修）です。under renovation（改装中）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "They ___ the old house completely.（改装した）", "A": "renovated", "B": "reformed の制度改革", "C": "removed", "D": "renewed", "correct": "A" },
+      { "q": "家の『リフォーム（改装）』を表す英語はどれ？", "A": "renovate", "B": "reform", "C": "refrain", "D": "refer", "correct": "A" }
+    ]
+  },
+  {
+    "english": "revolt",
+    "pron": "rɪˈvoʊlt",
+    "kana": "リボルト",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "ラテン語 revolvere（転がし戻す）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "社会"],
+    "meaning_main": "反乱・暴動／反乱を起こす・反抗する",
+    "description": "revolt の意味・発音・例文・語源を解説。「反乱を起こす」の使い方や、revolt against、rebellion との近さも分かりやすく紹介します。",
+    "keywords": ["revolt 意味", "revolt 発音", "revolt against 使い方", "revolt 反乱"],
+    "meanings": [
+      { "hinshi": "【名詞】反乱・暴動", "note": "権力への組織的な反抗。a peasant revolt（農民反乱）。" },
+      { "hinshi": "【動詞】反乱を起こす・反抗する", "note": "revolt against（〜に反逆する）。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「反乱」として", "desc": "権力に対する組織的な反抗を表します。", "example_en": "The people rose in revolt against the king.", "example_ja": "民衆は王に対して反乱を起こした。" },
+      { "title": "② 動詞「反抗する」として", "desc": "revolt against〜で「〜に反逆する」を表します。", "example_en": "The soldiers revolted against their commander.", "example_ja": "兵士たちは指揮官に反乱を起こした。" }
+    ],
+    "warn": [
+      "「〜に反逆する」は revolt against。rebellion・uprising と近い意味。",
+      "be revolted by は『〜にむかつく・嫌悪を感じる』という別の意味（revolting＝胸が悪くなる）。"
+    ],
+    "etym_note": "ラテン語 revolvere（re-「再び」＋ volvere「転がす」＝転がし戻す）に由来します。revolve・revolution と同じ語源で、「（体制を）ひっくり返す＝反乱」が原義です。",
+    "etym_chain": [
+      { "node": "revolvere", "sub": "転がし戻す", "era": "ラテン語" },
+      { "node": "revolter", "sub": "反逆する", "era": "フランス語" },
+      { "node": "revolt", "sub": "反乱・反抗する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "revolt against", "ja": "〜に反逆する" },
+      { "en": "rise in revolt", "ja": "反乱を起こす" },
+      { "en": "a peasant revolt", "ja": "農民反乱" },
+      { "en": "an open revolt", "ja": "公然たる反乱" },
+      { "en": "crush a revolt", "ja": "反乱を鎮圧する" },
+      { "en": "a tax revolt", "ja": "納税拒否運動" }
+    ],
+    "related": [
+      { "en": "rebellion", "ja": "反乱" },
+      { "en": "uprising", "ja": "蜂起" },
+      { "en": "rebel", "ja": "反逆する・反逆者" },
+      { "en": "obey", "ja": "従う（反対概念）" }
+    ],
+    "faq": [
+      { "q": "revolt と rebellion の違いは？", "a": "意味はとても近く、どちらも『反乱』です。revolt は動詞・名詞両方で使え、rebellion は名詞です。revolution（革命）はより大規模で体制が変わるものを指します。" },
+      { "q": "be revolted by とは？", "a": "『〜に強い嫌悪を感じる・むかつく』という意味です。revolting は『胸が悪くなるほどいやな』です。" }
+    ],
+    "quiz": [
+      { "q": "The people rose in ___ against the king.（反乱）", "A": "revolt", "B": "revolve", "C": "reverse", "D": "review", "correct": "A" },
+      { "q": "「〜に反逆する」の正しい形は？", "A": "revolt against", "B": "revolt to", "C": "revolt for", "D": "revolt at", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rite",
+    "pron": "raɪt",
+    "kana": "ライト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 ritus（儀礼・慣習）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "文化"],
+    "meaning_main": "儀式・儀礼",
+    "description": "rite の意味・発音・例文・語源を解説。宗教や伝統の「儀式」を表す語で、ritual との違いや、right・write との同音も分かりやすく紹介します。",
+    "keywords": ["rite 意味", "rite 発音", "rite ritual 違い", "rite of passage"],
+    "meanings": [
+      { "hinshi": "【名詞】儀式・儀礼", "note": "宗教や伝統の決まった儀礼。funeral rites（葬儀の儀礼）。" }
+    ],
+    "usages": [
+      { "title": "① 「儀式・儀礼」として", "desc": "宗教や伝統の決まった行いを表します。", "example_en": "The tribe still performs ancient rites.", "example_ja": "その部族は今も古来の儀式を行っている。" },
+      { "title": "② a rite of passage として", "desc": "「通過儀礼（人生の節目の儀式）」を表します。", "example_en": "Graduation is a rite of passage.", "example_ja": "卒業は人生の通過儀礼だ。" }
+    ],
+    "warn": [
+      "rite（儀式）/ right（正しい・右・権利）/ write（書く）はすべて同音 /raɪt/。つづりに注意。",
+      "rite は『（一つの）儀礼』、ritual は『（くり返される）儀式・所作』。a rite of passage は『通過儀礼』。"
+    ],
+    "etym_note": "ラテン語 ritus（儀礼・慣習）に由来します。ritual（儀式）と同じ語源で、宗教的・伝統的な決まった行いを表します。",
+    "etym_chain": [
+      { "node": "ritus", "sub": "儀礼・慣習", "era": "ラテン語" },
+      { "node": "rite", "sub": "儀式", "era": "中英語" },
+      { "node": "rite", "sub": "儀式・儀礼", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rite of passage", "ja": "通過儀礼" },
+      { "en": "funeral rites", "ja": "葬儀の儀礼" },
+      { "en": "religious rites", "ja": "宗教儀礼" },
+      { "en": "perform a rite", "ja": "儀式を行う" },
+      { "en": "sacred rites", "ja": "神聖な儀式" },
+      { "en": "ancient rites", "ja": "古来の儀礼" }
+    ],
+    "related": [
+      { "en": "ritual", "ja": "儀式・習慣" },
+      { "en": "ceremony", "ja": "式典" },
+      { "en": "tradition", "ja": "伝統" },
+      { "en": "custom", "ja": "慣習" }
+    ],
+    "faq": [
+      { "q": "rite と ritual の違いは？", "a": "rite は『（一つの）儀礼・儀式』、ritual は『（くり返し行われる）儀式・所作・習慣』を指すことが多いです。" },
+      { "q": "a rite of passage とは？", "a": "『通過儀礼』、つまり成人・卒業・結婚など人生の節目を区切る儀式のことです。" }
+    ],
+    "quiz": [
+      { "q": "Graduation is a ___ of passage.（通過儀礼）", "A": "rite", "B": "right", "C": "write", "D": "ride", "correct": "A" },
+      { "q": "rite と同音でない語はどれ？", "A": "right", "B": "write", "C": "ride", "D": "（すべて同音）", "correct": "C" }
+    ]
+  }
+]
