@@ -1,0 +1,535 @@
+[
+  {
+    "english": "row",
+    "pron": "roʊ",
+    "kana": "ロウ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "古英語 rāw（列）／rōwan（こぐ）",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "多義語"],
+    "meaning_main": "列・並び／（船を）こぐ",
+    "description": "row の意味・発音・例文・語源を解説。「列」と「（船を）こぐ」の二つの意味や、in a row（連続して）、raw との発音の違いも紹介します。",
+    "keywords": ["row 意味", "row 発音", "in a row 意味", "row raw 違い"],
+    "meanings": [
+      { "hinshi": "【名詞】列・並び", "note": "横の並び。the front row（最前列）。" },
+      { "hinshi": "【動詞】（船・ボートを）こぐ", "note": "row a boat（ボートをこぐ）。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「列」として", "desc": "横一列の並びを表します。in a row で「一列に・連続して」。", "example_en": "We sat in the front row at the concert.", "example_ja": "私たちはコンサートで最前列に座った。" },
+      { "title": "② 動詞「こぐ」として", "desc": "オールで船を進める意味です。", "example_en": "They rowed the boat across the lake.", "example_ja": "彼らはボートをこいで湖を渡った。" }
+    ],
+    "warn": [
+      "row /roʊ/「ロウ」と raw /rɔː/「ロー」は母音が違う。発音に注意。",
+      "in a row は『一列に』と『連続して』の二つの意味。three days in a row（3日連続）。"
+    ],
+    "etym_note": "『列』の row は古英語 rāw（列）に、『こぐ』の row は古英語 rōwan（こぐ）に由来します。もとは別語ですが、同じつづりになりました。",
+    "etym_chain": [
+      { "node": "rāw / rōwan", "sub": "列／こぐ", "era": "古英語" },
+      { "node": "rowe", "sub": "列・こぐ", "era": "中英語" },
+      { "node": "row", "sub": "列／こぐ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "in a row", "ja": "一列に・連続して" },
+      { "en": "the front row", "ja": "最前列" },
+      { "en": "the back row", "ja": "最後列" },
+      { "en": "row a boat", "ja": "ボートをこぐ" },
+      { "en": "a row of houses", "ja": "家の一並び" },
+      { "en": "three times in a row", "ja": "3回連続で" }
+    ],
+    "related": [
+      { "en": "line", "ja": "線・列" },
+      { "en": "column", "ja": "縦の列" },
+      { "en": "paddle", "ja": "（カヌーを）こぐ" },
+      { "en": "raw", "ja": "生の（紛らわしい発音）" }
+    ],
+    "faq": [
+      { "q": "in a row の意味は？", "a": "『一列に』のほか『連続して』の意味があります。She won three times in a row.（3回連続で勝った）のように使います。" },
+      { "q": "row と raw の発音の違いは？", "a": "row は /roʊ/「ロウ」、raw は /rɔː/「ロー」で母音が違います。" }
+    ],
+    "quiz": [
+      { "q": "We sat in the front ___ at the concert.（最前列）", "A": "row", "B": "raw", "C": "road", "D": "roll", "correct": "A" },
+      { "q": "「3日連続で」を表すのはどれ？", "A": "three days in a row", "B": "three days in a road", "C": "three days in a raw", "D": "three days in a roll", "correct": "A" }
+    ]
+  },
+  {
+    "english": "royal",
+    "pron": "ˈrɔɪəl",
+    "kana": "ロイヤル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 regalis（王の）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "形容詞"],
+    "meaning_main": "王の・王室の・堂々とした",
+    "description": "royal の意味・発音・例文・語源を解説。the royal family（王室）の使い方や、名詞 royalty、king・queen との関係も分かりやすく紹介します。",
+    "keywords": ["royal 意味", "royal 発音", "royal family 意味", "royalty 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】王の・王室の", "note": "the royal family（王室・王族）。" },
+      { "hinshi": "【形容詞】堂々とした・豪華な", "note": "a royal welcome（盛大な歓迎）。" }
+    ],
+    "usages": [
+      { "title": "① 「王室の」として", "desc": "王や女王に関することを表す基本の意味です。", "example_en": "The royal family lives in the palace.", "example_ja": "王室は宮殿に住んでいる。" },
+      { "title": "② 「堂々とした・豪華な」として", "desc": "王にふさわしい立派さを表します。", "example_en": "They gave us a royal welcome.", "example_ja": "彼らは私たちを盛大に歓迎してくれた。" }
+    ],
+    "warn": [
+      "名詞は royalty（王族／印税・著作権使用料）。意味の幅に注意。",
+      "Royal は固有名（the Royal Navy＝英国海軍など）では大文字。"
+    ],
+    "etym_note": "ラテン語 regalis（王の。rex「王」から）に由来し、古フランス語 roial を経て英語に入りました。regal（王の）や royal は同じ語源の二重語です。",
+    "etym_chain": [
+      { "node": "regalis", "sub": "王の", "era": "ラテン語" },
+      { "node": "roial", "sub": "王の", "era": "古フランス語" },
+      { "node": "royal", "sub": "王の・王室の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the royal family", "ja": "王室・王族" },
+      { "en": "a royal palace", "ja": "王宮" },
+      { "en": "a royal wedding", "ja": "王室の結婚式" },
+      { "en": "a royal welcome", "ja": "盛大な歓迎" },
+      { "en": "the Royal Navy", "ja": "英国海軍" },
+      { "en": "royal blood", "ja": "王家の血筋" }
+    ],
+    "related": [
+      { "en": "royalty", "ja": "王族・印税" },
+      { "en": "king", "ja": "王" },
+      { "en": "queen", "ja": "女王" },
+      { "en": "noble", "ja": "貴族の・高貴な" }
+    ],
+    "faq": [
+      { "q": "royal の名詞形は？", "a": "royalty です。『王族』のほか『印税・著作権使用料』という意味もあります。" },
+      { "q": "the royal family とは？", "a": "『王室・王族』のことです。イギリスなど王のいる国の王の一家を指します。" }
+    ],
+    "quiz": [
+      { "q": "The ___ family lives in the palace.（王室は宮殿に住む）", "A": "royal", "B": "loyal", "C": "rural", "D": "rough", "correct": "A" },
+      { "q": "royal の名詞形（王族・印税）はどれ？", "A": "royalty", "B": "royalness", "C": "royalment", "D": "royalation", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rub",
+    "pron": "rʌb",
+    "kana": "ラブ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "中英語 rubben（こする）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "基本動詞"],
+    "meaning_main": "こする・さする・みがく",
+    "description": "rub の意味・発音・例文・語源を解説。語尾の b を重ねる rubbed / rubbing の活用や、rub out（消す）などの句動詞も分かりやすく紹介します。",
+    "keywords": ["rub 意味", "rub 発音", "rubbed 活用", "rub out 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】こする・さする", "note": "rub your eyes（目をこする）。" },
+      { "hinshi": "【動詞】（こすって）みがく・塗り込む", "note": "rub the surface（表面をこする）。" }
+    ],
+    "usages": [
+      { "title": "① 「こする・さする」として", "desc": "手などで表面をこする基本の意味です。", "example_en": "She rubbed her hands to keep warm.", "example_ja": "彼女は暖かくするために両手をこすり合わせた。" },
+      { "title": "② 句動詞として", "desc": "rub out（消す）、rub off（こすり落とす）などで使います。", "example_en": "Rub out the wrong answer with an eraser.", "example_ja": "消しゴムでまちがった答えを消しなさい。" }
+    ],
+    "warn": [
+      "活用は語尾の b を重ねる：rub – rubbed – rubbed、rubbing。短母音＋1子音字のため。",
+      "rub someone the wrong way は『（人を）いらいらさせる』という慣用句。"
+    ],
+    "etym_note": "中英語 rubben（こする）に由来し、低地ドイツ語などとつながる語と考えられています。擬態的な響きを持つ基礎語です。",
+    "etym_chain": [
+      { "node": "rubben", "sub": "こする", "era": "中英語" },
+      { "node": "rub", "sub": "こする", "era": "近代英語" },
+      { "node": "rub", "sub": "こする・さする", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rub your eyes", "ja": "目をこする" },
+      { "en": "rub out", "ja": "（こすって）消す" },
+      { "en": "rub off", "ja": "こすり落ちる・うつる" },
+      { "en": "rub your hands", "ja": "両手をこすり合わせる" },
+      { "en": "rub someone the wrong way", "ja": "人をいらいらさせる" },
+      { "en": "rub in", "ja": "すり込む・しつこく言う" }
+    ],
+    "related": [
+      { "en": "wipe", "ja": "ふく・ぬぐう" },
+      { "en": "scratch", "ja": "ひっかく" },
+      { "en": "polish", "ja": "みがく" },
+      { "en": "massage", "ja": "もむ・マッサージ" }
+    ],
+    "faq": [
+      { "q": "rub の過去形のつづりは？", "a": "rubbed です。短母音＋1子音字（b）で終わるため、b を重ねます。-ing 形も rubbing です。" },
+      { "q": "rub out とはどういう意味？", "a": "『（こすって）消す』という意味です。消しゴムで文字を消すときなどに使います。" }
+    ],
+    "quiz": [
+      { "q": "She ___ her hands to keep warm.（手をこすり合わせた）", "A": "rubbed", "B": "rubed", "C": "rubd", "D": "rabbed", "correct": "A" },
+      { "q": "「（こすって）消す」を表すのはどれ？", "A": "rub out", "B": "rub up", "C": "rub on", "D": "rub at", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rubber",
+    "pron": "ˈrʌbər",
+    "kana": "ラバー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rub（こする）＋ -er（消すもの）",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "もの"],
+    "meaning_main": "ゴム／（英）消しゴム",
+    "description": "rubber の意味・発音・例文・語源を解説。「ゴム」と、イギリス英語の「消しゴム」の意味の違いや、rub（こする）との関係も紹介します。",
+    "keywords": ["rubber 意味", "rubber 発音", "rubber 消しゴム ゴム", "rubber eraser 違い"],
+    "meanings": [
+      { "hinshi": "【名詞】ゴム", "note": "弾力のある素材。a rubber band（輪ゴム）。" },
+      { "hinshi": "【名詞】（英）消しゴム", "note": "イギリス英語。アメリカ英語では eraser。" }
+    ],
+    "usages": [
+      { "title": "① 素材「ゴム」として", "desc": "タイヤや輪ゴムなどの材料を表します。", "example_en": "Car tires are made of rubber.", "example_ja": "車のタイヤはゴムでできている。" },
+      { "title": "② （英）「消しゴム」として", "desc": "イギリス英語では消しゴムの意味になります。", "example_en": "Can I borrow your rubber?", "example_ja": "（英）消しゴムを借りてもいい？" }
+    ],
+    "warn": [
+      "『消しゴム』はイギリスでは rubber、アメリカでは eraser。アメリカで rubber は別の意味にもなるので注意。",
+      "rub（こする）＋ -er で、もとは『こすって消すもの』が語源。"
+    ],
+    "etym_note": "rub（こする）に -er がついた語で、もとは『こすって字を消すもの＝消しゴム』を指しました。のちに同じ素材『ゴム』全般を指すようになりました。",
+    "etym_chain": [
+      { "node": "rub", "sub": "こする", "era": "中英語" },
+      { "node": "rubber", "sub": "こすって消すもの", "era": "18世紀" },
+      { "node": "rubber", "sub": "ゴム・消しゴム", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rubber band", "ja": "輪ゴム" },
+      { "en": "rubber gloves", "ja": "ゴム手袋" },
+      { "en": "a rubber boot", "ja": "ゴム長靴" },
+      { "en": "rubber tires", "ja": "ゴムタイヤ" },
+      { "en": "a rubber stamp", "ja": "ゴム印・形式的な承認" },
+      { "en": "synthetic rubber", "ja": "合成ゴム" }
+    ],
+    "related": [
+      { "en": "eraser", "ja": "消しゴム（米）" },
+      { "en": "plastic", "ja": "プラスチック" },
+      { "en": "elastic", "ja": "弾力のある" },
+      { "en": "tire", "ja": "タイヤ" }
+    ],
+    "faq": [
+      { "q": "rubber と eraser の違いは？", "a": "どちらも『消しゴム』ですが、rubber はイギリス英語、eraser はアメリカ英語です。rubber は『ゴム』全般も指します。" },
+      { "q": "a rubber band とは？", "a": "『輪ゴム』のことです。物をまとめるのに使う輪状のゴムです。" }
+    ],
+    "quiz": [
+      { "q": "Car tires are made of ___.（タイヤはゴム製）", "A": "rubber", "B": "robber", "C": "ruler", "D": "river", "correct": "A" },
+      { "q": "アメリカ英語で『消しゴム』を表すのはどれ？", "A": "rubber", "B": "eraser", "C": "rubble", "D": "rubric", "correct": "B" }
+    ]
+  },
+  {
+    "english": "rude",
+    "pron": "ruːd",
+    "kana": "ルード",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 rudis（粗野な・未加工の）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "形容詞"],
+    "meaning_main": "失礼な・無礼な・粗野な",
+    "description": "rude の意味・発音・例文・語源を解説。polite（礼儀正しい）の反対語で、It is rude to do（〜するのは失礼）の使い方も分かりやすく紹介します。",
+    "keywords": ["rude 意味", "rude 発音", "rude polite 反対", "rude 失礼"],
+    "meanings": [
+      { "hinshi": "【形容詞】失礼な・無礼な", "note": "a rude remark（失礼な発言）。polite の反対。" },
+      { "hinshi": "【形容詞】粗野な・乱暴な", "note": "rude behavior（無作法なふるまい）。" }
+    ],
+    "usages": [
+      { "title": "① 「失礼な」として", "desc": "礼儀を欠いた言動を表します。", "example_en": "It is rude to point at people.", "example_ja": "人を指さすのは失礼だ。" },
+      { "title": "② 「無礼な態度の人」として", "desc": "be rude to（〜に失礼な態度をとる）の形で使います。", "example_en": "Don't be rude to your teachers.", "example_ja": "先生に失礼な態度をとってはいけない。" }
+    ],
+    "warn": [
+      "反対語は polite（礼儀正しい）。be rude to＋人（〜に失礼な態度をとる）。",
+      "副詞は rudely（失礼にも・無礼に）。名詞は rudeness（無礼）。"
+    ],
+    "etym_note": "ラテン語 rudis（粗野な・未加工の・荒削りの）に由来します。もとは『手を加えていない粗いもの』が原義で、そこから『無作法な・失礼な』になりました。",
+    "etym_chain": [
+      { "node": "rudis", "sub": "粗野な・未加工の", "era": "ラテン語" },
+      { "node": "rude", "sub": "粗野な", "era": "中英語" },
+      { "node": "rude", "sub": "失礼な・粗野な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be rude to", "ja": "〜に失礼な態度をとる" },
+      { "en": "a rude remark", "ja": "失礼な発言" },
+      { "en": "It's rude to ...", "ja": "〜するのは失礼だ" },
+      { "en": "rude behavior", "ja": "無作法なふるまい" },
+      { "en": "a rude awakening", "ja": "いやな現実に気づくこと" },
+      { "en": "How rude!", "ja": "なんて失礼な！" }
+    ],
+    "related": [
+      { "en": "polite", "ja": "礼儀正しい（反対語）" },
+      { "en": "impolite", "ja": "無礼な" },
+      { "en": "rudeness", "ja": "無礼（名詞）" },
+      { "en": "manners", "ja": "礼儀・行儀" }
+    ],
+    "faq": [
+      { "q": "rude の反対語は？", "a": "polite（礼儀正しい）です。a rude person ↔ a polite person のように使います。" },
+      { "q": "「〜するのは失礼だ」は英語で？", "a": "It is rude to do の形で表します。It is rude to interrupt.（さえぎるのは失礼だ）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "It is ___ to point at people.（指さすのは失礼）", "A": "rude", "B": "polite", "C": "kind", "D": "quiet", "correct": "A" },
+      { "q": "rude の反対語はどれ？", "A": "polite", "B": "rough", "C": "royal", "D": "ready", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ruin",
+    "pron": "ˈruːɪn",
+    "kana": "ルーイン",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "ラテン語 ruina（崩れ落ちること）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本語"],
+    "meaning_main": "台なしにする・破滅させる／廃墟・破滅",
+    "description": "ruin の意味・発音・例文・語源を解説。「台なしにする」の動詞用法や、複数形 ruins（遺跡・廃墟）、in ruins（廃墟と化して）も紹介します。",
+    "keywords": ["ruin 意味", "ruin 発音", "ruins 遺跡", "in ruins 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】台なしにする・だめにする", "note": "ruin the party（パーティーを台なしにする）。" },
+      { "hinshi": "【動詞】破滅させる・破産させる", "note": "ruin one's reputation（評判を落とす）。" },
+      { "hinshi": "【名詞】廃墟・遺跡／破滅", "note": "(複数形) ancient ruins（古代遺跡）。in ruins（廃墟と化して）。" }
+    ],
+    "usages": [
+      { "title": "① 「台なしにする」として", "desc": "計画や雰囲気をだめにする意味でよく使います。", "example_en": "The rain ruined our picnic.", "example_ja": "雨が私たちのピクニックを台なしにした。" },
+      { "title": "② 名詞 ruins（遺跡・廃墟）として", "desc": "複数形で古い建物の跡を表します。", "example_en": "We visited the ruins of an old castle.", "example_ja": "私たちは古い城の遺跡を訪れた。" }
+    ],
+    "warn": [
+      "『遺跡・廃墟』の意味では複数形 ruins。in ruins は『廃墟と化して・崩壊して』。",
+      "発音は /ˈruːɪn/「ルーイン」。2音節で読む。"
+    ],
+    "etym_note": "ラテン語 ruina（崩れ落ちること。ruere「崩れる」から）に由来します。「建物などが崩れ落ちる」が原義で、そこから『破滅・廃墟』へと広がりました。",
+    "etym_chain": [
+      { "node": "ruina", "sub": "崩れ落ちること", "era": "ラテン語" },
+      { "node": "ruine", "sub": "破滅・廃墟", "era": "古フランス語" },
+      { "node": "ruin", "sub": "台なしにする・廃墟", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "ruin a plan", "ja": "計画を台なしにする" },
+      { "en": "in ruins", "ja": "廃墟と化して" },
+      { "en": "ancient ruins", "ja": "古代遺跡" },
+      { "en": "ruin one's life", "ja": "人生を台なしにする" },
+      { "en": "go to ruin", "ja": "荒廃する" },
+      { "en": "financial ruin", "ja": "経済的破綻" }
+    ],
+    "related": [
+      { "en": "destroy", "ja": "破壊する" },
+      { "en": "spoil", "ja": "だめにする" },
+      { "en": "damage", "ja": "損なう" },
+      { "en": "wreck", "ja": "難破・破壊する" }
+    ],
+    "faq": [
+      { "q": "ruins（複数形）の意味は？", "a": "『遺跡・廃墟』を表します。the ruins of an old temple（古い寺院の遺跡）のように使います。" },
+      { "q": "in ruins とはどんな意味？", "a": "『廃墟と化して・崩壊して』という意味です。The city lay in ruins after the war.（戦争後、街は廃墟と化していた）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The rain ___ our picnic.（ピクニックを台なしにした）", "A": "ruined", "B": "rained", "C": "ruled", "D": "rushed", "correct": "A" },
+      { "q": "「古代遺跡」を表すのはどれ？", "A": "ancient ruins", "B": "ancient rules", "C": "ancient roots", "D": "ancient rooms", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rule",
+    "pron": "ruːl",
+    "kana": "ルール",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "ラテン語 regula（定規・規則）",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "多義語"],
+    "meaning_main": "規則・ルール／支配する・統治する",
+    "description": "rule の意味・発音・例文・語源を解説。「規則」の名詞用法と「支配する」の動詞用法、as a rule（概して）などの表現も分かりやすく紹介します。",
+    "keywords": ["rule 意味", "rule 発音", "as a rule 意味", "rule 規則 支配"],
+    "meanings": [
+      { "hinshi": "【名詞】規則・ルール", "note": "follow the rules（規則に従う）。break the rules（規則を破る）。" },
+      { "hinshi": "【動詞】支配する・統治する", "note": "rule a country（国を治める）。" },
+      { "hinshi": "【名詞】習慣・通例", "note": "as a rule（概して・通例）。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「規則・ルール」として", "desc": "守るべき決まりを表す基本の意味です。", "example_en": "You must follow the rules of the game.", "example_ja": "ゲームのルールに従わなければならない。" },
+      { "title": "② 動詞「支配する」として", "desc": "国や地域を治める意味です。", "example_en": "The king ruled the country for 30 years.", "example_ja": "その王は30年間国を治めた。" }
+    ],
+    "warn": [
+      "as a rule は『概して・通例』。a rule of thumb は『経験則・おおよその目安』。",
+      "rule out は『（可能性などを）除外する』という句動詞。"
+    ],
+    "etym_note": "ラテン語 regula（定規・規則）に由来し、古フランス語 reule を経て英語に入りました。regular・ruler（定規）と同じ語源で、「基準となるもの」が原義です。",
+    "etym_chain": [
+      { "node": "regula", "sub": "定規・規則", "era": "ラテン語" },
+      { "node": "reule", "sub": "規則", "era": "古フランス語" },
+      { "node": "rule", "sub": "規則・支配する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "follow the rules", "ja": "規則に従う" },
+      { "en": "break the rules", "ja": "規則を破る" },
+      { "en": "as a rule", "ja": "概して・通例" },
+      { "en": "rule out", "ja": "除外する" },
+      { "en": "a rule of thumb", "ja": "経験則・目安" },
+      { "en": "against the rules", "ja": "規則違反で" }
+    ],
+    "related": [
+      { "en": "ruler", "ja": "支配者・定規" },
+      { "en": "law", "ja": "法律" },
+      { "en": "govern", "ja": "統治する" },
+      { "en": "regulation", "ja": "規則・規制" }
+    ],
+    "faq": [
+      { "q": "as a rule とはどんな意味？", "a": "『概して・通例』という意味です。As a rule, I get up at six.（たいてい6時に起きる）のように使います。" },
+      { "q": "rule out とは？", "a": "『（可能性・選択肢を）除外する』という意味の句動詞です。We can't rule out that possibility.（その可能性を除外できない）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "You must follow the ___ of the game.（ゲームのルール）", "A": "rules", "B": "roles", "C": "rolls", "D": "roots", "correct": "A" },
+      { "q": "「概して・通例」を表すのはどれ？", "A": "as a rule", "B": "as a role", "C": "as a roll", "D": "as a root", "correct": "A" }
+    ]
+  },
+  {
+    "english": "run",
+    "pron": "rʌn",
+    "kana": "ラン",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "古英語 rinnan / iernan（走る・流れる）",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "多義語"],
+    "meaning_main": "走る／（機械が）動く／経営する",
+    "description": "run の意味・発音・例文・語源を解説。「走る」だけでなく「経営する」「（機械が）動く」など幅広い意味や、run-ran-run の活用も紹介します。",
+    "keywords": ["run 意味", "run 発音", "run 過去形 活用", "run a business 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】走る", "note": "run fast（速く走る）。最も基本的な意味。" },
+      { "hinshi": "【動詞】経営する・運営する", "note": "run a shop（店を経営する）。" },
+      { "hinshi": "【動詞】（機械・装置が）動く・作動する", "note": "The engine is running.（エンジンが動いている）。" }
+    ],
+    "usages": [
+      { "title": "① 「走る」として", "desc": "速く移動する基本の意味です。活用に注意。", "example_en": "He runs five kilometers every morning.", "example_ja": "彼は毎朝5キロ走る。" },
+      { "title": "② 「経営する・運営する」として", "desc": "店や組織を動かす意味でも頻出です。", "example_en": "She runs a small bakery downtown.", "example_ja": "彼女は中心街で小さなパン屋を経営している。" }
+    ],
+    "warn": [
+      "活用は不規則：run – ran – run。過去分詞は原形と同じ run。",
+      "句動詞が非常に多い：run out of（〜を切らす）、run into（偶然出会う）、run away（逃げる）など。"
+    ],
+    "etym_note": "古英語 rinnan / iernan（走る・流れる）に由来する古いゲルマン系の基礎語です。「速く動く・流れる」という原義から、多くの比喩的な意味に広がりました。",
+    "etym_chain": [
+      { "node": "rinnan", "sub": "走る・流れる", "era": "古英語" },
+      { "node": "rennen", "sub": "走る", "era": "中英語" },
+      { "node": "run", "sub": "走る・運営する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "run a business", "ja": "事業を経営する" },
+      { "en": "run out of", "ja": "〜を切らす・使い果たす" },
+      { "en": "run into", "ja": "〜に偶然出会う・衝突する" },
+      { "en": "run away", "ja": "逃げる" },
+      { "en": "in the long run", "ja": "長い目で見れば" },
+      { "en": "go for a run", "ja": "走りに行く" }
+    ],
+    "related": [
+      { "en": "runner", "ja": "走者・ランナー" },
+      { "en": "jog", "ja": "ジョギングする" },
+      { "en": "operate", "ja": "操作・運営する" },
+      { "en": "manage", "ja": "管理・経営する" }
+    ],
+    "faq": [
+      { "q": "run の過去形・過去分詞は？", "a": "run – ran – run と不規則変化します。過去分詞は原形と同じ run です。" },
+      { "q": "run out of とは？", "a": "『〜を切らす・使い果たす』という意味です。We ran out of milk.（牛乳を切らした）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "She ___ a small bakery downtown.（パン屋を経営している）", "A": "runs", "B": "rises", "C": "rules", "D": "rushes", "correct": "A" },
+      { "q": "run の過去形はどれ？", "A": "runned", "B": "ran", "C": "run の過去はrun のみ", "D": "rune", "correct": "B" }
+    ]
+  },
+  {
+    "english": "rural",
+    "pron": "ˈrʊrəl",
+    "kana": "ルーラル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 ruralis（田舎の）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "形容詞"],
+    "meaning_main": "田舎の・農村の",
+    "description": "rural の意味・発音・例文・語源を解説。反対語 urban（都市の）との対比や、rural area（農村地域）などの表現も分かりやすく紹介します。",
+    "keywords": ["rural 意味", "rural 発音", "rural urban 反対", "rural area 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】田舎の・農村の", "note": "rural life（田舎の暮らし）。urban の反対。" }
+    ],
+    "usages": [
+      { "title": "① 「田舎の・農村の」として", "desc": "都会ではない地方を表す形容詞です。", "example_en": "He grew up in a rural village.", "example_ja": "彼は田舎の村で育った。" },
+      { "title": "② urban との対比で", "desc": "rural と urban を対比して使うことが多いです。", "example_en": "Many people move from rural areas to cities.", "example_ja": "多くの人が農村部から都市へ移り住む。" }
+    ],
+    "warn": [
+      "反対語は urban（都市の）。発音とつづりが似た rural / urban / royal を区別する。",
+      "rural area（農村地域）、rural life（田舎の生活）が定番のコロケーション。"
+    ],
+    "etym_note": "ラテン語 ruralis（田舎の。rus「田舎・田園」から）に由来します。rustic（素朴な・田舎風の）も同じ語源の仲間です。",
+    "etym_chain": [
+      { "node": "rus", "sub": "田舎・田園", "era": "ラテン語" },
+      { "node": "ruralis", "sub": "田舎の", "era": "ラテン語" },
+      { "node": "rural", "sub": "田舎の・農村の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rural area", "ja": "農村地域" },
+      { "en": "rural life", "ja": "田舎の暮らし" },
+      { "en": "a rural village", "ja": "田舎の村" },
+      { "en": "rural communities", "ja": "農村の地域社会" },
+      { "en": "rural and urban", "ja": "農村と都市" },
+      { "en": "the rural population", "ja": "農村人口" }
+    ],
+    "related": [
+      { "en": "urban", "ja": "都市の（反対語）" },
+      { "en": "country", "ja": "田舎・国" },
+      { "en": "countryside", "ja": "田園地帯" },
+      { "en": "farm", "ja": "農場" }
+    ],
+    "faq": [
+      { "q": "rural の反対語は？", "a": "urban（都市の）です。a rural area（農村地域）↔ an urban area（都市部）のように対比します。" },
+      { "q": "rural と royal の違いは？", "a": "rural は『田舎の』、royal は『王の・王室の』です。つづりが似ているので注意しましょう。" }
+    ],
+    "quiz": [
+      { "q": "He grew up in a ___ village.（田舎の村）", "A": "rural", "B": "royal", "C": "rough", "D": "round", "correct": "A" },
+      { "q": "rural の反対語はどれ？", "A": "urban", "B": "royal", "C": "local", "D": "central", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rush",
+    "pron": "rʌʃ",
+    "kana": "ラッシュ",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "古フランス語 ruser（押しのける・急ぐ）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "基本動詞"],
+    "meaning_main": "急ぐ・急いで行く／突進／混雑",
+    "description": "rush の意味・発音・例文・語源を解説。hurry との違いや、rush hour（混雑時）、in a rush（急いで）などの表現も分かりやすく紹介します。",
+    "keywords": ["rush 意味", "rush 発音", "rush hour 意味", "rush hurry 違い"],
+    "meanings": [
+      { "hinshi": "【動詞】急ぐ・急いで行く", "note": "rush to the station（駅へ急いで行く）。" },
+      { "hinshi": "【動詞】せかす・急がせる", "note": "Don't rush me.（せかさないで）。" },
+      { "hinshi": "【名詞】突進・混雑・殺到", "note": "the rush hour（ラッシュアワー）。" }
+    ],
+    "usages": [
+      { "title": "① 「急ぐ・急いで行く」として", "desc": "あわてて移動・行動する意味です。", "example_en": "She rushed out of the house without breakfast.", "example_ja": "彼女は朝食もとらずに家を飛び出した。" },
+      { "title": "② 名詞「混雑・殺到」として", "desc": "rush hour（通勤ラッシュ）などで使います。", "example_en": "I try to avoid the morning rush hour.", "example_ja": "私は朝のラッシュアワーを避けるようにしている。" }
+    ],
+    "warn": [
+      "rush は hurry より急で勢いがある『突進する』ニュアンス。in a rush は『急いで』。",
+      "rush hour は『（交通の）混雑時間帯』。a rush of＋名詞は『〜の殺到・高まり』。"
+    ],
+    "etym_note": "古フランス語 ruser（押しのける・退ける）に由来します。もとは『押し戻す』が原義で、英語で『勢いよく進む・急ぐ』の意味に発展しました。",
+    "etym_chain": [
+      { "node": "ruser", "sub": "押しのける", "era": "古フランス語" },
+      { "node": "rushen", "sub": "急いで進む", "era": "中英語" },
+      { "node": "rush", "sub": "急ぐ・突進", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rush hour", "ja": "ラッシュアワー・混雑時" },
+      { "en": "in a rush", "ja": "急いで・あわてて" },
+      { "en": "rush to", "ja": "〜へ急いで行く" },
+      { "en": "no rush", "ja": "急がなくていいよ" },
+      { "en": "a rush of", "ja": "〜の殺到・高まり" },
+      { "en": "rush around", "ja": "あちこち走り回る" }
+    ],
+    "related": [
+      { "en": "hurry", "ja": "急ぐ" },
+      { "en": "hasten", "ja": "急ぐ・急がせる" },
+      { "en": "dash", "ja": "突進する" },
+      { "en": "crowd", "ja": "混雑・群衆" }
+    ],
+    "faq": [
+      { "q": "rush と hurry の違いは？", "a": "どちらも『急ぐ』ですが、rush の方がより急で勢いのある『突進する』ニュアンスがあります。hurry はより一般的です。" },
+      { "q": "rush hour とは？", "a": "通勤・通学で交通が最も混む『混雑時間帯（ラッシュアワー）』のことです。" }
+    ],
+    "quiz": [
+      { "q": "She ___ out of the house without breakfast.（飛び出した）", "A": "rushed", "B": "ruled", "C": "ruined", "D": "rubbed", "correct": "A" },
+      { "q": "「急いで・あわてて」を表すのはどれ？", "A": "in a rush", "B": "in a rule", "C": "in a ruin", "D": "in a row の別意", "correct": "A" }
+    ]
+  }
+]
