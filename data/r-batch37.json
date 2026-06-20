@@ -1,0 +1,527 @@
+[
+  {
+    "english": "reconnaissance",
+    "pron": "rɪˈkɑːnɪsəns",
+    "kana": "リコニサンス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 reconnaissance（認識・偵察）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "軍事"],
+    "meaning_main": "偵察・実地調査",
+    "description": "reconnaissance の意味・発音・例文・語源を解説。軍の「偵察」の使い方や、略語 recon、recognize との語源的な関係も分かりやすく紹介します。",
+    "keywords": ["reconnaissance 意味", "reconnaissance 発音", "recon 意味", "reconnaissance 偵察"],
+    "meanings": [
+      { "hinshi": "【名詞】偵察・実地調査", "note": "敵情や地形を前もって調べること。a reconnaissance mission（偵察任務）。" }
+    ],
+    "usages": [
+      { "title": "① 軍の「偵察」として", "desc": "前もって敵情・地形を調べることを表します。", "example_en": "The plane was sent on a reconnaissance mission.", "example_ja": "その飛行機は偵察任務に送られた。" },
+      { "title": "② 一般の「下見・実地調査」として", "desc": "前もって現地を調べる意味でも使います。", "example_en": "They did some reconnaissance before the climb.", "example_ja": "彼らは登山の前に下見をした。" }
+    ],
+    "warn": [
+      "つづり・発音が難しい：/rɪˈkɑːnɪsəns/。略して recon ともいう。",
+      "recognize（認識する）と同じフランス語源（再び知る）。"
+    ],
+    "etym_note": "フランス語 reconnaissance（認識・偵察。reconnaître「それと知る」から）に由来します。recognize と同じ語源で、「前もって（敵情を）知ること＝偵察」が原義です。",
+    "etym_chain": [
+      { "node": "recognoscere", "sub": "再び知る", "era": "ラテン語" },
+      { "node": "reconnaissance", "sub": "認識・偵察", "era": "フランス語" },
+      { "node": "reconnaissance", "sub": "偵察", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a reconnaissance mission", "ja": "偵察任務" },
+      { "en": "aerial reconnaissance", "ja": "空中偵察" },
+      { "en": "a reconnaissance plane", "ja": "偵察機" },
+      { "en": "carry out reconnaissance", "ja": "偵察を行う" },
+      { "en": "do some reconnaissance", "ja": "下見をする" },
+      { "en": "recon", "ja": "偵察（略語）" }
+    ],
+    "related": [
+      { "en": "recognize", "ja": "認識する（同語源）" },
+      { "en": "scout", "ja": "偵察する" },
+      { "en": "survey", "ja": "調査する" },
+      { "en": "explore", "ja": "探索する" }
+    ],
+    "faq": [
+      { "q": "reconnaissance とは？", "a": "軍事で『偵察（前もって敵情や地形を調べること）』です。一般にも『下見・実地調査』の意味で使います。略して recon ともいいます。" },
+      { "q": "recognize と関係ある？", "a": "はい。どちらもフランス語・ラテン語の『再び知る』に由来します。reconnaissance は『前もって知ること＝偵察』です。" }
+    ],
+    "quiz": [
+      { "q": "The plane was sent on a ___ mission.（偵察任務）", "A": "reconnaissance", "B": "recommendation", "C": "reconstruction", "D": "reservation", "correct": "A" },
+      { "q": "reconnaissance の略語はどれ？", "A": "recon", "B": "recom", "C": "reco", "D": "renai", "correct": "A" }
+    ]
+  },
+  {
+    "english": "renaissance",
+    "pron": "ˈrenəsɑːns",
+    "kana": "ルネサンス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 renaissance（再生）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "歴史"],
+    "meaning_main": "（the Renaissance）ルネサンス／（文化の）復興・再興",
+    "description": "renaissance の意味・発音・例文・語源を解説。歴史の「ルネサンス（文芸復興）」や、一般的な「復興・再興」の使い方を分かりやすく紹介します。",
+    "keywords": ["renaissance 意味", "renaissance 発音", "Renaissance ルネサンス", "renaissance 復興"],
+    "meanings": [
+      { "hinshi": "【名詞】(the Renaissance) ルネサンス", "note": "14〜16世紀ヨーロッパの文芸復興。大文字。" },
+      { "hinshi": "【名詞】（文化・活動の）復興・再興", "note": "a cultural renaissance（文化の復興）。" }
+    ],
+    "usages": [
+      { "title": "① 歴史の「ルネサンス」として", "desc": "ヨーロッパの文芸復興を表します。", "example_en": "Leonardo da Vinci was a genius of the Renaissance.", "example_ja": "レオナルド・ダ・ヴィンチはルネサンスの天才だった。" },
+      { "title": "② 一般の「復興・再興」として", "desc": "文化・地域などの再興を表します。", "example_en": "The city is experiencing an economic renaissance.", "example_ja": "その都市は経済的な復興を経験している。" }
+    ],
+    "warn": [
+      "歴史用語『ルネサンス』は大文字 the Renaissance。一般名詞『復興』は小文字。",
+      "re-（再び）＋ naissance（誕生）＝『再生』。フランス語由来。"
+    ],
+    "etym_note": "フランス語 renaissance（re-「再び」＋ naissance「誕生」＝再生）に由来します。「（古代文化の）再生・復興」が原義です。nascent・native と同じ nasc-（生まれる）の語根です。",
+    "etym_chain": [
+      { "node": "renaissance", "sub": "再生", "era": "フランス語" },
+      { "node": "Renaissance", "sub": "文芸復興", "era": "近代英語" },
+      { "node": "renaissance", "sub": "ルネサンス・復興", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the Renaissance", "ja": "ルネサンス（文芸復興）" },
+      { "en": "Renaissance art", "ja": "ルネサンス美術" },
+      { "en": "a cultural renaissance", "ja": "文化の復興" },
+      { "en": "an economic renaissance", "ja": "経済の復興" },
+      { "en": "a Renaissance man", "ja": "万能の人・多才な人" },
+      { "en": "experience a renaissance", "ja": "復興をとげる" }
+    ],
+    "related": [
+      { "en": "revival", "ja": "復活・再生" },
+      { "en": "rebirth", "ja": "再生" },
+      { "en": "rebirth", "ja": "復興" },
+      { "en": "decline", "ja": "衰退（反対語）" }
+    ],
+    "faq": [
+      { "q": "the Renaissance とは？", "a": "14〜16世紀のヨーロッパで起きた『ルネサンス（古代ギリシャ・ローマ文化の再生をめざした文芸復興）』のことです。" },
+      { "q": "a Renaissance man とは？", "a": "『（芸術・科学など多方面に通じた）万能の人・多才な人』という意味です。ダ・ヴィンチのような人を指します。" }
+    ],
+    "quiz": [
+      { "q": "Leonardo da Vinci was a genius of the ___.（ルネサンス）", "A": "Renaissance", "B": "Reconnaissance の偵察", "C": "Reservation", "D": "Resignation", "correct": "A" },
+      { "q": "renaissance の語源（re ＋ naissance）の意味は？", "A": "再生・再誕生", "B": "再認識", "C": "再構築", "D": "再配置", "correct": "A" }
+    ]
+  },
+  {
+    "english": "repository",
+    "pron": "rɪˈpɑːzɪtɔːri",
+    "kana": "リポジトリー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 repositorium（保管所）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "もの"],
+    "meaning_main": "保管所・貯蔵庫・宝庫／（IT）リポジトリ",
+    "description": "repository の意味・発音・例文・語源を解説。情報や物の「保管所・宝庫」や、ITの「リポジトリ（コード保管庫）」の使い方を分かりやすく紹介します。",
+    "keywords": ["repository 意味", "repository 発音", "repository IT", "repository 保管所"],
+    "meanings": [
+      { "hinshi": "【名詞】保管所・貯蔵庫・宝庫", "note": "ものや情報を集めて保管する場所。a repository of knowledge（知識の宝庫）。" },
+      { "hinshi": "【名詞】（IT）リポジトリ", "note": "プログラムやデータを保存・管理する場所。" }
+    ],
+    "usages": [
+      { "title": "① 「保管所・宝庫」として", "desc": "情報・物を集めて保管する場所を表します。", "example_en": "The library is a repository of historical documents.", "example_ja": "その図書館は歴史的文書の保管所だ。" },
+      { "title": "② IT「リポジトリ」として", "desc": "コードやデータの保存・管理場所を表します。", "example_en": "The code is stored in a public repository.", "example_ja": "そのコードは公開リポジトリに保存されている。" }
+    ],
+    "warn": [
+      "repository は『保管所・宝庫』。a repository of＋名詞（〜の宝庫）の形が多い。",
+      "IT では『リポジトリ（バージョン管理されるコード保管庫）』。略して repo。"
+    ],
+    "etym_note": "ラテン語 repositorium（reponere「しまっておく」から＝保管所）に由来します。deposit・position と同じ pos-（置く）の語根で、「（物を）置いておく場所」が原義です。",
+    "etym_chain": [
+      { "node": "reponere", "sub": "しまっておく", "era": "ラテン語" },
+      { "node": "repositorium", "sub": "保管所", "era": "ラテン語" },
+      { "node": "repository", "sub": "保管所・宝庫", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a repository of knowledge", "ja": "知識の宝庫" },
+      { "en": "a repository of information", "ja": "情報の保管所" },
+      { "en": "a central repository", "ja": "中央保管所" },
+      { "en": "a code repository", "ja": "コードリポジトリ" },
+      { "en": "a data repository", "ja": "データ保管庫" },
+      { "en": "a public repository", "ja": "公開リポジトリ" }
+    ],
+    "related": [
+      { "en": "storehouse", "ja": "倉庫・宝庫" },
+      { "en": "archive", "ja": "保管所・記録" },
+      { "en": "database", "ja": "データベース" },
+      { "en": "warehouse", "ja": "倉庫" }
+    ],
+    "faq": [
+      { "q": "repository とはどんな意味？", "a": "『（物や情報の）保管所・貯蔵庫・宝庫』のことです。a repository of knowledge（知識の宝庫）のように使います。" },
+      { "q": "IT の repository とは？", "a": "プログラムのコードやデータをバージョン管理して保存する『リポジトリ』のことです。GitHub などで使われ、略して repo ともいいます。" }
+    ],
+    "quiz": [
+      { "q": "The library is a ___ of historical documents.（保管所）", "A": "repository", "B": "reservoir の貯水池", "C": "reception", "D": "reservation", "correct": "A" },
+      { "q": "repository と同じ語源（置く）の語はどれ？", "A": "deposit", "B": "river", "C": "ribbon", "D": "ripple", "correct": "A" }
+    ]
+  },
+  {
+    "english": "resurgence",
+    "pron": "rɪˈsɜːrdʒəns",
+    "kana": "リサージェンス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 resurgere（再び立ち上がる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "名詞"],
+    "meaning_main": "復活・再燃・再興",
+    "description": "resurgence の意味・発音・例文・語源を解説。流行や勢いが「再び盛り返すこと（復活・再燃）」の使い方を分かりやすく紹介します。",
+    "keywords": ["resurgence 意味", "resurgence 発音", "resurgence 復活", "resurgence 再燃"],
+    "meanings": [
+      { "hinshi": "【名詞】復活・再燃・再興", "note": "一度衰えたものが再び盛り返すこと。a resurgence of interest（関心の再燃）。" }
+    ],
+    "usages": [
+      { "title": "① 「復活・再燃」として", "desc": "一度衰えたものが再び勢いを増す意味です。", "example_en": "There has been a resurgence of interest in vinyl records.", "example_ja": "レコードへの関心が再燃している。" },
+      { "title": "② 病気・流行の再燃として", "desc": "再び広がることを表します。", "example_en": "The country saw a resurgence of the virus.", "example_ja": "その国ではウイルスが再び流行した。" }
+    ],
+    "warn": [
+      "a resurgence of＋名詞（〜の再燃）の形でよく使う。動詞は resurge（まれ）、形容詞は resurgent。",
+      "resource（資源）と語頭が似ているが別語。"
+    ],
+    "etym_note": "ラテン語 resurgere（re-「再び」＋ surgere「立ち上がる」＝再び立ち上がる）に由来します。surge・insurgent と同じ surg-（立ち上がる）の語根です。",
+    "etym_chain": [
+      { "node": "resurgere", "sub": "再び立ち上がる", "era": "ラテン語" },
+      { "node": "resurgence", "sub": "再起", "era": "近代英語" },
+      { "node": "resurgence", "sub": "復活・再燃", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a resurgence of", "ja": "〜の再燃・復活" },
+      { "en": "a resurgence of interest", "ja": "関心の再燃" },
+      { "en": "a recent resurgence", "ja": "最近の再興" },
+      { "en": "a resurgence in popularity", "ja": "人気の復活" },
+      { "en": "an economic resurgence", "ja": "経済の再興" },
+      { "en": "see a resurgence", "ja": "再燃する" }
+    ],
+    "related": [
+      { "en": "revival", "ja": "復活・再生" },
+      { "en": "comeback", "ja": "返り咲き" },
+      { "en": "surge", "ja": "急増・うねり" },
+      { "en": "decline", "ja": "衰退（反対語）" }
+    ],
+    "faq": [
+      { "q": "resurgence とはどんな意味？", "a": "一度衰えたものが『再び盛り返すこと＝復活・再燃・再興』です。a resurgence of interest（関心の再燃）のように使います。" },
+      { "q": "resurgence と revival の違いは？", "a": "意味は近いですが、resurgence は『（勢い・人気が）再び高まること』、revival は『（活動・作品が）よみがえること』というニュアンスです。" }
+    ],
+    "quiz": [
+      { "q": "There has been a ___ of interest in vinyl records.（再燃）", "A": "resurgence", "B": "resource の資源", "C": "reservation", "D": "reservoir", "correct": "A" },
+      { "q": "resurgence と同じ語源（立ち上がる）の語はどれ？", "A": "surge", "B": "river", "C": "ribbon", "D": "ripple", "correct": "A" }
+    ]
+  },
+  {
+    "english": "roster",
+    "pron": "ˈrɑːstər",
+    "kana": "ロスター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "オランダ語 rooster（格子・一覧表）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "もの"],
+    "meaning_main": "（勤務・出場の）当番表・名簿・登録メンバー",
+    "description": "roster の意味・発音・例文・語源を解説。勤務シフトの「当番表」やチームの「登録メンバー名簿」の使い方を分かりやすく紹介します。",
+    "keywords": ["roster 意味", "roster 発音", "duty roster 意味", "roster 名簿"],
+    "meanings": [
+      { "hinshi": "【名詞】当番表・勤務表", "note": "順番や担当を記した表。a duty roster（勤務当番表）。" },
+      { "hinshi": "【名詞】登録メンバー・名簿", "note": "チームや団体の所属者一覧。the team roster（チームの登録選手）。" }
+    ],
+    "usages": [
+      { "title": "① 「当番表・勤務表」として", "desc": "誰がいつ担当するかを記した表です。", "example_en": "Check the duty roster for your shift.", "example_ja": "自分のシフトを勤務表で確認しなさい。" },
+      { "title": "② 「登録メンバー」として", "desc": "チームや団体の所属者一覧を表します。", "example_en": "The new player joined the team roster.", "example_ja": "新しい選手がチームの登録メンバーに加わった。" }
+    ],
+    "warn": [
+      "a duty roster は『勤務当番表』。アメリカではスポーツの『登録選手名簿』の意味でよく使う。",
+      "発音は /ˈrɑːstər/「ロスター」。rooster（おんどり）と混同しない。"
+    ],
+    "etym_note": "オランダ語 rooster（格子・一覧表）に由来します。もとは『格子状に区切った表』で、そこから『当番表・名簿』になりました。",
+    "etym_chain": [
+      { "node": "rooster", "sub": "格子・一覧表", "era": "オランダ語" },
+      { "node": "roster", "sub": "当番表", "era": "近代英語" },
+      { "node": "roster", "sub": "当番表・名簿", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a duty roster", "ja": "勤務当番表" },
+      { "en": "the team roster", "ja": "チームの登録メンバー" },
+      { "en": "on the roster", "ja": "名簿に載って" },
+      { "en": "a roster of players", "ja": "選手名簿" },
+      { "en": "update the roster", "ja": "名簿を更新する" },
+      { "en": "a rotating roster", "ja": "交替制の当番表" }
+    ],
+    "related": [
+      { "en": "schedule", "ja": "予定表" },
+      { "en": "list", "ja": "一覧" },
+      { "en": "lineup", "ja": "顔ぶれ・出場メンバー" },
+      { "en": "register", "ja": "名簿" }
+    ],
+    "faq": [
+      { "q": "roster の二つの意味は？", "a": "①誰がいつ担当するかの『当番表・勤務表』と、②チームや団体の『登録メンバー・名簿』です。" },
+      { "q": "roster と rooster の違いは？", "a": "roster は『当番表・名簿』、rooster は『おんどり（雄鶏）』です。つづり・発音が似ているので注意しましょう。" }
+    ],
+    "quiz": [
+      { "q": "Check the duty ___ for your shift.（当番表）", "A": "roster", "B": "rooster のおんどり", "C": "roaster", "D": "roster の誤り", "correct": "A" },
+      { "q": "「チームの登録メンバー」を表すのはどれ？", "A": "the team roster", "B": "the team rooster", "C": "the team roaster", "D": "the team roster の誤り", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rote",
+    "pron": "roʊt",
+    "kana": "ロウト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "中英語 rote（決まった手順）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "教育"],
+    "meaning_main": "（意味を考えない）丸暗記・機械的なくり返し",
+    "description": "rote の意味・発音・例文・語源を解説。by rote（丸暗記で）や rote learning（暗記学習）という教育で使う表現を分かりやすく紹介します。",
+    "keywords": ["rote 意味", "rote 発音", "by rote 意味", "rote learning"],
+    "meanings": [
+      { "hinshi": "【名詞】（意味を考えない）丸暗記・機械的なくり返し", "note": "おもに by rote / rote learning の形で使う。" }
+    ],
+    "usages": [
+      { "title": "① by rote（丸暗記で）として", "desc": "意味を考えず暗記することを表します。", "example_en": "The students learned the poem by rote.", "example_ja": "生徒たちはその詩を丸暗記で覚えた。" },
+      { "title": "② rote learning として", "desc": "「暗記中心の学習」を表します。", "example_en": "Rote learning is not always effective.", "example_ja": "丸暗記の学習がいつも効果的とは限らない。" }
+    ],
+    "warn": [
+      "by rote は『（意味を考えず）丸暗記で』。rote learning は『暗記学習』（しばしば批判的）。",
+      "rote /roʊt/ と wrote（write の過去形）/roʊt/ は同音。つづりに注意。"
+    ],
+    "etym_note": "中英語 rote（決まった手順・くり返し）に由来する語で、語源ははっきりしません。「決まりきった機械的なくり返し」が原義です。",
+    "etym_chain": [
+      { "node": "rote", "sub": "決まった手順", "era": "中英語" },
+      { "node": "rote", "sub": "機械的なくり返し", "era": "近代英語" },
+      { "node": "rote", "sub": "丸暗記", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "by rote", "ja": "丸暗記で" },
+      { "en": "rote learning", "ja": "暗記学習" },
+      { "en": "learn by rote", "ja": "丸暗記する" },
+      { "en": "rote memorization", "ja": "機械的暗記" },
+      { "en": "recite by rote", "ja": "暗唱する" },
+      { "en": "rote repetition", "ja": "機械的なくり返し" }
+    ],
+    "related": [
+      { "en": "memorize", "ja": "暗記する" },
+      { "en": "repetition", "ja": "くり返し" },
+      { "en": "drill", "ja": "反復練習" },
+      { "en": "understand", "ja": "理解する（対比語）" }
+    ],
+    "faq": [
+      { "q": "by rote とは？", "a": "『（意味を理解せず）丸暗記で』という意味です。learn by rote（丸暗記する）のように使います。" },
+      { "q": "rote と wrote の違いは？", "a": "発音は同じ /roʊt/ ですが、rote は『丸暗記』、wrote は write（書く）の過去形です。つづりで区別します。" }
+    ],
+    "quiz": [
+      { "q": "The students learned the poem by ___.（丸暗記で）", "A": "rote", "B": "wrote の書いた", "C": "rate", "D": "route", "correct": "A" },
+      { "q": "「暗記学習」を表すのはどれ？", "A": "rote learning", "B": "route learning", "C": "rate learning", "D": "root learning", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rove",
+    "pron": "roʊv",
+    "kana": "ロウブ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "中英語 roven（さまよう）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "（あてもなく）歩き回る・さまよう",
+    "description": "rove の意味・発音・例文・語源を解説。あてもなく「さまよう・放浪する」使い方や、roam との近さ、roving（動き回る）も紹介します。",
+    "keywords": ["rove 意味", "rove 発音", "roving 意味", "rove roam 違い"],
+    "meanings": [
+      { "hinshi": "【動詞】（あてもなく）歩き回る・さまよう・放浪する", "note": "roam に近い文語的な語。" },
+      { "hinshi": "【動詞】（目・視線が）あちこち動く", "note": "Her eyes roved around the room." }
+    ],
+    "usages": [
+      { "title": "① 「さまよう・放浪する」として", "desc": "あてもなく動き回る意味です。", "example_en": "Wild animals rove the plains.", "example_ja": "野生動物が平原をさまよう。" },
+      { "title": "② 「視線が動く」として", "desc": "目があちこち動く意味でも使います。", "example_en": "His eyes roved over the crowd.", "example_ja": "彼の視線は群衆の上をさまよった。" }
+    ],
+    "warn": [
+      "rove は roam に近い文語的な語。形容詞 roving は『動き回る・流動的な』（a roving reporter＝各地を回る記者）。",
+      "発音は /roʊv/「ロウブ」。"
+    ],
+    "etym_note": "中英語 roven（さまよう）に由来し、もとは弓術で『的の外をねらう』ことから『あちこち動く』になったとされます。roam と意味が近い語です。",
+    "etym_chain": [
+      { "node": "roven", "sub": "さまよう", "era": "中英語" },
+      { "node": "rove", "sub": "歩き回る", "era": "近代英語" },
+      { "node": "rove", "sub": "さまよう・放浪する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rove the streets", "ja": "通りをさまよう" },
+      { "en": "rove freely", "ja": "自由に動き回る" },
+      { "en": "eyes rove", "ja": "視線がさまよう" },
+      { "en": "a roving reporter", "ja": "各地を回る記者" },
+      { "en": "a roving eye", "ja": "浮気っぽい目" },
+      { "en": "rove the world", "ja": "世界を放浪する" }
+    ],
+    "related": [
+      { "en": "roam", "ja": "歩き回る" },
+      { "en": "wander", "ja": "さまよう" },
+      { "en": "ramble", "ja": "ぶらつく" },
+      { "en": "settle", "ja": "定住する（反対概念）" }
+    ],
+    "faq": [
+      { "q": "rove と roam の違いは？", "a": "意味はとても近く、どちらも『あてもなく歩き回る・さまよう』です。rove はやや文語的です。" },
+      { "q": "a roving reporter とは？", "a": "『各地を回って取材する記者』のことです。roving は『動き回る』という形容詞です。" }
+    ],
+    "quiz": [
+      { "q": "Wild animals ___ the plains.（さまよう）", "A": "rove", "B": "rave の熱狂", "C": "rule", "D": "rinse", "correct": "A" },
+      { "q": "rove と最も意味が近いのはどれ？", "A": "roam", "B": "rest", "C": "run", "D": "rush", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rowdy",
+    "pron": "ˈraʊdi",
+    "kana": "ラウディ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "row（騒ぎ）＋ -dy",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "形容詞"],
+    "meaning_main": "騒々しい・乱暴な・がやがやした",
+    "description": "rowdy の意味・発音・例文・語源を解説。群衆や子どもが「騒々しく乱暴な」様子の使い方を分かりやすく紹介します。",
+    "keywords": ["rowdy 意味", "rowdy 発音", "rowdy 騒々しい", "rowdy crowd 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】騒々しい・乱暴な・がやがやした", "note": "騒ぎを起こすほどうるさく荒っぽい。a rowdy crowd（騒々しい群衆）。" }
+    ],
+    "usages": [
+      { "title": "① 「騒々しい・乱暴な」として", "desc": "うるさく荒っぽい様子を表します。", "example_en": "The rowdy crowd was hard to control.", "example_ja": "騒々しい群衆は抑えるのが大変だった。" },
+      { "title": "② 子ども・集団について", "desc": "がやがやと騒がしい様子を表します。", "example_en": "The kids got a bit rowdy at the party.", "example_ja": "子どもたちはパーティーで少し騒がしくなった。" }
+    ],
+    "warn": [
+      "rowdy は『（騒ぎを起こすほど）騒々しく乱暴な』。row（口論・騒ぎ）＋ -dy が由来。",
+      "noisy（うるさい）より『荒っぽく手に負えない』ニュアンスが強い。"
+    ],
+    "etym_note": "row（口論・騒ぎ）に由来するとされ、19世紀アメリカで『荒くれ者・騒ぎを起こす人』を指す語から形容詞になりました。「騒ぎを起こすほど荒っぽい」が原義です。",
+    "etym_chain": [
+      { "node": "row", "sub": "口論・騒ぎ", "era": "近代英語" },
+      { "node": "rowdy", "sub": "荒くれ者・騒々しい", "era": "19世紀" },
+      { "node": "rowdy", "sub": "騒々しい・乱暴な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rowdy crowd", "ja": "騒々しい群衆" },
+      { "en": "rowdy behavior", "ja": "乱暴なふるまい" },
+      { "en": "get rowdy", "ja": "騒がしくなる" },
+      { "en": "rowdy fans", "ja": "騒々しいファン" },
+      { "en": "a rowdy party", "ja": "がやがやしたパーティー" },
+      { "en": "rowdy children", "ja": "騒がしい子どもたち" }
+    ],
+    "related": [
+      { "en": "noisy", "ja": "うるさい" },
+      { "en": "unruly", "ja": "手に負えない" },
+      { "en": "boisterous", "ja": "騒々しい" },
+      { "en": "quiet", "ja": "静かな（反対語）" }
+    ],
+    "faq": [
+      { "q": "rowdy と noisy の違いは？", "a": "noisy は『うるさい』全般、rowdy は『（騒ぎを起こすほど）荒っぽく手に負えないほど騒々しい』というニュアンスです。" },
+      { "q": "get rowdy とは？", "a": "『（人々が）騒がしくなる・荒っぽくなる』という意味です。" }
+    ],
+    "quiz": [
+      { "q": "The ___ crowd was hard to control.（騒々しい）", "A": "rowdy", "B": "ready", "C": "rusty", "D": "rural", "correct": "A" },
+      { "q": "rowdy の反対語はどれ？", "A": "quiet", "B": "noisy", "C": "unruly", "D": "loud", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rue",
+    "pron": "ruː",
+    "kana": "ルー",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古英語 hrēowan（悲しむ・悔やむ）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "感情"],
+    "meaning_main": "（〜を）悔やむ・後悔する",
+    "description": "rue の意味・発音・例文・語源を解説。「（あとで）悔やむ」という文語的な動詞の使い方や、rueful（悔やんでいる）も分かりやすく紹介します。",
+    "keywords": ["rue 意味", "rue 発音", "rue the day 意味", "rueful 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（〜を）悔やむ・後悔する", "note": "文語的。あとで悔やむ。rue the day（その日を悔やむ）。" }
+    ],
+    "usages": [
+      { "title": "① 「悔やむ・後悔する」として", "desc": "あとで悔やむ意味の文語的な語です。", "example_en": "You'll rue the day you said that.", "example_ja": "そんなことを言ったのをいつか後悔するよ。" },
+      { "title": "② rue doing として", "desc": "「〜したことを悔やむ」を表します。", "example_en": "She rued not taking the chance.", "example_ja": "彼女はその機会を逃したことを悔やんだ。" }
+    ],
+    "warn": [
+      "rue は文語的・やや古風な語。日常では regret が普通。rue the day (that)〜 は『〜した日を悔やむ』決まり文句。",
+      "形容詞 rueful は『悔やんでいる・後悔の色を見せた』。ruthless（無慈悲な）は ruth（あわれみ）＋ -less で語源的につながる。"
+    ],
+    "etym_note": "古英語 hrēowan（悲しむ・悔やむ）に由来する古いゲルマン系の語です。ruth（あわれみ）・ruthless（無慈悲な）と同じ語源です。",
+    "etym_chain": [
+      { "node": "hrēowan", "sub": "悲しむ・悔やむ", "era": "古英語" },
+      { "node": "ruen", "sub": "悔やむ", "era": "中英語" },
+      { "node": "rue", "sub": "悔やむ・後悔する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rue the day", "ja": "その日を悔やむ" },
+      { "en": "rue doing", "ja": "〜したことを悔やむ" },
+      { "en": "live to rue", "ja": "後で悔やむことになる" },
+      { "en": "bitterly rue", "ja": "ひどく悔やむ" },
+      { "en": "a rueful smile", "ja": "悔やむような苦笑い（rueful）" },
+      { "en": "rue one's decision", "ja": "決断を悔やむ" }
+    ],
+    "related": [
+      { "en": "regret", "ja": "後悔する" },
+      { "en": "rueful", "ja": "悔やんでいる" },
+      { "en": "lament", "ja": "嘆く" },
+      { "en": "remorse", "ja": "自責の念" }
+    ],
+    "faq": [
+      { "q": "rue と regret の違いは？", "a": "意味はほぼ同じ『悔やむ』ですが、rue は文語的・やや古風な語です。日常では regret が普通です。" },
+      { "q": "rue the day とは？", "a": "『（〜した）その日を悔やむ＝いつか後悔する』という決まり文句です。You'll rue the day.（いつか後悔するぞ）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "You'll ___ the day you said that.（後悔する）", "A": "rue", "B": "rule", "C": "rinse", "D": "rove", "correct": "A" },
+      { "q": "rue の形容詞形（悔やんでいる）はどれ？", "A": "rueful", "B": "ruey", "C": "ruable", "D": "ruish", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ruffle",
+    "pron": "ˈrʌfəl",
+    "kana": "ラッフル",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "中英語 ruffelen（しわくちゃにする）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "（髪・羽を）乱す・くしゃくしゃにする／（人を）いらだたせる",
+    "description": "ruffle の意味・発音・例文・語源を解説。髪や水面を「乱す」使い方や、ruffle someone's feathers（人を怒らせる）も分かりやすく紹介します。",
+    "keywords": ["ruffle 意味", "ruffle 発音", "ruffle feathers 意味", "ruffle 乱す"],
+    "meanings": [
+      { "hinshi": "【動詞】（髪・羽・水面を）乱す・くしゃくしゃにする", "note": "なめらかなものを波立たせる。ruffle one's hair（髪をくしゃくしゃにする）。" },
+      { "hinshi": "【動詞】（人を）いらだたせる・動揺させる", "note": "ruffle someone's feathers（人を怒らせる）。" }
+    ],
+    "usages": [
+      { "title": "① 「乱す・くしゃくしゃにする」として", "desc": "髪や水面を波立たせる意味です。", "example_en": "The wind ruffled her hair.", "example_ja": "風が彼女の髪を乱した。" },
+      { "title": "② 「いらだたせる」として", "desc": "人の気持ちをかき乱す意味です。", "example_en": "Don't let his comments ruffle you.", "example_ja": "彼の発言に動揺させられてはいけない。" }
+    ],
+    "warn": [
+      "ruffle someone's feathers は『（人を）怒らせる・いらだたせる』という慣用句。",
+      "名詞 ruffle は服の『フリル・ひだ飾り』の意味もある。"
+    ],
+    "etym_note": "中英語 ruffelen（しわくちゃにする・波立たせる）に由来する語です。「なめらかなものを乱して波立たせる」が原義で、そこから『（気持ちを）かき乱す』にもなりました。",
+    "etym_chain": [
+      { "node": "ruffelen", "sub": "しわくちゃにする", "era": "中英語" },
+      { "node": "ruffle", "sub": "乱す", "era": "近代英語" },
+      { "node": "ruffle", "sub": "乱す・いらだたせる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "ruffle one's hair", "ja": "髪をくしゃくしゃにする" },
+      { "en": "ruffle feathers", "ja": "（人を）怒らせる" },
+      { "en": "the wind ruffles", "ja": "風が乱す" },
+      { "en": "ruffle the surface", "ja": "水面を波立たせる" },
+      { "en": "without ruffling", "ja": "動じることなく" },
+      { "en": "a ruffle", "ja": "フリル・ひだ飾り" }
+    ],
+    "related": [
+      { "en": "disturb", "ja": "乱す" },
+      { "en": "upset", "ja": "動揺させる" },
+      { "en": "smooth", "ja": "なめらかにする（反対概念）" },
+      { "en": "frill", "ja": "フリル" }
+    ],
+    "faq": [
+      { "q": "ruffle someone's feathers とは？", "a": "『（人を）怒らせる・いらだたせる』という意味の慣用句です。鳥が羽を逆立てる様子から来ています。" },
+      { "q": "ruffle の名詞の意味は？", "a": "服の『フリル・ひだ飾り』の意味もあります。" }
+    ],
+    "quiz": [
+      { "q": "The wind ___ her hair.（乱した）", "A": "ruffled", "B": "rumbled", "C": "rustled", "D": "roared", "correct": "A" },
+      { "q": "「（人を）怒らせる」を表すのはどれ？", "A": "ruffle feathers", "B": "rumble feathers", "C": "rustle feathers", "D": "roar feathers", "correct": "A" }
+    ]
+  }
+]
