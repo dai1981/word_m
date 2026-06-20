@@ -1,0 +1,527 @@
+[
+  {
+    "english": "recoup",
+    "pron": "rɪˈkuːp",
+    "kana": "リクープ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "フランス語 recouper（差し引く・取り戻す）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "ビジネス"],
+    "meaning_main": "（損失・費用を）取り戻す・回収する",
+    "description": "recoup の意味・発音・例文・語源を解説。失った金や費用を「取り戻す・回収する」というビジネスでの使い方を分かりやすく紹介します。",
+    "keywords": ["recoup 意味", "recoup 発音", "recoup losses 意味", "recoup 回収"],
+    "meanings": [
+      { "hinshi": "【動詞】（損失・費用を）取り戻す・回収する", "note": "使った金や失った損を埋め合わせる。recoup losses（損失を取り戻す）。" }
+    ],
+    "usages": [
+      { "title": "① 「損失・費用を取り戻す」として", "desc": "失ったお金を埋め合わせる意味です。", "example_en": "It took years to recoup the investment.", "example_ja": "その投資を回収するのに何年もかかった。" },
+      { "title": "② 損を埋め合わせて", "desc": "失った分を取り返す意味です。", "example_en": "They hope to recoup their losses next year.", "example_ja": "彼らは来年損失を取り戻すことを望んでいる。" }
+    ],
+    "warn": [
+      "recoup は『（損失・費用を）取り戻す・回収する』というビジネスの語。発音は /rɪˈkuːp/「リクープ」。",
+      "recover（回復する）と意味が近いが、recoup は特に『お金・損失』に使う。"
+    ],
+    "etym_note": "フランス語 recouper（re-「再び」＋ couper「切る」＝差し引いて取り戻す）に由来します。「（損を）切り戻す＝回収する」が原義です。coupon と同じ語源です。",
+    "etym_chain": [
+      { "node": "recouper", "sub": "差し引く・取り戻す", "era": "フランス語" },
+      { "node": "recoup", "sub": "取り戻す", "era": "近代英語" },
+      { "node": "recoup", "sub": "損失を取り戻す・回収する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "recoup losses", "ja": "損失を取り戻す" },
+      { "en": "recoup the investment", "ja": "投資を回収する" },
+      { "en": "recoup costs", "ja": "費用を回収する" },
+      { "en": "recoup the money", "ja": "お金を取り戻す" },
+      { "en": "fully recoup", "ja": "完全に回収する" },
+      { "en": "recoup expenses", "ja": "経費を回収する" }
+    ],
+    "related": [
+      { "en": "recover", "ja": "取り戻す" },
+      { "en": "regain", "ja": "取り戻す" },
+      { "en": "recuperate", "ja": "回復する・取り戻す" },
+      { "en": "lose", "ja": "失う（反対語）" }
+    ],
+    "faq": [
+      { "q": "recoup とはどんな意味？", "a": "『（損失・費用・投資を）取り戻す・回収する』という意味です。recoup the costs（費用を回収する）のように、おもにお金に使います。" },
+      { "q": "recoup と recover の違いは？", "a": "意味は近いですが、recoup は特に『お金・損失・費用を取り戻す』ときに使います。" }
+    ],
+    "quiz": [
+      { "q": "It took years to ___ the investment.（回収する）", "A": "recoup", "B": "recover の体調回復", "C": "reduce", "D": "remove", "correct": "A" },
+      { "q": "「損失を取り戻す」を表すのはどれ？", "A": "recoup losses", "B": "reduce losses の減らす", "C": "remove losses", "D": "refuse losses", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recuperate",
+    "pron": "rɪˈkuːpəreɪt",
+    "kana": "リクーパレイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 recuperare（取り戻す・回復する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "医療"],
+    "meaning_main": "（病気・疲労から）回復する・体力を取り戻す",
+    "description": "recuperate の意味・発音・例文・語源を解説。病気や疲れから「（ゆっくり）回復する・療養する」使い方を分かりやすく紹介します。",
+    "keywords": ["recuperate 意味", "recuperate 発音", "recuperate 回復", "recuperate from 使い方"],
+    "meanings": [
+      { "hinshi": "【動詞】（病気・疲労から）回復する・体力を取り戻す", "note": "recuperate from illness（病気から回復する）。" }
+    ],
+    "usages": [
+      { "title": "① 「回復する・療養する」として", "desc": "病気や疲れからゆっくり回復する意味です。", "example_en": "She is recuperating at home after surgery.", "example_ja": "彼女は手術後、自宅で療養している。" },
+      { "title": "② recuperate from として", "desc": "「〜から回復する」を表します。", "example_en": "He needs time to recuperate from the illness.", "example_ja": "彼は病気から回復するのに時間が必要だ。" }
+    ],
+    "warn": [
+      "「〜から回復する」は recuperate from。recover に近いがよりかたい語で、特に『療養して回復する』。",
+      "recoup（損失を取り戻す）と同じ語源だが意味が違う。"
+    ],
+    "etym_note": "ラテン語 recuperare（取り戻す・回復する）に由来します。recover・recoup と同じ語源で、「（健康・体力を）取り戻す」が原義です。",
+    "etym_chain": [
+      { "node": "recuperare", "sub": "取り戻す・回復する", "era": "ラテン語" },
+      { "node": "recuperate", "sub": "回復する", "era": "近代英語" },
+      { "node": "recuperate", "sub": "回復する・療養する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "recuperate from", "ja": "〜から回復する" },
+      { "en": "recuperate at home", "ja": "自宅で療養する" },
+      { "en": "time to recuperate", "ja": "回復のための時間" },
+      { "en": "fully recuperate", "ja": "完全に回復する" },
+      { "en": "rest and recuperate", "ja": "休養して回復する" },
+      { "en": "recuperation", "ja": "回復・療養" }
+    ],
+    "related": [
+      { "en": "recover", "ja": "回復する" },
+      { "en": "heal", "ja": "癒える" },
+      { "en": "convalesce", "ja": "病後回復する" },
+      { "en": "rest", "ja": "休む" }
+    ],
+    "faq": [
+      { "q": "recuperate と recover の違いは？", "a": "意味は近いですが、recuperate はよりかたい語で、特に『（病気・手術・疲労から）休養して回復する』ときに使います。" },
+      { "q": "recuperate のあとの前置詞は？", "a": "from です。recuperate from an operation（手術から回復する）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "She is ___ at home after surgery.（療養している）", "A": "recuperating", "B": "recouping の損失回収", "C": "reducing", "D": "removing", "correct": "A" },
+      { "q": "「病気から回復する」の正しい前置詞は？", "A": "recuperate from", "B": "recuperate of", "C": "recuperate at", "D": "recuperate to", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reiterate",
+    "pron": "riˈɪtəreɪt",
+    "kana": "リイタレイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 reiterare（繰り返す）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "（念を押して）繰り返して言う・改めて述べる",
+    "description": "reiterate の意味・発音・例文・語源を解説。重要な点を「念を押して繰り返し述べる」というかたい語の使い方を分かりやすく紹介します。",
+    "keywords": ["reiterate 意味", "reiterate 発音", "reiterate that 使い方", "reiterate 繰り返す"],
+    "meanings": [
+      { "hinshi": "【動詞】（念を押して）繰り返して言う・改めて述べる", "note": "重要な点を強調して再び言う。reiterate that〜（〜だと改めて述べる）。" }
+    ],
+    "usages": [
+      { "title": "① 「繰り返して言う」として", "desc": "重要な点を念のため再び述べる意味です。", "example_en": "She reiterated her support for the plan.", "example_ja": "彼女はその計画への支持を改めて表明した。" },
+      { "title": "② reiterate that として", "desc": "あとに節を続けて内容を強調します。", "example_en": "He reiterated that he was innocent.", "example_ja": "彼は自分が無実だと繰り返し述べた。" }
+    ],
+    "warn": [
+      "reiterate は『（念を押して）繰り返して言う』というかたい語。repeat より『主張・要点の強調』のニュアンス。",
+      "iterate（繰り返す）に re- がついた語。"
+    ],
+    "etym_note": "ラテン語 reiterare（re-「再び」＋ iterare「繰り返す」。iterum「再び」から）に由来します。iterate と同じ語源で、「重ねて繰り返す」が原義です。",
+    "etym_chain": [
+      { "node": "iterum", "sub": "再び", "era": "ラテン語" },
+      { "node": "reiterare", "sub": "繰り返す", "era": "ラテン語" },
+      { "node": "reiterate", "sub": "繰り返して言う", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reiterate that", "ja": "〜だと改めて述べる" },
+      { "en": "reiterate one's support", "ja": "支持を改めて表明する" },
+      { "en": "reiterate a point", "ja": "要点を繰り返す" },
+      { "en": "reiterate the message", "ja": "メッセージを繰り返す" },
+      { "en": "strongly reiterate", "ja": "強く繰り返す" },
+      { "en": "reiterate one's position", "ja": "立場を改めて示す" }
+    ],
+    "related": [
+      { "en": "repeat", "ja": "繰り返す" },
+      { "en": "restate", "ja": "言い直す" },
+      { "en": "emphasize", "ja": "強調する" },
+      { "en": "stress", "ja": "強調する" }
+    ],
+    "faq": [
+      { "q": "reiterate と repeat の違いは？", "a": "repeat は『（一般的に）繰り返す』、reiterate は『（要点・主張を念を押して）改めて繰り返し述べる』というかたい語です。" },
+      { "q": "reiterate の使い方は？", "a": "reiterate that＋文の形で『〜だと改めて述べる』を表します。reiterate one's commitment（決意を改めて示す）のようにも使います。" }
+    ],
+    "quiz": [
+      { "q": "She ___ her support for the plan.（改めて表明した）", "A": "reiterated", "B": "retreated の退却した", "C": "reduced", "D": "removed", "correct": "A" },
+      { "q": "reiterate と最も意味が近いのはどれ？", "A": "repeat（繰り返す）", "B": "cancel（取り消す）", "C": "forget（忘れる）", "D": "ignore（無視する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "relinquish",
+    "pron": "rɪˈlɪŋkwɪʃ",
+    "kana": "リリンクィッシュ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 relinquere（後に残す・手放す）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "（権利・地位を）手放す・放棄する・譲る",
+    "description": "relinquish の意味・発音・例文・語源を解説。権利・支配・地位を「手放す・放棄する」というかたい語の使い方を分かりやすく紹介します。",
+    "keywords": ["relinquish 意味", "relinquish 発音", "relinquish control 意味", "relinquish 放棄"],
+    "meanings": [
+      { "hinshi": "【動詞】（権利・地位・支配を）手放す・放棄する・譲る", "note": "しぶしぶ手放すことも多い。relinquish control（支配権を手放す）。" }
+    ],
+    "usages": [
+      { "title": "① 「手放す・放棄する」として", "desc": "権利や地位を手放す意味です（かたい語）。", "example_en": "He refused to relinquish power.", "example_ja": "彼は権力を手放すことを拒んだ。" },
+      { "title": "② 「譲る」として", "desc": "持っていたものを譲り渡す意味です。", "example_en": "She relinquished her claim to the property.", "example_ja": "彼女はその財産への権利を放棄した。" }
+    ],
+    "warn": [
+      "relinquish は『（しぶしぶ）権利・地位を手放す』というかたい語。give up に近い。",
+      "relic（遺物）と同じ語源（後に残す）。"
+    ],
+    "etym_note": "ラテン語 relinquere（re-「後ろに」＋ linquere「残す」＝後に残す・手放す）に由来します。relic と同じ語源で、「（手元から）手放す」が原義です。",
+    "etym_chain": [
+      { "node": "relinquere", "sub": "後に残す・手放す", "era": "ラテン語" },
+      { "node": "relinquish", "sub": "手放す", "era": "中英語" },
+      { "node": "relinquish", "sub": "手放す・放棄する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "relinquish control", "ja": "支配権を手放す" },
+      { "en": "relinquish power", "ja": "権力を手放す" },
+      { "en": "relinquish a right", "ja": "権利を放棄する" },
+      { "en": "relinquish one's claim", "ja": "権利の主張を取り下げる" },
+      { "en": "reluctantly relinquish", "ja": "しぶしぶ手放す" },
+      { "en": "relinquish a title", "ja": "称号を返上する" }
+    ],
+    "related": [
+      { "en": "give up", "ja": "あきらめる・手放す" },
+      { "en": "surrender", "ja": "明け渡す" },
+      { "en": "abandon", "ja": "放棄する" },
+      { "en": "retain", "ja": "保持する（反対語）" }
+    ],
+    "faq": [
+      { "q": "relinquish と give up の違いは？", "a": "意味は近いですが、relinquish はよりかたく形式的な語で、特に『権利・地位・支配を（しぶしぶ）手放す』ときに使います。" },
+      { "q": "relinquish の反対語は？", "a": "retain（保持する）や keep（保つ）です。" }
+    ],
+    "quiz": [
+      { "q": "He refused to ___ power.（手放す）", "A": "relinquish", "B": "replenish の補充する", "C": "reduce", "D": "remove", "correct": "A" },
+      { "q": "relinquish の反対語はどれ？", "A": "retain（保持する）", "B": "abandon（放棄する）", "C": "surrender（明け渡す）", "D": "give up（手放す）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "remit",
+    "pron": "rɪˈmɪt",
+    "kana": "リミット",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 remittere（送り返す・ゆるめる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "ビジネス"],
+    "meaning_main": "（お金を）送金する／（刑・負債を）免除する",
+    "description": "remit の意味・発音・例文・語源を解説。海外送金などの「送金する」使い方や、名詞 remittance（送金）も分かりやすく紹介します。",
+    "keywords": ["remit 意味", "remit 発音", "remittance 意味", "remit 送金"],
+    "meanings": [
+      { "hinshi": "【動詞】（お金を）送金する・支払う", "note": "remit payment（支払いを送る）。" },
+      { "hinshi": "【動詞】（刑・負債・税を）免除する", "note": "remit a debt（借金を免除する）。" }
+    ],
+    "usages": [
+      { "title": "① 「送金する」として", "desc": "お金を送る意味です（ビジネス・公式）。", "example_en": "Please remit the payment within 30 days.", "example_ja": "30日以内にお支払いをお送りください。" },
+      { "title": "② 「免除する」として", "desc": "刑や負債を許す意味です。", "example_en": "Part of the sentence was remitted.", "example_ja": "刑の一部が免除された。" }
+    ],
+    "warn": [
+      "活用は語尾の t を重ねる：remit – remitted – remitting。名詞 remittance は『送金（額）』。",
+      "mit-（送る）は submit・transmit・mission と同じ語根。"
+    ],
+    "etym_note": "ラテン語 remittere（re-「戻して」＋ mittere「送る」＝送り返す・ゆるめる）に由来します。submit・transmit・mission と同じ mit-/miss-（送る）の語根です。",
+    "etym_chain": [
+      { "node": "remittere", "sub": "送り返す・ゆるめる", "era": "ラテン語" },
+      { "node": "remit", "sub": "送る・免除する", "era": "中英語" },
+      { "node": "remit", "sub": "送金する・免除する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "remit payment", "ja": "支払いを送る" },
+      { "en": "remit money", "ja": "送金する" },
+      { "en": "remit a debt", "ja": "借金を免除する" },
+      { "en": "remit funds", "ja": "資金を送金する" },
+      { "en": "remittance", "ja": "送金（額）" },
+      { "en": "remit by bank transfer", "ja": "銀行振込で送金する" }
+    ],
+    "related": [
+      { "en": "remittance", "ja": "送金（名詞）" },
+      { "en": "send", "ja": "送る" },
+      { "en": "transfer", "ja": "送金・振込" },
+      { "en": "pay", "ja": "支払う" }
+    ],
+    "faq": [
+      { "q": "remit の主な使い方は？", "a": "おもに『（お金を）送金する・支払う』という意味でビジネスや公式の場面で使います。remit payment（支払いを送る）のように使います。" },
+      { "q": "remittance とは？", "a": "『送金・送金額』という名詞です。海外への送金（remittances）は移民労働者から母国への送金などを指すことが多いです。" }
+    ],
+    "quiz": [
+      { "q": "Please ___ the payment within 30 days.（送金する）", "A": "remit", "B": "remind の思い出させる", "C": "remove", "D": "remark", "correct": "A" },
+      { "q": "remit の名詞形（送金）はどれ？", "A": "remittance", "B": "remitment", "C": "remition", "D": "remitness", "correct": "A" }
+    ]
+  },
+  {
+    "english": "renounce",
+    "pron": "rɪˈnaʊns",
+    "kana": "リナウンス",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 renuntiare（公に断る）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "（権利・信念を）公式に放棄する・捨てる・断念する",
+    "description": "renounce の意味・発音・例文・語源を解説。国籍・権利・暴力などを「公式に放棄・断念する」使い方や、名詞 renunciation も紹介します。",
+    "keywords": ["renounce 意味", "renounce 発音", "renounce citizenship 意味", "renunciation 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（権利・地位を）公式に放棄する", "note": "renounce one's citizenship（国籍を放棄する）。" },
+      { "hinshi": "【動詞】（信念・行為を）捨てる・断念する", "note": "renounce violence（暴力を放棄する）。" }
+    ],
+    "usages": [
+      { "title": "① 「公式に放棄する」として", "desc": "権利・地位を正式に手放す意味です。", "example_en": "He renounced his claim to the throne.", "example_ja": "彼は王位への権利を放棄した。" },
+      { "title": "② 「（信念・行為を）捨てる」として", "desc": "暴力や習慣などを断つ意味です。", "example_en": "The group renounced violence.", "example_ja": "そのグループは暴力を放棄した。" }
+    ],
+    "warn": [
+      "renounce は『（権利・信念を）公式に・きっぱり放棄する』。relinquish（手放す）より宣言的。",
+      "名詞は renunciation（放棄・断念）。announce・pronounce と同じ nounce（告げる）の語源。"
+    ],
+    "etym_note": "ラテン語 renuntiare（re-「逆に」＋ nuntiare「告げる」＝公に断る・放棄を告げる）に由来します。announce・pronounce と同じ nunti-（告げる）の語根です。",
+    "etym_chain": [
+      { "node": "renuntiare", "sub": "公に断る", "era": "ラテン語" },
+      { "node": "renounce", "sub": "放棄する", "era": "中英語" },
+      { "node": "renounce", "sub": "公式に放棄する・捨てる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "renounce citizenship", "ja": "国籍を放棄する" },
+      { "en": "renounce violence", "ja": "暴力を放棄する" },
+      { "en": "renounce a claim", "ja": "権利を放棄する" },
+      { "en": "renounce the throne", "ja": "王位を放棄する" },
+      { "en": "publicly renounce", "ja": "公に放棄する" },
+      { "en": "renunciation", "ja": "放棄・断念" }
+    ],
+    "related": [
+      { "en": "give up", "ja": "あきらめる" },
+      { "en": "abandon", "ja": "放棄する" },
+      { "en": "reject", "ja": "拒絶する" },
+      { "en": "embrace", "ja": "受け入れる（反対概念）" }
+    ],
+    "faq": [
+      { "q": "renounce と relinquish の違いは？", "a": "renounce は『（信念・権利を）公式に・きっぱり放棄する（宣言する）』、relinquish は『（権利・地位を）手放す・譲る』というニュアンスです。" },
+      { "q": "renounce の名詞形は？", "a": "renunciation（放棄・断念）です。" }
+    ],
+    "quiz": [
+      { "q": "The group ___ violence.（放棄した）", "A": "renounced", "B": "announced の発表した", "C": "reduced", "D": "removed", "correct": "A" },
+      { "q": "renounce と同じ語源（告げる）の語はどれ？", "A": "announce", "B": "river", "C": "ribbon", "D": "ripple", "correct": "A" }
+    ]
+  },
+  {
+    "english": "repatriate",
+    "pron": "ˌriːˈpeɪtrieɪt",
+    "kana": "リーペイトリエイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 patria（祖国）由来",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "社会"],
+    "meaning_main": "（人を）本国へ送還する・帰国させる／（資金を）本国へ戻す",
+    "description": "repatriate の意味・発音・例文・語源を解説。難民や遺骨などを「本国へ送還する」、海外資産を「本国へ戻す」使い方を分かりやすく紹介します。",
+    "keywords": ["repatriate 意味", "repatriate 発音", "repatriation 意味", "repatriate 送還"],
+    "meanings": [
+      { "hinshi": "【動詞】（人を）本国へ送還する・帰国させる", "note": "難民・捕虜・遺骨などを祖国に戻す。" },
+      { "hinshi": "【動詞】（資金・利益を）本国へ戻す", "note": "repatriate profits（利益を本国に送還する）。" }
+    ],
+    "usages": [
+      { "title": "① 「本国へ送還する」として", "desc": "人を祖国に戻す意味です。", "example_en": "The refugees were repatriated after the war.", "example_ja": "難民たちは戦後に本国へ送還された。" },
+      { "title": "② 「資金を本国へ戻す」として", "desc": "海外の利益・資産を国内に戻す意味です。", "example_en": "The company repatriated its overseas profits.", "example_ja": "その会社は海外の利益を本国に戻した。" }
+    ],
+    "warn": [
+      "名詞は repatriation（本国送還）。patria（祖国）は patriot（愛国者）と同じ語源。",
+      "反対は expatriate（国外へ移す・国外居住者）。"
+    ],
+    "etym_note": "ラテン語 repatriare（re-「再び」＋ patria「祖国」＝祖国に戻す）に由来します。patriot・expatriate と同じ patri-（父・祖国）の語根です。",
+    "etym_chain": [
+      { "node": "patria", "sub": "祖国", "era": "ラテン語" },
+      { "node": "repatriare", "sub": "祖国に戻す", "era": "後期ラテン語" },
+      { "node": "repatriate", "sub": "本国へ送還する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "repatriate refugees", "ja": "難民を本国送還する" },
+      { "en": "be repatriated", "ja": "本国へ送還される" },
+      { "en": "repatriate profits", "ja": "利益を本国に戻す" },
+      { "en": "repatriate remains", "ja": "遺骨を本国に返す" },
+      { "en": "voluntary repatriation", "ja": "自発的帰還" },
+      { "en": "repatriation", "ja": "本国送還" }
+    ],
+    "related": [
+      { "en": "repatriation", "ja": "本国送還（名詞）" },
+      { "en": "expatriate", "ja": "国外居住者・国外へ移す" },
+      { "en": "deport", "ja": "国外追放する" },
+      { "en": "return", "ja": "戻す" }
+    ],
+    "faq": [
+      { "q": "repatriate とはどんな意味？", "a": "『（難民・捕虜・遺骨などの人を）本国へ送還する・帰国させる』、また『（海外の資金・利益を）本国へ戻す』という意味です。" },
+      { "q": "repatriate の反対語は？", "a": "expatriate（国外へ移す・国外居住者）です。patria（祖国）を共有する対の語です。" }
+    ],
+    "quiz": [
+      { "q": "The refugees were ___ after the war.（送還された）", "A": "repatriated", "B": "reproduced の複製した", "C": "reduced", "D": "removed", "correct": "A" },
+      { "q": "repatriate と同じ語源（祖国）の語はどれ？", "A": "patriot", "B": "river", "C": "ribbon", "D": "ripple", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reprisal",
+    "pron": "rɪˈpraɪzəl",
+    "kana": "リプライザル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "イタリア語 ripresaglia（報復）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "社会"],
+    "meaning_main": "報復・仕返し（行為）",
+    "description": "reprisal の意味・発音・例文・語源を解説。攻撃や不当な扱いへの「報復行為」の使い方や、in reprisal for（〜への報復として）も紹介します。",
+    "keywords": ["reprisal 意味", "reprisal 発音", "in reprisal for 意味", "reprisal 報復"],
+    "meanings": [
+      { "hinshi": "【名詞】報復・仕返し（行為）", "note": "ふつう複数形 reprisals。fear reprisals（報復を恐れる）。" }
+    ],
+    "usages": [
+      { "title": "① 「報復・仕返し」として", "desc": "攻撃への報復行為を表します。", "example_en": "They feared reprisals from the enemy.", "example_ja": "彼らは敵からの報復を恐れた。" },
+      { "title": "② in reprisal for として", "desc": "「〜への報復として」を表します。", "example_en": "The attack was in reprisal for the bombing.", "example_ja": "その攻撃は爆撃への報復だった。" }
+    ],
+    "warn": [
+      "reprisal は『報復（行為）』という名詞。動詞 retaliate（報復する）と対にして覚える。",
+      "in reprisal for は『〜への報復として』。ふつう複数形 reprisals。"
+    ],
+    "etym_note": "イタリア語 ripresaglia（報復。riprendere「取り戻す」から）に由来します。「（やられた分を）取り戻す行為＝報復」が原義です。",
+    "etym_chain": [
+      { "node": "ripresaglia", "sub": "報復", "era": "イタリア語" },
+      { "node": "reprisal", "sub": "報復", "era": "中英語" },
+      { "node": "reprisal", "sub": "報復・仕返し", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "fear reprisals", "ja": "報復を恐れる" },
+      { "en": "in reprisal for", "ja": "〜への報復として" },
+      { "en": "take reprisals", "ja": "報復する" },
+      { "en": "a reprisal attack", "ja": "報復攻撃" },
+      { "en": "fear of reprisal", "ja": "報復への恐れ" },
+      { "en": "without fear of reprisal", "ja": "報復を恐れずに" }
+    ],
+    "related": [
+      { "en": "retaliation", "ja": "報復" },
+      { "en": "revenge", "ja": "復讐" },
+      { "en": "retaliate", "ja": "報復する（動詞）" },
+      { "en": "vengeance", "ja": "復讐" }
+    ],
+    "faq": [
+      { "q": "reprisal と retaliation の違いは？", "a": "意味はほぼ同じ『報復』です。reprisal はとくに軍事・政治的な『報復行為』を指すことが多く、ふつう複数形 reprisals で使います。" },
+      { "q": "in reprisal for とは？", "a": "『〜への報復として』という意味です。" }
+    ],
+    "quiz": [
+      { "q": "They feared ___ from the enemy.（報復）", "A": "reprisals", "B": "repairs の修理", "C": "replies", "D": "reports", "correct": "A" },
+      { "q": "reprisal の動詞形（報復する）はどれ？", "A": "retaliate", "B": "repair", "C": "reply", "D": "report", "correct": "A" }
+    ]
+  },
+  {
+    "english": "repudiate",
+    "pron": "rɪˈpjuːdieɪt",
+    "kana": "リピューディエイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 repudiare（はねつける）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "（公式に）拒絶する・否認する・縁を切る",
+    "description": "repudiate の意味・発音・例文・語源を解説。考え・主張・関係を「（公式にきっぱり）拒絶・否認する」というかたい語の使い方を紹介します。",
+    "keywords": ["repudiate 意味", "repudiate 発音", "repudiate a claim 意味", "repudiate 否認"],
+    "meanings": [
+      { "hinshi": "【動詞】（公式に・きっぱり）拒絶する・否認する", "note": "考え・主張・責任を退ける。repudiate a claim（主張を否認する）。" },
+      { "hinshi": "【動詞】（関係・債務を）拒否する・縁を切る", "note": "repudiate a debt（債務を拒否する）。" }
+    ],
+    "usages": [
+      { "title": "① 「拒絶する・否認する」として", "desc": "考えや主張をきっぱり退ける意味です。", "example_en": "He repudiated the accusations.", "example_ja": "彼はその非難をきっぱり否認した。" },
+      { "title": "② 「（関係・債務を）拒否する」として", "desc": "つながりや義務を断つ意味です。", "example_en": "The country repudiated its foreign debt.", "example_ja": "その国は対外債務の支払いを拒否した。" }
+    ],
+    "warn": [
+      "repudiate は『（公式に・きっぱり）拒絶・否認する』というかたい語。reject・deny より強く宣言的。",
+      "名詞は repudiation（拒絶・否認）。"
+    ],
+    "etym_note": "ラテン語 repudiare（はねつける・離縁する。repudium「離縁」から）に由来します。「（差し出されたものを）きっぱりはねつける」が原義です。",
+    "etym_chain": [
+      { "node": "repudiare", "sub": "はねつける・離縁する", "era": "ラテン語" },
+      { "node": "repudiate", "sub": "拒絶する", "era": "近代英語" },
+      { "node": "repudiate", "sub": "拒絶する・否認する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "repudiate a claim", "ja": "主張を否認する" },
+      { "en": "repudiate the accusations", "ja": "非難を否認する" },
+      { "en": "repudiate a debt", "ja": "債務を拒否する" },
+      { "en": "publicly repudiate", "ja": "公にきっぱり拒絶する" },
+      { "en": "repudiate a treaty", "ja": "条約を破棄する" },
+      { "en": "repudiation", "ja": "拒絶・否認" }
+    ],
+    "related": [
+      { "en": "reject", "ja": "拒絶する" },
+      { "en": "deny", "ja": "否認する" },
+      { "en": "disown", "ja": "縁を切る" },
+      { "en": "accept", "ja": "受け入れる（反対語）" }
+    ],
+    "faq": [
+      { "q": "repudiate と reject の違いは？", "a": "どちらも『拒絶する』ですが、repudiate は『（公式に・きっぱり）否認する・縁を切る』という強くかたい語です。" },
+      { "q": "repudiate の名詞形は？", "a": "repudiation（拒絶・否認・破棄）です。" }
+    ],
+    "quiz": [
+      { "q": "He ___ the accusations.（きっぱり否認した）", "A": "repudiated", "B": "reproduced の複製した", "C": "reduced", "D": "removed", "correct": "A" },
+      { "q": "repudiate と最も意味が近いのはどれ？", "A": "reject（拒絶する）", "B": "accept（受け入れる）", "C": "agree（同意する）", "D": "welcome（歓迎する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "requisition",
+    "pron": "ˌrekwɪˈzɪʃən",
+    "kana": "レクイジション",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "ラテン語 requisitio（要求）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "ビジネス"],
+    "meaning_main": "（公式な）請求・徴発／（物資を）正式に要求する・徴発する",
+    "description": "requisition の意味・発音・例文・語源を解説。組織内の「正式な物品請求」や軍の「徴発」の使い方を分かりやすく紹介します。",
+    "keywords": ["requisition 意味", "requisition 発音", "purchase requisition 意味", "requisition 徴発"],
+    "meanings": [
+      { "hinshi": "【名詞】（公式な）請求・要求書", "note": "組織内で物品・予算を正式に求める書類。a purchase requisition（購入依頼）。" },
+      { "hinshi": "【動詞】（物資を）正式に要求する・徴発する", "note": "軍などが物資を公式に取り立てる。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「（公式な）請求」として", "desc": "組織内で物品や予算を正式に求める書類を表します。", "example_en": "You must fill out a requisition form.", "example_ja": "請求書類に記入しなければならない。" },
+      { "title": "② 動詞「徴発する」として", "desc": "軍などが物資を公式に取り立てる意味です。", "example_en": "The army requisitioned local vehicles.", "example_ja": "軍は地元の車両を徴発した。" }
+    ],
+    "warn": [
+      "require・request と同じ quaer-（求める）の語源。a purchase requisition は『購買請求書』。",
+      "発音は /ˌrekwɪˈzɪʃən/。"
+    ],
+    "etym_note": "ラテン語 requisitio（requirere「必要とする・求める」から＝要求）に由来します。require・request・requisite と同じ quaer-（求める）の語根です。",
+    "etym_chain": [
+      { "node": "requirere", "sub": "求める", "era": "ラテン語" },
+      { "node": "requisitio", "sub": "要求", "era": "ラテン語" },
+      { "node": "requisition", "sub": "請求・徴発", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a purchase requisition", "ja": "購買請求書" },
+      { "en": "a requisition form", "ja": "請求書類" },
+      { "en": "fill out a requisition", "ja": "請求書に記入する" },
+      { "en": "requisition supplies", "ja": "物資を徴発する" },
+      { "en": "a requisition order", "ja": "徴発命令" },
+      { "en": "submit a requisition", "ja": "請求を提出する" }
+    ],
+    "related": [
+      { "en": "request", "ja": "依頼" },
+      { "en": "require", "ja": "必要とする" },
+      { "en": "demand", "ja": "要求" },
+      { "en": "order", "ja": "注文・命令" }
+    ],
+    "faq": [
+      { "q": "requisition とはどんな意味？", "a": "①組織内で物品・予算を求める『（公式な）請求・要求書』と、②軍などが物資を『正式に要求する・徴発する』ことです。" },
+      { "q": "a purchase requisition とは？", "a": "会社などで物品を購入するために出す『購買請求書・購入依頼書』のことです。" }
+    ],
+    "quiz": [
+      { "q": "You must fill out a ___ form.（請求書類）", "A": "requisition", "B": "recognition の認識", "C": "reservation", "D": "reputation", "correct": "A" },
+      { "q": "requisition と同じ語源（求める）の語はどれ？", "A": "require", "B": "river", "C": "ribbon", "D": "ripple", "correct": "A" }
+    ]
+  }
+]
