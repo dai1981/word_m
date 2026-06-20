@@ -1,0 +1,532 @@
+[
+  {
+    "english": "reckon",
+    "pron": "ˈrekən",
+    "kana": "レコン",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古英語 gerecenian（数える・説明する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "基本動詞"],
+    "meaning_main": "（〜だと）思う・推測する／計算する・みなす",
+    "description": "reckon の意味・発音・例文・語源を解説。口語の「〜だと思う」の使い方や、reckon with（考慮に入れる）も分かりやすく紹介します。",
+    "keywords": ["reckon 意味", "reckon 発音", "reckon 思う", "reckon with 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（〜だと）思う・考える", "note": "口語的。I reckon (that)〜（〜だと思う）。" },
+      { "hinshi": "【動詞】計算する・見積もる", "note": "reckon the cost（費用を計算する）。" },
+      { "hinshi": "【動詞】(reckon with) 考慮に入れる", "note": "見くびれない相手として扱う。" }
+    ],
+    "usages": [
+      { "title": "① 口語「〜だと思う」として", "desc": "think に近いくだけた言い方です。", "example_en": "I reckon it's going to rain.", "example_ja": "雨が降ると思うよ。" },
+      { "title": "② 「計算する・みなす」として", "desc": "数える・考慮する意味です。", "example_en": "The loss is reckoned at one million dollars.", "example_ja": "損失は100万ドルと見積もられている。" }
+    ],
+    "warn": [
+      "『〜だと思う』の意味はくだけた口語で、特にイギリス英語で多用される。",
+      "reckon with は『（重要なものとして）考慮に入れる』、a force to be reckoned with は『侮れない存在』。"
+    ],
+    "etym_note": "古英語 gerecenian（数える・説明する）に由来する古いゲルマン系の語です。もとは『数える』が原義で、そこから『見積もる・〜だと考える』に広がりました。",
+    "etym_chain": [
+      { "node": "gerecenian", "sub": "数える・説明する", "era": "古英語" },
+      { "node": "rekenen", "sub": "数える・思う", "era": "中英語" },
+      { "node": "reckon", "sub": "思う・計算する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "I reckon", "ja": "〜だと思う" },
+      { "en": "reckon with", "ja": "〜を考慮に入れる" },
+      { "en": "reckon on", "ja": "〜をあてにする" },
+      { "en": "a force to be reckoned with", "ja": "侮れない存在" },
+      { "en": "reckon the cost", "ja": "費用を計算する" },
+      { "en": "the day of reckoning", "ja": "報いを受ける日・清算の日" }
+    ],
+    "related": [
+      { "en": "think", "ja": "思う" },
+      { "en": "suppose", "ja": "思う・推測する" },
+      { "en": "calculate", "ja": "計算する" },
+      { "en": "consider", "ja": "みなす・考える" }
+    ],
+    "faq": [
+      { "q": "reckon は think と同じ？", "a": "『〜だと思う』の意味では近いですが、reckon はよりくだけた口語的な語で、特にイギリス英語でよく使われます。" },
+      { "q": "reckon with とは？", "a": "『（無視できないものとして）考慮に入れる』という意味です。a force to be reckoned with は『侮れない相手』です。" }
+    ],
+    "quiz": [
+      { "q": "I ___ it's going to rain.（雨が降ると思う）", "A": "reckon", "B": "reckless の語感違い", "C": "recall", "D": "recover", "correct": "A" },
+      { "q": "「侮れない存在」を表すのはどれ？", "A": "a force to be reckoned with", "B": "a force to be recovered with", "C": "a force to be recalled with", "D": "a force to be reduced with", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recruit",
+    "pron": "rɪˈkruːt",
+    "kana": "リクルート",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "フランス語 recrue（新たに育った兵）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本語"],
+    "meaning_main": "（新人を）募集する・採用する／新人・新兵",
+    "description": "recruit の意味・発音・例文・語源を解説。社員や会員を「募集・採用する」使い方や、名詞「新人」、recruitment（採用活動）も紹介します。",
+    "keywords": ["recruit 意味", "recruit 発音", "recruit 採用 募集", "recruitment 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（人材を）募集する・採用する", "note": "recruit new staff（新しい社員を採用する）。" },
+      { "hinshi": "【名詞】新人・新会員・新兵", "note": "a new recruit（新入り）。" }
+    ],
+    "usages": [
+      { "title": "① 動詞「採用する」として", "desc": "新たに人を集めて雇う意味です。", "example_en": "The company is recruiting new engineers.", "example_ja": "その会社は新しいエンジニアを募集している。" },
+      { "title": "② 名詞「新人」として", "desc": "入りたての人を表します。", "example_en": "The new recruits started their training.", "example_ja": "新人たちは研修を始めた。" }
+    ],
+    "warn": [
+      "名詞は recruitment（採用・募集活動）。日本語の会社名『リクルート』もこの語。",
+      "rookie（新人）は recruit がなまった語。語源的につながる。"
+    ],
+    "etym_note": "フランス語 recrue（新たに育った兵。recroître「再び成長する」から）に由来します。「新たに加わって育つ人＝新兵・新人」が原義です。",
+    "etym_chain": [
+      { "node": "recroître", "sub": "再び成長する", "era": "フランス語" },
+      { "node": "recrue", "sub": "新兵", "era": "フランス語" },
+      { "node": "recruit", "sub": "新人・採用する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "recruit new staff", "ja": "新しい社員を採用する" },
+      { "en": "a new recruit", "ja": "新入り・新人" },
+      { "en": "recruit volunteers", "ja": "ボランティアを募る" },
+      { "en": "a recruitment agency", "ja": "人材紹介会社" },
+      { "en": "actively recruit", "ja": "積極的に採用する" },
+      { "en": "raw recruits", "ja": "未熟な新兵・新人" }
+    ],
+    "related": [
+      { "en": "recruitment", "ja": "採用・募集（名詞）" },
+      { "en": "hire", "ja": "雇う" },
+      { "en": "employ", "ja": "雇用する" },
+      { "en": "rookie", "ja": "新人" }
+    ],
+    "faq": [
+      { "q": "recruit と hire の違いは？", "a": "recruit は『（広く人材を）募集して集める』、hire は『（具体的に）雇う』というニュアンスです。recruit して選んだ人を hire します。" },
+      { "q": "recruit の名詞形は？", "a": "recruitment（採用・募集活動）です。a recruitment campaign（採用キャンペーン）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The company is ___ new engineers.（募集している）", "A": "recruiting", "B": "recovering", "C": "recalling", "D": "reducing", "correct": "A" },
+      { "q": "recruit の名詞形（採用）はどれ？", "A": "recruitment", "B": "recruition", "C": "recruitness", "D": "recruitance", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reform",
+    "pron": "rɪˈfɔːrm",
+    "kana": "リフォーム",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "ラテン語 reformare（作り直す）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "社会"],
+    "meaning_main": "改革する・改正する／改革",
+    "description": "reform の意味・発音・例文・語源を解説。制度や法律の「改革」の使い方や、和製英語の『リフォーム（家の改装）』との違いも分かりやすく紹介します。",
+    "keywords": ["reform 意味", "reform 発音", "reform リフォーム 違い", "reform 改革"],
+    "meanings": [
+      { "hinshi": "【動詞】改革する・改正する", "note": "制度・法律・組織をよりよく変える。reform the system（制度を改革する）。" },
+      { "hinshi": "【名詞】改革・改正", "note": "social reform（社会改革）。" }
+    ],
+    "usages": [
+      { "title": "① 「改革する」として", "desc": "制度や仕組みをよりよく変える意味です。", "example_en": "The government plans to reform the tax system.", "example_ja": "政府は税制を改革する計画だ。" },
+      { "title": "② 名詞「改革」として", "desc": "social reform（社会改革）などで使います。", "example_en": "Education reform is badly needed.", "example_ja": "教育改革が切実に必要だ。" }
+    ],
+    "warn": [
+      "和製英語の『リフォーム（家の改装）』は英語では renovate / remodel。reform は『制度・人の改革』。",
+      "名詞は reform（改革）、形容詞は reformed（改心した・改革された）。"
+    ],
+    "etym_note": "ラテン語 reformare（re-「再び」＋ formare「形づくる」＝作り直す）に由来します。form（形）と同じ語源で、「形を整え直す＝改革する」が原義です。",
+    "etym_chain": [
+      { "node": "reformare", "sub": "作り直す", "era": "ラテン語" },
+      { "node": "reformen", "sub": "改める", "era": "中英語" },
+      { "node": "reform", "sub": "改革する・改革", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reform the system", "ja": "制度を改革する" },
+      { "en": "social reform", "ja": "社会改革" },
+      { "en": "economic reform", "ja": "経済改革" },
+      { "en": "political reform", "ja": "政治改革" },
+      { "en": "reform a law", "ja": "法律を改正する" },
+      { "en": "land reform", "ja": "農地改革" }
+    ],
+    "related": [
+      { "en": "change", "ja": "変える" },
+      { "en": "improve", "ja": "改善する" },
+      { "en": "revise", "ja": "改訂する" },
+      { "en": "renovate", "ja": "（建物を）改装する" }
+    ],
+    "faq": [
+      { "q": "英語の reform と日本語の『リフォーム』は同じ？", "a": "違います。日本語の『リフォーム（家の改装）』は英語では renovate や remodel です。英語の reform は『制度・法律・人の改革』を指します。" },
+      { "q": "reform の名詞形は？", "a": "reform（改革）で、名詞・動詞が同じ形です。social reform（社会改革）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The government plans to ___ the tax system.（改革する）", "A": "reform", "B": "renovate の家の改装", "C": "remove", "D": "remind", "correct": "A" },
+      { "q": "家の『リフォーム（改装）』を表す英語はどれ？", "A": "reform", "B": "renovate", "C": "reflect", "D": "refer", "correct": "B" }
+    ]
+  },
+  {
+    "english": "reluctant",
+    "pron": "rɪˈlʌktənt",
+    "kana": "リラクタント",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 reluctari（抵抗する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "形容詞"],
+    "meaning_main": "気が進まない・しぶしぶの",
+    "description": "reluctant の意味・発音・例文・語源を解説。be reluctant to do（〜したがらない）の使い方や、willing（喜んで〜する）との対比も分かりやすく紹介します。",
+    "keywords": ["reluctant 意味", "reluctant 発音", "reluctant to 使い方", "reluctant willing 反対"],
+    "meanings": [
+      { "hinshi": "【形容詞】気が進まない・しぶしぶの", "note": "be reluctant to do（〜するのに気が進まない）。" }
+    ],
+    "usages": [
+      { "title": "① be reluctant to do として", "desc": "「〜したがらない・ためらう」を表す基本形です。", "example_en": "She was reluctant to ask for help.", "example_ja": "彼女は助けを求めるのをためらった。" },
+      { "title": "② 「しぶしぶの」として", "desc": "気乗りしない様子を表します。", "example_en": "He gave a reluctant nod.", "example_ja": "彼はしぶしぶうなずいた。" }
+    ],
+    "warn": [
+      "「〜したがらない」は be reluctant to do（to＋動詞の原形）。",
+      "反対は willing（喜んで〜する）。副詞は reluctantly（しぶしぶ）。"
+    ],
+    "etym_note": "ラテン語 reluctari（re-「対して」＋ luctari「もがく・格闘する」＝抵抗する）に由来します。「（心の中で）抵抗してもがく＝気が進まない」が原義です。",
+    "etym_chain": [
+      { "node": "reluctari", "sub": "抵抗する", "era": "ラテン語" },
+      { "node": "reluctant", "sub": "抵抗する・気が進まない", "era": "近代英語" },
+      { "node": "reluctant", "sub": "気が進まない", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be reluctant to do", "ja": "〜するのに気が進まない" },
+      { "en": "a reluctant agreement", "ja": "しぶしぶの同意" },
+      { "en": "reluctant to admit", "ja": "認めたがらない" },
+      { "en": "somewhat reluctant", "ja": "やや気乗りしない" },
+      { "en": "a reluctant hero", "ja": "気乗りしない英雄" },
+      { "en": "reluctantly agree", "ja": "しぶしぶ同意する" }
+    ],
+    "related": [
+      { "en": "willing", "ja": "喜んで〜する（反対語）" },
+      { "en": "unwilling", "ja": "気が進まない" },
+      { "en": "hesitant", "ja": "ためらいがちな" },
+      { "en": "eager", "ja": "熱心な（反対概念）" }
+    ],
+    "faq": [
+      { "q": "be reluctant to do の意味は？", "a": "『〜するのに気が進まない・ためらう』という意味です。to のあとは動詞の原形を続けます。" },
+      { "q": "reluctant の反対語は？", "a": "willing（喜んで〜する・進んで〜する）です。be willing to help ↔ be reluctant to help のように対比します。" }
+    ],
+    "quiz": [
+      { "q": "She was ___ to ask for help.（助けを求めるのをためらった）", "A": "reluctant", "B": "reliable", "C": "relevant", "D": "remarkable", "correct": "A" },
+      { "q": "reluctant の反対語はどれ？", "A": "willing", "B": "unwilling", "C": "hesitant", "D": "nervous", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rely",
+    "pron": "rɪˈlaɪ",
+    "kana": "リライ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古フランス語 relier（結びつける）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "基本動詞"],
+    "meaning_main": "頼る・あてにする・信頼する",
+    "description": "rely の意味・発音・例文・語源を解説。rely on / upon（〜に頼る）の使い方や、depend on との関係、reliable も分かりやすく紹介します。",
+    "keywords": ["rely 意味", "rely 発音", "rely on 使い方", "rely depend 違い"],
+    "meanings": [
+      { "hinshi": "【動詞】（rely on）〜に頼る・あてにする", "note": "必ず on / upon を伴う。rely on a friend（友人を頼る）。" },
+      { "hinshi": "【動詞】（〜を）信頼する・期待する", "note": "rely on someone to do（〜が…してくれると信頼する）。" }
+    ],
+    "usages": [
+      { "title": "① rely on（〜に頼る）として", "desc": "人や物をあてにする基本の形です。", "example_en": "You can rely on me.", "example_ja": "私を頼ってくれていいよ。" },
+      { "title": "② 「あてにする・期待する」として", "desc": "rely on A to do の形でも使います。", "example_en": "We rely on the internet for information.", "example_ja": "私たちは情報をインターネットに頼っている。" }
+    ],
+    "warn": [
+      "rely は必ず on / upon を伴う（rely on）。単独では使わない。",
+      "depend on とほぼ同じ意味。形容詞 reliable（信頼できる）、名詞 reliance（依存）。"
+    ],
+    "etym_note": "古フランス語 relier（re-「再び」＋ lier「結ぶ」＝結びつける）に由来します。「（信頼で）結びつく＝頼る」が原義です。reliable と同じ語源です。",
+    "etym_chain": [
+      { "node": "religare", "sub": "結びつける", "era": "ラテン語" },
+      { "node": "relier", "sub": "結びつける", "era": "古フランス語" },
+      { "node": "rely", "sub": "頼る・あてにする", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rely on", "ja": "〜に頼る・あてにする" },
+      { "en": "rely upon", "ja": "〜に頼る（かたい）" },
+      { "en": "rely heavily on", "ja": "〜に大きく依存する" },
+      { "en": "rely on A to do", "ja": "Aが〜してくれると頼る" },
+      { "en": "you can rely on me", "ja": "私に任せて" },
+      { "en": "rely on each other", "ja": "互いに頼り合う" }
+    ],
+    "related": [
+      { "en": "reliable", "ja": "信頼できる" },
+      { "en": "reliance", "ja": "依存・信頼" },
+      { "en": "depend", "ja": "頼る・依存する" },
+      { "en": "trust", "ja": "信頼する" }
+    ],
+    "faq": [
+      { "q": "rely のあとの前置詞は？", "a": "on または upon です。rely on your help（あなたの助けをあてにする）のように、必ず前置詞を伴います。" },
+      { "q": "rely と depend の違いは？", "a": "意味はほぼ同じ『頼る』です。どちらも on を伴い、rely on / depend on の形で使います。" }
+    ],
+    "quiz": [
+      { "q": "You can ___ on me.（私を頼っていいよ）", "A": "rely", "B": "relax", "C": "relate", "D": "release", "correct": "A" },
+      { "q": "rely のあとに必要な前置詞は？", "A": "on", "B": "to", "C": "for", "D": "at", "correct": "A" }
+    ]
+  },
+  {
+    "english": "resemble",
+    "pron": "rɪˈzembəl",
+    "kana": "リゼンブル",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古フランス語 resembler（似ている）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "（〜に）似ている",
+    "description": "resemble の意味・発音・例文・語源を解説。前置詞や進行形を使わない他動詞である点や、look like との違いも分かりやすく紹介します。",
+    "keywords": ["resemble 意味", "resemble 発音", "resemble look like 違い", "resemble 似ている"],
+    "meanings": [
+      { "hinshi": "【動詞】（〜に）似ている", "note": "他動詞。直接目的語をとる。resemble one's mother（母親に似ている）。" }
+    ],
+    "usages": [
+      { "title": "① 「（人に）似ている」として", "desc": "顔つきや性質が似ていることを表します。", "example_en": "She closely resembles her older sister.", "example_ja": "彼女は姉によく似ている。" },
+      { "title": "② 「（物事が）似ている」として", "desc": "形や性質の類似も表します。", "example_en": "The shape resembles a heart.", "example_ja": "その形はハートに似ている。" }
+    ],
+    "warn": [
+      "resemble は他動詞。前置詞は不要（×resemble to / with）。resemble her（彼女に似ている）。",
+      "進行形にしない（×is resembling）。状態を表す動詞のため。"
+    ],
+    "etym_note": "古フランス語 resembler（re-「強意」＋ sembler「似ている」。ラテン語 similis「似た」から）に由来します。similar・assemble と同じ sembl-（似た・集める）の語根です。",
+    "etym_chain": [
+      { "node": "similis", "sub": "似た", "era": "ラテン語" },
+      { "node": "resembler", "sub": "似ている", "era": "古フランス語" },
+      { "node": "resemble", "sub": "似ている", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "closely resemble", "ja": "よく似ている" },
+      { "en": "strongly resemble", "ja": "非常に似ている" },
+      { "en": "resemble each other", "ja": "互いに似ている" },
+      { "en": "resemble in appearance", "ja": "外見が似ている" },
+      { "en": "bear a resemblance to", "ja": "〜に似ている" },
+      { "en": "resemble nothing", "ja": "何にも似ていない" }
+    ],
+    "related": [
+      { "en": "resemblance", "ja": "類似（名詞）" },
+      { "en": "similar", "ja": "似ている" },
+      { "en": "look like", "ja": "〜のように見える" },
+      { "en": "differ", "ja": "異なる（反対語）" }
+    ],
+    "faq": [
+      { "q": "resemble のあとに前置詞は必要？", "a": "いいえ。resemble は他動詞で、直接目的語をとります。resemble her（彼女に似ている）が正しく、resemble to her は誤りです。" },
+      { "q": "resemble と look like の違いは？", "a": "意味は近いですが、resemble は他動詞でややかたい語、look like は『〜のように見える』という日常的な言い方です。" }
+    ],
+    "quiz": [
+      { "q": "She closely ___ her older sister.（姉に似ている）", "A": "resembles", "B": "resembles to", "C": "is resembling", "D": "resemble with", "correct": "A" },
+      { "q": "resemble の正しい使い方はどれ？", "A": "resemble to him", "B": "resemble him", "C": "resemble with him", "D": "is resembling him", "correct": "B" }
+    ]
+  },
+  {
+    "english": "resign",
+    "pron": "rɪˈzaɪn",
+    "kana": "リザイン",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 resignare（封印を解く・手放す）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "辞職する・辞任する／（resign oneself to）あきらめて受け入れる",
+    "description": "resign の意味・発音・例文・語源を解説。発音で g を読まない点や、resign from（辞職する）、名詞 resignation も分かりやすく紹介します。",
+    "keywords": ["resign 意味", "resign 発音 g", "resign from 使い方", "resignation 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】辞職する・辞任する", "note": "自分の意志で職を辞す。resign from a job（仕事を辞める）。" },
+      { "hinshi": "【動詞】(resign oneself to) あきらめて受け入れる", "note": "be resigned to（〜を甘んじて受け入れる）。" }
+    ],
+    "usages": [
+      { "title": "① 「辞職する」として", "desc": "resign from〜で「〜を辞職する」を表します。", "example_en": "The minister resigned from his post.", "example_ja": "その大臣は職を辞任した。" },
+      { "title": "② resign oneself to として", "desc": "「あきらめて受け入れる」を表します。", "example_en": "He resigned himself to the fact that he had lost.", "example_ja": "彼は負けたという事実を受け入れた。" }
+    ],
+    "warn": [
+      "発音は /rɪˈzaɪn/「リザイン」で g は読まない。名詞 resignation /ˌrezɪɡˈneɪʃən/ では g を読む。",
+      "retire（定年などで引退）とは違い、resign は『自分の意志で辞職する』。"
+    ],
+    "etym_note": "ラテン語 resignare（re-「逆に」＋ signare「印をつける」＝封印を解く・手放す）に由来します。sign（署名・印）と同じ語源で、「（地位を）手放す＝辞職する」が原義です。",
+    "etym_chain": [
+      { "node": "resignare", "sub": "封印を解く・手放す", "era": "ラテン語" },
+      { "node": "resignen", "sub": "手放す", "era": "中英語" },
+      { "node": "resign", "sub": "辞職する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "resign from", "ja": "〜を辞職する" },
+      { "en": "resign as", "ja": "〜（の職）を辞める" },
+      { "en": "resign oneself to", "ja": "〜をあきらめて受け入れる" },
+      { "en": "be resigned to", "ja": "〜を甘んじて受け入れる" },
+      { "en": "hand in one's resignation", "ja": "辞表を出す" },
+      { "en": "a letter of resignation", "ja": "辞表" }
+    ],
+    "related": [
+      { "en": "resignation", "ja": "辞職・あきらめ（名詞）" },
+      { "en": "quit", "ja": "やめる" },
+      { "en": "retire", "ja": "引退する" },
+      { "en": "step down", "ja": "辞任する" }
+    ],
+    "faq": [
+      { "q": "resign の発音の注意点は？", "a": "動詞 resign /rɪˈzaɪn/ では g を読みません。一方、名詞 resignation /ˌrezɪɡˈneɪʃən/ では g を発音します。" },
+      { "q": "resign と retire の違いは？", "a": "resign は『（自分の意志で）辞職する』、retire は『（定年などで）引退する』です。" }
+    ],
+    "quiz": [
+      { "q": "The minister ___ from his post.（辞任した）", "A": "resigned", "B": "retired の定年の語感", "C": "removed", "D": "refused", "correct": "A" },
+      { "q": "resign の名詞形（辞職）はどれ？", "A": "resignment", "B": "resignation", "C": "resigning のみ", "D": "resignance", "correct": "B" }
+    ]
+  },
+  {
+    "english": "resolve",
+    "pron": "rɪˈzɑːlv",
+    "kana": "リゾルブ",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "ラテン語 resolvere（解きほぐす）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "解決する・決意する／決意・固い意志",
+    "description": "resolve の意味・発音・例文・語源を解説。「（問題を）解決する」と「（〜しようと）決意する」の二つの意味や、名詞 resolution も紹介します。",
+    "keywords": ["resolve 意味", "resolve 発音", "resolve to do 使い方", "resolution 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】解決する", "note": "resolve a problem（問題を解決する）。solve よりかたい。" },
+      { "hinshi": "【動詞】（〜しようと）決意する", "note": "resolve to do（〜することを固く決心する）。" },
+      { "hinshi": "【名詞】決意・固い意志", "note": "with great resolve（固い決意で）。" }
+    ],
+    "usages": [
+      { "title": "① 「解決する」として", "desc": "争いや問題を片づける意味です。", "example_en": "They finally resolved the dispute.", "example_ja": "彼らはついにその争いを解決した。" },
+      { "title": "② resolve to do（決意する）として", "desc": "固く決心することを表します。", "example_en": "She resolved to work harder next year.", "example_ja": "彼女は来年はもっと頑張ろうと決意した。" }
+    ],
+    "warn": [
+      "名詞は resolution（決意・解決・決議）。New Year's resolutions は『新年の抱負』。",
+      "resolve は『解決する』のほか『固く決意する』。solve は『（問題を）解く』のみ。"
+    ],
+    "etym_note": "ラテン語 resolvere（re-「強意」＋ solvere「解く」＝解きほぐす）に由来します。solve・dissolve と同じ solv-（解く）の語根で、「もつれを解く＝解決する」が原義です。",
+    "etym_chain": [
+      { "node": "resolvere", "sub": "解きほぐす", "era": "ラテン語" },
+      { "node": "resolven", "sub": "解決する", "era": "中英語" },
+      { "node": "resolve", "sub": "解決する・決意する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "resolve a problem", "ja": "問題を解決する" },
+      { "en": "resolve a dispute", "ja": "争いを解決する" },
+      { "en": "resolve to do", "ja": "〜しようと決意する" },
+      { "en": "with great resolve", "ja": "固い決意で" },
+      { "en": "a New Year's resolution", "ja": "新年の抱負" },
+      { "en": "firm resolve", "ja": "固い決意" }
+    ],
+    "related": [
+      { "en": "resolution", "ja": "決意・解決（名詞）" },
+      { "en": "solve", "ja": "（問題を）解く" },
+      { "en": "settle", "ja": "解決する" },
+      { "en": "determine", "ja": "決意する" }
+    ],
+    "faq": [
+      { "q": "resolve と solve の違いは？", "a": "solve は『（問題・なぞを）解く』、resolve は『（争い・問題を）解決する』のほか『固く決意する』の意味もあります。" },
+      { "q": "New Year's resolution とは？", "a": "『新年の抱負・決意』のことです。resolve（決意する）の名詞 resolution を使った定番表現です。" }
+    ],
+    "quiz": [
+      { "q": "They finally ___ the dispute.（争いを解決した）", "A": "resolved", "B": "reserved", "C": "removed", "D": "refused", "correct": "A" },
+      { "q": "「〜しようと決意する」を表すのはどれ？", "A": "resolve to do", "B": "resolve doing のみ", "C": "resolve for do", "D": "resolve at do", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retain",
+    "pron": "rɪˈteɪn",
+    "kana": "リテイン",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 retinere（保ち続ける）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "保持する・保ち続ける・維持する",
+    "description": "retain の意味・発音・例文・語源を解説。keep よりかたい「保持する」のニュアンスや、retain information（記憶にとどめる）も分かりやすく紹介します。",
+    "keywords": ["retain 意味", "retain 発音", "retain keep 違い", "retain 保持"],
+    "meanings": [
+      { "hinshi": "【動詞】保持する・保ち続ける", "note": "keep よりかたい。retain heat（熱を保つ）。" },
+      { "hinshi": "【動詞】（記憶などを）とどめる", "note": "retain information（情報を記憶にとどめる）。" }
+    ],
+    "usages": [
+      { "title": "① 「保持する・維持する」として", "desc": "失わずに保ち続ける意味です。", "example_en": "The town has retained its old charm.", "example_ja": "その町は昔ながらの魅力を保っている。" },
+      { "title": "② 「記憶にとどめる」として", "desc": "情報を覚えておく意味でも使います。", "example_en": "Children retain new words quickly.", "example_ja": "子どもは新しい単語をすぐに覚える。" }
+    ],
+    "warn": [
+      "retain は keep よりかたい・形式的な語。契約・記憶・性質などを『保ち続ける』。",
+      "名詞は retention（保持・維持）。"
+    ],
+    "etym_note": "ラテン語 retinere（re-「後ろに」＋ tenere「保つ」＝保ち続ける）に由来します。contain・maintain と同じ ten-（保つ）の語根です。",
+    "etym_chain": [
+      { "node": "retinere", "sub": "保ち続ける", "era": "ラテン語" },
+      { "node": "retenen", "sub": "保持する", "era": "中英語" },
+      { "node": "retain", "sub": "保持する・維持する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "retain heat", "ja": "熱を保つ" },
+      { "en": "retain information", "ja": "情報を記憶にとどめる" },
+      { "en": "retain control", "ja": "支配を保つ" },
+      { "en": "retain customers", "ja": "顧客を維持する" },
+      { "en": "retain one's title", "ja": "タイトルを防衛する" },
+      { "en": "water retention", "ja": "水分の保持" }
+    ],
+    "related": [
+      { "en": "retention", "ja": "保持（名詞）" },
+      { "en": "keep", "ja": "保つ" },
+      { "en": "maintain", "ja": "維持する" },
+      { "en": "preserve", "ja": "保存する" }
+    ],
+    "faq": [
+      { "q": "retain と keep の違いは？", "a": "意味は近いですが、retain は keep よりかたく形式的で、契約・記憶・性質などを『（失わずに）保ち続ける』ときに使います。" },
+      { "q": "retain の名詞形は？", "a": "retention（保持・維持・記憶力）です。customer retention（顧客の維持）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The town has ___ its old charm.（魅力を保っている）", "A": "retained", "B": "returned", "C": "retired", "D": "removed", "correct": "A" },
+      { "q": "retain の名詞形はどれ？", "A": "retainment", "B": "retention", "C": "retainance", "D": "retainy", "correct": "B" }
+    ]
+  },
+  {
+    "english": "revenge",
+    "pron": "rɪˈvendʒ",
+    "kana": "リベンジ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "古フランス語 revenchier（仕返しする）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "感情"],
+    "meaning_main": "復讐・仕返し／復讐する",
+    "description": "revenge の意味・発音・例文・語源を解説。take revenge on（〜に復讐する）の使い方や、和製英語の『リベンジ（再挑戦）』との違いも紹介します。",
+    "keywords": ["revenge 意味", "revenge 発音", "take revenge on 使い方", "revenge リベンジ 違い"],
+    "meanings": [
+      { "hinshi": "【名詞】復讐・仕返し", "note": "受けた害に対して返す行為。get one's revenge（仕返しする）。" },
+      { "hinshi": "【動詞】復讐する", "note": "revenge oneself on（〜に復讐する）。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「復讐」として", "desc": "take revenge on〜で「〜に復讐する」を表します。", "example_en": "He wanted to take revenge on his enemy.", "example_ja": "彼は敵に復讐したかった。" },
+      { "title": "② 「仕返し」として", "desc": "in revenge for（〜の仕返しに）の形でも使います。", "example_en": "The attack was in revenge for an earlier insult.", "example_ja": "その攻撃は以前の侮辱への仕返しだった。" }
+    ],
+    "warn": [
+      "和製英語の『リベンジ（再挑戦・雪辱）』に近い意味もあるが、英語の revenge は『復讐』という強い語。スポーツの雪辱は get one's revenge とも言える。",
+      "take revenge on＋人、in revenge for＋出来事。前置詞に注意。"
+    ],
+    "etym_note": "古フランス語 revenchier（re-「強意」＋ vengier「報復する」）に由来します。avenge（あだを討つ）や vengeance（復讐）と同じ語源です。",
+    "etym_chain": [
+      { "node": "vindicare", "sub": "報復する", "era": "ラテン語" },
+      { "node": "revenchier", "sub": "仕返しする", "era": "古フランス語" },
+      { "node": "revenge", "sub": "復讐・復讐する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "take revenge on", "ja": "〜に復讐する" },
+      { "en": "get one's revenge", "ja": "仕返しをする・雪辱を果たす" },
+      { "en": "in revenge for", "ja": "〜の仕返しに" },
+      { "en": "seek revenge", "ja": "復讐を求める" },
+      { "en": "sweet revenge", "ja": "胸のすく復讐" },
+      { "en": "an act of revenge", "ja": "復讐行為" }
+    ],
+    "related": [
+      { "en": "revengeful", "ja": "復讐心に燃えた" },
+      { "en": "avenge", "ja": "あだを討つ" },
+      { "en": "vengeance", "ja": "復讐" },
+      { "en": "forgive", "ja": "許す（反対概念）" }
+    ],
+    "faq": [
+      { "q": "英語の revenge と日本語の『リベンジ』は同じ？", "a": "日本語の『リベンジ（再挑戦・雪辱）』はやや軽い意味ですが、英語の revenge は『復讐』という強い語です。スポーツの雪辱は get one's revenge と言えます。" },
+      { "q": "take revenge on とは？", "a": "『〜に復讐する・仕返しする』という意味です。on のあとに復讐する相手が来ます。" }
+    ],
+    "quiz": [
+      { "q": "He wanted to take ___ on his enemy.（敵に復讐）", "A": "revenge", "B": "reverse", "C": "review", "D": "reward", "correct": "A" },
+      { "q": "「〜に復讐する」の正しい前置詞は？ take revenge ___ him", "A": "on", "B": "to", "C": "for", "D": "at", "correct": "A" }
+    ]
+  }
+]
