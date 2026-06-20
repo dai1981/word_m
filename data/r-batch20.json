@@ -1,0 +1,530 @@
+[
+  {
+    "english": "rhyme",
+    "pron": "raɪm",
+    "kana": "ライム",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "ギリシャ語 rhythmos（リズム）由来",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "言葉"],
+    "meaning_main": "韻・押韻／韻を踏む",
+    "description": "rhyme の意味・発音・例文・語源を解説。詩や歌で「韻を踏む」ことや、つづりの難しさ（rhythm と同系）も分かりやすく紹介します。",
+    "keywords": ["rhyme 意味", "rhyme 発音", "rhyme つづり", "rhyme 韻"],
+    "meanings": [
+      { "hinshi": "【名詞】韻・押韻", "note": "語尾の音をそろえること。a nursery rhyme（童謡）。" },
+      { "hinshi": "【動詞】韻を踏む", "note": "cat rhymes with hat（cat は hat と韻を踏む）。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「韻・童謡」として", "desc": "詩や歌の音のひびきの一致を表します。", "example_en": "Children love songs with simple rhymes.", "example_ja": "子どもは簡単な韻のある歌が大好きだ。" },
+      { "title": "② 動詞「韻を踏む」として", "desc": "rhyme with〜で「〜と韻を踏む」を表します。", "example_en": "\"Moon\" rhymes with \"June.\"", "example_ja": "「moon」は「June」と韻を踏む。" }
+    ],
+    "warn": [
+      "つづりが難しい：rhyme。rh- と語尾の -yme に注意。rhythm（リズム）と同じギリシャ語系。",
+      "a nursery rhyme は『童謡・わらべ歌』。"
+    ],
+    "etym_note": "ギリシャ語 rhythmos（リズム）に由来し、ラテン語・古フランス語を経て英語に入りました。rhythm（リズム）と同じ語源で、つづりの rh- もそれを示します。",
+    "etym_chain": [
+      { "node": "rhythmos", "sub": "リズム", "era": "ギリシャ語" },
+      { "node": "rime", "sub": "韻", "era": "古フランス語" },
+      { "node": "rhyme", "sub": "韻・韻を踏む", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a nursery rhyme", "ja": "童謡・わらべ歌" },
+      { "en": "rhyme with", "ja": "〜と韻を踏む" },
+      { "en": "rhyme scheme", "ja": "押韻形式" },
+      { "en": "without rhyme or reason", "ja": "理由もわけもなく" },
+      { "en": "make it rhyme", "ja": "韻を踏ませる" },
+      { "en": "a perfect rhyme", "ja": "完全な韻" }
+    ],
+    "related": [
+      { "en": "rhythm", "ja": "リズム" },
+      { "en": "poem", "ja": "詩" },
+      { "en": "verse", "ja": "韻文・詩" },
+      { "en": "sound", "ja": "音・ひびき" }
+    ],
+    "faq": [
+      { "q": "rhyme のつづりのコツは？", "a": "rh- で始まり -yme で終わります。rhythm（リズム）と同じギリシャ語系のつづりだと覚えると忘れにくいです。" },
+      { "q": "without rhyme or reason とは？", "a": "『理由もわけもなく・めちゃくちゃに』という意味の慣用句です。" }
+    ],
+    "quiz": [
+      { "q": "\"Moon\" ___ with \"June.\"（韻を踏む）", "A": "rhymes", "B": "rhythms", "C": "rimes の誤形", "D": "reigns", "correct": "A" },
+      { "q": "rhyme の正しいつづりはどれ？", "A": "ryme", "B": "rhyme", "C": "rhime", "D": "rhym", "correct": "B" }
+    ]
+  },
+  {
+    "english": "rib",
+    "pron": "rɪb",
+    "kana": "リブ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 ribb（あばら骨）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "体"],
+    "meaning_main": "あばら骨・肋骨／（料理の）リブ",
+    "description": "rib の意味・発音・例文・語源を解説。体の「肋骨」や、料理の「リブ（あばら肉）」の使い方を分かりやすく紹介します。",
+    "keywords": ["rib 意味", "rib 発音", "rib 肋骨", "ribs 料理"],
+    "meanings": [
+      { "hinshi": "【名詞】あばら骨・肋骨", "note": "胸を囲む骨。break a rib（あばら骨を折る）。" },
+      { "hinshi": "【名詞】（料理の）リブ・あばら肉", "note": "spare ribs（スペアリブ）。" }
+    ],
+    "usages": [
+      { "title": "① 体の「肋骨」として", "desc": "胸部を守る骨を表します。", "example_en": "He broke a rib in the accident.", "example_ja": "彼はその事故であばら骨を折った。" },
+      { "title": "② 料理の「リブ」として", "desc": "あばら部分の肉を表します。", "example_en": "We had barbecued ribs for dinner.", "example_ja": "私たちは夕食にバーベキューのリブを食べた。" }
+    ],
+    "warn": [
+      "複数形は ribs。料理ではふつう複数形 ribs（spare ribs など）。",
+      "人間のあばら骨は左右12対。理科・保健の話題でも使う。"
+    ],
+    "etym_note": "古英語 ribb（あばら骨）に由来する古いゲルマン系の語です。ドイツ語 Rippe（肋骨）と同じ仲間で、体の基本語です。",
+    "etym_chain": [
+      { "node": "ribb", "sub": "あばら骨", "era": "古英語" },
+      { "node": "rib", "sub": "あばら骨", "era": "中英語" },
+      { "node": "rib", "sub": "あばら骨・リブ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "break a rib", "ja": "あばら骨を折る" },
+      { "en": "spare ribs", "ja": "スペアリブ" },
+      { "en": "the rib cage", "ja": "胸郭・ろっ骨全体" },
+      { "en": "barbecued ribs", "ja": "バーベキューのリブ" },
+      { "en": "a broken rib", "ja": "折れたあばら骨" },
+      { "en": "dig someone in the ribs", "ja": "わき腹をつつく" }
+    ],
+    "related": [
+      { "en": "bone", "ja": "骨" },
+      { "en": "chest", "ja": "胸" },
+      { "en": "skeleton", "ja": "骨格" },
+      { "en": "meat", "ja": "肉" }
+    ],
+    "faq": [
+      { "q": "rib の複数形は？", "a": "ribs です。料理では spare ribs（スペアリブ）のように複数形でよく使います。" },
+      { "q": "the rib cage とは？", "a": "『胸郭（ろっ骨全体が作るかご状の構造）』のことです。心臓や肺を守っています。" }
+    ],
+    "quiz": [
+      { "q": "He broke a ___ in the accident.（あばら骨）", "A": "rib", "B": "rim", "C": "rid", "D": "rip", "correct": "A" },
+      { "q": "「スペアリブ」を表すのはどれ？", "A": "spare ribs", "B": "spare ribbons", "C": "spare rims", "D": "spare rims の誤り", "correct": "A" }
+    ]
+  },
+  {
+    "english": "riddle",
+    "pron": "ˈrɪdəl",
+    "kana": "リドル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 rǣdels（なぞ・推測）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "言葉"],
+    "meaning_main": "なぞなぞ・なぞ・謎めいたもの",
+    "description": "riddle の意味・発音・例文・語源を解説。「なぞなぞ」や「（解けない）なぞ」の使い方や、read（読む・解く）と同語源という由来も紹介します。",
+    "keywords": ["riddle 意味", "riddle 発音", "riddle なぞなぞ", "solve a riddle"],
+    "meanings": [
+      { "hinshi": "【名詞】なぞなぞ", "note": "言葉遊びの問題。solve a riddle（なぞなぞを解く）。" },
+      { "hinshi": "【名詞】なぞ・不可解なもの", "note": "a mystery（謎）に近い。" }
+    ],
+    "usages": [
+      { "title": "① 「なぞなぞ」として", "desc": "言葉遊びの問題を表します。", "example_en": "Can you solve this riddle?", "example_ja": "このなぞなぞを解けますか。" },
+      { "title": "② 「謎・不可解なもの」として", "desc": "簡単に説明できないことを表します。", "example_en": "His disappearance remains a riddle.", "example_ja": "彼の失踪は今もなぞのままだ。" }
+    ],
+    "warn": [
+      "riddle（なぞなぞ）と mystery（神秘・謎）は近いが、riddle は『言葉遊び・解くべきなぞ』が中心。",
+      "speak in riddles は『なぞめいた言い方をする・遠回しに言う』。"
+    ],
+    "etym_note": "古英語 rǣdels（なぞ・推測。rǣdan「解釈する・読む」から）に由来します。read（読む）と同じ語源で、「読み解くべきもの＝なぞ」が原義です。",
+    "etym_chain": [
+      { "node": "rǣdels", "sub": "なぞ・推測", "era": "古英語" },
+      { "node": "redels", "sub": "なぞ", "era": "中英語" },
+      { "node": "riddle", "sub": "なぞなぞ・なぞ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "solve a riddle", "ja": "なぞなぞを解く" },
+      { "en": "ask a riddle", "ja": "なぞなぞを出す" },
+      { "en": "speak in riddles", "ja": "なぞめいた言い方をする" },
+      { "en": "an ancient riddle", "ja": "古来のなぞ" },
+      { "en": "the answer to the riddle", "ja": "なぞの答え" },
+      { "en": "a riddle wrapped in mystery", "ja": "なぞに包まれたなぞ" }
+    ],
+    "related": [
+      { "en": "puzzle", "ja": "パズル・難問" },
+      { "en": "mystery", "ja": "謎・神秘" },
+      { "en": "quiz", "ja": "クイズ" },
+      { "en": "problem", "ja": "問題" }
+    ],
+    "faq": [
+      { "q": "riddle と puzzle の違いは？", "a": "riddle は『（言葉の）なぞなぞ』、puzzle は『パズル・頭をひねる問題』を広く指します。" },
+      { "q": "speak in riddles とは？", "a": "『なぞめいた・遠回しな言い方をする』という意味の表現です。" }
+    ],
+    "quiz": [
+      { "q": "Can you solve this ___?（なぞなぞ）", "A": "riddle", "B": "ribbon", "C": "ripple", "D": "ridge", "correct": "A" },
+      { "q": "「なぞめいた言い方をする」を表すのはどれ？", "A": "speak in riddles", "B": "speak in ribbons", "C": "speak in ridges", "D": "speak in ripples", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ridge",
+    "pron": "rɪdʒ",
+    "kana": "リッジ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 hrycg（背・尾根）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "地理"],
+    "meaning_main": "尾根・山の背・隆起した線",
+    "description": "ridge の意味・発音・例文・語源を解説。山の「尾根」や、屋根の「むね」など、細長く盛り上がった線状の部分を表す使い方を紹介します。",
+    "keywords": ["ridge 意味", "ridge 発音", "ridge 尾根", "mountain ridge"],
+    "meanings": [
+      { "hinshi": "【名詞】尾根・山の背", "note": "山頂を結ぶ細長い高い部分。a mountain ridge（山の尾根）。" },
+      { "hinshi": "【名詞】隆起した線・むね", "note": "屋根のてっぺんや細長い盛り上がり。" }
+    ],
+    "usages": [
+      { "title": "① 山の「尾根」として", "desc": "山頂を結ぶ細長い高い部分を表します。", "example_en": "We hiked along the mountain ridge.", "example_ja": "私たちは山の尾根づたいに歩いた。" },
+      { "title": "② 隆起した線として", "desc": "屋根のむねや細長い盛り上がりを表します。", "example_en": "Snow covered the ridge of the roof.", "example_ja": "雪が屋根のむねをおおっていた。" }
+    ],
+    "warn": [
+      "ridge /rɪdʒ/ と bridge（橋）/brɪdʒ/、edge（端）/edʒ/ と音が近い。区別する。",
+      "a mountain ridge は『山の尾根』、a high-pressure ridge は気象の『高気圧の尾根』。"
+    ],
+    "etym_note": "古英語 hrycg（背中・尾根）に由来する古いゲルマン系の語です。もとは『背中』を意味し、そこから細長く盛り上がった『尾根・むね』を表すようになりました。",
+    "etym_chain": [
+      { "node": "hrycg", "sub": "背・尾根", "era": "古英語" },
+      { "node": "rigge", "sub": "尾根", "era": "中英語" },
+      { "node": "ridge", "sub": "尾根・隆起", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a mountain ridge", "ja": "山の尾根" },
+      { "en": "walk along the ridge", "ja": "尾根づたいに歩く" },
+      { "en": "the ridge of the roof", "ja": "屋根のむね" },
+      { "en": "a narrow ridge", "ja": "細い尾根" },
+      { "en": "an ocean ridge", "ja": "海嶺（海底の山脈）" },
+      { "en": "a ridge of high pressure", "ja": "高気圧の尾根" }
+    ],
+    "related": [
+      { "en": "peak", "ja": "頂上" },
+      { "en": "mountain", "ja": "山" },
+      { "en": "slope", "ja": "斜面" },
+      { "en": "valley", "ja": "谷（反対概念）" }
+    ],
+    "faq": [
+      { "q": "ridge とはどんな地形？", "a": "山頂どうしを結ぶ細長く高い部分『尾根』のことです。登山では尾根づたいに歩くことがよくあります。" },
+      { "q": "ridge と bridge の違いは？", "a": "ridge は『尾根・隆起』、bridge は『橋』です。発音が近いので注意しましょう。" }
+    ],
+    "quiz": [
+      { "q": "We hiked along the mountain ___.（尾根）", "A": "ridge", "B": "bridge", "C": "edge", "D": "ledge", "correct": "A" },
+      { "q": "ridge が表す地形はどれ？", "A": "尾根", "B": "谷", "C": "湖", "D": "平野", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rim",
+    "pron": "rɪm",
+    "kana": "リム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 rima（縁・へり）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "もの"],
+    "meaning_main": "（円形のものの）縁・へり・リム",
+    "description": "rim の意味・発音・例文・語源を解説。カップやめがね、車輪などの「縁（ふち）」を表す語で、edge との違いも分かりやすく紹介します。",
+    "keywords": ["rim 意味", "rim 発音", "rim edge 違い", "rim 縁"],
+    "meanings": [
+      { "hinshi": "【名詞】（円形のものの）縁・へり", "note": "カップ・車輪・めがねなどの外周のふち。the rim of a cup（カップのふち）。" }
+    ],
+    "usages": [
+      { "title": "① 「縁・ふち」として", "desc": "円形のもののへりを表します。", "example_en": "She touched the rim of her glass.", "example_ja": "彼女はグラスのふちに触れた。" },
+      { "title": "② 車輪などの「リム」として", "desc": "タイヤやバスケットゴールの輪を表します。", "example_en": "The ball bounced off the rim.", "example_ja": "ボールはリムにはじかれた。" }
+    ],
+    "warn": [
+      "rim は特に『（円形のものの）縁』。edge はより一般的な『端・へり』。",
+      "the rim of the world など比喩で『果て』を表すこともある。"
+    ],
+    "etym_note": "古英語 rima（縁・へり・岸）に由来する古いゲルマン系の語です。円形のもののふちを表す基本語です。",
+    "etym_chain": [
+      { "node": "rima", "sub": "縁・へり", "era": "古英語" },
+      { "node": "rim", "sub": "縁", "era": "中英語" },
+      { "node": "rim", "sub": "縁・リム", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the rim of a cup", "ja": "カップのふち" },
+      { "en": "the rim of a wheel", "ja": "車輪のリム" },
+      { "en": "gold-rimmed glasses", "ja": "金縁のめがね" },
+      { "en": "filled to the rim", "ja": "ふちまでいっぱいに" },
+      { "en": "the rim of a crater", "ja": "クレーターの縁" },
+      { "en": "the rim of the basket", "ja": "バスケットゴールのリム" }
+    ],
+    "related": [
+      { "en": "edge", "ja": "端・へり" },
+      { "en": "border", "ja": "ふち・境界" },
+      { "en": "brim", "ja": "（容器・帽子の）ふち" },
+      { "en": "wheel", "ja": "車輪" }
+    ],
+    "faq": [
+      { "q": "rim と edge の違いは？", "a": "rim は特に『（カップ・車輪など円形のものの）縁』、edge はより一般的な『端・へり』です。" },
+      { "q": "filled to the rim とは？", "a": "『ふちまでいっぱいに満たされて』という意味です。" }
+    ],
+    "quiz": [
+      { "q": "She touched the ___ of her glass.（グラスのふち）", "A": "rim", "B": "rib", "C": "rid", "D": "rip", "correct": "A" },
+      { "q": "「金縁のめがね」を表すのはどれ？", "A": "gold-rimmed glasses", "B": "gold-ribbed glasses", "C": "gold-ridged glasses", "D": "gold-ripped glasses", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ripple",
+    "pron": "ˈrɪpəl",
+    "kana": "リプル",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "rip（裂く）由来とされる",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "自然"],
+    "meaning_main": "さざ波・波紋／さざ波が立つ・広がる",
+    "description": "ripple の意味・発音・例文・語源を解説。水面の「さざ波・波紋」や、影響が「広がる」比喩、a ripple effect（波及効果）も紹介します。",
+    "keywords": ["ripple 意味", "ripple 発音", "ripple effect 意味", "ripple さざ波"],
+    "meanings": [
+      { "hinshi": "【名詞】さざ波・波紋", "note": "水面の小さな波。a ripple on the pond（池のさざ波）。" },
+      { "hinshi": "【動詞】さざ波が立つ・波打つ・広がる", "note": "The water rippled.（水面がさざ波だった）。" }
+    ],
+    "usages": [
+      { "title": "① 「さざ波・波紋」として", "desc": "水面の小さな波を表します。", "example_en": "A stone made ripples on the water.", "example_ja": "石が水面に波紋を作った。" },
+      { "title": "② a ripple effect（波及効果）として", "desc": "影響が次々に広がることを表します。", "example_en": "The news had a ripple effect across the market.", "example_ja": "そのニュースは市場全体に波及効果をもたらした。" }
+    ],
+    "warn": [
+      "a ripple effect は『波及効果（一つの出来事が次々に影響を広げること）』。",
+      "ripple は『さざ波（小さな波）』、wave は『（大きな）波』。"
+    ],
+    "etym_note": "語源ははっきりしませんが、rip（裂く）と関係するとされ、『水面を細かく裂くような小さな波』を表すようになりました。",
+    "etym_chain": [
+      { "node": "rip(?)", "sub": "裂く", "era": "近代英語" },
+      { "node": "ripple", "sub": "さざ波", "era": "近代英語" },
+      { "node": "ripple", "sub": "さざ波・波紋", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a ripple effect", "ja": "波及効果" },
+      { "en": "ripples on the water", "ja": "水面のさざ波" },
+      { "en": "send ripples through", "ja": "〜に波紋を広げる" },
+      { "en": "a ripple of laughter", "ja": "さざ波のような笑い" },
+      { "en": "cause a ripple", "ja": "波紋を呼ぶ" },
+      { "en": "ripple outward", "ja": "外へ広がる" }
+    ],
+    "related": [
+      { "en": "wave", "ja": "波" },
+      { "en": "wrinkle", "ja": "しわ" },
+      { "en": "spread", "ja": "広がる" },
+      { "en": "pond", "ja": "池" }
+    ],
+    "faq": [
+      { "q": "a ripple effect とは？", "a": "『波及効果』のことです。池に石を投げると波紋が広がるように、一つの出来事が次々に影響を及ぼすことを表します。" },
+      { "q": "ripple と wave の違いは？", "a": "ripple は『さざ波（小さな波）』、wave は『（大きな）波』です。" }
+    ],
+    "quiz": [
+      { "q": "A stone made ___ on the water.（波紋）", "A": "ripples", "B": "rims", "C": "ribs", "D": "ridges", "correct": "A" },
+      { "q": "「波及効果」を表すのはどれ？", "A": "a ripple effect", "B": "a rim effect", "C": "a rib effect", "D": "a ridge effect", "correct": "A" }
+    ]
+  },
+  {
+    "english": "roam",
+    "pron": "roʊm",
+    "kana": "ロウム",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "中英語 romen（歩き回る）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "歩き回る・放浪する・さまよう",
+    "description": "roam の意味・発音・例文・語源を解説。あてもなく「歩き回る」使い方や、wander との近さ、携帯の「ローミング」も分かりやすく紹介します。",
+    "keywords": ["roam 意味", "roam 発音", "roam wander 違い", "roaming 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】歩き回る・放浪する", "note": "あてもなく動き回る。roam the streets（通りをぶらつく）。" },
+      { "hinshi": "【動詞】（自由に）動き回る", "note": "Animals roam freely here.（動物が自由に動き回る）。" }
+    ],
+    "usages": [
+      { "title": "① 「歩き回る・放浪する」として", "desc": "あてもなくさまよう意味です。", "example_en": "They roamed around the city all day.", "example_ja": "彼らは一日中、街を歩き回った。" },
+      { "title": "② 「自由に動き回る」として", "desc": "広い範囲を自由に移動する意味です。", "example_en": "Wild horses roam across the plains.", "example_ja": "野生の馬が平原を自由に動き回る。" }
+    ],
+    "warn": [
+      "roam は wander に近い『あてもなく歩き回る』。roam と同音の Rome（ローマ）に注意。",
+      "携帯電話の roaming（ローミング）はこの語から。"
+    ],
+    "etym_note": "中英語 romen（歩き回る）に由来します。語源ははっきりしませんが、あてもなく動き回ることを表す古い語です。",
+    "etym_chain": [
+      { "node": "romen", "sub": "歩き回る", "era": "中英語" },
+      { "node": "roam", "sub": "放浪する", "era": "近代英語" },
+      { "node": "roam", "sub": "歩き回る・放浪する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "roam the streets", "ja": "通りを歩き回る" },
+      { "en": "roam freely", "ja": "自由に動き回る" },
+      { "en": "roam around", "ja": "あちこち歩き回る" },
+      { "en": "free to roam", "ja": "自由に動き回れる" },
+      { "en": "let one's mind roam", "ja": "思いをめぐらせる" },
+      { "en": "roam the world", "ja": "世界を放浪する" }
+    ],
+    "related": [
+      { "en": "wander", "ja": "さまよう" },
+      { "en": "wander", "ja": "ぶらつく" },
+      { "en": "travel", "ja": "旅する" },
+      { "en": "stroll", "ja": "ぶらぶら歩く" }
+    ],
+    "faq": [
+      { "q": "roam と wander の違いは？", "a": "意味はとても近く、どちらも『あてもなく歩き回る』です。roam はやや広い範囲を自由に動き回るニュアンスがあります。" },
+      { "q": "携帯の『ローミング』も roam？", "a": "はい。roaming は roam から来ており、契約地域外でも他社の回線を使って『動き回って』通信できることを指します。" }
+    ],
+    "quiz": [
+      { "q": "They ___ around the city all day.（歩き回った）", "A": "roamed", "B": "roared", "C": "rolled", "D": "rowed", "correct": "A" },
+      { "q": "roam と意味が最も近いのはどれ？", "A": "wander", "B": "run", "C": "rush", "D": "rest", "correct": "A" }
+    ]
+  },
+  {
+    "english": "robust",
+    "pron": "roʊˈbʌst",
+    "kana": "ロウバスト",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 robustus（オークのように丈夫な）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "形容詞"],
+    "meaning_main": "頑丈な・たくましい・（経済などが）力強い",
+    "description": "robust の意味・発音・例文・語源を解説。「頑丈な・たくましい」の使い方や、システムや経済が「堅調な」という意味も分かりやすく紹介します。",
+    "keywords": ["robust 意味", "robust 発音", "robust 頑丈", "robust 経済"],
+    "meanings": [
+      { "hinshi": "【形容詞】頑丈な・たくましい", "note": "体や物がしっかりして丈夫。a robust body（たくましい体）。" },
+      { "hinshi": "【形容詞】（経済・システムが）力強い・堅調な", "note": "robust growth（力強い成長）。" }
+    ],
+    "usages": [
+      { "title": "① 「頑丈な・たくましい」として", "desc": "体や物がしっかりして丈夫な様子を表します。", "example_en": "The machine has a robust design.", "example_ja": "その機械は頑丈な設計になっている。" },
+      { "title": "② 「力強い・堅調な」として", "desc": "経済・成長・システムの強さを表します。", "example_en": "The economy showed robust growth.", "example_ja": "経済は力強い成長を見せた。" }
+    ],
+    "warn": [
+      "robust はビジネス・経済・技術の文脈で『（仕組みなどが）堅牢で力強い』の意味でよく使う。",
+      "語源はラテン語 robur（オークの木）。『オークのように丈夫な』が原義。"
+    ],
+    "etym_note": "ラテン語 robustus（robur「オークの木・力」から）に由来します。「オークのように堅く丈夫な」が原義で、体・物・仕組みの強さを表します。",
+    "etym_chain": [
+      { "node": "robur", "sub": "オークの木・力", "era": "ラテン語" },
+      { "node": "robustus", "sub": "丈夫な", "era": "ラテン語" },
+      { "node": "robust", "sub": "頑丈な・力強い", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "robust growth", "ja": "力強い成長" },
+      { "en": "a robust economy", "ja": "堅調な経済" },
+      { "en": "a robust design", "ja": "頑丈な設計" },
+      { "en": "a robust system", "ja": "堅牢なシステム" },
+      { "en": "robust health", "ja": "丈夫な健康" },
+      { "en": "a robust debate", "ja": "活発な議論" }
+    ],
+    "related": [
+      { "en": "strong", "ja": "強い" },
+      { "en": "sturdy", "ja": "頑丈な" },
+      { "en": "tough", "ja": "丈夫な" },
+      { "en": "fragile", "ja": "もろい（反対語）" }
+    ],
+    "faq": [
+      { "q": "robust の使い方は？", "a": "体や物が『頑丈・たくましい』のほか、経済・成長・システムが『力強い・堅牢な』という意味でビジネスでよく使われます。" },
+      { "q": "robust の反対語は？", "a": "fragile（もろい・壊れやすい）や weak（弱い）です。" }
+    ],
+    "quiz": [
+      { "q": "The economy showed ___ growth.（力強い成長）", "A": "robust", "B": "rigid", "C": "rural", "D": "rude", "correct": "A" },
+      { "q": "robust の反対語はどれ？", "A": "fragile", "B": "strong", "C": "sturdy", "D": "tough", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rugby",
+    "pron": "ˈrʌɡbi",
+    "kana": "ラグビー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "イングランドの Rugby 校に由来",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "スポーツ"],
+    "meaning_main": "ラグビー",
+    "description": "rugby（ラグビー）の意味・発音・例文・語源を解説。発祥地のラグビー校に由来する地名語源や、サッカーとの関係も分かりやすく紹介します。",
+    "keywords": ["rugby 意味", "rugby 発音", "rugby 語源", "rugby ラグビー"],
+    "meanings": [
+      { "hinshi": "【名詞】ラグビー", "note": "楕円形のボールを使い、ボールを持って走る球技。play rugby（ラグビーをする）。" }
+    ],
+    "usages": [
+      { "title": "① スポーツの「ラグビー」として", "desc": "楕円球を使う激しい球技です。", "example_en": "He plays rugby for the school team.", "example_ja": "彼は学校のチームでラグビーをしている。" },
+      { "title": "② 大会・話題として", "desc": "the Rugby World Cup（ラグビーW杯）などで使います。", "example_en": "Japan hosted the Rugby World Cup in 2019.", "example_ja": "日本は2019年にラグビーW杯を開催した。" }
+    ],
+    "warn": [
+      "rugby は地名由来のため、固有名詞 Rugby（ラグビー校・町）は大文字。スポーツ名は小文字 rugby。",
+      "『ラグビーをする』は play rugby（無冠詞）。"
+    ],
+    "etym_note": "イングランドの Rugby School（ラグビー校）に由来します。1823年、この学校でサッカー中に生徒がボールを持って走ったのが起源と伝えられ、学校名がそのまま競技名になりました。",
+    "etym_chain": [
+      { "node": "Rugby School", "sub": "ラグビー校", "era": "19世紀" },
+      { "node": "rugby football", "sub": "ラグビー式フットボール", "era": "19世紀" },
+      { "node": "rugby", "sub": "ラグビー", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "play rugby", "ja": "ラグビーをする" },
+      { "en": "a rugby player", "ja": "ラグビー選手" },
+      { "en": "a rugby ball", "ja": "ラグビーボール" },
+      { "en": "the Rugby World Cup", "ja": "ラグビーワールドカップ" },
+      { "en": "a rugby match", "ja": "ラグビーの試合" },
+      { "en": "a rugby team", "ja": "ラグビーチーム" }
+    ],
+    "related": [
+      { "en": "football", "ja": "フットボール・サッカー" },
+      { "en": "soccer", "ja": "サッカー" },
+      { "en": "sport", "ja": "スポーツ" },
+      { "en": "tackle", "ja": "タックル" }
+    ],
+    "faq": [
+      { "q": "rugby の語源は？", "a": "イングランドの『ラグビー校（Rugby School）』に由来します。学校名がそのまま競技名になりました。" },
+      { "q": "「ラグビーをする」は英語で？", "a": "play rugby です。スポーツ名なので冠詞はつけません。" }
+    ],
+    "quiz": [
+      { "q": "He plays ___ for the school team.（ラグビー）", "A": "rugby", "B": "ruby の宝石", "C": "rubby", "D": "rugbie", "correct": "A" },
+      { "q": "rugby の語源（由来）はどれ？", "A": "イングランドの学校名", "B": "選手の名前", "C": "ボールの形", "D": "町の川の名", "correct": "A" }
+    ]
+  },
+  {
+    "english": "runner",
+    "pron": "ˈrʌnər",
+    "kana": "ランナー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "run（走る）＋ -er",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "スポーツ"],
+    "meaning_main": "走る人・走者・ランナー",
+    "description": "runner の意味・発音・例文・語源を解説。「走者」の使い方や、a long-distance runner（長距離走者）、runner-up（次点）も分かりやすく紹介します。",
+    "keywords": ["runner 意味", "runner 発音", "runner-up 意味", "runner 走者"],
+    "meanings": [
+      { "hinshi": "【名詞】走る人・走者・ランナー", "note": "競技や運動で走る人。a marathon runner（マラソン走者）。" },
+      { "hinshi": "【名詞】運ぶ人・使い走り", "note": "用事を走って行う人。" }
+    ],
+    "usages": [
+      { "title": "① 「走者・ランナー」として", "desc": "走る人・競技者を表します。", "example_en": "She is a fast runner.", "example_ja": "彼女は足の速いランナーだ。" },
+      { "title": "② runner-up として", "desc": "「次点・準優勝者」を表します。", "example_en": "He finished as the runner-up in the contest.", "example_ja": "彼はそのコンテストで準優勝に終わった。" }
+    ],
+    "warn": [
+      "runner-up は『次点・準優勝者』。複数形は runners-up（runner を複数にする）。",
+      "a front-runner は『（競争の）先頭走者・最有力候補』。"
+    ],
+    "etym_note": "run（走る）に -er（〜する人）がついた語で、「走る人＝走者」が原義です。run と同じ語源です。",
+    "etym_chain": [
+      { "node": "run", "sub": "走る", "era": "古英語系" },
+      { "node": "run + er", "sub": "走る人", "era": "中英語" },
+      { "node": "runner", "sub": "走者・ランナー", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a fast runner", "ja": "足の速い走者" },
+      { "en": "a long-distance runner", "ja": "長距離走者" },
+      { "en": "a marathon runner", "ja": "マラソン走者" },
+      { "en": "the runner-up", "ja": "次点・準優勝者" },
+      { "en": "a front-runner", "ja": "先頭走者・最有力候補" },
+      { "en": "a road runner", "ja": "ロードランナー（鳥）" }
+    ],
+    "related": [
+      { "en": "run", "ja": "走る" },
+      { "en": "race", "ja": "競走" },
+      { "en": "athlete", "ja": "運動選手" },
+      { "en": "jogger", "ja": "ジョギングする人" }
+    ],
+    "faq": [
+      { "q": "runner-up とは？", "a": "『次点・準優勝者』のことです。複数形は runners-up になります。" },
+      { "q": "a front-runner とは？", "a": "『（競争の）先頭を走る人・最有力候補』という意味です。選挙などでもよく使われます。" }
+    ],
+    "quiz": [
+      { "q": "She is a fast ___.（走者）", "A": "runner", "B": "rider", "C": "ruler", "D": "rower", "correct": "A" },
+      { "q": "「次点・準優勝者」を表すのはどれ？", "A": "runner-up", "B": "runner-down", "C": "runner-off", "D": "runner-out", "correct": "A" }
+    ]
+  }
+]

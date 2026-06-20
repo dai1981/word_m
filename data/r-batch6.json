@@ -1,0 +1,537 @@
+[
+  {
+    "english": "represent",
+    "pron": "ˌreprɪˈzent",
+    "kana": "レプリゼント",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 repraesentare（目の前に示す）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "代表する・表す・象徴する",
+    "description": "represent の意味・発音・例文・語源を解説。「代表する」「象徴する」の二つの意味や、名詞 representative（代表者）も分かりやすく紹介します。",
+    "keywords": ["represent 意味", "represent 発音", "representative 意味", "represent 代表する"],
+    "meanings": [
+      { "hinshi": "【動詞】代表する・代理を務める", "note": "represent one's country（自国を代表する）。" },
+      { "hinshi": "【動詞】表す・象徴する", "note": "The dove represents peace.（ハトは平和を象徴する）。" }
+    ],
+    "usages": [
+      { "title": "① 「代表する」として", "desc": "団体や国を代表して行動する意味です。", "example_en": "She will represent Japan at the Olympics.", "example_ja": "彼女はオリンピックで日本を代表する。" },
+      { "title": "② 「表す・象徴する」として", "desc": "記号や色などが何かを示す意味です。", "example_en": "On this map, green represents forest.", "example_ja": "この地図では緑が森林を表す。" }
+    ],
+    "warn": [
+      "名詞は representative（代表者）と representation（表現・代表）。形が長いので注意。",
+      "アクセントは後ろ（rep-re-SENT）。present（プレゼント）の前に re- がついた形。"
+    ],
+    "etym_note": "ラテン語 repraesentare（re-「再び」＋ praesentare「差し出す」＝目の前に示す）に由来します。present（提示する）と同じ語根で、「人々の前に示す・代わって示す」が原義です。",
+    "etym_chain": [
+      { "node": "repraesentare", "sub": "目の前に示す", "era": "ラテン語" },
+      { "node": "representen", "sub": "表す", "era": "中英語" },
+      { "node": "represent", "sub": "代表する・表す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "represent a country", "ja": "国を代表する" },
+      { "en": "represent a company", "ja": "会社を代表する" },
+      { "en": "be well represented", "ja": "十分に代表されている" },
+      { "en": "represent the interests of", "ja": "〜の利益を代表する" },
+      { "en": "a sales representative", "ja": "販売員・営業担当" },
+      { "en": "represent a threat", "ja": "脅威となる" }
+    ],
+    "related": [
+      { "en": "representative", "ja": "代表者・代表的な" },
+      { "en": "representation", "ja": "表現・代表" },
+      { "en": "symbol", "ja": "象徴・記号" },
+      { "en": "stand for", "ja": "〜を表す" }
+    ],
+    "faq": [
+      { "q": "represent の名詞形は？", "a": "representative（代表者）と representation（表現・代表）の2つがあります。a representative of the company（会社の代表者）のように使います。" },
+      { "q": "represent と stand for の違いは？", "a": "意味は近く、どちらも『〜を表す』に使えます。stand for は記号・略語の意味を説明するときによく使われます。" }
+    ],
+    "quiz": [
+      { "q": "She will ___ Japan at the Olympics.（日本を代表する）", "A": "represent", "B": "respect", "C": "require", "D": "reserve", "correct": "A" },
+      { "q": "represent の名詞形（代表者）はどれ？", "A": "representful", "B": "representative", "C": "representment", "D": "represently", "correct": "B" }
+    ]
+  },
+  {
+    "english": "request",
+    "pron": "rɪˈkwest",
+    "kana": "リクエスト",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "ラテン語 requirere（求める）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "基本語"],
+    "meaning_main": "要望・依頼／頼む・要請する",
+    "description": "request の意味・発音・例文・語源を解説。ask との違いや、make a request、request that＋仮定法という丁寧表現も紹介します。",
+    "keywords": ["request 意味", "request 発音", "request ask 違い", "make a request"],
+    "meanings": [
+      { "hinshi": "【名詞】要望・依頼・リクエスト", "note": "make a request（依頼をする）。on request（要求があれば）。" },
+      { "hinshi": "【動詞】頼む・要請する", "note": "ask よりフォーマル。request information（情報を求める）。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「依頼・要望」として", "desc": "make a request（依頼する）の形が便利です。", "example_en": "We made a request for more information.", "example_ja": "私たちはもっと情報をくださいと依頼した。" },
+      { "title": "② 動詞「要請する」として", "desc": "ask より丁寧・正式な「頼む」です。", "example_en": "Passengers are requested to fasten their seat belts.", "example_ja": "乗客はシートベルトを締めるよう求められています。" }
+    ],
+    "warn": [
+      "request は ask よりフォーマル。request＋人＋to do、または request that＋人＋(should) 動詞原形。",
+      "『〜を求めて』は request for（名詞）。動詞では request something（to は不要）。"
+    ],
+    "etym_note": "ラテン語 requirere（re-「再び」＋ quaerere「求める・探す」＝強く求める）に由来します。require・question・inquire などと同じ quaer-（求める）の語根です。",
+    "etym_chain": [
+      { "node": "requirere", "sub": "求める", "era": "ラテン語" },
+      { "node": "requeste", "sub": "要望", "era": "古フランス語" },
+      { "node": "request", "sub": "要望・依頼する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "make a request", "ja": "依頼をする" },
+      { "en": "on request", "ja": "求めがあれば" },
+      { "en": "at someone's request", "ja": "〜の依頼で" },
+      { "en": "a polite request", "ja": "丁寧な依頼" },
+      { "en": "request permission", "ja": "許可を求める" },
+      { "en": "by request", "ja": "リクエストにより" }
+    ],
+    "related": [
+      { "en": "ask", "ja": "頼む・尋ねる" },
+      { "en": "require", "ja": "必要とする・要求する" },
+      { "en": "demand", "ja": "強く要求する" },
+      { "en": "appeal", "ja": "訴える・要請" }
+    ],
+    "faq": [
+      { "q": "request と ask の違いは？", "a": "意味は近いですが、request はフォーマルで掲示・案内・ビジネスに、ask は日常会話で広く使われます。" },
+      { "q": "on request とは？", "a": "『求めがあれば・希望者には』という意味です。Samples are available on request.（見本はご希望に応じてご用意します）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "We made a ___ for more information.（情報をくださいと依頼）", "A": "request", "B": "respect", "C": "rescue", "D": "report", "correct": "A" },
+      { "q": "「求めがあれば」を表すのはどれ？", "A": "on request", "B": "in request", "C": "at request", "D": "by request の常用形ではない", "correct": "A" }
+    ]
+  },
+  {
+    "english": "require",
+    "pron": "rɪˈkwaɪər",
+    "kana": "リクワイア",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 requirere（求める・必要とする）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "基本動詞"],
+    "meaning_main": "必要とする・要求する",
+    "description": "require の意味・発音・例文・語源を解説。need との違いや、be required to do（〜することが求められる）、名詞 requirement も紹介します。",
+    "keywords": ["require 意味", "require 発音", "require need 違い", "requirement 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】必要とする", "note": "This job requires patience.（この仕事は忍耐を必要とする）。" },
+      { "hinshi": "【動詞】（規則で）要求する・義務づける", "note": "be required to do（〜することが義務づけられる）。" }
+    ],
+    "usages": [
+      { "title": "① 「必要とする」として", "desc": "need よりフォーマルな「必要とする」です。", "example_en": "This recipe requires three eggs.", "example_ja": "このレシピは卵を3個必要とする。" },
+      { "title": "② be required to do（〜が義務づけられる）", "desc": "規則・制度で求められることを表します。", "example_en": "All students are required to wear a uniform.", "example_ja": "すべての生徒は制服の着用が義務づけられている。" }
+    ],
+    "warn": [
+      "require は need よりフォーマルで、規則・条件として『必要』を表すことが多い。",
+      "名詞は requirement（必要条件・要件）。meet the requirements（条件を満たす）。"
+    ],
+    "etym_note": "ラテン語 requirere（re-「強意」＋ quaerere「求める」＝強く求める）に由来します。request・inquire・question と同じ語根で、「必要として求める」が原義です。",
+    "etym_chain": [
+      { "node": "requirere", "sub": "求める・必要とする", "era": "ラテン語" },
+      { "node": "requeren", "sub": "要求する", "era": "中英語" },
+      { "node": "require", "sub": "必要とする・要求する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be required to do", "ja": "〜することが求められる" },
+      { "en": "require attention", "ja": "注意を要する" },
+      { "en": "as required", "ja": "必要に応じて" },
+      { "en": "require effort", "ja": "努力を要する" },
+      { "en": "meet the requirements", "ja": "必要条件を満たす" },
+      { "en": "if required", "ja": "必要であれば" }
+    ],
+    "related": [
+      { "en": "requirement", "ja": "必要条件（名詞）" },
+      { "en": "need", "ja": "必要とする" },
+      { "en": "demand", "ja": "要求する" },
+      { "en": "request", "ja": "依頼する" }
+    ],
+    "faq": [
+      { "q": "require と need の違いは？", "a": "どちらも『必要とする』ですが、require はフォーマルで規則・条件として求めるニュアンス、need は日常的で広く使われます。" },
+      { "q": "require の名詞形は？", "a": "requirement（必要条件・要件）です。entry requirements（入学要件）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "All students are ___ to wear a uniform.（制服着用が義務）", "A": "required", "B": "rescued", "C": "reserved", "D": "respected", "correct": "A" },
+      { "q": "require の名詞形はどれ？", "A": "requirement", "B": "requiration", "C": "requiry", "D": "requireness", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rescue",
+    "pron": "ˈreskjuː",
+    "kana": "レスキュー",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "古フランス語 rescoure（救い出す）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "基本語"],
+    "meaning_main": "救助する・救い出す／救助",
+    "description": "rescue の意味・発音・例文・語源を解説。save との違いや、rescue A from B、come to the rescue（助けに来る）も分かりやすく紹介します。",
+    "keywords": ["rescue 意味", "rescue 発音", "rescue save 違い", "come to the rescue"],
+    "meanings": [
+      { "hinshi": "【動詞】救助する・救い出す", "note": "危険な状況から助け出す。rescue a child（子どもを救助する）。" },
+      { "hinshi": "【名詞】救助・救出", "note": "a rescue team（救助隊）。come to the rescue（助けに来る）。" }
+    ],
+    "usages": [
+      { "title": "① 「救助する」として", "desc": "rescue A from B（AをBから救い出す）の形が定番です。", "example_en": "Firefighters rescued the cat from the tree.", "example_ja": "消防士が木からネコを救助した。" },
+      { "title": "② 名詞「救助」として", "desc": "a rescue team（救助隊）などで使います。", "example_en": "A rescue team was sent to the mountain.", "example_ja": "救助隊が山へ送られた。" }
+    ],
+    "warn": [
+      "「AをBから救う」は rescue A from B。危険・困難から助け出すニュアンス。",
+      "save も『救う』だが、rescue は特に『危険な状況からの救助』に使う。"
+    ],
+    "etym_note": "古フランス語 rescoure（re-「強意」＋ escoure「揺すり離す」）に由来し、「（危険から）振りほどいて救い出す」が原義です。",
+    "etym_chain": [
+      { "node": "rescoure", "sub": "救い出す", "era": "古フランス語" },
+      { "node": "rescuen", "sub": "救助する", "era": "中英語" },
+      { "node": "rescue", "sub": "救助する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rescue A from B", "ja": "AをBから救い出す" },
+      { "en": "a rescue team", "ja": "救助隊" },
+      { "en": "come to the rescue", "ja": "助けに来る" },
+      { "en": "a rescue operation", "ja": "救助活動" },
+      { "en": "search and rescue", "ja": "捜索救助" },
+      { "en": "a rescue dog", "ja": "救助犬・保護犬" }
+    ],
+    "related": [
+      { "en": "save", "ja": "救う・助ける" },
+      { "en": "help", "ja": "助ける" },
+      { "en": "protect", "ja": "守る" },
+      { "en": "emergency", "ja": "緊急事態" }
+    ],
+    "faq": [
+      { "q": "rescue と save の違いは？", "a": "どちらも『救う』ですが、rescue は特に『危険な状況から助け出す（救助する）』、save はより広く『命や物を救う・守る』に使えます。" },
+      { "q": "come to the rescue とは？", "a": "『（困っている人を）助けに来る・救いの手を差し伸べる』という意味の表現です。" }
+    ],
+    "quiz": [
+      { "q": "Firefighters ___ the cat from the tree.（ネコを救助した）", "A": "rescued", "B": "required", "C": "requested", "D": "reserved", "correct": "A" },
+      { "q": "「救助隊」を表すのはどれ？", "A": "a rescue team", "B": "a respect team", "C": "a reserve team の常用ではない", "D": "a request team", "correct": "A" }
+    ]
+  },
+  {
+    "english": "research",
+    "pron": "ˈriːsɜːrtʃ",
+    "kana": "リサーチ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "古フランス語 recercher（よく探す）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "学問"],
+    "meaning_main": "研究・調査／研究する・調査する",
+    "description": "research の意味・発音・例文・語源を解説。数えられない名詞である点や、do research、research on/into の使い方も分かりやすく紹介します。",
+    "keywords": ["research 意味", "research 発音", "research 不可算", "do research 使い方"],
+    "meanings": [
+      { "hinshi": "【名詞】研究・調査", "note": "数えられない名詞。a piece of research と数える。" },
+      { "hinshi": "【動詞】研究する・調査する", "note": "research a topic（あるテーマを調査する）。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「研究・調査」として", "desc": "do research（研究する）の形でよく使います。", "example_en": "She is doing research on climate change.", "example_ja": "彼女は気候変動について研究している。" },
+      { "title": "② 動詞「調査する」として", "desc": "情報を詳しく調べる意味です。", "example_en": "I researched the company before the interview.", "example_ja": "私は面接の前にその会社を調べた。" }
+    ],
+    "warn": [
+      "research は数えられない名詞。a research とは言わず、a piece of research / some research と表す。",
+      "『〜について研究する』は research on または research into。"
+    ],
+    "etym_note": "古フランス語 recercher（re-「強意」＋ cercher「探す」＝くまなく探す）に由来します。search（探す）に re- がついた形で、「徹底的に探し調べる」が原義です。",
+    "etym_chain": [
+      { "node": "recercher", "sub": "よく探す", "era": "古フランス語" },
+      { "node": "research", "sub": "探し調べる", "era": "近代英語" },
+      { "node": "research", "sub": "研究・調査", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "do research", "ja": "研究・調査をする" },
+      { "en": "research on", "ja": "〜についての研究" },
+      { "en": "research into", "ja": "〜の（掘り下げた）調査" },
+      { "en": "scientific research", "ja": "科学研究" },
+      { "en": "market research", "ja": "市場調査" },
+      { "en": "a research paper", "ja": "研究論文" }
+    ],
+    "related": [
+      { "en": "researcher", "ja": "研究者" },
+      { "en": "study", "ja": "研究・勉強" },
+      { "en": "investigate", "ja": "調査する" },
+      { "en": "experiment", "ja": "実験" }
+    ],
+    "faq": [
+      { "q": "research は数えられる名詞？", "a": "いいえ、数えられない名詞です。a research とは言わず、a piece of research や some research と表します。" },
+      { "q": "research の動詞のアクセントは？", "a": "名詞・動詞ともに /rɪˈsɜːrtʃ/ または /ˈriːsɜːrtʃ/ と発音されます。アメリカ英語では名詞で前にアクセントを置くこともあります。" }
+    ],
+    "quiz": [
+      { "q": "She is doing ___ on climate change.（気候変動を研究）", "A": "research", "B": "rescue", "C": "respect", "D": "request", "correct": "A" },
+      { "q": "research の正しい使い方はどれ？", "A": "a research", "B": "a piece of research", "C": "many researches の標準形", "D": "two research", "correct": "B" }
+    ]
+  },
+  {
+    "english": "reserve",
+    "pron": "rɪˈzɜːrv",
+    "kana": "リザーヴ",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "ラテン語 reservare（取っておく）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "多義語"],
+    "meaning_main": "予約する・取っておく／蓄え・保護区",
+    "description": "reserve の意味・発音・例文・語源を解説。book との違いや、名詞 reservation（予約）、形容詞 reserved（予約済み・控えめな）も紹介します。",
+    "keywords": ["reserve 意味", "reserve 発音", "reserve book 違い", "reservation 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】予約する・取っておく", "note": "reserve a table（席を予約する）。" },
+      { "hinshi": "【動詞】（権利などを）保有する", "note": "reserve the right to do（〜する権利を留保する）。" },
+      { "hinshi": "【名詞】蓄え・予備／保護区", "note": "a nature reserve（自然保護区）。" }
+    ],
+    "usages": [
+      { "title": "① 「予約する」として", "desc": "レストランやホテルの席・部屋を取る意味です。", "example_en": "I'd like to reserve a table for two.", "example_ja": "2名で席を予約したいのですが。" },
+      { "title": "② 「取っておく・蓄える」として", "desc": "あとのために残しておく意味です。", "example_en": "Please reserve some cake for me.", "example_ja": "私のためにケーキを取っておいてください。" }
+    ],
+    "warn": [
+      "予約は reserve（米）/ book（英）。名詞は reservation（予約）。make a reservation。",
+      "形容詞 reserved は『予約済みの』と『控えめな・無口な』の二つの意味がある。"
+    ],
+    "etym_note": "ラテン語 reservare（re-「後ろに」＋ servare「保つ」＝取っておく）に由来します。serve・preserve・conserve と同じ servare（保つ）の語根です。",
+    "etym_chain": [
+      { "node": "reservare", "sub": "取っておく", "era": "ラテン語" },
+      { "node": "reserver", "sub": "取っておく", "era": "古フランス語" },
+      { "node": "reserve", "sub": "予約する・蓄え", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reserve a table", "ja": "席を予約する" },
+      { "en": "reserve a room", "ja": "部屋を予約する" },
+      { "en": "reserve the right to", "ja": "〜する権利を留保する" },
+      { "en": "a nature reserve", "ja": "自然保護区" },
+      { "en": "in reserve", "ja": "予備として" },
+      { "en": "make a reservation", "ja": "予約をする" }
+    ],
+    "related": [
+      { "en": "reservation", "ja": "予約（名詞）" },
+      { "en": "reserved", "ja": "予約済みの・控えめな" },
+      { "en": "book", "ja": "予約する（英）" },
+      { "en": "keep", "ja": "保つ・取っておく" }
+    ],
+    "faq": [
+      { "q": "reserve と book の違いは？", "a": "どちらも『予約する』で、reserve はアメリカ英語、book はイギリス英語でよく使われます。名詞はどちらも reservation / booking です。" },
+      { "q": "reserved の二つの意味は？", "a": "①『予約済みの』（a reserved seat）と②『控えめな・無口な』（a reserved person）です。" }
+    ],
+    "quiz": [
+      { "q": "I'd like to ___ a table for two.（席を予約したい）", "A": "reserve", "B": "rescue", "C": "research", "D": "respect", "correct": "A" },
+      { "q": "reserve の名詞形（予約）はどれ？", "A": "reservement", "B": "reservation", "C": "reserveness", "D": "reservance", "correct": "B" }
+    ]
+  },
+  {
+    "english": "resist",
+    "pron": "rɪˈzɪst",
+    "kana": "リジスト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 resistere（立ち向かう）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "抵抗する・我慢する・耐える",
+    "description": "resist の意味・発音・例文・語源を解説。can't resist doing（〜せずにいられない）の使い方や、名詞 resistance も分かりやすく紹介します。",
+    "keywords": ["resist 意味", "resist 発音", "can't resist doing", "resistance 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】抵抗する・反抗する", "note": "resist change（変化に抵抗する）。" },
+      { "hinshi": "【動詞】（誘惑などを）我慢する", "note": "can't resist（〜せずにいられない）。" },
+      { "hinshi": "【動詞】（熱・水などに）耐える", "note": "resist heat（熱に耐える）。" }
+    ],
+    "usages": [
+      { "title": "① 「抵抗する」として", "desc": "力や変化に逆らう意味です。", "example_en": "The soldiers resisted the enemy attack.", "example_ja": "兵士たちは敵の攻撃に抵抗した。" },
+      { "title": "② can't resist（〜せずにいられない）", "desc": "誘惑に勝てない、というよく使う表現です。", "example_en": "I can't resist eating chocolate.", "example_ja": "私はチョコレートを食べずにはいられない。" }
+    ],
+    "warn": [
+      "resist のあとは動名詞（resist doing）。to do は続けない（×resist to eat）。",
+      "名詞は resistance（抵抗）。形容詞は resistant（抵抗力のある・〜に強い）。"
+    ],
+    "etym_note": "ラテン語 resistere（re-「対して」＋ sistere「立つ」＝立ち向かう）に由来します。insist・persist・assist と同じ sist-（立つ）の語根です。",
+    "etym_chain": [
+      { "node": "resistere", "sub": "立ち向かう", "era": "ラテン語" },
+      { "node": "resister", "sub": "抵抗する", "era": "古フランス語" },
+      { "node": "resist", "sub": "抵抗する・耐える", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "can't resist", "ja": "〜せずにいられない" },
+      { "en": "resist change", "ja": "変化に抵抗する" },
+      { "en": "resist temptation", "ja": "誘惑に耐える" },
+      { "en": "resist the urge to", "ja": "〜したい衝動をこらえる" },
+      { "en": "heat-resistant", "ja": "耐熱性の" },
+      { "en": "resist pressure", "ja": "圧力に抵抗する" }
+    ],
+    "related": [
+      { "en": "resistance", "ja": "抵抗（名詞）" },
+      { "en": "resistant", "ja": "抵抗力のある" },
+      { "en": "oppose", "ja": "反対する" },
+      { "en": "withstand", "ja": "耐える" }
+    ],
+    "faq": [
+      { "q": "resist のあとの動詞の形は？", "a": "動名詞（-ing）です。I can't resist buying it.（買わずにいられない）のように使います。to不定詞は続けません。" },
+      { "q": "resist の名詞形は？", "a": "resistance（抵抗）です。resistance to change（変化への抵抗）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "I can't ___ eating chocolate.（食べずにいられない）", "A": "resist", "B": "reserve", "C": "respect", "D": "respond", "correct": "A" },
+      { "q": "resist のあとに続く正しい形は？", "A": "resist to eat", "B": "resist eating", "C": "resist eat", "D": "resist for eat", "correct": "B" }
+    ]
+  },
+  {
+    "english": "resource",
+    "pron": "ˈriːsɔːrs",
+    "kana": "リソース",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 resourse（再び立ち上がる力）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "社会"],
+    "meaning_main": "資源・財源・（活用できる）手段",
+    "description": "resource の意味・発音・例文・語源を解説。natural resources（天然資源）や human resources（人材）など頻出表現も分かりやすく紹介します。",
+    "keywords": ["resource 意味", "resource 発音", "natural resources 意味", "human resources"],
+    "meanings": [
+      { "hinshi": "【名詞】資源（多くは複数形）", "note": "natural resources（天然資源）。石油・水・森林など。" },
+      { "hinshi": "【名詞】財源・物資・手段", "note": "limited resources（限られた資金・物資）。" },
+      { "hinshi": "【名詞】（学習などの）役立つもの", "note": "online resources（ネット上の教材）。" }
+    ],
+    "usages": [
+      { "title": "① 「資源」として", "desc": "国や自然が持つ資源を表す基本の意味です。", "example_en": "Japan has few natural resources.", "example_ja": "日本は天然資源が少ない。" },
+      { "title": "② 「財源・手段」として", "desc": "使える資金・人材・情報などを表します。", "example_en": "We need to use our resources wisely.", "example_ja": "私たちは資源を賢く使う必要がある。" }
+    ],
+    "warn": [
+      "『資源』の意味では通常複数形 resources。natural resources / human resources。",
+      "human resources は『人材・人事（部門）』。略して HR とも言う。"
+    ],
+    "etym_note": "古フランス語 resourse（resourdre「再び立ち上がる」の名詞形）に由来します。source（源）と同じ語根で、「必要なときに頼れる供給源」が原義です。",
+    "etym_chain": [
+      { "node": "resurgere", "sub": "再び立ち上がる", "era": "ラテン語" },
+      { "node": "resourse", "sub": "立ち直る力・供給源", "era": "古フランス語" },
+      { "node": "resource", "sub": "資源・手段", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "natural resources", "ja": "天然資源" },
+      { "en": "human resources", "ja": "人材・人事" },
+      { "en": "limited resources", "ja": "限られた資源" },
+      { "en": "energy resources", "ja": "エネルギー資源" },
+      { "en": "water resources", "ja": "水資源" },
+      { "en": "online resources", "ja": "ネット上の教材・資料" }
+    ],
+    "related": [
+      { "en": "source", "ja": "源・出どころ" },
+      { "en": "material", "ja": "材料・物資" },
+      { "en": "supply", "ja": "供給・蓄え" },
+      { "en": "energy", "ja": "エネルギー" }
+    ],
+    "faq": [
+      { "q": "natural resources とは？", "a": "石油・石炭・水・森林・鉱物など、自然が与えてくれる『天然資源』のことです。" },
+      { "q": "human resources とは？", "a": "『人材』、また会社の『人事部門』を指します。略して HR とも呼ばれます。" }
+    ],
+    "quiz": [
+      { "q": "Japan has few natural ___.（天然資源が少ない）", "A": "resources", "B": "responses", "C": "results", "D": "requests", "correct": "A" },
+      { "q": "「人材・人事」を表すのはどれ？", "A": "human resources", "B": "human research", "C": "human respect", "D": "human reserve", "correct": "A" }
+    ]
+  },
+  {
+    "english": "respect",
+    "pron": "rɪˈspekt",
+    "kana": "リスペクト",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "ラテン語 respicere（振り返って見る）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "多義語"],
+    "meaning_main": "尊敬・尊重／尊敬する・尊重する",
+    "description": "respect の意味・発音・例文・語源を解説。「尊敬」だけでなく「点・観点」の意味や、in this respect などの表現も分かりやすく紹介します。",
+    "keywords": ["respect 意味", "respect 発音", "in this respect 意味", "respect 尊敬"],
+    "meanings": [
+      { "hinshi": "【名詞】尊敬・敬意", "note": "have respect for（〜に敬意を持つ）。" },
+      { "hinshi": "【名詞】尊重・配慮", "note": "respect for the rules（規則の尊重）。" },
+      { "hinshi": "【名詞】点・観点", "note": "in this respect（この点では）。" },
+      { "hinshi": "【動詞】尊敬する・尊重する", "note": "respect other cultures（他の文化を尊重する）。" }
+    ],
+    "usages": [
+      { "title": "① 「尊敬・尊重」として", "desc": "have / show respect for の形がよく使われます。", "example_en": "I have great respect for my teacher.", "example_ja": "私は先生を大いに尊敬している。" },
+      { "title": "② 「点・観点」として", "desc": "in this respect などで「ある面では」を表します。", "example_en": "In some respects, the plan is risky.", "example_ja": "いくつかの点で、その計画は危険だ。" }
+    ],
+    "warn": [
+      "『〜に対する敬意』は respect for。respect to ではない（with respect to は別表現で『〜に関して』）。",
+      "in this respect（この点で）、in many respects（多くの点で）など『点・観点』の意味も重要。"
+    ],
+    "etym_note": "ラテン語 respicere（re-「再び」＋ specere「見る」＝振り返って見る）に由来します。「気にかけて見つめる」から「敬意・配慮」になりました。spectacle・inspect と同じ spec-（見る）の語根です。",
+    "etym_chain": [
+      { "node": "respicere", "sub": "振り返って見る", "era": "ラテン語" },
+      { "node": "respect", "sub": "敬意・配慮", "era": "中英語" },
+      { "node": "respect", "sub": "尊敬・観点", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "have respect for", "ja": "〜に敬意を持つ" },
+      { "en": "show respect", "ja": "敬意を示す" },
+      { "en": "with respect to", "ja": "〜に関して" },
+      { "en": "in this respect", "ja": "この点では" },
+      { "en": "in many respects", "ja": "多くの点で" },
+      { "en": "mutual respect", "ja": "相互の尊重" }
+    ],
+    "related": [
+      { "en": "respectful", "ja": "礼儀正しい・敬意を示す" },
+      { "en": "respect", "ja": "尊敬する" },
+      { "en": "admire", "ja": "称賛する" },
+      { "en": "honor", "ja": "敬う・名誉" }
+    ],
+    "faq": [
+      { "q": "respect for と with respect to の違いは？", "a": "respect for は『〜への敬意』、with respect to は『〜に関して（=about）』という別の意味の表現です。" },
+      { "q": "in this respect とは？", "a": "『この点では』という意味で、respect の『点・観点』の用法です。in many respects（多くの点で）もよく使います。" }
+    ],
+    "quiz": [
+      { "q": "I have great ___ for my teacher.（先生を尊敬している）", "A": "respect", "B": "request", "C": "research", "D": "reserve", "correct": "A" },
+      { "q": "「〜への敬意」を表す正しい形は？", "A": "respect for", "B": "respect to", "C": "respect of", "D": "respect at", "correct": "A" }
+    ]
+  },
+  {
+    "english": "respond",
+    "pron": "rɪˈspɑːnd",
+    "kana": "リスポンド",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 respondere（応える・約束し返す）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "基本動詞"],
+    "meaning_main": "応答する・反応する・対応する",
+    "description": "respond の意味・発音・例文・語源を解説。respond to の使い方や、answer・reply との違い、名詞 response も分かりやすく紹介します。",
+    "keywords": ["respond 意味", "respond 発音", "respond to 使い方", "response 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】応答する・返事をする", "note": "respond to a question（質問に答える）。" },
+      { "hinshi": "【動詞】反応する・対応する", "note": "respond to treatment（治療に反応する）。" }
+    ],
+    "usages": [
+      { "title": "① 「返事をする」として", "desc": "respond to〜で「〜に応答する」を表します。", "example_en": "He didn't respond to my email.", "example_ja": "彼は私のメールに返信しなかった。" },
+      { "title": "② 「反応する・対応する」として", "desc": "刺激や状況に反応する意味です。", "example_en": "The patient responded well to the treatment.", "example_ja": "その患者は治療によく反応した。" }
+    ],
+    "warn": [
+      "respond は必ず to を伴う（respond to〜）。answer は直接目的語をとる（answer the question）。",
+      "名詞は response（応答・反応）。in response to（〜に応えて）。"
+    ],
+    "etym_note": "ラテン語 respondere（re-「返して」＋ spondere「約束する」＝応えて約束する）に由来します。sponsor・responsible と同じ spond-（約束する）の語根です。",
+    "etym_chain": [
+      { "node": "respondere", "sub": "応える・約束し返す", "era": "ラテン語" },
+      { "node": "responden", "sub": "応答する", "era": "中英語" },
+      { "node": "respond", "sub": "応答する・反応する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "respond to", "ja": "〜に応答・反応する" },
+      { "en": "respond quickly", "ja": "すばやく対応する" },
+      { "en": "respond to treatment", "ja": "治療に反応する" },
+      { "en": "in response to", "ja": "〜に応えて" },
+      { "en": "fail to respond", "ja": "反応しない・返答しない" },
+      { "en": "respond positively", "ja": "前向きに反応する" }
+    ],
+    "related": [
+      { "en": "response", "ja": "応答・反応（名詞）" },
+      { "en": "reply", "ja": "返事をする" },
+      { "en": "answer", "ja": "答える" },
+      { "en": "react", "ja": "反応する" }
+    ],
+    "faq": [
+      { "q": "respond と answer の違いは？", "a": "respond は『respond to＋相手・刺激』のように to を伴い、answer は『answer the question』のように直接目的語をとります。respond はやや形式的です。" },
+      { "q": "respond の名詞形は？", "a": "response（応答・反応）です。in response to your letter（あなたの手紙に応えて）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "He didn't respond ___ my email.（メールに返信しなかった）", "A": "to", "B": "for", "C": "at", "D": "of", "correct": "A" },
+      { "q": "respond の名詞形はどれ？", "A": "respondment", "B": "response", "C": "respondance", "D": "responseness", "correct": "B" }
+    ]
+  }
+]

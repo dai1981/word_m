@@ -1,0 +1,535 @@
+[
+  {
+    "english": "religion",
+    "pron": "rɪˈlɪdʒən",
+    "kana": "リリジョン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 religio（神への畏敬・つながり）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "社会"],
+    "meaning_main": "宗教・信仰",
+    "description": "religion の意味・発音・例文・語源を解説。形容詞 religious との関係や、社会・文化の話題で使う表現も分かりやすく紹介します。",
+    "keywords": ["religion 意味", "religion 発音", "religious 意味", "religion 宗教 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】宗教", "note": "神や聖なるものへの信仰の体系。世界三大宗教など。" },
+      { "hinshi": "【名詞】信仰・信条", "note": "個人の信じる対象としての宗教も指す。" }
+    ],
+    "usages": [
+      { "title": "① 「宗教（の体系）」として", "desc": "キリスト教・仏教などの宗教を指す基本の意味です。", "example_en": "There are many different religions in the world.", "example_ja": "世界にはさまざまな宗教がある。" },
+      { "title": "② 「個人の信仰」として", "desc": "その人が信じている宗教を表します。", "example_en": "What is your religion?", "example_ja": "あなたの宗教は何ですか。" }
+    ],
+    "warn": [
+      "形容詞は religious（宗教的な・信心深い）。a religious festival（宗教的な祭り）。",
+      "宗教はデリケートな話題なので、相手の信仰を尊重して話すこと。"
+    ],
+    "etym_note": "ラテン語 religio（神への畏敬・結びつき）に由来します。re-（再び）＋ ligare（結ぶ）から「神と人を結ぶもの」と解釈されることが多い語です。",
+    "etym_chain": [
+      { "node": "religio", "sub": "畏敬・つながり", "era": "ラテン語" },
+      { "node": "religion", "sub": "信仰", "era": "古フランス語" },
+      { "node": "religion", "sub": "宗教・信仰", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "freedom of religion", "ja": "信教の自由" },
+      { "en": "a world religion", "ja": "世界宗教" },
+      { "en": "practice a religion", "ja": "宗教を信仰・実践する" },
+      { "en": "organized religion", "ja": "組織化された宗教" },
+      { "en": "religion and culture", "ja": "宗教と文化" },
+      { "en": "convert to a religion", "ja": "ある宗教に改宗する" }
+    ],
+    "related": [
+      { "en": "religious", "ja": "宗教的な（形容詞）" },
+      { "en": "faith", "ja": "信仰・信頼" },
+      { "en": "belief", "ja": "信念・信仰" },
+      { "en": "culture", "ja": "文化" }
+    ],
+    "faq": [
+      { "q": "religion の形容詞は？", "a": "religious（宗教的な・信心深い）です。He is very religious.（彼はとても信心深い）のように使います。" },
+      { "q": "「信教の自由」は英語で？", "a": "freedom of religion と言います。基本的人権のひとつを表す重要表現です。" }
+    ],
+    "quiz": [
+      { "q": "There are many different ___ in the world.（さまざまな宗教）", "A": "religions", "B": "regions", "C": "reasons", "D": "relations", "correct": "A" },
+      { "q": "religion の形容詞形はどれ？", "A": "religional", "B": "religious", "C": "religic", "D": "religyful", "correct": "B" }
+    ]
+  },
+  {
+    "english": "remain",
+    "pron": "rɪˈmeɪn",
+    "kana": "リメイン",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 remanere（後に残る）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "基本動詞"],
+    "meaning_main": "（依然として）〜のままである・残る",
+    "description": "remain の意味・発音・例文・語源を解説。be動詞のように補語をとる用法や、stay との違い、名詞 remains（残り・遺跡）も紹介します。",
+    "keywords": ["remain 意味", "remain 発音", "remain stay 違い", "remains 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】〜のままである", "note": "あとに形容詞などの補語をとる。remain silent（黙ったままでいる）。" },
+      { "hinshi": "【動詞】残る・残っている", "note": "Little time remains.（ほとんど時間が残っていない）。" }
+    ],
+    "usages": [
+      { "title": "① 「〜のままでいる」として", "desc": "be動詞のように補語をとり、状態が続くことを表します。", "example_en": "Please remain calm during the emergency.", "example_ja": "非常時には落ち着いたままでいてください。" },
+      { "title": "② 「残る・残っている」として", "desc": "なくならずに後に残る意味です。", "example_en": "Only a few questions remain.", "example_ja": "残っている問題はわずかだ。" }
+    ],
+    "warn": [
+      "remain は補語をとる（remain ＋ 形容詞）。stay も似た使い方をするが、remain の方が形式的。",
+      "名詞 remains は『残り・残骸・遺跡・遺体』。必ず複数形で使う。"
+    ],
+    "etym_note": "ラテン語 remanere（re-「後ろに」＋ manere「とどまる」＝後に残る）に由来します。permanent（永続的な）の man- と同じ語根です。",
+    "etym_chain": [
+      { "node": "remanere", "sub": "後に残る", "era": "ラテン語" },
+      { "node": "remainer", "sub": "残る", "era": "古フランス語" },
+      { "node": "remain", "sub": "残る・〜のままでいる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "remain silent", "ja": "黙ったままでいる" },
+      { "en": "remain calm", "ja": "冷静なままでいる" },
+      { "en": "remain the same", "ja": "変わらないままだ" },
+      { "en": "it remains to be seen", "ja": "まだわからない・今後次第だ" },
+      { "en": "remain in contact", "ja": "連絡を取り続ける" },
+      { "en": "the remaining time", "ja": "残りの時間" }
+    ],
+    "related": [
+      { "en": "stay", "ja": "とどまる" },
+      { "en": "remains", "ja": "残り・遺跡（名詞）" },
+      { "en": "continue", "ja": "続く" },
+      { "en": "leave", "ja": "去る（反対語）" }
+    ],
+    "faq": [
+      { "q": "remain と stay の違いは？", "a": "どちらも『〜のままでいる・とどまる』ですが、remain はややフォーマルで補語をとる用法が多く、stay は日常会話でよく使われ場所にとどまる意味が強いです。" },
+      { "q": "remains（複数形）の意味は？", "a": "『残り物・残骸・遺跡・遺体』を表します。ancient remains（古代の遺跡）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "Please ___ calm during the emergency.（落ち着いたままで）", "A": "remain", "B": "remove", "C": "remind", "D": "repair", "correct": "A" },
+      { "q": "remain のあとに続けられるのはどれ？", "A": "remain silent", "B": "remain silently", "C": "remain to silent", "D": "remain of silent", "correct": "A" }
+    ]
+  },
+  {
+    "english": "remember",
+    "pron": "rɪˈmembər",
+    "kana": "リメンバー",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 rememorari（思い出す）",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "基本動詞"],
+    "meaning_main": "覚えている・思い出す",
+    "description": "remember の意味・発音・例文・語源を解説。remember doing と remember to do の意味の違いという最重要文法ポイントを丁寧に説明します。",
+    "keywords": ["remember 意味", "remember 発音", "remember doing to do 違い", "remember forget"],
+    "meanings": [
+      { "hinshi": "【動詞】覚えている・記憶している", "note": "I remember her name.（彼女の名前を覚えている）。" },
+      { "hinshi": "【動詞】思い出す", "note": "Do you remember me?（私を覚えていますか）。" }
+    ],
+    "usages": [
+      { "title": "① remember doing（〜したのを覚えている）", "desc": "過去にしたことを覚えている意味です。", "example_en": "I remember meeting him at the party.", "example_ja": "私はパーティーで彼に会ったのを覚えている。" },
+      { "title": "② remember to do（忘れずに〜する）", "desc": "これからすべきことを忘れない意味です。", "example_en": "Remember to lock the door when you leave.", "example_ja": "出るときは忘れずにドアにかぎをかけてね。" }
+    ],
+    "warn": [
+      "remember doing は『（過去に）〜したのを覚えている』、remember to do は『（これから）忘れずに〜する』。時間の向きが逆。",
+      "反対語は forget（忘れる）。forget も同じく doing / to do で意味が変わる。"
+    ],
+    "etym_note": "ラテン語 rememorari（re-「再び」＋ memor「心に留める」＝思い出す）に由来します。memory（記憶）や memorial（記念の）と同じ語根です。",
+    "etym_chain": [
+      { "node": "rememorari", "sub": "思い出す", "era": "後期ラテン語" },
+      { "node": "remembren", "sub": "思い出す", "era": "中英語" },
+      { "node": "remember", "sub": "覚えている・思い出す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "remember doing", "ja": "〜したのを覚えている" },
+      { "en": "remember to do", "ja": "忘れずに〜する" },
+      { "en": "remember someone's name", "ja": "人の名前を覚えている" },
+      { "en": "as far as I remember", "ja": "私の覚えている限り" },
+      { "en": "if I remember correctly", "ja": "私の記憶が正しければ" },
+      { "en": "Remember me to ...", "ja": "〜によろしくお伝えください" }
+    ],
+    "related": [
+      { "en": "forget", "ja": "忘れる（反対語）" },
+      { "en": "memory", "ja": "記憶" },
+      { "en": "remind", "ja": "思い出させる" },
+      { "en": "recall", "ja": "思い出す" }
+    ],
+    "faq": [
+      { "q": "remember doing と remember to do の違いは？", "a": "remember doing は『（過去に）〜したのを覚えている』、remember to do は『（これから）忘れずに〜する』です。意味の向きが反対になります。" },
+      { "q": "remember と remind の違いは？", "a": "remember は『自分が覚えている・思い出す』、remind は『（人に）思い出させる』です。remind は誰かに気づかせるときに使います。" }
+    ],
+    "quiz": [
+      { "q": "I remember ___ him at the party.（会ったのを覚えている）", "A": "meeting", "B": "to meet", "C": "meet", "D": "met", "correct": "A" },
+      { "q": "___ to lock the door.（忘れずにかぎをかけて）に入るのは？", "A": "Remember", "B": "Remind", "C": "Remove", "D": "Remain", "correct": "A" }
+    ]
+  },
+  {
+    "english": "remind",
+    "pron": "rɪˈmaɪnd",
+    "kana": "リマインド",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ mind（心・思い）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "基本動詞"],
+    "meaning_main": "思い出させる・気づかせる",
+    "description": "remind の意味・発音・例文・語源を解説。remind A of B / remind A to do の使い分けや、remember との違いも分かりやすく紹介します。",
+    "keywords": ["remind 意味", "remind 発音", "remind of to 使い方", "remind remember 違い"],
+    "meanings": [
+      { "hinshi": "【動詞】（人に）思い出させる", "note": "remind someone to do（〜するよう念を押す）。" },
+      { "hinshi": "【動詞】（〜を）連想させる", "note": "remind A of B（AにBを思い出させる・連想させる）。" }
+    ],
+    "usages": [
+      { "title": "① remind A to do（〜するよう念を押す）", "desc": "人に忘れないよう注意・確認する意味です。", "example_en": "Please remind me to call her tomorrow.", "example_ja": "明日彼女に電話するよう私に念を押してね。" },
+      { "title": "② remind A of B（AにBを連想させる）", "desc": "何かを見て別のものを思い出すときに使います。", "example_en": "This song reminds me of my childhood.", "example_ja": "この歌は私に子ども時代を思い出させる。" }
+    ],
+    "warn": [
+      "remind は必ず『人』を目的語にとる（remind me）。remember は人を目的語にとらない。",
+      "remind A of B（連想させる）と remind A to do（念を押す）で前置詞・形が変わる。"
+    ],
+    "etym_note": "接頭辞 re-（再び）と mind（心・思い）を組み合わせた語で、「再び心に上らせる＝思い出させる」が原義です。比較的新しい英語独自の造語です。",
+    "etym_chain": [
+      { "node": "mind", "sub": "心・思い", "era": "古英語" },
+      { "node": "re- + mind", "sub": "再び心に上らせる", "era": "近代英語" },
+      { "node": "remind", "sub": "思い出させる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "remind A of B", "ja": "AにBを思い出させる" },
+      { "en": "remind A to do", "ja": "Aに〜するよう念を押す" },
+      { "en": "remind me", "ja": "私に思い出させて" },
+      { "en": "that reminds me", "ja": "それで思い出した" },
+      { "en": "a gentle reminder", "ja": "やんわりした念押し" },
+      { "en": "just a reminder", "ja": "念のためのお知らせ" }
+    ],
+    "related": [
+      { "en": "remember", "ja": "覚えている・思い出す" },
+      { "en": "reminder", "ja": "思い出させるもの・通知" },
+      { "en": "recall", "ja": "思い出す" },
+      { "en": "mind", "ja": "心・気にする" }
+    ],
+    "faq": [
+      { "q": "remind と remember の違いは？", "a": "remember は『自分が思い出す・覚えている』、remind は『（人に）思い出させる』です。remind は必ず人を目的語にとります。" },
+      { "q": "remind A of B と remind A to do の違いは？", "a": "of B は『AにBを連想させる』、to do は『Aに〜するよう念を押す』です。" }
+    ],
+    "quiz": [
+      { "q": "This song ___ me of my childhood.（子ども時代を思い出させる）", "A": "reminds", "B": "remembers", "C": "remains", "D": "removes", "correct": "A" },
+      { "q": "Please ___ me to call her.（電話するよう念を押して）", "A": "remind", "B": "remember", "C": "remain", "D": "repair", "correct": "A" }
+    ]
+  },
+  {
+    "english": "remove",
+    "pron": "rɪˈmuːv",
+    "kana": "リムーヴ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 removere（離して動かす）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "基本動詞"],
+    "meaning_main": "取り除く・移動させる・脱ぐ",
+    "description": "remove の意味・発音・例文・語源を解説。remove A from B の使い方や、move との関係、名詞 removal も分かりやすく紹介します。",
+    "keywords": ["remove 意味", "remove 発音", "remove from 使い方", "removal 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】取り除く・除去する", "note": "remove a stain（しみを取り除く）。" },
+      { "hinshi": "【動詞】（衣服を）脱ぐ", "note": "remove your shoes（靴を脱ぐ）。ややフォーマル。" },
+      { "hinshi": "【動詞】移動させる・解任する", "note": "remove someone from a post（職から外す）。" }
+    ],
+    "usages": [
+      { "title": "① 「取り除く」として", "desc": "不要なものを取り去る基本の意味です。", "example_en": "Please remove your name from the list.", "example_ja": "リストからあなたの名前を削除してください。" },
+      { "title": "② 「脱ぐ・外す」として", "desc": "靴・帽子などを取る、ややかたい言い方です。", "example_en": "Please remove your shoes before entering.", "example_ja": "入る前に靴を脱いでください。" }
+    ],
+    "warn": [
+      "「AをBから取り除く」は remove A from B。take off（脱ぐ）より remove はフォーマル。",
+      "名詞は removal（除去・撤去・引っ越し）。発音は『リムーヴァル』。"
+    ],
+    "etym_note": "ラテン語 removere（re-「離れて」＋ movere「動かす」＝離して動かす）に由来します。move（動く）と同じ語根で、「別の場所へ動かして取り去る」が原義です。",
+    "etym_chain": [
+      { "node": "removere", "sub": "離して動かす", "era": "ラテン語" },
+      { "node": "remuven", "sub": "取り除く", "era": "中英語" },
+      { "node": "remove", "sub": "取り除く・移動させる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "remove A from B", "ja": "AをBから取り除く" },
+      { "en": "remove a stain", "ja": "しみを取り除く" },
+      { "en": "remove your shoes", "ja": "靴を脱ぐ" },
+      { "en": "remove an obstacle", "ja": "障害を取り除く" },
+      { "en": "far removed from", "ja": "〜とかけ離れた" },
+      { "en": "remove doubt", "ja": "疑いを晴らす" }
+    ],
+    "related": [
+      { "en": "removal", "ja": "除去・撤去（名詞）" },
+      { "en": "delete", "ja": "削除する" },
+      { "en": "take off", "ja": "脱ぐ・外す" },
+      { "en": "eliminate", "ja": "除去する" }
+    ],
+    "faq": [
+      { "q": "remove と take off の違いは？", "a": "どちらも『脱ぐ・外す』に使えますが、remove はフォーマルで掲示や指示に多く、take off は日常会話でよく使われます。" },
+      { "q": "remove の名詞形は？", "a": "removal（除去・撤去・引っ越し）です。stain removal（しみ抜き）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "Please ___ your shoes before entering.（靴を脱いで）", "A": "remove", "B": "remind", "C": "remain", "D": "remember", "correct": "A" },
+      { "q": "「AをBから取り除く」の正しい形は？", "A": "remove A from B", "B": "remove A to B", "C": "remove A of B", "D": "remove A at B", "correct": "A" }
+    ]
+  },
+  {
+    "english": "repair",
+    "pron": "rɪˈper",
+    "kana": "リペア",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "ラテン語 reparare（再び整える）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "基本動詞"],
+    "meaning_main": "修理する・直す／修理",
+    "description": "repair の意味・発音・例文・語源を解説。fix との違いや、under repair（修理中）などの定番表現も分かりやすく紹介します。",
+    "keywords": ["repair 意味", "repair 発音", "repair fix 違い", "under repair 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】修理する・直す", "note": "repair a car（車を修理する）。機械や建物などを直す。" },
+      { "hinshi": "【名詞】修理", "note": "make repairs（修理する）。under repair（修理中）。" }
+    ],
+    "usages": [
+      { "title": "① 「修理する」として", "desc": "壊れた物を直す基本の意味です。", "example_en": "He repaired the broken bicycle.", "example_ja": "彼は壊れた自転車を修理した。" },
+      { "title": "② 名詞「修理」として", "desc": "under repair（修理中）など状態を表します。", "example_en": "The bridge is under repair.", "example_ja": "その橋は修理中だ。" }
+    ],
+    "warn": [
+      "repair は機械・建物など大きめ・正式な修理に多い。fix は日常的で口語的、幅広く使える。",
+      "「修理中」は under repair。beyond repair は『修理不能で』。"
+    ],
+    "etym_note": "ラテン語 reparare（re-「再び」＋ parare「整える・用意する」＝再び整える）に由来します。prepare（準備する）と同じ語根で、「もとどおりに整える」が原義です。",
+    "etym_chain": [
+      { "node": "reparare", "sub": "再び整える", "era": "ラテン語" },
+      { "node": "reparer", "sub": "修理する", "era": "古フランス語" },
+      { "node": "repair", "sub": "修理する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "repair a car", "ja": "車を修理する" },
+      { "en": "under repair", "ja": "修理中で" },
+      { "en": "make repairs", "ja": "修理をする" },
+      { "en": "beyond repair", "ja": "修理不能で" },
+      { "en": "a repair shop", "ja": "修理店" },
+      { "en": "in good repair", "ja": "手入れの行き届いた状態で" }
+    ],
+    "related": [
+      { "en": "fix", "ja": "直す・修理する" },
+      { "en": "mend", "ja": "繕う・直す" },
+      { "en": "broken", "ja": "壊れた" },
+      { "en": "maintain", "ja": "維持・整備する" }
+    ],
+    "faq": [
+      { "q": "repair と fix の違いは？", "a": "意味は近いですが、repair は機械・建物などの正式・本格的な修理に、fix は日常的でくだけた幅広い『直す』に使われます。" },
+      { "q": "「修理中」は英語で？", "a": "under repair と言います。The elevator is under repair.（エレベーターは修理中）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "He ___ the broken bicycle.（壊れた自転車を修理した）", "A": "repaired", "B": "removed", "C": "remained", "D": "reminded", "correct": "A" },
+      { "q": "「修理中で」を表すのはどれ？", "A": "under repair", "B": "on repair", "C": "in repair", "D": "at repair", "correct": "A" }
+    ]
+  },
+  {
+    "english": "repeat",
+    "pron": "rɪˈpiːt",
+    "kana": "リピート",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "ラテン語 repetere（再び求める）",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "基本動詞"],
+    "meaning_main": "繰り返す・繰り返して言う",
+    "description": "repeat の意味・発音・例文・語源を解説。授業でよく使う Repeat after me. や、名詞 repetition、形容詞 repeated も紹介します。",
+    "keywords": ["repeat 意味", "repeat 発音", "repeat after me", "repetition 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】繰り返す・もう一度する", "note": "同じことを再び行う。repeat a mistake（同じ失敗を繰り返す）。" },
+      { "hinshi": "【動詞】繰り返して言う・復唱する", "note": "Could you repeat that?（もう一度言ってもらえますか）。" }
+    ],
+    "usages": [
+      { "title": "① 「繰り返す」として", "desc": "同じ動作・言葉をもう一度行う基本の意味です。", "example_en": "Could you repeat the question, please?", "example_ja": "質問をもう一度言っていただけますか。" },
+      { "title": "② 授業表現 Repeat after me として", "desc": "「私のあとについて言って」という定番フレーズです。", "example_en": "Repeat after me: \"How are you?\"", "example_ja": "私のあとに続けて言って：「How are you?」" }
+    ],
+    "warn": [
+      "名詞は repetition（繰り返し）。発音は『レピティション』でアクセント位置が動く。",
+      "repeat は『繰り返す』が中心。何度も言うときは say again も使える。"
+    ],
+    "etym_note": "ラテン語 repetere（re-「再び」＋ petere「求める・向かう」＝再び求める）に由来します。compete・appetite などと同じ pet-（求める）の語根です。",
+    "etym_chain": [
+      { "node": "repetere", "sub": "再び求める", "era": "ラテン語" },
+      { "node": "repeter", "sub": "繰り返す", "era": "古フランス語" },
+      { "node": "repeat", "sub": "繰り返す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Repeat after me.", "ja": "私のあとについて言って" },
+      { "en": "repeat a mistake", "ja": "同じ失敗を繰り返す" },
+      { "en": "Could you repeat that?", "ja": "もう一度言ってもらえますか" },
+      { "en": "repeat itself", "ja": "（歴史などが）繰り返す" },
+      { "en": "on repeat", "ja": "リピート再生で" },
+      { "en": "a repeat customer", "ja": "リピーター・常連客" }
+    ],
+    "related": [
+      { "en": "repetition", "ja": "繰り返し（名詞）" },
+      { "en": "repeated", "ja": "繰り返された（形容詞）" },
+      { "en": "again", "ja": "再び" },
+      { "en": "copy", "ja": "まねる・複製する" }
+    ],
+    "faq": [
+      { "q": "repeat の名詞形は？", "a": "repetition（繰り返し）です。発音やアクセントが変わるので注意しましょう。" },
+      { "q": "Repeat after me. とは？", "a": "授業などで『私のあとについて（同じように）言ってください』という定番の指示表現です。" }
+    ],
+    "quiz": [
+      { "q": "Could you ___ the question, please?（もう一度言って）", "A": "repeat", "B": "repair", "C": "reply", "D": "report", "correct": "A" },
+      { "q": "repeat の名詞形はどれ？", "A": "repeatment", "B": "repetition", "C": "repeating", "D": "repeatness", "correct": "B" }
+    ]
+  },
+  {
+    "english": "replace",
+    "pron": "rɪˈpleɪs",
+    "kana": "リプレイス",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ place（置く）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "基本動詞"],
+    "meaning_main": "取り替える・代わりになる・元に戻す",
+    "description": "replace の意味・発音・例文・語源を解説。replace A with B の語順という重要ポイントや、名詞 replacement も分かりやすく紹介します。",
+    "keywords": ["replace 意味", "replace 発音", "replace with by 使い方", "replacement 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】取り替える・交換する", "note": "replace A with B（AをBと取り替える）。" },
+      { "hinshi": "【動詞】〜の代わりになる・後任になる", "note": "Robots may replace workers.（ロボットが労働者に取って代わるかも）。" },
+      { "hinshi": "【動詞】元の場所に戻す", "note": "replace the book on the shelf（本を棚に戻す）。" }
+    ],
+    "usages": [
+      { "title": "① replace A with B（AをBに取り替える）", "desc": "古いものを新しいものに替えるときの基本形です。", "example_en": "We replaced the old computer with a new one.", "example_ja": "私たちは古いパソコンを新しいものに取り替えた。" },
+      { "title": "② 「〜に取って代わる」として", "desc": "あるものが別のものの代わりになる意味です。", "example_en": "Nothing can replace a mother's love.", "example_ja": "母の愛に代わるものは何もない。" }
+    ],
+    "warn": [
+      "「AをBに取り替える」は replace A with B（古い A を新しい B に）。語順と前置詞に注意。",
+      "名詞は replacement（交換・後任・代替品）。"
+    ],
+    "etym_note": "接頭辞 re-（再び）と place（置く）を組み合わせた語で、もとは「元の場所に戻す」、そこから「別のものを代わりに置く＝取り替える」へと意味が広がりました。",
+    "etym_chain": [
+      { "node": "place", "sub": "置く・場所", "era": "古フランス語" },
+      { "node": "re- + place", "sub": "再び置く", "era": "近代英語" },
+      { "node": "replace", "sub": "取り替える・代わる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "replace A with B", "ja": "AをBに取り替える" },
+      { "en": "replace the battery", "ja": "電池を交換する" },
+      { "en": "be replaced by", "ja": "〜に取って代わられる" },
+      { "en": "replace a worker", "ja": "労働者の代わりをする" },
+      { "en": "a replacement part", "ja": "交換部品" },
+      { "en": "irreplaceable", "ja": "かけがえのない" }
+    ],
+    "related": [
+      { "en": "replacement", "ja": "交換・後任（名詞）" },
+      { "en": "substitute", "ja": "代わりに用いる・代替" },
+      { "en": "change", "ja": "変える・取り替える" },
+      { "en": "exchange", "ja": "交換する" }
+    ],
+    "faq": [
+      { "q": "replace A with B の語順は？", "a": "『取り除く方（古い）』が A、『新しく置く方』が B です。replace the old phone with a new one（古い電話を新しいものに替える）。" },
+      { "q": "replace の名詞形は？", "a": "replacement（交換・後任・代替品）です。a replacement for him（彼の後任）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "We replaced the old computer ___ a new one.（新しいものに替えた）", "A": "with", "B": "to", "C": "of", "D": "into", "correct": "A" },
+      { "q": "replace の名詞形はどれ？", "A": "replacing", "B": "replacement", "C": "replacation", "D": "replaceness", "correct": "B" }
+    ]
+  },
+  {
+    "english": "reply",
+    "pron": "rɪˈplaɪ",
+    "kana": "リプライ",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "古フランス語 replier（折り返す）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "基本動詞"],
+    "meaning_main": "返事をする・答える／返事",
+    "description": "reply の意味・発音・例文・語源を解説。reply to の使い方や、answer・respond との違い、名詞用法も分かりやすく紹介します。",
+    "keywords": ["reply 意味", "reply 発音", "reply to 使い方", "reply answer 違い"],
+    "meanings": [
+      { "hinshi": "【動詞】返事をする・答える", "note": "reply to an email（メールに返信する）。" },
+      { "hinshi": "【名詞】返事・回答", "note": "a reply to my question（私の質問への返事）。" }
+    ],
+    "usages": [
+      { "title": "① 「返事をする」として", "desc": "reply to〜で「〜に返事する」を表します。", "example_en": "She replied to my message right away.", "example_ja": "彼女はすぐに私のメッセージに返信した。" },
+      { "title": "② 名詞「返事」として", "desc": "返答そのものを表します。in reply to（〜への返事として）。", "example_en": "I am writing in reply to your letter.", "example_ja": "あなたのお手紙への返事として書いています。" }
+    ],
+    "warn": [
+      "「〜に返事する」は reply to。answer は answer the question のように直接目的語をとり to は不要。",
+      "respond も reply に近いがややフォーマル。respond to の形で使う。"
+    ],
+    "etym_note": "古フランス語 replier（re-「再び」＋ plier「折る」＝折り返す）に由来します。「言葉を相手に折り返す＝答える」が原義です。fold（折る）系の plicare が語根です。",
+    "etym_chain": [
+      { "node": "replicare", "sub": "折り返す", "era": "ラテン語" },
+      { "node": "replier", "sub": "答える", "era": "古フランス語" },
+      { "node": "reply", "sub": "返事をする", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reply to", "ja": "〜に返事する" },
+      { "en": "reply to an email", "ja": "メールに返信する" },
+      { "en": "in reply to", "ja": "〜への返事として" },
+      { "en": "a quick reply", "ja": "すばやい返信" },
+      { "en": "reply all", "ja": "全員に返信" },
+      { "en": "await a reply", "ja": "返事を待つ" }
+    ],
+    "related": [
+      { "en": "answer", "ja": "答える・答え" },
+      { "en": "respond", "ja": "応答する" },
+      { "en": "response", "ja": "応答・反応" },
+      { "en": "ask", "ja": "尋ねる（反対の動き）" }
+    ],
+    "faq": [
+      { "q": "reply と answer の違いは？", "a": "意味は近いですが、reply は『reply to＋相手・手紙』のように to を伴い、answer は『answer the question』のように直接目的語をとります。" },
+      { "q": "in reply to とは？", "a": "『〜への返事として』という意味で、手紙やメールの書き出しによく使われます。" }
+    ],
+    "quiz": [
+      { "q": "She replied ___ my message right away.（すぐに返信した）", "A": "to", "B": "for", "C": "at", "D": "of", "correct": "A" },
+      { "q": "reply と同じく『答える』を表す動詞はどれ？", "A": "respond", "B": "require", "C": "remove", "D": "remain", "correct": "A" }
+    ]
+  },
+  {
+    "english": "report",
+    "pron": "rɪˈpɔːrt",
+    "kana": "リポート",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "ラテン語 reportare（持ち帰る・伝える）",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "基本語"],
+    "meaning_main": "報告・報道／報告する・報道する",
+    "description": "report の意味・発音・例文・語源を解説。「レポート（報告書）」だけでなく報道・通報の意味や、reporter（記者）も分かりやすく紹介します。",
+    "keywords": ["report 意味", "report 発音", "report 報告 報道", "reporter 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】報告・報告書・報道", "note": "a weather report（天気予報）、a news report（ニュース報道）。" },
+      { "hinshi": "【動詞】報告する・報道する", "note": "report the news（ニュースを伝える）。" },
+      { "hinshi": "【動詞】通報する・届け出る", "note": "report a crime（犯罪を通報する）。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「報告・報道」として", "desc": "報告書やニュース報道を表す基本の意味です。", "example_en": "I have to write a report about the experiment.", "example_ja": "私はその実験についてレポートを書かなければならない。" },
+      { "title": "② 動詞「報告・通報する」として", "desc": "事実を伝える・届け出る意味です。", "example_en": "She reported the accident to the police.", "example_ja": "彼女は事故を警察に通報した。" }
+    ],
+    "warn": [
+      "日本語の『レポート（学校の課題）』も report だが、英語では assignment / paper と言うことも多い。",
+      "report to＋人は『〜に報告する／〜の指揮下にある』。report on＋話題は『〜について報告する』。"
+    ],
+    "etym_note": "ラテン語 reportare（re-「戻して」＋ portare「運ぶ」＝持ち帰る・伝える）に由来します。「情報を持ち帰って伝える」が原義です。port（運ぶ）系の語です。",
+    "etym_chain": [
+      { "node": "reportare", "sub": "持ち帰る・伝える", "era": "ラテン語" },
+      { "node": "reporter", "sub": "報告する", "era": "古フランス語" },
+      { "node": "report", "sub": "報告・報道する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a weather report", "ja": "天気予報" },
+      { "en": "a news report", "ja": "ニュース報道" },
+      { "en": "write a report", "ja": "報告書を書く" },
+      { "en": "report a crime", "ja": "犯罪を通報する" },
+      { "en": "report on", "ja": "〜について報告する" },
+      { "en": "a report card", "ja": "成績表・通知表" }
+    ],
+    "related": [
+      { "en": "reporter", "ja": "記者・リポーター" },
+      { "en": "news", "ja": "ニュース" },
+      { "en": "announce", "ja": "発表する" },
+      { "en": "inform", "ja": "知らせる" }
+    ],
+    "faq": [
+      { "q": "report on と report to の違いは？", "a": "report on＋話題は『〜について報告する』、report to＋人は『〜に報告する／〜の部下である』です。" },
+      { "q": "「成績表」を英語で？", "a": "a report card と言います。学校が出す通知表のことです。" }
+    ],
+    "quiz": [
+      { "q": "I have to write a ___ about the experiment.（レポートを書く）", "A": "report", "B": "reply", "C": "repair", "D": "repeat", "correct": "A" },
+      { "q": "「記者」を表すのはどれ？", "A": "reporter", "B": "report card", "C": "reportment", "D": "reportable", "correct": "A" }
+    ]
+  }
+]

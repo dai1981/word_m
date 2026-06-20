@@ -1,0 +1,536 @@
+[
+  {
+    "english": "radar",
+    "pron": "ˈreɪdɑːr",
+    "kana": "レイダー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "radio detecting and ranging の頭字語",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "科学技術"],
+    "meaning_main": "レーダー・電波探知機",
+    "description": "radar の意味・発音・例文・語源を解説。radio detecting and ranging の頭字語であることや、under the radar（気づかれずに）も分かりやすく紹介します。",
+    "keywords": ["radar 意味", "radar 発音", "radar 語源 頭字語", "under the radar 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】レーダー・電波探知機", "note": "電波で物体の位置や速さを探る装置。" },
+      { "hinshi": "【名詞】（比喩）感知力・注意の網", "note": "on someone's radar（〜の意識・関心の範囲にある）。" }
+    ],
+    "usages": [
+      { "title": "① 装置の「レーダー」として", "desc": "航空機や船、気象観測などで使う探知装置です。", "example_en": "The plane was tracked by radar.", "example_ja": "その飛行機はレーダーで追跡された。" },
+      { "title": "② 比喩表現として", "desc": "under the radar（気づかれずに）などで使います。", "example_en": "The company grew under the radar for years.", "example_ja": "その会社は何年も目立たずに成長した。" }
+    ],
+    "warn": [
+      "radar は radio detecting and ranging の頭字語。今は普通名詞として小文字で書く。",
+      "under the radar は『（注目されず）こっそりと』、on the radar は『注目・関心の範囲にある』。"
+    ],
+    "etym_note": "radio detecting and ranging（電波による探知と測距）の頭文字を取った頭字語で、第二次世界大戦中に作られた比較的新しい語です。前後どちらから読んでも同じ回文でもあります。",
+    "etym_chain": [
+      { "node": "radio detecting and ranging", "sub": "電波探知測距", "era": "1940年代" },
+      { "node": "RADAR", "sub": "頭字語", "era": "20世紀" },
+      { "node": "radar", "sub": "レーダー", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "track by radar", "ja": "レーダーで追跡する" },
+      { "en": "a radar screen", "ja": "レーダー画面" },
+      { "en": "under the radar", "ja": "気づかれずに・こっそりと" },
+      { "en": "on the radar", "ja": "注目・関心の範囲に" },
+      { "en": "a radar system", "ja": "レーダーシステム" },
+      { "en": "weather radar", "ja": "気象レーダー" }
+    ],
+    "related": [
+      { "en": "signal", "ja": "信号・電波" },
+      { "en": "detect", "ja": "探知する" },
+      { "en": "sonar", "ja": "ソナー（音波探知）" },
+      { "en": "radio", "ja": "無線・ラジオ" }
+    ],
+    "faq": [
+      { "q": "radar の語源は？", "a": "radio detecting and ranging（電波による探知と測距）の頭字語です。第二次大戦中に作られました。" },
+      { "q": "under the radar とは？", "a": "『注目されずに・こっそりと』という意味の比喩表現です。レーダーに映らない低空飛行のイメージです。" }
+    ],
+    "quiz": [
+      { "q": "The plane was tracked by ___.（レーダーで追跡）", "A": "radar", "B": "radio", "C": "rader", "D": "radius", "correct": "A" },
+      { "q": "「気づかれずに・こっそり」を表すのはどれ？", "A": "under the radar", "B": "on the radar", "C": "over the radar", "D": "in the radar", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rage",
+    "pron": "reɪdʒ",
+    "kana": "レイジ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "ラテン語 rabies（激しい怒り・狂気）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "感情"],
+    "meaning_main": "激怒・猛威／激怒する・荒れ狂う",
+    "description": "rage の意味・発音・例文・語源を解説。anger より強い「激怒」のニュアンスや、road rage（あおり運転の怒り）などの表現も分かりやすく紹介します。",
+    "keywords": ["rage 意味", "rage 発音", "rage anger 違い", "road rage 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】激怒・激しい怒り", "note": "anger より強い。in a rage（激怒して）。" },
+      { "hinshi": "【動詞】激怒する・荒れ狂う", "note": "嵐・戦い・感情などが激しく荒れる。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「激怒」として", "desc": "抑えきれない強い怒りを表します。", "example_en": "He was shaking with rage.", "example_ja": "彼は怒りで震えていた。" },
+      { "title": "② 動詞「荒れ狂う」として", "desc": "嵐や争いが激しく続く意味でも使います。", "example_en": "The storm raged all night.", "example_ja": "嵐は一晩中荒れ狂った。" }
+    ],
+    "warn": [
+      "rage は anger より強い『激怒』。in a rage（激怒して）、fly into a rage（かっとなる）。",
+      "all the rage は『大流行して』という別の慣用句。"
+    ],
+    "etym_note": "ラテン語 rabies（激しい怒り・狂気。rabere「荒れ狂う」から）に由来し、古フランス語 rage を経て英語に入りました。rabies（狂犬病）と同じ語源です。",
+    "etym_chain": [
+      { "node": "rabies", "sub": "激しい怒り・狂気", "era": "ラテン語" },
+      { "node": "rage", "sub": "激怒", "era": "古フランス語" },
+      { "node": "rage", "sub": "激怒・荒れ狂う", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "in a rage", "ja": "激怒して" },
+      { "en": "fly into a rage", "ja": "かっとなる" },
+      { "en": "road rage", "ja": "あおり運転（運転中の激怒）" },
+      { "en": "shake with rage", "ja": "怒りで震える" },
+      { "en": "all the rage", "ja": "大流行して" },
+      { "en": "a fit of rage", "ja": "怒りの発作" }
+    ],
+    "related": [
+      { "en": "anger", "ja": "怒り" },
+      { "en": "fury", "ja": "激怒" },
+      { "en": "temper", "ja": "かんしゃく・気性" },
+      { "en": "calm", "ja": "落ち着いた（反対概念）" }
+    ],
+    "faq": [
+      { "q": "rage と anger の違いは？", "a": "rage は anger（怒り）よりはるかに強い『激怒・抑えきれない怒り』を表します。" },
+      { "q": "road rage とは？", "a": "運転中に他のドライバーに対して起こす『激しい怒り・あおり運転』のことです。" }
+    ],
+    "quiz": [
+      { "q": "He was shaking with ___.（怒りで震えていた）", "A": "rage", "B": "rags", "C": "rain", "D": "race", "correct": "A" },
+      { "q": "「かっとなる」を表すのはどれ？", "A": "fly into a rage", "B": "fly into a race", "C": "fly into a rain", "D": "fly into a rank", "correct": "A" }
+    ]
+  },
+  {
+    "english": "raid",
+    "pron": "reɪd",
+    "kana": "レイド",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "古英語 rād（馬で行くこと・遠征）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本語"],
+    "meaning_main": "襲撃・手入れ／襲撃する・急襲する",
+    "description": "raid の意味・発音・例文・語源を解説。「襲撃」「（警察の）手入れ」の意味や、air raid（空襲）、road と同語源という由来も分かりやすく紹介します。",
+    "keywords": ["raid 意味", "raid 発音", "air raid 意味", "raid 襲撃 手入れ"],
+    "meanings": [
+      { "hinshi": "【名詞】襲撃・急襲", "note": "突然の攻撃。an air raid（空襲）。" },
+      { "hinshi": "【名詞】（警察の）手入れ・がさ入れ", "note": "a police raid（警察の手入れ）。" },
+      { "hinshi": "【動詞】襲撃する・手入れする", "note": "raid a bank（銀行を襲う）。" }
+    ],
+    "usages": [
+      { "title": "① 「襲撃・空襲」として", "desc": "突然の攻撃を表します。", "example_en": "The city suffered heavy air raids during the war.", "example_ja": "その都市は戦争中に激しい空襲を受けた。" },
+      { "title": "② 「（警察の）手入れ」として", "desc": "警察などが突然踏み込む意味です。", "example_en": "Police carried out a raid on the building.", "example_ja": "警察はその建物に手入れを行った。" }
+    ],
+    "warn": [
+      "an air raid は『空襲』、a police raid は『警察の手入れ』。文脈で意味を判断する。",
+      "raid と road は同じ古英語 rād（馬で行くこと）に由来する二重語。"
+    ],
+    "etym_note": "古英語 rād（馬で行くこと・遠征）に由来し、road（道）と同じ語源の二重語です。スコットランド方言で『騎馬での襲撃』の意味が残り、近代に一般化しました。",
+    "etym_chain": [
+      { "node": "rād", "sub": "馬で行くこと・遠征", "era": "古英語" },
+      { "node": "raid", "sub": "騎馬の襲撃", "era": "スコットランド方言" },
+      { "node": "raid", "sub": "襲撃・手入れ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an air raid", "ja": "空襲" },
+      { "en": "a police raid", "ja": "警察の手入れ" },
+      { "en": "carry out a raid", "ja": "襲撃を行う" },
+      { "en": "raid a bank", "ja": "銀行を襲う" },
+      { "en": "a dawn raid", "ja": "早朝の急襲" },
+      { "en": "an air-raid shelter", "ja": "防空壕" }
+    ],
+    "related": [
+      { "en": "attack", "ja": "攻撃" },
+      { "en": "invade", "ja": "侵略する" },
+      { "en": "ambush", "ja": "待ち伏せ" },
+      { "en": "robbery", "ja": "強盗" }
+    ],
+    "faq": [
+      { "q": "raid のいろいろな意味は？", "a": "『襲撃・急襲』『（軍の）空襲』『（警察の）手入れ』など、突然押し入る行為を幅広く表します。" },
+      { "q": "raid と road は関係ある？", "a": "はい。どちらも古英語 rād（馬で行くこと）に由来する二重語です。" }
+    ],
+    "quiz": [
+      { "q": "The city suffered heavy air ___ during the war.（空襲）", "A": "raids", "B": "roads", "C": "rains", "D": "races", "correct": "A" },
+      { "q": "「警察の手入れ」を表すのはどれ？", "A": "a police raid", "B": "a police road", "C": "a police rail", "D": "a police rate", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rally",
+    "pron": "ˈræli",
+    "kana": "ラリー",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "フランス語 rallier（再び集める）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "多義語"],
+    "meaning_main": "集会・（打ち合いの）ラリー／集結する・持ち直す",
+    "description": "rally の意味・発音・例文・語源を解説。「集会」「ラリー」の名詞用法や、「（人を）結集させる・回復する」の動詞用法も分かりやすく紹介します。",
+    "keywords": ["rally 意味", "rally 発音", "rally 集会", "rally 持ち直す"],
+    "meanings": [
+      { "hinshi": "【名詞】集会・大会", "note": "政治集会やイベント。a political rally（政治集会）。" },
+      { "hinshi": "【名詞】（テニスなどの）ラリー・打ち合い", "note": "球を続けて打ち合うこと。" },
+      { "hinshi": "【動詞】結集する・持ち直す", "note": "rally support（支持を集める）、prices rallied（価格が持ち直した）。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「集会」として", "desc": "人々が目的のために集まる催しを表します。", "example_en": "Thousands of people attended the rally.", "example_ja": "何千人もの人がその集会に参加した。" },
+      { "title": "② 動詞「結集する・持ち直す」として", "desc": "人を集める、または劣勢から回復する意味です。", "example_en": "The team rallied to win the game.", "example_ja": "チームは盛り返して試合に勝った。" }
+    ],
+    "warn": [
+      "rally は『集会』『（球技の）ラリー』『（劣勢からの）持ち直し』など意味が広い。文脈で判断する。",
+      "rally round / around は『（困っている人を）支えに集まる』という句動詞。"
+    ],
+    "etym_note": "フランス語 rallier（re-「再び」＋ allier「結びつける」＝再び集める）に由来します。ally（同盟する）と同じ語源で、「ばらけたものを再び集める」が原義です。",
+    "etym_chain": [
+      { "node": "rallier", "sub": "再び集める", "era": "フランス語" },
+      { "node": "rally", "sub": "結集する", "era": "近代英語" },
+      { "node": "rally", "sub": "集会・持ち直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a political rally", "ja": "政治集会" },
+      { "en": "rally support", "ja": "支持を集める" },
+      { "en": "rally round", "ja": "支えに集まる" },
+      { "en": "a long rally", "ja": "長いラリー（球技）" },
+      { "en": "stage a rally", "ja": "巻き返す・反撃する" },
+      { "en": "a peace rally", "ja": "平和集会" }
+    ],
+    "related": [
+      { "en": "gathering", "ja": "集まり" },
+      { "en": "protest", "ja": "抗議（集会）" },
+      { "en": "recover", "ja": "回復する" },
+      { "en": "unite", "ja": "団結する" }
+    ],
+    "faq": [
+      { "q": "rally の主な意味は？", "a": "①『集会・大会』、②球技の『ラリー（打ち合い）』、③『（人を）結集させる・（劣勢から）持ち直す』など、文脈で意味が変わります。" },
+      { "q": "rally round とは？", "a": "『（困っている人を）支えようと集まる』という意味の句動詞です。" }
+    ],
+    "quiz": [
+      { "q": "Thousands of people attended the ___.（集会に参加）", "A": "rally", "B": "really", "C": "rail", "D": "rank", "correct": "A" },
+      { "q": "The team ___ to win the game.（盛り返して勝った）", "A": "rallied", "B": "ruined", "C": "ranked", "D": "raided", "correct": "A" }
+    ]
+  },
+  {
+    "english": "random",
+    "pron": "ˈrændəm",
+    "kana": "ランダム",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "古フランス語 randon（勢い・無秩序）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "形容詞"],
+    "meaning_main": "無作為の・手当たりしだいの・適当な",
+    "description": "random の意味・発音・例文・語源を解説。at random（無作為に）の使い方や、副詞 randomly、口語の「脈絡のない」用法も分かりやすく紹介します。",
+    "keywords": ["random 意味", "random 発音", "at random 意味", "randomly 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】無作為の・任意の", "note": "規則性なく選ばれた。a random sample（無作為標本）。" },
+      { "hinshi": "【形容詞】（口語）脈絡のない・思いがけない", "note": "a random question（唐突な質問）。" }
+    ],
+    "usages": [
+      { "title": "① 「無作為の」として", "desc": "規則やねらいなく選ぶことを表します。", "example_en": "We chose the winners in a random order.", "example_ja": "私たちは無作為な順番で当選者を選んだ。" },
+      { "title": "② at random（無作為に）として", "desc": "「手当たりしだいに」を表す定番表現です。", "example_en": "The teacher picked students at random.", "example_ja": "先生は無作為に生徒を指名した。" }
+    ],
+    "warn": [
+      "『無作為に』は at random。by random とは言わない。",
+      "副詞は randomly（無作為に）。口語では『脈絡のない・唐突な』の意味でも使う。"
+    ],
+    "etym_note": "古フランス語 randon（勢い・無秩序な突進。randir「速く走る」から）に由来します。もとは『猛スピードで』が原義で、そこから『でたらめに・無作為に』になりました。",
+    "etym_chain": [
+      { "node": "randon", "sub": "勢い・無秩序", "era": "古フランス語" },
+      { "node": "random", "sub": "でたらめに", "era": "中英語" },
+      { "node": "random", "sub": "無作為の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "at random", "ja": "無作為に・手当たりしだいに" },
+      { "en": "a random sample", "ja": "無作為標本" },
+      { "en": "a random choice", "ja": "無作為な選択" },
+      { "en": "in random order", "ja": "ばらばらの順で" },
+      { "en": "a random number", "ja": "乱数" },
+      { "en": "completely random", "ja": "まったくでたらめな" }
+    ],
+    "related": [
+      { "en": "randomly", "ja": "無作為に（副詞）" },
+      { "en": "chance", "ja": "偶然" },
+      { "en": "arbitrary", "ja": "任意の・気まぐれな" },
+      { "en": "regular", "ja": "規則的な（反対概念）" }
+    ],
+    "faq": [
+      { "q": "at random とはどんな意味？", "a": "『無作為に・手当たりしだいに』という意味です。choose at random（無作為に選ぶ）のように使います。" },
+      { "q": "random の口語的な意味は？", "a": "『脈絡のない・唐突な・思いがけない』という意味でも使われます。That was so random!（それ唐突すぎ！）のように言います。" }
+    ],
+    "quiz": [
+      { "q": "The teacher picked students ___ random.（無作為に指名）", "A": "at", "B": "by", "C": "in", "D": "on", "correct": "A" },
+      { "q": "random の副詞形はどれ？", "A": "randomly", "B": "randomily", "C": "randomous", "D": "randomful", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rational",
+    "pron": "ˈræʃənəl",
+    "kana": "ラショナル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 rationalis（理性のある）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "形容詞"],
+    "meaning_main": "理性的な・合理的な・筋の通った",
+    "description": "rational の意味・発音・例文・語源を解説。emotional（感情的な）との対比や、反対語 irrational、reason との関係も分かりやすく紹介します。",
+    "keywords": ["rational 意味", "rational 発音", "rational irrational 反対", "rational emotional 違い"],
+    "meanings": [
+      { "hinshi": "【形容詞】理性的な・合理的な", "note": "感情でなく論理にもとづく。a rational decision（理性的な判断）。" },
+      { "hinshi": "【形容詞】筋の通った・分別のある", "note": "a rational explanation（筋の通った説明）。" }
+    ],
+    "usages": [
+      { "title": "① 「理性的な・合理的な」として", "desc": "感情に流されず論理的な様子を表します。", "example_en": "Try to make a rational decision.", "example_ja": "理性的な判断をするようにしなさい。" },
+      { "title": "② emotional との対比で", "desc": "「感情的」に対する「理性的」を表します。", "example_en": "He stayed rational while others panicked.", "example_ja": "他の人がパニックになる中、彼は冷静さを保った。" }
+    ],
+    "warn": [
+      "反対語は irrational（不合理な・理性を欠いた）。ir- がついて否定になる。",
+      "rational（理性的な）と rationale（根拠・理由づけ／発音ラショナール）は別語。混同に注意。"
+    ],
+    "etym_note": "ラテン語 rationalis（理性のある。ratio「計算・理性」から）に由来します。reason・ratio・rate と同じ語源で、「理性にもとづく」が原義です。",
+    "etym_chain": [
+      { "node": "ratio", "sub": "計算・理性", "era": "ラテン語" },
+      { "node": "rationalis", "sub": "理性のある", "era": "ラテン語" },
+      { "node": "rational", "sub": "理性的な・合理的な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rational decision", "ja": "理性的な判断" },
+      { "en": "a rational explanation", "ja": "筋の通った説明" },
+      { "en": "rational thinking", "ja": "合理的思考" },
+      { "en": "stay rational", "ja": "冷静さを保つ" },
+      { "en": "a rational being", "ja": "理性的存在（人間）" },
+      { "en": "perfectly rational", "ja": "まったく理にかなった" }
+    ],
+    "related": [
+      { "en": "irrational", "ja": "不合理な（反対語）" },
+      { "en": "reasonable", "ja": "合理的な" },
+      { "en": "logical", "ja": "論理的な" },
+      { "en": "emotional", "ja": "感情的な（対比語）" }
+    ],
+    "faq": [
+      { "q": "rational の反対語は？", "a": "irrational（不合理な・理性を欠いた）です。an irrational fear（理屈に合わない恐怖）のように使います。" },
+      { "q": "rational と reasonable の違いは？", "a": "rational は『感情でなく理性にもとづく』、reasonable は『常識的で妥当な・手頃な』というニュアンスです。" }
+    ],
+    "quiz": [
+      { "q": "Try to make a ___ decision.（理性的な判断）", "A": "rational", "B": "national", "C": "really", "D": "regular", "correct": "A" },
+      { "q": "rational の反対語はどれ？", "A": "irrational", "B": "unrational", "C": "disrational", "D": "non-rational", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rebel",
+    "pron": "名:ˈrebəl 動:rɪˈbel",
+    "kana": "名:レベル 動:リベル",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "ラテン語 rebellis（再び戦う）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "名動アクセント"],
+    "meaning_main": "反逆者・反抗する人／反逆する",
+    "description": "rebel の意味・発音・例文・語源を解説。名詞と動詞でアクセントが移動する点や、rebel against、名詞 rebellion も分かりやすく紹介します。",
+    "keywords": ["rebel 意味", "rebel 発音 アクセント", "rebel against 使い方", "rebellion 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】反逆者・反抗する人", "note": "アクセントは前。権威に逆らう人。" },
+      { "hinshi": "【動詞】反逆する・反抗する", "note": "アクセントは後ろ。rebel against（〜に反抗する）。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「反逆者」として", "desc": "権力や規則に逆らう人を表します。/ˈrebəl/。", "example_en": "The rebels fought against the government.", "example_ja": "反乱軍は政府と戦った。" },
+      { "title": "② 動詞「反抗する」として", "desc": "rebel against〜の形で使います。/rɪˈbel/。", "example_en": "Teenagers often rebel against their parents.", "example_ja": "十代の若者はよく親に反抗する。" }
+    ],
+    "warn": [
+      "名詞は前にアクセント（RE-bel）、動詞は後ろ（re-BEL）。record・reject と同じパターン。",
+      "「〜に反抗する」は rebel against。名詞は rebellion（反乱）。"
+    ],
+    "etym_note": "ラテン語 rebellis（re-「再び」＋ bellum「戦争」＝再び戦う）に由来します。もとは『（降伏後に）再び戦う者』が原義です。bellicose（好戦的な）と同じ語源です。",
+    "etym_chain": [
+      { "node": "rebellis", "sub": "再び戦う", "era": "ラテン語" },
+      { "node": "rebelle", "sub": "反逆者", "era": "古フランス語" },
+      { "node": "rebel", "sub": "反逆者・反抗する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rebel against", "ja": "〜に反抗する" },
+      { "en": "the rebel army", "ja": "反乱軍" },
+      { "en": "a rebel leader", "ja": "反乱の指導者" },
+      { "en": "rebel forces", "ja": "反政府勢力" },
+      { "en": "a born rebel", "ja": "生まれながらの反逆児" },
+      { "en": "crush a rebellion", "ja": "反乱を鎮圧する" }
+    ],
+    "related": [
+      { "en": "rebellion", "ja": "反乱（名詞）" },
+      { "en": "revolt", "ja": "反乱・反抗する" },
+      { "en": "resist", "ja": "抵抗する" },
+      { "en": "obey", "ja": "従う（反対語）" }
+    ],
+    "faq": [
+      { "q": "rebel のアクセントは？", "a": "名詞は前（RE-bel）、動詞は後ろ（re-BEL）にアクセントが来ます。同じつづりで品詞により読み方が変わります。" },
+      { "q": "rebel の名詞形（反乱）は？", "a": "rebellion（反乱）です。l が2つになる点に注意しましょう。" }
+    ],
+    "quiz": [
+      { "q": "Teenagers often ___ against their parents.（親に反抗する）", "A": "rebel", "B": "recall", "C": "reduce", "D": "remind", "correct": "A" },
+      { "q": "動詞「反抗する」の rebel のアクセントは？", "A": "RE-bel", "B": "re-BEL", "C": "re-bel-LION", "D": "どこも同じ", "correct": "B" }
+    ]
+  },
+  {
+    "english": "reception",
+    "pron": "rɪˈsepʃən",
+    "kana": "リセプション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 receptio（受け取ること）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "多義語"],
+    "meaning_main": "受付／歓迎会・宴会／（電波の）受信",
+    "description": "reception の意味・発音・例文・語源を解説。「受付」「歓迎会」「電波の受信状態」という幅広い意味と使い方を分かりやすく紹介します。",
+    "keywords": ["reception 意味", "reception 発音", "reception 受付 宴会", "reception 受信"],
+    "meanings": [
+      { "hinshi": "【名詞】受付・フロント", "note": "ホテルや会社の受付。at reception（受付で）。" },
+      { "hinshi": "【名詞】歓迎会・宴会", "note": "a wedding reception（結婚披露宴）。" },
+      { "hinshi": "【名詞】（電波・反応の）受信・受け取られ方", "note": "good reception（電波が良好）。" }
+    ],
+    "usages": [
+      { "title": "① 「受付」として", "desc": "建物の入り口の受付を表します。", "example_en": "Please leave your key at reception.", "example_ja": "鍵は受付にお預けください。" },
+      { "title": "② 「歓迎会・披露宴」として", "desc": "a wedding reception（結婚披露宴）などで使います。", "example_en": "The wedding reception was held at a hotel.", "example_ja": "結婚披露宴はホテルで開かれた。" }
+    ],
+    "warn": [
+      "意味が広い：『受付』『披露宴・歓迎会』『電波の受信状態』。文脈で判断する。",
+      "receive（受け取る）の名詞形のひとつ。receptionist は『受付係』。"
+    ],
+    "etym_note": "ラテン語 receptio（受け取ること。recipere「受け取る」から）に由来します。receive・receipt と同じ語源で、「受け取り・迎え入れること」が原義です。",
+    "etym_chain": [
+      { "node": "receptio", "sub": "受け取ること", "era": "ラテン語" },
+      { "node": "reception", "sub": "受け入れ", "era": "中英語" },
+      { "node": "reception", "sub": "受付・宴会・受信", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "at reception", "ja": "受付で" },
+      { "en": "a wedding reception", "ja": "結婚披露宴" },
+      { "en": "a warm reception", "ja": "温かい歓迎" },
+      { "en": "good reception", "ja": "（電波が）良好" },
+      { "en": "a reception desk", "ja": "受付カウンター" },
+      { "en": "hold a reception", "ja": "歓迎会を開く" }
+    ],
+    "related": [
+      { "en": "receive", "ja": "受け取る" },
+      { "en": "receptionist", "ja": "受付係" },
+      { "en": "welcome", "ja": "歓迎" },
+      { "en": "party", "ja": "宴会・パーティー" }
+    ],
+    "faq": [
+      { "q": "reception のいろいろな意味は？", "a": "『（ホテルなどの）受付』『歓迎会・披露宴』『（電波の）受信状態』など、文脈で意味が変わります。" },
+      { "q": "a warm reception とは？", "a": "『温かい歓迎・好意的な受け入れ』を表します。逆に a cold reception は『冷たい対応』です。" }
+    ],
+    "quiz": [
+      { "q": "Please leave your key at ___.（受付に預けて）", "A": "reception", "B": "recipe", "C": "recent", "D": "receipt", "correct": "A" },
+      { "q": "「結婚披露宴」を表すのはどれ？", "A": "a wedding reception", "B": "a wedding recipe", "C": "a wedding receipt", "D": "a wedding recent", "correct": "A" }
+    ]
+  },
+  {
+    "english": "refresh",
+    "pron": "rɪˈfreʃ",
+    "kana": "リフレッシュ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ fresh（新鮮な）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "基本動詞"],
+    "meaning_main": "元気を回復させる・さわやかにする・更新する",
+    "description": "refresh の意味・発音・例文・語源を解説。refreshing（さわやかな）の使い方や、ウェブページの「更新」、refreshment（軽い飲食物）も紹介します。",
+    "keywords": ["refresh 意味", "refresh 発音", "refreshing 意味", "refresh 更新"],
+    "meanings": [
+      { "hinshi": "【動詞】元気を回復させる・さわやかにする", "note": "A cold drink refreshed me.（冷たい飲み物で元気が出た）。" },
+      { "hinshi": "【動詞】（記憶・画面を）新しくする・更新する", "note": "refresh the page（ページを更新する）。" }
+    ],
+    "usages": [
+      { "title": "① 「元気を回復させる」として", "desc": "疲れをとってさわやかにする意味です。", "example_en": "A short nap will refresh you.", "example_ja": "少し昼寝をすると元気が回復するよ。" },
+      { "title": "② 「更新する」として", "desc": "画面や記憶を新しくする意味です。", "example_en": "Try refreshing the web page.", "example_ja": "ウェブページを更新してみて。" }
+    ],
+    "warn": [
+      "refreshing は『（物事が）さわやかな・元気が出る』、refreshed は『（人が）さっぱりした』。",
+      "refreshment(s) は『軽い飲食物・軽食』の意味の名詞。"
+    ],
+    "etym_note": "接頭辞 re-（再び）と fresh（新鮮な）を組み合わせた語で、「再び新鮮にする＝さわやかにする・更新する」が原義です。fresh と同じ語源です。",
+    "etym_chain": [
+      { "node": "fresh", "sub": "新鮮な", "era": "古英語系" },
+      { "node": "refreshen", "sub": "新鮮にする", "era": "中英語" },
+      { "node": "refresh", "sub": "回復させる・更新する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "refresh yourself", "ja": "気分をすっきりさせる" },
+      { "en": "refresh the page", "ja": "ページを更新する" },
+      { "en": "refresh your memory", "ja": "記憶を新たにする" },
+      { "en": "feel refreshed", "ja": "さっぱりした気分になる" },
+      { "en": "a refreshing drink", "ja": "さわやかな飲み物" },
+      { "en": "refreshments", "ja": "軽い飲食物・軽食" }
+    ],
+    "related": [
+      { "en": "fresh", "ja": "新鮮な" },
+      { "en": "refreshing", "ja": "さわやかな" },
+      { "en": "renew", "ja": "更新する" },
+      { "en": "revive", "ja": "生き返らせる" }
+    ],
+    "faq": [
+      { "q": "refreshing と refreshed の違いは？", "a": "refreshing は『（物事が）さわやかな・元気が出る』、refreshed は『（人が）すっきりした』です。a refreshing breeze / I feel refreshed のように使います。" },
+      { "q": "refreshments とは？", "a": "『軽い飲食物・軽食』のことです。会議やイベントで出される飲み物やお菓子を指します。" }
+    ],
+    "quiz": [
+      { "q": "A short nap will ___ you.（昼寝で元気回復）", "A": "refresh", "B": "refuse", "C": "reflect", "D": "refer", "correct": "A" },
+      { "q": "「さわやかな飲み物」を表すのはどれ？", "A": "a refreshing drink", "B": "a refreshed drink", "C": "a refreshment drink", "D": "a refresh drink", "correct": "A" }
+    ]
+  },
+  {
+    "english": "relative",
+    "pron": "ˈrelətɪv",
+    "kana": "レラティヴ",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞・形容詞",
+    "ld_etym": "ラテン語 relativus（関係する）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "多義語"],
+    "meaning_main": "親戚／相対的な・関係する",
+    "description": "relative の意味・発音・例文・語源を解説。「親戚」の名詞用法と「相対的な」の形容詞用法、文法の関係詞（relative pronoun）も分かりやすく紹介します。",
+    "keywords": ["relative 意味", "relative 発音", "relative 親戚 相対的", "relative pronoun"],
+    "meanings": [
+      { "hinshi": "【名詞】親戚・身内", "note": "a close relative（近い親戚）。family と blood でつながる人。" },
+      { "hinshi": "【形容詞】相対的な・比較上の", "note": "absolute（絶対的な）の反対。" },
+      { "hinshi": "【形容詞】（文法）関係の", "note": "a relative pronoun（関係代名詞）。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「親戚」として", "desc": "血縁・姻戚でつながる人を表します。", "example_en": "All my relatives came to the wedding.", "example_ja": "親戚全員が結婚式に来た。" },
+      { "title": "② 形容詞「相対的な」として", "desc": "他と比べての程度を表します。", "example_en": "They live in relative comfort.", "example_ja": "彼らはわりと快適に暮らしている。" }
+    ],
+    "warn": [
+      "副詞 relatively は『比較的・わりと』。relatively cheap（わりと安い）。",
+      "形容詞『相対的な』の反対は absolute（絶対的な）。文法用語 relative pronoun は『関係代名詞』。"
+    ],
+    "etym_note": "ラテン語 relativus（関係する。referre/relatus「関連づける」から）に由来します。relate・relation と同じ語源で、「互いに関係する」が原義です。",
+    "etym_chain": [
+      { "node": "relativus", "sub": "関係する", "era": "ラテン語" },
+      { "node": "relative", "sub": "関係する・相対的な", "era": "中英語" },
+      { "node": "relative", "sub": "親戚・相対的な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a close relative", "ja": "近い親戚" },
+      { "en": "a distant relative", "ja": "遠い親戚" },
+      { "en": "relative to", "ja": "〜と比べて・〜に関して" },
+      { "en": "relatively cheap", "ja": "わりと安い" },
+      { "en": "a relative pronoun", "ja": "関係代名詞" },
+      { "en": "relative importance", "ja": "相対的な重要性" }
+    ],
+    "related": [
+      { "en": "relatively", "ja": "比較的（副詞）" },
+      { "en": "relation", "ja": "関係・親類" },
+      { "en": "absolute", "ja": "絶対的な（反対語）" },
+      { "en": "family", "ja": "家族" }
+    ],
+    "faq": [
+      { "q": "relative の二つの大きな意味は？", "a": "名詞の『親戚』と、形容詞の『相対的な・比較上の』です。文脈で見分けます。" },
+      { "q": "relatively とはどんな意味？", "a": "『比較的・わりと』という意味の副詞です。relatively easy（わりと簡単）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "All my ___ came to the wedding.（親戚全員）", "A": "relatives", "B": "relations の語感違い", "C": "relatively", "D": "relates", "correct": "A" },
+      { "q": "「相対的な」の反対語はどれ？", "A": "absolute", "B": "relative", "C": "general", "D": "common", "correct": "A" }
+    ]
+  }
+]

@@ -1,0 +1,536 @@
+[
+  {
+    "english": "range",
+    "pron": "reɪndʒ",
+    "kana": "レインジ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "古フランス語 range（並び・列）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "多義語"],
+    "meaning_main": "範囲・幅／（〜に）及ぶ／山脈・レンジ",
+    "description": "range の意味・発音・例文・語源を解説。a wide range of（広範囲の〜）の使い方や、range from A to B（AからBに及ぶ）も分かりやすく紹介します。",
+    "keywords": ["range 意味", "range 発音", "a wide range of 使い方", "range from to"],
+    "meanings": [
+      { "hinshi": "【名詞】範囲・幅", "note": "a wide range of products（幅広い製品）。" },
+      { "hinshi": "【動詞】（範囲が）及ぶ・わたる", "note": "range from A to B（AからBにわたる）。" },
+      { "hinshi": "【名詞】山脈・射撃場・レンジ", "note": "a mountain range（山脈）。" }
+    ],
+    "usages": [
+      { "title": "① 「範囲・幅」として", "desc": "a wide range of〜で「幅広い〜」を表します。", "example_en": "The shop sells a wide range of books.", "example_ja": "その店は幅広い種類の本を売っている。" },
+      { "title": "② range from A to B として", "desc": "数値や種類が「AからBに及ぶ」を表します。", "example_en": "Prices range from 10 to 50 dollars.", "example_ja": "価格は10ドルから50ドルにわたる。" }
+    ],
+    "warn": [
+      "a wide range of＋複数名詞で『幅広い〜』。out of range は『範囲外で・圏外で』。",
+      "range from A to B（AからBに及ぶ）は受け身にしない。"
+    ],
+    "etym_note": "古フランス語 range / renge（並び・列。rang「列」から）に由来します。もとは『一列に並んだもの』で、そこから『広がり・範囲』へと意味が発展しました。",
+    "etym_chain": [
+      { "node": "rang", "sub": "列・並び", "era": "古フランス語" },
+      { "node": "range", "sub": "並び・範囲", "era": "中英語" },
+      { "node": "range", "sub": "範囲・及ぶ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a wide range of", "ja": "幅広い〜・多様な〜" },
+      { "en": "range from A to B", "ja": "AからBに及ぶ" },
+      { "en": "out of range", "ja": "範囲外で・圏外で" },
+      { "en": "within range", "ja": "範囲内で" },
+      { "en": "a mountain range", "ja": "山脈" },
+      { "en": "an age range", "ja": "年齢層" }
+    ],
+    "related": [
+      { "en": "variety", "ja": "多様・種類" },
+      { "en": "scope", "ja": "範囲・視野" },
+      { "en": "extent", "ja": "程度・範囲" },
+      { "en": "limit", "ja": "限界・範囲" }
+    ],
+    "faq": [
+      { "q": "a wide range of の使い方は？", "a": "『幅広い種類の〜』という意味で、あとに複数名詞を続けます。a wide range of activities（さまざまな活動）のように使います。" },
+      { "q": "range from A to B とは？", "a": "『AからBにわたる・及ぶ』という意味です。Ages range from 6 to 12.（年齢は6歳から12歳に及ぶ）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The shop sells a wide ___ of books.（幅広い種類の本）", "A": "range", "B": "rank", "C": "ring", "D": "row", "correct": "A" },
+      { "q": "Prices ___ from 10 to 50 dollars.（10〜50ドルに及ぶ）", "A": "range", "B": "rank", "C": "raise", "D": "reach", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rank",
+    "pron": "ræŋk",
+    "kana": "ランク",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "古フランス語 ranc（列・階級）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "多義語"],
+    "meaning_main": "階級・地位・順位／位置づける",
+    "description": "rank の意味・発音・例文・語源を解説。「階級・順位」の名詞用法や、rank as / among（〜に位置する）の動詞用法も分かりやすく紹介します。",
+    "keywords": ["rank 意味", "rank 発音", "rank 順位 階級", "rank among 使い方"],
+    "meanings": [
+      { "hinshi": "【名詞】階級・地位", "note": "軍隊や組織での位。a high rank（高い地位）。" },
+      { "hinshi": "【名詞】順位・ランク", "note": "first in the rankings（ランキング1位）。" },
+      { "hinshi": "【動詞】位置づける・格付けする", "note": "rank among the best（最高のものに数えられる）。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「階級・順位」として", "desc": "組織内の地位や順位を表します。", "example_en": "He rose to the rank of captain.", "example_ja": "彼は隊長の地位まで昇進した。" },
+      { "title": "② 動詞「位置づける」として", "desc": "rank among / as で「〜に数えられる」を表します。", "example_en": "This city ranks among the safest in the world.", "example_ja": "この都市は世界で最も安全な部類に入る。" }
+    ],
+    "warn": [
+      "名詞 ranking（順位・ランキング）と区別。rank は『階級・地位』も表す。",
+      "rank and file は『（組織の）一般構成員・平社員』という慣用句。"
+    ],
+    "etym_note": "古フランス語 ranc（列・階級）に由来し、range（範囲）とも語源的につながります。もとは『一列に並んだもの』で、そこから『序列・階級』になりました。",
+    "etym_chain": [
+      { "node": "ranc", "sub": "列・階級", "era": "古フランス語" },
+      { "node": "rank", "sub": "列・地位", "era": "中英語" },
+      { "node": "rank", "sub": "階級・順位", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a high rank", "ja": "高い地位" },
+      { "en": "rank among", "ja": "〜に数えられる" },
+      { "en": "rise through the ranks", "ja": "出世する・昇進する" },
+      { "en": "the top rank", "ja": "最上位" },
+      { "en": "rank and file", "ja": "一般構成員・平社員" },
+      { "en": "world rankings", "ja": "世界ランキング" }
+    ],
+    "related": [
+      { "en": "ranking", "ja": "順位・ランキング" },
+      { "en": "position", "ja": "地位・位置" },
+      { "en": "level", "ja": "水準・段階" },
+      { "en": "grade", "ja": "等級・評価" }
+    ],
+    "faq": [
+      { "q": "rank と ranking の違いは？", "a": "rank は『階級・地位・順位』そのもの、ranking は『順位づけ・ランキング表』を指すことが多いです。" },
+      { "q": "rank among とは？", "a": "『〜の中に位置する・数えられる』という意味です。It ranks among the best.（最高のものに数えられる）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "He rose to the ___ of captain.（隊長の地位に昇進）", "A": "rank", "B": "range", "C": "ring", "D": "row", "correct": "A" },
+      { "q": "「出世する」を表すのはどれ？", "A": "rise through the ranks", "B": "rise through the ranges", "C": "rise through the rings", "D": "rise through the rows", "correct": "A" }
+    ]
+  },
+  {
+    "english": "realize",
+    "pron": "ˈriːəlaɪz",
+    "kana": "リーアライズ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "real（現実の）＋ -ize（〜にする）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "基本動詞"],
+    "meaning_main": "（はっと）気づく・悟る／実現する",
+    "description": "realize の意味・発音・例文・語源を解説。「気づく」と「実現する」の二つの意味や、realize that の使い方、recognize との違いも紹介します。",
+    "keywords": ["realize 意味", "realize 発音", "realize that 使い方", "realize 気づく 実現"],
+    "meanings": [
+      { "hinshi": "【動詞】（はっと）気づく・悟る", "note": "頭で理解して気づく。realize that〜（〜だと気づく）。" },
+      { "hinshi": "【動詞】（夢などを）実現する", "note": "realize a dream（夢を実現する）。" }
+    ],
+    "usages": [
+      { "title": "① 「気づく・悟る」として", "desc": "あとに that節を続けて気づいた内容を示します。", "example_en": "I suddenly realized that I had lost my wallet.", "example_ja": "私は財布をなくしたことに突然気づいた。" },
+      { "title": "② 「実現する」として", "desc": "夢や目標を現実のものにする意味です。", "example_en": "She finally realized her dream of becoming a doctor.", "example_ja": "彼女はついに医者になる夢を実現した。" }
+    ],
+    "warn": [
+      "アメリカ式は realize、イギリス式は realise。どちらも正しい。",
+      "realize は『（頭で）はっと気づく』、recognize は『見聞きしてそれとわかる』。"
+    ],
+    "etym_note": "形容詞 real（現実の）に -ize（〜にする）がついた語で、「現実のものにする＝実現する」が原義です。そこから「現実だと頭でわかる＝気づく」の意味も生まれました。",
+    "etym_chain": [
+      { "node": "real", "sub": "現実の", "era": "ラテン語系" },
+      { "node": "realize", "sub": "現実にする", "era": "近代英語" },
+      { "node": "realize", "sub": "気づく・実現する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "realize that ...", "ja": "〜だと気づく" },
+      { "en": "suddenly realize", "ja": "突然気づく" },
+      { "en": "realize a dream", "ja": "夢を実現する" },
+      { "en": "come to realize", "ja": "次第に気づく" },
+      { "en": "fail to realize", "ja": "気づかない" },
+      { "en": "fully realize", "ja": "十分に理解する・実現する" }
+    ],
+    "related": [
+      { "en": "recognize", "ja": "それとわかる" },
+      { "en": "understand", "ja": "理解する" },
+      { "en": "notice", "ja": "気づく" },
+      { "en": "achieve", "ja": "達成する" }
+    ],
+    "faq": [
+      { "q": "realize と recognize の違いは？", "a": "realize は『（頭で）はっと気づく・悟る』、recognize は『（見聞きして）それと気づく・認める』です。" },
+      { "q": "realize と realise はどちらが正しい？", "a": "どちらも正しく、realize は主にアメリカ式、realise は主にイギリス式のつづりです。" }
+    ],
+    "quiz": [
+      { "q": "I suddenly ___ that I had lost my wallet.（なくしたと気づいた）", "A": "realized", "B": "recognized", "C": "remembered", "D": "reminded", "correct": "A" },
+      { "q": "「夢を実現する」を表すのはどれ？", "A": "realize a dream", "B": "recognize a dream", "C": "remind a dream", "D": "remove a dream", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reality",
+    "pron": "riˈæləti",
+    "kana": "リアリティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 realis（実在の）＋ -ity",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "名詞"],
+    "meaning_main": "現実・実在・本当のこと",
+    "description": "reality の意味・発音・例文・語源を解説。in reality（実際は）の使い方や、real・realize との関係、virtual reality（仮想現実）も紹介します。",
+    "keywords": ["reality 意味", "reality 発音", "in reality 意味", "virtual reality"],
+    "meanings": [
+      { "hinshi": "【名詞】現実・実在", "note": "想像ではなく実際にあること。face reality（現実に向き合う）。" },
+      { "hinshi": "【名詞】本当のこと・実情", "note": "in reality（実際には）。" }
+    ],
+    "usages": [
+      { "title": "① 「現実・実在」として", "desc": "夢や理想に対する現実を表します。", "example_en": "We have to face reality.", "example_ja": "私たちは現実に向き合わなければならない。" },
+      { "title": "② in reality（実際は）として", "desc": "見かけと違う実情を述べるときに使います。", "example_en": "He seems confident, but in reality he is nervous.", "example_ja": "彼は自信ありげだが、実際は緊張している。" }
+    ],
+    "warn": [
+      "in reality は『実際には・本当のところ』。見かけとの対比でよく使う。",
+      "virtual reality（仮想現実、VR）、reality show（リアリティ番組）も頻出。"
+    ],
+    "etym_note": "ラテン語 realis（実在の。res「もの」から）に -ity（状態を表す）がついた語で、「実在していること＝現実」が原義です。real・realize と同じ語源です。",
+    "etym_chain": [
+      { "node": "res", "sub": "もの・事実", "era": "ラテン語" },
+      { "node": "realitas", "sub": "実在", "era": "後期ラテン語" },
+      { "node": "reality", "sub": "現実", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "in reality", "ja": "実際には" },
+      { "en": "face reality", "ja": "現実に向き合う" },
+      { "en": "become a reality", "ja": "現実になる" },
+      { "en": "virtual reality", "ja": "仮想現実（VR）" },
+      { "en": "a harsh reality", "ja": "厳しい現実" },
+      { "en": "the reality of", "ja": "〜の実情" }
+    ],
+    "related": [
+      { "en": "real", "ja": "本当の・現実の" },
+      { "en": "realize", "ja": "気づく・実現する" },
+      { "en": "fact", "ja": "事実" },
+      { "en": "dream", "ja": "夢（対比語）" }
+    ],
+    "faq": [
+      { "q": "in reality とはどんな意味？", "a": "『実際には・本当のところ』という意味です。見かけと違う実情を述べるときに使います。" },
+      { "q": "become a reality とは？", "a": "『現実のものになる・実現する』という意味です。Her dream became a reality.（彼女の夢が実現した）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "We have to face ___.（現実に向き合う）", "A": "reality", "B": "really", "C": "real", "D": "realize", "correct": "A" },
+      { "q": "「実際には」を表すのはどれ？", "A": "in reality", "B": "on reality", "C": "at reality", "D": "by reality", "correct": "A" }
+    ]
+  },
+  {
+    "english": "really",
+    "pron": "ˈriːəli",
+    "kana": "リーアリ",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "real（本当の）＋ -ly",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "副詞"],
+    "meaning_main": "本当に・実際に・とても",
+    "description": "really の意味・発音・例文・語源を解説。強調の「とても」や相づちの Really?（本当に？）、real（形容詞）との違いも分かりやすく紹介します。",
+    "keywords": ["really 意味", "really 発音", "really real 違い", "Really 相づち"],
+    "meanings": [
+      { "hinshi": "【副詞】本当に・実際に", "note": "事実であることを強調する。really happy（本当に幸せ）。" },
+      { "hinshi": "【副詞】とても・すごく", "note": "very に近い強調。really good（とてもよい）。" },
+      { "hinshi": "【間投詞】(Really?) 本当に？", "note": "驚き・相づちを表す。" }
+    ],
+    "usages": [
+      { "title": "① 強調「本当に・とても」として", "desc": "形容詞・動詞を強める基本の使い方です。", "example_en": "This cake is really delicious.", "example_ja": "このケーキは本当においしい。" },
+      { "title": "② 相づち Really? として", "desc": "驚きや確認を表す会話表現です。", "example_en": "\"I passed the exam!\" \"Really? Congratulations!\"", "example_ja": "「試験に受かった！」「本当に？おめでとう！」" }
+    ],
+    "warn": [
+      "really は副詞（動詞・形容詞を修飾）、real は形容詞（名詞を修飾）。really good / a real problem。",
+      "Really? は『本当に？』という相づち。文脈で驚き・疑い・興味を表す。"
+    ],
+    "etym_note": "形容詞 real（本当の）に副詞をつくる -ly がついた語で、「本当に・現実に」が原義です。real・reality と同じ語源です。",
+    "etym_chain": [
+      { "node": "real", "sub": "本当の", "era": "ラテン語系" },
+      { "node": "really", "sub": "本当に", "era": "近代英語" },
+      { "node": "really", "sub": "本当に・とても", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "really good", "ja": "とてもよい" },
+      { "en": "Really?", "ja": "本当に？" },
+      { "en": "not really", "ja": "そうでもない・あまり" },
+      { "en": "really and truly", "ja": "本当に・心から" },
+      { "en": "really want", "ja": "本当にほしい・したい" },
+      { "en": "really mean it", "ja": "本気で言っている" }
+    ],
+    "related": [
+      { "en": "real", "ja": "本当の（形容詞）" },
+      { "en": "very", "ja": "とても" },
+      { "en": "truly", "ja": "本当に" },
+      { "en": "actually", "ja": "実際に" }
+    ],
+    "faq": [
+      { "q": "really と real の違いは？", "a": "really は副詞で動詞・形容詞を修飾（really fast＝とても速い）、real は形容詞で名詞を修飾（a real diamond＝本物のダイヤ）します。" },
+      { "q": "not really はどんな意味？", "a": "『そうでもない・あまり〜ない』という、やわらかい否定の返答です。" }
+    ],
+    "quiz": [
+      { "q": "This cake is ___ delicious.（本当においしい）", "A": "really", "B": "real", "C": "reality", "D": "realize", "correct": "A" },
+      { "q": "「そうでもない」をやわらかく表すのはどれ？", "A": "not really", "B": "not real", "C": "no reality", "D": "not realize", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reasonable",
+    "pron": "ˈriːzənəbəl",
+    "kana": "リーズナブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "reason（理性）＋ -able",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "形容詞"],
+    "meaning_main": "合理的な・妥当な・（値段が）手頃な",
+    "description": "reasonable の意味・発音・例文・語源を解説。「妥当な」と「（値段が）手頃な」の二つの意味や、反対語 unreasonable も分かりやすく紹介します。",
+    "keywords": ["reasonable 意味", "reasonable 発音", "reasonable price 意味", "unreasonable 反対"],
+    "meanings": [
+      { "hinshi": "【形容詞】合理的な・分別のある", "note": "a reasonable explanation（筋の通った説明）。" },
+      { "hinshi": "【形容詞】（値段が）手頃な・適正な", "note": "a reasonable price（手頃な値段）。" }
+    ],
+    "usages": [
+      { "title": "① 「合理的な・妥当な」として", "desc": "筋が通っていて納得できる様子を表します。", "example_en": "That sounds like a reasonable plan.", "example_ja": "それは妥当な計画のように思える。" },
+      { "title": "② 「手頃な値段の」として", "desc": "高すぎず適正な価格を表します。", "example_en": "The restaurant serves good food at reasonable prices.", "example_ja": "そのレストランは手頃な値段でおいしい料理を出す。" }
+    ],
+    "warn": [
+      "日本語の『リーズナブル』は『安い』の意味で使われがちだが、英語では『（質に見合って）手頃・適正』のニュアンス。",
+      "反対語は unreasonable（不合理な・法外な）。副詞は reasonably。"
+    ],
+    "etym_note": "名詞 reason（理性・理由）に -able（〜できる・〜の性質の）がついた語で、「理性にかなった＝合理的な」が原義です。reason と同じ語源です。",
+    "etym_chain": [
+      { "node": "reason", "sub": "理性・理由", "era": "古フランス語" },
+      { "node": "reasonable", "sub": "理にかなった", "era": "中英語" },
+      { "node": "reasonable", "sub": "合理的な・手頃な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a reasonable price", "ja": "手頃な値段" },
+      { "en": "a reasonable explanation", "ja": "筋の通った説明" },
+      { "en": "beyond reasonable doubt", "ja": "合理的な疑いを超えて" },
+      { "en": "be reasonable", "ja": "分別を持つ・道理をわきまえる" },
+      { "en": "a reasonable amount", "ja": "適度な量" },
+      { "en": "perfectly reasonable", "ja": "まったく妥当な" }
+    ],
+    "related": [
+      { "en": "reason", "ja": "理性・理由" },
+      { "en": "unreasonable", "ja": "不合理な（反対語）" },
+      { "en": "fair", "ja": "公正な・妥当な" },
+      { "en": "sensible", "ja": "分別のある" }
+    ],
+    "faq": [
+      { "q": "日本語の『リーズナブル』と同じ意味？", "a": "近いですが、英語の reasonable は『（質に見合って）手頃・適正』というニュアンスで、単に『安い』とは限りません。" },
+      { "q": "reasonable の反対語は？", "a": "unreasonable（不合理な・法外な）です。an unreasonable demand（理不尽な要求）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The restaurant serves food at ___ prices.（手頃な値段）", "A": "reasonable", "B": "real", "C": "really", "D": "rude", "correct": "A" },
+      { "q": "reasonable の反対語はどれ？", "A": "unreasonable", "B": "disreasonable", "C": "non-reasonable", "D": "ireasonable", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recall",
+    "pron": "rɪˈkɔːl",
+    "kana": "リコール",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "re-（再び）＋ call（呼ぶ）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "思い出す・呼び戻す／（製品の）回収",
+    "description": "recall の意味・発音・例文・語源を解説。remember との違いや、recall doing（〜したのを思い出す）、製品リコールの意味も分かりやすく紹介します。",
+    "keywords": ["recall 意味", "recall 発音", "recall remember 違い", "recall リコール"],
+    "meanings": [
+      { "hinshi": "【動詞】思い出す・思い起こす", "note": "やや形式的。recall the past（過去を思い出す）。" },
+      { "hinshi": "【動詞】呼び戻す・回収する", "note": "recall a product（製品を回収する）。" },
+      { "hinshi": "【名詞】回収・記憶（力）", "note": "a product recall（製品回収）。" }
+    ],
+    "usages": [
+      { "title": "① 「思い出す」として", "desc": "remember よりややかたい『思い起こす』です。", "example_en": "I can't recall his name.", "example_ja": "彼の名前が思い出せない。" },
+      { "title": "② 「（製品を）回収する」として", "desc": "欠陥品をメーカーが回収する意味です。", "example_en": "The company recalled thousands of cars.", "example_ja": "その会社は何千台もの車を回収した。" }
+    ],
+    "warn": [
+      "recall は remember よりフォーマル。recall doing（〜したのを思い出す）の形をとる。",
+      "日本語の『リコール』は製品回収の意味。recall にはこの意味もある。"
+    ],
+    "etym_note": "接頭辞 re-（再び）と call（呼ぶ）を組み合わせた語で、「再び呼び戻す」が原義です。記憶を呼び戻す『思い出す』、製品を呼び戻す『回収する』の両方に使われます。",
+    "etym_chain": [
+      { "node": "call", "sub": "呼ぶ", "era": "古ノルド語系" },
+      { "node": "re- + call", "sub": "呼び戻す", "era": "近代英語" },
+      { "node": "recall", "sub": "思い出す・回収する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "recall the past", "ja": "過去を思い出す" },
+      { "en": "as I recall", "ja": "私の記憶では" },
+      { "en": "recall doing", "ja": "〜したのを思い出す" },
+      { "en": "a product recall", "ja": "製品回収" },
+      { "en": "total recall", "ja": "完全な記憶" },
+      { "en": "recall a fact", "ja": "事実を思い起こす" }
+    ],
+    "related": [
+      { "en": "remember", "ja": "覚えている・思い出す" },
+      { "en": "recollect", "ja": "思い出す" },
+      { "en": "memory", "ja": "記憶" },
+      { "en": "forget", "ja": "忘れる（反対語）" }
+    ],
+    "faq": [
+      { "q": "recall と remember の違いは？", "a": "意味は近いですが、recall はややフォーマルで『意識して思い起こす』、remember は日常的で広く使われます。" },
+      { "q": "『リコール（製品回収）』も recall？", "a": "はい。欠陥のある製品をメーカーが回収することを recall と言います。a recall of cars（車のリコール）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "I can't ___ his name.（名前が思い出せない）", "A": "recall", "B": "remind", "C": "remove", "D": "repair", "correct": "A" },
+      { "q": "「製品回収」を表すのはどれ？", "A": "a product recall", "B": "a product recover", "C": "a product receive", "D": "a product reduce", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recommend",
+    "pron": "ˌrekəˈmend",
+    "kana": "レコメンド",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 re-（強意）＋ commendare（ゆだねる・ほめる）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "基本動詞"],
+    "meaning_main": "勧める・推薦する",
+    "description": "recommend の意味・発音・例文・語源を解説。recommend doing / that の語法や、つづりの m 重ね、名詞 recommendation も分かりやすく紹介します。",
+    "keywords": ["recommend 意味", "recommend 発音", "recommend that 使い方", "recommendation 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】勧める・推薦する", "note": "recommend a book（本を勧める）。" },
+      { "hinshi": "【動詞】（〜するよう）勧める・提案する", "note": "recommend doing / that＋(should)＋動詞原形。" }
+    ],
+    "usages": [
+      { "title": "① 「（人や物を）推薦する」として", "desc": "よいものとして勧める基本の意味です。", "example_en": "Can you recommend a good restaurant?", "example_ja": "よいレストランを教えてもらえますか。" },
+      { "title": "② recommend doing / that として", "desc": "「〜することを勧める」を表します。", "example_en": "I recommend visiting the museum early.", "example_ja": "その美術館には早めに行くことをお勧めします。" }
+    ],
+    "warn": [
+      "つづりは c は1つ、m は2つ：re-com-mend。recomend / reccomend は誤り。",
+      "recommend のあとは動名詞（recommend doing）か that節（that＋(should)＋原形）。recommend 人 to do は避ける。"
+    ],
+    "etym_note": "ラテン語 commendare（com-「強意」＋ mandare「ゆだねる」＝ほめてゆだねる）に re- がついた語です。「よいものとして人にゆだねる＝推薦する」が原義です。",
+    "etym_chain": [
+      { "node": "commendare", "sub": "ゆだねる・ほめる", "era": "ラテン語" },
+      { "node": "recommenden", "sub": "推薦する", "era": "中英語" },
+      { "node": "recommend", "sub": "勧める・推薦する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "recommend a book", "ja": "本を勧める" },
+      { "en": "recommend doing", "ja": "〜することを勧める" },
+      { "en": "highly recommend", "ja": "強く勧める" },
+      { "en": "I recommend that ...", "ja": "〜することをお勧めします" },
+      { "en": "a letter of recommendation", "ja": "推薦状" },
+      { "en": "would recommend", "ja": "お勧めします" }
+    ],
+    "related": [
+      { "en": "recommendation", "ja": "推薦・勧告（名詞）" },
+      { "en": "suggest", "ja": "提案する" },
+      { "en": "advise", "ja": "助言する" },
+      { "en": "propose", "ja": "提案する" }
+    ],
+    "faq": [
+      { "q": "recommend のつづりのコツは？", "a": "c は1つ、m は2つです。re＋com＋mend と区切ると覚えやすいです。" },
+      { "q": "recommend のあとの形は？", "a": "動名詞（recommend visiting）か that節（recommend that you visit）を使います。recommend 人 to do の形は避けるのが無難です。" }
+    ],
+    "quiz": [
+      { "q": "Can you ___ a good restaurant?（推薦してくれる？）", "A": "recommend", "B": "remember", "C": "remind", "D": "recover", "correct": "A" },
+      { "q": "recommend の正しいつづりはどれ？", "A": "recomend", "B": "recommend", "C": "reccommend", "D": "reccomend", "correct": "B" }
+    ]
+  },
+  {
+    "english": "refrigerator",
+    "pron": "rɪˈfrɪdʒəreɪtər",
+    "kana": "リフリジャレイター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 refrigerare（冷やす）",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "家電"],
+    "meaning_main": "冷蔵庫",
+    "description": "refrigerator（冷蔵庫）の意味・発音・例文・語源を解説。短縮形 fridge との関係や、つづりの長い単語の覚え方も分かりやすく紹介します。",
+    "keywords": ["refrigerator 意味", "refrigerator 発音", "fridge 違い", "refrigerator 冷蔵庫"],
+    "meanings": [
+      { "hinshi": "【名詞】冷蔵庫", "note": "食品を冷やして保存する家電。口語では fridge。" }
+    ],
+    "usages": [
+      { "title": "① 家電の「冷蔵庫」として", "desc": "日常的に使う身近な家電を表します。", "example_en": "Please put the milk in the refrigerator.", "example_ja": "牛乳を冷蔵庫に入れてください。" },
+      { "title": "② 短縮形 fridge として", "desc": "会話では fridge と短く言うのが普通です。", "example_en": "There's some juice in the fridge.", "example_ja": "冷蔵庫にジュースがあるよ。" }
+    ],
+    "warn": [
+      "口語では短縮形 fridge を使うことが多い。つづりは fridge（d が入る）に注意。",
+      "refrigerator はつづりが長い。re-fri-ger-a-tor と区切ると覚えやすい。"
+    ],
+    "etym_note": "ラテン語 refrigerare（re-「強意」＋ frigerare「冷やす」。frigus「寒さ」から）に由来します。frigid（極寒の）と同じ語源で、「冷やすもの」が原義です。",
+    "etym_chain": [
+      { "node": "frigus", "sub": "寒さ", "era": "ラテン語" },
+      { "node": "refrigerare", "sub": "冷やす", "era": "ラテン語" },
+      { "node": "refrigerator", "sub": "冷蔵庫", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "in the refrigerator", "ja": "冷蔵庫の中に" },
+      { "en": "put in the fridge", "ja": "冷蔵庫に入れる" },
+      { "en": "open the refrigerator", "ja": "冷蔵庫を開ける" },
+      { "en": "a full refrigerator", "ja": "いっぱいの冷蔵庫" },
+      { "en": "keep cool in the fridge", "ja": "冷蔵庫で冷やしておく" },
+      { "en": "a refrigerator door", "ja": "冷蔵庫の扉" }
+    ],
+    "related": [
+      { "en": "fridge", "ja": "冷蔵庫（口語）" },
+      { "en": "freezer", "ja": "冷凍庫" },
+      { "en": "kitchen", "ja": "台所" },
+      { "en": "cool", "ja": "冷やす・涼しい" }
+    ],
+    "faq": [
+      { "q": "refrigerator と fridge の違いは？", "a": "同じ『冷蔵庫』ですが、refrigerator は正式な語、fridge は会話でよく使う短縮形です。" },
+      { "q": "refrigerator のつづりの覚え方は？", "a": "re-fri-ger-a-tor と区切り、語源の frigid（冷たい）と結びつけると覚えやすいです。" }
+    ],
+    "quiz": [
+      { "q": "Please put the milk in the ___.（冷蔵庫に入れて）", "A": "refrigerator", "B": "restaurant", "C": "reservation", "D": "recipe", "correct": "A" },
+      { "q": "refrigerator の口語の短縮形はどれ？", "A": "fridge", "B": "refri", "C": "rator", "D": "reffy", "correct": "A" }
+    ]
+  },
+  {
+    "english": "regard",
+    "pron": "rɪˈɡɑːrd",
+    "kana": "リガード",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "古フランス語 regarder（じっと見る・気にかける）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "（〜と）みなす・考える／敬意・よろしくとの伝言",
+    "description": "regard の意味・発音・例文・語源を解説。regard A as B（AをBとみなす）の重要構文や、with regard to、Best regards も分かりやすく紹介します。",
+    "keywords": ["regard 意味", "regard 発音", "regard as 使い方", "with regard to 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（〜と）みなす・考える", "note": "regard A as B（AをBとみなす）。" },
+      { "hinshi": "【名詞】配慮・尊重", "note": "have regard for（〜を尊重する）。" },
+      { "hinshi": "【名詞】(regards) よろしくとの伝言", "note": "Give my regards to ...（〜によろしく）。" }
+    ],
+    "usages": [
+      { "title": "① regard A as B（AをBとみなす）", "desc": "「〜を…と考える」を表す重要構文です。", "example_en": "Many people regard him as a hero.", "example_ja": "多くの人が彼を英雄とみなしている。" },
+      { "title": "② with regard to / regards として", "desc": "「〜に関して」や手紙の結びで使います。", "example_en": "I am writing with regard to your email.", "example_ja": "あなたのメールに関してご連絡しています。" }
+    ],
+    "warn": [
+      "regard A as B の as を忘れない（×regard A B、×regard A to be B は避ける）。",
+      "with regard to は『〜に関して』。手紙の結びは Best regards（敬具）。regards は複数形。"
+    ],
+    "etym_note": "古フランス語 regarder（re-「強意」＋ garder「見守る」＝じっと見る・気にかける）に由来します。guard・reward と同じ gard-（見守る）の語根で、「注目して見る＝みなす・配慮する」が原義です。",
+    "etym_chain": [
+      { "node": "regarder", "sub": "じっと見る・気にかける", "era": "古フランス語" },
+      { "node": "regard", "sub": "みなす・配慮", "era": "中英語" },
+      { "node": "regard", "sub": "みなす・敬意", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "regard A as B", "ja": "AをBとみなす" },
+      { "en": "with regard to", "ja": "〜に関して" },
+      { "en": "in this regard", "ja": "この点に関して" },
+      { "en": "Best regards", "ja": "敬具（手紙の結び）" },
+      { "en": "Give my regards to", "ja": "〜によろしく" },
+      { "en": "have high regard for", "ja": "〜を高く評価する" }
+    ],
+    "related": [
+      { "en": "consider", "ja": "みなす・考える" },
+      { "en": "respect", "ja": "尊敬・尊重" },
+      { "en": "concerning", "ja": "〜に関して" },
+      { "en": "view", "ja": "見る・見方" }
+    ],
+    "faq": [
+      { "q": "regard A as B とは？", "a": "『AをBとみなす・考える』という意味の重要構文です。as を忘れないようにしましょう。I regard her as a friend.（彼女を友人とみなす）。" },
+      { "q": "Best regards とは？", "a": "メールや手紙の結びに使う『敬具』にあたる定型表現です。regards は複数形で使います。" }
+    ],
+    "quiz": [
+      { "q": "Many people regard him ___ a hero.（英雄とみなす）", "A": "as", "B": "to", "C": "for", "D": "of", "correct": "A" },
+      { "q": "「〜に関して」を表すのはどれ？", "A": "with regard to", "B": "with regard of", "C": "with regard for", "D": "with regard at", "correct": "A" }
+    ]
+  }
+]

@@ -1,0 +1,533 @@
+[
+  {
+    "english": "remarkable",
+    "pron": "rɪˈmɑːrkəbəl",
+    "kana": "リマーカブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "re-（強意）＋ mark（しるし）＋ -able",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "形容詞"],
+    "meaning_main": "注目すべき・目覚ましい・並外れた",
+    "description": "remarkable の意味・発音・例文・語源を解説。「目を見張るほどすばらしい」というニュアンスや、副詞 remarkably も分かりやすく紹介します。",
+    "keywords": ["remarkable 意味", "remarkable 発音", "remarkable 使い方", "remarkably 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】注目すべき・目覚ましい", "note": "良い意味で人目を引くほどすばらしいこと。" },
+      { "hinshi": "【形容詞】並外れた・驚くべき", "note": "a remarkable achievement（目覚ましい功績）。" }
+    ],
+    "usages": [
+      { "title": "① 「目覚ましい・すばらしい」として", "desc": "特筆すべきほど優れている様子を表します。", "example_en": "She made remarkable progress in just a month.", "example_ja": "彼女はわずか1か月で目覚ましい進歩をとげた。" },
+      { "title": "② 「驚くべき」として", "desc": "注目に値する事実や能力を表します。", "example_en": "It is remarkable that he survived the accident.", "example_ja": "彼がその事故で助かったのは驚くべきことだ。" }
+    ],
+    "warn": [
+      "remarkable はふつう良い意味で『目を見張るほどすばらしい』。副詞は remarkably（著しく）。",
+      "remark（発言・気づく）から派生。『しるしをつけたいほど目立つ』が原義。"
+    ],
+    "etym_note": "re-（強意）＋ mark（しるし）＋ -able の構成で、「しるしをつけたくなるほど目立つ＝注目すべき」が原義です。動詞 remark（述べる・気づく）と同じ語源です。",
+    "etym_chain": [
+      { "node": "mark", "sub": "しるし", "era": "古英語系" },
+      { "node": "remark", "sub": "気づく・述べる", "era": "近代英語" },
+      { "node": "remarkable", "sub": "注目すべき", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "remarkable progress", "ja": "目覚ましい進歩" },
+      { "en": "a remarkable achievement", "ja": "並外れた功績" },
+      { "en": "remarkable success", "ja": "目覚ましい成功" },
+      { "en": "truly remarkable", "ja": "本当にすばらしい" },
+      { "en": "It is remarkable that ...", "ja": "〜とは驚くべきことだ" },
+      { "en": "a remarkable woman", "ja": "並外れた女性" }
+    ],
+    "related": [
+      { "en": "remarkably", "ja": "著しく（副詞）" },
+      { "en": "outstanding", "ja": "傑出した" },
+      { "en": "impressive", "ja": "印象的な" },
+      { "en": "ordinary", "ja": "ふつうの（反対語）" }
+    ],
+    "faq": [
+      { "q": "remarkable はよい意味？", "a": "はい、ふつう『目を見張るほどすばらしい・注目に値する』という良い意味で使われます。" },
+      { "q": "remarkable の副詞形は？", "a": "remarkably（著しく・驚くほど）です。remarkably good（驚くほどよい）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "She made ___ progress in just a month.（目覚ましい進歩）", "A": "remarkable", "B": "reasonable", "C": "removable", "D": "relative", "correct": "A" },
+      { "q": "remarkable の副詞形はどれ？", "A": "remarkly", "B": "remarkably", "C": "remarkfully", "D": "remarkative", "correct": "B" }
+    ]
+  },
+  {
+    "english": "republic",
+    "pron": "rɪˈpʌblɪk",
+    "kana": "リパブリック",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 res publica（公のもの）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "社会"],
+    "meaning_main": "共和国・共和制",
+    "description": "republic の意味・発音・例文・語源を解説。王のいない「共和国」という意味や、monarchy（君主制）との対比、形容詞 republican も紹介します。",
+    "keywords": ["republic 意味", "republic 発音", "republic 共和国", "republican 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】共和国・共和制", "note": "国民が選んだ代表が治める国。王がいない政治体制。" }
+    ],
+    "usages": [
+      { "title": "① 「共和国」として", "desc": "国名や政治体制を表します。", "example_en": "France is a republic.", "example_ja": "フランスは共和国だ。" },
+      { "title": "② 君主制との対比で", "desc": "王のいる国（monarchy）と対比して使います。", "example_en": "The country became a republic after the revolution.", "example_ja": "その国は革命後に共和国になった。" }
+    ],
+    "warn": [
+      "republic（共和国）は王がいない国。monarchy（君主制・王国）と対比される。",
+      "形容詞・名詞 republican は『共和制の・共和党員』。アメリカの Republican Party は『共和党』。"
+    ],
+    "etym_note": "ラテン語 res publica（res「もの」＋ publicus「公の」＝公のもの・公共の事柄）に由来します。「みんなのもの＝国民の国家」が原義で、public（公の）と同じ語源です。",
+    "etym_chain": [
+      { "node": "res publica", "sub": "公のもの", "era": "ラテン語" },
+      { "node": "republique", "sub": "共和国", "era": "フランス語" },
+      { "node": "republic", "sub": "共和国", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a democratic republic", "ja": "民主共和国" },
+      { "en": "become a republic", "ja": "共和国になる" },
+      { "en": "the Republic of Korea", "ja": "大韓民国" },
+      { "en": "a federal republic", "ja": "連邦共和国" },
+      { "en": "the French Republic", "ja": "フランス共和国" },
+      { "en": "republican government", "ja": "共和制の政府" }
+    ],
+    "related": [
+      { "en": "republican", "ja": "共和制の・共和党員" },
+      { "en": "democracy", "ja": "民主主義" },
+      { "en": "monarchy", "ja": "君主制（対比語）" },
+      { "en": "nation", "ja": "国家" }
+    ],
+    "faq": [
+      { "q": "republic と monarchy の違いは？", "a": "republic は王のいない『共和国（国民が選んだ代表が治める）』、monarchy は王や女王のいる『君主制』です。" },
+      { "q": "republican とは？", "a": "『共和制の』という形容詞、または『共和党員』という名詞です。アメリカの Republican Party は『共和党』を指します。" }
+    ],
+    "quiz": [
+      { "q": "The country became a ___ after the revolution.（共和国になった）", "A": "republic", "B": "public", "C": "republican の名詞用法違い", "D": "reception", "correct": "A" },
+      { "q": "republic と対比される『君主制』はどれ？", "A": "democracy", "B": "monarchy", "C": "republican", "D": "nation", "correct": "B" }
+    ]
+  },
+  {
+    "english": "reputation",
+    "pron": "ˌrepjəˈteɪʃən",
+    "kana": "レピュテイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 reputatio（よく考えること・評価）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "名詞"],
+    "meaning_main": "評判・名声",
+    "description": "reputation の意味・発音・例文・語源を解説。have a reputation for（〜で評判だ）の使い方や、good / bad reputation の表現も分かりやすく紹介します。",
+    "keywords": ["reputation 意味", "reputation 発音", "reputation for 使い方", "reputation 評判"],
+    "meanings": [
+      { "hinshi": "【名詞】評判・世評", "note": "世間からの評価。a good reputation（良い評判）。" },
+      { "hinshi": "【名詞】名声・知名度", "note": "build a reputation（名声を築く）。" }
+    ],
+    "usages": [
+      { "title": "① 「評判」として", "desc": "have a reputation for〜で「〜で評判だ」を表します。", "example_en": "This school has a good reputation.", "example_ja": "この学校は評判がよい。" },
+      { "title": "② 「名声・知名度」として", "desc": "築いたり傷つけたりする対象として使います。", "example_en": "The scandal damaged his reputation.", "example_ja": "そのスキャンダルは彼の名声を傷つけた。" }
+    ],
+    "warn": [
+      "「〜で評判だ」は have a reputation for＋名詞／動名詞。",
+      "動詞 repute はまれ。形容詞 reputable（評判のよい）、副詞 reputedly（うわさでは）。"
+    ],
+    "etym_note": "ラテン語 reputatio（reputare「re-（再び）＋ putare（考える）」＝よく考えること・評価）に由来します。compute・dispute と同じ put-（考える・数える）の語根です。",
+    "etym_chain": [
+      { "node": "reputatio", "sub": "評価・熟考", "era": "ラテン語" },
+      { "node": "reputacion", "sub": "評判", "era": "古フランス語" },
+      { "node": "reputation", "sub": "評判・名声", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a good reputation", "ja": "良い評判" },
+      { "en": "a bad reputation", "ja": "悪い評判" },
+      { "en": "have a reputation for", "ja": "〜で評判だ" },
+      { "en": "build a reputation", "ja": "名声を築く" },
+      { "en": "damage one's reputation", "ja": "評判を傷つける" },
+      { "en": "live up to one's reputation", "ja": "評判どおりである" }
+    ],
+    "related": [
+      { "en": "reputable", "ja": "評判のよい" },
+      { "en": "fame", "ja": "名声" },
+      { "en": "image", "ja": "イメージ・印象" },
+      { "en": "honor", "ja": "名誉" }
+    ],
+    "faq": [
+      { "q": "have a reputation for の使い方は？", "a": "『〜で評判だ』という意味で、あとに名詞や動名詞を続けます。He has a reputation for honesty.（彼は正直さで評判だ）のように使います。" },
+      { "q": "reputation の形容詞は？", "a": "reputable（評判のよい・信頼できる）です。a reputable company（信頼できる会社）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The scandal damaged his ___.（名声を傷つけた）", "A": "reputation", "B": "reception", "C": "relation", "D": "revolution", "correct": "A" },
+      { "q": "「〜で評判だ」を表すのはどれ？", "A": "have a reputation for", "B": "have a reputation of", "C": "have a reputation to", "D": "have a reputation at", "correct": "A" }
+    ]
+  },
+  {
+    "english": "restore",
+    "pron": "rɪˈstɔːr",
+    "kana": "リストア",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 restaurare（再建する・回復する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "元に戻す・回復する・修復する",
+    "description": "restore の意味・発音・例文・語源を解説。「元の状態に戻す」というニュアンスや、restore A to B、名詞 restoration も分かりやすく紹介します。",
+    "keywords": ["restore 意味", "restore 発音", "restore to 使い方", "restoration 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（元の状態に）戻す・回復する", "note": "restore order（秩序を回復する）。" },
+      { "hinshi": "【動詞】修復する・復元する", "note": "restore an old building（古い建物を修復する）。" }
+    ],
+    "usages": [
+      { "title": "① 「元に戻す・回復する」として", "desc": "失われた状態を取り戻す意味です。", "example_en": "The police restored order to the city.", "example_ja": "警察は街の秩序を回復した。" },
+      { "title": "② 「修復・復元する」として", "desc": "古いものを元どおりに直す意味です。", "example_en": "They restored the old castle to its former glory.", "example_ja": "彼らは古城をかつての栄光ある姿に復元した。" }
+    ],
+    "warn": [
+      "「AをB（の状態）に戻す」は restore A to B。restaurant（レストラン）と同じ語源。",
+      "名詞は restoration（修復・復元・回復）。"
+    ],
+    "etym_note": "ラテン語 restaurare（再建する・回復する）に由来し、古フランス語を経て英語に入りました。restaurant（レストラン＝元気を回復させる店）と同じ語源です。",
+    "etym_chain": [
+      { "node": "restaurare", "sub": "再建する・回復する", "era": "ラテン語" },
+      { "node": "restorer", "sub": "回復する", "era": "古フランス語" },
+      { "node": "restore", "sub": "元に戻す・修復する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "restore order", "ja": "秩序を回復する" },
+      { "en": "restore A to B", "ja": "AをB（の状態）に戻す" },
+      { "en": "restore confidence", "ja": "信頼を取り戻す" },
+      { "en": "restore a building", "ja": "建物を修復する" },
+      { "en": "restore health", "ja": "健康を回復する" },
+      { "en": "fully restored", "ja": "完全に復元された" }
+    ],
+    "related": [
+      { "en": "restoration", "ja": "修復・復元（名詞）" },
+      { "en": "repair", "ja": "修理する" },
+      { "en": "recover", "ja": "回復する" },
+      { "en": "renew", "ja": "更新する" }
+    ],
+    "faq": [
+      { "q": "restore と repair の違いは？", "a": "restore は『元の（よい）状態に戻す・復元する』、repair は『壊れた部分を直す』です。restore は美術品・建物の復元などにも使います。" },
+      { "q": "restore の名詞形は？", "a": "restoration（修復・復元・回復）です。the restoration of the temple（寺院の修復）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The police ___ order to the city.（秩序を回復した）", "A": "restored", "B": "reduced", "C": "rejected", "D": "removed", "correct": "A" },
+      { "q": "restore の名詞形はどれ？", "A": "restorement", "B": "restoration", "C": "restoreness", "D": "restory", "correct": "B" }
+    ]
+  },
+  {
+    "english": "retire",
+    "pron": "rɪˈtaɪər",
+    "kana": "リタイア",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "フランス語 retirer（引き下がる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "基本動詞"],
+    "meaning_main": "退職する・引退する・退く",
+    "description": "retire の意味・発音・例文・語源を解説。retire from（〜を退職する）の使い方や、retired（退職した）、retirement（退職）も分かりやすく紹介します。",
+    "keywords": ["retire 意味", "retire 発音", "retire from 使い方", "retirement 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】退職する・引退する", "note": "年齢などで仕事をやめる。retire at 65（65歳で退職する）。" },
+      { "hinshi": "【動詞】退く・引きこもる", "note": "戦線・活動などから身を引く。" }
+    ],
+    "usages": [
+      { "title": "① 「退職・引退する」として", "desc": "retire from〜で「〜を退職する」を表します。", "example_en": "My father retired from his job last year.", "example_ja": "父は昨年仕事を退職した。" },
+      { "title": "② retired / retirement として", "desc": "状態や名詞の形でよく使われます。", "example_en": "She is enjoying her retirement.", "example_ja": "彼女は退職後の生活を楽しんでいる。" }
+    ],
+    "warn": [
+      "「〜を退職する」は retire from。スポーツの『途中棄権（リタイア）』の意味でも使う。",
+      "retired は『退職した』、retirement は『退職・引退（名詞）』。"
+    ],
+    "etym_note": "フランス語 retirer（re-「後ろへ」＋ tirer「引く」＝引き下がる）に由来します。「後ろへ引く＝身を退く」が原義で、そこから『引退する』になりました。",
+    "etym_chain": [
+      { "node": "retirer", "sub": "引き下がる", "era": "フランス語" },
+      { "node": "retire", "sub": "退く", "era": "近代英語" },
+      { "node": "retire", "sub": "退職する・引退する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "retire from", "ja": "〜を退職・引退する" },
+      { "en": "retire early", "ja": "早期退職する" },
+      { "en": "a retired teacher", "ja": "退職した教師" },
+      { "en": "retirement age", "ja": "定年" },
+      { "en": "save for retirement", "ja": "老後に備えて貯金する" },
+      { "en": "come out of retirement", "ja": "引退から復帰する" }
+    ],
+    "related": [
+      { "en": "retirement", "ja": "退職・引退（名詞）" },
+      { "en": "retired", "ja": "退職した（形容詞）" },
+      { "en": "resign", "ja": "辞職する" },
+      { "en": "quit", "ja": "やめる" }
+    ],
+    "faq": [
+      { "q": "retire from の意味は？", "a": "『〜を退職・引退する』という意味です。retire from politics（政界を引退する）のように使います。" },
+      { "q": "retire と resign の違いは？", "a": "retire は『（定年などで）引退する』、resign は『（自分の意志で）辞職する』です。" }
+    ],
+    "quiz": [
+      { "q": "My father ___ from his job last year.（退職した）", "A": "retired", "B": "returned", "C": "removed", "D": "refused", "correct": "A" },
+      { "q": "retire の名詞形（退職）はどれ？", "A": "retirement", "B": "retiral の標準ではない", "C": "retireness", "D": "retiration", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reverse",
+    "pron": "rɪˈvɜːrs",
+    "kana": "リバース",
+    "hinshi": "動詞 / 名詞 / 形容詞",
+    "ld_pos": "動詞・名詞・形容詞",
+    "ld_etym": "ラテン語 reversus（向きを変えた）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "多義語"],
+    "meaning_main": "逆にする・反対にする／逆・後退／逆の",
+    "description": "reverse の意味・発音・例文・語源を解説。「逆にする」の動詞用法や、in reverse（逆に）、the reverse（逆のこと）も分かりやすく紹介します。",
+    "keywords": ["reverse 意味", "reverse 発音", "in reverse 意味", "reverse 逆"],
+    "meanings": [
+      { "hinshi": "【動詞】逆にする・反対にする", "note": "reverse the order（順序を逆にする）。" },
+      { "hinshi": "【動詞】（車を）バックさせる", "note": "reverse the car（車を後退させる）。" },
+      { "hinshi": "【名詞・形容詞】逆・後退／逆の", "note": "in reverse（逆に）、the reverse side（裏面）。" }
+    ],
+    "usages": [
+      { "title": "① 「逆にする・覆す」として", "desc": "順序や決定をひっくり返す意味です。", "example_en": "The court reversed the earlier decision.", "example_ja": "裁判所は以前の判決を覆した。" },
+      { "title": "② in reverse（逆に・バックで）として", "desc": "順序が逆、または車の後退を表します。", "example_en": "He drove the car in reverse into the garage.", "example_ja": "彼は車をバックでガレージに入れた。" }
+    ],
+    "warn": [
+      "in reverse は『逆に・後退して』。the reverse は『逆のこと』。vice versa（逆もまた同様）も関連。",
+      "reverse は『逆転させる』、reserve（予約する・蓄え）とつづり・意味が違う。混同注意。"
+    ],
+    "etym_note": "ラテン語 reversus（revertere「re-（後ろへ）＋ vertere（回す）」＝向きを変えた）に由来します。convert・reverse・version と同じ vert-（回す）の語根です。",
+    "etym_chain": [
+      { "node": "revertere", "sub": "向きを変える", "era": "ラテン語" },
+      { "node": "revers", "sub": "逆の", "era": "古フランス語" },
+      { "node": "reverse", "sub": "逆にする・逆", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "in reverse", "ja": "逆に・バックで" },
+      { "en": "reverse the order", "ja": "順序を逆にする" },
+      { "en": "reverse a decision", "ja": "決定を覆す" },
+      { "en": "the reverse side", "ja": "裏面" },
+      { "en": "reverse gear", "ja": "バックギア" },
+      { "en": "quite the reverse", "ja": "まったく逆で" }
+    ],
+    "related": [
+      { "en": "opposite", "ja": "反対の" },
+      { "en": "invert", "ja": "さかさまにする" },
+      { "en": "backward", "ja": "後ろ向きの" },
+      { "en": "forward", "ja": "前へ（反対語）" }
+    ],
+    "faq": [
+      { "q": "in reverse とはどんな意味？", "a": "『逆に・逆の順序で』または車の『バックで』という意味です。count in reverse（逆に数える）のように使います。" },
+      { "q": "reverse と reserve の違いは？", "a": "reverse は『逆にする・逆』、reserve は『予約する・蓄え』です。つづりが似ているので注意しましょう。" }
+    ],
+    "quiz": [
+      { "q": "The court ___ the earlier decision.（判決を覆した）", "A": "reversed", "B": "reserved", "C": "received", "D": "removed", "correct": "A" },
+      { "q": "「逆に・バックで」を表すのはどれ？", "A": "in reverse", "B": "in reserve", "C": "on reverse", "D": "at reverse", "correct": "A" }
+    ]
+  },
+  {
+    "english": "revolution",
+    "pron": "ˌrevəˈluːʃən",
+    "kana": "レヴォルーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 revolutio（回転・めぐり）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "社会"],
+    "meaning_main": "革命・大変革／（天体の）公転・回転",
+    "description": "revolution の意味・発音・例文・語源を解説。「革命」と「回転・公転」の二つの意味や、形容詞 revolutionary も分かりやすく紹介します。",
+    "keywords": ["revolution 意味", "revolution 発音", "revolution 革命 回転", "revolutionary 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】革命・大変革", "note": "社会や技術の大きな変化。the Industrial Revolution（産業革命）。" },
+      { "hinshi": "【名詞】回転・（天体の）公転", "note": "the revolution of the earth（地球の公転）。" }
+    ],
+    "usages": [
+      { "title": "① 「革命・大変革」として", "desc": "社会や技術の根本的な変化を表します。", "example_en": "The French Revolution changed the country forever.", "example_ja": "フランス革命はその国を永遠に変えた。" },
+      { "title": "② 「回転・公転」として", "desc": "天体や機械の回転を表します。", "example_en": "The earth makes one revolution around the sun in a year.", "example_ja": "地球は1年で太陽の周りを1周する。" }
+    ],
+    "warn": [
+      "形容詞は revolutionary（革命的な・画期的な）。動詞 revolve は『回転する』。",
+      "『回転』の意味は理科で使う。a digital revolution は『デジタル革命（大変革）』。"
+    ],
+    "etym_note": "ラテン語 revolutio（revolvere「re-（再び）＋ volvere（回す）」＝回転・めぐり）に由来します。もとは『天体の回転』で、そこから『（体制が）ひっくり返ること＝革命』になりました。",
+    "etym_chain": [
+      { "node": "revolutio", "sub": "回転・めぐり", "era": "ラテン語" },
+      { "node": "revolution", "sub": "回転・革命", "era": "古フランス語" },
+      { "node": "revolution", "sub": "革命・回転", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the Industrial Revolution", "ja": "産業革命" },
+      { "en": "the French Revolution", "ja": "フランス革命" },
+      { "en": "a digital revolution", "ja": "デジタル革命" },
+      { "en": "start a revolution", "ja": "革命を起こす" },
+      { "en": "the revolution of the earth", "ja": "地球の公転" },
+      { "en": "a peaceful revolution", "ja": "平和的な変革" }
+    ],
+    "related": [
+      { "en": "revolutionary", "ja": "革命的な" },
+      { "en": "revolve", "ja": "回転する" },
+      { "en": "rebellion", "ja": "反乱" },
+      { "en": "reform", "ja": "改革" }
+    ],
+    "faq": [
+      { "q": "revolution の二つの意味は？", "a": "①社会・技術の『革命・大変革』と、②天体や機械の『回転・公転』です。語源は同じ『回ること』です。" },
+      { "q": "revolution の形容詞は？", "a": "revolutionary（革命的な・画期的な）です。a revolutionary idea（画期的なアイデア）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The French ___ changed the country forever.（フランス革命）", "A": "Revolution", "B": "Reception", "C": "Reservation", "D": "Reputation", "correct": "A" },
+      { "q": "revolution の形容詞形はどれ？", "A": "revolutional", "B": "revolutionary", "C": "revolutive", "D": "revolutious", "correct": "B" }
+    ]
+  },
+  {
+    "english": "ridiculous",
+    "pron": "rɪˈdɪkjələs",
+    "kana": "リディキュラス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 ridiculus（笑うべき）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "形容詞"],
+    "meaning_main": "ばかげた・ばかばかしい・笑止な",
+    "description": "ridiculous の意味・発音・例文・語源を解説。「ばかげていてあきれる」というニュアンスや、語源の ridere（笑う）も分かりやすく紹介します。",
+    "keywords": ["ridiculous 意味", "ridiculous 発音", "ridiculous ばかげた", "ridiculous 使い方"],
+    "meanings": [
+      { "hinshi": "【形容詞】ばかげた・ばかばかしい", "note": "あまりに不合理で笑ってしまうほど。" },
+      { "hinshi": "【形容詞】法外な・とんでもない", "note": "a ridiculous price（とんでもない値段）。" }
+    ],
+    "usages": [
+      { "title": "① 「ばかげた」として", "desc": "あまりに不合理であきれる様子を表します。", "example_en": "That's a ridiculous idea.", "example_ja": "それはばかげた考えだ。" },
+      { "title": "② 「法外な」として", "desc": "程度がひどすぎることを表します。", "example_en": "They charged a ridiculous amount of money.", "example_ja": "彼らは法外な金額を請求した。" }
+    ],
+    "warn": [
+      "ridiculous は強い否定的な語。『あきれるほどばかげている』。It's ridiculous that ...（〜なんてばかげている）。",
+      "動詞 ridicule は『あざ笑う・ばかにする』。名詞でも『嘲笑』。"
+    ],
+    "etym_note": "ラテン語 ridiculus（笑うべき。ridere「笑う」から）に由来します。「笑ってしまうほどばかげた」が原義です。ridicule（嘲笑）と同じ語源です。",
+    "etym_chain": [
+      { "node": "ridere", "sub": "笑う", "era": "ラテン語" },
+      { "node": "ridiculus", "sub": "笑うべき", "era": "ラテン語" },
+      { "node": "ridiculous", "sub": "ばかげた", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a ridiculous idea", "ja": "ばかげた考え" },
+      { "en": "look ridiculous", "ja": "こっけいに見える" },
+      { "en": "absolutely ridiculous", "ja": "まったくばかげている" },
+      { "en": "a ridiculous price", "ja": "法外な値段" },
+      { "en": "It's ridiculous that ...", "ja": "〜なんてばかげている" },
+      { "en": "sound ridiculous", "ja": "ばかげて聞こえる" }
+    ],
+    "related": [
+      { "en": "ridicule", "ja": "嘲笑・あざ笑う" },
+      { "en": "absurd", "ja": "不合理な・ばかげた" },
+      { "en": "silly", "ja": "ばかげた" },
+      { "en": "reasonable", "ja": "合理的な（反対概念）" }
+    ],
+    "faq": [
+      { "q": "ridiculous はどのくらい強い語？", "a": "かなり強い否定的な語で、『あきれるほどばかげている』というニュアンスです。" },
+      { "q": "ridiculous の動詞形は？", "a": "ridicule（あざ笑う・ばかにする）です。名詞でも『嘲笑』の意味で使います。" }
+    ],
+    "quiz": [
+      { "q": "That's a ___ idea.（ばかげた考え）", "A": "ridiculous", "B": "reasonable", "C": "remarkable", "D": "rational", "correct": "A" },
+      { "q": "ridiculous の語源（ラテン語 ridere）の意味は？", "A": "走る", "B": "笑う", "C": "怒る", "D": "考える", "correct": "B" }
+    ]
+  },
+  {
+    "english": "rival",
+    "pron": "ˈraɪvəl",
+    "kana": "ライバル",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "ラテン語 rivalis（同じ川を使う者）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "基本語"],
+    "meaning_main": "競争相手・ライバル／（〜に）匹敵する",
+    "description": "rival の意味・発音・例文・語源を解説。「同じ川の水を争う者」という面白い語源や、動詞「匹敵する」、名詞 rivalry も分かりやすく紹介します。",
+    "keywords": ["rival 意味", "rival 発音", "rival 語源", "rivalry 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】競争相手・ライバル", "note": "a business rival（商売敵）。" },
+      { "hinshi": "【動詞】（〜に）匹敵する・張り合う", "note": "rival the best（最高に匹敵する）。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「ライバル」として", "desc": "同じ目標を争う相手を表します。", "example_en": "The two companies are great rivals.", "example_ja": "その2社は大きなライバル同士だ。" },
+      { "title": "② 動詞「匹敵する」として", "desc": "「〜に肩を並べる」という意味です。", "example_en": "Few cities rival Kyoto in beauty.", "example_ja": "美しさで京都に匹敵する都市はほとんどない。" }
+    ],
+    "warn": [
+      "名詞は rivalry（競争・対抗意識）。a friendly rivalry（友好的な競争）。",
+      "語源は『同じ川（river）の水を使う者』＝水を争う者。river と同根。"
+    ],
+    "etym_note": "ラテン語 rivalis（同じ川を使う者。rivus「小川」から）に由来します。「同じ川の水をめぐって争う者」が原義で、river と同じ語源です。",
+    "etym_chain": [
+      { "node": "rivus", "sub": "小川", "era": "ラテン語" },
+      { "node": "rivalis", "sub": "同じ川を使う者", "era": "ラテン語" },
+      { "node": "rival", "sub": "競争相手", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a business rival", "ja": "商売敵" },
+      { "en": "a rival team", "ja": "ライバルチーム" },
+      { "en": "rival companies", "ja": "競合企業" },
+      { "en": "a worthy rival", "ja": "好敵手" },
+      { "en": "without rival", "ja": "並ぶものがない" },
+      { "en": "a fierce rivalry", "ja": "激しい競争" }
+    ],
+    "related": [
+      { "en": "rivalry", "ja": "競争・対抗意識" },
+      { "en": "competitor", "ja": "競争相手" },
+      { "en": "opponent", "ja": "対戦相手" },
+      { "en": "compete", "ja": "競争する" }
+    ],
+    "faq": [
+      { "q": "rival の語源は？", "a": "ラテン語の『同じ川（rivus）の水を使う者』に由来します。水をめぐって争う相手が原義で、river と同じ語源です。" },
+      { "q": "rival の名詞形（競争）は？", "a": "rivalry（競争・対抗意識）です。a long rivalry（長年のライバル関係）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The two companies are great ___.（ライバル同士）", "A": "rivals", "B": "rivers", "C": "rentals", "D": "ratios", "correct": "A" },
+      { "q": "rival の語源と同じ語はどれ？", "A": "river", "B": "rival の派生 rifle", "C": "ribbon", "D": "ring", "correct": "A" }
+    ]
+  },
+  {
+    "english": "roar",
+    "pron": "rɔːr",
+    "kana": "ロア",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "古英語 rārian（うなる・吠える）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "音"],
+    "meaning_main": "（動物が）吠える・（人が）大声で叫ぶ／うなり声・轟音",
+    "description": "roar の意味・発音・例文・語源を解説。ライオンの「吠える」、群衆の「歓声」、エンジンの「轟音」など幅広い使い方を分かりやすく紹介します。",
+    "keywords": ["roar 意味", "roar 発音", "roar ライオン 吠える", "roar 轟音"],
+    "meanings": [
+      { "hinshi": "【動詞】（猛獣が）吠える・うなる", "note": "The lion roared.（ライオンが吠えた）。" },
+      { "hinshi": "【動詞】（人・群衆が）大声を出す・どよめく", "note": "roar with laughter（大笑いする）。" },
+      { "hinshi": "【名詞】うなり声・轟音・歓声", "note": "a roar of applause（わき起こる拍手）。" }
+    ],
+    "usages": [
+      { "title": "① 「吠える・うなる」として", "desc": "猛獣の鳴き声やエンジンの轟音を表します。", "example_en": "The lion roared loudly in the cage.", "example_ja": "ライオンはおりの中で大きく吠えた。" },
+      { "title": "② 「（人が）大声を出す」として", "desc": "群衆の歓声や大笑いを表します。", "example_en": "The crowd roared when the team scored.", "example_ja": "チームが得点すると観客はどよめいた。" }
+    ],
+    "warn": [
+      "roar with laughter は『大笑いする』。a roar of applause は『わき起こる拍手』。",
+      "発音は /rɔːr/「ロア」。擬音的な響きを持つ語。"
+    ],
+    "etym_note": "古英語 rārian（うなる・吠える）に由来する擬音的な語です。音をまねた語なので、多くの言語に似た響きが見られます。",
+    "etym_chain": [
+      { "node": "rārian", "sub": "うなる・吠える", "era": "古英語" },
+      { "node": "roren", "sub": "吠える", "era": "中英語" },
+      { "node": "roar", "sub": "吠える・轟音", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the lion roars", "ja": "ライオンが吠える" },
+      { "en": "roar with laughter", "ja": "大笑いする" },
+      { "en": "a roar of applause", "ja": "わき起こる拍手" },
+      { "en": "the roar of the engine", "ja": "エンジンの轟音" },
+      { "en": "the crowd roared", "ja": "観客がどよめいた" },
+      { "en": "a deafening roar", "ja": "耳をつんざく轟音" }
+    ],
+    "related": [
+      { "en": "growl", "ja": "うなる" },
+      { "en": "shout", "ja": "叫ぶ" },
+      { "en": "thunder", "ja": "雷鳴・とどろく" },
+      { "en": "whisper", "ja": "ささやく（反対概念）" }
+    ],
+    "faq": [
+      { "q": "roar はどんな音に使う？", "a": "ライオンなど猛獣の『吠える声』、群衆の『歓声・どよめき』、エンジンや滝の『轟音』など、大きく力強い音に使います。" },
+      { "q": "roar with laughter とは？", "a": "『大声で笑う・大爆笑する』という意味の表現です。" }
+    ],
+    "quiz": [
+      { "q": "The lion ___ loudly in the cage.（ライオンが吠えた）", "A": "roared", "B": "rolled", "C": "rushed", "D": "ruined", "correct": "A" },
+      { "q": "「大笑いする」を表すのはどれ？", "A": "roar with laughter", "B": "roar with anger のみ", "C": "roar of road", "D": "roar in rain", "correct": "A" }
+    ]
+  }
+]

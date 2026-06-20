@@ -1,0 +1,533 @@
+[
+  {
+    "english": "recede",
+    "pron": "rɪˈsiːd",
+    "kana": "リシード",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 recedere（後ろへ行く）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "退く・遠ざかる・（水が）引く",
+    "description": "recede の意味・発音・例文・語源を解説。波や記憶が「遠ざかる・引く」使い方や、名詞 recession（後退・不況）との関係も分かりやすく紹介します。",
+    "keywords": ["recede 意味", "recede 発音", "recede 引く 遠ざかる", "recession 関係"],
+    "meanings": [
+      { "hinshi": "【動詞】退く・遠ざかる", "note": "だんだん離れて小さくなる。The sound receded.（音が遠ざかった）。" },
+      { "hinshi": "【動詞】（水・潮が）引く", "note": "The floodwaters receded.（洪水の水が引いた）。" }
+    ],
+    "usages": [
+      { "title": "① 「退く・遠ざかる」として", "desc": "だんだん離れていく意味です。", "example_en": "The ship receded into the distance.", "example_ja": "船は遠くへ遠ざかっていった。" },
+      { "title": "② 「（水が）引く」として", "desc": "潮や洪水の水が引く意味です。", "example_en": "After the storm, the water slowly receded.", "example_ja": "嵐のあと、水はゆっくり引いていった。" }
+    ],
+    "warn": [
+      "名詞は recession（後退・景気後退）。a receding hairline は『後退した生え際』。",
+      "recede（退く）↔ advance / approach（進む・近づく）。"
+    ],
+    "etym_note": "ラテン語 recedere（re-「後ろへ」＋ cedere「行く」＝後ろへ行く）に由来します。proceed・succeed・recession と同じ ced-（行く）の語根です。",
+    "etym_chain": [
+      { "node": "recedere", "sub": "後ろへ行く", "era": "ラテン語" },
+      { "node": "recede", "sub": "退く", "era": "近代英語" },
+      { "node": "recede", "sub": "退く・遠ざかる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "recede into the distance", "ja": "遠くへ遠ざかる" },
+      { "en": "the water recedes", "ja": "水が引く" },
+      { "en": "a receding hairline", "ja": "後退した生え際" },
+      { "en": "recede from view", "ja": "視界から消えていく" },
+      { "en": "memories recede", "ja": "記憶が薄れる" },
+      { "en": "recede into the past", "ja": "過去へと遠ざかる" }
+    ],
+    "related": [
+      { "en": "recession", "ja": "後退・不況（名詞）" },
+      { "en": "withdraw", "ja": "退く" },
+      { "en": "retreat", "ja": "後退する" },
+      { "en": "advance", "ja": "進む（反対語）" }
+    ],
+    "faq": [
+      { "q": "recede の名詞形は？", "a": "recession（後退・景気後退）です。同じ ced-（行く）の語源です。" },
+      { "q": "a receding hairline とは？", "a": "『（額が広がって）後退した生え際』のことです。recede が『退く』意味で使われています。" }
+    ],
+    "quiz": [
+      { "q": "The ship ___ into the distance.（遠ざかった）", "A": "receded", "B": "proceeded の語感違い", "C": "removed", "D": "reduced", "correct": "A" },
+      { "q": "recede の反対語はどれ？", "A": "advance", "B": "retreat", "C": "withdraw", "D": "decline", "correct": "A" }
+    ]
+  },
+  {
+    "english": "relentless",
+    "pron": "rɪˈlentləs",
+    "kana": "リレントレス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "relent（折れる）＋ -less（〜がない）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "形容詞"],
+    "meaning_main": "容赦のない・絶え間ない・たゆまぬ",
+    "description": "relentless の意味・発音・例文・語源を解説。「容赦のない・絶え間ない」の使い方や、relent（態度を和らげる）＋ -less という成り立ちも紹介します。",
+    "keywords": ["relentless 意味", "relentless 発音", "relentless 絶え間ない", "relent 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】容赦のない・厳しい", "note": "手を緩めない。relentless pressure（容赦のない圧力）。" },
+      { "hinshi": "【形容詞】絶え間ない・たゆまぬ", "note": "relentless effort（たゆまぬ努力）。" }
+    ],
+    "usages": [
+      { "title": "① 「容赦のない」として", "desc": "手を緩めず厳しく続く様子を表します。", "example_en": "They faced relentless criticism.", "example_ja": "彼らは容赦のない批判に直面した。" },
+      { "title": "② 「絶え間ない・たゆまぬ」として", "desc": "止まることなく続く様子を表します。", "example_en": "Her relentless effort finally paid off.", "example_ja": "彼女のたゆまぬ努力がついに実を結んだ。" }
+    ],
+    "warn": [
+      "relent（態度を和らげる・折れる）＋ -less（〜がない）＝『折れない＝容赦のない』。",
+      "副詞は relentlessly（容赦なく・絶え間なく）。"
+    ],
+    "etym_note": "動詞 relent（態度を和らげる・折れる。ラテン語 lentus「柔らかい」から）に -less（〜がない）がついた語で、「（態度を）和らげない＝容赦のない」が原義です。",
+    "etym_chain": [
+      { "node": "relentir", "sub": "和らげる", "era": "古フランス語" },
+      { "node": "relent", "sub": "態度を和らげる", "era": "中英語" },
+      { "node": "relentless", "sub": "容赦のない", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "relentless pressure", "ja": "容赦のない圧力" },
+      { "en": "relentless effort", "ja": "たゆまぬ努力" },
+      { "en": "relentless criticism", "ja": "容赦のない批判" },
+      { "en": "the relentless heat", "ja": "絶え間ない暑さ" },
+      { "en": "relentless pursuit", "ja": "たゆまぬ追求" },
+      { "en": "relentlessly", "ja": "容赦なく・絶え間なく" }
+    ],
+    "related": [
+      { "en": "relent", "ja": "態度を和らげる" },
+      { "en": "persistent", "ja": "粘り強い" },
+      { "en": "merciless", "ja": "無慈悲な" },
+      { "en": "constant", "ja": "絶え間ない" }
+    ],
+    "faq": [
+      { "q": "relentless の成り立ちは？", "a": "relent（態度を和らげる・折れる）＋ -less（〜がない）で、『折れない＝容赦のない・絶え間ない』という意味になります。" },
+      { "q": "relentless はよい意味でも使う？", "a": "はい。『たゆまぬ努力（relentless effort）』のように、止まらず続く粘り強さを表すよい意味でも使えます。" }
+    ],
+    "quiz": [
+      { "q": "Her ___ effort finally paid off.（たゆまぬ努力）", "A": "relentless", "B": "restless", "C": "reckless", "D": "ruthless", "correct": "A" },
+      { "q": "relentless は relent と何が合わさった語？", "A": "relent ＋ -less", "B": "relent ＋ -ful", "C": "relent ＋ -ness", "D": "relent ＋ -able", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reliance",
+    "pron": "rɪˈlaɪəns",
+    "kana": "リライアンス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rely（頼る）＋ -ance",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "名詞"],
+    "meaning_main": "依存・依頼・信頼",
+    "description": "reliance の意味・発音・例文・語源を解説。reliance on（〜への依存）の使い方や、rely・reliable との関係も分かりやすく紹介します。",
+    "keywords": ["reliance 意味", "reliance 発音", "reliance on 使い方", "self-reliance 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】依存・頼ること", "note": "reliance on technology（技術への依存）。" },
+      { "hinshi": "【名詞】信頼・あてにすること", "note": "place reliance on（〜を信頼する）。" }
+    ],
+    "usages": [
+      { "title": "① 「依存」として", "desc": "reliance on〜で「〜への依存」を表します。", "example_en": "Our reliance on oil is a problem.", "example_ja": "石油への依存は問題だ。" },
+      { "title": "② self-reliance（自立）として", "desc": "「自分の力に頼ること＝自立」を表します。", "example_en": "The school encourages self-reliance.", "example_ja": "その学校は自立を促している。" }
+    ],
+    "warn": [
+      "「〜への依存」は reliance on。動詞は rely on、形容詞は reliable。",
+      "self-reliance は『自立・独立独歩』。"
+    ],
+    "etym_note": "動詞 rely（頼る）に名詞をつくる -ance がついた語で、「頼ること＝依存・信頼」が原義です。rely・reliable と同じ語源です。",
+    "etym_chain": [
+      { "node": "relier", "sub": "結びつける", "era": "古フランス語" },
+      { "node": "rely + ance", "sub": "頼ること", "era": "近代英語" },
+      { "node": "reliance", "sub": "依存・信頼", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reliance on", "ja": "〜への依存" },
+      { "en": "self-reliance", "ja": "自立・自助" },
+      { "en": "heavy reliance", "ja": "大きな依存" },
+      { "en": "place reliance on", "ja": "〜を信頼する" },
+      { "en": "reduce reliance on", "ja": "〜への依存を減らす" },
+      { "en": "overreliance", "ja": "過度の依存" }
+    ],
+    "related": [
+      { "en": "rely", "ja": "頼る（動詞）" },
+      { "en": "reliable", "ja": "信頼できる" },
+      { "en": "dependence", "ja": "依存" },
+      { "en": "independence", "ja": "自立（反対語）" }
+    ],
+    "faq": [
+      { "q": "reliance のあとの前置詞は？", "a": "on です。reliance on imports（輸入への依存）のように使います。" },
+      { "q": "self-reliance とは？", "a": "『自立・自分の力に頼ること』という意味です。" }
+    ],
+    "quiz": [
+      { "q": "Our ___ on oil is a problem.（依存）", "A": "reliance", "B": "reliable", "C": "relative", "D": "relief", "correct": "A" },
+      { "q": "reliance のもとになる動詞はどれ？", "A": "rely", "B": "relate", "C": "release", "D": "relax", "correct": "A" }
+    ]
+  },
+  {
+    "english": "remainder",
+    "pron": "rɪˈmeɪndər",
+    "kana": "リメインダー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "remain（残る）＋ -der",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "数学"],
+    "meaning_main": "残り・残余／（割り算の）余り",
+    "description": "remainder の意味・発音・例文・語源を解説。the remainder（残り）の使い方や、算数の「余り」、rest との違いも分かりやすく紹介します。",
+    "keywords": ["remainder 意味", "remainder 発音", "remainder rest 違い", "remainder 余り"],
+    "meanings": [
+      { "hinshi": "【名詞】残り・残余", "note": "the remainder of〜（〜の残り）。the rest よりかたい。" },
+      { "hinshi": "【名詞】（割り算の）余り", "note": "算数で割り切れずに残る数。" }
+    ],
+    "usages": [
+      { "title": "① 「残り」として", "desc": "the remainder of〜で「〜の残り」を表します。", "example_en": "I'll finish the remainder of the work tomorrow.", "example_ja": "残りの仕事は明日終わらせます。" },
+      { "title": "② 算数の「余り」として", "desc": "割り切れずに残る数を表します。", "example_en": "7 divided by 2 is 3 with a remainder of 1.", "example_ja": "7割る2は3で余り1だ。" }
+    ],
+    "warn": [
+      "the remainder（残り）は the rest よりかたい語。意味はほぼ同じ。",
+      "算数の『余り』は a remainder。動詞 remain（残る）の名詞。"
+    ],
+    "etym_note": "動詞 remain（残る）から派生した名詞で、「残るもの＝残り・余り」が原義です。remain と同じ語源です。",
+    "etym_chain": [
+      { "node": "remanere", "sub": "後に残る", "era": "ラテン語" },
+      { "node": "remainder", "sub": "残り", "era": "中英語" },
+      { "node": "remainder", "sub": "残り・余り", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the remainder of", "ja": "〜の残り" },
+      { "en": "for the remainder of", "ja": "〜の残りの間" },
+      { "en": "the remainder of the day", "ja": "その日の残り" },
+      { "en": "a remainder of 1", "ja": "余り1" },
+      { "en": "spend the remainder", "ja": "残りを過ごす" },
+      { "en": "the remaining amount", "ja": "残りの量（remaining）" }
+    ],
+    "related": [
+      { "en": "rest", "ja": "残り" },
+      { "en": "remain", "ja": "残る（動詞）" },
+      { "en": "leftover", "ja": "残り物" },
+      { "en": "balance", "ja": "残高・残り" }
+    ],
+    "faq": [
+      { "q": "remainder と rest の違いは？", "a": "意味はほぼ同じ『残り』ですが、remainder はややかたい語で、特に算数の『余り』にも使います。" },
+      { "q": "算数の『余り』は英語で？", "a": "remainder です。7 ÷ 2 = 3 remainder 1（7割る2は3余り1）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "I'll finish the ___ of the work tomorrow.（残り）", "A": "remainder", "B": "reminder", "C": "remind", "D": "remain", "correct": "A" },
+      { "q": "算数の『余り』を表すのはどれ？", "A": "remainder", "B": "reminder", "C": "remark", "D": "remedy", "correct": "A" }
+    ]
+  },
+  {
+    "english": "residential",
+    "pron": "ˌrezɪˈdenʃəl",
+    "kana": "レジデンシャル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "resident（居住者）＋ -ial",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "社会"],
+    "meaning_main": "住宅の・居住用の・住み込みの",
+    "description": "residential の意味・発音・例文・語源を解説。a residential area（住宅地）の使い方や、commercial（商業の）との対比も分かりやすく紹介します。",
+    "keywords": ["residential 意味", "residential 発音", "residential area 意味", "residential commercial 違い"],
+    "meanings": [
+      { "hinshi": "【形容詞】住宅の・居住用の", "note": "人が住むための。a residential area（住宅地）。" },
+      { "hinshi": "【形容詞】住み込みの", "note": "a residential course（泊まり込みの講座）。" }
+    ],
+    "usages": [
+      { "title": "① 「住宅の・居住用の」として", "desc": "人が住む地域・建物を表します。", "example_en": "They live in a quiet residential area.", "example_ja": "彼らは静かな住宅地に住んでいる。" },
+      { "title": "② commercial との対比で", "desc": "商業地区（commercial）と対比します。", "example_en": "This zone is residential, not commercial.", "example_ja": "この区域は商業用ではなく住宅用だ。" }
+    ],
+    "warn": [
+      "resident（住民）/ residence（住居）/ residential（住宅の）を区別する。",
+      "対比語は commercial（商業の）、industrial（工業の）。"
+    ],
+    "etym_note": "resident（居住者・居住する）に -ial（〜に関する）がついた語で、「居住に関する＝住宅の」が原義です。reside・residence と同じ語源です。",
+    "etym_chain": [
+      { "node": "residere", "sub": "とどまる・住む", "era": "ラテン語" },
+      { "node": "resident", "sub": "居住する", "era": "中英語" },
+      { "node": "residential", "sub": "住宅の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a residential area", "ja": "住宅地" },
+      { "en": "a residential district", "ja": "住宅地区" },
+      { "en": "residential property", "ja": "住宅用不動産" },
+      { "en": "a residential street", "ja": "住宅街の通り" },
+      { "en": "a residential course", "ja": "泊まり込みの講座" },
+      { "en": "residential care", "ja": "施設での介護" }
+    ],
+    "related": [
+      { "en": "resident", "ja": "居住者" },
+      { "en": "residence", "ja": "住居" },
+      { "en": "commercial", "ja": "商業の（対比語）" },
+      { "en": "housing", "ja": "住宅" }
+    ],
+    "faq": [
+      { "q": "residential area とは？", "a": "『住宅地（人が住むための地域）』のことです。商業地区 commercial area と対比されます。" },
+      { "q": "resident と residential の違いは？", "a": "resident は名詞『居住者』、residential は形容詞『住宅の・居住用の』です。" }
+    ],
+    "quiz": [
+      { "q": "They live in a quiet ___ area.（住宅地）", "A": "residential", "B": "resident", "C": "residence", "D": "reside", "correct": "A" },
+      { "q": "residential の対比語（商業の）はどれ？", "A": "commercial", "B": "rural", "C": "central", "D": "natural", "correct": "A" }
+    ]
+  },
+  {
+    "english": "revelation",
+    "pron": "ˌrevəˈleɪʃən",
+    "kana": "レベレイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "reveal（明らかにする）＋ -ation",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "名詞"],
+    "meaning_main": "暴露・発覚・思いがけない発見",
+    "description": "revelation の意味・発音・例文・語源を解説。「衝撃の事実・思いがけない発見」の使い方や、動詞 reveal との関係も分かりやすく紹介します。",
+    "keywords": ["revelation 意味", "revelation 発音", "reveal revelation 関係", "revelation 暴露"],
+    "meanings": [
+      { "hinshi": "【名詞】暴露・発覚", "note": "隠れていた事実が明らかになること。shocking revelations（衝撃の暴露）。" },
+      { "hinshi": "【名詞】思いがけない発見・新たな気づき", "note": "It was a revelation.（目からうろこだった）。" }
+    ],
+    "usages": [
+      { "title": "① 「暴露・発覚」として", "desc": "隠れていた事実が明らかになることを表します。", "example_en": "The revelations shocked the public.", "example_ja": "その暴露は世間に衝撃を与えた。" },
+      { "title": "② 「思いがけない発見」として", "desc": "新たな気づき・驚きを表します。", "example_en": "Meeting her was a real revelation.", "example_ja": "彼女との出会いはまさに目からうろこの体験だった。" }
+    ],
+    "warn": [
+      "動詞 reveal（明らかにする）の名詞。発音は『レベレイション』でアクセントが動く。",
+      "a revelation は『目からうろこの発見・驚くべき新事実』の意味でも使う。"
+    ],
+    "etym_note": "動詞 reveal（明らかにする。ラテン語 revelare「ベールを取る」から）の名詞形で、「明らかにされたこと＝暴露・発見」が原義です。veil（ベール）と同じ語源です。",
+    "etym_chain": [
+      { "node": "revelare", "sub": "ベールを取る", "era": "ラテン語" },
+      { "node": "revelation", "sub": "啓示・暴露", "era": "中英語" },
+      { "node": "revelation", "sub": "暴露・発見", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "shocking revelations", "ja": "衝撃の暴露" },
+      { "en": "a startling revelation", "ja": "驚くべき新事実" },
+      { "en": "be a revelation", "ja": "目からうろこである" },
+      { "en": "come as a revelation", "ja": "意外な発見となる" },
+      { "en": "a sudden revelation", "ja": "突然のひらめき" },
+      { "en": "make a revelation", "ja": "暴露する" }
+    ],
+    "related": [
+      { "en": "reveal", "ja": "明らかにする（動詞）" },
+      { "en": "disclosure", "ja": "開示・暴露" },
+      { "en": "discovery", "ja": "発見" },
+      { "en": "secret", "ja": "秘密（対比語）" }
+    ],
+    "faq": [
+      { "q": "revelation の二つの使い方は？", "a": "①隠れた事実の『暴露・発覚』と、②『思いがけない発見・目からうろこの体験』です。" },
+      { "q": "revelation の動詞形は？", "a": "reveal（明らかにする・打ち明ける）です。" }
+    ],
+    "quiz": [
+      { "q": "The ___ shocked the public.（暴露）", "A": "revelations", "B": "reservations", "C": "reflections", "D": "regulations", "correct": "A" },
+      { "q": "revelation の動詞形はどれ？", "A": "reveal", "B": "revolve", "C": "revise", "D": "revive", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rhetoric",
+    "pron": "ˈretərɪk",
+    "kana": "レトリック",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 rhetorike（弁論術）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "言葉"],
+    "meaning_main": "修辞・弁論術／（中身のない）美辞麗句",
+    "description": "rhetoric の意味・発音・例文・語源を解説。「効果的に話す技術（修辞）」と、批判的な「美辞麗句」の両方の使い方を分かりやすく紹介します。",
+    "keywords": ["rhetoric 意味", "rhetoric 発音", "rhetoric 修辞", "rhetorical question"],
+    "meanings": [
+      { "hinshi": "【名詞】修辞・弁論術", "note": "言葉で人を説得・感動させる技術。" },
+      { "hinshi": "【名詞】（中身のない）美辞麗句", "note": "批判的に『口先だけの言葉』を指す。empty rhetoric。" }
+    ],
+    "usages": [
+      { "title": "① 「修辞・弁論術」として", "desc": "効果的に言葉を使う技術を表します。", "example_en": "He studied the rhetoric of famous speeches.", "example_ja": "彼は有名な演説の修辞法を研究した。" },
+      { "title": "② 「美辞麗句」として", "desc": "中身の伴わない言葉を批判的に表します。", "example_en": "Their promises were just empty rhetoric.", "example_ja": "彼らの約束は中身のない美辞麗句にすぎなかった。" }
+    ],
+    "warn": [
+      "形容詞は rhetorical。a rhetorical question は『修辞疑問（答えを求めない問いかけ）』。",
+      "つづりに注意：rh- で始まる（rhythm, rhyme と同じギリシャ語系）。"
+    ],
+    "etym_note": "ギリシャ語 rhetorike (techne)（弁論の技術。rhetor「弁論家」から）に由来します。古代ギリシャ・ローマで重視された『説得の技術』が原義です。",
+    "etym_chain": [
+      { "node": "rhetorike", "sub": "弁論術", "era": "ギリシャ語" },
+      { "node": "rethorique", "sub": "修辞", "era": "古フランス語" },
+      { "node": "rhetoric", "sub": "修辞・美辞麗句", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "empty rhetoric", "ja": "中身のない美辞麗句" },
+      { "en": "political rhetoric", "ja": "政治的なレトリック" },
+      { "en": "a rhetorical question", "ja": "修辞疑問" },
+      { "en": "the art of rhetoric", "ja": "修辞の技術" },
+      { "en": "fiery rhetoric", "ja": "激しい弁舌" },
+      { "en": "persuasive rhetoric", "ja": "説得力のある修辞" }
+    ],
+    "related": [
+      { "en": "rhetorical", "ja": "修辞的な" },
+      { "en": "persuasion", "ja": "説得" },
+      { "en": "speech", "ja": "演説" },
+      { "en": "eloquence", "ja": "雄弁" }
+    ],
+    "faq": [
+      { "q": "rhetoric の二つの意味は？", "a": "①『修辞・弁論術（効果的に話す技術）』と、②批判的に『（中身のない）美辞麗句』です。" },
+      { "q": "a rhetorical question とは？", "a": "『修辞疑問』、つまり答えを求めず効果のために問いかける文のことです。" }
+    ],
+    "quiz": [
+      { "q": "Their promises were just empty ___.（美辞麗句）", "A": "rhetoric", "B": "rhythm", "C": "rhyme", "D": "routine", "correct": "A" },
+      { "q": "「答えを求めない問いかけ」を表すのはどれ？", "A": "a rhetorical question", "B": "a rhythmic question", "C": "a routine question", "D": "a regular question", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rinse",
+    "pron": "rɪns",
+    "kana": "リンス",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "古フランス語 rincer（すすぐ）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "基本動詞"],
+    "meaning_main": "すすぐ・ゆすぐ／すすぎ",
+    "description": "rinse の意味・発音・例文・語源を解説。水で「すすぐ・ゆすぐ」使い方や、和製英語の『リンス（ヘアコンディショナー）』との違いも分かりやすく紹介します。",
+    "keywords": ["rinse 意味", "rinse 発音", "rinse すすぐ", "rinse リンス 違い"],
+    "meanings": [
+      { "hinshi": "【動詞】すすぐ・ゆすぐ", "note": "水で洗い流す。rinse the dishes（皿をすすぐ）。" },
+      { "hinshi": "【名詞】すすぎ・ゆすぐこと", "note": "give it a rinse（さっとすすぐ）。" }
+    ],
+    "usages": [
+      { "title": "① 「すすぐ・ゆすぐ」として", "desc": "水で汚れや泡を洗い流す意味です。", "example_en": "Rinse the vegetables under cold water.", "example_ja": "野菜を冷たい水で洗ってください。" },
+      { "title": "② 「口をゆすぐ」として", "desc": "rinse out（ゆすぐ）の形でも使います。", "example_en": "Rinse your mouth after brushing.", "example_ja": "歯みがきのあと口をゆすぎなさい。" }
+    ],
+    "warn": [
+      "和製英語の『リンス（髪用）』は英語では conditioner（hair conditioner）。rinse は『すすぐ』動作。",
+      "rinse out / rinse off（すすぎ落とす）も頻出。"
+    ],
+    "etym_note": "古フランス語 rincer（すすぐ）に由来します。水で洗い流すことを表す語で、料理・洗濯・身じたくで広く使われます。",
+    "etym_chain": [
+      { "node": "rincer", "sub": "すすぐ", "era": "古フランス語" },
+      { "node": "rinsen", "sub": "すすぐ", "era": "中英語" },
+      { "node": "rinse", "sub": "すすぐ・ゆすぐ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rinse the dishes", "ja": "皿をすすぐ" },
+      { "en": "rinse your mouth", "ja": "口をゆすぐ" },
+      { "en": "rinse off", "ja": "すすぎ落とす" },
+      { "en": "rinse out", "ja": "ゆすぐ・洗い流す" },
+      { "en": "give it a rinse", "ja": "さっとすすぐ" },
+      { "en": "rinse with water", "ja": "水ですすぐ" }
+    ],
+    "related": [
+      { "en": "wash", "ja": "洗う" },
+      { "en": "clean", "ja": "きれいにする" },
+      { "en": "conditioner", "ja": "（髪の）リンス・コンディショナー" },
+      { "en": "soak", "ja": "浸す" }
+    ],
+    "faq": [
+      { "q": "英語の rinse と日本語の『リンス』は同じ？", "a": "違います。日本語の『リンス（髪用）』は英語では conditioner です。英語の rinse は『（水で）すすぐ』という動作を表します。" },
+      { "q": "rinse off と rinse out の違いは？", "a": "rinse off は『（表面の汚れ・泡を）すすぎ落とす』、rinse out は『（中まで）ゆすぐ・洗い流す』というニュアンスです。" }
+    ],
+    "quiz": [
+      { "q": "___ the vegetables under cold water.（すすいで）", "A": "Rinse", "B": "Raise", "C": "Roast", "D": "Reverse", "correct": "A" },
+      { "q": "髪用の『リンス』を表す英語はどれ？", "A": "rinse", "B": "conditioner", "C": "shampoo", "D": "soap", "correct": "B" }
+    ]
+  },
+  {
+    "english": "rugged",
+    "pron": "ˈrʌɡɪd",
+    "kana": "ラギッド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "中英語 rugged（毛むくじゃらの・ごつごつした）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "形容詞"],
+    "meaning_main": "ごつごつした・けわしい・たくましい・頑丈な",
+    "description": "rugged の意味・発音・例文・語源を解説。「ごつごつした地形」や「たくましい体つき」「頑丈な造り」の使い方を分かりやすく紹介します。",
+    "keywords": ["rugged 意味", "rugged 発音", "rugged 地形 たくましい", "rugged 頑丈"],
+    "meanings": [
+      { "hinshi": "【形容詞】（地形が）ごつごつした・けわしい", "note": "rugged mountains（けわしい山々）。" },
+      { "hinshi": "【形容詞】（顔・体が）たくましい・武骨な", "note": "rugged good looks（武骨で魅力的な容貌）。" },
+      { "hinshi": "【形容詞】頑丈な・丈夫な", "note": "a rugged design（頑丈な造り）。" }
+    ],
+    "usages": [
+      { "title": "① 「ごつごつした・けわしい」として", "desc": "起伏が激しく荒々しい地形を表します。", "example_en": "They hiked across the rugged terrain.", "example_ja": "彼らはけわしい地形を歩いて越えた。" },
+      { "title": "② 「たくましい・頑丈な」として", "desc": "武骨で丈夫な様子を表します。", "example_en": "The truck has a rugged design.", "example_ja": "そのトラックは頑丈な造りになっている。" }
+    ],
+    "warn": [
+      "発音は /ˈrʌɡɪd/「ラギッド」で、-ed を『イッド』と読む（wicked, naked と同じパターン）。",
+      "rugged は『（地形が）けわしい』『（人が）武骨でたくましい』『（物が）頑丈な』など幅広い。"
+    ],
+    "etym_note": "中英語 rugged（毛むくじゃらの・ごつごつした）に由来し、rug（粗い布）とも関係する語です。荒々しく丈夫な様子を表します。",
+    "etym_chain": [
+      { "node": "rugged", "sub": "毛むくじゃらの・ごつごつした", "era": "中英語" },
+      { "node": "rugged", "sub": "けわしい・頑丈な", "era": "近代英語" },
+      { "node": "rugged", "sub": "ごつごつした・たくましい", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rugged mountains", "ja": "けわしい山々" },
+      { "en": "rugged terrain", "ja": "けわしい地形" },
+      { "en": "a rugged coastline", "ja": "ごつごつした海岸線" },
+      { "en": "rugged good looks", "ja": "武骨で魅力的な容貌" },
+      { "en": "a rugged design", "ja": "頑丈な造り" },
+      { "en": "rugged and durable", "ja": "頑丈で長持ちする" }
+    ],
+    "related": [
+      { "en": "rough", "ja": "粗い・荒れた" },
+      { "en": "tough", "ja": "丈夫な" },
+      { "en": "sturdy", "ja": "頑丈な" },
+      { "en": "smooth", "ja": "なめらかな（反対概念）" }
+    ],
+    "faq": [
+      { "q": "rugged の発音の注意点は？", "a": "/ˈrʌɡɪd/「ラギッド」で、語尾の -ed を『イッド』と発音します。wicked（ウィキッド）や naked（ネイキッド）と同じパターンです。" },
+      { "q": "rugged はどんなものに使う？", "a": "けわしい『地形』、武骨でたくましい『人・顔つき』、頑丈な『製品の造り』など幅広く使えます。" }
+    ],
+    "quiz": [
+      { "q": "They hiked across the ___ terrain.（けわしい地形）", "A": "rugged", "B": "ragged の語感違い", "C": "rigid", "D": "rural", "correct": "A" },
+      { "q": "rugged の -ed の発音はどれ？", "A": "ド（rugd）", "B": "イッド（ラギッド）", "C": "ト（rugt）", "D": "発音しない", "correct": "B" }
+    ]
+  },
+  {
+    "english": "rumble",
+    "pron": "ˈrʌmbəl",
+    "kana": "ランブル",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "中英語 romblen（ごろごろ鳴る）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "音"],
+    "meaning_main": "ごろごろ鳴る・とどろく／とどろき・ごろごろ音",
+    "description": "rumble の意味・発音・例文・語源を解説。雷やおなかが「ごろごろ鳴る」擬音的な使い方を分かりやすく紹介します。",
+    "keywords": ["rumble 意味", "rumble 発音", "rumble ごろごろ", "stomach rumble"],
+    "meanings": [
+      { "hinshi": "【動詞】ごろごろ鳴る・とどろく", "note": "低く長く鳴り響く。Thunder rumbled.（雷がとどろいた）。" },
+      { "hinshi": "【名詞】とどろき・ごろごろ音", "note": "a low rumble（低いとどろき）。" }
+    ],
+    "usages": [
+      { "title": "① 「ごろごろ鳴る・とどろく」として", "desc": "雷・車・地面などが低く鳴り響く意味です。", "example_en": "Thunder rumbled in the distance.", "example_ja": "遠くで雷がごろごろと鳴った。" },
+      { "title": "② おなかが鳴るとして", "desc": "空腹でおなかが鳴る様子を表します。", "example_en": "My stomach was rumbling with hunger.", "example_ja": "空腹でおなかがごろごろ鳴っていた。" }
+    ],
+    "warn": [
+      "rumble は『低く長くとどろく音』の擬音語。grumble（不平を言う）と似ているが意味が違う。",
+      "a rumble of thunder は『雷鳴のとどろき』。"
+    ],
+    "etym_note": "中英語 romblen（ごろごろ鳴る）に由来する擬音的な語です。低く連続して鳴り響く音をまねた語で、多くの言語に似た響きが見られます。",
+    "etym_chain": [
+      { "node": "romblen", "sub": "ごろごろ鳴る", "era": "中英語" },
+      { "node": "rumble", "sub": "とどろく", "era": "近代英語" },
+      { "node": "rumble", "sub": "ごろごろ鳴る・とどろき", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "thunder rumbles", "ja": "雷がとどろく" },
+      { "en": "a low rumble", "ja": "低いとどろき" },
+      { "en": "stomach rumbles", "ja": "おなかが鳴る" },
+      { "en": "the rumble of traffic", "ja": "車の通りのとどろき" },
+      { "en": "a distant rumble", "ja": "遠くのとどろき" },
+      { "en": "rumble along", "ja": "ごろごろと進む" }
+    ],
+    "related": [
+      { "en": "thunder", "ja": "雷鳴・とどろく" },
+      { "en": "roar", "ja": "とどろく・吠える" },
+      { "en": "grumble", "ja": "不平を言う・ごろごろ鳴る" },
+      { "en": "echo", "ja": "響く" }
+    ],
+    "faq": [
+      { "q": "rumble はどんな音？", "a": "雷・トラック・地面・おなかなどが『低く長くごろごろとどろく音』を表す擬音的な語です。" },
+      { "q": "rumble と grumble の違いは？", "a": "rumble は『ごろごろとどろく（音）』、grumble は『不平を言う・（おなかが）鳴る』です。発音が似ているので注意しましょう。" }
+    ],
+    "quiz": [
+      { "q": "Thunder ___ in the distance.（とどろいた）", "A": "rumbled", "B": "roamed", "C": "rinsed", "D": "ranged", "correct": "A" },
+      { "q": "rumble が表す音はどれ？", "A": "低くごろごろとどろく音", "B": "高く鋭い音", "C": "静かなささやき", "D": "短いはじける音", "correct": "A" }
+    ]
+  }
+]

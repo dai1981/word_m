@@ -1,0 +1,536 @@
+[
+  {
+    "english": "responsible",
+    "pron": "rɪˈspɑːnsəbəl",
+    "kana": "リスポンシブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 respondere（応える）＋ -ible",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "形容詞"],
+    "meaning_main": "責任がある・責任感の強い",
+    "description": "responsible の意味・発音・例文・語源を解説。be responsible for の使い方や、名詞 responsibility、反対語 irresponsible も紹介します。",
+    "keywords": ["responsible 意味", "responsible 発音", "responsible for 使い方", "responsibility 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】（〜に対して）責任がある", "note": "be responsible for（〜に責任がある・〜を担当する）。" },
+      { "hinshi": "【形容詞】責任感の強い・信頼できる", "note": "a responsible person（責任感のある人）。" },
+      { "hinshi": "【形容詞】（原因として）〜のもとである", "note": "be responsible for the damage（被害の原因である）。" }
+    ],
+    "usages": [
+      { "title": "① be responsible for（〜に責任がある）", "desc": "担当や責任の所在を表す基本の形です。", "example_en": "Who is responsible for this project?", "example_ja": "このプロジェクトの責任者は誰ですか。" },
+      { "title": "② 「責任感がある」として", "desc": "信頼できる人柄を表す意味です。", "example_en": "She is a responsible and hard-working student.", "example_ja": "彼女は責任感が強く勤勉な生徒だ。" }
+    ],
+    "warn": [
+      "「〜に責任がある」は be responsible for＋名詞／動名詞。to ではない。",
+      "名詞は responsibility（責任）。反対語は irresponsible（無責任な）。"
+    ],
+    "etym_note": "ラテン語 respondere（応える）に -ible（〜できる）がついた語で、「（求めに）応えられる＝責任を負える」が原義です。respond・response と同じ語源です。",
+    "etym_chain": [
+      { "node": "respondere", "sub": "応える", "era": "ラテン語" },
+      { "node": "responsible", "sub": "応えられる・責任ある", "era": "近代英語" },
+      { "node": "responsible", "sub": "責任がある", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be responsible for", "ja": "〜に責任がある" },
+      { "en": "a responsible person", "ja": "責任感のある人" },
+      { "en": "hold someone responsible", "ja": "〜に責任を負わせる" },
+      { "en": "socially responsible", "ja": "社会的に責任のある" },
+      { "en": "feel responsible", "ja": "責任を感じる" },
+      { "en": "a responsible position", "ja": "責任ある地位" }
+    ],
+    "related": [
+      { "en": "responsibility", "ja": "責任（名詞）" },
+      { "en": "irresponsible", "ja": "無責任な（反対語）" },
+      { "en": "reliable", "ja": "信頼できる" },
+      { "en": "duty", "ja": "義務・職務" }
+    ],
+    "faq": [
+      { "q": "responsible のあとの前置詞は？", "a": "for です。be responsible for the result（結果に責任がある）のように使います。" },
+      { "q": "responsible の名詞・反対語は？", "a": "名詞は responsibility（責任）、反対語は irresponsible（無責任な）です。" }
+    ],
+    "quiz": [
+      { "q": "Who is responsible ___ this project?（責任者は誰）", "A": "for", "B": "to", "C": "of", "D": "at", "correct": "A" },
+      { "q": "responsible の反対語はどれ？", "A": "unresponsible", "B": "irresponsible", "C": "disresponsible", "D": "nonresponsible", "correct": "B" }
+    ]
+  },
+  {
+    "english": "rest",
+    "pron": "rest",
+    "kana": "レスト",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "古英語 ræst（休息）",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "多義語"],
+    "meaning_main": "休み・休息／休む／残り",
+    "description": "rest の意味・発音・例文・語源を解説。「休む」と「残り（the rest）」という二つの重要な意味を、使い分けながら分かりやすく紹介します。",
+    "keywords": ["rest 意味", "rest 発音", "the rest 意味", "rest 休む 残り"],
+    "meanings": [
+      { "hinshi": "【名詞】休み・休息", "note": "take a rest（休憩する）。have a rest とも言う。" },
+      { "hinshi": "【動詞】休む・休ませる", "note": "rest for a while（少し休む）。" },
+      { "hinshi": "【名詞】(the rest) 残り", "note": "the rest of the day（その日の残り）。" }
+    ],
+    "usages": [
+      { "title": "① 「休む・休息」として", "desc": "take a rest / rest で疲れをとる意味です。", "example_en": "You should rest after the long trip.", "example_ja": "長旅のあとは休んだ方がいい。" },
+      { "title": "② the rest（残り）として", "desc": "残りの部分・人々を表します。", "example_en": "I'll do the rest of the work tomorrow.", "example_ja": "残りの仕事は明日やります。" }
+    ],
+    "warn": [
+      "the rest of＋名詞は『〜の残り』。複数なら動詞も複数、単数なら単数で受ける。",
+      "「休憩する」は take a rest / have a rest。get some rest（休息をとる）も自然。"
+    ],
+    "etym_note": "古英語 ræst（休息・睡眠）に由来する古いゲルマン系の語です。『残り』の rest は別系統で、ラテン語 restare（後に残る）から来ています。",
+    "etym_chain": [
+      { "node": "ræst", "sub": "休息", "era": "古英語" },
+      { "node": "rest", "sub": "休息", "era": "中英語" },
+      { "node": "rest", "sub": "休み・残り", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "take a rest", "ja": "休憩する" },
+      { "en": "get some rest", "ja": "休息をとる" },
+      { "en": "the rest of", "ja": "〜の残り" },
+      { "en": "rest in peace", "ja": "安らかに眠れ（R.I.P.）" },
+      { "en": "a rest area", "ja": "休憩所" },
+      { "en": "and the rest", "ja": "その他もろもろ" }
+    ],
+    "related": [
+      { "en": "relax", "ja": "くつろぐ" },
+      { "en": "break", "ja": "休憩" },
+      { "en": "sleep", "ja": "眠る" },
+      { "en": "remaining", "ja": "残りの" }
+    ],
+    "faq": [
+      { "q": "rest の二つの大きな意味は？", "a": "①『休む・休息』（take a rest）と②『残り』（the rest of〜）です。文脈で見分けます。" },
+      { "q": "the rest of them は単数？複数？", "a": "of のあとが複数（them）なら複数扱い、単数（it）なら単数扱いで動詞を合わせます。" }
+    ],
+    "quiz": [
+      { "q": "You should ___ after the long trip.（休んだ方がいい）", "A": "rest", "B": "respect", "C": "respond", "D": "result", "correct": "A" },
+      { "q": "「その日の残り」を表すのはどれ？", "A": "the rest of the day", "B": "the relax of the day", "C": "the result of the day", "D": "the return of the day", "correct": "A" }
+    ]
+  },
+  {
+    "english": "restaurant",
+    "pron": "ˈrestərɑːnt",
+    "kana": "レストラント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 restaurant（元気を回復させるもの）",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "身近な場所"],
+    "meaning_main": "レストラン・飲食店",
+    "description": "restaurant（レストラン）の意味・発音・例文・語源を解説。つづりが難しい単語で、フランス語由来の「元気を回復させる」という語源も紹介します。",
+    "keywords": ["restaurant 意味", "restaurant 発音", "restaurant つづり", "restaurant 語源"],
+    "meanings": [
+      { "hinshi": "【名詞】レストラン・飲食店", "note": "食事を提供する店。at a restaurant（レストランで）。" }
+    ],
+    "usages": [
+      { "title": "① 食事をする場所として", "desc": "外食する場所を表す基本の身近な語です。", "example_en": "We had dinner at a nice Italian restaurant.", "example_ja": "私たちはすてきなイタリアンレストランで夕食をとった。" },
+      { "title": "② 種類を表して", "desc": "料理の種類を前につけて表せます。", "example_en": "There is a new sushi restaurant near my house.", "example_ja": "家の近くに新しいすし屋ができた。" }
+    ],
+    "warn": [
+      "つづりが難しい：res-tau-rant。au と最後の -rant に注意。",
+      "発音は『レストラン』に近いが、語尾は /rɑːnt/。au は『オー』ではなく弱く読む。"
+    ],
+    "etym_note": "フランス語 restaurant（restaurer『元気を回復させる』の現在分詞）に由来します。もとは『体力を回復させるスープ』を指し、それを出す店の名になりました。restore（回復させる）と同じ語源です。",
+    "etym_chain": [
+      { "node": "restaurare", "sub": "回復させる", "era": "ラテン語" },
+      { "node": "restaurant", "sub": "元気を回復させるもの", "era": "フランス語" },
+      { "node": "restaurant", "sub": "レストラン", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "at a restaurant", "ja": "レストランで" },
+      { "en": "a fast-food restaurant", "ja": "ファストフード店" },
+      { "en": "an Italian restaurant", "ja": "イタリア料理店" },
+      { "en": "book a restaurant", "ja": "レストランを予約する" },
+      { "en": "a family restaurant", "ja": "ファミリーレストラン" },
+      { "en": "run a restaurant", "ja": "レストランを経営する" }
+    ],
+    "related": [
+      { "en": "cafe", "ja": "カフェ・喫茶店" },
+      { "en": "menu", "ja": "メニュー" },
+      { "en": "meal", "ja": "食事" },
+      { "en": "chef", "ja": "料理長・シェフ" }
+    ],
+    "faq": [
+      { "q": "restaurant のつづりのコツは？", "a": "res＋tau＋rant と区切ると覚えやすいです。語源の restore（回復させる）と結びつけると忘れにくくなります。" },
+      { "q": "「レストランで食べる」は英語で？", "a": "eat at a restaurant です。前置詞は at を使います。" }
+    ],
+    "quiz": [
+      { "q": "We had dinner at a nice Italian ___.（レストランで夕食）", "A": "restaurant", "B": "restraint", "C": "resident", "D": "result", "correct": "A" },
+      { "q": "restaurant の正しいつづりはどれ？", "A": "restraunt", "B": "restaurant", "C": "resturant", "D": "restaraunt", "correct": "B" }
+    ]
+  },
+  {
+    "english": "result",
+    "pron": "rɪˈzʌlt",
+    "kana": "リザルト",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "ラテン語 resultare（跳ね返る・生じる）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "基本語"],
+    "meaning_main": "結果／結果として生じる",
+    "description": "result の意味・発音・例文・語源を解説。result from と result in の向きの違いという重要ポイントや、as a result も分かりやすく紹介します。",
+    "keywords": ["result 意味", "result 発音", "result in from 違い", "as a result 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】結果・成果", "note": "the test results（試験の結果）。" },
+      { "hinshi": "【動詞】(result from) 〜から生じる", "note": "原因←結果。The accident resulted from carelessness." },
+      { "hinshi": "【動詞】(result in) 〜という結果になる", "note": "結果→。The fire resulted in great damage." }
+    ],
+    "usages": [
+      { "title": "① 名詞「結果」として", "desc": "ものごとの結末・成果を表します。", "example_en": "The result of the experiment was surprising.", "example_ja": "その実験の結果は驚くべきものだった。" },
+      { "title": "② result in / from（結果・原因）として", "desc": "in は結果の方向、from は原因の方向を指します。", "example_en": "Hard work resulted in success.", "example_ja": "努力が成功という結果につながった。" }
+    ],
+    "warn": [
+      "result in＋結果（〜という結果になる）、result from＋原因（〜から生じる）。前置詞で向きが逆。",
+      "as a result（その結果）、as a result of（〜の結果として）も頻出。"
+    ],
+    "etym_note": "ラテン語 resultare（re-「再び」＋ saltare「跳ぶ」＝跳ね返る）に由来します。「跳ね返って出てくるもの＝結果」が原義です。",
+    "etym_chain": [
+      { "node": "resultare", "sub": "跳ね返る・生じる", "era": "ラテン語" },
+      { "node": "result", "sub": "結果", "era": "近代英語" },
+      { "node": "result", "sub": "結果・生じる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "as a result", "ja": "その結果" },
+      { "en": "as a result of", "ja": "〜の結果として" },
+      { "en": "result in", "ja": "〜という結果になる" },
+      { "en": "result from", "ja": "〜から生じる" },
+      { "en": "the test results", "ja": "試験の結果" },
+      { "en": "get results", "ja": "成果を上げる" }
+    ],
+    "related": [
+      { "en": "outcome", "ja": "結果・成り行き" },
+      { "en": "effect", "ja": "効果・結果" },
+      { "en": "cause", "ja": "原因" },
+      { "en": "consequence", "ja": "（必然の）結果" }
+    ],
+    "faq": [
+      { "q": "result in と result from の違いは？", "a": "result in＋結果（A results in B＝AがBを引き起こす）、result from＋原因（B results from A＝BはAから生じる）です。向きが逆になります。" },
+      { "q": "as a result とは？", "a": "『その結果（として）』という意味のつなぎ表現です。as a result of＋名詞で『〜の結果として』になります。" }
+    ],
+    "quiz": [
+      { "q": "Hard work resulted ___ success.（成功という結果に）", "A": "in", "B": "from", "C": "to", "D": "of", "correct": "A" },
+      { "q": "「その結果」を表すのはどれ？", "A": "as a result", "B": "in a result", "C": "by a result", "D": "for a result", "correct": "A" }
+    ]
+  },
+  {
+    "english": "return",
+    "pron": "rɪˈtɜːrn",
+    "kana": "リターン",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "古フランス語 retourner（向きを変えて戻る）",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "基本動詞"],
+    "meaning_main": "戻る・帰る・返す／帰り・返却",
+    "description": "return の意味・発音・例文・語源を解説。自動詞「戻る」と他動詞「返す」の違いや、in return（お返しに）などの表現も紹介します。",
+    "keywords": ["return 意味", "return 発音", "return to 使い方", "in return 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】戻る・帰る", "note": "自動詞。return home（帰宅する）。return to（〜に戻る）。" },
+      { "hinshi": "【動詞】返す・返却する", "note": "他動詞。return the book（本を返す）。" },
+      { "hinshi": "【名詞】帰り・返却・見返り", "note": "in return（お返しに）。" }
+    ],
+    "usages": [
+      { "title": "① 「戻る・帰る」として", "desc": "return to＋場所で「〜に戻る」を表します。", "example_en": "She returned to Japan after two years.", "example_ja": "彼女は2年後に日本に戻った。" },
+      { "title": "② 「返す」として", "desc": "借りたものを返す他動詞用法です。", "example_en": "Please return the book by Friday.", "example_ja": "金曜日までに本を返してください。" }
+    ],
+    "warn": [
+      "「〜に帰る」は return to＋場所。ただし return home は to をつけない（home は副詞）。",
+      "return back は冗長。return だけで『戻る』の意味を含むので back は不要。"
+    ],
+    "etym_note": "古フランス語 retourner（re-「再び」＋ tourner「回る・向ける」＝向きを変えて戻る）に由来します。turn（回る）と同じ語根で、「向きを変えて元へ」が原義です。",
+    "etym_chain": [
+      { "node": "retourner", "sub": "向きを変えて戻る", "era": "古フランス語" },
+      { "node": "returnen", "sub": "戻る", "era": "中英語" },
+      { "node": "return", "sub": "戻る・返す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "return to", "ja": "〜に戻る" },
+      { "en": "return home", "ja": "帰宅する" },
+      { "en": "in return", "ja": "お返しに" },
+      { "en": "in return for", "ja": "〜の見返りに" },
+      { "en": "a return ticket", "ja": "往復切符（英）" },
+      { "en": "return a call", "ja": "折り返し電話する" }
+    ],
+    "related": [
+      { "en": "come back", "ja": "戻ってくる" },
+      { "en": "go back", "ja": "戻っていく" },
+      { "en": "give back", "ja": "返す" },
+      { "en": "arrive", "ja": "到着する" }
+    ],
+    "faq": [
+      { "q": "return home に to は必要？", "a": "不要です。home は『家へ』という副詞なので、return home（×return to home）と言います。" },
+      { "q": "in return とはどういう意味？", "a": "『お返しに・見返りに』という意味です。in return for＋名詞で『〜の見返りに』になります。" }
+    ],
+    "quiz": [
+      { "q": "She ___ to Japan after two years.（日本に戻った）", "A": "returned", "B": "resulted", "C": "respected", "D": "reserved", "correct": "A" },
+      { "q": "「お返しに」を表すのはどれ？", "A": "in return", "B": "on return", "C": "at return", "D": "by return の常用ではない", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reveal",
+    "pron": "rɪˈviːl",
+    "kana": "リヴィール",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 revelare（ベールを取る）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "明らかにする・打ち明ける・見せる",
+    "description": "reveal の意味・発音・例文・語源を解説。hide（隠す）の反対語で、「ベールを取る」という語源や reveal that の使い方も紹介します。",
+    "keywords": ["reveal 意味", "reveal 発音", "reveal that 使い方", "reveal hide 反対"],
+    "meanings": [
+      { "hinshi": "【動詞】（隠れていたものを）明らかにする", "note": "reveal a secret（秘密を明かす）。" },
+      { "hinshi": "【動詞】見せる・露わにする", "note": "The curtain opened to reveal the stage.（幕が開いて舞台が現れた）。" }
+    ],
+    "usages": [
+      { "title": "① 「明らかにする・打ち明ける」として", "desc": "隠されていた事実・秘密を公にする意味です。", "example_en": "The study revealed some surprising facts.", "example_ja": "その研究はいくつかの驚くべき事実を明らかにした。" },
+      { "title": "② reveal that（〜だと明かす）として", "desc": "あとに節を続けて内容を示します。", "example_en": "She revealed that she would retire.", "example_ja": "彼女は引退すると打ち明けた。" }
+    ],
+    "warn": [
+      "reveal の反対語は hide / conceal（隠す）。",
+      "名詞は revelation（暴露・発覚）。発音は『レヴェレイション』。"
+    ],
+    "etym_note": "ラテン語 revelare（re-「逆に」＋ velare「ベールで覆う」＝ベールを取る）に由来します。veil（ベール）と同じ語根で、「覆いを取り除いて見せる」が原義です。",
+    "etym_chain": [
+      { "node": "revelare", "sub": "ベールを取る", "era": "ラテン語" },
+      { "node": "revelen", "sub": "明らかにする", "era": "中英語" },
+      { "node": "reveal", "sub": "明らかにする", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reveal a secret", "ja": "秘密を明かす" },
+      { "en": "reveal the truth", "ja": "真実を明らかにする" },
+      { "en": "reveal that ...", "ja": "〜だと明かす" },
+      { "en": "reveal the results", "ja": "結果を発表する" },
+      { "en": "fail to reveal", "ja": "明らかにしない" },
+      { "en": "a big reveal", "ja": "大きな発表・お披露目" }
+    ],
+    "related": [
+      { "en": "revelation", "ja": "暴露・発覚（名詞）" },
+      { "en": "show", "ja": "見せる" },
+      { "en": "hide", "ja": "隠す（反対語）" },
+      { "en": "expose", "ja": "さらす・暴露する" }
+    ],
+    "faq": [
+      { "q": "reveal の反対語は？", "a": "hide や conceal（隠す）です。reveal は『隠れていたものを表に出す』という意味です。" },
+      { "q": "reveal の名詞形は？", "a": "revelation（暴露・思いがけない発覚）です。a shocking revelation（衝撃の事実）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The study ___ some surprising facts.（事実を明らかにした）", "A": "revealed", "B": "returned", "C": "reserved", "D": "resulted", "correct": "A" },
+      { "q": "reveal の反対語はどれ？", "A": "show", "B": "hide", "C": "open", "D": "find", "correct": "B" }
+    ]
+  },
+  {
+    "english": "review",
+    "pron": "rɪˈvjuː",
+    "kana": "リヴュー",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "ラテン語 re-（再び）＋ videre（見る）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "多義語"],
+    "meaning_main": "見直し・復習・批評／復習する・批評する",
+    "description": "review の意味・発音・例文・語源を解説。「復習」「レビュー（批評）」「見直し」という幅広い意味と使い方を分かりやすく紹介します。",
+    "keywords": ["review 意味", "review 発音", "review 復習 批評", "review 使い方"],
+    "meanings": [
+      { "hinshi": "【動詞】見直す・復習する", "note": "review for a test（テストのために復習する）。" },
+      { "hinshi": "【名詞】批評・レビュー", "note": "a book review（書評）。商品のレビューなど。" },
+      { "hinshi": "【名詞】見直し・再検討", "note": "under review（検討中）。" }
+    ],
+    "usages": [
+      { "title": "① 「復習する・見直す」として", "desc": "学んだことを再確認する意味です。", "example_en": "I reviewed my notes before the exam.", "example_ja": "私は試験前にノートを復習した。" },
+      { "title": "② 「批評・レビュー」として", "desc": "本・映画・商品などの評価を表します。", "example_en": "The movie got good reviews.", "example_ja": "その映画は好評だった。" }
+    ],
+    "warn": [
+      "『復習』は review。日本語の『リハーサル』は rehearsal で別語。",
+      "under review は『検討中・審査中』。"
+    ],
+    "etym_note": "ラテン語の re-（再び）＋ videre（見る）に由来し、フランス語を経て「もう一度見る＝見直す・批評する」になりました。video・vision と同じ vid-（見る）の語根です。",
+    "etym_chain": [
+      { "node": "re- + videre", "sub": "再び見る", "era": "ラテン語" },
+      { "node": "reveue", "sub": "見直し", "era": "古フランス語" },
+      { "node": "review", "sub": "復習・批評", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "review for a test", "ja": "テストのために復習する" },
+      { "en": "a book review", "ja": "書評" },
+      { "en": "a movie review", "ja": "映画評" },
+      { "en": "under review", "ja": "検討中・審査中" },
+      { "en": "write a review", "ja": "レビューを書く" },
+      { "en": "a performance review", "ja": "勤務評価・人事考課" }
+    ],
+    "related": [
+      { "en": "revise", "ja": "改訂する・見直す" },
+      { "en": "check", "ja": "確認する" },
+      { "en": "evaluate", "ja": "評価する" },
+      { "en": "criticism", "ja": "批評" }
+    ],
+    "faq": [
+      { "q": "review の主な意味は？", "a": "①『復習・見直し』、②『（本・映画・商品の）批評・レビュー』、③『再検討・審査』など、文脈で意味が変わります。" },
+      { "q": "review と revise の違いは？", "a": "review は『もう一度見て確認・批評する』、revise は『（誤りを直して）改訂する・（英）復習する』です。" }
+    ],
+    "quiz": [
+      { "q": "I ___ my notes before the exam.（ノートを復習した）", "A": "reviewed", "B": "revealed", "C": "returned", "D": "reserved", "correct": "A" },
+      { "q": "「検討中で」を表すのはどれ？", "A": "under review", "B": "on review", "C": "in review の標準ではない", "D": "at review", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reward",
+    "pron": "rɪˈwɔːrd",
+    "kana": "リウォード",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "古ノルマン仏語 rewarder（注目する・報いる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "基本語"],
+    "meaning_main": "報酬・ほうび／報いる・報酬を与える",
+    "description": "reward の意味・発音・例文・語源を解説。prize との違いや、reward A for B、a reward for（〜への報酬）の使い方も分かりやすく紹介します。",
+    "keywords": ["reward 意味", "reward 発音", "reward prize 違い", "reward for 使い方"],
+    "meanings": [
+      { "hinshi": "【名詞】報酬・ほうび・謝礼", "note": "よい行いや努力に対して与えられるもの。" },
+      { "hinshi": "【動詞】報いる・報酬を与える", "note": "reward A for B（Bに対してAに報いる）。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「報酬・ほうび」として", "desc": "a reward for〜で「〜への報酬」を表します。", "example_en": "He got a reward for finding the lost dog.", "example_ja": "彼は迷子の犬を見つけて謝礼をもらった。" },
+      { "title": "② 動詞「報いる」として", "desc": "努力や行いに報いる意味です。", "example_en": "Her hard work was rewarded with success.", "example_ja": "彼女の努力は成功という形で報われた。" }
+    ],
+    "warn": [
+      "reward は『行い・努力への報酬』。prize は『競争・くじの賞品』。award は『公式に授与される賞』。",
+      "『〜に対する報酬』は a reward for。reward A with B（AにBを与えて報いる）。"
+    ],
+    "etym_note": "古ノルマン・フランス語 rewarder（re-＋ warder「見守る」＝注目して報いる）に由来します。regard・guard と同じ war-（見守る）の語根です。",
+    "etym_chain": [
+      { "node": "rewarder", "sub": "注目する・報いる", "era": "ノルマン仏語" },
+      { "node": "reward", "sub": "報いる", "era": "中英語" },
+      { "node": "reward", "sub": "報酬・報いる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a reward for", "ja": "〜への報酬" },
+      { "en": "reward A for B", "ja": "BのことでAに報いる" },
+      { "en": "reward A with B", "ja": "AにBを与えて報いる" },
+      { "en": "offer a reward", "ja": "謝礼を出す" },
+      { "en": "a well-deserved reward", "ja": "当然の報酬" },
+      { "en": "risk and reward", "ja": "リスクと見返り" }
+    ],
+    "related": [
+      { "en": "prize", "ja": "賞品・賞金" },
+      { "en": "award", "ja": "賞・授与する" },
+      { "en": "bonus", "ja": "ボーナス・特典" },
+      { "en": "punishment", "ja": "罰（反対語）" }
+    ],
+    "faq": [
+      { "q": "reward と prize の違いは？", "a": "reward は『よい行いや努力への報酬・謝礼』、prize は『競争やくじで得る賞品・賞金』です。" },
+      { "q": "reward のあとの前置詞は？", "a": "名詞は a reward for（〜への報酬）、動詞は reward A for B / reward A with B の形を使います。" }
+    ],
+    "quiz": [
+      { "q": "He got a ___ for finding the lost dog.（犬を見つけて謝礼）", "A": "reward", "B": "review", "C": "return", "D": "result", "correct": "A" },
+      { "q": "「努力や行いへの報酬」を表す語はどれ？", "A": "prize", "B": "reward", "C": "ticket", "D": "fee", "correct": "B" }
+    ]
+  },
+  {
+    "english": "rhythm",
+    "pron": "ˈrɪðəm",
+    "kana": "リズム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 rhythmos（流れ・規則的な動き）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "音楽"],
+    "meaning_main": "リズム・律動・調子",
+    "description": "rhythm の意味・発音・例文・語源を解説。母音字が y だけというつづりの難しさや、音楽・生活のリズムの使い方も分かりやすく紹介します。",
+    "keywords": ["rhythm 意味", "rhythm 発音", "rhythm つづり 難しい", "rhythm リズム"],
+    "meanings": [
+      { "hinshi": "【名詞】リズム・律動", "note": "音楽の拍子や規則的なくり返し。the rhythm of the music。" },
+      { "hinshi": "【名詞】（生活などの）調子・周期", "note": "the rhythm of life（生活のリズム）。" }
+    ],
+    "usages": [
+      { "title": "① 音楽の「リズム」として", "desc": "拍子や規則的な音のくり返しを表します。", "example_en": "I love the rhythm of this song.", "example_ja": "私はこの歌のリズムが大好きだ。" },
+      { "title": "② 「生活・自然の調子」として", "desc": "規則的にくり返される動きや周期を表します。", "example_en": "Try to keep a regular daily rhythm.", "example_ja": "規則正しい生活リズムを保つようにしなさい。" }
+    ],
+    "warn": [
+      "つづりが難所：rhythm。母音字は y だけで、rh と th を含む。声に出して覚えるとよい。",
+      "形容詞は rhythmic（リズミカルな）。"
+    ],
+    "etym_note": "ギリシャ語 rhythmos（流れ・規則的な動き）に由来し、ラテン語を経て英語に入りました。rh と th はギリシャ語起源を示すつづりです。",
+    "etym_chain": [
+      { "node": "rhythmos", "sub": "流れ・規則的な動き", "era": "ギリシャ語" },
+      { "node": "rhythmus", "sub": "リズム", "era": "ラテン語" },
+      { "node": "rhythm", "sub": "リズム・調子", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "keep the rhythm", "ja": "リズムを保つ" },
+      { "en": "the rhythm of the music", "ja": "音楽のリズム" },
+      { "en": "a steady rhythm", "ja": "安定したリズム" },
+      { "en": "dance to the rhythm", "ja": "リズムに合わせて踊る" },
+      { "en": "the rhythm of life", "ja": "生活のリズム" },
+      { "en": "a natural rhythm", "ja": "自然な調子" }
+    ],
+    "related": [
+      { "en": "beat", "ja": "拍・ビート" },
+      { "en": "melody", "ja": "メロディー" },
+      { "en": "tempo", "ja": "テンポ・速度" },
+      { "en": "music", "ja": "音楽" }
+    ],
+    "faq": [
+      { "q": "rhythm のつづりの覚え方は？", "a": "『rh-y-th-m』と区切り、母音は y だけと意識すると覚えやすいです。声に出して練習しましょう。" },
+      { "q": "rhythm の形容詞は？", "a": "rhythmic（リズミカルな・律動的な）です。a rhythmic beat（リズミカルな拍）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "I love the ___ of this song.（この歌のリズム）", "A": "rhythm", "B": "reason", "C": "region", "D": "result", "correct": "A" },
+      { "q": "rhythm の正しいつづりはどれ？", "A": "rythm", "B": "rhythm", "C": "rythem", "D": "rhythem", "correct": "B" }
+    ]
+  },
+  {
+    "english": "rice",
+    "pron": "raɪs",
+    "kana": "ライス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 oryza（米）",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "食べ物"],
+    "meaning_main": "米・ご飯・稲",
+    "description": "rice（米・ご飯）の意味・発音・例文・語源を解説。数えられない名詞である点や、rice（米）と race（競走）の発音の違いも紹介します。",
+    "keywords": ["rice 意味", "rice 発音", "rice race 違い", "rice 不可算"],
+    "meanings": [
+      { "hinshi": "【名詞】米・ご飯", "note": "数えられない名詞。a bowl of rice（茶わん1杯のご飯）。" },
+      { "hinshi": "【名詞】稲", "note": "田で育つ植物としての稲も指す。grow rice（稲を育てる）。" }
+    ],
+    "usages": [
+      { "title": "① 食べ物「米・ご飯」として", "desc": "主食を表す身近な語です。数えられません。", "example_en": "We eat rice almost every day.", "example_ja": "私たちはほぼ毎日ご飯を食べる。" },
+      { "title": "② 作物「稲」として", "desc": "農業の文脈で稲作を表します。", "example_en": "Farmers grow rice in this area.", "example_ja": "この地域では農家が米を栽培している。" }
+    ],
+    "warn": [
+      "rice は数えられない名詞。a rice とは言わず、a grain of rice（米一粒）や a bowl of rice と表す。",
+      "rice /raɪs/「ライス」と race /reɪs/「レイス」は母音が違う。発音に注意。"
+    ],
+    "etym_note": "ギリシャ語 oryza（米）に由来し、ラテン語・古フランス語を経て英語に入りました。アジア起源の作物名が西方へ伝わった語です。",
+    "etym_chain": [
+      { "node": "oryza", "sub": "米", "era": "ギリシャ語" },
+      { "node": "ris", "sub": "米", "era": "古フランス語" },
+      { "node": "rice", "sub": "米・ご飯", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a bowl of rice", "ja": "茶わん1杯のご飯" },
+      { "en": "cook rice", "ja": "ご飯を炊く" },
+      { "en": "grow rice", "ja": "米を栽培する" },
+      { "en": "fried rice", "ja": "チャーハン" },
+      { "en": "a rice field", "ja": "田んぼ" },
+      { "en": "white rice", "ja": "白米" }
+    ],
+    "related": [
+      { "en": "bread", "ja": "パン" },
+      { "en": "wheat", "ja": "小麦" },
+      { "en": "meal", "ja": "食事" },
+      { "en": "field", "ja": "畑・田" }
+    ],
+    "faq": [
+      { "q": "rice は数えられる名詞？", "a": "いいえ、数えられない名詞です。『米一粒』は a grain of rice、『ご飯一杯』は a bowl of rice と表します。" },
+      { "q": "rice と race の発音の違いは？", "a": "rice は /raɪs/「ライス」、race は /reɪs/「レイス」で母音が違います。混同しないよう注意しましょう。" }
+    ],
+    "quiz": [
+      { "q": "We eat ___ almost every day.（ほぼ毎日ご飯を食べる）", "A": "rice", "B": "race", "C": "rich", "D": "ice", "correct": "A" },
+      { "q": "rice の正しい数え方はどれ？", "A": "a rice", "B": "a bowl of rice", "C": "two rices", "D": "many rice の標準形", "correct": "B" }
+    ]
+  }
+]

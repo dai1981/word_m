@@ -1,0 +1,531 @@
+[
+  {
+    "english": "reconcile",
+    "pron": "ˈrekənsaɪl",
+    "kana": "レコンサイル",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 reconciliare（再び結びつける）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "和解させる・調和させる・折り合いをつける",
+    "description": "reconcile の意味・発音・例文・語源を解説。「仲直りさせる」と「（矛盾を）両立させる」の使い方や、reconcile A with B も分かりやすく紹介します。",
+    "keywords": ["reconcile 意味", "reconcile 発音", "reconcile with 使い方", "reconciliation 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】和解させる・仲直りさせる", "note": "争った人どうしを仲直りさせる。" },
+      { "hinshi": "【動詞】（矛盾を）両立させる・折り合いをつける", "note": "reconcile A with B（AとBを調和させる）。" }
+    ],
+    "usages": [
+      { "title": "① 「和解させる・仲直りする」として", "desc": "対立を解いて仲を戻す意味です。", "example_en": "She tried to reconcile the two friends.", "example_ja": "彼女は2人の友人を仲直りさせようとした。" },
+      { "title": "② reconcile A with B として", "desc": "相反するものを両立させる意味です。", "example_en": "It is hard to reconcile work with family life.", "example_ja": "仕事と家庭生活を両立させるのは難しい。" }
+    ],
+    "warn": [
+      "be reconciled to は『〜を（あきらめて）受け入れる』。reconcile A with B（AとBを調和させる）。",
+      "名詞は reconciliation（和解・調停）。"
+    ],
+    "etym_note": "ラテン語 reconciliare（re-「再び」＋ conciliare「結びつける・親しくする」＝再び結びつける）に由来します。council・conciliate と同じ語源です。",
+    "etym_chain": [
+      { "node": "reconciliare", "sub": "再び結びつける", "era": "ラテン語" },
+      { "node": "reconcilen", "sub": "和解させる", "era": "中英語" },
+      { "node": "reconcile", "sub": "和解・調和させる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reconcile A with B", "ja": "AとBを調和させる" },
+      { "en": "reconcile differences", "ja": "意見の違いを解消する" },
+      { "en": "become reconciled", "ja": "和解する" },
+      { "en": "be reconciled to", "ja": "〜を受け入れる" },
+      { "en": "hard to reconcile", "ja": "両立しがたい" },
+      { "en": "reconcile their views", "ja": "彼らの見解を調整する" }
+    ],
+    "related": [
+      { "en": "reconciliation", "ja": "和解（名詞）" },
+      { "en": "settle", "ja": "解決する" },
+      { "en": "harmonize", "ja": "調和させる" },
+      { "en": "quarrel", "ja": "口論する（反対概念）" }
+    ],
+    "faq": [
+      { "q": "reconcile A with B とは？", "a": "『AとB（相反するもの）を両立させる・調和させる』という意味です。reconcile theory with practice（理論と実践を両立させる）のように使います。" },
+      { "q": "reconcile の名詞形は？", "a": "reconciliation（和解・調停）です。" }
+    ],
+    "quiz": [
+      { "q": "She tried to ___ the two friends.（仲直りさせる）", "A": "reconcile", "B": "recommend", "C": "recognize", "D": "recover", "correct": "A" },
+      { "q": "「AとBを調和させる」の形はどれ？", "A": "reconcile A with B", "B": "reconcile A to B のみ", "C": "reconcile A of B", "D": "reconcile A at B", "correct": "A" }
+    ]
+  },
+  {
+    "english": "relieve",
+    "pron": "rɪˈliːv",
+    "kana": "リリーブ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 relevare（軽くする・持ち上げる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "基本動詞"],
+    "meaning_main": "（苦痛・負担を）和らげる・軽減する・安心させる",
+    "description": "relieve の意味・発音・例文・語源を解説。relieve stress（ストレスを和らげる）の使い方や、名詞 relief（安心・軽減）との関係も分かりやすく紹介します。",
+    "keywords": ["relieve 意味", "relieve 発音", "relieve relief 関係", "relieve stress"],
+    "meanings": [
+      { "hinshi": "【動詞】（苦痛・負担を）和らげる・軽減する", "note": "relieve pain（痛みを和らげる）。" },
+      { "hinshi": "【動詞】安心させる・ほっとさせる", "note": "be relieved（ほっとする）。" }
+    ],
+    "usages": [
+      { "title": "① 「和らげる・軽減する」として", "desc": "痛みやストレスをやわらげる意味です。", "example_en": "This medicine will relieve the pain.", "example_ja": "この薬は痛みを和らげてくれる。" },
+      { "title": "② be relieved（ほっとする）として", "desc": "心配が消えて安心することを表します。", "example_en": "I was relieved to hear the good news.", "example_ja": "よい知らせを聞いてほっとした。" }
+    ],
+    "warn": [
+      "動詞 relieve と名詞 relief（安心・軽減）はつづり・発音が違う。relieve stress / a sense of relief。",
+      "be relieved は『（人が）ほっとした』、relieved の発音は『リリーブド』。"
+    ],
+    "etym_note": "ラテン語 relevare（re-「再び」＋ levare「持ち上げる・軽くする」＝重荷を軽くする）に由来します。relief・elevator と同じ lev-（軽い・上げる）の語根です。",
+    "etym_chain": [
+      { "node": "relevare", "sub": "軽くする・持ち上げる", "era": "ラテン語" },
+      { "node": "relever", "sub": "和らげる", "era": "古フランス語" },
+      { "node": "relieve", "sub": "和らげる・安心させる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "relieve pain", "ja": "痛みを和らげる" },
+      { "en": "relieve stress", "ja": "ストレスを軽減する" },
+      { "en": "be relieved", "ja": "ほっとする" },
+      { "en": "relieve pressure", "ja": "圧力を和らげる" },
+      { "en": "relieve someone of", "ja": "〜（負担）を取り除く" },
+      { "en": "greatly relieve", "ja": "大いに和らげる" }
+    ],
+    "related": [
+      { "en": "relief", "ja": "安心・軽減（名詞）" },
+      { "en": "ease", "ja": "和らげる" },
+      { "en": "comfort", "ja": "慰める" },
+      { "en": "worsen", "ja": "悪化させる（反対概念）" }
+    ],
+    "faq": [
+      { "q": "relieve と relief の違いは？", "a": "relieve は動詞『和らげる・安心させる』、relief は名詞『安心・軽減』です。The medicine relieved the pain. / What a relief! のように使い分けます。" },
+      { "q": "be relieved とは？", "a": "『（心配が消えて）ほっとする』という意味です。I'm relieved.（ほっとした）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "This medicine will ___ the pain.（痛みを和らげる）", "A": "relieve", "B": "relief", "C": "relate", "D": "release", "correct": "A" },
+      { "q": "relieve の名詞形（安心）はどれ？", "A": "relief", "B": "relieving のみ", "C": "relievement", "D": "relievance", "correct": "A" }
+    ]
+  },
+  {
+    "english": "render",
+    "pron": "ˈrendər",
+    "kana": "レンダー",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古フランス語 rendre（返す・与える）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "（ある状態に）する・与える・表現する",
+    "description": "render の意味・発音・例文・語源を解説。render A B（AをBの状態にする）の使い方や、「（援助を）与える」「翻訳する」の意味も分かりやすく紹介します。",
+    "keywords": ["render 意味", "render 発音", "render 使い方", "render 翻訳"],
+    "meanings": [
+      { "hinshi": "【動詞】（ある状態に）する", "note": "render A B（AをBにする）。make に近いかたい語。" },
+      { "hinshi": "【動詞】（援助・サービスを）与える", "note": "render assistance（援助する）。" },
+      { "hinshi": "【動詞】表現する・翻訳する", "note": "render a poem into English（詩を英訳する）。" }
+    ],
+    "usages": [
+      { "title": "① render A B（AをBにする）として", "desc": "make に近い、ある状態にする意味です。", "example_en": "The shock rendered her speechless.", "example_ja": "その衝撃で彼女は言葉を失った。" },
+      { "title": "② 「与える・提供する」として", "desc": "援助やサービスを差し出す意味です。", "example_en": "They rendered help to the victims.", "example_ja": "彼らは被災者に援助を行った。" }
+    ],
+    "warn": [
+      "render A B は『AをB（の状態）にする』。make A B と似たかたい表現。",
+      "コンピュータ用語の『レンダリング（render＝画像を生成する）』もこの語。"
+    ],
+    "etym_note": "古フランス語 rendre（返す・与える。ラテン語 reddere「返す」から）に由来します。「（ある状態を）与える・返す」が原義で、多くの意味に広がりました。",
+    "etym_chain": [
+      { "node": "reddere", "sub": "返す", "era": "ラテン語" },
+      { "node": "rendre", "sub": "返す・与える", "era": "古フランス語" },
+      { "node": "render", "sub": "〜にする・与える", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "render A B", "ja": "AをB（の状態）にする" },
+      { "en": "render assistance", "ja": "援助する" },
+      { "en": "render a service", "ja": "サービスを提供する" },
+      { "en": "render useless", "ja": "役に立たなくする" },
+      { "en": "render into English", "ja": "英語に訳す" },
+      { "en": "services rendered", "ja": "提供されたサービス" }
+    ],
+    "related": [
+      { "en": "make", "ja": "〜にする" },
+      { "en": "provide", "ja": "提供する" },
+      { "en": "give", "ja": "与える" },
+      { "en": "translate", "ja": "翻訳する" }
+    ],
+    "faq": [
+      { "q": "render A B の意味は？", "a": "『AをB（の状態）にする』という意味で、make A B のかたい言い方です。render it impossible（それを不可能にする）のように使います。" },
+      { "q": "コンピュータの『レンダリング』も render？", "a": "はい。データから画像や映像を『生成する』ことも render と言い、その名詞が rendering です。" }
+    ],
+    "quiz": [
+      { "q": "The shock ___ her speechless.（言葉を失わせた）", "A": "rendered", "B": "remained", "C": "reminded", "D": "removed", "correct": "A" },
+      { "q": "「援助する」を表すのはどれ？", "A": "render assistance", "B": "render absence", "C": "render distance", "D": "render entrance", "correct": "A" }
+    ]
+  },
+  {
+    "english": "renowned",
+    "pron": "rɪˈnaʊnd",
+    "kana": "リナウンド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "古フランス語 renomer（名を高める）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "形容詞"],
+    "meaning_main": "有名な・高名な・名高い",
+    "description": "renowned の意味・発音・例文・語源を解説。renowned for（〜で有名な）の使い方や、famous との違い、名詞 renown も分かりやすく紹介します。",
+    "keywords": ["renowned 意味", "renowned 発音", "renowned for 使い方", "renown 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】有名な・高名な", "note": "よい評判で広く知られている。renowned for（〜で名高い）。" }
+    ],
+    "usages": [
+      { "title": "① 「有名な・名高い」として", "desc": "すぐれた評判で知られていることを表します。", "example_en": "She is a renowned scientist.", "example_ja": "彼女は高名な科学者だ。" },
+      { "title": "② renowned for として", "desc": "「〜で有名な」を表します。", "example_en": "The city is renowned for its architecture.", "example_ja": "その都市は建築で有名だ。" }
+    ],
+    "warn": [
+      "renowned は『（よい評判で）名高い』。famous は良くも悪くも『有名な』、notorious は『悪名高い』。",
+      "「〜で有名な」は renowned for。名詞は renown（名声）。"
+    ],
+    "etym_note": "古フランス語 renomer（re-「強意」＋ nomer「名づける」＝名を広める）に由来します。name・nominate と同じ nom-（名）の語根で、「名が広く知られた」が原義です。",
+    "etym_chain": [
+      { "node": "renomer", "sub": "名を高める", "era": "古フランス語" },
+      { "node": "renown", "sub": "名声", "era": "中英語" },
+      { "node": "renowned", "sub": "有名な・名高い", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "renowned for", "ja": "〜で有名な" },
+      { "en": "a renowned artist", "ja": "高名な芸術家" },
+      { "en": "world-renowned", "ja": "世界的に有名な" },
+      { "en": "internationally renowned", "ja": "国際的に名高い" },
+      { "en": "a renowned expert", "ja": "著名な専門家" },
+      { "en": "of great renown", "ja": "大変な名声のある" }
+    ],
+    "related": [
+      { "en": "renown", "ja": "名声（名詞）" },
+      { "en": "famous", "ja": "有名な" },
+      { "en": "celebrated", "ja": "名高い" },
+      { "en": "notorious", "ja": "悪名高い（対比語）" }
+    ],
+    "faq": [
+      { "q": "renowned と famous の違いは？", "a": "renowned は『（よい評判・功績で）名高い』、famous は良くも悪くも『有名な』です。renowned の方が称賛のニュアンスが強いです。" },
+      { "q": "renowned の名詞形は？", "a": "renown（名声）です。a writer of great renown（大変な名声のある作家）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The city is ___ for its architecture.（建築で有名）", "A": "renowned", "B": "reminded", "C": "renewed", "D": "removed", "correct": "A" },
+      { "q": "「〜で有名な」を表すのはどれ？", "A": "renowned for", "B": "renowned of", "C": "renowned to", "D": "renowned at", "correct": "A" }
+    ]
+  },
+  {
+    "english": "restless",
+    "pron": "ˈrestləs",
+    "kana": "レストレス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "rest（休息）＋ -less（〜がない）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "形容詞"],
+    "meaning_main": "落ち着かない・そわそわした・休みのない",
+    "description": "restless の意味・発音・例文・語源を解説。「落ち着かない・そわそわした」の使い方や、rest（休息）＋ -less という成り立ちも分かりやすく紹介します。",
+    "keywords": ["restless 意味", "restless 発音", "restless 落ち着かない", "restless 成り立ち"],
+    "meanings": [
+      { "hinshi": "【形容詞】落ち着かない・そわそわした", "note": "じっとしていられない。a restless child（落ち着かない子）。" },
+      { "hinshi": "【形容詞】休みのない・絶え間ない", "note": "a restless night（眠れない夜）。" }
+    ],
+    "usages": [
+      { "title": "① 「落ち着かない・そわそわした」として", "desc": "じっとしていられない様子を表します。", "example_en": "The children grew restless during the long wait.", "example_ja": "子どもたちは長い待ち時間にそわそわしてきた。" },
+      { "title": "② 「眠れない・休まらない」として", "desc": "落ち着いて休めない状態を表します。", "example_en": "She had a restless night.", "example_ja": "彼女はよく眠れない夜を過ごした。" }
+    ],
+    "warn": [
+      "rest（休息）＋ -less（〜がない）＝『休みがない＝落ち着かない』。",
+      "副詞は restlessly（落ち着かなげに）。"
+    ],
+    "etym_note": "名詞 rest（休息）に否定の接尾辞 -less（〜がない）がついた語で、「休息がない＝落ち着かない」が原義です。",
+    "etym_chain": [
+      { "node": "rest", "sub": "休息", "era": "古英語" },
+      { "node": "restless", "sub": "休みのない", "era": "中英語" },
+      { "node": "restless", "sub": "落ち着かない", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a restless child", "ja": "落ち着かない子" },
+      { "en": "a restless night", "ja": "眠れない夜" },
+      { "en": "grow restless", "ja": "そわそわしてくる" },
+      { "en": "feel restless", "ja": "落ち着かない気分だ" },
+      { "en": "a restless crowd", "ja": "ざわつく群衆" },
+      { "en": "restless energy", "ja": "じっとしていられないエネルギー" }
+    ],
+    "related": [
+      { "en": "nervous", "ja": "落ち着かない・神経質な" },
+      { "en": "uneasy", "ja": "不安な" },
+      { "en": "anxious", "ja": "心配な" },
+      { "en": "calm", "ja": "落ち着いた（反対語）" }
+    ],
+    "faq": [
+      { "q": "restless の成り立ちは？", "a": "rest（休息）＋ -less（〜がない）で、『休息がない＝落ち着かない・そわそわした』という意味になります。" },
+      { "q": "restless の反対語は？", "a": "calm（落ち着いた）や relaxed（くつろいだ）です。" }
+    ],
+    "quiz": [
+      { "q": "The children grew ___ during the long wait.（そわそわした）", "A": "restless", "B": "reckless", "C": "relentless の語感違い", "D": "ruthless", "correct": "A" },
+      { "q": "restless は rest と何が合わさった語？", "A": "rest ＋ -less", "B": "rest ＋ -ful", "C": "rest ＋ -ness", "D": "rest ＋ -able", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retrieve",
+    "pron": "rɪˈtriːv",
+    "kana": "リトリーブ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古フランス語 retrover（再び見つける）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "取り戻す・回収する・（データを）検索する",
+    "description": "retrieve の意味・発音・例文・語源を解説。失ったものを「取り戻す」使い方や、コンピュータの「データを取り出す」意味も分かりやすく紹介します。",
+    "keywords": ["retrieve 意味", "retrieve 発音", "retrieve data 意味", "retrieve 取り戻す"],
+    "meanings": [
+      { "hinshi": "【動詞】取り戻す・回収する", "note": "落としたもの・離れたものを取って戻る。" },
+      { "hinshi": "【動詞】（データ・情報を）取り出す・検索する", "note": "retrieve information（情報を取り出す）。" }
+    ],
+    "usages": [
+      { "title": "① 「取り戻す・回収する」として", "desc": "離れた場所からものを取って戻る意味です。", "example_en": "The dog retrieved the ball.", "example_ja": "犬はボールを取って戻ってきた。" },
+      { "title": "② 「データを取り出す」として", "desc": "保存した情報を呼び出す意味です。", "example_en": "You can retrieve your files from the cloud.", "example_ja": "ファイルはクラウドから取り出せる。" }
+    ],
+    "warn": [
+      "retrieve は『（離れた・失った）ものを取って戻る・回収する』。retriever（猟犬の一種）はこの語から。",
+      "IT で『データを取り出す・検索する』の意味でも頻出。"
+    ],
+    "etym_note": "古フランス語 retrover（re-「再び」＋ trover「見つける」＝再び見つける）に由来します。もとは『（猟犬が）獲物を見つけて取って戻る』ことで、find（見つける）系の語です。",
+    "etym_chain": [
+      { "node": "retrover", "sub": "再び見つける", "era": "古フランス語" },
+      { "node": "retrieve", "sub": "取り戻す", "era": "中英語" },
+      { "node": "retrieve", "sub": "取り戻す・取り出す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "retrieve data", "ja": "データを取り出す" },
+      { "en": "retrieve information", "ja": "情報を検索する" },
+      { "en": "retrieve a lost item", "ja": "落とし物を取り戻す" },
+      { "en": "retrieve files", "ja": "ファイルを呼び出す" },
+      { "en": "hard to retrieve", "ja": "取り戻しにくい" },
+      { "en": "retrieve the situation", "ja": "事態を立て直す" }
+    ],
+    "related": [
+      { "en": "recover", "ja": "取り戻す" },
+      { "en": "regain", "ja": "取り戻す" },
+      { "en": "fetch", "ja": "取ってくる" },
+      { "en": "store", "ja": "保存する（反対の動き）" }
+    ],
+    "faq": [
+      { "q": "retrieve の二つの使い方は？", "a": "①落とした・離れたものを『取り戻す・回収する』と、②コンピュータで保存した『データを取り出す・検索する』です。" },
+      { "q": "retriever とは？", "a": "ゴールデンレトリーバーなど、撃ち落とした獲物を『取って戻る（retrieve）』ように改良された猟犬の一種です。" }
+    ],
+    "quiz": [
+      { "q": "You can ___ your files from the cloud.（取り出せる）", "A": "retrieve", "B": "receive", "C": "review", "D": "reduce", "correct": "A" },
+      { "q": "retrieve と意味が近いのはどれ？", "A": "recover", "B": "remove", "C": "reduce", "D": "refuse", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reunion",
+    "pron": "ˌriːˈjuːniən",
+    "kana": "リユニオン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ union（結合）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "社会"],
+    "meaning_main": "再会・同窓会・再結合",
+    "description": "reunion の意味・発音・例文・語源を解説。「再会・同窓会」の使い方や、union（結合）に re- がついた成り立ちも分かりやすく紹介します。",
+    "keywords": ["reunion 意味", "reunion 発音", "reunion 同窓会", "reunion 再会"],
+    "meanings": [
+      { "hinshi": "【名詞】再会・再集合", "note": "離れていた人が再び集まること。a family reunion（家族の再会）。" },
+      { "hinshi": "【名詞】同窓会・再結成", "note": "a class reunion（同窓会）、a band reunion（バンドの再結成）。" }
+    ],
+    "usages": [
+      { "title": "① 「再会・同窓会」として", "desc": "久しぶりに人々が集まることを表します。", "example_en": "We had a class reunion after ten years.", "example_ja": "私たちは10年ぶりに同窓会を開いた。" },
+      { "title": "② 家族の集まりとして", "desc": "a family reunion（親族の集まり）などで使います。", "example_en": "The whole family gathered for a reunion.", "example_ja": "一族全員が再会のために集まった。" }
+    ],
+    "warn": [
+      "re-（再び）＋ union（結合・組合）＝『再び一つになること』。",
+      "a class reunion は『同窓会』、a family reunion は『親族の集まり・再会』。"
+    ],
+    "etym_note": "接頭辞 re-（再び）と union（結合・一体化）を組み合わせた語で、「再び一つに集まること＝再会」が原義です。unite・union と同じ uni-（一つ）の語根です。",
+    "etym_chain": [
+      { "node": "unio", "sub": "一体化", "era": "ラテン語" },
+      { "node": "re- + union", "sub": "再び一つになる", "era": "近代英語" },
+      { "node": "reunion", "sub": "再会・同窓会", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a family reunion", "ja": "家族・親族の再会" },
+      { "en": "a class reunion", "ja": "同窓会" },
+      { "en": "a school reunion", "ja": "学校の同窓会" },
+      { "en": "a band reunion", "ja": "バンドの再結成" },
+      { "en": "hold a reunion", "ja": "同窓会を開く" },
+      { "en": "a happy reunion", "ja": "うれしい再会" }
+    ],
+    "related": [
+      { "en": "union", "ja": "結合・組合" },
+      { "en": "reunite", "ja": "再会させる" },
+      { "en": "gathering", "ja": "集まり" },
+      { "en": "meeting", "ja": "会合" }
+    ],
+    "faq": [
+      { "q": "reunion の成り立ちは？", "a": "re-（再び）＋ union（結合）で、『再び一つに集まること＝再会・同窓会』という意味になります。" },
+      { "q": "a class reunion とは？", "a": "卒業後に旧友が集まる『同窓会・クラス会』のことです。" }
+    ],
+    "quiz": [
+      { "q": "We had a class ___ after ten years.（同窓会）", "A": "reunion", "B": "reception", "C": "revision", "D": "reservation", "correct": "A" },
+      { "q": "reunion は何と何が合わさった語？", "A": "re ＋ union", "B": "re ＋ onion", "C": "real ＋ union", "D": "re ＋ opinion", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rigorous",
+    "pron": "ˈrɪɡərəs",
+    "kana": "リゴラス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 rigor（厳しさ・こわばり）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "形容詞"],
+    "meaning_main": "厳格な・厳密な・徹底的な",
+    "description": "rigorous の意味・発音・例文・語源を解説。「厳密な・徹底的な」の使い方や、rigid（硬い）との語源的な関係も分かりやすく紹介します。",
+    "keywords": ["rigorous 意味", "rigorous 発音", "rigorous 厳密", "rigour 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】厳格な・厳密な", "note": "細かいところまできちんとした。rigorous testing（厳密な検査）。" },
+      { "hinshi": "【形容詞】徹底的な・きつい", "note": "a rigorous training（厳しい訓練）。" }
+    ],
+    "usages": [
+      { "title": "① 「厳密な・徹底的な」として", "desc": "細部まできちんと行う様子を表します。", "example_en": "The product went through rigorous testing.", "example_ja": "その製品は厳密な検査を受けた。" },
+      { "title": "② 「厳しい・きつい」として", "desc": "要求や訓練が厳しいことを表します。", "example_en": "Astronauts undergo rigorous training.", "example_ja": "宇宙飛行士は厳しい訓練を受ける。" }
+    ],
+    "warn": [
+      "名詞は rigor（米）/ rigour（英）（厳格さ・厳密さ）。副詞は rigorously。",
+      "rigid（硬い）と同じ rig-（こわばる）の語源。"
+    ],
+    "etym_note": "ラテン語 rigor（厳しさ・こわばり。rigere「硬直する」から）に由来します。rigid（硬い）と同じ語源で、「（規律が）こわばるほど厳しい」が原義です。",
+    "etym_chain": [
+      { "node": "rigere", "sub": "硬直する", "era": "ラテン語" },
+      { "node": "rigor", "sub": "厳しさ", "era": "ラテン語" },
+      { "node": "rigorous", "sub": "厳格な・厳密な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rigorous testing", "ja": "厳密な検査" },
+      { "en": "rigorous training", "ja": "厳しい訓練" },
+      { "en": "rigorous standards", "ja": "厳格な基準" },
+      { "en": "a rigorous analysis", "ja": "厳密な分析" },
+      { "en": "rigorous research", "ja": "厳密な研究" },
+      { "en": "scientifically rigorous", "ja": "科学的に厳密な" }
+    ],
+    "related": [
+      { "en": "rigid", "ja": "硬い・厳格な" },
+      { "en": "strict", "ja": "厳しい" },
+      { "en": "thorough", "ja": "徹底的な" },
+      { "en": "lax", "ja": "ゆるい（反対語）" }
+    ],
+    "faq": [
+      { "q": "rigorous と strict の違いは？", "a": "strict は『（規則を）厳しく守らせる』、rigorous は『（手順・検査などが）厳密で徹底的な』というニュアンスです。" },
+      { "q": "rigorous の名詞形は？", "a": "rigor（米）/ rigour（英）（厳格さ・厳密さ）です。academic rigor（学問的厳密さ）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The product went through ___ testing.（厳密な検査）", "A": "rigorous", "B": "ridiculous", "C": "rigid の語感違い", "D": "rural", "correct": "A" },
+      { "q": "rigorous と語源が同じなのはどれ？", "A": "rigid", "B": "rigid の反対 flexible", "C": "river", "D": "ribbon", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rubbish",
+    "pron": "ˈrʌbɪʃ",
+    "kana": "ラビッシュ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 rubbous（がれき）由来",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "もの"],
+    "meaning_main": "（英）ごみ・くず／ばかげたこと",
+    "description": "rubbish の意味・発音・例文・語源を解説。イギリス英語の「ごみ」（米 garbage / trash）の使い方や、「くだらないこと」の意味も紹介します。",
+    "keywords": ["rubbish 意味", "rubbish 発音", "rubbish garbage 違い", "rubbish ごみ"],
+    "meanings": [
+      { "hinshi": "【名詞】（英）ごみ・くず", "note": "イギリス英語。米では garbage / trash。" },
+      { "hinshi": "【名詞】ばかげたこと・たわごと", "note": "口語で『くだらない・最低の』の意味でも使う。" }
+    ],
+    "usages": [
+      { "title": "① 「ごみ・くず」として", "desc": "イギリス英語で家庭ごみを表します。", "example_en": "Please take out the rubbish.", "example_ja": "（英）ごみを出しておいて。" },
+      { "title": "② 「ばかげたこと」として", "desc": "くだらない話や質の低いものを表します。", "example_en": "That's complete rubbish!", "example_ja": "そんなのまったくのでたらめだ！" }
+    ],
+    "warn": [
+      "rubbish はイギリス英語。アメリカでは garbage（生ごみ）/ trash（くず）。",
+      "口語の形容詞用法で『ひどい・最低の』（英）。The film was rubbish.（映画は最低だった）。"
+    ],
+    "etym_note": "古フランス語 rubbous（がれき・くず）に由来するとされ、rubble（がれき）と関係する語です。建物の『くず・がれき』から『ごみ全般』になりました。",
+    "etym_chain": [
+      { "node": "rubbous", "sub": "がれき・くず", "era": "古フランス語" },
+      { "node": "robous", "sub": "くず", "era": "中英語" },
+      { "node": "rubbish", "sub": "ごみ・くず", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "take out the rubbish", "ja": "ごみを出す" },
+      { "en": "a rubbish bin", "ja": "ごみ箱（英）" },
+      { "en": "household rubbish", "ja": "家庭ごみ" },
+      { "en": "talk rubbish", "ja": "たわごとを言う" },
+      { "en": "complete rubbish", "ja": "まったくのでたらめ" },
+      { "en": "a load of rubbish", "ja": "くだらないことばかり" }
+    ],
+    "related": [
+      { "en": "garbage", "ja": "生ごみ（米）" },
+      { "en": "trash", "ja": "くず・ごみ（米）" },
+      { "en": "waste", "ja": "廃棄物" },
+      { "en": "nonsense", "ja": "ばかげたこと" }
+    ],
+    "faq": [
+      { "q": "rubbish と garbage の違いは？", "a": "どちらも『ごみ』ですが、rubbish はイギリス英語、garbage / trash はアメリカ英語でよく使われます。" },
+      { "q": "rubbish の口語的な意味は？", "a": "『ばかげたこと・たわごと』、また（英）形容詞的に『ひどい・最低の』の意味でも使われます。" }
+    ],
+    "quiz": [
+      { "q": "Please take out the ___.（ごみを出して）", "A": "rubbish", "B": "rubber", "C": "rubble の語感違い", "D": "ribbon", "correct": "A" },
+      { "q": "アメリカ英語で『ごみ』を表すのはどれ？", "A": "rubbish", "B": "garbage", "C": "rubble", "D": "rubber", "correct": "B" }
+    ]
+  },
+  {
+    "english": "ruthless",
+    "pron": "ˈruːθləs",
+    "kana": "ルースレス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ruth（あわれみ）＋ -less（〜がない）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "形容詞"],
+    "meaning_main": "無慈悲な・冷酷な・容赦のない",
+    "description": "ruthless の意味・発音・例文・語源を解説。「あわれみがない＝冷酷な」という成り立ちや、merciless との近さも分かりやすく紹介します。",
+    "keywords": ["ruthless 意味", "ruthless 発音", "ruthless 冷酷", "ruthless 成り立ち"],
+    "meanings": [
+      { "hinshi": "【形容詞】無慈悲な・冷酷な・容赦のない", "note": "目的のためにあわれみを示さない。a ruthless dictator（冷酷な独裁者）。" }
+    ],
+    "usages": [
+      { "title": "① 「冷酷な・無慈悲な」として", "desc": "情け容赦のない様子を表します。", "example_en": "He was ruthless in business.", "example_ja": "彼はビジネスにおいて冷酷だった。" },
+      { "title": "② 「容赦のない」として", "desc": "徹底して手加減しない様子を表します。", "example_en": "She showed ruthless determination.", "example_ja": "彼女は容赦のない決意を見せた。" }
+    ],
+    "warn": [
+      "ruth（あわれみ・後悔）＋ -less（〜がない）＝『あわれみがない＝冷酷な』。ruth は今は単独で使われない古語。",
+      "merciless（無慈悲な）と近い。副詞は ruthlessly。"
+    ],
+    "etym_note": "古語 ruth（あわれみ・後悔。rue「悔やむ」から）に -less（〜がない）がついた語で、「あわれみを持たない＝冷酷な」が原義です。",
+    "etym_chain": [
+      { "node": "rue", "sub": "悔やむ・あわれむ", "era": "古英語" },
+      { "node": "ruth", "sub": "あわれみ", "era": "中英語" },
+      { "node": "ruthless", "sub": "無慈悲な・冷酷な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a ruthless dictator", "ja": "冷酷な独裁者" },
+      { "en": "ruthless ambition", "ja": "容赦のない野心" },
+      { "en": "ruthless efficiency", "ja": "情け容赦のない効率" },
+      { "en": "be ruthless in", "ja": "〜において冷酷である" },
+      { "en": "ruthless determination", "ja": "容赦のない決意" },
+      { "en": "a ruthless killer", "ja": "冷酷な殺し屋" }
+    ],
+    "related": [
+      { "en": "merciless", "ja": "無慈悲な" },
+      { "en": "cruel", "ja": "残酷な" },
+      { "en": "heartless", "ja": "情けのない" },
+      { "en": "merciful", "ja": "慈悲深い（反対語）" }
+    ],
+    "faq": [
+      { "q": "ruthless の成り立ちは？", "a": "ruth（あわれみ）＋ -less（〜がない）で、『あわれみがない＝無慈悲な・冷酷な』という意味です。ruth は今は単独で使われない古語です。" },
+      { "q": "ruthless の反対語は？", "a": "merciful（慈悲深い）や compassionate（思いやりのある）です。" }
+    ],
+    "quiz": [
+      { "q": "He was ___ in business.（冷酷だった）", "A": "ruthless", "B": "restless", "C": "reckless", "D": "rootless の語感違い", "correct": "A" },
+      { "q": "ruthless は ruth と何が合わさった語？", "A": "ruth ＋ -less", "B": "ruth ＋ -ful", "C": "ruth ＋ -ness", "D": "ruth ＋ -able", "correct": "A" }
+    ]
+  }
+]

@@ -1,0 +1,538 @@
+[
+  {
+    "english": "rich",
+    "pron": "rɪtʃ",
+    "kana": "リッチ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "古英語 rīce（力のある・富んだ）",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "形容詞"],
+    "meaning_main": "金持ちの・豊かな・濃厚な",
+    "description": "rich の意味・発音・例文・語源を解説。「お金持ちの」だけでなく「豊富な」「濃厚な」の意味や、rich in（〜が豊富な）も紹介します。",
+    "keywords": ["rich 意味", "rich 発音", "rich in 使い方", "rich poor 反対"],
+    "meanings": [
+      { "hinshi": "【形容詞】金持ちの・裕福な", "note": "a rich family（裕福な家庭）。poor の反対。" },
+      { "hinshi": "【形容詞】（〜が）豊富な", "note": "rich in vitamins（ビタミンが豊富な）。" },
+      { "hinshi": "【形容詞】濃厚な・こくのある", "note": "a rich sauce（こくのあるソース）。" }
+    ],
+    "usages": [
+      { "title": "① 「金持ちの・裕福な」として", "desc": "お金や財産が多いことを表す基本の意味です。", "example_en": "He became rich through hard work.", "example_ja": "彼は努力によって金持ちになった。" },
+      { "title": "② rich in（〜が豊富な）として", "desc": "ある成分や要素が多いことを表します。", "example_en": "Oranges are rich in vitamin C.", "example_ja": "オレンジはビタミンCが豊富だ。" }
+    ],
+    "warn": [
+      "「〜が豊富な」は rich in。rich of とは言わない。",
+      "反対語は poor（貧しい）。the rich は『金持ちの人々』（the＋形容詞で複数の人々）。"
+    ],
+    "etym_note": "古英語 rīce（力のある・富んだ）に由来します。もとは『権力のある』という意味で、そこから『財産のある＝裕福な』へと広がりました。",
+    "etym_chain": [
+      { "node": "rīce", "sub": "力のある・富んだ", "era": "古英語" },
+      { "node": "riche", "sub": "裕福な", "era": "中英語" },
+      { "node": "rich", "sub": "裕福な・豊かな", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rich in", "ja": "〜が豊富な" },
+      { "en": "get rich", "ja": "金持ちになる" },
+      { "en": "the rich", "ja": "金持ちの人々" },
+      { "en": "rich and poor", "ja": "富める者と貧しい者" },
+      { "en": "a rich history", "ja": "豊かな歴史" },
+      { "en": "rich soil", "ja": "肥えた土" }
+    ],
+    "related": [
+      { "en": "wealthy", "ja": "裕福な" },
+      { "en": "poor", "ja": "貧しい（反対語）" },
+      { "en": "abundant", "ja": "豊富な" },
+      { "en": "fortune", "ja": "財産・幸運" }
+    ],
+    "faq": [
+      { "q": "rich in とはどういう意味？", "a": "『〜が豊富な』という意味です。This food is rich in protein.（この食品はタンパク質が豊富）のように使います。" },
+      { "q": "the rich とは？", "a": "『金持ちの人々』を表します。the＋形容詞で『〜な人々』という複数の意味になります。" }
+    ],
+    "quiz": [
+      { "q": "Oranges are ___ in vitamin C.（ビタミンCが豊富）", "A": "rich", "B": "ready", "C": "real", "D": "right", "correct": "A" },
+      { "q": "rich の反対語はどれ？", "A": "poor", "B": "weak", "C": "small", "D": "low", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ride",
+    "pron": "raɪd",
+    "kana": "ライド",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "古英語 rīdan（馬や乗り物に乗る）",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "基本動詞"],
+    "meaning_main": "（乗り物・馬に）乗る／乗ること",
+    "description": "ride の意味・発音・例文・語源を解説。不規則動詞 ride-rode-ridden の活用や、ride と drive の違いも分かりやすく紹介します。",
+    "keywords": ["ride 意味", "ride 発音", "ride 過去形 活用", "ride drive 違い"],
+    "meanings": [
+      { "hinshi": "【動詞】（馬・自転車などに）乗る", "note": "ride a bike（自転車に乗る）。またがって乗るものに使う。" },
+      { "hinshi": "【動詞】（乗り物に）乗って行く", "note": "ride a bus / train（バス・電車に乗る）。" },
+      { "hinshi": "【名詞】乗ること・乗車", "note": "give someone a ride（車に乗せてあげる）。" }
+    ],
+    "usages": [
+      { "title": "① 「乗る」として", "desc": "自転車・馬・バイクなどにまたがって乗る意味です。", "example_en": "I ride my bike to school every day.", "example_ja": "私は毎日自転車で学校に行く。" },
+      { "title": "② 名詞「乗車・送迎」として", "desc": "give someone a ride で「車に乗せる」を表します。", "example_en": "Can you give me a ride to the station?", "example_ja": "駅まで車で送ってもらえますか。" }
+    ],
+    "warn": [
+      "活用は不規則：ride – rode – ridden。",
+      "ride は『乗客として／またがって乗る』、drive は『自分で運転する』。"
+    ],
+    "etym_note": "古英語 rīdan（馬や乗り物に乗る）に由来する古いゲルマン系の語で、road（道）とも語源的につながっています。",
+    "etym_chain": [
+      { "node": "rīdan", "sub": "乗る", "era": "古英語" },
+      { "node": "riden", "sub": "乗る", "era": "中英語" },
+      { "node": "ride", "sub": "乗る", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "ride a bike", "ja": "自転車に乗る" },
+      { "en": "ride a horse", "ja": "馬に乗る" },
+      { "en": "give someone a ride", "ja": "車で送る・乗せる" },
+      { "en": "go for a ride", "ja": "ドライブ・サイクリングに行く" },
+      { "en": "a bumpy ride", "ja": "でこぼこ道の乗車・困難な道のり" },
+      { "en": "ride a wave", "ja": "波に乗る" }
+    ],
+    "related": [
+      { "en": "drive", "ja": "運転する" },
+      { "en": "bike", "ja": "自転車" },
+      { "en": "rider", "ja": "乗り手・騎手" },
+      { "en": "passenger", "ja": "乗客" }
+    ],
+    "faq": [
+      { "q": "ride の過去形・過去分詞は？", "a": "ride – rode – ridden と不規則変化します。I rode my bike.（自転車に乗った）のように使います。" },
+      { "q": "ride と drive の違いは？", "a": "ride は『（乗客として・またがって）乗る』、drive は『自分で運転する』です。車を自分で運転するなら drive a car です。" }
+    ],
+    "quiz": [
+      { "q": "I ___ my bike to school every day.（自転車で通学）", "A": "ride", "B": "drive", "C": "rise", "D": "raise", "correct": "A" },
+      { "q": "ride の過去形はどれ？", "A": "rided", "B": "rode", "C": "ridden", "D": "ridded", "correct": "B" }
+    ]
+  },
+  {
+    "english": "right",
+    "pron": "raɪt",
+    "kana": "ライト",
+    "hinshi": "形容詞 / 名詞 / 副詞",
+    "ld_pos": "形容詞・名詞・副詞",
+    "ld_etym": "古英語 riht（まっすぐな・正しい）",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "多義語"],
+    "meaning_main": "正しい・右の／権利／ちょうど・すぐに",
+    "description": "right の意味・発音・例文・語源を解説。「正しい」「右」「権利」という幅広い意味や、write（書く）との同音にも注意して紹介します。",
+    "keywords": ["right 意味", "right 発音", "right write 違い", "right 権利 右 正しい"],
+    "meanings": [
+      { "hinshi": "【形容詞】正しい・適切な", "note": "the right answer（正しい答え）。wrong の反対。" },
+      { "hinshi": "【形容詞】右の", "note": "the right hand（右手）。left の反対。" },
+      { "hinshi": "【名詞】権利", "note": "human rights（人権）。" },
+      { "hinshi": "【副詞】ちょうど・すぐに", "note": "right now（今すぐ）、right here（まさにここ）。" }
+    ],
+    "usages": [
+      { "title": "① 「正しい・右の」として", "desc": "正しさや右方向を表す基本の意味です。", "example_en": "You gave the right answer.", "example_ja": "あなたは正しい答えを言った。" },
+      { "title": "② 「権利」として", "desc": "human rights（人権）など重要な意味です。", "example_en": "Everyone has the right to be free.", "example_ja": "誰もが自由でいる権利を持っている。" },
+      { "title": "③ 副詞「ちょうど・すぐに」として", "desc": "right now / right here で強調します。", "example_en": "I'll call you right now.", "example_ja": "今すぐ電話します。" }
+    ],
+    "warn": [
+      "right（正しい・右）と write（書く）は同音 /raɪt/。つづりで区別する。",
+      "right の反対は、意味により wrong（誤った）または left（左）。"
+    ],
+    "etym_note": "古英語 riht（まっすぐな・正しい）に由来します。「まっすぐ＝正しい」という発想から、『正しい』『（まっすぐな手の側＝）右』『正当な権利』へと意味が広がりました。",
+    "etym_chain": [
+      { "node": "riht", "sub": "まっすぐな・正しい", "era": "古英語" },
+      { "node": "right", "sub": "正しい・右", "era": "中英語" },
+      { "node": "right", "sub": "正しい・右・権利", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "right now", "ja": "今すぐ" },
+      { "en": "the right answer", "ja": "正しい答え" },
+      { "en": "human rights", "ja": "人権" },
+      { "en": "turn right", "ja": "右に曲がる" },
+      { "en": "all right", "ja": "大丈夫・よろしい" },
+      { "en": "right away", "ja": "すぐに" }
+    ],
+    "related": [
+      { "en": "correct", "ja": "正しい" },
+      { "en": "wrong", "ja": "誤った（反対語）" },
+      { "en": "left", "ja": "左（反対語）" },
+      { "en": "write", "ja": "書く（同音語）" }
+    ],
+    "faq": [
+      { "q": "right と write の違いは？", "a": "発音は同じ /raɪt/ ですが、right は『正しい・右・権利』、write は『書く』です。つづりで区別します。" },
+      { "q": "right now と right away の違いは？", "a": "どちらも『今すぐ』ですが、right now は『たった今・現在』、right away は『ただちに・遅れずに』という即時性を強調します。" }
+    ],
+    "quiz": [
+      { "q": "You gave the ___ answer.（正しい答え）", "A": "right", "B": "write", "C": "rich", "D": "ride", "correct": "A" },
+      { "q": "「人権」を表すのはどれ？", "A": "human rights", "B": "human rooms", "C": "human roads", "D": "human rules", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ring",
+    "pron": "rɪŋ",
+    "kana": "リング",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "古英語 hring（輪）／hringan（鳴る）",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "多義語"],
+    "meaning_main": "輪・指輪／（ベルが）鳴る・電話する",
+    "description": "ring の意味・発音・例文・語源を解説。「輪・指輪」と「鳴る」という二つの意味や、不規則動詞 ring-rang-rung の活用も紹介します。",
+    "keywords": ["ring 意味", "ring 発音", "ring 過去形 活用", "ring 指輪 鳴る"],
+    "meanings": [
+      { "hinshi": "【名詞】輪・指輪・リング", "note": "a wedding ring（結婚指輪）、a boxing ring（ボクシングのリング）。" },
+      { "hinshi": "【動詞】（ベル・電話が）鳴る・鳴らす", "note": "The phone is ringing.（電話が鳴っている）。" },
+      { "hinshi": "【動詞】電話する（英）", "note": "ring someone（〜に電話する）。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「輪・指輪」として", "desc": "丸い輪や装身具の指輪を表します。", "example_en": "She wears a beautiful ring on her finger.", "example_ja": "彼女は指に美しい指輪をはめている。" },
+      { "title": "② 動詞「鳴る」として", "desc": "ベルや電話の音が鳴る意味です。活用に注意。", "example_en": "The doorbell rang twice.", "example_ja": "玄関のベルが2回鳴った。" }
+    ],
+    "warn": [
+      "『鳴る』の意味の活用は不規則：ring – rang – rung。",
+      "『輪』の名詞 ring と『鳴る』の動詞 ring はもともと別語だが、現代では同じつづり。"
+    ],
+    "etym_note": "『輪』の ring は古英語 hring（輪）に由来し、『鳴る』の ring は古英語 hringan（音を立てる）に由来します。もとは別語ですが、つづりが同じになりました。",
+    "etym_chain": [
+      { "node": "hring", "sub": "輪", "era": "古英語" },
+      { "node": "ring", "sub": "輪・指輪", "era": "中英語" },
+      { "node": "ring", "sub": "輪・鳴る", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a wedding ring", "ja": "結婚指輪" },
+      { "en": "ring a bell", "ja": "ベルを鳴らす・心当たりがある" },
+      { "en": "the phone rings", "ja": "電話が鳴る" },
+      { "en": "give someone a ring", "ja": "〜に電話する（英）" },
+      { "en": "a boxing ring", "ja": "ボクシングのリング" },
+      { "en": "ring true", "ja": "本当らしく聞こえる" }
+    ],
+    "related": [
+      { "en": "circle", "ja": "円・輪" },
+      { "en": "bell", "ja": "ベル・鐘" },
+      { "en": "call", "ja": "電話する" },
+      { "en": "sound", "ja": "音・鳴る" }
+    ],
+    "faq": [
+      { "q": "ring（鳴る）の過去形は？", "a": "ring – rang – rung と不規則変化します。The bell rang.（ベルが鳴った）のように使います。" },
+      { "q": "ring a bell はどんな意味？", "a": "文字どおり『ベルを鳴らす』のほか、『（聞いて）心当たりがある・思い当たる』という慣用句にもなります。" }
+    ],
+    "quiz": [
+      { "q": "The doorbell ___ twice.（ベルが2回鳴った）", "A": "rang", "B": "ringed", "C": "rung", "D": "rings", "correct": "A" },
+      { "q": "「結婚指輪」を表すのはどれ？", "A": "a wedding ring", "B": "a wedding ride", "C": "a wedding rice", "D": "a wedding rich", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rise",
+    "pron": "raɪz",
+    "kana": "ライズ",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "古英語 rīsan（立ち上がる・昇る）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "基本動詞"],
+    "meaning_main": "上がる・昇る・立ち上がる／上昇",
+    "description": "rise の意味・発音・例文・語源を解説。raise との違い（自動詞 vs 他動詞）や、rise-rose-risen の不規則活用も分かりやすく紹介します。",
+    "keywords": ["rise 意味", "rise 発音", "rise raise 違い", "rise 過去形 活用"],
+    "meanings": [
+      { "hinshi": "【動詞】上がる・昇る", "note": "自動詞。目的語をとらない。The sun rises.（太陽が昇る）。" },
+      { "hinshi": "【動詞】立ち上がる・起きる", "note": "rise from a chair（いすから立ち上がる）。" },
+      { "hinshi": "【名詞】上昇・増加", "note": "a rise in prices（物価の上昇）。" }
+    ],
+    "usages": [
+      { "title": "① 「上がる・昇る」として", "desc": "太陽・気温・価格などが上がる自動詞用法です。", "example_en": "The sun rises in the east.", "example_ja": "太陽は東から昇る。" },
+      { "title": "② 名詞「上昇・増加」として", "desc": "a rise in〜で「〜の上昇」を表します。", "example_en": "There was a sharp rise in temperature.", "example_ja": "気温の急上昇があった。" }
+    ],
+    "warn": [
+      "rise は自動詞（目的語なし）、raise は他動詞（目的語が必要）。混同に注意。",
+      "活用は不規則：rise – rose – risen。raise – raised – raised とは別。"
+    ],
+    "etym_note": "古英語 rīsan（立ち上がる・昇る）に由来する古いゲルマン系の語です。raise（〜を上げる）は、この rise の使役にあたる古ノルド語由来の兄弟語です。",
+    "etym_chain": [
+      { "node": "rīsan", "sub": "立ち上がる・昇る", "era": "古英語" },
+      { "node": "risen", "sub": "昇る", "era": "中英語" },
+      { "node": "rise", "sub": "上がる・昇る", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rise and fall", "ja": "上昇と下降・盛衰" },
+      { "en": "a rise in prices", "ja": "物価の上昇" },
+      { "en": "rise early", "ja": "早起きする" },
+      { "en": "give rise to", "ja": "〜を引き起こす" },
+      { "en": "rise to the occasion", "ja": "難局に立ち向かう" },
+      { "en": "the rise of", "ja": "〜の台頭" }
+    ],
+    "related": [
+      { "en": "raise", "ja": "上げる（他動詞）" },
+      { "en": "increase", "ja": "増える・増やす" },
+      { "en": "climb", "ja": "登る" },
+      { "en": "fall", "ja": "落ちる（反対語）" }
+    ],
+    "faq": [
+      { "q": "rise と raise の違いは？", "a": "rise は自動詞『（自分が）上がる』で目的語不要、raise は他動詞『〜を上げる』で目的語が必要です。The sun rises./I raise my hand. のように使い分けます。" },
+      { "q": "rise の過去形・過去分詞は？", "a": "rise – rose – risen と不規則変化します。The sun rose.（太陽が昇った）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The sun ___ in the east.（太陽は東から昇る）", "A": "rises", "B": "raises", "C": "rose の現在ではない", "D": "risen", "correct": "A" },
+      { "q": "目的語をとらない自動詞はどっち？", "A": "raise", "B": "rise", "C": "両方", "D": "どちらでもない", "correct": "B" }
+    ]
+  },
+  {
+    "english": "risk",
+    "pron": "rɪsk",
+    "kana": "リスク",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "イタリア語 risco（危険）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "基本語"],
+    "meaning_main": "危険・恐れ／危険にさらす",
+    "description": "risk の意味・発音・例文・語源を解説。take a risk（危険をおかす）や at risk（危険にさらされて）、risk doing の使い方も分かりやすく紹介します。",
+    "keywords": ["risk 意味", "risk 発音", "take a risk 意味", "at risk 使い方"],
+    "meanings": [
+      { "hinshi": "【名詞】危険・恐れ・リスク", "note": "悪い結果が起こる可能性。the risk of fire（火事の危険）。" },
+      { "hinshi": "【動詞】危険にさらす・あえて〜する", "note": "risk one's life（命を危険にさらす）。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「危険・リスク」として", "desc": "take a risk（あえて危険をおかす）の形が定番です。", "example_en": "Starting a business always involves some risk.", "example_ja": "起業には必ず多少のリスクが伴う。" },
+      { "title": "② at risk（危険にさらされて）として", "desc": "危ない状態にあることを表します。", "example_en": "Many species are at risk of extinction.", "example_ja": "多くの種が絶滅の危機にさらされている。" }
+    ],
+    "warn": [
+      "risk のあとに動詞を続けるときは動名詞（risk doing）。to do は使わない。",
+      "take a risk（危険をおかす）、at risk（危険にさらされて）、the risk of＋名詞 を区別して覚える。"
+    ],
+    "etym_note": "イタリア語 risco / rischio（危険）に由来し、フランス語を経て英語に入りました。航海で岩礁などの危険を冒すことが原義とされます。",
+    "etym_chain": [
+      { "node": "risco", "sub": "危険", "era": "イタリア語" },
+      { "node": "risque", "sub": "危険", "era": "フランス語" },
+      { "node": "risk", "sub": "危険・リスク", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "take a risk", "ja": "危険をおかす" },
+      { "en": "at risk", "ja": "危険にさらされて" },
+      { "en": "the risk of", "ja": "〜の危険" },
+      { "en": "run the risk of", "ja": "〜の危険をおかす" },
+      { "en": "at the risk of", "ja": "〜を覚悟のうえで" },
+      { "en": "a high-risk job", "ja": "危険度の高い仕事" }
+    ],
+    "related": [
+      { "en": "danger", "ja": "危険" },
+      { "en": "risky", "ja": "危険な（形容詞）" },
+      { "en": "chance", "ja": "可能性・見込み" },
+      { "en": "safe", "ja": "安全な（反対概念）" }
+    ],
+    "faq": [
+      { "q": "risk のあとの動詞の形は？", "a": "動名詞（-ing）です。You risk losing everything.（すべてを失う危険をおかす）のように使います。" },
+      { "q": "at risk と take a risk の違いは？", "a": "at risk は『（受け身で）危険にさらされて』、take a risk は『（自分から）あえて危険をおかす』です。" }
+    ],
+    "quiz": [
+      { "q": "Many species are ___ risk of extinction.（絶滅の危機）", "A": "at", "B": "in", "C": "on", "D": "by", "correct": "A" },
+      { "q": "「危険をおかす」を表すのはどれ？", "A": "take a risk", "B": "make a risk", "C": "do a risk", "D": "have a risk の常用ではない", "correct": "A" }
+    ]
+  },
+  {
+    "english": "river",
+    "pron": "ˈrɪvər",
+    "kana": "リヴァー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 riparia（川岸）",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "自然"],
+    "meaning_main": "川・河",
+    "description": "river（川）の意味・発音・例文・語源を解説。on / in the river の前置詞や、固有名詞での the River の使い方も分かりやすく紹介します。",
+    "keywords": ["river 意味", "river 発音", "river 川 英語", "the River 使い方"],
+    "meanings": [
+      { "hinshi": "【名詞】川・河", "note": "海や湖に注ぐ大きな水の流れ。the Amazon River（アマゾン川）。" }
+    ],
+    "usages": [
+      { "title": "① 自然の「川」として", "desc": "身近な地理の基本語です。", "example_en": "The river flows through the city.", "example_ja": "その川は街の中を流れている。" },
+      { "title": "② 固有名詞として", "desc": "川の名前とともに使います。", "example_en": "The Thames is a famous river in London.", "example_ja": "テムズ川はロンドンの有名な川だ。" }
+    ],
+    "warn": [
+      "川の名前は『the＋川名＋River』または『the River＋川名』（英）。the Thames のように the をつける。",
+      "『川で（泳ぐ）』は in the river、『川の上を（ボートで）』は on the river。"
+    ],
+    "etym_note": "ラテン語 riparia（川岸）に由来し、古フランス語 riviere を経て英語に入りました。riparian（川岸の）と同じ語源です。",
+    "etym_chain": [
+      { "node": "riparia", "sub": "川岸", "era": "ラテン語" },
+      { "node": "riviere", "sub": "川", "era": "古フランス語" },
+      { "node": "river", "sub": "川", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a river flows", "ja": "川が流れる" },
+      { "en": "cross the river", "ja": "川を渡る" },
+      { "en": "on the river", "ja": "川の上で" },
+      { "en": "down the river", "ja": "川下へ" },
+      { "en": "a river bank", "ja": "川岸" },
+      { "en": "the mouth of a river", "ja": "河口" }
+    ],
+    "related": [
+      { "en": "lake", "ja": "湖" },
+      { "en": "sea", "ja": "海" },
+      { "en": "stream", "ja": "小川" },
+      { "en": "water", "ja": "水" }
+    ],
+    "faq": [
+      { "q": "川の名前に the はつける？", "a": "はい。the Amazon (River)、the Thames のように the をつけます。" },
+      { "q": "river と stream の違いは？", "a": "river は大きな川、stream はそれより小さな『小川・流れ』を指します。" }
+    ],
+    "quiz": [
+      { "q": "The ___ flows through the city.（川が街を流れる）", "A": "river", "B": "river の誤形 rivar", "C": "ride", "D": "ring", "correct": "A" },
+      { "q": "river より小さな流れを表すのはどれ？", "A": "lake", "B": "stream", "C": "sea", "D": "ocean", "correct": "B" }
+    ]
+  },
+  {
+    "english": "road",
+    "pron": "roʊd",
+    "kana": "ロウド",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 rād（馬で行くこと・道）",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "交通"],
+    "meaning_main": "道路・道",
+    "description": "road の意味・発音・例文・語源を解説。street・way との違いや、on the road（移動中）、同音の rode（ride の過去形）も紹介します。",
+    "keywords": ["road 意味", "road 発音", "road street 違い", "on the road 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】道路・道", "note": "車が通る道。a main road（幹線道路）。" },
+      { "hinshi": "【名詞】（比喩）道のり・過程", "note": "the road to success（成功への道）。" }
+    ],
+    "usages": [
+      { "title": "① 「道路・道」として", "desc": "車や人が通る道を表す基本の意味です。", "example_en": "Be careful when you cross the road.", "example_ja": "道路を渡るときは気をつけて。" },
+      { "title": "② 比喩「道のり」として", "desc": "目標までの過程を表します。", "example_en": "It was a long road to recovery.", "example_ja": "回復までの道のりは長かった。" }
+    ],
+    "warn": [
+      "road は『（町と町を結ぶ）道路』、street は『（建物の並ぶ）街路』。住所では St.（Street）や Rd.（Road）。",
+      "road /roʊd/ と rode（ride の過去形）/roʊd/ は同音。つづりで区別する。"
+    ],
+    "etym_note": "古英語 rād（馬で行くこと・行程）に由来します。ride（乗る）と同じ語源で、もとは『馬で行く道のり』が原義でした。",
+    "etym_chain": [
+      { "node": "rād", "sub": "馬で行くこと・道", "era": "古英語" },
+      { "node": "rode", "sub": "道", "era": "中英語" },
+      { "node": "road", "sub": "道路・道", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "cross the road", "ja": "道路を渡る" },
+      { "en": "on the road", "ja": "移動中で・旅の途中で" },
+      { "en": "a main road", "ja": "幹線道路" },
+      { "en": "the road to", "ja": "〜への道のり" },
+      { "en": "down the road", "ja": "この先・将来" },
+      { "en": "a one-way road", "ja": "一方通行の道" }
+    ],
+    "related": [
+      { "en": "street", "ja": "街路・通り" },
+      { "en": "way", "ja": "道・方法" },
+      { "en": "path", "ja": "小道" },
+      { "en": "highway", "ja": "幹線道路・高速道路" }
+    ],
+    "faq": [
+      { "q": "road と street の違いは？", "a": "road は町と町を結ぶ『道路』全般、street は建物が並ぶ町なかの『通り・街路』を指します。" },
+      { "q": "on the road とは？", "a": "『移動中で・旅の途中で』という意味です。We've been on the road for hours.（何時間も移動している）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "Be careful when you cross the ___.（道路を渡るとき注意）", "A": "road", "B": "rode", "C": "ride", "D": "rod", "correct": "A" },
+      { "q": "road と同音の単語はどれ？", "A": "read（現在形）", "B": "rode", "C": "rod", "D": "raid", "correct": "B" }
+    ]
+  },
+  {
+    "english": "robot",
+    "pron": "ˈroʊbɑːt",
+    "kana": "ロウボット",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "チェコ語 robota（強制労働）",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "科学技術"],
+    "meaning_main": "ロボット",
+    "description": "robot（ロボット）の意味・発音・例文・語源を解説。チェコ語の「強制労働」が語源という面白い由来や、AI 時代の使い方も紹介します。",
+    "keywords": ["robot 意味", "robot 発音", "robot 語源", "robot ロボット 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】ロボット", "note": "人の代わりに作業する機械。an industrial robot（産業用ロボット）。" }
+    ],
+    "usages": [
+      { "title": "① 機械の「ロボット」として", "desc": "工場や家庭で作業する機械を表します。", "example_en": "Robots are used to build cars in factories.", "example_ja": "工場では車を組み立てるのにロボットが使われている。" },
+      { "title": "② 比喩・話題として", "desc": "AIや自動化の話題でよく登場します。", "example_en": "Some people worry that robots will take our jobs.", "example_ja": "ロボットが仕事を奪うのではと心配する人もいる。" }
+    ],
+    "warn": [
+      "発音は『ロウボット』/ˈroʊbɑːt/。第一音節を強く読む。",
+      "形容詞・名詞 robotic（ロボットの）、robotics（ロボット工学）も関連語。"
+    ],
+    "etym_note": "チェコ語 robota（強制労働・賦役）に由来します。1920年の戯曲『R.U.R.』でカレル・チャペックが使い、世界中に広まった比較的新しい語です。",
+    "etym_chain": [
+      { "node": "robota", "sub": "強制労働", "era": "チェコ語" },
+      { "node": "robot", "sub": "人造の労働者", "era": "1920年代" },
+      { "node": "robot", "sub": "ロボット", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an industrial robot", "ja": "産業用ロボット" },
+      { "en": "a robot arm", "ja": "ロボットアーム" },
+      { "en": "build a robot", "ja": "ロボットを作る" },
+      { "en": "a cleaning robot", "ja": "掃除ロボット" },
+      { "en": "robots and AI", "ja": "ロボットとAI" },
+      { "en": "like a robot", "ja": "ロボットのように（無感情に）" }
+    ],
+    "related": [
+      { "en": "machine", "ja": "機械" },
+      { "en": "robotics", "ja": "ロボット工学" },
+      { "en": "AI", "ja": "人工知能" },
+      { "en": "technology", "ja": "科学技術" }
+    ],
+    "faq": [
+      { "q": "robot の語源は？", "a": "チェコ語の robota（強制労働）です。1920年の戯曲で初めて使われ、世界に広まりました。" },
+      { "q": "robot の発音の注意点は？", "a": "『ロボット』ではなく /ˈroʊbɑːt/「ロウボット」と、第一音節を強く読みます。" }
+    ],
+    "quiz": [
+      { "q": "___ are used to build cars in factories.（ロボットが使われる）", "A": "Robots", "B": "Rabbits", "C": "Rockets の話題違い", "D": "Roads", "correct": "A" },
+      { "q": "robot の語源（チェコ語）の意味は？", "A": "機械", "B": "強制労働", "C": "金属", "D": "人形", "correct": "B" }
+    ]
+  },
+  {
+    "english": "rock",
+    "pron": "rɑːk",
+    "kana": "ロック",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "古フランス語 roque（岩）",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "多義語"],
+    "meaning_main": "岩・石／揺れる・揺らす／ロック（音楽）",
+    "description": "rock の意味・発音・例文・語源を解説。「岩」「揺れる」「ロック音楽」という幅広い意味や、stone との違いも分かりやすく紹介します。",
+    "keywords": ["rock 意味", "rock 発音", "rock stone 違い", "rock 音楽 岩"],
+    "meanings": [
+      { "hinshi": "【名詞】岩・岩石", "note": "大きくて硬い石のかたまり。a big rock（大きな岩）。" },
+      { "hinshi": "【動詞】（前後・左右に）揺れる・揺らす", "note": "rock a baby（赤ちゃんをあやす）。" },
+      { "hinshi": "【名詞】ロック（音楽）", "note": "rock music（ロック音楽）。" }
+    ],
+    "usages": [
+      { "title": "① 「岩・岩石」として", "desc": "自然の硬い石のかたまりを表します。", "example_en": "The children climbed up on the big rocks.", "example_ja": "子どもたちは大きな岩によじ登った。" },
+      { "title": "② 「揺れる・揺らす」として", "desc": "ゆりかごのように前後に動かす意味です。", "example_en": "She rocked the baby to sleep.", "example_ja": "彼女は赤ちゃんを揺らして寝かしつけた。" }
+    ],
+    "warn": [
+      "rock は『（大きな）岩・岩石』、stone は『（小さめの）石』。a rock garden は『枯山水・ロックガーデン』。",
+      "on the rocks は『（飲み物が）氷を入れて』、また『（関係が）危機にある』の比喩も。"
+    ],
+    "etym_note": "古フランス語 roque / rocque（岩）に由来します。『揺れる』の rock は古英語 roccian（揺り動かす）から来た別系統の語で、つづりが同じになりました。",
+    "etym_chain": [
+      { "node": "rocca", "sub": "岩", "era": "俗ラテン語" },
+      { "node": "roque", "sub": "岩", "era": "古フランス語" },
+      { "node": "rock", "sub": "岩・揺れる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rock music", "ja": "ロック音楽" },
+      { "en": "on the rocks", "ja": "氷を入れて・危機にある" },
+      { "en": "rock and roll", "ja": "ロックンロール" },
+      { "en": "as solid as a rock", "ja": "岩のように頑丈な" },
+      { "en": "rock the boat", "ja": "波風を立てる" },
+      { "en": "a rock climber", "ja": "ロッククライマー" }
+    ],
+    "related": [
+      { "en": "stone", "ja": "石" },
+      { "en": "mountain", "ja": "山" },
+      { "en": "cliff", "ja": "がけ" },
+      { "en": "shake", "ja": "揺らす" }
+    ],
+    "faq": [
+      { "q": "rock と stone の違いは？", "a": "rock は『（大きな）岩・岩石』、stone は『（手に持てるくらいの）石』を指すのが一般的です。" },
+      { "q": "on the rocks の意味は？", "a": "飲み物では『氷を入れて』、比喩では『（関係などが）危機に瀕して』という意味になります。" }
+    ],
+    "quiz": [
+      { "q": "She ___ the baby to sleep.（揺らして寝かしつけた）", "A": "rocked", "B": "rang", "C": "rode", "D": "rose", "correct": "A" },
+      { "q": "rock より小さい『石』を表すのはどれ？", "A": "stone", "B": "cliff", "C": "mountain", "D": "hill", "correct": "A" }
+    ]
+  }
+]

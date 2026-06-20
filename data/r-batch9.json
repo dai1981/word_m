@@ -1,0 +1,535 @@
+[
+  {
+    "english": "role",
+    "pron": "roʊl",
+    "kana": "ロウル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 rôle（俳優のせりふを書いた巻物）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "基本語"],
+    "meaning_main": "役割・役目・（劇の）役",
+    "description": "role の意味・発音・例文・語源を解説。play a role（役割を果たす）の使い方や、同音の roll（転がる）との違いも分かりやすく紹介します。",
+    "keywords": ["role 意味", "role 発音", "play a role 使い方", "role roll 違い"],
+    "meanings": [
+      { "hinshi": "【名詞】役割・役目", "note": "play an important role（重要な役割を果たす）。" },
+      { "hinshi": "【名詞】（劇・映画の）役", "note": "the leading role（主役）。" }
+    ],
+    "usages": [
+      { "title": "① 「役割・役目」として", "desc": "play a role in〜で「〜で役割を果たす」を表します。", "example_en": "Teachers play an important role in society.", "example_ja": "教師は社会で重要な役割を果たす。" },
+      { "title": "② 劇・映画の「役」として", "desc": "俳優が演じる役を表します。", "example_en": "She played the leading role in the movie.", "example_ja": "彼女はその映画で主役を演じた。" }
+    ],
+    "warn": [
+      "「〜で役割を果たす」は play a role in。play a part in も同じ意味。",
+      "role（役割）と roll（転がる・名簿・パン）は同音 /roʊl/。つづりに注意。"
+    ],
+    "etym_note": "フランス語 rôle（俳優がせりふを書きつけた巻物）に由来します。もとは roll（巻物）と同じ語で、そこから『俳優の役・役割』の意味になりました。",
+    "etym_chain": [
+      { "node": "rotulus", "sub": "巻物", "era": "ラテン語" },
+      { "node": "rôle", "sub": "役のせりふを書いた巻物", "era": "フランス語" },
+      { "node": "role", "sub": "役割・役", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "play a role", "ja": "役割を果たす" },
+      { "en": "play a role in", "ja": "〜で役割を果たす" },
+      { "en": "an important role", "ja": "重要な役割" },
+      { "en": "the leading role", "ja": "主役" },
+      { "en": "a role model", "ja": "手本となる人" },
+      { "en": "take on a role", "ja": "役割を引き受ける" }
+    ],
+    "related": [
+      { "en": "part", "ja": "役・部分" },
+      { "en": "duty", "ja": "義務・職務" },
+      { "en": "function", "ja": "機能・役目" },
+      { "en": "roll", "ja": "転がる（同音語）" }
+    ],
+    "faq": [
+      { "q": "role と roll の違いは？", "a": "発音は同じ /roʊl/ ですが、role は『役割・役』、roll は『転がる・名簿・ロールパン』です。つづりで区別します。" },
+      { "q": "role model とは？", "a": "『手本・模範となる人』のことです。He is a role model for young players.（彼は若手選手の手本だ）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "Teachers play an important ___ in society.（重要な役割）", "A": "role", "B": "roll", "C": "rule", "D": "rock", "correct": "A" },
+      { "q": "「主役」を表すのはどれ？", "A": "the leading role", "B": "the leading roll", "C": "the leading rule", "D": "the leading rock", "correct": "A" }
+    ]
+  },
+  {
+    "english": "roll",
+    "pron": "roʊl",
+    "kana": "ロウル",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "ラテン語 rotulus（小さな車輪・巻物）",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "多義語"],
+    "meaning_main": "転がる・転がす・巻く／ロールパン・名簿",
+    "description": "roll の意味・発音・例文・語源を解説。「転がる」「巻く」の動詞用法や、ロールパン・名簿などの名詞、同音 role との違いも紹介します。",
+    "keywords": ["roll 意味", "roll 発音", "roll role 違い", "roll 転がる 巻く"],
+    "meanings": [
+      { "hinshi": "【動詞】転がる・転がす", "note": "The ball rolled down the hill.（ボールが坂を転がった）。" },
+      { "hinshi": "【動詞】巻く・丸める", "note": "roll up（巻き上げる）。roll the dough（生地をのばす・巻く）。" },
+      { "hinshi": "【名詞】ロールパン・巻いたもの／名簿", "note": "a bread roll（ロールパン）、call the roll（出席をとる）。" }
+    ],
+    "usages": [
+      { "title": "① 「転がる・転がす」として", "desc": "丸いものがころころ動く意味です。", "example_en": "The coin rolled under the table.", "example_ja": "コインがテーブルの下に転がっていった。" },
+      { "title": "② 「巻く・丸める」として", "desc": "roll up（巻き上げる）の形でよく使います。", "example_en": "He rolled up his sleeves and got to work.", "example_ja": "彼は袖をまくり上げて仕事に取りかかった。" }
+    ],
+    "warn": [
+      "roll（転がる・名簿・パン）と role（役割）は同音 /roʊl/。つづりで区別する。",
+      "call the roll は『出席をとる・点呼する』。roll call（点呼）も同じ。"
+    ],
+    "etym_note": "ラテン語 rotulus（小さな車輪・巻物。rota「車輪」の指小形）に由来します。role（役割）も同じ語源で、もとは『巻物』のイメージです。",
+    "etym_chain": [
+      { "node": "rotulus", "sub": "小さな車輪・巻物", "era": "ラテン語" },
+      { "node": "rollen", "sub": "転がる", "era": "中英語" },
+      { "node": "roll", "sub": "転がる・巻く", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "roll up", "ja": "巻き上げる・まくる" },
+      { "en": "roll down", "ja": "転がり落ちる・下ろす" },
+      { "en": "a bread roll", "ja": "ロールパン" },
+      { "en": "call the roll", "ja": "出席をとる" },
+      { "en": "rock and roll", "ja": "ロックンロール" },
+      { "en": "on a roll", "ja": "調子に乗って・連勝中で" }
+    ],
+    "related": [
+      { "en": "turn", "ja": "回る・回す" },
+      { "en": "spin", "ja": "回転する" },
+      { "en": "wheel", "ja": "車輪" },
+      { "en": "role", "ja": "役割（同音語）" }
+    ],
+    "faq": [
+      { "q": "roll と role の違いは？", "a": "発音は同じ /roʊl/ ですが、roll は『転がる・巻く・名簿・ロールパン』、role は『役割・役』です。" },
+      { "q": "on a roll とはどんな意味？", "a": "『調子に乗っている・好調が続いている』という意味の口語表現です。" }
+    ],
+    "quiz": [
+      { "q": "The coin ___ under the table.（コインが転がった）", "A": "rolled", "B": "ringed", "C": "rode", "D": "rose", "correct": "A" },
+      { "q": "「出席をとる」を表すのはどれ？", "A": "call the roll", "B": "call the role", "C": "call the rule", "D": "call the rock", "correct": "A" }
+    ]
+  },
+  {
+    "english": "roof",
+    "pron": "ruːf",
+    "kana": "ルーフ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 hrōf（屋根・天井）",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "建物"],
+    "meaning_main": "屋根・屋上",
+    "description": "roof（屋根）の意味・発音・例文・語源を解説。複数形 roofs（roovesではない）や、under one roof（同じ屋根の下）も分かりやすく紹介します。",
+    "keywords": ["roof 意味", "roof 発音", "roof 複数形", "under one roof 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】屋根・屋上", "note": "建物の上をおおう部分。a flat roof（平らな屋根）。" },
+      { "hinshi": "【名詞】（口・車などの）上部", "note": "the roof of the mouth（口の上あご）。" }
+    ],
+    "usages": [
+      { "title": "① 建物の「屋根」として", "desc": "家や建物をおおう部分を表します。", "example_en": "The cat is sitting on the roof.", "example_ja": "ネコが屋根の上に座っている。" },
+      { "title": "② 比喩表現として", "desc": "under one roof（同じ屋根の下で）などで使います。", "example_en": "Three families live under one roof.", "example_ja": "3つの家族が同じ屋根の下で暮らしている。" }
+    ],
+    "warn": [
+      "複数形は roofs（rooves とはしない）。",
+      "hit the roof は『かんかんに怒る』、a roof over your head は『住む家』の比喩。"
+    ],
+    "etym_note": "古英語 hrōf（屋根・天井）に由来する古いゲルマン系の語です。英語以外にはあまり似た形が残っていない独特な語です。",
+    "etym_chain": [
+      { "node": "hrōf", "sub": "屋根・天井", "era": "古英語" },
+      { "node": "rof", "sub": "屋根", "era": "中英語" },
+      { "node": "roof", "sub": "屋根・屋上", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "on the roof", "ja": "屋根の上で" },
+      { "en": "under one roof", "ja": "同じ屋根の下で" },
+      { "en": "a roof over your head", "ja": "住む家・雨露をしのぐ場所" },
+      { "en": "hit the roof", "ja": "かんかんに怒る" },
+      { "en": "a flat roof", "ja": "平らな屋根" },
+      { "en": "the roof of the mouth", "ja": "上あご" }
+    ],
+    "related": [
+      { "en": "ceiling", "ja": "天井" },
+      { "en": "wall", "ja": "壁" },
+      { "en": "floor", "ja": "床" },
+      { "en": "house", "ja": "家" }
+    ],
+    "faq": [
+      { "q": "roof の複数形は？", "a": "roofs です。古い形の rooves はほとんど使われません。" },
+      { "q": "hit the roof とはどんな意味？", "a": "『かんかんに怒る・激怒する』という意味の慣用句です。" }
+    ],
+    "quiz": [
+      { "q": "The cat is sitting on the ___.（屋根の上）", "A": "roof", "B": "room", "C": "root", "D": "rope", "correct": "A" },
+      { "q": "roof の正しい複数形はどれ？", "A": "rooves", "B": "roofs", "C": "roofes", "D": "rooffs", "correct": "B" }
+    ]
+  },
+  {
+    "english": "room",
+    "pron": "ruːm",
+    "kana": "ルーム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 rūm（空間・広がり）",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "多義語"],
+    "meaning_main": "部屋／（数えない）空間・余地",
+    "description": "room の意味・発音・例文・語源を解説。「部屋」（可算）と「空間・余地」（不可算）の二つの使い方の違いを分かりやすく紹介します。",
+    "keywords": ["room 意味", "room 発音", "room 可算 不可算", "make room 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】部屋（数えられる）", "note": "a living room（居間）。a hotel room（ホテルの部屋）。" },
+      { "hinshi": "【名詞】空間・余地（数えられない）", "note": "make room（場所をあける）、room for improvement（改善の余地）。" }
+    ],
+    "usages": [
+      { "title": "① 「部屋」として", "desc": "数えられる名詞で、建物の中の部屋を表します。", "example_en": "My room is on the second floor.", "example_ja": "私の部屋は2階にある。" },
+      { "title": "② 「空間・余地」として", "desc": "数えられない名詞で、スペースや可能性を表します。", "example_en": "There is no room for one more chair.", "example_ja": "もう1脚いすを置く場所がない。" }
+    ],
+    "warn": [
+      "『空間・余地』の意味では数えられない名詞。a room とは言わず、room / enough room と表す。",
+      "room for improvement は『改善の余地』。make room for は『〜のために場所をあける』。"
+    ],
+    "etym_note": "古英語 rūm（空間・広がり）に由来する古いゲルマン系の語です。もとは『広い空間』が原義で、そこから区切られた『部屋』の意味も生まれました。",
+    "etym_chain": [
+      { "node": "rūm", "sub": "空間・広がり", "era": "古英語" },
+      { "node": "roum", "sub": "空間・部屋", "era": "中英語" },
+      { "node": "room", "sub": "部屋・空間", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a living room", "ja": "居間" },
+      { "en": "make room for", "ja": "〜のために場所をあける" },
+      { "en": "room for improvement", "ja": "改善の余地" },
+      { "en": "enough room", "ja": "十分な空間" },
+      { "en": "a single room", "ja": "シングルルーム" },
+      { "en": "no room to move", "ja": "身動きできないほど狭い" }
+    ],
+    "related": [
+      { "en": "space", "ja": "空間・スペース" },
+      { "en": "hall", "ja": "広間・玄関" },
+      { "en": "house", "ja": "家" },
+      { "en": "area", "ja": "場所・区域" }
+    ],
+    "faq": [
+      { "q": "room はいつ数えられない？", "a": "『空間・余地』の意味のときは数えられません。There isn't much room.（あまりスペースがない）のように使います。『部屋』の意味のときは数えられます。" },
+      { "q": "room for improvement とは？", "a": "『改善の余地』という意味です。There is still room for improvement.（まだ改善の余地がある）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "There is no ___ for one more chair.（置く場所がない）", "A": "room", "B": "roof", "C": "root", "D": "rope", "correct": "A" },
+      { "q": "「改善の余地」を表すのはどれ？", "A": "room for improvement", "B": "roof for improvement", "C": "root for improvement", "D": "rope for improvement", "correct": "A" }
+    ]
+  },
+  {
+    "english": "root",
+    "pron": "ruːt",
+    "kana": "ルート",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 rōt（根）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "多義語"],
+    "meaning_main": "根・根源／（語の）語根",
+    "description": "root の意味・発音・例文・語源を解説。植物の「根」だけでなく「原因・根源」「語根」の意味や、route（道）との違いも紹介します。",
+    "keywords": ["root 意味", "root 発音", "root route 違い", "root 根 根源"],
+    "meanings": [
+      { "hinshi": "【名詞】（植物の）根", "note": "the roots of a tree（木の根）。" },
+      { "hinshi": "【名詞】根源・原因・ルーツ", "note": "the root of the problem（問題の根本）。" },
+      { "hinshi": "【名詞】（語の）語根・（数学の）根", "note": "a Latin root（ラテン語の語根）、square root（平方根）。" }
+    ],
+    "usages": [
+      { "title": "① 植物の「根」として", "desc": "地中に伸びる植物の根を表します。", "example_en": "The roots of the tree go deep into the ground.", "example_ja": "その木の根は地中深くまで伸びている。" },
+      { "title": "② 「根源・原因」として", "desc": "問題やものごとの根本を表します。", "example_en": "Money is often the root of conflict.", "example_ja": "お金はしばしば争いの根源だ。" }
+    ],
+    "warn": [
+      "root /ruːt/ と route（道・経路）/ruːt または raʊt/ は意味が違う。文脈で区別する。",
+      "roots（複数形）は『（人の）ルーツ・故郷・起源』の意味にもなる。"
+    ],
+    "etym_note": "古英語 rōt（根）に由来し、古ノルド語ともつながる古いゲルマン系の語です。植物の根から『ものごとの根本』へと意味が広がりました。",
+    "etym_chain": [
+      { "node": "rōt", "sub": "根", "era": "古英語" },
+      { "node": "rote", "sub": "根", "era": "中英語" },
+      { "node": "root", "sub": "根・根源", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the root of the problem", "ja": "問題の根本" },
+      { "en": "take root", "ja": "根づく・定着する" },
+      { "en": "roots", "ja": "ルーツ・起源" },
+      { "en": "a square root", "ja": "平方根" },
+      { "en": "the root cause", "ja": "根本原因" },
+      { "en": "put down roots", "ja": "根を下ろす・定住する" }
+    ],
+    "related": [
+      { "en": "cause", "ja": "原因" },
+      { "en": "origin", "ja": "起源" },
+      { "en": "source", "ja": "源" },
+      { "en": "route", "ja": "道・経路（紛らわしい語）" }
+    ],
+    "faq": [
+      { "q": "root と route の違いは？", "a": "root は『根・根源・語根』、route は『道・経路』です。発音も意味も別なので注意しましょう。" },
+      { "q": "the root of the problem とは？", "a": "『問題の根本（原因）』という意味です。get to the root of〜で『〜の根本を突き止める』になります。" }
+    ],
+    "quiz": [
+      { "q": "Money is often the ___ of conflict.（争いの根源）", "A": "root", "B": "route", "C": "roof", "D": "room", "correct": "A" },
+      { "q": "「根づく・定着する」を表すのはどれ？", "A": "take root", "B": "take roof", "C": "take room", "D": "take rope", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rope",
+    "pron": "roʊp",
+    "kana": "ロウプ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 rāp（綱・ロープ）",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "もの"],
+    "meaning_main": "ロープ・綱・縄",
+    "description": "rope（ロープ）の意味・発音・例文・語源を解説。string・cord との太さの違いや、learn the ropes（コツを覚える）などの表現も紹介します。",
+    "keywords": ["rope 意味", "rope 発音", "rope string 違い", "learn the ropes 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】ロープ・綱・縄", "note": "太くて丈夫なひも。a thick rope（太い綱）。" }
+    ],
+    "usages": [
+      { "title": "① 道具の「ロープ」として", "desc": "物をしばったり引いたりする太いひもです。", "example_en": "They tied the boat to the dock with a rope.", "example_ja": "彼らはロープでボートを波止場につないだ。" },
+      { "title": "② 比喩表現として", "desc": "learn the ropes（コツを覚える）などで使います。", "example_en": "It takes time to learn the ropes of a new job.", "example_ja": "新しい仕事のコツをつかむには時間がかかる。" }
+    ],
+    "warn": [
+      "太さの順は rope（太い綱）＞ cord（ひも）＞ string（細いひも）＞ thread（糸）。",
+      "learn the ropes は『（仕事の）こつ・要領を覚える』という慣用句。"
+    ],
+    "etym_note": "古英語 rāp（綱）に由来する古いゲルマン系の語です。ドイツ語 Reif（輪・たが）などとつながる古い基礎語です。",
+    "etym_chain": [
+      { "node": "rāp", "sub": "綱・ロープ", "era": "古英語" },
+      { "node": "rope", "sub": "綱", "era": "中英語" },
+      { "node": "rope", "sub": "ロープ・綱", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "tie with a rope", "ja": "ロープでしばる" },
+      { "en": "learn the ropes", "ja": "こつを覚える" },
+      { "en": "a jump rope", "ja": "なわとびの縄" },
+      { "en": "pull the rope", "ja": "綱を引く" },
+      { "en": "a tightrope", "ja": "綱渡りの綱" },
+      { "en": "at the end of one's rope", "ja": "もう限界で" }
+    ],
+    "related": [
+      { "en": "string", "ja": "細いひも・糸" },
+      { "en": "cord", "ja": "コード・ひも" },
+      { "en": "wire", "ja": "針金・ワイヤー" },
+      { "en": "knot", "ja": "結び目" }
+    ],
+    "faq": [
+      { "q": "rope と string の違いは？", "a": "rope は太くて丈夫な『綱』、string は細い『ひも・糸』です。太さで使い分けます。" },
+      { "q": "learn the ropes とは？", "a": "『（仕事などの）こつ・要領を覚える』という意味の慣用句です。船乗りがロープの扱いを覚えたことに由来します。" }
+    ],
+    "quiz": [
+      { "q": "They tied the boat with a ___.（ロープでつないだ）", "A": "rope", "B": "roof", "C": "room", "D": "root", "correct": "A" },
+      { "q": "「こつを覚える」を表すのはどれ？", "A": "learn the ropes", "B": "learn the roofs", "C": "learn the roots", "D": "learn the rooms", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rose",
+    "pron": "roʊz",
+    "kana": "ロウズ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 rosa（バラ）",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "植物"],
+    "meaning_main": "バラ／バラ色",
+    "description": "rose（バラ）の意味・発音・例文・語源を解説。同じつづりの rose（rise の過去形）との違いや、バラにまつわる慣用表現も紹介します。",
+    "keywords": ["rose 意味", "rose 発音", "rose rise 過去形", "rose バラ 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】バラ", "note": "とげのある美しい花。a red rose（赤いバラ）。" },
+      { "hinshi": "【名詞・形容詞】バラ色（の）", "note": "rose-colored（バラ色の・楽観的な）。" }
+    ],
+    "usages": [
+      { "title": "① 花の「バラ」として", "desc": "愛や美の象徴としてよく使われる花です。", "example_en": "He gave her a bunch of red roses.", "example_ja": "彼は彼女に赤いバラの花束を贈った。" },
+      { "title": "② 慣用表現として", "desc": "バラを使った比喩表現も豊富です。", "example_en": "Life is not always a bed of roses.", "example_ja": "人生はいつも楽なことばかりではない。" }
+    ],
+    "warn": [
+      "rose は名詞『バラ』だけでなく、rise（上がる）の過去形も同じつづり・発音 /roʊz/。文脈で区別する。",
+      "a bed of roses は『安楽な状況』、rose-colored glasses は『楽観的な見方』。"
+    ],
+    "etym_note": "ラテン語 rosa（バラ）に由来し、古英語の時代から英語にある古い借入語です。多くのヨーロッパ言語で似た形が見られます。",
+    "etym_chain": [
+      { "node": "rosa", "sub": "バラ", "era": "ラテン語" },
+      { "node": "rose", "sub": "バラ", "era": "古英語" },
+      { "node": "rose", "sub": "バラ・バラ色", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a red rose", "ja": "赤いバラ" },
+      { "en": "a bunch of roses", "ja": "バラの花束" },
+      { "en": "a bed of roses", "ja": "安楽な状況" },
+      { "en": "rose-colored glasses", "ja": "楽観的な見方" },
+      { "en": "come up roses", "ja": "うまくいく" },
+      { "en": "a rose garden", "ja": "バラ園" }
+    ],
+    "related": [
+      { "en": "flower", "ja": "花" },
+      { "en": "thorn", "ja": "とげ" },
+      { "en": "petal", "ja": "花びら" },
+      { "en": "rise", "ja": "上がる（roseは過去形）" }
+    ],
+    "faq": [
+      { "q": "rose は『バラ』以外の意味もある？", "a": "はい。rise（上がる・昇る）の過去形も rose です。The sun rose.（太陽が昇った）のように使います。" },
+      { "q": "a bed of roses とは？", "a": "『安楽な状況・楽な暮らし』を表します。否定形で『楽ではない』とよく使われます。" }
+    ],
+    "quiz": [
+      { "q": "He gave her a bunch of red ___.（赤いバラの花束）", "A": "roses", "B": "ropes", "C": "roofs", "D": "roots", "correct": "A" },
+      { "q": "rose と同じつづりになるのはどの動詞の過去形？", "A": "rise", "B": "raise", "C": "ride", "D": "ring", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rough",
+    "pron": "rʌf",
+    "kana": "ラフ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "古英語 rūh（ざらざらした・毛深い）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "形容詞"],
+    "meaning_main": "ざらざらした・粗い・大まかな・荒れた",
+    "description": "rough の意味・発音・例文・語源を解説。発音は『ラフ』で gh が /f/ になる点や、smooth との反対関係、a rough idea（大まかな考え）も紹介します。",
+    "keywords": ["rough 意味", "rough 発音", "rough smooth 反対", "rough idea 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】ざらざらした・粗い", "note": "rough skin（かさかさの肌）。smooth の反対。" },
+      { "hinshi": "【形容詞】大まかな・おおよその", "note": "a rough estimate（おおよその見積もり）。" },
+      { "hinshi": "【形容詞】荒れた・乱暴な・つらい", "note": "a rough sea（荒れた海）、a rough day（大変な一日）。" }
+    ],
+    "usages": [
+      { "title": "① 「ざらざらした・粗い」として", "desc": "表面がなめらかでない様子を表します。", "example_en": "The wall felt rough to the touch.", "example_ja": "その壁は触るとざらざらしていた。" },
+      { "title": "② 「大まかな・おおよその」として", "desc": "a rough idea（大まかな考え）の形で使います。", "example_en": "Can you give me a rough idea of the cost?", "example_ja": "費用のおおよそを教えてもらえますか。" }
+    ],
+    "warn": [
+      "発音は /rʌf/「ラフ」。gh は /f/ の音になる（enough, tough と同じ）。",
+      "反対語は smooth（なめらかな）。副詞は roughly（おおよそ・乱暴に）。"
+    ],
+    "etym_note": "古英語 rūh（ざらざらした・毛深い）に由来する古いゲルマン系の語です。ドイツ語 rauh（粗い）と同じ仲間です。",
+    "etym_chain": [
+      { "node": "rūh", "sub": "ざらざらした・毛深い", "era": "古英語" },
+      { "node": "rough", "sub": "粗い", "era": "中英語" },
+      { "node": "rough", "sub": "粗い・大まかな・荒れた", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rough idea", "ja": "大まかな考え" },
+      { "en": "a rough estimate", "ja": "おおよその見積もり" },
+      { "en": "rough skin", "ja": "かさかさの肌" },
+      { "en": "a rough day", "ja": "大変な一日" },
+      { "en": "play rough", "ja": "乱暴にふるまう" },
+      { "en": "rough and ready", "ja": "粗削りだが間に合う" }
+    ],
+    "related": [
+      { "en": "smooth", "ja": "なめらかな（反対語）" },
+      { "en": "roughly", "ja": "おおよそ・乱暴に" },
+      { "en": "coarse", "ja": "きめの粗い" },
+      { "en": "approximate", "ja": "おおよその" }
+    ],
+    "faq": [
+      { "q": "rough の発音は？", "a": "/rʌf/「ラフ」です。gh は /f/ の音になります。tough（タフ）、enough（イナフ）と同じパターンです。" },
+      { "q": "rough の反対語は？", "a": "smooth（なめらかな）です。a rough surface ↔ a smooth surface のように使います。" }
+    ],
+    "quiz": [
+      { "q": "Can you give me a ___ idea of the cost?（大まかな考え）", "A": "rough", "B": "round", "C": "right", "D": "rich", "correct": "A" },
+      { "q": "rough の反対語はどれ？", "A": "smooth", "B": "hard", "C": "soft", "D": "sharp", "correct": "A" }
+    ]
+  },
+  {
+    "english": "round",
+    "pron": "raʊnd",
+    "kana": "ラウンド",
+    "hinshi": "形容詞 / 前置詞・副詞 / 名詞",
+    "ld_pos": "形容詞・前置詞・名詞",
+    "ld_etym": "ラテン語 rotundus（丸い）",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "多義語"],
+    "meaning_main": "丸い／〜の周りに／（試合などの）回・ラウンド",
+    "description": "round の意味・発音・例文・語源を解説。「丸い」「〜の周りに」「回・ラウンド」など幅広い意味と、around との関係も分かりやすく紹介します。",
+    "keywords": ["round 意味", "round 発音", "round around 違い", "round 丸い 周り"],
+    "meanings": [
+      { "hinshi": "【形容詞】丸い・円形の", "note": "a round table（丸テーブル）。" },
+      { "hinshi": "【前置詞・副詞】〜の周りに・ぐるりと", "note": "around とほぼ同じ意味（主に英）。" },
+      { "hinshi": "【名詞】（試合・交渉などの）回・ラウンド", "note": "the first round（第1回戦）。" }
+    ],
+    "usages": [
+      { "title": "① 「丸い」として", "desc": "円形・球形を表す基本の形容詞です。", "example_en": "We sat at a round table.", "example_ja": "私たちは丸いテーブルに着いた。" },
+      { "title": "② 「回・ラウンド」として", "desc": "試合・交渉などの一区切りを表します。", "example_en": "He won the match in the third round.", "example_ja": "彼は第3ラウンドで試合に勝った。" }
+    ],
+    "warn": [
+      "前置詞 round（〜の周りに）は主にイギリス英語。アメリカ英語では around が一般的。",
+      "a round of applause は『（ひとしきりの）拍手』、a round of drinks は『（全員に）一巡の飲み物』。"
+    ],
+    "etym_note": "ラテン語 rotundus（丸い。rota「車輪」から）に由来し、古フランス語 ront を経て英語に入りました。rotate（回転する）と同じ語源です。",
+    "etym_chain": [
+      { "node": "rotundus", "sub": "丸い", "era": "ラテン語" },
+      { "node": "ront", "sub": "丸い", "era": "古フランス語" },
+      { "node": "round", "sub": "丸い・周りに", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a round table", "ja": "丸テーブル・円卓" },
+      { "en": "all year round", "ja": "一年中" },
+      { "en": "a round of applause", "ja": "ひとしきりの拍手" },
+      { "en": "the first round", "ja": "第1回戦" },
+      { "en": "round trip", "ja": "往復（の旅）" },
+      { "en": "round the clock", "ja": "24時間ずっと" }
+    ],
+    "related": [
+      { "en": "around", "ja": "〜の周りに" },
+      { "en": "circle", "ja": "円・輪" },
+      { "en": "circular", "ja": "円形の" },
+      { "en": "turn", "ja": "回る" }
+    ],
+    "faq": [
+      { "q": "round と around の違いは？", "a": "前置詞・副詞としてはほぼ同じ意味で、round は主にイギリス英語、around はアメリカ英語でよく使われます。" },
+      { "q": "all year round とは？", "a": "『一年中・年間を通して』という意味の表現です。" }
+    ],
+    "quiz": [
+      { "q": "We sat at a ___ table.（丸いテーブル）", "A": "round", "B": "rough", "C": "right", "D": "rich", "correct": "A" },
+      { "q": "「一年中」を表すのはどれ？", "A": "all year round", "B": "all year roof", "C": "all year root", "D": "all year rope", "correct": "A" }
+    ]
+  },
+  {
+    "english": "route",
+    "pron": "ruːt",
+    "kana": "ルート",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 rupta (via)（切り開かれた道）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "交通"],
+    "meaning_main": "道・経路・ルート",
+    "description": "route の意味・発音・例文・語源を解説。root（根）との違いや、way・road との使い分け、en route（途中で）も分かりやすく紹介します。",
+    "keywords": ["route 意味", "route 発音", "route root 違い", "route way 違い"],
+    "meanings": [
+      { "hinshi": "【名詞】道・経路・ルート", "note": "ある地点から別の地点への道筋。the shortest route（最短経路）。" },
+      { "hinshi": "【名詞】（バス・配達などの）路線", "note": "a bus route（バス路線）。" }
+    ],
+    "usages": [
+      { "title": "① 「経路・道筋」として", "desc": "目的地までの道のりを表します。", "example_en": "We took the shortest route to the airport.", "example_ja": "私たちは空港まで最短ルートを通った。" },
+      { "title": "② 「路線」として", "desc": "バスや配送の決まった道筋を表します。", "example_en": "This bus route goes through the city center.", "example_ja": "このバス路線は市の中心部を通る。" }
+    ],
+    "warn": [
+      "route /ruːt/ と root（根）/ruːt/ は同音になり得る。意味で区別する（米では route を /raʊt/ と読むことも）。",
+      "route は『（出発から到着までの）経路』、road は『道路そのもの』、way は『道・方法』。"
+    ],
+    "etym_note": "ラテン語 rupta via（切り開かれた道。rumpere「破る」の過去分詞）に由来し、古フランス語 route を経て英語に入りました。「切り開いて通した道」が原義です。",
+    "etym_chain": [
+      { "node": "rupta via", "sub": "切り開かれた道", "era": "ラテン語" },
+      { "node": "route", "sub": "道・経路", "era": "古フランス語" },
+      { "node": "route", "sub": "経路・ルート", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the shortest route", "ja": "最短経路" },
+      { "en": "a bus route", "ja": "バス路線" },
+      { "en": "en route", "ja": "途中で・移動中に" },
+      { "en": "a trade route", "ja": "交易路" },
+      { "en": "an escape route", "ja": "逃げ道・避難経路" },
+      { "en": "plan a route", "ja": "経路を計画する" }
+    ],
+    "related": [
+      { "en": "road", "ja": "道路" },
+      { "en": "way", "ja": "道・方法" },
+      { "en": "path", "ja": "小道" },
+      { "en": "root", "ja": "根（紛らわしい語）" }
+    ],
+    "faq": [
+      { "q": "route と root の違いは？", "a": "route は『道・経路』、root は『根・根源』です。発音が同じ /ruːt/ になることがあるので、意味と文脈で区別します。" },
+      { "q": "en route とはどんな意味？", "a": "『途中で・移動中に』という意味のフランス語由来の表現です。We stopped for lunch en route.（途中で昼食をとった）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "We took the shortest ___ to the airport.（最短ルート）", "A": "route", "B": "root", "C": "roof", "D": "room", "correct": "A" },
+      { "q": "「途中で・移動中に」を表すのはどれ？", "A": "en route", "B": "in root", "C": "on roof", "D": "at room", "correct": "A" }
+    ]
+  }
+]

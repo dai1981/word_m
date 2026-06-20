@@ -1,0 +1,530 @@
+[
+  {
+    "english": "ratio",
+    "pron": "ˈreɪʃioʊ",
+    "kana": "レイシオウ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 ratio（計算・割合）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "数学"],
+    "meaning_main": "比・比率・割合",
+    "description": "ratio の意味・発音・例文・語源を解説。a ratio of A to B（AとBの比）の使い方や、rate（率）との違いも分かりやすく紹介します。",
+    "keywords": ["ratio 意味", "ratio 発音", "ratio of to 使い方", "ratio rate 違い"],
+    "meanings": [
+      { "hinshi": "【名詞】比・比率", "note": "2つの数量の関係を a:b の形で表す。the ratio of boys to girls（男女比）。" }
+    ],
+    "usages": [
+      { "title": "① 「比・割合」として", "desc": "a ratio of A to B で「AとBの比」を表します。", "example_en": "The ratio of teachers to students is one to twenty.", "example_ja": "教師と生徒の比は1対20だ。" },
+      { "title": "② 数値で表して", "desc": "比を数字で示します。", "example_en": "Mix the flour and water in a ratio of 2 to 1.", "example_ja": "小麦粉と水を2対1の比で混ぜなさい。" }
+    ],
+    "warn": [
+      "「AとBの比」は the ratio of A to B。発音は /ˈreɪʃioʊ/「レイシオウ」。",
+      "ratio は『2つの量の比（a:b）』、rate は『ある量に対する率（％など）』。混同しない。"
+    ],
+    "etym_note": "ラテン語 ratio（計算・割合・理性）に由来します。rate・reason・rational と同じ語源で、もとの『計算・比』の意味がそのまま残った語です。",
+    "etym_chain": [
+      { "node": "ratio", "sub": "計算・割合", "era": "ラテン語" },
+      { "node": "ratio", "sub": "比・割合", "era": "近代英語" },
+      { "node": "ratio", "sub": "比・比率", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the ratio of A to B", "ja": "AとBの比" },
+      { "en": "a high ratio", "ja": "高い比率" },
+      { "en": "in a ratio of", "ja": "〜の比で" },
+      { "en": "the male-to-female ratio", "ja": "男女比" },
+      { "en": "a 2 to 1 ratio", "ja": "2対1の比" },
+      { "en": "the success ratio", "ja": "成功率・成功比" }
+    ],
+    "related": [
+      { "en": "rate", "ja": "率・割合" },
+      { "en": "proportion", "ja": "割合・比率" },
+      { "en": "percentage", "ja": "百分率" },
+      { "en": "fraction", "ja": "分数・割合" }
+    ],
+    "faq": [
+      { "q": "ratio と rate の違いは？", "a": "ratio は『2つの量の比（2:1 など）』、rate は『ある量に対する率（出生率など、％で表す）』です。" },
+      { "q": "「AとBの比」は英語で？", "a": "the ratio of A to B です。the ratio of boys to girls（男女の比）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The ___ of teachers to students is one to twenty.（比）", "A": "ratio", "B": "rate", "C": "rank", "D": "range", "correct": "A" },
+      { "q": "「2つの量の比（2:1）」を表すのはどれ？", "A": "ratio", "B": "rate", "C": "reason", "D": "result", "correct": "A" }
+    ]
+  },
+  {
+    "english": "razor",
+    "pron": "ˈreɪzər",
+    "kana": "レイザー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 rasor（そるもの）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "もの"],
+    "meaning_main": "かみそり・ひげそり",
+    "description": "razor の意味・発音・例文・語源を解説。ひげをそる道具を表す語で、razor-sharp（かみそりのように鋭い）などの表現も分かりやすく紹介します。",
+    "keywords": ["razor 意味", "razor 発音", "razor-sharp 意味", "razor かみそり"],
+    "meanings": [
+      { "hinshi": "【名詞】かみそり・ひげそり", "note": "毛をそる刃物。an electric razor（電気かみそり）。" }
+    ],
+    "usages": [
+      { "title": "① 道具の「かみそり」として", "desc": "ひげや毛をそる刃物です。", "example_en": "He shaved with a new razor.", "example_ja": "彼は新しいかみそりでひげをそった。" },
+      { "title": "② 比喩 razor-sharp として", "desc": "「非常に鋭い」を表します。", "example_en": "She has a razor-sharp mind.", "example_ja": "彼女は非常に鋭い頭脳を持っている。" }
+    ],
+    "warn": [
+      "動詞『そる』は shave。razor は道具の名詞。",
+      "razor-sharp は『かみそりのように鋭い（刃も頭脳も）』。on a razor's edge は『危機一髪で』。"
+    ],
+    "etym_note": "古フランス語 rasor（raser「そる・けずる」から）に由来します。ラテン語 radere（けずる）が語源で、erase（消す）とも関係します。",
+    "etym_chain": [
+      { "node": "radere", "sub": "けずる・そる", "era": "ラテン語" },
+      { "node": "rasor", "sub": "そるもの", "era": "古フランス語" },
+      { "node": "razor", "sub": "かみそり", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an electric razor", "ja": "電気かみそり" },
+      { "en": "a disposable razor", "ja": "使い捨てかみそり" },
+      { "en": "razor-sharp", "ja": "かみそりのように鋭い" },
+      { "en": "a razor blade", "ja": "かみそりの刃" },
+      { "en": "on a razor's edge", "ja": "危機一髪で" },
+      { "en": "shave with a razor", "ja": "かみそりでそる" }
+    ],
+    "related": [
+      { "en": "shave", "ja": "そる" },
+      { "en": "blade", "ja": "刃" },
+      { "en": "knife", "ja": "ナイフ" },
+      { "en": "sharp", "ja": "鋭い" }
+    ],
+    "faq": [
+      { "q": "razor の動詞（そる）は？", "a": "shave です。razor は道具の名詞、shave that動作の動詞です。shave with a razor（かみそりでそる）のように使います。" },
+      { "q": "razor-sharp とは？", "a": "『かみそりのように鋭い』という意味で、刃物だけでなく頭脳・分析などの鋭さにも使います。" }
+    ],
+    "quiz": [
+      { "q": "He shaved with a new ___.（かみそり）", "A": "razor", "B": "razer の誤形", "C": "raiser", "D": "razor の誤形 rasor", "correct": "A" },
+      { "q": "「非常に鋭い」を表すのはどれ？", "A": "razor-sharp", "B": "razor-flat", "C": "razor-soft", "D": "razor-wide", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rear",
+    "pron": "rɪr",
+    "kana": "リア",
+    "hinshi": "名詞 / 形容詞 / 動詞",
+    "ld_pos": "名詞・形容詞・動詞",
+    "ld_etym": "古フランス語 rere（後ろ）／古英語 rǣran（育てる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "多義語"],
+    "meaning_main": "後部・後方（の）／（子・動物を）育てる",
+    "description": "rear の意味・発音・例文・語源を解説。「後部の」（front の反対）と「育てる」（raise に近い）の二つの意味を分かりやすく紹介します。",
+    "keywords": ["rear 意味", "rear 発音", "rear front 反対", "rear 育てる"],
+    "meanings": [
+      { "hinshi": "【名詞・形容詞】後部・後方（の）", "note": "front（前）の反対。the rear of the building（建物の後部）。" },
+      { "hinshi": "【動詞】（子・動物を）育てる", "note": "rear children（子どもを育てる）。raise に近いかたい語。" }
+    ],
+    "usages": [
+      { "title": "① 「後部・後方の」として", "desc": "front の反対で、後ろ側を表します。", "example_en": "Please use the rear door of the bus.", "example_ja": "バスの後ろのドアをお使いください。" },
+      { "title": "② 「育てる」として", "desc": "子どもや家畜を育てる意味です。", "example_en": "They reared three children on a farm.", "example_ja": "彼らは農場で3人の子どもを育てた。" }
+    ],
+    "warn": [
+      "『後部の』の反対は front（前部の）。a rear-view mirror は『バックミラー』。",
+      "『育てる』の意味は raise / bring up に近いが、rear はややかたい語。rear↔rare（珍しい）と混同しない。"
+    ],
+    "etym_note": "『後ろ』の rear は古フランス語 rere（後方。ラテン語 retro「後ろへ」から）に、『育てる』の rear は古英語 rǣran（立たせる・育てる。raise と同根）に由来します。",
+    "etym_chain": [
+      { "node": "retro / rǣran", "sub": "後ろへ／育てる", "era": "ラテン語・古英語" },
+      { "node": "rere", "sub": "後方・育てる", "era": "中英語" },
+      { "node": "rear", "sub": "後部・育てる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "at the rear", "ja": "後部に・後方に" },
+      { "en": "the rear door", "ja": "後ろのドア" },
+      { "en": "a rear-view mirror", "ja": "バックミラー" },
+      { "en": "rear children", "ja": "子どもを育てる" },
+      { "en": "bring up the rear", "ja": "最後尾につく" },
+      { "en": "rear its head", "ja": "（問題が）頭をもたげる" }
+    ],
+    "related": [
+      { "en": "front", "ja": "前部（反対語）" },
+      { "en": "back", "ja": "後ろ" },
+      { "en": "raise", "ja": "育てる・上げる" },
+      { "en": "bring up", "ja": "育てる" }
+    ],
+    "faq": [
+      { "q": "rear の二つの意味は？", "a": "①『後部・後方（の）』（front の反対）と、②『（子・動物を）育てる』（raise に近い）です。語源も別系統です。" },
+      { "q": "a rear-view mirror とは？", "a": "車の『バックミラー（後方確認用の鏡）』のことです。" }
+    ],
+    "quiz": [
+      { "q": "Please use the ___ door of the bus.（後ろのドア）", "A": "rear", "B": "rare", "C": "real", "D": "rear の誤形", "correct": "A" },
+      { "q": "rear の反対語（前部）はどれ？", "A": "front", "B": "side", "C": "top", "D": "edge", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recession",
+    "pron": "rɪˈseʃən",
+    "kana": "リセッション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 recessio（後退）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "経済"],
+    "meaning_main": "景気後退・不況",
+    "description": "recession の意味・発音・例文・語源を解説。経済の「景気後退」を表す語で、depression（恐慌）との違いも分かりやすく紹介します。",
+    "keywords": ["recession 意味", "recession 発音", "recession depression 違い", "recession 不況"],
+    "meanings": [
+      { "hinshi": "【名詞】景気後退・不況", "note": "経済活動が一時的に縮小する時期。in a recession（不況の中で）。" }
+    ],
+    "usages": [
+      { "title": "① 「景気後退・不況」として", "desc": "経済が縮小する時期を表します。", "example_en": "Many people lost their jobs during the recession.", "example_ja": "不況の間に多くの人が職を失った。" },
+      { "title": "② 経済の話題で", "desc": "景気の動きを語るときに使います。", "example_en": "The country is heading into a recession.", "example_ja": "その国は不況に向かいつつある。" }
+    ],
+    "warn": [
+      "recession は『（一時的な）景気後退・不況』、depression は『（深刻で長期の）恐慌』。",
+      "動詞 recede は『後退する・退く』。recession はその名詞。"
+    ],
+    "etym_note": "ラテン語 recessio（後退。recedere「re-（後ろへ）＋ cedere（行く）」＝退く）に由来します。proceed・succeed と同じ ced-（行く）の語根で、「（経済が）後退すること」が原義です。",
+    "etym_chain": [
+      { "node": "recedere", "sub": "退く・後退する", "era": "ラテン語" },
+      { "node": "recession", "sub": "後退", "era": "近代英語" },
+      { "node": "recession", "sub": "景気後退・不況", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "in a recession", "ja": "不況の中で" },
+      { "en": "during the recession", "ja": "不況の間" },
+      { "en": "an economic recession", "ja": "経済不況" },
+      { "en": "head into a recession", "ja": "不況に向かう" },
+      { "en": "come out of recession", "ja": "不況から脱する" },
+      { "en": "a global recession", "ja": "世界的不況" }
+    ],
+    "related": [
+      { "en": "depression", "ja": "恐慌・不景気" },
+      { "en": "recede", "ja": "後退する" },
+      { "en": "economy", "ja": "経済" },
+      { "en": "boom", "ja": "好景気（反対語）" }
+    ],
+    "faq": [
+      { "q": "recession と depression の違いは？", "a": "recession は『（一時的・比較的軽い）景気後退』、depression は『（深刻で長期にわたる）恐慌』です。" },
+      { "q": "recession の反対は？", "a": "好景気を表す boom（好況）です。a recession ↔ a boom のように対比します。" }
+    ],
+    "quiz": [
+      { "q": "Many people lost their jobs during the ___.（不況）", "A": "recession", "B": "reception", "C": "recreation", "D": "reservation", "correct": "A" },
+      { "q": "recession の動詞形（後退する）はどれ？", "A": "recede", "B": "recess の語感違い", "C": "receive", "D": "recall", "correct": "A" }
+    ]
+  },
+  {
+    "english": "refine",
+    "pron": "rɪˈfaɪn",
+    "kana": "リファイン",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（強意）＋ fine（純粋な）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "精製する・洗練する・磨きをかける",
+    "description": "refine の意味・発音・例文・語源を解説。石油などを「精製する」と、技術・文章を「洗練する」の両方の使い方を分かりやすく紹介します。",
+    "keywords": ["refine 意味", "refine 発音", "refined 意味", "refine 精製 洗練"],
+    "meanings": [
+      { "hinshi": "【動詞】精製する", "note": "不純物を取り除く。refine oil（石油を精製する）。" },
+      { "hinshi": "【動詞】洗練する・磨きをかける", "note": "refine a technique（技術に磨きをかける）。" }
+    ],
+    "usages": [
+      { "title": "① 「精製する」として", "desc": "原料から不純物を取り除く意味です。", "example_en": "Crude oil is refined into gasoline.", "example_ja": "原油は精製されてガソリンになる。" },
+      { "title": "② 「洗練する」として", "desc": "技術・計画・文章を磨く意味です。", "example_en": "We need to refine our plan further.", "example_ja": "私たちは計画にさらに磨きをかける必要がある。" }
+    ],
+    "warn": [
+      "形容詞 refined は『精製された』『洗練された・上品な』。a refined manner（上品な態度）。",
+      "名詞は refinement（洗練・精製）。"
+    ],
+    "etym_note": "fine（純粋な・上質な）に re-（強意）がついた語で、「より純粋・上質にする＝精製・洗練する」が原義です。fine と同じ語源です。",
+    "etym_chain": [
+      { "node": "finus", "sub": "純粋な・上質な", "era": "ラテン語" },
+      { "node": "fine + re-", "sub": "より純粋にする", "era": "近代英語" },
+      { "node": "refine", "sub": "精製する・洗練する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "refine oil", "ja": "石油を精製する" },
+      { "en": "refine a technique", "ja": "技術に磨きをかける" },
+      { "en": "refine a plan", "ja": "計画を練り直す" },
+      { "en": "refined sugar", "ja": "精製糖" },
+      { "en": "a refined taste", "ja": "洗練された趣味" },
+      { "en": "further refine", "ja": "さらに洗練する" }
+    ],
+    "related": [
+      { "en": "refined", "ja": "洗練された・精製された" },
+      { "en": "refinement", "ja": "洗練・精製（名詞）" },
+      { "en": "improve", "ja": "改善する" },
+      { "en": "purify", "ja": "純化する" }
+    ],
+    "faq": [
+      { "q": "refine の二つの使い方は？", "a": "①原料を『精製する』（refine oil）と、②技術・計画・趣味を『洗練する・磨く』（refine a skill）です。" },
+      { "q": "refined の意味は？", "a": "『精製された』のほか『洗練された・上品な』という意味があります。a refined lady（上品な女性）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "Crude oil is ___ into gasoline.（精製される）", "A": "refined", "B": "reformed", "C": "removed", "D": "reduced", "correct": "A" },
+      { "q": "refine の名詞形はどれ？", "A": "refinement", "B": "refination", "C": "refineness", "D": "refiny", "correct": "A" }
+    ]
+  },
+  {
+    "english": "remedy",
+    "pron": "ˈremədi",
+    "kana": "レメディ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "ラテン語 remedium（治療・回復手段）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本語"],
+    "meaning_main": "治療法・解決策／改善する・是正する",
+    "description": "remedy の意味・発音・例文・語源を解説。病気の「治療法」と問題の「解決策」の両方の意味や、a home remedy（民間療法）も分かりやすく紹介します。",
+    "keywords": ["remedy 意味", "remedy 発音", "home remedy 意味", "remedy 治療法 解決策"],
+    "meanings": [
+      { "hinshi": "【名詞】治療法・薬", "note": "病気を治す手段。a remedy for a cold（風邪の治療法）。" },
+      { "hinshi": "【名詞】解決策・改善策", "note": "問題を直す方法。" },
+      { "hinshi": "【動詞】改善する・是正する", "note": "remedy a problem（問題を是正する）。" }
+    ],
+    "usages": [
+      { "title": "① 「治療法・薬」として", "desc": "病気や不調を治す手段を表します。", "example_en": "Honey is a natural remedy for a sore throat.", "example_ja": "はちみつはのどの痛みの自然な治療法だ。" },
+      { "title": "② 「解決策・是正する」として", "desc": "問題を直す方法・行為を表します。", "example_en": "There is no easy remedy for this situation.", "example_ja": "この状況に簡単な解決策はない。" }
+    ],
+    "warn": [
+      "a home remedy は『民間療法・家庭でできる治療』。a remedy for＋名詞（〜の治療法・解決策）。",
+      "形容詞 remedial は『治療の・補習の』。"
+    ],
+    "etym_note": "ラテン語 remedium（治療・回復手段。re-「再び」＋ mederi「治す」）に由来します。medicine・medical と同じ med-（治す）の語根です。",
+    "etym_chain": [
+      { "node": "remedium", "sub": "治療・回復手段", "era": "ラテン語" },
+      { "node": "remedie", "sub": "治療法", "era": "古フランス語" },
+      { "node": "remedy", "sub": "治療法・解決策", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a remedy for", "ja": "〜の治療法・解決策" },
+      { "en": "a home remedy", "ja": "民間療法" },
+      { "en": "a natural remedy", "ja": "自然療法" },
+      { "en": "a quick remedy", "ja": "手早い解決策" },
+      { "en": "remedy the situation", "ja": "事態を是正する" },
+      { "en": "beyond remedy", "ja": "手の施しようがない" }
+    ],
+    "related": [
+      { "en": "cure", "ja": "治療（法）" },
+      { "en": "treatment", "ja": "治療" },
+      { "en": "solution", "ja": "解決策" },
+      { "en": "medicine", "ja": "薬" }
+    ],
+    "faq": [
+      { "q": "remedy の二つの意味は？", "a": "①病気の『治療法・薬』と、②問題の『解決策』、さらに動詞で『是正する』です。" },
+      { "q": "a home remedy とは？", "a": "『民間療法・家庭でできる治療法』のことです。はちみつやしょうがなど身近なものを使う治療を指します。" }
+    ],
+    "quiz": [
+      { "q": "Honey is a natural ___ for a sore throat.（治療法）", "A": "remedy", "B": "remark", "C": "remind", "D": "remove", "correct": "A" },
+      { "q": "「民間療法」を表すのはどれ？", "A": "a home remedy", "B": "a home reward", "C": "a home record", "D": "a home result", "correct": "A" }
+    ]
+  },
+  {
+    "english": "repay",
+    "pron": "rɪˈpeɪ",
+    "kana": "リペイ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ pay（払う）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "基本動詞"],
+    "meaning_main": "返済する・恩に報いる",
+    "description": "repay の意味・発音・例文・語源を解説。お金の「返済する」と、親切に「報いる」の両方の使い方や、活用 repay-repaid も分かりやすく紹介します。",
+    "keywords": ["repay 意味", "repay 発音", "repaid 活用", "repay 返済 報いる"],
+    "meanings": [
+      { "hinshi": "【動詞】（借金を）返済する", "note": "repay a loan（ローンを返済する）。" },
+      { "hinshi": "【動詞】（恩・親切に）報いる", "note": "repay kindness（親切に報いる）。" }
+    ],
+    "usages": [
+      { "title": "① 「返済する」として", "desc": "借りたお金を返す意味です。", "example_en": "I will repay the money next month.", "example_ja": "来月そのお金を返します。" },
+      { "title": "② 「恩に報いる」として", "desc": "受けた親切や恩に報いる意味です。", "example_en": "How can I ever repay your kindness?", "example_ja": "あなたの親切にどうやって報いればいいでしょう。" }
+    ],
+    "warn": [
+      "活用は repay – repaid – repaid（pay と同じく不規則）。",
+      "名詞は repayment（返済）。repay A for B（BのことでAに報いる）。"
+    ],
+    "etym_note": "接頭辞 re-（再び・戻して）と pay（払う）を組み合わせた語で、「払い戻す＝返済する」が原義です。pay と同じ語源です。",
+    "etym_chain": [
+      { "node": "pay", "sub": "払う", "era": "古フランス語系" },
+      { "node": "re- + pay", "sub": "払い戻す", "era": "中英語" },
+      { "node": "repay", "sub": "返済する・報いる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "repay a loan", "ja": "ローンを返済する" },
+      { "en": "repay a debt", "ja": "借金を返す" },
+      { "en": "repay kindness", "ja": "親切に報いる" },
+      { "en": "repay A for B", "ja": "BのことでAに報いる" },
+      { "en": "repay with interest", "ja": "利子をつけて返す" },
+      { "en": "hard to repay", "ja": "返しきれない" }
+    ],
+    "related": [
+      { "en": "repayment", "ja": "返済（名詞）" },
+      { "en": "pay back", "ja": "返済する・仕返しする" },
+      { "en": "refund", "ja": "払い戻す" },
+      { "en": "owe", "ja": "借りている" }
+    ],
+    "faq": [
+      { "q": "repay の活用は？", "a": "repay – repaid – repaid と不規則変化します。pay – paid – paid と同じパターンです。" },
+      { "q": "repay の名詞形は？", "a": "repayment（返済）です。loan repayment（ローンの返済）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "I will ___ the money next month.（返済する）", "A": "repay", "B": "refund の払い戻しの語感", "C": "remove", "D": "remind", "correct": "A" },
+      { "q": "repay の過去形はどれ？", "A": "repayed", "B": "repaid", "C": "repay", "D": "repained", "correct": "B" }
+    ]
+  },
+  {
+    "english": "resident",
+    "pron": "ˈrezɪdənt",
+    "kana": "レジデント",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞・形容詞",
+    "ld_etym": "ラテン語 residere（とどまる・住む）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "社会"],
+    "meaning_main": "居住者・住民／居住する",
+    "description": "resident の意味・発音・例文・語源を解説。「住民・居住者」の使い方や、動詞 reside、名詞 residence（住居）も分かりやすく紹介します。",
+    "keywords": ["resident 意味", "resident 発音", "residence 違い", "reside 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】居住者・住民", "note": "local residents（地元住民）。" },
+      { "hinshi": "【形容詞】居住している・住み込みの", "note": "a resident doctor（住み込みの医師）。" }
+    ],
+    "usages": [
+      { "title": "① 「住民・居住者」として", "desc": "ある地域に住む人を表します。", "example_en": "Local residents complained about the noise.", "example_ja": "地元住民は騒音について苦情を言った。" },
+      { "title": "② 「居住している」として", "desc": "住んでいる状態を表します。", "example_en": "She is a resident of New York.", "example_ja": "彼女はニューヨークの住民だ。" }
+    ],
+    "warn": [
+      "resident（住民＝人）と residence（住居・邸宅＝場所）を区別する。動詞は reside（居住する）。",
+      "形容詞 residential は『住宅の』。a residential area（住宅地）。"
+    ],
+    "etym_note": "ラテン語 residere（re-「後ろに」＋ sedere「座る」＝とどまる・住む）に由来します。sit・preside と同じ sed-（座る）の語根で、「ある場所に座り続ける＝住む人」が原義です。",
+    "etym_chain": [
+      { "node": "residere", "sub": "とどまる・住む", "era": "ラテン語" },
+      { "node": "resident", "sub": "居住する", "era": "中英語" },
+      { "node": "resident", "sub": "居住者・住民", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "local residents", "ja": "地元住民" },
+      { "en": "a permanent resident", "ja": "永住者" },
+      { "en": "a resident of", "ja": "〜の住民" },
+      { "en": "residents' association", "ja": "住民組合・自治会" },
+      { "en": "a resident doctor", "ja": "住み込み医師・研修医" },
+      { "en": "long-term residents", "ja": "長期居住者" }
+    ],
+    "related": [
+      { "en": "residence", "ja": "住居・邸宅" },
+      { "en": "reside", "ja": "居住する" },
+      { "en": "residential", "ja": "住宅の" },
+      { "en": "citizen", "ja": "市民" }
+    ],
+    "faq": [
+      { "q": "resident と residence の違いは？", "a": "resident は『住民・居住者（人）』、residence は『住居・邸宅（場所）』です。" },
+      { "q": "a permanent resident とは？", "a": "『永住者（永住権を持つ人）』のことです。" }
+    ],
+    "quiz": [
+      { "q": "Local ___ complained about the noise.（住民）", "A": "residents", "B": "residences", "C": "residents の場所誤用", "D": "presidents", "correct": "A" },
+      { "q": "「住居・邸宅（場所）」を表すのはどれ？", "A": "residence", "B": "resident", "C": "residential", "D": "reside", "correct": "A" }
+    ]
+  },
+  {
+    "english": "revenue",
+    "pron": "ˈrevənuː",
+    "kana": "レベニュー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 revenue（戻ってくるもの・収入）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "経済"],
+    "meaning_main": "収入・歳入・収益",
+    "description": "revenue の意味・発音・例文・語源を解説。企業の「収益」や国の「歳入」を表す語で、profit（利益）との違いも分かりやすく紹介します。",
+    "keywords": ["revenue 意味", "revenue 発音", "revenue profit 違い", "revenue 収益"],
+    "meanings": [
+      { "hinshi": "【名詞】収入・収益（企業の）", "note": "売上などから得る総収入。annual revenue（年間収益）。" },
+      { "hinshi": "【名詞】歳入（国・自治体の）", "note": "tax revenue（税収）。" }
+    ],
+    "usages": [
+      { "title": "① 企業の「収益」として", "desc": "売上から得る総収入を表します。", "example_en": "The company's revenue increased last year.", "example_ja": "その会社の収益は昨年増加した。" },
+      { "title": "② 国の「歳入」として", "desc": "税収など国の収入を表します。", "example_en": "Tax revenue funds public services.", "example_ja": "税収が公共サービスをまかなっている。" }
+    ],
+    "warn": [
+      "revenue は『（経費を引く前の）総収入・収益』、profit は『（経費を引いた）利益』。区別する。",
+      "the Internal Revenue Service（IRS）はアメリカの『国税庁』。"
+    ],
+    "etym_note": "古フランス語 revenue（revenir「戻ってくる」の過去分詞＝戻ってくるもの）に由来します。「（投資などから）戻ってくるお金＝収入」が原義です。return と同じ語源です。",
+    "etym_chain": [
+      { "node": "revenir", "sub": "戻ってくる", "era": "古フランス語" },
+      { "node": "revenue", "sub": "戻ってくるもの・収入", "era": "中英語" },
+      { "node": "revenue", "sub": "収入・収益", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "annual revenue", "ja": "年間収益" },
+      { "en": "tax revenue", "ja": "税収" },
+      { "en": "advertising revenue", "ja": "広告収入" },
+      { "en": "generate revenue", "ja": "収益を生み出す" },
+      { "en": "total revenue", "ja": "総収入" },
+      { "en": "a source of revenue", "ja": "収入源" }
+    ],
+    "related": [
+      { "en": "profit", "ja": "利益" },
+      { "en": "income", "ja": "所得・収入" },
+      { "en": "earnings", "ja": "収益・所得" },
+      { "en": "sales", "ja": "売上" }
+    ],
+    "faq": [
+      { "q": "revenue と profit の違いは？", "a": "revenue は『（経費を引く前の）総収入・収益』、profit は『（経費を引いたあとの）利益』です。" },
+      { "q": "tax revenue とは？", "a": "『税収（税金による国・自治体の収入）』のことです。" }
+    ],
+    "quiz": [
+      { "q": "The company's ___ increased last year.（収益）", "A": "revenue", "B": "review", "C": "reverse", "D": "revenge", "correct": "A" },
+      { "q": "「経費を引いたあとの利益」を表すのはどれ？", "A": "revenue", "B": "profit", "C": "sales", "D": "income", "correct": "B" }
+    ]
+  },
+  {
+    "english": "ritual",
+    "pron": "ˈrɪtʃuəl",
+    "kana": "リチュアル",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞・形容詞",
+    "ld_etym": "ラテン語 ritualis（儀式の）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "文化"],
+    "meaning_main": "儀式・（決まった）習慣／儀式の",
+    "description": "ritual の意味・発音・例文・語源を解説。宗教の「儀式」や、毎日の決まった「習慣」の使い方を分かりやすく紹介します。",
+    "keywords": ["ritual 意味", "ritual 発音", "ritual 儀式 習慣", "ritual 使い方"],
+    "meanings": [
+      { "hinshi": "【名詞】儀式・典礼", "note": "宗教や伝統の決まった作法。a religious ritual（宗教儀式）。" },
+      { "hinshi": "【名詞】（決まった）習慣・きまり", "note": "a morning ritual（朝の決まった習慣）。" }
+    ],
+    "usages": [
+      { "title": "① 「儀式」として", "desc": "宗教や伝統の決まった行事を表します。", "example_en": "The ceremony followed an ancient ritual.", "example_ja": "その式典は古来の儀式にのっとって行われた。" },
+      { "title": "② 「決まった習慣」として", "desc": "毎回同じように行う習慣を表します。", "example_en": "Drinking coffee is part of my morning ritual.", "example_ja": "コーヒーを飲むのは私の朝の決まった習慣の一部だ。" }
+    ],
+    "warn": [
+      "ritual は『（宗教的・形式的な）儀式』、また『（個人の）決まりきった習慣』。",
+      "rite（儀式）は ritual と同語源だが、rite はより短い一回の儀礼を指す。"
+    ],
+    "etym_note": "ラテン語 ritualis（儀式の。ritus「儀礼・慣習」から）に由来します。rite（儀式）と同じ語源です。",
+    "etym_chain": [
+      { "node": "ritus", "sub": "儀礼・慣習", "era": "ラテン語" },
+      { "node": "ritualis", "sub": "儀式の", "era": "ラテン語" },
+      { "node": "ritual", "sub": "儀式・習慣", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a religious ritual", "ja": "宗教儀式" },
+      { "en": "a morning ritual", "ja": "朝の決まった習慣" },
+      { "en": "perform a ritual", "ja": "儀式を行う" },
+      { "en": "a daily ritual", "ja": "毎日の決まった習慣" },
+      { "en": "a ritual dance", "ja": "儀式の踊り" },
+      { "en": "an ancient ritual", "ja": "古来の儀式" }
+    ],
+    "related": [
+      { "en": "ceremony", "ja": "式典・儀式" },
+      { "en": "rite", "ja": "儀式・儀礼" },
+      { "en": "custom", "ja": "慣習" },
+      { "en": "tradition", "ja": "伝統" }
+    ],
+    "faq": [
+      { "q": "ritual と ceremony の違いは？", "a": "ritual は『決まった作法・所作（くり返される）』、ceremony は『（特別な機会の）式典・儀式』を指すことが多いです。" },
+      { "q": "ritual は宗教だけ？", "a": "いいえ。宗教儀式のほか、毎日くり返す『決まった習慣（a morning ritual など）』にも使います。" }
+    ],
+    "quiz": [
+      { "q": "The ceremony followed an ancient ___.（儀式）", "A": "ritual", "B": "rival", "C": "rhythm", "D": "routine", "correct": "A" },
+      { "q": "「朝の決まった習慣」を表すのはどれ？", "A": "a morning ritual", "B": "a morning rival", "C": "a morning rhythm のみ", "D": "a morning riot", "correct": "A" }
+    ]
+  }
+]

@@ -1,0 +1,529 @@
+[
+  {
+    "english": "reckless",
+    "pron": "ˈrekləs",
+    "kana": "レックレス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "古英語 receleas（注意を欠いた）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "形容詞"],
+    "meaning_main": "無謀な・向こう見ずな・無責任な",
+    "description": "reckless の意味・発音・例文・語源を解説。reckless driving（無謀運転）の使い方や、careful（注意深い）との対比も分かりやすく紹介します。",
+    "keywords": ["reckless 意味", "reckless 発音", "reckless driving 意味", "reckless careful 反対"],
+    "meanings": [
+      { "hinshi": "【形容詞】無謀な・向こう見ずな", "note": "結果を考えず危険なことをする。reckless driving（無謀運転）。" }
+    ],
+    "usages": [
+      { "title": "① 「無謀な・向こう見ずな」として", "desc": "危険を顧みない行動を表します。", "example_en": "He was fined for reckless driving.", "example_ja": "彼は無謀運転で罰金を科された。" },
+      { "title": "② 「無責任な」として", "desc": "結果を考えない態度を表します。", "example_en": "It was reckless of her to spend all her money.", "example_ja": "全財産を使うとは彼女も無謀だった。" }
+    ],
+    "warn": [
+      "反対は careful（注意深い）/ cautious（慎重な）。副詞は recklessly（無謀に）。",
+      "-less は『〜がない』の接尾辞。reck（古語『気にかける』）＋ less＝『注意がない』。"
+    ],
+    "etym_note": "古英語 receleas（recan「気にかける」＋ -leas「〜がない」＝注意を欠いた）に由来します。今は使われない動詞 reck（気にかける）に否定の -less がついた語です。",
+    "etym_chain": [
+      { "node": "receleas", "sub": "注意を欠いた", "era": "古英語" },
+      { "node": "reckless", "sub": "無謀な", "era": "中英語" },
+      { "node": "reckless", "sub": "無謀な・向こう見ずな", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reckless driving", "ja": "無謀運転" },
+      { "en": "reckless behavior", "ja": "無謀な行動" },
+      { "en": "reckless spending", "ja": "無計画な浪費" },
+      { "en": "a reckless decision", "ja": "向こう見ずな決断" },
+      { "en": "reckless with money", "ja": "金づかいが荒い" },
+      { "en": "reckless disregard", "ja": "無謀な無視・軽視" }
+    ],
+    "related": [
+      { "en": "careless", "ja": "不注意な" },
+      { "en": "careful", "ja": "注意深い（反対語）" },
+      { "en": "cautious", "ja": "慎重な" },
+      { "en": "rash", "ja": "軽率な" }
+    ],
+    "faq": [
+      { "q": "reckless と careless の違いは？", "a": "careless は『不注意な・うっかりした』、reckless は『（危険を顧みず）無謀な』で、より強く危険な行動を表します。" },
+      { "q": "reckless の反対語は？", "a": "careful（注意深い）や cautious（慎重な）です。" }
+    ],
+    "quiz": [
+      { "q": "He was fined for ___ driving.（無謀運転）", "A": "reckless", "B": "careful", "C": "recent", "D": "regular", "correct": "A" },
+      { "q": "reckless の反対語はどれ？", "A": "careful", "B": "careless", "C": "rash", "D": "wild", "correct": "A" }
+    ]
+  },
+  {
+    "english": "referee",
+    "pron": "ˌrefəˈriː",
+    "kana": "レフェリー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "refer（ゆだねる）＋ -ee",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "スポーツ"],
+    "meaning_main": "審判・レフェリー",
+    "description": "referee の意味・発音・例文・語源を解説。スポーツの「審判」を表す語で、umpire との違いや、refer（任せる）との関係も分かりやすく紹介します。",
+    "keywords": ["referee 意味", "referee 発音", "referee umpire 違い", "referee 審判"],
+    "meanings": [
+      { "hinshi": "【名詞】審判・レフェリー", "note": "サッカー・ボクシングなどの試合を裁く人。" },
+      { "hinshi": "【名詞】（英）推薦者・身元保証人", "note": "就職などで推薦してくれる人。" }
+    ],
+    "usages": [
+      { "title": "① スポーツの「審判」として", "desc": "試合のルールを管理し判定する人です。", "example_en": "The referee blew the whistle.", "example_ja": "審判はホイッスルを鳴らした。" },
+      { "title": "② 「推薦者」（英）として", "desc": "就職などで推薦・保証する人を表します。", "example_en": "Please give the names of two referees.", "example_ja": "推薦者2名の名前を挙げてください。" }
+    ],
+    "warn": [
+      "競技により審判の呼び方が違う：サッカー・ラグビー・ボクシングは referee、野球・テニス・クリケットは umpire。",
+      "略して ref とも言う。refer（任せる）＋ -ee（〜される人）が語源。"
+    ],
+    "etym_note": "refer（ゆだねる・任せる）に -ee（〜される人・する人）がついた語で、「（判定を）任される人＝審判」が原義です。refer と同じ語源です。",
+    "etym_chain": [
+      { "node": "referre", "sub": "ゆだねる", "era": "ラテン語" },
+      { "node": "refer + ee", "sub": "判定を任される人", "era": "近代英語" },
+      { "node": "referee", "sub": "審判", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a soccer referee", "ja": "サッカーの審判" },
+      { "en": "the referee blows the whistle", "ja": "審判が笛を吹く" },
+      { "en": "a fair referee", "ja": "公正な審判" },
+      { "en": "act as referee", "ja": "審判を務める" },
+      { "en": "argue with the referee", "ja": "審判に抗議する" },
+      { "en": "a video referee", "ja": "ビデオ審判" }
+    ],
+    "related": [
+      { "en": "umpire", "ja": "審判（野球・テニス）" },
+      { "en": "judge", "ja": "審査員・裁判官" },
+      { "en": "official", "ja": "審判員・役員" },
+      { "en": "refer", "ja": "ゆだねる・任せる" }
+    ],
+    "faq": [
+      { "q": "referee と umpire の違いは？", "a": "競技で使い分けます。サッカー・ラグビー・ボクシングなどは referee、野球・テニス・クリケットなどは umpire です。" },
+      { "q": "referee の語源は？", "a": "refer（任せる）＋ -ee（される人）で、『（判定を）任される人＝審判』が原義です。" }
+    ],
+    "quiz": [
+      { "q": "The ___ blew the whistle.（審判）", "A": "referee", "B": "reference", "C": "refugee", "D": "referral", "correct": "A" },
+      { "q": "野球・テニスの審判を表すのはどれ？", "A": "referee", "B": "umpire", "C": "refugee", "D": "manager", "correct": "B" }
+    ]
+  },
+  {
+    "english": "refrain",
+    "pron": "rɪˈfreɪn",
+    "kana": "リフレイン",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "ラテン語 refrenare（手綱で抑える）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "（〜を）控える・差し控える／（歌の）繰り返し・リフレイン",
+    "description": "refrain の意味・発音・例文・語源を解説。refrain from doing（〜を控える）の使い方や、歌の「リフレイン（繰り返し）」の意味も紹介します。",
+    "keywords": ["refrain 意味", "refrain 発音", "refrain from 使い方", "refrain リフレイン"],
+    "meanings": [
+      { "hinshi": "【動詞】（〜を）控える・差し控える", "note": "refrain from doing（〜するのを控える）。フォーマル。" },
+      { "hinshi": "【名詞】（歌の）繰り返し・リフレイン", "note": "曲のサビ・くり返し部分。" }
+    ],
+    "usages": [
+      { "title": "① refrain from doing として", "desc": "「〜するのを控える」を表すかたい表現です。", "example_en": "Please refrain from smoking here.", "example_ja": "ここでの喫煙はお控えください。" },
+      { "title": "② 名詞「リフレイン」として", "desc": "歌のくり返し部分を表します。", "example_en": "Everyone sang the refrain together.", "example_ja": "みんなでサビを一緒に歌った。" }
+    ],
+    "warn": [
+      "「〜を控える」は refrain from＋動名詞。掲示・案内でよく使うフォーマルな語。",
+      "動詞 refrain（控える）と名詞 refrain（歌のくり返し）は同じつづりだが別系統。"
+    ],
+    "etym_note": "動詞は古フランス語 refrener（ラテン語 refrenare「re-（後ろへ）＋ frenum（手綱）」＝手綱で抑える）に由来します。「（馬を手綱で）抑える＝控える」が原義です。",
+    "etym_chain": [
+      { "node": "refrenare", "sub": "手綱で抑える", "era": "ラテン語" },
+      { "node": "refrener", "sub": "抑える", "era": "古フランス語" },
+      { "node": "refrain", "sub": "控える", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "refrain from", "ja": "〜を控える" },
+      { "en": "refrain from smoking", "ja": "喫煙を控える" },
+      { "en": "refrain from comment", "ja": "コメントを差し控える" },
+      { "en": "kindly refrain from", "ja": "〜はご遠慮ください" },
+      { "en": "sing the refrain", "ja": "リフレインを歌う" },
+      { "en": "a familiar refrain", "ja": "おなじみのくり返し文句" }
+    ],
+    "related": [
+      { "en": "abstain", "ja": "差し控える" },
+      { "en": "avoid", "ja": "避ける" },
+      { "en": "resist", "ja": "我慢する" },
+      { "en": "chorus", "ja": "（歌の）サビ・合唱部" }
+    ],
+    "faq": [
+      { "q": "refrain from の使い方は？", "a": "『〜するのを控える』という意味で、あとに動名詞を続けます。refrain from talking（話すのを控える）のように使います。" },
+      { "q": "歌の『リフレイン』も refrain？", "a": "はい。歌でくり返される部分（サビなど）を名詞 refrain と言います。" }
+    ],
+    "quiz": [
+      { "q": "Please ___ from smoking here.（喫煙を控えて）", "A": "refrain", "B": "remain", "C": "refer", "D": "reflect", "correct": "A" },
+      { "q": "refrain のあとに続く正しい形は？", "A": "refrain from smoking", "B": "refrain to smoke", "C": "refrain smoke", "D": "refrain for smoke", "correct": "A" }
+    ]
+  },
+  {
+    "english": "regulate",
+    "pron": "ˈreɡjəleɪt",
+    "kana": "レギュレイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 regula（定規・規則）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "規制する・調整する・管理する",
+    "description": "regulate の意味・発音・例文・語源を解説。法律による「規制」や、温度などを「調整する」使い方、名詞 regulation も分かりやすく紹介します。",
+    "keywords": ["regulate 意味", "regulate 発音", "regulation 意味", "regulate 規制 調整"],
+    "meanings": [
+      { "hinshi": "【動詞】規制する・統制する", "note": "規則で管理する。regulate trade（貿易を規制する）。" },
+      { "hinshi": "【動詞】（機械・体温などを）調整する", "note": "regulate body temperature（体温を調節する）。" }
+    ],
+    "usages": [
+      { "title": "① 「規制する」として", "desc": "法律や規則で管理する意味です。", "example_en": "The government regulates the sale of medicine.", "example_ja": "政府は薬の販売を規制している。" },
+      { "title": "② 「調整する」として", "desc": "温度・速度などを一定に保つ意味です。", "example_en": "The body regulates its own temperature.", "example_ja": "体は自ら体温を調節する。" }
+    ],
+    "warn": [
+      "名詞は regulation（規制・規則）。複数形 regulations は『規則・規定』。",
+      "regular（規則的な）・rule（規則）と同じ regula（定規）の語源。"
+    ],
+    "etym_note": "ラテン語 regula（定規・規則）から派生した regulare（規則に従わせる）に由来します。regular・rule と同じ語源で、「規則どおりに整える＝規制・調整する」が原義です。",
+    "etym_chain": [
+      { "node": "regula", "sub": "定規・規則", "era": "ラテン語" },
+      { "node": "regulare", "sub": "規則に従わせる", "era": "後期ラテン語" },
+      { "node": "regulate", "sub": "規制する・調整する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "regulate trade", "ja": "貿易を規制する" },
+      { "en": "regulate the market", "ja": "市場を規制する" },
+      { "en": "regulate temperature", "ja": "温度を調節する" },
+      { "en": "strictly regulate", "ja": "厳しく規制する" },
+      { "en": "self-regulate", "ja": "自己調整する" },
+      { "en": "rules and regulations", "ja": "規則・規定" }
+    ],
+    "related": [
+      { "en": "regulation", "ja": "規制・規則（名詞）" },
+      { "en": "control", "ja": "管理する" },
+      { "en": "adjust", "ja": "調整する" },
+      { "en": "manage", "ja": "管理する" }
+    ],
+    "faq": [
+      { "q": "regulate の二つの使い方は？", "a": "①法律・規則で『規制する』（regulate an industry）と、②機械・体温などを『調整する』（regulate the flow）です。" },
+      { "q": "regulate の名詞形は？", "a": "regulation（規制・規則）です。safety regulations（安全規則）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The government ___ the sale of medicine.（規制する）", "A": "regulates", "B": "regards", "C": "rejects", "D": "removes", "correct": "A" },
+      { "q": "regulate の名詞形はどれ？", "A": "regulation", "B": "regulatement", "C": "regulance", "D": "regulity", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rehearse",
+    "pron": "rɪˈhɜːrs",
+    "kana": "リハース",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古フランス語 rehercier（くり返す）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "リハーサルをする・予行演習する",
+    "description": "rehearse の意味・発音・例文・語源を解説。劇や演奏の「リハーサルをする」使い方や、名詞 rehearsal も分かりやすく紹介します。",
+    "keywords": ["rehearse 意味", "rehearse 発音", "rehearsal 意味", "rehearse リハーサル"],
+    "meanings": [
+      { "hinshi": "【動詞】リハーサルをする・けいこする", "note": "本番に備えてくり返し練習する。rehearse a play（劇のけいこをする）。" }
+    ],
+    "usages": [
+      { "title": "① 「リハーサルをする」として", "desc": "本番前にくり返し練習する意味です。", "example_en": "The actors rehearsed the scene many times.", "example_ja": "俳優たちはその場面を何度もけいこした。" },
+      { "title": "② 名詞 rehearsal として", "desc": "予行演習・けいこを表します。", "example_en": "The final rehearsal went well.", "example_ja": "最終リハーサルはうまくいった。" }
+    ],
+    "warn": [
+      "名詞は rehearsal（リハーサル・けいこ）。a dress rehearsal は『本番同様の通しげいこ（衣装つき）』。",
+      "発音は /rɪˈhɜːrs/「リハース」。"
+    ],
+    "etym_note": "古フランス語 rehercier（re-「再び」＋ hercier「（まぐわで）くり返しかく」）に由来します。「何度もくり返す＝けいこする」が原義です。",
+    "etym_chain": [
+      { "node": "rehercier", "sub": "くり返す", "era": "古フランス語" },
+      { "node": "rehersen", "sub": "くり返す・練習する", "era": "中英語" },
+      { "node": "rehearse", "sub": "リハーサルをする", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rehearse a play", "ja": "劇のけいこをする" },
+      { "en": "rehearse a speech", "ja": "スピーチを練習する" },
+      { "en": "a dress rehearsal", "ja": "本番同様の通しげいこ" },
+      { "en": "the final rehearsal", "ja": "最終リハーサル" },
+      { "en": "rehearse for a concert", "ja": "コンサートのけいこをする" },
+      { "en": "well-rehearsed", "ja": "よく練習された" }
+    ],
+    "related": [
+      { "en": "rehearsal", "ja": "リハーサル（名詞）" },
+      { "en": "practice", "ja": "練習する" },
+      { "en": "prepare", "ja": "準備する" },
+      { "en": "perform", "ja": "上演する" }
+    ],
+    "faq": [
+      { "q": "rehearse の名詞形は？", "a": "rehearsal（リハーサル・けいこ）です。a final rehearsal（最終リハーサル）のように使います。" },
+      { "q": "a dress rehearsal とは？", "a": "衣装をつけて本番同様に行う『通しげいこ』のことです。" }
+    ],
+    "quiz": [
+      { "q": "The actors ___ the scene many times.（けいこした）", "A": "rehearsed", "B": "reversed", "C": "released", "D": "reserved", "correct": "A" },
+      { "q": "rehearse の名詞形はどれ？", "A": "rehearsal", "B": "rehearsement", "C": "rehearsion", "D": "rehearsance", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reptile",
+    "pron": "ˈreptaɪl",
+    "kana": "レプタイル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 reptilis（はうもの）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "理科"],
+    "meaning_main": "は虫類",
+    "description": "reptile の意味・発音・例文・語源を解説。ヘビ・トカゲなどの「は虫類」を表す理科の語で、語源の「はうもの」も分かりやすく紹介します。",
+    "keywords": ["reptile 意味", "reptile 発音", "reptile は虫類", "reptile 語源"],
+    "meanings": [
+      { "hinshi": "【名詞】は虫類", "note": "ヘビ・トカゲ・カメ・ワニなど。うろこを持ち変温の動物。" }
+    ],
+    "usages": [
+      { "title": "① 「は虫類」として", "desc": "ヘビやトカゲなどの動物を表す理科の語です。", "example_en": "Snakes and lizards are reptiles.", "example_ja": "ヘビやトカゲはは虫類だ。" },
+      { "title": "② 分類の話題で", "desc": "動物の分類を語るときに使います。", "example_en": "Reptiles are cold-blooded animals.", "example_ja": "は虫類は変温動物だ。" }
+    ],
+    "warn": [
+      "は虫類は cold-blooded（変温・冷血）。両生類（amphibian）と混同しない。",
+      "形容詞は reptilian（は虫類の）。"
+    ],
+    "etym_note": "ラテン語 reptilis（はうもの。repere「はう」から）に由来します。「地をはう動物」が原義で、は虫類の特徴を表しています。",
+    "etym_chain": [
+      { "node": "repere", "sub": "はう", "era": "ラテン語" },
+      { "node": "reptilis", "sub": "はうもの", "era": "ラテン語" },
+      { "node": "reptile", "sub": "は虫類", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a cold-blooded reptile", "ja": "変温のは虫類" },
+      { "en": "reptiles and amphibians", "ja": "は虫類と両生類" },
+      { "en": "a reptile house", "ja": "（動物園の）は虫類館" },
+      { "en": "study reptiles", "ja": "は虫類を研究する" },
+      { "en": "scaly reptiles", "ja": "うろこのあるは虫類" },
+      { "en": "ancient reptiles", "ja": "古代のは虫類（恐竜など）" }
+    ],
+    "related": [
+      { "en": "snake", "ja": "ヘビ" },
+      { "en": "lizard", "ja": "トカゲ" },
+      { "en": "amphibian", "ja": "両生類" },
+      { "en": "mammal", "ja": "ほ乳類" }
+    ],
+    "faq": [
+      { "q": "は虫類にはどんな動物がいる？", "a": "ヘビ・トカゲ・カメ・ワニなどです。うろこを持ち、変温（cold-blooded）であるのが特徴です。" },
+      { "q": "reptile と amphibian の違いは？", "a": "reptile（は虫類）はうろこを持ち陸上で卵を産み、amphibian（両生類、カエルなど）は水辺で生活し皮膚で呼吸もします。" }
+    ],
+    "quiz": [
+      { "q": "Snakes and lizards are ___.（は虫類）", "A": "reptiles", "B": "mammals", "C": "insects", "D": "birds", "correct": "A" },
+      { "q": "reptile の語源（ラテン語 repere）の意味は？", "A": "泳ぐ", "B": "はう", "C": "飛ぶ", "D": "走る", "correct": "B" }
+    ]
+  },
+  {
+    "english": "reservoir",
+    "pron": "ˈrezərvwɑːr",
+    "kana": "レザボワール",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 réservoir（蓄える所）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "もの"],
+    "meaning_main": "貯水池・貯蔵庫／（豊富な）蓄え",
+    "description": "reservoir の意味・発音・例文・語源を解説。水をためる「貯水池」の使い方や、フランス語由来の難しいつづり・発音も分かりやすく紹介します。",
+    "keywords": ["reservoir 意味", "reservoir 発音", "reservoir つづり", "reservoir 貯水池"],
+    "meanings": [
+      { "hinshi": "【名詞】貯水池・貯水槽", "note": "水をためておく人工の池やタンク。" },
+      { "hinshi": "【名詞】（豊富な）蓄え・宝庫", "note": "a reservoir of knowledge（知識の宝庫）。" }
+    ],
+    "usages": [
+      { "title": "① 「貯水池」として", "desc": "飲み水や農業用水をためる場所です。", "example_en": "The city gets its water from a large reservoir.", "example_ja": "その都市は大きな貯水池から水を得ている。" },
+      { "title": "② 比喩「蓄え・宝庫」として", "desc": "豊富にたくわえられたものを表します。", "example_en": "She has a vast reservoir of knowledge.", "example_ja": "彼女は膨大な知識の蓄えを持っている。" }
+    ],
+    "warn": [
+      "つづり・発音が難しい：reservoir /ˈrezərvwɑːr/「レザボワール」。語尾はフランス語風。",
+      "reserve（蓄える・予約する）と同じ語源。"
+    ],
+    "etym_note": "フランス語 réservoir（réserver「蓄える」から）に由来します。reserve（蓄える）と同じ語源で、「蓄えておく所＝貯水池」が原義です。",
+    "etym_chain": [
+      { "node": "reservare", "sub": "取っておく", "era": "ラテン語" },
+      { "node": "réservoir", "sub": "蓄える所", "era": "フランス語" },
+      { "node": "reservoir", "sub": "貯水池・蓄え", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a water reservoir", "ja": "貯水池" },
+      { "en": "a large reservoir", "ja": "大きな貯水池" },
+      { "en": "a reservoir of knowledge", "ja": "知識の宝庫" },
+      { "en": "a reservoir of talent", "ja": "人材の宝庫" },
+      { "en": "fill the reservoir", "ja": "貯水池を満たす" },
+      { "en": "an underground reservoir", "ja": "地下貯水槽" }
+    ],
+    "related": [
+      { "en": "reserve", "ja": "蓄える・予約する" },
+      { "en": "dam", "ja": "ダム" },
+      { "en": "tank", "ja": "タンク・水槽" },
+      { "en": "supply", "ja": "供給・蓄え" }
+    ],
+    "faq": [
+      { "q": "reservoir のつづり・発音のコツは？", "a": "/ˈrezərvwɑːr/「レザボワール」で、語尾 -voir はフランス語風です。reserve（蓄える）の仲間だと覚えると忘れにくいです。" },
+      { "q": "reservoir の比喩的な意味は？", "a": "『（豊富な）蓄え・宝庫』です。a reservoir of energy（エネルギーの蓄え）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The city gets its water from a large ___.（貯水池）", "A": "reservoir", "B": "reservation", "C": "reserve", "D": "resort", "correct": "A" },
+      { "q": "reservoir と同じ語源の語はどれ？", "A": "reserve", "B": "reverse", "C": "review", "D": "revenge", "correct": "A" }
+    ]
+  },
+  {
+    "english": "restrain",
+    "pron": "rɪˈstreɪn",
+    "kana": "リストレイン",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 restringere（しばりつける）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "抑える・制止する・自制する",
+    "description": "restrain の意味・発音・例文・語源を解説。restrain oneself（自制する）の使い方や、名詞 restraint、restrict との違いも分かりやすく紹介します。",
+    "keywords": ["restrain 意味", "restrain 発音", "restrain oneself 使い方", "restraint 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】抑える・制止する", "note": "力ずくで動きを止める。restrain a dog（犬を押さえる）。" },
+      { "hinshi": "【動詞】（感情を）抑える・自制する", "note": "restrain oneself（自分を抑える）。" }
+    ],
+    "usages": [
+      { "title": "① 「抑える・制止する」として", "desc": "人や動物の動きを止める意味です。", "example_en": "The guards had to restrain the angry crowd.", "example_ja": "警備員は怒った群衆を抑えなければならなかった。" },
+      { "title": "② restrain oneself（自制する）として", "desc": "感情や衝動を抑える意味です。", "example_en": "She could not restrain her anger.", "example_ja": "彼女は怒りを抑えられなかった。" }
+    ],
+    "warn": [
+      "restrain は『（動き・感情を）抑える・制止する』、restrict は『（範囲・量を）制限する』。意味が異なる。",
+      "名詞は restraint（抑制・自制）。show restraint は『自制する』。"
+    ],
+    "etym_note": "ラテン語 restringere（re-「強意」＋ stringere「ぴんと張る・しばる」＝しばりつける）に由来します。restrict・strict と同じ str-（張る・しばる）の語根です。",
+    "etym_chain": [
+      { "node": "restringere", "sub": "しばりつける", "era": "ラテン語" },
+      { "node": "restreindre", "sub": "抑える", "era": "古フランス語" },
+      { "node": "restrain", "sub": "抑える・制止する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "restrain oneself", "ja": "自制する" },
+      { "en": "restrain anger", "ja": "怒りを抑える" },
+      { "en": "physically restrain", "ja": "力ずくで押さえる" },
+      { "en": "unable to restrain", "ja": "抑えきれない" },
+      { "en": "show restraint", "ja": "自制する" },
+      { "en": "restrain a laugh", "ja": "笑いをこらえる" }
+    ],
+    "related": [
+      { "en": "restraint", "ja": "抑制・自制（名詞）" },
+      { "en": "restrict", "ja": "制限する" },
+      { "en": "hold back", "ja": "抑える" },
+      { "en": "control", "ja": "抑制する" }
+    ],
+    "faq": [
+      { "q": "restrain と restrict の違いは？", "a": "restrain は『（動き・感情を）抑える・制止する』、restrict は『（範囲・量・自由を）制限する』です。" },
+      { "q": "restrain の名詞形は？", "a": "restraint（抑制・自制・拘束）です。show restraint（自制する）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "She could not ___ her anger.（怒りを抑えられなかった）", "A": "restrain", "B": "restrict", "C": "remain", "D": "retain", "correct": "A" },
+      { "q": "restrain の名詞形はどれ？", "A": "restraint", "B": "restrainment", "C": "restrainance", "D": "restrainion", "correct": "A" }
+    ]
+  },
+  {
+    "english": "revive",
+    "pron": "rɪˈvaɪv",
+    "kana": "リバイブ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 revivere（再び生きる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "生き返らせる・復活させる・回復する",
+    "description": "revive の意味・発音・例文・語源を解説。意識や経済・流行を「復活させる」使い方や、名詞 revival も分かりやすく紹介します。",
+    "keywords": ["revive 意味", "revive 発音", "revival 意味", "revive 復活"],
+    "meanings": [
+      { "hinshi": "【動詞】生き返らせる・意識を回復させる", "note": "revive a patient（患者を蘇生させる）。" },
+      { "hinshi": "【動詞】復活させる・再び盛んにする", "note": "revive an old custom（古い習慣を復活させる）。" }
+    ],
+    "usages": [
+      { "title": "① 「生き返らせる・蘇生する」として", "desc": "意識や元気を取り戻させる意味です。", "example_en": "The doctors managed to revive him.", "example_ja": "医師たちは彼を蘇生させることができた。" },
+      { "title": "② 「復活させる」として", "desc": "経済・流行・習慣などを再び盛んにする意味です。", "example_en": "The town is trying to revive its economy.", "example_ja": "その町は経済を立て直そうとしている。" }
+    ],
+    "warn": [
+      "名詞は revival（復活・再生・リバイバル）。a revival of interest は『関心の再燃』。",
+      "vive（生きる）に re-（再び）がついた語。survive・vivid と同じ語源。"
+    ],
+    "etym_note": "ラテン語 revivere（re-「再び」＋ vivere「生きる」＝再び生きる）に由来します。survive・vivid・vital と同じ viv-（生きる）の語根です。",
+    "etym_chain": [
+      { "node": "revivere", "sub": "再び生きる", "era": "ラテン語" },
+      { "node": "reviven", "sub": "生き返る", "era": "中英語" },
+      { "node": "revive", "sub": "生き返らせる・復活させる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "revive a patient", "ja": "患者を蘇生させる" },
+      { "en": "revive the economy", "ja": "経済を立て直す" },
+      { "en": "revive a tradition", "ja": "伝統を復活させる" },
+      { "en": "revive interest in", "ja": "〜への関心を再燃させる" },
+      { "en": "a revival of", "ja": "〜の復活・再生" },
+      { "en": "revive memories", "ja": "記憶をよみがえらせる" }
+    ],
+    "related": [
+      { "en": "revival", "ja": "復活・再生（名詞）" },
+      { "en": "restore", "ja": "回復させる" },
+      { "en": "renew", "ja": "新たにする" },
+      { "en": "survive", "ja": "生き延びる" }
+    ],
+    "faq": [
+      { "q": "revive の二つの使い方は？", "a": "①人を『生き返らせる・蘇生する』と、②経済・流行・習慣を『復活させる・再び盛んにする』です。" },
+      { "q": "revive の名詞形は？", "a": "revival（復活・再生・リバイバル）です。an economic revival（経済の再生）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The doctors managed to ___ him.（蘇生させた）", "A": "revive", "B": "review", "C": "reverse", "D": "reveal", "correct": "A" },
+      { "q": "revive の名詞形はどれ？", "A": "revival", "B": "revivement", "C": "revivation", "D": "reviveness", "correct": "A" }
+    ]
+  },
+  {
+    "english": "resume",
+    "pron": "動:rɪˈzuːm 名:ˈrezəmeɪ",
+    "kana": "動:リズーム 名:レジュメイ",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "ラテン語 resumere（再び取り上げる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "多義語"],
+    "meaning_main": "再開する／（米）履歴書",
+    "description": "resume の意味・発音・例文・語源を解説。「（中断後に）再開する」という動詞と、アメリカ英語の「履歴書（résumé）」という名詞の使い分けを紹介します。",
+    "keywords": ["resume 意味", "resume 発音", "resume 再開 履歴書", "résumé 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再開する・再び始める", "note": "中断したものを続ける。resume work（仕事を再開する）。" },
+      { "hinshi": "【名詞】(résumé) 履歴書（米）", "note": "発音は『レジュメイ』。英では CV。" }
+    ],
+    "usages": [
+      { "title": "① 動詞「再開する」として", "desc": "中断したことを再び始める意味です。", "example_en": "They resumed the meeting after lunch.", "example_ja": "彼らは昼食後に会議を再開した。" },
+      { "title": "② 名詞「履歴書」として", "desc": "アメリカ英語で職務経歴書を表します。", "example_en": "Please send your resume by email.", "example_ja": "履歴書をメールで送ってください。" }
+    ],
+    "warn": [
+      "動詞 resume /rɪˈzuːm/「再開する」と、名詞 résumé /ˈrezəmeɪ/「履歴書」は発音もアクセントも違う。",
+      "『履歴書』は米で resume / résumé、英では CV（curriculum vitae）。"
+    ],
+    "etym_note": "ラテン語 resumere（re-「再び」＋ sumere「取る」＝再び取り上げる）に由来します。「中断したものを再び取り上げる＝再開する」が原義です。名詞の『要約・履歴書』もここから来ています。",
+    "etym_chain": [
+      { "node": "resumere", "sub": "再び取り上げる", "era": "ラテン語" },
+      { "node": "resumer", "sub": "再開する・要約する", "era": "フランス語" },
+      { "node": "resume", "sub": "再開する・履歴書", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "resume work", "ja": "仕事を再開する" },
+      { "en": "resume normal service", "ja": "通常営業を再開する" },
+      { "en": "resume talks", "ja": "協議を再開する" },
+      { "en": "send a resume", "ja": "履歴書を送る" },
+      { "en": "update your resume", "ja": "履歴書を更新する" },
+      { "en": "resume one's seat", "ja": "席に戻る" }
+    ],
+    "related": [
+      { "en": "restart", "ja": "再開する" },
+      { "en": "continue", "ja": "続ける" },
+      { "en": "CV", "ja": "履歴書（英）" },
+      { "en": "pause", "ja": "中断する（反対概念）" }
+    ],
+    "faq": [
+      { "q": "resume の動詞と名詞の違いは？", "a": "動詞 /rɪˈzuːm/ は『（中断後に）再開する』、名詞 résumé /ˈrezəmeɪ/ は『履歴書（米）』です。発音も意味も違います。" },
+      { "q": "『履歴書』は英米で言い方が違う？", "a": "はい。アメリカでは resume / résumé、イギリスでは CV（curriculum vitae）を使います。" }
+    ],
+    "quiz": [
+      { "q": "They ___ the meeting after lunch.（再開した）", "A": "resumed", "B": "reserved", "C": "removed", "D": "reduced", "correct": "A" },
+      { "q": "アメリカ英語で『履歴書』を表すのはどれ？", "A": "resume", "B": "CV のみ", "C": "review", "D": "report", "correct": "A" }
+    ]
+  }
+]
