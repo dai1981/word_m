@@ -1,0 +1,531 @@
+[
+  {
+    "english": "ribbon",
+    "pron": "ˈrɪbən",
+    "kana": "リボン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "中英語 riban（細い帯）",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "もの"],
+    "meaning_main": "リボン・細長い帯",
+    "description": "ribbon（リボン）の意味・発音・例文・語源を解説。装飾のリボンや賞のリボン（blue ribbon＝最優秀）の使い方も分かりやすく紹介します。",
+    "keywords": ["ribbon 意味", "ribbon 発音", "blue ribbon 意味", "ribbon リボン"],
+    "meanings": [
+      { "hinshi": "【名詞】リボン・細長い帯", "note": "飾りや包装に使う細い布。tie a ribbon（リボンを結ぶ）。" },
+      { "hinshi": "【名詞】（賞などの）リボン・章", "note": "a blue ribbon（青いリボン＝最優秀の印）。" }
+    ],
+    "usages": [
+      { "title": "① 装飾の「リボン」として", "desc": "髪や贈り物を飾る細い布です。", "example_en": "She tied her hair with a red ribbon.", "example_ja": "彼女は赤いリボンで髪を結んだ。" },
+      { "title": "② 賞・記念のリボンとして", "desc": "blue ribbon（最優秀）などで使います。", "example_en": "He won the blue ribbon at the contest.", "example_ja": "彼はコンテストで最優秀賞を取った。" }
+    ],
+    "warn": [
+      "a blue ribbon は『最優秀（賞）』の意味の決まった表現。",
+      "cut the ribbon は『（開店・開通の）テープカットをする』。"
+    ],
+    "etym_note": "中英語 riban / ribane（細い帯）に由来し、古フランス語 ruban を経た語と考えられています。装飾用の細い布が原義です。",
+    "etym_chain": [
+      { "node": "riban", "sub": "細い帯", "era": "中英語" },
+      { "node": "ribbon", "sub": "リボン", "era": "近代英語" },
+      { "node": "ribbon", "sub": "リボン・帯", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "tie a ribbon", "ja": "リボンを結ぶ" },
+      { "en": "a blue ribbon", "ja": "最優秀賞" },
+      { "en": "cut the ribbon", "ja": "テープカットをする" },
+      { "en": "a hair ribbon", "ja": "髪のリボン" },
+      { "en": "a yellow ribbon", "ja": "黄色いリボン（支援の象徴）" },
+      { "en": "wrap with a ribbon", "ja": "リボンで包む" }
+    ],
+    "related": [
+      { "en": "bow", "ja": "ちょう結び" },
+      { "en": "string", "ja": "ひも" },
+      { "en": "tape", "ja": "テープ" },
+      { "en": "decoration", "ja": "飾り" }
+    ],
+    "faq": [
+      { "q": "a blue ribbon とは？", "a": "『最優秀（賞）』を表します。コンテストなどで1位に与えられる青いリボンに由来します。" },
+      { "q": "cut the ribbon とは？", "a": "開店・開通式などで行う『テープカット（リボンを切る式）』のことです。" }
+    ],
+    "quiz": [
+      { "q": "She tied her hair with a red ___.（赤いリボン）", "A": "ribbon", "B": "rubber", "C": "robin", "D": "ribbon の誤形 riban", "correct": "A" },
+      { "q": "「最優秀賞」を表すのはどれ？", "A": "a blue ribbon", "B": "a blue river", "C": "a blue robe", "D": "a blue ruler", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ripe",
+    "pron": "raɪp",
+    "kana": "ライプ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "古英語 rīpe（熟した）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "形容詞"],
+    "meaning_main": "（果物などが）熟した・食べごろの・機が熟した",
+    "description": "ripe の意味・発音・例文・語源を解説。green（未熟な）との対比や、動詞 ripen（熟す）、the time is ripe（機が熟した）も分かりやすく紹介します。",
+    "keywords": ["ripe 意味", "ripe 発音", "ripen 意味", "ripe 熟した"],
+    "meanings": [
+      { "hinshi": "【形容詞】（果物・作物が）熟した", "note": "a ripe banana（熟したバナナ）。食べごろ。" },
+      { "hinshi": "【形容詞】（時が）熟した・適した", "note": "The time is ripe.（機が熟した）。" }
+    ],
+    "usages": [
+      { "title": "① 「熟した・食べごろの」として", "desc": "果物などが十分に実った状態を表します。", "example_en": "These tomatoes are perfectly ripe.", "example_ja": "このトマトはちょうど食べごろだ。" },
+      { "title": "② 「機が熟した」として", "desc": "条件やタイミングが整った意味です。", "example_en": "The time is ripe for change.", "example_ja": "変化のための機が熟した。" }
+    ],
+    "warn": [
+      "反対は『未熟な』で green や unripe。動詞は ripen（熟す・熟させる）。",
+      "the time is ripe for〜は『〜の機が熟している』という決まった表現。"
+    ],
+    "etym_note": "古英語 rīpe（熟した）に由来する古いゲルマン系の語です。reap（収穫する）とも関係し、「収穫できる状態＝熟した」が原義です。",
+    "etym_chain": [
+      { "node": "rīpe", "sub": "熟した", "era": "古英語" },
+      { "node": "ripe", "sub": "熟した", "era": "中英語" },
+      { "node": "ripe", "sub": "熟した・食べごろの", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a ripe banana", "ja": "熟したバナナ" },
+      { "en": "perfectly ripe", "ja": "ちょうど食べごろ" },
+      { "en": "the time is ripe", "ja": "機が熟した" },
+      { "en": "ripe for change", "ja": "変化の機が熟した" },
+      { "en": "a ripe old age", "ja": "高齢・長寿" },
+      { "en": "ripen in the sun", "ja": "日光で熟す" }
+    ],
+    "related": [
+      { "en": "ripen", "ja": "熟す・熟させる" },
+      { "en": "unripe", "ja": "未熟な（反対語）" },
+      { "en": "mature", "ja": "成熟した" },
+      { "en": "fresh", "ja": "新鮮な" }
+    ],
+    "faq": [
+      { "q": "ripe の反対語は？", "a": "unripe や green（未熟な）です。green bananas（青い＝未熟なバナナ）のように使います。" },
+      { "q": "the time is ripe とは？", "a": "『機が熟した・ちょうどよい時期だ』という意味の表現です。the time is ripe for〜（〜の機が熟した）の形で使います。" }
+    ],
+    "quiz": [
+      { "q": "These tomatoes are perfectly ___.（食べごろ）", "A": "ripe", "B": "rude", "C": "rare", "D": "rich", "correct": "A" },
+      { "q": "ripe の動詞形（熟す）はどれ？", "A": "ripen", "B": "riping", "C": "ripify", "D": "ripate", "correct": "A" }
+    ]
+  },
+  {
+    "english": "roast",
+    "pron": "roʊst",
+    "kana": "ロウスト",
+    "hinshi": "動詞 / 形容詞 / 名詞",
+    "ld_pos": "動詞・形容詞・名詞",
+    "ld_etym": "古フランス語 rostir（焼く）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "料理"],
+    "meaning_main": "（オーブンや直火で）焼く・あぶる／ローストの",
+    "description": "roast の意味・発音・例文・語源を解説。bake・grill との焼き方の違いや、roast beef（ローストビーフ）などの表現も分かりやすく紹介します。",
+    "keywords": ["roast 意味", "roast 発音", "roast bake 違い", "roast beef 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（オーブン・直火で）焼く・あぶる", "note": "肉やコーヒー豆などをじっくり焼く。" },
+      { "hinshi": "【形容詞】ローストした", "note": "roast chicken（ローストチキン）。" },
+      { "hinshi": "【名詞】焼いた肉料理", "note": "a Sunday roast（日曜の焼き肉料理）。" }
+    ],
+    "usages": [
+      { "title": "① 「（肉などを）焼く」として", "desc": "オーブンや直火でじっくり焼く意味です。", "example_en": "We roasted a chicken for dinner.", "example_ja": "私たちは夕食にチキンを焼いた。" },
+      { "title": "② 形容詞「ローストした」として", "desc": "roast beef など料理名で使います。", "example_en": "I love roast beef with gravy.", "example_ja": "私はグレービーソースのローストビーフが大好きだ。" }
+    ],
+    "warn": [
+      "roast は『（オーブン・直火で）肉などをじっくり焼く』、bake は『（パン・ケーキを）オーブンで焼く』、grill は『網焼きする』。",
+      "コーヒー豆を『焙煎する』も roast。a dark roast（深煎り）。"
+    ],
+    "etym_note": "古フランス語 rostir（焼く）に由来します。ゲルマン語起源とされ、火であぶることが原義です。英語に入って料理の基本動詞となりました。",
+    "etym_chain": [
+      { "node": "rostir", "sub": "焼く", "era": "古フランス語" },
+      { "node": "rosten", "sub": "焼く", "era": "中英語" },
+      { "node": "roast", "sub": "焼く・あぶる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "roast beef", "ja": "ローストビーフ" },
+      { "en": "roast chicken", "ja": "ローストチキン" },
+      { "en": "roast coffee beans", "ja": "コーヒー豆を焙煎する" },
+      { "en": "a Sunday roast", "ja": "日曜の焼き肉料理" },
+      { "en": "roast potatoes", "ja": "ローストポテト" },
+      { "en": "a dark roast", "ja": "深煎り（コーヒー）" }
+    ],
+    "related": [
+      { "en": "bake", "ja": "（オーブンで）焼く" },
+      { "en": "grill", "ja": "網焼きする" },
+      { "en": "fry", "ja": "油で焼く・揚げる" },
+      { "en": "oven", "ja": "オーブン" }
+    ],
+    "faq": [
+      { "q": "roast と bake の違いは？", "a": "roast はおもに肉や野菜を『（オーブン・直火で）じっくり焼く』、bake はパンやケーキを『オーブンで焼く』ときに使います。" },
+      { "q": "コーヒーの『ロースト』も roast？", "a": "はい。コーヒー豆を『焙煎する』ことも roast と言います。a light/dark roast（浅煎り/深煎り）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "We ___ a chicken for dinner.（チキンを焼いた）", "A": "roasted", "B": "baked の語感違い", "C": "ruined", "D": "rolled", "correct": "A" },
+      { "q": "肉をオーブンや直火でじっくり焼くのはどれ？", "A": "roast", "B": "boil", "C": "steam", "D": "freeze", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rob",
+    "pron": "rɑːb",
+    "kana": "ロブ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古フランス語 rober（奪う）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "基本動詞"],
+    "meaning_main": "（人・場所から）奪う・強奪する",
+    "description": "rob の意味・発音・例文・語源を解説。rob A of B（AからBを奪う）の語法や、steal との違い、名詞 robber・robbery も分かりやすく紹介します。",
+    "keywords": ["rob 意味", "rob 発音", "rob steal 違い", "rob of 使い方"],
+    "meanings": [
+      { "hinshi": "【動詞】（人・場所から）奪う・強盗する", "note": "rob a bank（銀行を襲う）。人・場所を目的語にとる。" },
+      { "hinshi": "【動詞】rob A of B（AからBを奪う）", "note": "The accident robbed him of his sight.（事故が彼の視力を奪った）。" }
+    ],
+    "usages": [
+      { "title": "① 「（場所・人を）襲って奪う」として", "desc": "rob は『人・場所』を目的語にとります。", "example_en": "Two men robbed the bank yesterday.", "example_ja": "2人組が昨日その銀行を襲った。" },
+      { "title": "② rob A of B（AからBを奪う）として", "desc": "「人からものを奪う」を表す重要な形です。", "example_en": "They robbed her of her bag.", "example_ja": "彼らは彼女からかばんを奪った。" }
+    ],
+    "warn": [
+      "rob は『人・場所』を目的語にとる（rob a person / a bank）。steal は『物』を目的語にとる（steal money）。",
+      "活用は語尾の b を重ねる：rob – robbed – robbed。名詞は robber（強盗）/ robbery（強盗事件）。"
+    ],
+    "etym_note": "古フランス語 rober（奪う・略奪する）に由来し、ゲルマン語起源とされます。reave（奪う）とも関係する語です。",
+    "etym_chain": [
+      { "node": "rober", "sub": "奪う", "era": "古フランス語" },
+      { "node": "robben", "sub": "強奪する", "era": "中英語" },
+      { "node": "rob", "sub": "奪う・強盗する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rob a bank", "ja": "銀行を襲う" },
+      { "en": "rob A of B", "ja": "AからBを奪う" },
+      { "en": "be robbed", "ja": "強盗にあう" },
+      { "en": "rob someone blind", "ja": "（人から）根こそぎ奪う" },
+      { "en": "armed robbery", "ja": "武装強盗" },
+      { "en": "a bank robber", "ja": "銀行強盗（犯人）" }
+    ],
+    "related": [
+      { "en": "steal", "ja": "盗む" },
+      { "en": "robber", "ja": "強盗（犯人）" },
+      { "en": "robbery", "ja": "強盗（行為）" },
+      { "en": "thief", "ja": "泥棒" }
+    ],
+    "faq": [
+      { "q": "rob と steal の違いは？", "a": "rob は『人・場所』を目的語にとり『襲って奪う』（rob a bank）、steal は『物』を目的語にとり『盗む』（steal money）です。" },
+      { "q": "rob A of B とは？", "a": "『AからBを奪う』という意味です。The thief robbed him of his wallet.（泥棒は彼から財布を奪った）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "Two men ___ the bank yesterday.（銀行を襲った）", "A": "robbed", "B": "stole", "C": "ruined", "D": "raided の語感違い", "correct": "A" },
+      { "q": "rob の目的語にできるのはどれ？", "A": "rob money", "B": "rob a bank", "C": "rob a watch", "D": "rob a car（盗む意味では steal）", "correct": "B" }
+    ]
+  },
+  {
+    "english": "rotate",
+    "pron": "ˈroʊteɪt",
+    "kana": "ロウテイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 rotare（回す）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "理科"],
+    "meaning_main": "回転する・回す・交替する",
+    "description": "rotate の意味・発音・例文・語源を解説。地球の「自転」や、当番などの「交替」の使い方、名詞 rotation も分かりやすく紹介します。",
+    "keywords": ["rotate 意味", "rotate 発音", "rotation 意味", "rotate 自転 交替"],
+    "meanings": [
+      { "hinshi": "【動詞】回転する・回す", "note": "軸を中心にくるくる回る。The earth rotates.（地球は自転する）。" },
+      { "hinshi": "【動詞】交替する・順番に行う", "note": "rotate jobs（仕事を交替で行う）。" }
+    ],
+    "usages": [
+      { "title": "① 「回転する・回す」として", "desc": "軸を中心に回る理科でも使う語です。", "example_en": "The earth rotates on its axis once a day.", "example_ja": "地球は1日に1回、地軸を中心に自転する。" },
+      { "title": "② 「交替する」として", "desc": "当番や作物などを順番に入れ替える意味です。", "example_en": "The nurses rotate between day and night shifts.", "example_ja": "看護師は日勤と夜勤を交替で務める。" }
+    ],
+    "warn": [
+      "rotate（自転＝自分が回る）と revolve（公転＝周りを回る）を理科では区別することがある。",
+      "名詞は rotation（回転・自転・交替）。crop rotation は『輪作』。"
+    ],
+    "etym_note": "ラテン語 rotare（回す。rota「車輪」から）に由来します。round・route と同じ rota（車輪）の語根で、「車輪のように回る」が原義です。",
+    "etym_chain": [
+      { "node": "rota", "sub": "車輪", "era": "ラテン語" },
+      { "node": "rotare", "sub": "回す", "era": "ラテン語" },
+      { "node": "rotate", "sub": "回転する・交替する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rotate on an axis", "ja": "軸を中心に回転する" },
+      { "en": "rotate the tires", "ja": "タイヤを（位置）交換する" },
+      { "en": "rotate jobs", "ja": "仕事を交替で行う" },
+      { "en": "crop rotation", "ja": "輪作" },
+      { "en": "rotate clockwise", "ja": "時計回りに回す" },
+      { "en": "in rotation", "ja": "順番に・交替で" }
+    ],
+    "related": [
+      { "en": "rotation", "ja": "回転・交替（名詞）" },
+      { "en": "revolve", "ja": "公転する・回る" },
+      { "en": "spin", "ja": "回転する" },
+      { "en": "turn", "ja": "回す" }
+    ],
+    "faq": [
+      { "q": "rotate と revolve の違いは？", "a": "理科では rotate を『自転（自分の軸で回る）』、revolve を『公転（他の天体の周りを回る）』と区別することがあります。" },
+      { "q": "rotate の名詞形は？", "a": "rotation（回転・自転・交替）です。the rotation of the earth（地球の自転）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The earth ___ on its axis once a day.（自転する）", "A": "rotates", "B": "relates", "C": "reverses", "D": "restores", "correct": "A" },
+      { "q": "rotate の名詞形はどれ？", "A": "rotatement", "B": "rotation", "C": "rotateness", "D": "rotion", "correct": "B" }
+    ]
+  },
+  {
+    "english": "routine",
+    "pron": "ruːˈtiːn",
+    "kana": "ルーティーン",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞・形容詞",
+    "ld_etym": "フランス語 routine（決まった道筋）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "多義語"],
+    "meaning_main": "決まった手順・日課／いつもの・型どおりの",
+    "description": "routine の意味・発音・例文・語源を解説。発音は『ルーティーン』で後ろにアクセント。daily routine（日課）などの表現も分かりやすく紹介します。",
+    "keywords": ["routine 意味", "routine 発音", "daily routine 意味", "routine 日課"],
+    "meanings": [
+      { "hinshi": "【名詞】決まった手順・日課", "note": "毎日のいつもの流れ。a daily routine（日課）。" },
+      { "hinshi": "【形容詞】いつもの・型どおりの", "note": "a routine check（定期点検）。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「日課・決まった手順」として", "desc": "毎日くり返す決まった流れを表します。", "example_en": "Exercise is part of my daily routine.", "example_ja": "運動は私の日課の一部だ。" },
+      { "title": "② 形容詞「型どおりの」として", "desc": "決まりきった・通常のという意味です。", "example_en": "It was just a routine medical check.", "example_ja": "それはただの定期健康診断だった。" }
+    ],
+    "warn": [
+      "発音は /ruːˈtiːn/「ルーティーン」で後ろにアクセント。route（ルート）と語源は同じ。",
+      "break the routine は『いつもの習慣を破る・気分転換する』。"
+    ],
+    "etym_note": "フランス語 routine（決まった道筋・慣例。route「道」から）に由来します。route と同じ語源で、「いつも通る道＝決まった手順」が原義です。",
+    "etym_chain": [
+      { "node": "route", "sub": "道", "era": "フランス語" },
+      { "node": "routine", "sub": "決まった道筋", "era": "フランス語" },
+      { "node": "routine", "sub": "日課・型どおりの", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a daily routine", "ja": "日課" },
+      { "en": "a morning routine", "ja": "朝の決まった習慣" },
+      { "en": "break the routine", "ja": "いつもの習慣を変える" },
+      { "en": "a routine check", "ja": "定期点検" },
+      { "en": "part of the routine", "ja": "決まった流れの一部" },
+      { "en": "get into a routine", "ja": "習慣・ペースをつかむ" }
+    ],
+    "related": [
+      { "en": "habit", "ja": "習慣" },
+      { "en": "custom", "ja": "慣習" },
+      { "en": "schedule", "ja": "予定・スケジュール" },
+      { "en": "regular", "ja": "規則的な" }
+    ],
+    "faq": [
+      { "q": "routine のアクセントは？", "a": "後ろにあります。/ruːˈtiːn/「ルーティーン」と、teen の部分を強く読みます。" },
+      { "q": "routine と habit の違いは？", "a": "routine は『決まった一連の手順・日課』、habit は『（個々の）くせ・習慣』を指すことが多いです。" }
+    ],
+    "quiz": [
+      { "q": "Exercise is part of my daily ___.（日課）", "A": "routine", "B": "route", "C": "round", "D": "row", "correct": "A" },
+      { "q": "「いつもの習慣を変える」を表すのはどれ？", "A": "break the routine", "B": "break the route", "C": "break the round", "D": "break the row", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rug",
+    "pron": "rʌɡ",
+    "kana": "ラグ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "スカンジナビア語起源（毛むくじゃらの布）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "もの"],
+    "meaning_main": "敷物・ラグ・じゅうたん",
+    "description": "rug の意味・発音・例文・語源を解説。carpet（部屋全体のじゅうたん）との違いや、sweep under the rug（隠す）も分かりやすく紹介します。",
+    "keywords": ["rug 意味", "rug 発音", "rug carpet 違い", "rug 敷物"],
+    "meanings": [
+      { "hinshi": "【名詞】敷物・ラグ", "note": "床の一部に敷く小さめのじゅうたん。a small rug（小さな敷物）。" }
+    ],
+    "usages": [
+      { "title": "① 床の「敷物」として", "desc": "部屋の一部に敷く小さめのじゅうたんです。", "example_en": "There is a soft rug in front of the fireplace.", "example_ja": "暖炉の前に柔らかい敷物がある。" },
+      { "title": "② 慣用表現として", "desc": "sweep under the rug（隠す）などで使います。", "example_en": "They tried to sweep the problem under the rug.", "example_ja": "彼らはその問題を隠そうとした。" }
+    ],
+    "warn": [
+      "rug は『（床の一部に敷く）小さめの敷物』、carpet は『（床全体をおおう）じゅうたん』。",
+      "sweep / brush under the rug は『（都合の悪いことを）隠す・もみ消す』という慣用句。"
+    ],
+    "etym_note": "スカンジナビア語起源とされ、もとは『毛むくじゃらの粗い布』を指しました。のちに床の敷物の意味になりました。rough（粗い）と関係するとも言われます。",
+    "etym_chain": [
+      { "node": "rugga", "sub": "毛むくじゃらの布", "era": "古ノルド語系" },
+      { "node": "rug", "sub": "粗い布・ひざ掛け", "era": "近代英語" },
+      { "node": "rug", "sub": "敷物・ラグ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a soft rug", "ja": "柔らかい敷物" },
+      { "en": "a Persian rug", "ja": "ペルシャじゅうたん" },
+      { "en": "lay a rug", "ja": "敷物を敷く" },
+      { "en": "sweep under the rug", "ja": "（問題を）隠す・もみ消す" },
+      { "en": "a bath rug", "ja": "バスマット" },
+      { "en": "pull the rug out from under", "ja": "急にはしごを外す" }
+    ],
+    "related": [
+      { "en": "carpet", "ja": "じゅうたん" },
+      { "en": "mat", "ja": "マット" },
+      { "en": "floor", "ja": "床" },
+      { "en": "blanket", "ja": "毛布" }
+    ],
+    "faq": [
+      { "q": "rug と carpet の違いは？", "a": "rug は床の一部に敷く『小さめの敷物』、carpet は床全体をおおう『じゅうたん』を指すのが一般的です。" },
+      { "q": "sweep under the rug とは？", "a": "『（都合の悪いことを）隠す・もみ消す』という意味の慣用句です。ごみを敷物の下に掃き隠すイメージです。" }
+    ],
+    "quiz": [
+      { "q": "There is a soft ___ in front of the fireplace.（敷物）", "A": "rug", "B": "rag", "C": "rug の誤形 rugg", "D": "rib", "correct": "A" },
+      { "q": "床全体をおおう『じゅうたん』を表すのはどれ？", "A": "rug", "B": "carpet", "C": "mat", "D": "blanket", "correct": "B" }
+    ]
+  },
+  {
+    "english": "ruler",
+    "pron": "ˈruːlər",
+    "kana": "ルーラー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rule（規則・支配する）＋ -er",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "多義語"],
+    "meaning_main": "定規／支配者・統治者",
+    "description": "ruler の意味・発音・例文・語源を解説。「定規」と「支配者」という二つの意味が rule（規則・支配）から来ていることを分かりやすく紹介します。",
+    "keywords": ["ruler 意味", "ruler 発音", "ruler 定規 支配者", "rule ruler 関係"],
+    "meanings": [
+      { "hinshi": "【名詞】定規・ものさし", "note": "線を引いたり長さを測ったりする道具。" },
+      { "hinshi": "【名詞】支配者・統治者", "note": "国などを治める人。a wise ruler（賢明な統治者）。" }
+    ],
+    "usages": [
+      { "title": "① 道具「定規」として", "desc": "まっすぐな線を引く道具です。", "example_en": "Use a ruler to draw a straight line.", "example_ja": "まっすぐな線を引くには定規を使いなさい。" },
+      { "title": "② 「支配者」として", "desc": "国や民を治める人を表します。", "example_en": "He was a powerful ruler of the empire.", "example_ja": "彼はその帝国の強大な支配者だった。" }
+    ],
+    "warn": [
+      "ruler の二つの意味は rule から：『規則→基準となる定規』『支配する→支配者』。",
+      "『定規』は a ruler、『支配者』も a ruler。文脈で判断する。"
+    ],
+    "etym_note": "rule（ラテン語 regula「定規・規則」由来）に -er がついた語です。「基準・規則を示すもの＝定規」「規則で治める人＝支配者」の両方の意味になりました。",
+    "etym_chain": [
+      { "node": "regula", "sub": "定規・規則", "era": "ラテン語" },
+      { "node": "rule + er", "sub": "規則を示す/治める人", "era": "中英語" },
+      { "node": "ruler", "sub": "定規・支配者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "use a ruler", "ja": "定規を使う" },
+      { "en": "a straight ruler", "ja": "まっすぐな定規" },
+      { "en": "a wise ruler", "ja": "賢明な統治者" },
+      { "en": "a cruel ruler", "ja": "残酷な支配者" },
+      { "en": "the ruler of the country", "ja": "その国の支配者" },
+      { "en": "measure with a ruler", "ja": "定規で測る" }
+    ],
+    "related": [
+      { "en": "rule", "ja": "規則・支配する" },
+      { "en": "king", "ja": "王" },
+      { "en": "leader", "ja": "指導者" },
+      { "en": "measure", "ja": "測る" }
+    ],
+    "faq": [
+      { "q": "ruler の二つの意味の関係は？", "a": "どちらも rule から来ています。『規則・基準を示すもの＝定規』、『規則で治める人＝支配者』です。" },
+      { "q": "『支配者』の他の言い方は？", "a": "leader（指導者）、king/queen（王・女王）、monarch（君主）などがあります。" }
+    ],
+    "quiz": [
+      { "q": "Use a ___ to draw a straight line.（定規を使う）", "A": "ruler", "B": "rubber", "C": "river", "D": "runner", "correct": "A" },
+      { "q": "ruler のもとになっている語はどれ？", "A": "rule", "B": "run", "C": "row", "D": "raw", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rumor",
+    "pron": "ˈruːmər",
+    "kana": "ルーマー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 rumor（うわさ・物音）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "名詞"],
+    "meaning_main": "うわさ・風評",
+    "description": "rumor の意味・発音・例文・語源を解説。spread a rumor（うわさを広める）の使い方や、英米のつづり違い（rumor / rumour）も分かりやすく紹介します。",
+    "keywords": ["rumor 意味", "rumor 発音", "spread a rumor 使い方", "rumour つづり"],
+    "meanings": [
+      { "hinshi": "【名詞】うわさ・風評", "note": "確かでない情報。a false rumor（根も葉もないうわさ）。" }
+    ],
+    "usages": [
+      { "title": "① 「うわさ」として", "desc": "真偽の不確かな情報を表します。", "example_en": "There is a rumor that the store will close.", "example_ja": "その店が閉店するといううわさがある。" },
+      { "title": "② うわさを広める・聞く", "desc": "spread / hear a rumor の形で使います。", "example_en": "Don't spread rumors about other people.", "example_ja": "他人についてうわさを広めてはいけない。" }
+    ],
+    "warn": [
+      "アメリカ式は rumor、イギリス式は rumour。どちらも正しい。",
+      "Rumor has it that ...（うわさによれば〜だ）は定番の言い回し。"
+    ],
+    "etym_note": "ラテン語 rumor（うわさ・遠くの物音・ざわめき）に由来し、古フランス語を経て英語に入りました。「ざわざわと伝わる声」が原義です。",
+    "etym_chain": [
+      { "node": "rumor", "sub": "うわさ・物音", "era": "ラテン語" },
+      { "node": "rumour", "sub": "うわさ", "era": "古フランス語" },
+      { "node": "rumor", "sub": "うわさ・風評", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "spread a rumor", "ja": "うわさを広める" },
+      { "en": "hear a rumor", "ja": "うわさを聞く" },
+      { "en": "a false rumor", "ja": "根も葉もないうわさ" },
+      { "en": "Rumor has it that ...", "ja": "うわさによれば〜だ" },
+      { "en": "start a rumor", "ja": "うわさを流し始める" },
+      { "en": "deny a rumor", "ja": "うわさを否定する" }
+    ],
+    "related": [
+      { "en": "gossip", "ja": "ゴシップ・うわさ話" },
+      { "en": "story", "ja": "話・うわさ" },
+      { "en": "fact", "ja": "事実（対比語）" },
+      { "en": "claim", "ja": "主張" }
+    ],
+    "faq": [
+      { "q": "rumor と rumour はどちらが正しい？", "a": "どちらも正しく、rumor はアメリカ式、rumour はイギリス式のつづりです。" },
+      { "q": "Rumor has it that ... とは？", "a": "『うわさによれば〜だそうだ』という意味の決まった言い回しです。" }
+    ],
+    "quiz": [
+      { "q": "There is a ___ that the store will close.（閉店のうわさ）", "A": "rumor", "B": "humor", "C": "rumble の語感違い", "D": "ruler", "correct": "A" },
+      { "q": "「うわさを広める」を表すのはどれ？", "A": "spread a rumor", "B": "spread a ruler", "C": "spread a rug", "D": "spread a rule", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rust",
+    "pron": "rʌst",
+    "kana": "ラスト",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "古英語 rūst（さび）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "理科"],
+    "meaning_main": "さび／さびる",
+    "description": "rust の意味・発音・例文・語源を解説。鉄がさびる理科の話題や、形容詞 rusty（さびた・腕がなまった）も分かりやすく紹介します。",
+    "keywords": ["rust 意味", "rust 発音", "rusty 意味", "rust さび 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】さび", "note": "鉄が酸化してできる赤茶色の物質。covered in rust（さびだらけ）。" },
+      { "hinshi": "【動詞】さびる・さびつく", "note": "Iron rusts in damp air.（鉄は湿った空気でさびる）。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「さび」として", "desc": "金属が酸化してできるものを表します。", "example_en": "The old gate was covered in rust.", "example_ja": "その古い門はさびだらけだった。" },
+      { "title": "② 動詞「さびる」として", "desc": "金属がさびる理科でも使う意味です。", "example_en": "Iron rusts easily when it gets wet.", "example_ja": "鉄はぬれるとすぐにさびる。" }
+    ],
+    "warn": [
+      "形容詞 rusty は『さびた』のほか、比喩で『（技能が）なまった』の意味もある。My English is a bit rusty.",
+      "rust は鉄などが酸素・水分と反応してできる。理科の『酸化』の話題で頻出。"
+    ],
+    "etym_note": "古英語 rūst（さび）に由来する古いゲルマン系の語です。red（赤）とも語源的につながり、さびの赤茶色を表します。",
+    "etym_chain": [
+      { "node": "rūst", "sub": "さび", "era": "古英語" },
+      { "node": "rust", "sub": "さび", "era": "中英語" },
+      { "node": "rust", "sub": "さび・さびる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "covered in rust", "ja": "さびだらけで" },
+      { "en": "iron rusts", "ja": "鉄がさびる" },
+      { "en": "rust away", "ja": "さびて朽ちる" },
+      { "en": "a rusty nail", "ja": "さびたくぎ" },
+      { "en": "be a bit rusty", "ja": "（腕が）少しなまっている" },
+      { "en": "prevent rust", "ja": "さびを防ぐ" }
+    ],
+    "related": [
+      { "en": "rusty", "ja": "さびた（形容詞）" },
+      { "en": "metal", "ja": "金属" },
+      { "en": "iron", "ja": "鉄" },
+      { "en": "corrode", "ja": "腐食する" }
+    ],
+    "faq": [
+      { "q": "rusty の比喩的な意味は？", "a": "『（技能が）なまった・さびついた』という意味です。My French is rusty.（フランス語の腕がなまっている）のように使います。" },
+      { "q": "なぜ鉄はさびるの？", "a": "鉄が空気中の酸素や水分と反応（酸化）して、赤茶色の rust（さび）ができるためです。理科でよく出る話題です。" }
+    ],
+    "quiz": [
+      { "q": "The old gate was covered in ___.（さびだらけ）", "A": "rust", "B": "dust の語感違い", "C": "rush", "D": "rug", "correct": "A" },
+      { "q": "「（腕が）少しなまっている」を表すのはどれ？", "A": "be a bit rusty", "B": "be a bit rusted のみ", "C": "be a bit rush", "D": "be a bit rude", "correct": "A" }
+    ]
+  }
+]
