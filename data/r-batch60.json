@@ -1,0 +1,528 @@
+[
+  {
+    "english": "rehab",
+    "pron": "ˈriːhæb",
+    "kana": "リハブ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rehabilitate（社会復帰させる）の短縮",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "日常・医療"],
+    "meaning_main": "リハビリ・更生（治療）・社会復帰／（建物を）改修する",
+    "description": "rehab の意味・発音・例文・語源を解説。けがやアルコール・薬物からの「リハビリ・更生治療」、また建物の「改修」というくだけた語の使い方を紹介します。",
+    "keywords": ["rehab 意味", "rehab 発音", "rehab リハビリ", "rehab 更生"],
+    "meanings": [
+      { "hinshi": "【名詞】リハビリ・更生治療・社会復帰", "note": "rehabilitation の短縮。けがの回復訓練や、依存症の更生施設・治療を指す。go to rehab。" },
+      { "hinshi": "【動詞】（建物を）改修する・（人を）更生させる", "note": "rehab an old house（古い家を改修する）。" }
+    ],
+    "usages": [
+      { "title": "① 「リハビリ・更生治療」として", "desc": "けがの回復や依存症の治療を指します。", "example_en": "He spent a month in rehab after the surgery.", "example_ja": "彼は手術後、1か月リハビリ施設で過ごした。" },
+      { "title": "② 動詞「改修する」として", "desc": "古い建物を直して使えるようにする意味です。", "example_en": "They rehabbed the old warehouse into apartments.", "example_ja": "彼らは古い倉庫を改修してアパートにした。" }
+    ],
+    "warn": [
+      "rehab は rehabilitation のくだけた短縮形。『リハビリ』『（依存症の）更生施設・治療』『（建物の）改修』と幅広い。",
+      "go to / be in rehab は『更生施設に入る・治療を受ける』の決まり文句。"
+    ],
+    "etym_note": "rehabilitate（re-「再び」＋ habilitare「適した状態にする」＝社会復帰させる）の短縮形です。「もう一度ふさわしい状態に戻す」が原義で、医療・更生・建物の改修まで広く使われます。",
+    "etym_chain": [
+      { "node": "habilitare", "sub": "適した状態にする", "era": "中世ラテン語" },
+      { "node": "rehabilitate", "sub": "社会復帰させる", "era": "近代英語" },
+      { "node": "rehab", "sub": "リハビリ・改修", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "go to rehab", "ja": "更生施設に入る" },
+      { "en": "be in rehab", "ja": "リハビリ中である" },
+      { "en": "drug rehab", "ja": "薬物更生治療" },
+      { "en": "physical rehab", "ja": "理学的リハビリ" },
+      { "en": "a rehab center", "ja": "リハビリ・更生施設" },
+      { "en": "rehab a building", "ja": "建物を改修する" }
+    ],
+    "related": [
+      { "en": "rehabilitation", "ja": "リハビリ・更生（正式形）" },
+      { "en": "recovery", "ja": "回復" },
+      { "en": "therapy", "ja": "療法" },
+      { "en": "renovate", "ja": "改修する" }
+    ],
+    "faq": [
+      { "q": "rehab とはどんな意味？", "a": "rehabilitation のくだけた短縮形で、けがの『リハビリ』、依存症の『更生治療・施設』、建物の『改修』などを指します。go to rehab（更生施設に入る）のように使います。" },
+      { "q": "rehab と recovery の違いは？", "a": "rehab は『回復のための訓練・治療（過程や施設）』、recovery は『回復そのもの（結果や状態）』を指します。" }
+    ],
+    "quiz": [
+      { "q": "He spent a month in ___ after the surgery.（リハビリ）", "A": "rehab", "B": "rehearse の練習する", "C": "rebate の払い戻し", "D": "rebuke の叱責", "correct": "A" },
+      { "q": "rehab のもとになった語はどれ？", "A": "rehabilitate", "B": "rehearse", "C": "rehouse", "D": "reheat", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reimagine",
+    "pron": "ˌriːɪˈmædʒɪn",
+    "kana": "リイマジン",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ imagine（想像する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "新たに思い描く・再構想する・別の形で作り直す",
+    "description": "reimagine の意味・発音・例文・語源を解説。古いものを「新しく思い描き直す・再構想する」という、近年よく使われる語の使い方を分かりやすく紹介します。",
+    "keywords": ["reimagine 意味", "reimagine 発音", "reimagine 再構想", "reimagine 作り直す"],
+    "meanings": [
+      { "hinshi": "【動詞】新たに思い描く・再構想する", "note": "既存のものを根本から新しく考え直す。reimagine the future（未来を新たに描く）。" },
+      { "hinshi": "【動詞】（作品などを）別の形で作り直す", "note": "古い物語・デザインを新しい解釈で作り変える。a reimagined classic（新解釈の名作）。" }
+    ],
+    "usages": [
+      { "title": "① 「新たに思い描く」として", "desc": "既存のものを根本から考え直す意味です。", "example_en": "The city wants to reimagine its public spaces.", "example_ja": "その市は公共空間を新たに思い描き直したいと考えている。" },
+      { "title": "② 「別の形で作り直す」として", "desc": "古い作品を新しい解釈で作り変える意味です。", "example_en": "The film reimagines the old fairy tale.", "example_ja": "その映画は古いおとぎ話を新たに作り直している。" }
+    ],
+    "warn": [
+      "reimagine は『（既存のものを）根本から新しく思い描き直す』。商品・都市・作品の刷新でよく使う前向きな語。",
+      "a reimagined version（新解釈版）の形で形容詞的にも使う。"
+    ],
+    "etym_note": "re-（再び）＋ imagine（想像する）から成り、「もう一度思い描く＝新しく構想し直す」が原義です。imagine はラテン語 imaginari（心に描く）に由来します。",
+    "etym_chain": [
+      { "node": "imaginari", "sub": "心に描く", "era": "ラテン語" },
+      { "node": "imagine", "sub": "想像する", "era": "中英語" },
+      { "node": "reimagine", "sub": "新たに思い描く", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reimagine the future", "ja": "未来を新たに描く" },
+      { "en": "reimagine the classic", "ja": "名作を新解釈で作り直す" },
+      { "en": "a reimagined version", "ja": "新解釈版" },
+      { "en": "reimagine the city", "ja": "都市を構想し直す" },
+      { "en": "boldly reimagine", "ja": "大胆に再構想する" },
+      { "en": "reimagine education", "ja": "教育のあり方を描き直す" }
+    ],
+    "related": [
+      { "en": "imagine", "ja": "想像する" },
+      { "en": "reinvent", "ja": "作り直す・刷新する" },
+      { "en": "rethink", "ja": "考え直す" },
+      { "en": "reconceive", "ja": "考え直す・再構想する" }
+    ],
+    "faq": [
+      { "q": "reimagine とはどんな意味？", "a": "既存のものを『根本から新しく思い描き直す・再構想する』という動詞です。古い作品を新しい解釈で『別の形に作り直す』意味でもよく使われます。" },
+      { "q": "reimagine と reinvent の違いは？", "a": "reinvent は『（実際に）作り直す・一新する』、reimagine は『（発想・構想として）新しく思い描き直す』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The film ___s the old fairy tale.（新たに作り直す）", "A": "reimagine", "B": "remind の思い出させる", "C": "remain の残る", "D": "remove の取り除く", "correct": "A" },
+      { "q": "reimagine のもとになった語はどれ？", "A": "imagine（想像する）", "B": "image（画像）", "C": "magic（魔法）", "D": "manage（管理する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "relive",
+    "pron": "riːˈlɪv",
+    "kana": "リリブ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ live（経験する・生きる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "（過去を）追体験する・再び味わう・思い起こして生きる",
+    "description": "relive の意味・発音・例文・語源を解説。過去の出来事を心の中で「もう一度経験する・追体験する」という語の使い方を分かりやすく紹介します。",
+    "keywords": ["relive 意味", "relive 発音", "relive 追体験", "relive 思い出"],
+    "meanings": [
+      { "hinshi": "【動詞】（過去を）追体験する・再び味わう", "note": "過去の経験を心の中でもう一度生き直すこと。relive the memory（思い出を追体験する）。" }
+    ],
+    "usages": [
+      { "title": "① 楽しい思い出について", "desc": "よい経験を再び味わう意味です。", "example_en": "We relived our school days at the reunion.", "example_ja": "同窓会で私たちは学生時代を追体験した。" },
+      { "title": "② つらい記憶について", "desc": "苦しい経験を再びよみがえらせる意味です。", "example_en": "He keeps reliving the accident in his dreams.", "example_ja": "彼は夢の中で事故を何度も追体験してしまう。" }
+    ],
+    "warn": [
+      "relive は『過去の経験を心の中でもう一度味わう（追体験する）』。よい思い出にもつらい記憶にも使う。",
+      "発音は『リリブ（riːˈlɪv）』。relieve（和らげる）と混同しないよう注意。"
+    ],
+    "etym_note": "re-（再び）＋ live（生きる・経験する）から成り、「もう一度生きる＝過去を再び経験する」が原義です。live は古英語 libban（生きる）に由来します。",
+    "etym_chain": [
+      { "node": "libban", "sub": "生きる", "era": "古英語" },
+      { "node": "live", "sub": "生きる・経験する", "era": "中英語" },
+      { "node": "relive", "sub": "追体験する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "relive the memory", "ja": "思い出を追体験する" },
+      { "en": "relive the moment", "ja": "その瞬間をもう一度味わう" },
+      { "en": "relive the past", "ja": "過去を生き直す" },
+      { "en": "relive old times", "ja": "昔を懐かしむ" },
+      { "en": "relive the glory days", "ja": "栄光の日々を追体験する" },
+      { "en": "relive the trauma", "ja": "心の傷を追体験する" }
+    ],
+    "related": [
+      { "en": "reminisce", "ja": "思い出にふける" },
+      { "en": "recall", "ja": "思い出す" },
+      { "en": "recollect", "ja": "回想する" },
+      { "en": "experience", "ja": "経験する" }
+    ],
+    "faq": [
+      { "q": "relive とはどんな意味？", "a": "過去の出来事を心の中で『もう一度経験する・追体験する』という動詞です。relive the memory（思い出を追体験する）のように、よい記憶にもつらい記憶にも使います。" },
+      { "q": "relive と recall の違いは？", "a": "recall は『（事実を）思い出す』、relive は『（感情まで含めて）もう一度生き直すように味わう』という違いがあります。" }
+    ],
+    "quiz": [
+      { "q": "We ___d our school days at the reunion.（追体験した）", "A": "relive", "B": "relieve の和らげる", "C": "receive の受け取る", "D": "review の見直す", "correct": "A" },
+      { "q": "relive に近い意味はどれ？", "A": "reminisce（思い出にふける）", "B": "forget（忘れる）", "C": "ignore（無視する）", "D": "predict（予測する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "repaint",
+    "pron": "riːˈpeɪnt",
+    "kana": "リペイント",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ paint（塗る）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "基本単語"],
+    "meaning_main": "塗り直す・塗り替える・もう一度描く",
+    "description": "repaint の意味・発音・例文・語源を解説。壁や車などを「塗り直す・塗り替える」という日常的な語の使い方を分かりやすく紹介します。",
+    "keywords": ["repaint 意味", "repaint 発音", "repaint 塗り直す", "repaint 塗り替え"],
+    "meanings": [
+      { "hinshi": "【動詞】塗り直す・塗り替える", "note": "古くなった塗装をもう一度塗る、別の色に塗り替える。repaint the wall（壁を塗り直す）。" }
+    ],
+    "usages": [
+      { "title": "① 「塗り直す」として", "desc": "古くなった塗装を新しく塗る意味です。", "example_en": "We need to repaint the fence this summer.", "example_ja": "今年の夏に塀を塗り直す必要がある。" },
+      { "title": "② 「塗り替える」として", "desc": "別の色に塗り直す意味です。", "example_en": "She repainted her room a soft blue.", "example_ja": "彼女は部屋を淡い青に塗り替えた。" }
+    ],
+    "warn": [
+      "repaint は『塗り直す・塗り替える』。古びた塗装を新しくする、色を変える両方に使う。",
+      "活用は規則変化 repaint-repainted-repainted。"
+    ],
+    "etym_note": "re-（再び）＋ paint（塗る・描く）から成る分かりやすい語です。paint は古フランス語 peindre（描く・塗る）に由来し、ラテン語 pingere（描く）から来ています。",
+    "etym_chain": [
+      { "node": "pingere", "sub": "描く・塗る", "era": "ラテン語" },
+      { "node": "paint", "sub": "塗る・描く", "era": "中英語" },
+      { "node": "repaint", "sub": "塗り直す・塗り替える", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "repaint the wall", "ja": "壁を塗り直す" },
+      { "en": "repaint the fence", "ja": "塀を塗り直す" },
+      { "en": "repaint the car", "ja": "車を塗り替える" },
+      { "en": "repaint the room", "ja": "部屋を塗り替える" },
+      { "en": "freshly repainted", "ja": "塗り直したばかりの" },
+      { "en": "repaint in white", "ja": "白に塗り替える" }
+    ],
+    "related": [
+      { "en": "paint", "ja": "塗る・描く" },
+      { "en": "recolor", "ja": "色を塗り直す" },
+      { "en": "redecorate", "ja": "内装を一新する" },
+      { "en": "coat", "ja": "（塗料を）塗る" }
+    ],
+    "faq": [
+      { "q": "repaint とはどんな意味？", "a": "壁・塀・車・部屋などを『塗り直す・塗り替える』という動詞です。古くなった塗装を新しくする場合にも、色を変える場合にも使います。" },
+      { "q": "repaint と redecorate の違いは？", "a": "repaint は『塗装を塗り直す』ことに限られ、redecorate は塗装・壁紙・家具なども含めて『内装全体を一新する』ことを指します。" }
+    ],
+    "quiz": [
+      { "q": "We need to ___ the fence this summer.（塗り直す）", "A": "repaint", "B": "repair の修理する", "C": "replace の取り替える", "D": "repeat の繰り返す", "correct": "A" },
+      { "q": "repaint のもとになった語はどれ？", "A": "paint（塗る）", "B": "point（点）", "C": "print（印刷する）", "D": "plant（植える）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "redhead",
+    "pron": "ˈredhed",
+    "kana": "レッドヘッド",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "red（赤い）＋ head（頭）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "日常会話"],
+    "meaning_main": "赤毛の人・赤い髪をした人",
+    "description": "redhead の意味・発音・例文・語源を解説。赤みがかった髪をもつ「赤毛の人」を指す身近な語の使い方を分かりやすく紹介します。",
+    "keywords": ["redhead 意味", "redhead 発音", "redhead 赤毛", "redhead 髪"],
+    "meanings": [
+      { "hinshi": "【名詞】赤毛の人・赤い髪をした人", "note": "赤みがかった（オレンジ寄りの）髪をもつ人。形容詞は red-haired。" }
+    ],
+    "usages": [
+      { "title": "① 「赤毛の人」として", "desc": "赤い髪をもつ人を指します。", "example_en": "She is a redhead with green eyes.", "example_ja": "彼女は緑の目をした赤毛の人だ。" },
+      { "title": "② 特徴を述べて", "desc": "外見の説明で使います。", "example_en": "Redheads often have fair skin.", "example_ja": "赤毛の人は色白なことが多い。" }
+    ],
+    "warn": [
+      "redhead は『赤毛の人』。形容詞で『赤毛の』というときは red-haired を使う。",
+      "髪の色を指す語: blond（金髪）, brunette（褐色の髪）, redhead（赤毛）。"
+    ],
+    "etym_note": "red（赤い）＋ head（頭・髪）の複合語で、文字どおり「赤い髪（頭）の人」を意味します。どちらも古英語（rēad, hēafod）に由来する古い語です。",
+    "etym_chain": [
+      { "node": "rēad + hēafod", "sub": "赤い＋頭", "era": "古英語" },
+      { "node": "red head", "sub": "赤い髪", "era": "中英語" },
+      { "node": "redhead", "sub": "赤毛の人", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a natural redhead", "ja": "生まれつきの赤毛の人" },
+      { "en": "a fiery redhead", "ja": "赤毛の情熱的な人" },
+      { "en": "red-haired", "ja": "赤毛の（形容詞）" },
+      { "en": "a freckled redhead", "ja": "そばかすのある赤毛の人" },
+      { "en": "born a redhead", "ja": "赤毛に生まれて" },
+      { "en": "a young redhead", "ja": "若い赤毛の人" }
+    ],
+    "related": [
+      { "en": "blond", "ja": "金髪の（人）" },
+      { "en": "brunette", "ja": "褐色の髪の（女性）" },
+      { "en": "ginger", "ja": "赤毛の（くだけた語）" },
+      { "en": "auburn", "ja": "赤褐色の（髪）" }
+    ],
+    "faq": [
+      { "q": "redhead とはどんな意味？", "a": "赤みがかった（オレンジ寄りの）髪をもつ『赤毛の人』のことです。形容詞で『赤毛の』というときは red-haired を使います。" },
+      { "q": "redhead と ginger の違いは？", "a": "どちらも『赤毛の人』ですが、ginger は主にイギリスで使われるくだけた言い方です（時にからかいの含みもあります）。" }
+    ],
+    "quiz": [
+      { "q": "She is a ___ with green eyes.（赤毛の人）", "A": "redhead", "B": "redwood のセコイア", "C": "forehead の額", "D": "warhead の弾頭", "correct": "A" },
+      { "q": "「赤毛の」を表す形容詞はどれ？", "A": "red-haired", "B": "red-handed", "C": "red-hot", "D": "red-faced", "correct": "A" }
+    ]
+  },
+  {
+    "english": "roe",
+    "pron": "roʊ",
+    "kana": "ロウ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "中英語 rowe（魚卵）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "食べ物"],
+    "meaning_main": "魚卵・魚の卵（食用）／ノロジカ（roe deer）",
+    "description": "roe の意味・発音・例文・語源を解説。たらこ・いくらなどの「魚卵」と、小型の鹿「ノロジカ」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["roe 意味", "roe 発音", "roe 魚卵", "roe deer 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】魚卵・魚の卵（食用）", "note": "魚の卵のかたまり。salmon roe（いくら）など。料理によく使う。" },
+      { "hinshi": "【名詞】ノロジカ（roe deer）", "note": "ヨーロッパなどにすむ小型の鹿。roe deer の形で使う。" }
+    ],
+    "usages": [
+      { "title": "① 「魚卵」として", "desc": "食用の魚の卵を指します。", "example_en": "Salmon roe is served on top of sushi.", "example_ja": "いくらは寿司の上にのせて出される。" },
+      { "title": "② 「ノロジカ」として", "desc": "小型の鹿を表します（roe deer）。", "example_en": "A roe deer crossed the forest path.", "example_ja": "ノロジカが森の小道を横切った。" }
+    ],
+    "warn": [
+      "roe は『魚卵』。同じ発音の row（列・こぐ）, rowe と混同しないよう文脈で判断。",
+      "『ノロジカ』の意味では roe deer の形で使うことが多い。"
+    ],
+    "etym_note": "魚卵の roe は中英語 rowe（魚の卵）に由来します。一方ノロジカの roe は古英語 rā（鹿）に由来する別語源で、つづりが同じになった同形異義語です。",
+    "etym_chain": [
+      { "node": "rowe", "sub": "魚卵", "era": "中英語" },
+      { "node": "roe", "sub": "魚卵", "era": "近代英語" },
+      { "node": "roe", "sub": "魚卵", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "salmon roe", "ja": "いくら（鮭の卵）" },
+      { "en": "fish roe", "ja": "魚卵" },
+      { "en": "cod roe", "ja": "たらこ" },
+      { "en": "herring roe", "ja": "数の子" },
+      { "en": "hard roe", "ja": "（雌の）卵" },
+      { "en": "roe deer", "ja": "ノロジカ" }
+    ],
+    "related": [
+      { "en": "caviar", "ja": "キャビア" },
+      { "en": "egg", "ja": "卵" },
+      { "en": "spawn", "ja": "（魚などの）卵・産卵する" },
+      { "en": "deer", "ja": "鹿" }
+    ],
+    "faq": [
+      { "q": "roe とはどんな意味？", "a": "食用の『魚卵（魚の卵）』のことです。salmon roe（いくら）、cod roe（たらこ）のように使います。別語源で『ノロジカ（roe deer）』の意味もあります。" },
+      { "q": "roe と caviar の違いは？", "a": "roe は『魚卵』全般を指し、caviar は特にチョウザメの卵を塩漬けにした高級食材を指します。" }
+    ],
+    "quiz": [
+      { "q": "Salmon ___ is served on top of sushi.（魚卵）", "A": "roe", "B": "row のこぐ", "C": "raw の生の", "D": "ray の光線", "correct": "A" },
+      { "q": "cod roe が指すものはどれ？", "A": "たらこ", "B": "いくら", "C": "キャビア", "D": "数の子", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ruff",
+    "pron": "rʌf",
+    "kana": "ラフ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ruffle（ひだ・乱す）の短縮",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "歴史・服飾"],
+    "meaning_main": "ひだ襟（昔の輪状の襟）／（動物の）首回りの飾り毛",
+    "description": "ruff の意味・発音・例文・語源を解説。16〜17世紀に流行した輪状の「ひだ襟」や、動物の首回りの「飾り毛」を指す語の使い方を紹介します。",
+    "keywords": ["ruff 意味", "ruff 発音", "ruff ひだ襟", "ruff 襟"],
+    "meanings": [
+      { "hinshi": "【名詞】ひだ襟", "note": "16〜17世紀のヨーロッパで流行した、首を囲む輪状のひだのついた襟。" },
+      { "hinshi": "【名詞】（動物の）首回りの飾り毛・羽", "note": "鳥や動物の首をぐるりと囲む長い毛や羽。" }
+    ],
+    "usages": [
+      { "title": "① 「ひだ襟」として", "desc": "昔の貴族が着けた輪状の襟を指します。", "example_en": "The portrait shows a nobleman wearing a white ruff.", "example_ja": "その肖像画は白いひだ襟をつけた貴族を描いている。" },
+      { "title": "② 「首回りの飾り毛」として", "desc": "動物の首を囲む毛や羽を表します。", "example_en": "The lion's thick ruff made it look larger.", "example_ja": "ライオンの厚い首回りの毛がより大きく見せていた。" }
+    ],
+    "warn": [
+      "ruff は『（昔の）輪状のひだ襟』が中心。rough（粗い）と発音が同じだが別語。",
+      "ruffle（ひだ飾り・乱す）と語源は同じだが、ruff は特に首回りの輪状の襟を指す。"
+    ],
+    "etym_note": "ruffle（ひだ・かき乱す）の短縮形と考えられ、「ひだのついた襟」を指すようになりました。16世紀の宮廷ファッションを象徴する語です。",
+    "etym_chain": [
+      { "node": "ruffle", "sub": "ひだ・乱す", "era": "中英語" },
+      { "node": "ruff", "sub": "ひだ襟", "era": "近代英語" },
+      { "node": "ruff", "sub": "ひだ襟・飾り毛", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a starched ruff", "ja": "のりのきいたひだ襟" },
+      { "en": "wear a ruff", "ja": "ひだ襟をつける" },
+      { "en": "a lace ruff", "ja": "レースのひだ襟" },
+      { "en": "an Elizabethan ruff", "ja": "エリザベス朝のひだ襟" },
+      { "en": "the dog's ruff", "ja": "犬の首回りの毛" },
+      { "en": "a white ruff", "ja": "白いひだ襟" }
+    ],
+    "related": [
+      { "en": "ruffle", "ja": "ひだ飾り" },
+      { "en": "collar", "ja": "襟" },
+      { "en": "frill", "ja": "ひだ飾り" },
+      { "en": "mane", "ja": "たてがみ" }
+    ],
+    "faq": [
+      { "q": "ruff とはどんな意味？", "a": "16〜17世紀のヨーロッパで流行した、首を囲む輪状の『ひだ襟』のことです。動物の首回りの『飾り毛・羽』も指します。" },
+      { "q": "ruff と rough の違いは？", "a": "発音は同じ『ラフ（rʌf）』ですが、ruff は名詞『ひだ襟』、rough は形容詞『粗い・ごつごつした』でまったく別の語です。" }
+    ],
+    "quiz": [
+      { "q": "The portrait shows a nobleman wearing a white ___.（ひだ襟）", "A": "ruff", "B": "rough の粗い", "C": "roof の屋根", "D": "rug の敷物", "correct": "A" },
+      { "q": "ruff が流行したのはいつごろ？", "A": "16〜17世紀", "B": "古代ローマ", "C": "20世紀", "D": "氷河時代", "correct": "A" }
+    ]
+  },
+  {
+    "english": "riffle",
+    "pron": "ˈrɪfəl",
+    "kana": "リフル",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ruffle と ripple の混成と考えられる",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "描写"],
+    "meaning_main": "（ページなどを）ぱらぱらめくる／（水面が）さざ波立つ・浅瀬",
+    "description": "riffle の意味・発音・例文・語源を解説。本のページを「ぱらぱらめくる」、水面が「さざ波立つ」、川の「浅瀬」という語の使い方を紹介します。",
+    "keywords": ["riffle 意味", "riffle 発音", "riffle ぱらぱら", "riffle 浅瀬"],
+    "meanings": [
+      { "hinshi": "【動詞】（ページ・カードを）ぱらぱらめくる・素早くめくる", "note": "riffle through a book（本をぱらぱらめくる）。ざっと目を通すこと。" },
+      { "hinshi": "【動詞】（水面が）さざ波立つ・かき乱す", "note": "風が水面をさざ波立てるようす。" },
+      { "hinshi": "【名詞】（川の）浅瀬・さざ波", "note": "石の上を浅く流れる場所。" }
+    ],
+    "usages": [
+      { "title": "① 「ぱらぱらめくる」として", "desc": "ページを素早くめくってざっと見る意味です。", "example_en": "She riffled through the magazine.", "example_ja": "彼女は雑誌をぱらぱらとめくった。" },
+      { "title": "② 「さざ波立つ・浅瀬」として", "desc": "水面のさざ波や川の浅瀬を表します。", "example_en": "A breeze riffled the surface of the pond.", "example_ja": "そよ風が池の水面にさざ波を立てた。" }
+    ],
+    "warn": [
+      "riffle through（ぱらぱらめくる・ざっと探す）が最頻出。rifle through（あさる・物色する）と似るので注意。",
+      "ripple（さざ波）と ruffle（乱す）が混ざったような語で、意味も両方に通じる。"
+    ],
+    "etym_note": "ripple（さざ波）と ruffle（かき乱す）が混ざってできたと考えられる語です。「水面やページを軽くかき乱す」イメージから、両方の意味をもつようになりました。",
+    "etym_chain": [
+      { "node": "ripple + ruffle", "sub": "さざ波＋乱す", "era": "近代英語" },
+      { "node": "riffle", "sub": "ぱらぱらめくる・さざ波", "era": "近代英語" },
+      { "node": "riffle", "sub": "ぱらぱらめくる・浅瀬", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "riffle through a book", "ja": "本をぱらぱらめくる" },
+      { "en": "riffle through papers", "ja": "書類をめくって探す" },
+      { "en": "riffle the pages", "ja": "ページをぱらぱらめくる" },
+      { "en": "riffle the cards", "ja": "カードを切る" },
+      { "en": "riffle the water", "ja": "水面をさざ波立てる" },
+      { "en": "a shallow riffle", "ja": "浅い瀬" }
+    ],
+    "related": [
+      { "en": "ripple", "ja": "さざ波" },
+      { "en": "ruffle", "ja": "かき乱す" },
+      { "en": "leaf through", "ja": "ぱらぱらめくる" },
+      { "en": "thumb through", "ja": "ざっとめくる" }
+    ],
+    "faq": [
+      { "q": "riffle とはどんな意味？", "a": "本やカードを『ぱらぱらと素早くめくる』、水面が『さざ波立つ』、川の『浅瀬』などを表す語です。riffle through（ぱらぱらめくる・ざっと探す）が最もよく使われます。" },
+      { "q": "riffle と rifle の違いは？", "a": "riffle through は『ぱらぱらめくる』、rifle through は『（探して）かき回す・物色する』です。発音もつづりも似ているので文脈で判断します。" }
+    ],
+    "quiz": [
+      { "q": "She ___d through the magazine.（ぱらぱらめくった）", "A": "riffle", "B": "rattle の音を立てる", "C": "wrestle の取っ組み合う", "D": "ripen の熟す", "correct": "A" },
+      { "q": "riffle through の意味はどれ？", "A": "ぱらぱらめくる・ざっと探す", "B": "破り捨てる", "C": "じっくり読む", "D": "暗記する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "roadworthy",
+    "pron": "ˈroʊdwɜːrði",
+    "kana": "ロウドワーズィー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "road（道）＋ worthy（ふさわしい）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "車・実用"],
+    "meaning_main": "（車が）走行に適した・公道を走れる状態の",
+    "description": "roadworthy の意味・発音・例文・語源を解説。車が安全に「公道を走れる状態の・走行に適した」という整備関連の語の使い方を紹介します。",
+    "keywords": ["roadworthy 意味", "roadworthy 発音", "roadworthy 走行可能", "roadworthy 車検"],
+    "meanings": [
+      { "hinshi": "【形容詞】（車が）走行に適した・公道を走れる状態の", "note": "安全に道路を走れるよう整備された状態。a roadworthy car（走行可能な車）。" }
+    ],
+    "usages": [
+      { "title": "① 「走行に適した」として", "desc": "車が安全に走れる状態を表します。", "example_en": "Make sure the car is roadworthy before the trip.", "example_ja": "旅行の前に車が走行に適した状態か確認しなさい。" },
+      { "title": "② 整備・点検の文脈で", "desc": "車検や安全基準を満たすかどうかで使います。", "example_en": "The old van is no longer roadworthy.", "example_ja": "その古いバンはもう公道を走れる状態ではない。" }
+    ],
+    "warn": [
+      "roadworthy は『（車が）安全に道路を走れる状態の』。-worthy は『〜に値する・ふさわしい』を表す接尾辞。",
+      "同じ作りに seaworthy（航海に適した）, trustworthy（信頼できる）, newsworthy（報道価値のある）。"
+    ],
+    "etym_note": "road（道）＋ worthy（ふさわしい・値する）の複合語で、「道路を走るにふさわしい」が原義です。worthy は古英語 weorþ（価値）に由来します。",
+    "etym_chain": [
+      { "node": "weorþ", "sub": "価値", "era": "古英語" },
+      { "node": "road + worthy", "sub": "道＋ふさわしい", "era": "近代英語" },
+      { "node": "roadworthy", "sub": "走行に適した", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a roadworthy car", "ja": "走行可能な車" },
+      { "en": "keep a car roadworthy", "ja": "車を走れる状態に保つ" },
+      { "en": "no longer roadworthy", "ja": "もう公道を走れない" },
+      { "en": "a roadworthy condition", "ja": "走行に適した状態" },
+      { "en": "deemed roadworthy", "ja": "走行可能と判断された" },
+      { "en": "make it roadworthy", "ja": "走れる状態にする" }
+    ],
+    "related": [
+      { "en": "seaworthy", "ja": "航海に適した" },
+      { "en": "trustworthy", "ja": "信頼できる" },
+      { "en": "operational", "ja": "稼働可能な" },
+      { "en": "drivable", "ja": "運転できる" }
+    ],
+    "faq": [
+      { "q": "roadworthy とはどんな意味？", "a": "車が安全に『公道を走れる状態の・走行に適した』ことを表す形容詞です。整備や車検で基準を満たしているかどうかを表すときに使います。" },
+      { "q": "-worthy はどんな意味？", "a": "『〜にふさわしい・〜に値する』を表す接尾辞です。seaworthy（航海に適した）、trustworthy（信頼できる）、newsworthy（報道価値のある）など多くの語に付きます。" }
+    ],
+    "quiz": [
+      { "q": "Make sure the car is ___ before the trip.（走行に適した）", "A": "roadworthy", "B": "roadside の道端", "C": "roadblock の障害", "D": "railway の鉄道", "correct": "A" },
+      { "q": "-worthy の意味はどれ？", "A": "〜にふさわしい・値する", "B": "〜のない", "C": "〜より小さい", "D": "〜の前の", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rancorous",
+    "pron": "ˈræŋkərəs",
+    "kana": "ランカラス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "rancor（深い恨み）＋ -ous",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "文章語"],
+    "meaning_main": "深い恨みに満ちた・とげとげしい・敵意のこもった",
+    "description": "rancorous の意味・発音・例文・語源を解説。長く積もった恨みや敵意に満ちた「とげとげしい・険悪な」やりとりを表す文章語の使い方を紹介します。",
+    "keywords": ["rancorous 意味", "rancorous 発音", "rancorous 恨み", "rancor 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】深い恨みに満ちた・とげとげしい・敵意のこもった", "note": "長く積もった憎しみがにじむようす。a rancorous dispute（険悪な争い）。" }
+    ],
+    "usages": [
+      { "title": "① 「とげとげしい・険悪な」として", "desc": "恨みや敵意に満ちたやりとりを表します。", "example_en": "The negotiations turned rancorous.", "example_ja": "交渉はとげとげしいものになった。" },
+      { "title": "② 「敵意のこもった」として", "desc": "長く積もった憎しみがにじむようすです。", "example_en": "They had a rancorous divorce.", "example_ja": "彼らは恨みに満ちた険悪な離婚をした。" }
+    ],
+    "warn": [
+      "rancorous は『深く積もった恨み・敵意に満ちた』というかたい文章語。名詞は rancor（深い恨み）。",
+      "単なる怒り angry より『長く続く根深い憎しみ』のニュアンスが強い。"
+    ],
+    "etym_note": "rancor（深い恨み・遺恨）に -ous（〜に満ちた）が付いた語です。rancor はラテン語 rancor（腐ったにおい・古い恨み）に由来し、「長く腐るように残る恨み」が原義です。",
+    "etym_chain": [
+      { "node": "rancere", "sub": "腐る・悪臭を放つ", "era": "ラテン語" },
+      { "node": "rancor", "sub": "深い恨み", "era": "古フランス語" },
+      { "node": "rancorous", "sub": "恨みに満ちた", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rancorous dispute", "ja": "険悪な争い" },
+      { "en": "a rancorous debate", "ja": "とげとげしい論争" },
+      { "en": "turn rancorous", "ja": "険悪になる" },
+      { "en": "a rancorous divorce", "ja": "恨みに満ちた離婚" },
+      { "en": "rancorous exchanges", "ja": "敵意のこもったやりとり" },
+      { "en": "a rancorous tone", "ja": "とげとげしい口調" }
+    ],
+    "related": [
+      { "en": "rancor", "ja": "深い恨み（名詞）" },
+      { "en": "bitter", "ja": "苦々しい・恨みがましい" },
+      { "en": "acrimonious", "ja": "（口論が）辛らつな" },
+      { "en": "hostile", "ja": "敵意のある" }
+    ],
+    "faq": [
+      { "q": "rancorous とはどんな意味？", "a": "長く積もった恨みや敵意に満ちた『とげとげしい・険悪な』ようすを表すかたい文章語です。a rancorous dispute（険悪な争い）のように使います。" },
+      { "q": "rancorous と acrimonious の違いは？", "a": "どちらも『（言い争いが）とげとげしい』ですが、rancorous は『根深い恨み』、acrimonious は『その場の辛らつさ』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The negotiations turned ___.（とげとげしい）", "A": "rancorous", "B": "ravenous の飢えた", "C": "raucous の騒がしい", "D": "ridiculous のばかげた", "correct": "A" },
+      { "q": "rancorous の名詞形はどれ？", "A": "rancor（深い恨み）", "B": "ranch（牧場）", "C": "rank（階級）", "D": "range（範囲）", "correct": "A" }
+    ]
+  }
+]
