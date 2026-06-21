@@ -1,0 +1,54 @@
+[
+  {
+    "english": "reedbuck",
+    "pron": "ˈriːdbʌk",
+    "kana": "リードバック",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "reed（アシ）＋ buck（雄の鹿・羚羊）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "自然・生き物"],
+    "meaning_main": "リードバック（アフリカの草地や湿地にすむ中型のアンテロープ）",
+    "description": "reedbuck の意味・発音・例文・語源を解説。アフリカのアシの茂る草地や湿地にすむ中型のアンテロープ「リードバック」を指す語の使い方を紹介します。",
+    "keywords": ["reedbuck 意味", "reedbuck 発音", "reedbuck アンテロープ", "reedbuck 羚羊"],
+    "meanings": [
+      { "hinshi": "【名詞】リードバック", "note": "アフリカの草地・湿地にすむ中型のアンテロープ（羚羊）。アシ（reed）の茂みに身を隠す習性から名づけられた。" }
+    ],
+    "usages": [
+      { "title": "① 草食動物として", "desc": "アフリカのアンテロープを指します。", "example_en": "A reedbuck grazed near the marsh.", "example_ja": "リードバックが湿地の近くで草を食んでいた。" },
+      { "title": "② 生態の説明で", "desc": "アシの茂みに隠れる習性を表します。", "example_en": "Reedbucks hide among tall reeds when alarmed.", "example_ja": "リードバックは驚くと丈の高いアシの中に隠れる。" }
+    ],
+    "warn": [
+      "reedbuck は『アフリカのアシの茂みにすむ中型アンテロープ』。reed（アシ）＋ buck（雄の羚羊）から。",
+      "発音は『リードバック（ˈriːdbʌk）』。"
+    ],
+    "etym_note": "reed（アシ）＋ buck（雄の鹿・羚羊）から成り、「アシの茂みにすむ羚羊」を意味します。アシの茂る湿地・草地を好む習性に由来します。",
+    "etym_chain": [
+      { "node": "reed + buck", "sub": "アシ＋雄の羚羊", "era": "近代英語" },
+      { "node": "reedbuck", "sub": "アシにすむ羚羊", "era": "近代英語" },
+      { "node": "reedbuck", "sub": "リードバック", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a southern reedbuck", "ja": "ミナミリードバック" },
+      { "en": "a grazing reedbuck", "ja": "草を食むリードバック" },
+      { "en": "a reedbuck in the marsh", "ja": "湿地のリードバック" },
+      { "en": "a startled reedbuck", "ja": "驚いたリードバック" },
+      { "en": "spot a reedbuck", "ja": "リードバックを見つける" },
+      { "en": "a male reedbuck", "ja": "雄のリードバック" }
+    ],
+    "related": [
+      { "en": "antelope", "ja": "アンテロープ・羚羊" },
+      { "en": "gazelle", "ja": "ガゼル" },
+      { "en": "buck", "ja": "雄の鹿・羚羊" },
+      { "en": "savanna", "ja": "サバンナ" }
+    ],
+    "faq": [
+      { "q": "reedbuck とはどんな意味？", "a": "アフリカの草地・湿地にすむ中型のアンテロープ（羚羊）『リードバック』のことです。アシ（reed）の茂みに身を隠す習性から名づけられました。" },
+      { "q": "reedbuck の名の由来は？", "a": "reed（アシ）＋ buck（雄の羚羊）です。アシの茂る湿地・草地を好み、そこに隠れる習性に由来します。" }
+    ],
+    "quiz": [
+      { "q": "A ___ grazed near the marsh.（リードバック）", "A": "reedbuck", "B": "roebuck の雄ノロジカ", "C": "redbuck", "D": "reedbed のアシ原", "correct": "A" },
+      { "q": "reedbuck の -buck の意味はどれ？", "A": "雄の鹿・羚羊", "B": "お金", "C": "バケツ", "D": "弾む", "correct": "A" }
+    ]
+  }
+]

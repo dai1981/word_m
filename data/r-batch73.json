@@ -1,0 +1,472 @@
+[
+  {
+    "english": "rand",
+    "pron": "rænd",
+    "kana": "ランド",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "アフリカーンス語 rand（尾根）／ヴィットヴァーテルスラント由来",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "通貨"],
+    "meaning_main": "ランド（南アフリカの通貨単位）",
+    "description": "rand の意味・発音・例文・語源を解説。南アフリカ共和国で使われる通貨単位「ランド」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["rand 意味", "rand 発音", "rand ランド", "rand 南アフリカ"],
+    "meanings": [
+      { "hinshi": "【名詞】ランド", "note": "南アフリカ共和国の通貨単位。補助単位はセント（cent）。記号は R。" }
+    ],
+    "usages": [
+      { "title": "① 通貨単位として", "desc": "南アフリカの通貨を指します。", "example_en": "The meal cost two hundred rand.", "example_ja": "その食事は200ランドだった。" },
+      { "title": "② 為替の話で", "desc": "通貨の価値の話題で使います。", "example_en": "The rand fell against the dollar.", "example_ja": "ランドはドルに対して下落した。" }
+    ],
+    "warn": [
+      "rand は『南アフリカの通貨単位』。複数形も rand のまま（two hundred rand）が一般的。",
+      "一般名詞の rand（へり・尾根）とは別の通貨の意味。"
+    ],
+    "etym_note": "アフリカーンス語 rand（尾根・へり）に由来し、金鉱で有名な地域ヴィットヴァーテルスラント（Witwatersrand）にちなんで通貨名になりました。",
+    "etym_chain": [
+      { "node": "rand", "sub": "尾根・へり", "era": "アフリカーンス語" },
+      { "node": "Witwatersrand", "sub": "金鉱地域名", "era": "近代" },
+      { "node": "rand", "sub": "ランド（通貨）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the South African rand", "ja": "南アフリカ・ランド" },
+      { "en": "two hundred rand", "ja": "200ランド" },
+      { "en": "pay in rand", "ja": "ランドで支払う" },
+      { "en": "the rand weakened", "ja": "ランドが下落した" },
+      { "en": "exchange for rand", "ja": "ランドに両替する" },
+      { "en": "a million rand", "ja": "100万ランド" }
+    ],
+    "related": [
+      { "en": "cent", "ja": "セント（補助単位）" },
+      { "en": "currency", "ja": "通貨" },
+      { "en": "exchange rate", "ja": "為替レート" },
+      { "en": "rupee", "ja": "ルピー" }
+    ],
+    "faq": [
+      { "q": "rand とはどんな意味？", "a": "南アフリカ共和国で使われる通貨単位『ランド』のことです。補助単位はセント（cent）で、記号は R です。" },
+      { "q": "rand の語源は？", "a": "金鉱で有名な地域ヴィットヴァーテルスラント（Witwatersrand）にちなみます。rand はアフリカーンス語で『尾根・へり』を意味します。" }
+    ],
+    "quiz": [
+      { "q": "The meal cost two hundred ___.（ランド）", "A": "rand", "B": "rant のわめき", "C": "rang の鳴った", "D": "rank の階級", "correct": "A" },
+      { "q": "rand はどの国の通貨？", "A": "南アフリカ", "B": "オーストラリア", "C": "カナダ", "D": "メキシコ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ringgit",
+    "pron": "ˈrɪŋɡɪt",
+    "kana": "リンギット",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "マレー語 ringgit（ぎざぎざの）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "通貨"],
+    "meaning_main": "リンギット（マレーシアの通貨単位）",
+    "description": "ringgit の意味・発音・例文・語源を解説。マレーシアで使われる通貨単位「リンギット」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["ringgit 意味", "ringgit 発音", "ringgit リンギット", "ringgit マレーシア"],
+    "meanings": [
+      { "hinshi": "【名詞】リンギット", "note": "マレーシアの通貨単位。補助単位はセン（sen）。記号は RM。" }
+    ],
+    "usages": [
+      { "title": "① 通貨単位として", "desc": "マレーシアの通貨を指します。", "example_en": "The ticket costs fifty ringgit.", "example_ja": "その切符は50リンギットだ。" },
+      { "title": "② 旅行・両替の場面で", "desc": "現地通貨として使います。", "example_en": "I changed my money into ringgit.", "example_ja": "私はお金をリンギットに両替した。" }
+    ],
+    "warn": [
+      "ringgit は『マレーシアの通貨単位』。複数形も ringgit のままが一般的。補助単位はセン（sen）。",
+      "発音は『リンギット（ˈrɪŋɡɪt）』。"
+    ],
+    "etym_note": "マレー語 ringgit（ぎざぎざの）に由来します。もとは縁にぎざぎざのあるスペインの銀貨を指したことから、通貨単位の名になりました。",
+    "etym_chain": [
+      { "node": "ringgit", "sub": "ぎざぎざの", "era": "マレー語" },
+      { "node": "ringgit", "sub": "ぎざぎざの銀貨", "era": "近代" },
+      { "node": "ringgit", "sub": "リンギット（通貨）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the Malaysian ringgit", "ja": "マレーシア・リンギット" },
+      { "en": "fifty ringgit", "ja": "50リンギット" },
+      { "en": "pay in ringgit", "ja": "リンギットで支払う" },
+      { "en": "the ringgit rose", "ja": "リンギットが上昇した" },
+      { "en": "exchange for ringgit", "ja": "リンギットに両替する" },
+      { "en": "a hundred ringgit", "ja": "100リンギット" }
+    ],
+    "related": [
+      { "en": "sen", "ja": "セン（補助単位）" },
+      { "en": "currency", "ja": "通貨" },
+      { "en": "rupiah", "ja": "ルピア（インドネシア）" },
+      { "en": "baht", "ja": "バーツ（タイ）" }
+    ],
+    "faq": [
+      { "q": "ringgit とはどんな意味？", "a": "マレーシアで使われる通貨単位『リンギット』のことです。補助単位はセン（sen）で、記号は RM です。" },
+      { "q": "ringgit の語源は？", "a": "マレー語 ringgit（ぎざぎざの）です。縁にぎざぎざのあるスペインの銀貨を指したことに由来します。" }
+    ],
+    "quiz": [
+      { "q": "The ticket costs fifty ___.（リンギット）", "A": "ringgit", "B": "ringlet の巻き毛", "C": "ringtone の着信音", "D": "ringside のリングサイド", "correct": "A" },
+      { "q": "ringgit はどの国の通貨？", "A": "マレーシア", "B": "インド", "C": "韓国", "D": "ロシア", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rupiah",
+    "pron": "ruːˈpiːə",
+    "kana": "ルピア",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "サンスクリット語 rupya（銀貨）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "通貨"],
+    "meaning_main": "ルピア（インドネシアの通貨単位）",
+    "description": "rupiah の意味・発音・例文・語源を解説。インドネシアで使われる通貨単位「ルピア」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["rupiah 意味", "rupiah 発音", "rupiah ルピア", "rupiah インドネシア"],
+    "meanings": [
+      { "hinshi": "【名詞】ルピア", "note": "インドネシアの通貨単位。記号は Rp。桁が大きくなりやすい通貨として知られる。" }
+    ],
+    "usages": [
+      { "title": "① 通貨単位として", "desc": "インドネシアの通貨を指します。", "example_en": "The meal cost fifty thousand rupiah.", "example_ja": "その食事は5万ルピアだった。" },
+      { "title": "② 両替の場面で", "desc": "現地通貨として使います。", "example_en": "I exchanged dollars for rupiah in Bali.", "example_ja": "私はバリでドルをルピアに両替した。" }
+    ],
+    "warn": [
+      "rupiah は『インドネシアの通貨単位』。インドなどの rupee（ルピー）と語源は同じだが別の通貨。",
+      "発音は『ルピア（ruːˈpiːə）』。"
+    ],
+    "etym_note": "サンスクリット語 rupya（銀・銀貨）に由来し、rupee（ルピー）と同じ語源です。打刻された銀貨を意味し、インドネシアの通貨名になりました。",
+    "etym_chain": [
+      { "node": "rupya", "sub": "銀貨", "era": "サンスクリット語" },
+      { "node": "rupiah", "sub": "ルピア", "era": "近代" },
+      { "node": "rupiah", "sub": "ルピア（通貨）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the Indonesian rupiah", "ja": "インドネシア・ルピア" },
+      { "en": "fifty thousand rupiah", "ja": "5万ルピア" },
+      { "en": "pay in rupiah", "ja": "ルピアで支払う" },
+      { "en": "the rupiah fell", "ja": "ルピアが下落した" },
+      { "en": "exchange for rupiah", "ja": "ルピアに両替する" },
+      { "en": "a million rupiah", "ja": "100万ルピア" }
+    ],
+    "related": [
+      { "en": "rupee", "ja": "ルピー（インドなど）" },
+      { "en": "currency", "ja": "通貨" },
+      { "en": "ringgit", "ja": "リンギット（マレーシア）" },
+      { "en": "exchange rate", "ja": "為替レート" }
+    ],
+    "faq": [
+      { "q": "rupiah とはどんな意味？", "a": "インドネシアで使われる通貨単位『ルピア』のことです。記号は Rp で、桁が大きくなりやすい通貨として知られます。" },
+      { "q": "rupiah と rupee の違いは？", "a": "rupiah（ルピア）はインドネシアの通貨、rupee（ルピー）はインドなど南アジアの通貨です。語源は同じ rupya（銀貨）ですが別の通貨です。" }
+    ],
+    "quiz": [
+      { "q": "The meal cost fifty thousand ___.（ルピア）", "A": "rupiah", "B": "rupee の代わりに ruble", "C": "rupture の破裂", "D": "ruler の定規", "correct": "A" },
+      { "q": "rupiah はどの国の通貨？", "A": "インドネシア", "B": "インド", "C": "ロシア", "D": "南アフリカ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "riel",
+    "pron": "riˈel",
+    "kana": "リエル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "クメール語 riel（魚の名／通貨）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "通貨"],
+    "meaning_main": "リエル（カンボジアの通貨単位）",
+    "description": "riel の意味・発音・例文・語源を解説。カンボジアで使われる通貨単位「リエル」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["riel 意味", "riel 発音", "riel リエル", "riel カンボジア"],
+    "meanings": [
+      { "hinshi": "【名詞】リエル", "note": "カンボジアの通貨単位。記号は ៛。実際の取引では米ドルも広く使われる。" }
+    ],
+    "usages": [
+      { "title": "① 通貨単位として", "desc": "カンボジアの通貨を指します。", "example_en": "The snack cost two thousand riel.", "example_ja": "その軽食は2000リエルだった。" },
+      { "title": "② 旅行・両替の場面で", "desc": "現地通貨として使います。", "example_en": "Small purchases are often paid in riel.", "example_ja": "少額の買い物はリエルで支払うことが多い。" }
+    ],
+    "warn": [
+      "riel は『カンボジアの通貨単位』。実際にはアメリカドルも広く流通している。",
+      "発音は『リエル（riˈel）』。real（レアル）, rial（リアル）と混同しないよう注意。"
+    ],
+    "etym_note": "クメール語 riel に由来します。メコン川にすむ小魚の名から来たとも、銀貨を意味するともいわれます。カンボジアの通貨名として使われています。",
+    "etym_chain": [
+      { "node": "riel", "sub": "魚の名／銀貨", "era": "クメール語" },
+      { "node": "riel", "sub": "リエル", "era": "近代" },
+      { "node": "riel", "sub": "リエル（通貨）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the Cambodian riel", "ja": "カンボジア・リエル" },
+      { "en": "two thousand riel", "ja": "2000リエル" },
+      { "en": "pay in riel", "ja": "リエルで支払う" },
+      { "en": "exchange for riel", "ja": "リエルに両替する" },
+      { "en": "the value of the riel", "ja": "リエルの価値" },
+      { "en": "riel and dollars", "ja": "リエルとドル" }
+    ],
+    "related": [
+      { "en": "currency", "ja": "通貨" },
+      { "en": "dong", "ja": "ドン（ベトナム）" },
+      { "en": "baht", "ja": "バーツ（タイ）" },
+      { "en": "kip", "ja": "キップ（ラオス）" }
+    ],
+    "faq": [
+      { "q": "riel とはどんな意味？", "a": "カンボジアで使われる通貨単位『リエル』のことです。記号は ៛ で、実際の取引ではアメリカドルも広く使われています。" },
+      { "q": "riel と rial の違いは？", "a": "riel（リエル）はカンボジアの通貨、rial（リアル）はイラン・オマーンなどの通貨です。発音もつづりも近いので注意しましょう。" }
+    ],
+    "quiz": [
+      { "q": "The snack cost two thousand ___.（リエル）", "A": "riel", "B": "real のレアル", "C": "reel のリール", "D": "rail の線路", "correct": "A" },
+      { "q": "riel はどの国の通貨？", "A": "カンボジア", "B": "イラン", "C": "ブラジル", "D": "インド", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reeve",
+    "pron": "riːv",
+    "kana": "リーブ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 gerēfa（地方の役人）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "歴史"],
+    "meaning_main": "（中世イングランドの）代官・荘園や町の管理役人",
+    "description": "reeve の意味・発音・例文・語源を解説。中世イングランドで荘園や町を管理した役人「代官（リーブ）」を指す歴史用語の使い方を紹介します。",
+    "keywords": ["reeve 意味", "reeve 発音", "reeve 代官", "reeve 役人"],
+    "meanings": [
+      { "hinshi": "【名詞】（中世の）代官・管理役人", "note": "中世イングランドで、荘園・州・町の運営や徴税を任された役人。shire-reeve（州の代官）が sheriff（保安官）の語源。" }
+    ],
+    "usages": [
+      { "title": "① 荘園の管理役として", "desc": "領主に代わって荘園を運営した役人を指します。", "example_en": "The reeve collected rents for the lord.", "example_ja": "代官は領主のために地代を集めた。" },
+      { "title": "② 歴史・文学の文脈で", "desc": "中世社会の役職として登場します。", "example_en": "Chaucer's Reeve tells a famous tale.", "example_ja": "チョーサーの『代官』は有名な物語を語る。" }
+    ],
+    "warn": [
+      "reeve は『中世イングランドの代官・管理役人』。shire-reeve（州の代官）が sheriff（保安官）の語源。",
+      "発音は『リーブ（riːv）』。"
+    ],
+    "etym_note": "古英語 gerēfa（地方の役人・長）に由来します。shire（州）＋ reeve で shire-reeve となり、これが縮まって sheriff（保安官）になりました。",
+    "etym_chain": [
+      { "node": "gerēfa", "sub": "地方の役人", "era": "古英語" },
+      { "node": "reeve", "sub": "代官", "era": "中英語" },
+      { "node": "reeve", "sub": "代官・管理役人", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the manor reeve", "ja": "荘園の代官" },
+      { "en": "the shire-reeve", "ja": "州の代官（sheriffの語源）" },
+      { "en": "appoint a reeve", "ja": "代官を任命する" },
+      { "en": "the reeve's duties", "ja": "代官の職務" },
+      { "en": "a village reeve", "ja": "村の管理役人" },
+      { "en": "the reeve collected taxes", "ja": "代官は税を集めた" }
+    ],
+    "related": [
+      { "en": "sheriff", "ja": "保安官" },
+      { "en": "steward", "ja": "執事・管理人" },
+      { "en": "bailiff", "ja": "執行吏・代官" },
+      { "en": "manor", "ja": "荘園" }
+    ],
+    "faq": [
+      { "q": "reeve とはどんな意味？", "a": "中世イングランドで荘園・州・町の運営や徴税を任された役人『代官』のことです。shire-reeve（州の代官）が sheriff（保安官）の語源です。" },
+      { "q": "reeve と sheriff の関係は？", "a": "shire（州）＋ reeve（代官）の shire-reeve が縮まって sheriff（保安官）になりました。reeve は sheriff の語源の一部です。" }
+    ],
+    "quiz": [
+      { "q": "The ___ collected rents for the lord.（代官）", "A": "reeve", "B": "reef の岩礁", "C": "reel のリール", "D": "reed のアシ", "correct": "A" },
+      { "q": "reeve から生まれた語はどれ？", "A": "sheriff（保安官）", "B": "soldier（兵士）", "C": "merchant（商人）", "D": "knight（騎士）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reredos",
+    "pron": "ˈrɪərdɒs",
+    "kana": "リアドス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 areredos（後ろの背）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "建築・宗教"],
+    "meaning_main": "（教会の）祭壇背後の装飾衝立・祭壇背障",
+    "description": "reredos の意味・発音・例文・語源を解説。教会で祭壇の背後に立てられた、絵や彫刻で飾られた衝立「祭壇背障」を指す語の使い方を紹介します。",
+    "keywords": ["reredos 意味", "reredos 発音", "reredos 祭壇", "reredos 衝立"],
+    "meanings": [
+      { "hinshi": "【名詞】祭壇背後の装飾衝立・祭壇背障", "note": "教会の祭壇の後ろに立てられた、絵画・彫刻・金工で飾られた仕切り・壁面。" }
+    ],
+    "usages": [
+      { "title": "① 教会の装飾として", "desc": "祭壇の背後の飾り壁を指します。", "example_en": "The carved reredos rose behind the altar.", "example_ja": "彫刻を施した祭壇背障が祭壇の後ろにそびえていた。" },
+      { "title": "② 美術・建築の文脈で", "desc": "宗教美術として表します。", "example_en": "The reredos depicts scenes from the Bible.", "example_ja": "その祭壇背障は聖書の場面を描いている。" }
+    ],
+    "warn": [
+      "reredos は『教会の祭壇の背後を飾る衝立・背障』。発音は『リアドス（ˈrɪərdɒs）』。",
+      "祭壇正面を飾る前飾りは antependium / altar frontal という。"
+    ],
+    "etym_note": "古フランス語 areredos（arere「後ろ」＋ dos「背」＝後ろの背）に由来します。祭壇の『後ろ側』を飾る部分を意味します。dos は dorsal（背の）と同じ語根です。",
+    "etym_chain": [
+      { "node": "arere + dos", "sub": "後ろ＋背", "era": "古フランス語" },
+      { "node": "reredos", "sub": "祭壇背障", "era": "中英語" },
+      { "node": "reredos", "sub": "祭壇背後の衝立", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a carved reredos", "ja": "彫刻の祭壇背障" },
+      { "en": "behind the altar", "ja": "祭壇の後ろに" },
+      { "en": "a gilded reredos", "ja": "金箔の祭壇背障" },
+      { "en": "a stone reredos", "ja": "石の祭壇背障" },
+      { "en": "the medieval reredos", "ja": "中世の祭壇背障" },
+      { "en": "an ornate reredos", "ja": "華麗な祭壇背障" }
+    ],
+    "related": [
+      { "en": "altar", "ja": "祭壇" },
+      { "en": "altarpiece", "ja": "祭壇画" },
+      { "en": "chancel", "ja": "内陣" },
+      { "en": "screen", "ja": "衝立・仕切り" }
+    ],
+    "faq": [
+      { "q": "reredos とはどんな意味？", "a": "教会で祭壇の背後に立てられた、絵画・彫刻・金工で飾られた衝立・壁面『祭壇背障』のことです。" },
+      { "q": "reredos の語源は？", "a": "古フランス語 areredos（後ろの背）です。arere（後ろ）＋ dos（背）から成り、祭壇の後ろ側を飾る部分を意味します。" }
+    ],
+    "quiz": [
+      { "q": "The carved ___ rose behind the altar.（祭壇背障）", "A": "reredos", "B": "rendezvous の会合", "C": "repertoire のレパートリー", "D": "reservoir の貯水池", "correct": "A" },
+      { "q": "reredos はどこに置かれる？", "A": "祭壇の背後", "B": "教会の入口", "C": "鐘楼の上", "D": "地下室", "correct": "A" }
+    ]
+  },
+  {
+    "english": "regnant",
+    "pron": "ˈreɡnənt",
+    "kana": "レグナント",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 regnare（君臨する）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "文語"],
+    "meaning_main": "（自らの権利で）統治している・現に君臨する／（風潮などが）支配的な",
+    "description": "regnant の意味・発音・例文・語源を解説。自らの権利で「現に統治している」君主や、「支配的な」風潮を表す文語的な語の使い方を紹介します。",
+    "keywords": ["regnant 意味", "regnant 発音", "queen regnant 意味", "regnant 統治"],
+    "meanings": [
+      { "hinshi": "【形容詞】（自らの権利で）統治している・現に君臨する", "note": "名詞の後ろに置く。queen regnant（女王＝自らの権利で統治する女王）。配偶者の queen consort と区別する。" },
+      { "hinshi": "【形容詞】（風潮・考えが）支配的な・広く行き渡った", "note": "the regnant ideology（支配的な思想）。" }
+    ],
+    "usages": [
+      { "title": "① 「現に統治する」として", "desc": "自らの権利で君臨する君主を表します。", "example_en": "She ruled as queen regnant, not as a consort.", "example_ja": "彼女は配偶者ではなく、自らの権利で統治する女王だった。" },
+      { "title": "② 「支配的な」として", "desc": "広く行き渡った風潮を表します。", "example_en": "The regnant view favored free trade.", "example_ja": "支配的な見解は自由貿易を支持していた。" }
+    ],
+    "warn": [
+      "regnant は『現に統治している・支配的な』という文語的な語。queen regnant（統治する女王）が代表的な使い方で、名詞の後ろに置く。",
+      "queen consort（王の妻としての王妃）と区別する。"
+    ],
+    "etym_note": "ラテン語 regnare（君臨する・統治する、rex「王」より）の現在分詞 regnans に由来します。reign（治世）や regal（王の）と同じ語根 rex をもちます。",
+    "etym_chain": [
+      { "node": "rex", "sub": "王", "era": "ラテン語" },
+      { "node": "regnare", "sub": "君臨する", "era": "ラテン語" },
+      { "node": "regnant", "sub": "統治している・支配的な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "queen regnant", "ja": "（自らの権利で統治する）女王" },
+      { "en": "king regnant", "ja": "（自らの権利で統治する）王" },
+      { "en": "the regnant monarch", "ja": "現に君臨する君主" },
+      { "en": "the regnant view", "ja": "支配的な見解" },
+      { "en": "the regnant ideology", "ja": "支配的な思想" },
+      { "en": "a regnant power", "ja": "支配的な勢力" }
+    ],
+    "related": [
+      { "en": "reign", "ja": "治世・君臨する" },
+      { "en": "regal", "ja": "王の" },
+      { "en": "ruling", "ja": "統治している" },
+      { "en": "dominant", "ja": "支配的な" }
+    ],
+    "faq": [
+      { "q": "regnant とはどんな意味？", "a": "自らの権利で『現に統治している』という意味と、風潮や考えが『支配的な』という意味があります。queen regnant（統治する女王）のように名詞の後ろに置いて使います。" },
+      { "q": "queen regnant と queen consort の違いは？", "a": "queen regnant は『自らの権利で統治する女王』、queen consort は『王の妻としての王妃』です。" }
+    ],
+    "quiz": [
+      { "q": "She ruled as queen ___, not as a consort.（統治する）", "A": "regnant", "B": "reluctant の気が進まない", "C": "redundant の余分な", "D": "resonant の代わりに resistant", "correct": "A" },
+      { "q": "regnant と同じ語根 rex をもつのはどれ？", "A": "regal（王の）", "B": "regular（規則的な）", "C": "region（地域）", "D": "register（登録）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ratafia",
+    "pron": "ˌrætəˈfiːə",
+    "kana": "ラタフィア",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 ratafia（果実酒）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "食べ物・飲み物"],
+    "meaning_main": "ラタフィア（果実やアーモンドで香りづけしたリキュール／アーモンド風味の小さなビスケット）",
+    "description": "ratafia の意味・発音・例文・語源を解説。果実やアーモンドで香りづけした甘いリキュールや、それに使う小さなビスケット「ラタフィア」を指す語の使い方を紹介します。",
+    "keywords": ["ratafia 意味", "ratafia 発音", "ratafia リキュール", "ratafia ビスケット"],
+    "meanings": [
+      { "hinshi": "【名詞】ラタフィア（リキュール）", "note": "果実やアーモンドの核（仁）で香りづけした甘いリキュール。" },
+      { "hinshi": "【名詞】ラタフィア（ビスケット）", "note": "アーモンド風味の小さな焼き菓子。マカロンに似た口当たり。" }
+    ],
+    "usages": [
+      { "title": "① 飲み物として", "desc": "果実・アーモンド風味の甘い酒を指します。", "example_en": "They sipped cherry ratafia after dinner.", "example_ja": "彼らは夕食後にチェリーのラタフィアを少しずつ飲んだ。" },
+      { "title": "② 菓子として", "desc": "アーモンド風味の小さな焼き菓子を表します。", "example_en": "The trifle was topped with crushed ratafias.", "example_ja": "そのトライフルは砕いたラタフィアビスケットがのっていた。" }
+    ],
+    "warn": [
+      "ratafia は『果実・アーモンド風味の甘いリキュール』と『アーモンド風味の小さなビスケット』の二つの意味がある。",
+      "発音は『ラタフィア（ˌrætəˈfiːə）』。"
+    ],
+    "etym_note": "フランス語 ratafia に由来し、語源には諸説あります（祝杯の言葉に由来するなど）。果実の核やアーモンドで香りづけした甘い酒・菓子を指す語として使われます。",
+    "etym_chain": [
+      { "node": "ratafia", "sub": "果実酒", "era": "フランス語" },
+      { "node": "ratafia", "sub": "ラタフィア", "era": "近代英語" },
+      { "node": "ratafia", "sub": "ラタフィア（酒・菓子）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "cherry ratafia", "ja": "チェリーのラタフィア" },
+      { "en": "a glass of ratafia", "ja": "ラタフィア1杯" },
+      { "en": "almond ratafia", "ja": "アーモンドのラタフィア" },
+      { "en": "ratafia biscuits", "ja": "ラタフィアビスケット" },
+      { "en": "crushed ratafias", "ja": "砕いたラタフィア" },
+      { "en": "sip ratafia", "ja": "ラタフィアを少しずつ飲む" }
+    ],
+    "related": [
+      { "en": "liqueur", "ja": "リキュール" },
+      { "en": "cordial", "ja": "コーディアル・甘い酒" },
+      { "en": "macaroon", "ja": "マカロン" },
+      { "en": "almond", "ja": "アーモンド" }
+    ],
+    "faq": [
+      { "q": "ratafia とはどんな意味？", "a": "果実やアーモンドの核で香りづけした甘いリキュール、またはアーモンド風味の小さなビスケットを指します。文脈によって飲み物か菓子かが変わります。" },
+      { "q": "ratafia のビスケットはどんなもの？", "a": "アーモンド風味の小さな焼き菓子で、マカロンに似た口当たりです。デザートの飾りや材料に使われます。" }
+    ],
+    "quiz": [
+      { "q": "They sipped cherry ___ after dinner.（ラタフィア）", "A": "ratafia", "B": "ratatouille のラタトゥイユ", "C": "rutabaga のルタバガ", "D": "ravioli のラビオリ", "correct": "A" },
+      { "q": "ratafia の風味づけに使われるのはどれ？", "A": "果実やアーモンド", "B": "唐辛子", "C": "塩", "D": "コーヒー", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rondure",
+    "pron": "ˈrɒndjʊər",
+    "kana": "ロンデュア",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 rondeur（丸み）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "文語・詩語"],
+    "meaning_main": "丸み・円・球状のもの（詩的・文語的な言い方）",
+    "description": "rondure の意味・発音・例文・語源を解説。「丸み・円・球状のもの」を表す詩的・文語的な語 rondure の使い方を、例文や語源とともに紹介します。",
+    "keywords": ["rondure 意味", "rondure 発音", "rondure 丸み", "rondure 円"],
+    "meanings": [
+      { "hinshi": "【名詞】丸み・円・球状のもの", "note": "円形・球形やその丸みを表す詩的・文語的な語。the rondure of the earth（地球の丸み）。" }
+    ],
+    "usages": [
+      { "title": "① 「丸み・円」として", "desc": "丸い形やその丸みを表します。", "example_en": "The poet praised the rondure of the moon.", "example_ja": "詩人は月の丸みをたたえた。" },
+      { "title": "② 文学的な描写で", "desc": "球状のものを詩的に表します。", "example_en": "He spoke of the rondure of the earth.", "example_ja": "彼は地球の丸みについて語った。" }
+    ],
+    "warn": [
+      "rondure は『丸み・円・球状』を表す詩的・文語的な語。日常では roundness / circle が普通。",
+      "シェイクスピアのソネットなどに見られる古風な語。"
+    ],
+    "etym_note": "フランス語 rondeur（丸み、rond「丸い」より）に由来します。round（丸い）や rotund（丸々とした）と同じ語根 rotundus（丸い）につながり、「丸みのあるもの」を詩的に表します。",
+    "etym_chain": [
+      { "node": "rotundus", "sub": "丸い", "era": "ラテン語" },
+      { "node": "rondeur", "sub": "丸み", "era": "フランス語" },
+      { "node": "rondure", "sub": "丸み・円", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the rondure of the earth", "ja": "地球の丸み" },
+      { "en": "the rondure of the moon", "ja": "月の丸み" },
+      { "en": "a perfect rondure", "ja": "完璧な円" },
+      { "en": "the soft rondure", "ja": "やわらかな丸み" },
+      { "en": "the rondure of a dome", "ja": "ドームの丸み" },
+      { "en": "a graceful rondure", "ja": "優美な曲線・丸み" }
+    ],
+    "related": [
+      { "en": "roundness", "ja": "丸さ" },
+      { "en": "curve", "ja": "曲線" },
+      { "en": "sphere", "ja": "球" },
+      { "en": "circle", "ja": "円" }
+    ],
+    "faq": [
+      { "q": "rondure とはどんな意味？", "a": "『丸み・円・球状のもの』を表す詩的・文語的な語です。the rondure of the earth（地球の丸み）のように使います。日常では roundness が普通です。" },
+      { "q": "rondure の語源は？", "a": "フランス語 rondeur（丸み）です。round（丸い）や rotund（丸々とした）と同じ語根で、丸みのあるものを詩的に表します。" }
+    ],
+    "quiz": [
+      { "q": "The poet praised the ___ of the moon.（丸み）", "A": "rondure", "B": "rondo のロンド", "C": "rapture のうっとり", "D": "rupture の破裂", "correct": "A" },
+      { "q": "rondure と同じ語根をもつのはどれ？", "A": "round（丸い）", "B": "rude（無礼な）", "C": "ruin（廃墟）", "D": "rust（さび）", "correct": "A" }
+    ]
+  }
+]
