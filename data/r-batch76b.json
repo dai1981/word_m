@@ -1,0 +1,55 @@
+[
+  {
+    "english": "richness",
+    "pron": "ˈrɪtʃnəs",
+    "kana": "リッチネス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rich（豊かな）＋ -ness",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "豊かさ・豊富さ／（味・色の）濃厚さ・深み",
+    "description": "richness の意味・発音・例文・語源を解説。内容や資源の「豊かさ・豊富さ」、また味や色の「濃厚さ・深み」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["richness 意味", "richness 発音", "richness 豊かさ", "richness 濃厚"],
+    "meanings": [
+      { "hinshi": "【名詞】豊かさ・豊富さ", "note": "内容・資源・多様性などが豊かであること。the richness of the culture（文化の豊かさ）。" },
+      { "hinshi": "【名詞】（味・色・音の）濃厚さ・深み", "note": "こってりとした濃さや深い味わい。the richness of the sauce（ソースの濃厚さ）。" }
+    ],
+    "usages": [
+      { "title": "① 「豊かさ・豊富さ」として", "desc": "内容や多様性の豊かさを表します。", "example_en": "I admire the richness of the local culture.", "example_ja": "私はその土地の文化の豊かさに感心する。" },
+      { "title": "② 「濃厚さ・深み」として", "desc": "味や色の濃さ・深みを表します。", "example_en": "The cream adds richness to the soup.", "example_ja": "生クリームがスープに濃厚さを加える。" }
+    ],
+    "warn": [
+      "richness は『豊かさ』だけでなく、味・色・音の『濃厚さ・深み』も表す。形容詞は rich。",
+      "金銭的な『富』そのものは wealth / riches を使うことが多い。"
+    ],
+    "etym_note": "rich（豊かな・濃厚な）に「状態・性質」を表す -ness が付いた語です。rich は古英語 rīce（力ある・富んだ）に由来します。",
+    "etym_chain": [
+      { "node": "rīce", "sub": "力ある・富んだ", "era": "古英語" },
+      { "node": "rich", "sub": "豊かな・濃厚な", "era": "中英語" },
+      { "node": "richness", "sub": "豊かさ・濃厚さ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the richness of the culture", "ja": "文化の豊かさ" },
+      { "en": "the richness of the soil", "ja": "土壌の豊かさ" },
+      { "en": "add richness", "ja": "濃厚さを加える" },
+      { "en": "the richness of the flavor", "ja": "味の濃厚さ" },
+      { "en": "a richness of detail", "ja": "細部の豊かさ" },
+      { "en": "the richness of the color", "ja": "色の深み" }
+    ],
+    "related": [
+      { "en": "rich", "ja": "豊かな・濃厚な" },
+      { "en": "abundance", "ja": "豊富さ" },
+      { "en": "depth", "ja": "深み" },
+      { "en": "wealth", "ja": "富" }
+    ],
+    "faq": [
+      { "q": "richness とはどんな意味？", "a": "内容・資源・多様性などの『豊かさ・豊富さ』という意味と、味・色・音の『濃厚さ・深み』という意味があります。形容詞は rich です。" },
+      { "q": "richness と wealth の違いは？", "a": "richness は『（内容・味などの）豊かさ・濃厚さ』全般、wealth は特に『（金銭的な）富』を指します。" }
+    ],
+    "quiz": [
+      { "q": "The cream adds ___ to the soup.（濃厚さ）", "A": "richness", "B": "rudeness の無礼", "C": "ripeness の熟れ具合", "D": "rustiness のさび", "correct": "A" },
+      { "q": "richness の形容詞形はどれ？", "A": "rich（豊かな）", "B": "ripe（熟した）", "C": "rude（無礼な）", "D": "rusty（さびた）", "correct": "A" }
+    ]
+  }
+]
