@@ -1,0 +1,477 @@
+[
+  {
+    "english": "refurbish",
+    "pron": "ˌriːˈfɜːrbɪʃ",
+    "kana": "リファービッシュ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ furbish（磨く）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "改装する・一新する・（中古品を）整備し直す",
+    "description": "refurbish の意味・発音・例文・語源を解説。建物や中古品を「きれいに直して一新する」使い方や、renovate との近さも分かりやすく紹介します。",
+    "keywords": ["refurbish 意味", "refurbish 発音", "refurbished 意味", "refurbish 改装"],
+    "meanings": [
+      { "hinshi": "【動詞】改装する・一新する", "note": "建物や部屋をきれいに直す。refurbish a hotel（ホテルを改装する）。" },
+      { "hinshi": "【動詞】（中古品を）整備し直す・再生する", "note": "a refurbished phone（整備済みの中古スマホ）。" }
+    ],
+    "usages": [
+      { "title": "① 「改装する・一新する」として", "desc": "古いものをきれいに直す意味です。", "example_en": "The library was recently refurbished.", "example_ja": "その図書館は最近改装された。" },
+      { "title": "② 「（中古品を）整備し直す」として", "desc": "中古品を点検・修理して再生する意味です。", "example_en": "I bought a refurbished laptop.", "example_ja": "私は整備済みの中古ノートパソコンを買った。" }
+    ],
+    "warn": [
+      "refurbished は『（点検・修理済みの）再生品』。中古品販売でよく見る語。",
+      "renovate（建物を改装する）に近いが、refurbish は『きれいに磨き直す』ニュアンス。"
+    ],
+    "etym_note": "re-（再び）＋ furbish（磨く。古フランス語 forbir「磨く」から）の構成で、「再び磨いてきれいにする＝一新する」が原義です。",
+    "etym_chain": [
+      { "node": "forbir", "sub": "磨く", "era": "古フランス語" },
+      { "node": "furbish", "sub": "磨く", "era": "中英語" },
+      { "node": "refurbish", "sub": "改装する・一新する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "refurbish a building", "ja": "建物を改装する" },
+      { "en": "a refurbished phone", "ja": "整備済みの中古スマホ" },
+      { "en": "fully refurbished", "ja": "全面改装された" },
+      { "en": "refurbish a room", "ja": "部屋を一新する" },
+      { "en": "newly refurbished", "ja": "新しく改装された" },
+      { "en": "refurbishment", "ja": "改装・整備" }
+    ],
+    "related": [
+      { "en": "renovate", "ja": "改装する" },
+      { "en": "restore", "ja": "修復する" },
+      { "en": "renew", "ja": "新しくする" },
+      { "en": "upgrade", "ja": "改良する" }
+    ],
+    "faq": [
+      { "q": "refurbished とは？", "a": "『（点検・修理して）整備し直された再生品』という意味です。中古のスマホやパソコンの販売でよく使われます。" },
+      { "q": "refurbish と renovate の違いは？", "a": "どちらも『改装する』ですが、refurbish は『きれいに磨き直して一新する』、renovate は『（大規模に）改修する』ニュアンスです。" }
+    ],
+    "quiz": [
+      { "q": "The library was recently ___.（改装された）", "A": "refurbished", "B": "reproduced", "C": "reconsidered", "D": "reinforced", "correct": "A" },
+      { "q": "「整備済みの中古スマホ」を表すのはどれ？", "A": "a refurbished phone", "B": "a refused phone", "C": "a refunded phone", "D": "a referred phone", "correct": "A" }
+    ]
+  },
+  {
+    "english": "relegate",
+    "pron": "ˈrelɪɡeɪt",
+    "kana": "レリゲイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 relegare（追いやる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "（低い地位・場所へ）格下げする・追いやる",
+    "description": "relegate の意味・発音・例文・語源を解説。スポーツの「降格させる」や、重要でない地位に「追いやる」使い方を分かりやすく紹介します。",
+    "keywords": ["relegate 意味", "relegate 発音", "relegate 降格", "relegate to 使い方"],
+    "meanings": [
+      { "hinshi": "【動詞】（低い地位・場所へ）格下げする・追いやる", "note": "relegate A to B（AをB（低い位置）へ追いやる）。" },
+      { "hinshi": "【動詞】（スポーツで）降格させる", "note": "be relegated（下位リーグへ降格する）。" }
+    ],
+    "usages": [
+      { "title": "① 「追いやる・格下げする」として", "desc": "重要でない地位・場所へ移す意味です。", "example_en": "The story was relegated to the back page.", "example_ja": "その記事は後ろのページに追いやられた。" },
+      { "title": "② スポーツの「降格」として", "desc": "下位リーグへ落とす意味です。", "example_en": "The team was relegated to the second division.", "example_ja": "そのチームは2部リーグに降格した。" }
+    ],
+    "warn": [
+      "「AをB（低い位置）へ追いやる」は relegate A to B。反対は promote（昇格させる）。",
+      "名詞は relegation（格下げ・降格）。"
+    ],
+    "etym_note": "ラテン語 relegare（re-「離れて」＋ legare「送る」＝追いやる）に由来します。delegate・legate と同じ leg-（送る・任せる）の語根です。",
+    "etym_chain": [
+      { "node": "relegare", "sub": "追いやる", "era": "ラテン語" },
+      { "node": "relegate", "sub": "追いやる", "era": "近代英語" },
+      { "node": "relegate", "sub": "格下げする・降格させる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "relegate A to B", "ja": "AをBへ追いやる" },
+      { "en": "be relegated to", "ja": "〜へ格下げ・降格される" },
+      { "en": "relegate to the bench", "ja": "控えに回す" },
+      { "en": "relegated to obscurity", "ja": "忘れ去られる" },
+      { "en": "avoid relegation", "ja": "降格を免れる" },
+      { "en": "relegated to second division", "ja": "2部に降格した" }
+    ],
+    "related": [
+      { "en": "relegation", "ja": "降格（名詞）" },
+      { "en": "demote", "ja": "降格させる" },
+      { "en": "downgrade", "ja": "格下げする" },
+      { "en": "promote", "ja": "昇格させる（反対語）" }
+    ],
+    "faq": [
+      { "q": "relegate A to B とは？", "a": "『AをB（より低い地位・場所）へ追いやる・格下げする』という意味です。" },
+      { "q": "relegate の反対語は？", "a": "promote（昇格させる・昇進させる）です。スポーツでは promotion（昇格）↔ relegation（降格）です。" }
+    ],
+    "quiz": [
+      { "q": "The team was ___ to the second division.（降格した）", "A": "relegated", "B": "promoted の昇格", "C": "reduced", "D": "removed", "correct": "A" },
+      { "q": "relegate の反対語はどれ？", "A": "promote", "B": "demote", "C": "downgrade", "D": "lower", "correct": "A" }
+    ]
+  },
+  {
+    "english": "replicate",
+    "pron": "ˈreplɪkeɪt",
+    "kana": "レプリケイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 replicare（折り返す・繰り返す）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "理科"],
+    "meaning_main": "複製する・再現する／（細胞などが）自己複製する",
+    "description": "replicate の意味・発音・例文・語源を解説。実験結果を「再現する」、データを「複製する」使い方や、replica（複製）との関係も紹介します。",
+    "keywords": ["replicate 意味", "replicate 発音", "replication 意味", "replica 関係"],
+    "meanings": [
+      { "hinshi": "【動詞】複製する・再現する", "note": "同じものをもう一度作る。replicate an experiment（実験を再現する）。" },
+      { "hinshi": "【動詞】（細胞・ウイルスが）自己複製する", "note": "理科で。Viruses replicate inside cells." }
+    ],
+    "usages": [
+      { "title": "① 「再現する・複製する」として", "desc": "同じ結果やものをもう一度作る意味です。", "example_en": "Scientists tried to replicate the results.", "example_ja": "科学者たちはその結果を再現しようとした。" },
+      { "title": "② 「自己複製する」として", "desc": "理科で細胞やウイルスが増える意味です。", "example_en": "The virus replicates rapidly.", "example_ja": "そのウイルスは急速に自己複製する。" }
+    ],
+    "warn": [
+      "名詞は replication（複製・再現）。replica（複製品）と同じ語源。",
+      "科学では『（実験を）再現する』が重要な意味。"
+    ],
+    "etym_note": "ラテン語 replicare（re-「再び」＋ plicare「折る」＝折り返す・繰り返す）に由来します。reply・replica と同じ plic-（折る）の語根で、「同じものを繰り返し作る」が原義です。",
+    "etym_chain": [
+      { "node": "replicare", "sub": "折り返す・繰り返す", "era": "ラテン語" },
+      { "node": "replicate", "sub": "複製する", "era": "近代英語" },
+      { "node": "replicate", "sub": "複製する・再現する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "replicate an experiment", "ja": "実験を再現する" },
+      { "en": "replicate the results", "ja": "結果を再現する" },
+      { "en": "replicate data", "ja": "データを複製する" },
+      { "en": "difficult to replicate", "ja": "再現が難しい" },
+      { "en": "self-replicate", "ja": "自己複製する" },
+      { "en": "replication", "ja": "複製・再現" }
+    ],
+    "related": [
+      { "en": "replica", "ja": "複製品" },
+      { "en": "reproduce", "ja": "複製・繁殖する" },
+      { "en": "copy", "ja": "複製する" },
+      { "en": "duplicate", "ja": "複製する" }
+    ],
+    "faq": [
+      { "q": "replicate の科学での意味は？", "a": "①『（実験・結果を）再現する』と、②『（細胞・ウイルスが）自己複製する』です。再現性は科学の重要な概念です。" },
+      { "q": "replicate と replica の関係は？", "a": "どちらもラテン語 replicare（繰り返す）由来です。replicate は動詞『複製する』、replica は名詞『複製品』です。" }
+    ],
+    "quiz": [
+      { "q": "Scientists tried to ___ the results.（再現する）", "A": "replicate", "B": "replace の取り替える", "C": "reply", "D": "repeat の繰り返す", "correct": "A" },
+      { "q": "replicate の名詞形はどれ？", "A": "replication", "B": "replicament", "C": "replicance", "D": "replicity", "correct": "A" }
+    ]
+  },
+  {
+    "english": "repercussion",
+    "pron": "ˌriːpərˈkʌʃən",
+    "kana": "リーパーカッション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 repercussio（はね返り）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "名詞"],
+    "meaning_main": "（後に及ぶ悪い）影響・反響・余波",
+    "description": "repercussion の意味・発音・例文・語源を解説。ある出来事の「（のちに及ぶ悪い）影響・余波」の使い方を分かりやすく紹介します。",
+    "keywords": ["repercussion 意味", "repercussion 発音", "repercussions 影響", "repercussion 余波"],
+    "meanings": [
+      { "hinshi": "【名詞】（後に及ぶ悪い）影響・反響・余波", "note": "ふつう複数形。far-reaching repercussions（広範な影響）。" }
+    ],
+    "usages": [
+      { "title": "① 「（のちの悪い）影響・余波」として", "desc": "出来事が後に及ぼす悪い影響を表します。", "example_en": "The decision had serious repercussions.", "example_ja": "その決定は深刻な影響をもたらした。" },
+      { "title": "② 広範な影響として", "desc": "影響が広く及ぶことを表します。", "example_en": "The crisis had repercussions around the world.", "example_ja": "その危機は世界中に余波をもたらした。" }
+    ],
+    "warn": [
+      "ふつう複数形 repercussions で、悪い『影響・余波』を表す。consequence に近いがより『はね返り』のニュアンス。",
+      "percussion（打楽器）と同じ語源（打つ）。"
+    ],
+    "etym_note": "ラテン語 repercussio（re-「逆に」＋ percutere「打つ」＝はね返り）に由来します。percussion（打楽器）と同じ cuss-（打つ）の語根で、「打って跳ね返ってくる影響」が原義です。",
+    "etym_chain": [
+      { "node": "repercussio", "sub": "はね返り", "era": "ラテン語" },
+      { "node": "repercussion", "sub": "反響", "era": "近代英語" },
+      { "node": "repercussion", "sub": "（悪い）影響・余波", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "serious repercussions", "ja": "深刻な影響" },
+      { "en": "far-reaching repercussions", "ja": "広範な余波" },
+      { "en": "have repercussions", "ja": "影響を及ぼす" },
+      { "en": "political repercussions", "ja": "政治的余波" },
+      { "en": "face the repercussions", "ja": "その影響に直面する" },
+      { "en": "economic repercussions", "ja": "経済への余波" }
+    ],
+    "related": [
+      { "en": "consequence", "ja": "結果・影響" },
+      { "en": "effect", "ja": "影響" },
+      { "en": "aftermath", "ja": "余波・影響" },
+      { "en": "impact", "ja": "影響・衝撃" }
+    ],
+    "faq": [
+      { "q": "repercussion とはどんな意味？", "a": "ある出来事が『後になって及ぼす（おもに悪い）影響・余波』のことです。ふつう複数形 repercussions で使います。" },
+      { "q": "repercussion と consequence の違いは？", "a": "どちらも『結果・影響』ですが、repercussion は『（広く・後に）はね返ってくる悪い影響』というニュアンスが強いです。" }
+    ],
+    "quiz": [
+      { "q": "The decision had serious ___.（影響）", "A": "repercussions", "B": "reservations の予約", "C": "reflections", "D": "regulations", "correct": "A" },
+      { "q": "repercussion と同じ語源（打つ）の語はどれ？", "A": "percussion", "B": "river", "C": "ribbon", "D": "ripple", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reprimand",
+    "pron": "ˈreprɪmænd",
+    "kana": "レプリマンド",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "ラテン語 reprimere（抑える・とがめる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "（公式に）叱責する・戒める／叱責",
+    "description": "reprimand の意味・発音・例文・語源を解説。上司などが部下を「（公式に）叱責する」というかたい使い方を分かりやすく紹介します。",
+    "keywords": ["reprimand 意味", "reprimand 発音", "reprimand 叱責", "reprimand for 使い方"],
+    "meanings": [
+      { "hinshi": "【動詞】（公式・厳しく）叱責する・戒める", "note": "立場が上の人が公式に叱る。reprimand someone for（〜のことで叱責する）。" },
+      { "hinshi": "【名詞】叱責・戒告", "note": "a formal reprimand（正式な戒告）。" }
+    ],
+    "usages": [
+      { "title": "① 動詞「叱責する」として", "desc": "上司などが公式に厳しく叱る意味です。", "example_en": "The officer was reprimanded for his behavior.", "example_ja": "その警官は行動を叱責された。" },
+      { "title": "② 名詞「叱責」として", "desc": "公式な戒告を表します。", "example_en": "She received a formal reprimand.", "example_ja": "彼女は正式な戒告を受けた。" }
+    ],
+    "warn": [
+      "reprimand は『（公式・職務上の）厳しい叱責』。scold（しかる）より改まった語。",
+      "「〜のことで叱責する」は reprimand someone for。"
+    ],
+    "etym_note": "ラテン語 reprimere（re-「逆に」＋ premere「押す」＝抑える・とがめる）に由来します。press・suppress と同じ prem-（押す）の語根です。",
+    "etym_chain": [
+      { "node": "reprimere", "sub": "抑える・とがめる", "era": "ラテン語" },
+      { "node": "reprimande", "sub": "叱責", "era": "フランス語" },
+      { "node": "reprimand", "sub": "叱責する・叱責", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reprimand someone for", "ja": "〜のことで叱責する" },
+      { "en": "a formal reprimand", "ja": "正式な戒告" },
+      { "en": "be reprimanded", "ja": "叱責される" },
+      { "en": "a severe reprimand", "ja": "厳しい叱責" },
+      { "en": "issue a reprimand", "ja": "戒告を出す" },
+      { "en": "a written reprimand", "ja": "書面での戒告" }
+    ],
+    "related": [
+      { "en": "scold", "ja": "しかる" },
+      { "en": "rebuke", "ja": "叱責する" },
+      { "en": "criticize", "ja": "批判する" },
+      { "en": "praise", "ja": "ほめる（反対語）" }
+    ],
+    "faq": [
+      { "q": "reprimand と scold の違いは？", "a": "scold は『（一般的に・口頭で）しかる』、reprimand は『（公式・職務上）厳しく叱責する』というかたい語です。" },
+      { "q": "reprimand のあとの前置詞は？", "a": "for です。reprimand him for being late（遅刻したことで彼を叱責する）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The officer was ___ for his behavior.（叱責された）", "A": "reprimanded", "B": "recommended の推薦", "C": "reproduced", "D": "reconsidered", "correct": "A" },
+      { "q": "「〜のことで叱責する」を表すのはどれ？", "A": "reprimand someone for", "B": "reprimand someone to", "C": "reprimand someone at", "D": "reprimand someone of", "correct": "A" }
+    ]
+  },
+  {
+    "english": "requisite",
+    "pron": "ˈrekwɪzɪt",
+    "kana": "レクイジット",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "形容詞・名詞",
+    "ld_etym": "ラテン語 requisitus（必要とされた）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "形容詞"],
+    "meaning_main": "必要な・不可欠な／必要条件・必需品",
+    "description": "requisite の意味・発音・例文・語源を解説。「必要な・不可欠な」というかたい語の使い方や、prerequisite（前提条件）との関係も紹介します。",
+    "keywords": ["requisite 意味", "requisite 発音", "prerequisite 違い", "requisite 必要な"],
+    "meanings": [
+      { "hinshi": "【形容詞】必要な・不可欠な", "note": "あることに欠かせない。the requisite skills（必要な技能）。" },
+      { "hinshi": "【名詞】必要条件・必需品", "note": "a requisite for success（成功の必要条件）。" }
+    ],
+    "usages": [
+      { "title": "① 形容詞「必要な」として", "desc": "あることに欠かせない意味です（かたい語）。", "example_en": "He has the requisite experience for the job.", "example_ja": "彼はその仕事に必要な経験を持っている。" },
+      { "title": "② 名詞「必要条件」として", "desc": "欠かせない条件・物を表します。", "example_en": "Patience is a requisite for teaching.", "example_ja": "忍耐は教えることの必要条件だ。" }
+    ],
+    "warn": [
+      "requisite は require（必要とする）と同語源のかたい語。necessary に近い。",
+      "prerequisite は『前提条件・（履修の）必修科目』。require・request と同じ語源。"
+    ],
+    "etym_note": "ラテン語 requisitus（requirere「必要とする」の過去分詞＝必要とされた）に由来します。require・request・inquire と同じ quaer-（求める）の語根です。",
+    "etym_chain": [
+      { "node": "requirere", "sub": "必要とする", "era": "ラテン語" },
+      { "node": "requisitus", "sub": "必要とされた", "era": "ラテン語" },
+      { "node": "requisite", "sub": "必要な・必要条件", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the requisite skills", "ja": "必要な技能" },
+      { "en": "requisite experience", "ja": "必要な経験" },
+      { "en": "a requisite for", "ja": "〜の必要条件" },
+      { "en": "the requisite amount", "ja": "必要な量" },
+      { "en": "lack the requisite", "ja": "必要なものを欠く" },
+      { "en": "prerequisite", "ja": "前提条件・必修科目" }
+    ],
+    "related": [
+      { "en": "require", "ja": "必要とする" },
+      { "en": "necessary", "ja": "必要な" },
+      { "en": "essential", "ja": "不可欠な" },
+      { "en": "prerequisite", "ja": "前提条件" }
+    ],
+    "faq": [
+      { "q": "requisite と necessary の違いは？", "a": "意味はほぼ同じ『必要な』ですが、requisite はよりかたく形式的な語です。the requisite qualifications（必要な資格）のように使います。" },
+      { "q": "prerequisite との違いは？", "a": "prerequisite は『前提条件・（あらかじめ満たすべき）必須要件・必修科目』で、pre-（前）がついた語です。" }
+    ],
+    "quiz": [
+      { "q": "He has the ___ experience for the job.（必要な）", "A": "requisite", "B": "request の依頼", "C": "require の動詞", "D": "rescue", "correct": "A" },
+      { "q": "requisite と同じ語源（求める）の語はどれ？", "A": "require", "B": "river", "C": "ribbon", "D": "ripple", "correct": "A" }
+    ]
+  },
+  {
+    "english": "resonate",
+    "pron": "ˈrezəneɪt",
+    "kana": "レゾネイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 resonare（鳴り響く）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "鳴り響く・反響する／（心に）響く・共感を呼ぶ",
+    "description": "resonate の意味・発音・例文・語源を解説。音が「鳴り響く」と、考えが「心に響く・共感を呼ぶ」という現代頻出の使い方を分かりやすく紹介します。",
+    "keywords": ["resonate 意味", "resonate 発音", "resonate with 使い方", "resonate 共感"],
+    "meanings": [
+      { "hinshi": "【動詞】鳴り響く・反響する", "note": "音が共鳴して響く。" },
+      { "hinshi": "【動詞】（心に）響く・共感を呼ぶ", "note": "resonate with（〜の心に響く・共感される）。" }
+    ],
+    "usages": [
+      { "title": "① 「心に響く・共感を呼ぶ」として", "desc": "考え・言葉が人の心に強く訴える意味です。", "example_en": "Her message resonated with young people.", "example_ja": "彼女のメッセージは若者の心に響いた。" },
+      { "title": "② 「鳴り響く」として", "desc": "音が共鳴して響く意味です。", "example_en": "His voice resonated through the hall.", "example_ja": "彼の声はホール中に響き渡った。" }
+    ],
+    "warn": [
+      "「〜の心に響く・共感される」は resonate with someone。現代のビジネス・マーケティングで頻出。",
+      "名詞は resonance（共鳴・反響）。sound・sonic と同じ son-（音）の語源。"
+    ],
+    "etym_note": "ラテン語 resonare（re-「再び」＋ sonare「鳴る」＝鳴り響く）に由来します。sound・sonic・resonance と同じ son-（音）の語根です。",
+    "etym_chain": [
+      { "node": "resonare", "sub": "鳴り響く", "era": "ラテン語" },
+      { "node": "resonate", "sub": "共鳴する", "era": "近代英語" },
+      { "node": "resonate", "sub": "鳴り響く・心に響く", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "resonate with", "ja": "〜の心に響く・共感される" },
+      { "en": "deeply resonate", "ja": "深く心に響く" },
+      { "en": "resonate through", "ja": "〜に鳴り響く" },
+      { "en": "a message that resonates", "ja": "心に響くメッセージ" },
+      { "en": "strike a resonance", "ja": "共鳴を呼ぶ" },
+      { "en": "resonance", "ja": "共鳴・反響" }
+    ],
+    "related": [
+      { "en": "resonance", "ja": "共鳴（名詞）" },
+      { "en": "echo", "ja": "反響する" },
+      { "en": "relate to", "ja": "共感する" },
+      { "en": "appeal", "ja": "訴える" }
+    ],
+    "faq": [
+      { "q": "resonate with someone とは？", "a": "『（言葉・考えが）人の心に響く・共感される』という意味です。現代のビジネスやマーケティングでよく使われます。" },
+      { "q": "resonate の名詞形は？", "a": "resonance（共鳴・反響）です。" }
+    ],
+    "quiz": [
+      { "q": "Her message ___ with young people.（心に響いた）", "A": "resonated", "B": "reserved の予約", "C": "removed", "D": "reduced", "correct": "A" },
+      { "q": "resonate と同じ語源（音）の語はどれ？", "A": "sound", "B": "river", "C": "ribbon", "D": "ripple", "correct": "A" }
+    ]
+  },
+  {
+    "english": "respite",
+    "pron": "ˈrespɪt",
+    "kana": "レスピット",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 respectus（顧みること・猶予）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "名詞"],
+    "meaning_main": "（つらいことの）一時的な休止・小休止・猶予",
+    "description": "respite の意味・発音・例文・語源を解説。苦痛や忙しさからの「一時的な休止・ひと息」の使い方を分かりやすく紹介します。",
+    "keywords": ["respite 意味", "respite 発音", "respite from 使い方", "respite 休止"],
+    "meanings": [
+      { "hinshi": "【名詞】（つらいことの）一時的な休止・小休止・猶予", "note": "苦痛・忙しさからのひと息。a brief respite（つかの間の休息）。" }
+    ],
+    "usages": [
+      { "title": "① 「一時的な休止・ひと息」として", "desc": "つらい状況からの一時的な休みを表します。", "example_en": "The rain gave us a brief respite from the heat.", "example_ja": "雨は暑さからのつかの間の休息を与えてくれた。" },
+      { "title": "② respite from として", "desc": "「〜からの休止」を表します。", "example_en": "There was no respite from the noise.", "example_ja": "騒音から逃れられる時はなかった。" }
+    ],
+    "warn": [
+      "「〜からの休止」は respite from。respect と同じ語源だが意味は別。",
+      "respite care は『（介護者の）一時休息のためのレスパイトケア』。"
+    ],
+    "etym_note": "ラテン語 respectus（顧みること・猶予。respicere「振り返って見る」から）に由来します。respect と同じ語源で、「（処罰などを）見送ること＝猶予・小休止」が原義です。",
+    "etym_chain": [
+      { "node": "respectus", "sub": "顧みること・猶予", "era": "ラテン語" },
+      { "node": "respit", "sub": "猶予", "era": "古フランス語" },
+      { "node": "respite", "sub": "一時的な休止・猶予", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a brief respite", "ja": "つかの間の休息" },
+      { "en": "respite from", "ja": "〜からの休止" },
+      { "en": "without respite", "ja": "休みなく" },
+      { "en": "a welcome respite", "ja": "ありがたい休息" },
+      { "en": "offer respite", "ja": "ひと息つかせる" },
+      { "en": "respite care", "ja": "レスパイトケア（一時休息介護）" }
+    ],
+    "related": [
+      { "en": "break", "ja": "休憩" },
+      { "en": "rest", "ja": "休息" },
+      { "en": "pause", "ja": "中断" },
+      { "en": "relief", "ja": "軽減・安心" }
+    ],
+    "faq": [
+      { "q": "respite とはどんな意味？", "a": "『（つらいこと・忙しさからの）一時的な休止・ひと息・猶予』という意味です。a respite from work（仕事からのひと休み）のように使います。" },
+      { "q": "respite care とは？", "a": "介護をしている家族などが一時的に休めるよう、代わりに介護を引き受ける『レスパイトケア（一時休息介護）』のことです。" }
+    ],
+    "quiz": [
+      { "q": "The rain gave us a brief ___ from the heat.（休息）", "A": "respite", "B": "respect の尊敬", "C": "response", "D": "respond", "correct": "A" },
+      { "q": "「〜からの休止」を表すのはどれ？", "A": "respite from", "B": "respite of", "C": "respite to", "D": "respite at", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rogue",
+    "pron": "roʊɡ",
+    "kana": "ロウグ",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞・形容詞",
+    "ld_etym": "由来不明（16世紀の浮浪者を指す語）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "多義語"],
+    "meaning_main": "悪党・ならず者／（群れを離れて）凶暴な・無法な",
+    "description": "rogue の意味・発音・例文・語源を解説。「悪党・ならず者」や、形容詞「無法な・予測不能な（rogue state など）」の使い方を分かりやすく紹介します。",
+    "keywords": ["rogue 意味", "rogue 発音", "rogue state 意味", "go rogue 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】悪党・ならず者・いたずら者", "note": "悪賢い人。時に愛嬌のある『困った人』にも。" },
+      { "hinshi": "【形容詞】（群れを離れて）凶暴な・無法な・制御不能な", "note": "a rogue elephant（群れを離れた凶暴な象）、a rogue state（ならず者国家）。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「悪党・ならず者」として", "desc": "悪賢い人・困った人を表します。", "example_en": "He's a bit of a rogue, but everyone likes him.", "example_ja": "彼はちょっとした悪党だが、みんなに好かれている。" },
+      { "title": "② 形容詞「無法な・制御不能な」として", "desc": "規律を外れて勝手に動く様子を表します。", "example_en": "A rogue trader caused huge losses.", "example_ja": "規律を破ったトレーダーが巨額の損失を出した。" }
+    ],
+    "warn": [
+      "go rogue は『（組織の）統制を離れて勝手に行動する』。a rogue state は『（国際秩序を無視する）ならず者国家』。",
+      "発音は /roʊɡ/「ロウグ」。"
+    ],
+    "etym_note": "16世紀ごろに浮浪者・物乞いを指す語として現れた、由来のはっきりしない語です。そこから『悪党・ならず者』、さらに『群れを離れて凶暴な・無法な』へと意味が広がりました。",
+    "etym_chain": [
+      { "node": "rogue", "sub": "浮浪者・悪党", "era": "16世紀英語" },
+      { "node": "rogue", "sub": "悪党・無法な", "era": "近代英語" },
+      { "node": "rogue", "sub": "悪党・無法な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "go rogue", "ja": "統制を離れて勝手に動く" },
+      { "en": "a rogue state", "ja": "ならず者国家" },
+      { "en": "a rogue trader", "ja": "不正なトレーダー" },
+      { "en": "a lovable rogue", "ja": "愛嬌のある悪党" },
+      { "en": "a rogue elephant", "ja": "群れを離れた凶暴な象" },
+      { "en": "a rogue wave", "ja": "巨大な異常波" }
+    ],
+    "related": [
+      { "en": "villain", "ja": "悪役・悪党" },
+      { "en": "rascal", "ja": "いたずら者・悪党" },
+      { "en": "outlaw", "ja": "無法者" },
+      { "en": "renegade", "ja": "裏切り者・反逆者" }
+    ],
+    "faq": [
+      { "q": "go rogue とは？", "a": "『（組織・命令の）統制を離れて勝手に行動する・暴走する』という意味です。" },
+      { "q": "a rogue state とは？", "a": "国際的なルールや人権を無視して行動するとみなされる『ならず者国家』のことです。" }
+    ],
+    "quiz": [
+      { "q": "A ___ trader caused huge losses.（不正な）", "A": "rogue", "B": "rouge の口紅", "C": "rough", "D": "rough の誤り", "correct": "A" },
+      { "q": "「統制を離れて勝手に動く」を表すのはどれ？", "A": "go rogue", "B": "go rough", "C": "go round", "D": "go rural", "correct": "A" }
+    ]
+  }
+]

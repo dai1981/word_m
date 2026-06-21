@@ -1,0 +1,54 @@
+[
+  {
+    "english": "rotgut",
+    "pron": "ˈrɒtɡʌt",
+    "kana": "ロットガット",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rot（腐らせる）＋ gut（はらわた）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "口語"],
+    "meaning_main": "（粗悪で害になりそうな）安酒・粗悪な酒",
+    "description": "rotgut の意味・発音・例文・語源を解説。質の悪い、飲むと体に悪そうな「安酒・粗悪な酒」を表すくだけた語の使い方を分かりやすく紹介します。",
+    "keywords": ["rotgut 意味", "rotgut 発音", "rotgut 安酒", "rotgut 粗悪な酒"],
+    "meanings": [
+      { "hinshi": "【名詞】安酒・粗悪な酒", "note": "質が悪く、飲むと胃腸を痛めそうな安い蒸留酒。さげすみの込もったくだけた語。" }
+    ],
+    "usages": [
+      { "title": "① 「安酒」として", "desc": "質の悪い酒をさげすんで表します。", "example_en": "The bar served cheap rotgut whiskey.", "example_ja": "そのバーは安物のひどいウイスキーを出した。" },
+      { "title": "② 口語的な非難で", "desc": "粗悪な酒を強く批判します。", "example_en": "I won't drink that rotgut.", "example_ja": "あんな粗悪な酒は飲まないよ。" }
+    ],
+    "warn": [
+      "rotgut は『質の悪い安酒』を表すくだけた・さげすんだ語。rot（腐らせる）＋ gut（はらわた）から『はらわたを痛める酒』。",
+      "発音は『ロットガット（ˈrɒtɡʌt）』。"
+    ],
+    "etym_note": "rot（腐らせる・だめにする）＋ gut（はらわた・腸）から成り、「はらわたを痛める（ような粗悪な）酒」を意味します。質の悪い蒸留酒をさげすんで言う語です。",
+    "etym_chain": [
+      { "node": "rot + gut", "sub": "腐らせる＋はらわた", "era": "近代英語" },
+      { "node": "rotgut", "sub": "はらわたを痛める酒", "era": "近代英語" },
+      { "node": "rotgut", "sub": "安酒・粗悪な酒", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "cheap rotgut", "ja": "安物のひどい酒" },
+      { "en": "rotgut whiskey", "ja": "粗悪なウイスキー" },
+      { "en": "a bottle of rotgut", "ja": "粗悪な酒1本" },
+      { "en": "drink rotgut", "ja": "安酒を飲む" },
+      { "en": "homemade rotgut", "ja": "自家製の粗悪な酒" },
+      { "en": "nothing but rotgut", "ja": "ひどい安酒ばかり" }
+    ],
+    "related": [
+      { "en": "moonshine", "ja": "密造酒" },
+      { "en": "swill", "ja": "まずい飲み物・残飯" },
+      { "en": "hooch", "ja": "（密造の）安酒" },
+      { "en": "plonk", "ja": "安物のワイン（英俗）" }
+    ],
+    "faq": [
+      { "q": "rotgut とはどんな意味？", "a": "質が悪く、飲むと胃腸を痛めそうな『安酒・粗悪な酒』を表すくだけた・さげすんだ語です。rot（腐らせる）＋ gut（はらわた）から来ています。" },
+      { "q": "rotgut と moonshine の違いは？", "a": "moonshine は『密造酒（違法に作られた酒）』、rotgut は『質の悪い安酒』全般を指すさげすみの語です。重なることもあります。" }
+    ],
+    "quiz": [
+      { "q": "The bar served cheap ___ whiskey.（安物のひどい）", "A": "rotgut", "B": "ragtime のラグタイム", "C": "rampart の城壁", "D": "rucksack のリュック", "correct": "A" },
+      { "q": "rotgut を構成する語はどれ？", "A": "rot（腐らせる）＋ gut（はらわた）", "B": "rot ＋ cut", "C": "rod ＋ gut", "D": "roe ＋ gut", "correct": "A" }
+    ]
+  }
+]

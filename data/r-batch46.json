@@ -1,0 +1,525 @@
+[
+  {
+    "english": "reaffirm",
+    "pron": "ˌriːəˈfɜːrm",
+    "kana": "リーアファーム",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ affirm（断言する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "改めて断言する・再確認する・再表明する",
+    "description": "reaffirm の意味・発音・例文・語源を解説。立場や約束を「改めて表明する・再確認する」使い方を分かりやすく紹介します。",
+    "keywords": ["reaffirm 意味", "reaffirm 発音", "reaffirm commitment 意味", "reaffirm 再確認"],
+    "meanings": [
+      { "hinshi": "【動詞】改めて断言する・再確認する・再表明する", "note": "以前の立場・約束を改めて述べる。reaffirm a commitment（約束を再確認する）。" }
+    ],
+    "usages": [
+      { "title": "① 「改めて表明する」として", "desc": "立場や決意を再び述べる意味です。", "example_en": "The leader reaffirmed his commitment to peace.", "example_ja": "指導者は平和への決意を改めて表明した。" },
+      { "title": "② 「再確認する」として", "desc": "信念や支持を改めて確かめる意味です。", "example_en": "The vote reaffirmed public support.", "example_ja": "その投票は世論の支持を再確認した。" }
+    ],
+    "warn": [
+      "re-（再び）＋ affirm（断言する）。reiterate（繰り返し述べる）に近い。",
+      "名詞は reaffirmation（再確認・再表明）。"
+    ],
+    "etym_note": "接頭辞 re-（再び）と affirm（断言する。ラテン語 firmus「堅い」から）を組み合わせた語で、「改めて堅く述べる＝再確認する」が原義です。firm・confirm と同じ語源です。",
+    "etym_chain": [
+      { "node": "firmus", "sub": "堅い", "era": "ラテン語" },
+      { "node": "affirm", "sub": "断言する", "era": "中英語" },
+      { "node": "reaffirm", "sub": "再確認する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reaffirm a commitment", "ja": "約束を再確認する" },
+      { "en": "reaffirm support", "ja": "支持を再表明する" },
+      { "en": "reaffirm one's position", "ja": "立場を改めて示す" },
+      { "en": "reaffirm a belief", "ja": "信念を再確認する" },
+      { "en": "strongly reaffirm", "ja": "強く再表明する" },
+      { "en": "reaffirmation", "ja": "再確認・再表明" }
+    ],
+    "related": [
+      { "en": "affirm", "ja": "断言する" },
+      { "en": "confirm", "ja": "確認する" },
+      { "en": "reiterate", "ja": "繰り返し述べる" },
+      { "en": "deny", "ja": "否定する（反対概念）" }
+    ],
+    "faq": [
+      { "q": "reaffirm とはどんな意味？", "a": "『（以前の立場・約束・信念を）改めて断言する・再確認・再表明する』という意味です。" },
+      { "q": "reaffirm の名詞形は？", "a": "reaffirmation（再確認・再表明）です。" }
+    ],
+    "quiz": [
+      { "q": "The leader ___ his commitment to peace.（改めて表明した）", "A": "reaffirmed", "B": "reduced", "C": "removed", "D": "refused", "correct": "A" },
+      { "q": "reaffirm は affirm に何がついた語？", "A": "re-（再び）", "B": "un-（否定）", "C": "dis-（否定）", "D": "mis-（誤り）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rebate",
+    "pron": "ˈriːbeɪt",
+    "kana": "リーベイト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 rabattre（差し引く）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "ビジネス"],
+    "meaning_main": "（支払い後の）払い戻し・割戻金・リベート",
+    "description": "rebate の意味・発音・例文・語源を解説。税金や購入額の一部が戻る「払い戻し・割戻金」の使い方を分かりやすく紹介します。",
+    "keywords": ["rebate 意味", "rebate 発音", "tax rebate 意味", "rebate 払い戻し"],
+    "meanings": [
+      { "hinshi": "【名詞】（支払い後の）払い戻し・割戻金", "note": "支払った金額の一部が戻ること。a tax rebate（税の還付）。" }
+    ],
+    "usages": [
+      { "title": "① 「払い戻し・割戻金」として", "desc": "支払った金額の一部が戻ることを表します。", "example_en": "You can get a rebate on your electricity bill.", "example_ja": "電気代の一部の払い戻しを受けられます。" },
+      { "title": "② 税の還付として", "desc": "a tax rebate（税の還付）でよく使います。", "example_en": "She received a tax rebate of $200.", "example_ja": "彼女は200ドルの税の還付を受けた。" }
+    ],
+    "warn": [
+      "rebate は『（支払い後に戻る）割戻金・払い戻し』。discount（値引き＝支払い前）とは違う。",
+      "refund（返金）に近いが、rebate は『一部の割戻し・奨励的な払い戻し』のニュアンス。"
+    ],
+    "etym_note": "古フランス語 rabattre（re-＋ abattre「打ち落とす」＝差し引く）に由来します。「（金額から）差し引いて戻す＝割戻金」が原義です。abate（弱める）と同じ語源です。",
+    "etym_chain": [
+      { "node": "rabattre", "sub": "差し引く", "era": "古フランス語" },
+      { "node": "rebate", "sub": "差し引き・割戻", "era": "中英語" },
+      { "node": "rebate", "sub": "払い戻し・割戻金", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a tax rebate", "ja": "税の還付" },
+      { "en": "a cash rebate", "ja": "現金の割戻し" },
+      { "en": "get a rebate", "ja": "払い戻しを受ける" },
+      { "en": "offer a rebate", "ja": "割戻金を出す" },
+      { "en": "a mail-in rebate", "ja": "郵送による払い戻し" },
+      { "en": "a rebate program", "ja": "割戻プログラム" }
+    ],
+    "related": [
+      { "en": "refund", "ja": "返金" },
+      { "en": "discount", "ja": "値引き" },
+      { "en": "reduction", "ja": "減額" },
+      { "en": "allowance", "ja": "控除・割当" }
+    ],
+    "faq": [
+      { "q": "rebate と discount の違いは？", "a": "discount は『（買う前の）値引き』、rebate は『（支払った後に一部が戻る）割戻金・払い戻し』です。" },
+      { "q": "a tax rebate とは？", "a": "払いすぎた税金が戻る『税の還付』のことです。" }
+    ],
+    "quiz": [
+      { "q": "You can get a ___ on your electricity bill.（払い戻し）", "A": "rebate", "B": "debate の討論", "C": "reduce", "D": "remove", "correct": "A" },
+      { "q": "rebate と discount の違いで正しいのは？", "A": "rebateは支払い後、discountは支払い前", "B": "両方とも同じ", "C": "rebateは値上げ", "D": "discountは返金", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reimburse",
+    "pron": "ˌriːɪmˈbɜːrs",
+    "kana": "リーインバース",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ imburse（財布に入れる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "ビジネス"],
+    "meaning_main": "（立て替えた費用を）払い戻す・弁済する",
+    "description": "reimburse の意味・発音・例文・語源を解説。立て替えた経費を会社などが「払い戻す・弁済する」使い方や、名詞 reimbursement も紹介します。",
+    "keywords": ["reimburse 意味", "reimburse 発音", "reimbursement 意味", "reimburse 払い戻し"],
+    "meanings": [
+      { "hinshi": "【動詞】（立て替えた費用を）払い戻す・弁済する", "note": "reimburse expenses（経費を払い戻す）。reimburse A for B。" }
+    ],
+    "usages": [
+      { "title": "① 「経費を払い戻す」として", "desc": "立て替えた金を返す意味です（ビジネス）。", "example_en": "The company will reimburse your travel expenses.", "example_ja": "会社が旅費を払い戻してくれます。" },
+      { "title": "② reimburse A for B として", "desc": "「BについてAに弁済する」を表します。", "example_en": "They reimbursed me for the cost of the hotel.", "example_ja": "彼らはホテル代を私に払い戻してくれた。" }
+    ],
+    "warn": [
+      "「BについてAに払い戻す」は reimburse A for B。名詞は reimbursement（払い戻し・弁済）。",
+      "purse（財布）と同じ語源。reimburse＝『再び財布に戻す』。"
+    ],
+    "etym_note": "re-（再び）＋ in-（中に）＋ ラテン語 bursa（財布）の構成で、「再び財布に入れて返す＝払い戻す」が原義です。purse・bursar と同じ語源です。",
+    "etym_chain": [
+      { "node": "bursa", "sub": "財布", "era": "ラテン語" },
+      { "node": "imburse", "sub": "財布に入れる", "era": "近代英語" },
+      { "node": "reimburse", "sub": "払い戻す・弁済する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reimburse expenses", "ja": "経費を払い戻す" },
+      { "en": "reimburse A for B", "ja": "BについてAに弁済する" },
+      { "en": "be reimbursed", "ja": "払い戻しを受ける" },
+      { "en": "fully reimburse", "ja": "全額弁済する" },
+      { "en": "reimburse the cost", "ja": "費用を払い戻す" },
+      { "en": "reimbursement", "ja": "払い戻し・弁済" }
+    ],
+    "related": [
+      { "en": "reimbursement", "ja": "払い戻し（名詞）" },
+      { "en": "refund", "ja": "返金する" },
+      { "en": "repay", "ja": "返済する" },
+      { "en": "compensate", "ja": "補償する" }
+    ],
+    "faq": [
+      { "q": "reimburse の使い方は？", "a": "reimburse A for B（BについてAに払い戻す）の形が基本です。reimburse you for the cost（その費用をあなたに払い戻す）のように使います。" },
+      { "q": "reimburse と refund の違いは？", "a": "reimburse は『（立て替えた費用を）弁済・払い戻す』、refund は『（買ったものの代金を）返金する』というニュアンスです。" }
+    ],
+    "quiz": [
+      { "q": "The company will ___ your travel expenses.（払い戻す）", "A": "reimburse", "B": "remind の思い出させる", "C": "remove", "D": "reduce", "correct": "A" },
+      { "q": "reimburse の名詞形はどれ？", "A": "reimbursement", "B": "reimbursance", "C": "reimburstion", "D": "reimburseness", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reinvent",
+    "pron": "ˌriːɪnˈvent",
+    "kana": "リーインベント",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ invent（発明する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "作り直す・一新する・新たな姿に変える",
+    "description": "reinvent の意味・発音・例文・語源を解説。自分やブランドを「作り直す・一新する」使い方や、reinvent the wheel（無駄な再発明）も紹介します。",
+    "keywords": ["reinvent 意味", "reinvent 発音", "reinvent oneself 意味", "reinvent the wheel"],
+    "meanings": [
+      { "hinshi": "【動詞】作り直す・一新する・新たな姿に変える", "note": "古いものを根本から新しく作り変える。reinvent oneself（自分を一新する）。" }
+    ],
+    "usages": [
+      { "title": "① 「作り直す・一新する」として", "desc": "古いものを新しく作り変える意味です。", "example_en": "The company reinvented itself as a tech firm.", "example_ja": "その会社はテック企業として生まれ変わった。" },
+      { "title": "② reinvent the wheel として", "desc": "「無駄な再発明をする」を表します。", "example_en": "There's no need to reinvent the wheel.", "example_ja": "車輪の再発明をする必要はない（すでにあるものを作り直す無駄はない）。" }
+    ],
+    "warn": [
+      "reinvent oneself は『自分を一新する・生まれ変わる』。reinvent the wheel は『すでにあるものを無駄に作り直す』。",
+      "re-（再び）＋ invent（発明する）。"
+    ],
+    "etym_note": "接頭辞 re-（再び）と invent（発明する。ラテン語 invenire「見つけ出す」から）を組み合わせた語で、「再び作り出す＝作り直す」が原義です。",
+    "etym_chain": [
+      { "node": "invenire", "sub": "見つけ出す", "era": "ラテン語" },
+      { "node": "invent", "sub": "発明する", "era": "中英語" },
+      { "node": "reinvent", "sub": "作り直す・一新する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reinvent oneself", "ja": "自分を一新する" },
+      { "en": "reinvent the wheel", "ja": "無駄な再発明をする" },
+      { "en": "reinvent a brand", "ja": "ブランドを一新する" },
+      { "en": "constantly reinvent", "ja": "絶えず作り直す" },
+      { "en": "reinvent the business", "ja": "事業を作り変える" },
+      { "en": "reinvention", "ja": "一新・再創造" }
+    ],
+    "related": [
+      { "en": "invent", "ja": "発明する" },
+      { "en": "transform", "ja": "一変させる" },
+      { "en": "renew", "ja": "新しくする" },
+      { "en": "remake", "ja": "作り直す" }
+    ],
+    "faq": [
+      { "q": "reinvent oneself とは？", "a": "『（イメージ・生き方を）一新する・生まれ変わる』という意味です。" },
+      { "q": "reinvent the wheel とは？", "a": "『すでに存在するものを無駄に一から作り直す』という意味の慣用句です。ふつう否定文で『その必要はない』と使います。" }
+    ],
+    "quiz": [
+      { "q": "The company ___ itself as a tech firm.（生まれ変わった）", "A": "reinvented", "B": "reduced", "C": "removed", "D": "refused", "correct": "A" },
+      { "q": "「無駄な再発明をする」を表すのはどれ？", "A": "reinvent the wheel", "B": "reinvent the road", "C": "reinvent the river", "D": "reinvent the ribbon", "correct": "A" }
+    ]
+  },
+  {
+    "english": "remodel",
+    "pron": "ˌriːˈmɑːdəl",
+    "kana": "リーモデル",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ model（形づくる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "（建物・部屋を）改築する・改装する・作り直す",
+    "description": "remodel の意味・発音・例文・語源を解説。家やキッチンを「改築・改装する」というアメリカ英語の使い方や、renovate との近さも紹介します。",
+    "keywords": ["remodel 意味", "remodel 発音", "remodel リフォーム", "remodel 改築"],
+    "meanings": [
+      { "hinshi": "【動詞】（建物・部屋を）改築する・改装する・作り直す", "note": "形や構造を変えて作り直す。remodel the kitchen（キッチンを改装する）。" }
+    ],
+    "usages": [
+      { "title": "① 「改築・改装する」として", "desc": "建物や部屋を作り変える意味です（おもに米）。", "example_en": "They remodeled their kitchen last year.", "example_ja": "彼らは昨年キッチンを改装した。" },
+      { "title": "② 形・構造を変えて", "desc": "デザインや構造を一新する意味でも使います。", "example_en": "The store was completely remodeled.", "example_ja": "その店は全面的に改装された。" }
+    ],
+    "warn": [
+      "日本語の『リフォーム（家の改装）』は英語では remodel / renovate。reform（制度改革）ではない。",
+      "remodel はアメリカ英語でよく使う。re-（再び）＋ model（形づくる）。"
+    ],
+    "etym_note": "接頭辞 re-（再び）と model（形づくる。ラテン語 modulus「型」から）を組み合わせた語で、「形を作り直す＝改築する」が原義です。",
+    "etym_chain": [
+      { "node": "modulus", "sub": "型", "era": "ラテン語" },
+      { "node": "model", "sub": "形づくる", "era": "近代英語" },
+      { "node": "remodel", "sub": "改築する・作り直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "remodel the kitchen", "ja": "キッチンを改装する" },
+      { "en": "remodel a house", "ja": "家を改築する" },
+      { "en": "completely remodel", "ja": "全面改装する" },
+      { "en": "remodel the bathroom", "ja": "浴室を改装する" },
+      { "en": "a home remodel", "ja": "住宅の改築" },
+      { "en": "remodeling", "ja": "改築・改装" }
+    ],
+    "related": [
+      { "en": "renovate", "ja": "改装する" },
+      { "en": "refurbish", "ja": "一新する" },
+      { "en": "rebuild", "ja": "建て直す" },
+      { "en": "redesign", "ja": "設計し直す" }
+    ],
+    "faq": [
+      { "q": "remodel と renovate の違いは？", "a": "意味は近く、どちらも『（建物を）改装する』です。remodel はおもにアメリカ英語で、構造やレイアウトを変える『改築』に使われます。" },
+      { "q": "日本語の『リフォーム』は英語で？", "a": "remodel または renovate です。reform（制度改革）ではありません。" }
+    ],
+    "quiz": [
+      { "q": "They ___ their kitchen last year.（改装した）", "A": "remodeled", "B": "reformed の制度改革", "C": "reduced", "D": "removed", "correct": "A" },
+      { "q": "remodel は model に何がついた語？", "A": "re-（再び）", "B": "un-（否定）", "C": "dis-（否定）", "D": "mis-（誤り）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reorganize",
+    "pron": "ˌriːˈɔːrɡənaɪz",
+    "kana": "リーオーガナイズ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ organize（組織する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "ビジネス"],
+    "meaning_main": "再編成する・組織し直す・整理し直す",
+    "description": "reorganize の意味・発音・例文・語源を解説。会社や予定を「再編成する・整理し直す」使い方や、名詞 reorganization も分かりやすく紹介します。",
+    "keywords": ["reorganize 意味", "reorganize 発音", "reorganization 意味", "reorganize 再編"],
+    "meanings": [
+      { "hinshi": "【動詞】再編成する・組織し直す・整理し直す", "note": "会社・部署・予定などを作り直す。reorganize a company（会社を再編する）。" }
+    ],
+    "usages": [
+      { "title": "① 「再編成する・整理し直す」として", "desc": "組織やものごとを作り直す意味です。", "example_en": "The company was reorganized into three divisions.", "example_ja": "その会社は3つの部門に再編された。" },
+      { "title": "② 整理し直して", "desc": "予定やデータを整え直す意味でも使います。", "example_en": "I reorganized my schedule for next week.", "example_ja": "私は来週の予定を組み直した。" }
+    ],
+    "warn": [
+      "イギリス式は reorganise。名詞は reorganization（再編成）。restructure（再編する）に近い。",
+      "re-（再び）＋ organize（組織する）。"
+    ],
+    "etym_note": "接頭辞 re-（再び）と organize（組織する。ギリシャ語 organon「道具・器官」から）を組み合わせた語で、「再び組織する＝再編成する」が原義です。organ・organize と同じ語源です。",
+    "etym_chain": [
+      { "node": "organon", "sub": "道具・器官", "era": "ギリシャ語" },
+      { "node": "organize", "sub": "組織する", "era": "近代英語" },
+      { "node": "reorganize", "sub": "再編成する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reorganize a company", "ja": "会社を再編する" },
+      { "en": "reorganize the team", "ja": "チームを再編成する" },
+      { "en": "reorganize one's schedule", "ja": "予定を組み直す" },
+      { "en": "reorganize files", "ja": "ファイルを整理し直す" },
+      { "en": "completely reorganize", "ja": "全面的に再編する" },
+      { "en": "reorganization", "ja": "再編成" }
+    ],
+    "related": [
+      { "en": "organize", "ja": "組織する" },
+      { "en": "restructure", "ja": "再編する" },
+      { "en": "rearrange", "ja": "並べ替える" },
+      { "en": "reshuffle", "ja": "（人事を）刷新する" }
+    ],
+    "faq": [
+      { "q": "reorganize と restructure の違いは？", "a": "意味は近く、どちらも『再編する』です。restructure は『（構造・仕組みを）作り直す』、reorganize は『（組織・配置を）整理し直す』というニュアンスです。" },
+      { "q": "reorganize の名詞形は？", "a": "reorganization（再編成）です。" }
+    ],
+    "quiz": [
+      { "q": "The company was ___ into three divisions.（再編された）", "A": "reorganized", "B": "recognized の認識した", "C": "reduced", "D": "removed", "correct": "A" },
+      { "q": "reorganize は organize に何がついた語？", "A": "re-（再び）", "B": "un-（否定）", "C": "dis-（否定）", "D": "mis-（誤り）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retrace",
+    "pron": "rɪˈtreɪs",
+    "kana": "リトレイス",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ trace（たどる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "（来た道・経過を）引き返してたどる・たどり直す",
+    "description": "retrace の意味・発音・例文・語源を解説。retrace one's steps（来た道を引き返す）や、経緯を「たどり直す」使い方を分かりやすく紹介します。",
+    "keywords": ["retrace 意味", "retrace 発音", "retrace steps 意味", "retrace たどる"],
+    "meanings": [
+      { "hinshi": "【動詞】（来た道を）引き返してたどる", "note": "retrace one's steps（来た道を引き返す）。" },
+      { "hinshi": "【動詞】（経過・歴史を）たどり直す・回顧する", "note": "retrace the history（歴史をたどり直す）。" }
+    ],
+    "usages": [
+      { "title": "① 「来た道を引き返す」として", "desc": "通ってきた道をたどり戻る意味です。", "example_en": "We retraced our steps to find the lost key.", "example_ja": "私たちはなくした鍵を探すため来た道を引き返した。" },
+      { "title": "② 「経緯をたどり直す」として", "desc": "過去の道筋を再びたどる意味です。", "example_en": "The book retraces the artist's early life.", "example_ja": "その本は画家の若いころをたどり直している。" }
+    ],
+    "warn": [
+      "retrace one's steps は『来た道を引き返す』という頻出表現。",
+      "re-（再び）＋ trace（たどる・跡）。"
+    ],
+    "etym_note": "接頭辞 re-（再び）と trace（たどる。ラテン語 trahere「引く」系）を組み合わせた語で、「（足跡を）再びたどる」が原義です。",
+    "etym_chain": [
+      { "node": "trahere", "sub": "引く", "era": "ラテン語" },
+      { "node": "trace", "sub": "跡・たどる", "era": "中英語" },
+      { "node": "retrace", "sub": "引き返してたどる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "retrace one's steps", "ja": "来た道を引き返す" },
+      { "en": "retrace the route", "ja": "経路をたどり直す" },
+      { "en": "retrace the history", "ja": "歴史をたどり直す" },
+      { "en": "retrace a journey", "ja": "旅をたどり直す" },
+      { "en": "retrace the path", "ja": "道をたどり直す" },
+      { "en": "carefully retrace", "ja": "丁寧にたどり直す" }
+    ],
+    "related": [
+      { "en": "trace", "ja": "たどる" },
+      { "en": "backtrack", "ja": "引き返す" },
+      { "en": "return", "ja": "戻る" },
+      { "en": "follow", "ja": "たどる" }
+    ],
+    "faq": [
+      { "q": "retrace one's steps とは？", "a": "『来た道を引き返す・通ってきた道をたどり戻る』という意味の頻出表現です。" },
+      { "q": "retrace の比喩的な意味は？", "a": "『（歴史・経緯を）たどり直す・回顧する』という意味でも使います。" }
+    ],
+    "quiz": [
+      { "q": "We ___ our steps to find the lost key.（引き返した）", "A": "retraced", "B": "retreated の退却した", "C": "reduced", "D": "removed", "correct": "A" },
+      { "q": "retrace は trace に何がついた語？", "A": "re-（再び）", "B": "un-（否定）", "C": "dis-（否定）", "D": "mis-（誤り）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reunite",
+    "pron": "ˌriːjuˈnaɪt",
+    "kana": "リーユナイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ unite（結合する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "再会させる・再び一つにする・再結成する",
+    "description": "reunite の意味・発音・例文・語源を解説。離れていた人を「再会させる」、バンドなどを「再結成する」使い方や、名詞 reunion との関係も紹介します。",
+    "keywords": ["reunite 意味", "reunite 発音", "reunion 関係", "reunite 再会"],
+    "meanings": [
+      { "hinshi": "【動詞】再会させる・再び一つにする・再結成する", "note": "離れていたものを再びまとめる。be reunited with（〜と再会する）。" }
+    ],
+    "usages": [
+      { "title": "① 「再会させる・再会する」として", "desc": "離れていた人が再び一緒になる意味です。", "example_en": "The lost dog was reunited with its owner.", "example_ja": "迷子の犬は飼い主と再会した。" },
+      { "title": "② 「再結成する」として", "desc": "解散したグループが再び集まる意味です。", "example_en": "The band reunited after ten years.", "example_ja": "そのバンドは10年ぶりに再結成した。" }
+    ],
+    "warn": [
+      "「〜と再会する」は be reunited with。名詞は reunion（再会・同窓会）。",
+      "re-（再び）＋ unite（結合する）。uni-（一つ）の語源。"
+    ],
+    "etym_note": "接頭辞 re-（再び）と unite（結合する。ラテン語 unus「一つ」から）を組み合わせた語で、「再び一つにする＝再会させる」が原義です。union・unite と同じ uni-（一つ）の語根です。",
+    "etym_chain": [
+      { "node": "unus", "sub": "一つ", "era": "ラテン語" },
+      { "node": "unite", "sub": "結合する", "era": "中英語" },
+      { "node": "reunite", "sub": "再会させる・再結成する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be reunited with", "ja": "〜と再会する" },
+      { "en": "reunite a family", "ja": "家族を再会させる" },
+      { "en": "reunite after years", "ja": "何年ぶりかに再会する" },
+      { "en": "the band reunites", "ja": "バンドが再結成する" },
+      { "en": "happily reunited", "ja": "うれしく再会して" },
+      { "en": "reunion", "ja": "再会・同窓会" }
+    ],
+    "related": [
+      { "en": "reunion", "ja": "再会・同窓会" },
+      { "en": "unite", "ja": "結合する" },
+      { "en": "reconnect", "ja": "再びつながる" },
+      { "en": "separate", "ja": "分ける（反対語）" }
+    ],
+    "faq": [
+      { "q": "reunite と reunion の関係は？", "a": "reunite は動詞『再会させる・再結成する』、reunion は名詞『再会・同窓会』です。" },
+      { "q": "be reunited with とは？", "a": "『〜と再会する』という意味です。be reunited with one's family（家族と再会する）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The lost dog was ___ with its owner.（再会した）", "A": "reunited", "B": "reused の再利用した", "C": "reduced", "D": "removed", "correct": "A" },
+      { "q": "reunite の名詞形（再会）はどれ？", "A": "reunion", "B": "reunitement", "C": "reunition", "D": "reuniteness", "correct": "A" }
+    ]
+  },
+  {
+    "english": "revisit",
+    "pron": "ˌriːˈvɪzɪt",
+    "kana": "リービジット",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ visit（訪れる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "再び訪れる／（問題・話題を）再検討する・見直す",
+    "description": "revisit の意味・発音・例文・語源を解説。場所を「再び訪れる」と、問題・計画を「改めて検討し直す」という二つの使い方を紹介します。",
+    "keywords": ["revisit 意味", "revisit 発音", "revisit an issue 意味", "revisit 再検討"],
+    "meanings": [
+      { "hinshi": "【動詞】再び訪れる", "note": "revisit a place（その場所を再び訪れる）。" },
+      { "hinshi": "【動詞】（問題・話題を）再検討する・見直す", "note": "revisit the issue（その問題を改めて検討する）。" }
+    ],
+    "usages": [
+      { "title": "① 「再び訪れる」として", "desc": "もう一度その場所に行く意味です。", "example_en": "I'd love to revisit Kyoto someday.", "example_ja": "いつか京都を再び訪れたい。" },
+      { "title": "② 「再検討する・見直す」として", "desc": "問題や計画を改めて考え直す意味です。", "example_en": "Let's revisit this issue next week.", "example_ja": "この問題は来週改めて検討しましょう。" }
+    ],
+    "warn": [
+      "比喩の『（問題・話題を）再検討する』が会議などで頻出。re-（再び）＋ visit（訪れる）。",
+      "vis-（見る）は vision・visible と同じ語源。"
+    ],
+    "etym_note": "接頭辞 re-（再び）と visit（訪れる。ラテン語 visere「見に行く」から）を組み合わせた語で、「再び訪れる・再び見直す」が原義です。vision・visit と同じ vis-（見る）の語根です。",
+    "etym_chain": [
+      { "node": "visere", "sub": "見に行く", "era": "ラテン語" },
+      { "node": "visit", "sub": "訪れる", "era": "中英語" },
+      { "node": "revisit", "sub": "再び訪れる・再検討する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "revisit a place", "ja": "その場所を再び訪れる" },
+      { "en": "revisit an issue", "ja": "問題を再検討する" },
+      { "en": "revisit a decision", "ja": "決定を見直す" },
+      { "en": "revisit the topic", "ja": "話題を改めて取り上げる" },
+      { "en": "revisit a plan", "ja": "計画を見直す" },
+      { "en": "worth revisiting", "ja": "改めて検討する価値がある" }
+    ],
+    "related": [
+      { "en": "visit", "ja": "訪れる" },
+      { "en": "reconsider", "ja": "再検討する" },
+      { "en": "review", "ja": "見直す" },
+      { "en": "reexamine", "ja": "再検討する" }
+    ],
+    "faq": [
+      { "q": "revisit の二つの使い方は？", "a": "①場所を『再び訪れる』と、②問題・話題・計画を『再検討する・見直す』です。会議では②がよく使われます。" },
+      { "q": "revisit an issue とは？", "a": "『その問題を改めて取り上げて検討し直す』という意味です。" }
+    ],
+    "quiz": [
+      { "q": "Let's ___ this issue next week.（再検討する）", "A": "revisit", "B": "reduce", "C": "remove", "D": "refuse", "correct": "A" },
+      { "q": "revisit は visit に何がついた語？", "A": "re-（再び）", "B": "un-（否定）", "C": "dis-（否定）", "D": "mis-（誤り）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rewind",
+    "pron": "ˌriːˈwaɪnd",
+    "kana": "リーワインド",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ wind（巻く）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "（テープ・映像を）巻き戻す",
+    "description": "rewind の意味・発音・例文・語源を解説。録画やテープを「巻き戻す」、比喩で「（記憶を）巻き戻す」使い方や、活用 rewind-rewound も紹介します。",
+    "keywords": ["rewind 意味", "rewind 発音", "rewound 活用", "rewind 巻き戻す"],
+    "meanings": [
+      { "hinshi": "【動詞】（テープ・映像を）巻き戻す", "note": "前の位置に戻す。rewind the tape（テープを巻き戻す）。" },
+      { "hinshi": "【動詞】（比喩）時を戻す・振り返る", "note": "Let's rewind to last week.（先週に時を戻そう）。" }
+    ],
+    "usages": [
+      { "title": "① 「巻き戻す」として", "desc": "録画・録音を前に戻す意味です。", "example_en": "Please rewind the video to the start.", "example_ja": "動画を最初まで巻き戻してください。" },
+      { "title": "② 比喩「時を戻す」として", "desc": "過去に話を戻す意味でも使います。", "example_en": "Let's rewind and start again.", "example_ja": "話を戻して、もう一度始めよう。" }
+    ],
+    "warn": [
+      "活用は wind と同じく不規則：rewind – rewound – rewound。",
+      "fast-forward（早送りする）と対になる。re-（再び）＋ wind（巻く）。"
+    ],
+    "etym_note": "接頭辞 re-（再び）と wind（巻く。古英語 windan）を組み合わせた語で、「再び巻く＝巻き戻す」が原義です。",
+    "etym_chain": [
+      { "node": "windan", "sub": "巻く", "era": "古英語" },
+      { "node": "wind", "sub": "巻く", "era": "中英語" },
+      { "node": "rewind", "sub": "巻き戻す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rewind the tape", "ja": "テープを巻き戻す" },
+      { "en": "rewind the video", "ja": "動画を巻き戻す" },
+      { "en": "rewind and replay", "ja": "巻き戻して再生する" },
+      { "en": "fast-forward and rewind", "ja": "早送りと巻き戻し" },
+      { "en": "rewind to", "ja": "〜まで巻き戻す" },
+      { "en": "press rewind", "ja": "巻き戻しを押す" }
+    ],
+    "related": [
+      { "en": "wind", "ja": "巻く" },
+      { "en": "fast-forward", "ja": "早送りする（反対語）" },
+      { "en": "replay", "ja": "再生する" },
+      { "en": "reverse", "ja": "逆にする" }
+    ],
+    "faq": [
+      { "q": "rewind の活用は？", "a": "rewind – rewound – rewound と不規則変化します。wind – wound – wound と同じパターンです。" },
+      { "q": "rewind の反対語は？", "a": "fast-forward（早送りする）です。" }
+    ],
+    "quiz": [
+      { "q": "Please ___ the video to the start.（巻き戻す）", "A": "rewind", "B": "remind の思い出させる", "C": "remove", "D": "reduce", "correct": "A" },
+      { "q": "rewind の反対語はどれ？", "A": "fast-forward（早送りする）", "B": "replay（再生する）", "C": "reverse（逆にする）", "D": "wind（巻く）", "correct": "A" }
+    ]
+  }
+]

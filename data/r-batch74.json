@@ -1,0 +1,472 @@
+[
+  {
+    "english": "roux",
+    "pron": "ruː",
+    "kana": "ルー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 (beurre) roux（赤茶色のバター）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "料理"],
+    "meaning_main": "ルー（小麦粉をバターなどで炒めた、ソースやスープのとろみのもと）",
+    "description": "roux の意味・発音・例文・語源を解説。小麦粉を油脂で炒めて作る、ソースやスープのとろみづけの素「ルー」を指す料理用語の使い方を紹介します。",
+    "keywords": ["roux 意味", "roux 発音", "roux ルー", "roux ソース"],
+    "meanings": [
+      { "hinshi": "【名詞】ルー", "note": "小麦粉をバターや油で炒めたもの。ソース・スープ・シチューのとろみとコクをつける素。炒め具合で白・金・茶色になる。" }
+    ],
+    "usages": [
+      { "title": "① とろみの素として", "desc": "ソースのベースになる炒め粉を指します。", "example_en": "Start the sauce by making a roux.", "example_ja": "ソースはまずルーを作ることから始める。" },
+      { "title": "② 炒め具合の説明で", "desc": "色で種類を区別します。", "example_en": "A dark roux gives gumbo its rich flavor.", "example_ja": "濃い色のルーがガンボに深い風味を与える。" }
+    ],
+    "warn": [
+      "roux は『小麦粉を油脂で炒めたとろみの素』。発音は『ルー（ruː）』で末尾の x は読まない。",
+      "炒め具合で white / blond / brown roux（白・金・茶ルー）に分かれる。"
+    ],
+    "etym_note": "フランス語 (beurre) roux（赤茶色の（バター）、roux「赤茶色の」）に由来します。バターで小麦粉を炒めると赤茶色になることから名づけられました。russet（赤褐色）と語源的につながります。",
+    "etym_chain": [
+      { "node": "russus", "sub": "赤い", "era": "ラテン語" },
+      { "node": "roux", "sub": "赤茶色の", "era": "フランス語" },
+      { "node": "roux", "sub": "ルー（とろみの素）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "make a roux", "ja": "ルーを作る" },
+      { "en": "a white roux", "ja": "白ルー" },
+      { "en": "a brown roux", "ja": "茶ルー" },
+      { "en": "a dark roux", "ja": "濃い色のルー" },
+      { "en": "thicken with a roux", "ja": "ルーでとろみをつける" },
+      { "en": "a butter roux", "ja": "バターのルー" }
+    ],
+    "related": [
+      { "en": "sauce", "ja": "ソース" },
+      { "en": "thickener", "ja": "とろみづけ" },
+      { "en": "béchamel", "ja": "ベシャメルソース" },
+      { "en": "gravy", "ja": "グレービーソース" }
+    ],
+    "faq": [
+      { "q": "roux とはどんな意味？", "a": "小麦粉をバターや油で炒めたもので、ソース・スープ・シチューにとろみとコクをつける素『ルー』のことです。炒め具合で白・金・茶色になります。" },
+      { "q": "roux の発音は？", "a": "『ルー（ruː）』です。フランス語由来で、末尾の x は発音しません。" }
+    ],
+    "quiz": [
+      { "q": "Start the sauce by making a ___.（ルー）", "A": "roux", "B": "rouge の頬紅", "C": "route の経路", "D": "rude の無礼な", "correct": "A" },
+      { "q": "roux の主な材料はどれ？", "A": "小麦粉と油脂", "B": "卵と砂糖", "C": "肉と塩", "D": "米と水", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rosti",
+    "pron": "ˈrɒsti",
+    "kana": "レシュティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "スイスドイツ語 Rösti（カリッと焼いた）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "食べ物"],
+    "meaning_main": "レシュティ（千切りジャガイモをカリッと焼いたスイスの料理）",
+    "description": "rosti の意味・発音・例文・語源を解説。千切りにしたジャガイモを円く焼き固めたスイスの郷土料理「レシュティ」を指す語の使い方を紹介します。",
+    "keywords": ["rosti 意味", "rosti 発音", "rosti レシュティ", "rosti ジャガイモ"],
+    "meanings": [
+      { "hinshi": "【名詞】レシュティ（ロスティ）", "note": "千切りまたはすりおろしたジャガイモを円く広げ、表面をカリッと焼き固めたスイスの料理。rösti とも綴る。" }
+    ],
+    "usages": [
+      { "title": "① 料理として", "desc": "カリッと焼いたジャガイモ料理を指します。", "example_en": "We had rosti with fried eggs for breakfast.", "example_ja": "私たちは朝食に目玉焼きとレシュティを食べた。" },
+      { "title": "② 付け合わせとして", "desc": "肉料理などに添えます。", "example_en": "The steak came with a crispy rosti.", "example_ja": "ステーキにはカリッとしたレシュティが添えられていた。" }
+    ],
+    "warn": [
+      "rosti（rösti）は『千切りジャガイモをカリッと焼いたスイス料理』。発音は『レシュティ（ˈrɒsti / ˈrøːʃti）』。",
+      "アメリカの hash browns（ハッシュドポテト）に似ているが、スイスの郷土料理として独立した名。"
+    ],
+    "etym_note": "スイスドイツ語 Rösti（rösten「焼く・ローストする」より＝カリッと焼いたもの）に由来します。roast（焼く）と同じゲルマン語の語根につながります。",
+    "etym_chain": [
+      { "node": "rösten", "sub": "焼く・ローストする", "era": "ドイツ語" },
+      { "node": "Rösti", "sub": "カリッと焼いたもの", "era": "スイスドイツ語" },
+      { "node": "rosti", "sub": "レシュティ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a crispy rosti", "ja": "カリッとしたレシュティ" },
+      { "en": "potato rosti", "ja": "ジャガイモのレシュティ" },
+      { "en": "make rosti", "ja": "レシュティを作る" },
+      { "en": "rosti with eggs", "ja": "卵をのせたレシュティ" },
+      { "en": "a golden rosti", "ja": "きつね色のレシュティ" },
+      { "en": "Swiss rosti", "ja": "スイスのレシュティ" }
+    ],
+    "related": [
+      { "en": "hash browns", "ja": "ハッシュドポテト" },
+      { "en": "potato", "ja": "ジャガイモ" },
+      { "en": "pancake", "ja": "パンケーキ・お焼き" },
+      { "en": "fritter", "ja": "揚げ焼き団子" }
+    ],
+    "faq": [
+      { "q": "rosti とはどんな食べ物？", "a": "千切りまたはすりおろしたジャガイモを円く広げ、表面をカリッと焼き固めたスイスの郷土料理『レシュティ（ロスティ）』のことです。" },
+      { "q": "rosti と hash browns の違いは？", "a": "似ていますが、rosti はスイスの郷土料理で大きく円く焼くのが特徴、hash browns はアメリカの細かく焼いたジャガイモ料理です。" }
+    ],
+    "quiz": [
+      { "q": "We had ___ with fried eggs for breakfast.（レシュティ）", "A": "rosti", "B": "risotto のリゾット", "C": "roti のロティ", "D": "rusk のラスク", "correct": "A" },
+      { "q": "rosti の主な材料はどれ？", "A": "ジャガイモ", "B": "小麦粉", "C": "米", "D": "豆", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rigatoni",
+    "pron": "ˌrɪɡəˈtoʊni",
+    "kana": "リガトーニ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "イタリア語 rigato（畝のある）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "食べ物"],
+    "meaning_main": "リガトーニ（表面に畝のある、太く短い筒状のパスタ）",
+    "description": "rigatoni の意味・発音・例文・語源を解説。表面に縦の畝があり、太く短い筒状のパスタ「リガトーニ」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["rigatoni 意味", "rigatoni 発音", "rigatoni パスタ", "rigatoni 料理"],
+    "meanings": [
+      { "hinshi": "【名詞】リガトーニ", "note": "表面に縦の畝（すじ）がある、太く短い筒状のショートパスタ。畝と穴がソースをよく絡める。複数扱いが基本。" }
+    ],
+    "usages": [
+      { "title": "① パスタの種類として", "desc": "畝のある太い筒状パスタを指します。", "example_en": "She tossed the rigatoni with a meat sauce.", "example_ja": "彼女はリガトーニをミートソースと和えた。" },
+      { "title": "② 料理の場面で", "desc": "濃いソースに合わせて使います。", "example_en": "Rigatoni holds thick sauces well.", "example_ja": "リガトーニは濃いソースをよく絡める。" }
+    ],
+    "warn": [
+      "rigatoni は『表面に畝のある太く短い筒状パスタ』。畝と穴が濃いソースをよく絡める。複数形扱い（単数は rigatone）。",
+      "似たショートパスタに penne（ペンネ）, ziti（ジーティ）がある。"
+    ],
+    "etym_note": "イタリア語 rigato（畝のある・線の入った、rigare「線を引く」より）に由来します。表面の縦の畝（すじ）が特徴であることから名づけられました。",
+    "etym_chain": [
+      { "node": "rigare", "sub": "線を引く", "era": "イタリア語" },
+      { "node": "rigato", "sub": "畝のある", "era": "イタリア語" },
+      { "node": "rigatoni", "sub": "リガトーニ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "baked rigatoni", "ja": "焼きリガトーニ" },
+      { "en": "rigatoni with sauce", "ja": "ソースのリガトーニ" },
+      { "en": "a plate of rigatoni", "ja": "リガトーニ1皿" },
+      { "en": "rigatoni and meatballs", "ja": "リガトーニとミートボール" },
+      { "en": "cook the rigatoni", "ja": "リガトーニをゆでる" },
+      { "en": "ridged rigatoni", "ja": "畝のあるリガトーニ" }
+    ],
+    "related": [
+      { "en": "penne", "ja": "ペンネ" },
+      { "en": "ziti", "ja": "ジーティ" },
+      { "en": "pasta", "ja": "パスタ" },
+      { "en": "macaroni", "ja": "マカロニ" }
+    ],
+    "faq": [
+      { "q": "rigatoni とはどんな食べ物？", "a": "表面に縦の畝（すじ）がある、太く短い筒状のショートパスタ『リガトーニ』のことです。畝と穴が濃いソースをよく絡めます。" },
+      { "q": "rigatoni と penne の違いは？", "a": "どちらも畝のある筒状パスタですが、rigatoni は太く端がまっすぐ、penne は細めで端が斜めにカットされています。" }
+    ],
+    "quiz": [
+      { "q": "She tossed the ___ with a meat sauce.（リガトーニ）", "A": "rigatoni", "B": "rigatony", "C": "ravioli のラビオリ", "D": "risotto のリゾット", "correct": "A" },
+      { "q": "rigatoni の語源の意味はどれ？", "A": "畝のある・線の入った", "B": "丸い", "C": "甘い", "D": "辛い", "correct": "A" }
+    ]
+  },
+  {
+    "english": "remoulade",
+    "pron": "ˌreɪməˈlɑːd",
+    "kana": "レムラード",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 rémoulade（薬味ソース）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "食べ物"],
+    "meaning_main": "レムラード（マヨネーズに薬味を加えた冷たいソース）",
+    "description": "remoulade の意味・発音・例文・語源を解説。マヨネーズをベースにハーブ・ピクルス・マスタードなどを加えた冷たいソース「レムラード」を指す語の使い方を紹介します。",
+    "keywords": ["remoulade 意味", "remoulade 発音", "remoulade ソース", "remoulade マヨネーズ"],
+    "meanings": [
+      { "hinshi": "【名詞】レムラード（ソース）", "note": "マヨネーズにマスタード・ハーブ・ケッパー・刻みピクルスなどを加えた冷たいソース。魚介や肉に添える。" }
+    ],
+    "usages": [
+      { "title": "① ソースとして", "desc": "薬味入りの冷たいソースを指します。", "example_en": "The crab cakes were served with remoulade.", "example_ja": "そのカニコロッケはレムラードを添えて出された。" },
+      { "title": "② 付け合わせとして", "desc": "魚介や揚げ物に合わせます。", "example_en": "Dip the shrimp in the spicy remoulade.", "example_ja": "エビをピリ辛のレムラードにつけて。" }
+    ],
+    "warn": [
+      "remoulade は『マヨネーズに薬味を加えた冷たいソース』。地域により味つけが異なる（仏・デンマーク・米南部など）。",
+      "発音は『レムラード（ˌreɪməˈlɑːd）』。"
+    ],
+    "etym_note": "フランス語 rémoulade に由来します。語源には地方の方言で『辛味の薬味（西洋わさび）』を指す語からという説があります。薬味を加えたソースを表す語として広まりました。",
+    "etym_chain": [
+      { "node": "ramolas", "sub": "西洋わさび（方言）", "era": "フランス語(方言)" },
+      { "node": "rémoulade", "sub": "薬味ソース", "era": "フランス語" },
+      { "node": "remoulade", "sub": "レムラード", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "served with remoulade", "ja": "レムラードを添えて" },
+      { "en": "spicy remoulade", "ja": "ピリ辛のレムラード" },
+      { "en": "a dollop of remoulade", "ja": "ひとさじのレムラード" },
+      { "en": "make remoulade", "ja": "レムラードを作る" },
+      { "en": "remoulade sauce", "ja": "レムラードソース" },
+      { "en": "dip in remoulade", "ja": "レムラードにつける" }
+    ],
+    "related": [
+      { "en": "mayonnaise", "ja": "マヨネーズ" },
+      { "en": "tartar sauce", "ja": "タルタルソース" },
+      { "en": "aioli", "ja": "アイオリソース" },
+      { "en": "condiment", "ja": "薬味・ソース" }
+    ],
+    "faq": [
+      { "q": "remoulade とはどんな意味？", "a": "マヨネーズにマスタード・ハーブ・ケッパー・刻みピクルスなどを加えた冷たいソース『レムラード』のことです。魚介や肉、揚げ物に添えます。" },
+      { "q": "remoulade と tartar sauce の違いは？", "a": "どちらもマヨネーズベースの薬味ソースですが、remoulade はマスタードやハーブ、地域により辛味を加え、tartar sauce は刻みピクルスやケッパーが中心です。" }
+    ],
+    "quiz": [
+      { "q": "The crab cakes were served with ___.（レムラード）", "A": "remoulade", "B": "marmalade のマーマレード", "C": "lemonade のレモネード", "D": "renegade の裏切り者", "correct": "A" },
+      { "q": "remoulade のベースはどれ？", "A": "マヨネーズ", "B": "トマト", "C": "しょうゆ", "D": "生クリーム", "correct": "A" }
+    ]
+  },
+  {
+    "english": "roebuck",
+    "pron": "ˈroʊbʌk",
+    "kana": "ロウバック",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "roe（ノロジカ）＋ buck（雄）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "自然・生き物"],
+    "meaning_main": "雄のノロジカ（小型の鹿ノロジカの雄）",
+    "description": "roebuck の意味・発音・例文・語源を解説。ヨーロッパなどにすむ小型の鹿「ノロジカ」の雄を指す語「roebuck」の使い方を分かりやすく紹介します。",
+    "keywords": ["roebuck 意味", "roebuck 発音", "roebuck ノロジカ", "roebuck 雄鹿"],
+    "meanings": [
+      { "hinshi": "【名詞】雄のノロジカ", "note": "ヨーロッパ・アジアの森にすむ小型の鹿『ノロジカ（roe deer）』の雄。雌は doe。" }
+    ],
+    "usages": [
+      { "title": "① 雄鹿として", "desc": "ノロジカの雄を指します。", "example_en": "A roebuck stepped out of the forest.", "example_ja": "雄のノロジカが森から出てきた。" },
+      { "title": "② 狩猟・自然の文脈で", "desc": "雌（doe）と区別して使います。", "example_en": "The roebuck has short, branched antlers.", "example_ja": "雄のノロジカは短く枝分かれした角をもつ。" }
+    ],
+    "warn": [
+      "roebuck は『ノロジカ（roe deer）の雄』。雌は doe（ドウ）。buck は『雄の鹿・羚羊』。",
+      "発音は『ロウバック（ˈroʊbʌk）』。"
+    ],
+    "etym_note": "roe（ノロジカ、古英語 rā より）＋ buck（雄の鹿・羚羊）から成り、「ノロジカの雄」を意味します。roe deer（ノロジカ）の雄を特に指す語です。",
+    "etym_chain": [
+      { "node": "rā + bucca", "sub": "ノロジカ＋雄鹿", "era": "古英語" },
+      { "node": "roebuck", "sub": "雄のノロジカ", "era": "中英語" },
+      { "node": "roebuck", "sub": "雄のノロジカ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a young roebuck", "ja": "若い雄ノロジカ" },
+      { "en": "the roebuck's antlers", "ja": "雄ノロジカの角" },
+      { "en": "spot a roebuck", "ja": "雄ノロジカを見つける" },
+      { "en": "a roebuck in the field", "ja": "野原の雄ノロジカ" },
+      { "en": "stalk a roebuck", "ja": "雄ノロジカを忍び寄って狩る" },
+      { "en": "roe deer and roebuck", "ja": "ノロジカと雄ノロジカ" }
+    ],
+    "related": [
+      { "en": "roe deer", "ja": "ノロジカ" },
+      { "en": "doe", "ja": "雌の鹿" },
+      { "en": "stag", "ja": "雄鹿" },
+      { "en": "antler", "ja": "（鹿の）角" }
+    ],
+    "faq": [
+      { "q": "roebuck とはどんな意味？", "a": "ヨーロッパやアジアの森にすむ小型の鹿『ノロジカ（roe deer）』の雄のことです。雌は doe と呼びます。" },
+      { "q": "roebuck の -buck の意味は？", "a": "buck は『雄の鹿・羚羊』を表します。roe（ノロジカ）＋ buck で『雄のノロジカ』になります。" }
+    ],
+    "quiz": [
+      { "q": "A ___ stepped out of the forest.（雄のノロジカ）", "A": "roebuck", "B": "reedbuck のリードバック", "C": "redback", "D": "rollback の後退", "correct": "A" },
+      { "q": "roebuck の雌を表すのはどれ？", "A": "doe", "B": "buck", "C": "stag", "D": "fawn", "correct": "A" }
+    ]
+  },
+  {
+    "english": "redpoll",
+    "pron": "ˈredpoʊl",
+    "kana": "レッドポール",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "red（赤い）＋ poll（頭）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "自然・生き物"],
+    "meaning_main": "ベニヒワ（額が赤い小さなアトリ科の鳥）",
+    "description": "redpoll の意味・発音・例文・語源を解説。額に赤い斑紋をもつ小さなアトリ科の鳥「ベニヒワ」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["redpoll 意味", "redpoll 発音", "redpoll ベニヒワ", "redpoll 鳥"],
+    "meanings": [
+      { "hinshi": "【名詞】ベニヒワ", "note": "額（頭の前部）に赤い斑紋をもつ小さなアトリ科の鳥。寒い地方にすむ。poll は古語で『頭』。" }
+    ],
+    "usages": [
+      { "title": "① 小鳥として", "desc": "額が赤い小鳥を指します。", "example_en": "A redpoll perched on the feeder.", "example_ja": "ベニヒワが餌台にとまった。" },
+      { "title": "② 観察の場面で", "desc": "赤い額で見分けます。", "example_en": "You can spot a redpoll by its red forehead.", "example_ja": "ベニヒワは赤い額で見分けられる。" }
+    ],
+    "warn": [
+      "redpoll の poll は『投票・世論調査』ではなく、古語で『頭』。red（赤い）＋ poll で『赤い頭の鳥』。",
+      "発音は『レッドポール（ˈredpoʊl）』。"
+    ],
+    "etym_note": "red（赤い）＋ poll（頭、中英語 polle「頭・頭髪」より）から成り、「赤い頭の鳥」を意味します。額の赤い斑紋にちなんで名づけられました。",
+    "etym_chain": [
+      { "node": "red + polle", "sub": "赤い＋頭", "era": "中英語" },
+      { "node": "redpoll", "sub": "赤い頭の鳥", "era": "近代英語" },
+      { "node": "redpoll", "sub": "ベニヒワ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a common redpoll", "ja": "ベニヒワ" },
+      { "en": "a redpoll's red cap", "ja": "ベニヒワの赤い頭" },
+      { "en": "spot a redpoll", "ja": "ベニヒワを見つける" },
+      { "en": "a flock of redpolls", "ja": "ベニヒワの群れ" },
+      { "en": "an Arctic redpoll", "ja": "コベニヒワ" },
+      { "en": "a redpoll at the feeder", "ja": "餌台のベニヒワ" }
+    ],
+    "related": [
+      { "en": "finch", "ja": "アトリ・フィンチ" },
+      { "en": "siskin", "ja": "マヒワ" },
+      { "en": "songbird", "ja": "鳴き鳥" },
+      { "en": "poll", "ja": "頭（古語）" }
+    ],
+    "faq": [
+      { "q": "redpoll とはどんな意味？", "a": "額（頭の前部）に赤い斑紋をもつ小さなアトリ科の鳥『ベニヒワ』のことです。寒い地方にすみます。poll は古語で『頭』を意味します。" },
+      { "q": "redpoll の poll は『投票』のこと？", "a": "いいえ。ここでの poll は古語で『頭』を意味します。redpoll は『赤い頭の鳥』という意味です。" }
+    ],
+    "quiz": [
+      { "q": "A ___ perched on the feeder.（ベニヒワ）", "A": "redpoll", "B": "redhead の赤毛", "C": "redshank のアカアシシギ", "D": "redstart のジョウビタキ", "correct": "A" },
+      { "q": "redpoll の poll の意味はどれ？", "A": "頭", "B": "投票", "C": "棒", "D": "池", "correct": "A" }
+    ]
+  },
+  {
+    "english": "roach",
+    "pron": "roʊtʃ",
+    "kana": "ロウチ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 roche（コイ科の魚）／cockroach の短縮",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "自然・生き物"],
+    "meaning_main": "ローチ（ヨーロッパのコイ科の淡水魚）／（米・くだけて）ゴキブリ（cockroach の略）",
+    "description": "roach の意味・発音・例文・語源を解説。ヨーロッパのコイ科の淡水魚「ローチ」と、アメリカ口語で「ゴキブリ」を指す二つの意味の使い方を紹介します。",
+    "keywords": ["roach 意味", "roach 発音", "roach 魚", "roach ゴキブリ"],
+    "meanings": [
+      { "hinshi": "【名詞】ローチ（コイ科の淡水魚）", "note": "ヨーロッパの川や湖にすむ銀色のコイ科の魚。釣りの対象魚。" },
+      { "hinshi": "【名詞】（米・くだけて）ゴキブリ", "note": "cockroach（ゴキブリ）の短縮形。アメリカ口語。" }
+    ],
+    "usages": [
+      { "title": "① 「ローチ（魚）」として", "desc": "コイ科の淡水魚を指します。", "example_en": "He caught several roach in the river.", "example_ja": "彼は川で数匹のローチを釣った。" },
+      { "title": "② 「ゴキブリ」として", "desc": "cockroach の略で使います。", "example_en": "A roach scurried across the kitchen floor.", "example_ja": "ゴキブリが台所の床を素早く横切った。" }
+    ],
+    "warn": [
+      "roach は文脈で『コイ科の淡水魚（英）』と『ゴキブリ（米口語、cockroach の略）』に分かれる。",
+      "イギリスでは主に魚、アメリカでは主にゴキブリの意味で使われやすい。"
+    ],
+    "etym_note": "魚の roach は古フランス語 roche（コイ科の魚）に由来します。ゴキブリの roach は cockroach の短縮形で、こちらはスペイン語 cucaracha に由来します（別系統）。",
+    "etym_chain": [
+      { "node": "roche", "sub": "コイ科の魚", "era": "古フランス語" },
+      { "node": "roach", "sub": "ローチ（魚）", "era": "中英語" },
+      { "node": "roach", "sub": "ローチ／ゴキブリ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "catch a roach", "ja": "ローチを釣る" },
+      { "en": "a shoal of roach", "ja": "ローチの群れ" },
+      { "en": "a kitchen roach", "ja": "台所のゴキブリ" },
+      { "en": "a roach infestation", "ja": "ゴキブリの大発生" },
+      { "en": "roach and rudd", "ja": "ローチとラッド（魚）" },
+      { "en": "squash a roach", "ja": "ゴキブリをつぶす" }
+    ],
+    "related": [
+      { "en": "cockroach", "ja": "ゴキブリ" },
+      { "en": "carp", "ja": "コイ" },
+      { "en": "rudd", "ja": "ラッド（コイ科の魚）" },
+      { "en": "freshwater fish", "ja": "淡水魚" }
+    ],
+    "faq": [
+      { "q": "roach とはどんな意味？", "a": "ヨーロッパの川や湖にすむ銀色のコイ科の淡水魚『ローチ』のことです。アメリカのくだけた言い方では cockroach（ゴキブリ）の略としても使われます。" },
+      { "q": "roach は魚？ゴキブリ？", "a": "文脈によります。イギリスでは主に『コイ科の魚』、アメリカの口語では主に『ゴキブリ（cockroach の略）』を指します。" }
+    ],
+    "quiz": [
+      { "q": "He caught several ___ in the river.（ローチ）", "A": "roach", "B": "roast の焼く", "C": "roam のさまよう", "D": "roar のほえる", "correct": "A" },
+      { "q": "roach がゴキブリを指すとき、その語源はどれ？", "A": "cockroach の短縮", "B": "coach の短縮", "C": "approach の短縮", "D": "broach の短縮", "correct": "A" }
+    ]
+  },
+  {
+    "english": "roentgen",
+    "pron": "ˈrɜːntɡən",
+    "kana": "レントゲン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "人名 Wilhelm Röntgen（レントゲン）より",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "科学・単位"],
+    "meaning_main": "レントゲン（X線・ガンマ線の照射量を表す旧単位）",
+    "description": "roentgen の意味・発音・例文・語源を解説。X線やガンマ線の照射量を表す古い単位「レントゲン」を指す、発見者の名にちなむ科学用語の使い方を紹介します。",
+    "keywords": ["roentgen 意味", "roentgen 発音", "roentgen 単位", "roentgen X線"],
+    "meanings": [
+      { "hinshi": "【名詞】レントゲン（照射線量の単位）", "note": "X線・ガンマ線が空気を電離させる量（照射線量）を表す旧単位。記号 R。X線の発見者レントゲンにちなむ。" }
+    ],
+    "usages": [
+      { "title": "① 放射線の単位として", "desc": "X線などの照射量を表します。", "example_en": "The dose was measured in roentgens.", "example_ja": "その線量はレントゲンで測定された。" },
+      { "title": "② 科学史の文脈で", "desc": "発見者の名にちなむ単位です。", "example_en": "The unit is named after Wilhelm Roentgen.", "example_ja": "その単位はウィルヘルム・レントゲンにちなんで名づけられた。" }
+    ],
+    "warn": [
+      "roentgen は『X線・ガンマ線の照射線量を表す旧単位（記号 R）』。現在は SI 単位（クーロン/kg、シーベルトなど）が主流。",
+      "発見者 Wilhelm Röntgen の名にちなむ。日本語の『レントゲン（X線撮影）』もこの人名から。"
+    ],
+    "etym_note": "X線を発見したドイツの物理学者ヴィルヘルム・レントゲン（Wilhelm Röntgen, 1845–1923）にちなんで名づけられました。彼は1901年に第1回ノーベル物理学賞を受賞しました。",
+    "etym_chain": [
+      { "node": "Röntgen", "sub": "人名（物理学者）", "era": "19〜20世紀" },
+      { "node": "roentgen", "sub": "照射線量の単位", "era": "20世紀" },
+      { "node": "roentgen", "sub": "レントゲン", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "measured in roentgens", "ja": "レントゲンで測定された" },
+      { "en": "a roentgen of radiation", "ja": "1レントゲンの放射線" },
+      { "en": "roentgen rays", "ja": "レントゲン線（X線）" },
+      { "en": "the roentgen unit", "ja": "レントゲンという単位" },
+      { "en": "high roentgen levels", "ja": "高いレントゲン値" },
+      { "en": "named after Roentgen", "ja": "レントゲンにちなんで命名" }
+    ],
+    "related": [
+      { "en": "X-ray", "ja": "X線" },
+      { "en": "radiation", "ja": "放射線" },
+      { "en": "sievert", "ja": "シーベルト（線量当量の単位）" },
+      { "en": "rad", "ja": "ラド（吸収線量の旧単位）" }
+    ],
+    "faq": [
+      { "q": "roentgen とはどんな意味？", "a": "X線・ガンマ線が空気を電離させる量（照射線量）を表す旧単位『レントゲン（記号 R）』のことです。X線の発見者ヴィルヘルム・レントゲンにちなみます。" },
+      { "q": "roentgen の語源は？", "a": "X線を発見したドイツの物理学者ヴィルヘルム・レントゲン（Wilhelm Röntgen）の名にちなみます。日本語の『レントゲン（X線撮影）』も同じ由来です。" }
+    ],
+    "quiz": [
+      { "q": "The dose was measured in ___s.（レントゲン）", "A": "roentgen", "B": "regiment の連隊", "C": "registrar の登録官", "D": "resonance の共鳴", "correct": "A" },
+      { "q": "roentgen は何にちなむ単位？", "A": "X線を発見した物理学者の名", "B": "発見された都市の名", "C": "ギリシャ神話の神", "D": "化学元素の名", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rabbet",
+    "pron": "ˈræbɪt",
+    "kana": "ラベット",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 rabat（打ち下げ・へこみ）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "工作・建築"],
+    "meaning_main": "（木工の）合決り（あいじゃくり）・段欠き溝／その溝を彫る",
+    "description": "rabbet の意味・発音・例文・語源を解説。木材の縁に彫った段差状の溝「合決り（段欠き）」で、板どうしを組み合わせる木工の技法を指す語の使い方を紹介します。",
+    "keywords": ["rabbet 意味", "rabbet 発音", "rabbet 合決り", "rabbet 溝"],
+    "meanings": [
+      { "hinshi": "【名詞】合決り（あいじゃくり）・段欠き溝", "note": "木材の縁を段状に削ってつくる溝。別の板や部材をはめ込んで接合する。" },
+      { "hinshi": "【動詞】合決りを彫る・段欠きを作る", "note": "rabbet the edge（縁に段欠きを彫る）。" }
+    ],
+    "usages": [
+      { "title": "① 木工の溝として", "desc": "板を組み合わせる段差状の溝を指します。", "example_en": "The shelf fits into a rabbet in the side panel.", "example_ja": "棚板は側板の合決り溝にはまる。" },
+      { "title": "② 動詞「段欠きを彫る」として", "desc": "縁に溝を彫る意味です。", "example_en": "He rabbeted the edges of the boards.", "example_ja": "彼は板の縁に合決りを彫った。" }
+    ],
+    "warn": [
+      "rabbet は『木材の縁に彫る段差状の溝（合決り）』。発音は『ラベット（ˈræbɪt）』で rabbit（うさぎ）とほぼ同音だが別語。",
+      "別の接合溝に groove（中央の溝）, dado（横方向の溝）がある。"
+    ],
+    "etym_note": "古フランス語 rabat（打ち下げ・へこみ、rabattre「打ち下げる」より）に由来します。木材の縁を段状に『削り下げる』ことから、段欠きの溝を指すようになりました。",
+    "etym_chain": [
+      { "node": "rabattre", "sub": "打ち下げる", "era": "古フランス語" },
+      { "node": "rabat", "sub": "へこみ・段", "era": "古フランス語" },
+      { "node": "rabbet", "sub": "合決り・段欠き溝", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "cut a rabbet", "ja": "合決りを彫る" },
+      { "en": "a rabbet joint", "ja": "合決り接ぎ" },
+      { "en": "fit into a rabbet", "ja": "合決りにはめる" },
+      { "en": "rabbet the edge", "ja": "縁に段欠きを彫る" },
+      { "en": "a deep rabbet", "ja": "深い合決り溝" },
+      { "en": "a rabbet plane", "ja": "段欠き用かんな" }
+    ],
+    "related": [
+      { "en": "groove", "ja": "溝" },
+      { "en": "dado", "ja": "横溝（ダドー）" },
+      { "en": "joint", "ja": "接合・継ぎ手" },
+      { "en": "chisel", "ja": "のみ" }
+    ],
+    "faq": [
+      { "q": "rabbet とはどんな意味？", "a": "木材の縁を段状に削ってつくる溝『合決り（あいじゃくり）・段欠き』のことです。別の板をはめ込んで板どうしを接合する木工の技法に使います。" },
+      { "q": "rabbet と groove の違いは？", "a": "rabbet は『木材の縁（端）に彫る段差状の溝』、groove は『板の中央などに彫る溝』です。どちらも部材を組み合わせるのに使います。" }
+    ],
+    "quiz": [
+      { "q": "The shelf fits into a ___ in the side panel.（合決り溝）", "A": "rabbet", "B": "rabbit のうさぎ", "C": "rabble の群衆", "D": "rebate の払い戻し", "correct": "A" },
+      { "q": "rabbet が彫られるのは木材のどこ？", "A": "縁（端）", "B": "中央だけ", "C": "裏面の全体", "D": "彫らない", "correct": "A" }
+    ]
+  }
+]

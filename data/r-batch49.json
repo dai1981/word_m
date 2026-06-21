@@ -1,0 +1,475 @@
+[
+  {
+    "english": "ramshackle",
+    "pron": "ˈræmʃækəl",
+    "kana": "ラムシャクル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ransackle（略奪された）の変化形",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "形容詞"],
+    "meaning_main": "今にも壊れそうな・おんぼろの・がたがたの",
+    "description": "ramshackle の意味・発音・例文・語源を解説。建物や仕組みが「今にも崩れそうにおんぼろな」様子の使い方を分かりやすく紹介します。",
+    "keywords": ["ramshackle 意味", "ramshackle 発音", "ramshackle house 意味", "ramshackle おんぼろ"],
+    "meanings": [
+      { "hinshi": "【形容詞】今にも壊れそうな・おんぼろの・がたがたの", "note": "古びて崩れかけている。a ramshackle house（おんぼろの家）。" },
+      { "hinshi": "【形容詞】（組織・計画が）がたがたの・寄せ集めの", "note": "ずさんでまとまりのない。" }
+    ],
+    "usages": [
+      { "title": "① 「おんぼろの・今にも壊れそうな」として", "desc": "古びて崩れかけた様子を表します。", "example_en": "They lived in a ramshackle old cottage.", "example_ja": "彼らはおんぼろの古い小屋に住んでいた。" },
+      { "title": "② 「がたがたの（組織・仕組み）」として", "desc": "ずさんでまとまりのない様子も表します。", "example_en": "The country had a ramshackle health system.", "example_ja": "その国はがたがたの医療制度を抱えていた。" }
+    ],
+    "warn": [
+      "ramshackle はおもに建物の『おんぼろ・崩れかけ』に使う。比喩で『（仕組みが）ずさんな』にも。",
+      "発音は /ˈræmʃækəl/「ラムシャクル」。"
+    ],
+    "etym_note": "ransack（略奪する・かき回す）から派生した ransackled が変化した語とされ、「荒らされて荒れ果てた＝おんぼろの」が原義です。",
+    "etym_chain": [
+      { "node": "ransack", "sub": "略奪する・かき回す", "era": "中英語" },
+      { "node": "ramshackled", "sub": "荒れ果てた", "era": "18世紀" },
+      { "node": "ramshackle", "sub": "おんぼろの", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a ramshackle house", "ja": "おんぼろの家" },
+      { "en": "a ramshackle hut", "ja": "崩れかけた小屋" },
+      { "en": "a ramshackle building", "ja": "がたがたの建物" },
+      { "en": "ramshackle and rundown", "ja": "おんぼろで荒れ果てた" },
+      { "en": "a ramshackle system", "ja": "ずさんな仕組み" },
+      { "en": "look ramshackle", "ja": "おんぼろに見える" }
+    ],
+    "related": [
+      { "en": "dilapidated", "ja": "荒廃した" },
+      { "en": "rundown", "ja": "荒れ果てた" },
+      { "en": "decrepit", "ja": "老朽化した" },
+      { "en": "sturdy", "ja": "頑丈な（反対語）" }
+    ],
+    "faq": [
+      { "q": "ramshackle とはどんな意味？", "a": "『今にも壊れそうな・おんぼろの・がたがたの』という意味です。おもに古びた建物に使い、比喩で『ずさんな仕組み』にも使います。" },
+      { "q": "ramshackle と似た語は？", "a": "dilapidated（荒廃した）、decrepit（老朽化した）、rundown（荒れ果てた）などが近い意味です。" }
+    ],
+    "quiz": [
+      { "q": "They lived in a ___ old cottage.（おんぼろの）", "A": "ramshackle", "B": "remarkable の注目すべき", "C": "rigorous", "D": "resilient", "correct": "A" },
+      { "q": "ramshackle の反対語はどれ？", "A": "sturdy（頑丈な）", "B": "dilapidated（荒廃した）", "C": "rundown（荒れ果てた）", "D": "decrepit（老朽化した）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recapitulate",
+    "pron": "ˌriːkəˈpɪtʃuleɪt",
+    "kana": "リーカピチュレイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 capitulum（小見出し）由来",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "要点を繰り返す・要約する（略 recap）",
+    "description": "recapitulate の意味・発音・例文・語源を解説。話の「要点を繰り返してまとめる・要約する」使い方や、略語 recap も分かりやすく紹介します。",
+    "keywords": ["recapitulate 意味", "recapitulate 発音", "recap 意味", "recapitulate 要約"],
+    "meanings": [
+      { "hinshi": "【動詞】要点を繰り返す・要約する", "note": "述べたことの要点をまとめ直す。略して recap。" }
+    ],
+    "usages": [
+      { "title": "① 「要点を繰り返す・要約する」として", "desc": "述べたことの要点をまとめ直す意味です。", "example_en": "Let me recapitulate the main points.", "example_ja": "要点をもう一度まとめさせてください。" },
+      { "title": "② 略語 recap として", "desc": "会話・番組では recap と短く言います。", "example_en": "Here's a quick recap of today's news.", "example_ja": "今日のニュースを手短におさらいします。" }
+    ],
+    "warn": [
+      "略して recap（動詞・名詞）。capit-（頭）は capital・chapter と同じ語源。",
+      "summarize（要約する）に近い。"
+    ],
+    "etym_note": "ラテン語 recapitulare（re-「再び」＋ capitulum「小見出し（caput「頭」の指小形）」＝要点を再び挙げる）に由来します。capital・chapter と同じ capit-（頭）の語根です。",
+    "etym_chain": [
+      { "node": "caput", "sub": "頭", "era": "ラテン語" },
+      { "node": "recapitulare", "sub": "要点を再び挙げる", "era": "後期ラテン語" },
+      { "node": "recapitulate", "sub": "要約する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "recapitulate the main points", "ja": "要点をまとめ直す" },
+      { "en": "to recapitulate", "ja": "要約すると" },
+      { "en": "let me recapitulate", "ja": "おさらいさせてください" },
+      { "en": "a quick recap", "ja": "手短なおさらい" },
+      { "en": "recap of the events", "ja": "出来事のおさらい" },
+      { "en": "recapitulation", "ja": "要約・繰り返し" }
+    ],
+    "related": [
+      { "en": "recap", "ja": "要約（略語）" },
+      { "en": "summarize", "ja": "要約する" },
+      { "en": "review", "ja": "見直す" },
+      { "en": "reiterate", "ja": "繰り返し述べる" }
+    ],
+    "faq": [
+      { "q": "recapitulate と summarize の違いは？", "a": "意味は近く『要約する』ですが、recapitulate は『（すでに述べた）要点を繰り返してまとめ直す』ニュアンスです。略して recap です。" },
+      { "q": "recap とは？", "a": "recapitulate の略で、動詞『おさらいする』・名詞『要約・おさらい』として使います。" }
+    ],
+    "quiz": [
+      { "q": "Let me ___ the main points.（要約する）", "A": "recapitulate", "B": "reciprocate のお返しをする", "C": "reduce", "D": "remove", "correct": "A" },
+      { "q": "recapitulate の略語はどれ？", "A": "recap", "B": "recip", "C": "recapt", "D": "recapi", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recompense",
+    "pron": "ˈrekəmpens",
+    "kana": "レコンペンス",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "ラテン語 recompensare（埋め合わせる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本語"],
+    "meaning_main": "（損害・労苦への）補償・報酬／償う・報いる",
+    "description": "recompense の意味・発音・例文・語源を解説。損害や労苦に対する「補償・報酬」や「償う・報いる」というかたい語の使い方を紹介します。",
+    "keywords": ["recompense 意味", "recompense 発音", "recompense for 使い方", "recompense 補償"],
+    "meanings": [
+      { "hinshi": "【名詞】（損害・労苦への）補償・報酬", "note": "損や苦労への埋め合わせ。in recompense for（〜の補償として）。" },
+      { "hinshi": "【動詞】償う・報いる", "note": "recompense someone for（〜について人に報いる）。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「補償・報酬」として", "desc": "損や苦労への埋め合わせを表します。", "example_en": "She received money in recompense for her injury.", "example_ja": "彼女はけがの補償としてお金を受け取った。" },
+      { "title": "② 動詞「償う・報いる」として", "desc": "損や労に報いる意味です。", "example_en": "They recompensed him for his efforts.", "example_ja": "彼らは彼の努力に報いた。" }
+    ],
+    "warn": [
+      "「〜の補償として」は in recompense for。compensation（補償）に近いかたい語。",
+      "compensate・pension と同じ pens-（量る・払う）の語源。"
+    ],
+    "etym_note": "ラテン語 recompensare（re-「再び」＋ compensare「埋め合わせる」）に由来します。compensate・pension と同じ pens-（量る・支払う）の語根です。",
+    "etym_chain": [
+      { "node": "recompensare", "sub": "埋め合わせる", "era": "後期ラテン語" },
+      { "node": "recompense", "sub": "補償する", "era": "中英語" },
+      { "node": "recompense", "sub": "補償・報いる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "in recompense for", "ja": "〜の補償として" },
+      { "en": "adequate recompense", "ja": "十分な補償" },
+      { "en": "recompense someone for", "ja": "〜について人に報いる" },
+      { "en": "as recompense", "ja": "報酬として" },
+      { "en": "fair recompense", "ja": "正当な報酬" },
+      { "en": "without recompense", "ja": "無報酬で" }
+    ],
+    "related": [
+      { "en": "compensation", "ja": "補償" },
+      { "en": "reward", "ja": "報酬" },
+      { "en": "repay", "ja": "報いる" },
+      { "en": "reimburse", "ja": "弁済する" }
+    ],
+    "faq": [
+      { "q": "recompense とはどんな意味？", "a": "『（損害・労苦への）補償・報酬』、また動詞で『償う・報いる』という意味のかたい語です。in recompense for（〜の補償として）のように使います。" },
+      { "q": "recompense と compensation の違いは？", "a": "意味はほぼ同じ『補償』ですが、recompense はよりかたい・やや古風な語です。" }
+    ],
+    "quiz": [
+      { "q": "She received money in ___ for her injury.（補償）", "A": "recompense", "B": "reception の受付", "C": "reservation", "D": "reputation", "correct": "A" },
+      { "q": "「〜の補償として」を表すのはどれ？", "A": "in recompense for", "B": "in reception for", "C": "in reservation for", "D": "in reputation for", "correct": "A" }
+    ]
+  },
+  {
+    "english": "redundancy",
+    "pron": "rɪˈdʌndənsi",
+    "kana": "リダンダンシー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "redundant（余分な）＋ -cy",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "名詞"],
+    "meaning_main": "余分・冗長／（英）人員整理・解雇／（工学）予備の備え",
+    "description": "redundancy の意味・発音・例文・語源を解説。「冗長・余分」、イギリス英語の「人員整理（解雇）」、工学の「予備系統」の使い方を紹介します。",
+    "keywords": ["redundancy 意味", "redundancy 発音", "redundancy 解雇", "redundant 関係"],
+    "meanings": [
+      { "hinshi": "【名詞】余分・冗長・重複", "note": "なくてもよい重複。avoid redundancy（冗長を避ける）。" },
+      { "hinshi": "【名詞】（英）人員整理・解雇", "note": "face redundancy（解雇に直面する）。" },
+      { "hinshi": "【名詞】（工学）予備の備え・冗長性", "note": "故障に備えた予備系統。" }
+    ],
+    "usages": [
+      { "title": "① 「冗長・余分」として", "desc": "なくてもよい重複を表します。", "example_en": "Cut the redundancy in your writing.", "example_ja": "文章の冗長な部分を削りなさい。" },
+      { "title": "② （英）「人員整理」として", "desc": "人員過剰による解雇を表します。", "example_en": "Hundreds of workers face redundancy.", "example_ja": "何百人もの労働者が解雇に直面している。" }
+    ],
+    "warn": [
+      "『人員整理・解雇』の意味はおもにイギリス英語（日本語の『リストラ』に近い）。形容詞は redundant。",
+      "工学では『冗長性（故障に備えた予備）』というよい意味でも使う。"
+    ],
+    "etym_note": "形容詞 redundant（余分な。ラテン語 redundare「あふれる」から）に -cy がついた語で、「あふれて余っていること＝冗長」が原義です。abound と同じ und-（波）の語根です。",
+    "etym_chain": [
+      { "node": "redundare", "sub": "あふれる", "era": "ラテン語" },
+      { "node": "redundant", "sub": "余分な", "era": "近代英語" },
+      { "node": "redundancy", "sub": "冗長・人員整理", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "avoid redundancy", "ja": "冗長を避ける" },
+      { "en": "face redundancy", "ja": "（英）解雇に直面する" },
+      { "en": "redundancy pay", "ja": "（英）解雇手当" },
+      { "en": "voluntary redundancy", "ja": "（英）希望退職" },
+      { "en": "built-in redundancy", "ja": "（工学）予備系統" },
+      { "en": "reduce redundancy", "ja": "冗長を減らす" }
+    ],
+    "related": [
+      { "en": "redundant", "ja": "余分な（形容詞）" },
+      { "en": "repetition", "ja": "繰り返し" },
+      { "en": "surplus", "ja": "余剰" },
+      { "en": "layoff", "ja": "一時解雇（米）" }
+    ],
+    "faq": [
+      { "q": "redundancy の三つの意味は？", "a": "①『冗長・余分（重複）』、②（英）『人員整理・解雇』、③（工学）『冗長性（故障に備えた予備）』です。" },
+      { "q": "redundancy の『解雇』はどこの英語？", "a": "おもにイギリス英語です。face redundancy（解雇に直面する）のように使います。米では layoff を使います。" }
+    ],
+    "quiz": [
+      { "q": "Cut the ___ in your writing.（冗長）", "A": "redundancy", "B": "reluctance の気の進まなさ", "C": "resilience", "D": "reservation", "correct": "A" },
+      { "q": "redundancy の形容詞形はどれ？", "A": "redundant", "B": "redundous", "C": "redundive", "D": "redundary", "correct": "A" }
+    ]
+  },
+  {
+    "english": "refractory",
+    "pron": "rɪˈfræktəri",
+    "kana": "リフラクトリー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 refractarius（手に負えない）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "形容詞"],
+    "meaning_main": "（人が）手に負えない・強情な／（病気・物質が）治りにくい・耐火性の",
+    "description": "refractory の意味・発音・例文・語源を解説。「強情で手に負えない」人や、「治りにくい」病気、「耐火性の」物質という使い方を紹介します。",
+    "keywords": ["refractory 意味", "refractory 発音", "refractory 強情", "refractory 耐火"],
+    "meanings": [
+      { "hinshi": "【形容詞】（人・動物が）手に負えない・強情な", "note": "言うことを聞かない。a refractory child（手に負えない子）。" },
+      { "hinshi": "【形容詞】（病気が）治りにくい・（物質が）耐火性の", "note": "治療に反応しない／高温に耐える。" }
+    ],
+    "usages": [
+      { "title": "① 「手に負えない・強情な」として", "desc": "言うことを聞かない様子を表します。", "example_en": "The teacher struggled with a refractory student.", "example_ja": "先生は手に負えない生徒に手を焼いた。" },
+      { "title": "② 「治りにくい・耐火性の」として", "desc": "医学・工学で治療に反応しない・高温に耐える意味です。", "example_en": "refractory bricks for the furnace", "example_ja": "炉用の耐火れんが" }
+    ],
+    "warn": [
+      "refract（屈折する）と同じ fract-（折る）の語源。refractory は『（折り曲げられない＝）手に負えない・耐性の』。",
+      "医学では『（治療に）反応しない・難治性の』、工学では『耐火性の』。"
+    ],
+    "etym_note": "ラテン語 refractarius（手に負えない・反抗的な。refringere「砕く・折る」から）に由来します。refract・fracture と同じ fract-（折る）の語根です。",
+    "etym_chain": [
+      { "node": "refractarius", "sub": "手に負えない", "era": "ラテン語" },
+      { "node": "refractory", "sub": "強情な", "era": "近代英語" },
+      { "node": "refractory", "sub": "手に負えない・耐火性の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a refractory child", "ja": "手に負えない子" },
+      { "en": "refractory behavior", "ja": "反抗的な行動" },
+      { "en": "refractory disease", "ja": "難治性の病気" },
+      { "en": "refractory materials", "ja": "耐火材料" },
+      { "en": "refractory bricks", "ja": "耐火れんが" },
+      { "en": "prove refractory", "ja": "手に負えないとわかる" }
+    ],
+    "related": [
+      { "en": "stubborn", "ja": "頑固な" },
+      { "en": "unmanageable", "ja": "手に負えない" },
+      { "en": "obstinate", "ja": "強情な" },
+      { "en": "obedient", "ja": "従順な（反対語）" }
+    ],
+    "faq": [
+      { "q": "refractory の三つの使い方は？", "a": "①（人が）『手に負えない・強情な』、②（病気が）『治りにくい・難治性の』、③（物質が）『耐火性の』です。" },
+      { "q": "refractory と refract は関係ある？", "a": "はい。どちらも fract-（折る）が語源です。refract は『屈折する』、refractory は『（折り曲げられない＝）手に負えない・耐性の』です。" }
+    ],
+    "quiz": [
+      { "q": "The teacher struggled with a ___ student.（手に負えない）", "A": "refractory", "B": "reluctant の気が進まない", "C": "resilient", "D": "resolute", "correct": "A" },
+      { "q": "refractory と同じ語源（折る）の語はどれ？", "A": "refract", "B": "river", "C": "ribbon", "D": "ripple", "correct": "A" }
+    ]
+  },
+  {
+    "english": "regalia",
+    "pron": "rɪˈɡeɪliə",
+    "kana": "リゲイリア",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 regalia（王の権標）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "文化"],
+    "meaning_main": "（王・団体の）正装・式服・記章一式",
+    "description": "regalia の意味・発音・例文・語源を解説。王冠や式服など「格式ある正装・記章一式」の使い方や、royal との語源的な関係も紹介します。",
+    "keywords": ["regalia 意味", "regalia 発音", "regalia 正装", "regalia 記章"],
+    "meanings": [
+      { "hinshi": "【名詞】（王・団体の）正装・式服・記章一式", "note": "王冠・式服・記章など格式ある装い。royal regalia（王の権標）。" }
+    ],
+    "usages": [
+      { "title": "① 「正装・記章一式」として", "desc": "格式ある式服や記章を表します（複数扱い）。", "example_en": "The king appeared in full regalia.", "example_ja": "王は正装一式を身にまとって現れた。" },
+      { "title": "② 団体の式服として", "desc": "学位式や式典の式服も表します。", "example_en": "Graduates wore their academic regalia.", "example_ja": "卒業生は学位の式服を着ていた。" }
+    ],
+    "warn": [
+      "regalia は複数形扱いの名詞。in full regalia は『正装一式を身につけて』。",
+      "royal・regal（王の）と同じ reg-（治める）の語源。"
+    ],
+    "etym_note": "ラテン語 regalia（regalis「王の」の中性複数＝王の権標）に由来します。royal・regal・reign と同じ reg-（治める）の語根です。",
+    "etym_chain": [
+      { "node": "regalis", "sub": "王の", "era": "ラテン語" },
+      { "node": "regalia", "sub": "王の権標", "era": "ラテン語" },
+      { "node": "regalia", "sub": "正装・記章一式", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "in full regalia", "ja": "正装一式で" },
+      { "en": "royal regalia", "ja": "王の権標" },
+      { "en": "academic regalia", "ja": "学位の式服" },
+      { "en": "ceremonial regalia", "ja": "儀式用の正装" },
+      { "en": "wear regalia", "ja": "正装を身につける" },
+      { "en": "the crown regalia", "ja": "王冠の宝器" }
+    ],
+    "related": [
+      { "en": "royal", "ja": "王の" },
+      { "en": "robe", "ja": "式服" },
+      { "en": "insignia", "ja": "記章" },
+      { "en": "finery", "ja": "晴れ着" }
+    ],
+    "faq": [
+      { "q": "regalia とはどんな意味？", "a": "王冠・式服・記章など『格式ある正装・記章一式』のことです。in full regalia（正装一式で）のように使います。複数形扱いです。" },
+      { "q": "regalia と royal は関係ある？", "a": "はい。どちらもラテン語 regalis（王の）に由来します。regalia は『王の権標・正装』です。" }
+    ],
+    "quiz": [
+      { "q": "The king appeared in full ___.（正装一式）", "A": "regalia", "B": "regular の規則的な", "C": "region", "D": "register", "correct": "A" },
+      { "q": "regalia と同じ語源（王の）の語はどれ？", "A": "royal", "B": "river", "C": "ribbon", "D": "ripple", "correct": "A" }
+    ]
+  },
+  {
+    "english": "remunerate",
+    "pron": "rɪˈmjuːnəreɪt",
+    "kana": "リミューナレイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 remunerari（報いる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "ビジネス"],
+    "meaning_main": "（労働・サービスに）報酬を払う・報いる",
+    "description": "remunerate の意味・発音・例文・語源を解説。仕事やサービスに対して「報酬を支払う」というかたいビジネス語の使い方を紹介します。",
+    "keywords": ["remunerate 意味", "remunerate 発音", "remuneration 意味", "remunerate 報酬"],
+    "meanings": [
+      { "hinshi": "【動詞】（労働・サービスに）報酬を払う・報いる", "note": "働きに見合う対価を払う。be well remunerated（高い報酬を得る）。" }
+    ],
+    "usages": [
+      { "title": "① 「報酬を払う・報いる」として", "desc": "働きに対価を払う意味です（フォーマル）。", "example_en": "Employees should be fairly remunerated.", "example_ja": "従業員は公正に報酬を受けるべきだ。" },
+      { "title": "② be remunerated として", "desc": "「報酬を得る」を受動態で表します。", "example_en": "The job is well remunerated.", "example_ja": "その仕事は報酬が高い。" }
+    ],
+    "warn": [
+      "remunerate は『（労働に）報酬を払う』というフォーマルなビジネス語。名詞は remuneration（報酬）。",
+      "つづり注意：remunerate（renumerate は誤り）。"
+    ],
+    "etym_note": "ラテン語 remunerari（re-「返して」＋ munus「贈り物・務め」＝報いる）に由来します。municipal・munificent と同じ mun-（務め・贈り物）の語根です。",
+    "etym_chain": [
+      { "node": "remunerari", "sub": "報いる", "era": "ラテン語" },
+      { "node": "remunerate", "sub": "報酬を払う", "era": "近代英語" },
+      { "node": "remunerate", "sub": "報酬を払う・報いる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be well remunerated", "ja": "高い報酬を得る" },
+      { "en": "fairly remunerate", "ja": "公正に報酬を払う" },
+      { "en": "remunerate employees", "ja": "従業員に報酬を払う" },
+      { "en": "adequately remunerate", "ja": "十分な報酬を払う" },
+      { "en": "remuneration", "ja": "報酬" },
+      { "en": "a remuneration package", "ja": "報酬一式・待遇" }
+    ],
+    "related": [
+      { "en": "remuneration", "ja": "報酬（名詞）" },
+      { "en": "pay", "ja": "支払う" },
+      { "en": "compensate", "ja": "補償する・報いる" },
+      { "en": "reward", "ja": "報いる" }
+    ],
+    "faq": [
+      { "q": "remunerate とはどんな意味？", "a": "『（労働・サービスに対して）報酬を払う・報いる』というフォーマルなビジネス語です。be well remunerated（高い報酬を得る）のように使います。" },
+      { "q": "remunerate の名詞形は？", "a": "remuneration（報酬・給与）です。" }
+    ],
+    "quiz": [
+      { "q": "Employees should be fairly ___.（報酬を受ける）", "A": "remunerated", "B": "reminded の思い出させた", "C": "reduced", "D": "removed", "correct": "A" },
+      { "q": "remunerate の名詞形はどれ？", "A": "remuneration", "B": "remunerment", "C": "remunerance", "D": "remunerity", "correct": "A" }
+    ]
+  },
+  {
+    "english": "repartee",
+    "pron": "ˌrepɑːrˈtiː",
+    "kana": "レパーティー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 repartie（即座の返答）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "言葉"],
+    "meaning_main": "当意即妙の応酬・気のきいた受け答え",
+    "description": "repartee の意味・発音・例文・語源を解説。機知に富んだ「即座で気のきいた受け答え・やりとり」の使い方を分かりやすく紹介します。",
+    "keywords": ["repartee 意味", "repartee 発音", "repartee 機知", "repartee 受け答え"],
+    "meanings": [
+      { "hinshi": "【名詞】当意即妙の応酬・気のきいた受け答え", "note": "機知に富んだすばやい返し。witty repartee（気のきいたやりとり）。" }
+    ],
+    "usages": [
+      { "title": "① 「気のきいた受け答え・応酬」として", "desc": "機知に富んだすばやいやりとりを表します。", "example_en": "Their conversation was full of witty repartee.", "example_ja": "彼らの会話は気のきいた応酬に満ちていた。" },
+      { "title": "② 才知の例として", "desc": "とっさの機知をほめるときに使います。", "example_en": "She is known for her quick repartee.", "example_ja": "彼女は当意即妙の受け答えで知られている。" }
+    ],
+    "warn": [
+      "発音は /ˌrepɑːrˈtiː/「レパーティー」でフランス語風。語尾は『ティー』。",
+      "retort（鋭い返答、既出）に近いが、repartee は『機知に富んだ軽妙なやりとり』。"
+    ],
+    "etym_note": "フランス語 repartie（repartir「すぐに言い返す」から＝即座の返答）に由来します。「フェンシングで即座に突き返す」イメージから『機知の応酬』になりました。",
+    "etym_chain": [
+      { "node": "repartir", "sub": "すぐに言い返す", "era": "フランス語" },
+      { "node": "repartie", "sub": "即座の返答", "era": "フランス語" },
+      { "node": "repartee", "sub": "当意即妙の応酬", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "witty repartee", "ja": "気のきいたやりとり" },
+      { "en": "quick repartee", "ja": "当意即妙の受け答え" },
+      { "en": "clever repartee", "ja": "巧みな応酬" },
+      { "en": "engage in repartee", "ja": "機知の応酬をする" },
+      { "en": "sparkling repartee", "ja": "才気あふれるやりとり" },
+      { "en": "a master of repartee", "ja": "受け答えの名手" }
+    ],
+    "related": [
+      { "en": "wit", "ja": "機知" },
+      { "en": "banter", "ja": "軽口・冗談のやりとり" },
+      { "en": "retort", "ja": "鋭い返答" },
+      { "en": "comeback", "ja": "気のきいた返し" }
+    ],
+    "faq": [
+      { "q": "repartee とはどんな意味？", "a": "『機知に富んだ、即座で気のきいた受け答え・応酬』のことです。witty repartee（気のきいたやりとり）のように使います。" },
+      { "q": "repartee の発音は？", "a": "/ˌrepɑːrˈtiː/「レパーティー」です。フランス語由来で、語尾を『ティー』と読みます。" }
+    ],
+    "quiz": [
+      { "q": "Their conversation was full of witty ___.（応酬）", "A": "repartee", "B": "reparation の賠償", "C": "reputation", "D": "reservation", "correct": "A" },
+      { "q": "repartee と最も意味が近いのはどれ？", "A": "wit（機知）", "B": "silence（沈黙）", "C": "speech（演説）", "D": "report（報告）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "revamp",
+    "pron": "ˌriːˈvæmp",
+    "kana": "リーバンプ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ vamp（靴の前部を直す）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "刷新する・作り直す・改良する",
+    "description": "revamp の意味・発音・例文・語源を解説。デザインやシステムを「刷新する・作り直す」というくだけたビジネス語の使い方を紹介します。",
+    "keywords": ["revamp 意味", "revamp 発音", "revamp 刷新", "revamp 改良"],
+    "meanings": [
+      { "hinshi": "【動詞】刷新する・作り直す・改良する", "note": "古いものを新しく作り変える。revamp a website（サイトを刷新する）。" }
+    ],
+    "usages": [
+      { "title": "① 「刷新する・作り直す」として", "desc": "古いものを新しく改良する意味です。", "example_en": "The company revamped its website.", "example_ja": "その会社はウェブサイトを刷新した。" },
+      { "title": "② 制度・イメージの刷新として", "desc": "仕組みやイメージを一新する意味です。", "example_en": "They revamped the entire menu.", "example_ja": "彼らはメニュー全体を作り直した。" }
+    ],
+    "warn": [
+      "revamp はくだけたビジネス語で『刷新・改良する』。renovate（建物を改装）より広く使える。",
+      "vamp はもと『靴の甲革』。revamp は『靴の前部を直す＝作り直す』が原義。"
+    ],
+    "etym_note": "re-（再び）＋ vamp（靴の前部・甲革。古フランス語 avantpié「足の前部」から）の構成で、「靴の前部を直す＝作り直す・刷新する」が原義です。",
+    "etym_chain": [
+      { "node": "avantpié", "sub": "足の前部", "era": "古フランス語" },
+      { "node": "vamp", "sub": "靴の甲革", "era": "中英語" },
+      { "node": "revamp", "sub": "刷新する・作り直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "revamp a website", "ja": "サイトを刷新する" },
+      { "en": "revamp the system", "ja": "システムを作り直す" },
+      { "en": "completely revamp", "ja": "全面的に刷新する" },
+      { "en": "revamp the image", "ja": "イメージを一新する" },
+      { "en": "a major revamp", "ja": "大幅な刷新" },
+      { "en": "revamp the menu", "ja": "メニューを作り直す" }
+    ],
+    "related": [
+      { "en": "overhaul", "ja": "総点検・刷新する" },
+      { "en": "renovate", "ja": "改装する" },
+      { "en": "update", "ja": "更新する" },
+      { "en": "modernize", "ja": "現代化する" }
+    ],
+    "faq": [
+      { "q": "revamp とはどんな意味？", "a": "『（古いものを）刷新する・作り直す・改良する』という、くだけたビジネス語です。revamp a website（サイトを刷新する）のように使います。" },
+      { "q": "revamp の語源は？", "a": "re-（再び）＋ vamp（靴の甲革）で、もとは『靴の前部を直す』、そこから『作り直す・刷新する』になりました。" }
+    ],
+    "quiz": [
+      { "q": "The company ___ its website.（刷新した）", "A": "revamped", "B": "reduced", "C": "removed", "D": "refused", "correct": "A" },
+      { "q": "revamp と最も意味が近いのはどれ？", "A": "overhaul（刷新する）", "B": "destroy（破壊する）", "C": "ignore（無視する）", "D": "reduce（減らす）", "correct": "A" }
+    ]
+  }
+]

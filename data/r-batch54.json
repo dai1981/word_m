@@ -1,0 +1,533 @@
+[
+  {
+    "english": "ramp",
+    "pron": "ræmp",
+    "kana": "ランプ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 ramper（よじ登る）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "基本単語"],
+    "meaning_main": "傾斜路・スロープ／（ramp up で）増やす・強化する",
+    "description": "ramp の意味・発音・例文・語源を解説。高低差をつなぐ「傾斜路・スロープ」、また ramp up（徐々に増やす）の使い方を分かりやすく紹介します。",
+    "keywords": ["ramp 意味", "ramp 発音", "ramp up 意味", "ramp スロープ"],
+    "meanings": [
+      { "hinshi": "【名詞】傾斜路・スロープ", "note": "高さの違う場所をつなぐ斜面。高速道路の入口（on-ramp）にも使う。" },
+      { "hinshi": "【動詞】ramp up で（徐々に）増やす・強化する", "note": "生産・活動などを段階的に増やすこと。ramp down は減らす。" }
+    ],
+    "usages": [
+      { "title": "① 「傾斜路・スロープ」として", "desc": "段差をつなぐ斜面を指します。", "example_en": "A wheelchair ramp leads to the entrance.", "example_ja": "車いす用のスロープが入口へ続いている。" },
+      { "title": "② ramp up として", "desc": "「徐々に増やす・強化する」を表します。", "example_en": "The factory ramped up production for the holidays.", "example_ja": "工場は休暇シーズンに向けて生産を増やした。" }
+    ],
+    "warn": [
+      "ramp は『傾斜路・スロープ』。lamp（ランプ・電灯）とつづり・意味が違うので注意。",
+      "ramp up / ramp down は『増やす／減らす』のセットで覚えると便利。"
+    ],
+    "etym_note": "古フランス語 ramper（よじ登る・這い上がる）に由来します。もともと「斜めに上がる」という動きを表し、そこから「傾斜路」の意味になりました。",
+    "etym_chain": [
+      { "node": "ramper", "sub": "よじ登る・這う", "era": "古フランス語" },
+      { "node": "ramp", "sub": "傾斜・斜路", "era": "中英語" },
+      { "node": "ramp", "sub": "傾斜路・スロープ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "wheelchair ramp", "ja": "車いす用スロープ" },
+      { "en": "on-ramp", "ja": "（高速道路の）入口ランプ" },
+      { "en": "off-ramp", "ja": "（高速道路の）出口ランプ" },
+      { "en": "ramp up production", "ja": "生産を増やす" },
+      { "en": "ramp down", "ja": "徐々に減らす" },
+      { "en": "loading ramp", "ja": "荷積み用斜路" }
+    ],
+    "related": [
+      { "en": "slope", "ja": "坂・傾斜" },
+      { "en": "incline", "ja": "傾斜" },
+      { "en": "increase", "ja": "増やす" },
+      { "en": "escalate", "ja": "段階的に強める" }
+    ],
+    "faq": [
+      { "q": "ramp とはどんな意味？", "a": "段差をつなぐ『傾斜路・スロープ』のことです。動詞句 ramp up は『徐々に増やす・強化する』を表します。" },
+      { "q": "ramp up と increase の違いは？", "a": "ramp up は『段階的に少しずつ増やす』ニュアンスが強く、increase より計画的・連続的な増加を表します。" }
+    ],
+    "quiz": [
+      { "q": "A wheelchair ___ leads to the entrance.（スロープ）", "A": "ramp", "B": "lamp の電灯", "C": "stamp", "D": "camp", "correct": "A" },
+      { "q": "「生産を増やす」を表すのは？", "A": "ramp up production", "B": "ramp off", "C": "lamp up", "D": "camp out", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reset",
+    "pron": "riːˈset",
+    "kana": "リセット",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ set（置く・設定する）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "基本単語"],
+    "meaning_main": "（元の状態に）リセットする・設定し直す／やり直し",
+    "description": "reset の意味・発音・例文・語源を解説。機器や状況を「元に戻す・設定し直す」というリセットの使い方を分かりやすく紹介します。",
+    "keywords": ["reset 意味", "reset 発音", "reset 過去形", "reset 設定し直す"],
+    "meanings": [
+      { "hinshi": "【動詞】リセットする・設定し直す", "note": "機器や数値を初期状態に戻す。活用は reset-reset-reset（無変化）。" },
+      { "hinshi": "【動詞】（関係・状況を）仕切り直す", "note": "reset the relationship（関係を仕切り直す）のように比喩的にも使う。" },
+      { "hinshi": "【名詞】リセット・やり直し", "note": "a reset（仕切り直し）。factory reset（工場出荷時の初期化）。" }
+    ],
+    "usages": [
+      { "title": "① 「設定し直す・初期化する」として", "desc": "機器を元の状態に戻す意味です。", "example_en": "I had to reset the router to fix the connection.", "example_ja": "接続を直すためにルーターをリセットしなければならなかった。" },
+      { "title": "② 「仕切り直す」として", "desc": "関係や状況を新たに始め直す意味です。", "example_en": "The two countries hoped to reset their relations.", "example_ja": "両国は関係の仕切り直しを望んだ。" }
+    ],
+    "warn": [
+      "reset の過去形・過去分詞は reset（無変化）。reseted とはしない。",
+      "factory reset は『工場出荷状態に戻す（初期化）』の決まり文句。"
+    ],
+    "etym_note": "re-（再び）＋ set（置く・設定する）から成り、「もう一度設定する＝元に戻す」が原義です。コンピュータの普及とともに「初期化する」の意味が広がりました。",
+    "etym_chain": [
+      { "node": "settan", "sub": "据える・置く", "era": "古英語" },
+      { "node": "set", "sub": "設定する", "era": "中英語" },
+      { "node": "reset", "sub": "設定し直す・リセットする", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reset a password", "ja": "パスワードを再設定する" },
+      { "en": "factory reset", "ja": "工場出荷時の初期化" },
+      { "en": "reset the clock", "ja": "時計を合わせ直す" },
+      { "en": "reset the button", "ja": "ボタンをリセットする" },
+      { "en": "a fresh reset", "ja": "新たな仕切り直し" },
+      { "en": "hit reset", "ja": "リセットする・やり直す" }
+    ],
+    "related": [
+      { "en": "restart", "ja": "再起動する" },
+      { "en": "restore", "ja": "復元する" },
+      { "en": "reboot", "ja": "再起動する" },
+      { "en": "clear", "ja": "消去する" }
+    ],
+    "faq": [
+      { "q": "reset の過去形は？", "a": "reset です（reset-reset-reset で無変化）。put や cut と同じタイプの動詞です。" },
+      { "q": "reset と restart の違いは？", "a": "reset は『初期状態・設定に戻す』、restart は『いったん止めて再び動かす（再起動）』です。" }
+    ],
+    "quiz": [
+      { "q": "I had to ___ the router to fix it.（リセットする）", "A": "reset", "B": "resent の恨んだ", "C": "resell", "D": "resist", "correct": "A" },
+      { "q": "reset の過去形はどれ？", "A": "reset", "B": "reseted", "C": "resetted", "D": "resat", "correct": "A" }
+    ]
+  },
+  {
+    "english": "restart",
+    "pron": "riːˈstɑːrt",
+    "kana": "リスタート",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ start（始める）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "基本単語"],
+    "meaning_main": "再び始める・再開する／再起動（する）",
+    "description": "restart の意味・発音・例文・語源を解説。いったん止めたものを「再び始める・再起動する」という使い方を分かりやすく紹介します。",
+    "keywords": ["restart 意味", "restart 発音", "restart 再起動", "restart 再開する"],
+    "meanings": [
+      { "hinshi": "【動詞】再び始める・再開する", "note": "止まっていた活動を再び動かす。restart the engine（エンジンをかけ直す）。" },
+      { "hinshi": "【動詞】（機器を）再起動する", "note": "パソコンなどを一度切ってまた立ち上げる。" },
+      { "hinshi": "【名詞】再開・再起動", "note": "a fresh restart（新たな再出発）。" }
+    ],
+    "usages": [
+      { "title": "① 「再開する」として", "desc": "止まっていたことを再び始める意味です。", "example_en": "They decided to restart the negotiations.", "example_ja": "彼らは交渉を再開することにした。" },
+      { "title": "② 「再起動する」として", "desc": "機器を一度切ってまた動かす意味です。", "example_en": "Please restart your computer to apply the update.", "example_ja": "更新を適用するためにパソコンを再起動してください。" }
+    ],
+    "warn": [
+      "restart は『再び始める・再起動する』。reset（初期化する）とは別で、設定は消えない。",
+      "名詞の make a restart は『再出発する』。"
+    ],
+    "etym_note": "re-（再び）＋ start（始める）から成り、「もう一度始める」が文字どおりの意味です。start は古英語の steortian（跳ね上がる・突然動く）に由来します。",
+    "etym_chain": [
+      { "node": "steortian", "sub": "突然動く・跳ねる", "era": "古英語" },
+      { "node": "start", "sub": "始める", "era": "中英語" },
+      { "node": "restart", "sub": "再開する・再起動する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "restart the computer", "ja": "パソコンを再起動する" },
+      { "en": "restart the engine", "ja": "エンジンをかけ直す" },
+      { "en": "restart negotiations", "ja": "交渉を再開する" },
+      { "en": "a fresh restart", "ja": "新たな再出発" },
+      { "en": "restart the game", "ja": "試合を再開する" },
+      { "en": "restart from scratch", "ja": "一から始め直す" }
+    ],
+    "related": [
+      { "en": "resume", "ja": "再開する" },
+      { "en": "reboot", "ja": "再起動する" },
+      { "en": "reset", "ja": "リセットする" },
+      { "en": "renew", "ja": "新たに始める" }
+    ],
+    "faq": [
+      { "q": "restart と reboot の違いは？", "a": "ほぼ同じで『再起動する』を表します。reboot は特にコンピュータに使われるくだけた語、restart は機器にも一般的な活動にも使えます。" },
+      { "q": "restart と resume の違いは？", "a": "restart は『最初から始め直す』寄り、resume は『中断したところから続ける』寄りのニュアンスです。" }
+    ],
+    "quiz": [
+      { "q": "Please ___ your computer to apply the update.（再起動する）", "A": "restart", "B": "restore の復元する", "C": "resist", "D": "resign", "correct": "A" },
+      { "q": "「交渉を再開する」を表すのは？", "A": "restart negotiations", "B": "reset negotiations", "C": "remove negotiations", "D": "reduce negotiations", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recap",
+    "pron": "ˈriːkæp",
+    "kana": "リーキャップ",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "recapitulate（要点を繰り返す）の短縮",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "基本単語"],
+    "meaning_main": "要点をまとめる・要約する／要約・おさらい",
+    "description": "recap の意味・発音・例文・語源を解説。話や出来事の「要点をまとめる・おさらいする」というくだけた語の使い方を分かりやすく紹介します。",
+    "keywords": ["recap 意味", "recap 発音", "recap 要約", "recap おさらい"],
+    "meanings": [
+      { "hinshi": "【動詞】要点をまとめる・要約する", "note": "それまでの内容を短く繰り返す。to recap,（要するに）と文頭でも使う。" },
+      { "hinshi": "【名詞】要約・おさらい", "note": "a quick recap（手短なおさらい）。ニュースや番組の総集編にも使う。" }
+    ],
+    "usages": [
+      { "title": "① 「要約する・おさらいする」として", "desc": "重要点を手短に繰り返す意味です。", "example_en": "Let me recap what we discussed today.", "example_ja": "今日話し合ったことをまとめておきましょう。" },
+      { "title": "② 名詞「要約・おさらい」として", "desc": "短いまとめそのものを指します。", "example_en": "Here is a quick recap of last week's episode.", "example_ja": "先週のエピソードの手短なおさらいです。" }
+    ],
+    "warn": [
+      "recap は recapitulate を短くしたくだけた語。会議・番組・スポーツの『おさらい』でよく使う。",
+      "to recap,（要するに・まとめると）は会話やプレゼンの便利な決まり文句。"
+    ],
+    "etym_note": "recapitulate（要点を繰り返す）の短縮形です。recapitulate は後期ラテン語 recapitulare（re-「再び」＋ capitulum「小見出し」）に由来し、「見出しごとにもう一度たどる」が原義です。",
+    "etym_chain": [
+      { "node": "recapitulare", "sub": "見出しを繰り返す", "era": "後期ラテン語" },
+      { "node": "recapitulate", "sub": "要点を繰り返す", "era": "近代英語" },
+      { "node": "recap", "sub": "要約する・おさらいする", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "to recap,", "ja": "要するに・まとめると" },
+      { "en": "a quick recap", "ja": "手短なおさらい" },
+      { "en": "recap the meeting", "ja": "会議の要点をまとめる" },
+      { "en": "let me recap", "ja": "おさらいさせてください" },
+      { "en": "a brief recap", "ja": "簡単なまとめ" },
+      { "en": "recap of the game", "ja": "試合のダイジェスト" }
+    ],
+    "related": [
+      { "en": "summarize", "ja": "要約する" },
+      { "en": "summary", "ja": "要約" },
+      { "en": "review", "ja": "おさらいする" },
+      { "en": "recapitulate", "ja": "要点を繰り返す" }
+    ],
+    "faq": [
+      { "q": "recap とはどんな意味？", "a": "話や出来事の『要点を手短にまとめる・おさらいする』というくだけた動詞・名詞です。recapitulate を短くした語です。" },
+      { "q": "to recap, はどう使う？", "a": "「要するに・まとめると」の意味で、プレゼンや説明の最後に要点を繰り返すときに使います。" }
+    ],
+    "quiz": [
+      { "q": "Let me ___ what we discussed today.（まとめる）", "A": "recap", "B": "recall の思い出す", "C": "reduce", "D": "reject", "correct": "A" },
+      { "q": "recap のもとになった語はどれ？", "A": "recapitulate", "B": "recapture", "C": "recover", "D": "receive", "correct": "A" }
+    ]
+  },
+  {
+    "english": "refill",
+    "pron": "riːˈfɪl",
+    "kana": "リフィル",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ fill（満たす）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "基本単語"],
+    "meaning_main": "（再び）満たす・補充する／おかわり・詰め替え",
+    "description": "refill の意味・発音・例文・語源を解説。飲み物や容器を「再び満たす・補充する」、おかわりや詰め替えを表す使い方を分かりやすく紹介します。",
+    "keywords": ["refill 意味", "refill 発音", "refill おかわり", "refill 詰め替え"],
+    "meanings": [
+      { "hinshi": "【動詞】再び満たす・補充する", "note": "空になったものをもう一度いっぱいにする。refill the glass（グラスを注ぎ足す）。" },
+      { "hinshi": "【名詞】おかわり・詰め替え（用品）", "note": "free refills（おかわり無料）、a refill（詰め替え用）。" }
+    ],
+    "usages": [
+      { "title": "① 「補充する・注ぎ足す」として", "desc": "空になったものを再び満たす意味です。", "example_en": "Could you refill my coffee, please?", "example_ja": "コーヒーをおかわりしてもらえますか。" },
+      { "title": "② 名詞「おかわり・詰め替え」として", "desc": "おかわりや詰め替え用品そのものを指します。", "example_en": "The restaurant offers free refills on soda.", "example_ja": "そのレストランはソーダのおかわりが無料だ。" }
+    ],
+    "warn": [
+      "refill は『再び満たす・おかわり』。アメリカの飲食店では free refill（おかわり無料）が一般的。",
+      "ペンやプリンターの『詰め替え（用カートリッジ）』も refill という。"
+    ],
+    "etym_note": "re-（再び）＋ fill（満たす）から成る分かりやすい語です。fill は古英語 fyllan（いっぱいにする）に由来し、full（いっぱいの）と同じ語源です。",
+    "etym_chain": [
+      { "node": "fyllan", "sub": "満たす", "era": "古英語" },
+      { "node": "fill", "sub": "満たす", "era": "中英語" },
+      { "node": "refill", "sub": "再び満たす・補充する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "free refills", "ja": "おかわり無料" },
+      { "en": "refill the glass", "ja": "グラスを注ぎ足す" },
+      { "en": "a refill of coffee", "ja": "コーヒーのおかわり" },
+      { "en": "refill a prescription", "ja": "薬を再処方してもらう" },
+      { "en": "ink refill", "ja": "インクの詰め替え" },
+      { "en": "refill the tank", "ja": "タンクを満タンにする" }
+    ],
+    "related": [
+      { "en": "replenish", "ja": "補充する" },
+      { "en": "top up", "ja": "注ぎ足す" },
+      { "en": "fill", "ja": "満たす" },
+      { "en": "restock", "ja": "（在庫を）補充する" }
+    ],
+    "faq": [
+      { "q": "refill とはどんな意味？", "a": "空になったものを『再び満たす・補充する』動詞、また『おかわり・詰め替え』を表す名詞です。free refills は『おかわり無料』です。" },
+      { "q": "refill a prescription とは？", "a": "アメリカで『処方薬を（同じ内容で）もう一度出してもらう・追加処方を受ける』という意味の決まり文句です。" }
+    ],
+    "quiz": [
+      { "q": "Could you ___ my coffee, please?（おかわりする）", "A": "refill", "B": "refuse の断る", "C": "refund", "D": "reflect", "correct": "A" },
+      { "q": "「おかわり無料」を表すのは？", "A": "free refills", "B": "free refunds", "C": "free reforms", "D": "free refuse", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reactor",
+    "pron": "riˈæktər",
+    "kana": "リアクター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "react（反応する）＋ -or（〜するもの）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "科学・技術"],
+    "meaning_main": "原子炉／（化学）反応装置・反応器",
+    "description": "reactor の意味・発音・例文・語源を解説。エネルギーを生む「原子炉」や化学の「反応装置」を指す科学用語の使い方を分かりやすく紹介します。",
+    "keywords": ["reactor 意味", "reactor 発音", "nuclear reactor 意味", "reactor 原子炉"],
+    "meanings": [
+      { "hinshi": "【名詞】原子炉", "note": "nuclear reactor の形でよく使う。核分裂で熱・電力を生む装置。" },
+      { "hinshi": "【名詞】（化学）反応装置・反応器", "note": "化学反応を行わせる容器・設備。chemical reactor。" }
+    ],
+    "usages": [
+      { "title": "① 「原子炉」として", "desc": "発電などに使う核反応の装置です。", "example_en": "The nuclear reactor was shut down for maintenance.", "example_ja": "その原子炉は点検のため停止された。" },
+      { "title": "② 「反応装置」として", "desc": "化学反応を起こさせる設備を指します。", "example_en": "The chemicals are mixed inside a large reactor.", "example_ja": "薬品は大きな反応装置の中で混合される。" }
+    ],
+    "warn": [
+      "reactor は通常 nuclear reactor（原子炉）を指すことが多い科学・技術用語。",
+      "動詞 react（反応する）＋ -or（〜するもの）の関係。人の『反応する人』の意味ではほぼ使わない。"
+    ],
+    "etym_note": "動詞 react（re-「逆に」＋ act「動く」＝反応する）に、「〜するもの」を表す -or が付いた語です。20世紀の原子力技術の発展とともに「原子炉」の意味が定着しました。",
+    "etym_chain": [
+      { "node": "agere", "sub": "動かす・行う", "era": "ラテン語" },
+      { "node": "react", "sub": "反応する", "era": "近代英語" },
+      { "node": "reactor", "sub": "原子炉・反応装置", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "nuclear reactor", "ja": "原子炉" },
+      { "en": "reactor core", "ja": "原子炉の炉心" },
+      { "en": "shut down a reactor", "ja": "原子炉を停止する" },
+      { "en": "reactor meltdown", "ja": "炉心溶融・メルトダウン" },
+      { "en": "chemical reactor", "ja": "化学反応装置" },
+      { "en": "reactor vessel", "ja": "原子炉容器" }
+    ],
+    "related": [
+      { "en": "react", "ja": "反応する" },
+      { "en": "reaction", "ja": "反応" },
+      { "en": "nuclear", "ja": "原子力の" },
+      { "en": "generator", "ja": "発電機" }
+    ],
+    "faq": [
+      { "q": "reactor とはどんな意味？", "a": "核分裂で熱や電力を生む『原子炉』、または化学反応を行わせる『反応装置』を指す科学・技術用語です。nuclear reactor の形が最も一般的です。" },
+      { "q": "reactor と reaction の違いは？", "a": "reactor は『反応を起こさせる装置』、reaction は『反応そのもの』です。どちらも動詞 react から派生しています。" }
+    ],
+    "quiz": [
+      { "q": "The nuclear ___ was shut down for maintenance.（原子炉）", "A": "reactor", "B": "reaction の反応", "C": "reader", "D": "realtor", "correct": "A" },
+      { "q": "reactor のもとになった動詞はどれ？", "A": "react", "B": "read", "C": "reach", "D": "ready", "correct": "A" }
+    ]
+  },
+  {
+    "english": "realtor",
+    "pron": "ˈriːəltər",
+    "kana": "リアルター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "realty（不動産）＋ -or（〜する人）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "ビジネス"],
+    "meaning_main": "不動産業者・不動産仲介人",
+    "description": "realtor の意味・発音・例文・語源を解説。家や土地の売買を仲介する「不動産業者」を表す、主にアメリカで使う語の使い方を紹介します。",
+    "keywords": ["realtor 意味", "realtor 発音", "realtor 不動産", "realtor 仲介"],
+    "meanings": [
+      { "hinshi": "【名詞】不動産業者・不動産仲介人", "note": "家や土地の売買・賃貸を仲介する人。主に米国で使う。real estate agent とほぼ同じ。" }
+    ],
+    "usages": [
+      { "title": "① 「不動産業者」として", "desc": "物件の売買や賃貸を仲介する人を指します。", "example_en": "We asked a realtor to help us find a house.", "example_ja": "私たちは家探しを手伝ってもらおうと不動産業者に頼んだ。" },
+      { "title": "② real estate agent の言い換えとして", "desc": "やや口語的に同じ意味で使います。", "example_en": "The realtor showed us three apartments today.", "example_ja": "その不動産業者は今日3件のアパートを案内してくれた。" }
+    ],
+    "warn": [
+      "realtor は主にアメリカ英語。イギリスでは estate agent が普通。",
+      "発音は『リアルター』。realtor を『リアリター』と母音を増やして読まないよう注意。"
+    ],
+    "etym_note": "realty（不動産）に「〜する人」の -or が付いた語で、20世紀初めにアメリカの不動産業者団体が作った造語です。realty は real estate（real「物の・現実の」＋ estate「財産」）に由来します。",
+    "etym_chain": [
+      { "node": "realis", "sub": "物の・現実の", "era": "後期ラテン語" },
+      { "node": "realty", "sub": "不動産", "era": "近代英語" },
+      { "node": "realtor", "sub": "不動産業者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a licensed realtor", "ja": "免許を持つ不動産業者" },
+      { "en": "ask a realtor", "ja": "不動産業者に相談する" },
+      { "en": "a local realtor", "ja": "地元の不動産業者" },
+      { "en": "the realtor showed us", "ja": "不動産業者が案内してくれた" },
+      { "en": "work with a realtor", "ja": "不動産業者と取引する" },
+      { "en": "a top realtor", "ja": "腕利きの不動産業者" }
+    ],
+    "related": [
+      { "en": "real estate", "ja": "不動産" },
+      { "en": "estate agent", "ja": "不動産業者（英）" },
+      { "en": "broker", "ja": "仲介業者" },
+      { "en": "landlord", "ja": "家主" }
+    ],
+    "faq": [
+      { "q": "realtor とはどんな意味？", "a": "家や土地の売買・賃貸を仲介する『不動産業者』のことです。主にアメリカで使われ、real estate agent とほぼ同じ意味です。" },
+      { "q": "realtor と estate agent の違いは？", "a": "意味はほぼ同じで、realtor はアメリカ英語、estate agent はイギリス英語でよく使われます。" }
+    ],
+    "quiz": [
+      { "q": "We asked a ___ to help us find a house.（不動産業者）", "A": "realtor", "B": "reactor の原子炉", "C": "reader", "D": "ruler", "correct": "A" },
+      { "q": "realtor とほぼ同じ意味なのは？", "A": "real estate agent", "B": "librarian", "C": "engineer", "D": "lawyer", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rascal",
+    "pron": "ˈræskəl",
+    "kana": "ラスカル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 rascaille（くず・下層民）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "日常会話"],
+    "meaning_main": "いたずらっ子・悪がき／悪党・ならず者",
+    "description": "rascal の意味・発音・例文・語源を解説。子どもへの「いたずらっ子」という親しみや、「悪党」というくだけた語の使い方を分かりやすく紹介します。",
+    "keywords": ["rascal 意味", "rascal 発音", "rascal いたずらっ子", "rascal 悪党"],
+    "meanings": [
+      { "hinshi": "【名詞】いたずらっ子・悪がき", "note": "子どもや動物に親しみを込めて使う。You little rascal!（このいたずらっ子め）。" },
+      { "hinshi": "【名詞】悪党・ならず者", "note": "ずるい・不誠実な人を軽くからかって言う。" }
+    ],
+    "usages": [
+      { "title": "① 「いたずらっ子」として（親しみ）", "desc": "わんぱくな子や動物に愛情を込めて使います。", "example_en": "Come here, you little rascal!", "example_ja": "おいで、このいたずらっ子め！" },
+      { "title": "② 「悪党・ならず者」として", "desc": "ずるい人を軽くからかって言います。", "example_en": "That rascal tricked me out of my money.", "example_ja": "あの悪党は私をだまして金を巻き上げた。" }
+    ],
+    "warn": [
+      "rascal は文脈で『愛すべきいたずらっ子』にも『ずるい悪党』にもなる。多くは親しみ・軽口。",
+      "深刻な犯罪者には criminal などを使い、rascal は軽い調子の語。"
+    ],
+    "etym_note": "古フランス語 rascaille（くず・寄せ集め・下層の民）に由来します。もとは「がらくた・群れの最下層」を指し、そこから「身分の低い者→悪党→いたずらっ子」と意味がやわらいでいきました。",
+    "etym_chain": [
+      { "node": "rascaille", "sub": "くず・下層民", "era": "古フランス語" },
+      { "node": "rascal", "sub": "下賤の者・悪党", "era": "中英語" },
+      { "node": "rascal", "sub": "いたずらっ子・悪党", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "you little rascal", "ja": "このいたずらっ子め" },
+      { "en": "a young rascal", "ja": "わんぱく坊主" },
+      { "en": "a lovable rascal", "ja": "愛すべきいたずら者" },
+      { "en": "a cunning rascal", "ja": "ずる賢い悪党" },
+      { "en": "what a rascal", "ja": "なんて悪がきだ" },
+      { "en": "a pack of rascals", "ja": "ならず者の一団" }
+    ],
+    "related": [
+      { "en": "scamp", "ja": "わんぱく小僧" },
+      { "en": "rogue", "ja": "ならず者" },
+      { "en": "scoundrel", "ja": "悪党" },
+      { "en": "mischief", "ja": "いたずら" }
+    ],
+    "faq": [
+      { "q": "rascal とはどんな意味？", "a": "わんぱくな子や動物に親しみを込めて言う『いたずらっ子』、また軽くからかって言う『悪党・ならず者』です。文脈で愛情にも非難にもなります。" },
+      { "q": "rascal は悪い意味ですか？", "a": "必ずしもそうではありません。You little rascal! のように、ほほえましいいたずらっ子に向けた愛情表現としてよく使われます。" }
+    ],
+    "quiz": [
+      { "q": "Come here, you little ___!（いたずらっ子）", "A": "rascal", "B": "rattle の音", "C": "ranch", "D": "raisin", "correct": "A" },
+      { "q": "rascal に近い意味はどれ？", "A": "scamp（わんぱく小僧）", "B": "scholar（学者）", "C": "saint（聖人）", "D": "servant（召使い）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "raptor",
+    "pron": "ˈræptər",
+    "kana": "ラプター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 raptor（奪う者）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "自然・生き物"],
+    "meaning_main": "猛禽（もうきん）類・肉食の鳥／（俗）ラプトル（恐竜）",
+    "description": "raptor の意味・発音・例文・語源を解説。タカやワシなど獲物を捕らえる「猛禽類」を指す語と、恐竜の通称としての使い方を紹介します。",
+    "keywords": ["raptor 意味", "raptor 発音", "raptor 猛禽類", "raptor 恐竜"],
+    "meanings": [
+      { "hinshi": "【名詞】猛禽類・肉食の鳥", "note": "タカ・ワシ・フクロウなど、するどい爪とくちばしで獲物を捕る鳥。bird of prey と同義。" },
+      { "hinshi": "【名詞】（俗称）ラプトル", "note": "ヴェロキラプトルなど肉食恐竜の通称としても使われる。" }
+    ],
+    "usages": [
+      { "title": "① 「猛禽類」として", "desc": "獲物を捕らえる肉食の鳥を指します。", "example_en": "Eagles and hawks are powerful raptors.", "example_ja": "ワシやタカは力強い猛禽類だ。" },
+      { "title": "② 恐竜の通称として", "desc": "映画などで肉食恐竜を指して使います。", "example_en": "The movie features fast, clever raptors.", "example_ja": "その映画にはすばやく賢いラプトルが登場する。" }
+    ],
+    "warn": [
+      "raptor は『獲物を捕る鳥（猛禽類）』。bird of prey と同じ意味。",
+      "恐竜の意味は映画由来の俗称。生物学では velociraptor などが正式名。"
+    ],
+    "etym_note": "ラテン語 raptor（奪う者・略奪者）に由来し、動詞 rapere（つかみ取る・奪う）から来ています。rapid（速い）や rapture（うっとり・奪われること）と同じ語根です。",
+    "etym_chain": [
+      { "node": "rapere", "sub": "つかみ取る・奪う", "era": "ラテン語" },
+      { "node": "raptor", "sub": "奪う者", "era": "ラテン語" },
+      { "node": "raptor", "sub": "猛禽類", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "bird of prey", "ja": "猛禽（同義語）" },
+      { "en": "a majestic raptor", "ja": "雄大な猛禽" },
+      { "en": "raptor talons", "ja": "猛禽のかぎ爪" },
+      { "en": "nocturnal raptor", "ja": "夜行性の猛禽" },
+      { "en": "raptor habitat", "ja": "猛禽の生息地" },
+      { "en": "a swift raptor", "ja": "すばやい猛禽" }
+    ],
+    "related": [
+      { "en": "eagle", "ja": "ワシ" },
+      { "en": "hawk", "ja": "タカ" },
+      { "en": "predator", "ja": "捕食者" },
+      { "en": "prey", "ja": "獲物" }
+    ],
+    "faq": [
+      { "q": "raptor とはどんな意味？", "a": "タカ・ワシ・フクロウなど、するどい爪で獲物を捕る『猛禽類（肉食の鳥）』のことです。bird of prey と同じ意味です。" },
+      { "q": "raptor が恐竜を指すのはなぜ？", "a": "ヴェロキラプトルなどの名前に raptor（奪う者）が含まれるため、映画などで肉食恐竜の通称として使われるようになりました。" }
+    ],
+    "quiz": [
+      { "q": "Eagles and hawks are powerful ___s.（猛禽類）", "A": "raptor", "B": "rapture のうっとり", "C": "reactor", "D": "rancher", "correct": "A" },
+      { "q": "raptor と同じ意味なのは？", "A": "bird of prey（猛禽）", "B": "song bird（鳴き鳥）", "C": "water bird（水鳥）", "D": "pet bird（飼い鳥）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rubric",
+    "pron": "ˈruːbrɪk",
+    "kana": "ルーブリック",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 rubrica（赤土・赤い見出し）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "教育・学術"],
+    "meaning_main": "評価基準（表）・採点基準／（文書の）表題・項目見出し",
+    "description": "rubric の意味・発音・例文・語源を解説。学習評価で使う「採点基準（ルーブリック）」や、文書の「表題・見出し」という使い方を分かりやすく紹介します。",
+    "keywords": ["rubric 意味", "rubric 発音", "rubric 評価基準", "rubric ルーブリック"],
+    "meanings": [
+      { "hinshi": "【名詞】評価基準（表）・採点基準", "note": "教育で課題を採点する観点と段階を示した表。grading rubric。" },
+      { "hinshi": "【名詞】（文書の）表題・項目見出し", "note": "規則・指示の見出し。under the rubric of（〜という名目・分類のもとで）。" }
+    ],
+    "usages": [
+      { "title": "① 「採点基準（ルーブリック）」として", "desc": "課題を評価する観点と段階を示した表です。", "example_en": "The teacher graded the essays using a clear rubric.", "example_ja": "先生は明確な評価基準を使って小論文を採点した。" },
+      { "title": "② under the rubric of として", "desc": "「〜という分類・名目のもとで」を表します。", "example_en": "These costs fall under the rubric of marketing.", "example_ja": "これらの費用はマーケティングという項目に入る。" }
+    ],
+    "warn": [
+      "rubric は教育では『採点基準の表』。日本語でもそのまま『ルーブリック』と呼ばれる。",
+      "under the rubric of は『〜という見出し・分類のもとで』というかたい言い回し。"
+    ],
+    "etym_note": "ラテン語 rubrica（赤土・赤色の見出し）に由来します。昔の写本では章や規則の見出しを赤インクで書いたため、「赤い見出し→項目・基準」へ意味が広がりました。ruby（ルビー）と同じ語根 rubeus（赤い）です。",
+    "etym_chain": [
+      { "node": "rubeus", "sub": "赤い", "era": "ラテン語" },
+      { "node": "rubrica", "sub": "赤い見出し", "era": "ラテン語" },
+      { "node": "rubric", "sub": "評価基準・表題", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "grading rubric", "ja": "採点基準（表）" },
+      { "en": "scoring rubric", "ja": "評価ルーブリック" },
+      { "en": "under the rubric of", "ja": "〜という名目・分類のもとで" },
+      { "en": "a clear rubric", "ja": "明確な評価基準" },
+      { "en": "assessment rubric", "ja": "評価基準表" },
+      { "en": "follow the rubric", "ja": "基準に従って採点する" }
+    ],
+    "related": [
+      { "en": "criteria", "ja": "基準" },
+      { "en": "guideline", "ja": "指針" },
+      { "en": "heading", "ja": "見出し" },
+      { "en": "standard", "ja": "基準・標準" }
+    ],
+    "faq": [
+      { "q": "rubric とはどんな意味？", "a": "教育では課題を採点する観点と段階を示した『評価基準表（ルーブリック）』、一般には文書の『表題・項目見出し』を指します。" },
+      { "q": "under the rubric of の意味は？", "a": "『〜という見出し・分類・名目のもとで』という意味のかたい表現です。These fall under the rubric of safety.（これらは安全という項目に入る）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The teacher graded the essays using a clear ___.（評価基準）", "A": "rubric", "B": "rubber のゴム", "C": "rumor", "D": "ruler", "correct": "A" },
+      { "q": "rubric の語源の意味はどれ？", "A": "赤い見出し", "B": "丸い形", "C": "速い動き", "D": "高い場所", "correct": "A" }
+    ]
+  }
+]

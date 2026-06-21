@@ -1,0 +1,479 @@
+[
+  {
+    "english": "radiant",
+    "pron": "ˈreɪdiənt",
+    "kana": "レイディアント",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 radiare（光を放つ）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "形容詞"],
+    "meaning_main": "輝く・光を放つ／（喜びで）晴れやかな",
+    "description": "radiant の意味・発音・例文・語源を解説。光り輝く様子や、喜びで「晴れやかな」表情の使い方、radiate（放射する）との関係も紹介します。",
+    "keywords": ["radiant 意味", "radiant 発音", "radiate 関係", "radiant 輝く"],
+    "meanings": [
+      { "hinshi": "【形容詞】輝く・光を放つ", "note": "強く明るく光る。the radiant sun（輝く太陽）。" },
+      { "hinshi": "【形容詞】（喜び・健康で）晴れやかな", "note": "a radiant smile（晴れやかな笑顔）。" }
+    ],
+    "usages": [
+      { "title": "① 「輝く・光を放つ」として", "desc": "明るく強く光る様子を表します。", "example_en": "The room was filled with radiant light.", "example_ja": "部屋は輝く光で満たされていた。" },
+      { "title": "② 「晴れやかな」として", "desc": "喜びや健康で生き生きと輝く様子を表します。", "example_en": "She gave a radiant smile.", "example_ja": "彼女は晴れやかな笑顔を見せた。" }
+    ],
+    "warn": [
+      "動詞は radiate（放射する・輝く）、名詞は radiance（輝き）。radio・ray と同じ語源。",
+      "radiant with joy は『喜びに輝いて』。"
+    ],
+    "etym_note": "ラテン語 radiare（光を放つ。radius「光線」から）に由来します。radio・ray・radius と同じ rad-（放射）の語根で、「光を放っている」が原義です。",
+    "etym_chain": [
+      { "node": "radius", "sub": "光線", "era": "ラテン語" },
+      { "node": "radiare", "sub": "光を放つ", "era": "ラテン語" },
+      { "node": "radiant", "sub": "輝く・晴れやかな", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a radiant smile", "ja": "晴れやかな笑顔" },
+      { "en": "radiant light", "ja": "輝く光" },
+      { "en": "radiant with joy", "ja": "喜びに輝いて" },
+      { "en": "radiant health", "ja": "輝くような健康" },
+      { "en": "a radiant bride", "ja": "晴れやかな花嫁" },
+      { "en": "radiant heat", "ja": "放射熱" }
+    ],
+    "related": [
+      { "en": "radiate", "ja": "放射する・輝く" },
+      { "en": "radiance", "ja": "輝き（名詞）" },
+      { "en": "bright", "ja": "明るい" },
+      { "en": "glowing", "ja": "光り輝く" }
+    ],
+    "faq": [
+      { "q": "radiant の動詞・名詞形は？", "a": "動詞は radiate（放射する・輝く）、名詞は radiance（輝き）です。" },
+      { "q": "radiant with joy とは？", "a": "『喜びに輝いて・喜色満面で』という意味です。" }
+    ],
+    "quiz": [
+      { "q": "She gave a ___ smile.（晴れやかな笑顔）", "A": "radiant", "B": "rigid", "C": "rural", "D": "rugged", "correct": "A" },
+      { "q": "radiant の動詞形はどれ？", "A": "radiate", "B": "radiform", "C": "radiize", "D": "radien", "correct": "A" }
+    ]
+  },
+  {
+    "english": "radical",
+    "pron": "ˈrædɪkəl",
+    "kana": "ラディカル",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "形容詞・名詞",
+    "ld_etym": "ラテン語 radix（根）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "多義語"],
+    "meaning_main": "根本的な・抜本的な・過激な／急進派",
+    "description": "radical の意味・発音・例文・語源を解説。「根本的な・抜本的な」と「過激な」の使い方や、語源 radix（根）も分かりやすく紹介します。",
+    "keywords": ["radical 意味", "radical 発音", "radical 根本的 過激", "radical 語源"],
+    "meanings": [
+      { "hinshi": "【形容詞】根本的な・抜本的な", "note": "根本にかかわる大きな。radical change（抜本的な変化）。" },
+      { "hinshi": "【形容詞】過激な・急進的な", "note": "radical ideas（過激な考え）。" },
+      { "hinshi": "【名詞】急進派・過激派", "note": "政治的に過激な立場の人。" }
+    ],
+    "usages": [
+      { "title": "① 「根本的な・抜本的な」として", "desc": "根本から変わる大きな変化を表します。", "example_en": "The company made radical changes to its policy.", "example_ja": "その会社は方針を抜本的に変えた。" },
+      { "title": "② 「過激な・急進的な」として", "desc": "政治・思想が極端な様子を表します。", "example_en": "He holds radical political views.", "example_ja": "彼は過激な政治的見解を持っている。" }
+    ],
+    "warn": [
+      "語源はラテン語 radix（根）。『根にかかわる＝根本的な』が原義。radish（大根）も同じ語源。",
+      "副詞は radically（根本的に・過激に）。"
+    ],
+    "etym_note": "ラテン語 radix（根）に由来します。「根にかかわる＝根本的な」が原義で、そこから『（根本から変える）抜本的な・過激な』になりました。radish・root（語源的につながる）と同系です。",
+    "etym_chain": [
+      { "node": "radix", "sub": "根", "era": "ラテン語" },
+      { "node": "radicalis", "sub": "根の", "era": "後期ラテン語" },
+      { "node": "radical", "sub": "根本的な・過激な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "radical change", "ja": "抜本的な変化" },
+      { "en": "a radical reform", "ja": "抜本的な改革" },
+      { "en": "radical ideas", "ja": "過激な考え" },
+      { "en": "a radical solution", "ja": "根本的な解決策" },
+      { "en": "radically different", "ja": "根本的に異なる" },
+      { "en": "political radicals", "ja": "政治的急進派" }
+    ],
+    "related": [
+      { "en": "fundamental", "ja": "根本的な" },
+      { "en": "extreme", "ja": "極端な" },
+      { "en": "drastic", "ja": "思い切った" },
+      { "en": "moderate", "ja": "穏健な（反対語）" }
+    ],
+    "faq": [
+      { "q": "radical の語源は？", "a": "ラテン語 radix（根）です。『根にかかわる＝根本的な』が原義で、そこから『抜本的な・過激な』の意味になりました。" },
+      { "q": "radical の二つの意味は？", "a": "①『根本的な・抜本的な』（よい意味でも使う）と、②『過激な・急進的な』（政治・思想）です。" }
+    ],
+    "quiz": [
+      { "q": "The company made ___ changes to its policy.（抜本的な）", "A": "radical", "B": "radiant", "C": "rigid", "D": "rural", "correct": "A" },
+      { "q": "radical の語源（ラテン語 radix）の意味は？", "A": "光", "B": "根", "C": "輪", "D": "水", "correct": "B" }
+    ]
+  },
+  {
+    "english": "realm",
+    "pron": "relm",
+    "kana": "レルム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 reaume（王国）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "多義語"],
+    "meaning_main": "王国／（活動・知識の）領域・分野",
+    "description": "realm の意味・発音・例文・語源を解説。「王国」と、比喩的な「（知識・活動の）領域・分野」の使い方を分かりやすく紹介します。",
+    "keywords": ["realm 意味", "realm 発音", "realm 領域", "realm of possibility"],
+    "meanings": [
+      { "hinshi": "【名詞】王国", "note": "文語的。a kingdom（王国）に近い。" },
+      { "hinshi": "【名詞】（活動・知識の）領域・分野", "note": "the realm of science（科学の領域）。" }
+    ],
+    "usages": [
+      { "title": "① 「領域・分野」として", "desc": "ある活動や知識の範囲を表します。", "example_en": "This belongs to the realm of science fiction.", "example_ja": "これはSFの領域に属する。" },
+      { "title": "② 「王国」として", "desc": "文語的に王国を表します。", "example_en": "The king ruled over a vast realm.", "example_ja": "王は広大な王国を治めた。" }
+    ],
+    "warn": [
+      "発音は /relm/「レルム」。l を読む。within the realm of possibility は『あり得る範囲で』。",
+      "現代では『領域・分野』の意味で使うことが多い。"
+    ],
+    "etym_note": "古フランス語 reaume / realme（王国。ラテン語 regalis「王の」から）に由来します。royal・regal と同じ reg-（治める）の語根です。",
+    "etym_chain": [
+      { "node": "regalis", "sub": "王の", "era": "ラテン語" },
+      { "node": "reaume", "sub": "王国", "era": "古フランス語" },
+      { "node": "realm", "sub": "王国・領域", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the realm of", "ja": "〜の領域" },
+      { "en": "within the realm of possibility", "ja": "あり得る範囲で" },
+      { "en": "beyond the realm of", "ja": "〜の領域を超えて" },
+      { "en": "the digital realm", "ja": "デジタルの領域" },
+      { "en": "the public realm", "ja": "公共の領域" },
+      { "en": "rule a realm", "ja": "王国を治める" }
+    ],
+    "related": [
+      { "en": "kingdom", "ja": "王国" },
+      { "en": "domain", "ja": "領域・分野" },
+      { "en": "field", "ja": "分野" },
+      { "en": "sphere", "ja": "領域・範囲" }
+    ],
+    "faq": [
+      { "q": "realm の現代的な使い方は？", "a": "『（知識・活動の）領域・分野』の意味でよく使われます。the realm of politics（政治の領域）のように使います。" },
+      { "q": "within the realm of possibility とは？", "a": "『あり得る範囲で・実現可能な範囲で』という意味です。" }
+    ],
+    "quiz": [
+      { "q": "This belongs to the ___ of science fiction.（領域）", "A": "realm", "B": "real", "C": "really", "D": "relay", "correct": "A" },
+      { "q": "realm と同じ語源（治める）の語はどれ？", "A": "royal", "B": "river", "C": "ribbon", "D": "ripple", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reap",
+    "pron": "riːp",
+    "kana": "リープ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古英語 rīpan（刈り取る）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "（作物を）刈り取る・収穫する／（成果を）得る",
+    "description": "reap の意味・発音・例文・語源を解説。作物を「刈り取る」と、努力の「成果を得る」使い方、reap the benefits（恩恵を得る）も紹介します。",
+    "keywords": ["reap 意味", "reap 発音", "reap the benefits 意味", "reap 収穫"],
+    "meanings": [
+      { "hinshi": "【動詞】（作物を）刈り取る・収穫する", "note": "実った作物を取り入れる。reap wheat（小麦を刈る）。" },
+      { "hinshi": "【動詞】（努力の）成果を得る", "note": "reap the rewards（報いを得る）。" }
+    ],
+    "usages": [
+      { "title": "① 「収穫する・刈り取る」として", "desc": "実った作物を取り入れる意味です。", "example_en": "Farmers reap the wheat in autumn.", "example_ja": "農家は秋に小麦を刈り取る。" },
+      { "title": "② 「成果を得る」として", "desc": "努力の見返りを得る意味です。", "example_en": "You will reap the benefits of hard work.", "example_ja": "努力の恩恵をあなたは得るだろう。" }
+    ],
+    "warn": [
+      "reap the benefits / rewards（恩恵・報いを得る）が頻出。",
+      "You reap what you sow.（まいた種は自分で刈り取る＝自業自得）ということわざも有名。"
+    ],
+    "etym_note": "古英語 rīpan（刈り取る）に由来する古いゲルマン系の語です。ripe（熟した）と関係し、「熟したものを刈り取る」が原義です。",
+    "etym_chain": [
+      { "node": "rīpan", "sub": "刈り取る", "era": "古英語" },
+      { "node": "repen", "sub": "刈る", "era": "中英語" },
+      { "node": "reap", "sub": "刈り取る・成果を得る", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reap the benefits", "ja": "恩恵を得る" },
+      { "en": "reap the rewards", "ja": "報いを得る" },
+      { "en": "reap a harvest", "ja": "収穫を得る" },
+      { "en": "reap what you sow", "ja": "自業自得・まいた種を刈る" },
+      { "en": "reap the profits", "ja": "利益を得る" },
+      { "en": "sow and reap", "ja": "種をまき刈り取る" }
+    ],
+    "related": [
+      { "en": "harvest", "ja": "収穫する" },
+      { "en": "gather", "ja": "集める" },
+      { "en": "sow", "ja": "種をまく（対の動作）" },
+      { "en": "gain", "ja": "得る" }
+    ],
+    "faq": [
+      { "q": "reap the benefits とは？", "a": "『（努力などの）恩恵・利益を得る』という意味です。" },
+      { "q": "You reap what you sow. とは？", "a": "『まいた種は自分で刈り取る＝自分の行いの結果は自分に返る（因果応報・自業自得）』ということわざです。" }
+    ],
+    "quiz": [
+      { "q": "You will ___ the benefits of hard work.（恩恵を得る）", "A": "reap", "B": "reach", "C": "read", "D": "real", "correct": "A" },
+      { "q": "「自業自得（まいた種を刈る）」を表すのはどれ？", "A": "reap what you sow", "B": "reach what you sow", "C": "read what you sow", "D": "real what you sow", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reassure",
+    "pron": "ˌriːəˈʃʊr",
+    "kana": "リーアシュア",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ assure（保証する・安心させる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "安心させる・元気づける",
+    "description": "reassure の意味・発音・例文・語源を解説。心配する人を「安心させる」使い方や、reassure someone that の形、名詞 reassurance も紹介します。",
+    "keywords": ["reassure 意味", "reassure 発音", "reassure that 使い方", "reassurance 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】安心させる・元気づける", "note": "心配を取り除く。reassure someone that〜（〜だと言って安心させる）。" }
+    ],
+    "usages": [
+      { "title": "① 「安心させる」として", "desc": "不安な人を落ち着かせる意味です。", "example_en": "The doctor reassured her that everything was fine.", "example_ja": "医者は何も問題ないと言って彼女を安心させた。" },
+      { "title": "② be reassured として", "desc": "「安心する」を受動態で表します。", "example_en": "I was reassured by his words.", "example_ja": "私は彼の言葉で安心した。" }
+    ],
+    "warn": [
+      "reassure someone that＋文（〜だと言って人を安心させる）。名詞は reassurance（安心させること）。",
+      "assure（保証する・確信させる）に re- がついた語。"
+    ],
+    "etym_note": "assure（保証する・安心させる。ラテン語 securus「安全な」から）に re-（再び）がついた語で、「（再び）安心させる」が原義です。sure・secure と同じ語源です。",
+    "etym_chain": [
+      { "node": "securus", "sub": "安全な", "era": "ラテン語" },
+      { "node": "assure", "sub": "安心させる", "era": "中英語" },
+      { "node": "reassure", "sub": "安心させる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reassure someone that", "ja": "〜だと言って安心させる" },
+      { "en": "reassure the public", "ja": "世間を安心させる" },
+      { "en": "be reassured", "ja": "安心する" },
+      { "en": "reassure a child", "ja": "子どもを安心させる" },
+      { "en": "a reassuring smile", "ja": "安心させる笑顔" },
+      { "en": "seek reassurance", "ja": "安心を求める" }
+    ],
+    "related": [
+      { "en": "assure", "ja": "保証する・安心させる" },
+      { "en": "reassurance", "ja": "安心させること（名詞）" },
+      { "en": "comfort", "ja": "慰める" },
+      { "en": "worry", "ja": "心配させる（反対概念）" }
+    ],
+    "faq": [
+      { "q": "reassure の使い方は？", "a": "reassure someone that＋文の形で『〜だと言って人を安心させる』を表します。reassure him that it's safe（安全だと言って彼を安心させる）のように使います。" },
+      { "q": "reassure の名詞形は？", "a": "reassurance（安心させること・安心）です。" }
+    ],
+    "quiz": [
+      { "q": "The doctor ___ her that everything was fine.（安心させた）", "A": "reassured", "B": "reassembled", "C": "remained", "D": "removed", "correct": "A" },
+      { "q": "reassure は assure に何がついた語？", "A": "re-（再び）", "B": "un-（否定）", "C": "dis-（否定）", "D": "mis-（誤り）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "refuge",
+    "pron": "ˈrefjuːdʒ",
+    "kana": "レフュージ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 refugium（逃げ場）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "社会"],
+    "meaning_main": "避難・避難所・保護",
+    "description": "refuge の意味・発音・例文・語源を解説。take refuge（避難する）の使い方や、refugee（難民）との関係も分かりやすく紹介します。",
+    "keywords": ["refuge 意味", "refuge 発音", "take refuge 使い方", "refuge refugee 違い"],
+    "meanings": [
+      { "hinshi": "【名詞】避難・保護", "note": "危険から逃れること。seek refuge（避難を求める）。" },
+      { "hinshi": "【名詞】避難所・隠れ場所", "note": "a wildlife refuge（野生動物保護区）。" }
+    ],
+    "usages": [
+      { "title": "① 「避難・保護」として", "desc": "take refuge（避難する）の形で使います。", "example_en": "They took refuge from the storm in a cave.", "example_ja": "彼らは嵐を避けて洞窟に避難した。" },
+      { "title": "② 「避難所・保護区」として", "desc": "安全な場所を表します。", "example_en": "The island is a refuge for rare birds.", "example_ja": "その島は珍しい鳥の保護区だ。" }
+    ],
+    "warn": [
+      "refuge（避難・避難所＝場所・行為）と refugee（難民＝人）を区別する。",
+      "take refuge in は『〜に避難する・〜に逃げ込む』。"
+    ],
+    "etym_note": "ラテン語 refugium（re-「後ろへ」＋ fugere「逃げる」＝逃げ場）に由来します。refugee・fugitive と同じ fug-（逃げる）の語根です。",
+    "etym_chain": [
+      { "node": "refugium", "sub": "逃げ場", "era": "ラテン語" },
+      { "node": "refuge", "sub": "避難所", "era": "中英語" },
+      { "node": "refuge", "sub": "避難・避難所", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "take refuge", "ja": "避難する" },
+      { "en": "seek refuge", "ja": "避難を求める" },
+      { "en": "take refuge in", "ja": "〜に逃げ込む" },
+      { "en": "a place of refuge", "ja": "避難場所" },
+      { "en": "a wildlife refuge", "ja": "野生動物保護区" },
+      { "en": "a safe refuge", "ja": "安全な避難所" }
+    ],
+    "related": [
+      { "en": "refugee", "ja": "難民" },
+      { "en": "shelter", "ja": "避難所" },
+      { "en": "sanctuary", "ja": "保護区・聖域" },
+      { "en": "haven", "ja": "安息所" }
+    ],
+    "faq": [
+      { "q": "refuge と refugee の違いは？", "a": "refuge は『避難・避難所（場所・行為）』、refugee は『難民（人）』です。" },
+      { "q": "take refuge とは？", "a": "『避難する・身を寄せる』という意味です。take refuge in〜（〜に逃げ込む）の形でも使います。" }
+    ],
+    "quiz": [
+      { "q": "They took ___ from the storm in a cave.（避難した）", "A": "refuge", "B": "refugee", "C": "refund", "D": "refusal", "correct": "A" },
+      { "q": "「難民（人）」を表すのはどれ？", "A": "refuge", "B": "refugee", "C": "referee", "D": "refund", "correct": "B" }
+    ]
+  },
+  {
+    "english": "relic",
+    "pron": "ˈrelɪk",
+    "kana": "レリック",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 reliquiae（残されたもの）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "文化"],
+    "meaning_main": "遺物・遺品・名残",
+    "description": "relic の意味・発音・例文・語源を解説。過去の「遺物・名残」の使い方や、relinquish（手放す）との語源的な関係も分かりやすく紹介します。",
+    "keywords": ["relic 意味", "relic 発音", "relic 遺物", "relic 名残"],
+    "meanings": [
+      { "hinshi": "【名詞】遺物・遺品", "note": "過去から残った物。an ancient relic（古代の遺物）。" },
+      { "hinshi": "【名詞】（過去の）名残・時代遅れのもの", "note": "a relic of the past（過去の名残）。" }
+    ],
+    "usages": [
+      { "title": "① 「遺物・遺品」として", "desc": "歴史的に残された物を表します。", "example_en": "The museum displays relics from ancient Rome.", "example_ja": "その博物館は古代ローマの遺物を展示している。" },
+      { "title": "② 「名残・時代遅れのもの」として", "desc": "過去の名残を表します。", "example_en": "This custom is a relic of a bygone age.", "example_ja": "この慣習は過ぎ去った時代の名残だ。" }
+    ],
+    "warn": [
+      "relic は『（過去から残った）遺物・名残』。聖人の遺物（聖遺物）の意味もある。",
+      "relics（複数形）で『遺跡・遺物』を指すことも。relinquish（手放す）と同じ語源。"
+    ],
+    "etym_note": "ラテン語 reliquiae（残されたもの。relinquere「後に残す」から）に由来します。relinquish と同じ語源で、「あとに残されたもの＝遺物」が原義です。",
+    "etym_chain": [
+      { "node": "relinquere", "sub": "後に残す", "era": "ラテン語" },
+      { "node": "relique", "sub": "遺物", "era": "古フランス語" },
+      { "node": "relic", "sub": "遺物・名残", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an ancient relic", "ja": "古代の遺物" },
+      { "en": "a relic of the past", "ja": "過去の名残" },
+      { "en": "historical relics", "ja": "歴史的遺物" },
+      { "en": "a sacred relic", "ja": "聖遺物" },
+      { "en": "a relic of a bygone age", "ja": "過ぎ去った時代の名残" },
+      { "en": "preserve relics", "ja": "遺物を保存する" }
+    ],
+    "related": [
+      { "en": "remnant", "ja": "名残・残り" },
+      { "en": "antique", "ja": "骨董品" },
+      { "en": "artifact", "ja": "人工遺物" },
+      { "en": "trace", "ja": "跡・名残" }
+    ],
+    "faq": [
+      { "q": "relic とはどんな意味？", "a": "『（過去から残った）遺物・遺品・名残』のことです。ancient relics（古代の遺物）、a relic of the past（過去の名残）のように使います。" },
+      { "q": "relic と remnant の違いは？", "a": "どちらも『名残』ですが、relic は『（過去から残った貴重な）遺物』、remnant は『（全体の一部の）残り・断片』というニュアンスです。" }
+    ],
+    "quiz": [
+      { "q": "The museum displays ___ from ancient Rome.（遺物）", "A": "relics", "B": "relays", "C": "relishes", "D": "relics の誤り", "correct": "A" },
+      { "q": "「過去の名残」を表すのはどれ？", "A": "a relic of the past", "B": "a relay of the past", "C": "a relish of the past", "D": "a relief of the past", "correct": "A" }
+    ]
+  },
+  {
+    "english": "repel",
+    "pron": "rɪˈpel",
+    "kana": "リペル",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 repellere（押し返す）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "撃退する・寄せつけない・不快にさせる",
+    "description": "repel の意味・発音・例文・語源を解説。虫を「寄せつけない」、敵を「撃退する」使い方や、磁石が「反発する」意味も分かりやすく紹介します。",
+    "keywords": ["repel 意味", "repel 発音", "repellent 意味", "repel 撃退"],
+    "meanings": [
+      { "hinshi": "【動詞】撃退する・追い払う", "note": "敵や虫を寄せつけない。repel insects（虫を寄せつけない）。" },
+      { "hinshi": "【動詞】（磁石などが）反発する", "note": "Like poles repel each other.（同極は反発する）。" },
+      { "hinshi": "【動詞】不快にさせる・嫌悪を抱かせる", "note": "be repelled by（〜にぞっとする）。" }
+    ],
+    "usages": [
+      { "title": "① 「撃退する・寄せつけない」として", "desc": "敵・虫などを追い払う意味です。", "example_en": "This spray repels mosquitoes.", "example_ja": "このスプレーは蚊を寄せつけない。" },
+      { "title": "② 「反発する」として", "desc": "理科で磁石・電気の反発を表します。", "example_en": "Two magnets with the same pole repel each other.", "example_ja": "同じ極の2つの磁石は反発し合う。" }
+    ],
+    "warn": [
+      "活用は語尾の l を重ねる：repel – repelled – repelling。",
+      "名詞・形容詞 repellent は『（虫よけなどの）忌避剤／不快な』。形容詞 repulsive は『胸が悪くなる』。"
+    ],
+    "etym_note": "ラテン語 repellere（re-「逆に」＋ pellere「押す」＝押し返す）に由来します。expel・compel と同じ pel-（押す）の語根です。",
+    "etym_chain": [
+      { "node": "repellere", "sub": "押し返す", "era": "ラテン語" },
+      { "node": "repel", "sub": "撃退する", "era": "中英語" },
+      { "node": "repel", "sub": "撃退する・反発する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "repel insects", "ja": "虫を寄せつけない" },
+      { "en": "repel an attack", "ja": "攻撃を撃退する" },
+      { "en": "repel water", "ja": "水をはじく" },
+      { "en": "magnets repel", "ja": "磁石が反発する" },
+      { "en": "be repelled by", "ja": "〜に嫌悪を抱く" },
+      { "en": "insect repellent", "ja": "虫よけ剤" }
+    ],
+    "related": [
+      { "en": "repellent", "ja": "忌避剤・不快な" },
+      { "en": "drive away", "ja": "追い払う" },
+      { "en": "attract", "ja": "引きつける（反対語）" },
+      { "en": "disgust", "ja": "嫌悪させる" }
+    ],
+    "faq": [
+      { "q": "repel の反対語は？", "a": "attract（引きつける）です。磁石では『同極は repel（反発）、異極は attract（引き合う）』のように使います。" },
+      { "q": "insect repellent とは？", "a": "『虫よけ剤』のことです。repel（寄せつけない）の名詞形 repellent を使った語です。" }
+    ],
+    "quiz": [
+      { "q": "This spray ___ mosquitoes.（寄せつけない）", "A": "repels", "B": "repairs", "C": "repeats", "D": "replaces", "correct": "A" },
+      { "q": "repel の反対語はどれ？", "A": "attract", "B": "drive away", "C": "disgust", "D": "reject", "correct": "A" }
+    ]
+  },
+  {
+    "english": "revoke",
+    "pron": "rɪˈvoʊk",
+    "kana": "リボウク",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 revocare（呼び戻す）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "（許可・免許などを）取り消す・無効にする",
+    "description": "revoke の意味・発音・例文・語源を解説。免許や許可を「取り消す」使い方や、cancel との違い、名詞 revocation も分かりやすく紹介します。",
+    "keywords": ["revoke 意味", "revoke 発音", "revoke a license 意味", "revocation 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（許可・免許・権利を）取り消す・無効にする", "note": "公式に与えたものを撤回する。revoke a license（免許を取り消す）。" }
+    ],
+    "usages": [
+      { "title": "① 「取り消す・無効にする」として", "desc": "免許・許可などを公式に撤回する意味です。", "example_en": "His driver's license was revoked.", "example_ja": "彼の運転免許は取り消された。" },
+      { "title": "② 権利・決定の撤回として", "desc": "与えた権利や決定を無効にする意味です。", "example_en": "The company revoked the offer.", "example_ja": "会社はその申し出を撤回した。" }
+    ],
+    "warn": [
+      "revoke は『（公式に与えた免許・許可・権利を）取り消す』というかたい語。cancel（予約などを取り消す）より法的・公式。",
+      "名詞は revocation（取り消し・撤回）。"
+    ],
+    "etym_note": "ラテン語 revocare（re-「再び」＋ vocare「呼ぶ」＝呼び戻す）に由来します。voice・invoke と同じ voc-（呼ぶ）の語根で、「（与えたものを）呼び戻す＝取り消す」が原義です。",
+    "etym_chain": [
+      { "node": "revocare", "sub": "呼び戻す", "era": "ラテン語" },
+      { "node": "revoke", "sub": "取り消す", "era": "中英語" },
+      { "node": "revoke", "sub": "取り消す・無効にする", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "revoke a license", "ja": "免許を取り消す" },
+      { "en": "revoke a permit", "ja": "許可を取り消す" },
+      { "en": "revoke an offer", "ja": "申し出を撤回する" },
+      { "en": "revoke the rights", "ja": "権利を剥奪する" },
+      { "en": "revoke access", "ja": "アクセス権を取り消す" },
+      { "en": "be revoked", "ja": "取り消される" }
+    ],
+    "related": [
+      { "en": "cancel", "ja": "取り消す" },
+      { "en": "withdraw", "ja": "撤回する" },
+      { "en": "annul", "ja": "無効にする" },
+      { "en": "grant", "ja": "許可する（反対語）" }
+    ],
+    "faq": [
+      { "q": "revoke と cancel の違いは？", "a": "revoke は『（公式に与えた免許・許可・権利を）取り消す』というかたい法的な語、cancel は『（予約・予定などを）取り消す』一般的な語です。" },
+      { "q": "revoke の名詞形は？", "a": "revocation（取り消し・撤回）です。" }
+    ],
+    "quiz": [
+      { "q": "His driver's license was ___.（取り消された）", "A": "revoked", "B": "reviewed", "C": "revised", "D": "revived", "correct": "A" },
+      { "q": "revoke の反対語（許可する）はどれ？", "A": "grant", "B": "cancel", "C": "withdraw", "D": "annul", "correct": "A" }
+    ]
+  }
+]

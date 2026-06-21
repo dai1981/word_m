@@ -1,0 +1,477 @@
+[
+  {
+    "english": "radiate",
+    "pron": "ˈreɪdieɪt",
+    "kana": "レイディエイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 radiare（光を放つ）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "理科"],
+    "meaning_main": "（熱・光を）放射する／（感情を）発散する／放射状に広がる",
+    "description": "radiate の意味・発音・例文・語源を解説。熱や光を「放射する」、自信や喜びを「発散する」、放射状に「広がる」使い方を紹介します。",
+    "keywords": ["radiate 意味", "radiate 発音", "radiation 関係", "radiate 放射"],
+    "meanings": [
+      { "hinshi": "【動詞】（熱・光を）放射する・発する", "note": "The sun radiates heat.（太陽は熱を放射する）。" },
+      { "hinshi": "【動詞】（感情・性質を）発散する・あふれさせる", "note": "radiate confidence（自信を発散する）。" },
+      { "hinshi": "【動詞】放射状に広がる・延びる", "note": "Roads radiate from the center.（道が中心から放射状に延びる）。" }
+    ],
+    "usages": [
+      { "title": "① 「放射する」として", "desc": "熱や光を四方に発する意味です。", "example_en": "The fire radiated warmth.", "example_ja": "その火は暖かさを放射した。" },
+      { "title": "② 「（感情を）発散する」として", "desc": "自信や喜びがあふれ出る意味です。", "example_en": "She radiates happiness.", "example_ja": "彼女は幸福感を発散している。" }
+    ],
+    "warn": [
+      "名詞は radiation（放射・放射線）。radiant（輝く）・radio・ray と同じ rad-（放射）の語源。",
+      "radiate from は『〜から放射状に広がる』。"
+    ],
+    "etym_note": "ラテン語 radiare（光を放つ。radius「光線」から）に由来します。radiant・radio・radius と同じ rad-（放射）の語根で、「中心から光線のように発する」が原義です。",
+    "etym_chain": [
+      { "node": "radius", "sub": "光線", "era": "ラテン語" },
+      { "node": "radiare", "sub": "光を放つ", "era": "ラテン語" },
+      { "node": "radiate", "sub": "放射する・発散する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "radiate heat", "ja": "熱を放射する" },
+      { "en": "radiate light", "ja": "光を放つ" },
+      { "en": "radiate confidence", "ja": "自信を発散する" },
+      { "en": "radiate from", "ja": "〜から放射状に広がる" },
+      { "en": "radiate warmth", "ja": "暖かさを発する" },
+      { "en": "radiation", "ja": "放射・放射線" }
+    ],
+    "related": [
+      { "en": "radiant", "ja": "輝く" },
+      { "en": "radiation", "ja": "放射（名詞）" },
+      { "en": "emit", "ja": "放出する" },
+      { "en": "spread", "ja": "広がる" }
+    ],
+    "faq": [
+      { "q": "radiate の三つの使い方は？", "a": "①熱・光を『放射する』、②自信・喜びを『発散する』、③道などが『放射状に広がる』です。" },
+      { "q": "radiate の名詞形は？", "a": "radiation（放射・放射線）です。" }
+    ],
+    "quiz": [
+      { "q": "She ___ happiness.（発散している）", "A": "radiates", "B": "reduces", "C": "removes", "D": "refuses", "correct": "A" },
+      { "q": "radiate と同じ語源（放射）の語はどれ？", "A": "radio", "B": "river", "C": "ribbon", "D": "ripple", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ramble",
+    "pron": "ˈræmbəl",
+    "kana": "ランブル",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "中英語 ramblen（歩き回る）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "（あてもなく）ぶらぶら歩く／とりとめなく話す",
+    "description": "ramble の意味・発音・例文・語源を解説。あてもなく「ぶらぶら歩く」と、要点なく「とりとめなく話す」という二つの使い方を紹介します。",
+    "keywords": ["ramble 意味", "ramble 発音", "ramble on 意味", "ramble とりとめなく"],
+    "meanings": [
+      { "hinshi": "【動詞】（あてもなく）ぶらぶら歩く・散策する", "note": "ramble through the countryside（田舎を散策する）。" },
+      { "hinshi": "【動詞】とりとめなく話す・だらだら話す", "note": "ramble on（だらだらしゃべり続ける）。" }
+    ],
+    "usages": [
+      { "title": "① 「ぶらぶら歩く・散策する」として", "desc": "気ままに歩き回る意味です。", "example_en": "We rambled through the woods all afternoon.", "example_ja": "私たちは午後ずっと森を散策した。" },
+      { "title": "② 「とりとめなく話す」として", "desc": "要点なくだらだら話す意味です。", "example_en": "He rambled on about his childhood.", "example_ja": "彼は子ども時代についてとりとめなく話し続けた。" }
+    ],
+    "warn": [
+      "ramble on は『だらだら話し続ける』。a rambling speech は『まとまりのない話』。",
+      "roam・rove と意味が近い（あてもなく動く）。"
+    ],
+    "etym_note": "中英語 ramblen（歩き回る）に由来します。roam（歩き回る）と関係する語で、「あてもなく動く」が原義です。そこから『とりとめなく話す』にもなりました。",
+    "etym_chain": [
+      { "node": "ramblen", "sub": "歩き回る", "era": "中英語" },
+      { "node": "ramble", "sub": "ぶらつく", "era": "近代英語" },
+      { "node": "ramble", "sub": "散策する・とりとめなく話す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "ramble on", "ja": "だらだら話し続ける" },
+      { "en": "ramble through", "ja": "〜を散策する" },
+      { "en": "a rambling speech", "ja": "まとまりのない話" },
+      { "en": "ramble around", "ja": "あちこち歩き回る" },
+      { "en": "go for a ramble", "ja": "散策に行く" },
+      { "en": "ramble about", "ja": "〜についてとりとめなく話す" }
+    ],
+    "related": [
+      { "en": "wander", "ja": "さまよう" },
+      { "en": "roam", "ja": "歩き回る" },
+      { "en": "stroll", "ja": "ぶらぶら歩く" },
+      { "en": "digress", "ja": "話が脱線する" }
+    ],
+    "faq": [
+      { "q": "ramble の二つの意味は？", "a": "①『（あてもなく）ぶらぶら歩く・散策する』と、②『（要点なく）とりとめなく話す』です。" },
+      { "q": "ramble on とは？", "a": "『だらだらと話し続ける』という意味です。a rambling speech（まとまりのない話）のようにも使います。" }
+    ],
+    "quiz": [
+      { "q": "He ___ on about his childhood.（とりとめなく話した）", "A": "rambled", "B": "rumbled の鳴った", "C": "rustled", "D": "roared", "correct": "A" },
+      { "q": "ramble と意味が近いのはどれ？", "A": "wander（さまよう）", "B": "run（走る）", "C": "rush（急ぐ）", "D": "rest（休む）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recline",
+    "pron": "rɪˈklaɪn",
+    "kana": "リクライン",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 reclinare（後ろへ傾ける）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "（背を）後ろに倒す・もたれる・横たわる",
+    "description": "recline の意味・発音・例文・語源を解説。座席の背を「後ろに倒す」、体を「もたれさせる・横たえる」使い方や、reclining seat（リクライニングシート）も紹介します。",
+    "keywords": ["recline 意味", "recline 発音", "reclining seat 意味", "recline もたれる"],
+    "meanings": [
+      { "hinshi": "【動詞】（背を）後ろに倒す・もたれる", "note": "recline the seat（座席を倒す）。" },
+      { "hinshi": "【動詞】横たわる・もたれて休む", "note": "recline on a sofa（ソファにもたれる）。" }
+    ],
+    "usages": [
+      { "title": "① 「（座席を）倒す・もたれる」として", "desc": "背もたれを後ろに傾ける意味です。", "example_en": "You can recline your seat during the flight.", "example_ja": "飛行中は座席を倒すことができます。" },
+      { "title": "② 「横たわる・もたれて休む」として", "desc": "体を後ろに倒して休む意味です。", "example_en": "She reclined on the sofa to rest.", "example_ja": "彼女は休むためにソファにもたれた。" }
+    ],
+    "warn": [
+      "a reclining seat / chair は『リクライニングシート（倒せる座席）』。",
+      "lean back（もたれる）に近い。clin-（傾く）は incline・decline と同じ語源。"
+    ],
+    "etym_note": "ラテン語 reclinare（re-「後ろへ」＋ clinare「傾ける」＝後ろへ傾ける）に由来します。incline・decline と同じ clin-（傾く）の語根です。",
+    "etym_chain": [
+      { "node": "reclinare", "sub": "後ろへ傾ける", "era": "ラテン語" },
+      { "node": "recline", "sub": "もたれる", "era": "中英語" },
+      { "node": "recline", "sub": "後ろに倒す・もたれる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "recline the seat", "ja": "座席を倒す" },
+      { "en": "a reclining seat", "ja": "リクライニングシート" },
+      { "en": "recline on", "ja": "〜にもたれる" },
+      { "en": "recline in a chair", "ja": "いすにもたれかかる" },
+      { "en": "fully recline", "ja": "完全に倒す" },
+      { "en": "a reclining chair", "ja": "リクライニングチェア" }
+    ],
+    "related": [
+      { "en": "lean back", "ja": "もたれる" },
+      { "en": "lie down", "ja": "横たわる" },
+      { "en": "incline", "ja": "傾く" },
+      { "en": "sit up", "ja": "起き上がる（反対概念）" }
+    ],
+    "faq": [
+      { "q": "recline とはどんな意味？", "a": "『（座席の背を）後ろに倒す・もたれる・横たわる』という意味です。recline your seat（座席を倒す）のように使います。" },
+      { "q": "a reclining seat とは？", "a": "背もたれを後ろに倒せる『リクライニングシート』のことです。" }
+    ],
+    "quiz": [
+      { "q": "You can ___ your seat during the flight.（倒す）", "A": "recline", "B": "remind の思い出させる", "C": "remove", "D": "reduce", "correct": "A" },
+      { "q": "recline と同じ語源（傾く）の語はどれ？", "A": "incline", "B": "river", "C": "ribbon", "D": "ripple", "correct": "A" }
+    ]
+  },
+  {
+    "english": "refract",
+    "pron": "rɪˈfrækt",
+    "kana": "リフラクト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 refringere（砕く・折り曲げる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "理科"],
+    "meaning_main": "（光・波を）屈折させる",
+    "description": "refract の意味・発音・例文・語源を解説。光や波が境界で「屈折する」という理科の使い方や、名詞 refraction も分かりやすく紹介します。",
+    "keywords": ["refract 意味", "refract 発音", "refraction 意味", "refract 屈折"],
+    "meanings": [
+      { "hinshi": "【動詞】（光・波を）屈折させる・屈折する", "note": "光が水やガラスで進む向きを変える。" }
+    ],
+    "usages": [
+      { "title": "① 「屈折させる」として", "desc": "光や波が境界で向きを変える理科の語です。", "example_en": "A prism refracts light into different colors.", "example_ja": "プリズムは光を屈折させてさまざまな色に分ける。" },
+      { "title": "② 自然現象として", "desc": "水中の物がずれて見える現象を説明します。", "example_en": "Light refracts as it passes through water.", "example_ja": "光は水を通るとき屈折する。" }
+    ],
+    "warn": [
+      "名詞は refraction（屈折）。reflect（反射する）と区別：refract は『曲がって通り抜ける』、reflect は『はね返る』。",
+      "fract-（砕く・折る）は fracture・fraction と同じ語源。"
+    ],
+    "etym_note": "ラテン語 refringere（re-「逆に」＋ frangere「砕く・折る」＝折り曲げる）の過去分詞系に由来します。fracture・fraction と同じ fract-（砕く・折る）の語根で、「光を折り曲げる＝屈折させる」が原義です。",
+    "etym_chain": [
+      { "node": "frangere", "sub": "砕く・折る", "era": "ラテン語" },
+      { "node": "refringere", "sub": "折り曲げる", "era": "ラテン語" },
+      { "node": "refract", "sub": "屈折させる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "refract light", "ja": "光を屈折させる" },
+      { "en": "refract through", "ja": "〜を通って屈折する" },
+      { "en": "refraction of light", "ja": "光の屈折" },
+      { "en": "the angle of refraction", "ja": "屈折角" },
+      { "en": "refracted rays", "ja": "屈折した光線" },
+      { "en": "refraction", "ja": "屈折" }
+    ],
+    "related": [
+      { "en": "refraction", "ja": "屈折（名詞）" },
+      { "en": "reflect", "ja": "反射する" },
+      { "en": "bend", "ja": "曲げる" },
+      { "en": "prism", "ja": "プリズム" }
+    ],
+    "faq": [
+      { "q": "refract と reflect の違いは？", "a": "refract は『（光が境界で）屈折して向きを変えて通り抜ける』、reflect は『（光が）はね返る』です。理科でよく対比されます。" },
+      { "q": "refract の名詞形は？", "a": "refraction（屈折）です。the refraction of light（光の屈折）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "A prism ___ light into different colors.（屈折させる）", "A": "refracts", "B": "reflects の反射する", "C": "reduces", "D": "removes", "correct": "A" },
+      { "q": "refract と同じ語源（砕く・折る）の語はどれ？", "A": "fracture", "B": "river", "C": "ribbon", "D": "ripple", "correct": "A" }
+    ]
+  },
+  {
+    "english": "regress",
+    "pron": "rɪˈɡres",
+    "kana": "リグレス",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 regredi（後ろへ進む）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "後退する・退行する・元の悪い状態に戻る",
+    "description": "regress の意味・発音・例文・語源を解説。進歩の反対に「後退する・退行する」使い方や、progress との対比、名詞 regression も紹介します。",
+    "keywords": ["regress 意味", "regress 発音", "regress progress 反対", "regression 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】後退する・退行する・元の（悪い）状態に戻る", "note": "progress（進歩する）の反対。" }
+    ],
+    "usages": [
+      { "title": "① 「後退する・退行する」として", "desc": "進歩とは逆に元に戻る意味です。", "example_en": "Without practice, his skills regressed.", "example_ja": "練習しないと彼の技術は後退した。" },
+      { "title": "② 心理・行動の退行として", "desc": "幼児的な状態に戻る意味でも使います。", "example_en": "Under stress, people sometimes regress.", "example_ja": "ストレス下では人は退行することがある。" }
+    ],
+    "warn": [
+      "反対は progress（進歩する）。名詞は regression（後退・退行・回帰）。",
+      "gress-（進む）は progress・aggressive と同じ語源。"
+    ],
+    "etym_note": "ラテン語 regredi（re-「後ろへ」＋ gradi「進む」＝後ろへ進む）に由来します。progress・aggressive と同じ gress-（進む）の語根です。",
+    "etym_chain": [
+      { "node": "regredi", "sub": "後ろへ進む", "era": "ラテン語" },
+      { "node": "regress", "sub": "後退する", "era": "近代英語" },
+      { "node": "regress", "sub": "後退する・退行する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "regress to", "ja": "〜に退行する" },
+      { "en": "regress into", "ja": "〜に逆戻りする" },
+      { "en": "skills regress", "ja": "技術が後退する" },
+      { "en": "regression", "ja": "後退・退行・回帰" },
+      { "en": "age regression", "ja": "年齢退行" },
+      { "en": "regress rather than progress", "ja": "進歩でなく後退する" }
+    ],
+    "related": [
+      { "en": "regression", "ja": "後退・退行（名詞）" },
+      { "en": "progress", "ja": "進歩する（反対語）" },
+      { "en": "deteriorate", "ja": "悪化する" },
+      { "en": "relapse", "ja": "逆戻りする" }
+    ],
+    "faq": [
+      { "q": "regress と progress の違いは？", "a": "progress は『進歩する・前進する』、regress は『後退する・退行する』で、gress（進む）に re-（後ろへ）と pro-（前へ）がついた対の語です。" },
+      { "q": "regress の名詞形は？", "a": "regression（後退・退行・回帰）です。統計では『回帰』の意味でも使います。" }
+    ],
+    "quiz": [
+      { "q": "Without practice, his skills ___.（後退した）", "A": "regressed", "B": "progressed の進歩した", "C": "reduced", "D": "removed", "correct": "A" },
+      { "q": "regress の反対語はどれ？", "A": "progress（進歩する）", "B": "regression（後退）", "C": "decline（衰退）", "D": "relapse（逆戻り）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "renege",
+    "pron": "rɪˈniːɡ",
+    "kana": "リニーグ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 renegare（否認する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "（約束・合意を）破る・反故にする",
+    "description": "renege の意味・発音・例文・語源を解説。約束や合意を「破る・反故にする」使い方や、renege on（〜を破る）も分かりやすく紹介します。",
+    "keywords": ["renege 意味", "renege 発音", "renege on 使い方", "renege 約束を破る"],
+    "meanings": [
+      { "hinshi": "【動詞】（約束・合意を）破る・反故にする", "note": "renege on a promise（約束を破る）。" }
+    ],
+    "usages": [
+      { "title": "① 「約束を破る」として", "desc": "renege on〜で「〜を反故にする」を表します。", "example_en": "He reneged on his promise to help.", "example_ja": "彼は手伝うという約束を破った。" },
+      { "title": "② 合意・契約を破って", "desc": "取り決めを反故にする意味です。", "example_en": "The company reneged on the deal.", "example_ja": "その会社は取引を反故にした。" }
+    ],
+    "warn": [
+      "「〜（約束）を破る」は renege on。break a promise に近いかたい語。",
+      "発音は /rɪˈniːɡ/「リニーグ」。neg-（否定）は negative・deny と同じ語源。"
+    ],
+    "etym_note": "ラテン語 renegare（re-「強意」＋ negare「否定する」＝否認する）に由来します。negative・deny と同じ neg-（否定）の語根で、「（約束を）否認して破る」が原義です。",
+    "etym_chain": [
+      { "node": "renegare", "sub": "否認する", "era": "ラテン語" },
+      { "node": "renege", "sub": "否認する・破る", "era": "近代英語" },
+      { "node": "renege", "sub": "約束を破る", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "renege on a promise", "ja": "約束を破る" },
+      { "en": "renege on a deal", "ja": "取引を反故にする" },
+      { "en": "renege on an agreement", "ja": "合意を破る" },
+      { "en": "renege on a commitment", "ja": "約束を反故にする" },
+      { "en": "never renege", "ja": "決して約束を破らない" },
+      { "en": "renege on one's word", "ja": "前言を翻す" }
+    ],
+    "related": [
+      { "en": "break", "ja": "破る" },
+      { "en": "back out", "ja": "手を引く" },
+      { "en": "default", "ja": "不履行する" },
+      { "en": "honor", "ja": "（約束を）守る（反対語）" }
+    ],
+    "faq": [
+      { "q": "renege のあとの前置詞は？", "a": "on です。renege on a promise（約束を破る）のように使います。" },
+      { "q": "renege と break a promise の違いは？", "a": "意味は同じ『約束を破る』ですが、renege はよりかたい語で、特に合意・契約を『反故にする』ニュアンスがあります。" }
+    ],
+    "quiz": [
+      { "q": "He ___ on his promise to help.（破った）", "A": "reneged", "B": "renewed の更新した", "C": "reduced", "D": "removed", "correct": "A" },
+      { "q": "renege のあとの前置詞は？", "A": "on", "B": "to", "C": "for", "D": "at", "correct": "A" }
+    ]
+  },
+  {
+    "english": "resound",
+    "pron": "rɪˈzaʊnd",
+    "kana": "リザウンド",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 resonare（鳴り響く）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "鳴り響く・響き渡る／（評判が）広まる",
+    "description": "resound の意味・発音・例文・語源を解説。音が「響き渡る」使い方や、形容詞 resounding（とどろくような・圧倒的な）も分かりやすく紹介します。",
+    "keywords": ["resound 意味", "resound 発音", "resounding 意味", "resound 響き渡る"],
+    "meanings": [
+      { "hinshi": "【動詞】鳴り響く・響き渡る", "note": "音が場所いっぱいに響く。resound with（〜で響き渡る）。" },
+      { "hinshi": "【動詞】（評判などが）広く知れ渡る", "note": "His fame resounded throughout the land." }
+    ],
+    "usages": [
+      { "title": "① 「鳴り響く・響き渡る」として", "desc": "音が場所いっぱいに響く意味です。", "example_en": "Cheers resounded through the stadium.", "example_ja": "歓声がスタジアムに響き渡った。" },
+      { "title": "② 形容詞 resounding として", "desc": "「とどろくような・圧倒的な」を表します。", "example_en": "The play was a resounding success.", "example_ja": "その劇は圧倒的な成功だった。" }
+    ],
+    "warn": [
+      "形容詞 resounding は『とどろくような』のほか『圧倒的な（a resounding success / victory）』の意味で頻出。",
+      "resonate・reverberate と同じ son-（音）の語源。"
+    ],
+    "etym_note": "ラテン語 resonare（re-「再び」＋ sonare「鳴る」＝鳴り響く）に由来します。sound・resonate と同じ son-（音）の語根です。",
+    "etym_chain": [
+      { "node": "resonare", "sub": "鳴り響く", "era": "ラテン語" },
+      { "node": "resoun", "sub": "鳴り響く", "era": "中英語" },
+      { "node": "resound", "sub": "響き渡る", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "resound with", "ja": "〜で響き渡る" },
+      { "en": "resound through", "ja": "〜に鳴り響く" },
+      { "en": "a resounding success", "ja": "圧倒的な成功" },
+      { "en": "a resounding victory", "ja": "圧勝" },
+      { "en": "a resounding no", "ja": "きっぱりとした拒否" },
+      { "en": "resounding applause", "ja": "とどろくような拍手" }
+    ],
+    "related": [
+      { "en": "resonate", "ja": "鳴り響く・共鳴する" },
+      { "en": "echo", "ja": "こだまする" },
+      { "en": "reverberate", "ja": "鳴り響く" },
+      { "en": "ring out", "ja": "鳴り響く" }
+    ],
+    "faq": [
+      { "q": "a resounding success とは？", "a": "『圧倒的な・申し分のない成功』という意味です。resounding は『とどろくような＝圧倒的な』を表します。" },
+      { "q": "resound と resonate の違いは？", "a": "どちらも『鳴り響く』ですが、resound は『（音が場所いっぱいに）響き渡る』、resonate は『共鳴する・（心に）響く』というニュアンスです。" }
+    ],
+    "quiz": [
+      { "q": "Cheers ___ through the stadium.（響き渡った）", "A": "resounded", "B": "reduced", "C": "removed", "D": "refused", "correct": "A" },
+      { "q": "「圧倒的な成功」を表すのはどれ？", "A": "a resounding success", "B": "a resenting success", "C": "a resuming success", "D": "a reserving success", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rivet",
+    "pron": "ˈrɪvɪt",
+    "kana": "リベット",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "古フランス語 river（固定する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "もの"],
+    "meaning_main": "リベット（金属の留め具）／リベットで留める・くぎ付けにする",
+    "description": "rivet の意味・発音・例文・語源を解説。金属の留め具「リベット」や、注意を「くぎ付けにする」使い方、形容詞 riveting も紹介します。",
+    "keywords": ["rivet 意味", "rivet 発音", "riveted 意味", "rivet リベット"],
+    "meanings": [
+      { "hinshi": "【名詞】リベット", "note": "金属板をつなぐ留め具。" },
+      { "hinshi": "【動詞】リベットで留める／（注意・視線を）くぎ付けにする", "note": "be riveted to the screen（画面にくぎ付けになる）。" }
+    ],
+    "usages": [
+      { "title": "① 「リベットで留める」として", "desc": "金属の留め具で固定する意味です。", "example_en": "The steel plates were riveted together.", "example_ja": "鉄板はリベットで接合された。" },
+      { "title": "② 「くぎ付けにする」として", "desc": "注意や視線を引きつけて離さない意味です。", "example_en": "The audience was riveted by her performance.", "example_ja": "観客は彼女の演技にくぎ付けになった。" }
+    ],
+    "warn": [
+      "be riveted (to / by) は『（視線・注意が）くぎ付けになる』。形容詞 riveting は『（くぎ付けにするほど）非常に面白い』。",
+      "rivet /ˈrɪvɪt/ と river（川）/ˈrɪvər/ は語尾が違う。"
+    ],
+    "etym_note": "古フランス語 river（固定する・打ち込む）に由来します。「金属を打ち込んで固定する留め具」が原義で、そこから『（注意を）くぎ付けにする』にもなりました。riveting と同じ語源です。",
+    "etym_chain": [
+      { "node": "river", "sub": "固定する", "era": "古フランス語" },
+      { "node": "rivet", "sub": "リベット", "era": "中英語" },
+      { "node": "rivet", "sub": "リベット・くぎ付けにする", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be riveted to", "ja": "〜にくぎ付けになる" },
+      { "en": "be riveted by", "ja": "〜にくぎ付けになる" },
+      { "en": "rivet attention", "ja": "注目をくぎ付けにする" },
+      { "en": "rivet together", "ja": "リベットで接合する" },
+      { "en": "eyes riveted on", "ja": "〜に視線をくぎ付けにして" },
+      { "en": "a metal rivet", "ja": "金属のリベット" }
+    ],
+    "related": [
+      { "en": "riveting", "ja": "非常に面白い" },
+      { "en": "fasten", "ja": "留める" },
+      { "en": "fix", "ja": "固定する" },
+      { "en": "transfix", "ja": "くぎ付けにする" }
+    ],
+    "faq": [
+      { "q": "be riveted とは？", "a": "『（視線・注意が）くぎ付けになる・引きつけられる』という意味です。be riveted to the TV（テレビにくぎ付けになる）のように使います。" },
+      { "q": "rivet と riveting の関係は？", "a": "rivet（くぎ付けにする）の現在分詞 riveting は形容詞『（くぎ付けにするほど）非常に面白い』です。" }
+    ],
+    "quiz": [
+      { "q": "The audience was ___ by her performance.（くぎ付けになった）", "A": "riveted", "B": "rivered の誤り", "C": "reduced", "D": "removed", "correct": "A" },
+      { "q": "rivet の形容詞形（非常に面白い）はどれ？", "A": "riveting", "B": "riverful", "C": "rivetable", "D": "rivetous", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ruminate",
+    "pron": "ˈruːmɪneɪt",
+    "kana": "ルーミネイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 ruminare（反芻する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "じっくり考える・思いめぐらす／（牛などが）反芻する",
+    "description": "ruminate の意味・発音・例文・語源を解説。あれこれ「じっくり考え込む」使い方や、牛の「反芻」という語源も分かりやすく紹介します。",
+    "keywords": ["ruminate 意味", "ruminate 発音", "ruminate on 使い方", "ruminate 反芻"],
+    "meanings": [
+      { "hinshi": "【動詞】じっくり考える・思いめぐらす", "note": "ruminate on / over（〜について熟考する）。" },
+      { "hinshi": "【動詞】（牛・羊が）反芻する", "note": "食べた草をもう一度かむ。" }
+    ],
+    "usages": [
+      { "title": "① 「じっくり考える」として", "desc": "あれこれ思いをめぐらす意味です。", "example_en": "He ruminated on the meaning of life.", "example_ja": "彼は人生の意味についてじっくり考えた。" },
+      { "title": "② 「反芻する」として", "desc": "牛などが食べ物を再びかむ意味です。", "example_en": "Cows ruminate their food.", "example_ja": "牛は食べ物を反芻する。" }
+    ],
+    "warn": [
+      "「〜についてじっくり考える」は ruminate on / over。語源は牛の『反芻（くり返しかむ）』。",
+      "名詞は rumination（熟考・反芻）。"
+    ],
+    "etym_note": "ラテン語 ruminare（反芻する。rumen「（牛の）第一胃」から）に由来します。「（食べ物を）何度もかみ直す＝じっくり考える」へと比喩的に広がりました。",
+    "etym_chain": [
+      { "node": "rumen", "sub": "（牛の）第一胃", "era": "ラテン語" },
+      { "node": "ruminare", "sub": "反芻する", "era": "ラテン語" },
+      { "node": "ruminate", "sub": "じっくり考える・反芻する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "ruminate on", "ja": "〜についてじっくり考える" },
+      { "en": "ruminate over", "ja": "〜を思いめぐらす" },
+      { "en": "ruminate about", "ja": "〜について考え込む" },
+      { "en": "sit ruminating", "ja": "座って考え込む" },
+      { "en": "rumination", "ja": "熟考・反芻" },
+      { "en": "endlessly ruminate", "ja": "延々と考え込む" }
+    ],
+    "related": [
+      { "en": "ponder", "ja": "じっくり考える" },
+      { "en": "reflect", "ja": "熟考する" },
+      { "en": "contemplate", "ja": "熟考する" },
+      { "en": "mull over", "ja": "思案する" }
+    ],
+    "faq": [
+      { "q": "ruminate の語源は？", "a": "ラテン語の『（牛が）反芻する』に由来します。食べ物を何度もかみ直すように『考えを何度もめぐらす＝じっくり考える』になりました。" },
+      { "q": "ruminate のあとの前置詞は？", "a": "on / over / about です。ruminate on the problem（その問題をじっくり考える）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "He ___ on the meaning of life.（じっくり考えた）", "A": "ruminated", "B": "removed", "C": "reduced", "D": "refused", "correct": "A" },
+      { "q": "ruminate と意味が近いのはどれ？", "A": "ponder（じっくり考える）", "B": "run（走る）", "C": "rush（急ぐ）", "D": "rest（休む）", "correct": "A" }
+    ]
+  }
+]

@@ -1,0 +1,528 @@
+[
+  {
+    "english": "rampage",
+    "pron": "ˈræmpeɪdʒ",
+    "kana": "ランペイジ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "スコットランド語 ramp（暴れる）由来",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "多義語"],
+    "meaning_main": "暴れ回ること／暴れ回る・暴走する",
+    "description": "rampage の意味・発音・例文・語源を解説。go on the rampage / on a rampage（暴れ回る）という使い方を分かりやすく紹介します。",
+    "keywords": ["rampage 意味", "rampage 発音", "on a rampage 意味", "rampage 暴れ回る"],
+    "meanings": [
+      { "hinshi": "【名詞】暴れ回ること・大暴れ", "note": "go on a rampage（暴れ回る）。" },
+      { "hinshi": "【動詞】暴れ回る・暴走する", "note": "群衆や動物が荒々しく暴れる。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「大暴れ」として", "desc": "on a rampage（暴れ回って）の形で使います。", "example_en": "The crowd went on a rampage after the game.", "example_ja": "群衆は試合後に暴れ回った。" },
+      { "title": "② 動詞「暴れ回る」として", "desc": "荒々しく走り回る意味です。", "example_en": "An elephant rampaged through the village.", "example_ja": "象が村を暴れ回った。" }
+    ],
+    "warn": [
+      "go on the rampage / be on a rampage は『暴れ回る』。rampant（はびこる）と語源的に関連。",
+      "発音は /ˈræmpeɪdʒ/（名詞）。動詞は後ろにアクセントが置かれることもある。"
+    ],
+    "etym_note": "スコットランド語 ramp（後ろ足で立って暴れる）に由来するとされ、rampant（立ち上がった・はびこる）と関連します。「荒々しく暴れること」が原義です。",
+    "etym_chain": [
+      { "node": "ramp", "sub": "暴れる・立ち上がる", "era": "スコットランド語" },
+      { "node": "rampage", "sub": "暴れ回る", "era": "18世紀" },
+      { "node": "rampage", "sub": "大暴れ・暴れ回る", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "go on a rampage", "ja": "暴れ回る" },
+      { "en": "on the rampage", "ja": "暴れ回って" },
+      { "en": "a destructive rampage", "ja": "破壊的な大暴れ" },
+      { "en": "rampage through", "ja": "〜を暴れ回る" },
+      { "en": "a shooting rampage", "ja": "銃乱射事件" },
+      { "en": "rampaging mobs", "ja": "暴れる群衆" }
+    ],
+    "related": [
+      { "en": "rampant", "ja": "はびこる" },
+      { "en": "riot", "ja": "暴動" },
+      { "en": "rage", "ja": "激怒・荒れ狂う" },
+      { "en": "run wild", "ja": "暴走する" }
+    ],
+    "faq": [
+      { "q": "go on a rampage とは？", "a": "『暴れ回る・破壊して回る』という意味です。群衆や動物が荒々しく暴れる様子に使います。" },
+      { "q": "rampage と rampant は関係ある？", "a": "はい。どちらも ramp（暴れる・立ち上がる）に由来し、rampage は『暴れ回る』、rampant は『はびこる』です。" }
+    ],
+    "quiz": [
+      { "q": "The crowd went on a ___ after the game.（大暴れ）", "A": "rampage", "B": "rampart の城壁", "C": "ransom", "D": "random", "correct": "A" },
+      { "q": "「暴れ回って」を表すのはどれ？", "A": "on the rampage", "B": "on the rampart", "C": "on the ransom", "D": "on the random", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rampart",
+    "pron": "ˈræmpɑːrt",
+    "kana": "ランパート",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 rempart（城壁）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "歴史"],
+    "meaning_main": "城壁・とりで・防壁",
+    "description": "rampart の意味・発音・例文・語源を解説。城や要塞を守る「城壁・防壁」の使い方や、比喩的な「守り」も分かりやすく紹介します。",
+    "keywords": ["rampart 意味", "rampart 発音", "rampart 城壁", "rampart 防壁"],
+    "meanings": [
+      { "hinshi": "【名詞】城壁・とりで・防壁", "note": "城や要塞を囲む防御の壁。ふつう複数形 ramparts。" }
+    ],
+    "usages": [
+      { "title": "① 「城壁・防壁」として", "desc": "城や要塞を守る壁を表します。", "example_en": "Soldiers stood guard on the ramparts.", "example_ja": "兵士たちは城壁の上で見張りをした。" },
+      { "title": "② 比喩「守り」として", "desc": "何かを守る防壁を表します。", "example_en": "Free speech is a rampart of democracy.", "example_ja": "言論の自由は民主主義の防壁だ。" }
+    ],
+    "warn": [
+      "rampart（城壁）と rampage（大暴れ）はつづりが似ているが別語。",
+      "ふつう複数形 ramparts で使う。"
+    ],
+    "etym_note": "フランス語 rempart（remparer「守りを固める」から＝城壁）に由来します。「（城を）守るために固めた土塁・壁」が原義です。",
+    "etym_chain": [
+      { "node": "remparer", "sub": "守りを固める", "era": "フランス語" },
+      { "node": "rempart", "sub": "城壁", "era": "フランス語" },
+      { "node": "rampart", "sub": "城壁・防壁", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the castle ramparts", "ja": "城の城壁" },
+      { "en": "on the ramparts", "ja": "城壁の上で" },
+      { "en": "defend the ramparts", "ja": "城壁を守る" },
+      { "en": "a rampart of", "ja": "〜の防壁" },
+      { "en": "stone ramparts", "ja": "石の城壁" },
+      { "en": "scale the ramparts", "ja": "城壁をよじ登る" }
+    ],
+    "related": [
+      { "en": "wall", "ja": "壁" },
+      { "en": "fortress", "ja": "要塞" },
+      { "en": "fortification", "ja": "防御施設" },
+      { "en": "barrier", "ja": "障壁" }
+    ],
+    "faq": [
+      { "q": "rampart とは？", "a": "城や要塞を囲む『城壁・防壁・土塁』のことです。ふつう複数形 ramparts で使います。" },
+      { "q": "rampart と rampage の違いは？", "a": "rampart は『城壁・防壁』、rampage は『大暴れ・暴れ回る』です。つづりが似ているので注意しましょう。" }
+    ],
+    "quiz": [
+      { "q": "Soldiers stood guard on the ___.（城壁）", "A": "ramparts", "B": "rampages", "C": "ransoms", "D": "randoms", "correct": "A" },
+      { "q": "rampart と意味が近いのはどれ？", "A": "wall（壁）", "B": "river（川）", "C": "ribbon（リボン）", "D": "ripple（さざ波）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recoil",
+    "pron": "rɪˈkɔɪl",
+    "kana": "リコイル",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "古フランス語 reculer（後ずさりする）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "（恐怖・嫌悪で）後ずさりする・ひるむ／（銃の）反動",
+    "description": "recoil の意味・発音・例文・語源を解説。恐怖や嫌悪で「後ずさりする・ひるむ」使い方や、銃の「反動」も分かりやすく紹介します。",
+    "keywords": ["recoil 意味", "recoil 発音", "recoil from 使い方", "recoil 反動"],
+    "meanings": [
+      { "hinshi": "【動詞】（恐怖・嫌悪で）後ずさりする・ひるむ", "note": "recoil from / at（〜にぞっとして退く）。" },
+      { "hinshi": "【動詞・名詞】（銃・ばねが）反動で戻る／反動", "note": "the recoil of a gun（銃の反動）。" }
+    ],
+    "usages": [
+      { "title": "① 「後ずさりする・ひるむ」として", "desc": "恐怖や嫌悪で思わず退く意味です。", "example_en": "She recoiled in horror at the sight.", "example_ja": "彼女はその光景に恐怖で後ずさりした。" },
+      { "title": "② 「反動」として", "desc": "銃やばねがはね返る意味です。", "example_en": "The rifle has a strong recoil.", "example_ja": "そのライフルは反動が強い。" }
+    ],
+    "warn": [
+      "「〜にぞっとして退く」は recoil from / at。比喩で『（提案などに）尻込みする』にも使う。",
+      "発音は /rɪˈkɔɪl/「リコイル」。"
+    ],
+    "etym_note": "古フランス語 reculer（re-「後ろへ」＋ cul「尻」＝後ずさりする）に由来します。「後ろへ退く」が原義で、そこから『ひるむ』『反動で戻る』になりました。",
+    "etym_chain": [
+      { "node": "reculer", "sub": "後ずさりする", "era": "古フランス語" },
+      { "node": "recoil", "sub": "後ずさりする", "era": "中英語" },
+      { "node": "recoil", "sub": "ひるむ・反動", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "recoil from", "ja": "〜にぞっとして退く" },
+      { "en": "recoil in horror", "ja": "恐怖で後ずさりする" },
+      { "en": "recoil at the thought", "ja": "考えただけでぞっとする" },
+      { "en": "the recoil of a gun", "ja": "銃の反動" },
+      { "en": "recoil in disgust", "ja": "嫌悪で身を引く" },
+      { "en": "recoil sharply", "ja": "さっと身を引く" }
+    ],
+    "related": [
+      { "en": "flinch", "ja": "ひるむ" },
+      { "en": "shrink back", "ja": "後ずさりする" },
+      { "en": "rebound", "ja": "はね返る" },
+      { "en": "advance", "ja": "進む（反対概念）" }
+    ],
+    "faq": [
+      { "q": "recoil from とは？", "a": "『（恐怖・嫌悪で）〜から後ずさりする・ぞっとして退く』という意味です。recoil from the smell（においにぞっとして退く）のように使います。" },
+      { "q": "銃の『反動』も recoil？", "a": "はい。発砲時に銃が後ろへはね返る『反動』も recoil と言います。" }
+    ],
+    "quiz": [
+      { "q": "She ___ in horror at the sight.（後ずさりした）", "A": "recoiled", "B": "reduced", "C": "removed", "D": "refused", "correct": "A" },
+      { "q": "「〜にぞっとして退く」を表すのはどれ？", "A": "recoil from", "B": "recoil to", "C": "recoil for", "D": "recoil of のみ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "redress",
+    "pron": "rɪˈdres",
+    "kana": "リドレス",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "古フランス語 redrecier（正しく直す）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "（不公正・誤りを）正す・是正する／救済・補償",
+    "description": "redress の意味・発音・例文・語源を解説。不公正を「是正する」、redress the balance（バランスを取り戻す）の使い方を分かりやすく紹介します。",
+    "keywords": ["redress 意味", "redress 発音", "redress the balance 意味", "redress 是正"],
+    "meanings": [
+      { "hinshi": "【動詞】（不公正・誤りを）正す・是正する", "note": "redress an injustice（不公正を正す）。" },
+      { "hinshi": "【名詞】救済・補償・是正", "note": "seek redress（救済を求める）。" }
+    ],
+    "usages": [
+      { "title": "① 「是正する・正す」として", "desc": "不公正や偏りを直す意味です。", "example_en": "We must redress the imbalance in pay.", "example_ja": "私たちは賃金の不均衡を是正しなければならない。" },
+      { "title": "② 名詞「救済・補償」として", "desc": "不当な扱いへの救済を表します。", "example_en": "The victims sought legal redress.", "example_ja": "被害者たちは法的な救済を求めた。" }
+    ],
+    "warn": [
+      "redress the balance は『バランス（不均衡）を是正する』という頻出表現。",
+      "re-（再び）＋ dress（整える）＝『正しく整え直す』。dress（服を着る）と語源は同じ。"
+    ],
+    "etym_note": "古フランス語 redrecier（re-「再び」＋ drecier「まっすぐにする・整える」＝正しく直す）に由来します。dress・direct と同じ語源で、「まっすぐ整え直す＝是正する」が原義です。",
+    "etym_chain": [
+      { "node": "redrecier", "sub": "正しく直す", "era": "古フランス語" },
+      { "node": "redress", "sub": "是正する", "era": "中英語" },
+      { "node": "redress", "sub": "是正する・救済", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "redress the balance", "ja": "不均衡を是正する" },
+      { "en": "redress an injustice", "ja": "不公正を正す" },
+      { "en": "seek redress", "ja": "救済を求める" },
+      { "en": "legal redress", "ja": "法的救済" },
+      { "en": "redress grievances", "ja": "苦情を是正する" },
+      { "en": "a means of redress", "ja": "救済の手段" }
+    ],
+    "related": [
+      { "en": "correct", "ja": "訂正する" },
+      { "en": "remedy", "ja": "是正する・解決策" },
+      { "en": "compensation", "ja": "補償" },
+      { "en": "rectify", "ja": "是正する" }
+    ],
+    "faq": [
+      { "q": "redress the balance とは？", "a": "『（かたよった）バランス・不均衡を是正する・取り戻す』という意味の頻出表現です。" },
+      { "q": "redress の名詞の意味は？", "a": "『救済・補償・是正』です。seek redress（救済を求める）、legal redress（法的救済）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "We must ___ the imbalance in pay.（是正する）", "A": "redress", "B": "reduce の減らす", "C": "remove", "D": "refuse", "correct": "A" },
+      { "q": "「不均衡を是正する」を表すのはどれ？", "A": "redress the balance", "B": "reduce the balance", "C": "remove the balance", "D": "refuse the balance", "correct": "A" }
+    ]
+  },
+  {
+    "english": "revel",
+    "pron": "ˈrevəl",
+    "kana": "レベル",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古フランス語 reveler（騒ぐ）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "感情"],
+    "meaning_main": "（revel in）〜を大いに楽しむ・満喫する／どんちゃん騒ぎをする",
+    "description": "revel の意味・発音・例文・語源を解説。revel in（〜を満喫する・浸る）の使い方や、名詞 revelry（お祭り騒ぎ）も分かりやすく紹介します。",
+    "keywords": ["revel 意味", "revel 発音", "revel in 使い方", "revelry 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】(revel in) 〜を大いに楽しむ・満喫する・浸る", "note": "revel in success（成功を満喫する）。" },
+      { "hinshi": "【動詞】どんちゃん騒ぎをする", "note": "飲んで歌って大いに楽しむ。" }
+    ],
+    "usages": [
+      { "title": "① revel in（〜を満喫する）として", "desc": "心ゆくまで楽しむ・浸る意味です。", "example_en": "She revelled in her newfound freedom.", "example_ja": "彼女は手に入れたばかりの自由を満喫した。" },
+      { "title": "② 「どんちゃん騒ぎをする」として", "desc": "大いに飲み騒ぐ意味です。", "example_en": "They revelled all night long.", "example_ja": "彼らは一晩中どんちゃん騒ぎをした。" }
+    ],
+    "warn": [
+      "活用は revel – reveled / revelled（米/英）。「〜を満喫する」は revel in。",
+      "名詞 revelry は『お祭り騒ぎ・どんちゃん騒ぎ』。reveler は『浮かれ騒ぐ人』。"
+    ],
+    "etym_note": "古フランス語 reveler（騒ぐ・浮かれる。ラテン語 rebellare「反抗する・騒ぐ」から）に由来します。rebel と同じ語源で、「（羽目を外して）騒ぐ・浮かれる」が原義です。",
+    "etym_chain": [
+      { "node": "rebellare", "sub": "反抗する・騒ぐ", "era": "ラテン語" },
+      { "node": "reveler", "sub": "騒ぐ", "era": "古フランス語" },
+      { "node": "revel", "sub": "満喫する・騒ぐ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "revel in", "ja": "〜を満喫する・浸る" },
+      { "en": "revel in success", "ja": "成功を満喫する" },
+      { "en": "revel in the attention", "ja": "注目を浴びて喜ぶ" },
+      { "en": "revelry", "ja": "お祭り騒ぎ" },
+      { "en": "revelers", "ja": "浮かれ騒ぐ人々" },
+      { "en": "revel in luxury", "ja": "ぜいたくを満喫する" }
+    ],
+    "related": [
+      { "en": "enjoy", "ja": "楽しむ" },
+      { "en": "delight in", "ja": "〜を喜ぶ" },
+      { "en": "relish", "ja": "満喫する" },
+      { "en": "celebrate", "ja": "祝う" }
+    ],
+    "faq": [
+      { "q": "revel in とは？", "a": "『〜を大いに楽しむ・満喫する・（喜びに）浸る』という意味です。revel in the moment（その瞬間を満喫する）のように使います。" },
+      { "q": "revel の名詞形は？", "a": "revelry（お祭り騒ぎ・どんちゃん騒ぎ）です。" }
+    ],
+    "quiz": [
+      { "q": "She ___ in her newfound freedom.（満喫した）", "A": "revelled", "B": "revealed の明らかにした", "C": "reversed", "D": "revised", "correct": "A" },
+      { "q": "「〜を満喫する」を表すのはどれ？", "A": "revel in", "B": "revel at", "C": "revel for", "D": "revel of", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reverberate",
+    "pron": "rɪˈvɜːrbəreɪt",
+    "kana": "リバーバレイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 reverberare（打ち返す）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "鳴り響く・反響する／（影響が）広く及ぶ",
+    "description": "reverberate の意味・発音・例文・語源を解説。音が「反響する」と、影響が「広く及ぶ」という使い方を分かりやすく紹介します。",
+    "keywords": ["reverberate 意味", "reverberate 発音", "reverberation 意味", "reverberate 反響"],
+    "meanings": [
+      { "hinshi": "【動詞】鳴り響く・反響する", "note": "音が何度もはね返って響く。" },
+      { "hinshi": "【動詞】（影響が）広く長く及ぶ", "note": "The news reverberated around the world." }
+    ],
+    "usages": [
+      { "title": "① 「鳴り響く・反響する」として", "desc": "音が何度も響き渡る意味です。", "example_en": "The sound reverberated through the cave.", "example_ja": "その音は洞窟中に響き渡った。" },
+      { "title": "② 「影響が広く及ぶ」として", "desc": "出来事の影響が広く続く意味です。", "example_en": "The decision reverberated throughout the industry.", "example_ja": "その決定は業界全体に影響を及ぼした。" }
+    ],
+    "warn": [
+      "名詞は reverberation（反響・余韻）。echo（こだま）より『何度もはね返って響く』ニュアンス。",
+      "reverb（リバーブ）は音響の『残響効果』。"
+    ],
+    "etym_note": "ラテン語 reverberare（re-「逆に」＋ verberare「打つ」＝打ち返す）に由来します。「音が打ち返されて何度も響く」が原義です。",
+    "etym_chain": [
+      { "node": "reverberare", "sub": "打ち返す", "era": "ラテン語" },
+      { "node": "reverberate", "sub": "反響する", "era": "近代英語" },
+      { "node": "reverberate", "sub": "鳴り響く・広く及ぶ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reverberate through", "ja": "〜に鳴り響く" },
+      { "en": "reverberate around", "ja": "〜に響き渡る" },
+      { "en": "reverberate throughout", "ja": "〜全体に影響を及ぼす" },
+      { "en": "reverberation", "ja": "反響・余韻" },
+      { "en": "still reverberating", "ja": "今も影響が続いて" },
+      { "en": "reverberate for years", "ja": "何年も影響が残る" }
+    ],
+    "related": [
+      { "en": "echo", "ja": "こだまする" },
+      { "en": "resonate", "ja": "鳴り響く・共鳴する" },
+      { "en": "resound", "ja": "鳴り響く" },
+      { "en": "ripple", "ja": "（影響が）広がる" }
+    ],
+    "faq": [
+      { "q": "reverberate と echo の違いは？", "a": "echo は『こだまする（一度はね返る）』、reverberate は『何度もはね返って響き続ける』というニュアンスです。" },
+      { "q": "reverberate の比喩的な意味は？", "a": "『（出来事の影響が）広く長く及ぶ』という意味です。The scandal reverberated for years.（そのスキャンダルは何年も影響を残した）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The sound ___ through the cave.（響き渡った）", "A": "reverberated", "B": "reproduced", "C": "recovered", "D": "reduced", "correct": "A" },
+      { "q": "reverberate の名詞形はどれ？", "A": "reverberation", "B": "reverberment", "C": "reverberance", "D": "reverbity", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rhinoceros",
+    "pron": "raɪˈnɑːsərəs",
+    "kana": "ライノセラス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 rhinokeros（鼻の角）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "動物"],
+    "meaning_main": "サイ（犀）",
+    "description": "rhinoceros（サイ）の意味・発音・例文・語源を解説。「鼻の角」を意味するギリシャ語源や、略語 rhino も分かりやすく紹介します。",
+    "keywords": ["rhinoceros 意味", "rhinoceros 発音", "rhino 略", "rhinoceros サイ"],
+    "meanings": [
+      { "hinshi": "【名詞】サイ（犀）", "note": "鼻の上に角を持つ大型の草食動物。略して rhino。" }
+    ],
+    "usages": [
+      { "title": "① 動物の「サイ」として", "desc": "鼻に角を持つ大型動物を表します。", "example_en": "The rhinoceros is an endangered animal.", "example_ja": "サイは絶滅危惧種だ。" },
+      { "title": "② 略語 rhino として", "desc": "会話では rhino と短く言います。", "example_en": "We saw a rhino at the safari park.", "example_ja": "私たちはサファリパークでサイを見た。" }
+    ],
+    "warn": [
+      "つづりが難しい：rhinoceros。rh- で始まり、略語は rhino。",
+      "rhino-（鼻）＋ keros（角）。鼻の角が名前の由来。"
+    ],
+    "etym_note": "ギリシャ語 rhinokeros（rhis「鼻」＋ keras「角」＝鼻の角）に由来します。鼻の上に角を持つ特徴がそのまま名前になりました。",
+    "etym_chain": [
+      { "node": "rhinokeros", "sub": "鼻の角", "era": "ギリシャ語" },
+      { "node": "rhinoceros", "sub": "サイ", "era": "ラテン語" },
+      { "node": "rhinoceros", "sub": "サイ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a white rhinoceros", "ja": "シロサイ" },
+      { "en": "a black rhino", "ja": "クロサイ" },
+      { "en": "an endangered rhinoceros", "ja": "絶滅危惧のサイ" },
+      { "en": "rhino horn", "ja": "サイの角" },
+      { "en": "protect rhinos", "ja": "サイを守る" },
+      { "en": "a charging rhinoceros", "ja": "突進するサイ" }
+    ],
+    "related": [
+      { "en": "rhino", "ja": "サイ（略語）" },
+      { "en": "elephant", "ja": "象" },
+      { "en": "hippopotamus", "ja": "カバ" },
+      { "en": "horn", "ja": "角" }
+    ],
+    "faq": [
+      { "q": "rhinoceros の語源は？", "a": "ギリシャ語の rhino（鼻）＋ keros（角）で、『鼻の角』という意味です。鼻の上の角が名前の由来です。" },
+      { "q": "rhinoceros の略語は？", "a": "rhino（ライノ）です。会話ではこちらをよく使います。" }
+    ],
+    "quiz": [
+      { "q": "The ___ is an endangered animal.（サイ）", "A": "rhinoceros", "B": "rhythm のリズム", "C": "rhetoric", "D": "rhubarb", "correct": "A" },
+      { "q": "rhinoceros の語源（rhino + keros）の意味は？", "A": "鼻の角", "B": "大きな足", "C": "長い首", "D": "厚い皮", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rotor",
+    "pron": "ˈroʊtər",
+    "kana": "ロウター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 rotare（回す）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "科学技術"],
+    "meaning_main": "回転翼・回転子・ローター",
+    "description": "rotor の意味・発音・例文・語源を解説。ヘリコプターの「回転翼」やモーターの「回転子」の使い方や、rotate との関係も分かりやすく紹介します。",
+    "keywords": ["rotor 意味", "rotor 発音", "rotor blade 意味", "rotor 回転翼"],
+    "meanings": [
+      { "hinshi": "【名詞】回転翼・回転子・ローター", "note": "ヘリコプターやモーターの回転する部分。" }
+    ],
+    "usages": [
+      { "title": "① ヘリの「回転翼」として", "desc": "ヘリコプターを飛ばす回転羽根を表します。", "example_en": "The helicopter's rotor began to spin.", "example_ja": "ヘリコプターの回転翼が回り始めた。" },
+      { "title": "② 機械の「回転子」として", "desc": "モーターなどの回転する部品を表します。", "example_en": "The motor's rotor spins at high speed.", "example_ja": "モーターの回転子は高速で回る。" }
+    ],
+    "warn": [
+      "rotor は『回転する部分』。rotate（回転する）と同じ語源。stator（固定子）と対になる。",
+      "a rotor blade は『（ヘリの）回転翼の羽根』。"
+    ],
+    "etym_note": "ラテン語 rotare（回す。rota「車輪」から）に由来します。rotate・rotation と同じ rot-（回る）の語根で、「回転するもの」が原義です。",
+    "etym_chain": [
+      { "node": "rota", "sub": "車輪", "era": "ラテン語" },
+      { "node": "rotare", "sub": "回す", "era": "ラテン語" },
+      { "node": "rotor", "sub": "回転翼・回転子", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rotor blade", "ja": "回転翼の羽根" },
+      { "en": "the main rotor", "ja": "メインローター" },
+      { "en": "the tail rotor", "ja": "テールローター" },
+      { "en": "the rotor spins", "ja": "回転翼が回る" },
+      { "en": "a helicopter rotor", "ja": "ヘリの回転翼" },
+      { "en": "a rotor system", "ja": "ローターシステム" }
+    ],
+    "related": [
+      { "en": "rotate", "ja": "回転する" },
+      { "en": "propeller", "ja": "プロペラ" },
+      { "en": "blade", "ja": "羽根・刃" },
+      { "en": "stator", "ja": "固定子" }
+    ],
+    "faq": [
+      { "q": "rotor とは？", "a": "ヘリコプターの『回転翼』やモーターの『回転子』など、機械の『回転する部分』のことです。" },
+      { "q": "rotor と同じ語源の語は？", "a": "rotate（回転する）、rotation（回転）、rotary（回転式の）などです。すべて rot-（回る）の語根です。" }
+    ],
+    "quiz": [
+      { "q": "The helicopter's ___ began to spin.（回転翼）", "A": "rotor", "B": "rotate の動詞", "C": "rotten の腐った", "D": "router", "correct": "A" },
+      { "q": "rotor と同じ語源（回る）の語はどれ？", "A": "rotate", "B": "river", "C": "ribbon", "D": "ripple", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rudder",
+    "pron": "ˈrʌdər",
+    "kana": "ラダー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 rōþor（かじ）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "もの"],
+    "meaning_main": "（船・飛行機の）かじ・方向舵",
+    "description": "rudder の意味・発音・例文・語源を解説。船や飛行機の進む向きを変える「かじ・方向舵」の使い方や、比喩的な「指針」も紹介します。",
+    "keywords": ["rudder 意味", "rudder 発音", "rudder かじ", "rudder 方向舵"],
+    "meanings": [
+      { "hinshi": "【名詞】（船・飛行機の）かじ・方向舵", "note": "進む向きを変えるための板。steer with the rudder（かじで操縦する）。" },
+      { "hinshi": "【名詞】（比喩）指針・導くもの", "note": "without a rudder（指針なしで・漂って）。" }
+    ],
+    "usages": [
+      { "title": "① 「かじ・方向舵」として", "desc": "船や飛行機の向きを変える装置です。", "example_en": "The ship's rudder was damaged in the storm.", "example_ja": "船のかじは嵐で損傷した。" },
+      { "title": "② 比喩「指針」として", "desc": "進む方向を導くものを表します。", "example_en": "The company was left without a rudder.", "example_ja": "その会社は指針を失った状態に置かれた。" }
+    ],
+    "warn": [
+      "rudder は『（向きを変える）かじ・方向舵』。oar（こぐオール）とは別。",
+      "without a rudder は『指針なしで・漂って』という比喩。ladder（はしご）と混同しない。"
+    ],
+    "etym_note": "古英語 rōþor（こぐ道具・かじ）に由来する古いゲルマン系の語です。row（こぐ）と関係し、もとは『こぐ道具』、のちに『かじ』になりました。",
+    "etym_chain": [
+      { "node": "rōþor", "sub": "こぐ道具・かじ", "era": "古英語" },
+      { "node": "rudder", "sub": "かじ", "era": "中英語" },
+      { "node": "rudder", "sub": "かじ・方向舵", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the ship's rudder", "ja": "船のかじ" },
+      { "en": "steer with the rudder", "ja": "かじで操縦する" },
+      { "en": "without a rudder", "ja": "指針なしで・漂って" },
+      { "en": "a broken rudder", "ja": "壊れたかじ" },
+      { "en": "the rudder of the plane", "ja": "飛行機の方向舵" },
+      { "en": "turn the rudder", "ja": "かじを切る" }
+    ],
+    "related": [
+      { "en": "steer", "ja": "操縦する" },
+      { "en": "helm", "ja": "かじ・操舵装置" },
+      { "en": "oar", "ja": "オール" },
+      { "en": "sail", "ja": "帆" }
+    ],
+    "faq": [
+      { "q": "rudder とは？", "a": "船や飛行機の進む向きを変える『かじ・方向舵』のことです。" },
+      { "q": "without a rudder の比喩的な意味は？", "a": "『指針・方向性を失って・あてもなく漂って』という意味です。" }
+    ],
+    "quiz": [
+      { "q": "The ship's ___ was damaged in the storm.（かじ）", "A": "rudder", "B": "ladder のはしご", "C": "rubber", "D": "ruler", "correct": "A" },
+      { "q": "「指針なしで・漂って」を表すのはどれ？", "A": "without a rudder", "B": "without a ladder", "C": "without a rubber", "D": "without a ruler", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rumple",
+    "pron": "ˈrʌmpəl",
+    "kana": "ランプル",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "中世オランダ語 rompelen（しわをつける）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "（衣服・髪を）しわくちゃにする・くしゃくしゃにする",
+    "description": "rumple の意味・発音・例文・語源を解説。シーツや服を「しわくちゃにする」、髪を「くしゃくしゃにする」使い方を分かりやすく紹介します。",
+    "keywords": ["rumple 意味", "rumple 発音", "rumpled 意味", "rumple しわくちゃ"],
+    "meanings": [
+      { "hinshi": "【動詞】（衣服・髪・紙を）しわくちゃにする・くしゃくしゃにする", "note": "なめらかなものを乱してしわをつける。" }
+    ],
+    "usages": [
+      { "title": "① 「しわくちゃにする」として", "desc": "服やシーツにしわをつける意味です。", "example_en": "He rumpled the bedsheets.", "example_ja": "彼はシーツをしわくちゃにした。" },
+      { "title": "② 形容詞 rumpled として", "desc": "「しわくちゃの」を表します。", "example_en": "He wore a rumpled suit.", "example_ja": "彼はしわくちゃのスーツを着ていた。" }
+    ],
+    "warn": [
+      "形容詞 rumpled は『しわくちゃの・くしゃくしゃの』（a rumpled shirt）。",
+      "ruffle（乱す）と意味が近いが、rumple は『しわをつける』が中心。"
+    ],
+    "etym_note": "中世オランダ語 rompelen（しわをつける）に由来する語です。「なめらかなものを乱してしわをつける」が原義です。",
+    "etym_chain": [
+      { "node": "rompelen", "sub": "しわをつける", "era": "中世オランダ語" },
+      { "node": "rumple", "sub": "しわくちゃにする", "era": "近代英語" },
+      { "node": "rumple", "sub": "しわくちゃにする", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rumple the sheets", "ja": "シーツをしわくちゃにする" },
+      { "en": "rumple one's hair", "ja": "髪をくしゃくしゃにする" },
+      { "en": "a rumpled suit", "ja": "しわくちゃのスーツ" },
+      { "en": "rumpled clothes", "ja": "しわくちゃの服" },
+      { "en": "rumpled hair", "ja": "くしゃくしゃの髪" },
+      { "en": "look rumpled", "ja": "よれよれに見える" }
+    ],
+    "related": [
+      { "en": "wrinkle", "ja": "しわをつける" },
+      { "en": "crumple", "ja": "くしゃくしゃにする" },
+      { "en": "ruffle", "ja": "乱す" },
+      { "en": "smooth", "ja": "なめらかにする（反対概念）" }
+    ],
+    "faq": [
+      { "q": "rumple と wrinkle の違いは？", "a": "意味は近く、どちらも『しわをつける』です。rumple は『（全体を）くしゃくしゃに乱す』、wrinkle は『（細かい）しわをつける』ニュアンスです。" },
+      { "q": "rumpled とは？", "a": "形容詞で『しわくちゃの・よれよれの』という意味です。a rumpled shirt（しわくちゃのシャツ）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "He wore a ___ suit.（しわくちゃの）", "A": "rumpled", "B": "rumbled の鳴った", "C": "rustled", "D": "ruffled の乱した", "correct": "A" },
+      { "q": "rumple と最も意味が近いのはどれ？", "A": "wrinkle（しわをつける）", "B": "smooth（なめらかにする）", "C": "iron（アイロンをかける）", "D": "fold（折る）", "correct": "A" }
+    ]
+  }
+]

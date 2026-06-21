@@ -1,0 +1,532 @@
+[
+  {
+    "english": "redo",
+    "pron": "riːˈduː",
+    "kana": "リドゥー",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ do（する）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "基本単語"],
+    "meaning_main": "やり直す・もう一度する／（内装などを）改装する",
+    "description": "redo の意味・発音・例文・語源を解説。失敗や不十分な作業を「やり直す」、また部屋を「改装する」という使い方を分かりやすく紹介します。",
+    "keywords": ["redo 意味", "redo 発音", "redo 過去形", "redo やり直す"],
+    "meanings": [
+      { "hinshi": "【動詞】やり直す・もう一度する", "note": "うまくいかなかったことを再びする。活用は redo-redid-redone。" },
+      { "hinshi": "【動詞】（部屋・内装を）改装する・模様替えする", "note": "redo the kitchen（台所を改装する）。" },
+      { "hinshi": "【名詞】やり直し", "note": "need a redo（やり直しが必要）。コンピュータの『元に戻すを取り消す』機能名にも。" }
+    ],
+    "usages": [
+      { "title": "① 「やり直す」として", "desc": "うまくいかなかった作業を再びする意味です。", "example_en": "The teacher asked me to redo the assignment.", "example_ja": "先生は私に課題をやり直すよう求めた。" },
+      { "title": "② 「改装する」として", "desc": "部屋や内装を新しくする意味です。", "example_en": "They redid the whole bathroom last year.", "example_ja": "彼らは昨年、浴室を全面改装した。" }
+    ],
+    "warn": [
+      "redo の活用は do と同じ redo-redid-redone。redoed とはしない。",
+      "コンピュータでは undo（取り消し）⇔ redo（やり直し）のセット。"
+    ],
+    "etym_note": "re-（再び）＋ do（する）から成る分かりやすい語です。do は古英語 dōn（行う）に由来し、「もう一度する＝やり直す」が原義です。",
+    "etym_chain": [
+      { "node": "dōn", "sub": "行う・する", "era": "古英語" },
+      { "node": "do", "sub": "する", "era": "中英語" },
+      { "node": "redo", "sub": "やり直す・改装する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "redo the assignment", "ja": "課題をやり直す" },
+      { "en": "redo the kitchen", "ja": "台所を改装する" },
+      { "en": "undo and redo", "ja": "取り消しとやり直し" },
+      { "en": "redo it from scratch", "ja": "一からやり直す" },
+      { "en": "need a redo", "ja": "やり直しが必要だ" },
+      { "en": "redo your hair", "ja": "髪を結い直す" }
+    ],
+    "related": [
+      { "en": "remake", "ja": "作り直す" },
+      { "en": "repeat", "ja": "繰り返す" },
+      { "en": "revise", "ja": "改める" },
+      { "en": "undo", "ja": "取り消す（反対の操作）" }
+    ],
+    "faq": [
+      { "q": "redo の過去形は？", "a": "do と同じで redo-redid-redone です。過去形は redid、過去分詞は redone になります。" },
+      { "q": "redo はどんな場面で使う？", "a": "作業や宿題を『やり直す』、部屋を『改装する』、コンピュータで undo を『やり直す』など幅広く使えます。" }
+    ],
+    "quiz": [
+      { "q": "The teacher asked me to ___ the assignment.（やり直す）", "A": "redo", "B": "reduce の減らす", "C": "remove の取り除く", "D": "remind の思い出させる", "correct": "A" },
+      { "q": "redo の過去形はどれ？", "A": "redid", "B": "redoed", "C": "redone", "D": "redos", "correct": "A" }
+    ]
+  },
+  {
+    "english": "remix",
+    "pron": "riːˈmɪks",
+    "kana": "リミックス",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ mix（混ぜる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "音楽・メディア"],
+    "meaning_main": "リミックス（編集し直した曲）／（曲を）作り直す・再構成する",
+    "description": "remix の意味・発音・例文・語源を解説。既存の曲を編集し直した「リミックス」と、要素を混ぜ直して「作り直す」という現代的な語の使い方を紹介します。",
+    "keywords": ["remix 意味", "remix 発音", "remix リミックス", "remix 曲"],
+    "meanings": [
+      { "hinshi": "【名詞】リミックス", "note": "既存の曲の音源を編集・再構成した新しいバージョン。a dance remix（ダンス向けリミックス）。" },
+      { "hinshi": "【動詞】（曲を）リミックスする・再構成する", "note": "音源を混ぜ直して新しく作り直す。比喩で要素を組み合わせ直す意味にも。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「リミックス」として", "desc": "編集し直した曲のバージョンを指します。", "example_en": "The DJ played a remix of the hit song.", "example_ja": "そのDJはヒット曲のリミックスをかけた。" },
+      { "title": "② 動詞「作り直す・再構成する」として", "desc": "音源や要素を混ぜ直す意味です。", "example_en": "The producer remixed the track for the club.", "example_ja": "プロデューサーはクラブ向けにその曲をリミックスした。" }
+    ],
+    "warn": [
+      "remix は『既存の曲を編集し直した版（リミックス）』。原曲そのままの再録音 remake とは違う。",
+      "比喩で『既存の要素を組み合わせ直す』意味にも使う（a remix of ideas）。"
+    ],
+    "etym_note": "re-（再び）＋ mix（混ぜる）から成る現代的な語で、「もう一度混ぜ合わせる」が原義です。mix はラテン語 miscere（混ぜる）に由来します。録音技術の発展とともに音楽用語として広まりました。",
+    "etym_chain": [
+      { "node": "miscere", "sub": "混ぜる", "era": "ラテン語" },
+      { "node": "mix", "sub": "混ぜる", "era": "近代英語" },
+      { "node": "remix", "sub": "リミックス・再構成する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a dance remix", "ja": "ダンス向けリミックス" },
+      { "en": "a remix of the song", "ja": "その曲のリミックス" },
+      { "en": "an official remix", "ja": "公式リミックス" },
+      { "en": "remix the track", "ja": "曲をリミックスする" },
+      { "en": "a club remix", "ja": "クラブ向けリミックス" },
+      { "en": "a fresh remix", "ja": "新たな再構成版" }
+    ],
+    "related": [
+      { "en": "mix", "ja": "ミックス・混ぜる" },
+      { "en": "remake", "ja": "作り直す・リメイク" },
+      { "en": "edit", "ja": "編集する" },
+      { "en": "mashup", "ja": "マッシュアップ" }
+    ],
+    "faq": [
+      { "q": "remix とはどんな意味？", "a": "既存の曲の音源を編集・再構成した新しいバージョン『リミックス』のことです。動詞では『曲をリミックスする・要素を組み合わせ直す』を表します。" },
+      { "q": "remix と remake の違いは？", "a": "remix は『元の音源を編集し直す』、remake は『一から作り直す（再録音・再制作）』という違いがあります。" }
+    ],
+    "quiz": [
+      { "q": "The DJ played a ___ of the hit song.（リミックス）", "A": "remix", "B": "remind の思い出させる", "C": "remote の遠隔の", "D": "remove の取り除く", "correct": "A" },
+      { "q": "remix のもとになった語はどれ？", "A": "mix（混ぜる）", "B": "fix（直す）", "C": "mark（印）", "D": "make（作る）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "replay",
+    "pron": "riːˈpleɪ",
+    "kana": "リプレイ",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ play（再生する・行う）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "メディア・スポーツ"],
+    "meaning_main": "もう一度再生する・再生／（試合の）再試合・リプレイ",
+    "description": "replay の意味・発音・例文・語源を解説。映像や音を「もう一度再生する」、また試合の「再試合・リプレイ」という使い方を分かりやすく紹介します。",
+    "keywords": ["replay 意味", "replay 発音", "replay リプレイ", "replay 再生"],
+    "meanings": [
+      { "hinshi": "【動詞】もう一度再生する・繰り返し見る", "note": "映像・音を再び流す。記憶を頭の中で再生する意味にも。" },
+      { "hinshi": "【名詞】リプレイ・再生映像", "note": "an instant replay（即時再生）。スポーツの判定確認に使う。" },
+      { "hinshi": "【名詞】（試合の）再試合", "note": "引き分けなどでやり直す試合。a cup replay（カップ戦の再試合）。" }
+    ],
+    "usages": [
+      { "title": "① 「もう一度再生する」として", "desc": "映像や音を再び流す意味です。", "example_en": "Let's replay the last scene in slow motion.", "example_ja": "最後の場面をスローでもう一度再生しよう。" },
+      { "title": "② 名詞「リプレイ」として", "desc": "再生映像や再試合を指します。", "example_en": "The replay showed the ball was out.", "example_ja": "リプレイでボールがアウトだったと分かった。" }
+    ],
+    "warn": [
+      "replay は『もう一度再生する／再生映像』。スポーツでは instant replay（即時再生）や再試合の意味でよく使う。",
+      "頭の中で出来事を『何度も思い返す』比喩でも使う（replay the moment）。"
+    ],
+    "etym_note": "re-（再び）＋ play（演じる・再生する・試合をする）から成ります。play は古英語 plegan（遊ぶ・演じる）に由来し、「もう一度行う・再生する」の意味になりました。",
+    "etym_chain": [
+      { "node": "plegan", "sub": "遊ぶ・演じる", "era": "古英語" },
+      { "node": "play", "sub": "再生する・試合をする", "era": "中英語" },
+      { "node": "replay", "sub": "再生する・再試合", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "instant replay", "ja": "即時再生（判定用）" },
+      { "en": "watch the replay", "ja": "リプレイを見る" },
+      { "en": "replay the video", "ja": "映像を再生し直す" },
+      { "en": "a match replay", "ja": "再試合" },
+      { "en": "replay the moment", "ja": "その瞬間を何度も思い返す" },
+      { "en": "an action replay", "ja": "プレーの再生映像" }
+    ],
+    "related": [
+      { "en": "replay", "ja": "再生する" },
+      { "en": "rerun", "ja": "再放送" },
+      { "en": "rewind", "ja": "巻き戻す" },
+      { "en": "rematch", "ja": "再戦" }
+    ],
+    "faq": [
+      { "q": "replay とはどんな意味？", "a": "映像や音を『もう一度再生する』動詞、また『再生映像（リプレイ）・再試合』を表す名詞です。スポーツの判定確認でよく使われます。" },
+      { "q": "instant replay とは？", "a": "スポーツ中継などで直前のプレーをすぐに再生して見せる『即時再生』のことです。判定の確認にも使われます。" }
+    ],
+    "quiz": [
+      { "q": "The ___ showed the ball was out.（リプレイ）", "A": "replay", "B": "reply の返事", "C": "relay のリレー", "D": "repair の修理", "correct": "A" },
+      { "q": "instant replay の意味はどれ？", "A": "即時再生", "B": "前半戦", "C": "延長戦", "D": "中継放送", "correct": "A" }
+    ]
+  },
+  {
+    "english": "resize",
+    "pron": "riːˈsaɪz",
+    "kana": "リサイズ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ size（大きさにする）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "IT・実用"],
+    "meaning_main": "（画像・物の）サイズを変える・大きさを調整する",
+    "description": "resize の意味・発音・例文・語源を解説。画像やウィンドウ、指輪などの「サイズを変える・大きさを調整する」という実用語の使い方を紹介します。",
+    "keywords": ["resize 意味", "resize 発音", "resize サイズ変更", "resize 画像"],
+    "meanings": [
+      { "hinshi": "【動詞】（画像・物の）サイズを変える・大きさを調整する", "note": "画像・ウィンドウ・衣類・指輪などの大きさを変える。" }
+    ],
+    "usages": [
+      { "title": "① 画像・ウィンドウについて", "desc": "デジタルの大きさを変える意味です。", "example_en": "You can resize the image before uploading it.", "example_ja": "アップロードする前に画像のサイズを変えられる。" },
+      { "title": "② 指輪・衣類について", "desc": "物の大きさを合わせて調整する意味です。", "example_en": "The jeweler resized the ring to fit her finger.", "example_ja": "宝石店は彼女の指に合うよう指輪のサイズを直した。" }
+    ],
+    "warn": [
+      "resize は『大きさを変える・調整する』。IT（画像・ウィンドウ）でも実物（指輪・服）でも使う。",
+      "拡大は enlarge、縮小は shrink。resize はどちらの方向にも使える中立的な語。"
+    ],
+    "etym_note": "re-（再び）＋ size（大きさ・大きさにする）から成る現代的な語です。size は古フランス語 sise（定められた量・寸法）に由来します。コンピュータの普及で広く使われるようになりました。",
+    "etym_chain": [
+      { "node": "sise", "sub": "定められた寸法", "era": "古フランス語" },
+      { "node": "size", "sub": "大きさ", "era": "中英語" },
+      { "node": "resize", "sub": "サイズを変える", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "resize the image", "ja": "画像のサイズを変える" },
+      { "en": "resize the window", "ja": "ウィンドウの大きさを変える" },
+      { "en": "resize a ring", "ja": "指輪のサイズを直す" },
+      { "en": "resize the photo", "ja": "写真をリサイズする" },
+      { "en": "automatically resize", "ja": "自動でサイズ調整する" },
+      { "en": "resize to fit", "ja": "合うようにサイズを変える" }
+    ],
+    "related": [
+      { "en": "enlarge", "ja": "拡大する" },
+      { "en": "shrink", "ja": "縮小する" },
+      { "en": "scale", "ja": "拡大縮小する" },
+      { "en": "adjust", "ja": "調整する" }
+    ],
+    "faq": [
+      { "q": "resize とはどんな意味？", "a": "画像・ウィンドウ・指輪・衣類などの『サイズを変える・大きさを調整する』という動詞です。拡大にも縮小にも使えます。" },
+      { "q": "resize と scale の違いは？", "a": "意味は近いですが、scale は『比率を保って拡大縮小する』ニュアンスが強く、resize は単に『大きさを変える』全般を表します。" }
+    ],
+    "quiz": [
+      { "q": "You can ___ the image before uploading it.（サイズを変える）", "A": "resize", "B": "reside の住む", "C": "resign の辞職する", "D": "resist の抵抗する", "correct": "A" },
+      { "q": "resize のもとになった語はどれ？", "A": "size（大きさ）", "B": "side（側）", "C": "sign（印）", "D": "site（場所）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rewire",
+    "pron": "riːˈwaɪər",
+    "kana": "リワイヤー",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ wire（配線する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "技術"],
+    "meaning_main": "配線をやり直す・電気系統を引き直す／（脳・考え方を）つなぎ変える",
+    "description": "rewire の意味・発音・例文・語源を解説。建物の「配線をやり直す」、また脳や習慣を「つなぎ変える」という比喩の使い方を分かりやすく紹介します。",
+    "keywords": ["rewire 意味", "rewire 発音", "rewire 配線", "rewire 脳"],
+    "meanings": [
+      { "hinshi": "【動詞】配線をやり直す・電気系統を引き直す", "note": "古い建物・機器の電線を新しくつなぎ直す。rewire the house（家の配線を直す）。" },
+      { "hinshi": "【動詞】（脳・考え方・習慣を）つなぎ変える", "note": "脳の回路や思考のパターンを作り変える比喩。rewire the brain。" }
+    ],
+    "usages": [
+      { "title": "① 「配線をやり直す」として", "desc": "建物や機器の電線を引き直す意味です。", "example_en": "They had to rewire the old house for safety.", "example_ja": "安全のため古い家の配線をやり直す必要があった。" },
+      { "title": "② 「（脳・習慣を）つなぎ変える」として", "desc": "考え方や習慣を作り変える比喩です。", "example_en": "New habits can rewire your brain over time.", "example_ja": "新しい習慣は時間をかけて脳をつなぎ変えうる。" }
+    ],
+    "warn": [
+      "rewire は『電気配線を引き直す』が基本。比喩で『脳・思考・習慣をつなぎ変える』の意味でもよく使う。",
+      "脳科学・自己啓発で rewire the brain（脳の回路を作り変える）が定番表現。"
+    ],
+    "etym_note": "re-（再び）＋ wire（針金・配線する）から成り、「もう一度配線する」が原義です。wire は古英語 wīr（金属の線）に由来し、電気が普及して「配線する」の動詞用法が生まれました。",
+    "etym_chain": [
+      { "node": "wīr", "sub": "金属の線", "era": "古英語" },
+      { "node": "wire", "sub": "配線する", "era": "近代英語" },
+      { "node": "rewire", "sub": "配線をやり直す・つなぎ変える", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rewire the house", "ja": "家の配線をやり直す" },
+      { "en": "rewire the system", "ja": "電気系統を引き直す" },
+      { "en": "rewire the brain", "ja": "脳をつなぎ変える" },
+      { "en": "rewire your thinking", "ja": "考え方を作り変える" },
+      { "en": "completely rewire", "ja": "すっかり配線し直す" },
+      { "en": "rewire old habits", "ja": "古い習慣を作り変える" }
+    ],
+    "related": [
+      { "en": "wire", "ja": "配線する" },
+      { "en": "reconfigure", "ja": "構成し直す" },
+      { "en": "reprogram", "ja": "プログラムし直す" },
+      { "en": "rework", "ja": "作り直す" }
+    ],
+    "faq": [
+      { "q": "rewire とはどんな意味？", "a": "建物や機器の『配線をやり直す・電気系統を引き直す』という動詞です。比喩的に脳や習慣を『つなぎ変える・作り変える』意味でも使います。" },
+      { "q": "rewire the brain とは？", "a": "脳の神経のつながり（回路）を作り変えること、転じて『考え方や習慣を変える』ことを表す表現です。" }
+    ],
+    "quiz": [
+      { "q": "They had to ___ the old house for safety.（配線をやり直す）", "A": "rewire", "B": "rewind の巻き戻す", "C": "reward の報いる", "D": "review の見直す", "correct": "A" },
+      { "q": "rewire the brain の意味はどれ？", "A": "脳の回路を作り変える", "B": "脳を休ませる", "C": "脳を検査する", "D": "脳を冷やす", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ringtone",
+    "pron": "ˈrɪŋtoʊn",
+    "kana": "リングトーン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ring（鳴る）＋ tone（音）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "日常・IT"],
+    "meaning_main": "（携帯電話の）着信音・着メロ",
+    "description": "ringtone の意味・発音・例文・語源を解説。電話がかかってきたときに鳴る「着信音・着メロ」を指す身近な語の使い方を分かりやすく紹介します。",
+    "keywords": ["ringtone 意味", "ringtone 発音", "ringtone 着信音", "ringtone 着メロ"],
+    "meanings": [
+      { "hinshi": "【名詞】（携帯電話の）着信音・着メロ", "note": "電話の着信を知らせる音やメロディー。set a ringtone（着信音を設定する）。" }
+    ],
+    "usages": [
+      { "title": "① 「着信音」として", "desc": "電話の着信を知らせる音を指します。", "example_en": "Her phone played a cheerful ringtone.", "example_ja": "彼女の電話は明るい着信音を鳴らした。" },
+      { "title": "② 設定について", "desc": "好きな音に変える文脈で使います。", "example_en": "I set my favorite song as my ringtone.", "example_ja": "私は好きな曲を着信音に設定した。" }
+    ],
+    "warn": [
+      "ringtone は『（携帯の）着信音・着メロ』。動詞 ring（鳴る）＋ tone（音）の複合語。",
+      "マナーモードの『振動』は vibration、無音は silent mode。"
+    ],
+    "etym_note": "ring（鈴・電話が鳴る）＋ tone（音・音色）の複合語で、「電話が鳴る音」を表します。携帯電話の普及とともに広まった現代的な語です。",
+    "etym_chain": [
+      { "node": "hringan", "sub": "鳴る・鳴らす", "era": "古英語" },
+      { "node": "ring + tone", "sub": "鳴る＋音", "era": "現代英語" },
+      { "node": "ringtone", "sub": "着信音", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "set a ringtone", "ja": "着信音を設定する" },
+      { "en": "change the ringtone", "ja": "着信音を変える" },
+      { "en": "a custom ringtone", "ja": "オリジナルの着信音" },
+      { "en": "a loud ringtone", "ja": "大きな着信音" },
+      { "en": "download a ringtone", "ja": "着メロをダウンロードする" },
+      { "en": "an annoying ringtone", "ja": "うるさい着信音" }
+    ],
+    "related": [
+      { "en": "ring", "ja": "鳴る・鳴らす" },
+      { "en": "alert", "ja": "通知音" },
+      { "en": "notification", "ja": "通知" },
+      { "en": "alarm", "ja": "アラーム音" }
+    ],
+    "faq": [
+      { "q": "ringtone とはどんな意味？", "a": "携帯電話に電話がかかってきたときに鳴る『着信音・着メロ』のことです。set a ringtone（着信音を設定する）のように使います。" },
+      { "q": "ringtone と notification の違いは？", "a": "ringtone は『電話の着信音』、notification（sound）はメールやアプリの『通知音』を指します。" }
+    ],
+    "quiz": [
+      { "q": "Her phone played a cheerful ___.（着信音）", "A": "ringtone", "B": "ringlet の巻き毛", "C": "rainfall の降雨", "D": "railway の鉄道", "correct": "A" },
+      { "q": "ringtone を構成する語はどれ？", "A": "ring（鳴る）＋ tone（音）", "B": "ring（輪）＋ stone（石）", "C": "rain（雨）＋ tone（音）", "D": "king（王）＋ tone（音）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rappel",
+    "pron": "ræˈpel",
+    "kana": "ラペル",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "フランス語 rappeler（呼び戻す・引く）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "アウトドア"],
+    "meaning_main": "（ロープで）懸垂下降する・ザイルで降りる／懸垂下降",
+    "description": "rappel の意味・発音・例文・語源を解説。崖や壁をロープを使って降りる「懸垂下降（ラペル）」を指す登山・救助用語の使い方を紹介します。",
+    "keywords": ["rappel 意味", "rappel 発音", "rappel 懸垂下降", "rappel ザイル"],
+    "meanings": [
+      { "hinshi": "【動詞】（ロープで）懸垂下降する・ザイルで降りる", "note": "崖や壁をロープで体を支えながら降りる技術。イギリスでは abseil ともいう。" },
+      { "hinshi": "【名詞】懸垂下降", "note": "make a rappel（懸垂下降する）。" }
+    ],
+    "usages": [
+      { "title": "① 「ロープで降りる」として", "desc": "崖や壁をロープで降りる意味です。", "example_en": "The climbers rappelled down the cliff.", "example_ja": "クライマーたちは崖をロープで降りた。" },
+      { "title": "② 救助・軍事の文脈で", "desc": "ヘリや高所からロープで降下する場面で使います。", "example_en": "Soldiers rappelled from the helicopter.", "example_ja": "兵士たちはヘリからロープで降下した。" }
+    ],
+    "warn": [
+      "rappel は『ロープを使った懸垂下降』。アメリカ英語で、イギリスでは abseil という。",
+      "発音は『ラペル（ræˈpel）』で後ろにアクセント。"
+    ],
+    "etym_note": "フランス語 rappeler（re-「再び」＋ appeler「呼ぶ・引く」＝呼び戻す・引く）に由来します。ロープを引きながら降りる動作を指す登山用語として英語に取り入れられました。",
+    "etym_chain": [
+      { "node": "appeler", "sub": "呼ぶ・引く", "era": "フランス語" },
+      { "node": "rappeler", "sub": "呼び戻す・引く", "era": "フランス語" },
+      { "node": "rappel", "sub": "懸垂下降する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rappel down the cliff", "ja": "崖をロープで降りる" },
+      { "en": "rappel from a helicopter", "ja": "ヘリからロープで降下する" },
+      { "en": "rappel down a wall", "ja": "壁を懸垂下降する" },
+      { "en": "make a rappel", "ja": "懸垂下降する" },
+      { "en": "a rappel rope", "ja": "懸垂下降用ロープ" },
+      { "en": "learn to rappel", "ja": "懸垂下降を習う" }
+    ],
+    "related": [
+      { "en": "abseil", "ja": "懸垂下降する（英）" },
+      { "en": "descend", "ja": "降りる" },
+      { "en": "climb", "ja": "登る" },
+      { "en": "harness", "ja": "（安全）ハーネス" }
+    ],
+    "faq": [
+      { "q": "rappel とはどんな意味？", "a": "崖や壁をロープで体を支えながら降りる『懸垂下降』のことです。登山・救助・軍事で使われ、イギリスでは abseil ともいいます。" },
+      { "q": "rappel と abseil の違いは？", "a": "意味は同じ『ロープで懸垂下降する』です。rappel はアメリカ英語（フランス語由来）、abseil はイギリス英語（ドイツ語由来）です。" }
+    ],
+    "quiz": [
+      { "q": "The climbers ___ed down the cliff.（ロープで降りた）", "A": "rappel", "B": "repel の追い払う", "C": "recall の思い出す", "D": "reveal の明かす", "correct": "A" },
+      { "q": "rappel とほぼ同じ意味なのは？", "A": "abseil（懸垂下降する）", "B": "ascend（登る）", "C": "swim（泳ぐ）", "D": "jump（跳ぶ）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ravish",
+    "pron": "ˈrævɪʃ",
+    "kana": "ラヴィッシュ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古フランス語 ravir（奪う・うっとりさせる）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "文学的"],
+    "meaning_main": "（美しさで）うっとりさせる・魅了する／（古）略奪する",
+    "description": "ravish の意味・発音・例文・語源を解説。美しさや音楽が人を「うっとりさせる・魅了する」という文学的な語の使い方を分かりやすく紹介します。",
+    "keywords": ["ravish 意味", "ravish 発音", "ravish 魅了する", "ravishing 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（美しさで）うっとりさせる・魅了する", "note": "強い喜びで心を奪う。受け身や形容詞 ravishing でよく使う。" },
+      { "hinshi": "【動詞】（古・文語）略奪する・連れ去る", "note": "古い文章で『奪い去る』の意味。現代では魅了の意味が中心。" }
+    ],
+    "usages": [
+      { "title": "① 「うっとりさせる・魅了する」として", "desc": "美しさや音楽が心を奪うようすです。", "example_en": "The audience was ravished by the music.", "example_ja": "聴衆はその音楽にうっとりと魅了された。" },
+      { "title": "② 形容詞 ravishing として", "desc": "「目を奪うほど美しい」を表します。", "example_en": "She looked ravishing in her gown.", "example_ja": "彼女はドレス姿でほれぼれするほど美しかった。" }
+    ],
+    "warn": [
+      "ravish は現代では主に『（美しさで）うっとりさせる』。be ravished by や形容詞 ravishing（目を奪うほど美しい）が中心。",
+      "古い文語では『略奪する・乱暴する』の意味もあったが、現代の一般的な用法ではない。"
+    ],
+    "etym_note": "古フランス語 ravir（ラテン語 rapere「つかみ取る・奪う」より）に由来します。「心を奪う＝うっとりさせる」と意味が発展しました。rapture（うっとり）や rapid（速い）と同じ語根です。",
+    "etym_chain": [
+      { "node": "rapere", "sub": "つかみ取る・奪う", "era": "ラテン語" },
+      { "node": "ravir", "sub": "奪う・うっとりさせる", "era": "古フランス語" },
+      { "node": "ravish", "sub": "魅了する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be ravished by", "ja": "〜にうっとりさせられる" },
+      { "en": "ravishing beauty", "ja": "目を奪う美しさ" },
+      { "en": "look ravishing", "ja": "ほれぼれするほど美しく見える" },
+      { "en": "ravished with delight", "ja": "喜びでうっとりして" },
+      { "en": "a ravishing smile", "ja": "魅惑的なほほえみ" },
+      { "en": "ravish the senses", "ja": "五感を魅了する" }
+    ],
+    "related": [
+      { "en": "enchant", "ja": "魅了する" },
+      { "en": "captivate", "ja": "心を奪う" },
+      { "en": "enthrall", "ja": "うっとりさせる" },
+      { "en": "ravishing", "ja": "目を奪うほど美しい" }
+    ],
+    "faq": [
+      { "q": "ravish とはどんな意味？", "a": "現代では主に『（美しさや音楽が）人をうっとりさせる・魅了する』という意味です。形容詞 ravishing（目を奪うほど美しい）の形でよく使われます。" },
+      { "q": "ravishing と ravenous の違いは？", "a": "ravishing は『目を奪うほど美しい』、ravenous は『がつがつ飢えた』です。つづりは似ていますが意味は別なので注意しましょう。" }
+    ],
+    "quiz": [
+      { "q": "She looked ___ in her gown.（ほれぼれするほど美しい）", "A": "ravishing", "B": "ravenous の飢えた", "C": "ravaging の破壊する", "D": "raving のわめく", "correct": "A" },
+      { "q": "ravish に近い意味はどれ？", "A": "captivate（心を奪う）", "B": "bore（退屈させる）", "C": "annoy（いらだたせる）", "D": "ignore（無視する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rakish",
+    "pron": "ˈreɪkɪʃ",
+    "kana": "レイキッシュ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "rake（放蕩者）＋ -ish",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "描写"],
+    "meaning_main": "（身なりが）いきな・しゃれた・伊達な／（傾けて）粋に見える",
+    "description": "rakish の意味・発音・例文・語源を解説。帽子や身なりが「いきで伊達な・しゃれた」、ものを傾けて「粋に見える」という描写語の使い方を紹介します。",
+    "keywords": ["rakish 意味", "rakish 発音", "rakish いきな", "rakish 伊達"],
+    "meanings": [
+      { "hinshi": "【形容詞】（身なりが）いきな・しゃれた・伊達な", "note": "あか抜けて自信ありげなおしゃれさ。a rakish hat（いきに傾けた帽子）。" },
+      { "hinshi": "【形容詞】（角度が）粋に傾いた", "note": "帽子などを斜めにかぶった洒落た見た目。at a rakish angle（いきな角度で）。" }
+    ],
+    "usages": [
+      { "title": "① 「いきな・伊達な」として", "desc": "あか抜けて自信ありげなおしゃれを表します。", "example_en": "He wore his hat at a rakish angle.", "example_ja": "彼は帽子を粋に斜めにかぶっていた。" },
+      { "title": "② 人物の雰囲気について", "desc": "洒落て少し遊び人風の魅力を表します。", "example_en": "The actor had a rakish charm.", "example_ja": "その俳優にはいきで遊び人風の魅力があった。" }
+    ],
+    "warn": [
+      "rakish は『いきで伊達な・粋に傾いた』。多くは魅力的なほめ言葉だが、やや遊び人風の含みも。",
+      "at a rakish angle（粋な角度で）は帽子などの定番表現。"
+    ],
+    "etym_note": "rake（道楽者・放蕩者）に -ish（〜風の）が付いた語です。もとは「遊び人のような」を表し、そこから「あか抜けて伊達な・粋な」という魅力的な意味に広がりました。",
+    "etym_chain": [
+      { "node": "rakehell", "sub": "放蕩者", "era": "近代英語" },
+      { "node": "rake", "sub": "道楽者", "era": "近代英語" },
+      { "node": "rakish", "sub": "いきな・伊達な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "at a rakish angle", "ja": "いきな角度で" },
+      { "en": "a rakish hat", "ja": "粋に傾けた帽子" },
+      { "en": "a rakish grin", "ja": "伊達なにやり笑い" },
+      { "en": "rakish charm", "ja": "遊び人風の魅力" },
+      { "en": "look rakish", "ja": "いきに見える" },
+      { "en": "a rakish air", "ja": "あか抜けた雰囲気" }
+    ],
+    "related": [
+      { "en": "dashing", "ja": "さっそうとした" },
+      { "en": "jaunty", "ja": "陽気で粋な" },
+      { "en": "debonair", "ja": "都会的で洗練された" },
+      { "en": "stylish", "ja": "しゃれた" }
+    ],
+    "faq": [
+      { "q": "rakish とはどんな意味？", "a": "身なりや雰囲気が『いきで伊達な・しゃれた』、また帽子などを『粋に斜めに傾けた』ようすを表す形容詞です。at a rakish angle（いきな角度で）が定番です。" },
+      { "q": "rakish はほめ言葉ですか？", "a": "多くは『あか抜けて魅力的』というほめ言葉ですが、語源の rake（道楽者）から、やや遊び人風の含みを帯びることもあります。" }
+    ],
+    "quiz": [
+      { "q": "He wore his hat at a ___ angle.（いきな）", "A": "rakish", "B": "rashish", "C": "rusty のさびた", "D": "rocky の岩だらけの", "correct": "A" },
+      { "q": "rakish に近い意味はどれ？", "A": "dashing（さっそうとした）", "B": "clumsy（不器用な）", "C": "shabby（みすぼらしい）", "D": "dull（さえない）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reckoning",
+    "pron": "ˈrekənɪŋ",
+    "kana": "レコニング",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "reckon（数える・みなす）＋ -ing",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "文学的"],
+    "meaning_main": "計算・勘定／（行いの）清算・報い・最終的な決着",
+    "description": "reckoning の意味・発音・例文・語源を解説。「計算・勘定」と、過去の行いの「清算・報い・最後の審判」というやや重い意味の使い方を紹介します。",
+    "keywords": ["reckoning 意味", "reckoning 発音", "reckoning 清算", "reckoning 報い"],
+    "meanings": [
+      { "hinshi": "【名詞】計算・勘定・見積もり", "note": "数えて求めること。by my reckoning（私の計算では）。" },
+      { "hinshi": "【名詞】（行いの）清算・報い・決着のとき", "note": "過去の行いに対する罰や精算。a day of reckoning（清算の日・報いのとき）。" }
+    ],
+    "usages": [
+      { "title": "① 「計算・見積もり」として", "desc": "数えて求めることを表します。", "example_en": "By my reckoning, we have enough food for a week.", "example_ja": "私の計算では、1週間分の食料がある。" },
+      { "title": "② 「清算・報い」として", "desc": "過去の行いの精算や報いを表します。", "example_en": "Sooner or later, there will be a reckoning.", "example_ja": "遅かれ早かれ、報いを受けるときが来る。" }
+    ],
+    "warn": [
+      "reckoning は『計算』のほか、『（行いの）清算・報い』という重い意味が頻出。",
+      "a day of reckoning（清算の日・最後の審判・報いのとき）は定番の決まり文句。"
+    ],
+    "etym_note": "動詞 reckon（数える・みなす）に -ing が付いた名詞です。reckon は古英語 gerecenian（数え上げる・説明する）に由来し、「数えて精算する」から「行いの清算・報い」の意味に広がりました。",
+    "etym_chain": [
+      { "node": "gerecenian", "sub": "数え上げる", "era": "古英語" },
+      { "node": "reckon", "sub": "数える・みなす", "era": "中英語" },
+      { "node": "reckoning", "sub": "計算・清算・報い", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a day of reckoning", "ja": "清算の日・報いのとき" },
+      { "en": "by my reckoning", "ja": "私の計算では" },
+      { "en": "face a reckoning", "ja": "報いに直面する" },
+      { "en": "a final reckoning", "ja": "最終的な決着" },
+      { "en": "the reckoning is coming", "ja": "清算のときが来る" },
+      { "en": "dead reckoning", "ja": "（航海の）推測航法" }
+    ],
+    "related": [
+      { "en": "reckon", "ja": "数える・みなす" },
+      { "en": "calculation", "ja": "計算" },
+      { "en": "settlement", "ja": "清算・決着" },
+      { "en": "retribution", "ja": "報い・天罰" }
+    ],
+    "faq": [
+      { "q": "reckoning とはどんな意味？", "a": "『計算・勘定・見積もり』という意味と、過去の行いに対する『清算・報い・決着のとき』という重い意味があります。a day of reckoning（報いのとき）が有名です。" },
+      { "q": "a day of reckoning とは？", "a": "『これまでの行いの報いを受ける日・最終的に清算がなされるとき』を表す決まり文句です。" }
+    ],
+    "quiz": [
+      { "q": "Sooner or later, there will be a ___.（報い）", "A": "reckoning", "B": "reckless の無謀な", "C": "recording の録音", "D": "reckon の動詞", "correct": "A" },
+      { "q": "a day of reckoning の意味はどれ？", "A": "清算の日・報いのとき", "B": "休息の日", "C": "祝いの日", "D": "出発の日", "correct": "A" }
+    ]
+  }
+]

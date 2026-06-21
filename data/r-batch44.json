@@ -1,0 +1,54 @@
+[
+  {
+    "english": "ruckus",
+    "pron": "ˈrʌkəs",
+    "kana": "ラッカス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ruction（騒動）＋ rumpus の混成とされる",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "口語"],
+    "meaning_main": "大騒ぎ・騒動・もめごと",
+    "description": "ruckus の意味・発音・例文・語源を解説。口語的な「大騒ぎ・もめごと」の使い方や、cause a ruckus（騒ぎを起こす）も分かりやすく紹介します。",
+    "keywords": ["ruckus 意味", "ruckus 発音", "cause a ruckus 意味", "ruckus 騒動"],
+    "meanings": [
+      { "hinshi": "【名詞】大騒ぎ・騒動・もめごと", "note": "口語的。やかましい騒ぎや言い争い。cause a ruckus（騒ぎを起こす）。" }
+    ],
+    "usages": [
+      { "title": "① 「大騒ぎ・騒動」として", "desc": "やかましい騒ぎを表す口語です。", "example_en": "The kids made a real ruckus next door.", "example_ja": "子どもたちは隣で大騒ぎをした。" },
+      { "title": "② 「もめごと・抗議の騒ぎ」として", "desc": "言い争いや抗議の騒ぎを表します。", "example_en": "The decision caused quite a ruckus.", "example_ja": "その決定はかなりのもめごとを引き起こした。" }
+    ],
+    "warn": [
+      "ruckus はくだけた口語。cause / kick up / raise a ruckus（騒ぎを起こす）の形で使う。",
+      "fuss（騒ぎ）・commotion（騒動）に近い。"
+    ],
+    "etym_note": "19世紀アメリカの口語で、ruction（騒動）と rumpus（大騒ぎ）が混ざってできたとされる語です。「やかましい騒ぎ」を表します。",
+    "etym_chain": [
+      { "node": "ruction / rumpus", "sub": "騒動・大騒ぎ", "era": "19世紀" },
+      { "node": "ruckus", "sub": "大騒ぎ", "era": "アメリカ口語" },
+      { "node": "ruckus", "sub": "大騒ぎ・騒動", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "cause a ruckus", "ja": "騒ぎを起こす" },
+      { "en": "kick up a ruckus", "ja": "騒ぎ立てる" },
+      { "en": "raise a ruckus", "ja": "大騒ぎする" },
+      { "en": "make a ruckus", "ja": "騒ぐ" },
+      { "en": "quite a ruckus", "ja": "かなりの騒動" },
+      { "en": "a ruckus broke out", "ja": "騒ぎが起きた" }
+    ],
+    "related": [
+      { "en": "commotion", "ja": "騒動" },
+      { "en": "fuss", "ja": "大騒ぎ" },
+      { "en": "uproar", "ja": "騒ぎ・どよめき" },
+      { "en": "disturbance", "ja": "騒乱" }
+    ],
+    "faq": [
+      { "q": "ruckus とはどんな語？", "a": "『大騒ぎ・騒動・もめごと』を表すくだけた口語です。cause a ruckus（騒ぎを起こす）のように使います。" },
+      { "q": "ruckus と commotion の違いは？", "a": "意味は近く、どちらも『騒動』です。ruckus はよりくだけた口語的な語です。" }
+    ],
+    "quiz": [
+      { "q": "The kids made a real ___ next door.（大騒ぎ）", "A": "ruckus", "B": "ruckus の誤り rukus", "C": "ribbon", "D": "ripple", "correct": "A" },
+      { "q": "「騒ぎを起こす」を表すのはどれ？", "A": "cause a ruckus", "B": "cause a ribbon", "C": "cause a ripple のさざ波", "D": "cause a riddle", "correct": "A" }
+    ]
+  }
+]

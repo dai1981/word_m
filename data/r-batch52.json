@@ -1,0 +1,528 @@
+[
+  {
+    "english": "ramification",
+    "pron": "ˌræmɪfɪˈkeɪʃən",
+    "kana": "ラミフィケイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 ramus（枝）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "名詞"],
+    "meaning_main": "（複雑に派生する）結果・影響・波及／枝分かれ",
+    "description": "ramification の意味・発音・例文・語源を解説。ある決定が「複雑に派生して及ぼす結果・影響」という使い方を分かりやすく紹介します。",
+    "keywords": ["ramification 意味", "ramification 発音", "ramifications 影響", "ramification 波及"],
+    "meanings": [
+      { "hinshi": "【名詞】（複雑に派生する）結果・影響・波及", "note": "ふつう複数形 ramifications。far-reaching ramifications（広範な影響）。" },
+      { "hinshi": "【名詞】枝分かれ・分岐", "note": "もとは『枝が分かれること』。" }
+    ],
+    "usages": [
+      { "title": "① 「（複雑な）結果・影響」として", "desc": "ある行為が複雑に及ぼす影響を表します。", "example_en": "The decision had serious legal ramifications.", "example_ja": "その決定は深刻な法的影響をもたらした。" },
+      { "title": "② 波及として", "desc": "次々に派生する結果を表します。", "example_en": "We must consider all the ramifications.", "example_ja": "私たちはあらゆる波及を考慮しなければならない。" }
+    ],
+    "warn": [
+      "ふつう複数形 ramifications で『（複雑に派生する）結果・影響』。consequence に近いが『枝分かれするように広がる』ニュアンス。",
+      "ram-（枝）は ramble とは別系統。"
+    ],
+    "etym_note": "ラテン語 ramus（枝）から派生した ramificare（枝分かれする）に由来します。「枝が分かれるように複雑に広がる結果」が原義です。",
+    "etym_chain": [
+      { "node": "ramus", "sub": "枝", "era": "ラテン語" },
+      { "node": "ramificare", "sub": "枝分かれする", "era": "後期ラテン語" },
+      { "node": "ramification", "sub": "派生する影響・枝分かれ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "serious ramifications", "ja": "深刻な影響" },
+      { "en": "far-reaching ramifications", "ja": "広範な波及" },
+      { "en": "legal ramifications", "ja": "法的影響" },
+      { "en": "consider the ramifications", "ja": "波及を考慮する" },
+      { "en": "wider ramifications", "ja": "より広い影響" },
+      { "en": "the ramifications of", "ja": "〜の派生的影響" }
+    ],
+    "related": [
+      { "en": "consequence", "ja": "結果・影響" },
+      { "en": "implication", "ja": "影響・含み" },
+      { "en": "repercussion", "ja": "余波" },
+      { "en": "effect", "ja": "影響" }
+    ],
+    "faq": [
+      { "q": "ramification とはどんな意味？", "a": "ある決定や出来事が『（枝分かれするように複雑に）及ぼす結果・影響・波及』のことです。ふつう複数形 ramifications で使います。" },
+      { "q": "ramification の語源は？", "a": "ラテン語 ramus（枝）に由来します。『枝が分かれるように複雑に広がる影響』が原義です。" }
+    ],
+    "quiz": [
+      { "q": "The decision had serious legal ___.（影響）", "A": "ramifications", "B": "reservations の予約", "C": "recommendations", "D": "reputations", "correct": "A" },
+      { "q": "ramification の語源（ラテン語 ramus）の意味は？", "A": "枝", "B": "根", "C": "葉", "D": "花", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rave",
+    "pron": "reɪv",
+    "kana": "レイブ",
+    "hinshi": "動詞 / 形容詞 / 名詞",
+    "ld_pos": "動詞・形容詞・名詞",
+    "ld_etym": "古フランス語 raver（うわごとを言う）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "多義語"],
+    "meaning_main": "（〜を）絶賛する・熱く語る／（形容詞）絶賛の／（名詞）熱狂・レイブ",
+    "description": "rave の意味・発音・例文・語源を解説。rave about（〜を絶賛する）や rave reviews（絶賛の評）の使い方を分かりやすく紹介します。",
+    "keywords": ["rave 意味", "rave 発音", "rave about 使い方", "rave reviews 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（〜を）絶賛する・熱く語る", "note": "rave about（〜を絶賛する）。" },
+      { "hinshi": "【形容詞】絶賛の", "note": "rave reviews（絶賛の評）。" },
+      { "hinshi": "【名詞・動詞】わめく・熱狂／（音楽の）レイブ", "note": "rave and rant（わめき立てる）。" }
+    ],
+    "usages": [
+      { "title": "① 「絶賛する・熱く語る」として", "desc": "rave about〜で「〜を絶賛する」を表します。", "example_en": "Critics raved about the new movie.", "example_ja": "批評家たちはその新作映画を絶賛した。" },
+      { "title": "② rave reviews として", "desc": "「絶賛の評」を表します。", "example_en": "The play received rave reviews.", "example_ja": "その劇は絶賛の評を受けた。" }
+    ],
+    "warn": [
+      "rave about / over は『〜を絶賛する』。rave reviews は『絶賛の批評』。",
+      "もとは『うわごとを言う・わめく』で、rant and rave（わめき散らす）の用法もある。"
+    ],
+    "etym_note": "古フランス語 raver（うわごとを言う・夢を見る）に由来します。reverie（夢想）と関係し、もとは『取り乱して話す』、そこから『熱狂的に絶賛する』になりました。",
+    "etym_chain": [
+      { "node": "raver", "sub": "うわごとを言う", "era": "古フランス語" },
+      { "node": "rave", "sub": "わめく・熱狂する", "era": "中英語" },
+      { "node": "rave", "sub": "絶賛する・熱狂", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rave about", "ja": "〜を絶賛する" },
+      { "en": "rave reviews", "ja": "絶賛の評" },
+      { "en": "rant and rave", "ja": "わめき散らす" },
+      { "en": "rave over", "ja": "〜に熱狂する" },
+      { "en": "a rave review", "ja": "絶賛の批評" },
+      { "en": "an all-night rave", "ja": "オールナイトのレイブ" }
+    ],
+    "related": [
+      { "en": "praise", "ja": "称賛する" },
+      { "en": "gush", "ja": "大げさにほめる" },
+      { "en": "acclaim", "ja": "絶賛" },
+      { "en": "criticize", "ja": "批判する（反対概念）" }
+    ],
+    "faq": [
+      { "q": "rave about とは？", "a": "『〜を絶賛する・熱く語る』という意味です。rave about the food（料理を絶賛する）のように使います。" },
+      { "q": "rave reviews とは？", "a": "『絶賛の批評・好評』という意味です。映画や本などが高く評価されたときに使います。" }
+    ],
+    "quiz": [
+      { "q": "Critics ___ about the new movie.（絶賛した）", "A": "raved", "B": "reduced", "C": "removed", "D": "refused", "correct": "A" },
+      { "q": "「絶賛の評」を表すのはどれ？", "A": "rave reviews", "B": "rage reviews", "C": "race reviews", "D": "rate reviews の別意", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ravine",
+    "pron": "rəˈviːn",
+    "kana": "ラビーン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 ravine（急流・峡谷）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "地理"],
+    "meaning_main": "峡谷・深い谷・渓谷",
+    "description": "ravine の意味・発音・例文・語源を解説。川が削ってできた「（深く細い）峡谷・渓谷」という地形の使い方を分かりやすく紹介します。",
+    "keywords": ["ravine 意味", "ravine 発音", "ravine 峡谷", "ravine valley 違い"],
+    "meanings": [
+      { "hinshi": "【名詞】峡谷・深い谷・渓谷", "note": "川や水の流れが削ってできた深く細い谷。a deep ravine（深い峡谷）。" }
+    ],
+    "usages": [
+      { "title": "① 「峡谷・深い谷」として", "desc": "深く細い谷の地形を表します。", "example_en": "The river cut a deep ravine through the rock.", "example_ja": "川は岩を削って深い峡谷を作った。" },
+      { "title": "② 地形の話題で", "desc": "登山や旅行の文脈で使います。", "example_en": "They climbed down into the ravine.", "example_ja": "彼らは峡谷へと下りていった。" }
+    ],
+    "warn": [
+      "ravine は valley（谷）より『（急で深く細い）峡谷』。発音は /rəˈviːn/「ラビーン」で後ろにアクセント。",
+      "raven（カラス）/ ravine（峡谷）/ ravenous（空腹の）は別語。"
+    ],
+    "etym_note": "フランス語 ravine（急流・水が削った谷。ラテン語 rapina「奪うこと・激流」から）に由来します。「激流が削ってできた深い谷」が原義です。",
+    "etym_chain": [
+      { "node": "rapina", "sub": "激流・奪うこと", "era": "ラテン語" },
+      { "node": "ravine", "sub": "急流・峡谷", "era": "フランス語" },
+      { "node": "ravine", "sub": "峡谷・渓谷", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a deep ravine", "ja": "深い峡谷" },
+      { "en": "a narrow ravine", "ja": "細い渓谷" },
+      { "en": "down into the ravine", "ja": "峡谷へ下って" },
+      { "en": "at the bottom of the ravine", "ja": "峡谷の底に" },
+      { "en": "a rocky ravine", "ja": "岩だらけの峡谷" },
+      { "en": "cross the ravine", "ja": "峡谷を渡る" }
+    ],
+    "related": [
+      { "en": "valley", "ja": "谷" },
+      { "en": "gorge", "ja": "渓谷" },
+      { "en": "canyon", "ja": "（大）峡谷" },
+      { "en": "gully", "ja": "（雨で削れた）小峡谷" }
+    ],
+    "faq": [
+      { "q": "ravine と valley の違いは？", "a": "valley は広い『谷』全般、ravine は水流が削ってできた『（急で深く細い）峡谷・渓谷』を指します。" },
+      { "q": "ravine と canyon の違いは？", "a": "canyon は『（非常に大きく深い）峡谷』（グランドキャニオンなど）、ravine はそれより小さめの『深い谷』です。" }
+    ],
+    "quiz": [
+      { "q": "The river cut a deep ___ through the rock.（峡谷）", "A": "ravine", "B": "raven のカラス", "C": "ravenous の空腹の", "D": "ribbon", "correct": "A" },
+      { "q": "ravine と意味が近いのはどれ？", "A": "gorge（渓谷）", "B": "hill（丘）", "C": "plain（平原）", "D": "peak（頂上）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recalcitrant",
+    "pron": "rɪˈkælsɪtrənt",
+    "kana": "リカルシトラント",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 recalcitrare（かかとで蹴る・反抗する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "形容詞"],
+    "meaning_main": "反抗的な・言うことを聞かない・強情な",
+    "description": "recalcitrant の意味・発音・例文・語源を解説。権威に「強情に反抗して言うことを聞かない」様子の使い方を分かりやすく紹介します。",
+    "keywords": ["recalcitrant 意味", "recalcitrant 発音", "recalcitrant 反抗的", "recalcitrant 強情"],
+    "meanings": [
+      { "hinshi": "【形容詞】反抗的な・言うことを聞かない・強情な", "note": "権威・規則に従わない。a recalcitrant student（手に負えない生徒）。" }
+    ],
+    "usages": [
+      { "title": "① 「反抗的な・言うことを聞かない」として", "desc": "権威に強情に逆らう様子を表します。", "example_en": "The teacher dealt with a recalcitrant pupil.", "example_ja": "先生は反抗的な生徒に対応した。" },
+      { "title": "② 物・組織について", "desc": "扱いにくい様子も表します。", "example_en": "The government remained recalcitrant on the issue.", "example_ja": "政府はその問題で頑として譲らなかった。" }
+    ],
+    "warn": [
+      "recalcitrant は『（権威・規則に）強情に反抗する』という強くかたい語。語源は『かかと（calx）で蹴る』。",
+      "obedient（従順な）の反対。"
+    ],
+    "etym_note": "ラテン語 recalcitrare（re-「逆に」＋ calcitrare「かかとで蹴る」。calx「かかと」から）に由来します。「（馬がかかとで）蹴って反抗する」が原義です。",
+    "etym_chain": [
+      { "node": "calx", "sub": "かかと", "era": "ラテン語" },
+      { "node": "recalcitrare", "sub": "かかとで蹴る・反抗する", "era": "ラテン語" },
+      { "node": "recalcitrant", "sub": "反抗的な・強情な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a recalcitrant child", "ja": "言うことを聞かない子" },
+      { "en": "a recalcitrant attitude", "ja": "反抗的な態度" },
+      { "en": "remain recalcitrant", "ja": "頑として譲らない" },
+      { "en": "recalcitrant employees", "ja": "扱いにくい従業員" },
+      { "en": "a recalcitrant member", "ja": "言うことを聞かない一員" },
+      { "en": "prove recalcitrant", "ja": "手に負えないとわかる" }
+    ],
+    "related": [
+      { "en": "defiant", "ja": "反抗的な" },
+      { "en": "stubborn", "ja": "頑固な" },
+      { "en": "unruly", "ja": "手に負えない" },
+      { "en": "obedient", "ja": "従順な（反対語）" }
+    ],
+    "faq": [
+      { "q": "recalcitrant とはどんな意味？", "a": "『（権威・規則に）強情に反抗して言うことを聞かない』という強い語です。a recalcitrant student（手に負えない生徒）のように使います。" },
+      { "q": "recalcitrant の語源は？", "a": "ラテン語の『かかと（calx）で蹴る』に由来します。馬が蹴って反抗するイメージです。" }
+    ],
+    "quiz": [
+      { "q": "The teacher dealt with a ___ pupil.（反抗的な）", "A": "recalcitrant", "B": "reluctant の気が進まない", "C": "resilient", "D": "respective", "correct": "A" },
+      { "q": "recalcitrant の反対語はどれ？", "A": "obedient（従順な）", "B": "defiant（反抗的な）", "C": "stubborn（頑固な）", "D": "unruly（手に負えない）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reconnoiter",
+    "pron": "ˌriːkəˈnɔɪtər",
+    "kana": "リーコノイター",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "フランス語 reconnoître（それと知る・偵察する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "軍事"],
+    "meaning_main": "偵察する・下見する",
+    "description": "reconnoiter の意味・発音・例文・語源を解説。軍が敵地や地形を「偵察する・下見する」という動詞の使い方を分かりやすく紹介します。",
+    "keywords": ["reconnoiter 意味", "reconnoiter 発音", "reconnaissance 関係", "reconnoiter 偵察"],
+    "meanings": [
+      { "hinshi": "【動詞】偵察する・下見する", "note": "前もって敵地や場所を調べる。reconnoiter the area（地域を偵察する）。" }
+    ],
+    "usages": [
+      { "title": "① 「偵察する・下見する」として", "desc": "前もって場所や敵情を調べる意味です。", "example_en": "Scouts were sent to reconnoiter the enemy position.", "example_ja": "偵察兵が敵の陣地を偵察するため送られた。" },
+      { "title": "② 一般の下見として", "desc": "前もって現地を調べる意味でも使います。", "example_en": "We reconnoitered the route before the hike.", "example_ja": "私たちはハイキングの前にルートを下見した。" }
+    ],
+    "warn": [
+      "名詞は reconnaissance（偵察、既出）。イギリス式つづりは reconnoitre。recognize と同じ語源。",
+      "発音は /ˌriːkəˈnɔɪtər/「リーコノイター」。"
+    ],
+    "etym_note": "フランス語 reconnoître（それと知る・偵察する。ラテン語 recognoscere「再び知る」から）に由来します。recognize・reconnaissance と同じ語源で、「前もって（敵情を）知る＝偵察する」が原義です。",
+    "etym_chain": [
+      { "node": "recognoscere", "sub": "再び知る", "era": "ラテン語" },
+      { "node": "reconnoître", "sub": "それと知る・偵察する", "era": "フランス語" },
+      { "node": "reconnoiter", "sub": "偵察する・下見する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reconnoiter the area", "ja": "地域を偵察する" },
+      { "en": "reconnoiter the enemy position", "ja": "敵陣を偵察する" },
+      { "en": "reconnoiter the route", "ja": "ルートを下見する" },
+      { "en": "send scouts to reconnoiter", "ja": "偵察兵を送る" },
+      { "en": "reconnoiter the terrain", "ja": "地形を偵察する" },
+      { "en": "carefully reconnoiter", "ja": "慎重に偵察する" }
+    ],
+    "related": [
+      { "en": "reconnaissance", "ja": "偵察（名詞）" },
+      { "en": "scout", "ja": "偵察する" },
+      { "en": "survey", "ja": "調査する" },
+      { "en": "explore", "ja": "探索する" }
+    ],
+    "faq": [
+      { "q": "reconnoiter とはどんな意味？", "a": "『（敵地・地形を）偵察する・下見する』という動詞です。名詞形は reconnaissance（偵察）です。" },
+      { "q": "reconnoiter と recognize は関係ある？", "a": "はい。どちらもラテン語の『再び知る』に由来します。reconnoiter は『前もって（敵情を）知る＝偵察する』です。" }
+    ],
+    "quiz": [
+      { "q": "Scouts were sent to ___ the enemy position.（偵察する）", "A": "reconnoiter", "B": "recognize の認識する", "C": "reduce", "D": "remove", "correct": "A" },
+      { "q": "reconnoiter の名詞形はどれ？", "A": "reconnaissance", "B": "reconnoitment", "C": "reconnoitance", "D": "reconnoition", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reprobate",
+    "pron": "ˈreprəbeɪt",
+    "kana": "レプロベイト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 reprobare（不可と認める）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "名詞"],
+    "meaning_main": "ろくでなし・道楽者・身持ちの悪い人（しばしば愛嬌を込めて）",
+    "description": "reprobate の意味・発音・例文・語源を解説。素行の悪い「ろくでなし・道楽者」をしばしばユーモラスに表す語の使い方を紹介します。",
+    "keywords": ["reprobate 意味", "reprobate 発音", "reprobate ろくでなし", "reprobate 道楽者"],
+    "meanings": [
+      { "hinshi": "【名詞】ろくでなし・道楽者・身持ちの悪い人", "note": "素行が悪い人。しばしば愛嬌を込めて使う。an old reprobate（困った老いぼれ）。" }
+    ],
+    "usages": [
+      { "title": "① 「ろくでなし・道楽者」として", "desc": "素行の悪い人をやや諧謔的に表します。", "example_en": "He's a charming old reprobate.", "example_ja": "彼は憎めない困り者の老人だ。" },
+      { "title": "② 非難として", "desc": "身持ちの悪さをとがめる意味でも使います。", "example_en": "The reprobate squandered his fortune.", "example_ja": "その道楽者は財産を浪費した。" }
+    ],
+    "warn": [
+      "reprobate は『ろくでなし・道楽者』。しばしば愛嬌・あきれを込めて使う。形容詞用法もある。",
+      "prove（試す・認める）と同じ prob-（試す・よしとする）の語源。reprobate は『不可とされた者』。"
+    ],
+    "etym_note": "ラテン語 reprobare（re-「逆に」＋ probare「よしとする・試す」＝不可と認める）に由来します。prove・approve と同じ prob-（試す・よしとする）の語根で、「（神に）見放された者＝ろくでなし」が原義です。",
+    "etym_chain": [
+      { "node": "reprobare", "sub": "不可と認める", "era": "ラテン語" },
+      { "node": "reprobate", "sub": "見放された者", "era": "中英語" },
+      { "node": "reprobate", "sub": "ろくでなし・道楽者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an old reprobate", "ja": "困った老いぼれ" },
+      { "en": "a charming reprobate", "ja": "憎めない道楽者" },
+      { "en": "a hopeless reprobate", "ja": "どうしようもないろくでなし" },
+      { "en": "a notorious reprobate", "ja": "札つきの道楽者" },
+      { "en": "that old reprobate", "ja": "あの困り者" },
+      { "en": "a reprobate lifestyle", "ja": "放埒な暮らし" }
+    ],
+    "related": [
+      { "en": "scoundrel", "ja": "悪党" },
+      { "en": "rogue", "ja": "悪党・いたずら者" },
+      { "en": "rascal", "ja": "ならず者・いたずら者" },
+      { "en": "saint", "ja": "聖人（反対概念）" }
+    ],
+    "faq": [
+      { "q": "reprobate とはどんな意味？", "a": "『ろくでなし・道楽者・身持ちの悪い人』のことです。しばしば愛嬌やあきれを込めて『困り者』というニュアンスで使います。" },
+      { "q": "reprobate の語源は？", "a": "ラテン語の『不可と認める・見放す』に由来します。prove（試す）・approve（よしとする）と同じ prob- の語根です。" }
+    ],
+    "quiz": [
+      { "q": "He's a charming old ___.（困り者）", "A": "reprobate", "B": "represent の代表する", "C": "reservation", "D": "reputation", "correct": "A" },
+      { "q": "reprobate と意味が近いのはどれ？", "A": "scoundrel（悪党）", "B": "saint（聖人）", "C": "hero（英雄）", "D": "leader（指導者）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rev",
+    "pron": "rev",
+    "kana": "レブ",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "revolution（回転）の略",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "口語"],
+    "meaning_main": "（エンジンの）回転を上げる・ふかす／（rev up）活気づける",
+    "description": "rev の意味・発音・例文・語源を解説。エンジンを「ふかす・回転を上げる」、rev up（活気づける）という口語の使い方を紹介します。",
+    "keywords": ["rev 意味", "rev 発音", "rev up 意味", "rev エンジン"],
+    "meanings": [
+      { "hinshi": "【動詞】（エンジンの）回転を上げる・ふかす", "note": "rev the engine（エンジンをふかす）。" },
+      { "hinshi": "【動詞】(rev up) 活気づける・勢いづける", "note": "rev up the crowd（観客を盛り上げる）。" },
+      { "hinshi": "【名詞】（エンジンの）回転数", "note": "revs（回転数、rpm）。" }
+    ],
+    "usages": [
+      { "title": "① 「エンジンをふかす」として", "desc": "回転を上げて勢いよくする意味です。", "example_en": "He revved the engine at the traffic light.", "example_ja": "彼は信号待ちでエンジンをふかした。" },
+      { "title": "② rev up として", "desc": "「活気づける・勢いづける」を表します。", "example_en": "The music revved up the crowd.", "example_ja": "その音楽は観客を盛り上げた。" }
+    ],
+    "warn": [
+      "rev は revolution（回転）の略。活用は語尾の v を重ねる：rev – revved – revving。",
+      "rev up は『活気づける・準備して勢いづける』という口語表現。"
+    ],
+    "etym_note": "revolution（回転）の略語で、20世紀に自動車のエンジン回転を表す語として広まりました。",
+    "etym_chain": [
+      { "node": "revolution", "sub": "回転", "era": "ラテン語系" },
+      { "node": "rev", "sub": "回転（略）", "era": "20世紀" },
+      { "node": "rev", "sub": "回転を上げる・ふかす", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rev the engine", "ja": "エンジンをふかす" },
+      { "en": "rev up", "ja": "活気づける・勢いづける" },
+      { "en": "rev up the crowd", "ja": "観客を盛り上げる" },
+      { "en": "high revs", "ja": "高回転" },
+      { "en": "rev the motor", "ja": "モーターを回す" },
+      { "en": "rev up the economy", "ja": "経済を活気づける" }
+    ],
+    "related": [
+      { "en": "revolution", "ja": "回転" },
+      { "en": "accelerate", "ja": "加速する" },
+      { "en": "boost", "ja": "高める" },
+      { "en": "energize", "ja": "活気づける" }
+    ],
+    "faq": [
+      { "q": "rev up とは？", "a": "『（エンジンの回転を上げるように）活気づける・勢いづける・準備して盛り上げる』という口語表現です。" },
+      { "q": "rev の活用は？", "a": "rev – revved – revving と、語尾の v を重ねます。" }
+    ],
+    "quiz": [
+      { "q": "He ___ the engine at the traffic light.（ふかした）", "A": "revved", "B": "reduced", "C": "removed", "D": "refused", "correct": "A" },
+      { "q": "rev は何の略？", "A": "revolution（回転）", "B": "review（批評）", "C": "reverse（逆）", "D": "revenue の誤り", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ribald",
+    "pron": "ˈrɪbəld",
+    "kana": "リバルド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "古フランス語 ribaud（放蕩者）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "形容詞"],
+    "meaning_main": "下品な・きわどい・きわどく面白い（冗談・笑いが）",
+    "description": "ribald の意味・発音・例文・語源を解説。性的にきわどく「下品だが笑える」冗談やユーモアを表す語の使い方を分かりやすく紹介します。",
+    "keywords": ["ribald 意味", "ribald 発音", "ribald humor 意味", "ribald 下品"],
+    "meanings": [
+      { "hinshi": "【形容詞】下品な・きわどい・きわどく面白い", "note": "性的・露骨で品はないが笑いを誘う。ribald humor（きわどいユーモア）。" }
+    ],
+    "usages": [
+      { "title": "① 「きわどい・下品な（笑い）」として", "desc": "露骨だが面白い冗談を表します。", "example_en": "He told ribald jokes that made everyone laugh.", "example_ja": "彼はみんなを笑わせるきわどい冗談を言った。" },
+      { "title": "② ユーモアについて", "desc": "下品だが愉快なユーモアを表します。", "example_en": "The play is full of ribald humor.", "example_ja": "その劇はきわどいユーモアに満ちている。" }
+    ],
+    "warn": [
+      "ribald は『（性的に）きわどく下品だが笑える』ニュアンス。発音は /ˈrɪbəld「リバルド」。",
+      "vulgar（下品な）より『陽気できわどい』ニュアンスがある。"
+    ],
+    "etym_note": "古フランス語 ribaud（放蕩者・無頼漢）に由来します。もとは『身分の低い無頼漢』を指し、そこから『（その者のように）下品できわどい』になりました。",
+    "etym_chain": [
+      { "node": "ribaud", "sub": "放蕩者・無頼漢", "era": "古フランス語" },
+      { "node": "ribald", "sub": "無頼の・下品な", "era": "中英語" },
+      { "node": "ribald", "sub": "下品な・きわどい", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "ribald humor", "ja": "きわどいユーモア" },
+      { "en": "a ribald joke", "ja": "きわどい冗談" },
+      { "en": "ribald laughter", "ja": "下品な笑い" },
+      { "en": "ribald songs", "ja": "きわどい歌" },
+      { "en": "a ribald comedy", "ja": "下品な喜劇" },
+      { "en": "ribald remarks", "ja": "きわどい発言" }
+    ],
+    "related": [
+      { "en": "vulgar", "ja": "下品な" },
+      { "en": "bawdy", "ja": "きわどい・わいせつな" },
+      { "en": "crude", "ja": "下品な" },
+      { "en": "refined", "ja": "上品な（反対語）" }
+    ],
+    "faq": [
+      { "q": "ribald とはどんな意味？", "a": "『（性的に）きわどく下品だが、陽気で笑いを誘う』という意味です。ribald humor（きわどいユーモア）のように使います。" },
+      { "q": "ribald と vulgar の違いは？", "a": "どちらも『下品な』ですが、ribald は『陽気できわどく面白い』ニュアンス、vulgar はより一般的に『無作法・下品』を指します。" }
+    ],
+    "quiz": [
+      { "q": "He told ___ jokes that made everyone laugh.（きわどい）", "A": "ribald", "B": "rigid の硬い", "C": "rural", "D": "rugged", "correct": "A" },
+      { "q": "ribald の反対語はどれ？", "A": "refined（上品な）", "B": "vulgar（下品な）", "C": "crude（下品な）", "D": "bawdy（きわどい）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rivulet",
+    "pron": "ˈrɪvjələt",
+    "kana": "リビュレット",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 rivulus（小川）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "自然"],
+    "meaning_main": "小川・細流・（水などの）細い流れ",
+    "description": "rivulet の意味・発音・例文・語源を解説。とても小さな「小川・細流」や、流れ落ちる「細い水筋」の使い方を分かりやすく紹介します。",
+    "keywords": ["rivulet 意味", "rivulet 発音", "rivulet 小川", "river 関係"],
+    "meanings": [
+      { "hinshi": "【名詞】小川・細流・（水などの）細い流れ", "note": "ごく小さな流れ。a rivulet of water（細い水の流れ）。" }
+    ],
+    "usages": [
+      { "title": "① 「小川・細流」として", "desc": "ごく小さな川の流れを表します。", "example_en": "A little rivulet ran through the meadow.", "example_ja": "小さな小川が牧草地を流れていた。" },
+      { "title": "② 「細い水筋」として", "desc": "流れ落ちる細い水筋を表します。", "example_en": "Rivulets of rain ran down the window.", "example_ja": "雨の細い筋が窓を流れ落ちた。" }
+    ],
+    "warn": [
+      "river（川）＋ -let（小さい）＝『小川』。stream より小さい。",
+      "比喩で『（汗・雨などの）細い筋』にも使う。"
+    ],
+    "etym_note": "ラテン語 rivulus（rivus「小川」の指小形＝小さな流れ）に由来します。river・rival と同じ riv-（流れ）の語根です。",
+    "etym_chain": [
+      { "node": "rivus", "sub": "小川", "era": "ラテン語" },
+      { "node": "rivulus", "sub": "小さな流れ", "era": "ラテン語" },
+      { "node": "rivulet", "sub": "小川・細流", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a little rivulet", "ja": "小さな小川" },
+      { "en": "a rivulet of water", "ja": "細い水の流れ" },
+      { "en": "rivulets of rain", "ja": "雨の細い筋" },
+      { "en": "rivulets of sweat", "ja": "汗の筋" },
+      { "en": "a mountain rivulet", "ja": "山の細流" },
+      { "en": "trickle in rivulets", "ja": "細い筋になって流れる" }
+    ],
+    "related": [
+      { "en": "stream", "ja": "小川" },
+      { "en": "brook", "ja": "小川" },
+      { "en": "creek", "ja": "小川" },
+      { "en": "river", "ja": "川（同語源）" }
+    ],
+    "faq": [
+      { "q": "rivulet とはどんな意味？", "a": "river（川）に -let（小さい）がついた語で、『（とても小さな）小川・細流・細い水筋』のことです。" },
+      { "q": "rivulet と stream の違いは？", "a": "どちらも『小川』ですが、rivulet は stream よりさらに小さな『細流』を指します。" }
+    ],
+    "quiz": [
+      { "q": "A little ___ ran through the meadow.（小川）", "A": "rivulet", "B": "river の川", "C": "ribbon", "D": "ripple のさざ波", "correct": "A" },
+      { "q": "rivulet は river に何がついた語？", "A": "-let（小さい）", "B": "-ful（満ちた）", "C": "-ness（性質）", "D": "-able（できる）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rout",
+    "pron": "raʊt",
+    "kana": "ラウト",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "古フランス語 route（敗走・分散）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "多義語"],
+    "meaning_main": "完敗・総崩れ／（敵を）完敗させる・敗走させる",
+    "description": "rout の意味・発音・例文・語源を解説。戦いや試合での「完敗・総崩れ」や「完敗させる」という使い方を分かりやすく紹介します。",
+    "keywords": ["rout 意味", "rout 発音", "rout 完敗", "rout 敗走"],
+    "meanings": [
+      { "hinshi": "【名詞】完敗・総崩れ・敗走", "note": "一方的な負け。end in a rout（総崩れに終わる）。" },
+      { "hinshi": "【動詞】（敵を）完敗させる・敗走させる", "note": "rout the enemy（敵を打ち破る）。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「完敗・総崩れ」として", "desc": "一方的な負けを表します。", "example_en": "The game ended in a complete rout.", "example_ja": "その試合は完全な惨敗に終わった。" },
+      { "title": "② 動詞「完敗させる」として", "desc": "敵を打ち破り敗走させる意味です。", "example_en": "The army routed the enemy forces.", "example_ja": "軍は敵の部隊を打ち破った。" }
+    ],
+    "warn": [
+      "rout /raʊt/「ラウト」と route（道・経路）/ruːt/ は同じつづりだが発音・意味が違う。注意。",
+      "rout は『一方的な完敗・総崩れ』。defeat より圧倒的な負け。"
+    ],
+    "etym_note": "古フランス語 route（敗走・（軍の）分散。ラテン語 rupta「破れたもの」から）に由来します。route・rupture と同じ rupt-（破る）の語根で、「（隊列が）破れて敗走すること」が原義です。",
+    "etym_chain": [
+      { "node": "rupta", "sub": "破れたもの", "era": "ラテン語" },
+      { "node": "route", "sub": "敗走・分散", "era": "古フランス語" },
+      { "node": "rout", "sub": "完敗・敗走させる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "end in a rout", "ja": "総崩れに終わる" },
+      { "en": "a complete rout", "ja": "完全な惨敗" },
+      { "en": "rout the enemy", "ja": "敵を打ち破る" },
+      { "en": "be routed", "ja": "完敗する" },
+      { "en": "put to rout", "ja": "敗走させる" },
+      { "en": "a humiliating rout", "ja": "屈辱的な完敗" }
+    ],
+    "related": [
+      { "en": "defeat", "ja": "敗北・打ち負かす" },
+      { "en": "thrash", "ja": "完敗させる" },
+      { "en": "crush", "ja": "打ち砕く" },
+      { "en": "victory", "ja": "勝利（反対語）" }
+    ],
+    "faq": [
+      { "q": "rout と route の違いは？", "a": "つづりは同じ rout(e) ですが、rout は『完敗・敗走させる』/raʊt/「ラウト」、route は『道・経路』/ruːt/「ルート」で発音も意味も違います。" },
+      { "q": "rout と defeat の違いは？", "a": "defeat は『敗北・打ち負かす』一般、rout は『一方的な完敗・総崩れ』という圧倒的な負けを指します。" }
+    ],
+    "quiz": [
+      { "q": "The game ended in a complete ___.（惨敗）", "A": "rout", "B": "route の経路", "C": "root の根", "D": "round", "correct": "A" },
+      { "q": "rout と最も意味が近いのはどれ？", "A": "defeat（敗北）", "B": "victory（勝利）", "C": "draw（引き分け）", "D": "win（勝つ）", "correct": "A" }
+    ]
+  }
+]

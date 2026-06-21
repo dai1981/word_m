@@ -1,0 +1,54 @@
+[
+  {
+    "english": "restructure",
+    "pron": "ˌriːˈstrʌktʃər",
+    "kana": "リーストラクチャー",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ structure（構造）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "ビジネス"],
+    "meaning_main": "再編する・組織を立て直す・構造改革する",
+    "description": "restructure の意味・発音・例文・語源を解説。企業や組織を「再編・立て直す」というビジネスで頻出の使い方を分かりやすく紹介します。",
+    "keywords": ["restructure 意味", "restructure 発音", "restructuring 意味", "restructure 再編"],
+    "meanings": [
+      { "hinshi": "【動詞】再編する・組織を立て直す・構造を変える", "note": "会社・制度・借金などの仕組みを作り直す。restructure a company（会社を再編する）。" }
+    ],
+    "usages": [
+      { "title": "① 「組織を再編する」として", "desc": "会社や制度の仕組みを作り直す意味です。", "example_en": "The company restructured to cut costs.", "example_ja": "その会社はコスト削減のために組織を再編した。" },
+      { "title": "② 名詞 restructuring として", "desc": "再編・構造改革を表します。", "example_en": "The restructuring led to many job cuts.", "example_ja": "その再編は多くの人員削減につながった。" }
+    ],
+    "warn": [
+      "re-（再び）＋ structure（構造）＝『構造を作り直す＝再編する』。ビジネスで頻出。",
+      "名詞・動名詞は restructuring（再編・リストラ）。日本語の『リストラ（人員削減）』はこの語の一部の意味。"
+    ],
+    "etym_note": "接頭辞 re-（再び）と structure（構造。ラテン語 struere「築く」から）を組み合わせた語で、「構造を作り直す＝再編する」が原義です。construct・structure と同じ語源です。",
+    "etym_chain": [
+      { "node": "struere", "sub": "築く", "era": "ラテン語" },
+      { "node": "structure", "sub": "構造", "era": "近代英語" },
+      { "node": "restructure", "sub": "再編する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "restructure a company", "ja": "会社を再編する" },
+      { "en": "restructure debt", "ja": "借金を組み替える" },
+      { "en": "restructure the organization", "ja": "組織を立て直す" },
+      { "en": "a major restructuring", "ja": "大規模な再編" },
+      { "en": "corporate restructuring", "ja": "企業再編・リストラ" },
+      { "en": "financial restructuring", "ja": "財務再編" }
+    ],
+    "related": [
+      { "en": "structure", "ja": "構造" },
+      { "en": "reorganize", "ja": "再編成する" },
+      { "en": "reform", "ja": "改革する" },
+      { "en": "overhaul", "ja": "抜本的に見直す" }
+    ],
+    "faq": [
+      { "q": "restructure とはどんな意味？", "a": "会社・組織・制度・借金などの『仕組みを作り直す・再編する』という意味です。ビジネスで頻出します。" },
+      { "q": "日本語の『リストラ』と同じ？", "a": "『リストラ』は restructuring（再編）の略から来ています。英語の restructure は『再編する』全般で、必ずしも人員削減だけを指しません。" }
+    ],
+    "quiz": [
+      { "q": "The company ___ to cut costs.（再編した）", "A": "restructured", "B": "reconstructed の建て直す", "C": "reduced", "D": "removed", "correct": "A" },
+      { "q": "restructure は structure に何がついた語？", "A": "re-（再び）", "B": "un-（否定）", "C": "dis-（否定）", "D": "mis-（誤り）", "correct": "A" }
+    ]
+  }
+]

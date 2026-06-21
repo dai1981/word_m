@@ -1,0 +1,532 @@
+[
+  {
+    "english": "raffle",
+    "pron": "ˈræfəl",
+    "kana": "ラッフル",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 rafle（サイコロ遊び）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "日常会話"],
+    "meaning_main": "福引・くじ引き（で賞品を出す催し）／くじで処分する",
+    "description": "raffle の意味・発音・例文・語源を解説。チケットを買って賞品を当てる「福引・くじ引き」というイベント語の使い方を分かりやすく紹介します。",
+    "keywords": ["raffle 意味", "raffle 発音", "raffle ticket 意味", "raffle 福引"],
+    "meanings": [
+      { "hinshi": "【名詞】福引・くじ引き", "note": "番号付きチケットを売り、当選者に賞品を出す催し。慈善・募金でよく行う。" },
+      { "hinshi": "【動詞】くじ引きで（賞品を）出す・処分する", "note": "raffle off の形で「くじで提供する」。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「福引・くじ引き」として", "desc": "賞品が当たるチケット制の催しです。", "example_en": "She won a bicycle in the school raffle.", "example_ja": "彼女は学校の福引で自転車を当てた。" },
+      { "title": "② raffle off として", "desc": "「くじ引きで提供する」を表します。", "example_en": "They raffled off a car to raise money.", "example_ja": "彼らは資金集めのため車をくじの賞品にした。" }
+    ],
+    "warn": [
+      "raffle は『賞品が当たるくじ引き（の催し）』。lottery（宝くじ）より小規模・身近な催しを指すことが多い。",
+      "raffle ticket（福引券）、raffle off（くじで提供する）が頻出の形。"
+    ],
+    "etym_note": "古フランス語 rafle（3個のサイコロを使う賭けごと）に由来します。もとは運だめしのゲームを指し、そこから「くじで賞品を当てる催し」の意味になりました。",
+    "etym_chain": [
+      { "node": "rafle", "sub": "サイコロ遊び", "era": "古フランス語" },
+      { "node": "raffle", "sub": "くじ引き", "era": "中英語" },
+      { "node": "raffle", "sub": "福引・くじ引き", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "raffle ticket", "ja": "福引券" },
+      { "en": "win a raffle", "ja": "くじ引きで当たる" },
+      { "en": "hold a raffle", "ja": "福引を開く" },
+      { "en": "raffle off a prize", "ja": "賞品をくじで出す" },
+      { "en": "charity raffle", "ja": "慈善くじ" },
+      { "en": "enter a raffle", "ja": "くじに応募する" }
+    ],
+    "related": [
+      { "en": "lottery", "ja": "宝くじ" },
+      { "en": "draw", "ja": "抽選" },
+      { "en": "prize", "ja": "賞品" },
+      { "en": "ticket", "ja": "チケット" }
+    ],
+    "faq": [
+      { "q": "raffle とはどんな意味？", "a": "番号付きチケットを売り、当選者に賞品を出す『福引・くじ引き』のことです。学校行事や慈善イベントでよく行われます。" },
+      { "q": "raffle と lottery の違いは？", "a": "raffle はイベント内で行う小規模なくじ（賞品は品物が多い）、lottery は広く売られる宝くじ（賞金が多い）というニュアンスの違いがあります。" }
+    ],
+    "quiz": [
+      { "q": "She won a bicycle in the school ___.（福引）", "A": "raffle", "B": "ruffle のひだ飾り", "C": "rattle", "D": "rifle", "correct": "A" },
+      { "q": "「賞品をくじで出す」を表すのは？", "A": "raffle off", "B": "raffle up", "C": "raffle out", "D": "raffle in", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rafter",
+    "pron": "ˈræftər",
+    "kana": "ラフター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 ræfter（垂木）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "建築"],
+    "meaning_main": "垂木（たるき）・屋根を支える斜めの梁",
+    "description": "rafter の意味・発音・例文・語源を解説。屋根を支える斜めの木材「垂木（たるき）」を指す建築語の使い方を分かりやすく紹介します。",
+    "keywords": ["rafter 意味", "rafter 発音", "rafter 垂木", "rafter 屋根"],
+    "meanings": [
+      { "hinshi": "【名詞】垂木（たるき）", "note": "屋根の傾斜に沿って渡し、屋根板を支える斜めの梁。複数形 rafters でよく使う。" }
+    ],
+    "usages": [
+      { "title": "① 「垂木」として", "desc": "屋根を内側から支える斜めの木材です。", "example_en": "Birds nested in the rafters of the old barn.", "example_ja": "鳥が古い納屋の垂木に巣を作った。" },
+      { "title": "② to the rafters として", "desc": "「天井いっぱいに・満員で」を表す比喩です。", "example_en": "The hall was packed to the rafters.", "example_ja": "ホールは天井までびっしりの満員だった。" }
+    ],
+    "warn": [
+      "rafter は『屋根を支える斜めの梁＝垂木』。水平の梁 beam とは向きが違う。",
+      "packed to the rafters は『すし詰め・満員』という決まり文句。"
+    ],
+    "etym_note": "古英語 ræfter（垂木）に由来する古い語です。さらにさかのぼると「丸太・はり」を意味するゲルマン語の語根につながり、raft（いかだ）とも語源を共有しています。",
+    "etym_chain": [
+      { "node": "ræfter", "sub": "垂木・はり", "era": "古英語" },
+      { "node": "rafter", "sub": "垂木", "era": "中英語" },
+      { "node": "rafter", "sub": "垂木", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "roof rafters", "ja": "屋根の垂木" },
+      { "en": "exposed rafters", "ja": "むき出しの垂木" },
+      { "en": "packed to the rafters", "ja": "すし詰めの満員で" },
+      { "en": "wooden rafters", "ja": "木製の垂木" },
+      { "en": "up in the rafters", "ja": "屋根裏（の高いところ）に" },
+      { "en": "ceiling rafters", "ja": "天井の梁" }
+    ],
+    "related": [
+      { "en": "beam", "ja": "梁（はり）" },
+      { "en": "joist", "ja": "根太（ねだ）" },
+      { "en": "roof", "ja": "屋根" },
+      { "en": "truss", "ja": "トラス（小屋組み）" }
+    ],
+    "faq": [
+      { "q": "rafter とはどんな意味？", "a": "屋根の傾斜に沿って渡され、屋根板を支える斜めの梁『垂木（たるき）』のことです。ふつう複数形 rafters で使います。" },
+      { "q": "packed to the rafters とは？", "a": "『天井（垂木）まで人や物がびっしり＝すし詰め・満員』を表す決まり文句です。" }
+    ],
+    "quiz": [
+      { "q": "Birds nested in the ___s of the old barn.（垂木）", "A": "rafter", "B": "rapture のうっとり", "C": "raffle", "D": "rancher", "correct": "A" },
+      { "q": "packed to the rafters の意味はどれ？", "A": "すし詰めの満員で", "B": "がらがらで", "C": "汚れて", "D": "壊れて", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ragged",
+    "pron": "ˈrægɪd",
+    "kana": "ラギッド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "rag（ぼろ布）＋ -ed",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "描写"],
+    "meaning_main": "ぼろぼろの・ぼろを着た／ギザギザの・不ぞろいの",
+    "description": "ragged の意味・発音・例文・語源を解説。服が「ぼろぼろの」、輪郭が「ギザギザで不ぞろいの」という描写語の使い方を分かりやすく紹介します。",
+    "keywords": ["ragged 意味", "ragged 発音", "ragged 読み方", "ragged ぼろぼろ"],
+    "meanings": [
+      { "hinshi": "【形容詞】ぼろぼろの・ぼろを着た", "note": "服や布が破れて古びたようす。ragged clothes（ぼろ服）。" },
+      { "hinshi": "【形容詞】ギザギザの・不ぞろいの", "note": "輪郭や縁が荒くでこぼこ。a ragged edge（ギザギザの縁）。" },
+      { "hinshi": "【形容詞】（演奏・出来が）荒い・ぎくしゃくした", "note": "a ragged performance（雑な出来）。" }
+    ],
+    "usages": [
+      { "title": "① 「ぼろぼろの」として", "desc": "破れて古びた服や物を表します。", "example_en": "The beggar wore ragged clothes.", "example_ja": "その物乞いはぼろ服を着ていた。" },
+      { "title": "② 「ギザギザ・不ぞろいの」として", "desc": "縁や輪郭が荒くでこぼこなようすです。", "example_en": "The paper had a ragged edge.", "example_ja": "その紙はギザギザの縁をしていた。" }
+    ],
+    "warn": [
+      "ragged は発音注意。『ラグド』ではなく ed を分けて『ラギッド（ˈrægɪd）』と読む。",
+      "run someone ragged は『人をくたくたに疲れさせる』という決まり文句。"
+    ],
+    "etym_note": "rag（ぼろ布・きれ）に形容詞をつくる -ed が付いた語です。rag は古ノルド語 rögg（毛羽だち・房）に由来し、「けば立った→ぼろぼろの」という連想で意味が広がりました。",
+    "etym_chain": [
+      { "node": "rögg", "sub": "毛羽・房", "era": "古ノルド語" },
+      { "node": "rag", "sub": "ぼろ布", "era": "中英語" },
+      { "node": "ragged", "sub": "ぼろぼろの・ギザギザの", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "ragged clothes", "ja": "ぼろ服" },
+      { "en": "a ragged edge", "ja": "ギザギザの縁" },
+      { "en": "run someone ragged", "ja": "人をくたくたに疲れさせる" },
+      { "en": "ragged breathing", "ja": "荒い息づかい" },
+      { "en": "a ragged appearance", "ja": "みすぼらしい身なり" },
+      { "en": "ragged edges", "ja": "ほつれた・粗い縁" }
+    ],
+    "related": [
+      { "en": "tattered", "ja": "ぼろぼろの" },
+      { "en": "shabby", "ja": "みすぼらしい" },
+      { "en": "jagged", "ja": "ギザギザの" },
+      { "en": "frayed", "ja": "すり切れた" }
+    ],
+    "faq": [
+      { "q": "ragged の読み方は？", "a": "『ラギッド（ˈrægɪd）』です。-ed を独立した音節として読みます。『ラグド』ではないので注意しましょう。" },
+      { "q": "ragged と jagged の違いは？", "a": "ragged は『ぼろぼろ・不ぞろい』と幅広く、jagged は『（岩や刃のように）鋭くギザギザ』に限定的です。" }
+    ],
+    "quiz": [
+      { "q": "The beggar wore ___ clothes.（ぼろぼろの）", "A": "ragged", "B": "rigid のかたい", "C": "rugged のごつごつした", "D": "ranked", "correct": "A" },
+      { "q": "run someone ragged の意味はどれ？", "A": "人をくたくたに疲れさせる", "B": "人をほめる", "C": "人を着替えさせる", "D": "人を笑わせる", "correct": "A" }
+    ]
+  },
+  {
+    "english": "raisin",
+    "pron": "ˈreɪzən",
+    "kana": "レイズン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 raisin（ぶどう）",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "食べ物"],
+    "meaning_main": "干しぶどう・レーズン",
+    "description": "raisin の意味・発音・例文・語源を解説。ぶどうを乾かした「干しぶどう・レーズン」を指す身近な食べ物語の使い方を分かりやすく紹介します。",
+    "keywords": ["raisin 意味", "raisin 発音", "raisin レーズン", "raisin 干しぶどう"],
+    "meanings": [
+      { "hinshi": "【名詞】干しぶどう・レーズン", "note": "ぶどうを乾燥させた甘い食品。パンや菓子に入れる。" }
+    ],
+    "usages": [
+      { "title": "① 「干しぶどう」として", "desc": "ぶどうを乾かした甘い食べ物です。", "example_en": "I like bread with raisins in it.", "example_ja": "私はレーズン入りのパンが好きだ。" },
+      { "title": "② お菓子・料理の材料として", "desc": "クッキーやシリアルに混ぜて使います。", "example_en": "She added raisins to the cookie dough.", "example_ja": "彼女はクッキー生地にレーズンを加えた。" }
+    ],
+    "warn": [
+      "raisin は『干しぶどう（レーズン）』。生のぶどうは grape。発音は『レイズン（ˈreɪzən）』。",
+      "reason（理由）と発音が似るが別語。raisin はアクセントが前で母音が違う。"
+    ],
+    "etym_note": "古フランス語 raisin（ぶどう）に由来し、もとはラテン語 racemus（ぶどうの房）から来ています。英語ではこれが「干したぶどう」を指す語として定着しました。",
+    "etym_chain": [
+      { "node": "racemus", "sub": "ぶどうの房", "era": "ラテン語" },
+      { "node": "raisin", "sub": "ぶどう", "era": "古フランス語" },
+      { "node": "raisin", "sub": "干しぶどう", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "raisin bread", "ja": "レーズンパン" },
+      { "en": "a box of raisins", "ja": "レーズン1箱" },
+      { "en": "oatmeal raisin cookie", "ja": "オートミールレーズンクッキー" },
+      { "en": "golden raisins", "ja": "白い干しぶどう" },
+      { "en": "add raisins", "ja": "レーズンを加える" },
+      { "en": "dried into raisins", "ja": "干されてレーズンになる" }
+    ],
+    "related": [
+      { "en": "grape", "ja": "ぶどう" },
+      { "en": "currant", "ja": "小粒の干しぶどう" },
+      { "en": "dried fruit", "ja": "ドライフルーツ" },
+      { "en": "prune", "ja": "干しプラム" }
+    ],
+    "faq": [
+      { "q": "raisin と grape の違いは？", "a": "grape は生の『ぶどう』、raisin はそれを乾燥させた『干しぶどう（レーズン）』です。" },
+      { "q": "raisin の発音は？", "a": "『レイズン（ˈreɪzən）』です。reason（リーズン・理由）と混同しないよう注意しましょう。" }
+    ],
+    "quiz": [
+      { "q": "I like bread with ___s in it.（レーズン）", "A": "raisin", "B": "reason の理由", "C": "raising", "D": "razor", "correct": "A" },
+      { "q": "raisin のもとになる果物はどれ？", "A": "grape（ぶどう）", "B": "apple（りんご）", "C": "peach（もも）", "D": "lemon（レモン）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ratchet",
+    "pron": "ˈrætʃɪt",
+    "kana": "ラチェット",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 rochet（つむの歯車）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "技術"],
+    "meaning_main": "ラチェット（一方向に回る歯車）／（ratchet up で）段階的に強める",
+    "description": "ratchet の意味・発音・例文・語源を解説。一方向だけに回る「ラチェット（つめ車）」と、ratchet up（段階的に強める）の使い方を紹介します。",
+    "keywords": ["ratchet 意味", "ratchet 発音", "ratchet up 意味", "ratchet 歯車"],
+    "meanings": [
+      { "hinshi": "【名詞】ラチェット・つめ車", "note": "一方向だけに回り、逆回転を止める歯車のしくみ。工具やシートベルトに使う。" },
+      { "hinshi": "【動詞】ratchet up / down で段階的に強める／弱める", "note": "後戻りしないように少しずつ調整するイメージ。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「ラチェット」として", "desc": "一方向に回るつめ車のしくみです。", "example_en": "He tightened the bolt with a ratchet.", "example_ja": "彼はラチェットでボルトを締めた。" },
+      { "title": "② ratchet up として", "desc": "「段階的に強める・引き上げる」を表します。", "example_en": "The government ratcheted up the pressure on imports.", "example_ja": "政府は輸入への圧力を段階的に強めた。" }
+    ],
+    "warn": [
+      "ratchet は『一方向だけに動く歯車』が原義。比喩の ratchet up は『後戻りせず少しずつ強める』ニュアンス。",
+      "ratchet up（強める）⇔ ratchet down（弱める）のセットで覚えると便利。"
+    ],
+    "etym_note": "フランス語 rochet（紡績機のつむの歯車）に由来します。一方向にしか回らないつめ車のしくみから、「少しずつ進んで後戻りしない」という比喩的な動詞用法が生まれました。",
+    "etym_chain": [
+      { "node": "rochet", "sub": "つむの歯車", "era": "フランス語" },
+      { "node": "ratchet", "sub": "つめ車", "era": "近代英語" },
+      { "node": "ratchet", "sub": "ラチェット・段階的に強める", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "ratchet up", "ja": "段階的に強める・引き上げる" },
+      { "en": "ratchet down", "ja": "段階的に弱める・引き下げる" },
+      { "en": "a ratchet wrench", "ja": "ラチェットレンチ" },
+      { "en": "ratchet up pressure", "ja": "圧力を強める" },
+      { "en": "ratchet effect", "ja": "ラチェット効果（後戻りしにくさ）" },
+      { "en": "ratchet mechanism", "ja": "つめ車のしくみ" }
+    ],
+    "related": [
+      { "en": "gear", "ja": "歯車" },
+      { "en": "cog", "ja": "歯車の歯" },
+      { "en": "escalate", "ja": "段階的に強める" },
+      { "en": "tighten", "ja": "締める" }
+    ],
+    "faq": [
+      { "q": "ratchet とはどんな意味？", "a": "一方向だけに回り逆回転を止める『つめ車（ラチェット）』のことです。比喩的に ratchet up で『後戻りせず段階的に強める』を表します。" },
+      { "q": "ratchet up はどう使う？", "a": "「圧力・緊張・要求などを少しずつ引き上げる」という意味で、ratchet up the pressure（圧力を強める）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "He tightened the bolt with a ___.（ラチェット）", "A": "ratchet", "B": "racket のラケット", "C": "rocket", "D": "rattle", "correct": "A" },
+      { "q": "ratchet up の意味はどれ？", "A": "段階的に強める", "B": "急に止める", "C": "完全に消す", "D": "ゆっくり下げる", "correct": "A" }
+    ]
+  },
+  {
+    "english": "raven",
+    "pron": "ˈreɪvən",
+    "kana": "レイヴン",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 hræfn（ワタリガラス）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "自然・生き物"],
+    "meaning_main": "ワタリガラス（大型のカラス）／（形容詞）真っ黒でつやのある",
+    "description": "raven の意味・発音・例文・語源を解説。大型の黒い鳥「ワタリガラス」と、髪などが「真っ黒でつやのある」という形容詞の使い方を紹介します。",
+    "keywords": ["raven 意味", "raven 発音", "raven カラス", "raven 黒い"],
+    "meanings": [
+      { "hinshi": "【名詞】ワタリガラス", "note": "crow より大型で全身が黒い鳥。文学では不吉・知恵の象徴として登場する。" },
+      { "hinshi": "【形容詞】真っ黒でつやのある", "note": "raven hair（カラスの濡れ羽色の髪）のように髪の色を表す。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「ワタリガラス」として", "desc": "大型で全身が黒い鳥を指します。", "example_en": "A raven perched on the old stone tower.", "example_ja": "ワタリガラスが古い石の塔にとまった。" },
+      { "title": "② 形容詞「真っ黒な」として", "desc": "髪の色などを表すときに使います。", "example_en": "She had long, raven hair.", "example_ja": "彼女は長く真っ黒な髪をしていた。" }
+    ],
+    "warn": [
+      "raven は crow（カラス）より大型のワタリガラス。発音は『レイヴン（ˈreɪvən）』。",
+      "ravenous（がつがつした）とは別語だが語源はつながる。raven hair は『つやのある黒髪』。"
+    ],
+    "etym_note": "古英語 hræfn（ワタリガラス）に由来する古い語で、ゲルマン語にも同系の語があります。その黒くつやのある羽から、髪の色を表す形容詞 raven（漆黒の）も生まれました。",
+    "etym_chain": [
+      { "node": "hræfn", "sub": "ワタリガラス", "era": "古英語" },
+      { "node": "raven", "sub": "ワタリガラス", "era": "中英語" },
+      { "node": "raven", "sub": "ワタリガラス・漆黒の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "raven hair", "ja": "漆黒の髪" },
+      { "en": "a black raven", "ja": "黒いワタリガラス" },
+      { "en": "raven-haired", "ja": "黒髪の" },
+      { "en": "a perched raven", "ja": "とまったワタリガラス" },
+      { "en": "the raven croaked", "ja": "カラスが鳴いた" },
+      { "en": "raven feathers", "ja": "カラスの羽" }
+    ],
+    "related": [
+      { "en": "crow", "ja": "カラス" },
+      { "en": "blackbird", "ja": "クロウタドリ" },
+      { "en": "jet-black", "ja": "真っ黒な" },
+      { "en": "ravenous", "ja": "がつがつした" }
+    ],
+    "faq": [
+      { "q": "raven と crow の違いは？", "a": "どちらも黒い鳥ですが、raven（ワタリガラス）は crow（カラス）より大型で、くさび形の尾と低い鳴き声が特徴です。" },
+      { "q": "raven hair とは？", "a": "『カラスの羽のように真っ黒でつやのある髪（漆黒の髪）』を表す詩的な言い方です。" }
+    ],
+    "quiz": [
+      { "q": "A ___ perched on the old stone tower.（ワタリガラス）", "A": "raven", "B": "raisin の干しぶどう", "C": "ravine の峡谷", "D": "raft", "correct": "A" },
+      { "q": "raven hair の意味はどれ？", "A": "漆黒の髪", "B": "金色の髪", "C": "短い髪", "D": "縮れた髪", "correct": "A" }
+    ]
+  },
+  {
+    "english": "roundabout",
+    "pron": "ˈraʊndəbaʊt",
+    "kana": "ラウンダバウト",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "round（丸い）＋ about（周りに）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "交通"],
+    "meaning_main": "環状交差点（ロータリー）／（形容詞）遠回りの・回りくどい",
+    "description": "roundabout の意味・発音・例文・語源を解説。車が円を回って進む「環状交差点」と、「遠回りの・回りくどい」という形容詞の使い方を紹介します。",
+    "keywords": ["roundabout 意味", "roundabout 発音", "roundabout ロータリー", "roundabout 遠回り"],
+    "meanings": [
+      { "hinshi": "【名詞】環状交差点・ロータリー", "note": "中央の島を時計回り（英）に回って進む交差点。主にイギリス英語。" },
+      { "hinshi": "【形容詞】遠回りの・回りくどい", "note": "a roundabout way（遠回りな方法・言い方）。" },
+      { "hinshi": "【名詞】回転木馬・回転遊具（英）", "note": "イギリスでは公園のメリーゴーラウンドや回転遊具も指す。" }
+    ],
+    "usages": [
+      { "title": "① 「環状交差点」として", "desc": "円を回って進む交差点です。", "example_en": "Take the second exit at the roundabout.", "example_ja": "環状交差点で2つ目の出口を出てください。" },
+      { "title": "② 形容詞「遠回りの・回りくどい」として", "desc": "まわりくどいやり方や言い方を表します。", "example_en": "He explained it in a roundabout way.", "example_ja": "彼は回りくどいやり方でそれを説明した。" }
+    ],
+    "warn": [
+      "roundabout（環状交差点）は主にイギリス英語。アメリカでは traffic circle / rotary も使う。",
+      "形容詞 roundabout は『遠回りの・回りくどい』で、in a roundabout way が頻出。"
+    ],
+    "etym_note": "round（丸い・回って）＋ about（周りに）が結びついた語で、文字どおり「ぐるりと回る」が原義です。そこから「円を回る交差点」「遠回りの」という意味が生まれました。",
+    "etym_chain": [
+      { "node": "round + about", "sub": "丸く・周りに", "era": "中英語" },
+      { "node": "roundabout", "sub": "ぐるりと回る", "era": "近代英語" },
+      { "node": "roundabout", "sub": "環状交差点・遠回りの", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "at the roundabout", "ja": "環状交差点で" },
+      { "en": "take the exit at the roundabout", "ja": "ロータリーで出口を出る" },
+      { "en": "in a roundabout way", "ja": "回りくどく・遠回しに" },
+      { "en": "a roundabout route", "ja": "遠回りの経路" },
+      { "en": "a roundabout answer", "ja": "回りくどい返事" },
+      { "en": "enter the roundabout", "ja": "環状交差点に入る" }
+    ],
+    "related": [
+      { "en": "traffic circle", "ja": "環状交差点（米）" },
+      { "en": "rotary", "ja": "ロータリー" },
+      { "en": "indirect", "ja": "遠回しの" },
+      { "en": "circuitous", "ja": "回りくどい" }
+    ],
+    "faq": [
+      { "q": "roundabout とはどんな意味？", "a": "車が中央の島を回って進む『環状交差点（ロータリー）』を指す名詞、また『遠回りの・回りくどい』を表す形容詞です。" },
+      { "q": "in a roundabout way とは？", "a": "『遠回しに・回りくどく』という意味の決まり文句です。He said yes in a roundabout way.（彼は遠回しに承諾した）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "Take the second exit at the ___.（環状交差点）", "A": "roundabout", "B": "runaway の逃走", "C": "roundup", "D": "rampart", "correct": "A" },
+      { "q": "in a roundabout way の意味はどれ？", "A": "回りくどく・遠回しに", "B": "まっすぐに", "C": "すばやく", "D": "正直に", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ruddy",
+    "pron": "ˈrʌdi",
+    "kana": "ラディ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "古英語 rudig（赤みのある）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "描写"],
+    "meaning_main": "（顔色が）血色のよい・赤らんだ／赤みを帯びた",
+    "description": "ruddy の意味・発音・例文・語源を解説。健康そうに「血色のよい・赤らんだ」顔色や、「赤みを帯びた」色合いを表す描写語の使い方を紹介します。",
+    "keywords": ["ruddy 意味", "ruddy 発音", "ruddy 血色", "ruddy 赤らんだ"],
+    "meanings": [
+      { "hinshi": "【形容詞】血色のよい・赤らんだ（顔）", "note": "健康そう、または寒さ・運動で赤くなった顔色。a ruddy complexion（赤ら顔）。" },
+      { "hinshi": "【形容詞】赤みを帯びた", "note": "空や光などの赤っぽい色合い。a ruddy glow（赤い輝き）。" }
+    ],
+    "usages": [
+      { "title": "① 「血色のよい・赤らんだ」として", "desc": "健康そうな、または寒さで赤い顔色を表します。", "example_en": "The farmer had a ruddy, weathered face.", "example_ja": "その農夫は赤らんで日に焼けた顔をしていた。" },
+      { "title": "② 「赤みを帯びた」として", "desc": "光や空の赤っぽい色合いを表します。", "example_en": "The evening sky had a ruddy glow.", "example_ja": "夕方の空は赤みを帯びて輝いていた。" }
+    ],
+    "warn": [
+      "ruddy は主に『健康そうな赤ら顔・赤みを帯びた』で、ふつう良い・自然な赤みを表す。",
+      "イギリス英語では damn の遠回しな強調語（軽い悪態）としても使う（古風）。"
+    ],
+    "etym_note": "古英語 rudig（赤みのある）に由来し、red（赤）と同じ語根 rēad につながります。「赤い色をした」が原義で、特に健康そうな顔色を表すのに使われてきました。",
+    "etym_chain": [
+      { "node": "rēad", "sub": "赤い", "era": "古英語" },
+      { "node": "rudig", "sub": "赤みのある", "era": "古英語" },
+      { "node": "ruddy", "sub": "血色のよい・赤らんだ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a ruddy complexion", "ja": "赤ら顔・血色のよい肌" },
+      { "en": "ruddy cheeks", "ja": "赤らんだ頬" },
+      { "en": "a ruddy face", "ja": "血色のよい顔" },
+      { "en": "a ruddy glow", "ja": "赤い輝き" },
+      { "en": "ruddy health", "ja": "（赤ら顔の）健康そうな様子" },
+      { "en": "turn ruddy", "ja": "赤らむ" }
+    ],
+    "related": [
+      { "en": "rosy", "ja": "ばら色の・血色のよい" },
+      { "en": "flushed", "ja": "紅潮した" },
+      { "en": "reddish", "ja": "赤みがかった" },
+      { "en": "pale", "ja": "青白い（反対語）" }
+    ],
+    "faq": [
+      { "q": "ruddy とはどんな意味？", "a": "顔が『血色がよく赤らんだ』ようす、または『赤みを帯びた』色合いを表す形容詞です。健康そうな自然な赤みを指すことが多いです。" },
+      { "q": "ruddy と pale の関係は？", "a": "pale（青白い）は ruddy（血色のよい）の反対です。a ruddy complexion は健康そう、a pale complexion は青白い顔色を表します。" }
+    ],
+    "quiz": [
+      { "q": "The farmer had a ___, weathered face.（赤らんだ）", "A": "ruddy", "B": "ready の準備できた", "C": "rusty のさびた", "D": "rude の無礼な", "correct": "A" },
+      { "q": "ruddy の反対語に近いのはどれ？", "A": "pale（青白い）", "B": "rosy（ばら色の）", "C": "flushed（紅潮した）", "D": "reddish（赤みがかった）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "runt",
+    "pron": "rʌnt",
+    "kana": "ラント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "由来不明（古い英語の方言語）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "描写"],
+    "meaning_main": "（同腹で）いちばん小さい子・発育の悪い個体／（軽蔑）ちび",
+    "description": "runt の意味・発音・例文・語源を解説。一腹の中で「いちばん体の小さい子（動物）」や、人を見下して言う「ちび」という語の使い方を紹介します。",
+    "keywords": ["runt 意味", "runt 発音", "runt of the litter 意味", "runt ちび"],
+    "meanings": [
+      { "hinshi": "【名詞】（同腹で）いちばん小さい子・発育の悪い個体", "note": "犬や豚など、ひと腹の中で最も小さく弱い子。the runt of the litter。" },
+      { "hinshi": "【名詞】（軽蔑的に）ちび・取るに足りない人", "note": "人をばかにして「小さくて弱い者」と言う言い方。" }
+    ],
+    "usages": [
+      { "title": "① 「同腹でいちばん小さい子」として", "desc": "ひと腹で最も小さく弱い動物を指します。", "example_en": "She adopted the runt of the litter.", "example_ja": "彼女はその一腹でいちばん小さい子を引き取った。" },
+      { "title": "② 「ちび」として（軽蔑）", "desc": "人を見下して小さく弱いと言う表現です。", "example_en": "The bullies called him a runt.", "example_ja": "いじめっ子たちは彼をちび呼ばわりした。" }
+    ],
+    "warn": [
+      "runt of the litter（一腹でいちばん小さい子）は決まり文句。動物について最もよく使う。",
+      "人に対して使うと『ちび・弱虫』という侮辱になるので注意。"
+    ],
+    "etym_note": "語源ははっきりしませんが、16世紀ごろの英語に現れた語で、もとは「古い切り株・年老いた小さな牛」を指したとされます。そこから「小さく発育の悪いもの」の意味になりました。",
+    "etym_chain": [
+      { "node": "runt", "sub": "古い切り株・小さな牛", "era": "近代英語" },
+      { "node": "runt", "sub": "発育の悪い個体", "era": "近代英語" },
+      { "node": "runt", "sub": "いちばん小さい子・ちび", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the runt of the litter", "ja": "一腹でいちばん小さい子" },
+      { "en": "a tiny runt", "ja": "とても小さな子" },
+      { "en": "the weakest runt", "ja": "いちばん弱い個体" },
+      { "en": "call someone a runt", "ja": "人をちび呼ばわりする" },
+      { "en": "save the runt", "ja": "いちばん弱い子を助ける" },
+      { "en": "a scrawny runt", "ja": "やせっぽちのちび" }
+    ],
+    "related": [
+      { "en": "litter", "ja": "（動物の）ひと腹の子" },
+      { "en": "dwarf", "ja": "小さいもの・小人" },
+      { "en": "weakling", "ja": "弱虫" },
+      { "en": "midget", "ja": "とても小さいもの" }
+    ],
+    "faq": [
+      { "q": "runt とはどんな意味？", "a": "犬や豚などひと腹の子の中で『いちばん体が小さく弱い子』のことです。the runt of the litter という形でよく使います。" },
+      { "q": "runt を人に使うとどうなる？", "a": "『ちび・弱虫』という見下した侮辱になります。動物以外で人に使うときは失礼にあたるので注意が必要です。" }
+    ],
+    "quiz": [
+      { "q": "She adopted the ___ of the litter.（いちばん小さい子）", "A": "runt", "B": "rant のわめき", "C": "rust のさび", "D": "rung の段", "correct": "A" },
+      { "q": "the runt of the litter とは？", "A": "一腹でいちばん小さい子", "B": "一腹でいちばん大きい子", "C": "母親", "D": "群れのリーダー", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rosary",
+    "pron": "ˈroʊzəri",
+    "kana": "ロウザリー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 rosarium（ばら園）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "宗教・文化"],
+    "meaning_main": "ロザリオ（カトリックの数珠）／ロザリオの祈り",
+    "description": "rosary の意味・発音・例文・語源を解説。カトリックで祈りを数える「ロザリオ（数珠）」と、その祈りを指す宗教語の使い方を紹介します。",
+    "keywords": ["rosary 意味", "rosary 発音", "rosary ロザリオ", "rosary 数珠"],
+    "meanings": [
+      { "hinshi": "【名詞】ロザリオ（数珠）", "note": "カトリックで祈りの回数を数える、玉をつないだ輪。十字架が付く。" },
+      { "hinshi": "【名詞】ロザリオの祈り", "note": "玉をたどりながらとなえる一連の祈り。say the rosary（ロザリオを唱える）。" }
+    ],
+    "usages": [
+      { "title": "① 「ロザリオ（数珠）」として", "desc": "祈りを数える玉つなぎの輪を指します。", "example_en": "She held a rosary as she prayed.", "example_ja": "彼女は祈りながらロザリオを握っていた。" },
+      { "title": "② 「ロザリオの祈り」として", "desc": "玉をたどってとなえる祈りを指します。", "example_en": "They said the rosary together every evening.", "example_ja": "彼らは毎晩いっしょにロザリオの祈りを唱えた。" }
+    ],
+    "warn": [
+      "rosary は主にカトリックの『ロザリオ（祈りの数珠）』。仏教の数珠は prayer beads や mala という。",
+      "say / pray the rosary は『ロザリオの祈りを唱える』という決まり文句。"
+    ],
+    "etym_note": "ラテン語 rosarium（ばら園・ばらの花輪）に由来します。祈りを「聖母にささげるばらの花輪」になぞらえたことから、祈りを数える数珠と祈りそのものを rosary と呼ぶようになりました。rose（ばら）と同じ語根です。",
+    "etym_chain": [
+      { "node": "rosa", "sub": "ばら", "era": "ラテン語" },
+      { "node": "rosarium", "sub": "ばら園・ばらの花輪", "era": "ラテン語" },
+      { "node": "rosary", "sub": "ロザリオ・祈りの数珠", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "say the rosary", "ja": "ロザリオの祈りを唱える" },
+      { "en": "pray the rosary", "ja": "ロザリオの祈りをする" },
+      { "en": "hold a rosary", "ja": "ロザリオを握る" },
+      { "en": "rosary beads", "ja": "ロザリオの玉" },
+      { "en": "a wooden rosary", "ja": "木製のロザリオ" },
+      { "en": "finger the rosary", "ja": "ロザリオの玉をたどる" }
+    ],
+    "related": [
+      { "en": "beads", "ja": "（数珠の）玉" },
+      { "en": "prayer", "ja": "祈り" },
+      { "en": "crucifix", "ja": "十字架像" },
+      { "en": "Catholic", "ja": "カトリックの" }
+    ],
+    "faq": [
+      { "q": "rosary とはどんな意味？", "a": "カトリックで祈りの回数を数える玉つなぎの輪『ロザリオ（数珠）』、またそれを使ってとなえる『ロザリオの祈り』を指します。" },
+      { "q": "rosary の語源は？", "a": "ラテン語 rosarium（ばら園・ばらの花輪）です。祈りを聖母へささげるばらの花輪にたとえたことに由来し、rose（ばら）と同じ語根です。" }
+    ],
+    "quiz": [
+      { "q": "She held a ___ as she prayed.（ロザリオ）", "A": "rosary", "B": "rosy のばら色の", "C": "roster の名簿", "D": "rotary の回転の", "correct": "A" },
+      { "q": "rosary の語源の意味はどれ？", "A": "ばら園・ばらの花輪", "B": "高い塔", "C": "石の道", "D": "古い数字", "correct": "A" }
+    ]
+  }
+]

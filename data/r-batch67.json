@@ -1,0 +1,525 @@
+[
+  {
+    "english": "ragtime",
+    "pron": "ˈrægtaɪm",
+    "kana": "ラグタイム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ragged（ずれた）＋ time（拍子）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "音楽"],
+    "meaning_main": "ラグタイム（19世紀末〜20世紀初頭の、はずむリズムのピアノ音楽）",
+    "description": "ragtime の意味・発音・例文・語源を解説。シンコペーションのはずむリズムが特徴のピアノ音楽「ラグタイム」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["ragtime 意味", "ragtime 発音", "ragtime 音楽", "ragtime ピアノ"],
+    "meanings": [
+      { "hinshi": "【名詞】ラグタイム", "note": "19世紀末〜20世紀初頭のアメリカで流行した、拍子をずらすシンコペーションが特徴のピアノ音楽。ジャズの源流の一つ。" }
+    ],
+    "usages": [
+      { "title": "① 音楽ジャンルとして", "desc": "はずむリズムのピアノ音楽を指します。", "example_en": "Scott Joplin was a master of ragtime.", "example_ja": "スコット・ジョプリンはラグタイムの名手だった。" },
+      { "title": "② 形容詞的に", "desc": "そのリズム・曲調を表します。", "example_en": "The pianist played a lively ragtime tune.", "example_ja": "ピアニストは軽快なラグタイムの曲を弾いた。" }
+    ],
+    "warn": [
+      "ragtime は『拍子をずらすシンコペーションが特徴のピアノ音楽』。ジャズの源流の一つ。",
+      "語源は ragged time（ずれた拍子）。発音は『ラグタイム（ˈrægtaɪm）』。"
+    ],
+    "etym_note": "ragged（ずれた・ぼろぼろの）＋ time（拍子）から来た語と考えられ、「拍子をずらしたリズム」を表します。シンコペーション（弱拍を強調するずれ）が特徴です。",
+    "etym_chain": [
+      { "node": "ragged + time", "sub": "ずれた＋拍子", "era": "近代英語" },
+      { "node": "ragtime", "sub": "ずれた拍子の音楽", "era": "近代英語" },
+      { "node": "ragtime", "sub": "ラグタイム", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "ragtime music", "ja": "ラグタイム音楽" },
+      { "en": "a ragtime tune", "ja": "ラグタイムの曲" },
+      { "en": "play ragtime", "ja": "ラグタイムを弾く" },
+      { "en": "ragtime piano", "ja": "ラグタイムピアノ" },
+      { "en": "a ragtime rhythm", "ja": "ラグタイムのリズム" },
+      { "en": "classic ragtime", "ja": "古典的なラグタイム" }
+    ],
+    "related": [
+      { "en": "jazz", "ja": "ジャズ" },
+      { "en": "syncopation", "ja": "シンコペーション" },
+      { "en": "blues", "ja": "ブルース" },
+      { "en": "honky-tonk", "ja": "ホンキートンク" }
+    ],
+    "faq": [
+      { "q": "ragtime とはどんな意味？", "a": "19世紀末〜20世紀初頭のアメリカで流行した、拍子をずらすシンコペーションが特徴のピアノ音楽『ラグタイム』のことです。ジャズの源流の一つとされます。" },
+      { "q": "ragtime の語源は？", "a": "ragged time（ずれた拍子）から来たと考えられ、弱拍を強調する『ずれたリズム』を表します。" }
+    ],
+    "quiz": [
+      { "q": "Scott Joplin was a master of ___.（ラグタイム）", "A": "ragtime", "B": "ragweed のブタクサ", "C": "ragtag の寄せ集めの", "D": "ragout の煮込み", "correct": "A" },
+      { "q": "ragtime の特徴はどれ？", "A": "拍子をずらすシンコペーション", "B": "ゆっくりした賛美歌", "C": "重い金属音", "D": "無音の間", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reveille",
+    "pron": "ˈrevəli",
+    "kana": "レヴェリー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 réveillez（起きよ）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "軍事"],
+    "meaning_main": "起床ラッパ・起床合図（軍隊で朝の起床を知らせる信号）",
+    "description": "reveille の意味・発音・例文・語源を解説。軍隊で朝の起床を知らせる「起床ラッパ・起床合図」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["reveille 意味", "reveille 発音", "reveille 起床ラッパ", "reveille 軍隊"],
+    "meanings": [
+      { "hinshi": "【名詞】起床ラッパ・起床合図", "note": "軍隊やキャンプで、朝に兵士・隊員を起こすために鳴らすラッパや太鼓の信号。" }
+    ],
+    "usages": [
+      { "title": "① 軍隊の起床合図として", "desc": "朝の起床を知らせる信号を指します。", "example_en": "The soldiers woke to the sound of reveille.", "example_ja": "兵士たちは起床ラッパの音で目を覚ました。" },
+      { "title": "② 比喩・キャンプで", "desc": "一日の始まりの合図として使います。", "example_en": "Reveille sounded at six every morning.", "example_ja": "起床ラッパは毎朝6時に鳴った。" }
+    ],
+    "warn": [
+      "reveille は『軍隊の起床ラッパ・起床合図』。発音は『レヴェリー（ˈrevəli）』とつづりと音がずれるので注意。",
+      "夜の消灯ラッパは taps（米）/ last post（英）という。"
+    ],
+    "etym_note": "フランス語 réveillez（réveiller「目覚めさせる」の命令形＝起きよ）に由来します。re-（再び）＋ veiller（目を覚ましている、ラテン語 vigilare「見張る」より）から成り、「目を覚まさせる合図」を意味します。",
+    "etym_chain": [
+      { "node": "vigilare", "sub": "見張る・目覚めている", "era": "ラテン語" },
+      { "node": "réveillez", "sub": "起きよ", "era": "フランス語" },
+      { "node": "reveille", "sub": "起床ラッパ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "sound reveille", "ja": "起床ラッパを鳴らす" },
+      { "en": "wake to reveille", "ja": "起床ラッパで目覚める" },
+      { "en": "at reveille", "ja": "起床合図のときに" },
+      { "en": "the bugle's reveille", "ja": "ラッパの起床合図" },
+      { "en": "reveille sounded", "ja": "起床ラッパが鳴った" },
+      { "en": "morning reveille", "ja": "朝の起床合図" }
+    ],
+    "related": [
+      { "en": "bugle", "ja": "（軍隊用の）ラッパ" },
+      { "en": "taps", "ja": "消灯ラッパ（米）" },
+      { "en": "wake-up call", "ja": "起こすための合図" },
+      { "en": "muster", "ja": "（兵の）召集・点呼" }
+    ],
+    "faq": [
+      { "q": "reveille とはどんな意味？", "a": "軍隊やキャンプで朝に隊員を起こすために鳴らす『起床ラッパ・起床合図』のことです。The soldiers woke to reveille.（起床ラッパで目覚めた）のように使います。" },
+      { "q": "reveille の発音は？", "a": "『レヴェリー（ˈrevəli）』です。フランス語由来で、つづりと発音がずれるので注意しましょう。" }
+    ],
+    "quiz": [
+      { "q": "The soldiers woke to the sound of ___.（起床ラッパ）", "A": "reveille", "B": "revelry の宴", "C": "reverie の空想", "D": "revel の浮かれ騒ぎ", "correct": "A" },
+      { "q": "reveille の語源の意味はどれ？", "A": "起きよ（目覚めさせる）", "B": "進め", "C": "止まれ", "D": "休め", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rutabaga",
+    "pron": "ˌruːtəˈbeɪɡə",
+    "kana": "ルタバガ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "スウェーデン語 rotabagge（根のかたまり）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "食べ物"],
+    "meaning_main": "ルタバガ（カブとキャベツをかけ合わせた根菜・スウェーデンカブ）",
+    "description": "rutabaga の意味・発音・例文・語源を解説。カブの仲間で黄色っぽい根を食べる根菜「ルタバガ（スウェーデンカブ）」を指す語の使い方を紹介します。",
+    "keywords": ["rutabaga 意味", "rutabaga 発音", "rutabaga 根菜", "rutabaga カブ"],
+    "meanings": [
+      { "hinshi": "【名詞】ルタバガ（スウェーデンカブ）", "note": "カブとキャベツの交雑から生まれた根菜。黄色っぽい大きな根を煮物などにする。英 swede ともいう。" }
+    ],
+    "usages": [
+      { "title": "① 根菜として", "desc": "煮物などに使う黄色い根菜を指します。", "example_en": "She roasted rutabaga with carrots.", "example_ja": "彼女はルタバガをにんじんといっしょに焼いた。" },
+      { "title": "② 料理の材料として", "desc": "スープや付け合わせに使います。", "example_en": "Rutabaga adds a sweet flavor to the stew.", "example_ja": "ルタバガは煮込みに甘みを加える。" }
+    ],
+    "warn": [
+      "rutabaga は『カブとキャベツの交雑種の根菜』。アメリカ英語で、イギリスでは swede と呼ぶ。",
+      "ふつうのカブ（turnip）より大きく黄色っぽい。"
+    ],
+    "etym_note": "スウェーデン語の方言 rotabagge（rot「根」＋ bagge「かたまり・雄羊」）に由来します。スウェーデン原産とされることから swede（スウェーデンカブ）とも呼ばれます。",
+    "etym_chain": [
+      { "node": "rotabagge", "sub": "根のかたまり", "era": "スウェーデン語" },
+      { "node": "rutabaga", "sub": "ルタバガ", "era": "近代英語" },
+      { "node": "rutabaga", "sub": "ルタバガ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "roasted rutabaga", "ja": "焼いたルタバガ" },
+      { "en": "mashed rutabaga", "ja": "ルタバガのマッシュ" },
+      { "en": "rutabaga soup", "ja": "ルタバガのスープ" },
+      { "en": "a large rutabaga", "ja": "大きなルタバガ" },
+      { "en": "peel a rutabaga", "ja": "ルタバガの皮をむく" },
+      { "en": "diced rutabaga", "ja": "角切りのルタバガ" }
+    ],
+    "related": [
+      { "en": "turnip", "ja": "カブ" },
+      { "en": "swede", "ja": "スウェーデンカブ（英）" },
+      { "en": "root vegetable", "ja": "根菜" },
+      { "en": "beet", "ja": "ビート・テンサイ" }
+    ],
+    "faq": [
+      { "q": "rutabaga とはどんな意味？", "a": "カブとキャベツの交雑から生まれた、黄色っぽい大きな根を食べる根菜『ルタバガ（スウェーデンカブ）』のことです。煮物やスープに使います。" },
+      { "q": "rutabaga と turnip の違いは？", "a": "rutabaga（ルタバガ）はカブより大きく黄色っぽく甘みが強い交雑種、turnip（カブ）は白っぽく小ぶりです。イギリスでは rutabaga を swede と呼びます。" }
+    ],
+    "quiz": [
+      { "q": "She roasted ___ with carrots.（ルタバガ）", "A": "rutabaga", "B": "rhubarb のルバーブ", "C": "radish のラディッシュ", "D": "ravioli のラビオリ", "correct": "A" },
+      { "q": "rutabaga はどんな野菜？", "A": "カブとキャベツの交雑種の根菜", "B": "葉物野菜", "C": "豆類", "D": "きのこ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ragweed",
+    "pron": "ˈrægwiːd",
+    "kana": "ラグウィード",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ragged（ぎざぎざの）＋ weed（雑草）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "自然・健康"],
+    "meaning_main": "ブタクサ（秋の花粉症の原因になる雑草）",
+    "description": "ragweed の意味・発音・例文・語源を解説。秋に大量の花粉を飛ばし花粉症の原因となる雑草「ブタクサ」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["ragweed 意味", "ragweed 発音", "ragweed ブタクサ", "ragweed 花粉症"],
+    "meanings": [
+      { "hinshi": "【名詞】ブタクサ", "note": "ぎざぎざの葉をもつ雑草。秋に大量の花粉を飛ばし、花粉症（枯草熱）の主な原因になる。" }
+    ],
+    "usages": [
+      { "title": "① 雑草として", "desc": "花粉を飛ばす雑草を指します。", "example_en": "Ragweed grows along roadsides in late summer.", "example_ja": "ブタクサは晩夏に道端に生える。" },
+      { "title": "② 花粉症の原因として", "desc": "アレルギーの話題で使います。", "example_en": "Many people are allergic to ragweed pollen.", "example_ja": "多くの人がブタクサの花粉にアレルギーをもつ。" }
+    ],
+    "warn": [
+      "ragweed は『秋の花粉症の主因となる雑草（ブタクサ）』。ragged（ぎざぎざの）＋ weed（雑草）から。",
+      "見た目の似た goldenrod（アキノキリンソウ）と混同されやすいが、花粉症の主因は ragweed。"
+    ],
+    "etym_note": "ragged（ぎざぎざの・ぼろぼろの）＋ weed（雑草）から成り、「ぎざぎざの葉をもつ雑草」を意味します。葉が深く切れ込んだ形をしていることに由来します。",
+    "etym_chain": [
+      { "node": "ragged + weed", "sub": "ぎざぎざの＋雑草", "era": "近代英語" },
+      { "node": "ragweed", "sub": "ぎざぎざの雑草", "era": "近代英語" },
+      { "node": "ragweed", "sub": "ブタクサ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "ragweed pollen", "ja": "ブタクサの花粉" },
+      { "en": "allergic to ragweed", "ja": "ブタクサにアレルギーのある" },
+      { "en": "ragweed season", "ja": "ブタクサの花粉の季節" },
+      { "en": "a patch of ragweed", "ja": "ブタクサの一群" },
+      { "en": "ragweed allergy", "ja": "ブタクサアレルギー" },
+      { "en": "pull up ragweed", "ja": "ブタクサを引き抜く" }
+    ],
+    "related": [
+      { "en": "pollen", "ja": "花粉" },
+      { "en": "hay fever", "ja": "花粉症・枯草熱" },
+      { "en": "weed", "ja": "雑草" },
+      { "en": "allergy", "ja": "アレルギー" }
+    ],
+    "faq": [
+      { "q": "ragweed とはどんな意味？", "a": "ぎざぎざの葉をもち、秋に大量の花粉を飛ばして花粉症（枯草熱）の主な原因となる雑草『ブタクサ』のことです。" },
+      { "q": "ragweed の語源は？", "a": "ragged（ぎざぎざの）＋ weed（雑草）です。葉が深く切れ込んだぎざぎざの形をしていることに由来します。" }
+    ],
+    "quiz": [
+      { "q": "Many people are allergic to ___ pollen.（ブタクサ）", "A": "ragweed", "B": "seaweed の海藻", "C": "ragtime のラグタイム", "D": "ragout の煮込み", "correct": "A" },
+      { "q": "ragweed が引き起こすのはどれ？", "A": "花粉症（枯草熱）", "B": "食中毒", "C": "日焼け", "D": "むし歯", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reedy",
+    "pron": "ˈriːdi",
+    "kana": "リーディー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "reed（アシ）＋ -y",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "描写"],
+    "meaning_main": "アシの茂った／（声・音が）甲高く細い・かぼそい",
+    "description": "reedy の意味・発音・例文・語源を解説。アシが「茂った」、また声や音が「甲高く細い・かぼそい」という描写語の使い方を分かりやすく紹介します。",
+    "keywords": ["reedy 意味", "reedy 発音", "reedy 甲高い", "reedy 声"],
+    "meanings": [
+      { "hinshi": "【形容詞】アシの茂った・アシの多い", "note": "水辺にアシ（reed）が多く生えているようす。a reedy pond（アシの茂る池）。" },
+      { "hinshi": "【形容詞】（声・音が）甲高く細い・かぼそい", "note": "アシ笛のように細く高い音色。a reedy voice（かぼそく甲高い声）。" }
+    ],
+    "usages": [
+      { "title": "① 「アシの茂った」として", "desc": "水辺にアシが多いようすです。", "example_en": "Birds nested in the reedy marsh.", "example_ja": "鳥がアシの茂る湿地に巣を作った。" },
+      { "title": "② 「甲高く細い声」として", "desc": "細く高い声や音色を表します。", "example_en": "He spoke in a thin, reedy voice.", "example_ja": "彼は細く甲高い声で話した。" }
+    ],
+    "warn": [
+      "reedy は『アシの茂った』と『（アシ笛のように）甲高く細い声・音』の両方で使う。",
+      "reed（アシ・木管楽器のリード）が語源。"
+    ],
+    "etym_note": "reed（アシ・木管楽器の振動板リード）に -y が付いた語です。「アシが多い」のほか、アシ笛やリード楽器のような「細く甲高い音色」を表すようになりました。",
+    "etym_chain": [
+      { "node": "hrēod", "sub": "アシ", "era": "古英語" },
+      { "node": "reed", "sub": "アシ・リード", "era": "中英語" },
+      { "node": "reedy", "sub": "アシの茂った・甲高い", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a reedy voice", "ja": "かぼそく甲高い声" },
+      { "en": "a reedy marsh", "ja": "アシの茂る湿地" },
+      { "en": "a reedy pond", "ja": "アシの茂る池" },
+      { "en": "a thin, reedy sound", "ja": "細く甲高い音" },
+      { "en": "reedy banks", "ja": "アシの茂る岸辺" },
+      { "en": "a reedy tone", "ja": "リードのような細い音色" }
+    ],
+    "related": [
+      { "en": "reed", "ja": "アシ・リード" },
+      { "en": "shrill", "ja": "甲高い・かん高い" },
+      { "en": "thin", "ja": "（声が）細い" },
+      { "en": "marshy", "ja": "湿地の" }
+    ],
+    "faq": [
+      { "q": "reedy とはどんな意味？", "a": "水辺に『アシが茂った』という意味と、声や音が『（アシ笛のように）甲高く細い・かぼそい』という意味があります。a reedy voice（かぼそく甲高い声）のように使います。" },
+      { "q": "reedy の語源は？", "a": "reed（アシ・木管楽器のリード）＋ -y です。アシが多いようすや、リード楽器のような細く甲高い音色を表します。" }
+    ],
+    "quiz": [
+      { "q": "He spoke in a thin, ___ voice.（甲高く細い）", "A": "reedy", "B": "ready の準備できた", "C": "rocky の岩だらけの", "D": "rosy のばら色の", "correct": "A" },
+      { "q": "reedy のもとになった語はどれ？", "A": "reed（アシ）", "B": "read（読む）", "C": "reef（岩礁）", "D": "reel（リール）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rockery",
+    "pron": "ˈrɒkəri",
+    "kana": "ロッカリー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rock（岩）＋ -ery",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "庭・園芸"],
+    "meaning_main": "ロックガーデン・石庭（岩を組んで高山植物などを植えた庭）",
+    "description": "rockery の意味・発音・例文・語源を解説。岩を組み合わせて高山植物などを植えた庭「ロックガーデン・石庭」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["rockery 意味", "rockery 発音", "rockery ロックガーデン", "rockery 石庭"],
+    "meanings": [
+      { "hinshi": "【名詞】ロックガーデン・石庭", "note": "岩や石を組み合わせ、すきまに高山植物・多肉植物などを植えた庭。rock garden ともいう。" }
+    ],
+    "usages": [
+      { "title": "① 庭の様式として", "desc": "岩を組んで植物を植えた庭を指します。", "example_en": "They built a rockery in the back garden.", "example_ja": "彼らは裏庭にロックガーデンを作った。" },
+      { "title": "② 植栽の場として", "desc": "高山植物などを植える場所を表します。", "example_en": "Alpine plants grow well in a rockery.", "example_ja": "高山植物はロックガーデンでよく育つ。" }
+    ],
+    "warn": [
+      "rockery は『岩を組んで植物を植えた庭（ロックガーデン）』。rock garden と同義で、主にイギリス英語。",
+      "rocket（ロケット）, rookery（繁殖地）とつづりが似るが別語。"
+    ],
+    "etym_note": "rock（岩）に「場所・集まり」を表す -ery が付いた語で、「岩を集めた場所＝石庭」を意味します。19世紀の園芸の流行とともに広まりました。",
+    "etym_chain": [
+      { "node": "rock + -ery", "sub": "岩＋場所", "era": "近代英語" },
+      { "node": "rockery", "sub": "岩を組んだ庭", "era": "近代英語" },
+      { "node": "rockery", "sub": "ロックガーデン", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "build a rockery", "ja": "ロックガーデンを作る" },
+      { "en": "an alpine rockery", "ja": "高山植物のロックガーデン" },
+      { "en": "plants in the rockery", "ja": "石庭の植物" },
+      { "en": "a small rockery", "ja": "小さな石庭" },
+      { "en": "a rockery garden", "ja": "ロックガーデン" },
+      { "en": "tend the rockery", "ja": "石庭の手入れをする" }
+    ],
+    "related": [
+      { "en": "rock garden", "ja": "ロックガーデン" },
+      { "en": "alpine plant", "ja": "高山植物" },
+      { "en": "garden", "ja": "庭" },
+      { "en": "landscaping", "ja": "造園" }
+    ],
+    "faq": [
+      { "q": "rockery とはどんな意味？", "a": "岩や石を組み合わせ、そのすきまに高山植物や多肉植物などを植えた庭『ロックガーデン・石庭』のことです。rock garden とも言います。" },
+      { "q": "rockery と rookery の違いは？", "a": "rockery は『岩を組んだ庭（ロックガーデン）』、rookery は『鳥や海獣の集団繁殖地』です。つづりは似ていますが意味は別です。" }
+    ],
+    "quiz": [
+      { "q": "They built a ___ in the back garden.（ロックガーデン）", "A": "rockery", "B": "rookery の繁殖地", "C": "rocketry のロケット工学", "D": "rockabilly のロカビリー", "correct": "A" },
+      { "q": "rockery とほぼ同じ意味なのは？", "A": "rock garden（ロックガーデン）", "B": "vegetable patch（菜園）", "C": "greenhouse（温室）", "D": "lawn（芝生）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ruck",
+    "pron": "rʌk",
+    "kana": "ラック",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古ノルド語 hrúga（積み重ね）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "スポーツ"],
+    "meaning_main": "（ラグビーの）ラック・密集／（the ruck で）有象無象・大衆",
+    "description": "ruck の意味・発音・例文・語源を解説。ラグビーで選手が密集して球を奪い合う「ラック」や、平凡な「有象無象・群れ」を表す語の使い方を紹介します。",
+    "keywords": ["ruck 意味", "ruck 発音", "ruck ラグビー", "ruck 密集"],
+    "meanings": [
+      { "hinshi": "【名詞】（ラグビーの）ラック", "note": "地面のボールの上に両チームの選手が組み合って密集し、足で球を奪い合う局面。" },
+      { "hinshi": "【名詞】（the ruck で）有象無象・平凡な群れ", "note": "目立たない大勢。rise above the ruck（並の中から抜け出す）。" }
+    ],
+    "usages": [
+      { "title": "① 「ラグビーのラック」として", "desc": "選手が密集して球を奪い合う局面です。", "example_en": "The ball came out of the ruck quickly.", "example_ja": "ボールはラックから素早く出てきた。" },
+      { "title": "② 「有象無象」として", "desc": "目立たない大勢を表します。", "example_en": "She stood out from the ruck of competitors.", "example_ja": "彼女は並いる競争相手の中で際立っていた。" }
+    ],
+    "warn": [
+      "ruck はラグビー用語の『ラック（密集）』が代表的。the ruck で『有象無象・平凡な群れ』の意味もある。",
+      "似た局面 maul（モール）は『球を持ったまま立って組む』点でラックと違う。"
+    ],
+    "etym_note": "古ノルド語 hrúga（積み重ね・山）に由来し、もとは「（雑多に）積み重なったもの・群れ」を意味しました。そこからラグビーで選手が積み重なる「ラック」の意味が生まれました。",
+    "etym_chain": [
+      { "node": "hrúga", "sub": "積み重ね", "era": "古ノルド語" },
+      { "node": "ruck", "sub": "群れ・山", "era": "中英語" },
+      { "node": "ruck", "sub": "ラック・有象無象", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "form a ruck", "ja": "ラックを形成する" },
+      { "en": "out of the ruck", "ja": "ラックから（球が出る）" },
+      { "en": "win the ruck", "ja": "ラックを制する" },
+      { "en": "rise above the ruck", "ja": "並の中から抜け出す" },
+      { "en": "the ruck of players", "ja": "選手の密集" },
+      { "en": "ruck and maul", "ja": "ラックとモール" }
+    ],
+    "related": [
+      { "en": "scrum", "ja": "スクラム" },
+      { "en": "maul", "ja": "モール" },
+      { "en": "rugby", "ja": "ラグビー" },
+      { "en": "pile", "ja": "積み重なり" }
+    ],
+    "faq": [
+      { "q": "ruck とはどんな意味？", "a": "ラグビーで地面のボールの上に両チームの選手が組み合って密集し、足で球を奪い合う局面『ラック』のことです。the ruck で『有象無象・平凡な群れ』も表します。" },
+      { "q": "ruck と maul の違いは？", "a": "ruck（ラック）は『地面のボールをめぐって密集する』局面、maul（モール）は『ボールを持った選手を立ったまま組んで押し合う』局面です。" }
+    ],
+    "quiz": [
+      { "q": "The ball came out of the ___ quickly.（ラック）", "A": "ruck", "B": "rack の棚", "C": "rock の岩", "D": "rink のリンク", "correct": "A" },
+      { "q": "rise above the ruck の意味はどれ？", "A": "並の中から抜け出す", "B": "群れに加わる", "C": "試合に負ける", "D": "けんかする", "correct": "A" }
+    ]
+  },
+  {
+    "english": "raglan",
+    "pron": "ˈræɡlən",
+    "kana": "ラグラン",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "人名 Lord Raglan（ラグラン卿）より",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "ファッション"],
+    "meaning_main": "ラグラン袖の（袖が襟ぐりまで一続きの仕立て）／ラグラン袖の衣服",
+    "description": "raglan の意味・発音・例文・語源を解説。袖が肩から襟ぐりまで一続きになった「ラグラン袖（の衣服）」を指す、人名由来の語の使い方を紹介します。",
+    "keywords": ["raglan 意味", "raglan 発音", "raglan 袖", "raglan sleeve 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】ラグラン袖の", "note": "袖が肩の縫い目をまたがず、襟ぐりまで斜めに一続きになった仕立て。a raglan sleeve（ラグラン袖）。" },
+      { "hinshi": "【名詞】ラグラン袖の衣服・コート", "note": "そのような袖をもつコートやセーター。" }
+    ],
+    "usages": [
+      { "title": "① 「ラグラン袖の」として", "desc": "襟ぐりまで一続きの袖の仕立てを表します。", "example_en": "The sweater has comfortable raglan sleeves.", "example_ja": "そのセーターは着心地のよいラグラン袖だ。" },
+      { "title": "② 衣服として", "desc": "そのデザインの服を指します。", "example_en": "He wore a raglan coat against the cold.", "example_ja": "彼は寒さ対策にラグランコートを着ていた。" }
+    ],
+    "warn": [
+      "raglan は『袖が襟ぐりまで斜めに一続きの仕立て（ラグラン袖）』。肩に縫い目がない点が普通の袖と違う。",
+      "人名 Lord Raglan（ラグラン卿）に由来する語。"
+    ],
+    "etym_note": "クリミア戦争のイギリス軍司令官ラグラン卿（Lord Raglan）にちなむ語です。片腕を失った彼が着やすいよう仕立てさせた、肩の縫い目のない袖の外套から名づけられました。",
+    "etym_chain": [
+      { "node": "Lord Raglan", "sub": "ラグラン卿（人名）", "era": "19世紀" },
+      { "node": "raglan", "sub": "ラグラン袖", "era": "近代英語" },
+      { "node": "raglan", "sub": "ラグラン袖の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "raglan sleeves", "ja": "ラグラン袖" },
+      { "en": "a raglan coat", "ja": "ラグランコート" },
+      { "en": "a raglan sweater", "ja": "ラグラン袖のセーター" },
+      { "en": "raglan-sleeved", "ja": "ラグラン袖の" },
+      { "en": "a raglan design", "ja": "ラグランのデザイン" },
+      { "en": "comfortable raglan fit", "ja": "ラグランの楽な着心地" }
+    ],
+    "related": [
+      { "en": "sleeve", "ja": "袖" },
+      { "en": "set-in sleeve", "ja": "セットインスリーブ（普通の袖）" },
+      { "en": "garment", "ja": "衣服" },
+      { "en": "tailoring", "ja": "仕立て" }
+    ],
+    "faq": [
+      { "q": "raglan とはどんな意味？", "a": "袖が肩の縫い目をまたがず、襟ぐりまで斜めに一続きになった仕立て『ラグラン袖（の衣服）』のことです。a raglan sleeve のように使います。" },
+      { "q": "raglan の語源は？", "a": "クリミア戦争のイギリス軍司令官ラグラン卿（Lord Raglan）にちなみます。片腕を失った彼のために作られた、肩の縫い目のない袖の外套が由来です。" }
+    ],
+    "quiz": [
+      { "q": "The sweater has comfortable ___ sleeves.（ラグラン）", "A": "raglan", "B": "raglak", "C": "rattan の籐", "D": "ribbon のリボン", "correct": "A" },
+      { "q": "raglan の語源はどれ？", "A": "人名（ラグラン卿）", "B": "地名", "C": "動物名", "D": "色の名", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rennet",
+    "pron": "ˈrenɪt",
+    "kana": "レネット",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "中英語 rennen（凝固させる）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "食品・科学"],
+    "meaning_main": "レンネット（牛乳を固めてチーズを作るのに使う凝乳酵素）",
+    "description": "rennet の意味・発音・例文・語源を解説。牛乳を固めてチーズを作るのに使う凝乳酵素「レンネット」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["rennet 意味", "rennet 発音", "rennet チーズ", "rennet 凝乳"],
+    "meanings": [
+      { "hinshi": "【名詞】レンネット（凝乳酵素）", "note": "牛などの胃から得られる、牛乳を凝固させる酵素。チーズ作りに使う。" }
+    ],
+    "usages": [
+      { "title": "① チーズ作りで", "desc": "牛乳を固める酵素を指します。", "example_en": "Rennet is added to milk to make cheese.", "example_ja": "チーズを作るため牛乳にレンネットを加える。" },
+      { "title": "② 種類を区別して", "desc": "動物性・植物性などの種類があります。", "example_en": "This cheese is made with vegetable rennet.", "example_ja": "このチーズは植物性レンネットで作られている。" }
+    ],
+    "warn": [
+      "rennet は『牛乳を固める凝乳酵素』。チーズ作りに不可欠。動物性・微生物・植物性のものがある。",
+      "発音は『レネット（ˈrenɪt）』。"
+    ],
+    "etym_note": "中英語 rennen（流す・凝固させる）に由来し、run（流れる・固まる）と関係する語です。「牛乳を固まらせるもの」を意味します。",
+    "etym_chain": [
+      { "node": "rennen", "sub": "凝固させる", "era": "中英語" },
+      { "node": "rennet", "sub": "凝乳酵素", "era": "近代英語" },
+      { "node": "rennet", "sub": "レンネット", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "add rennet", "ja": "レンネットを加える" },
+      { "en": "vegetable rennet", "ja": "植物性レンネット" },
+      { "en": "animal rennet", "ja": "動物性レンネット" },
+      { "en": "rennet curdles milk", "ja": "レンネットが牛乳を固める" },
+      { "en": "a drop of rennet", "ja": "レンネット1滴" },
+      { "en": "made with rennet", "ja": "レンネットで作られた" }
+    ],
+    "related": [
+      { "en": "curd", "ja": "凝乳・カード" },
+      { "en": "cheese", "ja": "チーズ" },
+      { "en": "enzyme", "ja": "酵素" },
+      { "en": "curdle", "ja": "凝固する" }
+    ],
+    "faq": [
+      { "q": "rennet とはどんな意味？", "a": "牛などの胃から得られ、牛乳を固めてチーズを作るのに使う『凝乳酵素（レンネット）』のことです。動物性・植物性・微生物由来のものがあります。" },
+      { "q": "rennet は何に使う？", "a": "チーズ作りで牛乳を凝固させて『カード（凝乳）』を作るのに使います。これがチーズのもとになります。" }
+    ],
+    "quiz": [
+      { "q": "___ is added to milk to make cheese.（レンネット）", "A": "Rennet", "B": "Rocket のロケット", "C": "Ribbon のリボン", "D": "Racket のラケット", "correct": "A" },
+      { "q": "rennet の働きはどれ？", "A": "牛乳を固める", "B": "牛乳を温める", "C": "牛乳を甘くする", "D": "牛乳を冷やす", "correct": "A" }
+    ]
+  },
+  {
+    "english": "redux",
+    "pron": "ˈriːdʌks",
+    "kana": "リダックス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 redux（連れ戻された）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "文章語"],
+    "meaning_main": "（名詞の後ろで）再現された・復活した・再び戻ってきた",
+    "description": "redux の意味・発音・例文・語源を解説。名詞の後ろに置いて「再現された・復活した・再び戻ってきた」を表す、タイトルなどで使う語の使い方を紹介します。",
+    "keywords": ["redux 意味", "redux 発音", "redux 復活", "redux 使い方"],
+    "meanings": [
+      { "hinshi": "【形容詞】再現された・復活した・再び戻ってきた", "note": "ふつう名詞の後ろに置く。the 1980s redux（よみがえった1980年代）。作品の改訂版・復活版の題にも使う。" }
+    ],
+    "usages": [
+      { "title": "① 「復活した・再来の」として", "desc": "再び戻ってきたものを表します。", "example_en": "Critics called the film disco redux.", "example_ja": "批評家はその映画をディスコの再来と呼んだ。" },
+      { "title": "② 改訂版・再構成版の題として", "desc": "作品名の後ろにつけて使います。", "example_en": "The director released the movie as a redux version.", "example_ja": "監督はその映画を再構成版として公開した。" }
+    ],
+    "warn": [
+      "redux はふつう名詞の後ろに置く後置修飾の形容詞。『〜の再来・復活版』を表す文章語・題名表現。",
+      "発音は『リダックス（ˈriːdʌks）』。reduce（減らす）とは無関係。"
+    ],
+    "etym_note": "ラテン語 redux（reducere「連れ戻す」より＝連れ戻された・帰還した）に由来します。「再び戻ってきた」が原義で、作品の改訂版や時代の再来を表す語として使われます。",
+    "etym_chain": [
+      { "node": "reducere", "sub": "連れ戻す", "era": "ラテン語" },
+      { "node": "redux", "sub": "連れ戻された", "era": "ラテン語" },
+      { "node": "redux", "sub": "再現された・復活した", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the sixties redux", "ja": "よみがえった60年代" },
+      { "en": "a redux version", "ja": "再構成版" },
+      { "en": "history redux", "ja": "繰り返される歴史" },
+      { "en": "disco redux", "ja": "ディスコの再来" },
+      { "en": "the franchise redux", "ja": "復活したシリーズ" },
+      { "en": "an era redux", "ja": "ある時代の再来" }
+    ],
+    "related": [
+      { "en": "revival", "ja": "復活・再来" },
+      { "en": "reboot", "ja": "作り直し・リブート" },
+      { "en": "comeback", "ja": "返り咲き" },
+      { "en": "reprise", "ja": "再演・繰り返し" }
+    ],
+    "faq": [
+      { "q": "redux とはどんな意味？", "a": "名詞の後ろに置いて『再現された・復活した・再び戻ってきた』を表す形容詞です。the sixties redux（よみがえった60年代）のように使い、作品の改訂版・復活版の題名にも用います。" },
+      { "q": "redux はどこに置く？", "a": "ふつう修飾する名詞の後ろに置きます（後置修飾）。例: Apocalypse Now Redux のように作品名の後ろにつけます。" }
+    ],
+    "quiz": [
+      { "q": "Critics called the film disco ___.（再来）", "A": "redux", "B": "reduce の減らす", "C": "redo のやり直す", "D": "reflux の逆流", "correct": "A" },
+      { "q": "redux の語源の意味はどれ？", "A": "連れ戻された・帰還した", "B": "押し下げられた", "C": "引き裂かれた", "D": "数えられた", "correct": "A" }
+    ]
+  }
+]

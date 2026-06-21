@@ -1,0 +1,530 @@
+[
+  {
+    "english": "rabid",
+    "pron": "ˈræbɪd",
+    "kana": "ラビッド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 rabidus（猛り狂った）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "描写"],
+    "meaning_main": "狂犬病にかかった／（信念・態度が）狂信的な・過激な",
+    "description": "rabid の意味・発音・例文・語源を解説。動物が「狂犬病の」、また人が「狂信的・過激な」という強い描写語の使い方を分かりやすく紹介します。",
+    "keywords": ["rabid 意味", "rabid 発音", "rabid 狂信的", "rabid 狂犬病"],
+    "meanings": [
+      { "hinshi": "【形容詞】狂犬病にかかった", "note": "犬などが狂犬病に感染した状態。a rabid dog（狂犬病の犬）。" },
+      { "hinshi": "【形容詞】（信念・態度が）狂信的な・過激な", "note": "極端で抑えのきかないようす。a rabid fan（熱狂的すぎるファン）。" }
+    ],
+    "usages": [
+      { "title": "① 「狂犬病の」として", "desc": "動物が狂犬病にかかった状態を表します。", "example_en": "They warned us about a rabid fox in the area.", "example_ja": "その地域に狂犬病のキツネがいると警告された。" },
+      { "title": "② 「狂信的な・過激な」として", "desc": "極端で抑えのきかない態度を表します。", "example_en": "He is a rabid supporter of the team.", "example_ja": "彼はそのチームの熱狂的すぎる支持者だ。" }
+    ],
+    "warn": [
+      "rabid は『狂犬病の』が原義。人について使うと『狂信的・過激な』という強い否定的な意味になる。",
+      "rapid（速い）とつづり・発音が似るが別語。rabid は b、rapid は p。"
+    ],
+    "etym_note": "ラテン語 rabidus（猛り狂った・激怒した）に由来し、動詞 rabere（荒れ狂う）から来ています。rage（激怒）とも語源を共有し、「制御を失って荒れ狂う」が原義です。",
+    "etym_chain": [
+      { "node": "rabere", "sub": "荒れ狂う", "era": "ラテン語" },
+      { "node": "rabidus", "sub": "猛り狂った", "era": "ラテン語" },
+      { "node": "rabid", "sub": "狂犬病の・狂信的な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rabid dog", "ja": "狂犬病の犬" },
+      { "en": "a rabid fan", "ja": "熱狂的すぎるファン" },
+      { "en": "rabid supporters", "ja": "狂信的な支持者" },
+      { "en": "a rabid nationalist", "ja": "過激な国粋主義者" },
+      { "en": "rabid enthusiasm", "ja": "常軌を逸した熱狂" },
+      { "en": "go rabid", "ja": "狂ったようになる" }
+    ],
+    "related": [
+      { "en": "fanatical", "ja": "狂信的な" },
+      { "en": "frenzied", "ja": "逆上した" },
+      { "en": "zealous", "ja": "熱狂的な" },
+      { "en": "rabies", "ja": "狂犬病（名詞）" }
+    ],
+    "faq": [
+      { "q": "rabid とはどんな意味？", "a": "動物が『狂犬病にかかった』という意味と、人が『狂信的・過激な』という意味があります。後者は a rabid fan（熱狂的すぎるファン）のように否定的に使います。" },
+      { "q": "rabid と rapid の違いは？", "a": "rabid は『狂犬病の・狂信的な』、rapid は『速い』です。つづりは b と p の一字違い、意味はまったく異なるので注意しましょう。" }
+    ],
+    "quiz": [
+      { "q": "He is a ___ supporter of the team.（狂信的な）", "A": "rabid", "B": "rapid の速い", "C": "rigid のかたい", "D": "rugged のごつごつした", "correct": "A" },
+      { "q": "rabid の名詞形（病名）はどれ？", "A": "rabies（狂犬病）", "B": "rabbit（うさぎ）", "C": "rapids（急流）", "D": "ribbon（リボン）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "racy",
+    "pron": "ˈreɪsi",
+    "kana": "レイシー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "race（持ち味・血統）＋ -y",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "描写"],
+    "meaning_main": "きわどい・きわどくおもしろい／生き生きした・小気味よい",
+    "description": "racy の意味・発音・例文・語源を解説。話や描写が「きわどい・刺激的な」、文章や味が「生き生きした・小気味よい」という使い方を紹介します。",
+    "keywords": ["racy 意味", "racy 発音", "racy きわどい", "racy 刺激的"],
+    "meanings": [
+      { "hinshi": "【形容詞】きわどい・(性的に)際どくおもしろい", "note": "下品すれすれで刺激的なようす。a racy joke（きわどい冗談）。" },
+      { "hinshi": "【形容詞】生き生きした・小気味よい・歯切れのよい", "note": "文章・語り口・味などが活気にあふれるようす。a racy style（生き生きした文体）。" }
+    ],
+    "usages": [
+      { "title": "① 「きわどい・刺激的な」として", "desc": "下品すれすれで刺激的なようすを表します。", "example_en": "The novel is famous for its racy scenes.", "example_ja": "その小説はきわどい場面で有名だ。" },
+      { "title": "② 「生き生きした・小気味よい」として", "desc": "文章や語り口が活気にあふれるようすです。", "example_en": "She writes in a racy, witty style.", "example_ja": "彼女は生き生きとして機知に富んだ文体で書く。" }
+    ],
+    "warn": [
+      "racy は文脈で『きわどい（やや下品）』にも『生き生きした』にもなる。多くは『刺激的でおもしろい』ニュアンス。",
+      "race（競走・人種）の派生だが意味は離れている。racy ＝『持ち味のある→刺激的な』。"
+    ],
+    "etym_note": "race（血統・持ち味・特有の風味）に -y が付いた語です。もとは「血統のよさ・特有の風味がある」を意味し、そこから「生き生きとして刺激的な」という意味に広がりました。",
+    "etym_chain": [
+      { "node": "razza", "sub": "血統・種族", "era": "イタリア語" },
+      { "node": "race", "sub": "持ち味・風味", "era": "近代英語" },
+      { "node": "racy", "sub": "きわどい・生き生きした", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a racy joke", "ja": "きわどい冗談" },
+      { "en": "racy scenes", "ja": "きわどい場面" },
+      { "en": "a racy novel", "ja": "刺激的な小説" },
+      { "en": "a racy style", "ja": "生き生きした文体" },
+      { "en": "racy humor", "ja": "きわどいユーモア" },
+      { "en": "a racy story", "ja": "きわどくおもしろい話" }
+    ],
+    "related": [
+      { "en": "risqué", "ja": "きわどい・際どい" },
+      { "en": "spicy", "ja": "刺激的な・きわどい" },
+      { "en": "lively", "ja": "生き生きした" },
+      { "en": "saucy", "ja": "小生意気な・きわどい" }
+    ],
+    "faq": [
+      { "q": "racy とはどんな意味？", "a": "話や描写が『きわどい・性的に刺激的でおもしろい』という意味と、文章や語り口が『生き生きして小気味よい』という意味があります。" },
+      { "q": "racy と racing は関係ある？", "a": "つづりは似ていますが意味は別です。racy は『きわどい・生き生きした』、racing は『競走（の）』です。混同しないようにしましょう。" }
+    ],
+    "quiz": [
+      { "q": "The novel is famous for its ___ scenes.（きわどい）", "A": "racy", "B": "rainy の雨の", "C": "rocky の岩だらけの", "D": "rusty のさびた", "correct": "A" },
+      { "q": "racy に近い意味はどれ？", "A": "risqué（きわどい）", "B": "boring（退屈な）", "C": "gentle（穏やかな）", "D": "plain（地味な）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ragtag",
+    "pron": "ˈrægtæg",
+    "kana": "ラグタグ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "rag（ぼろ）＋ tag（端切れ）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "描写"],
+    "meaning_main": "寄せ集めの・雑多な・ふぞろいの（だらしない集団）",
+    "description": "ragtag の意味・発音・例文・語源を解説。統一感のない「寄せ集めの・雑多な」人や物の集まりを表す描写語の使い方を分かりやすく紹介します。",
+    "keywords": ["ragtag 意味", "ragtag 発音", "ragtag 寄せ集め", "ragtag 雑多"],
+    "meanings": [
+      { "hinshi": "【形容詞】寄せ集めの・雑多な・ふぞろいの", "note": "まとまりがなく雑多に集まったようす。a ragtag group（寄せ集めの集団）。" }
+    ],
+    "usages": [
+      { "title": "① 「寄せ集めの集団」として", "desc": "統一感なく集まった人々を表します。", "example_en": "A ragtag group of volunteers showed up.", "example_ja": "雑多な寄せ集めのボランティアたちが現れた。" },
+      { "title": "② 「ふぞろいの軍勢」として", "desc": "装備や見た目がそろわない一団を表します。", "example_en": "They formed a ragtag army of rebels.", "example_ja": "彼らは寄せ集めの反乱軍をつくった。" }
+    ],
+    "warn": [
+      "ragtag は『まとまりがなく雑多に集まった』。しばしば ragtag band / group / army の形で使う。",
+      "強調して ragtag and bobtail（有象無象）という古い言い方もある。"
+    ],
+    "etym_note": "rag（ぼろ布）＋ tag（端切れ・垂れ）を重ねた語で、「ぼろや端切れの寄せ集め」が原義です。そこから「統一感のない雑多な集まり」を表すようになりました。",
+    "etym_chain": [
+      { "node": "rag + tag", "sub": "ぼろ＋端切れ", "era": "近代英語" },
+      { "node": "ragtag", "sub": "ぼろの寄せ集め", "era": "近代英語" },
+      { "node": "ragtag", "sub": "寄せ集めの・雑多な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a ragtag group", "ja": "寄せ集めの集団" },
+      { "en": "a ragtag army", "ja": "寄せ集めの軍勢" },
+      { "en": "a ragtag band", "ja": "雑多な一団" },
+      { "en": "a ragtag crew", "ja": "ふぞろいの一行" },
+      { "en": "ragtag and bobtail", "ja": "有象無象" },
+      { "en": "a ragtag collection", "ja": "雑多な寄せ集め" }
+    ],
+    "related": [
+      { "en": "motley", "ja": "雑多な・寄せ集めの" },
+      { "en": "mismatched", "ja": "ちぐはぐな" },
+      { "en": "disorganized", "ja": "まとまりのない" },
+      { "en": "assorted", "ja": "いろいろな" }
+    ],
+    "faq": [
+      { "q": "ragtag とはどんな意味？", "a": "まとまりがなく『寄せ集めの・雑多な・ふぞろいの』ようすを表す形容詞です。a ragtag group of volunteers（寄せ集めのボランティア集団）のように使います。" },
+      { "q": "ragtag と motley の違いは？", "a": "どちらも『雑多な寄せ集めの』ですが、motley は『種類がいろいろ混ざった』、ragtag は『まとまりがなくだらしない』ニュアンスがやや強いです。" }
+    ],
+    "quiz": [
+      { "q": "A ___ group of volunteers showed up.（寄せ集めの）", "A": "ragtag", "B": "ragged のぼろぼろの", "C": "rugged のごつごつした", "D": "rigid のかたい", "correct": "A" },
+      { "q": "ragtag に近い意味はどれ？", "A": "motley（雑多な）", "B": "uniform（均一の）", "C": "orderly（整然とした）", "D": "matching（そろいの）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "regal",
+    "pron": "ˈriːɡəl",
+    "kana": "リーガル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 regalis（王の）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "描写"],
+    "meaning_main": "王の・王にふさわしい／堂々とした・気高い・豪華な",
+    "description": "regal の意味・発音・例文・語源を解説。「王の・王にふさわしい」、また態度や見た目が「堂々として気高い」という描写語の使い方を紹介します。",
+    "keywords": ["regal 意味", "regal 発音", "regal 堂々とした", "regal 王の"],
+    "meanings": [
+      { "hinshi": "【形容詞】王の・王にふさわしい", "note": "王や王族に関する、王者らしい。regal power（王権）。" },
+      { "hinshi": "【形容詞】堂々とした・気高い・豪華な", "note": "王のように威厳がある。a regal manner（堂々とした物腰）。" }
+    ],
+    "usages": [
+      { "title": "① 「王の・王にふさわしい」として", "desc": "王や王族にふさわしいようすを表します。", "example_en": "She wore a regal crown of gold.", "example_ja": "彼女は王にふさわしい金の冠をかぶっていた。" },
+      { "title": "② 「堂々とした・気高い」として", "desc": "王のような威厳ある態度を表します。", "example_en": "He greeted the guests with regal dignity.", "example_ja": "彼は王者のような威厳で客を迎えた。" }
+    ],
+    "warn": [
+      "regal は『王の・王者らしく堂々とした』というほめ言葉。royal（王室の）より「威厳・気品」の含みが強い。",
+      "legal（法律の）とつづり・発音が似るが別語。regal は r、legal は l。"
+    ],
+    "etym_note": "ラテン語 regalis（王の）に由来し、rex（王）から来ています。royal（王室の）や reign（治世）と同じ語根で、「王にふさわしい威厳」を表します。",
+    "etym_chain": [
+      { "node": "rex", "sub": "王", "era": "ラテン語" },
+      { "node": "regalis", "sub": "王の", "era": "ラテン語" },
+      { "node": "regal", "sub": "王の・堂々とした", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a regal manner", "ja": "堂々とした物腰" },
+      { "en": "regal dignity", "ja": "王者のような威厳" },
+      { "en": "a regal bearing", "ja": "気高い立ち居振る舞い" },
+      { "en": "regal splendor", "ja": "王者の豪華さ" },
+      { "en": "look regal", "ja": "堂々として見える" },
+      { "en": "a regal robe", "ja": "王にふさわしい衣" }
+    ],
+    "related": [
+      { "en": "royal", "ja": "王室の" },
+      { "en": "majestic", "ja": "雄大な・荘厳な" },
+      { "en": "stately", "ja": "威厳のある" },
+      { "en": "dignified", "ja": "品位のある" }
+    ],
+    "faq": [
+      { "q": "regal とはどんな意味？", "a": "『王の・王にふさわしい』という意味と、態度や見た目が『堂々として気高い・豪華な』という意味があります。a regal manner（堂々とした物腰）のように使います。" },
+      { "q": "regal と royal の違いは？", "a": "royal は『王室・王家に属する』という事実を表し、regal は『王のように威厳があって堂々とした』という様子・印象を表します。" }
+    ],
+    "quiz": [
+      { "q": "He greeted the guests with ___ dignity.（王者のような）", "A": "regal", "B": "legal の法律の", "C": "regular の規則的な", "D": "rural の田舎の", "correct": "A" },
+      { "q": "regal と同じ語源なのは？", "A": "royal（王室の）", "B": "legal（法律の）", "C": "local（地元の）", "D": "loyal（忠実な）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "raspy",
+    "pron": "ˈræspi",
+    "kana": "ラスピー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "rasp（ヤスリでこする）＋ -y",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "描写"],
+    "meaning_main": "（声が）しわがれた・ざらついた／こすれるような",
+    "description": "raspy の意味・発音・例文・語源を解説。声が「しわがれた・ざらついた」、音が「こすれるような」という描写語の使い方を分かりやすく紹介します。",
+    "keywords": ["raspy 意味", "raspy 発音", "raspy しわがれ声", "raspy 声"],
+    "meanings": [
+      { "hinshi": "【形容詞】（声が）しわがれた・ざらついた", "note": "ヤスリでこするようにかすれてざらつく声。a raspy voice（しわがれ声）。" },
+      { "hinshi": "【形容詞】こすれるような（音が荒い）", "note": "ざらざらと耳ざわりな音。" }
+    ],
+    "usages": [
+      { "title": "① 「しわがれた声」として", "desc": "かすれてざらついた声を表します。", "example_en": "The old singer had a raspy voice.", "example_ja": "その年老いた歌手はしわがれた声をしていた。" },
+      { "title": "② 「こすれるような音」として", "desc": "ざらざらと荒い音を表します。", "example_en": "He let out a raspy cough.", "example_ja": "彼はざらついた咳をした。" }
+    ],
+    "warn": [
+      "raspy は主に『声がしわがれてざらつく』ようす。風邪・喫煙・年齢などで使うことが多い。",
+      "rasp（ヤスリ・ヤスリでこする）が語源。『ヤスリのようにざらつく』イメージ。"
+    ],
+    "etym_note": "rasp（粗いヤスリ・ヤスリでこする）に -y が付いた語で、「ヤスリでこするようにざらついた」が原義です。rasp は古フランス語 rasper（ひっかく・削る）に由来します。",
+    "etym_chain": [
+      { "node": "rasper", "sub": "ひっかく・削る", "era": "古フランス語" },
+      { "node": "rasp", "sub": "ヤスリでこする", "era": "中英語" },
+      { "node": "raspy", "sub": "しわがれた・ざらついた", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a raspy voice", "ja": "しわがれ声" },
+      { "en": "a raspy cough", "ja": "ざらついた咳" },
+      { "en": "a raspy whisper", "ja": "かすれたささやき" },
+      { "en": "sound raspy", "ja": "声がしわがれる" },
+      { "en": "a raspy breath", "ja": "荒い息" },
+      { "en": "a deep, raspy tone", "ja": "低くざらついた声色" }
+    ],
+    "related": [
+      { "en": "hoarse", "ja": "しわがれた" },
+      { "en": "gravelly", "ja": "（声が）低くざらついた" },
+      { "en": "husky", "ja": "ハスキーな" },
+      { "en": "scratchy", "ja": "かすれた・ざらついた" }
+    ],
+    "faq": [
+      { "q": "raspy とはどんな意味？", "a": "声が『しわがれてざらついた』ようすを表す形容詞です。a raspy voice（しわがれ声）のように、風邪・喫煙・年齢などでかすれた声に使います。" },
+      { "q": "raspy と hoarse の違いは？", "a": "どちらも『しわがれた』ですが、hoarse は『（のどを痛めて）かすれた』、raspy は『ヤスリのようにざらざらと荒い』ニュアンスが強いです。" }
+    ],
+    "quiz": [
+      { "q": "The old singer had a ___ voice.（しわがれた）", "A": "raspy", "B": "rapid の速い", "C": "rusty のさびた", "D": "rosy のばら色の", "correct": "A" },
+      { "q": "raspy に近い意味はどれ？", "A": "hoarse（しわがれた）", "B": "clear（澄んだ）", "C": "loud（大きい）", "D": "sweet（甘い）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reshape",
+    "pron": "riːˈʃeɪp",
+    "kana": "リシェイプ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ shape（形づくる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "形を変える・作り変える／（制度などを）作り直す・一新する",
+    "description": "reshape の意味・発音・例文・語源を解説。物の「形を変える」、また社会や制度を「作り直す・一新する」という頻出語の使い方を分かりやすく紹介します。",
+    "keywords": ["reshape 意味", "reshape 発音", "reshape 作り変える", "reshape 一新"],
+    "meanings": [
+      { "hinshi": "【動詞】形を変える・作り変える", "note": "物の形を物理的に変える。reshape the clay（粘土を形づくり直す）。" },
+      { "hinshi": "【動詞】（制度・考えなどを）作り直す・一新する", "note": "社会や仕組みを大きく変える。reshape society（社会を作り変える）。" }
+    ],
+    "usages": [
+      { "title": "① 「形を変える」として", "desc": "物の形を物理的に変える意味です。", "example_en": "She reshaped the dough into a ball.", "example_ja": "彼女は生地を丸い形に作り直した。" },
+      { "title": "② 「（制度などを）一新する」として", "desc": "社会や仕組みを大きく変える比喩です。", "example_en": "The internet has reshaped how we communicate.", "example_ja": "インターネットは私たちの意思疎通のあり方を一変させた。" }
+    ],
+    "warn": [
+      "reshape は物理的な『形を変える』だけでなく、社会・制度・考えを『作り直す・一新する』比喩でも頻出。",
+      "reshape A into B で『AをBの形に作り変える』。"
+    ],
+    "etym_note": "re-（再び）＋ shape（形づくる）から成る語です。shape は古英語 gesceap（形・創造）に由来し、「もう一度形づくる＝作り変える」が原義です。",
+    "etym_chain": [
+      { "node": "gesceap", "sub": "形・創造", "era": "古英語" },
+      { "node": "shape", "sub": "形づくる", "era": "中英語" },
+      { "node": "reshape", "sub": "形を変える・作り直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reshape society", "ja": "社会を作り変える" },
+      { "en": "reshape the industry", "ja": "業界を一新する" },
+      { "en": "reshape A into B", "ja": "AをBの形に作り変える" },
+      { "en": "reshape policy", "ja": "政策を作り直す" },
+      { "en": "completely reshape", "ja": "すっかり作り変える" },
+      { "en": "reshape the future", "ja": "未来を形づくり直す" }
+    ],
+    "related": [
+      { "en": "transform", "ja": "一変させる" },
+      { "en": "remold", "ja": "作り直す" },
+      { "en": "restructure", "ja": "再編する" },
+      { "en": "alter", "ja": "変える" }
+    ],
+    "faq": [
+      { "q": "reshape とはどんな意味？", "a": "物の『形を変える・作り変える』という意味と、社会や制度を『大きく作り直す・一新する』という比喩の意味があります。reshape society（社会を作り変える）のように使います。" },
+      { "q": "reshape と transform の違いは？", "a": "transform は『性質まで変わるほど一変させる』、reshape は『形・構造を作り変える』という違いがあります。重なる場面も多いです。" }
+    ],
+    "quiz": [
+      { "q": "The internet has ___d how we communicate.（一変させた）", "A": "reshape", "B": "resume の再開する", "C": "reserve の予約する", "D": "respect の尊敬する", "correct": "A" },
+      { "q": "「AをBの形に作り変える」を表すのは？", "A": "reshape A into B", "B": "reshape A from B", "C": "reshape A of B", "D": "reshape A by B", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retake",
+    "pron": "riːˈteɪk",
+    "kana": "リテイク",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ take（取る）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "取り戻す・奪い返す／（試験を）受け直す・（写真を）撮り直す",
+    "description": "retake の意味・発音・例文・語源を解説。陣地を「奪い返す」、試験を「受け直す」、写真を「撮り直す」という幅広い使い方を分かりやすく紹介します。",
+    "keywords": ["retake 意味", "retake 発音", "retake 撮り直す", "retake 受け直す"],
+    "meanings": [
+      { "hinshi": "【動詞】取り戻す・奪い返す", "note": "失った場所・地位を再び手にする。retake the city（街を奪還する）。" },
+      { "hinshi": "【動詞】（試験・写真などを）やり直す・撮り直す", "note": "retake an exam（試験を受け直す）。活用は retake-retook-retaken。" },
+      { "hinshi": "【名詞】撮り直し・再試験", "note": "do a retake（撮り直す）。" }
+    ],
+    "usages": [
+      { "title": "① 「奪い返す・取り戻す」として", "desc": "失った場所や地位を再び手にする意味です。", "example_en": "The army retook the captured town.", "example_ja": "軍はその占領された町を奪還した。" },
+      { "title": "② 「受け直す・撮り直す」として", "desc": "試験や写真をやり直す意味です。", "example_en": "He had to retake the driving test.", "example_ja": "彼は運転免許の試験を受け直さねばならなかった。" }
+    ],
+    "warn": [
+      "retake の活用は take と同じ retake-retook-retaken。retaked とはしない。",
+      "名詞の retake は映画・写真の『撮り直し（テイク）』や試験の『再受験』を指す。"
+    ],
+    "etym_note": "re-（再び）＋ take（取る・受ける）から成ります。take は古ノルド語 taka（つかむ・取る）に由来し、「再び取る＝取り戻す・やり直す」の意味になりました。",
+    "etym_chain": [
+      { "node": "taka", "sub": "つかむ・取る", "era": "古ノルド語" },
+      { "node": "take", "sub": "取る・受ける", "era": "中英語" },
+      { "node": "retake", "sub": "取り戻す・やり直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "retake the exam", "ja": "試験を受け直す" },
+      { "en": "retake the city", "ja": "街を奪還する" },
+      { "en": "retake control", "ja": "支配を取り戻す" },
+      { "en": "do a retake", "ja": "撮り直す" },
+      { "en": "retake a photo", "ja": "写真を撮り直す" },
+      { "en": "retake the lead", "ja": "首位を奪い返す" }
+    ],
+    "related": [
+      { "en": "recapture", "ja": "奪還する" },
+      { "en": "reclaim", "ja": "取り戻す" },
+      { "en": "redo", "ja": "やり直す" },
+      { "en": "regain", "ja": "取り戻す" }
+    ],
+    "faq": [
+      { "q": "retake の過去形は？", "a": "take と同じで retake-retook-retaken です。過去形は retook、過去分詞は retaken になります。" },
+      { "q": "retake はどんな場面で使う？", "a": "陣地などを『奪い返す』、試験を『受け直す』、写真や映像を『撮り直す』など幅広く使えます。名詞では『撮り直し・再試験』を指します。" }
+    ],
+    "quiz": [
+      { "q": "He had to ___ the driving test.（受け直す）", "A": "retake", "B": "remake のリメイクする", "C": "remind の思い出させる", "D": "remove の取り除く", "correct": "A" },
+      { "q": "retake の過去形はどれ？", "A": "retook", "B": "retaked", "C": "retaken", "D": "retakes", "correct": "A" }
+    ]
+  },
+  {
+    "english": "revolver",
+    "pron": "rɪˈvɑːlvər",
+    "kana": "リボルバー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "revolve（回転する）＋ -er",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "道具"],
+    "meaning_main": "回転式拳銃（リボルバー）",
+    "description": "revolver の意味・発音・例文・語源を解説。弾倉が回転して連射できる「回転式拳銃（リボルバー）」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["revolver 意味", "revolver 発音", "revolver 拳銃", "revolver リボルバー"],
+    "meanings": [
+      { "hinshi": "【名詞】回転式拳銃（リボルバー）", "note": "回転する弾倉（シリンダー）に複数の弾を入れて連射できる拳銃。" }
+    ],
+    "usages": [
+      { "title": "① 「回転式拳銃」として", "desc": "弾倉が回って連射できる拳銃です。", "example_en": "The detective carried an old revolver.", "example_ja": "その刑事は古い回転式拳銃を持っていた。" },
+      { "title": "② 種類を区別して", "desc": "自動拳銃（pistol）と区別して使います。", "example_en": "A revolver holds six bullets in its cylinder.", "example_ja": "リボルバーは弾倉に6発の弾を装填する。" }
+    ],
+    "warn": [
+      "revolver は『回転式拳銃』。回転する弾倉が特徴で、自動式の pistol とは仕組みが違う。",
+      "動詞 revolve（回転する）＋ -er（〜するもの）。『弾倉が回る銃』が名の由来。"
+    ],
+    "etym_note": "動詞 revolve（re-「再び」＋ volvere「回す」＝回転する）に「〜するもの」の -er が付いた語です。回転する弾倉のしくみから名づけられ、19世紀に実用化されました。",
+    "etym_chain": [
+      { "node": "volvere", "sub": "回す", "era": "ラテン語" },
+      { "node": "revolve", "sub": "回転する", "era": "近代英語" },
+      { "node": "revolver", "sub": "回転式拳銃", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a loaded revolver", "ja": "弾を込めた拳銃" },
+      { "en": "draw a revolver", "ja": "拳銃を抜く" },
+      { "en": "a six-shot revolver", "ja": "6連発のリボルバー" },
+      { "en": "the revolver's cylinder", "ja": "拳銃の回転弾倉" },
+      { "en": "fire a revolver", "ja": "拳銃を撃つ" },
+      { "en": "an antique revolver", "ja": "骨董の回転式拳銃" }
+    ],
+    "related": [
+      { "en": "revolve", "ja": "回転する" },
+      { "en": "pistol", "ja": "拳銃" },
+      { "en": "firearm", "ja": "銃器" },
+      { "en": "cylinder", "ja": "（拳銃の）回転弾倉" }
+    ],
+    "faq": [
+      { "q": "revolver とはどんな意味？", "a": "回転する弾倉（シリンダー）に複数の弾を入れて連射できる『回転式拳銃（リボルバー）』のことです。動詞 revolve（回転する）に由来します。" },
+      { "q": "revolver と pistol の違いは？", "a": "revolver は『弾倉が回転する拳銃』、pistol は拳銃の総称で、特に弾倉が回らない自動式を指すこともあります。" }
+    ],
+    "quiz": [
+      { "q": "The detective carried an old ___.（回転式拳銃）", "A": "revolver", "B": "revolve の回転する", "C": "reviewer の批評家", "D": "receiver の受信機", "correct": "A" },
+      { "q": "revolver のもとになった動詞はどれ？", "A": "revolve（回転する）", "B": "reveal（明かす）", "C": "review（見直す）", "D": "reverse（逆にする）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "roomy",
+    "pron": "ˈruːmi",
+    "kana": "ルーミー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "room（空間）＋ -y",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "基本単語"],
+    "meaning_main": "広々とした・ゆったりした（空間に余裕がある）",
+    "description": "roomy の意味・発音・例文・語源を解説。部屋や車・服などが「広々とした・ゆったりした」という、余裕のある空間を表す語の使い方を紹介します。",
+    "keywords": ["roomy 意味", "roomy 発音", "roomy 広々", "roomy ゆったり"],
+    "meanings": [
+      { "hinshi": "【形容詞】広々とした・ゆったりした", "note": "中の空間に余裕がある。a roomy car（広い車内）、a roomy jacket（ゆったりした上着）。" }
+    ],
+    "usages": [
+      { "title": "① 部屋・車について", "desc": "中の空間が広く余裕があることを表します。", "example_en": "The apartment is small but surprisingly roomy.", "example_ja": "そのアパートは小さいが意外に広々としている。" },
+      { "title": "② 服・かばんについて", "desc": "ゆったりして余裕があることを表します。", "example_en": "I like this bag because it is roomy.", "example_ja": "このかばんは収納が大きいので気に入っている。" }
+    ],
+    "warn": [
+      "roomy は『中の空間がゆったり広い』というほめ言葉。部屋・車・服・かばんなどに使う。",
+      "spacious よりくだけた日常的な語。狭いは cramped。"
+    ],
+    "etym_note": "room（部屋・空間・余地）に「〜の多い」を表す -y が付いた語で、「空間に余裕がある」が原義です。room は古英語 rūm（広い場所）に由来します。",
+    "etym_chain": [
+      { "node": "rūm", "sub": "広い場所", "era": "古英語" },
+      { "node": "room", "sub": "空間・余地", "era": "中英語" },
+      { "node": "roomy", "sub": "広々とした", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a roomy car", "ja": "広い車内" },
+      { "en": "a roomy apartment", "ja": "広々としたアパート" },
+      { "en": "a roomy bag", "ja": "収納の大きいかばん" },
+      { "en": "roomy enough", "ja": "十分に広い" },
+      { "en": "a roomy interior", "ja": "ゆったりした車内・室内" },
+      { "en": "light and roomy", "ja": "明るく広々とした" }
+    ],
+    "related": [
+      { "en": "spacious", "ja": "広々とした" },
+      { "en": "ample", "ja": "ゆとりのある" },
+      { "en": "cramped", "ja": "狭苦しい（反対語）" },
+      { "en": "comfortable", "ja": "快適な" }
+    ],
+    "faq": [
+      { "q": "roomy とはどんな意味？", "a": "部屋・車・服・かばんなどの中の空間が『広々とした・ゆったりした』ようすを表す形容詞です。a roomy car（広い車内）のように使います。" },
+      { "q": "roomy と spacious の違いは？", "a": "意味はほぼ同じ『広々とした』ですが、roomy はくだけた日常語、spacious はやや改まった語で部屋・建物によく使います。" }
+    ],
+    "quiz": [
+      { "q": "The apartment is small but surprisingly ___.（広々とした）", "A": "roomy", "B": "rainy の雨の", "C": "rusty のさびた", "D": "risky の危険な", "correct": "A" },
+      { "q": "roomy の反対語に近いのはどれ？", "A": "cramped（狭苦しい）", "B": "spacious（広々とした）", "C": "ample（ゆとりのある）", "D": "wide（広い）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rocky",
+    "pron": "ˈrɑːki",
+    "kana": "ロッキー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "rock（岩）＋ -y",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "基本単語"],
+    "meaning_main": "岩だらけの・岩の多い／（関係・状況が）不安定な・難航する",
+    "description": "rocky の意味・発音・例文・語源を解説。地面が「岩だらけの」、また関係や状況が「不安定で難航する」という比喩の使い方を分かりやすく紹介します。",
+    "keywords": ["rocky 意味", "rocky 発音", "rocky 岩だらけ", "rocky 不安定"],
+    "meanings": [
+      { "hinshi": "【形容詞】岩だらけの・岩の多い", "note": "地面や海岸に岩が多いようす。a rocky coast（岩の多い海岸）。" },
+      { "hinshi": "【形容詞】（関係・状況が）不安定な・難航する", "note": "ぐらついて先が危ういようす。a rocky start（前途多難な出だし）。" }
+    ],
+    "usages": [
+      { "title": "① 「岩だらけの」として", "desc": "地面や海岸に岩が多いようすです。", "example_en": "We hiked along a rocky trail.", "example_ja": "私たちは岩だらけの道を歩いて登った。" },
+      { "title": "② 「不安定な・難航する」として", "desc": "関係や状況がぐらついて危ういことを表します。", "example_en": "Their marriage went through a rocky period.", "example_ja": "彼らの結婚生活は不安定な時期を経験した。" }
+    ],
+    "warn": [
+      "rocky は『岩だらけの』だけでなく、比喩で『（関係・状況が）不安定で危うい』の意味も頻出。",
+      "a rocky start / road / relationship（前途多難な出だし・道のり・関係）が定番表現。"
+    ],
+    "etym_note": "rock（岩）に「〜の多い」を表す -y が付いた語で、「岩が多い」が原義です。そこから「足場が悪くぐらつく＝不安定な」という比喩的な意味が生まれました。",
+    "etym_chain": [
+      { "node": "rocca", "sub": "岩", "era": "俗ラテン語" },
+      { "node": "rock", "sub": "岩", "era": "中英語" },
+      { "node": "rocky", "sub": "岩だらけの・不安定な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rocky coast", "ja": "岩の多い海岸" },
+      { "en": "a rocky trail", "ja": "岩だらけの小道" },
+      { "en": "a rocky start", "ja": "前途多難な出だし" },
+      { "en": "a rocky relationship", "ja": "不安定な関係" },
+      { "en": "a rocky road", "ja": "険しい道のり・多難な道" },
+      { "en": "go through a rocky patch", "ja": "苦しい時期を経験する" }
+    ],
+    "related": [
+      { "en": "rugged", "ja": "ごつごつした" },
+      { "en": "stony", "ja": "石だらけの" },
+      { "en": "unstable", "ja": "不安定な" },
+      { "en": "turbulent", "ja": "荒れた・波乱の" }
+    ],
+    "faq": [
+      { "q": "rocky とはどんな意味？", "a": "地面や海岸が『岩だらけの』という意味と、関係や状況が『不安定で難航する』という比喩の意味があります。a rocky start（前途多難な出だし）のように使います。" },
+      { "q": "a rocky road の意味は？", "a": "文字どおりは『岩だらけの道』ですが、比喩で『困難の多い道のり・多難な道』を表します。" }
+    ],
+    "quiz": [
+      { "q": "Their marriage went through a ___ period.（不安定な）", "A": "rocky", "B": "rusty のさびた", "C": "roomy の広々とした", "D": "rosy のばら色の", "correct": "A" },
+      { "q": "a rocky start の意味はどれ？", "A": "前途多難な出だし", "B": "順調な出だし", "C": "華やかな開幕", "D": "静かな始まり", "correct": "A" }
+    ]
+  }
+]

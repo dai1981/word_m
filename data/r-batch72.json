@@ -1,0 +1,473 @@
+[
+  {
+    "english": "ruble",
+    "pron": "ˈruːbəl",
+    "kana": "ルーブル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ロシア語 rubl（切り取られたもの）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "通貨"],
+    "meaning_main": "ルーブル（ロシア・ベラルーシなどの通貨単位）",
+    "description": "ruble の意味・発音・例文・語源を解説。ロシアやベラルーシで使われる通貨単位「ルーブル」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["ruble 意味", "ruble 発音", "ruble ルーブル", "ruble 通貨"],
+    "meanings": [
+      { "hinshi": "【名詞】ルーブル", "note": "ロシア・ベラルーシなどで使われる通貨単位。rouble とも綴る。補助単位はコペイカ（kopek）。" }
+    ],
+    "usages": [
+      { "title": "① 通貨単位として", "desc": "ロシアなどの通貨を指します。", "example_en": "The book costs three hundred rubles.", "example_ja": "その本は300ルーブルだ。" },
+      { "title": "② 為替・経済の話で", "desc": "通貨の価値の話題で使います。", "example_en": "The ruble weakened against the dollar.", "example_ja": "ルーブルはドルに対して下落した。" }
+    ],
+    "warn": [
+      "ruble は『ロシア・ベラルーシなどの通貨単位』。イギリス式つづりは rouble。",
+      "補助単位は kopek（コペイカ）で、1ルーブル＝100コペイカ。"
+    ],
+    "etym_note": "ロシア語 rubl に由来し、rubit（切る・刻む）と関係します。もとは銀の延べ棒から『切り取った』一片を指したとされ、それが通貨単位の名になりました。",
+    "etym_chain": [
+      { "node": "rubit", "sub": "切る・刻む", "era": "ロシア語" },
+      { "node": "rubl", "sub": "切り取られたもの", "era": "ロシア語" },
+      { "node": "ruble", "sub": "ルーブル", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the Russian ruble", "ja": "ロシア・ルーブル" },
+      { "en": "a hundred rubles", "ja": "100ルーブル" },
+      { "en": "pay in rubles", "ja": "ルーブルで支払う" },
+      { "en": "the ruble fell", "ja": "ルーブルが下落した" },
+      { "en": "exchange for rubles", "ja": "ルーブルに両替する" },
+      { "en": "a billion rubles", "ja": "10億ルーブル" }
+    ],
+    "related": [
+      { "en": "kopek", "ja": "コペイカ（補助単位）" },
+      { "en": "currency", "ja": "通貨" },
+      { "en": "exchange rate", "ja": "為替レート" },
+      { "en": "hryvnia", "ja": "フリヴニャ（ウクライナの通貨）" }
+    ],
+    "faq": [
+      { "q": "ruble とはどんな意味？", "a": "ロシア・ベラルーシなどで使われる通貨単位『ルーブル』のことです。補助単位はコペイカ（kopek）で、1ルーブル＝100コペイカです。" },
+      { "q": "ruble と rouble の違いは？", "a": "同じ通貨を指します。ruble はアメリカ式、rouble はイギリス式のつづりです。" }
+    ],
+    "quiz": [
+      { "q": "The book costs three hundred ___s.（ルーブル）", "A": "ruble", "B": "rubble の瓦礫", "C": "rubber のゴム", "D": "ruby のルビー", "correct": "A" },
+      { "q": "ruble はどの国の通貨？", "A": "ロシア", "B": "インド", "C": "ブラジル", "D": "タイ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rusk",
+    "pron": "rʌsk",
+    "kana": "ラスク",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "スペイン語・ポルトガル語 rosca（ねじパン）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "食べ物"],
+    "meaning_main": "ラスク（二度焼きした堅いパン・ビスケット）",
+    "description": "rusk の意味・発音・例文・語源を解説。パンを二度焼きして堅くした「ラスク」を指す語の使い方を、例文や語源とともに分かりやすく紹介します。",
+    "keywords": ["rusk 意味", "rusk 発音", "rusk ラスク", "rusk パン"],
+    "meanings": [
+      { "hinshi": "【名詞】ラスク（堅焼きパン）", "note": "パンを薄く切ってもう一度焼き、堅くカリッとさせた食品。乳児用の堅いビスケットも指す。" }
+    ],
+    "usages": [
+      { "title": "① 食品として", "desc": "二度焼きした堅いパンを指します。", "example_en": "She dipped a rusk in her tea.", "example_ja": "彼女はラスクを紅茶にひたした。" },
+      { "title": "② 乳児用ビスケットとして", "desc": "赤ちゃんがかむ堅いビスケットを表します。", "example_en": "The baby gnawed on a rusk.", "example_ja": "赤ちゃんはラスクをかじっていた。" }
+    ],
+    "warn": [
+      "rusk は『二度焼きした堅いパン・ビスケット』。日本の砂糖をまぶした甘いラスクもこの語に含まれる。",
+      "発音は『ラスク（rʌsk）』。"
+    ],
+    "etym_note": "スペイン語・ポルトガル語 rosca（ねじった形のパン・輪パン）に由来します。航海用の保存食として二度焼きした堅いパンを指すようになりました。",
+    "etym_chain": [
+      { "node": "rosca", "sub": "ねじパン・輪パン", "era": "スペイン語" },
+      { "node": "rusk", "sub": "堅焼きパン", "era": "近代英語" },
+      { "node": "rusk", "sub": "ラスク", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a sweet rusk", "ja": "甘いラスク" },
+      { "en": "dip a rusk", "ja": "ラスクをひたす" },
+      { "en": "a baby rusk", "ja": "乳児用ラスク" },
+      { "en": "a crunchy rusk", "ja": "カリッとしたラスク" },
+      { "en": "a box of rusks", "ja": "ラスク1箱" },
+      { "en": "toast into rusks", "ja": "焼いてラスクにする" }
+    ],
+    "related": [
+      { "en": "biscuit", "ja": "ビスケット" },
+      { "en": "cracker", "ja": "クラッカー" },
+      { "en": "toast", "ja": "トースト" },
+      { "en": "zwieback", "ja": "ツヴィーバック（二度焼きパン）" }
+    ],
+    "faq": [
+      { "q": "rusk とはどんな意味？", "a": "パンを薄く切ってもう一度焼き、堅くカリッとさせた食品『ラスク』のことです。乳児がかむ堅いビスケットも指します。" },
+      { "q": "rusk の語源は？", "a": "スペイン語・ポルトガル語 rosca（ねじパン・輪パン）です。保存のため二度焼きした堅いパンを指すようになりました。" }
+    ],
+    "quiz": [
+      { "q": "She dipped a ___ in her tea.（ラスク）", "A": "rusk", "B": "rush の急ぎ", "C": "rust のさび", "D": "risk の危険", "correct": "A" },
+      { "q": "rusk はどうやって作る？", "A": "パンを二度焼きして堅くする", "B": "肉を煮込む", "C": "野菜を蒸す", "D": "魚を干す", "correct": "A" }
+    ]
+  },
+  {
+    "english": "roti",
+    "pron": "ˈroʊti",
+    "kana": "ロティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ヒンディー語 roṭī（パン）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "食べ物"],
+    "meaning_main": "ロティ（南アジアの薄い平焼きパン）",
+    "description": "roti の意味・発音・例文・語源を解説。インドなど南アジアで主食にされる、薄い丸い平焼きパン「ロティ」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["roti 意味", "roti 発音", "roti パン", "roti インド"],
+    "meanings": [
+      { "hinshi": "【名詞】ロティ（平焼きパン）", "note": "全粒粉を水でこねて薄くのばし、鉄板で焼いた南アジアの平たい丸パン。カレーなどに添える主食。" }
+    ],
+    "usages": [
+      { "title": "① 主食として", "desc": "南アジアの平焼きパンを指します。", "example_en": "We ate curry with freshly made roti.", "example_ja": "私たちは焼きたてのロティでカレーを食べた。" },
+      { "title": "② 食事の場面で", "desc": "カレーに添えるパンとして使います。", "example_en": "She tore a piece of roti to scoop up the dal.", "example_ja": "彼女はロティをちぎって豆カレーをすくった。" }
+    ],
+    "warn": [
+      "roti は『南アジアの薄い平焼きパン』。発酵させない全粒粉のパンで、chapati（チャパティ）とほぼ同じ。",
+      "発酵させて窯で焼く naan（ナン）とは作り方が違う。"
+    ],
+    "etym_note": "ヒンディー語 roṭī（パン）に由来し、サンスクリット語にさかのぼる古い語です。南アジア全域で主食の平焼きパンを指す語として広まりました。",
+    "etym_chain": [
+      { "node": "roṭī", "sub": "パン", "era": "ヒンディー語" },
+      { "node": "roti", "sub": "平焼きパン", "era": "近代英語" },
+      { "node": "roti", "sub": "ロティ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "freshly made roti", "ja": "焼きたてのロティ" },
+      { "en": "curry and roti", "ja": "カレーとロティ" },
+      { "en": "a piece of roti", "ja": "ロティ一切れ" },
+      { "en": "make roti", "ja": "ロティを焼く" },
+      { "en": "warm roti", "ja": "温かいロティ" },
+      { "en": "roti and dal", "ja": "ロティと豆カレー" }
+    ],
+    "related": [
+      { "en": "chapati", "ja": "チャパティ" },
+      { "en": "naan", "ja": "ナン" },
+      { "en": "flatbread", "ja": "平焼きパン" },
+      { "en": "curry", "ja": "カレー" }
+    ],
+    "faq": [
+      { "q": "roti とはどんな食べ物？", "a": "全粒粉を水でこねて薄くのばし、鉄板で焼いた南アジアの平たい丸パン『ロティ』のことです。カレーなどに添える主食です。" },
+      { "q": "roti と naan の違いは？", "a": "roti（ロティ）は発酵させない全粒粉のパンで鉄板で焼き、naan（ナン）は発酵させた生地を窯で焼きます。" }
+    ],
+    "quiz": [
+      { "q": "We ate curry with freshly made ___.（ロティ）", "A": "roti", "B": "rota の当番表", "C": "rotor の回転子", "D": "ratio の比率", "correct": "A" },
+      { "q": "roti はどの地域の主食？", "A": "南アジア（インドなど）", "B": "北欧", "C": "中南米", "D": "西アフリカ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "raita",
+    "pron": "ˈraɪtə",
+    "kana": "ライタ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ヒンディー語 raitā（ヨーグルトの和え物）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "食べ物"],
+    "meaning_main": "ライタ（ヨーグルトに野菜や香辛料を混ぜたインドの副菜）",
+    "description": "raita の意味・発音・例文・語源を解説。ヨーグルトに野菜や香辛料を混ぜた、辛い料理を和らげるインドの副菜「ライタ」を指す語の使い方を紹介します。",
+    "keywords": ["raita 意味", "raita 発音", "raita インド", "raita ヨーグルト"],
+    "meanings": [
+      { "hinshi": "【名詞】ライタ", "note": "プレーンヨーグルトにキュウリ・玉ねぎ・香辛料などを混ぜた、ひんやりした副菜。辛いカレーの口直しに添える。" }
+    ],
+    "usages": [
+      { "title": "① 副菜として", "desc": "辛さを和らげるヨーグルト料理を指します。", "example_en": "The spicy curry was served with cooling raita.", "example_ja": "辛いカレーにはさっぱりしたライタが添えられた。" },
+      { "title": "② 食事の場面で", "desc": "口直しとして使います。", "example_en": "Cucumber raita balances the heat of the dish.", "example_ja": "キュウリのライタが料理の辛さを和らげる。" }
+    ],
+    "warn": [
+      "raita は『ヨーグルトに野菜・香辛料を混ぜたインドの冷たい副菜』。辛い料理の口直しに使う。",
+      "発音は『ライタ（ˈraɪtə）』。"
+    ],
+    "etym_note": "ヒンディー語 raitā（ヨーグルトの和え物）に由来します。南アジアで、辛い料理を和らげる冷たい副菜を指す語として使われます。",
+    "etym_chain": [
+      { "node": "raitā", "sub": "ヨーグルトの和え物", "era": "ヒンディー語" },
+      { "node": "raita", "sub": "ライタ", "era": "近代英語" },
+      { "node": "raita", "sub": "ライタ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "cucumber raita", "ja": "キュウリのライタ" },
+      { "en": "cooling raita", "ja": "さっぱりしたライタ" },
+      { "en": "serve with raita", "ja": "ライタを添える" },
+      { "en": "a bowl of raita", "ja": "ライタ1皿" },
+      { "en": "mint raita", "ja": "ミントのライタ" },
+      { "en": "raita and rice", "ja": "ライタとご飯" }
+    ],
+    "related": [
+      { "en": "yogurt", "ja": "ヨーグルト" },
+      { "en": "curry", "ja": "カレー" },
+      { "en": "side dish", "ja": "副菜" },
+      { "en": "condiment", "ja": "薬味・付け合わせ" }
+    ],
+    "faq": [
+      { "q": "raita とはどんな食べ物？", "a": "プレーンヨーグルトにキュウリ・玉ねぎ・香辛料などを混ぜた、ひんやりしたインドの副菜『ライタ』のことです。辛いカレーの口直しに添えます。" },
+      { "q": "raita は何のために添える？", "a": "辛い料理の辛さを和らげ、口直しにするためです。ヨーグルトのさっぱりした酸味が辛さを抑えます。" }
+    ],
+    "quiz": [
+      { "q": "The spicy curry was served with cooling ___.（ライタ）", "A": "raita", "B": "ratio の比率", "C": "radish のラディッシュ", "D": "ravioli のラビオリ", "correct": "A" },
+      { "q": "raita の主な材料はどれ？", "A": "ヨーグルト", "B": "小麦粉", "C": "肉", "D": "砂糖", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rissole",
+    "pron": "ˈrɪsoʊl",
+    "kana": "リソール",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 rissole（揚げ物）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "食べ物"],
+    "meaning_main": "リソール（ひき肉などを包んだ・丸めた揚げ物／小判形の肉団子）",
+    "description": "rissole の意味・発音・例文・語源を解説。ひき肉や具を包んだり丸めたりして揚げ焼きにした料理「リソール」を指す語の使い方を紹介します。",
+    "keywords": ["rissole 意味", "rissole 発音", "rissole 揚げ物", "rissole 肉団子"],
+    "meanings": [
+      { "hinshi": "【名詞】リソール（揚げ物・肉団子）", "note": "ひき肉や具をパン粉などで包んだり丸めたりして揚げ・揚げ焼きにした料理。国により形や中身が異なる。" }
+    ],
+    "usages": [
+      { "title": "① 揚げ料理として", "desc": "具を包んで揚げた料理を指します。", "example_en": "She fried golden rissoles for dinner.", "example_ja": "彼女は夕食にきつね色のリソールを揚げた。" },
+      { "title": "② 肉団子として", "desc": "小判形のひき肉料理を表します。", "example_en": "The rissoles were made from leftover meat.", "example_ja": "そのリソールは残り物の肉で作られた。" }
+    ],
+    "warn": [
+      "rissole は『ひき肉などを包んだ・丸めた揚げ（焼き）料理』。国によって形・中身が異なる。",
+      "発音は『リソール（ˈrɪsoʊl）』。"
+    ],
+    "etym_note": "フランス語 rissole に由来し、ラテン語 russeolus（赤みがかった）から来ています。揚げて『赤茶色（きつね色）になる』ことに由来し、russet（赤褐色）と同じ語根です。",
+    "etym_chain": [
+      { "node": "russeolus", "sub": "赤みがかった", "era": "ラテン語" },
+      { "node": "rissole", "sub": "揚げ物", "era": "フランス語" },
+      { "node": "rissole", "sub": "リソール", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "fry rissoles", "ja": "リソールを揚げる" },
+      { "en": "golden rissoles", "ja": "きつね色のリソール" },
+      { "en": "meat rissoles", "ja": "ひき肉のリソール" },
+      { "en": "a plate of rissoles", "ja": "リソール1皿" },
+      { "en": "homemade rissoles", "ja": "手作りのリソール" },
+      { "en": "potato rissoles", "ja": "ポテトのリソール" }
+    ],
+    "related": [
+      { "en": "croquette", "ja": "コロッケ" },
+      { "en": "patty", "ja": "小判形の肉だね" },
+      { "en": "meatball", "ja": "ミートボール" },
+      { "en": "fritter", "ja": "揚げ団子" }
+    ],
+    "faq": [
+      { "q": "rissole とはどんな食べ物？", "a": "ひき肉や具をパン粉などで包んだり丸めたりして揚げ・揚げ焼きにした料理『リソール』のことです。国によって形や中身が異なります。" },
+      { "q": "rissole と croquette の違いは？", "a": "どちらも揚げ物ですが、croquette（コロッケ）はクリームやマッシュポテトを衣で包んで揚げる、rissole はひき肉などを丸めたり包んだりして揚げ焼きにするのが一般的です。" }
+    ],
+    "quiz": [
+      { "q": "She fried golden ___s for dinner.（リソール）", "A": "rissole", "B": "risotto のリゾット", "C": "rissole の代わりに ravioli", "D": "rosette の花形飾り", "correct": "A" },
+      { "q": "rissole の語源の意味はどれ？", "A": "赤みがかった（揚げ色）", "B": "丸い", "C": "甘い", "D": "冷たい", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ratite",
+    "pron": "ˈrætaɪt",
+    "kana": "ラタイト",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 ratis（いかだ）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "生物・学術"],
+    "meaning_main": "走鳥類（ダチョウ・エミューなど、飛べず走る大型の鳥）",
+    "description": "ratite の意味・発音・例文・語源を解説。ダチョウやエミューなど、胸骨に竜骨突起がなく飛べない大型の鳥「走鳥類」を指す語の使い方を紹介します。",
+    "keywords": ["ratite 意味", "ratite 発音", "ratite 走鳥類", "ratite ダチョウ"],
+    "meanings": [
+      { "hinshi": "【名詞】走鳥類", "note": "ダチョウ・エミュー・レア・ヒクイドリ・キーウィなど、胸骨に竜骨突起がなく飛べない走る鳥の総称。" },
+      { "hinshi": "【形容詞】走鳥類の", "note": "ratite birds（走鳥類の鳥）。" }
+    ],
+    "usages": [
+      { "title": "① 鳥の分類として", "desc": "飛べない走る大型鳥を指します。", "example_en": "The ostrich is the largest ratite.", "example_ja": "ダチョウは最大の走鳥類だ。" },
+      { "title": "② 形容詞として", "desc": "走鳥類の特徴を表します。", "example_en": "Ratite birds lack a keeled breastbone.", "example_ja": "走鳥類は竜骨突起のある胸骨をもたない。" }
+    ],
+    "warn": [
+      "ratite は『飛べず走る大型の鳥（走鳥類）』。竜骨突起のない平らな胸骨が特徴。対は carinate（竜骨突起をもつ鳥）。",
+      "発音は『ラタイト（ˈrætaɪt）』。"
+    ],
+    "etym_note": "ラテン語 ratis（いかだ）に由来します。走鳥類の胸骨が、竜骨突起のない『いかだのように平ら』なことから名づけられました。",
+    "etym_chain": [
+      { "node": "ratis", "sub": "いかだ", "era": "ラテン語" },
+      { "node": "ratite", "sub": "平らな胸骨の鳥", "era": "近代英語" },
+      { "node": "ratite", "sub": "走鳥類", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the largest ratite", "ja": "最大の走鳥類" },
+      { "en": "ratite birds", "ja": "走鳥類の鳥" },
+      { "en": "a flightless ratite", "ja": "飛べない走鳥類" },
+      { "en": "ratite species", "ja": "走鳥類の種" },
+      { "en": "the ratite's breastbone", "ja": "走鳥類の胸骨" },
+      { "en": "a giant ratite", "ja": "巨大な走鳥類" }
+    ],
+    "related": [
+      { "en": "ostrich", "ja": "ダチョウ" },
+      { "en": "emu", "ja": "エミュー" },
+      { "en": "kiwi", "ja": "キーウィ" },
+      { "en": "flightless", "ja": "飛べない" }
+    ],
+    "faq": [
+      { "q": "ratite とはどんな意味？", "a": "ダチョウ・エミュー・レア・ヒクイドリ・キーウィなど、胸骨に竜骨突起がなく飛べない走る鳥の総称『走鳥類』のことです。" },
+      { "q": "ratite の語源は？", "a": "ラテン語 ratis（いかだ）です。竜骨突起のない『いかだのように平らな』胸骨をもつことに由来します。" }
+    ],
+    "quiz": [
+      { "q": "The ostrich is the largest ___.（走鳥類）", "A": "ratite", "B": "reptile の爬虫類", "C": "rodent のげっ歯類", "D": "raptor の猛禽", "correct": "A" },
+      { "q": "走鳥類の特徴はどれ？", "A": "飛べず、竜骨突起のない平らな胸骨をもつ", "B": "水中を泳ぐ", "C": "夜に飛ぶ", "D": "毒をもつ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rictus",
+    "pron": "ˈrɪktəs",
+    "kana": "リクタス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 rictus（開いた口）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "文語"],
+    "meaning_main": "（こわばって）大きく開いた口・引きつった笑い／（鳥の）口角",
+    "description": "rictus の意味・発音・例文・語源を解説。こわばって大きく開いた口や、引きつったような不自然な笑いを表す文語的な語の使い方を紹介します。",
+    "keywords": ["rictus 意味", "rictus 発音", "rictus 引きつった笑い", "rictus 口"],
+    "meanings": [
+      { "hinshi": "【名詞】こわばって開いた口・引きつった表情", "note": "苦痛・恐怖・作り笑いなどで不自然に大きく開いた口元。a rictus of pain（苦痛にゆがんだ口）。" },
+      { "hinshi": "【名詞】（鳥の）口角・くちばしの開き", "note": "動物学で、くちばしの付け根の開く部分。" }
+    ],
+    "usages": [
+      { "title": "① 「引きつった表情」として", "desc": "こわばって開いた口元を表します。", "example_en": "His face froze in a rictus of fear.", "example_ja": "彼の顔は恐怖にこわばった表情で固まった。" },
+      { "title": "② 「引きつった笑い」として", "desc": "不自然な作り笑いを表します。", "example_en": "She managed only a rictus of a smile.", "example_ja": "彼女は引きつった作り笑いを浮かべるのがやっとだった。" }
+    ],
+    "warn": [
+      "rictus は『こわばって不自然に開いた口・引きつった表情』という文語的な語。a rictus grin（引きつった作り笑い）が頻出。",
+      "発音は『リクタス（ˈrɪktəs）』。"
+    ],
+    "etym_note": "ラテン語 rictus（大きく開いた口、ringi「口を開ける・歯をむく」より）に由来します。「ぐっと開いた口元」を意味し、苦痛や作り笑いの不自然な表情を表すようになりました。",
+    "etym_chain": [
+      { "node": "ringi", "sub": "口を開ける・歯をむく", "era": "ラテン語" },
+      { "node": "rictus", "sub": "開いた口", "era": "ラテン語" },
+      { "node": "rictus", "sub": "引きつった口・表情", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rictus grin", "ja": "引きつった作り笑い" },
+      { "en": "a rictus of pain", "ja": "苦痛にゆがんだ口" },
+      { "en": "a rictus of fear", "ja": "恐怖にこわばった表情" },
+      { "en": "frozen in a rictus", "ja": "こわばって固まって" },
+      { "en": "a fixed rictus", "ja": "固まった引きつり笑い" },
+      { "en": "a ghastly rictus", "ja": "ぞっとする引きつり顔" }
+    ],
+    "related": [
+      { "en": "grimace", "ja": "しかめ面" },
+      { "en": "grin", "ja": "歯を見せた笑い" },
+      { "en": "contortion", "ja": "ゆがみ" },
+      { "en": "snarl", "ja": "歯をむき出す" }
+    ],
+    "faq": [
+      { "q": "rictus とはどんな意味？", "a": "苦痛・恐怖・作り笑いなどで不自然に大きく開いた口元・引きつった表情を表す文語的な語です。a rictus grin（引きつった作り笑い）のように使います。" },
+      { "q": "rictus と grimace の違いは？", "a": "grimace は『（不快さなどでの）しかめ面』全般、rictus は特に『こわばって大きく開いた口・固定した引きつり』を指します。" }
+    ],
+    "quiz": [
+      { "q": "His face froze in a ___ of fear.（引きつった表情）", "A": "rictus", "B": "cactus のサボテン", "C": "rancor の恨み", "D": "ruckus の騒ぎ", "correct": "A" },
+      { "q": "rictus の語源の意味はどれ？", "A": "大きく開いた口", "B": "閉じた目", "C": "曲がった背", "D": "握った手", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ratoon",
+    "pron": "ræˈtuːn",
+    "kana": "ラトゥーン",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "スペイン語 retoño（新芽）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "農業"],
+    "meaning_main": "株出し・ひこばえ（刈り取った株の根元から出る新芽）／株から再生させる",
+    "description": "ratoon の意味・発音・例文・語源を解説。サトウキビなどを刈ったあと、株の根元から出る新芽「株出し（ひこばえ）」を指す農業の語の使い方を紹介します。",
+    "keywords": ["ratoon 意味", "ratoon 発音", "ratoon 株出し", "ratoon サトウキビ"],
+    "meanings": [
+      { "hinshi": "【名詞】株出し・ひこばえ", "note": "サトウキビ・バナナなどを収穫したあと、残った株の根元から出てくる新芽。植え直さずに次の作物にする。" },
+      { "hinshi": "【動詞】株から再生させる・株出しで育てる", "note": "ratoon a crop（株出しで作物を育てる）。" }
+    ],
+    "usages": [
+      { "title": "① 「株出しの新芽」として", "desc": "刈り取った株から出る芽を指します。", "example_en": "Sugarcane regrows from ratoons after harvest.", "example_ja": "サトウキビは収穫後、株出しの新芽から再生する。" },
+      { "title": "② 動詞「株出しで育てる」として", "desc": "植え直さず株から育てる意味です。", "example_en": "Farmers ratoon the crop to save replanting.", "example_ja": "農家は植え直しを省くため株出しで作物を育てる。" }
+    ],
+    "warn": [
+      "ratoon は『刈り取った株の根元から出る新芽（株出し）』。サトウキビ・バナナ・米などで使う農業用語。",
+      "発音は『ラトゥーン（ræˈtuːn）』。"
+    ],
+    "etym_note": "スペイン語 retoño（新芽・ひこばえ、retoñar「再び芽を出す」より）に由来します。刈ったあとに株から再び芽を出すことを意味します。",
+    "etym_chain": [
+      { "node": "retoño", "sub": "新芽", "era": "スペイン語" },
+      { "node": "ratoon", "sub": "株出し", "era": "近代英語" },
+      { "node": "ratoon", "sub": "株出し・ひこばえ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "sugarcane ratoons", "ja": "サトウキビの株出し" },
+      { "en": "grow from ratoons", "ja": "株出しから育つ" },
+      { "en": "a ratoon crop", "ja": "株出しの作物" },
+      { "en": "ratoon the cane", "ja": "サトウキビを株出しで育てる" },
+      { "en": "the first ratoon", "ja": "最初の株出し" },
+      { "en": "ratoon management", "ja": "株出しの管理" }
+    ],
+    "related": [
+      { "en": "sprout", "ja": "新芽・芽を出す" },
+      { "en": "shoot", "ja": "新芽・若枝" },
+      { "en": "sugarcane", "ja": "サトウキビ" },
+      { "en": "regrowth", "ja": "再生・再成長" }
+    ],
+    "faq": [
+      { "q": "ratoon とはどんな意味？", "a": "サトウキビやバナナなどを収穫したあと、残った株の根元から出てくる新芽『株出し（ひこばえ）』のことです。植え直さずに次の作物にします。" },
+      { "q": "ratoon の利点は？", "a": "植え直し（再植）をせずに株から再生させて育てられるため、手間とコストを省けます。" }
+    ],
+    "quiz": [
+      { "q": "Sugarcane regrows from ___s after harvest.（株出し）", "A": "ratoon", "B": "raccoon のアライグマ", "C": "rattan の籐", "D": "ration の配給", "correct": "A" },
+      { "q": "ratoon は何から出る新芽？", "A": "刈り取った株の根元", "B": "種", "C": "花", "D": "葉のふち", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rebec",
+    "pron": "ˈriːbek",
+    "kana": "レベック",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "アラビア語 rabāb（弦楽器）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "音楽・歴史"],
+    "meaning_main": "レベック（中世〜ルネサンスの弓で弾く小型の弦楽器）",
+    "description": "rebec の意味・発音・例文・語源を解説。洋なし形の胴をもち、弓で弾いた中世ヨーロッパの弦楽器「レベック」を指す語の使い方を紹介します。",
+    "keywords": ["rebec 意味", "rebec 発音", "rebec 弦楽器", "rebec 中世"],
+    "meanings": [
+      { "hinshi": "【名詞】レベック", "note": "中世〜ルネサンス期に使われた、洋なし形の胴をもつ小型の擦弦楽器。弓で弾き、バイオリンの祖先の一つとされる。" }
+    ],
+    "usages": [
+      { "title": "① 古楽器として", "desc": "中世の弓で弾く弦楽器を指します。", "example_en": "The minstrel played a tune on his rebec.", "example_ja": "吟遊詩人はレベックで一曲奏でた。" },
+      { "title": "② 音楽史の文脈で", "desc": "バイオリンの祖先として表します。", "example_en": "The rebec is an ancestor of the violin.", "example_ja": "レベックはバイオリンの祖先の一つだ。" }
+    ],
+    "warn": [
+      "rebec は『中世〜ルネサンスの弓で弾く小型弦楽器』。洋なし形の胴が特徴で、バイオリンの祖先の一つ。",
+      "発音は『レベック（ˈriːbek）』。"
+    ],
+    "etym_note": "アラビア語 rabāb（弓で弾く弦楽器）に由来し、スペイン・フランスを経てヨーロッパに伝わりました。中世の擦弦楽器として広く使われ、のちのバイオリン属につながります。",
+    "etym_chain": [
+      { "node": "rabāb", "sub": "弦楽器", "era": "アラビア語" },
+      { "node": "rebec", "sub": "レベック", "era": "中フランス語" },
+      { "node": "rebec", "sub": "レベック", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "play the rebec", "ja": "レベックを弾く" },
+      { "en": "a medieval rebec", "ja": "中世のレベック" },
+      { "en": "the rebec's bow", "ja": "レベックの弓" },
+      { "en": "a three-stringed rebec", "ja": "三弦のレベック" },
+      { "en": "the sound of a rebec", "ja": "レベックの音色" },
+      { "en": "a minstrel's rebec", "ja": "吟遊詩人のレベック" }
+    ],
+    "related": [
+      { "en": "fiddle", "ja": "フィドル・バイオリン" },
+      { "en": "viol", "ja": "ヴィオール" },
+      { "en": "lute", "ja": "リュート" },
+      { "en": "violin", "ja": "バイオリン" }
+    ],
+    "faq": [
+      { "q": "rebec とはどんな意味？", "a": "中世〜ルネサンス期に使われた、洋なし形の胴をもつ小型の擦弦楽器『レベック』のことです。弓で弾き、バイオリンの祖先の一つとされます。" },
+      { "q": "rebec の語源は？", "a": "アラビア語 rabāb（弓で弾く弦楽器）です。スペイン・フランスを経てヨーロッパに伝わりました。" }
+    ],
+    "quiz": [
+      { "q": "The minstrel played a tune on his ___.（レベック）", "A": "rebec", "B": "rebed", "C": "rebel の反逆者", "D": "rebate の払い戻し", "correct": "A" },
+      { "q": "rebec は何の楽器の祖先とされる？", "A": "バイオリン", "B": "ピアノ", "C": "トランペット", "D": "ドラム", "correct": "A" }
+    ]
+  }
+]

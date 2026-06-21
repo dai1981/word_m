@@ -1,0 +1,473 @@
+[
+  {
+    "english": "reportage",
+    "pron": "ˌrepɔːrˈtɑːʒ",
+    "kana": "レポルタージュ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 reportage（取材報道）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "報道"],
+    "meaning_main": "ルポルタージュ・現地報道（事実をありのままに伝える取材記事）",
+    "description": "reportage の意味・発音・例文・語源を解説。現場を取材して事実をありのままに伝える「ルポルタージュ・現地報道」を指す語の使い方を紹介します。",
+    "keywords": ["reportage 意味", "reportage 発音", "reportage ルポ", "reportage 報道"],
+    "meanings": [
+      { "hinshi": "【名詞】ルポルタージュ・現地報道", "note": "記者が現場を取材し、事実を客観的・詳細に伝える報道や記事。その文体・手法も指す。" }
+    ],
+    "usages": [
+      { "title": "① 報道の手法として", "desc": "現場取材による事実報道を指します。", "example_en": "Her reportage from the war zone won an award.", "example_ja": "彼女の戦地からのルポは賞を受けた。" },
+      { "title": "② 文体・ジャンルとして", "desc": "客観的に描く報道文体を表します。", "example_en": "The book is a fine piece of reportage.", "example_ja": "その本は優れたルポルタージュ作品だ。" }
+    ],
+    "warn": [
+      "reportage は『現場取材にもとづく事実報道（ルポ）』。発音は『レポルタージュ（ˌrepɔːrˈtɑːʒ）』とフランス語的。",
+      "単なる report（報告）より、現場の描写を含む報道作品・文体を指す。"
+    ],
+    "etym_note": "フランス語 reportage（取材して報じること、reporter「報じる」より）に由来します。report（報告する）と同じ語源で、ラテン語 reportare（持ち帰る・伝える）から来ています。",
+    "etym_chain": [
+      { "node": "reportare", "sub": "持ち帰る・伝える", "era": "ラテン語" },
+      { "node": "reportage", "sub": "取材報道", "era": "フランス語" },
+      { "node": "reportage", "sub": "ルポルタージュ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "war reportage", "ja": "戦争のルポ" },
+      { "en": "a piece of reportage", "ja": "一編のルポ作品" },
+      { "en": "investigative reportage", "ja": "調査報道" },
+      { "en": "photo reportage", "ja": "写真によるルポ" },
+      { "en": "vivid reportage", "ja": "生き生きとした現地報道" },
+      { "en": "literary reportage", "ja": "文学的ルポルタージュ" }
+    ],
+    "related": [
+      { "en": "report", "ja": "報告・報道" },
+      { "en": "journalism", "ja": "ジャーナリズム" },
+      { "en": "coverage", "ja": "報道・取材" },
+      { "en": "documentary", "ja": "ドキュメンタリー" }
+    ],
+    "faq": [
+      { "q": "reportage とはどんな意味？", "a": "記者が現場を取材し、事実を客観的・詳細に伝える『ルポルタージュ・現地報道』のことです。その文体・手法も指します。" },
+      { "q": "reportage と report の違いは？", "a": "report は『報告・報道』全般、reportage は特に『現場取材にもとづく描写を含む報道作品・文体』を指します。" }
+    ],
+    "quiz": [
+      { "q": "Her ___ from the war zone won an award.（ルポ）", "A": "reportage", "B": "repertoire のレパートリー", "C": "repository の貯蔵庫", "D": "reportable の報告できる", "correct": "A" },
+      { "q": "reportage と同じ語源なのは？", "A": "report（報告する）", "B": "repair（修理する）", "C": "repeat（繰り返す）", "D": "reply（返事する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recidivist",
+    "pron": "rɪˈsɪdɪvɪst",
+    "kana": "リシディビスト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 recidivus（再び落ちる）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "法律"],
+    "meaning_main": "常習犯・再犯者（罪を繰り返す人）",
+    "description": "recidivist の意味・発音・例文・語源を解説。刑を受けても罪を繰り返す「常習犯・再犯者」を指す法律用語の使い方を分かりやすく紹介します。",
+    "keywords": ["recidivist 意味", "recidivist 発音", "recidivist 常習犯", "recidivism 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】常習犯・再犯者", "note": "刑を受けたあとも繰り返し罪を犯す人。形容詞的にも使う。名詞 recidivism は『再犯（傾向）』。" }
+    ],
+    "usages": [
+      { "title": "① 「常習犯・再犯者」として", "desc": "罪を繰り返す人を指します。", "example_en": "The court treated him as a recidivist.", "example_ja": "裁判所は彼を常習犯として扱った。" },
+      { "title": "② 更生・刑事政策の話で", "desc": "再犯防止の文脈で使います。", "example_en": "Programs aim to reduce the number of recidivists.", "example_ja": "プログラムは再犯者の数を減らすことを目指す。" }
+    ],
+    "warn": [
+      "recidivist は『刑を受けても罪を繰り返す人（常習犯）』。名詞 recidivism は『再犯・常習性』。",
+      "発音は『リシディビスト（rɪˈsɪdɪvɪst）』。"
+    ],
+    "etym_note": "ラテン語 recidivus（再び落ちる、recidere「re-（再び）＋ cadere（落ちる）」より）に由来します。「再び（罪へ）落ちる人」が原義で、accident（偶発事）や cadence（終止）と同じ cadere を語根にもちます。",
+    "etym_chain": [
+      { "node": "cadere", "sub": "落ちる", "era": "ラテン語" },
+      { "node": "recidivus", "sub": "再び落ちる", "era": "ラテン語" },
+      { "node": "recidivist", "sub": "常習犯・再犯者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a hardened recidivist", "ja": "常習の悪質な再犯者" },
+      { "en": "treat as a recidivist", "ja": "常習犯として扱う" },
+      { "en": "a repeat recidivist", "ja": "繰り返す再犯者" },
+      { "en": "recidivist offenders", "ja": "再犯の犯罪者" },
+      { "en": "reduce recidivists", "ja": "再犯者を減らす" },
+      { "en": "a known recidivist", "ja": "知られた常習犯" }
+    ],
+    "related": [
+      { "en": "recidivism", "ja": "再犯・常習性" },
+      { "en": "offender", "ja": "犯罪者" },
+      { "en": "repeat offender", "ja": "再犯者" },
+      { "en": "relapse", "ja": "ぶり返し・再発" }
+    ],
+    "faq": [
+      { "q": "recidivist とはどんな意味？", "a": "刑を受けたあとも繰り返し罪を犯す『常習犯・再犯者』のことです。名詞 recidivism は『再犯・常習性』を表します。" },
+      { "q": "recidivist の語源は？", "a": "ラテン語 recidivus（再び落ちる）です。re-（再び）＋ cadere（落ちる）から成り、『再び罪へ落ちる人』を意味します。" }
+    ],
+    "quiz": [
+      { "q": "The court treated him as a ___.（常習犯）", "A": "recidivist", "B": "receptionist の受付", "C": "resident の住人", "D": "recipient の受取人", "correct": "A" },
+      { "q": "recidivist の名詞形（再犯）はどれ？", "A": "recidivism", "B": "reception", "C": "residence", "D": "recital", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rapine",
+    "pron": "ˈræpɪn",
+    "kana": "ラピン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 rapina（強奪）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "文語"],
+    "meaning_main": "（暴力による）略奪・強奪・略奪行為",
+    "description": "rapine の意味・発音・例文・語源を解説。戦争などで暴力をともなって行う「略奪・強奪」を表す、かたい文語的な語の使い方を紹介します。",
+    "keywords": ["rapine 意味", "rapine 発音", "rapine 略奪", "rapine 強奪"],
+    "meanings": [
+      { "hinshi": "【名詞】（暴力による）略奪・強奪", "note": "戦争・侵略などで暴力をともなって他人の財産を奪うこと。文語的・歴史的な語。" }
+    ],
+    "usages": [
+      { "title": "① 戦争・侵略の文脈で", "desc": "暴力をともなう略奪を表します。", "example_en": "The invading army left a trail of rapine.", "example_ja": "侵略軍は略奪の爪あとを残した。" },
+      { "title": "② 文語的な描写で", "desc": "荒廃と略奪を厳しく表します。", "example_en": "The city suffered war, fire, and rapine.", "example_ja": "その都市は戦争と火災と略奪に見舞われた。" }
+    ],
+    "warn": [
+      "rapine は『暴力をともなう略奪』を表すかたい文語的な語。日常では looting / plunder が普通。",
+      "発音は『ラピン（ˈræpɪn）』。rapid（速い）, rapture（うっとり）と同じ語根 rapere（奪う）。"
+    ],
+    "etym_note": "ラテン語 rapina（強奪、rapere「つかみ取る・奪う」より）に由来します。rapid（速い）, raptor（猛禽）, rapture（うっとり）と同じ語根 rapere をもち、「激しく奪うこと」を意味します。",
+    "etym_chain": [
+      { "node": "rapere", "sub": "つかみ取る・奪う", "era": "ラテン語" },
+      { "node": "rapina", "sub": "強奪", "era": "ラテン語" },
+      { "node": "rapine", "sub": "略奪", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a trail of rapine", "ja": "略奪の爪あと" },
+      { "en": "war and rapine", "ja": "戦争と略奪" },
+      { "en": "pillage and rapine", "ja": "略奪と強奪" },
+      { "en": "acts of rapine", "ja": "略奪行為" },
+      { "en": "rapine and plunder", "ja": "略奪と掠奪" },
+      { "en": "subjected to rapine", "ja": "略奪にさらされて" }
+    ],
+    "related": [
+      { "en": "plunder", "ja": "略奪する・略奪品" },
+      { "en": "pillage", "ja": "略奪（する）" },
+      { "en": "looting", "ja": "略奪行為" },
+      { "en": "ravage", "ja": "荒らす・略奪する" }
+    ],
+    "faq": [
+      { "q": "rapine とはどんな意味？", "a": "戦争・侵略などで暴力をともなって他人の財産を奪うこと『略奪・強奪』を表すかたい文語的な語です。war and rapine（戦争と略奪）のように使います。" },
+      { "q": "rapine と plunder の違いは？", "a": "意味は近いですが、rapine は『暴力をともなう略奪』を表す文語的な語、plunder は『略奪（する）』を表すより一般的な語です。" }
+    ],
+    "quiz": [
+      { "q": "The invading army left a trail of ___.（略奪）", "A": "rapine", "B": "ravine の峡谷", "C": "raisin の干しぶどう", "D": "ravioli のラビオリ", "correct": "A" },
+      { "q": "rapine と同じ語根 rapere をもつのはどれ？", "A": "rapid（速い）", "B": "rabbit（うさぎ）", "C": "ranch（牧場）", "D": "ribbon（リボン）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rive",
+    "pron": "raɪv",
+    "kana": "ライブ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古ノルド語 rifa（引き裂く）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "文語"],
+    "meaning_main": "引き裂く・割る・（心を）かき乱す",
+    "description": "rive の意味・発音・例文・語源を解説。激しく「引き裂く・割る」、また心を「かき乱す」という文学的な動詞の使い方を分かりやすく紹介します。",
+    "keywords": ["rive 意味", "rive 発音", "rive 引き裂く", "riven 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】引き裂く・割る", "note": "強い力で裂く・割る。活用は rive-rived/rove-riven。過去分詞 riven が形容詞でよく使われる。" },
+      { "hinshi": "【動詞】（心・社会を）かき乱す・引き裂く", "note": "対立や苦悩で内部を分裂させる。" }
+    ],
+    "usages": [
+      { "title": "① 「引き裂く・割る」として", "desc": "強い力で裂く意味です。", "example_en": "Lightning rived the old oak in two.", "example_ja": "雷が古いカシを真っ二つに引き裂いた。" },
+      { "title": "② 「心をかき乱す」として", "desc": "苦悩や対立で内部を裂く意味です。", "example_en": "Doubt rived his heart.", "example_ja": "疑念が彼の心を引き裂いた。" }
+    ],
+    "warn": [
+      "rive は『引き裂く・割る』という文語的な動詞。現代では過去分詞 riven（引き裂かれた・分裂した）の形でよく使う。",
+      "発音は『ライブ（raɪv）』。live（生きる/生の）とは無関係。"
+    ],
+    "etym_note": "古ノルド語 rifa（引き裂く）に由来する古い語です。過去分詞 riven が「引き裂かれた・分裂した」という形容詞として今もよく使われます。",
+    "etym_chain": [
+      { "node": "rifa", "sub": "引き裂く", "era": "古ノルド語" },
+      { "node": "rive", "sub": "引き裂く", "era": "中英語" },
+      { "node": "rive", "sub": "引き裂く・かき乱す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rive in two", "ja": "真っ二つに裂く" },
+      { "en": "rived by lightning", "ja": "雷で引き裂かれた" },
+      { "en": "rive apart", "ja": "引き裂いてばらばらにする" },
+      { "en": "rive the wood", "ja": "木を割る" },
+      { "en": "rive someone's heart", "ja": "人の心を引き裂く" },
+      { "en": "rived by conflict", "ja": "争いで分裂した" }
+    ],
+    "related": [
+      { "en": "riven", "ja": "引き裂かれた（過去分詞・形容詞）" },
+      { "en": "split", "ja": "裂く・割る" },
+      { "en": "cleave", "ja": "割る・断ち切る" },
+      { "en": "tear", "ja": "引き裂く" }
+    ],
+    "faq": [
+      { "q": "rive とはどんな意味？", "a": "強い力で『引き裂く・割る』、また心や社会を『かき乱す・分裂させる』という文学的な動詞です。現代では過去分詞 riven（引き裂かれた）の形でよく使われます。" },
+      { "q": "rive の過去分詞は？", "a": "riven です。be riven by conflict（争いで分裂している）のように、形容詞的に使われることが多いです。" }
+    ],
+    "quiz": [
+      { "q": "Lightning ___d the old oak in two.（引き裂いた）", "A": "rive", "B": "rave のわめく", "C": "rove のさまよう", "D": "rinse のすすぐ", "correct": "A" },
+      { "q": "rive の過去分詞はどれ？", "A": "riven", "B": "rived の代わりに rived は過去形でもOKだが過去分詞は", "C": "roven", "D": "raven", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recto",
+    "pron": "ˈrektoʊ",
+    "kana": "レクト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 recto (folio)（正しい面に）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "出版・印刷"],
+    "meaning_main": "（本の）右ページ・表（おもて）ページ（←→ verso 左ページ・裏）",
+    "description": "recto の意味・発音・例文・語源を解説。開いた本の右側にくる「表ページ・右ページ」を指す出版・印刷用語の使い方を分かりやすく紹介します。",
+    "keywords": ["recto 意味", "recto 発音", "recto 右ページ", "recto verso 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】（本の）右ページ・表ページ", "note": "開いた本の右側にくるページ（ふつう奇数ページ）。紙の表の面。対は verso（左ページ・裏）。" }
+    ],
+    "usages": [
+      { "title": "① ページの位置として", "desc": "開いた本の右側のページを指します。", "example_en": "Chapter titles always start on a recto.", "example_ja": "章の見出しは必ず右ページから始まる。" },
+      { "title": "② 印刷・製本で", "desc": "紙の表の面を表します。", "example_en": "The illustration is printed on the recto.", "example_ja": "その挿絵は表のページに刷られている。" }
+    ],
+    "warn": [
+      "recto は『（本の）右ページ・表ページ』。対義語は verso（左ページ・裏ページ）。",
+      "recto and verso（表と裏）でセットで覚えると便利。出版・古書の専門用語。"
+    ],
+    "etym_note": "ラテン語 recto folio（正しい面に＝表に）の recto に由来し、rectus（まっすぐな・正しい）から来ています。rectangle（長方形）や correct（正しい）と同じ語根です。",
+    "etym_chain": [
+      { "node": "rectus", "sub": "まっすぐな・正しい", "era": "ラテン語" },
+      { "node": "recto folio", "sub": "正しい面に", "era": "ラテン語" },
+      { "node": "recto", "sub": "右ページ・表ページ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "recto and verso", "ja": "表と裏（右と左のページ）" },
+      { "en": "on the recto", "ja": "右ページに" },
+      { "en": "start on a recto", "ja": "右ページから始める" },
+      { "en": "the recto page", "ja": "表のページ" },
+      { "en": "a recto side", "ja": "表の面" },
+      { "en": "printed recto only", "ja": "片面（表）のみ印刷" }
+    ],
+    "related": [
+      { "en": "verso", "ja": "左ページ・裏ページ" },
+      { "en": "page", "ja": "ページ" },
+      { "en": "folio", "ja": "（紙の）葉・大判" },
+      { "en": "spread", "ja": "見開き" }
+    ],
+    "faq": [
+      { "q": "recto とはどんな意味？", "a": "開いた本の右側にくる『右ページ・表ページ』のことです。ふつう奇数ページにあたります。対義語は verso（左ページ・裏ページ）です。" },
+      { "q": "recto と verso の違いは？", "a": "recto は『右ページ・紙の表の面』、verso は『左ページ・紙の裏の面』です。recto and verso でセットで使われます。" }
+    ],
+    "quiz": [
+      { "q": "Chapter titles always start on a ___.（右ページ）", "A": "recto", "B": "rectangle の長方形", "C": "rector の教区牧師", "D": "record の記録", "correct": "A" },
+      { "q": "recto の対義語はどれ？", "A": "verso（左ページ・裏）", "B": "preface（序文）", "C": "index（索引）", "D": "cover（表紙）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "refulgent",
+    "pron": "rɪˈfʌldʒənt",
+    "kana": "リファルジェント",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 refulgere（まばゆく光る）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "文語"],
+    "meaning_main": "まばゆく輝く・燦然(さんぜん)と光る",
+    "description": "refulgent の意味・発音・例文・語源を解説。まばゆいほど明るく「燦然と輝く」ようすを表す、詩的・文語的な語の使い方を分かりやすく紹介します。",
+    "keywords": ["refulgent 意味", "refulgent 発音", "refulgent 輝く", "refulgent 燦然"],
+    "meanings": [
+      { "hinshi": "【形容詞】まばゆく輝く・燦然と光る", "note": "強く明るく光り輝くようす。文語的・詩的な語。a refulgent light（まばゆい光）。" }
+    ],
+    "usages": [
+      { "title": "① 光の描写として", "desc": "まばゆく輝くようすを表します。", "example_en": "The refulgent sun rose over the sea.", "example_ja": "燦然と輝く太陽が海の上に昇った。" },
+      { "title": "② 比喩的に", "desc": "栄光や美しさが輝くようすを表します。", "example_en": "She appeared in refulgent splendor.", "example_ja": "彼女はまばゆいばかりの華やかさで現れた。" }
+    ],
+    "warn": [
+      "refulgent は『まばゆく輝く』という詩的・文語的な語。日常では bright / brilliant が普通。",
+      "fulgent（光り輝く）, effulgent（燦然たる）も同系の文語。語根は fulgere（光る）。"
+    ],
+    "etym_note": "ラテン語 refulgere（re-「強意」＋ fulgere「光る」＝まばゆく光る）の現在分詞 refulgens に由来します。fulgere は『光る』を意味し、稲妻 fulgur とも関係します。",
+    "etym_chain": [
+      { "node": "fulgere", "sub": "光る", "era": "ラテン語" },
+      { "node": "refulgere", "sub": "まばゆく光る", "era": "ラテン語" },
+      { "node": "refulgent", "sub": "まばゆく輝く", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a refulgent light", "ja": "まばゆい光" },
+      { "en": "refulgent splendor", "ja": "燦然たる華やかさ" },
+      { "en": "the refulgent sun", "ja": "燦然と輝く太陽" },
+      { "en": "refulgent gold", "ja": "まばゆく輝く金" },
+      { "en": "a refulgent glow", "ja": "まばゆい輝き" },
+      { "en": "refulgent beauty", "ja": "輝くばかりの美しさ" }
+    ],
+    "related": [
+      { "en": "radiant", "ja": "光り輝く" },
+      { "en": "resplendent", "ja": "燦然たる" },
+      { "en": "brilliant", "ja": "まばゆい" },
+      { "en": "luminous", "ja": "光を放つ" }
+    ],
+    "faq": [
+      { "q": "refulgent とはどんな意味？", "a": "まばゆいほど明るく『燦然と輝く』ようすを表す詩的・文語的な形容詞です。a refulgent light（まばゆい光）のように使います。" },
+      { "q": "refulgent と radiant の違いは？", "a": "どちらも『光り輝く』ですが、refulgent はより強く文語的で『まばゆく燦然たる』、radiant は『（内から）輝く』日常でも使う語です。" }
+    ],
+    "quiz": [
+      { "q": "The ___ sun rose over the sea.（まばゆく輝く）", "A": "refulgent", "B": "reluctant の気が進まない", "C": "redundant の余分な", "D": "resilient の回復力のある", "correct": "A" },
+      { "q": "refulgent の語根 fulgere の意味はどれ？", "A": "光る", "B": "流れる", "C": "落ちる", "D": "曲がる", "correct": "A" }
+    ]
+  },
+  {
+    "english": "relict",
+    "pron": "ˈrelɪkt",
+    "kana": "レリクト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 relictus（残された）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "学術"],
+    "meaning_main": "遺存種（昔の環境の生き残り）／（古）残存物・未亡人",
+    "description": "relict の意味・発音・例文・語源を解説。過去の時代から生き残った「遺存種」や、残された「残存物」を指す学術的な語の使い方を紹介します。",
+    "keywords": ["relict 意味", "relict 発音", "relict 遺存種", "relict 残存"],
+    "meanings": [
+      { "hinshi": "【名詞】遺存種", "note": "かつて広く分布した生物が、限られた場所に生き残ったもの。a relict species（遺存種）。" },
+      { "hinshi": "【名詞】残存物・名残（地質・地形）", "note": "過去の環境の名残として残った地形や物。" },
+      { "hinshi": "【名詞】（古語）未亡人", "note": "夫に先立たれて残された妻。古い法律用語。" }
+    ],
+    "usages": [
+      { "title": "① 「遺存種」として", "desc": "昔の環境の生き残りを指します。", "example_en": "The fish is a relict of the Ice Age.", "example_ja": "その魚は氷河期の遺存種だ。" },
+      { "title": "② 「残存物・名残」として", "desc": "過去の環境の名残を表します。", "example_en": "The lake is a relict of an ancient sea.", "example_ja": "その湖は古代の海の名残だ。" }
+    ],
+    "warn": [
+      "relict は『（生物・地形の）遺存・残存』の学術語。relic（聖遺物・遺物）とつづり・意味が近いが別語。",
+      "発音は『レリクト（ˈrelɪkt）』で末尾の t を読む。relic は『レリック』。"
+    ],
+    "etym_note": "ラテン語 relictus（残された、relinquere「後に残す」の過去分詞）に由来します。relic（遺物）や relinquish（手放す）と同じ語根で、「後に残されたもの」を意味します。",
+    "etym_chain": [
+      { "node": "relinquere", "sub": "後に残す", "era": "ラテン語" },
+      { "node": "relictus", "sub": "残された", "era": "ラテン語" },
+      { "node": "relict", "sub": "遺存種・残存物", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a relict species", "ja": "遺存種" },
+      { "en": "a relict population", "ja": "遺存個体群" },
+      { "en": "a relict of the Ice Age", "ja": "氷河期の遺存種" },
+      { "en": "a relict landform", "ja": "残存地形" },
+      { "en": "a relict forest", "ja": "遺存林" },
+      { "en": "glacial relict", "ja": "氷河期の遺存生物" }
+    ],
+    "related": [
+      { "en": "relic", "ja": "遺物・聖遺物" },
+      { "en": "remnant", "ja": "残り・名残" },
+      { "en": "survivor", "ja": "生き残り" },
+      { "en": "vestige", "ja": "痕跡・名残" }
+    ],
+    "faq": [
+      { "q": "relict とはどんな意味？", "a": "かつて広く分布した生物が限られた場所に生き残った『遺存種』、また過去の環境の名残として残った『残存物・地形』を指す学術語です。" },
+      { "q": "relict と relic の違いは？", "a": "relict は『（生物・地形の）遺存・残存』、relic は『聖遺物・遺物』です。つづりと発音（末尾の t の有無）に注意しましょう。" }
+    ],
+    "quiz": [
+      { "q": "The fish is a ___ of the Ice Age.（遺存種）", "A": "relict", "B": "relic の聖遺物", "C": "relish の薬味", "D": "relief の安心", "correct": "A" },
+      { "q": "relict の語源の意味はどれ？", "A": "残された", "B": "選ばれた", "C": "壊された", "D": "数えられた", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ria",
+    "pron": "ˈriːə",
+    "kana": "リア",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "スペイン語 ría（入り江）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "地理"],
+    "meaning_main": "リア（沈水した谷に海が入り込んでできた細長い入り江）",
+    "description": "ria の意味・発音・例文・語源を解説。陸地が沈んで谷に海が入り込んでできた細長い入り江「リア」を指す地理用語の使い方を紹介します。",
+    "keywords": ["ria 意味", "ria 発音", "ria 入り江", "ria リアス式海岸"],
+    "meanings": [
+      { "hinshi": "【名詞】リア（沈水でできた入り江）", "note": "陸が沈み、川の谷に海水が入り込んでできた細長い入り江。多数連なると『リアス式海岸（ria coast）』。" }
+    ],
+    "usages": [
+      { "title": "① 地形として", "desc": "沈水でできた入り江を指します。", "example_en": "The coast is dotted with deep rias.", "example_ja": "その海岸は深いリアが点在している。" },
+      { "title": "② リアス式海岸の説明で", "desc": "入り組んだ海岸地形を表します。", "example_en": "A ria coast has many inlets and bays.", "example_ja": "リアス式海岸は多くの入り江と湾をもつ。" }
+    ],
+    "warn": [
+      "ria は『沈水した谷に海が入り込んでできた入り江』。多数連なる海岸が『リアス式海岸（ria coast）』。",
+      "氷河が削った深い入り江は fjord（フィヨルド）で、成り立ちが違う。"
+    ],
+    "etym_note": "スペイン語 ría（入り江、río「川」より）に由来します。スペイン北西部ガリシア地方の入り江地形にちなみ、地理用語として広まりました。日本語の『リアス式海岸』もこの語から来ています。",
+    "etym_chain": [
+      { "node": "río", "sub": "川", "era": "スペイン語" },
+      { "node": "ría", "sub": "入り江", "era": "スペイン語" },
+      { "node": "ria", "sub": "リア（入り江）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a ria coast", "ja": "リアス式海岸" },
+      { "en": "a deep ria", "ja": "深い入り江" },
+      { "en": "a drowned ria", "ja": "沈水した入り江" },
+      { "en": "rias and inlets", "ja": "リアと入り江" },
+      { "en": "a winding ria", "ja": "曲がりくねった入り江" },
+      { "en": "the mouth of a ria", "ja": "入り江の口" }
+    ],
+    "related": [
+      { "en": "fjord", "ja": "フィヨルド" },
+      { "en": "inlet", "ja": "入り江" },
+      { "en": "estuary", "ja": "河口・三角江" },
+      { "en": "bay", "ja": "湾" }
+    ],
+    "faq": [
+      { "q": "ria とはどんな意味？", "a": "陸地が沈んで川の谷に海水が入り込んでできた細長い『入り江』のことです。多数連なる海岸が『リアス式海岸（ria coast）』です。" },
+      { "q": "ria と fjord の違いは？", "a": "ria は『沈水した川の谷にできた入り江』、fjord（フィヨルド）は『氷河が削った深い谷に海が入った入り江』で、成り立ちが異なります。" }
+    ],
+    "quiz": [
+      { "q": "The coast is dotted with deep ___s.（入り江）", "A": "ria", "B": "rim の縁", "C": "rib のあばら骨", "D": "rig の装備", "correct": "A" },
+      { "q": "ria の語源の意味はどれ？", "A": "川", "B": "山", "C": "島", "D": "砂", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rugose",
+    "pron": "ˈruːɡoʊs",
+    "kana": "ルゴース",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 rugosus（しわの多い）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "学術"],
+    "meaning_main": "しわのある・しわの寄った（特に葉や殻などの表面）",
+    "description": "rugose の意味・発音・例文・語源を解説。葉や貝殻などの表面が「しわのある・しわの寄った」ようすを表す、生物学などで使う語の使い方を紹介します。",
+    "keywords": ["rugose 意味", "rugose 発音", "rugose しわ", "rugose 葉"],
+    "meanings": [
+      { "hinshi": "【形容詞】しわのある・しわの寄った", "note": "表面に細かいしわや溝があるようす。植物の葉、貝殻、化石などの記述に使う学術的な語。" }
+    ],
+    "usages": [
+      { "title": "① 植物の葉について", "desc": "しわの寄った葉の表面を表します。", "example_en": "The plant has thick, rugose leaves.", "example_ja": "その植物は厚くしわの寄った葉をもつ。" },
+      { "title": "② 表面の質感について", "desc": "しわや溝のある表面を表します。", "example_en": "The shell had a rugose surface.", "example_ja": "その貝殻はしわのある表面をしていた。" }
+    ],
+    "warn": [
+      "rugose は『（表面が）しわのある』という学術的な語。植物・貝殻・化石などの記述に使う。",
+      "古生代のサンゴ Rugosa（四放サンゴ類）はこの語に由来する。"
+    ],
+    "etym_note": "ラテン語 rugosus（しわの多い、ruga「しわ」より）に由来します。corrugated（波形の・しわの寄った）と同じ ruga を語根にもち、「しわ・溝のある」を意味します。",
+    "etym_chain": [
+      { "node": "ruga", "sub": "しわ", "era": "ラテン語" },
+      { "node": "rugosus", "sub": "しわの多い", "era": "ラテン語" },
+      { "node": "rugose", "sub": "しわのある", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rugose leaves", "ja": "しわの寄った葉" },
+      { "en": "a rugose surface", "ja": "しわのある表面" },
+      { "en": "rugose bark", "ja": "しわのある樹皮" },
+      { "en": "a rugose shell", "ja": "しわのある貝殻" },
+      { "en": "deeply rugose", "ja": "深くしわの寄った" },
+      { "en": "rugose skin", "ja": "しわの寄った皮膚" }
+    ],
+    "related": [
+      { "en": "wrinkled", "ja": "しわの寄った" },
+      { "en": "corrugated", "ja": "波形の・しわの寄った" },
+      { "en": "furrowed", "ja": "溝のある" },
+      { "en": "smooth", "ja": "なめらかな（反対語）" }
+    ],
+    "faq": [
+      { "q": "rugose とはどんな意味？", "a": "表面に細かいしわや溝がある『しわのある・しわの寄った』ようすを表す学術的な形容詞です。植物の葉や貝殻、化石などの記述に使います。" },
+      { "q": "rugose と wrinkled の違いは？", "a": "意味はほぼ同じ『しわのある』ですが、rugose は植物学・生物学などで使う学術語、wrinkled は日常的に肌や布などに使う語です。" }
+    ],
+    "quiz": [
+      { "q": "The plant has thick, ___ leaves.（しわの寄った）", "A": "rugose", "B": "rugged のごつごつした", "C": "rosy のばら色の", "D": "rusty のさびた", "correct": "A" },
+      { "q": "rugose の語源 ruga の意味はどれ？", "A": "しわ", "B": "岩", "C": "光", "D": "根", "correct": "A" }
+    ]
+  }
+]

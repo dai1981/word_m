@@ -1,0 +1,475 @@
+[
+  {
+    "english": "ream",
+    "pron": "riːm",
+    "kana": "リーム",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "アラビア語 rizma（束）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "単位・日常"],
+    "meaning_main": "（紙の）連・1帖（約500枚）／（reams で）大量・たくさん",
+    "description": "ream の意味・発音・例文・語源を解説。紙の数量の単位「連（約500枚）」と、reams of で「大量の」を表す使い方を分かりやすく紹介します。",
+    "keywords": ["ream 意味", "ream 発音", "ream 紙", "reams of 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】（紙の）連・1帖（約500枚）", "note": "紙の数量を表す単位。a ream of paper（紙1連＝約500枚）。" },
+      { "hinshi": "【名詞】（reams で）大量・たくさん", "note": "reams of data（大量のデータ）のように「おびただしい量」を表す。" }
+    ],
+    "usages": [
+      { "title": "① 紙の単位として", "desc": "約500枚をひとまとめにした単位です。", "example_en": "I bought a ream of printer paper.", "example_ja": "私はプリンター用紙を1連（約500枚）買った。" },
+      { "title": "② reams of として", "desc": "「大量の・おびただしい」を表します。", "example_en": "He wrote reams of notes during the lecture.", "example_ja": "彼は講義中に大量のノートを書いた。" }
+    ],
+    "warn": [
+      "ream は紙の単位『連（約500枚）』。reams of ～ で『大量の』という比喩でよく使う。",
+      "発音は『リーム（riːm）』。同音の遊び的用法に注意するが、基本は紙の量。"
+    ],
+    "etym_note": "アラビア語 rizma（包み・束）に由来し、スペイン語 resma を経て英語に入りました。もとは「ひとまとめにした紙の束」を指し、紙の数量の単位になりました。",
+    "etym_chain": [
+      { "node": "rizma", "sub": "包み・束", "era": "アラビア語" },
+      { "node": "resma", "sub": "紙の束", "era": "スペイン語" },
+      { "node": "ream", "sub": "紙の連（約500枚）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a ream of paper", "ja": "紙1連（約500枚）" },
+      { "en": "reams of paper", "ja": "大量の紙" },
+      { "en": "reams of data", "ja": "膨大なデータ" },
+      { "en": "reams of notes", "ja": "大量のノート" },
+      { "en": "buy a ream", "ja": "1連買う" },
+      { "en": "reams of paperwork", "ja": "山のような書類仕事" }
+    ],
+    "related": [
+      { "en": "sheet", "ja": "（紙）1枚" },
+      { "en": "quire", "ja": "（紙の）1帖・24〜25枚" },
+      { "en": "stack", "ja": "積み重ね" },
+      { "en": "bundle", "ja": "束" }
+    ],
+    "faq": [
+      { "q": "ream とはどんな意味？", "a": "紙の数量を表す単位『連（れん）』で、約500枚をひとまとめにしたものです。a ream of paper（紙1連）のように使います。reams of で『大量の』という意味にもなります。" },
+      { "q": "reams of ～ とは？", "a": "『大量の・おびただしい量の』という意味です。reams of data（膨大なデータ）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "I bought a ___ of printer paper.（紙1連）", "A": "ream", "B": "realm の領域", "C": "beam の光線", "D": "team のチーム", "correct": "A" },
+      { "q": "1 ream はおよそ何枚？", "A": "約500枚", "B": "約10枚", "C": "約50枚", "D": "約5000枚", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reaper",
+    "pron": "ˈriːpər",
+    "kana": "リーパー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "reap（刈り取る）＋ -er",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "文化・農業"],
+    "meaning_main": "刈り取る人・刈り取り機／（the Grim Reaper で）死神",
+    "description": "reaper の意味・発音・例文・語源を解説。穀物を「刈り取る人・刈り取り機」と、大鎌を持つ「死神（the Grim Reaper）」という使い方を分かりやすく紹介します。",
+    "keywords": ["reaper 意味", "reaper 発音", "reaper 死神", "grim reaper 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】刈り取る人・刈り取り機", "note": "穀物を刈る人、または収穫機械。動詞 reap（刈り取る）から。" },
+      { "hinshi": "【名詞】（the Grim Reaper で）死神", "note": "大鎌（scythe）を持ち命を刈り取る、死を擬人化した姿。" }
+    ],
+    "usages": [
+      { "title": "① 「刈り取る人・刈り取り機」として", "desc": "穀物を刈る人や機械を指します。", "example_en": "The reapers worked in the fields all day.", "example_ja": "刈り取り人たちは一日じゅう畑で働いた。" },
+      { "title": "② 「死神」として", "desc": "the Grim Reaper の形で死を擬人化します。", "example_en": "The Grim Reaper is often shown with a scythe.", "example_ja": "死神はしばしば大鎌を持った姿で描かれる。" }
+    ],
+    "warn": [
+      "reaper は『刈り取る人・刈り取り機』。the Grim Reaper（大鎌を持つ死神）が有名な比喩。",
+      "ことわざ As you sow, so shall you reap.（まいたものを刈り取る＝自業自得）と同じ reap の派生。"
+    ],
+    "etym_note": "動詞 reap（刈り取る）に「〜する人・もの」の -er が付いた語です。reap は古英語 ripan（刈り取る）に由来します。命を刈り取るイメージから「死神（the Grim Reaper）」の意味が生まれました。",
+    "etym_chain": [
+      { "node": "ripan", "sub": "刈り取る", "era": "古英語" },
+      { "node": "reap", "sub": "刈り取る", "era": "中英語" },
+      { "node": "reaper", "sub": "刈り取る人・死神", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the Grim Reaper", "ja": "死神" },
+      { "en": "a mechanical reaper", "ja": "（機械の）刈り取り機" },
+      { "en": "reapers in the field", "ja": "畑の刈り取り人" },
+      { "en": "the reaper's scythe", "ja": "死神の大鎌" },
+      { "en": "a tireless reaper", "ja": "休まず刈り取る人" },
+      { "en": "harvest reaper", "ja": "収穫用刈り取り機" }
+    ],
+    "related": [
+      { "en": "reap", "ja": "刈り取る" },
+      { "en": "harvest", "ja": "収穫（する）" },
+      { "en": "scythe", "ja": "大鎌" },
+      { "en": "harvester", "ja": "収穫機" }
+    ],
+    "faq": [
+      { "q": "reaper とはどんな意味？", "a": "穀物を『刈り取る人・刈り取り機』のことです。また the Grim Reaper の形で、大鎌を持ち命を刈り取る『死神』を表します。" },
+      { "q": "the Grim Reaper とは？", "a": "黒い衣をまとい大鎌を持った、死を擬人化した姿『死神』のことです。grim は『恐ろしい・厳しい』という意味です。" }
+    ],
+    "quiz": [
+      { "q": "The Grim ___ is often shown with a scythe.（死神）", "A": "Reaper", "B": "Reader の読者", "C": "Repair の修理", "D": "Reactor の原子炉", "correct": "A" },
+      { "q": "reaper のもとになった動詞はどれ？", "A": "reap（刈り取る）", "B": "read（読む）", "C": "reach（届く）", "D": "rear（育てる）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "redact",
+    "pron": "rɪˈdækt",
+    "kana": "リダクト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 redigere（まとめる・整える）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "報道・法律"],
+    "meaning_main": "（公開前に）編集する／（機密部分を）黒塗りで削除する",
+    "description": "redact の意味・発音・例文・語源を解説。公開する文書から機密部分を「黒塗りで削除する・編集する」という報道・法律で使う語の使い方を紹介します。",
+    "keywords": ["redact 意味", "redact 発音", "redact 黒塗り", "redacted 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（機密部分を）黒塗りで削除する・伏せる", "note": "公開文書の見せたくない部分を塗りつぶして隠す。a redacted document（一部黒塗りの文書）。" },
+      { "hinshi": "【動詞】（公開のために）編集する・整える", "note": "もとは『文書をまとめ整える』の意味。" }
+    ],
+    "usages": [
+      { "title": "① 「黒塗りで削除する」として", "desc": "機密部分を塗りつぶして隠す意味です。", "example_en": "Names were redacted from the report.", "example_ja": "報告書から名前が黒塗りで伏せられた。" },
+      { "title": "② 形容詞 redacted として", "desc": "「一部を黒塗りした」を表します。", "example_en": "They released a heavily redacted version.", "example_ja": "彼らは大幅に黒塗りした版を公開した。" }
+    ],
+    "warn": [
+      "redact は現代では主に『（公開前に機密部分を）黒塗りで削除する』。reduce（減らす）と混同しないよう注意。",
+      "a redacted document（一部黒塗りの文書）の形でよく使う。"
+    ],
+    "etym_note": "ラテン語 redigere（red-「戻して」＋ agere「動かす」＝まとめる・整える）の過去分詞 redactus に由来します。「文書をまとめ整える」がもとの意味で、そこから「公開向けに編集する→機密を伏せる」へ広がりました。",
+    "etym_chain": [
+      { "node": "redigere", "sub": "まとめる・整える", "era": "ラテン語" },
+      { "node": "redact", "sub": "編集する", "era": "近代英語" },
+      { "node": "redact", "sub": "黒塗りで削除する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a redacted document", "ja": "一部黒塗りの文書" },
+      { "en": "redact the names", "ja": "名前を黒塗りで伏せる" },
+      { "en": "heavily redacted", "ja": "大幅に黒塗りされた" },
+      { "en": "redact sensitive information", "ja": "機密情報を伏せる" },
+      { "en": "redact the report", "ja": "報告書の一部を伏せる" },
+      { "en": "fully redacted", "ja": "全面黒塗りの" }
+    ],
+    "related": [
+      { "en": "censor", "ja": "検閲して伏せる" },
+      { "en": "edit", "ja": "編集する" },
+      { "en": "conceal", "ja": "隠す" },
+      { "en": "obscure", "ja": "見えなくする" }
+    ],
+    "faq": [
+      { "q": "redact とはどんな意味？", "a": "公開する文書から機密や個人情報などの部分を『黒塗りで削除する・伏せる』という動詞です。a redacted document（一部黒塗りの文書）のように使います。" },
+      { "q": "redact と censor の違いは？", "a": "どちらも『伏せる』ですが、redact は『公開文書の特定部分を黒塗りで削除する』こと、censor は『不都合な内容を検閲して削る・抑える』ことを指します。" }
+    ],
+    "quiz": [
+      { "q": "Names were ___ed from the report.（黒塗りで伏せる）", "A": "redact", "B": "reduce の減らす", "C": "react の反応する", "D": "reflect の反映する", "correct": "A" },
+      { "q": "a redacted document とは？", "A": "一部が黒塗りされた文書", "B": "翻訳された文書", "C": "手書きの文書", "D": "公開禁止の文書", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reggae",
+    "pron": "ˈreɡeɪ",
+    "kana": "レゲエ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ジャマイカ英語 reggae（由来諸説）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "音楽"],
+    "meaning_main": "レゲエ（ジャマイカ生まれの音楽ジャンル）",
+    "description": "reggae の意味・発音・例文・語源を解説。ジャマイカで生まれた、独特の裏打ちリズムをもつ音楽「レゲエ」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["reggae 意味", "reggae 発音", "reggae 音楽", "reggae ジャマイカ"],
+    "meanings": [
+      { "hinshi": "【名詞】レゲエ", "note": "1960年代後半にジャマイカで生まれた音楽。裏拍を強調するリズムが特徴。" }
+    ],
+    "usages": [
+      { "title": "① 音楽ジャンルとして", "desc": "ジャマイカ生まれの音楽を指します。", "example_en": "Bob Marley made reggae popular worldwide.", "example_ja": "ボブ・マーリーはレゲエを世界中で人気にした。" },
+      { "title": "② 形容詞的に", "desc": "そのリズム・雰囲気を表します。", "example_en": "The band played a relaxed reggae beat.", "example_ja": "バンドはゆったりしたレゲエのビートを演奏した。" }
+    ],
+    "warn": [
+      "reggae は『ジャマイカ生まれの音楽ジャンル』。発音は『レゲイ／レゲエ（ˈreɡeɪ）』。",
+      "つづりに注意（reggae、g が2つ・末尾 ae）。"
+    ],
+    "etym_note": "1960年代後半のジャマイカで生まれた語で、由来には諸説あります（『ぼろ・けんか』を意味する方言 streggae から、あるいは擬音的な名づけなど）。ジャマイカ英語から世界へ広まりました。",
+    "etym_chain": [
+      { "node": "streggae?", "sub": "ぼろ・けんか（一説）", "era": "ジャマイカ方言" },
+      { "node": "reggae", "sub": "レゲエ", "era": "ジャマイカ英語" },
+      { "node": "reggae", "sub": "レゲエ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reggae music", "ja": "レゲエ音楽" },
+      { "en": "a reggae beat", "ja": "レゲエのビート" },
+      { "en": "play reggae", "ja": "レゲエを演奏する" },
+      { "en": "a reggae band", "ja": "レゲエバンド" },
+      { "en": "roots reggae", "ja": "ルーツレゲエ" },
+      { "en": "reggae rhythm", "ja": "レゲエのリズム" }
+    ],
+    "related": [
+      { "en": "ska", "ja": "スカ（音楽）" },
+      { "en": "dub", "ja": "ダブ" },
+      { "en": "rhythm", "ja": "リズム" },
+      { "en": "genre", "ja": "（音楽の）ジャンル" }
+    ],
+    "faq": [
+      { "q": "reggae とはどんな意味？", "a": "1960年代後半にジャマイカで生まれた音楽ジャンル『レゲエ』のことです。裏拍を強調する独特のリズムが特徴で、ボブ・マーリーによって世界に広まりました。" },
+      { "q": "reggae と ska の違いは？", "a": "ska（スカ）はレゲエより前にジャマイカで生まれた、よりテンポの速い音楽です。レゲエはそこから発展し、よりゆったりしたリズムをもちます。" }
+    ],
+    "quiz": [
+      { "q": "Bob Marley made ___ popular worldwide.（レゲエ）", "A": "reggae", "B": "regal の王の", "C": "region の地域", "D": "regret の後悔", "correct": "A" },
+      { "q": "reggae はどこ生まれの音楽？", "A": "ジャマイカ", "B": "アメリカ", "C": "イギリス", "D": "ブラジル", "correct": "A" }
+    ]
+  },
+  {
+    "english": "risotto",
+    "pron": "rɪˈzɒtoʊ",
+    "kana": "リゾット",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "イタリア語 risotto（riso「米」より）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "食べ物"],
+    "meaning_main": "リゾット（米をだしで煮込んだイタリア料理）",
+    "description": "risotto の意味・発音・例文・語源を解説。米をブイヨンで煮込んだクリーミーなイタリア料理「リゾット」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["risotto 意味", "risotto 発音", "risotto リゾット", "risotto 料理"],
+    "meanings": [
+      { "hinshi": "【名詞】リゾット", "note": "米をバターで炒め、だし（ブイヨン）を少しずつ加えて煮込むイタリア料理。" }
+    ],
+    "usages": [
+      { "title": "① 料理名として", "desc": "米を煮込んだイタリア料理を指します。", "example_en": "She made a creamy mushroom risotto.", "example_ja": "彼女はクリーミーなきのこのリゾットを作った。" },
+      { "title": "② 注文・メニューで", "desc": "種類を添えて使います。", "example_en": "I ordered seafood risotto at the restaurant.", "example_ja": "私はそのレストランで魚介のリゾットを注文した。" }
+    ],
+    "warn": [
+      "risotto は『米をだしで煮込むイタリア料理』。粒を残した食感が特徴で、日本のおじやとは作り方が違う。",
+      "発音は『リゾット（rɪˈzɒtoʊ）』。複数形は risottos。"
+    ],
+    "etym_note": "イタリア語 risotto に由来し、riso（米、ラテン語 oryza より）に指小・派生の接尾辞が付いた語です。「米を使った料理」を意味し、rice（米）と同じ語根です。",
+    "etym_chain": [
+      { "node": "oryza", "sub": "米", "era": "ラテン語" },
+      { "node": "riso", "sub": "米", "era": "イタリア語" },
+      { "node": "risotto", "sub": "リゾット", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "mushroom risotto", "ja": "きのこのリゾット" },
+      { "en": "seafood risotto", "ja": "魚介のリゾット" },
+      { "en": "creamy risotto", "ja": "クリーミーなリゾット" },
+      { "en": "make risotto", "ja": "リゾットを作る" },
+      { "en": "a bowl of risotto", "ja": "リゾット1皿" },
+      { "en": "saffron risotto", "ja": "サフランのリゾット" }
+    ],
+    "related": [
+      { "en": "rice", "ja": "米" },
+      { "en": "pasta", "ja": "パスタ" },
+      { "en": "paella", "ja": "パエリア" },
+      { "en": "broth", "ja": "だし・ブイヨン" }
+    ],
+    "faq": [
+      { "q": "risotto とはどんな食べ物？", "a": "米をバターで炒め、だし（ブイヨン）を少しずつ加えながら煮込んで作る、クリーミーなイタリア料理です。粒の食感を少し残すのが特徴です。" },
+      { "q": "risotto と paella の違いは？", "a": "どちらも米料理ですが、risotto はイタリア料理でクリーミーに煮込み、paella はスペイン料理で平鍋で水分を飛ばして作ります。" }
+    ],
+    "quiz": [
+      { "q": "She made a creamy mushroom ___.（リゾット）", "A": "risotto", "B": "ricotta のリコッタ", "C": "rissole のリソール", "D": "ratio の比率", "correct": "A" },
+      { "q": "risotto はどこの料理？", "A": "イタリア", "B": "スペイン", "C": "フランス", "D": "ギリシャ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rotunda",
+    "pron": "roʊˈtʌndə",
+    "kana": "ロタンダ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "イタリア語 rotonda（丸い）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "建築"],
+    "meaning_main": "円形の建物・円形の広間（しばしばドーム天井つき）",
+    "description": "rotunda の意味・発音・例文・語源を解説。ドーム天井をもつ「円形の建物・円形ホール」を指す建築語の使い方を分かりやすく紹介します。",
+    "keywords": ["rotunda 意味", "rotunda 発音", "rotunda 円形", "rotunda 建物"],
+    "meanings": [
+      { "hinshi": "【名詞】円形の建物・円形の広間", "note": "円形の平面をもち、しばしばドーム天井がある建物や大広間。" }
+    ],
+    "usages": [
+      { "title": "① 「円形の建物」として", "desc": "ドーム天井をもつ円形の建造物を指します。", "example_en": "The Capitol's rotunda is famous for its dome.", "example_ja": "国会議事堂の円形ホールはそのドームで有名だ。" },
+      { "title": "② 「円形の広間」として", "desc": "建物内の円形の大広間を表します。", "example_en": "Visitors gathered in the marble rotunda.", "example_ja": "来館者は大理石の円形ホールに集まった。" }
+    ],
+    "warn": [
+      "rotunda は『円形の（しばしばドーム天井の）建物・広間』。rotund（丸々と太った）と語源は同じだが別語。",
+      "美術館・議事堂・教会などの円形ホールによく使う建築用語。"
+    ],
+    "etym_note": "イタリア語 rotonda（女性形で『丸い』）に由来し、ラテン語 rotundus（車輪のように丸い、rota「車輪」より）から来ています。rotate（回転する）や round（丸い）と同じ語根です。",
+    "etym_chain": [
+      { "node": "rota", "sub": "車輪", "era": "ラテン語" },
+      { "node": "rotundus", "sub": "丸い", "era": "ラテン語" },
+      { "node": "rotunda", "sub": "円形の建物", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the Capitol rotunda", "ja": "議事堂の円形ホール" },
+      { "en": "a marble rotunda", "ja": "大理石の円形広間" },
+      { "en": "a domed rotunda", "ja": "ドーム天井の円形ホール" },
+      { "en": "stand in the rotunda", "ja": "円形ホールに立つ" },
+      { "en": "the central rotunda", "ja": "中央の円形広間" },
+      { "en": "a grand rotunda", "ja": "壮大な円形ホール" }
+    ],
+    "related": [
+      { "en": "dome", "ja": "ドーム・丸屋根" },
+      { "en": "rotund", "ja": "丸々と太った" },
+      { "en": "atrium", "ja": "（吹き抜けの）中庭・ホール" },
+      { "en": "hall", "ja": "広間" }
+    ],
+    "faq": [
+      { "q": "rotunda とはどんな意味？", "a": "円形の平面をもち、しばしばドーム天井がある『円形の建物・円形の大広間』のことです。議事堂や美術館の中央ホールによく使われます。" },
+      { "q": "rotunda と dome の違いは？", "a": "dome は『丸屋根（ドーム）』そのもの、rotunda は『（しばしばドーム天井をもつ）円形の建物や広間』を指します。" }
+    ],
+    "quiz": [
+      { "q": "The Capitol's ___ is famous for its dome.（円形ホール）", "A": "rotunda", "B": "rotund の太った", "C": "rotation の回転", "D": "routine の習慣", "correct": "A" },
+      { "q": "rotunda と同じ語源なのは？", "A": "round（丸い）", "B": "route（経路）", "C": "rude（無礼な）", "D": "ruin（廃墟）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "roughage",
+    "pron": "ˈrʌfɪdʒ",
+    "kana": "ラフィッジ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rough（粗い）＋ -age",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "健康・食事"],
+    "meaning_main": "食物繊維・繊維質の多い食べ物（消化を助ける）",
+    "description": "roughage の意味・発音・例文・語源を解説。野菜や全粒穀物に含まれ消化を助ける「食物繊維・繊維質の食べ物」を指す語の使い方を紹介します。",
+    "keywords": ["roughage 意味", "roughage 発音", "roughage 食物繊維", "roughage 繊維質"],
+    "meanings": [
+      { "hinshi": "【名詞】食物繊維・繊維質の多い食べ物", "note": "体が消化しにくいが腸の働きを助ける繊維分。fiber とほぼ同義のやや古風な語。" }
+    ],
+    "usages": [
+      { "title": "① 「食物繊維」として", "desc": "消化を助ける繊維分を指します。", "example_en": "Vegetables provide plenty of roughage.", "example_ja": "野菜は豊富な食物繊維を供給する。" },
+      { "title": "② 健康・食事のアドバイスで", "desc": "繊維質をとる大切さを述べます。", "example_en": "You should eat more roughage for good digestion.", "example_ja": "消化のためにもっと繊維質をとるべきだ。" }
+    ],
+    "warn": [
+      "roughage は『食物繊維（繊維質の食べ物）』。現代では fiber / dietary fiber のほうが一般的。",
+      "発音は『ラフィッジ（ˈrʌfɪdʒ）』。rough（ラフ）＋ age。"
+    ],
+    "etym_note": "rough（粗い）に「集合・状態」を表す -age が付いた語で、「粗い（消化されにくい）もの」が原義です。野菜などの繊維質を指す語として使われます。",
+    "etym_chain": [
+      { "node": "rough", "sub": "粗い", "era": "中英語" },
+      { "node": "rough + -age", "sub": "粗いもの", "era": "近代英語" },
+      { "node": "roughage", "sub": "食物繊維", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "plenty of roughage", "ja": "豊富な食物繊維" },
+      { "en": "eat more roughage", "ja": "もっと繊維質をとる" },
+      { "en": "a source of roughage", "ja": "食物繊維の供給源" },
+      { "en": "roughage in the diet", "ja": "食事中の繊維質" },
+      { "en": "need roughage", "ja": "繊維質が必要だ" },
+      { "en": "lack of roughage", "ja": "繊維質の不足" }
+    ],
+    "related": [
+      { "en": "fiber", "ja": "（食物）繊維" },
+      { "en": "bran", "ja": "ふすま" },
+      { "en": "fibre", "ja": "繊維（英つづり）" },
+      { "en": "digestion", "ja": "消化" }
+    ],
+    "faq": [
+      { "q": "roughage とはどんな意味？", "a": "野菜や全粒穀物に多く含まれ、体は消化しにくいものの腸の働きを助ける『食物繊維・繊維質の食べ物』のことです。現代では fiber とも言います。" },
+      { "q": "roughage と fiber の違いは？", "a": "意味はほぼ同じ『食物繊維』です。roughage はやや古風・口語的、fiber（dietary fiber）はより一般的で栄養学的な語です。" }
+    ],
+    "quiz": [
+      { "q": "Vegetables provide plenty of ___.（食物繊維）", "A": "roughage", "B": "rummage のがさ探し", "C": "rampage の暴れ回り", "D": "rummy のラミー", "correct": "A" },
+      { "q": "roughage とほぼ同じ意味なのは？", "A": "fiber（食物繊維）", "B": "protein（タンパク質）", "C": "sugar（糖分）", "D": "salt（塩分）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "resurface",
+    "pron": "ˌriːˈsɜːrfɪs",
+    "kana": "リサーフェス",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ surface（表面・浮上する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "再び現れる・再浮上する／（道路の）表面を舗装し直す",
+    "description": "resurface の意味・発音・例文・語源を解説。隠れていた人・問題が「再び現れる」、また道路を「舗装し直す」という使い方を分かりやすく紹介します。",
+    "keywords": ["resurface 意味", "resurface 発音", "resurface 再浮上", "resurface 舗装"],
+    "meanings": [
+      { "hinshi": "【動詞】再び現れる・再浮上する", "note": "消えていた人・問題・話題がまた表に出る。Old rumors resurfaced（古いうわさが再燃した）。" },
+      { "hinshi": "【動詞】（道路などの）表面を舗装し直す", "note": "古い路面を新しく張り替える。resurface the road（道路を舗装し直す）。" }
+    ],
+    "usages": [
+      { "title": "① 「再び現れる」として", "desc": "消えていた人や問題が表に出る意味です。", "example_en": "The issue resurfaced years later.", "example_ja": "その問題は何年も後に再び浮上した。" },
+      { "title": "② 「舗装し直す」として", "desc": "道路などの表面を張り替える意味です。", "example_en": "The city plans to resurface the highway.", "example_ja": "市は幹線道路を舗装し直す予定だ。" }
+    ],
+    "warn": [
+      "resurface は『（隠れていたものが）再び現れる』と『（路面を）舗装し直す』の二つで使う。",
+      "比喩の『（問題・うわさが）再燃する』は resurface がぴったり。"
+    ],
+    "etym_note": "re-（再び）＋ surface（表面・浮かび上がる）から成り、「再び表面に出る＝再浮上する／表面を張り替える」が原義です。surface はラテン語 superficies（表面）に由来します。",
+    "etym_chain": [
+      { "node": "superficies", "sub": "表面", "era": "ラテン語" },
+      { "node": "surface", "sub": "表面・浮上する", "era": "近代英語" },
+      { "node": "resurface", "sub": "再浮上する・舗装し直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "resurface years later", "ja": "何年も後に再び現れる" },
+      { "en": "old rumors resurface", "ja": "古いうわさが再燃する" },
+      { "en": "resurface the road", "ja": "道路を舗装し直す" },
+      { "en": "suddenly resurface", "ja": "突然また現れる" },
+      { "en": "resurface the runway", "ja": "滑走路を舗装し直す" },
+      { "en": "the problem resurfaced", "ja": "問題が再浮上した" }
+    ],
+    "related": [
+      { "en": "surface", "ja": "表面・浮上する" },
+      { "en": "reappear", "ja": "再び現れる" },
+      { "en": "reemerge", "ja": "再浮上する" },
+      { "en": "repave", "ja": "舗装し直す" }
+    ],
+    "faq": [
+      { "q": "resurface とはどんな意味？", "a": "消えていた人・問題・話題が『再び現れる・再浮上する』という意味と、道路などの『表面を舗装し直す』という意味があります。" },
+      { "q": "resurface と reappear の違いは？", "a": "reappear は単に『再び姿を現す』、resurface は『（しばらく沈んでいたものが）再び表に出てくる』というニュアンスが強いです。" }
+    ],
+    "quiz": [
+      { "q": "The issue ___d years later.（再浮上した）", "A": "resurface", "B": "research の研究する", "C": "reserve の予約する", "D": "resist の抵抗する", "correct": "A" },
+      { "q": "resurface のもとになった語はどれ？", "A": "surface（表面）", "B": "service（奉仕）", "C": "source（源）", "D": "secure（守る）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retool",
+    "pron": "riːˈtuːl",
+    "kana": "リトゥール",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ tool（道具・設備を整える）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "ビジネス"],
+    "meaning_main": "（工場の）設備を入れ替える／（計画などを）作り変える・刷新する",
+    "description": "retool の意味・発音・例文・語源を解説。工場の「設備を入れ替える」、また計画や制度を「作り変える・刷新する」というビジネス語の使い方を紹介します。",
+    "keywords": ["retool 意味", "retool 発音", "retool 設備", "retool 刷新"],
+    "meanings": [
+      { "hinshi": "【動詞】（工場の）設備・機械を入れ替える", "note": "新しい製品を作るため工場の機械を整え直す。retool the factory。" },
+      { "hinshi": "【動詞】（計画・制度などを）作り変える・刷新する", "note": "やり方を新しく組み直す比喩。retool the strategy（戦略を練り直す）。" }
+    ],
+    "usages": [
+      { "title": "① 「設備を入れ替える」として", "desc": "工場の機械を整え直す意味です。", "example_en": "The plant was retooled to build electric cars.", "example_ja": "その工場は電気自動車を作るため設備を一新された。" },
+      { "title": "② 「作り変える・刷新する」として", "desc": "計画や制度を組み直す比喩です。", "example_en": "They retooled the program for the new market.", "example_ja": "彼らは新しい市場向けにそのプログラムを作り変えた。" }
+    ],
+    "warn": [
+      "retool は『工場の設備を入れ替える』が原義。比喩で『（計画・制度・番組などを）作り変える・刷新する』の意味も頻出。",
+      "tool（道具・工作機械）が語源。『新しい機械をそろえ直す』イメージ。"
+    ],
+    "etym_note": "re-（再び）＋ tool（道具・工作機械を備える）から成り、「機械をそろえ直す＝設備を入れ替える」が原義です。tool は古英語 tōl（道具）に由来します。",
+    "etym_chain": [
+      { "node": "tōl", "sub": "道具", "era": "古英語" },
+      { "node": "tool", "sub": "道具・設備を整える", "era": "近代英語" },
+      { "node": "retool", "sub": "設備を入れ替える・作り変える", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "retool the factory", "ja": "工場の設備を入れ替える" },
+      { "en": "retool the plant", "ja": "工場を設備変更する" },
+      { "en": "retool the strategy", "ja": "戦略を練り直す" },
+      { "en": "retool the program", "ja": "計画を作り変える" },
+      { "en": "retool for the future", "ja": "将来に向けて刷新する" },
+      { "en": "completely retool", "ja": "すっかり作り変える" }
+    ],
+    "related": [
+      { "en": "tool", "ja": "道具・設備を整える" },
+      { "en": "revamp", "ja": "刷新する" },
+      { "en": "overhaul", "ja": "総点検・抜本改革する" },
+      { "en": "modernize", "ja": "近代化する" }
+    ],
+    "faq": [
+      { "q": "retool とはどんな意味？", "a": "新しい製品を作るため工場の『設備・機械を入れ替える』のが原義です。比喩で計画や制度を『作り変える・刷新する』意味でもよく使われます。" },
+      { "q": "retool と revamp の違いは？", "a": "retool は『（設備や仕組みを）入れ替えて作り変える』、revamp は『（見た目・内容を）改良して一新する』ことに重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The plant was ___ed to build electric cars.（設備を一新する）", "A": "retool", "B": "retell の語り直す", "C": "retain の保持する", "D": "retire の引退する", "correct": "A" },
+      { "q": "retool のもとになった語はどれ？", "A": "tool（道具）", "B": "tool の代わりに pool（プール）", "C": "cool（涼しい）", "D": "fool（愚か者）", "correct": "A" }
+    ]
+  }
+]

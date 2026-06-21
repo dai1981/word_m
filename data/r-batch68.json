@@ -1,0 +1,525 @@
+[
+  {
+    "english": "rococo",
+    "pron": "rəˈkoʊkoʊ",
+    "kana": "ロココ",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 rocaille（岩・貝殻の装飾）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "美術・歴史"],
+    "meaning_main": "ロココ（18世紀の華麗で繊細な装飾様式）／（形容詞）過度に装飾的な",
+    "description": "rococo の意味・発音・例文・語源を解説。18世紀ヨーロッパの華麗で繊細な美術・建築様式「ロココ」や、過度に装飾的なようすを表す語の使い方を紹介します。",
+    "keywords": ["rococo 意味", "rococo 発音", "rococo 様式", "rococo 装飾"],
+    "meanings": [
+      { "hinshi": "【名詞】ロココ（様式）", "note": "18世紀ヨーロッパの、曲線と細やかな装飾を多用した華麗で優美な美術・建築様式。バロックに続く。" },
+      { "hinshi": "【形容詞】過度に装飾的な・凝りすぎた", "note": "飾り立てて手の込んだようす。a rococo style（華美な様式）。" }
+    ],
+    "usages": [
+      { "title": "① 美術様式として", "desc": "18世紀の華麗な装飾様式を指します。", "example_en": "The palace is decorated in the rococo style.", "example_ja": "その宮殿はロココ様式で装飾されている。" },
+      { "title": "② 「過度に装飾的な」として", "desc": "凝りすぎた華美なようすを表します。", "example_en": "The room had rococo gold trimmings.", "example_ja": "その部屋は華美な金の装飾で飾られていた。" }
+    ],
+    "warn": [
+      "rococo は『18世紀の華麗で繊細な装飾様式』。重厚な baroque（バロック）に続く、より軽やかで優美な様式。",
+      "比喩で『（文章・音楽などが）過度に凝った・装飾過多の』の意味でも使う。"
+    ],
+    "etym_note": "フランス語 rocaille（岩・貝殻を使った庭園や室内の装飾）に由来します。曲線的で貝殻のような細やかな飾りを多用した様式から、この名で呼ばれるようになりました。",
+    "etym_chain": [
+      { "node": "rocaille", "sub": "岩・貝殻の装飾", "era": "フランス語" },
+      { "node": "rococo", "sub": "ロココ様式", "era": "近代英語" },
+      { "node": "rococo", "sub": "ロココ・過度に装飾的な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the rococo style", "ja": "ロココ様式" },
+      { "en": "rococo architecture", "ja": "ロココ建築" },
+      { "en": "rococo decoration", "ja": "ロココ風の装飾" },
+      { "en": "in the rococo manner", "ja": "ロココ風に" },
+      { "en": "ornate rococo", "ja": "華麗なロココ" },
+      { "en": "rococo furniture", "ja": "ロココ様式の家具" }
+    ],
+    "related": [
+      { "en": "baroque", "ja": "バロック様式" },
+      { "en": "ornate", "ja": "華美な・凝った" },
+      { "en": "ornamental", "ja": "装飾的な" },
+      { "en": "elaborate", "ja": "手の込んだ" }
+    ],
+    "faq": [
+      { "q": "rococo とはどんな意味？", "a": "18世紀ヨーロッパの、曲線と細やかな装飾を多用した華麗で優美な美術・建築様式『ロココ』のことです。比喩で『過度に装飾的な』という形容詞にもなります。" },
+      { "q": "rococo と baroque の違いは？", "a": "baroque（バロック）は17世紀の重厚で力強い様式、rococo（ロココ）はそれに続く18世紀の、より軽やかで繊細・優美な様式です。" }
+    ],
+    "quiz": [
+      { "q": "The palace is decorated in the ___ style.（ロココ）", "A": "rococo", "B": "rodeo のロデオ", "C": "rotunda の円形ホール", "D": "rosette の花形飾り", "correct": "A" },
+      { "q": "rococo の直前の様式はどれ？", "A": "baroque（バロック）", "B": "gothic（ゴシック）", "C": "modern（モダン）", "D": "minimal（ミニマル）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rondo",
+    "pron": "ˈrɒndoʊ",
+    "kana": "ロンド",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "イタリア語 rondo（フランス語 rondeau より）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "音楽"],
+    "meaning_main": "ロンド（主題が繰り返し戻ってくる音楽形式）",
+    "description": "rondo の意味・発音・例文・語源を解説。主題（テーマ）が何度も戻ってくる音楽形式「ロンド」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["rondo 意味", "rondo 発音", "rondo 音楽", "rondo 形式"],
+    "meanings": [
+      { "hinshi": "【名詞】ロンド（音楽形式）", "note": "主題Aが間に別の部分をはさみながら何度も繰り返し戻ってくる形式（A-B-A-C-A など）。ソナタや協奏曲の終楽章に多い。" }
+    ],
+    "usages": [
+      { "title": "① 音楽形式として", "desc": "主題が繰り返し戻る形式を指します。", "example_en": "The sonata ends with a lively rondo.", "example_ja": "そのソナタは軽快なロンドで終わる。" },
+      { "title": "② 楽章として", "desc": "終楽章の形式としてよく使われます。", "example_en": "The final movement is a rondo.", "example_ja": "最終楽章はロンドだ。" }
+    ],
+    "warn": [
+      "rondo は『主題が繰り返し戻ってくる音楽形式』。A-B-A-C-A のように主題Aが何度も現れる。",
+      "発音は『ロンド（ˈrɒndoʊ）』。フランス語の詩形 rondeau（ロンドー）と語源を共有する。"
+    ],
+    "etym_note": "イタリア語 rondo に由来し、フランス語 rondeau（rond「丸い」より）から来ています。「丸く回って戻ってくる」イメージで、主題が周回するように戻る形式を表します。round（丸い）と同じ語根です。",
+    "etym_chain": [
+      { "node": "rond", "sub": "丸い", "era": "フランス語" },
+      { "node": "rondeau / rondo", "sub": "回って戻る形式", "era": "近代英語" },
+      { "node": "rondo", "sub": "ロンド", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a lively rondo", "ja": "軽快なロンド" },
+      { "en": "end with a rondo", "ja": "ロンドで終わる" },
+      { "en": "a rondo finale", "ja": "ロンドの終楽章" },
+      { "en": "the rondo theme", "ja": "ロンドの主題" },
+      { "en": "play a rondo", "ja": "ロンドを演奏する" },
+      { "en": "in rondo form", "ja": "ロンド形式で" }
+    ],
+    "related": [
+      { "en": "sonata", "ja": "ソナタ" },
+      { "en": "movement", "ja": "楽章" },
+      { "en": "refrain", "ja": "繰り返し・リフレイン" },
+      { "en": "theme", "ja": "主題" }
+    ],
+    "faq": [
+      { "q": "rondo とはどんな意味？", "a": "主題（テーマ）が間に別の部分をはさみながら何度も繰り返し戻ってくる音楽形式『ロンド』のことです。A-B-A-C-A のような構成で、終楽章に多く使われます。" },
+      { "q": "rondo の語源は？", "a": "フランス語 rondeau（rond「丸い」より）です。主題が『丸く回って戻ってくる』イメージで、round（丸い）と同じ語根です。" }
+    ],
+    "quiz": [
+      { "q": "The sonata ends with a lively ___.（ロンド）", "A": "rondo", "B": "rondeau の代わりに rodeo", "C": "rondel", "D": "rumba のルンバ", "correct": "A" },
+      { "q": "rondo の特徴はどれ？", "A": "主題が繰り返し戻ってくる", "B": "無調で進む", "C": "一度きりで終わる", "D": "歌詞がない静寂", "correct": "A" }
+    ]
+  },
+  {
+    "english": "repast",
+    "pron": "rɪˈpæst",
+    "kana": "リパスト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 repast（食事）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "文語"],
+    "meaning_main": "食事（特に改まった・文語的な言い方）",
+    "description": "repast の意味・発音・例文・語源を解説。「食事」を表す改まった文語的な語 repast の使い方を、例文や語源とともに分かりやすく紹介します。",
+    "keywords": ["repast 意味", "repast 発音", "repast 食事", "repast 文語"],
+    "meanings": [
+      { "hinshi": "【名詞】食事", "note": "meal の改まった・文学的な言い方。a hearty repast（たっぷりの食事）。" }
+    ],
+    "usages": [
+      { "title": "① 改まった「食事」として", "desc": "文語的に食事を表します。", "example_en": "They enjoyed a hearty repast after the journey.", "example_ja": "彼らは旅のあとたっぷりの食事を楽しんだ。" },
+      { "title": "② 格式ある場面で", "desc": "丁寧・文学的な響きで使います。", "example_en": "The guests were served an elegant repast.", "example_ja": "客たちは優雅な食事をふるまわれた。" }
+    ],
+    "warn": [
+      "repast は『食事』の文語的・改まった語。日常では meal を使う。",
+      "発音は『リパスト（rɪˈpæst）』。past（過去）を含むが意味は無関係。"
+    ],
+    "etym_note": "古フランス語 repast（repaistre「食べさせる」より）に由来し、ラテン語 pascere（養う・食べさせる）から来ています。pasture（牧草地）や pastor（牧者）と同じ語根で、「養う＝食事」を意味します。",
+    "etym_chain": [
+      { "node": "pascere", "sub": "養う・食べさせる", "era": "ラテン語" },
+      { "node": "repast", "sub": "食事", "era": "古フランス語" },
+      { "node": "repast", "sub": "食事（文語）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a hearty repast", "ja": "たっぷりの食事" },
+      { "en": "an elegant repast", "ja": "優雅な食事" },
+      { "en": "a light repast", "ja": "軽い食事" },
+      { "en": "enjoy a repast", "ja": "食事を楽しむ" },
+      { "en": "a simple repast", "ja": "質素な食事" },
+      { "en": "after the repast", "ja": "食事のあとで" }
+    ],
+    "related": [
+      { "en": "meal", "ja": "食事" },
+      { "en": "feast", "ja": "ごちそう・宴" },
+      { "en": "banquet", "ja": "宴会" },
+      { "en": "dine", "ja": "食事をする" }
+    ],
+    "faq": [
+      { "q": "repast とはどんな意味？", "a": "『食事』を表す改まった文語的な語です。日常では meal を使いますが、repast は文学作品や格式ある場面で使われます。a hearty repast（たっぷりの食事）のように使います。" },
+      { "q": "repast と meal の違いは？", "a": "意味は同じ『食事』ですが、repast は文語的・改まった響きをもち、meal が一般的な日常語です。" }
+    ],
+    "quiz": [
+      { "q": "They enjoyed a hearty ___ after the journey.（食事）", "A": "repast", "B": "repose の休息", "C": "report の報告", "D": "request の要求", "correct": "A" },
+      { "q": "repast に最も近い意味はどれ？", "A": "meal（食事）", "B": "past（過去）", "C": "rest（休息）", "D": "road（道）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "redoubt",
+    "pron": "rɪˈdaʊt",
+    "kana": "リダウト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 reductus（退避所）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "軍事・歴史"],
+    "meaning_main": "（独立した）小さな砦・堡塁（ほうるい）／（比喩）最後のとりで・拠点",
+    "description": "redoubt の意味・発音・例文・語源を解説。独立した防御用の「小さな砦・堡塁」や、比喩の「最後のとりで・拠点」を表す語の使い方を紹介します。",
+    "keywords": ["redoubt 意味", "redoubt 発音", "redoubt 砦", "redoubt とりで"],
+    "meanings": [
+      { "hinshi": "【名詞】（独立した）小さな砦・堡塁", "note": "兵を守るために築いた、独立した小規模な防御陣地。" },
+      { "hinshi": "【名詞】（比喩）最後のとりで・拠点", "note": "ある勢力・主義の根強い拠点。a redoubt of tradition（伝統の牙城）。" }
+    ],
+    "usages": [
+      { "title": "① 「小さな砦・堡塁」として", "desc": "独立した防御陣地を指します。", "example_en": "The soldiers defended the hilltop redoubt.", "example_ja": "兵士たちは丘の上の堡塁を守った。" },
+      { "title": "② 「最後のとりで」として", "desc": "勢力の根強い拠点を表す比喩です。", "example_en": "The town was a redoubt of the old aristocracy.", "example_ja": "その町は古い貴族階級の牙城だった。" }
+    ],
+    "warn": [
+      "redoubt は『独立した小さな砦・堡塁』。比喩で『（主義・勢力の）最後のとりで・牙城』にも使う。",
+      "発音は『リダウト（rɪˈdaʊt）』。形容詞 redoubtable（手ごわい）と関連するが意味は別。"
+    ],
+    "etym_note": "ラテン語 reductus（退避所・引っ込んだ場所、reducere「引き戻す」より）に由来し、イタリア語・フランス語を経て英語に入りました。b のつづりは redoubtable（手ごわい）の影響で加わったとされます。",
+    "etym_chain": [
+      { "node": "reductus", "sub": "退避所", "era": "ラテン語" },
+      { "node": "redoute", "sub": "砦", "era": "フランス語" },
+      { "node": "redoubt", "sub": "堡塁・とりで", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a hilltop redoubt", "ja": "丘の上の堡塁" },
+      { "en": "defend the redoubt", "ja": "堡塁を守る" },
+      { "en": "a mountain redoubt", "ja": "山中の砦" },
+      { "en": "a redoubt of tradition", "ja": "伝統の牙城" },
+      { "en": "the last redoubt", "ja": "最後のとりで" },
+      { "en": "a fortified redoubt", "ja": "防備を固めた堡塁" }
+    ],
+    "related": [
+      { "en": "fortress", "ja": "要塞" },
+      { "en": "stronghold", "ja": "とりで・拠点" },
+      { "en": "bastion", "ja": "稜堡・牙城" },
+      { "en": "fort", "ja": "砦" }
+    ],
+    "faq": [
+      { "q": "redoubt とはどんな意味？", "a": "兵を守るために築いた『独立した小さな砦・堡塁』のことです。比喩で『（主義・勢力の）最後のとりで・牙城』も表します。" },
+      { "q": "redoubt と redoubtable は関係ある？", "a": "つづりは似ていますが意味は別です。redoubt は『砦』、redoubtable は『手ごわい・恐るべき』という形容詞です。" }
+    ],
+    "quiz": [
+      { "q": "The soldiers defended the hilltop ___.（堡塁）", "A": "redoubt", "B": "redhead の赤毛", "C": "rebound のはね返り", "D": "rebate の払い戻し", "correct": "A" },
+      { "q": "redoubt の比喩の意味はどれ？", "A": "最後のとりで・牙城", "B": "広い平原", "C": "短い休息", "D": "新しい計画", "correct": "A" }
+    ]
+  },
+  {
+    "english": "refectory",
+    "pron": "rɪˈfektəri",
+    "kana": "リフェクトリー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "後期ラテン語 refectorium（食事をする所）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "建物"],
+    "meaning_main": "（修道院・学校などの）食堂・大食堂",
+    "description": "refectory の意味・発音・例文・語源を解説。修道院・大学・学校などにある共同の「食堂・大食堂」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["refectory 意味", "refectory 発音", "refectory 食堂", "refectory 修道院"],
+    "meanings": [
+      { "hinshi": "【名詞】（修道院・学校などの）食堂・大食堂", "note": "修道院・大学・学校などで多人数が食事をする共同の大食堂。" }
+    ],
+    "usages": [
+      { "title": "① 修道院の食堂として", "desc": "共同で食事をとる大食堂を指します。", "example_en": "The monks ate in silence in the refectory.", "example_ja": "修道士たちは食堂で静かに食事をとった。" },
+      { "title": "② 学校・大学の食堂として", "desc": "学生が食事をとる大食堂を表します。", "example_en": "Students gathered in the college refectory.", "example_ja": "学生たちは大学の食堂に集まった。" }
+    ],
+    "warn": [
+      "refectory は『（修道院・学校などの）共同の大食堂』。日常的なレストランは restaurant、社員食堂は cafeteria / canteen。",
+      "発音は『リフェクトリー（rɪˈfektəri）』。"
+    ],
+    "etym_note": "後期ラテン語 refectorium（refectus「元気を回復した」より＝食事をして力を取り戻す所）に由来します。reficere（作り直す・元気づける）から来ており、「食事で力を回復する場所」を意味します。",
+    "etym_chain": [
+      { "node": "reficere", "sub": "元気づける・回復させる", "era": "ラテン語" },
+      { "node": "refectorium", "sub": "食事をする所", "era": "後期ラテン語" },
+      { "node": "refectory", "sub": "食堂", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the monastery refectory", "ja": "修道院の食堂" },
+      { "en": "the college refectory", "ja": "大学の食堂" },
+      { "en": "eat in the refectory", "ja": "食堂で食事をとる" },
+      { "en": "a long refectory table", "ja": "食堂用の長テーブル" },
+      { "en": "the school refectory", "ja": "学校の大食堂" },
+      { "en": "gather in the refectory", "ja": "食堂に集まる" }
+    ],
+    "related": [
+      { "en": "canteen", "ja": "（職場・学校の）食堂" },
+      { "en": "cafeteria", "ja": "カフェテリア" },
+      { "en": "dining hall", "ja": "大食堂" },
+      { "en": "mess", "ja": "（軍隊などの）食堂" }
+    ],
+    "faq": [
+      { "q": "refectory とはどんな意味？", "a": "修道院・大学・学校などで多人数が共同で食事をとる『大食堂』のことです。The monks ate in the refectory.（修道士たちは食堂で食事をとった）のように使います。" },
+      { "q": "refectory と cafeteria の違いは？", "a": "refectory は特に修道院・学校などの伝統的な共同食堂を指す改まった語、cafeteria はセルフサービス式の食堂を指す一般的な語です。" }
+    ],
+    "quiz": [
+      { "q": "The monks ate in silence in the ___.（食堂）", "A": "refectory", "B": "reflector の反射板", "C": "refinery の精製所", "D": "repository の貯蔵庫", "correct": "A" },
+      { "q": "refectory の語源の意味はどれ？", "A": "食事で力を回復する所", "B": "祈りをささげる所", "C": "本を読む所", "D": "眠る所", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rhizome",
+    "pron": "ˈraɪzoʊm",
+    "kana": "ライゾーム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 rhizoma（根のかたまり）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "植物・科学"],
+    "meaning_main": "根茎（こんけい）（地中を横に伸びる茎）",
+    "description": "rhizome の意味・発音・例文・語源を解説。地中を横に伸びて節から芽や根を出す茎「根茎」を指す植物学の語の使い方を分かりやすく紹介します。",
+    "keywords": ["rhizome 意味", "rhizome 発音", "rhizome 根茎", "rhizome 植物"],
+    "meanings": [
+      { "hinshi": "【名詞】根茎（こんけい）", "note": "地中や地表を横にはう茎。節から芽や根を出して広がる。ショウガ・竹・アヤメなどに見られる。" }
+    ],
+    "usages": [
+      { "title": "① 植物の器官として", "desc": "横に伸びる地下茎を指します。", "example_en": "Ginger grows from an underground rhizome.", "example_ja": "ショウガは地下の根茎から育つ。" },
+      { "title": "② 繁殖の話で", "desc": "根茎で広がる植物を説明します。", "example_en": "Bamboo spreads quickly through its rhizomes.", "example_ja": "竹は根茎によって急速に広がる。" }
+    ],
+    "warn": [
+      "rhizome は『地中を横に伸びる茎（根茎）』。根（root）ではなく茎（stem）の一種である点に注意。",
+      "ショウガ・竹・アヤメ・蓮などが根茎をもつ代表例。"
+    ],
+    "etym_note": "ギリシャ語 rhizoma（根のかたまり、rhiza「根」より）に由来します。rhizo-（根）は rhizosphere（根圏）などにも使われる語根です。",
+    "etym_chain": [
+      { "node": "rhiza", "sub": "根", "era": "ギリシャ語" },
+      { "node": "rhizoma", "sub": "根のかたまり", "era": "ギリシャ語" },
+      { "node": "rhizome", "sub": "根茎", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an underground rhizome", "ja": "地下の根茎" },
+      { "en": "spread by rhizomes", "ja": "根茎で広がる" },
+      { "en": "a creeping rhizome", "ja": "はう根茎" },
+      { "en": "ginger rhizome", "ja": "ショウガの根茎" },
+      { "en": "divide the rhizome", "ja": "根茎を分ける" },
+      { "en": "rhizome growth", "ja": "根茎の成長" }
+    ],
+    "related": [
+      { "en": "root", "ja": "根" },
+      { "en": "stem", "ja": "茎" },
+      { "en": "tuber", "ja": "塊茎（ジャガイモなど）" },
+      { "en": "bulb", "ja": "球根" }
+    ],
+    "faq": [
+      { "q": "rhizome とはどんな意味？", "a": "地中や地表を横にはい、節から芽や根を出して広がる茎『根茎（こんけい）』のことです。ショウガ・竹・アヤメ・蓮などに見られます。" },
+      { "q": "rhizome は根と何が違う？", "a": "rhizome（根茎）は見た目が根に似ていますが、節・芽をもつ『茎』の一種です。根（root）とは器官として異なります。" }
+    ],
+    "quiz": [
+      { "q": "Ginger grows from an underground ___.（根茎）", "A": "rhizome", "B": "rhyme の韻", "C": "rhombus のひし形", "D": "rhino のサイ", "correct": "A" },
+      { "q": "rhizome は植物の何の一種？", "A": "茎", "B": "根", "C": "葉", "D": "花", "correct": "A" }
+    ]
+  },
+  {
+    "english": "riparian",
+    "pron": "rɪˈperiən",
+    "kana": "リペアリアン",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 riparius（川岸の）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "自然・法律"],
+    "meaning_main": "川岸の・河畔の・水辺の（川や水辺に関する）",
+    "description": "riparian の意味・発音・例文・語源を解説。川や水辺に関する「川岸の・河畔の」という、生態学や法律で使われる語の使い方を紹介します。",
+    "keywords": ["riparian 意味", "riparian 発音", "riparian 川岸", "riparian 河畔"],
+    "meanings": [
+      { "hinshi": "【形容詞】川岸の・河畔の・水辺の", "note": "川や水辺に隣接する・関係する。riparian habitat（河畔の生息環境）、riparian rights（沿岸権）。" }
+    ],
+    "usages": [
+      { "title": "① 生態・環境について", "desc": "川辺の自然環境を表します。", "example_en": "Riparian zones protect rivers from pollution.", "example_ja": "河畔の帯状の植生は川を汚染から守る。" },
+      { "title": "② 法律について", "desc": "川岸の土地の権利を表します。", "example_en": "The farm has riparian water rights.", "example_ja": "その農場は川の水を使う沿岸権をもつ。" }
+    ],
+    "warn": [
+      "riparian は『川岸の・水辺の』というかたい専門語。生態学（riparian zone）や法律（riparian rights）で使う。",
+      "海岸の場合は littoral / coastal を使う。riparian は主に川・湖の岸。"
+    ],
+    "etym_note": "ラテン語 riparius（川岸の、ripa「川岸」より）に由来します。river（川）や arrive（岸に着く＝到着する）とも語源的につながりがあります。",
+    "etym_chain": [
+      { "node": "ripa", "sub": "川岸", "era": "ラテン語" },
+      { "node": "riparius", "sub": "川岸の", "era": "ラテン語" },
+      { "node": "riparian", "sub": "川岸の・河畔の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "riparian zone", "ja": "河畔域・水辺の帯" },
+      { "en": "riparian habitat", "ja": "河畔の生息環境" },
+      { "en": "riparian rights", "ja": "沿岸権（川の水利権）" },
+      { "en": "riparian vegetation", "ja": "河畔の植生" },
+      { "en": "riparian land", "ja": "川岸の土地" },
+      { "en": "riparian ecosystem", "ja": "河畔の生態系" }
+    ],
+    "related": [
+      { "en": "riverbank", "ja": "川岸" },
+      { "en": "wetland", "ja": "湿地" },
+      { "en": "littoral", "ja": "沿岸の・海辺の" },
+      { "en": "aquatic", "ja": "水生の" }
+    ],
+    "faq": [
+      { "q": "riparian とはどんな意味？", "a": "川や水辺に隣接する・関係する『川岸の・河畔の・水辺の』という形容詞です。生態学の riparian zone（河畔域）や法律の riparian rights（沿岸権）のように使います。" },
+      { "q": "riparian と coastal の違いは？", "a": "riparian は『川や湖の岸の』、coastal（または littoral）は『海岸の』を指します。対象とする水辺が異なります。" }
+    ],
+    "quiz": [
+      { "q": "___ zones protect rivers from pollution.（河畔の）", "A": "Riparian", "B": "Riparous", "C": "Ripping のすごい", "D": "Ripple のさざ波", "correct": "A" },
+      { "q": "riparian が指す水辺はどれ？", "A": "川や湖の岸", "B": "海の沖", "C": "砂漠の泉", "D": "地下水", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ruminant",
+    "pron": "ˈruːmɪnənt",
+    "kana": "ルーミナント",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 ruminare（反芻する）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "動物・科学"],
+    "meaning_main": "反芻（はんすう）動物（牛・羊など、一度飲み込んだ食物を口に戻してかみ直す動物）",
+    "description": "ruminant の意味・発音・例文・語源を解説。牛や羊のように、飲み込んだ草を口に戻してかみ直す「反芻動物」を指す語の使い方を紹介します。",
+    "keywords": ["ruminant 意味", "ruminant 発音", "ruminant 反芻動物", "ruminant 牛"],
+    "meanings": [
+      { "hinshi": "【名詞】反芻動物", "note": "牛・羊・ヤギ・シカなど、いったん飲み込んだ食物を口に戻してかみ直し、複数の胃で消化する動物。" },
+      { "hinshi": "【形容詞】反芻する・反芻動物の", "note": "ruminant animals（反芻動物）。" }
+    ],
+    "usages": [
+      { "title": "① 「反芻動物」として", "desc": "草をかみ直して消化する動物を指します。", "example_en": "Cows and sheep are ruminants.", "example_ja": "牛と羊は反芻動物だ。" },
+      { "title": "② 形容詞として", "desc": "反芻する性質を表します。", "example_en": "Ruminant animals have a four-chambered stomach.", "example_ja": "反芻動物は4つの部屋に分かれた胃をもつ。" }
+    ],
+    "warn": [
+      "ruminant は『反芻動物（牛・羊など）』。動詞 ruminate は『反芻する／じっくり思いめぐらす』。",
+      "反芻動物は複数の胃をもち、草を口に戻してかみ直す（chew the cud）。"
+    ],
+    "etym_note": "ラテン語 ruminare（反芻する、rumen「第一胃」より）に由来します。動詞 ruminate（反芻する・熟考する）と同じ語源で、「かみ直す＝じっくり考える」という比喩にもつながります。",
+    "etym_chain": [
+      { "node": "rumen", "sub": "第一胃", "era": "ラテン語" },
+      { "node": "ruminare", "sub": "反芻する", "era": "ラテン語" },
+      { "node": "ruminant", "sub": "反芻動物", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "ruminant animals", "ja": "反芻動物" },
+      { "en": "a ruminant's stomach", "ja": "反芻動物の胃" },
+      { "en": "cattle are ruminants", "ja": "牛は反芻動物だ" },
+      { "en": "ruminant digestion", "ja": "反芻による消化" },
+      { "en": "non-ruminant", "ja": "非反芻動物" },
+      { "en": "chew the cud", "ja": "反芻する" }
+    ],
+    "related": [
+      { "en": "ruminate", "ja": "反芻する・熟考する" },
+      { "en": "cud", "ja": "反芻する食べ物" },
+      { "en": "cattle", "ja": "牛" },
+      { "en": "graze", "ja": "草を食む" }
+    ],
+    "faq": [
+      { "q": "ruminant とはどんな意味？", "a": "牛・羊・ヤギ・シカなど、いったん飲み込んだ食物を口に戻してかみ直し、複数の胃で消化する『反芻動物』のことです。" },
+      { "q": "ruminant と ruminate は関係ある？", "a": "はい。同じラテン語 ruminare（反芻する）に由来します。ruminant は『反芻動物』、ruminate は『反芻する／じっくり考える』です。" }
+    ],
+    "quiz": [
+      { "q": "Cows and sheep are ___s.（反芻動物）", "A": "ruminant", "B": "remnant の残り", "C": "reluctant の気が進まない", "D": "redundant の余分な", "correct": "A" },
+      { "q": "反芻動物の特徴はどれ？", "A": "食物を口に戻してかみ直す", "B": "肉だけを食べる", "C": "胃をもたない", "D": "冬眠する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rupee",
+    "pron": "ruːˈpiː",
+    "kana": "ルピー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "サンスクリット語 rupya（銀貨）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "通貨"],
+    "meaning_main": "ルピー（インド・パキスタンなど南アジアの通貨単位）",
+    "description": "rupee の意味・発音・例文・語源を解説。インドやパキスタンなど南アジアの国々で使われる通貨単位「ルピー」を指す語の使い方を紹介します。",
+    "keywords": ["rupee 意味", "rupee 発音", "rupee ルピー", "rupee 通貨"],
+    "meanings": [
+      { "hinshi": "【名詞】ルピー", "note": "インド・パキスタン・スリランカ・ネパールなど南アジアの国々で使われる通貨単位。記号は ₹ など。" }
+    ],
+    "usages": [
+      { "title": "① 通貨単位として", "desc": "南アジアの国の通貨を指します。", "example_en": "The ticket costs fifty rupees.", "example_ja": "その切符は50ルピーだ。" },
+      { "title": "② 両替の場面で", "desc": "現地通貨として使います。", "example_en": "I exchanged my dollars for rupees.", "example_ja": "私はドルをルピーに両替した。" }
+    ],
+    "warn": [
+      "rupee は『インド・パキスタンなど南アジアの通貨単位（ルピー）』。複数形は rupees。",
+      "インドネシアの通貨 rupiah（ルピア）とは別。混同しないよう注意。"
+    ],
+    "etym_note": "サンスクリット語 rupya（銀・銀貨、rupa「形・打刻された」より）に由来します。打刻された銀貨を意味し、南アジア各地の通貨名になりました。",
+    "etym_chain": [
+      { "node": "rupya", "sub": "銀貨", "era": "サンスクリット語" },
+      { "node": "rupee", "sub": "ルピー", "era": "近代英語" },
+      { "node": "rupee", "sub": "ルピー", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "fifty rupees", "ja": "50ルピー" },
+      { "en": "the Indian rupee", "ja": "インドルピー" },
+      { "en": "exchange for rupees", "ja": "ルピーに両替する" },
+      { "en": "a hundred rupees", "ja": "100ルピー" },
+      { "en": "the rupee fell", "ja": "ルピーが下落した" },
+      { "en": "pay in rupees", "ja": "ルピーで支払う" }
+    ],
+    "related": [
+      { "en": "rupiah", "ja": "ルピア（インドネシア）" },
+      { "en": "currency", "ja": "通貨" },
+      { "en": "exchange rate", "ja": "為替レート" },
+      { "en": "coin", "ja": "硬貨" }
+    ],
+    "faq": [
+      { "q": "rupee とはどんな意味？", "a": "インド・パキスタン・スリランカ・ネパールなど南アジアの国々で使われる通貨単位『ルピー』のことです。The ticket costs fifty rupees.（50ルピー）のように使います。" },
+      { "q": "rupee と rupiah の違いは？", "a": "rupee（ルピー）はインドなど南アジアの通貨、rupiah（ルピア）はインドネシアの通貨です。語源は近いですが別の通貨です。" }
+    ],
+    "quiz": [
+      { "q": "The ticket costs fifty ___s.（ルピー）", "A": "rupee", "B": "ruby のルビー", "C": "rugby のラグビー", "D": "rumba のルンバ", "correct": "A" },
+      { "q": "rupee はどの地域の通貨？", "A": "南アジア（インドなど）", "B": "北欧", "C": "南米", "D": "西アフリカ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reify",
+    "pron": "ˈriːɪfaɪ",
+    "kana": "リーイファイ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 res（物）＋ -fy（〜にする）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "学術"],
+    "meaning_main": "（抽象的なものを）具体化する・実体のあるものとして扱う",
+    "description": "reify の意味・発音・例文・語源を解説。考えや概念など抽象的なものを「具体的な実体として扱う」という、哲学・社会学で使う学術語の使い方を紹介します。",
+    "keywords": ["reify 意味", "reify 発音", "reify 具体化", "reification 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（抽象概念を）具体化する・実体として扱う", "note": "考え・関係など本来は形のないものを、あたかも具体的な物であるかのように扱う。名詞は reification。" }
+    ],
+    "usages": [
+      { "title": "① 学術的な議論で", "desc": "抽象概念を物のように扱う意味です。", "example_en": "The theory reifies social class as a fixed thing.", "example_ja": "その理論は社会階級を固定した実体のように扱っている。" },
+      { "title": "② 批判的に", "desc": "抽象を不当に実体化することを指摘します。", "example_en": "Critics warn against reifying abstract ideas.", "example_ja": "批評家は抽象概念を実体化することに警鐘を鳴らす。" }
+    ],
+    "warn": [
+      "reify は『抽象的なものを具体的な実体として扱う』というかたい学術語。哲学・社会学で頻出。",
+      "名詞は reification（具体化・物象化）。しばしば『（不当に）実体視する』と批判的に使う。"
+    ],
+    "etym_note": "ラテン語 res（物・事物）＋ -fy（〜にする、facere「作る」より）から成り、「物にする＝実体化する」が原義です。real（現実の）や republic（共和国、res publica「公の事」）と同じ語根 res をもちます。",
+    "etym_chain": [
+      { "node": "res", "sub": "物・事物", "era": "ラテン語" },
+      { "node": "res + -fy", "sub": "物にする", "era": "近代英語" },
+      { "node": "reify", "sub": "具体化する・実体化する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reify an abstract concept", "ja": "抽象概念を実体化する" },
+      { "en": "reify social structures", "ja": "社会構造を実体視する" },
+      { "en": "tend to reify", "ja": "実体化しがちである" },
+      { "en": "reify an idea", "ja": "考えを具体化する" },
+      { "en": "the reification of", "ja": "〜の物象化" },
+      { "en": "avoid reifying", "ja": "実体化を避ける" }
+    ],
+    "related": [
+      { "en": "reification", "ja": "具体化・物象化（名詞）" },
+      { "en": "objectify", "ja": "対象化する・物扱いする" },
+      { "en": "abstract", "ja": "抽象的な" },
+      { "en": "concretize", "ja": "具体化する" }
+    ],
+    "faq": [
+      { "q": "reify とはどんな意味？", "a": "考えや関係など本来は形のない抽象的なものを、あたかも具体的な物であるかのように『実体化して扱う』という学術語です。名詞は reification（物象化）です。" },
+      { "q": "reify はどんな場面で使う？", "a": "哲学・社会学などの議論で、抽象概念を不当に固定した実体のように扱うことを指摘する場面でよく使われます。" }
+    ],
+    "quiz": [
+      { "q": "The theory ___ies social class as a fixed thing.（実体化する）", "A": "reify", "B": "ratify の批准する", "C": "rectify の修正する", "D": "rarefy の希薄にする", "correct": "A" },
+      { "q": "reify のもとになったラテン語 res の意味はどれ？", "A": "物・事物", "B": "王", "C": "光", "D": "水", "correct": "A" }
+    ]
+  }
+]

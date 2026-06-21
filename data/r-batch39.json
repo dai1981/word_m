@@ -1,0 +1,529 @@
+[
+  {
+    "english": "rapt",
+    "pron": "ræpt",
+    "kana": "ラプト",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 raptus（さらわれた）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "形容詞"],
+    "meaning_main": "うっとりした・夢中になった・心を奪われた",
+    "description": "rapt の意味・発音・例文・語源を解説。話や音楽に「夢中になって聞き入る」様子の使い方や、rapt attention（夢中の注目）も紹介します。",
+    "keywords": ["rapt 意味", "rapt 発音", "rapt attention 意味", "rapt 夢中"],
+    "meanings": [
+      { "hinshi": "【形容詞】うっとりした・夢中になった・心を奪われた", "note": "強い関心で完全に引き込まれた様子。with rapt attention（夢中で）。" }
+    ],
+    "usages": [
+      { "title": "① 「夢中になって・うっとりして」として", "desc": "完全に引き込まれている様子を表します。", "example_en": "The children listened with rapt attention.", "example_ja": "子どもたちは夢中になって聞き入った。" },
+      { "title": "② 「心を奪われた」として", "desc": "うっとりと見とれる様子を表します。", "example_en": "She gazed at the painting, rapt.", "example_ja": "彼女はうっとりとその絵に見入った。" }
+    ],
+    "warn": [
+      "rapt /ræpt/ と wrapped（包まれた）/ræpt/ は同音。be wrapped up in（夢中になる）と意味も近い。",
+      "rapture（歓喜）・rapid と同じ rap-（さらう）の語源。"
+    ],
+    "etym_note": "ラテン語 raptus（rapere「さらう」の過去分詞＝さらわれた）に由来します。「（心が）さらわれた＝うっとりした」が原義です。rapture・rapid と同じ語源です。",
+    "etym_chain": [
+      { "node": "rapere", "sub": "さらう", "era": "ラテン語" },
+      { "node": "raptus", "sub": "さらわれた", "era": "ラテン語" },
+      { "node": "rapt", "sub": "夢中になった", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rapt attention", "ja": "夢中の注目" },
+      { "en": "with rapt attention", "ja": "夢中になって" },
+      { "en": "a rapt audience", "ja": "聞き入る観客" },
+      { "en": "listen rapt", "ja": "夢中で聞く" },
+      { "en": "rapt in thought", "ja": "物思いにふけって" },
+      { "en": "a rapt expression", "ja": "うっとりした表情" }
+    ],
+    "related": [
+      { "en": "absorbed", "ja": "没頭した" },
+      { "en": "engrossed", "ja": "夢中になった" },
+      { "en": "fascinated", "ja": "魅了された" },
+      { "en": "bored", "ja": "退屈した（反対語）" }
+    ],
+    "faq": [
+      { "q": "rapt と wrapped の違いは？", "a": "発音は同じ /ræpt/ ですが、rapt は『夢中になった』、wrapped は『包まれた』です。be wrapped up in（〜に夢中）と意味も近く混同しやすいです。" },
+      { "q": "rapt attention とは？", "a": "『（わき目もふらず）夢中で聞き入る・見入る注目』という意味です。" }
+    ],
+    "quiz": [
+      { "q": "The children listened with ___ attention.（夢中の）", "A": "rapt", "B": "rapid の急速な", "C": "rough", "D": "rich", "correct": "A" },
+      { "q": "rapt と同音の語はどれ？", "A": "wrapped", "B": "ripped", "C": "robbed", "D": "rubbed", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ravenous",
+    "pron": "ˈrævənəs",
+    "kana": "ラベナス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "古フランス語 raviner（むさぼる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "形容詞"],
+    "meaning_main": "がつがつした・飢えきった・猛烈に空腹な",
+    "description": "ravenous の意味・発音・例文・語源を解説。「ものすごくお腹がすいた」という強い空腹を表す使い方を分かりやすく紹介します。",
+    "keywords": ["ravenous 意味", "ravenous 発音", "ravenous hungry 違い", "ravenous 空腹"],
+    "meanings": [
+      { "hinshi": "【形容詞】がつがつした・飢えきった・猛烈に空腹な", "note": "hungry を強めた語。a ravenous appetite（旺盛な食欲）。" }
+    ],
+    "usages": [
+      { "title": "① 「猛烈に空腹な」として", "desc": "ものすごくお腹がすいた状態を表します。", "example_en": "After the hike, we were ravenous.", "example_ja": "ハイキングのあと、私たちは腹ぺこだった。" },
+      { "title": "② 「がつがつした・貪欲な」として", "desc": "激しい欲求も表します。", "example_en": "He had a ravenous appetite for books.", "example_ja": "彼は本に対する旺盛な欲求を持っていた。" }
+    ],
+    "warn": [
+      "ravenous は hungry を強めた『飢えきった・腹ぺこの』。raven（ワタリガラス）とつづりが似ているが意味は別。",
+      "副詞は ravenously（がつがつと）。"
+    ],
+    "etym_note": "古フランス語 raviner（むさぼる・奪う。ラテン語 rapere「さらう」系）に由来します。「むさぼり食う」が原義です。",
+    "etym_chain": [
+      { "node": "rapere", "sub": "さらう・奪う", "era": "ラテン語" },
+      { "node": "raviner", "sub": "むさぼる", "era": "古フランス語" },
+      { "node": "ravenous", "sub": "飢えきった", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be ravenous", "ja": "腹ぺこである" },
+      { "en": "a ravenous appetite", "ja": "旺盛な食欲" },
+      { "en": "ravenous hunger", "ja": "猛烈な空腹" },
+      { "en": "eat ravenously", "ja": "がつがつ食べる" },
+      { "en": "ravenous for", "ja": "〜を渇望して" },
+      { "en": "absolutely ravenous", "ja": "もうぺこぺこ" }
+    ],
+    "related": [
+      { "en": "hungry", "ja": "空腹の" },
+      { "en": "starving", "ja": "飢えた" },
+      { "en": "voracious", "ja": "貪欲な" },
+      { "en": "full", "ja": "満腹の（反対語）" }
+    ],
+    "faq": [
+      { "q": "ravenous と hungry の違いは？", "a": "ravenous は hungry を強めた『猛烈に空腹な・腹ぺこの』という意味です。" },
+      { "q": "ravenous と raven は関係ある？", "a": "つづりは似ていますが、raven（ワタリガラス）とは別語です。ravenous は『むさぼる』が原義です。" }
+    ],
+    "quiz": [
+      { "q": "After the hike, we were ___.（腹ぺこ）", "A": "ravenous", "B": "rigorous", "C": "ridiculous", "D": "reluctant", "correct": "A" },
+      { "q": "ravenous と最も意味が近いのはどれ？", "A": "starving", "B": "full", "C": "tired", "D": "thirsty", "correct": "A" }
+    ]
+  },
+  {
+    "english": "raze",
+    "pron": "reɪz",
+    "kana": "レイズ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 radere（削り取る）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "（建物・町を）完全に破壊する・取り壊す",
+    "description": "raze の意味・発音・例文・語源を解説。建物を「跡形もなく取り壊す」使い方や、raze to the ground（完全に破壊する）も紹介します。",
+    "keywords": ["raze 意味", "raze 発音", "raze to the ground 意味", "raze 取り壊す"],
+    "meanings": [
+      { "hinshi": "【動詞】（建物・町を）完全に破壊する・取り壊す", "note": "跡形もなく壊す。raze a building（建物を取り壊す）。" }
+    ],
+    "usages": [
+      { "title": "① 「完全に破壊する」として", "desc": "建物などを跡形もなく壊す意味です。", "example_en": "The old factory was razed to make way for a park.", "example_ja": "古い工場は公園を作るため取り壊された。" },
+      { "title": "② raze to the ground として", "desc": "「完全に破壊する」を強調します。", "example_en": "The town was razed to the ground in the war.", "example_ja": "その町は戦争で完全に破壊された。" }
+    ],
+    "warn": [
+      "raze /reɪz/ と raise（上げる）/reɪz/ は同音だが意味は正反対（破壊する vs 上げる）。",
+      "raze to the ground は『完全に・跡形もなく破壊する』という決まり文句。"
+    ],
+    "etym_note": "ラテン語 radere（削り取る・こすり落とす）に由来します。erase（消す）・razor（かみそり）と同じ語源で、「削り取って跡形をなくす＝取り壊す」が原義です。",
+    "etym_chain": [
+      { "node": "radere", "sub": "削り取る", "era": "ラテン語" },
+      { "node": "raser", "sub": "壊す・削る", "era": "古フランス語" },
+      { "node": "raze", "sub": "完全に破壊する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "raze to the ground", "ja": "完全に破壊する" },
+      { "en": "raze a building", "ja": "建物を取り壊す" },
+      { "en": "be razed", "ja": "取り壊される" },
+      { "en": "raze a village", "ja": "村を破壊し尽くす" },
+      { "en": "razed in the fire", "ja": "火事で焼き尽くされた" },
+      { "en": "raze and rebuild", "ja": "取り壊して建て直す" }
+    ],
+    "related": [
+      { "en": "demolish", "ja": "取り壊す" },
+      { "en": "destroy", "ja": "破壊する" },
+      { "en": "level", "ja": "更地にする" },
+      { "en": "build", "ja": "建てる（反対語）" }
+    ],
+    "faq": [
+      { "q": "raze と raise の違いは？", "a": "発音は同じ /reɪz/ ですが、意味は正反対です。raze は『（建物を）完全に破壊する』、raise は『（〜を）上げる・育てる』です。" },
+      { "q": "raze to the ground とは？", "a": "『（建物・町を）跡形もなく完全に破壊する』という決まり文句です。" }
+    ],
+    "quiz": [
+      { "q": "The old factory was ___ to make way for a park.（取り壊された）", "A": "razed", "B": "raised の上げた", "C": "reduced", "D": "removed", "correct": "A" },
+      { "q": "raze と意味が近いのはどれ？", "A": "demolish（取り壊す）", "B": "build（建てる）", "C": "repair（修理する）", "D": "raise（上げる）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rebuke",
+    "pron": "rɪˈbjuːk",
+    "kana": "リビューク",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "古ノルマン仏語 rebuker（とがめる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "（厳しく）叱る・非難する／叱責",
+    "description": "rebuke の意味・発音・例文・語源を解説。「（厳しく）叱責する」というかたい語の使い方や、reprimand との近さも分かりやすく紹介します。",
+    "keywords": ["rebuke 意味", "rebuke 発音", "rebuke for 使い方", "rebuke 叱責"],
+    "meanings": [
+      { "hinshi": "【動詞】（厳しく）叱る・非難する", "note": "rebuke someone for（〜のことで叱る）。" },
+      { "hinshi": "【名詞】叱責・非難", "note": "a sharp rebuke（厳しい叱責）。" }
+    ],
+    "usages": [
+      { "title": "① 動詞「厳しく叱る」として", "desc": "強くとがめる意味です（かたい語）。", "example_en": "The teacher rebuked him for cheating.", "example_ja": "先生は不正をしたことで彼を厳しく叱った。" },
+      { "title": "② 名詞「叱責」として", "desc": "厳しい非難を表します。", "example_en": "He received a public rebuke.", "example_ja": "彼は公の場で叱責を受けた。" }
+    ],
+    "warn": [
+      "rebuke は『（厳しく・公に）叱責する』というかたい語。scold（しかる）より強い。reprimand に近い。",
+      "「〜のことで叱る」は rebuke someone for。"
+    ],
+    "etym_note": "古ノルマン・フランス語 rebuker（re-「逆に」＋ buschier「打つ・切る」＝打ち返してとがめる）に由来します。「強く打ち返すように叱る」が原義です。",
+    "etym_chain": [
+      { "node": "rebuker", "sub": "とがめる", "era": "ノルマン仏語" },
+      { "node": "rebuke", "sub": "叱責する", "era": "中英語" },
+      { "node": "rebuke", "sub": "厳しく叱る・叱責", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rebuke someone for", "ja": "〜のことで叱る" },
+      { "en": "a sharp rebuke", "ja": "厳しい叱責" },
+      { "en": "a public rebuke", "ja": "公の叱責" },
+      { "en": "a stinging rebuke", "ja": "痛烈な非難" },
+      { "en": "sternly rebuke", "ja": "厳しく叱る" },
+      { "en": "issue a rebuke", "ja": "叱責する" }
+    ],
+    "related": [
+      { "en": "reprimand", "ja": "叱責する" },
+      { "en": "scold", "ja": "しかる" },
+      { "en": "reproach", "ja": "とがめる" },
+      { "en": "praise", "ja": "ほめる（反対語）" }
+    ],
+    "faq": [
+      { "q": "rebuke と scold の違いは？", "a": "scold は『（一般的に）しかる』、rebuke は『（厳しく・公に）叱責する』というかたい語です。" },
+      { "q": "rebuke のあとの前置詞は？", "a": "for です。rebuke him for being late（遅刻したことで彼を叱る）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The teacher ___ him for cheating.（厳しく叱った）", "A": "rebuked", "B": "rebuilt の再建した", "C": "reduced", "D": "removed", "correct": "A" },
+      { "q": "rebuke と最も意味が近いのはどれ？", "A": "reprimand（叱責する）", "B": "praise（ほめる）", "C": "reward（報いる）", "D": "thank（感謝する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reek",
+    "pron": "riːk",
+    "kana": "リーク",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "古英語 rēocan（煙・においを出す）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "（いやな）においがプンプンする／悪臭",
+    "description": "reek の意味・発音・例文・語源を解説。「いやなにおいがプンプンする」使い方や、reek of（〜のにおいがする）も分かりやすく紹介します。",
+    "keywords": ["reek 意味", "reek 発音", "reek of 使い方", "reek 悪臭"],
+    "meanings": [
+      { "hinshi": "【動詞】（いやな）においがプンプンする", "note": "reek of（〜の強いにおいがする）。" },
+      { "hinshi": "【名詞】悪臭", "note": "the reek of smoke（たばこの悪臭）。" }
+    ],
+    "usages": [
+      { "title": "① 「においがプンプンする」として", "desc": "reek of〜で「〜の強いにおいがする」を表します。", "example_en": "His clothes reeked of cigarette smoke.", "example_ja": "彼の服はたばこのにおいがプンプンした。" },
+      { "title": "② 比喩「〜の気配が濃い」として", "desc": "悪いものが明らかに感じられる意味でも使います。", "example_en": "The whole deal reeks of corruption.", "example_ja": "その取引は汚職の気配がプンプンする。" }
+    ],
+    "warn": [
+      "reek は『（いやな）強いにおいがする』。smell（においがする）より否定的。reek of は『〜のにおいがプンプンする／〜の気配が濃い』。",
+      "reek /riːk/ と leak（漏れる）/liːk/ は語頭の子音が違う。"
+    ],
+    "etym_note": "古英語 rēocan（煙・においを出す）に由来する古いゲルマン系の語です。もとは『煙を出す』で、そこから『（強い）においを放つ』になりました。",
+    "etym_chain": [
+      { "node": "rēocan", "sub": "煙・においを出す", "era": "古英語" },
+      { "node": "reke", "sub": "煙・におい", "era": "中英語" },
+      { "node": "reek", "sub": "悪臭がする", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reek of", "ja": "〜のにおいがプンプンする" },
+      { "en": "reek of smoke", "ja": "たばこ臭い" },
+      { "en": "reek of alcohol", "ja": "酒臭い" },
+      { "en": "the reek of", "ja": "〜の悪臭" },
+      { "en": "reek of corruption", "ja": "汚職の気配が濃い" },
+      { "en": "a foul reek", "ja": "ひどい悪臭" }
+    ],
+    "related": [
+      { "en": "stink", "ja": "悪臭を放つ" },
+      { "en": "smell", "ja": "においがする" },
+      { "en": "stench", "ja": "悪臭" },
+      { "en": "odor", "ja": "におい" }
+    ],
+    "faq": [
+      { "q": "reek of とは？", "a": "『〜の（いやな）強いにおいがプンプンする』という意味です。比喩で『〜の（悪い）気配が濃い』にも使います。" },
+      { "q": "reek と smell の違いは？", "a": "smell は中立的に『においがする』、reek は『（いやな）強いにおいがする』という否定的な語です。" }
+    ],
+    "quiz": [
+      { "q": "His clothes ___ of cigarette smoke.（においがした）", "A": "reeked", "B": "leaked の漏れた", "C": "reached", "D": "reduced", "correct": "A" },
+      { "q": "reek と最も意味が近いのはどれ？", "A": "stink（悪臭を放つ）", "B": "shine（輝く）", "C": "sound（鳴る）", "D": "taste（味がする）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rein",
+    "pron": "reɪn",
+    "kana": "レイン",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "古フランス語 rene（手綱）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "多義語"],
+    "meaning_main": "手綱／（rein in）抑制する・制御する",
+    "description": "rein の意味・発音・例文・語源を解説。馬の「手綱」や、rein in（抑える・制御する）、free rein（自由裁量）の使い方を分かりやすく紹介します。",
+    "keywords": ["rein 意味", "rein 発音", "rein in 意味", "free rein 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】手綱", "note": "馬を操る革ひも。ふつう複数形 reins。" },
+      { "hinshi": "【動詞】(rein in) 抑制する・制御する", "note": "rein in spending（支出を抑える）。" },
+      { "hinshi": "【名詞】(free rein) 自由裁量・制限のない自由", "note": "give free rein（自由にさせる）。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「手綱」として", "desc": "馬を操る革ひもを表します。", "example_en": "She pulled on the reins to stop the horse.", "example_ja": "彼女は馬を止めるため手綱を引いた。" },
+      { "title": "② rein in（抑える）として", "desc": "「抑制する・制御する」を表します。", "example_en": "The government tried to rein in inflation.", "example_ja": "政府はインフレを抑えようとした。" }
+    ],
+    "warn": [
+      "rein（手綱）/ rain（雨）/ reign（治世）はすべて同音 /reɪn/。つづりに注意。",
+      "rein in は『抑制する』、free rein は『自由裁量』、take the reins は『主導権を握る』。"
+    ],
+    "etym_note": "古フランス語 rene（手綱。ラテン語 retinere「引きとどめる」から）に由来します。retain と同じ語源で、「（馬を）引きとどめるもの＝手綱」が原義です。",
+    "etym_chain": [
+      { "node": "retinere", "sub": "引きとどめる", "era": "ラテン語" },
+      { "node": "rene", "sub": "手綱", "era": "古フランス語" },
+      { "node": "rein", "sub": "手綱・抑制する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rein in", "ja": "抑制する・制御する" },
+      { "en": "free rein", "ja": "自由裁量" },
+      { "en": "take the reins", "ja": "主導権を握る" },
+      { "en": "pull on the reins", "ja": "手綱を引く" },
+      { "en": "keep a tight rein on", "ja": "〜を厳しく抑える" },
+      { "en": "give free rein to", "ja": "〜を自由にさせる" }
+    ],
+    "related": [
+      { "en": "control", "ja": "制御する" },
+      { "en": "restrain", "ja": "抑える" },
+      { "en": "check", "ja": "抑制する" },
+      { "en": "retain", "ja": "保つ（同語源）" }
+    ],
+    "faq": [
+      { "q": "rein と rain と reign の違いは？", "a": "発音は同じ /reɪn/ ですが、rein は『手綱・抑制する』、rain は『雨』、reign は『治世・君臨する』です。つづりで区別します。" },
+      { "q": "rein in とは？", "a": "『（手綱を引くように）抑制する・制御する』という意味です。rein in costs（コストを抑える）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The government tried to ___ in inflation.（抑える）", "A": "rein", "B": "rain の雨", "C": "reign の治世", "D": "range", "correct": "A" },
+      { "q": "「自由裁量」を表すのはどれ？", "A": "free rein", "B": "free rain", "C": "free reign の俗用", "D": "free range の別意", "correct": "A" }
+    ]
+  },
+  {
+    "english": "relapse",
+    "pron": "rɪˈlæps",
+    "kana": "リラプス",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "ラテン語 relabi（再び滑り落ちる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "医療"],
+    "meaning_main": "（病気・悪習が）再発する・逆戻りする／ぶり返し",
+    "description": "relapse の意味・発音・例文・語源を解説。病気の「ぶり返し」や悪い習慣への「逆戻り」の使い方を分かりやすく紹介します。",
+    "keywords": ["relapse 意味", "relapse 発音", "relapse into 使い方", "relapse 再発"],
+    "meanings": [
+      { "hinshi": "【名詞】（病気の）ぶり返し・再発", "note": "回復後に悪化すること。suffer a relapse（ぶり返す）。" },
+      { "hinshi": "【動詞】(relapse into) 逆戻りする・元の悪い状態に戻る", "note": "relapse into bad habits（悪い習慣に逆戻りする）。" }
+    ],
+    "usages": [
+      { "title": "① 「（病気の）ぶり返し」として", "desc": "回復したあと再び悪化する意味です。", "example_en": "The patient suffered a relapse.", "example_ja": "その患者は病気がぶり返した。" },
+      { "title": "② relapse into（逆戻りする）として", "desc": "悪い状態に戻る意味です。", "example_en": "He relapsed into his old habits.", "example_ja": "彼は昔の悪い習慣に逆戻りした。" }
+    ],
+    "warn": [
+      "「（悪い状態に）逆戻りする」は relapse into。医療で『（病気の）再発・ぶり返し』に頻出。",
+      "lapse（過失・経過）に re-（再び）がついた語。"
+    ],
+    "etym_note": "ラテン語 relabi（re-「再び」＋ labi「滑る」＝再び滑り落ちる）に由来します。lapse・collapse と同じ laps-（滑る）の語根で、「再び（悪い状態へ）滑り落ちる」が原義です。",
+    "etym_chain": [
+      { "node": "relabi", "sub": "再び滑り落ちる", "era": "ラテン語" },
+      { "node": "relapse", "sub": "ぶり返す", "era": "中英語" },
+      { "node": "relapse", "sub": "再発する・逆戻りする", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "suffer a relapse", "ja": "ぶり返す" },
+      { "en": "relapse into", "ja": "〜に逆戻りする" },
+      { "en": "have a relapse", "ja": "再発する" },
+      { "en": "relapse into silence", "ja": "再び黙り込む" },
+      { "en": "prevent a relapse", "ja": "再発を防ぐ" },
+      { "en": "a serious relapse", "ja": "深刻なぶり返し" }
+    ],
+    "related": [
+      { "en": "recur", "ja": "再発する" },
+      { "en": "lapse", "ja": "過失・経過" },
+      { "en": "regress", "ja": "後戻りする" },
+      { "en": "recover", "ja": "回復する（反対語）" }
+    ],
+    "faq": [
+      { "q": "relapse とはどんな意味？", "a": "①病気が回復後に『ぶり返す・再発する』ことと、②悪い習慣・状態に『逆戻りする』ことです。" },
+      { "q": "relapse into の使い方は？", "a": "『（悪い状態に）逆戻りする』という意味です。relapse into addiction（依存症に逆戻りする）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The patient suffered a ___.（ぶり返し）", "A": "relapse", "B": "release の解放", "C": "relay", "D": "relax", "correct": "A" },
+      { "q": "「悪い習慣に逆戻りする」を表すのはどれ？", "A": "relapse into bad habits", "B": "release into bad habits", "C": "relay into bad habits", "D": "relax into bad habits", "correct": "A" }
+    ]
+  },
+  {
+    "english": "repress",
+    "pron": "rɪˈpres",
+    "kana": "リプレス",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 reprimere（押さえつける）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "（感情を）抑える・（民衆を）弾圧する",
+    "description": "repress の意味・発音・例文・語源を解説。感情を「抑え込む」、反対勢力を「弾圧する」使い方や、suppress との違いも紹介します。",
+    "keywords": ["repress 意味", "repress 発音", "repression 意味", "repress suppress 違い"],
+    "meanings": [
+      { "hinshi": "【動詞】（感情・欲求を）抑える・抑圧する", "note": "repress anger（怒りを抑える）。" },
+      { "hinshi": "【動詞】（民衆・反乱を）弾圧する", "note": "repress a rebellion（反乱を鎮圧する）。" }
+    ],
+    "usages": [
+      { "title": "① 「感情を抑える」として", "desc": "感情を心の奥に押し込める意味です。", "example_en": "He repressed his anger and stayed calm.", "example_ja": "彼は怒りを抑えて冷静さを保った。" },
+      { "title": "② 「弾圧する」として", "desc": "権力で反対勢力を抑えつける意味です。", "example_en": "The regime repressed all opposition.", "example_ja": "その政権はすべての反対勢力を弾圧した。" }
+    ],
+    "warn": [
+      "repress は『（感情を無意識に）抑え込む・（権力で）弾圧する』。suppress は『（意識的に）抑える・鎮圧する』。",
+      "名詞は repression（抑圧・弾圧）、形容詞は repressed / repressive。"
+    ],
+    "etym_note": "ラテン語 reprimere（re-「逆に」＋ premere「押す」＝押さえつける）に由来します。press・suppress・reprimand と同じ prem-（押す）の語根です。",
+    "etym_chain": [
+      { "node": "reprimere", "sub": "押さえつける", "era": "ラテン語" },
+      { "node": "repress", "sub": "抑える", "era": "中英語" },
+      { "node": "repress", "sub": "抑圧する・弾圧する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "repress anger", "ja": "怒りを抑える" },
+      { "en": "repress emotions", "ja": "感情を抑え込む" },
+      { "en": "repress a rebellion", "ja": "反乱を弾圧する" },
+      { "en": "repressed memories", "ja": "抑圧された記憶" },
+      { "en": "a repressive regime", "ja": "抑圧的な政権" },
+      { "en": "repression", "ja": "抑圧・弾圧" }
+    ],
+    "related": [
+      { "en": "suppress", "ja": "抑える・鎮圧する" },
+      { "en": "oppress", "ja": "圧迫する" },
+      { "en": "restrain", "ja": "抑える" },
+      { "en": "express", "ja": "表現する（反対概念）" }
+    ],
+    "faq": [
+      { "q": "repress と suppress の違いは？", "a": "repress は『（感情を無意識に）抑え込む・（権力で）弾圧する』、suppress は『（意識的に）抑える・鎮圧する・公表を抑える』というニュアンスです。" },
+      { "q": "repress の名詞形は？", "a": "repression（抑圧・弾圧）です。" }
+    ],
+    "quiz": [
+      { "q": "He ___ his anger and stayed calm.（抑えた）", "A": "repressed", "B": "expressed の表現した", "C": "reduced", "D": "removed", "correct": "A" },
+      { "q": "repress の名詞形はどれ？", "A": "repression", "B": "repressment", "C": "repressance", "D": "repressity", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retract",
+    "pron": "rɪˈtrækt",
+    "kana": "リトラクト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 retrahere（引き戻す）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "（発言を）撤回する・取り消す／引っ込める",
+    "description": "retract の意味・発音・例文・語源を解説。発言を「撤回する」、爪や着陸装置を「引っ込める」使い方を分かりやすく紹介します。",
+    "keywords": ["retract 意味", "retract 発音", "retract a statement 意味", "retractable 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（発言・約束を）撤回する・取り消す", "note": "retract a statement（発言を撤回する）。" },
+      { "hinshi": "【動詞】（爪・装置を）引っ込める", "note": "Cats can retract their claws.（ネコは爪を引っ込められる）。" }
+    ],
+    "usages": [
+      { "title": "① 「発言を撤回する」として", "desc": "言ったことを取り消す意味です。", "example_en": "He was forced to retract his statement.", "example_ja": "彼は発言の撤回を余儀なくされた。" },
+      { "title": "② 「引っ込める」として", "desc": "爪や着陸装置を引き込む意味です。", "example_en": "The plane retracted its landing gear.", "example_ja": "飛行機は着陸装置を引っ込めた。" }
+    ],
+    "warn": [
+      "retract は『（発言・約束を）撤回する』『（爪・装置を）引っ込める』。形容詞 retractable は『引っ込められる・格納式の』。",
+      "tract-（引く）は attract・extract・tractor と同じ語根。"
+    ],
+    "etym_note": "ラテン語 retrahere（re-「後ろへ」＋ trahere「引く」＝引き戻す）に由来します。attract・extract・tractor と同じ tract-（引く）の語根です。",
+    "etym_chain": [
+      { "node": "retrahere", "sub": "引き戻す", "era": "ラテン語" },
+      { "node": "retract", "sub": "撤回する", "era": "中英語" },
+      { "node": "retract", "sub": "撤回する・引っ込める", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "retract a statement", "ja": "発言を撤回する" },
+      { "en": "retract an offer", "ja": "申し出を撤回する" },
+      { "en": "retract claws", "ja": "爪を引っ込める" },
+      { "en": "retract landing gear", "ja": "着陸装置を格納する" },
+      { "en": "a retractable roof", "ja": "開閉式の屋根" },
+      { "en": "refuse to retract", "ja": "撤回を拒む" }
+    ],
+    "related": [
+      { "en": "withdraw", "ja": "撤回する" },
+      { "en": "take back", "ja": "取り消す" },
+      { "en": "retractable", "ja": "格納式の" },
+      { "en": "extend", "ja": "伸ばす（反対概念）" }
+    ],
+    "faq": [
+      { "q": "retract の二つの使い方は？", "a": "①『（発言・約束を）撤回する・取り消す』と、②『（爪・着陸装置などを）引っ込める・格納する』です。" },
+      { "q": "retractable とは？", "a": "『引っ込められる・格納式の』という意味の形容詞です。a retractable pen（ノック式のペン）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "He was forced to ___ his statement.（撤回する）", "A": "retract", "B": "retreat の退却", "C": "reduce", "D": "remove", "correct": "A" },
+      { "q": "retract と同じ語源（引く）の語はどれ？", "A": "attract", "B": "river", "C": "ribbon", "D": "ripple", "correct": "A" }
+    ]
+  },
+  {
+    "english": "riveting",
+    "pron": "ˈrɪvɪtɪŋ",
+    "kana": "リベティング",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "rivet（リベットで留める）＋ -ing",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "形容詞"],
+    "meaning_main": "（くぎ付けにするほど）非常に面白い・夢中にさせる",
+    "description": "riveting の意味・発音・例文・語源を解説。物語や試合が「目をくぎ付けにするほど面白い」という使い方を分かりやすく紹介します。",
+    "keywords": ["riveting 意味", "riveting 発音", "riveting 面白い", "rivet 関係"],
+    "meanings": [
+      { "hinshi": "【形容詞】（くぎ付けにするほど）非常に面白い・夢中にさせる", "note": "目が離せないほど引き込まれる。a riveting story（夢中になる物語）。" }
+    ],
+    "usages": [
+      { "title": "① 「非常に面白い・夢中にさせる」として", "desc": "目が離せないほど引き込まれる様子を表します。", "example_en": "The movie was absolutely riveting.", "example_ja": "その映画は本当に夢中にさせるものだった。" },
+      { "title": "② 試合・話などについて", "desc": "くぎ付けにするほど見入る様子を表します。", "example_en": "It was a riveting match from start to finish.", "example_ja": "それは最初から最後まで目が離せない試合だった。" }
+    ],
+    "warn": [
+      "riveting は『（リベットで留めるように）人をくぎ付けにする＝非常に面白い』。boring（退屈な）の反対。",
+      "動詞 rivet は『リベットで留める・くぎ付けにする』。名詞 rivet は『リベット（金属の留め具）』。"
+    ],
+    "etym_note": "rivet（リベットで固定する・くぎ付けにする）に -ing がついた語で、「（人の注意を）くぎ付けにする＝非常に面白い」が原義です。",
+    "etym_chain": [
+      { "node": "river", "sub": "（古仏）固定する", "era": "古フランス語" },
+      { "node": "rivet", "sub": "リベットで留める", "era": "中英語" },
+      { "node": "riveting", "sub": "くぎ付けにする・面白い", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a riveting story", "ja": "夢中になる物語" },
+      { "en": "a riveting performance", "ja": "目が離せない演技" },
+      { "en": "absolutely riveting", "ja": "実に面白い" },
+      { "en": "a riveting match", "ja": "くぎ付けの試合" },
+      { "en": "riveting from start to finish", "ja": "最初から最後まで夢中で" },
+      { "en": "find it riveting", "ja": "それに夢中になる" }
+    ],
+    "related": [
+      { "en": "fascinating", "ja": "魅了する" },
+      { "en": "gripping", "ja": "引き込む" },
+      { "en": "captivating", "ja": "心を奪う" },
+      { "en": "boring", "ja": "退屈な（反対語）" }
+    ],
+    "faq": [
+      { "q": "riveting とはどんな意味？", "a": "『（リベットで留めるように）目をくぎ付けにするほど非常に面白い・夢中にさせる』という意味です。" },
+      { "q": "riveting の反対語は？", "a": "boring（退屈な）や dull（つまらない）です。" }
+    ],
+    "quiz": [
+      { "q": "The movie was absolutely ___.（夢中にさせる）", "A": "riveting", "B": "revolving の回転する", "C": "ravenous", "D": "rural", "correct": "A" },
+      { "q": "riveting の反対語はどれ？", "A": "boring（退屈な）", "B": "exciting（わくわくする）", "C": "gripping（引き込む）", "D": "fascinating（魅了する）", "correct": "A" }
+    ]
+  }
+]

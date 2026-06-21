@@ -1,0 +1,471 @@
+[
+  {
+    "english": "raffia",
+    "pron": "ˈræfiə",
+    "kana": "ラフィア",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "マダガスカル語 rafia（ラフィア椰子）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "素材・手芸"],
+    "meaning_main": "ラフィア（ラフィア椰子の葉から取る繊維。かご・帽子・ひもに使う）",
+    "description": "raffia の意味・発音・例文・語源を解説。ラフィア椰子の葉から取れる丈夫な繊維「ラフィア」を指す、手芸・素材の語の使い方を分かりやすく紹介します。",
+    "keywords": ["raffia 意味", "raffia 発音", "raffia 繊維", "raffia かご"],
+    "meanings": [
+      { "hinshi": "【名詞】ラフィア（椰子の繊維）", "note": "ラフィア椰子の葉から取る、しなやかで丈夫な繊維。かご・帽子・ひも・園芸の結束などに使う。" }
+    ],
+    "usages": [
+      { "title": "① 手芸・編み物の素材として", "desc": "かごや帽子を編む繊維を指します。", "example_en": "The hat is woven from natural raffia.", "example_ja": "その帽子は天然のラフィアで編まれている。" },
+      { "title": "② 園芸の結束ひもとして", "desc": "植物を縛るひもに使います。", "example_en": "She tied the plants with raffia.", "example_ja": "彼女は植物をラフィアで縛った。" }
+    ],
+    "warn": [
+      "raffia は『ラフィア椰子の葉から取る繊維』。かご・帽子・園芸用ひもに使う。",
+      "発音は『ラフィア（ˈræfiə）』。"
+    ],
+    "etym_note": "マダガスカル語 rafia（ラフィア椰子）に由来します。マダガスカル原産のこの椰子の葉から取れる繊維を指す語として世界に広まりました。",
+    "etym_chain": [
+      { "node": "rafia", "sub": "ラフィア椰子", "era": "マダガスカル語" },
+      { "node": "raffia", "sub": "ラフィアの繊維", "era": "近代英語" },
+      { "node": "raffia", "sub": "ラフィア", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "natural raffia", "ja": "天然のラフィア" },
+      { "en": "a raffia hat", "ja": "ラフィアの帽子" },
+      { "en": "woven raffia", "ja": "編んだラフィア" },
+      { "en": "a raffia basket", "ja": "ラフィアのかご" },
+      { "en": "tie with raffia", "ja": "ラフィアで縛る" },
+      { "en": "raffia string", "ja": "ラフィアのひも" }
+    ],
+    "related": [
+      { "en": "straw", "ja": "麦わら" },
+      { "en": "fiber", "ja": "繊維" },
+      { "en": "wicker", "ja": "枝編み細工" },
+      { "en": "palm", "ja": "椰子" }
+    ],
+    "faq": [
+      { "q": "raffia とはどんな意味？", "a": "ラフィア椰子の葉から取れる、しなやかで丈夫な繊維『ラフィア』のことです。かご・帽子・ひも・園芸の結束などに使われます。" },
+      { "q": "raffia は何に使う？", "a": "編んでかごや帽子を作ったり、園芸で植物を縛るひもにしたりします。天然素材として手芸でよく使われます。" }
+    ],
+    "quiz": [
+      { "q": "The hat is woven from natural ___.（ラフィア）", "A": "raffia", "B": "raffle の福引", "C": "ruffle のひだ飾り", "D": "rattle のガラガラ", "correct": "A" },
+      { "q": "raffia は何から取れる？", "A": "ラフィア椰子の葉", "B": "羊の毛", "C": "綿の実", "D": "蚕の繭", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ramie",
+    "pron": "ˈræmi",
+    "kana": "ラミー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "マレー語 rami（イラクサ科の植物）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "素材・繊維"],
+    "meaning_main": "ラミー・苧麻（ちょま）（衣料に使う丈夫な植物繊維）",
+    "description": "ramie の意味・発音・例文・語源を解説。イラクサ科の植物から取れる、丈夫で光沢のある衣料用繊維「ラミー（苧麻）」を指す語の使い方を紹介します。",
+    "keywords": ["ramie 意味", "ramie 発音", "ramie 苧麻", "ramie 繊維"],
+    "meanings": [
+      { "hinshi": "【名詞】ラミー・苧麻（ちょま）", "note": "イラクサ科の植物の茎から取る、丈夫で光沢のある天然繊維。麻の一種として衣料に使う。" }
+    ],
+    "usages": [
+      { "title": "① 衣料の繊維として", "desc": "丈夫な天然繊維を指します。", "example_en": "The shirt is made of cotton and ramie.", "example_ja": "そのシャツは綿とラミーでできている。" },
+      { "title": "② 素材の説明で", "desc": "麻の一種として表します。", "example_en": "Ramie is strong and resistant to bacteria.", "example_ja": "ラミーは丈夫で細菌に強い。" }
+    ],
+    "warn": [
+      "ramie は『イラクサ科の植物から取る丈夫な衣料用繊維（苧麻）』。麻（linen）と並ぶ天然繊維。",
+      "発音は『ラミー（ˈræmi）』。"
+    ],
+    "etym_note": "マレー語 rami（この繊維植物）に由来します。東南アジア・東アジア原産の植物で、その丈夫な繊維を指す語として広まりました。",
+    "etym_chain": [
+      { "node": "rami", "sub": "苧麻の植物", "era": "マレー語" },
+      { "node": "ramie", "sub": "ラミーの繊維", "era": "近代英語" },
+      { "node": "ramie", "sub": "ラミー・苧麻", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "ramie fiber", "ja": "ラミー繊維" },
+      { "en": "cotton and ramie", "ja": "綿とラミー" },
+      { "en": "a ramie blend", "ja": "ラミー混紡" },
+      { "en": "woven ramie", "ja": "織ったラミー" },
+      { "en": "strong ramie", "ja": "丈夫なラミー" },
+      { "en": "a ramie shirt", "ja": "ラミーのシャツ" }
+    ],
+    "related": [
+      { "en": "linen", "ja": "亜麻・リネン" },
+      { "en": "hemp", "ja": "麻・大麻" },
+      { "en": "fiber", "ja": "繊維" },
+      { "en": "textile", "ja": "織物" }
+    ],
+    "faq": [
+      { "q": "ramie とはどんな意味？", "a": "イラクサ科の植物の茎から取れる、丈夫で光沢のある天然繊維『ラミー（苧麻）』のことです。麻の一種として衣料に使われます。" },
+      { "q": "ramie と linen の違いは？", "a": "どちらも丈夫な天然繊維ですが、ramie（苧麻）はイラクサ科の植物から、linen（リネン）は亜麻から取れます。" }
+    ],
+    "quiz": [
+      { "q": "The shirt is made of cotton and ___.（ラミー）", "A": "ramie", "B": "ramen のラーメン", "C": "ramp の傾斜路", "D": "rally の集会", "correct": "A" },
+      { "q": "ramie はどんな素材？", "A": "丈夫な衣料用の天然繊維", "B": "金属", "C": "プラスチック", "D": "ガラス", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rachis",
+    "pron": "ˈreɪkɪs",
+    "kana": "レイキス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 rhachis（背骨・軸）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "生物・学術"],
+    "meaning_main": "羽軸（鳥の羽の中心の軸）／（植物）葉や花序の中軸",
+    "description": "rachis の意味・発音・例文・語源を解説。鳥の羽の中心を通る「羽軸」や、複葉・花序の「中軸」を指す生物学の語の使い方を紹介します。",
+    "keywords": ["rachis 意味", "rachis 発音", "rachis 羽軸", "rachis 中軸"],
+    "meanings": [
+      { "hinshi": "【名詞】羽軸", "note": "鳥の羽の中央を通る軸の部分。両側に羽枝が並ぶ。" },
+      { "hinshi": "【名詞】（植物）中軸", "note": "複葉の小葉や花序の花がつく中心の軸。穀物の穂の軸にも使う。" }
+    ],
+    "usages": [
+      { "title": "① 「羽軸」として", "desc": "羽の中心の軸を指します。", "example_en": "The feather's rachis runs down its center.", "example_ja": "その羽の羽軸は中央を縦に通っている。" },
+      { "title": "② 植物の「中軸」として", "desc": "複葉や花序の中心の軸を表します。", "example_en": "The leaflets are arranged along the rachis.", "example_ja": "小葉は中軸に沿って並んでいる。" }
+    ],
+    "warn": [
+      "rachis は『羽軸』（鳥）や『中軸』（植物）を指す生物学の専門語。発音は『レイキス（ˈreɪkɪs）』。",
+      "ギリシャ語 rhachis（背骨）由来で、複数形は rachises / rachides。"
+    ],
+    "etym_note": "ギリシャ語 rhachis（背骨・脊柱・軸）に由来します。「中心を通る軸」を意味し、鳥の羽の軸や植物の中軸を指す生物学用語になりました。",
+    "etym_chain": [
+      { "node": "rhachis", "sub": "背骨・軸", "era": "ギリシャ語" },
+      { "node": "rachis", "sub": "中軸", "era": "近代英語" },
+      { "node": "rachis", "sub": "羽軸・中軸", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the feather's rachis", "ja": "羽の羽軸" },
+      { "en": "along the rachis", "ja": "中軸に沿って" },
+      { "en": "the central rachis", "ja": "中心の軸" },
+      { "en": "leaflets on the rachis", "ja": "中軸上の小葉" },
+      { "en": "a slender rachis", "ja": "細い軸" },
+      { "en": "the rachis of the frond", "ja": "葉の中軸" }
+    ],
+    "related": [
+      { "en": "shaft", "ja": "（羽の）軸" },
+      { "en": "quill", "ja": "羽の軸・羽ペン" },
+      { "en": "stem", "ja": "茎" },
+      { "en": "axis", "ja": "軸" }
+    ],
+    "faq": [
+      { "q": "rachis とはどんな意味？", "a": "鳥の羽の中央を通る軸『羽軸』、また複葉や花序の中心を通る『中軸』を指す生物学の専門語です。" },
+      { "q": "rachis の語源は？", "a": "ギリシャ語 rhachis（背骨・軸）です。『中心を通る軸』を意味し、羽軸や植物の中軸を指す語になりました。" }
+    ],
+    "quiz": [
+      { "q": "The feather's ___ runs down its center.（羽軸）", "A": "rachis", "B": "radius の半径", "C": "ratchet のラチェット", "D": "racket のラケット", "correct": "A" },
+      { "q": "rachis の語源 rhachis の意味はどれ？", "A": "背骨・軸", "B": "羽毛", "C": "光", "D": "水", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rorqual",
+    "pron": "ˈrɔːrkwəl",
+    "kana": "ローカル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ノルウェー語 røyrkval（ひだのあるクジラ）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "自然・生き物"],
+    "meaning_main": "ナガスクジラ類（喉に縦のひだをもつヒゲクジラ）",
+    "description": "rorqual の意味・発音・例文・語源を解説。喉に縦のひだをもつヒゲクジラの仲間「ナガスクジラ類」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["rorqual 意味", "rorqual 発音", "rorqual ナガスクジラ", "rorqual クジラ"],
+    "meanings": [
+      { "hinshi": "【名詞】ナガスクジラ類", "note": "喉から腹にかけて縦のひだ（畝）をもつヒゲクジラの仲間。シロナガスクジラ・ナガスクジラ・ザトウクジラなどを含む。" }
+    ],
+    "usages": [
+      { "title": "① クジラの分類として", "desc": "喉にひだをもつヒゲクジラを指します。", "example_en": "The blue whale is the largest rorqual.", "example_ja": "シロナガスクジラは最大のナガスクジラ類だ。" },
+      { "title": "② 生態の説明で", "desc": "喉のひだの特徴を表します。", "example_en": "A rorqual expands its throat to gulp seawater.", "example_ja": "ナガスクジラ類は喉を広げて海水を飲み込む。" }
+    ],
+    "warn": [
+      "rorqual は『喉に縦のひだをもつヒゲクジラの仲間（ナガスクジラ類）』。シロナガス・ザトウクジラなどを含む。",
+      "発音は『ローカル（ˈrɔːrkwəl）』で local（地元の）と紛らわしいが別語。"
+    ],
+    "etym_note": "ノルウェー語 røyrkval（røyr「ひだ・管」＋ kval「クジラ」＝ひだのあるクジラ）に由来します。喉から腹にかけての縦のひだ（畝）が特徴であることから名づけられました。",
+    "etym_chain": [
+      { "node": "røyrkval", "sub": "ひだのあるクジラ", "era": "ノルウェー語" },
+      { "node": "rorqual", "sub": "ナガスクジラ類", "era": "近代英語" },
+      { "node": "rorqual", "sub": "ナガスクジラ類", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the largest rorqual", "ja": "最大のナガスクジラ類" },
+      { "en": "a rorqual whale", "ja": "ナガスクジラ類のクジラ" },
+      { "en": "the rorqual's throat pleats", "ja": "ナガスクジラ類の喉のひだ" },
+      { "en": "a feeding rorqual", "ja": "採餌するナガスクジラ類" },
+      { "en": "rorqual species", "ja": "ナガスクジラ類の種" },
+      { "en": "a diving rorqual", "ja": "潜るナガスクジラ類" }
+    ],
+    "related": [
+      { "en": "whale", "ja": "クジラ" },
+      { "en": "baleen", "ja": "クジラのひげ・ヒゲ板" },
+      { "en": "blue whale", "ja": "シロナガスクジラ" },
+      { "en": "humpback", "ja": "ザトウクジラ" }
+    ],
+    "faq": [
+      { "q": "rorqual とはどんな意味？", "a": "喉から腹にかけて縦のひだ（畝）をもつヒゲクジラの仲間『ナガスクジラ類』のことです。シロナガスクジラ・ナガスクジラ・ザトウクジラなどを含みます。" },
+      { "q": "rorqual の語源は？", "a": "ノルウェー語 røyrkval（ひだのあるクジラ）です。喉のひだが特徴であることに由来します。" }
+    ],
+    "quiz": [
+      { "q": "The blue whale is the largest ___.（ナガスクジラ類）", "A": "rorqual", "B": "rascal の悪がき", "C": "rictus のこわばった口", "D": "rouble のルーブル", "correct": "A" },
+      { "q": "rorqual の特徴はどれ？", "A": "喉に縦のひだがある", "B": "牙が長い", "C": "甲羅がある", "D": "羽がある", "correct": "A" }
+    ]
+  },
+  {
+    "english": "redstart",
+    "pron": "ˈredstɑːrt",
+    "kana": "レッドスタート",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "red（赤い）＋ 古英語 steort（尾）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "自然・生き物"],
+    "meaning_main": "ジョウビタキ・アカヒタキ類（赤い尾を震わせる小鳥）",
+    "description": "redstart の意味・発音・例文・語源を解説。赤みのある尾を小刻みに震わせる小鳥「ジョウビタキ（アカヒタキ類）」を指す語の使い方を紹介します。",
+    "keywords": ["redstart 意味", "redstart 発音", "redstart ジョウビタキ", "redstart 鳥"],
+    "meanings": [
+      { "hinshi": "【名詞】ジョウビタキ・アカヒタキ類", "note": "赤みを帯びた尾を小刻みに震わせる習性のある小鳥。ヒタキ科。-start は古語で『尾』。" }
+    ],
+    "usages": [
+      { "title": "① 小鳥として", "desc": "赤い尾を震わせる小鳥を指します。", "example_en": "A redstart flitted among the branches.", "example_ja": "ジョウビタキが枝の間を飛び回った。" },
+      { "title": "② 観察の場面で", "desc": "尾を震わせる習性で見分けます。", "example_en": "You can recognize a redstart by its quivering red tail.", "example_ja": "ジョウビタキは震える赤い尾で見分けられる。" }
+    ],
+    "warn": [
+      "redstart の -start は『始まり』ではなく、古英語 steort（尾）。『赤い尾の鳥』が原義。",
+      "ヨーロッパの redstart と北米の American redstart は別の科だが同じ名で呼ばれる。"
+    ],
+    "etym_note": "red（赤い）＋ 古英語 steort（尾）から成り、「赤い尾」を意味します。steort は stark（こわばった）とも関係する古い語で、赤みを帯びた尾を震わせる習性から名づけられました。",
+    "etym_chain": [
+      { "node": "read + steort", "sub": "赤い＋尾", "era": "古英語" },
+      { "node": "redstart", "sub": "赤い尾の鳥", "era": "近代英語" },
+      { "node": "redstart", "sub": "ジョウビタキ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a common redstart", "ja": "シロビタイジョウビタキ" },
+      { "en": "a redstart's red tail", "ja": "ジョウビタキの赤い尾" },
+      { "en": "spot a redstart", "ja": "ジョウビタキを見つける" },
+      { "en": "the redstart sang", "ja": "ジョウビタキが鳴いた" },
+      { "en": "a male redstart", "ja": "雄のジョウビタキ" },
+      { "en": "an American redstart", "ja": "アメリカムシクイ" }
+    ],
+    "related": [
+      { "en": "robin", "ja": "コマドリ" },
+      { "en": "flycatcher", "ja": "ヒタキ" },
+      { "en": "songbird", "ja": "鳴き鳥" },
+      { "en": "tail", "ja": "尾" }
+    ],
+    "faq": [
+      { "q": "redstart とはどんな意味？", "a": "赤みを帯びた尾を小刻みに震わせる習性のある小鳥『ジョウビタキ（アカヒタキ類）』のことです。-start は古語で『尾』を意味します。" },
+      { "q": "redstart の -start は『始まり』のこと？", "a": "いいえ。-start は古英語 steort（尾）に由来します。redstart は『赤い尾の鳥』という意味です。" }
+    ],
+    "quiz": [
+      { "q": "A ___ flitted among the branches.（ジョウビタキ）", "A": "redstart", "B": "restart の再開", "C": "redhead の赤毛", "D": "redbreast のコマドリ", "correct": "A" },
+      { "q": "redstart の -start の意味はどれ？", "A": "尾", "B": "始まり", "C": "星", "D": "翼", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ruche",
+    "pron": "ruːʃ",
+    "kana": "ルーシュ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 ruche（蜂の巣・ひだ飾り）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "服飾"],
+    "meaning_main": "ルーシュ・ひだ飾り（布をたっぷり寄せて作る装飾のひだ）",
+    "description": "ruche の意味・発音・例文・語源を解説。布を細かく寄せて立体的なひだを作る装飾「ルーシュ・ひだ飾り」を指す服飾の語の使い方を紹介します。",
+    "keywords": ["ruche 意味", "ruche 発音", "ruche ひだ飾り", "ruched 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】ルーシュ・ひだ飾り", "note": "布やリボンを細かく寄せて縫い、立体的なひだ・フリルにした装飾。動詞 ruche は『ひだを寄せる』。" }
+    ],
+    "usages": [
+      { "title": "① 服の装飾として", "desc": "布を寄せた立体的なひだ飾りを指します。", "example_en": "The dress was trimmed with delicate ruches.", "example_ja": "そのドレスは繊細なひだ飾りで縁取られていた。" },
+      { "title": "② ruched として", "desc": "「ひだを寄せた」を表します。", "example_en": "She wore a ruched silk gown.", "example_ja": "彼女はひだを寄せたシルクのガウンを着ていた。" }
+    ],
+    "warn": [
+      "ruche は『布を寄せて作る立体的なひだ飾り』。形容詞 ruched（ひだを寄せた）が服の説明で頻出。",
+      "発音は『ルーシュ（ruːʃ）』。"
+    ],
+    "etym_note": "フランス語 ruche（蜂の巣）に由来します。蜂の巣のように布が波打って寄った形に似ていることから、ひだ飾りを指すようになりました。",
+    "etym_chain": [
+      { "node": "ruche", "sub": "蜂の巣", "era": "フランス語" },
+      { "node": "ruche", "sub": "ひだ飾り", "era": "近代英語" },
+      { "node": "ruche", "sub": "ルーシュ・ひだ飾り", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a ruched gown", "ja": "ひだを寄せたガウン" },
+      { "en": "delicate ruches", "ja": "繊細なひだ飾り" },
+      { "en": "trimmed with ruches", "ja": "ひだ飾りで縁取った" },
+      { "en": "a ruche of lace", "ja": "レースのひだ飾り" },
+      { "en": "ruched fabric", "ja": "ひだを寄せた布" },
+      { "en": "add a ruche", "ja": "ひだ飾りをつける" }
+    ],
+    "related": [
+      { "en": "frill", "ja": "ひだ飾り・フリル" },
+      { "en": "ruffle", "ja": "ひだ飾り" },
+      { "en": "pleat", "ja": "ひだ・プリーツ" },
+      { "en": "gather", "ja": "（布を）寄せる・ギャザー" }
+    ],
+    "faq": [
+      { "q": "ruche とはどんな意味？", "a": "布やリボンを細かく寄せて縫い、立体的なひだ・フリルにした装飾『ルーシュ・ひだ飾り』のことです。形容詞 ruched（ひだを寄せた）の形でもよく使われます。" },
+      { "q": "ruche の語源は？", "a": "フランス語 ruche（蜂の巣）です。布が波打って寄った形が蜂の巣に似ていることに由来します。" }
+    ],
+    "quiz": [
+      { "q": "The dress was trimmed with delicate ___s.（ひだ飾り）", "A": "ruche", "B": "ruck のラック", "C": "rush の急ぎ", "D": "rouge の頬紅", "correct": "A" },
+      { "q": "ruche の語源の意味はどれ？", "A": "蜂の巣", "B": "ばら", "C": "岩", "D": "波", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rumen",
+    "pron": "ˈruːmɪn",
+    "kana": "ルーメン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 rumen（のど・第一胃）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "生物・学術"],
+    "meaning_main": "（反芻動物の）第一胃・こぶ胃（飲み込んだ草を発酵させる胃袋）",
+    "description": "rumen の意味・発音・例文・語源を解説。牛など反芻動物の最大の胃「第一胃（ルーメン）」で、微生物が草を発酵分解する器官を指す語の使い方を紹介します。",
+    "keywords": ["rumen 意味", "rumen 発音", "rumen 第一胃", "rumen 反芻"],
+    "meanings": [
+      { "hinshi": "【名詞】（反芻動物の）第一胃・こぶ胃", "note": "牛・羊などの最大の胃。微生物が草を発酵させて分解する。反芻動物は4つの胃のうちこれが最大。" }
+    ],
+    "usages": [
+      { "title": "① 消化器官として", "desc": "草を発酵させる胃を指します。", "example_en": "Microbes in the rumen break down grass.", "example_ja": "第一胃の中の微生物が草を分解する。" },
+      { "title": "② 反芻のしくみで", "desc": "発酵と反芻の場として表します。", "example_en": "Food returns from the rumen to be chewed again.", "example_ja": "食物は第一胃から戻され再びかまれる。" }
+    ],
+    "warn": [
+      "rumen は『反芻動物の第一胃（最大の胃）』。ruminant（反芻動物）, ruminate（反芻する）と同じ語根。",
+      "発音は『ルーメン（ˈruːmɪn）』。複数形は rumens / rumina。"
+    ],
+    "etym_note": "ラテン語 rumen（のど・第一胃）に由来します。ruminant（反芻動物）や ruminate（反芻する・熟考する）と同じ語根で、草を発酵させる最大の胃を指します。",
+    "etym_chain": [
+      { "node": "rumen", "sub": "のど・第一胃", "era": "ラテン語" },
+      { "node": "rumen", "sub": "第一胃", "era": "近代英語" },
+      { "node": "rumen", "sub": "第一胃・こぶ胃", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "microbes in the rumen", "ja": "第一胃の微生物" },
+      { "en": "the cow's rumen", "ja": "牛の第一胃" },
+      { "en": "rumen fermentation", "ja": "第一胃での発酵" },
+      { "en": "from the rumen", "ja": "第一胃から" },
+      { "en": "a full rumen", "ja": "いっぱいの第一胃" },
+      { "en": "rumen bacteria", "ja": "第一胃の細菌" }
+    ],
+    "related": [
+      { "en": "ruminant", "ja": "反芻動物" },
+      { "en": "ruminate", "ja": "反芻する" },
+      { "en": "stomach", "ja": "胃" },
+      { "en": "cud", "ja": "反芻する食べ物" }
+    ],
+    "faq": [
+      { "q": "rumen とはどんな意味？", "a": "牛・羊など反芻動物の最大の胃『第一胃（こぶ胃）』のことです。微生物が草を発酵させて分解する役割をもちます。" },
+      { "q": "rumen と ruminant の関係は？", "a": "同じラテン語 rumen（第一胃）に由来します。rumen は『第一胃』、ruminant は『反芻動物』、ruminate は『反芻する』です。" }
+    ],
+    "quiz": [
+      { "q": "Microbes in the ___ break down grass.（第一胃）", "A": "rumen", "B": "ramen のラーメン", "C": "remnant の残り", "D": "ruin の廃墟", "correct": "A" },
+      { "q": "rumen をもつのはどんな動物？", "A": "反芻動物（牛・羊など）", "B": "鳥", "C": "魚", "D": "昆虫", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rondeau",
+    "pron": "ˈrɒndoʊ",
+    "kana": "ロンドー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 rondeau（丸い・繰り返しの詩形）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "文学"],
+    "meaning_main": "ロンドー（同じ句が繰り返し戻ってくる定型詩）",
+    "description": "rondeau の意味・発音・例文・語源を解説。冒頭の句が折り返しとして繰り返し戻ってくる中世フランス起源の定型詩「ロンドー」を指す語の使い方を紹介します。",
+    "keywords": ["rondeau 意味", "rondeau 発音", "rondeau 詩", "rondeau 定型詩"],
+    "meanings": [
+      { "hinshi": "【名詞】ロンドー（定型詩）", "note": "中世フランス起源の定型詩。冒頭の語句が折り返し（リフレイン）として繰り返し戻る。ふつう15行・2つの押韻で構成。" }
+    ],
+    "usages": [
+      { "title": "① 詩の形式として", "desc": "折り返しが繰り返す定型詩を指します。", "example_en": "He wrote a rondeau with a recurring refrain.", "example_ja": "彼は折り返しの句が繰り返すロンドーを書いた。" },
+      { "title": "② 文学史の文脈で", "desc": "中世フランス起源の詩形を表します。", "example_en": "The rondeau was popular in medieval France.", "example_ja": "ロンドーは中世フランスで人気だった。" }
+    ],
+    "warn": [
+      "rondeau は『折り返しの句が繰り返す定型詩』。音楽形式の rondo（ロンド）と語源を共有するが別物。",
+      "発音は『ロンドー（ˈrɒndoʊ）』。複数形は rondeaux。"
+    ],
+    "etym_note": "フランス語 rondeau（rond「丸い」より＝丸く回って戻る詩）に由来します。冒頭の句が折り返しとして戻ってくる円環的な構造から名づけられ、round（丸い）や rondo（ロンド）と同じ語根です。",
+    "etym_chain": [
+      { "node": "rond", "sub": "丸い", "era": "フランス語" },
+      { "node": "rondeau", "sub": "繰り返しの詩形", "era": "中フランス語" },
+      { "node": "rondeau", "sub": "ロンドー", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "write a rondeau", "ja": "ロンドーを書く" },
+      { "en": "a rondeau's refrain", "ja": "ロンドーの折り返し句" },
+      { "en": "a classic rondeau", "ja": "古典的なロンドー" },
+      { "en": "the rondeau form", "ja": "ロンドー形式" },
+      { "en": "a medieval rondeau", "ja": "中世のロンドー" },
+      { "en": "recite a rondeau", "ja": "ロンドーを朗唱する" }
+    ],
+    "related": [
+      { "en": "rondo", "ja": "ロンド（音楽形式）" },
+      { "en": "refrain", "ja": "折り返し・リフレイン" },
+      { "en": "sonnet", "ja": "ソネット" },
+      { "en": "verse", "ja": "韻文・詩" }
+    ],
+    "faq": [
+      { "q": "rondeau とはどんな意味？", "a": "中世フランス起源の定型詩『ロンドー』のことです。冒頭の語句が折り返し（リフレイン）として繰り返し戻ってくるのが特徴で、ふつう15行で構成されます。" },
+      { "q": "rondeau と rondo の違いは？", "a": "rondeau は『繰り返しの句が戻る定型詩（文学）』、rondo は『主題が繰り返し戻る音楽形式』です。語源は同じ rond（丸い）ですが分野が違います。" }
+    ],
+    "quiz": [
+      { "q": "He wrote a ___ with a recurring refrain.（ロンドー）", "A": "rondeau", "B": "rondo の代わりに rodeo", "C": "rondel の代わりに sonnet", "D": "rumba のルンバ", "correct": "A" },
+      { "q": "rondeau の特徴はどれ？", "A": "冒頭の句が折り返しとして繰り返す", "B": "韻を踏まない", "C": "一行だけの詩", "D": "散文である", "correct": "A" }
+    ]
+  },
+  {
+    "english": "riata",
+    "pron": "riˈɑːtə",
+    "kana": "リアタ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "スペイン語 reata（つなぐ綱）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "西部・道具"],
+    "meaning_main": "（牛追いの）投げ縄・引き綱（lariat の異形）",
+    "description": "riata の意味・発音・例文・語源を解説。カウボーイが家畜を捕まえるのに使う「投げ縄・引き綱」を指す、スペイン語由来の語の使い方を紹介します。",
+    "keywords": ["riata 意味", "riata 発音", "riata 投げ縄", "lariat 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】投げ縄・引き綱", "note": "カウボーイが牛や馬を捕まえる、輪付きの縄。lariat（ラリアット）とも。主に米国西部で使う。" }
+    ],
+    "usages": [
+      { "title": "① 「投げ縄」として", "desc": "家畜を捕まえる縄を指します。", "example_en": "The cowboy swung his riata over his head.", "example_ja": "カウボーイは投げ縄を頭上で振り回した。" },
+      { "title": "② 牧畜の場面で", "desc": "牛を捕える道具として使います。", "example_en": "He caught the calf with a riata.", "example_ja": "彼は投げ縄で子牛を捕まえた。" }
+    ],
+    "warn": [
+      "riata は『カウボーイの投げ縄・引き綱』。lariat（ラリアット）と同じものの別つづり。",
+      "スペイン語 reata 由来。発音は『リアタ（riˈɑːtə）』。"
+    ],
+    "etym_note": "スペイン語 reata（家畜をつなぐ綱、reatar「再び縛る」より）に由来します。同じ語に定冠詞 la が付いた la reata から英語 lariat（ラリアット）も生まれました。",
+    "etym_chain": [
+      { "node": "reatar", "sub": "縛る・つなぐ", "era": "スペイン語" },
+      { "node": "reata", "sub": "つなぐ綱", "era": "スペイン語" },
+      { "node": "riata", "sub": "投げ縄", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "swing a riata", "ja": "投げ縄を振り回す" },
+      { "en": "throw a riata", "ja": "投げ縄を投げる" },
+      { "en": "a coiled riata", "ja": "巻いた投げ縄" },
+      { "en": "catch with a riata", "ja": "投げ縄で捕まえる" },
+      { "en": "a rawhide riata", "ja": "生皮の投げ縄" },
+      { "en": "the cowboy's riata", "ja": "カウボーイの投げ縄" }
+    ],
+    "related": [
+      { "en": "lariat", "ja": "投げ縄・ラリアット" },
+      { "en": "lasso", "ja": "投げ縄" },
+      { "en": "rope", "ja": "綱・縄" },
+      { "en": "cowboy", "ja": "カウボーイ" }
+    ],
+    "faq": [
+      { "q": "riata とはどんな意味？", "a": "カウボーイが牛や馬を捕まえるのに使う、輪付きの縄『投げ縄・引き綱』のことです。lariat（ラリアット）と同じものの別つづりです。" },
+      { "q": "riata と lariat は同じ？", "a": "はい。どちらもスペイン語 reata に由来する『投げ縄』です。lariat は la reata（定冠詞付き）から生まれた形です。" }
+    ],
+    "quiz": [
+      { "q": "The cowboy swung his ___ over his head.（投げ縄）", "A": "riata", "B": "regatta のレガッタ", "C": "rialto の商業中心", "D": "ricotta のリコッタ", "correct": "A" },
+      { "q": "riata と同じ意味なのはどれ？", "A": "lariat（投げ縄）", "B": "saddle（鞍）", "C": "stirrup（あぶみ）", "D": "spur（拍車）", "correct": "A" }
+    ]
+  }
+]

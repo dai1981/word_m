@@ -1,0 +1,526 @@
+[
+  {
+    "english": "residue",
+    "pron": "ˈrezɪduː",
+    "kana": "レジデュー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 residuum（残ったもの）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "理科"],
+    "meaning_main": "残留物・残り・かす",
+    "description": "residue の意味・発音・例文・語源を解説。化学反応や蒸発のあとに残る「残留物・かす」の使い方や、reside（とどまる）との関係も紹介します。",
+    "keywords": ["residue 意味", "residue 発音", "residue 残留物", "residue 理科"],
+    "meanings": [
+      { "hinshi": "【名詞】残留物・残り・かす", "note": "あとに残ったもの。化学・料理・農薬などで使う。" }
+    ],
+    "usages": [
+      { "title": "① 「残留物・かす」として", "desc": "process のあとに残るものを表します。", "example_en": "A sticky residue was left on the surface.", "example_ja": "表面にべたつく残留物が残った。" },
+      { "title": "② 理科・農業の話題で", "desc": "農薬や化学物質の残留を表します。", "example_en": "Wash the fruit to remove any pesticide residue.", "example_ja": "農薬の残留を取り除くため果物を洗いなさい。" }
+    ],
+    "warn": [
+      "residue は数えにくい名詞。a residue / residues も使う。形容詞は residual（残りの）。",
+      "reside（住む・とどまる）と同じ語源で『あとにとどまったもの』が原義。"
+    ],
+    "etym_note": "ラテン語 residuum（residere「後にとどまる」から＝残ったもの）に由来します。reside・resident と同じ語源で、「あとに残ったもの」が原義です。",
+    "etym_chain": [
+      { "node": "residere", "sub": "後にとどまる", "era": "ラテン語" },
+      { "node": "residuum", "sub": "残ったもの", "era": "ラテン語" },
+      { "node": "residue", "sub": "残留物・かす", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a sticky residue", "ja": "べたつく残留物" },
+      { "en": "pesticide residue", "ja": "農薬の残留" },
+      { "en": "leave a residue", "ja": "残留物を残す" },
+      { "en": "chemical residue", "ja": "化学物質の残留" },
+      { "en": "an oily residue", "ja": "油性の残りかす" },
+      { "en": "residual heat", "ja": "残った熱（residual）" }
+    ],
+    "related": [
+      { "en": "residual", "ja": "残りの（形容詞）" },
+      { "en": "remains", "ja": "残り" },
+      { "en": "remnant", "ja": "残り・名残" },
+      { "en": "deposit", "ja": "沈殿物" }
+    ],
+    "faq": [
+      { "q": "residue とはどんな意味？", "a": "『（蒸発・燃焼・反応などのあとに）残った物・かす・残留物』のことです。pesticide residue（農薬の残留）のように使います。" },
+      { "q": "residue の形容詞は？", "a": "residual（残りの・残留する）です。residual heat（残った熱）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "A sticky ___ was left on the surface.（残留物）", "A": "residue", "B": "resident", "C": "residence", "D": "reserve", "correct": "A" },
+      { "q": "residue の形容詞形はどれ？", "A": "residual", "B": "residuable", "C": "residuous", "D": "residueful", "correct": "A" }
+    ]
+  },
+  {
+    "english": "resourceful",
+    "pron": "rɪˈsɔːrsfəl",
+    "kana": "リソースフル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "resource（資源・手段）＋ -ful",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "形容詞"],
+    "meaning_main": "機転のきく・やりくり上手な・工夫に富む",
+    "description": "resourceful の意味・発音・例文・語源を解説。限られた条件でも「機転をきかせて工夫する」人柄の使い方を分かりやすく紹介します。",
+    "keywords": ["resourceful 意味", "resourceful 発音", "resourceful 機転", "resource 関係"],
+    "meanings": [
+      { "hinshi": "【形容詞】機転のきく・やりくり上手な", "note": "困難な状況で工夫して問題を解決できる。" }
+    ],
+    "usages": [
+      { "title": "① 「機転がきく・工夫に富む」として", "desc": "限られた手段でうまく対処する人柄を表します。", "example_en": "She is a resourceful problem-solver.", "example_ja": "彼女は機転のきく問題解決者だ。" },
+      { "title": "② ほめ言葉として", "desc": "困難を乗り越える力をほめます。", "example_en": "You have to be resourceful when traveling alone.", "example_ja": "一人旅では機転をきかせなければならない。" }
+    ],
+    "warn": [
+      "resource（資源・手段）＋ -ful（〜に富む）＝『手段に富む＝機転がきく』。ほめ言葉。",
+      "副詞は resourcefully、名詞は resourcefulness。"
+    ],
+    "etym_note": "名詞 resource（資源・手段）に -ful（〜に満ちた）がついた語で、「（使える）手段に富む＝機転がきく」が原義です。resource・source と同じ語源です。",
+    "etym_chain": [
+      { "node": "resourse", "sub": "立ち直る力・供給源", "era": "古フランス語" },
+      { "node": "resource", "sub": "資源・手段", "era": "近代英語" },
+      { "node": "resourceful", "sub": "機転のきく", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a resourceful person", "ja": "機転のきく人" },
+      { "en": "highly resourceful", "ja": "とても工夫に富む" },
+      { "en": "resourceful and creative", "ja": "機転がきき創造的な" },
+      { "en": "be resourceful", "ja": "やりくり上手である" },
+      { "en": "a resourceful leader", "ja": "工夫に富む指導者" },
+      { "en": "resourcefulness", "ja": "機転・才覚" }
+    ],
+    "related": [
+      { "en": "resource", "ja": "資源・手段" },
+      { "en": "inventive", "ja": "工夫に富む" },
+      { "en": "clever", "ja": "賢い" },
+      { "en": "helpless", "ja": "なすすべのない（反対概念）" }
+    ],
+    "faq": [
+      { "q": "resourceful とはどんな人？", "a": "限られた条件や困難な状況でも『機転をきかせて工夫し、問題をうまく解決できる人』を表すほめ言葉です。" },
+      { "q": "resourceful の成り立ちは？", "a": "resource（手段・資源）＋ -ful（〜に富む）で、『（使える）手段に富む＝機転がきく』という意味です。" }
+    ],
+    "quiz": [
+      { "q": "She is a ___ problem-solver.（機転のきく）", "A": "resourceful", "B": "respectful", "C": "reluctant", "D": "ridiculous", "correct": "A" },
+      { "q": "resourceful のもとになる名詞はどれ？", "A": "resource", "B": "respect", "C": "response", "D": "result", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retaliate",
+    "pron": "rɪˈtælieɪt",
+    "kana": "リタリエイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 retaliare（同じだけ返す）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "報復する・仕返しをする",
+    "description": "retaliate の意味・発音・例文・語源を解説。攻撃に「報復する」使い方や、retaliate against、名詞 retaliation も分かりやすく紹介します。",
+    "keywords": ["retaliate 意味", "retaliate 発音", "retaliate against 使い方", "retaliation 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】報復する・仕返しをする", "note": "攻撃・危害に対して同じように返す。retaliate against（〜に報復する）。" }
+    ],
+    "usages": [
+      { "title": "① 「報復する」として", "desc": "攻撃に対して仕返しをする意味です。", "example_en": "The country threatened to retaliate against the attack.", "example_ja": "その国は攻撃に報復すると警告した。" },
+      { "title": "② retaliate by として", "desc": "「〜することで報復する」を表します。", "example_en": "They retaliated by raising tariffs.", "example_ja": "彼らは関税を上げて報復した。" }
+    ],
+    "warn": [
+      "「〜に報復する」は retaliate against。「〜することで報復する」は retaliate by doing。",
+      "名詞は retaliation（報復）。in retaliation for は『〜への報復として』。"
+    ],
+    "etym_note": "ラテン語 retaliare（re-「逆に」＋ talis「同様の」＝同じだけ返す）に由来します。「やられたのと同じだけやり返す」が原義です。",
+    "etym_chain": [
+      { "node": "retaliare", "sub": "同じだけ返す", "era": "ラテン語" },
+      { "node": "retaliate", "sub": "報復する", "era": "近代英語" },
+      { "node": "retaliate", "sub": "報復する・仕返しする", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "retaliate against", "ja": "〜に報復する" },
+      { "en": "retaliate by", "ja": "〜することで報復する" },
+      { "en": "in retaliation for", "ja": "〜への報復として" },
+      { "en": "threaten to retaliate", "ja": "報復すると警告する" },
+      { "en": "retaliate in kind", "ja": "同じやり方で報復する" },
+      { "en": "fear of retaliation", "ja": "報復への恐れ" }
+    ],
+    "related": [
+      { "en": "retaliation", "ja": "報復（名詞）" },
+      { "en": "revenge", "ja": "復讐" },
+      { "en": "avenge", "ja": "あだを討つ" },
+      { "en": "strike back", "ja": "反撃する" }
+    ],
+    "faq": [
+      { "q": "retaliate のあとの前置詞は？", "a": "against（〜に報復する）です。retaliate against the enemy（敵に報復する）のように使います。" },
+      { "q": "retaliate と revenge の違いは？", "a": "retaliate は動詞『（攻撃に）報復する』、revenge は名詞・動詞『復讐』です。retaliate は即座のやり返しのニュアンスがあります。" }
+    ],
+    "quiz": [
+      { "q": "The country threatened to ___ against the attack.（報復する）", "A": "retaliate", "B": "reproduce", "C": "reconsider", "D": "rehabilitate", "correct": "A" },
+      { "q": "retaliate の名詞形はどれ？", "A": "retaliation", "B": "retaliatement", "C": "retaliance", "D": "retalition", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retrospect",
+    "pron": "ˈretrəspekt",
+    "kana": "レトロスペクト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 retro（後ろ）＋ specere（見る）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "名詞"],
+    "meaning_main": "回顧・振り返り（in retrospect で「今思えば」）",
+    "description": "retrospect の意味・発音・例文・語源を解説。in retrospect（振り返ってみると・今思えば）という重要表現を中心に分かりやすく紹介します。",
+    "keywords": ["retrospect 意味", "retrospect 発音", "in retrospect 意味", "retrospect 回顧"],
+    "meanings": [
+      { "hinshi": "【名詞】回顧・振り返り", "note": "おもに in retrospect（振り返ってみると）の形で使う。" }
+    ],
+    "usages": [
+      { "title": "① in retrospect（今思えば）として", "desc": "過去を振り返って気づくことを述べます。", "example_en": "In retrospect, I should have studied harder.", "example_ja": "今思えば、もっと勉強すべきだった。" },
+      { "title": "② 回顧として", "desc": "過去を振り返る意味で使います。", "example_en": "In retrospect, the decision was a mistake.", "example_ja": "振り返ってみると、その決断は誤りだった。" }
+    ],
+    "warn": [
+      "in retrospect は『振り返ってみると・今になって思えば』という超頻出の決まり文句。",
+      "retro-（後ろへ）＋ -spect（見る）。形容詞は retrospective（回顧的な）。"
+    ],
+    "etym_note": "ラテン語 retro（後ろへ）＋ specere（見る）に由来します。「後ろを見ること＝回顧」が原義です。spectator・inspect と同じ spec-（見る）の語根です。",
+    "etym_chain": [
+      { "node": "retro + specere", "sub": "後ろを見る", "era": "ラテン語" },
+      { "node": "retrospect", "sub": "回顧", "era": "近代英語" },
+      { "node": "retrospect", "sub": "回顧・振り返り", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "in retrospect", "ja": "今思えば・振り返ってみると" },
+      { "en": "a retrospect of", "ja": "〜の回顧" },
+      { "en": "in retrospect it seems", "ja": "今思えば〜のようだ" },
+      { "en": "a retrospective", "ja": "回顧展" },
+      { "en": "retrospective view", "ja": "回顧的な見方" },
+      { "en": "looking back in retrospect", "ja": "振り返ってみると" }
+    ],
+    "related": [
+      { "en": "retrospective", "ja": "回顧的な" },
+      { "en": "hindsight", "ja": "あとからの知恵" },
+      { "en": "recollection", "ja": "回想" },
+      { "en": "prospect", "ja": "見通し（対の語）" }
+    ],
+    "faq": [
+      { "q": "in retrospect とは？", "a": "『振り返ってみると・今になって思えば』という意味の決まった表現です。過去を今の視点から評価するときに使います。" },
+      { "q": "retrospect の形容詞は？", "a": "retrospective（回顧的な）です。a retrospective exhibition（回顧展）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "In ___, I should have studied harder.（今思えば）", "A": "retrospect", "B": "respect", "C": "prospect", "D": "inspect", "correct": "A" },
+      { "q": "retrospect の retro- の意味は？", "A": "後ろへ", "B": "前へ", "C": "上へ", "D": "中へ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rift",
+    "pron": "rɪft",
+    "kana": "リフト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古ノルド語 ript（裂け目）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "多義語"],
+    "meaning_main": "（地面の）裂け目／（人間関係の）亀裂・不和",
+    "description": "rift の意味・発音・例文・語源を解説。地面の「裂け目」や、人間関係の「亀裂・不和」の使い方を分かりやすく紹介します。",
+    "keywords": ["rift 意味", "rift 発音", "rift 亀裂", "rift valley 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】（地面・岩の）裂け目・割れ目", "note": "a rift in the rock（岩の割れ目）。a rift valley（地溝帯）。" },
+      { "hinshi": "【名詞】（人間関係の）亀裂・不和・対立", "note": "a rift between friends（友人間の亀裂）。" }
+    ],
+    "usages": [
+      { "title": "① 「裂け目」として", "desc": "地面や岩の割れ目を表します。", "example_en": "A deep rift opened in the ground.", "example_ja": "地面に深い裂け目ができた。" },
+      { "title": "② 「亀裂・不和」として", "desc": "人や集団の間の対立を表します。", "example_en": "The argument caused a rift between them.", "example_ja": "その口論は2人の間に亀裂を生んだ。" }
+    ],
+    "warn": [
+      "a rift valley は『地溝帯（the Great Rift Valley＝大地溝帯）』。",
+      "比喩の『亀裂・不和』が頻出。heal a rift は『不和を修復する』。"
+    ],
+    "etym_note": "古ノルド語 ript / rift（裂け目）に由来し、rive（引き裂く）と関係する語です。「裂けてできた割れ目」が原義で、比喩で『人間関係の亀裂』にもなりました。",
+    "etym_chain": [
+      { "node": "ript", "sub": "裂け目", "era": "古ノルド語" },
+      { "node": "rift", "sub": "割れ目", "era": "中英語" },
+      { "node": "rift", "sub": "裂け目・亀裂", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rift between", "ja": "〜の間の亀裂" },
+      { "en": "cause a rift", "ja": "亀裂を生む" },
+      { "en": "heal a rift", "ja": "不和を修復する" },
+      { "en": "a deep rift", "ja": "深い亀裂" },
+      { "en": "a rift valley", "ja": "地溝帯" },
+      { "en": "a growing rift", "ja": "広がる対立" }
+    ],
+    "related": [
+      { "en": "crack", "ja": "ひび・割れ目" },
+      { "en": "split", "ja": "分裂" },
+      { "en": "gap", "ja": "すき間・隔たり" },
+      { "en": "conflict", "ja": "対立" }
+    ],
+    "faq": [
+      { "q": "rift の二つの意味は？", "a": "①地面・岩の『裂け目・割れ目』と、②人間関係の『亀裂・不和・対立』です。" },
+      { "q": "a rift valley とは？", "a": "地殻の裂け目によってできた細長い谷『地溝帯』のことです。the Great Rift Valley（アフリカの大地溝帯）が有名です。" }
+    ],
+    "quiz": [
+      { "q": "The argument caused a ___ between them.（亀裂）", "A": "rift", "B": "lift", "C": "gift", "D": "rim", "correct": "A" },
+      { "q": "「不和を修復する」を表すのはどれ？", "A": "heal a rift", "B": "heal a lift", "C": "heal a gift", "D": "heal a rim", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rouse",
+    "pron": "raʊz",
+    "kana": "ラウズ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "中英語 rousen（（鳥を）飛び立たせる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "目覚めさせる・奮起させる・（感情を）かき立てる",
+    "description": "rouse の意味・発音・例文・語源を解説。眠りから「目覚めさせる」、感情を「かき立てる」使い方や、形容詞 rousing も分かりやすく紹介します。",
+    "keywords": ["rouse 意味", "rouse 発音", "rousing 意味", "rouse 目覚めさせる"],
+    "meanings": [
+      { "hinshi": "【動詞】目覚めさせる・起こす", "note": "眠りから起こす。rouse someone from sleep（眠りから起こす）。" },
+      { "hinshi": "【動詞】奮起させる・（感情を）かき立てる", "note": "rouse interest（興味をかき立てる）。" }
+    ],
+    "usages": [
+      { "title": "① 「目覚めさせる」として", "desc": "眠っている人を起こす意味です。", "example_en": "The noise roused him from a deep sleep.", "example_ja": "その物音が彼を深い眠りから覚まさせた。" },
+      { "title": "② 「感情をかき立てる」として", "desc": "興味・怒りなどを呼び起こす意味です。", "example_en": "The speech roused the crowd to action.", "example_ja": "その演説は群衆を行動へと奮い立たせた。" }
+    ],
+    "warn": [
+      "rouse /raʊz/ は arouse（呼び起こす）と近い。形容詞 rousing は『（人を）奮い立たせる』（a rousing speech＝感動的な演説）。",
+      "rouse someone to do は『〜するよう奮起させる』。"
+    ],
+    "etym_note": "中英語 rousen（鷹狩りで鳥を飛び立たせること）に由来するとされます。「（眠り・静止から）はっと立ち上がらせる」が原義です。",
+    "etym_chain": [
+      { "node": "rousen", "sub": "（鳥を）飛び立たせる", "era": "中英語" },
+      { "node": "rouse", "sub": "目覚めさせる", "era": "近代英語" },
+      { "node": "rouse", "sub": "目覚めさせる・奮起させる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rouse from sleep", "ja": "眠りから覚まさせる" },
+      { "en": "rouse interest", "ja": "興味をかき立てる" },
+      { "en": "rouse to action", "ja": "行動へと奮い立たせる" },
+      { "en": "rouse suspicion", "ja": "疑いを呼び起こす" },
+      { "en": "a rousing speech", "ja": "感動的な演説" },
+      { "en": "rouse oneself", "ja": "奮い立つ" }
+    ],
+    "related": [
+      { "en": "arouse", "ja": "呼び起こす" },
+      { "en": "awaken", "ja": "目覚めさせる" },
+      { "en": "stir", "ja": "かき立てる" },
+      { "en": "inspire", "ja": "奮起させる" }
+    ],
+    "faq": [
+      { "q": "rouse の二つの使い方は？", "a": "①眠りから『目覚めさせる・起こす』と、②興味・怒りなどの感情を『かき立てる・奮起させる』です。" },
+      { "q": "a rousing speech とは？", "a": "『（人を奮い立たせる）感動的で力強い演説』という意味です。rousing は rouse の形容詞です。" }
+    ],
+    "quiz": [
+      { "q": "The noise ___ him from a deep sleep.（目覚めさせた）", "A": "roused", "B": "ruined", "C": "rushed", "D": "raised", "correct": "A" },
+      { "q": "「感動的な演説」を表すのはどれ？", "A": "a rousing speech", "B": "a ruining speech", "C": "a rushing speech", "D": "a raising speech", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rupture",
+    "pron": "ˈrʌptʃər",
+    "kana": "ラプチャー",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "ラテン語 ruptura（破れること）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "理科"],
+    "meaning_main": "破裂・断裂／破裂する・決裂させる",
+    "description": "rupture の意味・発音・例文・語源を解説。血管などの「破裂・断裂」の使い方や、関係の「決裂」、語源 rupt（破る）も分かりやすく紹介します。",
+    "keywords": ["rupture 意味", "rupture 発音", "rupture 破裂", "rupt 語源"],
+    "meanings": [
+      { "hinshi": "【名詞】破裂・断裂", "note": "破れること。a rupture of a blood vessel（血管の破裂）。" },
+      { "hinshi": "【動詞】破裂する・断裂する／決裂させる", "note": "rupture relations（関係を決裂させる）。" }
+    ],
+    "usages": [
+      { "title": "① 「破裂・断裂」として", "desc": "体の組織などが破れることを表します。", "example_en": "He suffered a ruptured appendix.", "example_ja": "彼は虫垂が破裂した。" },
+      { "title": "② 「決裂」として", "desc": "関係が壊れることを表します。", "example_en": "The dispute caused a rupture in their relations.", "example_ja": "その紛争は両者の関係を決裂させた。" }
+    ],
+    "warn": [
+      "rupture は医学（破裂・ヘルニア）でよく使う。語源 rupt（破る）は interrupt・bankrupt と同じ。",
+      "比喩で『（関係の）決裂』にも使う。"
+    ],
+    "etym_note": "ラテン語 ruptura（rumpere「破る」の過去分詞系＝破れること）に由来します。interrupt・bankrupt・erupt と同じ rupt-（破る）の語根です。",
+    "etym_chain": [
+      { "node": "rumpere", "sub": "破る", "era": "ラテン語" },
+      { "node": "ruptura", "sub": "破れること", "era": "ラテン語" },
+      { "node": "rupture", "sub": "破裂・断裂", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a ruptured appendix", "ja": "破裂した虫垂" },
+      { "en": "rupture a blood vessel", "ja": "血管を破裂させる" },
+      { "en": "a rupture in relations", "ja": "関係の決裂" },
+      { "en": "risk of rupture", "ja": "破裂の危険" },
+      { "en": "rupture a tendon", "ja": "腱を断裂する" },
+      { "en": "cause a rupture", "ja": "破裂・決裂を招く" }
+    ],
+    "related": [
+      { "en": "burst", "ja": "破裂する" },
+      { "en": "tear", "ja": "裂ける" },
+      { "en": "break", "ja": "壊れる" },
+      { "en": "split", "ja": "裂ける・分裂" }
+    ],
+    "faq": [
+      { "q": "rupture はどんな場面で使う？", "a": "おもに医学で『（血管・臓器・腱の）破裂・断裂』に使います。比喩で関係の『決裂』も表します。" },
+      { "q": "rupture と同じ語源の語は？", "a": "interrupt（さえぎる）、bankrupt（破産した）、erupt（噴火する）などです。すべて rupt-（破る）の語根です。" }
+    ],
+    "quiz": [
+      { "q": "He suffered a ___ appendix.（破裂した虫垂）", "A": "ruptured", "B": "reduced", "C": "removed", "D": "refused", "correct": "A" },
+      { "q": "rupture と同じ語源（破る）の語はどれ？", "A": "interrupt", "B": "river", "C": "ribbon", "D": "ripple", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ruse",
+    "pron": "ruːz",
+    "kana": "ルーズ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 ruse（策略）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "名詞"],
+    "meaning_main": "策略・たくらみ・ごまかし",
+    "description": "ruse の意味・発音・例文・語源を解説。人をだます「策略・たくらみ」の使い方や、trick との近さも分かりやすく紹介します。",
+    "keywords": ["ruse 意味", "ruse 発音", "ruse 策略", "ruse trick 違い"],
+    "meanings": [
+      { "hinshi": "【名詞】策略・たくらみ・ごまかし", "note": "人をだますための計略。a clever ruse（巧妙な策略）。" }
+    ],
+    "usages": [
+      { "title": "① 「策略・たくらみ」として", "desc": "人をだます計略を表します。", "example_en": "It was just a ruse to get into the building.", "example_ja": "それは建物に入るためのただの策略だった。" },
+      { "title": "② a ruse to do として", "desc": "「〜するためのたくらみ」を表します。", "example_en": "The phone call was a ruse to distract her.", "example_ja": "その電話は彼女の気をそらすための策略だった。" }
+    ],
+    "warn": [
+      "発音は /ruːz/「ルーズ」。trick（いたずら・策略）よりやや改まった語。",
+      "a ruse to do（〜するための策略）の形でよく使う。"
+    ],
+    "etym_note": "古フランス語 ruse（策略。ruser「（獲物が）追っ手をかわす」から）に由来します。もとは狩りで獣が逃げ回ることを指し、そこから『計略・ごまかし』になりました。",
+    "etym_chain": [
+      { "node": "ruser", "sub": "かわす・逃げ回る", "era": "古フランス語" },
+      { "node": "ruse", "sub": "策略", "era": "中英語" },
+      { "node": "ruse", "sub": "策略・たくらみ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a clever ruse", "ja": "巧妙な策略" },
+      { "en": "a ruse to", "ja": "〜するための策略" },
+      { "en": "see through a ruse", "ja": "策略を見抜く" },
+      { "en": "use a ruse", "ja": "策略を使う" },
+      { "en": "a cunning ruse", "ja": "ずる賢いたくらみ" },
+      { "en": "fall for a ruse", "ja": "策略にだまされる" }
+    ],
+    "related": [
+      { "en": "trick", "ja": "策略・いたずら" },
+      { "en": "scheme", "ja": "たくらみ" },
+      { "en": "ploy", "ja": "策略" },
+      { "en": "deception", "ja": "ごまかし" }
+    ],
+    "faq": [
+      { "q": "ruse と trick の違いは？", "a": "意味は近く、どちらも『策略・ごまかし』ですが、ruse はややフォーマルで『（だますための）計略』を指します。" },
+      { "q": "a ruse to do とは？", "a": "『〜するためのたくらみ・策略』という意味です。a ruse to escape（逃げるための策略）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "It was just a ___ to get into the building.（策略）", "A": "ruse", "B": "ruise の誤形", "C": "rule", "D": "route", "correct": "A" },
+      { "q": "ruse と最も近い意味はどれ？", "A": "trick", "B": "truth", "C": "rule", "D": "route", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rustic",
+    "pron": "ˈrʌstɪk",
+    "kana": "ラスティック",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 rusticus（田舎の）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "形容詞"],
+    "meaning_main": "田舎風の・素朴な・田園の",
+    "description": "rustic の意味・発音・例文・語源を解説。「田舎風の・素朴な」というよい意味での使い方や、rural との違いも分かりやすく紹介します。",
+    "keywords": ["rustic 意味", "rustic 発音", "rustic rural 違い", "rustic 田舎風"],
+    "meanings": [
+      { "hinshi": "【形容詞】田舎風の・素朴な・田園の", "note": "素朴で趣のある田舎の雰囲気。rustic charm（素朴な趣）。" }
+    ],
+    "usages": [
+      { "title": "① 「田舎風の・素朴な」として", "desc": "趣のある田舎らしさを表します（ほめ言葉）。", "example_en": "The cabin had a charming rustic style.", "example_ja": "その小屋は魅力的な田舎風のスタイルだった。" },
+      { "title": "② 雰囲気を表して", "desc": "素朴で温かみのある様子を表します。", "example_en": "We enjoyed a rustic meal by the fire.", "example_ja": "私たちは暖炉のそばで素朴な食事を楽しんだ。" }
+    ],
+    "warn": [
+      "rustic は『田舎風の・素朴な』とよい意味（趣がある）で使うことが多い。rural は中立的な『田舎の・農村の』。",
+      "rural・rust（さび）と同じ rus（田舎）/ 関連語源。"
+    ],
+    "etym_note": "ラテン語 rusticus（田舎の。rus「田舎・田園」から）に由来します。rural と同じ rus（田舎）の語源で、「田舎らしい・素朴な」が原義です。",
+    "etym_chain": [
+      { "node": "rus", "sub": "田舎・田園", "era": "ラテン語" },
+      { "node": "rusticus", "sub": "田舎の", "era": "ラテン語" },
+      { "node": "rustic", "sub": "田舎風の・素朴な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rustic charm", "ja": "素朴な趣" },
+      { "en": "a rustic cabin", "ja": "田舎風の小屋" },
+      { "en": "rustic style", "ja": "田舎風のスタイル" },
+      { "en": "a rustic setting", "ja": "田園の風景" },
+      { "en": "rustic furniture", "ja": "素朴な家具" },
+      { "en": "rustic bread", "ja": "素朴なパン" }
+    ],
+    "related": [
+      { "en": "rural", "ja": "田舎の・農村の" },
+      { "en": "country", "ja": "田舎の" },
+      { "en": "simple", "ja": "素朴な" },
+      { "en": "urban", "ja": "都会的な（反対概念）" }
+    ],
+    "faq": [
+      { "q": "rustic と rural の違いは？", "a": "rural は中立的な『田舎の・農村の』、rustic は『田舎風の・素朴な（趣がある）』とよい意味で使うことが多いです。" },
+      { "q": "rustic charm とは？", "a": "『素朴な趣・田舎らしい魅力』という意味です。" }
+    ],
+    "quiz": [
+      { "q": "The cabin had a charming ___ style.（田舎風の）", "A": "rustic", "B": "rural の中立的", "C": "rusty", "D": "rugged", "correct": "A" },
+      { "q": "rustic と同じ語源（田舎）の語はどれ？", "A": "rural", "B": "ribbon", "C": "ripple", "D": "river", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rustle",
+    "pron": "ˈrʌsəl",
+    "kana": "ラッスル",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞・名詞",
+    "ld_etym": "中英語 rustlen（さらさら音を立てる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "音"],
+    "meaning_main": "（葉・紙が）さらさら・かさかさ音を立てる／その音",
+    "description": "rustle の意味・発音・例文・語源を解説。落ち葉や紙が「さらさら・かさかさ鳴る」擬音や、rustle up（さっと用意する）も紹介します。",
+    "keywords": ["rustle 意味", "rustle 発音", "rustle さらさら", "rustle up 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】さらさら・かさかさ音を立てる", "note": "葉・紙・布がこすれて軽い音を出す。" },
+      { "hinshi": "【名詞】さらさら音・かさかさ音", "note": "the rustle of leaves（葉ずれの音）。" }
+    ],
+    "usages": [
+      { "title": "① 「さらさら鳴る」として", "desc": "葉や紙がこすれて軽い音を立てる意味です。", "example_en": "The leaves rustled in the wind.", "example_ja": "葉が風にさらさらと鳴った。" },
+      { "title": "② rustle up として", "desc": "口語で「（食事などを）さっと用意する」を表します。", "example_en": "I'll rustle up some lunch.", "example_ja": "昼食をさっと用意するよ。" }
+    ],
+    "warn": [
+      "rustle は『さらさら・かさかさ』という軽い擬音語。rumble（ごろごろ）/ rattle（ガタガタ）と区別。",
+      "rustle up は口語で『（食事・物を）手早く用意する・かき集める』。"
+    ],
+    "etym_note": "中英語 rustlen（さらさら音を立てる）に由来する擬音的な語です。葉や紙がこすれる軽い連続音をまねた語です。",
+    "etym_chain": [
+      { "node": "rustlen", "sub": "さらさら音を立てる", "era": "中英語" },
+      { "node": "rustle", "sub": "さらさら鳴る", "era": "近代英語" },
+      { "node": "rustle", "sub": "さらさら鳴る・その音", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "leaves rustle", "ja": "葉がさらさら鳴る" },
+      { "en": "the rustle of leaves", "ja": "葉ずれの音" },
+      { "en": "rustle of paper", "ja": "紙のかさかさ音" },
+      { "en": "rustle up", "ja": "さっと用意する" },
+      { "en": "a soft rustle", "ja": "かすかなさらさら音" },
+      { "en": "rustle through", "ja": "（紙を）かさかさめくる" }
+    ],
+    "related": [
+      { "en": "whisper", "ja": "ささやく" },
+      { "en": "swish", "ja": "シュッと鳴る" },
+      { "en": "crackle", "ja": "パチパチ鳴る" },
+      { "en": "rumble", "ja": "ごろごろ鳴る" }
+    ],
+    "faq": [
+      { "q": "rustle はどんな音？", "a": "葉・紙・布などがこすれて立てる『さらさら・かさかさ』という軽い音です。" },
+      { "q": "rustle up とは？", "a": "口語で『（食事・必要なものを）手早く用意する・かき集める』という意味です。" }
+    ],
+    "quiz": [
+      { "q": "The leaves ___ in the wind.（さらさら鳴った）", "A": "rustled", "B": "rumbled", "C": "roared", "D": "rattled", "correct": "A" },
+      { "q": "rustle が表す音はどれ？", "A": "さらさら・かさかさ", "B": "ごろごろ", "C": "ガタガタ", "D": "ドンドン", "correct": "A" }
+    ]
+  }
+]

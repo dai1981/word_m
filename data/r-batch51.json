@@ -1,0 +1,522 @@
+[
+  {
+    "english": "raconteur",
+    "pron": "ˌrækɑːnˈtɜːr",
+    "kana": "ラコンター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 raconter（語る）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "言葉"],
+    "meaning_main": "話し上手な人・話術にたけた人",
+    "description": "raconteur の意味・発音・例文・語源を解説。逸話などを面白く語る「話し上手な人」というフランス語由来の語の使い方を紹介します。",
+    "keywords": ["raconteur 意味", "raconteur 発音", "raconteur 話し上手", "raconteur 語源"],
+    "meanings": [
+      { "hinshi": "【名詞】話し上手な人・話術にたけた人", "note": "逸話・物語を面白く語る人。a great raconteur（話術の達人）。" }
+    ],
+    "usages": [
+      { "title": "① 「話し上手な人」として", "desc": "逸話を巧みに語る人を表します。", "example_en": "He was a brilliant raconteur who kept us entertained.", "example_ja": "彼は私たちを楽しませ続ける見事な話し上手だった。" },
+      { "title": "② ほめ言葉として", "desc": "話術の才をほめるときに使います。", "example_en": "She is known as a witty raconteur.", "example_ja": "彼女は機知に富んだ話し上手として知られている。" }
+    ],
+    "warn": [
+      "発音は /ˌrækɑːnˈtɜːr/「ラコンター」でフランス語風。後ろにアクセント。",
+      "narrator（語り手）より『話を面白く聞かせる才能のある人』のニュアンス。"
+    ],
+    "etym_note": "フランス語 raconteur（raconter「語る」から＝語る人）に由来します。「物語を語る人」が原義で、話術の才をほめる語です。",
+    "etym_chain": [
+      { "node": "raconter", "sub": "語る", "era": "フランス語" },
+      { "node": "raconteur", "sub": "語る人", "era": "フランス語" },
+      { "node": "raconteur", "sub": "話し上手な人", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a great raconteur", "ja": "話術の達人" },
+      { "en": "a brilliant raconteur", "ja": "見事な話し上手" },
+      { "en": "a witty raconteur", "ja": "機知に富んだ話し手" },
+      { "en": "a natural raconteur", "ja": "生まれながらの話し上手" },
+      { "en": "a charming raconteur", "ja": "魅力的な語り手" },
+      { "en": "a gifted raconteur", "ja": "才能ある話し手" }
+    ],
+    "related": [
+      { "en": "storyteller", "ja": "語り手・物語る人" },
+      { "en": "narrator", "ja": "語り手" },
+      { "en": "speaker", "ja": "話し手" },
+      { "en": "wit", "ja": "機知・才人" }
+    ],
+    "faq": [
+      { "q": "raconteur とはどんな人？", "a": "逸話や物語を面白く巧みに語る『話し上手な人・話術にたけた人』のことです。ほめ言葉として使います。" },
+      { "q": "raconteur の発音は？", "a": "/ˌrækɑːnˈtɜːr/「ラコンター」です。フランス語由来で、後ろにアクセントを置きます。" }
+    ],
+    "quiz": [
+      { "q": "He was a brilliant ___ who kept us entertained.（話し上手）", "A": "raconteur", "B": "reconnaissance の偵察", "C": "rapport", "D": "rendezvous", "correct": "A" },
+      { "q": "raconteur と最も意味が近いのはどれ？", "A": "storyteller（語り手）", "B": "listener（聞き手）", "C": "writer（作家）", "D": "reader（読者）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recidivism",
+    "pron": "rɪˈsɪdɪvɪzəm",
+    "kana": "リシディビズム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 recidivus（再び落ちる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "法律"],
+    "meaning_main": "（犯罪の）累犯・再犯（の傾向）",
+    "description": "recidivism の意味・発音・例文・語源を解説。刑を終えた人が再び罪を犯す「累犯・再犯」という法律・社会の語の使い方を紹介します。",
+    "keywords": ["recidivism 意味", "recidivism 発音", "recidivism 再犯", "recidivist 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】（犯罪の）累犯・再犯（の傾向）", "note": "刑を終えた人が再び罪を犯すこと。reduce recidivism（再犯を減らす）。" }
+    ],
+    "usages": [
+      { "title": "① 「再犯・累犯」として", "desc": "刑後に再び罪を犯す傾向を表します。", "example_en": "The program aims to reduce recidivism.", "example_ja": "その制度は再犯を減らすことを目的としている。" },
+      { "title": "② 統計・政策の話題で", "desc": "再犯率について語るときに使います。", "example_en": "The recidivism rate among young offenders is high.", "example_ja": "若年犯罪者の再犯率は高い。" }
+    ],
+    "warn": [
+      "再犯する人は recidivist（累犯者）。recidivism rate は『再犯率』。",
+      "recede（退く）と同じ cad-/cid-（落ちる）の語源。「再び（罪に）落ちること」。"
+    ],
+    "etym_note": "ラテン語 recidivus（re-「再び」＋ cadere「落ちる」＝再び落ちる）に由来します。accident・cadence と同じ cad-/cid-（落ちる）の語根で、「再び（罪に）落ちること」が原義です。",
+    "etym_chain": [
+      { "node": "recidivus", "sub": "再び落ちる", "era": "ラテン語" },
+      { "node": "recidivism", "sub": "再犯", "era": "19世紀" },
+      { "node": "recidivism", "sub": "累犯・再犯", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reduce recidivism", "ja": "再犯を減らす" },
+      { "en": "the recidivism rate", "ja": "再犯率" },
+      { "en": "high recidivism", "ja": "高い再犯率" },
+      { "en": "prevent recidivism", "ja": "再犯を防ぐ" },
+      { "en": "a recidivist", "ja": "累犯者" },
+      { "en": "recidivism among offenders", "ja": "犯罪者の再犯" }
+    ],
+    "related": [
+      { "en": "recidivist", "ja": "累犯者" },
+      { "en": "relapse", "ja": "逆戻り" },
+      { "en": "reoffend", "ja": "再び罪を犯す" },
+      { "en": "rehabilitation", "ja": "更生" }
+    ],
+    "faq": [
+      { "q": "recidivism とはどんな意味？", "a": "刑を終えた人が『再び罪を犯すこと＝累犯・再犯（の傾向）』です。recidivism rate（再犯率）のように使います。" },
+      { "q": "recidivist とは？", "a": "『累犯者・常習犯（くり返し罪を犯す人）』のことです。" }
+    ],
+    "quiz": [
+      { "q": "The program aims to reduce ___.（再犯）", "A": "recidivism", "B": "reception の受付", "C": "recognition", "D": "recreation", "correct": "A" },
+      { "q": "recidivism と同じ語源（落ちる）の語はどれ？", "A": "accident", "B": "river", "C": "ribbon", "D": "ripple", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recrimination",
+    "pron": "rɪˌkrɪmɪˈneɪʃən",
+    "kana": "リクリミネイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 recriminari（非難し返す）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "名詞"],
+    "meaning_main": "（互いの）非難の応酬・責任のなすり合い",
+    "description": "recrimination の意味・発音・例文・語源を解説。失敗後の「互いの非難の応酬・責任のなすり合い」の使い方を分かりやすく紹介します。",
+    "keywords": ["recrimination 意味", "recrimination 発音", "mutual recrimination 意味", "recrimination 非難"],
+    "meanings": [
+      { "hinshi": "【名詞】（互いの）非難の応酬・責任のなすり合い", "note": "ふつう複数形 recriminations。amid recriminations（非難の応酬の中で）。" }
+    ],
+    "usages": [
+      { "title": "① 「非難の応酬・なすり合い」として", "desc": "互いに責め合う様子を表します。", "example_en": "The defeat led to bitter recriminations within the team.", "example_ja": "その敗北はチーム内の激しい責任のなすり合いを招いた。" },
+      { "title": "② 失敗後の場面で", "desc": "失敗のあと互いを責める状況を表します。", "example_en": "There was no time for recriminations.", "example_ja": "非難し合っている時間はなかった。" }
+    ],
+    "warn": [
+      "ふつう複数形 recriminations。crim-（罪）は crime・criminal と同じ語源。",
+      "「（互いに）非難する」動詞は recriminate。"
+    ],
+    "etym_note": "ラテン語 recriminari（re-「逆に」＋ criminari「非難する」＝非難し返す）に由来します。crime・criminal と同じ crim-（罪・告発）の語根です。",
+    "etym_chain": [
+      { "node": "recriminari", "sub": "非難し返す", "era": "ラテン語" },
+      { "node": "recrimination", "sub": "非難の応酬", "era": "近代英語" },
+      { "node": "recrimination", "sub": "非難の応酬・なすり合い", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "mutual recrimination", "ja": "互いの非難の応酬" },
+      { "en": "bitter recriminations", "ja": "激しいなすり合い" },
+      { "en": "amid recriminations", "ja": "非難の応酬の中で" },
+      { "en": "a round of recriminations", "ja": "ひとしきりの責め合い" },
+      { "en": "avoid recriminations", "ja": "責め合いを避ける" },
+      { "en": "endless recriminations", "ja": "果てしない非難合戦" }
+    ],
+    "related": [
+      { "en": "blame", "ja": "非難・責める" },
+      { "en": "accusation", "ja": "非難・告発" },
+      { "en": "reproach", "ja": "とがめ" },
+      { "en": "reconciliation", "ja": "和解（反対概念）" }
+    ],
+    "faq": [
+      { "q": "recrimination とはどんな意味？", "a": "『（失敗のあとなどに）互いに責め合う非難の応酬・責任のなすり合い』のことです。ふつう複数形 recriminations で使います。" },
+      { "q": "recrimination の語源は？", "a": "ラテン語の『非難し返す』に由来します。crime（罪）・criminal（犯人）と同じ crim- の語根です。" }
+    ],
+    "quiz": [
+      { "q": "The defeat led to bitter ___ within the team.（なすり合い）", "A": "recriminations", "B": "recreations の娯楽", "C": "recommendations", "D": "reservations", "correct": "A" },
+      { "q": "recrimination と同じ語源（罪）の語はどれ？", "A": "crime", "B": "river", "C": "ribbon", "D": "ripple", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rectitude",
+    "pron": "ˈrektɪtuːd",
+    "kana": "レクティテュード",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 rectus（まっすぐな・正しい）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "名詞"],
+    "meaning_main": "（道徳的な）正しさ・廉直・誠実",
+    "description": "rectitude の意味・発音・例文・語源を解説。道徳的な「正しさ・廉直・誠実さ」という格調高い語の使い方を分かりやすく紹介します。",
+    "keywords": ["rectitude 意味", "rectitude 発音", "moral rectitude 意味", "rectitude 廉直"],
+    "meanings": [
+      { "hinshi": "【名詞】（道徳的な）正しさ・廉直・誠実", "note": "道徳的にまっすぐで正しいこと。moral rectitude（道徳的廉直）。" }
+    ],
+    "usages": [
+      { "title": "① 「道徳的な正しさ・廉直」として", "desc": "正直でまっすぐな人柄を表します（格調高い語）。", "example_en": "He was admired for his moral rectitude.", "example_ja": "彼はその道徳的な廉直さで称賛された。" },
+      { "title": "② 誠実さとして", "desc": "正しく誠実であることを表します。", "example_en": "She acted with absolute rectitude.", "example_ja": "彼女は完全な誠実さをもって行動した。" }
+    ],
+    "warn": [
+      "rectitude は『道徳的な正しさ・廉直』という格調高い語。rect-（まっすぐ）は correct・rectify と同じ語源。",
+      "moral rectitude（道徳的廉直）が典型的な使い方。"
+    ],
+    "etym_note": "ラテン語 rectus（まっすぐな・正しい）から派生した rectitudo（まっすぐさ）に由来します。correct・rectify・direct と同じ rect-（まっすぐ）の語根です。",
+    "etym_chain": [
+      { "node": "rectus", "sub": "まっすぐな・正しい", "era": "ラテン語" },
+      { "node": "rectitudo", "sub": "まっすぐさ", "era": "ラテン語" },
+      { "node": "rectitude", "sub": "正しさ・廉直", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "moral rectitude", "ja": "道徳的廉直" },
+      { "en": "absolute rectitude", "ja": "完全な誠実さ" },
+      { "en": "a man of rectitude", "ja": "廉直な人物" },
+      { "en": "with rectitude", "ja": "誠実に" },
+      { "en": "personal rectitude", "ja": "個人の廉直さ" },
+      { "en": "a sense of rectitude", "ja": "廉直の精神" }
+    ],
+    "related": [
+      { "en": "integrity", "ja": "誠実・高潔" },
+      { "en": "honesty", "ja": "正直" },
+      { "en": "uprightness", "ja": "実直" },
+      { "en": "corruption", "ja": "堕落（反対概念）" }
+    ],
+    "faq": [
+      { "q": "rectitude とはどんな意味？", "a": "『（道徳的な）正しさ・廉直・誠実さ』という格調高い語です。moral rectitude（道徳的廉直）のように使います。" },
+      { "q": "rectitude と同じ語源の語は？", "a": "correct（正しい）、rectify（正す）、direct（まっすぐな）などです。すべて rect-（まっすぐ）の語根です。" }
+    ],
+    "quiz": [
+      { "q": "He was admired for his moral ___.（廉直）", "A": "rectitude", "B": "reputation の評判", "C": "reservation", "D": "recreation", "correct": "A" },
+      { "q": "rectitude と同じ語源（まっすぐ）の語はどれ？", "A": "correct", "B": "river", "C": "ribbon", "D": "ripple", "correct": "A" }
+    ]
+  },
+  {
+    "english": "redoubtable",
+    "pron": "rɪˈdaʊtəbəl",
+    "kana": "リダウタブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "古フランス語 redouter（恐れる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "形容詞"],
+    "meaning_main": "（敬意を抱かせるほど）手ごわい・恐るべき・畏敬すべき",
+    "description": "redoubtable の意味・発音・例文・語源を解説。実力があって「手ごわく畏敬すべき」相手を表す格調高い語の使い方を紹介します。",
+    "keywords": ["redoubtable 意味", "redoubtable 発音", "redoubtable opponent 意味", "redoubtable 手ごわい"],
+    "meanings": [
+      { "hinshi": "【形容詞】（敬意を抱かせるほど）手ごわい・恐るべき・畏敬すべき", "note": "実力があって油断できない。a redoubtable opponent（手ごわい相手）。" }
+    ],
+    "usages": [
+      { "title": "① 「手ごわい・畏敬すべき」として", "desc": "実力があり油断できない様子を表します。", "example_en": "She is a redoubtable opponent in any debate.", "example_ja": "彼女はどんな討論でも手ごわい相手だ。" },
+      { "title": "② 敬意を込めて", "desc": "尊敬の念を含めて『恐るべき』を表します。", "example_en": "The team faced a redoubtable rival.", "example_ja": "チームは畏敬すべきライバルと対戦した。" }
+    ],
+    "warn": [
+      "redoubtable は『（尊敬の念を抱かせるほど）手ごわい・恐るべき』というほめのニュアンスを含む格調高い語。",
+      "doubt（疑う）と同じ語源だが、「恐れる」の意味から来ている。"
+    ],
+    "etym_note": "古フランス語 redouter（re-「強意」＋ douter「恐れる・疑う」＝大いに恐れる）に由来します。doubt と同じ語源で、「恐れるに足る＝手ごわい」が原義です。",
+    "etym_chain": [
+      { "node": "redouter", "sub": "恐れる", "era": "古フランス語" },
+      { "node": "redoubtable", "sub": "恐るべき", "era": "中英語" },
+      { "node": "redoubtable", "sub": "手ごわい・畏敬すべき", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a redoubtable opponent", "ja": "手ごわい相手" },
+      { "en": "a redoubtable figure", "ja": "畏敬すべき人物" },
+      { "en": "a redoubtable rival", "ja": "恐るべきライバル" },
+      { "en": "a redoubtable champion", "ja": "手ごわい王者" },
+      { "en": "truly redoubtable", "ja": "実に手ごわい" },
+      { "en": "a redoubtable reputation", "ja": "恐るべき評判" }
+    ],
+    "related": [
+      { "en": "formidable", "ja": "手ごわい・恐るべき" },
+      { "en": "fearsome", "ja": "恐ろしい" },
+      { "en": "powerful", "ja": "強力な" },
+      { "en": "feeble", "ja": "弱々しい（反対概念）" }
+    ],
+    "faq": [
+      { "q": "redoubtable とはどんな意味？", "a": "『（敬意を抱かせるほど）手ごわい・恐るべき・畏敬すべき』という意味です。a redoubtable opponent（手ごわい相手）のように使います。" },
+      { "q": "redoubtable と formidable の違いは？", "a": "意味は近く、どちらも『手ごわい・恐るべき』です。redoubtable はやや古風で、尊敬の念を含むニュアンスがあります。" }
+    ],
+    "quiz": [
+      { "q": "She is a ___ opponent in any debate.（手ごわい）", "A": "redoubtable", "B": "responsible の責任ある", "C": "remarkable", "D": "reasonable", "correct": "A" },
+      { "q": "redoubtable と最も意味が近いのはどれ？", "A": "formidable（手ごわい）", "B": "feeble（弱々しい）", "C": "weak（弱い）", "D": "gentle（穏やかな）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rejoinder",
+    "pron": "rɪˈdʒɔɪndər",
+    "kana": "リジョインダー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 rejoindre（再び結ぶ・言い返す）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "言葉"],
+    "meaning_main": "（気のきいた・鋭い）受け答え・返答・反論",
+    "description": "rejoinder の意味・発音・例文・語源を解説。相手の発言への「気のきいた・鋭い返答・反論」という格調高い語の使い方を紹介します。",
+    "keywords": ["rejoinder 意味", "rejoinder 発音", "sharp rejoinder 意味", "rejoinder 返答"],
+    "meanings": [
+      { "hinshi": "【名詞】（気のきいた・鋭い）受け答え・返答・反論", "note": "相手の発言への返し。a witty rejoinder（気のきいた返し）。" }
+    ],
+    "usages": [
+      { "title": "① 「鋭い返答・反論」として", "desc": "相手の発言への気のきいた返しを表します。", "example_en": "Her sharp rejoinder silenced him.", "example_ja": "彼女の鋭い返答で彼は黙り込んだ。" },
+      { "title": "② 気のきいた返しとして", "desc": "ウィットのある返答を表します。", "example_en": "He had a quick rejoinder ready.", "example_ja": "彼はすばやい返しを用意していた。" }
+    ],
+    "warn": [
+      "rejoinder は『（相手の発言への）気のきいた・鋭い返答・反論』という格調高い語。retort・repartee と近い。",
+      "join（結ぶ）と同じ語源（再び結ぶ＝言葉を返す）。"
+    ],
+    "etym_note": "フランス語 rejoindre（re-「再び」＋ joindre「結ぶ」＝再び結ぶ・言い返す）に由来します。join・joint と同じ join-（結ぶ）の語根です。",
+    "etym_chain": [
+      { "node": "rejoindre", "sub": "再び結ぶ・言い返す", "era": "フランス語" },
+      { "node": "rejoinder", "sub": "返答", "era": "近代英語" },
+      { "node": "rejoinder", "sub": "鋭い返答・反論", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a sharp rejoinder", "ja": "鋭い返答" },
+      { "en": "a witty rejoinder", "ja": "気のきいた返し" },
+      { "en": "a quick rejoinder", "ja": "すばやい返答" },
+      { "en": "an angry rejoinder", "ja": "怒りの反論" },
+      { "en": "offer a rejoinder", "ja": "反論する" },
+      { "en": "a clever rejoinder", "ja": "巧みな返し" }
+    ],
+    "related": [
+      { "en": "retort", "ja": "鋭い返答" },
+      { "en": "repartee", "ja": "当意即妙の応酬" },
+      { "en": "reply", "ja": "返事" },
+      { "en": "comeback", "ja": "気のきいた返し" }
+    ],
+    "faq": [
+      { "q": "rejoinder とはどんな意味？", "a": "相手の発言に対する『（気のきいた・鋭い）返答・反論』のことです。a sharp rejoinder（鋭い返答）のように使います。" },
+      { "q": "rejoinder と retort の違いは？", "a": "どちらも『（鋭い）返答』ですが、retort は『（批判への）とっさの鋭い言い返し』、rejoinder は『（議論などへの）機知に富んだ返答』を指すことが多いです。" }
+    ],
+    "quiz": [
+      { "q": "Her sharp ___ silenced him.（返答）", "A": "rejoinder", "B": "reminder の念押し", "C": "remainder の残り", "D": "reservation", "correct": "A" },
+      { "q": "rejoinder と同じ語源（結ぶ）の語はどれ？", "A": "join", "B": "river", "C": "ribbon", "D": "ripple", "correct": "A" }
+    ]
+  },
+  {
+    "english": "remonstrate",
+    "pron": "rɪˈmɑːnstreɪt",
+    "kana": "リモンストレイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 remonstrare（はっきり示す・抗議する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "（強く）抗議する・異議を唱える・諫める",
+    "description": "remonstrate の意味・発音・例文・語源を解説。相手に「強く抗議する・異議を唱える」という格調高い語の使い方を分かりやすく紹介します。",
+    "keywords": ["remonstrate 意味", "remonstrate 発音", "remonstrate with 使い方", "remonstrate 抗議"],
+    "meanings": [
+      { "hinshi": "【動詞】（強く）抗議する・異議を唱える・諫める", "note": "remonstrate with someone（〜に抗議する）。" }
+    ],
+    "usages": [
+      { "title": "① 「抗議する・異議を唱える」として", "desc": "強く異議を申し立てる意味です。", "example_en": "He remonstrated with the referee over the decision.", "example_ja": "彼はその判定について審判に抗議した。" },
+      { "title": "② 諫めるとして", "desc": "相手をたしなめる意味でも使います。", "example_en": "She remonstrated against the unfair treatment.", "example_ja": "彼女は不公平な扱いに異議を唱えた。" }
+    ],
+    "warn": [
+      "「〜に抗議する」は remonstrate with。「〜に反対して」は remonstrate against。",
+      "demonstrate（示す）と同じ monstr-（示す）の語源。名詞は remonstrance（抗議）。"
+    ],
+    "etym_note": "ラテン語 remonstrare（re-「強意」＋ monstrare「示す」＝はっきり示す・抗議する）に由来します。demonstrate・monster と同じ monstr-（示す）の語根です。",
+    "etym_chain": [
+      { "node": "remonstrare", "sub": "はっきり示す・抗議する", "era": "ラテン語" },
+      { "node": "remonstrate", "sub": "抗議する", "era": "近代英語" },
+      { "node": "remonstrate", "sub": "抗議する・異議を唱える", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "remonstrate with", "ja": "〜に抗議する" },
+      { "en": "remonstrate against", "ja": "〜に反対して異議を唱える" },
+      { "en": "remonstrate angrily", "ja": "怒って抗議する" },
+      { "en": "remonstrate in vain", "ja": "むなしく抗議する" },
+      { "en": "remonstrate loudly", "ja": "大声で抗議する" },
+      { "en": "remonstrance", "ja": "抗議" }
+    ],
+    "related": [
+      { "en": "protest", "ja": "抗議する" },
+      { "en": "object", "ja": "反対する" },
+      { "en": "complain", "ja": "苦情を言う" },
+      { "en": "rebuke", "ja": "叱責する" }
+    ],
+    "faq": [
+      { "q": "remonstrate のあとの前置詞は？", "a": "with（人に抗議する）、against（〜に反対する）です。remonstrate with the manager（部長に抗議する）のように使います。" },
+      { "q": "remonstrate と protest の違いは？", "a": "どちらも『抗議する』ですが、remonstrate はよりかたく、『（諫めるように）異議を申し立てる』ニュアンスです。" }
+    ],
+    "quiz": [
+      { "q": "He ___ with the referee over the decision.（抗議した）", "A": "remonstrated", "B": "demonstrated の示した", "C": "reduced", "D": "removed", "correct": "A" },
+      { "q": "remonstrate と同じ語源（示す）の語はどれ？", "A": "demonstrate", "B": "river", "C": "ribbon", "D": "ripple", "correct": "A" }
+    ]
+  },
+  {
+    "english": "restive",
+    "pron": "ˈrestɪv",
+    "kana": "レスティブ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "古フランス語 restif（じっとして動かない）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "形容詞"],
+    "meaning_main": "落ち着かない・そわそわした・（馬などが）言うことを聞かない",
+    "description": "restive の意味・発音・例文・語源を解説。群衆や馬が「落ち着かず制御しにくい」様子の使い方や、restless との違いも紹介します。",
+    "keywords": ["restive 意味", "restive 発音", "restive crowd 意味", "restive restless 違い"],
+    "meanings": [
+      { "hinshi": "【形容詞】落ち着かない・そわそわした・制御しにくい", "note": "不満でじっとしていられない。a restive crowd（ざわつく群衆）。" }
+    ],
+    "usages": [
+      { "title": "① 「落ち着かない・制御しにくい」として", "desc": "不満でそわそわし、抑えにくい様子を表します。", "example_en": "The crowd grew restive as the delay continued.", "example_ja": "遅れが続くと群衆はざわつき始めた。" },
+      { "title": "② 馬などについて", "desc": "言うことを聞かず落ち着かない様子を表します。", "example_en": "The horse became restive before the storm.", "example_ja": "嵐の前に馬は落ち着きをなくした。" }
+    ],
+    "warn": [
+      "restive は『（不満で）落ち着かない・制御しにくい』。restless（そわそわした）と似ているが、restive は『反抗的に落ち着かない』ニュアンス。",
+      "rest（休む）と同じ語源だが意味が変化した。"
+    ],
+    "etym_note": "古フランス語 restif（rester「とどまる」から＝じっとして動かない）に由来します。もとは『（馬が）動こうとしない』で、そこから『言うことを聞かず落ち着かない』になりました。",
+    "etym_chain": [
+      { "node": "restif", "sub": "じっとして動かない", "era": "古フランス語" },
+      { "node": "restive", "sub": "強情な・落ち着かない", "era": "近代英語" },
+      { "node": "restive", "sub": "落ち着かない・制御しにくい", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a restive crowd", "ja": "ざわつく群衆" },
+      { "en": "grow restive", "ja": "落ち着かなくなる" },
+      { "en": "become restive", "ja": "そわそわし始める" },
+      { "en": "restive students", "ja": "落ち着かない生徒たち" },
+      { "en": "a restive horse", "ja": "言うことを聞かない馬" },
+      { "en": "increasingly restive", "ja": "ますます落ち着かない" }
+    ],
+    "related": [
+      { "en": "restless", "ja": "そわそわした" },
+      { "en": "uneasy", "ja": "不安な" },
+      { "en": "agitated", "ja": "動揺した" },
+      { "en": "calm", "ja": "落ち着いた（反対語）" }
+    ],
+    "faq": [
+      { "q": "restive と restless の違いは？", "a": "どちらも『落ち着かない』ですが、restive は『（不満で反抗的に）落ち着かず制御しにくい』、restless は『（じっとしていられず）そわそわした』というニュアンスです。" },
+      { "q": "grow restive とは？", "a": "『（不満で）落ち着かなくなる・ざわつき始める』という意味です。" }
+    ],
+    "quiz": [
+      { "q": "The crowd grew ___ as the delay continued.（ざわついた）", "A": "restive", "B": "responsive の反応する", "C": "resilient", "D": "resolute", "correct": "A" },
+      { "q": "restive と意味が近いのはどれ？", "A": "restless（そわそわした）", "B": "calm（落ち着いた）", "C": "relaxed（くつろいだ）", "D": "peaceful（平穏な）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retinue",
+    "pron": "ˈretɪnuː",
+    "kana": "レティニュー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 retenue（保持・従者）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "名詞"],
+    "meaning_main": "（要人の）随行員・お供・一行",
+    "description": "retinue の意味・発音・例文・語源を解説。王や要人につき従う「随行員・お供の一行」の使い方や、retain との語源的な関係も紹介します。",
+    "keywords": ["retinue 意味", "retinue 発音", "retinue 随行員", "retain 関係"],
+    "meanings": [
+      { "hinshi": "【名詞】（要人の）随行員・お供・一行", "note": "王・要人につき従う人々。a large retinue（大勢の随行員）。" }
+    ],
+    "usages": [
+      { "title": "① 「随行員・お供の一行」として", "desc": "要人につき従う人々を表します。", "example_en": "The king arrived with a large retinue.", "example_ja": "王は大勢の随行員を従えて到着した。" },
+      { "title": "② お供として", "desc": "有名人などの取り巻きも表します。", "example_en": "The star traveled with a retinue of assistants.", "example_ja": "そのスターは付き人の一行を連れて移動した。" }
+    ],
+    "warn": [
+      "retinue は『（要人につき従う）随行員・お供の一行』。retain（保持する）と同じ語源（手元に留め置く人々）。",
+      "発音は /ˈretɪnuː/「レティニュー」。"
+    ],
+    "etym_note": "古フランス語 retenue（retenir「引きとどめる・雇い続ける」から＝従者）に由来します。retain と同じ ten-（保つ）の語根で、「（主人が）手元に留め置く人々」が原義です。",
+    "etym_chain": [
+      { "node": "retenir", "sub": "引きとどめる・雇い続ける", "era": "古フランス語" },
+      { "node": "retenue", "sub": "従者", "era": "古フランス語" },
+      { "node": "retinue", "sub": "随行員・お供", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a large retinue", "ja": "大勢の随行員" },
+      { "en": "a royal retinue", "ja": "王の一行" },
+      { "en": "travel with a retinue", "ja": "お供を連れて移動する" },
+      { "en": "an entire retinue", "ja": "随行員一同" },
+      { "en": "a retinue of servants", "ja": "従者の一行" },
+      { "en": "accompanied by a retinue", "ja": "随行員を伴って" }
+    ],
+    "related": [
+      { "en": "entourage", "ja": "取り巻き・随行員" },
+      { "en": "escort", "ja": "護衛・付き添い" },
+      { "en": "followers", "ja": "従者" },
+      { "en": "retain", "ja": "保持する（同語源）" }
+    ],
+    "faq": [
+      { "q": "retinue とはどんな意味？", "a": "王や要人につき従う『随行員・お供・一行』のことです。a large retinue（大勢の随行員）のように使います。" },
+      { "q": "retinue と retain は関係ある？", "a": "はい。どちらも ten-（保つ）が語源です。retinue は『（主人が）手元に留め置く人々＝従者』です。" }
+    ],
+    "quiz": [
+      { "q": "The king arrived with a large ___.（随行員）", "A": "retinue", "B": "retreat の退却", "C": "return", "D": "review", "correct": "A" },
+      { "q": "retinue と最も意味が近いのはどれ？", "A": "entourage（取り巻き）", "B": "enemy（敵）", "C": "stranger（見知らぬ人）", "D": "rival（ライバル）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retribution",
+    "pron": "ˌretrɪˈbjuːʃən",
+    "kana": "レトリビューション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 retribuere（報いる・返す）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "名詞"],
+    "meaning_main": "（悪行への）報い・天罰・応報の罰",
+    "description": "retribution の意味・発音・例文・語源を解説。悪事に対する「報い・天罰・応報の罰」という重い語の使い方を分かりやすく紹介します。",
+    "keywords": ["retribution 意味", "retribution 発音", "divine retribution 意味", "retribution 報い"],
+    "meanings": [
+      { "hinshi": "【名詞】（悪行への）報い・天罰・応報の罰", "note": "悪事への当然の罰。divine retribution（天罰）。" }
+    ],
+    "usages": [
+      { "title": "① 「報い・天罰・応報の罰」として", "desc": "悪事に対する当然の罰を表します。", "example_en": "They feared divine retribution for their crimes.", "example_ja": "彼らは自分の罪への天罰を恐れた。" },
+      { "title": "② 報復として", "desc": "悪に対する厳しい報いを表します。", "example_en": "He sought retribution for the wrong done to him.", "example_ja": "彼は自分が受けた不当な仕打ちへの報いを求めた。" }
+    ],
+    "warn": [
+      "retribution は『（悪行への）当然の報い・天罰・応報の罰』という重い語。revenge（私的復讐）より『正義としての罰』のニュアンス。",
+      "tribute・attribute と同じ trib-（割り当てる・与える）の語源。"
+    ],
+    "etym_note": "ラテン語 retribuere（re-「返して」＋ tribuere「割り当てる・与える」＝報いる）に由来します。tribute・distribute と同じ trib-（割り当てる）の語根です。",
+    "etym_chain": [
+      { "node": "retribuere", "sub": "報いる・返す", "era": "ラテン語" },
+      { "node": "retribution", "sub": "報い", "era": "中英語" },
+      { "node": "retribution", "sub": "報い・天罰", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "divine retribution", "ja": "天罰" },
+      { "en": "seek retribution", "ja": "報いを求める" },
+      { "en": "swift retribution", "ja": "すばやい報い" },
+      { "en": "fear retribution", "ja": "報いを恐れる" },
+      { "en": "an act of retribution", "ja": "応報の行為" },
+      { "en": "face retribution", "ja": "報いに直面する" }
+    ],
+    "related": [
+      { "en": "punishment", "ja": "罰" },
+      { "en": "revenge", "ja": "復讐" },
+      { "en": "reprisal", "ja": "報復" },
+      { "en": "justice", "ja": "正義" }
+    ],
+    "faq": [
+      { "q": "retribution と revenge の違いは？", "a": "revenge は『（個人的な）復讐』、retribution は『（悪行への）当然の報い・天罰・正義としての罰』という重いニュアンスです。" },
+      { "q": "divine retribution とは？", "a": "『天罰（神による報い）』という意味です。" }
+    ],
+    "quiz": [
+      { "q": "They feared divine ___ for their crimes.（天罰）", "A": "retribution", "B": "reputation の評判", "C": "reservation", "D": "recreation", "correct": "A" },
+      { "q": "retribution と同じ語源（割り当てる）の語はどれ？", "A": "tribute", "B": "river", "C": "ribbon", "D": "ripple", "correct": "A" }
+    ]
+  }
+]

@@ -1,0 +1,533 @@
+[
+  {
+    "english": "rhubarb",
+    "pron": "ˈruːbɑːrb",
+    "kana": "ルーバーブ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 rheubarbarum（外国産の根）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "食べ物"],
+    "meaning_main": "ルバーブ（赤い茎を食べる野菜）／（米・くだけて）口論・がやがや",
+    "description": "rhubarb の意味・発音・例文・語源を解説。赤い茎をジャムやパイに使う野菜「ルバーブ」と、くだけた「口論」の意味の使い方を紹介します。",
+    "keywords": ["rhubarb 意味", "rhubarb 発音", "rhubarb 野菜", "rhubarb 読み方"],
+    "meanings": [
+      { "hinshi": "【名詞】ルバーブ", "note": "赤い太い茎を食べる野菜。酸味があり、パイやジャムにする。葉には毒があり食べない。" },
+      { "hinshi": "【名詞】（米・くだけて）口論・もめごと・がやがや", "note": "舞台で群衆が口々に言うざわめきにも使う。" }
+    ],
+    "usages": [
+      { "title": "① 「ルバーブ」として", "desc": "赤い茎を食べる酸味のある野菜です。", "example_en": "She baked a strawberry rhubarb pie.", "example_ja": "彼女はイチゴとルバーブのパイを焼いた。" },
+      { "title": "② 「口論・がやがや」として", "desc": "アメリカのくだけた言い方で言い争いを表します。", "example_en": "A big rhubarb broke out on the baseball field.", "example_ja": "野球場で大きな言い争いが起きた。" }
+    ],
+    "warn": [
+      "rhubarb は『赤い茎を食べる野菜』。発音は『ルーバーブ（ˈruːbɑːrb）』で h は読まない。",
+      "葉の部分は有毒なので食べない。食べるのは茎だけ。"
+    ],
+    "etym_note": "ラテン語 rheubarbarum（rha「ボルガ川（産地）」＋ barbarum「外国の」）に由来し、「外国（異邦）から来た根」を意味しました。古くから薬用・食用として伝わった植物です。",
+    "etym_chain": [
+      { "node": "rheubarbarum", "sub": "外国産の根", "era": "ラテン語" },
+      { "node": "rubarbe", "sub": "ルバーブ", "era": "古フランス語" },
+      { "node": "rhubarb", "sub": "ルバーブ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rhubarb pie", "ja": "ルバーブパイ" },
+      { "en": "strawberry rhubarb", "ja": "イチゴとルバーブ（の組み合わせ）" },
+      { "en": "stewed rhubarb", "ja": "ルバーブの煮込み" },
+      { "en": "rhubarb jam", "ja": "ルバーブジャム" },
+      { "en": "a stalk of rhubarb", "ja": "ルバーブの茎1本" },
+      { "en": "rhubarb crumble", "ja": "ルバーブクランブル" }
+    ],
+    "related": [
+      { "en": "celery", "ja": "セロリ" },
+      { "en": "stalk", "ja": "（植物の）茎" },
+      { "en": "pie", "ja": "パイ" },
+      { "en": "vegetable", "ja": "野菜" }
+    ],
+    "faq": [
+      { "q": "rhubarb とはどんな食べ物？", "a": "赤くて太い茎を食べる酸味のある野菜です。砂糖と煮てパイやジャムにします。葉には毒があるので食べません。" },
+      { "q": "rhubarb の発音は？", "a": "『ルーバーブ（ˈruːbɑːrb）』です。最初の h は発音せず、ru- の音から始まります。" }
+    ],
+    "quiz": [
+      { "q": "She baked a strawberry ___ pie.（ルバーブ）", "A": "rhubarb", "B": "rhythm のリズム", "C": "ribbon", "D": "rubble の瓦礫", "correct": "A" },
+      { "q": "ルバーブで食べてよい部分はどこ？", "A": "茎", "B": "葉", "C": "根", "D": "花", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rosy",
+    "pron": "ˈroʊzi",
+    "kana": "ロウジー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "rose（ばら）＋ -y",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "描写"],
+    "meaning_main": "ばら色の・血色のよい／（将来が）明るい・有望な",
+    "description": "rosy の意味・発音・例文・語源を解説。ほおが「ばら色の・血色のよい」、また将来が「明るい・有望な」という前向きな描写語の使い方を紹介します。",
+    "keywords": ["rosy 意味", "rosy 発音", "rosy 有望な", "rosy ばら色"],
+    "meanings": [
+      { "hinshi": "【形容詞】ばら色の・血色のよい", "note": "ほおや肌が健康そうにピンク色のようす。rosy cheeks（ばら色のほお）。" },
+      { "hinshi": "【形容詞】（将来などが）明るい・有望な", "note": "a rosy future（明るい未来）。楽観的なようすにも使う。" }
+    ],
+    "usages": [
+      { "title": "① 「ばら色の・血色のよい」として", "desc": "健康そうなピンク色のほおや肌を表します。", "example_en": "The baby had rosy cheeks.", "example_ja": "その赤ちゃんはばら色のほおをしていた。" },
+      { "title": "② 「明るい・有望な」として", "desc": "将来や見通しが希望に満ちたようすです。", "example_en": "The company painted a rosy picture of its future.", "example_ja": "その会社は将来をばら色に描いてみせた。" }
+    ],
+    "warn": [
+      "rosy は『ばら色の・明るい』という前向きな語。a rosy future / outlook（明るい見通し）が頻出。",
+      "paint a rosy picture は『（実際より）楽観的に描く』という決まり文句。"
+    ],
+    "etym_note": "rose（ばら）に「〜のような」を表す -y が付いた語で、「ばらのような（色・明るさ）」が原義です。健康的なピンク色から、比喩的に「希望に満ちた」という意味へ広がりました。",
+    "etym_chain": [
+      { "node": "rosa", "sub": "ばら", "era": "ラテン語" },
+      { "node": "rose", "sub": "ばら", "era": "中英語" },
+      { "node": "rosy", "sub": "ばら色の・明るい", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rosy cheeks", "ja": "ばら色のほお" },
+      { "en": "a rosy future", "ja": "明るい未来" },
+      { "en": "a rosy outlook", "ja": "明るい見通し" },
+      { "en": "paint a rosy picture", "ja": "楽観的に描く" },
+      { "en": "rosy-cheeked", "ja": "ばら色のほおをした" },
+      { "en": "not so rosy", "ja": "あまり明るくない" }
+    ],
+    "related": [
+      { "en": "rose", "ja": "ばら" },
+      { "en": "ruddy", "ja": "血色のよい" },
+      { "en": "optimistic", "ja": "楽観的な" },
+      { "en": "bleak", "ja": "暗い・お先真っ暗な（反対語）" }
+    ],
+    "faq": [
+      { "q": "rosy とはどんな意味？", "a": "ほおや肌が『ばら色で血色がよい』ようす、また将来などが『明るく有望な』ようすを表す形容詞です。前向きでよいイメージの語です。" },
+      { "q": "paint a rosy picture とは？", "a": "『（実際よりも）物事を明るく・楽観的に見せる』という意味の決まり文句です。" }
+    ],
+    "quiz": [
+      { "q": "The baby had ___ cheeks.（ばら色の）", "A": "rosy", "B": "rusty のさびた", "C": "risky の危険な", "D": "ready の用意できた", "correct": "A" },
+      { "q": "a rosy future の意味はどれ？", "A": "明るい未来", "B": "暗い未来", "C": "不確かな未来", "D": "遠い未来", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rotary",
+    "pron": "ˈroʊtəri",
+    "kana": "ロウタリー",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 rotare（回す）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "技術"],
+    "meaning_main": "回転する・回転式の／（米）環状交差点・ロータリー",
+    "description": "rotary の意味・発音・例文・語源を解説。「回転する・回転式の」という形容詞と、アメリカで「環状交差点（ロータリー）」を指す使い方を紹介します。",
+    "keywords": ["rotary 意味", "rotary 発音", "rotary 回転", "rotary ロータリー"],
+    "meanings": [
+      { "hinshi": "【形容詞】回転する・回転式の", "note": "軸を中心にぐるぐる回る動き・しくみ。a rotary engine（ロータリーエンジン）。" },
+      { "hinshi": "【名詞】（主に米）環状交差点・ロータリー", "note": "車が円を回って進む交差点。イギリスでは roundabout。" }
+    ],
+    "usages": [
+      { "title": "① 形容詞「回転式の」として", "desc": "軸を中心に回る動きやしくみを表します。", "example_en": "Old phones had a rotary dial.", "example_ja": "昔の電話には回転式のダイヤルがあった。" },
+      { "title": "② 名詞「環状交差点」として", "desc": "車が円を回って進む交差点を指します。", "example_en": "Slow down as you enter the rotary.", "example_ja": "ロータリーに入るときは速度を落としなさい。" }
+    ],
+    "warn": [
+      "rotary は『回転の』が基本。a rotary dial（ダイヤル式）、rotary engine（ロータリーエンジン）。",
+      "『環状交差点』の意味は主に米国（特にニューイングランド）。一般には roundabout / traffic circle。"
+    ],
+    "etym_note": "ラテン語 rotare（回す・回転させる）に由来し、rota（車輪）から来ています。rotate（回転する）や rotor（回転子）と同じ語根で、「車輪のように回る」が原義です。",
+    "etym_chain": [
+      { "node": "rota", "sub": "車輪", "era": "ラテン語" },
+      { "node": "rotare", "sub": "回す", "era": "ラテン語" },
+      { "node": "rotary", "sub": "回転する・回転式の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rotary dial", "ja": "回転式ダイヤル" },
+      { "en": "rotary engine", "ja": "ロータリーエンジン" },
+      { "en": "rotary motion", "ja": "回転運動" },
+      { "en": "rotary blade", "ja": "回転刃" },
+      { "en": "enter the rotary", "ja": "ロータリーに入る" },
+      { "en": "rotary pump", "ja": "回転ポンプ" }
+    ],
+    "related": [
+      { "en": "rotate", "ja": "回転する" },
+      { "en": "rotor", "ja": "回転子" },
+      { "en": "spinning", "ja": "回転している" },
+      { "en": "roundabout", "ja": "環状交差点（英）" }
+    ],
+    "faq": [
+      { "q": "rotary とはどんな意味？", "a": "『回転する・回転式の』を表す形容詞です。a rotary dial（回転式ダイヤル）のように使い、アメリカでは名詞で『環状交差点（ロータリー）』も指します。" },
+      { "q": "rotary と rotate の関係は？", "a": "どちらもラテン語 rotare（回す）から来た同語源の語です。rotate は動詞『回転する』、rotary は形容詞『回転式の』です。" }
+    ],
+    "quiz": [
+      { "q": "Old phones had a ___ dial.（回転式の）", "A": "rotary", "B": "rosary のロザリオ", "C": "roster の名簿", "D": "rotten の腐った", "correct": "A" },
+      { "q": "rotary と同じ語源なのは？", "A": "rotate（回転する）", "B": "relate（関係する）", "C": "rescue（救う）", "D": "react（反応する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "roadmap",
+    "pron": "ˈroʊdmæp",
+    "kana": "ロウドマップ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "road（道）＋ map（地図）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "ビジネス"],
+    "meaning_main": "道路地図／（比喩）行程表・計画の道筋・ロードマップ",
+    "description": "roadmap の意味・発音・例文・語源を解説。「道路地図」と、目標までの「行程表・計画の道筋（ロードマップ）」という比喩の使い方を紹介します。",
+    "keywords": ["roadmap 意味", "roadmap 発音", "roadmap 行程表", "roadmap 計画"],
+    "meanings": [
+      { "hinshi": "【名詞】道路地図", "note": "道路を示した地図。a road map（つづりは2語のこともある）。" },
+      { "hinshi": "【名詞】（比喩）行程表・計画の道筋", "note": "目標達成までの手順や計画。a roadmap to success（成功への道筋）。" }
+    ],
+    "usages": [
+      { "title": "① 「道路地図」として", "desc": "道路を示した地図を指します。", "example_en": "We used a roadmap to plan the trip.", "example_ja": "私たちは旅行の計画に道路地図を使った。" },
+      { "title": "② 「行程表・計画の道筋」として", "desc": "目標までの手順や見通しを表す比喩です。", "example_en": "The plan provides a roadmap for reform.", "example_ja": "その計画は改革への道筋を示している。" }
+    ],
+    "warn": [
+      "roadmap はビジネスでよく『行程表・計画の道筋』の意味で使う。a roadmap to / for ～（〜への道筋）。",
+      "つづりは roadmap でも road map（2語）でもよい。"
+    ],
+    "etym_note": "road（道）＋ map（地図）の複合語です。文字どおりの「道路地図」から、目標までの進み方を示す「行程表・計画の道筋」という比喩的な意味が広がりました。",
+    "etym_chain": [
+      { "node": "rad", "sub": "乗ること・道", "era": "古英語" },
+      { "node": "road + map", "sub": "道＋地図", "era": "近代英語" },
+      { "node": "roadmap", "sub": "道路地図・行程表", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a roadmap to success", "ja": "成功への道筋" },
+      { "en": "a roadmap for reform", "ja": "改革への行程表" },
+      { "en": "provide a roadmap", "ja": "道筋を示す" },
+      { "en": "follow the roadmap", "ja": "行程表に従う" },
+      { "en": "a clear roadmap", "ja": "明確な計画の道筋" },
+      { "en": "a product roadmap", "ja": "製品の開発計画" }
+    ],
+    "related": [
+      { "en": "plan", "ja": "計画" },
+      { "en": "blueprint", "ja": "青写真・計画" },
+      { "en": "guide", "ja": "指針" },
+      { "en": "strategy", "ja": "戦略" }
+    ],
+    "faq": [
+      { "q": "roadmap とはどんな意味？", "a": "文字どおりは『道路地図』ですが、ビジネスなどでは目標までの手順や見通しを示す『行程表・計画の道筋』という比喩でよく使われます。" },
+      { "q": "roadmap と plan の違いは？", "a": "plan は『計画』全般、roadmap は『段階を追った道筋・手順』を強調する語です。a roadmap to success のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The plan provides a ___ for reform.（道筋）", "A": "roadmap", "B": "roadside の道端", "C": "roadblock の障害", "D": "railway の鉄道", "correct": "A" },
+      { "q": "比喩としての roadmap の意味はどれ？", "A": "行程表・計画の道筋", "B": "渋滞", "C": "信号機", "D": "燃料", "correct": "A" }
+    ]
+  },
+  {
+    "english": "roadside",
+    "pron": "ˈroʊdsaɪd",
+    "kana": "ロウドサイド",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "road（道）＋ side（側）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "基本単語"],
+    "meaning_main": "道端・路傍／（形容詞）道沿いの",
+    "description": "roadside の意味・発音・例文・語源を解説。道の脇「道端・路傍」と、「道沿いの」という形容詞の使い方を分かりやすく紹介します。",
+    "keywords": ["roadside 意味", "roadside 発音", "roadside 道端", "roadside 道沿い"],
+    "meanings": [
+      { "hinshi": "【名詞】道端・路傍", "note": "道路のすぐ脇。by the roadside（道端に）。" },
+      { "hinshi": "【形容詞】道沿いの", "note": "a roadside cafe（道沿いのカフェ）、roadside assistance（路上故障時の救援）。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「道端」として", "desc": "道路のすぐ脇を指します。", "example_en": "They stopped to rest by the roadside.", "example_ja": "彼らは休もうと道端で止まった。" },
+      { "title": "② 形容詞「道沿いの」として", "desc": "道に面した店や設備を表します。", "example_en": "We ate lunch at a roadside cafe.", "example_ja": "私たちは道沿いのカフェで昼食をとった。" }
+    ],
+    "warn": [
+      "roadside は『道端・道沿いの』。roadside assistance は『（車の）路上救援サービス』の決まり文句。",
+      "by the roadside（道端に）の形で副詞的にもよく使う。"
+    ],
+    "etym_note": "road（道）＋ side（側・脇）の複合語で、文字どおり「道の脇」を意味します。side は古英語 side（横・脇腹）に由来します。",
+    "etym_chain": [
+      { "node": "road + side", "sub": "道＋脇", "era": "中英語" },
+      { "node": "roadside", "sub": "道の脇", "era": "近代英語" },
+      { "node": "roadside", "sub": "道端・道沿いの", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "by the roadside", "ja": "道端に" },
+      { "en": "a roadside cafe", "ja": "道沿いのカフェ" },
+      { "en": "roadside assistance", "ja": "路上救援サービス" },
+      { "en": "a roadside stall", "ja": "道沿いの屋台" },
+      { "en": "roadside flowers", "ja": "道端の花" },
+      { "en": "a roadside sign", "ja": "道路脇の看板" }
+    ],
+    "related": [
+      { "en": "curbside", "ja": "歩道の縁・路肩側" },
+      { "en": "wayside", "ja": "道端" },
+      { "en": "shoulder", "ja": "路肩" },
+      { "en": "verge", "ja": "（道の）草地の縁" }
+    ],
+    "faq": [
+      { "q": "roadside とはどんな意味？", "a": "道路のすぐ脇『道端・路傍』を指す名詞、また『道沿いの』を表す形容詞です。by the roadside（道端に）の形でよく使います。" },
+      { "q": "roadside assistance とは？", "a": "車が路上で故障したときに来てくれる『路上救援サービス（ロードサービス）』のことです。" }
+    ],
+    "quiz": [
+      { "q": "They stopped to rest by the ___.（道端）", "A": "roadside", "B": "roadmap の行程表", "C": "roadway", "D": "rooftop の屋上", "correct": "A" },
+      { "q": "roadside assistance の意味はどれ？", "A": "路上救援サービス", "B": "道路工事", "C": "交通違反", "D": "速度制限", "correct": "A" }
+    ]
+  },
+  {
+    "english": "roadblock",
+    "pron": "ˈroʊdblɑːk",
+    "kana": "ロウドブロック",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "road（道）＋ block（さえぎるもの）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "ニュース"],
+    "meaning_main": "道路封鎖・検問所／（比喩）障害・行き詰まり",
+    "description": "roadblock の意味・発音・例文・語源を解説。道をふさぐ「道路封鎖・検問」と、進行をはばむ「障害・行き詰まり」という比喩の使い方を紹介します。",
+    "keywords": ["roadblock 意味", "roadblock 発音", "roadblock 障害", "roadblock 封鎖"],
+    "meanings": [
+      { "hinshi": "【名詞】道路封鎖・検問所", "note": "警察などが道をふさいで車を止める設備。set up a roadblock（検問を敷く）。" },
+      { "hinshi": "【名詞】（比喩）障害・行き詰まり", "note": "計画などの進行をはばむもの。a roadblock to progress（前進の妨げ）。" }
+    ],
+    "usages": [
+      { "title": "① 「道路封鎖・検問」として", "desc": "道をふさいで車を止める設備です。", "example_en": "Police set up a roadblock to catch the suspect.", "example_ja": "警察は容疑者を捕まえるため検問を敷いた。" },
+      { "title": "② 「障害・行き詰まり」として", "desc": "計画の進行をはばむものを表す比喩です。", "example_en": "Funding became a major roadblock for the project.", "example_ja": "資金面がその計画の大きな障害になった。" }
+    ],
+    "warn": [
+      "roadblock は『道路封鎖・検問』が基本。比喩で『（計画の）障害・行き詰まり』の意味も頻出。",
+      "hit a roadblock は『行き詰まる・壁にぶつかる』という決まり文句。"
+    ],
+    "etym_note": "road（道）＋ block（さえぎるもの・障害物）の複合語です。block は中世オランダ語 blok（丸太・かたまり）に由来し、「道をふさぐ丸太」から「障害」の意味に広がりました。",
+    "etym_chain": [
+      { "node": "blok", "sub": "丸太・かたまり", "era": "中世オランダ語" },
+      { "node": "road + block", "sub": "道＋さえぎり", "era": "近代英語" },
+      { "node": "roadblock", "sub": "道路封鎖・障害", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "set up a roadblock", "ja": "検問を敷く" },
+      { "en": "hit a roadblock", "ja": "行き詰まる・壁にぶつかる" },
+      { "en": "a major roadblock", "ja": "大きな障害" },
+      { "en": "a roadblock to progress", "ja": "前進の妨げ" },
+      { "en": "remove a roadblock", "ja": "障害を取り除く" },
+      { "en": "a police roadblock", "ja": "警察の検問" }
+    ],
+    "related": [
+      { "en": "barrier", "ja": "障壁" },
+      { "en": "obstacle", "ja": "障害物" },
+      { "en": "checkpoint", "ja": "検問所" },
+      { "en": "hurdle", "ja": "障害・ハードル" }
+    ],
+    "faq": [
+      { "q": "roadblock とはどんな意味？", "a": "警察などが道をふさぐ『道路封鎖・検問』のことです。比喩的に、計画の進行をはばむ『障害・行き詰まり』も表します。" },
+      { "q": "hit a roadblock とは？", "a": "『行き詰まる・思わぬ障害にぶつかる』という意味の決まり文句です。" }
+    ],
+    "quiz": [
+      { "q": "Police set up a ___ to catch the suspect.（検問）", "A": "roadblock", "B": "roadside の道端", "C": "roadmap の行程表", "D": "rooftop の屋上", "correct": "A" },
+      { "q": "hit a roadblock の意味はどれ？", "A": "行き詰まる・壁にぶつかる", "B": "順調に進む", "C": "道を覚える", "D": "車を止める", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reboot",
+    "pron": "riːˈbuːt",
+    "kana": "リブート",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ boot（起動する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "IT・技術"],
+    "meaning_main": "（コンピュータを）再起動する／（作品・計画を）作り直す・刷新（する）",
+    "description": "reboot の意味・発音・例文・語源を解説。機器を「再起動する」、また映画やシリーズを「作り直す・刷新する」という現代的な語の使い方を紹介します。",
+    "keywords": ["reboot 意味", "reboot 発音", "reboot 再起動", "reboot リブート"],
+    "meanings": [
+      { "hinshi": "【動詞】（コンピュータを）再起動する", "note": "電源を入れ直して立ち上げ直す。restart とほぼ同じ。" },
+      { "hinshi": "【動詞】（作品・計画を）作り直す・刷新する", "note": "映画やシリーズを新たに作り直すこと。reboot the franchise。" },
+      { "hinshi": "【名詞】再起動／（作品の）リブート", "note": "a reboot of the series（シリーズの作り直し）。" }
+    ],
+    "usages": [
+      { "title": "① 「再起動する」として", "desc": "機器を立ち上げ直す意味です。", "example_en": "Try rebooting your laptop if it freezes.", "example_ja": "固まったらノートパソコンを再起動してみて。" },
+      { "title": "② 「作り直す・刷新する」として", "desc": "古い作品や計画を新たに作り直す意味です。", "example_en": "The studio rebooted the classic superhero series.", "example_ja": "その制作会社は名作ヒーローシリーズを作り直した。" }
+    ],
+    "warn": [
+      "reboot は語源的に boot（起動）から。コンピュータの『再起動』が基本だが、映画・シリーズの『刷新・作り直し』の意味も今は一般的。",
+      "restart とほぼ同義だが、reboot は『一からシステムを立ち上げ直す』感じが強い。"
+    ],
+    "etym_note": "re-（再び）＋ boot（コンピュータを起動する）から成ります。この boot は bootstrap（自分の靴ひもで立ち上がる）に由来し、「自力で立ち上げる＝起動する」が原義です。",
+    "etym_chain": [
+      { "node": "bootstrap", "sub": "靴ひも・自力", "era": "近代英語" },
+      { "node": "boot", "sub": "（機器を）起動する", "era": "現代英語" },
+      { "node": "reboot", "sub": "再起動する・作り直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reboot the computer", "ja": "パソコンを再起動する" },
+      { "en": "reboot the system", "ja": "システムを再起動する" },
+      { "en": "a series reboot", "ja": "シリーズのリブート" },
+      { "en": "reboot the franchise", "ja": "（映画）シリーズを作り直す" },
+      { "en": "a fresh reboot", "ja": "新たな刷新" },
+      { "en": "needs a reboot", "ja": "再起動・刷新が必要だ" }
+    ],
+    "related": [
+      { "en": "restart", "ja": "再起動する" },
+      { "en": "reset", "ja": "リセットする" },
+      { "en": "revamp", "ja": "刷新する" },
+      { "en": "remake", "ja": "作り直す・リメイク" }
+    ],
+    "faq": [
+      { "q": "reboot とはどんな意味？", "a": "コンピュータを『再起動する』のが基本の意味です。加えて、映画やシリーズなどを『新たに作り直す・刷新する』という比喩的な使い方も一般的になっています。" },
+      { "q": "reboot と remake の違いは？", "a": "remake は『元の作品をほぼそのまま作り直す』、reboot は『設定や世界観を一新して新たに始め直す』というニュアンスの違いがあります。" }
+    ],
+    "quiz": [
+      { "q": "Try ___ing your laptop if it freezes.（再起動する）", "A": "reboot", "B": "reduce の減らす", "C": "remove の取り除く", "D": "reveal の明かす", "correct": "A" },
+      { "q": "reboot のもとになった語はどれ？", "A": "boot（起動する）", "B": "book（本）", "C": "boost（高める）", "D": "board（板）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rerun",
+    "pron": "ˈriːrʌn",
+    "kana": "リーラン",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ run（流す・上映する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "メディア"],
+    "meaning_main": "再放送・再上映／（動詞）再放送する・もう一度行う",
+    "description": "rerun の意味・発音・例文・語源を解説。テレビ番組の「再放送・再上映」と、「もう一度行う・再放送する」という動詞の使い方を紹介します。",
+    "keywords": ["rerun 意味", "rerun 発音", "rerun 再放送", "rerun 過去形"],
+    "meanings": [
+      { "hinshi": "【名詞】再放送・再上映", "note": "以前放送した番組を再び流すこと。summer reruns（夏の再放送）。" },
+      { "hinshi": "【動詞】再放送する・もう一度行う", "note": "番組を再び流す、実験や選挙などをやり直す。活用は rerun-reran-rerun。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「再放送」として", "desc": "以前流した番組を再び放送することです。", "example_en": "They are showing reruns of the old sitcom.", "example_ja": "あの昔のコメディ番組の再放送をやっている。" },
+      { "title": "② 動詞「もう一度行う」として", "desc": "番組や実験などをやり直す意味です。", "example_en": "The lab had to rerun the experiment.", "example_ja": "研究室はその実験をやり直さなければならなかった。" }
+    ],
+    "warn": [
+      "名詞 rerun はアクセントが前（ˈriːrʌn）、動詞はやや後ろ寄り。活用は run と同じ rerun-reran-rerun。",
+      "番組の『再放送』の意味が中心だが、実験や選挙の『やり直し』にも使う。"
+    ],
+    "etym_note": "re-（再び）＋ run（走らせる・流す・上映する）から成ります。run には「（フィルムや番組を）流す」の意味があり、そこから「再び流す＝再放送」の意味が生まれました。",
+    "etym_chain": [
+      { "node": "rinnan", "sub": "走る・流れる", "era": "古英語" },
+      { "node": "run", "sub": "流す・上映する", "era": "中英語" },
+      { "node": "rerun", "sub": "再放送・やり直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "summer reruns", "ja": "夏の再放送" },
+      { "en": "watch a rerun", "ja": "再放送を見る" },
+      { "en": "rerun the experiment", "ja": "実験をやり直す" },
+      { "en": "a rerun of the election", "ja": "選挙のやり直し" },
+      { "en": "endless reruns", "ja": "果てしない再放送" },
+      { "en": "rerun the numbers", "ja": "数字を計算し直す" }
+    ],
+    "related": [
+      { "en": "repeat", "ja": "再放送（英）" },
+      { "en": "replay", "ja": "再生する" },
+      { "en": "rebroadcast", "ja": "再放送する" },
+      { "en": "redo", "ja": "やり直す" }
+    ],
+    "faq": [
+      { "q": "rerun とはどんな意味？", "a": "テレビ番組の『再放送・再上映』を指す名詞、また『再放送する・もう一度行う』という動詞です。実験や選挙のやり直しにも使います。" },
+      { "q": "rerun の過去形は？", "a": "run と同じで rerun-reran-rerun です。過去形は reran、過去分詞は rerun になります。" }
+    ],
+    "quiz": [
+      { "q": "They are showing ___s of the old sitcom.（再放送）", "A": "rerun", "B": "return の戻る", "C": "reborn の生まれ変わった", "D": "reward の報酬", "correct": "A" },
+      { "q": "rerun の過去形はどれ？", "A": "reran", "B": "rerunned", "C": "reran't", "D": "reruned", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rewrite",
+    "pron": "riːˈraɪt",
+    "kana": "リーライト",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ write（書く）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "基本単語"],
+    "meaning_main": "書き直す・書き換える／（名詞）書き直し・改訂版",
+    "description": "rewrite の意味・発音・例文・語源を解説。文章やプログラムを「書き直す・書き換える」、また「書き直し・改訂版」という使い方を分かりやすく紹介します。",
+    "keywords": ["rewrite 意味", "rewrite 発音", "rewrite 過去形", "rewrite 書き直す"],
+    "meanings": [
+      { "hinshi": "【動詞】書き直す・書き換える", "note": "文章・脚本・プログラムなどを直して書く。活用は rewrite-rewrote-rewritten。" },
+      { "hinshi": "【動詞】（歴史・記録を）塗り替える", "note": "rewrite history（歴史を塗り替える）のように比喩的にも使う。" },
+      { "hinshi": "【名詞】書き直し・改訂版", "note": "a major rewrite（大幅な書き直し）。" }
+    ],
+    "usages": [
+      { "title": "① 「書き直す・書き換える」として", "desc": "文章や脚本を直して書く意味です。", "example_en": "She rewrote the essay to make it clearer.", "example_ja": "彼女はより分かりやすくするため小論文を書き直した。" },
+      { "title": "② 「（記録を）塗り替える」として", "desc": "歴史や記録を一新する比喩です。", "example_en": "The athlete rewrote the record books.", "example_ja": "その選手は記録を塗り替えた。" }
+    ],
+    "warn": [
+      "rewrite の活用は write と同じ rewrite-rewrote-rewritten。rewrited とはしない。",
+      "rewrite history は『（事実をゆがめて）歴史を書き換える』という否定的な意味でも使われる。"
+    ],
+    "etym_note": "re-（再び）＋ write（書く）から成る分かりやすい語です。write は古英語 writan（刻む・引っかく）に由来し、もとは文字を刻みつけることを表しました。",
+    "etym_chain": [
+      { "node": "writan", "sub": "刻む・書く", "era": "古英語" },
+      { "node": "write", "sub": "書く", "era": "中英語" },
+      { "node": "rewrite", "sub": "書き直す・書き換える", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rewrite the essay", "ja": "小論文を書き直す" },
+      { "en": "rewrite the code", "ja": "コードを書き直す" },
+      { "en": "rewrite history", "ja": "歴史を塗り替える・書き換える" },
+      { "en": "a major rewrite", "ja": "大幅な書き直し" },
+      { "en": "rewrite the rules", "ja": "ルールを書き換える" },
+      { "en": "needs a rewrite", "ja": "書き直しが必要だ" }
+    ],
+    "related": [
+      { "en": "revise", "ja": "改訂する" },
+      { "en": "edit", "ja": "編集する" },
+      { "en": "redraft", "ja": "下書きし直す" },
+      { "en": "amend", "ja": "修正する" }
+    ],
+    "faq": [
+      { "q": "rewrite の過去形は？", "a": "write と同じで rewrite-rewrote-rewritten です。過去形は rewrote、過去分詞は rewritten になります。" },
+      { "q": "rewrite と revise の違いは？", "a": "revise は『部分的に手直し・改訂する』、rewrite は『大きく書き直す（場合によっては一から）』という違いがあります。" }
+    ],
+    "quiz": [
+      { "q": "She ___ the essay to make it clearer.（書き直した）", "A": "rewrote", "B": "rewrited", "C": "rewriting", "D": "rewrites", "correct": "A" },
+      { "q": "rewrite の過去分詞はどれ？", "A": "rewritten", "B": "rewrote", "C": "rewrited", "D": "rewriten", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ruffian",
+    "pron": "ˈrʌfiən",
+    "kana": "ラフィアン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "イタリア語 ruffiano（ならず者）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "文学的"],
+    "meaning_main": "乱暴者・ならず者・チンピラ",
+    "description": "ruffian の意味・発音・例文・語源を解説。暴力をふるう「乱暴者・ならず者」を表す、ややかたい・古風な語の使い方を分かりやすく紹介します。",
+    "keywords": ["ruffian 意味", "ruffian 発音", "ruffian ならず者", "ruffian 乱暴者"],
+    "meanings": [
+      { "hinshi": "【名詞】乱暴者・ならず者・チンピラ", "note": "暴力をふるう荒っぽい男。やや古風・文語的な響きの語。" }
+    ],
+    "usages": [
+      { "title": "① 「乱暴者・ならず者」として", "desc": "暴力をふるう荒っぽい人物を指します。", "example_en": "A gang of ruffians attacked the travelers.", "example_ja": "ならず者の一団が旅人を襲った。" },
+      { "title": "② 文学・歴史的な文脈で", "desc": "古い物語などで荒くれ者を表します。", "example_en": "The streets were ruled by ruffians and thieves.", "example_ja": "通りはならず者や盗人に支配されていた。" }
+    ],
+    "warn": [
+      "ruffian は『暴力をふるう乱暴者』。やや古風・文学的で、日常会話では thug などが普通。",
+      "ruffle（乱す・ひだ飾り）とつづりが似るが別語なので注意。"
+    ],
+    "etym_note": "イタリア語 ruffiano（女衒・悪党・ならず者）に由来し、16世紀ごろ英語に入りました。荒っぽく不道徳な男を指す語として使われてきました。",
+    "etym_chain": [
+      { "node": "ruffiano", "sub": "ならず者・悪党", "era": "イタリア語" },
+      { "node": "ruffian", "sub": "乱暴者", "era": "近代英語" },
+      { "node": "ruffian", "sub": "乱暴者・ならず者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a gang of ruffians", "ja": "ならず者の一団" },
+      { "en": "a young ruffian", "ja": "若いチンピラ" },
+      { "en": "street ruffians", "ja": "町のならず者" },
+      { "en": "a band of ruffians", "ja": "乱暴者の一味" },
+      { "en": "armed ruffians", "ja": "武装したならず者" },
+      { "en": "drive off the ruffians", "ja": "ならず者を追い払う" }
+    ],
+    "related": [
+      { "en": "thug", "ja": "暴漢・チンピラ" },
+      { "en": "hooligan", "ja": "ごろつき" },
+      { "en": "brute", "ja": "乱暴者" },
+      { "en": "scoundrel", "ja": "悪党" }
+    ],
+    "faq": [
+      { "q": "ruffian とはどんな意味？", "a": "暴力をふるう『乱暴者・ならず者・チンピラ』のことです。やや古風で文学的な響きがあり、物語や歴史的な文脈でよく使われます。" },
+      { "q": "ruffian と thug の違いは？", "a": "意味はほぼ同じですが、ruffian はやや古風・文語的、thug はより現代的で日常的に使われる語です。" }
+    ],
+    "quiz": [
+      { "q": "A gang of ___s attacked the travelers.（ならず者）", "A": "ruffian", "B": "ruffle のひだ飾り", "C": "rugby", "D": "rooster のおんどり", "correct": "A" },
+      { "q": "ruffian に近い意味はどれ？", "A": "thug（暴漢）", "B": "scholar（学者）", "C": "guardian（保護者）", "D": "merchant（商人）", "correct": "A" }
+    ]
+  }
+]

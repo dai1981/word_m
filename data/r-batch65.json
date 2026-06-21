@@ -1,0 +1,525 @@
+[
+  {
+    "english": "rabbi",
+    "pron": "ˈræbaɪ",
+    "kana": "ラバイ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ヘブライ語 rabbi（我が師）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "宗教・文化"],
+    "meaning_main": "ラビ（ユダヤ教の宗教指導者・律法の教師）",
+    "description": "rabbi の意味・発音・例文・語源を解説。ユダヤ教の宗教指導者・律法の教師「ラビ」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["rabbi 意味", "rabbi 発音", "rabbi ラビ", "rabbi ユダヤ教"],
+    "meanings": [
+      { "hinshi": "【名詞】ラビ（ユダヤ教の指導者・教師）", "note": "ユダヤ教の律法（トーラー）に精通し、信徒を導き儀式を執り行う宗教指導者。複数形は rabbis。" }
+    ],
+    "usages": [
+      { "title": "① 宗教指導者として", "desc": "ユダヤ教の信徒を導く人を指します。", "example_en": "The rabbi led the prayers at the synagogue.", "example_ja": "ラビはシナゴーグで祈りを導いた。" },
+      { "title": "② 敬称として", "desc": "名前の前につけて敬意を表します。", "example_en": "Rabbi Cohen gave a moving sermon.", "example_ja": "コーエン師は感動的な説教をした。" }
+    ],
+    "warn": [
+      "rabbi は『ユダヤ教の宗教指導者・律法の教師』。キリスト教の priest、イスラム教の imam に当たる立場。",
+      "発音は『ラバイ（ˈræbaɪ）』。礼拝所はシナゴーグ（synagogue）。"
+    ],
+    "etym_note": "ヘブライ語 rabbi（rav「師・偉大な者」＋ -i「私の」＝我が師）に由来します。新約聖書でもイエスへの呼びかけに使われ、「先生」を表す敬称として広まりました。",
+    "etym_chain": [
+      { "node": "rav", "sub": "師・偉大な者", "era": "ヘブライ語" },
+      { "node": "rabbi", "sub": "我が師", "era": "ヘブライ語" },
+      { "node": "rabbi", "sub": "ラビ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a Jewish rabbi", "ja": "ユダヤ教のラビ" },
+      { "en": "the rabbi's sermon", "ja": "ラビの説教" },
+      { "en": "consult a rabbi", "ja": "ラビに相談する" },
+      { "en": "become a rabbi", "ja": "ラビになる" },
+      { "en": "Rabbi Levi", "ja": "レビ師" },
+      { "en": "a respected rabbi", "ja": "尊敬されるラビ" }
+    ],
+    "related": [
+      { "en": "synagogue", "ja": "シナゴーグ（ユダヤ教礼拝所）" },
+      { "en": "Judaism", "ja": "ユダヤ教" },
+      { "en": "priest", "ja": "司祭" },
+      { "en": "Torah", "ja": "トーラー（律法）" }
+    ],
+    "faq": [
+      { "q": "rabbi とはどんな意味？", "a": "ユダヤ教の律法に精通し、信徒を導き儀式を執り行う『宗教指導者・律法の教師（ラビ）』のことです。キリスト教の priest（司祭）に当たる立場です。" },
+      { "q": "rabbi の語源は？", "a": "ヘブライ語 rabbi（我が師）です。rav（師）＋ -i（私の）から成り、もとは『先生』への敬称でした。" }
+    ],
+    "quiz": [
+      { "q": "The ___ led the prayers at the synagogue.（ラビ）", "A": "rabbi", "B": "rabbit のうさぎ", "C": "rabble の群衆", "D": "ribbon のリボン", "correct": "A" },
+      { "q": "rabbi はどの宗教の指導者？", "A": "ユダヤ教", "B": "仏教", "C": "ヒンドゥー教", "D": "神道", "correct": "A" }
+    ]
+  },
+  {
+    "english": "radish",
+    "pron": "ˈrædɪʃ",
+    "kana": "ラディッシュ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 radix（根）",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "食べ物"],
+    "meaning_main": "ハツカダイコン・ラディッシュ（赤くて辛い小さな根菜）",
+    "description": "radish の意味・発音・例文・語源を解説。サラダに使う赤くて辛みのある小さな根菜「ハツカダイコン・ラディッシュ」を指す語の使い方を紹介します。",
+    "keywords": ["radish 意味", "radish 発音", "radish ラディッシュ", "radish 大根"],
+    "meanings": [
+      { "hinshi": "【名詞】ハツカダイコン・ラディッシュ", "note": "赤い皮で白い中身、ぴりっと辛い小さな根菜。サラダによく使う。日本の大根も含めて radish という。" }
+    ],
+    "usages": [
+      { "title": "① サラダの材料として", "desc": "赤くて辛い小さな根菜を指します。", "example_en": "She added sliced radishes to the salad.", "example_ja": "彼女はサラダに薄切りのラディッシュを加えた。" },
+      { "title": "② 野菜として", "desc": "畑で育てる根菜として使います。", "example_en": "Radishes grow quickly in cool weather.", "example_ja": "ラディッシュは涼しい気候で早く育つ。" }
+    ],
+    "warn": [
+      "radish は赤くて小さい『ハツカダイコン』が一般的。日本の大根は daikon または white radish という。",
+      "発音は『ラディッシュ（ˈrædɪʃ）』。語源は radix（根）で、radical（根本的な）と同じ語根。"
+    ],
+    "etym_note": "ラテン語 radix（根）に由来します。「根」を意味する語根から来ており、radical（根本的な）や root（根）と関係があります。食用の根菜を指す語になりました。",
+    "etym_chain": [
+      { "node": "radix", "sub": "根", "era": "ラテン語" },
+      { "node": "rædic", "sub": "ダイコン", "era": "古英語" },
+      { "node": "radish", "sub": "ハツカダイコン", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "sliced radishes", "ja": "薄切りのラディッシュ" },
+      { "en": "a bunch of radishes", "ja": "ラディッシュひと束" },
+      { "en": "white radish", "ja": "大根" },
+      { "en": "radish salad", "ja": "ラディッシュのサラダ" },
+      { "en": "grow radishes", "ja": "ラディッシュを育てる" },
+      { "en": "a spicy radish", "ja": "辛みのあるラディッシュ" }
+    ],
+    "related": [
+      { "en": "daikon", "ja": "大根" },
+      { "en": "turnip", "ja": "カブ" },
+      { "en": "carrot", "ja": "にんじん" },
+      { "en": "root vegetable", "ja": "根菜" }
+    ],
+    "faq": [
+      { "q": "radish とはどんな意味？", "a": "赤い皮で白い中身の、ぴりっと辛い小さな根菜『ハツカダイコン・ラディッシュ』のことです。サラダの彩りによく使われます。" },
+      { "q": "大根は英語で何という？", "a": "日本の大根は daikon、または white radish と言います。radish だけだとふつう赤くて小さいハツカダイコンを指します。" }
+    ],
+    "quiz": [
+      { "q": "She added sliced ___es to the salad.（ラディッシュ）", "A": "radish", "B": "rubbish のごみ", "C": "radio のラジオ", "D": "ranch の牧場", "correct": "A" },
+      { "q": "radish の語源の意味はどれ？", "A": "根", "B": "葉", "C": "花", "D": "実", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rickshaw",
+    "pron": "ˈrɪkʃɔː",
+    "kana": "リクショー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "日本語「人力車（じんりきしゃ）」より",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "文化・乗り物"],
+    "meaning_main": "人力車・リキシャ（人が引く二輪の乗り物）",
+    "description": "rickshaw の意味・発音・例文・語源を解説。人が引く二輪の乗り物「人力車（リキシャ）」を指す、日本語由来の語の使い方を分かりやすく紹介します。",
+    "keywords": ["rickshaw 意味", "rickshaw 発音", "rickshaw 人力車", "rickshaw 語源"],
+    "meanings": [
+      { "hinshi": "【名詞】人力車・リキシャ", "note": "人が引いて走る二輪の乗り物。アジアの観光地で今も見られる。自転車式は cycle rickshaw。" }
+    ],
+    "usages": [
+      { "title": "① 乗り物として", "desc": "人が引く二輪車を指します。", "example_en": "They rode a rickshaw through the old town.", "example_ja": "彼らは旧市街を人力車で巡った。" },
+      { "title": "② 観光の場面で", "desc": "観光地での移動手段として使います。", "example_en": "A rickshaw is a popular way to see the city.", "example_ja": "人力車は街を見て回る人気の手段だ。" }
+    ],
+    "warn": [
+      "rickshaw は日本語『人力車』が語源。引くタイプのほか、自転車式 cycle rickshaw、原動機付き auto rickshaw もある。",
+      "発音は『リクショー（ˈrɪkʃɔː）』。"
+    ],
+    "etym_note": "日本語の『人力車（じんりきしゃ）』が語源で、その短縮 jinrikisha から rickshaw となりました。jin（人）＋ riki（力）＋ sha（車）で「人の力の車」を意味します。19世紀の日本で生まれ、アジア各地に広まりました。",
+    "etym_chain": [
+      { "node": "人力車", "sub": "人の力の車", "era": "日本語" },
+      { "node": "jinrikisha", "sub": "人力車", "era": "近代英語" },
+      { "node": "rickshaw", "sub": "人力車", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "ride a rickshaw", "ja": "人力車に乗る" },
+      { "en": "a rickshaw driver", "ja": "人力車の車夫" },
+      { "en": "a cycle rickshaw", "ja": "自転車式リキシャ" },
+      { "en": "an auto rickshaw", "ja": "オートリキシャ（三輪タクシー）" },
+      { "en": "pull a rickshaw", "ja": "人力車を引く" },
+      { "en": "hail a rickshaw", "ja": "人力車を呼び止める" }
+    ],
+    "related": [
+      { "en": "carriage", "ja": "馬車・客車" },
+      { "en": "cart", "ja": "荷車" },
+      { "en": "taxi", "ja": "タクシー" },
+      { "en": "pedicab", "ja": "自転車タクシー" }
+    ],
+    "faq": [
+      { "q": "rickshaw とはどんな意味？", "a": "人が引いて走る二輪の乗り物『人力車（リキシャ）』のことです。日本語の『人力車』が語源で、アジアの観光地などで今も見られます。" },
+      { "q": "rickshaw の語源は？", "a": "日本語の『人力車（じんりきしゃ）』です。jin（人）＋ riki（力）＋ sha（車）で『人の力の車』を意味し、jinrikisha が短くなって rickshaw となりました。" }
+    ],
+    "quiz": [
+      { "q": "They rode a ___ through the old town.（人力車）", "A": "rickshaw", "B": "rickets のくる病", "C": "ricochet の跳弾", "D": "riddle のなぞなぞ", "correct": "A" },
+      { "q": "rickshaw はどの言語が語源？", "A": "日本語（人力車）", "B": "中国語", "C": "ヒンディー語", "D": "韓国語", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ravioli",
+    "pron": "ˌræviˈoʊli",
+    "kana": "ラビオリ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "イタリア語 ravioli（詰め物パスタ）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "食べ物"],
+    "meaning_main": "ラビオリ（具を包んだ四角い詰め物パスタ）",
+    "description": "ravioli の意味・発音・例文・語源を解説。チーズや肉を薄い生地で包んだイタリアの詰め物パスタ「ラビオリ」を指す語の使い方を紹介します。",
+    "keywords": ["ravioli 意味", "ravioli 発音", "ravioli パスタ", "ravioli 料理"],
+    "meanings": [
+      { "hinshi": "【名詞】ラビオリ", "note": "チーズ・肉・野菜などの具を薄いパスタ生地で包んだ、ふつう四角い詰め物パスタ。複数扱いが基本。" }
+    ],
+    "usages": [
+      { "title": "① 料理名として", "desc": "具を包んだイタリアのパスタを指します。", "example_en": "We had cheese ravioli for dinner.", "example_ja": "私たちは夕食にチーズのラビオリを食べた。" },
+      { "title": "② 調理について", "desc": "ソースを添えて出します。", "example_en": "The ravioli was served with tomato sauce.", "example_ja": "そのラビオリはトマトソースで出された。" }
+    ],
+    "warn": [
+      "ravioli は『具を包んだ四角い詰め物パスタ』。イタリア語では複数形で、英語でも複数扱いが基本（単数は raviolo）。",
+      "似た詰め物パスタに tortellini（指輪形）, dumpling（一般の包み）がある。"
+    ],
+    "etym_note": "イタリア語 ravioli（raviolo の複数形）に由来します。語源には『かぶ（rava）の詰め物』や『包む』に関係する説があります。中世イタリアで生まれた詰め物パスタです。",
+    "etym_chain": [
+      { "node": "raviolo", "sub": "詰め物パスタ（単数）", "era": "イタリア語" },
+      { "node": "ravioli", "sub": "詰め物パスタ（複数）", "era": "イタリア語" },
+      { "node": "ravioli", "sub": "ラビオリ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "cheese ravioli", "ja": "チーズのラビオリ" },
+      { "en": "meat ravioli", "ja": "肉のラビオリ" },
+      { "en": "spinach ravioli", "ja": "ほうれん草のラビオリ" },
+      { "en": "homemade ravioli", "ja": "手作りラビオリ" },
+      { "en": "a plate of ravioli", "ja": "ラビオリ1皿" },
+      { "en": "boil the ravioli", "ja": "ラビオリをゆでる" }
+    ],
+    "related": [
+      { "en": "pasta", "ja": "パスタ" },
+      { "en": "tortellini", "ja": "トルテリーニ" },
+      { "en": "dumpling", "ja": "（具入りの）団子・包み" },
+      { "en": "gnocchi", "ja": "ニョッキ" }
+    ],
+    "faq": [
+      { "q": "ravioli とはどんな食べ物？", "a": "チーズ・肉・野菜などの具を薄いパスタ生地で包んだ、ふつう四角い詰め物パスタ『ラビオリ』のことです。ソースをかけて食べます。" },
+      { "q": "ravioli は単数？複数？", "a": "イタリア語では ravioli は複数形（単数は raviolo）で、英語でも複数扱いするのがふつうです。" }
+    ],
+    "quiz": [
+      { "q": "We had cheese ___ for dinner.（ラビオリ）", "A": "ravioli", "B": "ravine の峡谷", "C": "raven のカラス", "D": "ravage の破壊", "correct": "A" },
+      { "q": "ravioli はどこの料理？", "A": "イタリア", "B": "フランス", "C": "ギリシャ", "D": "スペイン", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ratatouille",
+    "pron": "ˌrætəˈtuːi",
+    "kana": "ラタトゥイユ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 ratatouille（煮込み）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "食べ物"],
+    "meaning_main": "ラタトゥイユ（南仏の野菜煮込み料理）",
+    "description": "ratatouille の意味・発音・例文・語源を解説。ナスやズッキーニ、トマトなどを煮込んだ南フランスの野菜料理「ラタトゥイユ」を指す語の使い方を紹介します。",
+    "keywords": ["ratatouille 意味", "ratatouille 発音", "ratatouille 料理", "ratatouille 野菜"],
+    "meanings": [
+      { "hinshi": "【名詞】ラタトゥイユ", "note": "ナス・ズッキーニ・パプリカ・トマト・玉ねぎなどをオリーブ油で煮込んだ南仏プロヴァンスの料理。" }
+    ],
+    "usages": [
+      { "title": "① 料理名として", "desc": "南仏の野菜煮込みを指します。", "example_en": "She made ratatouille with fresh summer vegetables.", "example_ja": "彼女は夏の新鮮な野菜でラタトゥイユを作った。" },
+      { "title": "② 付け合わせとして", "desc": "肉や魚の付け合わせにも使います。", "example_en": "The fish was served with a side of ratatouille.", "example_ja": "その魚はラタトゥイユを添えて出された。" }
+    ],
+    "warn": [
+      "ratatouille は『南仏プロヴァンスの野菜煮込み』。発音は『ラタトゥイユ（ˌrætəˈtuːi）』とつづりが難しい。",
+      "夏野菜をオリーブ油とハーブで煮込むのが特徴。"
+    ],
+    "etym_note": "フランス語 ratatouille（かき混ぜて煮込む料理）に由来し、touiller（かき混ぜる）と関係する語です。南フランス・プロヴァンス地方の家庭料理として知られます。",
+    "etym_chain": [
+      { "node": "touiller", "sub": "かき混ぜる", "era": "フランス語" },
+      { "node": "ratatouille", "sub": "野菜煮込み", "era": "フランス語" },
+      { "node": "ratatouille", "sub": "ラタトゥイユ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "make ratatouille", "ja": "ラタトゥイユを作る" },
+      { "en": "a bowl of ratatouille", "ja": "ラタトゥイユ1皿" },
+      { "en": "vegetable ratatouille", "ja": "野菜のラタトゥイユ" },
+      { "en": "serve with ratatouille", "ja": "ラタトゥイユを添えて出す" },
+      { "en": "Provençal ratatouille", "ja": "プロヴァンス風ラタトゥイユ" },
+      { "en": "stewed ratatouille", "ja": "煮込んだラタトゥイユ" }
+    ],
+    "related": [
+      { "en": "stew", "ja": "煮込み（料理）" },
+      { "en": "eggplant", "ja": "ナス" },
+      { "en": "zucchini", "ja": "ズッキーニ" },
+      { "en": "Provence", "ja": "プロヴァンス（南仏）" }
+    ],
+    "faq": [
+      { "q": "ratatouille とはどんな食べ物？", "a": "ナス・ズッキーニ・パプリカ・トマト・玉ねぎなどの夏野菜をオリーブ油とハーブで煮込んだ、南フランス・プロヴァンス地方の料理です。" },
+      { "q": "ratatouille の発音は？", "a": "『ラタトゥイユ（ˌrætəˈtuːi）』です。フランス語由来でつづりが難しいですが、最後の lle は『イユ』に近い音になります。" }
+    ],
+    "quiz": [
+      { "q": "She made ___ with fresh summer vegetables.（ラタトゥイユ）", "A": "ratatouille", "B": "rattlesnake のガラガラヘビ", "C": "ratio の比率", "D": "ration の配給", "correct": "A" },
+      { "q": "ratatouille はどこの料理？", "A": "南フランス", "B": "イタリア", "C": "メキシコ", "D": "インド", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rhinestone",
+    "pron": "ˈraɪnstoʊn",
+    "kana": "ラインストーン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "Rhine（ライン川）＋ stone（石）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "ファッション"],
+    "meaning_main": "ラインストーン（ダイヤに似せた模造宝石・装飾用ガラス）",
+    "description": "rhinestone の意味・発音・例文・語源を解説。ダイヤモンドに似せて衣装やアクセサリーに飾る模造宝石「ラインストーン」を指す語の使い方を紹介します。",
+    "keywords": ["rhinestone 意味", "rhinestone 発音", "rhinestone ラインストーン", "rhinestone 模造宝石"],
+    "meanings": [
+      { "hinshi": "【名詞】ラインストーン（模造宝石）", "note": "ダイヤモンドに似せてカットしたガラスや水晶の装飾用の石。衣装・アクセサリーを飾る。" }
+    ],
+    "usages": [
+      { "title": "① 装飾として", "desc": "衣装やアクセサリーを飾る石を指します。", "example_en": "Her dress sparkled with rhinestones.", "example_ja": "彼女のドレスはラインストーンで輝いていた。" },
+      { "title": "② 形容詞的に", "desc": "ラインストーン付きの物を表します。", "example_en": "She wore a rhinestone necklace.", "example_ja": "彼女はラインストーンのネックレスを着けていた。" }
+    ],
+    "warn": [
+      "rhinestone は『ダイヤに似せた模造宝石（装飾用ガラス）』。本物の宝石ではない。",
+      "発音は『ラインストーン（ˈraɪnstoʊn）』。rhino（サイ）とは無関係で、ライン川にちなむ名。"
+    ],
+    "etym_note": "ドイツの Rhine（ライン川）＋ stone（石）から来た語です。もとはライン川産の水晶を加工した模造ダイヤを指し、のちにガラス製の装飾石全般を表すようになりました。",
+    "etym_chain": [
+      { "node": "Rhine + stone", "sub": "ライン川＋石", "era": "近代英語" },
+      { "node": "rhinestone", "sub": "ライン川の石（模造ダイヤ）", "era": "近代英語" },
+      { "node": "rhinestone", "sub": "ラインストーン", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rhinestone necklace", "ja": "ラインストーンのネックレス" },
+      { "en": "studded with rhinestones", "ja": "ラインストーンをちりばめた" },
+      { "en": "sparkle with rhinestones", "ja": "ラインストーンで輝く" },
+      { "en": "a rhinestone tiara", "ja": "ラインストーンのティアラ" },
+      { "en": "fake rhinestones", "ja": "模造のラインストーン" },
+      { "en": "glittering rhinestones", "ja": "きらめくラインストーン" }
+    ],
+    "related": [
+      { "en": "diamond", "ja": "ダイヤモンド" },
+      { "en": "gem", "ja": "宝石" },
+      { "en": "crystal", "ja": "水晶・クリスタル" },
+      { "en": "sequin", "ja": "スパンコール" }
+    ],
+    "faq": [
+      { "q": "rhinestone とはどんな意味？", "a": "ダイヤモンドに似せてカットしたガラスや水晶の『模造宝石（ラインストーン）』のことです。衣装やアクセサリーを華やかに飾るのに使われます。" },
+      { "q": "rhinestone の語源は？", "a": "ドイツの Rhine（ライン川）＋ stone（石）です。もとはライン川産の水晶を加工した模造ダイヤを指しました。" }
+    ],
+    "quiz": [
+      { "q": "Her dress sparkled with ___s.（ラインストーン）", "A": "rhinestone", "B": "rhinoceros のサイ", "C": "rhythm のリズム", "D": "rhetoric の修辞", "correct": "A" },
+      { "q": "rhinestone とは何の模造品？", "A": "ダイヤモンド", "B": "金", "C": "真珠", "D": "翡翠", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rosewood",
+    "pron": "ˈroʊzwʊd",
+    "kana": "ロウズウッド",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rose（ばら）＋ wood（木材）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "素材"],
+    "meaning_main": "ローズウッド・紫檀（したん）（高級家具・楽器用の堅い木材）",
+    "description": "rosewood の意味・発音・例文・語源を解説。赤褐色で香りのよい高級木材「ローズウッド（紫檀）」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["rosewood 意味", "rosewood 発音", "rosewood 紫檀", "rosewood 木材"],
+    "meanings": [
+      { "hinshi": "【名詞】ローズウッド・紫檀", "note": "赤褐色で木目が美しく、ばらに似た香りをもつ堅い高級木材。家具・楽器・装飾に使う。" }
+    ],
+    "usages": [
+      { "title": "① 家具・楽器の素材として", "desc": "高級な堅い木材を指します。", "example_en": "The guitar has a beautiful rosewood fingerboard.", "example_ja": "そのギターは美しいローズウッドの指板をもつ。" },
+      { "title": "② 装飾品として", "desc": "高級感のある木材として使われます。", "example_en": "They bought an antique rosewood table.", "example_ja": "彼らは骨董のローズウッドのテーブルを買った。" }
+    ],
+    "warn": [
+      "rosewood は『赤褐色で香りのよい高級木材（紫檀）』。ばらの香りに似ることから名づけられた。",
+      "希少で乱伐が問題となり、取引が規制されている種もある。"
+    ],
+    "etym_note": "rose（ばら）＋ wood（木材）の複合語で、切ったときにばらに似た香りがすることから名づけられました。高級家具や楽器に珍重される木材です。",
+    "etym_chain": [
+      { "node": "rose + wood", "sub": "ばら＋木材", "era": "近代英語" },
+      { "node": "rosewood", "sub": "ばらの香りの木", "era": "近代英語" },
+      { "node": "rosewood", "sub": "ローズウッド・紫檀", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rosewood table", "ja": "ローズウッドのテーブル" },
+      { "en": "a rosewood guitar", "ja": "ローズウッドのギター" },
+      { "en": "polished rosewood", "ja": "磨かれた紫檀" },
+      { "en": "carved rosewood", "ja": "彫刻を施した紫檀" },
+      { "en": "dark rosewood", "ja": "濃い色のローズウッド" },
+      { "en": "a rosewood box", "ja": "紫檀の箱" }
+    ],
+    "related": [
+      { "en": "mahogany", "ja": "マホガニー" },
+      { "en": "teak", "ja": "チーク材" },
+      { "en": "ebony", "ja": "黒檀" },
+      { "en": "timber", "ja": "木材" }
+    ],
+    "faq": [
+      { "q": "rosewood とはどんな意味？", "a": "赤褐色で木目が美しく、ばらに似た香りをもつ堅い高級木材『ローズウッド（紫檀）』のことです。家具や楽器、装飾品に珍重されます。" },
+      { "q": "rosewood という名前の由来は？", "a": "木を切ったときに『ばら（rose）』に似た香りがすることから名づけられました。" }
+    ],
+    "quiz": [
+      { "q": "The guitar has a beautiful ___ fingerboard.（ローズウッド）", "A": "rosewood", "B": "redwood のセコイア", "C": "rosebud のばらのつぼみ", "D": "driftwood の流木", "correct": "A" },
+      { "q": "rosewood の名の由来はどれ？", "A": "ばらに似た香りがするから", "B": "ばら色だから", "C": "ばら園で育つから", "D": "とげがあるから", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rapier",
+    "pron": "ˈreɪpiər",
+    "kana": "レイピア",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 rapière（細身の剣）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "歴史・武器"],
+    "meaning_main": "レイピア（細身で先のとがった片手剣）／（比喩）鋭い・切れ味の鋭い",
+    "description": "rapier の意味・発音・例文・語源を解説。突きを主とする細身の片手剣「レイピア」と、rapier wit（鋭い機知）という比喩の使い方を紹介します。",
+    "keywords": ["rapier 意味", "rapier 発音", "rapier 剣", "rapier wit 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】レイピア（細身の片手剣）", "note": "突きを主とする、細長く先のとがった剣。16〜17世紀ヨーロッパで決闘などに使われた。" },
+      { "hinshi": "【形容詞的】鋭い・切れ味の鋭い", "note": "rapier wit（鋭く機知に富んだ機転）のように比喩で使う。" }
+    ],
+    "usages": [
+      { "title": "① 武器として", "desc": "細身で突きに使う剣を指します。", "example_en": "The duelist drew his rapier.", "example_ja": "決闘者はレイピアを抜いた。" },
+      { "title": "② rapier wit として", "desc": "「鋭い機知」を表す比喩です。", "example_en": "She is known for her rapier wit.", "example_ja": "彼女は鋭い機知で知られている。" }
+    ],
+    "warn": [
+      "rapier は『突き用の細身の剣』。幅広で切る剣 broadsword とは違う。",
+      "rapier wit（鋭い機知・当意即妙の切れ味）は頻出の比喩表現。"
+    ],
+    "etym_note": "フランス語 rapière（細身の剣）に由来し、16世紀に英語に入りました。優美で鋭い剣のイメージから、「鋭い機知（rapier wit）」という比喩にも使われます。",
+    "etym_chain": [
+      { "node": "rapière", "sub": "細身の剣", "era": "フランス語" },
+      { "node": "rapier", "sub": "レイピア", "era": "近代英語" },
+      { "node": "rapier", "sub": "レイピア・鋭い", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "draw a rapier", "ja": "レイピアを抜く" },
+      { "en": "rapier wit", "ja": "鋭い機知" },
+      { "en": "a thin rapier", "ja": "細身のレイピア" },
+      { "en": "fence with a rapier", "ja": "レイピアで剣を交える" },
+      { "en": "a rapier thrust", "ja": "レイピアの突き" },
+      { "en": "rapier-sharp", "ja": "切れ味鋭い" }
+    ],
+    "related": [
+      { "en": "sword", "ja": "剣" },
+      { "en": "foil", "ja": "フルーレ（フェンシングの剣）" },
+      { "en": "blade", "ja": "刃" },
+      { "en": "duel", "ja": "決闘" }
+    ],
+    "faq": [
+      { "q": "rapier とはどんな意味？", "a": "突きを主とする、細長く先のとがった片手剣『レイピア』のことです。16〜17世紀ヨーロッパで決闘などに使われました。rapier wit（鋭い機知）という比喩でも使われます。" },
+      { "q": "rapier wit とは？", "a": "『鋭く切れ味のある機知・当意即妙の機転』を表す比喩表現です。レイピアの鋭さになぞらえた言い方です。" }
+    ],
+    "quiz": [
+      { "q": "She is known for her ___ wit.（鋭い）", "A": "rapier", "B": "rapid の速い", "C": "raptor の猛禽", "D": "rapport の信頼関係", "correct": "A" },
+      { "q": "rapier はどんな剣？", "A": "突き用の細身の剣", "B": "幅広で重い剣", "C": "曲がった刀", "D": "両刃の短剣", "correct": "A" }
+    ]
+  },
+  {
+    "english": "riser",
+    "pron": "ˈraɪzər",
+    "kana": "ライザー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rise（上がる）＋ -er",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "建築・日常"],
+    "meaning_main": "（階段の）蹴上げ（垂直部分）／起きる人（early riser で早起きの人）",
+    "description": "riser の意味・発音・例文・語源を解説。階段の段の垂直部分「蹴上げ」や、early riser（早起きの人）という使い方を分かりやすく紹介します。",
+    "keywords": ["riser 意味", "riser 発音", "riser 蹴上げ", "early riser 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】（階段の）蹴上げ（垂直の部分）", "note": "階段で足をのせる踏み板（tread）の間の垂直の面。" },
+      { "hinshi": "【名詞】起きる人", "note": "early riser（早起きの人）、late riser（朝寝坊）の形でよく使う。" },
+      { "hinshi": "【名詞】（舞台などの）一段高い台", "note": "合唱団などを並べるひな壇状の台。" }
+    ],
+    "usages": [
+      { "title": "① 「階段の蹴上げ」として", "desc": "段の垂直部分を指します。", "example_en": "Each stair has a tread and a riser.", "example_ja": "各段には踏み板と蹴上げがある。" },
+      { "title": "② early riser として", "desc": "「早起きの人」を表します。", "example_en": "She is an early riser and jogs at dawn.", "example_ja": "彼女は早起きで、夜明けにジョギングする。" }
+    ],
+    "warn": [
+      "riser は文脈で『階段の蹴上げ』『起きる人』『ひな壇の台』と意味が変わる。",
+      "early riser（早起きの人）⇔ late riser（朝寝坊）が日常で頻出。"
+    ],
+    "etym_note": "動詞 rise（上がる・起きる）に「〜するもの・人」の -er が付いた語です。rise は古英語 rīsan（立ち上がる）に由来し、「上がる部分」「起きる人」など複数の意味に広がりました。",
+    "etym_chain": [
+      { "node": "rīsan", "sub": "立ち上がる", "era": "古英語" },
+      { "node": "rise", "sub": "上がる・起きる", "era": "中英語" },
+      { "node": "riser", "sub": "蹴上げ・起きる人", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an early riser", "ja": "早起きの人" },
+      { "en": "a late riser", "ja": "朝寝坊" },
+      { "en": "stair riser", "ja": "階段の蹴上げ" },
+      { "en": "tread and riser", "ja": "踏み板と蹴上げ" },
+      { "en": "choir risers", "ja": "合唱団用のひな壇" },
+      { "en": "a high riser", "ja": "高い蹴上げ" }
+    ],
+    "related": [
+      { "en": "rise", "ja": "上がる・起きる" },
+      { "en": "tread", "ja": "（階段の）踏み板" },
+      { "en": "step", "ja": "段" },
+      { "en": "platform", "ja": "台・壇" }
+    ],
+    "faq": [
+      { "q": "riser とはどんな意味？", "a": "階段で踏み板（tread）の間にある垂直の面『蹴上げ』を指すほか、early riser（早起きの人）のように『起きる人』、舞台の『ひな壇状の台』も指します。" },
+      { "q": "early riser とは？", "a": "『朝早く起きる人・早起きの人』のことです。反対は late riser（朝寝坊）です。" }
+    ],
+    "quiz": [
+      { "q": "She is an early ___ and jogs at dawn.（早起きの人）", "A": "riser", "B": "rider の乗り手", "C": "ruler の定規", "D": "racer の走者", "correct": "A" },
+      { "q": "階段の riser が指すのはどこ？", "A": "段の垂直の面（蹴上げ）", "B": "段の水平の面（踏み板）", "C": "手すり", "D": "踊り場", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rasher",
+    "pron": "ˈræʃər",
+    "kana": "ラッシャー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "由来不明（16世紀の英語）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "食べ物"],
+    "meaning_main": "（ベーコンなどの）薄切り1枚",
+    "description": "rasher の意味・発音・例文・語源を解説。ベーコンやハムの「薄切り1枚」を指す、主にイギリスで使う語の使い方を分かりやすく紹介します。",
+    "keywords": ["rasher 意味", "rasher 発音", "rasher ベーコン", "rasher 薄切り"],
+    "meanings": [
+      { "hinshi": "【名詞】（ベーコンなどの）薄切り1枚", "note": "焼いて食べるベーコンやハムの薄いひと切れ。主にイギリス英語。a rasher of bacon。" }
+    ],
+    "usages": [
+      { "title": "① ベーコンの薄切りとして", "desc": "ベーコンのひと切れを指します。", "example_en": "He had two rashers of bacon for breakfast.", "example_ja": "彼は朝食にベーコンを2枚食べた。" },
+      { "title": "② 量を数えて", "desc": "薄切りの枚数を表します。", "example_en": "Fry a few rashers until crispy.", "example_ja": "薄切りを数枚、カリッとするまで焼きなさい。" }
+    ],
+    "warn": [
+      "rasher は『ベーコン（ハム）の薄切り1枚』。主にイギリス英語で、a rasher of bacon の形が定番。",
+      "アメリカでは a slice of bacon / a strip of bacon のほうが一般的。"
+    ],
+    "etym_note": "16世紀の英語に現れた語で、語源ははっきりしません（『素早く焼く rash』との関連説などがある）。ベーコンなどの薄切りを数える語として使われてきました。",
+    "etym_chain": [
+      { "node": "rasher", "sub": "薄切り", "era": "近代英語" },
+      { "node": "rasher", "sub": "薄切り1枚", "era": "近代英語" },
+      { "node": "rasher", "sub": "ベーコンの薄切り", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rasher of bacon", "ja": "ベーコン1枚" },
+      { "en": "two rashers", "ja": "薄切り2枚" },
+      { "en": "fry the rashers", "ja": "薄切りを焼く" },
+      { "en": "crispy rashers", "ja": "カリカリの薄切り" },
+      { "en": "a few rashers", "ja": "薄切り数枚" },
+      { "en": "back bacon rashers", "ja": "ロースベーコンの薄切り" }
+    ],
+    "related": [
+      { "en": "bacon", "ja": "ベーコン" },
+      { "en": "slice", "ja": "薄切り1枚" },
+      { "en": "strip", "ja": "細長い一切れ" },
+      { "en": "ham", "ja": "ハム" }
+    ],
+    "faq": [
+      { "q": "rasher とはどんな意味？", "a": "焼いて食べるベーコンやハムの『薄切り1枚』のことです。主にイギリス英語で、a rasher of bacon（ベーコン1枚）のように使います。" },
+      { "q": "rasher と slice の違いは？", "a": "どちらも『薄切り』ですが、rasher は特にベーコン・ハムに使うイギリス英語、slice は一般的に多くの食品の『一切れ』に使えます。" }
+    ],
+    "quiz": [
+      { "q": "He had two ___s of bacon for breakfast.（薄切り）", "A": "rasher", "B": "rascal の悪がき", "C": "razor のかみそり", "D": "rapier のレイピア", "correct": "A" },
+      { "q": "a rasher of bacon の意味はどれ？", "A": "ベーコンの薄切り1枚", "B": "ベーコン1パック", "C": "ベーコンの塊", "D": "ベーコンの脂身", "correct": "A" }
+    ]
+  }
+]

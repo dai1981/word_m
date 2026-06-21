@@ -1,0 +1,528 @@
+[
+  {
+    "english": "ratify",
+    "pron": "ˈrætɪfaɪ",
+    "kana": "ラティファイ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 ratificare（正式に認める）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "社会"],
+    "meaning_main": "（条約・協定を）正式に承認する・批准する",
+    "description": "ratify の意味・発音・例文・語源を解説。条約や協定を国家が「批准する」という使い方や、名詞 ratification も分かりやすく紹介します。",
+    "keywords": ["ratify 意味", "ratify 発音", "ratify 批准", "ratification 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（条約・協定を）正式に承認する・批准する", "note": "署名した文書を正式な手続きで認める。ratify a treaty（条約を批准する）。" }
+    ],
+    "usages": [
+      { "title": "① 「批准する・正式承認する」として", "desc": "条約や協定を正式に認める意味です。", "example_en": "The two countries ratified the trade agreement.", "example_ja": "両国はその貿易協定を批准した。" },
+      { "title": "② 議会の手続きとして", "desc": "議会が正式に承認することを表します。", "example_en": "The treaty was ratified by parliament.", "example_ja": "その条約は議会で批准された。" }
+    ],
+    "warn": [
+      "ratify は『（すでに署名した条約などを）正式な手続きで承認する』。sign（署名する）の次の段階。",
+      "名詞は ratification（批准）。ratio・rate と同じ rat-（計算・正式）の語源。"
+    ],
+    "etym_note": "ラテン語 ratificare（ratus「正式の・確定した」＋ facere「する」＝正式なものにする）に由来します。ratio・rational と同じ語源で、「正式に確定させる」が原義です。",
+    "etym_chain": [
+      { "node": "ratus", "sub": "正式の・確定した", "era": "ラテン語" },
+      { "node": "ratificare", "sub": "正式に認める", "era": "後期ラテン語" },
+      { "node": "ratify", "sub": "批准する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "ratify a treaty", "ja": "条約を批准する" },
+      { "en": "ratify an agreement", "ja": "協定を承認する" },
+      { "en": "be ratified by", "ja": "〜に批准される" },
+      { "en": "ratify a constitution", "ja": "憲法を承認する" },
+      { "en": "formally ratify", "ja": "正式に批准する" },
+      { "en": "ratification", "ja": "批准" }
+    ],
+    "related": [
+      { "en": "ratification", "ja": "批准（名詞）" },
+      { "en": "approve", "ja": "承認する" },
+      { "en": "confirm", "ja": "確認する" },
+      { "en": "reject", "ja": "否決する（反対語）" }
+    ],
+    "faq": [
+      { "q": "ratify と sign の違いは？", "a": "sign は『（条約に）署名する』、ratify は『（署名後に）正式な手続きで承認・批准する』です。批准が最終的な承認の段階です。" },
+      { "q": "ratify の名詞形は？", "a": "ratification（批准）です。" }
+    ],
+    "quiz": [
+      { "q": "The two countries ___ the trade agreement.（批准した）", "A": "ratified", "B": "reduced", "C": "removed", "D": "refused", "correct": "A" },
+      { "q": "ratify の名詞形はどれ？", "A": "ratification", "B": "ratifiment", "C": "ratifyance", "D": "ratifition", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rapture",
+    "pron": "ˈræptʃər",
+    "kana": "ラプチャー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 raptus（さらわれること）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "感情"],
+    "meaning_main": "歓喜・有頂天・恍惚",
+    "description": "rapture の意味・発音・例文・語源を解説。「我を忘れるほどの大喜び」の使い方や、in raptures（夢中になって）も分かりやすく紹介します。",
+    "keywords": ["rapture 意味", "rapture 発音", "in raptures 意味", "rapture 歓喜"],
+    "meanings": [
+      { "hinshi": "【名詞】歓喜・有頂天・恍惚", "note": "我を忘れるほどの大きな喜び。with rapture（恍惚として）。" }
+    ],
+    "usages": [
+      { "title": "① 「歓喜・有頂天」として", "desc": "我を忘れるほどの喜びを表します。", "example_en": "She listened to the music with rapture.", "example_ja": "彼女はうっとりとその音楽を聞いた。" },
+      { "title": "② in raptures として", "desc": "「夢中になって・大喜びで」を表します。", "example_en": "The fans were in raptures over the performance.", "example_ja": "ファンはその演奏に夢中になった。" }
+    ],
+    "warn": [
+      "rapture は『（我を忘れるほどの）恍惚・歓喜』という強い喜び。文語的。",
+      "be in raptures (about / over) は『〜に夢中になる・大喜びする』。rupture（破裂）と混同しない。"
+    ],
+    "etym_note": "ラテン語 raptus（rapere「奪い去る」の過去分詞＝さらわれること）に由来します。「心が（喜びに）さらわれた状態＝恍惚」が原義です。rapid・rapt と同じ語源です。",
+    "etym_chain": [
+      { "node": "rapere", "sub": "奪い去る", "era": "ラテン語" },
+      { "node": "raptus", "sub": "さらわれること", "era": "ラテン語" },
+      { "node": "rapture", "sub": "歓喜・恍惚", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "in raptures", "ja": "夢中になって・大喜びで" },
+      { "en": "with rapture", "ja": "恍惚として" },
+      { "en": "sheer rapture", "ja": "純然たる歓喜" },
+      { "en": "go into raptures", "ja": "有頂天になる" },
+      { "en": "a moment of rapture", "ja": "歓喜の瞬間" },
+      { "en": "rapturous applause", "ja": "熱狂的な拍手（rapturous）" }
+    ],
+    "related": [
+      { "en": "ecstasy", "ja": "恍惚・有頂天" },
+      { "en": "delight", "ja": "大喜び" },
+      { "en": "bliss", "ja": "至福" },
+      { "en": "misery", "ja": "惨めさ（反対語）" }
+    ],
+    "faq": [
+      { "q": "rapture と rupture の違いは？", "a": "rapture は『歓喜・恍惚』、rupture は『破裂・断裂』です。つづり・発音が似ているので注意しましょう。" },
+      { "q": "in raptures とは？", "a": "『（〜に）夢中になって・大喜びして』という意味です。be in raptures over the news（その知らせに大喜びする）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "She listened to the music with ___.（うっとりと）", "A": "rapture", "B": "rupture の破裂", "C": "capture の捕獲", "D": "lecture", "correct": "A" },
+      { "q": "「夢中になって・大喜びで」を表すのはどれ？", "A": "in raptures", "B": "in ruptures", "C": "in captures", "D": "in lectures", "correct": "A" }
+    ]
+  },
+  {
+    "english": "regiment",
+    "pron": "ˈredʒɪmənt",
+    "kana": "レジメント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 regimentum（統治・指揮）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "社会"],
+    "meaning_main": "（軍隊の）連隊／（比喩）大勢の集団",
+    "description": "regiment の意味・発音・例文・語源を解説。軍隊の「連隊」の使い方や、reign・regime と同じ語源（治める）も分かりやすく紹介します。",
+    "keywords": ["regiment 意味", "regiment 発音", "regiment 連隊", "regiment 語源"],
+    "meanings": [
+      { "hinshi": "【名詞】（軍隊の）連隊", "note": "数個の大隊からなる軍の単位。an infantry regiment（歩兵連隊）。" },
+      { "hinshi": "【名詞】（比喩）大勢・一団", "note": "a regiment of volunteers（大勢のボランティア）。" }
+    ],
+    "usages": [
+      { "title": "① 軍の「連隊」として", "desc": "軍隊の組織単位を表します。", "example_en": "He served in an infantry regiment.", "example_ja": "彼は歩兵連隊に所属していた。" },
+      { "title": "② 比喩「大勢」として", "desc": "規律ある大集団を表します。", "example_en": "A whole regiment of helpers arrived.", "example_ja": "大勢の手伝いが到着した。" }
+    ],
+    "warn": [
+      "動詞 regiment は『（厳しく）統制する・規律で縛る』。形容詞 regimented は『きっちり統制された』。",
+      "reign・regime・regular と同じ reg-（治める）の語源。"
+    ],
+    "etym_note": "ラテン語 regimentum（統治・指揮。regere「治める」から）に由来します。reign・regime・regular と同じ reg-（治める）の語根で、「指揮される軍の単位」が原義です。",
+    "etym_chain": [
+      { "node": "regere", "sub": "治める", "era": "ラテン語" },
+      { "node": "regimentum", "sub": "統治・指揮", "era": "ラテン語" },
+      { "node": "regiment", "sub": "連隊", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an infantry regiment", "ja": "歩兵連隊" },
+      { "en": "join a regiment", "ja": "連隊に入る" },
+      { "en": "a cavalry regiment", "ja": "騎兵連隊" },
+      { "en": "a whole regiment of", "ja": "大勢の〜" },
+      { "en": "command a regiment", "ja": "連隊を指揮する" },
+      { "en": "a regimented life", "ja": "規律ずくめの生活" }
+    ],
+    "related": [
+      { "en": "army", "ja": "軍隊" },
+      { "en": "battalion", "ja": "大隊" },
+      { "en": "troops", "ja": "部隊" },
+      { "en": "regime", "ja": "体制（同語源）" }
+    ],
+    "faq": [
+      { "q": "regiment とは？", "a": "軍隊の組織単位『連隊』のことです。数個の大隊からなります。比喩で『大勢の集団』も表します。" },
+      { "q": "regimented の意味は？", "a": "『きっちり統制された・規律ずくめの』という意味の形容詞です。a regimented routine（型にはまった日課）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "He served in an infantry ___.（連隊）", "A": "regiment", "B": "regime の体制", "C": "region", "D": "register", "correct": "A" },
+      { "q": "regiment と同じ語源（治める）の語はどれ？", "A": "reign", "B": "river", "C": "ribbon", "D": "ripple", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reinstate",
+    "pron": "ˌriːɪnˈsteɪt",
+    "kana": "リーインステイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ instate（地位につける）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "（地位・制度を）元に戻す・復職させる・復活させる",
+    "description": "reinstate の意味・発音・例文・語源を解説。解雇された人を「復職させる」、廃止された制度を「復活させる」使い方を分かりやすく紹介します。",
+    "keywords": ["reinstate 意味", "reinstate 発音", "reinstate 復職", "reinstatement 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（人を）復職させる・元の地位に戻す", "note": "解雇・降格された人を元に戻す。" },
+      { "hinshi": "【動詞】（制度・規則を）復活させる", "note": "reinstate a law（法律を復活させる）。" }
+    ],
+    "usages": [
+      { "title": "① 「復職させる」として", "desc": "解雇された人を元の地位に戻す意味です。", "example_en": "The worker was reinstated after the appeal.", "example_ja": "その労働者は不服申し立てのあと復職した。" },
+      { "title": "② 「制度を復活させる」として", "desc": "廃止された規則などを元に戻す意味です。", "example_en": "The school reinstated the old rule.", "example_ja": "学校は古い規則を復活させた。" }
+    ],
+    "warn": [
+      "re-（再び）＋ instate（地位につける）＝『再び元の地位・状態に戻す』。",
+      "名詞は reinstatement（復職・復活）。"
+    ],
+    "etym_note": "接頭辞 re-（再び）と instate（in-「中に」＋ state「地位」＝地位につける）を組み合わせた語で、「再び元の地位・状態に戻す」が原義です。state（状態・地位）と同じ語源です。",
+    "etym_chain": [
+      { "node": "state", "sub": "状態・地位", "era": "ラテン語系" },
+      { "node": "instate", "sub": "地位につける", "era": "近代英語" },
+      { "node": "reinstate", "sub": "元に戻す・復職させる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reinstate a worker", "ja": "労働者を復職させる" },
+      { "en": "be reinstated", "ja": "復職する・復活する" },
+      { "en": "reinstate a rule", "ja": "規則を復活させる" },
+      { "en": "reinstate a ban", "ja": "禁止を復活させる" },
+      { "en": "reinstate someone to", "ja": "〜（の地位）に復帰させる" },
+      { "en": "reinstatement", "ja": "復職・復活" }
+    ],
+    "related": [
+      { "en": "restore", "ja": "元に戻す" },
+      { "en": "reinstatement", "ja": "復職（名詞）" },
+      { "en": "reappoint", "ja": "再任する" },
+      { "en": "dismiss", "ja": "解雇する（反対語）" }
+    ],
+    "faq": [
+      { "q": "reinstate の二つの使い方は？", "a": "①解雇・降格された人を『復職させる・元の地位に戻す』と、②廃止された制度・規則を『復活させる』です。" },
+      { "q": "reinstate の名詞形は？", "a": "reinstatement（復職・復活）です。" }
+    ],
+    "quiz": [
+      { "q": "The worker was ___ after the appeal.（復職した）", "A": "reinstated", "B": "reinforced", "C": "reproduced", "D": "reconsidered", "correct": "A" },
+      { "q": "reinstate は instate に何がついた語？", "A": "re-（再び）", "B": "un-（否定）", "C": "dis-（否定）", "D": "mis-（誤り）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rendezvous",
+    "pron": "ˈrɑːndeɪvuː",
+    "kana": "ランデブー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 rendez-vous（あなた自身を集めよ）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "もの"],
+    "meaning_main": "（約束の）会合・待ち合わせ／待ち合わせ場所",
+    "description": "rendezvous の意味・発音・例文・語源を解説。フランス語由来の「待ち合わせ・会合」の使い方や、独特な発音・つづりも分かりやすく紹介します。",
+    "keywords": ["rendezvous 意味", "rendezvous 発音", "rendezvous 待ち合わせ", "rendezvous つづり"],
+    "meanings": [
+      { "hinshi": "【名詞】（約束の）会合・待ち合わせ", "note": "前もって決めた集まり。a secret rendezvous（秘密の会合）。" },
+      { "hinshi": "【名詞】待ち合わせ場所・たまり場", "note": "人が集まる決まった場所。" }
+    ],
+    "usages": [
+      { "title": "① 「待ち合わせ・会合」として", "desc": "前もって決めた集まりを表します。", "example_en": "They arranged a rendezvous at the station.", "example_ja": "彼らは駅での待ち合わせを取り決めた。" },
+      { "title": "② 「待ち合わせ場所」として", "desc": "人が集まる決まった場所を表します。", "example_en": "The cafe is a popular rendezvous for artists.", "example_ja": "そのカフェは芸術家たちの人気のたまり場だ。" }
+    ],
+    "warn": [
+      "フランス語由来で発音・つづりが独特：/ˈrɑːndeɪvuː/「ランデブー」、語尾の -vous は『ブー』。",
+      "単複同形（複数も rendezvous、発音は語尾を『ブーズ』に）。宇宙船の『ランデブー（接近・ドッキング）』もこの語。"
+    ],
+    "etym_note": "フランス語 rendez-vous（『あなた自身を（ある場所に）集めよ』という命令文）に由来します。そのまま名詞として『待ち合わせ』の意味になりました。",
+    "etym_chain": [
+      { "node": "rendez-vous", "sub": "集まれ（命令文）", "era": "フランス語" },
+      { "node": "rendezvous", "sub": "会合・待ち合わせ", "era": "近代英語" },
+      { "node": "rendezvous", "sub": "会合・待ち合わせ場所", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "arrange a rendezvous", "ja": "待ち合わせを取り決める" },
+      { "en": "a secret rendezvous", "ja": "秘密の会合" },
+      { "en": "a rendezvous point", "ja": "集合地点" },
+      { "en": "keep a rendezvous", "ja": "約束の会合を守る" },
+      { "en": "a popular rendezvous", "ja": "人気のたまり場" },
+      { "en": "a space rendezvous", "ja": "宇宙でのランデブー" }
+    ],
+    "related": [
+      { "en": "meeting", "ja": "会合" },
+      { "en": "appointment", "ja": "約束" },
+      { "en": "gathering", "ja": "集まり" },
+      { "en": "venue", "ja": "会場" }
+    ],
+    "faq": [
+      { "q": "rendezvous の発音は？", "a": "/ˈrɑːndeɪvuː/「ランデブー」です。フランス語由来で、語尾の -vous は『ブー』と読み、s は発音しません。" },
+      { "q": "rendezvous の複数形は？", "a": "つづりは同じ rendezvous ですが、複数では語尾を『ブーズ』と発音します。" }
+    ],
+    "quiz": [
+      { "q": "They arranged a ___ at the station.（待ち合わせ）", "A": "rendezvous", "B": "reservoir", "C": "referendum", "D": "reception", "correct": "A" },
+      { "q": "rendezvous はどの言語に由来する？", "A": "フランス語", "B": "ドイツ語", "C": "ラテン語のみ", "D": "ギリシャ語", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rife",
+    "pron": "raɪf",
+    "kana": "ライフ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "古英語 rīfe（豊富な・広まった）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "形容詞"],
+    "meaning_main": "（悪いものが）はびこって・蔓延して／（rife with）〜だらけで",
+    "description": "rife の意味・発音・例文・語源を解説。うわさや病気が「はびこって」、rife with（〜だらけで）という使い方を分かりやすく紹介します。",
+    "keywords": ["rife 意味", "rife 発音", "rife with 使い方", "rife 蔓延"],
+    "meanings": [
+      { "hinshi": "【形容詞】（悪いものが）はびこって・蔓延して", "note": "叙述用法（be rife）。Rumors were rife.（うわさが飛び交っていた）。" },
+      { "hinshi": "【形容詞】(rife with) 〜だらけで・〜に満ちて", "note": "rife with errors（誤りだらけ）。" }
+    ],
+    "usages": [
+      { "title": "① 「はびこって・蔓延して」として", "desc": "悪いものが広がっている様子を表します。", "example_en": "Corruption was rife in the city.", "example_ja": "その都市では汚職がはびこっていた。" },
+      { "title": "② rife with（〜だらけで）として", "desc": "悪いものに満ちている様子を表します。", "example_en": "The report was rife with errors.", "example_ja": "その報告書は誤りだらけだった。" }
+    ],
+    "warn": [
+      "rife は叙述用法（be rife）で使い、名詞の前には置きにくい。ふつう悪いものに使う。",
+      "rife /raɪf/ と life（命）/laɪf/ は語頭の子音が違う。"
+    ],
+    "etym_note": "古英語 rīfe（豊富な・広まった）に由来する古いゲルマン系の語です。もとは中立的に『豊富な』でしたが、現代ではおもに悪いものが『はびこって』の意味で使います。",
+    "etym_chain": [
+      { "node": "rīfe", "sub": "豊富な・広まった", "era": "古英語" },
+      { "node": "rife", "sub": "広まった", "era": "中英語" },
+      { "node": "rife", "sub": "はびこって・〜だらけで", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be rife", "ja": "はびこっている" },
+      { "en": "rife with", "ja": "〜だらけで・〜に満ちて" },
+      { "en": "rumors are rife", "ja": "うわさが飛び交っている" },
+      { "en": "rife with errors", "ja": "誤りだらけ" },
+      { "en": "rife with corruption", "ja": "汚職まみれ" },
+      { "en": "become rife", "ja": "はびこるようになる" }
+    ],
+    "related": [
+      { "en": "rampant", "ja": "はびこる" },
+      { "en": "widespread", "ja": "広まった" },
+      { "en": "prevalent", "ja": "流行している" },
+      { "en": "full of", "ja": "〜でいっぱいの" }
+    ],
+    "faq": [
+      { "q": "rife with とは？", "a": "『〜だらけで・〜に満ちて』という意味です。ふつう悪いもの（errors, problems, rumors など）に使います。" },
+      { "q": "rife と rampant の違いは？", "a": "意味は近く、どちらも『はびこる』です。rife は be rife（叙述）/ rife with の形で、rampant は名詞の前にも置けます。" }
+    ],
+    "quiz": [
+      { "q": "Corruption was ___ in the city.（はびこっていた）", "A": "rife", "B": "life", "C": "ripe", "D": "rich", "correct": "A" },
+      { "q": "「誤りだらけ」を表すのはどれ？", "A": "rife with errors", "B": "ripe with errors", "C": "rich with errors", "D": "rife of errors の標準でない", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rind",
+    "pron": "raɪnd",
+    "kana": "ラインド",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 rinde（樹皮・外皮）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "食べ物"],
+    "meaning_main": "（果物・チーズなどの）固い外皮",
+    "description": "rind の意味・発音・例文・語源を解説。レモンやチーズ、ベーコンなどの「固い外皮」の使い方や、peel・skin との違いも分かりやすく紹介します。",
+    "keywords": ["rind 意味", "rind 発音", "lemon rind 意味", "rind peel skin 違い"],
+    "meanings": [
+      { "hinshi": "【名詞】（果物・チーズ・ベーコンの）固い外皮", "note": "厚くて固い皮。lemon rind（レモンの皮）、cheese rind（チーズの外皮）。" }
+    ],
+    "usages": [
+      { "title": "① 「固い外皮」として", "desc": "果物やチーズの厚い皮を表します。", "example_en": "Grate some lemon rind into the cake.", "example_ja": "レモンの皮をすりおろしてケーキに入れて。" },
+      { "title": "② 食材の話題で", "desc": "チーズやベーコンの外皮を表します。", "example_en": "Cut off the rind before eating the cheese.", "example_ja": "チーズを食べる前に外皮を切り落としなさい。" }
+    ],
+    "warn": [
+      "rind は『厚くて固い外皮』（レモン・メロン・チーズ・ベーコン）。peel は『（むいた）皮』、skin は『（薄い）皮』（りんご・桃など）。",
+      "発音は /raɪnd/「ラインド」。"
+    ],
+    "etym_note": "古英語 rinde（樹皮・外皮）に由来する古いゲルマン系の語です。もとは『木の皮』で、そこから果物やチーズの『固い外皮』を表すようになりました。",
+    "etym_chain": [
+      { "node": "rinde", "sub": "樹皮・外皮", "era": "古英語" },
+      { "node": "rind", "sub": "外皮", "era": "中英語" },
+      { "node": "rind", "sub": "固い外皮", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "lemon rind", "ja": "レモンの皮" },
+      { "en": "cheese rind", "ja": "チーズの外皮" },
+      { "en": "bacon rind", "ja": "ベーコンの皮" },
+      { "en": "grate the rind", "ja": "皮をすりおろす" },
+      { "en": "cut off the rind", "ja": "外皮を切り落とす" },
+      { "en": "the rind of a melon", "ja": "メロンの外皮" }
+    ],
+    "related": [
+      { "en": "peel", "ja": "皮（むいた）" },
+      { "en": "skin", "ja": "（薄い）皮" },
+      { "en": "bark", "ja": "樹皮" },
+      { "en": "crust", "ja": "外皮・パンの耳" }
+    ],
+    "faq": [
+      { "q": "rind と peel と skin の違いは？", "a": "rind は『厚くて固い外皮』（レモン・チーズ・ベーコン）、peel は『（むいた）果物の皮』、skin は『（薄い）皮』（りんご・桃）です。" },
+      { "q": "lemon rind とは？", "a": "『レモンの（黄色い固い）皮』のことです。すりおろして料理やお菓子の香りづけに使います。" }
+    ],
+    "quiz": [
+      { "q": "Grate some lemon ___ into the cake.（皮）", "A": "rind", "B": "rim", "C": "rib", "D": "rid", "correct": "A" },
+      { "q": "厚くて固い『外皮』を表すのはどれ？", "A": "rind", "B": "skin", "C": "hair", "D": "bone", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rummage",
+    "pron": "ˈrʌmɪdʒ",
+    "kana": "ラミッジ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古フランス語 arrumage（船倉の積み込み）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "（探して）かき回す・引っかき回して探す",
+    "description": "rummage の意味・発音・例文・語源を解説。引き出しなどを「かき回して探す」使い方や、rummage through、a rummage sale も分かりやすく紹介します。",
+    "keywords": ["rummage 意味", "rummage 発音", "rummage through 使い方", "rummage sale 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（探して）かき回す・引っかき回して探す", "note": "rummage through a drawer（引き出しをかき回して探す）。" }
+    ],
+    "usages": [
+      { "title": "① 「かき回して探す」として", "desc": "あちこち引っかき回して探す意味です。", "example_en": "She rummaged through her bag for her keys.", "example_ja": "彼女はかぎを探してかばんの中をかき回した。" },
+      { "title": "② rummage around として", "desc": "「あちこち探し回る」を表します。", "example_en": "He rummaged around in the attic.", "example_ja": "彼は屋根裏をあちこち探し回った。" }
+    ],
+    "warn": [
+      "「〜をかき回して探す」は rummage through / in。",
+      "a rummage sale は『（慈善目的の）ガラクタ市・不用品バザー』。"
+    ],
+    "etym_note": "古フランス語 arrumage（船倉に荷を積み込むこと）に由来します。もとは『船倉を整理する・探す』ことで、そこから『かき回して探す』になりました。",
+    "etym_chain": [
+      { "node": "arrumage", "sub": "船倉の積み込み", "era": "古フランス語" },
+      { "node": "rummage", "sub": "船倉を探す", "era": "近代英語" },
+      { "node": "rummage", "sub": "かき回して探す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rummage through", "ja": "〜をかき回して探す" },
+      { "en": "rummage around", "ja": "あちこち探し回る" },
+      { "en": "rummage in a drawer", "ja": "引き出しをかき回す" },
+      { "en": "rummage for", "ja": "〜を探してかき回す" },
+      { "en": "a rummage sale", "ja": "不用品バザー" },
+      { "en": "rummage through papers", "ja": "書類をかき回して探す" }
+    ],
+    "related": [
+      { "en": "search", "ja": "探す" },
+      { "en": "ransack", "ja": "あさり回す" },
+      { "en": "dig", "ja": "掘る・探る" },
+      { "en": "hunt", "ja": "探し回る" }
+    ],
+    "faq": [
+      { "q": "rummage through とは？", "a": "『（引き出し・かばんなどを）かき回して探す』という意味です。rummage through the drawers（引き出しをかき回して探す）のように使います。" },
+      { "q": "a rummage sale とは？", "a": "不用品を持ち寄って安く売る『ガラクタ市・バザー』のことです（しばしば慈善目的）。" }
+    ],
+    "quiz": [
+      { "q": "She ___ through her bag for her keys.（かき回した）", "A": "rummaged", "B": "rumbled", "C": "rustled", "D": "ruined", "correct": "A" },
+      { "q": "「不用品バザー」を表すのはどれ？", "A": "a rummage sale", "B": "a rumble sale", "C": "a rustle sale", "D": "a ruin sale", "correct": "A" }
+    ]
+  },
+  {
+    "english": "runaway",
+    "pron": "ˈrʌnəweɪ",
+    "kana": "ランナウェイ",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞・形容詞",
+    "ld_etym": "run（走る）＋ away（去って）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "多義語"],
+    "meaning_main": "逃亡者・家出人／逃げ出した・暴走した・圧倒的な",
+    "description": "runaway の意味・発音・例文・語源を解説。「家出人・逃亡者」や、形容詞「暴走した・圧倒的な（runaway success）」の使い方を分かりやすく紹介します。",
+    "keywords": ["runaway 意味", "runaway 発音", "runaway success 意味", "runaway 家出人"],
+    "meanings": [
+      { "hinshi": "【名詞】逃亡者・家出人", "note": "逃げ出した人。a teenage runaway（家出した十代）。" },
+      { "hinshi": "【形容詞】逃げ出した・暴走した・圧倒的な", "note": "a runaway horse（暴走した馬）、a runaway success（圧倒的な成功）。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「逃亡者・家出人」として", "desc": "逃げ出した人を表します。", "example_en": "The police found the runaway in another city.", "example_ja": "警察は家出人を別の街で見つけた。" },
+      { "title": "② 形容詞「暴走した・圧倒的な」として", "desc": "制御を失った、または圧倒的な様子を表します。", "example_en": "The movie was a runaway success.", "example_ja": "その映画は圧倒的な成功を収めた。" }
+    ],
+    "warn": [
+      "run away（動詞句：逃げる）と runaway（名詞・形容詞：逃亡者／逃げ出した）を区別する。",
+      "a runaway success / hit は『圧倒的な成功・大ヒット』。a runaway train は『暴走列車』。"
+    ],
+    "etym_note": "run（走る）と away（去って）を組み合わせた複合語で、「走り去ること・走り去った」が原義です。動詞句 run away から名詞・形容詞になりました。",
+    "etym_chain": [
+      { "node": "run + away", "sub": "走り去る", "era": "近代英語" },
+      { "node": "runaway", "sub": "逃亡者", "era": "近代英語" },
+      { "node": "runaway", "sub": "逃亡者・暴走した", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a teenage runaway", "ja": "家出した十代" },
+      { "en": "a runaway success", "ja": "圧倒的な成功" },
+      { "en": "a runaway hit", "ja": "大ヒット" },
+      { "en": "a runaway horse", "ja": "暴走した馬" },
+      { "en": "a runaway train", "ja": "暴走列車" },
+      { "en": "runaway inflation", "ja": "制御不能なインフレ" }
+    ],
+    "related": [
+      { "en": "fugitive", "ja": "逃亡者" },
+      { "en": "escape", "ja": "逃げる" },
+      { "en": "uncontrolled", "ja": "制御不能の" },
+      { "en": "overwhelming", "ja": "圧倒的な" }
+    ],
+    "faq": [
+      { "q": "run away と runaway の違いは？", "a": "run away は動詞句『逃げる』、runaway は名詞『逃亡者・家出人』または形容詞『逃げ出した・暴走した・圧倒的な』です。" },
+      { "q": "a runaway success とは？", "a": "『圧倒的な・予想をはるかに超えた成功』という意味です。a runaway hit（大ヒット）も同様です。" }
+    ],
+    "quiz": [
+      { "q": "The movie was a ___ success.（圧倒的な成功）", "A": "runaway", "B": "running away の動詞句", "C": "runner", "D": "runway の滑走路", "correct": "A" },
+      { "q": "「家出人・逃亡者」を表すのはどれ？", "A": "a runaway", "B": "a runway", "C": "a runner-up", "D": "a running", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rye",
+    "pron": "raɪ",
+    "kana": "ライ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 ryge（ライ麦）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "食べ物"],
+    "meaning_main": "ライ麦／ライ麦パン・ライウイスキー",
+    "description": "rye の意味・発音・例文・語源を解説。穀物の「ライ麦」や、rye bread（ライ麦パン）の使い方、wheat（小麦）との違いも分かりやすく紹介します。",
+    "keywords": ["rye 意味", "rye 発音", "rye bread 意味", "rye wheat 違い"],
+    "meanings": [
+      { "hinshi": "【名詞】ライ麦", "note": "寒い地域で育つ穀物。黒っぽいパンの原料。" },
+      { "hinshi": "【名詞】ライ麦パン・ライウイスキー", "note": "rye bread（ライ麦パン）。" }
+    ],
+    "usages": [
+      { "title": "① 穀物の「ライ麦」として", "desc": "寒冷地で育つ穀物を表します。", "example_en": "Rye grows well in cold climates.", "example_ja": "ライ麦は寒冷な気候でよく育つ。" },
+      { "title": "② 「ライ麦パン」として", "desc": "rye bread（ライ麦パン）で使います。", "example_en": "I'd like a sandwich on rye bread.", "example_ja": "ライ麦パンのサンドイッチをください。" }
+    ],
+    "warn": [
+      "rye /raɪ/ と eye（目）/aɪ/、I（私）は発音が近い。語頭の r に注意。",
+      "rye（ライ麦）と wheat（小麦）、barley（大麦）、oat（オート麦）を区別する。"
+    ],
+    "etym_note": "古英語 ryge（ライ麦）に由来する古いゲルマン系の語です。寒冷地で育つ穀物を表す基本語です。",
+    "etym_chain": [
+      { "node": "ryge", "sub": "ライ麦", "era": "古英語" },
+      { "node": "rye", "sub": "ライ麦", "era": "中英語" },
+      { "node": "rye", "sub": "ライ麦・ライ麦パン", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rye bread", "ja": "ライ麦パン" },
+      { "en": "rye flour", "ja": "ライ麦粉" },
+      { "en": "rye whiskey", "ja": "ライウイスキー" },
+      { "en": "a field of rye", "ja": "ライ麦畑" },
+      { "en": "grow rye", "ja": "ライ麦を育てる" },
+      { "en": "rye and wheat", "ja": "ライ麦と小麦" }
+    ],
+    "related": [
+      { "en": "wheat", "ja": "小麦" },
+      { "en": "barley", "ja": "大麦" },
+      { "en": "oat", "ja": "オート麦" },
+      { "en": "grain", "ja": "穀物" }
+    ],
+    "faq": [
+      { "q": "rye と wheat の違いは？", "a": "rye は『ライ麦（寒冷地で育ち、黒っぽいパンになる）』、wheat は『小麦（白いパン・パスタの原料）』です。" },
+      { "q": "rye bread とは？", "a": "ライ麦を使った『ライ麦パン』のことです。色が濃く、独特の風味があります。" }
+    ],
+    "quiz": [
+      { "q": "I'd like a sandwich on ___ bread.（ライ麦パン）", "A": "rye", "B": "rice の米", "C": "raw", "D": "ray", "correct": "A" },
+      { "q": "rye と同じ『穀物』の仲間はどれ？", "A": "wheat", "B": "river", "C": "ribbon", "D": "ripple", "correct": "A" }
+    ]
+  }
+]

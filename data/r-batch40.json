@@ -1,0 +1,475 @@
+[
+  {
+    "english": "reciprocal",
+    "pron": "rɪˈsɪprəkəl",
+    "kana": "リシプロカル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 reciprocus（行き来する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "形容詞"],
+    "meaning_main": "相互の・お互いの／（数学）逆数の",
+    "description": "reciprocal の意味・発音・例文・語源を解説。「相互の・お互いさまの」関係や、数学の「逆数」、動詞 reciprocate も分かりやすく紹介します。",
+    "keywords": ["reciprocal 意味", "reciprocal 発音", "reciprocate 意味", "reciprocal 相互の"],
+    "meanings": [
+      { "hinshi": "【形容詞】相互の・お互いの", "note": "両者が同じように与え合う。a reciprocal relationship（相互的な関係）。" },
+      { "hinshi": "【形容詞】（数学）逆数の", "note": "the reciprocal of 2 is 1/2（2の逆数は2分の1）。" }
+    ],
+    "usages": [
+      { "title": "① 「相互の・お互いの」として", "desc": "両者が等しく与え合う関係を表します。", "example_en": "They have a reciprocal trade agreement.", "example_ja": "彼らは相互の貿易協定を結んでいる。" },
+      { "title": "② 数学「逆数」として", "desc": "1をその数で割った数を表します。", "example_en": "The reciprocal of 4 is one-fourth.", "example_ja": "4の逆数は4分の1だ。" }
+    ],
+    "warn": [
+      "動詞は reciprocate（お返しをする・報いる）。mutual（相互の）と近い。",
+      "数学では『逆数（the reciprocal）』。"
+    ],
+    "etym_note": "ラテン語 reciprocus（行ったり来たりする）に由来します。「行き来する＝互いにやり取りする」が原義です。",
+    "etym_chain": [
+      { "node": "reciprocus", "sub": "行き来する", "era": "ラテン語" },
+      { "node": "reciprocal", "sub": "相互の", "era": "近代英語" },
+      { "node": "reciprocal", "sub": "相互の・逆数の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a reciprocal relationship", "ja": "相互的な関係" },
+      { "en": "reciprocal trade", "ja": "相互貿易" },
+      { "en": "a reciprocal agreement", "ja": "相互協定" },
+      { "en": "mutual and reciprocal", "ja": "相互の" },
+      { "en": "the reciprocal of", "ja": "〜の逆数" },
+      { "en": "reciprocate", "ja": "お返しをする" }
+    ],
+    "related": [
+      { "en": "mutual", "ja": "相互の" },
+      { "en": "reciprocate", "ja": "お返しをする" },
+      { "en": "mutual", "ja": "お互いの" },
+      { "en": "one-sided", "ja": "一方的な（反対概念）" }
+    ],
+    "faq": [
+      { "q": "reciprocal と mutual の違いは？", "a": "意味は近く『相互の』ですが、reciprocal は『（一方が与えると他方も返す）見返りのある相互性』、mutual は『（両者が同時に持つ）共通の』ニュアンスです。" },
+      { "q": "reciprocal の動詞形は？", "a": "reciprocate（お返しをする・報いる）です。reciprocate kindness（親切にお返しする）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "They have a ___ trade agreement.（相互の）", "A": "reciprocal", "B": "respective の各自の", "C": "reluctant", "D": "ridiculous", "correct": "A" },
+      { "q": "reciprocal の動詞形はどれ？", "A": "reciprocate", "B": "reciprocize", "C": "reciprofy", "D": "reciprocade", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reclaim",
+    "pron": "rɪˈkleɪm",
+    "kana": "リクレイム",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 reclamare（叫び返す・取り戻す）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "（権利・財産を）取り戻す・返還を求める／（土地を）開拓する・再生する",
+    "description": "reclaim の意味・発音・例文・語源を解説。荷物や権利を「取り戻す」、土地を「埋め立て・開拓する」、資源を「再生する」使い方を紹介します。",
+    "keywords": ["reclaim 意味", "reclaim 発音", "reclaim land 意味", "reclaimed 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（権利・財産を）取り戻す・返還を求める", "note": "reclaim lost luggage（紛失した荷物を取り戻す）。" },
+      { "hinshi": "【動詞】（土地を）開拓する・埋め立てる／（資源を）再生する", "note": "reclaim land from the sea（海を埋め立てる）。" }
+    ],
+    "usages": [
+      { "title": "① 「取り戻す・返還を求める」として", "desc": "失ったものや権利を取り戻す意味です。", "example_en": "You can reclaim your tax at the airport.", "example_ja": "空港で税金の還付を受けられます。" },
+      { "title": "② 「（土地を）開拓・再生する」として", "desc": "海や荒れ地を利用可能にする意味です。", "example_en": "The city reclaimed land from the sea.", "example_ja": "その都市は海を埋め立てて土地を造成した。" }
+    ],
+    "warn": [
+      "reclaim land は『（海・荒れ地から）土地を造成・開拓する』。reclaimed materials は『再生素材』。",
+      "claim（要求する・主張する）に re- がついた語。"
+    ],
+    "etym_note": "ラテン語 reclamare（re-「逆に」＋ clamare「叫ぶ」＝叫び返して取り戻す）に由来します。claim・exclaim と同じ clam-（叫ぶ）の語根です。",
+    "etym_chain": [
+      { "node": "reclamare", "sub": "叫び返す・取り戻す", "era": "ラテン語" },
+      { "node": "reclaim", "sub": "取り戻す", "era": "中英語" },
+      { "node": "reclaim", "sub": "取り戻す・開拓する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reclaim land", "ja": "土地を造成・開拓する" },
+      { "en": "reclaim luggage", "ja": "荷物を受け取る" },
+      { "en": "reclaim tax", "ja": "税金の還付を受ける" },
+      { "en": "reclaimed water", "ja": "再生水" },
+      { "en": "reclaim one's title", "ja": "タイトルを奪回する" },
+      { "en": "baggage reclaim", "ja": "手荷物受取所" }
+    ],
+    "related": [
+      { "en": "recover", "ja": "取り戻す" },
+      { "en": "retrieve", "ja": "回収する" },
+      { "en": "claim", "ja": "要求する" },
+      { "en": "recycle", "ja": "再生利用する" }
+    ],
+    "faq": [
+      { "q": "reclaim land とは？", "a": "『（海や荒れ地から）利用できる土地を造成・開拓する』という意味です。埋め立て地は reclaimed land です。" },
+      { "q": "baggage reclaim とは？", "a": "空港の『手荷物受取所』のことです。預けた荷物を reclaim（受け取る）場所です。" }
+    ],
+    "quiz": [
+      { "q": "The city ___ land from the sea.（埋め立てた）", "A": "reclaimed", "B": "recalled の思い出した", "C": "reduced", "D": "removed", "correct": "A" },
+      { "q": "空港の「手荷物受取所」を表すのはどれ？", "A": "baggage reclaim", "B": "baggage recall", "C": "baggage reduce", "D": "baggage remove", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recourse",
+    "pron": "ˈriːkɔːrs",
+    "kana": "リーコース",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 recursus（走り戻ること）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "名詞"],
+    "meaning_main": "（困ったときに）頼ること・頼みの綱・手段",
+    "description": "recourse の意味・発音・例文・語源を解説。have recourse to / without recourse（頼ること・手段）の使い方を分かりやすく紹介します。",
+    "keywords": ["recourse 意味", "recourse 発音", "have recourse to 意味", "last recourse"],
+    "meanings": [
+      { "hinshi": "【名詞】（困ったときに）頼ること・頼みの綱・手段", "note": "have recourse to（〜に頼る）。without recourse to（〜に頼らずに）。" }
+    ],
+    "usages": [
+      { "title": "① 「頼ること・手段」として", "desc": "困ったときに頼る手段を表します。", "example_en": "They had no recourse but to go to court.", "example_ja": "彼らは裁判に訴えるしか手段がなかった。" },
+      { "title": "② have recourse to として", "desc": "「〜に頼る」を表すかたい表現です。", "example_en": "We solved it without recourse to violence.", "example_ja": "私たちは暴力に訴えずにそれを解決した。" }
+    ],
+    "warn": [
+      "have recourse to は『〜に頼る』、without recourse to は『〜に頼らずに』、the last recourse は『最後の手段』。",
+      "course（進路）に re- がついた語。recur（再発する）と同じ cur-（走る）の語源。"
+    ],
+    "etym_note": "ラテン語 recursus（re-「再び」＋ currere「走る」＝走り戻ること）に由来します。recur・course と同じ cur-（走る）の語根で、「（困って）頼りに走り戻ること」が原義です。",
+    "etym_chain": [
+      { "node": "recursus", "sub": "走り戻ること", "era": "ラテン語" },
+      { "node": "recourse", "sub": "頼ること", "era": "中英語" },
+      { "node": "recourse", "sub": "頼ること・手段", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "have recourse to", "ja": "〜に頼る" },
+      { "en": "without recourse to", "ja": "〜に頼らずに" },
+      { "en": "the last recourse", "ja": "最後の手段" },
+      { "en": "have no recourse", "ja": "なすすべがない" },
+      { "en": "legal recourse", "ja": "法的手段" },
+      { "en": "a recourse for", "ja": "〜の救済手段" }
+    ],
+    "related": [
+      { "en": "resort", "ja": "頼ること・手段" },
+      { "en": "remedy", "ja": "救済・解決策" },
+      { "en": "option", "ja": "選択肢" },
+      { "en": "means", "ja": "手段" }
+    ],
+    "faq": [
+      { "q": "recourse とはどんな意味？", "a": "『（困ったときに）頼ること・頼みの綱・手段』です。have recourse to the law（法に訴える）のように使います。" },
+      { "q": "recourse と resort の違いは？", "a": "意味は近く、どちらも『頼ること・手段』です。a last resort（最後の手段）、the last recourse（最後の頼みの綱）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "They had no ___ but to go to court.（手段）", "A": "recourse", "B": "resource の資源", "C": "recover", "D": "record", "correct": "A" },
+      { "q": "「〜に頼らずに」を表すのはどれ？", "A": "without recourse to", "B": "without resource to", "C": "without record to", "D": "without recover to", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rectify",
+    "pron": "ˈrektɪfaɪ",
+    "kana": "レクティファイ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 rectus（まっすぐな）＋ -ify",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "（誤り・問題を）正す・是正する・修正する",
+    "description": "rectify の意味・発音・例文・語源を解説。誤りや問題を「正す・是正する」というかたい語の使い方を分かりやすく紹介します。",
+    "keywords": ["rectify 意味", "rectify 発音", "rectify a mistake 意味", "rectify 是正"],
+    "meanings": [
+      { "hinshi": "【動詞】（誤り・問題を）正す・是正する・修正する", "note": "rectify a mistake（誤りを正す）。" }
+    ],
+    "usages": [
+      { "title": "① 「正す・是正する」として", "desc": "間違いや問題点を直す意味です（かたい語）。", "example_en": "We will rectify the error immediately.", "example_ja": "私たちはただちに誤りを正します。" },
+      { "title": "② 状況を是正して", "desc": "問題のある状況を直す意味です。", "example_en": "Steps were taken to rectify the situation.", "example_ja": "状況を是正する措置が取られた。" }
+    ],
+    "warn": [
+      "rectify は『（誤り・問題を）正す』というかたい語。correct に近い。rect-（まっすぐ）は correct・direct と同じ語根。",
+      "rectify a mistake / the situation が頻出。"
+    ],
+    "etym_note": "ラテン語 rectus（まっすぐな・正しい）＋ -ify（〜にする）の構成で、「まっすぐ正しくする＝是正する」が原義です。correct・direct・erect と同じ rect-（まっすぐ）の語根です。",
+    "etym_chain": [
+      { "node": "rectus", "sub": "まっすぐな・正しい", "era": "ラテン語" },
+      { "node": "rectificare", "sub": "正しくする", "era": "後期ラテン語" },
+      { "node": "rectify", "sub": "正す・是正する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rectify a mistake", "ja": "誤りを正す" },
+      { "en": "rectify the situation", "ja": "状況を是正する" },
+      { "en": "rectify an error", "ja": "誤りを修正する" },
+      { "en": "rectify the problem", "ja": "問題を是正する" },
+      { "en": "rectify the imbalance", "ja": "不均衡を正す" },
+      { "en": "take steps to rectify", "ja": "是正措置を取る" }
+    ],
+    "related": [
+      { "en": "correct", "ja": "訂正する" },
+      { "en": "fix", "ja": "直す" },
+      { "en": "remedy", "ja": "是正する" },
+      { "en": "amend", "ja": "改める" }
+    ],
+    "faq": [
+      { "q": "rectify と correct の違いは？", "a": "意味はほぼ同じ『正す』ですが、rectify はよりかたく形式的な語で、誤り・問題・状況の『是正』に使います。" },
+      { "q": "rectify の語源は？", "a": "ラテン語 rectus（まっすぐな・正しい）＋ -ify（〜にする）で、『まっすぐ正しくする＝是正する』が原義です。" }
+    ],
+    "quiz": [
+      { "q": "We will ___ the error immediately.（正す）", "A": "rectify", "B": "reduce の減らす", "C": "remove", "D": "refuse", "correct": "A" },
+      { "q": "rectify と同じ語源（まっすぐ）の語はどれ？", "A": "correct", "B": "river", "C": "ribbon", "D": "ripple", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rejuvenate",
+    "pron": "rɪˈdʒuːvəneɪt",
+    "kana": "リジュベネイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ ラテン語 juvenis（若い）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "若返らせる・元気を回復させる・活性化する",
+    "description": "rejuvenate の意味・発音・例文・語源を解説。肌や気分を「若返らせる・元気にする」、組織を「活性化する」使い方を分かりやすく紹介します。",
+    "keywords": ["rejuvenate 意味", "rejuvenate 発音", "rejuvenating 意味", "rejuvenate 若返り"],
+    "meanings": [
+      { "hinshi": "【動詞】若返らせる・元気を回復させる", "note": "肌・気分・体を生き生きさせる。" },
+      { "hinshi": "【動詞】（組織・地域を）活性化する・再生する", "note": "rejuvenate the economy（経済を活性化する）。" }
+    ],
+    "usages": [
+      { "title": "① 「若返らせる・元気にする」として", "desc": "心身を生き生きと回復させる意味です。", "example_en": "A short holiday will rejuvenate you.", "example_ja": "短い休暇はあなたを元気にしてくれる。" },
+      { "title": "② 「活性化する」として", "desc": "組織や地域を再生する意味です。", "example_en": "The project aims to rejuvenate the old town.", "example_ja": "その計画は旧市街の再生を目指している。" }
+    ],
+    "warn": [
+      "juvenile（若者の）と同じ juven-（若い）の語源。形容詞 rejuvenating は『元気を取り戻させる』。",
+      "名詞は rejuvenation（若返り・活性化）。"
+    ],
+    "etym_note": "re-（再び）＋ ラテン語 juvenis（若い）＋ -ate の構成で、「再び若くする＝若返らせる」が原義です。juvenile・junior と同じ juven-（若い）の語根です。",
+    "etym_chain": [
+      { "node": "juvenis", "sub": "若い", "era": "ラテン語" },
+      { "node": "rejuvenate", "sub": "若返らせる", "era": "19世紀" },
+      { "node": "rejuvenate", "sub": "若返らせる・活性化する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rejuvenate the skin", "ja": "肌を若返らせる" },
+      { "en": "feel rejuvenated", "ja": "若返った気分になる" },
+      { "en": "rejuvenate the economy", "ja": "経済を活性化する" },
+      { "en": "a rejuvenating effect", "ja": "若返り効果" },
+      { "en": "rejuvenate a city", "ja": "都市を再生する" },
+      { "en": "rejuvenation", "ja": "若返り・活性化" }
+    ],
+    "related": [
+      { "en": "revitalize", "ja": "活性化する" },
+      { "en": "refresh", "ja": "元気にする" },
+      { "en": "renew", "ja": "新しくする" },
+      { "en": "revive", "ja": "復活させる" }
+    ],
+    "faq": [
+      { "q": "rejuvenate の語源は？", "a": "re-（再び）＋ ラテン語 juvenis（若い）で、『再び若くする＝若返らせる』が原義です。juvenile（若者の）と同じ語源です。" },
+      { "q": "rejuvenate の名詞形は？", "a": "rejuvenation（若返り・活性化）です。" }
+    ],
+    "quiz": [
+      { "q": "A short holiday will ___ you.（元気にする）", "A": "rejuvenate", "B": "reject の拒絶する", "C": "reduce", "D": "remove", "correct": "A" },
+      { "q": "rejuvenate と同じ語源（若い）の語はどれ？", "A": "juvenile", "B": "river", "C": "ribbon", "D": "ripple", "correct": "A" }
+    ]
+  },
+  {
+    "english": "replenish",
+    "pron": "rɪˈplenɪʃ",
+    "kana": "リプレニッシュ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 plenus（満ちた）由来",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "補充する・再び満たす・補給する",
+    "description": "replenish の意味・発音・例文・語源を解説。減ったものを「補充する・再び満たす」使い方や、refill との近さも分かりやすく紹介します。",
+    "keywords": ["replenish 意味", "replenish 発音", "replenish supplies 意味", "replenish 補充"],
+    "meanings": [
+      { "hinshi": "【動詞】補充する・再び満たす・補給する", "note": "減ったものをもとの量に戻す。replenish supplies（物資を補充する）。" }
+    ],
+    "usages": [
+      { "title": "① 「補充する・補給する」として", "desc": "減ったものを再び満たす意味です。", "example_en": "We need to replenish our food supplies.", "example_ja": "私たちは食料を補充する必要がある。" },
+      { "title": "② 体力・在庫などに", "desc": "energy や stock を補う意味でも使います。", "example_en": "Drink water to replenish lost fluids.", "example_ja": "失った水分を補うため水を飲みなさい。" }
+    ],
+    "warn": [
+      "replenish は『（減ったものを）もとの量まで補充する』というかたい語。refill（詰め替える）に近い。",
+      "plenty・plenary と同じ plen-（満ちる）の語源。"
+    ],
+    "etym_note": "古フランス語 repleniss-（再び満たす。ラテン語 plenus「満ちた」から）に由来します。plenty・complete と同じ ple-（満ちる）の語根で、「再び満たす＝補充する」が原義です。",
+    "etym_chain": [
+      { "node": "plenus", "sub": "満ちた", "era": "ラテン語" },
+      { "node": "repleniss-", "sub": "再び満たす", "era": "古フランス語" },
+      { "node": "replenish", "sub": "補充する・再び満たす", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "replenish supplies", "ja": "物資を補充する" },
+      { "en": "replenish stocks", "ja": "在庫を補充する" },
+      { "en": "replenish fluids", "ja": "水分を補給する" },
+      { "en": "replenish energy", "ja": "エネルギーを補う" },
+      { "en": "replenish reserves", "ja": "蓄えを補充する" },
+      { "en": "constantly replenish", "ja": "絶えず補充する" }
+    ],
+    "related": [
+      { "en": "refill", "ja": "詰め替える" },
+      { "en": "restock", "ja": "在庫を補充する" },
+      { "en": "supply", "ja": "供給する" },
+      { "en": "deplete", "ja": "使い果たす（反対語）" }
+    ],
+    "faq": [
+      { "q": "replenish とはどんな意味？", "a": "『（減ったものを）補充する・再び満たす・補給する』という意味です。replenish supplies（物資を補充する）のように使います。" },
+      { "q": "replenish の反対語は？", "a": "deplete（使い果たす・減らす）です。" }
+    ],
+    "quiz": [
+      { "q": "We need to ___ our food supplies.（補充する）", "A": "replenish", "B": "replace の取り替える", "C": "reduce", "D": "remove", "correct": "A" },
+      { "q": "replenish の反対語はどれ？", "A": "deplete（使い果たす）", "B": "fill（満たす）", "C": "supply（供給する）", "D": "refill（補充する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reprieve",
+    "pron": "rɪˈpriːv",
+    "kana": "リプリーブ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞・動詞",
+    "ld_etym": "古フランス語 reprendre（取り戻す）由来",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "名詞"],
+    "meaning_main": "（刑の）執行延期・猶予／一時的な救済",
+    "description": "reprieve の意味・発音・例文・語源を解説。死刑などの「執行延期・猶予」や、つらい状況からの「一時的な救済」の使い方を紹介します。",
+    "keywords": ["reprieve 意味", "reprieve 発音", "reprieve 執行延期", "reprieve 猶予"],
+    "meanings": [
+      { "hinshi": "【名詞】（刑の）執行延期・猶予", "note": "とくに死刑の一時的な延期。grant a reprieve（執行を延期する）。" },
+      { "hinshi": "【名詞・動詞】一時的な救済・苦境の先延ばし", "note": "a temporary reprieve（一時的な猶予）。" }
+    ],
+    "usages": [
+      { "title": "① 「刑の執行延期・猶予」として", "desc": "刑罰（特に死刑）の一時的な延期を表します。", "example_en": "The prisoner was granted a last-minute reprieve.", "example_ja": "その囚人は土壇場で執行延期を認められた。" },
+      { "title": "② 「一時的な救済」として", "desc": "つらい状況の先延ばしを表します。", "example_en": "The rain gave farmers a brief reprieve from the drought.", "example_ja": "雨は農家に干ばつからのつかの間の救済を与えた。" }
+    ],
+    "warn": [
+      "reprieve は『（刑の）執行延期・一時的な救済』。閉鎖や打ち切りの『一時撤回』にも使う。",
+      "respite（休止）と意味が近い。"
+    ],
+    "etym_note": "古フランス語 reprendre（取り戻す・連れ戻す）系の語に由来します。「（処刑などを）連れ戻して延期する＝執行延期」が原義です。",
+    "etym_chain": [
+      { "node": "reprendre", "sub": "取り戻す・連れ戻す", "era": "古フランス語" },
+      { "node": "reprieve", "sub": "執行延期", "era": "近代英語" },
+      { "node": "reprieve", "sub": "執行延期・一時的救済", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "grant a reprieve", "ja": "執行延期を認める" },
+      { "en": "a last-minute reprieve", "ja": "土壇場の執行延期" },
+      { "en": "a temporary reprieve", "ja": "一時的な猶予" },
+      { "en": "a brief reprieve", "ja": "つかの間の救済" },
+      { "en": "win a reprieve", "ja": "猶予を勝ち取る" },
+      { "en": "a stay of execution", "ja": "執行停止（類似表現）" }
+    ],
+    "related": [
+      { "en": "respite", "ja": "一時的な休止" },
+      { "en": "pardon", "ja": "恩赦" },
+      { "en": "delay", "ja": "延期" },
+      { "en": "relief", "ja": "救済・軽減" }
+    ],
+    "faq": [
+      { "q": "reprieve とはどんな意味？", "a": "おもに『（刑、特に死刑の）執行延期・猶予』です。比喩で『つらい状況からの一時的な救済・先延ばし』にも使います。" },
+      { "q": "reprieve と respite の違いは？", "a": "reprieve は『（刑の）執行延期・一時撤回』、respite は『（苦痛・忙しさからの）一時的な休止』です。意味は近いです。" }
+    ],
+    "quiz": [
+      { "q": "The prisoner was granted a last-minute ___.（執行延期）", "A": "reprieve", "B": "retrieve の取り戻す", "C": "reprise", "D": "reprove", "correct": "A" },
+      { "q": "reprieve と意味が近いのはどれ？", "A": "respite（一時的休止）", "B": "punishment（罰）", "C": "execution（処刑）", "D": "sentence（判決）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rescind",
+    "pron": "rɪˈsɪnd",
+    "kana": "リシンド",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 rescindere（切り取る・破棄する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "（法律・決定・契約を）撤回する・無効にする",
+    "description": "rescind の意味・発音・例文・語源を解説。法律や決定、契約を正式に「撤回・無効にする」というかたい語の使い方を紹介します。",
+    "keywords": ["rescind 意味", "rescind 発音", "rescind a decision 意味", "rescind 撤回"],
+    "meanings": [
+      { "hinshi": "【動詞】（法律・決定・契約を）撤回する・無効にする", "note": "正式に取り消す。rescind a decision（決定を撤回する）。" }
+    ],
+    "usages": [
+      { "title": "① 「撤回する・無効にする」として", "desc": "決定・法律・契約を正式に取り消す意味です。", "example_en": "The company rescinded the job offer.", "example_ja": "会社はその採用通知を撤回した。" },
+      { "title": "② 法律・規則に", "desc": "成立した規則を無効にする意味です。", "example_en": "The law was later rescinded.", "example_ja": "その法律はのちに廃止された。" }
+    ],
+    "warn": [
+      "rescind は『（法律・決定・契約を）正式に撤回・無効にする』というかたい法律用語。revoke・repeal と近い。",
+      "cancel（取り消す）より法的・正式。"
+    ],
+    "etym_note": "ラテン語 rescindere（re-「逆に」＋ scindere「裂く・切る」＝切り取る・破棄する）に由来します。scissors と同じ scind-（切る）の語根で、「切り取って無効にする」が原義です。",
+    "etym_chain": [
+      { "node": "rescindere", "sub": "切り取る・破棄する", "era": "ラテン語" },
+      { "node": "rescind", "sub": "撤回する", "era": "近代英語" },
+      { "node": "rescind", "sub": "撤回する・無効にする", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rescind a decision", "ja": "決定を撤回する" },
+      { "en": "rescind an offer", "ja": "申し出を撤回する" },
+      { "en": "rescind a contract", "ja": "契約を解除する" },
+      { "en": "rescind a law", "ja": "法律を廃止する" },
+      { "en": "be rescinded", "ja": "撤回される" },
+      { "en": "rescind an order", "ja": "命令を取り消す" }
+    ],
+    "related": [
+      { "en": "revoke", "ja": "取り消す" },
+      { "en": "repeal", "ja": "（法律を）廃止する" },
+      { "en": "cancel", "ja": "取り消す" },
+      { "en": "annul", "ja": "無効にする" }
+    ],
+    "faq": [
+      { "q": "rescind と cancel の違いは？", "a": "rescind は『（法律・決定・契約を）正式に撤回・無効にする』というかたい法的な語、cancel は『（予約・予定などを）取り消す』一般的な語です。" },
+      { "q": "rescind と revoke の違いは？", "a": "どちらも『取り消す』ですが、rescind は『決定・契約・法律の撤回』、revoke は『（免許・許可・権利の）取り消し』に使われることが多いです。" }
+    ],
+    "quiz": [
+      { "q": "The company ___ the job offer.（撤回した）", "A": "rescinded", "B": "rescued の救助した", "C": "reduced", "D": "removed", "correct": "A" },
+      { "q": "rescind と同じ語源（切る）の語はどれ？", "A": "scissors", "B": "river", "C": "ribbon", "D": "ripple", "correct": "A" }
+    ]
+  },
+  {
+    "english": "resurrect",
+    "pron": "ˌrezəˈrekt",
+    "kana": "レザレクト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 resurgere（再び立ち上がる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "よみがえらせる・復活させる・復興する",
+    "description": "resurrect の意味・発音・例文・語源を解説。死者を「よみがえらせる」、計画や流行を「復活させる」使い方や、名詞 resurrection も紹介します。",
+    "keywords": ["resurrect 意味", "resurrect 発音", "resurrection 意味", "resurrect 復活"],
+    "meanings": [
+      { "hinshi": "【動詞】よみがえらせる・復活させる", "note": "死んだもの・廃れたものを生き返らせる。" },
+      { "hinshi": "【動詞】（計画・話題を）復活させる・蒸し返す", "note": "resurrect an old plan（古い計画を復活させる）。" }
+    ],
+    "usages": [
+      { "title": "① 「よみがえらせる・復活させる」として", "desc": "死んだもの・廃れたものを生き返らせる意味です。", "example_en": "They tried to resurrect the failing business.", "example_ja": "彼らは傾いた事業を立て直そうとした。" },
+      { "title": "② 「（話題・計画を）復活させる」として", "desc": "廃れた計画や話題を再び持ち出す意味です。", "example_en": "The director resurrected an old idea.", "example_ja": "監督は古いアイデアを復活させた。" }
+    ],
+    "warn": [
+      "名詞は resurrection（復活）。the Resurrection はキリスト教の『（キリストの）復活』（大文字）。",
+      "resurge・insurgent と同じ surg-（立ち上がる）の語源。"
+    ],
+    "etym_note": "ラテン語 resurgere（re-「再び」＋ surgere「立ち上がる」＝再び立ち上がる）の過去分詞 resurrectus に由来します。surge・resurgence と同じ surg-（立ち上がる）の語根です。",
+    "etym_chain": [
+      { "node": "resurgere", "sub": "再び立ち上がる", "era": "ラテン語" },
+      { "node": "resurrect", "sub": "よみがえらせる", "era": "近代英語" },
+      { "node": "resurrect", "sub": "復活させる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "resurrect a plan", "ja": "計画を復活させる" },
+      { "en": "resurrect a career", "ja": "経歴を立て直す" },
+      { "en": "resurrect the dead", "ja": "死者をよみがえらせる" },
+      { "en": "resurrect an idea", "ja": "アイデアを蒸し返す" },
+      { "en": "the Resurrection", "ja": "（キリストの）復活" },
+      { "en": "resurrection", "ja": "復活" }
+    ],
+    "related": [
+      { "en": "resurrection", "ja": "復活（名詞）" },
+      { "en": "revive", "ja": "生き返らせる" },
+      { "en": "restore", "ja": "回復させる" },
+      { "en": "bury", "ja": "葬る（反対概念）" }
+    ],
+    "faq": [
+      { "q": "resurrect と revive の違いは？", "a": "どちらも『生き返らせる・復活させる』ですが、resurrect は『（死んだもの・完全に廃れたものを）よみがえらせる』という強いニュアンスです。" },
+      { "q": "the Resurrection とは？", "a": "キリスト教で『（十字架にかけられた）キリストの復活』を指します（大文字）。" }
+    ],
+    "quiz": [
+      { "q": "They tried to ___ the failing business.（立て直す）", "A": "resurrect", "B": "research の研究する", "C": "reduce", "D": "remove", "correct": "A" },
+      { "q": "resurrect の名詞形はどれ？", "A": "resurrection", "B": "resurrectment", "C": "resurrectance", "D": "resurrectity", "correct": "A" }
+    ]
+  }
+]

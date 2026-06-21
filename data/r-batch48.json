@@ -1,0 +1,525 @@
+[
+  {
+    "english": "rancor",
+    "pron": "ˈræŋkər",
+    "kana": "ランカー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 rancor（恨み・悪臭）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "感情"],
+    "meaning_main": "深い恨み・遺恨・敵意",
+    "description": "rancor の意味・発音・例文・語源を解説。心にたまった「深い恨み・遺恨」の使い方や、英米のつづり違い（rancor / rancour）も紹介します。",
+    "keywords": ["rancor 意味", "rancor 発音", "rancour つづり", "rancor 恨み"],
+    "meanings": [
+      { "hinshi": "【名詞】深い恨み・遺恨・敵意", "note": "長く心に残る激しい恨み。without rancor（恨みなく）。" }
+    ],
+    "usages": [
+      { "title": "① 「深い恨み・遺恨」として", "desc": "長く残る激しい恨みを表します。", "example_en": "He spoke without rancor about his rivals.", "example_ja": "彼はライバルについて恨みなく語った。" },
+      { "title": "② 敵意として", "desc": "対立にひそむ激しい感情を表します。", "example_en": "The debate was full of rancor.", "example_ja": "その討論は敵意に満ちていた。" }
+    ],
+    "warn": [
+      "アメリカ式は rancor、イギリス式は rancour。without rancor は『恨みを抱かずに』。",
+      "形容詞 rancorous は『恨みに満ちた・激しい』。"
+    ],
+    "etym_note": "ラテン語 rancor（恨み・悪臭。rancere「悪臭を放つ」から）に由来します。rancid（酸敗した）と同じ語源で、「心に残る不快な感情＝恨み」が原義です。",
+    "etym_chain": [
+      { "node": "rancere", "sub": "悪臭を放つ", "era": "ラテン語" },
+      { "node": "rancor", "sub": "恨み", "era": "古フランス語" },
+      { "node": "rancor", "sub": "深い恨み・遺恨", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "without rancor", "ja": "恨みなく" },
+      { "en": "full of rancor", "ja": "恨みに満ちて" },
+      { "en": "deep rancor", "ja": "深い遺恨" },
+      { "en": "lingering rancor", "ja": "尾を引く恨み" },
+      { "en": "rancor and bitterness", "ja": "恨みと苦々しさ" },
+      { "en": "rancorous", "ja": "恨みに満ちた" }
+    ],
+    "related": [
+      { "en": "resentment", "ja": "憤り・恨み" },
+      { "en": "bitterness", "ja": "苦々しさ" },
+      { "en": "animosity", "ja": "敵意" },
+      { "en": "goodwill", "ja": "善意（反対語）" }
+    ],
+    "faq": [
+      { "q": "rancor とはどんな意味？", "a": "『（長く心に残る）深い恨み・遺恨・敵意』という意味です。without rancor（恨みを抱かずに）のように使います。" },
+      { "q": "rancor と rancid は関係ある？", "a": "はい。どちらもラテン語 rancere（悪臭を放つ）に由来し、rancid は『（油脂が）酸敗した』、rancor は『（心に残る）恨み』です。" }
+    ],
+    "quiz": [
+      { "q": "He spoke without ___ about his rivals.（恨みなく）", "A": "rancor", "B": "ranch の牧場", "C": "ransom", "D": "random", "correct": "A" },
+      { "q": "rancor の形容詞形はどれ？", "A": "rancorous", "B": "rancorful", "C": "rancorable", "D": "rancorive", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rapacious",
+    "pron": "rəˈpeɪʃəs",
+    "kana": "ラペイシャス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 rapax（むさぼる・強欲な）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "形容詞"],
+    "meaning_main": "強欲な・貪欲な・むさぼるような",
+    "description": "rapacious の意味・発音・例文・語源を解説。お金や利益を「むさぼるように強欲な」様子を表す文語的な語の使い方を紹介します。",
+    "keywords": ["rapacious 意味", "rapacious 発音", "rapacious greed 意味", "rapacious 強欲"],
+    "meanings": [
+      { "hinshi": "【形容詞】強欲な・貪欲な・むさぼるような", "note": "金・利益などを飽くことなく求める。rapacious greed（飽くなき強欲）。" }
+    ],
+    "usages": [
+      { "title": "① 「強欲な・貪欲な」として", "desc": "飽くことなく求める様子を表します（否定的）。", "example_en": "The company had a rapacious appetite for profit.", "example_ja": "その会社は利益に対する飽くなき欲を持っていた。" },
+      { "title": "② 略奪的な様子として", "desc": "むさぼり奪うような様子も表します。", "example_en": "Rapacious developers destroyed the forest.", "example_ja": "強欲な開発業者が森を破壊した。" }
+    ],
+    "warn": [
+      "rapacious は『（むさぼり奪うように）強欲な』という強い否定的な語。rapid・rapture と同じ rap-（さらう）の語源。",
+      "greedy（欲深い）より強く、略奪的なニュアンス。"
+    ],
+    "etym_note": "ラテン語 rapax（むさぼる・つかみ取る。rapere「さらう」から）に由来します。rapid・rapture・raptor と同じ rap-（さらう）の語根です。",
+    "etym_chain": [
+      { "node": "rapere", "sub": "さらう・奪う", "era": "ラテン語" },
+      { "node": "rapax", "sub": "むさぼる・強欲な", "era": "ラテン語" },
+      { "node": "rapacious", "sub": "強欲な・貪欲な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rapacious greed", "ja": "飽くなき強欲" },
+      { "en": "a rapacious appetite", "ja": "貪欲な欲求" },
+      { "en": "rapacious developers", "ja": "強欲な開発業者" },
+      { "en": "rapacious behavior", "ja": "むさぼるような行い" },
+      { "en": "a rapacious predator", "ja": "貪欲な捕食者" },
+      { "en": "rapacity", "ja": "強欲・貪欲" }
+    ],
+    "related": [
+      { "en": "greedy", "ja": "欲深い" },
+      { "en": "voracious", "ja": "貪欲な" },
+      { "en": "predatory", "ja": "略奪的な" },
+      { "en": "generous", "ja": "気前のよい（反対概念）" }
+    ],
+    "faq": [
+      { "q": "rapacious と greedy の違いは？", "a": "どちらも『欲深い』ですが、rapacious は『（むさぼり奪うように）強欲な・略奪的な』という強くかたい語です。" },
+      { "q": "rapacious の名詞形は？", "a": "rapacity（強欲・貪欲）です。" }
+    ],
+    "quiz": [
+      { "q": "The company had a ___ appetite for profit.（貪欲な）", "A": "rapacious", "B": "rapid の急速な", "C": "rational", "D": "radical", "correct": "A" },
+      { "q": "rapacious と同じ語源（さらう）の語はどれ？", "A": "rapture", "B": "river", "C": "ribbon", "D": "ripple", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rationale",
+    "pron": "ˌræʃəˈnæl",
+    "kana": "ラショナール",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 rationalis（理性的な）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "名詞"],
+    "meaning_main": "（行動・決定の）根拠・理由づけ・論理的根拠",
+    "description": "rationale の意味・発音・例文・語源を解説。ある決定や方針の「根拠・理由づけ」の使い方や、rational（理性的な）との違いも紹介します。",
+    "keywords": ["rationale 意味", "rationale 発音", "rationale rational 違い", "rationale 根拠"],
+    "meanings": [
+      { "hinshi": "【名詞】（行動・決定の）根拠・理由づけ・論理的根拠", "note": "なぜそうするのかの説明。the rationale behind（〜の背後にある根拠）。" }
+    ],
+    "usages": [
+      { "title": "① 「根拠・理由づけ」として", "desc": "ある決定や方針の論理的な理由を表します。", "example_en": "What is the rationale behind this decision?", "example_ja": "この決定の根拠は何ですか。" },
+      { "title": "② 説明として", "desc": "なぜそうするのかの説明を表します。", "example_en": "He explained the rationale for the new policy.", "example_ja": "彼は新方針の理由づけを説明した。" }
+    ],
+    "warn": [
+      "発音は /ˌræʃəˈnæl/「ラショナール」で後ろにアクセント。形容詞 rational（理性的な）/ˈræʃənəl/ と区別。",
+      "the rationale behind / for（〜の根拠）の形でよく使う。"
+    ],
+    "etym_note": "ラテン語 rationalis（理性的な。ratio「理性・計算」から）の名詞用法に由来します。rational・reason・ratio と同じ rat-（計算・理性）の語根です。",
+    "etym_chain": [
+      { "node": "ratio", "sub": "理性・計算", "era": "ラテン語" },
+      { "node": "rationalis", "sub": "理性的な", "era": "ラテン語" },
+      { "node": "rationale", "sub": "根拠・理由づけ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the rationale behind", "ja": "〜の背後にある根拠" },
+      { "en": "the rationale for", "ja": "〜の根拠" },
+      { "en": "explain the rationale", "ja": "根拠を説明する" },
+      { "en": "a clear rationale", "ja": "明確な根拠" },
+      { "en": "the underlying rationale", "ja": "根底にある理由づけ" },
+      { "en": "provide a rationale", "ja": "根拠を示す" }
+    ],
+    "related": [
+      { "en": "rational", "ja": "理性的な（形容詞）" },
+      { "en": "reasoning", "ja": "論理・推論" },
+      { "en": "justification", "ja": "正当化・根拠" },
+      { "en": "basis", "ja": "根拠・基盤" }
+    ],
+    "faq": [
+      { "q": "rationale と rational の違いは？", "a": "rationale は名詞『（決定の）根拠・理由づけ』/ˌræʃəˈnæl/、rational は形容詞『理性的な』/ˈræʃənəl/ です。発音もアクセントも違います。" },
+      { "q": "the rationale behind とは？", "a": "『〜の背後にある根拠・理由づけ』という意味です。the rationale behind the plan（その計画の根拠）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "What is the ___ behind this decision?（根拠）", "A": "rationale", "B": "rational の形容詞", "C": "ration", "D": "ratio", "correct": "A" },
+      { "q": "rationale と同じ語源（理性・計算）の語はどれ？", "A": "rational", "B": "river", "C": "ribbon", "D": "ripple", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reciprocate",
+    "pron": "rɪˈsɪprəkeɪt",
+    "kana": "リシプロケイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 reciprocare（行き来させる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "基本動詞"],
+    "meaning_main": "（好意・行為に）お返しをする・報いる・応える",
+    "description": "reciprocate の意味・発音・例文・語源を解説。受けた親切や好意に「お返しをする・同じように応える」使い方を分かりやすく紹介します。",
+    "keywords": ["reciprocate 意味", "reciprocate 発音", "reciprocal 関係", "reciprocate お返し"],
+    "meanings": [
+      { "hinshi": "【動詞】（好意・行為に）お返しをする・報いる・応える", "note": "受けたものと同じように返す。reciprocate kindness（親切にお返しする）。" }
+    ],
+    "usages": [
+      { "title": "① 「お返しをする・応える」として", "desc": "受けた好意に同じように返す意味です。", "example_en": "She helped me, and I wanted to reciprocate.", "example_ja": "彼女は私を助けてくれたので、お返しをしたかった。" },
+      { "title": "② 感情に応えて", "desc": "気持ちに同じように応える意味でも使います。", "example_en": "He loved her, but she did not reciprocate his feelings.", "example_ja": "彼は彼女を愛したが、彼女はその気持ちに応えなかった。" }
+    ],
+    "warn": [
+      "形容詞は reciprocal（相互の）、名詞は reciprocity（相互関係・互恵）。",
+      "reciprocate feelings（気持ちに応える）、reciprocate kindness（親切にお返しする）。"
+    ],
+    "etym_note": "ラテン語 reciprocare（reciprocus「行き来する」から＝行き来させる）に由来します。reciprocal と同じ語源で、「（受けたものを）行き来させて返す」が原義です。",
+    "etym_chain": [
+      { "node": "reciprocus", "sub": "行き来する", "era": "ラテン語" },
+      { "node": "reciprocare", "sub": "行き来させる", "era": "ラテン語" },
+      { "node": "reciprocate", "sub": "お返しをする", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reciprocate kindness", "ja": "親切にお返しする" },
+      { "en": "reciprocate feelings", "ja": "気持ちに応える" },
+      { "en": "fail to reciprocate", "ja": "応えない" },
+      { "en": "reciprocate the gesture", "ja": "同じように振る舞う" },
+      { "en": "happily reciprocate", "ja": "喜んでお返しする" },
+      { "en": "reciprocity", "ja": "相互関係・互恵" }
+    ],
+    "related": [
+      { "en": "reciprocal", "ja": "相互の（形容詞）" },
+      { "en": "return", "ja": "返す" },
+      { "en": "repay", "ja": "報いる" },
+      { "en": "respond", "ja": "応える" }
+    ],
+    "faq": [
+      { "q": "reciprocate とはどんな意味？", "a": "『（受けた好意・親切・感情に）お返しをする・同じように応える』という意味です。reciprocate her feelings（彼女の気持ちに応える）のように使います。" },
+      { "q": "reciprocate の形容詞・名詞形は？", "a": "形容詞は reciprocal（相互の）、名詞は reciprocity（相互関係・互恵）です。" }
+    ],
+    "quiz": [
+      { "q": "She helped me, and I wanted to ___.（お返しをする）", "A": "reciprocate", "B": "recuperate の療養する", "C": "reduce", "D": "remove", "correct": "A" },
+      { "q": "reciprocate の形容詞形（相互の）はどれ？", "A": "reciprocal", "B": "reciprocable", "C": "reciprocative", "D": "reciprocous", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reclusive",
+    "pron": "rɪˈkluːsɪv",
+    "kana": "リクルーシブ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 recludere（閉じこもる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "形容詞"],
+    "meaning_main": "世間を避けた・隠遁した・引きこもりがちな",
+    "description": "reclusive の意味・発音・例文・語源を解説。人付き合いを避けて「世間から隠れて暮らす」様子の使い方や、名詞 recluse も紹介します。",
+    "keywords": ["reclusive 意味", "reclusive 発音", "recluse 意味", "reclusive 隠遁"],
+    "meanings": [
+      { "hinshi": "【形容詞】世間を避けた・隠遁した・引きこもりがちな", "note": "人付き合いを避けて一人で暮らす。a reclusive writer（隠遁した作家）。" }
+    ],
+    "usages": [
+      { "title": "① 「隠遁した・人付き合いを避けた」として", "desc": "世間から離れて暮らす様子を表します。", "example_en": "The famous author became reclusive in his later years.", "example_ja": "その有名な作家は晩年、世間を避けて暮らした。" },
+      { "title": "② 名詞 recluse として", "desc": "「隠者・引きこもりの人」を表します。", "example_en": "He lived as a recluse for decades.", "example_ja": "彼は何十年も隠者として暮らした。" }
+    ],
+    "warn": [
+      "名詞は recluse（隠者・世捨て人）。clud-/clus-（閉じる）は include・exclude と同じ語源。",
+      "reclusive は『世間を避けて引きこもる』ニュアンス。"
+    ],
+    "etym_note": "ラテン語 recludere（re-「離れて」＋ claudere「閉じる」＝閉じこもる）に由来します。include・exclude・close と同じ clud-/clus-（閉じる）の語根です。",
+    "etym_chain": [
+      { "node": "recludere", "sub": "閉じこもる", "era": "ラテン語" },
+      { "node": "recluse", "sub": "隠者", "era": "中英語" },
+      { "node": "reclusive", "sub": "隠遁した・引きこもりがちな", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a reclusive writer", "ja": "隠遁した作家" },
+      { "en": "become reclusive", "ja": "世間を避けるようになる" },
+      { "en": "lead a reclusive life", "ja": "隠遁生活を送る" },
+      { "en": "a reclusive lifestyle", "ja": "引きこもりがちな暮らし" },
+      { "en": "live as a recluse", "ja": "隠者として暮らす" },
+      { "en": "increasingly reclusive", "ja": "ますます引きこもりがちな" }
+    ],
+    "related": [
+      { "en": "recluse", "ja": "隠者・世捨て人" },
+      { "en": "solitary", "ja": "孤独な" },
+      { "en": "withdrawn", "ja": "引っ込み思案の" },
+      { "en": "sociable", "ja": "社交的な（反対語）" }
+    ],
+    "faq": [
+      { "q": "reclusive とはどんな意味？", "a": "『人付き合いを避けて世間から隠れて暮らす・引きこもりがちな』という意味です。a reclusive person（隠遁した人）のように使います。" },
+      { "q": "recluse とは？", "a": "名詞で『隠者・世捨て人（人付き合いを避けて一人で暮らす人）』のことです。" }
+    ],
+    "quiz": [
+      { "q": "The author became ___ in his later years.（世間を避けた）", "A": "reclusive", "B": "responsible の責任ある", "C": "reluctant", "D": "respective", "correct": "A" },
+      { "q": "reclusive の反対語はどれ？", "A": "sociable（社交的な）", "B": "solitary（孤独な）", "C": "withdrawn（引っ込み思案の）", "D": "quiet（静かな）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reminiscent",
+    "pron": "ˌremɪˈnɪsənt",
+    "kana": "レミニセント",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 reminisci（思い出す）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "形容詞"],
+    "meaning_main": "（reminiscent of）〜を思い起こさせる・〜に似た",
+    "description": "reminiscent の意味・発音・例文・語源を解説。reminiscent of（〜を思い起こさせる・〜を連想させる）という使い方を分かりやすく紹介します。",
+    "keywords": ["reminiscent 意味", "reminiscent 発音", "reminiscent of 使い方", "reminiscent 連想"],
+    "meanings": [
+      { "hinshi": "【形容詞】(reminiscent of) 〜を思い起こさせる・〜に似た", "note": "何かを連想させる。reminiscent of the past（昔を思わせる）。" }
+    ],
+    "usages": [
+      { "title": "① 「〜を思い起こさせる」として", "desc": "reminiscent of〜で「〜を連想させる」を表します。", "example_en": "The smell was reminiscent of my grandmother's kitchen.", "example_ja": "そのにおいは祖母の台所を思い起こさせた。" },
+      { "title": "② 「〜に似た」として", "desc": "あるものに似ていることを表します。", "example_en": "His style is reminiscent of early jazz.", "example_ja": "彼のスタイルは初期のジャズを思わせる。" }
+    ],
+    "warn": [
+      "ふつう reminiscent of の形で使う。reminisce（懐かしく思い出す、既出）の形容詞。",
+      "redolent of（〜を思わせる）と意味が近い。"
+    ],
+    "etym_note": "ラテン語 reminisci（再び思い出す。mens「心」から）に由来します。reminisce・memory と同じ men-（心・思う）の語根です。",
+    "etym_chain": [
+      { "node": "reminisci", "sub": "思い出す", "era": "ラテン語" },
+      { "node": "reminiscent", "sub": "思い起こさせる", "era": "近代英語" },
+      { "node": "reminiscent", "sub": "〜を思い起こさせる・似た", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reminiscent of", "ja": "〜を思い起こさせる" },
+      { "en": "strongly reminiscent of", "ja": "〜を強く連想させる" },
+      { "en": "reminiscent of the past", "ja": "昔を思わせる" },
+      { "en": "vaguely reminiscent", "ja": "なんとなく似た" },
+      { "en": "a style reminiscent of", "ja": "〜を思わせる作風" },
+      { "en": "reminiscent of childhood", "ja": "子ども時代を思わせる" }
+    ],
+    "related": [
+      { "en": "reminisce", "ja": "懐かしく思い出す" },
+      { "en": "evocative", "ja": "（記憶を）呼び起こす" },
+      { "en": "redolent", "ja": "〜を思わせる" },
+      { "en": "similar", "ja": "似た" }
+    ],
+    "faq": [
+      { "q": "reminiscent of とは？", "a": "『〜を思い起こさせる・〜を連想させる・〜に似た』という意味です。reminiscent of the 1980s（1980年代を思わせる）のように使います。" },
+      { "q": "reminiscent と reminisce の違いは？", "a": "reminisce は動詞『（昔を）懐かしく思い出す』、reminiscent は形容詞『（〜を）思い起こさせる』です。" }
+    ],
+    "quiz": [
+      { "q": "The smell was ___ of my grandmother's kitchen.（思い起こさせた）", "A": "reminiscent", "B": "reluctant の気が進まない", "C": "resilient", "D": "respective", "correct": "A" },
+      { "q": "reminiscent のあとに続く前置詞は？", "A": "of", "B": "to", "C": "for", "D": "at", "correct": "A" }
+    ]
+  },
+  {
+    "english": "repugnant",
+    "pron": "rɪˈpʌɡnənt",
+    "kana": "リパグナント",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 repugnare（反抗する・相いれない）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "形容詞"],
+    "meaning_main": "（道徳的に）非常に不快な・嫌悪を催す・相いれない",
+    "description": "repugnant の意味・発音・例文・語源を解説。道徳的に「ぞっとするほど不快な・受け入れがたい」様子の使い方を分かりやすく紹介します。",
+    "keywords": ["repugnant 意味", "repugnant 発音", "repugnant to 使い方", "repugnant 嫌悪"],
+    "meanings": [
+      { "hinshi": "【形容詞】（道徳的に）非常に不快な・嫌悪を催す", "note": "ぞっとするほどいやな。morally repugnant（道徳的に許せない）。" },
+      { "hinshi": "【形容詞】(repugnant to) 〜と相いれない", "note": "考え・原則に反する。" }
+    ],
+    "usages": [
+      { "title": "① 「非常に不快な・嫌悪を催す」として", "desc": "道徳的にぞっとするほどいやな様子を表します。", "example_en": "The idea of cruelty is repugnant to most people.", "example_ja": "残酷さという考えは大半の人にとって嫌悪を催すものだ。" },
+      { "title": "② repugnant to（〜と相いれない）として", "desc": "原則や考えに反する意味です。", "example_en": "Such laws are repugnant to human rights.", "example_ja": "そのような法律は人権と相いれない。" }
+    ],
+    "warn": [
+      "repugnant は『（道徳的に）非常に不快な・受け入れがたい』という強い語。repulsive（胸が悪くなる）に近い。",
+      "「〜と相いれない」は repugnant to。pugn-（戦う）は pugnacious と同じ語源。"
+    ],
+    "etym_note": "ラテン語 repugnare（re-「逆に」＋ pugnare「戦う」＝反抗する・相いれない）に由来します。pugnacious（けんか好きな）と同じ pugn-（戦う・こぶし）の語根です。",
+    "etym_chain": [
+      { "node": "repugnare", "sub": "反抗する・相いれない", "era": "ラテン語" },
+      { "node": "repugnant", "sub": "相いれない", "era": "中英語" },
+      { "node": "repugnant", "sub": "非常に不快な・相いれない", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "morally repugnant", "ja": "道徳的に許せない" },
+      { "en": "repugnant to", "ja": "〜と相いれない" },
+      { "en": "find it repugnant", "ja": "それを嫌悪する" },
+      { "en": "deeply repugnant", "ja": "ひどく不快な" },
+      { "en": "a repugnant idea", "ja": "嫌悪を催す考え" },
+      { "en": "repugnance", "ja": "嫌悪・反感" }
+    ],
+    "related": [
+      { "en": "repulsive", "ja": "胸が悪くなる" },
+      { "en": "disgusting", "ja": "胸の悪くなる" },
+      { "en": "abhorrent", "ja": "忌まわしい" },
+      { "en": "appealing", "ja": "魅力的な（反対概念）" }
+    ],
+    "faq": [
+      { "q": "repugnant とはどんな意味？", "a": "『（道徳的に）非常に不快な・嫌悪を催す・受け入れがたい』という強い語です。また repugnant to で『〜と相いれない』を表します。" },
+      { "q": "repugnant の名詞形は？", "a": "repugnance（嫌悪・反感）です。" }
+    ],
+    "quiz": [
+      { "q": "The idea of cruelty is ___ to most people.（嫌悪を催す）", "A": "repugnant", "B": "reluctant の気が進まない", "C": "redundant", "D": "resilient", "correct": "A" },
+      { "q": "repugnant と最も意味が近いのはどれ？", "A": "repulsive（胸が悪くなる）", "B": "appealing（魅力的な）", "C": "pleasant（快い）", "D": "attractive（魅力的な）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "resolute",
+    "pron": "ˈrezəluːt",
+    "kana": "レゾルート",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 resolutus（決意した）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "形容詞"],
+    "meaning_main": "断固とした・固い決意の・揺るがない",
+    "description": "resolute の意味・発音・例文・語源を解説。困難にも「断固として揺るがない」決意の強さを表す使い方や、resolve との関係も紹介します。",
+    "keywords": ["resolute 意味", "resolute 発音", "resolve 関係", "resolute 断固"],
+    "meanings": [
+      { "hinshi": "【形容詞】断固とした・固い決意の・揺るがない", "note": "目的に向かって決意が固い。a resolute leader（断固とした指導者）。" }
+    ],
+    "usages": [
+      { "title": "① 「断固とした・揺るがない」として", "desc": "強い決意で迷わない様子を表します。", "example_en": "She remained resolute in the face of opposition.", "example_ja": "彼女は反対に直面しても断固たる態度を保った。" },
+      { "title": "② 決意の強さとして", "desc": "目的に向かう固い意志を表します。", "example_en": "He was resolute in his determination to win.", "example_ja": "彼は勝つという固い決意を持っていた。" }
+    ],
+    "warn": [
+      "resolute は『（決意が）固く揺るがない』。動詞 resolve（決意する・解決する）の形容詞。",
+      "副詞は resolutely（断固として）。反対は irresolute（優柔不断な）。"
+    ],
+    "etym_note": "ラテン語 resolutus（resolvere「解きほぐす・決心する」の過去分詞＝決意した）に由来します。resolve・solution と同じ solv-（解く）の語根です。",
+    "etym_chain": [
+      { "node": "resolutus", "sub": "決意した", "era": "ラテン語" },
+      { "node": "resolute", "sub": "断固とした", "era": "中英語" },
+      { "node": "resolute", "sub": "断固とした・揺るがない", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "remain resolute", "ja": "断固たる態度を保つ" },
+      { "en": "a resolute leader", "ja": "断固とした指導者" },
+      { "en": "resolute determination", "ja": "固い決意" },
+      { "en": "stand resolute", "ja": "揺るがず立つ" },
+      { "en": "resolutely", "ja": "断固として" },
+      { "en": "resolute in", "ja": "〜について揺るがない" }
+    ],
+    "related": [
+      { "en": "resolve", "ja": "決意する・決意" },
+      { "en": "determined", "ja": "決意の固い" },
+      { "en": "steadfast", "ja": "不動の" },
+      { "en": "irresolute", "ja": "優柔不断な（反対語）" }
+    ],
+    "faq": [
+      { "q": "resolute とはどんな意味？", "a": "『（決意が）固く揺るがない・断固とした』という意味です。remain resolute（断固たる態度を保つ）のように使います。" },
+      { "q": "resolute の反対語は？", "a": "irresolute（優柔不断な・決断できない）です。" }
+    ],
+    "quiz": [
+      { "q": "She remained ___ in the face of opposition.（断固とした）", "A": "resolute", "B": "reluctant の気が進まない", "C": "resilient の打たれ強い", "D": "redundant", "correct": "A" },
+      { "q": "resolute の動詞形（決意する）はどれ？", "A": "resolve", "B": "reserve", "C": "reside", "D": "resort", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rudimentary",
+    "pron": "ˌruːdɪˈmentəri",
+    "kana": "ルーディメンタリー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 rudimentum（初歩・未熟）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "形容詞"],
+    "meaning_main": "初歩的な・基本的な・未発達の",
+    "description": "rudimentary の意味・発音・例文・語源を解説。「ごく初歩的な・基本だけの・未発達の」様子を表す使い方を分かりやすく紹介します。",
+    "keywords": ["rudimentary 意味", "rudimentary 発音", "rudimentary knowledge 意味", "rudimentary 初歩的"],
+    "meanings": [
+      { "hinshi": "【形容詞】初歩的な・基本的な・最低限の", "note": "ごく基本だけの。rudimentary knowledge（初歩的な知識）。" },
+      { "hinshi": "【形容詞】（生物学）未発達の・痕跡的な", "note": "発達しきっていない器官など。" }
+    ],
+    "usages": [
+      { "title": "① 「初歩的な・基本だけの」として", "desc": "ごく基本的で発達していない様子を表します。", "example_en": "He has only a rudimentary knowledge of French.", "example_ja": "彼はフランス語の初歩的な知識しかない。" },
+      { "title": "② 「未発達の」として", "desc": "十分に発達していない様子を表します。", "example_en": "The device has only rudimentary features.", "example_ja": "その装置には基本的な機能しかない。" }
+    ],
+    "warn": [
+      "rudimentary は『ごく初歩的な・基本だけの』。basic より『未発達・不十分』のニュアンスが強い。",
+      "rude（粗野な）と同じ rud-（未加工の）の語源。"
+    ],
+    "etym_note": "ラテン語 rudimentum（初歩・手始め。rudis「未加工の・未熟な」から）に由来します。rude（粗野な）と同じ rud-（未加工）の語根です。",
+    "etym_chain": [
+      { "node": "rudis", "sub": "未加工の・未熟な", "era": "ラテン語" },
+      { "node": "rudimentum", "sub": "初歩・未熟", "era": "ラテン語" },
+      { "node": "rudimentary", "sub": "初歩的な・未発達の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rudimentary knowledge", "ja": "初歩的な知識" },
+      { "en": "rudimentary skills", "ja": "基本的な技能" },
+      { "en": "a rudimentary understanding", "ja": "初歩的な理解" },
+      { "en": "rudimentary equipment", "ja": "簡素な設備" },
+      { "en": "only rudimentary", "ja": "ごく基本だけの" },
+      { "en": "rudimentary features", "ja": "最低限の機能" }
+    ],
+    "related": [
+      { "en": "basic", "ja": "基本的な" },
+      { "en": "elementary", "ja": "初歩の" },
+      { "en": "primitive", "ja": "原始的な" },
+      { "en": "advanced", "ja": "高度な（反対語）" }
+    ],
+    "faq": [
+      { "q": "rudimentary とはどんな意味？", "a": "『ごく初歩的な・基本だけの・未発達の』という意味です。rudimentary knowledge（初歩的な知識）のように使います。" },
+      { "q": "rudimentary と basic の違いは？", "a": "どちらも『基本的な』ですが、rudimentary は『（最低限で）未発達・不十分』というニュアンスがやや強いです。" }
+    ],
+    "quiz": [
+      { "q": "He has only a ___ knowledge of French.（初歩的な）", "A": "rudimentary", "B": "ridiculous の ばかげた", "C": "rigorous", "D": "resilient", "correct": "A" },
+      { "q": "rudimentary の反対語はどれ？", "A": "advanced（高度な）", "B": "basic（基本的な）", "C": "elementary（初歩の）", "D": "simple（単純な）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rotund",
+    "pron": "roʊˈtʌnd",
+    "kana": "ロウタンド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 rotundus（丸い）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "形容詞"],
+    "meaning_main": "丸々と太った・ふくよかな／（声が）朗々とした",
+    "description": "rotund の意味・発音・例文・語源を解説。「丸々と太った・ふくよかな」体型や、朗々とした声を表す使い方を分かりやすく紹介します。",
+    "keywords": ["rotund 意味", "rotund 発音", "round 関係", "rotund ふくよか"],
+    "meanings": [
+      { "hinshi": "【形容詞】丸々と太った・ふくよかな", "note": "（やや遠回しに）まるまる太った。a rotund man（ふくよかな男性）。" },
+      { "hinshi": "【形容詞】（声が）朗々とした・豊かに響く", "note": "a rotund voice（朗々とした声）。" }
+    ],
+    "usages": [
+      { "title": "① 「丸々と太った・ふくよかな」として", "desc": "まるまるとした体型を表します（婉曲的）。", "example_en": "A rotund little man greeted us.", "example_ja": "丸々とした小柄な男性が私たちを迎えた。" },
+      { "title": "② 「（声が）朗々とした」として", "desc": "豊かに響く声を表します。", "example_en": "He spoke in a rotund voice.", "example_ja": "彼は朗々とした声で話した。" }
+    ],
+    "warn": [
+      "rotund は『丸々と太った』をやや上品・婉曲に言う語。round（丸い）・rotate（回る）と同じ rot-（丸い）の語源。",
+      "発音は /roʊˈtʌnd/「ロウタンド」で後ろにアクセント。"
+    ],
+    "etym_note": "ラテン語 rotundus（丸い。rota「車輪」から）に由来します。round・rotate・rotor と同じ rot-（丸い・回る）の語根です。",
+    "etym_chain": [
+      { "node": "rota", "sub": "車輪", "era": "ラテン語" },
+      { "node": "rotundus", "sub": "丸い", "era": "ラテン語" },
+      { "node": "rotund", "sub": "丸々と太った", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rotund man", "ja": "ふくよかな男性" },
+      { "en": "a rotund figure", "ja": "丸々とした体型" },
+      { "en": "a rotund belly", "ja": "丸いお腹" },
+      { "en": "a rotund voice", "ja": "朗々とした声" },
+      { "en": "short and rotund", "ja": "背が低くて丸々とした" },
+      { "en": "a rotund face", "ja": "丸顔" }
+    ],
+    "related": [
+      { "en": "round", "ja": "丸い" },
+      { "en": "plump", "ja": "ぽっちゃりした" },
+      { "en": "chubby", "ja": "丸ぽちゃの" },
+      { "en": "slim", "ja": "ほっそりした（反対語）" }
+    ],
+    "faq": [
+      { "q": "rotund とはどんな意味？", "a": "『丸々と太った・ふくよかな』をやや上品・婉曲に言う語です。また『（声が）朗々とした』の意味もあります。" },
+      { "q": "rotund と round は関係ある？", "a": "はい。どちらもラテン語 rotundus（丸い）に由来します。round は『丸い』、rotund は『丸々と太った』です。" }
+    ],
+    "quiz": [
+      { "q": "A ___ little man greeted us.（丸々とした）", "A": "rotund", "B": "rotten の腐った", "C": "rigid", "D": "rural", "correct": "A" },
+      { "q": "rotund と同じ語源（丸い）の語はどれ？", "A": "round", "B": "river", "C": "ribbon", "D": "ripple", "correct": "A" }
+    ]
+  }
+]

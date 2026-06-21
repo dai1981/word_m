@@ -1,0 +1,529 @@
+[
+  {
+    "english": "ringlet",
+    "pron": "ˈrɪŋlɪt",
+    "kana": "リングレット",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ring（輪）＋ -let（小さいもの）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "描写"],
+    "meaning_main": "巻き毛・カール（らせん状の髪）／小さな輪",
+    "description": "ringlet の意味・発音・例文・語源を解説。らせん状に垂れた「巻き毛・カール」や「小さな輪」を指す描写語の使い方を分かりやすく紹介します。",
+    "keywords": ["ringlet 意味", "ringlet 発音", "ringlet 巻き毛", "ringlet カール"],
+    "meanings": [
+      { "hinshi": "【名詞】巻き毛・カール", "note": "らせん状に巻いて垂れた髪のふさ。ふつう複数形 ringlets で使う。" },
+      { "hinshi": "【名詞】小さな輪", "note": "ring の指小形で、小さな円・輪を指すこともある。" }
+    ],
+    "usages": [
+      { "title": "① 「巻き毛・カール」として", "desc": "らせん状に垂れた髪のふさを表します。", "example_en": "The girl had golden ringlets.", "example_ja": "その女の子は金色の巻き毛をしていた。" },
+      { "title": "② 「小さな輪」として", "desc": "小さな円や輪を指すことがあります。", "example_en": "Smoke rose in tiny ringlets.", "example_ja": "煙が小さな輪になって立ちのぼった。" }
+    ],
+    "warn": [
+      "ringlet は『らせん状の巻き毛』。ふつう複数形 ringlets で使うことが多い。",
+      "-let は『小さい』を表す接尾辞（booklet 小冊子, piglet 子豚 と同じ）。"
+    ],
+    "etym_note": "ring（輪）に「小さいもの」を表す接尾辞 -let が付いた語で、「小さな輪→らせん状の巻き毛」を意味します。ring は古英語 hring（輪）に由来します。",
+    "etym_chain": [
+      { "node": "hring", "sub": "輪", "era": "古英語" },
+      { "node": "ring + -let", "sub": "小さな輪", "era": "近代英語" },
+      { "node": "ringlet", "sub": "巻き毛・小さな輪", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "golden ringlets", "ja": "金色の巻き毛" },
+      { "en": "soft ringlets", "ja": "やわらかなカール" },
+      { "en": "a mass of ringlets", "ja": "たっぷりの巻き毛" },
+      { "en": "curl into ringlets", "ja": "巻き毛になる" },
+      { "en": "blonde ringlets", "ja": "ブロンドの巻き毛" },
+      { "en": "ringlets of hair", "ja": "髪の巻き毛" }
+    ],
+    "related": [
+      { "en": "curl", "ja": "カール・巻き毛" },
+      { "en": "lock", "ja": "髪のふさ" },
+      { "en": "coil", "ja": "らせん・とぐろ" },
+      { "en": "wave", "ja": "ウエーブ" }
+    ],
+    "faq": [
+      { "q": "ringlet とはどんな意味？", "a": "らせん状に巻いて垂れた『巻き毛・カール』のことです。ふつう複数形 ringlets で使い、golden ringlets（金色の巻き毛）のように表します。" },
+      { "q": "ringlet の -let は何？", "a": "『小さいもの』を表す接尾辞です。booklet（小冊子）や piglet（子豚）と同じで、ringlet は『小さな輪』が原義です。" }
+    ],
+    "quiz": [
+      { "q": "The girl had golden ___s.（巻き毛）", "A": "ringlet", "B": "ripple のさざ波", "C": "rivet のリベット", "D": "rattle の音", "correct": "A" },
+      { "q": "接尾辞 -let の意味はどれ？", "A": "小さいもの", "B": "大きいもの", "C": "速いもの", "D": "古いもの", "correct": "A" }
+    ]
+  },
+  {
+    "english": "riptide",
+    "pron": "ˈrɪptaɪd",
+    "kana": "リップタイド",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rip（引き裂く）＋ tide（潮）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "自然・防災"],
+    "meaning_main": "離岸流・激しい引き潮（沖へ引く強い流れ）",
+    "description": "riptide の意味・発音・例文・語源を解説。海岸から沖へ強く引く危険な流れ「離岸流」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["riptide 意味", "riptide 発音", "riptide 離岸流", "riptide 引き潮"],
+    "meanings": [
+      { "hinshi": "【名詞】離岸流・激しい引き潮", "note": "岸から沖へ向かう強い海流。泳ぐ人を沖へ流す危険なもの。rip current ともいう。" }
+    ],
+    "usages": [
+      { "title": "① 「離岸流」として", "desc": "岸から沖へ引く危険な海流を指します。", "example_en": "Swimmers were warned about the dangerous riptide.", "example_ja": "泳ぐ人たちは危険な離岸流について警告された。" },
+      { "title": "② 比喩「激しい流れ」として", "desc": "抗いがたい強い流れのたとえにも使います。", "example_en": "He was caught in a riptide of emotions.", "example_ja": "彼は激しい感情の渦に飲み込まれた。" }
+    ],
+    "warn": [
+      "riptide は『岸から沖へ引く強い流れ（離岸流）』。専門的には rip current ともいう。",
+      "離岸流に流されたら岸に向かわず、岸と平行に泳いで抜け出すのが正しい対処。"
+    ],
+    "etym_note": "rip（引き裂く・激しく流れる）＋ tide（潮の満ち引き）から成る語です。「潮を引き裂くように沖へ走る流れ」を表し、海の危険を指す言葉として使われます。",
+    "etym_chain": [
+      { "node": "rip + tide", "sub": "引き裂く＋潮", "era": "近代英語" },
+      { "node": "riptide", "sub": "激しい引き潮", "era": "近代英語" },
+      { "node": "riptide", "sub": "離岸流", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a dangerous riptide", "ja": "危険な離岸流" },
+      { "en": "caught in a riptide", "ja": "離岸流に巻き込まれて" },
+      { "en": "a strong riptide", "ja": "強い離岸流" },
+      { "en": "swept out by a riptide", "ja": "離岸流に沖へ流される" },
+      { "en": "riptide warning", "ja": "離岸流の警告" },
+      { "en": "escape the riptide", "ja": "離岸流から抜け出す" }
+    ],
+    "related": [
+      { "en": "rip current", "ja": "離岸流" },
+      { "en": "current", "ja": "海流・流れ" },
+      { "en": "tide", "ja": "潮の満ち引き" },
+      { "en": "undertow", "ja": "引き波・逆流" }
+    ],
+    "faq": [
+      { "q": "riptide とはどんな意味？", "a": "海岸から沖へ向かって強く引く危険な海流『離岸流』のことです。泳ぐ人を沖へ流すため、海水浴での注意が必要です。" },
+      { "q": "riptide に流されたらどうする？", "a": "岸に向かって泳ぐと流れに逆らって疲れてしまいます。岸と平行に泳いで流れから外れてから岸に向かうのが安全です。" }
+    ],
+    "quiz": [
+      { "q": "Swimmers were warned about the dangerous ___.（離岸流）", "A": "riptide", "B": "ripple のさざ波", "C": "rivulet の小川", "D": "rainfall の降雨", "correct": "A" },
+      { "q": "riptide と同じ意味なのは？", "A": "rip current（離岸流）", "B": "high tide（満潮）", "C": "low tide（干潮）", "D": "tidal wave（高波）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rosette",
+    "pron": "roʊˈzet",
+    "kana": "ロウゼット",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 rosette（小さなばら）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "デザイン"],
+    "meaning_main": "ばら形の飾り・花形リボン（章）／（植物）ロゼット状の葉",
+    "description": "rosette の意味・発音・例文・語源を解説。ばらの花をかたどった「花形の飾り・リボン章」や、放射状に広がる「ロゼット状の葉」の使い方を紹介します。",
+    "keywords": ["rosette 意味", "rosette 発音", "rosette 花形", "rosette ロゼット"],
+    "meanings": [
+      { "hinshi": "【名詞】ばら形の飾り・花形リボン（章）", "note": "受賞や所属を示す花形のリボン記章。建築や装飾の花形模様にも使う。" },
+      { "hinshi": "【名詞】（植物）ロゼット状の葉", "note": "地面近くで放射状に広がる葉の配置。タンポポなどに見られる。" }
+    ],
+    "usages": [
+      { "title": "① 「花形リボン（章）」として", "desc": "受賞や所属を示す花形の飾りです。", "example_en": "The winning horse wore a blue rosette.", "example_ja": "優勝した馬は青い花形リボンを着けていた。" },
+      { "title": "② 「ロゼット状の葉」として", "desc": "放射状に広がる葉の配置を指します。", "example_en": "The plant forms a rosette of leaves at the base.", "example_ja": "その植物は根元で放射状に葉を広げる。" }
+    ],
+    "warn": [
+      "rosette は『ばらの花をかたどった飾り』が原義。リボン章・装飾模様・葉の配置と幅広く使う。",
+      "発音は『ロウゼット（roʊˈzet）』で後ろにアクセント。"
+    ],
+    "etym_note": "フランス語 rosette（rose「ばら」＋ -ette「小さい」＝小さなばら）に由来します。ばらの花の形をまねた飾りや模様を指す語として広まりました。",
+    "etym_chain": [
+      { "node": "rosa", "sub": "ばら", "era": "ラテン語" },
+      { "node": "rosette", "sub": "小さなばら", "era": "フランス語" },
+      { "node": "rosette", "sub": "花形の飾り", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a blue rosette", "ja": "青い花形リボン" },
+      { "en": "win a rosette", "ja": "花形リボン章をもらう" },
+      { "en": "a ribbon rosette", "ja": "リボンの花飾り" },
+      { "en": "a rosette of leaves", "ja": "ロゼット状の葉" },
+      { "en": "a decorative rosette", "ja": "装飾用の花形模様" },
+      { "en": "pin on a rosette", "ja": "花形章を留める" }
+    ],
+    "related": [
+      { "en": "ribbon", "ja": "リボン" },
+      { "en": "badge", "ja": "記章" },
+      { "en": "ornament", "ja": "装飾" },
+      { "en": "medallion", "ja": "円形装飾" }
+    ],
+    "faq": [
+      { "q": "rosette とはどんな意味？", "a": "ばらの花をかたどった『花形の飾り・リボン章』のことです。品評会の受賞リボンや装飾模様、また放射状に広がる『ロゼット状の葉』も指します。" },
+      { "q": "rosette の語源は？", "a": "フランス語 rosette（小さなばら）です。rose（ばら）＋ -ette（小さい）から成り、ばらの花の形をまねた飾りを意味します。" }
+    ],
+    "quiz": [
+      { "q": "The winning horse wore a blue ___.（花形リボン）", "A": "rosette", "B": "rosary のロザリオ", "C": "roster の名簿", "D": "rocket のロケット", "correct": "A" },
+      { "q": "rosette の語源の意味はどれ？", "A": "小さなばら", "B": "小さな道", "C": "小さな石", "D": "小さな川", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rigmarole",
+    "pron": "ˈrɪɡməroʊl",
+    "kana": "リグマロウル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ragman roll（長い文書）のなまり",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "口語"],
+    "meaning_main": "込み入って面倒な手続き・お決まりの長たらしい話",
+    "description": "rigmarole の意味・発音・例文・語源を解説。やたら面倒で込み入った「手続き」や、だらだらと続く「長話」を表す口語の使い方を紹介します。",
+    "keywords": ["rigmarole 意味", "rigmarole 発音", "rigmarole 面倒な手続き", "rigmarole 長話"],
+    "meanings": [
+      { "hinshi": "【名詞】込み入って面倒な手続き・段取り", "note": "やたら複雑で時間のかかる手間。the whole rigmarole（一連の面倒な手続き）。" },
+      { "hinshi": "【名詞】だらだら続く長たらしい話", "note": "要領を得ない冗長な話。" }
+    ],
+    "usages": [
+      { "title": "① 「面倒な手続き」として", "desc": "やたら込み入った手間を表します。", "example_en": "I had to go through the whole rigmarole of renewing my visa.", "example_ja": "ビザ更新の一連の面倒な手続きをこなさねばならなかった。" },
+      { "title": "② 「長たらしい話」として", "desc": "だらだら続く冗長な話を表します。", "example_en": "He gave me a long rigmarole about why he was late.", "example_ja": "彼は遅刻の理由をだらだらと長々と並べ立てた。" }
+    ],
+    "warn": [
+      "rigmarole は『無駄に複雑で面倒な手続き・段取り』を表す口語。否定的なニュアンス。",
+      "発音は『リグマロウル（ˈrɪɡməroʊl）』。つづりが難しいので注意。"
+    ],
+    "etym_note": "中世の長い名簿文書 ragman roll（ラグマン・ロール）がなまってできた語といわれます。だらだらと長い巻物のイメージから、「面倒で長たらしいもの」を指すようになりました。",
+    "etym_chain": [
+      { "node": "ragman roll", "sub": "長い名簿文書", "era": "中英語" },
+      { "node": "rigmarole", "sub": "長たらしいもの", "era": "近代英語" },
+      { "node": "rigmarole", "sub": "面倒な手続き・長話", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the whole rigmarole", "ja": "一連の面倒な手続き" },
+      { "en": "go through the rigmarole", "ja": "面倒な手続きをこなす" },
+      { "en": "a long rigmarole", "ja": "長たらしい話" },
+      { "en": "all that rigmarole", "ja": "あの面倒なあれこれ" },
+      { "en": "skip the rigmarole", "ja": "面倒な手続きを省く" },
+      { "en": "a bureaucratic rigmarole", "ja": "お役所的な煩雑な手続き" }
+    ],
+    "related": [
+      { "en": "hassle", "ja": "面倒・手間" },
+      { "en": "red tape", "ja": "お役所仕事・煩雑な手続き" },
+      { "en": "palaver", "ja": "むだ話・面倒" },
+      { "en": "procedure", "ja": "手続き" }
+    ],
+    "faq": [
+      { "q": "rigmarole とはどんな意味？", "a": "無駄に複雑で面倒な『手続き・段取り』、またはだらだら続く『長たらしい話』を表す口語です。うんざりした気持ちを込めて使います。" },
+      { "q": "rigmarole と red tape の違いは？", "a": "red tape は特に『お役所的な煩雑な規則・手続き』、rigmarole はより広く『面倒で込み入ったあれこれ』全般を指します。" }
+    ],
+    "quiz": [
+      { "q": "I had to go through the whole ___ of renewing my visa.（面倒な手続き）", "A": "rigmarole", "B": "ringlet の巻き毛", "C": "rigor の厳しさ", "D": "riddle のなぞなぞ", "correct": "A" },
+      { "q": "rigmarole に近い意味はどれ？", "A": "red tape（煩雑な手続き）", "B": "shortcut（近道）", "C": "holiday（休日）", "D": "reward（報酬）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reshuffle",
+    "pron": "riːˈʃʌfəl",
+    "kana": "リシャッフル",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ shuffle（混ぜる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "ニュース"],
+    "meaning_main": "（人員・組織を）再編する／（内閣などの）改造・入れ替え",
+    "description": "reshuffle の意味・発音・例文・語源を解説。内閣や組織の役職を「入れ替え再編する」というニュースでよく使う語の使い方を紹介します。",
+    "keywords": ["reshuffle 意味", "reshuffle 発音", "reshuffle 内閣改造", "reshuffle 再編"],
+    "meanings": [
+      { "hinshi": "【動詞】（人員・組織を）再編する・入れ替える", "note": "役職や配置をまとめて組み替える。reshuffle the cabinet（内閣を改造する）。" },
+      { "hinshi": "【名詞】（組織の）改造・人事の入れ替え", "note": "a cabinet reshuffle（内閣改造）。" }
+    ],
+    "usages": [
+      { "title": "① 「（組織を）再編する」として", "desc": "役職や配置をまとめて組み替える意味です。", "example_en": "The prime minister reshuffled his cabinet.", "example_ja": "首相は内閣を改造した。" },
+      { "title": "② 名詞「人事の入れ替え」として", "desc": "組織の改造そのものを指します。", "example_en": "A major reshuffle is expected next week.", "example_ja": "来週、大規模な人事の入れ替えが見込まれる。" }
+    ],
+    "warn": [
+      "reshuffle は特に『内閣・経営陣などの人事を組み替える』ニュースで頻出。a cabinet reshuffle（内閣改造）。",
+      "shuffle（カードを切る・混ぜる）が語源。『切り直す＝配置し直す』イメージ。"
+    ],
+    "etym_note": "re-（再び）＋ shuffle（カードを混ぜる・足を引きずって動かす）から成り、「もう一度切り直す＝配置を組み替える」が原義です。トランプを切り直すイメージから人事の入れ替えへ広がりました。",
+    "etym_chain": [
+      { "node": "shuffle", "sub": "混ぜる・切る", "era": "近代英語" },
+      { "node": "reshuffle", "sub": "切り直す", "era": "近代英語" },
+      { "node": "reshuffle", "sub": "人事を再編する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "cabinet reshuffle", "ja": "内閣改造" },
+      { "en": "reshuffle the team", "ja": "チームを再編する" },
+      { "en": "a major reshuffle", "ja": "大規模な人事入れ替え" },
+      { "en": "reshuffle the deck", "ja": "（カードを）切り直す・編成し直す" },
+      { "en": "a management reshuffle", "ja": "経営陣の刷新" },
+      { "en": "undergo a reshuffle", "ja": "再編される" }
+    ],
+    "related": [
+      { "en": "reorganize", "ja": "再編成する" },
+      { "en": "rearrange", "ja": "並べ替える" },
+      { "en": "shake-up", "ja": "（組織の）大改革" },
+      { "en": "shuffle", "ja": "混ぜる・切る" }
+    ],
+    "faq": [
+      { "q": "reshuffle とはどんな意味？", "a": "組織や役職の人員を『まとめて入れ替え再編する』ことです。特に a cabinet reshuffle（内閣改造）のようにニュースでよく使われます。" },
+      { "q": "reshuffle と reorganize の違いは？", "a": "reorganize は『組織の仕組み全体を作り直す』、reshuffle は特に『人の配置・役職を組み替える』ことに重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The prime minister ___d his cabinet.（改造した）", "A": "reshuffle", "B": "resemble の似ている", "C": "resume の再開する", "D": "reserve の予約する", "correct": "A" },
+      { "q": "cabinet reshuffle の意味はどれ？", "A": "内閣改造", "B": "国会の解散", "C": "予算の編成", "D": "選挙の実施", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reroute",
+    "pron": "riːˈruːt",
+    "kana": "リルート",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ route（経路）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "交通・IT"],
+    "meaning_main": "（経路を）変更する・迂回させる・別ルートで送る",
+    "description": "reroute の意味・発音・例文・語源を解説。交通や通信の「経路を変更する・迂回させる」という実用的な語の使い方を分かりやすく紹介します。",
+    "keywords": ["reroute 意味", "reroute 発音", "reroute 迂回", "reroute 経路変更"],
+    "meanings": [
+      { "hinshi": "【動詞】（経路を）変更する・迂回させる", "note": "車・飛行機・荷物・通信などを別の道筋に回すこと。" }
+    ],
+    "usages": [
+      { "title": "① 交通の「迂回させる」として", "desc": "車や便を別の道筋に回す意味です。", "example_en": "Traffic was rerouted around the accident.", "example_ja": "車は事故現場を避けて迂回させられた。" },
+      { "title": "② 通信・物流の「別経路で送る」として", "desc": "データや荷物を別ルートで回す意味です。", "example_en": "The flight was rerouted due to the storm.", "example_ja": "その便は嵐のため経路を変更された。" }
+    ],
+    "warn": [
+      "reroute は『経路を別の道筋に変える・迂回させる』。交通・物流・通信で広く使う。",
+      "発音は『リルート（riːˈruːt）』。route は『ルート／ラウト』どちらの発音もある。"
+    ],
+    "etym_note": "re-（再び）＋ route（経路・道筋）から成り、「経路を取り直す＝別の道に回す」が原義です。route は古フランス語 rute（道）に由来し、ラテン語 rupta via（切り開かれた道）から来ています。",
+    "etym_chain": [
+      { "node": "rupta via", "sub": "切り開かれた道", "era": "ラテン語" },
+      { "node": "route", "sub": "経路・道筋", "era": "古フランス語" },
+      { "node": "reroute", "sub": "経路を変更する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reroute traffic", "ja": "交通を迂回させる" },
+      { "en": "reroute the flight", "ja": "便の経路を変更する" },
+      { "en": "be rerouted around", "ja": "〜を避けて迂回させられる" },
+      { "en": "reroute the data", "ja": "データを別経路で送る" },
+      { "en": "reroute a shipment", "ja": "荷物の経路を変える" },
+      { "en": "reroute the call", "ja": "通話を転送する" }
+    ],
+    "related": [
+      { "en": "detour", "ja": "迂回（路）" },
+      { "en": "divert", "ja": "そらす・迂回させる" },
+      { "en": "redirect", "ja": "向け直す" },
+      { "en": "route", "ja": "経路" }
+    ],
+    "faq": [
+      { "q": "reroute とはどんな意味？", "a": "車・飛行機・荷物・通信などの『経路を変更する・迂回させる』という動詞です。Traffic was rerouted.（交通が迂回させられた）のように使います。" },
+      { "q": "reroute と detour の違いは？", "a": "reroute は『経路を変える』という動詞、detour は『迂回路・遠回り』という名詞（または迂回する動詞）です。" }
+    ],
+    "quiz": [
+      { "q": "Traffic was ___d around the accident.（迂回させる）", "A": "reroute", "B": "reduce の減らす", "C": "remove の取り除く", "D": "review の見直す", "correct": "A" },
+      { "q": "reroute に近い意味はどれ？", "A": "divert（迂回させる）", "B": "arrive（到着する）", "C": "depart（出発する）", "D": "park（駐車する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "restock",
+    "pron": "riːˈstɑːk",
+    "kana": "リストック",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ stock（在庫）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "ビジネス"],
+    "meaning_main": "（在庫・品ぞろえを）補充する・仕入れ直す",
+    "description": "restock の意味・発音・例文・語源を解説。売れて減った商品を「補充する・仕入れ直す」という店舗・ビジネスでよく使う語の使い方を紹介します。",
+    "keywords": ["restock 意味", "restock 発音", "restock 補充", "restock 在庫"],
+    "meanings": [
+      { "hinshi": "【動詞】（在庫を）補充する・仕入れ直す", "note": "売れて減った商品を再びそろえる。restock the shelves（棚に品を補充する）。" },
+      { "hinshi": "【動詞】（川・池に）魚を放流して増やす", "note": "restock the lake with fish（湖に魚を放流する）。" }
+    ],
+    "usages": [
+      { "title": "① 「在庫を補充する」として", "desc": "減った商品を再びそろえる意味です。", "example_en": "The staff restocked the shelves overnight.", "example_ja": "店員は夜の間に棚の商品を補充した。" },
+      { "title": "② 「魚を放流して増やす」として", "desc": "川や池に魚を補充する意味です。", "example_en": "They restocked the river with trout.", "example_ja": "彼らは川にマスを放流して増やした。" }
+    ],
+    "warn": [
+      "restock は『減った在庫を補充する・仕入れ直す』。商品が売り切れ後に again in stock になること。",
+      "out of stock（在庫切れ）⇔ restock（補充する）で覚えると便利。"
+    ],
+    "etym_note": "re-（再び）＋ stock（蓄え・在庫）から成り、「在庫をもう一度満たす」が原義です。stock は古英語 stocc（幹・切り株）に由来し、「蓄え・元手」の意味に発展しました。",
+    "etym_chain": [
+      { "node": "stocc", "sub": "幹・切り株", "era": "古英語" },
+      { "node": "stock", "sub": "蓄え・在庫", "era": "中英語" },
+      { "node": "restock", "sub": "在庫を補充する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "restock the shelves", "ja": "棚に品を補充する" },
+      { "en": "restock supplies", "ja": "備品を補充する" },
+      { "en": "restock inventory", "ja": "在庫を補充する" },
+      { "en": "be restocked soon", "ja": "まもなく再入荷する" },
+      { "en": "restock the fridge", "ja": "冷蔵庫を補充する" },
+      { "en": "restock the river", "ja": "川に放流する" }
+    ],
+    "related": [
+      { "en": "replenish", "ja": "補充する" },
+      { "en": "refill", "ja": "詰め替える" },
+      { "en": "stock", "ja": "在庫・仕入れる" },
+      { "en": "supply", "ja": "供給する" }
+    ],
+    "faq": [
+      { "q": "restock とはどんな意味？", "a": "売れて減った商品や備品を『再びそろえる・補充する・仕入れ直す』という動詞です。restock the shelves（棚に品を補充する）のように使います。" },
+      { "q": "restock と replenish の違いは？", "a": "意味はほぼ同じで『補充する』です。restock は店の在庫・商品によく、replenish はやや改まった語で資源・蓄え全般に使います。" }
+    ],
+    "quiz": [
+      { "q": "The staff ___ed the shelves overnight.（補充した）", "A": "restock", "B": "restore の復元する", "C": "restrain の抑える", "D": "respond の答える", "correct": "A" },
+      { "q": "restock の反対の状態はどれ？", "A": "out of stock（在庫切れ）", "B": "on sale（特売中）", "C": "in time（間に合って）", "D": "on time（時間どおり）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rethink",
+    "pron": "riːˈθɪŋk",
+    "kana": "リシンク",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ think（考える）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "基本単語"],
+    "meaning_main": "考え直す・見直す／（名詞）考え直し・再考",
+    "description": "rethink の意味・発音・例文・語源を解説。方針や計画を「考え直す・見直す」、また「考え直し・再考」という使い方を分かりやすく紹介します。",
+    "keywords": ["rethink 意味", "rethink 発音", "rethink 過去形", "rethink 考え直す"],
+    "meanings": [
+      { "hinshi": "【動詞】考え直す・見直す", "note": "それまでの考えや計画をもう一度よく考える。活用は rethink-rethought-rethought。" },
+      { "hinshi": "【名詞】考え直し・再考", "note": "a rethink of the policy（方針の見直し）。主にイギリス英語で名詞用法が一般的。" }
+    ],
+    "usages": [
+      { "title": "① 「考え直す・見直す」として", "desc": "計画や方針をもう一度よく考える意味です。", "example_en": "We need to rethink our strategy.", "example_ja": "私たちは戦略を考え直す必要がある。" },
+      { "title": "② 名詞「考え直し・再考」として", "desc": "見直しそのものを指します。", "example_en": "The plan needs a complete rethink.", "example_ja": "その計画は全面的な見直しが必要だ。" }
+    ],
+    "warn": [
+      "rethink の活用は think と同じ rethink-rethought-rethought。rethinked とはしない。",
+      "名詞の a rethink（見直し）は主にイギリス英語でよく使う。"
+    ],
+    "etym_note": "re-（再び）＋ think（考える）から成る分かりやすい語です。think は古英語 þencan（考える）に由来し、もとは「思いをめぐらす」を意味しました。",
+    "etym_chain": [
+      { "node": "þencan", "sub": "考える", "era": "古英語" },
+      { "node": "think", "sub": "考える", "era": "中英語" },
+      { "node": "rethink", "sub": "考え直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rethink the plan", "ja": "計画を考え直す" },
+      { "en": "rethink our strategy", "ja": "戦略を見直す" },
+      { "en": "a complete rethink", "ja": "全面的な見直し" },
+      { "en": "need a rethink", "ja": "見直しが必要だ" },
+      { "en": "rethink the approach", "ja": "やり方を考え直す" },
+      { "en": "force a rethink", "ja": "再考を迫る" }
+    ],
+    "related": [
+      { "en": "reconsider", "ja": "再考する" },
+      { "en": "reassess", "ja": "見直す・再評価する" },
+      { "en": "review", "ja": "見直す" },
+      { "en": "revise", "ja": "改める" }
+    ],
+    "faq": [
+      { "q": "rethink の過去形は？", "a": "think と同じで rethink-rethought-rethought です。過去形・過去分詞ともに rethought になります。" },
+      { "q": "rethink と reconsider の違いは？", "a": "ほぼ同じ『考え直す』ですが、reconsider はやや改まった語で『（決定を）見直す』、rethink は方針や考え方全体を根本から考え直すニュアンスがあります。" }
+    ],
+    "quiz": [
+      { "q": "We need to ___ our strategy.（考え直す）", "A": "rethink", "B": "remind の思い出させる", "C": "remain の残る", "D": "repeat の繰り返す", "correct": "A" },
+      { "q": "rethink の過去形はどれ？", "A": "rethought", "B": "rethinked", "C": "rethank", "D": "rethinks", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rivalry",
+    "pron": "ˈraɪvəlri",
+    "kana": "ライヴァルリー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 rivalis（同じ川を使う者）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "競争・対抗（意識）・ライバル関係",
+    "description": "rivalry の意味・発音・例文・語源を解説。相手に負けまいと競い合う「競争・対抗意識・ライバル関係」という頻出語の使い方を分かりやすく紹介します。",
+    "keywords": ["rivalry 意味", "rivalry 発音", "rivalry ライバル関係", "rivalry 対抗"],
+    "meanings": [
+      { "hinshi": "【名詞】競争・対抗（意識）・ライバル関係", "note": "互いに負けまいと張り合う関係。a fierce rivalry（激しい対抗関係）。" }
+    ],
+    "usages": [
+      { "title": "① 「ライバル関係・対抗意識」として", "desc": "互いに張り合う関係を表します。", "example_en": "There is a long rivalry between the two teams.", "example_ja": "その2チームの間には長年のライバル関係がある。" },
+      { "title": "② sibling rivalry として", "desc": "「きょうだい間の競争心」を表す決まり文句です。", "example_en": "Sibling rivalry is common among young children.", "example_ja": "きょうだい間の競争心は幼い子どもによくある。" }
+    ],
+    "warn": [
+      "rivalry は『張り合う関係・対抗意識』という名詞。rival（競争相手）の名詞形。",
+      "sibling rivalry（きょうだい間の競争心）は心理・育児でよく使う決まり文句。"
+    ],
+    "etym_note": "ラテン語 rivalis（同じ川 rivus を使う者＝水利を争う者）に由来します。同じ川の水をめぐって争うイメージから、「競い合う相手＝ライバル」の意味になりました。river（川）と同じ語根です。",
+    "etym_chain": [
+      { "node": "rivus", "sub": "川・流れ", "era": "ラテン語" },
+      { "node": "rivalis", "sub": "同じ川を使う者", "era": "ラテン語" },
+      { "node": "rivalry", "sub": "競争・ライバル関係", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a fierce rivalry", "ja": "激しい対抗関係" },
+      { "en": "sibling rivalry", "ja": "きょうだい間の競争心" },
+      { "en": "intense rivalry", "ja": "激しい競争" },
+      { "en": "a long-standing rivalry", "ja": "長年のライバル関係" },
+      { "en": "business rivalry", "ja": "企業間の競争" },
+      { "en": "a friendly rivalry", "ja": "友好的な競争" }
+    ],
+    "related": [
+      { "en": "rival", "ja": "競争相手・ライバル" },
+      { "en": "competition", "ja": "競争" },
+      { "en": "competitor", "ja": "競争相手" },
+      { "en": "feud", "ja": "確執・反目" }
+    ],
+    "faq": [
+      { "q": "rivalry とはどんな意味？", "a": "互いに負けまいと張り合う『競争・対抗意識・ライバル関係』のことです。a fierce rivalry（激しい対抗関係）のように使います。" },
+      { "q": "rivalry の語源は？", "a": "ラテン語 rivalis（同じ川を使う者）です。同じ川の水をめぐって争うイメージから『競い合う相手＝ライバル』の意味になりました。river（川）と同語源です。" }
+    ],
+    "quiz": [
+      { "q": "There is a long ___ between the two teams.（ライバル関係）", "A": "rivalry", "B": "revelry の宴", "C": "rivulet の小川", "D": "royalty の王族", "correct": "A" },
+      { "q": "rivalry と同じ語源なのは？", "A": "river（川）", "B": "rival の動詞", "C": "arrive（到着する）", "D": "drive（運転する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "robotic",
+    "pron": "roʊˈbɑːtɪk",
+    "kana": "ロウボティック",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "robot（ロボット）＋ -ic",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "IT・技術"],
+    "meaning_main": "ロボットの・ロボット工学の／（動き・話し方が）機械的な",
+    "description": "robotic の意味・発音・例文・語源を解説。「ロボットの・ロボット工学の」という技術語と、動きや話し方が「機械的な」という使い方を紹介します。",
+    "keywords": ["robotic 意味", "robotic 発音", "robotic 機械的な", "robotic ロボット"],
+    "meanings": [
+      { "hinshi": "【形容詞】ロボットの・ロボット工学の", "note": "ロボットを使った・ロボットに関する。a robotic arm（ロボットアーム）。" },
+      { "hinshi": "【形容詞】（動き・話し方が）機械的な・無表情な", "note": "感情のない、ぎこちない動き。a robotic voice（機械的な声）。" }
+    ],
+    "usages": [
+      { "title": "① 「ロボットの・ロボット工学の」として", "desc": "ロボットを使った技術を表します。", "example_en": "The factory uses a robotic arm to assemble parts.", "example_ja": "その工場は部品の組み立てにロボットアームを使う。" },
+      { "title": "② 「機械的な・無表情な」として", "desc": "感情のないぎこちない動きや話し方を表します。", "example_en": "She answered in a flat, robotic voice.", "example_ja": "彼女は平板で機械的な声で答えた。" }
+    ],
+    "warn": [
+      "robotic は『ロボットの』だけでなく『（人の動き・話し方が）機械的で感情がない』の意味でも使う。",
+      "robotics（複数形・単数扱い）は『ロボット工学』という別の名詞。"
+    ],
+    "etym_note": "robot（ロボット）に形容詞をつくる -ic が付いた語です。robot はチェコ語 robota（労役・苦役）に由来し、1920年代の戯曲で人造労働者を指す語として生まれました。",
+    "etym_chain": [
+      { "node": "robota", "sub": "労役・苦役", "era": "チェコ語" },
+      { "node": "robot", "sub": "ロボット", "era": "現代英語" },
+      { "node": "robotic", "sub": "ロボットの・機械的な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a robotic arm", "ja": "ロボットアーム" },
+      { "en": "robotic surgery", "ja": "ロボット手術" },
+      { "en": "a robotic voice", "ja": "機械的な声" },
+      { "en": "robotic movements", "ja": "ぎこちない機械的な動き" },
+      { "en": "robotic technology", "ja": "ロボット技術" },
+      { "en": "almost robotic", "ja": "まるで機械のような" }
+    ],
+    "related": [
+      { "en": "robot", "ja": "ロボット" },
+      { "en": "robotics", "ja": "ロボット工学" },
+      { "en": "mechanical", "ja": "機械的な" },
+      { "en": "automated", "ja": "自動化された" }
+    ],
+    "faq": [
+      { "q": "robotic とはどんな意味？", "a": "『ロボットの・ロボット工学の』という技術的な意味と、人の動きや話し方が『機械的で感情のない』という意味の両方で使う形容詞です。" },
+      { "q": "robotic と robotics の違いは？", "a": "robotic は形容詞『ロボットの・機械的な』、robotics は名詞『ロボット工学』です。robotics は形は複数でも単数扱いします。" }
+    ],
+    "quiz": [
+      { "q": "The factory uses a ___ arm to assemble parts.（ロボットの）", "A": "robotic", "B": "robust の頑丈な", "C": "romantic の恋愛の", "D": "rustic の素朴な", "correct": "A" },
+      { "q": "robotic のもとになった語 robot の語源の意味はどれ？", "A": "労役・苦役", "B": "金属", "C": "知能", "D": "速度", "correct": "A" }
+    ]
+  }
+]

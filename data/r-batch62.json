@@ -1,0 +1,531 @@
+[
+  {
+    "english": "recharge",
+    "pron": "riːˈtʃɑːrdʒ",
+    "kana": "リチャージ",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ charge（充電する）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "基本単語"],
+    "meaning_main": "充電する・再び満たす／（比喩）英気を養う・元気を取り戻す",
+    "description": "recharge の意味・発音・例文・語源を解説。電池を「充電する」、また休んで「英気を養う・元気を取り戻す」という比喩の使い方を分かりやすく紹介します。",
+    "keywords": ["recharge 意味", "recharge 発音", "recharge 充電", "recharge 英気"],
+    "meanings": [
+      { "hinshi": "【動詞】充電する・再び満たす", "note": "電池やバッテリーに電気を再びためる。recharge the phone（スマホを充電する）。" },
+      { "hinshi": "【動詞】（比喩）英気を養う・元気を取り戻す", "note": "休んで気力・体力を回復する。recharge your batteries（英気を養う）。" },
+      { "hinshi": "【名詞】充電・再充填", "note": "a quick recharge（手早い充電）。" }
+    ],
+    "usages": [
+      { "title": "① 「充電する」として", "desc": "電池に電気を再びためる意味です。", "example_en": "I need to recharge my phone.", "example_ja": "スマホを充電しなければならない。" },
+      { "title": "② 「英気を養う」として", "desc": "休んで元気を取り戻す比喩です。", "example_en": "A short vacation helped me recharge.", "example_ja": "短い休暇のおかげで英気を養えた。" }
+    ],
+    "warn": [
+      "recharge は『充電する』だけでなく、比喩で『（休んで）元気を取り戻す』の意味も頻出。",
+      "recharge your batteries（英気を養う）は定番の比喩表現。"
+    ],
+    "etym_note": "re-（再び）＋ charge（負わせる・充電する）から成ります。charge は古フランス語 chargier（積む・負わせる）に由来し、電気を「ためる」意味から「充電する」になりました。",
+    "etym_chain": [
+      { "node": "carricare", "sub": "荷を積む", "era": "後期ラテン語" },
+      { "node": "charge", "sub": "充電する・負わせる", "era": "中英語" },
+      { "node": "recharge", "sub": "充電する・英気を養う", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "recharge the phone", "ja": "スマホを充電する" },
+      { "en": "recharge the battery", "ja": "電池を充電する" },
+      { "en": "recharge your batteries", "ja": "英気を養う" },
+      { "en": "rest and recharge", "ja": "休んで元気を取り戻す" },
+      { "en": "fully recharge", "ja": "満充電する" },
+      { "en": "a recharge station", "ja": "充電スタンド" }
+    ],
+    "related": [
+      { "en": "charge", "ja": "充電する" },
+      { "en": "refuel", "ja": "燃料を補給する" },
+      { "en": "rejuvenate", "ja": "若返らせる・元気にする" },
+      { "en": "refresh", "ja": "元気を回復する" }
+    ],
+    "faq": [
+      { "q": "recharge とはどんな意味？", "a": "電池やバッテリーを『充電する』という意味と、休んで『英気を養う・元気を取り戻す』という比喩の意味があります。recharge your batteries（英気を養う）が定番表現です。" },
+      { "q": "recharge your batteries とは？", "a": "『（休息をとって）気力・体力を回復する・英気を養う』という意味の比喩表現です。" }
+    ],
+    "quiz": [
+      { "q": "A short vacation helped me ___.（英気を養う）", "A": "recharge", "B": "recall の思い出す", "C": "reduce の減らす", "D": "remove の取り除く", "correct": "A" },
+      { "q": "recharge your batteries の意味はどれ？", "A": "英気を養う", "B": "電話をかける", "C": "車を運転する", "D": "荷物を運ぶ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reconnect",
+    "pron": "ˌriːkəˈnekt",
+    "kana": "リコネクト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ connect（つなぐ）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "基本単語"],
+    "meaning_main": "再びつなぐ・接続し直す／（人と）連絡・関係を取り戻す",
+    "description": "reconnect の意味・発音・例文・語源を解説。機器を「再び接続する」、また人と「連絡・つながりを取り戻す」という使い方を分かりやすく紹介します。",
+    "keywords": ["reconnect 意味", "reconnect 発音", "reconnect 再接続", "reconnect つながる"],
+    "meanings": [
+      { "hinshi": "【動詞】再びつなぐ・接続し直す", "note": "電気・通信などを再びつなげる。reconnect to Wi-Fi（Wi-Fiに再接続する）。" },
+      { "hinshi": "【動詞】（人と）連絡・関係を取り戻す", "note": "疎遠だった人と再びつながる。reconnect with old friends（旧友と再会する）。" }
+    ],
+    "usages": [
+      { "title": "① 「再接続する」として", "desc": "通信や機器を再びつなぐ意味です。", "example_en": "Try to reconnect to the network.", "example_ja": "ネットワークに再接続してみて。" },
+      { "title": "② 「連絡を取り戻す」として", "desc": "疎遠だった人と再びつながる意味です。", "example_en": "She reconnected with her childhood friends.", "example_ja": "彼女は幼なじみと再びつながった。" }
+    ],
+    "warn": [
+      "reconnect は『再び接続する』と『（人と）つながりを取り戻す』の両方で使う。後者は reconnect with someone。",
+      "reconnect with nature（自然とふれあいを取り戻す）のような比喩でも使う。"
+    ],
+    "etym_note": "re-（再び）＋ connect（つなぐ）から成ります。connect はラテン語 conectere（con-「共に」＋ nectere「結ぶ」＝結びつける）に由来し、「もう一度結びつける」が原義です。",
+    "etym_chain": [
+      { "node": "conectere", "sub": "結びつける", "era": "ラテン語" },
+      { "node": "connect", "sub": "つなぐ", "era": "近代英語" },
+      { "node": "reconnect", "sub": "再びつなぐ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reconnect to Wi-Fi", "ja": "Wi-Fiに再接続する" },
+      { "en": "reconnect with old friends", "ja": "旧友と再会する" },
+      { "en": "reconnect the cable", "ja": "ケーブルをつなぎ直す" },
+      { "en": "reconnect with nature", "ja": "自然とのふれあいを取り戻す" },
+      { "en": "reconnect the call", "ja": "通話をつなぎ直す" },
+      { "en": "reconnect emotionally", "ja": "心のつながりを取り戻す" }
+    ],
+    "related": [
+      { "en": "connect", "ja": "つなぐ" },
+      { "en": "reunite", "ja": "再会させる" },
+      { "en": "rejoin", "ja": "再び加わる" },
+      { "en": "disconnect", "ja": "切断する（反対語）" }
+    ],
+    "faq": [
+      { "q": "reconnect とはどんな意味？", "a": "機器や通信を『再び接続する』という意味と、疎遠だった人と『連絡・つながりを取り戻す』という意味があります。reconnect with old friends（旧友と再会する）のように使います。" },
+      { "q": "reconnect with someone とは？", "a": "『（しばらく連絡が途絶えていた）人と再びつながる・連絡を取り戻す』という意味です。" }
+    ],
+    "quiz": [
+      { "q": "She ___ed with her childhood friends.（再びつながった）", "A": "reconnect", "B": "recover の回復する", "C": "recall の思い出す", "D": "record の記録する", "correct": "A" },
+      { "q": "reconnect の反対の動作はどれ？", "A": "disconnect（切断する）", "B": "connect（つなぐ）", "C": "select（選ぶ）", "D": "collect（集める）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recount",
+    "pron": "rɪˈkaʊnt",
+    "kana": "リカウント",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古フランス語 reconter（語り直す）／re-＋count（数える）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "（出来事を）詳しく語る・物語る／（票などを）数え直す・再集計",
+    "description": "recount の意味・発音・例文・語源を解説。出来事を「詳しく語る」、また票を「数え直す・再集計する」という二つの使い方を分かりやすく紹介します。",
+    "keywords": ["recount 意味", "recount 発音", "recount 語る", "recount 再集計"],
+    "meanings": [
+      { "hinshi": "【動詞】（出来事を）詳しく語る・物語る", "note": "経験や話を順を追って話す。recount the story（いきさつを語る）。" },
+      { "hinshi": "【動詞・名詞】数え直す／再集計", "note": "票などをもう一度数える。a recount of the votes（票の再集計）。" }
+    ],
+    "usages": [
+      { "title": "① 「詳しく語る」として", "desc": "経験や出来事を順を追って話す意味です。", "example_en": "He recounted his adventures in Africa.", "example_ja": "彼はアフリカでの冒険を詳しく語った。" },
+      { "title": "② 「数え直す・再集計」として", "desc": "票などをもう一度数える意味です。", "example_en": "They demanded a recount of the votes.", "example_ja": "彼らは票の再集計を要求した。" }
+    ],
+    "warn": [
+      "recount には二つの系統がある。『詳しく語る』（語源は語る）と『数え直す』（re＋count）。",
+      "『数え直す』の名詞は a recount（選挙の再集計でよく使う）。"
+    ],
+    "etym_note": "『語る』の recount は古フランス語 reconter（re-「再び」＋ conter「語る」）に由来します。『数え直す』の recount は re-（再び）＋ count（数える）から。conter と count はどちらもラテン語 computare（計算する）が起源で、つづりが同じになりました。",
+    "etym_chain": [
+      { "node": "computare", "sub": "計算する・数える", "era": "ラテン語" },
+      { "node": "reconter / count", "sub": "語る／数える", "era": "古フランス語" },
+      { "node": "recount", "sub": "詳しく語る・数え直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "recount the story", "ja": "いきさつを語る" },
+      { "en": "recount an experience", "ja": "経験を物語る" },
+      { "en": "recount the events", "ja": "出来事を詳しく語る" },
+      { "en": "a recount of the votes", "ja": "票の再集計" },
+      { "en": "demand a recount", "ja": "再集計を要求する" },
+      { "en": "recount in detail", "ja": "詳しく語る" }
+    ],
+    "related": [
+      { "en": "narrate", "ja": "物語る" },
+      { "en": "describe", "ja": "描写する" },
+      { "en": "relate", "ja": "話して聞かせる" },
+      { "en": "count", "ja": "数える" }
+    ],
+    "faq": [
+      { "q": "recount とはどんな意味？", "a": "出来事を『詳しく語る・物語る』という意味と、票などを『数え直す・再集計する』という意味があります。He recounted his adventures.（冒険を語った）、a recount of the votes（票の再集計）のように使います。" },
+      { "q": "recount と account の違いは？", "a": "recount は動詞『詳しく語る・数え直す』、account は名詞『説明・報告』や give an account of（〜を説明する）です。意味は近いですが品詞や使い方が異なります。" }
+    ],
+    "quiz": [
+      { "q": "He ___ed his adventures in Africa.（詳しく語った）", "A": "recount", "B": "recall の思い出す", "C": "recover の回復する", "D": "record の記録する", "correct": "A" },
+      { "q": "a recount of the votes の意味はどれ？", "A": "票の再集計", "B": "票の集計表", "C": "投票の締め切り", "D": "立候補の届け出", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recreate",
+    "pron": "ˌriːkriˈeɪt",
+    "kana": "リクリエイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ create（創る）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "再現する・作り直す・もう一度創り出す",
+    "description": "recreate の意味・発音・例文・語源を解説。過去の場面や物を「再現する・作り直す」という、歴史・映画・実験などで使う語の使い方を紹介します。",
+    "keywords": ["recreate 意味", "recreate 発音", "recreate 再現", "recreate 作り直す"],
+    "meanings": [
+      { "hinshi": "【動詞】再現する・作り直す・もう一度創り出す", "note": "過去の場面・物・雰囲気を作り直す。recreate the scene（その場面を再現する）。" }
+    ],
+    "usages": [
+      { "title": "① 場面・出来事の再現", "desc": "過去の様子を作り直す意味です。", "example_en": "The museum recreated a medieval village.", "example_ja": "その博物館は中世の村を再現した。" },
+      { "title": "② 雰囲気・条件の再現", "desc": "同じ状態を作り出す意味です。", "example_en": "It is hard to recreate that atmosphere.", "example_ja": "あの雰囲気を再現するのは難しい。" }
+    ],
+    "warn": [
+      "recreate（リクリエイト）は『再現する・作り直す』。名詞 recreation（リクリエーション・娯楽）とアクセント・意味が違うので注意。",
+      "ハイフン付き re-create と書くと『再び創造する』ことを強調できる。"
+    ],
+    "etym_note": "re-（再び）＋ create（創る）から成り、「もう一度創り出す＝再現する」が原義です。create はラテン語 creare（生み出す）に由来します。",
+    "etym_chain": [
+      { "node": "creare", "sub": "生み出す", "era": "ラテン語" },
+      { "node": "create", "sub": "創る", "era": "中英語" },
+      { "node": "recreate", "sub": "再現する・作り直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "recreate the scene", "ja": "その場面を再現する" },
+      { "en": "recreate the atmosphere", "ja": "雰囲気を再現する" },
+      { "en": "recreate a recipe", "ja": "レシピを再現する" },
+      { "en": "faithfully recreate", "ja": "忠実に再現する" },
+      { "en": "recreate the experiment", "ja": "実験を再現する" },
+      { "en": "recreate the past", "ja": "過去を再現する" }
+    ],
+    "related": [
+      { "en": "create", "ja": "創る" },
+      { "en": "reproduce", "ja": "再現する・複製する" },
+      { "en": "replicate", "ja": "複製する・再現する" },
+      { "en": "reconstruct", "ja": "再建する・復元する" }
+    ],
+    "faq": [
+      { "q": "recreate とはどんな意味？", "a": "過去の場面・物・雰囲気を『再現する・作り直す・もう一度創り出す』という動詞です。recreate the scene（その場面を再現する）のように使います。" },
+      { "q": "recreate と recreation は同じ語？", "a": "つづりは同じ系統ですが、recreate（リクリエイト）は『再現する』、recreation（リクリエーション）は『娯楽・気晴らし』で、発音もアクセントも意味も異なります。" }
+    ],
+    "quiz": [
+      { "q": "The museum ___d a medieval village.（再現した）", "A": "recreate", "B": "recall の思い出す", "C": "receive の受け取る", "D": "recover の回復する", "correct": "A" },
+      { "q": "recreate に近い意味はどれ？", "A": "reproduce（再現する）", "B": "destroy（破壊する）", "C": "ignore（無視する）", "D": "reduce（減らす）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "resell",
+    "pron": "riːˈsel",
+    "kana": "リセル",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ sell（売る）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "ビジネス"],
+    "meaning_main": "転売する・買ったものを再び売る",
+    "description": "resell の意味・発音・例文・語源を解説。一度買ったものを「転売する・再び売る」という、ビジネスやネット取引で使う語の使い方を紹介します。",
+    "keywords": ["resell 意味", "resell 発音", "resell 転売", "resell 過去形"],
+    "meanings": [
+      { "hinshi": "【動詞】転売する・買ったものを再び売る", "note": "仕入れた・購入した物をもう一度売る。活用は resell-resold-resold。" }
+    ],
+    "usages": [
+      { "title": "① 「転売する」として", "desc": "買ったものを再び売る意味です。", "example_en": "He bought the tickets to resell them at a higher price.", "example_ja": "彼は高く転売するためチケットを買った。" },
+      { "title": "② 「仕入れて再販する」として", "desc": "商品を仕入れて売り直す意味です。", "example_en": "The shop buys used phones and resells them.", "example_ja": "その店は中古スマホを買い取って再販する。" }
+    ],
+    "warn": [
+      "resell の活用は sell と同じ resell-resold-resold。reselled とはしない。",
+      "高値での『転売（不当な）』を批判的に指すこともある。中立的には『再販する』。"
+    ],
+    "etym_note": "re-（再び）＋ sell（売る）から成る分かりやすい語です。sell は古英語 sellan（与える・売る）に由来します。",
+    "etym_chain": [
+      { "node": "sellan", "sub": "与える・売る", "era": "古英語" },
+      { "node": "sell", "sub": "売る", "era": "中英語" },
+      { "node": "resell", "sub": "転売する・再び売る", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "resell the tickets", "ja": "チケットを転売する" },
+      { "en": "buy and resell", "ja": "買って転売する" },
+      { "en": "resell at a profit", "ja": "もうけを出して転売する" },
+      { "en": "resell used goods", "ja": "中古品を再販する" },
+      { "en": "the right to resell", "ja": "再販する権利" },
+      { "en": "resell online", "ja": "ネットで転売する" }
+    ],
+    "related": [
+      { "en": "sell", "ja": "売る" },
+      { "en": "reseller", "ja": "再販業者・転売者" },
+      { "en": "trade", "ja": "売買する" },
+      { "en": "flip", "ja": "（短期で）転売する" }
+    ],
+    "faq": [
+      { "q": "resell の過去形は？", "a": "sell と同じで resell-resold-resold です。過去形・過去分詞ともに resold になります。" },
+      { "q": "resell と reseller の違いは？", "a": "resell は動詞『転売する・再販する』、reseller は名詞『再販業者・転売する人』です。" }
+    ],
+    "quiz": [
+      { "q": "He bought the tickets to ___ them.（転売する）", "A": "resell", "B": "resign の辞職する", "C": "resist の抵抗する", "D": "reserve の予約する", "correct": "A" },
+      { "q": "resell の過去形はどれ？", "A": "resold", "B": "reselled", "C": "resells", "D": "reselt", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retread",
+    "pron": "riːˈtred",
+    "kana": "リトレッド",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ tread（踏む・トレッド）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "比喩・技術"],
+    "meaning_main": "（タイヤを）再生する・溝を張り替える／（比喩）焼き直し・二番煎じ",
+    "description": "retread の意味・発音・例文・語源を解説。すり減ったタイヤを「再生する」、また新味のない「焼き直し・二番煎じ」という比喩の使い方を紹介します。",
+    "keywords": ["retread 意味", "retread 発音", "retread 焼き直し", "retread タイヤ"],
+    "meanings": [
+      { "hinshi": "【動詞】（タイヤの）溝を張り替える・再生する", "note": "すり減ったタイヤに新しいゴムの溝をつけ直す。" },
+      { "hinshi": "【名詞】再生タイヤ／（比喩）焼き直し・二番煎じ", "note": "新味のない使い回し。a tired retread（陳腐な焼き直し）。" },
+      { "hinshi": "【動詞】（同じ道・話題を）またたどる", "note": "retread old ground（同じ議論を蒸し返す）。" }
+    ],
+    "usages": [
+      { "title": "① 「タイヤを再生する」として", "desc": "すり減ったタイヤに溝をつけ直す意味です。", "example_en": "The old tires were retreaded to save money.", "example_ja": "節約のため古いタイヤは溝を張り替えられた。" },
+      { "title": "② 「焼き直し・二番煎じ」として", "desc": "新味のない使い回しを表す比喩です。", "example_en": "The sequel felt like a tired retread.", "example_ja": "その続編は陳腐な焼き直しのように感じられた。" }
+    ],
+    "warn": [
+      "retread は『タイヤの再生』が原義。比喩で『（新味のない）焼き直し・二番煎じ』として批判的に使うことも多い。",
+      "retread old ground は『（議論で）同じところを蒸し返す』という表現。"
+    ],
+    "etym_note": "re-（再び）＋ tread（踏む・タイヤの接地面トレッド）から成り、「踏み面をつけ直す＝タイヤを再生する」が原義です。そこから「同じものを使い回す＝焼き直し」の比喩が生まれました。",
+    "etym_chain": [
+      { "node": "tredan", "sub": "踏む", "era": "古英語" },
+      { "node": "tread", "sub": "踏む・踏み面", "era": "中英語" },
+      { "node": "retread", "sub": "タイヤ再生・焼き直し", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a retreaded tire", "ja": "再生タイヤ" },
+      { "en": "a tired retread", "ja": "陳腐な焼き直し" },
+      { "en": "retread old ground", "ja": "同じ議論を蒸し返す" },
+      { "en": "feel like a retread", "ja": "焼き直しに感じる" },
+      { "en": "retread the same ideas", "ja": "同じ発想を使い回す" },
+      { "en": "just a retread", "ja": "ただの二番煎じ" }
+    ],
+    "related": [
+      { "en": "tread", "ja": "踏む・踏み面" },
+      { "en": "rehash", "ja": "焼き直す・蒸し返す" },
+      { "en": "recycle", "ja": "使い回す" },
+      { "en": "rerun", "ja": "再放送・繰り返し" }
+    ],
+    "faq": [
+      { "q": "retread とはどんな意味？", "a": "すり減ったタイヤに溝を『張り替えて再生する』のが原義です。比喩で『新味のない焼き直し・二番煎じ』を表し、a tired retread（陳腐な焼き直し）のように使います。" },
+      { "q": "retread old ground とは？", "a": "『すでに話したことや同じ議論を、また蒸し返す』という意味の表現です。" }
+    ],
+    "quiz": [
+      { "q": "The sequel felt like a tired ___.（焼き直し）", "A": "retread", "B": "retreat の退却", "C": "retrieve の取り戻す", "D": "retire の引退する", "correct": "A" },
+      { "q": "retread のもとになった語はどれ？", "A": "tread（踏む・踏み面）", "B": "trade（取引）", "C": "thread（糸）", "D": "treat（扱う）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reposition",
+    "pron": "ˌriːpəˈzɪʃən",
+    "kana": "リポジション",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ position（位置づける）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "ビジネス"],
+    "meaning_main": "位置を変える・置き直す／（市場で）位置づけを変える・打ち出し直す",
+    "description": "reposition の意味・発音・例文・語源を解説。物の「位置を変える」、また製品やブランドを「市場で打ち出し直す」というビジネス語の使い方を紹介します。",
+    "keywords": ["reposition 意味", "reposition 発音", "reposition 位置づけ", "reposition ブランド"],
+    "meanings": [
+      { "hinshi": "【動詞】位置を変える・置き直す", "note": "物や体の位置を別の場所・向きに変える。reposition the camera（カメラを置き直す）。" },
+      { "hinshi": "【動詞】（市場で）位置づけを変える・打ち出し直す", "note": "ブランドや製品のイメージ・狙う層を変える。reposition the brand。" }
+    ],
+    "usages": [
+      { "title": "① 「位置を変える」として", "desc": "物や体を別の場所・向きに変える意味です。", "example_en": "The nurse repositioned the patient in bed.", "example_ja": "看護師は患者のベッドでの体勢を変えた。" },
+      { "title": "② 「市場で打ち出し直す」として", "desc": "ブランドの位置づけを変える意味です。", "example_en": "The company repositioned itself as a luxury brand.", "example_ja": "その会社は高級ブランドとして自社を打ち出し直した。" }
+    ],
+    "warn": [
+      "reposition は『物理的に位置を変える』ほか、ビジネスで『（市場での）位置づけ・イメージを変える』の意味が頻出。",
+      "reposition A as B で『AをBとして打ち出し直す』。"
+    ],
+    "etym_note": "re-（再び）＋ position（位置・位置づける）から成り、「位置を取り直す」が原義です。position はラテン語 ponere（置く）に由来します。マーケティングの positioning（ポジショニング）から派生して使われます。",
+    "etym_chain": [
+      { "node": "ponere", "sub": "置く", "era": "ラテン語" },
+      { "node": "position", "sub": "位置・位置づける", "era": "近代英語" },
+      { "node": "reposition", "sub": "位置を変える・打ち出し直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reposition the brand", "ja": "ブランドを打ち出し直す" },
+      { "en": "reposition A as B", "ja": "AをBとして位置づけ直す" },
+      { "en": "reposition the camera", "ja": "カメラを置き直す" },
+      { "en": "reposition the patient", "ja": "患者の体勢を変える" },
+      { "en": "reposition in the market", "ja": "市場での位置づけを変える" },
+      { "en": "strategically reposition", "ja": "戦略的に立ち位置を変える" }
+    ],
+    "related": [
+      { "en": "position", "ja": "位置づける" },
+      { "en": "rebrand", "ja": "ブランドを一新する" },
+      { "en": "relocate", "ja": "移転させる" },
+      { "en": "realign", "ja": "再編成する・調整し直す" }
+    ],
+    "faq": [
+      { "q": "reposition とはどんな意味？", "a": "物や体の『位置を変える・置き直す』という意味と、ビジネスで製品やブランドの『市場での位置づけ・イメージを変える（打ち出し直す）』という意味があります。" },
+      { "q": "reposition と rebrand の違いは？", "a": "rebrand は『名前・ロゴなどブランドの見た目を一新する』、reposition は『狙う客層や打ち出すイメージ（立ち位置）を変える』ことに重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The company ___ed itself as a luxury brand.（打ち出し直した）", "A": "reposition", "B": "represent の代表する", "C": "report の報告する", "D": "request の要求する", "correct": "A" },
+      { "q": "reposition のもとになった語はどれ？", "A": "position（位置）", "B": "possess（所有する）", "C": "possible（可能な）", "D": "positive（肯定的な）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "restate",
+    "pron": "riːˈsteɪt",
+    "kana": "リステイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ state（述べる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "改めて述べる・言い直す・別の言い方で繰り返す",
+    "description": "restate の意味・発音・例文・語源を解説。要点や立場を「改めて述べる・言い直す」という、議論や文章で役立つ語の使い方を分かりやすく紹介します。",
+    "keywords": ["restate 意味", "restate 発音", "restate 言い直す", "restate 改めて述べる"],
+    "meanings": [
+      { "hinshi": "【動詞】改めて述べる・言い直す", "note": "同じ内容をはっきりと、または別の言い方で繰り返す。restate the point（要点を言い直す）。" }
+    ],
+    "usages": [
+      { "title": "① 「改めて述べる」として", "desc": "立場や要点をはっきり言い直す意味です。", "example_en": "Let me restate my main point.", "example_ja": "私の要点を改めて述べさせてください。" },
+      { "title": "② 「別の言い方で繰り返す」として", "desc": "分かりやすく言い直す意味です。", "example_en": "The teacher restated the rule more clearly.", "example_ja": "先生はその規則をもっと分かりやすく言い直した。" }
+    ],
+    "warn": [
+      "restate は『（要点・立場を）改めてはっきり述べる・言い直す』。rephrase（表現を変える）と近いが、内容の再確認に重点。",
+      "論文・プレゼンの結論で要点を restate（言い直す）するのは定番。"
+    ],
+    "etym_note": "re-（再び）＋ state（述べる・はっきり言う）から成り、「もう一度述べる＝言い直す」が原義です。state はラテン語 status（状態・立場）に由来し、「立場をはっきり示す」から「述べる」になりました。",
+    "etym_chain": [
+      { "node": "status", "sub": "状態・立場", "era": "ラテン語" },
+      { "node": "state", "sub": "述べる", "era": "近代英語" },
+      { "node": "restate", "sub": "改めて述べる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "restate the point", "ja": "要点を言い直す" },
+      { "en": "restate your position", "ja": "立場を改めて述べる" },
+      { "en": "restate the question", "ja": "質問を言い直す" },
+      { "en": "restate it clearly", "ja": "はっきり言い直す" },
+      { "en": "restate the thesis", "ja": "主張を改めて述べる" },
+      { "en": "restate in conclusion", "ja": "結論で要点を述べ直す" }
+    ],
+    "related": [
+      { "en": "rephrase", "ja": "言い換える" },
+      { "en": "reiterate", "ja": "繰り返し述べる" },
+      { "en": "reaffirm", "ja": "改めて断言する" },
+      { "en": "state", "ja": "述べる" }
+    ],
+    "faq": [
+      { "q": "restate とはどんな意味？", "a": "同じ内容を『改めてはっきり述べる・言い直す』という動詞です。Let me restate my point.（要点を改めて述べます）のように使います。" },
+      { "q": "restate と reiterate の違いは？", "a": "reiterate は『同じことを（強調して）繰り返す』、restate は『（時に別の言い方で）改めて述べ直す』ことに重点があります。" }
+    ],
+    "quiz": [
+      { "q": "Let me ___ my main point.（改めて述べる）", "A": "restate", "B": "restore の復元する", "C": "restrict の制限する", "D": "resist の抵抗する", "correct": "A" },
+      { "q": "restate に近い意味はどれ？", "A": "reiterate（繰り返し述べる）", "B": "delete（削除する）", "C": "ignore（無視する）", "D": "doubt（疑う）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "refit",
+    "pron": "riːˈfɪt",
+    "kana": "リフィット",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ fit（装備する・合わせる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "技術"],
+    "meaning_main": "（船・建物を）改装する・新しい設備に取り替える／改装",
+    "description": "refit の意味・発音・例文・語源を解説。船や建物を「改装する・設備を新しく取り替える」という技術・実用の語の使い方を分かりやすく紹介します。",
+    "keywords": ["refit 意味", "refit 発音", "refit 改装", "refit 船"],
+    "meanings": [
+      { "hinshi": "【動詞】（船・建物を）改装する・設備を取り替える", "note": "古い設備を新しいものに取り替えて整備し直す。refit the ship（船を改装する）。" },
+      { "hinshi": "【名詞】改装・整備し直すこと", "note": "be in for a refit（改装中である）。" }
+    ],
+    "usages": [
+      { "title": "① 「船を改装する」として", "desc": "古い設備を新しくして整備し直す意味です。", "example_en": "The old warship was refitted for modern use.", "example_ja": "その古い軍艦は現代用に改装された。" },
+      { "title": "② 「店・建物を改装する」として", "desc": "内装や設備を取り替える意味です。", "example_en": "The shop closed for a complete refit.", "example_ja": "その店は全面改装のため閉店した。" }
+    ],
+    "warn": [
+      "refit は特に『船・店・建物の設備を新しく取り替えて整備し直す』。活用は refit-refitted-refitted。",
+      "服が『また合うようにする』意味でも使うことがあるが、中心は設備の改装。"
+    ],
+    "etym_note": "re-（再び）＋ fit（合わせる・装備する）から成り、「もう一度ふさわしく整える＝改装する」が原義です。fit は中英語 fitten（適合する）に由来します。",
+    "etym_chain": [
+      { "node": "fitten", "sub": "適合する", "era": "中英語" },
+      { "node": "fit", "sub": "合わせる・装備する", "era": "近代英語" },
+      { "node": "refit", "sub": "改装する・設備を取り替える", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "refit the ship", "ja": "船を改装する" },
+      { "en": "a complete refit", "ja": "全面改装" },
+      { "en": "be in for a refit", "ja": "改装中である" },
+      { "en": "refit the kitchen", "ja": "厨房の設備を取り替える" },
+      { "en": "undergo a refit", "ja": "改装を受ける" },
+      { "en": "refit the store", "ja": "店舗を改装する" }
+    ],
+    "related": [
+      { "en": "fit", "ja": "合わせる・装備する" },
+      { "en": "refurbish", "ja": "改装する・一新する" },
+      { "en": "renovate", "ja": "改修する" },
+      { "en": "overhaul", "ja": "総点検・分解修理する" }
+    ],
+    "faq": [
+      { "q": "refit とはどんな意味？", "a": "船・店・建物などの古い設備を『新しいものに取り替えて整備し直す（改装する）』という動詞・名詞です。a complete refit（全面改装）のように使います。" },
+      { "q": "refit と renovate の違いは？", "a": "renovate は『（建物を）改修する』全般、refit は特に『設備・装備を新しく取り替える』ことに重点があり、船にもよく使います。" }
+    ],
+    "quiz": [
+      { "q": "The shop closed for a complete ___.（改装）", "A": "refit", "B": "refill の補充", "C": "refund の払い戻し", "D": "reflex の反射", "correct": "A" },
+      { "q": "refit の活用で正しいのはどれ？", "A": "refit-refitted-refitted", "B": "refit-refit-refit", "C": "refit-refat-refit", "D": "refit-refought-refought", "correct": "A" }
+    ]
+  },
+  {
+    "english": "repackage",
+    "pron": "riːˈpækɪdʒ",
+    "kana": "リパッケージ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ package（包装する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "ビジネス"],
+    "meaning_main": "包装し直す・パッケージを変える／（中身を変えず）見せ方を変えて売り出す",
+    "description": "repackage の意味・発音・例文・語源を解説。商品を「包装し直す」、また中身は同じで「見せ方を変えて売り出す」というビジネス語の使い方を紹介します。",
+    "keywords": ["repackage 意味", "repackage 発音", "repackage 包装", "repackage 売り出す"],
+    "meanings": [
+      { "hinshi": "【動詞】包装し直す・パッケージを変える", "note": "商品の包装やまとめ方を変える。repackage the product（商品を包装し直す）。" },
+      { "hinshi": "【動詞】（中身を変えず）見せ方を変えて売り出す", "note": "同じ内容を新しい体裁で提示する。しばしば批判的にも使う。" }
+    ],
+    "usages": [
+      { "title": "① 「包装し直す」として", "desc": "商品の包装やまとめ方を変える意味です。", "example_en": "They repackaged the candy in smaller boxes.", "example_ja": "彼らはそのお菓子を小さい箱に包装し直した。" },
+      { "title": "② 「見せ方を変えて売り出す」として", "desc": "中身は同じで体裁を変える比喩です。", "example_en": "The old idea was repackaged as something new.", "example_ja": "その古い案は新しいものとして装いを変えて売り出された。" }
+    ],
+    "warn": [
+      "repackage は『包装し直す』だけでなく、『中身は同じで見せ方・体裁を変えて売り出す』の意味も頻出（やや批判的なことも）。",
+      "情報・政策・商品の『装いを変えた使い回し』を指すことがある。"
+    ],
+    "etym_note": "re-（再び）＋ package（包装する・ひとまとめにする）から成り、「もう一度包み直す」が原義です。package は pack（詰める）に由来し、そこから「体裁を整え直して提示する」の意味に広がりました。",
+    "etym_chain": [
+      { "node": "pack", "sub": "詰める・包む", "era": "中英語" },
+      { "node": "package", "sub": "包装する", "era": "近代英語" },
+      { "node": "repackage", "sub": "包装し直す・装いを変えて売り出す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "repackage the product", "ja": "商品を包装し直す" },
+      { "en": "repackage A as B", "ja": "AをBとして売り出し直す" },
+      { "en": "repackage old ideas", "ja": "古い案を装いを変えて出す" },
+      { "en": "cleverly repackage", "ja": "巧みに体裁を変える" },
+      { "en": "repackage and resell", "ja": "包装し直して再販する" },
+      { "en": "repackage the message", "ja": "メッセージの見せ方を変える" }
+    ],
+    "related": [
+      { "en": "package", "ja": "包装する" },
+      { "en": "rebrand", "ja": "ブランドを一新する" },
+      { "en": "rehash", "ja": "焼き直す" },
+      { "en": "present", "ja": "提示する" }
+    ],
+    "faq": [
+      { "q": "repackage とはどんな意味？", "a": "商品を『包装し直す・パッケージを変える』という意味と、中身は同じで『見せ方・体裁を変えて売り出す』という意味があります。後者はやや批判的に使われることもあります。" },
+      { "q": "repackage と rebrand の違いは？", "a": "rebrand は『ブランド名やロゴを一新する』、repackage は『包装や見せ方（体裁）を変える』ことに重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The old idea was ___d as something new.（装いを変えて売り出す）", "A": "repackage", "B": "replace の取り替える", "C": "repair の修理する", "D": "repeat の繰り返す", "correct": "A" },
+      { "q": "repackage のもとになった語はどれ？", "A": "package（包装する）", "B": "passage（通路）", "C": "message（伝言）", "D": "manage（管理する）", "correct": "A" }
+    ]
+  }
+]
