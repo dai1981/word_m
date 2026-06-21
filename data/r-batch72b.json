@@ -1,0 +1,54 @@
+[
+  {
+    "english": "redshank",
+    "pron": "ˈredʃæŋk",
+    "kana": "レッドシャンク",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "red（赤い）＋ shank（すね・脚）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "自然・生き物"],
+    "meaning_main": "アカアシシギ（赤い脚をもつシギの仲間の水鳥）",
+    "description": "redshank の意味・発音・例文・語源を解説。鮮やかな赤い脚をもつシギの仲間の水鳥「アカアシシギ」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["redshank 意味", "redshank 発音", "redshank アカアシシギ", "redshank 鳥"],
+    "meanings": [
+      { "hinshi": "【名詞】アカアシシギ", "note": "鮮やかな赤い（オレンジ赤の）脚をもつシギ科の水鳥。湿地・干潟にすむ。-shank は『すね・脚』。" }
+    ],
+    "usages": [
+      { "title": "① 水鳥として", "desc": "赤い脚のシギを指します。", "example_en": "A redshank waded along the muddy shore.", "example_ja": "アカアシシギが泥の岸辺を歩いていた。" },
+      { "title": "② 観察の場面で", "desc": "赤い脚で見分けます。", "example_en": "You can identify a redshank by its bright red legs.", "example_ja": "アカアシシギは鮮やかな赤い脚で見分けられる。" }
+    ],
+    "warn": [
+      "redshank の -shank は『すね・脚』。red（赤い）＋ shank で『赤い脚の鳥』が原義。",
+      "近縁に greenshank（アオアシシギ）がいる。"
+    ],
+    "etym_note": "red（赤い）＋ shank（すね・脚、古英語 sceanca より）から成り、「赤い脚」を意味します。鮮やかな赤い脚が特徴であることから名づけられました。",
+    "etym_chain": [
+      { "node": "read + sceanca", "sub": "赤い＋すね", "era": "古英語" },
+      { "node": "redshank", "sub": "赤い脚の鳥", "era": "近代英語" },
+      { "node": "redshank", "sub": "アカアシシギ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a common redshank", "ja": "アカアシシギ" },
+      { "en": "a redshank's red legs", "ja": "アカアシシギの赤い脚" },
+      { "en": "spot a redshank", "ja": "アカアシシギを見つける" },
+      { "en": "a wading redshank", "ja": "水辺を歩くアカアシシギ" },
+      { "en": "the redshank called", "ja": "アカアシシギが鳴いた" },
+      { "en": "a spotted redshank", "ja": "ツルシギ" }
+    ],
+    "related": [
+      { "en": "sandpiper", "ja": "シギ" },
+      { "en": "greenshank", "ja": "アオアシシギ" },
+      { "en": "wader", "ja": "渉禽（水辺を歩く鳥）" },
+      { "en": "shank", "ja": "すね・脚" }
+    ],
+    "faq": [
+      { "q": "redshank とはどんな意味？", "a": "鮮やかな赤い（オレンジ赤の）脚をもつシギ科の水鳥『アカアシシギ』のことです。湿地や干潟にすみます。-shank は『すね・脚』を意味します。" },
+      { "q": "redshank の名の由来は？", "a": "red（赤い）＋ shank（すね・脚）です。鮮やかな赤い脚が特徴であることに由来します。" }
+    ],
+    "quiz": [
+      { "q": "A ___ waded along the muddy shore.（アカアシシギ）", "A": "redshank", "B": "redhead の赤毛", "C": "redstart のジョウビタキ", "D": "redbreast のコマドリ", "correct": "A" },
+      { "q": "redshank の -shank の意味はどれ？", "A": "すね・脚", "B": "くちばし", "C": "翼", "D": "尾", "correct": "A" }
+    ]
+  }
+]
