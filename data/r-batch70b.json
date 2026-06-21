@@ -1,0 +1,54 @@
+[
+  {
+    "english": "ratel",
+    "pron": "ˈreɪtəl",
+    "kana": "レイテル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "アフリカーンス語 ratel（ミツアナグマ）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "自然・生き物"],
+    "meaning_main": "ラーテル・ミツアナグマ（アフリカ・南アジアの気の荒い肉食動物）",
+    "description": "ratel の意味・発音・例文・語源を解説。アフリカや南アジアにすむ、気が荒く頑丈な肉食動物「ラーテル（ミツアナグマ）」を指す語の使い方を紹介します。",
+    "keywords": ["ratel 意味", "ratel 発音", "ratel ミツアナグマ", "honey badger 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】ラーテル・ミツアナグマ", "note": "イタチ科の肉食動物。英語では honey badger ともいう。気が荒く恐れ知らずで知られる。" }
+    ],
+    "usages": [
+      { "title": "① 動物として", "desc": "気の荒い肉食動物を指します。", "example_en": "The ratel is famous for its fearlessness.", "example_ja": "ラーテルは恐れ知らずなことで有名だ。" },
+      { "title": "② 生態の説明で", "desc": "頑丈さや習性を表します。", "example_en": "A ratel can dig through hard ground with ease.", "example_ja": "ラーテルは硬い地面も難なく掘り進む。" }
+    ],
+    "warn": [
+      "ratel は『ミツアナグマ（honey badger）』のこと。気が荒く恐れ知らずな動物として知られる。",
+      "発音は『レイテル（ˈreɪtəl）』。rattle（ガラガラ音）と混同しないよう注意。"
+    ],
+    "etym_note": "アフリカーンス語（南アフリカのオランダ語系言語）の ratel に由来します。蜂蜜を好む習性から英語では honey badger（ミツアナグマ）とも呼ばれます。",
+    "etym_chain": [
+      { "node": "ratel", "sub": "ミツアナグマ", "era": "アフリカーンス語" },
+      { "node": "ratel", "sub": "ラーテル", "era": "近代英語" },
+      { "node": "ratel", "sub": "ラーテル・ミツアナグマ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a fearless ratel", "ja": "恐れ知らずのラーテル" },
+      { "en": "the ratel's thick skin", "ja": "ラーテルの厚い皮" },
+      { "en": "a ratel's burrow", "ja": "ラーテルの巣穴" },
+      { "en": "honey badger", "ja": "ミツアナグマ（別名）" },
+      { "en": "a tough ratel", "ja": "頑丈なラーテル" },
+      { "en": "spot a ratel", "ja": "ラーテルを見つける" }
+    ],
+    "related": [
+      { "en": "honey badger", "ja": "ミツアナグマ（別名）" },
+      { "en": "badger", "ja": "アナグマ" },
+      { "en": "weasel", "ja": "イタチ" },
+      { "en": "carnivore", "ja": "肉食動物" }
+    ],
+    "faq": [
+      { "q": "ratel とはどんな意味？", "a": "アフリカや南アジアにすむイタチ科の肉食動物『ラーテル（ミツアナグマ）』のことです。英語では honey badger ともいい、気が荒く恐れ知らずなことで知られます。" },
+      { "q": "ratel と honey badger は同じ？", "a": "はい、同じ動物です。ratel はアフリカーンス語由来の呼び名、honey badger（ミツアナグマ）は蜂蜜を好む習性にちなむ英語名です。" }
+    ],
+    "quiz": [
+      { "q": "The ___ is famous for its fearlessness.（ラーテル）", "A": "ratel", "B": "rattle のガラガラ", "C": "rattan の籐", "D": "rated の評価された", "correct": "A" },
+      { "q": "ratel の英語の別名はどれ？", "A": "honey badger（ミツアナグマ）", "B": "red fox（アカギツネ）", "C": "polar bear（ホッキョクグマ）", "D": "gray wolf（オオカミ）", "correct": "A" }
+    ]
+  }
+]
