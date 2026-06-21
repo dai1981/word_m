@@ -1,0 +1,54 @@
+[
+  {
+    "english": "rowel",
+    "pron": "ˈraʊəl",
+    "kana": "ラウエル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 roel（小さな輪）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "馬具"],
+    "meaning_main": "拍車の歯車（拍車の先で回る、とげのある小さな輪）",
+    "description": "rowel の意味・発音・例文・語源を解説。拍車の先についた、とげのある回転する小さな輪「拍車の歯車」を指す馬具の語の使い方を紹介します。",
+    "keywords": ["rowel 意味", "rowel 発音", "rowel 拍車", "rowel 歯車"],
+    "meanings": [
+      { "hinshi": "【名詞】拍車の歯車", "note": "拍車（spur）の先につく、とげのある回転する小さな輪。馬の脇腹に当てて合図する。" }
+    ],
+    "usages": [
+      { "title": "① 馬具として", "desc": "拍車の先の回る輪を指します。", "example_en": "The spur had a sharp, spinning rowel.", "example_ja": "その拍車には鋭く回る歯車がついていた。" },
+      { "title": "② 乗馬の場面で", "desc": "馬への合図に使う部分を表します。", "example_en": "He touched the horse gently with the rowel.", "example_ja": "彼は拍車の歯車で馬にそっと合図した。" }
+    ],
+    "warn": [
+      "rowel は『拍車（spur）の先で回る、とげのある小さな輪』。拍車全体は spur。",
+      "発音は『ラウエル（ˈraʊəl）』。"
+    ],
+    "etym_note": "古フランス語 roel（小さな輪、ラテン語 rotella「小さな車輪」より）に由来します。rota（車輪）から来ており、roll（転がる）や rotate（回転する）と同じ語根です。",
+    "etym_chain": [
+      { "node": "rotella", "sub": "小さな車輪", "era": "ラテン語" },
+      { "node": "roel", "sub": "小さな輪", "era": "古フランス語" },
+      { "node": "rowel", "sub": "拍車の歯車", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a sharp rowel", "ja": "鋭い拍車の歯車" },
+      { "en": "a spinning rowel", "ja": "回る拍車の歯車" },
+      { "en": "the spur's rowel", "ja": "拍車の歯車" },
+      { "en": "a star-shaped rowel", "ja": "星形の歯車" },
+      { "en": "touch with the rowel", "ja": "歯車で合図する" },
+      { "en": "a blunt rowel", "ja": "鈍い歯車" }
+    ],
+    "related": [
+      { "en": "spur", "ja": "拍車" },
+      { "en": "wheel", "ja": "車輪" },
+      { "en": "saddle", "ja": "鞍" },
+      { "en": "stirrup", "ja": "あぶみ" }
+    ],
+    "faq": [
+      { "q": "rowel とはどんな意味？", "a": "拍車（spur）の先についた、とげのある回転する小さな輪『拍車の歯車』のことです。馬の脇腹に当てて合図するのに使います。" },
+      { "q": "rowel と spur の違いは？", "a": "spur は乗馬靴のかかとに付ける『拍車』全体、rowel はその先で回る『とげのある小さな輪』の部分を指します。" }
+    ],
+    "quiz": [
+      { "q": "The spur had a sharp, spinning ___.（拍車の歯車）", "A": "rowel", "B": "trowel の移植ごて", "C": "towel のタオル", "D": "vowel の母音", "correct": "A" },
+      { "q": "rowel がついているのはどれ？", "A": "拍車（spur）", "B": "手綱", "C": "鞍", "D": "あぶみ", "correct": "A" }
+    ]
+  }
+]
