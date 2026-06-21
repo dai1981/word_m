@@ -1,0 +1,528 @@
+[
+  {
+    "english": "reformer",
+    "pron": "rɪˈfɔːrmər",
+    "kana": "リフォーマー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "reform（改革する）＋ -er",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "改革者・改革運動家（制度や社会を良くしようと変える人）",
+    "description": "reformer の意味・発音・例文・語源を解説。制度や社会の悪い点を改めようと活動する「改革者・改革運動家」を指す語の使い方を紹介します。",
+    "keywords": ["reformer 意味", "reformer 発音", "reformer 改革者", "reform 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】改革者・改革運動家", "note": "政治・社会・宗教などの制度を良くしようと変えていく人。a social reformer（社会改革者）。" }
+    ],
+    "usages": [
+      { "title": "① 社会改革者として", "desc": "制度を良くしようとする人を指します。", "example_en": "She was a famous social reformer.", "example_ja": "彼女は有名な社会改革者だった。" },
+      { "title": "② 歴史の文脈で", "desc": "宗教・政治の改革者を表します。", "example_en": "The reformers challenged the old church.", "example_ja": "改革者たちは古い教会に異議を唱えた。" }
+    ],
+    "warn": [
+      "reformer は『制度・社会を良くしようと変える人（改革者）』。reform（改革する）＋ -er。",
+      "急激に体制を覆す revolutionary（革命家）とはニュアンスが違い、改良を目指す。"
+    ],
+    "etym_note": "動詞 reform（re-「再び」＋ form「形づくる」＝作り直す・改革する）に「〜する人」の -er が付いた語です。「制度を形づくり直す人」を意味します。",
+    "etym_chain": [
+      { "node": "reformare", "sub": "作り直す", "era": "ラテン語" },
+      { "node": "reform", "sub": "改革する", "era": "中英語" },
+      { "node": "reformer", "sub": "改革者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a social reformer", "ja": "社会改革者" },
+      { "en": "a religious reformer", "ja": "宗教改革者" },
+      { "en": "a political reformer", "ja": "政治改革者" },
+      { "en": "a tireless reformer", "ja": "たゆまぬ改革者" },
+      { "en": "a great reformer", "ja": "偉大な改革者" },
+      { "en": "reformers and radicals", "ja": "改革者と急進派" }
+    ],
+    "related": [
+      { "en": "reform", "ja": "改革する" },
+      { "en": "activist", "ja": "活動家" },
+      { "en": "revolutionary", "ja": "革命家" },
+      { "en": "campaigner", "ja": "運動家" }
+    ],
+    "faq": [
+      { "q": "reformer とはどんな意味？", "a": "政治・社会・宗教などの制度を良くしようと変えていく『改革者・改革運動家』のことです。a social reformer（社会改革者）のように使います。" },
+      { "q": "reformer と revolutionary の違いは？", "a": "reformer は『既存の制度を改良しようとする人』、revolutionary は『体制そのものを覆そうとする革命家』です。" }
+    ],
+    "quiz": [
+      { "q": "She was a famous social ___.（改革者）", "A": "reformer", "B": "performer の演者", "C": "informer の密告者", "D": "reformer の代わりに farmer", "correct": "A" },
+      { "q": "reformer のもとになった動詞はどれ？", "A": "reform（改革する）", "B": "perform（演じる）", "C": "inform（知らせる）", "D": "confirm（確認する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rigidity",
+    "pron": "rɪˈdʒɪdəti",
+    "kana": "リジディティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 rigidus（硬い）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "硬さ・剛性／（考え方・規則の）厳格さ・融通のきかなさ",
+    "description": "rigidity の意味・発音・例文・語源を解説。物の「硬さ・剛性」や、考え方・規則の「厳格さ・融通のきかなさ」を指す語の使い方を紹介します。",
+    "keywords": ["rigidity 意味", "rigidity 発音", "rigidity 硬さ", "rigidity 厳格"],
+    "meanings": [
+      { "hinshi": "【名詞】硬さ・剛性", "note": "曲がったり変形したりしにくい性質。the rigidity of the frame（枠の剛性）。" },
+      { "hinshi": "【名詞】（考え・規則の）厳格さ・融通のきかなさ", "note": "柔軟さに欠けること。the rigidity of the rules（規則の厳格さ）。" }
+    ],
+    "usages": [
+      { "title": "① 「硬さ・剛性」として", "desc": "物が変形しにくい性質を表します。", "example_en": "The beam's rigidity prevents bending.", "example_ja": "その梁の剛性が曲がりを防ぐ。" },
+      { "title": "② 「厳格さ」として", "desc": "考え方や規則の融通のなさを表します。", "example_en": "The rigidity of the system frustrated him.", "example_ja": "その制度の融通のなさが彼をいらだたせた。" }
+    ],
+    "warn": [
+      "rigidity は『（物の）硬さ・剛性』と『（考え・規則の）厳格さ・融通のなさ』の両方。形容詞は rigid。",
+      "反対は flexibility（柔軟性）。"
+    ],
+    "etym_note": "ラテン語 rigidus（硬い・こわばった、rigere「こわばる」より）に由来します。形容詞 rigid（硬い・厳格な）の名詞形です。",
+    "etym_chain": [
+      { "node": "rigere", "sub": "こわばる", "era": "ラテン語" },
+      { "node": "rigidus", "sub": "硬い", "era": "ラテン語" },
+      { "node": "rigidity", "sub": "硬さ・厳格さ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "structural rigidity", "ja": "構造の剛性" },
+      { "en": "the rigidity of the rules", "ja": "規則の厳格さ" },
+      { "en": "mental rigidity", "ja": "考えの硬直性" },
+      { "en": "lack of rigidity", "ja": "剛性の不足" },
+      { "en": "rigidity and flexibility", "ja": "硬さと柔軟さ" },
+      { "en": "muscle rigidity", "ja": "筋肉のこわばり" }
+    ],
+    "related": [
+      { "en": "rigid", "ja": "硬い・厳格な" },
+      { "en": "stiffness", "ja": "こわばり・硬さ" },
+      { "en": "inflexibility", "ja": "融通のきかなさ" },
+      { "en": "flexibility", "ja": "柔軟性（反対語）" }
+    ],
+    "faq": [
+      { "q": "rigidity とはどんな意味？", "a": "物が曲がりにくい『硬さ・剛性』という意味と、考え方や規則の『厳格さ・融通のきかなさ』という意味があります。形容詞は rigid です。" },
+      { "q": "rigidity の反対語は？", "a": "flexibility（柔軟性）です。物が曲がりやすいこと、また考え方が柔軟であることを表します。" }
+    ],
+    "quiz": [
+      { "q": "The ___ of the system frustrated him.（融通のなさ）", "A": "rigidity", "B": "rapidity の速さ", "C": "validity の妥当性", "D": "humidity の湿気", "correct": "A" },
+      { "q": "rigidity の反対語はどれ？", "A": "flexibility（柔軟性）", "B": "stiffness（こわばり）", "C": "hardness（硬さ）", "D": "strength（強さ）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ripeness",
+    "pron": "ˈraɪpnəs",
+    "kana": "ライプネス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ripe（熟した）＋ -ness",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "（果実などの）熟していること・熟度／（時機の）成熟・機が熟していること",
+    "description": "ripeness の意味・発音・例文・語源を解説。果実が「熟していること・熟度」、また時機が「成熟していること」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["ripeness 意味", "ripeness 発音", "ripeness 熟度", "ripe 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】熟していること・熟度", "note": "果実などが食べごろに熟している状態・度合い。check for ripeness（熟れ具合を確かめる）。" },
+      { "hinshi": "【名詞】（時機・判断の）成熟・機が熟していること", "note": "じゅうぶんに整って機が熟していること。" }
+    ],
+    "usages": [
+      { "title": "① 果実の熟度として", "desc": "食べごろの熟れ具合を表します。", "example_en": "Judge the ripeness of a peach by its smell.", "example_ja": "桃の熟れ具合は香りで判断する。" },
+      { "title": "② 時機の成熟として", "desc": "機が熟していることを表します。", "example_en": "The ripeness of the moment was clear.", "example_ja": "機が熟していることは明らかだった。" }
+    ],
+    "warn": [
+      "ripeness は『（果実の）熟度・熟れ具合』が中心。比喩で『機が熟していること・成熟』も表す。形容詞は ripe。",
+      "ことわざ Ripeness is all.（機が熟することがすべて＝シェイクスピア）が有名。"
+    ],
+    "etym_note": "ripe（熟した・食べごろの）に「状態」を表す -ness が付いた語です。ripe は古英語 rīpe（収穫に適した）に由来し、reap（刈り取る）と関係します。",
+    "etym_chain": [
+      { "node": "rīpe", "sub": "収穫に適した", "era": "古英語" },
+      { "node": "ripe", "sub": "熟した", "era": "中英語" },
+      { "node": "ripeness", "sub": "熟度・成熟", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "check for ripeness", "ja": "熟れ具合を確かめる" },
+      { "en": "the ripeness of the fruit", "ja": "果実の熟度" },
+      { "en": "peak ripeness", "ja": "食べごろのピーク" },
+      { "en": "test the ripeness", "ja": "熟れ具合を調べる" },
+      { "en": "a stage of ripeness", "ja": "熟成の段階" },
+      { "en": "ripeness is all", "ja": "機が熟することがすべて" }
+    ],
+    "related": [
+      { "en": "ripe", "ja": "熟した" },
+      { "en": "maturity", "ja": "成熟" },
+      { "en": "readiness", "ja": "準備ができていること" },
+      { "en": "unripe", "ja": "未熟な（反対）" }
+    ],
+    "faq": [
+      { "q": "ripeness とはどんな意味？", "a": "果実などが食べごろに『熟していること・熟度』という意味と、比喩で時機が『成熟していること・機が熟していること』という意味があります。形容詞は ripe です。" },
+      { "q": "Ripeness is all. とは？", "a": "シェイクスピアの『リア王』の言葉で、『機が熟すこと（覚悟ができていること）がすべてだ』という意味です。" }
+    ],
+    "quiz": [
+      { "q": "Judge the ___ of a peach by its smell.（熟度）", "A": "ripeness", "B": "richness の豊かさ", "C": "rudeness の無礼", "D": "rustiness のさび", "correct": "A" },
+      { "q": "ripeness の形容詞形はどれ？", "A": "ripe（熟した）", "B": "rich（豊かな）", "C": "rude（無礼な）", "D": "rare（まれな）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rudeness",
+    "pron": "ˈruːdnəs",
+    "kana": "ルードネス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rude（無礼な）＋ -ness",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "頻出語"],
+    "meaning_main": "無礼・失礼・無作法",
+    "description": "rudeness の意味・発音・例文・語源を解説。礼儀を欠いた態度や言動「無礼・失礼・無作法」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["rudeness 意味", "rudeness 発音", "rudeness 無礼", "rude 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】無礼・失礼・無作法", "note": "礼儀を欠いた態度や言葉。apologize for one's rudeness（無礼をわびる）。" }
+    ],
+    "usages": [
+      { "title": "① 「無礼・失礼」として", "desc": "礼儀を欠いた態度を表します。", "example_en": "She was shocked by his rudeness.", "example_ja": "彼女は彼の無礼さに驚いた。" },
+      { "title": "② 謝罪の場面で", "desc": "失礼をわびるときに使います。", "example_en": "He apologized for his rudeness.", "example_ja": "彼は自分の無礼をわびた。" }
+    ],
+    "warn": [
+      "rudeness は『無礼・失礼・無作法』。形容詞は rude（無礼な）。反対は politeness（礼儀正しさ）。",
+      "rude には『（作りが）粗末な・未加工の』の意味もあるが、rudeness はふつう『無礼』。"
+    ],
+    "etym_note": "rude（無礼な・粗野な）に「状態・性質」を表す -ness が付いた語です。rude はラテン語 rudis（加工されていない・粗い）に由来し、「洗練されていない＝無作法」へ意味が広がりました。",
+    "etym_chain": [
+      { "node": "rudis", "sub": "粗い・未加工の", "era": "ラテン語" },
+      { "node": "rude", "sub": "無礼な・粗野な", "era": "中英語" },
+      { "node": "rudeness", "sub": "無礼・無作法", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "apologize for one's rudeness", "ja": "無礼をわびる" },
+      { "en": "shocked by his rudeness", "ja": "彼の無礼に驚いて" },
+      { "en": "sheer rudeness", "ja": "まったくの無礼" },
+      { "en": "tolerate rudeness", "ja": "無礼を我慢する" },
+      { "en": "an act of rudeness", "ja": "無礼な行い" },
+      { "en": "rudeness and arrogance", "ja": "無礼と傲慢" }
+    ],
+    "related": [
+      { "en": "rude", "ja": "無礼な" },
+      { "en": "impoliteness", "ja": "失礼" },
+      { "en": "insolence", "ja": "横柄さ" },
+      { "en": "politeness", "ja": "礼儀正しさ（反対語）" }
+    ],
+    "faq": [
+      { "q": "rudeness とはどんな意味？", "a": "礼儀を欠いた態度や言動『無礼・失礼・無作法』のことです。apologize for one's rudeness（無礼をわびる）のように使います。形容詞は rude です。" },
+      { "q": "rudeness の反対語は？", "a": "politeness（礼儀正しさ）や courtesy（丁寧さ・礼儀）です。" }
+    ],
+    "quiz": [
+      { "q": "She was shocked by his ___.（無礼）", "A": "rudeness", "B": "richness の豊かさ", "C": "ripeness の熟度", "D": "rawness の生々しさ", "correct": "A" },
+      { "q": "rudeness の反対語はどれ？", "A": "politeness（礼儀正しさ）", "B": "kindness（親切）", "C": "weakness（弱さ）", "D": "darkness（暗さ）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "roaster",
+    "pron": "ˈroʊstər",
+    "kana": "ロースター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "roast（焼く）＋ -er",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "道具・料理"],
+    "meaning_main": "ロースター（焼く・あぶる器具）／（コーヒー豆の）焙煎機・焙煎業者／ローストに適した鶏肉",
+    "description": "roaster の意味・発音・例文・語源を解説。肉やコーヒー豆を「焼く・あぶる器具」、コーヒーの「焙煎機・焙煎業者」を指す語の使い方を紹介します。",
+    "keywords": ["roaster 意味", "roaster 発音", "roaster 焙煎機", "roaster ロースター"],
+    "meanings": [
+      { "hinshi": "【名詞】ロースター（焼く器具）", "note": "肉などを焼く・あぶる調理器具や鍋。a coffee roaster（コーヒー焙煎機）。" },
+      { "hinshi": "【名詞】焙煎業者・焙煎する人", "note": "コーヒー豆などを焙煎する業者・職人。" },
+      { "hinshi": "【名詞】ロースト用の鶏", "note": "焼くのに適した若鶏。" }
+    ],
+    "usages": [
+      { "title": "① 焼く器具として", "desc": "肉や豆を焼く道具を指します。", "example_en": "She cooked the turkey in a large roaster.", "example_ja": "彼女は大きなロースターで七面鳥を焼いた。" },
+      { "title": "② 焙煎機・焙煎業者として", "desc": "コーヒー豆を焙煎する機械や人を表します。", "example_en": "The café has its own coffee roaster.", "example_ja": "そのカフェは自前のコーヒー焙煎機をもつ。" }
+    ],
+    "warn": [
+      "roaster は『焼く器具』『焙煎機・焙煎業者』『ロースト用の鶏』など多義。roast（焼く）＋ -er。",
+      "焼く料理そのものは roast（名詞・動詞）。"
+    ],
+    "etym_note": "動詞 roast（あぶり焼く）に「〜するもの・人」の -er が付いた語です。roast は古フランス語 rostir（焼く）に由来します。",
+    "etym_chain": [
+      { "node": "rostir", "sub": "焼く", "era": "古フランス語" },
+      { "node": "roast", "sub": "あぶり焼く", "era": "中英語" },
+      { "node": "roaster", "sub": "焼く器具・焙煎機", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a coffee roaster", "ja": "コーヒー焙煎機・焙煎業者" },
+      { "en": "a turkey roaster", "ja": "七面鳥用ロースター" },
+      { "en": "an electric roaster", "ja": "電気ロースター" },
+      { "en": "a small-batch roaster", "ja": "小規模焙煎業者" },
+      { "en": "roast in the roaster", "ja": "ロースターで焼く" },
+      { "en": "a coffee roastery", "ja": "コーヒー焙煎所" }
+    ],
+    "related": [
+      { "en": "roast", "ja": "あぶり焼く・ロースト" },
+      { "en": "oven", "ja": "オーブン" },
+      { "en": "grill", "ja": "焼き網・焼く" },
+      { "en": "roastery", "ja": "焙煎所" }
+    ],
+    "faq": [
+      { "q": "roaster とはどんな意味？", "a": "肉などを焼く・あぶる『調理器具（ロースター）』、コーヒー豆などの『焙煎機・焙煎業者』、また『ロースト用の鶏』を指します。文脈で意味が変わります。" },
+      { "q": "coffee roaster とは？", "a": "コーヒー豆を焙煎する『焙煎機』、またはコーヒー豆を焙煎する『業者・職人』のことです。" }
+    ],
+    "quiz": [
+      { "q": "The café has its own coffee ___.（焙煎機）", "A": "roaster", "B": "rooster のおんどり", "C": "rotor の回転子", "D": "roadster のオープンカー", "correct": "A" },
+      { "q": "roaster のもとになった動詞はどれ？", "A": "roast（焼く）", "B": "roam（さまよう）", "C": "roar（ほえる）", "D": "rob（奪う）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rustler",
+    "pron": "ˈrʌslər",
+    "kana": "ラスラー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rustle（こっそり盗む）＋ -er",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR B2", "西部・犯罪"],
+    "meaning_main": "家畜泥棒（特に牛を盗む者）",
+    "description": "rustler の意味・発音・例文・語源を解説。牛などの家畜を盗む「家畜泥棒」を指す、アメリカ西部の文脈で使う語の使い方を紹介します。",
+    "keywords": ["rustler 意味", "rustler 発音", "rustler 家畜泥棒", "cattle rustler 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】家畜泥棒", "note": "牛・馬などの家畜をこっそり盗む者。a cattle rustler（牛泥棒）。アメリカ西部劇でおなじみ。" }
+    ],
+    "usages": [
+      { "title": "① 牛泥棒として", "desc": "家畜を盗む者を指します。", "example_en": "Cattle rustlers stole the herd at night.", "example_ja": "牛泥棒たちが夜に群れを盗んだ。" },
+      { "title": "② 西部の文脈で", "desc": "牧畜地帯の犯罪者を表します。", "example_en": "The sheriff hunted down the rustlers.", "example_ja": "保安官は家畜泥棒たちを追い詰めた。" }
+    ],
+    "warn": [
+      "rustler は『家畜（特に牛）を盗む泥棒』。動詞 rustle には『（家畜を）こっそり盗む』の意味がある。",
+      "rustle の基本義『さらさら音を立てる』とは別の用法から派生。"
+    ],
+    "etym_note": "動詞 rustle（こっそり盗む、もとは『さらさら動く』）に「〜する人」の -er が付いた語です。家畜を音もなくこっそり連れ去ることから、この意味になりました。",
+    "etym_chain": [
+      { "node": "rustle", "sub": "さらさら動く・こっそり盗む", "era": "近代英語" },
+      { "node": "rustler", "sub": "こっそり盗む人", "era": "近代英語" },
+      { "node": "rustler", "sub": "家畜泥棒", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a cattle rustler", "ja": "牛泥棒" },
+      { "en": "catch the rustlers", "ja": "家畜泥棒を捕まえる" },
+      { "en": "a horse rustler", "ja": "馬泥棒" },
+      { "en": "a gang of rustlers", "ja": "家畜泥棒の一団" },
+      { "en": "hunt down rustlers", "ja": "家畜泥棒を追い詰める" },
+      { "en": "rustlers and outlaws", "ja": "家畜泥棒と無法者" }
+    ],
+    "related": [
+      { "en": "rustle", "ja": "こっそり盗む" },
+      { "en": "thief", "ja": "泥棒" },
+      { "en": "poacher", "ja": "密猟者" },
+      { "en": "outlaw", "ja": "無法者" }
+    ],
+    "faq": [
+      { "q": "rustler とはどんな意味？", "a": "牛・馬などの家畜をこっそり盗む『家畜泥棒』のことです。a cattle rustler（牛泥棒）のように使い、アメリカ西部劇でおなじみの存在です。" },
+      { "q": "rustler のもとの動詞 rustle の意味は？", "a": "もとは『さらさら音を立てる』ですが、ここでは『（家畜を）こっそり盗む』という意味から rustler（家畜泥棒）が生まれました。" }
+    ],
+    "quiz": [
+      { "q": "Cattle ___s stole the herd at night.（家畜泥棒）", "A": "rustler", "B": "wrestler のレスラー", "C": "rambler の散策者", "D": "rattler のガラガラヘビ", "correct": "A" },
+      { "q": "rustler が盗むのはどれ？", "A": "家畜（牛・馬）", "B": "宝石", "C": "車", "D": "美術品", "correct": "A" }
+    ]
+  },
+  {
+    "english": "regression",
+    "pron": "rɪˈɡreʃən",
+    "kana": "リグレッション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 regredi（後ろへ戻る）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "学術"],
+    "meaning_main": "後退・退行（前より悪い状態に戻ること）／（統計）回帰",
+    "description": "regression の意味・発音・例文・語源を解説。前より悪い状態に「後退・退行」すること、また統計の「回帰」を指す語の使い方を紹介します。",
+    "keywords": ["regression 意味", "regression 発音", "regression 退行", "regression 回帰"],
+    "meanings": [
+      { "hinshi": "【名詞】後退・退行", "note": "進歩の逆で、前より未熟・悪い状態に戻ること。心理学では『幼児期への退行』。" },
+      { "hinshi": "【名詞】（統計）回帰", "note": "データの関係を式で表す分析手法。regression analysis（回帰分析）。" }
+    ],
+    "usages": [
+      { "title": "① 「後退・退行」として", "desc": "前より悪い状態に戻ることを表します。", "example_en": "His illness caused a regression in his skills.", "example_ja": "彼の病気は技能の後退を招いた。" },
+      { "title": "② 「回帰（統計）」として", "desc": "データ分析の手法を表します。", "example_en": "They used regression to predict sales.", "example_ja": "彼らは売上予測に回帰分析を用いた。" }
+    ],
+    "warn": [
+      "regression は『後退・退行』（進歩 progression の反対）と、統計の『回帰』の二つで使う。動詞は regress。",
+      "心理学の『退行』、統計の『回帰分析（regression analysis）』が頻出。"
+    ],
+    "etym_note": "ラテン語 regredi（re-「後ろへ」＋ gradi「歩む」＝後ろへ戻る）の名詞形 regressio に由来します。progress（前進）, gradual（段階的な）と同じ gradi を語根にもちます。",
+    "etym_chain": [
+      { "node": "gradi", "sub": "歩む", "era": "ラテン語" },
+      { "node": "regredi", "sub": "後ろへ戻る", "era": "ラテン語" },
+      { "node": "regression", "sub": "後退・回帰", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "regression analysis", "ja": "回帰分析" },
+      { "en": "a regression in skills", "ja": "技能の後退" },
+      { "en": "emotional regression", "ja": "感情的な退行" },
+      { "en": "linear regression", "ja": "線形回帰" },
+      { "en": "cause a regression", "ja": "後退を招く" },
+      { "en": "progress and regression", "ja": "前進と後退" }
+    ],
+    "related": [
+      { "en": "regress", "ja": "後退する・退行する" },
+      { "en": "progression", "ja": "前進・進行（反対語）" },
+      { "en": "decline", "ja": "衰退" },
+      { "en": "relapse", "ja": "ぶり返し" }
+    ],
+    "faq": [
+      { "q": "regression とはどんな意味？", "a": "進歩の逆で、前より未熟・悪い状態に戻る『後退・退行』という意味と、統計でデータの関係を式に表す『回帰』という意味があります。動詞は regress です。" },
+      { "q": "regression と progression の違いは？", "a": "regression は『後ろへ戻る（後退・退行）』、progression は『前へ進む（前進・進行）』で、正反対の意味です。" }
+    ],
+    "quiz": [
+      { "q": "His illness caused a ___ in his skills.（後退）", "A": "regression", "B": "progression の前進", "C": "expression の表現", "D": "impression の印象", "correct": "A" },
+      { "q": "regression の反対語はどれ？", "A": "progression（前進）", "B": "depression（憂うつ）", "C": "session（会期）", "D": "tension（緊張）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "redeemer",
+    "pron": "rɪˈdiːmər",
+    "kana": "リディーマー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "redeem（買い戻す・救う）＋ -er",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "宗教・頻出語"],
+    "meaning_main": "救い主・あがない主／買い戻す人・取り戻す人",
+    "description": "redeemer の意味・発音・例文・語源を解説。人を罪から救う「救い主・あがない主」や、質草などを「買い戻す人」を指す語の使い方を紹介します。",
+    "keywords": ["redeemer 意味", "redeemer 発音", "redeemer 救い主", "redeem 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】救い主・あがない主", "note": "罪や苦しみから人を救う者。キリスト教では the Redeemer でイエス・キリストを指す。" },
+      { "hinshi": "【名詞】買い戻す人・取り戻す人", "note": "質入れしたものなどを買い戻す人。" }
+    ],
+    "usages": [
+      { "title": "① 「救い主」として", "desc": "人を救う者を指します。", "example_en": "Christians regard Jesus as their Redeemer.", "example_ja": "キリスト教徒はイエスを救い主とみなす。" },
+      { "title": "② 「買い戻す人」として", "desc": "質草などを取り戻す人を表します。", "example_en": "The redeemer of the pledge paid the debt.", "example_ja": "質草の買い戻し人は借金を支払った。" }
+    ],
+    "warn": [
+      "redeemer は『救い主・あがない主』が中心で、宗教では大文字 the Redeemer（キリスト）を指す。動詞は redeem。",
+      "redeem には『（クーポンなどを）換金・引き換える』の意味もある。"
+    ],
+    "etym_note": "動詞 redeem（買い戻す・あがなう）に「〜する人」の -er が付いた語です。redeem はラテン語 redimere（re-「再び」＋ emere「買う」＝買い戻す）に由来します。",
+    "etym_chain": [
+      { "node": "redimere", "sub": "買い戻す", "era": "ラテン語" },
+      { "node": "redeem", "sub": "買い戻す・救う", "era": "中英語" },
+      { "node": "redeemer", "sub": "救い主・買い戻す人", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the Redeemer", "ja": "救い主（キリスト）" },
+      { "en": "a redeemer of souls", "ja": "魂の救い主" },
+      { "en": "Christ the Redeemer", "ja": "救い主キリスト（像）" },
+      { "en": "a divine redeemer", "ja": "神なる救い主" },
+      { "en": "regard as a redeemer", "ja": "救い主とみなす" },
+      { "en": "the redeemer of the pledge", "ja": "質草の買い戻し人" }
+    ],
+    "related": [
+      { "en": "redeem", "ja": "買い戻す・救う" },
+      { "en": "savior", "ja": "救世主" },
+      { "en": "redemption", "ja": "あがない・救済" },
+      { "en": "deliverer", "ja": "救い出す人" }
+    ],
+    "faq": [
+      { "q": "redeemer とはどんな意味？", "a": "罪や苦しみから人を救う『救い主・あがない主』のことです。キリスト教では the Redeemer でイエス・キリストを指します。また質草を『買い戻す人』も意味します。" },
+      { "q": "redeemer と savior の違いは？", "a": "どちらも『救う者』ですが、redeemer は『（代価を払って）あがない救う者』、savior は『（危険から）救う救世主』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "Christians regard Jesus as their ___.（救い主）", "A": "Redeemer", "B": "Reminder の注意", "C": "Remainder の残り", "D": "Reader の読者", "correct": "A" },
+      { "q": "redeemer のもとになった動詞はどれ？", "A": "redeem（買い戻す・救う）", "B": "remind（思い出させる）", "C": "remain（残る）", "D": "read（読む）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "resistor",
+    "pron": "rɪˈzɪstər",
+    "kana": "レジスター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "resist（抵抗する）＋ -or",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "科学・電気"],
+    "meaning_main": "抵抗器（電流の流れを制限する電子部品）",
+    "description": "resistor の意味・発音・例文・語源を解説。電流の流れを制限して調整する電子部品「抵抗器」を指す科学・電気の語の使い方を紹介します。",
+    "keywords": ["resistor 意味", "resistor 発音", "resistor 抵抗器", "resist 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】抵抗器", "note": "電流の流れを制限・調整するために回路に組み込む電子部品。抵抗値はオーム（Ω）で表す。" }
+    ],
+    "usages": [
+      { "title": "① 電子部品として", "desc": "電流を制限する部品を指します。", "example_en": "Add a resistor to limit the current.", "example_ja": "電流を抑えるため抵抗器を加えなさい。" },
+      { "title": "② 回路の説明で", "desc": "回路を構成する部品として使います。", "example_en": "The circuit contains several resistors.", "example_ja": "その回路にはいくつかの抵抗器が含まれている。" }
+    ],
+    "warn": [
+      "resistor は『電流を制限する電子部品（抵抗器）』。抵抗という現象・物理量は resistance。混同しない。",
+      "発音は『レジスター（rɪˈzɪstər）』で、レジ register とは別語。"
+    ],
+    "etym_note": "動詞 resist（抵抗する）に「〜するもの」の -or が付いた語です。resist はラテン語 resistere（re-「逆らって」＋ sistere「立つ」＝立ち向かう）に由来します。",
+    "etym_chain": [
+      { "node": "resistere", "sub": "立ち向かう・抵抗する", "era": "ラテン語" },
+      { "node": "resist", "sub": "抵抗する", "era": "中英語" },
+      { "node": "resistor", "sub": "抵抗器", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a fixed resistor", "ja": "固定抵抗器" },
+      { "en": "a variable resistor", "ja": "可変抵抗器" },
+      { "en": "add a resistor", "ja": "抵抗器を加える" },
+      { "en": "the resistor's value", "ja": "抵抗器の値" },
+      { "en": "a carbon resistor", "ja": "炭素抵抗器" },
+      { "en": "resistors in series", "ja": "直列の抵抗器" }
+    ],
+    "related": [
+      { "en": "resistance", "ja": "抵抗（物理量）" },
+      { "en": "resist", "ja": "抵抗する" },
+      { "en": "capacitor", "ja": "コンデンサー" },
+      { "en": "circuit", "ja": "回路" }
+    ],
+    "faq": [
+      { "q": "resistor とはどんな意味？", "a": "電流の流れを制限・調整するために回路に組み込む電子部品『抵抗器』のことです。抵抗値はオーム（Ω）で表します。" },
+      { "q": "resistor と resistance の違いは？", "a": "resistor は『抵抗器（部品そのもの）』、resistance は『抵抗（電流の流れにくさという物理量）』です。" }
+    ],
+    "quiz": [
+      { "q": "Add a ___ to limit the current.（抵抗器）", "A": "resistor", "B": "resistance の抵抗", "C": "register のレジ", "D": "reservoir の貯水池", "correct": "A" },
+      { "q": "resistor の働きはどれ？", "A": "電流の流れを制限する", "B": "電気をためる", "C": "光を出す", "D": "音を出す", "correct": "A" }
+    ]
+  },
+  {
+    "english": "roadway",
+    "pron": "ˈroʊdweɪ",
+    "kana": "ロードウェイ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "road（道）＋ way（道筋）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "基本単語"],
+    "meaning_main": "車道・道路（車が通る部分）",
+    "description": "roadway の意味・発音・例文・語源を解説。車が通行する道路の部分「車道」を指す語の使い方を、例文や語源とともに分かりやすく紹介します。",
+    "keywords": ["roadway 意味", "roadway 発音", "roadway 車道", "road 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】車道・道路", "note": "道路のうち、車が通行する部分。歩道（sidewalk）と区別して使うことが多い。" }
+    ],
+    "usages": [
+      { "title": "① 車道として", "desc": "車が通る部分を指します。", "example_en": "Debris was scattered across the roadway.", "example_ja": "がれきが車道一面に散らばっていた。" },
+      { "title": "② 交通の文脈で", "desc": "道路そのものを表します。", "example_en": "The roadway was closed for repairs.", "example_ja": "その車道は補修のため閉鎖された。" }
+    ],
+    "warn": [
+      "roadway は『車が通る道路の部分（車道）』。歩道は sidewalk（米）/ pavement（英）。",
+      "road（道）＋ way（道筋）の複合語。"
+    ],
+    "etym_note": "road（道）＋ way（道筋・通り道）の複合語で、「車が通る道筋＝車道」を意味します。どちらも古英語（rād, weg）に由来する古い語です。",
+    "etym_chain": [
+      { "node": "rād + weg", "sub": "道＋道筋", "era": "古英語" },
+      { "node": "roadway", "sub": "車道", "era": "近代英語" },
+      { "node": "roadway", "sub": "車道・道路", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "across the roadway", "ja": "車道を横切って" },
+      { "en": "a busy roadway", "ja": "交通量の多い車道" },
+      { "en": "clear the roadway", "ja": "車道を片づける" },
+      { "en": "the roadway was closed", "ja": "車道が閉鎖された" },
+      { "en": "a narrow roadway", "ja": "狭い車道" },
+      { "en": "the edge of the roadway", "ja": "車道の端" }
+    ],
+    "related": [
+      { "en": "road", "ja": "道路" },
+      { "en": "carriageway", "ja": "車道（英）" },
+      { "en": "lane", "ja": "車線・小道" },
+      { "en": "sidewalk", "ja": "歩道（米）" }
+    ],
+    "faq": [
+      { "q": "roadway とはどんな意味？", "a": "道路のうち、車が通行する部分『車道』のことです。歩道（sidewalk）と区別して使われることが多いです。" },
+      { "q": "roadway と sidewalk の違いは？", "a": "roadway は『車が通る車道』、sidewalk（米）は『人が歩く歩道』です。" }
+    ],
+    "quiz": [
+      { "q": "Debris was scattered across the ___.（車道）", "A": "roadway", "B": "railway の鉄道", "C": "runway の滑走路", "D": "roadside の道端", "correct": "A" },
+      { "q": "roadway と区別される歩道はどれ？", "A": "sidewalk（歩道）", "B": "highway（幹線道路）", "C": "lane（車線）", "D": "avenue（大通り）", "correct": "A" }
+    ]
+  }
+]
