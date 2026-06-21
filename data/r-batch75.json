@@ -1,0 +1,526 @@
+[
+  {
+    "english": "rocket",
+    "pron": "ˈrɒkɪt",
+    "kana": "ロケット",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "イタリア語 rocchetta（小さな糸巻き）",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "基本単語"],
+    "meaning_main": "ロケット（噴射で飛ぶ装置）／（動詞）急上昇する・猛スピードで進む",
+    "description": "rocket の意味・発音・例文・語源を解説。宇宙へ飛ぶ「ロケット」や花火、また「急上昇する」という動詞の使い方を分かりやすく紹介します。",
+    "keywords": ["rocket 意味", "rocket 発音", "rocket ロケット", "rocket 急上昇"],
+    "meanings": [
+      { "hinshi": "【名詞】ロケット", "note": "ガスを後方に噴射した反動で飛ぶ装置。宇宙ロケットや花火のロケットなど。" },
+      { "hinshi": "【動詞】急上昇する・猛スピードで進む", "note": "prices rocket（価格が急騰する）のように使う。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「ロケット」として", "desc": "噴射で飛ぶ装置を指します。", "example_en": "The rocket lifted off into space.", "example_ja": "ロケットが宇宙へ向けて打ち上げられた。" },
+      { "title": "② 動詞「急上昇する」として", "desc": "値段などが急に上がる意味です。", "example_en": "House prices have rocketed this year.", "example_ja": "住宅価格は今年急騰した。" }
+    ],
+    "warn": [
+      "rocket は名詞『ロケット』のほか、動詞で『急上昇する・猛スピードで進む』の意味も頻出。",
+      "イギリスでは野菜の『ルッコラ（arugula）』を rocket と呼ぶこともある。"
+    ],
+    "etym_note": "イタリア語 rocchetta（小さな糸巻き、rocca「糸巻き棒」より）に由来します。打ち上げ花火の筒の形が糸巻きに似ていたことから名づけられました。",
+    "etym_chain": [
+      { "node": "rocca", "sub": "糸巻き棒", "era": "イタリア語" },
+      { "node": "rocchetta", "sub": "小さな糸巻き", "era": "イタリア語" },
+      { "node": "rocket", "sub": "ロケット", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "launch a rocket", "ja": "ロケットを打ち上げる" },
+      { "en": "a space rocket", "ja": "宇宙ロケット" },
+      { "en": "rocket science", "ja": "ロケット工学（＝非常に難しいこと）" },
+      { "en": "prices rocket", "ja": "価格が急騰する" },
+      { "en": "a rocket launcher", "ja": "ロケット発射装置" },
+      { "en": "rocket into the sky", "ja": "空へ猛スピードで上がる" }
+    ],
+    "related": [
+      { "en": "missile", "ja": "ミサイル" },
+      { "en": "spacecraft", "ja": "宇宙船" },
+      { "en": "launch", "ja": "打ち上げる" },
+      { "en": "soar", "ja": "急上昇する" }
+    ],
+    "faq": [
+      { "q": "rocket とはどんな意味？", "a": "ガスを後方に噴射した反動で飛ぶ装置『ロケット』のことです。動詞では『急上昇する・猛スピードで進む』を表し、prices rocket（価格が急騰する）のように使います。" },
+      { "q": "rocket science とは？", "a": "『ロケット工学』ですが、It's not rocket science.（そんなに難しいことじゃない）のように『非常に難しいこと』のたとえとしてよく使われます。" }
+    ],
+    "quiz": [
+      { "q": "The ___ lifted off into space.（ロケット）", "A": "rocket", "B": "racket のラケット", "C": "ticket の切符", "D": "pocket のポケット", "correct": "A" },
+      { "q": "動詞 rocket の意味はどれ？", "A": "急上昇する", "B": "ゆっくり沈む", "C": "止まる", "D": "回転する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ruby",
+    "pron": "ˈruːbi",
+    "kana": "ルビー",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 rubeus（赤い）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "宝石・色"],
+    "meaning_main": "ルビー（赤い宝石）／（形容詞）深紅の・ルビー色の",
+    "description": "ruby の意味・発音・例文・語源を解説。深い赤色の宝石「ルビー」や、その色を表す形容詞「深紅の」の使い方を分かりやすく紹介します。",
+    "keywords": ["ruby 意味", "ruby 発音", "ruby ルビー", "ruby 宝石"],
+    "meanings": [
+      { "hinshi": "【名詞】ルビー", "note": "深い赤色の貴重な宝石。7月の誕生石。" },
+      { "hinshi": "【形容詞】深紅の・ルビー色の", "note": "ruby lips（真っ赤な唇）のように色を表す。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「ルビー」として", "desc": "赤い宝石を指します。", "example_en": "The ring had a large ruby in the center.", "example_ja": "その指輪は中央に大きなルビーがついていた。" },
+      { "title": "② 形容詞「深紅の」として", "desc": "ルビーのような赤色を表します。", "example_en": "She wore a ruby-red dress.", "example_ja": "彼女は深紅のドレスを着ていた。" }
+    ],
+    "warn": [
+      "ruby は赤い宝石『ルビー』。同じ赤い宝石でも garnet（ガーネット）とは別。青いのは sapphire（サファイア）。",
+      "結婚40周年は ruby wedding（ルビー婚式）。7月の誕生石でもある。"
+    ],
+    "etym_note": "ラテン語 rubeus（赤い）に由来し、ruber（赤）から来ています。rubric（赤い見出し）や rouge（頬紅）と同じ語根で、「赤い石」を意味します。",
+    "etym_chain": [
+      { "node": "rubeus", "sub": "赤い", "era": "ラテン語" },
+      { "node": "rubi", "sub": "ルビー", "era": "古フランス語" },
+      { "node": "ruby", "sub": "ルビー・深紅の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a ruby ring", "ja": "ルビーの指輪" },
+      { "en": "ruby-red", "ja": "深紅の" },
+      { "en": "a ruby necklace", "ja": "ルビーのネックレス" },
+      { "en": "ruby wedding", "ja": "ルビー婚式（40周年）" },
+      { "en": "rubies and diamonds", "ja": "ルビーとダイヤモンド" },
+      { "en": "ruby lips", "ja": "真っ赤な唇" }
+    ],
+    "related": [
+      { "en": "diamond", "ja": "ダイヤモンド" },
+      { "en": "sapphire", "ja": "サファイア" },
+      { "en": "emerald", "ja": "エメラルド" },
+      { "en": "gem", "ja": "宝石" }
+    ],
+    "faq": [
+      { "q": "ruby とはどんな意味？", "a": "深い赤色の貴重な宝石『ルビー』のことです。形容詞では『深紅の・ルビー色の』を表します。7月の誕生石でもあります。" },
+      { "q": "ruby wedding とは？", "a": "結婚40周年を祝う『ルビー婚式』のことです。ルビーの深い赤にちなんでいます。" }
+    ],
+    "quiz": [
+      { "q": "The ring had a large ___ in the center.（ルビー）", "A": "ruby", "B": "rugby のラグビー", "C": "rub のこする", "D": "ruler の定規", "correct": "A" },
+      { "q": "ruby の語源の意味はどれ？", "A": "赤い", "B": "青い", "C": "硬い", "D": "丸い", "correct": "A" }
+    ]
+  },
+  {
+    "english": "robin",
+    "pron": "ˈrɒbɪn",
+    "kana": "ロビン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "人名 Robin（Robert の愛称）より",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "自然・生き物"],
+    "meaning_main": "コマドリ・ロビン（胸の赤い親しみやすい小鳥）",
+    "description": "robin の意味・発音・例文・語源を解説。胸が赤い親しみやすい小鳥「コマドリ（ロビン）」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["robin 意味", "robin 発音", "robin コマドリ", "robin 鳥"],
+    "meanings": [
+      { "hinshi": "【名詞】コマドリ・ロビン", "note": "胸がオレンジ赤色の小鳥。ヨーロッパロビンはイギリスで親しまれ、冬・クリスマスの象徴。アメリカロビンは別種で大きめ。" }
+    ],
+    "usages": [
+      { "title": "① 小鳥として", "desc": "胸の赤い小鳥を指します。", "example_en": "A robin hopped across the lawn.", "example_ja": "コマドリが芝生を跳ねて横切った。" },
+      { "title": "② 季節の象徴として", "desc": "冬やクリスマスの場面で使われます。", "example_en": "Robins often appear on Christmas cards.", "example_ja": "コマドリはよくクリスマスカードに描かれる。" }
+    ],
+    "warn": [
+      "robin は『胸の赤い親しみやすい小鳥（コマドリ）』。文学的には redbreast（赤い胸）とも呼ばれる。",
+      "イギリスの robin とアメリカの robin は別種（米のほうが大きい）。"
+    ],
+    "etym_note": "人名 Robin（Robert の愛称）に由来します。もとは robin redbreast（コマドリ）と呼ばれ、人名を鳥に親しみを込めてつけたものです。",
+    "etym_chain": [
+      { "node": "Robert", "sub": "人名", "era": "古フランス語" },
+      { "node": "robin redbreast", "sub": "コマドリ", "era": "中英語" },
+      { "node": "robin", "sub": "コマドリ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a robin redbreast", "ja": "コマドリ" },
+      { "en": "a robin in the garden", "ja": "庭のコマドリ" },
+      { "en": "the robin sang", "ja": "コマドリが鳴いた" },
+      { "en": "spot a robin", "ja": "コマドリを見つける" },
+      { "en": "the first robin of spring", "ja": "春一番のコマドリ" },
+      { "en": "a robin's nest", "ja": "コマドリの巣" }
+    ],
+    "related": [
+      { "en": "redbreast", "ja": "コマドリ（文学的な呼び名）" },
+      { "en": "sparrow", "ja": "スズメ" },
+      { "en": "thrush", "ja": "ツグミ" },
+      { "en": "songbird", "ja": "鳴き鳥" }
+    ],
+    "faq": [
+      { "q": "robin とはどんな意味？", "a": "胸がオレンジ赤色の親しみやすい小鳥『コマドリ（ロビン）』のことです。イギリスでは冬やクリスマスの象徴として親しまれています。" },
+      { "q": "イギリスとアメリカの robin は同じ？", "a": "別の種です。ヨーロッパロビンは小さく、アメリカロビンはより大きいツグミの仲間です。どちらも胸が赤いことから同じ名で呼ばれます。" }
+    ],
+    "quiz": [
+      { "q": "A ___ hopped across the lawn.（コマドリ）", "A": "robin", "B": "ribbon のリボン", "C": "rabbit のうさぎ", "D": "raven のカラス", "correct": "A" },
+      { "q": "robin の語源はどれ？", "A": "人名（Robert の愛称）", "B": "色の名", "C": "地名", "D": "鳴き声", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ranger",
+    "pron": "ˈreɪndʒər",
+    "kana": "レンジャー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "range（歩き回る）＋ -er",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "職業"],
+    "meaning_main": "（国立公園などの）森林警備隊員・自然監視員／特殊部隊の隊員",
+    "description": "ranger の意味・発音・例文・語源を解説。国立公園や森を見回り管理する「森林警備隊員・自然監視員」や、特殊部隊の隊員を指す語の使い方を紹介します。",
+    "keywords": ["ranger 意味", "ranger 発音", "ranger レンジャー", "ranger 森林警備"],
+    "meanings": [
+      { "hinshi": "【名詞】森林警備隊員・自然監視員", "note": "国立公園・森林などを見回り、自然や来訪者を管理する人。park ranger（公園レンジャー）。" },
+      { "hinshi": "【名詞】（軍の）特殊部隊員・遊撃隊員", "note": "機動的に行動する精鋭部隊の隊員。" }
+    ],
+    "usages": [
+      { "title": "① 「森林警備隊員」として", "desc": "公園や森を管理する人を指します。", "example_en": "The park ranger warned us about bears.", "example_ja": "公園のレンジャーがクマについて注意してくれた。" },
+      { "title": "② 「特殊部隊員」として", "desc": "機動的な精鋭部隊の隊員を表します。", "example_en": "He trained to become an Army Ranger.", "example_ja": "彼は陸軍レンジャーになる訓練を受けた。" }
+    ],
+    "warn": [
+      "ranger は『（公園・森の）警備・監視員』と『（軍の）特殊部隊員』の両方で使う。",
+      "range（広い範囲を歩き回る）＋ -er が語源。『広い区域を見回る人』。"
+    ],
+    "etym_note": "動詞 range（歩き回る・広がる）に「〜する人」の -er が付いた語です。range は古フランス語 rangier（並べる・配置する）に由来し、「広い区域を歩き回って見守る人」を意味します。",
+    "etym_chain": [
+      { "node": "rangier", "sub": "並べる・配置する", "era": "古フランス語" },
+      { "node": "range", "sub": "歩き回る・広がる", "era": "中英語" },
+      { "node": "ranger", "sub": "森林警備隊員", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a park ranger", "ja": "公園レンジャー" },
+      { "en": "a forest ranger", "ja": "森林警備隊員" },
+      { "en": "an Army Ranger", "ja": "陸軍レンジャー" },
+      { "en": "the ranger's station", "ja": "レンジャーの詰め所" },
+      { "en": "a wildlife ranger", "ja": "野生動物監視員" },
+      { "en": "ask the ranger", "ja": "レンジャーに尋ねる" }
+    ],
+    "related": [
+      { "en": "warden", "ja": "監視員・管理人" },
+      { "en": "guard", "ja": "警備員" },
+      { "en": "scout", "ja": "斥候・偵察者" },
+      { "en": "range", "ja": "歩き回る・範囲" }
+    ],
+    "faq": [
+      { "q": "ranger とはどんな意味？", "a": "国立公園や森林を見回り、自然や来訪者を管理する『森林警備隊員・自然監視員』のことです。軍では機動的に行動する『特殊部隊員』も指します。" },
+      { "q": "ranger の語源は？", "a": "range（歩き回る・広がる）＋ -er です。『広い区域を歩き回って見守る人』を意味します。" }
+    ],
+    "quiz": [
+      { "q": "The park ___ warned us about bears.（レンジャー）", "A": "ranger", "B": "rancher の牧場主", "C": "danger の危険", "D": "ranger の代わりに stranger", "correct": "A" },
+      { "q": "ranger のもとになった動詞はどれ？", "A": "range（歩き回る）", "B": "rang（鳴った）", "C": "rank（並べる）", "D": "rage（激怒する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reporter",
+    "pron": "rɪˈpɔːrtər",
+    "kana": "リポーター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "report（報告する）＋ -er",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "職業"],
+    "meaning_main": "記者・報道記者・レポーター（取材して伝える人）",
+    "description": "reporter の意味・発音・例文・語源を解説。事件や出来事を取材して伝える「記者・報道記者・レポーター」を指す職業の語の使い方を紹介します。",
+    "keywords": ["reporter 意味", "reporter 発音", "reporter 記者", "reporter レポーター"],
+    "meanings": [
+      { "hinshi": "【名詞】記者・報道記者・レポーター", "note": "新聞・テレビ・ラジオなどで、事件や出来事を取材し伝える人。a news reporter（報道記者）。" }
+    ],
+    "usages": [
+      { "title": "① 報道の仕事として", "desc": "取材して伝える人を指します。", "example_en": "A reporter interviewed the witnesses.", "example_ja": "記者が目撃者たちに取材した。" },
+      { "title": "② テレビ・現場で", "desc": "現地から伝える人を表します。", "example_en": "The reporter spoke live from the scene.", "example_ja": "レポーターは現場から生中継で伝えた。" }
+    ],
+    "warn": [
+      "reporter は『取材して伝える記者・レポーター』。報道機関で働く人。report（報告する）＋ -er。",
+      "編集する人は editor、論説を書く人は columnist など、役割で語が異なる。"
+    ],
+    "etym_note": "動詞 report（報告する・伝える）に「〜する人」の -er が付いた語です。report はラテン語 reportare（持ち帰る・伝える）に由来します。",
+    "etym_chain": [
+      { "node": "reportare", "sub": "持ち帰る・伝える", "era": "ラテン語" },
+      { "node": "report", "sub": "報告する", "era": "中英語" },
+      { "node": "reporter", "sub": "記者・レポーター", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a news reporter", "ja": "報道記者" },
+      { "en": "a TV reporter", "ja": "テレビレポーター" },
+      { "en": "a newspaper reporter", "ja": "新聞記者" },
+      { "en": "an investigative reporter", "ja": "調査報道記者" },
+      { "en": "a sports reporter", "ja": "スポーツ記者" },
+      { "en": "the reporter asked", "ja": "記者が尋ねた" }
+    ],
+    "related": [
+      { "en": "journalist", "ja": "ジャーナリスト" },
+      { "en": "correspondent", "ja": "特派員" },
+      { "en": "editor", "ja": "編集者" },
+      { "en": "report", "ja": "報告する・報道" }
+    ],
+    "faq": [
+      { "q": "reporter とはどんな意味？", "a": "新聞・テレビ・ラジオなどで、事件や出来事を取材し伝える『記者・報道記者・レポーター』のことです。a news reporter（報道記者）のように使います。" },
+      { "q": "reporter と journalist の違いは？", "a": "reporter は特に『現場を取材して伝える記者』、journalist は報道に携わる人全般（記者・編集者・評論家など）を含む広い語です。" }
+    ],
+    "quiz": [
+      { "q": "A ___ interviewed the witnesses.（記者）", "A": "reporter", "B": "reportage のルポ", "C": "report の報告", "D": "repairer の修理人", "correct": "A" },
+      { "q": "reporter のもとになった動詞はどれ？", "A": "report（報告する）", "B": "repair（修理する）", "C": "repeat（繰り返す）", "D": "reply（返事する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reindeer",
+    "pron": "ˈreɪndɪər",
+    "kana": "レインディア",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古ノルド語 hreinn（トナカイ）＋ deer（鹿）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "自然・生き物"],
+    "meaning_main": "トナカイ（北極圏にすむ、大きな角をもつ鹿）",
+    "description": "reindeer の意味・発音・例文・語源を解説。北極圏の寒い地方にすみ、大きな角をもつ鹿「トナカイ」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["reindeer 意味", "reindeer 発音", "reindeer トナカイ", "reindeer サンタ"],
+    "meanings": [
+      { "hinshi": "【名詞】トナカイ", "note": "北極圏の寒冷地にすむ、雌雄とも大きな角をもつ鹿。単複同形（one reindeer / many reindeer）。北米では caribou ともいう。" }
+    ],
+    "usages": [
+      { "title": "① 動物として", "desc": "寒い地方の角のある鹿を指します。", "example_en": "Reindeer migrate across the tundra.", "example_ja": "トナカイはツンドラを横断して移動する。" },
+      { "title": "② クリスマスの象徴として", "desc": "サンタのそりを引く動物として使います。", "example_en": "Santa's sleigh is pulled by reindeer.", "example_ja": "サンタのそりはトナカイが引く。" }
+    ],
+    "warn": [
+      "reindeer は単数も複数も同じ形（one reindeer / many reindeer）。reindeers とは普通しない。",
+      "野生の北米のものは caribou（カリブー）と呼ばれる。"
+    ],
+    "etym_note": "古ノルド語 hreinn（トナカイ）＋ deer（鹿）から成ります。hreinn 自体が『トナカイ』を意味するため、deer を重ねて「トナカイという鹿」となった語です。",
+    "etym_chain": [
+      { "node": "hreinn", "sub": "トナカイ", "era": "古ノルド語" },
+      { "node": "reindeer", "sub": "トナカイ", "era": "中英語" },
+      { "node": "reindeer", "sub": "トナカイ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a herd of reindeer", "ja": "トナカイの群れ" },
+      { "en": "Santa's reindeer", "ja": "サンタのトナカイ" },
+      { "en": "reindeer antlers", "ja": "トナカイの角" },
+      { "en": "a reindeer sleigh", "ja": "トナカイのそり" },
+      { "en": "herd reindeer", "ja": "トナカイを飼育する" },
+      { "en": "wild reindeer", "ja": "野生のトナカイ" }
+    ],
+    "related": [
+      { "en": "caribou", "ja": "カリブー（北米のトナカイ）" },
+      { "en": "deer", "ja": "鹿" },
+      { "en": "antler", "ja": "（鹿の）角" },
+      { "en": "tundra", "ja": "ツンドラ" }
+    ],
+    "faq": [
+      { "q": "reindeer とはどんな意味？", "a": "北極圏の寒冷地にすみ、雌雄とも大きな角をもつ鹿『トナカイ』のことです。クリスマスにはサンタのそりを引く動物としても知られます。" },
+      { "q": "reindeer の複数形は？", "a": "単数も複数も同じ reindeer です。one reindeer / many reindeer のように使い、reindeers とは普通しません。" }
+    ],
+    "quiz": [
+      { "q": "Santa's sleigh is pulled by ___.（トナカイ）", "A": "reindeer", "B": "raindeer", "C": "reinder", "D": "rainfall の降雨", "correct": "A" },
+      { "q": "reindeer の複数形はどれ？", "A": "reindeer（単複同形）", "B": "reindeers", "C": "reindeeren", "D": "reindeeries", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rusty",
+    "pron": "ˈrʌsti",
+    "kana": "ラスティ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "rust（さび）＋ -y",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "基本単語"],
+    "meaning_main": "さびた・さびついた／（腕・知識が）なまった・鈍った",
+    "description": "rusty の意味・発音・例文・語源を解説。金属が「さびた」状態や、しばらく使わず腕・知識が「なまった」という比喩の使い方を紹介します。",
+    "keywords": ["rusty 意味", "rusty 発音", "rusty さびた", "rusty なまった"],
+    "meanings": [
+      { "hinshi": "【形容詞】さびた・さびついた", "note": "金属が酸化してさびた状態。a rusty nail（さびた釘）。" },
+      { "hinshi": "【形容詞】（腕・知識が）なまった・鈍った", "note": "しばらく使わず衰えたようす。My English is rusty.（英語がなまっている）。" }
+    ],
+    "usages": [
+      { "title": "① 「さびた」として", "desc": "金属がさびた状態を表します。", "example_en": "The gate was old and rusty.", "example_ja": "その門は古くてさびついていた。" },
+      { "title": "② 「なまった」として", "desc": "腕や知識が衰えたようすを表します。", "example_en": "My French is a bit rusty.", "example_ja": "私のフランス語は少しなまっている。" }
+    ],
+    "warn": [
+      "rusty は『さびた』のほか、比喩で『（使わずに）腕・知識がなまった』の意味でも頻出。",
+      "rust（さび）＋ -y。色の『さび色（赤茶）』を表すこともある。"
+    ],
+    "etym_note": "rust（さび）に「〜の多い・〜のような」を表す -y が付いた語です。rust は古英語 rūst（さび）に由来し、red（赤）と語源的につながります。",
+    "etym_chain": [
+      { "node": "rūst", "sub": "さび", "era": "古英語" },
+      { "node": "rust", "sub": "さび", "era": "中英語" },
+      { "node": "rusty", "sub": "さびた・なまった", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rusty nail", "ja": "さびた釘" },
+      { "en": "a rusty gate", "ja": "さびた門" },
+      { "en": "go rusty", "ja": "さびる・なまる" },
+      { "en": "my English is rusty", "ja": "英語がなまっている" },
+      { "en": "rusty skills", "ja": "なまった腕前" },
+      { "en": "a bit rusty", "ja": "少しなまっている" }
+    ],
+    "related": [
+      { "en": "rust", "ja": "さび" },
+      { "en": "corroded", "ja": "腐食した" },
+      { "en": "out of practice", "ja": "練習不足の・なまった" },
+      { "en": "shiny", "ja": "ぴかぴかの（反対語）" }
+    ],
+    "faq": [
+      { "q": "rusty とはどんな意味？", "a": "金属が『さびた・さびついた』状態を表します。比喩で、しばらく使わずに腕や知識が『なまった・鈍った』という意味でも使います。My English is rusty.（英語がなまっている）のように使います。" },
+      { "q": "My English is rusty. とはどういう意味？", "a": "『英語をしばらく使っていなくて腕がなまっている・忘れかけている』という意味です。" }
+    ],
+    "quiz": [
+      { "q": "My French is a bit ___.（なまった）", "A": "rusty", "B": "ready の準備できた", "C": "rosy のばら色の", "D": "risky の危険な", "correct": "A" },
+      { "q": "rusty のもとになった語はどれ？", "A": "rust（さび）", "B": "rush（急ぎ）", "C": "rest（休み）", "D": "rust の代わりに dust", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rooftop",
+    "pron": "ˈruːftɒp",
+    "kana": "ルーフトップ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "roof（屋根）＋ top（てっぺん）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "基本単語"],
+    "meaning_main": "屋上・屋根の上",
+    "description": "rooftop の意味・発音・例文・語源を解説。建物の「屋上・屋根の上」を指す身近な語の使い方を、例文や語源とともに分かりやすく紹介します。",
+    "keywords": ["rooftop 意味", "rooftop 発音", "rooftop 屋上", "rooftop 屋根"],
+    "meanings": [
+      { "hinshi": "【名詞】屋上・屋根の上", "note": "建物のいちばん上の面。rooftop bar（屋上のバー）、rooftop garden（屋上庭園）。" }
+    ],
+    "usages": [
+      { "title": "① 「屋上」として", "desc": "建物の上の面を指します。", "example_en": "We watched the fireworks from the rooftop.", "example_ja": "私たちは屋上から花火を見た。" },
+      { "title": "② 形容詞的に", "desc": "屋上にある施設を表します。", "example_en": "They opened a rooftop bar downtown.", "example_ja": "彼らは中心街に屋上バーを開いた。" }
+    ],
+    "warn": [
+      "rooftop は『屋上・屋根の上』。roof（屋根）＋ top（てっぺん）の複合語。",
+      "shout from the rooftops は『大声で言いふらす』という比喩表現。"
+    ],
+    "etym_note": "roof（屋根）＋ top（てっぺん・上部）の複合語で、文字どおり「屋根の上・屋上」を意味します。どちらも古英語（hrōf, topp）に由来する古い語です。",
+    "etym_chain": [
+      { "node": "hrōf + topp", "sub": "屋根＋てっぺん", "era": "古英語" },
+      { "node": "rooftop", "sub": "屋根の上", "era": "近代英語" },
+      { "node": "rooftop", "sub": "屋上", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rooftop bar", "ja": "屋上のバー" },
+      { "en": "a rooftop garden", "ja": "屋上庭園" },
+      { "en": "from the rooftop", "ja": "屋上から" },
+      { "en": "rooftop solar panels", "ja": "屋上の太陽光パネル" },
+      { "en": "shout from the rooftops", "ja": "大声で言いふらす" },
+      { "en": "a rooftop view", "ja": "屋上からの眺め" }
+    ],
+    "related": [
+      { "en": "roof", "ja": "屋根" },
+      { "en": "terrace", "ja": "テラス" },
+      { "en": "balcony", "ja": "バルコニー" },
+      { "en": "penthouse", "ja": "最上階の住居" }
+    ],
+    "faq": [
+      { "q": "rooftop とはどんな意味？", "a": "建物のいちばん上の面『屋上・屋根の上』のことです。rooftop bar（屋上のバー）、rooftop garden（屋上庭園）のように使います。" },
+      { "q": "shout from the rooftops とは？", "a": "『（うれしいことなどを）大声で言いふらす・みんなに知らせる』という意味の比喩表現です。" }
+    ],
+    "quiz": [
+      { "q": "We watched the fireworks from the ___.（屋上）", "A": "rooftop", "B": "roadside の道端", "C": "rooftile", "D": "rooftop の代わりに laptop", "correct": "A" },
+      { "q": "shout from the rooftops の意味はどれ？", "A": "大声で言いふらす", "B": "静かに隠す", "C": "屋根を修理する", "D": "屋上で休む", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rucksack",
+    "pron": "ˈrʌksæk",
+    "kana": "ラックサック",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ドイツ語 Rücken（背中）＋ Sack（袋）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "日常・道具"],
+    "meaning_main": "リュックサック・背負いかばん（主にイギリス英語）",
+    "description": "rucksack の意味・発音・例文・語源を解説。背中に背負う大型のかばん「リュックサック」を指す、主にイギリスで使う語の使い方を紹介します。",
+    "keywords": ["rucksack 意味", "rucksack 発音", "rucksack リュック", "rucksack 背負いかばん"],
+    "meanings": [
+      { "hinshi": "【名詞】リュックサック・背負いかばん", "note": "両肩のひもで背中に背負う大型のかばん。登山・旅行用。主にイギリス英語で、アメリカでは backpack。" }
+    ],
+    "usages": [
+      { "title": "① 登山・旅行で", "desc": "背負う大型かばんを指します。", "example_en": "He packed his rucksack for the hike.", "example_ja": "彼はハイキングのためリュックに荷物を詰めた。" },
+      { "title": "② 日常の持ち物として", "desc": "背負いかばんとして使います。", "example_en": "She carried her books in a rucksack.", "example_ja": "彼女は本をリュックに入れて運んだ。" }
+    ],
+    "warn": [
+      "rucksack は『背負う大型かばん（リュック）』。主にイギリス英語で、アメリカでは backpack が一般的。",
+      "ドイツ語 Rücken（背中）＋ Sack（袋）由来。日本語『リュックサック』もこのドイツ語から。"
+    ],
+    "etym_note": "ドイツ語 Rucksack（Rücken「背中」＋ Sack「袋」＝背中の袋）に由来します。登山が盛んなアルプス地方から広まり、日本語の『リュックサック』も同じ語源です。",
+    "etym_chain": [
+      { "node": "Rücken + Sack", "sub": "背中＋袋", "era": "ドイツ語" },
+      { "node": "Rucksack", "sub": "背中の袋", "era": "ドイツ語" },
+      { "node": "rucksack", "sub": "リュックサック", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "pack a rucksack", "ja": "リュックに荷を詰める" },
+      { "en": "a heavy rucksack", "ja": "重いリュック" },
+      { "en": "carry a rucksack", "ja": "リュックを背負う" },
+      { "en": "a hiking rucksack", "ja": "登山用リュック" },
+      { "en": "sling on a rucksack", "ja": "リュックを背負う" },
+      { "en": "a canvas rucksack", "ja": "帆布のリュック" }
+    ],
+    "related": [
+      { "en": "backpack", "ja": "リュックサック（米）" },
+      { "en": "knapsack", "ja": "背のう・ナップザック" },
+      { "en": "bag", "ja": "かばん" },
+      { "en": "haversack", "ja": "雑のう・肩かけかばん" }
+    ],
+    "faq": [
+      { "q": "rucksack とはどんな意味？", "a": "両肩のひもで背中に背負う大型のかばん『リュックサック』のことです。主にイギリス英語で、アメリカでは backpack と言います。" },
+      { "q": "rucksack の語源は？", "a": "ドイツ語 Rucksack（Rücken「背中」＋ Sack「袋」）です。『背中の袋』を意味し、日本語の『リュックサック』も同じ由来です。" }
+    ],
+    "quiz": [
+      { "q": "He packed his ___ for the hike.（リュック）", "A": "rucksack", "B": "ransack の略奪する", "C": "ruckus の騒ぎ", "D": "rickshaw の人力車", "correct": "A" },
+      { "q": "rucksack の語源の意味はどれ？", "A": "背中の袋", "B": "手提げ箱", "C": "丸い包み", "D": "肩の板", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rehearsal",
+    "pron": "rɪˈhɜːrsəl",
+    "kana": "リハーサル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 rehercier（繰り返す）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "頻出語"],
+    "meaning_main": "リハーサル・下げいこ・予行練習",
+    "description": "rehearsal の意味・発音・例文・語源を解説。本番に備えて行う「リハーサル・下げいこ・予行練習」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["rehearsal 意味", "rehearsal 発音", "rehearsal リハーサル", "rehearsal 予行"],
+    "meanings": [
+      { "hinshi": "【名詞】リハーサル・下げいこ・予行練習", "note": "劇・音楽・式典などの本番前に行う練習。動詞は rehearse（リハーサルする）。" }
+    ],
+    "usages": [
+      { "title": "① 舞台・音楽の練習として", "desc": "本番前の通し練習を指します。", "example_en": "The actors had a final rehearsal before opening night.", "example_ja": "俳優たちは初日の前に最終リハーサルをした。" },
+      { "title": "② 式典・予行として", "desc": "本番に備えた予行を表します。", "example_en": "There will be a rehearsal for the ceremony.", "example_ja": "式典の予行練習が行われる。" }
+    ],
+    "warn": [
+      "rehearsal は『本番前の練習・予行』。dress rehearsal（衣装をつけた本番さながらの最終リハーサル）が頻出。",
+      "動詞は rehearse。発音は『リハーサル（rɪˈhɜːrsəl）』。"
+    ],
+    "etym_note": "古フランス語 rehercier（re-「再び」＋ hercier「（まぐわで）かき返す」＝繰り返す）に由来します。土をまぐわで何度もかき返すように「繰り返す＝練習する」の意味になりました。",
+    "etym_chain": [
+      { "node": "rehercier", "sub": "繰り返す・かき返す", "era": "古フランス語" },
+      { "node": "rehearse", "sub": "練習する", "era": "中英語" },
+      { "node": "rehearsal", "sub": "リハーサル・予行", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a dress rehearsal", "ja": "（衣装つきの）最終リハーサル" },
+      { "en": "a final rehearsal", "ja": "最終リハーサル" },
+      { "en": "have a rehearsal", "ja": "リハーサルをする" },
+      { "en": "a wedding rehearsal", "ja": "結婚式の予行" },
+      { "en": "a band rehearsal", "ja": "バンドの練習" },
+      { "en": "during rehearsal", "ja": "リハーサル中に" }
+    ],
+    "related": [
+      { "en": "rehearse", "ja": "リハーサルする" },
+      { "en": "practice", "ja": "練習" },
+      { "en": "run-through", "ja": "通し練習" },
+      { "en": "performance", "ja": "本番・上演" }
+    ],
+    "faq": [
+      { "q": "rehearsal とはどんな意味？", "a": "劇・音楽・式典などの本番前に行う『リハーサル・下げいこ・予行練習』のことです。動詞は rehearse（リハーサルする）です。" },
+      { "q": "dress rehearsal とは？", "a": "衣装や道具をすべて本番どおりにそろえて行う『最終リハーサル』のことです。" }
+    ],
+    "quiz": [
+      { "q": "The actors had a final ___ before opening night.（リハーサル）", "A": "rehearsal", "B": "reversal の逆転", "C": "removal の除去", "D": "renewal の更新", "correct": "A" },
+      { "q": "rehearsal の動詞形はどれ？", "A": "rehearse", "B": "reverse", "C": "release", "D": "rehouse", "correct": "A" }
+    ]
+  }
+]
