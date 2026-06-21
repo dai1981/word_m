@@ -1,0 +1,55 @@
+[
+  {
+    "english": "rood",
+    "pron": "ruːd",
+    "kana": "ルード",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 rōd（十字架）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "宗教・歴史"],
+    "meaning_main": "（教会の）十字架像・キリスト磔刑像／（古い面積の単位）ルード",
+    "description": "rood の意味・発音・例文・語源を解説。教会に掲げる大きな「十字架像（キリスト磔刑像）」や、古い面積の単位「ルード」を指す語の使い方を紹介します。",
+    "keywords": ["rood 意味", "rood 発音", "rood 十字架", "rood screen 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】（教会の）十字架像・キリスト磔刑像", "note": "聖堂の内陣の前などに掲げる大きな十字架像。rood screen（聖障）の上に置かれた。" },
+      { "hinshi": "【名詞】（古い面積の単位）ルード", "note": "1エーカーの4分の1（約1011平方メートル）にあたる昔の面積単位。" }
+    ],
+    "usages": [
+      { "title": "① 「十字架像」として", "desc": "教会に掲げる磔刑像を指します。", "example_en": "A great rood hung above the chancel.", "example_ja": "大きな十字架像が内陣の上に掲げられていた。" },
+      { "title": "② 「面積の単位」として", "desc": "昔の土地の広さを表します。", "example_en": "The field measured three roods.", "example_ja": "その畑は3ルードの広さだった。" }
+    ],
+    "warn": [
+      "rood は『（教会の）大きな十字架像』が主な意味。rood screen（聖障＝内陣を仕切る装飾の仕切り）でもよく使う。",
+      "古い面積の単位（1エーカーの1/4）の意味もある。発音は『ルード（ruːd）』で rude（無礼な）と同音。"
+    ],
+    "etym_note": "古英語 rōd（十字架・竿）に由来します。キリストが架けられた十字架を指す古い語で、Holy Rood（聖十字架）のように使われました。のちに土地を測る竿から面積の単位の意味も生まれました。",
+    "etym_chain": [
+      { "node": "rōd", "sub": "十字架・竿", "era": "古英語" },
+      { "node": "rood", "sub": "十字架像", "era": "中英語" },
+      { "node": "rood", "sub": "十字架像・面積の単位", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the Holy Rood", "ja": "聖十字架" },
+      { "en": "a rood screen", "ja": "聖障（内陣の仕切り）" },
+      { "en": "a great rood", "ja": "大きな十字架像" },
+      { "en": "above the rood", "ja": "十字架像の上に" },
+      { "en": "a rood loft", "ja": "聖障の上の歩廊" },
+      { "en": "three roods of land", "ja": "3ルードの土地" }
+    ],
+    "related": [
+      { "en": "crucifix", "ja": "十字架像" },
+      { "en": "cross", "ja": "十字架" },
+      { "en": "chancel", "ja": "（教会の）内陣" },
+      { "en": "acre", "ja": "エーカー（面積の単位）" }
+    ],
+    "faq": [
+      { "q": "rood とはどんな意味？", "a": "教会の内陣の前などに掲げる大きな『十字架像（キリスト磔刑像）』のことです。rood screen（聖障）の上に置かれました。古い面積の単位（1エーカーの1/4）の意味もあります。" },
+      { "q": "rood screen とは？", "a": "教会で内陣と身廊を仕切る装飾的な仕切りのことです。その上に rood（十字架像）が掲げられたことからこの名で呼ばれます。" }
+    ],
+    "quiz": [
+      { "q": "A great ___ hung above the chancel.（十字架像）", "A": "rood", "B": "roof の屋根", "C": "root の根", "D": "rope の綱", "correct": "A" },
+      { "q": "rood の語源の意味はどれ？", "A": "十字架", "B": "屋根", "C": "道", "D": "石", "correct": "A" }
+    ]
+  }
+]
