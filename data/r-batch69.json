@@ -1,0 +1,475 @@
+[
+  {
+    "english": "reseal",
+    "pron": "riːˈsiːl",
+    "kana": "リシール",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ seal（封をする）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "実用"],
+    "meaning_main": "封をし直す・再び密閉する／（すきまを）再び目張りする",
+    "description": "reseal の意味・発音・例文・語源を解説。袋や容器の「封をし直す・再び密閉する」、すきまを「目張りし直す」という実用語の使い方を紹介します。",
+    "keywords": ["reseal 意味", "reseal 発音", "reseal 封をし直す", "resealable 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】封をし直す・再び密閉する", "note": "一度開けた袋や容器をまた閉じて密閉する。a resealable bag（再封できる袋）。" },
+      { "hinshi": "【動詞】（すきま・路面を）再び目張りする・防水し直す", "note": "reseal the cracks（ひびを再び埋める）。" }
+    ],
+    "usages": [
+      { "title": "① 「封をし直す」として", "desc": "開けた袋や容器をまた密閉する意味です。", "example_en": "Reseal the bag to keep the snacks fresh.", "example_ja": "お菓子を新鮮に保つため袋の封をし直して。" },
+      { "title": "② 「目張りし直す」として", "desc": "すきまを再びふさぐ意味です。", "example_en": "They resealed the cracks in the driveway.", "example_ja": "彼らは私道のひびを再び埋めた。" }
+    ],
+    "warn": [
+      "reseal は『封をし直す・再び密閉する』。resealable（再封できる）は食品袋でよく見る形容詞。",
+      "活用は規則変化 reseal-resealed-resealed。"
+    ],
+    "etym_note": "re-（再び）＋ seal（封をする・密閉する）から成ります。seal はラテン語 sigillum（小さな印・封印）に由来し、「もう一度封をする」が原義です。",
+    "etym_chain": [
+      { "node": "sigillum", "sub": "封印・印", "era": "ラテン語" },
+      { "node": "seal", "sub": "封をする", "era": "中英語" },
+      { "node": "reseal", "sub": "封をし直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a resealable bag", "ja": "再封できる袋" },
+      { "en": "reseal the container", "ja": "容器の封をし直す" },
+      { "en": "reseal the envelope", "ja": "封筒を閉じ直す" },
+      { "en": "reseal the cracks", "ja": "ひびを埋め直す" },
+      { "en": "reseal tightly", "ja": "しっかり密閉し直す" },
+      { "en": "reseal after opening", "ja": "開封後に封をし直す" }
+    ],
+    "related": [
+      { "en": "seal", "ja": "封をする" },
+      { "en": "close", "ja": "閉じる" },
+      { "en": "airtight", "ja": "密閉の" },
+      { "en": "waterproof", "ja": "防水する" }
+    ],
+    "faq": [
+      { "q": "reseal とはどんな意味？", "a": "一度開けた袋や容器を『封をし直す・再び密閉する』という動詞です。a resealable bag（再封できる袋）のように使います。すきまを『目張りし直す』意味でも使えます。" },
+      { "q": "resealable とは？", "a": "『再び封ができる・閉じ直せる』という意味の形容詞です。チャック付きの食品袋などによく書かれています。" }
+    ],
+    "quiz": [
+      { "q": "___ the bag to keep the snacks fresh.（封をし直す）", "A": "Reseal", "B": "Reveal の明かす", "C": "Recall の思い出す", "D": "Reduce の減らす", "correct": "A" },
+      { "q": "resealable bag の意味はどれ？", "A": "再封できる袋", "B": "使い捨ての袋", "C": "防火の袋", "D": "透明な袋", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retune",
+    "pron": "riːˈtuːn",
+    "kana": "リチューン",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ tune（調律する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "音楽・技術"],
+    "meaning_main": "（楽器を）調律し直す・（受信機を）チューニングし直す／（調整を）やり直す",
+    "description": "retune の意味・発音・例文・語源を解説。楽器を「調律し直す」、ラジオを「合わせ直す」、設定を「調整し直す」という語の使い方を紹介します。",
+    "keywords": ["retune 意味", "retune 発音", "retune 調律", "retune チューニング"],
+    "meanings": [
+      { "hinshi": "【動詞】（楽器を）調律し直す", "note": "音の高さを合わせ直す。retune the guitar（ギターを調律し直す）。" },
+      { "hinshi": "【動詞】（受信機・エンジンなどを）調整し直す", "note": "ラジオの周波数を合わせ直す、機器を最適化し直す。" }
+    ],
+    "usages": [
+      { "title": "① 「楽器を調律し直す」として", "desc": "音の高さを合わせ直す意味です。", "example_en": "The guitarist stopped to retune his strings.", "example_ja": "ギタリストは弦を調律し直すため手を止めた。" },
+      { "title": "② 「合わせ直す・調整し直す」として", "desc": "受信機や機器を整え直す意味です。", "example_en": "You may need to retune the TV after the update.", "example_ja": "更新後はテレビを設定し直す必要があるかもしれない。" }
+    ],
+    "warn": [
+      "retune は『（楽器を）調律し直す』『（受信機・機器を）合わせ直す・調整し直す』。文脈で対象が変わる。",
+      "比喩で『（方針・気持ちを）調整し直す』にも使うことがある。"
+    ],
+    "etym_note": "re-（再び）＋ tune（調律する・合わせる）から成ります。tune は tone（音）と同語源で、「音を合わせる」が原義です。そこから機器の調整にも広く使われます。",
+    "etym_chain": [
+      { "node": "tonus", "sub": "音・調子", "era": "ラテン語" },
+      { "node": "tune", "sub": "調律する・合わせる", "era": "中英語" },
+      { "node": "retune", "sub": "調律し直す・合わせ直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "retune the guitar", "ja": "ギターを調律し直す" },
+      { "en": "retune the strings", "ja": "弦を合わせ直す" },
+      { "en": "retune the radio", "ja": "ラジオを合わせ直す" },
+      { "en": "retune the TV", "ja": "テレビを設定し直す" },
+      { "en": "retune the engine", "ja": "エンジンを調整し直す" },
+      { "en": "retune to a new key", "ja": "別の調に合わせ直す" }
+    ],
+    "related": [
+      { "en": "tune", "ja": "調律する・合わせる" },
+      { "en": "tune up", "ja": "調整する・整備する" },
+      { "en": "adjust", "ja": "調整する" },
+      { "en": "calibrate", "ja": "較正する" }
+    ],
+    "faq": [
+      { "q": "retune とはどんな意味？", "a": "楽器を『調律し直す』、ラジオやテレビを『合わせ直す』、機器を『調整し直す』という動詞です。retune the guitar（ギターを調律し直す）のように使います。" },
+      { "q": "retune と tune up の違いは？", "a": "retune は『（音や周波数を）合わせ直す』、tune up は特に『（エンジンなどを）整備・調整する』ことに重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The guitarist stopped to ___ his strings.（調律し直す）", "A": "retune", "B": "return の戻る", "C": "retain の保持する", "D": "retire の引退する", "correct": "A" },
+      { "q": "retune のもとになった語はどれ？", "A": "tune（調律する）", "B": "turn（回る）", "C": "tone の代わりに town（町）", "D": "tube（管）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rial",
+    "pron": "riˈɑːl",
+    "kana": "リアル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "スペイン語 real（王の・レアル貨）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "通貨"],
+    "meaning_main": "リアル（イラン・オマーン・イエメンなどの通貨単位）",
+    "description": "rial の意味・発音・例文・語源を解説。イランやオマーン、イエメンなどで使われる通貨単位「リアル」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["rial 意味", "rial 発音", "rial 通貨", "rial イラン"],
+    "meanings": [
+      { "hinshi": "【名詞】リアル", "note": "イラン・オマーン・イエメンなどで使われる通貨単位。スペイン語 real（レアル）に由来する。" }
+    ],
+    "usages": [
+      { "title": "① 通貨単位として", "desc": "中東の国の通貨を指します。", "example_en": "Prices in Iran are given in rials.", "example_ja": "イランでは価格はリアルで示される。" },
+      { "title": "② 両替の場面で", "desc": "現地通貨として使います。", "example_en": "He exchanged dollars for Omani rials.", "example_ja": "彼はドルをオマーン・リアルに両替した。" }
+    ],
+    "warn": [
+      "rial は『イラン・オマーン・イエメンなどの通貨単位』。サウジアラビアなどの riyal（リヤル）と語源は同じだがつづり・国が異なる。",
+      "スペイン・中南米の歴史的通貨 real（レアル）と語源を共有する。"
+    ],
+    "etym_note": "スペイン語 real（王の・王室の、ラテン語 regalis より）に由来し、もとは『王の貨幣（レアル貨）』を意味しました。これが中東に伝わり rial / riyal という通貨名になりました。regal（王の）と同じ語根です。",
+    "etym_chain": [
+      { "node": "regalis", "sub": "王の", "era": "ラテン語" },
+      { "node": "real", "sub": "王の貨幣（レアル）", "era": "スペイン語" },
+      { "node": "rial", "sub": "リアル", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the Iranian rial", "ja": "イラン・リアル" },
+      { "en": "the Omani rial", "ja": "オマーン・リアル" },
+      { "en": "pay in rials", "ja": "リアルで支払う" },
+      { "en": "exchange for rials", "ja": "リアルに両替する" },
+      { "en": "the rial fell", "ja": "リアルが下落した" },
+      { "en": "a million rials", "ja": "100万リアル" }
+    ],
+    "related": [
+      { "en": "riyal", "ja": "リヤル（サウジなど）" },
+      { "en": "currency", "ja": "通貨" },
+      { "en": "dinar", "ja": "ディナール" },
+      { "en": "exchange rate", "ja": "為替レート" }
+    ],
+    "faq": [
+      { "q": "rial とはどんな意味？", "a": "イラン・オマーン・イエメンなどで使われる通貨単位『リアル』のことです。スペイン語 real（王の貨幣）に由来します。" },
+      { "q": "rial と riyal の違いは？", "a": "語源は同じですが、rial はイラン・オマーンなど、riyal はサウジアラビア・カタールなどの通貨で、つづりと国が異なります。" }
+    ],
+    "quiz": [
+      { "q": "Prices in Iran are given in ___s.（リアル）", "A": "rial", "B": "rival のライバル", "C": "trial の試み", "D": "rural の田舎の", "correct": "A" },
+      { "q": "rial の語源の意味はどれ？", "A": "王の（貨幣）", "B": "銀の", "C": "海の", "D": "丸い", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rubato",
+    "pron": "ruːˈbɑːtoʊ",
+    "kana": "ルバート",
+    "hinshi": "名詞 / 副詞",
+    "ld_pos": "名詞",
+    "ld_etym": "イタリア語 rubato（盗まれた）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "音楽"],
+    "meaning_main": "ルバート（表現のためにテンポを自由に伸縮させる演奏法）",
+    "description": "rubato の意味・発音・例文・語源を解説。表現のためにテンポを微妙に伸び縮みさせる演奏法「ルバート」を指す音楽用語の使い方を紹介します。",
+    "keywords": ["rubato 意味", "rubato 発音", "rubato 音楽", "tempo rubato 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】ルバート（テンポの自由な伸縮）", "note": "表現を豊かにするため、一定のテンポからわざと速めたり遅めたりする演奏法。tempo rubato。" },
+      { "hinshi": "【副詞】ルバートで（自由なテンポで）", "note": "楽譜の指示として『rubato（自由に）』と書かれる。" }
+    ],
+    "usages": [
+      { "title": "① 演奏法として", "desc": "テンポを自由に伸縮させる技法です。", "example_en": "She played the passage with expressive rubato.", "example_ja": "彼女はその一節を表情豊かなルバートで弾いた。" },
+      { "title": "② 楽譜の指示として", "desc": "自由なテンポで演奏する指示です。", "example_en": "The score is marked 'rubato' here.", "example_ja": "楽譜はここで「ルバート」と指示されている。" }
+    ],
+    "warn": [
+      "rubato は『表現のためテンポを自由に伸縮させる演奏法』。tempo rubato（盗まれたテンポ）が正式な言い方。",
+      "ショパンなどロマン派の演奏でよく語られる技法。"
+    ],
+    "etym_note": "イタリア語 rubato（rubare「盗む」の過去分詞＝盗まれた）に由来します。tempo rubato は『盗まれた時間』の意で、ある拍から時間を盗んで別の拍に補うように、テンポを伸び縮みさせることを表します。",
+    "etym_chain": [
+      { "node": "rubare", "sub": "盗む", "era": "イタリア語" },
+      { "node": "rubato", "sub": "盗まれた（テンポ）", "era": "イタリア語" },
+      { "node": "rubato", "sub": "ルバート", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "tempo rubato", "ja": "テンポ・ルバート" },
+      { "en": "play with rubato", "ja": "ルバートで弾く" },
+      { "en": "expressive rubato", "ja": "表情豊かなルバート" },
+      { "en": "a touch of rubato", "ja": "少しのルバート" },
+      { "en": "use rubato", "ja": "ルバートを用いる" },
+      { "en": "subtle rubato", "ja": "繊細なルバート" }
+    ],
+    "related": [
+      { "en": "tempo", "ja": "テンポ・速さ" },
+      { "en": "expression", "ja": "（音楽の）表現" },
+      { "en": "phrasing", "ja": "フレージング" },
+      { "en": "ritardando", "ja": "リタルダンド（だんだん遅く）" }
+    ],
+    "faq": [
+      { "q": "rubato とはどんな意味？", "a": "表現を豊かにするため、一定のテンポからわざと速めたり遅めたりする演奏法『ルバート』のことです。tempo rubato（盗まれたテンポ）が正式な言い方です。" },
+      { "q": "rubato の語源は？", "a": "イタリア語 rubato（盗まれた）です。ある拍から時間を『盗んで』別の拍に補うように、テンポを伸び縮みさせることに由来します。" }
+    ],
+    "quiz": [
+      { "q": "She played the passage with expressive ___.（ルバート）", "A": "rubato", "B": "rubber のゴム", "C": "rubble の瓦礫", "D": "ribbon のリボン", "correct": "A" },
+      { "q": "rubato の語源の意味はどれ？", "A": "盗まれた（時間）", "B": "丸い", "C": "速い", "D": "赤い", "correct": "A" }
+    ]
+  },
+  {
+    "english": "regicide",
+    "pron": "ˈredʒɪsaɪd",
+    "kana": "レジサイド",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 rex（王）＋ -cide（殺すこと）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "歴史・政治"],
+    "meaning_main": "国王殺害・王殺し／国王を殺した人",
+    "description": "regicide の意味・発音・例文・語源を解説。国王を殺すこと「王殺し」や、それを行った人を指す歴史・政治の語の使い方を紹介します。",
+    "keywords": ["regicide 意味", "regicide 発音", "regicide 王殺し", "regicide 国王殺害"],
+    "meanings": [
+      { "hinshi": "【名詞】国王殺害・王殺し（行為）", "note": "君主（王）を殺すこと。an act of regicide（王殺しの行為）。" },
+      { "hinshi": "【名詞】国王を殺した人", "note": "王を殺害した者。the regicides（王殺しの者たち）。" }
+    ],
+    "usages": [
+      { "title": "① 「王殺し（行為）」として", "desc": "国王を殺すことを指します。", "example_en": "The revolution ended in regicide.", "example_ja": "その革命は国王の殺害で終わった。" },
+      { "title": "② 「王を殺した人」として", "desc": "王殺しを行った者を表します。", "example_en": "The regicides were later put on trial.", "example_ja": "王殺しの者たちはのちに裁判にかけられた。" }
+    ],
+    "warn": [
+      "regicide は『王殺し（行為）』と『王を殺した人』の両方を指す。-cide は『殺すこと／殺す人』を表す接尾辞。",
+      "同じ作りに homicide（殺人）, suicide（自殺）, genocide（大量虐殺）。"
+    ],
+    "etym_note": "ラテン語 rex（王）＋ -cide（caedere「切る・殺す」より＝殺すこと）から成り、「王を殺すこと」を意味します。regal（王の）や royal（王室の）と同じ rex を語根にもちます。",
+    "etym_chain": [
+      { "node": "rex + caedere", "sub": "王＋殺す", "era": "ラテン語" },
+      { "node": "regicide", "sub": "王殺し", "era": "近代英語" },
+      { "node": "regicide", "sub": "王殺し・王を殺した人", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an act of regicide", "ja": "王殺しの行為" },
+      { "en": "commit regicide", "ja": "王殺しを犯す" },
+      { "en": "the regicides", "ja": "王殺しの者たち" },
+      { "en": "accused of regicide", "ja": "王殺しで告発された" },
+      { "en": "end in regicide", "ja": "国王殺害に終わる" },
+      { "en": "guilty of regicide", "ja": "王殺しの罪を負う" }
+    ],
+    "related": [
+      { "en": "homicide", "ja": "殺人" },
+      { "en": "assassination", "ja": "暗殺" },
+      { "en": "patricide", "ja": "父殺し" },
+      { "en": "monarch", "ja": "君主" }
+    ],
+    "faq": [
+      { "q": "regicide とはどんな意味？", "a": "国王（君主）を殺すこと『王殺し』、またそれを行った人を指す語です。an act of regicide（王殺しの行為）、the regicides（王殺しの者たち）のように使います。" },
+      { "q": "-cide が付く語にはどんなものがある？", "a": "homicide（殺人）、suicide（自殺）、genocide（大量虐殺）、patricide（父殺し）などがあります。-cide は『殺すこと／殺す人』を表します。" }
+    ],
+    "quiz": [
+      { "q": "The revolution ended in ___.（王殺し）", "A": "regicide", "B": "register の登録", "C": "regiment の連隊", "D": "regime の政権", "correct": "A" },
+      { "q": "regicide の -cide が表す意味はどれ？", "A": "殺すこと", "B": "守ること", "C": "数えること", "D": "結ぶこと", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reliquary",
+    "pron": "ˈrelɪkweri",
+    "kana": "レリクアリー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 reliquiae（遺物）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "宗教・美術"],
+    "meaning_main": "聖遺物箱・聖遺物入れ（聖人の遺物を納める装飾された容器）",
+    "description": "reliquary の意味・発音・例文・語源を解説。聖人の遺骨や遺品など「聖遺物」を納める装飾された容器「聖遺物箱」を指す語の使い方を紹介します。",
+    "keywords": ["reliquary 意味", "reliquary 発音", "reliquary 聖遺物箱", "reliquary 容器"],
+    "meanings": [
+      { "hinshi": "【名詞】聖遺物箱・聖遺物入れ", "note": "聖人の遺骨・遺品（relic）を納める、金や宝石で飾られた箱や容器。教会で崇敬の対象になる。" }
+    ],
+    "usages": [
+      { "title": "① 容器として", "desc": "聖遺物を納める装飾箱を指します。", "example_en": "The saint's bones are kept in a golden reliquary.", "example_ja": "その聖人の遺骨は金の聖遺物箱に納められている。" },
+      { "title": "② 美術品として", "desc": "精巧な装飾品として展示されます。", "example_en": "The museum displays a medieval reliquary.", "example_ja": "その博物館は中世の聖遺物箱を展示している。" }
+    ],
+    "warn": [
+      "reliquary は『聖遺物（relic）を納める装飾された容器』。relic（聖遺物・遺物）そのものとは区別する。",
+      "発音は『レリクアリー（ˈrelɪkweri）』。"
+    ],
+    "etym_note": "ラテン語 reliquiae（残されたもの・遺物、relinquere「後に残す」より）に由来します。relic（遺物・聖遺物）や relinquish（手放す）と同じ語根で、「遺物を納める容器」を意味します。",
+    "etym_chain": [
+      { "node": "relinquere", "sub": "後に残す", "era": "ラテン語" },
+      { "node": "reliquiae", "sub": "遺物", "era": "ラテン語" },
+      { "node": "reliquary", "sub": "聖遺物箱", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a golden reliquary", "ja": "金の聖遺物箱" },
+      { "en": "a jeweled reliquary", "ja": "宝石で飾った聖遺物箱" },
+      { "en": "a medieval reliquary", "ja": "中世の聖遺物箱" },
+      { "en": "kept in a reliquary", "ja": "聖遺物箱に納められた" },
+      { "en": "an ornate reliquary", "ja": "華麗な聖遺物箱" },
+      { "en": "the church's reliquary", "ja": "教会の聖遺物箱" }
+    ],
+    "related": [
+      { "en": "relic", "ja": "聖遺物・遺物" },
+      { "en": "shrine", "ja": "聖堂・廟" },
+      { "en": "casket", "ja": "小箱・棺" },
+      { "en": "sacred", "ja": "神聖な" }
+    ],
+    "faq": [
+      { "q": "reliquary とはどんな意味？", "a": "聖人の遺骨や遺品など『聖遺物（relic）』を納める、金や宝石で飾られた容器『聖遺物箱』のことです。教会で崇敬の対象になります。" },
+      { "q": "reliquary と relic の違いは？", "a": "relic は『聖遺物・遺物そのもの』、reliquary は『それを納める装飾された容器』です。" }
+    ],
+    "quiz": [
+      { "q": "The saint's bones are kept in a golden ___.（聖遺物箱）", "A": "reliquary", "B": "reliable の信頼できる", "C": "relish の薬味", "D": "registry の登記所", "correct": "A" },
+      { "q": "reliquary に納められるのはどれ？", "A": "聖遺物（聖人の遺骨・遺品）", "B": "食料", "C": "武器", "D": "硬貨だけ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "remora",
+    "pron": "ˈremərə",
+    "kana": "レモラ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 remora（遅延・引き止め）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "自然・生き物"],
+    "meaning_main": "コバンザメ（頭の吸盤で大きな魚にくっつく魚）",
+    "description": "remora の意味・発音・例文・語源を解説。頭部の吸盤でサメや大型魚にくっついて移動する魚「コバンザメ」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["remora 意味", "remora 発音", "remora コバンザメ", "remora 吸盤"],
+    "meanings": [
+      { "hinshi": "【名詞】コバンザメ（吸盤魚）", "note": "頭の上の吸盤で、サメ・ウミガメ・大型魚などにくっついて運ばれ、食べ残しを食べる魚。" }
+    ],
+    "usages": [
+      { "title": "① 海の生き物として", "desc": "大型魚にくっつく魚を指します。", "example_en": "A remora attached itself to the shark's belly.", "example_ja": "コバンザメがサメの腹にくっついた。" },
+      { "title": "② 共生の説明で", "desc": "他の生き物に運ばれる習性を表します。", "example_en": "Remoras get a free ride from larger fish.", "example_ja": "コバンザメは大きな魚にただ乗りして移動する。" }
+    ],
+    "warn": [
+      "remora は『頭の吸盤で大型魚にくっつく魚（コバンザメ）』。比喩で『（他人に）くっついて利益を得る人』に使うこともある。",
+      "発音は『レモラ（ˈremərə）』。"
+    ],
+    "etym_note": "ラテン語 remora（遅延・引き止めるもの、re-「後ろへ」＋ mora「遅れ」）に由来します。古代には、この魚が船にくっついて進行を遅らせると信じられたことから名づけられました。",
+    "etym_chain": [
+      { "node": "mora", "sub": "遅れ", "era": "ラテン語" },
+      { "node": "remora", "sub": "引き止めるもの", "era": "ラテン語" },
+      { "node": "remora", "sub": "コバンザメ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a remora attached to a shark", "ja": "サメにくっついたコバンザメ" },
+      { "en": "the remora's sucker", "ja": "コバンザメの吸盤" },
+      { "en": "remoras and sharks", "ja": "コバンザメとサメ" },
+      { "en": "a free-riding remora", "ja": "ただ乗りするコバンザメ" },
+      { "en": "cling like a remora", "ja": "コバンザメのようにくっつく" },
+      { "en": "host of a remora", "ja": "コバンザメの宿主" }
+    ],
+    "related": [
+      { "en": "shark", "ja": "サメ" },
+      { "en": "sucker", "ja": "吸盤" },
+      { "en": "symbiosis", "ja": "共生" },
+      { "en": "parasite", "ja": "寄生者" }
+    ],
+    "faq": [
+      { "q": "remora とはどんな意味？", "a": "頭の上の吸盤で、サメ・ウミガメ・大型魚などにくっついて運ばれ、食べ残しを食べる魚『コバンザメ』のことです。" },
+      { "q": "remora の語源は？", "a": "ラテン語 remora（遅延・引き止めるもの）です。古代に、この魚が船にくっついて進行を遅らせると信じられたことに由来します。" }
+    ],
+    "quiz": [
+      { "q": "A ___ attached itself to the shark's belly.（コバンザメ）", "A": "remora", "B": "remorse の自責", "C": "remote の遠隔の", "D": "removal の除去", "correct": "A" },
+      { "q": "remora はどうやって移動する？", "A": "吸盤で大型魚にくっついて", "B": "ひれで速く泳いで", "C": "海底をはって", "D": "空を飛んで", "correct": "A" }
+    ]
+  },
+  {
+    "english": "repechage",
+    "pron": "ˈrepəʃɑːʒ",
+    "kana": "レペチャージ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 repêchage（釣り上げ直し）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "スポーツ"],
+    "meaning_main": "敗者復活戦（予選で敗れた者にもう一度出場の機会を与える競技）",
+    "description": "repechage の意味・発音・例文・語源を解説。予選で敗れた選手にもう一度出場のチャンスを与える「敗者復活戦」を指す、競技で使う語の使い方を紹介します。",
+    "keywords": ["repechage 意味", "repechage 発音", "repechage 敗者復活戦", "repechage 競技"],
+    "meanings": [
+      { "hinshi": "【名詞】敗者復活戦", "note": "予選などで敗れた選手・チームに、決勝進出のもう一度の機会を与える競技。ボート・柔道・レスリングなどで行われる。" }
+    ],
+    "usages": [
+      { "title": "① 競技の制度として", "desc": "敗者にもう一度機会を与える試合を指します。", "example_en": "He reached the final through the repechage.", "example_ja": "彼は敗者復活戦を勝ち抜いて決勝に進んだ。" },
+      { "title": "② スポーツの説明で", "desc": "ボートや柔道などの方式を表します。", "example_en": "Rowing uses a repechage to give crews a second chance.", "example_ja": "ボート競技は敗者復活戦でクルーに二度目の機会を与える。" }
+    ],
+    "warn": [
+      "repechage は『敗者復活戦』。ボート・柔道・レスリング・自転車などで使われる方式。",
+      "発音は『レペチャージ（ˈrepəʃɑːʒ）』とフランス語的。つづりに注意。"
+    ],
+    "etym_note": "フランス語 repêchage（repêcher「釣り上げ直す・救い上げる」より＝もう一度すくい上げること）に由来します。re-（再び）＋ pêcher（釣る）から成り、「敗者を再びすくい上げる」イメージです。",
+    "etym_chain": [
+      { "node": "pêcher", "sub": "釣る", "era": "フランス語" },
+      { "node": "repêchage", "sub": "釣り上げ直し", "era": "フランス語" },
+      { "node": "repechage", "sub": "敗者復活戦", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "win the repechage", "ja": "敗者復活戦を勝ち抜く" },
+      { "en": "through the repechage", "ja": "敗者復活戦を経て" },
+      { "en": "a repechage round", "ja": "敗者復活戦のラウンド" },
+      { "en": "qualify via repechage", "ja": "敗者復活で出場権を得る" },
+      { "en": "enter the repechage", "ja": "敗者復活戦に出る" },
+      { "en": "a second chance in the repechage", "ja": "敗者復活での再挑戦" }
+    ],
+    "related": [
+      { "en": "consolation round", "ja": "敗者復活ラウンド" },
+      { "en": "qualifier", "ja": "予選" },
+      { "en": "knockout", "ja": "勝ち抜き戦" },
+      { "en": "comeback", "ja": "返り咲き" }
+    ],
+    "faq": [
+      { "q": "repechage とはどんな意味？", "a": "予選などで敗れた選手・チームに、もう一度決勝進出の機会を与える『敗者復活戦』のことです。ボート・柔道・レスリングなどで行われます。" },
+      { "q": "repechage の語源は？", "a": "フランス語 repêchage（もう一度すくい上げること）です。re-（再び）＋ pêcher（釣る）から成り、『敗者を再び救い上げる』イメージです。" }
+    ],
+    "quiz": [
+      { "q": "He reached the final through the ___.（敗者復活戦）", "A": "repechage", "B": "reportage のルポ", "C": "rampage の暴れ回り", "D": "rummage のがさ探し", "correct": "A" },
+      { "q": "repechage の語源の意味はどれ？", "A": "もう一度すくい上げる", "B": "押しのける", "C": "数え直す", "D": "高く飛ぶ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "riven",
+    "pron": "ˈrɪvən",
+    "kana": "リヴン",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "古ノルド語 rifa（引き裂く）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "文語"],
+    "meaning_main": "引き裂かれた・（対立で）分裂した・裂け目の入った",
+    "description": "riven の意味・発音・例文・語源を解説。激しく「引き裂かれた・（争いで）分裂した」状態を表す文学的な語の使い方を分かりやすく紹介します。",
+    "keywords": ["riven 意味", "riven 発音", "riven 引き裂かれた", "riven 分裂"],
+    "meanings": [
+      { "hinshi": "【形容詞】引き裂かれた・裂け目の入った", "note": "物理的に裂けたようす。a riven oak（裂けたカシ）。動詞 rive（引き裂く）の過去分詞。" },
+      { "hinshi": "【形容詞】（対立・争いで）分裂した", "note": "be riven by conflict（争いで分裂している）。文語的な語。" }
+    ],
+    "usages": [
+      { "title": "① 「引き裂かれた」として", "desc": "物理的に裂けたようすを表します。", "example_en": "The tree was riven by lightning.", "example_ja": "その木は雷で引き裂かれた。" },
+      { "title": "② 「分裂した」として", "desc": "対立で割れた状態を表します。", "example_en": "The party was riven by internal disputes.", "example_ja": "その政党は内部対立で分裂していた。" }
+    ],
+    "warn": [
+      "riven は動詞 rive（引き裂く）の過去分詞・形容詞。『引き裂かれた・分裂した』という文語的な語。",
+      "be riven by / with ～（〜で引き裂かれている）の形が頻出。"
+    ],
+    "etym_note": "古ノルド語 rifa（引き裂く）に由来する動詞 rive の過去分詞です。「裂く」という古い語から、物理的にも比喩的にも「引き裂かれた・分裂した」を表すようになりました。",
+    "etym_chain": [
+      { "node": "rifa", "sub": "引き裂く", "era": "古ノルド語" },
+      { "node": "rive", "sub": "引き裂く", "era": "中英語" },
+      { "node": "riven", "sub": "引き裂かれた・分裂した", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "riven by conflict", "ja": "争いで分裂した" },
+      { "en": "riven with doubt", "ja": "疑念に引き裂かれた" },
+      { "en": "a riven society", "ja": "分裂した社会" },
+      { "en": "riven by lightning", "ja": "雷で裂かれた" },
+      { "en": "a party riven by feuds", "ja": "内紛で分裂した政党" },
+      { "en": "riven in two", "ja": "真っ二つに裂けた" }
+    ],
+    "related": [
+      { "en": "rive", "ja": "引き裂く" },
+      { "en": "split", "ja": "裂ける・分裂した" },
+      { "en": "divided", "ja": "分裂した" },
+      { "en": "torn", "ja": "引き裂かれた" }
+    ],
+    "faq": [
+      { "q": "riven とはどんな意味？", "a": "激しく『引き裂かれた・裂け目の入った』という意味と、対立や争いで『分裂した』という意味があります。be riven by conflict（争いで分裂している）のように使う文語的な語です。" },
+      { "q": "riven のもとの動詞は？", "a": "rive（引き裂く）です。riven はその過去分詞・形容詞で、物理的にも比喩的にも『引き裂かれた』を表します。" }
+    ],
+    "quiz": [
+      { "q": "The party was ___ by internal disputes.（分裂した）", "A": "riven", "B": "risen の昇った", "C": "ridden の乗られた", "D": "rotten の腐った", "correct": "A" },
+      { "q": "riven のもとになった動詞はどれ？", "A": "rive（引き裂く）", "B": "rise（昇る）", "C": "ride（乗る）", "D": "rid（取り除く）", "correct": "A" }
+    ]
+  }
+]
