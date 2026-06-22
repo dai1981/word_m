@@ -1,0 +1,55 @@
+[
+  {
+    "english": "reflector",
+    "pron": "rɪˈflektər",
+    "kana": "リフレクター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "reflect（反射する）＋ -or",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "道具・科学"],
+    "meaning_main": "反射器・反射板（光をはね返す装置・部品）／反射鏡",
+    "description": "reflector の意味・発音・例文・語源を解説。光をはね返す「反射器・反射板」、自転車などの「反射材」や望遠鏡の「反射鏡」を指す語の使い方を紹介します。",
+    "keywords": ["reflector 意味", "reflector 発音", "反射板", "reflect 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】反射器・反射板・反射材", "note": "光をはね返す装置・部品。自転車・道路標識の反射材、照明の反射板など。" },
+      { "hinshi": "【名詞】反射鏡（反射望遠鏡）", "note": "鏡で光を集める望遠鏡。a reflector telescope。" }
+    ],
+    "usages": [
+      { "title": "① 反射材として", "desc": "光をはね返す部品を指します。", "example_en": "The bike has a red reflector on the back.", "example_ja": "その自転車は後ろに赤い反射材がついている。" },
+      { "title": "② 反射鏡として", "desc": "光を集める鏡を表します。", "example_en": "A reflector telescope uses a mirror.", "example_ja": "反射望遠鏡は鏡を使う。" }
+    ],
+    "warn": [
+      "reflector は『光をはね返す反射器・反射板・反射材』。reflect（反射する）＋ -or。",
+      "夜間の安全のための『反射材』や、望遠鏡の『反射鏡』など幅広く使う。"
+    ],
+    "etym_note": "動詞 reflect（re-「後ろへ」＋ flectere「曲げる」＝反射する）に「〜するもの」の -or が付いた語です。「光をはね返すもの」を意味します。reflection（反射）と同じ語根です。",
+    "etym_chain": [
+      { "node": "flectere", "sub": "曲げる", "era": "ラテン語" },
+      { "node": "reflect", "sub": "反射する", "era": "中英語" },
+      { "node": "reflector", "sub": "反射器・反射板", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a red reflector", "ja": "赤い反射材" },
+      { "en": "a bike reflector", "ja": "自転車の反射材" },
+      { "en": "a reflector telescope", "ja": "反射望遠鏡" },
+      { "en": "a light reflector", "ja": "照明の反射板" },
+      { "en": "a road reflector", "ja": "道路の反射板" },
+      { "en": "wear a reflector", "ja": "反射材を身につける" }
+    ],
+    "related": [
+      { "en": "reflect", "ja": "反射する" },
+      { "en": "reflection", "ja": "反射" },
+      { "en": "mirror", "ja": "鏡" },
+      { "en": "reflective", "ja": "反射する・反射性の" }
+    ],
+    "faq": [
+      { "q": "reflector とはどんな意味？", "a": "光をはね返す『反射器・反射板・反射材』のことです。自転車や道路標識の反射材、照明の反射板、また望遠鏡の『反射鏡』も指します。動詞は reflect です。" },
+      { "q": "reflector telescope とは？", "a": "鏡（反射鏡）を使って光を集める『反射望遠鏡』のことです。レンズを使う屈折望遠鏡（refractor）と区別されます。" }
+    ],
+    "quiz": [
+      { "q": "The bike has a red ___ on the back.（反射材）", "A": "reflector", "B": "refractor の屈折望遠鏡", "C": "projector の投影機", "D": "collector の収集家", "correct": "A" },
+      { "q": "reflector のもとになった動詞はどれ？", "A": "reflect（反射する）", "B": "refract（屈折する）", "C": "project（投影する）", "D": "collect（集める）", "correct": "A" }
+    ]
+  }
+]
