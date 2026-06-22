@@ -1,0 +1,55 @@
+[
+  {
+    "english": "revision",
+    "pron": "rɪˈvɪʒən",
+    "kana": "リビジョン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 revidere（再び見る）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "改訂・修正・見直し／（英）試験の復習",
+    "description": "revision の意味・発音・例文・語源を解説。文章や計画の「改訂・修正・見直し」、またイギリスでの試験の「復習」を指す語の使い方を紹介します。",
+    "keywords": ["revision 意味", "revision 発音", "revision 改訂", "revision 復習"],
+    "meanings": [
+      { "hinshi": "【名詞】改訂・修正・見直し", "note": "文章・計画・考えなどを直すこと、直した版。make revisions（修正を加える）。" },
+      { "hinshi": "【名詞】（英）試験勉強・復習", "note": "イギリス英語で、試験に向けた復習。do some revision（復習する）。" }
+    ],
+    "usages": [
+      { "title": "① 「改訂・修正」として", "desc": "文章や計画を直すことを表します。", "example_en": "The essay needs some revision.", "example_ja": "その小論文は少し修正が必要だ。" },
+      { "title": "② 「復習（英）」として", "desc": "試験に向けた勉強を表します。", "example_en": "She did her revision before the exam.", "example_ja": "彼女は試験前に復習をした。" }
+    ],
+    "warn": [
+      "revision は『改訂・修正・見直し』。イギリス英語では『試験勉強・復習』の意味でもよく使う。動詞は revise。",
+      "アメリカで『復習』は review を使うのが普通。"
+    ],
+    "etym_note": "ラテン語 revidere（re-「再び」＋ videre「見る」＝見直す）に由来します。video（映像）や vision（視覚）と同じ videre を語根にもち、「もう一度見て直すこと」を意味します。",
+    "etym_chain": [
+      { "node": "videre", "sub": "見る", "era": "ラテン語" },
+      { "node": "revidere", "sub": "再び見る", "era": "ラテン語" },
+      { "node": "revision", "sub": "改訂・見直し", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "make revisions", "ja": "修正を加える" },
+      { "en": "a major revision", "ja": "大幅な改訂" },
+      { "en": "under revision", "ja": "改訂中で" },
+      { "en": "a revision of the plan", "ja": "計画の見直し" },
+      { "en": "do some revision", "ja": "復習する（英）" },
+      { "en": "the latest revision", "ja": "最新の改訂版" }
+    ],
+    "related": [
+      { "en": "revise", "ja": "改訂する・見直す" },
+      { "en": "amendment", "ja": "修正" },
+      { "en": "edit", "ja": "編集する" },
+      { "en": "review", "ja": "見直し・復習" }
+    ],
+    "faq": [
+      { "q": "revision とはどんな意味？", "a": "文章・計画・考えなどの『改訂・修正・見直し』のことです。イギリス英語では試験に向けた『復習・試験勉強』の意味でも使います。動詞は revise です。" },
+      { "q": "revision と review の違いは？", "a": "revision は『（直して）改訂・修正すること』、review は『見直し・批評・（米）復習』です。『復習』の意味では英では revision、米では review が一般的です。" }
+    ],
+    "quiz": [
+      { "q": "The essay needs some ___.（修正）", "A": "revision", "B": "decision の決定", "C": "division の分割", "D": "collision の衝突", "correct": "A" },
+      { "q": "revision の動詞形はどれ？", "A": "revise（改訂する）", "B": "divide（分ける）", "C": "decide（決める）", "D": "collide（衝突する）", "correct": "A" }
+    ]
+  }
+]

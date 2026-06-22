@@ -1,0 +1,527 @@
+[
+  {
+    "english": "reliability",
+    "pron": "rɪˌlaɪəˈbɪləti",
+    "kana": "リライアビリティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rely（頼る）＋ -able ＋ -ity",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "信頼性・確実さ・当てになること",
+    "description": "reliability の意味・発音・例文・語源を解説。人や物が「当てになる・信頼できること（信頼性・確実さ）」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["reliability 意味", "reliability 発音", "reliability 信頼性", "reliable 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】信頼性・確実さ・当てになること", "note": "いつも安定して期待どおりに働く・正しいこと。the reliability of the data（データの信頼性）。" }
+    ],
+    "usages": [
+      { "title": "① 機械・製品について", "desc": "安定して働く確実さを表します。", "example_en": "The car is known for its reliability.", "example_ja": "その車は信頼性で知られている。" },
+      { "title": "② 情報・人について", "desc": "当てになる度合いを表します。", "example_en": "We questioned the reliability of the report.", "example_ja": "私たちはその報告の信頼性を疑った。" }
+    ],
+    "warn": [
+      "reliability は『信頼性・確実さ・当てになること』。形容詞は reliable（信頼できる）。動詞は rely（頼る）。",
+      "製品・データ・人の『信頼性』に幅広く使う。"
+    ],
+    "etym_note": "動詞 rely（頼る、古フランス語 relier「結びつける」より）から、reliable（信頼できる）→ reliability（信頼性）と派生しました。「結びついて頼れること」を意味します。",
+    "etym_chain": [
+      { "node": "relier", "sub": "結びつける", "era": "古フランス語" },
+      { "node": "reliable", "sub": "信頼できる", "era": "近代英語" },
+      { "node": "reliability", "sub": "信頼性", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the reliability of the data", "ja": "データの信頼性" },
+      { "en": "known for its reliability", "ja": "信頼性で知られる" },
+      { "en": "question the reliability", "ja": "信頼性を疑う" },
+      { "en": "high reliability", "ja": "高い信頼性" },
+      { "en": "improve reliability", "ja": "信頼性を高める" },
+      { "en": "reliability and durability", "ja": "信頼性と耐久性" }
+    ],
+    "related": [
+      { "en": "reliable", "ja": "信頼できる" },
+      { "en": "rely", "ja": "頼る" },
+      { "en": "dependability", "ja": "頼りになること" },
+      { "en": "trustworthiness", "ja": "信頼に足ること" }
+    ],
+    "faq": [
+      { "q": "reliability とはどんな意味？", "a": "人や物がいつも安定して期待どおりに働く・正しいこと『信頼性・確実さ・当てになること』です。形容詞は reliable、動詞は rely です。" },
+      { "q": "reliability と durability の違いは？", "a": "reliability は『（安定して期待どおりに働く）信頼性』、durability は『（長持ちする）耐久性』です。" }
+    ],
+    "quiz": [
+      { "q": "The car is known for its ___.（信頼性）", "A": "reliability", "B": "responsibility の責任", "C": "possibility の可能性", "D": "visibility の視界", "correct": "A" },
+      { "q": "reliability の形容詞形はどれ？", "A": "reliable（信頼できる）", "B": "responsible（責任ある）", "C": "possible（可能な）", "D": "visible（見える）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "resentment",
+    "pron": "rɪˈzentmənt",
+    "kana": "リゼントメント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "resent（憤慨する）＋ -ment",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "感情"],
+    "meaning_main": "憤り・恨み・不満（不当な扱いへの根強い反感）",
+    "description": "resentment の意味・発音・例文・語源を解説。不当な扱いに対して心にたまる「憤り・恨み・不満」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["resentment 意味", "resentment 発音", "resentment 恨み", "resent 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】憤り・恨み・不満", "note": "不当な扱いや侮辱に対して心にくすぶる根強い反感。feel resentment toward（〜に恨みを感じる）。" }
+    ],
+    "usages": [
+      { "title": "① 「憤り・恨み」として", "desc": "不当な扱いへの反感を表します。", "example_en": "She felt deep resentment toward her boss.", "example_ja": "彼女は上司に深い恨みを感じていた。" },
+      { "title": "② たまった不満として", "desc": "くすぶる反感を表します。", "example_en": "Years of unfairness bred resentment.", "example_ja": "長年の不公平が不満を生んだ。" }
+    ],
+    "warn": [
+      "resentment は『（不当な扱いへの）憤り・恨み・くすぶる不満』。動詞は resent（憤慨する）。",
+      "一時的な怒り anger より、長く心に残る根深い反感を表す。"
+    ],
+    "etym_note": "動詞 resent（強く感じる→憤慨する、フランス語 ressentir「re-（強意）＋ sentir（感じる）」より）に -ment が付いた語です。sentiment（感情）と同じ sentir を語根にもちます。",
+    "etym_chain": [
+      { "node": "sentire", "sub": "感じる", "era": "ラテン語" },
+      { "node": "resent", "sub": "憤慨する", "era": "近代英語" },
+      { "node": "resentment", "sub": "憤り・恨み", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "feel resentment", "ja": "恨みを感じる" },
+      { "en": "deep resentment", "ja": "深い恨み" },
+      { "en": "resentment toward", "ja": "〜への憤り" },
+      { "en": "breed resentment", "ja": "不満を生む" },
+      { "en": "lingering resentment", "ja": "くすぶる恨み" },
+      { "en": "harbor resentment", "ja": "恨みを抱く" }
+    ],
+    "related": [
+      { "en": "resent", "ja": "憤慨する" },
+      { "en": "bitterness", "ja": "恨みがましさ" },
+      { "en": "grudge", "ja": "遺恨" },
+      { "en": "indignation", "ja": "（義憤の）憤り" }
+    ],
+    "faq": [
+      { "q": "resentment とはどんな意味？", "a": "不当な扱いや侮辱に対して心にくすぶる根強い反感『憤り・恨み・不満』のことです。feel resentment toward（〜に恨みを感じる）のように使います。動詞は resent です。" },
+      { "q": "resentment と anger の違いは？", "a": "anger は『（一時的な）怒り』、resentment は『（不当さに対して長く心に残る）恨み・くすぶる不満』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "She felt deep ___ toward her boss.（恨み）", "A": "resentment", "B": "retirement の引退", "C": "resemblance の類似", "D": "refreshment の軽食", "correct": "A" },
+      { "q": "resentment の動詞形はどれ？", "A": "resent（憤慨する）", "B": "retire（引退する）", "C": "resemble（似ている）", "D": "refresh（元気にする）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "remembrance",
+    "pron": "rɪˈmembrəns",
+    "kana": "リメンブランス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "remember（覚えている）＋ -ance",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "記憶・追憶／（故人などへの）追悼・記念",
+    "description": "remembrance の意味・発音・例文・語源を解説。心に思い起こす「記憶・追憶」や、故人をしのぶ「追悼・記念」を指す語の使い方を紹介します。",
+    "keywords": ["remembrance 意味", "remembrance 発音", "remembrance 追悼", "remember 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】記憶・追憶", "note": "覚えていること、思い起こすこと。in remembrance of（〜を思い起こして）。" },
+      { "hinshi": "【名詞】（故人などへの）追悼・記念", "note": "亡くなった人や出来事をしのぶこと。Remembrance Day（戦没者追悼の日）。" }
+    ],
+    "usages": [
+      { "title": "① 「記憶・追憶」として", "desc": "思い起こすことを表します。", "example_en": "We held a moment of remembrance.", "example_ja": "私たちは追悼の黙とうをささげた。" },
+      { "title": "② in remembrance of として", "desc": "「〜をしのんで」を表します。", "example_en": "A monument was built in remembrance of the victims.", "example_ja": "犠牲者をしのんで記念碑が建てられた。" }
+    ],
+    "warn": [
+      "remembrance は『記憶・追憶』と『追悼・記念』。in remembrance of（〜をしのんで）が頻出。動詞は remember。",
+      "Remembrance Day はイギリス連邦の『戦没者追悼の日』。"
+    ],
+    "etym_note": "動詞 remember（re-「再び」＋ memor「心に留める」＝思い出す）に -ance が付いた語です。memory（記憶）, memorial（記念の）と同じ memor を語根にもちます。",
+    "etym_chain": [
+      { "node": "memor", "sub": "心に留める", "era": "ラテン語" },
+      { "node": "remember", "sub": "覚えている・思い出す", "era": "中英語" },
+      { "node": "remembrance", "sub": "記憶・追悼", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "in remembrance of", "ja": "〜をしのんで" },
+      { "en": "a moment of remembrance", "ja": "追悼の黙とう" },
+      { "en": "Remembrance Day", "ja": "戦没者追悼の日" },
+      { "en": "a day of remembrance", "ja": "追悼の日" },
+      { "en": "fond remembrance", "ja": "懐かしい思い出" },
+      { "en": "a token of remembrance", "ja": "記念の品" }
+    ],
+    "related": [
+      { "en": "remember", "ja": "覚えている・思い出す" },
+      { "en": "memory", "ja": "記憶" },
+      { "en": "commemoration", "ja": "記念・追悼" },
+      { "en": "recollection", "ja": "回想" }
+    ],
+    "faq": [
+      { "q": "remembrance とはどんな意味？", "a": "心に思い起こす『記憶・追憶』という意味と、亡くなった人や出来事をしのぶ『追悼・記念』という意味があります。in remembrance of（〜をしのんで）のように使います。" },
+      { "q": "Remembrance Day とは？", "a": "イギリス連邦などで戦没者を追悼する『戦没者追悼の日（11月11日）』のことです。" }
+    ],
+    "quiz": [
+      { "q": "A monument was built in ___ of the victims.（追悼）", "A": "remembrance", "B": "resemblance の類似", "C": "resistance の抵抗", "D": "reluctance の気乗りのなさ", "correct": "A" },
+      { "q": "remembrance の動詞形はどれ？", "A": "remember（覚えている）", "B": "resemble（似ている）", "C": "resist（抵抗する）", "D": "remain（残る）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "renovation",
+    "pron": "ˌrenəˈveɪʃən",
+    "kana": "レノベーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 renovare（新しくする）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "改修・改装・修繕（古い建物などを新しく直すこと）",
+    "description": "renovation の意味・発音・例文・語源を解説。古い建物や部屋を新しく直す「改修・改装・修繕」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["renovation 意味", "renovation 発音", "renovation 改装", "renovate 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】改修・改装・修繕", "note": "古い・傷んだ建物などを直して新しくすること。under renovation（改装中）。" }
+    ],
+    "usages": [
+      { "title": "① 建物の改装として", "desc": "古い建物を新しく直すことを表します。", "example_en": "The hotel is closed for renovation.", "example_ja": "そのホテルは改装のため閉まっている。" },
+      { "title": "② 大規模な修繕として", "desc": "全面的に手を入れることを表します。", "example_en": "The house needs major renovation.", "example_ja": "その家は大がかりな改修が必要だ。" }
+    ],
+    "warn": [
+      "renovation は『（建物を新しく直す）改修・改装』。動詞は renovate。restoration（元に忠実に戻す修復）とは少し違う。",
+      "under renovation（改装中）が頻出。"
+    ],
+    "etym_note": "ラテン語 renovare（re-「再び」＋ novare「新しくする」＝新しくする）に由来します。new（新しい）, novel（新しい・小説）と同じ語根です。",
+    "etym_chain": [
+      { "node": "novare", "sub": "新しくする", "era": "ラテン語" },
+      { "node": "renovare", "sub": "再び新しくする", "era": "ラテン語" },
+      { "node": "renovation", "sub": "改修・改装", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "under renovation", "ja": "改装中で" },
+      { "en": "major renovation", "ja": "大規模改修" },
+      { "en": "home renovation", "ja": "住宅の改装" },
+      { "en": "renovation work", "ja": "改修工事" },
+      { "en": "closed for renovation", "ja": "改装のため閉鎖" },
+      { "en": "a complete renovation", "ja": "全面改装" }
+    ],
+    "related": [
+      { "en": "renovate", "ja": "改修する" },
+      { "en": "restoration", "ja": "修復・復元" },
+      { "en": "remodeling", "ja": "改装・模様替え" },
+      { "en": "refurbishment", "ja": "改装・一新" }
+    ],
+    "faq": [
+      { "q": "renovation とはどんな意味？", "a": "古い・傷んだ建物や部屋を直して新しくする『改修・改装・修繕』のことです。under renovation（改装中）のように使います。動詞は renovate です。" },
+      { "q": "renovation と restoration の違いは？", "a": "renovation は『（新しくして）改修・改装する』、restoration は『（元の状態に忠実に）修復・復元する』ことに重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The hotel is closed for ___.（改装）", "A": "renovation", "B": "reservation の予約", "C": "relaxation の息抜き", "D": "registration の登録", "correct": "A" },
+      { "q": "renovation の動詞形はどれ？", "A": "renovate（改修する）", "B": "reserve（予約する）", "C": "relax（くつろぐ）", "D": "register（登録する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "remoteness",
+    "pron": "rɪˈmoʊtnəs",
+    "kana": "リモートネス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "remote（遠く離れた）＋ -ness",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "遠さ・へんぴさ・隔絶／（態度の）よそよそしさ",
+    "description": "remoteness の意味・発音・例文・語源を解説。場所が「遠く離れていること・へんぴさ」や、態度の「よそよそしさ」を指す語の使い方を紹介します。",
+    "keywords": ["remoteness 意味", "remoteness 発音", "remoteness へんぴ", "remote 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】遠さ・へんぴさ・隔絶", "note": "中心地から遠く離れていること。the remoteness of the village（村のへんぴさ）。" },
+      { "hinshi": "【名詞】（態度・関係の）よそよそしさ・疎遠", "note": "心理的に距離があること。a sense of remoteness（よそよそしさ）。" }
+    ],
+    "usages": [
+      { "title": "① 「へんぴさ・隔絶」として", "desc": "場所が遠く離れていることを表します。", "example_en": "The remoteness of the island kept it untouched.", "example_ja": "その島はへんぴさゆえに手つかずのままだった。" },
+      { "title": "② 「よそよそしさ」として", "desc": "心理的な距離を表します。", "example_en": "There was a certain remoteness in his manner.", "example_ja": "彼の態度にはどこかよそよそしさがあった。" }
+    ],
+    "warn": [
+      "remoteness は『（場所の）遠さ・へんぴさ』と『（態度の）よそよそしさ・疎遠』。形容詞は remote。",
+      "remote には『遠隔操作の・リモートの』の意味もあるが、remoteness は主に『遠さ・隔絶』。"
+    ],
+    "etym_note": "remote（遠く離れた、ラテン語 removere「remove＝遠ざける」の過去分詞 remotus より）に -ness が付いた語です。「遠く離れていること」を意味します。",
+    "etym_chain": [
+      { "node": "removere", "sub": "遠ざける", "era": "ラテン語" },
+      { "node": "remote", "sub": "遠く離れた", "era": "中英語" },
+      { "node": "remoteness", "sub": "遠さ・へんぴさ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the remoteness of the village", "ja": "村のへんぴさ" },
+      { "en": "geographical remoteness", "ja": "地理的な隔絶" },
+      { "en": "a sense of remoteness", "ja": "よそよそしさ・隔たり" },
+      { "en": "the remoteness of the area", "ja": "その地域のへんぴさ" },
+      { "en": "emotional remoteness", "ja": "感情的な疎遠" },
+      { "en": "due to its remoteness", "ja": "へんぴさのために" }
+    ],
+    "related": [
+      { "en": "remote", "ja": "遠く離れた" },
+      { "en": "isolation", "ja": "孤立・隔絶" },
+      { "en": "distance", "ja": "距離" },
+      { "en": "aloofness", "ja": "よそよそしさ" }
+    ],
+    "faq": [
+      { "q": "remoteness とはどんな意味？", "a": "場所が中心地から『遠く離れていること・へんぴさ・隔絶』という意味と、態度や関係の『よそよそしさ・疎遠』という意味があります。形容詞は remote です。" },
+      { "q": "remoteness と isolation の違いは？", "a": "remoteness は『（場所が）遠く離れていること』、isolation は『（周囲から切り離された）孤立』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The ___ of the island kept it untouched.（へんぴさ）", "A": "remoteness", "B": "rudeness の無礼", "C": "ripeness の熟度", "D": "richness の豊かさ", "correct": "A" },
+      { "q": "remoteness の形容詞形はどれ？", "A": "remote（遠く離れた）", "B": "rude（無礼な）", "C": "ripe（熟した）", "D": "rich（豊かな）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "restlessness",
+    "pron": "ˈrestləsnəs",
+    "kana": "レストレスネス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "restless（落ち着かない）＋ -ness",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "感情"],
+    "meaning_main": "落ち着きのなさ・そわそわすること・じっとしていられなさ",
+    "description": "restlessness の意味・発音・例文・語源を解説。じっとしていられず「落ち着かないこと・そわそわすること」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["restlessness 意味", "restlessness 発音", "restlessness 落ち着きのなさ", "restless 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】落ち着きのなさ・そわそわすること", "note": "じっとしていられず、心や体が落ち着かないこと。a sense of restlessness（落ち着かない感じ）。" }
+    ],
+    "usages": [
+      { "title": "① 心の落ち着かなさとして", "desc": "そわそわした気持ちを表します。", "example_en": "A growing restlessness took hold of her.", "example_ja": "募る落ち着きのなさが彼女を捉えた。" },
+      { "title": "② 体の落ち着かなさとして", "desc": "じっとしていられない様子を表します。", "example_en": "The long wait caused restlessness in the crowd.", "example_ja": "長い待ち時間が群衆をそわそわさせた。" }
+    ],
+    "warn": [
+      "restlessness は『落ち着きのなさ・そわそわすること』。形容詞は restless（落ち着かない）。",
+      "rest（休息）＋ -less（〜のない）＋ -ness。『休まらない状態』。"
+    ],
+    "etym_note": "restless（rest「休息」＋ -less「〜のない」＝休まらない・落ち着かない）に -ness が付いた語です。「休まらず落ち着かない状態」を意味します。",
+    "etym_chain": [
+      { "node": "rest + -less", "sub": "休息＋ない", "era": "中英語" },
+      { "node": "restless", "sub": "落ち着かない", "era": "中英語" },
+      { "node": "restlessness", "sub": "落ち着きのなさ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a sense of restlessness", "ja": "落ち着かない感じ" },
+      { "en": "growing restlessness", "ja": "募る落ち着きのなさ" },
+      { "en": "inner restlessness", "ja": "内なる落ち着かなさ" },
+      { "en": "cause restlessness", "ja": "そわそわさせる" },
+      { "en": "feel restlessness", "ja": "落ち着かなさを感じる" },
+      { "en": "nighttime restlessness", "ja": "夜間の落ち着かなさ" }
+    ],
+    "related": [
+      { "en": "restless", "ja": "落ち着かない" },
+      { "en": "agitation", "ja": "動揺・落ち着かなさ" },
+      { "en": "unease", "ja": "不安・落ち着かなさ" },
+      { "en": "calm", "ja": "落ち着き（反対語）" }
+    ],
+    "faq": [
+      { "q": "restlessness とはどんな意味？", "a": "じっとしていられず、心や体が落ち着かないこと『落ち着きのなさ・そわそわすること』です。形容詞は restless です。" },
+      { "q": "restlessness の語のつくりは？", "a": "rest（休息）＋ -less（〜のない）＋ -ness（状態）で、『休まらず落ち着かない状態』を意味します。" }
+    ],
+    "quiz": [
+      { "q": "A growing ___ took hold of her.（落ち着きのなさ）", "A": "restlessness", "B": "carelessness の不注意", "C": "helplessness の無力さ", "D": "weakness の弱さ", "correct": "A" },
+      { "q": "restlessness の形容詞形はどれ？", "A": "restless（落ち着かない）", "B": "careless（不注意な）", "C": "helpless（無力な）", "D": "weak（弱い）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "relativity",
+    "pron": "ˌreləˈtɪvəti",
+    "kana": "レラティビティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "relative（相対的な）＋ -ity",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "科学"],
+    "meaning_main": "相対性・相対的であること／（物理学の）相対性理論",
+    "description": "relativity の意味・発音・例文・語源を解説。物事が「相対的であること（相対性）」や、アインシュタインの「相対性理論」を指す語の使い方を紹介します。",
+    "keywords": ["relativity 意味", "relativity 発音", "relativity 相対性", "relativity 相対性理論"],
+    "meanings": [
+      { "hinshi": "【名詞】相対性・相対的であること", "note": "他との関係によって決まること、絶対でないこと。the relativity of values（価値観の相対性）。" },
+      { "hinshi": "【名詞】（物理学の）相対性理論", "note": "アインシュタインの理論。the theory of relativity（相対性理論）。" }
+    ],
+    "usages": [
+      { "title": "① 「相対性」として", "desc": "他との関係で決まることを表します。", "example_en": "He spoke about the relativity of moral values.", "example_ja": "彼は道徳的価値観の相対性について語った。" },
+      { "title": "② 「相対性理論」として", "desc": "物理学の理論を指します。", "example_en": "Einstein developed the theory of relativity.", "example_ja": "アインシュタインは相対性理論を打ち立てた。" }
+    ],
+    "warn": [
+      "relativity は『相対性（他との関係で決まること）』と、物理学の『相対性理論』。形容詞は relative（相対的な）。",
+      "the theory of relativity（相対性理論）が頻出。反対の考えは absoluteness（絶対性）。"
+    ],
+    "etym_note": "relative（相対的な、ラテン語 relativus「関係する」より）に -ity が付いた語です。relate（関係づける）と同じ語根で、「他と関係づけられること＝相対性」を意味します。",
+    "etym_chain": [
+      { "node": "relativus", "sub": "関係する", "era": "ラテン語" },
+      { "node": "relative", "sub": "相対的な", "era": "中英語" },
+      { "node": "relativity", "sub": "相対性", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the theory of relativity", "ja": "相対性理論" },
+      { "en": "general relativity", "ja": "一般相対性理論" },
+      { "en": "special relativity", "ja": "特殊相対性理論" },
+      { "en": "the relativity of values", "ja": "価値観の相対性" },
+      { "en": "cultural relativity", "ja": "文化相対性" },
+      { "en": "Einstein's relativity", "ja": "アインシュタインの相対性理論" }
+    ],
+    "related": [
+      { "en": "relative", "ja": "相対的な" },
+      { "en": "relate", "ja": "関係づける" },
+      { "en": "relativism", "ja": "相対主義" },
+      { "en": "absoluteness", "ja": "絶対性（反対）" }
+    ],
+    "faq": [
+      { "q": "relativity とはどんな意味？", "a": "物事が他との関係によって決まること『相対性』という意味と、アインシュタインの物理学の『相対性理論』という意味があります。形容詞は relative です。" },
+      { "q": "the theory of relativity とは？", "a": "アインシュタインが提唱した、時間・空間・重力に関する物理学の理論『相対性理論』のことです。" }
+    ],
+    "quiz": [
+      { "q": "Einstein developed the theory of ___.（相対性）", "A": "relativity", "B": "reality の現実", "C": "creativity の創造性", "D": "activity の活動", "correct": "A" },
+      { "q": "relativity の形容詞形はどれ？", "A": "relative（相対的な）", "B": "real（本当の）", "C": "creative（創造的な）", "D": "active（活発な）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "realism",
+    "pron": "ˈriːəlɪzəm",
+    "kana": "リアリズム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "real（現実の）＋ -ism",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "現実主義・現実的な見方／（芸術の）写実主義・リアリズム",
+    "description": "realism の意味・発音・例文・語源を解説。物事をありのままに見る「現実主義」や、芸術の「写実主義（リアリズム）」を指す語の使い方を紹介します。",
+    "keywords": ["realism 意味", "realism 発音", "realism 現実主義", "realism 写実"],
+    "meanings": [
+      { "hinshi": "【名詞】現実主義・現実的な見方", "note": "理想ではなく現実を直視する態度。political realism（政治的現実主義）。" },
+      { "hinshi": "【名詞】（芸術の）写実主義・リアリズム", "note": "対象をありのままに描く芸術の流派・手法。" }
+    ],
+    "usages": [
+      { "title": "① 「現実主義」として", "desc": "現実を直視する態度を表します。", "example_en": "We need a dose of realism here.", "example_ja": "ここでは少し現実を見る必要がある。" },
+      { "title": "② 「写実主義」として", "desc": "ありのままに描く芸術を表します。", "example_en": "The painting is admired for its realism.", "example_ja": "その絵は写実性で称賛されている。" }
+    ],
+    "warn": [
+      "realism は『現実主義・現実的な見方』と『（芸術の）写実主義』。反対は idealism（理想主義）。",
+      "形容詞 realistic（現実的な・写実的な）、現実主義者 realist。"
+    ],
+    "etym_note": "real（現実の、ラテン語 realis「物の・実在する」より）に「主義・流派」を表す -ism が付いた語です。「現実を重んじる考え方」を意味します。",
+    "etym_chain": [
+      { "node": "realis", "sub": "物の・実在する", "era": "後期ラテン語" },
+      { "node": "real", "sub": "現実の", "era": "中英語" },
+      { "node": "realism", "sub": "現実主義・写実主義", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a dose of realism", "ja": "少しの現実直視" },
+      { "en": "political realism", "ja": "政治的現実主義" },
+      { "en": "gritty realism", "ja": "生々しい写実" },
+      { "en": "admired for its realism", "ja": "写実性で称賛される" },
+      { "en": "social realism", "ja": "社会主義リアリズム・社会写実主義" },
+      { "en": "a sense of realism", "ja": "現実感" }
+    ],
+    "related": [
+      { "en": "realistic", "ja": "現実的な・写実的な" },
+      { "en": "realist", "ja": "現実主義者" },
+      { "en": "idealism", "ja": "理想主義（反対語）" },
+      { "en": "pragmatism", "ja": "実用主義" }
+    ],
+    "faq": [
+      { "q": "realism とはどんな意味？", "a": "理想ではなく物事をありのままに見る『現実主義・現実的な見方』という意味と、対象をありのままに描く芸術の『写実主義（リアリズム）』という意味があります。" },
+      { "q": "realism と idealism の違いは？", "a": "realism は『現実を直視する現実主義』、idealism は『理想を追い求める理想主義』で、正反対の態度です。" }
+    ],
+    "quiz": [
+      { "q": "The painting is admired for its ___.（写実性）", "A": "realism", "B": "tourism の観光", "C": "racism の人種差別", "D": "realism の代わりに rhythm", "correct": "A" },
+      { "q": "realism の反対語はどれ？", "A": "idealism（理想主義）", "B": "tourism（観光）", "C": "heroism（英雄的行為）", "D": "criticism（批判）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reissue",
+    "pron": "riːˈɪʃuː",
+    "kana": "リイシュー",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ issue（発行する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "出版・メディア"],
+    "meaning_main": "再発行する・再発売する／（名詞）再発行・復刻版",
+    "description": "reissue の意味・発音・例文・語源を解説。書籍・音楽・切手などを「再発行・再発売する」こと、また「復刻版」を指す語の使い方を紹介します。",
+    "keywords": ["reissue 意味", "reissue 発音", "reissue 再発行", "reissue 復刻"],
+    "meanings": [
+      { "hinshi": "【動詞】再発行する・再発売する", "note": "一度出したものを再び発行・発売する。reissue an album（アルバムを再発売する）。" },
+      { "hinshi": "【名詞】再発行（物）・復刻版", "note": "再び出されたもの。a reissue of the classic（名作の復刻版）。" }
+    ],
+    "usages": [
+      { "title": "① 動詞「再発売する」として", "desc": "一度出したものを再び出すことを表します。", "example_en": "The label reissued the band's old albums.", "example_ja": "レーベルはそのバンドの旧アルバムを再発売した。" },
+      { "title": "② 名詞「復刻版」として", "desc": "再び出された版を指します。", "example_en": "This is a reissue of the 1970s edition.", "example_ja": "これは1970年代版の復刻だ。" }
+    ],
+    "warn": [
+      "reissue は『再発行・再発売する／（名詞）復刻版』。re-（再び）＋ issue（発行する）。",
+      "書籍・音楽・切手・証明書などを再び出すときに使う。"
+    ],
+    "etym_note": "re-（再び）＋ issue（出す・発行する、古フランス語 issir「出る」より）から成り、「もう一度出すこと」を意味します。",
+    "etym_chain": [
+      { "node": "issir", "sub": "出る", "era": "古フランス語" },
+      { "node": "issue", "sub": "出す・発行する", "era": "中英語" },
+      { "node": "reissue", "sub": "再発行する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reissue an album", "ja": "アルバムを再発売する" },
+      { "en": "reissue a book", "ja": "本を再発行する" },
+      { "en": "a special reissue", "ja": "特別復刻版" },
+      { "en": "reissue the stamps", "ja": "切手を再発行する" },
+      { "en": "a remastered reissue", "ja": "リマスター復刻版" },
+      { "en": "reissue a passport", "ja": "パスポートを再発行する" }
+    ],
+    "related": [
+      { "en": "issue", "ja": "発行する・発行物" },
+      { "en": "reprint", "ja": "重版・再版" },
+      { "en": "republish", "ja": "再出版する" },
+      { "en": "rerelease", "ja": "再公開・再発売" }
+    ],
+    "faq": [
+      { "q": "reissue とはどんな意味？", "a": "書籍・音楽・切手・証明書などを『再発行・再発売する』という動詞、また『再発行物・復刻版』という名詞です。re-（再び）＋ issue（発行する）から来ています。" },
+      { "q": "reissue と reprint の違いは？", "a": "reprint は特に『印刷物の重版・刷り直し』、reissue は『（音楽・書籍などを）再び世に出すこと』全般を指します。" }
+    ],
+    "quiz": [
+      { "q": "The label ___d the band's old albums.（再発売した）", "A": "reissue", "B": "rescue の救助する", "C": "review の見直す", "D": "reserve の予約する", "correct": "A" },
+      { "q": "reissue のもとになった語はどれ？", "A": "issue（発行する）", "B": "tissue（ティッシュ）", "C": "rescue（救助）", "D": "value（価値）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rationing",
+    "pron": "ˈræʃənɪŋ",
+    "kana": "ラショニング",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ration（配給する）＋ -ing",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "社会・歴史"],
+    "meaning_main": "配給（制）・割り当て（不足時に決まった量ずつ分けること）",
+    "description": "rationing の意味・発音・例文・語源を解説。物資が不足したとき食料などを決まった量ずつ分ける「配給（制）・割り当て」を指す語の使い方を紹介します。",
+    "keywords": ["rationing 意味", "rationing 発音", "rationing 配給", "ration 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】配給（制）・割り当て", "note": "不足時に、食料・燃料などを一人あたり決まった量ずつ分けること。food rationing（食料配給）。" }
+    ],
+    "usages": [
+      { "title": "① 戦時の配給として", "desc": "物資を決まった量ずつ分けることを表します。", "example_en": "Food rationing began during the war.", "example_ja": "戦時中に食料の配給が始まった。" },
+      { "title": "② 資源の割り当てとして", "desc": "不足した資源を分けることを表します。", "example_en": "Water rationing was introduced in the drought.", "example_ja": "干ばつで水の配給制が導入された。" }
+    ],
+    "warn": [
+      "rationing は『（不足時の）配給制・割り当て』。動詞は ration（配給する・割り当てる）、名詞 ration は『一人分の配給量』。",
+      "戦時・災害・干ばつなどの文脈で頻出。"
+    ],
+    "etym_note": "動詞 ration（割り当てる、ラテン語 ratio「計算・割合」より）に -ing が付いた語です。「割合に応じて配ること」を意味し、reason（理性）, ratio（比率）と同じ語根です。",
+    "etym_chain": [
+      { "node": "ratio", "sub": "計算・割合", "era": "ラテン語" },
+      { "node": "ration", "sub": "配給する・割り当てる", "era": "近代英語" },
+      { "node": "rationing", "sub": "配給制", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "food rationing", "ja": "食料配給" },
+      { "en": "water rationing", "ja": "水の配給制" },
+      { "en": "fuel rationing", "ja": "燃料の配給" },
+      { "en": "introduce rationing", "ja": "配給制を導入する" },
+      { "en": "wartime rationing", "ja": "戦時の配給" },
+      { "en": "end rationing", "ja": "配給制を終える" }
+    ],
+    "related": [
+      { "en": "ration", "ja": "配給（量）・割り当てる" },
+      { "en": "allocation", "ja": "割り当て・配分" },
+      { "en": "distribution", "ja": "分配" },
+      { "en": "quota", "ja": "割当量" }
+    ],
+    "faq": [
+      { "q": "rationing とはどんな意味？", "a": "物資が不足したときに、食料・燃料・水などを一人あたり決まった量ずつ分ける『配給（制）・割り当て』のことです。動詞は ration です。" },
+      { "q": "rationing はどんなときに使う？", "a": "戦争・災害・干ばつなどで物資が不足し、公平に分配する必要があるときに使います。food rationing（食料配給）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "Food ___ began during the war.（配給）", "A": "rationing", "B": "rationale の根拠", "C": "ration の代わりに portion", "D": "reasoning の推論", "correct": "A" },
+      { "q": "rationing と同じ語根 ratio をもつのはどれ？", "A": "reason（理性・理由）", "B": "region（地域）", "C": "ransom（身代金）", "D": "ranch（牧場）", "correct": "A" }
+    ]
+  }
+]

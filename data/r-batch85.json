@@ -1,0 +1,474 @@
+[
+  {
+    "english": "refrigeration",
+    "pron": "rɪˌfrɪdʒəˈreɪʃən",
+    "kana": "リフリジレーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 refrigerare（冷やす）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "技術・生活"],
+    "meaning_main": "冷蔵・冷却（食品などを低温に保つこと）",
+    "description": "refrigeration の意味・発音・例文・語源を解説。食品などを低温に保って傷みを防ぐ「冷蔵・冷却」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["refrigeration 意味", "refrigeration 発音", "冷蔵", "refrigerator 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】冷蔵・冷却", "note": "食品などを低温に保ち、傷みや変質を防ぐこと。need refrigeration（要冷蔵）。" }
+    ],
+    "usages": [
+      { "title": "① 食品の冷蔵として", "desc": "低温に保つことを表します。", "example_en": "Meat requires refrigeration.", "example_ja": "肉は冷蔵が必要だ。" },
+      { "title": "② 技術・設備として", "desc": "冷却のしくみを表します。", "example_en": "Modern refrigeration changed food storage.", "example_ja": "近代の冷却技術は食品保存を変えた。" }
+    ],
+    "warn": [
+      "refrigeration は『冷蔵・冷却』。冷蔵庫は refrigerator（fridge）。need / require refrigeration（要冷蔵）が頻出。",
+      "凍らせる freezing（冷凍）とは区別する。"
+    ],
+    "etym_note": "ラテン語 refrigerare（re-「強意」＋ frigus「冷たさ」＝冷やす）に由来します。frigid（極寒の）と同じ frigus を語根にもち、「冷やすこと」を意味します。",
+    "etym_chain": [
+      { "node": "frigus", "sub": "冷たさ", "era": "ラテン語" },
+      { "node": "refrigerare", "sub": "冷やす", "era": "ラテン語" },
+      { "node": "refrigeration", "sub": "冷蔵・冷却", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "need refrigeration", "ja": "冷蔵が必要だ" },
+      { "en": "keep under refrigeration", "ja": "冷蔵保存する" },
+      { "en": "refrigeration unit", "ja": "冷却装置" },
+      { "en": "commercial refrigeration", "ja": "業務用冷蔵" },
+      { "en": "store without refrigeration", "ja": "常温で保存する" },
+      { "en": "refrigeration system", "ja": "冷却システム" }
+    ],
+    "related": [
+      { "en": "refrigerator", "ja": "冷蔵庫" },
+      { "en": "cooling", "ja": "冷却" },
+      { "en": "freezing", "ja": "冷凍" },
+      { "en": "preservation", "ja": "保存" }
+    ],
+    "faq": [
+      { "q": "refrigeration とはどんな意味？", "a": "食品などを低温に保ち、傷みや変質を防ぐこと『冷蔵・冷却』のことです。need refrigeration（要冷蔵）のように使います。" },
+      { "q": "refrigeration と freezing の違いは？", "a": "refrigeration（冷蔵）は『（凍らせず）低温に保つ』こと、freezing（冷凍）は『凍らせて保存する』ことです。" }
+    ],
+    "quiz": [
+      { "q": "Meat requires ___.（冷蔵）", "A": "refrigeration", "B": "registration の登録", "C": "regeneration の再生", "D": "renovation の改装", "correct": "A" },
+      { "q": "refrigeration に関係する家電はどれ？", "A": "refrigerator（冷蔵庫）", "B": "radiator（暖房器）", "C": "projector（投影機）", "D": "generator（発電機）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reinstatement",
+    "pron": "ˌriːɪnˈsteɪtmənt",
+    "kana": "リインステイトメント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "reinstate（復職させる）＋ -ment",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "復職・復位・（権利・制度の）復活・元に戻すこと",
+    "description": "reinstatement の意味・発音・例文・語源を解説。解雇された人の「復職」や、廃止された権利・制度を「元に戻すこと（復活）」を指す語の使い方を紹介します。",
+    "keywords": ["reinstatement 意味", "reinstatement 発音", "復職", "reinstate 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】復職・復位・復活・元に戻すこと", "note": "解雇・停止されていた人・権利・制度を元の状態に戻すこと。the reinstatement of the worker（労働者の復職）。" }
+    ],
+    "usages": [
+      { "title": "① 「復職」として", "desc": "解雇された人を元に戻すことを表します。", "example_en": "The union demanded his reinstatement.", "example_ja": "組合は彼の復職を要求した。" },
+      { "title": "② 「復活・元に戻すこと」として", "desc": "廃止された制度などを戻すことを表します。", "example_en": "They called for the reinstatement of the law.", "example_ja": "彼らはその法律の復活を求めた。" }
+    ],
+    "warn": [
+      "reinstatement は『（人の）復職・復位』『（権利・制度の）復活・元に戻すこと』。動詞は reinstate。",
+      "reinstate ＝ re-（再び）＋ instate（地位に就かせる）。"
+    ],
+    "etym_note": "動詞 reinstate（re-「再び」＋ instate「地位に就かせる」＝復位させる）に -ment が付いた語です。state（状態・地位）と同じ語根です。",
+    "etym_chain": [
+      { "node": "state", "sub": "状態・地位", "era": "中英語" },
+      { "node": "reinstate", "sub": "復職させる・復活させる", "era": "近代英語" },
+      { "node": "reinstatement", "sub": "復職・復活", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "demand reinstatement", "ja": "復職を要求する" },
+      { "en": "the reinstatement of the worker", "ja": "労働者の復職" },
+      { "en": "seek reinstatement", "ja": "復職を求める" },
+      { "en": "the reinstatement of the law", "ja": "法律の復活" },
+      { "en": "full reinstatement", "ja": "完全な復職" },
+      { "en": "call for reinstatement", "ja": "復活を求める" }
+    ],
+    "related": [
+      { "en": "reinstate", "ja": "復職させる・復活させる" },
+      { "en": "restoration", "ja": "回復・復元" },
+      { "en": "reappointment", "ja": "再任" },
+      { "en": "dismissal", "ja": "解雇（反対）" }
+    ],
+    "faq": [
+      { "q": "reinstatement とはどんな意味？", "a": "解雇・停止されていた人・権利・制度を元の状態に戻すこと『復職・復位・復活』です。the reinstatement of the worker（労働者の復職）のように使います。動詞は reinstate です。" },
+      { "q": "reinstatement と restoration の違いは？", "a": "reinstatement は特に『（人の地位・権利・制度を）元に戻すこと（復職・復活）』、restoration は『（建物・秩序などの）修復・回復』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The union demanded his ___.（復職）", "A": "reinstatement", "B": "retirement の引退", "C": "replacement の取り替え", "D": "requirement の要件", "correct": "A" },
+      { "q": "reinstatement の動詞形はどれ？", "A": "reinstate（復職させる）", "B": "retire（引退する）", "C": "replace（取り替える）", "D": "require（必要とする）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "regeneration",
+    "pron": "rɪˌdʒenəˈreɪʃən",
+    "kana": "リジェネレーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 regenerare（再び生み出す）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "科学・社会"],
+    "meaning_main": "（組織・器官の）再生／（地域・経済の）再生・活性化",
+    "description": "regeneration の意味・発音・例文・語源を解説。失われた組織が元に戻る「（生物の）再生」や、衰えた地域・経済の「再生・活性化」を指す語の使い方を紹介します。",
+    "keywords": ["regeneration 意味", "regeneration 発音", "再生", "regenerate 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】（組織・器官の）再生", "note": "失われた体の一部が再びつくられること。tissue regeneration（組織の再生）。" },
+      { "hinshi": "【名詞】（地域・経済の）再生・活性化", "note": "衰えた地域などを再び活気づけること。urban regeneration（都市再生）。" }
+    ],
+    "usages": [
+      { "title": "① 「（生物の）再生」として", "desc": "体の一部が再びつくられることを表します。", "example_en": "Lizards are capable of tail regeneration.", "example_ja": "トカゲは尾の再生ができる。" },
+      { "title": "② 「（地域の）再生」として", "desc": "衰えた地域の活性化を表します。", "example_en": "The project focuses on urban regeneration.", "example_ja": "その事業は都市再生に重点を置く。" }
+    ],
+    "warn": [
+      "regeneration は『（生物の組織・器官の）再生』と『（地域・経済の）再生・活性化』。動詞は regenerate。",
+      "urban regeneration（都市再生）はまちづくりで頻出。"
+    ],
+    "etym_note": "ラテン語 regenerare（re-「再び」＋ generare「生み出す」＝再び生み出す）の名詞形 regeneratio に由来します。generate（生み出す）, generation（世代）と同じ語根です。",
+    "etym_chain": [
+      { "node": "generare", "sub": "生み出す", "era": "ラテン語" },
+      { "node": "regenerare", "sub": "再び生み出す", "era": "ラテン語" },
+      { "node": "regeneration", "sub": "再生・活性化", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "tissue regeneration", "ja": "組織の再生" },
+      { "en": "urban regeneration", "ja": "都市再生" },
+      { "en": "cell regeneration", "ja": "細胞の再生" },
+      { "en": "economic regeneration", "ja": "経済の活性化" },
+      { "en": "nerve regeneration", "ja": "神経の再生" },
+      { "en": "the regeneration of the area", "ja": "その地域の再生" }
+    ],
+    "related": [
+      { "en": "regenerate", "ja": "再生する・活性化する" },
+      { "en": "renewal", "ja": "再生・更新" },
+      { "en": "revival", "ja": "復活・再生" },
+      { "en": "growth", "ja": "成長" }
+    ],
+    "faq": [
+      { "q": "regeneration とはどんな意味？", "a": "失われた体の組織・器官が再びつくられる『（生物の）再生』という意味と、衰えた地域・経済を再び活気づける『再生・活性化』という意味があります。動詞は regenerate です。" },
+      { "q": "regeneration と rejuvenation の違いは？", "a": "regeneration は『（失われたものが）再びつくられる再生』、rejuvenation は『（再び若く・元気にする）若返り・活性化』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "Lizards are capable of tail ___.（再生）", "A": "regeneration", "B": "generation の世代", "C": "registration の登録", "D": "refrigeration の冷蔵", "correct": "A" },
+      { "q": "regeneration の動詞形はどれ？", "A": "regenerate（再生する）", "B": "generate（生み出す）", "C": "register（登録する）", "D": "refrigerate（冷蔵する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reorganization",
+    "pron": "riˌɔːrɡənaɪˈzeɪʃən",
+    "kana": "リオーガニゼーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ organization（組織化）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "ビジネス"],
+    "meaning_main": "再編成・組織改編・立て直し",
+    "description": "reorganization の意味・発音・例文・語源を解説。会社や組織の仕組みを「再編成・組織改編・立て直す」ことを指すビジネスの語の使い方を紹介します。",
+    "keywords": ["reorganization 意味", "reorganization 発音", "再編成", "reorganize 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再編成・組織改編・立て直し", "note": "組織・会社の構造ややり方を組み替えること。corporate reorganization（企業の再編）。" }
+    ],
+    "usages": [
+      { "title": "① 組織の再編として", "desc": "仕組みを組み替えることを表します。", "example_en": "The company announced a major reorganization.", "example_ja": "その会社は大規模な再編成を発表した。" },
+      { "title": "② 立て直しとして", "desc": "経営の立て直しを表します。", "example_en": "The firm filed for reorganization.", "example_ja": "その会社は（破産法に基づく）再建を申請した。" }
+    ],
+    "warn": [
+      "reorganization は『再編成・組織改編・立て直し』。re-（再び）＋ organization（組織化）。動詞は reorganize。",
+      "アメリカでは『（破産法に基づく）会社更生・再建』の意味でも使う。イギリスつづりは reorganisation。"
+    ],
+    "etym_note": "re-（再び）＋ organization（組織化、organize「組織する」より）から成り、「もう一度組織し直すこと」を意味します。organ（器官）と同じ語根です。",
+    "etym_chain": [
+      { "node": "organize", "sub": "組織する", "era": "近代英語" },
+      { "node": "organization", "sub": "組織化", "era": "近代英語" },
+      { "node": "reorganization", "sub": "再編成", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "corporate reorganization", "ja": "企業の再編" },
+      { "en": "a major reorganization", "ja": "大規模な再編成" },
+      { "en": "undergo reorganization", "ja": "再編される" },
+      { "en": "file for reorganization", "ja": "会社更生を申請する" },
+      { "en": "internal reorganization", "ja": "内部の組織改編" },
+      { "en": "a company reorganization", "ja": "会社の再編成" }
+    ],
+    "related": [
+      { "en": "reorganize", "ja": "再編成する" },
+      { "en": "restructuring", "ja": "再構築・リストラ" },
+      { "en": "reshuffle", "ja": "（人事の）再編" },
+      { "en": "overhaul", "ja": "抜本的見直し" }
+    ],
+    "faq": [
+      { "q": "reorganization とはどんな意味？", "a": "会社や組織の構造ややり方を組み替えること『再編成・組織改編・立て直し』のことです。corporate reorganization（企業の再編）のように使います。動詞は reorganize です。" },
+      { "q": "reorganization と restructuring の違いは？", "a": "ほぼ同じですが、reorganization は『組織の編成を組み替える』、restructuring は『（事業や負債を含めた）構造の抜本的な作り直し』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The company announced a major ___.（再編成）", "A": "reorganization", "B": "registration の登録", "C": "reservation の予約", "D": "recreation の娯楽", "correct": "A" },
+      { "q": "reorganization の動詞形はどれ？", "A": "reorganize（再編成する）", "B": "register（登録する）", "C": "reserve（予約する）", "D": "recreate（再現する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reparation",
+    "pron": "ˌrepəˈreɪʃən",
+    "kana": "レパレーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 reparare（修復する）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "政治・歴史"],
+    "meaning_main": "（損害の）賠償・償い／（複数形で）戦争賠償金",
+    "description": "reparation の意味・発音・例文・語源を解説。与えた損害への「賠償・償い」、また戦争に伴う「賠償金（reparations）」を指す語の使い方を紹介します。",
+    "keywords": ["reparation 意味", "reparation 発音", "賠償", "reparations 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】（損害の）賠償・償い", "note": "与えた損害・苦痛を償うこと。make reparation for（〜を償う）。" },
+      { "hinshi": "【名詞】（複数形 reparations で）戦争賠償金", "note": "戦争で生じた損害に対し敗戦国が支払う賠償。war reparations。" }
+    ],
+    "usages": [
+      { "title": "① 「賠償・償い」として", "desc": "損害を償うことを表します。", "example_en": "They demanded reparation for the damage.", "example_ja": "彼らは損害の賠償を要求した。" },
+      { "title": "② 「戦争賠償金」として", "desc": "敗戦国が支払う賠償を表します。", "example_en": "The country paid heavy war reparations.", "example_ja": "その国は多額の戦争賠償金を支払った。" }
+    ],
+    "warn": [
+      "reparation は『（損害の）賠償・償い』。複数形 reparations は『戦争賠償金』。動詞は repair（修復する）と同語源。",
+      "make reparation for（〜を償う）、war reparations（戦争賠償金）が頻出。"
+    ],
+    "etym_note": "ラテン語 reparare（re-「再び」＋ parare「整える」＝修復する）の名詞形 reparatio に由来します。repair（修理する）, prepare（準備する）と同じ parare を語根にもち、「（損害を）修復・償うこと」を意味します。",
+    "etym_chain": [
+      { "node": "parare", "sub": "整える", "era": "ラテン語" },
+      { "node": "reparare", "sub": "修復する", "era": "ラテン語" },
+      { "node": "reparation", "sub": "賠償・償い", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "make reparation for", "ja": "〜を償う" },
+      { "en": "war reparations", "ja": "戦争賠償金" },
+      { "en": "demand reparation", "ja": "賠償を要求する" },
+      { "en": "pay reparations", "ja": "賠償金を支払う" },
+      { "en": "reparation for damage", "ja": "損害の賠償" },
+      { "en": "in reparation", "ja": "償いとして" }
+    ],
+    "related": [
+      { "en": "repair", "ja": "修理する" },
+      { "en": "compensation", "ja": "補償・賠償" },
+      { "en": "amends", "ja": "償い" },
+      { "en": "restitution", "ja": "返還・賠償" }
+    ],
+    "faq": [
+      { "q": "reparation とはどんな意味？", "a": "与えた損害・苦痛を償うこと『賠償・償い』のことです。複数形 reparations は『戦争賠償金』を指します。make reparation for（〜を償う）のように使います。" },
+      { "q": "reparation と compensation の違いは？", "a": "どちらも『賠償・補償』ですが、reparation は『（過ちや戦争などの）損害の償い』、compensation は『（金銭的な）埋め合わせ・補償』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The country paid heavy war ___s.（賠償金）", "A": "reparation", "B": "preparation の準備", "C": "separation の分離", "D": "operation の手術", "correct": "A" },
+      { "q": "reparation と同じ語根 parare をもつのはどれ？", "A": "repair（修理する）", "B": "report（報告する）", "C": "repeat（繰り返す）", "D": "replace（取り替える）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "resurgence",
+    "pron": "rɪˈsɜːrdʒəns",
+    "kana": "リサージェンス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 resurgere（再び立ち上がる）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "復活・再燃・再び盛んになること",
+    "description": "resurgence の意味・発音・例文・語源を解説。いったん衰えたものが再び勢いを取り戻す「復活・再燃・再興」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["resurgence 意味", "resurgence 発音", "復活", "resurgent 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】復活・再燃・再び盛んになること", "note": "衰えていたものが再び勢いを取り戻すこと。a resurgence of interest（関心の再燃）。" }
+    ],
+    "usages": [
+      { "title": "① 「復活・再燃」として", "desc": "再び勢いを取り戻すことを表します。", "example_en": "There has been a resurgence of interest in vinyl records.", "example_ja": "レコードへの関心が再び高まっている。" },
+      { "title": "② 病気・流行の再燃として", "desc": "再び広がることを表します。", "example_en": "The country saw a resurgence of the disease.", "example_ja": "その国では病気の再燃が見られた。" }
+    ],
+    "warn": [
+      "resurgence は『（衰えたものの）復活・再燃・再興』。形容詞は resurgent（再起した）。",
+      "a resurgence of ～（〜の再燃・復活）が頻出。resurrection（死からの復活）とは語感が違う。"
+    ],
+    "etym_note": "ラテン語 resurgere（re-「再び」＋ surgere「立ち上がる」＝再び立ち上がる）に由来します。surge（うねり上がる）, resurrection（復活）と同じ surgere を語根にもちます。",
+    "etym_chain": [
+      { "node": "surgere", "sub": "立ち上がる", "era": "ラテン語" },
+      { "node": "resurgere", "sub": "再び立ち上がる", "era": "ラテン語" },
+      { "node": "resurgence", "sub": "復活・再燃", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a resurgence of interest", "ja": "関心の再燃" },
+      { "en": "a resurgence in popularity", "ja": "人気の復活" },
+      { "en": "an economic resurgence", "ja": "経済の再興" },
+      { "en": "see a resurgence", "ja": "復活が見られる" },
+      { "en": "a resurgence of the disease", "ja": "病気の再燃" },
+      { "en": "a recent resurgence", "ja": "最近の復活" }
+    ],
+    "related": [
+      { "en": "resurgent", "ja": "再起した・復活しつつある" },
+      { "en": "revival", "ja": "復活・再生" },
+      { "en": "comeback", "ja": "返り咲き" },
+      { "en": "decline", "ja": "衰退（反対語）" }
+    ],
+    "faq": [
+      { "q": "resurgence とはどんな意味？", "a": "いったん衰えていたものが再び勢いを取り戻す『復活・再燃・再び盛んになること』です。a resurgence of interest（関心の再燃）のように使います。形容詞は resurgent です。" },
+      { "q": "resurgence と revival の違いは？", "a": "ほぼ同じ『復活』ですが、resurgence は『（勢い・人気・流行が）再び高まること（再燃）』、revival は『（廃れたものを）よみがえらせること』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "There has been a ___ of interest in vinyl records.（再燃）", "A": "resurgence", "B": "emergence の出現", "C": "divergence の分岐", "D": "convergence の収束", "correct": "A" },
+      { "q": "resurgence と同じ語根 surgere をもつのはどれ？", "A": "resurrection（復活）", "B": "reservation（予約）", "C": "resignation（辞職）", "D": "resistance（抵抗）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retrospective",
+    "pron": "ˌretrəˈspektɪv",
+    "kana": "レトロスペクティブ",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 retrospicere（後ろを見る）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "回顧的な・過去にさかのぼる／（名詞）回顧展・総括",
+    "description": "retrospective の意味・発音・例文・語源を解説。過去を振り返る「回顧的な・さかのぼっての」という形容詞と、芸術家の「回顧展」という名詞の使い方を紹介します。",
+    "keywords": ["retrospective 意味", "retrospective 発音", "回顧", "retrospect 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】回顧的な・過去にさかのぼる", "note": "過去を振り返る、効力が過去にさかのぼる。a retrospective look（回顧）、retrospective effect（遡及効果）。" },
+      { "hinshi": "【名詞】回顧展・総括", "note": "ある芸術家・期間の作品をまとめて見せる展覧会。a career retrospective（活動の回顧展）。" }
+    ],
+    "usages": [
+      { "title": "① 形容詞「回顧的な」として", "desc": "過去を振り返ることを表します。", "example_en": "The article takes a retrospective look at the decade.", "example_ja": "その記事はその10年を回顧している。" },
+      { "title": "② 名詞「回顧展」として", "desc": "作品をまとめて見せる展覧会を指します。", "example_en": "The museum held a retrospective of her work.", "example_ja": "美術館は彼女の作品の回顧展を開いた。" }
+    ],
+    "warn": [
+      "retrospective は『回顧的な・さかのぼる』（形容詞）と『回顧展・総括』（名詞）。動詞 retrospect（回顧する）はまれ。",
+      "法律では retrospective（遡及的な）＝過去にさかのぼって適用される。反対は prospective（将来の）。"
+    ],
+    "etym_note": "ラテン語 retrospicere（retro-「後ろへ」＋ specere「見る」＝後ろを見る）に由来します。spectator（観客）, inspect（調べる）と同じ specere を語根にもちます。",
+    "etym_chain": [
+      { "node": "specere", "sub": "見る", "era": "ラテン語" },
+      { "node": "retrospicere", "sub": "後ろを見る", "era": "ラテン語" },
+      { "node": "retrospective", "sub": "回顧的な・回顧展", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a retrospective look", "ja": "回顧・振り返り" },
+      { "en": "a career retrospective", "ja": "活動の回顧展" },
+      { "en": "retrospective effect", "ja": "遡及効果" },
+      { "en": "in retrospect", "ja": "振り返ってみると" },
+      { "en": "a retrospective exhibition", "ja": "回顧展" },
+      { "en": "retrospective legislation", "ja": "遡及立法" }
+    ],
+    "related": [
+      { "en": "retrospect", "ja": "回顧" },
+      { "en": "retroactive", "ja": "遡及的な" },
+      { "en": "prospective", "ja": "将来の（反対語）" },
+      { "en": "review", "ja": "見直し・回顧" }
+    ],
+    "faq": [
+      { "q": "retrospective とはどんな意味？", "a": "過去を振り返る『回顧的な・さかのぼる』という形容詞と、ある芸術家・期間の作品をまとめて見せる『回顧展・総括』という名詞です。" },
+      { "q": "retrospective と prospective の違いは？", "a": "retrospective は『（過去を見る）回顧的・遡及的』、prospective は『（将来を見る）将来の・見込みの』で、正反対です。" }
+    ],
+    "quiz": [
+      { "q": "The museum held a ___ of her work.（回顧展）", "A": "retrospective", "B": "perspective の見方", "C": "respective のそれぞれの", "D": "prospective の将来の", "correct": "A" },
+      { "q": "retrospective の反対語はどれ？", "A": "prospective（将来の）", "B": "perspective（見方）", "C": "respective（それぞれの）", "D": "objective（客観的な）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reinvention",
+    "pron": "ˌriːɪnˈvenʃən",
+    "kana": "リインベンション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ invention（発明・考案）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "作り変えること・自己改革・一新（新たに作り直すこと）",
+    "description": "reinvention の意味・発音・例文・語源を解説。自分やブランドを「新たに作り変えること・一新・自己改革」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["reinvention 意味", "reinvention 発音", "一新", "reinvent 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】作り変えること・自己改革・一新", "note": "（自分・ブランド・制度などを）根本から新しく作り直すこと。constant reinvention（絶えざる自己改革）。" }
+    ],
+    "usages": [
+      { "title": "① 自己改革として", "desc": "自分を新たに作り変えることを表します。", "example_en": "Her career is a story of constant reinvention.", "example_ja": "彼女の経歴は絶えざる自己改革の物語だ。" },
+      { "title": "② ブランドの一新として", "desc": "製品やブランドを作り変えることを表します。", "example_en": "The brand underwent a complete reinvention.", "example_ja": "そのブランドは全面的な一新を遂げた。" }
+    ],
+    "warn": [
+      "reinvention は『（自分・ブランド・制度を）新たに作り変えること・一新・自己改革』。動詞は reinvent。",
+      "reinvent the wheel（すでにあるものを無駄に一から作り直す）という決まり文句もある。"
+    ],
+    "etym_note": "re-（再び）＋ invention（発明・考案、invenire「見つけ出す」より）から成り、「もう一度作り出すこと」を意味します。invent（発明する）と同じ語根です。",
+    "etym_chain": [
+      { "node": "invenire", "sub": "見つけ出す", "era": "ラテン語" },
+      { "node": "invention", "sub": "発明・考案", "era": "中英語" },
+      { "node": "reinvention", "sub": "作り変え・一新", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "constant reinvention", "ja": "絶えざる自己改革" },
+      { "en": "self-reinvention", "ja": "自己改革" },
+      { "en": "a complete reinvention", "ja": "全面的な一新" },
+      { "en": "brand reinvention", "ja": "ブランドの一新" },
+      { "en": "a story of reinvention", "ja": "作り変えの物語" },
+      { "en": "personal reinvention", "ja": "自分の作り変え" }
+    ],
+    "related": [
+      { "en": "reinvent", "ja": "作り変える・一新する" },
+      { "en": "reinvention の代わりに transformation", "ja": "変革" },
+      { "en": "makeover", "ja": "一新・大変身" },
+      { "en": "innovation", "ja": "革新" }
+    ],
+    "faq": [
+      { "q": "reinvention とはどんな意味？", "a": "自分・ブランド・制度などを根本から新しく作り直すこと『作り変え・自己改革・一新』のことです。constant reinvention（絶えざる自己改革）のように使います。動詞は reinvent です。" },
+      { "q": "reinvent the wheel とは？", "a": "『すでにあるものを無駄に一から作り直す』という意味の決まり文句です。No need to reinvent the wheel.（一から作り直す必要はない）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "Her career is a story of constant ___.（自己改革）", "A": "reinvention", "B": "invention の発明", "C": "intervention の介入", "D": "convention の慣習", "correct": "A" },
+      { "q": "reinvention の動詞形はどれ？", "A": "reinvent（作り変える）", "B": "invent（発明する）", "C": "intervene（介入する）", "D": "convene（招集する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reproach",
+    "pron": "rɪˈproʊtʃ",
+    "kana": "リプローチ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 reprochier（非難する）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "非難・叱責・とがめ／（動詞）非難する・とがめる",
+    "description": "reproach の意味・発音・例文・語源を解説。失望や不満を込めて「非難・叱責する」こと、また「非難・とがめ」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["reproach 意味", "reproach 発音", "非難", "beyond reproach 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】非難・叱責・とがめ", "note": "失望や不満を込めた咎め。a look of reproach（とがめるような目）。beyond reproach（非の打ちどころがない）。" },
+      { "hinshi": "【動詞】非難する・とがめる", "note": "reproach someone for（〜のことで人をとがめる）。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「非難・とがめ」として", "desc": "失望を込めた咎めを表します。", "example_en": "She gave him a look of reproach.", "example_ja": "彼女は彼にとがめるような目を向けた。" },
+      { "title": "② beyond reproach として", "desc": "「非の打ちどころがない」を表します。", "example_en": "His conduct was beyond reproach.", "example_ja": "彼の行いは非の打ちどころがなかった。" }
+    ],
+    "warn": [
+      "reproach は『（失望を込めた）非難・とがめ』。動詞でも使う。beyond reproach（非の打ちどころがない）が頻出。",
+      "激しい非難 condemn より、悲しみ・失望のこもったとがめのニュアンス。"
+    ],
+    "etym_note": "古フランス語 reprochier（非難する、ラテン語 prope「近く」に関係し『近づけて突きつける』）に由来します。失望をもって過ちを突きつける意味から『非難』となりました。",
+    "etym_chain": [
+      { "node": "reprochier", "sub": "非難する", "era": "古フランス語" },
+      { "node": "reproach", "sub": "非難する", "era": "中英語" },
+      { "node": "reproach", "sub": "非難・とがめ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a look of reproach", "ja": "とがめるような目" },
+      { "en": "beyond reproach", "ja": "非の打ちどころがない" },
+      { "en": "above reproach", "ja": "非難の余地がない" },
+      { "en": "a tone of reproach", "ja": "とがめる口調" },
+      { "en": "reproach someone for", "ja": "〜のことで人をとがめる" },
+      { "en": "self-reproach", "ja": "自責" }
+    ],
+    "related": [
+      { "en": "rebuke", "ja": "叱責" },
+      { "en": "blame", "ja": "責める" },
+      { "en": "criticism", "ja": "批判" },
+      { "en": "scold", "ja": "しかる" }
+    ],
+    "faq": [
+      { "q": "reproach とはどんな意味？", "a": "失望や不満を込めて『非難・叱責・とがめ』ること、またその気持ちです。a look of reproach（とがめるような目）のように使います。動詞でも使えます。" },
+      { "q": "beyond reproach とは？", "a": "『非の打ちどころがない・非難の余地がない』という意味の決まり文句です。His conduct was beyond reproach.（彼の行いは非の打ちどころがなかった）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "His conduct was beyond ___.（非難）", "A": "reproach", "B": "approach の接近", "C": "research の研究", "D": "reproof の代わりに proof", "correct": "A" },
+      { "q": "beyond reproach の意味はどれ？", "A": "非の打ちどころがない", "B": "手が届かない", "C": "理解できない", "D": "信じられない", "correct": "A" }
+    ]
+  }
+]

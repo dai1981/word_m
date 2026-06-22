@@ -1,0 +1,477 @@
+[
+  {
+    "english": "rancher",
+    "pron": "ˈræntʃər",
+    "kana": "ランチャー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ranch（大牧場）＋ -er",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "職業"],
+    "meaning_main": "牧場主・牧場経営者（大牧場で家畜を飼う人）",
+    "description": "rancher の意味・発音・例文・語源を解説。広い牧場で牛や馬などの家畜を飼育・経営する「牧場主」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["rancher 意味", "rancher 発音", "rancher 牧場主", "ranch 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】牧場主・牧場経営者", "note": "広大な牧場（ranch）で牛・馬・羊などの家畜を飼育・経営する人。主にアメリカ西部で使う。" }
+    ],
+    "usages": [
+      { "title": "① 牧場経営者として", "desc": "家畜を飼う牧場の経営者を指します。", "example_en": "The rancher raises cattle in Texas.", "example_ja": "その牧場主はテキサスで牛を飼育している。" },
+      { "title": "② 西部の暮らしの文脈で", "desc": "牧畜業に携わる人を表します。", "example_en": "Ranchers drove the herd to market.", "example_ja": "牧場主たちは群れを市場へ追って行った。" }
+    ],
+    "warn": [
+      "rancher は『大牧場の経営者・牧場主』。ranch（大牧場）＋ -er。主にアメリカ西部の牧畜の文脈で使う。",
+      "農作物を育てる人は farmer。家畜を扱う rancher と区別する。"
+    ],
+    "etym_note": "ranch（大牧場）に「〜する人」の -er が付いた語です。ranch はスペイン語 rancho（小屋・集まる場所）に由来します。",
+    "etym_chain": [
+      { "node": "rancho", "sub": "小屋・集まる場所", "era": "スペイン語" },
+      { "node": "ranch", "sub": "大牧場", "era": "近代英語" },
+      { "node": "rancher", "sub": "牧場主", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a cattle rancher", "ja": "牛の牧場主" },
+      { "en": "a wealthy rancher", "ja": "裕福な牧場主" },
+      { "en": "the rancher's land", "ja": "牧場主の土地" },
+      { "en": "a sheep rancher", "ja": "羊の牧場主" },
+      { "en": "ranchers and farmers", "ja": "牧場主と農家" },
+      { "en": "a local rancher", "ja": "地元の牧場主" }
+    ],
+    "related": [
+      { "en": "ranch", "ja": "大牧場" },
+      { "en": "farmer", "ja": "農家" },
+      { "en": "cowboy", "ja": "カウボーイ" },
+      { "en": "cattle", "ja": "牛" }
+    ],
+    "faq": [
+      { "q": "rancher とはどんな意味？", "a": "広大な牧場（ranch）で牛・馬・羊などの家畜を飼育・経営する『牧場主』のことです。主にアメリカ西部の牧畜の文脈で使われます。" },
+      { "q": "rancher と farmer の違いは？", "a": "rancher は『家畜を飼う大牧場の経営者』、farmer は『作物を育てる農家』を中心に指します（家畜農家も含むことがあります）。" }
+    ],
+    "quiz": [
+      { "q": "The ___ raises cattle in Texas.（牧場主）", "A": "rancher", "B": "ranger のレンジャー", "C": "rancor の恨み", "D": "ranker", "correct": "A" },
+      { "q": "rancher のもとになった語はどれ？", "A": "ranch（大牧場）", "B": "range（範囲）", "C": "rank（階級）", "D": "branch（枝）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rarity",
+    "pron": "ˈrerəti",
+    "kana": "レアリティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 raritas（まれであること）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "珍しさ・希少さ／珍しいもの・珍品",
+    "description": "rarity の意味・発音・例文・語源を解説。めったにない「珍しさ・希少さ」や、「珍しいもの・珍品」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["rarity 意味", "rarity 発音", "rarity 希少", "rarity 珍品"],
+    "meanings": [
+      { "hinshi": "【名詞】珍しさ・希少さ", "note": "めったにないこと、まれであること。the rarity of the species（その種の希少さ）。" },
+      { "hinshi": "【名詞】珍しいもの・珍品", "note": "めったにない貴重なもの。a great rarity（たいへんな珍品）。" }
+    ],
+    "usages": [
+      { "title": "① 「希少さ」として", "desc": "めったにないことを表します。", "example_en": "The rarity of the stamp makes it valuable.", "example_ja": "その切手は希少さゆえに価値がある。" },
+      { "title": "② 「珍品」として", "desc": "めったにない貴重なものを指します。", "example_en": "A snow leopard sighting is a real rarity.", "example_ja": "ユキヒョウの目撃はまさに珍しいことだ。" }
+    ],
+    "warn": [
+      "rarity は『珍しさ・希少さ』と『珍しいもの・珍品』の両方。形容詞は rare（まれな）。",
+      "be a rarity で『めったにないことだ・珍しいものだ』。"
+    ],
+    "etym_note": "ラテン語 raritas（まれであること、rarus「薄い・まばらな」より）に由来します。rare（まれな）や rarefy（希薄にする）と同じ語根 rarus をもちます。",
+    "etym_chain": [
+      { "node": "rarus", "sub": "薄い・まばらな", "era": "ラテン語" },
+      { "node": "raritas", "sub": "まれであること", "era": "ラテン語" },
+      { "node": "rarity", "sub": "珍しさ・珍品", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a great rarity", "ja": "たいへんな珍品" },
+      { "en": "the rarity of", "ja": "〜の希少さ" },
+      { "en": "be a rarity", "ja": "めったにないことだ" },
+      { "en": "a collector's rarity", "ja": "収集家の珍品" },
+      { "en": "scarcity and rarity", "ja": "不足と希少さ" },
+      { "en": "such a rarity", "ja": "そんな珍しいもの" }
+    ],
+    "related": [
+      { "en": "rare", "ja": "まれな・珍しい" },
+      { "en": "scarcity", "ja": "不足・欠乏" },
+      { "en": "uniqueness", "ja": "独自性" },
+      { "en": "novelty", "ja": "目新しさ・珍しい物" }
+    ],
+    "faq": [
+      { "q": "rarity とはどんな意味？", "a": "めったにない『珍しさ・希少さ』という意味と、『珍しいもの・珍品』という意味があります。be a rarity（めったにないことだ）のように使います。" },
+      { "q": "rarity と scarcity の違いは？", "a": "rarity は『（もともと）めったに存在しない珍しさ』、scarcity は『（需要に対して）不足していること』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The ___ of the stamp makes it valuable.（希少さ）", "A": "rarity", "B": "reality の現実", "C": "charity の慈善", "D": "clarity の明快さ", "correct": "A" },
+      { "q": "rarity の形容詞形はどれ？", "A": "rare（まれな）", "B": "real（本当の）", "C": "ready（準備できた）", "D": "rural（田舎の）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rebirth",
+    "pron": "riːˈbɜːrθ",
+    "kana": "リバース",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ birth（誕生）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "再生・復活・生まれ変わり／（精神的な）新生",
+    "description": "rebirth の意味・発音・例文・語源を解説。新たによみがえる「再生・復活・生まれ変わり」という、社会や精神の刷新を表す語の使い方を紹介します。",
+    "keywords": ["rebirth 意味", "rebirth 発音", "rebirth 再生", "rebirth 復活"],
+    "meanings": [
+      { "hinshi": "【名詞】再生・復活・生まれ変わり", "note": "衰えていたものが再び盛んになること。a cultural rebirth（文化の復興）。" },
+      { "hinshi": "【名詞】（精神的・宗教的な）新生・転生", "note": "心を入れ替えて新しく生きること、輪廻転生。" }
+    ],
+    "usages": [
+      { "title": "① 「復活・再生」として", "desc": "衰えたものが再び盛んになる意味です。", "example_en": "The city experienced an economic rebirth.", "example_ja": "その都市は経済的な復活をとげた。" },
+      { "title": "② 「精神的な新生」として", "desc": "心を入れ替えた新生を表します。", "example_en": "He spoke of a spiritual rebirth.", "example_ja": "彼は精神的な新生について語った。" }
+    ],
+    "warn": [
+      "rebirth は『再生・復活・生まれ変わり』。社会・文化・精神の刷新を表す。Renaissance（ルネサンス）はフランス語で『再生』の意。",
+      "re-（再び）＋ birth（誕生）。"
+    ],
+    "etym_note": "re-（再び）＋ birth（誕生）から成り、「もう一度生まれること＝再生・生まれ変わり」を意味します。birth は古ノルド語 byrðr（誕生）に由来します。",
+    "etym_chain": [
+      { "node": "byrðr", "sub": "誕生", "era": "古ノルド語" },
+      { "node": "birth", "sub": "誕生", "era": "中英語" },
+      { "node": "rebirth", "sub": "再生・生まれ変わり", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a cultural rebirth", "ja": "文化の復興" },
+      { "en": "an economic rebirth", "ja": "経済の再生" },
+      { "en": "a spiritual rebirth", "ja": "精神的な新生" },
+      { "en": "the rebirth of a nation", "ja": "国家の再生" },
+      { "en": "death and rebirth", "ja": "死と再生" },
+      { "en": "a sense of rebirth", "ja": "生まれ変わったような感覚" }
+    ],
+    "related": [
+      { "en": "renaissance", "ja": "ルネサンス・復興" },
+      { "en": "revival", "ja": "復活・再生" },
+      { "en": "renewal", "ja": "更新・再生" },
+      { "en": "regeneration", "ja": "再生" }
+    ],
+    "faq": [
+      { "q": "rebirth とはどんな意味？", "a": "衰えていたものが再び盛んになる『再生・復活・生まれ変わり』のことです。文化や経済の復興、また精神的・宗教的な新生も表します。" },
+      { "q": "rebirth と revival の違いは？", "a": "意味は近いですが、rebirth は『新たに生まれ変わる』根本的な再生、revival は『（一度衰えたものの）復活・再流行』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The city experienced an economic ___.（再生）", "A": "rebirth", "B": "rebound のはね返り", "C": "rebate の払い戻し", "D": "rebel の反逆者", "correct": "A" },
+      { "q": "rebirth と同じ意味に近いのはどれ？", "A": "revival（復活）", "B": "removal（除去）", "C": "refusal（拒絶）", "D": "reversal（逆転）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recital",
+    "pron": "rɪˈsaɪtəl",
+    "kana": "リサイタル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "recite（暗唱する）＋ -al",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "音楽・芸術"],
+    "meaning_main": "（独奏・独唱の）リサイタル・演奏会／（詩などの）朗読・暗唱",
+    "description": "recital の意味・発音・例文・語源を解説。独奏・独唱を披露する「リサイタル・演奏会」や、詩などの「朗読・暗唱」を指す語の使い方を紹介します。",
+    "keywords": ["recital 意味", "recital 発音", "recital リサイタル", "recital 演奏会"],
+    "meanings": [
+      { "hinshi": "【名詞】（独奏・独唱の）リサイタル・演奏会", "note": "一人または少人数で行う音楽・舞踊の発表会。a piano recital（ピアノのリサイタル）。" },
+      { "hinshi": "【名詞】（詩・物語の）朗読・暗唱・列挙", "note": "覚えたものを口に出して述べること。" }
+    ],
+    "usages": [
+      { "title": "① 「リサイタル」として", "desc": "独奏・独唱の演奏会を指します。", "example_en": "She gave a piano recital at the hall.", "example_ja": "彼女はホールでピアノのリサイタルを開いた。" },
+      { "title": "② 「朗読・暗唱」として", "desc": "覚えたものを述べることを表します。", "example_en": "The recital of the poem moved the audience.", "example_ja": "その詩の朗読は聴衆を感動させた。" }
+    ],
+    "warn": [
+      "recital は『（独奏・独唱の）演奏会』が中心。多人数のオーケストラ演奏会は concert。",
+      "動詞は recite（暗唱する・朗読する）。"
+    ],
+    "etym_note": "動詞 recite（暗唱する・朗読する）に名詞をつくる -al が付いた語です。recite はラテン語 recitare（re-「再び」＋ citare「呼び出す」＝声に出して述べる）に由来します。",
+    "etym_chain": [
+      { "node": "recitare", "sub": "声に出して述べる", "era": "ラテン語" },
+      { "node": "recite", "sub": "暗唱する", "era": "中英語" },
+      { "node": "recital", "sub": "リサイタル・朗読", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a piano recital", "ja": "ピアノのリサイタル" },
+      { "en": "give a recital", "ja": "リサイタルを開く" },
+      { "en": "a song recital", "ja": "歌のリサイタル" },
+      { "en": "a dance recital", "ja": "舞踊の発表会" },
+      { "en": "a poetry recital", "ja": "詩の朗読会" },
+      { "en": "attend a recital", "ja": "リサイタルに行く" }
+    ],
+    "related": [
+      { "en": "recite", "ja": "暗唱する・朗読する" },
+      { "en": "concert", "ja": "コンサート・演奏会" },
+      { "en": "performance", "ja": "演奏・上演" },
+      { "en": "recitation", "ja": "暗唱・朗読" }
+    ],
+    "faq": [
+      { "q": "recital とはどんな意味？", "a": "一人または少人数で行う『独奏・独唱のリサイタル・発表会』のことです。また詩などの『朗読・暗唱』も指します。a piano recital（ピアノのリサイタル）のように使います。" },
+      { "q": "recital と concert の違いは？", "a": "recital は『独奏・独唱など少人数の演奏会』、concert は『オーケストラやバンドなど多人数の演奏会』を指すことが多いです。" }
+    ],
+    "quiz": [
+      { "q": "She gave a piano ___ at the hall.（リサイタル）", "A": "recital", "B": "recital の代わりに rental", "C": "recipe のレシピ", "D": "recall の思い出す", "correct": "A" },
+      { "q": "recital の動詞形はどれ？", "A": "recite（暗唱する）", "B": "receive（受け取る）", "C": "recover（回復する）", "D": "recycle（再生する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rejection",
+    "pron": "rɪˈdʒekʃən",
+    "kana": "リジェクション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 reicere（投げ返す・拒む）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "拒絶・却下・不採用／（医学）拒絶反応",
+    "description": "rejection の意味・発音・例文・語源を解説。申し出や応募を「拒絶・却下する」こと、また移植での「拒絶反応」を指す語の使い方を紹介します。",
+    "keywords": ["rejection 意味", "rejection 発音", "rejection 拒絶", "rejection 却下"],
+    "meanings": [
+      { "hinshi": "【名詞】拒絶・却下・不採用", "note": "申し出・応募・要求などを受け入れず退けること。a rejection letter（不採用通知）。" },
+      { "hinshi": "【名詞】（医学）拒絶反応", "note": "移植された臓器を体が異物として攻撃する反応。" }
+    ],
+    "usages": [
+      { "title": "① 「拒絶・不採用」として", "desc": "申し出などを退けることを指します。", "example_en": "She faced rejection after rejection.", "example_ja": "彼女は何度も不採用に直面した。" },
+      { "title": "② 「拒絶反応」として", "desc": "移植臓器への体の反応を表します。", "example_en": "Doctors watched for signs of organ rejection.", "example_ja": "医師は臓器の拒絶反応の兆候に注意した。" }
+    ],
+    "warn": [
+      "rejection は『拒絶・却下・不採用』が中心。医学では『（移植の）拒絶反応』。動詞は reject。",
+      "反対は acceptance（受け入れ・採用）。"
+    ],
+    "etym_note": "動詞 reject（拒む）の名詞形です。reject はラテン語 reicere（re-「後ろへ」＋ iacere「投げる」＝投げ返す・はねつける）に由来します。project（投影）や inject（注入）と同じ iacere を語根にもちます。",
+    "etym_chain": [
+      { "node": "iacere", "sub": "投げる", "era": "ラテン語" },
+      { "node": "reicere", "sub": "投げ返す・拒む", "era": "ラテン語" },
+      { "node": "rejection", "sub": "拒絶・却下", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rejection letter", "ja": "不採用通知" },
+      { "en": "face rejection", "ja": "拒絶に直面する" },
+      { "en": "fear of rejection", "ja": "拒絶される恐れ" },
+      { "en": "organ rejection", "ja": "臓器の拒絶反応" },
+      { "en": "outright rejection", "ja": "きっぱりとした拒絶" },
+      { "en": "deal with rejection", "ja": "拒絶を乗り越える" }
+    ],
+    "related": [
+      { "en": "reject", "ja": "拒む・却下する" },
+      { "en": "refusal", "ja": "拒否" },
+      { "en": "denial", "ja": "否定・拒否" },
+      { "en": "acceptance", "ja": "受け入れ（反対語）" }
+    ],
+    "faq": [
+      { "q": "rejection とはどんな意味？", "a": "申し出・応募・要求などを受け入れず退けること『拒絶・却下・不採用』です。医学では移植臓器への『拒絶反応』も指します。動詞は reject です。" },
+      { "q": "rejection と refusal の違いは？", "a": "rejection は『（応募・申し出・人を）退ける・不採用にする』、refusal は『（要求・依頼を）断る』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "She faced ___ after ___.（拒絶）", "A": "rejection", "B": "reflection の反射", "C": "reaction の反応", "D": "reduction の削減", "correct": "A" },
+      { "q": "rejection の反対語はどれ？", "A": "acceptance（受け入れ）", "B": "refusal（拒否）", "C": "denial（否定）", "D": "removal（除去）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retailer",
+    "pron": "ˈriːteɪlər",
+    "kana": "リテーラー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "retail（小売り）＋ -er",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "ビジネス"],
+    "meaning_main": "小売業者・小売店（消費者に直接商品を売る業者）",
+    "description": "retailer の意味・発音・例文・語源を解説。商品を消費者に直接売る「小売業者・小売店」を指すビジネスの語の使い方を分かりやすく紹介します。",
+    "keywords": ["retailer 意味", "retailer 発音", "retailer 小売", "retail 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】小売業者・小売店", "note": "商品を消費者に直接販売する業者や店。卸売業者（wholesaler）から仕入れて売る。" }
+    ],
+    "usages": [
+      { "title": "① 小売店として", "desc": "消費者に直接売る業者を指します。", "example_en": "The product is sold by major retailers.", "example_ja": "その製品は大手の小売店で売られている。" },
+      { "title": "② 流通の文脈で", "desc": "卸売と区別して使います。", "example_en": "Online retailers have grown rapidly.", "example_ja": "ネット小売業者は急速に成長した。" }
+    ],
+    "warn": [
+      "retailer は『消費者に直接売る小売業者・小売店』。卸売業者は wholesaler。retail（小売り）＋ -er。",
+      "発音は『リテーラー（ˈriːteɪlər）』。"
+    ],
+    "etym_note": "retail（小売り）に「〜する人・業者」の -er が付いた語です。retail は古フランス語 retaillier（re-「再び」＋ tailler「切る」＝切り分けて売る）に由来し、「小分けして売ること」を意味します。",
+    "etym_chain": [
+      { "node": "retaillier", "sub": "切り分けて売る", "era": "古フランス語" },
+      { "node": "retail", "sub": "小売り", "era": "中英語" },
+      { "node": "retailer", "sub": "小売業者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a major retailer", "ja": "大手小売業者" },
+      { "en": "an online retailer", "ja": "ネット小売業者" },
+      { "en": "a clothing retailer", "ja": "衣料品の小売店" },
+      { "en": "leading retailers", "ja": "主要な小売業者" },
+      { "en": "sold by retailers", "ja": "小売店で販売される" },
+      { "en": "a discount retailer", "ja": "ディスカウント小売店" }
+    ],
+    "related": [
+      { "en": "retail", "ja": "小売り" },
+      { "en": "wholesaler", "ja": "卸売業者" },
+      { "en": "merchant", "ja": "商人" },
+      { "en": "store", "ja": "店" }
+    ],
+    "faq": [
+      { "q": "retailer とはどんな意味？", "a": "商品を消費者に直接販売する『小売業者・小売店』のことです。卸売業者（wholesaler）から仕入れて消費者に売ります。" },
+      { "q": "retailer と wholesaler の違いは？", "a": "retailer（小売業者）は消費者に直接売る、wholesaler（卸売業者）は小売業者などにまとめて売る業者です。" }
+    ],
+    "quiz": [
+      { "q": "The product is sold by major ___s.（小売店）", "A": "retailer", "B": "retainer の保持装置", "C": "retriever の取ってくる犬", "D": "reteller", "correct": "A" },
+      { "q": "retailer の反対の立場はどれ？", "A": "wholesaler（卸売業者）", "B": "customer（客）", "C": "manager（管理者）", "D": "owner（所有者）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "roundup",
+    "pron": "ˈraʊndʌp",
+    "kana": "ラウンダップ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "round up（かき集める）より",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "メディア・日常"],
+    "meaning_main": "（家畜の）かり集め／（容疑者の）一斉検挙／（ニュースの）まとめ・総まとめ",
+    "description": "roundup の意味・発音・例文・語源を解説。家畜の「かり集め」、容疑者の「一斉検挙」、ニュースの「まとめ」という幅広い使い方を紹介します。",
+    "keywords": ["roundup 意味", "roundup 発音", "roundup まとめ", "roundup 一斉検挙"],
+    "meanings": [
+      { "hinshi": "【名詞】（家畜の）かり集め", "note": "放牧した牛などを1か所に集めること。a cattle roundup（牛のかり集め）。" },
+      { "hinshi": "【名詞】（容疑者などの）一斉検挙", "note": "警察が多数を一度に捕まえること。" },
+      { "hinshi": "【名詞】（ニュース・情報の）まとめ・総まとめ", "note": "a news roundup（ニュースのまとめ）。" }
+    ],
+    "usages": [
+      { "title": "① 「家畜のかり集め」として", "desc": "放牧の牛などを集めることを指します。", "example_en": "Cowboys took part in the cattle roundup.", "example_ja": "カウボーイたちは牛のかり集めに加わった。" },
+      { "title": "② 「まとめ・一斉検挙」として", "desc": "ニュースの要約や一斉検挙を表します。", "example_en": "Here is a roundup of today's news.", "example_ja": "本日のニュースのまとめをお伝えします。" }
+    ],
+    "warn": [
+      "roundup は『（家畜の）かり集め』『（容疑者の）一斉検挙』『（ニュースの）まとめ』と多義。文脈で判断。",
+      "句動詞 round up（かき集める・端数を切り上げる）が名詞化した語。"
+    ],
+    "etym_note": "句動詞 round up（ぐるりと囲んで集める・かき集める）が名詞化した語です。放牧の家畜を1か所に集める作業から、「一斉に集めること・まとめ」の意味に広がりました。",
+    "etym_chain": [
+      { "node": "round up", "sub": "かき集める", "era": "近代英語" },
+      { "node": "roundup", "sub": "かり集め", "era": "近代英語" },
+      { "node": "roundup", "sub": "一斉検挙・まとめ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a cattle roundup", "ja": "牛のかり集め" },
+      { "en": "a news roundup", "ja": "ニュースのまとめ" },
+      { "en": "a weekly roundup", "ja": "週間まとめ" },
+      { "en": "a police roundup", "ja": "警察の一斉検挙" },
+      { "en": "a roundup of results", "ja": "結果の総まとめ" },
+      { "en": "a sports roundup", "ja": "スポーツの総まとめ" }
+    ],
+    "related": [
+      { "en": "summary", "ja": "要約・まとめ" },
+      { "en": "gathering", "ja": "集め・集会" },
+      { "en": "raid", "ja": "（警察の）手入れ" },
+      { "en": "recap", "ja": "おさらい・まとめ" }
+    ],
+    "faq": [
+      { "q": "roundup とはどんな意味？", "a": "放牧した家畜の『かり集め』、警察による容疑者の『一斉検挙』、ニュースや情報の『まとめ・総まとめ』など、文脈によっていくつかの意味があります。" },
+      { "q": "news roundup とは？", "a": "その日や週の主なニュースを手短にまとめて伝えるもの『ニュースのまとめ・総まとめ』のことです。" }
+    ],
+    "quiz": [
+      { "q": "Here is a ___ of today's news.（まとめ）", "A": "roundup", "B": "roundabout の環状交差点", "C": "rundown の代わりに breakdown", "D": "runway の滑走路", "correct": "A" },
+      { "q": "roundup のもとになった句動詞はどれ？", "A": "round up（かき集める）", "B": "run up（駆け上がる）", "C": "ring up（電話する）", "D": "roll up（巻き上げる）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rowboat",
+    "pron": "ˈroʊboʊt",
+    "kana": "ロウボート",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "row（こぐ）＋ boat（ボート）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "乗り物"],
+    "meaning_main": "手こぎボート（オールでこぐ小型の舟）",
+    "description": "rowboat の意味・発音・例文・語源を解説。オールを使って人の力でこぐ小型の舟「手こぎボート」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["rowboat 意味", "rowboat 発音", "rowboat 手こぎボート", "row 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】手こぎボート", "note": "オール（櫂）を使って人の力でこぐ小型の舟。主にアメリカ英語。イギリスでは rowing boat。" }
+    ],
+    "usages": [
+      { "title": "① 乗り物として", "desc": "オールでこぐ小舟を指します。", "example_en": "We rented a rowboat at the lake.", "example_ja": "私たちは湖で手こぎボートを借りた。" },
+      { "title": "② レジャーの場面で", "desc": "公園の池などでの遊びに使います。", "example_en": "They paddled the rowboat around the pond.", "example_ja": "彼らは池を手こぎボートで回った。" }
+    ],
+    "warn": [
+      "rowboat は『オールでこぐ小型の舟』。row は『こぐ』。発音は『ロウ』で、口論の row（ラウ）とは別。",
+      "アメリカでは rowboat、イギリスでは rowing boat。"
+    ],
+    "etym_note": "row（オールでこぐ、古英語 rōwan より）＋ boat（舟）の複合語で、「こいで進める舟」を意味します。",
+    "etym_chain": [
+      { "node": "rōwan", "sub": "こぐ", "era": "古英語" },
+      { "node": "row + boat", "sub": "こぐ＋舟", "era": "近代英語" },
+      { "node": "rowboat", "sub": "手こぎボート", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rent a rowboat", "ja": "手こぎボートを借りる" },
+      { "en": "row a rowboat", "ja": "手こぎボートをこぐ" },
+      { "en": "a wooden rowboat", "ja": "木製の手こぎボート" },
+      { "en": "a small rowboat", "ja": "小さな手こぎボート" },
+      { "en": "climb into a rowboat", "ja": "手こぎボートに乗り込む" },
+      { "en": "a leaky rowboat", "ja": "水もれする手こぎボート" }
+    ],
+    "related": [
+      { "en": "row", "ja": "こぐ" },
+      { "en": "oar", "ja": "オール・櫂" },
+      { "en": "canoe", "ja": "カヌー" },
+      { "en": "dinghy", "ja": "小舟・ディンギー" }
+    ],
+    "faq": [
+      { "q": "rowboat とはどんな意味？", "a": "オール（櫂）を使って人の力でこぐ小型の舟『手こぎボート』のことです。主にアメリカ英語で、イギリスでは rowing boat と言います。" },
+      { "q": "rowboat の row は『列』のこと？", "a": "いいえ。ここでの row は『（オールで）こぐ』という動詞です。発音は『ロウ』で、口論を意味する row（ラウ）とは別です。" }
+    ],
+    "quiz": [
+      { "q": "We rented a ___ at the lake.（手こぎボート）", "A": "rowboat", "B": "rainbow の虹", "C": "rowdy の乱暴な", "D": "robot のロボット", "correct": "A" },
+      { "q": "rowboat の row の意味はどれ？", "A": "（オールで）こぐ", "B": "列", "C": "口論", "D": "並べる", "correct": "A" }
+    ]
+  },
+  {
+    "english": "renewal",
+    "pron": "rɪˈnuːəl",
+    "kana": "リニューアル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "renew（更新する）＋ -al",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "更新・継続手続き／再生・刷新・回復",
+    "description": "renewal の意味・発音・例文・語源を解説。契約や免許の「更新」、また気力や町の「再生・刷新」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["renewal 意味", "renewal 発音", "renewal 更新", "renewal 再生"],
+    "meanings": [
+      { "hinshi": "【名詞】更新・継続手続き", "note": "契約・免許・会員などの期限を延ばすこと。license renewal（免許の更新）。" },
+      { "hinshi": "【名詞】再生・刷新・回復", "note": "新しく生まれ変わること。urban renewal（都市の再生）、a sense of renewal（新たな活力）。" }
+    ],
+    "usages": [
+      { "title": "① 「更新」として", "desc": "契約や免許の継続手続きを指します。", "example_en": "Your subscription is up for renewal.", "example_ja": "あなたの定期購読は更新の時期だ。" },
+      { "title": "② 「再生・刷新」として", "desc": "新しく生まれ変わることを表します。", "example_en": "Spring brings a feeling of renewal.", "example_ja": "春は再生の感覚をもたらす。" }
+    ],
+    "warn": [
+      "renewal は『（契約・免許の）更新』と『再生・刷新』の両方。動詞は renew。",
+      "日本語の『リニューアル（店の改装）』とは少しずれ、英語では『更新・再生』が中心。"
+    ],
+    "etym_note": "動詞 renew（re-「再び」＋ new「新しい」＝新しくする）に名詞をつくる -al が付いた語です。「再び新しくすること＝更新・再生」を意味します。",
+    "etym_chain": [
+      { "node": "re + new", "sub": "再び＋新しい", "era": "中英語" },
+      { "node": "renew", "sub": "更新する・新たにする", "era": "中英語" },
+      { "node": "renewal", "sub": "更新・再生", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "license renewal", "ja": "免許の更新" },
+      { "en": "contract renewal", "ja": "契約の更新" },
+      { "en": "up for renewal", "ja": "更新の時期で" },
+      { "en": "urban renewal", "ja": "都市の再生・再開発" },
+      { "en": "a sense of renewal", "ja": "新たな活力" },
+      { "en": "automatic renewal", "ja": "自動更新" }
+    ],
+    "related": [
+      { "en": "renew", "ja": "更新する・新たにする" },
+      { "en": "extension", "ja": "延長" },
+      { "en": "revival", "ja": "復活・再生" },
+      { "en": "regeneration", "ja": "再生" }
+    ],
+    "faq": [
+      { "q": "renewal とはどんな意味？", "a": "契約・免許・会員などの期限を延ばす『更新』という意味と、新しく生まれ変わる『再生・刷新・回復』という意味があります。動詞は renew です。" },
+      { "q": "urban renewal とは？", "a": "老朽化した市街地を立て直して活気を取り戻す『都市の再生・再開発』のことです。" }
+    ],
+    "quiz": [
+      { "q": "Your subscription is up for ___.（更新）", "A": "renewal", "B": "removal の除去", "C": "reversal の逆転", "D": "rehearsal のリハーサル", "correct": "A" },
+      { "q": "renewal の動詞形はどれ？", "A": "renew（更新する）", "B": "remove（取り除く）", "C": "reverse（逆にする）", "D": "reveal（明かす）", "correct": "A" }
+    ]
+  }
+]

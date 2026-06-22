@@ -1,0 +1,54 @@
+[
+  {
+    "english": "recreation",
+    "pron": "ˌrekriˈeɪʃən",
+    "kana": "レクリエーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 recreare（元気を回復させる）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "頻出語"],
+    "meaning_main": "レクリエーション・娯楽・気晴らし（楽しみのための活動）",
+    "description": "recreation の意味・発音・例文・語源を解説。仕事や勉強の合間に楽しむ「レクリエーション・娯楽・気晴らし」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["recreation 意味", "recreation 発音", "recreation 娯楽", "recreation 気晴らし"],
+    "meanings": [
+      { "hinshi": "【名詞】レクリエーション・娯楽・気晴らし", "note": "心身をリフレッシュするための楽しい活動・遊び。outdoor recreation（野外レクリエーション）。" }
+    ],
+    "usages": [
+      { "title": "① 娯楽・気晴らしとして", "desc": "楽しみのための活動を表します。", "example_en": "Reading is my favorite form of recreation.", "example_ja": "読書は私のいちばん好きな気晴らしだ。" },
+      { "title": "② 余暇活動として", "desc": "余暇に楽しむことを表します。", "example_en": "The park offers areas for sport and recreation.", "example_ja": "その公園にはスポーツとレクリエーションの場がある。" }
+    ],
+    "warn": [
+      "recreation（レクリエーション）は『娯楽・気晴らし』。アクセントは前寄り（ˌrekriˈeɪʃən）。",
+      "つづりは同じでも recreation（リクリエーション＝再現）は別語でアクセント・意味が違う（recreate 参照）。"
+    ],
+    "etym_note": "ラテン語 recreare（re-「再び」＋ creare「創る」＝元気を取り戻させる）に由来します。「（心身を）再び創り直してリフレッシュすること」から『気晴らし・娯楽』の意味になりました。",
+    "etym_chain": [
+      { "node": "recreare", "sub": "元気を回復させる", "era": "ラテン語" },
+      { "node": "recreation", "sub": "気晴らし", "era": "中英語" },
+      { "node": "recreation", "sub": "娯楽・レクリエーション", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "outdoor recreation", "ja": "野外レクリエーション" },
+      { "en": "sport and recreation", "ja": "スポーツと娯楽" },
+      { "en": "a form of recreation", "ja": "気晴らしの一種" },
+      { "en": "for recreation", "ja": "気晴らしに" },
+      { "en": "a recreation area", "ja": "レクリエーション区域" },
+      { "en": "rest and recreation", "ja": "休養と娯楽" }
+    ],
+    "related": [
+      { "en": "leisure", "ja": "余暇" },
+      { "en": "entertainment", "ja": "娯楽" },
+      { "en": "pastime", "ja": "気晴らし・娯楽" },
+      { "en": "hobby", "ja": "趣味" }
+    ],
+    "faq": [
+      { "q": "recreation とはどんな意味？", "a": "心身をリフレッシュするための楽しい活動・遊び『レクリエーション・娯楽・気晴らし』のことです。outdoor recreation（野外レクリエーション）のように使います。" },
+      { "q": "recreation と recreation（再現）は同じ語？", "a": "つづりは同じですが別の意味・発音です。『娯楽』の recreation はアクセントが前寄り、『再現』の re-creation（recreate の名詞）はアクセントが違います。" }
+    ],
+    "quiz": [
+      { "q": "Reading is my favorite form of ___.（気晴らし）", "A": "recreation", "B": "recitation の暗唱", "C": "reaction の反応", "D": "reduction の削減", "correct": "A" },
+      { "q": "recreation の語源の意味はどれ？", "A": "元気を回復させる", "B": "数え直す", "C": "押し下げる", "D": "引き裂く", "correct": "A" }
+    ]
+  }
+]

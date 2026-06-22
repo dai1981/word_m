@@ -1,0 +1,475 @@
+[
+  {
+    "english": "reassurance",
+    "pron": "ˌriːəˈʃʊrəns",
+    "kana": "リアシュアランス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ assurance（保証・安心）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "安心させること・励まし・（大丈夫だという）保証",
+    "description": "reassurance の意味・発音・例文・語源を解説。不安な人を「安心させること・励まし」、また「大丈夫だという保証」を指す語の使い方を紹介します。",
+    "keywords": ["reassurance 意味", "reassurance 発音", "reassurance 安心", "reassure 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】安心させること・励まし・保証", "note": "不安を和らげて安心させる言葉や行い。need reassurance（安心させてほしい）。" }
+    ],
+    "usages": [
+      { "title": "① 「安心させること」として", "desc": "不安を和らげる言葉を表します。", "example_en": "She offered words of reassurance.", "example_ja": "彼女は安心させる言葉をかけた。" },
+      { "title": "② 「保証・励まし」として", "desc": "大丈夫だという裏付けを表します。", "example_en": "The patient needed constant reassurance.", "example_ja": "その患者は絶えず安心させてもらう必要があった。" }
+    ],
+    "warn": [
+      "reassurance は『（不安を和らげる）安心させること・励まし』。動詞は reassure（安心させる）。",
+      "assurance（保証・自信）に re- がついて『（不安に対して）改めて安心させること』。"
+    ],
+    "etym_note": "re-（再び）＋ assurance（保証・安心、assure「保証する」より）から成り、「（不安な人を）改めて安心させること」を意味します。sure（確かな）と同じ語根です。",
+    "etym_chain": [
+      { "node": "assure", "sub": "保証する・安心させる", "era": "中英語" },
+      { "node": "reassure", "sub": "（改めて）安心させる", "era": "近代英語" },
+      { "node": "reassurance", "sub": "安心させること", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "words of reassurance", "ja": "安心させる言葉" },
+      { "en": "need reassurance", "ja": "安心させてほしい" },
+      { "en": "offer reassurance", "ja": "安心させる" },
+      { "en": "constant reassurance", "ja": "絶え間ない励まし" },
+      { "en": "seek reassurance", "ja": "安心を求める" },
+      { "en": "a measure of reassurance", "ja": "いくらかの安心" }
+    ],
+    "related": [
+      { "en": "reassure", "ja": "安心させる" },
+      { "en": "assurance", "ja": "保証・自信" },
+      { "en": "comfort", "ja": "慰め" },
+      { "en": "encouragement", "ja": "励まし" }
+    ],
+    "faq": [
+      { "q": "reassurance とはどんな意味？", "a": "不安な人を『安心させること・励まし』、また『大丈夫だという保証』のことです。words of reassurance（安心させる言葉）のように使います。動詞は reassure です。" },
+      { "q": "reassurance と comfort の違いは？", "a": "comfort は『（つらさを和らげる）慰め』、reassurance は『（不安を和らげ大丈夫だと）安心させること』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "She offered words of ___.（安心させること）", "A": "reassurance", "B": "resistance の抵抗", "C": "resemblance の類似", "D": "reluctance の気乗りのなさ", "correct": "A" },
+      { "q": "reassurance の動詞形はどれ？", "A": "reassure（安心させる）", "B": "resist（抵抗する）", "C": "resemble（似ている）", "D": "remain（残る）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rebellion",
+    "pron": "rɪˈbeljən",
+    "kana": "リベリオン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 rebellare（再び戦う・反抗する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "反乱・反逆／（権威への）反抗",
+    "description": "rebellion の意味・発音・例文・語源を解説。政府や権威に対する「反乱・反逆」、また規則などへの「反抗」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["rebellion 意味", "rebellion 発音", "rebellion 反乱", "rebel 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】反乱・反逆", "note": "政府・支配者に対する武力を伴う抵抗。crush a rebellion（反乱を鎮圧する）。" },
+      { "hinshi": "【名詞】（権威・規則への）反抗", "note": "親や決まりなどに逆らうこと。teenage rebellion（思春期の反抗）。" }
+    ],
+    "usages": [
+      { "title": "① 「反乱・反逆」として", "desc": "支配者への抵抗を表します。", "example_en": "The rebellion was quickly crushed.", "example_ja": "その反乱はすぐに鎮圧された。" },
+      { "title": "② 「反抗」として", "desc": "権威や規則への逆らいを表します。", "example_en": "His behavior was an act of rebellion.", "example_ja": "彼の行動は反抗の表れだった。" }
+    ],
+    "warn": [
+      "rebellion は『反乱・反逆』と『（権威・規則への）反抗』。動詞は rebel、形容詞は rebellious（反抗的な）。",
+      "in rebellion（反乱を起こして）、crush / put down a rebellion（反乱を鎮圧する）が頻出。"
+    ],
+    "etym_note": "ラテン語 rebellare（re-「再び」＋ bellare「戦う」＝再び戦う・反抗する）に由来します。bellum（戦争）から来ており、「（支配者に）再び戦いを挑むこと」を意味します。",
+    "etym_chain": [
+      { "node": "bellare", "sub": "戦う", "era": "ラテン語" },
+      { "node": "rebellare", "sub": "再び戦う・反抗する", "era": "ラテン語" },
+      { "node": "rebellion", "sub": "反乱・反抗", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "crush a rebellion", "ja": "反乱を鎮圧する" },
+      { "en": "an armed rebellion", "ja": "武装反乱" },
+      { "en": "in rebellion", "ja": "反乱を起こして" },
+      { "en": "teenage rebellion", "ja": "思春期の反抗" },
+      { "en": "an act of rebellion", "ja": "反抗の表れ" },
+      { "en": "lead a rebellion", "ja": "反乱を率いる" }
+    ],
+    "related": [
+      { "en": "rebel", "ja": "反逆する・反逆者" },
+      { "en": "rebellious", "ja": "反抗的な" },
+      { "en": "revolt", "ja": "反乱・反逆する" },
+      { "en": "uprising", "ja": "蜂起" }
+    ],
+    "faq": [
+      { "q": "rebellion とはどんな意味？", "a": "政府・支配者に対する『反乱・反逆』という意味と、親や規則などへの『反抗』という意味があります。動詞は rebel、形容詞は rebellious です。" },
+      { "q": "rebellion と revolution の違いは？", "a": "rebellion は『（必ずしも成功しない）反乱・反抗』、revolution は『（体制を覆す）革命』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The ___ was quickly crushed.（反乱）", "A": "rebellion", "B": "reflection の反射", "C": "rejection の拒絶", "D": "reduction の削減", "correct": "A" },
+      { "q": "rebellion の動詞形はどれ？", "A": "rebel（反逆する）", "B": "reflect（反射する）", "C": "reject（拒む）", "D": "reduce（減らす）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reconciliation",
+    "pron": "ˌrekənsɪliˈeɪʃən",
+    "kana": "レコンシリエーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 reconciliare（再び結びつける）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "和解・仲直り／（食い違いの）調整・一致させること",
+    "description": "reconciliation の意味・発音・例文・語源を解説。争った人どうしの「和解・仲直り」、また食い違うものの「調整・一致」を指す語の使い方を紹介します。",
+    "keywords": ["reconciliation 意味", "reconciliation 発音", "reconciliation 和解", "reconcile 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】和解・仲直り", "note": "対立していた人どうしが仲直りすること。a reconciliation between the two sides（両者の和解）。" },
+      { "hinshi": "【名詞】（食い違いの）調整・一致させること", "note": "矛盾する事柄をすり合わせること。the reconciliation of accounts（帳簿の照合）。" }
+    ],
+    "usages": [
+      { "title": "① 「和解・仲直り」として", "desc": "対立した人の仲直りを表します。", "example_en": "They hoped for a reconciliation.", "example_ja": "彼らは和解を望んだ。" },
+      { "title": "② 「調整・一致」として", "desc": "食い違いをすり合わせることを表します。", "example_en": "The reconciliation of the two reports took time.", "example_ja": "2つの報告のすり合わせには時間がかかった。" }
+    ],
+    "warn": [
+      "reconciliation は『和解・仲直り』と『（食い違いの）調整・照合』。動詞は reconcile。",
+      "会計では『（帳簿の）照合・突き合わせ』の意味でも使う。"
+    ],
+    "etym_note": "ラテン語 reconciliare（re-「再び」＋ conciliare「結びつける・和合させる」＝再び結びつける）に由来します。council（会議）, conciliate（なだめる）と関係します。",
+    "etym_chain": [
+      { "node": "conciliare", "sub": "結びつける・和合させる", "era": "ラテン語" },
+      { "node": "reconcile", "sub": "和解させる", "era": "中英語" },
+      { "node": "reconciliation", "sub": "和解・調整", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a reconciliation between", "ja": "〜の間の和解" },
+      { "en": "hope for reconciliation", "ja": "和解を望む" },
+      { "en": "seek reconciliation", "ja": "和解を求める" },
+      { "en": "national reconciliation", "ja": "国民的和解" },
+      { "en": "the reconciliation of accounts", "ja": "帳簿の照合" },
+      { "en": "a process of reconciliation", "ja": "和解の過程" }
+    ],
+    "related": [
+      { "en": "reconcile", "ja": "和解させる・調整する" },
+      { "en": "settlement", "ja": "解決・和解" },
+      { "en": "harmony", "ja": "調和" },
+      { "en": "conflict", "ja": "対立（反対）" }
+    ],
+    "faq": [
+      { "q": "reconciliation とはどんな意味？", "a": "対立していた人どうしが仲直りする『和解・仲直り』という意味と、食い違う事柄をすり合わせる『調整・照合・一致』という意味があります。動詞は reconcile です。" },
+      { "q": "reconciliation と settlement の違いは？", "a": "settlement は『（争いの）解決・決着』、reconciliation は特に『（人間関係の）和解・仲直り』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "They hoped for a ___.（和解）", "A": "reconciliation", "B": "recommendation の推薦", "C": "reconstruction の再建", "D": "recreation の娯楽", "correct": "A" },
+      { "q": "reconciliation の動詞形はどれ？", "A": "reconcile（和解させる）", "B": "recommend（勧める）", "C": "reconstruct（再建する）", "D": "recreate（再現する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recollection",
+    "pron": "ˌrekəˈlekʃən",
+    "kana": "レコレクション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 recolligere（再び集める）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "記憶・思い出／思い出すこと・回想",
+    "description": "recollection の意味・発音・例文・語源を解説。心によみがえる「記憶・思い出」や、思い起こす行為「回想」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["recollection 意味", "recollection 発音", "recollection 記憶", "recollect 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】記憶・思い出／回想", "note": "心によみがえる記憶、また思い起こすこと。to the best of my recollection（私の記憶のかぎりでは）。" }
+    ],
+    "usages": [
+      { "title": "① 「記憶・思い出」として", "desc": "心によみがえる記憶を表します。", "example_en": "I have no recollection of that day.", "example_ja": "その日のことは何も覚えていない。" },
+      { "title": "② 「回想」として", "desc": "思い起こすことを表します。", "example_en": "Her recollections of childhood were vivid.", "example_ja": "彼女の子ども時代の回想は生き生きしていた。" }
+    ],
+    "warn": [
+      "recollection は『記憶・思い出・回想』。動詞は recollect（思い出す）。",
+      "to the best of my recollection（私の記憶のかぎりでは）、have no recollection of（〜を覚えていない）が頻出。"
+    ],
+    "etym_note": "ラテン語 recolligere（re-「再び」＋ colligere「集める」＝再び集める）に由来します。collect（集める）と同じ語根で、「（記憶を）再び集めること＝思い出すこと」を意味します。",
+    "etym_chain": [
+      { "node": "colligere", "sub": "集める", "era": "ラテン語" },
+      { "node": "recollect", "sub": "思い出す", "era": "近代英語" },
+      { "node": "recollection", "sub": "記憶・回想", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "to the best of my recollection", "ja": "私の記憶のかぎりでは" },
+      { "en": "have no recollection of", "ja": "〜を覚えていない" },
+      { "en": "a vivid recollection", "ja": "鮮やかな記憶" },
+      { "en": "childhood recollections", "ja": "子ども時代の思い出" },
+      { "en": "a vague recollection", "ja": "あいまいな記憶" },
+      { "en": "share recollections", "ja": "思い出を語り合う" }
+    ],
+    "related": [
+      { "en": "recollect", "ja": "思い出す" },
+      { "en": "memory", "ja": "記憶" },
+      { "en": "remembrance", "ja": "追憶" },
+      { "en": "reminiscence", "ja": "回想・思い出話" }
+    ],
+    "faq": [
+      { "q": "recollection とはどんな意味？", "a": "心によみがえる『記憶・思い出』、また思い起こす行為『回想』のことです。have no recollection of（〜を覚えていない）のように使います。動詞は recollect です。" },
+      { "q": "recollection と memory の違いは？", "a": "memory は『記憶（能力・内容）』全般、recollection は特に『（努力して）思い出すこと・思い出された記憶』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "I have no ___ of that day.（記憶）", "A": "recollection", "B": "collection の収集", "C": "selection の選択", "D": "reflection の反射", "correct": "A" },
+      { "q": "recollection の動詞形はどれ？", "A": "recollect（思い出す）", "B": "collect（集める）", "C": "select（選ぶ）", "D": "reflect（反射する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reconstruction",
+    "pron": "ˌriːkənˈstrʌkʃən",
+    "kana": "リコンストラクション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ construction（建設）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "再建・復興／（事件・出来事の）再現・復元",
+    "description": "reconstruction の意味・発音・例文・語源を解説。壊れたものの「再建・復興」、また事件などの「再現・復元」を指す語の使い方を紹介します。",
+    "keywords": ["reconstruction 意味", "reconstruction 発音", "reconstruction 再建", "reconstruct 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再建・復興", "note": "壊れたものを再び築くこと。postwar reconstruction（戦後復興）。" },
+      { "hinshi": "【名詞】（事件・出来事の）再現・復元", "note": "起きたことを再びたどって組み立てること。a reconstruction of the crime（犯行の再現）。" }
+    ],
+    "usages": [
+      { "title": "① 「再建・復興」として", "desc": "壊れたものを再び築くことを表します。", "example_en": "Postwar reconstruction took many years.", "example_ja": "戦後の復興には長い年月がかかった。" },
+      { "title": "② 「再現・復元」として", "desc": "出来事をたどって組み立てることを表します。", "example_en": "Police carried out a reconstruction of the crime.", "example_ja": "警察は犯行の再現を行った。" }
+    ],
+    "warn": [
+      "reconstruction は『再建・復興』と『（事件・出来事の）再現・復元』。動詞は reconstruct。",
+      "postwar reconstruction（戦後復興）、crime reconstruction（犯行再現）が頻出。"
+    ],
+    "etym_note": "re-（再び）＋ construction（建設、construere「組み立てる」より）から成り、「もう一度組み立てること」を意味します。structure（構造）, construct（組み立てる）と同じ語根です。",
+    "etym_chain": [
+      { "node": "construere", "sub": "組み立てる", "era": "ラテン語" },
+      { "node": "construction", "sub": "建設", "era": "近代英語" },
+      { "node": "reconstruction", "sub": "再建・再現", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "postwar reconstruction", "ja": "戦後復興" },
+      { "en": "the reconstruction of the city", "ja": "都市の再建" },
+      { "en": "a reconstruction of the crime", "ja": "犯行の再現" },
+      { "en": "facial reconstruction", "ja": "顔の復元" },
+      { "en": "economic reconstruction", "ja": "経済の再建" },
+      { "en": "undergo reconstruction", "ja": "再建が行われる" }
+    ],
+    "related": [
+      { "en": "reconstruct", "ja": "再建する・再現する" },
+      { "en": "construction", "ja": "建設" },
+      { "en": "rebuilding", "ja": "再建" },
+      { "en": "restoration", "ja": "復元・修復" }
+    ],
+    "faq": [
+      { "q": "reconstruction とはどんな意味？", "a": "壊れたものを再び築く『再建・復興』という意味と、事件や出来事を再びたどって組み立てる『再現・復元』という意味があります。動詞は reconstruct です。" },
+      { "q": "reconstruction と restoration の違いは？", "a": "reconstruction は『（一から）作り直す・再建する』、restoration は『（元の状態に忠実に）修復・復元する』ことに重点があります。" }
+    ],
+    "quiz": [
+      { "q": "Postwar ___ took many years.（復興）", "A": "reconstruction", "B": "construction の建設", "C": "instruction の指示", "D": "introduction の導入", "correct": "A" },
+      { "q": "reconstruction の動詞形はどれ？", "A": "reconstruct（再建する）", "B": "construct（組み立てる）", "C": "instruct（指示する）", "D": "introduce（紹介する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "referendum",
+    "pron": "ˌrefəˈrendəm",
+    "kana": "レファレンダム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 referre（差し戻す・付託する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "政治"],
+    "meaning_main": "国民投票・住民投票（重要事項を投票で問うこと）",
+    "description": "referendum の意味・発音・例文・語源を解説。重要な政治問題を国民や住民の投票で直接問う「国民投票・住民投票」を指す語の使い方を紹介します。",
+    "keywords": ["referendum 意味", "referendum 発音", "referendum 国民投票", "住民投票"],
+    "meanings": [
+      { "hinshi": "【名詞】国民投票・住民投票", "note": "重要な政治的問題について、有権者が直接賛否を投票で示す制度。hold a referendum（国民投票を行う）。複数形は referendums / referenda。" }
+    ],
+    "usages": [
+      { "title": "① 国民投票として", "desc": "重要事項を投票で問うことを表します。", "example_en": "The country held a referendum on independence.", "example_ja": "その国は独立をめぐる国民投票を行った。" },
+      { "title": "② 住民投票として", "desc": "地域の事項を住民が問うことを表します。", "example_en": "Voters rejected the plan in a referendum.", "example_ja": "有権者は住民投票でその計画を否決した。" }
+    ],
+    "warn": [
+      "referendum は『（重要事項を有権者が直接決める）国民投票・住民投票』。hold a referendum（国民投票を行う）が頻出。",
+      "代表者を選ぶ election（選挙）とは違い、議題そのものへの賛否を問う。"
+    ],
+    "etym_note": "ラテン語 referendum（referre「差し戻す・付託する」の動形容詞＝『付託されるべきこと』）に由来します。refer（差し向ける）と同じ語源で、「（決定を）人々に付託すること」を意味します。",
+    "etym_chain": [
+      { "node": "referre", "sub": "差し戻す・付託する", "era": "ラテン語" },
+      { "node": "referendum", "sub": "付託されるべきこと", "era": "ラテン語" },
+      { "node": "referendum", "sub": "国民投票", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "hold a referendum", "ja": "国民投票を行う" },
+      { "en": "a referendum on independence", "ja": "独立をめぐる国民投票" },
+      { "en": "call a referendum", "ja": "国民投票を実施する" },
+      { "en": "a national referendum", "ja": "全国的な国民投票" },
+      { "en": "in a referendum", "ja": "国民投票で" },
+      { "en": "the result of the referendum", "ja": "国民投票の結果" }
+    ],
+    "related": [
+      { "en": "vote", "ja": "投票" },
+      { "en": "plebiscite", "ja": "人民投票" },
+      { "en": "election", "ja": "選挙" },
+      { "en": "ballot", "ja": "投票（用紙）" }
+    ],
+    "faq": [
+      { "q": "referendum とはどんな意味？", "a": "重要な政治的問題について、有権者が直接賛否を投票で示す制度『国民投票・住民投票』のことです。hold a referendum（国民投票を行う）のように使います。" },
+      { "q": "referendum と election の違いは？", "a": "election（選挙）は『代表者（人）を選ぶ』、referendum（国民投票）は『議題（事柄）への賛否を直接問う』ものです。" }
+    ],
+    "quiz": [
+      { "q": "The country held a ___ on independence.（国民投票）", "A": "referendum", "B": "reference の参照", "C": "referral の紹介", "D": "refinement の洗練", "correct": "A" },
+      { "q": "referendum で問われるのはどれ？", "A": "議題（事柄）への賛否", "B": "代表者の選出", "C": "予算の配分", "D": "役職の任命", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reinforcement",
+    "pron": "ˌriːɪnˈfɔːrsmənt",
+    "kana": "リインフォースメント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "reinforce（補強する）＋ -ment",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "補強・強化／（軍の）増援部隊／（心理学）強化",
+    "description": "reinforcement の意味・発音・例文・語源を解説。構造の「補強・強化」、軍の「増援部隊」、心理学の「強化」という幅広い使い方を紹介します。",
+    "keywords": ["reinforcement 意味", "reinforcement 発音", "reinforcement 補強", "reinforce 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】補強・強化", "note": "より丈夫・強力にすること。steel reinforcement（鉄筋による補強）。" },
+      { "hinshi": "【名詞】（軍の）増援部隊", "note": "ふつう reinforcements（複数形）。send in reinforcements（増援を送る）。" },
+      { "hinshi": "【名詞】（心理学）強化", "note": "ある行動を報酬などで促し定着させること。positive reinforcement（正の強化）。" }
+    ],
+    "usages": [
+      { "title": "① 「補強・強化」として", "desc": "より丈夫にすることを表します。", "example_en": "The bridge needs reinforcement.", "example_ja": "その橋は補強が必要だ。" },
+      { "title": "② 「増援・強化」として", "desc": "軍の増援や心理学の強化を表します。", "example_en": "Reinforcements arrived just in time.", "example_ja": "増援部隊がぎりぎり間に合って到着した。" }
+    ],
+    "warn": [
+      "reinforcement は『補強・強化』『（軍の）増援部隊（複数形）』『（心理学の）強化』と多義。動詞は reinforce。",
+      "positive reinforcement（正の強化）は教育・心理学で頻出。"
+    ],
+    "etym_note": "動詞 reinforce（re-「再び」＋ inforce（＝enforce「力を加える」）＝さらに力を加える）に -ment が付いた語です。force（力）と同じ語根です。",
+    "etym_chain": [
+      { "node": "force", "sub": "力", "era": "中英語" },
+      { "node": "reinforce", "sub": "補強する", "era": "近代英語" },
+      { "node": "reinforcement", "sub": "補強・増援・強化", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "positive reinforcement", "ja": "正の強化" },
+      { "en": "send in reinforcements", "ja": "増援を送る" },
+      { "en": "steel reinforcement", "ja": "鉄筋補強" },
+      { "en": "need reinforcement", "ja": "補強が必要だ" },
+      { "en": "reinforcements arrived", "ja": "増援が到着した" },
+      { "en": "structural reinforcement", "ja": "構造の補強" }
+    ],
+    "related": [
+      { "en": "reinforce", "ja": "補強する・強化する" },
+      { "en": "support", "ja": "支え・支援" },
+      { "en": "backup", "ja": "支援・予備" },
+      { "en": "strengthening", "ja": "強化" }
+    ],
+    "faq": [
+      { "q": "reinforcement とはどんな意味？", "a": "構造などの『補強・強化』、軍の『増援部隊（reinforcements）』、心理学で行動を定着させる『強化』など、文脈によっていくつかの意味があります。動詞は reinforce です。" },
+      { "q": "positive reinforcement とは？", "a": "心理学・教育で、望ましい行動をほめる・報酬を与えるなどして促し定着させること『正の強化』です。" }
+    ],
+    "quiz": [
+      { "q": "___s arrived just in time.（増援部隊）", "A": "Reinforcement", "B": "Refreshment の軽食", "C": "Replacement の取り替え", "D": "Requirement の要件", "correct": "A" },
+      { "q": "reinforcement の動詞形はどれ？", "A": "reinforce（補強する）", "B": "refresh（元気にする）", "C": "replace（取り替える）", "D": "require（必要とする）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reimbursement",
+    "pron": "ˌriːɪmˈbɜːrsmənt",
+    "kana": "リインバースメント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "reimburse（払い戻す）＋ -ment",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "ビジネス"],
+    "meaning_main": "（立て替えた費用の）払い戻し・弁済・返済",
+    "description": "reimbursement の意味・発音・例文・語源を解説。立て替えた経費などを後から「払い戻すこと・弁済」を指すビジネスの語の使い方を紹介します。",
+    "keywords": ["reimbursement 意味", "reimbursement 発音", "reimbursement 払い戻し", "reimburse 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】（立て替え費用の）払い戻し・弁済", "note": "本人が立て替えて払ったお金を後から返すこと。expense reimbursement（経費の払い戻し）。" }
+    ],
+    "usages": [
+      { "title": "① 経費の払い戻しとして", "desc": "立て替えた費用を返すことを表します。", "example_en": "You can claim reimbursement for travel costs.", "example_ja": "交通費の払い戻しを請求できる。" },
+      { "title": "② 弁済として", "desc": "立て替え分を返済することを表します。", "example_en": "The company offers full reimbursement.", "example_ja": "その会社は全額の払い戻しを行う。" }
+    ],
+    "warn": [
+      "reimbursement は『（立て替えた費用の）払い戻し・弁済』。動詞は reimburse。",
+      "単なる refund（返金）と違い、『本人が一度立て替えた分を返す』ニュアンス。"
+    ],
+    "etym_note": "動詞 reimburse（re-「再び」＋ imburse「財布に入れる」＝財布に戻す）に -ment が付いた語です。purse（財布）と同じ語根で、「（立て替えた分を）財布に戻すこと」を意味します。",
+    "etym_chain": [
+      { "node": "bursa", "sub": "財布", "era": "後期ラテン語" },
+      { "node": "reimburse", "sub": "払い戻す", "era": "近代英語" },
+      { "node": "reimbursement", "sub": "払い戻し・弁済", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "expense reimbursement", "ja": "経費の払い戻し" },
+      { "en": "claim reimbursement", "ja": "払い戻しを請求する" },
+      { "en": "full reimbursement", "ja": "全額の払い戻し" },
+      { "en": "reimbursement for travel", "ja": "交通費の払い戻し" },
+      { "en": "medical reimbursement", "ja": "医療費の払い戻し" },
+      { "en": "seek reimbursement", "ja": "払い戻しを求める" }
+    ],
+    "related": [
+      { "en": "reimburse", "ja": "払い戻す" },
+      { "en": "refund", "ja": "返金" },
+      { "en": "repayment", "ja": "返済" },
+      { "en": "compensation", "ja": "補償" }
+    ],
+    "faq": [
+      { "q": "reimbursement とはどんな意味？", "a": "本人が立て替えて払ったお金（経費など）を後から返すこと『払い戻し・弁済』のことです。expense reimbursement（経費の払い戻し）のように使います。動詞は reimburse です。" },
+      { "q": "reimbursement と refund の違いは？", "a": "refund は『（買った商品などの）返金』、reimbursement は特に『本人が立て替えた費用を返してもらうこと』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "You can claim ___ for travel costs.（払い戻し）", "A": "reimbursement", "B": "replacement の取り替え", "C": "requirement の要件", "D": "refinement の洗練", "correct": "A" },
+      { "q": "reimbursement の動詞形はどれ？", "A": "reimburse（払い戻す）", "B": "replace（取り替える）", "C": "require（必要とする）", "D": "refine（洗練する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "relocation",
+    "pron": "ˌriːloʊˈkeɪʃən",
+    "kana": "リロケーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ location（位置・場所）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "ビジネス"],
+    "meaning_main": "移転・移住・配置転換（別の場所へ移すこと・移ること）",
+    "description": "relocation の意味・発音・例文・語源を解説。会社・住居・人を別の場所へ移す「移転・移住・配置転換」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["relocation 意味", "relocation 発音", "relocation 移転", "relocate 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】移転・移住・配置転換", "note": "会社・住居・人などを別の場所へ移すこと、移ること。job relocation（転勤に伴う移住）。" }
+    ],
+    "usages": [
+      { "title": "① 会社の移転として", "desc": "事業所を別の場所へ移すことを表します。", "example_en": "The company announced its relocation to Osaka.", "example_ja": "その会社は大阪への移転を発表した。" },
+      { "title": "② 移住・転勤として", "desc": "人が別の土地へ移ることを表します。", "example_en": "The job offer included relocation expenses.", "example_ja": "その求人には移住費用が含まれていた。" }
+    ],
+    "warn": [
+      "relocation は『（会社・住居・人の）移転・移住・配置転換』。動詞は relocate。",
+      "relocation expenses / package（移転・転勤費用）はビジネスで頻出。"
+    ],
+    "etym_note": "re-（再び）＋ location（位置・場所、locare「置く」より）から成り、「別の場所に置き直すこと」を意味します。locate（位置を定める）, local（地元の）と同じ語根です。",
+    "etym_chain": [
+      { "node": "locare", "sub": "置く", "era": "ラテン語" },
+      { "node": "location", "sub": "位置・場所", "era": "近代英語" },
+      { "node": "relocation", "sub": "移転・移住", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "job relocation", "ja": "転勤に伴う移住" },
+      { "en": "relocation expenses", "ja": "移転・移住費用" },
+      { "en": "company relocation", "ja": "会社の移転" },
+      { "en": "a relocation package", "ja": "転勤手当一式" },
+      { "en": "forced relocation", "ja": "強制移住" },
+      { "en": "announce a relocation", "ja": "移転を発表する" }
+    ],
+    "related": [
+      { "en": "relocate", "ja": "移転する・移住する" },
+      { "en": "move", "ja": "引っ越す・移す" },
+      { "en": "transfer", "ja": "異動・移す" },
+      { "en": "migration", "ja": "移住・移動" }
+    ],
+    "faq": [
+      { "q": "relocation とはどんな意味？", "a": "会社・住居・人などを別の場所へ移すこと『移転・移住・配置転換』のことです。job relocation（転勤に伴う移住）のように使います。動詞は relocate です。" },
+      { "q": "relocation と migration の違いは？", "a": "relocation は『（会社・人の）特定の移転・移住』、migration は『（多数の人・動物の）移動・移住』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The company announced its ___ to Osaka.（移転）", "A": "relocation", "B": "relaxation の息抜き", "C": "reservation の予約", "D": "recreation の娯楽", "correct": "A" },
+      { "q": "relocation の動詞形はどれ？", "A": "relocate（移転する）", "B": "relax（くつろぐ）", "C": "reserve（予約する）", "D": "recreate（再現する）", "correct": "A" }
+    ]
+  }
+]

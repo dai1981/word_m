@@ -1,0 +1,54 @@
+[
+  {
+    "english": "reaffirmation",
+    "pron": "ˌriːæfərˈmeɪʃən",
+    "kana": "リアファメーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ affirmation（断言・確認）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "再確認・改めて断言すること・再表明",
+    "description": "reaffirmation の意味・発音・例文・語源を解説。立場や約束などを改めてはっきり示す「再確認・再表明」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["reaffirmation 意味", "reaffirmation 発音", "reaffirmation 再確認", "reaffirm 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再確認・改めて断言すること・再表明", "note": "立場・約束・信念などを改めてはっきり示すこと。a reaffirmation of support（支持の再表明）。" }
+    ],
+    "usages": [
+      { "title": "① 「再表明」として", "desc": "立場を改めて示すことを表します。", "example_en": "The speech was a reaffirmation of their commitment.", "example_ja": "その演説は彼らの決意の再表明だった。" },
+      { "title": "② 「再確認」として", "desc": "信念を改めて確かめることを表します。", "example_en": "It was a reaffirmation of basic values.", "example_ja": "それは基本的な価値観の再確認だった。" }
+    ],
+    "warn": [
+      "reaffirmation は『再確認・改めて断言すること・再表明』。re-（再び）＋ affirmation（断言）。動詞は reaffirm。",
+      "立場・支持・決意などを『改めて表明する』場面で使う。"
+    ],
+    "etym_note": "re-（再び）＋ affirmation（断言・確認、affirm「断言する」より）から成り、「もう一度はっきり示すこと」を意味します。firm（堅固な）と同じ語根です。",
+    "etym_chain": [
+      { "node": "affirmare", "sub": "強く言う・断言する", "era": "ラテン語" },
+      { "node": "affirmation", "sub": "断言・確認", "era": "近代英語" },
+      { "node": "reaffirmation", "sub": "再確認・再表明", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a reaffirmation of support", "ja": "支持の再表明" },
+      { "en": "a reaffirmation of commitment", "ja": "決意の再表明" },
+      { "en": "a reaffirmation of faith", "ja": "信仰の再確認" },
+      { "en": "a strong reaffirmation", "ja": "力強い再表明" },
+      { "en": "a reaffirmation of values", "ja": "価値観の再確認" },
+      { "en": "serve as a reaffirmation", "ja": "再確認となる" }
+    ],
+    "related": [
+      { "en": "reaffirm", "ja": "改めて断言する" },
+      { "en": "affirmation", "ja": "断言・確認" },
+      { "en": "confirmation", "ja": "確認" },
+      { "en": "restatement", "ja": "言い直し・再表明" }
+    ],
+    "faq": [
+      { "q": "reaffirmation とはどんな意味？", "a": "立場・約束・信念などを改めてはっきり示すこと『再確認・再表明・改めて断言すること』です。a reaffirmation of support（支持の再表明）のように使います。動詞は reaffirm です。" },
+      { "q": "reaffirmation と confirmation の違いは？", "a": "confirmation は『（事実の）確認』、reaffirmation は『（立場・信念を）改めて強く表明し直すこと』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The speech was a ___ of their commitment.（再表明）", "A": "reaffirmation", "B": "confirmation の確認", "C": "information の情報", "D": "formation の形成", "correct": "A" },
+      { "q": "reaffirmation の動詞形はどれ？", "A": "reaffirm（改めて断言する）", "B": "confirm（確認する）", "C": "inform（知らせる）", "D": "form（形づくる）", "correct": "A" }
+    ]
+  }
+]

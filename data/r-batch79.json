@@ -1,0 +1,475 @@
+[
+  {
+    "english": "refusal",
+    "pron": "rɪˈfjuːzəl",
+    "kana": "リフューザル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "refuse（断る）＋ -al",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "拒否・拒絶・辞退",
+    "description": "refusal の意味・発音・例文・語源を解説。要求や申し出を「断ること・拒否・拒絶」を指す語の使い方を、例文や語源とともに分かりやすく紹介します。",
+    "keywords": ["refusal 意味", "refusal 発音", "refusal 拒否", "refuse 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】拒否・拒絶・辞退", "note": "要求・申し出・依頼などを断ること。a flat refusal（きっぱりとした拒否）。" }
+    ],
+    "usages": [
+      { "title": "① 「拒否・拒絶」として", "desc": "申し出などを断ることを表します。", "example_en": "His refusal surprised everyone.", "example_ja": "彼の拒否はみんなを驚かせた。" },
+      { "title": "② first refusal として", "desc": "「優先的に選べる権利」を表します。", "example_en": "We have first refusal on the house.", "example_ja": "私たちはその家の優先購入権をもっている。" }
+    ],
+    "warn": [
+      "refusal は『拒否・拒絶・辞退』。動詞は refuse。first refusal（優先的に断る／買う権利）という決まった言い方もある。",
+      "反対は acceptance（受諾）。"
+    ],
+    "etym_note": "動詞 refuse（断る、古フランス語 refuser より）に -al が付いた語です。ラテン語 refundere（注ぎ返す）や recusare（拒む）に関係し、「はねつけること」を意味します。",
+    "etym_chain": [
+      { "node": "refuser", "sub": "断る", "era": "古フランス語" },
+      { "node": "refuse", "sub": "断る", "era": "中英語" },
+      { "node": "refusal", "sub": "拒否・拒絶", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a flat refusal", "ja": "きっぱりとした拒否" },
+      { "en": "a point-blank refusal", "ja": "あからさまな拒絶" },
+      { "en": "first refusal", "ja": "優先的に選べる権利" },
+      { "en": "meet with refusal", "ja": "拒否される" },
+      { "en": "a blunt refusal", "ja": "そっけない拒絶" },
+      { "en": "refusal to comply", "ja": "従うことの拒否" }
+    ],
+    "related": [
+      { "en": "refuse", "ja": "断る" },
+      { "en": "rejection", "ja": "拒絶・却下" },
+      { "en": "denial", "ja": "否定・拒否" },
+      { "en": "acceptance", "ja": "受諾（反対語）" }
+    ],
+    "faq": [
+      { "q": "refusal とはどんな意味？", "a": "要求・申し出・依頼などを『断ること（拒否・拒絶・辞退）』です。a flat refusal（きっぱりとした拒否）のように使います。動詞は refuse です。" },
+      { "q": "refusal と rejection の違いは？", "a": "refusal は『（依頼・要求を）断ること』、rejection は『（応募・人・申し出を）退け不採用にすること』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "His ___ surprised everyone.（拒否）", "A": "refusal", "B": "removal の除去", "C": "renewal の更新", "D": "reversal の逆転", "correct": "A" },
+      { "q": "refusal の動詞形はどれ？", "A": "refuse（断る）", "B": "remove（取り除く）", "C": "renew（更新する）", "D": "reverse（逆にする）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "redemption",
+    "pron": "rɪˈdempʃən",
+    "kana": "リデンプション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 redimere（買い戻す）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "（罪からの）あがない・救済／買い戻し・（クーポンなどの）引き換え",
+    "description": "redemption の意味・発音・例文・語源を解説。罪からの「あがない・救済」、また質草や債券の「買い戻し・引き換え」を指す語の使い方を紹介します。",
+    "keywords": ["redemption 意味", "redemption 発音", "redemption あがない", "redemption 救済"],
+    "meanings": [
+      { "hinshi": "【名詞】（罪からの）あがない・救済", "note": "罪や過ちから救われること、名誉回復。a story of redemption（救済の物語）。" },
+      { "hinshi": "【名詞】買い戻し・引き換え・償還", "note": "質草・債券・クーポンなどを引き換えること。" }
+    ],
+    "usages": [
+      { "title": "① 「あがない・救済」として", "desc": "罪から救われることを表します。", "example_en": "He sought redemption for his past mistakes.", "example_ja": "彼は過去の過ちのあがないを求めた。" },
+      { "title": "② 「引き換え・償還」として", "desc": "債券やクーポンの引き換えを表します。", "example_en": "The bonds are due for redemption next year.", "example_ja": "その債券は来年償還の時期を迎える。" }
+    ],
+    "warn": [
+      "redemption は『（罪からの）あがない・救済』が中心。金融では『（債券などの）償還・引き換え』。動詞は redeem。",
+      "beyond redemption は『救いようがない』という決まり文句。"
+    ],
+    "etym_note": "ラテン語 redimere（re-「再び」＋ emere「買う」＝買い戻す）の名詞形 redemptio に由来します。redeem（買い戻す・救う）と同じ語源です。",
+    "etym_chain": [
+      { "node": "redimere", "sub": "買い戻す", "era": "ラテン語" },
+      { "node": "redemptio", "sub": "買い戻し・救済", "era": "ラテン語" },
+      { "node": "redemption", "sub": "あがない・償還", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a story of redemption", "ja": "救済の物語" },
+      { "en": "seek redemption", "ja": "あがないを求める" },
+      { "en": "beyond redemption", "ja": "救いようがない" },
+      { "en": "the redemption of bonds", "ja": "債券の償還" },
+      { "en": "a chance at redemption", "ja": "名誉回復の機会" },
+      { "en": "point redemption", "ja": "ポイントの引き換え" }
+    ],
+    "related": [
+      { "en": "redeem", "ja": "買い戻す・救う" },
+      { "en": "salvation", "ja": "救済・救い" },
+      { "en": "atonement", "ja": "あがない・償い" },
+      { "en": "repayment", "ja": "返済" }
+    ],
+    "faq": [
+      { "q": "redemption とはどんな意味？", "a": "罪や過ちから救われる『あがない・救済・名誉回復』という意味と、質草・債券・クーポンの『買い戻し・引き換え・償還』という意味があります。動詞は redeem です。" },
+      { "q": "beyond redemption とは？", "a": "『（もはや）救いようがない・取り返しがつかない』という意味の決まり文句です。" }
+    ],
+    "quiz": [
+      { "q": "He sought ___ for his past mistakes.（あがない）", "A": "redemption", "B": "reduction の削減", "C": "rejection の拒絶", "D": "reflection の反射", "correct": "A" },
+      { "q": "redemption の動詞形はどれ？", "A": "redeem（買い戻す・救う）", "B": "reduce（減らす）", "C": "reject（拒む）", "D": "reflect（反射する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "refinement",
+    "pron": "rɪˈfaɪnmənt",
+    "kana": "リファインメント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "refine（精製する・洗練する）＋ -ment",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "洗練・上品さ／改良・精度向上／（物質の）精製",
+    "description": "refinement の意味・発音・例文・語源を解説。態度の「洗練・上品さ」、技術や案の「改良」、また物質の「精製」を指す語の使い方を紹介します。",
+    "keywords": ["refinement 意味", "refinement 発音", "refinement 洗練", "refine 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】洗練・上品さ", "note": "立ち居振る舞いや趣味の上品さ・優雅さ。a person of refinement（洗練された人）。" },
+      { "hinshi": "【名詞】改良・精度向上", "note": "細かく直してより良くすること。further refinements（さらなる改良）。" },
+      { "hinshi": "【名詞】（物質の）精製", "note": "不純物を取り除くこと。oil refinement（石油の精製）。" }
+    ],
+    "usages": [
+      { "title": "① 「洗練・上品さ」として", "desc": "態度や趣味の上品さを表します。", "example_en": "She has great taste and refinement.", "example_ja": "彼女は趣味がよく洗練されている。" },
+      { "title": "② 「改良」として", "desc": "細かく直して良くすることを表します。", "example_en": "The design needs further refinement.", "example_ja": "その設計はさらなる改良が必要だ。" }
+    ],
+    "warn": [
+      "refinement は『洗練・上品さ』『改良・精度向上』『（物質の）精製』と幅広い。動詞は refine。",
+      "人の品位を表す『洗練・上品さ』と、技術の『改良』の両方でよく使う。"
+    ],
+    "etym_note": "動詞 refine（re-「強意」＋ fine「純粋にする・細かくする」＝精製する・洗練する）に -ment が付いた語です。fine（細かい・上等な）と関係します。",
+    "etym_chain": [
+      { "node": "fine", "sub": "純粋な・細かい", "era": "中英語" },
+      { "node": "refine", "sub": "精製する・洗練する", "era": "近代英語" },
+      { "node": "refinement", "sub": "洗練・改良・精製", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a person of refinement", "ja": "洗練された人" },
+      { "en": "taste and refinement", "ja": "趣味のよさと上品さ" },
+      { "en": "further refinement", "ja": "さらなる改良" },
+      { "en": "need refinement", "ja": "改良が必要だ" },
+      { "en": "oil refinement", "ja": "石油の精製" },
+      { "en": "subtle refinements", "ja": "細やかな改良" }
+    ],
+    "related": [
+      { "en": "refine", "ja": "精製する・洗練する" },
+      { "en": "elegance", "ja": "優雅さ" },
+      { "en": "improvement", "ja": "改良" },
+      { "en": "sophistication", "ja": "洗練・精巧さ" }
+    ],
+    "faq": [
+      { "q": "refinement とはどんな意味？", "a": "立ち居振る舞いや趣味の『洗練・上品さ』、技術や案の『改良・精度向上』、また物質の『精製』を表します。動詞は refine です。" },
+      { "q": "refinement と improvement の違いは？", "a": "improvement は『改良・向上』全般、refinement は特に『細かく磨いて洗練・改良すること』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The design needs further ___.（改良）", "A": "refinement", "B": "retirement の引退", "C": "requirement の要件", "D": "replacement の取り替え", "correct": "A" },
+      { "q": "refinement の動詞形はどれ？", "A": "refine（精製する・洗練する）", "B": "retire（引退する）", "C": "require（必要とする）", "D": "replace（取り替える）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recurrence",
+    "pron": "rɪˈkɜːrəns",
+    "kana": "リカレンス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 recurrere（走り戻る）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "再発・再来・繰り返し起こること",
+    "description": "recurrence の意味・発音・例文・語源を解説。病気や問題などが「再び起こること・再発・再来」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["recurrence 意味", "recurrence 発音", "recurrence 再発", "recur 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再発・再来・繰り返し起こること", "note": "一度おさまったものがまた起こること。prevent a recurrence（再発を防ぐ）。" }
+    ],
+    "usages": [
+      { "title": "① 病気の再発として", "desc": "おさまった病気がまた起こることを表します。", "example_en": "Treatment lowers the risk of recurrence.", "example_ja": "治療は再発の危険を下げる。" },
+      { "title": "② 問題の再来として", "desc": "問題が繰り返し起こることを表します。", "example_en": "We must prevent a recurrence of the error.", "example_ja": "その誤りの再発を防がねばならない。" }
+    ],
+    "warn": [
+      "recurrence は『（一度おさまったものの）再発・再来』。動詞は recur（再発する・繰り返し起こる）。",
+      "prevent a recurrence（再発を防ぐ）が頻出。occurrence（出来事）と混同しない。"
+    ],
+    "etym_note": "ラテン語 recurrere（re-「再び」＋ currere「走る」＝走り戻る）に由来します。current（流れ）, occur（起こる）と同じ currere を語根にもち、「再び起こること」を意味します。",
+    "etym_chain": [
+      { "node": "currere", "sub": "走る", "era": "ラテン語" },
+      { "node": "recurrere", "sub": "走り戻る・再び起こる", "era": "ラテン語" },
+      { "node": "recurrence", "sub": "再発・再来", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "prevent a recurrence", "ja": "再発を防ぐ" },
+      { "en": "the risk of recurrence", "ja": "再発の危険" },
+      { "en": "a recurrence of cancer", "ja": "がんの再発" },
+      { "en": "avoid a recurrence", "ja": "再発を避ける" },
+      { "en": "a likely recurrence", "ja": "起こりうる再発" },
+      { "en": "frequent recurrence", "ja": "たびたびの再発" }
+    ],
+    "related": [
+      { "en": "recur", "ja": "再発する・繰り返し起こる" },
+      { "en": "relapse", "ja": "ぶり返し・再発" },
+      { "en": "repetition", "ja": "繰り返し" },
+      { "en": "occurrence", "ja": "出来事・発生" }
+    ],
+    "faq": [
+      { "q": "recurrence とはどんな意味？", "a": "一度おさまった病気や問題が『再び起こること（再発・再来）』のことです。prevent a recurrence（再発を防ぐ）のように使います。動詞は recur です。" },
+      { "q": "recurrence と relapse の違いは？", "a": "どちらも『再発』ですが、relapse は特に『（回復しかけた病気・悪習の）ぶり返し』、recurrence は『（おさまったものが）再び現れること』全般を指します。" }
+    ],
+    "quiz": [
+      { "q": "Treatment lowers the risk of ___.（再発）", "A": "recurrence", "B": "occurrence の出来事", "C": "reference の参照", "D": "reverence の崇敬", "correct": "A" },
+      { "q": "recurrence の動詞形はどれ？", "A": "recur（再発する）", "B": "occur（起こる）", "C": "refer（言及する）", "D": "revere（崇敬する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rescuer",
+    "pron": "ˈreskjuːər",
+    "kana": "レスキューアー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rescue（救助する）＋ -er",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "頻出語"],
+    "meaning_main": "救助者・救助する人・助け手",
+    "description": "rescuer の意味・発音・例文・語源を解説。危険から人や動物を救い出す「救助者・助け手」を指す語の使い方を、例文や語源とともに紹介します。",
+    "keywords": ["rescuer 意味", "rescuer 発音", "rescuer 救助者", "rescue 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】救助者・救助する人・助け手", "note": "危険・困難から人や動物を救い出す人。the rescuers reached the survivors（救助隊が生存者のもとに着いた）。" }
+    ],
+    "usages": [
+      { "title": "① 救助者として", "desc": "危険から救い出す人を指します。", "example_en": "The rescuers pulled him from the water.", "example_ja": "救助者たちは彼を水から引き上げた。" },
+      { "title": "② 助け手として", "desc": "困難から助ける人を表します。", "example_en": "She became an unlikely rescuer.", "example_ja": "彼女は思いがけない助け手となった。" }
+    ],
+    "warn": [
+      "rescuer は『救助者・助け手』。rescue（救助する）＋ -er。発音は『レスキューアー（ˈreskjuːər）』。",
+      "救助される人は the rescued / survivor。"
+    ],
+    "etym_note": "動詞 rescue（救助する、古フランス語 rescoure「取り戻す・救い出す」より）に「〜する人」の -er が付いた語です。「救い出す人」を意味します。",
+    "etym_chain": [
+      { "node": "rescoure", "sub": "取り戻す・救い出す", "era": "古フランス語" },
+      { "node": "rescue", "sub": "救助する", "era": "中英語" },
+      { "node": "rescuer", "sub": "救助者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the rescuers arrived", "ja": "救助者が到着した" },
+      { "en": "a brave rescuer", "ja": "勇敢な救助者" },
+      { "en": "a would-be rescuer", "ja": "救おうとする人" },
+      { "en": "rescuers and survivors", "ja": "救助者と生存者" },
+      { "en": "act as a rescuer", "ja": "救助者として動く" },
+      { "en": "thank the rescuers", "ja": "救助者に感謝する" }
+    ],
+    "related": [
+      { "en": "rescue", "ja": "救助する" },
+      { "en": "savior", "ja": "救い手・救世主" },
+      { "en": "lifeguard", "ja": "（水辺の）監視員" },
+      { "en": "victim", "ja": "被害者・遭難者" }
+    ],
+    "faq": [
+      { "q": "rescuer とはどんな意味？", "a": "危険・困難から人や動物を救い出す『救助者・助け手』のことです。The rescuers pulled him from the water.（救助者が彼を水から引き上げた）のように使います。" },
+      { "q": "rescuer と lifeguard の違いは？", "a": "rescuer は『（一般に）救助する人』、lifeguard は特に『プールや海辺で監視・救助する専門の監視員』です。" }
+    ],
+    "quiz": [
+      { "q": "The ___s pulled him from the water.（救助者）", "A": "rescuer", "B": "researcher の研究者", "C": "reviewer の批評家", "D": "receiver の受信機", "correct": "A" },
+      { "q": "rescuer のもとになった動詞はどれ？", "A": "rescue（救助する）", "B": "research（研究する）", "C": "review（見直す）", "D": "receive（受け取る）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "resignation",
+    "pron": "ˌrezɪɡˈneɪʃən",
+    "kana": "レジグネーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 resignare（署名を解く・放棄する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "辞職・辞任／（運命などへの）あきらめ・甘受",
+    "description": "resignation の意味・発音・例文・語源を解説。職を辞める「辞職・辞任」と、運命を受け入れる「あきらめ・甘受」という二つの使い方を紹介します。",
+    "keywords": ["resignation 意味", "resignation 発音", "resignation 辞職", "resignation あきらめ"],
+    "meanings": [
+      { "hinshi": "【名詞】辞職・辞任", "note": "職や地位を自ら辞めること。hand in one's resignation（辞表を出す）。" },
+      { "hinshi": "【名詞】（運命などへの）あきらめ・甘受", "note": "逆らえないものをおとなしく受け入れること。with resignation（あきらめて）。" }
+    ],
+    "usages": [
+      { "title": "① 「辞職・辞任」として", "desc": "職を自ら辞めることを表します。", "example_en": "The minister announced his resignation.", "example_ja": "大臣は辞任を表明した。" },
+      { "title": "② 「あきらめ」として", "desc": "運命を受け入れることを表します。", "example_en": "She accepted the news with resignation.", "example_ja": "彼女はその知らせをあきらめて受け入れた。" }
+    ],
+    "warn": [
+      "resignation は『辞職・辞任』と『（運命への）あきらめ・甘受』。動詞は resign。",
+      "hand in / tender one's resignation（辞表を出す）、with resignation（あきらめて）が頻出。"
+    ],
+    "etym_note": "ラテン語 resignare（re-「元へ」＋ signare「署名する・印をつける」＝署名を解く・放棄する）に由来します。「（地位を）手放す」から『辞職』、「（運命を）手放して受け入れる」から『あきらめ』の意味になりました。sign（署名する）と同じ語根です。",
+    "etym_chain": [
+      { "node": "signare", "sub": "署名する・印す", "era": "ラテン語" },
+      { "node": "resignare", "sub": "放棄する", "era": "ラテン語" },
+      { "node": "resignation", "sub": "辞職・あきらめ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "hand in one's resignation", "ja": "辞表を出す" },
+      { "en": "announce one's resignation", "ja": "辞任を表明する" },
+      { "en": "a letter of resignation", "ja": "辞表" },
+      { "en": "with resignation", "ja": "あきらめて" },
+      { "en": "accept with resignation", "ja": "あきらめて受け入れる" },
+      { "en": "call for his resignation", "ja": "彼の辞任を求める" }
+    ],
+    "related": [
+      { "en": "resign", "ja": "辞職する・あきらめる" },
+      { "en": "retirement", "ja": "退職・引退" },
+      { "en": "acceptance", "ja": "受け入れ" },
+      { "en": "submission", "ja": "服従・甘受" }
+    ],
+    "faq": [
+      { "q": "resignation とはどんな意味？", "a": "職や地位を自ら辞める『辞職・辞任』という意味と、逆らえないものをおとなしく受け入れる『あきらめ・甘受』という意味があります。動詞は resign です。" },
+      { "q": "hand in one's resignation とは？", "a": "『辞表を提出する・辞職を申し出る』という意味の決まり文句です。" }
+    ],
+    "quiz": [
+      { "q": "The minister announced his ___.（辞任）", "A": "resignation", "B": "reservation の予約", "C": "registration の登録", "D": "recognition の認識", "correct": "A" },
+      { "q": "resignation の動詞形はどれ？", "A": "resign（辞職する）", "B": "reserve（予約する）", "C": "register（登録する）", "D": "recognize（認識する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retrieval",
+    "pron": "rɪˈtriːvəl",
+    "kana": "リトリーバル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "retrieve（取り戻す）＋ -al",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "IT・頻出語"],
+    "meaning_main": "取り戻すこと・回収／（情報・データの）検索・読み出し",
+    "description": "retrieval の意味・発音・例文・語源を解説。失ったものを「取り戻すこと・回収」、また情報やデータの「検索・読み出し」を指す語の使い方を紹介します。",
+    "keywords": ["retrieval 意味", "retrieval 発音", "retrieval 検索", "retrieve 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】取り戻すこと・回収", "note": "失った・離れた場所のものを取り戻すこと。the retrieval of lost items（遺失物の回収）。" },
+      { "hinshi": "【名詞】（情報・データの）検索・読み出し", "note": "保存した情報を取り出すこと。information retrieval（情報検索）。" }
+    ],
+    "usages": [
+      { "title": "① 「取り戻し・回収」として", "desc": "失ったものを取り戻すことを表します。", "example_en": "The retrieval of the wreck took months.", "example_ja": "その難破船の引き揚げには数か月かかった。" },
+      { "title": "② 「検索・読み出し」として", "desc": "データを取り出すことを表します。", "example_en": "The system allows fast data retrieval.", "example_ja": "そのシステムは速いデータ検索を可能にする。" }
+    ],
+    "warn": [
+      "retrieval は『取り戻し・回収』と『（情報・データの）検索・読み出し』。動詞は retrieve。",
+      "information / data retrieval（情報・データ検索）はIT・図書館学で頻出。"
+    ],
+    "etym_note": "動詞 retrieve（取り戻す、古フランス語 retrover「再び見つける」より）に -al が付いた語です。もとは猟犬が獲物を『見つけて取ってくる』ことを表しました。",
+    "etym_chain": [
+      { "node": "retrover", "sub": "再び見つける", "era": "古フランス語" },
+      { "node": "retrieve", "sub": "取り戻す・取ってくる", "era": "中英語" },
+      { "node": "retrieval", "sub": "取り戻し・検索", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "information retrieval", "ja": "情報検索" },
+      { "en": "data retrieval", "ja": "データの読み出し" },
+      { "en": "the retrieval of lost items", "ja": "遺失物の回収" },
+      { "en": "fast retrieval", "ja": "速い検索" },
+      { "en": "storage and retrieval", "ja": "保存と検索" },
+      { "en": "memory retrieval", "ja": "記憶の想起" }
+    ],
+    "related": [
+      { "en": "retrieve", "ja": "取り戻す・取ってくる" },
+      { "en": "recovery", "ja": "回収・回復" },
+      { "en": "search", "ja": "検索" },
+      { "en": "storage", "ja": "保存" }
+    ],
+    "faq": [
+      { "q": "retrieval とはどんな意味？", "a": "失ったものを『取り戻すこと・回収』という意味と、保存した情報やデータの『検索・読み出し』という意味があります。動詞は retrieve です。" },
+      { "q": "information retrieval とは？", "a": "保存された大量の情報の中から、必要なものを取り出す『情報検索』のことです。図書館学やITで使われます。" }
+    ],
+    "quiz": [
+      { "q": "The system allows fast data ___.（検索）", "A": "retrieval", "B": "removal の除去", "C": "renewal の更新", "D": "reversal の逆転", "correct": "A" },
+      { "q": "retrieval の動詞形はどれ？", "A": "retrieve（取り戻す）", "B": "remove（取り除く）", "C": "renew（更新する）", "D": "reverse（逆にする）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reverence",
+    "pron": "ˈrevərəns",
+    "kana": "レバレンス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 revereri（深く敬う）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "崇敬・畏敬・深い敬意",
+    "description": "reverence の意味・発音・例文・語源を解説。神聖なものや偉大な人への「崇敬・畏敬・深い敬意」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["reverence 意味", "reverence 発音", "reverence 崇敬", "reverent 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】崇敬・畏敬・深い敬意", "note": "神聖なものや偉大な存在を深くうやまう気持ち。treat with reverence（うやうやしく扱う）。" }
+    ],
+    "usages": [
+      { "title": "① 「崇敬・畏敬」として", "desc": "深くうやまう気持ちを表します。", "example_en": "They spoke of the master with reverence.", "example_ja": "彼らはその師匠を畏敬の念をもって語った。" },
+      { "title": "② 宗教・自然への敬意として", "desc": "神聖なものへの敬意を表します。", "example_en": "He had a deep reverence for nature.", "example_ja": "彼は自然に対して深い畏敬の念をもっていた。" }
+    ],
+    "warn": [
+      "reverence は『（神聖なもの・偉大な存在への）崇敬・畏敬』というかたい語。形容詞は reverent（敬虔な）。",
+      "単なる respect（尊敬）より、おそれ敬う気持ちが強い。"
+    ],
+    "etym_note": "ラテン語 revereri（re-「強意」＋ vereri「おそれ敬う」＝深く敬う）に由来します。「おそれをもって敬う気持ち」を意味します。",
+    "etym_chain": [
+      { "node": "vereri", "sub": "おそれ敬う", "era": "ラテン語" },
+      { "node": "revereri", "sub": "深く敬う", "era": "ラテン語" },
+      { "node": "reverence", "sub": "崇敬・畏敬", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "treat with reverence", "ja": "うやうやしく扱う" },
+      { "en": "deep reverence", "ja": "深い畏敬" },
+      { "en": "reverence for life", "ja": "生命への畏敬" },
+      { "en": "with great reverence", "ja": "たいへんな敬意をもって" },
+      { "en": "hold in reverence", "ja": "崇敬する" },
+      { "en": "a sense of reverence", "ja": "畏敬の念" }
+    ],
+    "related": [
+      { "en": "reverent", "ja": "敬虔な・うやうやしい" },
+      { "en": "revere", "ja": "崇敬する" },
+      { "en": "awe", "ja": "畏敬・畏怖" },
+      { "en": "respect", "ja": "尊敬" }
+    ],
+    "faq": [
+      { "q": "reverence とはどんな意味？", "a": "神聖なものや偉大な存在を深くうやまう『崇敬・畏敬・深い敬意』のことです。treat with reverence（うやうやしく扱う）のように使います。形容詞は reverent です。" },
+      { "q": "reverence と respect の違いは？", "a": "respect は『尊敬』全般、reverence は『おそれを伴うほどの深い崇敬・畏敬』で、より強くかしこまった敬意を表します。" }
+    ],
+    "quiz": [
+      { "q": "They spoke of the master with ___.（畏敬）", "A": "reverence", "B": "reference の参照", "C": "recurrence の再発", "D": "reluctance の気乗りのなさ", "correct": "A" },
+      { "q": "reverence の形容詞形はどれ？", "A": "reverent（敬虔な）", "B": "recurrent（再発する）", "C": "reluctant（気が進まない）", "D": "reticent（無口な）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ringleader",
+    "pron": "ˈrɪŋliːdər",
+    "kana": "リングリーダー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ring（一味・徒党）＋ leader（指導者）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "（悪事・反抗の）首謀者・主犯・張本人",
+    "description": "ringleader の意味・発音・例文・語源を解説。悪事や反抗を率いる「首謀者・主犯・張本人」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["ringleader 意味", "ringleader 発音", "ringleader 首謀者", "ringleader 主犯"],
+    "meanings": [
+      { "hinshi": "【名詞】（悪事・反抗の）首謀者・主犯・張本人", "note": "犯罪・暴動・いたずらなどの集団を率いる中心人物。否定的な意味で使う。" }
+    ],
+    "usages": [
+      { "title": "① 「首謀者・主犯」として", "desc": "悪事を率いる中心人物を指します。", "example_en": "Police arrested the ringleader of the gang.", "example_ja": "警察はその一味の首謀者を逮捕した。" },
+      { "title": "② 反抗・いたずらの中心として", "desc": "騒ぎを主導する人を表します。", "example_en": "He was the ringleader of the prank.", "example_ja": "彼がそのいたずらの張本人だった。" }
+    ],
+    "warn": [
+      "ringleader の ring は『指輪』ではなく『（犯罪などの）一味・徒党』。否定的な『首謀者』の意味で使う。",
+      "leader（指導者）と違い、ringleader は悪事・反抗を率いる人。"
+    ],
+    "etym_note": "ring（ここでは『（犯罪・陰謀の）一味・徒党』）＋ leader（率いる人）の複合語で、「悪事をたくらむ集団を率いる人＝首謀者」を意味します。",
+    "etym_chain": [
+      { "node": "ring + leader", "sub": "一味＋率いる人", "era": "近代英語" },
+      { "node": "ringleader", "sub": "徒党の頭", "era": "近代英語" },
+      { "node": "ringleader", "sub": "首謀者・主犯", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the ringleader of the gang", "ja": "一味の首謀者" },
+      { "en": "arrest the ringleader", "ja": "首謀者を逮捕する" },
+      { "en": "the ringleader of the revolt", "ja": "反乱の首謀者" },
+      { "en": "identify the ringleader", "ja": "張本人を特定する" },
+      { "en": "a notorious ringleader", "ja": "悪名高い主犯" },
+      { "en": "the ringleader of the plot", "ja": "陰謀の首謀者" }
+    ],
+    "related": [
+      { "en": "leader", "ja": "指導者" },
+      { "en": "mastermind", "ja": "黒幕・首謀者" },
+      { "en": "instigator", "ja": "扇動者" },
+      { "en": "culprit", "ja": "犯人・張本人" }
+    ],
+    "faq": [
+      { "q": "ringleader とはどんな意味？", "a": "犯罪・暴動・いたずらなどの集団を率いる中心人物『首謀者・主犯・張本人』のことです。ふつう否定的な意味で使います。" },
+      { "q": "ringleader の ring は『指輪』のこと？", "a": "いいえ。ここでの ring は『（犯罪・陰謀の）一味・徒党』を意味します。それを率いる leader が ringleader です。" }
+    ],
+    "quiz": [
+      { "q": "Police arrested the ___ of the gang.（首謀者）", "A": "ringleader", "B": "ringtone の着信音", "C": "ringmaster の団長", "D": "ringside のリングサイド", "correct": "A" },
+      { "q": "ringleader の ring が指すのはどれ？", "A": "（犯罪などの）一味・徒党", "B": "指輪", "C": "電話の音", "D": "ボクシングのリング", "correct": "A" }
+    ]
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "english": "recuperation",
+    "pron": "rɪˌkuːpəˈreɪʃən",
+    "kana": "リキューパレーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 recuperare（取り戻す）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "（病気・疲労からの）回復・療養／（損失の）取り戻し",
+    "description": "recuperation の意味・発音・例文・語源を解説。病気や疲れからの「回復・療養」、また損失の「取り戻し」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["recuperation 意味", "recuperation 発音", "回復", "recuperate 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】（病気・疲労からの）回復・療養", "note": "体力・健康を取り戻すこと。a period of recuperation（療養期間）。" },
+      { "hinshi": "【名詞】（損失・費用の）取り戻し・回収", "note": "失ったものを取り戻すこと。" }
+    ],
+    "usages": [
+      { "title": "① 「回復・療養」として", "desc": "健康を取り戻すことを表します。", "example_en": "He needs time for recuperation after surgery.", "example_ja": "彼は手術後、療養の時間が必要だ。" },
+      { "title": "② 「取り戻し」として", "desc": "損失を回収することを表します。", "example_en": "The recuperation of costs took years.", "example_ja": "費用の回収には何年もかかった。" }
+    ],
+    "warn": [
+      "recuperation は『（病気・疲労からの）回復・療養』が中心。動詞は recuperate。recovery とほぼ同義のやや改まった語。",
+      "a period of recuperation（療養期間）が頻出。"
+    ],
+    "etym_note": "ラテン語 recuperare（re-「再び」＋ capere に関係する古い語＝取り戻す）に由来します。「（健康・損失を）取り戻すこと」を意味し、recover（回復する）と近い語源です。",
+    "etym_chain": [
+      { "node": "recuperare", "sub": "取り戻す", "era": "ラテン語" },
+      { "node": "recuperate", "sub": "回復する", "era": "近代英語" },
+      { "node": "recuperation", "sub": "回復・療養", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a period of recuperation", "ja": "療養期間" },
+      { "en": "time for recuperation", "ja": "回復の時間" },
+      { "en": "rest and recuperation", "ja": "休養と回復" },
+      { "en": "full recuperation", "ja": "完全な回復" },
+      { "en": "after recuperation", "ja": "療養のあとで" },
+      { "en": "aid recuperation", "ja": "回復を助ける" }
+    ],
+    "related": [
+      { "en": "recuperate", "ja": "回復する・療養する" },
+      { "en": "recovery", "ja": "回復" },
+      { "en": "convalescence", "ja": "病後の回復・療養" },
+      { "en": "rest", "ja": "休養" }
+    ],
+    "faq": [
+      { "q": "recuperation とはどんな意味？", "a": "病気や疲れから体力・健康を取り戻すこと『回復・療養』が中心の意味です。損失や費用の『取り戻し・回収』も表します。a period of recuperation（療養期間）のように使います。動詞は recuperate です。" },
+      { "q": "recuperation と recovery の違いは？", "a": "ほぼ同じ『回復』ですが、recuperation はやや改まった語で『（療養による）体力・健康の回復』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "He needs time for ___ after surgery.（療養）", "A": "recuperation", "B": "recreation の娯楽", "C": "reputation の評判", "D": "registration の登録", "correct": "A" },
+      { "q": "recuperation の動詞形はどれ？", "A": "recuperate（回復する）", "B": "recreate（再現する）", "C": "register（登録する）", "D": "recommend（勧める）", "correct": "A" }
+    ]
+  }
+]

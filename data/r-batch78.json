@@ -1,0 +1,478 @@
+[
+  {
+    "english": "reflection",
+    "pron": "rɪˈflekʃən",
+    "kana": "リフレクション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 reflectere（後ろへ曲げる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "（光・音の）反射・（鏡などに映る）映像／熟考・反省・反映",
+    "description": "reflection の意味・発音・例文・語源を解説。光や鏡に映る「反射・映像」と、じっくり考える「熟考・反省」という二つの使い方を紹介します。",
+    "keywords": ["reflection 意味", "reflection 発音", "reflection 反射", "reflection 熟考"],
+    "meanings": [
+      { "hinshi": "【名詞】反射・（鏡などに映る）映像", "note": "光・音などがはね返ること、また鏡や水面に映る姿。see one's reflection（自分の姿が映るのを見る）。" },
+      { "hinshi": "【名詞】熟考・反省／反映・現れ", "note": "じっくり考えること。on reflection（よく考えてみると）。be a reflection of（〜の表れである）。" }
+    ],
+    "usages": [
+      { "title": "① 「反射・映像」として", "desc": "鏡や水面に映る姿を表します。", "example_en": "She saw her reflection in the window.", "example_ja": "彼女は窓に映る自分の姿を見た。" },
+      { "title": "② 「熟考・反映」として", "desc": "じっくり考えること、また表れを表します。", "example_en": "After much reflection, he changed his mind.", "example_ja": "よく考えた末、彼は考えを変えた。" }
+    ],
+    "warn": [
+      "reflection は『（光・鏡の）反射・映像』と『熟考・反省・反映』の両方。動詞は reflect。",
+      "on reflection（よく考えてみると）、a reflection of（〜の表れ）が頻出。"
+    ],
+    "etym_note": "ラテン語 reflectere（re-「後ろへ」＋ flectere「曲げる」＝後ろへ曲げる）に由来します。光が『はね返る』ことから『反射』、思いを『折り返して見つめる』ことから『熟考』の意味になりました。",
+    "etym_chain": [
+      { "node": "flectere", "sub": "曲げる", "era": "ラテン語" },
+      { "node": "reflectere", "sub": "後ろへ曲げる", "era": "ラテン語" },
+      { "node": "reflection", "sub": "反射・熟考", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "see one's reflection", "ja": "自分の映る姿を見る" },
+      { "en": "on reflection", "ja": "よく考えてみると" },
+      { "en": "a reflection of", "ja": "〜の表れ" },
+      { "en": "quiet reflection", "ja": "静かな熟考" },
+      { "en": "the reflection in the mirror", "ja": "鏡の中の映像" },
+      { "en": "deep reflection", "ja": "深い省察" }
+    ],
+    "related": [
+      { "en": "reflect", "ja": "反射する・熟考する" },
+      { "en": "image", "ja": "映像・像" },
+      { "en": "contemplation", "ja": "熟考" },
+      { "en": "mirror", "ja": "鏡" }
+    ],
+    "faq": [
+      { "q": "reflection とはどんな意味？", "a": "光や音の『反射』、鏡や水面に映る『映像』という意味と、じっくり考える『熟考・反省』、何かの『反映・表れ』という意味があります。動詞は reflect です。" },
+      { "q": "on reflection とは？", "a": "『よく考えてみると・改めて考えると』という意味の決まり文句です。On reflection, I was wrong.（よく考えると私が間違っていた）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "She saw her ___ in the window.（映る姿）", "A": "reflection", "B": "rejection の拒絶", "C": "reduction の削減", "D": "reaction の反応", "correct": "A" },
+      { "q": "on reflection の意味はどれ？", "A": "よく考えてみると", "B": "急いで", "C": "偶然に", "D": "鏡の前で", "correct": "A" }
+    ]
+  },
+  {
+    "english": "resolution",
+    "pron": "ˌrezəˈluːʃən",
+    "kana": "レゾリューション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 resolvere（解き放つ・分解する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "決意・決心／（問題の）解決／決議／（画像の）解像度",
+    "description": "resolution の意味・発音・例文・語源を解説。固い「決意」、問題の「解決」、会議の「決議」、画像の「解像度」という幅広い使い方を紹介します。",
+    "keywords": ["resolution 意味", "resolution 発音", "resolution 決意", "resolution 解像度"],
+    "meanings": [
+      { "hinshi": "【名詞】決意・決心", "note": "固く心に決めること。a New Year's resolution（新年の決意）。" },
+      { "hinshi": "【名詞】（問題の）解決／（会議の）決議", "note": "争い・問題を解決すること。pass a resolution（決議を可決する）。" },
+      { "hinshi": "【名詞】（画像・画面の）解像度", "note": "画像の細かさ。high resolution（高解像度）。" }
+    ],
+    "usages": [
+      { "title": "① 「決意」として", "desc": "固く心に決めることを表します。", "example_en": "My resolution is to exercise every day.", "example_ja": "私の決意は毎日運動することだ。" },
+      { "title": "② 「解決・解像度」として", "desc": "問題の解決や画像の細かさを表します。", "example_en": "The photo was taken in high resolution.", "example_ja": "その写真は高解像度で撮影された。" }
+    ],
+    "warn": [
+      "resolution は『決意』『解決』『決議』『解像度』と多義。動詞は resolve（決意する・解決する）。",
+      "New Year's resolution（新年の抱負）、high resolution（高解像度）が頻出。"
+    ],
+    "etym_note": "ラテン語 resolvere（re-「強意」＋ solvere「解く」＝解き放つ・分解する）に由来します。『解いてはっきりさせる』ことから『解決・決意』、『細かく分解する度合い』から『解像度』の意味になりました。solve（解く）と同じ語根です。",
+    "etym_chain": [
+      { "node": "solvere", "sub": "解く", "era": "ラテン語" },
+      { "node": "resolvere", "sub": "解き放つ・分解する", "era": "ラテン語" },
+      { "node": "resolution", "sub": "決意・解決・解像度", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a New Year's resolution", "ja": "新年の抱負" },
+      { "en": "make a resolution", "ja": "決意する" },
+      { "en": "conflict resolution", "ja": "紛争解決" },
+      { "en": "pass a resolution", "ja": "決議を可決する" },
+      { "en": "high resolution", "ja": "高解像度" },
+      { "en": "show great resolution", "ja": "強い決意を示す" }
+    ],
+    "related": [
+      { "en": "resolve", "ja": "決意する・解決する" },
+      { "en": "determination", "ja": "決意" },
+      { "en": "solution", "ja": "解決（策）" },
+      { "en": "decree", "ja": "決議・布告" }
+    ],
+    "faq": [
+      { "q": "resolution とはどんな意味？", "a": "固い『決意・決心』、問題の『解決』、会議の『決議』、画像の『解像度』など、文脈によっていくつもの意味があります。動詞は resolve です。" },
+      { "q": "New Year's resolution とは？", "a": "新年に立てる『今年の抱負・決意』のことです。My resolution is to read more.（もっと読書するのが抱負だ）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The photo was taken in high ___.（解像度）", "A": "resolution", "B": "revolution の革命", "C": "resolution の代わりに pollution", "D": "solution の解決", "correct": "A" },
+      { "q": "resolution の動詞形はどれ？", "A": "resolve（決意する・解決する）", "B": "revolve（回転する）", "C": "reserve（予約する）", "D": "reveal（明かす）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "replacement",
+    "pron": "rɪˈpleɪsmənt",
+    "kana": "リプレイスメント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "replace（取り替える）＋ -ment",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "取り替え・交換／代わりのもの・後任",
+    "description": "replacement の意味・発音・例文・語源を解説。古いものを「取り替えること」や、代わりになる「代替品・後任」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["replacement 意味", "replacement 発音", "replacement 交換", "replacement 後任"],
+    "meanings": [
+      { "hinshi": "【名詞】取り替え・交換", "note": "古い・壊れたものを新しいものに替えること。the replacement of old parts（古い部品の交換）。" },
+      { "hinshi": "【名詞】代わりのもの・後任", "note": "替わりになる人や物。find a replacement（代わりを見つける）。" }
+    ],
+    "usages": [
+      { "title": "① 「取り替え」として", "desc": "新しいものに替えることを表します。", "example_en": "The replacement of the roof took a week.", "example_ja": "屋根の取り替えに1週間かかった。" },
+      { "title": "② 「代わり・後任」として", "desc": "替わりの人や物を指します。", "example_en": "We need a replacement for the broken part.", "example_ja": "壊れた部品の代わりが必要だ。" }
+    ],
+    "warn": [
+      "replacement は『取り替え（行為）』と『代わりのもの・後任（人・物）』の両方。動詞は replace。",
+      "find a replacement（代わりを見つける）、a replacement part（交換部品）が頻出。"
+    ],
+    "etym_note": "動詞 replace（re-「再び」＋ place「置く」＝置き換える）に名詞をつくる -ment が付いた語です。「（別のものを）置き換えること・置き換わるもの」を意味します。",
+    "etym_chain": [
+      { "node": "place", "sub": "置く・場所", "era": "中英語" },
+      { "node": "replace", "sub": "取り替える", "era": "近代英語" },
+      { "node": "replacement", "sub": "取り替え・代わり", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "find a replacement", "ja": "代わりを見つける" },
+      { "en": "a replacement part", "ja": "交換部品" },
+      { "en": "a replacement for", "ja": "〜の代わり" },
+      { "en": "hip replacement", "ja": "股関節置換（手術）" },
+      { "en": "a temporary replacement", "ja": "一時的な代理" },
+      { "en": "need replacement", "ja": "交換が必要だ" }
+    ],
+    "related": [
+      { "en": "replace", "ja": "取り替える" },
+      { "en": "substitute", "ja": "代用品・代理" },
+      { "en": "successor", "ja": "後任・後継者" },
+      { "en": "spare", "ja": "予備（の）" }
+    ],
+    "faq": [
+      { "q": "replacement とはどんな意味？", "a": "古い・壊れたものを新しいものに『取り替えること』という意味と、替わりになる『代わりのもの・後任』という意味があります。動詞は replace です。" },
+      { "q": "replacement と substitute の違いは？", "a": "replacement は『（恒久的に）取り替えるもの・後任』、substitute は『（一時的な）代用品・代理』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "We need a ___ for the broken part.（代わり）", "A": "replacement", "B": "requirement の要件", "C": "retirement の引退", "D": "refreshment の軽食", "correct": "A" },
+      { "q": "replacement の動詞形はどれ？", "A": "replace（取り替える）", "B": "require（必要とする）", "C": "retire（引退する）", "D": "refresh（元気にする）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "requirement",
+    "pron": "rɪˈkwaɪərmənt",
+    "kana": "リクワイアメント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "require（必要とする）＋ -ment",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "必要条件・要件／必要なもの・要求",
+    "description": "requirement の意味・発音・例文・語源を解説。満たすべき「必要条件・要件」や、必要とされる「もの・要求」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["requirement 意味", "requirement 発音", "requirement 必要条件", "require 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】必要条件・要件", "note": "満たさなければならない条件。meet the requirements（要件を満たす）。" },
+      { "hinshi": "【名詞】必要なもの・要求", "note": "必要とされるもの・求められること。entry requirements（入学条件）。" }
+    ],
+    "usages": [
+      { "title": "① 「必要条件」として", "desc": "満たすべき条件を表します。", "example_en": "You must meet all the requirements to apply.", "example_ja": "応募するにはすべての要件を満たさねばならない。" },
+      { "title": "② 「必要なもの」として", "desc": "求められるものを表します。", "example_en": "Clean water is a basic requirement for life.", "example_ja": "きれいな水は生命の基本的な必要物だ。" }
+    ],
+    "warn": [
+      "requirement は『必要条件・要件』『必要なもの』。動詞は require（必要とする）。",
+      "meet / fulfill the requirements（要件を満たす）が頻出。"
+    ],
+    "etym_note": "動詞 require（必要とする、ラテン語 requirere「re-（再び）＋ quaerere（求める）」より）に -ment が付いた語です。「求められること＝必要条件」を意味します。inquire（尋ねる）と同じ quaerere を語根にもちます。",
+    "etym_chain": [
+      { "node": "quaerere", "sub": "求める・尋ねる", "era": "ラテン語" },
+      { "node": "require", "sub": "必要とする", "era": "中英語" },
+      { "node": "requirement", "sub": "必要条件・要件", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "meet the requirements", "ja": "要件を満たす" },
+      { "en": "entry requirements", "ja": "入学・参加条件" },
+      { "en": "minimum requirement", "ja": "最低条件" },
+      { "en": "a legal requirement", "ja": "法的な要件" },
+      { "en": "fulfill a requirement", "ja": "条件を満たす" },
+      { "en": "basic requirements", "ja": "基本的な必要物" }
+    ],
+    "related": [
+      { "en": "require", "ja": "必要とする" },
+      { "en": "condition", "ja": "条件" },
+      { "en": "criterion", "ja": "基準" },
+      { "en": "prerequisite", "ja": "前提条件" }
+    ],
+    "faq": [
+      { "q": "requirement とはどんな意味？", "a": "満たさなければならない『必要条件・要件』という意味と、必要とされる『もの・要求』という意味があります。meet the requirements（要件を満たす）のように使います。" },
+      { "q": "requirement と condition の違いは？", "a": "requirement は『（満たすべき）必要条件・求められるもの』、condition は『条件・状況』全般です。requirement のほうが『必須』のニュアンスが強いです。" }
+    ],
+    "quiz": [
+      { "q": "You must meet all the ___s to apply.（要件）", "A": "requirement", "B": "retirement の引退", "C": "refinement の洗練", "D": "replacement の取り替え", "correct": "A" },
+      { "q": "requirement の動詞形はどれ？", "A": "require（必要とする）", "B": "retire（引退する）", "C": "refine（洗練する）", "D": "replace（取り替える）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reproduction",
+    "pron": "ˌriːprəˈdʌkʃən",
+    "kana": "リプロダクション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ production（生み出すこと）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "学術"],
+    "meaning_main": "（生物の）繁殖・生殖／複製・複製品・再現",
+    "description": "reproduction の意味・発音・例文・語源を解説。生物の「繁殖・生殖」と、絵や音などの「複製・再現」という二つの使い方を分かりやすく紹介します。",
+    "keywords": ["reproduction 意味", "reproduction 発音", "reproduction 繁殖", "reproduction 複製"],
+    "meanings": [
+      { "hinshi": "【名詞】（生物の）繁殖・生殖", "note": "生物が子孫を残すこと。sexual reproduction（有性生殖）。" },
+      { "hinshi": "【名詞】複製・複製品・再現", "note": "もとのものをまねて作ること・作ったもの。a reproduction of a painting（絵の複製）。" }
+    ],
+    "usages": [
+      { "title": "① 「繁殖・生殖」として", "desc": "生物が子孫を残すことを表します。", "example_en": "Plants have various methods of reproduction.", "example_ja": "植物にはさまざまな繁殖方法がある。" },
+      { "title": "② 「複製・再現」として", "desc": "もとをまねて作ることを表します。", "example_en": "The museum sells reproductions of famous paintings.", "example_ja": "その美術館は名画の複製を売っている。" }
+    ],
+    "warn": [
+      "reproduction は『（生物の）繁殖・生殖』と『複製・複製品・再現』の両方。動詞は reproduce。",
+      "本物の絵に対する複製は a reproduction、有性生殖は sexual reproduction。"
+    ],
+    "etym_note": "re-（再び）＋ production（生み出すこと、producere「前に導き出す」より）から成り、「もう一度生み出すこと」を意味します。produce（生産する）と同じ語根です。",
+    "etym_chain": [
+      { "node": "producere", "sub": "前に導き出す", "era": "ラテン語" },
+      { "node": "production", "sub": "生み出すこと", "era": "近代英語" },
+      { "node": "reproduction", "sub": "繁殖・複製", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "sexual reproduction", "ja": "有性生殖" },
+      { "en": "asexual reproduction", "ja": "無性生殖" },
+      { "en": "a reproduction of a painting", "ja": "絵の複製" },
+      { "en": "sound reproduction", "ja": "音の再現・再生" },
+      { "en": "methods of reproduction", "ja": "繁殖の方法" },
+      { "en": "a faithful reproduction", "ja": "忠実な複製" }
+    ],
+    "related": [
+      { "en": "reproduce", "ja": "繁殖する・複製する" },
+      { "en": "breeding", "ja": "繁殖" },
+      { "en": "copy", "ja": "複製・写し" },
+      { "en": "replica", "ja": "レプリカ・複製品" }
+    ],
+    "faq": [
+      { "q": "reproduction とはどんな意味？", "a": "生物が子孫を残す『繁殖・生殖』という意味と、もとのものをまねて作る『複製・複製品・再現』という意味があります。動詞は reproduce です。" },
+      { "q": "reproduction と replica の違いは？", "a": "どちらも『複製品』ですが、replica は特に『（実物大の）精巧な複製』、reproduction は複製全般や生物の繁殖も指す広い語です。" }
+    ],
+    "quiz": [
+      { "q": "Plants have various methods of ___.（繁殖）", "A": "reproduction", "B": "production の生産", "C": "introduction の導入", "D": "reduction の削減", "correct": "A" },
+      { "q": "reproduction の動詞形はどれ？", "A": "reproduce（繁殖する・複製する）", "B": "produce（生産する）", "C": "reduce（減らす）", "D": "introduce（紹介する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "researcher",
+    "pron": "rɪˈsɜːrtʃər",
+    "kana": "リサーチャー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "research（研究する）＋ -er",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "職業"],
+    "meaning_main": "研究者・調査員（学問や物事を深く調べる人）",
+    "description": "researcher の意味・発音・例文・語源を解説。学問や物事を深く調べる「研究者・調査員」を指す職業の語の使い方を分かりやすく紹介します。",
+    "keywords": ["researcher 意味", "researcher 発音", "researcher 研究者", "research 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】研究者・調査員", "note": "学問・科学・市場などを体系的に調べ、新しい知識を得る人。a medical researcher（医学研究者）。" }
+    ],
+    "usages": [
+      { "title": "① 研究者として", "desc": "学問を深く調べる人を指します。", "example_en": "The researchers published their findings.", "example_ja": "研究者たちは研究結果を発表した。" },
+      { "title": "② 調査員として", "desc": "物事を調べる人を表します。", "example_en": "A market researcher studied consumer habits.", "example_ja": "市場調査員が消費者の習慣を調べた。" }
+    ],
+    "warn": [
+      "researcher は『研究者・調査員』。research（研究する）＋ -er。発音は『リサーチャー（rɪˈsɜːrtʃər）』。",
+      "research は名詞・動詞ともアクセントの揺れがあるが、researcher は後ろ寄り。"
+    ],
+    "etym_note": "動詞 research（re-「強意」＋ search「探す」＝徹底的に調べる）に「〜する人」の -er が付いた語です。search は古フランス語 cerchier（探す）に由来します。",
+    "etym_chain": [
+      { "node": "cerchier", "sub": "探す", "era": "古フランス語" },
+      { "node": "research", "sub": "研究する・調べる", "era": "近代英語" },
+      { "node": "researcher", "sub": "研究者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a medical researcher", "ja": "医学研究者" },
+      { "en": "a market researcher", "ja": "市場調査員" },
+      { "en": "a team of researchers", "ja": "研究者チーム" },
+      { "en": "a senior researcher", "ja": "上級研究員" },
+      { "en": "researchers found that", "ja": "研究者は〜だと突き止めた" },
+      { "en": "a leading researcher", "ja": "第一線の研究者" }
+    ],
+    "related": [
+      { "en": "research", "ja": "研究・研究する" },
+      { "en": "scientist", "ja": "科学者" },
+      { "en": "scholar", "ja": "学者" },
+      { "en": "investigator", "ja": "調査員" }
+    ],
+    "faq": [
+      { "q": "researcher とはどんな意味？", "a": "学問・科学・市場などを体系的に調べ、新しい知識を得る『研究者・調査員』のことです。a medical researcher（医学研究者）のように使います。" },
+      { "q": "researcher と scientist の違いは？", "a": "scientist は『（自然）科学を専門とする科学者』、researcher は分野を問わず『調べて研究する人』全般を指します。" }
+    ],
+    "quiz": [
+      { "q": "The ___s published their findings.（研究者）", "A": "researcher", "B": "rancher の牧場主", "C": "reporter の記者", "D": "retailer の小売業者", "correct": "A" },
+      { "q": "researcher のもとになった動詞はどれ？", "A": "research（研究する）", "B": "reach（届く）", "C": "rescue（救う）", "D": "reserve（予約する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "resemblance",
+    "pron": "rɪˈzembləns",
+    "kana": "リゼンブランス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "resemble（似ている）＋ -ance",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "類似・似ていること・似た点",
+    "description": "resemblance の意味・発音・例文・語源を解説。見た目や性質が「似ていること・類似・似た点」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["resemblance 意味", "resemblance 発音", "resemblance 類似", "resemble 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】類似・似ていること・似た点", "note": "見た目や性質が似ていること。bear a resemblance to（〜に似ている）。" }
+    ],
+    "usages": [
+      { "title": "① 「似ていること」として", "desc": "見た目などの類似を表します。", "example_en": "She bears a strong resemblance to her mother.", "example_ja": "彼女は母親によく似ている。" },
+      { "title": "② 「似た点」として", "desc": "共通する特徴を表します。", "example_en": "There is little resemblance between the two plans.", "example_ja": "2つの計画にはほとんど似た点がない。" }
+    ],
+    "warn": [
+      "resemblance は『類似・似ていること』。bear / have a resemblance to（〜に似ている）が頻出。動詞は resemble。",
+      "a family resemblance（家族に共通する似た特徴）も定番。"
+    ],
+    "etym_note": "動詞 resemble（似ている、古フランス語 resembler「re-（強意）＋ sembler（似る）」より）に -ance が付いた語です。sembler はラテン語 similis（似た）に由来し、similar（似ている）と同じ語根です。",
+    "etym_chain": [
+      { "node": "similis", "sub": "似た", "era": "ラテン語" },
+      { "node": "resembler", "sub": "似ている", "era": "古フランス語" },
+      { "node": "resemblance", "sub": "類似・似ていること", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "bear a resemblance to", "ja": "〜に似ている" },
+      { "en": "a strong resemblance", "ja": "よく似ていること" },
+      { "en": "a family resemblance", "ja": "家族に共通する似た特徴" },
+      { "en": "a striking resemblance", "ja": "驚くほどの類似" },
+      { "en": "no resemblance", "ja": "似た点がない" },
+      { "en": "a passing resemblance", "ja": "わずかな類似" }
+    ],
+    "related": [
+      { "en": "resemble", "ja": "似ている" },
+      { "en": "similarity", "ja": "類似" },
+      { "en": "likeness", "ja": "似ていること・肖像" },
+      { "en": "difference", "ja": "違い（反対語）" }
+    ],
+    "faq": [
+      { "q": "resemblance とはどんな意味？", "a": "見た目や性質が『似ていること・類似・似た点』のことです。bear a resemblance to（〜に似ている）のように使います。動詞は resemble です。" },
+      { "q": "resemblance と similarity の違いは？", "a": "意味は近いですが、resemblance は特に『見た目が似ていること』、similarity は『性質・程度などの類似』全般に使われます。" }
+    ],
+    "quiz": [
+      { "q": "She bears a strong ___ to her mother.（類似）", "A": "resemblance", "B": "reluctance の気乗りのなさ", "C": "remembrance の記憶", "D": "resistance の抵抗", "correct": "A" },
+      { "q": "resemblance の動詞形はどれ？", "A": "resemble（似ている）", "B": "resist（抵抗する）", "C": "resemble の代わりに assemble", "D": "remember（思い出す）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reversal",
+    "pron": "rɪˈvɜːrsəl",
+    "kana": "リバーサル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "reverse（逆にする）＋ -al",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "逆転・反転・（方針などの）転換／（運勢の）逆境・つまずき",
+    "description": "reversal の意味・発音・例文・語源を解説。立場や方針の「逆転・転換」、また運勢の「逆境・つまずき」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["reversal 意味", "reversal 発音", "reversal 逆転", "reverse 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】逆転・反転・転換", "note": "向き・順序・方針などが反対になること。a reversal of policy（方針の転換）。" },
+      { "hinshi": "【名詞】（運勢の）逆境・つまずき", "note": "それまでの順調さが崩れること。suffer a reversal（逆境にあう）。" }
+    ],
+    "usages": [
+      { "title": "① 「逆転・転換」として", "desc": "向きや方針が反対になることを表します。", "example_en": "The court ordered a reversal of the decision.", "example_ja": "裁判所はその決定の取り消し（逆転）を命じた。" },
+      { "title": "② 「逆境」として", "desc": "順調さが崩れることを表します。", "example_en": "The company suffered a financial reversal.", "example_ja": "その会社は財政的なつまずきにあった。" }
+    ],
+    "warn": [
+      "reversal は『逆転・反転・転換』と『（運勢の）逆境・つまずき』。動詞は reverse。",
+      "a reversal of fortune（運勢の逆転・没落）が定番表現。"
+    ],
+    "etym_note": "動詞 reverse（re-「後ろへ」＋ vertere「向ける・回す」＝逆にする）に -al が付いた語です。convert（変える）, version（版）と同じ vertere を語根にもちます。",
+    "etym_chain": [
+      { "node": "vertere", "sub": "向ける・回す", "era": "ラテン語" },
+      { "node": "reverse", "sub": "逆にする", "era": "中英語" },
+      { "node": "reversal", "sub": "逆転・転換", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a reversal of policy", "ja": "方針の転換" },
+      { "en": "a reversal of fortune", "ja": "運勢の逆転・没落" },
+      { "en": "suffer a reversal", "ja": "逆境にあう" },
+      { "en": "a dramatic reversal", "ja": "劇的な逆転" },
+      { "en": "a role reversal", "ja": "役割の逆転" },
+      { "en": "a sudden reversal", "ja": "突然の転換" }
+    ],
+    "related": [
+      { "en": "reverse", "ja": "逆にする" },
+      { "en": "turnaround", "ja": "好転・転換" },
+      { "en": "setback", "ja": "つまずき・後退" },
+      { "en": "u-turn", "ja": "（方針の）急転換" }
+    ],
+    "faq": [
+      { "q": "reversal とはどんな意味？", "a": "向き・順序・方針などが反対になる『逆転・反転・転換』という意味と、順調さが崩れる『逆境・つまずき』という意味があります。動詞は reverse です。" },
+      { "q": "a reversal of fortune とは？", "a": "『運勢の逆転・（栄えていたものの）没落』を表す決まり文句です。" }
+    ],
+    "quiz": [
+      { "q": "The court ordered a ___ of the decision.（逆転）", "A": "reversal", "B": "rehearsal のリハーサル", "C": "removal の除去", "D": "renewal の更新", "correct": "A" },
+      { "q": "reversal の動詞形はどれ？", "A": "reverse（逆にする）", "B": "rehearse（練習する）", "C": "remove（取り除く）", "D": "renew（更新する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rotation",
+    "pron": "roʊˈteɪʃən",
+    "kana": "ローテーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 rotare（回す）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "回転・自転／（順番の）交替・輪番・ローテーション",
+    "description": "rotation の意味・発音・例文・語源を解説。軸を中心に回る「回転・自転」と、順番に入れ替わる「交替・輪番」という二つの使い方を紹介します。",
+    "keywords": ["rotation 意味", "rotation 発音", "rotation 回転", "rotation 輪番"],
+    "meanings": [
+      { "hinshi": "【名詞】回転・自転", "note": "軸を中心にぐるりと回ること。the rotation of the earth（地球の自転）。" },
+      { "hinshi": "【名詞】（順番の）交替・輪番・ローテーション", "note": "順に入れ替わること。work in rotation（交替で働く）。crop rotation（輪作）。" }
+    ],
+    "usages": [
+      { "title": "① 「回転・自転」として", "desc": "軸を中心に回ることを表します。", "example_en": "The rotation of the earth causes day and night.", "example_ja": "地球の自転が昼と夜を生む。" },
+      { "title": "② 「交替・輪番」として", "desc": "順に入れ替わることを表します。", "example_en": "The nurses work in rotation.", "example_ja": "看護師たちは交替制で働く。" }
+    ],
+    "warn": [
+      "rotation は『回転・自転』と『（順番の）交替・輪番』の両方。動詞は rotate。",
+      "in rotation（交替で・順番に）、crop rotation（輪作）が頻出。"
+    ],
+    "etym_note": "ラテン語 rotare（回す、rota「車輪」より）の名詞形 rotatio に由来します。rotate（回転する）, rotary（回転式の）, rotor（回転子）と同じ語根です。",
+    "etym_chain": [
+      { "node": "rota", "sub": "車輪", "era": "ラテン語" },
+      { "node": "rotare", "sub": "回す", "era": "ラテン語" },
+      { "node": "rotation", "sub": "回転・交替", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the rotation of the earth", "ja": "地球の自転" },
+      { "en": "work in rotation", "ja": "交替で働く" },
+      { "en": "crop rotation", "ja": "輪作" },
+      { "en": "a rotation of duties", "ja": "職務の輪番" },
+      { "en": "one full rotation", "ja": "1回転" },
+      { "en": "on a rotation basis", "ja": "輪番制で" }
+    ],
+    "related": [
+      { "en": "rotate", "ja": "回転する・交替する" },
+      { "en": "revolution", "ja": "回転・公転" },
+      { "en": "cycle", "ja": "周期・循環" },
+      { "en": "turn", "ja": "回転・順番" }
+    ],
+    "faq": [
+      { "q": "rotation とはどんな意味？", "a": "軸を中心にぐるりと回る『回転・自転』という意味と、順に入れ替わる『交替・輪番（ローテーション）』という意味があります。動詞は rotate です。" },
+      { "q": "rotation と revolution の違いは？", "a": "天文では rotation が『自転（自分の軸を中心に回る）』、revolution が『公転（別の天体の周りを回る）』を指します。" }
+    ],
+    "quiz": [
+      { "q": "The nurses work in ___.（交替）", "A": "rotation", "B": "relation の関係", "C": "donation の寄付", "D": "rotation の代わりに station", "correct": "A" },
+      { "q": "rotation の動詞形はどれ？", "A": "rotate（回転する）", "B": "relate（関係する）", "C": "donate（寄付する）", "D": "create（創る）", "correct": "A" }
+    ]
+  }
+]

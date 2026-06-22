@@ -1,0 +1,54 @@
+[
+  {
+    "english": "redistribution",
+    "pron": "ˌriːdɪstrɪˈbjuːʃən",
+    "kana": "リディストリビューション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ distribution（分配）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "社会・経済"],
+    "meaning_main": "再分配・分配し直すこと（富・資源・土地などを配り直すこと）",
+    "description": "redistribution の意味・発音・例文・語源を解説。富や資源、土地などを改めて配り直す「再分配」を指す社会・経済の語の使い方を紹介します。",
+    "keywords": ["redistribution 意味", "redistribution 発音", "再分配", "redistribute 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再分配・分配し直すこと", "note": "富・資源・土地・仕事などを改めて配り直すこと。the redistribution of wealth（富の再分配）。" }
+    ],
+    "usages": [
+      { "title": "① 富の再分配として", "desc": "富を配り直すことを表します。", "example_en": "The policy aims at the redistribution of wealth.", "example_ja": "その政策は富の再分配を目指している。" },
+      { "title": "② 資源・土地の再分配として", "desc": "資源などを配り直すことを表します。", "example_en": "Land redistribution was a key reform.", "example_ja": "土地の再分配は重要な改革だった。" }
+    ],
+    "warn": [
+      "redistribution は『（富・資源・土地などの）再分配』。re-（再び）＋ distribution（分配）。動詞は redistribute。",
+      "the redistribution of wealth（富の再分配）が経済・政治で頻出。"
+    ],
+    "etym_note": "re-（再び）＋ distribution（分配、distribuere「配り分ける」より）から成り、「もう一度配り直すこと」を意味します。distribute（分配する）, tribute（貢ぎ物）と同じ語根です。",
+    "etym_chain": [
+      { "node": "distribuere", "sub": "配り分ける", "era": "ラテン語" },
+      { "node": "distribution", "sub": "分配", "era": "近代英語" },
+      { "node": "redistribution", "sub": "再分配", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the redistribution of wealth", "ja": "富の再分配" },
+      { "en": "land redistribution", "ja": "土地の再分配" },
+      { "en": "income redistribution", "ja": "所得の再分配" },
+      { "en": "resource redistribution", "ja": "資源の再分配" },
+      { "en": "call for redistribution", "ja": "再分配を求める" },
+      { "en": "a fairer redistribution", "ja": "より公正な再分配" }
+    ],
+    "related": [
+      { "en": "redistribute", "ja": "再分配する" },
+      { "en": "distribution", "ja": "分配" },
+      { "en": "allocation", "ja": "割り当て・配分" },
+      { "en": "reallocation", "ja": "再配分" }
+    ],
+    "faq": [
+      { "q": "redistribution とはどんな意味？", "a": "富・資源・土地・仕事などを改めて配り直すこと『再分配』のことです。the redistribution of wealth（富の再分配）のように使います。動詞は redistribute です。" },
+      { "q": "the redistribution of wealth とは？", "a": "税や社会保障などを通じて、富裕層から貧困層へ富を配り直す『富の再分配』のことです。" }
+    ],
+    "quiz": [
+      { "q": "The policy aims at the ___ of wealth.（再分配）", "A": "redistribution", "B": "distribution の分配", "C": "contribution の貢献", "D": "attribution の帰属", "correct": "A" },
+      { "q": "redistribution の動詞形はどれ？", "A": "redistribute（再分配する）", "B": "distribute（分配する）", "C": "contribute（貢献する）", "D": "attribute（帰する）", "correct": "A" }
+    ]
+  }
+]

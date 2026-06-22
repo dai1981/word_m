@@ -1,0 +1,55 @@
+[
+  {
+    "english": "repayment",
+    "pron": "rɪˈpeɪmənt",
+    "kana": "リペイメント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "repay（返済する）＋ -ment",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "ビジネス・金融"],
+    "meaning_main": "返済・払い戻し／（恩などへの）報い",
+    "description": "repayment の意味・発音・例文・語源を解説。借りたお金を返す「返済」や、受けた恩への「報い」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["repayment 意味", "repayment 発音", "repayment 返済", "repay 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】返済・払い戻し", "note": "借りたお金やローンを返すこと、また返す金額。loan repayment（ローンの返済）。" },
+      { "hinshi": "【名詞】（恩・行為への）報い", "note": "受けたものへのお返し。in repayment for（〜への返礼として）。" }
+    ],
+    "usages": [
+      { "title": "① 「返済」として", "desc": "借りたお金を返すことを表します。", "example_en": "Monthly repayments on the loan are high.", "example_ja": "そのローンの毎月の返済は高い。" },
+      { "title": "② 「報い・返礼」として", "desc": "恩などへのお返しを表します。", "example_en": "He gave a gift in repayment for their kindness.", "example_ja": "彼は親切への返礼として贈り物をした。" }
+    ],
+    "warn": [
+      "repayment は『返済・払い戻し』が中心で、金融で頻出。『（恩への）報い』の意味もある。動詞は repay。",
+      "monthly repayments（毎月の返済）、loan repayment（ローン返済）が定番。"
+    ],
+    "etym_note": "動詞 repay（re-「元へ」＋ pay「支払う」＝返済する）に -ment が付いた語です。「支払って返すこと」を意味します。",
+    "etym_chain": [
+      { "node": "pay", "sub": "支払う", "era": "中英語" },
+      { "node": "repay", "sub": "返済する・報いる", "era": "中英語" },
+      { "node": "repayment", "sub": "返済・報い", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "loan repayment", "ja": "ローンの返済" },
+      { "en": "monthly repayments", "ja": "毎月の返済" },
+      { "en": "a repayment plan", "ja": "返済計画" },
+      { "en": "in repayment for", "ja": "〜への返礼として" },
+      { "en": "debt repayment", "ja": "借金の返済" },
+      { "en": "early repayment", "ja": "繰り上げ返済" }
+    ],
+    "related": [
+      { "en": "repay", "ja": "返済する・報いる" },
+      { "en": "reimbursement", "ja": "払い戻し・弁済" },
+      { "en": "installment", "ja": "分割払い" },
+      { "en": "debt", "ja": "借金" }
+    ],
+    "faq": [
+      { "q": "repayment とはどんな意味？", "a": "借りたお金やローンを返すこと『返済・払い戻し』が中心の意味です。受けた恩への『報い・返礼』も表します。動詞は repay です。" },
+      { "q": "repayment と reimbursement の違いは？", "a": "repayment は『（借りたお金の）返済』、reimbursement は『（立て替えた費用の）払い戻し』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "Monthly ___s on the loan are high.（返済）", "A": "repayment", "B": "replacement の取り替え", "C": "requirement の要件", "D": "retirement の引退", "correct": "A" },
+      { "q": "repayment の動詞形はどれ？", "A": "repay（返済する）", "B": "replace（取り替える）", "C": "require（必要とする）", "D": "retire（引退する）", "correct": "A" }
+    ]
+  }
+]
