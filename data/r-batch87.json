@@ -1,0 +1,472 @@
+[
+  {
+    "english": "rower",
+    "pron": "ˈroʊər",
+    "kana": "ロウアー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "row（こぐ）＋ -er",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "スポーツ"],
+    "meaning_main": "こぎ手・ボートをこぐ人（漕手）",
+    "description": "rower の意味・発音・例文・語源を解説。オールでボートをこぐ人「こぎ手・漕手（そうしゅ）」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["rower 意味", "rower 発音", "こぎ手", "row 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】こぎ手・漕手", "note": "オールを使ってボートをこぐ人。ボート競技の選手にも使う。" }
+    ],
+    "usages": [
+      { "title": "① こぎ手として", "desc": "ボートをこぐ人を指します。", "example_en": "The rowers pulled hard against the current.", "example_ja": "こぎ手たちは流れに逆らって力強くこいだ。" },
+      { "title": "② ボート競技で", "desc": "漕手としての選手を表します。", "example_en": "She is the strongest rower on the team.", "example_ja": "彼女はチームでいちばん力のある漕手だ。" }
+    ],
+    "warn": [
+      "rower は『こぐ人（漕手）』。row（こぐ）＋ -er。発音は『ロウアー』で、口論の row（ラウ）とは別。",
+      "室内のこぎ運動マシンも rower（ローイングマシン）という。"
+    ],
+    "etym_note": "動詞 row（オールでこぐ、古英語 rōwan より）に「〜する人」の -er が付いた語です。「こぐ人」を意味します。",
+    "etym_chain": [
+      { "node": "rōwan", "sub": "こぐ", "era": "古英語" },
+      { "node": "row", "sub": "こぐ", "era": "中英語" },
+      { "node": "rower", "sub": "こぎ手", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a skilled rower", "ja": "腕のいいこぎ手" },
+      { "en": "the rowers pulled hard", "ja": "こぎ手は力強くこいだ" },
+      { "en": "an eight-man crew of rowers", "ja": "8人のこぎ手の漕艇班" },
+      { "en": "a champion rower", "ja": "優勝した漕手" },
+      { "en": "the lead rower", "ja": "先頭のこぎ手" },
+      { "en": "a rowing machine", "ja": "ローイングマシン" }
+    ],
+    "related": [
+      { "en": "row", "ja": "こぐ" },
+      { "en": "oar", "ja": "オール・櫂" },
+      { "en": "rowing", "ja": "ボート競技・こぐこと" },
+      { "en": "crew", "ja": "漕艇班・乗組員" }
+    ],
+    "faq": [
+      { "q": "rower とはどんな意味？", "a": "オールを使ってボートをこぐ人『こぎ手・漕手（そうしゅ）』のことです。ボート競技の選手にも使います。動詞は row（こぐ）です。" },
+      { "q": "rower の row は『列』のこと？", "a": "いいえ。ここでの row は『（オールで）こぐ』という動詞です。発音は『ロウ』で、口論の row（ラウ）とは別です。" }
+    ],
+    "quiz": [
+      { "q": "The ___s pulled hard against the current.（こぎ手）", "A": "rower", "B": "ruler の定規", "C": "runner の走者", "D": "rider の乗り手", "correct": "A" },
+      { "q": "rower のもとになった動詞はどれ？", "A": "row（こぐ）", "B": "rule（支配する）", "C": "run（走る）", "D": "ride（乗る）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "radon",
+    "pron": "ˈreɪdɒn",
+    "kana": "ラドン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "radium（ラジウム）＋ -on",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "科学・化学"],
+    "meaning_main": "ラドン（無色・無臭の放射性の希ガス。元素記号 Rn）",
+    "description": "radon の意味・発音・例文・語源を解説。土や岩から自然に発生する、無色・無臭の放射性の気体「ラドン」を指す化学の語の使い方を紹介します。",
+    "keywords": ["radon 意味", "radon 発音", "ラドン", "radon ガス"],
+    "meanings": [
+      { "hinshi": "【名詞】ラドン", "note": "無色・無臭の放射性の希ガス（元素記号 Rn）。ウランの崩壊で生じ、土や岩から発生する。吸い込むと健康への害がある。" }
+    ],
+    "usages": [
+      { "title": "① 気体として", "desc": "放射性の希ガスを指します。", "example_en": "Radon can seep into homes from the ground.", "example_ja": "ラドンは地面から家の中へしみ込むことがある。" },
+      { "title": "② 健康・住環境の文脈で", "desc": "検査・対策の話題で使います。", "example_en": "They tested the basement for radon.", "example_ja": "彼らは地下室のラドンを検査した。" }
+    ],
+    "warn": [
+      "radon は『無色・無臭の放射性の希ガス（元素記号 Rn）』。吸い込むと肺がんのリスクがあり、住宅の検査対象になる。",
+      "発音は『ラドン（ˈreɪdɒn）』。ラジウム radium から派生した名。"
+    ],
+    "etym_note": "放射性元素 radium（ラジウム）に、希ガスを表す接尾辞 -on（neon, argon と同様）が付いた語です。ラジウムの崩壊で生じる気体であることに由来します。",
+    "etym_chain": [
+      { "node": "radius", "sub": "光線・放射", "era": "ラテン語" },
+      { "node": "radium", "sub": "ラジウム", "era": "近代英語" },
+      { "node": "radon", "sub": "ラドン", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "radon gas", "ja": "ラドンガス" },
+      { "en": "test for radon", "ja": "ラドンを検査する" },
+      { "en": "radon levels", "ja": "ラドン濃度" },
+      { "en": "radon exposure", "ja": "ラドンへの被ばく" },
+      { "en": "a radon detector", "ja": "ラドン検知器" },
+      { "en": "reduce radon", "ja": "ラドンを減らす" }
+    ],
+    "related": [
+      { "en": "radium", "ja": "ラジウム" },
+      { "en": "uranium", "ja": "ウラン" },
+      { "en": "noble gas", "ja": "希ガス" },
+      { "en": "radiation", "ja": "放射線" }
+    ],
+    "faq": [
+      { "q": "radon とはどんな意味？", "a": "無色・無臭の放射性の希ガス（元素記号 Rn）『ラドン』のことです。ウランの崩壊で生じ、土や岩から発生します。吸い込むと健康への害があり、住宅の検査対象になります。" },
+      { "q": "radon の語源は？", "a": "放射性元素 radium（ラジウム）に、希ガスを表す接尾辞 -on が付いた語です。ラジウムの崩壊で生じる気体であることに由来します。" }
+    ],
+    "quiz": [
+      { "q": "___ can seep into homes from the ground.（ラドン）", "A": "Radon", "B": "Ribbon のリボン", "C": "Random の無作為の", "D": "Reason の理由", "correct": "A" },
+      { "q": "radon はどんな種類の物質？", "A": "放射性の希ガス", "B": "金属", "C": "液体の酸", "D": "有機溶剤", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rangy",
+    "pron": "ˈreɪndʒi",
+    "kana": "レインジー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "range（歩き回る）＋ -y",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "描写"],
+    "meaning_main": "（人・動物が）手足が長くすらりとした・ひょろ長い",
+    "description": "rangy の意味・発音・例文・語源を解説。人や動物が「手足が長くすらりとした・ひょろ長い」体つきを表す描写語の使い方を分かりやすく紹介します。",
+    "keywords": ["rangy 意味", "rangy 発音", "ひょろ長い", "rangy 体つき"],
+    "meanings": [
+      { "hinshi": "【形容詞】手足が長くすらりとした・ひょろ長い", "note": "細長く、手足が長くて動きが軽そうな体つき。a rangy athlete（手足の長い選手）。" }
+    ],
+    "usages": [
+      { "title": "① 人について", "desc": "手足が長くすらりとした体つきを表します。", "example_en": "He was a tall, rangy young man.", "example_ja": "彼は背が高く手足の長い青年だった。" },
+      { "title": "② 動物について", "desc": "細長く動きの軽い体つきを表します。", "example_en": "The rangy dog leaped over the fence.", "example_ja": "その手足の長い犬は柵を跳び越えた。" }
+    ],
+    "warn": [
+      "rangy は『手足が長くすらりとした・ひょろ長い』。ふつう運動向きの軽快な体つきをほめる含みがある。",
+      "range（広く歩き回る）から、『広い範囲を動けそうな細長い体』のイメージ。"
+    ],
+    "etym_note": "range（広く歩き回る・及ぶ）に -y が付いた語で、「広く動き回れそうな（細長い）」が原義です。広い土地を駆け回る家畜のイメージから来ています。",
+    "etym_chain": [
+      { "node": "range", "sub": "歩き回る・及ぶ", "era": "中英語" },
+      { "node": "range + -y", "sub": "広く動き回れそうな", "era": "近代英語" },
+      { "node": "rangy", "sub": "手足の長い・ひょろ長い", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a tall, rangy man", "ja": "背が高く手足の長い男" },
+      { "en": "a rangy athlete", "ja": "手足の長い選手" },
+      { "en": "a rangy build", "ja": "ひょろ長い体格" },
+      { "en": "a rangy dog", "ja": "手足の長い犬" },
+      { "en": "lean and rangy", "ja": "やせて手足の長い" },
+      { "en": "a rangy figure", "ja": "すらりとした体つき" }
+    ],
+    "related": [
+      { "en": "lanky", "ja": "ひょろ長い" },
+      { "en": "lean", "ja": "やせた・引き締まった" },
+      { "en": "gangly", "ja": "ひょろっとした" },
+      { "en": "slender", "ja": "ほっそりした" }
+    ],
+    "faq": [
+      { "q": "rangy とはどんな意味？", "a": "人や動物が『手足が長くすらりとした・ひょろ長い』体つきであることを表す形容詞です。a rangy athlete（手足の長い選手）のように、軽快で動きのよさそうな体つきに使います。" },
+      { "q": "rangy と lanky の違いは？", "a": "どちらも『ひょろ長い』ですが、lanky は『（不格好なほど）ひょろっとした』、rangy は『手足が長く動きが軽そうな（しなやかな）』という肯定的な含みがあります。" }
+    ],
+    "quiz": [
+      { "q": "He was a tall, ___ young man.（手足の長い）", "A": "rangy", "B": "rainy の雨の", "C": "rusty のさびた", "D": "rocky の岩だらけの", "correct": "A" },
+      { "q": "rangy に近い意味はどれ？", "A": "lanky（ひょろ長い）", "B": "chubby（ぽっちゃりした）", "C": "stocky（がっしりした）", "D": "tiny（とても小さい）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "refresher",
+    "pron": "rɪˈfreʃər",
+    "kana": "リフレッシャー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "refresh（元気にする・思い出させる）＋ -er",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "教育・日常"],
+    "meaning_main": "復習（コース）・再教育講座／気分をさわやかにするもの",
+    "description": "refresher の意味・発音・例文・語源を解説。知識を呼び覚ます「復習・再教育講座（refresher course）」や、気分をさわやかにするものを指す語の使い方を紹介します。",
+    "keywords": ["refresher 意味", "refresher 発音", "復習", "refresher course 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】復習（コース）・再教育講座", "note": "学んだことを思い出し補強するための講座。a refresher course（再教育講座）。" },
+      { "hinshi": "【名詞】気分をさわやかにするもの", "note": "さっぱりさせる飲み物・休憩など。" }
+    ],
+    "usages": [
+      { "title": "① 復習・再教育として", "desc": "知識を呼び覚ます講座を指します。", "example_en": "She took a refresher course in first aid.", "example_ja": "彼女は応急手当の再教育講座を受けた。" },
+      { "title": "② 簡単なおさらいとして", "desc": "復習のための内容を指します。", "example_en": "Here's a quick refresher on the rules.", "example_ja": "ルールの手短なおさらいです。" }
+    ],
+    "warn": [
+      "refresher は『復習・再教育講座』が中心で、a refresher course（再教育講座）の形が頻出。refresh（元気にする・思い出させる）＋ -er。",
+      "『気分をさわやかにするもの（飲み物など）』の意味でも使う。"
+    ],
+    "etym_note": "動詞 refresh（re-「再び」＋ fresh「新鮮にする」＝元気にする・思い出させる）に「〜するもの」の -er が付いた語です。「記憶や気分を新たにするもの」を意味します。",
+    "etym_chain": [
+      { "node": "fresh", "sub": "新鮮な", "era": "中英語" },
+      { "node": "refresh", "sub": "元気にする・思い出させる", "era": "中英語" },
+      { "node": "refresher", "sub": "復習・気分転換", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a refresher course", "ja": "再教育講座" },
+      { "en": "a quick refresher", "ja": "手短なおさらい" },
+      { "en": "take a refresher", "ja": "復習する" },
+      { "en": "need a refresher", "ja": "おさらいが必要だ" },
+      { "en": "a refresher on the basics", "ja": "基礎の復習" },
+      { "en": "a refreshing drink", "ja": "さわやかな飲み物" }
+    ],
+    "related": [
+      { "en": "refresh", "ja": "元気にする・思い出させる" },
+      { "en": "review", "ja": "復習・見直し" },
+      { "en": "recap", "ja": "おさらい・要約" },
+      { "en": "retraining", "ja": "再訓練" }
+    ],
+    "faq": [
+      { "q": "refresher とはどんな意味？", "a": "学んだことを思い出し補強するための『復習・再教育講座』が中心の意味です。a refresher course（再教育講座）のように使います。『気分をさわやかにするもの』の意味もあります。" },
+      { "q": "a refresher course とは？", "a": "以前学んだ知識や技能を呼び覚まし、最新の内容に更新するための『再教育・復習講座』のことです。" }
+    ],
+    "quiz": [
+      { "q": "She took a ___ course in first aid.（再教育）", "A": "refresher", "B": "researcher の研究者", "C": "reformer の改革者", "D": "recruiter の採用担当", "correct": "A" },
+      { "q": "refresher のもとになった動詞はどれ？", "A": "refresh（元気にする・思い出させる）", "B": "research（研究する）", "C": "reform（改革する）", "D": "recruit（募集する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reproof",
+    "pron": "rɪˈpruːf",
+    "kana": "リプルーフ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 reprover（とがめる）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "文章語"],
+    "meaning_main": "叱責・非難・とがめの言葉",
+    "description": "reproof の意味・発音・例文・語源を解説。過ちをとがめる「叱責・非難・とがめの言葉」を表す、ややかたい文章語の使い方を分かりやすく紹介します。",
+    "keywords": ["reproof 意味", "reproof 発音", "叱責", "reprove 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】叱責・非難・とがめの言葉", "note": "過ちや欠点をとがめること・言葉。a word of reproof（とがめの一言）。動詞は reprove。" }
+    ],
+    "usages": [
+      { "title": "① 「叱責・とがめ」として", "desc": "過ちをとがめることを表します。", "example_en": "She gave him a gentle reproof.", "example_ja": "彼女は彼をやんわりとたしなめた。" },
+      { "title": "② 文語的な非難として", "desc": "改まったとがめを表します。", "example_en": "His words carried a note of reproof.", "example_ja": "彼の言葉にはとがめの調子があった。" }
+    ],
+    "warn": [
+      "reproof は『叱責・非難・とがめ（の言葉）』というかたい文章語。動詞は reprove（とがめる）。",
+      "proof（証拠）とは別語。reproach（非難）と近いがやや古風。"
+    ],
+    "etym_note": "古フランス語 reprover（とがめる、ラテン語 reprobare「拒否する・非難する」より）に由来します。reprove（とがめる）の名詞形で、「過ちを突きつけてとがめること」を意味します。",
+    "etym_chain": [
+      { "node": "reprobare", "sub": "拒否する・非難する", "era": "ラテン語" },
+      { "node": "reprove", "sub": "とがめる", "era": "中英語" },
+      { "node": "reproof", "sub": "叱責・非難", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a word of reproof", "ja": "とがめの一言" },
+      { "en": "a gentle reproof", "ja": "やんわりとした叱責" },
+      { "en": "a note of reproof", "ja": "とがめの調子" },
+      { "en": "a mild reproof", "ja": "軽いたしなめ" },
+      { "en": "deserve reproof", "ja": "叱責に値する" },
+      { "en": "without reproof", "ja": "とがめられることなく" }
+    ],
+    "related": [
+      { "en": "reprove", "ja": "とがめる" },
+      { "en": "reproach", "ja": "非難・とがめ" },
+      { "en": "rebuke", "ja": "叱責" },
+      { "en": "reprimand", "ja": "戒告・叱責" }
+    ],
+    "faq": [
+      { "q": "reproof とはどんな意味？", "a": "過ちや欠点をとがめること・言葉『叱責・非難・とがめ』を表すかたい文章語です。a word of reproof（とがめの一言）のように使います。動詞は reprove です。" },
+      { "q": "reproof と reproach の違いは？", "a": "どちらも『非難・とがめ』ですが、reproof は『（過ちを正そうとする）叱責』、reproach は『（失望をこめた）とがめ』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "She gave him a gentle ___.（叱責）", "A": "reproof", "B": "proof の証拠", "C": "roof の屋根", "D": "reprove の代わりに approve", "correct": "A" },
+      { "q": "reproof の動詞形はどれ？", "A": "reprove（とがめる）", "B": "prove（証明する）", "C": "approve（承認する）", "D": "improve（改善する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "repute",
+    "pron": "rɪˈpjuːt",
+    "kana": "リピュート",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 reputare（よく考える・みなす）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "文章語"],
+    "meaning_main": "評判・名声（世間の評価）",
+    "description": "repute の意味・発音・例文・語源を解説。世間での評価「評判・名声」を表す、ややかたい文章語の使い方を分かりやすく紹介します。",
+    "keywords": ["repute 意味", "repute 発音", "評判", "reputation 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】評判・名声", "note": "世間での評価。a place of ill repute（評判の悪い場所）。of good repute（評判のよい）。reputation のやや改まった語。" }
+    ],
+    "usages": [
+      { "title": "① 「評判・名声」として", "desc": "世間での評価を表します。", "example_en": "She is a scholar of high repute.", "example_ja": "彼女は高い評判の学者だ。" },
+      { "title": "② of ～ repute として", "desc": "「〜の評判の」を表します。", "example_en": "It was a hotel of ill repute.", "example_ja": "それは評判の悪いホテルだった。" }
+    ],
+    "warn": [
+      "repute は『評判・名声』を表すかたい文章語。日常では reputation が普通。of good / ill repute（評判のよい／悪い）が頻出。",
+      "形容詞 reputed（〜と評判の・〜とされる）も覚えておくとよい。"
+    ],
+    "etym_note": "ラテン語 reputare（re-「再び」＋ putare「考える・評価する」＝よく考える・みなす）に由来します。reputation（評判）と同じ語源で、compute（計算する）, dispute（論争）と同じ putare を語根にもちます。",
+    "etym_chain": [
+      { "node": "putare", "sub": "考える・評価する", "era": "ラテン語" },
+      { "node": "reputare", "sub": "よく考える・みなす", "era": "ラテン語" },
+      { "node": "repute", "sub": "評判・名声", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "of good repute", "ja": "評判のよい" },
+      { "en": "of ill repute", "ja": "評判の悪い" },
+      { "en": "a scholar of high repute", "ja": "高名な学者" },
+      { "en": "a house of ill repute", "ja": "いかがわしい家" },
+      { "en": "by repute", "ja": "評判では" },
+      { "en": "a person of repute", "ja": "名声のある人" }
+    ],
+    "related": [
+      { "en": "reputation", "ja": "評判" },
+      { "en": "reputed", "ja": "〜と評判の" },
+      { "en": "renown", "ja": "名声" },
+      { "en": "standing", "ja": "（社会的）地位・評判" }
+    ],
+    "faq": [
+      { "q": "repute とはどんな意味？", "a": "世間での評価『評判・名声』を表すかたい文章語です。of good repute（評判のよい）、of ill repute（評判の悪い）のように使います。日常では reputation が普通です。" },
+      { "q": "repute と reputation の違いは？", "a": "意味はほぼ同じ『評判』ですが、repute は文語的・改まった語、reputation が一般的な日常語です。" }
+    ],
+    "quiz": [
+      { "q": "She is a scholar of high ___.（評判）", "A": "repute", "B": "dispute の論争", "C": "compute の計算", "D": "salute の敬礼", "correct": "A" },
+      { "q": "of ill repute の意味はどれ？", "A": "評判の悪い", "B": "評判のよい", "C": "病気の", "D": "無名の", "correct": "A" }
+    ]
+  },
+  {
+    "english": "revue",
+    "pron": "rɪˈvjuː",
+    "kana": "レビュー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 revue（見直し・レビュー）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "演劇"],
+    "meaning_main": "レビュー（歌・踊り・寸劇・風刺を組み合わせた寄席演芸・ショー）",
+    "description": "revue の意味・発音・例文・語源を解説。歌・踊り・寸劇・時事風刺を組み合わせた舞台演芸「レビュー」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["revue 意味", "revue 発音", "レビュー 演芸", "revue ショー"],
+    "meanings": [
+      { "hinshi": "【名詞】レビュー（寄席演芸・ショー）", "note": "歌・踊り・寸劇・時事風刺などを次々に見せる軽い舞台演芸。a musical revue（音楽レビュー）。" }
+    ],
+    "usages": [
+      { "title": "① 舞台演芸として", "desc": "歌・踊り・寸劇のショーを指します。", "example_en": "They performed in a satirical revue.", "example_ja": "彼らは風刺レビューに出演した。" },
+      { "title": "② 音楽ショーとして", "desc": "華やかな舞台を表します。", "example_en": "The theater staged a musical revue.", "example_ja": "その劇場は音楽レビューを上演した。" }
+    ],
+    "warn": [
+      "revue は『歌・踊り・寸劇・風刺の舞台演芸（レビュー）』。批評・見直しの review（レビュー）と発音は同じだが別の語・つづり。",
+      "フランス語由来で、つづりは revue。"
+    ],
+    "etym_note": "フランス語 revue（見直し・閲兵・レビュー、revoir「再び見る」より）に由来します。review（見直し・批評）と同じ語源ですが、英語では『風刺を交えた舞台演芸』を指す語として使われます。",
+    "etym_chain": [
+      { "node": "revoir", "sub": "再び見る", "era": "フランス語" },
+      { "node": "revue", "sub": "見直し・レビュー", "era": "フランス語" },
+      { "node": "revue", "sub": "レビュー（演芸）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a musical revue", "ja": "音楽レビュー" },
+      { "en": "a satirical revue", "ja": "風刺レビュー" },
+      { "en": "perform in a revue", "ja": "レビューに出演する" },
+      { "en": "a comedy revue", "ja": "コメディーレビュー" },
+      { "en": "stage a revue", "ja": "レビューを上演する" },
+      { "en": "a star of the revue", "ja": "レビューのスター" }
+    ],
+    "related": [
+      { "en": "review", "ja": "批評・見直し（同音異義）" },
+      { "en": "variety show", "ja": "バラエティーショー" },
+      { "en": "cabaret", "ja": "キャバレー（演芸）" },
+      { "en": "musical", "ja": "ミュージカル" }
+    ],
+    "faq": [
+      { "q": "revue とはどんな意味？", "a": "歌・踊り・寸劇・時事風刺などを次々に見せる軽い舞台演芸『レビュー』のことです。a satirical revue（風刺レビュー）のように使います。" },
+      { "q": "revue と review の違いは？", "a": "発音は同じ『レビュー』ですが、revue は『（演芸の）レビュー（ショー）』、review は『批評・見直し・復習』で、つづりも意味も異なります。" }
+    ],
+    "quiz": [
+      { "q": "They performed in a satirical ___.（レビュー）", "A": "revue", "B": "review の批評", "C": "venue の会場", "D": "avenue の大通り", "correct": "A" },
+      { "q": "revue が指すのはどれ？", "A": "歌・踊り・風刺の舞台演芸", "B": "本の批評", "C": "試験の復習", "D": "経歴書", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reorder",
+    "pron": "riːˈɔːrdər",
+    "kana": "リオーダー",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ order（注文する・並べる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "ビジネス"],
+    "meaning_main": "再注文する・追加注文する／（順序を）並べ替える",
+    "description": "reorder の意味・発音・例文・語源を解説。商品を「再注文・追加注文する」こと、また順序を「並べ替える」ことを指す語の使い方を紹介します。",
+    "keywords": ["reorder 意味", "reorder 発音", "再注文", "order 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再注文する・追加注文する", "note": "在庫が減った商品などをもう一度注文する。reorder supplies（備品を追加注文する）。" },
+      { "hinshi": "【動詞】（順序を）並べ替える・組み替える", "note": "reorder the list（リストを並べ替える）。" }
+    ],
+    "usages": [
+      { "title": "① 「再注文」として", "desc": "もう一度注文することを表します。", "example_en": "We need to reorder ink for the printer.", "example_ja": "プリンターのインクを追加注文する必要がある。" },
+      { "title": "② 「並べ替える」として", "desc": "順序を組み替えることを表します。", "example_en": "You can reorder the items by dragging them.", "example_ja": "項目はドラッグして並べ替えられる。" }
+    ],
+    "warn": [
+      "reorder は『再注文・追加注文する』と『（順序を）並べ替える』。re-（再び）＋ order（注文・順序）。",
+      "在庫管理の reorder point（発注点）という用語もある。"
+    ],
+    "etym_note": "re-（再び）＋ order（注文する・並べる、ラテン語 ordo「順序」より）から成り、「もう一度注文する／並べ直す」を意味します。",
+    "etym_chain": [
+      { "node": "ordo", "sub": "順序", "era": "ラテン語" },
+      { "node": "order", "sub": "注文する・並べる", "era": "中英語" },
+      { "node": "reorder", "sub": "再注文する・並べ替える", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reorder supplies", "ja": "備品を追加注文する" },
+      { "en": "reorder the list", "ja": "リストを並べ替える" },
+      { "en": "easy to reorder", "ja": "再注文しやすい" },
+      { "en": "reorder point", "ja": "発注点（在庫管理）" },
+      { "en": "reorder the items", "ja": "項目を並べ替える" },
+      { "en": "place a reorder", "ja": "追加注文を出す" }
+    ],
+    "related": [
+      { "en": "order", "ja": "注文する・並べる" },
+      { "en": "restock", "ja": "在庫を補充する" },
+      { "en": "rearrange", "ja": "並べ替える" },
+      { "en": "resupply", "ja": "再補給する" }
+    ],
+    "faq": [
+      { "q": "reorder とはどんな意味？", "a": "在庫が減った商品などを『再注文・追加注文する』という意味と、項目の順序を『並べ替える』という意味があります。re-（再び）＋ order（注文・順序）から来ています。" },
+      { "q": "reorder point とは？", "a": "在庫管理で『この量まで在庫が減ったら追加注文する』という基準の在庫量『発注点』のことです。" }
+    ],
+    "quiz": [
+      { "q": "We need to ___ ink for the printer.（再注文する）", "A": "reorder", "B": "record の記録する", "C": "reform の改革する", "D": "report の報告する", "correct": "A" },
+      { "q": "reorder の意味に含まれないのはどれ？", "A": "破棄する", "B": "再注文する", "C": "追加注文する", "D": "並べ替える", "correct": "A" }
+    ]
+  },
+  {
+    "english": "resettlement",
+    "pron": "riːˈsetəlmənt",
+    "kana": "リセトルメント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ settlement（定住）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "社会・政治"],
+    "meaning_main": "（難民・住民などの）再定住・移住・移転",
+    "description": "resettlement の意味・発音・例文・語源を解説。難民や避難民、住民を別の土地に「再び住まわせること（再定住・移住・移転）」を指す語の使い方を紹介します。",
+    "keywords": ["resettlement 意味", "resettlement 発音", "再定住", "resettle 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再定住・移住・移転", "note": "難民・避難民・住民などを別の土地に移して住まわせること。refugee resettlement（難民の再定住）。" }
+    ],
+    "usages": [
+      { "title": "① 難民の再定住として", "desc": "別の土地に移して住まわせることを表します。", "example_en": "The agency assists with refugee resettlement.", "example_ja": "その機関は難民の再定住を支援している。" },
+      { "title": "② 住民の移転として", "desc": "ダム建設などに伴う移住を表します。", "example_en": "The dam project required the resettlement of villages.", "example_ja": "そのダム事業は村々の移転を必要とした。" }
+    ],
+    "warn": [
+      "resettlement は『（難民・住民の）再定住・移住・移転』。re-（再び）＋ settlement（定住）。動詞は resettle。",
+      "refugee resettlement（難民の再定住）が頻出。"
+    ],
+    "etym_note": "re-（再び）＋ settlement（定住・入植、settle「定住する」より）から成り、「（別の場所に）再び住み着かせること」を意味します。settle はラテン語起源ではなく古英語 setlan（落ち着かせる）に由来します。",
+    "etym_chain": [
+      { "node": "setlan", "sub": "落ち着かせる", "era": "古英語" },
+      { "node": "settlement", "sub": "定住・入植", "era": "近代英語" },
+      { "node": "resettlement", "sub": "再定住・移住", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "refugee resettlement", "ja": "難民の再定住" },
+      { "en": "a resettlement program", "ja": "再定住プログラム" },
+      { "en": "forced resettlement", "ja": "強制移住" },
+      { "en": "the resettlement of villages", "ja": "村々の移転" },
+      { "en": "assist with resettlement", "ja": "再定住を支援する" },
+      { "en": "a resettlement camp", "ja": "再定住キャンプ" }
+    ],
+    "related": [
+      { "en": "resettle", "ja": "再定住させる・移住させる" },
+      { "en": "relocation", "ja": "移転・移住" },
+      { "en": "migration", "ja": "移住・移動" },
+      { "en": "refugee", "ja": "難民" }
+    ],
+    "faq": [
+      { "q": "resettlement とはどんな意味？", "a": "難民・避難民・住民などを別の土地に移して住まわせること『再定住・移住・移転』のことです。refugee resettlement（難民の再定住）のように使います。動詞は resettle です。" },
+      { "q": "resettlement と relocation の違いは？", "a": "resettlement は特に『（難民・住民の）新たな土地への定住・移住』、relocation は『（会社・人の）移転』全般に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The agency assists with refugee ___.（再定住）", "A": "resettlement", "B": "settlement の定住", "C": "retirement の引退", "D": "requirement の要件", "correct": "A" },
+      { "q": "resettlement の動詞形はどれ？", "A": "resettle（再定住させる）", "B": "settle（定住する）", "C": "retire（引退する）", "D": "require（必要とする）", "correct": "A" }
+    ]
+  }
+]
