@@ -1,0 +1,474 @@
+[
+  {
+    "english": "recipient",
+    "pron": "rɪˈsɪpiənt",
+    "kana": "リシピエント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 recipere（受け取る）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "受け取る人・受領者／（賞・移植などの）受賞者・受容者",
+    "description": "recipient の意味・発音・例文・語源を解説。手紙・賞・援助・臓器などを「受け取る人・受領者」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["recipient 意味", "recipient 発音", "recipient 受領者", "receive 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】受け取る人・受領者", "note": "何かを受け取る人。the recipient of the letter（手紙の受取人）。賞・援助・臓器の受け手にも使う。" }
+    ],
+    "usages": [
+      { "title": "① 受取人として", "desc": "何かを受け取る人を指します。", "example_en": "She was the recipient of the award.", "example_ja": "彼女はその賞の受賞者だった。" },
+      { "title": "② 援助・移植の受け手として", "desc": "援助や臓器を受ける人を表します。", "example_en": "The organ recipient recovered well.", "example_ja": "臓器移植を受けた患者は順調に回復した。" }
+    ],
+    "warn": [
+      "recipient は『受け取る人・受領者』。動詞は receive（受け取る）。送る側は sender。",
+      "賞（award）・援助（aid）・臓器（organ）の受け手にも広く使う。"
+    ],
+    "etym_note": "ラテン語 recipere（re-「再び」＋ capere「取る」＝受け取る）の現在分詞 recipiens に由来します。receive（受け取る）, receipt（領収書）と同じ capere を語根にもちます。",
+    "etym_chain": [
+      { "node": "capere", "sub": "取る", "era": "ラテン語" },
+      { "node": "recipere", "sub": "受け取る", "era": "ラテン語" },
+      { "node": "recipient", "sub": "受け取る人", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the recipient of the award", "ja": "その賞の受賞者" },
+      { "en": "an organ recipient", "ja": "臓器移植を受ける人" },
+      { "en": "the intended recipient", "ja": "本来の受取人" },
+      { "en": "aid recipients", "ja": "援助を受ける人々" },
+      { "en": "a worthy recipient", "ja": "ふさわしい受賞者" },
+      { "en": "the recipient of the email", "ja": "メールの受取人" }
+    ],
+    "related": [
+      { "en": "receive", "ja": "受け取る" },
+      { "en": "receiver", "ja": "受け取る人・受信機" },
+      { "en": "beneficiary", "ja": "受益者" },
+      { "en": "sender", "ja": "送り主（反対語）" }
+    ],
+    "faq": [
+      { "q": "recipient とはどんな意味？", "a": "手紙・賞・援助・臓器などを『受け取る人・受領者』のことです。the recipient of the award（その賞の受賞者）のように使います。動詞は receive です。" },
+      { "q": "recipient と receiver の違いは？", "a": "recipient は『（賞・援助などを）受け取る人』を表す改まった語、receiver は『受け取る人』全般や『受信機』も指します。" }
+    ],
+    "quiz": [
+      { "q": "She was the ___ of the award.（受賞者）", "A": "recipient", "B": "resident の住人", "C": "recruit の新人", "D": "reception の受付", "correct": "A" },
+      { "q": "recipient のもとになった動詞はどれ？", "A": "receive（受け取る）", "B": "reside（住む）", "C": "recruit（募集する）", "D": "recover（回復する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retaliation",
+    "pron": "rɪˌtæliˈeɪʃən",
+    "kana": "リタリエーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 retaliare（同じだけ返す）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "報復・仕返し・報復措置",
+    "description": "retaliation の意味・発音・例文・語源を解説。攻撃や仕打ちに対する「報復・仕返し・報復措置」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["retaliation 意味", "retaliation 発音", "retaliation 報復", "retaliate 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】報復・仕返し・報復措置", "note": "受けた攻撃・仕打ちに対して同じように返すこと。in retaliation for（〜への報復として）。" }
+    ],
+    "usages": [
+      { "title": "① 「報復」として", "desc": "攻撃への仕返しを表します。", "example_en": "The attack was in retaliation for the bombing.", "example_ja": "その攻撃は爆撃への報復だった。" },
+      { "title": "② 「報復措置」として", "desc": "対抗措置を表します。", "example_en": "They feared economic retaliation.", "example_ja": "彼らは経済的な報復措置を恐れた。" }
+    ],
+    "warn": [
+      "retaliation は『報復・仕返し・報復措置』。動詞は retaliate。in retaliation for ～（〜への報復として）が頻出。",
+      "貿易・軍事・人間関係など幅広く使う。"
+    ],
+    "etym_note": "ラテン語 retaliare（re-「返して」＋ talis「同じような」＝同じだけ返す）に由来します。「受けたのと同じだけ返すこと」を意味します。",
+    "etym_chain": [
+      { "node": "talis", "sub": "同じような", "era": "ラテン語" },
+      { "node": "retaliare", "sub": "同じだけ返す", "era": "ラテン語" },
+      { "node": "retaliation", "sub": "報復", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "in retaliation for", "ja": "〜への報復として" },
+      { "en": "fear retaliation", "ja": "報復を恐れる" },
+      { "en": "economic retaliation", "ja": "経済的報復" },
+      { "en": "swift retaliation", "ja": "素早い報復" },
+      { "en": "an act of retaliation", "ja": "報復行為" },
+      { "en": "retaliation against", "ja": "〜への報復" }
+    ],
+    "related": [
+      { "en": "retaliate", "ja": "報復する" },
+      { "en": "revenge", "ja": "復讐" },
+      { "en": "reprisal", "ja": "報復・仕返し" },
+      { "en": "vengeance", "ja": "復讐" }
+    ],
+    "faq": [
+      { "q": "retaliation とはどんな意味？", "a": "受けた攻撃・仕打ちに対して同じように返すこと『報復・仕返し・報復措置』です。in retaliation for（〜への報復として）のように使います。動詞は retaliate です。" },
+      { "q": "retaliation と revenge の違いは？", "a": "revenge は『（個人的な恨みからの）復讐』、retaliation は『（攻撃・仕打ちへの）対抗的な報復・報復措置』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The attack was in ___ for the bombing.（報復）", "A": "retaliation", "B": "relaxation の息抜き", "C": "reputation の評判", "D": "relocation の移転", "correct": "A" },
+      { "q": "retaliation の動詞形はどれ？", "A": "retaliate（報復する）", "B": "relax（くつろぐ）", "C": "relocate（移転する）", "D": "relate（関係する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reminiscence",
+    "pron": "ˌremɪˈnɪsəns",
+    "kana": "レミニセンス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 reminisci（思い出す）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "思い出・回想／（複数形で）思い出話・回顧録",
+    "description": "reminiscence の意味・発音・例文・語源を解説。過去を懐かしく思い起こす「思い出・回想」、また語られる「思い出話・回顧録」を指す語の使い方を紹介します。",
+    "keywords": ["reminiscence 意味", "reminiscence 発音", "reminiscence 回想", "reminisce 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】思い出・回想", "note": "過去を懐かしく思い起こすこと、その記憶。a moment of reminiscence（回想のひととき）。" },
+      { "hinshi": "【名詞】（複数形 reminiscences で）思い出話・回顧録", "note": "語ったり書いたりした思い出。share reminiscences（思い出話をする）。" }
+    ],
+    "usages": [
+      { "title": "① 「回想」として", "desc": "過去を懐かしむことを表します。", "example_en": "The photo album sparked reminiscence.", "example_ja": "そのアルバムは回想を呼び起こした。" },
+      { "title": "② 「思い出話」として", "desc": "語られる思い出を表します。", "example_en": "He shared reminiscences of his youth.", "example_ja": "彼は若いころの思い出話をした。" }
+    ],
+    "warn": [
+      "reminiscence は『思い出・回想』、複数形 reminiscences は『思い出話・回顧録』。動詞は reminisce（思い出にふける）。",
+      "発音は『レミニセンス（ˌremɪˈnɪsəns）』。"
+    ],
+    "etym_note": "ラテン語 reminisci（re-「再び」＋ -minisci「心に思う」＝思い出す）に由来します。memory（記憶）, mind（心）と語源的につながり、「心に思い起こすこと」を意味します。",
+    "etym_chain": [
+      { "node": "reminisci", "sub": "思い出す", "era": "ラテン語" },
+      { "node": "reminisce", "sub": "思い出にふける", "era": "近代英語" },
+      { "node": "reminiscence", "sub": "思い出・回想", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a moment of reminiscence", "ja": "回想のひととき" },
+      { "en": "share reminiscences", "ja": "思い出話をする" },
+      { "en": "fond reminiscences", "ja": "懐かしい思い出" },
+      { "en": "lost in reminiscence", "ja": "回想にふけって" },
+      { "en": "childhood reminiscences", "ja": "子ども時代の思い出話" },
+      { "en": "personal reminiscences", "ja": "個人的な回想" }
+    ],
+    "related": [
+      { "en": "reminisce", "ja": "思い出にふける" },
+      { "en": "recollection", "ja": "回想・記憶" },
+      { "en": "memoir", "ja": "回顧録" },
+      { "en": "nostalgia", "ja": "郷愁" }
+    ],
+    "faq": [
+      { "q": "reminiscence とはどんな意味？", "a": "過去を懐かしく思い起こす『思い出・回想』のことです。複数形 reminiscences は語られる『思い出話・回顧録』を指します。動詞は reminisce です。" },
+      { "q": "reminiscence と recollection の違いは？", "a": "recollection は『（事実を）思い出すこと・記憶』、reminiscence は『（懐かしく）思い出にふけること・思い出話』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "He shared ___s of his youth.（思い出話）", "A": "reminiscence", "B": "resemblance の類似", "C": "remembrance の追悼", "D": "reluctance の気乗りのなさ", "correct": "A" },
+      { "q": "reminiscence の動詞形はどれ？", "A": "reminisce（思い出にふける）", "B": "resemble（似ている）", "C": "remember の代わりに remind", "D": "remain（残る）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "remuneration",
+    "pron": "rɪˌmjuːnəˈreɪʃən",
+    "kana": "リミューナレーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 remunerari（報いる）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "ビジネス"],
+    "meaning_main": "報酬・給与・報い（働きに対して支払われるお金）",
+    "description": "remuneration の意味・発音・例文・語源を解説。働きやサービスに対して支払われる「報酬・給与」を指す、かたいビジネスの語の使い方を紹介します。",
+    "keywords": ["remuneration 意味", "remuneration 発音", "remuneration 報酬", "remunerate 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】報酬・給与・報い", "note": "仕事やサービスに対して支払われるお金。fair remuneration（公正な報酬）。改まった語。" }
+    ],
+    "usages": [
+      { "title": "① 「報酬・給与」として", "desc": "働きへの支払いを表します。", "example_en": "The job offers generous remuneration.", "example_ja": "その仕事は手厚い報酬を提供する。" },
+      { "title": "② 契約・公式文書で", "desc": "正式な報酬を表します。", "example_en": "Remuneration will be based on experience.", "example_ja": "報酬は経験に基づいて決まる。" }
+    ],
+    "warn": [
+      "remuneration は『報酬・給与』を表す改まった語。日常では pay / salary が普通。動詞は remunerate。",
+      "つづり注意：renumeration（誤り）ではなく remuneration。"
+    ],
+    "etym_note": "ラテン語 remunerari（re-「返して」＋ munus「贈り物・務め」＝報いる）に由来します。「働きに対して返礼として支払うこと」を意味します。",
+    "etym_chain": [
+      { "node": "munus", "sub": "贈り物・務め", "era": "ラテン語" },
+      { "node": "remunerari", "sub": "報いる", "era": "ラテン語" },
+      { "node": "remuneration", "sub": "報酬・給与", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "fair remuneration", "ja": "公正な報酬" },
+      { "en": "generous remuneration", "ja": "手厚い報酬" },
+      { "en": "remuneration package", "ja": "報酬一式・待遇" },
+      { "en": "adequate remuneration", "ja": "十分な報酬" },
+      { "en": "remuneration for services", "ja": "サービスへの報酬" },
+      { "en": "annual remuneration", "ja": "年間報酬" }
+    ],
+    "related": [
+      { "en": "remunerate", "ja": "報いる・報酬を払う" },
+      { "en": "salary", "ja": "給料" },
+      { "en": "compensation", "ja": "報酬・補償" },
+      { "en": "payment", "ja": "支払い" }
+    ],
+    "faq": [
+      { "q": "remuneration とはどんな意味？", "a": "仕事やサービスに対して支払われるお金『報酬・給与』を表す改まった語です。fair remuneration（公正な報酬）のように使います。動詞は remunerate です。" },
+      { "q": "remuneration と salary の違いは？", "a": "salary は『（定期的な）給料』、remuneration は『報酬全般（給与・手当・特典などを含む）』を表す改まった語です。" }
+    ],
+    "quiz": [
+      { "q": "The job offers generous ___.（報酬）", "A": "remuneration", "B": "renovation の改装", "C": "reservation の予約", "D": "registration の登録", "correct": "A" },
+      { "q": "remuneration の動詞形はどれ？", "A": "remunerate（報酬を払う）", "B": "renovate（改修する）", "C": "reserve（予約する）", "D": "register（登録する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "resurrection",
+    "pron": "ˌrezəˈrekʃən",
+    "kana": "レザレクション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 resurgere（再び起き上がる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "宗教・頻出語"],
+    "meaning_main": "復活・よみがえり／（衰えたものの）再興・復興",
+    "description": "resurrection の意味・発音・例文・語源を解説。死からの「復活・よみがえり」、また衰えたものの「再興・復活」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["resurrection 意味", "resurrection 発音", "復活", "resurrect 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】復活・よみがえり", "note": "死んだものが再び生き返ること。キリスト教では the Resurrection でキリストの復活。" },
+      { "hinshi": "【名詞】（衰えたものの）再興・復活", "note": "すたれたものが再び盛んになること。the resurrection of an old custom（古い習慣の復活）。" }
+    ],
+    "usages": [
+      { "title": "① 「復活・よみがえり」として", "desc": "死から生き返ることを表します。", "example_en": "The story tells of death and resurrection.", "example_ja": "その物語は死と復活を語る。" },
+      { "title": "② 「再興・復活」として", "desc": "衰えたものが盛り返すことを表します。", "example_en": "We saw the resurrection of the local economy.", "example_ja": "私たちは地元経済の復活を目にした。" }
+    ],
+    "warn": [
+      "resurrection は『（死からの）復活・よみがえり』が中心で、宗教では the Resurrection（キリストの復活）。動詞は resurrect。",
+      "比喩で『（衰えたものの）再興・復活』にも使う。"
+    ],
+    "etym_note": "ラテン語 resurgere（re-「再び」＋ surgere「立ち上がる」＝再び起き上がる）の名詞形 resurrectio に由来します。surge（うねり上がる）, resurgence（再起）と同じ語根です。",
+    "etym_chain": [
+      { "node": "surgere", "sub": "立ち上がる", "era": "ラテン語" },
+      { "node": "resurgere", "sub": "再び起き上がる", "era": "ラテン語" },
+      { "node": "resurrection", "sub": "復活", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "death and resurrection", "ja": "死と復活" },
+      { "en": "the Resurrection", "ja": "（キリストの）復活" },
+      { "en": "a remarkable resurrection", "ja": "目覚ましい復活" },
+      { "en": "the resurrection of", "ja": "〜の復活" },
+      { "en": "a political resurrection", "ja": "政治的な再起" },
+      { "en": "hope of resurrection", "ja": "復活の希望" }
+    ],
+    "related": [
+      { "en": "resurrect", "ja": "復活させる" },
+      { "en": "revival", "ja": "復活・再生" },
+      { "en": "resurgence", "ja": "再起・復活" },
+      { "en": "rebirth", "ja": "再生" }
+    ],
+    "faq": [
+      { "q": "resurrection とはどんな意味？", "a": "死んだものが再び生き返る『復活・よみがえり』が中心の意味です。キリスト教では the Resurrection（キリストの復活）。比喩で衰えたものの『再興・復活』も表します。動詞は resurrect です。" },
+      { "q": "resurrection と revival の違いは？", "a": "resurrection は『（死からの）復活・よみがえり』、revival は『（衰えたものの）復活・再流行』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The story tells of death and ___.（復活）", "A": "resurrection", "B": "reflection の反射", "C": "selection の選択", "D": "correction の訂正", "correct": "A" },
+      { "q": "resurrection の動詞形はどれ？", "A": "resurrect（復活させる）", "B": "reflect（反射する）", "C": "select（選ぶ）", "D": "correct（訂正する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "resumption",
+    "pron": "rɪˈzʌmpʃən",
+    "kana": "リザンプション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 resumere（再び取り上げる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "再開（中断していたものをまた始めること）",
+    "description": "resumption の意味・発音・例文・語源を解説。中断していた活動や交渉などを「再び始めること（再開）」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["resumption 意味", "resumption 発音", "resumption 再開", "resume 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再開", "note": "中断していたものをまた始めること。the resumption of talks（交渉の再開）。動詞 resume の名詞形。" }
+    ],
+    "usages": [
+      { "title": "① 交渉・活動の再開として", "desc": "中断したものを再び始めることを表します。", "example_en": "Both sides agreed to the resumption of talks.", "example_ja": "双方は交渉の再開に合意した。" },
+      { "title": "② 業務・運行の再開として", "desc": "止まっていたものの再始動を表します。", "example_en": "The resumption of service was delayed.", "example_ja": "運行の再開は遅れた。" }
+    ],
+    "warn": [
+      "resumption は『（中断していたものの）再開』。動詞は resume（再開する）。the resumption of ～（〜の再開）が頻出。",
+      "履歴書の résumé（レジュメ）とは別語。"
+    ],
+    "etym_note": "ラテン語 resumere（re-「再び」＋ sumere「取る」＝再び取り上げる）の名詞形 resumptio に由来します。resume（再開する）, assume（引き受ける）と同じ sumere を語根にもちます。",
+    "etym_chain": [
+      { "node": "sumere", "sub": "取る", "era": "ラテン語" },
+      { "node": "resumere", "sub": "再び取り上げる", "era": "ラテン語" },
+      { "node": "resumption", "sub": "再開", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the resumption of talks", "ja": "交渉の再開" },
+      { "en": "the resumption of service", "ja": "運行・業務の再開" },
+      { "en": "agree to the resumption", "ja": "再開に合意する" },
+      { "en": "a swift resumption", "ja": "速やかな再開" },
+      { "en": "the resumption of trade", "ja": "貿易の再開" },
+      { "en": "await resumption", "ja": "再開を待つ" }
+    ],
+    "related": [
+      { "en": "resume", "ja": "再開する" },
+      { "en": "restart", "ja": "再び始める" },
+      { "en": "continuation", "ja": "継続" },
+      { "en": "suspension", "ja": "中断（反対語）" }
+    ],
+    "faq": [
+      { "q": "resumption とはどんな意味？", "a": "中断していた活動・交渉・運行などを『再び始めること（再開）』です。the resumption of talks（交渉の再開）のように使います。動詞は resume です。" },
+      { "q": "resumption と suspension の違いは？", "a": "resumption は『再開（また始めること）』、suspension は『中断（一時的に止めること）』で、反対の意味です。" }
+    ],
+    "quiz": [
+      { "q": "Both sides agreed to the ___ of talks.（再開）", "A": "resumption", "B": "assumption の仮定", "C": "consumption の消費", "D": "presumption の推定", "correct": "A" },
+      { "q": "resumption の動詞形はどれ？", "A": "resume（再開する）", "B": "assume（仮定する）", "C": "consume（消費する）", "D": "presume（推定する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "repatriation",
+    "pron": "riːˌpeɪtriˈeɪʃən",
+    "kana": "リパトリエーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "後期ラテン語 repatriare（祖国へ帰す）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "社会・政治"],
+    "meaning_main": "（祖国への）送還・帰還／（資金などの）本国送金・回収",
+    "description": "repatriation の意味・発音・例文・語源を解説。難民・捕虜・遺骨などの「祖国への送還・帰還」、また資金の「本国送金」を指す語の使い方を紹介します。",
+    "keywords": ["repatriation 意味", "repatriation 発音", "repatriation 送還", "repatriate 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】（祖国への）送還・帰還", "note": "難民・捕虜・遺骨などを母国へ帰すこと。the repatriation of refugees（難民の送還）。" },
+      { "hinshi": "【名詞】（資金・利益の）本国送金・回収", "note": "海外の資金を自国へ戻すこと。" }
+    ],
+    "usages": [
+      { "title": "① 「送還・帰還」として", "desc": "母国へ帰すことを表します。", "example_en": "The repatriation of refugees began last month.", "example_ja": "難民の送還は先月始まった。" },
+      { "title": "② 「本国送金」として", "desc": "海外の資金を戻すことを表します。", "example_en": "The repatriation of profits is taxed.", "example_ja": "利益の本国送金には税がかかる。" }
+    ],
+    "warn": [
+      "repatriation は『（祖国への）送還・帰還』が中心。経済では『（資金・利益の）本国送金』。動詞は repatriate。",
+      "patriot（愛国者）, patriotism（愛国心）と同じ語根 patria（祖国）。"
+    ],
+    "etym_note": "後期ラテン語 repatriare（re-「戻して」＋ patria「祖国」＝祖国へ帰す）に由来します。patriot（愛国者）と同じ patria を語根にもち、「祖国へ戻すこと」を意味します。",
+    "etym_chain": [
+      { "node": "patria", "sub": "祖国", "era": "ラテン語" },
+      { "node": "repatriare", "sub": "祖国へ帰す", "era": "後期ラテン語" },
+      { "node": "repatriation", "sub": "送還・帰還", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the repatriation of refugees", "ja": "難民の送還" },
+      { "en": "voluntary repatriation", "ja": "自発的帰還" },
+      { "en": "repatriation of prisoners", "ja": "捕虜の送還" },
+      { "en": "repatriation of remains", "ja": "遺骨の返還" },
+      { "en": "profit repatriation", "ja": "利益の本国送金" },
+      { "en": "forced repatriation", "ja": "強制送還" }
+    ],
+    "related": [
+      { "en": "repatriate", "ja": "送還する・帰国させる" },
+      { "en": "deportation", "ja": "国外追放" },
+      { "en": "return", "ja": "帰還" },
+      { "en": "homeland", "ja": "祖国" }
+    ],
+    "faq": [
+      { "q": "repatriation とはどんな意味？", "a": "難民・捕虜・遺骨などを母国へ帰すこと『（祖国への）送還・帰還』が中心の意味です。経済では海外資金の『本国送金』も表します。動詞は repatriate です。" },
+      { "q": "repatriation と deportation の違いは？", "a": "repatriation は『（多くは合意・保護のもとでの）祖国への送還・帰還』、deportation は『（違法滞在者などの）強制的な国外追放』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The ___ of refugees began last month.（送還）", "A": "repatriation", "B": "reparation の賠償", "C": "respiration の呼吸", "D": "reputation の評判", "correct": "A" },
+      { "q": "repatriation の語根 patria の意味はどれ？", "A": "祖国", "B": "海", "C": "都市", "D": "道", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rejuvenation",
+    "pron": "rɪˌdʒuːvəˈneɪʃən",
+    "kana": "リジュビネーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ ラテン語 juvenis（若い）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "若返り・活性化・再生（再び若々しく元気にすること）",
+    "description": "rejuvenation の意味・発音・例文・語源を解説。心身の「若返り」や、組織・地域の「活性化・再生」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["rejuvenation 意味", "rejuvenation 発音", "若返り", "rejuvenate 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】若返り・活性化・再生", "note": "再び若々しく・元気にすること。skin rejuvenation（肌の若返り）、urban rejuvenation（都市の活性化）。" }
+    ],
+    "usages": [
+      { "title": "① 「若返り」として", "desc": "再び若々しくすることを表します。", "example_en": "The spa offers skin rejuvenation treatments.", "example_ja": "そのスパは肌の若返り施術を提供する。" },
+      { "title": "② 「活性化・再生」として", "desc": "組織や地域を元気にすることを表します。", "example_en": "The project aims at urban rejuvenation.", "example_ja": "その事業は都市の活性化を目指している。" }
+    ],
+    "warn": [
+      "rejuvenation は『若返り・活性化・再生』。動詞は rejuvenate。re-（再び）＋ juvenis（若い）。",
+      "juvenile（若者の）, junior（年下の）と同じ語根 juvenis。"
+    ],
+    "etym_note": "re-（再び）＋ ラテン語 juvenis（若い）＋ -ate から成る rejuvenate（若返らせる）の名詞形です。「再び若くすること」を意味します。juvenile（少年の）と同じ語根です。",
+    "etym_chain": [
+      { "node": "juvenis", "sub": "若い", "era": "ラテン語" },
+      { "node": "rejuvenate", "sub": "若返らせる", "era": "近代英語" },
+      { "node": "rejuvenation", "sub": "若返り・活性化", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "skin rejuvenation", "ja": "肌の若返り" },
+      { "en": "urban rejuvenation", "ja": "都市の活性化" },
+      { "en": "a sense of rejuvenation", "ja": "若返ったような感覚" },
+      { "en": "economic rejuvenation", "ja": "経済の活性化" },
+      { "en": "physical rejuvenation", "ja": "体の若返り" },
+      { "en": "rejuvenation of the team", "ja": "チームの再生" }
+    ],
+    "related": [
+      { "en": "rejuvenate", "ja": "若返らせる・活気づける" },
+      { "en": "revival", "ja": "復活・再生" },
+      { "en": "renewal", "ja": "再生・更新" },
+      { "en": "regeneration", "ja": "再生" }
+    ],
+    "faq": [
+      { "q": "rejuvenation とはどんな意味？", "a": "心身を再び若々しく元気にする『若返り』、また組織・地域を再び活気づける『活性化・再生』のことです。skin rejuvenation（肌の若返り）のように使います。動詞は rejuvenate です。" },
+      { "q": "rejuvenation の語源は？", "a": "re-（再び）＋ ラテン語 juvenis（若い）です。『再び若くすること』を意味し、juvenile（少年の）と同じ語根です。" }
+    ],
+    "quiz": [
+      { "q": "The spa offers skin ___ treatments.（若返り）", "A": "rejuvenation", "B": "reservation の予約", "C": "renovation の改装", "D": "relaxation の息抜き", "correct": "A" },
+      { "q": "rejuvenation の語根 juvenis の意味はどれ？", "A": "若い", "B": "古い", "C": "強い", "D": "速い", "correct": "A" }
+    ]
+  },
+  {
+    "english": "remission",
+    "pron": "rɪˈmɪʃən",
+    "kana": "リミッション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 remittere（送り返す・緩める）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "医療・頻出語"],
+    "meaning_main": "（病気の）寛解・小康／（罪・借金の）免除・減免",
+    "description": "remission の意味・発音・例文・語源を解説。病気の症状が和らぐ「寛解・小康」、また罪や借金の「免除・減免」を指す語の使い方を紹介します。",
+    "keywords": ["remission 意味", "remission 発音", "寛解", "remit 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】（病気の）寛解・小康", "note": "病気の症状が一時的に・長期に和らぐこと。in remission（寛解状態で）。" },
+      { "hinshi": "【名詞】（罪・借金・刑期の）免除・減免", "note": "義務や罰を許す・軽くすること。remission of a debt（借金の免除）。" }
+    ],
+    "usages": [
+      { "title": "① 「寛解・小康」として", "desc": "病気の症状が和らぐことを表します。", "example_en": "Her cancer is now in remission.", "example_ja": "彼女のがんは今は寛解状態にある。" },
+      { "title": "② 「免除・減免」として", "desc": "罪や借金を許すことを表します。", "example_en": "He was granted remission of his sentence.", "example_ja": "彼は刑期の減免を認められた。" }
+    ],
+    "warn": [
+      "remission は医療で『（病気の）寛解・小康』が頻出。また罪・借金・刑期の『免除・減免』も表す。動詞は remit。",
+      "in remission（寛解状態で）が定番。完治（cure）とは違い、症状がおさまった状態。"
+    ],
+    "etym_note": "ラテン語 remittere（re-「戻して」＋ mittere「送る」＝送り返す・緩める）の名詞形 remissio に由来します。「（症状・罰を）緩めること」を意味します。mission（使命）, transmit（送る）と同じ mittere を語根にもちます。",
+    "etym_chain": [
+      { "node": "mittere", "sub": "送る", "era": "ラテン語" },
+      { "node": "remittere", "sub": "送り返す・緩める", "era": "ラテン語" },
+      { "node": "remission", "sub": "寛解・免除", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "in remission", "ja": "寛解状態で" },
+      { "en": "go into remission", "ja": "寛解する" },
+      { "en": "complete remission", "ja": "完全寛解" },
+      { "en": "remission of a debt", "ja": "借金の免除" },
+      { "en": "remission of sins", "ja": "罪の赦し" },
+      { "en": "remission of a sentence", "ja": "刑期の減免" }
+    ],
+    "related": [
+      { "en": "remit", "ja": "送金する・免除する" },
+      { "en": "recovery", "ja": "回復" },
+      { "en": "relief", "ja": "軽減・緩和" },
+      { "en": "pardon", "ja": "赦免" }
+    ],
+    "faq": [
+      { "q": "remission とはどんな意味？", "a": "病気の症状が一時的・長期に和らぐ『寛解・小康』という医療の意味と、罪・借金・刑期の『免除・減免』という意味があります。in remission（寛解状態で）のように使います。動詞は remit です。" },
+      { "q": "remission と cure の違いは？", "a": "cure は『完治（病気が治ること）』、remission は『（完治ではないが）症状がおさまっている寛解状態』を指します。" }
+    ],
+    "quiz": [
+      { "q": "Her cancer is now in ___.（寛解）", "A": "remission", "B": "emission の排出", "C": "permission の許可", "D": "commission の委託", "correct": "A" },
+      { "q": "in remission の意味はどれ？", "A": "（病気が）寛解状態で", "B": "完全に治って", "C": "悪化して", "D": "検査中で", "correct": "A" }
+    ]
+  }
+]
