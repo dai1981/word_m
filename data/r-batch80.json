@@ -1,0 +1,473 @@
+[
+  {
+    "english": "restoration",
+    "pron": "ˌrestəˈreɪʃən",
+    "kana": "レストレーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 restaurare（元に戻す）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "（建物・美術品の）修復・復元／（秩序・権利の）回復・復活",
+    "description": "restoration の意味・発音・例文・語源を解説。古い建物や絵画の「修復・復元」、また秩序や権利の「回復・復活」を指す語の使い方を紹介します。",
+    "keywords": ["restoration 意味", "restoration 発音", "restoration 修復", "restore 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】修復・復元", "note": "古い・傷んだものを元の状態に戻すこと。the restoration of a painting（絵画の修復）。" },
+      { "hinshi": "【名詞】（秩序・権利の）回復・復活", "note": "失われたものを取り戻すこと。the restoration of order（秩序の回復）。" }
+    ],
+    "usages": [
+      { "title": "① 「修復・復元」として", "desc": "傷んだものを元に戻すことを表します。", "example_en": "The castle is under restoration.", "example_ja": "その城は修復中だ。" },
+      { "title": "② 「回復・復活」として", "desc": "秩序や権利を取り戻すことを表します。", "example_en": "People hoped for the restoration of peace.", "example_ja": "人々は平和の回復を望んだ。" }
+    ],
+    "warn": [
+      "restoration は『（建物・美術品の）修復・復元』と『（秩序・権利の）回復・復活』。動詞は restore。",
+      "歴史で the Restoration は『王政復古』を指すことがある。"
+    ],
+    "etym_note": "ラテン語 restaurare（re-「再び」＋ staurare「立てる・整える」＝元に戻す）に由来します。restore（修復する・回復する）と同じ語源で、store（蓄える）とも関係します。",
+    "etym_chain": [
+      { "node": "restaurare", "sub": "元に戻す", "era": "ラテン語" },
+      { "node": "restore", "sub": "修復する・回復する", "era": "中英語" },
+      { "node": "restoration", "sub": "修復・回復", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "under restoration", "ja": "修復中で" },
+      { "en": "the restoration of order", "ja": "秩序の回復" },
+      { "en": "art restoration", "ja": "美術品の修復" },
+      { "en": "restoration work", "ja": "修復作業" },
+      { "en": "the restoration of power", "ja": "権力の回復" },
+      { "en": "careful restoration", "ja": "丁寧な復元" }
+    ],
+    "related": [
+      { "en": "restore", "ja": "修復する・回復する" },
+      { "en": "renovation", "ja": "改修" },
+      { "en": "repair", "ja": "修理" },
+      { "en": "recovery", "ja": "回復" }
+    ],
+    "faq": [
+      { "q": "restoration とはどんな意味？", "a": "古い・傷んだ建物や美術品を元に戻す『修復・復元』という意味と、秩序や権利を取り戻す『回復・復活』という意味があります。動詞は restore です。" },
+      { "q": "restoration と renovation の違いは？", "a": "restoration は『元の状態に忠実に戻す（修復・復元）』、renovation は『（新しくして）改修・刷新する』ことに重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The castle is under ___.（修復）", "A": "restoration", "B": "registration の登録", "C": "reservation の予約", "D": "recreation の娯楽", "correct": "A" },
+      { "q": "restoration の動詞形はどれ？", "A": "restore（修復する）", "B": "register（登録する）", "C": "reserve（予約する）", "D": "recreate（再現する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retention",
+    "pron": "rɪˈtenʃən",
+    "kana": "リテンション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 retinere（保持する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "保持・維持・保有／（記憶の）保持・定着／（体内の）貯留",
+    "description": "retention の意味・発音・例文・語源を解説。何かを「保持・維持すること」、記憶の「定着」、また体内の水分などの「貯留」を指す語の使い方を紹介します。",
+    "keywords": ["retention 意味", "retention 発音", "retention 保持", "retain 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】保持・維持・保有", "note": "持ち続けること、失わないこと。employee retention（従業員の定着）、data retention（データの保持）。" },
+      { "hinshi": "【名詞】（記憶の）保持・定着／（体内の）貯留", "note": "覚えたことを保つこと。water retention（体内の水分貯留・むくみ）。" }
+    ],
+    "usages": [
+      { "title": "① 「保持・維持」として", "desc": "持ち続けることを表します。", "example_en": "The company focuses on customer retention.", "example_ja": "その会社は顧客の維持に力を入れている。" },
+      { "title": "② 「記憶の定着」として", "desc": "覚えたことを保つことを表します。", "example_en": "Repetition improves memory retention.", "example_ja": "繰り返しは記憶の定着を高める。" }
+    ],
+    "warn": [
+      "retention は『保持・維持・保有』が中心。記憶の『定着』、体内の『貯留（water retention＝むくみ）』にも使う。動詞は retain。",
+      "customer / employee retention（顧客・従業員の定着）はビジネスで頻出。"
+    ],
+    "etym_note": "ラテン語 retinere（re-「後ろへ」＋ tenere「保つ」＝引き止めて保つ）の名詞形 retentio に由来します。retain（保持する）, contain（含む）と同じ tenere を語根にもちます。",
+    "etym_chain": [
+      { "node": "tenere", "sub": "保つ", "era": "ラテン語" },
+      { "node": "retinere", "sub": "引き止めて保つ", "era": "ラテン語" },
+      { "node": "retention", "sub": "保持・維持", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "customer retention", "ja": "顧客の維持・定着" },
+      { "en": "employee retention", "ja": "従業員の定着" },
+      { "en": "data retention", "ja": "データの保持" },
+      { "en": "memory retention", "ja": "記憶の定着" },
+      { "en": "water retention", "ja": "水分の貯留・むくみ" },
+      { "en": "high retention rate", "ja": "高い定着率" }
+    ],
+    "related": [
+      { "en": "retain", "ja": "保持する" },
+      { "en": "preservation", "ja": "保存" },
+      { "en": "maintenance", "ja": "維持" },
+      { "en": "loss", "ja": "喪失（反対語）" }
+    ],
+    "faq": [
+      { "q": "retention とはどんな意味？", "a": "何かを『保持・維持・保有すること』が中心の意味です。記憶の『保持・定着』や、体内の水分などの『貯留』にも使います。動詞は retain です。" },
+      { "q": "customer retention とは？", "a": "顧客が離れずに使い続けてくれること『顧客の維持・定着』のことです。ビジネスで重要な指標です。" }
+    ],
+    "quiz": [
+      { "q": "Repetition improves memory ___.（定着）", "A": "retention", "B": "attention の注意", "C": "intention の意図", "D": "tension の緊張", "correct": "A" },
+      { "q": "retention の動詞形はどれ？", "A": "retain（保持する）", "B": "attend（出席する）", "C": "intend（意図する）", "D": "extend（延ばす）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retiree",
+    "pron": "rɪˌtaɪˈriː",
+    "kana": "リタイアリー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "retire（引退する）＋ -ee（〜される人）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "退職者・引退した人（特に定年退職者）",
+    "description": "retiree の意味・発音・例文・語源を解説。仕事を退いた人「退職者・引退した人」、特に定年退職者を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["retiree 意味", "retiree 発音", "retiree 退職者", "retire 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】退職者・引退した人", "note": "仕事から退いた人。特に定年退職した人。主にアメリカ英語。" }
+    ],
+    "usages": [
+      { "title": "① 退職者として", "desc": "仕事を退いた人を指します。", "example_en": "The town is popular with retirees.", "example_ja": "その町は退職者に人気だ。" },
+      { "title": "② 年金・福祉の文脈で", "desc": "定年退職者を表します。", "example_en": "Retirees receive a monthly pension.", "example_ja": "退職者は毎月年金を受け取る。" }
+    ],
+    "warn": [
+      "retiree は『退職者・引退した人』。retire（引退する）＋ -ee（『〜される・〜した人』）。主にアメリカ英語。",
+      "-ee は employee（従業員）, trainee（研修生）と同じ『〜される人』の接尾辞。"
+    ],
+    "etym_note": "動詞 retire（引退する）に、『〜される人・〜した人』を表す接尾辞 -ee が付いた語です。retire はフランス語 retirer（引き下がる）に由来します。",
+    "etym_chain": [
+      { "node": "retirer", "sub": "引き下がる", "era": "フランス語" },
+      { "node": "retire", "sub": "引退する", "era": "近代英語" },
+      { "node": "retiree", "sub": "退職者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a recent retiree", "ja": "最近退職した人" },
+      { "en": "popular with retirees", "ja": "退職者に人気の" },
+      { "en": "retirees and pensioners", "ja": "退職者と年金生活者" },
+      { "en": "a wealthy retiree", "ja": "裕福な退職者" },
+      { "en": "active retirees", "ja": "元気な退職者" },
+      { "en": "benefits for retirees", "ja": "退職者向けの給付" }
+    ],
+    "related": [
+      { "en": "retire", "ja": "引退する" },
+      { "en": "retirement", "ja": "退職・引退" },
+      { "en": "pensioner", "ja": "年金生活者" },
+      { "en": "senior", "ja": "高齢者" }
+    ],
+    "faq": [
+      { "q": "retiree とはどんな意味？", "a": "仕事から退いた人『退職者・引退した人』のことで、特に定年退職した人を指します。主にアメリカ英語で使われます。" },
+      { "q": "retiree の -ee はどんな意味？", "a": "『〜される人・〜した人』を表す接尾辞です。employee（従業員）, trainee（研修生）と同じで、retiree は『引退した人』です。" }
+    ],
+    "quiz": [
+      { "q": "The town is popular with ___s.（退職者）", "A": "retiree", "B": "retainer の保持装置", "C": "retriever の取ってくる犬", "D": "retailer の小売業者", "correct": "A" },
+      { "q": "retiree の動詞形はどれ？", "A": "retire（引退する）", "B": "retain（保持する）", "C": "retrieve（取り戻す）", "D": "retail（小売りする）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recruiter",
+    "pron": "rɪˈkruːtər",
+    "kana": "リクルーター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "recruit（募集する）＋ -er",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "ビジネス"],
+    "meaning_main": "採用担当者・求人募集する人（リクルーター）",
+    "description": "recruiter の意味・発音・例文・語源を解説。会社や組織のために人材を募集・採用する「採用担当者・リクルーター」を指す語の使い方を紹介します。",
+    "keywords": ["recruiter 意味", "recruiter 発音", "recruiter 採用担当", "recruit 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】採用担当者・リクルーター", "note": "会社・組織・軍などのために新しい人材を募集し採用する人。a corporate recruiter（企業の採用担当者）。" }
+    ],
+    "usages": [
+      { "title": "① 採用担当者として", "desc": "人材を募集・採用する人を指します。", "example_en": "A recruiter contacted me about a job.", "example_ja": "採用担当者が仕事のことで私に連絡してきた。" },
+      { "title": "② 軍・組織の募集係として", "desc": "新人を勧誘する人を表します。", "example_en": "An army recruiter visited the school.", "example_ja": "陸軍の募集係が学校を訪れた。" }
+    ],
+    "warn": [
+      "recruiter は『人材を募集・採用する人（採用担当者・リクルーター）』。recruit（募集する）＋ -er。",
+      "recruit は名詞で『新人・新兵』の意味もある。"
+    ],
+    "etym_note": "動詞 recruit（新たに募集する、フランス語 recrute「新たな増員」より）に「〜する人」の -er が付いた語です。もとは軍の『新兵を補充する』意味から来ています。",
+    "etym_chain": [
+      { "node": "recrute", "sub": "新たな増員", "era": "フランス語" },
+      { "node": "recruit", "sub": "募集する・新兵", "era": "近代英語" },
+      { "node": "recruiter", "sub": "採用担当者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a corporate recruiter", "ja": "企業の採用担当者" },
+      { "en": "an army recruiter", "ja": "陸軍の募集係" },
+      { "en": "contact a recruiter", "ja": "採用担当者に連絡する" },
+      { "en": "a tech recruiter", "ja": "IT分野のリクルーター" },
+      { "en": "talk to a recruiter", "ja": "採用担当者と話す" },
+      { "en": "a college recruiter", "ja": "新卒採用の担当者" }
+    ],
+    "related": [
+      { "en": "recruit", "ja": "募集する・新人" },
+      { "en": "recruitment", "ja": "採用・募集" },
+      { "en": "headhunter", "ja": "ヘッドハンター" },
+      { "en": "employer", "ja": "雇用主" }
+    ],
+    "faq": [
+      { "q": "recruiter とはどんな意味？", "a": "会社・組織・軍などのために新しい人材を募集し採用する『採用担当者・リクルーター』のことです。a corporate recruiter（企業の採用担当者）のように使います。" },
+      { "q": "recruiter と headhunter の違いは？", "a": "recruiter は『一般に人材を募集・採用する人』、headhunter は『特に他社の優秀な人材を引き抜く人』を指します。" }
+    ],
+    "quiz": [
+      { "q": "A ___ contacted me about a job.（採用担当者）", "A": "recruiter", "B": "recliner のリクライニングいす", "C": "recorder の記録係", "D": "recoverer", "correct": "A" },
+      { "q": "recruiter のもとになった動詞はどれ？", "A": "recruit（募集する）", "B": "record（記録する）", "C": "recover（回復する）", "D": "recline（もたれる）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rectangle",
+    "pron": "ˈrektæŋɡəl",
+    "kana": "レクタングル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 rectus（まっすぐな）＋ angulus（角）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "数学・基本"],
+    "meaning_main": "長方形・矩形（くけい）（4つの角がすべて直角の四角形）",
+    "description": "rectangle の意味・発音・例文・語源を解説。4つの角がすべて直角の四角形「長方形・矩形」を指す数学の基本語の使い方を紹介します。",
+    "keywords": ["rectangle 意味", "rectangle 発音", "rectangle 長方形", "rectangle 矩形"],
+    "meanings": [
+      { "hinshi": "【名詞】長方形・矩形", "note": "4つの角がすべて直角の四角形。向かい合う辺の長さが等しい。正方形（square）はその特別な場合。" }
+    ],
+    "usages": [
+      { "title": "① 図形として", "desc": "直角の四角形を指します。", "example_en": "Draw a rectangle on the paper.", "example_ja": "紙に長方形を描きなさい。" },
+      { "title": "② 形の説明で", "desc": "長方形の形を表します。", "example_en": "The table is in the shape of a rectangle.", "example_ja": "そのテーブルは長方形をしている。" }
+    ],
+    "warn": [
+      "rectangle は『4つの角がすべて直角の四角形（長方形）』。すべての辺が等しいものは square（正方形）。",
+      "形容詞は rectangular（長方形の）。"
+    ],
+    "etym_note": "ラテン語 rectus（まっすぐな・正しい）＋ angulus（角）から成り、「直角（まっすぐな角）をもつ図形」を意味します。correct（正しい）, angle（角）と同じ語根です。",
+    "etym_chain": [
+      { "node": "rectus + angulus", "sub": "まっすぐな＋角", "era": "ラテン語" },
+      { "node": "rectangle", "sub": "直角の図形", "era": "近代英語" },
+      { "node": "rectangle", "sub": "長方形", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "draw a rectangle", "ja": "長方形を描く" },
+      { "en": "the shape of a rectangle", "ja": "長方形の形" },
+      { "en": "a perfect rectangle", "ja": "きれいな長方形" },
+      { "en": "the area of a rectangle", "ja": "長方形の面積" },
+      { "en": "a long rectangle", "ja": "細長い長方形" },
+      { "en": "a rectangle and a square", "ja": "長方形と正方形" }
+    ],
+    "related": [
+      { "en": "square", "ja": "正方形" },
+      { "en": "triangle", "ja": "三角形" },
+      { "en": "rectangular", "ja": "長方形の" },
+      { "en": "shape", "ja": "形" }
+    ],
+    "faq": [
+      { "q": "rectangle とはどんな意味？", "a": "4つの角がすべて直角の四角形『長方形・矩形（くけい）』のことです。向かい合う辺の長さが等しい図形です。" },
+      { "q": "rectangle と square の違いは？", "a": "rectangle（長方形）は4つの角が直角の四角形、square（正方形）はさらにすべての辺が等しいものです。正方形は長方形の特別な場合です。" }
+    ],
+    "quiz": [
+      { "q": "Draw a ___ on the paper.（長方形）", "A": "rectangle", "B": "triangle の三角形", "C": "circle の円", "D": "ratio の比率", "correct": "A" },
+      { "q": "rectangle の語源の意味はどれ？", "A": "まっすぐな角（直角）", "B": "丸い線", "C": "三つの辺", "D": "等しい辺", "correct": "A" }
+    ]
+  },
+  {
+    "english": "referral",
+    "pron": "rɪˈfɜːrəl",
+    "kana": "リファーラル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "refer（差し向ける）＋ -al",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "ビジネス・医療"],
+    "meaning_main": "（専門家への）紹介・差し向け／紹介された人・紹介状",
+    "description": "referral の意味・発音・例文・語源を解説。専門医や別の担当者への「紹介・差し向け」、また紹介された人を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["referral 意味", "referral 発音", "referral 紹介", "refer 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】（専門家への）紹介・差し向け", "note": "別の専門家・部署に引き合わせること。a referral to a specialist（専門医への紹介）。" },
+      { "hinshi": "【名詞】紹介された人・紹介（による顧客）", "note": "紹介でやってきた人・客。a referral from a friend（友人からの紹介）。" }
+    ],
+    "usages": [
+      { "title": "① 医療の「紹介」として", "desc": "専門医へ引き合わせることを表します。", "example_en": "The doctor gave me a referral to a specialist.", "example_ja": "医師は私を専門医に紹介してくれた。" },
+      { "title": "② ビジネスの「紹介」として", "desc": "紹介による顧客などを表します。", "example_en": "Most of our clients come through referrals.", "example_ja": "うちの顧客の多くは紹介でやって来る。" }
+    ],
+    "warn": [
+      "referral は『（専門家への）紹介・差し向け』『紹介された人・客』。動詞は refer（差し向ける）。",
+      "医療では『専門医への紹介（状）』、ビジネスでは『紹介による顧客』でよく使う。"
+    ],
+    "etym_note": "動詞 refer（re-「再び」＋ ferre「運ぶ」＝差し向ける）に -al が付いた語です。「（別の所へ）運び向けること」を意味します。transfer（移す）, prefer（より好む）と同じ ferre を語根にもちます。",
+    "etym_chain": [
+      { "node": "ferre", "sub": "運ぶ", "era": "ラテン語" },
+      { "node": "refer", "sub": "差し向ける・言及する", "era": "中英語" },
+      { "node": "referral", "sub": "紹介・差し向け", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a referral to a specialist", "ja": "専門医への紹介" },
+      { "en": "a referral from a friend", "ja": "友人からの紹介" },
+      { "en": "come through referrals", "ja": "紹介でやって来る" },
+      { "en": "a referral letter", "ja": "紹介状" },
+      { "en": "a referral fee", "ja": "紹介料" },
+      { "en": "give a referral", "ja": "紹介する" }
+    ],
+    "related": [
+      { "en": "refer", "ja": "差し向ける・言及する" },
+      { "en": "recommendation", "ja": "推薦・紹介" },
+      { "en": "introduction", "ja": "紹介" },
+      { "en": "reference", "ja": "照会・推薦状" }
+    ],
+    "faq": [
+      { "q": "referral とはどんな意味？", "a": "別の専門家・部署へ引き合わせる『紹介・差し向け』という意味と、『紹介された人・紹介による客』という意味があります。動詞は refer です。" },
+      { "q": "referral と reference の違いは？", "a": "referral は『（専門家などへ）差し向ける紹介』、reference は『照会・参照・（人物の）推薦状』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The doctor gave me a ___ to a specialist.（紹介）", "A": "referral", "B": "removal の除去", "C": "renewal の更新", "D": "reversal の逆転", "correct": "A" },
+      { "q": "referral の動詞形はどれ？", "A": "refer（差し向ける）", "B": "remove（取り除く）", "C": "renew（更新する）", "D": "reverse（逆にする）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "refinery",
+    "pron": "rɪˈfaɪnəri",
+    "kana": "リファイナリー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "refine（精製する）＋ -ery（場所）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "産業"],
+    "meaning_main": "精製所（石油・砂糖などを精製する工場）",
+    "description": "refinery の意味・発音・例文・語源を解説。石油や砂糖などの原料を精製して製品にする工場「精製所」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["refinery 意味", "refinery 発音", "refinery 精製所", "oil refinery 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】精製所", "note": "原油・砂糖・金属などの原料を精製して製品にする工場。an oil refinery（石油精製所）。" }
+    ],
+    "usages": [
+      { "title": "① 石油精製所として", "desc": "原油を製品にする工場を指します。", "example_en": "The oil refinery processes crude oil.", "example_ja": "その石油精製所は原油を処理する。" },
+      { "title": "② 砂糖・金属の精製所として", "desc": "原料を精製する施設を表します。", "example_en": "Sugar is processed at a refinery.", "example_ja": "砂糖は精製所で処理される。" }
+    ],
+    "warn": [
+      "refinery は『（石油・砂糖などの）精製所』。refine（精製する）＋ -ery（場所）。an oil refinery（石油精製所）が頻出。",
+      "-ery は bakery（パン屋）, brewery（醸造所）と同じ『〜する場所』の接尾辞。"
+    ],
+    "etym_note": "動詞 refine（精製する）に「場所」を表す -ery が付いた語で、「精製する場所＝精製所」を意味します。",
+    "etym_chain": [
+      { "node": "refine", "sub": "精製する", "era": "近代英語" },
+      { "node": "refine + -ery", "sub": "精製する場所", "era": "近代英語" },
+      { "node": "refinery", "sub": "精製所", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an oil refinery", "ja": "石油精製所" },
+      { "en": "a sugar refinery", "ja": "砂糖精製所" },
+      { "en": "at the refinery", "ja": "精製所で" },
+      { "en": "a refinery worker", "ja": "精製所の作業員" },
+      { "en": "process crude oil at a refinery", "ja": "精製所で原油を処理する" },
+      { "en": "refinery capacity", "ja": "精製能力" }
+    ],
+    "related": [
+      { "en": "refine", "ja": "精製する" },
+      { "en": "factory", "ja": "工場" },
+      { "en": "crude oil", "ja": "原油" },
+      { "en": "plant", "ja": "工場・設備" }
+    ],
+    "faq": [
+      { "q": "refinery とはどんな意味？", "a": "原油・砂糖・金属などの原料を精製して製品にする工場『精製所』のことです。an oil refinery（石油精製所）のように使います。" },
+      { "q": "refinery の -ery はどんな意味？", "a": "『〜する場所』を表す接尾辞です。bakery（パン屋）、brewery（醸造所）と同じで、refinery は『精製する場所』です。" }
+    ],
+    "quiz": [
+      { "q": "The oil ___ processes crude oil.（精製所）", "A": "refinery", "B": "refinement の洗練", "C": "reformer の改革者", "D": "refresher の気分転換", "correct": "A" },
+      { "q": "refinery のもとになった動詞はどれ？", "A": "refine（精製する）", "B": "reform（改革する）", "C": "refresh（元気にする）", "D": "refer（差し向ける）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reasoning",
+    "pron": "ˈriːzənɪŋ",
+    "kana": "リーズニング",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "reason（推論する）＋ -ing",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "推論・論理的に考えること・論法",
+    "description": "reasoning の意味・発音・例文・語源を解説。筋道を立てて考える「推論・論理的思考・論法」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["reasoning 意味", "reasoning 発音", "reasoning 推論", "reason 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】推論・論理的に考えること・論法", "note": "筋道を立てて結論を導く思考。logical reasoning（論理的推論）、the reasoning behind a decision（決定の根拠となる考え）。" }
+    ],
+    "usages": [
+      { "title": "① 「論理的思考」として", "desc": "筋道を立てて考えることを表します。", "example_en": "Her reasoning was clear and logical.", "example_ja": "彼女の論法は明快で筋が通っていた。" },
+      { "title": "② 「考えの根拠」として", "desc": "結論に至る考え方を表します。", "example_en": "Explain the reasoning behind your answer.", "example_ja": "答えの根拠となる考えを説明しなさい。" }
+    ],
+    "warn": [
+      "reasoning は『推論・論理的思考・論法』。動詞 reason（推論する）の動名詞由来。",
+      "logical / deductive / inductive reasoning（論理的・演繹的・帰納的推論）が頻出。"
+    ],
+    "etym_note": "動詞 reason（推論する・筋道立てて考える）に -ing が付いた語です。reason はラテン語 ratio（計算・理性）に由来します。rational（理性的な）と同じ語根です。",
+    "etym_chain": [
+      { "node": "ratio", "sub": "計算・理性", "era": "ラテン語" },
+      { "node": "reason", "sub": "推論する・理由", "era": "中英語" },
+      { "node": "reasoning", "sub": "推論・論法", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "logical reasoning", "ja": "論理的推論" },
+      { "en": "the reasoning behind", "ja": "〜の根拠となる考え" },
+      { "en": "sound reasoning", "ja": "筋の通った論法" },
+      { "en": "deductive reasoning", "ja": "演繹的推論" },
+      { "en": "flawed reasoning", "ja": "欠陥のある論法" },
+      { "en": "follow someone's reasoning", "ja": "人の論法をたどる" }
+    ],
+    "related": [
+      { "en": "reason", "ja": "推論する・理由" },
+      { "en": "logic", "ja": "論理" },
+      { "en": "thinking", "ja": "思考" },
+      { "en": "rationale", "ja": "根拠・理論的根拠" }
+    ],
+    "faq": [
+      { "q": "reasoning とはどんな意味？", "a": "筋道を立てて結論を導く『推論・論理的思考・論法』のことです。logical reasoning（論理的推論）、the reasoning behind a decision（決定の根拠となる考え）のように使います。" },
+      { "q": "reasoning と logic の違いは？", "a": "logic は『論理（の体系・法則）』、reasoning は『（実際に）論理を使って考えること・その筋道』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "Her ___ was clear and logical.（論法）", "A": "reasoning", "B": "reckoning の計算・報い", "C": "rendering のレンダリング", "D": "reckoning の代わりに meaning", "correct": "A" },
+      { "q": "reasoning のもとになった語はどれ？", "A": "reason（推論する・理由）", "B": "reach（届く）", "C": "react（反応する）", "D": "read（読む）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rebuttal",
+    "pron": "rɪˈbʌtəl",
+    "kana": "リバタル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rebut（反論する）＋ -al",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "議論"],
+    "meaning_main": "反論・反証（相手の主張に対する論理的な言い返し）",
+    "description": "rebuttal の意味・発音・例文・語源を解説。相手の主張や非難に対して、証拠や理由をあげて反論する「反論・反証」を指す語の使い方を紹介します。",
+    "keywords": ["rebuttal 意味", "rebuttal 発音", "rebuttal 反論", "rebut 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】反論・反証", "note": "相手の主張・非難に対し、証拠や理由をあげて言い返すこと。offer a rebuttal（反論する）。ディベートでよく使う。" }
+    ],
+    "usages": [
+      { "title": "① 「反論」として", "desc": "相手の主張への論理的な言い返しを表します。", "example_en": "She gave a strong rebuttal to the criticism.", "example_ja": "彼女はその批判に対し強い反論を述べた。" },
+      { "title": "② ディベート・裁判の文脈で", "desc": "反証の段階を表します。", "example_en": "The defense presented its rebuttal.", "example_ja": "弁護側は反証を提示した。" }
+    ],
+    "warn": [
+      "rebuttal は『（証拠・理由をあげた）反論・反証』。動詞は rebut。ディベート・議論・裁判で使うかための語。",
+      "単なる感情的な反発ではなく、論理的に反証するニュアンス。"
+    ],
+    "etym_note": "動詞 rebut（押し返す・反論する、古フランス語 reboter「打ち返す」より）に -al が付いた語です。butt（突く）と関係し、「（主張を）突き返すこと」を意味します。",
+    "etym_chain": [
+      { "node": "reboter", "sub": "打ち返す", "era": "古フランス語" },
+      { "node": "rebut", "sub": "反論する", "era": "中英語" },
+      { "node": "rebuttal", "sub": "反論・反証", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "offer a rebuttal", "ja": "反論する" },
+      { "en": "a strong rebuttal", "ja": "強い反論" },
+      { "en": "in rebuttal", "ja": "反論として" },
+      { "en": "present a rebuttal", "ja": "反証を提示する" },
+      { "en": "a point-by-point rebuttal", "ja": "逐一の反論" },
+      { "en": "a convincing rebuttal", "ja": "説得力のある反論" }
+    ],
+    "related": [
+      { "en": "rebut", "ja": "反論する" },
+      { "en": "refutation", "ja": "論破・反駁" },
+      { "en": "counterargument", "ja": "反対意見・反論" },
+      { "en": "response", "ja": "応答・反応" }
+    ],
+    "faq": [
+      { "q": "rebuttal とはどんな意味？", "a": "相手の主張・非難に対し、証拠や理由をあげて論理的に言い返す『反論・反証』のことです。ディベートや裁判でよく使われます。動詞は rebut です。" },
+      { "q": "rebuttal と counterargument の違いは？", "a": "どちらも『反論』ですが、counterargument は『反対の議論・意見』、rebuttal は特に『（相手の主張を崩すための）反証・言い返し』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "She gave a strong ___ to the criticism.（反論）", "A": "rebuttal", "B": "rebate の払い戻し", "C": "rebuff のはねつけ", "D": "rebound のはね返り", "correct": "A" },
+      { "q": "rebuttal の動詞形はどれ？", "A": "rebut（反論する）", "B": "rebate（払い戻す）", "C": "rebuff（はねつける）", "D": "rebound（はね返る）", "correct": "A" }
+    ]
+  }
+]

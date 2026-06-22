@@ -1,0 +1,55 @@
+[
+  {
+    "english": "roughness",
+    "pron": "ˈrʌfnəs",
+    "kana": "ラフネス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rough（粗い）＋ -ness",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "粗さ・ざらつき／（態度・扱いの）荒っぽさ・乱暴さ",
+    "description": "roughness の意味・発音・例文・語源を解説。表面の「粗さ・ざらつき」や、態度・扱いの「荒っぽさ・乱暴さ」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["roughness 意味", "roughness 発音", "roughness 粗さ", "rough 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】粗さ・ざらつき", "note": "表面がなめらかでなく、でこぼこ・ざらざらしていること。the roughness of the surface（表面の粗さ）。" },
+      { "hinshi": "【名詞】（態度・扱いの）荒っぽさ・乱暴さ", "note": "ていねいでなく荒々しいこと。the roughness of his manner（彼の態度の荒っぽさ）。" }
+    ],
+    "usages": [
+      { "title": "① 「粗さ・ざらつき」として", "desc": "表面のざらざらした状態を表します。", "example_en": "I could feel the roughness of the bark.", "example_ja": "私は樹皮のざらつきを感じることができた。" },
+      { "title": "② 「荒っぽさ」として", "desc": "態度や扱いの乱暴さを表します。", "example_en": "There was a certain roughness in his voice.", "example_ja": "彼の声にはどこか荒っぽさがあった。" }
+    ],
+    "warn": [
+      "roughness は『（表面の）粗さ・ざらつき』と『（態度の）荒っぽさ・乱暴さ』の両方。形容詞は rough。",
+      "反対は smoothness（なめらかさ）。"
+    ],
+    "etym_note": "rough（粗い・荒い）に「状態・性質」を表す -ness が付いた語です。rough は古英語 rūh（毛深い・粗い）に由来します。",
+    "etym_chain": [
+      { "node": "rūh", "sub": "毛深い・粗い", "era": "古英語" },
+      { "node": "rough", "sub": "粗い・荒い", "era": "中英語" },
+      { "node": "roughness", "sub": "粗さ・荒っぽさ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the roughness of the surface", "ja": "表面の粗さ" },
+      { "en": "surface roughness", "ja": "表面粗さ" },
+      { "en": "the roughness of his manner", "ja": "彼の態度の荒っぽさ" },
+      { "en": "a certain roughness", "ja": "どことなくの荒っぽさ" },
+      { "en": "feel the roughness", "ja": "ざらつきを感じる" },
+      { "en": "roughness and smoothness", "ja": "粗さとなめらかさ" }
+    ],
+    "related": [
+      { "en": "rough", "ja": "粗い・荒い" },
+      { "en": "coarseness", "ja": "粗さ・きめの粗さ" },
+      { "en": "harshness", "ja": "厳しさ・荒々しさ" },
+      { "en": "smoothness", "ja": "なめらかさ（反対語）" }
+    ],
+    "faq": [
+      { "q": "roughness とはどんな意味？", "a": "表面がなめらかでない『粗さ・ざらつき』という意味と、態度や扱いの『荒っぽさ・乱暴さ』という意味があります。形容詞は rough です。" },
+      { "q": "roughness の反対語は？", "a": "smoothness（なめらかさ）です。表面がすべすべしていること、また物腰のなめらかさを表します。" }
+    ],
+    "quiz": [
+      { "q": "I could feel the ___ of the bark.（ざらつき）", "A": "roughness", "B": "richness の豊かさ", "C": "ripeness の熟度", "D": "rudeness の無礼", "correct": "A" },
+      { "q": "roughness の反対語はどれ？", "A": "smoothness（なめらかさ）", "B": "hardness（硬さ）", "C": "darkness（暗さ）", "D": "weakness（弱さ）", "correct": "A" }
+    ]
+  }
+]
