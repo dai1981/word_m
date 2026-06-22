@@ -1,0 +1,473 @@
+[
+  {
+    "english": "reliance",
+    "pron": "rɪˈlaɪəns",
+    "kana": "リライアンス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rely（頼る）＋ -ance",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "依存・頼ること・信頼",
+    "description": "reliance の意味・発音・例文・語源を解説。何かに「頼ること・依存・信頼」を指す語の使い方を、例文や語源とともに分かりやすく紹介します。",
+    "keywords": ["reliance 意味", "reliance 発音", "reliance 依存", "rely 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】依存・頼ること・信頼", "note": "何か・誰かに頼ること。reliance on technology（技術への依存）。self-reliance（自立）。" }
+    ],
+    "usages": [
+      { "title": "① 「依存」として", "desc": "何かに頼ることを表します。", "example_en": "Our reliance on oil must be reduced.", "example_ja": "石油への依存は減らさねばならない。" },
+      { "title": "② self-reliance として", "desc": "「自立・独立独歩」を表します。", "example_en": "The program encourages self-reliance.", "example_ja": "そのプログラムは自立を促す。" }
+    ],
+    "warn": [
+      "reliance は『依存・頼ること・信頼』。reliance on ～（〜への依存）。動詞は rely。",
+      "self-reliance（自立）は頻出。形容詞 reliant（頼っている）。"
+    ],
+    "etym_note": "動詞 rely（頼る、古フランス語 relier「結びつける」より）に -ance が付いた語です。「結びついて頼ること」を意味します。",
+    "etym_chain": [
+      { "node": "relier", "sub": "結びつける", "era": "古フランス語" },
+      { "node": "rely", "sub": "頼る", "era": "中英語" },
+      { "node": "reliance", "sub": "依存・信頼", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reliance on technology", "ja": "技術への依存" },
+      { "en": "self-reliance", "ja": "自立" },
+      { "en": "heavy reliance", "ja": "強い依存" },
+      { "en": "reduce reliance on", "ja": "〜への依存を減らす" },
+      { "en": "place reliance on", "ja": "〜を頼りにする" },
+      { "en": "over-reliance", "ja": "過度の依存" }
+    ],
+    "related": [
+      { "en": "rely", "ja": "頼る" },
+      { "en": "dependence", "ja": "依存" },
+      { "en": "trust", "ja": "信頼" },
+      { "en": "reliant", "ja": "頼っている" }
+    ],
+    "faq": [
+      { "q": "reliance とはどんな意味？", "a": "何か・誰かに『頼ること・依存・信頼』のことです。reliance on technology（技術への依存）、self-reliance（自立）のように使います。動詞は rely です。" },
+      { "q": "reliance と dependence の違いは？", "a": "ほぼ同じ『依存』ですが、reliance は『（信頼して）頼ること』、dependence は『（なしでは成り立たない）依存』のニュアンスがやや強いです。" }
+    ],
+    "quiz": [
+      { "q": "Our ___ on oil must be reduced.（依存）", "A": "reliance", "B": "resemblance の類似", "C": "resistance の抵抗", "D": "reluctance の気乗りのなさ", "correct": "A" },
+      { "q": "reliance の動詞形はどれ？", "A": "rely（頼る）", "B": "resemble（似ている）", "C": "resist（抵抗する）", "D": "remain（残る）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "relevance",
+    "pron": "ˈreləvəns",
+    "kana": "レレバンス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 relevare（引き上げる・関係する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "関連性・適切さ・（今の話題との）つながり",
+    "description": "relevance の意味・発音・例文・語源を解説。話題や問題との「関連性・適切さ・つながり」を指す語の使い方を、例文や語源とともに紹介します。",
+    "keywords": ["relevance 意味", "relevance 発音", "relevance 関連性", "relevant 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】関連性・適切さ", "note": "ある話題・目的と関係し、ふさわしいこと。relevance to（〜との関連）。have no relevance（関係ない）。" }
+    ],
+    "usages": [
+      { "title": "① 「関連性」として", "desc": "話題とのつながりを表します。", "example_en": "I don't see the relevance of that point.", "example_ja": "その点の関連性が分からない。" },
+      { "title": "② 「適切さ」として", "desc": "今のことにふさわしいかを表します。", "example_en": "The book still has relevance today.", "example_ja": "その本は今でも意義をもっている。" }
+    ],
+    "warn": [
+      "relevance は『関連性・適切さ』。形容詞は relevant（関連のある）。反対は irrelevance（無関係）。",
+      "relevance to ～（〜との関連性）の形が頻出。"
+    ],
+    "etym_note": "形容詞 relevant（関連のある、ラテン語 relevare「引き上げる・(問題に)関わる」より）の名詞形です。lever（てこ）, elevate（上げる）と同じ levare を語根にもちます。",
+    "etym_chain": [
+      { "node": "relevare", "sub": "引き上げる・関係する", "era": "ラテン語" },
+      { "node": "relevant", "sub": "関連のある", "era": "近代英語" },
+      { "node": "relevance", "sub": "関連性・適切さ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "relevance to", "ja": "〜との関連性" },
+      { "en": "have no relevance", "ja": "関係がない" },
+      { "en": "lose relevance", "ja": "意義を失う" },
+      { "en": "of great relevance", "ja": "大いに関連のある" },
+      { "en": "social relevance", "ja": "社会的な意義" },
+      { "en": "the relevance of the data", "ja": "そのデータの関連性" }
+    ],
+    "related": [
+      { "en": "relevant", "ja": "関連のある・適切な" },
+      { "en": "significance", "ja": "重要性・意義" },
+      { "en": "connection", "ja": "つながり" },
+      { "en": "irrelevance", "ja": "無関係（反対語）" }
+    ],
+    "faq": [
+      { "q": "relevance とはどんな意味？", "a": "ある話題・目的と関係し、ふさわしいこと『関連性・適切さ・つながり』です。relevance to（〜との関連）のように使います。形容詞は relevant です。" },
+      { "q": "relevance の反対語は？", "a": "irrelevance（無関係・的外れ）です。形容詞では relevant（関連のある）⇔ irrelevant（無関係な）です。" }
+    ],
+    "quiz": [
+      { "q": "I don't see the ___ of that point.（関連性）", "A": "relevance", "B": "reverence の崇敬", "C": "reluctance の気乗りのなさ", "D": "recurrence の再発", "correct": "A" },
+      { "q": "relevance の形容詞形はどれ？", "A": "relevant（関連のある）", "B": "reverent（敬虔な）", "C": "reluctant（気が進まない）", "D": "recurrent（再発する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retraction",
+    "pron": "rɪˈtrækʃən",
+    "kana": "リトラクション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 retrahere（引き戻す）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "（発言・主張の）撤回・取り消し／（引っ込めて）格納すること",
+    "description": "retraction の意味・発音・例文・語源を解説。発言や記事を「撤回・取り消すこと」、また爪や車輪を「引っ込めて格納すること」を指す語の使い方を紹介します。",
+    "keywords": ["retraction 意味", "retraction 発音", "retraction 撤回", "retract 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】（発言・主張の）撤回・取り消し", "note": "言ったこと・書いたことを正式に取り消すこと。issue a retraction（撤回を出す）。" },
+      { "hinshi": "【名詞】引っ込めること・格納", "note": "出ていたものを引き入れること。the retraction of landing gear（着陸装置の格納）。" }
+    ],
+    "usages": [
+      { "title": "① 「撤回・取り消し」として", "desc": "発言や記事を取り消すことを表します。", "example_en": "The newspaper printed a retraction.", "example_ja": "その新聞は撤回記事を載せた。" },
+      { "title": "② 「格納」として", "desc": "出ていたものを引っ込めることを表します。", "example_en": "The retraction of the claws is automatic.", "example_ja": "爪の引っ込めは自動的に行われる。" }
+    ],
+    "warn": [
+      "retraction は『（発言・記事の）撤回・取り消し』が中心。動詞は retract。技術では『引っ込めること・格納』。",
+      "issue / print a retraction（撤回を出す・撤回記事を載せる）が頻出。"
+    ],
+    "etym_note": "ラテン語 retrahere（re-「後ろへ」＋ trahere「引く」＝引き戻す）の名詞形 retractio に由来します。tractor（牽引車）, attract（引きつける）と同じ trahere を語根にもちます。",
+    "etym_chain": [
+      { "node": "trahere", "sub": "引く", "era": "ラテン語" },
+      { "node": "retrahere", "sub": "引き戻す", "era": "ラテン語" },
+      { "node": "retraction", "sub": "撤回・格納", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "issue a retraction", "ja": "撤回を出す" },
+      { "en": "print a retraction", "ja": "撤回記事を載せる" },
+      { "en": "demand a retraction", "ja": "撤回を要求する" },
+      { "en": "a full retraction", "ja": "全面撤回" },
+      { "en": "the retraction of a statement", "ja": "声明の撤回" },
+      { "en": "the retraction of the claws", "ja": "爪の格納" }
+    ],
+    "related": [
+      { "en": "retract", "ja": "撤回する・引っ込める" },
+      { "en": "withdrawal", "ja": "撤回・引き下げ" },
+      { "en": "cancellation", "ja": "取り消し" },
+      { "en": "denial", "ja": "否定" }
+    ],
+    "faq": [
+      { "q": "retraction とはどんな意味？", "a": "発言や記事を正式に『撤回・取り消すこと』が中心の意味です。技術では爪や着陸装置を『引っ込めること・格納』も表します。動詞は retract です。" },
+      { "q": "issue a retraction とは？", "a": "誤った発言・報道を『正式に撤回する（撤回声明・撤回記事を出す）』ことです。" }
+    ],
+    "quiz": [
+      { "q": "The newspaper printed a ___.（撤回）", "A": "retraction", "B": "reaction の反応", "C": "attraction の魅力", "D": "reduction の削減", "correct": "A" },
+      { "q": "retraction の動詞形はどれ？", "A": "retract（撤回する）", "B": "react（反応する）", "C": "attract（引きつける）", "D": "reduce（減らす）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reformist",
+    "pron": "rɪˈfɔːrmɪst",
+    "kana": "リフォーミスト",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "reform（改革）＋ -ist",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "政治"],
+    "meaning_main": "改革派の人・漸進的改革論者／（形容詞）改革派の",
+    "description": "reformist の意味・発音・例文・語源を解説。革命ではなく段階的な改革で社会を変えようとする「改革派の人」や「改革派の」という語の使い方を紹介します。",
+    "keywords": ["reformist 意味", "reformist 発音", "reformist 改革派", "reform 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】改革派の人・漸進的改革論者", "note": "急激な革命ではなく、段階的な改革で制度を良くしようとする人。" },
+      { "hinshi": "【形容詞】改革派の・漸進的改革の", "note": "reformist policies（改革派の政策）。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「改革派の人」として", "desc": "段階的改革を目指す人を指します。", "example_en": "The reformists pushed for gradual change.", "example_ja": "改革派は段階的な変化を求めた。" },
+      { "title": "② 形容詞「改革派の」として", "desc": "改革を志向するようすを表します。", "example_en": "He led a reformist movement.", "example_ja": "彼は改革派の運動を率いた。" }
+    ],
+    "warn": [
+      "reformist は『（漸進的）改革派の人・改革派の』。革命を目指す revolutionary（革命派）と対比される。reform（改革）＋ -ist。",
+      "改革者一般は reformer、改革を志向する立場・人は reformist。"
+    ],
+    "etym_note": "reform（改革）に「〜主義の人」を表す -ist が付いた語です。reform はラテン語 reformare（作り直す）に由来し、「改革を志向する人・立場」を意味します。",
+    "etym_chain": [
+      { "node": "reformare", "sub": "作り直す", "era": "ラテン語" },
+      { "node": "reform", "sub": "改革", "era": "中英語" },
+      { "node": "reformist", "sub": "改革派の人", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a reformist movement", "ja": "改革派の運動" },
+      { "en": "reformist policies", "ja": "改革派の政策" },
+      { "en": "a leading reformist", "ja": "改革派の主導者" },
+      { "en": "reformist ideas", "ja": "改革派の考え" },
+      { "en": "moderate reformists", "ja": "穏健な改革派" },
+      { "en": "the reformist wing", "ja": "改革派の一翼" }
+    ],
+    "related": [
+      { "en": "reform", "ja": "改革" },
+      { "en": "reformer", "ja": "改革者" },
+      { "en": "progressive", "ja": "進歩派の" },
+      { "en": "revolutionary", "ja": "革命派（対比）" }
+    ],
+    "faq": [
+      { "q": "reformist とはどんな意味？", "a": "急激な革命ではなく、段階的な改革で制度を良くしようとする『改革派の人』、また『改革派の』を表す形容詞です。revolutionary（革命派）と対比されます。" },
+      { "q": "reformist と reformer の違いは？", "a": "reformer は『（実際に改革する）改革者』全般、reformist は『漸進的改革を志向する立場・人』を強調します。" }
+    ],
+    "quiz": [
+      { "q": "The ___s pushed for gradual change.（改革派）", "A": "reformist", "B": "reformer の代わりに performer", "C": "reservist の予備兵", "D": "revivalist の信仰復興論者", "correct": "A" },
+      { "q": "reformist と対比される立場はどれ？", "A": "revolutionary（革命派）", "B": "researcher（研究者）", "C": "retailer（小売業者）", "D": "recruiter（採用担当）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reservist",
+    "pron": "rɪˈzɜːrvɪst",
+    "kana": "リザービスト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "reserve（予備軍）＋ -ist",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "軍事"],
+    "meaning_main": "予備役の軍人・予備兵（必要時に招集される兵）",
+    "description": "reservist の意味・発音・例文・語源を解説。ふだんは民間で働き、必要時に招集される「予備役の軍人・予備兵」を指す語の使い方を紹介します。",
+    "keywords": ["reservist 意味", "reservist 発音", "reservist 予備役", "reserve 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】予備役の軍人・予備兵", "note": "正規軍ではないが、有事の際に招集される予備の兵士。ふだんは民間の仕事をしていることが多い。" }
+    ],
+    "usages": [
+      { "title": "① 予備兵として", "desc": "有事に招集される兵を指します。", "example_en": "The army called up the reservists.", "example_ja": "軍は予備兵を招集した。" },
+      { "title": "② 民間との兼業として", "desc": "ふだんは民間で働く兵を表します。", "example_en": "He serves as a reservist on weekends.", "example_ja": "彼は週末に予備役として勤務している。" }
+    ],
+    "warn": [
+      "reservist は『予備役の軍人・予備兵』。reserve（予備軍・予備）＋ -ist。",
+      "正規兵（regular / active-duty soldier）と区別される。"
+    ],
+    "etym_note": "reserve（予備・予備軍、ラテン語 reservare「取っておく」より）に「〜に属する人」の -ist が付いた語です。「予備軍に属する人」を意味します。",
+    "etym_chain": [
+      { "node": "reservare", "sub": "取っておく", "era": "ラテン語" },
+      { "node": "reserve", "sub": "予備・予備軍", "era": "近代英語" },
+      { "node": "reservist", "sub": "予備兵", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "call up the reservists", "ja": "予備兵を招集する" },
+      { "en": "an army reservist", "ja": "陸軍の予備兵" },
+      { "en": "serve as a reservist", "ja": "予備役として勤務する" },
+      { "en": "mobilize reservists", "ja": "予備兵を動員する" },
+      { "en": "a trained reservist", "ja": "訓練を受けた予備兵" },
+      { "en": "reservist duty", "ja": "予備役の任務" }
+    ],
+    "related": [
+      { "en": "reserve", "ja": "予備・予備軍" },
+      { "en": "soldier", "ja": "兵士" },
+      { "en": "veteran", "ja": "退役軍人" },
+      { "en": "conscript", "ja": "徴集兵" }
+    ],
+    "faq": [
+      { "q": "reservist とはどんな意味？", "a": "ふだんは民間で働き、有事の際に招集される『予備役の軍人・予備兵』のことです。正規兵（現役兵）と区別されます。" },
+      { "q": "reservist の語のつくりは？", "a": "reserve（予備・予備軍）＋ -ist（〜に属する人）で、『予備軍に属する人』を意味します。" }
+    ],
+    "quiz": [
+      { "q": "The army called up the ___s.（予備兵）", "A": "reservist", "B": "receptionist の受付", "C": "reformist の改革派", "D": "recidivist の常習犯", "correct": "A" },
+      { "q": "reservist のもとになった語はどれ？", "A": "reserve（予備）", "B": "receive（受け取る）", "C": "reform（改革）", "D": "reside（住む）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "righteousness",
+    "pron": "ˈraɪtʃəsnəs",
+    "kana": "ライチャスネス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "righteous（正しい）＋ -ness",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "道徳・宗教"],
+    "meaning_main": "正しさ・高潔さ・正義（道徳的・宗教的に正しいこと）",
+    "description": "righteousness の意味・発音・例文・語源を解説。道徳的・宗教的に「正しいこと・高潔さ・正義」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["righteousness 意味", "righteousness 発音", "righteousness 正義", "righteous 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】正しさ・高潔さ・正義", "note": "道徳・宗教の面で正しく、徳が高いこと。a sense of righteousness（正義感）。" }
+    ],
+    "usages": [
+      { "title": "① 「高潔さ・正義」として", "desc": "道徳的に正しいことを表します。", "example_en": "He lived a life of righteousness.", "example_ja": "彼は高潔な人生を送った。" },
+      { "title": "② 宗教的な文脈で", "desc": "神の前での正しさを表します。", "example_en": "The scriptures speak of righteousness.", "example_ja": "聖典は義（正しさ）について語る。" }
+    ],
+    "warn": [
+      "righteousness は『（道徳的・宗教的な）正しさ・高潔さ・正義』。形容詞は righteous（正しい・高潔な）。",
+      "self-righteousness は『独善・ひとりよがりの正義感』で否定的。"
+    ],
+    "etym_note": "righteous（rightwise「正しい道の」より＝正しい・高潔な）に -ness が付いた語です。right（正しい）と同じ語根で、「正しくあること」を意味します。",
+    "etym_chain": [
+      { "node": "rihtwis", "sub": "正しい道の", "era": "古英語" },
+      { "node": "righteous", "sub": "正しい・高潔な", "era": "中英語" },
+      { "node": "righteousness", "sub": "正しさ・正義", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a sense of righteousness", "ja": "正義感" },
+      { "en": "a life of righteousness", "ja": "高潔な人生" },
+      { "en": "moral righteousness", "ja": "道徳的な正しさ" },
+      { "en": "self-righteousness", "ja": "独善・ひとりよがりの正義感" },
+      { "en": "uphold righteousness", "ja": "正義を守る" },
+      { "en": "with righteousness", "ja": "正しさをもって" }
+    ],
+    "related": [
+      { "en": "righteous", "ja": "正しい・高潔な" },
+      { "en": "virtue", "ja": "美徳" },
+      { "en": "morality", "ja": "道徳" },
+      { "en": "justice", "ja": "正義" }
+    ],
+    "faq": [
+      { "q": "righteousness とはどんな意味？", "a": "道徳的・宗教的に正しく、徳が高いこと『正しさ・高潔さ・正義』のことです。a sense of righteousness（正義感）のように使います。形容詞は righteous です。" },
+      { "q": "self-righteousness とは？", "a": "『自分だけが正しいと思い込む独善・ひとりよがりの正義感』のことで、否定的な意味で使われます。" }
+    ],
+    "quiz": [
+      { "q": "He lived a life of ___.（高潔さ）", "A": "righteousness", "B": "rightfulness の正当性", "C": "richness の豊かさ", "D": "rudeness の無礼", "correct": "A" },
+      { "q": "righteousness の形容詞形はどれ？", "A": "righteous（正しい・高潔な）", "B": "rightful（正当な）", "C": "rich（豊かな）", "D": "rude（無礼な）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reclamation",
+    "pron": "ˌrekləˈmeɪʃən",
+    "kana": "レクラメーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 reclamare（呼び戻す・取り戻す）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "環境・土木"],
+    "meaning_main": "（土地の）埋め立て・干拓・開墾／（資源の）再生・回収",
+    "description": "reclamation の意味・発音・例文・語源を解説。海や荒れ地を使えるようにする「埋め立て・干拓・開墾」や、資源の「再生・回収」を指す語の使い方を紹介します。",
+    "keywords": ["reclamation 意味", "reclamation 発音", "reclamation 埋め立て", "reclaim 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】（土地の）埋め立て・干拓・開墾", "note": "海・湿地・荒れ地を使える土地にすること。land reclamation（土地の埋め立て）。" },
+      { "hinshi": "【名詞】（資源・廃材の）再生・回収", "note": "捨てられたものを再び使えるようにすること。" }
+    ],
+    "usages": [
+      { "title": "① 「埋め立て・干拓」として", "desc": "海や荒れ地を使える土地にすることを表します。", "example_en": "The airport was built on land reclamation.", "example_ja": "その空港は埋め立て地に造られた。" },
+      { "title": "② 「再生・回収」として", "desc": "資源を再び使えるようにすることを表します。", "example_en": "Water reclamation reduces waste.", "example_ja": "水の再生利用はむだを減らす。" }
+    ],
+    "warn": [
+      "reclamation は『（土地の）埋め立て・干拓・開墾』と『（資源の）再生・回収』。動詞は reclaim。",
+      "land reclamation（土地の埋め立て）、water reclamation（水の再生利用）が頻出。"
+    ],
+    "etym_note": "ラテン語 reclamare（re-「再び」＋ clamare「叫ぶ・呼ぶ」＝呼び戻す）に由来します。「（土地・資源を）呼び戻して取り戻すこと」を意味します。claim（要求する）, exclaim（叫ぶ）と同じ clamare を語根にもちます。",
+    "etym_chain": [
+      { "node": "clamare", "sub": "叫ぶ・呼ぶ", "era": "ラテン語" },
+      { "node": "reclaim", "sub": "取り戻す・開墾する", "era": "中英語" },
+      { "node": "reclamation", "sub": "埋め立て・再生", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "land reclamation", "ja": "土地の埋め立て" },
+      { "en": "water reclamation", "ja": "水の再生利用" },
+      { "en": "a reclamation project", "ja": "埋め立て事業" },
+      { "en": "reclamation of waste", "ja": "廃棄物の再生" },
+      { "en": "coastal reclamation", "ja": "沿岸の埋め立て" },
+      { "en": "metal reclamation", "ja": "金属の回収" }
+    ],
+    "related": [
+      { "en": "reclaim", "ja": "取り戻す・埋め立てる" },
+      { "en": "recovery", "ja": "回収・回復" },
+      { "en": "recycling", "ja": "再生利用" },
+      { "en": "landfill", "ja": "埋め立て地" }
+    ],
+    "faq": [
+      { "q": "reclamation とはどんな意味？", "a": "海・湿地・荒れ地を使える土地にする『埋め立て・干拓・開墾』という意味と、捨てられた資源を再び使えるようにする『再生・回収』という意味があります。動詞は reclaim です。" },
+      { "q": "land reclamation とは？", "a": "海や湿地を埋め立てたり干拓したりして、利用できる土地を造ること『土地の埋め立て・干拓』です。" }
+    ],
+    "quiz": [
+      { "q": "The airport was built on land ___.（埋め立て）", "A": "reclamation", "B": "exclamation の感嘆", "C": "proclamation の宣言", "D": "acclamation の喝采", "correct": "A" },
+      { "q": "reclamation の動詞形はどれ？", "A": "reclaim（取り戻す・埋め立てる）", "B": "exclaim（叫ぶ）", "C": "proclaim（宣言する）", "D": "claim（要求する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reappearance",
+    "pron": "ˌriːəˈpɪərəns",
+    "kana": "リアピアランス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ appearance（出現）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "再出現・再登場・再び現れること",
+    "description": "reappearance の意味・発音・例文・語源を解説。いったん消えた人や物が「再び現れること・再登場・再出現」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["reappearance 意味", "reappearance 発音", "reappearance 再登場", "reappear 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再出現・再登場・再び現れること", "note": "いったん見えなくなった人・物・現象がまた現れること。the reappearance of an old symptom（古い症状の再発）。" }
+    ],
+    "usages": [
+      { "title": "① 人・物の再登場として", "desc": "消えたものが再び現れることを表します。", "example_en": "The reappearance of the comet excited scientists.", "example_ja": "その彗星の再出現は科学者たちを沸かせた。" },
+      { "title": "② 現象の再出現として", "desc": "再び見られることを表します。", "example_en": "Her reappearance on stage drew applause.", "example_ja": "彼女の舞台への再登場は拍手を呼んだ。" }
+    ],
+    "warn": [
+      "reappearance は『再出現・再登場』。re-（再び）＋ appearance（出現）。動詞は reappear。",
+      "disappearance（消失）の反対。"
+    ],
+    "etym_note": "re-（再び）＋ appearance（出現、appear「現れる」より）から成り、「もう一度現れること」を意味します。appear はラテン語 apparere（見えてくる）に由来します。",
+    "etym_chain": [
+      { "node": "apparere", "sub": "見えてくる", "era": "ラテン語" },
+      { "node": "appearance", "sub": "出現", "era": "中英語" },
+      { "node": "reappearance", "sub": "再出現", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the reappearance of", "ja": "〜の再出現" },
+      { "en": "a sudden reappearance", "ja": "突然の再登場" },
+      { "en": "make a reappearance", "ja": "再び姿を現す" },
+      { "en": "the reappearance on stage", "ja": "舞台への再登場" },
+      { "en": "a brief reappearance", "ja": "短い再登場" },
+      { "en": "await the reappearance", "ja": "再出現を待つ" }
+    ],
+    "related": [
+      { "en": "reappear", "ja": "再び現れる" },
+      { "en": "appearance", "ja": "出現・外見" },
+      { "en": "return", "ja": "戻ること" },
+      { "en": "disappearance", "ja": "消失（反対語）" }
+    ],
+    "faq": [
+      { "q": "reappearance とはどんな意味？", "a": "いったん見えなくなった人・物・現象が『再び現れること（再出現・再登場）』です。the reappearance of the comet（彗星の再出現）のように使います。動詞は reappear です。" },
+      { "q": "reappearance の反対語は？", "a": "disappearance（消失・姿を消すこと）です。動詞では reappear（再び現れる）⇔ disappear（消える）です。" }
+    ],
+    "quiz": [
+      { "q": "Her ___ on stage drew applause.（再登場）", "A": "reappearance", "B": "appearance の出現", "C": "disappearance の消失", "D": "clearance の整理", "correct": "A" },
+      { "q": "reappearance の反対語はどれ？", "A": "disappearance（消失）", "B": "appearance（出現）", "C": "clearance（整理）", "D": "endurance（忍耐）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reappraisal",
+    "pron": "ˌriːəˈpreɪzəl",
+    "kana": "リアプレイザル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ appraisal（評価）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "再評価・見直し（改めて価値や状況を評価し直すこと）",
+    "description": "reappraisal の意味・発音・例文・語源を解説。物事の価値や状況を改めて評価し直す「再評価・見直し」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["reappraisal 意味", "reappraisal 発音", "reappraisal 再評価", "appraisal 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再評価・見直し", "note": "物事の価値・状況・方針を改めて評価し直すこと。a reappraisal of the policy（方針の見直し）。" }
+    ],
+    "usages": [
+      { "title": "① 「再評価」として", "desc": "改めて価値を見直すことを表します。", "example_en": "The crisis forced a reappraisal of the strategy.", "example_ja": "その危機は戦略の見直しを迫った。" },
+      { "title": "② 「見直し」として", "desc": "状況をとらえ直すことを表します。", "example_en": "His work is undergoing critical reappraisal.", "example_ja": "彼の作品は批評家による再評価を受けている。" }
+    ],
+    "warn": [
+      "reappraisal は『再評価・見直し』。re-（再び）＋ appraisal（評価）。動詞は reappraise。",
+      "reassessment（再評価）とほぼ同義。"
+    ],
+    "etym_note": "re-（再び）＋ appraisal（評価、appraise「値踏みする」より）から成り、「もう一度評価し直すこと」を意味します。price（値段）, praise（称賛）と語源的につながります。",
+    "etym_chain": [
+      { "node": "appraise", "sub": "値踏みする・評価する", "era": "中英語" },
+      { "node": "appraisal", "sub": "評価", "era": "近代英語" },
+      { "node": "reappraisal", "sub": "再評価・見直し", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a reappraisal of", "ja": "〜の再評価" },
+      { "en": "force a reappraisal", "ja": "見直しを迫る" },
+      { "en": "critical reappraisal", "ja": "批判的な再評価" },
+      { "en": "undergo reappraisal", "ja": "再評価を受ける" },
+      { "en": "a major reappraisal", "ja": "大幅な見直し" },
+      { "en": "call for a reappraisal", "ja": "見直しを求める" }
+    ],
+    "related": [
+      { "en": "reappraise", "ja": "再評価する" },
+      { "en": "reassessment", "ja": "再評価" },
+      { "en": "review", "ja": "見直し" },
+      { "en": "appraisal", "ja": "評価・査定" }
+    ],
+    "faq": [
+      { "q": "reappraisal とはどんな意味？", "a": "物事の価値・状況・方針を改めて評価し直すこと『再評価・見直し』のことです。a reappraisal of the policy（方針の見直し）のように使います。動詞は reappraise です。" },
+      { "q": "reappraisal と reassessment の違いは？", "a": "ほぼ同じ『再評価』ですが、reappraisal は『（価値・意義の）見直し』、reassessment は『（程度・状況の）評価し直し』にやや重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The crisis forced a ___ of the strategy.（見直し）", "A": "reappraisal", "B": "appraisal の評価", "C": "approval の承認", "D": "appendix の付録", "correct": "A" },
+      { "q": "reappraisal の動詞形はどれ？", "A": "reappraise（再評価する）", "B": "approve（承認する）", "C": "appeal（訴える）", "D": "append（付け加える）", "correct": "A" }
+    ]
+  }
+]
