@@ -1,0 +1,527 @@
+[
+  {
+    "english": "ransack",
+    "pron": "ˈrænsæk",
+    "kana": "ランサック",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古ノルド語 rannsaka（家を探す）より",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "やや硬い語"],
+    "meaning_main": "（家・部屋を）荒らし回って探す・略奪する",
+    "description": "ransack の意味・発音・例文・語源を解説。家や部屋を「ひっくり返して探す・荒らし回る」という、強盗や捜索の場面で使う語を分かりやすく紹介します。",
+    "keywords": ["ransack 意味", "ransack 発音", "荒らし回る", "略奪する"],
+    "meanings": [
+      { "hinshi": "【動詞】（場所を）荒らし回って探す・引っかき回す", "note": "何かを探して乱暴にひっくり返す。ransack the house（家中を引っかき回す）。" },
+      { "hinshi": "【動詞】略奪する・荒らす", "note": "押し入って物を奪う。" }
+    ],
+    "usages": [
+      { "title": "① 「荒らし回って探す」として", "desc": "物を探して乱暴にかき回すことを表します。", "example_en": "Burglars ransacked the house looking for cash.", "example_ja": "強盗は現金を探して家中を荒らし回った。" },
+      { "title": "② 「略奪する」として", "desc": "押し入って奪うことを表します。", "example_en": "The soldiers ransacked the village.", "example_ja": "兵士たちはその村を略奪した。" }
+    ],
+    "warn": [
+      "ransack は『（探し物のために）荒らし回る・引っかき回す』が中心。乱暴に散らかすニュアンスがある。",
+      "ransom（身代金）とは別語。つづり・意味に注意。"
+    ],
+    "etym_note": "古ノルド語 rannsaka（rann「家」＋ saka「探す」）に由来し、「家の中を探し回ること」を意味します。もとは合法的な家宅捜索の語でしたが、のちに『荒らし回る』意味が強まりました。",
+    "etym_chain": [
+      { "node": "rannsaka", "sub": "家を探す", "era": "古ノルド語" },
+      { "node": "ransaken", "sub": "探し回る", "era": "中英語" },
+      { "node": "ransack", "sub": "荒らし回って探す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "ransack the house", "ja": "家中を荒らし回る" },
+      { "en": "ransack the room", "ja": "部屋を引っかき回す" },
+      { "en": "ransack the drawers", "ja": "引き出しをかき回す" },
+      { "en": "ransack the village", "ja": "村を略奪する" },
+      { "en": "ransack for money", "ja": "金を探して荒らす" },
+      { "en": "thoroughly ransack", "ja": "徹底的に引っかき回す" }
+    ],
+    "related": [
+      { "en": "loot", "ja": "略奪する" },
+      { "en": "plunder", "ja": "略奪する" },
+      { "en": "rummage", "ja": "かき回して探す" },
+      { "en": "raid", "ja": "急襲する" }
+    ],
+    "faq": [
+      { "q": "ransack とはどんな意味？", "a": "何かを探して『家や部屋を荒らし回る・引っかき回す』、また『略奪する』という意味です。Burglars ransacked the house.（強盗が家中を荒らし回った）のように使います。" },
+      { "q": "ransack と ransom は同じ？", "a": "いいえ、別の語です。ransack は『荒らし回って探す』、ransom は『身代金（を払う）』です。つづりも意味も違うので注意しましょう。" }
+    ],
+    "quiz": [
+      { "q": "Burglars ___ed the house looking for cash.（荒らし回った）", "A": "ransack", "B": "ransom の身代金", "C": "rank の順位をつける", "D": "rinse のすすぐ", "correct": "A" },
+      { "q": "ransack の意味として正しいのは？", "A": "荒らし回って探す・略奪する", "B": "身代金を払う", "C": "順位をつける", "D": "すすぐ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rattlesnake",
+    "pron": "ˈrætlsneɪk",
+    "kana": "ラトルスネイク",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rattle（ガラガラ鳴る）＋ snake（ヘビ）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "動物"],
+    "meaning_main": "ガラガラヘビ",
+    "description": "rattlesnake の意味・発音・例文・語源を解説。尾を振って音を出す毒ヘビ「ガラガラヘビ」を表す名詞の使い方を分かりやすく紹介します。",
+    "keywords": ["rattlesnake 意味", "rattlesnake 発音", "ガラガラヘビ", "毒ヘビ"],
+    "meanings": [
+      { "hinshi": "【名詞】ガラガラヘビ", "note": "尾の先を振って『ガラガラ』と音を出す毒ヘビ。北米・南米に多い。複数形は rattlesnakes。" }
+    ],
+    "usages": [
+      { "title": "① 「ガラガラヘビ」として", "desc": "毒ヘビの一種を表します。", "example_en": "A rattlesnake bit the hiker on the leg.", "example_ja": "ガラガラヘビがハイカーの足をかんだ。" },
+      { "title": "② 警告の音とともに", "desc": "尾の音で危険を知らせる様子を表します。", "example_en": "We heard a rattlesnake before we saw it.", "example_ja": "姿を見る前にガラガラヘビの音が聞こえた。" }
+    ],
+    "warn": [
+      "rattlesnake は『ガラガラヘビ』。rattle（ガラガラ鳴る・おもちゃのガラガラ）＋ snake（ヘビ）。",
+      "尾を振る音は warning（警告）。危険な毒ヘビ（venomous）。"
+    ],
+    "etym_note": "rattle（ガラガラ鳴る、擬音語より）＋ snake（ヘビ、古英語 snaca より）から成り、「尾でガラガラ音を立てるヘビ」を意味します。尾の先の角質の節が音を出します。",
+    "etym_chain": [
+      { "node": "rattle + snaca", "sub": "ガラガラ鳴る＋ヘビ", "era": "古英語・擬音" },
+      { "node": "rattlesnake", "sub": "ガラガラヘビ", "era": "近代英語" },
+      { "node": "rattlesnake", "sub": "ガラガラヘビ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rattlesnake bite", "ja": "ガラガラヘビのかみ傷" },
+      { "en": "a venomous rattlesnake", "ja": "毒のあるガラガラヘビ" },
+      { "en": "a coiled rattlesnake", "ja": "とぐろを巻いたガラガラヘビ" },
+      { "en": "the rattle of a rattlesnake", "ja": "ガラガラヘビの尾の音" },
+      { "en": "step on a rattlesnake", "ja": "ガラガラヘビを踏む" },
+      { "en": "a desert rattlesnake", "ja": "砂漠のガラガラヘビ" }
+    ],
+    "related": [
+      { "en": "snake", "ja": "ヘビ" },
+      { "en": "rattle", "ja": "ガラガラ鳴る・ガラガラ" },
+      { "en": "venom", "ja": "（ヘビの）毒" },
+      { "en": "viper", "ja": "クサリヘビ・毒ヘビ" }
+    ],
+    "faq": [
+      { "q": "rattlesnake とはどんな意味？", "a": "尾の先を振って『ガラガラ』と音を立てる毒ヘビ『ガラガラヘビ』のことです。rattle（ガラガラ鳴る）＋ snake（ヘビ）からできた語です。" },
+      { "q": "rattlesnake はなぜその名前なの？", "a": "尾の先にある角質の節を振って『ガラガラ（rattle）』と音を出すことから名づけられました。この音は近づく相手への警告です。" }
+    ],
+    "quiz": [
+      { "q": "A ___ bit the hiker on the leg.（ガラガラヘビ）", "A": "rattlesnake", "B": "snake の単なるヘビ", "C": "rattle のガラガラ", "D": "rake の熊手", "correct": "A" },
+      { "q": "rattlesnake の名前の由来は？", "A": "尾を振ってガラガラ音を出すから", "B": "色が鮮やかだから", "C": "とても速いから", "D": "水中にすむから", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recluse",
+    "pron": "ˈrekluːs",
+    "kana": "レクルース",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 recludere（閉じ込める）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "やや硬い語"],
+    "meaning_main": "世捨て人・隠遁者（人を避けて暮らす人）",
+    "description": "recluse の意味・発音・例文・語源を解説。人との交わりを避け、ひっそり暮らす「世捨て人・隠遁者」を表す名詞の使い方を分かりやすく紹介します。",
+    "keywords": ["recluse 意味", "recluse 発音", "世捨て人", "隠遁者"],
+    "meanings": [
+      { "hinshi": "【名詞】世捨て人・隠遁者", "note": "人付き合いを避け、孤独に暮らす人。a famous recluse（有名な世捨て人）。" },
+      { "hinshi": "【形容詞】隠遁した・世を避けた", "note": "形容詞用法もあるが名詞が中心。" }
+    ],
+    "usages": [
+      { "title": "① 「世捨て人」として", "desc": "人を避けて暮らす人を表します。", "example_en": "After his wife died, he became a recluse.", "example_ja": "妻を亡くしたあと、彼は世捨て人になった。" },
+      { "title": "② 有名人の隠遁として", "desc": "人前に出なくなった有名人を表します。", "example_en": "The famous writer lived as a recluse.", "example_ja": "その有名な作家は隠遁者として暮らした。" }
+    ],
+    "warn": [
+      "recluse は『（人を避けて暮らす）世捨て人・隠遁者』。形容詞 reclusive（隠遁的な）も頻出。",
+      "アクセントは前（RE-cluse）。動詞 recede とは別語。"
+    ],
+    "etym_note": "ラテン語 recludere（re-「後ろへ」＋ claudere「閉じる」）に由来し、「閉じこもった人」を意味します。close（閉じる）, exclude（締め出す）と同じ語根です。",
+    "etym_chain": [
+      { "node": "recludere", "sub": "閉じ込める", "era": "ラテン語" },
+      { "node": "reclus", "sub": "隠遁者", "era": "古フランス語" },
+      { "node": "recluse", "sub": "世捨て人", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "become a recluse", "ja": "世捨て人になる" },
+      { "en": "live as a recluse", "ja": "隠遁者として暮らす" },
+      { "en": "a famous recluse", "ja": "有名な隠遁者" },
+      { "en": "a virtual recluse", "ja": "ほとんど世捨て人同然の人" },
+      { "en": "a reclusive lifestyle", "ja": "隠遁的な暮らし" },
+      { "en": "an elderly recluse", "ja": "年老いた世捨て人" }
+    ],
+    "related": [
+      { "en": "reclusive", "ja": "隠遁的な" },
+      { "en": "hermit", "ja": "隠者・世捨て人" },
+      { "en": "loner", "ja": "一匹狼・孤独を好む人" },
+      { "en": "seclusion", "ja": "隠遁・人里離れること" }
+    ],
+    "faq": [
+      { "q": "recluse とはどんな意味？", "a": "人付き合いを避けてひっそり暮らす『世捨て人・隠遁者』のことです。After his wife died, he became a recluse.（妻の死後、彼は世捨て人になった）のように使います。" },
+      { "q": "recluse と hermit の違いは？", "a": "どちらも『世を避けて暮らす人』ですが、hermit は宗教的な理由で人里離れて暮らす『隠者』のニュアンスが強く、recluse は理由を問わず『人を避ける人』を広く指します。" }
+    ],
+    "quiz": [
+      { "q": "After his wife died, he became a ___.（世捨て人）", "A": "recluse", "B": "rescue の救助", "C": "release の解放", "D": "recline の横たわる", "correct": "A" },
+      { "q": "recluse の形容詞はどれ？", "A": "reclusive（隠遁的な）", "B": "recursive（再帰的な）", "C": "reductive（還元的な）", "D": "reflexive（反射的な）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "refraction",
+    "pron": "rɪˈfrækʃən",
+    "kana": "リフラクション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 refringere（砕く・曲げる）より",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "理科・物理"],
+    "meaning_main": "屈折（光・波が境界で曲がる現象）",
+    "description": "refraction の意味・発音・例文・語源を解説。光や波が異なる物質に入るとき進む向きが変わる「屈折」を表す、理科で使う名詞を分かりやすく紹介します。",
+    "keywords": ["refraction 意味", "refraction 発音", "屈折", "物理 光"],
+    "meanings": [
+      { "hinshi": "【名詞】屈折", "note": "光・音・波が異なる媒質に入るとき進む向きが変わる現象。the refraction of light（光の屈折）。" }
+    ],
+    "usages": [
+      { "title": "① 光の「屈折」として", "desc": "光が曲がって進む現象を表します。", "example_en": "The refraction of light makes the straw look bent.", "example_ja": "光の屈折でストローが曲がって見える。" },
+      { "title": "② 物理現象として", "desc": "波が境界で向きを変えることを表します。", "example_en": "A rainbow is caused by the refraction of sunlight.", "example_ja": "虹は太陽光の屈折によって生じる。" }
+    ],
+    "warn": [
+      "refraction は『屈折』（光・波が曲がること）。reflection（反射）と混同しやすいので注意。",
+      "動詞は refract（屈折させる・屈折する）。形容詞は refractive（屈折の）。"
+    ],
+    "etym_note": "ラテン語 refringere（re-「後ろへ」＋ frangere「砕く・折る」）に由来し、「（光の道筋を）折り曲げること」を意味します。fracture（骨折）, fragment（断片）と同じ語根です。",
+    "etym_chain": [
+      { "node": "refringere", "sub": "砕く・曲げる", "era": "ラテン語" },
+      { "node": "refraction", "sub": "屈折", "era": "近代英語" },
+      { "node": "refraction", "sub": "屈折", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the refraction of light", "ja": "光の屈折" },
+      { "en": "the index of refraction", "ja": "屈折率" },
+      { "en": "the angle of refraction", "ja": "屈折角" },
+      { "en": "atmospheric refraction", "ja": "大気による屈折" },
+      { "en": "double refraction", "ja": "複屈折" },
+      { "en": "refraction of sound", "ja": "音の屈折" }
+    ],
+    "related": [
+      { "en": "refract", "ja": "屈折させる" },
+      { "en": "reflection", "ja": "反射" },
+      { "en": "refractive", "ja": "屈折の" },
+      { "en": "diffraction", "ja": "回折" }
+    ],
+    "faq": [
+      { "q": "refraction とはどんな意味？", "a": "光や波が異なる物質に入るとき、進む向きが曲がる『屈折』のことです。The refraction of light makes the straw look bent.（光の屈折でストローが曲がって見える）のように使います。" },
+      { "q": "refraction と reflection の違いは？", "a": "refraction は『屈折』（境界を通り抜けるとき向きが曲がる）、reflection は『反射』（表面ではね返る）です。鏡は反射、水中のストローが曲がって見えるのは屈折です。" }
+    ],
+    "quiz": [
+      { "q": "The ___ of light makes the straw look bent.（屈折）", "A": "refraction", "B": "reflection の反射", "C": "reaction の反応", "D": "fraction の分数", "correct": "A" },
+      { "q": "refraction の動詞形はどれ？", "A": "refract（屈折させる）", "B": "reflect（反射する）", "C": "react（反応する）", "D": "reduce（減らす）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "regatta",
+    "pron": "rɪˈɡætə",
+    "kana": "リガッタ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ベネチア方言 regata（競争）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "スポーツ"],
+    "meaning_main": "レガッタ（ボート・ヨットの競漕大会）",
+    "description": "regatta の意味・発音・例文・語源を解説。ボートやヨットの「競漕大会（レガッタ）」を表す名詞の使い方と、その語源を分かりやすく紹介します。",
+    "keywords": ["regatta 意味", "regatta 発音", "レガッタ", "ボートレース"],
+    "meanings": [
+      { "hinshi": "【名詞】レガッタ・ボート（ヨット）競漕大会", "note": "ボートやヨットのレースの催し。a sailing regatta（ヨットのレガッタ）。複数形は regattas。" }
+    ],
+    "usages": [
+      { "title": "① ボートの「レガッタ」として", "desc": "ボート競漕の大会を表します。", "example_en": "Thousands gathered to watch the annual regatta.", "example_ja": "毎年恒例のレガッタを見ようと大勢が集まった。" },
+      { "title": "② ヨットレースとして", "desc": "ヨットの競技会を表します。", "example_en": "She competed in a sailing regatta last summer.", "example_ja": "彼女は昨夏、ヨットのレガッタに出場した。" }
+    ],
+    "warn": [
+      "regatta は『ボート・ヨットの競漕大会』。つづりは t が2つ（rega-tt-a）。",
+      "イタリア・ベネチア由来の語で、いまは英語の正式な語。"
+    ],
+    "etym_note": "ベネチア方言 regata（『競争』の意。もとはゴンドラの競漕）に由来し、英語に入って『ボート競漕大会』を意味するようになりました。ベネチアの運河での船の競争が起源です。",
+    "etym_chain": [
+      { "node": "regata", "sub": "（ゴンドラの）競争", "era": "ベネチア方言" },
+      { "node": "regatta", "sub": "ボート競漕大会", "era": "18世紀英語" },
+      { "node": "regatta", "sub": "レガッタ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a sailing regatta", "ja": "ヨットのレガッタ" },
+      { "en": "a rowing regatta", "ja": "ボート競漕大会" },
+      { "en": "the annual regatta", "ja": "毎年恒例のレガッタ" },
+      { "en": "compete in a regatta", "ja": "レガッタに出場する" },
+      { "en": "win the regatta", "ja": "レガッタで優勝する" },
+      { "en": "host a regatta", "ja": "レガッタを主催する" }
+    ],
+    "related": [
+      { "en": "rowing", "ja": "ボート競技・ローイング" },
+      { "en": "sailing", "ja": "ヨット・帆走" },
+      { "en": "race", "ja": "レース・競争" },
+      { "en": "crew", "ja": "（ボートの）こぎ手・乗組員" }
+    ],
+    "faq": [
+      { "q": "regatta とはどんな意味？", "a": "ボートやヨットの『競漕大会（レガッタ）』のことです。Thousands gathered to watch the annual regatta.（毎年恒例のレガッタを大勢が見に集まった）のように使います。" },
+      { "q": "regatta はどこの言葉が由来？", "a": "イタリア・ベネチアの方言 regata（競争）が由来で、もとは運河でのゴンドラの競争を指しました。そこから英語で『ボート競漕大会』の意味になりました。" }
+    ],
+    "quiz": [
+      { "q": "Thousands gathered to watch the annual ___.（レガッタ）", "A": "regatta", "B": "regard の見なすこと", "C": "regalia の正装", "D": "regret の後悔", "correct": "A" },
+      { "q": "regatta はどんな大会？", "A": "ボート・ヨットの競漕大会", "B": "馬の競走", "C": "自転車レース", "D": "陸上競技大会", "correct": "A" }
+    ]
+  },
+  {
+    "english": "renown",
+    "pron": "rɪˈnaʊn",
+    "kana": "リナウン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 renomer（有名にする）より",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "やや硬い語"],
+    "meaning_main": "名声・高い評判",
+    "description": "renown の意味・発音・例文・語源を解説。広く知られた「名声・高い評判」を表す名詞の使い方と、形容詞 renowned（有名な）との関係を分かりやすく紹介します。",
+    "keywords": ["renown 意味", "renown 発音", "名声", "renowned 有名な"],
+    "meanings": [
+      { "hinshi": "【名詞】名声・高い評判", "note": "広く知られ称えられること。of great renown（非常に名高い）。a chef of international renown（国際的な名声のあるシェフ）。" }
+    ],
+    "usages": [
+      { "title": "① 「名声」として", "desc": "広く知られ称えられることを表します。", "example_en": "She is a scientist of great renown.", "example_ja": "彼女は非常に名高い科学者だ。" },
+      { "title": "② of renown の形で", "desc": "「名声のある」という意味になります。", "example_en": "He is an artist of international renown.", "example_ja": "彼は国際的な名声を持つ芸術家だ。" }
+    ],
+    "warn": [
+      "renown は名詞『名声』。形容詞は renowned（有名な）。renown を形容詞のように使う誤りに注意。",
+      "of renown / of great renown（名高い）の形が多い。"
+    ],
+    "etym_note": "古フランス語 renomer（re-「再び」＋ nomer「名づける」）に由来し、「（人の名が）何度も語られること＝名声」を意味します。name, nominate（指名する）と同じ語根です。",
+    "etym_chain": [
+      { "node": "renomer", "sub": "有名にする", "era": "古フランス語" },
+      { "node": "renoun", "sub": "名声", "era": "中英語" },
+      { "node": "renown", "sub": "名声", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "of great renown", "ja": "非常に名高い" },
+      { "en": "of international renown", "ja": "国際的な名声のある" },
+      { "en": "win renown", "ja": "名声を得る" },
+      { "en": "achieve renown", "ja": "名声を勝ち取る" },
+      { "en": "a man of renown", "ja": "名高い人物" },
+      { "en": "worldwide renown", "ja": "世界的な名声" }
+    ],
+    "related": [
+      { "en": "renowned", "ja": "有名な・名高い" },
+      { "en": "fame", "ja": "名声" },
+      { "en": "reputation", "ja": "評判" },
+      { "en": "prestige", "ja": "威信・名声" }
+    ],
+    "faq": [
+      { "q": "renown とはどんな意味？", "a": "広く知られた『名声・高い評判』という意味の名詞です。a scientist of great renown（非常に名高い科学者）のように、of renown の形でよく使います。" },
+      { "q": "renown と renowned の違いは？", "a": "renown は名詞『名声』、renowned は形容詞『有名な・名高い』です。a chef of renown ＝ a renowned chef（名高いシェフ）のように言い換えられます。" }
+    ],
+    "quiz": [
+      { "q": "She is a scientist of great ___.（名声）", "A": "renown", "B": "renowned の有名な", "C": "reknown という語はない", "D": "renew の更新する", "correct": "A" },
+      { "q": "renown の形容詞形はどれ？", "A": "renowned（有名な）", "B": "renewed（更新された）", "C": "renamed（改名された）", "D": "renowning という語はない", "correct": "A" }
+    ]
+  },
+  {
+    "english": "repent",
+    "pron": "rɪˈpent",
+    "kana": "リペント",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 paenitere（後悔させる）より",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "宗教・道徳"],
+    "meaning_main": "悔い改める・後悔する",
+    "description": "repent の意味・発音・例文・語源を解説。罪や過ちを「悔い改める・深く後悔する」という、宗教・道徳の文脈で使う語を分かりやすく紹介します。",
+    "keywords": ["repent 意味", "repent 発音", "悔い改める", "後悔する"],
+    "meanings": [
+      { "hinshi": "【動詞】悔い改める・(罪を)悔いる", "note": "過ちを反省し改心する。repent of one's sins（罪を悔い改める）。" },
+      { "hinshi": "【動詞】（行いを）深く後悔する", "note": "したことを心から悔やむ。" }
+    ],
+    "usages": [
+      { "title": "① 「悔い改める」として", "desc": "罪を反省し改心することを表します。", "example_en": "He repented of his sins.", "example_ja": "彼は自分の罪を悔い改めた。" },
+      { "title": "② 「深く後悔する」として", "desc": "過去の行いを心から悔やむことを表します。", "example_en": "She repented her harsh words.", "example_ja": "彼女はきつい言葉を深く後悔した。" }
+    ],
+    "warn": [
+      "repent は『悔い改める・深く後悔する』。宗教・道徳的な強い後悔のニュアンス。regret より重い。",
+      "repent of ～（～を悔い改める）の形が多い。名詞は repentance（悔い改め）。"
+    ],
+    "etym_note": "ラテン語 paenitere（後悔させる）が古フランス語 repentir を経て英語に入り、「深く悔いること」を意味します。penance（贖罪）, penitent（悔い改めた）と同じ語根です。",
+    "etym_chain": [
+      { "node": "paenitere", "sub": "後悔させる", "era": "ラテン語" },
+      { "node": "repentir", "sub": "悔い改める", "era": "古フランス語" },
+      { "node": "repent", "sub": "悔い改める", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "repent of one's sins", "ja": "罪を悔い改める" },
+      { "en": "repent and be saved", "ja": "悔い改めて救われる" },
+      { "en": "truly repent", "ja": "心から悔い改める" },
+      { "en": "repent of one's deeds", "ja": "行いを悔いる" },
+      { "en": "live to repent", "ja": "後悔して生きる" },
+      { "en": "repentance and forgiveness", "ja": "悔い改めと赦し" }
+    ],
+    "related": [
+      { "en": "repentance", "ja": "悔い改め" },
+      { "en": "regret", "ja": "後悔する" },
+      { "en": "atone", "ja": "罪を償う" },
+      { "en": "penitent", "ja": "悔い改めた" }
+    ],
+    "faq": [
+      { "q": "repent とはどんな意味？", "a": "罪や過ちを『悔い改める・深く後悔する』という意味です。He repented of his sins.（彼は罪を悔い改めた）のように、宗教・道徳の文脈でよく使います。名詞は repentance です。" },
+      { "q": "repent と regret の違いは？", "a": "regret は『（広く）後悔する・残念に思う』、repent は『（罪・過ちを）悔い改める』という宗教的・道徳的に重い後悔です。改心して行いを正すニュアンスがあります。" }
+    ],
+    "quiz": [
+      { "q": "He ___ed of his sins.（悔い改めた）", "A": "repent", "B": "represent の表す", "C": "repeat の繰り返す", "D": "rent の借りる", "correct": "A" },
+      { "q": "repent の名詞形はどれ？", "A": "repentance（悔い改め）", "B": "repetition（繰り返し）", "C": "representation（表現）", "D": "rental（賃貸）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "resonance",
+    "pron": "ˈrezənəns",
+    "kana": "レゾナンス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 resonare（鳴り響く）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "理科・比喩"],
+    "meaning_main": "共鳴・反響／（心に）響くこと・共感",
+    "description": "resonance の意味・発音・例文・語源を解説。音の「共鳴・反響」という物理の意味と、考えや作品が心に「響くこと・共感」という比喩の意味を分かりやすく紹介します。",
+    "keywords": ["resonance 意味", "resonance 発音", "共鳴", "心に響く"],
+    "meanings": [
+      { "hinshi": "【名詞】共鳴・反響", "note": "物体が外からの振動に合わせて大きく振動する現象。音の豊かな響き。" },
+      { "hinshi": "【名詞】（心に）響くこと・共感・訴える力", "note": "考え・作品が人の心に深く訴えること。have resonance（心に響く）。" }
+    ],
+    "usages": [
+      { "title": "① 物理の「共鳴」として", "desc": "振動が共鳴して強まる現象を表します。", "example_en": "The bridge collapsed due to resonance.", "example_ja": "その橋は共鳴によって崩落した。" },
+      { "title": "② 比喩の「心に響くこと」として", "desc": "考えや作品が心に訴えることを表します。", "example_en": "Her speech had a deep resonance with young people.", "example_ja": "彼女の演説は若者の心に深く響いた。" }
+    ],
+    "warn": [
+      "resonance は物理では『共鳴・反響』、比喩では『心に響くこと・共感』。後者は have resonance（心に響く）でよく使う。",
+      "動詞は resonate（共鳴する・心に響く）。形容詞は resonant（よく響く）。"
+    ],
+    "etym_note": "ラテン語 resonare（re-「再び」＋ sonare「鳴る」）に由来し、「鳴り返ること＝響き合うこと」を意味します。sound（音）, sonic（音の）と同じ語根です。",
+    "etym_chain": [
+      { "node": "resonare", "sub": "鳴り響く", "era": "ラテン語" },
+      { "node": "resonance", "sub": "共鳴・反響", "era": "近代英語" },
+      { "node": "resonance", "sub": "共鳴・心に響くこと", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "have resonance", "ja": "心に響く・共感を呼ぶ" },
+      { "en": "emotional resonance", "ja": "感情的な共鳴" },
+      { "en": "cultural resonance", "ja": "文化的な訴える力" },
+      { "en": "acoustic resonance", "ja": "音響共鳴" },
+      { "en": "strike a resonance", "ja": "共感を呼び起こす" },
+      { "en": "magnetic resonance", "ja": "磁気共鳴（MRIの原理）" }
+    ],
+    "related": [
+      { "en": "resonate", "ja": "共鳴する・心に響く" },
+      { "en": "resonant", "ja": "よく響く" },
+      { "en": "echo", "ja": "反響・こだま" },
+      { "en": "vibration", "ja": "振動" }
+    ],
+    "faq": [
+      { "q": "resonance とはどんな意味？", "a": "物理では音などの『共鳴・反響』、比喩では考えや作品が心に『響くこと・共感』を表します。Her speech had a deep resonance.（彼女の演説は深く心に響いた）のように使います。" },
+      { "q": "resonance の動詞形は？", "a": "resonate です。『共鳴する』という物理の意味と、『（人の）心に響く・共感を呼ぶ』という比喩の意味の両方で使えます（例: The message resonates with many people.）。" }
+    ],
+    "quiz": [
+      { "q": "Her speech had a deep ___ with young people.（共感・響き）", "A": "resonance", "B": "reservation の予約", "C": "residence の住居", "D": "resistance の抵抗", "correct": "A" },
+      { "q": "resonance の動詞形はどれ？", "A": "resonate（共鳴する・心に響く）", "B": "reserve（予約する）", "C": "reside（住む）", "D": "resist（抵抗する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retina",
+    "pron": "ˈretɪnə",
+    "kana": "レティナ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "中世ラテン語 retina（網のような膜）より",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "理科・医学"],
+    "meaning_main": "網膜（目の奥の光を受ける膜）",
+    "description": "retina の意味・発音・例文・語源を解説。目の奥にあって光を受け取り像を結ぶ膜「網膜」を表す、理科・医学で使う名詞を分かりやすく紹介します。",
+    "keywords": ["retina 意味", "retina 発音", "網膜", "目 構造"],
+    "meanings": [
+      { "hinshi": "【名詞】網膜", "note": "眼球の奥にあり、光を受けて像を結ぶ膜。視神経で脳に信号を送る。複数形は retinas または retinae。" }
+    ],
+    "usages": [
+      { "title": "① 目の構造としての「網膜」", "desc": "光を受け取る膜を表します。", "example_en": "Light is focused onto the retina at the back of the eye.", "example_ja": "光は目の奥の網膜に焦点を結ぶ。" },
+      { "title": "② 医学の文脈で", "desc": "網膜の病気や検査を表します。", "example_en": "The doctor examined the retina for damage.", "example_ja": "医師は損傷がないか網膜を調べた。" }
+    ],
+    "warn": [
+      "retina は『網膜』（目の奥で光を受ける膜）。形容詞は retinal（網膜の）。",
+      "cornea（角膜）, iris（虹彩）, pupil（瞳孔）など目の他の部位と区別する。"
+    ],
+    "etym_note": "中世ラテン語 retina（ラテン語 rete「網」より）に由来し、「網のような膜」を意味します。網膜の血管が網の目のように見えることからの名です。",
+    "etym_chain": [
+      { "node": "rete", "sub": "網", "era": "ラテン語" },
+      { "node": "retina", "sub": "網のような膜", "era": "中世ラテン語" },
+      { "node": "retina", "sub": "網膜", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the retina of the eye", "ja": "目の網膜" },
+      { "en": "a detached retina", "ja": "剥離した網膜（網膜剥離）" },
+      { "en": "focus on the retina", "ja": "網膜に焦点を結ぶ" },
+      { "en": "damage to the retina", "ja": "網膜の損傷" },
+      { "en": "the center of the retina", "ja": "網膜の中心" },
+      { "en": "a retinal scan", "ja": "網膜スキャン" }
+    ],
+    "related": [
+      { "en": "retinal", "ja": "網膜の" },
+      { "en": "cornea", "ja": "角膜" },
+      { "en": "iris", "ja": "虹彩" },
+      { "en": "pupil", "ja": "瞳孔" }
+    ],
+    "faq": [
+      { "q": "retina とはどんな意味？", "a": "目の奥にあって光を受け取り、像を結ぶ膜『網膜』のことです。Light is focused onto the retina.（光は網膜に焦点を結ぶ）のように使います。視神経を通じて脳に信号を送ります。" },
+      { "q": "retina と cornea の違いは？", "a": "retina（網膜）は目のいちばん奥で光を受け取る膜、cornea（角膜）は目のいちばん前の透明な膜です。光は角膜→瞳孔→水晶体を通って網膜に届きます。" }
+    ],
+    "quiz": [
+      { "q": "Light is focused onto the ___ at the back of the eye.（網膜）", "A": "retina", "B": "cornea の角膜", "C": "routine の日課", "D": "retainer の保持具", "correct": "A" },
+      { "q": "retina（網膜）は目のどこにある？", "A": "目の奥（後ろ）", "B": "目のいちばん前", "C": "まぶたの裏", "D": "まつ毛の根元", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rigor",
+    "pron": "ˈrɪɡər",
+    "kana": "リガー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 rigor（こわばり・厳しさ）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "やや硬い語"],
+    "meaning_main": "厳格さ・厳密さ／（複数で）厳しさ・困難",
+    "description": "rigor の意味・発音・例文・語源を解説。手順や考えの「厳密さ・厳格さ」、また rigors として「（環境などの）厳しさ」を表す語を分かりやすく紹介します。",
+    "keywords": ["rigor 意味", "rigor 発音", "厳密さ", "厳格さ"],
+    "meanings": [
+      { "hinshi": "【名詞】厳密さ・厳格さ", "note": "手順や論証がきっちりして手抜きがないこと。academic rigor（学問的な厳密さ）。" },
+      { "hinshi": "【名詞】(複数 rigors で)厳しさ・つらさ", "note": "環境・生活などの過酷さ。the rigors of winter（冬の厳しさ）。" }
+    ],
+    "usages": [
+      { "title": "① 「厳密さ」として", "desc": "手抜きのないきっちりした態度を表します。", "example_en": "The research was carried out with great rigor.", "example_ja": "その研究は非常に厳密に行われた。" },
+      { "title": "② rigors で「厳しさ」として", "desc": "環境などの過酷さを表します。", "example_en": "They endured the rigors of the desert.", "example_ja": "彼らは砂漠の厳しさに耐えた。" }
+    ],
+    "warn": [
+      "rigor は『厳密さ・厳格さ』。複数 rigors で『（環境などの）厳しさ・困難』。イギリス綴りは rigour。",
+      "形容詞は rigorous（厳格な・厳密な）。"
+    ],
+    "etym_note": "ラテン語 rigor（『こわばり・硬さ』、rigere「硬直する」より）に由来し、「厳しさ・厳密さ」を意味します。rigid（硬い・厳格な）と同じ語根です。",
+    "etym_chain": [
+      { "node": "rigere", "sub": "硬直する", "era": "ラテン語" },
+      { "node": "rigor", "sub": "こわばり・厳しさ", "era": "ラテン語" },
+      { "node": "rigor", "sub": "厳密さ・厳格さ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "academic rigor", "ja": "学問的な厳密さ" },
+      { "en": "intellectual rigor", "ja": "知的な厳密さ" },
+      { "en": "with great rigor", "ja": "非常に厳密に" },
+      { "en": "scientific rigor", "ja": "科学的な厳密さ" },
+      { "en": "the rigors of winter", "ja": "冬の厳しさ" },
+      { "en": "the rigors of training", "ja": "訓練の厳しさ" }
+    ],
+    "related": [
+      { "en": "rigorous", "ja": "厳格な・厳密な" },
+      { "en": "rigid", "ja": "硬い・厳格な" },
+      { "en": "strictness", "ja": "厳格さ" },
+      { "en": "hardship", "ja": "苦難・困難" }
+    ],
+    "faq": [
+      { "q": "rigor とはどんな意味？", "a": "手順や考えの『厳密さ・厳格さ』という意味です。The research was carried out with great rigor.（研究は非常に厳密に行われた）のように使います。複数 rigors では『（環境などの）厳しさ』を表します。" },
+      { "q": "rigor と rigour は違う？", "a": "同じ語で、つづりの違いだけです。rigor はアメリカ式、rigour はイギリス式です。形容詞はどちらも rigorous（厳格な）です。" }
+    ],
+    "quiz": [
+      { "q": "The research was carried out with great ___.（厳密さ）", "A": "rigor", "B": "vigor の活力", "C": "rumor のうわさ", "D": "razor のかみそり", "correct": "A" },
+      { "q": "rigor の形容詞形はどれ？", "A": "rigorous（厳格な・厳密な）", "B": "vigorous（精力的な）", "C": "generous（寛大な）", "D": "various（さまざまな）", "correct": "A" }
+    ]
+  }
+]
