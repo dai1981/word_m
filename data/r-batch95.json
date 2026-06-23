@@ -1,0 +1,474 @@
+[
+  {
+    "english": "rebrand",
+    "pron": "riːˈbrænd",
+    "kana": "リブランド",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ brand（ブランド化する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "ビジネス"],
+    "meaning_main": "（商品・企業の）ブランドを一新する・名称やイメージを刷新する",
+    "description": "rebrand の意味・発音・例文・語源を解説。会社や商品の名前・ロゴ・イメージを新しくする「ブランドを一新する・刷新する」というビジネスの語の使い方を紹介します。",
+    "keywords": ["rebrand 意味", "rebrand 発音", "ブランド一新", "brand 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】ブランドを一新する・名称やイメージを刷新する", "note": "会社・商品の名前・ロゴ・イメージを新しくする。rebrand the company（会社を一新する）。名詞は rebranding。" }
+    ],
+    "usages": [
+      { "title": "① 企業の一新として", "desc": "名前やロゴを刷新することを表します。", "example_en": "The company rebranded with a new logo.", "example_ja": "その会社は新しいロゴでブランドを一新した。" },
+      { "title": "② イメージの刷新として", "desc": "印象を作り直すことを表します。", "example_en": "They rebranded the product for a younger market.", "example_ja": "彼らは若い層向けに商品を一新した。" }
+    ],
+    "warn": [
+      "rebrand は『（商品・企業の）ブランドを一新する・刷新する』。re-（再び）＋ brand（ブランド化する）。名詞は rebranding。",
+      "中身より名前・ロゴ・イメージの刷新に重点。reposition（市場での立ち位置を変える）と近い。"
+    ],
+    "etym_note": "re-（再び）＋ brand（ブランド・焼き印をつける、古ノルド語 brandr「燃える棒・焼き印」より）から成り、「もう一度ブランドをつくり直すこと」を意味します。",
+    "etym_chain": [
+      { "node": "brandr", "sub": "焼き印", "era": "古ノルド語" },
+      { "node": "brand", "sub": "ブランド・焼き印をつける", "era": "近代英語" },
+      { "node": "rebrand", "sub": "ブランドを一新する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rebrand the company", "ja": "会社を一新する" },
+      { "en": "rebrand with a new logo", "ja": "新しいロゴで一新する" },
+      { "en": "rebrand the product", "ja": "商品を一新する" },
+      { "en": "be rebranded as", "ja": "〜として一新される" },
+      { "en": "a rebranding campaign", "ja": "ブランド刷新キャンペーン" },
+      { "en": "rebrand the image", "ja": "イメージを刷新する" }
+    ],
+    "related": [
+      { "en": "brand", "ja": "ブランド・ブランド化する" },
+      { "en": "reposition", "ja": "（市場で）打ち出し直す" },
+      { "en": "revamp", "ja": "刷新する" },
+      { "en": "makeover", "ja": "一新・大変身" }
+    ],
+    "faq": [
+      { "q": "rebrand とはどんな意味？", "a": "会社や商品の名前・ロゴ・イメージを新しくする『ブランドを一新する・刷新する』という動詞です。rebrand the company（会社を一新する）のように使います。名詞は rebranding です。" },
+      { "q": "rebrand と reposition の違いは？", "a": "rebrand は『名前・ロゴ・イメージの見た目を刷新する』、reposition は『狙う客層や市場での立ち位置を変える』ことに重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The company ___ed with a new logo.（一新した）", "A": "rebrand", "B": "rebound のはね返る", "C": "rebuild の再建する", "D": "rebut の反論する", "correct": "A" },
+      { "q": "rebrand のもとになった語はどれ？", "A": "brand（ブランド）", "B": "bland（土地）", "C": "blend（混ぜる）", "D": "bond（絆）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recalibrate",
+    "pron": "riːˈkælɪbreɪt",
+    "kana": "リキャリブレート",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ calibrate（較正する）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "技術・頻出語"],
+    "meaning_main": "（計器を）較正し直す・目盛りを調整し直す／（方針・期待を）調整し直す・見直す",
+    "description": "recalibrate の意味・発音・例文・語源を解説。計器を「較正し直す」、また方針や期待を「調整し直す・見直す」という比喩の使い方を分かりやすく紹介します。",
+    "keywords": ["recalibrate 意味", "recalibrate 発音", "較正し直す", "calibrate 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（計器を）較正し直す・目盛りを調整し直す", "note": "計器の精度を基準に合わせて調整し直す。recalibrate the instrument（計器を較正し直す）。" },
+      { "hinshi": "【動詞】（方針・期待を）調整し直す・見直す", "note": "状況に合わせて考え方や計画を調整し直す比喩。recalibrate expectations（期待を見直す）。" }
+    ],
+    "usages": [
+      { "title": "① 「較正し直す」として", "desc": "計器の精度を合わせ直すことを表します。", "example_en": "The scale needs to be recalibrated.", "example_ja": "そのはかりは較正し直す必要がある。" },
+      { "title": "② 「調整し直す・見直す」として", "desc": "方針や期待を調整し直す比喩です。", "example_en": "The company recalibrated its strategy.", "example_ja": "その会社は戦略を調整し直した。" }
+    ],
+    "warn": [
+      "recalibrate は『（計器を）較正し直す』、比喩で『（方針・期待を）調整し直す・見直す』。re-（再び）＋ calibrate（較正する）。",
+      "recalibrate expectations（期待値を見直す）はビジネスで頻出の比喩。"
+    ],
+    "etym_note": "re-（再び）＋ calibrate（較正する、caliber「口径・基準」より）から成り、「もう一度基準に合わせること」を意味します。caliber（銃の口径・力量）と同じ語根です。",
+    "etym_chain": [
+      { "node": "caliber", "sub": "口径・基準", "era": "近代英語" },
+      { "node": "calibrate", "sub": "較正する", "era": "近代英語" },
+      { "node": "recalibrate", "sub": "較正し直す・調整し直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "recalibrate the instrument", "ja": "計器を較正し直す" },
+      { "en": "recalibrate the scale", "ja": "はかりを較正し直す" },
+      { "en": "recalibrate expectations", "ja": "期待を見直す" },
+      { "en": "recalibrate the strategy", "ja": "戦略を調整し直す" },
+      { "en": "recalibrate the sensor", "ja": "センサーを較正し直す" },
+      { "en": "need to recalibrate", "ja": "調整し直す必要がある" }
+    ],
+    "related": [
+      { "en": "calibrate", "ja": "較正する" },
+      { "en": "adjust", "ja": "調整する" },
+      { "en": "readjust", "ja": "再調整する" },
+      { "en": "fine-tune", "ja": "微調整する" }
+    ],
+    "faq": [
+      { "q": "recalibrate とはどんな意味？", "a": "計器を『較正し直す・目盛りを調整し直す』という意味と、比喩で方針や期待を『調整し直す・見直す』という意味があります。recalibrate expectations（期待を見直す）のように使います。" },
+      { "q": "recalibrate と readjust の違いは？", "a": "recalibrate は特に『（基準に合わせて精密に）較正・調整し直す』、readjust は『（一般的に）再調整する・適応し直す』ことに重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The scale needs to be ___d.（較正し直す）", "A": "recalibrate", "B": "recall の思い出す", "C": "recover の回復する", "D": "recycle の再生する", "correct": "A" },
+      { "q": "recalibrate のもとになった語はどれ？", "A": "calibrate（較正する）", "B": "celebrate（祝う）", "C": "collaborate（協力する）", "D": "calculate（計算する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recapture",
+    "pron": "riːˈkæptʃər",
+    "kana": "リキャプチャー",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ capture（捕らえる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "奪還する・取り戻す／（感覚・雰囲気を）よみがえらせる・再現する",
+    "description": "recapture の意味・発音・例文・語源を解説。占領地や逃亡者を「奪還する・捕まえ直す」、また過去の感覚や雰囲気を「よみがえらせる」という使い方を紹介します。",
+    "keywords": ["recapture 意味", "recapture 発音", "奪還する", "capture 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】奪還する・取り戻す・捕まえ直す", "note": "失った場所・地位・逃げた者を再び手にする。recapture the city（街を奪還する）。" },
+      { "hinshi": "【動詞】（感覚・雰囲気を）よみがえらせる・再現する", "note": "過去の気分・魅力を取り戻す。recapture the magic（あの魔法のような感覚を再現する）。" }
+    ],
+    "usages": [
+      { "title": "① 「奪還する・取り戻す」として", "desc": "失ったものを再び手にすることを表します。", "example_en": "The army recaptured the town.", "example_ja": "軍はその町を奪還した。" },
+      { "title": "② 「よみがえらせる」として", "desc": "過去の感覚を再現する比喩です。", "example_en": "The film recaptures the spirit of the 1960s.", "example_ja": "その映画は1960年代の雰囲気をよみがえらせている。" }
+    ],
+    "warn": [
+      "recapture は『奪還する・取り戻す・捕まえ直す』、比喩で『（感覚・雰囲気を）よみがえらせる・再現する』。re-（再び）＋ capture。",
+      "recapture the magic / spirit（あの感覚・精神を取り戻す）が定番表現。"
+    ],
+    "etym_note": "re-（再び）＋ capture（捕らえる、ラテン語 capere「取る」より）から成り、「再び捕らえる・取り戻すこと」を意味します。capture, captive と同じ capere を語根にもちます。",
+    "etym_chain": [
+      { "node": "capere", "sub": "取る・捕らえる", "era": "ラテン語" },
+      { "node": "capture", "sub": "捕らえる", "era": "近代英語" },
+      { "node": "recapture", "sub": "奪還する・よみがえらせる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "recapture the city", "ja": "街を奪還する" },
+      { "en": "recapture the lead", "ja": "首位を奪い返す" },
+      { "en": "recapture the magic", "ja": "あの魔法のような感覚を再現する" },
+      { "en": "recapture the spirit of", "ja": "〜の精神をよみがえらせる" },
+      { "en": "recapture market share", "ja": "市場シェアを取り戻す" },
+      { "en": "recapture the prisoner", "ja": "逃亡者を捕まえ直す" }
+    ],
+    "related": [
+      { "en": "capture", "ja": "捕らえる" },
+      { "en": "retake", "ja": "奪い返す" },
+      { "en": "reclaim", "ja": "取り戻す" },
+      { "en": "revive", "ja": "よみがえらせる" }
+    ],
+    "faq": [
+      { "q": "recapture とはどんな意味？", "a": "占領地・地位・逃亡者などを『奪還する・取り戻す・捕まえ直す』という意味と、過去の感覚・雰囲気を『よみがえらせる・再現する』という意味があります。re-（再び）＋ capture から来ています。" },
+      { "q": "recapture と recapture the magic とは？", "a": "recapture the magic は『（かつての）魔法のような特別な感覚・魅力をもう一度取り戻す・再現する』という比喩表現です。" }
+    ],
+    "quiz": [
+      { "q": "The army ___d the town.（奪還した）", "A": "recapture", "B": "rapture のうっとり", "C": "rupture の破裂", "D": "lecture の講義", "correct": "A" },
+      { "q": "recapture のもとになった語はどれ？", "A": "capture（捕らえる）", "B": "capital（首都）", "C": "captain（船長）", "D": "caption（見出し）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "realign",
+    "pron": "ˌriːəˈlaɪn",
+    "kana": "リアライン",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ align（一直線にそろえる）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "（位置・関係を）並べ直す・調整し直す／（提携・方針を）再編成する・組み替える",
+    "description": "realign の意味・発音・例文・語源を解説。物の「位置を並べ直す」、また勢力・提携・方針を「再編成する・組み替える」という使い方を分かりやすく紹介します。",
+    "keywords": ["realign 意味", "realign 発音", "再編成", "align 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（位置・関係を）並べ直す・調整し直す", "note": "ずれたものを一直線にそろえ直す。realign the wheels（車輪の位置を調整し直す）。" },
+      { "hinshi": "【動詞】（提携・勢力・方針を）再編成する・組み替える", "note": "政治勢力や戦略の枠組みを組み直す。realign the alliances（同盟関係を組み替える）。" }
+    ],
+    "usages": [
+      { "title": "① 「並べ直す・調整し直す」として", "desc": "ずれた位置をそろえ直すことを表します。", "example_en": "The mechanic realigned the front wheels.", "example_ja": "整備士は前輪の位置を調整し直した。" },
+      { "title": "② 「再編成する」として", "desc": "勢力や方針を組み替えることを表します。", "example_en": "The crisis realigned global politics.", "example_ja": "その危機は世界の政治勢力を再編した。" }
+    ],
+    "warn": [
+      "realign は『（位置を）並べ直す・調整し直す』、また『（提携・勢力・方針を）再編成する・組み替える』。re-（再び）＋ align（そろえる）。名詞は realignment。",
+      "政治の『勢力再編』でよく使う。"
+    ],
+    "etym_note": "re-（再び）＋ align（一直線にそろえる、フランス語 aligner「線に並べる」より）から成り、「再び一直線にそろえること・組み直すこと」を意味します。line（線）と語源的につながります。",
+    "etym_chain": [
+      { "node": "aligner", "sub": "線に並べる", "era": "フランス語" },
+      { "node": "align", "sub": "一直線にそろえる", "era": "近代英語" },
+      { "node": "realign", "sub": "並べ直す・再編成する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "realign the wheels", "ja": "車輪の位置を調整し直す" },
+      { "en": "realign the alliances", "ja": "同盟関係を組み替える" },
+      { "en": "realign priorities", "ja": "優先順位を組み直す" },
+      { "en": "realign with", "ja": "〜と足並みをそろえ直す" },
+      { "en": "a political realignment", "ja": "政治勢力の再編" },
+      { "en": "realign the strategy", "ja": "戦略を組み直す" }
+    ],
+    "related": [
+      { "en": "align", "ja": "一直線にそろえる" },
+      { "en": "realignment", "ja": "再編成・調整し直し" },
+      { "en": "reorganize", "ja": "再編成する" },
+      { "en": "adjust", "ja": "調整する" }
+    ],
+    "faq": [
+      { "q": "realign とはどんな意味？", "a": "ずれた物の『位置を並べ直す・調整し直す』という意味と、提携・勢力・方針を『再編成する・組み替える』という意味があります。realign the alliances（同盟関係を組み替える）のように使います。名詞は realignment です。" },
+      { "q": "realign と reorganize の違いは？", "a": "realign は『（位置・関係・足並みを）そろえ直す・組み替える』、reorganize は『（組織の構造を）再編成する』ことに重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The mechanic ___ed the front wheels.（調整し直した）", "A": "realign", "B": "resign の辞職する", "C": "redesign の設計し直す", "D": "remain の残る", "correct": "A" },
+      { "q": "realign のもとになった語はどれ？", "A": "align（一直線にそろえる）", "B": "assign（割り当てる）", "C": "design（設計する）", "D": "resign（辞職する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rediscover",
+    "pron": "ˌriːdɪˈskʌvər",
+    "kana": "リディスカバー",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ discover（発見する）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出語"],
+    "meaning_main": "再発見する・（忘れていたものの）よさを再び見いだす",
+    "description": "rediscover の意味・発音・例文・語源を解説。忘れられていたものや自分の興味を「再発見する・よさを再び見いだす」という前向きな語の使い方を紹介します。",
+    "keywords": ["rediscover 意味", "rediscover 発音", "再発見", "discover 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再発見する・よさを再び見いだす", "note": "忘れられていたもの・興味・才能などを再び見つける。rediscover a passion for（〜への情熱を再び見いだす）。" }
+    ],
+    "usages": [
+      { "title": "① 物・場所の再発見として", "desc": "忘れられていたものを再び見つけることを表します。", "example_en": "Scientists rediscovered the lost manuscript.", "example_ja": "科学者たちは失われた写本を再発見した。" },
+      { "title": "② 興味・喜びの再発見として", "desc": "自分の中のよさを再び見いだすことを表します。", "example_en": "She rediscovered her love of painting.", "example_ja": "彼女は絵を描く喜びを再び見いだした。" }
+    ],
+    "warn": [
+      "rediscover は『再発見する・（忘れていたものの）よさを再び見いだす』。re-（再び）＋ discover（発見する）。",
+      "前向きな文脈で『失われていた魅力・興味を取り戻す』意味でよく使う。"
+    ],
+    "etym_note": "re-（再び）＋ discover（発見する、古フランス語 descovrir「覆いを取る」より）から成り、「もう一度見つけ出すこと」を意味します。cover（覆う）と同じ語根です。",
+    "etym_chain": [
+      { "node": "descovrir", "sub": "覆いを取る・暴く", "era": "古フランス語" },
+      { "node": "discover", "sub": "発見する", "era": "中英語" },
+      { "node": "rediscover", "sub": "再発見する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rediscover a passion for", "ja": "〜への情熱を再び見いだす" },
+      { "en": "rediscover the joy of", "ja": "〜の喜びを再発見する" },
+      { "en": "rediscover an old hobby", "ja": "昔の趣味を再発見する" },
+      { "en": "rediscover the lost art", "ja": "失われた技を再発見する" },
+      { "en": "rediscover yourself", "ja": "自分を再発見する" },
+      { "en": "be rediscovered", "ja": "再発見される" }
+    ],
+    "related": [
+      { "en": "discover", "ja": "発見する" },
+      { "en": "rekindle", "ja": "（情熱を）再びかき立てる" },
+      { "en": "revisit", "ja": "再び訪れる・見直す" },
+      { "en": "uncover", "ja": "明らかにする" }
+    ],
+    "faq": [
+      { "q": "rediscover とはどんな意味？", "a": "忘れられていたものや自分の興味・才能などを『再発見する・よさを再び見いだす』という動詞です。rediscover her love of painting（絵を描く喜びを再び見いだす）のように、前向きな文脈で使います。" },
+      { "q": "rediscover と discover の違いは？", "a": "discover は『（初めて）発見する』、rediscover は『（一度知っていたが忘れていたものを）再び見つける』ことに重点があります。" }
+    ],
+    "quiz": [
+      { "q": "She ___ed her love of painting.（再び見いだした）", "A": "rediscover", "B": "discover の発見する", "C": "recover の回復する", "D": "uncover の明らかにする", "correct": "A" },
+      { "q": "rediscover のもとになった語はどれ？", "A": "discover（発見する）", "B": "deliver（届ける）", "C": "describe（描写する）", "D": "decide（決める）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "redirect",
+    "pron": "ˌriːdəˈrekt",
+    "kana": "リダイレクト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ direct（向ける）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "IT・頻出語"],
+    "meaning_main": "（別の方へ）向け直す・差し向け直す／（注意・資源を）振り向け直す／（ウェブで）転送する",
+    "description": "redirect の意味・発音・例文・語源を解説。人や物を「別の方へ向け直す」、注意や資源を「振り向け直す」、またウェブページを「転送する」という使い方を紹介します。",
+    "keywords": ["redirect 意味", "redirect 発音", "向け直す", "リダイレクト"],
+    "meanings": [
+      { "hinshi": "【動詞】（別の方へ）向け直す・差し向け直す", "note": "人・物・流れを別の方向へ向ける。redirect the traffic（交通を迂回させる）。" },
+      { "hinshi": "【動詞】（注意・資源を）振り向け直す／（ウェブで）転送する", "note": "焦点や資金を別へ向ける、URLを別ページに飛ばす。redirect funds / redirect to a new page。" }
+    ],
+    "usages": [
+      { "title": "① 「向け直す」として", "desc": "別の方向へ向けることを表します。", "example_en": "Police redirected the traffic around the accident.", "example_ja": "警察は事故を避けて交通を迂回させた。" },
+      { "title": "② 「振り向け直す・転送する」として", "desc": "注意や資源、ページを別へ向けることを表します。", "example_en": "The link redirects you to the new site.", "example_ja": "そのリンクは新しいサイトへ転送する。" }
+    ],
+    "warn": [
+      "redirect は『向け直す・差し向け直す』『（注意・資源を）振り向け直す』『（ウェブで）転送する』と幅広い。re-（再び）＋ direct（向ける）。",
+      "IT のページ転送は redirect（リダイレクト）と日本語でもいう。"
+    ],
+    "etym_note": "re-（再び）＋ direct（向ける、ラテン語 dirigere「まっすぐ導く」より）から成り、「向きを変えて導き直すこと」を意味します。direction（方向）と同じ語根です。",
+    "etym_chain": [
+      { "node": "dirigere", "sub": "まっすぐ導く", "era": "ラテン語" },
+      { "node": "direct", "sub": "向ける・指示する", "era": "中英語" },
+      { "node": "redirect", "sub": "向け直す・転送する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "redirect the traffic", "ja": "交通を迂回させる" },
+      { "en": "redirect funds", "ja": "資金を振り向け直す" },
+      { "en": "redirect attention", "ja": "注意をそらす・向け直す" },
+      { "en": "redirect to a new page", "ja": "新しいページへ転送する" },
+      { "en": "redirect the call", "ja": "電話を転送する" },
+      { "en": "redirect resources", "ja": "資源を振り向け直す" }
+    ],
+    "related": [
+      { "en": "direct", "ja": "向ける・指示する" },
+      { "en": "divert", "ja": "そらす・迂回させる" },
+      { "en": "reroute", "ja": "経路を変える" },
+      { "en": "forward", "ja": "転送する" }
+    ],
+    "faq": [
+      { "q": "redirect とはどんな意味？", "a": "人や物を『別の方へ向け直す』、注意や資源を『振り向け直す』、ウェブページを『転送する（リダイレクトする）』など、文脈によっていくつかの意味があります。re-（再び）＋ direct から来ています。" },
+      { "q": "redirect と reroute の違いは？", "a": "redirect は『（向き・対象を）向け直す』全般、reroute は特に『（経路を）別の道筋に変える』ことに重点があります。" }
+    ],
+    "quiz": [
+      { "q": "Police ___ed the traffic around the accident.（迂回させた）", "A": "redirect", "B": "direct の向ける", "C": "correct の訂正する", "D": "collect の集める", "correct": "A" },
+      { "q": "redirect のもとになった語はどれ？", "A": "direct（向ける）", "B": "correct（訂正する）", "C": "collect（集める）", "D": "connect（つなぐ）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reevaluate",
+    "pron": "riːɪˈvæljueɪt",
+    "kana": "リイバリュエート",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ evaluate（評価する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "再評価する・見直す・改めて検討する",
+    "description": "reevaluate の意味・発音・例文・語源を解説。計画・状況・価値などを改めて「再評価する・見直す」という、ビジネスや学業で役立つ語の使い方を紹介します。",
+    "keywords": ["reevaluate 意味", "reevaluate 発音", "再評価", "evaluate 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再評価する・見直す・改めて検討する", "note": "新しい情報や状況をふまえて、もう一度評価し判断し直す。reevaluate the situation（状況を見直す）。re-evaluate とも綴る。" }
+    ],
+    "usages": [
+      { "title": "① 計画・状況の見直しとして", "desc": "改めて評価し直すことを表します。", "example_en": "We need to reevaluate our priorities.", "example_ja": "私たちは優先順位を見直す必要がある。" },
+      { "title": "② 価値・判断の再評価として", "desc": "もう一度判断し直すことを表します。", "example_en": "The new data made them reevaluate the theory.", "example_ja": "新しいデータは彼らに理論を再評価させた。" }
+    ],
+    "warn": [
+      "reevaluate は『再評価する・見直す・改めて検討する』。re-（再び）＋ evaluate（評価する）。re-evaluate とも綴る。",
+      "reassess（再評価する）とほぼ同義。"
+    ],
+    "etym_note": "re-（再び）＋ evaluate（評価する、value「価値」より）から成り、「もう一度価値を見定めること」を意味します。value（価値）, valid（妥当な）と同じ語根です。",
+    "etym_chain": [
+      { "node": "valere", "sub": "価値がある・強い", "era": "ラテン語" },
+      { "node": "evaluate", "sub": "評価する", "era": "近代英語" },
+      { "node": "reevaluate", "sub": "再評価する・見直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reevaluate the situation", "ja": "状況を見直す" },
+      { "en": "reevaluate our priorities", "ja": "優先順位を見直す" },
+      { "en": "reevaluate the plan", "ja": "計画を再検討する" },
+      { "en": "reevaluate the risks", "ja": "リスクを再評価する" },
+      { "en": "force us to reevaluate", "ja": "私たちに見直しを迫る" },
+      { "en": "reevaluate the evidence", "ja": "証拠を再評価する" }
+    ],
+    "related": [
+      { "en": "evaluate", "ja": "評価する" },
+      { "en": "reassess", "ja": "再評価する" },
+      { "en": "review", "ja": "見直す" },
+      { "en": "reconsider", "ja": "再考する" }
+    ],
+    "faq": [
+      { "q": "reevaluate とはどんな意味？", "a": "計画・状況・価値などを、新しい情報や状況をふまえて改めて『再評価する・見直す・検討し直す』という動詞です。reevaluate the situation（状況を見直す）のように使います。" },
+      { "q": "reevaluate と reconsider の違いは？", "a": "reevaluate は『（価値・状況を）改めて評価し直す』、reconsider は『（決定・考えを）もう一度考え直す』ことに重点があります。" }
+    ],
+    "quiz": [
+      { "q": "We need to ___ our priorities.（見直す）", "A": "reevaluate", "B": "evaluate の評価する", "C": "elaborate の詳しく述べる", "D": "evacuate の避難させる", "correct": "A" },
+      { "q": "reevaluate のもとになった語はどれ？", "A": "evaluate（評価する）", "B": "educate（教育する）", "C": "evacuate（避難させる）", "D": "elaborate（詳述する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reestablish",
+    "pron": "ˌriːɪˈstæblɪʃ",
+    "kana": "リエスタブリッシュ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ establish（確立する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "再建する・再確立する・（関係・制度を）築き直す・回復する",
+    "description": "reestablish の意味・発音・例文・語源を解説。途絶えていた関係・制度・地位などを「再び築き直す・確立し直す・回復する」という使い方を分かりやすく紹介します。",
+    "keywords": ["reestablish 意味", "reestablish 発音", "再確立", "establish 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再建する・再確立する・築き直す・回復する", "note": "途絶えた関係・制度・地位を再び築く。reestablish ties（関係を再構築する）。re-establish とも綴る。" }
+    ],
+    "usages": [
+      { "title": "① 関係・国交の回復として", "desc": "途絶えた関係を再び築くことを表します。", "example_en": "The two countries reestablished diplomatic ties.", "example_ja": "両国は外交関係を再構築した。" },
+      { "title": "② 地位・制度の再確立として", "desc": "再び確立することを表します。", "example_en": "He worked to reestablish his reputation.", "example_ja": "彼は評判を取り戻そうと努力した。" }
+    ],
+    "warn": [
+      "reestablish は『再建する・再確立する・築き直す・回復する』。re-（再び）＋ establish（確立する）。re-establish とも綴る。",
+      "reestablish ties / contact / order（関係・連絡・秩序を回復する）が頻出。"
+    ],
+    "etym_note": "re-（再び）＋ establish（確立する、ラテン語 stabilire「安定させる」より）から成り、「再びしっかり築くこと」を意味します。stable（安定した）, stability（安定）と同じ語根です。",
+    "etym_chain": [
+      { "node": "stabilire", "sub": "安定させる", "era": "ラテン語" },
+      { "node": "establish", "sub": "確立する", "era": "中英語" },
+      { "node": "reestablish", "sub": "再確立する・築き直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reestablish ties", "ja": "関係を再構築する" },
+      { "en": "reestablish contact", "ja": "連絡を回復する" },
+      { "en": "reestablish order", "ja": "秩序を回復する" },
+      { "en": "reestablish control", "ja": "支配を取り戻す" },
+      { "en": "reestablish a reputation", "ja": "評判を取り戻す" },
+      { "en": "reestablish diplomatic relations", "ja": "外交関係を再構築する" }
+    ],
+    "related": [
+      { "en": "establish", "ja": "確立する" },
+      { "en": "restore", "ja": "回復する" },
+      { "en": "rebuild", "ja": "再建する" },
+      { "en": "reinstate", "ja": "復活させる" }
+    ],
+    "faq": [
+      { "q": "reestablish とはどんな意味？", "a": "途絶えていた関係・制度・地位・秩序などを『再び築き直す・確立し直す・回復する』という動詞です。reestablish ties（関係を再構築する）のように使います。" },
+      { "q": "reestablish と restore の違いは？", "a": "reestablish は『（制度・関係を）再び確立する』、restore は『（壊れたもの・元の状態を）修復・回復する』ことに重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The two countries ___ed diplomatic ties.（再構築した）", "A": "reestablish", "B": "establish の確立する", "C": "estimate の見積もる", "D": "estate の財産", "correct": "A" },
+      { "q": "reestablish のもとになった語はどれ？", "A": "establish（確立する）", "B": "estimate（見積もる）", "C": "estate（財産）", "D": "estuary（河口）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "radiograph",
+    "pron": "ˈreɪdioʊɡræf",
+    "kana": "レイディオグラフ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "radio-（放射線）＋ -graph（記録）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "医学"],
+    "meaning_main": "X線写真・レントゲン写真（放射線で撮影した画像）",
+    "description": "radiograph の意味・発音・例文・語源を解説。X線などの放射線を使って体内や物体の内部を撮影した画像「X線写真・レントゲン写真」を指す語の使い方を紹介します。",
+    "keywords": ["radiograph 意味", "radiograph 発音", "X線写真", "レントゲン写真"],
+    "meanings": [
+      { "hinshi": "【名詞】X線写真・レントゲン写真", "note": "X線などの放射線を当てて、体内や物体内部を写した画像。a chest radiograph（胸部X線写真）。" }
+    ],
+    "usages": [
+      { "title": "① 医療画像として", "desc": "X線で撮影した画像を指します。", "example_en": "The radiograph showed a fractured bone.", "example_ja": "そのX線写真は骨折を示していた。" },
+      { "title": "② 検査の文脈で", "desc": "診断に使う画像を表します。", "example_en": "The dentist took a radiograph of the tooth.", "example_ja": "歯科医は歯のX線写真を撮った。" }
+    ],
+    "warn": [
+      "radiograph は『X線写真・レントゲン写真（撮影された画像）』。撮影する装置・技術は radiography。撮影技師は radiographer。",
+      "radio-（放射線）＋ -graph（記録・図）。"
+    ],
+    "etym_note": "radio-（放射線、ラテン語 radius「光線」より）＋ -graph（記録・書いたもの、ギリシャ語 graphein「書く」より）から成り、「放射線で記録した画像」を意味します。photograph（写真）, graph（図）と同じ -graph をもちます。",
+    "etym_chain": [
+      { "node": "radius + graphein", "sub": "光線＋書く", "era": "ラテン語・ギリシャ語" },
+      { "node": "radiograph", "sub": "放射線で記録した画像", "era": "近代英語" },
+      { "node": "radiograph", "sub": "X線写真", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a chest radiograph", "ja": "胸部X線写真" },
+      { "en": "take a radiograph", "ja": "X線写真を撮る" },
+      { "en": "a dental radiograph", "ja": "歯科用X線写真" },
+      { "en": "the radiograph showed", "ja": "X線写真は〜を示した" },
+      { "en": "review the radiograph", "ja": "X線写真を確認する" },
+      { "en": "an abnormal radiograph", "ja": "異常のあるX線写真" }
+    ],
+    "related": [
+      { "en": "X-ray", "ja": "X線・X線写真" },
+      { "en": "radiography", "ja": "X線撮影法" },
+      { "en": "radiographer", "ja": "X線撮影技師" },
+      { "en": "scan", "ja": "スキャン画像" }
+    ],
+    "faq": [
+      { "q": "radiograph とはどんな意味？", "a": "X線などの放射線を当てて、体内や物体内部を写した画像『X線写真・レントゲン写真』のことです。a chest radiograph（胸部X線写真）のように使います。" },
+      { "q": "radiograph と X-ray の違いは？", "a": "ほぼ同じものを指しますが、radiograph は『撮影された画像』を指す専門語、X-ray は『X線』そのものや日常的な『X線写真』を指します。" }
+    ],
+    "quiz": [
+      { "q": "The ___ showed a fractured bone.（X線写真）", "A": "radiograph", "B": "paragraph の段落", "C": "autograph のサイン", "D": "telegraph の電報", "correct": "A" },
+      { "q": "radiograph の -graph が表す意味はどれ？", "A": "記録・書いたもの", "B": "光", "C": "音", "D": "数", "correct": "A" }
+    ]
+  }
+]

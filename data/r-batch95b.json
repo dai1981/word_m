@@ -1,0 +1,55 @@
+[
+  {
+    "english": "reawaken",
+    "pron": "ˌriːəˈweɪkən",
+    "kana": "リアウェイクン",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ awaken（目覚めさせる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "再び目覚めさせる・（感情・関心を）よみがえらせる／再び目覚める",
+    "description": "reawaken の意味・発音・例文・語源を解説。眠っていた感情・関心・記憶を「再びよみがえらせる」、また人が「再び目覚める」という使い方を分かりやすく紹介します。",
+    "keywords": ["reawaken 意味", "reawaken 発音", "よみがえらせる", "awaken 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（感情・関心を）再びよみがえらせる・呼び覚ます", "note": "眠っていた気持ち・記憶・興味を再び引き起こす。reawaken interest（関心を再び呼び覚ます）。" },
+      { "hinshi": "【動詞】再び目覚める・目覚めさせる", "note": "眠りから再び覚める／覚めさせる。" }
+    ],
+    "usages": [
+      { "title": "① 「よみがえらせる」として", "desc": "眠っていた感情を呼び覚ますことを表します。", "example_en": "The song reawakened old memories.", "example_ja": "その歌は古い記憶をよみがえらせた。" },
+      { "title": "② 「再び目覚める」として", "desc": "眠りから再び覚めることを表します。", "example_en": "He reawakened to the sound of rain.", "example_ja": "彼は雨の音で再び目を覚ました。" }
+    ],
+    "warn": [
+      "reawaken は『（感情・関心・記憶を）再びよみがえらせる・呼び覚ます』が中心。比喩でよく使う。re-（再び）＋ awaken（目覚めさせる）。",
+      "reawaken interest / memories / passion（関心・記憶・情熱をよみがえらせる）が頻出。"
+    ],
+    "etym_note": "re-（再び）＋ awaken（目覚めさせる、古英語 awæcnan「目覚める」より）から成り、「再び目覚めさせること」を意味します。wake（目覚める）と同じ語根です。",
+    "etym_chain": [
+      { "node": "awæcnan", "sub": "目覚める", "era": "古英語" },
+      { "node": "awaken", "sub": "目覚めさせる", "era": "中英語" },
+      { "node": "reawaken", "sub": "再びよみがえらせる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reawaken old memories", "ja": "古い記憶をよみがえらせる" },
+      { "en": "reawaken interest", "ja": "関心を再び呼び覚ます" },
+      { "en": "reawaken a passion", "ja": "情熱をよみがえらせる" },
+      { "en": "reawaken feelings", "ja": "感情を呼び覚ます" },
+      { "en": "reawaken hope", "ja": "希望をよみがえらせる" },
+      { "en": "reawaken to", "ja": "〜に再び目覚める" }
+    ],
+    "related": [
+      { "en": "awaken", "ja": "目覚めさせる" },
+      { "en": "rekindle", "ja": "再びかき立てる" },
+      { "en": "revive", "ja": "よみがえらせる" },
+      { "en": "stir", "ja": "（感情を）かき立てる" }
+    ],
+    "faq": [
+      { "q": "reawaken とはどんな意味？", "a": "眠っていた感情・関心・記憶を『再びよみがえらせる・呼び覚ます』という意味と、人が『再び目覚める』という意味があります。reawaken old memories（古い記憶をよみがえらせる）のように使います。" },
+      { "q": "reawaken と rekindle の違いは？", "a": "どちらも『（感情を）よみがえらせる』ですが、reawaken は『（眠っていたものを）目覚めさせる』、rekindle は『（火を再び燃やすように）情熱などを再びかき立てる』ニュアンスです。" }
+    ],
+    "quiz": [
+      { "q": "The song ___ed old memories.（よみがえらせた）", "A": "reawaken", "B": "awaken の目覚めさせる", "C": "weaken の弱める", "D": "darken の暗くする", "correct": "A" },
+      { "q": "reawaken のもとになった語はどれ？", "A": "awaken（目覚めさせる）", "B": "weaken（弱める）", "C": "darken（暗くする）", "D": "broaden（広げる）", "correct": "A" }
+    ]
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "english": "rearm",
+    "pron": "riːˈɑːrm",
+    "kana": "リアーム",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ arm（武装させる）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "軍事・政治"],
+    "meaning_main": "再武装する・武器を再び備える（国・軍を）",
+    "description": "rearm の意味・発音・例文・語源を解説。国や軍隊が「再武装する・武器を再び備える」という、軍事・政治で使う語の使い方を分かりやすく紹介します。",
+    "keywords": ["rearm 意味", "rearm 発音", "再武装", "arm 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再武装する・武器を再び備える", "note": "（一度軍縮した）国・軍が再び兵器をそろえる。The nation began to rearm.（その国は再武装を始めた）。名詞は rearmament。" }
+    ],
+    "usages": [
+      { "title": "① 国の再武装として", "desc": "再び兵器を備えることを表します。", "example_en": "After the war, the country was forbidden to rearm.", "example_ja": "戦後、その国は再武装を禁じられた。" },
+      { "title": "② 軍の再武装として", "desc": "軍隊が武器をそろえ直すことを表します。", "example_en": "The treaty stopped them from rearming.", "example_ja": "その条約は彼らの再武装を阻止した。" }
+    ],
+    "warn": [
+      "rearm は『再武装する・武器を再び備える』。re-（再び）＋ arm（武装させる・武器）。名詞は rearmament（再軍備）。",
+      "arm はここでは『武器・武装させる』の意味（複数 arms＝武器）。体の arm（腕）とは別の用法。"
+    ],
+    "etym_note": "re-（再び）＋ arm（武装させる、ラテン語 arma「武器」より）から成り、「再び武器を備えること」を意味します。army（軍隊）, armor（よろい）と同じ語根です。",
+    "etym_chain": [
+      { "node": "arma", "sub": "武器", "era": "ラテン語" },
+      { "node": "arm", "sub": "武装させる・武器", "era": "中英語" },
+      { "node": "rearm", "sub": "再武装する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "begin to rearm", "ja": "再武装を始める" },
+      { "en": "be forbidden to rearm", "ja": "再武装を禁じられる" },
+      { "en": "rearm the military", "ja": "軍を再武装させる" },
+      { "en": "secretly rearm", "ja": "ひそかに再武装する" },
+      { "en": "rearm against a threat", "ja": "脅威に備えて再武装する" },
+      { "en": "a rearmament program", "ja": "再軍備計画" }
+    ],
+    "related": [
+      { "en": "arm", "ja": "武装させる・武器" },
+      { "en": "rearmament", "ja": "再軍備" },
+      { "en": "disarm", "ja": "武装解除する（反対）" },
+      { "en": "militarize", "ja": "軍事化する" }
+    ],
+    "faq": [
+      { "q": "rearm とはどんな意味？", "a": "（一度軍縮した）国や軍隊が『再武装する・武器を再び備える』という動詞です。The nation began to rearm.（その国は再武装を始めた）のように使います。名詞は rearmament です。" },
+      { "q": "rearm の反対語は？", "a": "disarm（武装解除する・武器を取り上げる）です。arm（武装する）⇔ disarm（武装解除する）、rearm（再武装する）の関係です。" }
+    ],
+    "quiz": [
+      { "q": "After the war, the country was forbidden to ___.（再武装する）", "A": "rearm", "B": "alarm の警報", "C": "rearrange の並べ替える", "D": "rearview のバックミラーの", "correct": "A" },
+      { "q": "rearm の反対の意味はどれ？", "A": "disarm（武装解除する）", "B": "arm（武装する）", "C": "harm（害する）", "D": "warm（温める）", "correct": "A" }
+    ]
+  }
+]

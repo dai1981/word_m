@@ -1,0 +1,475 @@
+[
+  {
+    "english": "renegotiate",
+    "pron": "ˌriːnɪˈɡoʊʃieɪt",
+    "kana": "リネゴシエイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ negotiate（交渉する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "ビジネス"],
+    "meaning_main": "再交渉する・（契約・条件を）交渉し直す",
+    "description": "renegotiate の意味・発音・例文・語源を解説。契約・条件・取り決めを「交渉し直す・再交渉する」というビジネス・外交の語の使い方を分かりやすく紹介します。",
+    "keywords": ["renegotiate 意味", "renegotiate 発音", "再交渉", "negotiate 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再交渉する・交渉し直す", "note": "すでにある契約・条件をもう一度話し合って決め直す。renegotiate the contract（契約を交渉し直す）。" }
+    ],
+    "usages": [
+      { "title": "① 契約の再交渉として", "desc": "条件を話し合って決め直すことを表します。", "example_en": "They wanted to renegotiate the terms of the deal.", "example_ja": "彼らはその取引の条件を交渉し直したがった。" },
+      { "title": "② 賃金・価格の再交渉として", "desc": "金額を交渉し直すことを表します。", "example_en": "The union renegotiated wages.", "example_ja": "組合は賃金を再交渉した。" }
+    ],
+    "warn": [
+      "renegotiate は『（契約・条件を）交渉し直す・再交渉する』。re-（再び）＋ negotiate（交渉する）。名詞は renegotiation。",
+      "貿易協定・賃金・契約条件などの『見直し交渉』で頻出。"
+    ],
+    "etym_note": "re-（再び）＋ negotiate（交渉する、ラテン語 negotiari「商売する」より、neg-「〜でない」＋ otium「暇」＝暇でない・仕事をする）から成り、「もう一度交渉すること」を意味します。",
+    "etym_chain": [
+      { "node": "negotiari", "sub": "商売する・取引する", "era": "ラテン語" },
+      { "node": "negotiate", "sub": "交渉する", "era": "近代英語" },
+      { "node": "renegotiate", "sub": "再交渉する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "renegotiate the contract", "ja": "契約を交渉し直す" },
+      { "en": "renegotiate the terms", "ja": "条件を交渉し直す" },
+      { "en": "renegotiate the deal", "ja": "取引を再交渉する" },
+      { "en": "renegotiate wages", "ja": "賃金を再交渉する" },
+      { "en": "renegotiate the debt", "ja": "債務を交渉し直す" },
+      { "en": "demand to renegotiate", "ja": "再交渉を要求する" }
+    ],
+    "related": [
+      { "en": "negotiate", "ja": "交渉する" },
+      { "en": "renegotiation", "ja": "再交渉" },
+      { "en": "bargain", "ja": "交渉する・値引き交渉" },
+      { "en": "revise", "ja": "改訂する" }
+    ],
+    "faq": [
+      { "q": "renegotiate とはどんな意味？", "a": "すでにある契約・条件・取り決めを、もう一度話し合って決め直す『再交渉する・交渉し直す』という動詞です。renegotiate the contract（契約を交渉し直す）のように使います。名詞は renegotiation です。" },
+      { "q": "renegotiate はどんな場面で使う？", "a": "貿易協定の見直し、賃金交渉のやり直し、契約条件の変更交渉、借金の返済条件の交渉など、すでにある取り決めを変えたいときに使います。" }
+    ],
+    "quiz": [
+      { "q": "They wanted to ___ the terms of the deal.（交渉し直す）", "A": "renegotiate", "B": "negotiate の交渉する", "C": "navigate の航行する", "D": "renovate の改修する", "correct": "A" },
+      { "q": "renegotiate のもとになった語はどれ？", "A": "negotiate（交渉する）", "B": "navigate（航行する）", "C": "renovate（改修する）", "D": "nominate（指名する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reactivate",
+    "pron": "riˈæktɪveɪt",
+    "kana": "リアクティベイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ activate（作動させる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "IT・頻出語"],
+    "meaning_main": "再び有効にする・再起動する・（停止していたものを）再開させる・活性化させる",
+    "description": "reactivate の意味・発音・例文・語源を解説。停止していたアカウント・機能・計画などを「再び有効にする・再開させる・活性化させる」という使い方を紹介します。",
+    "keywords": ["reactivate 意味", "reactivate 発音", "再有効化", "activate 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再び有効にする・再開させる・活性化させる", "note": "止まっていたものを再び動くようにする。reactivate the account（アカウントを再有効化する）。" }
+    ],
+    "usages": [
+      { "title": "① アカウント・機能の再有効化として", "desc": "停止していたものを再び使えるようにすることを表します。", "example_en": "You can reactivate your account anytime.", "example_ja": "アカウントはいつでも再有効化できる。" },
+      { "title": "② 計画・組織の再開として", "desc": "活動を再び活発にすることを表します。", "example_en": "The group was reactivated after years.", "example_ja": "その団体は何年も後に活動を再開した。" }
+    ],
+    "warn": [
+      "reactivate は『再び有効にする・再開させる・活性化させる』。re-（再び）＋ activate（作動させる）。",
+      "アカウント・契約・機能・計画・酵素など幅広く使う。反対は deactivate（無効にする）。"
+    ],
+    "etym_note": "re-（再び）＋ activate（作動させる、active「活動的な」より）から成り、「再び活動させること」を意味します。act（行動する）, active（活発な）と同じ語根です。",
+    "etym_chain": [
+      { "node": "agere", "sub": "行う・動かす", "era": "ラテン語" },
+      { "node": "activate", "sub": "作動させる", "era": "近代英語" },
+      { "node": "reactivate", "sub": "再び有効にする", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reactivate the account", "ja": "アカウントを再有効化する" },
+      { "en": "reactivate the subscription", "ja": "定期契約を再開する" },
+      { "en": "reactivate the alarm", "ja": "警報を再び作動させる" },
+      { "en": "reactivate an old plan", "ja": "古い計画を再開させる" },
+      { "en": "be reactivated", "ja": "再び有効になる" },
+      { "en": "reactivate the system", "ja": "システムを再起動させる" }
+    ],
+    "related": [
+      { "en": "activate", "ja": "作動させる・有効にする" },
+      { "en": "deactivate", "ja": "無効にする（反対）" },
+      { "en": "restart", "ja": "再開する" },
+      { "en": "revive", "ja": "復活させる" }
+    ],
+    "faq": [
+      { "q": "reactivate とはどんな意味？", "a": "停止していたアカウント・機能・契約・計画などを『再び有効にする・再開させる・活性化させる』という動詞です。reactivate the account（アカウントを再有効化する）のように使います。反対は deactivate です。" },
+      { "q": "reactivate と reactivate の反対語は？", "a": "deactivate（無効にする・作動を止める）です。activate（有効にする）⇔ deactivate（無効にする）、reactivate（再び有効にする）の関係です。" }
+    ],
+    "quiz": [
+      { "q": "You can ___ your account anytime.（再有効化する）", "A": "reactivate", "B": "activate の有効にする", "C": "deactivate の無効にする", "D": "captivate の魅了する", "correct": "A" },
+      { "q": "reactivate の反対の意味はどれ？", "A": "deactivate（無効にする）", "B": "activate（有効にする）", "C": "motivate（動機づける）", "D": "captivate（魅了する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reassemble",
+    "pron": "ˌriːəˈsembəl",
+    "kana": "リアセンブル",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ assemble（組み立てる・集める）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "（分解したものを）組み立て直す／（人々が）再び集まる・再集合させる",
+    "description": "reassemble の意味・発音・例文・語源を解説。分解した機械を「組み立て直す」、また人々が「再び集まる・再集合する」という使い方を分かりやすく紹介します。",
+    "keywords": ["reassemble 意味", "reassemble 発音", "組み立て直す", "assemble 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（分解したものを）組み立て直す", "note": "ばらした部品を再び組み立てる。reassemble the engine（エンジンを組み立て直す）。" },
+      { "hinshi": "【動詞】再び集まる・再集合させる", "note": "解散した人々が再び集まる。The crowd reassembled.（群衆が再び集まった）。" }
+    ],
+    "usages": [
+      { "title": "① 「組み立て直す」として", "desc": "分解した部品を再び組むことを表します。", "example_en": "He took the clock apart and reassembled it.", "example_ja": "彼は時計を分解して組み立て直した。" },
+      { "title": "② 「再び集まる」として", "desc": "解散した人々が再集合することを表します。", "example_en": "The team reassembled after the break.", "example_ja": "チームは休憩のあと再び集まった。" }
+    ],
+    "warn": [
+      "reassemble は『（分解したものを）組み立て直す』と『（人々が）再び集まる・再集合させる』。re-（再び）＋ assemble（組み立てる・集める）。",
+      "disassemble（分解する）の反対が assemble、それに re- がついた語。"
+    ],
+    "etym_note": "re-（再び）＋ assemble（組み立てる・集める、古フランス語 assembler「一緒にする」より）から成り、「再び組み立てる・集めること」を意味します。",
+    "etym_chain": [
+      { "node": "assembler", "sub": "一緒にする・集める", "era": "古フランス語" },
+      { "node": "assemble", "sub": "組み立てる・集める", "era": "中英語" },
+      { "node": "reassemble", "sub": "組み立て直す・再集合する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reassemble the engine", "ja": "エンジンを組み立て直す" },
+      { "en": "reassemble the parts", "ja": "部品を組み立て直す" },
+      { "en": "reassemble the furniture", "ja": "家具を組み立て直す" },
+      { "en": "the crowd reassembled", "ja": "群衆が再び集まった" },
+      { "en": "reassemble after the break", "ja": "休憩後に再集合する" },
+      { "en": "disassemble and reassemble", "ja": "分解して組み立て直す" }
+    ],
+    "related": [
+      { "en": "assemble", "ja": "組み立てる・集める" },
+      { "en": "disassemble", "ja": "分解する（反対）" },
+      { "en": "rebuild", "ja": "再建する" },
+      { "en": "regroup", "ja": "再編成する・再集結する" }
+    ],
+    "faq": [
+      { "q": "reassemble とはどんな意味？", "a": "分解した機械や部品を『組み立て直す』という意味と、解散した人々が『再び集まる・再集合させる』という意味があります。reassemble the engine（エンジンを組み立て直す）のように使います。" },
+      { "q": "reassemble と disassemble の違いは？", "a": "disassemble は『分解する（ばらす）』、reassemble は『（分解したものを）組み立て直す』ことで、反対の作業です。" }
+    ],
+    "quiz": [
+      { "q": "He took the clock apart and ___d it.（組み立て直した）", "A": "reassemble", "B": "assemble の組み立てる", "C": "resemble の似ている", "D": "assume の仮定する", "correct": "A" },
+      { "q": "reassemble の反対の作業はどれ？", "A": "disassemble（分解する）", "B": "assemble（組み立てる）", "C": "resemble（似ている）", "D": "assume（仮定する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reenact",
+    "pron": "ˌriːɪˈnækt",
+    "kana": "リイナクト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ enact（演じる・制定する）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "歴史・法律"],
+    "meaning_main": "（出来事を）再現する・再演する／（法律を）再び制定する",
+    "description": "reenact の意味・発音・例文・語源を解説。歴史上の出来事や事件を「再現する・再演する」、また廃止された法律を「再び制定する」という使い方を紹介します。",
+    "keywords": ["reenact 意味", "reenact 発音", "再現する", "enact 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（出来事を）再現する・再演する", "note": "歴史的な出来事・事件を実際に演じて再現する。reenact the battle（その戦いを再現する）。" },
+      { "hinshi": "【動詞】（法律を）再び制定する", "note": "廃止・失効した法をもう一度法律にする。reenact the law（法律を再制定する）。" }
+    ],
+    "usages": [
+      { "title": "① 「再現する・再演する」として", "desc": "出来事を演じて再現することを表します。", "example_en": "Volunteers reenacted the historic battle.", "example_ja": "ボランティアたちはその歴史的な戦いを再現した。" },
+      { "title": "② 「再び制定する」として", "desc": "法律をもう一度作ることを表します。", "example_en": "Congress reenacted the expired law.", "example_ja": "議会は失効した法律を再制定した。" }
+    ],
+    "warn": [
+      "reenact は『（出来事を）再現する・再演する』と『（法律を）再び制定する』。re-（再び）＋ enact（演じる・制定する）。re-enact とも綴る。",
+      "歴史再現イベントは reenactment（リエナクトメント）。"
+    ],
+    "etym_note": "re-（再び）＋ enact（en-「〜にする」＋ act「行為・演じる」＝制定する・演じる）から成り、「再び演じる・制定すること」を意味します。act（行動・演じる）と同じ語根です。",
+    "etym_chain": [
+      { "node": "actus", "sub": "行為", "era": "ラテン語" },
+      { "node": "enact", "sub": "制定する・演じる", "era": "近代英語" },
+      { "node": "reenact", "sub": "再現する・再制定する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reenact the battle", "ja": "その戦いを再現する" },
+      { "en": "reenact the crime", "ja": "犯行を再現する" },
+      { "en": "reenact a historic event", "ja": "歴史的な出来事を再現する" },
+      { "en": "reenact the law", "ja": "法律を再制定する" },
+      { "en": "reenact the scene", "ja": "その場面を再演する" },
+      { "en": "a battle reenactment", "ja": "戦いの再現イベント" }
+    ],
+    "related": [
+      { "en": "enact", "ja": "制定する・演じる" },
+      { "en": "reenactment", "ja": "再現・再演" },
+      { "en": "recreate", "ja": "再現する" },
+      { "en": "reconstruct", "ja": "再現・復元する" }
+    ],
+    "faq": [
+      { "q": "reenact とはどんな意味？", "a": "歴史上の出来事や事件を実際に演じて『再現する・再演する』という意味と、廃止・失効した法律を『再び制定する』という意味があります。reenact the battle（その戦いを再現する）のように使います。" },
+      { "q": "reenact と recreate の違いは？", "a": "reenact は特に『（出来事を）演じて再現する』、recreate は『（場面・物・雰囲気を）作り直して再現する』ことに重点があります。" }
+    ],
+    "quiz": [
+      { "q": "Volunteers ___ed the historic battle.（再現した）", "A": "reenact", "B": "enact の制定する", "C": "react の反応する", "D": "extract の抽出する", "correct": "A" },
+      { "q": "reenact のもとになった語はどれ？", "A": "enact（制定する・演じる）", "B": "extract（抽出する）", "C": "exact（正確な）", "D": "attract（引きつける）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reorient",
+    "pron": "riːˈɔːrient",
+    "kana": "リオリエント",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ orient（方向づける）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "方向づけし直す・適応し直す／（方針・焦点を）転換する",
+    "description": "reorient の意味・発音・例文・語源を解説。自分の向きや位置を「つかみ直す・適応し直す」、また方針や焦点を「転換する・向け直す」という使い方を紹介します。",
+    "keywords": ["reorient 意味", "reorient 発音", "方向づけし直す", "orient 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】方向づけし直す・適応し直す", "note": "自分の向き・位置・状況をつかみ直して慣れ直す。reorient oneself（態勢を立て直す）。" },
+      { "hinshi": "【動詞】（方針・焦点を）転換する・向け直す", "note": "戦略や重点を別の方へ向け直す。reorient the policy（方針を転換する）。" }
+    ],
+    "usages": [
+      { "title": "① 「適応し直す」として", "desc": "自分の向きや状況をつかみ直すことを表します。", "example_en": "It took time to reorient myself in the new city.", "example_ja": "新しい街で態勢を立て直すのに時間がかかった。" },
+      { "title": "② 「方針を転換する」として", "desc": "重点を別の方へ向けることを表します。", "example_en": "The company reoriented its strategy toward Asia.", "example_ja": "その会社は戦略をアジアへ向け直した。" }
+    ],
+    "warn": [
+      "reorient は『方向づけし直す・適応し直す』と『（方針・焦点を）転換する・向け直す』。re-（再び）＋ orient（方向づける）。",
+      "reorient oneself（態勢を立て直す・自分の位置をつかみ直す）が頻出。イギリスでは reorientate とも。"
+    ],
+    "etym_note": "re-（再び）＋ orient（方向づける、ラテン語 oriens「（太陽の）昇る方角＝東」より）から成り、「（東を基準に）再び方向づけること」を意味します。もとは『東に向けて建てる』ことに由来します。",
+    "etym_chain": [
+      { "node": "oriens", "sub": "昇る方角・東", "era": "ラテン語" },
+      { "node": "orient", "sub": "方向づける", "era": "近代英語" },
+      { "node": "reorient", "sub": "方向づけし直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reorient oneself", "ja": "態勢を立て直す" },
+      { "en": "reorient the strategy", "ja": "戦略を転換する" },
+      { "en": "reorient the policy", "ja": "方針を向け直す" },
+      { "en": "reorient toward", "ja": "〜へ向け直す" },
+      { "en": "reorient priorities", "ja": "優先順位を組み直す" },
+      { "en": "need to reorient", "ja": "向け直す必要がある" }
+    ],
+    "related": [
+      { "en": "orient", "ja": "方向づける" },
+      { "en": "orientation", "ja": "方向づけ・適応" },
+      { "en": "realign", "ja": "調整し直す" },
+      { "en": "refocus", "ja": "焦点を当て直す" }
+    ],
+    "faq": [
+      { "q": "reorient とはどんな意味？", "a": "自分の向きや状況を『つかみ直して適応し直す』という意味と、方針・焦点を『転換する・別の方へ向け直す』という意味があります。reorient oneself（態勢を立て直す）のように使います。" },
+      { "q": "reorient の語源は？", "a": "re-（再び）＋ orient（方向づける）です。orient はラテン語の『（太陽の）昇る方角＝東』に由来し、もとは『東に向けて建てる』ことを意味しました。" }
+    ],
+    "quiz": [
+      { "q": "The company ___ed its strategy toward Asia.（向け直した）", "A": "reorient", "B": "orient の方向づける", "C": "ornament の装飾", "D": "reinvent の作り直す", "correct": "A" },
+      { "q": "reorient のもとになった語はどれ？", "A": "orient（方向づける）", "B": "origin（起源）", "C": "ornament（装飾）", "D": "orchard（果樹園）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reclassify",
+    "pron": "riːˈklæsɪfaɪ",
+    "kana": "リクラシファイ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ classify（分類する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "分類し直す・区分を変える",
+    "description": "reclassify の意味・発音・例文・語源を解説。物事を別のカテゴリーに「分類し直す・区分を変える」という、学術や実務で使う語の使い方を紹介します。",
+    "keywords": ["reclassify 意味", "reclassify 発音", "分類し直す", "classify 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】分類し直す・区分を変える", "note": "別のカテゴリー・等級に入れ直す。reclassify the documents（文書を分類し直す）。名詞は reclassification。" }
+    ],
+    "usages": [
+      { "title": "① 分類の変更として", "desc": "別のカテゴリーに入れ直すことを表します。", "example_en": "The species was reclassified into a new genus.", "example_ja": "その種は新しい属に分類し直された。" },
+      { "title": "② 等級・区分の変更として", "desc": "区分を変えることを表します。", "example_en": "The road was reclassified as a highway.", "example_ja": "その道路は幹線道路に区分し直された。" }
+    ],
+    "warn": [
+      "reclassify は『分類し直す・区分を変える』。re-（再び）＋ classify（分類する）。名詞は reclassification。",
+      "生物分類・文書・等級・機密区分などの変更で使う。"
+    ],
+    "etym_note": "re-（再び）＋ classify（分類する、ラテン語 classis「等級・組」＋ -fy「〜にする」より）から成り、「もう一度分類すること」を意味します。class（階級・分類）と同じ語根です。",
+    "etym_chain": [
+      { "node": "classis", "sub": "等級・組", "era": "ラテン語" },
+      { "node": "classify", "sub": "分類する", "era": "近代英語" },
+      { "node": "reclassify", "sub": "分類し直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reclassify the species", "ja": "その種を分類し直す" },
+      { "en": "reclassify the documents", "ja": "文書を分類し直す" },
+      { "en": "reclassify as", "ja": "〜に区分し直す" },
+      { "en": "be reclassified", "ja": "分類し直される" },
+      { "en": "reclassify the data", "ja": "データを分類し直す" },
+      { "en": "a reclassification of jobs", "ja": "職種の区分変更" }
+    ],
+    "related": [
+      { "en": "classify", "ja": "分類する" },
+      { "en": "categorize", "ja": "分類する" },
+      { "en": "reclassification", "ja": "再分類" },
+      { "en": "regroup", "ja": "組み直す" }
+    ],
+    "faq": [
+      { "q": "reclassify とはどんな意味？", "a": "物事を別のカテゴリー・等級に入れ直す『分類し直す・区分を変える』という動詞です。reclassify the species（その種を分類し直す）のように使います。名詞は reclassification です。" },
+      { "q": "reclassify はどんな場面で使う？", "a": "生物の分類変更、文書の機密区分の変更、道路や職種の等級の変更など、すでにある分類・区分を別のものに変えるときに使います。" }
+    ],
+    "quiz": [
+      { "q": "The species was ___ied into a new genus.（分類し直された）", "A": "reclassify", "B": "classify の分類する", "C": "clarify の明らかにする", "D": "qualify の資格を与える", "correct": "A" },
+      { "q": "reclassify のもとになった語はどれ？", "A": "classify（分類する）", "B": "clarify（明らかにする）", "C": "qualify（資格を与える）", "D": "simplify（単純化する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "redraft",
+    "pron": "riːˈdræft",
+    "kana": "リドラフト",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ draft（下書きする）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "（文書・草案を）書き直す・下書きし直す／改訂草案",
+    "description": "redraft の意味・発音・例文・語源を解説。法案・契約・文章などの「草案を書き直す・下書きし直す」という、文書作成で役立つ語の使い方を紹介します。",
+    "keywords": ["redraft 意味", "redraft 発音", "草案を書き直す", "draft 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（文書・草案を）書き直す・下書きし直す", "note": "法案・契約・文章などの下書きを作り直す。redraft the proposal（提案書を書き直す）。" },
+      { "hinshi": "【名詞】改訂草案・書き直した下書き", "note": "a redraft of the document（文書の改訂草案）。" }
+    ],
+    "usages": [
+      { "title": "① 草案の書き直しとして", "desc": "下書きを作り直すことを表します。", "example_en": "The committee redrafted the proposal.", "example_ja": "委員会は提案書を書き直した。" },
+      { "title": "② 法案・契約の改訂として", "desc": "条文を作り直すことを表します。", "example_en": "The bill was redrafted after objections.", "example_ja": "その法案は反対を受けて書き直された。" }
+    ],
+    "warn": [
+      "redraft は『（文書・草案を）書き直す・下書きし直す／改訂草案』。re-（再び）＋ draft（下書き・下書きする）。",
+      "完成品ではなく『草案・下書き』の段階で作り直すニュアンス。"
+    ],
+    "etym_note": "re-（再び）＋ draft（下書き・草案、draw「引く・描く」の変形より）から成り、「もう一度下書きすること」を意味します。draw（引く・描く）と語源的につながります。",
+    "etym_chain": [
+      { "node": "draught/draft", "sub": "引くこと・下書き", "era": "中英語" },
+      { "node": "draft", "sub": "下書きする", "era": "近代英語" },
+      { "node": "redraft", "sub": "書き直す・改訂草案", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "redraft the proposal", "ja": "提案書を書き直す" },
+      { "en": "redraft the bill", "ja": "法案を書き直す" },
+      { "en": "redraft the contract", "ja": "契約書を作り直す" },
+      { "en": "a redraft of the document", "ja": "文書の改訂草案" },
+      { "en": "redraft and resubmit", "ja": "書き直して再提出する" },
+      { "en": "ask for a redraft", "ja": "書き直しを求める" }
+    ],
+    "related": [
+      { "en": "draft", "ja": "下書きする・草案" },
+      { "en": "rewrite", "ja": "書き直す" },
+      { "en": "revise", "ja": "改訂する" },
+      { "en": "amend", "ja": "修正する" }
+    ],
+    "faq": [
+      { "q": "redraft とはどんな意味？", "a": "法案・契約・文章などの『草案を書き直す・下書きし直す』という動詞、また『改訂草案』という名詞です。redraft the proposal（提案書を書き直す）のように使います。" },
+      { "q": "redraft と rewrite の違いは？", "a": "redraft は『（完成前の）草案・下書きの段階で作り直す』、rewrite は『（完成した文章を含め）書き直す』ことに重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The committee ___ed the proposal.（書き直した）", "A": "redraft", "B": "draft の下書きする", "C": "craft の工芸", "D": "graft の接ぎ木", "correct": "A" },
+      { "q": "redraft のもとになった語はどれ？", "A": "draft（下書き）", "B": "craft（工芸）", "C": "graft（接ぎ木）", "D": "drift（漂流）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reassert",
+    "pron": "ˌriːəˈsɜːrt",
+    "kana": "リアサート",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ assert（主張する）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "改めて主張する・再び断言する／（権力・存在を）再び示す・取り戻す",
+    "description": "reassert の意味・発音・例文・語源を解説。立場や権利を「改めて主張する・再び断言する」、また権力や存在感を「再び示す・取り戻す」という使い方を紹介します。",
+    "keywords": ["reassert 意味", "reassert 発音", "改めて主張する", "assert 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】改めて主張する・再び断言する", "note": "立場・権利・考えを改めて強く言う。reassert one's rights（権利を改めて主張する）。" },
+      { "hinshi": "【動詞】（権力・存在を）再び示す・取り戻す", "note": "reassert control（支配を取り戻す）、reassert itself（再び現れる・優勢になる）。" }
+    ],
+    "usages": [
+      { "title": "① 「改めて主張する」として", "desc": "立場を再び強く言うことを表します。", "example_en": "He reasserted his innocence.", "example_ja": "彼は自分の無実を改めて主張した。" },
+      { "title": "② 「再び示す・取り戻す」として", "desc": "権力や存在感を取り戻すことを表します。", "example_en": "The government tried to reassert control.", "example_ja": "政府は支配を取り戻そうとした。" }
+    ],
+    "warn": [
+      "reassert は『改めて主張する・再び断言する』と『（権力・存在を）再び示す・取り戻す』。re-（再び）＋ assert（主張する）。",
+      "reassert itself は『（傾向・性質などが）再び現れる・優勢になる』という頻出表現。"
+    ],
+    "etym_note": "re-（再び）＋ assert（主張する、ラテン語 asserere「結びつける・断言する」より）から成り、「再び強く言うこと」を意味します。",
+    "etym_chain": [
+      { "node": "asserere", "sub": "結びつける・断言する", "era": "ラテン語" },
+      { "node": "assert", "sub": "主張する", "era": "近代英語" },
+      { "node": "reassert", "sub": "改めて主張する・取り戻す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reassert one's rights", "ja": "権利を改めて主張する" },
+      { "en": "reassert control", "ja": "支配を取り戻す" },
+      { "en": "reassert authority", "ja": "権威を再び示す" },
+      { "en": "reassert itself", "ja": "再び現れる・優勢になる" },
+      { "en": "reassert his innocence", "ja": "無実を改めて主張する" },
+      { "en": "reassert independence", "ja": "独立を改めて宣言する" }
+    ],
+    "related": [
+      { "en": "assert", "ja": "主張する" },
+      { "en": "reaffirm", "ja": "改めて断言する" },
+      { "en": "restate", "ja": "言い直す" },
+      { "en": "reclaim", "ja": "取り戻す" }
+    ],
+    "faq": [
+      { "q": "reassert とはどんな意味？", "a": "立場・権利・考えを『改めて主張する・再び断言する』という意味と、権力・存在感を『再び示す・取り戻す』という意味があります。reassert control（支配を取り戻す）のように使います。" },
+      { "q": "reassert itself とは？", "a": "『（傾向・性質・勢力などが）再び現れる・再び優勢になる』という意味の表現です。Old habits reassert themselves.（古い習慣がまた頭をもたげる）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "He ___ed his innocence.（改めて主張した）", "A": "reassert", "B": "assert の主張する", "C": "assist の助ける", "D": "assign の割り当てる", "correct": "A" },
+      { "q": "reassert のもとになった語はどれ？", "A": "assert（主張する）", "B": "assist（助ける）", "C": "assign（割り当てる）", "D": "assume（仮定する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reappoint",
+    "pron": "ˌriːəˈpɔɪnt",
+    "kana": "リアポイント",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ appoint（任命する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "再任する・再び任命する（同じ役職に改めて任命する）",
+    "description": "reappoint の意味・発音・例文・語源を解説。人を同じ役職や地位に「再任する・再び任命する」という、人事で使う語の使い方を分かりやすく紹介します。",
+    "keywords": ["reappoint 意味", "reappoint 発音", "再任", "appoint 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再任する・再び任命する", "note": "任期を終えた人を同じ役職に改めて任命する。be reappointed for another term（もう一期再任される）。名詞は reappointment。" }
+    ],
+    "usages": [
+      { "title": "① 役職への再任として", "desc": "同じ地位に改めて任命することを表します。", "example_en": "She was reappointed as chairperson.", "example_ja": "彼女は議長に再任された。" },
+      { "title": "② 任期延長の文脈で", "desc": "もう一期任命することを表します。", "example_en": "The director was reappointed for another term.", "example_ja": "その理事はもう一期再任された。" }
+    ],
+    "warn": [
+      "reappoint は『再任する・再び任命する』。re-（再び）＋ appoint（任命する）。名詞は reappointment。",
+      "選挙で選ぶ場合は reelect（再選する）。任命の場合は reappoint。"
+    ],
+    "etym_note": "re-（再び）＋ appoint（任命する、古フランス語 apointer「定める・整える」より）から成り、「再び任命すること」を意味します。point（点・定める）と語源的につながります。",
+    "etym_chain": [
+      { "node": "apointer", "sub": "定める・整える", "era": "古フランス語" },
+      { "node": "appoint", "sub": "任命する", "era": "中英語" },
+      { "node": "reappoint", "sub": "再任する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be reappointed", "ja": "再任される" },
+      { "en": "reappoint for another term", "ja": "もう一期再任する" },
+      { "en": "reappoint the chairperson", "ja": "議長を再任する" },
+      { "en": "reappoint to the post", "ja": "その役職に再任する" },
+      { "en": "a reappointment to office", "ja": "役職への再任" },
+      { "en": "reappoint the committee", "ja": "委員会を再任命する" }
+    ],
+    "related": [
+      { "en": "appoint", "ja": "任命する" },
+      { "en": "reappointment", "ja": "再任" },
+      { "en": "reelect", "ja": "再選する" },
+      { "en": "reinstate", "ja": "復職させる" }
+    ],
+    "faq": [
+      { "q": "reappoint とはどんな意味？", "a": "人を同じ役職や地位に『再任する・再び任命する』という動詞です。be reappointed for another term（もう一期再任される）のように使います。名詞は reappointment です。" },
+      { "q": "reappoint と reelect の違いは？", "a": "reappoint は『（任命によって）再任する』、reelect は『（選挙によって）再選する』ことです。選び方が異なります。" }
+    ],
+    "quiz": [
+      { "q": "She was ___ed as chairperson.（再任された）", "A": "reappoint", "B": "appoint の任命する", "C": "anoint の油を注ぐ", "D": "disappoint の失望させる", "correct": "A" },
+      { "q": "reappoint のもとになった語はどれ？", "A": "appoint（任命する）", "B": "disappoint（失望させる）", "C": "anoint（油を注ぐ）", "D": "point（点）", "correct": "A" }
+    ]
+  }
+]
