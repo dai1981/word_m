@@ -1,0 +1,473 @@
+[
+  {
+    "english": "retest",
+    "pron": "riːˈtest",
+    "kana": "リテスト",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ test（検査する）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "基本単語"],
+    "meaning_main": "再検査する・再テストする／再検査・再試験",
+    "description": "retest の意味・発音・例文・語源を解説。製品や患者、答案などを「再検査する・再テストする」こと、また「再検査・再試験」を指す語の使い方を紹介します。",
+    "keywords": ["retest 意味", "retest 発音", "再検査", "再テスト"],
+    "meanings": [
+      { "hinshi": "【動詞】再検査する・再テストする", "note": "もう一度検査・試験する。retest the sample（試料を再検査する）。" },
+      { "hinshi": "【名詞】再検査・再試験", "note": "もう一度行う検査・試験。a retest is needed（再検査が必要だ）。" }
+    ],
+    "usages": [
+      { "title": "① 「再検査する」として", "desc": "もう一度調べることを表します。", "example_en": "The doctor decided to retest the blood sample.", "example_ja": "医師は血液試料を再検査することにした。" },
+      { "title": "② 名詞「再試験」として", "desc": "もう一度行う試験を指します。", "example_en": "He has to take a retest next week.", "example_ja": "彼は来週、再試験を受けなければならない。" }
+    ],
+    "warn": [
+      "retest は『再検査する・再テストする／再検査・再試験』。re-（再び）＋ test（検査する）。",
+      "活用は規則変化 retest-retested-retested。"
+    ],
+    "etym_note": "re-（再び）＋ test（検査する、ラテン語 testum「土器・坩堝」より＝金属を調べる器）から成り、「もう一度調べること」を意味します。",
+    "etym_chain": [
+      { "node": "testum", "sub": "坩堝（金属を調べる器）", "era": "ラテン語" },
+      { "node": "test", "sub": "検査する", "era": "近代英語" },
+      { "node": "retest", "sub": "再検査する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "retest the sample", "ja": "試料を再検査する" },
+      { "en": "take a retest", "ja": "再試験を受ける" },
+      { "en": "retest for accuracy", "ja": "正確さを確かめ直す" },
+      { "en": "a retest is needed", "ja": "再検査が必要だ" },
+      { "en": "retest the software", "ja": "ソフトを再テストする" },
+      { "en": "fail and retest", "ja": "不合格で再試験を受ける" }
+    ],
+    "related": [
+      { "en": "test", "ja": "検査する・試験" },
+      { "en": "recheck", "ja": "再確認する" },
+      { "en": "reexamine", "ja": "再検査する" },
+      { "en": "verify", "ja": "検証する" }
+    ],
+    "faq": [
+      { "q": "retest とはどんな意味？", "a": "製品・試料・患者・答案などを『再検査する・再テストする』という動詞、また『再検査・再試験』という名詞です。re-（再び）＋ test から来ています。" },
+      { "q": "retest と recheck の違いは？", "a": "retest は『（試験・検査を）もう一度行う』、recheck は『（間違いがないか）もう一度確認する』ことに重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The doctor decided to ___ the blood sample.（再検査する）", "A": "retest", "B": "request の要求する", "C": "retire の引退する", "D": "return の戻る", "correct": "A" },
+      { "q": "retest のもとになった語はどれ？", "A": "test（検査する）", "B": "taste（味わう）", "C": "rest（休む）", "D": "best（最良の）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retype",
+    "pron": "riːˈtaɪp",
+    "kana": "リタイプ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ type（タイプする）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "基本単語"],
+    "meaning_main": "（文字を）打ち直す・タイプし直す・入力し直す",
+    "description": "retype の意味・発音・例文・語源を解説。文章を「打ち直す・タイプし直す・入力し直す」という、パソコン作業でよく使う語の使い方を紹介します。",
+    "keywords": ["retype 意味", "retype 発音", "打ち直す", "入力し直す"],
+    "meanings": [
+      { "hinshi": "【動詞】打ち直す・タイプし直す・入力し直す", "note": "文字や文章をもう一度キーボードで入力する。retype the document（文書を打ち直す）。" }
+    ],
+    "usages": [
+      { "title": "① 文書を打ち直す", "desc": "もう一度入力することを表します。", "example_en": "Please retype the password.", "example_ja": "パスワードを入力し直してください。" },
+      { "title": "② 修正のために打ち直す", "desc": "間違いを直して入力し直すことを表します。", "example_en": "I had to retype the whole letter.", "example_ja": "私は手紙を全部打ち直さねばならなかった。" }
+    ],
+    "warn": [
+      "retype は『（文字・文章を）打ち直す・入力し直す』。re-（再び）＋ type（タイプする）。",
+      "確認のため『パスワードをもう一度入力する』は retype the password。"
+    ],
+    "etym_note": "re-（再び）＋ type（タイプライターやキーボードで打つ）から成り、「もう一度打つこと」を意味します。type はギリシャ語 typos（型・刻印）に由来します。",
+    "etym_chain": [
+      { "node": "typos", "sub": "型・刻印", "era": "ギリシャ語" },
+      { "node": "type", "sub": "タイプする", "era": "近代英語" },
+      { "node": "retype", "sub": "打ち直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "retype the password", "ja": "パスワードを入力し直す" },
+      { "en": "retype the document", "ja": "文書を打ち直す" },
+      { "en": "retype the address", "ja": "アドレスを入力し直す" },
+      { "en": "retype it correctly", "ja": "正しく打ち直す" },
+      { "en": "retype the whole page", "ja": "ページ全体を打ち直す" },
+      { "en": "retype to confirm", "ja": "確認のため打ち直す" }
+    ],
+    "related": [
+      { "en": "type", "ja": "タイプする" },
+      { "en": "rewrite", "ja": "書き直す" },
+      { "en": "reenter", "ja": "再入力する" },
+      { "en": "input", "ja": "入力する" }
+    ],
+    "faq": [
+      { "q": "retype とはどんな意味？", "a": "文字や文章をもう一度キーボードで『打ち直す・入力し直す』という動詞です。retype the password（パスワードを入力し直す）のように使います。" },
+      { "q": "retype と rewrite の違いは？", "a": "retype は『（同じ内容を）もう一度入力する』、rewrite は『（内容を直して）書き直す』ことに重点があります。" }
+    ],
+    "quiz": [
+      { "q": "Please ___ the password.（入力し直す）", "A": "retype", "B": "retire の引退する", "C": "retreat の退く", "D": "retain の保持する", "correct": "A" },
+      { "q": "retype のもとになった語はどれ？", "A": "type（タイプする）", "B": "tape（テープ）", "C": "tip（先端）", "D": "top（頂上）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "resubmit",
+    "pron": "ˌriːsəbˈmɪt",
+    "kana": "リサブミット",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ submit（提出する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "ビジネス・学業"],
+    "meaning_main": "再提出する・もう一度提出する",
+    "description": "resubmit の意味・発音・例文・語源を解説。書類・申請・課題などを「再提出する・もう一度提出する」という、学業やビジネスで使う語の使い方を紹介します。",
+    "keywords": ["resubmit 意味", "resubmit 発音", "再提出", "submit 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再提出する・もう一度提出する", "note": "差し戻された・不備のあった書類や申請などをもう一度出す。resubmit the application（申請を再提出する）。" }
+    ],
+    "usages": [
+      { "title": "① 書類の再提出として", "desc": "もう一度提出することを表します。", "example_en": "You must resubmit the form by Friday.", "example_ja": "金曜までにその用紙を再提出しなければならない。" },
+      { "title": "② 課題・申請の再提出として", "desc": "修正して出し直すことを表します。", "example_en": "She resubmitted her essay after corrections.", "example_ja": "彼女は修正後に小論文を再提出した。" }
+    ],
+    "warn": [
+      "resubmit は『再提出する・もう一度提出する』。re-（再び）＋ submit（提出する）。活用は submit と同じ resubmit-resubmitted-resubmitted。",
+      "申請・課題・論文などの提出のやり直しで頻出。"
+    ],
+    "etym_note": "re-（再び）＋ submit（提出する、ラテン語 submittere「下に置く・差し出す」より）から成り、「もう一度差し出すこと」を意味します。mission（使命）, transmit（送る）と同じ mittere を語根にもちます。",
+    "etym_chain": [
+      { "node": "submittere", "sub": "下に置く・差し出す", "era": "ラテン語" },
+      { "node": "submit", "sub": "提出する", "era": "中英語" },
+      { "node": "resubmit", "sub": "再提出する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "resubmit the application", "ja": "申請を再提出する" },
+      { "en": "resubmit the form", "ja": "用紙を再提出する" },
+      { "en": "resubmit by the deadline", "ja": "締め切りまでに再提出する" },
+      { "en": "resubmit after corrections", "ja": "修正後に再提出する" },
+      { "en": "resubmit the proposal", "ja": "提案を再提出する" },
+      { "en": "be asked to resubmit", "ja": "再提出を求められる" }
+    ],
+    "related": [
+      { "en": "submit", "ja": "提出する" },
+      { "en": "reapply", "ja": "再申請する" },
+      { "en": "hand in", "ja": "提出する" },
+      { "en": "file", "ja": "（書類を）提出する" }
+    ],
+    "faq": [
+      { "q": "resubmit とはどんな意味？", "a": "差し戻された・不備のあった書類・申請・課題などを『再提出する・もう一度提出する』という動詞です。resubmit the application（申請を再提出する）のように使います。" },
+      { "q": "resubmit と reapply の違いは？", "a": "resubmit は『（書類などを）もう一度提出する』、reapply は『（職や許可などに）もう一度申し込む』ことに重点があります。" }
+    ],
+    "quiz": [
+      { "q": "You must ___ the form by Friday.（再提出する）", "A": "resubmit", "B": "submit の提出する", "C": "summit の頂上", "D": "permit の許可する", "correct": "A" },
+      { "q": "resubmit のもとになった語はどれ？", "A": "submit（提出する）", "B": "summit（頂上）", "C": "permit（許可する）", "D": "admit（認める）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "relabel",
+    "pron": "riːˈleɪbəl",
+    "kana": "リレイベル",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ label（ラベルをはる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "ラベルを貼り替える・名称を付け替える／（別の名前で）呼び直す",
+    "description": "relabel の意味・発音・例文・語源を解説。商品の「ラベルを貼り替える」、また物事を「別の名前で呼び直す・分類し直す」という使い方を分かりやすく紹介します。",
+    "keywords": ["relabel 意味", "relabel 発音", "ラベルを貼り替える", "label 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】ラベルを貼り替える・名称を付け替える", "note": "商品やファイルなどのラベル・名前を新しくする。relabel the products（商品のラベルを貼り替える）。" },
+      { "hinshi": "【動詞】（別の名前で）呼び直す・分類し直す", "note": "物事を別の言葉で言い換える・カテゴリーを変える。" }
+    ],
+    "usages": [
+      { "title": "① ラベルの貼り替えとして", "desc": "ラベルや名前を新しくすることを表します。", "example_en": "The store had to relabel the mispriced items.", "example_ja": "店は値札の間違った商品のラベルを貼り替えねばならなかった。" },
+      { "title": "② 呼び直し・分類変更として", "desc": "別の名前で呼び直すことを表します。", "example_en": "The condition was relabeled with a new term.", "example_ja": "その症状は新しい用語で呼び直された。" }
+    ],
+    "warn": [
+      "relabel は『ラベルを貼り替える・名称を付け替える』、また『（別の名前で）呼び直す・分類し直す』。re-（再び）＋ label。",
+      "中身を変えず名前だけ変える（言い換える）含みで使われることもある。"
+    ],
+    "etym_note": "re-（再び）＋ label（ラベル・札をはる、古フランス語 label「布の切れ端・札」より）から成り、「もう一度ラベルをはること」を意味します。",
+    "etym_chain": [
+      { "node": "label", "sub": "札・切れ端", "era": "古フランス語" },
+      { "node": "label", "sub": "ラベルをはる", "era": "近代英語" },
+      { "node": "relabel", "sub": "ラベルを貼り替える", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "relabel the products", "ja": "商品のラベルを貼り替える" },
+      { "en": "relabel the files", "ja": "ファイル名を付け替える" },
+      { "en": "relabel as", "ja": "〜と呼び直す" },
+      { "en": "relabel the jars", "ja": "瓶のラベルを貼り替える" },
+      { "en": "be relabeled", "ja": "ラベルが貼り替えられる" },
+      { "en": "relabel the category", "ja": "分類を付け替える" }
+    ],
+    "related": [
+      { "en": "label", "ja": "ラベルをはる・名札" },
+      { "en": "rename", "ja": "名前を変える" },
+      { "en": "reclassify", "ja": "分類し直す" },
+      { "en": "rebrand", "ja": "ブランドを一新する" }
+    ],
+    "faq": [
+      { "q": "relabel とはどんな意味？", "a": "商品やファイルなどの『ラベルを貼り替える・名称を付け替える』という意味と、物事を『別の名前で呼び直す・分類し直す』という意味があります。re-（再び）＋ label から来ています。" },
+      { "q": "relabel と rename の違いは？", "a": "relabel は『（札・分類・呼び名の）ラベルを貼り替える』、rename は『（固有の）名前を変える』ことに重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The store had to ___ the mispriced items.（ラベルを貼り替える）", "A": "relabel", "B": "rebel の反逆する", "C": "recall の思い出す", "D": "reveal の明かす", "correct": "A" },
+      { "q": "relabel のもとになった語はどれ？", "A": "label（ラベル）", "B": "level（水準）", "C": "rebel（反逆者）", "D": "label の代わりに table", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rezone",
+    "pron": "riːˈzoʊn",
+    "kana": "リゾーン",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ zone（区域を定める）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "都市計画"],
+    "meaning_main": "（土地の）用途地域を変更する・区域区分を定め直す",
+    "description": "rezone の意味・発音・例文・語源を解説。都市計画で土地の「用途地域を変更する・区域区分を定め直す」という行政・不動産の語の使い方を紹介します。",
+    "keywords": ["rezone 意味", "rezone 発音", "用途地域変更", "zone 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（土地の）用途地域を変更する・区域区分を定め直す", "note": "ある土地の使える用途（住宅・商業・工業など）の区分を変えること。rezone for commercial use（商業用に用途変更する）。" }
+    ],
+    "usages": [
+      { "title": "① 用途地域の変更として", "desc": "土地の使い道の区分を変えることを表します。", "example_en": "The city plans to rezone the area for housing.", "example_ja": "市はその地域を住宅用に用途変更する予定だ。" },
+      { "title": "② 開発の文脈で", "desc": "区域区分の見直しを表します。", "example_en": "The land was rezoned for commercial development.", "example_ja": "その土地は商業開発のため用途変更された。" }
+    ],
+    "warn": [
+      "rezone は『（土地の）用途地域を変更する』。re-（再び）＋ zone（区域を定める）。都市計画・不動産の語。",
+      "用途地域そのものは zoning（ゾーニング）という。"
+    ],
+    "etym_note": "re-（再び）＋ zone（区域・区域を定める、ギリシャ語 zōnē「帯」より）から成り、「区域区分を定め直すこと」を意味します。",
+    "etym_chain": [
+      { "node": "zōnē", "sub": "帯・区域", "era": "ギリシャ語" },
+      { "node": "zone", "sub": "区域・区域を定める", "era": "近代英語" },
+      { "node": "rezone", "sub": "用途地域を変更する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rezone for housing", "ja": "住宅用に用途変更する" },
+      { "en": "rezone for commercial use", "ja": "商業用に用途変更する" },
+      { "en": "rezone the area", "ja": "その地域を用途変更する" },
+      { "en": "apply to rezone", "ja": "用途変更を申請する" },
+      { "en": "be rezoned", "ja": "用途地域が変更される" },
+      { "en": "a rezoning request", "ja": "用途変更の申請" }
+    ],
+    "related": [
+      { "en": "zone", "ja": "区域・区域を定める" },
+      { "en": "zoning", "ja": "用途地域制・ゾーニング" },
+      { "en": "redevelop", "ja": "再開発する" },
+      { "en": "planning", "ja": "都市計画" }
+    ],
+    "faq": [
+      { "q": "rezone とはどんな意味？", "a": "都市計画で、ある土地の使える用途（住宅・商業・工業など）の区分を変えること『用途地域を変更する・区域区分を定め直す』という動詞です。rezone for housing（住宅用に用途変更する）のように使います。" },
+      { "q": "rezone と redevelop の違いは？", "a": "rezone は『（土地の）用途区分を制度的に変えること』、redevelop は『（土地・建物を）実際に作り直す・再開発すること』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The city plans to ___ the area for housing.（用途変更する）", "A": "rezone", "B": "reason の推論する", "C": "resign の辞職する", "D": "reside の住む", "correct": "A" },
+      { "q": "rezone のもとになった語はどれ？", "A": "zone（区域）", "B": "zoo（動物園）", "C": "zoom（拡大）", "D": "zero（ゼロ）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "resole",
+    "pron": "riːˈsoʊl",
+    "kana": "リソウル",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ sole（靴底をつける）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "実用"],
+    "meaning_main": "（靴の）底を張り替える・修理する",
+    "description": "resole の意味・発音・例文・語源を解説。すり減った靴の「底を張り替える・修理する」という、靴の手入れに関する語の使い方を分かりやすく紹介します。",
+    "keywords": ["resole 意味", "resole 発音", "靴底の張り替え", "sole 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（靴の）底を張り替える・修理する", "note": "すり減った靴底を新しいものに付け替える。resole the boots（ブーツの底を張り替える）。" }
+    ],
+    "usages": [
+      { "title": "① 靴底の張り替えとして", "desc": "すり減った底を新しくすることを表します。", "example_en": "I had my favorite shoes resoled.", "example_ja": "私はお気に入りの靴の底を張り替えてもらった。" },
+      { "title": "② 修理の場面で", "desc": "靴の手入れとして使います。", "example_en": "Good leather boots can be resoled many times.", "example_ja": "良い革のブーツは何度も底を張り替えられる。" }
+    ],
+    "warn": [
+      "resole は『（靴の）底を張り替える』。re-（再び）＋ sole（靴底）。発音は『リソウル（riːˈsoʊl）』。",
+      "have / get one's shoes resoled（靴の底を張り替えてもらう）の形が頻出。"
+    ],
+    "etym_note": "re-（再び）＋ sole（靴底・靴底をつける、ラテン語 solea「サンダル・靴底」より）から成り、「もう一度靴底をつけること」を意味します。",
+    "etym_chain": [
+      { "node": "solea", "sub": "サンダル・靴底", "era": "ラテン語" },
+      { "node": "sole", "sub": "靴底・靴底をつける", "era": "中英語" },
+      { "node": "resole", "sub": "靴底を張り替える", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "resole the boots", "ja": "ブーツの底を張り替える" },
+      { "en": "have shoes resoled", "ja": "靴の底を張り替えてもらう" },
+      { "en": "resole worn shoes", "ja": "すり減った靴の底を張り替える" },
+      { "en": "be resoled", "ja": "底が張り替えられる" },
+      { "en": "resole and repair", "ja": "底を張り替えて修理する" },
+      { "en": "worth resoling", "ja": "底を張り替える価値がある" }
+    ],
+    "related": [
+      { "en": "sole", "ja": "靴底" },
+      { "en": "cobbler", "ja": "靴の修理屋" },
+      { "en": "repair", "ja": "修理する" },
+      { "en": "heel", "ja": "かかと" }
+    ],
+    "faq": [
+      { "q": "resole とはどんな意味？", "a": "すり減った靴の『底を張り替える・修理する』という動詞です。have one's shoes resoled（靴の底を張り替えてもらう）のように使います。" },
+      { "q": "resole の sole は何のこと？", "a": "ここでの sole は『靴底』のことです。re-（再び）＋ sole で『靴底を付け直す』を意味します。同音の soul（魂）や soul（白身魚のシタビラメ）とは別です。" }
+    ],
+    "quiz": [
+      { "q": "I had my favorite shoes ___d.（底を張り替えて）", "A": "resole", "B": "resolve の解決する", "C": "resort のリゾート", "D": "resound の鳴り響く", "correct": "A" },
+      { "q": "resole の sole が指すのはどれ？", "A": "靴底", "B": "つま先", "C": "ひも", "D": "中敷き", "correct": "A" }
+    ]
+  },
+  {
+    "english": "restring",
+    "pron": "riːˈstrɪŋ",
+    "kana": "リストリング",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ string（弦・糸をつける）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "音楽・スポーツ"],
+    "meaning_main": "（楽器・ラケットの）弦を張り替える／（数珠などを）通し直す",
+    "description": "restring の意味・発音・例文・語源を解説。ギターやラケットの「弦を張り替える」、また数珠・ビーズを「通し直す」という語の使い方を紹介します。",
+    "keywords": ["restring 意味", "restring 発音", "弦を張り替える", "string 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（楽器・ラケットの）弦を張り替える", "note": "ギター・バイオリン・テニスラケットなどの弦を新しくする。restring the guitar（ギターの弦を張り替える）。活用は restring-restrung-restrung。" },
+      { "hinshi": "【動詞】（数珠・ビーズを）通し直す", "note": "糸を通し直して連を作り直す。restring the beads（ビーズを通し直す）。" }
+    ],
+    "usages": [
+      { "title": "① 弦の張り替えとして", "desc": "楽器やラケットの弦を新しくすることを表します。", "example_en": "He needs to restring his guitar.", "example_ja": "彼はギターの弦を張り替える必要がある。" },
+      { "title": "② 通し直しとして", "desc": "数珠やビーズを糸に通し直すことを表します。", "example_en": "She restrung the broken necklace.", "example_ja": "彼女は切れたネックレスを通し直した。" }
+    ],
+    "warn": [
+      "restring は『（楽器・ラケットの）弦を張り替える』『（数珠・ビーズを）通し直す』。re-（再び）＋ string。",
+      "活用は string と同じ restring-restrung-restrung。"
+    ],
+    "etym_note": "re-（再び）＋ string（弦・糸／弦をつける、古英語 streng「ひも」より）から成り、「もう一度弦・糸をつけること」を意味します。strong（強い）と語源的につながります。",
+    "etym_chain": [
+      { "node": "streng", "sub": "ひも・弦", "era": "古英語" },
+      { "node": "string", "sub": "弦・糸／弦をつける", "era": "中英語" },
+      { "node": "restring", "sub": "弦を張り替える", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "restring the guitar", "ja": "ギターの弦を張り替える" },
+      { "en": "restring a racket", "ja": "ラケットのガットを張り替える" },
+      { "en": "restring the violin", "ja": "バイオリンの弦を張り替える" },
+      { "en": "restring the beads", "ja": "ビーズを通し直す" },
+      { "en": "have it restrung", "ja": "張り替えてもらう" },
+      { "en": "restring with new strings", "ja": "新しい弦に張り替える" }
+    ],
+    "related": [
+      { "en": "string", "ja": "弦・糸／弦をつける" },
+      { "en": "tune", "ja": "調律する" },
+      { "en": "thread", "ja": "糸を通す" },
+      { "en": "racket", "ja": "ラケット" }
+    ],
+    "faq": [
+      { "q": "restring とはどんな意味？", "a": "ギターやテニスラケットなどの『弦を張り替える』、また数珠・ビーズを糸に『通し直す』という動詞です。restring the guitar（ギターの弦を張り替える）のように使います。" },
+      { "q": "restring の過去形は？", "a": "string と同じで restring-restrung-restrung です。過去形・過去分詞ともに restrung になります。" }
+    ],
+    "quiz": [
+      { "q": "He needs to ___ his guitar.（弦を張り替える）", "A": "restring", "B": "restrict の制限する", "C": "restore の復元する", "D": "restrain の抑える", "correct": "A" },
+      { "q": "restring の過去形はどれ？", "A": "restrung", "B": "restringed", "C": "restrang", "D": "restrings", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rowhouse",
+    "pron": "ˈroʊhaʊs",
+    "kana": "ロウハウス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "row（列）＋ house（家）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "建築"],
+    "meaning_main": "（米）連棟住宅・長屋（壁を共有して横一列に並んだ住宅）",
+    "description": "rowhouse の意味・発音・例文・語源を解説。隣どうしが壁を共有して横一列に並んだ住宅「連棟住宅（テラスハウス）」を指す語の使い方を紹介します。",
+    "keywords": ["rowhouse 意味", "rowhouse 発音", "連棟住宅", "テラスハウス"],
+    "meanings": [
+      { "hinshi": "【名詞】連棟住宅・長屋", "note": "隣どうしが側面の壁を共有し、横一列に同じ造りで並んだ住宅。主にアメリカ英語で、イギリスでは terraced house。row house と2語でも綴る。" }
+    ],
+    "usages": [
+      { "title": "① 連棟住宅として", "desc": "横並びの住宅を指します。", "example_en": "They bought a brick rowhouse in the city.", "example_ja": "彼らは街でれんが造りの連棟住宅を買った。" },
+      { "title": "② 街並みの説明で", "desc": "立ち並ぶ住宅を表します。", "example_en": "The street is lined with rowhouses.", "example_ja": "その通りは連棟住宅が立ち並んでいる。" }
+    ],
+    "warn": [
+      "rowhouse は『壁を共有して横一列に並んだ連棟住宅』。row（列）＋ house（家）。主にアメリカ英語で、イギリスでは terraced house（テラスハウス）。",
+      "row はここでは『列』の意味（発音『ロウ』）。"
+    ],
+    "etym_note": "row（列）＋ house（家）の複合語で、「列をなして並んだ家」を意味します。同じ造りの家が横一列に連なる住宅様式を表します。",
+    "etym_chain": [
+      { "node": "row + house", "sub": "列＋家", "era": "近代英語" },
+      { "node": "rowhouse", "sub": "列をなす家", "era": "近代英語" },
+      { "node": "rowhouse", "sub": "連棟住宅", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a brick rowhouse", "ja": "れんが造りの連棟住宅" },
+      { "en": "a row of rowhouses", "ja": "連棟住宅の列" },
+      { "en": "lined with rowhouses", "ja": "連棟住宅が立ち並ぶ" },
+      { "en": "a historic rowhouse", "ja": "歴史ある連棟住宅" },
+      { "en": "live in a rowhouse", "ja": "連棟住宅に住む" },
+      { "en": "a narrow rowhouse", "ja": "間口の狭い連棟住宅" }
+    ],
+    "related": [
+      { "en": "terraced house", "ja": "テラスハウス（英）" },
+      { "en": "townhouse", "ja": "タウンハウス" },
+      { "en": "duplex", "ja": "二戸建て住宅" },
+      { "en": "apartment", "ja": "アパート" }
+    ],
+    "faq": [
+      { "q": "rowhouse とはどんな意味？", "a": "隣どうしが側面の壁を共有し、横一列に同じ造りで並んだ住宅『連棟住宅・長屋』のことです。主にアメリカ英語で、イギリスでは terraced house と言います。" },
+      { "q": "rowhouse と townhouse の違いは？", "a": "どちらも壁を共有する連棟住宅ですが、townhouse はより高級・複層の都市型住宅を指すことが多く、rowhouse は横一列に同じ造りで並ぶ住宅全般を指します。" }
+    ],
+    "quiz": [
+      { "q": "They bought a brick ___ in the city.（連棟住宅）", "A": "rowhouse", "B": "warehouse の倉庫", "C": "roadhouse の街道沿いの宿", "D": "roundhouse の機関車庫", "correct": "A" },
+      { "q": "rowhouse のイギリス英語での言い方はどれ？", "A": "terraced house（テラスハウス）", "B": "cottage（コテージ）", "C": "mansion（大邸宅）", "D": "bungalow（平屋）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rubdown",
+    "pron": "ˈrʌbdaʊn",
+    "kana": "ラブダウン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rub down（こすって乾かす・もむ）より",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "スポーツ・日常"],
+    "meaning_main": "（体を）こすって乾かす・もみほぐすこと／マッサージ・乾布摩擦",
+    "description": "rubdown の意味・発音・例文・語源を解説。タオルなどで体を「こすって乾かすこと」や、筋肉を「もみほぐすマッサージ」を指す語の使い方を紹介します。",
+    "keywords": ["rubdown 意味", "rubdown 発音", "マッサージ", "rub down 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】（体を）こすって乾かす・もみほぐすこと／マッサージ", "note": "タオルなどで体をこすって乾かす、または筋肉をもみほぐすこと。give a rubdown（マッサージする）。" }
+    ],
+    "usages": [
+      { "title": "① こすって乾かすこととして", "desc": "体をふいて乾かすことを表します。", "example_en": "The horse was given a rubdown after the race.", "example_ja": "その馬はレースのあと体をこすって乾かしてもらった。" },
+      { "title": "② マッサージとして", "desc": "筋肉をもみほぐすことを表します。", "example_en": "The trainer gave the athlete a rubdown.", "example_ja": "トレーナーは選手にマッサージをした。" }
+    ],
+    "warn": [
+      "rubdown は『（体を）こすって乾かす・もみほぐすこと／マッサージ』。句動詞 rub down が名詞化した語。",
+      "give someone a rubdown（人をマッサージする）が定番表現。"
+    ],
+    "etym_note": "句動詞 rub down（こすって乾かす・もみほぐす）が名詞化した語です。rub（こする）＋ down（すっかり・徹底的に）から成ります。",
+    "etym_chain": [
+      { "node": "rub down", "sub": "こすって乾かす・もむ", "era": "近代英語" },
+      { "node": "rubdown", "sub": "こすって乾かすこと", "era": "近代英語" },
+      { "node": "rubdown", "sub": "マッサージ・乾布摩擦", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "give a rubdown", "ja": "マッサージする" },
+      { "en": "a quick rubdown", "ja": "手早いマッサージ" },
+      { "en": "a towel rubdown", "ja": "タオルで体をこすって乾かすこと" },
+      { "en": "a rubdown with alcohol", "ja": "アルコールでの清拭" },
+      { "en": "after the rubdown", "ja": "マッサージのあとで" },
+      { "en": "need a rubdown", "ja": "マッサージが必要だ" }
+    ],
+    "related": [
+      { "en": "rub", "ja": "こする" },
+      { "en": "massage", "ja": "マッサージ" },
+      { "en": "wipe", "ja": "ふく" },
+      { "en": "knead", "ja": "もむ・こねる" }
+    ],
+    "faq": [
+      { "q": "rubdown とはどんな意味？", "a": "タオルなどで体を『こすって乾かすこと』や、筋肉を『もみほぐすマッサージ』のことです。give a rubdown（マッサージする）のように使います。" },
+      { "q": "rubdown と massage の違いは？", "a": "massage は『（本格的な）マッサージ』全般、rubdown は『（タオルなどで体をこすって乾かす・軽くもみほぐす）こと』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The trainer gave the athlete a ___.（マッサージ）", "A": "rubdown", "B": "rundown の概要", "C": "letdown の失望", "D": "showdown の対決", "correct": "A" },
+      { "q": "rubdown のもとになった句動詞はどれ？", "A": "rub down（こすって乾かす・もむ）", "B": "run down（ざっと述べる）", "C": "let down（失望させる）", "D": "show down（対決する）", "correct": "A" }
+    ]
+  }
+]

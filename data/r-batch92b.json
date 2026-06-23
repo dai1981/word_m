@@ -1,0 +1,54 @@
+[
+  {
+    "english": "rimless",
+    "pron": "ˈrɪmləs",
+    "kana": "リムレス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "rim（縁）＋ -less（〜のない）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "描写"],
+    "meaning_main": "縁（ふち）のない（特にレンズの周りに枠のない眼鏡）",
+    "description": "rimless の意味・発音・例文・語源を解説。レンズの周りに枠のない「縁なし眼鏡」など、ふちのないものを表す形容詞の使い方を紹介します。",
+    "keywords": ["rimless 意味", "rimless 発音", "縁なし", "rimless 眼鏡"],
+    "meanings": [
+      { "hinshi": "【形容詞】縁のない・枠のない", "note": "ふち（rim）がないようす。特にレンズの周りに枠のない眼鏡。rimless glasses（縁なし眼鏡）。" }
+    ],
+    "usages": [
+      { "title": "① 縁なし眼鏡として", "desc": "レンズに枠のない眼鏡を表します。", "example_en": "He wore elegant rimless glasses.", "example_ja": "彼は上品な縁なし眼鏡をかけていた。" },
+      { "title": "② ふちのないものとして", "desc": "縁のない器などを表します。", "example_en": "The dish had a clean, rimless edge.", "example_ja": "その皿はすっきりとした縁のない縁取りだった。" }
+    ],
+    "warn": [
+      "rimless は『縁（ふち）のない』。特に rimless glasses（縁なし眼鏡）で頻出。rim（縁）＋ -less（〜のない）。",
+      "枠がレンズの一部だけのものは half-rimmed（ハーフリム）という。"
+    ],
+    "etym_note": "rim（縁・ふち、古英語 rima「縁」より）＋ -less（〜のない）から成り、「縁のない」を意味します。",
+    "etym_chain": [
+      { "node": "rima", "sub": "縁・ふち", "era": "古英語" },
+      { "node": "rim + -less", "sub": "縁＋ない", "era": "近代英語" },
+      { "node": "rimless", "sub": "縁のない", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rimless glasses", "ja": "縁なし眼鏡" },
+      { "en": "rimless spectacles", "ja": "縁なし眼鏡" },
+      { "en": "a rimless lens", "ja": "枠のないレンズ" },
+      { "en": "rimless frames", "ja": "縁なしフレーム" },
+      { "en": "wear rimless glasses", "ja": "縁なし眼鏡をかける" },
+      { "en": "a rimless design", "ja": "縁のないデザイン" }
+    ],
+    "related": [
+      { "en": "rim", "ja": "縁・ふち" },
+      { "en": "frame", "ja": "枠・フレーム" },
+      { "en": "border", "ja": "縁取り" },
+      { "en": "edge", "ja": "縁・端" }
+    ],
+    "faq": [
+      { "q": "rimless とはどんな意味？", "a": "ふち（rim）がない『縁のない・枠のない』という形容詞です。特にレンズの周りに枠のない rimless glasses（縁なし眼鏡）でよく使われます。" },
+      { "q": "rimless glasses とは？", "a": "レンズの周りに枠（フレーム）がなく、レンズに直接つるや鼻当てを取り付けた『縁なし眼鏡』のことです。" }
+    ],
+    "quiz": [
+      { "q": "He wore elegant ___ glasses.（縁なしの）", "A": "rimless", "B": "harmless の無害な", "C": "endless の果てしない", "D": "careless の不注意な", "correct": "A" },
+      { "q": "rimless の -less が表す意味はどれ？", "A": "〜のない", "B": "〜に満ちた", "C": "〜より小さい", "D": "〜のような", "correct": "A" }
+    ]
+  }
+]
