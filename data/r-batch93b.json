@@ -1,0 +1,55 @@
+[
+  {
+    "english": "resupply",
+    "pron": "ˌriːsəˈplaɪ",
+    "kana": "リサプライ",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ supply（供給する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "軍事・物流"],
+    "meaning_main": "（物資・補給品を）再び供給する・補給し直す／再補給",
+    "description": "resupply の意味・発音・例文・語源を解説。減った物資・食料・弾薬などを「再び供給する・補給し直す」という、軍事・物流で使う語の使い方を紹介します。",
+    "keywords": ["resupply 意味", "resupply 発音", "再補給", "supply 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再び供給する・補給し直す", "note": "減った物資・食料・弾薬などをもう一度供給する。resupply the troops（部隊に補給する）。" },
+      { "hinshi": "【名詞】再補給・補給", "note": "a resupply mission（補給任務）。" }
+    ],
+    "usages": [
+      { "title": "① 「補給し直す」として", "desc": "減った物資を再び供給することを表します。", "example_en": "Helicopters resupplied the base.", "example_ja": "ヘリコプターが基地に物資を補給した。" },
+      { "title": "② 名詞「再補給」として", "desc": "補給任務などを指します。", "example_en": "A resupply mission was sent to the station.", "example_ja": "補給任務がその基地に送られた。" }
+    ],
+    "warn": [
+      "resupply は『（物資を）再び供給する・補給し直す／再補給』。re-（再び）＋ supply（供給する）。",
+      "軍事・登山・宇宙ステーションなどの『補給』でよく使う。"
+    ],
+    "etym_note": "re-（再び）＋ supply（供給する、ラテン語 supplere「満たす・補う」より）から成り、「もう一度供給すること」を意味します。supplement（補足）と同じ語根です。",
+    "etym_chain": [
+      { "node": "supplere", "sub": "満たす・補う", "era": "ラテン語" },
+      { "node": "supply", "sub": "供給する", "era": "中英語" },
+      { "node": "resupply", "sub": "再供給する・補給し直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "resupply the troops", "ja": "部隊に補給する" },
+      { "en": "a resupply mission", "ja": "補給任務" },
+      { "en": "resupply the base", "ja": "基地に補給する" },
+      { "en": "resupply with food and water", "ja": "食料と水を補給する" },
+      { "en": "an aerial resupply", "ja": "空からの補給" },
+      { "en": "resupply the station", "ja": "基地・ステーションに補給する" }
+    ],
+    "related": [
+      { "en": "supply", "ja": "供給する" },
+      { "en": "replenish", "ja": "補充する" },
+      { "en": "restock", "ja": "在庫を補充する" },
+      { "en": "provisions", "ja": "食料・補給品" }
+    ],
+    "faq": [
+      { "q": "resupply とはどんな意味？", "a": "減った物資・食料・弾薬などを『再び供給する・補給し直す』という動詞、また『再補給』という名詞です。resupply the troops（部隊に補給する）のように使います。" },
+      { "q": "resupply と replenish の違いは？", "a": "ほぼ同じですが、resupply は特に『（部隊・基地などへ外部から）補給する』、replenish は『（蓄え・在庫を）補充する』ことに重点があります。" }
+    ],
+    "quiz": [
+      { "q": "Helicopters ___ied the base.（補給した）", "A": "resupply", "B": "reply の返事する", "C": "rely の頼る", "D": "reapply の再申請する", "correct": "A" },
+      { "q": "resupply のもとになった語はどれ？", "A": "supply（供給する）", "B": "apply（応用する）", "C": "reply（返事する）", "D": "imply（ほのめかす）", "correct": "A" }
+    ]
+  }
+]

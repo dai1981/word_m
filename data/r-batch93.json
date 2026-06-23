@@ -1,0 +1,472 @@
+[
+  {
+    "english": "radial",
+    "pron": "ˈreɪdiəl",
+    "kana": "レイディアル",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 radius（光線・半径）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "科学・技術"],
+    "meaning_main": "放射状の・中心から外へ広がる・半径の／（名詞）ラジアルタイヤ",
+    "description": "radial の意味・発音・例文・語源を解説。中心から放射状に広がる「放射状の・半径方向の」という形容詞と、「ラジアルタイヤ」という名詞の使い方を紹介します。",
+    "keywords": ["radial 意味", "radial 発音", "放射状", "ラジアルタイヤ"],
+    "meanings": [
+      { "hinshi": "【形容詞】放射状の・半径方向の", "note": "中心から外へ放射状に広がる・伸びる。a radial pattern（放射状の模様）、radial symmetry（放射相称）。" },
+      { "hinshi": "【名詞】ラジアルタイヤ", "note": "コードが中心から放射状に配置された構造のタイヤ。a radial (tire)。" }
+    ],
+    "usages": [
+      { "title": "① 「放射状の」として", "desc": "中心から外へ広がるようすを表します。", "example_en": "The streets follow a radial pattern from the square.", "example_ja": "通りは広場から放射状に伸びている。" },
+      { "title": "② 「半径の」として", "desc": "半径方向を表します。", "example_en": "The radial force pushes outward.", "example_ja": "半径方向の力は外へ押し出す。" }
+    ],
+    "warn": [
+      "radial は『放射状の・半径方向の』。ラテン語 radius（光線・半径）由来。radio, radius, radiate と同じ語根。",
+      "名詞では『ラジアルタイヤ』を指す。"
+    ],
+    "etym_note": "ラテン語 radius（光線・車輪のスポーク・半径）に由来します。radius（半径）, radiate（放射する）, radio（無線）と同じ語根で、「中心から放射状に伸びる」を意味します。",
+    "etym_chain": [
+      { "node": "radius", "sub": "光線・半径・スポーク", "era": "ラテン語" },
+      { "node": "radial", "sub": "半径の・放射状の", "era": "近代英語" },
+      { "node": "radial", "sub": "放射状の・ラジアルタイヤ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a radial pattern", "ja": "放射状の模様" },
+      { "en": "radial symmetry", "ja": "放射相称" },
+      { "en": "radial roads", "ja": "放射状の道路" },
+      { "en": "a radial tire", "ja": "ラジアルタイヤ" },
+      { "en": "radial velocity", "ja": "視線速度・半径方向速度" },
+      { "en": "in a radial direction", "ja": "半径方向に" }
+    ],
+    "related": [
+      { "en": "radius", "ja": "半径" },
+      { "en": "radiate", "ja": "放射する" },
+      { "en": "concentric", "ja": "同心円の" },
+      { "en": "lateral", "ja": "横方向の" }
+    ],
+    "faq": [
+      { "q": "radial とはどんな意味？", "a": "中心から外へ放射状に広がる・伸びる『放射状の・半径方向の』という形容詞です。a radial pattern（放射状の模様）のように使います。名詞では『ラジアルタイヤ』を指します。" },
+      { "q": "radial と同じ語源なのは？", "a": "radius（半径）、radiate（放射する）、radio（無線）などです。すべてラテン語 radius（光線・半径）に由来します。" }
+    ],
+    "quiz": [
+      { "q": "The streets follow a ___ pattern from the square.（放射状の）", "A": "radial", "B": "racial の人種の", "C": "rural の田舎の", "D": "royal の王の", "correct": "A" },
+      { "q": "radial の語源 radius の意味はどれ？", "A": "光線・半径", "B": "車輪の音", "C": "丸い形", "D": "速い動き", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rebar",
+    "pron": "ˈriːbɑːr",
+    "kana": "リーバー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "reinforcing bar（補強用の棒）の短縮",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "建築・土木"],
+    "meaning_main": "鉄筋（コンクリートを補強する鋼の棒）",
+    "description": "rebar の意味・発音・例文・語源を解説。コンクリートの中に入れて強度を高める鋼の棒「鉄筋」を指す建築・土木の語の使い方を分かりやすく紹介します。",
+    "keywords": ["rebar 意味", "rebar 発音", "鉄筋", "rebar コンクリート"],
+    "meanings": [
+      { "hinshi": "【名詞】鉄筋", "note": "コンクリートの中に埋め込んで引っ張りの力に対する強度を高める鋼の棒。reinforcing bar の短縮。" }
+    ],
+    "usages": [
+      { "title": "① 建設資材として", "desc": "コンクリートを補強する鋼の棒を指します。", "example_en": "Workers tied the rebar before pouring concrete.", "example_ja": "作業員はコンクリートを流す前に鉄筋を結束した。" },
+      { "title": "② 建物の強度として", "desc": "鉄筋コンクリートの説明で使います。", "example_en": "Rebar gives concrete its tensile strength.", "example_ja": "鉄筋はコンクリートに引っ張り強度を与える。" }
+    ],
+    "warn": [
+      "rebar は『鉄筋』。reinforcing bar（補強用の棒）の短縮形。発音は『リーバー（ˈriːbɑːr）』。",
+      "鉄筋コンクリートは reinforced concrete。"
+    ],
+    "etym_note": "reinforcing bar（補強する棒）の re- と bar をつなげた短縮語です。reinforce（補強する）＋ bar（棒）から成り、「コンクリートを補強する棒」を意味します。",
+    "etym_chain": [
+      { "node": "reinforcing bar", "sub": "補強用の棒", "era": "近代英語" },
+      { "node": "rebar", "sub": "鉄筋", "era": "現代英語" },
+      { "node": "rebar", "sub": "鉄筋", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "tie the rebar", "ja": "鉄筋を結束する" },
+      { "en": "steel rebar", "ja": "鋼の鉄筋" },
+      { "en": "lay the rebar", "ja": "鉄筋を配置する" },
+      { "en": "rebar and concrete", "ja": "鉄筋とコンクリート" },
+      { "en": "a rebar cage", "ja": "鉄筋かご（配筋）" },
+      { "en": "exposed rebar", "ja": "むき出しの鉄筋" }
+    ],
+    "related": [
+      { "en": "reinforce", "ja": "補強する" },
+      { "en": "concrete", "ja": "コンクリート" },
+      { "en": "steel", "ja": "鋼" },
+      { "en": "bar", "ja": "棒" }
+    ],
+    "faq": [
+      { "q": "rebar とはどんな意味？", "a": "コンクリートの中に埋め込んで、引っ張りの力に対する強度を高める鋼の棒『鉄筋』のことです。reinforcing bar（補強用の棒）の短縮形です。" },
+      { "q": "なぜコンクリートに rebar を入れる？", "a": "コンクリートは圧縮には強いが引っ張りには弱いため、引っ張りに強い鉄筋を入れて全体の強度を高めます。" }
+    ],
+    "quiz": [
+      { "q": "Workers tied the ___ before pouring concrete.（鉄筋）", "A": "rebar", "B": "rebate の払い戻し", "C": "rebut の反論する", "D": "reborn の生まれ変わった", "correct": "A" },
+      { "q": "rebar のもとの言い方はどれ？", "A": "reinforcing bar（補強用の棒）", "B": "rubber band（輪ゴム）", "C": "railway bar", "D": "round bar", "correct": "A" }
+    ]
+  },
+  {
+    "english": "radiology",
+    "pron": "ˌreɪdiˈɒlədʒi",
+    "kana": "レイディオロジー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "radio-（放射）＋ -logy（学問）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "医学"],
+    "meaning_main": "放射線医学・放射線科（X線などで体内を画像化し診断する医学分野）",
+    "description": "radiology の意味・発音・例文・語源を解説。X線・CT・MRIなどで体内を画像化して診断する医学分野「放射線医学・放射線科」を指す語の使い方を紹介します。",
+    "keywords": ["radiology 意味", "radiology 発音", "放射線医学", "放射線科"],
+    "meanings": [
+      { "hinshi": "【名詞】放射線医学・放射線科", "note": "X線・CT・MRI・超音波などで体内を画像化し、診断・治療を行う医学分野・診療科。" }
+    ],
+    "usages": [
+      { "title": "① 医学分野として", "desc": "画像診断の分野を指します。", "example_en": "She specializes in radiology.", "example_ja": "彼女は放射線医学を専門にしている。" },
+      { "title": "② 病院の診療科として", "desc": "放射線科を指します。", "example_en": "Go to the radiology department for your X-ray.", "example_ja": "X線検査は放射線科へどうぞ。" }
+    ],
+    "warn": [
+      "radiology は『放射線医学・放射線科（画像診断）』。放射線科医は radiologist。",
+      "radio-（放射）＋ -logy（学問）。放射線治療は radiotherapy / radiation therapy。"
+    ],
+    "etym_note": "radio-（放射・放射線、ラテン語 radius「光線」より）＋ -logy（学問、ギリシャ語 logos「言葉・学」より）から成り、「放射線の学問」を意味します。",
+    "etym_chain": [
+      { "node": "radius + logos", "sub": "光線＋学", "era": "ラテン語・ギリシャ語" },
+      { "node": "radiology", "sub": "放射線の学問", "era": "近代英語" },
+      { "node": "radiology", "sub": "放射線医学", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the radiology department", "ja": "放射線科" },
+      { "en": "specialize in radiology", "ja": "放射線医学を専門とする" },
+      { "en": "diagnostic radiology", "ja": "画像診断学" },
+      { "en": "a radiology report", "ja": "放射線科の所見" },
+      { "en": "interventional radiology", "ja": "インターベンショナルラジオロジー（IVR）" },
+      { "en": "study radiology", "ja": "放射線医学を学ぶ" }
+    ],
+    "related": [
+      { "en": "radiologist", "ja": "放射線科医" },
+      { "en": "X-ray", "ja": "X線" },
+      { "en": "imaging", "ja": "画像診断" },
+      { "en": "radiotherapy", "ja": "放射線療法" }
+    ],
+    "faq": [
+      { "q": "radiology とはどんな意味？", "a": "X線・CT・MRI・超音波などで体内を画像化し、診断・治療を行う医学分野『放射線医学・放射線科』のことです。放射線科医は radiologist です。" },
+      { "q": "radiology と radiotherapy の違いは？", "a": "radiology は『画像で診断する放射線医学』全般、radiotherapy は『放射線でがんなどを治療する放射線療法』を指します。" }
+    ],
+    "quiz": [
+      { "q": "Go to the ___ department for your X-ray.（放射線科）", "A": "radiology", "B": "biology の生物学", "C": "geology の地質学", "D": "ecology の生態学", "correct": "A" },
+      { "q": "radiology の -logy が表す意味はどれ？", "A": "学問", "B": "病院", "C": "機械", "D": "光", "correct": "A" }
+    ]
+  },
+  {
+    "english": "radiotherapy",
+    "pron": "ˌreɪdioʊˈθerəpi",
+    "kana": "レイディオセラピー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "radio-（放射線）＋ therapy（療法）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "医学"],
+    "meaning_main": "放射線療法（放射線でがんなどを治療すること）",
+    "description": "radiotherapy の意味・発音・例文・語源を解説。放射線を使ってがんなどの病気を治療する「放射線療法」を指す医学の語の使い方を分かりやすく紹介します。",
+    "keywords": ["radiotherapy 意味", "radiotherapy 発音", "放射線療法", "がん治療"],
+    "meanings": [
+      { "hinshi": "【名詞】放射線療法", "note": "放射線を当ててがん細胞などを死滅させる治療法。radiation therapy ともいう。" }
+    ],
+    "usages": [
+      { "title": "① がん治療として", "desc": "放射線でがんを治療することを表します。", "example_en": "She underwent radiotherapy for breast cancer.", "example_ja": "彼女は乳がんのため放射線療法を受けた。" },
+      { "title": "② 治療法の説明で", "desc": "他の治療と組み合わせて使います。", "example_en": "Radiotherapy is often used with surgery.", "example_ja": "放射線療法はしばしば手術と併用される。" }
+    ],
+    "warn": [
+      "radiotherapy は『放射線療法（放射線でがんなどを治療する）』。radiation therapy ともいう。主にイギリス英語。",
+      "画像で診断する radiology（放射線医学）とは区別する。"
+    ],
+    "etym_note": "radio-（放射線、ラテン語 radius「光線」より）＋ therapy（治療、ギリシャ語 therapeia「世話・治療」より）から成り、「放射線による治療」を意味します。",
+    "etym_chain": [
+      { "node": "radius + therapeia", "sub": "光線＋治療", "era": "ラテン語・ギリシャ語" },
+      { "node": "radiotherapy", "sub": "放射線による治療", "era": "近代英語" },
+      { "node": "radiotherapy", "sub": "放射線療法", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "undergo radiotherapy", "ja": "放射線療法を受ける" },
+      { "en": "a course of radiotherapy", "ja": "放射線療法の一連の治療" },
+      { "en": "radiotherapy for cancer", "ja": "がんの放射線療法" },
+      { "en": "radiotherapy and chemotherapy", "ja": "放射線療法と化学療法" },
+      { "en": "complete radiotherapy", "ja": "放射線療法を終える" },
+      { "en": "side effects of radiotherapy", "ja": "放射線療法の副作用" }
+    ],
+    "related": [
+      { "en": "chemotherapy", "ja": "化学療法" },
+      { "en": "radiation", "ja": "放射線" },
+      { "en": "therapy", "ja": "療法" },
+      { "en": "oncology", "ja": "腫瘍学" }
+    ],
+    "faq": [
+      { "q": "radiotherapy とはどんな意味？", "a": "放射線を当ててがん細胞などを死滅させる治療法『放射線療法』のことです。radiation therapy ともいい、手術や化学療法と組み合わせて使われます。" },
+      { "q": "radiotherapy と chemotherapy の違いは？", "a": "radiotherapy（放射線療法）は『放射線で』、chemotherapy（化学療法）は『薬で』がんを治療します。併用されることもあります。" }
+    ],
+    "quiz": [
+      { "q": "She underwent ___ for breast cancer.（放射線療法）", "A": "radiotherapy", "B": "physiotherapy の理学療法", "C": "psychotherapy の心理療法", "D": "aromatherapy のアロマ療法", "correct": "A" },
+      { "q": "radiotherapy は何を使う治療？", "A": "放射線", "B": "薬だけ", "C": "手術だけ", "D": "運動だけ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reagent",
+    "pron": "riˈeɪdʒənt",
+    "kana": "リエイジェント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（応じて）＋ agent（作用するもの）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "化学"],
+    "meaning_main": "試薬（化学反応を起こさせたり物質を調べたりするのに使う薬品）",
+    "description": "reagent の意味・発音・例文・語源を解説。化学実験で反応を起こさせたり物質を検出したりするのに使う薬品「試薬」を指す語の使い方を紹介します。",
+    "keywords": ["reagent 意味", "reagent 発音", "試薬", "reagent 化学"],
+    "meanings": [
+      { "hinshi": "【名詞】試薬", "note": "化学反応を起こさせる、または物質を検出・分析するために加える薬品。add a reagent（試薬を加える）。" }
+    ],
+    "usages": [
+      { "title": "① 化学反応に使う薬品として", "desc": "反応を起こさせる薬品を指します。", "example_en": "Add the reagent slowly to the solution.", "example_ja": "試薬を溶液にゆっくり加えなさい。" },
+      { "title": "② 検査・分析に使う薬品として", "desc": "物質を調べる薬品を表します。", "example_en": "The reagent turns blue in the presence of starch.", "example_ja": "その試薬はデンプンがあると青く変わる。" }
+    ],
+    "warn": [
+      "reagent は『試薬（化学反応・分析に使う薬品）』。re-（応じて）＋ agent（作用するもの）。発音は『リエイジェント（riˈeɪdʒənt）』。",
+      "反応で量が決まる『限定試薬（limiting reagent）』なども化学で使う。"
+    ],
+    "etym_note": "re-（応じて・逆に）＋ agent（作用するもの、agere「行う・動かす」より）から成り、「（他の物質に）作用して反応させるもの」を意味します。act（行動する）, agent（代理人）と同じ語根です。",
+    "etym_chain": [
+      { "node": "agere", "sub": "行う・動かす", "era": "ラテン語" },
+      { "node": "agent", "sub": "作用するもの", "era": "近代英語" },
+      { "node": "reagent", "sub": "試薬", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "add a reagent", "ja": "試薬を加える" },
+      { "en": "a chemical reagent", "ja": "化学試薬" },
+      { "en": "the limiting reagent", "ja": "限定試薬" },
+      { "en": "a test reagent", "ja": "検査用試薬" },
+      { "en": "react with the reagent", "ja": "試薬と反応する" },
+      { "en": "a reagent bottle", "ja": "試薬びん" }
+    ],
+    "related": [
+      { "en": "reaction", "ja": "反応" },
+      { "en": "chemical", "ja": "薬品・化学物質" },
+      { "en": "solution", "ja": "溶液" },
+      { "en": "catalyst", "ja": "触媒" }
+    ],
+    "faq": [
+      { "q": "reagent とはどんな意味？", "a": "化学反応を起こさせる、または物質を検出・分析するために加える薬品『試薬』のことです。add a reagent（試薬を加える）のように使います。" },
+      { "q": "reagent と catalyst の違いは？", "a": "reagent（試薬）は『反応に加わって消費される薬品』、catalyst（触媒）は『反応を速めるが自身は消費されない物質』です。" }
+    ],
+    "quiz": [
+      { "q": "Add the ___ slowly to the solution.（試薬）", "A": "reagent", "B": "agent の代理人", "C": "urgent の緊急の", "D": "regent の摂政", "correct": "A" },
+      { "q": "reagent は何に使う？", "A": "化学反応を起こさせる・物質を調べる", "B": "建物を建てる", "C": "音を出す", "D": "光を集める", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reciprocity",
+    "pron": "ˌresɪˈprɒsəti",
+    "kana": "レシプロシティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 reciprocus（行き来する）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "社会・外交"],
+    "meaning_main": "相互主義・互恵・お互いさま（与え合い・持ちつ持たれつの関係）",
+    "description": "reciprocity の意味・発音・例文・語源を解説。お互いに利益や便宜を与え合う「相互主義・互恵・お互いさま」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["reciprocity 意味", "reciprocity 発音", "互恵", "相互主義"],
+    "meanings": [
+      { "hinshi": "【名詞】相互主義・互恵・お互いさま", "note": "お互いに同じように利益・便宜を与え合うこと。based on reciprocity（互恵に基づく）。" }
+    ],
+    "usages": [
+      { "title": "① 「互恵・相互主義」として", "desc": "与え合う関係を表します。", "example_en": "The agreement is based on reciprocity.", "example_ja": "その協定は互恵に基づいている。" },
+      { "title": "② 人間関係の「お互いさま」として", "desc": "持ちつ持たれつの関係を表します。", "example_en": "Friendship depends on reciprocity.", "example_ja": "友情は持ちつ持たれつで成り立つ。" }
+    ],
+    "warn": [
+      "reciprocity は『相互主義・互恵・お互いさま』。形容詞は reciprocal（相互の）。外交・貿易・心理学で頻出。",
+      "一方的でなく『お互いに同じように』が要点。"
+    ],
+    "etym_note": "ラテン語 reciprocus（行ったり来たりする・相互の）に由来します。形容詞 reciprocal（相互の）の名詞形で、「お互いに行き来する関係」を意味します。",
+    "etym_chain": [
+      { "node": "reciprocus", "sub": "行き来する・相互の", "era": "ラテン語" },
+      { "node": "reciprocal", "sub": "相互の", "era": "近代英語" },
+      { "node": "reciprocity", "sub": "相互主義・互恵", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "based on reciprocity", "ja": "互恵に基づいて" },
+      { "en": "a sense of reciprocity", "ja": "お互いさまの感覚" },
+      { "en": "trade reciprocity", "ja": "貿易の相互主義" },
+      { "en": "the norm of reciprocity", "ja": "返報性の規範" },
+      { "en": "mutual reciprocity", "ja": "相互の互恵" },
+      { "en": "expect reciprocity", "ja": "見返り（お互いさま）を期待する" }
+    ],
+    "related": [
+      { "en": "reciprocal", "ja": "相互の" },
+      { "en": "mutual", "ja": "相互の" },
+      { "en": "exchange", "ja": "交換" },
+      { "en": "give-and-take", "ja": "持ちつ持たれつ" }
+    ],
+    "faq": [
+      { "q": "reciprocity とはどんな意味？", "a": "お互いに同じように利益や便宜を与え合うこと『相互主義・互恵・お互いさま』のことです。based on reciprocity（互恵に基づく）のように使います。形容詞は reciprocal です。" },
+      { "q": "the norm of reciprocity とは？", "a": "心理学・社会学で『何かをしてもらったらお返しをすべきだと感じる返報性の規範』を指します。" }
+    ],
+    "quiz": [
+      { "q": "The agreement is based on ___.（互恵）", "A": "reciprocity", "B": "publicity の宣伝", "C": "electricity の電気", "D": "simplicity の単純さ", "correct": "A" },
+      { "q": "reciprocity の形容詞形はどれ？", "A": "reciprocal（相互の）", "B": "public（公の）", "C": "electric（電気の）", "D": "simple（単純な）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reforest",
+    "pron": "riːˈfɒrɪst",
+    "kana": "リフォレスト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ forest（森にする）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "環境"],
+    "meaning_main": "（伐採地・荒れ地を）再び森にする・再植林する",
+    "description": "reforest の意味・発音・例文・語源を解説。伐採されたり荒れたりした土地に木を植えて「再び森にする・再植林する」という環境の語の使い方を紹介します。",
+    "keywords": ["reforest 意味", "reforest 発音", "再植林", "森林再生"],
+    "meanings": [
+      { "hinshi": "【動詞】再び森にする・再植林する", "note": "伐採地・荒れ地に木を植えて森を回復させる。reforest the hills（丘を再植林する）。名詞は reforestation。" }
+    ],
+    "usages": [
+      { "title": "① 再植林として", "desc": "木を植えて森を回復させることを表します。", "example_en": "The government plans to reforest the area.", "example_ja": "政府はその地域を再植林する計画だ。" },
+      { "title": "② 環境保護の文脈で", "desc": "森林を取り戻すことを表します。", "example_en": "Volunteers helped reforest the burned land.", "example_ja": "ボランティアが焼けた土地の再植林を手伝った。" }
+    ],
+    "warn": [
+      "reforest は『（伐採地・荒れ地を）再び森にする・再植林する』。re-（再び）＋ forest。名詞は reforestation（再植林）。",
+      "森林伐採は deforestation（森林破壊）。"
+    ],
+    "etym_note": "re-（再び）＋ forest（森・森にする、ラテン語 forestis「外の・森林」より）から成り、「再び森にすること」を意味します。",
+    "etym_chain": [
+      { "node": "forestis", "sub": "森林", "era": "ラテン語" },
+      { "node": "forest", "sub": "森・森にする", "era": "中英語" },
+      { "node": "reforest", "sub": "再植林する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reforest the hills", "ja": "丘を再植林する" },
+      { "en": "reforest the area", "ja": "その地域を再植林する" },
+      { "en": "reforest the burned land", "ja": "焼けた土地を再植林する" },
+      { "en": "efforts to reforest", "ja": "再植林の取り組み" },
+      { "en": "reforest with native trees", "ja": "在来種で再植林する" },
+      { "en": "plant trees to reforest", "ja": "再植林のため木を植える" }
+    ],
+    "related": [
+      { "en": "reforestation", "ja": "再植林" },
+      { "en": "forest", "ja": "森" },
+      { "en": "deforestation", "ja": "森林破壊（反対）" },
+      { "en": "replant", "ja": "植え直す" }
+    ],
+    "faq": [
+      { "q": "reforest とはどんな意味？", "a": "伐採されたり荒れたりした土地に木を植えて『再び森にする・再植林する』という動詞です。reforest the area（その地域を再植林する）のように使います。名詞は reforestation です。" },
+      { "q": "reforest の反対は？", "a": "deforest（森林を伐採する・森をなくす）、名詞は deforestation（森林破壊）です。" }
+    ],
+    "quiz": [
+      { "q": "The government plans to ___ the area.（再植林する）", "A": "reforest", "B": "forecast の予報する", "C": "reform の改革する", "D": "perform の演じる", "correct": "A" },
+      { "q": "reforest の反対の意味はどれ？", "A": "deforest（森林を伐採する）", "B": "reform（改革する）", "C": "forecast（予報する）", "D": "perform（演じる）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rework",
+    "pron": "riːˈwɜːrk",
+    "kana": "リワーク",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ work（作業する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "作り直す・手直しする・練り直す／（名詞）作り直し・手直し",
+    "description": "rework の意味・発音・例文・語源を解説。文章・計画・製品などを「作り直す・手直しする・練り直す」という、仕事でよく使う語の使い方を紹介します。",
+    "keywords": ["rework 意味", "rework 発音", "作り直す", "手直し"],
+    "meanings": [
+      { "hinshi": "【動詞】作り直す・手直しする・練り直す", "note": "既存のものに手を加えてより良くする。rework the design（デザインを練り直す）。" },
+      { "hinshi": "【名詞】作り直し・手直し", "note": "需要 a major rework（大幅な手直し）。製造での『手直し作業』も指す。" }
+    ],
+    "usages": [
+      { "title": "① 「作り直す・手直しする」として", "desc": "手を加えて良くすることを表します。", "example_en": "She reworked the script several times.", "example_ja": "彼女は脚本を何度も練り直した。" },
+      { "title": "② 「作り直し」として", "desc": "手直し作業そのものを指します。", "example_en": "The product needed extensive rework.", "example_ja": "その製品は大幅な手直しが必要だった。" }
+    ],
+    "warn": [
+      "rework は『作り直す・手直しする・練り直す／作り直し』。re-（再び）＋ work（作業する）。",
+      "製造業では『（不良品の）手直し作業』の意味でも使う。"
+    ],
+    "etym_note": "re-（再び）＋ work（作業する、古英語 wyrcan より）から成り、「もう一度作業すること＝手直しする」を意味します。",
+    "etym_chain": [
+      { "node": "wyrcan", "sub": "作る・働く", "era": "古英語" },
+      { "node": "work", "sub": "作業する", "era": "中英語" },
+      { "node": "rework", "sub": "作り直す・手直しする", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rework the design", "ja": "デザインを練り直す" },
+      { "en": "rework the script", "ja": "脚本を手直しする" },
+      { "en": "rework the plan", "ja": "計画を練り直す" },
+      { "en": "need rework", "ja": "手直しが必要だ" },
+      { "en": "a major rework", "ja": "大幅な作り直し" },
+      { "en": "rework the figures", "ja": "数字を計算し直す" }
+    ],
+    "related": [
+      { "en": "work", "ja": "作業する" },
+      { "en": "revise", "ja": "改訂する" },
+      { "en": "rewrite", "ja": "書き直す" },
+      { "en": "modify", "ja": "修正する" }
+    ],
+    "faq": [
+      { "q": "rework とはどんな意味？", "a": "文章・計画・製品などに手を加えてより良くする『作り直す・手直しする・練り直す』という動詞、また『作り直し・手直し』という名詞です。rework the design（デザインを練り直す）のように使います。" },
+      { "q": "rework と revise の違いは？", "a": "revise は『（文章などを）改訂・修正する』、rework は『（より広く）作り直す・練り直す』ことに重点があります。" }
+    ],
+    "quiz": [
+      { "q": "She ___ed the script several times.（練り直した）", "A": "rework", "B": "network のネットワーク", "C": "framework の枠組み", "D": "homework の宿題", "correct": "A" },
+      { "q": "rework のもとになった語はどれ？", "A": "work（作業する）", "B": "word（言葉）", "C": "world（世界）", "D": "worth（価値）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reword",
+    "pron": "riːˈwɜːrd",
+    "kana": "リワード",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ word（言葉で表す）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "言葉を換えて言い直す・表現を変える",
+    "description": "reword の意味・発音・例文・語源を解説。文章や質問を「言葉を換えて言い直す・表現を変える」という、文章作成で役立つ語の使い方を紹介します。",
+    "keywords": ["reword 意味", "reword 発音", "言い換える", "表現を変える"],
+    "meanings": [
+      { "hinshi": "【動詞】言葉を換えて言い直す・表現を変える", "note": "意味を保ちながら言葉づかいを変える。reword the sentence（文の表現を変える）。" }
+    ],
+    "usages": [
+      { "title": "① 表現を変える", "desc": "言葉づかいを変えることを表します。", "example_en": "Try rewording the sentence to make it clearer.", "example_ja": "もっと分かりやすくなるよう文を言い換えてみて。" },
+      { "title": "② 角を立てずに言い直す", "desc": "言い方を和らげる場面で使います。", "example_en": "He reworded the email to sound more polite.", "example_ja": "彼はより丁寧に聞こえるようメールを書き換えた。" }
+    ],
+    "warn": [
+      "reword は『（意味は同じで）言葉を換えて言い直す』。re-（再び）＋ word（言葉で表す）。rephrase とほぼ同義。",
+      "発音は『リワード（riːˈwɜːrd）』。報酬の reward（リウォード）と混同しないよう注意。"
+    ],
+    "etym_note": "re-（再び）＋ word（言葉・言葉で表す、古英語 word より）から成り、「もう一度言葉にする＝言い換える」を意味します。",
+    "etym_chain": [
+      { "node": "word", "sub": "言葉", "era": "古英語" },
+      { "node": "word", "sub": "言葉で表す", "era": "近代英語" },
+      { "node": "reword", "sub": "言い換える", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reword the sentence", "ja": "文の表現を変える" },
+      { "en": "reword the question", "ja": "質問を言い換える" },
+      { "en": "reword it more clearly", "ja": "もっと分かりやすく言い換える" },
+      { "en": "reword the email", "ja": "メールを書き換える" },
+      { "en": "try rewording", "ja": "言い換えてみる" },
+      { "en": "reword politely", "ja": "丁寧に言い直す" }
+    ],
+    "related": [
+      { "en": "rephrase", "ja": "言い換える" },
+      { "en": "rephrase の代わりに restate", "ja": "言い直す" },
+      { "en": "word", "ja": "言葉で表す" },
+      { "en": "paraphrase", "ja": "かみ砕いて言い換える" }
+    ],
+    "faq": [
+      { "q": "reword とはどんな意味？", "a": "意味を保ちながら『言葉を換えて言い直す・表現を変える』という動詞です。reword the sentence（文の表現を変える）のように使います。rephrase とほぼ同義です。" },
+      { "q": "reword と reward の違いは？", "a": "reword は『言い換える』、reward は『報酬・報いる』です。発音も意味も別なので注意しましょう。" }
+    ],
+    "quiz": [
+      { "q": "Try ___ing the sentence to make it clearer.（言い換える）", "A": "reword", "B": "reward の報いる", "C": "record の記録する", "D": "rewind の巻き戻す", "correct": "A" },
+      { "q": "reword に近い意味はどれ？", "A": "rephrase（言い換える）", "B": "reward（報いる）", "C": "rewind（巻き戻す）", "D": "record（記録する）", "correct": "A" }
+    ]
+  }
+]
