@@ -1,0 +1,477 @@
+[
+  {
+    "english": "reschedule",
+    "pron": "riːˈskedʒuːl",
+    "kana": "リスケジュール",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ schedule（予定を組む）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "ビジネス・日常"],
+    "meaning_main": "予定を変更する・日程を組み直す／（借金の）返済計画を組み直す",
+    "description": "reschedule の意味・発音・例文・語源を解説。会議や予約の「予定を変更する・日程を組み直す」、また借金の「返済計画を組み直す」という使い方を紹介します。",
+    "keywords": ["reschedule 意味", "reschedule 発音", "予定変更", "リスケ"],
+    "meanings": [
+      { "hinshi": "【動詞】予定を変更する・日程を組み直す", "note": "会議・予約などの日時を別の日に変える。reschedule the meeting（会議の日程を変更する）。" },
+      { "hinshi": "【動詞】（借金の）返済計画を組み直す", "note": "返済の条件・日程を変更する（リスケジュール）。" }
+    ],
+    "usages": [
+      { "title": "① 「予定を変更する」として", "desc": "日時を別の日に変えることを表します。", "example_en": "We had to reschedule the appointment.", "example_ja": "私たちは予約の日程を変更しなければならなかった。" },
+      { "title": "② 「返済計画を組み直す」として", "desc": "借金の条件を変えることを表します。", "example_en": "The country rescheduled its debt.", "example_ja": "その国は債務の返済計画を組み直した。" }
+    ],
+    "warn": [
+      "reschedule は『予定を変更する・日程を組み直す』。re-（再び）＋ schedule（予定）。日本語の『リスケ』はこの語から。",
+      "発音は米『リスケジュール』、英『リシェジュール』と異なる。"
+    ],
+    "etym_note": "re-（再び）＋ schedule（予定・予定を組む、ラテン語 schedula「小さな紙片」より）から成り、「もう一度予定を組むこと」を意味します。",
+    "etym_chain": [
+      { "node": "schedula", "sub": "小さな紙片", "era": "後期ラテン語" },
+      { "node": "schedule", "sub": "予定・予定を組む", "era": "近代英語" },
+      { "node": "reschedule", "sub": "予定を変更する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reschedule the meeting", "ja": "会議の日程を変更する" },
+      { "en": "reschedule the appointment", "ja": "予約を変更する" },
+      { "en": "reschedule for next week", "ja": "来週に組み直す" },
+      { "en": "reschedule the flight", "ja": "便を変更する" },
+      { "en": "reschedule the debt", "ja": "債務を組み直す" },
+      { "en": "ask to reschedule", "ja": "日程変更を頼む" }
+    ],
+    "related": [
+      { "en": "schedule", "ja": "予定を組む" },
+      { "en": "postpone", "ja": "延期する" },
+      { "en": "rearrange", "ja": "再調整する" },
+      { "en": "delay", "ja": "遅らせる" }
+    ],
+    "faq": [
+      { "q": "reschedule とはどんな意味？", "a": "会議や予約などの『予定を変更する・日程を組み直す』という動詞です。また借金の『返済計画を組み直す』意味でも使います。日本語の『リスケ』はこの語から来ています。" },
+      { "q": "reschedule と postpone の違いは？", "a": "postpone は『（先に）延期する』、reschedule は『（別の日時に）組み直す』ことで、必ずしも後ろにずらすとは限りません。" }
+    ],
+    "quiz": [
+      { "q": "We had to ___ the appointment.（予定を変更する）", "A": "reschedule", "B": "rescue の救助する", "C": "research の研究する", "D": "reserve の予約する", "correct": "A" },
+      { "q": "reschedule のもとになった語はどれ？", "A": "schedule（予定）", "B": "school（学校）", "C": "shoulder（肩）", "D": "scholar（学者）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reprogram",
+    "pron": "riːˈproʊɡræm",
+    "kana": "リプログラム",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ program（プログラムする）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "IT・技術"],
+    "meaning_main": "（機器を）プログラムし直す・設定し直す／（考え方・習慣を）作り変える",
+    "description": "reprogram の意味・発音・例文・語源を解説。機器を「プログラムし直す・設定し直す」、また考え方や習慣を「作り変える」という比喩の使い方を紹介します。",
+    "keywords": ["reprogram 意味", "reprogram 発音", "プログラムし直す", "program 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（機器を）プログラムし直す・設定し直す", "note": "コンピュータ・機器の動作を組み直す。reprogram the thermostat（温度調節器を設定し直す）。" },
+      { "hinshi": "【動詞】（考え方・習慣を）作り変える", "note": "頭の中の思考パターンを作り直す比喩。reprogram your mind（思考を作り変える）。" }
+    ],
+    "usages": [
+      { "title": "① 「設定し直す」として", "desc": "機器の動作を組み直すことを表します。", "example_en": "You can reprogram the remote control.", "example_ja": "リモコンは設定し直せる。" },
+      { "title": "② 「考え方を作り変える」として", "desc": "思考パターンを作り直す比喩です。", "example_en": "She tried to reprogram her negative thinking.", "example_ja": "彼女は否定的な考え方を作り変えようとした。" }
+    ],
+    "warn": [
+      "reprogram は『（機器を）プログラムし直す・設定し直す』、比喩で『（考え方・習慣を）作り変える』。re-（再び）＋ program。",
+      "活用は reprogram-reprogrammed-reprogrammed（イギリス式）。"
+    ],
+    "etym_note": "re-（再び）＋ program（プログラム・予定表、ギリシャ語 programma「前に書いたもの」より）から成り、「もう一度プログラムすること」を意味します。",
+    "etym_chain": [
+      { "node": "programma", "sub": "前に書いたもの", "era": "ギリシャ語" },
+      { "node": "program", "sub": "プログラムする", "era": "近代英語" },
+      { "node": "reprogram", "sub": "プログラムし直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reprogram the device", "ja": "機器をプログラムし直す" },
+      { "en": "reprogram the thermostat", "ja": "温度調節器を設定し直す" },
+      { "en": "reprogram your mind", "ja": "思考を作り変える" },
+      { "en": "reprogram the remote", "ja": "リモコンを設定し直す" },
+      { "en": "reprogram old habits", "ja": "古い習慣を作り変える" },
+      { "en": "be reprogrammed", "ja": "プログラムし直される" }
+    ],
+    "related": [
+      { "en": "program", "ja": "プログラムする" },
+      { "en": "reconfigure", "ja": "再構成する" },
+      { "en": "rewire", "ja": "（脳を）つなぎ変える" },
+      { "en": "reset", "ja": "リセットする" }
+    ],
+    "faq": [
+      { "q": "reprogram とはどんな意味？", "a": "コンピュータや機器を『プログラムし直す・設定し直す』という意味と、比喩で考え方や習慣を『作り変える』という意味があります。reprogram your mind（思考を作り変える）のように使います。" },
+      { "q": "reprogram と reset の違いは？", "a": "reset は『（設定を）初期状態に戻す』、reprogram は『（新しく）プログラムを組み直す・作り変える』ことに重点があります。" }
+    ],
+    "quiz": [
+      { "q": "You can ___ the remote control.（設定し直す）", "A": "reprogram", "B": "report の報告する", "C": "represent の代表する", "D": "reproduce の複製する", "correct": "A" },
+      { "q": "reprogram のもとになった語はどれ？", "A": "program（プログラム）", "B": "progress（前進）", "C": "project（計画）", "D": "promote（昇進させる）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retrofit",
+    "pron": "ˈretroʊfɪt",
+    "kana": "レトロフィット",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "retro-（後から）＋ fit（取り付ける）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "技術・建築"],
+    "meaning_main": "（既存の機器・建物に）新しい部品・機能を後付けする・改修する／後付け改修",
+    "description": "retrofit の意味・発音・例文・語源を解説。古い建物や機械に新しい設備・機能を「後付けする・改修する」という技術・建築の語の使い方を紹介します。",
+    "keywords": ["retrofit 意味", "retrofit 発音", "後付け", "改修"],
+    "meanings": [
+      { "hinshi": "【動詞】（既存のものに）後付けする・改修する", "note": "古い建物・機械に新しい部品や機能をあとから取り付ける。retrofit the building with solar panels（建物に太陽光パネルを後付けする）。" },
+      { "hinshi": "【名詞】後付け改修・レトロフィット", "note": "a seismic retrofit（耐震改修）。" }
+    ],
+    "usages": [
+      { "title": "① 設備の後付けとして", "desc": "新しい機能をあとから付けることを表します。", "example_en": "They retrofitted the old factory with new machinery.", "example_ja": "彼らは古い工場に新しい機械を後付けした。" },
+      { "title": "② 耐震・省エネ改修として", "desc": "建物を改修することを表します。", "example_en": "The building was retrofitted for earthquakes.", "example_ja": "その建物は地震対策のため耐震改修された。" }
+    ],
+    "warn": [
+      "retrofit は『（既存の機器・建物に）新しいものを後付けする・改修する／後付け改修』。retro-（後から）＋ fit（取り付ける）。",
+      "耐震改修は seismic retrofit、省エネ改修は energy retrofit。"
+    ],
+    "etym_note": "retro-（後ろへ・後から、ラテン語 retro「後方へ」より）＋ fit（取り付ける）から成り、「（既存のものに）あとから取り付けること」を意味します。",
+    "etym_chain": [
+      { "node": "retro", "sub": "後方へ・後から", "era": "ラテン語" },
+      { "node": "retro + fit", "sub": "後から＋取り付ける", "era": "現代英語" },
+      { "node": "retrofit", "sub": "後付けする・改修する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a seismic retrofit", "ja": "耐震改修" },
+      { "en": "retrofit with solar panels", "ja": "太陽光パネルを後付けする" },
+      { "en": "retrofit the building", "ja": "建物を改修する" },
+      { "en": "an energy retrofit", "ja": "省エネ改修" },
+      { "en": "retrofit old systems", "ja": "古いシステムを改修する" },
+      { "en": "a costly retrofit", "ja": "費用のかかる後付け改修" }
+    ],
+    "related": [
+      { "en": "fit", "ja": "取り付ける" },
+      { "en": "upgrade", "ja": "アップグレードする" },
+      { "en": "renovate", "ja": "改修する" },
+      { "en": "modernize", "ja": "近代化する" }
+    ],
+    "faq": [
+      { "q": "retrofit とはどんな意味？", "a": "古い建物や機械に新しい設備・機能をあとから取り付けること『後付けする・改修する／後付け改修』のことです。retrofit the building with solar panels（建物に太陽光パネルを後付けする）のように使います。" },
+      { "q": "retrofit と renovate の違いは？", "a": "renovate は『（古いものを）改修・改装する』全般、retrofit は特に『新しい設備・機能をあとから付け加える』ことに重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The building was ___ted for earthquakes.（耐震改修した）", "A": "retrofit", "B": "retro の懐古調の", "C": "refit の改装する", "D": "retract の撤回する", "correct": "A" },
+      { "q": "retrofit の retro- が表す意味はどれ？", "A": "後から・後ろへ", "B": "前へ", "C": "上へ", "D": "外へ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "realpolitik",
+    "pron": "reɪˈɑːlpɒlɪtiːk",
+    "kana": "レアルポリティーク",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ドイツ語 Realpolitik（現実政治）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "政治"],
+    "meaning_main": "現実政治・現実主義政治（理念より現実の利害・力関係を重視する政治のやり方）",
+    "description": "realpolitik の意味・発音・例文・語源を解説。理想や道徳より、現実の利害や力関係に基づいて進める政治のやり方「現実政治」を指す語の使い方を紹介します。",
+    "keywords": ["realpolitik 意味", "realpolitik 発音", "現実政治", "現実主義政治"],
+    "meanings": [
+      { "hinshi": "【名詞】現実政治・現実主義政治", "note": "道徳や理念より、現実の利害・力関係・実利を重視して進める政治・外交のやり方。" }
+    ],
+    "usages": [
+      { "title": "① 外交の方針として", "desc": "現実の利害を重視する政治を表します。", "example_en": "His foreign policy was guided by realpolitik.", "example_ja": "彼の外交は現実政治の論理に導かれていた。" },
+      { "title": "② 理念との対比で", "desc": "理想主義と対比して使います。", "example_en": "Idealism gave way to realpolitik.", "example_ja": "理想主義は現実政治に取って代わられた。" }
+    ],
+    "warn": [
+      "realpolitik は『理念より現実の利害・力関係を重視する政治（現実政治）』。ドイツ語由来。発音は『レアルポリティーク』。",
+      "理想主義 idealism と対比される。19世紀ドイツのビスマルクの政治で知られる。"
+    ],
+    "etym_note": "ドイツ語 Realpolitik（real「現実の」＋ Politik「政治」＝現実政治）に由来します。19世紀ドイツで、理念より実際の力関係を重んじる政治を指す語として生まれ、英語にそのまま取り入れられました。",
+    "etym_chain": [
+      { "node": "real + Politik", "sub": "現実の＋政治", "era": "ドイツ語" },
+      { "node": "Realpolitik", "sub": "現実政治", "era": "ドイツ語" },
+      { "node": "realpolitik", "sub": "現実政治", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "guided by realpolitik", "ja": "現実政治に基づいて" },
+      { "en": "a policy of realpolitik", "ja": "現実政治の方針" },
+      { "en": "the logic of realpolitik", "ja": "現実政治の論理" },
+      { "en": "practice realpolitik", "ja": "現実政治を行う" },
+      { "en": "cold realpolitik", "ja": "冷徹な現実政治" },
+      { "en": "realpolitik over ideals", "ja": "理想より現実政治" }
+    ],
+    "related": [
+      { "en": "pragmatism", "ja": "実用主義" },
+      { "en": "diplomacy", "ja": "外交" },
+      { "en": "idealism", "ja": "理想主義（対比）" },
+      { "en": "power politics", "ja": "権力政治" }
+    ],
+    "faq": [
+      { "q": "realpolitik とはどんな意味？", "a": "道徳や理念より、現実の利害・力関係・実利を重視して進める政治・外交のやり方『現実政治』のことです。理想主義（idealism）と対比されます。" },
+      { "q": "realpolitik の語源は？", "a": "ドイツ語 Realpolitik（real「現実の」＋ Politik「政治」）です。19世紀ドイツで生まれ、英語にそのまま取り入れられました。" }
+    ],
+    "quiz": [
+      { "q": "His foreign policy was guided by ___.（現実政治）", "A": "realpolitik", "B": "republic の共和国", "C": "referendum の国民投票", "D": "revolution の革命", "correct": "A" },
+      { "q": "realpolitik と対比される考え方はどれ？", "A": "idealism（理想主義）", "B": "realism（現実主義）", "C": "pragmatism（実用主義）", "D": "capitalism（資本主義）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rapporteur",
+    "pron": "ˌræpɔːrˈtɜːr",
+    "kana": "ラポルトゥール",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 rapporteur（報告する人）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "政治・国際"],
+    "meaning_main": "（委員会・国際機関の）報告担当者・報告者",
+    "description": "rapporteur の意味・発音・例文・語源を解説。委員会や国際機関で調査・審議の結果をまとめて報告する役「報告担当者・報告者」を指す語の使い方を紹介します。",
+    "keywords": ["rapporteur 意味", "rapporteur 発音", "報告者", "報告担当者"],
+    "meanings": [
+      { "hinshi": "【名詞】（委員会・国際機関の）報告担当者・報告者", "note": "会議・委員会・国連などで、調査や審議の内容をまとめて報告する役。a special rapporteur（特別報告者）。" }
+    ],
+    "usages": [
+      { "title": "① 委員会の報告者として", "desc": "議論をまとめて報告する人を指します。", "example_en": "She served as rapporteur for the committee.", "example_ja": "彼女は委員会の報告担当者を務めた。" },
+      { "title": "② 国連の特別報告者として", "desc": "国際機関の調査担当者を表します。", "example_en": "The UN special rapporteur visited the region.", "example_ja": "国連特別報告者がその地域を訪れた。" }
+    ],
+    "warn": [
+      "rapporteur は『（委員会・国際機関の）報告担当者・報告者』。フランス語由来。発音は『ラポルトゥール』。",
+      "国連の human rights rapporteur（人権に関する特別報告者）などで使う。report（報告）と同語源。"
+    ],
+    "etym_note": "フランス語 rapporteur（報告する人、rapporter「報告する・持ち帰る」より）に由来します。report（報告する）と同じ語源で、国際機関や委員会の報告役を指す語として英語に取り入れられました。",
+    "etym_chain": [
+      { "node": "rapporter", "sub": "報告する・持ち帰る", "era": "フランス語" },
+      { "node": "rapporteur", "sub": "報告する人", "era": "フランス語" },
+      { "node": "rapporteur", "sub": "報告担当者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a special rapporteur", "ja": "特別報告者" },
+      { "en": "serve as rapporteur", "ja": "報告担当者を務める" },
+      { "en": "the UN rapporteur", "ja": "国連報告者" },
+      { "en": "the rapporteur's report", "ja": "報告者の報告書" },
+      { "en": "appoint a rapporteur", "ja": "報告者を任命する" },
+      { "en": "a human rights rapporteur", "ja": "人権に関する報告者" }
+    ],
+    "related": [
+      { "en": "report", "ja": "報告する" },
+      { "en": "reporter", "ja": "記者・報告者" },
+      { "en": "delegate", "ja": "代表・代議員" },
+      { "en": "committee", "ja": "委員会" }
+    ],
+    "faq": [
+      { "q": "rapporteur とはどんな意味？", "a": "会議・委員会・国連などで、調査や審議の内容をまとめて報告する役『報告担当者・報告者』のことです。a special rapporteur（特別報告者）のように使います。" },
+      { "q": "rapporteur と reporter の違いは？", "a": "どちらも『報告する人』で同語源ですが、reporter は『（報道の）記者』、rapporteur は『（委員会・国際機関の公式な）報告担当者』を指します。" }
+    ],
+    "quiz": [
+      { "q": "She served as ___ for the committee.（報告担当者）", "A": "rapporteur", "B": "entrepreneur の起業家", "C": "amateur のアマチュア", "D": "connoisseur の目利き", "correct": "A" },
+      { "q": "rapporteur と同じ語源なのは？", "A": "report（報告する）", "B": "rapport（信頼関係）", "C": "rapture（うっとり）", "D": "rapid（速い）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rainmaker",
+    "pron": "ˈreɪnmeɪkər",
+    "kana": "レインメーカー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rain（雨）＋ maker（作る人）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "ビジネス・文化"],
+    "meaning_main": "雨乞い師／（ビジネス）大きな利益・顧客をもたらす立て役者・稼ぎ頭",
+    "description": "rainmaker の意味・発音・例文・語源を解説。雨を降らせる「雨乞い師」と、会社に大きな利益や顧客をもたらす「立て役者・稼ぎ頭」という比喩の使い方を紹介します。",
+    "keywords": ["rainmaker 意味", "rainmaker 発音", "雨乞い師", "稼ぎ頭"],
+    "meanings": [
+      { "hinshi": "【名詞】雨乞い師", "note": "（先住民の文化などで）雨を降らせると信じられた呪術師。" },
+      { "hinshi": "【名詞】（ビジネス）大きな利益・顧客をもたらす人", "note": "会社に多くの取引や利益を引き寄せる立て役者・稼ぎ頭。a top rainmaker（敏腕の稼ぎ頭）。" }
+    ],
+    "usages": [
+      { "title": "① 「雨乞い師」として", "desc": "雨を降らせる呪術師を指します。", "example_en": "The tribe's rainmaker performed a ritual.", "example_ja": "その部族の雨乞い師が儀式を行った。" },
+      { "title": "② 「稼ぎ頭・立て役者」として", "desc": "利益や顧客を引き寄せる人を表します。", "example_en": "She is the firm's top rainmaker.", "example_ja": "彼女はその事務所の一番の稼ぎ頭だ。" }
+    ],
+    "warn": [
+      "rainmaker は『雨乞い師』が原義。ビジネスでは『（会社に大きな利益・顧客をもたらす）立て役者・稼ぎ頭』の比喩で頻出。",
+      "弁護士事務所・金融などで『有力顧客を連れてくる人』を指すことが多い。"
+    ],
+    "etym_note": "rain（雨）＋ maker（作る人）の複合語で、もとは『雨を降らせる人（雨乞い師）』を意味しました。そこから『（恵みの雨のように）会社に利益をもたらす人』という比喩が生まれました。",
+    "etym_chain": [
+      { "node": "rain + maker", "sub": "雨＋作る人", "era": "近代英語" },
+      { "node": "rainmaker", "sub": "雨乞い師", "era": "近代英語" },
+      { "node": "rainmaker", "sub": "雨乞い師・稼ぎ頭", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a top rainmaker", "ja": "敏腕の稼ぎ頭" },
+      { "en": "the firm's rainmaker", "ja": "事務所の立て役者" },
+      { "en": "a tribal rainmaker", "ja": "部族の雨乞い師" },
+      { "en": "become a rainmaker", "ja": "稼ぎ頭になる" },
+      { "en": "a star rainmaker", "ja": "花形の稼ぎ頭" },
+      { "en": "rely on a rainmaker", "ja": "稼ぎ頭に頼る" }
+    ],
+    "related": [
+      { "en": "breadwinner", "ja": "稼ぎ手" },
+      { "en": "moneymaker", "ja": "もうけ口・稼ぎ頭" },
+      { "en": "shaman", "ja": "シャーマン・呪術師" },
+      { "en": "asset", "ja": "貴重な人材・財産" }
+    ],
+    "faq": [
+      { "q": "rainmaker とはどんな意味？", "a": "もとは雨を降らせると信じられた『雨乞い師』のことです。ビジネスでは『会社に大きな利益や顧客をもたらす立て役者・稼ぎ頭』という比喩でよく使われます。" },
+      { "q": "ビジネスの rainmaker とは？", "a": "弁護士事務所や金融機関などで、大口の取引や顧客を次々に引き寄せる『敏腕の稼ぎ頭・立て役者』のことです。" }
+    ],
+    "quiz": [
+      { "q": "She is the firm's top ___.（稼ぎ頭）", "A": "rainmaker", "B": "rainfall の降雨", "C": "rainbow の虹", "D": "raincoat のレインコート", "correct": "A" },
+      { "q": "rainmaker の原義はどれ？", "A": "雨乞い師", "B": "天気予報士", "C": "農夫", "D": "漁師", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reflexive",
+    "pron": "rɪˈfleksɪv",
+    "kana": "リフレクシブ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "reflex（反射）＋ -ive",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "文法・心理"],
+    "meaning_main": "（文法）再帰の・再帰的な／反射的な・無意識の",
+    "description": "reflexive の意味・発音・例文・語源を解説。文法の「再帰の（再帰代名詞・再帰動詞）」と、考えずに起こる「反射的な・無意識の」という使い方を紹介します。",
+    "keywords": ["reflexive 意味", "reflexive 発音", "再帰", "反射的"],
+    "meanings": [
+      { "hinshi": "【形容詞】（文法）再帰の・再帰的な", "note": "主語の動作が主語自身に返る。a reflexive pronoun（再帰代名詞 myself など）、a reflexive verb（再帰動詞）。" },
+      { "hinshi": "【形容詞】反射的な・無意識の", "note": "考えずに自動的に起こる。a reflexive reaction（反射的な反応）。" }
+    ],
+    "usages": [
+      { "title": "① 文法「再帰の」として", "desc": "動作が主語自身に返ることを表します。", "example_en": "'Myself' is a reflexive pronoun.", "example_ja": "myself は再帰代名詞だ。" },
+      { "title": "② 「反射的な」として", "desc": "考えずに起こる反応を表します。", "example_en": "Blinking is a reflexive action.", "example_ja": "まばたきは反射的な動作だ。" }
+    ],
+    "warn": [
+      "reflexive は文法で『再帰の（reflexive pronoun＝myself など）』、一般で『反射的な・無意識の』。reflex（反射）＋ -ive。",
+      "光や音をはね返す『反射する』は reflective。意味を混同しないよう注意。"
+    ],
+    "etym_note": "reflex（反射、ラテン語 reflectere「後ろへ曲げる」より）に -ive が付いた語です。「（動作・反応が）自分に返る・はね返る」を意味します。reflect（反射する）と同じ語根です。",
+    "etym_chain": [
+      { "node": "reflectere", "sub": "後ろへ曲げる", "era": "ラテン語" },
+      { "node": "reflex", "sub": "反射", "era": "近代英語" },
+      { "node": "reflexive", "sub": "再帰の・反射的な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a reflexive pronoun", "ja": "再帰代名詞" },
+      { "en": "a reflexive verb", "ja": "再帰動詞" },
+      { "en": "a reflexive reaction", "ja": "反射的な反応" },
+      { "en": "a reflexive action", "ja": "反射的な動作" },
+      { "en": "almost reflexive", "ja": "ほとんど無意識の" },
+      { "en": "a reflexive response", "ja": "反射的な応答" }
+    ],
+    "related": [
+      { "en": "reflex", "ja": "反射" },
+      { "en": "reflective", "ja": "反射する・思慮深い" },
+      { "en": "instinctive", "ja": "本能的な" },
+      { "en": "automatic", "ja": "自動的な" }
+    ],
+    "faq": [
+      { "q": "reflexive とはどんな意味？", "a": "文法では『再帰の（動作が主語自身に返る）』で、reflexive pronoun（再帰代名詞 myself など）のように使います。一般では『反射的な・無意識の』という意味もあります。" },
+      { "q": "reflexive と reflective の違いは？", "a": "reflexive は『再帰の・反射的な（自分に返る）』、reflective は『（光を）反射する・思慮深い』です。意味が異なるので注意しましょう。" }
+    ],
+    "quiz": [
+      { "q": "'Myself' is a ___ pronoun.（再帰の）", "A": "reflexive", "B": "reflective の反射する", "C": "respective のそれぞれの", "D": "receptive の受容的な", "correct": "A" },
+      { "q": "reflexive pronoun の例はどれ？", "A": "myself", "B": "my", "C": "me too の代わりに mine", "D": "I", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reflective",
+    "pron": "rɪˈflektɪv",
+    "kana": "リフレクティブ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "reflect（反射する・熟考する）＋ -ive",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "（光・熱を）反射する・反射性の／思慮深い・内省的な／（〜を）反映している",
+    "description": "reflective の意味・発音・例文・語源を解説。光を「反射する」、性格が「思慮深い・内省的な」、また何かを「反映している」という使い方を紹介します。",
+    "keywords": ["reflective 意味", "reflective 発音", "反射する", "思慮深い"],
+    "meanings": [
+      { "hinshi": "【形容詞】（光・熱を）反射する・反射性の", "note": "光や熱をはね返す。a reflective surface（反射する面）、reflective material（反射材）。" },
+      { "hinshi": "【形容詞】思慮深い・内省的な", "note": "じっくり考える性質の。a reflective mood（物思いにふけった気分）。" },
+      { "hinshi": "【形容詞】（〜を）反映している", "note": "be reflective of（〜を反映している）。" }
+    ],
+    "usages": [
+      { "title": "① 「反射する」として", "desc": "光をはね返すようすを表します。", "example_en": "Cyclists wear reflective clothing at night.", "example_ja": "自転車に乗る人は夜に反射材のついた服を着る。" },
+      { "title": "② 「思慮深い」として", "desc": "じっくり考える性質を表します。", "example_en": "She was in a quiet, reflective mood.", "example_ja": "彼女は静かに物思いにふけっていた。" }
+    ],
+    "warn": [
+      "reflective は『（光を）反射する』『思慮深い・内省的な』『（〜を）反映している』と多義。動詞 reflect（反射する・熟考する）から。",
+      "文法・反射的の reflexive と混同しないよう注意。"
+    ],
+    "etym_note": "動詞 reflect（re-「後ろへ」＋ flectere「曲げる」＝反射する・思いめぐらす）に -ive が付いた語です。reflection（反射・熟考）と同じ語根です。",
+    "etym_chain": [
+      { "node": "reflectere", "sub": "後ろへ曲げる", "era": "ラテン語" },
+      { "node": "reflect", "sub": "反射する・熟考する", "era": "中英語" },
+      { "node": "reflective", "sub": "反射する・思慮深い", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a reflective surface", "ja": "反射する面" },
+      { "en": "reflective clothing", "ja": "反射材のついた服" },
+      { "en": "a reflective mood", "ja": "物思いにふけった気分" },
+      { "en": "a reflective person", "ja": "思慮深い人" },
+      { "en": "be reflective of", "ja": "〜を反映している" },
+      { "en": "reflective material", "ja": "反射材" }
+    ],
+    "related": [
+      { "en": "reflect", "ja": "反射する・熟考する" },
+      { "en": "reflection", "ja": "反射・熟考" },
+      { "en": "thoughtful", "ja": "思慮深い" },
+      { "en": "reflexive", "ja": "再帰の・反射的な（混同注意）" }
+    ],
+    "faq": [
+      { "q": "reflective とはどんな意味？", "a": "光や熱を『反射する』、性格が『思慮深い・内省的な』、また何かを『反映している（be reflective of）』という意味があります。動詞 reflect から来ています。" },
+      { "q": "reflective と reflexive の違いは？", "a": "reflective は『（光を）反射する・思慮深い』、reflexive は『（文法の）再帰の・反射的な』です。つづりが似ていますが意味が異なります。" }
+    ],
+    "quiz": [
+      { "q": "Cyclists wear ___ clothing at night.（反射材のついた）", "A": "reflective", "B": "reflexive の再帰の", "C": "respective のそれぞれの", "D": "selective の選択的な", "correct": "A" },
+      { "q": "reflective の意味に含まれないのはどれ？", "A": "再帰代名詞の", "B": "反射する", "C": "思慮深い", "D": "反映している", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reconvene",
+    "pron": "ˌriːkənˈviːn",
+    "kana": "リコンビーン",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ convene（招集する・集まる）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "会議・公式"],
+    "meaning_main": "（会議などを）再び招集する・再開する／再び集まる",
+    "description": "reconvene の意味・発音・例文・語源を解説。休会していた会議や議会を「再び招集する・再開する」、また人々が「再び集まる」という公式の語の使い方を紹介します。",
+    "keywords": ["reconvene 意味", "reconvene 発音", "再招集", "convene 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（会議などを）再び招集する・再開する／再び集まる", "note": "休会・中断していた会議や集まりを再び開く。The committee will reconvene tomorrow.（委員会は明日再開する）。" }
+    ],
+    "usages": [
+      { "title": "① 会議の再開として", "desc": "休会していた会議を再び開くことを表します。", "example_en": "The court will reconvene after lunch.", "example_ja": "法廷は昼食後に再開される。" },
+      { "title": "② 人々が再び集まる", "desc": "解散した集まりが再び集まることを表します。", "example_en": "The group reconvened the next morning.", "example_ja": "その一団は翌朝再び集まった。" }
+    ],
+    "warn": [
+      "reconvene は『（会議などを）再び招集する・再開する／再び集まる』。re-（再び）＋ convene（招集する・集まる）。公式・改まった語。",
+      "convene（招集する）, convention（大会）, convenient（都合のよい）と同じ語根。"
+    ],
+    "etym_note": "re-（再び）＋ convene（招集する・集まる、ラテン語 convenire「con-（共に）＋ venire（来る）」より）から成り、「再び一緒に集まること」を意味します。venue（会場）, venture（冒険）と同じ venire を語根にもちます。",
+    "etym_chain": [
+      { "node": "convenire", "sub": "共に来る・集まる", "era": "ラテン語" },
+      { "node": "convene", "sub": "招集する・集まる", "era": "中英語" },
+      { "node": "reconvene", "sub": "再び招集する・再開する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reconvene tomorrow", "ja": "明日再開する" },
+      { "en": "reconvene after lunch", "ja": "昼食後に再開する" },
+      { "en": "the committee will reconvene", "ja": "委員会は再開される" },
+      { "en": "reconvene the meeting", "ja": "会議を再招集する" },
+      { "en": "reconvene next week", "ja": "来週再び集まる" },
+      { "en": "the court reconvened", "ja": "法廷が再開された" }
+    ],
+    "related": [
+      { "en": "convene", "ja": "招集する・集まる" },
+      { "en": "adjourn", "ja": "休会する（反対）" },
+      { "en": "resume", "ja": "再開する" },
+      { "en": "assemble", "ja": "集まる" }
+    ],
+    "faq": [
+      { "q": "reconvene とはどんな意味？", "a": "休会・中断していた会議や集まりを『再び招集する・再開する』、また人々が『再び集まる』という公式・改まった動詞です。The committee will reconvene tomorrow.（委員会は明日再開する）のように使います。" },
+      { "q": "reconvene と adjourn の違いは？", "a": "reconvene は『（中断していた会議を）再開する』、adjourn は『（会議を）休会・中断する』で、反対の意味です。" }
+    ],
+    "quiz": [
+      { "q": "The court will ___ after lunch.（再開する）", "A": "reconvene", "B": "convince の納得させる", "C": "convert の変える", "D": "conclude の結論づける", "correct": "A" },
+      { "q": "reconvene の反対の意味はどれ？", "A": "adjourn（休会する）", "B": "assemble（集まる）", "C": "resume（再開する）", "D": "gather（集める）", "correct": "A" }
+    ]
+  }
+]
