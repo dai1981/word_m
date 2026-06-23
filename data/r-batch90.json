@@ -1,0 +1,525 @@
+[
+  {
+    "english": "reconfiguration",
+    "pron": "ˌriːkənˌfɪɡjəˈreɪʃən",
+    "kana": "リコンフィギュレーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ configuration（構成・配置）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "IT・技術"],
+    "meaning_main": "再構成・構成し直し・設定変更（部品や設定を組み替えること）",
+    "description": "reconfiguration の意味・発音・例文・語源を解説。機器・システム・組織の構成や設定を「組み替えること（再構成・設定変更）」を指す語の使い方を紹介します。",
+    "keywords": ["reconfiguration 意味", "reconfiguration 発音", "再構成", "reconfigure 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再構成・構成し直し・設定変更", "note": "機器・システム・配置などを組み替えること。network reconfiguration（ネットワークの再構成）。" }
+    ],
+    "usages": [
+      { "title": "① システムの再構成として", "desc": "設定や構成を組み替えることを表します。", "example_en": "The upgrade required a system reconfiguration.", "example_ja": "そのアップグレードはシステムの再構成を必要とした。" },
+      { "title": "② 配置の組み替えとして", "desc": "部品や空間の組み替えを表します。", "example_en": "The office underwent a complete reconfiguration.", "example_ja": "そのオフィスは全面的なレイアウト変更を受けた。" }
+    ],
+    "warn": [
+      "reconfiguration は『（機器・システム・配置の）再構成・設定変更』。re-（再び）＋ configuration（構成）。動詞は reconfigure。",
+      "IT分野でよく使う。日常では rearrangement（並べ替え）が近い。"
+    ],
+    "etym_note": "re-（再び）＋ configuration（構成・配置、configurare「形づくる」より）から成り、「もう一度組み立て直すこと」を意味します。figure（形）と同じ語根です。",
+    "etym_chain": [
+      { "node": "configurare", "sub": "形づくる", "era": "ラテン語" },
+      { "node": "configuration", "sub": "構成・配置", "era": "近代英語" },
+      { "node": "reconfiguration", "sub": "再構成・設定変更", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "system reconfiguration", "ja": "システムの再構成" },
+      { "en": "network reconfiguration", "ja": "ネットワークの再構成" },
+      { "en": "a complete reconfiguration", "ja": "全面的な再構成" },
+      { "en": "hardware reconfiguration", "ja": "ハードウェアの構成変更" },
+      { "en": "require reconfiguration", "ja": "再構成が必要だ" },
+      { "en": "a reconfiguration of the layout", "ja": "レイアウトの組み替え" }
+    ],
+    "related": [
+      { "en": "reconfigure", "ja": "再構成する・設定し直す" },
+      { "en": "configuration", "ja": "構成・配置" },
+      { "en": "rearrangement", "ja": "並べ替え" },
+      { "en": "restructuring", "ja": "再構築" }
+    ],
+    "faq": [
+      { "q": "reconfiguration とはどんな意味？", "a": "機器・システム・配置などの構成や設定を組み替えること『再構成・構成し直し・設定変更』のことです。network reconfiguration（ネットワークの再構成）のように使います。動詞は reconfigure です。" },
+      { "q": "reconfiguration と restructuring の違いは？", "a": "reconfiguration は『（構成・設定を）組み替えること』、restructuring は『（組織・事業の構造を）抜本的に作り直すこと』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The upgrade required a system ___.（再構成）", "A": "reconfiguration", "B": "configuration の構成", "C": "registration の登録", "D": "recommendation の推薦", "correct": "A" },
+      { "q": "reconfiguration の動詞形はどれ？", "A": "reconfigure（再構成する）", "B": "configure（構成する）", "C": "register（登録する）", "D": "recommend（勧める）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rector",
+    "pron": "ˈrektər",
+    "kana": "レクター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 rector（統治者・指導者）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "宗教・教育"],
+    "meaning_main": "（教会の）教区牧師・主任司祭／（大学・学校の）学長・校長",
+    "description": "rector の意味・発音・例文・語源を解説。教会の「教区牧師・主任司祭」や、大学・学校の「学長・校長」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["rector 意味", "rector 発音", "教区牧師", "rector 学長"],
+    "meanings": [
+      { "hinshi": "【名詞】（教会の）教区牧師・主任司祭", "note": "英国国教会・カトリックなどで教区を率いる聖職者。" },
+      { "hinshi": "【名詞】（大学・学校の）学長・校長", "note": "国・大学により『学長・校長・総長』に当たる役職。" }
+    ],
+    "usages": [
+      { "title": "① 教区牧師として", "desc": "教区を率いる聖職者を指します。", "example_en": "The rector led the Sunday service.", "example_ja": "教区牧師が日曜の礼拝を執り行った。" },
+      { "title": "② 学長・校長として", "desc": "教育機関の長を表します。", "example_en": "She was appointed rector of the university.", "example_ja": "彼女はその大学の学長に任命された。" }
+    ],
+    "warn": [
+      "rector は『（教会の）教区牧師・主任司祭』と『（大学・学校の）学長・校長』。国・宗派により役割が異なる。",
+      "rector の住む家は rectory（牧師館）。"
+    ],
+    "etym_note": "ラテン語 rector（統治者・導く者、regere「導く・治める」より）に由来します。「導く人」を意味し、direct（指示する）, correct（正す）と同じ regere を語根にもちます。",
+    "etym_chain": [
+      { "node": "regere", "sub": "導く・治める", "era": "ラテン語" },
+      { "node": "rector", "sub": "統治者・指導者", "era": "ラテン語" },
+      { "node": "rector", "sub": "教区牧師・学長", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the parish rector", "ja": "教区の主任牧師" },
+      { "en": "appointed rector", "ja": "学長に任命された" },
+      { "en": "the rector's sermon", "ja": "牧師の説教" },
+      { "en": "rector of the university", "ja": "大学の学長" },
+      { "en": "a new rector", "ja": "新しい教区牧師" },
+      { "en": "the rector and the curate", "ja": "主任牧師と副牧師" }
+    ],
+    "related": [
+      { "en": "rectory", "ja": "牧師館" },
+      { "en": "vicar", "ja": "教区牧師（英）" },
+      { "en": "priest", "ja": "司祭" },
+      { "en": "principal", "ja": "校長" }
+    ],
+    "faq": [
+      { "q": "rector とはどんな意味？", "a": "教会で教区を率いる『教区牧師・主任司祭』、また大学・学校の『学長・校長』を指す語です。国や宗派によって役割が異なります。" },
+      { "q": "rector と vicar の違いは？", "a": "どちらも英国国教会の教区牧師ですが、歴史的に収入源（十分の一税）の扱いが違い、rector のほうが地位が上とされた時代がありました。現代では地域差があります。" }
+    ],
+    "quiz": [
+      { "q": "The ___ led the Sunday service.（教区牧師）", "A": "rector", "B": "reactor の原子炉", "C": "director の監督", "D": "collector の収集家", "correct": "A" },
+      { "q": "rector の語源の意味はどれ？", "A": "導く者・統治者", "B": "書く者", "C": "歌う者", "D": "売る者", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rectory",
+    "pron": "ˈrektəri",
+    "kana": "レクトリー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rector（教区牧師）＋ -y（場所）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "宗教・建物"],
+    "meaning_main": "牧師館・司祭館（教区牧師が住む家）",
+    "description": "rectory の意味・発音・例文・語源を解説。教区牧師（rector）が住む家「牧師館・司祭館」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["rectory 意味", "rectory 発音", "牧師館", "rector 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】牧師館・司祭館", "note": "教区牧師（rector）が住む家。教会に付属することが多い。" }
+    ],
+    "usages": [
+      { "title": "① 牧師の住居として", "desc": "教区牧師が住む家を指します。", "example_en": "The rector lives in the old rectory.", "example_ja": "教区牧師は古い牧師館に住んでいる。" },
+      { "title": "② 教会付属の建物として", "desc": "教会のそばの住居を表します。", "example_en": "The rectory stands beside the church.", "example_ja": "牧師館は教会のそばに建っている。" }
+    ],
+    "warn": [
+      "rectory は『教区牧師（rector）が住む家＝牧師館』。-y は『場所』を表す接尾辞。",
+      "vicar が住む家は vicarage（牧師館）という。"
+    ],
+    "etym_note": "rector（教区牧師）に「場所」を表す -y が付いた語で、「牧師が住む場所＝牧師館」を意味します。rector はラテン語 regere（導く・治める）に由来します。",
+    "etym_chain": [
+      { "node": "rector", "sub": "教区牧師", "era": "ラテン語" },
+      { "node": "rectory", "sub": "牧師の家", "era": "中英語" },
+      { "node": "rectory", "sub": "牧師館", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the old rectory", "ja": "古い牧師館" },
+      { "en": "live in the rectory", "ja": "牧師館に住む" },
+      { "en": "the rectory garden", "ja": "牧師館の庭" },
+      { "en": "beside the rectory", "ja": "牧師館のそばに" },
+      { "en": "a country rectory", "ja": "田舎の牧師館" },
+      { "en": "the parish rectory", "ja": "教区の牧師館" }
+    ],
+    "related": [
+      { "en": "rector", "ja": "教区牧師" },
+      { "en": "vicarage", "ja": "牧師館（vicar用）" },
+      { "en": "parsonage", "ja": "牧師館" },
+      { "en": "manse", "ja": "（長老派の）牧師館" }
+    ],
+    "faq": [
+      { "q": "rectory とはどんな意味？", "a": "教区牧師（rector）が住む家『牧師館・司祭館』のことです。教会に付属することが多く、The rector lives in the rectory.（牧師は牧師館に住む）のように使います。" },
+      { "q": "rectory と vicarage の違いは？", "a": "rectory は『rector（教区牧師）が住む家』、vicarage は『vicar（教区牧師）が住む家』です。どちらも牧師館ですが、住む聖職者の呼称が異なります。" }
+    ],
+    "quiz": [
+      { "q": "The rector lives in the old ___.（牧師館）", "A": "rectory", "B": "factory の工場", "C": "directory の名簿", "D": "territory の領土", "correct": "A" },
+      { "q": "rectory に住むのはだれ？", "A": "rector（教区牧師）", "B": "doctor（医者）", "C": "actor（俳優）", "D": "sailor（船員）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rosehip",
+    "pron": "ˈroʊzhɪp",
+    "kana": "ローズヒップ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rose（ばら）＋ hip（ばらの実）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "植物・食品"],
+    "meaning_main": "ローズヒップ（ばらの実。ビタミンCが豊富で、お茶やジャムに使う）",
+    "description": "rosehip の意味・発音・例文・語源を解説。ばらの花のあとにできる赤い実「ローズヒップ」で、お茶やジャムに使う食材の語の使い方を紹介します。",
+    "keywords": ["rosehip 意味", "rosehip 発音", "ローズヒップ", "rosehip お茶"],
+    "meanings": [
+      { "hinshi": "【名詞】ローズヒップ（ばらの実）", "note": "ばらの花が散ったあとにできる赤い実。ビタミンCが豊富で、ハーブティー・ジャム・シロップに使う。rose hip とも綴る。" }
+    ],
+    "usages": [
+      { "title": "① お茶の材料として", "desc": "ばらの実を使ったお茶を指します。", "example_en": "She drinks rosehip tea every morning.", "example_ja": "彼女は毎朝ローズヒップティーを飲む。" },
+      { "title": "② 食材・栄養として", "desc": "ビタミンが豊富な実を表します。", "example_en": "Rosehips are rich in vitamin C.", "example_ja": "ローズヒップはビタミンCが豊富だ。" }
+    ],
+    "warn": [
+      "rosehip は『ばらの花のあとにできる赤い実』。ビタミンCが豊富でお茶やジャムに使う。rose hip と2語でも綴る。",
+      "hip はここでは『（ばらなどの）実』の意味で、体の hip（腰）とは別。"
+    ],
+    "etym_note": "rose（ばら）＋ hip（ばらやさんざしの実、古英語 hēope より）から成り、「ばらの実」を意味します。hip は古くから『ばら科の植物の実』を指す語です。",
+    "etym_chain": [
+      { "node": "hēope", "sub": "ばらの実", "era": "古英語" },
+      { "node": "rose + hip", "sub": "ばら＋実", "era": "中英語" },
+      { "node": "rosehip", "sub": "ローズヒップ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rosehip tea", "ja": "ローズヒップティー" },
+      { "en": "rosehip syrup", "ja": "ローズヒップシロップ" },
+      { "en": "rosehip oil", "ja": "ローズヒップオイル" },
+      { "en": "rich in vitamin C", "ja": "ビタミンCが豊富" },
+      { "en": "rosehip jam", "ja": "ローズヒップジャム" },
+      { "en": "dried rosehips", "ja": "乾燥ローズヒップ" }
+    ],
+    "related": [
+      { "en": "rose", "ja": "ばら" },
+      { "en": "berry", "ja": "（小さな）実" },
+      { "en": "herbal tea", "ja": "ハーブティー" },
+      { "en": "vitamin C", "ja": "ビタミンC" }
+    ],
+    "faq": [
+      { "q": "rosehip とはどんな意味？", "a": "ばらの花が散ったあとにできる赤い実『ローズヒップ』のことです。ビタミンCが豊富で、ハーブティー・ジャム・シロップ・オイルなどに使われます。" },
+      { "q": "rosehip の hip は腰のこと？", "a": "いいえ。ここでの hip は『（ばらなどの）実』を意味する古い語で、体の hip（腰）とは別です。" }
+    ],
+    "quiz": [
+      { "q": "She drinks ___ tea every morning.（ローズヒップ）", "A": "rosehip", "B": "rosewood の紫檀", "C": "rosebud のつぼみ", "D": "rosin の松やに", "correct": "A" },
+      { "q": "rosehip に豊富に含まれるのはどれ？", "A": "ビタミンC", "B": "鉄分だけ", "C": "脂肪", "D": "塩分", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rubicund",
+    "pron": "ˈruːbɪkənd",
+    "kana": "ルビカンド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 rubicundus（赤い）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "文章語"],
+    "meaning_main": "（顔が）赤らんだ・血色のよい・赤ら顔の",
+    "description": "rubicund の意味・発音・例文・語源を解説。顔が「血色がよく赤らんだ・赤ら顔の」ようすを表す、ややかたい文章語の使い方を分かりやすく紹介します。",
+    "keywords": ["rubicund 意味", "rubicund 発音", "赤ら顔", "rubicund 血色"],
+    "meanings": [
+      { "hinshi": "【形容詞】（顔が）赤らんだ・血色のよい・赤ら顔の", "note": "健康そう、または飲酒などで顔が赤いようす。a rubicund face（赤ら顔）。文章語。" }
+    ],
+    "usages": [
+      { "title": "① 「赤ら顔の」として", "desc": "血色がよく赤い顔色を表します。", "example_en": "The innkeeper had a rubicund face.", "example_ja": "その宿屋の主人は赤ら顔をしていた。" },
+      { "title": "② 文学的な描写で", "desc": "健康そうな赤みを表します。", "example_en": "He looked jolly and rubicund.", "example_ja": "彼は陽気で血色のよい顔をしていた。" }
+    ],
+    "warn": [
+      "rubicund は『（顔が）赤らんだ・血色のよい』というかたい文章語。ruddy（血色のよい）と近い。",
+      "ラテン語 ruber（赤）由来。ruby（ルビー）, rubella（風疹）と同じ語根。"
+    ],
+    "etym_note": "ラテン語 rubicundus（赤い、ruber「赤」より）に由来します。ruby（ルビー）, rubric（赤い見出し）, rubella（風疹）と同じ語根 ruber をもち、「赤い（顔色）」を表します。",
+    "etym_chain": [
+      { "node": "ruber", "sub": "赤", "era": "ラテン語" },
+      { "node": "rubicundus", "sub": "赤い", "era": "ラテン語" },
+      { "node": "rubicund", "sub": "赤ら顔の・血色のよい", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rubicund face", "ja": "赤ら顔" },
+      { "en": "rubicund cheeks", "ja": "赤らんだ頬" },
+      { "en": "jolly and rubicund", "ja": "陽気で血色のよい" },
+      { "en": "a rubicund complexion", "ja": "赤みのある顔色" },
+      { "en": "look rubicund", "ja": "赤ら顔に見える" },
+      { "en": "a rubicund glow", "ja": "赤みのある輝き" }
+    ],
+    "related": [
+      { "en": "ruddy", "ja": "血色のよい・赤らんだ" },
+      { "en": "florid", "ja": "赤ら顔の" },
+      { "en": "flushed", "ja": "紅潮した" },
+      { "en": "pale", "ja": "青白い（反対語）" }
+    ],
+    "faq": [
+      { "q": "rubicund とはどんな意味？", "a": "顔が『血色がよく赤らんだ・赤ら顔の』ようすを表す、ややかたい文章語です。a rubicund face（赤ら顔）のように使います。健康そう、または飲酒などで顔が赤いようすを表します。" },
+      { "q": "rubicund と ruddy の違いは？", "a": "意味はほぼ同じ『血色のよい・赤らんだ』ですが、rubicund のほうがより文語的・古風な響きをもちます。" }
+    ],
+    "quiz": [
+      { "q": "The innkeeper had a ___ face.（赤ら顔の）", "A": "rubicund", "B": "rotund の丸々太った", "C": "rugged のごつごつした", "D": "rancid の腐った", "correct": "A" },
+      { "q": "rubicund と同じ語根 ruber をもつのはどれ？", "A": "ruby（ルビー）", "B": "rubber（ゴム）", "C": "rubble（瓦礫）", "D": "rumble（とどろき）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "redneck",
+    "pron": "ˈrednek",
+    "kana": "レッドネック",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "red（赤い）＋ neck（首）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "口語・文化"],
+    "meaning_main": "（米・しばしば軽蔑的）田舎の労働者・保守的で無教養とされる人",
+    "description": "redneck の意味・発音・例文・語源を解説。アメリカ南部・地方の白人労働者を指す、しばしば軽蔑的な俗語「レッドネック」の使い方を紹介します。",
+    "keywords": ["redneck 意味", "redneck 発音", "田舎者", "redneck アメリカ"],
+    "meanings": [
+      { "hinshi": "【名詞】（米・しばしば軽蔑的）田舎の白人労働者", "note": "アメリカ南部・地方の、保守的で無教養とされる白人労働者を指す俗語。見下した含みがあるが、自称することもある。" }
+    ],
+    "usages": [
+      { "title": "① 地方の労働者として", "desc": "南部・地方の白人労働者を指します。", "example_en": "The comedian joked about being a redneck.", "example_ja": "そのコメディアンは自分がレッドネックだとネタにした。" },
+      { "title": "② 軽蔑的に", "desc": "保守的・無教養と見下して言います。", "example_en": "Don't use 'redneck' as an insult.", "example_ja": "『レッドネック』を侮辱として使わないで。" }
+    ],
+    "warn": [
+      "redneck はしばしば軽蔑的な俗語で、使い方に注意が必要。本人が自虐・自称として使うこともある。",
+      "屋外労働で首の後ろが日焼けして赤くなることから red（赤い）＋ neck（首）。"
+    ],
+    "etym_note": "red（赤い）＋ neck（首）から成り、屋外の農作業などで首の後ろが日焼けして赤くなることに由来します。アメリカ南部・地方の白人労働者を指す俗語になりました。",
+    "etym_chain": [
+      { "node": "red + neck", "sub": "赤い＋首", "era": "近代英語" },
+      { "node": "redneck", "sub": "日焼けした首の労働者", "era": "近代英語" },
+      { "node": "redneck", "sub": "田舎の労働者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a small-town redneck", "ja": "田舎町のレッドネック" },
+      { "en": "redneck culture", "ja": "レッドネック文化" },
+      { "en": "call someone a redneck", "ja": "人をレッドネック呼ばわりする" },
+      { "en": "proud to be a redneck", "ja": "レッドネックであることを誇る" },
+      { "en": "a redneck stereotype", "ja": "レッドネックの固定観念" },
+      { "en": "redneck humor", "ja": "レッドネック風のユーモア" }
+    ],
+    "related": [
+      { "en": "hillbilly", "ja": "田舎者・山間部の人" },
+      { "en": "country", "ja": "田舎の" },
+      { "en": "blue-collar", "ja": "肉体労働の" },
+      { "en": "yokel", "ja": "いなか者" }
+    ],
+    "faq": [
+      { "q": "redneck とはどんな意味？", "a": "アメリカ南部・地方の、保守的で無教養とされる白人労働者を指す俗語『レッドネック』です。しばしば軽蔑的ですが、本人が自虐・自称として使うこともあります。" },
+      { "q": "redneck の名の由来は？", "a": "屋外の農作業などで首の後ろが日焼けして赤くなることから、red（赤い）＋ neck（首）と名づけられました。" }
+    ],
+    "quiz": [
+      { "q": "The comedian joked about being a ___.（レッドネック）", "A": "redneck", "B": "redhead の赤毛の人", "C": "redwood のセコイア", "D": "redbreast のコマドリ", "correct": "A" },
+      { "q": "redneck の名の由来はどれ？", "A": "日焼けで首が赤くなることから", "B": "赤い帽子から", "C": "赤い旗から", "D": "赤い土地から", "correct": "A" }
+    ]
+  },
+  {
+    "english": "roundhouse",
+    "pron": "ˈraʊndhaʊs",
+    "kana": "ラウンドハウス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "round（円形の）＋ house（建物）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "鉄道・格闘技"],
+    "meaning_main": "（鉄道の）扇形機関車庫／（格闘技）腕を大きく振り回す一撃（roundhouse punch / kick）",
+    "description": "roundhouse の意味・発音・例文・語源を解説。機関車を収める「扇形機関車庫」と、腕や脚を大きく振り回す一撃「ラウンドハウス（パンチ・キック）」の使い方を紹介します。",
+    "keywords": ["roundhouse 意味", "roundhouse 発音", "機関車庫", "roundhouse kick 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】（鉄道の）扇形機関車庫", "note": "中央の転車台を囲んで扇形に機関車を収める車庫。" },
+      { "hinshi": "【名詞】（格闘技）腕・脚を大きく振り回す一撃", "note": "a roundhouse punch（横なぐりのパンチ）、a roundhouse kick（回し蹴り）。" }
+    ],
+    "usages": [
+      { "title": "① 機関車庫として", "desc": "扇形の機関車の車庫を指します。", "example_en": "Old locomotives were kept in the roundhouse.", "example_ja": "古い機関車は扇形機関車庫に収められていた。" },
+      { "title": "② 振り回す一撃として", "desc": "大きく振り回す攻撃を表します。", "example_en": "He landed a roundhouse kick.", "example_ja": "彼は回し蹴りを決めた。" }
+    ],
+    "warn": [
+      "roundhouse は『（鉄道の）扇形機関車庫』と『（格闘技の）腕・脚を大きく振り回す一撃』。文脈で意味が変わる。",
+      "a roundhouse punch / kick（横なぐりのパンチ／回し蹴り）が頻出。"
+    ],
+    "etym_note": "round（円形の）＋ house（建物）から成り、もとは『円形・扇形の建物（機関車庫）』を意味しました。腕を円を描くように振り回す動きから、格闘技の『振り回す一撃』の意味も生まれました。",
+    "etym_chain": [
+      { "node": "round + house", "sub": "円形の＋建物", "era": "近代英語" },
+      { "node": "roundhouse", "sub": "扇形機関車庫", "era": "近代英語" },
+      { "node": "roundhouse", "sub": "機関車庫・振り回す一撃", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a roundhouse kick", "ja": "回し蹴り" },
+      { "en": "a roundhouse punch", "ja": "横なぐりのパンチ" },
+      { "en": "the railway roundhouse", "ja": "鉄道の扇形機関車庫" },
+      { "en": "land a roundhouse", "ja": "振り回す一撃を決める" },
+      { "en": "a roundhouse swing", "ja": "大振りのスイング" },
+      { "en": "the turntable in the roundhouse", "ja": "機関車庫の転車台" }
+    ],
+    "related": [
+      { "en": "turntable", "ja": "転車台" },
+      { "en": "locomotive", "ja": "機関車" },
+      { "en": "kick", "ja": "蹴り" },
+      { "en": "swing", "ja": "振り" }
+    ],
+    "faq": [
+      { "q": "roundhouse とはどんな意味？", "a": "中央の転車台を囲んで機関車を収める『扇形機関車庫』という意味と、格闘技で腕や脚を大きく振り回す『一撃（roundhouse punch / kick）』という意味があります。" },
+      { "q": "roundhouse kick とは？", "a": "脚を大きく回すように振り抜く蹴り技『回し蹴り』のことです。" }
+    ],
+    "quiz": [
+      { "q": "He landed a ___ kick.（回し蹴り）", "A": "roundhouse", "B": "warehouse の倉庫", "C": "lighthouse の灯台", "D": "greenhouse の温室", "correct": "A" },
+      { "q": "鉄道の roundhouse が指すのはどれ？", "A": "扇形の機関車庫", "B": "駅の待合室", "C": "踏切", "D": "車掌室", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ripsaw",
+    "pron": "ˈrɪpsɔː",
+    "kana": "リップソー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rip（引き裂く）＋ saw（のこぎり）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "道具"],
+    "meaning_main": "縦びきのこぎり（木目に沿って木材を切るのこぎり）",
+    "description": "ripsaw の意味・発音・例文・語源を解説。木目に沿って木材を切る「縦びきのこぎり」を指す工具の語の使い方を分かりやすく紹介します。",
+    "keywords": ["ripsaw 意味", "ripsaw 発音", "縦びきのこぎり", "ripsaw 工具"],
+    "meanings": [
+      { "hinshi": "【名詞】縦びきのこぎり", "note": "木目に沿って（縦方向に）木材を切るためののこぎり。歯が大きく粗い。木目を横切る crosscut saw（横びき）と対。" }
+    ],
+    "usages": [
+      { "title": "① 木工の道具として", "desc": "木目に沿って切るのこぎりを指します。", "example_en": "He cut the plank with a ripsaw.", "example_ja": "彼は縦びきのこぎりで板を切った。" },
+      { "title": "② 工具の区別で", "desc": "横びきと区別して使います。", "example_en": "A ripsaw cuts along the grain.", "example_ja": "縦びきのこぎりは木目に沿って切る。" }
+    ],
+    "warn": [
+      "ripsaw は『木目に沿って切る縦びきのこぎり』。木目を横切る crosscut saw（横びきのこぎり）と区別する。",
+      "rip（引き裂く）＋ saw（のこぎり）。"
+    ],
+    "etym_note": "rip（引き裂く・勢いよく切る）＋ saw（のこぎり）から成り、「木材を木目に沿って引き裂くように切るのこぎり」を意味します。",
+    "etym_chain": [
+      { "node": "rip + saw", "sub": "引き裂く＋のこぎり", "era": "近代英語" },
+      { "node": "ripsaw", "sub": "縦びきのこぎり", "era": "近代英語" },
+      { "node": "ripsaw", "sub": "縦びきのこぎり", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "cut with a ripsaw", "ja": "縦びきのこぎりで切る" },
+      { "en": "a coarse ripsaw", "ja": "歯の粗い縦びきのこぎり" },
+      { "en": "rip along the grain", "ja": "木目に沿って切る" },
+      { "en": "a ripsaw blade", "ja": "縦びき用の刃" },
+      { "en": "a hand ripsaw", "ja": "手引きの縦びきのこぎり" },
+      { "en": "ripsaw teeth", "ja": "縦びきのこぎりの歯" }
+    ],
+    "related": [
+      { "en": "saw", "ja": "のこぎり" },
+      { "en": "crosscut saw", "ja": "横びきのこぎり" },
+      { "en": "blade", "ja": "刃" },
+      { "en": "grain", "ja": "木目" }
+    ],
+    "faq": [
+      { "q": "ripsaw とはどんな意味？", "a": "木目に沿って（縦方向に）木材を切るためののこぎり『縦びきのこぎり』のことです。歯が大きく粗いのが特徴です。" },
+      { "q": "ripsaw と crosscut saw の違いは？", "a": "ripsaw（縦びき）は『木目に沿って切る』、crosscut saw（横びき）は『木目を横切って切る』のこぎりです。歯の形が異なります。" }
+    ],
+    "quiz": [
+      { "q": "He cut the plank with a ___.（縦びきのこぎり）", "A": "ripsaw", "B": "jigsaw のジグソー", "C": "seesaw のシーソー", "D": "ripcord の引きひも", "correct": "A" },
+      { "q": "ripsaw が切る方向はどれ？", "A": "木目に沿って（縦方向）", "B": "木目を横切って", "C": "金属だけ", "D": "石だけ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rebus",
+    "pron": "ˈriːbəs",
+    "kana": "リーバス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 rebus（物によって）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "言葉遊び"],
+    "meaning_main": "判じ絵・絵文字なぞ（絵や記号で語句を表すなぞなぞ）",
+    "description": "rebus の意味・発音・例文・語源を解説。絵や記号を組み合わせて語句を表す言葉遊び「判じ絵・絵文字なぞ」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["rebus 意味", "rebus 発音", "判じ絵", "rebus なぞなぞ"],
+    "meanings": [
+      { "hinshi": "【名詞】判じ絵・絵文字なぞ", "note": "絵・記号・文字を組み合わせ、その音や意味で語句を表すなぞなぞ。たとえば『目＋玉』で『めだま』など。" }
+    ],
+    "usages": [
+      { "title": "① 言葉遊びとして", "desc": "絵で語句を表すなぞを指します。", "example_en": "The puzzle was a clever rebus.", "example_ja": "そのパズルは巧みな判じ絵だった。" },
+      { "title": "② 子ども向けの遊びで", "desc": "絵を読み解くなぞを表します。", "example_en": "Kids enjoy solving rebus puzzles.", "example_ja": "子どもたちは判じ絵を解くのを楽しむ。" }
+    ],
+    "warn": [
+      "rebus は『絵や記号で語句を表すなぞなぞ（判じ絵）』。複数形は rebuses。",
+      "発音は『リーバス（ˈriːbəs）』。"
+    ],
+    "etym_note": "ラテン語 rebus（res「物」の奪格複数形＝『物によって』）に由来します。『（言葉ではなく）物・絵によって表す』ことから、この言葉遊びの名になりました。",
+    "etym_chain": [
+      { "node": "res", "sub": "物", "era": "ラテン語" },
+      { "node": "rebus", "sub": "物によって", "era": "ラテン語" },
+      { "node": "rebus", "sub": "判じ絵", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rebus puzzle", "ja": "判じ絵のパズル" },
+      { "en": "solve a rebus", "ja": "判じ絵を解く" },
+      { "en": "a clever rebus", "ja": "巧みな判じ絵" },
+      { "en": "a rebus of pictures", "ja": "絵による判じ絵" },
+      { "en": "design a rebus", "ja": "判じ絵を作る" },
+      { "en": "a name rebus", "ja": "名前の判じ絵" }
+    ],
+    "related": [
+      { "en": "puzzle", "ja": "パズル・なぞ" },
+      { "en": "riddle", "ja": "なぞなぞ" },
+      { "en": "pictogram", "ja": "絵文字" },
+      { "en": "wordplay", "ja": "言葉遊び" }
+    ],
+    "faq": [
+      { "q": "rebus とはどんな意味？", "a": "絵・記号・文字を組み合わせ、その音や意味で語句を表すなぞなぞ『判じ絵・絵文字なぞ』のことです。たとえば絵を読み解いて言葉を当てる遊びです。" },
+      { "q": "rebus の語源は？", "a": "ラテン語 rebus（物によって）です。『（言葉ではなく）物・絵によって表す』ことに由来します。" }
+    ],
+    "quiz": [
+      { "q": "The puzzle was a clever ___.（判じ絵）", "A": "rebus", "B": "rebut の反論する", "C": "rebate の払い戻し", "D": "rebel の反逆者", "correct": "A" },
+      { "q": "rebus が表すのはどれ？", "A": "絵や記号で語句を表すなぞなぞ", "B": "計算問題", "C": "地図", "D": "楽譜", "correct": "A" }
+    ]
+  },
+  {
+    "english": "redeye",
+    "pron": "ˈredaɪ",
+    "kana": "レッドアイ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "red（赤い）＋ eye（目）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "旅行・口語"],
+    "meaning_main": "（米）夜行便・深夜便（飛行機）／（写真の）赤目現象",
+    "description": "redeye の意味・発音・例文・語源を解説。夜に飛んで翌朝早く着く「夜行便（深夜便）」や、写真の「赤目現象」を指す語の使い方を紹介します。",
+    "keywords": ["redeye 意味", "redeye 発音", "夜行便", "red-eye flight 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】（米・口語）夜行便・深夜便", "note": "夜に出発し翌朝早く着く飛行機の便。眠れず目が赤くなることから。take the redeye（深夜便に乗る）。red-eye とも綴る。" },
+      { "hinshi": "【名詞】（写真の）赤目現象", "note": "フラッシュで瞳が赤く写る現象。red-eye reduction（赤目軽減）。" }
+    ],
+    "usages": [
+      { "title": "① 夜行便として", "desc": "深夜に飛ぶ便を指します。", "example_en": "She took the redeye from L.A. to New York.", "example_ja": "彼女はロサンゼルスからニューヨークへの深夜便に乗った。" },
+      { "title": "② 赤目現象として", "desc": "写真で瞳が赤く写ることを表します。", "example_en": "Use red-eye reduction in low light.", "example_ja": "暗い場所では赤目軽減機能を使って。" }
+    ],
+    "warn": [
+      "redeye は『（米口語の）夜行便・深夜便』が中心。写真の『赤目現象』にも使う。red-eye とハイフン付きでも綴る。",
+      "take / catch the redeye（深夜便に乗る）が定番表現。"
+    ],
+    "etym_note": "red（赤い）＋ eye（目）から成り、夜行便で眠れず目が赤く充血することに由来します。写真では、フラッシュの光が網膜で反射して瞳が赤く写ることから同じ名で呼ばれます。",
+    "etym_chain": [
+      { "node": "red + eye", "sub": "赤い＋目", "era": "近代英語" },
+      { "node": "redeye", "sub": "赤い目", "era": "現代英語" },
+      { "node": "redeye", "sub": "夜行便・赤目現象", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "take the redeye", "ja": "深夜便に乗る" },
+      { "en": "a redeye flight", "ja": "夜行便" },
+      { "en": "catch the redeye", "ja": "深夜便に乗る" },
+      { "en": "the redeye to New York", "ja": "ニューヨーク行きの深夜便" },
+      { "en": "red-eye reduction", "ja": "赤目軽減（機能）" },
+      { "en": "a red-eye effect", "ja": "赤目現象" }
+    ],
+    "related": [
+      { "en": "overnight flight", "ja": "夜間飛行・夜行便" },
+      { "en": "flight", "ja": "便・飛行" },
+      { "en": "flash", "ja": "（カメラの）フラッシュ" },
+      { "en": "jet lag", "ja": "時差ぼけ" }
+    ],
+    "faq": [
+      { "q": "redeye とはどんな意味？", "a": "夜に出発して翌朝早く着く飛行機の便『夜行便・深夜便』を指すアメリカの口語です。眠れず目が赤くなることに由来します。写真の『赤目現象』も指します。" },
+      { "q": "take the redeye とは？", "a": "『深夜便（夜行便）に乗る』という意味の口語表現です。" }
+    ],
+    "quiz": [
+      { "q": "She took the ___ from L.A. to New York.（深夜便）", "A": "redeye", "B": "redhead の赤毛", "C": "redwood のセコイア", "D": "redneck の田舎者", "correct": "A" },
+      { "q": "redeye（夜行便）の名の由来はどれ？", "A": "眠れず目が赤くなることから", "B": "赤いライトから", "C": "赤い座席から", "D": "夕焼けから", "correct": "A" }
+    ]
+  }
+]

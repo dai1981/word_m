@@ -1,0 +1,475 @@
+[
+  {
+    "english": "remediation",
+    "pron": "rɪˌmiːdiˈeɪʃən",
+    "kana": "リミディエーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 remediare（治す・直す）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "環境・教育"],
+    "meaning_main": "（汚染などの）改善・浄化・修復／（学習の）補習・補正指導",
+    "description": "remediation の意味・発音・例文・語源を解説。汚染された土壌などの「浄化・修復」、また遅れた学習を補う「補習・補正指導」を指す語の使い方を紹介します。",
+    "keywords": ["remediation 意味", "remediation 発音", "浄化", "remedy 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】（汚染・問題の）改善・浄化・修復", "note": "悪い状態を直すこと。soil remediation（土壌の浄化）、environmental remediation（環境修復）。" },
+      { "hinshi": "【名詞】（学習の）補習・補正指導", "note": "遅れや弱点を補うための指導。reading remediation（読みの補習）。" }
+    ],
+    "usages": [
+      { "title": "① 「浄化・修復」として", "desc": "汚染などを改善することを表します。", "example_en": "The site requires extensive remediation.", "example_ja": "その用地は大規模な浄化が必要だ。" },
+      { "title": "② 「補習」として", "desc": "学習の遅れを補うことを表します。", "example_en": "Students received remediation in math.", "example_ja": "生徒たちは数学の補習を受けた。" }
+    ],
+    "warn": [
+      "remediation は『（汚染・問題の）浄化・修復』と『（学習の）補習・補正指導』。動詞は remediate。remedy（治療・改善する）と同語源。",
+      "soil / environmental remediation（土壌・環境浄化）が頻出。"
+    ],
+    "etym_note": "ラテン語 remediare（remedium「治療・救済策」より＝治す）に由来します。remedy（治療・改善策）と同じ語根で、「悪い状態を直すこと」を意味します。",
+    "etym_chain": [
+      { "node": "remedium", "sub": "治療・救済策", "era": "ラテン語" },
+      { "node": "remediate", "sub": "改善する・浄化する", "era": "近代英語" },
+      { "node": "remediation", "sub": "浄化・補習", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "soil remediation", "ja": "土壌の浄化" },
+      { "en": "environmental remediation", "ja": "環境修復" },
+      { "en": "site remediation", "ja": "用地の浄化" },
+      { "en": "remediation work", "ja": "改善作業" },
+      { "en": "reading remediation", "ja": "読みの補習" },
+      { "en": "require remediation", "ja": "改善が必要だ" }
+    ],
+    "related": [
+      { "en": "remedy", "ja": "治療・改善策" },
+      { "en": "cleanup", "ja": "浄化・清掃" },
+      { "en": "correction", "ja": "是正・訂正" },
+      { "en": "restoration", "ja": "修復・回復" }
+    ],
+    "faq": [
+      { "q": "remediation とはどんな意味？", "a": "汚染された土壌・水などの悪い状態を直す『改善・浄化・修復』という意味と、学習の遅れや弱点を補う『補習・補正指導』という意味があります。動詞は remediate です。" },
+      { "q": "remediation と remedy の違いは？", "a": "remedy は『治療・改善策（手段）』や『改善する（動詞）』、remediation は『（汚染・問題の）改善・浄化を行うこと』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The site requires extensive ___.（浄化）", "A": "remediation", "B": "mediation の調停", "C": "radiation の放射", "D": "meditation の瞑想", "correct": "A" },
+      { "q": "remediation と同じ語源なのはどれ？", "A": "remedy（治療・改善策）", "B": "remind（思い出させる）", "C": "remote（遠い）", "D": "remove（取り除く）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "replication",
+    "pron": "ˌreplɪˈkeɪʃən",
+    "kana": "レプリケーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 replicare（折り返す・繰り返す）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "科学・IT"],
+    "meaning_main": "複製・複写／（実験の）再現・追試／（生物の）複製・自己複製",
+    "description": "replication の意味・発音・例文・語源を解説。データの「複製」、実験の「再現・追試」、DNAなどの「自己複製」を指す科学・ITの語の使い方を紹介します。",
+    "keywords": ["replication 意味", "replication 発音", "複製", "replicate 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】複製・複写", "note": "同じものをそっくり作ること。data replication（データの複製）。" },
+      { "hinshi": "【名詞】（実験の）再現・追試", "note": "同じ条件でやり直して結果を確かめること。replication of a study（研究の追試）。" },
+      { "hinshi": "【名詞】（生物の）自己複製", "note": "DNAなどが自分のコピーを作ること。DNA replication（DNA複製）。" }
+    ],
+    "usages": [
+      { "title": "① 「複製・再現」として", "desc": "同じものを作る・やり直すことを表します。", "example_en": "The study's results need replication.", "example_ja": "その研究の結果は追試が必要だ。" },
+      { "title": "② 「自己複製」として", "desc": "DNAなどの複製を表します。", "example_en": "DNA replication occurs before cell division.", "example_ja": "DNA複製は細胞分裂の前に起こる。" }
+    ],
+    "warn": [
+      "replication は『複製・複写』『（実験の）再現・追試』『（生物の）自己複製』と多義。動詞は replicate。",
+      "科学では『追試（再現実験）』、生物では『DNA複製』、ITでは『データ複製』で頻出。"
+    ],
+    "etym_note": "ラテン語 replicare（re-「再び」＋ plicare「折る」＝折り返す・繰り返す）の名詞形に由来します。reply（返事する）, complicate（複雑にする）と同じ plicare を語根にもちます。",
+    "etym_chain": [
+      { "node": "plicare", "sub": "折る", "era": "ラテン語" },
+      { "node": "replicare", "sub": "折り返す・繰り返す", "era": "ラテン語" },
+      { "node": "replication", "sub": "複製・再現", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "DNA replication", "ja": "DNA複製" },
+      { "en": "data replication", "ja": "データの複製" },
+      { "en": "replication of a study", "ja": "研究の追試" },
+      { "en": "need replication", "ja": "再現が必要だ" },
+      { "en": "viral replication", "ja": "ウイルスの増殖" },
+      { "en": "exact replication", "ja": "正確な複製" }
+    ],
+    "related": [
+      { "en": "replicate", "ja": "複製する・再現する" },
+      { "en": "reproduction", "ja": "複製・繁殖" },
+      { "en": "duplication", "ja": "複製・二重化" },
+      { "en": "copy", "ja": "複製" }
+    ],
+    "faq": [
+      { "q": "replication とはどんな意味？", "a": "同じものをそっくり作る『複製・複写』、実験を同じ条件でやり直す『再現・追試』、DNAなどの『自己複製』など、文脈によっていくつかの意味があります。動詞は replicate です。" },
+      { "q": "replication と reproduction の違いは？", "a": "replication は『（そっくり同じものを作る）複製・再現』、reproduction は『（生物の）繁殖』や『（もとをまねた）複製』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "DNA ___ occurs before cell division.（複製）", "A": "replication", "B": "application の応用", "C": "implication の含み", "D": "complication の複雑さ", "correct": "A" },
+      { "q": "replication の動詞形はどれ？", "A": "replicate（複製する）", "B": "apply（応用する）", "C": "imply（ほのめかす）", "D": "complicate（複雑にする）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "repossession",
+    "pron": "ˌriːpəˈzeʃən",
+    "kana": "リポゼッション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ possession（所有）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "金融・法律"],
+    "meaning_main": "（ローン未払いによる）担保物件の差し押さえ・引き上げ・回収",
+    "description": "repossession の意味・発音・例文・語源を解説。ローンの支払いが滞ったとき、貸し手が車や家を「差し押さえ・引き上げること（回収）」を指す語の使い方を紹介します。",
+    "keywords": ["repossession 意味", "repossession 発音", "差し押さえ", "repossess 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】（担保物件の）差し押さえ・引き上げ・回収", "note": "ローンが払えなくなったとき、貸し手が車・家などを取り戻すこと。home repossession（住宅の差し押さえ）。" }
+    ],
+    "usages": [
+      { "title": "① 車・家の引き上げとして", "desc": "貸し手が物件を取り戻すことを表します。", "example_en": "Missed payments led to the repossession of the car.", "example_ja": "支払いの滞納で車が引き上げられた。" },
+      { "title": "② 住宅差し押さえとして", "desc": "家を取り戻すことを表します。", "example_en": "Home repossessions rose during the recession.", "example_ja": "不況期に住宅の差し押さえが増えた。" }
+    ],
+    "warn": [
+      "repossession は『（ローン未払いによる）担保物件の差し押さえ・引き上げ・回収』。動詞は repossess。くだけて repo ともいう。",
+      "アメリカの『住宅差し押さえ』は foreclosure ともいう。"
+    ],
+    "etym_note": "re-（再び）＋ possession（所有、possidere「所有する」より）から成り、「（貸し手が）所有を取り戻すこと」を意味します。possess（所有する）と同じ語根です。",
+    "etym_chain": [
+      { "node": "possidere", "sub": "所有する", "era": "ラテン語" },
+      { "node": "possession", "sub": "所有", "era": "中英語" },
+      { "node": "repossession", "sub": "差し押さえ・回収", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "home repossession", "ja": "住宅の差し押さえ" },
+      { "en": "car repossession", "ja": "車の引き上げ" },
+      { "en": "face repossession", "ja": "差し押さえに直面する" },
+      { "en": "the threat of repossession", "ja": "差し押さえの恐れ" },
+      { "en": "avoid repossession", "ja": "差し押さえを避ける" },
+      { "en": "a repossession order", "ja": "引き上げ命令" }
+    ],
+    "related": [
+      { "en": "repossess", "ja": "差し押さえる・取り戻す" },
+      { "en": "foreclosure", "ja": "（抵当物件の）差し押さえ" },
+      { "en": "seizure", "ja": "押収・差し押さえ" },
+      { "en": "collateral", "ja": "担保" }
+    ],
+    "faq": [
+      { "q": "repossession とはどんな意味？", "a": "ローンの支払いが滞ったとき、貸し手が担保の車や家などを取り戻すこと『差し押さえ・引き上げ・回収』のことです。home repossession（住宅の差し押さえ）のように使います。動詞は repossess です。" },
+      { "q": "repossession と foreclosure の違いは？", "a": "repossession は『（車など担保物件全般の）引き上げ・回収』、foreclosure は特に『（住宅ローンの）抵当物件の差し押さえ』を指します。" }
+    ],
+    "quiz": [
+      { "q": "Missed payments led to the ___ of the car.（引き上げ）", "A": "repossession", "B": "possession の所有", "C": "profession の職業", "D": "procession の行進", "correct": "A" },
+      { "q": "repossession の動詞形はどれ？", "A": "repossess（差し押さえる）", "B": "possess（所有する）", "C": "process（処理する）", "D": "profess（公言する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "revitalization",
+    "pron": "riːˌvaɪtələˈzeɪʃən",
+    "kana": "リバイタライゼーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ vital（生命の）＋ -ize ＋ -ation",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "社会・経済"],
+    "meaning_main": "再活性化・活気を取り戻させること（地域・経済・文化などの再生）",
+    "description": "revitalization の意味・発音・例文・語源を解説。衰えた地域・経済・文化などに再び活気を与える「再活性化・再生」を指す語の使い方を紹介します。",
+    "keywords": ["revitalization 意味", "revitalization 発音", "再活性化", "revitalize 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再活性化・活気を取り戻させること", "note": "衰えたものに再び生命力・活気を与えること。urban revitalization（都市の再活性化）。" }
+    ],
+    "usages": [
+      { "title": "① 地域・経済の再活性化として", "desc": "再び活気づけることを表します。", "example_en": "The plan aims at the revitalization of downtown.", "example_ja": "その計画は中心街の再活性化を目指している。" },
+      { "title": "② 文化・言語の再生として", "desc": "衰えた文化などの再生を表します。", "example_en": "Efforts focus on language revitalization.", "example_ja": "取り組みは言語の再生に注力している。" }
+    ],
+    "warn": [
+      "revitalization は『（地域・経済・文化の）再活性化・再生』。動詞は revitalize。re-（再び）＋ vital（生命の）。",
+      "urban revitalization（都市の再活性化）、language revitalization（言語復興）が頻出。イギリスつづりは revitalisation。"
+    ],
+    "etym_note": "re-（再び）＋ vital（生命の・活力ある、ラテン語 vita「生命」より）＋ -ize ＋ -ation から成り、「再び生命力を与えること」を意味します。vitamin（ビタミン）, vital（不可欠な）と同じ vita を語根にもちます。",
+    "etym_chain": [
+      { "node": "vita", "sub": "生命", "era": "ラテン語" },
+      { "node": "revitalize", "sub": "再活性化する", "era": "近代英語" },
+      { "node": "revitalization", "sub": "再活性化", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "urban revitalization", "ja": "都市の再活性化" },
+      { "en": "economic revitalization", "ja": "経済の再活性化" },
+      { "en": "language revitalization", "ja": "言語の復興" },
+      { "en": "community revitalization", "ja": "地域社会の再生" },
+      { "en": "the revitalization of", "ja": "〜の再活性化" },
+      { "en": "a revitalization plan", "ja": "再活性化計画" }
+    ],
+    "related": [
+      { "en": "revitalize", "ja": "再活性化する" },
+      { "en": "regeneration", "ja": "再生" },
+      { "en": "renewal", "ja": "再生・更新" },
+      { "en": "revival", "ja": "復活" }
+    ],
+    "faq": [
+      { "q": "revitalization とはどんな意味？", "a": "衰えた地域・経済・文化などに再び活気・生命力を与えること『再活性化・再生』のことです。urban revitalization（都市の再活性化）のように使います。動詞は revitalize です。" },
+      { "q": "revitalization と regeneration の違いは？", "a": "ほぼ同じですが、revitalization は『（活気・生命力を）取り戻させる再活性化』、regeneration は『（失われたものが）再びつくられる再生』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The plan aims at the ___ of downtown.（再活性化）", "A": "revitalization", "B": "realization の実現", "C": "civilization の文明", "D": "visualization の視覚化", "correct": "A" },
+      { "q": "revitalization の語根 vita の意味はどれ？", "A": "生命", "B": "都市", "C": "速さ", "D": "力", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reconsideration",
+    "pron": "ˌriːkənsɪdəˈreɪʃən",
+    "kana": "リコンシダレーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ consideration（熟慮）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "再考・考え直し・見直し",
+    "description": "reconsideration の意味・発音・例文・語源を解説。決定や考えを改めて考え直す「再考・考え直し・見直し」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["reconsideration 意味", "reconsideration 発音", "再考", "reconsider 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再考・考え直し・見直し", "note": "いったん決めたことを改めて考えること。on reconsideration（考え直してみると）。動詞は reconsider。" }
+    ],
+    "usages": [
+      { "title": "① 「再考」として", "desc": "決定を考え直すことを表します。", "example_en": "The decision is open to reconsideration.", "example_ja": "その決定は再考の余地がある。" },
+      { "title": "② 「見直し」として", "desc": "改めて考えることを表します。", "example_en": "We urge reconsideration of the policy.", "example_ja": "私たちはその方針の見直しを強く求める。" }
+    ],
+    "warn": [
+      "reconsideration は『再考・考え直し・見直し』。re-（再び）＋ consideration（熟慮）。動詞は reconsider。",
+      "on reconsideration（考え直してみると）、open to reconsideration（再考の余地がある）が頻出。"
+    ],
+    "etym_note": "re-（再び）＋ consideration（熟慮、considerare「よく見る・考える」より）から成り、「もう一度よく考えること」を意味します。consider（考える）と同じ語根です。",
+    "etym_chain": [
+      { "node": "considerare", "sub": "よく見る・考える", "era": "ラテン語" },
+      { "node": "consideration", "sub": "熟慮", "era": "中英語" },
+      { "node": "reconsideration", "sub": "再考", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "on reconsideration", "ja": "考え直してみると" },
+      { "en": "open to reconsideration", "ja": "再考の余地がある" },
+      { "en": "urge reconsideration", "ja": "再考を求める" },
+      { "en": "a request for reconsideration", "ja": "再考の要請" },
+      { "en": "after careful reconsideration", "ja": "慎重な再考の末" },
+      { "en": "deserve reconsideration", "ja": "再考に値する" }
+    ],
+    "related": [
+      { "en": "reconsider", "ja": "再考する" },
+      { "en": "review", "ja": "見直し" },
+      { "en": "rethink", "ja": "考え直し" },
+      { "en": "reappraisal", "ja": "再評価" }
+    ],
+    "faq": [
+      { "q": "reconsideration とはどんな意味？", "a": "いったん決めたことや考えを改めて考え直す『再考・考え直し・見直し』のことです。on reconsideration（考え直してみると）のように使います。動詞は reconsider です。" },
+      { "q": "reconsideration と reappraisal の違いは？", "a": "reconsideration は『（決定・考えを）もう一度考え直すこと』、reappraisal は『（価値・状況を）改めて評価し直すこと』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The decision is open to ___.（再考）", "A": "reconsideration", "B": "consideration の熟慮", "C": "consolation の慰め", "D": "constellation の星座", "correct": "A" },
+      { "q": "reconsideration の動詞形はどれ？", "A": "reconsider（再考する）", "B": "consider（考える）", "C": "console（慰める）", "D": "construct（組み立てる）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "refurbishment",
+    "pron": "riːˈfɜːrbɪʃmənt",
+    "kana": "リファービッシュメント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "refurbish（一新する）＋ -ment",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "ビジネス"],
+    "meaning_main": "改装・改修・（古いものを）きれいに直して再生すること",
+    "description": "refurbishment の意味・発音・例文・語源を解説。建物や製品を「きれいに直して一新すること（改装・改修・再生）」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["refurbishment 意味", "refurbishment 発音", "改装", "refurbish 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】改装・改修・再生", "note": "古い・傷んだ建物や製品をきれいに直して新しくすること。a refurbishment of the hotel（ホテルの改装）。" }
+    ],
+    "usages": [
+      { "title": "① 建物の改装として", "desc": "きれいに直して一新することを表します。", "example_en": "The store closed for refurbishment.", "example_ja": "その店は改装のため閉まった。" },
+      { "title": "② 製品の再生として", "desc": "中古品を整備し直すことを表します。", "example_en": "Refurbishment makes used phones look new.", "example_ja": "整備し直すと中古スマホは新品同様になる。" }
+    ],
+    "warn": [
+      "refurbishment は『（建物・製品を）きれいに直して一新すること（改装・改修・再生）』。動詞は refurbish。",
+      "refurbished（整備済みの・再生品の）は中古製品の表示でよく見る。"
+    ],
+    "etym_note": "動詞 refurbish（re-「再び」＋ furbish「磨く・つや出しする」＝磨き直す）に -ment が付いた語です。furbish は古フランス語 forbir（磨く）に由来します。",
+    "etym_chain": [
+      { "node": "forbir", "sub": "磨く", "era": "古フランス語" },
+      { "node": "refurbish", "sub": "磨き直す・一新する", "era": "近代英語" },
+      { "node": "refurbishment", "sub": "改装・再生", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "closed for refurbishment", "ja": "改装のため休業" },
+      { "en": "a major refurbishment", "ja": "大規模な改修" },
+      { "en": "hotel refurbishment", "ja": "ホテルの改装" },
+      { "en": "undergo refurbishment", "ja": "改装される" },
+      { "en": "refurbishment of the building", "ja": "建物の改修" },
+      { "en": "a complete refurbishment", "ja": "全面改装" }
+    ],
+    "related": [
+      { "en": "refurbish", "ja": "一新する・磨き直す" },
+      { "en": "renovation", "ja": "改修・改装" },
+      { "en": "remodeling", "ja": "改装・模様替え" },
+      { "en": "restoration", "ja": "修復" }
+    ],
+    "faq": [
+      { "q": "refurbishment とはどんな意味？", "a": "古い・傷んだ建物や製品をきれいに直して新しくすること『改装・改修・再生』のことです。closed for refurbishment（改装のため休業）のように使います。動詞は refurbish です。" },
+      { "q": "refurbishment と renovation の違いは？", "a": "ほぼ同じですが、refurbishment は『（磨き直して）きれいに一新する』ニュアンス（製品の再生にも使う）、renovation は『（建物の）改修・改装』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The store closed for ___.（改装）", "A": "refurbishment", "B": "refreshment の軽食", "C": "refinement の洗練", "D": "reimbursement の払い戻し", "correct": "A" },
+      { "q": "refurbishment の動詞形はどれ？", "A": "refurbish（一新する）", "B": "refresh（元気にする）", "C": "refine（洗練する）", "D": "reimburse（払い戻す）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reinvestment",
+    "pron": "ˌriːɪnˈvestmənt",
+    "kana": "リインベストメント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ investment（投資）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "金融・経済"],
+    "meaning_main": "再投資（利益や資金を再び投じること）",
+    "description": "reinvestment の意味・発音・例文・語源を解説。得た利益や配当を再び事業や資産に投じる「再投資」を指す金融・経済の語の使い方を紹介します。",
+    "keywords": ["reinvestment 意味", "reinvestment 発音", "再投資", "reinvest 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再投資", "note": "得た利益・配当・資金を再び事業や資産に投じること。reinvestment of profits（利益の再投資）。" }
+    ],
+    "usages": [
+      { "title": "① 利益の再投資として", "desc": "もうけを再び投じることを表します。", "example_en": "The company relies on the reinvestment of profits.", "example_ja": "その会社は利益の再投資に頼っている。" },
+      { "title": "② 配当の再投資として", "desc": "配当を再び投資することを表します。", "example_en": "Dividend reinvestment grows your holdings.", "example_ja": "配当の再投資は保有資産を増やす。" }
+    ],
+    "warn": [
+      "reinvestment は『（利益・配当・資金の）再投資』。re-（再び）＋ investment（投資）。動詞は reinvest。",
+      "dividend reinvestment（配当再投資）はよく使う金融表現。"
+    ],
+    "etym_note": "re-（再び）＋ investment（投資、investire「衣を着せる→資金を投じる」より）から成り、「もう一度投資すること」を意味します。invest（投資する）と同じ語根です。",
+    "etym_chain": [
+      { "node": "investire", "sub": "衣を着せる・投じる", "era": "ラテン語" },
+      { "node": "investment", "sub": "投資", "era": "近代英語" },
+      { "node": "reinvestment", "sub": "再投資", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reinvestment of profits", "ja": "利益の再投資" },
+      { "en": "dividend reinvestment", "ja": "配当の再投資" },
+      { "en": "encourage reinvestment", "ja": "再投資を促す" },
+      { "en": "a reinvestment plan", "ja": "再投資計画" },
+      { "en": "automatic reinvestment", "ja": "自動再投資" },
+      { "en": "reinvestment in the business", "ja": "事業への再投資" }
+    ],
+    "related": [
+      { "en": "reinvest", "ja": "再投資する" },
+      { "en": "investment", "ja": "投資" },
+      { "en": "return", "ja": "利益・収益" },
+      { "en": "capital", "ja": "資本" }
+    ],
+    "faq": [
+      { "q": "reinvestment とはどんな意味？", "a": "得た利益・配当・資金を再び事業や資産に投じること『再投資』のことです。reinvestment of profits（利益の再投資）のように使います。動詞は reinvest です。" },
+      { "q": "dividend reinvestment とは？", "a": "受け取った配当金を引き出さずに、同じ株などに再び投資すること『配当の再投資』です。保有資産を雪だるま式に増やせます。" }
+    ],
+    "quiz": [
+      { "q": "The company relies on the ___ of profits.（再投資）", "A": "reinvestment", "B": "investment の投資", "C": "involvement の関与", "D": "improvement の改善", "correct": "A" },
+      { "q": "reinvestment の動詞形はどれ？", "A": "reinvest（再投資する）", "B": "invest（投資する）", "C": "involve（巻き込む）", "D": "improve（改善する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "relaunch",
+    "pron": "riːˈlɔːntʃ",
+    "kana": "リローンチ",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ launch（売り出す・開始する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "ビジネス"],
+    "meaning_main": "（製品・事業を）再び売り出す・刷新して再開する／再発売・リニューアル",
+    "description": "relaunch の意味・発音・例文・語源を解説。製品やサービスを「刷新して再び売り出すこと（再発売・リニューアル）」を指すビジネスの語の使い方を紹介します。",
+    "keywords": ["relaunch 意味", "relaunch 発音", "再発売", "launch 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（製品・事業を）再び売り出す・刷新して再開する", "note": "改良・刷新して再び市場に出す。relaunch the product（製品をリニューアル発売する）。" },
+      { "hinshi": "【名詞】再発売・リニューアル・再始動", "note": "a brand relaunch（ブランドの一新）。" }
+    ],
+    "usages": [
+      { "title": "① 動詞「刷新して再発売する」として", "desc": "改良して再び売り出すことを表します。", "example_en": "The company relaunched the app with new features.", "example_ja": "その会社は新機能を加えてアプリを再リリースした。" },
+      { "title": "② 名詞「リニューアル」として", "desc": "再発売・再始動を指します。", "example_en": "The brand relaunch boosted sales.", "example_ja": "ブランドの一新が売上を押し上げた。" }
+    ],
+    "warn": [
+      "relaunch は『（製品・事業を）刷新して再び売り出すこと（再発売・リニューアル）』。re-（再び）＋ launch（売り出す）。",
+      "日本語の『リニューアル（改装・一新）』に近い使い方をする。"
+    ],
+    "etym_note": "re-（再び）＋ launch（売り出す・開始する、古フランス語 lanchier「投げる」より）から成り、「もう一度世に送り出すこと」を意味します。",
+    "etym_chain": [
+      { "node": "lanchier", "sub": "投げる・放つ", "era": "古フランス語" },
+      { "node": "launch", "sub": "売り出す・開始する", "era": "中英語" },
+      { "node": "relaunch", "sub": "再び売り出す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "relaunch the product", "ja": "製品を再発売する" },
+      { "en": "a brand relaunch", "ja": "ブランドの一新" },
+      { "en": "relaunch the website", "ja": "サイトをリニューアルする" },
+      { "en": "relaunch with new features", "ja": "新機能を加えて再発売する" },
+      { "en": "a successful relaunch", "ja": "成功した再発売" },
+      { "en": "plan a relaunch", "ja": "リニューアルを計画する" }
+    ],
+    "related": [
+      { "en": "launch", "ja": "売り出す・開始する" },
+      { "en": "rebrand", "ja": "ブランドを一新する" },
+      { "en": "revamp", "ja": "刷新する" },
+      { "en": "reintroduce", "ja": "再び導入する" }
+    ],
+    "faq": [
+      { "q": "relaunch とはどんな意味？", "a": "製品やサービスを改良・刷新して『再び売り出すこと（再発売・リニューアル）』です。relaunch the product（製品をリニューアル発売する）のように使います。re-（再び）＋ launch（売り出す）から来ています。" },
+      { "q": "relaunch と launch の違いは？", "a": "launch は『（新しく）売り出す・開始する』、relaunch は『（既存のものを刷新して）再び売り出す』ことです。" }
+    ],
+    "quiz": [
+      { "q": "The company ___ed the app with new features.（再リリースした）", "A": "relaunch", "B": "release の発売する", "C": "relate の関係する", "D": "relax のくつろぐ", "correct": "A" },
+      { "q": "relaunch のもとになった語はどれ？", "A": "launch（売り出す）", "B": "lunch（昼食）", "C": "laugh（笑う）", "D": "lance（槍）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "remake",
+    "pron": "ˈriːmeɪk",
+    "kana": "リメイク",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ make（作る）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "映画・メディア"],
+    "meaning_main": "（映画などの）リメイク・作り直し／（動詞）作り直す",
+    "description": "remake の意味・発音・例文・語源を解説。古い映画や曲を新しく作り直した「リメイク」、また「作り直す」という動詞の使い方を分かりやすく紹介します。",
+    "keywords": ["remake 意味", "remake 発音", "リメイク", "remake 作り直す"],
+    "meanings": [
+      { "hinshi": "【名詞】リメイク・作り直し", "note": "古い映画・曲・作品を新しく作り直したもの。a remake of a classic film（名作映画のリメイク）。" },
+      { "hinshi": "【動詞】作り直す・改作する", "note": "もとの作品を新しく作る。活用は remake-remade-remade。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「リメイク」として", "desc": "作り直された作品を指します。", "example_en": "The movie is a remake of a 1960s classic.", "example_ja": "その映画は1960年代の名作のリメイクだ。" },
+      { "title": "② 動詞「作り直す」として", "desc": "もとの作品を新しく作ることを表します。", "example_en": "They remade the film for a new audience.", "example_ja": "彼らは新しい観客向けにその映画を作り直した。" }
+    ],
+    "warn": [
+      "remake は『（映画・曲などの）リメイク・作り直し』。動詞の活用は make と同じ remake-remade-remade。",
+      "設定を一新する reboot（リブート）とは違い、remake は元の作品をほぼなぞって作り直す。"
+    ],
+    "etym_note": "re-（再び）＋ make（作る）から成る分かりやすい語です。make は古英語 macian（作る）に由来し、「もう一度作ること」を意味します。",
+    "etym_chain": [
+      { "node": "macian", "sub": "作る", "era": "古英語" },
+      { "node": "make", "sub": "作る", "era": "中英語" },
+      { "node": "remake", "sub": "作り直す・リメイク", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a remake of", "ja": "〜のリメイク" },
+      { "en": "a Hollywood remake", "ja": "ハリウッドのリメイク版" },
+      { "en": "a faithful remake", "ja": "忠実なリメイク" },
+      { "en": "remake the film", "ja": "映画を作り直す" },
+      { "en": "a modern remake", "ja": "現代版リメイク" },
+      { "en": "a remake of the song", "ja": "曲のリメイク" }
+    ],
+    "related": [
+      { "en": "make", "ja": "作る" },
+      { "en": "reboot", "ja": "（設定一新の）作り直し" },
+      { "en": "adaptation", "ja": "翻案" },
+      { "en": "cover", "ja": "カバー（曲）" }
+    ],
+    "faq": [
+      { "q": "remake とはどんな意味？", "a": "古い映画・曲・作品を新しく作り直したもの『リメイク』、また『作り直す』という動詞です。a remake of a classic film（名作映画のリメイク）のように使います。" },
+      { "q": "remake と reboot の違いは？", "a": "remake は『元の作品をほぼなぞって作り直す』、reboot は『設定や世界観を一新して新たに始め直す』ことに重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The movie is a ___ of a 1960s classic.（リメイク）", "A": "remake", "B": "remark の発言", "C": "remind の思い出させる", "D": "remote の遠隔の", "correct": "A" },
+      { "q": "remake の過去形はどれ？", "A": "remade", "B": "remaked", "C": "remaking", "D": "remakes", "correct": "A" }
+    ]
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "english": "reintegration",
+    "pron": "ˌriːɪntɪˈɡreɪʃən",
+    "kana": "リインテグレーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ integration（統合）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "社会"],
+    "meaning_main": "（社会への）再統合・社会復帰・再び溶け込ませること",
+    "description": "reintegration の意味・発音・例文・語源を解説。元囚人・元兵士・退院患者などを再び社会に溶け込ませる「再統合・社会復帰」を指す語の使い方を紹介します。",
+    "keywords": ["reintegration 意味", "reintegration 発音", "社会復帰", "reintegrate 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】（社会への）再統合・社会復帰", "note": "離れていた人を再び社会・集団に溶け込ませること。social reintegration（社会復帰）。" }
+    ],
+    "usages": [
+      { "title": "① 社会復帰として", "desc": "再び社会に溶け込ませることを表します。", "example_en": "The program supports the reintegration of ex-offenders.", "example_ja": "そのプログラムは元犯罪者の社会復帰を支援する。" },
+      { "title": "② 再統合として", "desc": "集団に再び組み入れることを表します。", "example_en": "Reintegration into the community takes time.", "example_ja": "地域社会への再統合には時間がかかる。" }
+    ],
+    "warn": [
+      "reintegration は『（社会・集団への）再統合・社会復帰』。re-（再び）＋ integration（統合）。動詞は reintegrate。",
+      "元囚人・元兵士・退院患者・難民の『社会復帰』の文脈で頻出。"
+    ],
+    "etym_note": "re-（再び）＋ integration（統合、integrare「全体にする」より）から成り、「再び全体に組み入れること」を意味します。integrate（統合する）, integer（整数）と同じ語根です。",
+    "etym_chain": [
+      { "node": "integrare", "sub": "全体にする", "era": "ラテン語" },
+      { "node": "integration", "sub": "統合", "era": "近代英語" },
+      { "node": "reintegration", "sub": "再統合・社会復帰", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "social reintegration", "ja": "社会復帰" },
+      { "en": "the reintegration of ex-offenders", "ja": "元犯罪者の社会復帰" },
+      { "en": "reintegration into society", "ja": "社会への再統合" },
+      { "en": "support reintegration", "ja": "社会復帰を支援する" },
+      { "en": "a reintegration program", "ja": "社会復帰プログラム" },
+      { "en": "successful reintegration", "ja": "うまくいった社会復帰" }
+    ],
+    "related": [
+      { "en": "reintegrate", "ja": "再統合する・社会復帰させる" },
+      { "en": "integration", "ja": "統合" },
+      { "en": "rehabilitation", "ja": "更生・社会復帰" },
+      { "en": "inclusion", "ja": "包摂・受け入れ" }
+    ],
+    "faq": [
+      { "q": "reintegration とはどんな意味？", "a": "離れていた人（元囚人・元兵士・退院患者・難民など）を再び社会・集団に溶け込ませること『再統合・社会復帰』のことです。social reintegration（社会復帰）のように使います。動詞は reintegrate です。" },
+      { "q": "reintegration と rehabilitation の違いは？", "a": "rehabilitation は『（更生・回復の）過程・支援』全般、reintegration は特に『社会・集団に再び組み入れること』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The program supports the ___ of ex-offenders.（社会復帰）", "A": "reintegration", "B": "integration の統合", "C": "registration の登録", "D": "regeneration の再生", "correct": "A" },
+      { "q": "reintegration の動詞形はどれ？", "A": "reintegrate（再統合する）", "B": "integrate（統合する）", "C": "register（登録する）", "D": "regenerate（再生する）", "correct": "A" }
+    ]
+  }
+]

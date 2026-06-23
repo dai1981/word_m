@@ -1,0 +1,54 @@
+[
+  {
+    "english": "reassign",
+    "pron": "ˌriːəˈsaɪn",
+    "kana": "リアサイン",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ assign（割り当てる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "ビジネス"],
+    "meaning_main": "（人・仕事・役割を）再び割り当てる・配属し直す・再配置する",
+    "description": "reassign の意味・発音・例文・語源を解説。人を別の部署に「配属し直す」、仕事や役割を「割り当て直す」というビジネスの語の使い方を紹介します。",
+    "keywords": ["reassign 意味", "reassign 発音", "再配属", "assign 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再び割り当てる・配属し直す・再配置する", "note": "人・仕事・役割を別の人や場所に割り当て直す。reassign staff（人員を配属し直す）。" }
+    ],
+    "usages": [
+      { "title": "① 人の配属し直しとして", "desc": "別の部署や役割に移すことを表します。", "example_en": "She was reassigned to the marketing team.", "example_ja": "彼女はマーケティングチームに配属し直された。" },
+      { "title": "② 仕事の割り当て直しとして", "desc": "別の人に仕事を振り直すことを表します。", "example_en": "The task was reassigned to another worker.", "example_ja": "その仕事は別の作業員に割り当て直された。" }
+    ],
+    "warn": [
+      "reassign は『（人・仕事・役割を）再び割り当てる・配属し直す』。re-（再び）＋ assign（割り当てる）。名詞は reassignment。",
+      "勤務地を移す relocate、役割を変える reshuffle などとも近い。"
+    ],
+    "etym_note": "re-（再び）＋ assign（割り当てる、ラテン語 assignare「印をつけて割り当てる」より）から成り、「もう一度割り当てること」を意味します。sign（印・署名）と同じ語根です。",
+    "etym_chain": [
+      { "node": "assignare", "sub": "印をつけて割り当てる", "era": "ラテン語" },
+      { "node": "assign", "sub": "割り当てる", "era": "中英語" },
+      { "node": "reassign", "sub": "再び割り当てる・配属し直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reassign staff", "ja": "人員を配属し直す" },
+      { "en": "be reassigned to", "ja": "〜に配属し直される" },
+      { "en": "reassign the task", "ja": "仕事を割り当て直す" },
+      { "en": "reassign duties", "ja": "職務を振り直す" },
+      { "en": "reassign the case", "ja": "案件を担当替えする" },
+      { "en": "reassign resources", "ja": "資源を再配分する" }
+    ],
+    "related": [
+      { "en": "assign", "ja": "割り当てる" },
+      { "en": "reassignment", "ja": "再配属・配置換え" },
+      { "en": "transfer", "ja": "異動させる" },
+      { "en": "redeploy", "ja": "再配置する" }
+    ],
+    "faq": [
+      { "q": "reassign とはどんな意味？", "a": "人を別の部署に『配属し直す』、仕事や役割を『割り当て直す・再配置する』という動詞です。She was reassigned to the marketing team.（彼女はマーケティングチームに配属し直された）のように使います。" },
+      { "q": "reassign と transfer の違いは？", "a": "transfer は『（部署・勤務地へ）異動させる』、reassign は『（仕事・役割・人を）割り当て直す』ことに重点があります。重なる場面も多いです。" }
+    ],
+    "quiz": [
+      { "q": "She was ___ed to the marketing team.（配属し直された）", "A": "reassign", "B": "resign の辞職する", "C": "redesign の設計し直す", "D": "reassure の安心させる", "correct": "A" },
+      { "q": "reassign のもとになった語はどれ？", "A": "assign（割り当てる）", "B": "resign（辞職する）", "C": "design（設計する）", "D": "sign（署名する）の代わりに sing", "correct": "A" }
+    ]
+  }
+]

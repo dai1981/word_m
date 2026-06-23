@@ -1,0 +1,531 @@
+[
+  {
+    "english": "refocus",
+    "pron": "ˌriːˈfoʊkəs",
+    "kana": "リフォーカス",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ focus（焦点を合わせる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "焦点を合わせ直す・（注意・努力を）再び集中させる",
+    "description": "refocus の意味・発音・例文・語源を解説。カメラの「焦点を合わせ直す」、また注意や努力を「再び集中させる・方向を立て直す」という使い方を分かりやすく紹介します。",
+    "keywords": ["refocus 意味", "refocus 発音", "再び集中する", "focus 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（注意・努力を）再び集中させる・立て直す", "note": "そらした関心を再び向ける。refocus on the goal（目標に再び集中する）。" },
+      { "hinshi": "【動詞】（カメラ・レンズの）焦点を合わせ直す", "note": "ピントを取り直す。" }
+    ],
+    "usages": [
+      { "title": "① 「再び集中させる」として", "desc": "注意や努力を改めて向けることを表します。", "example_en": "We need to refocus our efforts on quality.", "example_ja": "私たちは品質に努力を再び集中させる必要がある。" },
+      { "title": "② 「焦点を合わせ直す」として", "desc": "カメラのピントを取り直すことを表します。", "example_en": "She refocused the camera on the runner.", "example_ja": "彼女はカメラのピントを走者に合わせ直した。" }
+    ],
+    "warn": [
+      "refocus は『（注意・努力を）再び集中させる・立て直す』が日常で頻出。re-（再び）＋ focus（焦点）。",
+      "refocus on ～（～に再び集中する）の形が多い。"
+    ],
+    "etym_note": "re-（再び）＋ focus（焦点、ラテン語 focus「炉・かまど」より）から成り、「再び焦点を合わせること」を意味します。focus はもと「光が集まる点」の意味です。",
+    "etym_chain": [
+      { "node": "focus", "sub": "炉・焦点", "era": "ラテン語" },
+      { "node": "focus", "sub": "焦点を合わせる", "era": "近代英語" },
+      { "node": "refocus", "sub": "焦点を合わせ直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "refocus on the goal", "ja": "目標に再び集中する" },
+      { "en": "refocus our efforts", "ja": "努力を立て直す" },
+      { "en": "refocus attention", "ja": "注意を再び向ける" },
+      { "en": "refocus the camera", "ja": "カメラのピントを合わせ直す" },
+      { "en": "refocus the strategy", "ja": "戦略を立て直す" },
+      { "en": "refocus your energy", "ja": "エネルギーを再び注ぐ" }
+    ],
+    "related": [
+      { "en": "focus", "ja": "焦点を合わせる" },
+      { "en": "concentrate", "ja": "集中する" },
+      { "en": "redirect", "ja": "方向を変える" },
+      { "en": "realign", "ja": "再調整する" }
+    ],
+    "faq": [
+      { "q": "refocus とはどんな意味？", "a": "注意や努力を『再び集中させる・立て直す』という意味と、カメラの『焦点を合わせ直す』という意味があります。refocus on the goal（目標に再び集中する）のように使います。" },
+      { "q": "refocus on の使い方は？", "a": "『～に再び集中する』という意味で、Let's refocus on the main issue.（本題に再び集中しよう）のように on のあとに対象を置きます。" }
+    ],
+    "quiz": [
+      { "q": "We need to ___ our efforts on quality.（再び集中させる）", "A": "refocus", "B": "focus の最初の集中", "C": "refuse の拒む", "D": "refund の払い戻す", "correct": "A" },
+      { "q": "refocus のもとになった語はどれ？", "A": "focus（焦点）", "B": "refuse（拒む）", "C": "refund（返金）", "D": "fuss（騒ぎ）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "regroup",
+    "pron": "ˌriːˈɡruːp",
+    "kana": "リグループ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ group（集める・群れ）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "態勢を立て直す・再び集まる／再編成する",
+    "description": "regroup の意味・発音・例文・語源を解説。一度ばらけた人が「再び集まる」、また失敗のあとに「態勢を立て直す」という使い方を分かりやすく紹介します。",
+    "keywords": ["regroup 意味", "regroup 発音", "態勢を立て直す", "group 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】態勢を立て直す・気を取り直す", "note": "失敗・混乱のあとに体勢を整え直す。Let's regroup and try again.（態勢を立て直して再挑戦しよう）。" },
+      { "hinshi": "【動詞】再び集まる・再編成する", "note": "ばらけた人・部隊が再びまとまる。" }
+    ],
+    "usages": [
+      { "title": "① 「態勢を立て直す」として", "desc": "失敗のあと気持ちや体勢を整え直すことを表します。", "example_en": "After the loss, the team needed to regroup.", "example_ja": "敗北のあと、チームは態勢を立て直す必要があった。" },
+      { "title": "② 「再び集まる」として", "desc": "一度ばらけた人々が再び集合することを表します。", "example_en": "Let's regroup at the entrance in an hour.", "example_ja": "1時間後に入口で再集合しよう。" }
+    ],
+    "warn": [
+      "regroup は『態勢を立て直す』『再び集まる』の両方。日常では『気を取り直す』の意味でよく使う。re-（再び）＋ group。",
+      "Let's regroup.（仕切り直そう・また集まろう）は会話で頻出。"
+    ],
+    "etym_note": "re-（再び）＋ group（群れ・集める、フランス語 groupe より）から成り、「再びまとまること」を意味します。もとはイタリア語 gruppo（かたまり）に由来します。",
+    "etym_chain": [
+      { "node": "gruppo", "sub": "かたまり", "era": "イタリア語" },
+      { "node": "group", "sub": "群れ・集める", "era": "近代英語" },
+      { "node": "regroup", "sub": "態勢を立て直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "regroup and try again", "ja": "態勢を立て直して再挑戦する" },
+      { "en": "take time to regroup", "ja": "立て直す時間を取る" },
+      { "en": "let's regroup", "ja": "仕切り直そう・また集まろう" },
+      { "en": "regroup the team", "ja": "チームを再編成する" },
+      { "en": "stop and regroup", "ja": "いったん止まって立て直す" },
+      { "en": "regroup at the gate", "ja": "ゲートで再集合する" }
+    ],
+    "related": [
+      { "en": "group", "ja": "集める・群れ" },
+      { "en": "reorganize", "ja": "再編成する" },
+      { "en": "recover", "ja": "立ち直る" },
+      { "en": "reassemble", "ja": "再び集める" }
+    ],
+    "faq": [
+      { "q": "regroup とはどんな意味？", "a": "失敗や混乱のあとに『態勢を立て直す・気を取り直す』という意味と、ばらけた人が『再び集まる』という意味があります。Let's regroup and try again.（態勢を立て直して再挑戦しよう）のように使います。" },
+      { "q": "Let's regroup. はどんな時に使う？", "a": "『いったん仕切り直そう』『また集まろう』という意味で、議論が行き詰まったときや、別行動のあと再集合するときに使います。" }
+    ],
+    "quiz": [
+      { "q": "After the loss, the team needed to ___.（態勢を立て直す）", "A": "regroup", "B": "group の集める", "C": "regret の後悔する", "D": "regard の見なす", "correct": "A" },
+      { "q": "regroup の意味として正しいのは？", "A": "態勢を立て直す・再び集まる", "B": "後悔する", "C": "見なす", "D": "規制する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reinstall",
+    "pron": "ˌriːɪnˈstɔːl",
+    "kana": "リインストール",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ install（設置する・導入する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "IT・日常"],
+    "meaning_main": "再インストールする・（機器を）再び取り付ける",
+    "description": "reinstall の意味・発音・例文・語源を解説。ソフトを「再インストールする」、また設備を「再び取り付ける」という、ITや日常で使う語の使い方を分かりやすく紹介します。",
+    "keywords": ["reinstall 意味", "reinstall 発音", "再インストール", "install 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（ソフト・アプリを）再インストールする", "note": "一度削除したものを再び入れ直す。reinstall the app（アプリを入れ直す）。" },
+      { "hinshi": "【動詞】（機器・設備を）再び取り付ける・据え付け直す", "note": "外したものを再び設置する。" }
+    ],
+    "usages": [
+      { "title": "① ソフトの「再インストール」として", "desc": "削除したアプリを入れ直すことを表します。", "example_en": "Try reinstalling the app to fix the bug.", "example_ja": "不具合を直すにはアプリを再インストールしてみて。" },
+      { "title": "② 機器の「再設置」として", "desc": "外した設備を取り付け直すことを表します。", "example_en": "The engineers reinstalled the pump.", "example_ja": "技術者たちはポンプを取り付け直した。" }
+    ],
+    "warn": [
+      "reinstall は IT では『再インストール』、機器では『取り付け直す』。re-（再び）＋ install（設置・導入する）。",
+      "名詞は reinstallation（再インストール・再設置）。"
+    ],
+    "etym_note": "re-（再び）＋ install（設置する、中世ラテン語 installare「席に着かせる」より）から成り、「再び据え付けること」を意味します。stall（仕切り・場所）と同じ語根です。",
+    "etym_chain": [
+      { "node": "installare", "sub": "席に着かせる", "era": "中世ラテン語" },
+      { "node": "install", "sub": "設置する・導入する", "era": "近代英語" },
+      { "node": "reinstall", "sub": "再インストールする", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reinstall the app", "ja": "アプリを再インストールする" },
+      { "en": "reinstall the software", "ja": "ソフトを入れ直す" },
+      { "en": "reinstall the operating system", "ja": "OSを再インストールする" },
+      { "en": "reinstall the driver", "ja": "ドライバーを入れ直す" },
+      { "en": "reinstall the pump", "ja": "ポンプを取り付け直す" },
+      { "en": "a clean reinstall", "ja": "クリーンな再インストール" }
+    ],
+    "related": [
+      { "en": "install", "ja": "設置する・導入する" },
+      { "en": "uninstall", "ja": "アンインストールする" },
+      { "en": "reinstallation", "ja": "再インストール" },
+      { "en": "update", "ja": "更新する" }
+    ],
+    "faq": [
+      { "q": "reinstall とはどんな意味？", "a": "ソフトやアプリを『再インストールする』、また機器を『取り付け直す』という意味です。Try reinstalling the app.（アプリを再インストールしてみて）のように使います。" },
+      { "q": "reinstall と uninstall の違いは？", "a": "uninstall は『（ソフトを）削除する・取り除く』、reinstall は『（削除したものを）もう一度入れる』です。不具合の解決でよく『uninstall してから reinstall する』と言います。" }
+    ],
+    "quiz": [
+      { "q": "Try ___ing the app to fix the bug.（再インストールする）", "A": "reinstall", "B": "install の最初の導入", "C": "uninstall の削除する", "D": "instill の植え付ける", "correct": "A" },
+      { "q": "reinstall の反対の意味に近いのはどれ？", "A": "uninstall（削除する）", "B": "install（導入する）", "C": "instill（植え付ける）", "D": "instal の設置", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reinvest",
+    "pron": "ˌriːɪnˈvest",
+    "kana": "リインベスト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ invest（投資する）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "ビジネス・金融"],
+    "meaning_main": "再投資する・（利益などを）再び投じる",
+    "description": "reinvest の意味・発音・例文・語源を解説。利益や配当を「再投資する」、また時間や労力を「再び注ぎ込む」という、金融・ビジネスで使う語を分かりやすく紹介します。",
+    "keywords": ["reinvest 意味", "reinvest 発音", "再投資", "invest 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（利益・配当を）再投資する", "note": "得た利益を再び事業や資産に投じる。reinvest profits（利益を再投資する）。" },
+      { "hinshi": "【動詞】（時間・労力を）再び注ぎ込む", "note": "得たものを改めて投入する。" }
+    ],
+    "usages": [
+      { "title": "① 「再投資する」として", "desc": "利益を再び投じることを表します。", "example_en": "They reinvested the profits in new equipment.", "example_ja": "彼らは利益を新しい設備に再投資した。" },
+      { "title": "② 「再び注ぎ込む」として", "desc": "労力などを改めて投入することを表します。", "example_en": "She reinvested her energy into the project.", "example_ja": "彼女はそのプロジェクトに再びエネルギーを注いだ。" }
+    ],
+    "warn": [
+      "reinvest は『（利益・配当を）再投資する』が中心。re-（再び）＋ invest（投資する）。名詞は reinvestment。",
+      "reinvest A in B（AをBに再投資する）の形が多い。"
+    ],
+    "etym_note": "re-（再び）＋ invest（投資する、ラテン語 investire「衣を着せる」より）から成り、「再び資金を投じること」を意味します。vest（衣服・与える）と同じ語根です。",
+    "etym_chain": [
+      { "node": "investire", "sub": "衣を着せる", "era": "ラテン語" },
+      { "node": "invest", "sub": "投資する", "era": "近代英語" },
+      { "node": "reinvest", "sub": "再投資する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reinvest the profits", "ja": "利益を再投資する" },
+      { "en": "reinvest dividends", "ja": "配当を再投資する" },
+      { "en": "reinvest in the business", "ja": "事業に再投資する" },
+      { "en": "reinvest the proceeds", "ja": "収益を再投資する" },
+      { "en": "reinvest in equipment", "ja": "設備に再投資する" },
+      { "en": "a reinvestment plan", "ja": "再投資計画" }
+    ],
+    "related": [
+      { "en": "invest", "ja": "投資する" },
+      { "en": "reinvestment", "ja": "再投資" },
+      { "en": "divest", "ja": "（資産を）手放す" },
+      { "en": "plow back", "ja": "（利益を）再投資する" }
+    ],
+    "faq": [
+      { "q": "reinvest とはどんな意味？", "a": "得た利益や配当を『再投資する・再び投じる』という意味です。They reinvested the profits in new equipment.（利益を新しい設備に再投資した）のように使います。名詞は reinvestment です。" },
+      { "q": "reinvest の反対語は？", "a": "divest（資産・株を手放す・売却する）が近い反対語です。invest（投資する）⇔ divest（投資を引き揚げる）、reinvest（再投資する）の関係です。" }
+    ],
+    "quiz": [
+      { "q": "They ___ed the profits in new equipment.（再投資した）", "A": "reinvest", "B": "invest の最初の投資", "C": "request の要求する", "D": "reinvent の発明し直す", "correct": "A" },
+      { "q": "reinvest のもとになった語はどれ？", "A": "invest（投資する）", "B": "request（要求）", "C": "interest（利子）", "D": "invent（発明する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rejoin",
+    "pron": "ˌriːˈdʒɔɪn",
+    "kana": "リジョイン",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ join（加わる・つなぐ）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "再び加わる・復帰する／再び結合する",
+    "description": "rejoin の意味・発音・例文・語源を解説。一度離れた団体に「再び加わる・復帰する」、また離れた人と「再び合流する」という使い方を分かりやすく紹介します。",
+    "keywords": ["rejoin 意味", "rejoin 発音", "再び加わる", "join 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（団体・組織に）再び加わる・復帰する", "note": "一度抜けたところに戻る。rejoin the team（チームに復帰する）。" },
+      { "hinshi": "【動詞】（離れた人・物と）再び合流する・結合する", "note": "別れていたものが再びつながる。rejoin the others（仲間と再び合流する）。" }
+    ],
+    "usages": [
+      { "title": "① 「復帰する」として", "desc": "一度抜けた組織に戻ることを表します。", "example_en": "He rejoined the company after a year abroad.", "example_ja": "彼は1年の海外生活のあと会社に復帰した。" },
+      { "title": "② 「再び合流する」として", "desc": "離れていた人と再び一緒になることを表します。", "example_en": "We rejoined the group at the station.", "example_ja": "私たちは駅でグループと再合流した。" }
+    ],
+    "warn": [
+      "rejoin は『（組織に）再び加わる・復帰する』『再び合流する』。re-（再び）＋ join。",
+      "「言い返す・反論する」という別語義（古風・文語）もあるが、現代では復帰・合流が中心。"
+    ],
+    "etym_note": "re-（再び）＋ join（つなぐ、ラテン語 jungere「結びつける」より）から成り、「再び結びつくこと」を意味します。junction（接合点）, joint（継ぎ目）と同じ語根です。",
+    "etym_chain": [
+      { "node": "jungere", "sub": "結びつける", "era": "ラテン語" },
+      { "node": "join", "sub": "加わる・つなぐ", "era": "中英語" },
+      { "node": "rejoin", "sub": "再び加わる・復帰する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rejoin the team", "ja": "チームに復帰する" },
+      { "en": "rejoin the company", "ja": "会社に復帰する" },
+      { "en": "rejoin the group", "ja": "グループと再合流する" },
+      { "en": "rejoin the others", "ja": "仲間と再び合流する" },
+      { "en": "rejoin the workforce", "ja": "職場に復帰する" },
+      { "en": "rejoin the road", "ja": "（道に）再び合流する" }
+    ],
+    "related": [
+      { "en": "join", "ja": "加わる・つなぐ" },
+      { "en": "reunite", "ja": "再会させる・再結合する" },
+      { "en": "return", "ja": "戻る" },
+      { "en": "leave", "ja": "離れる（反対）" }
+    ],
+    "faq": [
+      { "q": "rejoin とはどんな意味？", "a": "一度離れた団体に『再び加わる・復帰する』、また離れた人と『再び合流する』という意味です。He rejoined the company.（彼は会社に復帰した）のように使います。" },
+      { "q": "rejoin と return の違いは？", "a": "return は『（場所・状態に）戻る』全般を表し、rejoin は『（組織・グループに）再び加わる・合流する』という、加わる対象がある点が特徴です。" }
+    ],
+    "quiz": [
+      { "q": "He ___ed the company after a year abroad.（復帰した）", "A": "rejoin", "B": "join の最初に加わる", "C": "enjoy の楽しむ", "D": "reject の拒絶する", "correct": "A" },
+      { "q": "rejoin のもとになった語はどれ？", "A": "join（加わる）", "B": "enjoy（楽しむ）", "C": "reject（拒絶する）", "D": "joint の継ぎ目だけ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rekindle",
+    "pron": "ˌriːˈkɪndl",
+    "kana": "リキンドル",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ kindle（火をつける・かき立てる）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "比喩表現"],
+    "meaning_main": "（感情・関係を）再びかき立てる・よみがえらせる／再び燃え立たせる",
+    "description": "rekindle の意味・発音・例文・語源を解説。冷めた情熱や関係を「再びかき立てる・よみがえらせる」という、比喩でよく使う語を分かりやすく紹介します。",
+    "keywords": ["rekindle 意味", "rekindle 発音", "再びかき立てる", "kindle 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（感情・興味・関係を）再びかき立てる・よみがえらせる", "note": "冷めた気持ちを再び燃え立たせる。rekindle a romance（恋を再燃させる）。" },
+      { "hinshi": "【動詞】（火を）再び燃え立たせる", "note": "消えかけた火を再びおこす（本来の意味）。" }
+    ],
+    "usages": [
+      { "title": "① 「再びかき立てる」として", "desc": "冷めた感情や関心をよみがえらせることを表します。", "example_en": "The trip rekindled her love of painting.", "example_ja": "その旅行は彼女の絵への愛をよみがえらせた。" },
+      { "title": "② 「再燃させる」として", "desc": "関係や火を再び燃え立たせることを表します。", "example_en": "They rekindled their friendship after years apart.", "example_ja": "彼らは何年も離れたあと友情を再燃させた。" }
+    ],
+    "warn": [
+      "rekindle は『（感情・関係を）再びかき立てる・よみがえらせる』が中心。比喩でよく使う。re-（再び）＋ kindle（火をつける）。",
+      "rekindle a romance / friendship / interest / passion（恋・友情・関心・情熱を再燃させる）が頻出。"
+    ],
+    "etym_note": "re-（再び）＋ kindle（火をつける、古ノルド語 kynda「火をおこす」より）から成り、「再び火を燃え立たせること」を意味します。比喩で感情にも使います。",
+    "etym_chain": [
+      { "node": "kynda", "sub": "火をおこす", "era": "古ノルド語" },
+      { "node": "kindle", "sub": "火をつける・かき立てる", "era": "中英語" },
+      { "node": "rekindle", "sub": "再びかき立てる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rekindle a romance", "ja": "恋を再燃させる" },
+      { "en": "rekindle their friendship", "ja": "友情を再燃させる" },
+      { "en": "rekindle interest", "ja": "関心を再びかき立てる" },
+      { "en": "rekindle a passion", "ja": "情熱を再び燃え立たせる" },
+      { "en": "rekindle hope", "ja": "希望をよみがえらせる" },
+      { "en": "rekindle the flame", "ja": "炎を再び燃え立たせる" }
+    ],
+    "related": [
+      { "en": "kindle", "ja": "火をつける・かき立てる" },
+      { "en": "reignite", "ja": "再び燃え立たせる" },
+      { "en": "reawaken", "ja": "再びよみがえらせる" },
+      { "en": "revive", "ja": "よみがえらせる" }
+    ],
+    "faq": [
+      { "q": "rekindle とはどんな意味？", "a": "冷めた感情・興味・関係を『再びかき立てる・よみがえらせる』という意味です。もとは『火を再び燃え立たせる』で、The trip rekindled her love of painting.（旅行が絵への愛をよみがえらせた）のように比喩で使います。" },
+      { "q": "rekindle と reignite の違いは？", "a": "どちらも『再び燃え立たせる』ですが、rekindle は『（じわじわと）感情・関係をよみがえらせる』、reignite は『（一気に）火や論争などを再燃させる』ニュアンスがあります。" }
+    ],
+    "quiz": [
+      { "q": "The trip ___d her love of painting.（よみがえらせた）", "A": "rekindle", "B": "kindle の最初に火をつける", "C": "handle の扱う", "D": "dwindle の徐々に減る", "correct": "A" },
+      { "q": "rekindle のもとになった語はどれ？", "A": "kindle（火をつける）", "B": "handle（扱う）", "C": "candle（ろうそく）", "D": "dwindle（減る）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reexamine",
+    "pron": "ˌriːɪɡˈzæmɪn",
+    "kana": "リイグザミン",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ examine（調べる）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "やや硬い語"],
+    "meaning_main": "再検討する・改めて調べ直す",
+    "description": "reexamine の意味・発音・例文・語源を解説。証拠や考えを「再検討する・改めて調べ直す」という、議論や研究で使う語を分かりやすく紹介します。",
+    "keywords": ["reexamine 意味", "reexamine 発音", "再検討する", "examine 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再検討する・改めて調べ直す", "note": "一度調べたものをもう一度詳しく調べる。reexamine the evidence（証拠を再検討する）。re-examine とも書く。" }
+    ],
+    "usages": [
+      { "title": "① 「再検討する」として", "desc": "考えや方針を改めて見直すことを表します。", "example_en": "We need to reexamine our assumptions.", "example_ja": "私たちは前提を再検討する必要がある。" },
+      { "title": "② 「調べ直す」として", "desc": "証拠やデータを改めて調べることを表します。", "example_en": "The scientists reexamined the data.", "example_ja": "科学者たちはそのデータを調べ直した。" }
+    ],
+    "warn": [
+      "reexamine は『再検討する・改めて調べ直す』。re-（再び）＋ examine（調べる）。re-examine とハイフン付きでも書く。",
+      "名詞は reexamination（再検討・再審査）。"
+    ],
+    "etym_note": "re-（再び）＋ examine（調べる、ラテン語 examinare「天秤で量る・吟味する」より）から成り、「再び詳しく調べること」を意味します。examination（試験・検査）と同じ語根です。",
+    "etym_chain": [
+      { "node": "examinare", "sub": "吟味する", "era": "ラテン語" },
+      { "node": "examine", "sub": "調べる", "era": "中英語" },
+      { "node": "reexamine", "sub": "再検討する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reexamine the evidence", "ja": "証拠を再検討する" },
+      { "en": "reexamine the data", "ja": "データを調べ直す" },
+      { "en": "reexamine our assumptions", "ja": "前提を再検討する" },
+      { "en": "reexamine the issue", "ja": "問題を見直す" },
+      { "en": "reexamine the policy", "ja": "方針を再検討する" },
+      { "en": "carefully reexamine", "ja": "注意深く調べ直す" }
+    ],
+    "related": [
+      { "en": "examine", "ja": "調べる" },
+      { "en": "reconsider", "ja": "再考する" },
+      { "en": "review", "ja": "見直す" },
+      { "en": "reassess", "ja": "再評価する" }
+    ],
+    "faq": [
+      { "q": "reexamine とはどんな意味？", "a": "一度調べたものを『再検討する・改めて調べ直す』という意味です。We need to reexamine our assumptions.（前提を再検討する必要がある）のように使います。re-examine とも書きます。" },
+      { "q": "reexamine と reconsider の違いは？", "a": "reconsider は『（決定・考えを）考え直す』、reexamine は『（証拠・事実を）詳しく調べ直す』点に重点があります。検証・分析が必要なときは reexamine がよく合います。" }
+    ],
+    "quiz": [
+      { "q": "We need to ___ our assumptions.（再検討する）", "A": "reexamine", "B": "examine の最初に調べる", "C": "examiner の試験官", "D": "example の例", "correct": "A" },
+      { "q": "reexamine のもとになった語はどれ？", "A": "examine（調べる）", "B": "example（例）", "C": "exam の試験だけ", "D": "explain（説明する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "redistribute",
+    "pron": "ˌriːdɪˈstrɪbjuːt",
+    "kana": "リディストリビュート",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ distribute（分配する）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "経済・社会"],
+    "meaning_main": "再分配する・配り直す",
+    "description": "redistribute の意味・発音・例文・語源を解説。富や資源を「再分配する」、また仕事を「割り振り直す」という、経済・社会で使う語を分かりやすく紹介します。",
+    "keywords": ["redistribute 意味", "redistribute 発音", "再分配する", "distribute 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（富・資源を）再分配する", "note": "いったん配ったものをもう一度公平に配り直す。redistribute wealth（富を再分配する）。" },
+      { "hinshi": "【動詞】（仕事・重さを）割り振り直す・配置し直す", "note": "負担などを改めて分ける。" }
+    ],
+    "usages": [
+      { "title": "① 「富を再分配する」として", "desc": "資源を改めて公平に配ることを表します。", "example_en": "The policy aims to redistribute wealth.", "example_ja": "その政策は富の再分配を目指している。" },
+      { "title": "② 「割り振り直す」として", "desc": "仕事や重さを改めて分けることを表します。", "example_en": "We redistributed the workload among the team.", "example_ja": "私たちはチーム内で仕事量を割り振り直した。" }
+    ],
+    "warn": [
+      "redistribute は『再分配する・配り直す』。re-（再び）＋ distribute（分配する）。名詞は redistribution。",
+      "経済では『富の再分配（redistribution of wealth）』が頻出テーマ。"
+    ],
+    "etym_note": "re-（再び）＋ distribute（分配する、ラテン語 distribuere「分け与える」より）から成り、「再び分け与えること」を意味します。tribute（貢ぎ物）, contribute（貢献する）と同じ語根です。",
+    "etym_chain": [
+      { "node": "distribuere", "sub": "分け与える", "era": "ラテン語" },
+      { "node": "distribute", "sub": "分配する", "era": "中英語" },
+      { "node": "redistribute", "sub": "再分配する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "redistribute wealth", "ja": "富を再分配する" },
+      { "en": "redistribute resources", "ja": "資源を再分配する" },
+      { "en": "redistribute the workload", "ja": "仕事量を割り振り直す" },
+      { "en": "redistribute land", "ja": "土地を再分配する" },
+      { "en": "redistribute income", "ja": "所得を再分配する" },
+      { "en": "redistribute the weight", "ja": "重さを分散し直す" }
+    ],
+    "related": [
+      { "en": "distribute", "ja": "分配する" },
+      { "en": "redistribution", "ja": "再分配" },
+      { "en": "reallocate", "ja": "再配分する" },
+      { "en": "share", "ja": "分け合う" }
+    ],
+    "faq": [
+      { "q": "redistribute とはどんな意味？", "a": "いったん配ったものを『再分配する・配り直す』という意味です。富や資源、仕事量などに使い、The policy aims to redistribute wealth.（富の再分配を目指す）のように使います。名詞は redistribution です。" },
+      { "q": "redistribute と reallocate の違いは？", "a": "どちらも『配り直す』ですが、redistribute は『（広く公平に）分け直す』、reallocate は『（用途・割り当てを）配分し直す』点に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The policy aims to ___ wealth.（再分配する）", "A": "redistribute", "B": "distribute の最初に分配する", "C": "disturb の邪魔する", "D": "contribute の貢献する", "correct": "A" },
+      { "q": "redistribute のもとになった語はどれ？", "A": "distribute（分配する）", "B": "disturb（邪魔する）", "C": "describe（描写する）", "D": "destroy（破壊する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "relight",
+    "pron": "ˌriːˈlaɪt",
+    "kana": "リライト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ light（火をつける・明かりをつける）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "日常語"],
+    "meaning_main": "再び火をつける・明かりをつけ直す",
+    "description": "relight の意味・発音・例文・語源を解説。消えたろうそくや火を「再び火をつける」、また明かりを「つけ直す」という日常語を分かりやすく紹介します。",
+    "keywords": ["relight 意味", "relight 発音", "再び火をつける", "light 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（消えた火・ろうそくに）再び火をつける", "note": "消えたものをもう一度燃やす。relight the candle（ろうそくに火をつけ直す）。" },
+      { "hinshi": "【動詞】（明かりを）つけ直す・再び照らす", "note": "消えた明かりをもう一度ともす。" }
+    ],
+    "usages": [
+      { "title": "① 「火をつけ直す」として", "desc": "消えた火を再びおこすことを表します。", "example_en": "He relit the candle after the wind blew it out.", "example_ja": "風で消えたあと、彼はろうそくに火をつけ直した。" },
+      { "title": "② 「明かりをつけ直す」として", "desc": "消えた明かりを再びともすことを表します。", "example_en": "She relit the lamp in the dark room.", "example_ja": "彼女は暗い部屋でランプをつけ直した。" }
+    ],
+    "warn": [
+      "relight は『再び火をつける・明かりをつけ直す』。re-（再び）＋ light（火・明かりをつける）。",
+      "過去形・過去分詞は relit（または relighted）。"
+    ],
+    "etym_note": "re-（再び）＋ light（火・明かりをつける、古英語 lēoht「光」より）から成り、「再び火や明かりをともすこと」を意味します。比喩で『情熱を再びともす』にも使えます。",
+    "etym_chain": [
+      { "node": "lēoht", "sub": "光", "era": "古英語" },
+      { "node": "light", "sub": "火・明かりをつける", "era": "中英語" },
+      { "node": "relight", "sub": "再び火をつける", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "relight the candle", "ja": "ろうそくに火をつけ直す" },
+      { "en": "relight the fire", "ja": "火をおこし直す" },
+      { "en": "relight the stove", "ja": "コンロをつけ直す" },
+      { "en": "relight the lamp", "ja": "ランプをつけ直す" },
+      { "en": "relight a cigarette", "ja": "タバコに火をつけ直す" },
+      { "en": "relight the pilot light", "ja": "種火をつけ直す" }
+    ],
+    "related": [
+      { "en": "light", "ja": "火・明かりをつける" },
+      { "en": "ignite", "ja": "点火する" },
+      { "en": "rekindle", "ja": "再び燃え立たせる" },
+      { "en": "extinguish", "ja": "消す（反対）" }
+    ],
+    "faq": [
+      { "q": "relight とはどんな意味？", "a": "消えた火やろうそくに『再び火をつける』、また明かりを『つけ直す』という意味です。He relit the candle.（ろうそくに火をつけ直した）のように使います。過去形は relit です。" },
+      { "q": "relight の過去形は？", "a": "relit（リット）です。relighted も使われますが、relit のほうが一般的です。light → lit と同じ変化です。" }
+    ],
+    "quiz": [
+      { "q": "He ___ the candle after the wind blew it out.（火をつけ直した）", "A": "relit", "B": "light の最初につける", "C": "delight の喜ばせる", "D": "slight のわずかな", "correct": "A" },
+      { "q": "relight のもとになった語はどれ？", "A": "light（火・明かりをつける）", "B": "delight（喜び）", "C": "flight（飛行）", "D": "slight（わずかな）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "remap",
+    "pron": "ˌriːˈmæp",
+    "kana": "リマップ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ map（地図を作る・割り当てる）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "IT・専門"],
+    "meaning_main": "地図を描き直す・（キー・対応を）割り当て直す",
+    "description": "remap の意味・発音・例文・語源を解説。地図を「描き直す」、またITでキーや対応を「割り当て直す」という使い方を分かりやすく紹介します。",
+    "keywords": ["remap 意味", "remap 発音", "割り当て直す", "map 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（キー・データの対応を）割り当て直す", "note": "ITで、キーや値の対応関係を変更する。remap the keys（キーを割り当て直す）。" },
+      { "hinshi": "【動詞】地図を描き直す・改めて図示する", "note": "区域や経路を新しく地図化する。" }
+    ],
+    "usages": [
+      { "title": "① 「割り当て直す」として", "desc": "ITでキーや対応を変更することを表します。", "example_en": "You can remap the keyboard shortcuts.", "example_ja": "キーボードのショートカットを割り当て直せる。" },
+      { "title": "② 「地図を描き直す」として", "desc": "区域や経路を新しく図示することを表します。", "example_en": "The team remapped the entire region.", "example_ja": "チームはその地域全体を地図化し直した。" }
+    ],
+    "warn": [
+      "remap は IT では『（キー・対応を）割り当て直す』が頻出。地理では『地図を描き直す』。re-（再び）＋ map。",
+      "remap the keys / buttons / controls（キー・ボタン・操作を割り当て直す）が日常的。"
+    ],
+    "etym_note": "re-（再び）＋ map（地図、ラテン語 mappa「布・ナプキン」より）から成り、「再び地図化する・対応づけし直すこと」を意味します。map はもと地図を描いた布の意味です。",
+    "etym_chain": [
+      { "node": "mappa", "sub": "布・ナプキン", "era": "ラテン語" },
+      { "node": "map", "sub": "地図・割り当てる", "era": "近代英語" },
+      { "node": "remap", "sub": "割り当て直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "remap the keys", "ja": "キーを割り当て直す" },
+      { "en": "remap the buttons", "ja": "ボタンを割り当て直す" },
+      { "en": "remap the controls", "ja": "操作を割り当て直す" },
+      { "en": "remap a shortcut", "ja": "ショートカットを再設定する" },
+      { "en": "remap the region", "ja": "地域を地図化し直す" },
+      { "en": "remap memory", "ja": "メモリを再マッピングする" }
+    ],
+    "related": [
+      { "en": "map", "ja": "地図を作る・割り当てる" },
+      { "en": "reassign", "ja": "割り当て直す" },
+      { "en": "reconfigure", "ja": "再設定する" },
+      { "en": "remodel", "ja": "作り直す" }
+    ],
+    "faq": [
+      { "q": "remap とはどんな意味？", "a": "ITでキーや対応を『割り当て直す』、また地理で地図を『描き直す』という意味です。You can remap the keyboard shortcuts.（ショートカットを割り当て直せる）のように使います。" },
+      { "q": "remap はどんな場面で使う？", "a": "ゲームやソフトでキー・ボタンの配置を変えるときに『remap the keys（キーを割り当て直す）』とよく使います。地図作成や地域調査の文脈では『地図を描き直す』意味になります。" }
+    ],
+    "quiz": [
+      { "q": "You can ___ the keyboard shortcuts.（割り当て直す）", "A": "remap", "B": "map の最初に地図化する", "C": "remake の作り直す", "D": "remark の述べる", "correct": "A" },
+      { "q": "remap のもとになった語はどれ？", "A": "map（地図・割り当てる）", "B": "remark（述べる）", "C": "remind（思い出させる）", "D": "remote（遠い）", "correct": "A" }
+    ]
+  }
+]

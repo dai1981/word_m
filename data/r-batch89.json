@@ -1,0 +1,525 @@
+[
+  {
+    "english": "redeployment",
+    "pron": "ˌriːdɪˈplɔɪmənt",
+    "kana": "リディプロイメント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ deployment（配置・展開）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "ビジネス・軍事"],
+    "meaning_main": "（人員・部隊・資源の）再配置・配置転換・展開し直し",
+    "description": "redeployment の意味・発音・例文・語源を解説。人員・部隊・資源などを別の場所や役割に「再配置・配置転換すること」を指す語の使い方を紹介します。",
+    "keywords": ["redeployment 意味", "redeployment 発音", "再配置", "redeploy 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】（人員・部隊・資源の）再配置・配置転換・展開し直し", "note": "人や資源を別の場所・役割に移して配置し直すこと。troop redeployment（部隊の再配置）、staff redeployment（人員の配置転換）。" }
+    ],
+    "usages": [
+      { "title": "① 軍の再配置として", "desc": "部隊を別の場所に移すことを表します。", "example_en": "The redeployment of troops eased tensions.", "example_ja": "部隊の再配置は緊張を和らげた。" },
+      { "title": "② 人員の配置転換として", "desc": "従業員を別の役割に移すことを表します。", "example_en": "The company chose redeployment over layoffs.", "example_ja": "その会社は解雇ではなく配置転換を選んだ。" }
+    ],
+    "warn": [
+      "redeployment は『（人員・部隊・資源の）再配置・配置転換』。re-（再び）＋ deployment（配置）。動詞は redeploy。",
+      "解雇（layoff）の代わりに行う『配置転換』の意味でビジネスでも頻出。"
+    ],
+    "etym_note": "re-（再び）＋ deployment（配置・展開、deploy「展開する・配置する」より）から成り、「再び配置すること」を意味します。deploy はフランス語 déployer（広げる）に由来します。",
+    "etym_chain": [
+      { "node": "déployer", "sub": "広げる・展開する", "era": "フランス語" },
+      { "node": "deployment", "sub": "配置・展開", "era": "近代英語" },
+      { "node": "redeployment", "sub": "再配置・配置転換", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "troop redeployment", "ja": "部隊の再配置" },
+      { "en": "staff redeployment", "ja": "人員の配置転換" },
+      { "en": "the redeployment of resources", "ja": "資源の再配分" },
+      { "en": "redeployment over layoffs", "ja": "解雇よりも配置転換" },
+      { "en": "a redeployment plan", "ja": "再配置計画" },
+      { "en": "rapid redeployment", "ja": "迅速な再展開" }
+    ],
+    "related": [
+      { "en": "redeploy", "ja": "再配置する" },
+      { "en": "deployment", "ja": "配置・展開" },
+      { "en": "reassignment", "ja": "再配属" },
+      { "en": "relocation", "ja": "移転・配置換え" }
+    ],
+    "faq": [
+      { "q": "redeployment とはどんな意味？", "a": "人員・部隊・資源などを別の場所や役割に移して配置し直すこと『再配置・配置転換・展開し直し』のことです。troop redeployment（部隊の再配置）のように使います。動詞は redeploy です。" },
+      { "q": "redeployment と layoff の違いは？", "a": "layoff は『（人員の）解雇・一時解雇』、redeployment は『（解雇せず）別の部署・役割に移す配置転換』です。" }
+    ],
+    "quiz": [
+      { "q": "The ___ of troops eased tensions.（再配置）", "A": "redeployment", "B": "deployment の配置", "C": "development の発展", "D": "employment の雇用", "correct": "A" },
+      { "q": "redeployment の動詞形はどれ？", "A": "redeploy（再配置する）", "B": "deploy（配置する）", "C": "develop（発展させる）", "D": "employ（雇う）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reexamination",
+    "pron": "ˌriːɪɡˌzæmɪˈneɪʃən",
+    "kana": "リイグザミネーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ examination（検査・調査）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "再検査・再調査・再検討／（試験の）再試験",
+    "description": "reexamination の意味・発音・例文・語源を解説。証拠や事実を改めて調べる「再検査・再調査・再検討」、また「再試験」を指す語の使い方を紹介します。",
+    "keywords": ["reexamination 意味", "reexamination 発音", "再検査", "reexamine 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再検査・再調査・再検討", "note": "証拠・事実・考えを改めて調べ直すこと。a reexamination of the evidence（証拠の再検討）。" },
+      { "hinshi": "【名詞】（試験の）再試験", "note": "もう一度受ける試験。" }
+    ],
+    "usages": [
+      { "title": "① 「再検討・再調査」として", "desc": "改めて調べ直すことを表します。", "example_en": "The case calls for a reexamination of the facts.", "example_ja": "その事件は事実の再検討を必要とする。" },
+      { "title": "② 「再検査・再試験」として", "desc": "もう一度調べる・受けることを表します。", "example_en": "The patient needs a reexamination next week.", "example_ja": "その患者は来週、再検査が必要だ。" }
+    ],
+    "warn": [
+      "reexamination は『再検査・再調査・再検討』『再試験』。re-（再び）＋ examination（検査・調査・試験）。動詞は reexamine。",
+      "つづりは re-examination とハイフン付きでも書く。"
+    ],
+    "etym_note": "re-（再び）＋ examination（検査・調査、examinare「吟味する」より）から成り、「もう一度調べること」を意味します。examine（調べる）と同じ語根です。",
+    "etym_chain": [
+      { "node": "examinare", "sub": "吟味する", "era": "ラテン語" },
+      { "node": "examination", "sub": "検査・調査", "era": "中英語" },
+      { "node": "reexamination", "sub": "再検査・再検討", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a reexamination of the evidence", "ja": "証拠の再検討" },
+      { "en": "call for reexamination", "ja": "再調査を求める" },
+      { "en": "a thorough reexamination", "ja": "徹底的な再検討" },
+      { "en": "medical reexamination", "ja": "再検診" },
+      { "en": "reexamination of the facts", "ja": "事実の再検討" },
+      { "en": "undergo reexamination", "ja": "再検査を受ける" }
+    ],
+    "related": [
+      { "en": "reexamine", "ja": "再検査する・再検討する" },
+      { "en": "examination", "ja": "検査・調査・試験" },
+      { "en": "review", "ja": "見直し" },
+      { "en": "reassessment", "ja": "再評価" }
+    ],
+    "faq": [
+      { "q": "reexamination とはどんな意味？", "a": "証拠・事実・考えを改めて調べ直す『再検査・再調査・再検討』という意味と、『再試験』という意味があります。動詞は reexamine です。" },
+      { "q": "reexamination と review の違いは？", "a": "review は『見直し・批評』全般、reexamination は『（証拠・事実などを）改めて詳しく調べ直すこと』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The case calls for a ___ of the facts.（再検討）", "A": "reexamination", "B": "examination の検査", "C": "explanation の説明", "D": "exploration の探検", "correct": "A" },
+      { "q": "reexamination の動詞形はどれ？", "A": "reexamine（再検討する）", "B": "examine（調べる）", "C": "explain（説明する）", "D": "explore（探検する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "repurchase",
+    "pron": "riːˈpɜːrtʃəs",
+    "kana": "リパーチェス",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ purchase（購入する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "ビジネス・金融"],
+    "meaning_main": "買い戻す・再び購入する／（名詞）買い戻し・自社株買い",
+    "description": "repurchase の意味・発音・例文・語源を解説。一度売ったものを「買い戻す」こと、また企業の「自社株買い（buyback）」を指す語の使い方を紹介します。",
+    "keywords": ["repurchase 意味", "repurchase 発音", "買い戻し", "自社株買い"],
+    "meanings": [
+      { "hinshi": "【動詞】買い戻す・再び購入する", "note": "一度売った・買ったものをもう一度買う。repurchase shares（株を買い戻す）。" },
+      { "hinshi": "【名詞】買い戻し・自社株買い", "note": "share repurchase（自社株買い）＝企業が自社の株を買い戻すこと。" }
+    ],
+    "usages": [
+      { "title": "① 「買い戻す」として", "desc": "一度手放したものを買い戻すことを表します。", "example_en": "The company repurchased its own shares.", "example_ja": "その会社は自社株を買い戻した。" },
+      { "title": "② 名詞「買い戻し」として", "desc": "再購入・自社株買いを指します。", "example_en": "The share repurchase boosted the stock price.", "example_ja": "自社株買いは株価を押し上げた。" }
+    ],
+    "warn": [
+      "repurchase は『買い戻す・再購入する／買い戻し』。re-（再び）＋ purchase（購入）。",
+      "金融の share repurchase（自社株買い）は buyback ともいう。"
+    ],
+    "etym_note": "re-（再び）＋ purchase（購入する、古フランス語 porchacier「追い求める・手に入れる」より）から成り、「もう一度買うこと」を意味します。",
+    "etym_chain": [
+      { "node": "porchacier", "sub": "追い求める・手に入れる", "era": "古フランス語" },
+      { "node": "purchase", "sub": "購入する", "era": "中英語" },
+      { "node": "repurchase", "sub": "買い戻す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "repurchase shares", "ja": "株を買い戻す" },
+      { "en": "share repurchase", "ja": "自社株買い" },
+      { "en": "a repurchase agreement", "ja": "買い戻し契約（レポ取引）" },
+      { "en": "repurchase the property", "ja": "物件を買い戻す" },
+      { "en": "a stock repurchase", "ja": "自社株買い" },
+      { "en": "repurchase at a higher price", "ja": "より高値で買い戻す" }
+    ],
+    "related": [
+      { "en": "purchase", "ja": "購入する" },
+      { "en": "buyback", "ja": "買い戻し・自社株買い" },
+      { "en": "reacquire", "ja": "再取得する" },
+      { "en": "redeem", "ja": "買い戻す・償還する" }
+    ],
+    "faq": [
+      { "q": "repurchase とはどんな意味？", "a": "一度売った・買ったものを『買い戻す・再び購入する』という動詞、また『買い戻し・自社株買い』という名詞です。share repurchase（自社株買い）のように使います。" },
+      { "q": "share repurchase（自社株買い）とは？", "a": "企業が市場に出ている自社の株式を買い戻すことです。発行株数が減り、1株あたりの価値が高まる効果があります。buyback ともいいます。" }
+    ],
+    "quiz": [
+      { "q": "The company ___d its own shares.（買い戻した）", "A": "repurchase", "B": "purchase の購入する", "C": "pursue の追求する", "D": "persuade の説得する", "correct": "A" },
+      { "q": "share repurchase の別の言い方はどれ？", "A": "buyback（自社株買い）", "B": "selloff（売却）", "C": "takeover（買収）", "D": "merger（合併）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "riffraff",
+    "pron": "ˈrɪfræf",
+    "kana": "リフラフ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 rif et raf（すべて・がらくた）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "口語"],
+    "meaning_main": "（軽蔑的に）下層の連中・くだらない人々・がらくた連中",
+    "description": "riffraff の意味・発音・例文・語源を解説。見下した言い方で「くだらない人々・下層の連中・ならず者ども」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["riffraff 意味", "riffraff 発音", "下層民", "riffraff くだらない連中"],
+    "meanings": [
+      { "hinshi": "【名詞】（軽蔑的に）下層の連中・くだらない人々", "note": "取るに足らない・素行の悪い人々を見下して言う語。集合的に使い、ふつう the riffraff。" }
+    ],
+    "usages": [
+      { "title": "① 「くだらない連中」として", "desc": "素行の悪い人々を見下して言います。", "example_en": "The club tried to keep out the riffraff.", "example_ja": "そのクラブはくだらない連中を締め出そうとした。" },
+      { "title": "② 軽蔑的に大衆を指して", "desc": "下層の人々を見下して言います。", "example_en": "He looked down on what he called the riffraff.", "example_ja": "彼はいわゆる下層の連中を見下していた。" }
+    ],
+    "warn": [
+      "riffraff は『くだらない人々・下層の連中』を見下した語で、集合的に使う（複数扱い）。失礼な語なので使い方に注意。",
+      "rabble（野次馬・下層民）と近い軽蔑語。"
+    ],
+    "etym_note": "古フランス語の rif et raf（『すべて・あらゆるもの』を表す対句）に由来します。もとは『あれもこれも全部・がらくた一式』の意味で、そこから『取るに足らない連中』を表すようになりました。",
+    "etym_chain": [
+      { "node": "rif et raf", "sub": "すべて・がらくた", "era": "古フランス語" },
+      { "node": "riffraff", "sub": "がらくた・くず", "era": "中英語" },
+      { "node": "riffraff", "sub": "下層の連中", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "keep out the riffraff", "ja": "くだらない連中を締め出す" },
+      { "en": "the usual riffraff", "ja": "いつものくだらない連中" },
+      { "en": "a load of riffraff", "ja": "ろくでもない連中" },
+      { "en": "mix with the riffraff", "ja": "下層の連中と交わる" },
+      { "en": "look down on the riffraff", "ja": "下層の連中を見下す" },
+      { "en": "no riffraff allowed", "ja": "ならず者お断り" }
+    ],
+    "related": [
+      { "en": "rabble", "ja": "野次馬・下層民" },
+      { "en": "rabble の代わりに mob", "ja": "暴徒・群衆" },
+      { "en": "scum", "ja": "人間のくず" },
+      { "en": "lowlife", "ja": "ろくでなし" }
+    ],
+    "faq": [
+      { "q": "riffraff とはどんな意味？", "a": "取るに足らない・素行の悪い人々を見下して言う『くだらない連中・下層の連中』のことです。集合的に使い、ふつう the riffraff の形です。失礼な語なので使い方に注意が必要です。" },
+      { "q": "riffraff と rabble の違いは？", "a": "どちらも下層の人々を見下す語ですが、rabble は『（騒ぐ）野次馬の群れ』、riffraff は『（取るに足らない）くだらない連中』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The club tried to keep out the ___.（くだらない連中）", "A": "riffraff", "B": "raffle の福引", "C": "ruffle のひだ飾り", "D": "rifle のライフル", "correct": "A" },
+      { "q": "riffraff に近い意味はどれ？", "A": "rabble（下層民）", "B": "elite（えり抜き）", "C": "scholar（学者）", "D": "noble（貴族）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ringworm",
+    "pron": "ˈrɪŋwɜːrm",
+    "kana": "リングワーム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ring（輪）＋ worm（虫）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "医療"],
+    "meaning_main": "白癬（はくせん）・たむし（輪状の発疹ができる皮膚のカビ感染症）",
+    "description": "ringworm の意味・発音・例文・語源を解説。輪のような赤い発疹ができるカビ（真菌）による皮膚感染症「白癬・たむし」を指す語の使い方を紹介します。",
+    "keywords": ["ringworm 意味", "ringworm 発音", "白癬", "ringworm たむし"],
+    "meanings": [
+      { "hinshi": "【名詞】白癬・たむし", "note": "輪のような赤い発疹ができるカビ（真菌）による皮膚感染症。名前に worm（虫）とあるが、虫ではなくカビが原因。" }
+    ],
+    "usages": [
+      { "title": "① 皮膚感染症として", "desc": "輪状の発疹ができる病気を指します。", "example_en": "The cat had ringworm on its ear.", "example_ja": "その猫は耳に白癬ができていた。" },
+      { "title": "② 治療の文脈で", "desc": "カビによる感染として扱います。", "example_en": "Ringworm is treated with antifungal cream.", "example_ja": "白癬は抗真菌クリームで治療する。" }
+    ],
+    "warn": [
+      "ringworm は『白癬・たむし（カビによる皮膚感染症）』。名前に worm（虫）とあるが虫ではなく真菌（カビ）が原因。",
+      "輪状の赤い発疹ができることから ring（輪）＋ worm（虫）と名づけられた。"
+    ],
+    "etym_note": "ring（輪）＋ worm（虫）から成り、皮膚に『輪のような』発疹ができ、昔は虫が原因と考えられたことに由来します。実際の原因はカビ（皮膚糸状菌）です。",
+    "etym_chain": [
+      { "node": "ring + worm", "sub": "輪＋虫", "era": "中英語" },
+      { "node": "ringworm", "sub": "輪状の発疹", "era": "近代英語" },
+      { "node": "ringworm", "sub": "白癬・たむし", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "have ringworm", "ja": "白癬にかかる" },
+      { "en": "treat ringworm", "ja": "白癬を治療する" },
+      { "en": "a ringworm infection", "ja": "白癬の感染" },
+      { "en": "catch ringworm", "ja": "たむしをうつされる" },
+      { "en": "ringworm on the scalp", "ja": "頭部の白癬" },
+      { "en": "antifungal for ringworm", "ja": "白癬用の抗真菌薬" }
+    ],
+    "related": [
+      { "en": "fungus", "ja": "カビ・真菌" },
+      { "en": "rash", "ja": "発疹" },
+      { "en": "athlete's foot", "ja": "水虫" },
+      { "en": "infection", "ja": "感染" }
+    ],
+    "faq": [
+      { "q": "ringworm とはどんな意味？", "a": "輪のような赤い発疹ができるカビ（真菌）による皮膚感染症『白癬・たむし』のことです。名前に worm（虫）とありますが、原因は虫ではなくカビです。" },
+      { "q": "ringworm は虫が原因？", "a": "いいえ。名前に worm（虫）とありますが、原因はカビ（皮膚糸状菌）です。輪状の発疹ができることからこの名がつきました。" }
+    ],
+    "quiz": [
+      { "q": "The cat had ___ on its ear.（白癬）", "A": "ringworm", "B": "earthworm のミミズ", "C": "ringtone の着信音", "D": "ringlet の巻き毛", "correct": "A" },
+      { "q": "ringworm の本当の原因はどれ？", "A": "カビ（真菌）", "B": "虫", "C": "細菌だけ", "D": "ウイルスだけ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "roadhouse",
+    "pron": "ˈroʊdhaʊs",
+    "kana": "ロードハウス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "road（道）＋ house（家・店）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "文化"],
+    "meaning_main": "（街道沿いの）宿屋・酒場・レストラン（飲食や宿泊ができる店）",
+    "description": "roadhouse の意味・発音・例文・語源を解説。郊外の街道沿いにある飲食や宿泊・娯楽ができる「宿屋・酒場・レストラン」を指す語の使い方を紹介します。",
+    "keywords": ["roadhouse 意味", "roadhouse 発音", "街道沿いの酒場", "roadhouse 宿"],
+    "meanings": [
+      { "hinshi": "【名詞】（街道沿いの）宿屋・酒場・レストラン", "note": "郊外の幹線道路沿いにある飲食・酒・宿泊・音楽などを提供する店。" }
+    ],
+    "usages": [
+      { "title": "① 街道沿いの酒場として", "desc": "幹線道路沿いの飲食店を指します。", "example_en": "They stopped at a roadhouse for dinner.", "example_ja": "彼らは夕食のため街道沿いの店に立ち寄った。" },
+      { "title": "② 音楽・娯楽の場として", "desc": "ライブのある酒場を表します。", "example_en": "The band played at a roadhouse outside town.", "example_ja": "バンドは町外れの街道沿いの酒場で演奏した。" }
+    ],
+    "warn": [
+      "roadhouse は『街道沿いの宿屋・酒場・レストラン』。road（道）＋ house（家・店）。",
+      "オーストラリアでは『幹線道路沿いの給油・飲食・宿泊施設』を指すことも多い。"
+    ],
+    "etym_note": "road（道）＋ house（家・店）の複合語で、「街道沿いの店・宿」を意味します。旅人が休む街道沿いの宿屋・酒場として古くから使われてきました。",
+    "etym_chain": [
+      { "node": "road + house", "sub": "道＋家・店", "era": "近代英語" },
+      { "node": "roadhouse", "sub": "街道沿いの宿・店", "era": "近代英語" },
+      { "node": "roadhouse", "sub": "宿屋・酒場", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "stop at a roadhouse", "ja": "街道沿いの店に立ち寄る" },
+      { "en": "a roadside roadhouse", "ja": "道沿いの宿屋" },
+      { "en": "a roadhouse bar", "ja": "街道沿いの酒場" },
+      { "en": "an outback roadhouse", "ja": "奥地の街道沿い施設（豪）" },
+      { "en": "play at a roadhouse", "ja": "街道沿いの店で演奏する" },
+      { "en": "a roadhouse diner", "ja": "街道沿いの食堂" }
+    ],
+    "related": [
+      { "en": "inn", "ja": "宿屋" },
+      { "en": "tavern", "ja": "居酒屋" },
+      { "en": "diner", "ja": "簡易食堂" },
+      { "en": "motel", "ja": "モーテル" }
+    ],
+    "faq": [
+      { "q": "roadhouse とはどんな意味？", "a": "郊外の幹線道路沿いにある、飲食・酒・宿泊・音楽などを提供する『宿屋・酒場・レストラン』のことです。road（道）＋ house（店）から来ています。" },
+      { "q": "roadhouse と inn の違いは？", "a": "inn は『（古くからの）宿屋』、roadhouse は『街道沿いの飲食・娯楽もできる店・宿』で、酒場やレストランの性格が強いことが多いです。" }
+    ],
+    "quiz": [
+      { "q": "They stopped at a ___ for dinner.（街道沿いの店）", "A": "roadhouse", "B": "warehouse の倉庫", "C": "lighthouse の灯台", "D": "greenhouse の温室", "correct": "A" },
+      { "q": "roadhouse があるのはどこ？", "A": "幹線道路沿い", "B": "海の上", "C": "山頂", "D": "地下", "correct": "A" }
+    ]
+  },
+  {
+    "english": "roadkill",
+    "pron": "ˈroʊdkɪl",
+    "kana": "ロードキル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "road（道路）＋ kill（殺すこと）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "社会・環境"],
+    "meaning_main": "（車にひかれて死んだ）路上死の動物・ロードキル",
+    "description": "roadkill の意味・発音・例文・語源を解説。道路で車にひかれて死んだ動物「路上死の動物（ロードキル）」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["roadkill 意味", "roadkill 発音", "ロードキル", "路上死の動物"],
+    "meanings": [
+      { "hinshi": "【名詞】（車にひかれて死んだ）路上死の動物", "note": "道路で車にひかれて死んだ動物。数えられない名詞として集合的に使う。" }
+    ],
+    "usages": [
+      { "title": "① 路上の死骸として", "desc": "車にひかれた動物を指します。", "example_en": "We saw some roadkill on the highway.", "example_ja": "私たちは幹線道路で車にひかれた動物を見かけた。" },
+      { "title": "② 環境・交通の話題で", "desc": "動物の交通事故死を表します。", "example_en": "Fences help reduce roadkill.", "example_ja": "フェンスはロードキルを減らすのに役立つ。" }
+    ],
+    "warn": [
+      "roadkill は『車にひかれて死んだ動物（路上死）』。road（道路）＋ kill（殺すこと）。ふつう不可算名詞。",
+      "比喩で『（競争などで）打ち負かされ犠牲になったもの』を指すこともある。"
+    ],
+    "etym_note": "road（道路）＋ kill（殺すこと）の複合語で、「道路での（動物の）死」を意味します。自動車の普及とともに生まれた比較的新しい語です。",
+    "etym_chain": [
+      { "node": "road + kill", "sub": "道路＋殺すこと", "era": "現代英語" },
+      { "node": "roadkill", "sub": "路上での死", "era": "現代英語" },
+      { "node": "roadkill", "sub": "路上死の動物", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "see roadkill", "ja": "ロードキルを見かける" },
+      { "en": "reduce roadkill", "ja": "ロードキルを減らす" },
+      { "en": "a piece of roadkill", "ja": "車にひかれた動物1匹" },
+      { "en": "avoid roadkill", "ja": "動物をひくのを避ける" },
+      { "en": "roadkill on the highway", "ja": "幹線道路の路上死" },
+      { "en": "wildlife roadkill", "ja": "野生動物の交通事故死" }
+    ],
+    "related": [
+      { "en": "kill", "ja": "殺すこと・獲物" },
+      { "en": "carcass", "ja": "死骸" },
+      { "en": "wildlife", "ja": "野生動物" },
+      { "en": "collision", "ja": "衝突" }
+    ],
+    "faq": [
+      { "q": "roadkill とはどんな意味？", "a": "道路で車にひかれて死んだ動物『路上死の動物（ロードキル）』のことです。ふつう数えられない名詞として集合的に使います。" },
+      { "q": "roadkill は比喩でも使う？", "a": "はい。『（競争・対立で）打ち負かされて犠牲になったもの』を指す比喩としても使われます。" }
+    ],
+    "quiz": [
+      { "q": "We saw some ___ on the highway.（路上死の動物）", "A": "roadkill", "B": "roadblock の障害", "C": "roadside の道端", "D": "roadway の車道", "correct": "A" },
+      { "q": "roadkill を構成する語はどれ？", "A": "road（道路）＋ kill（殺すこと）", "B": "road ＋ skill", "C": "road ＋ hill", "D": "road ＋ mill", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rubella",
+    "pron": "ruːˈbelə",
+    "kana": "ルベラ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 rubellus（赤みがかった）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "医療"],
+    "meaning_main": "風疹（ふうしん）・三日ばしか（赤い発疹が出るウイルス感染症）",
+    "description": "rubella の意味・発音・例文・語源を解説。軽い赤い発疹と発熱が出るウイルス感染症「風疹（三日ばしか）」を指す医療の語の使い方を紹介します。",
+    "keywords": ["rubella 意味", "rubella 発音", "風疹", "三日ばしか"],
+    "meanings": [
+      { "hinshi": "【名詞】風疹・三日ばしか", "note": "風疹ウイルスによる感染症。軽い赤い発疹と発熱が出る。妊婦が感染すると胎児に影響することがある。German measles ともいう。" }
+    ],
+    "usages": [
+      { "title": "① 感染症として", "desc": "赤い発疹の出る病気を指します。", "example_en": "She was vaccinated against rubella.", "example_ja": "彼女は風疹の予防接種を受けた。" },
+      { "title": "② 妊娠との関連で", "desc": "妊婦への影響を表します。", "example_en": "Rubella can harm an unborn baby.", "example_ja": "風疹は胎児に害を及ぼすことがある。" }
+    ],
+    "warn": [
+      "rubella は『風疹（三日ばしか）』。German measles ともいう。麻疹（はしか／measles）とは別の病気。",
+      "MMRワクチン（measles, mumps, rubella）で予防する。"
+    ],
+    "etym_note": "ラテン語 rubellus（赤みがかった、ruber「赤」より）に由来します。赤い発疹が出ることから名づけられました。ruby（ルビー）, rubric（赤い見出し）と同じ語根です。",
+    "etym_chain": [
+      { "node": "ruber", "sub": "赤", "era": "ラテン語" },
+      { "node": "rubellus", "sub": "赤みがかった", "era": "ラテン語" },
+      { "node": "rubella", "sub": "風疹", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the rubella vaccine", "ja": "風疹ワクチン" },
+      { "en": "vaccinated against rubella", "ja": "風疹の予防接種を受けた" },
+      { "en": "catch rubella", "ja": "風疹にかかる" },
+      { "en": "the MMR vaccine", "ja": "MMRワクチン" },
+      { "en": "rubella in pregnancy", "ja": "妊娠中の風疹" },
+      { "en": "rubella immunity", "ja": "風疹への免疫" }
+    ],
+    "related": [
+      { "en": "measles", "ja": "麻疹・はしか" },
+      { "en": "mumps", "ja": "おたふくかぜ" },
+      { "en": "vaccine", "ja": "ワクチン" },
+      { "en": "infection", "ja": "感染" }
+    ],
+    "faq": [
+      { "q": "rubella とはどんな意味？", "a": "風疹ウイルスによる感染症『風疹（三日ばしか）』のことです。軽い赤い発疹と発熱が出ます。German measles ともいい、妊婦が感染すると胎児に影響することがあります。" },
+      { "q": "rubella と measles の違いは？", "a": "rubella（風疹）と measles（麻疹・はしか）は別の病気です。どちらも赤い発疹が出ますが、原因ウイルスや症状の重さが異なります。" }
+    ],
+    "quiz": [
+      { "q": "She was vaccinated against ___.（風疹）", "A": "rubella", "B": "umbrella の傘", "C": "Cinderella のシンデレラ", "D": "ruby のルビー", "correct": "A" },
+      { "q": "rubella の語源の意味はどれ？", "A": "赤みがかった", "B": "高い熱", "C": "小さな点", "D": "三日間", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rundown",
+    "pron": "ˈrʌndaʊn",
+    "kana": "ランダウン",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "run down（ざっと述べる・衰える）より",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "（名詞）要点の説明・概要／（形容詞 run-down）荒れ果てた・疲れ切った",
+    "description": "rundown の意味・発音・例文・語源を解説。要点を述べた「概要・説明」という名詞と、「荒れ果てた・疲れ切った」という形容詞の使い方を紹介します。",
+    "keywords": ["rundown 意味", "rundown 発音", "概要", "run-down 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】要点の説明・概要", "note": "順を追った手短な説明。give a rundown of（〜の概要を説明する）。" },
+      { "hinshi": "【形容詞】(run-down) 荒れ果てた・疲れ切った", "note": "建物が老朽化した、人が疲弊した。a run-down building（荒れ果てた建物）。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「概要・説明」として", "desc": "要点の手短な説明を指します。", "example_en": "Give me a quick rundown of the plan.", "example_ja": "計画の概要を手短に教えて。" },
+      { "title": "② 形容詞「荒れ果てた」として", "desc": "老朽化・疲弊したようすを表します。", "example_en": "They lived in a run-down apartment.", "example_ja": "彼らは荒れ果てたアパートに住んでいた。" }
+    ],
+    "warn": [
+      "rundown は名詞『概要・要点の説明』、形容詞 run-down は『荒れ果てた・疲れ切った』。句動詞 run down（ざっと述べる／衰える）から。",
+      "give a rundown of（〜の概要を説明する）、a run-down building（荒れ果てた建物）が頻出。"
+    ],
+    "etym_note": "句動詞 run down（ざっと述べる、また衰える・老朽化する）が名詞・形容詞化した語です。「順に走り下る（ざっと挙げる）」「衰える」イメージから生まれました。",
+    "etym_chain": [
+      { "node": "run down", "sub": "ざっと述べる・衰える", "era": "近代英語" },
+      { "node": "rundown", "sub": "概要・荒れた", "era": "近代英語" },
+      { "node": "rundown", "sub": "概要／荒れ果てた", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "give a rundown of", "ja": "〜の概要を説明する" },
+      { "en": "a quick rundown", "ja": "手短な概要" },
+      { "en": "a run-down building", "ja": "荒れ果てた建物" },
+      { "en": "a run-down neighborhood", "ja": "さびれた地区" },
+      { "en": "feel run-down", "ja": "疲れ切っている" },
+      { "en": "a full rundown", "ja": "詳しい概要" }
+    ],
+    "related": [
+      { "en": "summary", "ja": "要約" },
+      { "en": "overview", "ja": "概観" },
+      { "en": "dilapidated", "ja": "荒廃した" },
+      { "en": "exhausted", "ja": "疲れ切った" }
+    ],
+    "faq": [
+      { "q": "rundown とはどんな意味？", "a": "名詞では要点を順に述べた『概要・説明』、形容詞 run-down では『（建物が）荒れ果てた・（人が）疲れ切った』という意味です。give a rundown of（〜の概要を説明する）のように使います。" },
+      { "q": "rundown と summary の違いは？", "a": "どちらも『まとめ』ですが、rundown は『（口頭で）順を追って手短に説明すること』、summary は『（要点をまとめた）要約』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "Give me a quick ___ of the plan.（概要）", "A": "rundown", "B": "rundup", "C": "roundup の代わりに breakdown", "D": "letdown の失望", "correct": "A" },
+      { "q": "形容詞 run-down の意味はどれ？", "A": "荒れ果てた・疲れ切った", "B": "真新しい", "C": "とても元気な", "D": "高価な", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rota",
+    "pron": "ˈroʊtə",
+    "kana": "ロウタ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 rota（車輪）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "イギリス英語"],
+    "meaning_main": "当番表・勤務割り表（交替の順番を決めた表。主にイギリス英語）",
+    "description": "rota の意味・発音・例文・語源を解説。だれがいつ担当するかを順番に決めた「当番表・勤務割り表」を指す、主にイギリスで使う語の使い方を紹介します。",
+    "keywords": ["rota 意味", "rota 発音", "当番表", "rota 勤務表"],
+    "meanings": [
+      { "hinshi": "【名詞】当番表・勤務割り表", "note": "だれがいつ担当・勤務するかを順番に決めた表。主にイギリス英語。a cleaning rota（掃除当番表）、be on the rota（当番に入っている）。" }
+    ],
+    "usages": [
+      { "title": "① 当番表として", "desc": "順番を決めた表を指します。", "example_en": "Check the rota to see who's on duty.", "example_ja": "だれが当番かは勤務表を確認して。" },
+      { "title": "② 勤務割りとして", "desc": "交替の予定を表します。", "example_en": "The nurses work according to a rota.", "example_ja": "看護師たちは勤務割り表に従って働く。" }
+    ],
+    "warn": [
+      "rota は『当番表・勤務割り表』で、主にイギリス英語。アメリカでは schedule / roster を使う。",
+      "be on the rota（当番に入っている）、draw up a rota（当番表を作る）が頻出。"
+    ],
+    "etym_note": "ラテン語 rota（車輪）に由来します。順番が車輪のように回っていくイメージから『当番表・輪番表』を意味するようになりました。rotate（回転する）, rotation（輪番）と同じ語根です。",
+    "etym_chain": [
+      { "node": "rota", "sub": "車輪", "era": "ラテン語" },
+      { "node": "rota", "sub": "輪番・順番", "era": "近代英語" },
+      { "node": "rota", "sub": "当番表・勤務割り表", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a cleaning rota", "ja": "掃除当番表" },
+      { "en": "be on the rota", "ja": "当番に入っている" },
+      { "en": "draw up a rota", "ja": "当番表を作る" },
+      { "en": "check the rota", "ja": "勤務表を確認する" },
+      { "en": "a duty rota", "ja": "勤務割り表" },
+      { "en": "a weekly rota", "ja": "週ごとの当番表" }
+    ],
+    "related": [
+      { "en": "roster", "ja": "名簿・勤務表" },
+      { "en": "schedule", "ja": "予定表" },
+      { "en": "rotation", "ja": "輪番・交替" },
+      { "en": "shift", "ja": "勤務シフト" }
+    ],
+    "faq": [
+      { "q": "rota とはどんな意味？", "a": "だれがいつ担当・勤務するかを順番に決めた『当番表・勤務割り表』のことです。主にイギリス英語で、a cleaning rota（掃除当番表）、be on the rota（当番に入っている）のように使います。" },
+      { "q": "rota と roster の違いは？", "a": "意味はほぼ同じ『勤務・当番の表』ですが、rota は主にイギリス英語、roster はアメリカでも広く使われ『名簿』の意味もあります。" }
+    ],
+    "quiz": [
+      { "q": "Check the ___ to see who's on duty.（当番表）", "A": "rota", "B": "rotor の回転子", "C": "rote の丸暗記", "D": "ratio の比率", "correct": "A" },
+      { "q": "rota と同じ語根 rota（車輪）をもつのはどれ？", "A": "rotate（回転する）", "B": "relate（関係する）", "C": "donate（寄付する）", "D": "debate（討論する）", "correct": "A" }
+    ]
+  }
+]

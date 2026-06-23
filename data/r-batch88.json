@@ -1,0 +1,524 @@
+[
+  {
+    "english": "rooster",
+    "pron": "ˈruːstər",
+    "kana": "ルースター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "roost（ねぐらにとまる）＋ -er",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "動物"],
+    "meaning_main": "おんどり（雄のニワトリ）",
+    "description": "rooster の意味・発音・例文・語源を解説。朝に「コケコッコー」と鳴く雄のニワトリ「おんどり」を指す、主にアメリカ英語の語の使い方を紹介します。",
+    "keywords": ["rooster 意味", "rooster 発音", "おんどり", "rooster ニワトリ"],
+    "meanings": [
+      { "hinshi": "【名詞】おんどり（雄のニワトリ）", "note": "雄のニワトリ。朝に高く鳴く。主にアメリカ英語で、イギリスでは cock ともいう。雌は hen。" }
+    ],
+    "usages": [
+      { "title": "① 雄のニワトリとして", "desc": "朝に鳴く雄鶏を指します。", "example_en": "The rooster crowed at dawn.", "example_ja": "おんどりが夜明けに鳴いた。" },
+      { "title": "② 農場の場面で", "desc": "ニワトリの群れの中で使います。", "example_en": "One rooster guards the hens.", "example_ja": "1羽のおんどりが雌鶏たちを見張っている。" }
+    ],
+    "warn": [
+      "rooster は『おんどり（雄のニワトリ）』。主にアメリカ英語。イギリスでは cock も使う。雌鶏は hen、ひよこは chick。",
+      "鳴き声は crow（時を告げる）。"
+    ],
+    "etym_note": "roost（ねぐら・ねぐらにとまる）に「〜するもの」の -er が付いた語で、「ねぐらにとまる鳥」が原義です。cock を避けた婉曲表現としてアメリカで広まりました。",
+    "etym_chain": [
+      { "node": "hrōst", "sub": "止まり木・ねぐら", "era": "古英語" },
+      { "node": "roost", "sub": "ねぐらにとまる", "era": "中英語" },
+      { "node": "rooster", "sub": "おんどり", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the rooster crowed", "ja": "おんどりが鳴いた" },
+      { "en": "a rooster at dawn", "ja": "夜明けのおんどり" },
+      { "en": "a proud rooster", "ja": "得意げなおんどり" },
+      { "en": "the farm rooster", "ja": "農場のおんどり" },
+      { "en": "roosters and hens", "ja": "おんどりとめんどり" },
+      { "en": "a weathervane rooster", "ja": "風見鶏のおんどり" }
+    ],
+    "related": [
+      { "en": "hen", "ja": "めんどり" },
+      { "en": "chicken", "ja": "ニワトリ" },
+      { "en": "cock", "ja": "おんどり（英）" },
+      { "en": "chick", "ja": "ひよこ" }
+    ],
+    "faq": [
+      { "q": "rooster とはどんな意味？", "a": "朝に高く鳴く雄のニワトリ『おんどり』のことです。主にアメリカ英語で、イギリスでは cock とも言います。雌鶏は hen です。" },
+      { "q": "rooster と hen の違いは？", "a": "rooster は『おんどり（雄のニワトリ）』、hen は『めんどり（雌のニワトリ）』です。" }
+    ],
+    "quiz": [
+      { "q": "The ___ crowed at dawn.（おんどり）", "A": "rooster", "B": "roaster の焙煎機", "C": "rooftop の屋上", "D": "rumor のうわさ", "correct": "A" },
+      { "q": "rooster の雌を表すのはどれ？", "A": "hen（めんどり）", "B": "chick（ひよこ）", "C": "duck（あひる）", "D": "goose（ガチョウ）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "readjustment",
+    "pron": "ˌriːəˈdʒʌstmənt",
+    "kana": "リアジャストメント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ adjustment（調整）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "再調整・調整し直し／（新しい状況への）適応のし直し",
+    "description": "readjustment の意味・発音・例文・語源を解説。設定や状況を「再調整すること」、また新しい環境への「適応のし直し」を指す語の使い方を紹介します。",
+    "keywords": ["readjustment 意味", "readjustment 発音", "再調整", "readjust 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再調整・調整し直し", "note": "設定・数値・配分などを改めて調整すること。price readjustment（価格の再調整）。" },
+      { "hinshi": "【名詞】（状況への）適応のし直し", "note": "新しい環境に慣れ直すこと。readjustment to civilian life（市民生活への適応）。" }
+    ],
+    "usages": [
+      { "title": "① 「再調整」として", "desc": "改めて調整することを表します。", "example_en": "The plan needed some readjustment.", "example_ja": "その計画は多少の再調整が必要だった。" },
+      { "title": "② 「適応のし直し」として", "desc": "新しい状況に慣れ直すことを表します。", "example_en": "Coming home required a period of readjustment.", "example_ja": "帰郷には適応のための期間が必要だった。" }
+    ],
+    "warn": [
+      "readjustment は『再調整』と『（状況への）適応のし直し』。re-（再び）＋ adjustment（調整）。動詞は readjust。",
+      "readjustment to ～（〜への適応のし直し）が頻出。"
+    ],
+    "etym_note": "re-（再び）＋ adjustment（調整、adjust「合わせる」より）から成り、「もう一度合わせ直すこと」を意味します。just（正しい・ちょうど）と語源的につながります。",
+    "etym_chain": [
+      { "node": "adjust", "sub": "合わせる・調整する", "era": "近代英語" },
+      { "node": "adjustment", "sub": "調整", "era": "近代英語" },
+      { "node": "readjustment", "sub": "再調整・適応し直し", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a period of readjustment", "ja": "適応のための期間" },
+      { "en": "price readjustment", "ja": "価格の再調整" },
+      { "en": "need readjustment", "ja": "再調整が必要だ" },
+      { "en": "readjustment to civilian life", "ja": "市民生活への適応" },
+      { "en": "make a readjustment", "ja": "調整し直す" },
+      { "en": "social readjustment", "ja": "社会への適応のし直し" }
+    ],
+    "related": [
+      { "en": "readjust", "ja": "再調整する・適応し直す" },
+      { "en": "adjustment", "ja": "調整" },
+      { "en": "adaptation", "ja": "適応" },
+      { "en": "recalibration", "ja": "再較正" }
+    ],
+    "faq": [
+      { "q": "readjustment とはどんな意味？", "a": "設定・数値・配分などを改めて調整する『再調整』という意味と、新しい環境に慣れ直す『適応のし直し』という意味があります。動詞は readjust です。" },
+      { "q": "readjustment to ～ とは？", "a": "『〜への（再）適応・慣れ直し』という意味です。readjustment to civilian life（市民生活への適応）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The plan needed some ___.（再調整）", "A": "readjustment", "B": "adjustment の調整", "C": "amusement の娯楽", "D": "agreement の合意", "correct": "A" },
+      { "q": "readjustment の動詞形はどれ？", "A": "readjust（再調整する）", "B": "adjust（調整する）", "C": "amuse（楽しませる）", "D": "agree（同意する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reemergence",
+    "pron": "ˌriːɪˈmɜːrdʒəns",
+    "kana": "リイマージェンス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ emergence（出現）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "再出現・再台頭・再び現れること",
+    "description": "reemergence の意味・発音・例文・語源を解説。いったん消えたものが再び目立つようになる「再出現・再台頭」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["reemergence 意味", "reemergence 発音", "再台頭", "reemerge 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再出現・再台頭・再び現れること", "note": "消えていた勢力・現象・病気などが再び目立つようになること。the reemergence of nationalism（ナショナリズムの再台頭）。" }
+    ],
+    "usages": [
+      { "title": "① 勢力の再台頭として", "desc": "再び勢いを得ることを表します。", "example_en": "We are seeing the reemergence of old rivalries.", "example_ja": "古い対立関係の再台頭が見られる。" },
+      { "title": "② 病気・現象の再出現として", "desc": "再び現れることを表します。", "example_en": "The reemergence of the virus alarmed officials.", "example_ja": "そのウイルスの再出現は当局を警戒させた。" }
+    ],
+    "warn": [
+      "reemergence は『（勢力・現象・病気の）再出現・再台頭』。re-（再び）＋ emergence（出現）。動詞は reemerge。",
+      "reappearance（再登場）と近いが、reemergence は『再び目立つ・勢いを得る』含みが強い。つづりは re-emergence とも。"
+    ],
+    "etym_note": "re-（再び）＋ emergence（出現、emergere「浮かび出る」より）から成り、「再び浮かび出ること」を意味します。emerge（現れる）, merge（合併する）と同じ語根です。",
+    "etym_chain": [
+      { "node": "emergere", "sub": "浮かび出る", "era": "ラテン語" },
+      { "node": "emergence", "sub": "出現", "era": "近代英語" },
+      { "node": "reemergence", "sub": "再出現・再台頭", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the reemergence of", "ja": "〜の再台頭" },
+      { "en": "the reemergence of the virus", "ja": "ウイルスの再出現" },
+      { "en": "see a reemergence", "ja": "再台頭が見られる" },
+      { "en": "a sudden reemergence", "ja": "突然の再出現" },
+      { "en": "the reemergence of interest", "ja": "関心の再燃" },
+      { "en": "fear the reemergence", "ja": "再台頭を恐れる" }
+    ],
+    "related": [
+      { "en": "reemerge", "ja": "再び現れる・再台頭する" },
+      { "en": "emergence", "ja": "出現" },
+      { "en": "resurgence", "ja": "復活・再燃" },
+      { "en": "reappearance", "ja": "再登場" }
+    ],
+    "faq": [
+      { "q": "reemergence とはどんな意味？", "a": "いったん消えていた勢力・現象・病気などが再び目立つようになること『再出現・再台頭』のことです。the reemergence of nationalism（ナショナリズムの再台頭）のように使います。動詞は reemerge です。" },
+      { "q": "reemergence と resurgence の違いは？", "a": "reemergence は『（消えていたものが）再び現れること』、resurgence は『（衰えていたものが）再び勢いを取り戻すこと』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The ___ of the virus alarmed officials.（再出現）", "A": "reemergence", "B": "emergence の出現", "C": "emergency の緊急事態", "D": "convergence の収束", "correct": "A" },
+      { "q": "reemergence の動詞形はどれ？", "A": "reemerge（再び現れる）", "B": "emerge（現れる）", "C": "merge（合併する）", "D": "submerge（沈める）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "remarriage",
+    "pron": "riːˈmærɪdʒ",
+    "kana": "リマリッジ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ marriage（結婚）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "再婚（離婚・死別のあとに再び結婚すること）",
+    "description": "remarriage の意味・発音・例文・語源を解説。離婚や死別のあとに再び結婚すること「再婚」を指す語の使い方を、例文や語源とともに紹介します。",
+    "keywords": ["remarriage 意味", "remarriage 発音", "再婚", "remarry 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再婚", "note": "離婚・死別のあとに再び結婚すること。her remarriage（彼女の再婚）。動詞は remarry。" }
+    ],
+    "usages": [
+      { "title": "① 「再婚」として", "desc": "再び結婚することを表します。", "example_en": "His remarriage surprised the family.", "example_ja": "彼の再婚は家族を驚かせた。" },
+      { "title": "② 社会・制度の文脈で", "desc": "再婚率などを表します。", "example_en": "Remarriage rates have risen in recent years.", "example_ja": "再婚率は近年上昇している。" }
+    ],
+    "warn": [
+      "remarriage は『再婚』。re-（再び）＋ marriage（結婚）。動詞は remarry。",
+      "再婚した家庭（連れ子のいる家庭）は blended family / stepfamily ともいう。"
+    ],
+    "etym_note": "re-（再び）＋ marriage（結婚、marier「結婚させる」より）から成り、「再び結婚すること」を意味します。marry（結婚する）と同じ語根です。",
+    "etym_chain": [
+      { "node": "maritare", "sub": "結婚させる", "era": "ラテン語" },
+      { "node": "marriage", "sub": "結婚", "era": "中英語" },
+      { "node": "remarriage", "sub": "再婚", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "her remarriage", "ja": "彼女の再婚" },
+      { "en": "after the divorce and remarriage", "ja": "離婚と再婚のあと" },
+      { "en": "remarriage rates", "ja": "再婚率" },
+      { "en": "a second remarriage", "ja": "二度目の再婚" },
+      { "en": "remarriage in later life", "ja": "晩年の再婚" },
+      { "en": "oppose the remarriage", "ja": "その再婚に反対する" }
+    ],
+    "related": [
+      { "en": "remarry", "ja": "再婚する" },
+      { "en": "marriage", "ja": "結婚" },
+      { "en": "divorce", "ja": "離婚" },
+      { "en": "stepfamily", "ja": "継家族" }
+    ],
+    "faq": [
+      { "q": "remarriage とはどんな意味？", "a": "離婚や死別のあとに再び結婚すること『再婚』のことです。her remarriage（彼女の再婚）のように使います。動詞は remarry です。" },
+      { "q": "remarriage の動詞形は？", "a": "remarry（再婚する）です。She remarried.（彼女は再婚した）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "His ___ surprised the family.（再婚）", "A": "remarriage", "B": "marriage の結婚", "C": "miscarriage の流産", "D": "carriage の馬車", "correct": "A" },
+      { "q": "remarriage の動詞形はどれ？", "A": "remarry（再婚する）", "B": "marry（結婚する）", "C": "carry（運ぶ）", "D": "hurry（急ぐ）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retelling",
+    "pron": "riːˈtelɪŋ",
+    "kana": "リテリング",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ tell（語る）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "文学"],
+    "meaning_main": "語り直し・再話（同じ物語を新たに語り直したもの）",
+    "description": "retelling の意味・発音・例文・語源を解説。古い物語や出来事を「語り直すこと・再話（新たな語り直し版）」を指す文学の語の使い方を紹介します。",
+    "keywords": ["retelling 意味", "retelling 発音", "語り直し", "retell 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】語り直し・再話", "note": "同じ物語・出来事を改めて語ること、新しい視点で語り直した作品。a modern retelling of a fairy tale（おとぎ話の現代版）。" }
+    ],
+    "usages": [
+      { "title": "① 物語の語り直しとして", "desc": "新たに語り直した作品を指します。", "example_en": "The novel is a retelling of an old legend.", "example_ja": "その小説は古い伝説の語り直しだ。" },
+      { "title": "② 出来事の再話として", "desc": "改めて語ることを表します。", "example_en": "Each retelling of the story changed slightly.", "example_ja": "その話は語り直すたびに少しずつ変わった。" }
+    ],
+    "warn": [
+      "retelling は『語り直し・再話』。re-（再び）＋ tell（語る）。動詞は retell（活用 retell-retold-retold）。",
+      "a modern / fresh retelling（現代版・新たな語り直し）が頻出。"
+    ],
+    "etym_note": "re-（再び）＋ tell（語る、古英語 tellan より）の動名詞由来です。「もう一度語ること」を意味します。",
+    "etym_chain": [
+      { "node": "tellan", "sub": "語る・数える", "era": "古英語" },
+      { "node": "retell", "sub": "語り直す", "era": "近代英語" },
+      { "node": "retelling", "sub": "語り直し・再話", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a modern retelling", "ja": "現代版の語り直し" },
+      { "en": "a retelling of", "ja": "〜の語り直し" },
+      { "en": "a fresh retelling", "ja": "新たな語り直し" },
+      { "en": "a retelling of the legend", "ja": "伝説の再話" },
+      { "en": "each retelling", "ja": "語り直すたびに" },
+      { "en": "a faithful retelling", "ja": "忠実な再話" }
+    ],
+    "related": [
+      { "en": "retell", "ja": "語り直す" },
+      { "en": "narration", "ja": "語り" },
+      { "en": "adaptation", "ja": "翻案" },
+      { "en": "version", "ja": "版・バージョン" }
+    ],
+    "faq": [
+      { "q": "retelling とはどんな意味？", "a": "同じ物語・出来事を改めて語ること、新しい視点で語り直した作品『語り直し・再話』のことです。a modern retelling of a fairy tale（おとぎ話の現代版）のように使います。動詞は retell です。" },
+      { "q": "retelling と adaptation の違いは？", "a": "retelling は『（同じ物語を）語り直すこと』、adaptation は『（小説を映画にするなど）別の形式に作り変える翻案』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The novel is a ___ of an old legend.（語り直し）", "A": "retelling", "B": "retailing の小売り", "C": "rebelling の反逆", "D": "repelling の撃退", "correct": "A" },
+      { "q": "retelling の動詞形はどれ？", "A": "retell（語り直す）", "B": "retail（小売りする）", "C": "rebel（反逆する）", "D": "repel（撃退する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rickety",
+    "pron": "ˈrɪkəti",
+    "kana": "リケティ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "rickets（くる病）＋ -y",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "描写"],
+    "meaning_main": "がたがたの・ぐらつく・今にも壊れそうな",
+    "description": "rickety の意味・発音・例文・語源を解説。いすや階段などが「がたがたで今にも壊れそう・ぐらつく」ようすを表す描写語の使い方を紹介します。",
+    "keywords": ["rickety 意味", "rickety 発音", "がたがた", "rickety 壊れそう"],
+    "meanings": [
+      { "hinshi": "【形容詞】がたがたの・ぐらつく・今にも壊れそうな", "note": "作りが弱く不安定なようす。a rickety chair（がたがたのいす）、a rickety bridge（ぐらつく橋）。" }
+    ],
+    "usages": [
+      { "title": "① 家具・構造物について", "desc": "ぐらついて壊れそうなようすを表します。", "example_en": "He sat on a rickety old chair.", "example_ja": "彼はがたがたの古いいすに座った。" },
+      { "title": "② 比喩的に", "desc": "不安定なしくみなどを表します。", "example_en": "The plan rested on a rickety foundation.", "example_ja": "その計画は危なっかしい土台の上に成り立っていた。" }
+    ],
+    "warn": [
+      "rickety は『がたがたで今にも壊れそう・ぐらつく』。家具・建物・乗り物などに使う。",
+      "語源は rickets（くる病）。骨が弱くなる病気のイメージから『弱くてぐらつく』へ。"
+    ],
+    "etym_note": "rickets（くる病。骨が弱くなる病気）に -y が付いた語です。骨が弱くてぐらつくイメージから、「作りが弱く不安定な」を表すようになりました。",
+    "etym_chain": [
+      { "node": "rickets", "sub": "くる病", "era": "近代英語" },
+      { "node": "rickety", "sub": "くる病の・弱い", "era": "近代英語" },
+      { "node": "rickety", "sub": "がたがたの・ぐらつく", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rickety chair", "ja": "がたがたのいす" },
+      { "en": "a rickety bridge", "ja": "ぐらつく橋" },
+      { "en": "a rickety staircase", "ja": "がたがたの階段" },
+      { "en": "a rickety old table", "ja": "がたがたの古いテーブル" },
+      { "en": "a rickety structure", "ja": "ぐらつく構造物" },
+      { "en": "rickety and unstable", "ja": "がたがたで不安定な" }
+    ],
+    "related": [
+      { "en": "wobbly", "ja": "ぐらぐらする" },
+      { "en": "shaky", "ja": "ぐらつく・不安定な" },
+      { "en": "ramshackle", "ja": "今にも崩れそうな" },
+      { "en": "sturdy", "ja": "頑丈な（反対語）" }
+    ],
+    "faq": [
+      { "q": "rickety とはどんな意味？", "a": "いすや階段、橋などが『がたがたで今にも壊れそう・ぐらつく』ようすを表す形容詞です。a rickety chair（がたがたのいす）のように使います。" },
+      { "q": "rickety の反対語は？", "a": "sturdy（頑丈な）や stable（安定した）です。rickety はぐらついて不安定なことを表します。" }
+    ],
+    "quiz": [
+      { "q": "He sat on a ___ old chair.（がたがたの）", "A": "rickety", "B": "ricochet の跳弾", "C": "rocky の岩だらけの", "D": "rusty のさびた", "correct": "A" },
+      { "q": "rickety の反対語に近いのはどれ？", "A": "sturdy（頑丈な）", "B": "wobbly（ぐらぐらする）", "C": "shaky（ぐらつく）", "D": "ramshackle（崩れそうな）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ricotta",
+    "pron": "rɪˈkɒtə",
+    "kana": "リコッタ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "イタリア語 ricotta（再び煮たもの）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "食べ物"],
+    "meaning_main": "リコッタ（チーズ作りの副産物から作る、ふんわりした白いチーズ）",
+    "description": "ricotta の意味・発音・例文・語源を解説。チーズ作りで出るホエー（乳清）を再び加熱して作る、ふんわりした白いチーズ「リコッタ」を指す語の使い方を紹介します。",
+    "keywords": ["ricotta 意味", "ricotta 発音", "リコッタ", "ricotta チーズ"],
+    "meanings": [
+      { "hinshi": "【名詞】リコッタ（チーズ）", "note": "チーズ作りで出るホエー（乳清）を再加熱して作る、ふんわりした白いフレッシュチーズ。ラザニアやデザートに使う。" }
+    ],
+    "usages": [
+      { "title": "① 料理の材料として", "desc": "ふんわりした白いチーズを指します。", "example_en": "The lasagna is layered with ricotta.", "example_ja": "そのラザニアにはリコッタが層になっている。" },
+      { "title": "② デザートに", "desc": "甘い菓子にも使います。", "example_en": "She made a cake with ricotta and lemon.", "example_ja": "彼女はリコッタとレモンでケーキを作った。" }
+    ],
+    "warn": [
+      "ricotta は『ホエー（乳清）を再加熱して作るふんわりした白いフレッシュチーズ』。発音は『リコッタ（rɪˈkɒtə）』。",
+      "厳密にはチーズ作りの副産物（乳清）から作るため、本来は『チーズ』とは別分類とされることもある。"
+    ],
+    "etym_note": "イタリア語 ricotta（ri-「再び」＋ cotta「煮た」＝再び煮たもの）に由来します。チーズ作りで残ったホエーを『再び加熱して』作ることに由来します。",
+    "etym_chain": [
+      { "node": "recocta", "sub": "再び煮た", "era": "ラテン語" },
+      { "node": "ricotta", "sub": "再び煮たもの", "era": "イタリア語" },
+      { "node": "ricotta", "sub": "リコッタ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "ricotta cheese", "ja": "リコッタチーズ" },
+      { "en": "fresh ricotta", "ja": "新鮮なリコッタ" },
+      { "en": "ricotta filling", "ja": "リコッタの詰め物" },
+      { "en": "spread with ricotta", "ja": "リコッタを塗る" },
+      { "en": "a ricotta cheesecake", "ja": "リコッタのチーズケーキ" },
+      { "en": "creamy ricotta", "ja": "クリーミーなリコッタ" }
+    ],
+    "related": [
+      { "en": "mozzarella", "ja": "モッツァレラ" },
+      { "en": "cheese", "ja": "チーズ" },
+      { "en": "whey", "ja": "ホエー・乳清" },
+      { "en": "curd", "ja": "凝乳" }
+    ],
+    "faq": [
+      { "q": "ricotta とはどんな食べ物？", "a": "チーズ作りで出るホエー（乳清）を再加熱して作る、ふんわりした白いフレッシュチーズ『リコッタ』のことです。ラザニアやデザートに使われます。" },
+      { "q": "ricotta の語源は？", "a": "イタリア語 ricotta（再び煮たもの）です。チーズ作りで残ったホエーを『再び加熱して』作ることに由来します。" }
+    ],
+    "quiz": [
+      { "q": "The lasagna is layered with ___.（リコッタ）", "A": "ricotta", "B": "risotto のリゾット", "C": "ravioli のラビオリ", "D": "rigatoni のリガトーニ", "correct": "A" },
+      { "q": "ricotta の語源の意味はどれ？", "A": "再び煮たもの", "B": "丸いもの", "C": "甘いもの", "D": "白い花", "correct": "A" }
+    ]
+  },
+  {
+    "english": "riddance",
+    "pron": "ˈrɪdəns",
+    "kana": "リダンス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rid（取り除く）＋ -ance",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "口語"],
+    "meaning_main": "厄介払い・除去（特に good riddance で「やっかいが消えてせいせいする」）",
+    "description": "riddance の意味・発音・例文・語源を解説。やっかいなものを取り除くこと「厄介払い」、特に good riddance（せいせいした）という決まり文句の使い方を紹介します。",
+    "keywords": ["riddance 意味", "riddance 発音", "good riddance 意味", "厄介払い"],
+    "meanings": [
+      { "hinshi": "【名詞】厄介払い・除去", "note": "やっかいなもの・人を取り除くこと。ほぼ good riddance（やっかいが消えてせいせいする）の形で使う。" }
+    ],
+    "usages": [
+      { "title": "① good riddance として", "desc": "やっかいが消えて喜ぶ気持ちを表します。", "example_en": "He's gone? Good riddance!", "example_ja": "彼がいなくなった？せいせいした！" },
+      { "title": "② 厄介払いとして", "desc": "やっかいなものの除去を表します。", "example_en": "Good riddance to all that junk.", "example_ja": "あんながらくたが片づいてせいせいだ。" }
+    ],
+    "warn": [
+      "riddance は単独ではあまり使わず、ほぼ good riddance（やっかいが消えてせいせいする）という決まり文句で使う。rid（取り除く）＋ -ance。",
+      "good riddance (to bad rubbish) は『（嫌なものが消えて）清々した』というくだけた表現。"
+    ],
+    "etym_note": "動詞 rid（取り除く、古ノルド語 rythja「すき間を作る・片づける」より）に -ance が付いた語です。「取り除くこと＝厄介払い」を意味します。",
+    "etym_chain": [
+      { "node": "rythja", "sub": "片づける・すき間を作る", "era": "古ノルド語" },
+      { "node": "rid", "sub": "取り除く", "era": "中英語" },
+      { "node": "riddance", "sub": "厄介払い", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "good riddance", "ja": "せいせいした・やれやれ" },
+      { "en": "good riddance to bad rubbish", "ja": "嫌なものが消えて清々" },
+      { "en": "a good riddance", "ja": "ありがたい厄介払い" },
+      { "en": "say good riddance", "ja": "せいせいすると言う" },
+      { "en": "good riddance to him", "ja": "彼がいなくなって清々" },
+      { "en": "what a riddance", "ja": "なんという厄介払い" }
+    ],
+    "related": [
+      { "en": "rid", "ja": "取り除く" },
+      { "en": "get rid of", "ja": "〜を処分する・追い払う" },
+      { "en": "removal", "ja": "除去" },
+      { "en": "elimination", "ja": "排除" }
+    ],
+    "faq": [
+      { "q": "riddance とはどんな意味？", "a": "やっかいなもの・人を取り除くこと『厄介払い』のことです。ふつう good riddance（やっかいが消えてせいせいする）という決まり文句で使います。" },
+      { "q": "good riddance とは？", "a": "嫌なものや人がいなくなって『せいせいした・やれやれ』という気持ちを表すくだけた表現です。" }
+    ],
+    "quiz": [
+      { "q": "He's gone? Good ___!（せいせいした）", "A": "riddance", "B": "riddle のなぞなぞ", "C": "ribbon のリボン", "D": "ridge の尾根", "correct": "A" },
+      { "q": "good riddance の意味はどれ？", "A": "やっかいが消えてせいせいする", "B": "心からの感謝", "C": "再会の喜び", "D": "深い悲しみ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "riotous",
+    "pron": "ˈraɪətəs",
+    "kana": "ライオタス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "riot（暴動・大騒ぎ）＋ -ous",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "描写"],
+    "meaning_main": "暴動の・無法な／騒々しい・はめを外した／（色などが）あふれんばかりの",
+    "description": "riotous の意味・発音・例文・語源を解説。暴動のように「無法で騒がしい」、はめを外して「大騒ぎの」、また色などが「あふれんばかりの」という使い方を紹介します。",
+    "keywords": ["riotous 意味", "riotous 発音", "騒々しい", "riot 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】暴動の・無法な・騒々しい", "note": "秩序を乱す、はめを外して大騒ぎな。riotous behavior（乱暴な振る舞い）、riotous laughter（爆笑）。" },
+      { "hinshi": "【形容詞】（色・成長などが）あふれんばかりの・豊かな", "note": "a riotous display of color（あふれんばかりの色彩）。" }
+    ],
+    "usages": [
+      { "title": "① 「騒々しい・はめを外した」として", "desc": "大騒ぎなようすを表します。", "example_en": "The party was a riotous success.", "example_ja": "そのパーティーは大盛り上がりの成功だった。" },
+      { "title": "② 「あふれんばかりの」として", "desc": "色などが豊かなようすを表します。", "example_en": "The garden was a riotous mix of colors.", "example_ja": "その庭はあふれんばかりの色の競演だった。" }
+    ],
+    "warn": [
+      "riotous は『暴動の・無法な』のほか、『はめを外して騒がしい（楽しい）』、『（色などが）あふれんばかりの』と幅広い。riot（暴動・大騒ぎ）＋ -ous。",
+      "riotous laughter（爆笑）, a riotous success（大成功）は肯定的な使い方。"
+    ],
+    "etym_note": "riot（暴動・どんちゃん騒ぎ、古フランス語 riote「言い争い」より）に -ous が付いた語です。「騒ぎに満ちた」を意味し、無秩序から豊かさまで幅広く表します。",
+    "etym_chain": [
+      { "node": "riote", "sub": "言い争い・騒ぎ", "era": "古フランス語" },
+      { "node": "riot", "sub": "暴動・大騒ぎ", "era": "中英語" },
+      { "node": "riotous", "sub": "騒々しい・あふれんばかりの", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "riotous laughter", "ja": "爆笑" },
+      { "en": "a riotous success", "ja": "大成功・大盛り上がり" },
+      { "en": "riotous behavior", "ja": "乱暴な振る舞い" },
+      { "en": "a riotous party", "ja": "どんちゃん騒ぎのパーティー" },
+      { "en": "a riotous display of color", "ja": "あふれんばかりの色彩" },
+      { "en": "riotous living", "ja": "放蕩な生活" }
+    ],
+    "related": [
+      { "en": "riot", "ja": "暴動・大騒ぎ" },
+      { "en": "rowdy", "ja": "騒がしい・乱暴な" },
+      { "en": "boisterous", "ja": "騒々しい・元気な" },
+      { "en": "unruly", "ja": "手に負えない" }
+    ],
+    "faq": [
+      { "q": "riotous とはどんな意味？", "a": "『暴動の・無法な・騒々しい』という意味のほか、はめを外して『大騒ぎの（楽しい）』、また色などが『あふれんばかりの・豊かな』という意味もあります。riot（暴動・大騒ぎ）＋ -ous から来ています。" },
+      { "q": "a riotous success とは？", "a": "『（盛り上がって）大成功・大ウケ』という肯定的な意味の表現です。" }
+    ],
+    "quiz": [
+      { "q": "The party was a ___ success.（大盛り上がりの）", "A": "riotous", "B": "righteous の高潔な", "C": "ridiculous のばかげた", "D": "religious の宗教の", "correct": "A" },
+      { "q": "riotous のもとになった語はどれ？", "A": "riot（暴動・大騒ぎ）", "B": "right（正しい）", "C": "ride（乗る）", "D": "rich（豊かな）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "roadster",
+    "pron": "ˈroʊdstər",
+    "kana": "ロードスター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "road（道）＋ -ster",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "乗り物"],
+    "meaning_main": "ロードスター（2人乗りの屋根のないオープンスポーツカー）",
+    "description": "roadster の意味・発音・例文・語源を解説。屋根のない2人乗りのオープンスポーツカー「ロードスター」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["roadster 意味", "roadster 発音", "ロードスター", "roadster 車"],
+    "meanings": [
+      { "hinshi": "【名詞】ロードスター", "note": "屋根のない（または簡易な幌の）2人乗りの軽快なオープンスポーツカー。" }
+    ],
+    "usages": [
+      { "title": "① オープンカーとして", "desc": "2人乗りの屋根のない車を指します。", "example_en": "He drove a vintage red roadster.", "example_ja": "彼はビンテージの赤いロードスターを運転していた。" },
+      { "title": "② スポーツカーとして", "desc": "軽快な走りの車を表します。", "example_en": "The roadster handles beautifully on winding roads.", "example_ja": "そのロードスターはくねった道で見事な操作性を見せる。" }
+    ],
+    "warn": [
+      "roadster は『屋根のない2人乗りのオープンスポーツカー』。road（道）＋ -ster（〜に関わる人・もの）。",
+      "もとは『街道をよく走る馬・人』を指したが、現代では主に車の種類。"
+    ],
+    "etym_note": "road（道）＋ -ster（〜に関わる人・もの）から成り、もとは『街道をよく旅する馬・人』を指しました。のちに『道を快走する車（オープンカー）』の意味になりました。",
+    "etym_chain": [
+      { "node": "road + -ster", "sub": "道＋〜に関わるもの", "era": "近代英語" },
+      { "node": "roadster", "sub": "街道をゆく馬・人", "era": "近代英語" },
+      { "node": "roadster", "sub": "ロードスター（車）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a vintage roadster", "ja": "ビンテージのロードスター" },
+      { "en": "a two-seat roadster", "ja": "2人乗りのロードスター" },
+      { "en": "an open-top roadster", "ja": "屋根のないロードスター" },
+      { "en": "a sporty roadster", "ja": "スポーティーなロードスター" },
+      { "en": "drive a roadster", "ja": "ロードスターを運転する" },
+      { "en": "a classic roadster", "ja": "クラシックなロードスター" }
+    ],
+    "related": [
+      { "en": "convertible", "ja": "オープンカー（幌付き）" },
+      { "en": "sports car", "ja": "スポーツカー" },
+      { "en": "coupe", "ja": "クーペ" },
+      { "en": "cabriolet", "ja": "カブリオレ（オープンカー）" }
+    ],
+    "faq": [
+      { "q": "roadster とはどんな意味？", "a": "屋根のない（または簡易な幌の）2人乗りの軽快なオープンスポーツカー『ロードスター』のことです。" },
+      { "q": "roadster と convertible の違いは？", "a": "roadster は『2人乗りの軽量オープンスポーツカー』、convertible は『屋根を開閉できるオープンカー全般』を指します。" }
+    ],
+    "quiz": [
+      { "q": "He drove a vintage red ___.（ロードスター）", "A": "roadster", "B": "roadside の道端", "C": "rooster のおんどり", "D": "roaster の焙煎機", "correct": "A" },
+      { "q": "roadster はどんな車？", "A": "2人乗りの屋根のないスポーツカー", "B": "大型トラック", "C": "8人乗りのバン", "D": "電車", "correct": "A" }
+    ]
+  }
+]
