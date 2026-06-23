@@ -94,10 +94,19 @@ def build(d):
 
     related = ""
     if d.get("related"):
-        items = "\n".join(
-            ('      <a class="word-chip" href="/word/word/%s.html" style="animation-delay:%.2fs">\n'
-             '        <span class="chip-en">%s</span>\n        <span class="chip-ja">%s</span>\n      </a>') %
-            (r["en"].lower(), i*0.07, e(r["en"]), e(r["ja"])) for i, r in enumerate(d["related"]))
+        chips = []
+        for i, r in enumerate(d["related"]):
+            en = r["en"]
+            inner = ('        <span class="chip-en">%s</span>\n'
+                     '        <span class="chip-ja">%s</span>') % (e(r["en"]), e(r["ja"]))
+            if " " in en:
+                # スペースを含む関連語はリンクにしない（give up, 日本語混入など）
+                chips.append('      <span class="word-chip" style="animation-delay:%.2fs">\n%s\n      </span>'
+                             % (i*0.07, inner))
+            else:
+                chips.append('      <a class="word-chip" href="/word/word/%s.html" style="animation-delay:%.2fs">\n%s\n      </a>'
+                             % (en.lower(), i*0.07, inner))
+        items = "\n".join(chips)
         related = ('  <div class="info-card">\n    <span class="card-label label-related">🔗 関連語・あわせて覚えよう</span>\n'
                    '    <div class="chips-grid">\n%s\n    </div>\n  </div>\n') % items
 
