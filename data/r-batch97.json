@@ -1,0 +1,477 @@
+[
+  {
+    "english": "refinance",
+    "pron": "riːˈfaɪnæns",
+    "kana": "リファイナンス",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ finance（資金を調達する）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "金融"],
+    "meaning_main": "（ローン・債務を）借り換える・資金を調達し直す",
+    "description": "refinance の意味・発音・例文・語源を解説。今あるローンや債務を、より有利な条件の新しい借り入れに「借り換える・資金調達し直す」という金融の語の使い方を紹介します。",
+    "keywords": ["refinance 意味", "refinance 発音", "借り換え", "finance 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（ローン・債務を）借り換える・資金を調達し直す", "note": "今ある借入を新しい（多くはより低金利の）借入に切り替える。refinance the mortgage（住宅ローンを借り換える）。名詞は refinancing。" }
+    ],
+    "usages": [
+      { "title": "① 住宅ローンの借り換えとして", "desc": "より有利な条件に切り替えることを表します。", "example_en": "They refinanced their mortgage at a lower rate.", "example_ja": "彼らは住宅ローンをより低い金利に借り換えた。" },
+      { "title": "② 企業の資金再調達として", "desc": "債務を組み替えることを表します。", "example_en": "The company refinanced its debt.", "example_ja": "その会社は債務を借り換えた。" }
+    ],
+    "warn": [
+      "refinance は『（ローン・債務を）借り換える・資金を調達し直す』。re-（再び）＋ finance（資金を調達する）。名詞は refinancing。",
+      "より低金利・有利な条件に切り替える目的で使うことが多い。"
+    ],
+    "etym_note": "re-（再び）＋ finance（資金・資金を調達する、ラテン語 finis「終わり・支払い」より）から成り、「もう一度資金を調達すること」を意味します。final（最後の）, fine（罰金）と語源的につながります。",
+    "etym_chain": [
+      { "node": "finis", "sub": "終わり・支払い", "era": "ラテン語" },
+      { "node": "finance", "sub": "資金・資金を調達する", "era": "近代英語" },
+      { "node": "refinance", "sub": "借り換える", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "refinance the mortgage", "ja": "住宅ローンを借り換える" },
+      { "en": "refinance the loan", "ja": "ローンを借り換える" },
+      { "en": "refinance the debt", "ja": "債務を借り換える" },
+      { "en": "refinance at a lower rate", "ja": "より低い金利で借り換える" },
+      { "en": "consider refinancing", "ja": "借り換えを検討する" },
+      { "en": "refinancing costs", "ja": "借り換え費用" }
+    ],
+    "related": [
+      { "en": "finance", "ja": "資金を調達する" },
+      { "en": "mortgage", "ja": "住宅ローン" },
+      { "en": "loan", "ja": "ローン・融資" },
+      { "en": "restructure", "ja": "（債務を）再構築する" }
+    ],
+    "faq": [
+      { "q": "refinance とはどんな意味？", "a": "今あるローンや債務を、より有利な条件（多くはより低金利）の新しい借り入れに『借り換える・資金を調達し直す』という動詞です。refinance the mortgage（住宅ローンを借り換える）のように使います。" },
+      { "q": "なぜ refinance（借り換え）をする？", "a": "金利が下がったときに低金利のローンに切り替えて返済額を減らす、月々の返済を組み直すなどの目的で行います。" }
+    ],
+    "quiz": [
+      { "q": "They ___d their mortgage at a lower rate.（借り換えた）", "A": "refinance", "B": "finance の資金を調達する", "C": "fine の罰金", "D": "refine の洗練する", "correct": "A" },
+      { "q": "refinance のもとになった語はどれ？", "A": "finance（資金を調達する）", "B": "refine（洗練する）", "C": "fine（罰金）", "D": "final（最後の）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reintroduce",
+    "pron": "ˌriːɪntrəˈduːs",
+    "kana": "リイントロデュース",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ introduce（導入する）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "再導入する・再び取り入れる／（廃止した制度・生物を）再び持ち込む",
+    "description": "reintroduce の意味・発音・例文・語源を解説。廃止された制度や商品を「再導入する」、また絶滅した地域に生物を「再び持ち込む」という使い方を紹介します。",
+    "keywords": ["reintroduce 意味", "reintroduce 発音", "再導入", "introduce 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再導入する・再び取り入れる", "note": "やめていた制度・商品・習慣を再び取り入れる。reintroduce the policy（その政策を再導入する）。" },
+      { "hinshi": "【動詞】（生物を）再び持ち込む・再導入する", "note": "絶滅した地域に動植物を放して定着させる。reintroduce wolves（オオカミを再導入する）。" }
+    ],
+    "usages": [
+      { "title": "① 制度・商品の再導入として", "desc": "やめていたものを再び取り入れることを表します。", "example_en": "The company reintroduced the popular product.", "example_ja": "その会社は人気商品を再導入した。" },
+      { "title": "② 生物の再導入として", "desc": "絶滅地域に生物を戻すことを表します。", "example_en": "Beavers were reintroduced to the river.", "example_ja": "ビーバーがその川に再導入された。" }
+    ],
+    "warn": [
+      "reintroduce は『（制度・商品を）再導入する』と『（生物を）再び持ち込む』。re-（再び）＋ introduce（導入する）。名詞は reintroduction。",
+      "法案を『再提出する』意味でも使う（reintroduce a bill）。"
+    ],
+    "etym_note": "re-（再び）＋ introduce（導入する、ラテン語 introducere「中へ導く」より）から成り、「もう一度導き入れること」を意味します。introduce（紹介する・導入する）と同じ語根です。",
+    "etym_chain": [
+      { "node": "introducere", "sub": "中へ導く", "era": "ラテン語" },
+      { "node": "introduce", "sub": "導入する・紹介する", "era": "中英語" },
+      { "node": "reintroduce", "sub": "再導入する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reintroduce the policy", "ja": "その政策を再導入する" },
+      { "en": "reintroduce a product", "ja": "商品を再導入する" },
+      { "en": "reintroduce wolves", "ja": "オオカミを再導入する" },
+      { "en": "reintroduce a bill", "ja": "法案を再提出する" },
+      { "en": "be reintroduced", "ja": "再導入される" },
+      { "en": "reintroduce the species", "ja": "その種を再導入する" }
+    ],
+    "related": [
+      { "en": "introduce", "ja": "導入する・紹介する" },
+      { "en": "reintroduction", "ja": "再導入" },
+      { "en": "reinstate", "ja": "復活させる" },
+      { "en": "restore", "ja": "回復する" }
+    ],
+    "faq": [
+      { "q": "reintroduce とはどんな意味？", "a": "やめていた制度・商品・習慣を『再導入する・再び取り入れる』という意味と、絶滅した地域に動植物を『再び持ち込む・再導入する』という意味があります。re-（再び）＋ introduce から来ています。" },
+      { "q": "生物の reintroduction とは？", "a": "かつてその地域にいたが絶滅した動植物を、人の手で放して再び定着させること『（生物の）再導入』です。オオカミやビーバーの再導入が有名です。" }
+    ],
+    "quiz": [
+      { "q": "The company ___d the popular product.（再導入した）", "A": "reintroduce", "B": "introduce の導入する", "C": "produce の生産する", "D": "reduce の減らす", "correct": "A" },
+      { "q": "reintroduce のもとになった語はどれ？", "A": "introduce（導入する）", "B": "produce（生産する）", "C": "reduce（減らす）", "D": "deduce（推論する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "relocate",
+    "pron": "ˌriːloʊˈkeɪt",
+    "kana": "リロケート",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ locate（位置を定める）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "ビジネス"],
+    "meaning_main": "（会社・住居・人を）移転する・移転させる・引っ越す",
+    "description": "relocate の意味・発音・例文・語源を解説。会社・住居・人を別の場所に「移転する・移転させる・引っ越す」というビジネス・日常の語の使い方を紹介します。",
+    "keywords": ["relocate 意味", "relocate 発音", "移転する", "locate 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（会社・住居・人を）移転する・移転させる・引っ越す", "note": "別の場所へ移す／移る。relocate the headquarters（本社を移転する）。名詞は relocation。" }
+    ],
+    "usages": [
+      { "title": "① 会社の移転として", "desc": "事業所を別の場所へ移すことを表します。", "example_en": "The firm relocated its office to London.", "example_ja": "その会社はオフィスをロンドンに移転した。" },
+      { "title": "② 人の引っ越し・転勤として", "desc": "人が別の土地へ移ることを表します。", "example_en": "She relocated for a new job.", "example_ja": "彼女は新しい仕事のため引っ越した。" }
+    ],
+    "warn": [
+      "relocate は『（会社・住居・人を）移転する・移転させる・引っ越す』。re-（再び）＋ locate（位置を定める）。名詞は relocation。",
+      "自動詞（移転する・引っ越す）でも他動詞（移転させる）でも使う。"
+    ],
+    "etym_note": "re-（再び）＋ locate（位置を定める、ラテン語 locare「置く」より）から成り、「別の場所に置き直すこと」を意味します。local（地元の）, location（場所）と同じ語根です。",
+    "etym_chain": [
+      { "node": "locare", "sub": "置く", "era": "ラテン語" },
+      { "node": "locate", "sub": "位置を定める", "era": "近代英語" },
+      { "node": "relocate", "sub": "移転する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "relocate the office", "ja": "オフィスを移転する" },
+      { "en": "relocate to another city", "ja": "別の都市へ引っ越す" },
+      { "en": "relocate for work", "ja": "仕事のため引っ越す" },
+      { "en": "relocate the headquarters", "ja": "本社を移転する" },
+      { "en": "be relocated", "ja": "移転させられる" },
+      { "en": "willing to relocate", "ja": "転勤・移住をいとわない" }
+    ],
+    "related": [
+      { "en": "locate", "ja": "位置を定める" },
+      { "en": "relocation", "ja": "移転・移住" },
+      { "en": "move", "ja": "引っ越す・移す" },
+      { "en": "transfer", "ja": "異動させる" }
+    ],
+    "faq": [
+      { "q": "relocate とはどんな意味？", "a": "会社・住居・人を別の場所へ『移転する・移転させる・引っ越す』という動詞です。relocate the office to London（オフィスをロンドンに移転する）のように使います。名詞は relocation です。" },
+      { "q": "relocate と move の違いは？", "a": "意味は近いですが、relocate はやや改まった語で『（仕事や事業のために）別の土地へ移る・移す』、move は『引っ越す・動かす』全般に使う日常語です。" }
+    ],
+    "quiz": [
+      { "q": "The firm ___d its office to London.（移転した）", "A": "relocate", "B": "locate の位置を定める", "C": "allocate の割り当てる", "D": "dislocate の脱臼させる", "correct": "A" },
+      { "q": "relocate のもとになった語はどれ？", "A": "locate（位置を定める）", "B": "allocate（割り当てる）", "C": "dislocate（脱臼させる）", "D": "decorate（飾る）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rehydrate",
+    "pron": "riːˈhaɪdreɪt",
+    "kana": "リハイドレート",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ hydrate（水分を与える）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "健康・料理"],
+    "meaning_main": "（体に）水分を補給する／（乾物を）もどす・水で戻す",
+    "description": "rehydrate の意味・発音・例文・語源を解説。脱水状態の体に「水分を補給する」、また乾燥した食品を「水で戻す・もどす」という健康・料理の語の使い方を紹介します。",
+    "keywords": ["rehydrate 意味", "rehydrate 発音", "水分補給", "もどす"],
+    "meanings": [
+      { "hinshi": "【動詞】（体に）水分を補給する", "note": "失った水分を補う。rehydrate after exercise（運動後に水分を補給する）。" },
+      { "hinshi": "【動詞】（乾物を）もどす・水で戻す", "note": "乾燥食品に水を加えて元に戻す。rehydrate the mushrooms（きのこを水で戻す）。" }
+    ],
+    "usages": [
+      { "title": "① 「水分を補給する」として", "desc": "体に水分を補うことを表します。", "example_en": "Drink water to rehydrate after running.", "example_ja": "走ったあとは水を飲んで水分を補給して。" },
+      { "title": "② 「乾物をもどす」として", "desc": "乾燥食品を水で戻すことを表します。", "example_en": "Rehydrate the dried fruit in warm water.", "example_ja": "ドライフルーツをぬるま湯で戻して。" }
+    ],
+    "warn": [
+      "rehydrate は『（体に）水分を補給する』と『（乾物を）水で戻す・もどす』。re-（再び）＋ hydrate（水分を与える）。",
+      "反対は dehydrate（脱水する・乾燥させる）。"
+    ],
+    "etym_note": "re-（再び）＋ hydrate（水分を与える、ギリシャ語 hydōr「水」より）から成り、「再び水分を与えること」を意味します。hydrant（消火栓）, hydrogen（水素）と同じ hydōr を語根にもちます。",
+    "etym_chain": [
+      { "node": "hydōr", "sub": "水", "era": "ギリシャ語" },
+      { "node": "hydrate", "sub": "水分を与える", "era": "近代英語" },
+      { "node": "rehydrate", "sub": "水分を補給する・もどす", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rehydrate after exercise", "ja": "運動後に水分を補給する" },
+      { "en": "drink to rehydrate", "ja": "水分補給のために飲む" },
+      { "en": "rehydrate the mushrooms", "ja": "きのこを水で戻す" },
+      { "en": "rehydrate the dried fruit", "ja": "ドライフルーツを戻す" },
+      { "en": "rehydrate the skin", "ja": "肌にうるおいを与える" },
+      { "en": "stay hydrated and rehydrate", "ja": "水分を保ち補給する" }
+    ],
+    "related": [
+      { "en": "hydrate", "ja": "水分を与える" },
+      { "en": "dehydrate", "ja": "脱水する・乾燥させる（反対）" },
+      { "en": "moisturize", "ja": "うるおす" },
+      { "en": "soak", "ja": "浸す・ふやかす" }
+    ],
+    "faq": [
+      { "q": "rehydrate とはどんな意味？", "a": "脱水状態の体に『水分を補給する』という意味と、乾燥した食品を『水で戻す・もどす』という意味があります。rehydrate after exercise（運動後に水分を補給する）のように使います。" },
+      { "q": "rehydrate の反対語は？", "a": "dehydrate（脱水する・乾燥させる）です。hydrate（水分を与える）⇔ dehydrate（脱水する）、rehydrate（水分を補給し直す）の関係です。" }
+    ],
+    "quiz": [
+      { "q": "Drink water to ___ after running.（水分を補給する）", "A": "rehydrate", "B": "dehydrate の脱水する", "C": "celebrate の祝う", "D": "decorate の飾る", "correct": "A" },
+      { "q": "rehydrate の反対の意味はどれ？", "A": "dehydrate（脱水する）", "B": "hydrate（水分を与える）", "C": "create（創る）", "D": "narrate（語る）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reincarnate",
+    "pron": "ˌriːɪnˈkɑːrneɪt",
+    "kana": "リインカーネート",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ incarnate（肉体を与える）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "宗教・文化"],
+    "meaning_main": "生まれ変わる・転生する・（魂を）別の体に宿らせる",
+    "description": "reincarnate の意味・発音・例文・語源を解説。死後に魂が別の体に宿って「生まれ変わる・転生する」という宗教・文化の語の使い方を分かりやすく紹介します。",
+    "keywords": ["reincarnate 意味", "reincarnate 発音", "転生", "生まれ変わる"],
+    "meanings": [
+      { "hinshi": "【動詞】生まれ変わる・転生する・別の体に宿らせる", "note": "死後、魂が別の体に宿って再び生まれる。be reincarnated as（〜に生まれ変わる）。名詞は reincarnation（輪廻転生）。" }
+    ],
+    "usages": [
+      { "title": "① 「生まれ変わる」として", "desc": "別の体に宿って再び生まれることを表します。", "example_en": "Some believe the soul is reincarnated after death.", "example_ja": "死後に魂が生まれ変わると信じる人もいる。" },
+      { "title": "② be reincarnated as として", "desc": "「〜に転生する」を表します。", "example_en": "He joked that he wanted to be reincarnated as a cat.", "example_ja": "彼は猫に生まれ変わりたいと冗談を言った。" }
+    ],
+    "warn": [
+      "reincarnate は『生まれ変わる・転生する』。ふつう受け身 be reincarnated as（〜に生まれ変わる）で使う。名詞は reincarnation（輪廻転生）。",
+      "re-（再び）＋ incarnate（肉体を与える）。carnal（肉体の）と同じ語根。"
+    ],
+    "etym_note": "re-（再び）＋ incarnate（in-「中に」＋ caro/carnis「肉」＝肉体を与える）から成り、「再び肉体に宿らせること」を意味します。carnivore（肉食動物）, carnation（カーネーション）と同じ caro を語根にもちます。",
+    "etym_chain": [
+      { "node": "caro", "sub": "肉", "era": "ラテン語" },
+      { "node": "incarnate", "sub": "肉体を与える", "era": "中英語" },
+      { "node": "reincarnate", "sub": "生まれ変わる・転生する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be reincarnated as", "ja": "〜に生まれ変わる" },
+      { "en": "the soul reincarnates", "ja": "魂が転生する" },
+      { "en": "believe in reincarnation", "ja": "輪廻転生を信じる" },
+      { "en": "reincarnated in a new body", "ja": "新しい体に生まれ変わって" },
+      { "en": "be reincarnated after death", "ja": "死後に生まれ変わる" },
+      { "en": "a reincarnated spirit", "ja": "転生した魂" }
+    ],
+    "related": [
+      { "en": "reincarnation", "ja": "輪廻転生" },
+      { "en": "rebirth", "ja": "再生・生まれ変わり" },
+      { "en": "transmigration", "ja": "霊魂の転生" },
+      { "en": "soul", "ja": "魂" }
+    ],
+    "faq": [
+      { "q": "reincarnate とはどんな意味？", "a": "死後に魂が別の体に宿って『生まれ変わる・転生する』という動詞です。ふつう受け身 be reincarnated as（〜に生まれ変わる）で使います。名詞は reincarnation（輪廻転生）です。" },
+      { "q": "reincarnate と rebirth の違いは？", "a": "reincarnate は特に『（魂が別の体に宿る）転生・輪廻』、rebirth は『再生・生まれ変わり』全般（精神的な刷新も含む）を指します。" }
+    ],
+    "quiz": [
+      { "q": "Some believe the soul is ___d after death.（生まれ変わる）", "A": "reincarnate", "B": "incarcerate の投獄する", "C": "concentrate の集中する", "D": "decorate の飾る", "correct": "A" },
+      { "q": "reincarnate の語根 caro の意味はどれ？", "A": "肉（体）", "B": "魂", "C": "光", "D": "心", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recast",
+    "pron": "riːˈkæst",
+    "kana": "リキャスト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ cast（鋳造する・配役する）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "メディア・頻出語"],
+    "meaning_main": "（役を）配役し直す／（内容・形を）作り変える・練り直す・鋳造し直す",
+    "description": "recast の意味・発音・例文・語源を解説。映画・劇の「配役を変える」、また計画や文章を「作り変える・練り直す」、金属を「鋳造し直す」という使い方を紹介します。",
+    "keywords": ["recast 意味", "recast 発音", "配役し直す", "作り変える"],
+    "meanings": [
+      { "hinshi": "【動詞】（役を）配役し直す", "note": "映画・劇の役を別の俳優に変える。recast the lead role（主役を配役し直す）。" },
+      { "hinshi": "【動詞】（内容・形を）作り変える・練り直す", "note": "計画・文章・考えを別の形に作り直す。recast the argument（議論を組み立て直す）。" },
+      { "hinshi": "【動詞】（金属を）鋳造し直す", "note": "溶かして別の形に鋳直す。" }
+    ],
+    "usages": [
+      { "title": "① 「配役し直す」として", "desc": "役を別の俳優に変えることを表します。", "example_en": "The director recast the main character.", "example_ja": "監督は主役を配役し直した。" },
+      { "title": "② 「作り変える」として", "desc": "内容や形を別の形に練り直すことを表します。", "example_en": "She recast the story from a new angle.", "example_ja": "彼女はその物語を新しい角度から組み立て直した。" }
+    ],
+    "warn": [
+      "recast は『（役を）配役し直す』『（内容・形を）作り変える・練り直す』『（金属を）鋳造し直す』と多義。re-（再び）＋ cast。活用は cast と同じ recast-recast-recast（無変化）。",
+      "映画・劇の配役変更、議論や計画の組み立て直しで頻出。"
+    ],
+    "etym_note": "re-（再び）＋ cast（投げる・鋳造する・配役する、古ノルド語 kasta「投げる」より）から成り、「もう一度形づくる・配役すること」を意味します。",
+    "etym_chain": [
+      { "node": "kasta", "sub": "投げる", "era": "古ノルド語" },
+      { "node": "cast", "sub": "鋳造する・配役する", "era": "中英語" },
+      { "node": "recast", "sub": "配役し直す・作り変える", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "recast the role", "ja": "その役を配役し直す" },
+      { "en": "recast the movie", "ja": "映画を配役し直す" },
+      { "en": "recast the argument", "ja": "議論を組み立て直す" },
+      { "en": "recast the plan", "ja": "計画を練り直す" },
+      { "en": "recast the story", "ja": "物語を作り変える" },
+      { "en": "recast in a new form", "ja": "新しい形に作り変える" }
+    ],
+    "related": [
+      { "en": "cast", "ja": "配役する・鋳造する" },
+      { "en": "recasting", "ja": "配役し直し・作り変え" },
+      { "en": "reshape", "ja": "形を変える" },
+      { "en": "reframe", "ja": "とらえ直す" }
+    ],
+    "faq": [
+      { "q": "recast とはどんな意味？", "a": "映画・劇の『配役を変える』、計画・文章・考えを『作り変える・練り直す』、金属を『鋳造し直す』など、文脈によっていくつかの意味があります。re-（再び）＋ cast から来ています。" },
+      { "q": "recast の過去形は？", "a": "cast と同じで recast-recast-recast（無変化）です。過去形・過去分詞とも recast になります。" }
+    ],
+    "quiz": [
+      { "q": "The director ___ the main character.（配役し直した）", "A": "recast", "B": "broadcast の放送する", "C": "forecast の予報する", "D": "outcast の追放された人", "correct": "A" },
+      { "q": "recast の過去形はどれ？", "A": "recast（無変化）", "B": "recasted", "C": "recasting", "D": "recasts", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reformulate",
+    "pron": "riːˈfɔːrmjuleɪt",
+    "kana": "リフォーミュレート",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ formulate（明確に述べる・調合する）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "学術・技術"],
+    "meaning_main": "（考え・計画を）練り直す・組み立て直す／（製品の）処方・配合を変える",
+    "description": "reformulate の意味・発音・例文・語源を解説。理論や計画を「練り直す・組み立て直す」、また薬や製品の「処方・配合を変える」という使い方を分かりやすく紹介します。",
+    "keywords": ["reformulate 意味", "reformulate 発音", "練り直す", "配合を変える"],
+    "meanings": [
+      { "hinshi": "【動詞】（考え・計画を）練り直す・組み立て直す", "note": "理論・方針・主張を別の形に整え直す。reformulate the theory（理論を組み立て直す）。" },
+      { "hinshi": "【動詞】（薬・製品の）処方・配合を変える", "note": "成分の配合を変えて作り直す。reformulate the product（製品の配合を変える）。" }
+    ],
+    "usages": [
+      { "title": "① 「練り直す」として", "desc": "考えや計画を整え直すことを表します。", "example_en": "We need to reformulate our strategy.", "example_ja": "私たちは戦略を練り直す必要がある。" },
+      { "title": "② 「配合を変える」として", "desc": "製品の成分を作り直すことを表します。", "example_en": "The company reformulated the drink to reduce sugar.", "example_ja": "その会社は砂糖を減らすため飲料の配合を変えた。" }
+    ],
+    "warn": [
+      "reformulate は『（考え・計画を）練り直す・組み立て直す』と『（薬・製品の）処方・配合を変える』。re-（再び）＋ formulate。名詞は reformulation。",
+      "学術では『理論・問題を別の形に定式化し直す』意味でも使う。"
+    ],
+    "etym_note": "re-（再び）＋ formulate（明確に述べる・調合する、formula「公式・処方」より）から成り、「もう一度組み立て直すこと」を意味します。form（形）, formula（公式・処方）と同じ語根です。",
+    "etym_chain": [
+      { "node": "formula", "sub": "公式・処方", "era": "ラテン語" },
+      { "node": "formulate", "sub": "明確に述べる・調合する", "era": "近代英語" },
+      { "node": "reformulate", "sub": "練り直す・配合を変える", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reformulate the strategy", "ja": "戦略を練り直す" },
+      { "en": "reformulate the theory", "ja": "理論を組み立て直す" },
+      { "en": "reformulate the product", "ja": "製品の配合を変える" },
+      { "en": "reformulate the question", "ja": "問いを立て直す" },
+      { "en": "reformulate the policy", "ja": "方針を練り直す" },
+      { "en": "reformulate to reduce sugar", "ja": "砂糖を減らすため配合を変える" }
+    ],
+    "related": [
+      { "en": "formulate", "ja": "明確に述べる・調合する" },
+      { "en": "formula", "ja": "公式・処方" },
+      { "en": "revise", "ja": "改訂する" },
+      { "en": "rework", "ja": "作り直す" }
+    ],
+    "faq": [
+      { "q": "reformulate とはどんな意味？", "a": "理論や計画を『練り直す・組み立て直す』という意味と、薬や製品の『処方・配合を変える』という意味があります。reformulate the strategy（戦略を練り直す）のように使います。" },
+      { "q": "reformulate と reform の違いは？", "a": "reform は『（制度を）改革する』、reformulate は『（考え・計画・配合を）別の形に組み立て直す・定式化し直す』ことに重点があります。" }
+    ],
+    "quiz": [
+      { "q": "We need to ___ our strategy.（練り直す）", "A": "reformulate", "B": "formulate の明確に述べる", "C": "reform の改革する", "D": "stimulate の刺激する", "correct": "A" },
+      { "q": "reformulate のもとになった語はどれ？", "A": "formulate（明確に述べる・調合する）", "B": "stimulate（刺激する）", "C": "circulate（循環させる）", "D": "calculate（計算する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rebalance",
+    "pron": "riːˈbæləns",
+    "kana": "リバランス",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ balance（つり合わせる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "金融・頻出語"],
+    "meaning_main": "つり合いを取り直す・バランスを調整し直す／（資産配分を）再調整する",
+    "description": "rebalance の意味・発音・例文・語源を解説。崩れたバランスを「取り直す・調整し直す」、また投資の「資産配分を再調整する（リバランス）」という使い方を紹介します。",
+    "keywords": ["rebalance 意味", "rebalance 発音", "バランス調整", "リバランス"],
+    "meanings": [
+      { "hinshi": "【動詞】つり合いを取り直す・バランスを調整し直す", "note": "崩れた均衡を整え直す。rebalance the economy（経済のバランスを取り直す）。" },
+      { "hinshi": "【動詞】（資産配分を）再調整する", "note": "投資のポートフォリオの比率を目標に戻す。rebalance the portfolio（資産配分をリバランスする）。" }
+    ],
+    "usages": [
+      { "title": "① 「バランスを取り直す」として", "desc": "崩れた均衡を整え直すことを表します。", "example_en": "The reform aims to rebalance the economy.", "example_ja": "その改革は経済のバランスを取り直すことを目指している。" },
+      { "title": "② 「資産配分を再調整する」として", "desc": "投資比率を目標に戻すことを表します。", "example_en": "Investors rebalance their portfolios regularly.", "example_ja": "投資家は定期的に資産配分をリバランスする。" }
+    ],
+    "warn": [
+      "rebalance は『つり合いを取り直す・調整し直す』、また投資の『（資産配分の）リバランス』。re-（再び）＋ balance（つり合わせる）。名詞は rebalancing。",
+      "経済・仕事と生活・投資など幅広く使う。"
+    ],
+    "etym_note": "re-（再び）＋ balance（つり合い・つり合わせる、ラテン語 bilanx「二つの皿のはかり」より）から成り、「再びつり合わせること」を意味します。",
+    "etym_chain": [
+      { "node": "bilanx", "sub": "二皿のはかり", "era": "ラテン語" },
+      { "node": "balance", "sub": "つり合い・つり合わせる", "era": "中英語" },
+      { "node": "rebalance", "sub": "バランスを取り直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rebalance the portfolio", "ja": "資産配分をリバランスする" },
+      { "en": "rebalance the economy", "ja": "経済のバランスを取り直す" },
+      { "en": "rebalance work and life", "ja": "仕事と生活のバランスを取り直す" },
+      { "en": "rebalance the budget", "ja": "予算のバランスを調整し直す" },
+      { "en": "need to rebalance", "ja": "バランスを取り直す必要がある" },
+      { "en": "portfolio rebalancing", "ja": "ポートフォリオのリバランス" }
+    ],
+    "related": [
+      { "en": "balance", "ja": "つり合い・つり合わせる" },
+      { "en": "adjust", "ja": "調整する" },
+      { "en": "realign", "ja": "調整し直す" },
+      { "en": "stabilize", "ja": "安定させる" }
+    ],
+    "faq": [
+      { "q": "rebalance とはどんな意味？", "a": "崩れたつり合いを『取り直す・調整し直す』という意味と、投資の『資産配分を再調整する（リバランス）』という意味があります。rebalance the portfolio（資産配分をリバランスする）のように使います。" },
+      { "q": "投資の rebalance（リバランス）とは？", "a": "値動きで崩れた資産の比率を、目標とする配分（例えば株60％・債券40％）に戻すよう売買して調整することです。" }
+    ],
+    "quiz": [
+      { "q": "Investors ___ their portfolios regularly.（リバランスする）", "A": "rebalance", "B": "balance のつり合わせる", "C": "advance の前進する", "D": "enhance の高める", "correct": "A" },
+      { "q": "rebalance のもとになった語はどれ？", "A": "balance（つり合い）", "B": "advance（前進）", "C": "enhance（高める）", "D": "romance（恋愛）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "repopulate",
+    "pron": "riːˈpɒpjuleɪt",
+    "kana": "リポピュレート",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ populate（住まわせる）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "環境・IT"],
+    "meaning_main": "（地域に）再び住み着かせる・個体数を回復させる／（データを）再び埋め込む",
+    "description": "repopulate の意味・発音・例文・語源を解説。人や動物が減った地域に「再び住み着かせる・個体数を回復させる」、またITでデータを「再び埋め込む」という使い方を紹介します。",
+    "keywords": ["repopulate 意味", "repopulate 発音", "再び住まわせる", "populate 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（地域に）再び住み着かせる・個体数を回復させる", "note": "減った人口・個体数を再び増やす・住まわせる。repopulate the area（その地域に再び人を住まわせる）。" },
+      { "hinshi": "【動詞】（IT）（データ・項目を）再び埋め込む・読み込み直す", "note": "リストやフォームにデータを再び入れる。repopulate the form（フォームを再び埋める）。" }
+    ],
+    "usages": [
+      { "title": "① 「再び住み着かせる」として", "desc": "減った人口・個体数を回復させることを表します。", "example_en": "Efforts were made to repopulate the forest with deer.", "example_ja": "森にシカを再び住み着かせる取り組みがなされた。" },
+      { "title": "② 「データを再び埋め込む」として", "desc": "リストやフォームにデータを再び入れることを表します。", "example_en": "The system repopulated the list automatically.", "example_ja": "システムはリストを自動で再び埋めた。" }
+    ],
+    "warn": [
+      "repopulate は『（地域に）再び住み着かせる・個体数を回復させる』と、ITで『（データを）再び埋め込む・読み込み直す』。re-（再び）＋ populate（住まわせる）。",
+      "細胞・微生物などが『再び増える』意味でも使う。"
+    ],
+    "etym_note": "re-（再び）＋ populate（住まわせる、ラテン語 populus「人々」より）から成り、「再び人や生き物を住まわせること」を意味します。population（人口）, popular（人気の）と同じ populus を語根にもちます。",
+    "etym_chain": [
+      { "node": "populus", "sub": "人々", "era": "ラテン語" },
+      { "node": "populate", "sub": "住まわせる", "era": "近代英語" },
+      { "node": "repopulate", "sub": "再び住まわせる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "repopulate the area", "ja": "その地域に再び住まわせる" },
+      { "en": "repopulate the forest", "ja": "森に再び生き物を住まわせる" },
+      { "en": "repopulate the species", "ja": "その種の個体数を回復させる" },
+      { "en": "repopulate the list", "ja": "リストを再び埋める" },
+      { "en": "repopulate with native plants", "ja": "在来植物を再び定着させる" },
+      { "en": "repopulate the gut", "ja": "腸内（細菌）を再び増やす" }
+    ],
+    "related": [
+      { "en": "populate", "ja": "住まわせる" },
+      { "en": "population", "ja": "人口・個体数" },
+      { "en": "reintroduce", "ja": "再導入する" },
+      { "en": "restore", "ja": "回復する" }
+    ],
+    "faq": [
+      { "q": "repopulate とはどんな意味？", "a": "人や動物が減った地域に『再び住み着かせる・個体数を回復させる』という意味と、ITでリストやフォームに『データを再び埋め込む』という意味があります。re-（再び）＋ populate から来ています。" },
+      { "q": "repopulate と reintroduce の違いは？", "a": "reintroduce は『（絶滅した地域に生物を）再び持ち込む』こと、repopulate は『（持ち込んだ生物や人の）数を増やして再び満たす』ことに重点があります。" }
+    ],
+    "quiz": [
+      { "q": "Efforts were made to ___ the forest with deer.（再び住まわせる）", "A": "repopulate", "B": "populate の住まわせる", "C": "popularize の普及させる", "D": "manipulate の操る", "correct": "A" },
+      { "q": "repopulate のもとになった語はどれ？", "A": "populate（住まわせる）", "B": "popular（人気の）", "C": "manipulate（操る）", "D": "regulate（規制する）", "correct": "A" }
+    ]
+  }
+]

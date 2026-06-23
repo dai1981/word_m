@@ -1,0 +1,55 @@
+[
+  {
+    "english": "reconstitute",
+    "pron": "ˌriːˈkɒnstɪtjuːt",
+    "kana": "リコンスティテュート",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ constitute（構成する）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "やや硬い語"],
+    "meaning_main": "（乾燥食品を）水で戻す・元に戻す／（組織を）再構成する",
+    "description": "reconstitute の意味・発音・例文・語源を解説。乾燥食品を「水で戻す」、また組織を「再構成する・作り直す」という使い方を分かりやすく紹介します。",
+    "keywords": ["reconstitute 意味", "reconstitute 発音", "水で戻す", "constitute 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（乾燥・濃縮した食品を）水で戻す・元に戻す", "note": "粉末・乾物に水を加えて元の状態に戻す。reconstitute dried milk（粉ミルクを水で溶く）。" },
+      { "hinshi": "【動詞】（組織・委員会を）再構成する・作り直す", "note": "解散したものを新たに組み立て直す。The committee was reconstituted.（委員会は再構成された）。" }
+    ],
+    "usages": [
+      { "title": "① 食品を「水で戻す」として", "desc": "乾物・粉末を水で元に戻すことを表します。", "example_en": "Reconstitute the dried mushrooms in warm water.", "example_ja": "干しキノコをぬるま湯で戻しなさい。" },
+      { "title": "② 組織を「再構成する」として", "desc": "解体したものを作り直すことを表します。", "example_en": "The team was reconstituted after the merger.", "example_ja": "合併後、そのチームは再構成された。" }
+    ],
+    "warn": [
+      "reconstitute は食品なら『水で戻す』、組織なら『再構成する』。re-（再び）＋ constitute（構成する）。",
+      "やや硬い語。日常では soak（浸す）や rebuild（作り直す）も使われる。"
+    ],
+    "etym_note": "re-（再び）＋ constitute（構成する、ラテン語 constituere「組み立てる」より）から成り、「再び元の形に組み立てること」を意味します。constitution（構成・憲法）と同じ語根です。",
+    "etym_chain": [
+      { "node": "constituere", "sub": "組み立てる", "era": "ラテン語" },
+      { "node": "constitute", "sub": "構成する", "era": "中英語" },
+      { "node": "reconstitute", "sub": "水で戻す・再構成する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reconstitute dried milk", "ja": "粉ミルクを水で溶く" },
+      { "en": "reconstitute the powder", "ja": "粉末を水で戻す" },
+      { "en": "reconstitute with water", "ja": "水で元に戻す" },
+      { "en": "reconstitute a committee", "ja": "委員会を再構成する" },
+      { "en": "reconstitute the team", "ja": "チームを作り直す" },
+      { "en": "fully reconstituted", "ja": "完全に元に戻った" }
+    ],
+    "related": [
+      { "en": "constitute", "ja": "構成する" },
+      { "en": "rehydrate", "ja": "水分を補給する・水で戻す" },
+      { "en": "reconstruct", "ja": "再建する" },
+      { "en": "reassemble", "ja": "組み立て直す" }
+    ],
+    "faq": [
+      { "q": "reconstitute とはどんな意味？", "a": "乾燥・濃縮した食品を『水で戻す・元に戻す』という意味と、組織を『再構成する・作り直す』という意味があります。reconstitute dried milk（粉ミルクを水で溶く）のように使います。" },
+      { "q": "reconstitute と rehydrate の違いは？", "a": "どちらも『水で戻す』ですが、rehydrate は『水分を補給する』点に重点があり、reconstitute は『粉末・濃縮物を加水して元の形・状態に戻す』点に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "Reconstitute the dried mushrooms in warm water.（戻す）", "A": "reconstitute", "B": "constitute の構成する", "C": "substitute の代用する", "D": "institute の設立する", "correct": "A" },
+      { "q": "reconstitute のもとになった語はどれ？", "A": "constitute（構成する）", "B": "substitute（代用する）", "C": "institute（設立する）", "D": "distribute（分配する）", "correct": "A" }
+    ]
+  }
+]
