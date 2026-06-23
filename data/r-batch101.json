@@ -1,0 +1,525 @@
+[
+  {
+    "english": "rabies",
+    "pron": "ˈreɪbiːz",
+    "kana": "レイビーズ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 rabies（狂乱）より",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "医学・動物"],
+    "meaning_main": "狂犬病（動物から感染するウイルス病）",
+    "description": "rabies の意味・発音・例文・語源を解説。イヌなどの動物にかまれてうつるウイルス病「狂犬病」を表す名詞の使い方を分かりやすく紹介します。",
+    "keywords": ["rabies 意味", "rabies 発音", "狂犬病", "ワクチン"],
+    "meanings": [
+      { "hinshi": "【名詞】狂犬病", "note": "感染した動物にかまれてうつる、神経をおかすウイルス病。単数扱い。a rabies vaccine（狂犬病ワクチン）。" }
+    ],
+    "usages": [
+      { "title": "① 病気としての「狂犬病」", "desc": "動物から感染するウイルス病を表します。", "example_en": "The dog was vaccinated against rabies.", "example_ja": "そのイヌは狂犬病の予防接種を受けた。" },
+      { "title": "② 感染の警告として", "desc": "野生動物のかみ傷の危険を表します。", "example_en": "If a wild animal bites you, watch for rabies.", "example_ja": "野生動物にかまれたら狂犬病に注意しなさい。" }
+    ],
+    "warn": [
+      "rabies は『狂犬病』。語尾に s があるが単数扱い（Rabies is dangerous.）。",
+      "形容詞 rabid（狂犬病にかかった・過激な）と関連。"
+    ],
+    "etym_note": "ラテン語 rabies（『狂乱・激怒』、rabere「荒れ狂う」より）に由来し、感染すると凶暴になることから病名になりました。rabid（凶暴な・過激な）と同じ語根です。",
+    "etym_chain": [
+      { "node": "rabere", "sub": "荒れ狂う", "era": "ラテン語" },
+      { "node": "rabies", "sub": "狂乱", "era": "ラテン語" },
+      { "node": "rabies", "sub": "狂犬病", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rabies vaccine", "ja": "狂犬病ワクチン" },
+      { "en": "vaccinated against rabies", "ja": "狂犬病の予防接種を受けた" },
+      { "en": "contract rabies", "ja": "狂犬病に感染する" },
+      { "en": "a rabies shot", "ja": "狂犬病の注射" },
+      { "en": "the spread of rabies", "ja": "狂犬病の広がり" },
+      { "en": "rabies-free", "ja": "狂犬病のない（清浄な）" }
+    ],
+    "related": [
+      { "en": "rabid", "ja": "狂犬病にかかった・過激な" },
+      { "en": "vaccine", "ja": "ワクチン" },
+      { "en": "virus", "ja": "ウイルス" },
+      { "en": "infection", "ja": "感染" }
+    ],
+    "faq": [
+      { "q": "rabies とはどんな意味？", "a": "感染した動物にかまれてうつる、神経をおかすウイルス病『狂犬病』のことです。The dog was vaccinated against rabies.（イヌは狂犬病の予防接種を受けた）のように使います。" },
+      { "q": "rabies は複数形？単数扱い？", "a": "語尾に s がありますが単数扱いの名詞です。Rabies is a serious disease.（狂犬病は深刻な病気だ）のように is を使います。" }
+    ],
+    "quiz": [
+      { "q": "The dog was vaccinated against ___.（狂犬病）", "A": "rabies", "B": "rabbit のウサギ", "C": "ribs の肋骨", "D": "babies の赤ちゃん", "correct": "A" },
+      { "q": "rabies と関連する形容詞はどれ？", "A": "rabid（狂犬病にかかった・過激な）", "B": "rapid（速い）", "C": "valid（有効な）", "D": "vivid（鮮やかな）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "raccoon",
+    "pron": "ræˈkuːn",
+    "kana": "ラクーン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "アルゴンキン語 ahrah-koon-em（手でこする者）より",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "動物"],
+    "meaning_main": "アライグマ",
+    "description": "raccoon の意味・発音・例文・語源を解説。目のまわりが黒く、北米にすむ動物「アライグマ」を表す名詞の使い方と語源を分かりやすく紹介します。",
+    "keywords": ["raccoon 意味", "raccoon 発音", "アライグマ", "動物"],
+    "meanings": [
+      { "hinshi": "【名詞】アライグマ", "note": "目のまわりが黒く、しま模様の尾を持つ北米の動物。物を水で洗うようなしぐさで知られる。複数形は raccoons。" }
+    ],
+    "usages": [
+      { "title": "① 動物としての「アライグマ」", "desc": "北米にすむ夜行性の動物を表します。", "example_en": "A raccoon knocked over the trash can.", "example_ja": "アライグマがゴミ箱を倒した。" },
+      { "title": "② 見た目の特徴とともに", "desc": "目のまわりの黒い模様を表します。", "example_en": "The raccoon's face looks like it wears a mask.", "example_ja": "アライグマの顔は仮面をつけているように見える。" }
+    ],
+    "warn": [
+      "raccoon は『アライグマ』。つづりは c が2つ（ra-cc-oon）。イギリスでは racoon とも書く。",
+      "夜行性（nocturnal）で、北米原産。日本でも外来種として知られる。"
+    ],
+    "etym_note": "北米先住民アルゴンキン語の ahrah-koon-em（『手でこする・引っかく者』の意）に由来します。前足を器用に使うしぐさからの名です。",
+    "etym_chain": [
+      { "node": "ahrah-koon-em", "sub": "手でこする者", "era": "アルゴンキン語" },
+      { "node": "raugroughcun", "sub": "アライグマ", "era": "17世紀英語" },
+      { "node": "raccoon", "sub": "アライグマ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a wild raccoon", "ja": "野生のアライグマ" },
+      { "en": "a raccoon in the yard", "ja": "庭にいるアライグマ" },
+      { "en": "raccoon eyes", "ja": "（目の周りの黒い）アライグマ目" },
+      { "en": "a baby raccoon", "ja": "アライグマの赤ちゃん" },
+      { "en": "a raccoon's striped tail", "ja": "アライグマのしま模様の尾" },
+      { "en": "scare off a raccoon", "ja": "アライグマを追い払う" }
+    ],
+    "related": [
+      { "en": "possum", "ja": "オポッサム" },
+      { "en": "badger", "ja": "アナグマ" },
+      { "en": "nocturnal", "ja": "夜行性の" },
+      { "en": "mammal", "ja": "哺乳類" }
+    ],
+    "faq": [
+      { "q": "raccoon とはどんな意味？", "a": "目のまわりが黒く、しま模様の尾を持つ北米の動物『アライグマ』のことです。A raccoon knocked over the trash can.（アライグマがゴミ箱を倒した）のように使います。" },
+      { "q": "raccoon の名前の由来は？", "a": "北米先住民の言葉で『手でこする・引っかく者』を意味する語が由来です。前足を器用に使って物をいじるしぐさから名づけられました。" }
+    ],
+    "quiz": [
+      { "q": "A ___ knocked over the trash can.（アライグマ）", "A": "raccoon", "B": "balloon の風船", "C": "cartoon の漫画", "D": "lagoon の潟（かた）", "correct": "A" },
+      { "q": "raccoon の特徴として正しいのは？", "A": "目のまわりが黒くしま模様の尾を持つ", "B": "空を飛ぶ", "C": "水中だけにすむ", "D": "とても大きな角を持つ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "racetrack",
+    "pron": "ˈreɪstræk",
+    "kana": "レーストラック",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "race（競走）＋ track（走路）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "スポーツ"],
+    "meaning_main": "レース場・競走路（競馬・自動車などの）",
+    "description": "racetrack の意味・発音・例文・語源を解説。競馬や自動車レースなどを行う「レース場・競走路」を表す名詞の使い方を分かりやすく紹介します。",
+    "keywords": ["racetrack 意味", "racetrack 発音", "レース場", "競走路"],
+    "meanings": [
+      { "hinshi": "【名詞】レース場・競走路", "note": "競馬・自動車・陸上などのレースを行う環状の走路や施設。a horse racetrack（競馬場）。" }
+    ],
+    "usages": [
+      { "title": "① 「競馬場」として", "desc": "馬のレースを行う場所を表します。", "example_en": "They spent the afternoon at the racetrack.", "example_ja": "彼らは午後を競馬場で過ごした。" },
+      { "title": "② 「サーキット」として", "desc": "自動車などの走路を表します。", "example_en": "The cars sped around the racetrack.", "example_ja": "車はレース場を猛スピードで周回した。" }
+    ],
+    "warn": [
+      "racetrack は『レース場・競走路』。race（競走）＋ track（走路）。自動車では circuit（サーキット）とも言う。",
+      "track 単独でも『競走路・陸上トラック』を表す。"
+    ],
+    "etym_note": "race（競走、古ノルド語 rás「走り・流れ」より）＋ track（足跡・走路、古フランス語 trac より）から成る複合語で、「競走のための走路」を意味します。",
+    "etym_chain": [
+      { "node": "rás + trac", "sub": "走り＋走路", "era": "古ノルド語・古仏語" },
+      { "node": "race + track", "sub": "競走＋走路", "era": "近代英語" },
+      { "node": "racetrack", "sub": "レース場", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a horse racetrack", "ja": "競馬場" },
+      { "en": "at the racetrack", "ja": "レース場で" },
+      { "en": "around the racetrack", "ja": "レース場を周回して" },
+      { "en": "a dirt racetrack", "ja": "ダートのレース場" },
+      { "en": "build a racetrack", "ja": "レース場を建設する" },
+      { "en": "an oval racetrack", "ja": "楕円形のレース場" }
+    ],
+    "related": [
+      { "en": "track", "ja": "走路・トラック" },
+      { "en": "circuit", "ja": "サーキット" },
+      { "en": "race", "ja": "競走・レース" },
+      { "en": "course", "ja": "コース" }
+    ],
+    "faq": [
+      { "q": "racetrack とはどんな意味？", "a": "競馬や自動車レースなどを行う『レース場・競走路』のことです。They spent the afternoon at the racetrack.（午後を競馬場で過ごした）のように使います。" },
+      { "q": "racetrack と circuit の違いは？", "a": "racetrack は『レース場』全般（競馬・自動車・陸上など）を指し、circuit は特に『自動車レース用のサーキット（周回コース）』を指します。" }
+    ],
+    "quiz": [
+      { "q": "The cars sped around the ___.（レース場）", "A": "racetrack", "B": "racket のラケット", "C": "backtrack の引き返す", "D": "soundtrack のサウンドトラック", "correct": "A" },
+      { "q": "racetrack を構成する2語はどれ？", "A": "race（競走）＋ track（走路）", "B": "rate（割合）＋ track", "C": "rack（棚）＋ track", "D": "race ＋ trick（策略）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "racquet",
+    "pron": "ˈrækɪt",
+    "kana": "ラケット",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "アラビア語 rāḥat（手のひら）より",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "スポーツ"],
+    "meaning_main": "ラケット（テニス・バドミントンなどの用具）",
+    "description": "racquet の意味・発音・例文・語源を解説。テニスやバドミントンで球を打つ用具「ラケット」を表す名詞の使い方と、racket との関係を分かりやすく紹介します。",
+    "keywords": ["racquet 意味", "racquet 発音", "ラケット", "テニス"],
+    "meanings": [
+      { "hinshi": "【名詞】ラケット", "note": "枠に網（ガット）を張り、球を打つ用具。racket とも書く。a tennis racquet（テニスラケット）。" }
+    ],
+    "usages": [
+      { "title": "① 「テニスラケット」として", "desc": "球を打つ用具を表します。", "example_en": "She gripped the racquet and served.", "example_ja": "彼女はラケットを握ってサーブした。" },
+      { "title": "② 用具の話題で", "desc": "ラケットの種類や状態を表します。", "example_en": "He bought a new badminton racquet.", "example_ja": "彼は新しいバドミントンラケットを買った。" }
+    ],
+    "warn": [
+      "racquet は『ラケット』。racket とも書く（同義）。racquet はテニス・スカッシュなどでよく使う綴り。",
+      "racket には別に『騒音』『不正商売』の意味もある（こちらは racquet とは書かない）。"
+    ],
+    "etym_note": "アラビア語 rāḥat（手のひら）が古フランス語 raquette を経て英語に入りました。もとは手のひらで打つ球技から、用具の名になりました。",
+    "etym_chain": [
+      { "node": "rāḥat", "sub": "手のひら", "era": "アラビア語" },
+      { "node": "raquette", "sub": "ラケット", "era": "古フランス語" },
+      { "node": "racquet", "sub": "ラケット", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a tennis racquet", "ja": "テニスラケット" },
+      { "en": "a badminton racquet", "ja": "バドミントンラケット" },
+      { "en": "swing the racquet", "ja": "ラケットを振る" },
+      { "en": "restring a racquet", "ja": "ラケットのガットを張り替える" },
+      { "en": "grip the racquet", "ja": "ラケットを握る" },
+      { "en": "a squash racquet", "ja": "スカッシュのラケット" }
+    ],
+    "related": [
+      { "en": "racket", "ja": "ラケット（同義）" },
+      { "en": "tennis", "ja": "テニス" },
+      { "en": "paddle", "ja": "（卓球の）ラケット・パドル" },
+      { "en": "string", "ja": "ガット・弦" }
+    ],
+    "faq": [
+      { "q": "racquet とはどんな意味？", "a": "テニスやバドミントンなどで球を打つ用具『ラケット』のことです。She gripped the racquet and served.（ラケットを握ってサーブした）のように使います。racket とも書きます。" },
+      { "q": "racquet と racket は同じ？", "a": "『ラケット（用具）』の意味では同じで、つづりが違うだけです。ただし racket には『騒音』『不正商売』という別の意味もあり、その場合は racquet とは書きません。" }
+    ],
+    "quiz": [
+      { "q": "She gripped the ___ and served.（ラケット）", "A": "racquet", "B": "racquetball ではなく bracket の括弧", "C": "rocket のロケット", "D": "ticket の切符", "correct": "A" },
+      { "q": "racquet の別のつづりはどれ？", "A": "racket", "B": "rocket", "C": "ratchet", "D": "racoon", "correct": "A" }
+    ]
+  },
+  {
+    "english": "radiator",
+    "pron": "ˈreɪdieɪtər",
+    "kana": "レイディエイター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "radiate（放射する）＋ -or（〜するもの）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "日常・機械"],
+    "meaning_main": "放熱器・ラジエーター（暖房器・車の冷却装置）",
+    "description": "radiator の意味・発音・例文・語源を解説。部屋を暖める「放熱器」や、車のエンジンを冷やす「ラジエーター」を表す名詞の使い方を分かりやすく紹介します。",
+    "keywords": ["radiator 意味", "radiator 発音", "ラジエーター", "放熱器"],
+    "meanings": [
+      { "hinshi": "【名詞】放熱器・暖房器（ラジエーター）", "note": "熱を放って部屋を暖める器具。Sit by the radiator.（暖房器のそばに座る）。" },
+      { "hinshi": "【名詞】（車の）冷却装置・ラジエーター", "note": "エンジンの熱を逃がす装置。" }
+    ],
+    "usages": [
+      { "title": "① 暖房の「放熱器」として", "desc": "部屋を暖める器具を表します。", "example_en": "She dried her gloves on the radiator.", "example_ja": "彼女は手袋を放熱器の上で乾かした。" },
+      { "title": "② 車の「ラジエーター」として", "desc": "エンジンを冷やす装置を表します。", "example_en": "The car overheated because the radiator leaked.", "example_ja": "ラジエーターが漏れて車がオーバーヒートした。" }
+    ],
+    "warn": [
+      "radiator は暖房では『放熱器・暖房器』、車では『冷却装置（ラジエーター）』。どちらも熱を radiate（放つ）装置。",
+      "暖房は『熱を放つ』、車は『（エンジンの）熱を逃がす』点に注意。"
+    ],
+    "etym_note": "radiate（放射する、ラテン語 radius「光線」より）＋ -or（〜するもの）から成り、「熱を放つもの」を意味します。radiation（放射）, radius（半径）と同じ語根です。",
+    "etym_chain": [
+      { "node": "radius", "sub": "光線", "era": "ラテン語" },
+      { "node": "radiate", "sub": "放射する", "era": "近代英語" },
+      { "node": "radiator", "sub": "放熱器・ラジエーター", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "turn on the radiator", "ja": "暖房器をつける" },
+      { "en": "sit by the radiator", "ja": "放熱器のそばに座る" },
+      { "en": "a car radiator", "ja": "車のラジエーター" },
+      { "en": "the radiator is leaking", "ja": "ラジエーターが漏れている" },
+      { "en": "fill the radiator", "ja": "ラジエーターに（冷却水を）入れる" },
+      { "en": "a hot radiator", "ja": "熱くなった放熱器" }
+    ],
+    "related": [
+      { "en": "radiate", "ja": "放射する・放つ" },
+      { "en": "heater", "ja": "暖房器" },
+      { "en": "coolant", "ja": "冷却液" },
+      { "en": "engine", "ja": "エンジン" }
+    ],
+    "faq": [
+      { "q": "radiator とはどんな意味？", "a": "部屋を暖める『放熱器・暖房器』、また車のエンジンを冷やす『ラジエーター（冷却装置）』のことです。どちらも熱を radiate（放つ・逃がす）装置です。" },
+      { "q": "なぜ暖房も車の冷却装置も radiator というの？", "a": "どちらも熱を『放つ（radiate）』装置だからです。暖房は部屋に熱を放ち、車のラジエーターはエンジンの熱を空気中に放って冷やします。" }
+    ],
+    "quiz": [
+      { "q": "The car overheated because the ___ leaked.（ラジエーター）", "A": "radiator", "B": "radio のラジオ", "C": "creator の創造者", "D": "elevator のエレベーター", "correct": "A" },
+      { "q": "radiator のもとになった動詞はどれ？", "A": "radiate（放射する）", "B": "create（創造する）", "C": "operate（操作する）", "D": "decorate（飾る）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rainforest",
+    "pron": "ˈreɪnfɒrɪst",
+    "kana": "レインフォレスト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rain（雨）＋ forest（森）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "自然・環境"],
+    "meaning_main": "（熱帯）雨林",
+    "description": "rainforest の意味・発音・例文・語源を解説。雨が多く木々が生い茂る「雨林・熱帯雨林」を表す名詞の使い方と、環境の話題での使われ方を紹介します。",
+    "keywords": ["rainforest 意味", "rainforest 発音", "熱帯雨林", "森林"],
+    "meanings": [
+      { "hinshi": "【名詞】（熱帯）雨林", "note": "雨が多く、高い木々が密に茂る森。多様な生き物がすむ。the Amazon rainforest（アマゾン熱帯雨林）。" }
+    ],
+    "usages": [
+      { "title": "① 「熱帯雨林」として", "desc": "雨の多い豊かな森を表します。", "example_en": "The Amazon rainforest is home to millions of species.", "example_ja": "アマゾン熱帯雨林には何百万もの種がすむ。" },
+      { "title": "② 環境問題の文脈で", "desc": "森林破壊などの話題で使います。", "example_en": "Deforestation is destroying the rainforest.", "example_ja": "森林伐採が雨林を破壊している。" }
+    ],
+    "warn": [
+      "rainforest は『（熱帯）雨林』。rain（雨）＋ forest（森）。1語でも rain forest と2語でも書く。",
+      "tropical rainforest（熱帯雨林）が代表的だが、温帯雨林（temperate rainforest）もある。"
+    ],
+    "etym_note": "rain（雨、古英語 regn より）＋ forest（森、ラテン語 foris「外」より）から成る複合語で、「雨の多い森」を意味します。20世紀に生態学の用語として広まりました。",
+    "etym_chain": [
+      { "node": "regn + forest", "sub": "雨＋森", "era": "古英語・中英語" },
+      { "node": "rain forest", "sub": "雨林", "era": "20世紀英語" },
+      { "node": "rainforest", "sub": "雨林", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the Amazon rainforest", "ja": "アマゾン熱帯雨林" },
+      { "en": "a tropical rainforest", "ja": "熱帯雨林" },
+      { "en": "protect the rainforest", "ja": "雨林を守る" },
+      { "en": "destroy the rainforest", "ja": "雨林を破壊する" },
+      { "en": "rainforest wildlife", "ja": "雨林の野生生物" },
+      { "en": "deep in the rainforest", "ja": "雨林の奥深く" }
+    ],
+    "related": [
+      { "en": "forest", "ja": "森" },
+      { "en": "jungle", "ja": "ジャングル・密林" },
+      { "en": "deforestation", "ja": "森林伐採" },
+      { "en": "biodiversity", "ja": "生物多様性" }
+    ],
+    "faq": [
+      { "q": "rainforest とはどんな意味？", "a": "雨が多く高い木々が密に茂る『（熱帯）雨林』のことです。The Amazon rainforest is home to millions of species.（アマゾン熱帯雨林には何百万もの種がすむ）のように使います。" },
+      { "q": "rainforest と jungle の違いは？", "a": "rainforest は『雨の多い豊かな森（生態学的な呼び名）』、jungle は『（下生えの密な）密林・ジャングル』という、より口語的でやぶの密集を強調した語です。" }
+    ],
+    "quiz": [
+      { "q": "The Amazon ___ is home to millions of species.（雨林）", "A": "rainforest", "B": "rainfall の降水量", "C": "rainbow の虹", "D": "raincoat のレインコート", "correct": "A" },
+      { "q": "rainforest を構成する2語はどれ？", "A": "rain（雨）＋ forest（森）", "B": "rain ＋ first（最初）", "C": "raise（上げる）＋ forest", "D": "rain ＋ rest（休息）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rarely",
+    "pron": "ˈreərli",
+    "kana": "レアリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "rare（まれな）＋ -ly（副詞化）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頻出語"],
+    "meaning_main": "めったに〜ない・まれにしか〜ない",
+    "description": "rarely の意味・発音・例文・語源を解説。「めったに〜ない・まれにしか〜ない」という頻度を表す副詞の使い方や、文頭での倒置を分かりやすく紹介します。",
+    "keywords": ["rarely 意味", "rarely 発音", "めったに〜ない", "頻度の副詞"],
+    "meanings": [
+      { "hinshi": "【副詞】めったに〜ない・まれにしか〜ない", "note": "頻度が非常に低いことを表す（否定的な意味を含む）。He rarely eats out.（彼はめったに外食しない）。" }
+    ],
+    "usages": [
+      { "title": "① 「めったに〜ない」として", "desc": "頻度が低いことを表します。", "example_en": "She rarely watches television.", "example_ja": "彼女はめったにテレビを見ない。" },
+      { "title": "② 文頭での倒置として", "desc": "強調のため動詞を前に出します。", "example_en": "Rarely have I seen such beauty.", "example_ja": "これほどの美しさはめったに見たことがない。" }
+    ],
+    "warn": [
+      "rarely 自体が否定の意味を含むので、not とは一緒に使わない（×don't rarely）。",
+      "文頭に出すと倒置が起こる（Rarely + do/have + 主語 + 動詞）。seldom と同義。"
+    ],
+    "etym_note": "rare（まれな、ラテン語 rarus「まばらな」より）＋ -ly（副詞をつくる語尾）から成り、「まれに・めったに〜ない」を意味します。rare（珍しい）と同じ語根です。",
+    "etym_chain": [
+      { "node": "rarus", "sub": "まばらな", "era": "ラテン語" },
+      { "node": "rare", "sub": "まれな", "era": "中英語" },
+      { "node": "rarely", "sub": "めったに〜ない", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rarely eat out", "ja": "めったに外食しない" },
+      { "en": "rarely if ever", "ja": "めったに、あってもごくまれにしか" },
+      { "en": "very rarely", "ja": "ごくまれに" },
+      { "en": "rarely seen", "ja": "めったに見られない" },
+      { "en": "rarely happen", "ja": "めったに起こらない" },
+      { "en": "rarely have I seen", "ja": "めったに見たことがない（倒置）" }
+    ],
+    "related": [
+      { "en": "rare", "ja": "まれな・珍しい" },
+      { "en": "seldom", "ja": "めったに〜ない" },
+      { "en": "hardly ever", "ja": "ほとんど〜ない" },
+      { "en": "often", "ja": "しばしば（反対）" }
+    ],
+    "faq": [
+      { "q": "rarely とはどんな意味？", "a": "『めったに〜ない・まれにしか〜ない』という頻度を表す副詞です。それ自体に否定の意味があり、He rarely eats out.（彼はめったに外食しない）のように使います。" },
+      { "q": "rarely と seldom の違いは？", "a": "意味はほぼ同じ『めったに〜ない』です。rarely のほうが日常的でよく使われ、seldom はやや硬い・文語的です。どちらも文頭で倒置を起こせます。" }
+    ],
+    "quiz": [
+      { "q": "She ___ watches television.（めったに〜ない）", "A": "rarely", "B": "really の本当に", "C": "nearly のほとんど", "D": "clearly の明らかに", "correct": "A" },
+      { "q": "rarely とほぼ同じ意味の語はどれ？", "A": "seldom（めったに〜ない）", "B": "often（しばしば）", "C": "always（いつも）", "D": "usually（たいてい）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rueful",
+    "pron": "ˈruːfl",
+    "kana": "ルーフル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "rue（後悔する）＋ -ful（〜に満ちた）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文語的"],
+    "meaning_main": "後悔したような・悔やみのにじむ（表情など）",
+    "description": "rueful の意味・発音・例文・語源を解説。後悔やきまり悪さがにじむ「悔やむような・苦笑いの」表情などを表す、やや文語的な形容詞の使い方を紹介します。",
+    "keywords": ["rueful 意味", "rueful 発音", "後悔したような", "rue 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】後悔したような・悔やみのにじむ", "note": "後悔・きまり悪さ・自嘲がにじむ様子。多く表情に使う。a rueful smile（苦笑い）。" }
+    ],
+    "usages": [
+      { "title": "① 「苦笑いの」として", "desc": "後悔やきまり悪さのにじむ表情を表します。", "example_en": "He gave a rueful smile and admitted his mistake.", "example_ja": "彼は苦笑いを浮かべて自分の誤りを認めた。" },
+      { "title": "② 「悔やむような」として", "desc": "残念がる気持ちを表します。", "example_en": "She spoke with a rueful tone.", "example_ja": "彼女は悔やむような口調で話した。" }
+    ],
+    "warn": [
+      "rueful は『後悔したような・悔やみのにじむ』。a rueful smile（苦笑い）が頻出。やや文語的。",
+      "動詞 rue（後悔する、文語）から。副詞は ruefully。"
+    ],
+    "etym_note": "rue（後悔する・悔やむ、古英語 hrēowan「悲しませる」より）＋ -ful（〜に満ちた）から成り、「後悔に満ちた」を意味します。やや古風・文学的な語です。",
+    "etym_chain": [
+      { "node": "hrēowan", "sub": "悲しませる", "era": "古英語" },
+      { "node": "rue", "sub": "後悔する", "era": "中英語" },
+      { "node": "rueful", "sub": "後悔したような", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rueful smile", "ja": "苦笑い" },
+      { "en": "a rueful grin", "ja": "きまり悪そうな笑み" },
+      { "en": "a rueful tone", "ja": "悔やむような口調" },
+      { "en": "a rueful expression", "ja": "後悔のにじむ表情" },
+      { "en": "rueful laughter", "ja": "自嘲気味の笑い" },
+      { "en": "look rueful", "ja": "悔やんでいるように見える" }
+    ],
+    "related": [
+      { "en": "rue", "ja": "後悔する（文語）" },
+      { "en": "regretful", "ja": "残念がる・後悔した" },
+      { "en": "remorseful", "ja": "深く悔いた" },
+      { "en": "wistful", "ja": "もの思わしげな" }
+    ],
+    "faq": [
+      { "q": "rueful とはどんな意味？", "a": "後悔・きまり悪さ・自嘲がにじむ『悔やむような・苦笑いの』という形容詞です。多く表情に使い、a rueful smile（苦笑い）のように使います。" },
+      { "q": "rueful と regretful の違いは？", "a": "どちらも『後悔した』ですが、regretful は『残念に思う気持ち』を直接表し、rueful は『苦笑いのように、後悔とおかしみが混じった表情』のニュアンスがあります。" }
+    ],
+    "quiz": [
+      { "q": "He gave a ___ smile and admitted his mistake.（苦笑いの）", "A": "rueful", "B": "useful の役に立つ", "C": "cheerful の陽気な", "D": "careful の注意深い", "correct": "A" },
+      { "q": "rueful のもとになった動詞はどれ？", "A": "rue（後悔する）", "B": "use（使う）", "C": "rule（支配する）", "D": "ruin（破滅させる）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rut",
+    "pron": "rʌt",
+    "kana": "ラット",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 rute（道・わだち）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "比喩表現"],
+    "meaning_main": "わだち（車輪の跡）／（比喩）マンネリ・型にはまった状態",
+    "description": "rut の意味・発音・例文・語源を解説。道にできた「わだち（車輪の跡）」と、そこから生まれた「マンネリ・型にはまった状態」という比喩の使い方を紹介します。",
+    "keywords": ["rut 意味", "rut 発音", "マンネリ", "わだち"],
+    "meanings": [
+      { "hinshi": "【名詞】わだち・車輪の跡", "note": "ぬかるみなどに車輪がつけた細長いくぼみ。" },
+      { "hinshi": "【名詞】（比喩）マンネリ・型にはまった単調な状態", "note": "be in a rut（マンネリに陥っている）。get out of a rut（マンネリから抜け出す）。" }
+    ],
+    "usages": [
+      { "title": "① 比喩「マンネリ」として", "desc": "単調で変化のない状態を表します。", "example_en": "I feel stuck in a rut at work.", "example_ja": "仕事でマンネリに陥っている気がする。" },
+      { "title": "② 「わだち」として", "desc": "道についた車輪の跡を表します。", "example_en": "The cart left deep ruts in the mud.", "example_ja": "荷車はぬかるみに深いわだちを残した。" }
+    ],
+    "warn": [
+      "rut は本来『わだち（車輪の跡）』。比喩で『マンネリ・型にはまった状態』。be/get stuck in a rut が頻出。",
+      "rat（ネズミ）と発音・つづりが似るが別語。"
+    ],
+    "etym_note": "古フランス語 rute（『道』、ラテン語 rupta via「切り開かれた道」より）に由来し、「道についた車輪の跡＝わだち」を意味します。route（道筋）と同じ語根です。",
+    "etym_chain": [
+      { "node": "rupta via", "sub": "切り開かれた道", "era": "ラテン語" },
+      { "node": "rute", "sub": "道・わだち", "era": "古フランス語" },
+      { "node": "rut", "sub": "わだち・マンネリ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be in a rut", "ja": "マンネリに陥っている" },
+      { "en": "stuck in a rut", "ja": "マンネリから抜け出せない" },
+      { "en": "get out of a rut", "ja": "マンネリから抜け出す" },
+      { "en": "fall into a rut", "ja": "型にはまってしまう" },
+      { "en": "deep ruts in the road", "ja": "道路の深いわだち" },
+      { "en": "break out of a rut", "ja": "マンネリを打破する" }
+    ],
+    "related": [
+      { "en": "groove", "ja": "溝・型にはまった状態" },
+      { "en": "routine", "ja": "決まりきった日課" },
+      { "en": "monotony", "ja": "単調さ" },
+      { "en": "track", "ja": "跡・わだち" }
+    ],
+    "faq": [
+      { "q": "rut とはどんな意味？", "a": "本来は道についた『わだち（車輪の跡）』ですが、比喩で『マンネリ・型にはまった単調な状態』を表します。I feel stuck in a rut.（マンネリに陥っている気がする）のように使います。" },
+      { "q": "be in a rut とはどんな意味？", "a": "『マンネリに陥っている・型にはまって退屈な状態にある』という意味です。わだちにはまって抜け出せない様子から来た表現で、get out of a rut（マンネリから抜け出す）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "I feel stuck in a ___ at work.（マンネリ）", "A": "rut", "B": "rat のネズミ", "C": "nut の木の実", "D": "cut の切り傷", "correct": "A" },
+      { "q": "be in a rut の意味はどれ？", "A": "マンネリに陥っている", "B": "急いでいる", "C": "怒っている", "D": "緊張している", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rankle",
+    "pron": "ˈræŋkl",
+    "kana": "ランクル",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古フランス語 rancler（うずく・化膿する）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文語的"],
+    "meaning_main": "（不快な記憶などが）いつまでも心にしこりを残す・腹立たしく思わせる",
+    "description": "rankle の意味・発音・例文・語源を解説。侮辱や不当な扱いが「いつまでも心にしこりを残す・くすぶり続ける」という、やや硬い動詞の使い方を紹介します。",
+    "keywords": ["rankle 意味", "rankle 発音", "しこりを残す", "腹立たしい"],
+    "meanings": [
+      { "hinshi": "【動詞】いつまでも心にしこりを残す・くすぶり続ける", "note": "不快な記憶・侮辱が長く尾を引いて苦しめる。The insult still rankles.（その侮辱はいまも心に残る）。" },
+      { "hinshi": "【動詞】〜をいらだたせる・腹立たしく思わせる", "note": "他動詞でも使う。It rankled him.（それは彼の癪に障った）。" }
+    ],
+    "usages": [
+      { "title": "① 「しこりを残す」として", "desc": "不快な記憶が長く尾を引くことを表します。", "example_en": "The unfair decision still rankles.", "example_ja": "その不公平な決定はいまも心にしこりを残している。" },
+      { "title": "② 「いらだたせる」として", "desc": "腹立たしく思わせることを表します。", "example_en": "His comment rankled her for days.", "example_ja": "彼の発言は何日も彼女の癪に障った。" }
+    ],
+    "warn": [
+      "rankle は『（不快なことが）いつまでも心にしこりを残す・くすぶる』。自動詞・他動詞ともに使う。やや文語的。",
+      "もとは『傷が化膿する』の意。比喩で『心の傷がうずく』ように使う。"
+    ],
+    "etym_note": "古フランス語 rancler（『うずく・化膿する』、ラテン語 dracunculus「小さな蛇＝はれもの」より）に由来し、「傷がうずくように心に残ること」を意味します。",
+    "etym_chain": [
+      { "node": "dracunculus", "sub": "小さな蛇・はれもの", "era": "ラテン語" },
+      { "node": "rancler", "sub": "うずく・化膿する", "era": "古フランス語" },
+      { "node": "rankle", "sub": "心にしこりを残す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "still rankle", "ja": "いまも心にしこりを残す" },
+      { "en": "the insult rankles", "ja": "その侮辱が尾を引く" },
+      { "en": "rankle for years", "ja": "何年もくすぶり続ける" },
+      { "en": "it rankled him", "ja": "それは彼の癪に障った" },
+      { "en": "a rankling memory", "ja": "心に残る不快な記憶" },
+      { "en": "deeply rankle", "ja": "深く心にしこりを残す" }
+    ],
+    "related": [
+      { "en": "fester", "ja": "（傷・感情が）悪化する・うずく" },
+      { "en": "irritate", "ja": "いらだたせる" },
+      { "en": "gall", "ja": "いらだたせる・癪に障る" },
+      { "en": "resentment", "ja": "恨み・憤り" }
+    ],
+    "faq": [
+      { "q": "rankle とはどんな意味？", "a": "侮辱や不当な扱いが『いつまでも心にしこりを残す・くすぶり続ける』、また『腹立たしく思わせる』という意味です。The unfair decision still rankles.（不公平な決定がいまも尾を引く）のように使います。" },
+      { "q": "rankle と annoy の違いは？", "a": "annoy は『（その場で）いらだたせる』、rankle は『（不快な記憶などが）長く心にくすぶって苦しめる』という、時間的に尾を引くニュアンスが特徴です。" }
+    ],
+    "quiz": [
+      { "q": "The unfair decision still ___s.（心にしこりを残す）", "A": "rankle", "B": "ranking の順位づけ", "C": "sprinkle のまく", "D": "twinkle のきらめく", "correct": "A" },
+      { "q": "rankle のニュアンスとして正しいのは？", "A": "不快な記憶が長く尾を引く", "B": "一瞬で忘れる", "C": "とても喜ぶ", "D": "強く納得する", "correct": "A" }
+    ]
+  }
+]
