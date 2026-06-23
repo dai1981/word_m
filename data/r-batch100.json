@@ -1,0 +1,530 @@
+[
+  {
+    "english": "resin",
+    "pron": "ˈrezɪn",
+    "kana": "レジン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 resina（樹脂）より",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "理科・工作"],
+    "meaning_main": "樹脂・レジン（天然または合成のねばつく物質）",
+    "description": "resin の意味・発音・例文・語源を解説。木から出る天然の「樹脂」や、工作・工業で使う合成「レジン」を表す名詞の使い方を分かりやすく紹介します。",
+    "keywords": ["resin 意味", "resin 発音", "樹脂", "レジン"],
+    "meanings": [
+      { "hinshi": "【名詞】樹脂・レジン", "note": "松などの木から出るねばねばした物質。また、それに似た合成物質（プラスチック原料など）。epoxy resin（エポキシ樹脂）。" }
+    ],
+    "usages": [
+      { "title": "① 天然の「樹脂」として", "desc": "木から出るねばつく物質を表します。", "example_en": "Amber is fossilized tree resin.", "example_ja": "琥珀（こはく）は化石化した木の樹脂だ。" },
+      { "title": "② 合成「レジン」として", "desc": "工作や工業で使う材料を表します。", "example_en": "The ring is made of clear resin.", "example_ja": "その指輪は透明なレジンでできている。" }
+    ],
+    "warn": [
+      "resin は『樹脂・レジン』。天然樹脂と合成樹脂の両方を指す。発音は『レズィン』に近い。",
+      "raisin（干しぶどう）と混同しやすいので注意（つづり・意味とも別）。"
+    ],
+    "etym_note": "ラテン語 resina（樹脂）が古フランス語 resine を経て英語に入りました。さらにギリシャ語 rhetine（松の樹脂）にさかのぼります。",
+    "etym_chain": [
+      { "node": "rhetine", "sub": "松の樹脂", "era": "ギリシャ語" },
+      { "node": "resina", "sub": "樹脂", "era": "ラテン語" },
+      { "node": "resin", "sub": "樹脂・レジン", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "epoxy resin", "ja": "エポキシ樹脂" },
+      { "en": "synthetic resin", "ja": "合成樹脂" },
+      { "en": "tree resin", "ja": "木の樹脂" },
+      { "en": "clear resin", "ja": "透明なレジン" },
+      { "en": "resin art", "ja": "レジンアート" },
+      { "en": "pour resin into a mold", "ja": "型にレジンを流し込む" }
+    ],
+    "related": [
+      { "en": "amber", "ja": "琥珀（こはく）" },
+      { "en": "sap", "ja": "樹液" },
+      { "en": "plastic", "ja": "プラスチック" },
+      { "en": "epoxy", "ja": "エポキシ" }
+    ],
+    "faq": [
+      { "q": "resin とはどんな意味？", "a": "松などの木から出るねばつく『樹脂』、またそれに似た合成『レジン』のことです。Amber is fossilized tree resin.（琥珀は化石化した木の樹脂だ）のように使います。" },
+      { "q": "resin と raisin は同じ？", "a": "いいえ、別の語です。resin は『樹脂・レジン』、raisin は『干しぶどう（レーズン）』です。つづりも意味も違うので注意しましょう。" }
+    ],
+    "quiz": [
+      { "q": "Amber is fossilized tree ___.（樹脂）", "A": "resin", "B": "raisin の干しぶどう", "C": "reason の理由", "D": "region の地域", "correct": "A" },
+      { "q": "resin の意味として正しいのは？", "A": "樹脂・レジン", "B": "干しぶどう", "C": "理由", "D": "地域", "correct": "A" }
+    ]
+  },
+  {
+    "english": "roost",
+    "pron": "ruːst",
+    "kana": "ルースト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 hrōst（鳥のとまり木）より",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "動物・比喩"],
+    "meaning_main": "（鳥の）とまり木・ねぐら／（動詞）ねぐらにとまる",
+    "description": "roost の意味・発音・例文・語源を解説。鳥が眠る「とまり木・ねぐら」という名詞と、「ねぐらにとまる」という動詞、また rule the roost（牛耳る）の使い方を紹介します。",
+    "keywords": ["roost 意味", "roost 発音", "とまり木", "rule the roost"],
+    "meanings": [
+      { "hinshi": "【名詞】（鳥の）とまり木・ねぐら", "note": "鳥が夜に休む場所。come home to roost（自分に跳ね返ってくる）。" },
+      { "hinshi": "【動詞】（鳥が）ねぐらにとまる・休む", "note": "The chickens roost at night.（ニワトリは夜とまり木で休む）。" }
+    ],
+    "usages": [
+      { "title": "① 「ねぐら」として", "desc": "鳥が休む場所を表します。", "example_en": "The birds returned to their roost at dusk.", "example_ja": "鳥たちは夕暮れにねぐらへ戻った。" },
+      { "title": "② rule the roost の形で", "desc": "「（家・組織を）牛耳る」という慣用表現です。", "example_en": "In that house, the grandmother rules the roost.", "example_ja": "あの家では祖母が仕切っている。" }
+    ],
+    "warn": [
+      "roost は名詞『とまり木・ねぐら』、動詞『ねぐらにとまる』。rule the roost（牛耳る・仕切る）が頻出表現。",
+      "come home to roost は『（悪い行いが）自分に跳ね返ってくる』という慣用句。"
+    ],
+    "etym_note": "古英語 hrōst（鳥のとまり木・屋根の骨組み）に由来し、「鳥が休む場所」を意味します。のちに動詞や比喩表現にも広がりました。",
+    "etym_chain": [
+      { "node": "hrōst", "sub": "とまり木", "era": "古英語" },
+      { "node": "roost", "sub": "ねぐら", "era": "中英語" },
+      { "node": "roost", "sub": "とまり木・ねぐら", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rule the roost", "ja": "牛耳る・仕切る" },
+      { "en": "come home to roost", "ja": "自分に跳ね返ってくる" },
+      { "en": "return to the roost", "ja": "ねぐらへ戻る" },
+      { "en": "a chicken roost", "ja": "ニワトリのとまり木" },
+      { "en": "roost for the night", "ja": "夜のねぐらにとまる" },
+      { "en": "a bird roost", "ja": "鳥のねぐら" }
+    ],
+    "related": [
+      { "en": "perch", "ja": "とまり木・とまる" },
+      { "en": "nest", "ja": "巣" },
+      { "en": "roar の語ではない", "ja": "—" },
+      { "en": "rooster", "ja": "おんどり" }
+    ],
+    "faq": [
+      { "q": "roost とはどんな意味？", "a": "鳥が夜に休む『とまり木・ねぐら』という名詞と、『ねぐらにとまる』という動詞です。The birds returned to their roost.（鳥たちはねぐらへ戻った）のように使います。" },
+      { "q": "rule the roost とはどんな意味？", "a": "『（家や組織を）牛耳る・仕切る』という慣用表現です。もとは『（おんどりが）とまり木を支配する』イメージから来ています。" }
+    ],
+    "quiz": [
+      { "q": "The birds returned to their ___ at dusk.（ねぐら）", "A": "roost", "B": "roast の焼く", "C": "root の根", "D": "boost の押し上げる", "correct": "A" },
+      { "q": "rule the roost の意味はどれ？", "A": "牛耳る・仕切る", "B": "肉を焼く", "C": "根を張る", "D": "押し上げる", "correct": "A" }
+    ]
+  },
+  {
+    "english": "radiance",
+    "pron": "ˈreɪdiəns",
+    "kana": "レイディアンス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 radiare（光を放つ）より",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "やや硬い語"],
+    "meaning_main": "輝き・光輝／（顔・表情の）晴れやかさ",
+    "description": "radiance の意味・発音・例文・語源を解説。まばゆい「輝き・光輝」や、幸せそうな顔の「晴れやかさ」を表す名詞の使い方を分かりやすく紹介します。",
+    "keywords": ["radiance 意味", "radiance 発音", "輝き", "晴れやかさ"],
+    "meanings": [
+      { "hinshi": "【名詞】輝き・光輝", "note": "明るく放たれる光。the radiance of the sun（太陽の輝き）。" },
+      { "hinshi": "【名詞】（顔・表情の）晴れやかさ・輝き", "note": "幸せ・健康などからにじみ出る明るさ。a radiance in her smile（彼女の笑顔の輝き）。" }
+    ],
+    "usages": [
+      { "title": "① 光の「輝き」として", "desc": "明るく放たれる光を表します。", "example_en": "The radiance of the morning sun filled the room.", "example_ja": "朝日の輝きが部屋を満たした。" },
+      { "title": "② 表情の「晴れやかさ」として", "desc": "顔ににじむ明るさを表します。", "example_en": "Her face had a warm radiance.", "example_ja": "彼女の顔は温かい輝きを帯びていた。" }
+    ],
+    "warn": [
+      "radiance は『輝き・光輝』『（表情の）晴れやかさ』。形容詞は radiant（光り輝く・晴れやかな）。",
+      "動詞は radiate（光・熱を放つ、感情を発する）。"
+    ],
+    "etym_note": "ラテン語 radiare（光を放つ、radius「光線・半径」より）に由来し、「光を放つこと＝輝き」を意味します。radius（半径）, radio（無線）と同じ語根です。",
+    "etym_chain": [
+      { "node": "radius", "sub": "光線・半径", "era": "ラテン語" },
+      { "node": "radiare", "sub": "光を放つ", "era": "ラテン語" },
+      { "node": "radiance", "sub": "輝き", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the radiance of the sun", "ja": "太陽の輝き" },
+      { "en": "a warm radiance", "ja": "温かい輝き" },
+      { "en": "a youthful radiance", "ja": "若々しい輝き" },
+      { "en": "the radiance of her smile", "ja": "彼女の笑顔の輝き" },
+      { "en": "glow with radiance", "ja": "輝きを放つ" },
+      { "en": "inner radiance", "ja": "内面からの輝き" }
+    ],
+    "related": [
+      { "en": "radiant", "ja": "光り輝く・晴れやかな" },
+      { "en": "radiate", "ja": "光・熱を放つ" },
+      { "en": "brilliance", "ja": "輝き・才気" },
+      { "en": "glow", "ja": "輝き・ほてり" }
+    ],
+    "faq": [
+      { "q": "radiance とはどんな意味？", "a": "まばゆい『輝き・光輝』、また幸せそうな顔の『晴れやかさ』という意味です。The radiance of the morning sun（朝日の輝き）、a warm radiance（温かい輝き）のように使います。" },
+      { "q": "radiance の形容詞・動詞は？", "a": "形容詞は radiant（光り輝く・晴れやかな）、動詞は radiate（光や熱を放つ・感情をにじませる）です。a radiant smile（輝くような笑顔）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The ___ of the morning sun filled the room.（輝き）", "A": "radiance", "B": "radius の半径", "C": "patience の忍耐", "D": "distance の距離", "correct": "A" },
+      { "q": "radiance の形容詞形はどれ？", "A": "radiant（光り輝く）", "B": "patient（忍耐強い）", "C": "distant（遠い）", "D": "instant（即座の）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "resilience",
+    "pron": "rɪˈzɪliəns",
+    "kana": "リジリエンス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 resilire（跳ね返る）より",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出・心理"],
+    "meaning_main": "回復力・立ち直る力／（物の）弾力性",
+    "description": "resilience の意味・発音・例文・語源を解説。困難から「立ち直る力・回復力」、また物の「弾力性」を表す、近年よく使われる語を分かりやすく紹介します。",
+    "keywords": ["resilience 意味", "resilience 発音", "回復力", "立ち直る力"],
+    "meanings": [
+      { "hinshi": "【名詞】回復力・立ち直る力・精神的な強さ", "note": "困難・逆境から立ち直る力。emotional resilience（心の回復力）。" },
+      { "hinshi": "【名詞】（物の）弾力性・はね返る力", "note": "曲げても元に戻る性質。" }
+    ],
+    "usages": [
+      { "title": "① 「立ち直る力」として", "desc": "困難から回復する力を表します。", "example_en": "Children often show remarkable resilience.", "example_ja": "子どもはしばしば驚くべき回復力を見せる。" },
+      { "title": "② 物の「弾力性」として", "desc": "曲げても元に戻る性質を表します。", "example_en": "Rubber has great resilience.", "example_ja": "ゴムは優れた弾力性を持つ。" }
+    ],
+    "warn": [
+      "resilience は『（困難からの）回復力・立ち直る力』が中心。心理・防災・経済など幅広く使う。",
+      "形容詞は resilient（回復力のある・弾力のある）。動詞は無し（resile はまれ）。"
+    ],
+    "etym_note": "ラテン語 resilire（re-「後ろへ」＋ salire「跳ぶ」）に由来し、「跳ね返ること＝元に戻る力」を意味します。salient（顕著な）, assail（襲う）と同じ語根です。",
+    "etym_chain": [
+      { "node": "resilire", "sub": "跳ね返る", "era": "ラテン語" },
+      { "node": "resilience", "sub": "弾力・回復力", "era": "近代英語" },
+      { "node": "resilience", "sub": "回復力・立ち直る力", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "emotional resilience", "ja": "心の回復力" },
+      { "en": "show resilience", "ja": "回復力を見せる" },
+      { "en": "build resilience", "ja": "立ち直る力を育てる" },
+      { "en": "mental resilience", "ja": "精神的な強さ" },
+      { "en": "economic resilience", "ja": "経済の回復力" },
+      { "en": "the resilience of rubber", "ja": "ゴムの弾力性" }
+    ],
+    "related": [
+      { "en": "resilient", "ja": "回復力のある・弾力のある" },
+      { "en": "toughness", "ja": "粘り強さ" },
+      { "en": "recovery", "ja": "回復" },
+      { "en": "elasticity", "ja": "弾力性" }
+    ],
+    "faq": [
+      { "q": "resilience とはどんな意味？", "a": "困難や逆境から『立ち直る力・回復力』という意味です。Children often show remarkable resilience.（子どもは驚くべき回復力を見せる）のように使います。物の『弾力性』の意味もあります。" },
+      { "q": "resilience の形容詞形は？", "a": "resilient です。『（困難から）立ち直る力のある』『弾力のある』という意味で、a resilient person（打たれ強い人）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "Children often show remarkable ___.（回復力）", "A": "resilience", "B": "residence の住居", "C": "reluctance のためらい", "D": "reference の参照", "correct": "A" },
+      { "q": "resilience の形容詞形はどれ？", "A": "resilient（立ち直る力のある）", "B": "resident（居住の）", "C": "reluctant（気が進まない）", "D": "relevant（関連する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "repellent",
+    "pron": "rɪˈpelənt",
+    "kana": "リペレント",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 repellere（はね返す・追い払う）より",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "日常・理科"],
+    "meaning_main": "（名）虫よけ・はじく剤／（形）はじく・不快な",
+    "description": "repellent の意味・発音・例文・語源を解説。虫を寄せつけない「虫よけ剤」や、水を「はじく」性質、また「不快な」という形容詞の使い方を分かりやすく紹介します。",
+    "keywords": ["repellent 意味", "repellent 発音", "虫よけ", "はじく"],
+    "meanings": [
+      { "hinshi": "【名詞】防虫剤・〜よけ", "note": "虫などを寄せつけない薬剤。insect repellent（虫よけ）。" },
+      { "hinshi": "【形容詞】（水などを）はじく", "note": "water-repellent（撥水（はっすい）性の）。" },
+      { "hinshi": "【形容詞】不快な・いやな", "note": "ぞっとするほど嫌な。a repellent smell（いやなにおい）。" }
+    ],
+    "usages": [
+      { "title": "① 「虫よけ」として", "desc": "虫を寄せつけない薬剤を表します。", "example_en": "Apply insect repellent before the hike.", "example_ja": "ハイキングの前に虫よけを塗りなさい。" },
+      { "title": "② 「はじく」として", "desc": "水などをはじく性質を表します。", "example_en": "The jacket is made of water-repellent fabric.", "example_ja": "そのジャケットは撥水生地でできている。" }
+    ],
+    "warn": [
+      "repellent は名詞『虫よけ・〜よけ剤』、形容詞『はじく』『不快な』。water-repellent（撥水性の）が頻出。",
+      "動詞は repel（はね返す・追い払う・不快にさせる）。"
+    ],
+    "etym_note": "ラテン語 repellere（re-「後ろへ」＋ pellere「押す」）に由来し、「押し返すもの」を意味します。expel（追放する）, propel（推進する）と同じ語根です。",
+    "etym_chain": [
+      { "node": "repellere", "sub": "はね返す", "era": "ラテン語" },
+      { "node": "repellent", "sub": "はね返す（もの）", "era": "近代英語" },
+      { "node": "repellent", "sub": "虫よけ・はじく・不快な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "insect repellent", "ja": "虫よけ" },
+      { "en": "mosquito repellent", "ja": "蚊よけ" },
+      { "en": "water-repellent", "ja": "撥水性の" },
+      { "en": "apply repellent", "ja": "虫よけを塗る" },
+      { "en": "a repellent smell", "ja": "いやなにおい" },
+      { "en": "stain-repellent fabric", "ja": "防汚生地" }
+    ],
+    "related": [
+      { "en": "repel", "ja": "はね返す・追い払う" },
+      { "en": "repulsive", "ja": "ぞっとするほど嫌な" },
+      { "en": "deterrent", "ja": "抑止するもの" },
+      { "en": "waterproof", "ja": "防水の" }
+    ],
+    "faq": [
+      { "q": "repellent とはどんな意味？", "a": "名詞では『虫よけ・〜よけ剤』、形容詞では『（水を）はじく』『不快な』という意味です。insect repellent（虫よけ）、water-repellent（撥水性の）のように使います。" },
+      { "q": "water-repellent と waterproof の違いは？", "a": "water-repellent は『水をはじく（多少は通す）』、waterproof は『完全に防水する（水を通さない）』です。撥水と防水の違いに当たります。" }
+    ],
+    "quiz": [
+      { "q": "Apply insect ___ before the hike.（虫よけ）", "A": "repellent", "B": "repeat の繰り返し", "C": "report の報告", "D": "respect の尊敬", "correct": "A" },
+      { "q": "repellent の動詞形はどれ？", "A": "repel（はね返す・追い払う）", "B": "repeat（繰り返す）", "C": "report（報告する）", "D": "respect（尊敬する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rifle",
+    "pron": "ˈraɪfl",
+    "kana": "ライフル",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 rifler（引っかく・かすめ取る）より",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出語"],
+    "meaning_main": "（名）ライフル銃／（動詞）あさり回す・かき回して探す",
+    "description": "rifle の意味・発音・例文・語源を解説。銃身に溝のある「ライフル銃」という名詞と、引き出しなどを「あさり回す・かき回して探す」という動詞の使い方を紹介します。",
+    "keywords": ["rifle 意味", "rifle 発音", "ライフル銃", "あさり回す"],
+    "meanings": [
+      { "hinshi": "【名詞】ライフル銃", "note": "銃身の内側にらせん状の溝（rifling）がある長い銃。a hunting rifle（猟銃）。" },
+      { "hinshi": "【動詞】（探して）あさり回す・かき回す", "note": "rifle through ～（～をかき回して探す）。He rifled through the drawers.（引き出しをあさった）。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「ライフル銃」として", "desc": "溝のある長い銃を表します。", "example_en": "The hunter carried a rifle over his shoulder.", "example_ja": "猟師はライフルを肩にかけて運んだ。" },
+      { "title": "② 動詞「あさり回す」として", "desc": "かき回して探すことを表します。", "example_en": "She rifled through her bag for the keys.", "example_ja": "彼女は鍵を探してかばんをあさった。" }
+    ],
+    "warn": [
+      "rifle は名詞『ライフル銃』、動詞『（rifle through で）あさり回す・かき回して探す』。",
+      "名は銃身内のらせんの溝（rifling）に由来。動詞は『かすめ取る・荒らす』が原義。"
+    ],
+    "etym_note": "古フランス語 rifler（引っかく・かすめ取る）に由来します。動詞『あさり回す』はこの原義から、名詞『ライフル』は銃身内に溝を『刻む（rifle）』ことから来ています。",
+    "etym_chain": [
+      { "node": "rifler", "sub": "引っかく・かすめ取る", "era": "古フランス語" },
+      { "node": "rifle", "sub": "溝を刻む・銃", "era": "近代英語" },
+      { "node": "rifle", "sub": "ライフル銃・あさり回す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a hunting rifle", "ja": "猟銃" },
+      { "en": "load a rifle", "ja": "ライフルに弾を込める" },
+      { "en": "an assault rifle", "ja": "突撃銃・アサルトライフル" },
+      { "en": "rifle through the drawers", "ja": "引き出しをあさる" },
+      { "en": "rifle through papers", "ja": "書類をかき回して探す" },
+      { "en": "a sniper rifle", "ja": "狙撃銃" }
+    ],
+    "related": [
+      { "en": "gun", "ja": "銃" },
+      { "en": "pistol", "ja": "拳銃" },
+      { "en": "rummage", "ja": "かき回して探す" },
+      { "en": "ransack", "ja": "荒らし回って探す" }
+    ],
+    "faq": [
+      { "q": "rifle とはどんな意味？", "a": "名詞では『ライフル銃』、動詞では『（rifle through で）あさり回す・かき回して探す』という意味です。She rifled through her bag.（かばんをあさった）のように使います。" },
+      { "q": "rifle through と search の違いは？", "a": "search は『（ていねいに）探す』全般、rifle through は『（急いで乱暴に）かき回して探す』ニュアンスです。引き出しや書類をあさるときによく使います。" }
+    ],
+    "quiz": [
+      { "q": "She ___d through her bag for the keys.（あさった）", "A": "rifle", "B": "ruffle の波立たせる", "C": "raffle の福引", "D": "ripple のさざ波", "correct": "A" },
+      { "q": "rifle（名詞）の意味はどれ？", "A": "ライフル銃", "B": "福引", "C": "さざ波", "D": "ふるい", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reptilian",
+    "pron": "repˈtɪliən",
+    "kana": "レプティリアン",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 reptilis（はうもの）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "理科・比喩"],
+    "meaning_main": "は虫類の／は虫類のような（冷たく感じの悪い）",
+    "description": "reptilian の意味・発音・例文・語源を解説。「は虫類の」という生物学の意味と、「は虫類のように冷たい・感じの悪い」という比喩の使い方を分かりやすく紹介します。",
+    "keywords": ["reptilian 意味", "reptilian 発音", "は虫類の", "reptile 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】は虫類の・は虫類に関する", "note": "ヘビ・トカゲなどに関する。reptilian skin（は虫類の皮膚）。" },
+      { "hinshi": "【形容詞】は虫類のような・冷たく感じの悪い", "note": "比喩で、冷酷でずる賢い様子。a reptilian smile（薄気味悪い笑み）。" },
+      { "hinshi": "【名詞】は虫類（動物）", "note": "reptile の同義としても使う。" }
+    ],
+    "usages": [
+      { "title": "① 「は虫類の」として", "desc": "ヘビやトカゲに関することを表します。", "example_en": "The museum has a large reptilian exhibit.", "example_ja": "その博物館には大きなは虫類の展示がある。" },
+      { "title": "② 比喩「冷たく感じの悪い」として", "desc": "冷酷でずる賢い様子を表します。", "example_en": "He gave a cold, reptilian smile.", "example_ja": "彼は冷たく薄気味悪い笑みを浮かべた。" }
+    ],
+    "warn": [
+      "reptilian は形容詞『は虫類の』、比喩で『は虫類のように冷たい・感じの悪い』。名詞 reptile（は虫類）の形容詞形。",
+      "比喩用法は否定的（冷酷・ずる賢い）なニュアンス。"
+    ],
+    "etym_note": "ラテン語 reptilis（『はうもの』、repere「はう」より）に由来し、「地をはう動物の」を意味します。reptile（は虫類）と同じ語根です。",
+    "etym_chain": [
+      { "node": "repere", "sub": "はう", "era": "ラテン語" },
+      { "node": "reptilis", "sub": "はうもの", "era": "ラテン語" },
+      { "node": "reptilian", "sub": "は虫類の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reptilian skin", "ja": "は虫類の皮膚" },
+      { "en": "a reptilian creature", "ja": "は虫類のような生き物" },
+      { "en": "a reptilian smile", "ja": "薄気味悪い笑み" },
+      { "en": "reptilian eyes", "ja": "は虫類のような目" },
+      { "en": "the reptilian brain", "ja": "は虫類脳（本能をつかさどる部分）" },
+      { "en": "cold and reptilian", "ja": "冷たく感じの悪い" }
+    ],
+    "related": [
+      { "en": "reptile", "ja": "は虫類" },
+      { "en": "amphibian", "ja": "両生類" },
+      { "en": "cold-blooded", "ja": "冷血の・冷酷な" },
+      { "en": "serpentine", "ja": "ヘビのような" }
+    ],
+    "faq": [
+      { "q": "reptilian とはどんな意味？", "a": "『は虫類の』という形容詞で、比喩では『は虫類のように冷たい・感じの悪い』という否定的な意味でも使います。a reptilian smile（薄気味悪い笑み）のように使います。" },
+      { "q": "reptilian と reptile の違いは？", "a": "reptile は名詞『は虫類』、reptilian は形容詞『は虫類の』です（名詞でも使えます）。reptilian skin（は虫類の皮膚）のように、reptile を修飾語にしたい場面で使います。" }
+    ],
+    "quiz": [
+      { "q": "He gave a cold, ___ smile.（は虫類のような・薄気味悪い）", "A": "reptilian", "B": "reptile の名詞のは虫類", "C": "resilient の回復力のある", "D": "reliable の信頼できる", "correct": "A" },
+      { "q": "reptilian のもとになった名詞はどれ？", "A": "reptile（は虫類）", "B": "reptition という語はない", "C": "republic（共和国）", "D": "reception（受付）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reappraise",
+    "pron": "ˌriːəˈpreɪz",
+    "kana": "リアプレイズ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ appraise（評価する）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "やや硬い語"],
+    "meaning_main": "再評価する・見直す",
+    "description": "reappraise の意味・発音・例文・語源を解説。状況や価値を「再評価する・改めて見直す」という、議論やビジネスで使う硬めの語を分かりやすく紹介します。",
+    "keywords": ["reappraise 意味", "reappraise 発音", "再評価する", "appraise 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再評価する・見直す", "note": "いったん下した評価を改めて考え直す。reappraise the situation（状況を見直す）。名詞は reappraisal。" }
+    ],
+    "usages": [
+      { "title": "① 状況の「見直し」として", "desc": "改めて評価し直すことを表します。", "example_en": "The crisis forced them to reappraise their strategy.", "example_ja": "その危機により彼らは戦略の見直しを迫られた。" },
+      { "title": "② 価値の「再評価」として", "desc": "価値を改めて見積もることを表します。", "example_en": "Critics have reappraised the artist's work.", "example_ja": "批評家たちはその芸術家の作品を再評価した。" }
+    ],
+    "warn": [
+      "reappraise は『再評価する・見直す』。re-（再び）＋ appraise（評価する・見積もる）。名詞は reappraisal。",
+      "reassess（再評価する）とほぼ同義だが、reappraise はやや硬い。"
+    ],
+    "etym_note": "re-（再び）＋ appraise（評価する、ラテン語 appretiare「値をつける」より）から成り、「再び価値を見積もること」を意味します。price（値段）, appreciate（評価する）と同じ語根です。",
+    "etym_chain": [
+      { "node": "appretiare", "sub": "値をつける", "era": "後期ラテン語" },
+      { "node": "appraise", "sub": "評価する・見積もる", "era": "中英語" },
+      { "node": "reappraise", "sub": "再評価する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reappraise the situation", "ja": "状況を見直す" },
+      { "en": "reappraise the strategy", "ja": "戦略を見直す" },
+      { "en": "reappraise the evidence", "ja": "証拠を再評価する" },
+      { "en": "critically reappraise", "ja": "批判的に見直す" },
+      { "en": "reappraise one's life", "ja": "人生を見つめ直す" },
+      { "en": "a major reappraisal", "ja": "大きな見直し" }
+    ],
+    "related": [
+      { "en": "appraise", "ja": "評価する・見積もる" },
+      { "en": "reassess", "ja": "再評価する" },
+      { "en": "reevaluate", "ja": "再評価する" },
+      { "en": "reconsider", "ja": "再考する" }
+    ],
+    "faq": [
+      { "q": "reappraise とはどんな意味？", "a": "いったん下した評価を『再評価する・改めて見直す』という意味です。The crisis forced them to reappraise their strategy.（危機が戦略の見直しを迫った）のように使います。名詞は reappraisal です。" },
+      { "q": "reappraise と reassess の違いは？", "a": "ほぼ同義で『再評価する』ですが、reappraise は『（価値・評価を）見直す』、reassess は『（程度・状況を）測り直す』点にやや重点があります。多くの文脈で言い換え可能です。" }
+    ],
+    "quiz": [
+      { "q": "The crisis forced them to ___ their strategy.（見直す）", "A": "reappraise", "B": "appraise の最初に評価する", "C": "appreciate の感謝する", "D": "approach の近づく", "correct": "A" },
+      { "q": "reappraise のもとになった語はどれ？", "A": "appraise（評価する）", "B": "approve（承認する）", "C": "approach（近づく）", "D": "appoint（任命する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "revitalize",
+    "pron": "ˌriːˈvaɪtəlaɪz",
+    "kana": "リバイタライズ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ vital（生命の）＋ -ize（〜化する）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "ビジネス・社会"],
+    "meaning_main": "活気を取り戻させる・再生させる",
+    "description": "revitalize の意味・発音・例文・語源を解説。衰えた地域・経済・人に「活気を取り戻させる・再生させる」という、ビジネスや社会の話題で使う語を分かりやすく紹介します。",
+    "keywords": ["revitalize 意味", "revitalize 発音", "活性化する", "再生させる"],
+    "meanings": [
+      { "hinshi": "【動詞】活気を取り戻させる・活性化する・再生させる", "note": "衰えたものに新たな力を与える。revitalize the economy（経済を活性化する）。イギリス綴りは revitalise。" }
+    ],
+    "usages": [
+      { "title": "① 地域・経済の「再生」として", "desc": "衰えたものに活気を与えることを表します。", "example_en": "The project aims to revitalize the old town center.", "example_ja": "その計画は古い中心街の再生を目指している。" },
+      { "title": "② 人の「元気回復」として", "desc": "心身に活力を取り戻させることを表します。", "example_en": "A short walk revitalized her.", "example_ja": "少し歩いたことで彼女は元気を取り戻した。" }
+    ],
+    "warn": [
+      "revitalize は『活気を取り戻させる・再生させる』。re-（再び）＋ vital（生命の）＋ -ize。名詞は revitalization。",
+      "地域再生・経済活性化・心身のリフレッシュなど幅広く使う。"
+    ],
+    "etym_note": "re-（再び）＋ vital（生命の、ラテン語 vita「命」より）＋ -ize から成り、「再び命・活力を与えること」を意味します。vitality（活力）, vitamin（ビタミン）と同じ語根です。",
+    "etym_chain": [
+      { "node": "vita", "sub": "命", "era": "ラテン語" },
+      { "node": "vital", "sub": "生命の・活力のある", "era": "中英語" },
+      { "node": "revitalize", "sub": "活気を取り戻させる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "revitalize the economy", "ja": "経済を活性化する" },
+      { "en": "revitalize the city center", "ja": "中心街を再生させる" },
+      { "en": "revitalize a community", "ja": "地域社会を再生させる" },
+      { "en": "revitalize the brand", "ja": "ブランドを再活性化する" },
+      { "en": "feel revitalized", "ja": "元気を取り戻す" },
+      { "en": "an urban revitalization plan", "ja": "都市再生計画" }
+    ],
+    "related": [
+      { "en": "revitalization", "ja": "再生・活性化" },
+      { "en": "rejuvenate", "ja": "若返らせる・活気づける" },
+      { "en": "regenerate", "ja": "再生させる" },
+      { "en": "revive", "ja": "よみがえらせる" }
+    ],
+    "faq": [
+      { "q": "revitalize とはどんな意味？", "a": "衰えた地域・経済・人などに『活気を取り戻させる・再生させる』という意味です。The project aims to revitalize the old town center.（古い中心街の再生を目指す）のように使います。名詞は revitalization です。" },
+      { "q": "revitalize と rejuvenate の違いは？", "a": "どちらも『活気づける』ですが、revitalize は『（地域・経済などに）活力を取り戻させる』、rejuvenate は『（人・肌などを）若返らせる』ニュアンスが強い語です。" }
+    ],
+    "quiz": [
+      { "q": "The project aims to ___ the old town center.（再生させる）", "A": "revitalize", "B": "visualize の視覚化する", "C": "realize の実現する", "D": "recognize の認識する", "correct": "A" },
+      { "q": "revitalize に含まれる語根 vital の意味は？", "A": "生命の・活力の", "B": "視覚の", "C": "現実の", "D": "全体の", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rile",
+    "pron": "raɪl",
+    "kana": "ライル",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "roil（かき乱す）の変形より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "口語"],
+    "meaning_main": "いらだたせる・怒らせる",
+    "description": "rile の意味・発音・例文・語源を解説。人を「いらだたせる・怒らせる」という口語的な動詞の使い方と、rile up（あおる）の表現を分かりやすく紹介します。",
+    "keywords": ["rile 意味", "rile 発音", "いらだたせる", "rile up"],
+    "meanings": [
+      { "hinshi": "【動詞】いらだたせる・怒らせる", "note": "人をいらつかせる。口語的。rile up（あおる・興奮させる）。Don't let it rile you.（それで腹を立てるな）。" }
+    ],
+    "usages": [
+      { "title": "① 「いらだたせる」として", "desc": "人をいらつかせることを表します。", "example_en": "His rude comments really riled me.", "example_ja": "彼の失礼な発言には本当にいらだった。" },
+      { "title": "② rile up の形で", "desc": "「あおる・興奮させる」という意味になります。", "example_en": "The speaker riled up the crowd.", "example_ja": "演説者は群衆をあおり立てた。" }
+    ],
+    "warn": [
+      "rile は『いらだたせる・怒らせる』の口語語。rile up（あおる・興奮させる）が頻出。",
+      "be riled (up)（いらだっている・興奮している）の受け身でもよく使う。"
+    ],
+    "etym_note": "roil（液体をかき濁す・かき乱す）の方言的な変形で、「（心を）かき乱す＝いらだたせる」を意味します。アメリカ英語の口語でよく使われます。",
+    "etym_chain": [
+      { "node": "roil", "sub": "かき乱す・濁す", "era": "近代英語" },
+      { "node": "rile", "sub": "かき乱す・いらだたせる", "era": "19世紀方言" },
+      { "node": "rile", "sub": "いらだたせる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rile someone up", "ja": "人をあおる・興奮させる" },
+      { "en": "get riled up", "ja": "いきり立つ・興奮する" },
+      { "en": "be easily riled", "ja": "すぐにいらだつ" },
+      { "en": "don't let it rile you", "ja": "それで腹を立てるな" },
+      { "en": "rile the crowd", "ja": "群衆をあおる" },
+      { "en": "really rile me", "ja": "本当にいらだたせる" }
+    ],
+    "related": [
+      { "en": "irritate", "ja": "いらだたせる" },
+      { "en": "annoy", "ja": "うるさがらせる" },
+      { "en": "provoke", "ja": "怒らせる・挑発する" },
+      { "en": "agitate", "ja": "扇動する・かき乱す" }
+    ],
+    "faq": [
+      { "q": "rile とはどんな意味？", "a": "人を『いらだたせる・怒らせる』という口語的な動詞です。His rude comments really riled me.（彼の失礼な発言にいらだった）のように使います。rile up で『あおる・興奮させる』の意味になります。" },
+      { "q": "rile up とはどんな意味？", "a": "『（人や群衆を）あおる・興奮させる・いきり立たせる』という意味です。The speaker riled up the crowd.（演説者は群衆をあおった）、get riled up（興奮する）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "His rude comments really ___d me.（いらだたせた）", "A": "rile", "B": "rely の頼る", "C": "rile ではなく smile の微笑む", "D": "file のファイルする", "correct": "A" },
+      { "q": "rile up の意味として正しいのは？", "A": "あおる・興奮させる", "B": "整理する", "C": "微笑む", "D": "頼る", "correct": "A" }
+    ]
+  }
+]
