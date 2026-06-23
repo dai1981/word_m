@@ -1,0 +1,54 @@
+[
+  {
+    "english": "ricer",
+    "pron": "ˈraɪsər",
+    "kana": "ライサー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rice（米粒状にする）＋ -er",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "調理器具"],
+    "meaning_main": "ライサー（ゆでたジャガイモなどを米粒状に押し出す調理器具）",
+    "description": "ricer の意味・発音・例文・語源を解説。ゆでたジャガイモなどを細かい穴から米粒状に押し出してなめらかにする調理器具「ライサー（ポテトライサー）」の使い方を紹介します。",
+    "keywords": ["ricer 意味", "ricer 発音", "ポテトライサー", "ricer 調理器具"],
+    "meanings": [
+      { "hinshi": "【名詞】ライサー（調理器具）", "note": "ゆでたジャガイモなどを細かい穴から米粒状に押し出し、なめらかにする器具。potato ricer（ポテトライサー）。" }
+    ],
+    "usages": [
+      { "title": "① 調理器具として", "desc": "ジャガイモをなめらかにする器具を指します。", "example_en": "Push the potatoes through a ricer.", "example_ja": "ジャガイモをライサーで押し出して。" },
+      { "title": "② マッシュポテト作りで", "desc": "なめらかなマッシュを作る道具を表します。", "example_en": "A ricer makes the smoothest mashed potatoes.", "example_ja": "ライサーを使うと最もなめらかなマッシュポテトができる。" }
+    ],
+    "warn": [
+      "ricer は『ゆでたジャガイモなどを米粒状に押し出す調理器具（ポテトライサー）』。rice（米粒状にする）＋ -er。",
+      "車などをいじって速く見せかける人を指す俗語の ricer もあるが、ここでは調理器具の意味。"
+    ],
+    "etym_note": "rice（ここでは『（食材を）米粒状に押し出す』という動詞用法）に「〜するもの」の -er が付いた語です。押し出された食材が米粒のように見えることに由来します。",
+    "etym_chain": [
+      { "node": "rice", "sub": "米", "era": "中英語" },
+      { "node": "rice", "sub": "米粒状にする", "era": "近代英語" },
+      { "node": "ricer", "sub": "ライサー", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a potato ricer", "ja": "ポテトライサー" },
+      { "en": "push through a ricer", "ja": "ライサーで押し出す" },
+      { "en": "use a ricer", "ja": "ライサーを使う" },
+      { "en": "rice the potatoes", "ja": "ジャガイモを米粒状にする" },
+      { "en": "a metal ricer", "ja": "金属製のライサー" },
+      { "en": "smooth with a ricer", "ja": "ライサーでなめらかにする" }
+    ],
+    "related": [
+      { "en": "rice", "ja": "米・米粒状にする" },
+      { "en": "masher", "ja": "マッシャー（つぶす器具）" },
+      { "en": "sieve", "ja": "ふるい・こし器" },
+      { "en": "mashed potatoes", "ja": "マッシュポテト" }
+    ],
+    "faq": [
+      { "q": "ricer とはどんな意味？", "a": "ゆでたジャガイモなどを細かい穴から米粒状に押し出し、なめらかにする調理器具『ライサー（ポテトライサー）』のことです。" },
+      { "q": "ricer と masher の違いは？", "a": "masher（マッシャー）は『押しつぶす』器具、ricer（ライサー）は『細かい穴から米粒状に押し出す』器具で、よりなめらかな仕上がりになります。" }
+    ],
+    "quiz": [
+      { "q": "Push the potatoes through a ___.（ライサー）", "A": "ricer", "B": "racer の走者", "C": "rinser のすすぎ器", "D": "riser の蹴上げ", "correct": "A" },
+      { "q": "ricer は何のための器具？", "A": "ジャガイモなどを米粒状に押し出してなめらかにする", "B": "肉を焼く", "C": "野菜を切る", "D": "湯を沸かす", "correct": "A" }
+    ]
+  }
+]
