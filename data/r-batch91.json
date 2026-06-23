@@ -1,0 +1,474 @@
+[
+  {
+    "english": "reheat",
+    "pron": "riːˈhiːt",
+    "kana": "リヒート",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ heat（温める）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "基本単語"],
+    "meaning_main": "（冷めた料理を）温め直す・再加熱する",
+    "description": "reheat の意味・発音・例文・語源を解説。冷めた料理や飲み物を「温め直す・再加熱する」という日常的な語の使い方を分かりやすく紹介します。",
+    "keywords": ["reheat 意味", "reheat 発音", "温め直す", "再加熱"],
+    "meanings": [
+      { "hinshi": "【動詞】温め直す・再加熱する", "note": "冷めた料理・飲み物をもう一度温める。reheat the soup（スープを温め直す）。" }
+    ],
+    "usages": [
+      { "title": "① 料理を温め直す", "desc": "冷めた料理を再び温めることを表します。", "example_en": "Reheat the leftovers in the microwave.", "example_ja": "残り物を電子レンジで温め直して。" },
+      { "title": "② 飲み物を温め直す", "desc": "冷めた飲み物を温めることを表します。", "example_en": "She reheated her coffee.", "example_ja": "彼女はコーヒーを温め直した。" }
+    ],
+    "warn": [
+      "reheat は『（冷めたものを）温め直す』。re-（再び）＋ heat（温める）。活用は規則変化。",
+      "電子レンジでの『チンする』は heat up / reheat in the microwave。"
+    ],
+    "etym_note": "re-（再び）＋ heat（温める、古英語 hǣtan より）から成り、「もう一度温めること」を意味します。hot（熱い）と同じ語根です。",
+    "etym_chain": [
+      { "node": "hǣtan", "sub": "温める", "era": "古英語" },
+      { "node": "heat", "sub": "温める", "era": "中英語" },
+      { "node": "reheat", "sub": "温め直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reheat the soup", "ja": "スープを温め直す" },
+      { "en": "reheat the leftovers", "ja": "残り物を温め直す" },
+      { "en": "reheat in the microwave", "ja": "電子レンジで温め直す" },
+      { "en": "reheat gently", "ja": "弱火で温め直す" },
+      { "en": "reheat the rice", "ja": "ご飯を温め直す" },
+      { "en": "reheat until hot", "ja": "熱くなるまで温める" }
+    ],
+    "related": [
+      { "en": "heat", "ja": "温める" },
+      { "en": "warm up", "ja": "温める" },
+      { "en": "microwave", "ja": "電子レンジ（で温める）" },
+      { "en": "cook", "ja": "調理する" }
+    ],
+    "faq": [
+      { "q": "reheat とはどんな意味？", "a": "冷めた料理や飲み物を『温め直す・再加熱する』という動詞です。reheat the leftovers（残り物を温め直す）のように使います。" },
+      { "q": "reheat と warm up の違いは？", "a": "ほぼ同じですが、reheat は『（一度加熱したものを）もう一度しっかり加熱する』、warm up は『（軽く）温める』ニュアンスがあります。" }
+    ],
+    "quiz": [
+      { "q": "___ the leftovers in the microwave.（温め直す）", "A": "Reheat", "B": "Repeat の繰り返す", "C": "Retreat の退く", "D": "Reseat の座らせ直す", "correct": "A" },
+      { "q": "reheat のもとになった語はどれ？", "A": "heat（温める）", "B": "heart（心臓）", "C": "head（頭）", "D": "hear（聞く）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reload",
+    "pron": "riːˈloʊd",
+    "kana": "リロード",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ load（積む・装填する）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "IT・基本"],
+    "meaning_main": "再び積む・（弾を）再装填する／（ページを）読み込み直す・リロードする",
+    "description": "reload の意味・発音・例文・語源を解説。荷物を「再び積む」、銃に「弾を再装填する」、ウェブページを「読み込み直す」という使い方を紹介します。",
+    "keywords": ["reload 意味", "reload 発音", "リロード", "再読み込み"],
+    "meanings": [
+      { "hinshi": "【動詞】再び積む・再装填する", "note": "荷物を積み直す、銃に弾を込め直す。reload the gun（銃に弾を再装填する）。" },
+      { "hinshi": "【動詞】（ページ・データを）読み込み直す", "note": "ウェブページを再読み込みする。reload the page（ページを更新する）。" }
+    ],
+    "usages": [
+      { "title": "① 「再装填・積み直す」として", "desc": "弾や荷物を再び込める意味です。", "example_en": "He stopped to reload the rifle.", "example_ja": "彼はライフルに弾を込め直すため手を止めた。" },
+      { "title": "② 「読み込み直す」として", "desc": "ページを更新する意味です。", "example_en": "Try reloading the page.", "example_ja": "ページを読み込み直してみて。" }
+    ],
+    "warn": [
+      "reload は『再装填する・積み直す』と『（ページを）読み込み直す』。re-（再び）＋ load（積む・装填する）。",
+      "IT では refresh（更新）とほぼ同義で reload the page（再読み込み）を使う。"
+    ],
+    "etym_note": "re-（再び）＋ load（積む・装填する、古英語 lād「道・運ぶこと」に関係）から成り、「もう一度積む・込めること」を意味します。",
+    "etym_chain": [
+      { "node": "lād", "sub": "運ぶこと・積荷", "era": "古英語" },
+      { "node": "load", "sub": "積む・装填する", "era": "近代英語" },
+      { "node": "reload", "sub": "再装填する・読み込み直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reload the gun", "ja": "銃に弾を再装填する" },
+      { "en": "reload the page", "ja": "ページを読み込み直す" },
+      { "en": "reload the truck", "ja": "トラックに積み直す" },
+      { "en": "reload the data", "ja": "データを読み込み直す" },
+      { "en": "stop to reload", "ja": "弾を込め直すため止まる" },
+      { "en": "reload and fire", "ja": "再装填して撃つ" }
+    ],
+    "related": [
+      { "en": "load", "ja": "積む・装填する" },
+      { "en": "refresh", "ja": "更新する・再読み込みする" },
+      { "en": "refill", "ja": "補充する" },
+      { "en": "unload", "ja": "降ろす（反対）" }
+    ],
+    "faq": [
+      { "q": "reload とはどんな意味？", "a": "荷物を『再び積む』、銃に『弾を再装填する』、ウェブページを『読み込み直す（リロードする）』など、文脈によっていくつかの意味があります。re-（再び）＋ load から来ています。" },
+      { "q": "reload と refresh の違いは？", "a": "IT ではほぼ同じ『ページを再読み込みする』ですが、reload は『（データを）もう一度読み込む』、refresh は『（表示を）最新に更新する』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "Try ___ing the page.（読み込み直す）", "A": "reload", "B": "reread の読み返す", "C": "reread の代わりに reward", "D": "recall の思い出す", "correct": "A" },
+      { "q": "reload のもとになった語はどれ？", "A": "load（積む・装填する）", "B": "road（道）", "C": "loud（大きい）", "D": "lord（主）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reentry",
+    "pron": "riːˈentri",
+    "kana": "リエントリー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ entry（入ること）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "再突入（宇宙船の大気圏再突入）／再加入・再参入・再入国",
+    "description": "reentry の意味・発音・例文・語源を解説。宇宙船の大気圏「再突入」や、社会・市場への「再参入・再加入」、また「再入国」を指す語の使い方を紹介します。",
+    "keywords": ["reentry 意味", "reentry 発音", "再突入", "再参入"],
+    "meanings": [
+      { "hinshi": "【名詞】（宇宙船の）大気圏再突入", "note": "宇宙から地球の大気圏へ再び入ること。atmospheric reentry（大気圏再突入）。" },
+      { "hinshi": "【名詞】再加入・再参入・再入国", "note": "離れていた場所・分野に再び入ること。reentry into the workforce（職場復帰）。" }
+    ],
+    "usages": [
+      { "title": "① 「大気圏再突入」として", "desc": "宇宙船が大気圏に再び入ることを表します。", "example_en": "The capsule survived reentry.", "example_ja": "そのカプセルは大気圏再突入を生き延びた。" },
+      { "title": "② 「再参入・職場復帰」として", "desc": "離れた分野に再び入ることを表します。", "example_en": "Her reentry into the job market was smooth.", "example_ja": "彼女の労働市場への再参入は順調だった。" }
+    ],
+    "warn": [
+      "reentry は『（宇宙船の）大気圏再突入』と『再加入・再参入・再入国』。re-（再び）＋ entry（入ること）。re-entry とも綴る。",
+      "アメリカの再入国許可証は reentry permit。"
+    ],
+    "etym_note": "re-（再び）＋ entry（入ること、entrer「入る」より）から成り、「もう一度入ること」を意味します。enter（入る）と同じ語根です。",
+    "etym_chain": [
+      { "node": "intrare", "sub": "入る", "era": "ラテン語" },
+      { "node": "entry", "sub": "入ること・入口", "era": "中英語" },
+      { "node": "reentry", "sub": "再突入・再参入", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "atmospheric reentry", "ja": "大気圏再突入" },
+      { "en": "survive reentry", "ja": "再突入を生き延びる" },
+      { "en": "reentry into the workforce", "ja": "職場復帰" },
+      { "en": "market reentry", "ja": "市場への再参入" },
+      { "en": "a reentry permit", "ja": "再入国許可証" },
+      { "en": "the point of reentry", "ja": "再突入地点" }
+    ],
+    "related": [
+      { "en": "enter", "ja": "入る" },
+      { "en": "entry", "ja": "入ること・入口" },
+      { "en": "return", "ja": "戻ること" },
+      { "en": "exit", "ja": "出ること（反対）" }
+    ],
+    "faq": [
+      { "q": "reentry とはどんな意味？", "a": "宇宙船が地球の大気圏へ再び入る『大気圏再突入』という意味と、離れていた場所・分野に再び入る『再加入・再参入・再入国』という意味があります。" },
+      { "q": "reentry into the workforce とは？", "a": "出産・介護・引退などで離れていた人が、再び働き始めること『職場復帰・労働市場への再参入』です。" }
+    ],
+    "quiz": [
+      { "q": "The capsule survived ___.（再突入）", "A": "reentry", "B": "entry の入口", "C": "industry の産業", "D": "entirety の全体", "correct": "A" },
+      { "q": "reentry のもとになった語はどれ？", "A": "entry（入ること）", "B": "entire（全体の）", "C": "energy（エネルギー）", "D": "enemy（敵）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reignite",
+    "pron": "ˌriːɪɡˈnaɪt",
+    "kana": "リイグナイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ ignite（火をつける）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "再び火をつける・再点火する／（感情・対立を）再び燃え上がらせる・再燃させる",
+    "description": "reignite の意味・発音・例文・語源を解説。火を「再点火する」、また感情・関心・対立を「再び燃え上がらせる（再燃させる）」という比喩の使い方を紹介します。",
+    "keywords": ["reignite 意味", "reignite 発音", "再燃", "ignite 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再び火をつける・再点火する", "note": "消えた火をもう一度つける。reignite the flame（炎を再点火する）。" },
+      { "hinshi": "【動詞】（感情・対立を）再び燃え上がらせる・再燃させる", "note": "冷めた関心や争いをよみがえらせる。reignite the debate（議論を再燃させる）。" }
+    ],
+    "usages": [
+      { "title": "① 「再点火する」として", "desc": "消えた火を再びつけることを表します。", "example_en": "He managed to reignite the campfire.", "example_ja": "彼はなんとかキャンプファイヤーに再点火した。" },
+      { "title": "② 「再燃させる」として", "desc": "感情や対立をよみがえらせる比喩です。", "example_en": "The news reignited the controversy.", "example_ja": "その知らせは論争を再燃させた。" }
+    ],
+    "warn": [
+      "reignite は『再点火する』だけでなく、比喩で『（感情・関心・対立を）再び燃え上がらせる・再燃させる』が頻出。",
+      "reignite interest / passion / debate（関心・情熱・議論を再燃させる）が定番。"
+    ],
+    "etym_note": "re-（再び）＋ ignite（火をつける、ラテン語 ignire「燃やす」より）から成り、「もう一度火をつけること」を意味します。ignite は ignis（火）に由来します。",
+    "etym_chain": [
+      { "node": "ignis", "sub": "火", "era": "ラテン語" },
+      { "node": "ignite", "sub": "火をつける", "era": "近代英語" },
+      { "node": "reignite", "sub": "再点火する・再燃させる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reignite the flame", "ja": "炎を再点火する" },
+      { "en": "reignite interest", "ja": "関心を再燃させる" },
+      { "en": "reignite the debate", "ja": "議論を再燃させる" },
+      { "en": "reignite passion", "ja": "情熱を再び燃え上がらせる" },
+      { "en": "reignite tensions", "ja": "緊張を再燃させる" },
+      { "en": "reignite hope", "ja": "希望を再びかき立てる" }
+    ],
+    "related": [
+      { "en": "ignite", "ja": "火をつける" },
+      { "en": "rekindle", "ja": "再び燃やす・よみがえらせる" },
+      { "en": "revive", "ja": "復活させる" },
+      { "en": "spark", "ja": "火花・引き起こす" }
+    ],
+    "faq": [
+      { "q": "reignite とはどんな意味？", "a": "消えた火を『再び火をつける・再点火する』という意味と、冷めた感情・関心・対立を『再び燃え上がらせる・再燃させる』という比喩の意味があります。reignite the debate（議論を再燃させる）のように使います。" },
+      { "q": "reignite と rekindle の違いは？", "a": "どちらも『再び燃やす・よみがえらせる』ですが、reignite は『（勢いよく）再燃させる』、rekindle は『（温かい感情などを）そっとよみがえらせる』ニュアンスがあります。" }
+    ],
+    "quiz": [
+      { "q": "The news ___d the controversy.（再燃させた）", "A": "reignite", "B": "reunite の再会させる", "C": "rewrite の書き直す", "D": "recite の暗唱する", "correct": "A" },
+      { "q": "reignite の語根 ignis の意味はどれ？", "A": "火", "B": "水", "C": "風", "D": "土", "correct": "A" }
+    ]
+  },
+  {
+    "english": "replant",
+    "pron": "riːˈplænt",
+    "kana": "リプラント",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ plant（植える）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "園芸・環境"],
+    "meaning_main": "植え替える・植え直す・（伐採地などに）再び植える",
+    "description": "replant の意味・発音・例文・語源を解説。植物を「植え替える・植え直す」、また伐採地に木を「再び植える」という園芸・環境の語の使い方を紹介します。",
+    "keywords": ["replant 意味", "replant 発音", "植え替える", "再植林"],
+    "meanings": [
+      { "hinshi": "【動詞】植え替える・植え直す・再び植える", "note": "植物を別の場所に移して植える、または伐採地などに再び植える。replant a tree（木を植え替える）、replant the forest（森を再植林する）。" }
+    ],
+    "usages": [
+      { "title": "① 植え替えとして", "desc": "植物を別の場所に移して植えることを表します。", "example_en": "We replanted the seedlings in larger pots.", "example_ja": "私たちは苗を大きな鉢に植え替えた。" },
+      { "title": "② 再植林として", "desc": "伐採地に木を再び植えることを表します。", "example_en": "They replanted the burned forest.", "example_ja": "彼らは焼けた森に木を植え直した。" }
+    ],
+    "warn": [
+      "replant は『植え替える・植え直す・再び植える』。re-（再び）＋ plant（植える）。",
+      "森林を再び植える『再植林』は reforestation ともいう。"
+    ],
+    "etym_note": "re-（再び）＋ plant（植える、ラテン語 plantare「植える」より）から成り、「もう一度植えること」を意味します。",
+    "etym_chain": [
+      { "node": "plantare", "sub": "植える", "era": "ラテン語" },
+      { "node": "plant", "sub": "植える", "era": "中英語" },
+      { "node": "replant", "sub": "植え替える・再び植える", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "replant a tree", "ja": "木を植え替える" },
+      { "en": "replant the seedlings", "ja": "苗を植え替える" },
+      { "en": "replant the forest", "ja": "森を再植林する" },
+      { "en": "replant in fresh soil", "ja": "新しい土に植え替える" },
+      { "en": "dig up and replant", "ja": "掘り起こして植え直す" },
+      { "en": "replant the crops", "ja": "作物を植え直す" }
+    ],
+    "related": [
+      { "en": "plant", "ja": "植える" },
+      { "en": "transplant", "ja": "移植する" },
+      { "en": "reforest", "ja": "再植林する" },
+      { "en": "repot", "ja": "鉢を替える" }
+    ],
+    "faq": [
+      { "q": "replant とはどんな意味？", "a": "植物を別の場所に移して『植え替える・植え直す』、また伐採地などに『再び植える』という動詞です。replant a tree（木を植え替える）のように使います。" },
+      { "q": "replant と transplant の違いは？", "a": "ほぼ同じですが、transplant は『（掘り上げて別の場所へ）移植する』、replant は『（同じ場所や新しい場所に）植え直す・再び植える』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "We ___ed the seedlings in larger pots.（植え替えた）", "A": "replant", "B": "replace の取り替える", "C": "replay の再生する", "D": "reply の返事する", "correct": "A" },
+      { "q": "replant のもとになった語はどれ？", "A": "plant（植える）", "B": "plan（計画）", "C": "plane（飛行機）", "D": "place（場所）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "roughhouse",
+    "pron": "ˈrʌfhaʊs",
+    "kana": "ラフハウス",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "rough（荒い）＋ house（騒ぐ・場）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "口語"],
+    "meaning_main": "（ふざけて）乱暴に取っ組み合う・荒っぽくじゃれる／大騒ぎ",
+    "description": "roughhouse の意味・発音・例文・語源を解説。子どもなどが「ふざけて乱暴に取っ組み合う・荒っぽくじゃれ合う」というくだけた語の使い方を紹介します。",
+    "keywords": ["roughhouse 意味", "roughhouse 発音", "取っ組み合う", "じゃれる"],
+    "meanings": [
+      { "hinshi": "【動詞】（ふざけて）乱暴に取っ組み合う・荒っぽくじゃれる", "note": "悪意なく荒っぽくふざけ合う。The kids were roughhousing.（子どもたちが取っ組み合ってじゃれていた）。" },
+      { "hinshi": "【名詞】乱暴なふざけ・大騒ぎ", "note": "荒っぽいじゃれ合い・どんちゃん騒ぎ。" }
+    ],
+    "usages": [
+      { "title": "① 「荒っぽくじゃれる」として", "desc": "ふざけて取っ組み合うことを表します。", "example_en": "The boys roughhoused in the yard.", "example_ja": "少年たちは庭で取っ組み合ってじゃれた。" },
+      { "title": "② 「乱暴なふざけ」として", "desc": "荒っぽいじゃれ合いを表します。", "example_en": "No roughhousing in the house!", "example_ja": "家の中で暴れて遊ばないで！" }
+    ],
+    "warn": [
+      "roughhouse は『（悪意なく）荒っぽくふざけて取っ組み合う』。rough（荒い）＋ house。けんかではなく遊びのじゃれ合い。",
+      "発音は『ラフハウス（ˈrʌfhaʊs）』。"
+    ],
+    "etym_note": "rough（荒い）＋ house（ここでは『騒ぐ・大騒ぎする場』の意）から成り、「荒っぽく騒ぐこと」を意味します。",
+    "etym_chain": [
+      { "node": "rough + house", "sub": "荒い＋騒ぐ", "era": "近代英語" },
+      { "node": "roughhouse", "sub": "乱暴なふざけ", "era": "近代英語" },
+      { "node": "roughhouse", "sub": "荒っぽく取っ組み合う", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "roughhouse with the dog", "ja": "犬と荒っぽくじゃれる" },
+      { "en": "no roughhousing", "ja": "暴れて遊ばないで" },
+      { "en": "the kids were roughhousing", "ja": "子どもたちがじゃれ合っていた" },
+      { "en": "roughhouse playfully", "ja": "ふざけて取っ組み合う" },
+      { "en": "a bit of roughhousing", "ja": "ちょっとした荒っぽいふざけ" },
+      { "en": "stop roughhousing", "ja": "暴れて遊ぶのをやめる" }
+    ],
+    "related": [
+      { "en": "wrestle", "ja": "取っ組み合う" },
+      { "en": "horse around", "ja": "ふざけ回る" },
+      { "en": "tussle", "ja": "もみ合う" },
+      { "en": "rowdy", "ja": "騒がしい・乱暴な" }
+    ],
+    "faq": [
+      { "q": "roughhouse とはどんな意味？", "a": "子どもなどが悪意なく『荒っぽく取っ組み合う・じゃれ合う』というくだけた動詞です。けんかではなく遊びのじゃれ合いを指します。名詞では『乱暴なふざけ・大騒ぎ』です。" },
+      { "q": "roughhouse は本気のけんか？", "a": "いいえ。悪意のない遊びのじゃれ合い・ふざけた取っ組み合いを指します。本気のけんかは fight です。" }
+    ],
+    "quiz": [
+      { "q": "The boys ___d in the yard.（取っ組み合ってじゃれた）", "A": "roughhouse", "B": "warehouse の倉庫", "C": "rehearse の練習する", "D": "rehouse の住まわせ直す", "correct": "A" },
+      { "q": "roughhouse のニュアンスはどれ？", "A": "悪意のない荒っぽいじゃれ合い", "B": "本気のけんか", "C": "静かな会話", "D": "丁寧なあいさつ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rosewater",
+    "pron": "ˈroʊzwɔːtər",
+    "kana": "ローズウォーター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rose（ばら）＋ water（水）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "食品・化粧"],
+    "meaning_main": "ローズウォーター（ばらの花びらから取る香りの水。料理・化粧に使う）",
+    "description": "rosewater の意味・発音・例文・語源を解説。ばらの花びらを蒸留して作る香りのよい水「ローズウォーター」で、料理や化粧品に使う語の使い方を紹介します。",
+    "keywords": ["rosewater 意味", "rosewater 発音", "ローズウォーター", "ばらの水"],
+    "meanings": [
+      { "hinshi": "【名詞】ローズウォーター", "note": "ばらの花びらを蒸留して作る香りのよい水。中東・南アジアの菓子や料理の香りづけ、また化粧水に使う。rose water とも綴る。" }
+    ],
+    "usages": [
+      { "title": "① 料理の香りづけとして", "desc": "菓子や料理に使う香りの水を指します。", "example_en": "The dessert was flavored with rosewater.", "example_ja": "そのデザートはローズウォーターで香りづけされていた。" },
+      { "title": "② 化粧品として", "desc": "肌につける香りの水を表します。", "example_en": "She uses rosewater as a toner.", "example_ja": "彼女はローズウォーターを化粧水として使っている。" }
+    ],
+    "warn": [
+      "rosewater は『ばらの花びらを蒸留した香りの水』。料理（中東・南アジアの菓子など）と化粧の両方に使う。rose water と2語でも綴る。",
+      "rosewood（紫檀）, rosehip（ばらの実）とは別。"
+    ],
+    "etym_note": "rose（ばら）＋ water（水）の複合語で、「ばらの香りの水」を意味します。ばらの花びらを蒸留して作られ、古くから料理・化粧・宗教儀式に使われてきました。",
+    "etym_chain": [
+      { "node": "rose + water", "sub": "ばら＋水", "era": "中英語" },
+      { "node": "rosewater", "sub": "ばらの水", "era": "近代英語" },
+      { "node": "rosewater", "sub": "ローズウォーター", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a splash of rosewater", "ja": "少量のローズウォーター" },
+      { "en": "flavored with rosewater", "ja": "ローズウォーターで香りづけ" },
+      { "en": "rosewater and honey", "ja": "ローズウォーターとはちみつ" },
+      { "en": "use rosewater as a toner", "ja": "化粧水として使う" },
+      { "en": "scented with rosewater", "ja": "ばらの香りをつけた" },
+      { "en": "a bottle of rosewater", "ja": "ローズウォーター1本" }
+    ],
+    "related": [
+      { "en": "rose", "ja": "ばら" },
+      { "en": "fragrance", "ja": "香り" },
+      { "en": "toner", "ja": "化粧水" },
+      { "en": "essence", "ja": "エッセンス・香味料" }
+    ],
+    "faq": [
+      { "q": "rosewater とはどんな意味？", "a": "ばらの花びらを蒸留して作る香りのよい水『ローズウォーター』のことです。中東・南アジアの菓子や料理の香りづけ、また化粧水として使われます。" },
+      { "q": "rosewater は飲める？食べられる？", "a": "食用のものは菓子や料理の香りづけに使えます。化粧用のものは肌につけるためのものなので、用途に合った製品を選びます。" }
+    ],
+    "quiz": [
+      { "q": "The dessert was flavored with ___.（ローズウォーター）", "A": "rosewater", "B": "rosewood の紫檀", "C": "rosehip のばらの実", "D": "rosemary のローズマリー", "correct": "A" },
+      { "q": "rosewater は何から作る？", "A": "ばらの花びら", "B": "ばらの根", "C": "ばらのとげ", "D": "ばらの実だけ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "redcoat",
+    "pron": "ˈredkoʊt",
+    "kana": "レッドコート",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "red（赤い）＋ coat（上着）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "歴史"],
+    "meaning_main": "（歴史）赤い軍服を着たイギリス兵（特に18〜19世紀の英陸軍兵）",
+    "description": "redcoat の意味・発音・例文・語源を解説。赤い軍服を着た歴史上のイギリス陸軍兵「レッドコート」を指す語の使い方を分かりやすく紹介します。",
+    "keywords": ["redcoat 意味", "redcoat 発音", "イギリス兵", "赤い軍服"],
+    "meanings": [
+      { "hinshi": "【名詞】（歴史）赤い軍服のイギリス兵", "note": "18〜19世紀ごろの赤い軍服を着たイギリス陸軍兵の通称。アメリカ独立戦争などで知られる。" }
+    ],
+    "usages": [
+      { "title": "① 歴史上のイギリス兵として", "desc": "赤い軍服の英兵を指します。", "example_en": "The redcoats marched into the town.", "example_ja": "赤い軍服のイギリス兵たちが町に進軍した。" },
+      { "title": "② アメリカ独立戦争の文脈で", "desc": "英軍兵を表します。", "example_en": "The colonists fought against the redcoats.", "example_ja": "植民地の人々はイギリス兵と戦った。" }
+    ],
+    "warn": [
+      "redcoat は『（歴史上の）赤い軍服を着たイギリス陸軍兵』。red（赤い）＋ coat（上着）。",
+      "イギリスの保養施設の案内係（赤い上着の係員）を指すこともある。"
+    ],
+    "etym_note": "red（赤い）＋ coat（上着）から成り、イギリス陸軍が赤い軍服を着ていたことに由来します。18〜19世紀の英兵の通称として広く使われました。",
+    "etym_chain": [
+      { "node": "red + coat", "sub": "赤い＋上着", "era": "近代英語" },
+      { "node": "redcoat", "sub": "赤い軍服の兵", "era": "近代英語" },
+      { "node": "redcoat", "sub": "イギリス兵", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the British redcoats", "ja": "赤い軍服のイギリス兵" },
+      { "en": "a line of redcoats", "ja": "イギリス兵の列" },
+      { "en": "fight the redcoats", "ja": "イギリス兵と戦う" },
+      { "en": "the redcoats advanced", "ja": "イギリス兵が前進した" },
+      { "en": "a redcoat soldier", "ja": "赤い軍服の兵士" },
+      { "en": "the era of the redcoats", "ja": "赤い軍服の時代" }
+    ],
+    "related": [
+      { "en": "soldier", "ja": "兵士" },
+      { "en": "infantry", "ja": "歩兵" },
+      { "en": "uniform", "ja": "軍服・制服" },
+      { "en": "colonist", "ja": "植民地の人" }
+    ],
+    "faq": [
+      { "q": "redcoat とはどんな意味？", "a": "18〜19世紀ごろの赤い軍服を着たイギリス陸軍兵の通称『レッドコート』です。アメリカ独立戦争などの歴史でよく登場します。" },
+      { "q": "redcoat の名の由来は？", "a": "イギリス陸軍が赤い軍服（上着）を着ていたことから、red（赤い）＋ coat（上着）と名づけられました。" }
+    ],
+    "quiz": [
+      { "q": "The ___s marched into the town.（赤い軍服のイギリス兵）", "A": "redcoat", "B": "raincoat のレインコート", "C": "redhead の赤毛", "D": "redneck の田舎者", "correct": "A" },
+      { "q": "redcoat の名の由来はどれ？", "A": "赤い軍服を着ていたから", "B": "赤い旗を持っていたから", "C": "赤い髪だったから", "D": "赤い土地の出身だから", "correct": "A" }
+    ]
+  },
+  {
+    "english": "roomer",
+    "pron": "ˈruːmər",
+    "kana": "ルーマー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "room（部屋を借りる）＋ -er",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検1級", "CEFR C1", "アメリカ英語"],
+    "meaning_main": "（アメリカ）下宿人・間借り人（部屋を借りて住む人）",
+    "description": "roomer の意味・発音・例文・語源を解説。他人の家の一室を借りて住む「下宿人・間借り人」を指す、主にアメリカ英語の語の使い方を紹介します。",
+    "keywords": ["roomer 意味", "roomer 発音", "下宿人", "間借り人"],
+    "meanings": [
+      { "hinshi": "【名詞】下宿人・間借り人", "note": "他人の家の一室を借りて住む人。主にアメリカ英語で、イギリスでは lodger。a roomer and boarder（下宿人）。" }
+    ],
+    "usages": [
+      { "title": "① 下宿人として", "desc": "部屋を借りて住む人を指します。", "example_en": "They took in a roomer to help with the rent.", "example_ja": "彼らは家賃の足しにと下宿人を一人置いた。" },
+      { "title": "② 間借りの場面で", "desc": "一室を借りる人を表します。", "example_en": "The house has two roomers upstairs.", "example_ja": "その家には2階に2人の間借り人がいる。" }
+    ],
+    "warn": [
+      "roomer は『下宿人・間借り人』で、主にアメリカ英語。イギリスでは lodger という。発音は『ルーマー』で rumor（うわさ）と同音。",
+      "食事も付く場合は boarder（賄い付き下宿人）という。"
+    ],
+    "etym_note": "room（部屋。ここでは『部屋を借りて住む』という動詞用法）に「〜する人」の -er が付いた語で、「部屋を借りて住む人」を意味します。",
+    "etym_chain": [
+      { "node": "rūm", "sub": "広い場所・部屋", "era": "古英語" },
+      { "node": "room", "sub": "部屋を借りる", "era": "近代英語" },
+      { "node": "roomer", "sub": "下宿人", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "take in a roomer", "ja": "下宿人を置く" },
+      { "en": "a roomer and boarder", "ja": "下宿人" },
+      { "en": "the upstairs roomer", "ja": "2階の間借り人" },
+      { "en": "rent to a roomer", "ja": "下宿人に貸す" },
+      { "en": "a quiet roomer", "ja": "静かな下宿人" },
+      { "en": "a rooming house", "ja": "下宿屋" }
+    ],
+    "related": [
+      { "en": "lodger", "ja": "下宿人（英）" },
+      { "en": "boarder", "ja": "賄い付き下宿人" },
+      { "en": "tenant", "ja": "賃借人" },
+      { "en": "landlord", "ja": "家主" }
+    ],
+    "faq": [
+      { "q": "roomer とはどんな意味？", "a": "他人の家の一室を借りて住む『下宿人・間借り人』のことです。主にアメリカ英語で、イギリスでは lodger と言います。" },
+      { "q": "roomer と rumor の違いは？", "a": "発音は同じ『ルーマー』ですが、roomer は『下宿人』、rumor は『うわさ』で、つづりも意味も異なります。" }
+    ],
+    "quiz": [
+      { "q": "They took in a ___ to help with the rent.（下宿人）", "A": "roomer", "B": "rumor のうわさ", "C": "runner の走者", "D": "ruler の定規", "correct": "A" },
+      { "q": "roomer のイギリス英語での言い方はどれ？", "A": "lodger（下宿人）", "B": "owner（所有者）", "C": "builder（建築業者）", "D": "buyer（買い手）", "correct": "A" }
+    ]
+  }
+]
