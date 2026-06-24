@@ -1,0 +1,523 @@
+[
+  {
+    "english": "reinvigorate",
+    "pron": "ˌriːɪnˈvɪɡəreɪt",
+    "kana": "リインビゴレイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ invigorate（活気づける）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "ビジネス・健康"],
+    "meaning_main": "再び活気づける・元気を取り戻させる・活性化させる",
+    "description": "reinvigorate の意味・発音・例文・語源を解説。衰えた経済・組織・人に「再び活気づける・元気を取り戻させる・活性化させる」という使い方を分かりやすく紹介します。",
+    "keywords": ["reinvigorate 意味", "reinvigorate 発音", "活気づける", "活性化"],
+    "meanings": [
+      { "hinshi": "【動詞】再び活気づける・元気を取り戻させる・活性化させる", "note": "新たな力・活力を与える。reinvigorate the economy（経済を活性化させる）。feel reinvigorated（元気を取り戻す）。" }
+    ],
+    "usages": [
+      { "title": "① 経済・組織の「活性化」として", "desc": "新たな活力を与えることを表します。", "example_en": "The plan aims to reinvigorate the local economy.", "example_ja": "その計画は地域経済の活性化を目指している。" },
+      { "title": "② 人の「元気回復」として", "desc": "心身に活力を取り戻させることを表します。", "example_en": "A short break reinvigorated the team.", "example_ja": "短い休憩がチームに活気を取り戻させた。" }
+    ],
+    "warn": [
+      "reinvigorate は『再び活気づける・元気を取り戻させる・活性化させる』。re-（再び）＋ invigorate（活気づける、vigor「活力」より）。",
+      "revitalize（活気を取り戻させる）とほぼ同義。"
+    ],
+    "etym_note": "re-（再び）＋ invigorate（『活気づける』、in-「中へ」＋ vigor「活力」、ラテン語 vigor「生命力」より）から成り、「再び活力を与えること」を意味します。vigorous（精力的な）と同じ語根です。",
+    "etym_chain": [
+      { "node": "vigor", "sub": "活力・生命力", "era": "ラテン語" },
+      { "node": "invigorate", "sub": "活気づける", "era": "近代英語" },
+      { "node": "reinvigorate", "sub": "再び活気づける", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reinvigorate the economy", "ja": "経済を活性化させる" },
+      { "en": "reinvigorate the team", "ja": "チームを活気づける" },
+      { "en": "reinvigorate the brand", "ja": "ブランドを再活性化する" },
+      { "en": "feel reinvigorated", "ja": "元気を取り戻す" },
+      { "en": "reinvigorate interest", "ja": "関心を再びかき立てる" },
+      { "en": "reinvigorate the debate", "ja": "議論を再び活発にする" }
+    ],
+    "related": [
+      { "en": "invigorate", "ja": "活気づける" },
+      { "en": "revitalize", "ja": "活気を取り戻させる" },
+      { "en": "rejuvenate", "ja": "若返らせる・活気づける" },
+      { "en": "energize", "ja": "元気づける" }
+    ],
+    "faq": [
+      { "q": "reinvigorate とはどんな意味？", "a": "衰えた経済・組織・人などに『再び活気づける・元気を取り戻させる・活性化させる』という意味です。The plan aims to reinvigorate the local economy.（地域経済の活性化を目指す）のように使います。" },
+      { "q": "reinvigorate と revitalize の違いは？", "a": "ほぼ同義で『活気を取り戻させる』ですが、reinvigorate は『（活力・元気を）再び吹き込む』、revitalize は『（生命力を）再生させる・よみがえらせる』にやや重点があります。多くの文脈で言い換え可能です。" }
+    ],
+    "quiz": [
+      { "q": "The plan aims to ___ the local economy.（活性化させる）", "A": "reinvigorate", "B": "investigate の調査する", "C": "invigilate の試験監督をする", "D": "instigate の扇動する", "correct": "A" },
+      { "q": "reinvigorate に含まれる語根 vigor の意味は？", "A": "活力・生命力", "B": "知識", "C": "光", "D": "数", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reciprocity",
+    "pron": "ˌresɪˈprɒsəti",
+    "kana": "レシプロシティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "reciprocal（相互の）＋ -ity（性質）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "外交・社会"],
+    "meaning_main": "相互性・互恵（ごけい）・持ちつ持たれつの関係",
+    "description": "reciprocity の意味・発音・例文・語源を解説。互いに同じように与え合う「相互性・互恵・持ちつ持たれつの関係」を表す、外交・社会で使う名詞の使い方を紹介します。",
+    "keywords": ["reciprocity 意味", "reciprocity 発音", "相互性", "互恵"],
+    "meanings": [
+      { "hinshi": "【名詞】相互性・互恵（ごけい）・持ちつ持たれつの関係", "note": "互いに同じ利益・待遇を与え合うこと。based on reciprocity（互恵にもとづく）。" }
+    ],
+    "usages": [
+      { "title": "① 外交「互恵」として", "desc": "互いに利益を与え合うことを表します。", "example_en": "The trade deal is based on reciprocity.", "example_ja": "その貿易協定は互恵にもとづいている。" },
+      { "title": "② 社会「持ちつ持たれつ」として", "desc": "お返しの関係を表します。", "example_en": "Social reciprocity strengthens relationships.", "example_ja": "互いに報い合うことは人間関係を強める。" }
+    ],
+    "warn": [
+      "reciprocity は『相互性・互恵・持ちつ持たれつ』。形容詞 reciprocal（相互の）、動詞 reciprocate（報いる・お返しする）。",
+      "外交・貿易・心理・社会など幅広く使う。a sense of reciprocity（お返しの感覚）。"
+    ],
+    "etym_note": "reciprocal（『相互の』、ラテン語 reciprocus「行きつ戻りつする」より）＋ -ity から成り、「相互に与え合う性質」を意味します。",
+    "etym_chain": [
+      { "node": "reciprocus", "sub": "行きつ戻りつする", "era": "ラテン語" },
+      { "node": "reciprocal", "sub": "相互の", "era": "近代英語" },
+      { "node": "reciprocity", "sub": "相互性・互恵", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "based on reciprocity", "ja": "互恵にもとづく" },
+      { "en": "a principle of reciprocity", "ja": "相互主義の原則" },
+      { "en": "social reciprocity", "ja": "社会的な互恵性" },
+      { "en": "the norm of reciprocity", "ja": "返報性の規範" },
+      { "en": "expect reciprocity", "ja": "お返しを期待する" },
+      { "en": "trade reciprocity", "ja": "貿易の互恵" }
+    ],
+    "related": [
+      { "en": "reciprocal", "ja": "相互の" },
+      { "en": "reciprocate", "ja": "報いる・お返しする" },
+      { "en": "mutuality", "ja": "相互関係" },
+      { "en": "exchange", "ja": "交換" }
+    ],
+    "faq": [
+      { "q": "reciprocity とはどんな意味？", "a": "互いに同じように利益や待遇を与え合う『相互性・互恵・持ちつ持たれつの関係』のことです。The trade deal is based on reciprocity.（その貿易協定は互恵にもとづく）のように使います。" },
+      { "q": "the norm of reciprocity とは？", "a": "『返報性の規範』のことです。『人から何かをしてもらったら、お返しをすべきだ』という、社会に広く見られる暗黙のルール（心理）を指します。" }
+    ],
+    "quiz": [
+      { "q": "The trade deal is based on ___.（互恵）", "A": "reciprocity", "B": "electricity の電気", "C": "publicity の宣伝", "D": "simplicity の単純さ", "correct": "A" },
+      { "q": "reciprocity の形容詞形はどれ？", "A": "reciprocal（相互の）", "B": "electrical（電気の）", "C": "public（公の）", "D": "simple（単純な）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recklessness",
+    "pron": "ˈrekləsnəs",
+    "kana": "レックレスネス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "reckless（無謀な）＋ -ness",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "性格・法律"],
+    "meaning_main": "無謀さ・向こう見ず・無分別",
+    "description": "recklessness の意味・発音・例文・語源を解説。危険や結果を考えない「無謀さ・向こう見ず・無分別」を表す名詞の使い方と、形容詞 reckless を紹介します。",
+    "keywords": ["recklessness 意味", "recklessness 発音", "無謀さ", "向こう見ず"],
+    "meanings": [
+      { "hinshi": "【名詞】無謀さ・向こう見ず・無分別", "note": "危険や結果を顧みないこと。an act of recklessness（無謀な行為）。法律では『無謀（過失より重い）』。" }
+    ],
+    "usages": [
+      { "title": "① 「無謀さ」として", "desc": "危険を顧みない様子を表します。", "example_en": "His recklessness put others in danger.", "example_ja": "彼の無謀さは他人を危険にさらした。" },
+      { "title": "② 法律の文脈で", "desc": "過失より重い無謀を表します。", "example_en": "He was charged with recklessness.", "example_ja": "彼は無謀運転（無謀行為）で訴えられた。" }
+    ],
+    "warn": [
+      "recklessness は『無謀さ・向こう見ず・無分別』。形容詞 reckless（無謀な）＋ -ness。副詞 recklessly。",
+      "法律では recklessness（無謀＝結果を予見しながら無視）は negligence（過失）より重いとされる。"
+    ],
+    "etym_note": "reckless（『無謀な・向こう見ずな』、reck「気にかける」＋ -less「〜なしに」、古英語 reccan より）＋ -ness から成り、「気にかけないこと＝無謀さ」を意味します。reck は今はほぼ recklessness の形でのみ残ります。",
+    "etym_chain": [
+      { "node": "reccan", "sub": "気にかける", "era": "古英語" },
+      { "node": "reckless", "sub": "無謀な・向こう見ずな", "era": "古英語" },
+      { "node": "recklessness", "sub": "無謀さ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an act of recklessness", "ja": "無謀な行為" },
+      { "en": "sheer recklessness", "ja": "まったくの無謀さ" },
+      { "en": "youthful recklessness", "ja": "若さゆえの無謀さ" },
+      { "en": "with reckless abandon", "ja": "向こう見ずに・後先考えず" },
+      { "en": "drive with recklessness", "ja": "無謀に運転する" },
+      { "en": "charged with recklessness", "ja": "無謀行為で訴えられる" }
+    ],
+    "related": [
+      { "en": "reckless", "ja": "無謀な・向こう見ずな" },
+      { "en": "rashness", "ja": "軽率さ" },
+      { "en": "carelessness", "ja": "不注意" },
+      { "en": "caution", "ja": "慎重さ（反対）" }
+    ],
+    "faq": [
+      { "q": "recklessness とはどんな意味？", "a": "危険や結果を考えない『無謀さ・向こう見ず・無分別』のことです。His recklessness put others in danger.（彼の無謀さは他人を危険にさらした）のように使います。形容詞は reckless です。" },
+      { "q": "法律で recklessness と negligence の違いは？", "a": "recklessness（無謀）は『危険を予見しながら無視して行動すること』、negligence（過失）は『注意を怠ること』です。一般に recklessness のほうが責任が重いとされます。" }
+    ],
+    "quiz": [
+      { "q": "His ___ put others in danger.（無謀さ）", "A": "recklessness", "B": "restlessness の落ち着かなさ", "C": "carelessness の不注意", "D": "helplessness の無力さ", "correct": "A" },
+      { "q": "recklessness の形容詞形はどれ？", "A": "reckless（無謀な）", "B": "restless（落ち着かない）", "C": "careless（不注意な）", "D": "helpless（無力な）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "regionalism",
+    "pron": "ˈriːdʒənəlɪzəm",
+    "kana": "リージョナリズム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "regional（地域の）＋ -ism（主義）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "政治・文化"],
+    "meaning_main": "地域主義・地方色／（言語の）方言的表現",
+    "description": "regionalism の意味・発音・例文・語源を解説。地域の利益・文化を重んじる「地域主義・地方色」と、特定地域でのみ使われる「方言的表現」という意味を紹介します。",
+    "keywords": ["regionalism 意味", "regionalism 発音", "地域主義", "方言"],
+    "meanings": [
+      { "hinshi": "【名詞】地域主義・地方色", "note": "地域の利益・文化・独自性を重んじる立場や傾向。political regionalism（政治的地域主義）。" },
+      { "hinshi": "【名詞】(言語)方言的表現・その地域特有の語法", "note": "特定の地域でだけ使われる言い方。" }
+    ],
+    "usages": [
+      { "title": "① 「地域主義」として", "desc": "地域を重んじる立場を表します。", "example_en": "Regionalism has grown in many countries.", "example_ja": "多くの国で地域主義が強まっている。" },
+      { "title": "② 「方言的表現」として", "desc": "地域特有の言い方を表します。", "example_en": "\"Y'all\" is a regionalism of the American South.", "example_ja": "「Y'all」はアメリカ南部の方言的表現だ。" }
+    ],
+    "warn": [
+      "regionalism は『地域主義・地方色』と、言語の『方言的表現』。regional（地域の）＋ -ism。",
+      "globalism（世界主義）/ nationalism（国家主義）と対比される。"
+    ],
+    "etym_note": "regional（『地域の』、region「地域」、ラテン語 regio「地方」より）＋ -ism（主義）から成り、「地域を重んじる立場」を意味します。region（地域）と同じ語根です。",
+    "etym_chain": [
+      { "node": "regio", "sub": "地方", "era": "ラテン語" },
+      { "node": "regional", "sub": "地域の", "era": "近代英語" },
+      { "node": "regionalism", "sub": "地域主義", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "political regionalism", "ja": "政治的地域主義" },
+      { "en": "the rise of regionalism", "ja": "地域主義の台頭" },
+      { "en": "cultural regionalism", "ja": "文化的地方色" },
+      { "en": "economic regionalism", "ja": "経済的地域主義" },
+      { "en": "a regionalism in speech", "ja": "話し言葉の方言的表現" },
+      { "en": "strong regionalism", "ja": "強い地域主義" }
+    ],
+    "related": [
+      { "en": "regional", "ja": "地域の" },
+      { "en": "nationalism", "ja": "国家主義" },
+      { "en": "localism", "ja": "地方主義" },
+      { "en": "globalism", "ja": "世界主義（対比）" }
+    ],
+    "faq": [
+      { "q": "regionalism とはどんな意味？", "a": "地域の利益・文化・独自性を重んじる『地域主義・地方色』という意味と、特定地域でだけ使われる『方言的表現』という意味があります。Regionalism has grown in many countries.（多くの国で地域主義が強まっている）のように使います。" },
+      { "q": "regionalism と nationalism の違いは？", "a": "regionalism は『（国の中の）地域・地方を重んじる立場』、nationalism は『国家（国民国家）を重んじる立場』です。重んじる単位が地域か国家かの違いです。" }
+    ],
+    "quiz": [
+      { "q": "___ has grown in many countries.（地域主義）", "A": "Regionalism", "B": "Tourism の観光", "C": "Realism の写実主義", "D": "Racism の人種差別", "correct": "A" },
+      { "q": "regionalism のもとになった形容詞はどれ？", "A": "regional（地域の）", "B": "rational（理性的な）", "C": "national（国の）", "D": "natural（自然の）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reggaeton",
+    "pron": "ˌreɡeɪˈtoʊn",
+    "kana": "レゲトン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "reggae（レゲエ）＋ スペイン語の指小語尾 -ton",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "音楽・文化"],
+    "meaning_main": "レゲトン（ラテン由来のリズミカルなダンス音楽）",
+    "description": "reggaeton の意味・発音・例文・語源を解説。プエルトリコ発祥で、レゲエやヒップホップを取り入れたラテンのダンス音楽「レゲトン」を表す名詞を紹介します。",
+    "keywords": ["reggaeton 意味", "reggaeton 発音", "レゲトン", "ラテン音楽"],
+    "meanings": [
+      { "hinshi": "【名詞】レゲトン", "note": "プエルトリコ発祥の、レゲエ・ヒップホップ・ラテンを融合したリズミカルなダンス音楽。独特の『デンボウ』ビートが特徴。" }
+    ],
+    "usages": [
+      { "title": "① 音楽ジャンルとして", "desc": "ラテンのダンス音楽を表します。", "example_en": "Reggaeton became popular worldwide in the 2000s.", "example_ja": "レゲトンは2000年代に世界中で人気になった。" },
+      { "title": "② パーティーの文脈で", "desc": "踊れる音楽を表します。", "example_en": "The club played reggaeton all night.", "example_ja": "そのクラブは一晩中レゲトンを流していた。" }
+    ],
+    "warn": [
+      "reggaeton は『レゲトン』（ラテン由来のダンス音楽）。reggae（レゲエ）＋ スペイン語の指小語尾 -ton から。",
+      "reggae（ジャマイカ発祥）とは別ジャンル。reggaeton はプエルトリコ発祥でスペイン語の歌詞が多い。"
+    ],
+    "etym_note": "reggae（『レゲエ』、ジャマイカの音楽）＋ スペイン語の語尾 -ton（『大きい・〜なもの』を表す指大・指小語尾）から成り、1990年代にプエルトリコで生まれた音楽ジャンルの名です。",
+    "etym_chain": [
+      { "node": "reggae", "sub": "レゲエ", "era": "20世紀ジャマイカ英語" },
+      { "node": "reggaeton", "sub": "レゲトン", "era": "1990年代スペイン語" },
+      { "node": "reggaeton", "sub": "レゲトン", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "listen to reggaeton", "ja": "レゲトンを聴く" },
+      { "en": "a reggaeton beat", "ja": "レゲトンのビート" },
+      { "en": "dance to reggaeton", "ja": "レゲトンに合わせて踊る" },
+      { "en": "a reggaeton star", "ja": "レゲトンのスター" },
+      { "en": "play reggaeton", "ja": "レゲトンを流す" },
+      { "en": "the reggaeton scene", "ja": "レゲトンの音楽シーン" }
+    ],
+    "related": [
+      { "en": "reggae", "ja": "レゲエ" },
+      { "en": "hip-hop", "ja": "ヒップホップ" },
+      { "en": "salsa", "ja": "サルサ" },
+      { "en": "Latin music", "ja": "ラテン音楽" }
+    ],
+    "faq": [
+      { "q": "reggaeton とはどんな意味？", "a": "プエルトリコ発祥で、レゲエ・ヒップホップ・ラテン音楽を融合したリズミカルなダンス音楽『レゲトン』のことです。Reggaeton became popular worldwide in the 2000s.（2000年代に世界中で人気になった）のように使います。" },
+      { "q": "reggaeton と reggae の違いは？", "a": "reggae（レゲエ）はジャマイカ発祥のゆったりした音楽、reggaeton（レゲトン）はプエルトリコ発祥で、より速くリズミカルなダンス音楽です。スペイン語の歌詞が多いのも特徴です。" }
+    ],
+    "quiz": [
+      { "q": "___ became popular worldwide in the 2000s.（レゲトン）", "A": "Reggaeton", "B": "Reggae のレゲエだけ", "C": "Marathon のマラソン", "D": "Cartoon の漫画", "correct": "A" },
+      { "q": "reggaeton はどこ発祥の音楽？", "A": "プエルトリコ（ラテン）", "B": "日本", "C": "イギリス", "D": "オーストラリア", "correct": "A" }
+    ]
+  },
+  {
+    "english": "refrigerated",
+    "pron": "rɪˈfrɪdʒəreɪtɪd",
+    "kana": "リフリジェレイテッド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "refrigerate（冷蔵する）＋ -ed",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "日常・食品"],
+    "meaning_main": "冷蔵された・冷蔵式の・要冷蔵の",
+    "description": "refrigerated の意味・発音・例文・語源を解説。食品などが「冷蔵された」、トラックや倉庫が「冷蔵式の」という、食品・物流で使う形容詞の使い方を紹介します。",
+    "keywords": ["refrigerated 意味", "refrigerated 発音", "冷蔵された", "要冷蔵"],
+    "meanings": [
+      { "hinshi": "【形容詞】冷蔵された・冷蔵式の・要冷蔵の", "note": "低温で保たれた、または冷蔵設備のある。a refrigerated truck（冷蔵トラック）。keep refrigerated（要冷蔵）。" }
+    ],
+    "usages": [
+      { "title": "① 「冷蔵された」として", "desc": "低温で保たれた状態を表します。", "example_en": "The vaccine must be kept refrigerated.", "example_ja": "そのワクチンは冷蔵保存しなければならない。" },
+      { "title": "② 「冷蔵式の」として", "desc": "冷蔵設備を表します。", "example_en": "The food was shipped in a refrigerated truck.", "example_ja": "その食品は冷蔵トラックで輸送された。" }
+    ],
+    "warn": [
+      "refrigerated は『冷蔵された・冷蔵式の・要冷蔵の』。refrigerate（冷蔵する）＋ -ed。",
+      "keep refrigerated（要冷蔵）, a refrigerated truck / container（冷蔵トラック・コンテナ）が頻出。"
+    ],
+    "etym_note": "refrigerate（『冷蔵する』、ラテン語 refrigerare「冷やす」より）＋ -ed から成り、「冷蔵された」を意味します。refrigerator（冷蔵庫）と同じ語根です。",
+    "etym_chain": [
+      { "node": "refrigerare", "sub": "冷やす", "era": "ラテン語" },
+      { "node": "refrigerate", "sub": "冷蔵する", "era": "近代英語" },
+      { "node": "refrigerated", "sub": "冷蔵された", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "keep refrigerated", "ja": "要冷蔵" },
+      { "en": "a refrigerated truck", "ja": "冷蔵トラック" },
+      { "en": "a refrigerated container", "ja": "冷蔵コンテナ（リーファー）" },
+      { "en": "refrigerated storage", "ja": "冷蔵保管" },
+      { "en": "refrigerated goods", "ja": "冷蔵品" },
+      { "en": "store refrigerated", "ja": "冷蔵で保存する" }
+    ],
+    "related": [
+      { "en": "refrigerate", "ja": "冷蔵する" },
+      { "en": "refrigerator", "ja": "冷蔵庫" },
+      { "en": "chilled", "ja": "冷やされた" },
+      { "en": "frozen", "ja": "冷凍された" }
+    ],
+    "faq": [
+      { "q": "refrigerated とはどんな意味？", "a": "食品などが『冷蔵された・要冷蔵の』、またトラックや倉庫が『冷蔵式の』という意味です。The vaccine must be kept refrigerated.（冷蔵保存しなければならない）のように使います。" },
+      { "q": "refrigerated と frozen の違いは？", "a": "refrigerated は『冷蔵された（凍らせず低温に保つ）』、frozen は『冷凍された（凍らせた）』です。冷蔵食品 vs 冷凍食品のような違いです。" }
+    ],
+    "quiz": [
+      { "q": "The vaccine must be kept ___.（冷蔵された）", "A": "refrigerated", "B": "decorated の飾られた", "C": "celebrated の祝われた", "D": "generated の生成された", "correct": "A" },
+      { "q": "refrigerated のもとになった動詞はどれ？", "A": "refrigerate（冷蔵する）", "B": "decorate（飾る）", "C": "celebrate（祝う）", "D": "generate（生み出す）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rocketry",
+    "pron": "ˈrɒkɪtri",
+    "kana": "ロケットリー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rocket（ロケット）＋ -ry（学・技術）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "科学・技術"],
+    "meaning_main": "ロケット工学・ロケットの製造技術",
+    "description": "rocketry の意味・発音・例文・語源を解説。ロケットの設計・製造・打ち上げを扱う技術・学問「ロケット工学」を表す、科学・技術で使う名詞を紹介します。",
+    "keywords": ["rocketry 意味", "rocketry 発音", "ロケット工学", "rocket 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】ロケット工学・ロケット技術", "note": "ロケットの設計・製造・打ち上げを扱う技術・学問。model rocketry（模型ロケット作り）。" }
+    ],
+    "usages": [
+      { "title": "① 学問・技術としての「ロケット工学」", "desc": "ロケットの技術分野を表します。", "example_en": "He has been fascinated by rocketry since childhood.", "example_ja": "彼は子どものころからロケット工学に魅了されてきた。" },
+      { "title": "② 趣味の文脈で", "desc": "模型ロケットを表します。", "example_en": "Model rocketry is a popular hobby.", "example_ja": "模型ロケット作りは人気の趣味だ。" }
+    ],
+    "warn": [
+      "rocketry は『ロケット工学・ロケット技術』。rocket（ロケット）＋ -ry（学問・技術を表す語尾）。",
+      "chemistry（化学）, dentistry（歯科）と同じ -ry。"
+    ],
+    "etym_note": "rocket（『ロケット』、イタリア語 rocchetta「糸巻き・小さな筒」より）＋ -ry（『学問・技術』を表す語尾）から成り、「ロケットの技術」を意味します。",
+    "etym_chain": [
+      { "node": "rocchetta", "sub": "小さな筒", "era": "イタリア語" },
+      { "node": "rocket", "sub": "ロケット", "era": "近代英語" },
+      { "node": "rocketry", "sub": "ロケット工学", "era": "20世紀英語" }
+    ],
+    "phrases": [
+      { "en": "model rocketry", "ja": "模型ロケット作り" },
+      { "en": "the science of rocketry", "ja": "ロケット工学" },
+      { "en": "amateur rocketry", "ja": "アマチュアのロケット作り" },
+      { "en": "advances in rocketry", "ja": "ロケット技術の進歩" },
+      { "en": "the father of rocketry", "ja": "ロケット工学の父" },
+      { "en": "modern rocketry", "ja": "現代のロケット技術" }
+    ],
+    "related": [
+      { "en": "rocket", "ja": "ロケット" },
+      { "en": "aerospace", "ja": "航空宇宙" },
+      { "en": "propulsion", "ja": "推進" },
+      { "en": "spaceflight", "ja": "宇宙飛行" }
+    ],
+    "faq": [
+      { "q": "rocketry とはどんな意味？", "a": "ロケットの設計・製造・打ち上げを扱う技術・学問『ロケット工学・ロケット技術』のことです。He has been fascinated by rocketry since childhood.（子どもの頃からロケット工学に魅了されてきた）のように使います。" },
+      { "q": "model rocketry とは？", "a": "『模型ロケット作り』のことです。小さな固体燃料エンジンで飛ぶ模型ロケットを設計・製作・打ち上げる趣味で、教育目的でも親しまれています。" }
+    ],
+    "quiz": [
+      { "q": "He has been fascinated by ___ since childhood.（ロケット工学）", "A": "rocketry", "B": "robbery の強盗", "C": "rookery の繁殖地", "D": "rocket の単なるロケット", "correct": "A" },
+      { "q": "rocketry と同じ -ry（学問・技術）を持つ語はどれ？", "A": "chemistry（化学）", "B": "country（国）", "C": "every（すべての）", "D": "angry（怒った）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "resourcefulness",
+    "pron": "rɪˈsɔːrsflnəs",
+    "kana": "リソースフルネス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "resourceful（機転のきく）＋ -ness",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "性格・能力"],
+    "meaning_main": "機転のよさ・臨機応変さ・工夫してやり抜く力",
+    "description": "resourcefulness の意味・発音・例文・語源を解説。限られた手段でも工夫して問題を解決する「機転のよさ・臨機応変さ・やりくり上手」を表す名詞の使い方を紹介します。",
+    "keywords": ["resourcefulness 意味", "resourcefulness 発音", "機転", "臨機応変"],
+    "meanings": [
+      { "hinshi": "【名詞】機転のよさ・臨機応変さ・工夫してやり抜く力", "note": "限られた資源・状況でも工夫して問題を解決する力。show resourcefulness（機転を見せる）。形容詞は resourceful。" }
+    ],
+    "usages": [
+      { "title": "① 「機転のよさ」として", "desc": "工夫して切り抜ける力を表します。", "example_en": "She showed great resourcefulness in the crisis.", "example_ja": "彼女は危機の中で大いに機転を見せた。" },
+      { "title": "② 能力の評価として", "desc": "やりくり上手を表します。", "example_en": "Survival requires resourcefulness.", "example_ja": "生き抜くには臨機応変さが必要だ。" }
+    ],
+    "warn": [
+      "resourcefulness は『機転のよさ・臨機応変さ・やり抜く力』。形容詞 resourceful（機転のきく）＋ -ness。",
+      "resource（資源）＋ -ful＝『（手持ちの）資源を生かせる』というイメージ。前向きな評価語。"
+    ],
+    "etym_note": "resourceful（『機転のきく』、resource「資源・手段」＋ -ful「満ちた」）＋ -ness から成り、「手段を生かす力・機転」を意味します。source（源）と同じ語根です。",
+    "etym_chain": [
+      { "node": "resource", "sub": "資源・手段", "era": "近代英語" },
+      { "node": "resourceful", "sub": "機転のきく", "era": "近代英語" },
+      { "node": "resourcefulness", "sub": "機転のよさ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "show resourcefulness", "ja": "機転を見せる" },
+      { "en": "great resourcefulness", "ja": "大いなる機転" },
+      { "en": "ingenuity and resourcefulness", "ja": "創意と機転" },
+      { "en": "rely on resourcefulness", "ja": "臨機応変さに頼る" },
+      { "en": "admire her resourcefulness", "ja": "彼女の機転に感心する" },
+      { "en": "a test of resourcefulness", "ja": "機転が試される場面" }
+    ],
+    "related": [
+      { "en": "resourceful", "ja": "機転のきく" },
+      { "en": "ingenuity", "ja": "創意工夫" },
+      { "en": "adaptability", "ja": "適応力" },
+      { "en": "initiative", "ja": "自発性・率先力" }
+    ],
+    "faq": [
+      { "q": "resourcefulness とはどんな意味？", "a": "限られた手段や状況でも工夫して問題を解決する『機転のよさ・臨機応変さ・やり抜く力』のことです。She showed great resourcefulness in the crisis.（危機の中で大いに機転を見せた）のように使います。形容詞は resourceful です。" },
+      { "q": "resourcefulness と ingenuity の違いは？", "a": "ingenuity は『（新しいものを生み出す）創意工夫・発明の才』、resourcefulness は『（手持ちの資源で）うまく切り抜ける機転・やりくり力』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "She showed great ___ in the crisis.（機転）", "A": "resourcefulness", "B": "carelessness の不注意", "C": "helplessness の無力さ", "D": "restlessness の落ち着かなさ", "correct": "A" },
+      { "q": "resourcefulness のもとになった形容詞はどれ？", "A": "resourceful（機転のきく）", "B": "careless（不注意な）", "C": "helpless（無力な）", "D": "restless（落ち着かない）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "redefinition",
+    "pron": "ˌriːdefɪˈnɪʃən",
+    "kana": "リディフィニション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "redefine（定義し直す）＋ -tion",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "学術・ビジネス"],
+    "meaning_main": "再定義・とらえ直し・定義のし直し",
+    "description": "redefinition の意味・発音・例文・語源を解説。言葉・役割・概念を新たに定め直す「再定義・とらえ直し」を表す、学術やビジネスで使う名詞の使い方を紹介します。",
+    "keywords": ["redefinition 意味", "redefinition 発音", "再定義", "redefine 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再定義・とらえ直し・定義のし直し", "note": "意味・役割・基準を改めて定め直すこと。a redefinition of success（成功のとらえ直し）。動詞は redefine。" }
+    ],
+    "usages": [
+      { "title": "① 「概念の再定義」として", "desc": "意味を定め直すことを表します。", "example_en": "The book calls for a redefinition of success.", "example_ja": "その本は成功の再定義を求めている。" },
+      { "title": "② 「役割のとらえ直し」として", "desc": "役割の見直しを表します。", "example_en": "A redefinition of the team's role was needed.", "example_ja": "チームの役割のとらえ直しが必要だった。" }
+    ],
+    "warn": [
+      "redefinition は『再定義・とらえ直し』。動詞 redefine（定義し直す）＋ -tion。",
+      "概念・役割・基準などを新たに定め直す文脈で使う。"
+    ],
+    "etym_note": "redefine（re-「再び」＋ define「定義する」、ラテン語 definire「境界を定める」より）＋ -tion から成り、「再び定義すること」を意味します。final（最後の）, finite（有限の）と同じ語根です。",
+    "etym_chain": [
+      { "node": "definire", "sub": "境界を定める", "era": "ラテン語" },
+      { "node": "redefine", "sub": "定義し直す", "era": "近代英語" },
+      { "node": "redefinition", "sub": "再定義", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a redefinition of success", "ja": "成功の再定義" },
+      { "en": "call for a redefinition", "ja": "再定義を求める" },
+      { "en": "a radical redefinition", "ja": "抜本的なとらえ直し" },
+      { "en": "the redefinition of the term", "ja": "その用語の再定義" },
+      { "en": "a redefinition of roles", "ja": "役割のとらえ直し" },
+      { "en": "undergo a redefinition", "ja": "再定義される" }
+    ],
+    "related": [
+      { "en": "redefine", "ja": "定義し直す" },
+      { "en": "definition", "ja": "定義" },
+      { "en": "reconceptualization", "ja": "概念のとらえ直し" },
+      { "en": "reinterpretation", "ja": "再解釈" }
+    ],
+    "faq": [
+      { "q": "redefinition とはどんな意味？", "a": "言葉・役割・概念を新たに定め直す『再定義・とらえ直し』のことです。The book calls for a redefinition of success.（成功の再定義を求めている）のように使います。動詞は redefine です。" },
+      { "q": "redefinition と reinterpretation の違いは？", "a": "redefinition は『（意味・定義を）新たに定め直す』、reinterpretation は『（同じものを）新しい見方で解釈し直す』に重点があります。定義そのものを変えるか、解釈を変えるかの違いです。" }
+    ],
+    "quiz": [
+      { "q": "The book calls for a ___ of success.（再定義）", "A": "redefinition", "B": "recognition の認識", "C": "repetition の繰り返し", "D": "competition の競争", "correct": "A" },
+      { "q": "redefinition の動詞形はどれ？", "A": "redefine（定義し直す）", "B": "recognize（認識する）", "C": "repeat（繰り返す）", "D": "compete（競争する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reinsert",
+    "pron": "ˌriːɪnˈsɜːrt",
+    "kana": "リインサート",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ insert（差し込む・挿入する）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "日常・技術"],
+    "meaning_main": "再び差し込む・挿入し直す",
+    "description": "reinsert の意味・発音・例文・語源を解説。一度抜いたものを「再び差し込む・挿入し直す」という、機器の操作や文章の編集などで使う語の使い方を紹介します。",
+    "keywords": ["reinsert 意味", "reinsert 発音", "差し込み直す", "insert 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再び差し込む・挿入し直す", "note": "抜いたものをもう一度入れる。reinsert the card（カードを差し込み直す）。reinsert a paragraph（段落を入れ直す）。名詞は reinsertion。" }
+    ],
+    "usages": [
+      { "title": "① 「差し込み直す」として", "desc": "抜いたものを再び入れることを表します。", "example_en": "Reinsert the USB drive and try again.", "example_ja": "USBメモリを差し込み直してもう一度試して。" },
+      { "title": "② 文章の「入れ直す」として", "desc": "削除した部分を戻すことを表します。", "example_en": "The editor reinserted the deleted sentence.", "example_ja": "編集者は削除した文を入れ直した。" }
+    ],
+    "warn": [
+      "reinsert は『再び差し込む・挿入し直す』。re-（再び）＋ insert（差し込む）。名詞は reinsertion。",
+      "機器（カード・コードの差し直し）、文章（段落・文の入れ直し）、医療（チューブの再挿入）などで使う。"
+    ],
+    "etym_note": "re-（再び）＋ insert（『差し込む・挿入する』、ラテン語 inserere「中に植え込む」、in-「中へ」＋ serere「つなぐ・植える」より）から成り、「再び中に差し込むこと」を意味します。",
+    "etym_chain": [
+      { "node": "inserere", "sub": "中に植え込む", "era": "ラテン語" },
+      { "node": "insert", "sub": "差し込む・挿入する", "era": "近代英語" },
+      { "node": "reinsert", "sub": "再び差し込む", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reinsert the card", "ja": "カードを差し込み直す" },
+      { "en": "reinsert the USB drive", "ja": "USBメモリを差し込み直す" },
+      { "en": "reinsert the battery", "ja": "電池を入れ直す" },
+      { "en": "reinsert a paragraph", "ja": "段落を入れ直す" },
+      { "en": "reinsert the tube", "ja": "チューブを再挿入する" },
+      { "en": "remove and reinsert", "ja": "抜いて差し込み直す" }
+    ],
+    "related": [
+      { "en": "insert", "ja": "差し込む・挿入する" },
+      { "en": "reinsertion", "ja": "再挿入" },
+      { "en": "reattach", "ja": "再び取り付ける" },
+      { "en": "remove", "ja": "取り除く（反対）" }
+    ],
+    "faq": [
+      { "q": "reinsert とはどんな意味？", "a": "一度抜いたものを『再び差し込む・挿入し直す』という意味です。Reinsert the USB drive and try again.（USBメモリを差し込み直してもう一度試して）のように使います。名詞は reinsertion です。" },
+      { "q": "reinsert はどんな場面で使う？", "a": "機器でカードやコードを抜いて差し込み直すとき、文章で削除した部分を入れ直すとき、医療でチューブを再び挿入するときなど、抜いたものをもう一度入れる場面で使います。" }
+    ],
+    "quiz": [
+      { "q": "___ the USB drive and try again.（差し込み直す）", "A": "Reinsert", "B": "Insert の最初に差し込む", "C": "Invent の発明する", "D": "Invest の投資する", "correct": "A" },
+      { "q": "reinsert のもとになった動詞はどれ？", "A": "insert（差し込む・挿入する）", "B": "invent（発明する）", "C": "invest（投資する）", "D": "invite（招待する）", "correct": "A" }
+    ]
+  }
+]
