@@ -1,0 +1,527 @@
+[
+  {
+    "english": "respirator",
+    "pron": "ˈrespəreɪtər",
+    "kana": "レスピレイター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "respire（呼吸する）＋ -ator（〜する装置）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "医学・防護"],
+    "meaning_main": "人工呼吸器／（防毒・防塵の）防護マスク",
+    "description": "respirator の意味・発音・例文・語源を解説。患者の呼吸を助ける「人工呼吸器」と、有害な空気から身を守る「防護マスク（レスピレーター）」という二つの意味を紹介します。",
+    "keywords": ["respirator 意味", "respirator 発音", "人工呼吸器", "防護マスク"],
+    "meanings": [
+      { "hinshi": "【名詞】人工呼吸器", "note": "自力で呼吸できない患者の呼吸を助ける医療機器。be put on a respirator（人工呼吸器につながれる）。ventilator とも言う。" },
+      { "hinshi": "【名詞】（防毒・防塵の）防護マスク・レスピレーター", "note": "有害なガス・粉じんから呼吸器を守るマスク。an N95 respirator（N95マスク）。" }
+    ],
+    "usages": [
+      { "title": "① 「人工呼吸器」として", "desc": "呼吸を助ける医療機器を表します。", "example_en": "The patient was placed on a respirator.", "example_ja": "その患者は人工呼吸器につながれた。" },
+      { "title": "② 「防護マスク」として", "desc": "有害な空気から守るマスクを表します。", "example_en": "Workers wore respirators in the dusty mine.", "example_ja": "作業員たちはほこりっぽい鉱山で防護マスクを着けた。" }
+    ],
+    "warn": [
+      "respirator は『人工呼吸器』と『（防毒・防塵の）防護マスク』。respire（呼吸する）＋ -ator。",
+      "医療の人工呼吸器は ventilator とも言う。マスクの respirator は N95 など（普通の surgical mask より防護性が高い）。"
+    ],
+    "etym_note": "respire（『呼吸する』、ラテン語 respirare「re-（再び）＋ spirare（息をする）」より）＋ -ator（『〜する装置・もの』）から成り、「呼吸を助ける装置」を意味します。spirit（息・精神）と同じ語根です。",
+    "etym_chain": [
+      { "node": "respirare", "sub": "呼吸する", "era": "ラテン語" },
+      { "node": "respire", "sub": "呼吸する", "era": "近代英語" },
+      { "node": "respirator", "sub": "人工呼吸器・防護マスク", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be put on a respirator", "ja": "人工呼吸器につながれる" },
+      { "en": "a mechanical respirator", "ja": "機械式の人工呼吸器" },
+      { "en": "wear a respirator", "ja": "防護マスクを着ける" },
+      { "en": "an N95 respirator", "ja": "N95マスク" },
+      { "en": "a dust respirator", "ja": "防塵マスク" },
+      { "en": "remove the respirator", "ja": "人工呼吸器を外す" }
+    ],
+    "related": [
+      { "en": "respire", "ja": "呼吸する" },
+      { "en": "ventilator", "ja": "人工呼吸器" },
+      { "en": "mask", "ja": "マスク" },
+      { "en": "respiration", "ja": "呼吸" }
+    ],
+    "faq": [
+      { "q": "respirator とはどんな意味？", "a": "自力で呼吸できない患者を助ける『人工呼吸器』と、有害なガスや粉じんから守る『防護マスク（レスピレーター）』という二つの意味があります。The patient was placed on a respirator.（人工呼吸器につながれた）のように使います。" },
+      { "q": "respirator と surgical mask の違いは？", "a": "防護マスクの respirator（N95など）は『顔に密着して有害な微粒子を高い割合で防ぐ』もの、surgical mask（不織布マスク）は『主に飛沫を防ぐ』ものです。respirator のほうが防護性が高いです。" }
+    ],
+    "quiz": [
+      { "q": "The patient was placed on a ___.（人工呼吸器）", "A": "respirator", "B": "radiator のラジエーター", "C": "refrigerator の冷蔵庫", "D": "generator の発電機", "correct": "A" },
+      { "q": "respirator のもとになった動詞 respire の意味は？", "A": "呼吸する", "B": "冷やす", "C": "発電する", "D": "回転する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retainer",
+    "pron": "rɪˈteɪnər",
+    "kana": "リテイナー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "retain（保持する・雇っておく）＋ -er",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "ビジネス・日常"],
+    "meaning_main": "顧問料・予約金／（歯列矯正の）保定装置（リテーナー）",
+    "description": "retainer の意味・発音・例文・語源を解説。弁護士などに払う「顧問料・予約金」と、歯並びを保つ「保定装置（リテーナー）」という、ビジネス・日常の意味を紹介します。",
+    "keywords": ["retainer 意味", "retainer 発音", "顧問料", "リテーナー"],
+    "meanings": [
+      { "hinshi": "【名詞】顧問料・予約金（専門家を確保しておく契約料）", "note": "弁護士・コンサルなどを継続的に確保するための前払い料金。on a retainer（顧問契約で）。" },
+      { "hinshi": "【名詞】（歯列矯正の）保定装置・リテーナー", "note": "矯正後に歯並びを保つために着ける装置。wear a retainer（リテーナーを着ける）。" }
+    ],
+    "usages": [
+      { "title": "① 「顧問料」として", "desc": "専門家を確保する料金を表します。", "example_en": "The firm keeps a lawyer on a retainer.", "example_ja": "その会社は顧問契約で弁護士を確保している。" },
+      { "title": "② 「リテーナー」として", "desc": "歯並びを保つ装置を表します。", "example_en": "She has to wear a retainer at night.", "example_ja": "彼女は夜にリテーナーを着けなければならない。" }
+    ],
+    "warn": [
+      "retainer は『顧問料・予約金』と『（歯列矯正の）保定装置』。retain（保持する・雇っておく）＋ -er。",
+      "on a retainer（顧問契約で）が頻出。歯科のリテーナーは矯正後に歯並びを『保つ（retain）』装置。"
+    ],
+    "etym_note": "retain（『保持する・（専門家を）雇っておく』、ラテン語 retinere「保つ」より）＋ -er（『〜するもの』）から成り、「保持するもの・確保する料金」を意味します。retention（保持）と同じ語根です。",
+    "etym_chain": [
+      { "node": "retinere", "sub": "保つ", "era": "ラテン語" },
+      { "node": "retain", "sub": "保持する・雇っておく", "era": "中英語" },
+      { "node": "retainer", "sub": "顧問料・保定装置", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "on a retainer", "ja": "顧問契約で" },
+      { "en": "pay a retainer", "ja": "顧問料を払う" },
+      { "en": "a monthly retainer", "ja": "毎月の顧問料" },
+      { "en": "keep a lawyer on a retainer", "ja": "弁護士を顧問に確保する" },
+      { "en": "wear a retainer", "ja": "リテーナーを着ける" },
+      { "en": "a dental retainer", "ja": "歯科のリテーナー" }
+    ],
+    "related": [
+      { "en": "retain", "ja": "保持する・雇っておく" },
+      { "en": "retention", "ja": "保持・維持" },
+      { "en": "fee", "ja": "料金・謝礼" },
+      { "en": "deposit", "ja": "預け金・内金" }
+    ],
+    "faq": [
+      { "q": "retainer とはどんな意味？", "a": "弁護士などの専門家を継続的に確保しておくための『顧問料・予約金』と、歯列矯正後に歯並びを保つ『保定装置（リテーナー）』という意味があります。on a retainer（顧問契約で）のように使います。" },
+      { "q": "on a retainer とは？", "a": "『顧問契約で（専門家を確保して）』という意味です。必要なときに優先的に対応してもらえるよう、弁護士やコンサルタントに継続的な料金を払って契約しておくことを指します。" }
+    ],
+    "quiz": [
+      { "q": "The firm keeps a lawyer on a ___.（顧問契約）", "A": "retainer", "B": "container の容器", "C": "trainer の訓練者", "D": "entertainer の芸人", "correct": "A" },
+      { "q": "歯科の retainer の役割はどれ？", "A": "矯正後に歯並びを保つ", "B": "虫歯を削る", "C": "歯を白くする", "D": "歯を抜く", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reskilling",
+    "pron": "ˌriːˈskɪlɪŋ",
+    "kana": "リスキリング",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "reskill（新たな技能を身につけさせる）＋ -ing",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "労働・教育"],
+    "meaning_main": "学び直し・新たな技能の習得（別の職に就くための再教育）",
+    "description": "reskilling の意味・発音・例文・語源を解説。技術変化などに対応し、別の仕事に就くため新しい技能を身につける「学び直し・リスキリング」を表す、労働の語を紹介します。",
+    "keywords": ["reskilling 意味", "reskilling 発音", "リスキリング", "学び直し"],
+    "meanings": [
+      { "hinshi": "【名詞】学び直し・新たな技能の習得・リスキリング", "note": "今とは別の仕事に就くため、新しい技能を身につけること。reskilling programs（リスキリング制度）。動詞は reskill。" }
+    ],
+    "usages": [
+      { "title": "① 「リスキリング」として", "desc": "新たな技能の習得を表します。", "example_en": "Automation has increased the need for reskilling.", "example_ja": "自動化はリスキリングの必要性を高めた。" },
+      { "title": "② 労働政策の文脈で", "desc": "再教育の取り組みを表します。", "example_en": "The company invests in reskilling its workforce.", "example_ja": "その会社は従業員の学び直しに投資している。" }
+    ],
+    "warn": [
+      "reskilling は『学び直し・新たな技能の習得（リスキリング）』。reskill（新たな技能を身につけさせる）＋ -ing。re-（再び）＋ skill（技能）。",
+      "upskilling（今の技能をさらに高める）と区別。reskilling は『別の職のために新しい技能を身につける』。"
+    ],
+    "etym_note": "reskill（re-「再び」＋ skill「技能」、古ノルド語 skil「区別・知識」より）＋ -ing から成り、「再び（新たな）技能を身につけること」を意味します。21世紀に労働の文脈で広まった語です。",
+    "etym_chain": [
+      { "node": "skil", "sub": "区別・知識", "era": "古ノルド語" },
+      { "node": "skill", "sub": "技能", "era": "中英語" },
+      { "node": "reskilling", "sub": "リスキリング", "era": "21世紀英語" }
+    ],
+    "phrases": [
+      { "en": "reskilling programs", "ja": "リスキリング制度" },
+      { "en": "the need for reskilling", "ja": "リスキリングの必要性" },
+      { "en": "invest in reskilling", "ja": "学び直しに投資する" },
+      { "en": "reskilling the workforce", "ja": "従業員の学び直し" },
+      { "en": "upskilling and reskilling", "ja": "技能向上とリスキリング" },
+      { "en": "a reskilling initiative", "ja": "リスキリングの取り組み" }
+    ],
+    "related": [
+      { "en": "reskill", "ja": "新たな技能を身につけさせる" },
+      { "en": "upskilling", "ja": "技能向上" },
+      { "en": "retraining", "ja": "再訓練" },
+      { "en": "skill", "ja": "技能" }
+    ],
+    "faq": [
+      { "q": "reskilling とはどんな意味？", "a": "技術変化などに対応し、今とは別の仕事に就くために新しい技能を身につける『学び直し・リスキリング』のことです。Automation has increased the need for reskilling.（自動化がリスキリングの必要性を高めた）のように使います。" },
+      { "q": "reskilling と upskilling の違いは？", "a": "reskilling は『（別の職のために）新しい技能を身につける学び直し』、upskilling は『（今の職で）すでにある技能をさらに高めること』です。" }
+    ],
+    "quiz": [
+      { "q": "Automation has increased the need for ___.（リスキリング）", "A": "reskilling", "B": "rebuilding の再建", "C": "recycling の再利用", "D": "rewinding の巻き戻し", "correct": "A" },
+      { "q": "reskilling と区別される語はどれ？", "A": "upskilling（技能向上）", "B": "rebuilding（再建）", "C": "recycling（再利用）", "D": "rewinding（巻き戻し）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rethinking",
+    "pron": "ˌriːˈθɪŋkɪŋ",
+    "kana": "リシンキング",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rethink（考え直す）＋ -ing",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "再考・考え直し・見直し",
+    "description": "rethinking の意味・発音・例文・語源を解説。方針・考え方などを改めて考え直す「再考・見直し」を表す名詞の使い方と、動詞 rethink を分かりやすく紹介します。",
+    "keywords": ["rethinking 意味", "rethinking 発音", "再考", "考え直し"],
+    "meanings": [
+      { "hinshi": "【名詞】再考・考え直し・見直し", "note": "方針・前提・やり方を改めて考え直すこと。a rethinking of strategy（戦略の見直し）。動詞は rethink（過去形 rethought）。" }
+    ],
+    "usages": [
+      { "title": "① 「戦略の見直し」として", "desc": "方針を考え直すことを表します。", "example_en": "The failure prompted a rethinking of the whole approach.", "example_ja": "その失敗は手法全体の見直しを促した。" },
+      { "title": "② 「前提の再考」として", "desc": "考え方の問い直しを表します。", "example_en": "It calls for a rethinking of old assumptions.", "example_ja": "それは古い前提の再考を求めている。" }
+    ],
+    "warn": [
+      "rethinking は『再考・考え直し・見直し』。rethink（考え直す、過去形・過去分詞は rethought）＋ -ing。",
+      "a rethinking of ～（〜の見直し）の形が多い。"
+    ],
+    "etym_note": "rethink（re-「再び」＋ think「考える」、古英語 þencan より）＋ -ing から成り、「再び考えること」を意味します。thought（考え）と同じ語根です。",
+    "etym_chain": [
+      { "node": "þencan", "sub": "考える", "era": "古英語" },
+      { "node": "rethink", "sub": "考え直す", "era": "近代英語" },
+      { "node": "rethinking", "sub": "再考・見直し", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rethinking of strategy", "ja": "戦略の見直し" },
+      { "en": "a rethinking of priorities", "ja": "優先順位の見直し" },
+      { "en": "prompt a rethinking", "ja": "再考を促す" },
+      { "en": "a fundamental rethinking", "ja": "根本的な見直し" },
+      { "en": "a rethinking of assumptions", "ja": "前提の再考" },
+      { "en": "call for a rethinking", "ja": "見直しを求める" }
+    ],
+    "related": [
+      { "en": "rethink", "ja": "考え直す" },
+      { "en": "reconsideration", "ja": "再考" },
+      { "en": "reassessment", "ja": "再評価・見直し" },
+      { "en": "review", "ja": "見直し" }
+    ],
+    "faq": [
+      { "q": "rethinking とはどんな意味？", "a": "方針・前提・やり方などを改めて考え直す『再考・考え直し・見直し』のことです。The failure prompted a rethinking of the whole approach.（手法全体の見直しを促した）のように使います。動詞は rethink です。" },
+      { "q": "rethink の過去形は？", "a": "rethought（リソート）です。think → thought と同じ変化をします。rethink → rethought → rethought です。" }
+    ],
+    "quiz": [
+      { "q": "The failure prompted a ___ of the whole approach.（見直し）", "A": "rethinking", "B": "ranking の順位づけ", "C": "rebuilding の再建", "D": "removing の取り除くこと", "correct": "A" },
+      { "q": "rethink の過去形はどれ？", "A": "rethought", "B": "rethinked", "C": "rethank", "D": "rethunk", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reproachful",
+    "pron": "rɪˈproʊtʃfl",
+    "kana": "リプローチフル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "reproach（非難・とがめ）＋ -ful",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "感情"],
+    "meaning_main": "非難するような・とがめるような・恨めしげな",
+    "description": "reproachful の意味・発音・例文・語源を解説。相手をとがめる「非難するような・とがめるような・恨めしげな」表情やまなざしを表す形容詞の使い方を紹介します。",
+    "keywords": ["reproachful 意味", "reproachful 発音", "とがめるような", "reproach 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】非難するような・とがめるような・恨めしげな", "note": "相手を責めるような態度・表情の。a reproachful look（とがめるようなまなざし）。" }
+    ],
+    "usages": [
+      { "title": "① 「とがめるまなざし」として", "desc": "責めるような表情を表します。", "example_en": "She gave him a reproachful look.", "example_ja": "彼女は彼にとがめるようなまなざしを向けた。" },
+      { "title": "② 「恨めしげな口調」として", "desc": "非難のにじむ態度を表します。", "example_en": "He spoke in a reproachful tone.", "example_ja": "彼は非難するような口調で話した。" }
+    ],
+    "warn": [
+      "reproachful は『非難するような・とがめるような・恨めしげな』。名詞 reproach（非難・とがめ）＋ -ful。副詞 reproachfully。",
+      "言葉より『表情・まなざし・口調』に使うことが多い。a reproachful look / glance が頻出。"
+    ],
+    "etym_note": "reproach（『非難・とがめ』、古フランス語 reprochier「近づけてとがめる」より）＋ -ful（『〜に満ちた』）から成り、「非難に満ちた」を意味します。",
+    "etym_chain": [
+      { "node": "reprochier", "sub": "とがめる", "era": "古フランス語" },
+      { "node": "reproach", "sub": "非難・とがめる", "era": "中英語" },
+      { "node": "reproachful", "sub": "非難するような", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a reproachful look", "ja": "とがめるようなまなざし" },
+      { "en": "a reproachful glance", "ja": "非難するような一べつ" },
+      { "en": "a reproachful tone", "ja": "とがめるような口調" },
+      { "en": "reproachful eyes", "ja": "恨めしげな目" },
+      { "en": "a reproachful silence", "ja": "非難のこもった沈黙" },
+      { "en": "look reproachful", "ja": "とがめるような顔をする" }
+    ],
+    "related": [
+      { "en": "reproach", "ja": "非難する・とがめる" },
+      { "en": "accusatory", "ja": "非難するような・告発的な" },
+      { "en": "disapproving", "ja": "とがめるような・難色を示す" },
+      { "en": "scolding", "ja": "叱るような" }
+    ],
+    "faq": [
+      { "q": "reproachful とはどんな意味？", "a": "相手をとがめる『非難するような・とがめるような・恨めしげな』態度や表情を表す形容詞です。She gave him a reproachful look.（とがめるようなまなざしを向けた）のように、まなざしや口調によく使います。" },
+      { "q": "reproachful と accusatory の違いは？", "a": "どちらも『非難するような』ですが、reproachful は『（がっかりして）とがめる・恨めしげな』、accusatory は『（罪を着せるように）責め立てる・告発的な』ニュアンスがあります。" }
+    ],
+    "quiz": [
+      { "q": "She gave him a ___ look.（とがめるような）", "A": "reproachful", "B": "respectful の礼儀正しい", "C": "resourceful の機転のきく", "D": "successful の成功した", "correct": "A" },
+      { "q": "reproachful の名詞形はどれ？", "A": "reproach（非難・とがめ）", "B": "respect（尊敬）", "C": "resource（資源）", "D": "success（成功）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ripening",
+    "pron": "ˈraɪpənɪŋ",
+    "kana": "ライプニング",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ripen（熟す）＋ -ing",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "自然・食品"],
+    "meaning_main": "（果実などが）熟すこと・成熟・熟成",
+    "description": "ripening の意味・発音・例文・語源を解説。果実・穀物などが「熟すこと・成熟」、チーズなどの「熟成」を表す名詞・動名詞の使い方を分かりやすく紹介します。",
+    "keywords": ["ripening 意味", "ripening 発音", "熟す", "ripe 意味"],
+    "meanings": [
+      { "hinshi": "【名詞・動名詞】（果実などが）熟すこと・成熟・熟成", "note": "果実・穀物が食べごろになること、チーズなどが熟成すること。the ripening of fruit（果実が熟すこと）。動詞は ripen、形容詞は ripe。" }
+    ],
+    "usages": [
+      { "title": "① 「果実が熟すこと」として", "desc": "食べごろになる過程を表します。", "example_en": "Sunlight speeds up the ripening of tomatoes.", "example_ja": "日光はトマトが熟すのを早める。" },
+      { "title": "② 「熟成」として", "desc": "チーズなどの熟成を表します。", "example_en": "The cheese needs months of ripening.", "example_ja": "そのチーズは数か月の熟成が必要だ。" }
+    ],
+    "warn": [
+      "ripening は『（果実などが）熟すこと・成熟・熟成』。ripen（熟す・熟させる）＋ -ing。形容詞 ripe（熟した）。",
+      "果実の『追熟』や、チーズ・ワインの『熟成』にも使う。"
+    ],
+    "etym_note": "ripen（『熟す・熟させる』、ripe「熟した」、古英語 rīpe より）＋ -ing から成り、「熟していくこと」を意味します。",
+    "etym_chain": [
+      { "node": "rīpe", "sub": "熟した", "era": "古英語" },
+      { "node": "ripen", "sub": "熟す・熟させる", "era": "中英語" },
+      { "node": "ripening", "sub": "熟すこと・熟成", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the ripening of fruit", "ja": "果実が熟すこと" },
+      { "en": "speed up ripening", "ja": "熟すのを早める" },
+      { "en": "the ripening process", "ja": "熟成の過程" },
+      { "en": "cheese ripening", "ja": "チーズの熟成" },
+      { "en": "the ripening of grain", "ja": "穀物の成熟" },
+      { "en": "a ripening agent", "ja": "追熟促進剤" }
+    ],
+    "related": [
+      { "en": "ripen", "ja": "熟す・熟させる" },
+      { "en": "ripe", "ja": "熟した・食べごろの" },
+      { "en": "maturation", "ja": "成熟・熟成" },
+      { "en": "aging", "ja": "（食品の）熟成・加齢" }
+    ],
+    "faq": [
+      { "q": "ripening とはどんな意味？", "a": "果実・穀物などが『熟すこと・成熟』、またチーズなどの『熟成』のことです。Sunlight speeds up the ripening of tomatoes.（日光がトマトの熟すのを早める）のように使います。動詞は ripen、形容詞は ripe です。" },
+      { "q": "果物の『追熟』は英語で？", "a": "ripening（特に収穫後に熟すこと）と言います。バナナやアボカドなど、収穫後に置いておくと熟す果物の追熟は post-harvest ripening のように表現します。" }
+    ],
+    "quiz": [
+      { "q": "Sunlight speeds up the ___ of tomatoes.（熟すこと）", "A": "ripening", "B": "opening の開くこと", "C": "ripping の引き裂くこと", "D": "wiping の拭くこと", "correct": "A" },
+      { "q": "ripening のもとになった形容詞はどれ？", "A": "ripe（熟した）", "B": "rope（ロープ）", "C": "ripe ではなく wide（広い）", "D": "rude（無礼な）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rollback",
+    "pron": "ˈroʊlbæk",
+    "kana": "ロールバック",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "roll back（押し戻す）の名詞化",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "ビジネス・IT"],
+    "meaning_main": "（規制・価格などの）引き下げ・撤回／（システムの）以前の状態への復元",
+    "description": "rollback の意味・発音・例文・語源を解説。規制や価格の「引き下げ・撤回」と、ITでシステムを「以前の状態に戻すこと（ロールバック）」という意味を分かりやすく紹介します。",
+    "keywords": ["rollback 意味", "rollback 発音", "巻き戻し", "撤回"],
+    "meanings": [
+      { "hinshi": "【名詞】（規制・価格などの）引き下げ・撤回・後退", "note": "前の状態へ戻すこと。a rollback of regulations（規制の撤回）。a price rollback（値下げ）。" },
+      { "hinshi": "【名詞】(IT)ロールバック・以前の状態への復元", "note": "変更を取り消して前の状態に戻すこと。a database rollback（データベースのロールバック）。" }
+    ],
+    "usages": [
+      { "title": "① 「規制の撤回」として", "desc": "前の状態への後退を表します。", "example_en": "The new government ordered a rollback of the rules.", "example_ja": "新政府は規則の撤回を命じた。" },
+      { "title": "② IT「ロールバック」として", "desc": "変更を取り消すことを表します。", "example_en": "We performed a rollback to the previous version.", "example_ja": "私たちは以前のバージョンへのロールバックを行った。" }
+    ],
+    "warn": [
+      "rollback は『（規制・価格の）引き下げ・撤回』『（ITの）以前の状態への復元』。roll back（押し戻す）の名詞化。",
+      "a rollback of regulations（規制の撤回）, a price rollback（値下げ）, a database rollback（DBの復元）など。"
+    ],
+    "etym_note": "roll（『転がす』、古フランス語 roller より）＋ back（『後ろへ』）の句動詞 roll back（押し戻す）が名詞化したもので、「前の状態へ戻すこと」を意味します。",
+    "etym_chain": [
+      { "node": "roll + back", "sub": "転がす＋後ろへ", "era": "近代英語" },
+      { "node": "roll back", "sub": "押し戻す", "era": "近代英語" },
+      { "node": "rollback", "sub": "撤回・復元", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rollback of regulations", "ja": "規制の撤回" },
+      { "en": "a price rollback", "ja": "値下げ" },
+      { "en": "a tax rollback", "ja": "減税" },
+      { "en": "perform a rollback", "ja": "ロールバックを行う" },
+      { "en": "a database rollback", "ja": "データベースのロールバック" },
+      { "en": "roll back the changes", "ja": "変更を取り消す" }
+    ],
+    "related": [
+      { "en": "roll back", "ja": "押し戻す・撤回する" },
+      { "en": "reversal", "ja": "逆転・撤回" },
+      { "en": "reduction", "ja": "引き下げ・削減" },
+      { "en": "restore", "ja": "（以前の状態に）戻す" }
+    ],
+    "faq": [
+      { "q": "rollback とはどんな意味？", "a": "規制や価格の『引き下げ・撤回・後退』と、ITでシステムを『以前の状態に戻すこと（ロールバック）』という意味があります。a rollback of regulations（規制の撤回）、a database rollback（DBの復元）のように使います。" },
+      { "q": "ITの rollback とは？", "a": "更新や変更を取り消して、システムやデータベースを以前の正常な状態に戻す操作のことです。アップデートで不具合が出たときなどに、前のバージョンへ rollback します。" }
+    ],
+    "quiz": [
+      { "q": "We performed a ___ to the previous version.（ロールバック）", "A": "rollback", "B": "feedback のフィードバック", "C": "drawback の難点", "D": "setback の後退", "correct": "A" },
+      { "q": "a price rollback の意味はどれ？", "A": "値下げ", "B": "値上げ", "C": "売り切れ", "D": "返品", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rudiment",
+    "pron": "ˈruːdɪmənt",
+    "kana": "ルーディメント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 rudimentum（初歩）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "やや硬い語"],
+    "meaning_main": "（複数で）基礎・初歩・いろは／（生物）未発達の器官",
+    "description": "rudiment の意味・発音・例文・語源を解説。ある分野の「基礎・初歩・いろは」（多く複数形）と、生物の「未発達の器官・痕跡器官」という意味の使い方を紹介します。",
+    "keywords": ["rudiment 意味", "rudiment 発音", "基礎", "初歩"],
+    "meanings": [
+      { "hinshi": "【名詞】(ふつう複数 rudiments)基礎・初歩・いろは", "note": "ある分野の最も基本的な知識・技能。the rudiments of grammar（文法の初歩）。" },
+      { "hinshi": "【名詞】(生物)未発達の器官・痕跡器官", "note": "十分に発達していない器官。" }
+    ],
+    "usages": [
+      { "title": "① 「初歩・いろは」として", "desc": "基本的な知識を表します。", "example_en": "He learned the rudiments of cooking from his mother.", "example_ja": "彼は料理のいろはを母から学んだ。" },
+      { "title": "② 「基礎技能」として", "desc": "最も基本の技能を表します。", "example_en": "Students master the rudiments before moving on.", "example_ja": "生徒は先に進む前に基礎を身につける。" }
+    ],
+    "warn": [
+      "rudiment は『基礎・初歩・いろは』（ふつう複数 rudiments）、また生物の『未発達の器官』。形容詞 rudimentary（基礎的な・未発達の）。",
+      "the rudiments of ～（〜の初歩）の形が多い。"
+    ],
+    "etym_note": "ラテン語 rudimentum（『初歩・手始め』、rudis「未加工の・粗野な」より）に由来し、「ものごとの初歩」を意味します。rude（粗野な）, rudimentary（初歩の）と同じ語根です。",
+    "etym_chain": [
+      { "node": "rudis", "sub": "未加工の・粗野な", "era": "ラテン語" },
+      { "node": "rudimentum", "sub": "初歩", "era": "ラテン語" },
+      { "node": "rudiment", "sub": "基礎・初歩", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the rudiments of grammar", "ja": "文法の初歩" },
+      { "en": "learn the rudiments", "ja": "基礎を学ぶ" },
+      { "en": "the rudiments of music", "ja": "音楽の基礎" },
+      { "en": "master the rudiments", "ja": "いろはを身につける" },
+      { "en": "the basic rudiments", "ja": "ごく基本的な初歩" },
+      { "en": "only the rudiments", "ja": "ほんの初歩だけ" }
+    ],
+    "related": [
+      { "en": "rudimentary", "ja": "基礎的な・未発達の" },
+      { "en": "basics", "ja": "基本" },
+      { "en": "fundamentals", "ja": "基礎・根本" },
+      { "en": "essentials", "ja": "必須の基本" }
+    ],
+    "faq": [
+      { "q": "rudiment とはどんな意味？", "a": "ある分野の最も基本的な知識・技能『基礎・初歩・いろは』のことです（ふつう複数形 rudiments）。He learned the rudiments of cooking.（料理のいろはを学んだ）のように使います。形容詞は rudimentary です。" },
+      { "q": "rudiment と basics の違いは？", "a": "ほぼ同義で『基礎』ですが、rudiments はやや硬い語で『（学び始めの）いろは・初歩』、basics は日常的に『基本』を広く指します。the rudiments of grammar（文法の初歩）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "He learned the ___s of cooking from his mother.（いろは）", "A": "rudiment", "B": "ornament の装飾", "C": "monument の記念碑", "D": "document の文書", "correct": "A" },
+      { "q": "rudiment の形容詞形はどれ？", "A": "rudimentary（基礎的な）", "B": "ornamental（装飾の）", "C": "monumental（記念碑的な）", "D": "documentary（記録の）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ruefully",
+    "pron": "ˈruːfli",
+    "kana": "ルーフリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "rueful（後悔したような）＋ -ly",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文語的"],
+    "meaning_main": "後悔したように・悔やむように・苦笑いして",
+    "description": "ruefully の意味・発音・例文・語源を解説。後悔やきまり悪さをにじませて「後悔したように・苦笑いして」何かをする様子を表す、やや文語的な副詞を紹介します。",
+    "keywords": ["ruefully 意味", "ruefully 発音", "後悔したように", "苦笑いして"],
+    "meanings": [
+      { "hinshi": "【副詞】後悔したように・悔やむように・苦笑いして", "note": "後悔・きまり悪さ・自嘲をにじませて。smile ruefully（苦笑いする）。" }
+    ],
+    "usages": [
+      { "title": "① 「苦笑いして」として", "desc": "悔やみまじりの態度を表します。", "example_en": "He smiled ruefully and admitted his mistake.", "example_ja": "彼は苦笑いして自分の誤りを認めた。" },
+      { "title": "② 「悔やむように」として", "desc": "後悔のにじむ様子を表します。", "example_en": "\"I should have known,\" she said ruefully.", "example_ja": "「気づくべきだった」と彼女は悔やむように言った。" }
+    ],
+    "warn": [
+      "ruefully は『後悔したように・苦笑いして』。形容詞 rueful（後悔したような）＋ -ly。やや文語的。",
+      "smile / grin / say ruefully（苦笑いする・悔やむように言う）が頻出。"
+    ],
+    "etym_note": "rueful（『後悔したような』、rue「後悔する」、古英語 hrēowan「悲しませる」より）＋ -ly から成り、「後悔をにじませて」を意味します。",
+    "etym_chain": [
+      { "node": "hrēowan", "sub": "悲しませる", "era": "古英語" },
+      { "node": "rueful", "sub": "後悔したような", "era": "中英語" },
+      { "node": "ruefully", "sub": "後悔したように", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "smile ruefully", "ja": "苦笑いする" },
+      { "en": "grin ruefully", "ja": "きまり悪そうに笑う" },
+      { "en": "say ruefully", "ja": "悔やむように言う" },
+      { "en": "shake one's head ruefully", "ja": "悔やむように首を振る" },
+      { "en": "admit ruefully", "ja": "苦笑まじりに認める" },
+      { "en": "laugh ruefully", "ja": "自嘲気味に笑う" }
+    ],
+    "related": [
+      { "en": "rueful", "ja": "後悔したような・苦笑いの" },
+      { "en": "rue", "ja": "後悔する（文語）" },
+      { "en": "regretfully", "ja": "残念ながら・後悔して" },
+      { "en": "wistfully", "ja": "もの思わしげに" }
+    ],
+    "faq": [
+      { "q": "ruefully とはどんな意味？", "a": "後悔やきまり悪さ・自嘲をにじませて『後悔したように・苦笑いして』何かをする様子を表す副詞です。He smiled ruefully.（彼は苦笑いした）のように使います。形容詞は rueful です。" },
+      { "q": "smile ruefully とは？", "a": "『苦笑いする・悔やむように笑う』という意味です。失敗やきまり悪い状況で、後悔とおかしみの混じった微笑を浮かべる様子を表します。" }
+    ],
+    "quiz": [
+      { "q": "He smiled ___ and admitted his mistake.（苦笑いして）", "A": "ruefully", "B": "cheerfully の陽気に", "C": "carefully の注意深く", "D": "usefully の役に立つように", "correct": "A" },
+      { "q": "ruefully の形容詞形はどれ？", "A": "rueful（後悔したような）", "B": "cheerful（陽気な）", "C": "careful（注意深い）", "D": "useful（役に立つ）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "restatement",
+    "pron": "ˌriːˈsteɪtmənt",
+    "kana": "リステイトメント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "restate（言い直す・再表明する）＋ -ment",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "ビジネス・会計"],
+    "meaning_main": "言い直し・再表明／（会計の）（決算の）修正・再表示",
+    "description": "restatement の意味・発音・例文・語源を解説。立場や主張の「言い直し・再表明」と、会計で過去の財務諸表を訂正する「修正・再表示」という意味を分かりやすく紹介します。",
+    "keywords": ["restatement 意味", "restatement 発音", "言い直し", "決算修正"],
+    "meanings": [
+      { "hinshi": "【名詞】言い直し・再表明・改めて述べること", "note": "同じ内容を別の言い方で、または改めて述べること。a restatement of the policy（方針の再表明）。" },
+      { "hinshi": "【名詞】(会計)（決算の）修正・再表示", "note": "過去の財務諸表の誤りを訂正して出し直すこと。a financial restatement（決算の修正）。動詞は restate。" }
+    ],
+    "usages": [
+      { "title": "① 「方針の再表明」として", "desc": "立場を改めて述べることを表します。", "example_en": "His speech was a restatement of the party's position.", "example_ja": "彼の演説は党の立場の再表明だった。" },
+      { "title": "② 会計「決算の修正」として", "desc": "財務諸表の訂正を表します。", "example_en": "The company announced a restatement of its earnings.", "example_ja": "その会社は決算（利益）の修正を発表した。" }
+    ],
+    "warn": [
+      "restatement は『言い直し・再表明』『（会計の）決算の修正・再表示』。restate（言い直す・再表明する）＋ -ment。",
+      "会計の a financial restatement（決算の修正）は、過去の財務諸表に誤りがあったときに訂正して出し直すこと。"
+    ],
+    "etym_note": "restate（re-「再び」＋ state「述べる」、ラテン語 status「状態」、stare「立つ」より）＋ -ment から成り、「再び述べること」を意味します。statement（声明）と同じ語根です。",
+    "etym_chain": [
+      { "node": "stare", "sub": "立つ", "era": "ラテン語" },
+      { "node": "restate", "sub": "言い直す・再表明する", "era": "近代英語" },
+      { "node": "restatement", "sub": "言い直し・修正", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a restatement of the policy", "ja": "方針の再表明" },
+      { "en": "a restatement of the facts", "ja": "事実の言い直し" },
+      { "en": "a clear restatement", "ja": "明確な再表明" },
+      { "en": "a financial restatement", "ja": "決算の修正" },
+      { "en": "a restatement of earnings", "ja": "利益の修正再表示" },
+      { "en": "announce a restatement", "ja": "決算修正を発表する" }
+    ],
+    "related": [
+      { "en": "restate", "ja": "言い直す・再表明する" },
+      { "en": "statement", "ja": "声明・明細書" },
+      { "en": "reaffirmation", "ja": "再確認・再表明" },
+      { "en": "revision", "ja": "改訂・修正" }
+    ],
+    "faq": [
+      { "q": "restatement とはどんな意味？", "a": "立場や主張の『言い直し・再表明』という意味と、会計で過去の財務諸表を訂正する『修正・再表示』という意味があります。a restatement of the policy（方針の再表明）、a financial restatement（決算の修正）のように使います。動詞は restate です。" },
+      { "q": "会計の restatement（決算の修正）とは？", "a": "過去に公表した財務諸表に誤りが見つかったとき、それを訂正して出し直すことです。利益の計上ミスなどがあった場合に行われ、企業の信頼に影響することがあります。" }
+    ],
+    "quiz": [
+      { "q": "His speech was a ___ of the party's position.（再表明）", "A": "restatement", "B": "statement の最初の声明だけ", "C": "movement の動き", "D": "agreement の合意", "correct": "A" },
+      { "q": "restatement の動詞形はどれ？", "A": "restate（言い直す・再表明する）", "B": "remain（残る）", "C": "remove（取り除く）", "D": "require（要求する）", "correct": "A" }
+    ]
+  }
+]
