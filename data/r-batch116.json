@@ -1,0 +1,526 @@
+[
+  {
+    "english": "robotics",
+    "pron": "roʊˈbɒtɪks",
+    "kana": "ロボティクス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "robot（ロボット）＋ -ics（学）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "技術・科学"],
+    "meaning_main": "ロボット工学（ロボットの設計・製作・制御を扱う学問）",
+    "description": "robotics の意味・発音・例文・語源を解説。ロボットの設計・製作・制御を研究する学問「ロボット工学」を表す、技術・科学で使う名詞を分かりやすく紹介します。",
+    "keywords": ["robotics 意味", "robotics 発音", "ロボット工学", "robot 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】ロボット工学", "note": "ロボットの設計・製作・制御を扱う学問・技術分野。単数扱い。study robotics（ロボット工学を学ぶ）。" }
+    ],
+    "usages": [
+      { "title": "① 学問としての「ロボット工学」", "desc": "ロボットの研究分野を表します。", "example_en": "She studies robotics at university.", "example_ja": "彼女は大学でロボット工学を学んでいる。" },
+      { "title": "② 産業の文脈で", "desc": "ロボット技術を表します。", "example_en": "Advances in robotics are changing factories.", "example_ja": "ロボット工学の進歩が工場を変えつつある。" }
+    ],
+    "warn": [
+      "robotics は『ロボット工学』。robot（ロボット）＋ -ics（学問を表す語尾）。語尾に s があるが単数扱い（Robotics is ...）。",
+      "physics（物理学）, economics（経済学）と同じ -ics。"
+    ],
+    "etym_note": "robot（『ロボット』、チェコ語 robota「労役」より、作家チャペックの戯曲で広まる）＋ -ics（『学問・技術』を表す語尾）から成り、20世紀にSF作家アシモフらによって広まった語です。",
+    "etym_chain": [
+      { "node": "robota", "sub": "労役", "era": "チェコ語" },
+      { "node": "robot", "sub": "ロボット", "era": "20世紀英語" },
+      { "node": "robotics", "sub": "ロボット工学", "era": "20世紀英語" }
+    ],
+    "phrases": [
+      { "en": "study robotics", "ja": "ロボット工学を学ぶ" },
+      { "en": "advances in robotics", "ja": "ロボット工学の進歩" },
+      { "en": "a robotics company", "ja": "ロボット工学の会社" },
+      { "en": "industrial robotics", "ja": "産業用ロボット工学" },
+      { "en": "a robotics competition", "ja": "ロボットコンテスト" },
+      { "en": "the field of robotics", "ja": "ロボット工学の分野" }
+    ],
+    "related": [
+      { "en": "robot", "ja": "ロボット" },
+      { "en": "automation", "ja": "自動化" },
+      { "en": "engineering", "ja": "工学" },
+      { "en": "AI", "ja": "人工知能" }
+    ],
+    "faq": [
+      { "q": "robotics とはどんな意味？", "a": "ロボットの設計・製作・制御を研究する学問・技術分野『ロボット工学』のことです。She studies robotics at university.（大学でロボット工学を学んでいる）のように使います。" },
+      { "q": "robotics は単数扱い？複数扱い？", "a": "語尾に s がありますが単数扱いの名詞です。Robotics is a growing field.（ロボット工学は成長分野だ）のように is を使います。physics（物理学）などと同じです。" }
+    ],
+    "quiz": [
+      { "q": "She studies ___ at university.（ロボット工学）", "A": "robotics", "B": "robot の単なるロボット", "C": "politics の政治", "D": "logistics の物流", "correct": "A" },
+      { "q": "robotics と同じ -ics（学問）を持つ語はどれ？", "A": "physics（物理学）", "B": "topics の話題", "C": "basics の基本", "D": "lyrics の歌詞", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rodeo",
+    "pron": "ˈroʊdioʊ",
+    "kana": "ロウディオ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "スペイン語 rodeo（牛を囲い込むこと）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文化・スポーツ"],
+    "meaning_main": "ロデオ（暴れ馬・牛に乗る技を競う催し）",
+    "description": "rodeo の意味・発音・例文・語源を解説。カウボーイが暴れ馬や牛に乗る技を競う、アメリカ西部の催し「ロデオ」を表す名詞の使い方と語源を紹介します。",
+    "keywords": ["rodeo 意味", "rodeo 発音", "ロデオ", "カウボーイ"],
+    "meanings": [
+      { "hinshi": "【名詞】ロデオ", "note": "カウボーイが暴れ馬・牛に乗ったり、投げ縄をしたりして技を競う催し。アメリカ西部の伝統。複数形は rodeos。" }
+    ],
+    "usages": [
+      { "title": "① 催しとしての「ロデオ」", "desc": "暴れ馬・牛に乗る競技を表します。", "example_en": "We watched cowboys ride bulls at the rodeo.", "example_ja": "私たちはロデオでカウボーイが牛に乗るのを見た。" },
+      { "title": "② 文化の文脈で", "desc": "西部の伝統行事を表します。", "example_en": "The town holds a rodeo every summer.", "example_ja": "その町は毎年夏にロデオを開催する。" }
+    ],
+    "warn": [
+      "rodeo は『ロデオ』（暴れ馬・牛に乗る技を競う催し）。スペイン語由来。アクセントは前（RO-）が一般的。",
+      "もとはスペイン語で『（牛を）囲い込むこと』。アメリカ西部の文化と結びつく。"
+    ],
+    "etym_note": "スペイン語 rodeo（『囲い込み』、rodear「囲む・回る」より）に由来し、もとは牛を集めて囲い込む作業を指しました。のちにその技を競う催しを意味するようになりました。",
+    "etym_chain": [
+      { "node": "rodear", "sub": "囲む・回る", "era": "スペイン語" },
+      { "node": "rodeo", "sub": "牛の囲い込み", "era": "スペイン語" },
+      { "node": "rodeo", "sub": "ロデオ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "at the rodeo", "ja": "ロデオで" },
+      { "en": "a rodeo cowboy", "ja": "ロデオのカウボーイ" },
+      { "en": "ride in a rodeo", "ja": "ロデオに出場する" },
+      { "en": "a rodeo clown", "ja": "ロデオの道化師（牛から選手を守る役）" },
+      { "en": "a bull-riding rodeo", "ja": "牛乗りのロデオ" },
+      { "en": "hold a rodeo", "ja": "ロデオを開催する" }
+    ],
+    "related": [
+      { "en": "cowboy", "ja": "カウボーイ" },
+      { "en": "bronco", "ja": "暴れ馬" },
+      { "en": "lasso", "ja": "投げ縄" },
+      { "en": "ranch", "ja": "牧場" }
+    ],
+    "faq": [
+      { "q": "rodeo とはどんな意味？", "a": "カウボーイが暴れ馬や牛に乗ったり投げ縄をしたりして技を競う、アメリカ西部の催し『ロデオ』のことです。We watched cowboys ride bulls at the rodeo.（ロデオで牛乗りを見た）のように使います。" },
+      { "q": "rodeo はどこの言葉が由来？", "a": "スペイン語 rodeo（囲い込み）が由来で、もとは牛を集めて囲い込む作業を指しました。アメリカ西部でその技を競う催しの名になりました。" }
+    ],
+    "quiz": [
+      { "q": "We watched cowboys ride bulls at the ___.（ロデオ）", "A": "rodeo", "B": "radio のラジオ", "C": "video のビデオ", "D": "studio のスタジオ", "correct": "A" },
+      { "q": "rodeo はもともと何を指した？", "A": "牛の囲い込み（作業）", "B": "馬の品種", "C": "西部の町の名前", "D": "踊りの一種", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rollercoaster",
+    "pron": "ˈroʊlərkoʊstər",
+    "kana": "ローラーコースター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "roller（転がるもの）＋ coaster（滑り走るもの）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "日常・比喩"],
+    "meaning_main": "ジェットコースター／（比喩）激しい浮き沈み",
+    "description": "rollercoaster の意味・発音・例文・語源を解説。遊園地の「ジェットコースター」と、感情や状況の「激しい浮き沈み」という比喩の使い方を分かりやすく紹介します。",
+    "keywords": ["rollercoaster 意味", "rollercoaster 発音", "ジェットコースター", "浮き沈み"],
+    "meanings": [
+      { "hinshi": "【名詞】ジェットコースター", "note": "急な上り下りや回転のある遊園地の乗り物。roller coaster と2語でも書く。" },
+      { "hinshi": "【名詞】(比喩)激しい浮き沈み・乱高下", "note": "an emotional rollercoaster（感情の激しい浮き沈み）。" }
+    ],
+    "usages": [
+      { "title": "① 乗り物としての「ジェットコースター」", "desc": "遊園地の乗り物を表します。", "example_en": "We rode the rollercoaster three times.", "example_ja": "私たちはジェットコースターに3回乗った。" },
+      { "title": "② 比喩「激しい浮き沈み」として", "desc": "感情や状況の乱高下を表します。", "example_en": "The past year has been an emotional rollercoaster.", "example_ja": "この1年は感情の激しい浮き沈みの連続だった。" }
+    ],
+    "warn": [
+      "rollercoaster は『ジェットコースター』（和製英語の『ジェットコースター』は英語では roller coaster / rollercoaster）。比喩で『激しい浮き沈み』。",
+      "roller coaster と2語でも書く。an emotional rollercoaster（感情の浮き沈み）が頻出。"
+    ],
+    "etym_note": "roller（『転がるもの・ローラー』、roll「転がる」より）＋ coaster（『滑り走るもの』、coast「滑走する」より）から成る複合語で、「転がり滑る乗り物」を意味します。",
+    "etym_chain": [
+      { "node": "roll + coast", "sub": "転がる＋滑走する", "era": "近代英語" },
+      { "node": "roller coaster", "sub": "ジェットコースター", "era": "19世紀英語" },
+      { "node": "rollercoaster", "sub": "ジェットコースター・浮き沈み", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "ride the rollercoaster", "ja": "ジェットコースターに乗る" },
+      { "en": "an emotional rollercoaster", "ja": "感情の激しい浮き沈み" },
+      { "en": "a rollercoaster of emotions", "ja": "感情のジェットコースター" },
+      { "en": "a rollercoaster ride", "ja": "ジェットコースターのような体験" },
+      { "en": "a financial rollercoaster", "ja": "財政の乱高下" },
+      { "en": "like a rollercoaster", "ja": "ジェットコースターのように" }
+    ],
+    "related": [
+      { "en": "roller", "ja": "ローラー・転がるもの" },
+      { "en": "amusement park", "ja": "遊園地" },
+      { "en": "ups and downs", "ja": "浮き沈み" },
+      { "en": "fluctuation", "ja": "変動" }
+    ],
+    "faq": [
+      { "q": "rollercoaster とはどんな意味？", "a": "遊園地の『ジェットコースター』のことです。また比喩で、感情や状況の『激しい浮き沈み・乱高下』も表します。an emotional rollercoaster（感情の激しい浮き沈み）のように使います。" },
+      { "q": "『ジェットコースター』は英語でも通じる？", "a": "『ジェットコースター』は和製英語です。英語では roller coaster または rollercoaster と言います。jet coaster とは言わないので注意しましょう。" }
+    ],
+    "quiz": [
+      { "q": "The past year has been an emotional ___.（激しい浮き沈み）", "A": "rollercoaster", "B": "coaster の単なるコースター", "C": "roller の単なるローラー", "D": "toaster のトースター", "correct": "A" },
+      { "q": "『ジェットコースター』の正しい英語はどれ？", "A": "rollercoaster", "B": "jet coaster", "C": "jet roller", "D": "speed coaster", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rosebud",
+    "pron": "ˈroʊzbʌd",
+    "kana": "ローズバド",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rose（バラ）＋ bud（つぼみ）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "自然・日常"],
+    "meaning_main": "バラのつぼみ",
+    "description": "rosebud の意味・発音・例文・語源を解説。まだ開いていないバラの花「バラのつぼみ」を表す名詞の使い方と、bud（つぼみ）の意味を分かりやすく紹介します。",
+    "keywords": ["rosebud 意味", "rosebud 発音", "バラのつぼみ", "bud 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】バラのつぼみ", "note": "まだ開いていないバラの花。a tight rosebud（固いバラのつぼみ）。" }
+    ],
+    "usages": [
+      { "title": "① 「バラのつぼみ」として", "desc": "開く前のバラを表します。", "example_en": "A single rosebud sat in the vase.", "example_ja": "一輪のバラのつぼみが花びんに挿してあった。" },
+      { "title": "② 比喩として", "desc": "若さやかわいらしさのたとえにも。", "example_en": "Her lips were like a rosebud.", "example_ja": "彼女の唇はバラのつぼみのようだった。" }
+    ],
+    "warn": [
+      "rosebud は『バラのつぼみ』。rose（バラ）＋ bud（つぼみ）。",
+      "bud は『つぼみ・芽』。flower bud（花のつぼみ）, taste bud（味蕾）のように使う。"
+    ],
+    "etym_note": "rose（バラ、ラテン語 rosa より）＋ bud（つぼみ・芽、中英語 budde より）から成る複合語で、「バラのつぼみ」を意味します。",
+    "etym_chain": [
+      { "node": "rosa + budde", "sub": "バラ＋つぼみ", "era": "ラテン語・中英語" },
+      { "node": "rosebud", "sub": "バラのつぼみ", "era": "近代英語" },
+      { "node": "rosebud", "sub": "バラのつぼみ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a single rosebud", "ja": "一輪のバラのつぼみ" },
+      { "en": "a tight rosebud", "ja": "固いバラのつぼみ" },
+      { "en": "rosebuds in bloom", "ja": "開きかけのバラのつぼみ" },
+      { "en": "pick a rosebud", "ja": "バラのつぼみを摘む" },
+      { "en": "a delicate rosebud", "ja": "繊細なバラのつぼみ" },
+      { "en": "rosebud lips", "ja": "バラのつぼみのような唇" }
+    ],
+    "related": [
+      { "en": "rose", "ja": "バラ" },
+      { "en": "bud", "ja": "つぼみ・芽" },
+      { "en": "blossom", "ja": "花・咲く" },
+      { "en": "bloom", "ja": "開花・咲く" }
+    ],
+    "faq": [
+      { "q": "rosebud とはどんな意味？", "a": "まだ開いていないバラの花『バラのつぼみ』のことです。A single rosebud sat in the vase.（一輪のバラのつぼみが花びんにあった）のように使います。" },
+      { "q": "bud とはどんな意味？", "a": "『つぼみ・芽』のことです。rosebud（バラのつぼみ）のほか、flower bud（花のつぼみ）、taste bud（味蕾＝舌の味を感じる部分）などにも使われます。" }
+    ],
+    "quiz": [
+      { "q": "A single ___ sat in the vase.（バラのつぼみ）", "A": "rosebud", "B": "rosewood の紫檀", "C": "rosebush のバラの茂み", "D": "rosehip のローズヒップ", "correct": "A" },
+      { "q": "rosebud の bud の意味はどれ？", "A": "つぼみ・芽", "B": "根", "C": "葉", "D": "とげ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "romaine",
+    "pron": "roʊˈmeɪn",
+    "kana": "ロメイン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 romaine（ローマの）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "食べ物"],
+    "meaning_main": "ロメインレタス（細長く歯ごたえのあるレタス）",
+    "description": "romaine の意味・発音・例文・語源を解説。細長い葉で歯ごたえがあり、シーザーサラダによく使われる「ロメインレタス」を表す名詞の使い方を紹介します。",
+    "keywords": ["romaine 意味", "romaine 発音", "ロメインレタス", "サラダ"],
+    "meanings": [
+      { "hinshi": "【名詞】ロメインレタス", "note": "細長い葉で歯ごたえのあるレタスの一種。シーザーサラダの定番。romaine lettuce とも言う。イギリスでは cos lettuce。" }
+    ],
+    "usages": [
+      { "title": "① 野菜としての「ロメインレタス」", "desc": "歯ごたえのあるレタスを表します。", "example_en": "Caesar salad is made with romaine.", "example_ja": "シーザーサラダはロメインレタスで作る。" },
+      { "title": "② 調理の文脈で", "desc": "サラダの材料を表します。", "example_en": "Chop the romaine into bite-sized pieces.", "example_ja": "ロメインレタスを一口大に切りなさい。" }
+    ],
+    "warn": [
+      "romaine は『ロメインレタス』。romaine lettuce とも言う。イギリス英語では cos lettuce（コスレタス）。",
+      "細長く歯ごたえがあり、シーザーサラダの定番。"
+    ],
+    "etym_note": "フランス語 romaine（『ローマの（レタス）』）に由来し、ローマ経由でフランスに伝わったことからの名とされます。イギリスの cos は、原産地とされるギリシャのコス島に由来します。",
+    "etym_chain": [
+      { "node": "romaine", "sub": "ローマの", "era": "フランス語" },
+      { "node": "romaine lettuce", "sub": "ロメインレタス", "era": "近代英語" },
+      { "node": "romaine", "sub": "ロメインレタス", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "romaine lettuce", "ja": "ロメインレタス" },
+      { "en": "a head of romaine", "ja": "ロメインレタス1個（1株）" },
+      { "en": "chopped romaine", "ja": "刻んだロメインレタス" },
+      { "en": "crisp romaine", "ja": "シャキッとしたロメイン" },
+      { "en": "romaine hearts", "ja": "ロメインレタスの芯の部分" },
+      { "en": "wash the romaine", "ja": "ロメインレタスを洗う" }
+    ],
+    "related": [
+      { "en": "lettuce", "ja": "レタス" },
+      { "en": "Caesar salad", "ja": "シーザーサラダ" },
+      { "en": "cos lettuce", "ja": "コスレタス（英）" },
+      { "en": "salad", "ja": "サラダ" }
+    ],
+    "faq": [
+      { "q": "romaine とはどんな意味？", "a": "細長い葉で歯ごたえがあり、シーザーサラダによく使われる『ロメインレタス』のことです。Caesar salad is made with romaine.（シーザーサラダはロメインレタスで作る）のように使います。" },
+      { "q": "romaine と cos lettuce は同じ？", "a": "はい、同じレタスです。アメリカでは romaine（ロメイン）、イギリスでは cos lettuce（コスレタス）と呼びます。" }
+    ],
+    "quiz": [
+      { "q": "Caesar salad is made with ___.（ロメインレタス）", "A": "romaine", "B": "remain の残る", "C": "domain の領域", "D": "migraine の片頭痛", "correct": "A" },
+      { "q": "romaine はどんな野菜？", "A": "細長く歯ごたえのあるレタス", "B": "赤いトマト", "C": "丸いキャベツ", "D": "オレンジ色のニンジン", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retroactive",
+    "pron": "ˌretroʊˈæktɪv",
+    "kana": "レトロアクティブ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 retro（後ろへ）＋ active（作用する）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "法律・ビジネス"],
+    "meaning_main": "さかのぼって適用される・遡及（そきゅう）的な",
+    "description": "retroactive の意味・発音・例文・語源を解説。法律や賃上げなどが過去にさかのぼって効力を持つ「遡及的な・さかのぼって適用される」という使い方を紹介します。",
+    "keywords": ["retroactive 意味", "retroactive 発音", "遡及的", "さかのぼって"],
+    "meanings": [
+      { "hinshi": "【形容詞】さかのぼって適用される・遡及（そきゅう）的な", "note": "過去の時点にさかのぼって効力を持つ。a retroactive pay raise（さかのぼって適用される賃上げ）。副詞は retroactively。" }
+    ],
+    "usages": [
+      { "title": "① 法律の「遡及的な」として", "desc": "過去にさかのぼる効力を表します。", "example_en": "The new law is not retroactive.", "example_ja": "新しい法律はさかのぼって適用されない。" },
+      { "title": "② 賃金の「さかのぼり適用」として", "desc": "過去分への適用を表します。", "example_en": "The pay raise is retroactive to January.", "example_ja": "その賃上げは1月にさかのぼって適用される。" }
+    ],
+    "warn": [
+      "retroactive は『さかのぼって適用される・遡及的な』。retro-（後ろへ）＋ active（作用する）。副詞 retroactively。",
+      "retroactive to ～（〜にさかのぼって）の形が多い。法律・税・賃金などで使う。"
+    ],
+    "etym_note": "ラテン語 retro（『後ろへ』）＋ active（『作用する』、agere「動かす」より）から成り、「後ろ（過去）に向かって作用する」を意味します。retrospect（回顧）, action（行為）と同じ要素です。",
+    "etym_chain": [
+      { "node": "retro + agere", "sub": "後ろへ＋動かす", "era": "ラテン語" },
+      { "node": "retroactive", "sub": "遡及的な", "era": "近代英語" },
+      { "node": "retroactive", "sub": "さかのぼって適用される", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "retroactive to", "ja": "〜にさかのぼって" },
+      { "en": "a retroactive pay raise", "ja": "さかのぼり適用の賃上げ" },
+      { "en": "retroactive legislation", "ja": "遡及立法" },
+      { "en": "a retroactive tax", "ja": "遡及課税" },
+      { "en": "not retroactive", "ja": "さかのぼって適用されない" },
+      { "en": "apply retroactively", "ja": "さかのぼって適用する" }
+    ],
+    "related": [
+      { "en": "retroactively", "ja": "さかのぼって" },
+      { "en": "retrospective", "ja": "回顧の・遡及的な" },
+      { "en": "backdated", "ja": "日付をさかのぼらせた" },
+      { "en": "prospective", "ja": "将来に向けた（反対）" }
+    ],
+    "faq": [
+      { "q": "retroactive とはどんな意味？", "a": "法律や賃上げなどが過去の時点にさかのぼって効力を持つ『遡及的な・さかのぼって適用される』という意味です。The pay raise is retroactive to January.（賃上げは1月にさかのぼって適用される）のように使います。" },
+      { "q": "retroactive と retrospective の違いは？", "a": "retroactive は『（効力が）過去にさかのぼって適用される』、retrospective は『（過去を）振り返る・回顧の』に重点があります。法律では retroactive law（遡及法）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The pay raise is ___ to January.（さかのぼって適用される）", "A": "retroactive", "B": "attractive の魅力的な", "C": "proactive の先を見越した", "D": "reactive の反応する", "correct": "A" },
+      { "q": "retroactive の retro- の意味はどれ？", "A": "後ろへ・過去へ", "B": "前へ・将来へ", "C": "上へ", "D": "外へ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "repulsion",
+    "pron": "rɪˈpʌlʃən",
+    "kana": "リパルジョン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 repellere（押し返す）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "理科・感情"],
+    "meaning_main": "強い嫌悪・反感／（物理）反発・斥力（せきりょく）",
+    "description": "repulsion の意味・発音・例文・語源を解説。ぞっとするほどの「強い嫌悪・反感」という感情と、磁石などの「反発・斥力」という物理の意味を紹介します。",
+    "keywords": ["repulsion 意味", "repulsion 発音", "嫌悪", "斥力"],
+    "meanings": [
+      { "hinshi": "【名詞】強い嫌悪・反感", "note": "ぞっとするほどの拒絶感。a feeling of repulsion（嫌悪感）。" },
+      { "hinshi": "【名詞】(物理)反発・斥力（せきりょく）", "note": "同種の電荷・磁極が押し合う力。magnetic repulsion（磁気的反発）。" }
+    ],
+    "usages": [
+      { "title": "① 感情「強い嫌悪」として", "desc": "ぞっとする拒絶感を表します。", "example_en": "She felt a wave of repulsion at the sight.", "example_ja": "彼女はその光景に嫌悪の波を感じた。" },
+      { "title": "② 物理「反発・斥力」として", "desc": "押し合う力を表します。", "example_en": "Like charges experience repulsion.", "example_ja": "同種の電荷は反発を受ける。" }
+    ],
+    "warn": [
+      "repulsion は『強い嫌悪・反感』と『（物理の）反発・斥力』。動詞 repel（はね返す・不快にさせる）、形容詞 repulsive。",
+      "物理では attraction（引力）⇔ repulsion（斥力）の対。"
+    ],
+    "etym_note": "ラテン語 repellere（re-「後ろへ」＋ pellere「押す」）に由来し、「押し返すこと＝反発・嫌悪」を意味します。repel（はね返す）, propel（推進する）と同じ語根です。",
+    "etym_chain": [
+      { "node": "repellere", "sub": "押し返す", "era": "ラテン語" },
+      { "node": "repulsion", "sub": "反発・嫌悪", "era": "近代英語" },
+      { "node": "repulsion", "sub": "嫌悪・斥力", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a feeling of repulsion", "ja": "嫌悪感" },
+      { "en": "a wave of repulsion", "ja": "嫌悪の波" },
+      { "en": "with repulsion", "ja": "嫌悪して" },
+      { "en": "magnetic repulsion", "ja": "磁気的反発" },
+      { "en": "electrostatic repulsion", "ja": "静電気的反発（斥力）" },
+      { "en": "attraction and repulsion", "ja": "引力と斥力" }
+    ],
+    "related": [
+      { "en": "repel", "ja": "はね返す・不快にさせる" },
+      { "en": "repulsive", "ja": "むかつくような・反発する" },
+      { "en": "revulsion", "ja": "強い嫌悪" },
+      { "en": "attraction", "ja": "引力・魅力（反対）" }
+    ],
+    "faq": [
+      { "q": "repulsion とはどんな意味？", "a": "ぞっとするほどの『強い嫌悪・反感』という感情と、磁石・電荷などが押し合う『反発・斥力』という物理の意味があります。a feeling of repulsion（嫌悪感）、magnetic repulsion（磁気的反発）のように使います。" },
+      { "q": "repulsion と revulsion の違いは？", "a": "どちらも『強い嫌悪』ですが、repulsion は物理の『反発・斥力』の意味も持ち、revulsion は『（身震いするような）強い嫌悪』に特化しています。" }
+    ],
+    "quiz": [
+      { "q": "Like charges experience ___.（反発・斥力）", "A": "repulsion", "B": "attraction の引力", "C": "reflection の反射", "D": "expansion の膨張", "correct": "A" },
+      { "q": "物理で repulsion の反対語はどれ？", "A": "attraction（引力）", "B": "reflection（反射）", "C": "reaction（反応）", "D": "expansion（膨張）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "resounding",
+    "pron": "rɪˈzaʊndɪŋ",
+    "kana": "リザウンディング",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "resound（鳴り響く）＋ -ing",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "強調表現"],
+    "meaning_main": "鳴り響く・とどろく／（成功・失敗などが）まったくの・圧倒的な",
+    "description": "resounding の意味・発音・例文・語源を解説。音が「鳴り響く・とどろく」という意味と、成功・勝利などが「まったくの・圧倒的な」という強調の使い方を紹介します。",
+    "keywords": ["resounding 意味", "resounding 発音", "鳴り響く", "圧倒的な"],
+    "meanings": [
+      { "hinshi": "【形容詞】鳴り響く・とどろく", "note": "大きく響く。a resounding crash（とどろく衝突音）。" },
+      { "hinshi": "【形容詞】（成功・失敗などが）まったくの・圧倒的な", "note": "強調。a resounding success（大成功）。a resounding victory（圧勝）。" }
+    ],
+    "usages": [
+      { "title": "① 「鳴り響く」として", "desc": "大きく響く音を表します。", "example_en": "There was a resounding cheer from the crowd.", "example_ja": "群衆からわき上がる歓声があった。" },
+      { "title": "② 強調「圧倒的な」として", "desc": "完全な成功・勝利を表します。", "example_en": "The event was a resounding success.", "example_ja": "そのイベントは大成功だった。" }
+    ],
+    "warn": [
+      "resounding は『鳴り響く』と、強調の『まったくの・圧倒的な』。動詞 resound（鳴り響く）＋ -ing。",
+      "a resounding success / victory / defeat / yes / no（大成功・圧勝・大敗・明確な賛成・断固たる拒否）が頻出。"
+    ],
+    "etym_note": "resound（re-「強意」＋ sound「鳴る」、ラテン語 resonare より）＋ -ing から成り、「鳴り響く」を意味します。比喩で『（評判・効果が）大きく響く＝圧倒的な』にも使います。",
+    "etym_chain": [
+      { "node": "resonare", "sub": "鳴り響く", "era": "ラテン語" },
+      { "node": "resound", "sub": "鳴り響く", "era": "中英語" },
+      { "node": "resounding", "sub": "鳴り響く・圧倒的な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a resounding success", "ja": "大成功" },
+      { "en": "a resounding victory", "ja": "圧勝" },
+      { "en": "a resounding defeat", "ja": "大敗" },
+      { "en": "a resounding yes", "ja": "明確な賛成" },
+      { "en": "a resounding cheer", "ja": "わき上がる歓声" },
+      { "en": "a resounding crash", "ja": "とどろく衝突音" }
+    ],
+    "related": [
+      { "en": "resound", "ja": "鳴り響く" },
+      { "en": "echoing", "ja": "響き渡る" },
+      { "en": "emphatic", "ja": "断固とした" },
+      { "en": "overwhelming", "ja": "圧倒的な" }
+    ],
+    "faq": [
+      { "q": "resounding とはどんな意味？", "a": "音が『鳴り響く・とどろく』という意味と、成功・勝利などが『まったくの・圧倒的な』という強調の意味があります。The event was a resounding success.（大成功だった）のように使います。" },
+      { "q": "a resounding success とは？", "a": "『大成功・文句なしの成功』という意味です。resounding が『鳴り響くほどの＝圧倒的な』という強調を加えています。a resounding victory（圧勝）も同様の使い方です。" }
+    ],
+    "quiz": [
+      { "q": "The event was a ___ success.（圧倒的な）", "A": "resounding", "B": "surrounding の周囲の", "C": "astounding の驚くべき", "D": "rebounding の跳ね返る", "correct": "A" },
+      { "q": "resounding のもとになった動詞はどれ？", "A": "resound（鳴り響く）", "B": "surround（囲む）", "C": "astound（驚かせる）", "D": "rebound（跳ね返る）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "roundworm",
+    "pron": "ˈraʊndwɜːrm",
+    "kana": "ラウンドワーム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "round（丸い）＋ worm（虫）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "生物・医学"],
+    "meaning_main": "回虫（かいちゅう）・線虫（細長い寄生虫）",
+    "description": "roundworm の意味・発音・例文・語源を解説。人や動物の腸などに寄生する細長い虫「回虫・線虫」を表す、生物・医学で使う名詞の使い方を紹介します。",
+    "keywords": ["roundworm 意味", "roundworm 発音", "回虫", "線虫"],
+    "meanings": [
+      { "hinshi": "【名詞】回虫・線虫", "note": "断面が丸く細長い虫。多くは人や動物の腸などに寄生する。線形動物門（nematode）の総称としても使う。" }
+    ],
+    "usages": [
+      { "title": "① 寄生虫としての「回虫」", "desc": "腸に寄生する虫を表します。", "example_en": "The puppy was treated for roundworms.", "example_ja": "その子犬は回虫の駆除治療を受けた。" },
+      { "title": "② 生物学の文脈で", "desc": "線虫類を表します。", "example_en": "Roundworms are studied in biology labs.", "example_ja": "線虫は生物学の研究室で研究される。" }
+    ],
+    "warn": [
+      "roundworm は『回虫・線虫』（断面が丸い細長い虫）。round（丸い）＋ worm（虫）。学術名は nematode（線虫）。",
+      "tapeworm（条虫・サナダムシ）, hookworm（鉤虫）など他の寄生虫と区別。"
+    ],
+    "etym_note": "round（『丸い』、ラテン語 rotundus より）＋ worm（『虫』、古英語 wyrm より）から成る複合語で、「（断面が）丸い虫」を意味します。平たい tapeworm（条虫）と対比されます。",
+    "etym_chain": [
+      { "node": "round + wyrm", "sub": "丸い＋虫", "era": "中英語・古英語" },
+      { "node": "roundworm", "sub": "回虫", "era": "近代英語" },
+      { "node": "roundworm", "sub": "回虫・線虫", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "treated for roundworms", "ja": "回虫の駆除治療を受けた" },
+      { "en": "a roundworm infection", "ja": "回虫感染" },
+      { "en": "intestinal roundworms", "ja": "腸の回虫" },
+      { "en": "deworm against roundworms", "ja": "回虫を駆除する" },
+      { "en": "a parasitic roundworm", "ja": "寄生性の回虫" },
+      { "en": "roundworm eggs", "ja": "回虫の卵" }
+    ],
+    "related": [
+      { "en": "worm", "ja": "虫・ミミズ" },
+      { "en": "tapeworm", "ja": "条虫・サナダムシ" },
+      { "en": "nematode", "ja": "線虫" },
+      { "en": "parasite", "ja": "寄生虫" }
+    ],
+    "faq": [
+      { "q": "roundworm とはどんな意味？", "a": "断面が丸く細長い虫『回虫・線虫』のことで、多くは人や動物の腸などに寄生します。The puppy was treated for roundworms.（子犬は回虫の駆除治療を受けた）のように使います。" },
+      { "q": "roundworm と tapeworm の違いは？", "a": "roundworm（回虫・線虫）は断面が丸い細長い虫、tapeworm（条虫・サナダムシ）は平たくテープ状の虫です。どちらも腸に寄生する寄生虫ですが、形が異なります。" }
+    ],
+    "quiz": [
+      { "q": "The puppy was treated for ___s.（回虫）", "A": "roundworm", "B": "earthworm のミミズ", "C": "silkworm のカイコ", "D": "glowworm のホタル", "correct": "A" },
+      { "q": "roundworm の形の特徴はどれ？", "A": "断面が丸く細長い", "B": "平たくテープ状", "C": "球形", "D": "羽がある", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rustproof",
+    "pron": "ˈrʌstpruːf",
+    "kana": "ラストプルーフ",
+    "hinshi": "形容詞 / 動詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "rust（さび）＋ -proof（〜を防ぐ）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "日常・技術"],
+    "meaning_main": "さびない・防せいの／さび止め加工する",
+    "description": "rustproof の意味・発音・例文・語源を解説。金属が「さびない・防せいの」という形容詞と、「さび止め加工する」という動詞の使い方を分かりやすく紹介します。",
+    "keywords": ["rustproof 意味", "rustproof 発音", "さびない", "防せい"],
+    "meanings": [
+      { "hinshi": "【形容詞】さびない・防せい（ぼうせい）の", "note": "さびに強い・さびを防ぐ。a rustproof coating（防せい塗装）。" },
+      { "hinshi": "【動詞】さび止め加工する", "note": "rustproof the car（車にさび止め加工をする）。" }
+    ],
+    "usages": [
+      { "title": "① 形容詞「さびない」として", "desc": "さびに強いことを表します。", "example_en": "The frame is made of rustproof metal.", "example_ja": "その枠はさびない金属でできている。" },
+      { "title": "② 動詞「さび止めする」として", "desc": "防せい加工を表します。", "example_en": "They rustproofed the underside of the car.", "example_ja": "彼らは車の下回りにさび止め加工をした。" }
+    ],
+    "warn": [
+      "rustproof は形容詞『さびない・防せいの』、動詞『さび止め加工する』。rust（さび）＋ -proof（〜を防ぐ・〜に強い）。",
+      "-proof は waterproof（防水）, fireproof（耐火）, soundproof（防音）のように使う。"
+    ],
+    "etym_note": "rust（『さび』、古英語 rust より）＋ -proof（『〜を防ぐ・〜に耐える』、proof「証明・耐える」より）から成り、「さびを防ぐ」を意味します。",
+    "etym_chain": [
+      { "node": "rust + proof", "sub": "さび＋防ぐ", "era": "近代英語" },
+      { "node": "rustproof", "sub": "さびない", "era": "近代英語" },
+      { "node": "rustproof", "sub": "さびない・さび止めする", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rustproof coating", "ja": "防せい塗装" },
+      { "en": "rustproof metal", "ja": "さびない金属" },
+      { "en": "a rustproof finish", "ja": "防せい仕上げ" },
+      { "en": "rustproof the car", "ja": "車にさび止めをする" },
+      { "en": "rustproof and durable", "ja": "さびに強く丈夫な" },
+      { "en": "a rustproof coating", "ja": "さび止めコーティング" }
+    ],
+    "related": [
+      { "en": "rust", "ja": "さび・さびる" },
+      { "en": "rust-resistant", "ja": "さびに強い" },
+      { "en": "stainless", "ja": "さびない・ステンレスの" },
+      { "en": "waterproof", "ja": "防水の" }
+    ],
+    "faq": [
+      { "q": "rustproof とはどんな意味？", "a": "金属が『さびない・防せい（ぼうせい）の』という形容詞、また『さび止め加工する』という動詞です。The frame is made of rustproof metal.（さびない金属でできている）のように使います。" },
+      { "q": "-proof はどんな働き？", "a": "『〜を防ぐ・〜に強い』という意味の語尾です。rustproof（さび止めの）、waterproof（防水の）、fireproof（耐火の）、soundproof（防音の）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The frame is made of ___ metal.（さびない）", "A": "rustproof", "B": "waterproof の防水の", "C": "fireproof の耐火の", "D": "soundproof の防音の", "correct": "A" },
+      { "q": "-proof と同じ働きの例はどれ？", "A": "waterproof（防水の）", "B": "approve（承認する）", "C": "improve（改善する）", "D": "proof の証拠だけ", "correct": "A" }
+    ]
+  }
+]
