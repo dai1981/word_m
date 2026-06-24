@@ -1,0 +1,527 @@
+[
+  {
+    "english": "rhetorical",
+    "pron": "rɪˈtɒrɪkl",
+    "kana": "リトリカル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "rhetoric（修辞・話術）＋ -al",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "言語・議論"],
+    "meaning_main": "修辞的な・話術の／（質問が）答えを求めない・反語的な",
+    "description": "rhetorical の意味・発音・例文・語源を解説。言葉を効果的に使う「修辞的な・話術の」という意味と、答えを期待しない「反語的な（rhetorical question）」という使い方を紹介します。",
+    "keywords": ["rhetorical 意味", "rhetorical 発音", "修辞的", "反語"],
+    "meanings": [
+      { "hinshi": "【形容詞】修辞的な・話術の・言葉を効果的に使う", "note": "説得や効果を狙った言葉づかいの。a rhetorical device（修辞技法）。" },
+      { "hinshi": "【形容詞】（質問が）答えを求めない・反語的な", "note": "a rhetorical question（修辞疑問・反語的な問いかけ）。" }
+    ],
+    "usages": [
+      { "title": "① 「修辞的な技法」として", "desc": "効果を狙った表現を表します。", "example_en": "Repetition is a common rhetorical device.", "example_ja": "反復はよくある修辞技法だ。" },
+      { "title": "② 「反語的な質問」として", "desc": "答えを求めない問いを表します。", "example_en": "\"Who cares?\" is a rhetorical question.", "example_ja": "「誰が気にする？」は反語的な質問だ。" }
+    ],
+    "warn": [
+      "rhetorical は『修辞的な・話術の』『（質問が）答えを求めない・反語的な』。rhetoric（修辞）＋ -al。つづり rh- に注意。",
+      "a rhetorical question（修辞疑問＝答えを期待しない問いかけ）が頻出。"
+    ],
+    "etym_note": "rhetoric（『修辞・話術』、ギリシャ語 rhetorike「弁論術」、rhetor「弁論家」より）＋ -al から成り、「弁論・修辞に関する」を意味します。",
+    "etym_chain": [
+      { "node": "rhetorike", "sub": "弁論術", "era": "ギリシャ語" },
+      { "node": "rhetoric", "sub": "修辞・話術", "era": "中英語" },
+      { "node": "rhetorical", "sub": "修辞的な・反語的な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rhetorical question", "ja": "反語的な質問・修辞疑問" },
+      { "en": "a rhetorical device", "ja": "修辞技法" },
+      { "en": "rhetorical skill", "ja": "話術の巧みさ" },
+      { "en": "purely rhetorical", "ja": "（実質を伴わない）口先だけの" },
+      { "en": "rhetorical flourish", "ja": "美辞麗句・修辞的な飾り" },
+      { "en": "a rhetorical strategy", "ja": "修辞的な戦略" }
+    ],
+    "related": [
+      { "en": "rhetoric", "ja": "修辞・話術" },
+      { "en": "persuasive", "ja": "説得力のある" },
+      { "en": "eloquent", "ja": "雄弁な" },
+      { "en": "figurative", "ja": "比喩的な" }
+    ],
+    "faq": [
+      { "q": "rhetorical とはどんな意味？", "a": "言葉を効果的に使う『修辞的な・話術の』という意味と、答えを期待しない『反語的な』という意味があります。a rhetorical question（反語的な質問）のように使います。名詞は rhetoric です。" },
+      { "q": "a rhetorical question とは？", "a": "『反語的な質問・修辞疑問』のことです。本当に答えを求めているのではなく、強調や効果のために問いかける形をとります。例：Who cares?（誰が気にするものか＝誰も気にしない）。" }
+    ],
+    "quiz": [
+      { "q": "\"Who cares?\" is a ___ question.（反語的な）", "A": "rhetorical", "B": "historical の歴史の", "C": "critical の批判的な", "D": "practical の実用的な", "correct": "A" },
+      { "q": "rhetorical の名詞形はどれ？", "A": "rhetoric（修辞・話術）", "B": "history（歴史）", "C": "critic（批評家）", "D": "practice（練習）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rickets",
+    "pron": "ˈrɪkɪts",
+    "kana": "リケッツ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "17世紀英語 rickets（由来は諸説あり）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "医学"],
+    "meaning_main": "くる病（ビタミンD不足で骨が弱くなる病気）",
+    "description": "rickets の意味・発音・例文・語源を解説。ビタミンDやカルシウム不足で子どもの骨が弱くなり変形する病気「くる病」を表す、医学で使う名詞の使い方を紹介します。",
+    "keywords": ["rickets 意味", "rickets 発音", "くる病", "ビタミンD"],
+    "meanings": [
+      { "hinshi": "【名詞】くる病", "note": "主にビタミンD・カルシウム不足により、子どもの骨が十分に硬くならず弱くなったり変形したりする病気。語尾に s があるが単数扱い。" }
+    ],
+    "usages": [
+      { "title": "① 病気としての「くる病」", "desc": "骨が弱くなる病気を表します。", "example_en": "Rickets is caused by a lack of vitamin D.", "example_ja": "くる病はビタミンDの不足によって起こる。" },
+      { "title": "② 予防の文脈で", "desc": "栄養との関連を表します。", "example_en": "Sunlight helps prevent rickets in children.", "example_ja": "日光は子どものくる病予防に役立つ。" }
+    ],
+    "warn": [
+      "rickets は『くる病』（ビタミンD・カルシウム不足で骨が弱くなる）。語尾に s があるが単数扱い（Rickets is ...）。",
+      "形容詞 rickety（がたがたの・ぐらつく）と語源的に関連。"
+    ],
+    "etym_note": "17世紀のイングランドで広まった病名で、由来には諸説あります（方言の wrick「ねじる」と関連するとも）。のちにギリシャ語 rhachis「背骨」と結びつけられ rachitis（くる病の医学名）も生まれました。",
+    "etym_chain": [
+      { "node": "rickets", "sub": "くる病", "era": "17世紀英語" },
+      { "node": "rickets", "sub": "くる病", "era": "近代英語" },
+      { "node": "rickets", "sub": "くる病", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "suffer from rickets", "ja": "くる病にかかる" },
+      { "en": "prevent rickets", "ja": "くる病を予防する" },
+      { "en": "rickets in children", "ja": "子どものくる病" },
+      { "en": "a case of rickets", "ja": "くる病の症例" },
+      { "en": "vitamin D deficiency and rickets", "ja": "ビタミンD欠乏とくる病" },
+      { "en": "signs of rickets", "ja": "くる病の兆候" }
+    ],
+    "related": [
+      { "en": "rickety", "ja": "がたがたの・ぐらつく" },
+      { "en": "vitamin D", "ja": "ビタミンD" },
+      { "en": "calcium", "ja": "カルシウム" },
+      { "en": "deficiency", "ja": "欠乏・不足" }
+    ],
+    "faq": [
+      { "q": "rickets とはどんな意味？", "a": "主にビタミンD・カルシウム不足により、子どもの骨が十分に硬くならず弱くなったり変形したりする病気『くる病』のことです。Rickets is caused by a lack of vitamin D.（くる病はビタミンD不足で起こる）のように使います。" },
+      { "q": "rickets はどうやって防ぐ？", "a": "ビタミンD（日光を浴びることで体内でつくられる）と、カルシウムを十分にとることで予防できます。Sunlight helps prevent rickets.（日光がくる病予防に役立つ）のように言います。" }
+    ],
+    "quiz": [
+      { "q": "___ is caused by a lack of vitamin D.（くる病）", "A": "Rickets", "B": "Tickets の切符", "C": "Rockets のロケット", "D": "Crickets のコオロギ", "correct": "A" },
+      { "q": "rickets の主な原因はどれ？", "A": "ビタミンD・カルシウムの不足", "B": "食べ過ぎ", "C": "ウイルス感染", "D": "運動のしすぎ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rightfully",
+    "pron": "ˈraɪtfli",
+    "kana": "ライトフリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "rightful（正当な）＋ -ly",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "頻出語"],
+    "meaning_main": "正当に・当然のこととして・正しく（権利として）",
+    "description": "rightfully の意味・発音・例文・語源を解説。権利や道理にもとづいて「正当に・当然のこととして」という様子を表す副詞の使い方を分かりやすく紹介します。",
+    "keywords": ["rightfully 意味", "rightfully 発音", "正当に", "当然"],
+    "meanings": [
+      { "hinshi": "【副詞】正当に・当然のこととして・正しく（権利として）", "note": "権利・道理にかなって。belong rightfully to ～（正当に〜のものである）。rightfully proud（誇りに思って当然）。" }
+    ],
+    "usages": [
+      { "title": "① 「正当に所有する」として", "desc": "権利として持つことを表します。", "example_en": "The land rightfully belongs to them.", "example_ja": "その土地は正当に彼らのものだ。" },
+      { "title": "② 「当然のこととして」として", "desc": "もっともな様子を表します。", "example_en": "She is rightfully proud of her work.", "example_ja": "彼女は自分の仕事を誇りに思って当然だ。" }
+    ],
+    "warn": [
+      "rightfully は『正当に・当然のこととして・（権利として）正しく』。rightful（正当な・合法の）＋ -ly。",
+      "rightfully belong to / be rightfully proud（正当に〜のもの・誇りに思って当然）が頻出。"
+    ],
+    "etym_note": "rightful（『正当な・合法の』、right「正しい・権利」＋ -ful）＋ -ly から成り、「正当に・権利として」を意味します。right（正しい・権利）と同じ語根です。",
+    "etym_chain": [
+      { "node": "right", "sub": "正しい・権利", "era": "古英語" },
+      { "node": "rightful", "sub": "正当な・合法の", "era": "中英語" },
+      { "node": "rightfully", "sub": "正当に・当然", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rightfully belong to", "ja": "正当に〜のものである" },
+      { "en": "rightfully theirs", "ja": "正当に彼らのもの" },
+      { "en": "rightfully proud", "ja": "誇りに思って当然" },
+      { "en": "rightfully so", "ja": "そして当然だ" },
+      { "en": "claim what is rightfully ours", "ja": "正当に自分たちのものを求める" },
+      { "en": "rightfully deserve", "ja": "当然受けるに値する" }
+    ],
+    "related": [
+      { "en": "rightful", "ja": "正当な・合法の" },
+      { "en": "justly", "ja": "正当に・公正に" },
+      { "en": "legitimately", "ja": "合法的に・正当に" },
+      { "en": "wrongfully", "ja": "不当に（反対）" }
+    ],
+    "faq": [
+      { "q": "rightfully とはどんな意味？", "a": "権利や道理にもとづいて『正当に・当然のこととして・（権利として）正しく』という意味の副詞です。The land rightfully belongs to them.（その土地は正当に彼らのものだ）のように使います。" },
+      { "q": "rightfully so とはどんな意味？", "a": "『そして当然だ・もっともなことに』という意味です。前に述べた状態が正当・当然であることを補足する表現で、She was angry, and rightfully so.（彼女は怒った。当然だ）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The land ___ belongs to them.（正当に）", "A": "rightfully", "B": "wrongfully の不当に", "C": "carefully の注意深く", "D": "hopefully の願わくは", "correct": "A" },
+      { "q": "rightfully の反対に近い語はどれ？", "A": "wrongfully（不当に）", "B": "justly（正当に）", "C": "legitimately（合法的に）", "D": "fairly（公正に）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rightist",
+    "pron": "ˈraɪtɪst",
+    "kana": "ライティスト",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "right（右・右派）＋ -ist（〜の人）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "政治"],
+    "meaning_main": "右派の人・右翼／右派の・保守的な",
+    "description": "rightist の意味・発音・例文・語源を解説。政治的に右派・保守的な立場の「右派の人・右翼」という名詞と、「右派の」という形容詞の使い方を紹介します。",
+    "keywords": ["rightist 意味", "rightist 発音", "右派", "右翼"],
+    "meanings": [
+      { "hinshi": "【名詞】右派の人・右翼", "note": "政治的に保守・伝統・国家を重んじる立場の人。反対は leftist（左派）。" },
+      { "hinshi": "【形容詞】右派の・右翼の・保守的な", "note": "a rightist government（右派政権）。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「右派」として", "desc": "保守的な立場の人を表します。", "example_en": "The rightists opposed the reforms.", "example_ja": "右派はその改革に反対した。" },
+      { "title": "② 形容詞「右派の」として", "desc": "右派の政権・政党を表します。", "example_en": "A rightist party won the election.", "example_ja": "右派政党が選挙に勝った。" }
+    ],
+    "warn": [
+      "rightist は『右派の人・右翼』『右派の・保守的な』。right（右・右派）＋ -ist。反対は leftist（左派）。",
+      "『右』が政治的に保守を表すのは、フランス革命期の議会の座席配置に由来。"
+    ],
+    "etym_note": "right（『右・（政治的）右派』、古英語 riht より）＋ -ist（『〜の人・〜主義の』）から成り、「右派の人」を意味します。フランス革命期、議長から見て右側に保守派が座ったことに由来します。",
+    "etym_chain": [
+      { "node": "riht", "sub": "右・正しい", "era": "古英語" },
+      { "node": "right", "sub": "右・右派", "era": "中英語" },
+      { "node": "rightist", "sub": "右派の人", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rightist party", "ja": "右派政党" },
+      { "en": "a rightist government", "ja": "右派政権" },
+      { "en": "far-rightist", "ja": "極右の" },
+      { "en": "rightist groups", "ja": "右派の集団" },
+      { "en": "rightist ideology", "ja": "右派の思想" },
+      { "en": "leftists and rightists", "ja": "左派と右派" }
+    ],
+    "related": [
+      { "en": "leftist", "ja": "左派（反対）" },
+      { "en": "conservative", "ja": "保守的な・保守派" },
+      { "en": "right-wing", "ja": "右翼の" },
+      { "en": "nationalist", "ja": "国家主義者" }
+    ],
+    "faq": [
+      { "q": "rightist とはどんな意味？", "a": "政治的に保守・伝統・国家を重んじる『右派の人・右翼』という名詞、また『右派の・保守的な』という形容詞です。A rightist party won the election.（右派政党が選挙に勝った）のように使います。" },
+      { "q": "rightist の反対は？", "a": "leftist（左派・左翼の人）です。rightist（右派）⇔ leftist（左派）の関係です。『右』が保守、『左』が革新を表すのは、フランス革命期の議会の座席に由来します。" }
+    ],
+    "quiz": [
+      { "q": "A ___ party won the election.（右派の）", "A": "rightist", "B": "leftist の左派の", "C": "tourist の観光客", "D": "artist の芸術家", "correct": "A" },
+      { "q": "rightist の反対語はどれ？", "A": "leftist（左派）", "B": "tourist（観光客）", "C": "artist（芸術家）", "D": "dentist（歯科医）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rigidly",
+    "pron": "ˈrɪdʒɪdli",
+    "kana": "リジッドリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "rigid（硬い・厳格な）＋ -ly",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "硬く・こわばって／厳格に・融通をきかせずに",
+    "description": "rigidly の意味・発音・例文・語源を解説。体や物が「硬く・こわばって」という意味と、規則などを「厳格に・融通をきかせずに」守る様子を表す副詞を紹介します。",
+    "keywords": ["rigidly 意味", "rigidly 発音", "硬く", "厳格に"],
+    "meanings": [
+      { "hinshi": "【副詞】硬く・こわばって", "note": "曲がらず・動かず。stand rigidly（こわばって立つ）。" },
+      { "hinshi": "【副詞】厳格に・融通をきかせずに・きっちり", "note": "rigidly enforce the rules（規則を厳格に守らせる）。" }
+    ],
+    "usages": [
+      { "title": "① 「こわばって」として", "desc": "硬く動かない様子を表します。", "example_en": "He stood rigidly at attention.", "example_ja": "彼はこわばった姿勢で気をつけをした。" },
+      { "title": "② 「厳格に」として", "desc": "融通のない様子を表します。", "example_en": "The rules are rigidly enforced.", "example_ja": "その規則は厳格に守らされている。" }
+    ],
+    "warn": [
+      "rigidly は『硬く・こわばって』と『厳格に・融通をきかせずに』。rigid（硬い・厳格な）＋ -ly。名詞 rigidity。",
+      "rigidly enforced / controlled（厳格に守らされた・管理された）が頻出。"
+    ],
+    "etym_note": "rigid（『硬い・厳格な』、ラテン語 rigidus「こわばった」、rigere「硬直する」より）＋ -ly から成り、「硬く・厳格に」を意味します。rigor（厳格さ）と同じ語根です。",
+    "etym_chain": [
+      { "node": "rigidus", "sub": "こわばった", "era": "ラテン語" },
+      { "node": "rigid", "sub": "硬い・厳格な", "era": "中英語" },
+      { "node": "rigidly", "sub": "硬く・厳格に", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "stand rigidly", "ja": "こわばって立つ" },
+      { "en": "rigidly enforced", "ja": "厳格に守らされた" },
+      { "en": "rigidly controlled", "ja": "厳格に管理された" },
+      { "en": "hold rigidly to", "ja": "〜を頑なに守る" },
+      { "en": "rigidly defined", "ja": "厳密に定義された" },
+      { "en": "sit rigidly", "ja": "こわばって座る" }
+    ],
+    "related": [
+      { "en": "rigid", "ja": "硬い・厳格な" },
+      { "en": "rigidity", "ja": "硬さ・厳格さ" },
+      { "en": "strictly", "ja": "厳格に" },
+      { "en": "flexibly", "ja": "柔軟に（反対）" }
+    ],
+    "faq": [
+      { "q": "rigidly とはどんな意味？", "a": "体や物が『硬く・こわばって』という意味と、規則などを『厳格に・融通をきかせずに』守る様子を表します。He stood rigidly at attention.（こわばった姿勢で気をつけをした）、The rules are rigidly enforced.（規則は厳格に守らされている）のように使います。" },
+      { "q": "rigidly と strictly の違いは？", "a": "どちらも『厳格に』ですが、rigidly は『（融通をきかせず）硬直的に・がちがちに』、strictly は『（規則どおり）きちんと厳しく』という違いがあります。rigidly のほうが柔軟性のなさを強調します。" }
+    ],
+    "quiz": [
+      { "q": "The rules are ___ enforced.（厳格に）", "A": "rigidly", "B": "rapidly の急速に", "C": "rarely のめったに〜ない", "D": "readily の快く", "correct": "A" },
+      { "q": "rigidly の形容詞形はどれ？", "A": "rigid（硬い・厳格な）", "B": "rapid（速い）", "C": "rare（まれな）", "D": "ready（準備できた）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "revenant",
+    "pron": "ˈrevənənt",
+    "kana": "レベナント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 revenant（戻ってくる者）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文学・文化"],
+    "meaning_main": "（死から）よみがえった者・亡霊／長く不在ののち戻ってきた人",
+    "description": "revenant の意味・発音・例文・語源を解説。死からよみがえったとされる「亡霊・蘇った者」、また長い不在ののち戻ってきた人を表す、文学的な名詞の使い方を紹介します。",
+    "keywords": ["revenant 意味", "revenant 発音", "亡霊", "よみがえった者"],
+    "meanings": [
+      { "hinshi": "【名詞】（死から）よみがえった者・亡霊・死者の霊", "note": "死んだのに戻ってきたとされる者。ヨーロッパの伝承に出る。" },
+      { "hinshi": "【名詞】長い不在ののち戻ってきた人", "note": "比喩で、久しく姿を消していて再び現れた人。" }
+    ],
+    "usages": [
+      { "title": "① 「亡霊・蘇った者」として", "desc": "死から戻った者を表します。", "example_en": "Folklore is full of tales of revenants.", "example_ja": "民間伝承は亡霊の話であふれている。" },
+      { "title": "② 「戻ってきた人」として", "desc": "久々に現れた人を表します。", "example_en": "He returned like a revenant after twenty years.", "example_ja": "彼は20年ぶりに亡霊のように戻ってきた。" }
+    ],
+    "warn": [
+      "revenant は『（死から）よみがえった者・亡霊』、比喩で『長い不在ののち戻ってきた人』。フランス語由来でやや文学的。",
+      "ghost（幽霊）が霊体なのに対し、revenant は『（しばしば肉体を持って）戻ってきた死者』のニュアンス。"
+    ],
+    "etym_note": "フランス語 revenant（『戻ってくる者』、revenir「戻る」、ラテン語 revenire「再び来る」より）に由来し、「（死から）戻ってきた者」を意味します。avenue（並木道）, event（出来事）と同じ -ven-（来る）の語根です。",
+    "etym_chain": [
+      { "node": "revenire", "sub": "再び来る", "era": "ラテン語" },
+      { "node": "revenant", "sub": "戻ってくる者", "era": "フランス語" },
+      { "node": "revenant", "sub": "よみがえった者・亡霊", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "tales of revenants", "ja": "亡霊の物語" },
+      { "en": "like a revenant", "ja": "亡霊のように" },
+      { "en": "a revenant from the past", "ja": "過去からよみがえった者" },
+      { "en": "the legend of the revenant", "ja": "よみがえった者の伝説" },
+      { "en": "return as a revenant", "ja": "亡霊として戻る" },
+      { "en": "a ghostly revenant", "ja": "幽霊のような蘇った者" }
+    ],
+    "related": [
+      { "en": "ghost", "ja": "幽霊" },
+      { "en": "specter", "ja": "亡霊・幻影" },
+      { "en": "undead", "ja": "不死者・アンデッド" },
+      { "en": "apparition", "ja": "亡霊・出現" }
+    ],
+    "faq": [
+      { "q": "revenant とはどんな意味？", "a": "死からよみがえったとされる『亡霊・蘇った者』、また比喩で『長い不在ののち戻ってきた人』という、やや文学的な名詞です。Folklore is full of tales of revenants.（民間伝承は亡霊の話であふれている）のように使います。" },
+      { "q": "revenant と ghost の違いは？", "a": "ghost（幽霊）は『（実体のない）霊体』、revenant は『（しばしば肉体を持って）死から戻ってきた者』というニュアンスです。revenant のほうが文学的・伝承的な響きがあります。" }
+    ],
+    "quiz": [
+      { "q": "Folklore is full of tales of ___s.（亡霊）", "A": "revenant", "B": "restaurant のレストラン", "C": "lieutenant の中尉", "D": "covenant の契約", "correct": "A" },
+      { "q": "revenant のもとになった意味はどれ？", "A": "（死から）戻ってくる者", "B": "速く走る者", "C": "高く飛ぶ者", "D": "深く眠る者", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reverential",
+    "pron": "ˌrevəˈrenʃl",
+    "kana": "レベレンシャル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "reverence（崇敬・畏敬）＋ -tial",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "感情・文語"],
+    "meaning_main": "うやうやしい・畏敬（いけい）のこもった・敬虔（けいけん）な",
+    "description": "reverential の意味・発音・例文・語源を解説。深い敬意や畏敬をもって接する「うやうやしい・畏敬のこもった・敬虔な」という様子を表す形容詞の使い方を紹介します。",
+    "keywords": ["reverential 意味", "reverential 発音", "うやうやしい", "畏敬"],
+    "meanings": [
+      { "hinshi": "【形容詞】うやうやしい・畏敬のこもった・敬虔な", "note": "深い敬意・畏敬を示す。a reverential tone（うやうやしい口調）。in reverential silence（畏敬の沈黙のうちに）。" }
+    ],
+    "usages": [
+      { "title": "① 「うやうやしい態度」として", "desc": "深い敬意を表します。", "example_en": "They spoke of him in reverential tones.", "example_ja": "彼らはうやうやしい口調で彼のことを語った。" },
+      { "title": "② 「畏敬の沈黙」として", "desc": "敬う気持ちを表します。", "example_en": "The crowd fell into a reverential silence.", "example_ja": "群衆は畏敬の沈黙に包まれた。" }
+    ],
+    "warn": [
+      "reverential は『うやうやしい・畏敬のこもった・敬虔な』。名詞 reverence（崇敬・畏敬）、動詞 revere（崇敬する）。",
+      "形容詞 reverent（うやうやしい）とほぼ同義。reverential は『敬意に満ちた様子・雰囲気』を表すことが多い。"
+    ],
+    "etym_note": "reverence（『崇敬・畏敬』、ラテン語 revereri「畏れ敬う」、re-「強意」＋ vereri「畏れる」より）＋ -tial から成り、「畏敬のこもった」を意味します。revere（崇敬する）と同じ語根です。",
+    "etym_chain": [
+      { "node": "revereri", "sub": "畏れ敬う", "era": "ラテン語" },
+      { "node": "reverence", "sub": "崇敬・畏敬", "era": "中英語" },
+      { "node": "reverential", "sub": "うやうやしい", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a reverential tone", "ja": "うやうやしい口調" },
+      { "en": "reverential silence", "ja": "畏敬の沈黙" },
+      { "en": "in reverential awe", "ja": "畏敬の念をもって" },
+      { "en": "a reverential hush", "ja": "うやうやしい静けさ" },
+      { "en": "reverential respect", "ja": "畏敬のこもった敬意" },
+      { "en": "speak reverentially", "ja": "うやうやしく語る" }
+    ],
+    "related": [
+      { "en": "reverence", "ja": "崇敬・畏敬" },
+      { "en": "revere", "ja": "崇敬する" },
+      { "en": "reverent", "ja": "うやうやしい" },
+      { "en": "irreverent", "ja": "不敬な（反対）" }
+    ],
+    "faq": [
+      { "q": "reverential とはどんな意味？", "a": "深い敬意や畏敬をもって接する『うやうやしい・畏敬のこもった・敬虔な』という形容詞です。They spoke of him in reverential tones.（うやうやしい口調で彼を語った）のように使います。名詞は reverence です。" },
+      { "q": "reverential と reverent の違いは？", "a": "ほぼ同義で『うやうやしい』ですが、reverent は『（人が）敬意を抱いている』、reverential は『（態度・雰囲気が）敬意に満ちた』を表すことが多い、という微妙な違いがあります。" }
+    ],
+    "quiz": [
+      { "q": "They spoke of him in ___ tones.（うやうやしい）", "A": "reverential", "B": "referential の参照の", "C": "preferential の優先的な", "D": "residential の住宅の", "correct": "A" },
+      { "q": "reverential の名詞形はどれ？", "A": "reverence（崇敬・畏敬）", "B": "reference（参照）", "C": "preference（好み）", "D": "residence（住居）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retaliatory",
+    "pron": "rɪˈtæliətɔːri",
+    "kana": "リタリアトリー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "retaliate（報復する）＋ -ory",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "政治・軍事"],
+    "meaning_main": "報復の・仕返しの・報復的な",
+    "description": "retaliatory の意味・発音・例文・語源を解説。攻撃や不当な扱いに対する「報復の・仕返しの・報復的な」という様子を表す、政治・軍事・貿易で使う形容詞を紹介します。",
+    "keywords": ["retaliatory 意味", "retaliatory 発音", "報復の", "retaliate 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】報復の・仕返しの・報復的な", "note": "やられたことへの仕返しとして行う。retaliatory tariffs（報復関税）。a retaliatory attack（報復攻撃）。動詞は retaliate。" }
+    ],
+    "usages": [
+      { "title": "① 「報復攻撃」として", "desc": "仕返しの攻撃を表します。", "example_en": "The army launched a retaliatory strike.", "example_ja": "軍は報復攻撃を行った。" },
+      { "title": "② 貿易「報復関税」として", "desc": "対抗措置を表します。", "example_en": "The country imposed retaliatory tariffs.", "example_ja": "その国は報復関税を課した。" }
+    ],
+    "warn": [
+      "retaliatory は『報復の・仕返しの・報復的な』。retaliate（報復する）＋ -ory。名詞 retaliation。",
+      "retaliatory tariffs / measures / strike / action（報復関税・措置・攻撃・行動）が頻出。"
+    ],
+    "etym_note": "retaliate（『報復する』、ラテン語 retaliare「同じだけ返す」、re-「返して」＋ talis「同様の」より）＋ -ory から成り、「仕返しの」を意味します。",
+    "etym_chain": [
+      { "node": "retaliare", "sub": "同じだけ返す", "era": "ラテン語" },
+      { "node": "retaliate", "sub": "報復する", "era": "近代英語" },
+      { "node": "retaliatory", "sub": "報復の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "retaliatory tariffs", "ja": "報復関税" },
+      { "en": "a retaliatory strike", "ja": "報復攻撃" },
+      { "en": "retaliatory measures", "ja": "報復措置" },
+      { "en": "retaliatory action", "ja": "報復行動" },
+      { "en": "fear of retaliatory attacks", "ja": "報復攻撃への恐れ" },
+      { "en": "a retaliatory response", "ja": "報復的な対応" }
+    ],
+    "related": [
+      { "en": "retaliate", "ja": "報復する" },
+      { "en": "retaliation", "ja": "報復" },
+      { "en": "revenge", "ja": "復讐" },
+      { "en": "reprisal", "ja": "報復・仕返し" }
+    ],
+    "faq": [
+      { "q": "retaliatory とはどんな意味？", "a": "攻撃や不当な扱いに対する『報復の・仕返しの・報復的な』という形容詞です。The army launched a retaliatory strike.（報復攻撃を行った）、retaliatory tariffs（報復関税）のように使います。動詞は retaliate です。" },
+      { "q": "retaliatory tariffs とは？", "a": "『報復関税』のことです。ある国が高い関税をかけてきたことへの対抗として、相手国の製品に課す関税を指します。貿易摩擦の文脈でよく使われます。" }
+    ],
+    "quiz": [
+      { "q": "The country imposed ___ tariffs.（報復の）", "A": "retaliatory", "B": "regulatory の規制の", "C": "preparatory の準備の", "D": "obligatory の義務的な", "correct": "A" },
+      { "q": "retaliatory の動詞形はどれ？", "A": "retaliate（報復する）", "B": "regulate（規制する）", "C": "prepare（準備する）", "D": "oblige（義務づける）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "resplendence",
+    "pron": "rɪˈsplendəns",
+    "kana": "リスプレンデンス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "resplendent（光り輝く）＋ -ence",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文語的"],
+    "meaning_main": "燦然（さんぜん）たる輝き・華麗さ・壮麗さ",
+    "description": "resplendence の意味・発音・例文・語源を解説。まばゆいばかりの「燦然たる輝き・華麗さ・壮麗さ」を表す、やや文語的な名詞の使い方と、形容詞 resplendent を紹介します。",
+    "keywords": ["resplendence 意味", "resplendence 発音", "輝き", "華麗さ"],
+    "meanings": [
+      { "hinshi": "【名詞】燦然たる輝き・華麗さ・壮麗さ", "note": "まばゆく光り輝く美しさ・豪華さ。the resplendence of the palace（宮殿の壮麗さ）。形容詞は resplendent。" }
+    ],
+    "usages": [
+      { "title": "① 「壮麗さ」として", "desc": "豪華で輝かしい様子を表します。", "example_en": "The hall dazzled visitors with its resplendence.", "example_ja": "その広間は壮麗さで来訪者を魅了した。" },
+      { "title": "② 「燦然たる輝き」として", "desc": "まばゆい美しさを表します。", "example_en": "The sunset was a vision of resplendence.", "example_ja": "その夕日は燦然たる輝きの光景だった。" }
+    ],
+    "warn": [
+      "resplendence は『燦然たる輝き・華麗さ・壮麗さ』。形容詞 resplendent（光り輝く・華麗な）＋ -ence。やや文語的。",
+      "in resplendent ～（華麗な〜を身にまとって）のように形容詞 resplendent も覚えると便利。"
+    ],
+    "etym_note": "resplendent（『光り輝く』、ラテン語 resplendere「輝き返す」、re-「強意」＋ splendere「輝く」より）＋ -ence から成り、「燦然たる輝き」を意味します。splendid（見事な）, splendor（壮麗）と同じ語根です。",
+    "etym_chain": [
+      { "node": "resplendere", "sub": "輝き返す", "era": "ラテン語" },
+      { "node": "resplendent", "sub": "光り輝く", "era": "中英語" },
+      { "node": "resplendence", "sub": "燦然たる輝き", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the resplendence of the palace", "ja": "宮殿の壮麗さ" },
+      { "en": "dazzling resplendence", "ja": "まばゆい輝き" },
+      { "en": "in all its resplendence", "ja": "そのすべての華麗さで" },
+      { "en": "the resplendence of the jewels", "ja": "宝石の燦然たる輝き" },
+      { "en": "royal resplendence", "ja": "王者の壮麗さ" },
+      { "en": "a vision of resplendence", "ja": "燦然たる輝きの光景" }
+    ],
+    "related": [
+      { "en": "resplendent", "ja": "光り輝く・華麗な" },
+      { "en": "splendor", "ja": "壮麗・華麗" },
+      { "en": "brilliance", "ja": "輝き・才気" },
+      { "en": "magnificence", "ja": "壮大さ・豪華さ" }
+    ],
+    "faq": [
+      { "q": "resplendence とはどんな意味？", "a": "まばゆいばかりの『燦然たる輝き・華麗さ・壮麗さ』を表す、やや文語的な名詞です。The hall dazzled visitors with its resplendence.（その広間は壮麗さで来訪者を魅了した）のように使います。形容詞は resplendent です。" },
+      { "q": "resplendent とはどんな意味？", "a": "resplendence のもとになる形容詞で、『光り輝く・華麗な・燦然とした』という意味です。resplendent in a golden gown（金色のドレスで華麗に装って）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The hall dazzled visitors with its ___.（壮麗さ）", "A": "resplendence", "B": "residence の住居", "C": "reference の参照", "D": "reluctance のためらい", "correct": "A" },
+      { "q": "resplendence の形容詞形はどれ？", "A": "resplendent（光り輝く）", "B": "resident（居住の）", "C": "reluctant（気が進まない）", "D": "relevant（関連する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rhapsodic",
+    "pron": "ræpˈsɒdɪk",
+    "kana": "ラプソディック",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "rhapsody（狂詩曲・熱狂的賛辞）＋ -ic",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文語的"],
+    "meaning_main": "熱狂的に絶賛する・うっとりした・狂詩曲風の",
+    "description": "rhapsodic の意味・発音・例文・語源を解説。あふれる感激で「熱狂的に絶賛する・うっとりした」という様子や、音楽の「狂詩曲風の」を表す形容詞の使い方を紹介します。",
+    "keywords": ["rhapsodic 意味", "rhapsodic 発音", "熱狂的な絶賛", "狂詩曲"],
+    "meanings": [
+      { "hinshi": "【形容詞】熱狂的に絶賛する・うっとりした・感きわまった", "note": "あふれる感激で語る・ほめる。a rhapsodic review（絶賛の批評）。" },
+      { "hinshi": "【形容詞】(音楽)狂詩曲（ラプソディー）風の", "note": "自由で情熱的な形式の。" }
+    ],
+    "usages": [
+      { "title": "① 「熱狂的に絶賛する」として", "desc": "感激にあふれた様子を表します。", "example_en": "Critics were rhapsodic about the new film.", "example_ja": "批評家たちはその新作を熱狂的に絶賛した。" },
+      { "title": "② 「うっとりした」として", "desc": "感きわまった様子を表します。", "example_en": "She grew rhapsodic describing the sunset.", "example_ja": "彼女は夕日を語るうちにうっとりとなった。" }
+    ],
+    "warn": [
+      "rhapsodic は『熱狂的に絶賛する・うっとりした』『（音楽が）狂詩曲風の』。名詞 rhapsody（狂詩曲・熱狂的賛辞）＋ -ic。つづり rh- に注意。",
+      "be rhapsodic about ～（〜を絶賛する）が頻出。"
+    ],
+    "etym_note": "rhapsody（『狂詩曲・熱狂的な賛辞』、ギリシャ語 rhapsoidia「叙事詩の朗唱」、rhaptein「縫い合わせる」＋ oide「歌」より）＋ -ic から成り、「熱狂的に語る」を意味します。",
+    "etym_chain": [
+      { "node": "rhapsoidia", "sub": "叙事詩の朗唱", "era": "ギリシャ語" },
+      { "node": "rhapsody", "sub": "狂詩曲・賛辞", "era": "近代英語" },
+      { "node": "rhapsodic", "sub": "熱狂的に絶賛する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be rhapsodic about", "ja": "〜を熱狂的に絶賛する" },
+      { "en": "a rhapsodic review", "ja": "絶賛の批評" },
+      { "en": "rhapsodic praise", "ja": "熱狂的な賛辞" },
+      { "en": "grow rhapsodic", "ja": "感きわまる" },
+      { "en": "in rhapsodic terms", "ja": "絶賛の言葉で" },
+      { "en": "a rhapsodic melody", "ja": "狂詩曲風の旋律" }
+    ],
+    "related": [
+      { "en": "rhapsody", "ja": "狂詩曲・熱狂的賛辞" },
+      { "en": "ecstatic", "ja": "有頂天の・狂喜した" },
+      { "en": "effusive", "ja": "あふれんばかりの・大げさな" },
+      { "en": "rapturous", "ja": "熱狂的な・うっとりした" }
+    ],
+    "faq": [
+      { "q": "rhapsodic とはどんな意味？", "a": "あふれる感激で『熱狂的に絶賛する・うっとりした・感きわまった』という様子や、音楽の『狂詩曲（ラプソディー）風の』を表す形容詞です。Critics were rhapsodic about the new film.（批評家が新作を熱狂的に絶賛した）のように使います。" },
+      { "q": "rhapsody とはどんな意味？", "a": "rhapsodic のもとになる名詞で、音楽の『狂詩曲（自由で情熱的な曲）』、また『熱狂的な賛辞・歓喜の表現』という意味があります。『ボヘミアン・ラプソディ』の rhapsody です。" }
+    ],
+    "quiz": [
+      { "q": "Critics were ___ about the new film.（熱狂的に絶賛する）", "A": "rhapsodic", "B": "periodic の周期的な", "C": "melodic の旋律的な", "D": "sporadic の散発的な", "correct": "A" },
+      { "q": "rhapsodic の名詞形はどれ？", "A": "rhapsody（狂詩曲・熱狂的賛辞）", "B": "melody（旋律）", "C": "comedy（喜劇）", "D": "remedy（治療）", "correct": "A" }
+    ]
+  }
+]
