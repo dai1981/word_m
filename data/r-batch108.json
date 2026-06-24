@@ -1,0 +1,527 @@
+[
+  {
+    "english": "racehorse",
+    "pron": "ˈreɪshɔːrs",
+    "kana": "レースホース",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "race（競走）＋ horse（馬）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "動物・スポーツ"],
+    "meaning_main": "競走馬（レースのために飼育・調教される馬）",
+    "description": "racehorse の意味・発音・例文・語源を解説。競馬のレースのために育てられ調教される馬「競走馬」を表す名詞の使い方を分かりやすく紹介します。",
+    "keywords": ["racehorse 意味", "racehorse 発音", "競走馬", "競馬"],
+    "meanings": [
+      { "hinshi": "【名詞】競走馬", "note": "競馬のレースのために飼育・調教される馬。多くサラブレッド。a champion racehorse（チャンピオン競走馬）。" }
+    ],
+    "usages": [
+      { "title": "① 動物としての「競走馬」", "desc": "レース用の馬を表します。", "example_en": "The racehorse won by three lengths.", "example_ja": "その競走馬は3馬身差で勝った。" },
+      { "title": "② たとえとして", "desc": "速さの比喩にも使います。", "example_en": "He's as fast as a racehorse.", "example_ja": "彼は競走馬のように速い。" }
+    ],
+    "warn": [
+      "racehorse は『競走馬』。race（競走）＋ horse（馬）。1語で書く。",
+      "競走馬の多くは品種 Thoroughbred（サラブレッド）。"
+    ],
+    "etym_note": "race（競走、古ノルド語 rás「走り」より）＋ horse（馬、古英語 hors より）から成る複合語で、「競走のための馬」を意味します。",
+    "etym_chain": [
+      { "node": "rás + hors", "sub": "走り＋馬", "era": "古ノルド語・古英語" },
+      { "node": "race horse", "sub": "競走の馬", "era": "近代英語" },
+      { "node": "racehorse", "sub": "競走馬", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a champion racehorse", "ja": "チャンピオン競走馬" },
+      { "en": "train a racehorse", "ja": "競走馬を調教する" },
+      { "en": "a thoroughbred racehorse", "ja": "サラブレッドの競走馬" },
+      { "en": "the racehorse won the race", "ja": "その競走馬がレースに勝った" },
+      { "en": "a retired racehorse", "ja": "引退した競走馬" },
+      { "en": "bet on a racehorse", "ja": "競走馬に賭ける" }
+    ],
+    "related": [
+      { "en": "horse", "ja": "馬" },
+      { "en": "thoroughbred", "ja": "サラブレッド" },
+      { "en": "jockey", "ja": "騎手" },
+      { "en": "racetrack", "ja": "競馬場" }
+    ],
+    "faq": [
+      { "q": "racehorse とはどんな意味？", "a": "競馬のレースのために飼育・調教される馬『競走馬』のことです。The racehorse won by three lengths.（その競走馬は3馬身差で勝った）のように使います。" },
+      { "q": "racehorse はどんな品種が多い？", "a": "多くは Thoroughbred（サラブレッド）という、スピードと持久力に優れた品種です。競馬のために改良された馬の代表です。" }
+    ],
+    "quiz": [
+      { "q": "The ___ won by three lengths.（競走馬）", "A": "racehorse", "B": "seahorse のタツノオトシゴ", "C": "racetrack の競馬場", "D": "warehouse の倉庫", "correct": "A" },
+      { "q": "racehorse を構成する2語はどれ？", "A": "race（競走）＋ horse（馬）", "B": "rice（米）＋ horse", "C": "race ＋ house（家）", "D": "rack（棚）＋ horse", "correct": "A" }
+    ]
+  },
+  {
+    "english": "railing",
+    "pron": "ˈreɪlɪŋ",
+    "kana": "レイリング",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rail（横棒・手すり）＋ -ing",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "日常・建築"],
+    "meaning_main": "手すり・柵（さく）（階段やバルコニーなどの）",
+    "description": "railing の意味・発音・例文・語源を解説。階段・バルコニー・橋などにある「手すり・柵」を表す名詞の使い方を分かりやすく紹介します。",
+    "keywords": ["railing 意味", "railing 発音", "手すり", "柵"],
+    "meanings": [
+      { "hinshi": "【名詞】手すり・柵（さく）", "note": "階段・橋・バルコニーなどに取り付けた、つかまったり落下を防いだりする横棒や柵。hold the railing（手すりにつかまる）。複数 railings とも。" }
+    ],
+    "usages": [
+      { "title": "① 「手すり」として", "desc": "つかまるための横棒を表します。", "example_en": "Hold on to the railing as you go down.", "example_ja": "降りるときは手すりにつかまりなさい。" },
+      { "title": "② 「柵」として", "desc": "落下や立ち入りを防ぐ柵を表します。", "example_en": "She leaned against the balcony railing.", "example_ja": "彼女はバルコニーの柵にもたれた。" }
+    ],
+    "warn": [
+      "railing は『手すり・柵』。rail（横棒・手すり・レール）＋ -ing。複数 railings（鉄柵など）でも使う。",
+      "handrail（手すり）はつかまる横棒に特化。railing は柵全体も指せる。"
+    ],
+    "etym_note": "rail（『横棒・手すり』、古フランス語 reille「棒」より）＋ -ing（名詞をつくる語尾）から成り、「横棒で作った仕切り・手すり」を意味します。rail（レール）と同じ語根です。",
+    "etym_chain": [
+      { "node": "reille", "sub": "棒", "era": "古フランス語" },
+      { "node": "rail", "sub": "横棒・手すり", "era": "中英語" },
+      { "node": "railing", "sub": "手すり・柵", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "hold the railing", "ja": "手すりにつかまる" },
+      { "en": "a stair railing", "ja": "階段の手すり" },
+      { "en": "a balcony railing", "ja": "バルコニーの柵" },
+      { "en": "lean on the railing", "ja": "手すりにもたれる" },
+      { "en": "an iron railing", "ja": "鉄の柵" },
+      { "en": "grip the railing", "ja": "手すりを握る" }
+    ],
+    "related": [
+      { "en": "rail", "ja": "横棒・手すり・レール" },
+      { "en": "handrail", "ja": "手すり" },
+      { "en": "banister", "ja": "（階段の）手すり" },
+      { "en": "fence", "ja": "柵・フェンス" }
+    ],
+    "faq": [
+      { "q": "railing とはどんな意味？", "a": "階段・橋・バルコニーなどにある『手すり・柵』のことです。Hold on to the railing as you go down.（降りるときは手すりにつかまりなさい）のように使います。" },
+      { "q": "railing と handrail の違いは？", "a": "handrail は『（手でつかまる）手すりの横棒』に特化、railing は『手すり』だけでなく『落下や立ち入りを防ぐ柵全体』も指せる、より広い語です。" }
+    ],
+    "quiz": [
+      { "q": "Hold on to the ___ as you go down.（手すり）", "A": "railing", "B": "ceiling の天井", "C": "feeling の感情", "D": "railway の鉄道", "correct": "A" },
+      { "q": "railing のもとになった語 rail の意味でないものは？", "A": "感情", "B": "横棒", "C": "手すり", "D": "レール", "correct": "A" }
+    ]
+  },
+  {
+    "english": "randomly",
+    "pron": "ˈrændəmli",
+    "kana": "ランダムリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "random（無作為の）＋ -ly",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "頻出語"],
+    "meaning_main": "無作為に・手当たり次第に・でたらめに",
+    "description": "randomly の意味・発音・例文・語源を解説。決まった順序や規則なしに「無作為に・手当たり次第に・でたらめに」という様子を表す副詞の使い方を紹介します。",
+    "keywords": ["randomly 意味", "randomly 発音", "無作為に", "ランダムに"],
+    "meanings": [
+      { "hinshi": "【副詞】無作為に・手当たり次第に・でたらめに", "note": "決まった順序・規則なしに。選ぶ・並ぶ・起こることに使う。chosen randomly（無作為に選ばれた）。" }
+    ],
+    "usages": [
+      { "title": "① 「無作為に」として", "desc": "規則なく選ぶことを表します。", "example_en": "The winners were chosen randomly.", "example_ja": "当選者は無作為に選ばれた。" },
+      { "title": "② 「手当たり次第に」として", "desc": "順序なく起こる様子を表します。", "example_en": "The names were listed randomly.", "example_ja": "名前は順不同で並べられた。" }
+    ],
+    "warn": [
+      "randomly は『無作為に・手当たり次第に・でたらめに』。形容詞 random（無作為の）＋ -ly。名詞は randomness（無作為性）。",
+      "口語では『脈絡なく・唐突に』の意味でも使う（She randomly started singing.）。"
+    ],
+    "etym_note": "random（『無作為の』、古フランス語 randon「勢い・無計画な走り」より）＋ -ly から成り、「規則なく・行き当たりばったりに」を意味します。",
+    "etym_chain": [
+      { "node": "randon", "sub": "勢い・無計画な走り", "era": "古フランス語" },
+      { "node": "random", "sub": "無作為の", "era": "近代英語" },
+      { "node": "randomly", "sub": "無作為に", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "chosen randomly", "ja": "無作為に選ばれた" },
+      { "en": "selected randomly", "ja": "ランダムに選ばれた" },
+      { "en": "randomly assigned", "ja": "無作為に割り当てられた" },
+      { "en": "scattered randomly", "ja": "ばらばらに散らばって" },
+      { "en": "occur randomly", "ja": "無作為に起こる" },
+      { "en": "randomly generated", "ja": "ランダムに生成された" }
+    ],
+    "related": [
+      { "en": "random", "ja": "無作為の" },
+      { "en": "randomness", "ja": "無作為性" },
+      { "en": "arbitrarily", "ja": "恣意的に・任意に" },
+      { "en": "systematically", "ja": "体系的に（反対）" }
+    ],
+    "faq": [
+      { "q": "randomly とはどんな意味？", "a": "決まった順序や規則なしに『無作為に・手当たり次第に・でたらめに』という意味です。The winners were chosen randomly.（当選者は無作為に選ばれた）のように使います。" },
+      { "q": "randomly は口語でどう使う？", "a": "口語では『脈絡なく・唐突に』という意味でも使います。She randomly started singing.（彼女は唐突に歌い出した）のように、思いがけない出来事を表すことがあります。" }
+    ],
+    "quiz": [
+      { "q": "The winners were chosen ___.（無作為に）", "A": "randomly", "B": "rarely のめったに〜ない", "C": "rapidly の急速に", "D": "readily の快く", "correct": "A" },
+      { "q": "randomly の形容詞形はどれ？", "A": "random（無作為の）", "B": "rapid（速い）", "C": "rare（まれな）", "D": "ready（準備ができた）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "readily",
+    "pron": "ˈredɪli",
+    "kana": "レディリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "ready（準備ができた・進んでする）＋ -ly",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "快く・進んで／容易に・たやすく",
+    "description": "readily の意味・発音・例文・語源を解説。「快く・進んで」という意味と「容易に・たやすく」という意味を持つ副詞の使い方を分かりやすく紹介します。",
+    "keywords": ["readily 意味", "readily 発音", "快く", "容易に"],
+    "meanings": [
+      { "hinshi": "【副詞】快く・進んで・すぐに", "note": "いやがらずに、ためらいなく。readily agree（快く同意する）。" },
+      { "hinshi": "【副詞】容易に・たやすく・難なく", "note": "簡単に。readily available（容易に手に入る）。" }
+    ],
+    "usages": [
+      { "title": "① 「快く・進んで」として", "desc": "ためらわずに応じることを表します。", "example_en": "She readily agreed to help.", "example_ja": "彼女は快く手伝いに同意した。" },
+      { "title": "② 「容易に」として", "desc": "難なくできることを表します。", "example_en": "The information is readily available online.", "example_ja": "その情報はネットで容易に手に入る。" }
+    ],
+    "warn": [
+      "readily は『快く・進んで』と『容易に・たやすく』の二つの使い方。readily available（容易に入手できる）が頻出。",
+      "ready（準備ができた）＋ -ly。発音は『レディリー』。"
+    ],
+    "etym_note": "ready（『準備ができた・進んでする』、古英語 rǣde「整った」より）＋ -ly から成り、「すぐに・進んで・たやすく」を意味します。",
+    "etym_chain": [
+      { "node": "rǣde", "sub": "整った", "era": "古英語" },
+      { "node": "ready", "sub": "準備ができた", "era": "中英語" },
+      { "node": "readily", "sub": "快く・容易に", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "readily available", "ja": "容易に手に入る" },
+      { "en": "readily agree", "ja": "快く同意する" },
+      { "en": "readily admit", "ja": "あっさり認める" },
+      { "en": "readily accessible", "ja": "容易に利用できる" },
+      { "en": "not readily apparent", "ja": "すぐには分からない" },
+      { "en": "readily accept", "ja": "進んで受け入れる" }
+    ],
+    "related": [
+      { "en": "ready", "ja": "準備ができた・進んでする" },
+      { "en": "willingly", "ja": "快く・進んで" },
+      { "en": "easily", "ja": "容易に" },
+      { "en": "reluctantly", "ja": "いやいや（反対）" }
+    ],
+    "faq": [
+      { "q": "readily とはどんな意味？", "a": "『快く・進んで・すぐに』という意味と、『容易に・たやすく』という意味があります。She readily agreed to help.（快く手伝いに同意した）、readily available（容易に手に入る）のように使います。" },
+      { "q": "readily available とはどんな意味？", "a": "『容易に手に入る・すぐ利用できる』という意味です。The information is readily available online.（その情報はネットで容易に手に入る）のように、入手のしやすさを表す決まった言い方です。" }
+    ],
+    "quiz": [
+      { "q": "The information is ___ available online.（容易に）", "A": "readily", "B": "rarely のめったに〜ない", "C": "recently の最近", "D": "really の本当に", "correct": "A" },
+      { "q": "readily の二つの意味の組み合わせはどれ？", "A": "快く／容易に", "B": "速く／遅く", "C": "高く／安く", "D": "まれに／いつも", "correct": "A" }
+    ]
+  },
+  {
+    "english": "readjust",
+    "pron": "ˌriːəˈdʒʌst",
+    "kana": "リアジャスト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ adjust（調整する・順応する）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "日常"],
+    "meaning_main": "調整し直す・直し直す／（環境に）再び順応する",
+    "description": "readjust の意味・発音・例文・語源を解説。設定や位置を「調整し直す」、また新しい環境に「再び順応する」という、日常で使う動詞を分かりやすく紹介します。",
+    "keywords": ["readjust 意味", "readjust 発音", "調整し直す", "adjust 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】調整し直す・直し直す", "note": "ずれたものを再び合わせる。readjust the mirror（ミラーを調整し直す）。" },
+      { "hinshi": "【動詞】（環境・状況に）再び順応する・適応し直す", "note": "readjust to life at home（家での生活に再び慣れる）。名詞は readjustment。" }
+    ],
+    "usages": [
+      { "title": "① 「調整し直す」として", "desc": "ずれたものを合わせ直すことを表します。", "example_en": "He readjusted his seat before driving.", "example_ja": "彼は運転前に座席を調整し直した。" },
+      { "title": "② 「再び順応する」として", "desc": "新しい状況に慣れ直すことを表します。", "example_en": "It took time to readjust to civilian life.", "example_ja": "市民生活に再び順応するのに時間がかかった。" }
+    ],
+    "warn": [
+      "readjust は『調整し直す』『（環境に）再び順応する』。re-（再び）＋ adjust。名詞は readjustment。",
+      "readjust to ～（～に再び順応する）の形が多い。"
+    ],
+    "etym_note": "re-（再び）＋ adjust（調整する・合わせる、古フランス語 ajuster「合わせる」より）から成り、「再び合わせること・順応すること」を意味します。just（ちょうど）と関連します。",
+    "etym_chain": [
+      { "node": "ajuster", "sub": "合わせる", "era": "古フランス語" },
+      { "node": "adjust", "sub": "調整する・順応する", "era": "近代英語" },
+      { "node": "readjust", "sub": "調整し直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "readjust the seat", "ja": "座席を調整し直す" },
+      { "en": "readjust the settings", "ja": "設定を直し直す" },
+      { "en": "readjust the mirror", "ja": "ミラーを調整し直す" },
+      { "en": "readjust to life", "ja": "生活に再び順応する" },
+      { "en": "readjust one's plans", "ja": "計画を立て直す" },
+      { "en": "a period of readjustment", "ja": "再順応の時期" }
+    ],
+    "related": [
+      { "en": "adjust", "ja": "調整する・順応する" },
+      { "en": "readapt", "ja": "再び適応する" },
+      { "en": "recalibrate", "ja": "較正し直す" },
+      { "en": "readjustment", "ja": "再調整・再順応" }
+    ],
+    "faq": [
+      { "q": "readjust とはどんな意味？", "a": "設定や位置を『調整し直す』、また新しい環境に『再び順応する』という意味です。He readjusted his seat.（座席を調整し直した）、readjust to civilian life（市民生活に再び慣れる）のように使います。" },
+      { "q": "readjust to の使い方は？", "a": "『～に再び順応する・慣れ直す』という意味で、to のあとに環境や状況を置きます。readjust to working in an office（オフィス勤務に再び慣れる）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "It took time to ___ to civilian life.（再び順応する）", "A": "readjust", "B": "adjust の最初に順応する", "C": "adjoin ではなく adjoin の隣接する", "D": "adopt の採用する", "correct": "A" },
+      { "q": "readjust の名詞形はどれ？", "A": "readjustment（再調整・再順応）", "B": "adjustment の最初の調整だけ", "C": "adoption（採用）", "D": "addition（追加）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "receptor",
+    "pron": "rɪˈseptər",
+    "kana": "リセプター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 receptor（受け取る者）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "理科・生物"],
+    "meaning_main": "受容体・受容器（刺激や物質を受け取る細胞・部位）",
+    "description": "receptor の意味・発音・例文・語源を解説。光・音・におい・薬などの刺激や物質を受け取る細胞や部位「受容体・受容器」を表す、生物・医学で使う名詞を紹介します。",
+    "keywords": ["receptor 意味", "receptor 発音", "受容体", "受容器"],
+    "meanings": [
+      { "hinshi": "【名詞】受容体・受容器", "note": "刺激（光・音・におい）や特定の物質（ホルモン・薬など）を受け取り、反応を起こす細胞・部位。pain receptors（痛覚受容器）。" }
+    ],
+    "usages": [
+      { "title": "① 感覚の「受容器」として", "desc": "刺激を受け取る部位を表します。", "example_en": "Pain receptors send signals to the brain.", "example_ja": "痛覚受容器は脳に信号を送る。" },
+      { "title": "② 薬の「受容体」として", "desc": "物質が結合する部位を表します。", "example_en": "The drug binds to receptors in the brain.", "example_ja": "その薬は脳の受容体に結合する。" }
+    ],
+    "warn": [
+      "receptor は『受容体・受容器』（刺激や物質を受け取る細胞・部位）。生物・薬学で頻出。",
+      "受け取る（receive）側で、信号を送るのは別。receiver（受信機）とは別語。"
+    ],
+    "etym_note": "ラテン語 receptor（『受け取る者』、recipere「受け取る」より）に由来し、「（刺激・物質を）受け取るもの」を意味します。receive（受け取る）, reception（受付）と同じ語根です。",
+    "etym_chain": [
+      { "node": "recipere", "sub": "受け取る", "era": "ラテン語" },
+      { "node": "receptor", "sub": "受け取る者", "era": "ラテン語" },
+      { "node": "receptor", "sub": "受容体・受容器", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "pain receptors", "ja": "痛覚受容器" },
+      { "en": "a cell receptor", "ja": "細胞の受容体" },
+      { "en": "bind to a receptor", "ja": "受容体に結合する" },
+      { "en": "sensory receptors", "ja": "感覚受容器" },
+      { "en": "a receptor site", "ja": "受容体部位" },
+      { "en": "block the receptor", "ja": "受容体を遮断する" }
+    ],
+    "related": [
+      { "en": "receive", "ja": "受け取る" },
+      { "en": "sensor", "ja": "センサー・感知器" },
+      { "en": "neuron", "ja": "神経細胞" },
+      { "en": "hormone", "ja": "ホルモン" }
+    ],
+    "faq": [
+      { "q": "receptor とはどんな意味？", "a": "光・音・におい・薬などの刺激や物質を受け取り、反応を起こす細胞や部位『受容体・受容器』のことです。Pain receptors send signals to the brain.（痛覚受容器は脳に信号を送る）のように使います。" },
+      { "q": "receptor と sensor の違いは？", "a": "receptor は『（体内の）刺激や物質を受け取る細胞・部位』という生物学の語、sensor は『（機械の）変化を感知する装置』を指します。どちらも『受け取る・感知する』点は共通です。" }
+    ],
+    "quiz": [
+      { "q": "Pain ___s send signals to the brain.（受容器）", "A": "receptor", "B": "reception の受付", "C": "receipt の領収書", "D": "recipient の受取人", "correct": "A" },
+      { "q": "receptor のもとになった語根の意味は？", "A": "受け取る（receive）", "B": "送る", "C": "壊す", "D": "数える", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recyclable",
+    "pron": "ˌriːˈsaɪkləbl",
+    "kana": "リサイクラブル",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "recycle（再生利用する）＋ -able（できる）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "環境"],
+    "meaning_main": "再生利用できる・リサイクル可能な／（複数で）再生資源",
+    "description": "recyclable の意味・発音・例文・語源を解説。びんや紙などが「再生利用できる・リサイクル可能な」という形容詞、また「再生資源」という名詞の使い方を紹介します。",
+    "keywords": ["recyclable 意味", "recyclable 発音", "リサイクル可能", "recycle 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】再生利用できる・リサイクル可能な", "note": "再び資源として使える。recyclable materials（再生可能な材料）。" },
+      { "hinshi": "【名詞】(ふつう複数 recyclables)再生資源・リサイクルできるもの", "note": "Sort the recyclables.（再生資源を分別する）。" }
+    ],
+    "usages": [
+      { "title": "① 形容詞「リサイクル可能な」として", "desc": "再び使える材料を表します。", "example_en": "This bottle is fully recyclable.", "example_ja": "このびんは完全にリサイクルできる。" },
+      { "title": "② 名詞「再生資源」として", "desc": "分別する資源を表します。", "example_en": "Please separate the recyclables from the trash.", "example_ja": "再生資源をごみと分けてください。" }
+    ],
+    "warn": [
+      "recyclable は形容詞『リサイクル可能な』、名詞（複数 recyclables）『再生資源』。recycle（再生利用する）＋ -able。",
+      "反対は non-recyclable（リサイクルできない）。"
+    ],
+    "etym_note": "recycle（re-「再び」＋ cycle「循環」）＋ -able（できる）から成り、「再び循環させて使える」を意味します。cycle（循環）, bicycle（自転車）と同じ語根です。",
+    "etym_chain": [
+      { "node": "cycle", "sub": "循環", "era": "近代英語" },
+      { "node": "recycle", "sub": "再生利用する", "era": "20世紀英語" },
+      { "node": "recyclable", "sub": "リサイクル可能な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "recyclable materials", "ja": "再生可能な材料" },
+      { "en": "fully recyclable", "ja": "完全にリサイクルできる" },
+      { "en": "recyclable packaging", "ja": "リサイクル可能な包装" },
+      { "en": "sort the recyclables", "ja": "再生資源を分別する" },
+      { "en": "100% recyclable", "ja": "100％リサイクル可能" },
+      { "en": "non-recyclable waste", "ja": "リサイクルできないごみ" }
+    ],
+    "related": [
+      { "en": "recycle", "ja": "再生利用する" },
+      { "en": "reusable", "ja": "再使用できる" },
+      { "en": "biodegradable", "ja": "生分解性の" },
+      { "en": "sustainable", "ja": "持続可能な" }
+    ],
+    "faq": [
+      { "q": "recyclable とはどんな意味？", "a": "びんや紙などが『再生利用できる・リサイクル可能な』という形容詞です。This bottle is fully recyclable.（このびんは完全にリサイクルできる）のように使います。複数形 recyclables で『再生資源』という名詞にもなります。" },
+      { "q": "recyclable と reusable の違いは？", "a": "recyclable は『（加工して）再び資源にできる』、reusable は『（そのまま）何度も使える』です。リサイクル可能な紙 vs くり返し使えるマイバッグ、のような違いです。" }
+    ],
+    "quiz": [
+      { "q": "This bottle is fully ___.（リサイクルできる）", "A": "recyclable", "B": "reliable の信頼できる", "C": "readable の読みやすい", "D": "removable の取り外せる", "correct": "A" },
+      { "q": "recyclable のもとになった動詞はどれ？", "A": "recycle（再生利用する）", "B": "rely（頼る）", "C": "read（読む）", "D": "remove（取り除く）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "redden",
+    "pron": "ˈredn",
+    "kana": "レドゥン",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "red（赤い）＋ -en（〜にする・〜になる）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "日常"],
+    "meaning_main": "赤くなる・赤らむ／赤くする",
+    "description": "redden の意味・発音・例文・語源を解説。顔や空が「赤くなる・赤らむ」、また何かを「赤くする」という、自動詞・他動詞両方の使い方を分かりやすく紹介します。",
+    "keywords": ["redden 意味", "redden 発音", "赤くなる", "赤らむ"],
+    "meanings": [
+      { "hinshi": "【動詞】赤くなる・赤らむ", "note": "顔・肌・空などが赤みを帯びる。redden with embarrassment（恥ずかしくて赤面する）。" },
+      { "hinshi": "【動詞】赤くする・赤らめる", "note": "他動詞で、何かを赤く染める。" }
+    ],
+    "usages": [
+      { "title": "① 「赤らむ」として", "desc": "顔などが赤くなることを表します。", "example_en": "Her cheeks reddened with embarrassment.", "example_ja": "彼女のほおは恥ずかしさで赤らんだ。" },
+      { "title": "② 「赤くする」として", "desc": "何かを赤く染めることを表します。", "example_en": "The setting sun reddened the sky.", "example_ja": "沈む夕日が空を赤く染めた。" }
+    ],
+    "warn": [
+      "redden は『赤くなる・赤らむ』（自動詞）と『赤くする』（他動詞）の両方。red（赤い）＋ -en。",
+      "-en は形容詞を動詞にする語尾（widen 広げる, darken 暗くする など）。"
+    ],
+    "etym_note": "red（『赤い』、古英語 rēad より）＋ -en（『〜にする・〜になる』を表す語尾）から成り、「赤くなる・赤くする」を意味します。",
+    "etym_chain": [
+      { "node": "rēad", "sub": "赤い", "era": "古英語" },
+      { "node": "red", "sub": "赤い", "era": "中英語" },
+      { "node": "redden", "sub": "赤くなる・赤くする", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "redden with embarrassment", "ja": "恥ずかしくて赤面する" },
+      { "en": "her face reddened", "ja": "彼女の顔が赤らんだ" },
+      { "en": "redden with anger", "ja": "怒りで赤くなる" },
+      { "en": "cheeks reddened", "ja": "ほおが赤らんだ" },
+      { "en": "redden the sky", "ja": "空を赤く染める" },
+      { "en": "eyes reddened from crying", "ja": "泣いて目が赤くなった" }
+    ],
+    "related": [
+      { "en": "red", "ja": "赤い" },
+      { "en": "blush", "ja": "赤面する" },
+      { "en": "flush", "ja": "（顔が）ぱっと赤くなる" },
+      { "en": "darken", "ja": "暗くなる・暗くする" }
+    ],
+    "faq": [
+      { "q": "redden とはどんな意味？", "a": "顔や空が『赤くなる・赤らむ』（自動詞）、また何かを『赤くする』（他動詞）という意味です。Her cheeks reddened with embarrassment.（ほおが恥ずかしさで赤らんだ）のように使います。" },
+      { "q": "redden と blush の違いは？", "a": "blush は『（恥ずかしさ・照れで）赤面する』に特化、redden は恥ずかしさ・怒り・夕日など『さまざまな理由で赤くなる／赤くする』を広く表します。" }
+    ],
+    "quiz": [
+      { "q": "Her cheeks ___ed with embarrassment.（赤らんだ）", "A": "redden", "B": "ridden の乗られた", "C": "sadden の悲しませる", "D": "harden の固くする", "correct": "A" },
+      { "q": "redden の -en と同じ働きの語はどれ？", "A": "darken（暗くする）", "B": "often（しばしば）", "C": "kitchen（台所）", "D": "golden（金色の）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "redevelop",
+    "pron": "ˌriːdɪˈveləp",
+    "kana": "リディベロップ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ develop（開発する・発展させる）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "都市・ビジネス"],
+    "meaning_main": "再開発する・作り直す（土地・地域・製品などを）",
+    "description": "redevelop の意味・発音・例文・語源を解説。古くなった土地・地域を「再開発する」、また製品などを「作り直す」という、都市計画やビジネスで使う語を紹介します。",
+    "keywords": ["redevelop 意味", "redevelop 発音", "再開発する", "develop 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（土地・地域を）再開発する", "note": "古い区域を取り壊して新しく作り直す。redevelop the waterfront（ウォーターフロントを再開発する）。名詞は redevelopment。" },
+      { "hinshi": "【動詞】（製品・計画を）作り直す・改めて発展させる", "note": "一度作ったものを改良して作り直す。" }
+    ],
+    "usages": [
+      { "title": "① 地域の「再開発」として", "desc": "古い区域を作り直すことを表します。", "example_en": "The city plans to redevelop the old harbor area.", "example_ja": "市は古い港湾地区を再開発する計画だ。" },
+      { "title": "② 製品の「作り直し」として", "desc": "改めて発展させることを表します。", "example_en": "They redeveloped the software from scratch.", "example_ja": "彼らはそのソフトを一から作り直した。" }
+    ],
+    "warn": [
+      "redevelop は『（土地・地域を）再開発する』が中心。re-（再び）＋ develop。名詞は redevelopment（再開発）。",
+      "都市の urban redevelopment（都市再開発）が頻出。"
+    ],
+    "etym_note": "re-（再び）＋ develop（開発する・発展させる、古フランス語 desveloper「包みを開く」より）から成り、「再び開発・発展させること」を意味します。envelope（封筒）と関連します。",
+    "etym_chain": [
+      { "node": "desveloper", "sub": "包みを開く", "era": "古フランス語" },
+      { "node": "develop", "sub": "開発する・発展させる", "era": "近代英語" },
+      { "node": "redevelop", "sub": "再開発する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "redevelop the waterfront", "ja": "ウォーターフロントを再開発する" },
+      { "en": "redevelop the area", "ja": "その地区を再開発する" },
+      { "en": "redevelop the site", "ja": "その用地を作り直す" },
+      { "en": "redevelop the city center", "ja": "中心街を再開発する" },
+      { "en": "an urban redevelopment", "ja": "都市再開発" },
+      { "en": "a redevelopment project", "ja": "再開発計画" }
+    ],
+    "related": [
+      { "en": "develop", "ja": "開発する・発展させる" },
+      { "en": "redevelopment", "ja": "再開発" },
+      { "en": "regenerate", "ja": "再生させる" },
+      { "en": "revitalize", "ja": "活気を取り戻させる" }
+    ],
+    "faq": [
+      { "q": "redevelop とはどんな意味？", "a": "古くなった土地・地域を『再開発する』、また製品などを『作り直す』という意味です。The city plans to redevelop the old harbor area.（市は古い港湾地区を再開発する計画だ）のように使います。名詞は redevelopment です。" },
+      { "q": "redevelop と renovate の違いは？", "a": "renovate は『（既存の建物を）改装する』、redevelop は『（区域全体を取り壊して）新しく作り直す・再開発する』という、より大規模な作り直しを表します。" }
+    ],
+    "quiz": [
+      { "q": "The city plans to ___ the old harbor area.（再開発する）", "A": "redevelop", "B": "develop の最初に開発する", "C": "envelop の包む", "D": "deliver の配達する", "correct": "A" },
+      { "q": "redevelop の名詞形はどれ？", "A": "redevelopment（再開発）", "B": "development の最初の開発だけ", "C": "envelope（封筒）", "D": "delivery（配達）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recurrent",
+    "pron": "rɪˈkɜːrənt",
+    "kana": "リカレント",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 recurrere（走り戻る・くり返す）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "やや硬い語"],
+    "meaning_main": "くり返し起こる・再発する・たびたびの",
+    "description": "recurrent の意味・発音・例文・語源を解説。問題・症状・夢などが「くり返し起こる・再発する」という様子を表す形容詞の使い方を分かりやすく紹介します。",
+    "keywords": ["recurrent 意味", "recurrent 発音", "くり返し起こる", "再発する"],
+    "meanings": [
+      { "hinshi": "【形容詞】くり返し起こる・再発する・たびたびの", "note": "何度も繰り返し現れる。a recurrent problem（くり返し起こる問題）。a recurrent dream（くり返し見る夢）。" }
+    ],
+    "usages": [
+      { "title": "① 「くり返し起こる」として", "desc": "問題などが何度も現れることを表します。", "example_en": "Flooding is a recurrent problem in this area.", "example_ja": "この地域では洪水がくり返し起こる問題だ。" },
+      { "title": "② 「再発する」として", "desc": "症状などが再び現れることを表します。", "example_en": "She suffers from recurrent headaches.", "example_ja": "彼女はくり返す頭痛に悩まされている。" }
+    ],
+    "warn": [
+      "recurrent は『くり返し起こる・再発する』。動詞 recur（再発する・くり返す）、名詞 recurrence（再発・くり返し）と同根。",
+      "recurring（くり返す）とほぼ同義。recurrent は医学・専門的な響きがやや強い。"
+    ],
+    "etym_note": "ラテン語 recurrere（re-「再び」＋ currere「走る」）に由来し、「再び走り戻ること＝くり返すこと」を意味します。current（流れ・現在の）, occur（起こる）と同じ語根です。",
+    "etym_chain": [
+      { "node": "recurrere", "sub": "走り戻る・くり返す", "era": "ラテン語" },
+      { "node": "recurrent", "sub": "くり返す", "era": "近代英語" },
+      { "node": "recurrent", "sub": "くり返し起こる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a recurrent problem", "ja": "くり返し起こる問題" },
+      { "en": "a recurrent theme", "ja": "くり返し現れるテーマ" },
+      { "en": "a recurrent dream", "ja": "くり返し見る夢" },
+      { "en": "recurrent headaches", "ja": "くり返す頭痛" },
+      { "en": "a recurrent infection", "ja": "再発する感染症" },
+      { "en": "recurrent costs", "ja": "経常的にかかる費用" }
+    ],
+    "related": [
+      { "en": "recur", "ja": "再発する・くり返す" },
+      { "en": "recurrence", "ja": "再発・くり返し" },
+      { "en": "recurring", "ja": "くり返す・定期的な" },
+      { "en": "periodic", "ja": "周期的な" }
+    ],
+    "faq": [
+      { "q": "recurrent とはどんな意味？", "a": "問題・症状・夢などが『くり返し起こる・再発する・たびたびの』という形容詞です。Flooding is a recurrent problem.（洪水がくり返し起こる問題だ）のように使います。名詞は recurrence、動詞は recur です。" },
+      { "q": "recurrent と recurring の違いは？", "a": "ほぼ同義で『くり返す』ですが、recurring のほうが日常的でよく使われ、recurrent は医学・学術など専門的な響きがやや強い語です。a recurring dream / a recurrent infection のように使い分けられます。" }
+    ],
+    "quiz": [
+      { "q": "Flooding is a ___ problem in this area.（くり返し起こる）", "A": "recurrent", "B": "current の現在の", "C": "reluctant の気が進まない", "D": "relevant の関連する", "correct": "A" },
+      { "q": "recurrent の動詞形はどれ？", "A": "recur（再発する・くり返す）", "B": "occur の最初に起こるだけ", "C": "secure（安全にする）", "D": "refer（言及する）", "correct": "A" }
+    ]
+  }
+]
