@@ -1,0 +1,526 @@
+[
+  {
+    "english": "ranking",
+    "pron": "ˈræŋkɪŋ",
+    "kana": "ランキング",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rank（順位をつける・地位）＋ -ing",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出語"],
+    "meaning_main": "順位・ランキング・序列／（形）上位の・幹部の",
+    "description": "ranking の意味・発音・例文・語源を解説。順位づけによる「ランキング・序列」という名詞と、「上位の・高位の」という形容詞の使い方を分かりやすく紹介します。",
+    "keywords": ["ranking 意味", "ranking 発音", "順位", "ランキング"],
+    "meanings": [
+      { "hinshi": "【名詞】順位・ランキング・序列", "note": "成績や評価による順位づけ、またその一覧。a world ranking（世界ランキング）。" },
+      { "hinshi": "【形容詞】上位の・高位の・最高位の", "note": "(主に米)地位の高い。the ranking officer（最高位の士官）。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「順位」として", "desc": "評価による順位づけを表します。", "example_en": "She rose to the top of the world ranking.", "example_ja": "彼女は世界ランキングの首位に上がった。" },
+      { "title": "② 形容詞「上位の」として", "desc": "地位の高い人を表します。", "example_en": "He is the ranking officer here.", "example_ja": "彼がここでの最高位の士官だ。" }
+    ],
+    "warn": [
+      "ranking は名詞『順位・ランキング・序列』、形容詞『上位の・高位の』。rank（順位・地位／順位をつける）＋ -ing。",
+      "日本語の『ランキング』は順位一覧の意味が中心だが、英語では形容詞用法もある。"
+    ],
+    "etym_note": "rank（『列・地位・順位をつける』、古フランス語 renc「列」より）＋ -ing から成り、「順位づけ・序列」を意味します。arrange（並べる）と関連します。",
+    "etym_chain": [
+      { "node": "renc", "sub": "列", "era": "古フランス語" },
+      { "node": "rank", "sub": "順位・地位", "era": "近代英語" },
+      { "node": "ranking", "sub": "順位・ランキング", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a world ranking", "ja": "世界ランキング" },
+      { "en": "move up the rankings", "ja": "順位を上げる" },
+      { "en": "top of the ranking", "ja": "ランキングの首位" },
+      { "en": "a credit ranking", "ja": "信用格付け" },
+      { "en": "the ranking officer", "ja": "最高位の士官" },
+      { "en": "drop in the rankings", "ja": "順位を落とす" }
+    ],
+    "related": [
+      { "en": "rank", "ja": "順位・地位・順位をつける" },
+      { "en": "rating", "ja": "評価・格付け" },
+      { "en": "standing", "ja": "順位・地位" },
+      { "en": "league table", "ja": "順位表" }
+    ],
+    "faq": [
+      { "q": "ranking とはどんな意味？", "a": "成績や評価による『順位・ランキング・序列』という名詞、また『上位の・高位の』という形容詞です。She rose to the top of the world ranking.（世界ランキングの首位に上がった）のように使います。" },
+      { "q": "ranking と rating の違いは？", "a": "ranking は『（他と比べた）順位・序列』、rating は『（基準に照らした）評価・格付け・点数』です。映画の rating（評価）と box-office ranking（興行成績の順位）のように使い分けます。" }
+    ],
+    "quiz": [
+      { "q": "She rose to the top of the world ___.（ランキング）", "A": "ranking", "B": "ringing の鳴ること", "C": "raining の雨が降ること", "D": "ranking ではなく banking の銀行業", "correct": "A" },
+      { "q": "ranking のもとになった語 rank の意味でないものは？", "A": "雨", "B": "順位", "C": "地位", "D": "列", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rambling",
+    "pron": "ˈræmblɪŋ",
+    "kana": "ランブリング",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ramble（とりとめなく歩く・話す）＋ -ing",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "やや硬い語"],
+    "meaning_main": "（話・文章が）とりとめのない・だらだら続く／（建物が）不規則に広がった",
+    "description": "rambling の意味・発音・例文・語源を解説。話や文章が「とりとめのない・だらだら長い」、また建物が「不規則に広がった」という様子を表す形容詞を紹介します。",
+    "keywords": ["rambling 意味", "rambling 発音", "とりとめのない", "ramble 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】（話・文章が）とりとめのない・だらだら続く", "note": "話があちこちに飛んでまとまりがない。a rambling speech（とりとめのない演説）。" },
+      { "hinshi": "【形容詞】（建物・道などが）不規則に広がった・入り組んだ", "note": "計画性なく方々に伸びた。a rambling old house（不規則に広がった古い家）。" }
+    ],
+    "usages": [
+      { "title": "① 話の「とりとめのなさ」として", "desc": "まとまりのない話を表します。", "example_en": "He gave a long, rambling explanation.", "example_ja": "彼は長くてとりとめのない説明をした。" },
+      { "title": "② 建物の「入り組んだ広がり」として", "desc": "不規則に広がった様子を表します。", "example_en": "They live in a rambling old farmhouse.", "example_ja": "彼らは不規則に広がった古い農家に住んでいる。" }
+    ],
+    "warn": [
+      "rambling は『（話が）とりとめのない・だらだら続く』『（建物が）不規則に広がった』。動詞 ramble（とりとめなく歩く・話す）＋ -ing。",
+      "話に使うときは否定的（まとまりがない）なニュアンス。"
+    ],
+    "etym_note": "ramble（『あてもなく歩き回る・とりとめなく話す』）＋ -ing から成り、「あちこちさまよう・まとまりのない」を意味します。roam（歩き回る）と関連するとされます。",
+    "etym_chain": [
+      { "node": "ramble", "sub": "あてもなく歩く・話す", "era": "近代英語" },
+      { "node": "rambling", "sub": "とりとめのない", "era": "近代英語" },
+      { "node": "rambling", "sub": "とりとめのない・広がった", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rambling speech", "ja": "とりとめのない演説" },
+      { "en": "a rambling explanation", "ja": "だらだらした説明" },
+      { "en": "a rambling letter", "ja": "とりとめのない手紙" },
+      { "en": "a rambling old house", "ja": "不規則に広がった古い家" },
+      { "en": "rambling sentences", "ja": "まとまりのない文" },
+      { "en": "go off on a ramble", "ja": "とりとめなく話し出す" }
+    ],
+    "related": [
+      { "en": "ramble", "ja": "とりとめなく歩く・話す" },
+      { "en": "long-winded", "ja": "くどい・長たらしい" },
+      { "en": "meandering", "ja": "曲がりくねった・回りくどい" },
+      { "en": "concise", "ja": "簡潔な（反対）" }
+    ],
+    "faq": [
+      { "q": "rambling とはどんな意味？", "a": "話や文章が『とりとめのない・だらだら続く』、また建物などが『不規則に広がった』という形容詞です。He gave a long, rambling explanation.（長くてとりとめのない説明をした）のように使います。" },
+      { "q": "rambling と concise の違いは？", "a": "rambling は『（まとまりなく）だらだら長い』、concise は『（むだなく）簡潔な』で、ほぼ反対の意味です。話し方の評価としては concise のほうが好まれます。" }
+    ],
+    "quiz": [
+      { "q": "He gave a long, ___ explanation.（とりとめのない）", "A": "rambling", "B": "trembling の震える", "C": "gambling の賭博", "D": "rumbling のゴロゴロ鳴る", "correct": "A" },
+      { "q": "rambling の反対に近い語はどれ？", "A": "concise（簡潔な）", "B": "long-winded（くどい）", "C": "meandering（回りくどい）", "D": "endless（果てしない）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "randomness",
+    "pron": "ˈrændəmnəs",
+    "kana": "ランダムネス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "random（無作為の）＋ -ness（性質）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "数学・理科"],
+    "meaning_main": "無作為性・ランダム性・でたらめさ",
+    "description": "randomness の意味・発音・例文・語源を解説。規則や予測のきかない「無作為性・ランダム性・でたらめさ」を表す、数学・統計・日常で使う名詞を紹介します。",
+    "keywords": ["randomness 意味", "randomness 発音", "無作為性", "ランダム性"],
+    "meanings": [
+      { "hinshi": "【名詞】無作為性・ランダム性・でたらめさ", "note": "規則・パターン・予測がきかない性質。an element of randomness（偶然の要素）。" }
+    ],
+    "usages": [
+      { "title": "① 「無作為性」として", "desc": "予測のきかなさを表します。", "example_en": "There is an element of randomness in the results.", "example_ja": "結果には偶然（無作為）の要素がある。" },
+      { "title": "② 統計・確率の文脈で", "desc": "規則のなさを表します。", "example_en": "True randomness is hard to generate.", "example_ja": "真の無作為性を生み出すのは難しい。" }
+    ],
+    "warn": [
+      "randomness は『無作為性・ランダム性・でたらめさ』。形容詞 random（無作為の）＋ -ness。",
+      "統計・確率・暗号など専門でも、日常の『偶然・脈絡のなさ』でも使う。"
+    ],
+    "etym_note": "random（無作為の、古フランス語 randon「勢い・無計画な走り」より）＋ -ness（性質を表す語尾）から成り、「無作為であること」を意味します。",
+    "etym_chain": [
+      { "node": "randon", "sub": "勢い・無計画", "era": "古フランス語" },
+      { "node": "random", "sub": "無作為の", "era": "近代英語" },
+      { "node": "randomness", "sub": "無作為性", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an element of randomness", "ja": "偶然の要素" },
+      { "en": "true randomness", "ja": "真の無作為性" },
+      { "en": "a sense of randomness", "ja": "脈絡のなさの感覚" },
+      { "en": "introduce randomness", "ja": "無作為性を取り入れる" },
+      { "en": "pure randomness", "ja": "純粋な偶然" },
+      { "en": "the randomness of nature", "ja": "自然の無作為性" }
+    ],
+    "related": [
+      { "en": "random", "ja": "無作為の" },
+      { "en": "chance", "ja": "偶然" },
+      { "en": "unpredictability", "ja": "予測不可能性" },
+      { "en": "order", "ja": "秩序（反対）" }
+    ],
+    "faq": [
+      { "q": "randomness とはどんな意味？", "a": "規則や予測のきかない『無作為性・ランダム性・でたらめさ』のことです。There is an element of randomness in the results.（結果には偶然の要素がある）のように使います。" },
+      { "q": "randomness はどんな分野で使う？", "a": "数学・統計・確率では『無作為性』、暗号やゲームでは『乱数性』、日常では『偶然・脈絡のなさ』など、規則やパターンのない性質を指して幅広く使われます。" }
+    ],
+    "quiz": [
+      { "q": "There is an element of ___ in the results.（無作為性）", "A": "randomness", "B": "kindness の親切", "C": "darkness の暗さ", "D": "weakness の弱さ", "correct": "A" },
+      { "q": "randomness の反対に近い語はどれ？", "A": "order（秩序）", "B": "chance（偶然）", "C": "luck（運）", "D": "noise（雑音）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rapidity",
+    "pron": "rəˈpɪdəti",
+    "kana": "ラピディティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rapid（速い）＋ -ity（性質）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "やや硬い語"],
+    "meaning_main": "速さ・急速さ・迅速さ",
+    "description": "rapidity の意味・発音・例文・語源を解説。動きや変化の「速さ・急速さ・迅速さ」を表す、やや硬い名詞の使い方を分かりやすく紹介します。",
+    "keywords": ["rapidity 意味", "rapidity 発音", "速さ", "急速さ"],
+    "meanings": [
+      { "hinshi": "【名詞】速さ・急速さ・迅速さ", "note": "物事が速く進む性質。the rapidity of change（変化の速さ）。with rapidity（すばやく）。" }
+    ],
+    "usages": [
+      { "title": "① 変化の「急速さ」として", "desc": "速く進む様子を表します。", "example_en": "The rapidity of technological change is striking.", "example_ja": "技術変化の速さは目を見張るものがある。" },
+      { "title": "② 動作の「迅速さ」として", "desc": "すばやさを表します。", "example_en": "She solved the puzzle with surprising rapidity.", "example_ja": "彼女は驚くべき速さでパズルを解いた。" }
+    ],
+    "warn": [
+      "rapidity は『速さ・急速さ・迅速さ』。形容詞 rapid（速い）＋ -ity。やや硬い語。",
+      "日常的には speed（速さ）, quickness（すばやさ）も使う。with rapidity＝quickly。"
+    ],
+    "etym_note": "rapid（速い、ラテン語 rapidus「ひったくるように速い」より）＋ -ity（性質を表す語尾）から成り、「速いこと・急速さ」を意味します。rapids（急流）と同じ語根です。",
+    "etym_chain": [
+      { "node": "rapidus", "sub": "ひったくるように速い", "era": "ラテン語" },
+      { "node": "rapid", "sub": "速い", "era": "近代英語" },
+      { "node": "rapidity", "sub": "速さ・急速さ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the rapidity of change", "ja": "変化の速さ" },
+      { "en": "with rapidity", "ja": "すばやく" },
+      { "en": "the rapidity of growth", "ja": "成長の速さ" },
+      { "en": "with alarming rapidity", "ja": "驚くほどの速さで" },
+      { "en": "the rapidity of the spread", "ja": "広がりの速さ" },
+      { "en": "increasing rapidity", "ja": "増していく速さ" }
+    ],
+    "related": [
+      { "en": "rapid", "ja": "速い" },
+      { "en": "speed", "ja": "速さ" },
+      { "en": "swiftness", "ja": "迅速さ" },
+      { "en": "slowness", "ja": "遅さ（反対）" }
+    ],
+    "faq": [
+      { "q": "rapidity とはどんな意味？", "a": "動きや変化の『速さ・急速さ・迅速さ』という意味の名詞です。The rapidity of technological change is striking.（技術変化の速さは目を見張る）のように使います。" },
+      { "q": "rapidity と speed の違いは？", "a": "意味は近いですが、rapidity は『（変化・動作の）急速さ』を表すやや硬い語、speed は『速さ・速度』を表す日常語です。with rapidity は quickly（すばやく）と言い換えられます。" }
+    ],
+    "quiz": [
+      { "q": "The ___ of technological change is striking.（速さ）", "A": "rapidity", "B": "rarity の希少さ", "C": "rigidity の硬さ", "D": "rivalry の競争", "correct": "A" },
+      { "q": "rapidity のもとになった形容詞 rapid の意味は？", "A": "速い", "B": "まれな", "C": "硬い", "D": "豊かな", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rapturous",
+    "pron": "ˈræptʃərəs",
+    "kana": "ラプチャラス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "rapture（有頂天・歓喜）＋ -ous",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "感情表現"],
+    "meaning_main": "熱狂的な・有頂天の・うっとりした（喜びにあふれた）",
+    "description": "rapturous の意味・発音・例文・語源を解説。歓喜にあふれた「熱狂的な・有頂天の・うっとりした」という様子を表す、賞賛や喝采によく使う形容詞を紹介します。",
+    "keywords": ["rapturous 意味", "rapturous 発音", "熱狂的な", "有頂天の"],
+    "meanings": [
+      { "hinshi": "【形容詞】熱狂的な・有頂天の・うっとりした", "note": "強い喜び・感動にあふれた。a rapturous welcome（熱烈な歓迎）。rapturous applause（割れんばかりの拍手）。" }
+    ],
+    "usages": [
+      { "title": "① 「熱狂的な歓迎」として", "desc": "喜びにあふれた反応を表します。", "example_en": "The singer received a rapturous welcome.", "example_ja": "その歌手は熱烈な歓迎を受けた。" },
+      { "title": "② 「うっとりした」として", "desc": "感動に浸る様子を表します。", "example_en": "She listened with a rapturous expression.", "example_ja": "彼女はうっとりした表情で聴き入った。" }
+    ],
+    "warn": [
+      "rapturous は『熱狂的な・有頂天の・うっとりした』。名詞 rapture（有頂天・歓喜）＋ -ous。",
+      "rapturous applause / welcome / reception（熱烈な拍手・歓迎・反応）が頻出。"
+    ],
+    "etym_note": "rapture（『有頂天・歓喜』、ラテン語 rapere「奪う・さらう」より＝心をさらわれる状態）＋ -ous から成り、「歓喜にさらわれた」を意味します。rapt（夢中の）と同じ語根です。",
+    "etym_chain": [
+      { "node": "rapere", "sub": "奪う・さらう", "era": "ラテン語" },
+      { "node": "rapture", "sub": "有頂天・歓喜", "era": "近代英語" },
+      { "node": "rapturous", "sub": "熱狂的な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rapturous applause", "ja": "割れんばかりの拍手" },
+      { "en": "a rapturous welcome", "ja": "熱烈な歓迎" },
+      { "en": "a rapturous reception", "ja": "熱狂的な反応" },
+      { "en": "rapturous praise", "ja": "絶賛" },
+      { "en": "a rapturous crowd", "ja": "熱狂する群衆" },
+      { "en": "look rapturous", "ja": "うっとりして見える" }
+    ],
+    "related": [
+      { "en": "rapture", "ja": "有頂天・歓喜" },
+      { "en": "ecstatic", "ja": "有頂天の・狂喜した" },
+      { "en": "enthusiastic", "ja": "熱狂的な" },
+      { "en": "rapt", "ja": "夢中の・うっとりした" }
+    ],
+    "faq": [
+      { "q": "rapturous とはどんな意味？", "a": "歓喜にあふれた『熱狂的な・有頂天の・うっとりした』という形容詞です。The singer received a rapturous welcome.（熱烈な歓迎を受けた）、rapturous applause（割れんばかりの拍手）のように使います。" },
+      { "q": "rapturous と ecstatic の違いは？", "a": "どちらも『大喜びの』ですが、rapturous は『（賞賛・歓迎などで）熱狂・うっとりした』様子に、ecstatic は『（個人が）有頂天で狂喜している』様子に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The singer received a ___ welcome.（熱烈な）", "A": "rapturous", "B": "ridiculous のばかげた", "C": "dangerous の危険な", "D": "generous の寛大な", "correct": "A" },
+      { "q": "rapturous の名詞形はどれ？", "A": "rapture（有頂天・歓喜）", "B": "rapture ではなく rupture（破裂）", "C": "capture（捕獲）", "D": "nature（自然）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reasoning",
+    "pron": "ˈriːzənɪŋ",
+    "kana": "リーズニング",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "reason（推論する・理由）＋ -ing",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "推論・論法・筋道立てて考えること",
+    "description": "reasoning の意味・発音・例文・語源を解説。証拠や前提から筋道立てて結論を導く「推論・論法・思考の筋道」を表す名詞の使い方を分かりやすく紹介します。",
+    "keywords": ["reasoning 意味", "reasoning 発音", "推論", "論法"],
+    "meanings": [
+      { "hinshi": "【名詞】推論・論法・筋道立てて考えること", "note": "前提・証拠から結論を導く思考の過程。logical reasoning（論理的推論）。the reasoning behind a decision（決定の根拠となる考え）。" }
+    ],
+    "usages": [
+      { "title": "① 「推論・論法」として", "desc": "筋道立てた考えを表します。", "example_en": "Her reasoning was clear and convincing.", "example_ja": "彼女の論法は明快で説得力があった。" },
+      { "title": "② 「考えの根拠」として", "desc": "結論に至る理由づけを表します。", "example_en": "Explain the reasoning behind your choice.", "example_ja": "あなたの選択の根拠となる考えを説明しなさい。" }
+    ],
+    "warn": [
+      "reasoning は『推論・論法・筋道立てて考えること』。動詞 reason（推論する）＋ -ing。",
+      "logical / deductive / inductive reasoning（論理的・演繹的・帰納的推論）が頻出。"
+    ],
+    "etym_note": "reason（『理由・理性・推論する』、ラテン語 ratio「理性」より）＋ -ing から成り、「筋道立てて考えること」を意味します。reason, rational と同じ語根です。",
+    "etym_chain": [
+      { "node": "ratio", "sub": "理性", "era": "ラテン語" },
+      { "node": "reason", "sub": "理由・推論する", "era": "中英語" },
+      { "node": "reasoning", "sub": "推論・論法", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "logical reasoning", "ja": "論理的推論" },
+      { "en": "deductive reasoning", "ja": "演繹的推論" },
+      { "en": "inductive reasoning", "ja": "帰納的推論" },
+      { "en": "sound reasoning", "ja": "筋の通った論法" },
+      { "en": "the reasoning behind", "ja": "〜の根拠となる考え" },
+      { "en": "flawed reasoning", "ja": "欠陥のある論法" }
+    ],
+    "related": [
+      { "en": "reason", "ja": "理由・推論する" },
+      { "en": "logic", "ja": "論理" },
+      { "en": "argument", "ja": "論証・主張" },
+      { "en": "inference", "ja": "推論・推定" }
+    ],
+    "faq": [
+      { "q": "reasoning とはどんな意味？", "a": "証拠や前提から筋道立てて結論を導く『推論・論法・思考の筋道』のことです。Her reasoning was clear and convincing.（彼女の論法は明快で説得力があった）のように使います。" },
+      { "q": "reasoning と reason の違いは？", "a": "reason は名詞『理由・理性』または動詞『推論する』、reasoning は『推論する過程・論法』を表す名詞です。reason（理由）が点なら、reasoning（論法）はそこに至る筋道です。" }
+    ],
+    "quiz": [
+      { "q": "Her ___ was clear and convincing.（論法）", "A": "reasoning", "B": "seasoning の味付け", "C": "reasoning ではなく meaning の意味", "D": "morning の朝", "correct": "A" },
+      { "q": "logical reasoning の意味はどれ？", "A": "論理的推論", "B": "論理的な味付け", "C": "論理的な朝", "D": "論理的な意味", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reassuring",
+    "pron": "ˌriːəˈʃʊərɪŋ",
+    "kana": "リアシュアリング",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "reassure（安心させる）＋ -ing",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "安心させる・心強い・ほっとさせる",
+    "description": "reassuring の意味・発音・例文・語源を解説。不安をやわらげ「安心させる・心強い・ほっとさせる」という様子を表す形容詞の使い方を分かりやすく紹介します。",
+    "keywords": ["reassuring 意味", "reassuring 発音", "安心させる", "心強い"],
+    "meanings": [
+      { "hinshi": "【形容詞】安心させる・心強い・ほっとさせる", "note": "不安や心配をやわらげる。a reassuring smile（安心させる笑顔）。It's reassuring to know ～（〜と分かって心強い）。" }
+    ],
+    "usages": [
+      { "title": "① 「安心させる」として", "desc": "不安をやわらげる様子を表します。", "example_en": "She gave me a reassuring smile.", "example_ja": "彼女は私に安心させる笑顔を向けた。" },
+      { "title": "② 「心強い」として", "desc": "ほっとさせる事実を表します。", "example_en": "It's reassuring to know help is nearby.", "example_ja": "助けが近くにあると分かって心強い。" }
+    ],
+    "warn": [
+      "reassuring は『安心させる・心強い・ほっとさせる』。動詞 reassure（安心させる）＋ -ing。",
+      "副詞は reassuringly（安心させるように）。reassured は『安心した（人の側）』。"
+    ],
+    "etym_note": "reassure（re-「再び」＋ assure「保証する・安心させる」）＋ -ing から成り、「（人を）安心させる」を意味します。sure（確かな）, assure（保証する）と同じ語根です。",
+    "etym_chain": [
+      { "node": "assure", "sub": "保証する・安心させる", "era": "中英語" },
+      { "node": "reassure", "sub": "安心させる", "era": "近代英語" },
+      { "node": "reassuring", "sub": "安心させる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a reassuring smile", "ja": "安心させる笑顔" },
+      { "en": "a reassuring voice", "ja": "安心させる声" },
+      { "en": "reassuring words", "ja": "心強い言葉" },
+      { "en": "it's reassuring to know", "ja": "〜と分かって心強い" },
+      { "en": "a reassuring presence", "ja": "心強い存在" },
+      { "en": "find it reassuring", "ja": "それを心強く感じる" }
+    ],
+    "related": [
+      { "en": "reassure", "ja": "安心させる" },
+      { "en": "comforting", "ja": "慰めになる・ほっとさせる" },
+      { "en": "soothing", "ja": "なだめる・落ち着かせる" },
+      { "en": "worrying", "ja": "心配な（反対）" }
+    ],
+    "faq": [
+      { "q": "reassuring とはどんな意味？", "a": "不安や心配をやわらげ『安心させる・心強い・ほっとさせる』という形容詞です。She gave me a reassuring smile.（安心させる笑顔を向けた）のように使います。動詞は reassure です。" },
+      { "q": "reassuring と reassured の違いは？", "a": "reassuring は『（人を）安心させるような』（物・人の性質）、reassured は『（人が）安心した』（人の状態）です。a reassuring smile（安心させる笑顔）／I felt reassured（私は安心した）のように使い分けます。" }
+    ],
+    "quiz": [
+      { "q": "She gave me a ___ smile.（安心させる）", "A": "reassuring", "B": "reassured の安心した（人の状態）", "C": "measuring の測定する", "D": "pressuring の圧力をかける", "correct": "A" },
+      { "q": "reassuring の反対に近い語はどれ？", "A": "worrying（心配な）", "B": "comforting（慰めになる）", "C": "soothing（なだめる）", "D": "calming（落ち着かせる）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reborn",
+    "pron": "ˌriːˈbɔːrn",
+    "kana": "リボーン",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "re-（再び）＋ born（生まれた）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "比喩・宗教"],
+    "meaning_main": "生まれ変わった・再生した・よみがえった",
+    "description": "reborn の意味・発音・例文・語源を解説。文字どおり「生まれ変わった」、また比喩で「（気持ち・組織が）再生した・よみがえった」という形容詞の使い方を紹介します。",
+    "keywords": ["reborn 意味", "reborn 発音", "生まれ変わった", "再生した"],
+    "meanings": [
+      { "hinshi": "【形容詞】生まれ変わった・再生した・よみがえった", "note": "新しく生まれ変わったように一新された。feel reborn（生まれ変わった気がする）。a city reborn（よみがえった街）。" },
+      { "hinshi": "【形容詞】（信仰で）新生した", "note": "a born-again（再生した・回心した）に近い。" }
+    ],
+    "usages": [
+      { "title": "① 「生まれ変わった」として", "desc": "心身が一新された様子を表します。", "example_en": "After the holiday, she felt completely reborn.", "example_ja": "休暇のあと、彼女はすっかり生まれ変わった気がした。" },
+      { "title": "② 「よみがえった」として", "desc": "組織や街が再生した様子を表します。", "example_en": "The old district has been reborn as an arts hub.", "example_ja": "その古い地区は芸術の拠点として生まれ変わった。" }
+    ],
+    "warn": [
+      "reborn は『生まれ変わった・再生した・よみがえった』。re-（再び）＋ born（bear「生む」の過去分詞）。",
+      "be/feel reborn（生まれ変わったように感じる）でよく使う。動詞 bear（生む）の活用 born と関連。"
+    ],
+    "etym_note": "re-（再び）＋ born（bear「生む・運ぶ」の過去分詞、古英語 beran より）から成り、「再び生まれた」を意味します。birth（誕生）と同じ語根です。",
+    "etym_chain": [
+      { "node": "beran", "sub": "生む・運ぶ", "era": "古英語" },
+      { "node": "born", "sub": "生まれた", "era": "中英語" },
+      { "node": "reborn", "sub": "生まれ変わった", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "feel reborn", "ja": "生まれ変わった気がする" },
+      { "en": "be reborn", "ja": "生まれ変わる" },
+      { "en": "a city reborn", "ja": "よみがえった街" },
+      { "en": "reborn as", "ja": "〜として生まれ変わる" },
+      { "en": "a reborn sense of hope", "ja": "よみがえった希望" },
+      { "en": "born again, reborn", "ja": "新生した・回心した" }
+    ],
+    "related": [
+      { "en": "rebirth", "ja": "再生・生まれ変わり" },
+      { "en": "born", "ja": "生まれた" },
+      { "en": "renewed", "ja": "一新された" },
+      { "en": "revived", "ja": "よみがえった" }
+    ],
+    "faq": [
+      { "q": "reborn とはどんな意味？", "a": "文字どおり『生まれ変わった』、また比喩で『（気持ち・組織・街が）再生した・よみがえった』という形容詞です。After the holiday, she felt completely reborn.（すっかり生まれ変わった気がした）のように使います。" },
+      { "q": "reborn と rebirth の違いは？", "a": "reborn は形容詞『生まれ変わった』、rebirth は名詞『再生・生まれ変わり』です。feel reborn（生まれ変わった気がする）／a sense of rebirth（再生の感覚）のように使い分けます。" }
+    ],
+    "quiz": [
+      { "q": "After the holiday, she felt completely ___.（生まれ変わった）", "A": "reborn", "B": "reform の改革する", "C": "reword の言い換える", "D": "reward の報いる", "correct": "A" },
+      { "q": "reborn の名詞形（再生）はどれ？", "A": "rebirth（再生・生まれ変わり）", "B": "reform（改革）", "C": "reward（報酬）", "D": "record（記録）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rechargeable",
+    "pron": "ˌriːˈtʃɑːrdʒəbl",
+    "kana": "リチャージャブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "recharge（再充電する）＋ -able（できる）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "日常・技術"],
+    "meaning_main": "充電できる・再充電可能な（電池など）",
+    "description": "rechargeable の意味・発音・例文・語源を解説。電池などが「充電できる・くり返し再充電できる」という、日常や技術で使う形容詞の使い方を分かりやすく紹介します。",
+    "keywords": ["rechargeable 意味", "rechargeable 発音", "充電できる", "充電池"],
+    "meanings": [
+      { "hinshi": "【形容詞】充電できる・再充電可能な", "note": "くり返し充電して使える。a rechargeable battery（充電池）。" }
+    ],
+    "usages": [
+      { "title": "① 「充電できる」として", "desc": "くり返し充電できる電池などを表します。", "example_en": "This flashlight uses a rechargeable battery.", "example_ja": "この懐中電灯は充電池を使う。" },
+      { "title": "② 製品の特徴として", "desc": "充電式であることを表します。", "example_en": "The toothbrush is fully rechargeable.", "example_ja": "その歯ブラシは完全充電式だ。" }
+    ],
+    "warn": [
+      "rechargeable は『充電できる・再充電可能な』。recharge（再充電する）＋ -able。反対は disposable（使い捨ての）電池など。",
+      "a rechargeable battery（充電池）が頻出。"
+    ],
+    "etym_note": "recharge（re-「再び」＋ charge「（電気を）満たす・充電する」）＋ -able（できる）から成り、「再び充電できる」を意味します。charge（負荷・充電）と同じ語根です。",
+    "etym_chain": [
+      { "node": "charge", "sub": "満たす・充電する", "era": "近代英語" },
+      { "node": "recharge", "sub": "再充電する", "era": "近代英語" },
+      { "node": "rechargeable", "sub": "充電できる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rechargeable battery", "ja": "充電池" },
+      { "en": "fully rechargeable", "ja": "完全充電式の" },
+      { "en": "a rechargeable device", "ja": "充電式の機器" },
+      { "en": "rechargeable batteries", "ja": "充電式電池" },
+      { "en": "a rechargeable flashlight", "ja": "充電式の懐中電灯" },
+      { "en": "eco-friendly and rechargeable", "ja": "環境にやさしく充電式の" }
+    ],
+    "related": [
+      { "en": "recharge", "ja": "再充電する" },
+      { "en": "charge", "ja": "充電する" },
+      { "en": "battery", "ja": "電池" },
+      { "en": "disposable", "ja": "使い捨ての（反対）" }
+    ],
+    "faq": [
+      { "q": "rechargeable とはどんな意味？", "a": "電池などが『充電できる・くり返し再充電できる』という形容詞です。This flashlight uses a rechargeable battery.（この懐中電灯は充電池を使う）のように使います。" },
+      { "q": "rechargeable と disposable の違いは？", "a": "rechargeable は『充電してくり返し使える』、disposable は『使い捨ての（使ったら捨てる）』です。充電池 vs 使い捨て乾電池のような違いです。" }
+    ],
+    "quiz": [
+      { "q": "This flashlight uses a ___ battery.（充電できる）", "A": "rechargeable", "B": "readable の読みやすい", "C": "reliable の信頼できる", "D": "removable の取り外せる", "correct": "A" },
+      { "q": "rechargeable の反対に近い語はどれ？", "A": "disposable（使い捨ての）", "B": "reusable（再使用できる）", "C": "reliable（信頼できる）", "D": "portable（持ち運べる）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recessive",
+    "pron": "rɪˈsesɪv",
+    "kana": "リセッシブ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "recess（後退する・引っ込む）＋ -ive",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "理科・生物"],
+    "meaning_main": "劣性の・潜性の（遺伝で現れにくい）／引っ込んだ",
+    "description": "recessive の意味・発音・例文・語源を解説。遺伝で表に現れにくい「劣性（潜性）の」という生物学の意味を中心に、形容詞の使い方を分かりやすく紹介します。",
+    "keywords": ["recessive 意味", "recessive 発音", "劣性", "潜性 遺伝"],
+    "meanings": [
+      { "hinshi": "【形容詞】劣性の・潜性の（遺伝）", "note": "対になる遺伝子のうち、表に現れにくい方。a recessive gene（劣性遺伝子／潜性遺伝子）。反対は dominant（顕性・優性）。" },
+      { "hinshi": "【形容詞】後退する・引っ込んだ", "note": "後ろに引っ込む傾向のある。" }
+    ],
+    "usages": [
+      { "title": "① 遺伝の「劣性の」として", "desc": "表に現れにくい遺伝形質を表します。", "example_en": "Blue eyes are caused by a recessive gene.", "example_ja": "青い目は劣性（潜性）遺伝子によって生じる。" },
+      { "title": "② 形質の現れ方として", "desc": "顕性と対比して使います。", "example_en": "The trait is recessive, so it often skips a generation.", "example_ja": "その形質は劣性なので、しばしば一世代飛ばして現れる。" }
+    ],
+    "warn": [
+      "recessive は遺伝で『劣性の・潜性の』（表に出にくい）。反対は dominant（顕性・優性）。a recessive gene（劣性遺伝子）。",
+      "近年は『劣性／優性』を『潜性／顕性』と呼ぶことが増えている。"
+    ],
+    "etym_note": "recess（『後退する・引っ込む』、ラテン語 recedere「退く」より）＋ -ive（性質を表す語尾）から成り、「後ろに退く・隠れる性質の」を意味します。recede（退く）, recession（後退）と同じ語根です。",
+    "etym_chain": [
+      { "node": "recedere", "sub": "退く", "era": "ラテン語" },
+      { "node": "recess", "sub": "後退・引っ込み", "era": "近代英語" },
+      { "node": "recessive", "sub": "劣性の・引っ込んだ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a recessive gene", "ja": "劣性遺伝子・潜性遺伝子" },
+      { "en": "a recessive trait", "ja": "劣性形質" },
+      { "en": "recessive inheritance", "ja": "劣性遺伝" },
+      { "en": "a recessive allele", "ja": "劣性対立遺伝子" },
+      { "en": "carry a recessive gene", "ja": "劣性遺伝子を持つ" },
+      { "en": "dominant and recessive", "ja": "顕性と潜性（優性と劣性）" }
+    ],
+    "related": [
+      { "en": "dominant", "ja": "顕性の・優性の（反対）" },
+      { "en": "gene", "ja": "遺伝子" },
+      { "en": "trait", "ja": "形質・特徴" },
+      { "en": "heredity", "ja": "遺伝" }
+    ],
+    "faq": [
+      { "q": "recessive とはどんな意味？", "a": "遺伝で、対になる遺伝子のうち表に現れにくい『劣性の・潜性の』という意味です。Blue eyes are caused by a recessive gene.（青い目は劣性遺伝子による）のように使います。反対は dominant（顕性・優性）です。" },
+      { "q": "recessive と dominant の違いは？", "a": "recessive（劣性・潜性）は『表に現れにくい』、dominant（顕性・優性）は『表に現れやすい』形質です。劣性形質は、両親から劣性遺伝子をそろって受け継いだときに現れます。" }
+    ],
+    "quiz": [
+      { "q": "Blue eyes are caused by a ___ gene.（劣性の）", "A": "recessive", "B": "dominant の顕性の", "C": "expensive の高価な", "D": "excessive の過度の", "correct": "A" },
+      { "q": "recessive の反対語（遺伝）はどれ？", "A": "dominant（顕性・優性）", "B": "expensive（高価な）", "C": "defensive（守りの）", "D": "massive（巨大な）", "correct": "A" }
+    ]
+  }
+]
