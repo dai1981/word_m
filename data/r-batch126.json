@@ -1,0 +1,524 @@
+[
+  {
+    "english": "ribbed",
+    "pron": "rɪbd",
+    "kana": "リブド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "rib（あばら骨・うね）＋ -ed",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "日常・素材"],
+    "meaning_main": "うね（畝）のある・リブ編みの・筋状の凹凸がある",
+    "description": "ribbed の意味・発音・例文・語源を解説。布・編み物・金属などに「うね（畝）のある・筋状の凹凸がある（リブ加工の）」という様子を表す形容詞の使い方を紹介します。",
+    "keywords": ["ribbed 意味", "ribbed 発音", "うねのある", "リブ編み"],
+    "meanings": [
+      { "hinshi": "【形容詞】うね（畝）のある・リブ編みの・筋状の凹凸がある", "note": "平行した盛り上がり（うね）が並んだ。a ribbed sweater（リブ編みのセーター）。a ribbed surface（うねのある表面）。" }
+    ],
+    "usages": [
+      { "title": "① 編み物の「リブ編み」として", "desc": "うね状の編み目を表します。", "example_en": "She wore a ribbed turtleneck.", "example_ja": "彼女はリブ編みのタートルネックを着ていた。" },
+      { "title": "② 表面の「うね」として", "desc": "筋状の凹凸を表します。", "example_en": "The bottle has a ribbed surface for grip.", "example_ja": "そのボトルは握りやすいよう表面にうねがついている。" }
+    ],
+    "warn": [
+      "ribbed は『うねのある・リブ編みの・筋状の凹凸がある』。rib（あばら骨・うね）＋ -ed。",
+      "編み物・生地・金属板・容器など、平行した盛り上がりがあるものに使う。"
+    ],
+    "etym_note": "rib（『あばら骨』、転じて『うね・畝（あばら骨のような並んだ盛り上がり）』、古英語 ribb より）＋ -ed から成り、「うねのある」を意味します。",
+    "etym_chain": [
+      { "node": "ribb", "sub": "あばら骨", "era": "古英語" },
+      { "node": "rib", "sub": "あばら骨・うね", "era": "中英語" },
+      { "node": "ribbed", "sub": "うねのある", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a ribbed sweater", "ja": "リブ編みのセーター" },
+      { "en": "ribbed knit", "ja": "リブ編み" },
+      { "en": "a ribbed surface", "ja": "うねのある表面" },
+      { "en": "ribbed fabric", "ja": "うね織りの生地" },
+      { "en": "ribbed glass", "ja": "うね模様のガラス" },
+      { "en": "a ribbed cuff", "ja": "リブ編みの袖口" }
+    ],
+    "related": [
+      { "en": "rib", "ja": "あばら骨・うね" },
+      { "en": "corrugated", "ja": "波形の・うね状の" },
+      { "en": "grooved", "ja": "溝のある" },
+      { "en": "ridged", "ja": "うねのある" }
+    ],
+    "faq": [
+      { "q": "ribbed とはどんな意味？", "a": "布・編み物・金属などに『うね（畝）のある・筋状の凹凸がある（リブ加工の）』という形容詞です。a ribbed sweater（リブ編みのセーター）、a ribbed surface（うねのある表面）のように使います。" },
+      { "q": "ribbed knit（リブ編み）とは？", "a": "縦に伸び縮みするうね状の編み目のことです。表目と裏目を交互に編んでうねを作り、伸縮性があるため、袖口・襟・裾などによく使われます。" }
+    ],
+    "quiz": [
+      { "q": "She wore a ___ turtleneck.（リブ編みの）", "A": "ribbed", "B": "rubbed のこすられた", "C": "robbed の奪われた", "D": "ribboned のリボンのついた", "correct": "A" },
+      { "q": "ribbed のもとになった名詞 rib の意味でないものは？", "A": "リボン", "B": "あばら骨", "C": "うね", "D": "畝", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rigorously",
+    "pron": "ˈrɪɡərəsli",
+    "kana": "リゴラスリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "rigorous（厳格な・厳密な）＋ -ly",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "学術・頻出"],
+    "meaning_main": "厳格に・厳密に・徹底的に",
+    "description": "rigorously の意味・発音・例文・語源を解説。手抜きなく「厳格に・厳密に・徹底的に」検証・実施する様子を表す、学術や検査でよく使う副詞を紹介します。",
+    "keywords": ["rigorously 意味", "rigorously 発音", "厳密に", "厳格に"],
+    "meanings": [
+      { "hinshi": "【副詞】厳格に・厳密に・徹底的に", "note": "手抜きなく、きっちりと。rigorously tested（厳密に検証された）。rigorously enforced（厳格に守らされた）。" }
+    ],
+    "usages": [
+      { "title": "① 「厳密に検証する」として", "desc": "手抜きのない検証を表します。", "example_en": "The drug was rigorously tested before approval.", "example_ja": "その薬は承認前に厳密に検証された。" },
+      { "title": "② 「厳格に守らせる」として", "desc": "徹底した実施を表します。", "example_en": "The rules are rigorously enforced.", "example_ja": "その規則は厳格に守らされている。" }
+    ],
+    "warn": [
+      "rigorously は『厳格に・厳密に・徹底的に』。rigorous（厳格な・厳密な）＋ -ly。名詞 rigor（厳格さ）。",
+      "rigorously tested / controlled / enforced（厳密に検証・管理・順守させた）が頻出。"
+    ],
+    "etym_note": "rigorous（『厳格な・厳密な』、ラテン語 rigor「こわばり・厳しさ」より）＋ -ly から成り、「厳格に・厳密に」を意味します。rigid（硬い）と同じ語根です。",
+    "etym_chain": [
+      { "node": "rigor", "sub": "こわばり・厳しさ", "era": "ラテン語" },
+      { "node": "rigorous", "sub": "厳格な・厳密な", "era": "中英語" },
+      { "node": "rigorously", "sub": "厳格に・厳密に", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rigorously tested", "ja": "厳密に検証された" },
+      { "en": "rigorously controlled", "ja": "厳格に管理された" },
+      { "en": "rigorously enforced", "ja": "厳格に守らされた" },
+      { "en": "rigorously analyzed", "ja": "厳密に分析された" },
+      { "en": "rigorously applied", "ja": "厳格に適用された" },
+      { "en": "test rigorously", "ja": "徹底的に検証する" }
+    ],
+    "related": [
+      { "en": "rigorous", "ja": "厳格な・厳密な" },
+      { "en": "rigor", "ja": "厳格さ・厳密さ" },
+      { "en": "strictly", "ja": "厳格に" },
+      { "en": "thoroughly", "ja": "徹底的に" }
+    ],
+    "faq": [
+      { "q": "rigorously とはどんな意味？", "a": "手抜きなく『厳格に・厳密に・徹底的に』検証・実施する様子を表す副詞です。The drug was rigorously tested before approval.（その薬は承認前に厳密に検証された）のように使います。形容詞は rigorous です。" },
+      { "q": "rigorously と strictly の違いは？", "a": "どちらも『厳しく』ですが、rigorously は『（手抜きなく）厳密・徹底的に』、strictly は『（規則どおり）厳格に』に重点があります。検証や分析には rigorously がよく合います。" }
+    ],
+    "quiz": [
+      { "q": "The drug was ___ tested before approval.（厳密に）", "A": "rigorously", "B": "rapidly の急速に", "C": "rarely のめったに〜ない", "D": "readily の快く", "correct": "A" },
+      { "q": "rigorously の形容詞形はどれ？", "A": "rigorous（厳格な・厳密な）", "B": "rapid（速い）", "C": "rare（まれな）", "D": "ready（準備できた）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ruminative",
+    "pron": "ˈruːmɪnətɪv",
+    "kana": "ルーミネイティブ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ruminate（じっくり考える・反芻する）＋ -ive",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文語的"],
+    "meaning_main": "じっくり考え込む・思いにふける・黙考的な",
+    "description": "ruminative の意味・発音・例文・語源を解説。物思いにふけって「じっくり考え込む・黙考的な」という様子を表す、やや文語的な形容詞の使い方と動詞 ruminate を紹介します。",
+    "keywords": ["ruminative 意味", "ruminative 発音", "考え込む", "ruminate 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】じっくり考え込む・思いにふける・黙考的な", "note": "物事を繰り返し深く考える様子。a ruminative mood（物思いにふけった気分）。動詞は ruminate（じっくり考える／反芻する）。" }
+    ],
+    "usages": [
+      { "title": "① 「考え込む」として", "desc": "深く思いめぐらす様子を表します。", "example_en": "He fell into a ruminative silence.", "example_ja": "彼は考え込むような沈黙に陥った。" },
+      { "title": "② 「思いにふける」として", "desc": "物思いの気分を表します。", "example_en": "The poem has a quiet, ruminative tone.", "example_ja": "その詩は静かで黙考的な調子をもつ。" }
+    ],
+    "warn": [
+      "ruminative は『じっくり考え込む・思いにふける・黙考的な』。動詞 ruminate（じっくり考える／（牛などが）反芻する）＋ -ive。やや文語的。",
+      "ruminate のもとは『反芻（牛が食べ物をかみ戻すこと）』で、比喩で『繰り返し考える』。"
+    ],
+    "etym_note": "ruminate（『じっくり考える・反芻する』、ラテン語 ruminari「反芻する」、rumen「（牛の）第一胃」より）＋ -ive から成り、「繰り返し考え込む」を意味します。",
+    "etym_chain": [
+      { "node": "ruminari", "sub": "反芻する", "era": "ラテン語" },
+      { "node": "ruminate", "sub": "じっくり考える・反芻する", "era": "近代英語" },
+      { "node": "ruminative", "sub": "考え込む・黙考的な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a ruminative mood", "ja": "物思いにふけった気分" },
+      { "en": "a ruminative silence", "ja": "考え込むような沈黙" },
+      { "en": "a ruminative tone", "ja": "黙考的な調子" },
+      { "en": "in a ruminative way", "ja": "思いにふけって" },
+      { "en": "a ruminative expression", "ja": "考え込むような表情" },
+      { "en": "grow ruminative", "ja": "物思いがちになる" }
+    ],
+    "related": [
+      { "en": "ruminate", "ja": "じっくり考える・反芻する" },
+      { "en": "reflective", "ja": "思慮深い・熟考的な" },
+      { "en": "contemplative", "ja": "瞑想的な・沈思の" },
+      { "en": "pensive", "ja": "物思わしげな" }
+    ],
+    "faq": [
+      { "q": "ruminative とはどんな意味？", "a": "物思いにふけって『じっくり考え込む・黙考的な』という様子を表す、やや文語的な形容詞です。He fell into a ruminative silence.（考え込むような沈黙に陥った）のように使います。動詞は ruminate です。" },
+      { "q": "ruminate のもとの意味は？", "a": "もとは牛などが『反芻する（食べ物を胃から口に戻してかみ直す）』ことです。そこから比喩で『（同じことを）繰り返しじっくり考える』という意味になりました。" }
+    ],
+    "quiz": [
+      { "q": "He fell into a ___ silence.（考え込むような）", "A": "ruminative", "B": "talkative のおしゃべりな", "C": "creative の創造的な", "D": "negative の否定的な", "correct": "A" },
+      { "q": "ruminative の動詞形 ruminate のもとの意味は？", "A": "（牛などが）反芻する", "B": "走る", "C": "光る", "D": "眠る", "correct": "A" }
+    ]
+  },
+  {
+    "english": "respectability",
+    "pron": "rɪˌspektəˈbɪləti",
+    "kana": "リスペクタビリティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "respectable（立派な・きちんとした）＋ -ity",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "社会"],
+    "meaning_main": "（世間体のよい）体面・立派さ・きちんとしていること",
+    "description": "respectability の意味・発音・例文・語源を解説。世間から尊重される「体面・立派さ・きちんとしていること」を表す、社会で使う名詞の使い方を分かりやすく紹介します。",
+    "keywords": ["respectability 意味", "respectability 発音", "体面", "立派さ"],
+    "meanings": [
+      { "hinshi": "【名詞】（世間体のよい）体面・立派さ・きちんとしていること", "note": "社会的に尊重される地位・品位。a veneer of respectability（体面のうわべ）。a mark of respectability（立派さの証）。" }
+    ],
+    "usages": [
+      { "title": "① 「体面・立派さ」として", "desc": "世間体のよさを表します。", "example_en": "The family valued respectability above all.", "example_ja": "その一家は何よりも体面を重んじた。" },
+      { "title": "② 「品位を得る」として", "desc": "社会的に認められることを表します。", "example_en": "The award gave the project new respectability.", "example_ja": "その賞は計画に新たな信頼性（立派さ）を与えた。" }
+    ],
+    "warn": [
+      "respectability は『（世間体のよい）体面・立派さ・きちんとしていること』。respectable（立派な・きちんとした）＋ -ity。",
+      "respect（尊敬）の名詞とは別。respectability は『世間から立派と見られること』。"
+    ],
+    "etym_note": "respectable（『立派な・きちんとした』、respect「尊敬する」＋ -able）＋ -ity から成り、「立派であること・体面」を意味します。respect（尊敬）と同じ語根です。",
+    "etym_chain": [
+      { "node": "respect", "sub": "尊敬", "era": "中英語" },
+      { "node": "respectable", "sub": "立派な・きちんとした", "era": "近代英語" },
+      { "node": "respectability", "sub": "体面・立派さ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a veneer of respectability", "ja": "体面のうわべ" },
+      { "en": "a mark of respectability", "ja": "立派さの証" },
+      { "en": "value respectability", "ja": "体面を重んじる" },
+      { "en": "gain respectability", "ja": "信頼・品位を得る" },
+      { "en": "middle-class respectability", "ja": "中流の体面" },
+      { "en": "an air of respectability", "ja": "立派そうな雰囲気" }
+    ],
+    "related": [
+      { "en": "respectable", "ja": "立派な・きちんとした" },
+      { "en": "respect", "ja": "尊敬" },
+      { "en": "dignity", "ja": "尊厳・品位" },
+      { "en": "reputation", "ja": "評判" }
+    ],
+    "faq": [
+      { "q": "respectability とはどんな意味？", "a": "世間から尊重される『体面・立派さ・きちんとしていること（世間体のよさ）』のことです。The family valued respectability above all.（その一家は何よりも体面を重んじた）のように使います。" },
+      { "q": "respectability と respect の違いは？", "a": "respect は『（人を）尊敬すること』、respectability は『（世間から）立派・きちんとしていると見られること＝体面』です。respectable（立派な）から派生した名詞です。" }
+    ],
+    "quiz": [
+      { "q": "The family valued ___ above all.（体面）", "A": "respectability", "B": "responsibility の責任", "C": "reliability の信頼性", "D": "availability の入手可能性", "correct": "A" },
+      { "q": "respectability のもとになった形容詞はどれ？", "A": "respectable（立派な・きちんとした）", "B": "responsible（責任ある）", "C": "reliable（信頼できる）", "D": "reasonable（妥当な）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reawakening",
+    "pron": "ˌriːəˈweɪkənɪŋ",
+    "kana": "リアウェイクニング",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "reawaken（再び目覚めさせる）＋ -ing",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "比喩・文化"],
+    "meaning_main": "再覚醒・（感情・関心の）再びの目覚め・復活",
+    "description": "reawakening の意味・発音・例文・語源を解説。眠っていた感情・関心・意識が「再び目覚めること・再覚醒・復活」を表す、比喩的な名詞の使い方を分かりやすく紹介します。",
+    "keywords": ["reawakening 意味", "reawakening 発音", "再覚醒", "再びの目覚め"],
+    "meanings": [
+      { "hinshi": "【名詞】再覚醒・（感情・関心の）再びの目覚め・復活", "note": "眠っていた感情・関心・意識などが再び目覚めること。a spiritual reawakening（精神的な再覚醒）。動詞は reawaken。" }
+    ],
+    "usages": [
+      { "title": "① 「関心の再びの目覚め」として", "desc": "再び呼び覚まされることを表します。", "example_en": "There has been a reawakening of interest in folk music.", "example_ja": "民俗音楽への関心が再び目覚めてきている。" },
+      { "title": "② 「精神的な再覚醒」として", "desc": "意識の復活を表します。", "example_en": "The trip led to a spiritual reawakening.", "example_ja": "その旅は精神的な再覚醒につながった。" }
+    ],
+    "warn": [
+      "reawakening は『再覚醒・（感情・関心の）再びの目覚め・復活』。reawaken（再び目覚めさせる）＋ -ing。",
+      "a reawakening of interest / faith / passion（関心・信仰・情熱の再覚醒）が頻出。"
+    ],
+    "etym_note": "reawaken（re-「再び」＋ awaken「目覚めさせる」、古英語 awæcnan より）＋ -ing から成り、「再び目覚めること」を意味します。wake（目覚める）と同じ語根です。",
+    "etym_chain": [
+      { "node": "awæcnan", "sub": "目覚める", "era": "古英語" },
+      { "node": "reawaken", "sub": "再び目覚めさせる", "era": "近代英語" },
+      { "node": "reawakening", "sub": "再覚醒・再びの目覚め", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a reawakening of interest", "ja": "関心の再びの目覚め" },
+      { "en": "a spiritual reawakening", "ja": "精神的な再覚醒" },
+      { "en": "a cultural reawakening", "ja": "文化の復興" },
+      { "en": "a reawakening of faith", "ja": "信仰の再覚醒" },
+      { "en": "a national reawakening", "ja": "国民意識の再覚醒" },
+      { "en": "lead to a reawakening", "ja": "再覚醒につながる" }
+    ],
+    "related": [
+      { "en": "reawaken", "ja": "再び目覚めさせる" },
+      { "en": "revival", "ja": "復活・再生" },
+      { "en": "renaissance", "ja": "再生・復興" },
+      { "en": "resurgence", "ja": "再興・復活" }
+    ],
+    "faq": [
+      { "q": "reawakening とはどんな意味？", "a": "眠っていた感情・関心・意識などが『再び目覚めること・再覚醒・復活』という意味です。There has been a reawakening of interest in folk music.（民俗音楽への関心が再び目覚めてきた）のように使います。動詞は reawaken です。" },
+      { "q": "reawakening と revival の違いは？", "a": "どちらも『復活』ですが、reawakening は『（眠っていた感情・意識が）再び目覚める』という内面的なニュアンス、revival は『（衰えていたものが）再び盛んになる・再生する』を広く表します。" }
+    ],
+    "quiz": [
+      { "q": "There has been a ___ of interest in folk music.（再びの目覚め）", "A": "reawakening", "B": "remembering の思い出すこと", "C": "rebuilding の再建", "D": "removing の取り除くこと", "correct": "A" },
+      { "q": "reawakening の動詞形はどれ？", "A": "reawaken（再び目覚めさせる）", "B": "remember（思い出す）", "C": "rebuild（再建する）", "D": "remove（取り除く）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reciprocation",
+    "pron": "rɪˌsɪprəˈkeɪʃən",
+    "kana": "リシプロケイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "reciprocate（報いる・お返しする）＋ -ion",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "社会・機械"],
+    "meaning_main": "お返し・報い合い・相互のやり取り／（機械の）往復運動",
+    "description": "reciprocation の意味・発音・例文・語源を解説。好意などへの「お返し・報い合い」という社会の意味と、機械の「往復運動」という意味を分かりやすく紹介します。",
+    "keywords": ["reciprocation 意味", "reciprocation 発音", "お返し", "往復運動"],
+    "meanings": [
+      { "hinshi": "【名詞】お返し・報い合い・相互のやり取り", "note": "好意・行為に対して同じように返すこと。in reciprocation（お返しに）。" },
+      { "hinshi": "【名詞】(機械)往復運動", "note": "前後（上下）に往復する動き。reciprocating engine（往復機関）。動詞は reciprocate。" }
+    ],
+    "usages": [
+      { "title": "① 「お返し」として", "desc": "好意への報いを表します。", "example_en": "He helped them in reciprocation for their kindness.", "example_ja": "彼は彼らの親切へのお返しに手を貸した。" },
+      { "title": "② 機械「往復運動」として", "desc": "前後の往復を表します。", "example_en": "The piston's reciprocation drives the wheel.", "example_ja": "ピストンの往復運動が車輪を動かす。" }
+    ],
+    "warn": [
+      "reciprocation は『お返し・報い合い』『（機械の）往復運動』。動詞 reciprocate（報いる・お返しする／往復運動する）＋ -ion。",
+      "名詞 reciprocity（相互性・互恵）と近いが、reciprocation は『（具体的な）お返しの行為』に重点。"
+    ],
+    "etym_note": "reciprocate（『報いる・お返しする』、ラテン語 reciprocus「行きつ戻りつする」より）＋ -ion から成り、「行きつ戻りつ＝お返し・往復」を意味します。reciprocal（相互の）と同じ語根です。",
+    "etym_chain": [
+      { "node": "reciprocus", "sub": "行きつ戻りつする", "era": "ラテン語" },
+      { "node": "reciprocate", "sub": "報いる・往復する", "era": "近代英語" },
+      { "node": "reciprocation", "sub": "お返し・往復運動", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "in reciprocation", "ja": "お返しに" },
+      { "en": "in reciprocation for", "ja": "〜のお返しに" },
+      { "en": "mutual reciprocation", "ja": "互いの報い合い" },
+      { "en": "expect reciprocation", "ja": "お返しを期待する" },
+      { "en": "the reciprocation of the piston", "ja": "ピストンの往復運動" },
+      { "en": "a reciprocating motion", "ja": "往復運動" }
+    ],
+    "related": [
+      { "en": "reciprocate", "ja": "報いる・お返しする" },
+      { "en": "reciprocity", "ja": "相互性・互恵" },
+      { "en": "exchange", "ja": "交換" },
+      { "en": "return", "ja": "お返し・返礼" }
+    ],
+    "faq": [
+      { "q": "reciprocation とはどんな意味？", "a": "好意や行為への『お返し・報い合い・相互のやり取り』という社会の意味と、機械の『往復運動』という意味があります。in reciprocation for their kindness（彼らの親切へのお返しに）のように使います。動詞は reciprocate です。" },
+      { "q": "reciprocation と reciprocity の違いは？", "a": "reciprocity は『相互性・互恵（という関係・性質）』、reciprocation は『（実際の）お返しの行為・往復運動』に重点があります。どちらも reciprocate（お返しする）から来ています。" }
+    ],
+    "quiz": [
+      { "q": "He helped them in ___ for their kindness.（お返し）", "A": "reciprocation", "B": "recreation の娯楽", "C": "recommendation の推薦", "D": "reconciliation の和解", "correct": "A" },
+      { "q": "reciprocation の機械での意味はどれ？", "A": "往復運動", "B": "回転運動", "C": "停止", "D": "加速", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reclassification",
+    "pron": "ˌriːˌklæsɪfɪˈkeɪʃən",
+    "kana": "リクラシフィケイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "reclassify（分類し直す）＋ -ation",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "学術・行政"],
+    "meaning_main": "分類し直すこと・再分類・区分の変更",
+    "description": "reclassification の意味・発音・例文・語源を解説。生物・データ・等級などを別のグループに分け直す「再分類・区分の変更」を表す、学術・行政で使う名詞を紹介します。",
+    "keywords": ["reclassification 意味", "reclassification 発音", "再分類", "classify 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】分類し直すこと・再分類・区分の変更", "note": "あるものを別のグループ・等級に分け直すこと。the reclassification of the species（その種の再分類）。動詞は reclassify。" }
+    ],
+    "usages": [
+      { "title": "① 「種の再分類」として", "desc": "分類を変えることを表します。", "example_en": "New evidence led to the reclassification of the fossil.", "example_ja": "新証拠がその化石の再分類につながった。" },
+      { "title": "② 「等級の変更」として", "desc": "区分の見直しを表します。", "example_en": "The reclassification of the road changed the speed limit.", "example_ja": "その道路の区分変更で制限速度が変わった。" }
+    ],
+    "warn": [
+      "reclassification は『分類し直すこと・再分類・区分の変更』。reclassify（分類し直す）＋ -ation。",
+      "生物分類・データ・等級・職位など、グループ分けを変える文脈で使う。"
+    ],
+    "etym_note": "reclassify（re-「再び」＋ classify「分類する」、class「等級・分類」より）＋ -ation から成り、「再び分類すること」を意味します。class（クラス・等級）と同じ語根です。",
+    "etym_chain": [
+      { "node": "class", "sub": "等級・分類", "era": "近代英語" },
+      { "node": "reclassify", "sub": "分類し直す", "era": "近代英語" },
+      { "node": "reclassification", "sub": "再分類", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the reclassification of the species", "ja": "その種の再分類" },
+      { "en": "a job reclassification", "ja": "職位の区分変更" },
+      { "en": "the reclassification of land", "ja": "土地区分の変更" },
+      { "en": "drug reclassification", "ja": "薬物の分類変更" },
+      { "en": "undergo reclassification", "ja": "再分類される" },
+      { "en": "a reclassification of data", "ja": "データの再分類" }
+    ],
+    "related": [
+      { "en": "reclassify", "ja": "分類し直す" },
+      { "en": "classification", "ja": "分類" },
+      { "en": "categorize", "ja": "分類する" },
+      { "en": "regrade", "ja": "等級をつけ直す" }
+    ],
+    "faq": [
+      { "q": "reclassification とはどんな意味？", "a": "生物・データ・等級などを別のグループに分け直す『再分類・区分の変更』のことです。New evidence led to the reclassification of the fossil.（新証拠がその化石の再分類につながった）のように使います。動詞は reclassify です。" },
+      { "q": "reclassification はどんな場面で使う？", "a": "生物学で新しい証拠により種を分類し直すとき、行政で道路・土地の区分を変えるとき、人事で職位の等級を見直すときなど、グループ分け・区分を変更する場面で使います。" }
+    ],
+    "quiz": [
+      { "q": "New evidence led to the ___ of the fossil.（再分類）", "A": "reclassification", "B": "classification の最初の分類だけ", "C": "clarification の明確化", "D": "qualification の資格", "correct": "A" },
+      { "q": "reclassification の動詞形はどれ？", "A": "reclassify（分類し直す）", "B": "clarify（明確にする）", "C": "qualify（資格を得る）", "D": "classify の最初に分類するだけ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recombine",
+    "pron": "ˌriːkəmˈbaɪn",
+    "kana": "リコンバイン",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ combine（結合する・組み合わせる）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "理科・化学"],
+    "meaning_main": "再び結合する・組み合わせ直す（遺伝子・原子などを）",
+    "description": "recombine の意味・発音・例文・語源を解説。いったん分かれたものを「再び結合する・組み合わせ直す」という、化学・生物（遺伝子組換え）などで使う語を紹介します。",
+    "keywords": ["recombine 意味", "recombine 発音", "再結合する", "combine 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再び結合する・組み合わせ直す", "note": "分かれた要素（原子・遺伝子・部品など）を再びまとめる。recombine the elements（要素を組み合わせ直す）。名詞は recombination。" }
+    ],
+    "usages": [
+      { "title": "① 化学「再結合する」として", "desc": "分かれた原子などが再び結びつくことを表します。", "example_en": "The atoms recombine to form a new compound.", "example_ja": "原子が再結合して新しい化合物をつくる。" },
+      { "title": "② 「組み合わせ直す」として", "desc": "要素をまとめ直すことを表します。", "example_en": "We can recombine the parts in different ways.", "example_ja": "部品をいろいろな形で組み合わせ直せる。" }
+    ],
+    "warn": [
+      "recombine は『再び結合する・組み合わせ直す』。re-（再び）＋ combine（結合する）。名詞 recombination（再結合）。",
+      "生物の genetic recombination（遺伝子の組換え）, recombinant DNA（組換えDNA）が関連語。"
+    ],
+    "etym_note": "re-（再び）＋ combine（『結合する』、ラテン語 combinare「二つずつ合わせる」、com-「共に」＋ bini「二つずつ」より）から成り、「再び結びつけること」を意味します。",
+    "etym_chain": [
+      { "node": "combinare", "sub": "二つずつ合わせる", "era": "後期ラテン語" },
+      { "node": "combine", "sub": "結合する", "era": "中英語" },
+      { "node": "recombine", "sub": "再び結合する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "recombine the elements", "ja": "要素を組み合わせ直す" },
+      { "en": "atoms recombine", "ja": "原子が再結合する" },
+      { "en": "recombine genes", "ja": "遺伝子を組み換える" },
+      { "en": "recombine in new ways", "ja": "新しい形で組み合わせ直す" },
+      { "en": "genetic recombination", "ja": "遺伝子の組換え" },
+      { "en": "recombinant DNA", "ja": "組換えDNA" }
+    ],
+    "related": [
+      { "en": "combine", "ja": "結合する・組み合わせる" },
+      { "en": "recombination", "ja": "再結合・組換え" },
+      { "en": "merge", "ja": "合併する" },
+      { "en": "separate", "ja": "分ける（反対）" }
+    ],
+    "faq": [
+      { "q": "recombine とはどんな意味？", "a": "いったん分かれたものを『再び結合する・組み合わせ直す』という意味です。The atoms recombine to form a new compound.（原子が再結合して新しい化合物をつくる）のように、化学や生物で使います。名詞は recombination です。" },
+      { "q": "genetic recombination（遺伝子の組換え）とは？", "a": "親から受け継いだ遺伝子が新しい組み合わせに組み替わることです。生殖の過程で起こり、子に多様性をもたらします。recombine（再結合する）の名詞形 recombination の代表的な使い方です。" }
+    ],
+    "quiz": [
+      { "q": "The atoms ___ to form a new compound.（再結合する）", "A": "recombine", "B": "combine の最初に結合する", "C": "confine の閉じ込める", "D": "decline の断る", "correct": "A" },
+      { "q": "recombine の名詞形はどれ？", "A": "recombination（再結合・組換え）", "B": "combination の最初の組み合わせだけ", "C": "confinement（監禁）", "D": "decline（衰退）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "resonator",
+    "pron": "ˈrezəneɪtər",
+    "kana": "レゾネイター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "resonate（共鳴する）＋ -or（〜するもの）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "理科・音楽"],
+    "meaning_main": "共鳴器・共鳴装置（音や電波を共鳴させて強める部分）",
+    "description": "resonator の意味・発音・例文・語源を解説。音や電波を共鳴させて強める部分・装置「共鳴器・共鳴装置」を表す、物理・音楽・電子工学で使う名詞を紹介します。",
+    "keywords": ["resonator 意味", "resonator 発音", "共鳴器", "resonate 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】共鳴器・共鳴装置", "note": "特定の振動数で共鳴し、音・電波などを強めたり選んだりする部分・装置。ギターの胴、笛の管、電子回路の共振素子など。" }
+    ],
+    "usages": [
+      { "title": "① 楽器の「共鳴器（胴）」として", "desc": "音を強める部分を表します。", "example_en": "The guitar's body acts as a resonator.", "example_ja": "ギターの胴は共鳴器として働く。" },
+      { "title": "② 電子工学の「共振素子」として", "desc": "周波数を選ぶ部品を表します。", "example_en": "A crystal resonator keeps the clock accurate.", "example_ja": "水晶共振子は時計の精度を保つ。" }
+    ],
+    "warn": [
+      "resonator は『共鳴器・共鳴装置』。動詞 resonate（共鳴する）＋ -or。名詞 resonance（共鳴）。",
+      "音響（楽器の胴・共鳴箱）、電子工学（水晶振動子など）で使う。"
+    ],
+    "etym_note": "resonate（『共鳴する』、ラテン語 resonare「鳴り響く」より）＋ -or（『〜するもの』）から成り、「共鳴させるもの」を意味します。resonance（共鳴）, sound（音）と同じ語根です。",
+    "etym_chain": [
+      { "node": "resonare", "sub": "鳴り響く", "era": "ラテン語" },
+      { "node": "resonate", "sub": "共鳴する", "era": "近代英語" },
+      { "node": "resonator", "sub": "共鳴器", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "act as a resonator", "ja": "共鳴器として働く" },
+      { "en": "an acoustic resonator", "ja": "音響共鳴器" },
+      { "en": "a crystal resonator", "ja": "水晶共振子" },
+      { "en": "the resonator of a guitar", "ja": "ギターの共鳴胴" },
+      { "en": "a cavity resonator", "ja": "空洞共振器" },
+      { "en": "tune the resonator", "ja": "共鳴器を調整する" }
+    ],
+    "related": [
+      { "en": "resonate", "ja": "共鳴する" },
+      { "en": "resonance", "ja": "共鳴・反響" },
+      { "en": "amplifier", "ja": "増幅器" },
+      { "en": "vibration", "ja": "振動" }
+    ],
+    "faq": [
+      { "q": "resonator とはどんな意味？", "a": "音や電波を共鳴させて強めたり選んだりする部分・装置『共鳴器・共鳴装置』のことです。The guitar's body acts as a resonator.（ギターの胴は共鳴器として働く）のように使います。" },
+      { "q": "resonator はどんな例がある？", "a": "ギターやバイオリンの胴（音を共鳴させて大きくする）、笛の管、電子機器の水晶振動子（一定の周波数で共振して時計やラジオの精度を保つ）などがあります。" }
+    ],
+    "quiz": [
+      { "q": "The guitar's body acts as a ___.（共鳴器）", "A": "resonator", "B": "radiator のラジエーター", "C": "generator の発電機", "D": "elevator のエレベーター", "correct": "A" },
+      { "q": "resonator のもとになった動詞はどれ？", "A": "resonate（共鳴する）", "B": "radiate（放射する）", "C": "generate（生み出す）", "D": "elevate（上げる）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "royally",
+    "pron": "ˈrɔɪəli",
+    "kana": "ロイヤリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "royal（王の・盛大な）＋ -ly",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "口語・強調"],
+    "meaning_main": "王者のように・盛大に・手厚く／(口語)とことん・見事に（悪い意味でも）",
+    "description": "royally の意味・発音・例文・語源を解説。「王者のように盛大に・手厚く」もてなす意味と、口語で「とことん・見事に（失敗するなど）」と強調する使い方を紹介します。",
+    "keywords": ["royally 意味", "royally 発音", "盛大に", "とことん"],
+    "meanings": [
+      { "hinshi": "【副詞】王者のように・盛大に・手厚く", "note": "豪華に・立派に。be royally entertained（盛大にもてなされる）。" },
+      { "hinshi": "【副詞】(口語)とことん・完全に・見事に（しばしば悪い意味の強調）", "note": "royally mess up（とことん台無しにする）。" }
+    ],
+    "usages": [
+      { "title": "① 「盛大にもてなす」として", "desc": "手厚い歓待を表します。", "example_en": "The guests were royally entertained.", "example_ja": "客は盛大にもてなされた。" },
+      { "title": "② 口語「とことん」として", "desc": "完全な失敗などを強調します。", "example_en": "We were royally ripped off.", "example_ja": "私たちはとことんぼったくられた。" }
+    ],
+    "warn": [
+      "royally は『王者のように・盛大に・手厚く』と、口語で『とことん・完全に（しばしば悪い意味の強調）』。royal（王の・盛大な）＋ -ly。",
+      "royally entertained（盛大にもてなされた）は良い意味、royally messed up（とことん台無し）は悪い意味の強調。"
+    ],
+    "etym_note": "royal（『王の・王立の・盛大な』、ラテン語 regalis「王の」、rex「王」より）＋ -ly から成り、「王者のように・盛大に」を意味します。regal（王の）, royalty（王族）と同じ語根です。",
+    "etym_chain": [
+      { "node": "regalis", "sub": "王の", "era": "ラテン語" },
+      { "node": "royal", "sub": "王の・盛大な", "era": "中英語" },
+      { "node": "royally", "sub": "盛大に・とことん", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be royally entertained", "ja": "盛大にもてなされる" },
+      { "en": "live royally", "ja": "王者のように暮らす" },
+      { "en": "treat royally", "ja": "手厚くもてなす" },
+      { "en": "royally mess up", "ja": "とことん台無しにする" },
+      { "en": "be royally annoyed", "ja": "ひどく腹を立てる" },
+      { "en": "royally screwed", "ja": "完全にしくじって" }
+    ],
+    "related": [
+      { "en": "royal", "ja": "王の・盛大な" },
+      { "en": "lavishly", "ja": "ぜいたくに" },
+      { "en": "thoroughly", "ja": "徹底的に・とことん" },
+      { "en": "magnificently", "ja": "見事に・壮大に" }
+    ],
+    "faq": [
+      { "q": "royally とはどんな意味？", "a": "『王者のように・盛大に・手厚く』もてなすという意味と、口語で『とことん・完全に・見事に（しばしば悪い意味の強調）』という意味があります。The guests were royally entertained.（盛大にもてなされた）のように使います。" },
+      { "q": "royally mess up とはどんな意味？", "a": "口語で『とことん台無しにする・完全にしくじる』という意味です。royally が『徹底的に・見事なほど』と失敗の程度を強調しています。" }
+    ],
+    "quiz": [
+      { "q": "The guests were ___ entertained.（盛大に）", "A": "royally", "B": "rarely のめったに〜ない", "C": "recently の最近", "D": "really の本当に", "correct": "A" },
+      { "q": "royally のもとになった形容詞はどれ？", "A": "royal（王の・盛大な）", "B": "loyal（忠実な）", "C": "real（本当の）", "D": "rural（田舎の）", "correct": "A" }
+    ]
+  }
+]
