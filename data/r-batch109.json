@@ -1,0 +1,523 @@
+[
+  {
+    "english": "rediscovery",
+    "pron": "ˌriːdɪsˈkʌvəri",
+    "kana": "リディスカバリー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ discovery（発見）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "再発見・（忘れられていたものを）再び見いだすこと",
+    "description": "rediscovery の意味・発音・例文・語源を解説。忘れられていたものや価値を「再発見すること」を表す名詞の使い方と、動詞 rediscover を分かりやすく紹介します。",
+    "keywords": ["rediscovery 意味", "rediscovery 発音", "再発見", "discover 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再発見・再び見いだすこと", "note": "忘れられた・見失われたものを再び発見すること。the rediscovery of a lost art（失われた技法の再発見）。動詞は rediscover。" }
+    ],
+    "usages": [
+      { "title": "① 「再発見」として", "desc": "忘れられたものを再び見いだすことを表します。", "example_en": "The rediscovery of the painting amazed historians.", "example_ja": "その絵画の再発見は歴史家たちを驚かせた。" },
+      { "title": "② 価値の「再発見」として", "desc": "価値を改めて見いだすことを表します。", "example_en": "The book led to a rediscovery of his early work.", "example_ja": "その本は彼の初期作品の再評価（再発見）につながった。" }
+    ],
+    "warn": [
+      "rediscovery は『再発見』。re-（再び）＋ discovery。動詞は rediscover（再発見する）。",
+      "忘れ去られていたもの・価値を『改めて見いだす』ニュアンス。"
+    ],
+    "etym_note": "re-（再び）＋ discovery（発見、古フランス語 descovrir「覆いを取る」より）から成り、「再び覆いを取って見いだすこと」を意味します。cover（覆う）と同じ語根です。",
+    "etym_chain": [
+      { "node": "descovrir", "sub": "覆いを取る", "era": "古フランス語" },
+      { "node": "discovery", "sub": "発見", "era": "近代英語" },
+      { "node": "rediscovery", "sub": "再発見", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the rediscovery of", "ja": "〜の再発見" },
+      { "en": "a remarkable rediscovery", "ja": "注目すべき再発見" },
+      { "en": "the rediscovery of an art", "ja": "ある技法の再発見" },
+      { "en": "lead to a rediscovery", "ja": "再発見につながる" },
+      { "en": "the rediscovery of nature", "ja": "自然の再発見" },
+      { "en": "a rediscovery of self", "ja": "自分自身の再発見" }
+    ],
+    "related": [
+      { "en": "rediscover", "ja": "再発見する" },
+      { "en": "discovery", "ja": "発見" },
+      { "en": "revival", "ja": "復活・再興" },
+      { "en": "renaissance", "ja": "再生・復興" }
+    ],
+    "faq": [
+      { "q": "rediscovery とはどんな意味？", "a": "忘れられていたものや価値を『再発見すること』という意味です。The rediscovery of the painting amazed historians.（その絵画の再発見は歴史家を驚かせた）のように使います。動詞は rediscover です。" },
+      { "q": "rediscovery と discovery の違いは？", "a": "discovery は『（初めて）発見すること』、rediscovery は『（一度忘れ去られたものを）再び見いだすこと』です。re-（再び）がつくと『改めて』の意味になります。" }
+    ],
+    "quiz": [
+      { "q": "The ___ of the painting amazed historians.（再発見）", "A": "rediscovery", "B": "discovery の最初の発見", "C": "recovery の回復", "D": "delivery の配達", "correct": "A" },
+      { "q": "rediscovery の動詞形はどれ？", "A": "rediscover（再発見する）", "B": "recover（回復する）", "C": "deliver（配達する）", "D": "discover の最初の発見だけ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "readership",
+    "pron": "ˈriːdərʃɪp",
+    "kana": "リーダーシップ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "reader（読者）＋ -ship（集合・状態）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "メディア"],
+    "meaning_main": "読者（層）・読者数（新聞・雑誌などの）",
+    "description": "readership の意味・発音・例文・語源を解説。新聞・雑誌などの「読者全体・読者層・読者数」を表す、メディアで使う名詞の使い方を分かりやすく紹介します。",
+    "keywords": ["readership 意味", "readership 発音", "読者層", "読者数"],
+    "meanings": [
+      { "hinshi": "【名詞】読者（全体）・読者層・読者数", "note": "ある出版物を読む人々の集まり・規模。a wide readership（幅広い読者層）。a readership of one million（読者数100万）。" }
+    ],
+    "usages": [
+      { "title": "① 「読者層」として", "desc": "読む人々の集まりを表します。", "example_en": "The magazine has a young readership.", "example_ja": "その雑誌は若い読者層を持つ。" },
+      { "title": "② 「読者数」として", "desc": "読む人の数・規模を表します。", "example_en": "The newspaper's readership has declined.", "example_ja": "その新聞の読者数は減少した。" }
+    ],
+    "warn": [
+      "readership は『読者（全体）・読者層・読者数』。reader（読者）＋ -ship（集合・状態を表す語尾）。",
+      "リーダーシップ（指導力）は leadership（leader＋ship）。発音が似るが別語。"
+    ],
+    "etym_note": "reader（『読者』、read「読む」より）＋ -ship（『集合・状態・地位』を表す語尾）から成り、「読者の集まり・規模」を意味します。membership（会員）, friendship（友情）と同じ -ship です。",
+    "etym_chain": [
+      { "node": "reader", "sub": "読者", "era": "中英語" },
+      { "node": "readership", "sub": "読者層", "era": "19世紀英語" },
+      { "node": "readership", "sub": "読者・読者数", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a wide readership", "ja": "幅広い読者層" },
+      { "en": "a young readership", "ja": "若い読者層" },
+      { "en": "a large readership", "ja": "多くの読者" },
+      { "en": "increase readership", "ja": "読者数を増やす" },
+      { "en": "declining readership", "ja": "減少する読者数" },
+      { "en": "appeal to a wide readership", "ja": "幅広い読者に訴える" }
+    ],
+    "related": [
+      { "en": "reader", "ja": "読者" },
+      { "en": "audience", "ja": "聴衆・視聴者・読者" },
+      { "en": "circulation", "ja": "発行部数" },
+      { "en": "subscriber", "ja": "購読者" }
+    ],
+    "faq": [
+      { "q": "readership とはどんな意味？", "a": "新聞・雑誌などの『読者全体・読者層・読者数』のことです。The magazine has a young readership.（その雑誌は若い読者層を持つ）のように使います。" },
+      { "q": "readership と leadership は同じ？", "a": "いいえ、別の語です。readership は reader（読者）＋ -ship で『読者層』、leadership は leader（指導者）＋ -ship で『指導力・統率』です。発音は似ていますが意味が違います。" }
+    ],
+    "quiz": [
+      { "q": "The magazine has a young ___.（読者層）", "A": "readership", "B": "leadership の指導力", "C": "membership の会員資格", "D": "ownership の所有権", "correct": "A" },
+      { "q": "readership の -ship と同じ働きの語はどれ？", "A": "membership（会員資格）", "B": "ship の船", "C": "shape（形）", "D": "sharp（鋭い）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rationally",
+    "pron": "ˈræʃənəli",
+    "kana": "ラショナリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "rational（理性的な）＋ -ly",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "理性的に・合理的に・冷静に（考える・判断する）",
+    "description": "rationally の意味・発音・例文・語源を解説。感情に流されず「理性的に・合理的に・冷静に」考えたり判断したりする様子を表す副詞の使い方を紹介します。",
+    "keywords": ["rationally 意味", "rationally 発音", "理性的に", "冷静に"],
+    "meanings": [
+      { "hinshi": "【副詞】理性的に・合理的に・冷静に", "note": "感情でなく理性・論理にもとづいて。think rationally（理性的に考える）。" }
+    ],
+    "usages": [
+      { "title": "① 「理性的に考える」として", "desc": "感情に流されず判断することを表します。", "example_en": "Try to think rationally about the problem.", "example_ja": "その問題について理性的に考えてみなさい。" },
+      { "title": "② 「冷静にふるまう」として", "desc": "落ち着いて行動することを表します。", "example_en": "It's hard to act rationally when you're afraid.", "example_ja": "恐怖を感じていると冷静に行動するのは難しい。" }
+    ],
+    "warn": [
+      "rationally は『理性的に・合理的に・冷静に』。形容詞 rational（理性的な）＋ -ly。反対は irrationally（不合理に）。",
+      "感情的（emotionally）の対義として使うことが多い。"
+    ],
+    "etym_note": "rational（理性的な、ラテン語 ratio「理性」より）＋ -ly から成り、「理性にもとづいて」を意味します。reason, ratio と同じ語根です。",
+    "etym_chain": [
+      { "node": "ratio", "sub": "理性", "era": "ラテン語" },
+      { "node": "rational", "sub": "理性的な", "era": "中英語" },
+      { "node": "rationally", "sub": "理性的に", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "think rationally", "ja": "理性的に考える" },
+      { "en": "act rationally", "ja": "合理的に行動する" },
+      { "en": "behave rationally", "ja": "冷静にふるまう" },
+      { "en": "respond rationally", "ja": "冷静に対応する" },
+      { "en": "rationally explain", "ja": "理にかなって説明する" },
+      { "en": "discuss rationally", "ja": "冷静に話し合う" }
+    ],
+    "related": [
+      { "en": "rational", "ja": "理性的な・合理的な" },
+      { "en": "logically", "ja": "論理的に" },
+      { "en": "sensibly", "ja": "分別をもって" },
+      { "en": "irrationally", "ja": "不合理に（反対）" }
+    ],
+    "faq": [
+      { "q": "rationally とはどんな意味？", "a": "感情に流されず『理性的に・合理的に・冷静に』考えたり判断したりするという意味の副詞です。Try to think rationally about the problem.（その問題について理性的に考えなさい）のように使います。" },
+      { "q": "rationally の反対語は？", "a": "irrationally（不合理に・理性を欠いて）です。rational（理性的な）⇔ irrational（不合理な）、rationally ⇔ irrationally の関係です。emotionally（感情的に）とも対比されます。" }
+    ],
+    "quiz": [
+      { "q": "Try to think ___ about the problem.（理性的に）", "A": "rationally", "B": "randomly の無作為に", "C": "rarely のめったに〜ない", "D": "rapidly の急速に", "correct": "A" },
+      { "q": "rationally の反対語はどれ？", "A": "irrationally（不合理に）", "B": "naturally（自然に）", "C": "normally（普通に）", "D": "finally（ついに）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rattled",
+    "pron": "ˈrætld",
+    "kana": "ラトルド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "rattle（ガタガタ鳴らす・動揺させる）＋ -ed",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "口語"],
+    "meaning_main": "動揺した・うろたえた・落ち着きを失った",
+    "description": "rattled の意味・発音・例文・語源を解説。予想外のことに「動揺した・うろたえた・落ち着きを失った」という様子を表す、口語的な形容詞の使い方を紹介します。",
+    "keywords": ["rattled 意味", "rattled 発音", "動揺した", "うろたえた"],
+    "meanings": [
+      { "hinshi": "【形容詞】動揺した・うろたえた・落ち着きを失った", "note": "驚き・不安で平静を失った状態。get rattled（動揺する）。look rattled（うろたえて見える）。" }
+    ],
+    "usages": [
+      { "title": "① 「動揺した」として", "desc": "平静を失った様子を表します。", "example_en": "She seemed rattled by the sudden question.", "example_ja": "彼女は突然の質問に動揺したようだった。" },
+      { "title": "② get rattled の形で", "desc": "「うろたえる」を表します。", "example_en": "Don't let them get you rattled.", "example_ja": "彼らに動揺させられるな。" }
+    ],
+    "warn": [
+      "rattled は『動揺した・うろたえた』。動詞 rattle（ガタガタ鳴らす／（人を）動揺させる）の過去分詞・形容詞用法。口語的。",
+      "rattle someone（人を動揺させる）, get rattled（動揺する）でよく使う。"
+    ],
+    "etym_note": "rattle（『ガタガタ鳴らす』、擬音語より。比喩で『（心を）かき乱す・動揺させる』）＋ -ed から成り、「（心を揺さぶられて）動揺した」を意味します。",
+    "etym_chain": [
+      { "node": "rattle", "sub": "ガタガタ鳴らす", "era": "中英語" },
+      { "node": "rattle", "sub": "動揺させる", "era": "近代英語" },
+      { "node": "rattled", "sub": "動揺した", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "get rattled", "ja": "動揺する・うろたえる" },
+      { "en": "look rattled", "ja": "うろたえて見える" },
+      { "en": "seem rattled", "ja": "動揺しているようだ" },
+      { "en": "rattled by the news", "ja": "その知らせに動揺した" },
+      { "en": "easily rattled", "ja": "すぐ動揺する" },
+      { "en": "stay calm and not get rattled", "ja": "冷静を保ち動揺しない" }
+    ],
+    "related": [
+      { "en": "rattle", "ja": "ガタガタ鳴らす・動揺させる" },
+      { "en": "unsettled", "ja": "落ち着かない" },
+      { "en": "flustered", "ja": "うろたえた" },
+      { "en": "composed", "ja": "落ち着いた（反対）" }
+    ],
+    "faq": [
+      { "q": "rattled とはどんな意味？", "a": "予想外のことに『動揺した・うろたえた・落ち着きを失った』という意味の形容詞です。She seemed rattled by the sudden question.（突然の質問に動揺したようだった）のように使います。" },
+      { "q": "get rattled とはどんな意味？", "a": "『動揺する・うろたえる』という意味です。Don't get rattled.（動揺するな・落ち着け）のように使います。rattle someone は『人を動揺させる』です。" }
+    ],
+    "quiz": [
+      { "q": "She seemed ___ by the sudden question.（動揺した）", "A": "rattled", "B": "settled の落ち着いた", "C": "battled の戦った", "D": "rated の評価された", "correct": "A" },
+      { "q": "get rattled の意味として正しいのは？", "A": "動揺する・うろたえる", "B": "落ち着く", "C": "喜ぶ", "D": "眠る", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reenactment",
+    "pron": "ˌriːɪˈnæktmənt",
+    "kana": "リエナクトメント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ enactment（演じること・制定）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "歴史・文化"],
+    "meaning_main": "再現・（歴史的場面などの）再演",
+    "description": "reenactment の意味・発音・例文・語源を解説。歴史的な戦い・事件などを当時のように演じて見せる「再現・再演」を表す名詞の使い方を分かりやすく紹介します。",
+    "keywords": ["reenactment 意味", "reenactment 発音", "再現", "再演"],
+    "meanings": [
+      { "hinshi": "【名詞】再現・再演", "note": "過去の出来事（戦い・事件・歴史的場面）を当時のように演じ直すこと。re-enactment とも書く。a battle reenactment（合戦の再現）。" }
+    ],
+    "usages": [
+      { "title": "① 歴史の「再現」として", "desc": "過去の場面を演じ直すことを表します。", "example_en": "They watched a reenactment of the famous battle.", "example_ja": "彼らはその有名な合戦の再現を見た。" },
+      { "title": "② 事件の「再現」として", "desc": "出来事を再現することを表します。", "example_en": "The police staged a reenactment of the crime.", "example_ja": "警察はその犯罪の再現（実況見分）を行った。" }
+    ],
+    "warn": [
+      "reenactment は『再現・再演』。re-（再び）＋ enactment（演じること・制定）。re-enactment とも書く。",
+      "歴史イベントの『再現劇』や、警察の『犯行再現』など。動詞は reenact（再現する）。"
+    ],
+    "etym_note": "re-（再び）＋ enactment（『演じること・（法の）制定』、enact「演じる・制定する」より）から成り、「再び演じること」を意味します。act（演じる・行為）と同じ語根です。",
+    "etym_chain": [
+      { "node": "enact", "sub": "演じる・制定する", "era": "近代英語" },
+      { "node": "enactment", "sub": "演じること・制定", "era": "近代英語" },
+      { "node": "reenactment", "sub": "再現・再演", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a battle reenactment", "ja": "合戦の再現" },
+      { "en": "a historical reenactment", "ja": "歴史の再現劇" },
+      { "en": "a reenactment of the crime", "ja": "犯行の再現" },
+      { "en": "stage a reenactment", "ja": "再現を行う" },
+      { "en": "watch a reenactment", "ja": "再現を見る" },
+      { "en": "a Civil War reenactment", "ja": "南北戦争の再現イベント" }
+    ],
+    "related": [
+      { "en": "reenact", "ja": "再現する・再演する" },
+      { "en": "enactment", "ja": "演じること・制定" },
+      { "en": "recreation", "ja": "再現・娯楽" },
+      { "en": "simulation", "ja": "模擬・シミュレーション" }
+    ],
+    "faq": [
+      { "q": "reenactment とはどんな意味？", "a": "過去の出来事（戦い・事件・歴史的場面）を当時のように演じ直す『再現・再演』のことです。They watched a reenactment of the famous battle.（有名な合戦の再現を見た）のように使います。" },
+      { "q": "reenactment はどんな場面で使う？", "a": "歴史好きが当時の衣装で戦いを演じる『歴史再現イベント』や、警察が事件を再現する『犯行再現（実況見分）』などで使います。動詞は reenact です。" }
+    ],
+    "quiz": [
+      { "q": "They watched a ___ of the famous battle.（再現）", "A": "reenactment", "B": "enactment の最初の上演だけ", "C": "engagement の約束", "D": "entertainment の娯楽", "correct": "A" },
+      { "q": "reenactment の動詞形はどれ？", "A": "reenact（再現する）", "B": "react（反応する）", "C": "enable（可能にする）", "D": "engage（関わる）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reactant",
+    "pron": "riˈæktənt",
+    "kana": "リアクタント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "react（反応する）＋ -ant（〜するもの）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "理科・化学"],
+    "meaning_main": "反応物（化学反応で反応する側の物質）",
+    "description": "reactant の意味・発音・例文・語源を解説。化学反応において、反応して別の物質（生成物）に変わる側の物質「反応物」を表す、化学で使う名詞を紹介します。",
+    "keywords": ["reactant 意味", "reactant 発音", "反応物", "化学反応"],
+    "meanings": [
+      { "hinshi": "【名詞】反応物", "note": "化学反応で反応する側の出発物質。反応して生成物（product）になる。The reactants form a new compound.（反応物が新しい化合物をつくる）。" }
+    ],
+    "usages": [
+      { "title": "① 化学の「反応物」として", "desc": "反応する側の物質を表します。", "example_en": "In this reaction, oxygen is one of the reactants.", "example_ja": "この反応では酸素が反応物の一つだ。" },
+      { "title": "② 反応式の文脈で", "desc": "生成物と対比して使います。", "example_en": "The reactants are written on the left of the equation.", "example_ja": "反応物は反応式の左側に書かれる。" }
+    ],
+    "warn": [
+      "reactant は化学の『反応物』（反応する側）。react（反応する）＋ -ant。生成物は product。",
+      "反応式では『反応物 → 生成物』。左が reactant、右が product。"
+    ],
+    "etym_note": "react（反応する、re-「逆に」＋ act「動く」）＋ -ant（『〜するもの』）から成り、「反応するもの」を意味します。reaction（反応）, action（行為）と同じ語根です。",
+    "etym_chain": [
+      { "node": "react", "sub": "反応する", "era": "近代英語" },
+      { "node": "reactant", "sub": "反応するもの", "era": "20世紀英語" },
+      { "node": "reactant", "sub": "反応物", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "one of the reactants", "ja": "反応物の一つ" },
+      { "en": "reactants and products", "ja": "反応物と生成物" },
+      { "en": "a limiting reactant", "ja": "限定反応物（律速試薬）" },
+      { "en": "the reactants combine", "ja": "反応物が結合する" },
+      { "en": "consume the reactant", "ja": "反応物を消費する" },
+      { "en": "excess reactant", "ja": "過剰な反応物" }
+    ],
+    "related": [
+      { "en": "react", "ja": "反応する" },
+      { "en": "reaction", "ja": "反応" },
+      { "en": "product", "ja": "生成物" },
+      { "en": "compound", "ja": "化合物" }
+    ],
+    "faq": [
+      { "q": "reactant とはどんな意味？", "a": "化学反応で反応する側の物質『反応物』のことです。反応して生成物（product）に変わります。In this reaction, oxygen is one of the reactants.（この反応では酸素が反応物の一つだ）のように使います。" },
+      { "q": "reactant と product の違いは？", "a": "reactant は『反応物（反応する前の物質）』、product は『生成物（反応してできた物質）』です。反応式では『reactant → product（反応物 → 生成物）』と表します。" }
+    ],
+    "quiz": [
+      { "q": "In this reaction, oxygen is one of the ___s.（反応物）", "A": "reactant", "B": "reaction の反応", "C": "reactor の原子炉", "D": "product の生成物", "correct": "A" },
+      { "q": "化学反応で reactant の反対（できる側）はどれ？", "A": "product（生成物）", "B": "reactor（原子炉）", "C": "reaction（反応）", "D": "react（反応する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reductive",
+    "pron": "rɪˈdʌktɪv",
+    "kana": "リダクティブ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "reduce（減らす・単純化する）＋ -ive",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "やや硬い語"],
+    "meaning_main": "（複雑なものを）単純化しすぎた・還元的な",
+    "description": "reductive の意味・発音・例文・語源を解説。複雑なものを「単純化しすぎた・要素に還元してとらえる」という、議論や批評で使う形容詞の使い方を紹介します。",
+    "keywords": ["reductive 意味", "reductive 発音", "単純化しすぎた", "還元的な"],
+    "meanings": [
+      { "hinshi": "【形容詞】（複雑なものを）単純化しすぎた・短絡的な", "note": "複雑な物事を単純な要素に切り詰めてとらえる（しばしば否定的）。a reductive view（単純化しすぎた見方）。" },
+      { "hinshi": "【形容詞】還元的な（哲学・科学）", "note": "全体を要素に分解して説明しようとする。reductive approach（還元主義的な手法）。" }
+    ],
+    "usages": [
+      { "title": "① 「単純化しすぎた」として", "desc": "物事を切り詰めた見方を表します。", "example_en": "That's a reductive way of looking at the issue.", "example_ja": "それはその問題を単純化しすぎた見方だ。" },
+      { "title": "② 「還元的な」として", "desc": "全体を要素に分けて説明する立場を表します。", "example_en": "He criticized the reductive approach to the mind.", "example_ja": "彼は心を還元的に扱う手法を批判した。" }
+    ],
+    "warn": [
+      "reductive は『単純化しすぎた・還元的な』。reduce（減らす・単純化する）＋ -ive。批評では否定的に使うことが多い。",
+      "名詞は reductionism（還元主義）。reductive は『複雑さを切り捨てている』という含み。"
+    ],
+    "etym_note": "reduce（減らす・単純化する、ラテン語 reducere「引き戻す」より）＋ -ive（性質を表す語尾）から成り、「（複雑さを）切り詰める性質の」を意味します。reduction（削減）と同じ語根です。",
+    "etym_chain": [
+      { "node": "reducere", "sub": "引き戻す", "era": "ラテン語" },
+      { "node": "reduce", "sub": "減らす・単純化する", "era": "中英語" },
+      { "node": "reductive", "sub": "単純化しすぎた", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a reductive view", "ja": "単純化しすぎた見方" },
+      { "en": "a reductive analysis", "ja": "単純化しすぎた分析" },
+      { "en": "overly reductive", "ja": "過度に単純化した" },
+      { "en": "a reductive approach", "ja": "還元的な手法" },
+      { "en": "sound reductive", "ja": "短絡的に聞こえる" },
+      { "en": "a reductive argument", "ja": "単純化しすぎた議論" }
+    ],
+    "related": [
+      { "en": "reduce", "ja": "減らす・単純化する" },
+      { "en": "reductionism", "ja": "還元主義" },
+      { "en": "simplistic", "ja": "単純化しすぎた" },
+      { "en": "oversimplified", "ja": "過度に単純化された" }
+    ],
+    "faq": [
+      { "q": "reductive とはどんな意味？", "a": "複雑なものを『単純化しすぎた・短絡的な』、また『（全体を要素に分けてとらえる）還元的な』という形容詞です。That's a reductive way of looking at it.（それは単純化しすぎた見方だ）のように、しばしば否定的に使います。" },
+      { "q": "reductive と simplistic の違いは？", "a": "どちらも『単純化しすぎ』ですが、simplistic は『安易に単純すぎる』、reductive は『複雑さを切り捨てて要素に還元している』というニュアンスがあります。批評でよく使われます。" }
+    ],
+    "quiz": [
+      { "q": "That's a ___ way of looking at the issue.（単純化しすぎた）", "A": "reductive", "B": "productive の生産的な", "C": "attractive の魅力的な", "D": "protective の保護的な", "correct": "A" },
+      { "q": "reductive のもとになった動詞はどれ？", "A": "reduce（減らす・単純化する）", "B": "produce（生産する）", "C": "attract（引きつける）", "D": "protect（保護する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "racquetball",
+    "pron": "ˈrækɪtbɔːl",
+    "kana": "ラケットボール",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "racquet（ラケット）＋ ball（ボール）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "スポーツ"],
+    "meaning_main": "ラケットボール（壁に囲まれたコートで行う球技）",
+    "description": "racquetball の意味・発音・例文・語源を解説。四方を壁に囲まれたコートで、ラケットでボールを打ち合う球技「ラケットボール」を表す名詞の使い方を紹介します。",
+    "keywords": ["racquetball 意味", "racquetball 発音", "ラケットボール", "スポーツ"],
+    "meanings": [
+      { "hinshi": "【名詞】ラケットボール", "note": "四方を壁に囲まれたコートで、ラケットでゴム製ボールを壁に打ち合う室内球技。アメリカで人気。play racquetball（ラケットボールをする）。" }
+    ],
+    "usages": [
+      { "title": "① スポーツとしての「ラケットボール」", "desc": "壁打ちの室内球技を表します。", "example_en": "They play racquetball every weekend.", "example_ja": "彼らは毎週末ラケットボールをする。" },
+      { "title": "② 施設の文脈で", "desc": "コートや道具を表します。", "example_en": "The gym has two racquetball courts.", "example_ja": "そのジムにはラケットボールコートが2面ある。" }
+    ],
+    "warn": [
+      "racquetball は『ラケットボール』（壁に囲まれたコートの球技）。racquet（ラケット）＋ ball。",
+      "スカッシュ（squash）に似るが、ボール・コート・ルールが異なる別競技。"
+    ],
+    "etym_note": "racquet（ラケット、アラビア語 rāḥat「手のひら」より）＋ ball（ボール）から成る複合語で、20世紀半ばアメリカで生まれた球技の名です。",
+    "etym_chain": [
+      { "node": "racquet + ball", "sub": "ラケット＋ボール", "era": "近代英語" },
+      { "node": "racquetball", "sub": "ラケットボール", "era": "20世紀米語" },
+      { "node": "racquetball", "sub": "ラケットボール", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "play racquetball", "ja": "ラケットボールをする" },
+      { "en": "a racquetball court", "ja": "ラケットボールのコート" },
+      { "en": "a game of racquetball", "ja": "ラケットボールの試合" },
+      { "en": "a racquetball racquet", "ja": "ラケットボール用ラケット" },
+      { "en": "indoor racquetball", "ja": "室内ラケットボール" },
+      { "en": "a racquetball club", "ja": "ラケットボールクラブ" }
+    ],
+    "related": [
+      { "en": "racquet", "ja": "ラケット" },
+      { "en": "squash", "ja": "スカッシュ" },
+      { "en": "tennis", "ja": "テニス" },
+      { "en": "court", "ja": "コート" }
+    ],
+    "faq": [
+      { "q": "racquetball とはどんな意味？", "a": "四方を壁に囲まれたコートで、ラケットでゴム製ボールを壁に打ち合う室内球技『ラケットボール』のことです。They play racquetball every weekend.（毎週末ラケットボールをする）のように使います。" },
+      { "q": "racquetball と squash の違いは？", "a": "どちらも壁打ちの球技ですが、racquetball はボールがよく弾み、天井も使えるなどルールが異なります。squash（スカッシュ）はボールがあまり弾まず、より戦略的とされます。" }
+    ],
+    "quiz": [
+      { "q": "They play ___ every weekend.（ラケットボール）", "A": "racquetball", "B": "basketball のバスケ", "C": "racket の騒音", "D": "racecourse の競馬場", "correct": "A" },
+      { "q": "racquetball を構成する2語はどれ？", "A": "racquet（ラケット）＋ ball（ボール）", "B": "race（競走）＋ ball", "C": "rack（棚）＋ ball", "D": "racquet ＋ wall（壁）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rashly",
+    "pron": "ˈræʃli",
+    "kana": "ラッシュリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "rash（無分別な・軽率な）＋ -ly",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "やや硬い語"],
+    "meaning_main": "軽率に・向こう見ずに・無分別に（行動する）",
+    "description": "rashly の意味・発音・例文・語源を解説。よく考えずに「軽率に・向こう見ずに・無分別に」行動する様子を表す副詞の使い方と、形容詞 rash を紹介します。",
+    "keywords": ["rashly 意味", "rashly 発音", "軽率に", "向こう見ずに"],
+    "meanings": [
+      { "hinshi": "【副詞】軽率に・向こう見ずに・無分別に", "note": "結果を考えず性急に。act rashly（軽率に行動する）。" }
+    ],
+    "usages": [
+      { "title": "① 「軽率に行動する」として", "desc": "考えずに性急に動くことを表します。", "example_en": "He acted rashly and later regretted it.", "example_ja": "彼は軽率に行動し、後で後悔した。" },
+      { "title": "② 「向こう見ずに決める」として", "desc": "よく考えず決めることを表します。", "example_en": "Don't make decisions rashly.", "example_ja": "向こう見ずに決断してはいけない。" }
+    ],
+    "warn": [
+      "rashly は『軽率に・向こう見ずに・無分別に』。形容詞 rash（軽率な・無分別な）＋ -ly。",
+      "rash には名詞で『発疹（ほっしん）』の意味もあるが、副詞 rashly は『軽率に』のみ。"
+    ],
+    "etym_note": "rash（『軽率な・性急な』、中英語 rasch「すばやい」より）＋ -ly から成り、「考えずに性急に」を意味します。ドイツ語 rasch（速い）と同源です。",
+    "etym_chain": [
+      { "node": "rasch", "sub": "すばやい", "era": "中英語" },
+      { "node": "rash", "sub": "軽率な・性急な", "era": "中英語" },
+      { "node": "rashly", "sub": "軽率に", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "act rashly", "ja": "軽率に行動する" },
+      { "en": "decide rashly", "ja": "向こう見ずに決める" },
+      { "en": "speak rashly", "ja": "軽率に口にする" },
+      { "en": "behave rashly", "ja": "無分別にふるまう" },
+      { "en": "rashly promise", "ja": "軽々しく約束する" },
+      { "en": "don't act rashly", "ja": "軽率に動くな" }
+    ],
+    "related": [
+      { "en": "rash", "ja": "軽率な・無分別な" },
+      { "en": "recklessly", "ja": "無謀に" },
+      { "en": "hastily", "ja": "急いで・性急に" },
+      { "en": "prudently", "ja": "慎重に（反対）" }
+    ],
+    "faq": [
+      { "q": "rashly とはどんな意味？", "a": "よく考えずに『軽率に・向こう見ずに・無分別に』行動するという意味の副詞です。He acted rashly and later regretted it.（軽率に行動し後で後悔した）のように使います。形容詞は rash です。" },
+      { "q": "rashly と recklessly の違いは？", "a": "rashly は『（考えが足りず）軽率に・性急に』、recklessly は『（危険を顧みず）無謀に』という、より危険を強調するニュアンスがあります。" }
+    ],
+    "quiz": [
+      { "q": "He acted ___ and later regretted it.（軽率に）", "A": "rashly", "B": "rarely のめったに〜ない", "C": "richly の豊かに", "D": "freshly の新たに", "correct": "A" },
+      { "q": "rashly の形容詞形 rash の意味はどれ？", "A": "軽率な・無分別な", "B": "豊かな", "C": "新鮮な", "D": "まれな", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recolor",
+    "pron": "ˌriːˈkʌlər",
+    "kana": "リカラー",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ color（色をつける）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "日常・美術"],
+    "meaning_main": "色を塗り直す・染め直す・着色し直す",
+    "description": "recolor の意味・発音・例文・語源を解説。髪や絵、画像などの「色を塗り直す・染め直す・着色し直す」という、日常やデザインで使う語を分かりやすく紹介します。",
+    "keywords": ["recolor 意味", "recolor 発音", "塗り直す", "染め直す"],
+    "meanings": [
+      { "hinshi": "【動詞】色を塗り直す・染め直す・着色し直す", "note": "もとの色を別の色に、または同じ色を塗り直す。recolor her hair（髪を染め直す）。イギリス綴りは recolour。" }
+    ],
+    "usages": [
+      { "title": "① 「染め直す」として", "desc": "髪などの色を変えることを表します。", "example_en": "She decided to recolor her hair.", "example_ja": "彼女は髪を染め直すことにした。" },
+      { "title": "② 画像の「着色し直し」として", "desc": "デザインで色を変えることを表します。", "example_en": "You can recolor the logo in the app.", "example_ja": "アプリでロゴの色を塗り直せる。" }
+    ],
+    "warn": [
+      "recolor は『色を塗り直す・染め直す・着色し直す』。re-（再び）＋ color。イギリス綴りは recolour。",
+      "髪の染め直し、画像・デザインの配色変更など幅広く使う。"
+    ],
+    "etym_note": "re-（再び）＋ color（色・色をつける、ラテン語 color「色」より）から成り、「再び色をつけること」を意味します。colorful（色彩豊かな）と同じ語根です。",
+    "etym_chain": [
+      { "node": "color", "sub": "色", "era": "ラテン語" },
+      { "node": "color", "sub": "色をつける", "era": "中英語" },
+      { "node": "recolor", "sub": "塗り直す・染め直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "recolor her hair", "ja": "髪を染め直す" },
+      { "en": "recolor the walls", "ja": "壁を塗り直す" },
+      { "en": "recolor the image", "ja": "画像を着色し直す" },
+      { "en": "recolor the logo", "ja": "ロゴの色を変える" },
+      { "en": "digitally recolor", "ja": "デジタルで着色し直す" },
+      { "en": "recolor an old photo", "ja": "古い写真に色をつけ直す" }
+    ],
+    "related": [
+      { "en": "color", "ja": "色・色をつける" },
+      { "en": "dye", "ja": "染める" },
+      { "en": "repaint", "ja": "塗り直す" },
+      { "en": "tint", "ja": "薄く色をつける" }
+    ],
+    "faq": [
+      { "q": "recolor とはどんな意味？", "a": "髪や絵、画像などの『色を塗り直す・染め直す・着色し直す』という意味です。She decided to recolor her hair.（髪を染め直すことにした）のように使います。イギリス綴りは recolour です。" },
+      { "q": "recolor と repaint の違いは？", "a": "recolor は『（髪・画像・物の）色を変える・塗り直す』全般、repaint は特に『（ペンキで）塗り直す』ことに使います。デザインや髪では recolor が自然です。" }
+    ],
+    "quiz": [
+      { "q": "She decided to ___ her hair.（染め直す）", "A": "recolor", "B": "recall の思い出す", "C": "record の記録する", "D": "recover の回復する", "correct": "A" },
+      { "q": "recolor のイギリス綴りはどれ？", "A": "recolour", "B": "recolored", "C": "recoloring", "D": "recall", "correct": "A" }
+    ]
+  }
+]
