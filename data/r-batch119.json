@@ -1,0 +1,526 @@
+[
+  {
+    "english": "railroad",
+    "pron": "ˈreɪlroʊd",
+    "kana": "レイルロード",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rail（レール）＋ road（道）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "日常・交通"],
+    "meaning_main": "（米）鉄道／（動詞）強引に押し進める",
+    "description": "railroad の意味・発音・例文・語源を解説。アメリカ英語の「鉄道」という名詞と、「（議案などを）強引に押し進める」という動詞の使い方を分かりやすく紹介します。",
+    "keywords": ["railroad 意味", "railroad 発音", "鉄道", "railway 違い"],
+    "meanings": [
+      { "hinshi": "【名詞】(米)鉄道", "note": "線路・列車による交通機関。アメリカ英語。イギリスでは railway。a railroad station（鉄道駅）。" },
+      { "hinshi": "【動詞】強引に押し進める・むりやり通す", "note": "railroad a bill through（法案を強引に通す）。railroad someone into ～（人をせかして〜させる）。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「鉄道」として", "desc": "アメリカの鉄道を表します。", "example_en": "The transcontinental railroad changed America.", "example_ja": "大陸横断鉄道はアメリカを変えた。" },
+      { "title": "② 動詞「強引に押し進める」として", "desc": "むりやり通すことを表します。", "example_en": "They railroaded the bill through Congress.", "example_ja": "彼らは法案を議会で強引に通した。" }
+    ],
+    "warn": [
+      "railroad は(米)『鉄道』。(英)は railway。動詞で『強引に押し進める・むりやり通す』。rail（レール）＋ road（道）。",
+      "railroad someone into doing（人を急かして〜させる）の用法もある。"
+    ],
+    "etym_note": "rail（『レール・横棒』、古フランス語 reille より）＋ road（『道』、古英語 rad「乗ること・道」より）から成る複合語で、「レールの道＝鉄道」を意味します。",
+    "etym_chain": [
+      { "node": "rail + rad", "sub": "レール＋道", "era": "古フランス語・古英語" },
+      { "node": "railroad", "sub": "鉄道", "era": "19世紀英語" },
+      { "node": "railroad", "sub": "鉄道・強引に進める", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a railroad station", "ja": "鉄道駅" },
+      { "en": "a railroad track", "ja": "線路" },
+      { "en": "the transcontinental railroad", "ja": "大陸横断鉄道" },
+      { "en": "a railroad company", "ja": "鉄道会社" },
+      { "en": "railroad a bill through", "ja": "法案を強引に通す" },
+      { "en": "be railroaded into", "ja": "むりやり〜させられる" }
+    ],
+    "related": [
+      { "en": "railway", "ja": "鉄道（英）" },
+      { "en": "rail", "ja": "レール・横棒" },
+      { "en": "track", "ja": "線路・走路" },
+      { "en": "locomotive", "ja": "機関車" }
+    ],
+    "faq": [
+      { "q": "railroad とはどんな意味？", "a": "アメリカ英語で『鉄道』という名詞、また『（議案などを）強引に押し進める・むりやり通す』という動詞です。The transcontinental railroad changed America.（大陸横断鉄道はアメリカを変えた）のように使います。" },
+      { "q": "railroad と railway の違いは？", "a": "意味は同じ『鉄道』で、railroad はアメリカ英語、railway はイギリス英語です。どちらも rail（レール）を使った交通機関を指します。" }
+    ],
+    "quiz": [
+      { "q": "The transcontinental ___ changed America.（鉄道）", "A": "railroad", "B": "crossroad の交差点", "C": "highroad の幹線道路", "D": "railway は英用法だが別語", "correct": "A" },
+      { "q": "railroad の動詞の意味はどれ？", "A": "強引に押し進める", "B": "線路を掃除する", "C": "切符を買う", "D": "駅で待つ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rainstorm",
+    "pron": "ˈreɪnstɔːrm",
+    "kana": "レインストーム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rain（雨）＋ storm（嵐）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "天気・自然"],
+    "meaning_main": "暴風雨・大雨（強い雨を伴う嵐）",
+    "description": "rainstorm の意味・発音・例文・語源を解説。強い雨を伴う嵐「暴風雨・大雨」を表す名詞の使い方と、storm（嵐）を使った天気の語を分かりやすく紹介します。",
+    "keywords": ["rainstorm 意味", "rainstorm 発音", "暴風雨", "大雨"],
+    "meanings": [
+      { "hinshi": "【名詞】暴風雨・大雨", "note": "強い雨を伴う嵐。get caught in a rainstorm（暴風雨に遭う）。" }
+    ],
+    "usages": [
+      { "title": "① 「暴風雨」として", "desc": "強い雨の嵐を表します。", "example_en": "We got caught in a sudden rainstorm.", "example_ja": "私たちは突然の暴風雨に遭った。" },
+      { "title": "② 天気の話題で", "desc": "大雨の様子を表します。", "example_en": "The rainstorm flooded the streets.", "example_ja": "その大雨で通りが冠水した。" }
+    ],
+    "warn": [
+      "rainstorm は『暴風雨・大雨（強い雨の嵐）』。rain（雨）＋ storm（嵐）。",
+      "snowstorm（吹雪）, thunderstorm（雷雨）, sandstorm（砂嵐）など storm の仲間。"
+    ],
+    "etym_note": "rain（『雨』、古英語 regn より）＋ storm（『嵐』、古英語 storm より）から成る複合語で、「雨を伴う嵐」を意味します。",
+    "etym_chain": [
+      { "node": "regn + storm", "sub": "雨＋嵐", "era": "古英語" },
+      { "node": "rainstorm", "sub": "暴風雨", "era": "近代英語" },
+      { "node": "rainstorm", "sub": "暴風雨・大雨", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "caught in a rainstorm", "ja": "暴風雨に遭う" },
+      { "en": "a sudden rainstorm", "ja": "突然の暴風雨" },
+      { "en": "a heavy rainstorm", "ja": "激しい大雨" },
+      { "en": "during the rainstorm", "ja": "暴風雨の間" },
+      { "en": "the rainstorm passed", "ja": "暴風雨が過ぎ去った" },
+      { "en": "shelter from the rainstorm", "ja": "暴風雨から身を守る" }
+    ],
+    "related": [
+      { "en": "storm", "ja": "嵐" },
+      { "en": "thunderstorm", "ja": "雷雨" },
+      { "en": "downpour", "ja": "土砂降り" },
+      { "en": "snowstorm", "ja": "吹雪" }
+    ],
+    "faq": [
+      { "q": "rainstorm とはどんな意味？", "a": "強い雨を伴う嵐『暴風雨・大雨』のことです。We got caught in a sudden rainstorm.（突然の暴風雨に遭った）のように使います。" },
+      { "q": "rainstorm と thunderstorm の違いは？", "a": "rainstorm は『強い雨を伴う嵐』、thunderstorm は『雷を伴う嵐（雷雨）』です。どちらも storm（嵐）の一種で、伴う現象が雨か雷かで区別します。" }
+    ],
+    "quiz": [
+      { "q": "We got caught in a sudden ___.（暴風雨）", "A": "rainstorm", "B": "rainbow の虹", "C": "raincoat のレインコート", "D": "rainfall の降水量", "correct": "A" },
+      { "q": "rainstorm を構成する2語はどれ？", "A": "rain（雨）＋ storm（嵐）", "B": "rain ＋ form（形）", "C": "raise（上げる）＋ storm", "D": "rain ＋ store（店）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rainwater",
+    "pron": "ˈreɪnwɔːtər",
+    "kana": "レインウォーター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rain（雨）＋ water（水）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "自然・環境"],
+    "meaning_main": "雨水（あまみず）（降った雨の水）",
+    "description": "rainwater の意味・発音・例文・語源を解説。降った雨の水「雨水（あまみず）」を表す名詞の使い方と、雨水の利用（rainwater harvesting）を分かりやすく紹介します。",
+    "keywords": ["rainwater 意味", "rainwater 発音", "雨水", "あまみず"],
+    "meanings": [
+      { "hinshi": "【名詞】雨水（あまみず）", "note": "空から降った雨の水。collect rainwater（雨水を集める）。rainwater harvesting（雨水利用）。" }
+    ],
+    "usages": [
+      { "title": "① 「雨水」として", "desc": "降った雨の水を表します。", "example_en": "They collect rainwater for the garden.", "example_ja": "彼らは庭のために雨水を集めている。" },
+      { "title": "② 環境利用の文脈で", "desc": "雨水の活用を表します。", "example_en": "Rainwater can be used to flush toilets.", "example_ja": "雨水はトイレの洗浄に使える。" }
+    ],
+    "warn": [
+      "rainwater は『雨水（あまみず）』。rain（雨）＋ water（水）。1語で書く。",
+      "rainwater harvesting（雨水の貯留・利用）, a rainwater tank（雨水タンク）が頻出。"
+    ],
+    "etym_note": "rain（『雨』、古英語 regn より）＋ water（『水』、古英語 wæter より）から成る複合語で、「雨の水」を意味します。",
+    "etym_chain": [
+      { "node": "regn + wæter", "sub": "雨＋水", "era": "古英語" },
+      { "node": "rainwater", "sub": "雨水", "era": "近代英語" },
+      { "node": "rainwater", "sub": "雨水", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "collect rainwater", "ja": "雨水を集める" },
+      { "en": "rainwater harvesting", "ja": "雨水利用・雨水の貯留" },
+      { "en": "a rainwater tank", "ja": "雨水タンク" },
+      { "en": "rainwater runoff", "ja": "雨水の流出" },
+      { "en": "store rainwater", "ja": "雨水をためる" },
+      { "en": "a rainwater barrel", "ja": "雨水だる" }
+    ],
+    "related": [
+      { "en": "rain", "ja": "雨" },
+      { "en": "water", "ja": "水" },
+      { "en": "runoff", "ja": "流出水" },
+      { "en": "drainage", "ja": "排水" }
+    ],
+    "faq": [
+      { "q": "rainwater とはどんな意味？", "a": "空から降った雨の水『雨水（あまみず）』のことです。They collect rainwater for the garden.（庭のために雨水を集めている）のように使います。" },
+      { "q": "rainwater harvesting とは？", "a": "『雨水の貯留・利用』のことです。屋根などに降った雨水をタンクにためて、庭の水やり・トイレの洗浄・洗車などに再利用する取り組みを指します。" }
+    ],
+    "quiz": [
+      { "q": "They collect ___ for the garden.（雨水）", "A": "rainwater", "B": "saltwater の塩水", "C": "freshwater の淡水", "D": "seawater の海水", "correct": "A" },
+      { "q": "rainwater を構成する2語はどれ？", "A": "rain（雨）＋ water（水）", "B": "rainbow ＋ water", "C": "raise ＋ water", "D": "rain ＋ winter（冬）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "radiologist",
+    "pron": "ˌreɪdiˈɒlədʒɪst",
+    "kana": "レイディオロジスト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "radiology（放射線医学）＋ -ist（〜の専門家）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "医学"],
+    "meaning_main": "放射線科医（X線・CT・MRIなどで診断する医師）",
+    "description": "radiologist の意味・発音・例文・語源を解説。X線・CT・MRIなどの画像を使って病気を診断する医師「放射線科医」を表す、医学で使う名詞を紹介します。",
+    "keywords": ["radiologist 意味", "radiologist 発音", "放射線科医", "radiology 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】放射線科医", "note": "X線・CT・MRI・超音波などの画像を使って病気を診断（や治療）する医師。radiology（放射線医学）の専門家。" }
+    ],
+    "usages": [
+      { "title": "① 医師としての「放射線科医」", "desc": "画像で診断する医師を表します。", "example_en": "The radiologist examined the X-ray.", "example_ja": "放射線科医はそのX線写真を調べた。" },
+      { "title": "② 診断の文脈で", "desc": "画像診断を表します。", "example_en": "A radiologist will interpret your scan.", "example_ja": "放射線科医があなたのスキャン画像を読影します。" }
+    ],
+    "warn": [
+      "radiologist は『放射線科医』（X線・CT・MRIなどで診断する医師）。radiology（放射線医学）＋ -ist。",
+      "技師（撮影を担当）は radiographer / radiologic technologist。radiologist は診断する医師。"
+    ],
+    "etym_note": "radiology（『放射線医学』、radius「光線」＋ -logy「学」より）＋ -ist（『〜の専門家』）から成り、「放射線医学の専門家」を意味します。radio（無線）, radiation（放射）と同じ語根です。",
+    "etym_chain": [
+      { "node": "radius", "sub": "光線", "era": "ラテン語" },
+      { "node": "radiology", "sub": "放射線医学", "era": "20世紀英語" },
+      { "node": "radiologist", "sub": "放射線科医", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a radiologist examined the X-ray", "ja": "放射線科医がX線写真を調べた" },
+      { "en": "consult a radiologist", "ja": "放射線科医に相談する" },
+      { "en": "a diagnostic radiologist", "ja": "画像診断の放射線科医" },
+      { "en": "the radiologist's report", "ja": "放射線科医の報告（読影所見）" },
+      { "en": "an interventional radiologist", "ja": "IVR（画像下治療）医" },
+      { "en": "refer to a radiologist", "ja": "放射線科医に紹介する" }
+    ],
+    "related": [
+      { "en": "radiology", "ja": "放射線医学" },
+      { "en": "X-ray", "ja": "X線・レントゲン" },
+      { "en": "scan", "ja": "（CT・MRIの）スキャン" },
+      { "en": "diagnosis", "ja": "診断" }
+    ],
+    "faq": [
+      { "q": "radiologist とはどんな意味？", "a": "X線・CT・MRI・超音波などの画像を使って病気を診断（や治療）する医師『放射線科医』のことです。The radiologist examined the X-ray.（放射線科医がX線写真を調べた）のように使います。" },
+      { "q": "radiologist と radiographer の違いは？", "a": "radiologist は『（画像を読んで診断する）放射線科医（医師）』、radiographer は『（撮影を担当する）放射線技師』です。撮るのが技師、読むのが医師です。" }
+    ],
+    "quiz": [
+      { "q": "The ___ examined the X-ray.（放射線科医）", "A": "radiologist", "B": "biologist の生物学者", "C": "geologist の地質学者", "D": "psychologist の心理学者", "correct": "A" },
+      { "q": "radiologist が使う主な道具はどれ？", "A": "X線・CT・MRIなどの画像", "B": "顕微鏡だけ", "C": "メスだけ", "D": "聴診器だけ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "radiocarbon",
+    "pron": "ˌreɪdioʊˈkɑːrbən",
+    "kana": "レイディオカーボン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "radio-（放射性の）＋ carbon（炭素）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "理科・考古"],
+    "meaning_main": "放射性炭素（炭素14。年代測定に使う）",
+    "description": "radiocarbon の意味・発音・例文・語源を解説。年代測定に使われる放射性の炭素「放射性炭素（炭素14）」を表す、理科・考古学で使う名詞を分かりやすく紹介します。",
+    "keywords": ["radiocarbon 意味", "radiocarbon 発音", "放射性炭素", "年代測定"],
+    "meanings": [
+      { "hinshi": "【名詞】放射性炭素（炭素14）", "note": "放射性をもつ炭素の同位体。一定の速さで減るため、古い遺物・化石の年代測定に使う。radiocarbon dating（放射性炭素年代測定）。" }
+    ],
+    "usages": [
+      { "title": "① 「放射性炭素年代測定」として", "desc": "年代を調べる方法を表します。", "example_en": "Radiocarbon dating showed the bones were 5,000 years old.", "example_ja": "放射性炭素年代測定で、その骨は5000年前のものと分かった。" },
+      { "title": "② 科学の文脈で", "desc": "炭素14の利用を表します。", "example_en": "Radiocarbon is used to date organic remains.", "example_ja": "放射性炭素は有機物の遺物の年代測定に使われる。" }
+    ],
+    "warn": [
+      "radiocarbon は『放射性炭素（炭素14、carbon-14）』。radio-（放射性の）＋ carbon（炭素）。",
+      "radiocarbon dating（放射性炭素年代測定）が頻出。生物が死ぬと炭素14が一定速度で減ることを利用する。"
+    ],
+    "etym_note": "radio-（『放射性の』、radiation「放射」より）＋ carbon（『炭素』、ラテン語 carbo「炭」より）から成り、「放射性の炭素」を意味します。",
+    "etym_chain": [
+      { "node": "radio- + carbon", "sub": "放射性の＋炭素", "era": "20世紀英語" },
+      { "node": "radiocarbon", "sub": "放射性炭素", "era": "20世紀英語" },
+      { "node": "radiocarbon", "sub": "放射性炭素（炭素14）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "radiocarbon dating", "ja": "放射性炭素年代測定" },
+      { "en": "radiocarbon analysis", "ja": "放射性炭素分析" },
+      { "en": "a radiocarbon date", "ja": "放射性炭素年代" },
+      { "en": "by radiocarbon", "ja": "放射性炭素によって" },
+      { "en": "radiocarbon levels", "ja": "放射性炭素の量" },
+      { "en": "radiocarbon decay", "ja": "放射性炭素の崩壊" }
+    ],
+    "related": [
+      { "en": "carbon", "ja": "炭素" },
+      { "en": "isotope", "ja": "同位体" },
+      { "en": "dating", "ja": "年代測定" },
+      { "en": "half-life", "ja": "半減期" }
+    ],
+    "faq": [
+      { "q": "radiocarbon とはどんな意味？", "a": "放射性をもつ炭素の同位体『放射性炭素（炭素14）』のことです。一定の速さで減るため、古い遺物や化石の年代測定に使われます。radiocarbon dating（放射性炭素年代測定）のように使います。" },
+      { "q": "radiocarbon dating の仕組みは？", "a": "生物は生きている間、炭素14を一定の割合で体内に取り込みます。死ぬと取り込みが止まり、炭素14が一定の速さ（半減期）で減っていくため、その残量から死後の経過年数を推定できます。" }
+    ],
+    "quiz": [
+      { "q": "___ dating showed the bones were 5,000 years old.（放射性炭素）", "A": "Radiocarbon", "B": "Hydrocarbon の炭化水素", "C": "Carbohydrate の炭水化物", "D": "Carbonate の炭酸塩", "correct": "A" },
+      { "q": "radiocarbon は主に何に使われる？", "A": "古い遺物・化石の年代測定", "B": "発電", "C": "食品の保存", "D": "金属の溶接", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rationalization",
+    "pron": "ˌræʃənələˈzeɪʃən",
+    "kana": "ラショナライゼイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rationalize（正当化する・合理化する）＋ -ation",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "心理・ビジネス"],
+    "meaning_main": "（都合のよい）正当化・こじつけ／合理化・効率化",
+    "description": "rationalization の意味・発音・例文・語源を解説。自分の言動を都合よく説明する「正当化・こじつけ」という心理の意味と、業務の「合理化」という意味を紹介します。",
+    "keywords": ["rationalization 意味", "rationalization 発音", "正当化", "合理化"],
+    "meanings": [
+      { "hinshi": "【名詞】（都合のよい）正当化・こじつけ", "note": "本当の理由を隠し、もっともらしい理屈をつけること（心理学の防衛機制）。a rationalization for laziness（怠惰の言い訳）。" },
+      { "hinshi": "【名詞】合理化・効率化", "note": "むだを省いて効率よくすること。the rationalization of production（生産の合理化）。" }
+    ],
+    "usages": [
+      { "title": "① 「正当化・こじつけ」として", "desc": "都合のよい理屈づけを表します。", "example_en": "His excuse was just a rationalization.", "example_ja": "彼の言い訳は単なるこじつけだった。" },
+      { "title": "② 「合理化」として", "desc": "効率化を表します。", "example_en": "The rationalization of the factory cut costs.", "example_ja": "工場の合理化はコストを削減した。" }
+    ],
+    "warn": [
+      "rationalization は『（都合のよい）正当化・こじつけ』と『合理化・効率化』。動詞 rationalize（正当化する・合理化する）＋ -ation。イギリス綴りは rationalisation。",
+      "心理学では『正当化（防衛機制）』、ビジネスでは『合理化』。"
+    ],
+    "etym_note": "rationalize（rational「理性的な」＋ -ize＝理屈をつける）＋ -ation から成り、「理屈づけ・合理化」を意味します。reason, ratio と同じ語根です。",
+    "etym_chain": [
+      { "node": "ratio", "sub": "理性", "era": "ラテン語" },
+      { "node": "rationalize", "sub": "正当化する・合理化する", "era": "近代英語" },
+      { "node": "rationalization", "sub": "正当化・合理化", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rationalization for", "ja": "〜の正当化・言い訳" },
+      { "en": "just a rationalization", "ja": "単なるこじつけ" },
+      { "en": "the rationalization of production", "ja": "生産の合理化" },
+      { "en": "an industry rationalization", "ja": "業界の合理化" },
+      { "en": "a clever rationalization", "ja": "巧妙な言い訳" },
+      { "en": "post-hoc rationalization", "ja": "後づけの正当化" }
+    ],
+    "related": [
+      { "en": "rationalize", "ja": "正当化する・合理化する" },
+      { "en": "justification", "ja": "正当化" },
+      { "en": "excuse", "ja": "言い訳" },
+      { "en": "streamlining", "ja": "合理化・効率化" }
+    ],
+    "faq": [
+      { "q": "rationalization とはどんな意味？", "a": "自分の言動を都合よく説明する『正当化・こじつけ』という心理の意味と、業務などの『合理化・効率化』という意味があります。His excuse was just a rationalization.（言い訳は単なるこじつけだった）のように使います。" },
+      { "q": "心理学の rationalization（正当化）とは？", "a": "本当の動機（受け入れがたい理由）を隠し、もっともらしい理由で自分の言動を説明する『防衛機制』の一つです。例えば、買いすぎを『どうせ必要になるから』と理屈づけるようなことです。" }
+    ],
+    "quiz": [
+      { "q": "His excuse was just a ___.（こじつけ）", "A": "rationalization", "B": "realization の実現", "C": "organization の組織", "D": "civilization の文明", "correct": "A" },
+      { "q": "rationalization の動詞形はどれ？", "A": "rationalize（正当化する・合理化する）", "B": "realize（気づく）", "C": "organize（組織する）", "D": "civilize（文明化する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reunification",
+    "pron": "ˌriːjuːnɪfɪˈkeɪʃən",
+    "kana": "リユニフィケイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ unification（統一）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "政治・歴史"],
+    "meaning_main": "再統一（分裂した国などを再び一つにすること）",
+    "description": "reunification の意味・発音・例文・語源を解説。分裂していた国や地域を再び一つにする「再統一」を表す、政治・歴史で使う名詞の使い方を紹介します。",
+    "keywords": ["reunification 意味", "reunification 発音", "再統一", "unify 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再統一", "note": "分裂・分断していた国・地域などを再び一つにまとめること。German reunification（ドイツ再統一）。動詞は reunify。" }
+    ],
+    "usages": [
+      { "title": "① 「国の再統一」として", "desc": "分断された国を一つにすることを表します。", "example_en": "German reunification took place in 1990.", "example_ja": "ドイツの再統一は1990年に実現した。" },
+      { "title": "② 歴史の文脈で", "desc": "統一の動きを表します。", "example_en": "Many hope for the reunification of the peninsula.", "example_ja": "多くの人がその半島の再統一を望んでいる。" }
+    ],
+    "warn": [
+      "reunification は『再統一』。re-（再び）＋ unification（統一、unify「統一する」より）。動詞は reunify。",
+      "German reunification（ドイツ再統一）が代表例。分裂したものを再び一つにする文脈で使う。"
+    ],
+    "etym_note": "re-（再び）＋ unification（『統一』、unify「一つにする」、ラテン語 unus「一つ」より）から成り、「再び一つにすること」を意味します。unit（単位）, union（連合）と同じ語根です。",
+    "etym_chain": [
+      { "node": "unus", "sub": "一つ", "era": "ラテン語" },
+      { "node": "unification", "sub": "統一", "era": "近代英語" },
+      { "node": "reunification", "sub": "再統一", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "German reunification", "ja": "ドイツ再統一" },
+      { "en": "national reunification", "ja": "国家の再統一" },
+      { "en": "peaceful reunification", "ja": "平和的な再統一" },
+      { "en": "the reunification of the country", "ja": "その国の再統一" },
+      { "en": "hope for reunification", "ja": "再統一を望む" },
+      { "en": "family reunification", "ja": "（移民の）家族再統合" }
+    ],
+    "related": [
+      { "en": "reunify", "ja": "再統一する" },
+      { "en": "unification", "ja": "統一" },
+      { "en": "reunite", "ja": "再会させる・再結合する" },
+      { "en": "division", "ja": "分裂（反対）" }
+    ],
+    "faq": [
+      { "q": "reunification とはどんな意味？", "a": "分裂・分断していた国や地域などを再び一つにまとめる『再統一』のことです。German reunification took place in 1990.（ドイツの再統一は1990年に実現した）のように使います。動詞は reunify です。" },
+      { "q": "reunification の代表的な例は？", "a": "1990年のドイツ再統一（German reunification）が代表例です。東西に分かれていたドイツが、ベルリンの壁崩壊のあと一つの国になりました。" }
+    ],
+    "quiz": [
+      { "q": "German ___ took place in 1990.（再統一）", "A": "reunification", "B": "classification の分類", "C": "notification の通知", "D": "qualification の資格", "correct": "A" },
+      { "q": "reunification に含まれる語根 unus の意味は？", "A": "一つ", "B": "二つ", "C": "多くの", "D": "半分の", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retentive",
+    "pron": "rɪˈtentɪv",
+    "kana": "リテンティブ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "retain（保持する）＋ -ive",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "やや硬い語"],
+    "meaning_main": "（記憶などを）よく保持する・忘れにくい／（水分などを）保つ",
+    "description": "retentive の意味・発音・例文・語源を解説。記憶を「よく保持する・忘れにくい」、また物が水分などを「保つ」という性質を表す形容詞の使い方を紹介します。",
+    "keywords": ["retentive 意味", "retentive 発音", "記憶力のよい", "retain 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】（記憶などを）よく保持する・忘れにくい", "note": "覚えたことを長く保つ。a retentive memory（よく覚えている記憶力）。" },
+      { "hinshi": "【形容詞】（水分・熱などを）保つ・保持する", "note": "water-retentive soil（保水性のある土）。" }
+    ],
+    "usages": [
+      { "title": "① 「記憶力のよい」として", "desc": "忘れにくい記憶を表します。", "example_en": "She has a remarkably retentive memory.", "example_ja": "彼女は驚くほど記憶力がよい。" },
+      { "title": "② 「保つ」として", "desc": "水分などを保持する性質を表します。", "example_en": "This soil is highly water-retentive.", "example_ja": "この土は保水性がとても高い。" }
+    ],
+    "warn": [
+      "retentive は『（記憶を）よく保持する・忘れにくい』『（水分などを）保つ』。retain（保持する）＋ -ive。名詞 retention（保持）。",
+      "a retentive memory（よく覚えている記憶力）が頻出。"
+    ],
+    "etym_note": "retain（『保持する・引き留める』、ラテン語 retinere「保つ」、re-「後ろに」＋ tenere「持つ」より）＋ -ive から成り、「保持する性質の」を意味します。tenant（借家人）, contain（含む）と同じ語根です。",
+    "etym_chain": [
+      { "node": "retinere", "sub": "保つ", "era": "ラテン語" },
+      { "node": "retain", "sub": "保持する", "era": "中英語" },
+      { "node": "retentive", "sub": "保持する・忘れにくい", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a retentive memory", "ja": "よく覚えている記憶力" },
+      { "en": "a highly retentive mind", "ja": "記憶力のよい頭脳" },
+      { "en": "water-retentive soil", "ja": "保水性のある土" },
+      { "en": "moisture-retentive", "ja": "水分を保つ" },
+      { "en": "heat-retentive", "ja": "保温性のある" },
+      { "en": "a retentive material", "ja": "保持力のある素材" }
+    ],
+    "related": [
+      { "en": "retain", "ja": "保持する・引き留める" },
+      { "en": "retention", "ja": "保持・維持" },
+      { "en": "absorbent", "ja": "吸収性のある" },
+      { "en": "forgetful", "ja": "忘れっぽい（反対）" }
+    ],
+    "faq": [
+      { "q": "retentive とはどんな意味？", "a": "記憶を『よく保持する・忘れにくい』、また物が水分・熱などを『保つ』という性質を表す形容詞です。She has a remarkably retentive memory.（驚くほど記憶力がよい）のように使います。名詞は retention です。" },
+      { "q": "a retentive memory とは？", "a": "『よく覚えている記憶力・忘れにくい記憶力』のことです。一度覚えたことを長く保持できる、記憶力のよさを表す表現です。" }
+    ],
+    "quiz": [
+      { "q": "She has a remarkably ___ memory.（よく保持する）", "A": "retentive", "B": "attentive の注意深い", "C": "tentative の仮の", "D": "inventive の独創的な", "correct": "A" },
+      { "q": "retentive のもとになった動詞はどれ？", "A": "retain（保持する）", "B": "attend（出席する）", "C": "invent（発明する）", "D": "intend（意図する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retrospection",
+    "pron": "ˌretrəˈspekʃən",
+    "kana": "レトロスペクション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 retrospicere（振り返って見る）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "やや硬い語"],
+    "meaning_main": "回顧・追想・過去を振り返ること",
+    "description": "retrospection の意味・発音・例文・語源を解説。過去の出来事や経験を「振り返ること・回顧・追想」を表す、やや硬い名詞の使い方を分かりやすく紹介します。",
+    "keywords": ["retrospection 意味", "retrospection 発音", "回顧", "振り返り"],
+    "meanings": [
+      { "hinshi": "【名詞】回顧・追想・過去を振り返ること", "note": "過去の出来事・経験を思い返すこと。a moment of retrospection（過去を振り返るひととき）。形容詞は retrospective。" }
+    ],
+    "usages": [
+      { "title": "① 「過去の振り返り」として", "desc": "過去を思い返すことを表します。", "example_en": "The anniversary prompted some retrospection.", "example_ja": "その記念日は過去の振り返りを促した。" },
+      { "title": "② 「回顧」として", "desc": "来し方を顧みることを表します。", "example_en": "In retrospection, the decision was wise.", "example_ja": "振り返ってみれば、その決断は賢明だった。" }
+    ],
+    "warn": [
+      "retrospection は『回顧・追想・振り返り』。retro-（後ろへ）＋ -spect（見る）。形容詞 retrospective、副詞句 in retrospect（振り返ってみれば）。",
+      "introspection（内省）と混同注意。retro=過去、intro=内面。"
+    ],
+    "etym_note": "ラテン語 retrospicere（retro「後ろへ」＋ specere「見る」）に由来し、「振り返って見ること」を意味します。spectator（観客）, inspect（調べる）と同じ語根です。",
+    "etym_chain": [
+      { "node": "retrospicere", "sub": "振り返って見る", "era": "ラテン語" },
+      { "node": "retrospection", "sub": "回顧", "era": "近代英語" },
+      { "node": "retrospection", "sub": "回顧・追想", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a moment of retrospection", "ja": "過去を振り返るひととき" },
+      { "en": "in retrospection", "ja": "振り返ってみれば" },
+      { "en": "quiet retrospection", "ja": "静かな回顧" },
+      { "en": "a period of retrospection", "ja": "回顧の時期" },
+      { "en": "prompt retrospection", "ja": "振り返りを促す" },
+      { "en": "calm retrospection", "ja": "落ち着いた追想" }
+    ],
+    "related": [
+      { "en": "retrospective", "ja": "回顧の・遡及的な" },
+      { "en": "reflection", "ja": "熟考・振り返り" },
+      { "en": "reminiscence", "ja": "追憶・思い出話" },
+      { "en": "introspection", "ja": "内省" }
+    ],
+    "faq": [
+      { "q": "retrospection とはどんな意味？", "a": "過去の出来事や経験を『振り返ること・回顧・追想』という意味です。The anniversary prompted some retrospection.（記念日が過去の振り返りを促した）のように使います。形容詞は retrospective です。" },
+      { "q": "retrospection と introspection の違いは？", "a": "retrospection は『過去を振り返ること（回顧）』、introspection は『自分の内面を見つめること（内省）』です。retro-（後ろへ）と intro-（内へ）の違いから来ています。" }
+    ],
+    "quiz": [
+      { "q": "The anniversary prompted some ___.（振り返り）", "A": "retrospection", "B": "introspection の内省", "C": "inspection の検査", "D": "perfection の完璧", "correct": "A" },
+      { "q": "retrospection の retro- の意味はどれ？", "A": "後ろへ・過去へ", "B": "内へ", "C": "前へ", "D": "上へ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "royalist",
+    "pron": "ˈrɔɪəlɪst",
+    "kana": "ロイヤリスト",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "royal（王の）＋ -ist（〜支持者）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "政治・歴史"],
+    "meaning_main": "王党派・国王支持者／王政支持の",
+    "description": "royalist の意味・発音・例文・語源を解説。国王・王政を支持する人「王党派・国王支持者」という名詞と、「王政支持の」という形容詞の使い方を紹介します。",
+    "keywords": ["royalist 意味", "royalist 発音", "王党派", "国王支持者"],
+    "meanings": [
+      { "hinshi": "【名詞】王党派・国王支持者", "note": "君主制・国王を支持する人。（歴史で）内戦時に国王側についた人。" },
+      { "hinshi": "【形容詞】王政支持の・王党派の", "note": "royalist forces（王党派の軍）。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「王党派」として", "desc": "国王を支持する人を表します。", "example_en": "The royalists fought against the rebels.", "example_ja": "王党派は反乱軍と戦った。" },
+      { "title": "② 形容詞「王政支持の」として", "desc": "王党派の立場を表します。", "example_en": "He held strongly royalist views.", "example_ja": "彼は強く王政支持の考えを持っていた。" }
+    ],
+    "warn": [
+      "royalist は『王党派・国王支持者』『王政支持の』。royal（王の）＋ -ist。",
+      "イギリス内戦では Royalists（国王派・Cavaliers）⇔ Parliamentarians（議会派）。反対は republican（共和主義者）。"
+    ],
+    "etym_note": "royal（『王の・王立の』、ラテン語 regalis「王の」、rex「王」より）＋ -ist（『〜支持者・〜主義者』）から成り、「王を支持する人」を意味します。regal（王の）, reign（治世）と同じ語根です。",
+    "etym_chain": [
+      { "node": "regalis", "sub": "王の", "era": "ラテン語" },
+      { "node": "royal", "sub": "王の", "era": "中英語" },
+      { "node": "royalist", "sub": "王党派", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "royalist forces", "ja": "王党派の軍" },
+      { "en": "a staunch royalist", "ja": "熱心な王党派" },
+      { "en": "royalist sympathies", "ja": "王政支持の傾向" },
+      { "en": "the royalist cause", "ja": "王党派の大義" },
+      { "en": "royalists and republicans", "ja": "王党派と共和派" },
+      { "en": "a royalist uprising", "ja": "王党派の蜂起" }
+    ],
+    "related": [
+      { "en": "royal", "ja": "王の・王立の" },
+      { "en": "monarchist", "ja": "君主制支持者" },
+      { "en": "loyalist", "ja": "（体制への）忠誠派" },
+      { "en": "republican", "ja": "共和主義者（反対）" }
+    ],
+    "faq": [
+      { "q": "royalist とはどんな意味？", "a": "国王・王政を支持する人『王党派・国王支持者』という名詞、また『王政支持の』という形容詞です。The royalists fought against the rebels.（王党派は反乱軍と戦った）のように使います。" },
+      { "q": "royalist の反対は？", "a": "republican（共和主義者・共和派）です。royalist（王政を支持）⇔ republican（君主制を廃し共和制を支持）の関係です。イギリス内戦では Royalists ⇔ Parliamentarians（議会派）でした。" }
+    ],
+    "quiz": [
+      { "q": "The ___s fought against the rebels.（王党派）", "A": "royalist", "B": "loyalty の忠誠", "C": "royalty の王族・印税", "D": "loyalist は近いが別語", "correct": "A" },
+      { "q": "royalist の反対に近い語はどれ？", "A": "republican（共和主義者）", "B": "monarchist（君主制支持者）", "C": "loyalist（忠誠派）", "D": "royalty（王族）", "correct": "A" }
+    ]
+  }
+]
