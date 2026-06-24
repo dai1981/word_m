@@ -1,0 +1,528 @@
+[
+  {
+    "english": "reconfigure",
+    "pron": "ˌriːkənˈfɪɡjər",
+    "kana": "リコンフィギュア",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ configure（構成する・設定する）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "IT・技術"],
+    "meaning_main": "再構成する・設定し直す・配置を変える",
+    "description": "reconfigure の意味・発音・例文・語源を解説。機器やシステムを「設定し直す」、また配置・構成を「組み替える」という、ITや技術で使う語を分かりやすく紹介します。",
+    "keywords": ["reconfigure 意味", "reconfigure 発音", "再設定する", "configure 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再構成する・設定し直す・配置を変える", "note": "システム・機器・空間の構成を改めて整え直す。reconfigure the network（ネットワークを設定し直す）。名詞は reconfiguration。" }
+    ],
+    "usages": [
+      { "title": "① ITの「再設定」として", "desc": "システムを設定し直すことを表します。", "example_en": "We had to reconfigure the server settings.", "example_ja": "私たちはサーバーの設定をし直さねばならなかった。" },
+      { "title": "② 配置の「組み替え」として", "desc": "空間や構成を変えることを表します。", "example_en": "The office was reconfigured for remote work.", "example_ja": "そのオフィスはリモートワーク向けに配置が変えられた。" }
+    ],
+    "warn": [
+      "reconfigure は『再構成する・設定し直す・配置を変える』。re-（再び）＋ configure。名詞は reconfiguration。",
+      "ITでよく使うが、組織・空間の『組み替え』にも使える。"
+    ],
+    "etym_note": "re-（再び）＋ configure（形づくる・構成する、ラテン語 configurare「ともに形づくる」より）から成り、「再び形を整えること」を意味します。figure（形）と同じ語根です。",
+    "etym_chain": [
+      { "node": "configurare", "sub": "ともに形づくる", "era": "ラテン語" },
+      { "node": "configure", "sub": "構成する・設定する", "era": "近代英語" },
+      { "node": "reconfigure", "sub": "再構成する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reconfigure the network", "ja": "ネットワークを設定し直す" },
+      { "en": "reconfigure the system", "ja": "システムを再構成する" },
+      { "en": "reconfigure the settings", "ja": "設定を変更する" },
+      { "en": "reconfigure the layout", "ja": "レイアウトを組み替える" },
+      { "en": "reconfigure the office", "ja": "オフィスの配置を変える" },
+      { "en": "easily reconfigure", "ja": "簡単に再設定する" }
+    ],
+    "related": [
+      { "en": "configure", "ja": "構成する・設定する" },
+      { "en": "rearrange", "ja": "並べ替える" },
+      { "en": "reorganize", "ja": "再編成する" },
+      { "en": "reconfiguration", "ja": "再構成" }
+    ],
+    "faq": [
+      { "q": "reconfigure とはどんな意味？", "a": "機器やシステムを『設定し直す』、また配置・構成を『組み替える』という意味です。We had to reconfigure the server settings.（サーバー設定をし直した）のように使います。名詞は reconfiguration です。" },
+      { "q": "reconfigure と configure の違いは？", "a": "configure は『（初めに）構成する・設定する』、reconfigure は『（すでにある構成を）設定し直す・組み替える』です。re-（再び）がつくと『やり直し』の意味になります。" }
+    ],
+    "quiz": [
+      { "q": "We had to ___ the server settings.（設定し直す）", "A": "reconfigure", "B": "configure の最初に設定する", "C": "confuse の混乱させる", "D": "confirm の確認する", "correct": "A" },
+      { "q": "reconfigure の名詞形はどれ？", "A": "reconfiguration（再構成）", "B": "confusion（混乱）", "C": "confirmation（確認）", "D": "conference（会議）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "redeploy",
+    "pron": "ˌriːdɪˈplɔɪ",
+    "kana": "リディプロイ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ deploy（配置する・展開する）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "軍事・ビジネス"],
+    "meaning_main": "（人員・部隊・資源を）再配置する・配置転換する",
+    "description": "redeploy の意味・発音・例文・語源を解説。部隊・人員・資源を「再配置する・配置転換する」という、軍事やビジネスで使う語の使い方を分かりやすく紹介します。",
+    "keywords": ["redeploy 意味", "redeploy 発音", "再配置する", "deploy 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（人員・部隊・資源を）再配置する・配置転換する", "note": "別の場所・任務に移して配置し直す。redeploy troops（部隊を再配置する）。名詞は redeployment。" }
+    ],
+    "usages": [
+      { "title": "① 軍事の「再配置」として", "desc": "部隊を別の場所に移すことを表します。", "example_en": "Troops were redeployed to the border.", "example_ja": "部隊は国境に再配置された。" },
+      { "title": "② 人員の「配置転換」として", "desc": "従業員を別の業務に移すことを表します。", "example_en": "Staff were redeployed to busier departments.", "example_ja": "職員はより忙しい部署に配置転換された。" }
+    ],
+    "warn": [
+      "redeploy は『（人員・部隊・資源を）再配置する・配置転換する』。re-（再び）＋ deploy。名詞は redeployment。",
+      "ITでは『（アプリを）再デプロイする＝再配備する』の意味でも使う。"
+    ],
+    "etym_note": "re-（再び）＋ deploy（配置する・展開する、フランス語 déployer「広げる」より）から成り、「再び配置すること」を意味します。display（広げて見せる）と同じ語根です。",
+    "etym_chain": [
+      { "node": "déployer", "sub": "広げる", "era": "フランス語" },
+      { "node": "deploy", "sub": "配置する・展開する", "era": "近代英語" },
+      { "node": "redeploy", "sub": "再配置する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "redeploy troops", "ja": "部隊を再配置する" },
+      { "en": "redeploy staff", "ja": "職員を配置転換する" },
+      { "en": "redeploy resources", "ja": "資源を再配分する" },
+      { "en": "be redeployed", "ja": "配置転換される" },
+      { "en": "redeploy to the front", "ja": "前線に再配置する" },
+      { "en": "a major redeployment", "ja": "大規模な再配置" }
+    ],
+    "related": [
+      { "en": "deploy", "ja": "配置する・展開する" },
+      { "en": "reassign", "ja": "割り当て直す" },
+      { "en": "relocate", "ja": "移転させる" },
+      { "en": "redeployment", "ja": "再配置・配置転換" }
+    ],
+    "faq": [
+      { "q": "redeploy とはどんな意味？", "a": "部隊・人員・資源を別の場所や任務に『再配置する・配置転換する』という意味です。Troops were redeployed to the border.（部隊が国境に再配置された）のように使います。名詞は redeployment です。" },
+      { "q": "redeploy と relocate の違いは？", "a": "relocate は『（場所を）移す・移転する』全般、redeploy は『（人員・部隊・資源を、任務や戦略のために）配置し直す』という、戦略的な再配置のニュアンスがあります。" }
+    ],
+    "quiz": [
+      { "q": "Troops were ___ed to the border.（再配置された）", "A": "redeploy", "B": "deploy の最初に配置する", "C": "destroy の破壊する", "D": "display の展示する", "correct": "A" },
+      { "q": "redeploy の名詞形はどれ？", "A": "redeployment（再配置）", "B": "destruction（破壊）", "C": "display（展示）", "D": "deployment の最初の配置だけ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reanimate",
+    "pron": "ˌriːˈænɪmeɪt",
+    "kana": "リアニメイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ animate（生命を吹き込む）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "やや硬い語"],
+    "meaning_main": "生き返らせる・よみがえらせる・活気を取り戻させる",
+    "description": "reanimate の意味・発音・例文・語源を解説。死んだものを「生き返らせる」、また衰えたものに「活気を取り戻させる」という、やや硬い語の使い方を紹介します。",
+    "keywords": ["reanimate 意味", "reanimate 発音", "生き返らせる", "animate 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】生き返らせる・よみがえらせる", "note": "命のないものに再び命を与える。物語・SFでよく使う。reanimate the dead（死者を生き返らせる）。" },
+      { "hinshi": "【動詞】（活動・気分を）活気づける・再び生き生きさせる", "note": "比喩で、衰えたものに活力を取り戻させる。" }
+    ],
+    "usages": [
+      { "title": "① 「生き返らせる」として", "desc": "命のないものに命を与えることを表します。", "example_en": "In the story, a scientist tries to reanimate the dead.", "example_ja": "その物語では科学者が死者を生き返らせようとする。" },
+      { "title": "② 「活気づける」として", "desc": "衰えたものに活力を与えることを表します。", "example_en": "The new manager reanimated the failing team.", "example_ja": "新しい部長は不振のチームに活気を取り戻させた。" }
+    ],
+    "warn": [
+      "reanimate は『生き返らせる・よみがえらせる』『活気づける』。re-（再び）＋ animate（生命を吹き込む）。",
+      "名詞は reanimation。revive（よみがえらせる）より硬く、SF・文学的。"
+    ],
+    "etym_note": "re-（再び）＋ animate（生命を吹き込む、ラテン語 anima「魂・息」より）から成り、「再び命を与えること」を意味します。animal（動物）, animation（動画）と同じ語根です。",
+    "etym_chain": [
+      { "node": "anima", "sub": "魂・息", "era": "ラテン語" },
+      { "node": "animate", "sub": "生命を吹き込む", "era": "中英語" },
+      { "node": "reanimate", "sub": "生き返らせる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reanimate the dead", "ja": "死者を生き返らせる" },
+      { "en": "reanimate a corpse", "ja": "死体を生き返らせる" },
+      { "en": "reanimate the economy", "ja": "経済を活気づける" },
+      { "en": "reanimate interest", "ja": "関心を再びかき立てる" },
+      { "en": "reanimate the team", "ja": "チームを活気づける" },
+      { "en": "be reanimated", "ja": "生き返らされる" }
+    ],
+    "related": [
+      { "en": "animate", "ja": "生命を吹き込む" },
+      { "en": "revive", "ja": "よみがえらせる" },
+      { "en": "resurrect", "ja": "復活させる" },
+      { "en": "revitalize", "ja": "活気を取り戻させる" }
+    ],
+    "faq": [
+      { "q": "reanimate とはどんな意味？", "a": "命のないものを『生き返らせる・よみがえらせる』、また衰えたものに『活気を取り戻させる』という意味です。a scientist tries to reanimate the dead（科学者が死者を生き返らせようとする）のように使います。" },
+      { "q": "reanimate と revive の違いは？", "a": "どちらも『よみがえらせる』ですが、reanimate は『（死んだものに）再び命を与える』という文学的・SF的な響きが強く、revive は『（弱ったものを）回復させる』を日常的に広く使います。" }
+    ],
+    "quiz": [
+      { "q": "A scientist tries to ___ the dead.（生き返らせる）", "A": "reanimate", "B": "animate の最初に命を吹き込む", "C": "eliminate の除去する", "D": "estimate の見積もる", "correct": "A" },
+      { "q": "reanimate に含まれる語根 anima の意味は？", "A": "魂・息", "B": "形", "C": "光", "D": "数", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rouge",
+    "pron": "ruːʒ",
+    "kana": "ルージュ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 rouge（赤い）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "化粧・日常"],
+    "meaning_main": "ほお紅・口紅（赤い化粧品）",
+    "description": "rouge の意味・発音・例文・語源を解説。ほおや唇を赤く見せる化粧品「ほお紅・口紅（ルージュ）」を表す名詞の使い方と、フランス語由来の発音を紹介します。",
+    "keywords": ["rouge 意味", "rouge 発音", "ほお紅", "ルージュ"],
+    "meanings": [
+      { "hinshi": "【名詞】ほお紅・頬紅（チーク）", "note": "ほおを赤く血色よく見せる化粧品。やや古い語で、今は blush（チーク）とも言う。" },
+      { "hinshi": "【名詞】口紅・赤い化粧品", "note": "唇を赤くする化粧品（ルージュ）。フランス語 rouge＝赤。" }
+    ],
+    "usages": [
+      { "title": "① 「ほお紅」として", "desc": "ほおを赤く見せる化粧品を表します。", "example_en": "She applied a little rouge to her cheeks.", "example_ja": "彼女はほおに少しほお紅をつけた。" },
+      { "title": "② 「口紅」として", "desc": "唇を赤くする化粧品を表します。", "example_en": "A touch of rouge brightened her lips.", "example_ja": "ひと塗りのルージュが彼女の唇を明るくした。" }
+    ],
+    "warn": [
+      "rouge は『ほお紅・口紅』。発音は『ルージュ（ruːʒ）』でフランス語由来。g は『ジュ』の音。",
+      "現代の英語では頬紅を blush と呼ぶことが多い。rouge はやや古風・上品な響き。"
+    ],
+    "etym_note": "フランス語 rouge（『赤い』、ラテン語 rubeus「赤い」より）に由来し、「赤い化粧品」を意味します。ruby（ルビー）, ruddy（赤らんだ）と同じ語根です。",
+    "etym_chain": [
+      { "node": "rubeus", "sub": "赤い", "era": "ラテン語" },
+      { "node": "rouge", "sub": "赤い", "era": "フランス語" },
+      { "node": "rouge", "sub": "ほお紅・口紅", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "apply rouge", "ja": "ほお紅をつける" },
+      { "en": "a touch of rouge", "ja": "ひと塗りのほお紅" },
+      { "en": "rouge on the cheeks", "ja": "ほおのほお紅" },
+      { "en": "wear rouge", "ja": "ほお紅をつけている" },
+      { "en": "pale without rouge", "ja": "ほお紅なしで青白い" },
+      { "en": "a stick of rouge", "ja": "棒状の口紅" }
+    ],
+    "related": [
+      { "en": "blush", "ja": "チーク・ほお紅" },
+      { "en": "lipstick", "ja": "口紅" },
+      { "en": "makeup", "ja": "化粧" },
+      { "en": "ruby", "ja": "ルビー（赤い宝石）" }
+    ],
+    "faq": [
+      { "q": "rouge とはどんな意味？", "a": "ほおや唇を赤く見せる化粧品『ほお紅・口紅（ルージュ）』のことです。She applied a little rouge to her cheeks.（ほおに少しほお紅をつけた）のように使います。フランス語で『赤』の意味です。" },
+      { "q": "rouge の発音は？", "a": "『ルージュ（ruːʒ）』です。フランス語由来で、語尾の ge は『ジュ』の音になります。つづりは英語の rough（粗い）と似ていますが発音も意味も別です。" }
+    ],
+    "quiz": [
+      { "q": "She applied a little ___ to her cheeks.（ほお紅）", "A": "rouge", "B": "rough の粗い", "C": "rogue の悪党", "D": "rage の激怒", "correct": "A" },
+      { "q": "rouge はフランス語で何の意味？", "A": "赤い", "B": "白い", "C": "速い", "D": "甘い", "correct": "A" }
+    ]
+  },
+  {
+    "english": "readmit",
+    "pron": "ˌriːədˈmɪt",
+    "kana": "リアドミット",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ admit（入れる・認める）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "医療・教育"],
+    "meaning_main": "再び入れる・再入学（再入院）させる・復帰を認める",
+    "description": "readmit の意味・発音・例文・語源を解説。一度出た人を「再び入れる」、また病院に「再入院させる」、学校に「再入学を認める」という使い方を紹介します。",
+    "keywords": ["readmit 意味", "readmit 発音", "再入院", "admit 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再び入れる・復帰（再加入）を認める", "note": "一度出た人や組織を再び受け入れる。readmit a member（会員の復帰を認める）。" },
+      { "hinshi": "【動詞】（病院に）再入院させる／（学校に）再入学させる", "note": "be readmitted to the hospital（再入院する）。名詞は readmission。" }
+    ],
+    "usages": [
+      { "title": "① 「再入院」として", "desc": "病院に再び入れることを表します。", "example_en": "The patient was readmitted to the hospital.", "example_ja": "その患者は病院に再入院した。" },
+      { "title": "② 「復帰を認める」として", "desc": "組織への再加入を認めることを表します。", "example_en": "The country was readmitted to the union.", "example_ja": "その国は連合への復帰を認められた。" }
+    ],
+    "warn": [
+      "readmit は『再び入れる・復帰を認める』『再入院・再入学させる』。re-（再び）＋ admit。名詞は readmission。",
+      "医療で『再入院』、教育で『再入学』の文脈が多い。"
+    ],
+    "etym_note": "re-（再び）＋ admit（入れる・認める、ラテン語 admittere「中へ送る」より）から成り、「再び中へ入れること」を意味します。mission, transmit と同じ語根です。",
+    "etym_chain": [
+      { "node": "admittere", "sub": "中へ送る", "era": "ラテン語" },
+      { "node": "admit", "sub": "入れる・認める", "era": "中英語" },
+      { "node": "readmit", "sub": "再び入れる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be readmitted to the hospital", "ja": "病院に再入院する" },
+      { "en": "readmit a patient", "ja": "患者を再入院させる" },
+      { "en": "readmit a student", "ja": "学生の再入学を認める" },
+      { "en": "readmit a member", "ja": "会員の復帰を認める" },
+      { "en": "readmit to the union", "ja": "連合への復帰を認める" },
+      { "en": "a high readmission rate", "ja": "高い再入院率" }
+    ],
+    "related": [
+      { "en": "admit", "ja": "入れる・認める" },
+      { "en": "readmission", "ja": "再入院・再入学" },
+      { "en": "reinstate", "ja": "復職・復権させる" },
+      { "en": "expel", "ja": "追放する（反対）" }
+    ],
+    "faq": [
+      { "q": "readmit とはどんな意味？", "a": "一度出た人や組織を『再び入れる・復帰を認める』、また病院に『再入院させる』、学校に『再入学させる』という意味です。The patient was readmitted to the hospital.（患者が再入院した）のように使います。名詞は readmission です。" },
+      { "q": "readmit はどんな場面で使う？", "a": "医療では『（退院後に）再入院させる』、教育では『（退学後に）再入学を認める』、組織では『（脱退後に）復帰を認める』という、いったん離れた人をもう一度受け入れる場面で使います。" }
+    ],
+    "quiz": [
+      { "q": "The patient was ___ed to the hospital.（再入院させられた）", "A": "readmit", "B": "admit の最初に入れる", "C": "permit の許可する", "D": "submit の提出する", "correct": "A" },
+      { "q": "readmit の名詞形はどれ？", "A": "readmission（再入院・再入学）", "B": "permission（許可）", "C": "submission（提出）", "D": "admission の最初の入場だけ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reemerge",
+    "pron": "ˌriːɪˈmɜːrdʒ",
+    "kana": "リイマージ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ emerge（現れる・浮かび上がる）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "やや硬い語"],
+    "meaning_main": "再び現れる・再浮上する・再び台頭する",
+    "description": "reemerge の意味・発音・例文・語源を解説。一度消えたものが「再び現れる・再浮上する」、また勢力などが「再び台頭する」という、やや硬い語の使い方を紹介します。",
+    "keywords": ["reemerge 意味", "reemerge 発音", "再浮上する", "emerge 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再び現れる・再浮上する・再び台頭する", "note": "隠れていた・衰えていたものが再び姿を見せる。re-emerge とも書く。reemerge as a leader（指導者として再び台頭する）。" }
+    ],
+    "usages": [
+      { "title": "① 「再浮上する」として", "desc": "消えたものが再び現れることを表します。", "example_en": "The issue reemerged years later.", "example_ja": "その問題は数年後に再び浮上した。" },
+      { "title": "② 「再び台頭する」として", "desc": "勢力などが再び勢いを得ることを表します。", "example_en": "The party reemerged as a major force.", "example_ja": "その党は主要勢力として再び台頭した。" }
+    ],
+    "warn": [
+      "reemerge は『再び現れる・再浮上する・再び台頭する』。re-（再び）＋ emerge。re-emerge とハイフン付きでも書く。",
+      "名詞は reemergence（再浮上・再台頭）。reappear より硬く、抽象的なもの（問題・勢力）に使うことが多い。"
+    ],
+    "etym_note": "re-（再び）＋ emerge（現れる・浮かび上がる、ラテン語 emergere「水面に出る」より）から成り、「再び浮かび上がること」を意味します。merge（合併する）と同じ語根です。",
+    "etym_chain": [
+      { "node": "emergere", "sub": "水面に出る", "era": "ラテン語" },
+      { "node": "emerge", "sub": "現れる・浮かび上がる", "era": "近代英語" },
+      { "node": "reemerge", "sub": "再び現れる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reemerge as a leader", "ja": "指導者として再び台頭する" },
+      { "en": "reemerge years later", "ja": "数年後に再浮上する" },
+      { "en": "the problem reemerges", "ja": "問題が再び浮上する" },
+      { "en": "reemerge stronger", "ja": "より強くなって再浮上する" },
+      { "en": "reemerge from hiding", "ja": "隠れていた所から再び現れる" },
+      { "en": "a sudden reemergence", "ja": "突然の再台頭" }
+    ],
+    "related": [
+      { "en": "emerge", "ja": "現れる・浮かび上がる" },
+      { "en": "reappear", "ja": "再び現れる" },
+      { "en": "resurface", "ja": "再び浮かび上がる" },
+      { "en": "reemergence", "ja": "再浮上・再台頭" }
+    ],
+    "faq": [
+      { "q": "reemerge とはどんな意味？", "a": "一度消えたものが『再び現れる・再浮上する』、また勢力などが『再び台頭する』という意味です。The issue reemerged years later.（その問題は数年後に再浮上した）のように使います。re-emerge とも書きます。" },
+      { "q": "reemerge と reappear の違いは？", "a": "reappear は『（具体的なものが）再び姿を見せる』全般、reemerge は『（問題・勢力など抽象的なものが）再浮上・再台頭する』というやや硬い響きで使われることが多いです。" }
+    ],
+    "quiz": [
+      { "q": "The party ___d as a major force.（再び台頭した）", "A": "reemerge", "B": "emerge の最初に現れる", "C": "submerge の水没する", "D": "merge の合併する", "correct": "A" },
+      { "q": "reemerge の名詞形はどれ？", "A": "reemergence（再浮上・再台頭）", "B": "emergency（緊急事態）", "C": "merger（合併）", "D": "submersion（水没）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reformat",
+    "pron": "ˌriːˈfɔːrmæt",
+    "kana": "リフォーマット",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ format（書式を整える・初期化する）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "IT・日常"],
+    "meaning_main": "書式を整え直す／（記憶媒体を）初期化し直す",
+    "description": "reformat の意味・発音・例文・語源を解説。文書の「書式を整え直す」、またディスクなどを「初期化し直す（フォーマットし直す）」という、ITで使う語を紹介します。",
+    "keywords": ["reformat 意味", "reformat 発音", "書式を整え直す", "初期化"],
+    "meanings": [
+      { "hinshi": "【動詞】（文書の）書式を整え直す", "note": "レイアウト・体裁を作り直す。reformat the document（文書の書式を整え直す）。" },
+      { "hinshi": "【動詞】（ディスク等を）初期化し直す・フォーマットし直す", "note": "記憶媒体のデータ構造を作り直す。reformat the hard drive（ハードディスクを初期化し直す）。" }
+    ],
+    "usages": [
+      { "title": "① 文書の「書式直し」として", "desc": "体裁を作り直すことを表します。", "example_en": "I need to reformat this report before printing.", "example_ja": "印刷前にこの報告書の書式を整え直す必要がある。" },
+      { "title": "② 媒体の「初期化」として", "desc": "ディスクを作り直すことを表します。", "example_en": "He reformatted the USB drive.", "example_ja": "彼はUSBメモリを初期化し直した。" }
+    ],
+    "warn": [
+      "reformat は文書では『書式を整え直す』、媒体では『初期化し直す（フォーマットし直す）』。re-（再び）＋ format。",
+      "ディスクの初期化はデータが消えるので注意。"
+    ],
+    "etym_note": "re-（再び）＋ format（書式・体裁を整える、ラテン語 forma「形」より）から成り、「再び形を整えること」を意味します。form（形）, formal（正式な）と同じ語根です。",
+    "etym_chain": [
+      { "node": "forma", "sub": "形", "era": "ラテン語" },
+      { "node": "format", "sub": "書式・整える", "era": "近代英語" },
+      { "node": "reformat", "sub": "書式を整え直す・初期化する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reformat the document", "ja": "文書の書式を整え直す" },
+      { "en": "reformat the text", "ja": "テキストの体裁を直す" },
+      { "en": "reformat the hard drive", "ja": "ハードディスクを初期化し直す" },
+      { "en": "reformat the USB drive", "ja": "USBメモリを初期化する" },
+      { "en": "reformat for printing", "ja": "印刷用に書式を整える" },
+      { "en": "completely reformat", "ja": "完全に作り直す" }
+    ],
+    "related": [
+      { "en": "format", "ja": "書式・整える・初期化する" },
+      { "en": "reconfigure", "ja": "再設定する" },
+      { "en": "initialize", "ja": "初期化する" },
+      { "en": "layout", "ja": "レイアウト・配置" }
+    ],
+    "faq": [
+      { "q": "reformat とはどんな意味？", "a": "文書の『書式を整え直す』、またディスクなどを『初期化し直す（フォーマットし直す）』という意味です。reformat the document（書式を整え直す）、reformat the hard drive（ディスクを初期化し直す）のように使います。" },
+      { "q": "ディスクを reformat するとどうなる？", "a": "記憶媒体のデータ構造を作り直すので、中のデータは消えます。再び使えるように整える操作ですが、必要なデータは事前にバックアップが必要です。" }
+    ],
+    "quiz": [
+      { "q": "I need to ___ this report before printing.（書式を整え直す）", "A": "reformat", "B": "format の最初に整える", "C": "reform の改革する", "D": "inform の知らせる", "correct": "A" },
+      { "q": "reformat に含まれる語根 forma の意味は？", "A": "形", "B": "数", "C": "色", "D": "音", "correct": "A" }
+    ]
+  },
+  {
+    "english": "regency",
+    "pron": "ˈriːdʒənsi",
+    "kana": "リージェンシー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 regere（治める）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "歴史・政治"],
+    "meaning_main": "摂政（せっしょう）政治・摂政の地位／摂政期",
+    "description": "regency の意味・発音・例文・語源を解説。王が幼少・病気などのとき代わりに国を治める「摂政政治・摂政の地位」や、英国の「摂政時代」を表す名詞を紹介します。",
+    "keywords": ["regency 意味", "regency 発音", "摂政", "摂政政治"],
+    "meanings": [
+      { "hinshi": "【名詞】摂政（せっしょう）政治・摂政の地位", "note": "王が幼少・不在・病気のとき、代理（regent）が国を治めること、またその期間。" },
+      { "hinshi": "【名詞】(英)摂政時代", "note": "特に1811〜1820年、のちのジョージ4世が摂政を務めた時代。the Regency period（摂政時代）。" }
+    ],
+    "usages": [
+      { "title": "① 「摂政政治」として", "desc": "代理が国を治めることを表します。", "example_en": "The kingdom was ruled under a regency.", "example_ja": "その王国は摂政政治のもとで治められた。" },
+      { "title": "② 「摂政時代」として", "desc": "英国の特定の時代を表します。", "example_en": "The novel is set in the Regency era.", "example_ja": "その小説は摂政時代を舞台にしている。" }
+    ],
+    "warn": [
+      "regency は『摂政政治・摂政の地位』、また（大文字で）英国の『摂政時代』。摂政を務める人は regent。",
+      "Regency style（摂政様式）は当時の優雅な建築・家具の様式を指す。"
+    ],
+    "etym_note": "ラテン語 regere（『治める』）に由来する regent（摂政）から派生し、「治めること・摂政の地位」を意味します。regal（王の）, reign（治世）, regime（体制）と同じ語根です。",
+    "etym_chain": [
+      { "node": "regere", "sub": "治める", "era": "ラテン語" },
+      { "node": "regent", "sub": "摂政", "era": "中英語" },
+      { "node": "regency", "sub": "摂政政治", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "under a regency", "ja": "摂政政治のもとで" },
+      { "en": "establish a regency", "ja": "摂政政治を敷く" },
+      { "en": "the Regency period", "ja": "摂政時代" },
+      { "en": "the Regency era", "ja": "摂政時代" },
+      { "en": "Regency style", "ja": "摂政様式" },
+      { "en": "a council of regency", "ja": "摂政会議" }
+    ],
+    "related": [
+      { "en": "regent", "ja": "摂政" },
+      { "en": "reign", "ja": "治世・統治する" },
+      { "en": "monarchy", "ja": "君主制" },
+      { "en": "regime", "ja": "（政治）体制" }
+    ],
+    "faq": [
+      { "q": "regency とはどんな意味？", "a": "王が幼少・不在・病気などのとき、代理（regent）が国を治める『摂政政治・摂政の地位』のことです。また英国史では1811〜1820年の『摂政時代』を指します。" },
+      { "q": "regency と regent の違いは？", "a": "regent は『摂政（を務める人）』、regency は『摂政政治・摂政の地位・摂政期間』です。regent が治める制度や時代が regency です。" }
+    ],
+    "quiz": [
+      { "q": "The kingdom was ruled under a ___.（摂政政治）", "A": "regency", "B": "agency の代理店", "C": "urgency の緊急", "D": "tendency の傾向", "correct": "A" },
+      { "q": "摂政を務める人を表す語はどれ？", "A": "regent（摂政）", "B": "agent（代理人）", "C": "resident（居住者）", "D": "regular（常連）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reticence",
+    "pron": "ˈretɪsəns",
+    "kana": "レティセンス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 reticere（黙っている）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "やや硬い語"],
+    "meaning_main": "口の重さ・寡黙・（気持ちを）言いたがらないこと",
+    "description": "reticence の意味・発音・例文・語源を解説。自分の考えや気持ちを進んで話さない「口の重さ・寡黙・遠慮」を表す、やや硬い名詞の使い方を紹介します。",
+    "keywords": ["reticence 意味", "reticence 発音", "寡黙", "口が重い"],
+    "meanings": [
+      { "hinshi": "【名詞】口の重さ・寡黙・言いたがらないこと", "note": "自分の考え・感情を進んで話さない態度。reticence about ～（〜について語りたがらないこと）。形容詞は reticent。" }
+    ],
+    "usages": [
+      { "title": "① 「口の重さ」として", "desc": "進んで話さない態度を表します。", "example_en": "His reticence made people curious.", "example_ja": "彼の口の重さは人々の好奇心をかき立てた。" },
+      { "title": "② 「言いたがらないこと」として", "desc": "特定の話題を避ける様子を表します。", "example_en": "She showed reticence about her past.", "example_ja": "彼女は自分の過去について語りたがらなかった。" }
+    ],
+    "warn": [
+      "reticence は『口の重さ・寡黙・言いたがらないこと』。形容詞は reticent（口の重い・控えめな）。",
+      "単なる shyness（恥ずかしがり）と違い、『あえて話さない・控える』ニュアンス。"
+    ],
+    "etym_note": "ラテン語 reticere（re-「強意」＋ tacere「黙る」）に由来し、「黙っていること」を意味します。tacit（暗黙の）, taciturn（無口な）と同じ語根です。",
+    "etym_chain": [
+      { "node": "reticere", "sub": "黙っている", "era": "ラテン語" },
+      { "node": "reticence", "sub": "寡黙", "era": "近代英語" },
+      { "node": "reticence", "sub": "口の重さ・寡黙", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reticence about the past", "ja": "過去について語りたがらないこと" },
+      { "en": "show reticence", "ja": "口の重さを見せる" },
+      { "en": "a natural reticence", "ja": "生まれつきの寡黙さ" },
+      { "en": "overcome one's reticence", "ja": "口の重さを克服する" },
+      { "en": "with some reticence", "ja": "やや言いよどみながら" },
+      { "en": "break one's reticence", "ja": "沈黙を破って語る" }
+    ],
+    "related": [
+      { "en": "reticent", "ja": "口の重い・控えめな" },
+      { "en": "reserve", "ja": "控えめさ・遠慮" },
+      { "en": "taciturnity", "ja": "無口" },
+      { "en": "openness", "ja": "率直さ（反対）" }
+    ],
+    "faq": [
+      { "q": "reticence とはどんな意味？", "a": "自分の考えや気持ちを進んで話さない『口の重さ・寡黙・言いたがらないこと』という意味です。His reticence made people curious.（彼の口の重さが好奇心をかき立てた）のように使います。形容詞は reticent です。" },
+      { "q": "reticence と shyness の違いは？", "a": "shyness は『恥ずかしくて話せない』、reticence は『（恥ずかしさからではなく）あえて控えて話さない・打ち明けない』という態度を表します。" }
+    ],
+    "quiz": [
+      { "q": "His ___ made people curious.（口の重さ）", "A": "reticence", "B": "residence の住居", "C": "reference の参照", "D": "reverence の崇敬", "correct": "A" },
+      { "q": "reticence の形容詞形はどれ？", "A": "reticent（口の重い）", "B": "resident（居住の）", "C": "recent（最近の）", "D": "reverent（うやうやしい）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rationalism",
+    "pron": "ˈræʃənəlɪzəm",
+    "kana": "ラショナリズム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rational（理性的な）＋ -ism（主義）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "哲学・思想"],
+    "meaning_main": "合理主義・理性主義（理性を重んじる考え方）",
+    "description": "rationalism の意味・発音・例文・語源を解説。経験よりも理性・論理を真理の源とする「合理主義・理性主義」という、哲学・思想で使う名詞を分かりやすく紹介します。",
+    "keywords": ["rationalism 意味", "rationalism 発音", "合理主義", "理性主義"],
+    "meanings": [
+      { "hinshi": "【名詞】合理主義・理性主義", "note": "感覚・経験よりも理性・論理を知識や真理の源とする立場。哲学では経験論（empiricism）と対立する。" },
+      { "hinshi": "【名詞】（信仰より）理性を重んじる態度", "note": "宗教的権威より理性的判断を優先する考え方。" }
+    ],
+    "usages": [
+      { "title": "① 哲学の「合理主義」として", "desc": "理性を真理の源とする立場を表します。", "example_en": "Descartes is a key figure in rationalism.", "example_ja": "デカルトは合理主義の中心人物だ。" },
+      { "title": "② 思想態度として", "desc": "理性を重んじる態度を表します。", "example_en": "The Enlightenment promoted rationalism.", "example_ja": "啓蒙思想は合理主義を広めた。" }
+    ],
+    "warn": [
+      "rationalism は哲学で『合理主義・理性主義』。理性を真理の源とし、経験論（empiricism）と対立する。",
+      "形容詞は rationalist（合理主義の／合理主義者）。日常語の rational（合理的な）とは区別。"
+    ],
+    "etym_note": "rational（理性的な、ラテン語 ratio「理性」より）＋ -ism（主義）から成り、「理性を重んじる立場」を意味します。reason, ratio と同じ語根です。",
+    "etym_chain": [
+      { "node": "ratio", "sub": "理性", "era": "ラテン語" },
+      { "node": "rational", "sub": "理性的な", "era": "中英語" },
+      { "node": "rationalism", "sub": "合理主義", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the spirit of rationalism", "ja": "合理主義の精神" },
+      { "en": "scientific rationalism", "ja": "科学的合理主義" },
+      { "en": "rationalism and empiricism", "ja": "合理主義と経験論" },
+      { "en": "embrace rationalism", "ja": "合理主義を受け入れる" },
+      { "en": "Enlightenment rationalism", "ja": "啓蒙の合理主義" },
+      { "en": "a rationalist philosopher", "ja": "合理主義の哲学者" }
+    ],
+    "related": [
+      { "en": "rational", "ja": "理性的な・合理的な" },
+      { "en": "rationalist", "ja": "合理主義者・合理主義の" },
+      { "en": "empiricism", "ja": "経験論（対立する立場）" },
+      { "en": "reason", "ja": "理性" }
+    ],
+    "faq": [
+      { "q": "rationalism とはどんな意味？", "a": "感覚や経験よりも『理性・論理を知識や真理の源とする立場＝合理主義・理性主義』のことです。Descartes is a key figure in rationalism.（デカルトは合理主義の中心人物だ）のように使います。" },
+      { "q": "rationalism と empiricism の違いは？", "a": "rationalism（合理主義）は『理性こそ真理の源』とする立場、empiricism（経験論）は『経験・観察こそ知識の源』とする立場で、近代哲学で対立する二大潮流です。" }
+    ],
+    "quiz": [
+      { "q": "Descartes is a key figure in ___.（合理主義）", "A": "rationalism", "B": "realism の写実主義", "C": "racism の人種差別", "D": "tourism の観光", "correct": "A" },
+      { "q": "rationalism と対立する哲学の立場はどれ？", "A": "empiricism（経験論）", "B": "optimism（楽観主義）", "C": "realism（写実主義）", "D": "tourism（観光）", "correct": "A" }
+    ]
+  }
+]
