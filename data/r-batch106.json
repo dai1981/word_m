@@ -1,0 +1,528 @@
+[
+  {
+    "english": "runoff",
+    "pron": "ˈrʌnɔːf",
+    "kana": "ランオフ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "run（流れる・走る）＋ off（離れて）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "環境・政治"],
+    "meaning_main": "（地表を流れ去る）雨水・排水／決選投票",
+    "description": "runoff の意味・発音・例文・語源を解説。地面を流れ去る「雨水・表面流出水」という環境の意味と、上位者で争う「決選投票」という政治の意味を分かりやすく紹介します。",
+    "keywords": ["runoff 意味", "runoff 発音", "決選投票", "表面流出"],
+    "meanings": [
+      { "hinshi": "【名詞】（地表を流れ去る）雨水・表面流出水", "note": "地面に吸収されず川などへ流れ去る水。agricultural runoff（農地からの流出水）。" },
+      { "hinshi": "【名詞】決選投票", "note": "上位2者で改めて行う投票。a runoff election（決選投票）。" }
+    ],
+    "usages": [
+      { "title": "① 「流出水」として", "desc": "地表を流れ去る水を表します。", "example_en": "Rainwater runoff polluted the river.", "example_ja": "雨水の流出が川を汚染した。" },
+      { "title": "② 「決選投票」として", "desc": "上位者で争う再投票を表します。", "example_en": "The election went to a runoff.", "example_ja": "選挙は決選投票にもつれ込んだ。" }
+    ],
+    "warn": [
+      "runoff は『（地表の）流出水』と『決選投票』の二つの意味。run（流れる・走る）＋ off。run-off とも書く。",
+      "環境では水の流出、政治では『過半数に届かず上位者で再投票』の意味。"
+    ],
+    "etym_note": "run（流れる・走る、古英語 rinnan より）＋ off（離れて）から成る複合語で、「流れ去ること」を意味します。水が『流れ去る』、選挙が『（最後に）走り去って決まる』イメージです。",
+    "etym_chain": [
+      { "node": "rinnan + off", "sub": "流れる＋離れて", "era": "古英語" },
+      { "node": "run off", "sub": "流れ去る", "era": "近代英語" },
+      { "node": "runoff", "sub": "流出水・決選投票", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rainwater runoff", "ja": "雨水の流出" },
+      { "en": "agricultural runoff", "ja": "農地からの流出水" },
+      { "en": "surface runoff", "ja": "表面流出" },
+      { "en": "a runoff election", "ja": "決選投票" },
+      { "en": "go to a runoff", "ja": "決選投票にもつれ込む" },
+      { "en": "win the runoff", "ja": "決選投票で勝つ" }
+    ],
+    "related": [
+      { "en": "drainage", "ja": "排水" },
+      { "en": "erosion", "ja": "侵食" },
+      { "en": "ballot", "ja": "投票" },
+      { "en": "election", "ja": "選挙" }
+    ],
+    "faq": [
+      { "q": "runoff とはどんな意味？", "a": "地面に吸収されず流れ去る『雨水・表面流出水』という環境の意味と、上位2者で改めて行う『決選投票』という政治の意味があります。a runoff election（決選投票）のように使います。" },
+      { "q": "runoff election とは何？", "a": "最初の投票で誰も過半数（規定の票）に届かなかったとき、上位者だけで改めて行う『決選投票』のことです。フランス大統領選などで採用されています。" }
+    ],
+    "quiz": [
+      { "q": "The election went to a ___.（決選投票）", "A": "runoff", "B": "runway の滑走路", "C": "runner の走者", "D": "rundown の概要", "correct": "A" },
+      { "q": "runoff の環境での意味はどれ？", "A": "地表を流れ去る雨水・排水", "B": "地震", "C": "強い風", "D": "森林火災", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reeducate",
+    "pron": "ˌriːˈedʒukeɪt",
+    "kana": "リエデュケイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ educate（教育する）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "社会・教育"],
+    "meaning_main": "再教育する・教え直す（考え方や技能を）",
+    "description": "reeducate の意味・発音・例文・語源を解説。人の考え方や技能を「再教育する・教え直す」という、社会・教育・リハビリの場面で使う語を分かりやすく紹介します。",
+    "keywords": ["reeducate 意味", "reeducate 発音", "再教育する", "educate 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再教育する・教え直す", "note": "考え方・知識・技能を改めて教える。re-educate とも書く。reeducate workers（労働者を再教育する）。名詞は reeducation。" }
+    ],
+    "usages": [
+      { "title": "① 技能の「再教育」として", "desc": "新しい技能を教え直すことを表します。", "example_en": "The program reeducates workers for new jobs.", "example_ja": "その制度は労働者を新しい仕事のために再教育する。" },
+      { "title": "② 考え方の「教え直し」として", "desc": "意識や習慣を改めさせることを表します。", "example_en": "We need to reeducate the public about recycling.", "example_ja": "リサイクルについて人々を再教育する必要がある。" }
+    ],
+    "warn": [
+      "reeducate は『再教育する・教え直す』。re-（再び）＋ educate。re-educate とハイフン付きでも書く。名詞は reeducation。",
+      "政治的文脈では『（思想を）矯正・洗脳する』という否定的な含みで使われることもある。"
+    ],
+    "etym_note": "re-（再び）＋ educate（教育する、ラテン語 educare「育てる・導き出す」より）から成り、「再び教えること」を意味します。education（教育）, educe（引き出す）と同じ語根です。",
+    "etym_chain": [
+      { "node": "educare", "sub": "育てる・導く", "era": "ラテン語" },
+      { "node": "educate", "sub": "教育する", "era": "近代英語" },
+      { "node": "reeducate", "sub": "再教育する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reeducate workers", "ja": "労働者を再教育する" },
+      { "en": "reeducate the public", "ja": "人々を再教育する" },
+      { "en": "reeducate oneself", "ja": "学び直す" },
+      { "en": "reeducate the muscles", "ja": "（リハビリで）筋肉を再訓練する" },
+      { "en": "a reeducation program", "ja": "再教育プログラム" },
+      { "en": "reeducate about safety", "ja": "安全について教え直す" }
+    ],
+    "related": [
+      { "en": "educate", "ja": "教育する" },
+      { "en": "retrain", "ja": "再訓練する" },
+      { "en": "rehabilitate", "ja": "社会復帰させる" },
+      { "en": "reeducation", "ja": "再教育" }
+    ],
+    "faq": [
+      { "q": "reeducate とはどんな意味？", "a": "人の考え方・知識・技能を『再教育する・教え直す』という意味です。The program reeducates workers for new jobs.（労働者を新しい仕事のために再教育する）のように使います。名詞は reeducation です。" },
+      { "q": "reeducate と retrain の違いは？", "a": "retrain は『（特定の技能を）再訓練する』に重点、reeducate は『（知識・考え方・意識まで含めて）教え直す』とより広い学び直しを表します。" }
+    ],
+    "quiz": [
+      { "q": "The program ___s workers for new jobs.（再教育する）", "A": "reeducate", "B": "educate の最初に教育する", "C": "evaluate の評価する", "D": "eliminate の除去する", "correct": "A" },
+      { "q": "reeducate の名詞形はどれ？", "A": "reeducation（再教育）", "B": "evaluation（評価）", "C": "education の最初の教育だけ", "D": "elimination（除去）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "redeemable",
+    "pron": "rɪˈdiːməbl",
+    "kana": "リディーマブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "redeem（買い戻す・引き換える）＋ -able（できる）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "金融・商業"],
+    "meaning_main": "（クーポン・債券などが）引き換えできる・換金できる",
+    "description": "redeemable の意味・発音・例文・語源を解説。クーポンやポイントが「引き換えできる」、また債券などが「償還・換金できる」という、商業・金融で使う語を紹介します。",
+    "keywords": ["redeemable 意味", "redeemable 発音", "引き換えできる", "redeem 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】（クーポン・ポイントが）引き換えできる・換金できる", "note": "商品・現金などと交換できる。redeemable for cash（現金と引き換えできる）。" },
+      { "hinshi": "【形容詞】（債券・株が）償還できる", "note": "発行者が買い戻せる。a redeemable bond（償還可能な債券）。" }
+    ],
+    "usages": [
+      { "title": "① クーポンの「引き換え可能」として", "desc": "商品や現金と交換できることを表します。", "example_en": "This coupon is redeemable at any store.", "example_ja": "このクーポンはどの店でも引き換えできる。" },
+      { "title": "② 債券の「償還可能」として", "desc": "買い戻せることを表します。", "example_en": "The bonds are redeemable after five years.", "example_ja": "その債券は5年後に償還できる。" }
+    ],
+    "warn": [
+      "redeemable は『引き換えできる・換金できる・償還できる』。動詞 redeem（買い戻す・引き換える）＋ -able。",
+      "redeemable for ～（～と引き換えできる）、redeemable at ～（～で引き換えできる）の形が多い。"
+    ],
+    "etym_note": "redeem（買い戻す・引き換える、ラテン語 redimere「買い戻す」より）＋ -able（できる）から成り、「引き換え・買い戻しができる」を意味します。redemption（償還・救済）と同じ語根です。",
+    "etym_chain": [
+      { "node": "redimere", "sub": "買い戻す", "era": "ラテン語" },
+      { "node": "redeem", "sub": "買い戻す・引き換える", "era": "中英語" },
+      { "node": "redeemable", "sub": "引き換えできる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "redeemable for cash", "ja": "現金と引き換えできる" },
+      { "en": "redeemable at any store", "ja": "どの店でも引き換えできる" },
+      { "en": "redeemable points", "ja": "交換できるポイント" },
+      { "en": "a redeemable voucher", "ja": "引き換え可能な引換券" },
+      { "en": "a redeemable bond", "ja": "償還可能な債券" },
+      { "en": "not redeemable", "ja": "引き換え不可" }
+    ],
+    "related": [
+      { "en": "redeem", "ja": "買い戻す・引き換える" },
+      { "en": "redemption", "ja": "償還・引き換え" },
+      { "en": "exchangeable", "ja": "交換できる" },
+      { "en": "refundable", "ja": "払い戻しできる" }
+    ],
+    "faq": [
+      { "q": "redeemable とはどんな意味？", "a": "クーポンやポイントが『引き換えできる・換金できる』、また債券などが『償還できる』という意味です。This coupon is redeemable at any store.（どの店でも引き換えできる）のように使います。" },
+      { "q": "redeem とはどんな意味？", "a": "redeemable のもとになる動詞で、『（クーポン・ポイントを）引き換える』『（質草・債券を）買い戻す』、また『（名誉などを）取り戻す・救う』という意味があります。" }
+    ],
+    "quiz": [
+      { "q": "This coupon is ___ at any store.（引き換えできる）", "A": "redeemable", "B": "readable の読みやすい", "C": "reliable の信頼できる", "D": "removable の取り外せる", "correct": "A" },
+      { "q": "redeemable のもとになった動詞はどれ？", "A": "redeem（引き換える・買い戻す）", "B": "read（読む）", "C": "rely（頼る）", "D": "remove（取り除く）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "receivership",
+    "pron": "rɪˈsiːvərʃɪp",
+    "kana": "リシーバーシップ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "receiver（管財人）＋ -ship（状態・地位）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "法律・経済"],
+    "meaning_main": "（破産した会社の）管財人による管理・財産管理状態",
+    "description": "receivership の意味・発音・例文・語源を解説。経営が破綻した会社が、裁判所の選ぶ管財人（receiver）の管理下に置かれる「財産管理状態」を表す、法律・経済の語を紹介します。",
+    "keywords": ["receivership 意味", "receivership 発音", "管財人", "破産管理"],
+    "meanings": [
+      { "hinshi": "【名詞】管財人による管理（状態）・財産管理", "note": "破綻した会社などが、裁判所の任命した receiver（管財人）の管理下に置かれること。go into receivership（管財管理下に入る・経営破綻する）。" }
+    ],
+    "usages": [
+      { "title": "① 「経営破綻・管財管理」として", "desc": "管財人の管理下に入ることを表します。", "example_en": "The company went into receivership last year.", "example_ja": "その会社は昨年、管財管理下に入った（経営破綻した）。" },
+      { "title": "② 法的手続きとして", "desc": "管財人による資産処理を表します。", "example_en": "The assets were sold during receivership.", "example_ja": "資産は管財管理の間に売却された。" }
+    ],
+    "warn": [
+      "receivership は『（破綻した会社の）管財人による管理（状態）』。go into receivership＝『管財管理下に入る・経営破綻する』。",
+      "receiver は文脈により『受話器・受信機・受取人』だが、ここでは『管財人』の意味。"
+    ],
+    "etym_note": "receiver（『（財産を）受け取って管理する人＝管財人』、receive「受け取る」より）＋ -ship（状態・地位）から成り、「管財人による管理の状態」を意味します。",
+    "etym_chain": [
+      { "node": "receive", "sub": "受け取る", "era": "中英語" },
+      { "node": "receiver", "sub": "管財人", "era": "近代英語" },
+      { "node": "receivership", "sub": "管財管理", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "go into receivership", "ja": "管財管理下に入る・経営破綻する" },
+      { "en": "be in receivership", "ja": "管財管理下にある" },
+      { "en": "be placed in receivership", "ja": "管財管理下に置かれる" },
+      { "en": "come out of receivership", "ja": "管財管理を脱する" },
+      { "en": "during receivership", "ja": "管財管理の間に" },
+      { "en": "forced into receivership", "ja": "管財管理に追い込まれる" }
+    ],
+    "related": [
+      { "en": "receiver", "ja": "管財人" },
+      { "en": "bankruptcy", "ja": "破産" },
+      { "en": "liquidation", "ja": "（会社の）清算" },
+      { "en": "insolvency", "ja": "支払い不能" }
+    ],
+    "faq": [
+      { "q": "receivership とはどんな意味？", "a": "経営が破綻した会社などが、裁判所の任命する管財人（receiver）の管理下に置かれる『財産管理状態』のことです。The company went into receivership.（その会社は管財管理下に入った＝経営破綻した）のように使います。" },
+      { "q": "go into receivership とは？", "a": "『管財管理下に入る・（事実上）経営破綻する』という意味です。会社が借金を返せなくなり、管財人が資産を管理・処分する状態を指します。" }
+    ],
+    "quiz": [
+      { "q": "The company went into ___ last year.（管財管理）", "A": "receivership", "B": "membership の会員資格", "C": "ownership の所有権", "D": "leadership の指導力", "correct": "A" },
+      { "q": "receivership の receiver の意味はどれ？", "A": "管財人", "B": "受話器", "C": "受信機", "D": "（球技の）レシーバー", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recriminate",
+    "pron": "rɪˈkrɪmɪneɪt",
+    "kana": "リクリミネイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（返して）＋ criminate（非難する）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "やや硬い語"],
+    "meaning_main": "（非難に対して）非難し返す・責め合う",
+    "description": "recriminate の意味・発音・例文・語源を解説。非難してきた相手を「逆に非難し返す・互いに責め合う」という、やや硬い動詞の使い方と名詞 recrimination を紹介します。",
+    "keywords": ["recriminate 意味", "recriminate 発音", "非難し返す", "責め合う"],
+    "meanings": [
+      { "hinshi": "【動詞】（非難に対して）非難し返す・責め合う", "note": "責められた相手を逆に責める。名詞 recrimination（非難の応酬）のほうがよく使われる。" }
+    ],
+    "usages": [
+      { "title": "① 「非難し返す」として", "desc": "相手を逆に責めることを表します。", "example_en": "Instead of apologizing, he began to recriminate.", "example_ja": "謝るどころか、彼は逆に非難し返し始めた。" },
+      { "title": "② 名詞 recrimination として", "desc": "非難の応酬を表します。", "example_en": "The meeting ended in mutual recrimination.", "example_ja": "会議は互いの非難の応酬で終わった。" }
+    ],
+    "warn": [
+      "recriminate は『非難し返す・責め合う』。動詞よりも名詞 recrimination（非難の応酬）が頻出。",
+      "re-（返して）＋ criminate（非難する、crime「罪」と同根）。"
+    ],
+    "etym_note": "re-（返して）＋ criminate（『非難する・罪を着せる』、ラテン語 crimen「罪・告発」より）から成り、「非難を返すこと」を意味します。crime（罪）, incriminate（罪を着せる）と同じ語根です。",
+    "etym_chain": [
+      { "node": "crimen", "sub": "罪・告発", "era": "ラテン語" },
+      { "node": "criminate", "sub": "非難する", "era": "近代英語" },
+      { "node": "recriminate", "sub": "非難し返す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "begin to recriminate", "ja": "非難し返し始める" },
+      { "en": "recriminate against each other", "ja": "互いに責め合う" },
+      { "en": "mutual recrimination", "ja": "互いの非難の応酬" },
+      { "en": "a cycle of recrimination", "ja": "非難の応酬の連鎖" },
+      { "en": "end in recrimination", "ja": "非難の応酬で終わる" },
+      { "en": "bitter recriminations", "ja": "激しい非難の応酬" }
+    ],
+    "related": [
+      { "en": "recrimination", "ja": "非難の応酬" },
+      { "en": "blame", "ja": "責める・非難" },
+      { "en": "accuse", "ja": "非難する・告発する" },
+      { "en": "incriminate", "ja": "罪を着せる" }
+    ],
+    "faq": [
+      { "q": "recriminate とはどんな意味？", "a": "非難してきた相手を『逆に非難し返す・互いに責め合う』という意味です。Instead of apologizing, he began to recriminate.（謝るどころか非難し返し始めた）のように使います。名詞 recrimination（非難の応酬）がよく使われます。" },
+      { "q": "recrimination とはどんな意味？", "a": "recriminate の名詞形で、『非難の応酬・責任のなすり合い』という意味です。The meeting ended in mutual recrimination.（会議は互いの非難の応酬で終わった）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The meeting ended in mutual ___.（非難の応酬）", "A": "recrimination", "B": "recreation の娯楽", "C": "recommendation の推薦", "D": "reconciliation の和解", "correct": "A" },
+      { "q": "recriminate に含まれる語根 crimen の意味は？", "A": "罪・告発", "B": "娯楽", "C": "推薦", "D": "和解", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reconquer",
+    "pron": "ˌriːˈkɒŋkər",
+    "kana": "リコンカー",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ conquer（征服する）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "歴史・軍事"],
+    "meaning_main": "再び征服する・奪還する・取り戻す",
+    "description": "reconquer の意味・発音・例文・語源を解説。一度失った領土などを「再び征服する・奪還する」という、歴史や軍事で使う語の使い方を分かりやすく紹介します。",
+    "keywords": ["reconquer 意味", "reconquer 発音", "奪還する", "conquer 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再び征服する・奪還する・取り戻す", "note": "一度失った土地・地位を再び征服して取り戻す。reconquer the territory（領土を奪還する）。名詞は reconquest。" }
+    ],
+    "usages": [
+      { "title": "① 領土の「奪還」として", "desc": "失った土地を取り戻すことを表します。", "example_en": "The kingdom sought to reconquer its lost lands.", "example_ja": "その王国は失った土地の奪還を目指した。" },
+      { "title": "② 比喩「取り戻す」として", "desc": "失った地位などを再び得ることを表します。", "example_en": "She fought to reconquer her place at the top.", "example_ja": "彼女は頂点の座を取り戻そうと戦った。" }
+    ],
+    "warn": [
+      "reconquer は『再び征服する・奪還する』。re-（再び）＋ conquer。名詞は reconquest（再征服・奪還）。",
+      "スペイン史の Reconquista（レコンキスタ＝国土回復運動）はこの語と同根。"
+    ],
+    "etym_note": "re-（再び）＋ conquer（征服する、ラテン語 conquirere「探し求める・獲得する」より）から成り、「再び征服すること」を意味します。conquest（征服）, quest（探求）と同じ語根です。",
+    "etym_chain": [
+      { "node": "conquirere", "sub": "獲得する", "era": "ラテン語" },
+      { "node": "conquer", "sub": "征服する", "era": "中英語" },
+      { "node": "reconquer", "sub": "再び征服する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reconquer the territory", "ja": "領土を奪還する" },
+      { "en": "reconquer lost land", "ja": "失った土地を取り戻す" },
+      { "en": "reconquer the city", "ja": "都市を奪還する" },
+      { "en": "seek to reconquer", "ja": "奪還を目指す" },
+      { "en": "reconquer a market", "ja": "市場を再び奪う" },
+      { "en": "the reconquest of", "ja": "〜の再征服" }
+    ],
+    "related": [
+      { "en": "conquer", "ja": "征服する" },
+      { "en": "reconquest", "ja": "再征服・奪還" },
+      { "en": "recapture", "ja": "奪回する" },
+      { "en": "retake", "ja": "取り戻す" }
+    ],
+    "faq": [
+      { "q": "reconquer とはどんな意味？", "a": "一度失った領土や地位を『再び征服する・奪還する・取り戻す』という意味です。The kingdom sought to reconquer its lost lands.（失った土地の奪還を目指した）のように使います。名詞は reconquest です。" },
+      { "q": "reconquer と recapture の違いは？", "a": "どちらも『取り戻す』ですが、reconquer は『（征服して）大きな領土・支配を取り戻す』、recapture は『（都市・捕虜・瞬間などを）奪回する・再びとらえる』とやや幅広く使えます。" }
+    ],
+    "quiz": [
+      { "q": "The kingdom sought to ___ its lost lands.（奪還する）", "A": "reconquer", "B": "conquer の最初に征服する", "C": "consider の考慮する", "D": "conquer ではなく concern の心配する", "correct": "A" },
+      { "q": "reconquer の名詞形はどれ？", "A": "reconquest（再征服・奪還）", "B": "concert（演奏会）", "C": "concern（心配）", "D": "conquest の最初の征服だけ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rawness",
+    "pron": "ˈrɔːnəs",
+    "kana": "ローネス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "raw（生の・未熟な）＋ -ness（性質）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "やや硬い語"],
+    "meaning_main": "生（なま）であること・未熟さ・（感情などの）生々しさ",
+    "description": "rawness の意味・発音・例文・語源を解説。火の通っていない「生であること」、技量の「未熟さ」、感情や肌の「生々しさ・ひりひりした状態」を表す名詞を紹介します。",
+    "keywords": ["rawness 意味", "rawness 発音", "未熟さ", "生々しさ"],
+    "meanings": [
+      { "hinshi": "【名詞】生（なま）であること・未加工であること", "note": "火が通っていない、または加工されていない状態。" },
+      { "hinshi": "【名詞】未熟さ・経験の浅さ", "note": "技量・能力が十分でないこと。the rawness of a beginner（初心者の未熟さ）。" },
+      { "hinshi": "【名詞】（感情・傷の）生々しさ・ひりひりした痛み", "note": "感情がむき出しで痛々しい状態。" }
+    ],
+    "usages": [
+      { "title": "① 「未熟さ」として", "desc": "経験や技量の浅さを表します。", "example_en": "Despite his rawness, the young player showed promise.", "example_ja": "未熟さはあるものの、その若い選手は有望さを見せた。" },
+      { "title": "② 「生々しさ」として", "desc": "感情のむき出しの痛々しさを表します。", "example_en": "The poem captures the rawness of grief.", "example_ja": "その詩は悲しみの生々しさをとらえている。" }
+    ],
+    "warn": [
+      "rawness は raw（生の・未加工の・未熟な・むき出しの）の名詞。文脈で『生であること／未熟さ／生々しさ』を使い分ける。",
+      "raw には『（皮膚が）すりむけた・ひりひりする』の意味もあり、rawness は『ひりひりした状態』も表す。"
+    ],
+    "etym_note": "raw（『生の・未熟な・むき出しの』、古英語 hrēaw より）＋ -ness（性質を表す語尾）から成り、「生・未熟・生々しさの性質」を意味します。",
+    "etym_chain": [
+      { "node": "hrēaw", "sub": "生の", "era": "古英語" },
+      { "node": "raw", "sub": "生の・未熟な", "era": "中英語" },
+      { "node": "rawness", "sub": "生であること・未熟さ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the rawness of a beginner", "ja": "初心者の未熟さ" },
+      { "en": "youthful rawness", "ja": "若さゆえの未熟さ" },
+      { "en": "the rawness of grief", "ja": "悲しみの生々しさ" },
+      { "en": "emotional rawness", "ja": "感情の生々しさ" },
+      { "en": "a sense of rawness", "ja": "ひりひりした感覚" },
+      { "en": "raw and unpolished", "ja": "生で粗削りな" }
+    ],
+    "related": [
+      { "en": "raw", "ja": "生の・未熟な・むき出しの" },
+      { "en": "immaturity", "ja": "未熟さ" },
+      { "en": "inexperience", "ja": "経験不足" },
+      { "en": "tenderness", "ja": "（傷の）ひりひり・優しさ" }
+    ],
+    "faq": [
+      { "q": "rawness とはどんな意味？", "a": "raw（生の・未熟な・むき出しの）の名詞で、文脈により『生であること』『未熟さ・経験の浅さ』『（感情・傷の）生々しさ・ひりひりした状態』を表します。the rawness of grief（悲しみの生々しさ）のように使います。" },
+      { "q": "rawness はどんな場面で使う？", "a": "料理では『生であること』、技量では『未熟さ』、感情・芸術では『むき出しの生々しさ』、肌では『ひりひりした状態』など、raw の幅広い意味に対応して使います。" }
+    ],
+    "quiz": [
+      { "q": "The poem captures the ___ of grief.（生々しさ）", "A": "rawness", "B": "richness の豊かさ", "C": "darkness の暗さ", "D": "weakness の弱さ", "correct": "A" },
+      { "q": "rawness のもとになった形容詞 raw の意味でないものは？", "A": "甘い", "B": "生の", "C": "未熟な", "D": "むき出しの", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reengage",
+    "pron": "ˌriːɪnˈɡeɪdʒ",
+    "kana": "リエンゲイジ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ engage（関わる・かみ合わせる）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "ビジネス・技術"],
+    "meaning_main": "再び関わる・再び取り組む／（歯車などを）再びかみ合わせる",
+    "description": "reengage の意味・発音・例文・語源を解説。人や問題に「再び関わる・取り組む」、また機械を「再びかみ合わせる」という、ビジネスや技術で使う語を紹介します。",
+    "keywords": ["reengage 意味", "reengage 発音", "再び関わる", "engage 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再び関わる・再び取り組む・関心を引き直す", "note": "いったん離れた相手・活動に再び関与する。re-engage とも書く。reengage customers（顧客の関心を引き直す）。" },
+      { "hinshi": "【動詞】（歯車・装置を）再びかみ合わせる・作動させる", "note": "reengage the gears（ギアを再びかみ合わせる）。" }
+    ],
+    "usages": [
+      { "title": "① 「再び関わる」として", "desc": "離れた相手や活動に再び関与することを表します。", "example_en": "The company tried to reengage lapsed customers.", "example_ja": "会社は離れた顧客の関心を引き直そうとした。" },
+      { "title": "② 「再びかみ合わせる」として", "desc": "機械を再び作動させることを表します。", "example_en": "He reengaged the clutch slowly.", "example_ja": "彼はゆっくりクラッチを再びつないだ。" }
+    ],
+    "warn": [
+      "reengage は『再び関わる・取り組む』『（歯車などを）再びかみ合わせる』。re-（再び）＋ engage。re-engage とも書く。",
+      "ビジネスでは『（離れた顧客・社員の）関心を引き直す』の意味で頻出。名詞は reengagement。"
+    ],
+    "etym_note": "re-（再び）＋ engage（関わる・約束する・かみ合わせる、古フランス語 engagier「誓約する」より）から成り、「再び関わること・かみ合わせること」を意味します。gage（担保・誓い）と同じ語根です。",
+    "etym_chain": [
+      { "node": "engagier", "sub": "誓約する", "era": "古フランス語" },
+      { "node": "engage", "sub": "関わる・かみ合わせる", "era": "近代英語" },
+      { "node": "reengage", "sub": "再び関わる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reengage customers", "ja": "顧客の関心を引き直す" },
+      { "en": "reengage with the community", "ja": "地域社会と再び関わる" },
+      { "en": "reengage employees", "ja": "社員の意欲を引き出し直す" },
+      { "en": "reengage in the talks", "ja": "交渉に再び取り組む" },
+      { "en": "reengage the gears", "ja": "ギアを再びかみ合わせる" },
+      { "en": "a reengagement strategy", "ja": "関心を引き直す戦略" }
+    ],
+    "related": [
+      { "en": "engage", "ja": "関わる・かみ合わせる" },
+      { "en": "disengage", "ja": "手を引く・外す（反対）" },
+      { "en": "reconnect", "ja": "再びつながる" },
+      { "en": "reengagement", "ja": "再関与" }
+    ],
+    "faq": [
+      { "q": "reengage とはどんな意味？", "a": "いったん離れた人・問題・活動に『再び関わる・取り組む』、また機械を『再びかみ合わせる』という意味です。The company tried to reengage lapsed customers.（離れた顧客の関心を引き直そうとした）のように使います。" },
+      { "q": "reengage の反対語は？", "a": "disengage（手を引く・関与をやめる・（装置を）外す）です。engage（関わる）⇔ disengage（手を引く）、reengage（再び関わる）の関係です。" }
+    ],
+    "quiz": [
+      { "q": "The company tried to ___ lapsed customers.（関心を引き直す）", "A": "reengage", "B": "engage の最初に関わる", "C": "enrage の激怒させる", "D": "arrange の手配する", "correct": "A" },
+      { "q": "reengage の反対語はどれ？", "A": "disengage（手を引く）", "B": "engage（関わる）", "C": "arrange（手配する）", "D": "enrage（激怒させる）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reflate",
+    "pron": "ˌriːˈfleɪt",
+    "kana": "リフレイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ (in)flate（ふくらませる）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "経済"],
+    "meaning_main": "（景気・経済を）通貨膨張で刺激する・再び活性化させる",
+    "description": "reflate の意味・発音・例文・語源を解説。デフレや不況のあと、通貨供給を増やして「経済を再び刺激する・活性化させる（リフレ政策）」という経済の語を紹介します。",
+    "keywords": ["reflate 意味", "reflate 発音", "リフレ", "景気刺激"],
+    "meanings": [
+      { "hinshi": "【動詞】（景気・経済を）通貨膨張で刺激する・再び活性化させる", "note": "デフレ・不況のあと、通貨供給や支出を増やして経済を膨らませる。reflate the economy（経済を再刺激する）。名詞は reflation。" }
+    ],
+    "usages": [
+      { "title": "① 経済の「再刺激」として", "desc": "通貨供給を増やして景気を上向かせることを表します。", "example_en": "The government tried to reflate the economy.", "example_ja": "政府は経済を再び刺激しようとした。" },
+      { "title": "② 政策の文脈で", "desc": "デフレ脱却の取り組みを表します。", "example_en": "Central banks reflated to fight deflation.", "example_ja": "中央銀行はデフレと戦うため通貨を膨らませた。" }
+    ],
+    "warn": [
+      "reflate は『（景気を）通貨膨張で再刺激する』。re-（再び）＋ -flate（ふくらませる、inflate より）。名詞 reflation。形容詞 reflationary。",
+      "inflate（ふくらませる・物価を上げる）, deflate（しぼませる・物価を下げる）と対比して覚える。"
+    ],
+    "etym_note": "re-（再び）＋ -flate（『ふくらませる』、ラテン語 flare「吹く」より、inflate と同じ要素）から成り、「（経済を）再びふくらませること」を意味します。inflation, deflation と同じ語根です。",
+    "etym_chain": [
+      { "node": "flare", "sub": "吹く", "era": "ラテン語" },
+      { "node": "inflate", "sub": "ふくらませる", "era": "近代英語" },
+      { "node": "reflate", "sub": "経済を再刺激する", "era": "20世紀英語" }
+    ],
+    "phrases": [
+      { "en": "reflate the economy", "ja": "経済を再刺激する" },
+      { "en": "reflate demand", "ja": "需要を再び喚起する" },
+      { "en": "try to reflate", "ja": "リフレを試みる" },
+      { "en": "reflate after a recession", "ja": "不況後に再刺激する" },
+      { "en": "a reflationary policy", "ja": "リフレ（再刺激）政策" },
+      { "en": "reflate through spending", "ja": "支出で景気を刺激する" }
+    ],
+    "related": [
+      { "en": "inflate", "ja": "ふくらませる・物価を上げる" },
+      { "en": "deflate", "ja": "しぼませる・物価を下げる" },
+      { "en": "reflation", "ja": "リフレ・通貨再膨張" },
+      { "en": "stimulate", "ja": "刺激する" }
+    ],
+    "faq": [
+      { "q": "reflate とはどんな意味？", "a": "デフレや不況のあと、通貨供給や支出を増やして『経済を再び刺激する・活性化させる』という意味です。The government tried to reflate the economy.（政府は経済を再刺激しようとした）のように使います。名詞は reflation（リフレ）です。" },
+      { "q": "reflate と inflate / deflate の関係は？", "a": "inflate は『（物価を）ふくらませる』、deflate は『（物価を）しぼませる＝デフレ』、reflate は『（デフレ後に）再びふくらませる＝景気を再刺激する』です。-flate（ふくらませる）を共有します。" }
+    ],
+    "quiz": [
+      { "q": "The government tried to ___ the economy.（再刺激する）", "A": "reflate", "B": "inflate の最初にふくらませる", "C": "deflate のしぼませる", "D": "relate の関連づける", "correct": "A" },
+      { "q": "reflate の名詞形はどれ？", "A": "reflation（リフレ・通貨再膨張）", "B": "relation（関係）", "C": "deflation（デフレ）", "D": "inflation の最初のインフレだけ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rearguard",
+    "pron": "ˈrɪərɡɑːrd",
+    "kana": "リアガード",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rear（後ろ）＋ guard（守り・部隊）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "軍事・比喩"],
+    "meaning_main": "後衛（こうえい）部隊・しんがり／（負けかけの）粘り強い抵抗",
+    "description": "rearguard の意味・発音・例文・語源を解説。退却する軍の最後尾を守る「後衛・しんがり」と、そこから生まれた「（劣勢での）粘り強い抵抗」という比喩を紹介します。",
+    "keywords": ["rearguard 意味", "rearguard 発音", "後衛", "しんがり"],
+    "meanings": [
+      { "hinshi": "【名詞】後衛部隊・しんがり", "note": "退却する軍の最後尾を守る部隊。前衛 vanguard の反対。" },
+      { "hinshi": "【名詞】(比喩)劣勢での粘り強い抵抗", "note": "a rearguard action（負けかけても粘る抵抗・防戦）。" }
+    ],
+    "usages": [
+      { "title": "① 軍の「後衛」として", "desc": "退却軍の最後尾を守る部隊を表します。", "example_en": "The rearguard covered the army's retreat.", "example_ja": "後衛部隊が軍の退却を援護した。" },
+      { "title": "② 比喩「粘る抵抗」として", "desc": "劣勢でも粘り強く抵抗することを表します。", "example_en": "They fought a rearguard action against the reforms.", "example_ja": "彼らは改革に対して粘り強い抵抗を続けた。" }
+    ],
+    "warn": [
+      "rearguard は『後衛部隊・しんがり』。rear（後ろ）＋ guard（守り）。前衛は vanguard。",
+      "a rearguard action は『（敗勢の中での）粘り強い抵抗・防戦』という比喩で頻出。"
+    ],
+    "etym_note": "rear（『後ろ・後方』、古フランス語 rere より）＋ guard（『守り・護衛』、古フランス語 garde より）から成る複合語で、「後方を守る部隊」を意味します。",
+    "etym_chain": [
+      { "node": "rere + garde", "sub": "後ろ＋守り", "era": "古フランス語" },
+      { "node": "rearguard", "sub": "後衛部隊", "era": "中英語" },
+      { "node": "rearguard", "sub": "後衛・粘り強い抵抗", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rearguard action", "ja": "粘り強い抵抗・防戦" },
+      { "en": "fight a rearguard action", "ja": "劣勢でも粘り強く抵抗する" },
+      { "en": "cover the retreat", "ja": "退却を援護する" },
+      { "en": "the rearguard of the army", "ja": "軍の後衛" },
+      { "en": "act as a rearguard", "ja": "しんがりを務める" },
+      { "en": "a rearguard defense", "ja": "後衛の防御" }
+    ],
+    "related": [
+      { "en": "vanguard", "ja": "前衛（反対）" },
+      { "en": "rear", "ja": "後ろ・後方" },
+      { "en": "retreat", "ja": "退却" },
+      { "en": "flank", "ja": "（軍の）側面" }
+    ],
+    "faq": [
+      { "q": "rearguard とはどんな意味？", "a": "退却する軍の最後尾を守る『後衛部隊・しんがり』のことです。また比喩で『（劣勢での）粘り強い抵抗』を表し、a rearguard action（粘り強い防戦）のように使います。" },
+      { "q": "rearguard と vanguard の違いは？", "a": "rearguard は『後衛（軍の最後尾を守る部隊）』、vanguard は『前衛（軍の先頭・先駆け）』です。vanguard は比喩で『（運動などの）先駆者』の意味でもよく使われます。" }
+    ],
+    "quiz": [
+      { "q": "They fought a ___ action against the reforms.（粘り強い抵抗）", "A": "rearguard", "B": "vanguard の前衛", "C": "bodyguard のボディーガード", "D": "lifeguard の監視員", "correct": "A" },
+      { "q": "rearguard の反対語はどれ？", "A": "vanguard（前衛）", "B": "bodyguard（護衛）", "C": "safeguard（防護）", "D": "lifeguard（監視員）", "correct": "A" }
+    ]
+  }
+]
