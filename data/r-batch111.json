@@ -1,0 +1,525 @@
+[
+  {
+    "english": "reachable",
+    "pron": "ˈriːtʃəbl",
+    "kana": "リーチャブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "reach（届く・連絡する）＋ -able（できる）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "（場所に）到達できる・（人に）連絡がつく",
+    "description": "reachable の意味・発音・例文・語源を解説。場所に「到達できる」、また人と「連絡がつく」という、日常で使う形容詞の使い方を分かりやすく紹介します。",
+    "keywords": ["reachable 意味", "reachable 発音", "到達できる", "連絡がつく"],
+    "meanings": [
+      { "hinshi": "【形容詞】（場所に）到達できる・行ける", "note": "近づける・届く範囲にある。easily reachable by train（電車で容易に行ける）。" },
+      { "hinshi": "【形容詞】（人に）連絡がつく・つかまえられる", "note": "reachable by phone（電話で連絡がつく）。" }
+    ],
+    "usages": [
+      { "title": "① 「到達できる」として", "desc": "行ける・届くことを表します。", "example_en": "The village is reachable only on foot.", "example_ja": "その村は徒歩でしか行けない。" },
+      { "title": "② 「連絡がつく」として", "desc": "人とつながれることを表します。", "example_en": "She is reachable by email during the day.", "example_ja": "彼女は日中はメールで連絡がつく。" }
+    ],
+    "warn": [
+      "reachable は『（場所に）到達できる』『（人に）連絡がつく』。reach（届く・連絡する）＋ -able。反対は unreachable。",
+      "目標が『達成できる』の意味では attainable / achievable のほうが自然なことも多い。"
+    ],
+    "etym_note": "reach（『届く・達する・連絡する』、古英語 rǣcan「手を伸ばす」より）＋ -able（できる）から成り、「届くことができる」を意味します。",
+    "etym_chain": [
+      { "node": "rǣcan", "sub": "手を伸ばす", "era": "古英語" },
+      { "node": "reach", "sub": "届く・達する", "era": "中英語" },
+      { "node": "reachable", "sub": "到達できる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "easily reachable", "ja": "容易に行ける・連絡がつく" },
+      { "en": "reachable by phone", "ja": "電話で連絡がつく" },
+      { "en": "reachable by train", "ja": "電車で行ける" },
+      { "en": "not reachable", "ja": "連絡がつかない・到達できない" },
+      { "en": "within reachable distance", "ja": "到達できる距離内に" },
+      { "en": "reachable in an hour", "ja": "1時間で行ける" }
+    ],
+    "related": [
+      { "en": "reach", "ja": "届く・達する・連絡する" },
+      { "en": "accessible", "ja": "行きやすい・利用しやすい" },
+      { "en": "attainable", "ja": "達成できる" },
+      { "en": "unreachable", "ja": "到達できない（反対）" }
+    ],
+    "faq": [
+      { "q": "reachable とはどんな意味？", "a": "場所に『到達できる・行ける』、また人と『連絡がつく』という形容詞です。The village is reachable only on foot.（徒歩でしか行けない）、reachable by email（メールで連絡がつく）のように使います。" },
+      { "q": "reachable と accessible の違いは？", "a": "reachable は『（手や移動・連絡で）届く・つかまえられる』、accessible は『（入りやすい・利用しやすい）アクセスできる』に重点があります。多くの文脈で近い意味です。" }
+    ],
+    "quiz": [
+      { "q": "She is ___ by email during the day.（連絡がつく）", "A": "reachable", "B": "teachable の教えられる", "C": "readable の読みやすい", "D": "reasonable の妥当な", "correct": "A" },
+      { "q": "reachable の反対語はどれ？", "A": "unreachable（到達できない）", "B": "reachability（到達可能性）", "C": "reaching（届くこと）", "D": "reached（届いた）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "readability",
+    "pron": "ˌriːdəˈbɪləti",
+    "kana": "リーダビリティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "readable（読みやすい）＋ -ity（性質）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "メディア・IT"],
+    "meaning_main": "読みやすさ・可読性（文章や表示の）",
+    "description": "readability の意味・発音・例文・語源を解説。文章の「読みやすさ」や、字・画面の「可読性」を表す、文章作成やデザインで使う名詞を分かりやすく紹介します。",
+    "keywords": ["readability 意味", "readability 発音", "読みやすさ", "可読性"],
+    "meanings": [
+      { "hinshi": "【名詞】読みやすさ・可読性", "note": "文章が読みやすい度合い、また字・表示の見やすさ。improve readability（読みやすさを高める）。" }
+    ],
+    "usages": [
+      { "title": "① 文章の「読みやすさ」として", "desc": "読み進めやすさを表します。", "example_en": "Short sentences improve readability.", "example_ja": "短い文は読みやすさを高める。" },
+      { "title": "② 表示の「可読性」として", "desc": "字や画面の見やすさを表します。", "example_en": "A larger font increases readability.", "example_ja": "大きなフォントは可読性を高める。" }
+    ],
+    "warn": [
+      "readability は『読みやすさ・可読性』。readable（読みやすい）＋ -ity。",
+      "文章の読みやすさ（文体・構成）と、字・画面の見やすさ（フォント・コントラスト）の両方に使う。"
+    ],
+    "etym_note": "readable（読みやすい、read「読む」＋ -able）＋ -ity（性質を表す語尾）から成り、「読みやすいという性質」を意味します。",
+    "etym_chain": [
+      { "node": "read", "sub": "読む", "era": "古英語" },
+      { "node": "readable", "sub": "読みやすい", "era": "近代英語" },
+      { "node": "readability", "sub": "読みやすさ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "improve readability", "ja": "読みやすさを高める" },
+      { "en": "increase readability", "ja": "可読性を上げる" },
+      { "en": "a readability score", "ja": "読みやすさのスコア" },
+      { "en": "poor readability", "ja": "低い可読性" },
+      { "en": "for better readability", "ja": "読みやすさのために" },
+      { "en": "text readability", "ja": "文章の読みやすさ" }
+    ],
+    "related": [
+      { "en": "readable", "ja": "読みやすい" },
+      { "en": "legibility", "ja": "（字の）判読しやすさ" },
+      { "en": "clarity", "ja": "明快さ" },
+      { "en": "accessibility", "ja": "利用しやすさ" }
+    ],
+    "faq": [
+      { "q": "readability とはどんな意味？", "a": "文章の『読みやすさ』や、字・画面の『可読性（見やすさ）』のことです。Short sentences improve readability.（短い文は読みやすさを高める）のように使います。" },
+      { "q": "readability と legibility の違いは？", "a": "readability は『（内容・文体の）読みやすさ』、legibility は『（字そのものの）判読しやすさ』に重点があります。読みやすい文章は readability、はっきり読める字は legibility です。" }
+    ],
+    "quiz": [
+      { "q": "Short sentences improve ___.（読みやすさ）", "A": "readability", "B": "reliability の信頼性", "C": "responsibility の責任", "D": "availability の入手可能性", "correct": "A" },
+      { "q": "readability のもとになった形容詞はどれ？", "A": "readable（読みやすい）", "B": "reliable（信頼できる）", "C": "reasonable（妥当な）", "D": "remarkable（注目すべき）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reasoned",
+    "pron": "ˈriːzənd",
+    "kana": "リーズンド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "reason（推論する）＋ -ed",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "やや硬い語"],
+    "meaning_main": "筋道立った・理にかなった・よく考えられた（議論・判断）",
+    "description": "reasoned の意味・発音・例文・語源を解説。感情でなく論理にもとづいた「筋道立った・理にかなった・よく考えられた」議論や判断を表す形容詞を紹介します。",
+    "keywords": ["reasoned 意味", "reasoned 発音", "筋道立った", "理にかなった"],
+    "meanings": [
+      { "hinshi": "【形容詞】筋道立った・理にかなった・よく考えられた", "note": "論理・根拠にもとづいた。a reasoned argument（筋の通った議論）。a reasoned decision（よく考えられた決定）。" }
+    ],
+    "usages": [
+      { "title": "① 「筋の通った議論」として", "desc": "根拠ある論理を表します。", "example_en": "She made a reasoned argument for change.", "example_ja": "彼女は変化を求める筋の通った主張をした。" },
+      { "title": "② 「よく考えられた判断」として", "desc": "熟慮した決定を表します。", "example_en": "It was a reasoned response, not an emotional one.", "example_ja": "それは感情的ではなく、よく考えられた対応だった。" }
+    ],
+    "warn": [
+      "reasoned は『筋道立った・理にかなった・よく考えられた』。reason（推論する）＋ -ed。",
+      "a reasoned argument / decision / response（筋の通った議論・決定・対応）が頻出。emotional（感情的な）の対比。"
+    ],
+    "etym_note": "reason（『推論する・理由づける』、ラテン語 ratio「理性」より）＋ -ed から成り、「論理にもとづいた・よく考えられた」を意味します。reasoning（論法）と同じ語根です。",
+    "etym_chain": [
+      { "node": "ratio", "sub": "理性", "era": "ラテン語" },
+      { "node": "reason", "sub": "推論する", "era": "中英語" },
+      { "node": "reasoned", "sub": "筋道立った", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a reasoned argument", "ja": "筋の通った議論" },
+      { "en": "a reasoned decision", "ja": "よく考えられた決定" },
+      { "en": "a reasoned response", "ja": "理にかなった対応" },
+      { "en": "a reasoned approach", "ja": "筋道立てたやり方" },
+      { "en": "a well-reasoned essay", "ja": "論理のしっかりした論文" },
+      { "en": "make a reasoned case", "ja": "筋の通った主張をする" }
+    ],
+    "related": [
+      { "en": "reasoning", "ja": "推論・論法" },
+      { "en": "logical", "ja": "論理的な" },
+      { "en": "considered", "ja": "熟慮した" },
+      { "en": "rational", "ja": "理性的な" }
+    ],
+    "faq": [
+      { "q": "reasoned とはどんな意味？", "a": "感情でなく論理・根拠にもとづいた『筋道立った・理にかなった・よく考えられた』という形容詞です。She made a reasoned argument for change.（筋の通った主張をした）のように使います。" },
+      { "q": "reasoned と reasonable の違いは？", "a": "reasoned は『（論理にもとづき）よく考えられた・筋道立った』、reasonable は『（程度が）妥当な・適度な・道理にかなった』です。a reasoned argument（筋の通った議論）／a reasonable price（手ごろな値段）のように使い分けます。" }
+    ],
+    "quiz": [
+      { "q": "She made a ___ argument for change.（筋の通った）", "A": "reasoned", "B": "seasoned の味付けした", "C": "reasonable の妥当な（程度）", "D": "released の解放された", "correct": "A" },
+      { "q": "reasoned と対比される語はどれ？", "A": "emotional（感情的な）", "B": "logical（論理的な）", "C": "rational（理性的な）", "D": "considered（熟慮した）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recursive",
+    "pron": "rɪˈkɜːrsɪv",
+    "kana": "リカーシブ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 recurrere（走り戻る・くり返す）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "数学・IT"],
+    "meaning_main": "再帰的な（自分自身をくり返し用いる）",
+    "description": "recursive の意味・発音・例文・語源を解説。手続きや定義が自分自身をくり返し呼び出す「再帰的な」という、数学・プログラミングで使う形容詞を紹介します。",
+    "keywords": ["recursive 意味", "recursive 発音", "再帰的", "再帰関数"],
+    "meanings": [
+      { "hinshi": "【形容詞】再帰的な", "note": "手続き・定義が自分自身を（くり返し）用いる。a recursive function（再帰関数）。a recursive definition（再帰的定義）。" }
+    ],
+    "usages": [
+      { "title": "① プログラミングの「再帰的な」として", "desc": "自分自身を呼び出す手続きを表します。", "example_en": "The algorithm uses a recursive function.", "example_ja": "そのアルゴリズムは再帰関数を使う。" },
+      { "title": "② 定義・構造として", "desc": "自分を含む定義を表します。", "example_en": "A folder can contain folders, a recursive structure.", "example_ja": "フォルダはフォルダを含める、再帰的な構造だ。" }
+    ],
+    "warn": [
+      "recursive は『再帰的な』（自分自身をくり返し用いる）。名詞 recursion（再帰）。動詞 recur（くり返す）と同根。",
+      "プログラミング・数学・言語学で頻出。recurring（くり返す）とは意味が異なる。"
+    ],
+    "etym_note": "ラテン語 recurrere（re-「再び」＋ currere「走る」）に由来し、「再び（自分に）走り戻る＝自分自身に立ち返る」を意味します。recur（くり返す）, current（流れ）と同じ語根です。",
+    "etym_chain": [
+      { "node": "recurrere", "sub": "走り戻る", "era": "ラテン語" },
+      { "node": "recur", "sub": "くり返す", "era": "近代英語" },
+      { "node": "recursive", "sub": "再帰的な", "era": "20世紀英語" }
+    ],
+    "phrases": [
+      { "en": "a recursive function", "ja": "再帰関数" },
+      { "en": "a recursive algorithm", "ja": "再帰的アルゴリズム" },
+      { "en": "a recursive definition", "ja": "再帰的定義" },
+      { "en": "recursive structure", "ja": "再帰的構造" },
+      { "en": "call recursively", "ja": "再帰的に呼び出す" },
+      { "en": "recursive recursion", "ja": "再帰のくり返し" }
+    ],
+    "related": [
+      { "en": "recursion", "ja": "再帰" },
+      { "en": "recur", "ja": "くり返す・再発する" },
+      { "en": "iterative", "ja": "反復的な" },
+      { "en": "self-referential", "ja": "自己言及的な" }
+    ],
+    "faq": [
+      { "q": "recursive とはどんな意味？", "a": "手続きや定義が『自分自身をくり返し用いる＝再帰的な』という意味です。a recursive function（再帰関数）のように、プログラミングや数学で使います。名詞は recursion（再帰）です。" },
+      { "q": "recursive と iterative の違いは？", "a": "recursive（再帰的）は『自分自身を呼び出してくり返す』、iterative（反復的）は『ループでくり返す』方法です。同じ処理を、再帰で書くか反復で書くかの違いになります。" }
+    ],
+    "quiz": [
+      { "q": "The algorithm uses a ___ function.（再帰的な）", "A": "recursive", "B": "expensive の高価な", "C": "decisive の決定的な", "D": "massive の巨大な", "correct": "A" },
+      { "q": "recursive の名詞形はどれ？", "A": "recursion（再帰）", "B": "recursion ではなく decision（決定）", "C": "expansion（拡大）", "D": "explosion（爆発）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recursion",
+    "pron": "rɪˈkɜːrʒən",
+    "kana": "リカージョン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 recurrere（走り戻る・くり返す）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "数学・IT"],
+    "meaning_main": "再帰（自分自身を用いてくり返し定義・処理する方法）",
+    "description": "recursion の意味・発音・例文・語源を解説。手続きや定義が自分自身を呼び出す「再帰」という、プログラミング・数学で重要な概念を表す名詞を紹介します。",
+    "keywords": ["recursion 意味", "recursion 発音", "再帰", "再帰呼び出し"],
+    "meanings": [
+      { "hinshi": "【名詞】再帰", "note": "ある手続き・定義が自分自身を（くり返し）呼び出す仕組み。solve a problem using recursion（再帰を使って問題を解く）。形容詞は recursive。" }
+    ],
+    "usages": [
+      { "title": "① プログラミングの「再帰」として", "desc": "自分自身を呼ぶ手法を表します。", "example_en": "This problem can be solved with recursion.", "example_ja": "この問題は再帰を使って解ける。" },
+      { "title": "② 概念として", "desc": "入れ子状にくり返す構造を表します。", "example_en": "Recursion appears in fractals and language.", "example_ja": "再帰はフラクタルや言語にも現れる。" }
+    ],
+    "warn": [
+      "recursion は『再帰』（自分自身を用いてくり返す方法）。形容詞は recursive（再帰的な）。",
+      "再帰には『止める条件（base case）』が必要。無限再帰に注意。"
+    ],
+    "etym_note": "ラテン語 recurrere（re-「再び」＋ currere「走る」）に由来し、「（自分自身に）再び立ち返ること」を意味します。recur, recurrent と同じ語根です。",
+    "etym_chain": [
+      { "node": "recurrere", "sub": "走り戻る", "era": "ラテン語" },
+      { "node": "recursion", "sub": "走り戻ること", "era": "近代英語" },
+      { "node": "recursion", "sub": "再帰", "era": "20世紀英語" }
+    ],
+    "phrases": [
+      { "en": "use recursion", "ja": "再帰を使う" },
+      { "en": "solve with recursion", "ja": "再帰で解く" },
+      { "en": "infinite recursion", "ja": "無限再帰" },
+      { "en": "the base case of recursion", "ja": "再帰の基底（停止）条件" },
+      { "en": "recursion and iteration", "ja": "再帰と反復" },
+      { "en": "deep recursion", "ja": "深い再帰" }
+    ],
+    "related": [
+      { "en": "recursive", "ja": "再帰的な" },
+      { "en": "iteration", "ja": "反復" },
+      { "en": "loop", "ja": "ループ・くり返し" },
+      { "en": "fractal", "ja": "フラクタル" }
+    ],
+    "faq": [
+      { "q": "recursion とはどんな意味？", "a": "ある手続きや定義が『自分自身を呼び出してくり返す仕組み＝再帰』のことです。This problem can be solved with recursion.（再帰を使って解ける）のように、プログラミングや数学で使います。形容詞は recursive です。" },
+      { "q": "recursion で気をつけることは？", "a": "『止める条件（base case）』が必要です。これがないと自分自身を無限に呼び続ける『無限再帰』になり、プログラムが停止しなくなります。" }
+    ],
+    "quiz": [
+      { "q": "This problem can be solved with ___.（再帰）", "A": "recursion", "B": "decision の決定", "C": "collision の衝突", "D": "version のバージョン", "correct": "A" },
+      { "q": "recursion の形容詞形はどれ？", "A": "recursive（再帰的な）", "B": "decisive（決定的な）", "C": "explosive（爆発的な）", "D": "expensive（高価な）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reddish",
+    "pron": "ˈredɪʃ",
+    "kana": "レディッシュ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "red（赤い）＋ -ish（〜がかった）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "色・日常"],
+    "meaning_main": "赤みがかった・赤っぽい",
+    "description": "reddish の意味・発音・例文・語源を解説。完全な赤ではなく「赤みがかった・赤っぽい」という色合いを表す形容詞の使い方と、-ish の働きを分かりやすく紹介します。",
+    "keywords": ["reddish 意味", "reddish 発音", "赤みがかった", "赤っぽい"],
+    "meanings": [
+      { "hinshi": "【形容詞】赤みがかった・赤っぽい", "note": "やや赤い・赤を帯びた。reddish brown（赤茶色）。a reddish glow（赤みがかった輝き）。" }
+    ],
+    "usages": [
+      { "title": "① 「赤っぽい」として", "desc": "やや赤い色合いを表します。", "example_en": "Her hair has a reddish tint.", "example_ja": "彼女の髪は赤みがかっている。" },
+      { "title": "② 色の組み合わせとして", "desc": "赤を帯びた色を表します。", "example_en": "The leaves turned a reddish brown.", "example_ja": "葉は赤茶色に変わった。" }
+    ],
+    "warn": [
+      "reddish は『赤みがかった・赤っぽい』。red（赤い）＋ -ish（『〜がかった・やや〜』を表す語尾）。",
+      "-ish は色や程度をやわらげる（greenish 緑がかった, smallish 小さめの）。"
+    ],
+    "etym_note": "red（赤い、古英語 rēad より）＋ -ish（『〜がかった・〜のような』を表す語尾）から成り、「やや赤い・赤を帯びた」を意味します。",
+    "etym_chain": [
+      { "node": "rēad", "sub": "赤い", "era": "古英語" },
+      { "node": "red", "sub": "赤い", "era": "中英語" },
+      { "node": "reddish", "sub": "赤みがかった", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reddish brown", "ja": "赤茶色" },
+      { "en": "a reddish tint", "ja": "赤みがかった色合い" },
+      { "en": "reddish hair", "ja": "赤みがかった髪" },
+      { "en": "a reddish glow", "ja": "赤みがかった輝き" },
+      { "en": "reddish skin", "ja": "赤らんだ肌" },
+      { "en": "turn reddish", "ja": "赤っぽくなる" }
+    ],
+    "related": [
+      { "en": "red", "ja": "赤い" },
+      { "en": "ruddy", "ja": "赤らんだ（血色のよい）" },
+      { "en": "rosy", "ja": "バラ色の" },
+      { "en": "greenish", "ja": "緑がかった" }
+    ],
+    "faq": [
+      { "q": "reddish とはどんな意味？", "a": "完全な赤ではなく『赤みがかった・赤っぽい』という色合いを表す形容詞です。Her hair has a reddish tint.（髪が赤みがかっている）、reddish brown（赤茶色）のように使います。" },
+      { "q": "-ish はどんな働き？", "a": "『〜がかった・やや〜・〜のような』と、色や程度をやわらげる語尾です。reddish（赤っぽい）、greenish（緑がかった）、smallish（小さめの）、sevenish（7時ごろ）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The leaves turned a ___ brown.（赤みがかった）", "A": "reddish", "B": "radish の大根", "C": "rubbish のごみ", "D": "redden の赤くする", "correct": "A" },
+      { "q": "-ish と同じ働きの例はどれ？", "A": "greenish（緑がかった）", "B": "redness（赤さ）", "C": "redder（より赤い）", "D": "redden（赤くする）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reflexology",
+    "pron": "ˌriːflekˈsɒlədʒi",
+    "kana": "リフレクソロジー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "reflex（反射）＋ -ology（学・療法）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "健康・療法"],
+    "meaning_main": "リフレクソロジー（足裏などの反射区を押す療法）",
+    "description": "reflexology の意味・発音・例文・語源を解説。足裏や手などの「反射区」を押して体調を整えるとされる療法「リフレクソロジー」を表す名詞を紹介します。",
+    "keywords": ["reflexology 意味", "reflexology 発音", "リフレクソロジー", "足つぼ"],
+    "meanings": [
+      { "hinshi": "【名詞】リフレクソロジー・反射療法", "note": "足裏・手・耳などの『反射区』を押すことで、対応する体の部位に働きかけるとされる代替療法。a reflexology session（リフレクソロジーの施術）。" }
+    ],
+    "usages": [
+      { "title": "① 療法としての「リフレクソロジー」", "desc": "反射区を押す施術を表します。", "example_en": "She booked a reflexology session to relax.", "example_ja": "彼女はリラックスのためリフレクソロジーを予約した。" },
+      { "title": "② 健康法の文脈で", "desc": "足つぼ療法を表します。", "example_en": "Reflexology focuses on pressure points in the feet.", "example_ja": "リフレクソロジーは足の反射区（つぼ）に着目する。" }
+    ],
+    "warn": [
+      "reflexology は『リフレクソロジー・反射療法』（足裏などの反射区を押す代替療法）。reflex（反射）＋ -ology。",
+      "医学的に確立した治療とは異なる『代替療法（alternative therapy）』に分類される。"
+    ],
+    "etym_note": "reflex（『反射』、ラテン語 reflectere「曲げ返す」より）＋ -ology（『学問・療法』を表す語尾）から成り、「反射（区）に基づく療法」を意味します。reflect（反射する）と同じ語根です。",
+    "etym_chain": [
+      { "node": "reflectere", "sub": "曲げ返す", "era": "ラテン語" },
+      { "node": "reflex", "sub": "反射", "era": "近代英語" },
+      { "node": "reflexology", "sub": "リフレクソロジー", "era": "20世紀英語" }
+    ],
+    "phrases": [
+      { "en": "a reflexology session", "ja": "リフレクソロジーの施術" },
+      { "en": "foot reflexology", "ja": "足のリフレクソロジー" },
+      { "en": "practice reflexology", "ja": "リフレクソロジーを行う" },
+      { "en": "a reflexology chart", "ja": "反射区の図" },
+      { "en": "try reflexology", "ja": "リフレクソロジーを試す" },
+      { "en": "hand reflexology", "ja": "手のリフレクソロジー" }
+    ],
+    "related": [
+      { "en": "reflex", "ja": "反射" },
+      { "en": "acupressure", "ja": "指圧" },
+      { "en": "massage", "ja": "マッサージ" },
+      { "en": "therapy", "ja": "療法" }
+    ],
+    "faq": [
+      { "q": "reflexology とはどんな意味？", "a": "足裏・手・耳などの『反射区』を押すことで体調を整えるとされる代替療法『リフレクソロジー』のことです。a reflexology session（リフレクソロジーの施術）のように使います。" },
+      { "q": "reflexology と acupressure の違いは？", "a": "reflexology（リフレクソロジー）は『足裏などの反射区が体の各部に対応する』という考えに基づく療法、acupressure（指圧）は『経絡（けいらく）上のつぼ』を押す東洋医学由来の手法です。" }
+    ],
+    "quiz": [
+      { "q": "She booked a ___ session to relax.（リフレクソロジー）", "A": "reflexology", "B": "psychology の心理学", "C": "geology の地質学", "D": "biology の生物学", "correct": "A" },
+      { "q": "reflexology は主に体のどこを押す？", "A": "足裏や手などの反射区", "B": "背骨", "C": "頭の中", "D": "歯", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rationalist",
+    "pron": "ˈræʃənəlɪst",
+    "kana": "ラショナリスト",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rational（理性的な）＋ -ist（〜主義者）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "哲学・思想"],
+    "meaning_main": "合理主義者・理性主義者／合理主義の",
+    "description": "rationalist の意味・発音・例文・語源を解説。経験より理性を重んじる「合理主義者・理性主義者」という名詞と、「合理主義の」という形容詞の使い方を紹介します。",
+    "keywords": ["rationalist 意味", "rationalist 発音", "合理主義者", "rationalism 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】合理主義者・理性主義者", "note": "理性・論理を真理や行動の基準とする人。哲学では経験論者（empiricist）と対立。" },
+      { "hinshi": "【形容詞】合理主義の・理性主義の", "note": "a rationalist philosopher（合理主義の哲学者）。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「合理主義者」として", "desc": "理性を重んじる人を表します。", "example_en": "As a rationalist, he distrusts superstition.", "example_ja": "合理主義者として、彼は迷信を信用しない。" },
+      { "title": "② 形容詞「合理主義の」として", "desc": "理性主義の立場を表します。", "example_en": "Descartes held a rationalist view of knowledge.", "example_ja": "デカルトは知識について合理主義の立場をとった。" }
+    ],
+    "warn": [
+      "rationalist は名詞『合理主義者』、形容詞『合理主義の』。rational（理性的な）＋ -ist。立場・思想は rationalism。",
+      "哲学では empiricist（経験論者）と対立。日常では『理屈っぽい人・現実的な人』のニュアンスでも。"
+    ],
+    "etym_note": "rational（理性的な、ラテン語 ratio「理性」より）＋ -ist（『〜する人・〜主義者』）から成り、「理性を重んじる人」を意味します。rationalism（合理主義）と同根です。",
+    "etym_chain": [
+      { "node": "ratio", "sub": "理性", "era": "ラテン語" },
+      { "node": "rational", "sub": "理性的な", "era": "中英語" },
+      { "node": "rationalist", "sub": "合理主義者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rationalist philosopher", "ja": "合理主義の哲学者" },
+      { "en": "a confirmed rationalist", "ja": "筋金入りの合理主義者" },
+      { "en": "the rationalist tradition", "ja": "合理主義の伝統" },
+      { "en": "a rationalist approach", "ja": "合理主義的な手法" },
+      { "en": "as a rationalist", "ja": "合理主義者として" },
+      { "en": "rationalist thinkers", "ja": "合理主義の思想家たち" }
+    ],
+    "related": [
+      { "en": "rationalism", "ja": "合理主義" },
+      { "en": "rational", "ja": "理性的な" },
+      { "en": "empiricist", "ja": "経験論者（対立）" },
+      { "en": "skeptic", "ja": "懐疑論者" }
+    ],
+    "faq": [
+      { "q": "rationalist とはどんな意味？", "a": "理性・論理を真理や行動の基準とする『合理主義者・理性主義者』という名詞、また『合理主義の』という形容詞です。As a rationalist, he distrusts superstition.（合理主義者として迷信を信用しない）のように使います。" },
+      { "q": "rationalist と empiricist の違いは？", "a": "rationalist（合理主義者）は『理性こそ知識の源』とする立場、empiricist（経験論者）は『経験・観察こそ知識の源』とする立場で、近代哲学で対立します。" }
+    ],
+    "quiz": [
+      { "q": "As a ___, he distrusts superstition.（合理主義者）", "A": "rationalist", "B": "tourist の観光客", "C": "artist の芸術家", "D": "dentist の歯科医", "correct": "A" },
+      { "q": "rationalist の立場を表す名詞はどれ？", "A": "rationalism（合理主義）", "B": "tourism（観光）", "C": "realism（写実主義）", "D": "racism（人種差別）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reductionism",
+    "pron": "rɪˈdʌkʃənɪzəm",
+    "kana": "リダクショニズム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "reduction（還元・縮小）＋ -ism（主義）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "哲学・科学"],
+    "meaning_main": "還元主義（複雑なものを単純な要素に分けて説明する立場）",
+    "description": "reductionism の意味・発音・例文・語源を解説。複雑な現象を、より単純な要素に分解して説明しようとする立場「還元主義」を表す、哲学・科学の名詞を紹介します。",
+    "keywords": ["reductionism 意味", "reductionism 発音", "還元主義", "reductive 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】還元主義", "note": "複雑な現象（心・社会・生命など）を、より単純な要素（化学・物理など）に分解して説明しようとする立場。しばしば『単純化しすぎ』と批判される。" }
+    ],
+    "usages": [
+      { "title": "① 学問的立場としての「還元主義」", "desc": "要素に分けて説明する立場を表します。", "example_en": "Critics accused the theory of reductionism.", "example_ja": "批評家たちはその理論を還元主義だと批判した。" },
+      { "title": "② 科学の文脈で", "desc": "全体を部分に還元する考えを表します。", "example_en": "Reductionism explains the whole through its parts.", "example_ja": "還元主義は全体を部分によって説明する。" }
+    ],
+    "warn": [
+      "reductionism は『還元主義』（複雑なものを単純な要素に分けて説明）。reduction（還元）＋ -ism。形容詞 reductive / reductionist。",
+      "対立する立場は holism（全体論）。『単純化しすぎ』という否定的文脈で使われることも多い。"
+    ],
+    "etym_note": "reduction（『還元・縮小』、ラテン語 reducere「引き戻す」より）＋ -ism（主義）から成り、「（複雑さを）単純な要素に還元する立場」を意味します。reduce（減らす）と同じ語根です。",
+    "etym_chain": [
+      { "node": "reducere", "sub": "引き戻す", "era": "ラテン語" },
+      { "node": "reduction", "sub": "還元・縮小", "era": "近代英語" },
+      { "node": "reductionism", "sub": "還元主義", "era": "20世紀英語" }
+    ],
+    "phrases": [
+      { "en": "scientific reductionism", "ja": "科学的還元主義" },
+      { "en": "accuse of reductionism", "ja": "還元主義だと批判する" },
+      { "en": "biological reductionism", "ja": "生物学的還元主義" },
+      { "en": "reductionism and holism", "ja": "還元主義と全体論" },
+      { "en": "a form of reductionism", "ja": "還元主義の一形態" },
+      { "en": "crude reductionism", "ja": "粗雑な還元主義" }
+    ],
+    "related": [
+      { "en": "reductive", "ja": "還元的な・単純化しすぎた" },
+      { "en": "reductionist", "ja": "還元主義の・還元主義者" },
+      { "en": "holism", "ja": "全体論（対立）" },
+      { "en": "reduce", "ja": "減らす・単純化する" }
+    ],
+    "faq": [
+      { "q": "reductionism とはどんな意味？", "a": "複雑な現象（心・生命・社会など）を、より単純な要素に分解して説明しようとする立場『還元主義』のことです。Critics accused the theory of reductionism.（その理論を還元主義だと批判した）のように使います。" },
+      { "q": "reductionism と holism の違いは？", "a": "reductionism（還元主義）は『全体は部分に分解して説明できる』とする立場、holism（全体論）は『全体は部分の総和以上で、まるごととらえるべき』とする立場で、対立します。" }
+    ],
+    "quiz": [
+      { "q": "Critics accused the theory of ___.（還元主義）", "A": "reductionism", "B": "tourism（観光）", "C": "optimism（楽観主義）", "D": "criticism の最初の批評だけ", "correct": "A" },
+      { "q": "reductionism と対立する立場はどれ？", "A": "holism（全体論）", "B": "realism（写実主義）", "C": "racism（人種差別）", "D": "tourism（観光）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reenter",
+    "pron": "ˌriːˈentər",
+    "kana": "リエンター",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ enter（入る）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出語"],
+    "meaning_main": "再び入る・再突入する／（データを）入力し直す",
+    "description": "reenter の意味・発音・例文・語源を解説。部屋などに「再び入る」、宇宙船が大気圏に「再突入する」、またデータを「入力し直す」という使い方を紹介します。",
+    "keywords": ["reenter 意味", "reenter 発音", "再び入る", "再突入"],
+    "meanings": [
+      { "hinshi": "【動詞】再び入る・再び加わる", "note": "一度出た場所・状態に再び入る。re-enter the room（部屋に再び入る）。reenter the workforce（再び就労する）。" },
+      { "hinshi": "【動詞】（大気圏に）再突入する／（データを）入力し直す", "note": "reenter the atmosphere（大気圏に再突入する）。reenter the password（パスワードを入力し直す）。" }
+    ],
+    "usages": [
+      { "title": "① 「再び入る」として", "desc": "一度出た場所に再び入ることを表します。", "example_en": "She left and then reentered the room.", "example_ja": "彼女はいったん出て、それから部屋に再び入った。" },
+      { "title": "② 「再突入・入力し直す」として", "desc": "大気圏への再突入や再入力を表します。", "example_en": "The capsule reentered the atmosphere safely.", "example_ja": "そのカプセルは無事に大気圏に再突入した。" }
+    ],
+    "warn": [
+      "reenter は『再び入る・再突入する・入力し直す』。re-（再び）＋ enter。re-enter とハイフン付きでも書く。名詞は reentry（再突入・再加入）。",
+      "reenter the workforce（社会復帰・再就職する）も頻出。"
+    ],
+    "etym_note": "re-（再び）＋ enter（入る、ラテン語 intrare「中に入る」より）から成り、「再び中に入ること」を意味します。entrance（入口）, interior（内部）と同じ語根です。",
+    "etym_chain": [
+      { "node": "intrare", "sub": "中に入る", "era": "ラテン語" },
+      { "node": "enter", "sub": "入る", "era": "中英語" },
+      { "node": "reenter", "sub": "再び入る", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reenter the room", "ja": "部屋に再び入る" },
+      { "en": "reenter the atmosphere", "ja": "大気圏に再突入する" },
+      { "en": "reenter the workforce", "ja": "再び就労する・社会復帰する" },
+      { "en": "reenter the data", "ja": "データを入力し直す" },
+      { "en": "reenter the country", "ja": "再入国する" },
+      { "en": "reenter the race", "ja": "レースに再び参加する" }
+    ],
+    "related": [
+      { "en": "enter", "ja": "入る" },
+      { "en": "reentry", "ja": "再突入・再加入" },
+      { "en": "return", "ja": "戻る" },
+      { "en": "exit", "ja": "出る（反対）" }
+    ],
+    "faq": [
+      { "q": "reenter とはどんな意味？", "a": "部屋などに『再び入る』、宇宙船が大気圏に『再突入する』、またデータを『入力し直す』という意味です。She reentered the room.（部屋に再び入った）、reenter the atmosphere（大気圏に再突入する）のように使います。名詞は reentry です。" },
+      { "q": "reenter the workforce とは？", "a": "『再び就労する・社会復帰する』という意味です。育児・病気・退職などで一度仕事を離れた人が、再び働き始めることを表します。" }
+    ],
+    "quiz": [
+      { "q": "The capsule ___ed the atmosphere safely.（再突入した）", "A": "reenter", "B": "enter の最初に入る", "C": "center の中心に置く", "D": "encounter の出くわす", "correct": "A" },
+      { "q": "reenter の名詞形はどれ？", "A": "reentry（再突入・再加入）", "B": "entry の最初の入場だけ", "C": "center（中心）", "D": "entrance の最初の入口だけ", "correct": "A" }
+    ]
+  }
+]
