@@ -1,0 +1,54 @@
+[
+  {
+    "english": "reusable",
+    "pron": "ˌriːˈjuːzəbl",
+    "kana": "リユーザブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "reuse（再使用する）＋ -able（できる）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "環境・日常"],
+    "meaning_main": "再使用できる・くり返し使える",
+    "description": "reusable の意味・発音・例文・語源を解説。マイバッグや容器などが「再使用できる・くり返し使える」という、環境の話題で使う形容詞の使い方を紹介します。",
+    "keywords": ["reusable 意味", "reusable 発音", "再使用できる", "くり返し使える"],
+    "meanings": [
+      { "hinshi": "【形容詞】再使用できる・くり返し使える", "note": "一度使ったあとも何度も使える。a reusable bag（マイバッグ）。reusable containers（くり返し使える容器）。" }
+    ],
+    "usages": [
+      { "title": "① 「くり返し使える」として", "desc": "何度も使える物を表します。", "example_en": "Bring a reusable bag when you shop.", "example_ja": "買い物にはマイバッグ（再使用できる袋）を持参しよう。" },
+      { "title": "② 環境の文脈で", "desc": "使い捨てに代わる選択を表します。", "example_en": "Reusable bottles help reduce plastic waste.", "example_ja": "くり返し使えるボトルはプラごみ削減に役立つ。" }
+    ],
+    "warn": [
+      "reusable は『再使用できる・くり返し使える』。reuse（再使用する）＋ -able。反対は disposable / single-use（使い捨ての）。",
+      "a reusable bag（マイバッグ）, reusable container（再使用容器）が頻出。"
+    ],
+    "etym_note": "reuse（re-「再び」＋ use「使う」）＋ -able（できる）から成り、「再び使うことができる」を意味します。use（使う）, usable（使える）と同じ語根です。",
+    "etym_chain": [
+      { "node": "use", "sub": "使う", "era": "中英語" },
+      { "node": "reuse", "sub": "再使用する", "era": "近代英語" },
+      { "node": "reusable", "sub": "再使用できる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a reusable bag", "ja": "マイバッグ・再使用できる袋" },
+      { "en": "a reusable bottle", "ja": "くり返し使えるボトル" },
+      { "en": "reusable containers", "ja": "再使用できる容器" },
+      { "en": "reusable cups", "ja": "くり返し使えるカップ" },
+      { "en": "fully reusable", "ja": "完全に再使用できる" },
+      { "en": "reusable and eco-friendly", "ja": "くり返し使えて環境にやさしい" }
+    ],
+    "related": [
+      { "en": "reuse", "ja": "再使用する" },
+      { "en": "recyclable", "ja": "リサイクル可能な" },
+      { "en": "disposable", "ja": "使い捨ての（反対）" },
+      { "en": "single-use", "ja": "使い捨ての（反対）" }
+    ],
+    "faq": [
+      { "q": "reusable とはどんな意味？", "a": "マイバッグや容器などが『再使用できる・くり返し使える』という形容詞です。Bring a reusable bag when you shop.（買い物にはマイバッグを持参しよう）のように使います。" },
+      { "q": "reusable と recyclable の違いは？", "a": "reusable は『（そのまま）何度も使える』、recyclable は『（加工して）再び資源にできる』です。くり返し使えるマイバッグ vs リサイクルできる紙、のような違いです。" }
+    ],
+    "quiz": [
+      { "q": "Bring a ___ bag when you shop.（くり返し使える）", "A": "reusable", "B": "disposable の使い捨ての", "C": "readable の読みやすい", "D": "removable の取り外せる", "correct": "A" },
+      { "q": "reusable の反対に近い語はどれ？", "A": "disposable（使い捨ての）", "B": "recyclable（リサイクル可能な）", "C": "renewable（再生可能な）", "D": "reliable（信頼できる）", "correct": "A" }
+    ]
+  }
+]
