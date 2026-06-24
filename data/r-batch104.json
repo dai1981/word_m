@@ -1,0 +1,527 @@
+[
+  {
+    "english": "rearrange",
+    "pron": "ˌriːəˈreɪndʒ",
+    "kana": "リアレンジ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ arrange（並べる・整える）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出語"],
+    "meaning_main": "並べ替える・配置し直す／（予定を）組み直す",
+    "description": "rearrange の意味・発音・例文・語源を解説。家具などを「並べ替える・配置し直す」、また予定を「組み直す」という、日常でよく使う動詞を分かりやすく紹介します。",
+    "keywords": ["rearrange 意味", "rearrange 発音", "並べ替える", "arrange 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】並べ替える・配置し直す", "note": "順序や配置を変えて整え直す。rearrange the furniture（家具を配置し直す）。" },
+      { "hinshi": "【動詞】（予定・約束を）組み直す・変更する", "note": "rearrange a meeting（会議の予定を組み直す）。" }
+    ],
+    "usages": [
+      { "title": "① 「並べ替える」として", "desc": "配置や順序を変えることを表します。", "example_en": "She rearranged the furniture in the living room.", "example_ja": "彼女は居間の家具を配置し直した。" },
+      { "title": "② 予定を「組み直す」として", "desc": "スケジュールを変更することを表します。", "example_en": "We had to rearrange the meeting for Friday.", "example_ja": "会議を金曜に組み直さねばならなかった。" }
+    ],
+    "warn": [
+      "rearrange は『並べ替える・配置し直す』『（予定を）組み直す』。re-（再び）＋ arrange。名詞は rearrangement。",
+      "reschedule（予定を変更する）は時間の組み直しに特化。rearrange はより広い。"
+    ],
+    "etym_note": "re-（再び）＋ arrange（並べる・整える、古フランス語 arangier「列に並べる」より）から成り、「再び並べ整えること」を意味します。range（並び・範囲）と同じ語根です。",
+    "etym_chain": [
+      { "node": "arangier", "sub": "列に並べる", "era": "古フランス語" },
+      { "node": "arrange", "sub": "並べる・整える", "era": "近代英語" },
+      { "node": "rearrange", "sub": "並べ替える", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rearrange the furniture", "ja": "家具を配置し直す" },
+      { "en": "rearrange the schedule", "ja": "予定を組み直す" },
+      { "en": "rearrange a meeting", "ja": "会議を組み直す" },
+      { "en": "rearrange the words", "ja": "単語を並べ替える" },
+      { "en": "rearrange the room", "ja": "部屋を模様替えする" },
+      { "en": "rearrange one's plans", "ja": "計画を立て直す" }
+    ],
+    "related": [
+      { "en": "arrange", "ja": "並べる・整える" },
+      { "en": "reorganize", "ja": "再編成する" },
+      { "en": "reschedule", "ja": "予定を変更する" },
+      { "en": "reorder", "ja": "並べ替える" }
+    ],
+    "faq": [
+      { "q": "rearrange とはどんな意味？", "a": "家具などを『並べ替える・配置し直す』、また予定を『組み直す』という意味です。She rearranged the furniture.（家具を配置し直した）のように使います。名詞は rearrangement です。" },
+      { "q": "rearrange と reschedule の違いは？", "a": "reschedule は『（予定の）日時を変更する』ことに特化、rearrange は『並べ替える・配置し直す』全般を表し、予定の組み直しにも使えます。" }
+    ],
+    "quiz": [
+      { "q": "She ___d the furniture in the living room.（配置し直した）", "A": "rearrange", "B": "arrange の最初に並べる", "C": "exchange の交換する", "D": "enrage の激怒させる", "correct": "A" },
+      { "q": "rearrange のもとになった語はどれ？", "A": "arrange（並べる・整える）", "B": "range（範囲）の re ではない", "C": "exchange（交換）", "D": "change（変える）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reassess",
+    "pron": "ˌriːəˈses",
+    "kana": "リアセス",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ assess（評価する・査定する）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "再評価する・見直す・査定し直す",
+    "description": "reassess の意味・発音・例文・語源を解説。状況や価値を「再評価する・見直す」、また税・価値を「査定し直す」という、ビジネスや日常で使う語を紹介します。",
+    "keywords": ["reassess 意味", "reassess 発音", "再評価する", "assess 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再評価する・見直す", "note": "状況・考え・計画を改めて評価する。reassess the situation（状況を見直す）。" },
+      { "hinshi": "【動詞】（税・価値を）査定し直す", "note": "金額・価値を改めて見積もる。名詞は reassessment。" }
+    ],
+    "usages": [
+      { "title": "① 「見直す」として", "desc": "状況や計画を改めて評価することを表します。", "example_en": "The crisis forced us to reassess our priorities.", "example_ja": "その危機は私たちに優先順位の見直しを迫った。" },
+      { "title": "② 「査定し直す」として", "desc": "価値や税額を見積もり直すことを表します。", "example_en": "The property was reassessed for tax purposes.", "example_ja": "その不動産は税のために査定し直された。" }
+    ],
+    "warn": [
+      "reassess は『再評価する・見直す』『査定し直す』。re-（再び）＋ assess。名詞は reassessment。",
+      "reappraise（再評価する）とほぼ同義だが、reassess は『（程度・状況を）測り直す』点にやや重点。"
+    ],
+    "etym_note": "re-（再び）＋ assess（評価する・査定する、ラテン語 assidere「そばに座る＝（税を）定める」より）から成り、「再び見積もること」を意味します。",
+    "etym_chain": [
+      { "node": "assidere", "sub": "そばに座る・定める", "era": "ラテン語" },
+      { "node": "assess", "sub": "評価する・査定する", "era": "中英語" },
+      { "node": "reassess", "sub": "再評価する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reassess the situation", "ja": "状況を見直す" },
+      { "en": "reassess priorities", "ja": "優先順位を見直す" },
+      { "en": "reassess the risk", "ja": "リスクを再評価する" },
+      { "en": "reassess one's options", "ja": "選択肢を見直す" },
+      { "en": "be reassessed for tax", "ja": "税のため査定し直される" },
+      { "en": "a thorough reassessment", "ja": "徹底的な見直し" }
+    ],
+    "related": [
+      { "en": "assess", "ja": "評価する・査定する" },
+      { "en": "reappraise", "ja": "再評価する" },
+      { "en": "reevaluate", "ja": "再評価する" },
+      { "en": "review", "ja": "見直す" }
+    ],
+    "faq": [
+      { "q": "reassess とはどんな意味？", "a": "状況・考え・計画を『再評価する・見直す』、また価値や税を『査定し直す』という意味です。The crisis forced us to reassess our priorities.（危機が優先順位の見直しを迫った）のように使います。" },
+      { "q": "reassess と reappraise の違いは？", "a": "ほぼ同義で『再評価する』ですが、reassess は『（程度・状況を）測り直す』、reappraise は『（価値・評価を）見直す』点にやや重点があります。多くの文脈で言い換え可能です。" }
+    ],
+    "quiz": [
+      { "q": "The crisis forced us to ___ our priorities.（見直す）", "A": "reassess", "B": "assess の最初に評価する", "C": "access の接近する", "D": "excess の超過", "correct": "A" },
+      { "q": "reassess の名詞形はどれ？", "A": "reassessment（再評価）", "B": "assessment の最初の評価だけ", "C": "access（接近）", "D": "excess（超過）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "refurbish",
+    "pron": "ˌriːˈfɜːrbɪʃ",
+    "kana": "リファービッシュ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ furbish（磨く・新しくする）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "ビジネス・日常"],
+    "meaning_main": "改装する・修復してきれいにする・再生品にする",
+    "description": "refurbish の意味・発音・例文・語源を解説。建物を「改装する」、また中古品を「修復してきれいにする（再生品にする）」という、ビジネスや日常で使う語を紹介します。",
+    "keywords": ["refurbish 意味", "refurbish 発音", "改装する", "再生品"],
+    "meanings": [
+      { "hinshi": "【動詞】改装する・修復してきれいにする", "note": "古くなったものを直して新品同様にする。refurbish a hotel（ホテルを改装する）。" },
+      { "hinshi": "【動詞】（中古品を）再生する・整備する", "note": "a refurbished phone（整備済み再生スマホ）。" }
+    ],
+    "usages": [
+      { "title": "① 建物の「改装」として", "desc": "古い建物を直してきれいにすることを表します。", "example_en": "They refurbished the old theater.", "example_ja": "彼らはその古い劇場を改装した。" },
+      { "title": "② 中古品の「再生」として", "desc": "整備して新品同様にすることを表します。", "example_en": "I bought a refurbished laptop.", "example_ja": "私は整備済みの再生ノートパソコンを買った。" }
+    ],
+    "warn": [
+      "refurbish は『改装する・修復してきれいにする』。中古機器では『整備・再生する』。re-（再び）＋ furbish（磨く）。",
+      "a refurbished product（リファービッシュ品＝整備済み再生品）は家電・スマホでよく見る表示。名詞は refurbishment。"
+    ],
+    "etym_note": "re-（再び）＋ furbish（磨く・つやを出す、古フランス語 forbir「磨く」より）から成り、「再び磨いて新しくすること」を意味します。",
+    "etym_chain": [
+      { "node": "forbir", "sub": "磨く", "era": "古フランス語" },
+      { "node": "furbish", "sub": "磨く・新しくする", "era": "中英語" },
+      { "node": "refurbish", "sub": "改装する・再生する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "refurbish a building", "ja": "建物を改装する" },
+      { "en": "refurbish a hotel", "ja": "ホテルを改装する" },
+      { "en": "a refurbished phone", "ja": "整備済み再生スマホ" },
+      { "en": "a refurbished laptop", "ja": "再生ノートパソコン" },
+      { "en": "fully refurbished", "ja": "全面改装された" },
+      { "en": "a major refurbishment", "ja": "大規模な改装" }
+    ],
+    "related": [
+      { "en": "renovate", "ja": "（建物を）改装する" },
+      { "en": "restore", "ja": "修復する・元に戻す" },
+      { "en": "recondition", "ja": "整備し直す" },
+      { "en": "refurbishment", "ja": "改装" }
+    ],
+    "faq": [
+      { "q": "refurbish とはどんな意味？", "a": "古くなった建物を『改装する』、また中古品を『修復してきれいにする・再生する』という意味です。They refurbished the old theater.（古い劇場を改装した）、a refurbished laptop（再生ノートパソコン）のように使います。" },
+      { "q": "refurbished product とは？", "a": "『整備済み再生品（リファービッシュ品）』のことです。返品・中古などを点検・修理し、新品同様に整備して再販する商品で、スマホやパソコンでよく見られます。" }
+    ],
+    "quiz": [
+      { "q": "I bought a ___ laptop.（再生・整備済みの）", "A": "refurbished", "B": "rubbish のごみ", "C": "furnished の家具付きの", "D": "published の出版された", "correct": "A" },
+      { "q": "refurbish とほぼ同じ意味の語はどれ？", "A": "renovate（改装する）", "B": "demolish（取り壊す）", "C": "publish（出版する）", "D": "punish（罰する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reimburse",
+    "pron": "ˌriːɪmˈbɜːrs",
+    "kana": "リインバース",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（戻して）＋ imburse（財布に入れる）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "ビジネス・金銭"],
+    "meaning_main": "（立て替えた費用を）払い戻す・弁償する",
+    "description": "reimburse の意味・発音・例文・語源を解説。立て替えた経費などを「払い戻す・弁償する」という、ビジネスや金銭の場面で使う語を分かりやすく紹介します。",
+    "keywords": ["reimburse 意味", "reimburse 発音", "払い戻す", "経費精算"],
+    "meanings": [
+      { "hinshi": "【動詞】（立て替えた費用を）払い戻す・弁償する", "note": "誰かが先に払ったお金を返す。reimburse someone for ～（〜の費用を人に払い戻す）。名詞は reimbursement。" }
+    ],
+    "usages": [
+      { "title": "① 経費の「払い戻し」として", "desc": "立て替えた経費を返すことを表します。", "example_en": "The company will reimburse your travel expenses.", "example_ja": "会社が出張費を払い戻します。" },
+      { "title": "② 弁償として", "desc": "損害分のお金を返すことを表します。", "example_en": "They reimbursed her for the damaged goods.", "example_ja": "彼らは破損した商品の代金を彼女に弁償した。" }
+    ],
+    "warn": [
+      "reimburse は『（立て替えた費用を）払い戻す』。reimburse 人 for 費用 の形が多い。名詞は reimbursement。",
+      "refund（返金する）は店が客に返すイメージ、reimburse は立て替え分を後から精算するイメージ。"
+    ],
+    "etym_note": "re-（戻して）＋ imburse（『財布に入れる』、ラテン語 bursa「財布」より）から成り、「（出たお金を）財布に戻すこと」を意味します。purse（財布）, bursar（会計係）と同じ語根です。",
+    "etym_chain": [
+      { "node": "bursa", "sub": "財布", "era": "ラテン語" },
+      { "node": "imburse", "sub": "財布に入れる", "era": "近代英語" },
+      { "node": "reimburse", "sub": "払い戻す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reimburse expenses", "ja": "経費を払い戻す" },
+      { "en": "reimburse someone for", "ja": "〜の費用を人に払い戻す" },
+      { "en": "reimburse travel costs", "ja": "出張費を精算する" },
+      { "en": "fully reimburse", "ja": "全額払い戻す" },
+      { "en": "be reimbursed", "ja": "払い戻しを受ける" },
+      { "en": "claim reimbursement", "ja": "払い戻しを請求する" }
+    ],
+    "related": [
+      { "en": "refund", "ja": "返金する" },
+      { "en": "repay", "ja": "返済する" },
+      { "en": "compensate", "ja": "補償する" },
+      { "en": "reimbursement", "ja": "払い戻し" }
+    ],
+    "faq": [
+      { "q": "reimburse とはどんな意味？", "a": "誰かが立て替えた費用を『払い戻す・弁償する』という意味です。The company will reimburse your travel expenses.（会社が出張費を払い戻します）のように使います。名詞は reimbursement です。" },
+      { "q": "reimburse と refund の違いは？", "a": "refund は『（店などが代金を）返金する』、reimburse は『（誰かが立て替えた費用を）後から精算して払い戻す』点に重点があります。経費精算は reimburse を使います。" }
+    ],
+    "quiz": [
+      { "q": "The company will ___ your travel expenses.（払い戻す）", "A": "reimburse", "B": "refuse の拒む", "C": "rehearse の練習する", "D": "reverse の逆にする", "correct": "A" },
+      { "q": "reimburse の名詞形はどれ？", "A": "reimbursement（払い戻し）", "B": "refusal（拒否）", "C": "rehearsal（練習）", "D": "reversal（逆転）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rationalize",
+    "pron": "ˈræʃənəlaɪz",
+    "kana": "ラショナライズ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "rational（理性的な）＋ -ize（〜化する）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "心理・ビジネス"],
+    "meaning_main": "（自分の言動を）正当化する・もっともらしく理由づける／合理化する",
+    "description": "rationalize の意味・発音・例文・語源を解説。自分の行いを「正当化する・もっともらしく理由づける」、また業務を「合理化する」という使い方を分かりやすく紹介します。",
+    "keywords": ["rationalize 意味", "rationalize 発音", "正当化する", "合理化する"],
+    "meanings": [
+      { "hinshi": "【動詞】（自分の言動を）正当化する・もっともらしく理由づける", "note": "本当の理由を隠し、都合のよい理屈をつける（心理学の防衛機制）。rationalize one's behavior（自分の行動を正当化する）。" },
+      { "hinshi": "【動詞】合理化する・効率化する", "note": "むだを省いて効率よくする。rationalize the production process（生産工程を合理化する）。" }
+    ],
+    "usages": [
+      { "title": "① 「正当化する」として", "desc": "都合のよい理屈をつけることを表します。", "example_en": "He rationalized his mistake by blaming others.", "example_ja": "彼は他人のせいにして自分の誤りを正当化した。" },
+      { "title": "② 「合理化する」として", "desc": "効率よく整えることを表します。", "example_en": "The firm rationalized its operations to cut costs.", "example_ja": "その会社はコスト削減のため業務を合理化した。" }
+    ],
+    "warn": [
+      "rationalize は『（言動を）正当化する・もっともらしく理由づける』が会話で頻出（やや否定的）。",
+      "ビジネスでは『合理化する・効率化する』。イギリス綴りは rationalise。名詞は rationalization。"
+    ],
+    "etym_note": "rational（理性的な、ラテン語 ratio「理性・割合」より）＋ -ize から成り、「理屈をつける・理にかなうようにする」を意味します。reason, ratio と同じ語根です。",
+    "etym_chain": [
+      { "node": "ratio", "sub": "理性・割合", "era": "ラテン語" },
+      { "node": "rational", "sub": "理性的な", "era": "中英語" },
+      { "node": "rationalize", "sub": "正当化する・合理化する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rationalize one's behavior", "ja": "自分の行動を正当化する" },
+      { "en": "rationalize a decision", "ja": "決定を理由づける" },
+      { "en": "rationalize away", "ja": "理屈をつけてごまかす" },
+      { "en": "rationalize the process", "ja": "工程を合理化する" },
+      { "en": "rationalize operations", "ja": "業務を合理化する" },
+      { "en": "rationalize one's fears", "ja": "自分の不安を理屈づける" }
+    ],
+    "related": [
+      { "en": "rational", "ja": "理性的な・合理的な" },
+      { "en": "justify", "ja": "正当化する" },
+      { "en": "streamline", "ja": "合理化する・効率化する" },
+      { "en": "rationalization", "ja": "正当化・合理化" }
+    ],
+    "faq": [
+      { "q": "rationalize とはどんな意味？", "a": "自分の言動を『正当化する・もっともらしく理由づける』という意味（やや否定的）と、業務などを『合理化する・効率化する』という意味があります。He rationalized his mistake.（自分の誤りを正当化した）のように使います。" },
+      { "q": "rationalize と justify の違いは？", "a": "justify は『（正当だと）根拠を示して説明する』、rationalize は『（本当の理由を隠し）都合のよい理屈をつける』という、自己弁護的なニュアンスを含みます。" }
+    ],
+    "quiz": [
+      { "q": "He ___d his mistake by blaming others.（正当化した）", "A": "rationalize", "B": "realize の気づく", "C": "memorize の暗記する", "D": "organize の組織する", "correct": "A" },
+      { "q": "rationalize に含まれる語根 ratio の意味は？", "A": "理性・割合", "B": "記憶", "C": "組織", "D": "感情", "correct": "A" }
+    ]
+  },
+  {
+    "english": "radicalize",
+    "pron": "ˈrædɪkəlaɪz",
+    "kana": "ラディカライズ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "radical（過激な・根本的な）＋ -ize（〜化する）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "政治・社会"],
+    "meaning_main": "過激化させる・急進的にする／過激化する",
+    "description": "radicalize の意味・発音・例文・語源を解説。人や集団を「過激化させる・急進的にする」、また「過激化する」という、政治・社会の話題で使う語を分かりやすく紹介します。",
+    "keywords": ["radicalize 意味", "radicalize 発音", "過激化する", "radical 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】過激化させる・急進的にする／過激化する", "note": "考え・立場を過激にする、またはなる。be radicalized online（ネットで過激化する）。名詞は radicalization。イギリス綴りは radicalise。" }
+    ],
+    "usages": [
+      { "title": "① 「過激化させる」として", "desc": "考えを過激にすることを表します。", "example_en": "The propaganda radicalized many young people.", "example_ja": "そのプロパガンダは多くの若者を過激化させた。" },
+      { "title": "② 「過激化する」として", "desc": "自ら急進的になることを表します。", "example_en": "He was radicalized through online videos.", "example_ja": "彼はネットの動画を通じて過激化した。" }
+    ],
+    "warn": [
+      "radicalize は『過激化させる／過激化する』。be radicalized（過激化させられる）の受け身が頻出。名詞は radicalization。",
+      "radical は『過激な・急進的な』と『根本的な』の両義。radicalize は前者の意味。"
+    ],
+    "etym_note": "radical（『根本的な・過激な』、ラテン語 radix「根」より）＋ -ize から成り、「根本から変えて過激にすること」を意味します。radish（大根）, eradicate（根絶する）と同じ語根です。",
+    "etym_chain": [
+      { "node": "radix", "sub": "根", "era": "ラテン語" },
+      { "node": "radical", "sub": "根本的な・過激な", "era": "中英語" },
+      { "node": "radicalize", "sub": "過激化させる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be radicalized", "ja": "過激化させられる" },
+      { "en": "radicalize young people", "ja": "若者を過激化させる" },
+      { "en": "radicalize online", "ja": "ネットで過激化する" },
+      { "en": "become radicalized", "ja": "過激化する" },
+      { "en": "radicalize a movement", "ja": "運動を急進化させる" },
+      { "en": "prevent radicalization", "ja": "過激化を防ぐ" }
+    ],
+    "related": [
+      { "en": "radical", "ja": "過激な・根本的な" },
+      { "en": "radicalization", "ja": "過激化" },
+      { "en": "extremist", "ja": "過激派" },
+      { "en": "indoctrinate", "ja": "（思想を）吹き込む" }
+    ],
+    "faq": [
+      { "q": "radicalize とはどんな意味？", "a": "人や集団を『過激化させる・急進的にする』、また自ら『過激化する』という意味です。The propaganda radicalized many young people.（プロパガンダが多くの若者を過激化させた）のように使います。名詞は radicalization です。" },
+      { "q": "radical の二つの意味とは？", "a": "radical には『過激な・急進的な』と『根本的な・抜本的な』の二つの意味があります。radicalize は前者『過激な』の意味で、『過激化させる』を表します。" }
+    ],
+    "quiz": [
+      { "q": "The propaganda ___d many young people.（過激化させた）", "A": "radicalize", "B": "realize の気づく", "C": "rationalize の正当化する", "D": "regularize の正規化する", "correct": "A" },
+      { "q": "radicalize に含まれる語根 radix の意味は？", "A": "根", "B": "光", "C": "火", "D": "水", "correct": "A" }
+    ]
+  },
+  {
+    "english": "racketeer",
+    "pron": "ˌrækəˈtɪər",
+    "kana": "ラケティア",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "racket（不正商売）＋ -eer（〜する人）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "犯罪・社会"],
+    "meaning_main": "ゆすり・たかりなどの不正でもうける者・恐喝者",
+    "description": "racketeer の意味・発音・例文・語源を解説。ゆすり・みかじめ料など組織的な不正で金もうけをする「恐喝者・不正業者」を表す名詞の使い方を紹介します。",
+    "keywords": ["racketeer 意味", "racketeer 発音", "恐喝者", "racket 不正"],
+    "meanings": [
+      { "hinshi": "【名詞】不正業者・恐喝者", "note": "ゆすり・みかじめ料・密売など、組織的な不正（racket）で金もうけをする者。多くマフィア的犯罪に使う。" }
+    ],
+    "usages": [
+      { "title": "① 犯罪者としての「恐喝者」", "desc": "組織的な不正でもうける者を表します。", "example_en": "The police arrested a gang of racketeers.", "example_ja": "警察は恐喝者の一味を逮捕した。" },
+      { "title": "② みかじめ料の文脈で", "desc": "店から金をゆする者を表します。", "example_en": "Racketeers demanded money from local shops.", "example_ja": "恐喝者たちは地元の店から金を要求した。" }
+    ],
+    "warn": [
+      "racketeer は『（組織的な不正でもうける）恐喝者・不正業者』。racket（不正商売・ゆすり）＋ -eer。",
+      "racket の『ラケット』『騒音』とは別の意味。犯罪行為は racketeering（恐喝・不正取引）。"
+    ],
+    "etym_note": "racket（『不正商売・ゆすり』、もとは『騒ぎ』）＋ -eer（『〜する人』）から成り、20世紀アメリカで組織犯罪が広がる中で生まれた語です。",
+    "etym_chain": [
+      { "node": "racket", "sub": "不正商売・ゆすり", "era": "近代英語" },
+      { "node": "racketeer", "sub": "恐喝者", "era": "20世紀米語" },
+      { "node": "racketeer", "sub": "不正業者・恐喝者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a gang of racketeers", "ja": "恐喝者の一味" },
+      { "en": "arrest a racketeer", "ja": "恐喝者を逮捕する" },
+      { "en": "convicted racketeers", "ja": "有罪となった不正業者" },
+      { "en": "racketeering charges", "ja": "恐喝・不正取引の容疑" },
+      { "en": "a notorious racketeer", "ja": "悪名高い恐喝者" },
+      { "en": "protection racket", "ja": "みかじめ料の取り立て" }
+    ],
+    "related": [
+      { "en": "racket", "ja": "不正商売・ゆすり" },
+      { "en": "racketeering", "ja": "恐喝・不正取引（罪）" },
+      { "en": "extortion", "ja": "恐喝" },
+      { "en": "gangster", "ja": "ギャング" }
+    ],
+    "faq": [
+      { "q": "racketeer とはどんな意味？", "a": "ゆすり・みかじめ料・密売など、組織的な不正（racket）で金もうけをする『恐喝者・不正業者』のことです。The police arrested a gang of racketeers.（恐喝者の一味を逮捕した）のように使います。" },
+      { "q": "racketeer の racket は『ラケット』と同じ？", "a": "つづりは同じですが意味が違います。ここでの racket は『不正商売・ゆすり』の意味で、テニスの racket（ラケット）や『騒音』の racket とは別の用法です。" }
+    ],
+    "quiz": [
+      { "q": "The police arrested a gang of ___.（恐喝者）", "A": "racketeers", "B": "volunteers のボランティア", "C": "engineers の技師", "D": "pioneers の先駆者", "correct": "A" },
+      { "q": "racketeer の racket の意味はどれ？", "A": "不正商売・ゆすり", "B": "テニスのラケット", "C": "ロケット", "D": "切符", "correct": "A" }
+    ]
+  },
+  {
+    "english": "refrigerant",
+    "pron": "rɪˈfrɪdʒərənt",
+    "kana": "リフリジェラント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 refrigerare（冷やす）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "理科・機械"],
+    "meaning_main": "冷媒（冷蔵庫・エアコンで熱を運ぶ物質）",
+    "description": "refrigerant の意味・発音・例文・語源を解説。冷蔵庫やエアコンの中で熱を運んで冷やす物質「冷媒」を表す、理科・機械で使う名詞を分かりやすく紹介します。",
+    "keywords": ["refrigerant 意味", "refrigerant 発音", "冷媒", "エアコン"],
+    "meanings": [
+      { "hinshi": "【名詞】冷媒", "note": "冷蔵庫・エアコンの中を循環し、蒸発・凝縮しながら熱を運んで冷やす物質。The air conditioner was low on refrigerant.（エアコンの冷媒が不足していた）。" }
+    ],
+    "usages": [
+      { "title": "① 「冷媒」として", "desc": "熱を運んで冷やす物質を表します。", "example_en": "The air conditioner needs more refrigerant.", "example_ja": "そのエアコンは冷媒を補充する必要がある。" },
+      { "title": "② 環境の文脈で", "desc": "冷媒の漏れや種類を表します。", "example_en": "Some refrigerants harm the ozone layer.", "example_ja": "一部の冷媒はオゾン層を破壊する。" }
+    ],
+    "warn": [
+      "refrigerant は『冷媒』（冷蔵庫・エアコンで熱を運ぶ物質）。形容詞で『冷却用の』の意味もある。",
+      "refrigerator（冷蔵庫）, refrigerate（冷蔵する）と同じ語根。"
+    ],
+    "etym_note": "ラテン語 refrigerare（re-「再び」＋ frigerare「冷やす」、frigus「寒さ」より）に由来し、「冷やすもの」を意味します。frigid（極寒の）, refrigerator（冷蔵庫）と同じ語根です。",
+    "etym_chain": [
+      { "node": "frigus", "sub": "寒さ", "era": "ラテン語" },
+      { "node": "refrigerare", "sub": "冷やす", "era": "ラテン語" },
+      { "node": "refrigerant", "sub": "冷媒", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "add refrigerant", "ja": "冷媒を補充する" },
+      { "en": "low on refrigerant", "ja": "冷媒が不足して" },
+      { "en": "a refrigerant leak", "ja": "冷媒漏れ" },
+      { "en": "an eco-friendly refrigerant", "ja": "環境にやさしい冷媒" },
+      { "en": "recharge the refrigerant", "ja": "冷媒を再充填する" },
+      { "en": "refrigerant gas", "ja": "冷媒ガス" }
+    ],
+    "related": [
+      { "en": "refrigerator", "ja": "冷蔵庫" },
+      { "en": "refrigerate", "ja": "冷蔵する" },
+      { "en": "coolant", "ja": "冷却液" },
+      { "en": "freon", "ja": "フロン（冷媒の一種）" }
+    ],
+    "faq": [
+      { "q": "refrigerant とはどんな意味？", "a": "冷蔵庫やエアコンの中を循環し、熱を運んで冷やす物質『冷媒』のことです。The air conditioner needs more refrigerant.（エアコンは冷媒を補充する必要がある）のように使います。" },
+      { "q": "refrigerant と coolant の違いは？", "a": "refrigerant は『（蒸発・凝縮して熱を運ぶ）冷媒』で冷凍機・エアコン用、coolant は『（流れて熱を奪う）冷却液』で車のエンジンなど用、という違いがあります。" }
+    ],
+    "quiz": [
+      { "q": "The air conditioner needs more ___.（冷媒）", "A": "refrigerant", "B": "ingredient の材料", "C": "detergent の洗剤", "D": "fragrant の香りのよい", "correct": "A" },
+      { "q": "refrigerant と同じ語根を持つ語はどれ？", "A": "refrigerator（冷蔵庫）", "B": "regulator（調整器）", "C": "generator（発電機）", "D": "decorator（装飾家）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "redshift",
+    "pron": "ˈredʃɪft",
+    "kana": "レッドシフト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "red（赤）＋ shift（ずれ）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "理科・天文"],
+    "meaning_main": "赤方偏移（遠ざかる天体の光が赤い側へずれる現象）",
+    "description": "redshift の意味・発音・例文・語源を解説。遠ざかる天体の光の波長が赤い側へずれる現象「赤方偏移」を表す、天文学で使う名詞を分かりやすく紹介します。",
+    "keywords": ["redshift 意味", "redshift 発音", "赤方偏移", "天文学"],
+    "meanings": [
+      { "hinshi": "【名詞】赤方偏移", "note": "遠ざかる天体から届く光の波長が、より長い（赤い）側へずれる現象。宇宙の膨張の証拠とされる。" }
+    ],
+    "usages": [
+      { "title": "① 天文現象としての「赤方偏移」", "desc": "光が赤い側へずれる現象を表します。", "example_en": "The galaxy's redshift shows it is moving away from us.", "example_ja": "その銀河の赤方偏移は、それが遠ざかっていることを示す。" },
+      { "title": "② 宇宙論の文脈で", "desc": "宇宙の膨張の証拠を表します。", "example_en": "Redshift is evidence that the universe is expanding.", "example_ja": "赤方偏移は宇宙が膨張している証拠だ。" }
+    ],
+    "warn": [
+      "redshift は『赤方偏移』（遠ざかる天体の光が赤い側へずれる）。red（赤）＋ shift（ずれ）。",
+      "反対は blueshift（青方偏移、近づく天体で青い側へずれる）。ドップラー効果の光版。"
+    ],
+    "etym_note": "red（赤い、古英語 rēad より）＋ shift（ずらす・ずれ、古英語 sciftan より）から成る複合語で、「（光が）赤い側へずれること」を意味します。20世紀の天文学で生まれた語です。",
+    "etym_chain": [
+      { "node": "rēad + sciftan", "sub": "赤い＋ずらす", "era": "古英語" },
+      { "node": "red shift", "sub": "赤へのずれ", "era": "20世紀英語" },
+      { "node": "redshift", "sub": "赤方偏移", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "measure the redshift", "ja": "赤方偏移を測る" },
+      { "en": "a high redshift", "ja": "大きな赤方偏移" },
+      { "en": "cosmological redshift", "ja": "宇宙論的赤方偏移" },
+      { "en": "the redshift of a galaxy", "ja": "銀河の赤方偏移" },
+      { "en": "show a redshift", "ja": "赤方偏移を示す" },
+      { "en": "redshift and blueshift", "ja": "赤方偏移と青方偏移" }
+    ],
+    "related": [
+      { "en": "blueshift", "ja": "青方偏移" },
+      { "en": "Doppler effect", "ja": "ドップラー効果" },
+      { "en": "spectrum", "ja": "スペクトル" },
+      { "en": "galaxy", "ja": "銀河" }
+    ],
+    "faq": [
+      { "q": "redshift とはどんな意味？", "a": "遠ざかる天体から届く光の波長が、より長い（赤い）側へずれる現象『赤方偏移』のことです。The galaxy's redshift shows it is moving away.（赤方偏移はその銀河が遠ざかっていることを示す）のように使います。" },
+      { "q": "redshift の反対は？", "a": "blueshift（青方偏移）です。近づく天体の光は波長が短い（青い）側へずれます。これらは光のドップラー効果によって起こります。" }
+    ],
+    "quiz": [
+      { "q": "The galaxy's ___ shows it is moving away from us.（赤方偏移）", "A": "redshift", "B": "nightshift の夜勤", "C": "makeshift の間に合わせ", "D": "redhead の赤毛", "correct": "A" },
+      { "q": "redshift の反対の現象はどれ？", "A": "blueshift（青方偏移）", "B": "sunshift という語はない", "C": "downshift（ギアを下げる）", "D": "gearshift（ギアチェンジ）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reattach",
+    "pron": "ˌriːəˈtætʃ",
+    "kana": "リアタッチ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ attach（取り付ける・添付する）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "日常・IT"],
+    "meaning_main": "再び取り付ける・付け直す／（メールに）再添付する",
+    "description": "reattach の意味・発音・例文・語源を解説。外れた物を「再び取り付ける・付け直す」、またメールにファイルを「再添付する」という使い方を分かりやすく紹介します。",
+    "keywords": ["reattach 意味", "reattach 発音", "付け直す", "再添付"],
+    "meanings": [
+      { "hinshi": "【動詞】再び取り付ける・付け直す", "note": "外れたものをもう一度つける。reattach the handle（取っ手を付け直す）。" },
+      { "hinshi": "【動詞】（ファイルを）再添付する", "note": "メールにもう一度ファイルをつける。reattach the file（ファイルを再添付する）。" }
+    ],
+    "usages": [
+      { "title": "① 「付け直す」として", "desc": "外れた物を再び取り付けることを表します。", "example_en": "The surgeon reattached the severed finger.", "example_ja": "外科医は切れた指を再接合した。" },
+      { "title": "② 「再添付する」として", "desc": "ファイルをもう一度つけることを表します。", "example_en": "Could you reattach the document? It didn't come through.", "example_ja": "書類を再添付してもらえますか。届きませんでした。" }
+    ],
+    "warn": [
+      "reattach は『再び取り付ける・付け直す』『再添付する』。re-（再び）＋ attach。名詞は reattachment。",
+      "医療では『（切れた部分を）再接合する』の意味でも使う。"
+    ],
+    "etym_note": "re-（再び）＋ attach（取り付ける、古フランス語 atachier「結びつける」より）から成り、「再び結びつけること」を意味します。attachment（付属物・愛着）と同じ語根です。",
+    "etym_chain": [
+      { "node": "atachier", "sub": "結びつける", "era": "古フランス語" },
+      { "node": "attach", "sub": "取り付ける・添付する", "era": "中英語" },
+      { "node": "reattach", "sub": "再び取り付ける", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reattach the handle", "ja": "取っ手を付け直す" },
+      { "en": "reattach the file", "ja": "ファイルを再添付する" },
+      { "en": "reattach the cable", "ja": "ケーブルをつなぎ直す" },
+      { "en": "reattach a button", "ja": "ボタンを付け直す" },
+      { "en": "surgically reattach", "ja": "手術で再接合する" },
+      { "en": "reattach securely", "ja": "しっかり取り付け直す" }
+    ],
+    "related": [
+      { "en": "attach", "ja": "取り付ける・添付する" },
+      { "en": "detach", "ja": "取り外す（反対）" },
+      { "en": "reconnect", "ja": "再びつなぐ" },
+      { "en": "reattachment", "ja": "再接合・再添付" }
+    ],
+    "faq": [
+      { "q": "reattach とはどんな意味？", "a": "外れた物を『再び取り付ける・付け直す』、またメールにファイルを『再添付する』という意味です。reattach the handle（取っ手を付け直す）、reattach the file（ファイルを再添付する）のように使います。" },
+      { "q": "reattach の反対語は？", "a": "detach（取り外す・切り離す）です。attach（取り付ける）⇔ detach（取り外す）、reattach（再び取り付ける）の関係です。" }
+    ],
+    "quiz": [
+      { "q": "Could you ___ the document? It didn't come through.（再添付する）", "A": "reattach", "B": "attach の最初に添付する", "C": "detach の取り外す", "D": "approach の近づく", "correct": "A" },
+      { "q": "reattach の反対語はどれ？", "A": "detach（取り外す）", "B": "attach（取り付ける）", "C": "approach（近づく）", "D": "attack（攻撃する）", "correct": "A" }
+    ]
+  }
+]
