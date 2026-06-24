@@ -1,0 +1,527 @@
+[
+  {
+    "english": "romanticize",
+    "pron": "roʊˈmæntɪsaɪz",
+    "kana": "ロマンティサイズ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "romantic（ロマンチックな）＋ -ize（〜化する）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "感情・批評"],
+    "meaning_main": "美化する・実際よりロマンチックに（理想化して）とらえる",
+    "description": "romanticize の意味・発音・例文・語源を解説。物事を実際より美しく・ロマンチックに「美化する・理想化してとらえる」という、しばしば否定的な含みのある語の使い方を紹介します。",
+    "keywords": ["romanticize 意味", "romanticize 発音", "美化する", "理想化する"],
+    "meanings": [
+      { "hinshi": "【動詞】美化する・理想化する・ロマンチックにとらえる", "note": "現実を実際より美しく・理想的に描く（しばしば否定的）。romanticize the past（過去を美化する）。イギリス綴りは romanticise。" }
+    ],
+    "usages": [
+      { "title": "① 「過去を美化する」として", "desc": "実際より良く描くことを表します。", "example_en": "People tend to romanticize the past.", "example_ja": "人は過去を美化しがちだ。" },
+      { "title": "② 「理想化してとらえる」として", "desc": "現実を美しく見すぎることを表します。", "example_en": "The movie romanticizes war.", "example_ja": "その映画は戦争を美化している。" }
+    ],
+    "warn": [
+      "romanticize は『美化する・理想化する』。romantic（ロマンチックな）＋ -ize。しばしば否定的（現実を見ていない）。",
+      "romanticize the past / war / poverty（過去・戦争・貧困を美化する）が頻出。"
+    ],
+    "etym_note": "romantic（『ロマンチックな・空想的な』、romance「物語・恋愛物語」より）＋ -ize から成り、「（物語のように）美化してとらえる」を意味します。romance, Roman と関連します。",
+    "etym_chain": [
+      { "node": "romance", "sub": "物語・恋愛物語", "era": "中英語" },
+      { "node": "romantic", "sub": "ロマンチックな", "era": "近代英語" },
+      { "node": "romanticize", "sub": "美化する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "romanticize the past", "ja": "過去を美化する" },
+      { "en": "romanticize war", "ja": "戦争を美化する" },
+      { "en": "romanticize poverty", "ja": "貧困を美化する" },
+      { "en": "romanticize the idea of", "ja": "〜という考えを美化する" },
+      { "en": "tend to romanticize", "ja": "美化しがちだ" },
+      { "en": "overly romanticize", "ja": "過度に理想化する" }
+    ],
+    "related": [
+      { "en": "romantic", "ja": "ロマンチックな" },
+      { "en": "idealize", "ja": "理想化する" },
+      { "en": "glorify", "ja": "美化する・たたえる" },
+      { "en": "sentimentalize", "ja": "感傷的に描く" }
+    ],
+    "faq": [
+      { "q": "romanticize とはどんな意味？", "a": "物事を実際より美しく・ロマンチックに『美化する・理想化してとらえる』という意味です（しばしば否定的）。People tend to romanticize the past.（人は過去を美化しがち）のように使います。" },
+      { "q": "romanticize と idealize の違いは？", "a": "どちらも『理想化する』ですが、romanticize は『（物語のように）情緒的・ロマンチックに美化する』、idealize は『（欠点を見ず）完璧なものとして理想化する』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "People tend to ___ the past.（美化する）", "A": "romanticize", "B": "memorize の暗記する", "C": "organize の組織する", "D": "realize の気づく", "correct": "A" },
+      { "q": "romanticize のもとになった形容詞はどれ？", "A": "romantic（ロマンチックな）", "B": "dramatic（劇的な）", "C": "automatic（自動の）", "D": "systematic（体系的な）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "romanticism",
+    "pron": "roʊˈmæntɪsɪzəm",
+    "kana": "ロマンティシズム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "romantic（ロマン主義の）＋ -ism（主義）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "芸術・文学"],
+    "meaning_main": "ロマン主義（感情・想像力・自然を重んじた芸術運動）／ロマンチックな気質",
+    "description": "romanticism の意味・発音・例文・語源を解説。18〜19世紀に感情・想像力・自然を重んじた芸術運動「ロマン主義」と、ロマンチックな気質という意味を紹介します。",
+    "keywords": ["romanticism 意味", "romanticism 発音", "ロマン主義", "ロマンチシズム"],
+    "meanings": [
+      { "hinshi": "【名詞】ロマン主義", "note": "(大文字 Romanticism)18〜19世紀に理性より感情・想像力・自然・個人を重んじた芸術・文学・思想の運動。" },
+      { "hinshi": "【名詞】ロマンチックな気質・空想的傾向", "note": "情緒や理想を重んじる態度。" }
+    ],
+    "usages": [
+      { "title": "① 芸術運動「ロマン主義」として", "desc": "感情を重んじた潮流を表します。", "example_en": "Romanticism celebrated emotion and nature.", "example_ja": "ロマン主義は感情と自然をたたえた。" },
+      { "title": "② 気質「ロマンチシズム」として", "desc": "情緒的な傾向を表します。", "example_en": "There is a streak of romanticism in his writing.", "example_ja": "彼の文章にはロマンチックな傾向がある。" }
+    ],
+    "warn": [
+      "romanticism は芸術運動の『ロマン主義』（大文字 Romanticism）と、『ロマンチックな気質』。romantic＋-ism。",
+      "理性を重んじる Classicism（古典主義）/ Realism（写実主義）と対比される。"
+    ],
+    "etym_note": "romantic（『ロマンチックな・空想的な』）＋ -ism（『主義・運動』）から成り、「感情・想像力を重んじる芸術運動」を意味します。18世紀末から19世紀にヨーロッパで広まりました。",
+    "etym_chain": [
+      { "node": "romance", "sub": "物語・恋愛物語", "era": "中英語" },
+      { "node": "romantic", "sub": "ロマンチックな", "era": "近代英語" },
+      { "node": "romanticism", "sub": "ロマン主義", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the Romantic movement", "ja": "ロマン主義運動" },
+      { "en": "German Romanticism", "ja": "ドイツ・ロマン主義" },
+      { "en": "the spirit of Romanticism", "ja": "ロマン主義の精神" },
+      { "en": "a streak of romanticism", "ja": "ロマンチックな傾向" },
+      { "en": "Romanticism in poetry", "ja": "詩におけるロマン主義" },
+      { "en": "Romanticism and Realism", "ja": "ロマン主義と写実主義" }
+    ],
+    "related": [
+      { "en": "romantic", "ja": "ロマンチックな・ロマン主義の" },
+      { "en": "classicism", "ja": "古典主義（対比）" },
+      { "en": "realism", "ja": "写実主義" },
+      { "en": "idealism", "ja": "理想主義" }
+    ],
+    "faq": [
+      { "q": "romanticism とはどんな意味？", "a": "18〜19世紀に理性より感情・想像力・自然・個人を重んじた芸術・文学・思想の運動『ロマン主義』のことです。また『ロマンチックな気質』も表します。Romanticism celebrated emotion and nature.（感情と自然をたたえた）のように使います。" },
+      { "q": "Romanticism と Realism の違いは？", "a": "Romanticism（ロマン主義）は『感情・想像力・理想』を重んじ、Realism（写実主義）は『現実をありのまま描くこと』を重んじます。19世紀に前者への反動として後者が広まりました。" }
+    ],
+    "quiz": [
+      { "q": "___ celebrated emotion and nature.（ロマン主義）", "A": "Romanticism", "B": "Realism の写実主義", "C": "Tourism の観光", "D": "Racism の人種差別", "correct": "A" },
+      { "q": "romanticism と対比される芸術の立場はどれ？", "A": "realism（写実主義）", "B": "tourism（観光）", "C": "racism（人種差別）", "D": "organism（生物）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ruinous",
+    "pron": "ˈruːɪnəs",
+    "kana": "ルイナス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ruin（破滅・荒廃）＋ -ous",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "やや硬い語"],
+    "meaning_main": "破滅的な・破滅を招く・（費用が）法外な",
+    "description": "ruinous の意味・発音・例文・語源を解説。経済や人を「破滅させる・破滅的な」、また費用が「法外な」という様子を表す、やや硬い形容詞の使い方を紹介します。",
+    "keywords": ["ruinous 意味", "ruinous 発音", "破滅的な", "ruin 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】破滅的な・破滅を招く", "note": "重大な損害・破滅をもたらす。ruinous consequences（破滅的な結果）。" },
+      { "hinshi": "【形容詞】（費用などが）法外な・破産しそうな", "note": "支払えないほど高額の。ruinous costs（法外な費用）。" }
+    ],
+    "usages": [
+      { "title": "① 「破滅的な」として", "desc": "重大な損害を招く様子を表します。", "example_en": "The war had ruinous effects on the economy.", "example_ja": "その戦争は経済に破滅的な影響を与えた。" },
+      { "title": "② 「法外な費用」として", "desc": "破産しそうなほどの出費を表します。", "example_en": "The legal fees were ruinous.", "example_ja": "訴訟費用は法外だった。" }
+    ],
+    "warn": [
+      "ruinous は『破滅的な・破滅を招く』『（費用が）法外な』。ruin（破滅・荒廃）＋ -ous。",
+      "ruinous expense / cost（破産しそうな費用）, ruinous consequences（破滅的な結果）が頻出。"
+    ],
+    "etym_note": "ruin（『破滅・荒廃』、ラテン語 ruina「崩壊」、ruere「崩れ落ちる」より）＋ -ous から成り、「破滅をもたらす」を意味します。",
+    "etym_chain": [
+      { "node": "ruina", "sub": "崩壊", "era": "ラテン語" },
+      { "node": "ruin", "sub": "破滅・荒廃", "era": "中英語" },
+      { "node": "ruinous", "sub": "破滅的な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "ruinous consequences", "ja": "破滅的な結果" },
+      { "en": "ruinous effects", "ja": "破滅的な影響" },
+      { "en": "ruinous costs", "ja": "法外な費用" },
+      { "en": "financially ruinous", "ja": "経済的に破滅的な" },
+      { "en": "a ruinous war", "ja": "破滅をもたらす戦争" },
+      { "en": "ruinous to the economy", "ja": "経済にとって破滅的な" }
+    ],
+    "related": [
+      { "en": "ruin", "ja": "破滅させる・荒廃" },
+      { "en": "disastrous", "ja": "破滅的な・悲惨な" },
+      { "en": "catastrophic", "ja": "壊滅的な" },
+      { "en": "devastating", "ja": "壊滅的な" }
+    ],
+    "faq": [
+      { "q": "ruinous とはどんな意味？", "a": "重大な損害や破滅をもたらす『破滅的な・破滅を招く』、また費用が『法外な・破産しそうな』という意味です。The war had ruinous effects on the economy.（経済に破滅的な影響を与えた）のように使います。" },
+      { "q": "ruinous と disastrous の違いは？", "a": "どちらも『破滅的な』ですが、ruinous は『（経済的に）破滅・破産をもたらす』ニュアンスが強く、disastrous は『（広く）悲惨な結果を招く』を表します。" }
+    ],
+    "quiz": [
+      { "q": "The war had ___ effects on the economy.（破滅的な）", "A": "ruinous", "B": "various のさまざまな", "C": "famous の有名な", "D": "curious の好奇心の強い", "correct": "A" },
+      { "q": "ruinous のもとになった名詞はどれ？", "A": "ruin（破滅・荒廃）", "B": "rain（雨）", "C": "ruler（定規・支配者）", "D": "rumor（うわさ）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rifleman",
+    "pron": "ˈraɪflmən",
+    "kana": "ライフルマン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rifle（ライフル銃）＋ man（人）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "軍事"],
+    "meaning_main": "ライフル銃兵・小銃兵（ライフルで武装した兵士）",
+    "description": "rifleman の意味・発音・例文・語源を解説。ライフル銃で武装した歩兵「ライフル銃兵・小銃兵」を表す、軍事で使う名詞の使い方を分かりやすく紹介します。",
+    "keywords": ["rifleman 意味", "rifleman 発音", "小銃兵", "rifle 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】ライフル銃兵・小銃兵", "note": "ライフル（小銃）で武装した兵士。複数形は riflemen。" }
+    ],
+    "usages": [
+      { "title": "① 兵士としての「小銃兵」", "desc": "ライフルで武装した兵を表します。", "example_en": "The riflemen took up positions on the ridge.", "example_ja": "小銃兵たちは尾根に陣取った。" },
+      { "title": "② 部隊の文脈で", "desc": "歩兵の役割を表します。", "example_en": "He served as a rifleman in the infantry.", "example_ja": "彼は歩兵部隊で小銃兵として従軍した。" }
+    ],
+    "warn": [
+      "rifleman は『ライフル銃兵・小銃兵』。rifle（ライフル銃）＋ man。複数形は riflemen（発音は同じく『リフルメン』）。",
+      "infantry（歩兵）の基本兵種。-man の複合語（fireman, policeman など）の一つ。"
+    ],
+    "etym_note": "rifle（『ライフル銃』、銃身内のらせんの溝に由来）＋ man（『人・男』、古英語 mann より）から成る複合語で、「ライフルで武装した兵士」を意味します。",
+    "etym_chain": [
+      { "node": "rifle + mann", "sub": "ライフル＋人", "era": "近代英語・古英語" },
+      { "node": "rifleman", "sub": "小銃兵", "era": "18世紀英語" },
+      { "node": "rifleman", "sub": "ライフル銃兵", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a skilled rifleman", "ja": "腕のよい小銃兵" },
+      { "en": "a company of riflemen", "ja": "小銃兵の中隊" },
+      { "en": "serve as a rifleman", "ja": "小銃兵として従軍する" },
+      { "en": "an expert rifleman", "ja": "射撃の名手" },
+      { "en": "the riflemen advanced", "ja": "小銃兵たちが前進した" },
+      { "en": "a mounted rifleman", "ja": "騎乗の小銃兵" }
+    ],
+    "related": [
+      { "en": "rifle", "ja": "ライフル銃" },
+      { "en": "infantry", "ja": "歩兵" },
+      { "en": "soldier", "ja": "兵士" },
+      { "en": "marksman", "ja": "射撃の名手" }
+    ],
+    "faq": [
+      { "q": "rifleman とはどんな意味？", "a": "ライフル（小銃）で武装した兵士『ライフル銃兵・小銃兵』のことです。The riflemen took up positions on the ridge.（小銃兵たちは尾根に陣取った）のように使います。複数形は riflemen です。" },
+      { "q": "rifleman の複数形は？", "a": "riflemen です。man → men の変化をする -man 系の複合語（fireman → firemen、policeman → policemen）と同じです。" }
+    ],
+    "quiz": [
+      { "q": "The ___ took up positions on the ridge.（小銃兵・複数）", "A": "riflemen", "B": "firemen の消防士", "C": "salesmen の販売員", "D": "freshmen の新入生", "correct": "A" },
+      { "q": "rifleman を構成する2語はどれ？", "A": "rifle（ライフル銃）＋ man（人）", "B": "rifle ＋ men（男たち）", "C": "ripple（さざ波）＋ man", "D": "rival（競争相手）＋ man", "correct": "A" }
+    ]
+  },
+  {
+    "english": "restructuring",
+    "pron": "ˌriːˈstrʌktʃərɪŋ",
+    "kana": "リストラクチャリング",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "restructure（再編する）＋ -ing",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "ビジネス・経済"],
+    "meaning_main": "（組織・債務などの）再編・再構築・リストラ",
+    "description": "restructuring の意味・発音・例文・語源を解説。企業の組織や債務を作り直す「再編・再構築・リストラ」を表す、ビジネス・経済で使う名詞の使い方を紹介します。",
+    "keywords": ["restructuring 意味", "restructuring 発音", "再編", "リストラ"],
+    "meanings": [
+      { "hinshi": "【名詞】（組織・債務などの）再編・再構築", "note": "会社の組織・事業・借金などを根本的に組み立て直すこと。corporate restructuring（企業再編）。debt restructuring（債務再編）。" }
+    ],
+    "usages": [
+      { "title": "① 「組織の再編」として", "desc": "会社を作り直すことを表します。", "example_en": "The company announced a major restructuring.", "example_ja": "その会社は大規模な再編を発表した。" },
+      { "title": "② 「債務の再編」として", "desc": "借金の組み直しを表します。", "example_en": "The country sought debt restructuring.", "example_ja": "その国は債務再編を求めた。" }
+    ],
+    "warn": [
+      "restructuring は『（組織・債務の）再編・再構築』。動詞 restructure（再編する）＋ -ing。",
+      "日本語の『リストラ（人員削減）』は restructuring の一部の意味。英語では人員削減は layoffs / downsizing。"
+    ],
+    "etym_note": "re-（再び）＋ structure（構造・組み立てる、ラテン語 struere「積み上げる」より）＋ -ing から成り、「再び組み立て直すこと」を意味します。construct（建設する）と同じ語根です。",
+    "etym_chain": [
+      { "node": "struere", "sub": "積み上げる", "era": "ラテン語" },
+      { "node": "structure", "sub": "構造・組み立てる", "era": "近代英語" },
+      { "node": "restructuring", "sub": "再編", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "corporate restructuring", "ja": "企業再編" },
+      { "en": "debt restructuring", "ja": "債務再編" },
+      { "en": "a major restructuring", "ja": "大規模な再編" },
+      { "en": "undergo restructuring", "ja": "再編を経る" },
+      { "en": "organizational restructuring", "ja": "組織再編" },
+      { "en": "financial restructuring", "ja": "財務再構築" }
+    ],
+    "related": [
+      { "en": "restructure", "ja": "再編する" },
+      { "en": "reorganization", "ja": "再編成" },
+      { "en": "downsizing", "ja": "（規模・人員の）縮小" },
+      { "en": "overhaul", "ja": "抜本的見直し" }
+    ],
+    "faq": [
+      { "q": "restructuring とはどんな意味？", "a": "企業の組織・事業・借金などを根本的に組み立て直す『再編・再構築』のことです。The company announced a major restructuring.（大規模な再編を発表した）のように使います。動詞は restructure です。" },
+      { "q": "英語の restructuring と日本語の『リストラ』は同じ？", "a": "日本語の『リストラ』は主に『人員削減』を指しますが、英語の restructuring は『組織・事業・債務の再編』全般を意味します。人員削減そのものは layoffs / downsizing と言います。" }
+    ],
+    "quiz": [
+      { "q": "The company announced a major ___.（再編）", "A": "restructuring", "B": "manufacturing の製造", "C": "lecturing の講義", "D": "capturing の捕獲", "correct": "A" },
+      { "q": "restructuring の動詞形はどれ？", "A": "restructure（再編する）", "B": "manufacture（製造する）", "C": "lecture（講義する）", "D": "capture（捕らえる）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retiring",
+    "pron": "rɪˈtaɪərɪŋ",
+    "kana": "リタイアリング",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "retire（引退する・引っ込む）＋ -ing",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "性格"],
+    "meaning_main": "内気な・控えめな・人前に出たがらない",
+    "description": "retiring の意味・発音・例文・語源を解説。性格が「内気な・控えめな・人前に出たがらない」という意味を中心に、retire（引っ込む）との関係を分かりやすく紹介します。",
+    "keywords": ["retiring 意味", "retiring 発音", "内気な", "控えめな"],
+    "meanings": [
+      { "hinshi": "【形容詞】内気な・控えめな・人前に出たがらない", "note": "目立つのを好まず引っ込みがちな。a shy and retiring person（内気で控えめな人）。" },
+      { "hinshi": "【形容詞】引退する・退任する（の）", "note": "the retiring chairman（退任する会長）。" }
+    ],
+    "usages": [
+      { "title": "① 「内気な」として", "desc": "控えめな性格を表します。", "example_en": "He was a quiet, retiring man.", "example_ja": "彼は物静かで控えめな人だった。" },
+      { "title": "② 「退任する」として", "desc": "引退する人を表します。", "example_en": "The retiring president gave a farewell speech.", "example_ja": "退任する社長は別れのあいさつをした。" }
+    ],
+    "warn": [
+      "retiring は性格で『内気な・控えめな』が中心。retire（引退する・引っ込む）＋ -ing。",
+      "『退任する（の）』の意味もある。shy and retiring（内気で控えめな）が定番表現。"
+    ],
+    "etym_note": "retire（『引退する・引っ込む・退く』、フランス語 retirer「引き戻す」より）＋ -ing から成り、「（人前から）引っ込みがちな」を意味します。",
+    "etym_chain": [
+      { "node": "retirer", "sub": "引き戻す・退く", "era": "フランス語" },
+      { "node": "retire", "sub": "引退する・引っ込む", "era": "近代英語" },
+      { "node": "retiring", "sub": "内気な・控えめな", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "shy and retiring", "ja": "内気で控えめな" },
+      { "en": "a retiring nature", "ja": "控えめな性格" },
+      { "en": "a quiet, retiring man", "ja": "物静かで控えめな人" },
+      { "en": "the retiring chairman", "ja": "退任する会長" },
+      { "en": "of a retiring disposition", "ja": "引っ込み思案な気質の" },
+      { "en": "modest and retiring", "ja": "謙虚で控えめな" }
+    ],
+    "related": [
+      { "en": "retire", "ja": "引退する・引っ込む" },
+      { "en": "shy", "ja": "内気な" },
+      { "en": "reserved", "ja": "控えめな" },
+      { "en": "outgoing", "ja": "社交的な（反対）" }
+    ],
+    "faq": [
+      { "q": "retiring とはどんな意味？", "a": "性格が『内気な・控えめな・人前に出たがらない』という意味が中心です。He was a quiet, retiring man.（物静かで控えめな人だった）のように使います。『退任する（の）』という意味もあります。" },
+      { "q": "retiring と retired の違いは？", "a": "retiring は『内気な・控えめな』性格、または『退任しようとしている』、retired は『（すでに）引退した』状態です。a retiring person（控えめな人）／a retired teacher（退職した教師）のように使い分けます。" }
+    ],
+    "quiz": [
+      { "q": "He was a quiet, ___ man.（控えめな）", "A": "retiring", "B": "retired のすでに引退した", "C": "tiring の疲れさせる", "D": "inquiring の詮索好きの", "correct": "A" },
+      { "q": "retiring（性格）の反対に近い語はどれ？", "A": "outgoing（社交的な）", "B": "shy（内気な）", "C": "reserved（控えめな）", "D": "modest（謙虚な）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rubbery",
+    "pron": "ˈrʌbəri",
+    "kana": "ラバリー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "rubber（ゴム）＋ -y（〜のような）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "日常・食感"],
+    "meaning_main": "ゴムのような・（食感が）弾力のある・ぐにゃぐにゃした",
+    "description": "rubbery の意味・発音・例文・語源を解説。ゴムのように「弾力のある・ぐにゃぐにゃした」食感や感触、また足が「ふらつく」様子を表す形容詞を紹介します。",
+    "keywords": ["rubbery 意味", "rubbery 発音", "ゴムのような", "rubber 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】ゴムのような・弾力のある・ぐにゃぐにゃした", "note": "ゴムに似た感触・食感。rubbery meat（ゴムのように固い肉）。しばしば否定的（おいしくない食感）。" },
+      { "hinshi": "【形容詞】（足などが）ふらつく・力が入らない", "note": "rubbery legs（がくがくする足）。" }
+    ],
+    "usages": [
+      { "title": "① 食感「ゴムのような」として", "desc": "弾力がありすぎる食感を表します。", "example_en": "The overcooked squid was rubbery.", "example_ja": "火を通しすぎたイカはゴムのようだった。" },
+      { "title": "② 「足がふらつく」として", "desc": "力の入らない様子を表します。", "example_en": "My legs felt rubbery after the run.", "example_ja": "走ったあと、足ががくがくした。" }
+    ],
+    "warn": [
+      "rubbery は『ゴムのような・弾力のある・ぐにゃぐにゃした』。rubber（ゴム）＋ -y。食感ではしばしば否定的（固くて噛み切れない）。",
+      "rubbery legs（がくがくする足）でも使う。"
+    ],
+    "etym_note": "rubber（『ゴム』、もとは『こするもの』、rub「こする」より）＋ -y（『〜のような・〜の性質の』）から成り、「ゴムのような」を意味します。",
+    "etym_chain": [
+      { "node": "rub", "sub": "こする", "era": "中英語" },
+      { "node": "rubber", "sub": "ゴム", "era": "近代英語" },
+      { "node": "rubbery", "sub": "ゴムのような", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rubbery meat", "ja": "ゴムのように固い肉" },
+      { "en": "a rubbery texture", "ja": "ゴムのような食感" },
+      { "en": "rubbery cheese", "ja": "ゴムっぽいチーズ" },
+      { "en": "rubbery legs", "ja": "がくがくする足" },
+      { "en": "feel rubbery", "ja": "ゴムのように感じる" },
+      { "en": "tough and rubbery", "ja": "固くてゴムのような" }
+    ],
+    "related": [
+      { "en": "rubber", "ja": "ゴム" },
+      { "en": "elastic", "ja": "弾力のある" },
+      { "en": "chewy", "ja": "歯ごたえのある" },
+      { "en": "springy", "ja": "弾力のある" }
+    ],
+    "faq": [
+      { "q": "rubbery とはどんな意味？", "a": "ゴムのように『弾力のある・ぐにゃぐにゃした』食感や感触を表す形容詞です。食感ではしばしば否定的で、The overcooked squid was rubbery.（火を通しすぎたイカはゴムのようだった）のように使います。" },
+      { "q": "rubbery legs とは？", "a": "『がくがくする足・力の入らない足』のことです。激しい運動のあとや、緊張・恐怖で足に力が入らない様子を表します。" }
+    ],
+    "quiz": [
+      { "q": "The overcooked squid was ___.（ゴムのような）", "A": "rubbery", "B": "buttery のバターのような", "C": "watery の水っぽい", "D": "powdery の粉っぽい", "correct": "A" },
+      { "q": "rubbery のもとになった名詞はどれ？", "A": "rubber（ゴム）", "B": "rubble（がれき）", "C": "robber（強盗）", "D": "ruby（ルビー）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rudderless",
+    "pron": "ˈrʌdərləs",
+    "kana": "ラダーレス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "rudder（かじ）＋ -less（〜がない）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "比喩表現"],
+    "meaning_main": "かじのない／（比喩）指導力を欠いた・方向性を失った",
+    "description": "rudderless の意味・発音・例文・語源を解説。船にかじがない状態と、そこから生まれた「指導力を欠いた・方向性を失った」という比喩の使い方を紹介します。",
+    "keywords": ["rudderless 意味", "rudderless 発音", "方向性を失った", "rudder 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】かじのない", "note": "船・飛行機にかじ（rudder）がない状態。" },
+      { "hinshi": "【形容詞】(比喩)指導力を欠いた・方向性を失った・あてのない", "note": "進む方向を見失った。a rudderless government（指導力を欠いた政府）。" }
+    ],
+    "usages": [
+      { "title": "① 比喩「方向性を失った」として", "desc": "進路や指導力の欠如を表します。", "example_en": "The company seemed rudderless after the CEO left.", "example_ja": "CEOが去ったあと、その会社は方向性を失ったように見えた。" },
+      { "title": "② 「あてのない」として", "desc": "目標を見失った様子を表します。", "example_en": "He felt rudderless after graduation.", "example_ja": "彼は卒業後、進むべき方向を見失った気がした。" }
+    ],
+    "warn": [
+      "rudderless は文字どおり『かじのない』、比喩で『指導力を欠いた・方向性を失った・あてのない』。rudder（かじ）＋ -less。",
+      "組織・人が『進む方向を見失った』状態を表すのに使う。"
+    ],
+    "etym_note": "rudder（『（船の）かじ』、古英語 rother「かい・かじ」より）＋ -less（『〜がない』を表す語尾）から成り、「かじがない＝進路を定められない」を意味します。",
+    "etym_chain": [
+      { "node": "rother", "sub": "かい・かじ", "era": "古英語" },
+      { "node": "rudder", "sub": "かじ", "era": "中英語" },
+      { "node": "rudderless", "sub": "かじのない・方向性を失った", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rudderless government", "ja": "指導力を欠いた政府" },
+      { "en": "a rudderless organization", "ja": "方向性を失った組織" },
+      { "en": "feel rudderless", "ja": "進む方向を見失う" },
+      { "en": "seem rudderless", "ja": "あてがないように見える" },
+      { "en": "a rudderless ship", "ja": "かじのない船" },
+      { "en": "drift rudderless", "ja": "あてもなく漂う" }
+    ],
+    "related": [
+      { "en": "rudder", "ja": "かじ" },
+      { "en": "aimless", "ja": "目的のない" },
+      { "en": "directionless", "ja": "方向性のない" },
+      { "en": "adrift", "ja": "漂流して・あてもなく" }
+    ],
+    "faq": [
+      { "q": "rudderless とはどんな意味？", "a": "船などに『かじがない』状態と、そこから比喩で『指導力を欠いた・方向性を失った・あてのない』という意味です。The company seemed rudderless after the CEO left.（CEOが去り会社は方向性を失った）のように使います。" },
+      { "q": "rudderless と aimless の違いは？", "a": "aimless は『目的・目標がない』、rudderless は『（かじを失ったように）進む方向を制御できない・導く力がない』に重点があります。組織が指導者を失った状態によく使います。" }
+    ],
+    "quiz": [
+      { "q": "The company seemed ___ after the CEO left.（方向性を失った）", "A": "rudderless", "B": "ruthless の冷酷な", "C": "reckless の無謀な", "D": "restless の落ち着かない", "correct": "A" },
+      { "q": "rudderless の rudder の意味はどれ？", "A": "（船の）かじ", "B": "はしご", "C": "いかり", "D": "帆", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ruthlessly",
+    "pron": "ˈruːθləsli",
+    "kana": "ルースレスリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "ruthless（冷酷な）＋ -ly",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "感情・性格"],
+    "meaning_main": "冷酷に・容赦なく・情け容赦なく",
+    "description": "ruthlessly の意味・発音・例文・語源を解説。情けやためらいなく「冷酷に・容赦なく」物事を行う様子を表す副詞の使い方と、形容詞 ruthless を紹介します。",
+    "keywords": ["ruthlessly 意味", "ruthlessly 発音", "冷酷に", "容赦なく"],
+    "meanings": [
+      { "hinshi": "【副詞】冷酷に・容赦なく・情け容赦なく", "note": "あわれみやためらいなく。ruthlessly efficient（容赦ないほど効率的な）。exploit ruthlessly（情け容赦なく搾取する）。" }
+    ],
+    "usages": [
+      { "title": "① 「容赦なく」として", "desc": "情けなく徹底する様子を表します。", "example_en": "The dictator ruled ruthlessly.", "example_ja": "その独裁者は冷酷に統治した。" },
+      { "title": "② 「徹底的に」として", "desc": "ためらいない遂行を表します。", "example_en": "She ruthlessly cut unnecessary costs.", "example_ja": "彼女は容赦なく不要な費用を削った。" }
+    ],
+    "warn": [
+      "ruthlessly は『冷酷に・容赦なく』。形容詞 ruthless（冷酷な、ruth「あわれみ」＋ -less）。",
+      "ruth（あわれみ）は今は単独ではほぼ使われず、ruthless（あわれみのない）として残る。"
+    ],
+    "etym_note": "ruthless（『あわれみのない・冷酷な』、ruth「あわれみ・後悔」＋ -less）＋ -ly から成り、「あわれみなく・容赦なく」を意味します。rue（後悔する）と関連します。",
+    "etym_chain": [
+      { "node": "ruth", "sub": "あわれみ・後悔", "era": "中英語" },
+      { "node": "ruthless", "sub": "あわれみのない・冷酷な", "era": "中英語" },
+      { "node": "ruthlessly", "sub": "冷酷に・容赦なく", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rule ruthlessly", "ja": "冷酷に統治する" },
+      { "en": "ruthlessly efficient", "ja": "容赦ないほど効率的な" },
+      { "en": "exploit ruthlessly", "ja": "情け容赦なく搾取する" },
+      { "en": "ruthlessly cut costs", "ja": "容赦なく費用を削る" },
+      { "en": "pursue ruthlessly", "ja": "容赦なく追い求める" },
+      { "en": "act ruthlessly", "ja": "冷酷に行動する" }
+    ],
+    "related": [
+      { "en": "ruthless", "ja": "冷酷な・容赦ない" },
+      { "en": "mercilessly", "ja": "無慈悲に" },
+      { "en": "relentlessly", "ja": "容赦なく・執拗に" },
+      { "en": "mercifully", "ja": "慈悲深く（反対）" }
+    ],
+    "faq": [
+      { "q": "ruthlessly とはどんな意味？", "a": "情けやためらいなく『冷酷に・容赦なく・情け容赦なく』物事を行う様子を表す副詞です。The dictator ruled ruthlessly.（冷酷に統治した）のように使います。形容詞は ruthless です。" },
+      { "q": "ruthless の ruth とは？", "a": "ruth は古い語で『あわれみ・後悔』を意味します。今は単独ではほとんど使われず、ruthless（あわれみのない＝冷酷な）という形でのみ残っています。" }
+    ],
+    "quiz": [
+      { "q": "The dictator ruled ___.（冷酷に）", "A": "ruthlessly", "B": "restlessly の落ち着きなく", "C": "recklessly の無謀に", "D": "respectfully の敬意をもって", "correct": "A" },
+      { "q": "ruthlessly の形容詞形はどれ？", "A": "ruthless（冷酷な）", "B": "restless（落ち着かない）", "C": "reckless（無謀な）", "D": "respectful（礼儀正しい）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rhinestone",
+    "pron": "ˈraɪnstoʊn",
+    "kana": "ラインストーン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "Rhine（ライン川）＋ stone（石）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "ファッション"],
+    "meaning_main": "ラインストーン（ダイヤを模した模造宝石・人工の輝く石）",
+    "description": "rhinestone の意味・発音・例文・語源を解説。ダイヤモンドに似せて作られた、装飾用の輝く模造宝石「ラインストーン」を表す名詞の使い方と語源を紹介します。",
+    "keywords": ["rhinestone 意味", "rhinestone 発音", "ラインストーン", "模造宝石"],
+    "meanings": [
+      { "hinshi": "【名詞】ラインストーン", "note": "ダイヤモンドを模した、ガラスや樹脂製の輝く装飾用の石。衣装・アクセサリーに使う。a rhinestone necklace（ラインストーンのネックレス）。" }
+    ],
+    "usages": [
+      { "title": "① 装飾の「ラインストーン」として", "desc": "輝く模造宝石を表します。", "example_en": "Her dress was covered in rhinestones.", "example_ja": "彼女のドレスはラインストーンで覆われていた。" },
+      { "title": "② アクセサリーの文脈で", "desc": "きらびやかな装飾を表します。", "example_en": "The jacket had rhinestone buttons.", "example_ja": "そのジャケットにはラインストーンのボタンがついていた。" }
+    ],
+    "warn": [
+      "rhinestone は『ラインストーン』（ダイヤを模した模造宝石）。Rhine（ライン川）＋ stone（石）。",
+      "本物の宝石ではなくガラス・樹脂製。安価できらびやかな装飾に使う。"
+    ],
+    "etym_note": "もとはドイツのライン川（Rhine）で採れた水晶（Rhine stone）を指し、のちにダイヤを模したガラス製の模造石の名になりました。Rhine（ライン川）＋ stone（石）から成ります。",
+    "etym_chain": [
+      { "node": "Rhine + stone", "sub": "ライン川＋石", "era": "18世紀英語" },
+      { "node": "rhinestone", "sub": "ライン石（水晶）", "era": "近代英語" },
+      { "node": "rhinestone", "sub": "ラインストーン（模造宝石）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rhinestone necklace", "ja": "ラインストーンのネックレス" },
+      { "en": "covered in rhinestones", "ja": "ラインストーンで覆われた" },
+      { "en": "rhinestone buttons", "ja": "ラインストーンのボタン" },
+      { "en": "a rhinestone tiara", "ja": "ラインストーンのティアラ" },
+      { "en": "sparkling rhinestones", "ja": "きらめくラインストーン" },
+      { "en": "decorated with rhinestones", "ja": "ラインストーンで飾られた" }
+    ],
+    "related": [
+      { "en": "gem", "ja": "宝石" },
+      { "en": "diamond", "ja": "ダイヤモンド" },
+      { "en": "crystal", "ja": "クリスタル・水晶" },
+      { "en": "sequin", "ja": "スパンコール" }
+    ],
+    "faq": [
+      { "q": "rhinestone とはどんな意味？", "a": "ダイヤモンドに似せて作られた、ガラスや樹脂製の輝く装飾用の石『ラインストーン』のことです。Her dress was covered in rhinestones.（ドレスがラインストーンで覆われていた）のように使います。" },
+      { "q": "rhinestone の名前の由来は？", "a": "もとはドイツのライン川（Rhine）で採れた水晶を指し、Rhine（ライン川）＋ stone（石）から名づけられました。のちにダイヤを模したガラス製の模造石を指すようになりました。" }
+    ],
+    "quiz": [
+      { "q": "Her dress was covered in ___s.（ラインストーン）", "A": "rhinestone", "B": "milestone の重要な節目", "C": "limestone の石灰岩", "D": "cornerstone の礎石", "correct": "A" },
+      { "q": "rhinestone はどんなもの？", "A": "ダイヤを模した模造宝石", "B": "本物のダイヤモンド", "C": "天然の金", "D": "貝殻", "correct": "A" }
+    ]
+  }
+]
