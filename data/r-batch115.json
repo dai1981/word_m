@@ -1,0 +1,526 @@
+[
+  {
+    "english": "riverside",
+    "pron": "ˈrɪvərsaɪd",
+    "kana": "リバーサイド",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "river（川）＋ side（側・へり）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "自然・日常"],
+    "meaning_main": "川辺・川沿い／川辺の",
+    "description": "riverside の意味・発音・例文・語源を解説。川に沿った場所「川辺・川沿い」という名詞と、「川辺の」という形容詞の使い方を分かりやすく紹介します。",
+    "keywords": ["riverside 意味", "riverside 発音", "川辺", "川沿い"],
+    "meanings": [
+      { "hinshi": "【名詞】川辺・川沿い", "note": "川に沿った土地・地域。a walk along the riverside（川沿いの散歩）。" },
+      { "hinshi": "【形容詞】川辺の・川沿いの", "note": "a riverside café（川沿いのカフェ）。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「川辺」として", "desc": "川に沿った場所を表します。", "example_en": "We strolled along the riverside.", "example_ja": "私たちは川沿いをぶらぶら歩いた。" },
+      { "title": "② 形容詞「川辺の」として", "desc": "川沿いの場所を表します。", "example_en": "They had lunch at a riverside restaurant.", "example_ja": "彼らは川沿いのレストランで昼食をとった。" }
+    ],
+    "warn": [
+      "riverside は名詞『川辺・川沿い』、形容詞『川辺の』。river（川）＋ side（側）。",
+      "riverbank（川岸）は『（水際の）土手・岸』、riverside は『川沿いの地域・場所』全般を指す。"
+    ],
+    "etym_note": "river（川、ラテン語 riparia「川岸」より）＋ side（側・へり、古英語 side より）から成る複合語で、「川の側・川沿い」を意味します。",
+    "etym_chain": [
+      { "node": "river + side", "sub": "川＋側", "era": "中英語" },
+      { "node": "riverside", "sub": "川辺", "era": "近代英語" },
+      { "node": "riverside", "sub": "川辺・川沿い", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "along the riverside", "ja": "川沿いに" },
+      { "en": "a riverside walk", "ja": "川沿いの散歩道" },
+      { "en": "a riverside café", "ja": "川沿いのカフェ" },
+      { "en": "a riverside park", "ja": "川辺の公園" },
+      { "en": "by the riverside", "ja": "川辺で" },
+      { "en": "a riverside town", "ja": "川沿いの町" }
+    ],
+    "related": [
+      { "en": "riverbank", "ja": "川岸・土手" },
+      { "en": "riverbed", "ja": "川底" },
+      { "en": "waterfront", "ja": "水辺・ウォーターフロント" },
+      { "en": "seaside", "ja": "海辺" }
+    ],
+    "faq": [
+      { "q": "riverside とはどんな意味？", "a": "川に沿った場所『川辺・川沿い』という名詞、また『川辺の』という形容詞です。We strolled along the riverside.（川沿いをぶらぶら歩いた）のように使います。" },
+      { "q": "riverside と riverbank の違いは？", "a": "riverbank は『（水際の）土手・岸』、riverside は『川沿いの地域・場所』全般を指します。riverside café（川沿いのカフェ）のように、川辺のエリアを広く表します。" }
+    ],
+    "quiz": [
+      { "q": "We strolled along the ___.（川沿い）", "A": "riverside", "B": "seaside の海辺だけ", "C": "roadside の路傍", "D": "bedside の枕元", "correct": "A" },
+      { "q": "riverside を構成する2語はどれ？", "A": "river（川）＋ side（側）", "B": "river ＋ slide（滑り台）", "C": "rive ＋ side", "D": "river ＋ wide（広い）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "riverbed",
+    "pron": "ˈrɪvərbed",
+    "kana": "リバーベッド",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "river（川）＋ bed（底・床）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "自然・地理"],
+    "meaning_main": "川底・河床（かしょう）（川の水が流れる底）",
+    "description": "riverbed の意味・発音・例文・語源を解説。川の水が流れる底「川底・河床」を表す名詞の使い方と、bed が持つ「底・床」の意味を分かりやすく紹介します。",
+    "keywords": ["riverbed 意味", "riverbed 発音", "川底", "河床"],
+    "meanings": [
+      { "hinshi": "【名詞】川底・河床（かしょう）", "note": "川の水が流れる底の地面。a dry riverbed（干上がった川底）。" }
+    ],
+    "usages": [
+      { "title": "① 「川底」として", "desc": "川の水が流れる底を表します。", "example_en": "The river was so low you could see the riverbed.", "example_ja": "川の水位が低く、川底が見えるほどだった。" },
+      { "title": "② 「干上がった河床」として", "desc": "水のない川底を表します。", "example_en": "They walked across the dry riverbed.", "example_ja": "彼らは干上がった川底を歩いて渡った。" }
+    ],
+    "warn": [
+      "riverbed は『川底・河床』。river（川）＋ bed（底・床）。bed には『底（海底 seabed など）』の意味がある。",
+      "a dry riverbed（干上がった川底）が頻出。"
+    ],
+    "etym_note": "river（川）＋ bed（『底・床』、古英語 bedd「寝床・基盤」より）から成る複合語で、「川の底」を意味します。seabed（海底）と同じ bed の使い方です。",
+    "etym_chain": [
+      { "node": "river + bedd", "sub": "川＋底・床", "era": "中英語" },
+      { "node": "riverbed", "sub": "川底", "era": "近代英語" },
+      { "node": "riverbed", "sub": "川底・河床", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a dry riverbed", "ja": "干上がった川底" },
+      { "en": "the rocky riverbed", "ja": "岩だらけの川底" },
+      { "en": "across the riverbed", "ja": "川底を渡って" },
+      { "en": "the bottom of the riverbed", "ja": "川底の底" },
+      { "en": "sediment on the riverbed", "ja": "川底の堆積物" },
+      { "en": "an exposed riverbed", "ja": "むき出しになった川底" }
+    ],
+    "related": [
+      { "en": "bed", "ja": "底・床（／ベッド）" },
+      { "en": "seabed", "ja": "海底" },
+      { "en": "riverbank", "ja": "川岸" },
+      { "en": "channel", "ja": "（川などの）水路" }
+    ],
+    "faq": [
+      { "q": "riverbed とはどんな意味？", "a": "川の水が流れる底の地面『川底・河床』のことです。The river was so low you could see the riverbed.（水位が低く川底が見えた）のように使います。" },
+      { "q": "bed に『底』の意味があるの？", "a": "はい。bed は『ベッド・寝床』のほかに『底・床』の意味があります。riverbed（川底）、seabed（海底）、flowerbed（花壇）のように複合語で使われます。" }
+    ],
+    "quiz": [
+      { "q": "The river was so low you could see the ___.（川底）", "A": "riverbed", "B": "riverbank の川岸", "C": "bedroom の寝室", "D": "flowerbed の花壇", "correct": "A" },
+      { "q": "riverbed の bed の意味はどれ？", "A": "底・床", "B": "寝具", "C": "病床", "D": "花壇", "correct": "A" }
+    ]
+  },
+  {
+    "english": "repulsive",
+    "pron": "rɪˈpʌlsɪv",
+    "kana": "リパルシブ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "repulse（はね返す・不快にさせる）＋ -ive",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "感情表現"],
+    "meaning_main": "ぞっとするほど不快な・むかつくような／（物理）反発する",
+    "description": "repulsive の意味・発音・例文・語源を解説。ぞっとするほど「不快な・むかつくような」という強い嫌悪と、物理の「反発する（力）」という意味の使い方を紹介します。",
+    "keywords": ["repulsive 意味", "repulsive 発音", "不快な", "反発する"],
+    "meanings": [
+      { "hinshi": "【形容詞】ぞっとするほど不快な・むかつくような", "note": "強い嫌悪を起こさせる。a repulsive smell（むかつくにおい）。" },
+      { "hinshi": "【形容詞】(物理)反発する・はね返す", "note": "a repulsive force（反発力）。" }
+    ],
+    "usages": [
+      { "title": "① 「むかつくような」として", "desc": "強い嫌悪を起こす様子を表します。", "example_en": "The sight was utterly repulsive.", "example_ja": "その光景はまったくもってぞっとするものだった。" },
+      { "title": "② 物理「反発する」として", "desc": "はね返す力を表します。", "example_en": "Like poles produce a repulsive force.", "example_ja": "同じ極どうしは反発力を生む。" }
+    ],
+    "warn": [
+      "repulsive は『ぞっとするほど不快な・むかつくような』が中心。物理では『反発する』。repulse（はね返す）＋ -ive。名詞 repulsion。",
+      "attractive（魅力的な／引きつける）の反対（嫌悪・反発の両義で対比）。"
+    ],
+    "etym_note": "repulse（『はね返す・不快にさせる』、ラテン語 repellere「押し返す」より）＋ -ive から成り、「押し返す・嫌悪を起こす」を意味します。repel（はね返す）, repellent（虫よけ）と同じ語根です。",
+    "etym_chain": [
+      { "node": "repellere", "sub": "押し返す", "era": "ラテン語" },
+      { "node": "repulse", "sub": "はね返す・不快にする", "era": "近代英語" },
+      { "node": "repulsive", "sub": "むかつくような・反発する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a repulsive smell", "ja": "むかつくにおい" },
+      { "en": "utterly repulsive", "ja": "まったくもって不快な" },
+      { "en": "a repulsive sight", "ja": "ぞっとする光景" },
+      { "en": "find it repulsive", "ja": "それを不快に感じる" },
+      { "en": "a repulsive force", "ja": "反発力" },
+      { "en": "morally repulsive", "ja": "道徳的におぞましい" }
+    ],
+    "related": [
+      { "en": "repulse", "ja": "はね返す・不快にさせる" },
+      { "en": "repulsion", "ja": "嫌悪・反発" },
+      { "en": "disgusting", "ja": "むかつくような" },
+      { "en": "attractive", "ja": "魅力的な・引きつける（反対）" }
+    ],
+    "faq": [
+      { "q": "repulsive とはどんな意味？", "a": "ぞっとするほど『不快な・むかつくような』という強い嫌悪を表す形容詞です（物理では『反発する』）。The sight was utterly repulsive.（その光景はぞっとするものだった）のように使います。" },
+      { "q": "repulsive と attractive の関係は？", "a": "物理では attractive（引きつける）⇔ repulsive（反発する）の対です。感情では attractive（魅力的な）⇔ repulsive（むかつくような）と対比されます。" }
+    ],
+    "quiz": [
+      { "q": "The sight was utterly ___.（ぞっとする）", "A": "repulsive", "B": "impulsive の衝動的な", "C": "expensive の高価な", "D": "expansive の広大な", "correct": "A" },
+      { "q": "repulsive の物理での反対語はどれ？", "A": "attractive（引きつける）", "B": "impulsive（衝動的な）", "C": "expensive（高価な）", "D": "explosive（爆発的な）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reputable",
+    "pron": "ˈrepjutəbl",
+    "kana": "レピュタブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "repute（評判）＋ -able",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "ビジネス"],
+    "meaning_main": "評判のよい・信頼できる・れっきとした",
+    "description": "reputable の意味・発音・例文・語源を解説。会社・店・専門家などが「評判のよい・信頼できる・れっきとした」という様子を表す形容詞の使い方を紹介します。",
+    "keywords": ["reputable 意味", "reputable 発音", "評判のよい", "信頼できる"],
+    "meanings": [
+      { "hinshi": "【形容詞】評判のよい・信頼できる・れっきとした", "note": "良い評判があり信用できる。a reputable company（信頼できる会社）。反対は disreputable（評判の悪い）。" }
+    ],
+    "usages": [
+      { "title": "① 「信頼できる会社」として", "desc": "評判のよい組織を表します。", "example_en": "Buy only from a reputable dealer.", "example_ja": "信頼できる業者からだけ買いなさい。" },
+      { "title": "② 「れっきとした専門家」として", "desc": "信用ある人物を表します。", "example_en": "She consulted a reputable doctor.", "example_ja": "彼女はれっきとした（評判のよい）医師に相談した。" }
+    ],
+    "warn": [
+      "reputable は『評判のよい・信頼できる・れっきとした』。repute（評判）＋ -able。発音はアクセント前（REP-）に注意。",
+      "反対は disreputable（評判の悪い・いかがわしい）。名詞は reputation（評判）。"
+    ],
+    "etym_note": "repute（『評判・評する』、ラテン語 reputare「考える・見積もる」より）＋ -able から成り、「評判に値する・評判のよい」を意味します。reputation（評判）と同じ語根です。",
+    "etym_chain": [
+      { "node": "reputare", "sub": "考える・見積もる", "era": "ラテン語" },
+      { "node": "repute", "sub": "評判・評する", "era": "中英語" },
+      { "node": "reputable", "sub": "評判のよい", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a reputable company", "ja": "信頼できる会社" },
+      { "en": "a reputable dealer", "ja": "信頼できる業者" },
+      { "en": "a reputable source", "ja": "信頼できる情報源" },
+      { "en": "a reputable brand", "ja": "評判のよいブランド" },
+      { "en": "highly reputable", "ja": "きわめて評判のよい" },
+      { "en": "a reputable institution", "ja": "れっきとした機関" }
+    ],
+    "related": [
+      { "en": "reputation", "ja": "評判" },
+      { "en": "respectable", "ja": "立派な・きちんとした" },
+      { "en": "trustworthy", "ja": "信頼できる" },
+      { "en": "disreputable", "ja": "評判の悪い（反対）" }
+    ],
+    "faq": [
+      { "q": "reputable とはどんな意味？", "a": "会社・店・専門家などが『評判のよい・信頼できる・れっきとした』という形容詞です。Buy only from a reputable dealer.（信頼できる業者から買いなさい）のように使います。名詞は reputation（評判）です。" },
+      { "q": "reputable の反対語は？", "a": "disreputable（評判の悪い・いかがわしい）です。reputable（評判のよい）⇔ disreputable（評判の悪い）の関係です。" }
+    ],
+    "quiz": [
+      { "q": "Buy only from a ___ dealer.（信頼できる）", "A": "reputable", "B": "reputed の評判の", "C": "repeatable の繰り返せる", "D": "removable の取り外せる", "correct": "A" },
+      { "q": "reputable の反対語はどれ？", "A": "disreputable（評判の悪い）", "B": "reputation（評判）", "C": "repeatable（繰り返せる）", "D": "removable（取り外せる）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "responsive",
+    "pron": "rɪˈspɒnsɪv",
+    "kana": "リスポンシブ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "respond（反応する・応答する）＋ -ive",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出・IT"],
+    "meaning_main": "反応の早い・よく応じる・敏感な／（画面が）レスポンシブな",
+    "description": "responsive の意味・発音・例文・語源を解説。要望や刺激に「すぐ応じる・反応の早い・敏感な」、またウェブが画面に合わせる「レスポンシブな」という使い方を紹介します。",
+    "keywords": ["responsive 意味", "responsive 発音", "反応の早い", "respond 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】反応の早い・よく応じる・敏感な", "note": "要望・刺激にすぐ応じる。responsive to ～（〜に敏感に応じる）。a responsive customer service（対応の早い顧客サービス）。" },
+      { "hinshi": "【形容詞】(IT)レスポンシブな", "note": "画面サイズに合わせて表示が変わる。a responsive website（レスポンシブなサイト）。" }
+    ],
+    "usages": [
+      { "title": "① 「反応の早い」として", "desc": "すぐ応じる様子を表します。", "example_en": "The staff were friendly and responsive.", "example_ja": "スタッフは親切で対応が早かった。" },
+      { "title": "② IT「レスポンシブな」として", "desc": "画面に合わせる設計を表します。", "example_en": "The site uses a responsive design.", "example_ja": "そのサイトはレスポンシブデザインを使っている。" }
+    ],
+    "warn": [
+      "responsive は『反応の早い・よく応じる・敏感な』『（IT）レスポンシブな』。respond（応答する）＋ -ive。",
+      "responsive to ～（〜に敏感に応じる）の形が多い。反対は unresponsive（反応のない）。"
+    ],
+    "etym_note": "respond（『応答する・反応する』、ラテン語 respondere「答える」より）＋ -ive から成り、「よく応じる・反応する」を意味します。response（応答）, responsible（責任ある）と同じ語根です。",
+    "etym_chain": [
+      { "node": "respondere", "sub": "答える", "era": "ラテン語" },
+      { "node": "respond", "sub": "応答する", "era": "中英語" },
+      { "node": "responsive", "sub": "反応の早い", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "responsive to", "ja": "〜に敏感に応じる" },
+      { "en": "quick and responsive", "ja": "すばやく反応する" },
+      { "en": "responsive to feedback", "ja": "意見によく応じる" },
+      { "en": "a responsive website", "ja": "レスポンシブなサイト" },
+      { "en": "responsive design", "ja": "レスポンシブデザイン" },
+      { "en": "highly responsive", "ja": "反応がとてもよい" }
+    ],
+    "related": [
+      { "en": "respond", "ja": "応答する・反応する" },
+      { "en": "response", "ja": "応答・反応" },
+      { "en": "reactive", "ja": "反応する" },
+      { "en": "unresponsive", "ja": "反応のない（反対）" }
+    ],
+    "faq": [
+      { "q": "responsive とはどんな意味？", "a": "要望や刺激に『すぐ応じる・反応の早い・敏感な』、またITで画面に合わせる『レスポンシブな』という意味です。The staff were friendly and responsive.（対応が早かった）のように使います。" },
+      { "q": "responsive design とは？", "a": "『レスポンシブデザイン』のことで、パソコン・スマホ・タブレットなど画面サイズに合わせて、ウェブページの表示が自動で最適に変わる設計手法です。" }
+    ],
+    "quiz": [
+      { "q": "The staff were friendly and ___.（反応の早い）", "A": "responsive", "B": "responsible の責任ある", "C": "respective のそれぞれの", "D": "repulsive の不快な", "correct": "A" },
+      { "q": "responsive の反対語はどれ？", "A": "unresponsive（反応のない）", "B": "responsible（責任ある）", "C": "respective（それぞれの）", "D": "respectful（礼儀正しい）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "restrictive",
+    "pron": "rɪˈstrɪktɪv",
+    "kana": "リストリクティブ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "restrict（制限する）＋ -ive",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "制限的な・束縛する・厳しく制限する",
+    "description": "restrictive の意味・発音・例文・語源を解説。自由や行動を「制限する・束縛する・厳しく制限する」という様子を表す形容詞の使い方を分かりやすく紹介します。",
+    "keywords": ["restrictive 意味", "restrictive 発音", "制限的な", "restrict 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】制限的な・束縛する・厳しく制限する", "note": "自由・行動・選択を制限する。restrictive rules（厳しい規則）。a restrictive diet（制限の多い食事）。" }
+    ],
+    "usages": [
+      { "title": "① 「制限的な規則」として", "desc": "自由を制限する様子を表します。", "example_en": "The new rules are too restrictive.", "example_ja": "新しい規則は制限が厳しすぎる。" },
+      { "title": "② 「束縛する」として", "desc": "行動を縛る様子を表します。", "example_en": "She found the contract too restrictive.", "example_ja": "彼女はその契約が束縛が多すぎると感じた。" }
+    ],
+    "warn": [
+      "restrictive は『制限的な・束縛する』。restrict（制限する）＋ -ive。名詞 restriction（制限）。しばしば否定的。",
+      "restrictive practices（制限的な慣行）, restrictive diet（制限食）などで使う。"
+    ],
+    "etym_note": "restrict（『制限する』、ラテン語 restringere「引き締める」より）＋ -ive から成り、「制限する性質の」を意味します。restriction（制限）, strict（厳しい）と同じ語根です。",
+    "etym_chain": [
+      { "node": "restringere", "sub": "引き締める", "era": "ラテン語" },
+      { "node": "restrict", "sub": "制限する", "era": "近代英語" },
+      { "node": "restrictive", "sub": "制限的な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "restrictive rules", "ja": "厳しい規則" },
+      { "en": "too restrictive", "ja": "制限が厳しすぎる" },
+      { "en": "a restrictive diet", "ja": "制限の多い食事" },
+      { "en": "restrictive practices", "ja": "制限的な慣行" },
+      { "en": "restrictive measures", "ja": "制限措置" },
+      { "en": "overly restrictive", "ja": "過度に制限的な" }
+    ],
+    "related": [
+      { "en": "restrict", "ja": "制限する" },
+      { "en": "restriction", "ja": "制限" },
+      { "en": "limiting", "ja": "制限する" },
+      { "en": "permissive", "ja": "寛容な（反対）" }
+    ],
+    "faq": [
+      { "q": "restrictive とはどんな意味？", "a": "自由や行動を『制限する・束縛する・厳しく制限する』という形容詞です（しばしば否定的）。The new rules are too restrictive.（新しい規則は制限が厳しすぎる）のように使います。名詞は restriction です。" },
+      { "q": "restrictive と restricted の違いは？", "a": "restrictive は『（規則などが）制限する性質の』、restricted は『（場所・情報などが）制限された・限られた』です。a restrictive policy（制限的な方針）／a restricted area（立入制限区域）のように使い分けます。" }
+    ],
+    "quiz": [
+      { "q": "The new rules are too ___.（制限的な）", "A": "restrictive", "B": "attractive の魅力的な", "C": "instructive の有益な", "D": "destructive の破壊的な", "correct": "A" },
+      { "q": "restrictive の名詞形はどれ？", "A": "restriction（制限）", "B": "attraction（魅力）", "C": "instruction（指示）", "D": "destruction（破壊）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retractable",
+    "pron": "rɪˈtræktəbl",
+    "kana": "リトラクタブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "retract（引っ込める）＋ -able（できる）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "技術・日常"],
+    "meaning_main": "引っ込められる・出し入れできる・格納式の",
+    "description": "retractable の意味・発音・例文・語源を解説。ペン先や屋根、車輪などが「引っ込められる・出し入れできる・格納式の」という様子を表す形容詞を紹介します。",
+    "keywords": ["retractable 意味", "retractable 発音", "格納式の", "retract 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】引っ込められる・出し入れできる・格納式の", "note": "必要なときに出し、不要なときに引っ込められる。a retractable roof（開閉式の屋根）。a retractable pen（ノック式ペン）。" }
+    ],
+    "usages": [
+      { "title": "① 「格納式の」として", "desc": "出し入れできる構造を表します。", "example_en": "The stadium has a retractable roof.", "example_ja": "そのスタジアムは開閉式の屋根を備えている。" },
+      { "title": "② 「引っ込められる」として", "desc": "ペン先などの出し入れを表します。", "example_en": "A retractable pen has no cap.", "example_ja": "ノック式ペンにはキャップがない。" }
+    ],
+    "warn": [
+      "retractable は『引っ込められる・出し入れできる・格納式の』。retract（引っ込める）＋ -able。",
+      "a retractable roof（開閉式屋根）, retractable landing gear（格納式の着陸装置）, retractable pen（ノック式ペン）が頻出。"
+    ],
+    "etym_note": "retract（『引っ込める・撤回する』、ラテン語 retrahere「引き戻す」より）＋ -able（できる）から成り、「引っ込めることができる」を意味します。tractor（牽引車）, attract（引きつける）と同じ語根です。",
+    "etym_chain": [
+      { "node": "retrahere", "sub": "引き戻す", "era": "ラテン語" },
+      { "node": "retract", "sub": "引っ込める", "era": "近代英語" },
+      { "node": "retractable", "sub": "引っ込められる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a retractable roof", "ja": "開閉式の屋根" },
+      { "en": "a retractable pen", "ja": "ノック式ペン" },
+      { "en": "retractable landing gear", "ja": "格納式の着陸装置" },
+      { "en": "a retractable leash", "ja": "巻き取り式のリード" },
+      { "en": "retractable claws", "ja": "出し入れできる爪" },
+      { "en": "a retractable blade", "ja": "格納式の刃" }
+    ],
+    "related": [
+      { "en": "retract", "ja": "引っ込める・撤回する" },
+      { "en": "retraction", "ja": "引っ込め・撤回" },
+      { "en": "collapsible", "ja": "折りたためる" },
+      { "en": "extendable", "ja": "伸ばせる" }
+    ],
+    "faq": [
+      { "q": "retractable とはどんな意味？", "a": "ペン先や屋根、車輪などが『引っ込められる・出し入れできる・格納式の』という形容詞です。The stadium has a retractable roof.（開閉式の屋根を備えている）のように使います。" },
+      { "q": "retractable はどんな例がある？", "a": "ノック式ペン（retractable pen）、開閉式スタジアム屋根（retractable roof）、飛行機の格納式着陸装置（retractable landing gear）、ネコの出し入れできる爪（retractable claws）などがあります。" }
+    ],
+    "quiz": [
+      { "q": "The stadium has a ___ roof.（開閉式の）", "A": "retractable", "B": "removable の取り外せる", "C": "remarkable の注目すべき", "D": "respectable の立派な", "correct": "A" },
+      { "q": "retractable のもとになった動詞はどれ？", "A": "retract（引っ込める）", "B": "remove（取り除く）", "C": "remark（述べる）", "D": "respect（尊敬する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rumored",
+    "pron": "ˈruːmərd",
+    "kana": "ルーマード",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "rumor（うわさ）＋ -ed",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "うわさされている・うわさによれば〜とされる",
+    "description": "rumored の意味・発音・例文・語源を解説。確かではないが「うわさされている・うわさによれば〜とされる」という、報道や日常で使う語の使い方を紹介します。",
+    "keywords": ["rumored 意味", "rumored 発音", "うわさされている", "rumor 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞・動詞(過去分詞)】うわさされている・〜だとうわさされる", "note": "be rumored to do（〜するとうわさされている）。It is rumored that ～（〜だとうわさされている）。イギリス綴りは rumoured。" }
+    ],
+    "usages": [
+      { "title": "① be rumored to の形で", "desc": "「〜とうわさされる」を表します。", "example_en": "He is rumored to be retiring soon.", "example_ja": "彼は近く引退するとうわさされている。" },
+      { "title": "② It is rumored that の形で", "desc": "「〜だとうわさされる」を表します。", "example_en": "It is rumored that the store will close.", "example_ja": "その店は閉店するとうわさされている。" }
+    ],
+    "warn": [
+      "rumored は『うわさされている』。rumor（うわさ）＋ -ed。be rumored to do / It is rumored that ～ が頻出。イギリス綴りは rumoured。",
+      "確証はなく『うわさ・憶測の段階』を示す。"
+    ],
+    "etym_note": "rumor（『うわさ』、ラテン語 rumor「物音・評判」より）＋ -ed から成り、「うわさされている」を意味します。",
+    "etym_chain": [
+      { "node": "rumor", "sub": "物音・評判", "era": "ラテン語" },
+      { "node": "rumor", "sub": "うわさ", "era": "中英語" },
+      { "node": "rumored", "sub": "うわさされている", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be rumored to be", "ja": "〜だとうわさされている" },
+      { "en": "it is rumored that", "ja": "〜だとうわさされている" },
+      { "en": "rumored to be dating", "ja": "交際しているとうわさの" },
+      { "en": "the rumored merger", "ja": "うわさされている合併" },
+      { "en": "widely rumored", "ja": "広くうわさされている" },
+      { "en": "a rumored release date", "ja": "うわさの発売日" }
+    ],
+    "related": [
+      { "en": "rumor", "ja": "うわさ" },
+      { "en": "alleged", "ja": "申し立てられた・〜とされる" },
+      { "en": "reported", "ja": "報じられた" },
+      { "en": "speculation", "ja": "憶測" }
+    ],
+    "faq": [
+      { "q": "rumored とはどんな意味？", "a": "確かではないが『うわさされている・うわさによれば〜とされる』という意味です。He is rumored to be retiring soon.（近く引退するとうわさされている）のように使います。イギリス綴りは rumoured です。" },
+      { "q": "be rumored to の使い方は？", "a": "『〜するとうわさされている』という意味で、to のあとに動詞の原形を置きます。be rumored to be ～（〜だとうわさされている）の形が多く、確証のない情報を伝えるときに使います。" }
+    ],
+    "quiz": [
+      { "q": "He is ___ to be retiring soon.（うわさされている）", "A": "rumored", "B": "honored の光栄に思う", "C": "favored の好まれた", "D": "tutored の指導された", "correct": "A" },
+      { "q": "rumored のもとになった名詞はどれ？", "A": "rumor（うわさ）", "B": "honor（名誉）", "C": "humor（ユーモア）", "D": "tumor（腫瘍）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "runny",
+    "pron": "ˈrʌni",
+    "kana": "ラニー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "run（流れる）＋ -y（〜がちな）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "日常・健康"],
+    "meaning_main": "（鼻が）水っぽい・鼻水の出る／（食べ物が）どろっとした・半熟の",
+    "description": "runny の意味・発音・例文・語源を解説。鼻水が出る「鼻がぐずぐずの」状態や、卵・はちみつなどが「どろっとした・半熟の」という日常語の使い方を紹介します。",
+    "keywords": ["runny 意味", "runny 発音", "鼻水", "半熟"],
+    "meanings": [
+      { "hinshi": "【形容詞】（鼻が）水っぽい・鼻水の出る", "note": "a runny nose（鼻水の出る鼻）。風邪の症状でよく使う。" },
+      { "hinshi": "【形容詞】（食べ物が）どろっとした・ゆるい・半熟の", "note": "a runny egg（半熟卵）。runny honey（さらさらのはちみつ）。" }
+    ],
+    "usages": [
+      { "title": "① 「鼻水の出る」として", "desc": "風邪などの鼻の症状を表します。", "example_en": "I have a runny nose and a cough.", "example_ja": "鼻水とせきが出る。" },
+      { "title": "② 「半熟・どろっとした」として", "desc": "食べ物のゆるさを表します。", "example_en": "He likes his eggs runny.", "example_ja": "彼は卵を半熟で好む。" }
+    ],
+    "warn": [
+      "runny は『（鼻が）鼻水の出る』『（食べ物が）どろっとした・半熟の』。run（流れる）＋ -y。口語的。",
+      "a runny nose（鼻水）, a runny egg（半熟卵）が定番表現。"
+    ],
+    "etym_note": "run（『流れる・走る』、古英語 rinnan より）＋ -y（『〜がちな・〜の性質の』を表す語尾）から成り、「流れやすい・水っぽい」を意味します。",
+    "etym_chain": [
+      { "node": "rinnan", "sub": "流れる・走る", "era": "古英語" },
+      { "node": "run", "sub": "流れる", "era": "中英語" },
+      { "node": "runny", "sub": "水っぽい・どろっとした", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a runny nose", "ja": "鼻水の出る鼻" },
+      { "en": "have a runny nose", "ja": "鼻水が出る" },
+      { "en": "a runny egg", "ja": "半熟卵" },
+      { "en": "runny honey", "ja": "さらさらのはちみつ" },
+      { "en": "runny cheese", "ja": "とろっとしたチーズ" },
+      { "en": "too runny", "ja": "ゆるすぎる" }
+    ],
+    "related": [
+      { "en": "run", "ja": "流れる・走る" },
+      { "en": "watery", "ja": "水っぽい" },
+      { "en": "drippy", "ja": "したたる・鼻水の出る" },
+      { "en": "thick", "ja": "濃い・どろどろの（反対）" }
+    ],
+    "faq": [
+      { "q": "runny とはどんな意味？", "a": "鼻水が出る『鼻がぐずぐずの』状態や、卵・はちみつなどが『どろっとした・半熟の・ゆるい』という意味です。a runny nose（鼻水）、a runny egg（半熟卵）のように使います。" },
+      { "q": "a runny nose とは？", "a": "『鼻水の出る鼻』のことで、風邪やアレルギーの症状を表す定番表現です。I have a runny nose.（鼻水が出る）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "I have a ___ nose and a cough.（鼻水の出る）", "A": "runny", "B": "sunny の晴れた", "C": "funny のおかしい", "D": "rainy の雨の", "correct": "A" },
+      { "q": "a runny egg とはどんな卵？", "A": "半熟の卵", "B": "固ゆで卵", "C": "腐った卵", "D": "生卵を凍らせたもの", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rousing",
+    "pron": "ˈraʊzɪŋ",
+    "kana": "ラウジング",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "rouse（奮い立たせる・目覚めさせる）＋ -ing",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "感情表現"],
+    "meaning_main": "奮い立たせる・気持ちを高ぶらせる・活気にあふれた",
+    "description": "rousing の意味・発音・例文・語源を解説。演説や音楽などが人を「奮い立たせる・気持ちを高ぶらせる・活気にあふれた」という様子を表す形容詞を紹介します。",
+    "keywords": ["rousing 意味", "rousing 発音", "奮い立たせる", "rouse 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】奮い立たせる・気持ちを高ぶらせる・活気にあふれた", "note": "熱意・興奮をかき立てる。a rousing speech（人を奮い立たせる演説）。a rousing cheer（わき上がる歓声）。" }
+    ],
+    "usages": [
+      { "title": "① 「奮い立たせる演説」として", "desc": "熱意をかき立てる様子を表します。", "example_en": "She gave a rousing speech before the game.", "example_ja": "彼女は試合前に人を奮い立たせる演説をした。" },
+      { "title": "② 「活気にあふれた」として", "desc": "盛り上がりを表します。", "example_en": "The band finished with a rousing song.", "example_ja": "バンドは活気にあふれた曲で締めくくった。" }
+    ],
+    "warn": [
+      "rousing は『奮い立たせる・気持ちを高ぶらせる・活気にあふれた』。動詞 rouse（奮い立たせる・目覚めさせる）＋ -ing。",
+      "a rousing speech / cheer / chorus / welcome（奮い立たせる演説・歓声・合唱・歓迎）が頻出。"
+    ],
+    "etym_note": "rouse（『奮い立たせる・（眠りから）目覚めさせる』、語源は不確かだが鷹狩り用語に由来とされる）＋ -ing から成り、「気持ちをかき立てる」を意味します。arouse（呼び起こす）と関連します。",
+    "etym_chain": [
+      { "node": "rouse", "sub": "目覚めさせる・奮い立たせる", "era": "近代英語" },
+      { "node": "rousing", "sub": "奮い立たせる", "era": "近代英語" },
+      { "node": "rousing", "sub": "奮い立たせる・活気にあふれた", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rousing speech", "ja": "人を奮い立たせる演説" },
+      { "en": "a rousing cheer", "ja": "わき上がる歓声" },
+      { "en": "a rousing chorus", "ja": "盛り上がる合唱" },
+      { "en": "a rousing welcome", "ja": "熱烈な歓迎" },
+      { "en": "a rousing finale", "ja": "活気あるフィナーレ" },
+      { "en": "a rousing performance", "ja": "心を高ぶらせる演奏" }
+    ],
+    "related": [
+      { "en": "rouse", "ja": "奮い立たせる・目覚めさせる" },
+      { "en": "stirring", "ja": "心を揺さぶる" },
+      { "en": "inspiring", "ja": "感激させる" },
+      { "en": "exciting", "ja": "興奮させる" }
+    ],
+    "faq": [
+      { "q": "rousing とはどんな意味？", "a": "演説や音楽などが人を『奮い立たせる・気持ちを高ぶらせる・活気にあふれた』という形容詞です。She gave a rousing speech.（人を奮い立たせる演説をした）のように使います。動詞は rouse です。" },
+      { "q": "rousing と stirring の違いは？", "a": "どちらも『心を動かす』ですが、rousing は『（熱意・興奮を）かき立てて奮い立たせる』、stirring は『（感動で）心を揺さぶる』に重点があります。a rousing speech（奮い立たせる演説）/ a stirring story（感動的な物語）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "She gave a ___ speech before the game.（奮い立たせる）", "A": "rousing", "B": "housing の住宅", "C": "raising の上げること", "D": "rinsing のすすぐこと", "correct": "A" },
+      { "q": "rousing のもとになった動詞はどれ？", "A": "rouse（奮い立たせる・目覚めさせる）", "B": "raise（上げる）", "C": "rinse（すすぐ）", "D": "reuse（再使用する）", "correct": "A" }
+    ]
+  }
+]

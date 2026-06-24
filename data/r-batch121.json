@@ -1,0 +1,525 @@
+[
+  {
+    "english": "reluctantly",
+    "pron": "rɪˈlʌktəntli",
+    "kana": "リラクタントリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "reluctant（気が進まない）＋ -ly",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "しぶしぶ・いやいやながら・気が進まないながら",
+    "description": "reluctantly の意味・発音・例文・語源を解説。本心では気が進まないまま「しぶしぶ・いやいやながら」何かをする様子を表す副詞の使い方を分かりやすく紹介します。",
+    "keywords": ["reluctantly 意味", "reluctantly 発音", "しぶしぶ", "いやいや"],
+    "meanings": [
+      { "hinshi": "【副詞】しぶしぶ・いやいやながら・気が進まないながら", "note": "本心では乗り気でないまま。reluctantly agree（しぶしぶ同意する）。" }
+    ],
+    "usages": [
+      { "title": "① 「しぶしぶ同意する」として", "desc": "気が進まないまま応じることを表します。", "example_en": "She reluctantly agreed to help.", "example_ja": "彼女はしぶしぶ手伝いに同意した。" },
+      { "title": "② 「いやいや認める」として", "desc": "渋りながら認めることを表します。", "example_en": "He reluctantly admitted his mistake.", "example_ja": "彼はいやいやながら自分の誤りを認めた。" }
+    ],
+    "warn": [
+      "reluctantly は『しぶしぶ・いやいやながら』。形容詞 reluctant（気が進まない）＋ -ly。名詞 reluctance。",
+      "willingly（喜んで）, readily（快く）の反対。"
+    ],
+    "etym_note": "reluctant（『気が進まない』、ラテン語 reluctari「抵抗する」、re-「逆らって」＋ luctari「もがく」より）＋ -ly から成り、「（心が）抵抗しながら＝しぶしぶ」を意味します。",
+    "etym_chain": [
+      { "node": "reluctari", "sub": "抵抗する", "era": "ラテン語" },
+      { "node": "reluctant", "sub": "気が進まない", "era": "近代英語" },
+      { "node": "reluctantly", "sub": "しぶしぶ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reluctantly agree", "ja": "しぶしぶ同意する" },
+      { "en": "reluctantly admit", "ja": "いやいや認める" },
+      { "en": "reluctantly accept", "ja": "しぶしぶ受け入れる" },
+      { "en": "reluctantly agree to", "ja": "しぶしぶ〜に応じる" },
+      { "en": "nod reluctantly", "ja": "しぶしぶうなずく" },
+      { "en": "reluctantly conclude", "ja": "しぶしぶ結論づける" }
+    ],
+    "related": [
+      { "en": "reluctant", "ja": "気が進まない" },
+      { "en": "reluctance", "ja": "ためらい" },
+      { "en": "unwillingly", "ja": "いやいや" },
+      { "en": "willingly", "ja": "喜んで（反対）" }
+    ],
+    "faq": [
+      { "q": "reluctantly とはどんな意味？", "a": "本心では気が進まないまま『しぶしぶ・いやいやながら』何かをする様子を表す副詞です。She reluctantly agreed to help.（しぶしぶ手伝いに同意した）のように使います。形容詞は reluctant です。" },
+      { "q": "reluctantly の反対語は？", "a": "willingly（喜んで・進んで）や readily（快く）です。reluctantly（しぶしぶ）⇔ willingly（喜んで）の関係です。" }
+    ],
+    "quiz": [
+      { "q": "She ___ agreed to help.（しぶしぶ）", "A": "reluctantly", "B": "willingly の喜んで", "C": "instantly の即座に", "D": "recently の最近", "correct": "A" },
+      { "q": "reluctantly の反対語はどれ？", "A": "willingly（喜んで）", "B": "slowly（ゆっくり）", "C": "quietly（静かに）", "D": "rarely（めったに〜ない）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "remorseful",
+    "pron": "rɪˈmɔːrsfl",
+    "kana": "リモースフル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "remorse（自責の念・後悔）＋ -ful",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "感情"],
+    "meaning_main": "深く後悔している・自責の念にかられた・悔やんでいる",
+    "description": "remorseful の意味・発音・例文・語源を解説。自分の行いを「深く後悔している・自責の念にかられた」という強い後悔の気持ちを表す形容詞の使い方を紹介します。",
+    "keywords": ["remorseful 意味", "remorseful 発音", "後悔している", "自責の念"],
+    "meanings": [
+      { "hinshi": "【形容詞】深く後悔している・自責の念にかられた・悔やんでいる", "note": "自分の過ちを強く悔やんでいる。a remorseful apology（心からの謝罪）。feel remorseful（自責の念にかられる）。" }
+    ],
+    "usages": [
+      { "title": "① 「深く後悔している」として", "desc": "強い自責の念を表します。", "example_en": "He felt deeply remorseful about his actions.", "example_ja": "彼は自分の行いを深く後悔した。" },
+      { "title": "② 「心からの謝罪」として", "desc": "悔やみのこもった態度を表します。", "example_en": "She gave a remorseful apology.", "example_ja": "彼女は心からの謝罪をした。" }
+    ],
+    "warn": [
+      "remorseful は『深く後悔している・自責の念にかられた』。名詞 remorse（自責の念・良心の呵責）＋ -ful。",
+      "regretful（残念がる）より重く、『良心が痛む』ニュアンス。反対は remorseless / unrepentant（後悔しない）。"
+    ],
+    "etym_note": "remorse（『自責の念』、ラテン語 remordere「再びかむ」、re-「再び」＋ mordere「かむ」より＝良心がかむこと）＋ -ful から成り、「自責の念に満ちた」を意味します。",
+    "etym_chain": [
+      { "node": "remordere", "sub": "再びかむ", "era": "ラテン語" },
+      { "node": "remorse", "sub": "自責の念", "era": "中英語" },
+      { "node": "remorseful", "sub": "深く後悔している", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "feel remorseful", "ja": "自責の念にかられる" },
+      { "en": "deeply remorseful", "ja": "深く後悔して" },
+      { "en": "a remorseful apology", "ja": "心からの謝罪" },
+      { "en": "look remorseful", "ja": "悔やんでいるように見える" },
+      { "en": "remorseful about", "ja": "〜を後悔して" },
+      { "en": "a remorseful expression", "ja": "悔いのにじむ表情" }
+    ],
+    "related": [
+      { "en": "remorse", "ja": "自責の念・後悔" },
+      { "en": "repentant", "ja": "悔い改めた" },
+      { "en": "regretful", "ja": "残念がる・後悔した" },
+      { "en": "remorseless", "ja": "無慈悲な・後悔しない（反対）" }
+    ],
+    "faq": [
+      { "q": "remorseful とはどんな意味？", "a": "自分の行いを『深く後悔している・自責の念にかられた・悔やんでいる』という形容詞です。He felt deeply remorseful about his actions.（自分の行いを深く後悔した）のように使います。名詞は remorse です。" },
+      { "q": "remorseful と regretful の違いは？", "a": "regretful は『（広く）残念に思う・後悔した』、remorseful は『（過ちに対し）良心が痛むほど深く悔やんでいる』という、より重く道徳的な後悔を表します。" }
+    ],
+    "quiz": [
+      { "q": "He felt deeply ___ about his actions.（後悔している）", "A": "remorseful", "B": "resourceful の機転のきく", "C": "respectful の礼儀正しい", "D": "successful の成功した", "correct": "A" },
+      { "q": "remorseful の名詞形はどれ？", "A": "remorse（自責の念・後悔）", "B": "resource（資源）", "C": "respect（尊敬）", "D": "success（成功）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "remotely",
+    "pron": "rɪˈmoʊtli",
+    "kana": "リモートリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "remote（遠い・遠隔の）＋ -ly",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "遠隔で・離れて／（否定文で）少しも〜ない",
+    "description": "remotely の意味・発音・例文・語源を解説。「遠隔で・離れて操作する」という意味と、否定文で「少しも〜ない」という強調の使い方を分かりやすく紹介します。",
+    "keywords": ["remotely 意味", "remotely 発音", "遠隔で", "リモートで"],
+    "meanings": [
+      { "hinshi": "【副詞】遠隔で・離れて・リモートで", "note": "離れた場所から。work remotely（リモートワークをする）。control remotely（遠隔操作する）。" },
+      { "hinshi": "【副詞】(否定文で)少しも〜ない・まったく〜ない", "note": "not remotely ～（少しも〜でない）。not even remotely funny（まったく面白くない）。" }
+    ],
+    "usages": [
+      { "title": "① 「遠隔で」として", "desc": "離れた場所からの操作・勤務を表します。", "example_en": "Many people now work remotely.", "example_ja": "今や多くの人がリモートで働いている。" },
+      { "title": "② 否定文「少しも〜ない」として", "desc": "強い否定を表します。", "example_en": "The two cases are not remotely similar.", "example_ja": "その二つの事例は少しも似ていない。" }
+    ],
+    "warn": [
+      "remotely は『遠隔で・リモートで』と、否定文で『少しも〜ない』。remote（遠い・遠隔の）＋ -ly。",
+      "not remotely ～（少しも〜でない）は強い否定の決まった言い方。"
+    ],
+    "etym_note": "remote（『遠い・遠隔の』、ラテン語 remotus「離れた」、removere「移し去る」より）＋ -ly から成り、「遠く離れて」を意味します。move（動かす）, remove（取り除く）と同じ語根です。",
+    "etym_chain": [
+      { "node": "remotus", "sub": "離れた", "era": "ラテン語" },
+      { "node": "remote", "sub": "遠い・遠隔の", "era": "中英語" },
+      { "node": "remotely", "sub": "遠隔で・少しも〜ない", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "work remotely", "ja": "リモートで働く" },
+      { "en": "control remotely", "ja": "遠隔操作する" },
+      { "en": "access remotely", "ja": "遠隔でアクセスする" },
+      { "en": "not remotely similar", "ja": "少しも似ていない" },
+      { "en": "not even remotely", "ja": "これっぽっちも〜ない" },
+      { "en": "remotely located", "ja": "遠く離れた場所にある" }
+    ],
+    "related": [
+      { "en": "remote", "ja": "遠い・遠隔の" },
+      { "en": "distantly", "ja": "遠く・かすかに" },
+      { "en": "from afar", "ja": "遠くから" },
+      { "en": "at all", "ja": "（否定で）少しも" }
+    ],
+    "faq": [
+      { "q": "remotely とはどんな意味？", "a": "『遠隔で・離れて・リモートで』という意味と、否定文で『少しも〜ない・まったく〜ない』という強調の意味があります。Many people now work remotely.（多くの人がリモートで働いている）のように使います。" },
+      { "q": "not remotely ～ とはどんな意味？", "a": "『少しも〜でない・まったく〜でない』という強い否定です。The two cases are not remotely similar.（少しも似ていない）のように、わずかな程度すらないことを強調します。" }
+    ],
+    "quiz": [
+      { "q": "Many people now work ___.（リモートで）", "A": "remotely", "B": "recently の最近", "C": "rarely のめったに〜ない", "D": "readily の快く", "correct": "A" },
+      { "q": "not remotely similar の意味はどれ？", "A": "少しも似ていない", "B": "とても似ている", "C": "だいたい似ている", "D": "ときどき似ている", "correct": "A" }
+    ]
+  },
+  {
+    "english": "repentant",
+    "pron": "rɪˈpentənt",
+    "kana": "リペンタント",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "repent（悔い改める）＋ -ant",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "感情・宗教"],
+    "meaning_main": "悔い改めた・改悛（かいしゅん）した・反省している",
+    "description": "repentant の意味・発音・例文・語源を解説。自分の過ちを「悔い改めた・反省している・改悛した」という様子を表す形容詞の使い方と、動詞 repent を紹介します。",
+    "keywords": ["repentant 意味", "repentant 発音", "悔い改めた", "反省している"],
+    "meanings": [
+      { "hinshi": "【形容詞】悔い改めた・改悛した・反省している", "note": "過ちを悔いて改めようとしている。a repentant sinner（悔い改めた罪人）。反対は unrepentant（反省しない）。" }
+    ],
+    "usages": [
+      { "title": "① 「反省している」として", "desc": "過ちを悔いる様子を表します。", "example_en": "He seemed genuinely repentant.", "example_ja": "彼は本当に反省しているようだった。" },
+      { "title": "② 宗教の文脈で", "desc": "悔い改めを表します。", "example_en": "A repentant heart seeks forgiveness.", "example_ja": "悔い改めた心は赦しを求める。" }
+    ],
+    "warn": [
+      "repentant は『悔い改めた・反省している・改悛した』。動詞 repent（悔い改める）＋ -ant。名詞 repentance。",
+      "反対は unrepentant（反省しない・改悛しない）。remorseful（深く後悔した）と近い。"
+    ],
+    "etym_note": "repent（『悔い改める』、ラテン語 paenitere「後悔させる」より）＋ -ant（『〜している』）から成り、「悔い改めている」を意味します。penance（贖罪）, penitent（悔悛者）と同じ語根です。",
+    "etym_chain": [
+      { "node": "paenitere", "sub": "後悔させる", "era": "ラテン語" },
+      { "node": "repent", "sub": "悔い改める", "era": "中英語" },
+      { "node": "repentant", "sub": "悔い改めた", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "genuinely repentant", "ja": "本当に反省している" },
+      { "en": "a repentant sinner", "ja": "悔い改めた罪人" },
+      { "en": "look repentant", "ja": "反省しているように見える" },
+      { "en": "a repentant heart", "ja": "悔い改めた心" },
+      { "en": "seem repentant", "ja": "反省しているようだ" },
+      { "en": "be repentant about", "ja": "〜を悔い改めている" }
+    ],
+    "related": [
+      { "en": "repent", "ja": "悔い改める" },
+      { "en": "repentance", "ja": "悔い改め" },
+      { "en": "remorseful", "ja": "深く後悔した" },
+      { "en": "unrepentant", "ja": "反省しない（反対）" }
+    ],
+    "faq": [
+      { "q": "repentant とはどんな意味？", "a": "自分の過ちを『悔い改めた・反省している・改悛した』という様子を表す形容詞です。He seemed genuinely repentant.（本当に反省しているようだった）のように使います。動詞は repent です。" },
+      { "q": "repentant と remorseful の違いは？", "a": "remorseful は『（良心が痛むほど）深く後悔している』気持ちに重点、repentant は『（過ちを悔いて）改めようとしている』態度に重点があります。宗教的文脈では repentant がよく使われます。" }
+    ],
+    "quiz": [
+      { "q": "He seemed genuinely ___.（反省している）", "A": "repentant", "B": "reluctant の気が進まない", "C": "important の重要な", "D": "resistant の抵抗する", "correct": "A" },
+      { "q": "repentant の反対語はどれ？", "A": "unrepentant（反省しない）", "B": "reluctant（気が進まない）", "C": "important（重要な）", "D": "resistant（抵抗する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "replaceable",
+    "pron": "rɪˈpleɪsəbl",
+    "kana": "リプレイサブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "replace（取り替える）＋ -able（できる）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "取り替えられる・交換可能な・代わりがきく",
+    "description": "replaceable の意味・発音・例文・語源を解説。部品や人が「取り替えられる・交換可能な・代わりがきく」という様子を表す形容詞の使い方を分かりやすく紹介します。",
+    "keywords": ["replaceable 意味", "replaceable 発音", "交換可能な", "replace 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】取り替えられる・交換可能な・代わりがきく", "note": "別のもの・人と取り替えられる。a replaceable part（交換可能な部品）。反対は irreplaceable（かけがえのない）。" }
+    ],
+    "usages": [
+      { "title": "① 部品の「交換可能な」として", "desc": "取り替えられる部品を表します。", "example_en": "The battery is easily replaceable.", "example_ja": "その電池は簡単に交換できる。" },
+      { "title": "② 人の「代わりがきく」として", "desc": "代替できることを表します。", "example_en": "No one wants to feel replaceable.", "example_ja": "誰も自分が代わりのきく存在だとは感じたくない。" }
+    ],
+    "warn": [
+      "replaceable は『取り替えられる・交換可能な・代わりがきく』。replace（取り替える）＋ -able。",
+      "反対は irreplaceable（かけがえのない・代わりがきかない）。"
+    ],
+    "etym_note": "replace（re-「再び・代わりに」＋ place「置く」＝置き換える）＋ -able（できる）から成り、「置き換えることができる」を意味します。place（場所・置く）と同じ語根です。",
+    "etym_chain": [
+      { "node": "place", "sub": "場所・置く", "era": "中英語" },
+      { "node": "replace", "sub": "取り替える", "era": "近代英語" },
+      { "node": "replaceable", "sub": "取り替えられる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a replaceable part", "ja": "交換可能な部品" },
+      { "en": "easily replaceable", "ja": "簡単に交換できる" },
+      { "en": "a replaceable battery", "ja": "交換できる電池" },
+      { "en": "feel replaceable", "ja": "代わりがきくと感じる" },
+      { "en": "fully replaceable", "ja": "完全に交換可能な" },
+      { "en": "not replaceable", "ja": "交換できない" }
+    ],
+    "related": [
+      { "en": "replace", "ja": "取り替える" },
+      { "en": "replacement", "ja": "交換・後任" },
+      { "en": "interchangeable", "ja": "互換性のある" },
+      { "en": "irreplaceable", "ja": "かけがえのない（反対）" }
+    ],
+    "faq": [
+      { "q": "replaceable とはどんな意味？", "a": "部品や人が『取り替えられる・交換可能な・代わりがきく』という形容詞です。The battery is easily replaceable.（電池は簡単に交換できる）のように使います。" },
+      { "q": "replaceable の反対語は？", "a": "irreplaceable（かけがえのない・代わりがきかない）です。replaceable（代わりがきく）⇔ irreplaceable（かけがえのない）の関係です。" }
+    ],
+    "quiz": [
+      { "q": "The battery is easily ___.（交換可能な）", "A": "replaceable", "B": "remarkable の注目すべき", "C": "reasonable の妥当な", "D": "reliable の信頼できる", "correct": "A" },
+      { "q": "replaceable の反対語はどれ？", "A": "irreplaceable（かけがえのない）", "B": "replacement（交換）", "C": "replaced（交換された）", "D": "replacing（交換すること）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "refinancing",
+    "pron": "ˌriːˈfaɪnænsɪŋ",
+    "kana": "リファイナンシング",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "refinance（借り換える）＋ -ing",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "金融・ビジネス"],
+    "meaning_main": "借り換え・（ローンの）資金の組み直し",
+    "description": "refinancing の意味・発音・例文・語源を解説。既存のローンをより有利な条件の新しいローンに替える「借り換え・資金の組み直し」を表す、金融の名詞を紹介します。",
+    "keywords": ["refinancing 意味", "refinancing 発音", "借り換え", "ローン"],
+    "meanings": [
+      { "hinshi": "【名詞】借り換え・（ローンの）資金の組み直し", "note": "既存の借金を新しい（多くはより有利な）ローンに置き換えること。mortgage refinancing（住宅ローンの借り換え）。動詞は refinance。" }
+    ],
+    "usages": [
+      { "title": "① 「住宅ローンの借り換え」として", "desc": "より有利な条件への組み直しを表します。", "example_en": "Low interest rates led to a wave of refinancing.", "example_ja": "低金利が借り換えの波を引き起こした。" },
+      { "title": "② 企業の「資金の組み直し」として", "desc": "債務の借り換えを表します。", "example_en": "The company is seeking refinancing of its debt.", "example_ja": "その会社は債務の借り換えを模索している。" }
+    ],
+    "warn": [
+      "refinancing は『借り換え・資金の組み直し』。refinance（借り換える）＋ -ing。",
+      "mortgage / debt refinancing（住宅ローン・債務の借り換え）が頻出。金利が下がったときに行うことが多い。"
+    ],
+    "etym_note": "refinance（re-「再び」＋ finance「資金を出す・融資する」、finance「財政・金融」より）＋ -ing から成り、「再び資金を手当てすること＝借り換え」を意味します。",
+    "etym_chain": [
+      { "node": "finance", "sub": "財政・融資する", "era": "近代英語" },
+      { "node": "refinance", "sub": "借り換える", "era": "20世紀英語" },
+      { "node": "refinancing", "sub": "借り換え", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "mortgage refinancing", "ja": "住宅ローンの借り換え" },
+      { "en": "debt refinancing", "ja": "債務の借り換え" },
+      { "en": "a wave of refinancing", "ja": "借り換えの波" },
+      { "en": "seek refinancing", "ja": "借り換えを模索する" },
+      { "en": "refinancing costs", "ja": "借り換え費用" },
+      { "en": "loan refinancing", "ja": "ローンの借り換え" }
+    ],
+    "related": [
+      { "en": "refinance", "ja": "借り換える" },
+      { "en": "mortgage", "ja": "住宅ローン・抵当" },
+      { "en": "loan", "ja": "ローン・融資" },
+      { "en": "interest rate", "ja": "金利" }
+    ],
+    "faq": [
+      { "q": "refinancing とはどんな意味？", "a": "既存のローンを、より有利な条件の新しいローンに置き換える『借り換え・資金の組み直し』のことです。Low interest rates led to a wave of refinancing.（低金利が借り換えの波を引き起こした）のように使います。動詞は refinance です。" },
+      { "q": "refinancing はなぜ行うの？", "a": "主に金利が下がったときに、より低い金利のローンに借り換えて返済負担を減らすために行います。住宅ローン（mortgage refinancing）でよく見られます。" }
+    ],
+    "quiz": [
+      { "q": "Low interest rates led to a wave of ___.（借り換え）", "A": "refinancing", "B": "performance の成績", "C": "appearance の出現", "D": "experience の経験", "correct": "A" },
+      { "q": "refinancing の動詞形はどれ？", "A": "refinance（借り換える）", "B": "perform（行う）", "C": "appear（現れる）", "D": "experience（経験する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "regenerate",
+    "pron": "rɪˈdʒenəreɪt",
+    "kana": "リジェネレイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ generate（生み出す）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "理科・社会"],
+    "meaning_main": "再生する・（組織・細胞が）再びつくられる／（地域を）再生させる",
+    "description": "regenerate の意味・発音・例文・語源を解説。失われた組織や細胞が「再生する」、また衰えた地域・経済を「再生させる」という、生物・社会で使う語を紹介します。",
+    "keywords": ["regenerate 意味", "regenerate 発音", "再生する", "generate 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（組織・細胞が）再生する・再びつくられる", "note": "失われた部分が再び育つ。Lizards can regenerate their tails.（トカゲは尾を再生できる）。" },
+      { "hinshi": "【動詞】（地域・経済を）再生させる・活気づける", "note": "regenerate a run-down area（さびれた地域を再生させる）。名詞は regeneration。" }
+    ],
+    "usages": [
+      { "title": "① 生物「再生する」として", "desc": "失われた部分が再び育つことを表します。", "example_en": "The liver can regenerate itself.", "example_ja": "肝臓は自ら再生することができる。" },
+      { "title": "② 社会「再生させる」として", "desc": "衰えた地域を活気づけることを表します。", "example_en": "The project aims to regenerate the old docks.", "example_ja": "その計画は古い波止場の再生を目指している。" }
+    ],
+    "warn": [
+      "regenerate は『（組織・細胞が）再生する』『（地域・経済を）再生させる』。re-（再び）＋ generate（生み出す）。名詞は regeneration。",
+      "形容詞 regenerative（再生の・回復させる）。urban regeneration（都市再生）が頻出。"
+    ],
+    "etym_note": "re-（再び）＋ generate（『生み出す』、ラテン語 generare「生む」より）から成り、「再び生み出すこと」を意味します。generation（世代）, genesis（起源）と同じ語根です。",
+    "etym_chain": [
+      { "node": "generare", "sub": "生み出す", "era": "ラテン語" },
+      { "node": "generate", "sub": "生み出す", "era": "近代英語" },
+      { "node": "regenerate", "sub": "再生する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "regenerate tissue", "ja": "組織を再生する" },
+      { "en": "regenerate itself", "ja": "自ら再生する" },
+      { "en": "regenerate the area", "ja": "その地域を再生させる" },
+      { "en": "urban regeneration", "ja": "都市再生" },
+      { "en": "regenerate cells", "ja": "細胞を再生する" },
+      { "en": "regenerate a forest", "ja": "森を再生させる" }
+    ],
+    "related": [
+      { "en": "generate", "ja": "生み出す" },
+      { "en": "regeneration", "ja": "再生" },
+      { "en": "regenerative", "ja": "再生の・回復させる" },
+      { "en": "revitalize", "ja": "活気を取り戻させる" }
+    ],
+    "faq": [
+      { "q": "regenerate とはどんな意味？", "a": "失われた組織や細胞が『再生する・再びつくられる』、また衰えた地域・経済を『再生させる・活気づける』という意味です。The liver can regenerate itself.（肝臓は自ら再生できる）のように使います。名詞は regeneration です。" },
+      { "q": "regenerate と generate の違いは？", "a": "generate は『（新しく）生み出す』、regenerate は『（失われたものを）再び生み出す・再生する』です。re-（再び）がつくと『再生』の意味になります。" }
+    ],
+    "quiz": [
+      { "q": "The liver can ___ itself.（再生する）", "A": "regenerate", "B": "generate の最初に生み出す", "C": "tolerate の許容する", "D": "decorate の飾る", "correct": "A" },
+      { "q": "regenerate の名詞形はどれ？", "A": "regeneration（再生）", "B": "generation の最初の世代だけ", "C": "decoration（装飾）", "D": "toleration（許容）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "revisionist",
+    "pron": "rɪˈvɪʒənɪst",
+    "kana": "リビジョニスト",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "revision（改訂・見直し）＋ -ist（〜する人）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "歴史・政治"],
+    "meaning_main": "（歴史などを）見直す・修正主義の／歴史修正主義者",
+    "description": "revisionist の意味・発音・例文・語源を解説。定説となった歴史や理論を「見直す・書き換える（修正主義の）」という形容詞と、「歴史修正主義者」という名詞の使い方を紹介します。",
+    "keywords": ["revisionist 意味", "revisionist 発音", "修正主義", "歴史修正"],
+    "meanings": [
+      { "hinshi": "【形容詞】（定説を）見直す・修正主義の", "note": "通説となった歴史・理論を新たな解釈で書き換えようとする。a revisionist view of history（歴史の修正主義的な見方）。" },
+      { "hinshi": "【名詞】（歴史）修正主義者", "note": "定説を見直そうとする人。しばしば否定的（事実をゆがめる含み）。" }
+    ],
+    "usages": [
+      { "title": "① 形容詞「修正主義の」として", "desc": "定説を見直す立場を表します。", "example_en": "He offered a revisionist account of the war.", "example_ja": "彼はその戦争について修正主義的な説明を示した。" },
+      { "title": "② 名詞「修正主義者」として", "desc": "通説を書き換えようとする人を表します。", "example_en": "Critics dismissed him as a revisionist.", "example_ja": "批評家は彼を修正主義者として退けた。" }
+    ],
+    "warn": [
+      "revisionist は『（歴史などを）見直す・修正主義の』『歴史修正主義者』。revision（改訂・見直し）＋ -ist。",
+      "学問的な『新解釈』の意味と、否定的な『（事実をゆがめる）歴史修正』の意味がある。文脈で判断。"
+    ],
+    "etym_note": "revision（『改訂・見直し』、revise「見直す」、ラテン語 revisere「再び見る」より）＋ -ist（『〜する人・〜主義の』）から成り、「（定説を）見直す立場・人」を意味します。vision（視覚）, visible（見える）と同じ語根です。",
+    "etym_chain": [
+      { "node": "revisere", "sub": "再び見る", "era": "ラテン語" },
+      { "node": "revision", "sub": "改訂・見直し", "era": "近代英語" },
+      { "node": "revisionist", "sub": "修正主義の・修正主義者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a revisionist view", "ja": "修正主義的な見方" },
+      { "en": "a revisionist history", "ja": "修正主義的な歴史（観）" },
+      { "en": "a revisionist account", "ja": "修正主義的な説明" },
+      { "en": "historical revisionism", "ja": "歴史修正主義" },
+      { "en": "dismiss as a revisionist", "ja": "修正主義者として退ける" },
+      { "en": "a revisionist interpretation", "ja": "修正主義的な解釈" }
+    ],
+    "related": [
+      { "en": "revision", "ja": "改訂・見直し" },
+      { "en": "revise", "ja": "見直す・改訂する" },
+      { "en": "revisionism", "ja": "修正主義" },
+      { "en": "orthodox", "ja": "正統な・通説の（対比）" }
+    ],
+    "faq": [
+      { "q": "revisionist とはどんな意味？", "a": "定説となった歴史や理論を新たな解釈で『見直す・書き換える（修正主義の）』という形容詞、また『（歴史）修正主義者』という名詞です。a revisionist view of history（歴史の修正主義的な見方）のように使います。" },
+      { "q": "revisionist は良い意味？悪い意味？", "a": "文脈によります。学問的に『新たな証拠で通説を見直す』前向きな意味のこともありますが、『事実をゆがめて都合よく歴史を書き換える』という否定的な意味で使われることも多い語です。" }
+    ],
+    "quiz": [
+      { "q": "He offered a ___ account of the war.（修正主義的な）", "A": "revisionist", "B": "receptionist の受付係", "C": "specialist の専門家", "D": "tourist の観光客", "correct": "A" },
+      { "q": "revisionist のもとになった名詞はどれ？", "A": "revision（改訂・見直し）", "B": "reception（受付）", "C": "decision（決定）", "D": "vision の視覚だけ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "resurgent",
+    "pron": "rɪˈsɜːrdʒənt",
+    "kana": "リサージェント",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 resurgere（再び立ち上がる）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "やや硬い語"],
+    "meaning_main": "再び勢いを取り戻した・復活しつつある・再興する",
+    "description": "resurgent の意味・発音・例文・語源を解説。衰えていたものが「再び勢いを取り戻した・復活しつつある・再興する」という様子を表す形容詞の使い方を紹介します。",
+    "keywords": ["resurgent 意味", "resurgent 発音", "復活しつつある", "再興する"],
+    "meanings": [
+      { "hinshi": "【形容詞】再び勢いを取り戻した・復活しつつある・再興する", "note": "いったん衰えたものが再び盛り上がる。a resurgent economy（再び勢いづく経済）。名詞は resurgence。" }
+    ],
+    "usages": [
+      { "title": "① 「再び勢いづく」として", "desc": "復活しつつある様子を表します。", "example_en": "The team faces a resurgent rival.", "example_ja": "そのチームは再び勢いを取り戻したライバルに立ち向かう。" },
+      { "title": "② 経済・運動の「再興」として", "desc": "再び盛り上がることを表します。", "example_en": "There is resurgent interest in vinyl records.", "example_ja": "レコードへの関心が再び高まっている。" }
+    ],
+    "warn": [
+      "resurgent は『再び勢いを取り戻した・復活しつつある・再興する』。名詞 resurgence（再興・復活）、動詞 resurge（再び立ち上がる）。",
+      "a resurgent economy / movement / interest（再び勢いづく経済・運動・関心）が頻出。"
+    ],
+    "etym_note": "ラテン語 resurgere（re-「再び」＋ surgere「立ち上がる」）に由来し、「再び立ち上がる＝再興する」を意味します。surge（うねり・急上昇）, insurgent（反乱の）と同じ語根です。",
+    "etym_chain": [
+      { "node": "resurgere", "sub": "再び立ち上がる", "era": "ラテン語" },
+      { "node": "resurgent", "sub": "再興する", "era": "近代英語" },
+      { "node": "resurgent", "sub": "復活しつつある", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a resurgent economy", "ja": "再び勢いづく経済" },
+      { "en": "a resurgent movement", "ja": "再興する運動" },
+      { "en": "resurgent interest", "ja": "再び高まる関心" },
+      { "en": "a resurgent rival", "ja": "勢いを取り戻したライバル" },
+      { "en": "resurgent nationalism", "ja": "再び台頭する国家主義" },
+      { "en": "a resurgent demand", "ja": "再び高まる需要" }
+    ],
+    "related": [
+      { "en": "resurgence", "ja": "再興・復活" },
+      { "en": "revival", "ja": "復活・再生" },
+      { "en": "comeback", "ja": "復活・カムバック" },
+      { "en": "declining", "ja": "衰退しつつある（反対）" }
+    ],
+    "faq": [
+      { "q": "resurgent とはどんな意味？", "a": "いったん衰えていたものが『再び勢いを取り戻した・復活しつつある・再興する』という形容詞です。The team faces a resurgent rival.（再び勢いを取り戻したライバルに立ち向かう）のように使います。名詞は resurgence です。" },
+      { "q": "resurgent と resurgence の違いは？", "a": "resurgent は形容詞『再び勢いづいた・復活しつつある』、resurgence は名詞『再興・復活』です。a resurgent economy（勢いづく経済）／a resurgence of interest（関心の再燃）のように使い分けます。" }
+    ],
+    "quiz": [
+      { "q": "The team faces a ___ rival.（再び勢いを取り戻した）", "A": "resurgent", "B": "resident の居住の", "C": "reluctant の気が進まない", "D": "relevant の関連する", "correct": "A" },
+      { "q": "resurgent の名詞形はどれ？", "A": "resurgence（再興・復活）", "B": "residence（住居）", "C": "reluctance（ためらい）", "D": "relevance（関連性）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rebranding",
+    "pron": "ˌriːˈbrændɪŋ",
+    "kana": "リブランディング",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rebrand（ブランドを一新する）＋ -ing",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "ビジネス・マーケ"],
+    "meaning_main": "ブランド再構築・ブランドの一新（名称・ロゴ・イメージの刷新）",
+    "description": "rebranding の意味・発音・例文・語源を解説。企業や商品の名称・ロゴ・イメージを新しくする「ブランド再構築・ブランドの一新」を表す、マーケティングの名詞を紹介します。",
+    "keywords": ["rebranding 意味", "rebranding 発音", "ブランド再構築", "brand 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】ブランド再構築・ブランドの一新", "note": "企業・商品の名称・ロゴ・イメージなどを新しく作り直すこと。a rebranding campaign（ブランド刷新キャンペーン）。動詞は rebrand。" }
+    ],
+    "usages": [
+      { "title": "① 「ブランドの一新」として", "desc": "イメージの刷新を表します。", "example_en": "The company underwent a major rebranding.", "example_ja": "その会社は大規模なブランド一新を行った。" },
+      { "title": "② マーケティングの文脈で", "desc": "名称・ロゴの刷新を表します。", "example_en": "The rebranding included a new logo and slogan.", "example_ja": "そのブランド再構築には新しいロゴとスローガンが含まれた。" }
+    ],
+    "warn": [
+      "rebranding は『ブランド再構築・ブランドの一新』。rebrand（ブランドを一新する）＋ -ing。re-（再び）＋ brand（ブランド）。",
+      "名称・ロゴ・イメージ・メッセージなどをまとめて刷新する文脈で使う。"
+    ],
+    "etym_note": "rebrand（re-「再び」＋ brand「銘柄・商標」、もとは家畜に押す『焼き印』より）＋ -ing から成り、「ブランドを付け直すこと＝一新」を意味します。",
+    "etym_chain": [
+      { "node": "brand", "sub": "焼き印・銘柄", "era": "古英語・近代英語" },
+      { "node": "rebrand", "sub": "ブランドを一新する", "era": "20世紀英語" },
+      { "node": "rebranding", "sub": "ブランド再構築", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a major rebranding", "ja": "大規模なブランド一新" },
+      { "en": "a rebranding campaign", "ja": "ブランド刷新キャンペーン" },
+      { "en": "undergo rebranding", "ja": "ブランドを一新する" },
+      { "en": "a corporate rebranding", "ja": "企業のブランド再構築" },
+      { "en": "a complete rebranding", "ja": "全面的なブランド刷新" },
+      { "en": "the rebranding effort", "ja": "ブランド再構築の取り組み" }
+    ],
+    "related": [
+      { "en": "rebrand", "ja": "ブランドを一新する" },
+      { "en": "brand", "ja": "ブランド・銘柄" },
+      { "en": "marketing", "ja": "マーケティング" },
+      { "en": "makeover", "ja": "刷新・大変身" }
+    ],
+    "faq": [
+      { "q": "rebranding とはどんな意味？", "a": "企業や商品の名称・ロゴ・イメージなどを新しく作り直す『ブランド再構築・ブランドの一新』のことです。The company underwent a major rebranding.（大規模なブランド一新を行った）のように使います。動詞は rebrand です。" },
+      { "q": "rebranding はなぜ行うの？", "a": "古くなったイメージを刷新したい、悪い評判から脱したい、新しい客層を取り込みたい、合併・方針転換を示したい、などの理由で行われます。名称・ロゴ・メッセージをまとめて新しくします。" }
+    ],
+    "quiz": [
+      { "q": "The company underwent a major ___.（ブランド一新）", "A": "rebranding", "B": "demanding の要求の厳しい", "C": "expanding の拡大する", "D": "understanding の理解", "correct": "A" },
+      { "q": "rebranding の動詞形はどれ？", "A": "rebrand（ブランドを一新する）", "B": "demand（要求する）", "C": "expand（拡大する）", "D": "understand（理解する）", "correct": "A" }
+    ]
+  }
+]

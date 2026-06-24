@@ -1,0 +1,525 @@
+[
+  {
+    "english": "recommendation",
+    "pron": "ˌrekəmenˈdeɪʃən",
+    "kana": "レコメンデイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "recommend（推薦する）＋ -ation（こと）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "頻出語"],
+    "meaning_main": "推薦・推奨・勧め／推薦状・提言",
+    "description": "recommendation の意味・発音・例文・語源を解説。人や物を「推薦・推奨すること」、また「勧め・提言・推薦状」を表す名詞の使い方を分かりやすく紹介します。",
+    "keywords": ["recommendation 意味", "recommendation 発音", "推薦", "おすすめ"],
+    "meanings": [
+      { "hinshi": "【名詞】推薦・推奨・勧め", "note": "よいものとして勧めること。on the recommendation of ～（〜の勧めで）。" },
+      { "hinshi": "【名詞】提言・勧告／推薦状", "note": "公式な助言、または推薦の手紙。a letter of recommendation（推薦状）。" }
+    ],
+    "usages": [
+      { "title": "① 「勧め・おすすめ」として", "desc": "よいものとして勧めることを表します。", "example_en": "I bought this book on a friend's recommendation.", "example_ja": "私は友人の勧めでこの本を買った。" },
+      { "title": "② 「提言・推薦状」として", "desc": "公式な助言や推薦の手紙を表します。", "example_en": "The report made several recommendations.", "example_ja": "その報告書はいくつかの提言を行った。" }
+    ],
+    "warn": [
+      "recommendation は『推薦・推奨・勧め』『提言・推薦状』。動詞 recommend（推薦する）＋ -ation。",
+      "a letter of recommendation（推薦状）, make a recommendation（提言する）が頻出。つづりの m は1つ、c も1つ。"
+    ],
+    "etym_note": "recommend（re-「強意」＋ commend「ほめる・ゆだねる」、ラテン語 commendare より）＋ -ation から成り、「（よいものとして）勧めること」を意味します。commend（称賛する）と同じ語根です。",
+    "etym_chain": [
+      { "node": "commendare", "sub": "ゆだねる・ほめる", "era": "ラテン語" },
+      { "node": "recommend", "sub": "推薦する", "era": "中英語" },
+      { "node": "recommendation", "sub": "推薦・提言", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "on the recommendation of", "ja": "〜の勧めで" },
+      { "en": "a letter of recommendation", "ja": "推薦状" },
+      { "en": "make a recommendation", "ja": "提言する・推薦する" },
+      { "en": "follow a recommendation", "ja": "勧めに従う" },
+      { "en": "a strong recommendation", "ja": "強い推薦" },
+      { "en": "dietary recommendations", "ja": "食事の推奨事項" }
+    ],
+    "related": [
+      { "en": "recommend", "ja": "推薦する" },
+      { "en": "suggestion", "ja": "提案" },
+      { "en": "advice", "ja": "助言" },
+      { "en": "endorsement", "ja": "推奨・支持" }
+    ],
+    "faq": [
+      { "q": "recommendation とはどんな意味？", "a": "人や物を『推薦・推奨すること・勧め』、また『提言・勧告・推薦状』という意味です。I bought this book on a friend's recommendation.（友人の勧めで買った）のように使います。動詞は recommend です。" },
+      { "q": "a letter of recommendation とは？", "a": "『推薦状』のことです。進学・就職などで、教師や上司が応募者の能力や人柄を推薦する手紙を指します。" }
+    ],
+    "quiz": [
+      { "q": "I bought this book on a friend's ___.（勧め）", "A": "recommendation", "B": "reservation の予約", "C": "celebration の祝賀", "D": "decoration の装飾", "correct": "A" },
+      { "q": "recommendation の動詞形はどれ？", "A": "recommend（推薦する）", "B": "reserve（予約する）", "C": "celebrate（祝う）", "D": "decorate（飾る）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "redefine",
+    "pron": "ˌriːdɪˈfaɪn",
+    "kana": "リディファイン",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ define（定義する）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "定義し直す・とらえ直す・刷新する",
+    "description": "redefine の意味・発音・例文・語源を解説。言葉や概念を「定義し直す」、また役割・基準を「とらえ直す・刷新する」という使い方を分かりやすく紹介します。",
+    "keywords": ["redefine 意味", "redefine 発音", "定義し直す", "define 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】定義し直す・とらえ直す・刷新する", "note": "意味・役割・基準を新たに定め直す。redefine success（成功をとらえ直す）。redefine the role（役割を再定義する）。名詞は redefinition。" }
+    ],
+    "usages": [
+      { "title": "① 「定義し直す」として", "desc": "意味を新たに定めることを表します。", "example_en": "We need to redefine what success means.", "example_ja": "成功とは何かを定義し直す必要がある。" },
+      { "title": "② 「刷新する」として", "desc": "役割や基準を一新することを表します。", "example_en": "The smartphone redefined how we communicate.", "example_ja": "スマートフォンは私たちの伝え方を一新した。" }
+    ],
+    "warn": [
+      "redefine は『定義し直す・とらえ直す・刷新する』。re-（再び）＋ define。名詞は redefinition。",
+      "比喩で『（常識・基準を）塗り替える』という前向きな意味でもよく使う。"
+    ],
+    "etym_note": "re-（再び）＋ define（定義する、ラテン語 definire「境界を定める」より、finis「終わり・境界」）から成り、「再び意味の境界を定めること」を意味します。final（最後の）, finite（有限の）と同じ語根です。",
+    "etym_chain": [
+      { "node": "definire", "sub": "境界を定める", "era": "ラテン語" },
+      { "node": "define", "sub": "定義する", "era": "中英語" },
+      { "node": "redefine", "sub": "定義し直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "redefine success", "ja": "成功をとらえ直す" },
+      { "en": "redefine the role", "ja": "役割を再定義する" },
+      { "en": "redefine the relationship", "ja": "関係をとらえ直す" },
+      { "en": "redefine the term", "ja": "用語を定義し直す" },
+      { "en": "redefine the boundaries", "ja": "境界を引き直す" },
+      { "en": "redefine an industry", "ja": "業界を一新する" }
+    ],
+    "related": [
+      { "en": "define", "ja": "定義する" },
+      { "en": "redefinition", "ja": "再定義" },
+      { "en": "reshape", "ja": "作り変える" },
+      { "en": "transform", "ja": "一変させる" }
+    ],
+    "faq": [
+      { "q": "redefine とはどんな意味？", "a": "言葉や概念を『定義し直す』、また役割・基準を『とらえ直す・刷新する』という意味です。We need to redefine what success means.（成功を定義し直す必要がある）のように使います。名詞は redefinition です。" },
+      { "q": "redefine は前向きな意味でも使う？", "a": "はい。『（常識や基準を）塗り替える・刷新する』という前向きな比喩でよく使います。The smartphone redefined communication.（スマホがコミュニケーションを一新した）のように、革新を表します。" }
+    ],
+    "quiz": [
+      { "q": "We need to ___ what success means.（定義し直す）", "A": "redefine", "B": "define の最初に定義する", "C": "decline の断る", "D": "design の設計する", "correct": "A" },
+      { "q": "redefine の名詞形はどれ？", "A": "redefinition（再定義）", "B": "decline（衰退）", "C": "design（設計）", "D": "definition の最初の定義だけ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "regardless",
+    "pron": "rɪˈɡɑːrdləs",
+    "kana": "リガードレス",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "regard（注意・配慮）＋ -less（〜なしに）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "頻出語"],
+    "meaning_main": "（〜に）かまわず・かかわらず／それでもなお",
+    "description": "regardless の意味・発音・例文・語源を解説。regardless of で「〜にかかわらず」、また単独で「それでもかまわず」という、頻出の副詞の使い方を分かりやすく紹介します。",
+    "keywords": ["regardless 意味", "regardless 発音", "かかわらず", "regardless of"],
+    "meanings": [
+      { "hinshi": "【副詞】(regardless of で)〜にかかわらず・〜に関係なく", "note": "regardless of age（年齢に関係なく）。条件・困難を問わず。" },
+      { "hinshi": "【副詞】それでもなお・かまわず", "note": "単独で『何があろうと・とにかく』。He went ahead regardless.（彼はかまわず進めた）。" }
+    ],
+    "usages": [
+      { "title": "① regardless of として", "desc": "「〜に関係なく」を表します。", "example_en": "Everyone is welcome regardless of age.", "example_ja": "年齢に関係なく誰でも歓迎だ。" },
+      { "title": "② 単独「かまわず」として", "desc": "何があろうと進める様子を表します。", "example_en": "It was raining, but they played on regardless.", "example_ja": "雨だったが、彼らはかまわずプレーを続けた。" }
+    ],
+    "warn": [
+      "regardless は『（regardless of で）〜にかかわらず』『それでもかまわず』。regard（配慮）＋ -less（〜なしに）。",
+      "×irregardless は非標準（誤用）。正しくは regardless。"
+    ],
+    "etym_note": "regard（『注意・配慮』、古フランス語 regarder「見る・気にかける」より）＋ -less（『〜なしに』を表す語尾）から成り、「（〜を）気にかけずに」を意味します。",
+    "etym_chain": [
+      { "node": "regarder", "sub": "見る・気にかける", "era": "古フランス語" },
+      { "node": "regard", "sub": "注意・配慮", "era": "中英語" },
+      { "node": "regardless", "sub": "かかわらず", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "regardless of age", "ja": "年齢に関係なく" },
+      { "en": "regardless of cost", "ja": "費用にかかわらず" },
+      { "en": "regardless of the weather", "ja": "天気にかまわず" },
+      { "en": "regardless of race or gender", "ja": "人種や性別に関係なく" },
+      { "en": "carry on regardless", "ja": "かまわず続ける" },
+      { "en": "regardless of the consequences", "ja": "結果にかまわず" }
+    ],
+    "related": [
+      { "en": "regard", "ja": "注意・配慮・見なす" },
+      { "en": "irrespective", "ja": "〜に関係なく" },
+      { "en": "notwithstanding", "ja": "〜にもかかわらず" },
+      { "en": "anyway", "ja": "とにかく" }
+    ],
+    "faq": [
+      { "q": "regardless とはどんな意味？", "a": "regardless of で『〜にかかわらず・〜に関係なく』、単独で『それでもかまわず・とにかく』という意味です。Everyone is welcome regardless of age.（年齢に関係なく歓迎）のように使います。" },
+      { "q": "irregardless は正しい？", "a": "いいえ、irregardless は非標準（誤用）とされます。否定の ir- と -less が重複しているためです。正しくは regardless を使いましょう。" }
+    ],
+    "quiz": [
+      { "q": "Everyone is welcome ___ of age.（〜に関係なく）", "A": "regardless", "B": "regarding の〜に関して", "C": "regards の敬具", "D": "regard の配慮", "correct": "A" },
+      { "q": "regardless と同じ意味に近い語はどれ？", "A": "irrespective（〜に関係なく）", "B": "regarding（〜に関して）", "C": "regretful（後悔した）", "D": "regular（規則的な）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reforestation",
+    "pron": "riːˌfɒrɪˈsteɪʃən",
+    "kana": "リフォレステイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ forest（森）＋ -ation",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "環境"],
+    "meaning_main": "森林再生・植林（伐採された土地に木を植え直すこと）",
+    "description": "reforestation の意味・発音・例文・語源を解説。伐採や火災で失われた森に再び木を植える「森林再生・再植林」を表す、環境の話題で使う名詞を紹介します。",
+    "keywords": ["reforestation 意味", "reforestation 発音", "森林再生", "植林"],
+    "meanings": [
+      { "hinshi": "【名詞】森林再生・再植林", "note": "失われた森林に再び木を植えて回復させること。a reforestation project（植林計画）。動詞は reforest。" }
+    ],
+    "usages": [
+      { "title": "① 「森林再生」として", "desc": "森を回復させる取り組みを表します。", "example_en": "Reforestation helps fight climate change.", "example_ja": "森林再生は気候変動対策に役立つ。" },
+      { "title": "② 環境計画の文脈で", "desc": "植林事業を表します。", "example_en": "The government launched a reforestation program.", "example_ja": "政府は植林計画を立ち上げた。" }
+    ],
+    "warn": [
+      "reforestation は『森林再生・再植林』（失われた森に植え直す）。re-（再び）＋ forest＋-ation。動詞は reforest。",
+      "afforestation（もともと森でない土地への新規植林）と区別。反対は deforestation（森林伐採）。"
+    ],
+    "etym_note": "re-（再び）＋ forest（森、ラテン語 foris「外」より）＋ -ation から成り、「再び森にすること」を意味します。deforestation（森林伐採）と対になります。",
+    "etym_chain": [
+      { "node": "forest", "sub": "森", "era": "中英語" },
+      { "node": "reforest", "sub": "再び森にする", "era": "近代英語" },
+      { "node": "reforestation", "sub": "森林再生", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a reforestation project", "ja": "植林計画" },
+      { "en": "a reforestation program", "ja": "森林再生プログラム" },
+      { "en": "large-scale reforestation", "ja": "大規模な植林" },
+      { "en": "reforestation efforts", "ja": "森林再生の取り組み" },
+      { "en": "promote reforestation", "ja": "森林再生を進める" },
+      { "en": "reforestation and conservation", "ja": "植林と保全" }
+    ],
+    "related": [
+      { "en": "reforest", "ja": "再び森にする" },
+      { "en": "deforestation", "ja": "森林伐採（反対）" },
+      { "en": "afforestation", "ja": "（新規）植林" },
+      { "en": "conservation", "ja": "保全" }
+    ],
+    "faq": [
+      { "q": "reforestation とはどんな意味？", "a": "伐採や火災で失われた森に再び木を植えて回復させる『森林再生・再植林』のことです。Reforestation helps fight climate change.（森林再生は気候変動対策に役立つ）のように使います。" },
+      { "q": "reforestation と afforestation の違いは？", "a": "reforestation は『（もともと森だった土地に）植え直す＝森林再生』、afforestation は『（もともと森でない土地に）新たに森をつくる＝新規植林』です。反対は deforestation（森林伐採）です。" }
+    ],
+    "quiz": [
+      { "q": "___ helps fight climate change.（森林再生）", "A": "Reforestation", "B": "Deforestation の森林伐採", "C": "Reservation の予約", "D": "Restoration の修復", "correct": "A" },
+      { "q": "reforestation の反対語はどれ？", "A": "deforestation（森林伐採）", "B": "afforestation（新規植林）", "C": "conservation（保全）", "D": "restoration（修復）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "refractive",
+    "pron": "rɪˈfræktɪv",
+    "kana": "リフラクティブ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "refract（屈折させる）＋ -ive",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "理科・物理"],
+    "meaning_main": "屈折の・屈折させる（光を曲げる）",
+    "description": "refractive の意味・発音・例文・語源を解説。光を曲げる「屈折の・屈折させる」という性質を表す形容詞と、屈折率（refractive index）の使い方を紹介します。",
+    "keywords": ["refractive 意味", "refractive 発音", "屈折の", "屈折率"],
+    "meanings": [
+      { "hinshi": "【形容詞】屈折の・屈折させる", "note": "光などを屈折させる性質の。the refractive index（屈折率）。refractive errors（屈折異常＝近視・遠視など）。" }
+    ],
+    "usages": [
+      { "title": "① 「屈折率」として", "desc": "光の曲がりやすさを表します。", "example_en": "Diamond has a high refractive index.", "example_ja": "ダイヤモンドは高い屈折率を持つ。" },
+      { "title": "② 医学「屈折異常」として", "desc": "目のピントの異常を表します。", "example_en": "Glasses correct refractive errors.", "example_ja": "眼鏡は屈折異常（近視など）を矯正する。" }
+    ],
+    "warn": [
+      "refractive は『屈折の・屈折させる』。動詞 refract（屈折させる）、名詞 refraction（屈折）。",
+      "refractive index（屈折率）, refractive error（屈折異常）が頻出。reflective（反射の）と混同注意。"
+    ],
+    "etym_note": "refract（屈折させる、ラテン語 refringere「砕く・曲げる」より）＋ -ive（性質を表す語尾）から成り、「屈折させる性質の」を意味します。fracture（骨折）と同じ語根です。",
+    "etym_chain": [
+      { "node": "refringere", "sub": "砕く・曲げる", "era": "ラテン語" },
+      { "node": "refract", "sub": "屈折させる", "era": "近代英語" },
+      { "node": "refractive", "sub": "屈折の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the refractive index", "ja": "屈折率" },
+      { "en": "a high refractive index", "ja": "高い屈折率" },
+      { "en": "refractive error", "ja": "屈折異常（近視・遠視など）" },
+      { "en": "refractive surgery", "ja": "屈折矯正手術（レーシックなど）" },
+      { "en": "refractive properties", "ja": "屈折特性" },
+      { "en": "a refractive medium", "ja": "屈折させる媒質" }
+    ],
+    "related": [
+      { "en": "refract", "ja": "屈折させる" },
+      { "en": "refraction", "ja": "屈折" },
+      { "en": "reflective", "ja": "反射の" },
+      { "en": "lens", "ja": "レンズ" }
+    ],
+    "faq": [
+      { "q": "refractive とはどんな意味？", "a": "光などを曲げる『屈折の・屈折させる』という性質を表す形容詞です。Diamond has a high refractive index.（ダイヤモンドは高い屈折率を持つ）のように使います。名詞は refraction（屈折）です。" },
+      { "q": "refractive error とは？", "a": "『屈折異常』のことで、目に入る光が網膜上で正しく結像しない状態です。近視・遠視・乱視がこれにあたり、眼鏡やコンタクト、屈折矯正手術で補正します。" }
+    ],
+    "quiz": [
+      { "q": "Diamond has a high ___ index.（屈折の）", "A": "refractive", "B": "reflective の反射の", "C": "respective のそれぞれの", "D": "productive の生産的な", "correct": "A" },
+      { "q": "refractive の名詞形はどれ？", "A": "refraction（屈折）", "B": "reflection（反射）", "C": "reaction（反応）", "D": "production（生産）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "refutation",
+    "pron": "ˌrefjuˈteɪʃən",
+    "kana": "レフュテイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "refute（反論する・論破する）＋ -ation（こと）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "議論・学術"],
+    "meaning_main": "反論・論駁（ろんばく）・誤りの証明",
+    "description": "refutation の意味・発音・例文・語源を解説。相手の主張が誤りであることを示す「反論・論駁・誤りの証明」を表す、議論や学術で使う名詞を紹介します。",
+    "keywords": ["refutation 意味", "refutation 発音", "反論", "論駁"],
+    "meanings": [
+      { "hinshi": "【名詞】反論・論駁・誤りの証明", "note": "主張や説が誤りであることを証拠・論理で示すこと。a convincing refutation（説得力のある反論）。動詞は refute。" }
+    ],
+    "usages": [
+      { "title": "① 「反論・論駁」として", "desc": "誤りを示すことを表します。", "example_en": "She offered a clear refutation of his argument.", "example_ja": "彼女は彼の主張への明確な反論を示した。" },
+      { "title": "② 学術の文脈で", "desc": "説の誤りを証明することを表します。", "example_en": "The experiment was a refutation of the old theory.", "example_ja": "その実験は古い理論の反証だった。" }
+    ],
+    "warn": [
+      "refutation は『反論・論駁・誤りの証明』。動詞 refute（反論する・論破する）＋ -ation。",
+      "単なる反対（objection）より強く、『（証拠・論理で）誤りを示す』ニュアンス。"
+    ],
+    "etym_note": "refute（『反論する・論破する』、ラテン語 refutare「押し返す・退ける」より）＋ -ation から成り、「（主張を）退けること＝反論」を意味します。",
+    "etym_chain": [
+      { "node": "refutare", "sub": "押し返す・退ける", "era": "ラテン語" },
+      { "node": "refute", "sub": "反論する・論破する", "era": "近代英語" },
+      { "node": "refutation", "sub": "反論・論駁", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a convincing refutation", "ja": "説得力のある反論" },
+      { "en": "a clear refutation", "ja": "明確な反論" },
+      { "en": "offer a refutation", "ja": "反論を示す" },
+      { "en": "a refutation of the theory", "ja": "その理論の反証" },
+      { "en": "point-by-point refutation", "ja": "一点一点の反論" },
+      { "en": "beyond refutation", "ja": "反論の余地なく" }
+    ],
+    "related": [
+      { "en": "refute", "ja": "反論する・論破する" },
+      { "en": "rebuttal", "ja": "反論・反証" },
+      { "en": "counterargument", "ja": "反論・反対意見" },
+      { "en": "disproof", "ja": "反証" }
+    ],
+    "faq": [
+      { "q": "refutation とはどんな意味？", "a": "相手の主張や説が誤りであることを、証拠や論理で示す『反論・論駁・誤りの証明』のことです。She offered a clear refutation of his argument.（彼の主張への明確な反論を示した）のように使います。動詞は refute です。" },
+      { "q": "refutation と rebuttal の違いは？", "a": "どちらも『反論』ですが、refutation は『（主張が誤りだと）論証して退けること』、rebuttal は『（とくに討論・裁判で）相手の主張に対し示す反証・反論』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "She offered a clear ___ of his argument.（反論）", "A": "refutation", "B": "reputation の評判", "C": "reservation の予約", "D": "recitation の暗唱", "correct": "A" },
+      { "q": "refutation の動詞形はどれ？", "A": "refute（反論する・論破する）", "B": "repute（評する）", "C": "reserve（予約する）", "D": "recite（暗唱する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "regenerative",
+    "pron": "rɪˈdʒenərətɪv",
+    "kana": "リジェネラティブ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "regenerate（再生する）＋ -ive",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "理科・環境"],
+    "meaning_main": "再生する・再生力のある・回復させる",
+    "description": "regenerative の意味・発音・例文・語源を解説。失われた組織を「再生する」、エネルギーを「回収・回生する」、土地を「回復させる」という、医学・技術・環境で使う形容詞を紹介します。",
+    "keywords": ["regenerative 意味", "regenerative 発音", "再生", "回生"],
+    "meanings": [
+      { "hinshi": "【形容詞】再生する・再生力のある・回復させる", "note": "失われたものを再びつくり出す・回復させる性質の。regenerative medicine（再生医療）。regenerative braking（回生ブレーキ）。regenerative agriculture（環境再生型農業）。" }
+    ],
+    "usages": [
+      { "title": "① 医学「再生の」として", "desc": "組織を再生させることを表します。", "example_en": "Regenerative medicine can repair damaged tissue.", "example_ja": "再生医療は損傷した組織を修復できる。" },
+      { "title": "② 技術・環境「回復させる」として", "desc": "エネルギー回収や土壌回復を表します。", "example_en": "Electric cars use regenerative braking.", "example_ja": "電気自動車は回生ブレーキを使う。" }
+    ],
+    "warn": [
+      "regenerative は『再生する・再生力のある・回復させる』。動詞 regenerate（再生する）＋ -ive。名詞 regeneration（再生）。",
+      "regenerative medicine（再生医療）, regenerative braking（回生ブレーキ）, regenerative agriculture（環境再生型農業）が頻出。"
+    ],
+    "etym_note": "regenerate（re-「再び」＋ generate「生み出す」、ラテン語 generare より）＋ -ive から成り、「再び生み出す性質の」を意味します。generate（生成する）, genesis（起源）と同じ語根です。",
+    "etym_chain": [
+      { "node": "generare", "sub": "生み出す", "era": "ラテン語" },
+      { "node": "regenerate", "sub": "再生する", "era": "近代英語" },
+      { "node": "regenerative", "sub": "再生の・回復させる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "regenerative medicine", "ja": "再生医療" },
+      { "en": "regenerative braking", "ja": "回生ブレーキ" },
+      { "en": "regenerative agriculture", "ja": "環境再生型農業" },
+      { "en": "regenerative energy", "ja": "回生エネルギー" },
+      { "en": "regenerative power", "ja": "再生力" },
+      { "en": "a regenerative process", "ja": "再生の過程" }
+    ],
+    "related": [
+      { "en": "regenerate", "ja": "再生する" },
+      { "en": "regeneration", "ja": "再生" },
+      { "en": "renewable", "ja": "再生可能な" },
+      { "en": "restorative", "ja": "回復させる" }
+    ],
+    "faq": [
+      { "q": "regenerative とはどんな意味？", "a": "失われたものを再びつくり出す『再生する・再生力のある・回復させる』という形容詞です。regenerative medicine（再生医療）、regenerative braking（回生ブレーキ）のように、医学・技術・環境で幅広く使います。" },
+      { "q": "regenerative braking とは？", "a": "『回生ブレーキ』のことです。電気自動車などで、ブレーキ時の運動エネルギーを電気として回収し、バッテリーに戻す仕組みです。エネルギーを再生（回生）させることからこう呼ばれます。" }
+    ],
+    "quiz": [
+      { "q": "___ medicine can repair damaged tissue.（再生の）", "A": "Regenerative", "B": "Generative の生成の", "C": "Decorative の装飾的な", "D": "Comparative の比較の", "correct": "A" },
+      { "q": "regenerative の名詞形はどれ？", "A": "regeneration（再生）", "B": "generation の最初の世代だけ", "C": "decoration（装飾）", "D": "comparison（比較）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "regimen",
+    "pron": "ˈredʒɪmən",
+    "kana": "レジメン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 regimen（統治・規律）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "健康・医学"],
+    "meaning_main": "（健康・治療のための）規則正しい計画・養生法・摂生",
+    "description": "regimen の意味・発音・例文・語源を解説。健康や治療のために定めた食事・運動・服薬などの「規則正しい計画・養生法・摂生」を表す名詞を分かりやすく紹介します。",
+    "keywords": ["regimen 意味", "regimen 発音", "養生法", "摂生"],
+    "meanings": [
+      { "hinshi": "【名詞】（健康・治療のための）規則正しい計画・養生法・摂生", "note": "食事・運動・服薬などを定めた計画。a daily exercise regimen（毎日の運動メニュー）。a treatment regimen（治療計画）。" }
+    ],
+    "usages": [
+      { "title": "① 健康の「養生法」として", "desc": "規則正しい計画を表します。", "example_en": "She follows a strict diet and exercise regimen.", "example_ja": "彼女は厳しい食事と運動の計画を守っている。" },
+      { "title": "② 治療の「計画」として", "desc": "医学的な投薬計画を表します。", "example_en": "The doctor prescribed a new drug regimen.", "example_ja": "医師は新しい投薬計画を処方した。" }
+    ],
+    "warn": [
+      "regimen は『（健康・治療のための）規則正しい計画・養生法』。a treatment / exercise / skincare regimen が頻出。",
+      "regime（政治体制）, regiment（連隊）と混同注意。regimen は健康・治療の計画。"
+    ],
+    "etym_note": "ラテン語 regimen（『統治・規律』、regere「治める」より）に由来し、「（体を）規律正しく管理すること＝養生法」を意味します。regime（体制）, regular（規則的な）と同じ語根です。",
+    "etym_chain": [
+      { "node": "regere", "sub": "治める", "era": "ラテン語" },
+      { "node": "regimen", "sub": "統治・規律", "era": "ラテン語" },
+      { "node": "regimen", "sub": "養生法・規則正しい計画", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a daily regimen", "ja": "毎日の（健康）計画" },
+      { "en": "an exercise regimen", "ja": "運動メニュー" },
+      { "en": "a treatment regimen", "ja": "治療計画" },
+      { "en": "a skincare regimen", "ja": "スキンケアの手順" },
+      { "en": "a strict regimen", "ja": "厳格な養生法" },
+      { "en": "follow a regimen", "ja": "計画を守る" }
+    ],
+    "related": [
+      { "en": "regime", "ja": "体制・（食事などの）方式" },
+      { "en": "routine", "ja": "日課・決まった手順" },
+      { "en": "diet", "ja": "食事療法" },
+      { "en": "program", "ja": "計画・プログラム" }
+    ],
+    "faq": [
+      { "q": "regimen とはどんな意味？", "a": "健康や治療のために定めた食事・運動・服薬などの『規則正しい計画・養生法・摂生』のことです。She follows a strict diet and exercise regimen.（厳しい食事と運動の計画を守っている）のように使います。" },
+      { "q": "regimen と regime の違いは？", "a": "regimen は『（健康・治療の）規則正しい計画・養生法』、regime は『（政治の）体制』が主な意味です（食事などの『方式』の意味もあります）。つづりと意味に注意しましょう。" }
+    ],
+    "quiz": [
+      { "q": "She follows a strict diet and exercise ___.（計画・養生法）", "A": "regimen", "B": "regiment の連隊", "C": "regime の政治体制", "D": "region の地域", "correct": "A" },
+      { "q": "regimen はどんな場面で使う？", "A": "健康・治療のための規則正しい計画", "B": "政治の体制", "C": "軍の部隊", "D": "地理の地域", "correct": "A" }
+    ]
+  },
+  {
+    "english": "regularity",
+    "pron": "ˌreɡjuˈlærəti",
+    "kana": "レギュラリティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "regular（規則的な）＋ -ity（性質）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "規則正しさ・規則性・一定間隔で起こること",
+    "description": "regularity の意味・発音・例文・語源を解説。物事が一定の間隔やパターンで起こる「規則正しさ・規則性」を表す名詞の使い方を分かりやすく紹介します。",
+    "keywords": ["regularity 意味", "regularity 発音", "規則性", "規則正しさ"],
+    "meanings": [
+      { "hinshi": "【名詞】規則正しさ・規則性・一定間隔で起こること", "note": "一定のパターン・間隔で繰り返されること。with regularity（規則正しく）。the regularity of the seasons（季節のめぐりの規則性）。" }
+    ],
+    "usages": [
+      { "title": "① 「規則正しさ」として", "desc": "一定間隔で起こることを表します。", "example_en": "Buses arrive with great regularity.", "example_ja": "バスはとても規則正しく到着する。" },
+      { "title": "② 「規則性」として", "desc": "パターンの一定さを表します。", "example_en": "The regularity of his habits surprised me.", "example_ja": "彼の習慣の規則正しさには驚いた。" }
+    ],
+    "warn": [
+      "regularity は『規則正しさ・規則性・一定間隔』。形容詞 regular（規則的な）＋ -ity。反対は irregularity（不規則・不規則性）。",
+      "with regularity（規則正しく）= regularly。"
+    ],
+    "etym_note": "regular（『規則的な』、ラテン語 regula「規則・ものさし」より）＋ -ity（性質を表す語尾）から成り、「規則正しい性質」を意味します。rule（規則）, regulate（規制する）と同じ語根です。",
+    "etym_chain": [
+      { "node": "regula", "sub": "規則・ものさし", "era": "ラテン語" },
+      { "node": "regular", "sub": "規則的な", "era": "中英語" },
+      { "node": "regularity", "sub": "規則正しさ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "with regularity", "ja": "規則正しく" },
+      { "en": "with monotonous regularity", "ja": "判で押したように" },
+      { "en": "the regularity of the seasons", "ja": "季節のめぐりの規則性" },
+      { "en": "a sense of regularity", "ja": "規則正しさの感覚" },
+      { "en": "the regularity of his routine", "ja": "彼の日課の規則正しさ" },
+      { "en": "occur with regularity", "ja": "規則正しく起こる" }
+    ],
+    "related": [
+      { "en": "regular", "ja": "規則的な" },
+      { "en": "consistency", "ja": "一貫性" },
+      { "en": "periodicity", "ja": "周期性" },
+      { "en": "irregularity", "ja": "不規則（反対）" }
+    ],
+    "faq": [
+      { "q": "regularity とはどんな意味？", "a": "物事が一定の間隔やパターンで起こる『規則正しさ・規則性』のことです。Buses arrive with great regularity.（バスはとても規則正しく到着する）のように使います。" },
+      { "q": "with regularity とはどんな意味？", "a": "『規則正しく・定期的に』という意味で、regularly とほぼ同じです。with monotonous regularity（判で押したように・うんざりするほど規則正しく）という言い方もあります。" }
+    ],
+    "quiz": [
+      { "q": "Buses arrive with great ___.（規則正しさ）", "A": "regularity", "B": "popularity の人気", "C": "similarity の類似", "D": "security の安全", "correct": "A" },
+      { "q": "regularity の反対語はどれ？", "A": "irregularity（不規則）", "B": "popularity（人気）", "C": "similarity（類似）", "D": "security（安全）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "regression",
+    "pron": "rɪˈɡreʃən",
+    "kana": "リグレッション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 regredi（後戻りする）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "心理・統計"],
+    "meaning_main": "後退・退行（前の状態に逆戻りすること）／（統計の）回帰",
+    "description": "regression の意味・発音・例文・語源を解説。前の状態への「後退・退行」という意味と、統計学の「回帰（分析）」という意味を持つ名詞の使い方を紹介します。",
+    "keywords": ["regression 意味", "regression 発音", "後退", "回帰分析"],
+    "meanings": [
+      { "hinshi": "【名詞】後退・退行・逆戻り", "note": "より前の（しばしば未熟な）状態に戻ること。心理学では『退行』。a regression to childish behavior（子どもじみた行動への退行）。" },
+      { "hinshi": "【名詞】(統計)回帰", "note": "変数間の関係を式で表す手法。regression analysis（回帰分析）。" }
+    ],
+    "usages": [
+      { "title": "① 「後退・退行」として", "desc": "前の状態への逆戻りを表します。", "example_en": "The patient showed a regression to earlier symptoms.", "example_ja": "その患者は以前の症状への後戻りを見せた。" },
+      { "title": "② 統計の「回帰」として", "desc": "変数の関係を分析する手法を表します。", "example_en": "They used regression analysis to find the trend.", "example_ja": "彼らは傾向を見つけるため回帰分析を用いた。" }
+    ],
+    "warn": [
+      "regression は『後退・退行・逆戻り』と、統計の『回帰（regression analysis 回帰分析）』。動詞 regress（後戻りする）、形容詞 regressive。",
+      "progression（前進・進歩）の反対。心理学では『退行』、ITでは『（不具合の）再発（regression bug）』も。"
+    ],
+    "etym_note": "ラテン語 regredi（re-「後ろへ」＋ gradi「歩む」）に由来し、「後ろへ歩むこと＝後退」を意味します。progress（前進）, grade（段階）と同じ語根です。",
+    "etym_chain": [
+      { "node": "regredi", "sub": "後戻りする", "era": "ラテン語" },
+      { "node": "regression", "sub": "後退", "era": "近代英語" },
+      { "node": "regression", "sub": "後退・退行・回帰", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "regression analysis", "ja": "回帰分析" },
+      { "en": "a regression to", "ja": "〜への後退・退行" },
+      { "en": "linear regression", "ja": "線形回帰" },
+      { "en": "emotional regression", "ja": "感情的な退行" },
+      { "en": "a regression in behavior", "ja": "行動の退行" },
+      { "en": "a regression bug", "ja": "（再発した）不具合・デグレ" }
+    ],
+    "related": [
+      { "en": "regress", "ja": "後戻りする・退行する" },
+      { "en": "regressive", "ja": "後退的な・退行的な" },
+      { "en": "progression", "ja": "前進・進歩（反対）" },
+      { "en": "relapse", "ja": "（病気の）ぶり返し" }
+    ],
+    "faq": [
+      { "q": "regression とはどんな意味？", "a": "前の（しばしば未熟な）状態に戻る『後退・退行・逆戻り』という意味と、統計学で変数の関係を表す『回帰（回帰分析）』という意味があります。動詞は regress、形容詞は regressive です。" },
+      { "q": "regression と progression の違いは？", "a": "regression は『後退・退行（後ろに戻ること）』、progression は『前進・進歩（前に進むこと）』で、反対の意味です。re-（後ろへ）と pro-（前へ）の違いから来ています。" }
+    ],
+    "quiz": [
+      { "q": "They used ___ analysis to find the trend.（回帰）", "A": "regression", "B": "progression の前進", "C": "expression の表現", "D": "impression の印象", "correct": "A" },
+      { "q": "regression の反対語はどれ？", "A": "progression（前進・進歩）", "B": "expression（表現）", "C": "impression（印象）", "D": "depression（憂うつ）", "correct": "A" }
+    ]
+  }
+]

@@ -1,0 +1,527 @@
+[
+  {
+    "english": "refrigerate",
+    "pron": "rɪˈfrɪdʒəreɪt",
+    "kana": "リフリジェレイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 refrigerare（冷やす）より",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "日常・料理"],
+    "meaning_main": "冷蔵する・冷やして保存する",
+    "description": "refrigerate の意味・発音・例文・語源を解説。食品などを「冷蔵する・冷やして保存する」という、料理や日常で使う動詞の使い方を分かりやすく紹介します。",
+    "keywords": ["refrigerate 意味", "refrigerate 発音", "冷蔵する", "冷やす"],
+    "meanings": [
+      { "hinshi": "【動詞】冷蔵する・冷やして保存する", "note": "冷蔵庫などで低温に保つ。Refrigerate after opening.（開封後は冷蔵してください）。" }
+    ],
+    "usages": [
+      { "title": "① 「冷蔵する」として", "desc": "食品を冷やして保存することを表します。", "example_en": "Refrigerate the leftovers within two hours.", "example_ja": "残り物は2時間以内に冷蔵しなさい。" },
+      { "title": "② 保存表示として", "desc": "開封後の保存方法を表します。", "example_en": "Keep refrigerated and use within three days.", "example_ja": "要冷蔵、3日以内にお使いください。" }
+    ],
+    "warn": [
+      "refrigerate は『冷蔵する・冷やして保存する』。名詞は refrigerator（冷蔵庫）、refrigeration（冷蔵）。",
+      "freeze（冷凍する）はもっと冷やして凍らせること。refrigerate は冷蔵（凍らせない）。"
+    ],
+    "etym_note": "ラテン語 refrigerare（re-「再び」＋ frigerare「冷やす」、frigus「寒さ」より）に由来し、「冷やすこと」を意味します。refrigerant（冷媒）, frigid（極寒の）と同じ語根です。",
+    "etym_chain": [
+      { "node": "frigus", "sub": "寒さ", "era": "ラテン語" },
+      { "node": "refrigerare", "sub": "冷やす", "era": "ラテン語" },
+      { "node": "refrigerate", "sub": "冷蔵する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "refrigerate after opening", "ja": "開封後は冷蔵する" },
+      { "en": "keep refrigerated", "ja": "要冷蔵" },
+      { "en": "refrigerate the leftovers", "ja": "残り物を冷蔵する" },
+      { "en": "refrigerate overnight", "ja": "一晩冷蔵する" },
+      { "en": "refrigerate the dough", "ja": "生地を冷蔵する" },
+      { "en": "store refrigerated", "ja": "冷蔵で保存する" }
+    ],
+    "related": [
+      { "en": "refrigerator", "ja": "冷蔵庫" },
+      { "en": "refrigeration", "ja": "冷蔵" },
+      { "en": "chill", "ja": "冷やす" },
+      { "en": "freeze", "ja": "冷凍する" }
+    ],
+    "faq": [
+      { "q": "refrigerate とはどんな意味？", "a": "食品などを『冷蔵する・冷やして保存する』という意味です。Refrigerate the leftovers within two hours.（残り物は2時間以内に冷蔵しなさい）のように使います。名詞は refrigerator（冷蔵庫）です。" },
+      { "q": "refrigerate と freeze の違いは？", "a": "refrigerate は『冷蔵する（凍らせず低温に保つ）』、freeze は『冷凍する（凍らせる）』です。冷蔵庫で refrigerate、冷凍庫で freeze します。" }
+    ],
+    "quiz": [
+      { "q": "___ the leftovers within two hours.（冷蔵する）", "A": "Refrigerate", "B": "Generate の生み出す", "C": "Decorate の飾る", "D": "Celebrate の祝う", "correct": "A" },
+      { "q": "refrigerate の名詞形（冷蔵庫）はどれ？", "A": "refrigerator（冷蔵庫）", "B": "generator（発電機）", "C": "decorator（装飾家）", "D": "calculator（計算機）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "regulator",
+    "pron": "ˈreɡjuleɪtər",
+    "kana": "レギュレイター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "regulate（規制する・調節する）＋ -or（〜するもの/人）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "ビジネス・技術"],
+    "meaning_main": "規制機関・規制当局／（機器の）調整装置・調節器",
+    "description": "regulator の意味・発音・例文・語源を解説。業界を監督する「規制機関・規制当局」と、機器で量を一定に保つ「調整装置・調節器」という二つの意味を紹介します。",
+    "keywords": ["regulator 意味", "regulator 発音", "規制当局", "調節器"],
+    "meanings": [
+      { "hinshi": "【名詞】規制機関・規制当局・監督官庁", "note": "業界・市場を監督し規則を定める機関。a financial regulator（金融規制当局）。" },
+      { "hinshi": "【名詞】（機器の）調整装置・調節器", "note": "圧力・電圧などを一定に保つ装置。a voltage regulator（電圧調整器）。" }
+    ],
+    "usages": [
+      { "title": "① 「規制当局」として", "desc": "業界を監督する機関を表します。", "example_en": "The regulator fined the bank heavily.", "example_ja": "規制当局はその銀行に多額の罰金を科した。" },
+      { "title": "② 「調節器」として", "desc": "量を一定に保つ装置を表します。", "example_en": "The pressure regulator keeps the gas flow steady.", "example_ja": "圧力調整器がガスの流れを一定に保つ。" }
+    ],
+    "warn": [
+      "regulator は『規制機関・規制当局』と『（機器の）調整装置・調節器』。regulate（規制・調節する）＋ -or。",
+      "ビジネスでは前者（監督官庁）、技術では後者（装置）。"
+    ],
+    "etym_note": "regulate（『規制・調節する』、ラテン語 regula「規則・ものさし」より）＋ -or（『〜するもの・人』）から成り、「規制・調節するもの」を意味します。regular（規則的な）, rule（規則）と同じ語根です。",
+    "etym_chain": [
+      { "node": "regula", "sub": "規則・ものさし", "era": "ラテン語" },
+      { "node": "regulate", "sub": "規制・調節する", "era": "近代英語" },
+      { "node": "regulator", "sub": "規制機関・調節器", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a financial regulator", "ja": "金融規制当局" },
+      { "en": "the industry regulator", "ja": "業界の監督官庁" },
+      { "en": "an independent regulator", "ja": "独立した規制機関" },
+      { "en": "a voltage regulator", "ja": "電圧調整器" },
+      { "en": "a pressure regulator", "ja": "圧力調整器" },
+      { "en": "approved by the regulator", "ja": "規制当局に承認された" }
+    ],
+    "related": [
+      { "en": "regulate", "ja": "規制する・調節する" },
+      { "en": "regulation", "ja": "規制・規則" },
+      { "en": "watchdog", "ja": "監視機関" },
+      { "en": "authority", "ja": "当局" }
+    ],
+    "faq": [
+      { "q": "regulator とはどんな意味？", "a": "業界や市場を監督する『規制機関・規制当局』、また機器で圧力や電圧を一定に保つ『調整装置・調節器』のことです。The regulator fined the bank.（規制当局が銀行に罰金を科した）のように使います。" },
+      { "q": "regulator（規制当局）はどんな仕事をする？", "a": "金融・通信・電力などの業界で、規則を定め、企業がそれを守っているか監督し、違反には罰金などの措置をとります。a financial regulator（金融規制当局）のように分野ごとにあります。" }
+    ],
+    "quiz": [
+      { "q": "The ___ fined the bank heavily.（規制当局）", "A": "regulator", "B": "spectator の観客", "C": "narrator の語り手", "D": "decorator の装飾家", "correct": "A" },
+      { "q": "regulator のもとになった動詞はどれ？", "A": "regulate（規制・調節する）", "B": "decorate（飾る）", "C": "narrate（語る）", "D": "celebrate（祝う）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "relaxation",
+    "pron": "ˌriːlækˈseɪʃən",
+    "kana": "リラクセイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "relax（くつろぐ・ゆるめる）＋ -ation（こと）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出語"],
+    "meaning_main": "くつろぎ・息抜き・リラックス／（規制などの）緩和",
+    "description": "relaxation の意味・発音・例文・語源を解説。心身を休める「くつろぎ・息抜き」と、規則・緊張の「緩和」という二つの意味を持つ名詞の使い方を紹介します。",
+    "keywords": ["relaxation 意味", "relaxation 発音", "くつろぎ", "緩和"],
+    "meanings": [
+      { "hinshi": "【名詞】くつろぎ・息抜き・リラックス", "note": "心身を休めること。read for relaxation（くつろぎのために読書する）。" },
+      { "hinshi": "【名詞】（規制・緊張の）緩和・ゆるめること", "note": "the relaxation of the rules（規則の緩和）。" }
+    ],
+    "usages": [
+      { "title": "① 「くつろぎ」として", "desc": "心身を休めることを表します。", "example_en": "Yoga is a good form of relaxation.", "example_ja": "ヨガはよい息抜きの方法だ。" },
+      { "title": "② 「緩和」として", "desc": "規則などをゆるめることを表します。", "example_en": "There has been a relaxation of travel restrictions.", "example_ja": "渡航制限の緩和があった。" }
+    ],
+    "warn": [
+      "relaxation は『くつろぎ・息抜き』と『（規制・緊張の）緩和』。動詞 relax（くつろぐ・ゆるめる）＋ -ation。",
+      "『リラクゼーション』とカナ表記されることもあるが、英語の音は『リラクセイション』に近い。"
+    ],
+    "etym_note": "relax（『ゆるめる・くつろぐ』、ラテン語 relaxare「ゆるめる」より、laxus「ゆるい」）＋ -ation から成り、「ゆるめること・くつろぐこと」を意味します。lax（ゆるい）, release（解放する）と同じ語根です。",
+    "etym_chain": [
+      { "node": "relaxare", "sub": "ゆるめる", "era": "ラテン語" },
+      { "node": "relax", "sub": "くつろぐ・ゆるめる", "era": "中英語" },
+      { "node": "relaxation", "sub": "くつろぎ・緩和", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "for relaxation", "ja": "くつろぎのために" },
+      { "en": "rest and relaxation", "ja": "休息と息抜き（R&R）" },
+      { "en": "a relaxation technique", "ja": "リラックス法" },
+      { "en": "the relaxation of the rules", "ja": "規則の緩和" },
+      { "en": "muscle relaxation", "ja": "筋肉の弛緩（しかん）" },
+      { "en": "find relaxation in", "ja": "〜に安らぎを見いだす" }
+    ],
+    "related": [
+      { "en": "relax", "ja": "くつろぐ・ゆるめる" },
+      { "en": "rest", "ja": "休息" },
+      { "en": "leisure", "ja": "余暇" },
+      { "en": "easing", "ja": "緩和" }
+    ],
+    "faq": [
+      { "q": "relaxation とはどんな意味？", "a": "心身を休める『くつろぎ・息抜き・リラックス』と、規則や緊張の『緩和』という二つの意味があります。Yoga is a good form of relaxation.（ヨガはよい息抜きだ）、the relaxation of restrictions（制限の緩和）のように使います。" },
+      { "q": "relaxation の二つの意味の違いは？", "a": "『くつろぎ・息抜き』は心身を休めること、『緩和』は規則・緊張などをゆるめることです。どちらも relax（ゆるめる）から来ており、『ゆるむ』という共通のイメージがあります。" }
+    ],
+    "quiz": [
+      { "q": "Yoga is a good form of ___.（息抜き）", "A": "relaxation", "B": "relation の関係", "C": "location の場所", "D": "creation の創造", "correct": "A" },
+      { "q": "relaxation のもとになった動詞はどれ？", "A": "relax（くつろぐ・ゆるめる）", "B": "relate（関連づける）", "C": "locate（位置を定める）", "D": "create（創造する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reluctance",
+    "pron": "rɪˈlʌktəns",
+    "kana": "リラクタンス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 reluctari（抵抗する）より",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "気が進まないこと・ためらい・しぶしぶの気持ち",
+    "description": "reluctance の意味・発音・例文・語源を解説。何かをするのに「気が進まないこと・ためらい・しぶしぶの気持ち」を表す名詞の使い方と、形容詞 reluctant を紹介します。",
+    "keywords": ["reluctance 意味", "reluctance 発音", "気が進まない", "ためらい"],
+    "meanings": [
+      { "hinshi": "【名詞】気が進まないこと・ためらい・しぶしぶの気持ち", "note": "いやいやながらの態度。with reluctance（しぶしぶ）。a reluctance to change（変化への抵抗感）。" }
+    ],
+    "usages": [
+      { "title": "① 「ためらい」として", "desc": "気が進まない様子を表します。", "example_en": "She agreed with some reluctance.", "example_ja": "彼女はいくらかためらいながら同意した。" },
+      { "title": "② reluctance to の形で", "desc": "「〜したがらないこと」を表します。", "example_en": "His reluctance to ask for help surprised us.", "example_ja": "彼が助けを求めたがらないことに私たちは驚いた。" }
+    ],
+    "warn": [
+      "reluctance は『気が進まないこと・ためらい』。形容詞 reluctant（気が進まない）。a reluctance to do（〜したがらないこと）。",
+      "with reluctance（しぶしぶ）はよく使う。"
+    ],
+    "etym_note": "ラテン語 reluctari（re-「逆らって」＋ luctari「もがく・取っ組み合う」）に由来し、「（心が）抵抗すること＝気が進まないこと」を意味します。",
+    "etym_chain": [
+      { "node": "reluctari", "sub": "抵抗する", "era": "ラテン語" },
+      { "node": "reluctance", "sub": "ためらい", "era": "近代英語" },
+      { "node": "reluctance", "sub": "気が進まないこと", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "with reluctance", "ja": "しぶしぶ・いやいや" },
+      { "en": "a reluctance to change", "ja": "変化への抵抗感" },
+      { "en": "show reluctance", "ja": "気の進まなさを見せる" },
+      { "en": "overcome one's reluctance", "ja": "ためらいを克服する" },
+      { "en": "a reluctance to commit", "ja": "関わりたがらないこと" },
+      { "en": "some reluctance", "ja": "いくらかのためらい" }
+    ],
+    "related": [
+      { "en": "reluctant", "ja": "気が進まない" },
+      { "en": "hesitation", "ja": "ためらい・躊躇" },
+      { "en": "unwillingness", "ja": "いやがること" },
+      { "en": "eagerness", "ja": "熱意（反対）" }
+    ],
+    "faq": [
+      { "q": "reluctance とはどんな意味？", "a": "何かをするのに『気が進まないこと・ためらい・しぶしぶの気持ち』という意味です。She agreed with some reluctance.（いくらかためらいながら同意した）のように使います。形容詞は reluctant です。" },
+      { "q": "reluctance と hesitation の違いは？", "a": "hesitation は『（決めかねて）一瞬ためらうこと』、reluctance は『（やりたくなくて）気が進まない継続的な気持ち』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "She agreed with some ___.（ためらい）", "A": "reluctance", "B": "reliance の依存", "C": "relevance の関連性", "D": "residence の住居", "correct": "A" },
+      { "q": "reluctance の形容詞形はどれ？", "A": "reluctant（気が進まない）", "B": "reliant（頼っている）", "C": "relevant（関連する）", "D": "resident（居住の）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reliant",
+    "pron": "rɪˈlaɪənt",
+    "kana": "リライアント",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "rely（頼る）＋ -ant（〜する）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "（〜に）頼っている・依存している",
+    "description": "reliant の意味・発音・例文・語源を解説。人や物に「頼っている・依存している」という様子を表す形容詞の使い方と、self-reliant（自立した）を分かりやすく紹介します。",
+    "keywords": ["reliant 意味", "reliant 発音", "頼っている", "rely 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】（〜に）頼っている・依存している", "note": "reliant on ～（～に頼っている）。be heavily reliant on（〜に大きく依存している）。" }
+    ],
+    "usages": [
+      { "title": "① 「頼っている」として", "desc": "依存している状態を表します。", "example_en": "The country is reliant on oil exports.", "example_ja": "その国は石油の輸出に頼っている。" },
+      { "title": "② self-reliant の形で", "desc": "「自立した」を表します。", "example_en": "She raised her children to be self-reliant.", "example_ja": "彼女は子どもを自立するように育てた。" }
+    ],
+    "warn": [
+      "reliant は『（〜に）頼っている・依存している』。reliant on ～ の形で使う。rely（頼る）＋ -ant。",
+      "self-reliant（自立した）, over-reliant（頼りすぎた）も頻出。名詞は reliance（依存）。"
+    ],
+    "etym_note": "rely（『頼る』、古フランス語 relier「結びつける」より）＋ -ant（『〜する』を表す語尾）から成り、「頼っている」を意味します。reliable（信頼できる）, reliance（依存）と同根です。",
+    "etym_chain": [
+      { "node": "relier", "sub": "結びつける", "era": "古フランス語" },
+      { "node": "rely", "sub": "頼る", "era": "中英語" },
+      { "node": "reliant", "sub": "頼っている", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reliant on", "ja": "〜に頼っている" },
+      { "en": "heavily reliant on", "ja": "〜に大きく依存している" },
+      { "en": "self-reliant", "ja": "自立した" },
+      { "en": "over-reliant on", "ja": "〜に頼りすぎた" },
+      { "en": "reliant on technology", "ja": "技術に依存した" },
+      { "en": "become reliant on", "ja": "〜に頼るようになる" }
+    ],
+    "related": [
+      { "en": "rely", "ja": "頼る" },
+      { "en": "reliance", "ja": "依存・信頼" },
+      { "en": "dependent", "ja": "依存している" },
+      { "en": "independent", "ja": "自立した（反対）" }
+    ],
+    "faq": [
+      { "q": "reliant とはどんな意味？", "a": "人や物に『頼っている・依存している』という形容詞です。reliant on ～ の形で使い、The country is reliant on oil exports.（石油輸出に頼っている）のように使います。名詞は reliance です。" },
+      { "q": "reliant と dependent の違いは？", "a": "ほぼ同義で『頼っている』ですが、reliant は『（信頼して）当てにしている』ニュアンス、dependent は『（自力では立ち行かず）依存している』ニュアンスがやや強いです。どちらも on を伴います。" }
+    ],
+    "quiz": [
+      { "q": "The country is ___ on oil exports.（頼っている）", "A": "reliant", "B": "reluctant の気が進まない", "C": "relevant の関連する", "D": "resident の居住の", "correct": "A" },
+      { "q": "self-reliant の意味はどれ？", "A": "自立した", "B": "気が進まない", "C": "関連した", "D": "居住の", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reinterpret",
+    "pron": "ˌriːɪnˈtɜːrprɪt",
+    "kana": "リインタープリット",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ interpret（解釈する）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "学術・芸術"],
+    "meaning_main": "解釈し直す・新たに解釈する・読み替える",
+    "description": "reinterpret の意味・発音・例文・語源を解説。出来事・作品・法などを「解釈し直す・新たに解釈する」という、学術や芸術で使う語の使い方を紹介します。",
+    "keywords": ["reinterpret 意味", "reinterpret 発音", "解釈し直す", "interpret 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】解釈し直す・新たに解釈する・読み替える", "note": "従来とは異なる新しい見方で解釈する。reinterpret the data（データを解釈し直す）。reinterpret a classic（古典を新たに解釈する）。名詞は reinterpretation。" }
+    ],
+    "usages": [
+      { "title": "① 「解釈し直す」として", "desc": "新しい見方で読み解くことを表します。", "example_en": "Historians have reinterpreted the events of that era.", "example_ja": "歴史家たちはその時代の出来事を解釈し直した。" },
+      { "title": "② 芸術の「新解釈」として", "desc": "作品を新たに表現することを表します。", "example_en": "The director reinterpreted the classic play.", "example_ja": "その演出家は古典劇を新たに解釈した。" }
+    ],
+    "warn": [
+      "reinterpret は『解釈し直す・新たに解釈する』。re-（再び）＋ interpret。名詞は reinterpretation。",
+      "データ・歴史・法・芸術作品など、見方を改める文脈で使う。"
+    ],
+    "etym_note": "re-（再び）＋ interpret（解釈する・通訳する、ラテン語 interpretari「説明する」より）から成り、「再び解釈すること」を意味します。interpreter（通訳者）と同じ語根です。",
+    "etym_chain": [
+      { "node": "interpretari", "sub": "説明する", "era": "ラテン語" },
+      { "node": "interpret", "sub": "解釈する", "era": "中英語" },
+      { "node": "reinterpret", "sub": "解釈し直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reinterpret the data", "ja": "データを解釈し直す" },
+      { "en": "reinterpret history", "ja": "歴史を読み替える" },
+      { "en": "reinterpret the law", "ja": "法を解釈し直す" },
+      { "en": "reinterpret a classic", "ja": "古典を新たに解釈する" },
+      { "en": "radically reinterpret", "ja": "大胆に解釈し直す" },
+      { "en": "a new reinterpretation", "ja": "新しい解釈" }
+    ],
+    "related": [
+      { "en": "interpret", "ja": "解釈する・通訳する" },
+      { "en": "reinterpretation", "ja": "再解釈" },
+      { "en": "reread", "ja": "読み直す" },
+      { "en": "rethink", "ja": "考え直す" }
+    ],
+    "faq": [
+      { "q": "reinterpret とはどんな意味？", "a": "出来事・作品・法などを『解釈し直す・新たに解釈する・読み替える』という意味です。Historians have reinterpreted the events.（歴史家が出来事を解釈し直した）のように使います。名詞は reinterpretation です。" },
+      { "q": "reinterpret はどんな場面で使う？", "a": "歴史やデータを新しい視点で読み直すとき、法を新たに解釈するとき、古典作品を現代風に演出・表現するときなど、従来の見方を改める場面で使います。" }
+    ],
+    "quiz": [
+      { "q": "Historians have ___ed the events of that era.（解釈し直した）", "A": "reinterpret", "B": "interpret の最初に解釈する", "C": "interrupt の中断する", "D": "interact の交流する", "correct": "A" },
+      { "q": "reinterpret の名詞形はどれ？", "A": "reinterpretation（再解釈）", "B": "interruption（中断）", "C": "interaction（交流）", "D": "interpretation の最初の解釈だけ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "relativism",
+    "pron": "ˈrelətɪvɪzəm",
+    "kana": "レラティビズム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "relative（相対的な）＋ -ism（主義）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "哲学・思想"],
+    "meaning_main": "相対主義（真理や価値は立場により異なるとする考え）",
+    "description": "relativism の意味・発音・例文・語源を解説。真理・道徳・価値は絶対ではなく、文化や立場によって異なるとする立場「相対主義」を表す、哲学の名詞を紹介します。",
+    "keywords": ["relativism 意味", "relativism 発音", "相対主義", "relative 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】相対主義", "note": "真理・道徳・価値などは絶対的ではなく、文化・立場・状況によって相対的に異なるとする立場。moral relativism（道徳相対主義）。" }
+    ],
+    "usages": [
+      { "title": "① 哲学的立場としての「相対主義」", "desc": "真理が立場で変わるとする考えを表します。", "example_en": "Moral relativism holds that right and wrong vary by culture.", "example_ja": "道徳相対主義は、善悪は文化によって変わると考える。" },
+      { "title": "② 議論の文脈で", "desc": "絶対的基準への懐疑を表します。", "example_en": "He rejected relativism in favor of universal values.", "example_ja": "彼は相対主義を退け、普遍的価値を支持した。" }
+    ],
+    "warn": [
+      "relativism は『相対主義』（真理・価値は立場により相対的とする立場）。relative（相対的な）＋ -ism。",
+      "対立する立場は absolutism（絶対主義）/ universalism（普遍主義）。cultural / moral relativism が頻出。"
+    ],
+    "etym_note": "relative（『相対的な・関係する』、ラテン語 relativus「関係する」より）＋ -ism（主義）から成り、「（真理・価値は）相対的だとする立場」を意味します。relate（関係づける）と同じ語根です。",
+    "etym_chain": [
+      { "node": "relativus", "sub": "関係する", "era": "ラテン語" },
+      { "node": "relative", "sub": "相対的な", "era": "中英語" },
+      { "node": "relativism", "sub": "相対主義", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "moral relativism", "ja": "道徳相対主義" },
+      { "en": "cultural relativism", "ja": "文化相対主義" },
+      { "en": "reject relativism", "ja": "相対主義を退ける" },
+      { "en": "a form of relativism", "ja": "相対主義の一形態" },
+      { "en": "ethical relativism", "ja": "倫理的相対主義" },
+      { "en": "fall into relativism", "ja": "相対主義に陥る" }
+    ],
+    "related": [
+      { "en": "relative", "ja": "相対的な" },
+      { "en": "relativity", "ja": "相対性" },
+      { "en": "absolutism", "ja": "絶対主義（対立）" },
+      { "en": "universalism", "ja": "普遍主義" }
+    ],
+    "faq": [
+      { "q": "relativism とはどんな意味？", "a": "真理・道徳・価値などは絶対ではなく、文化や立場によって相対的に異なるとする立場『相対主義』のことです。Moral relativism holds that right and wrong vary by culture.（道徳相対主義は善悪が文化で変わると考える）のように使います。" },
+      { "q": "relativism と relativity の違いは？", "a": "relativism は哲学・倫理の『相対主義（価値は立場により異なるとする立場）』、relativity は物理学の『相対性（理論）』など『相対的であること』を指します。-ism は『主義』を表します。" }
+    ],
+    "quiz": [
+      { "q": "Moral ___ holds that right and wrong vary by culture.（相対主義）", "A": "relativism", "B": "relativity の相対性", "C": "tourism の観光", "D": "realism の写実主義", "correct": "A" },
+      { "q": "relativism と対立する立場はどれ？", "A": "absolutism（絶対主義）", "B": "tourism（観光）", "C": "realism（写実主義）", "D": "optimism（楽観主義）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "regurgitate",
+    "pron": "rɪˈɡɜːrdʒɪteɪt",
+    "kana": "リガージテイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 regurgitare（あふれ戻す）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "やや硬い語"],
+    "meaning_main": "（飲み込んだものを）吐き戻す／（受け売りを）そのまま並べ立てる",
+    "description": "regurgitate の意味・発音・例文・語源を解説。飲み込んだものを「吐き戻す」という生理的な意味と、覚えたことを理解せず「そのまま並べ立てる」という比喩を紹介します。",
+    "keywords": ["regurgitate 意味", "regurgitate 発音", "吐き戻す", "受け売り"],
+    "meanings": [
+      { "hinshi": "【動詞】（飲み込んだものを）吐き戻す・もどす", "note": "胃などに入れたものを口に戻す。鳥がひな鳥にえさを与える時など。" },
+      { "hinshi": "【動詞】（理解せず）そのまま並べ立てる・受け売りする", "note": "覚えた事実・意見をただ繰り返す（否定的）。regurgitate facts（事実を丸暗記で並べる）。" }
+    ],
+    "usages": [
+      { "title": "① 「吐き戻す」として", "desc": "飲み込んだものを戻すことを表します。", "example_en": "Birds regurgitate food to feed their young.", "example_ja": "鳥はひなに与えるため食べ物を吐き戻す。" },
+      { "title": "② 比喩「受け売りする」として", "desc": "理解せず並べ立てることを表します。", "example_en": "He just regurgitated what the teacher said.", "example_ja": "彼は先生の言ったことをただ受け売りしただけだ。" }
+    ],
+    "warn": [
+      "regurgitate は『吐き戻す』が原義。比喩で『（理解せず）そのまま並べ立てる・受け売りする』（否定的）。",
+      "学習の文脈で『丸暗記して吐き出すだけ』を批判するのに使う。名詞は regurgitation。"
+    ],
+    "etym_note": "ラテン語 regurgitare（re-「逆に」＋ gurgitare「うずまく・あふれさせる」、gurges「渦・のど」より）に由来し、「あふれ戻すこと」を意味します。",
+    "etym_chain": [
+      { "node": "gurges", "sub": "渦・のど", "era": "ラテン語" },
+      { "node": "regurgitare", "sub": "あふれ戻す", "era": "ラテン語" },
+      { "node": "regurgitate", "sub": "吐き戻す・受け売りする", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "regurgitate food", "ja": "食べ物を吐き戻す" },
+      { "en": "regurgitate facts", "ja": "事実を丸暗記で並べる" },
+      { "en": "regurgitate information", "ja": "情報を受け売りする" },
+      { "en": "simply regurgitate", "ja": "ただ受け売りする" },
+      { "en": "regurgitate what was taught", "ja": "教わったことをそのまま並べる" },
+      { "en": "regurgitate opinions", "ja": "意見を受け売りする" }
+    ],
+    "related": [
+      { "en": "regurgitation", "ja": "吐き戻し・逆流" },
+      { "en": "vomit", "ja": "吐く" },
+      { "en": "parrot", "ja": "オウム返しする" },
+      { "en": "memorize", "ja": "暗記する" }
+    ],
+    "faq": [
+      { "q": "regurgitate とはどんな意味？", "a": "飲み込んだものを『吐き戻す』という意味と、覚えたことを理解せず『そのまま並べ立てる・受け売りする』という比喩の意味があります。He just regurgitated what the teacher said.（先生の言ったことを受け売りしただけ）のように使います。" },
+      { "q": "regurgitate の比喩はどんな時に使う？", "a": "学習や議論で『内容を理解せず、丸暗記したことをただ吐き出すだけ』という批判に使います。自分の考えがなく、ただ繰り返すことを否定的に表します。" }
+    ],
+    "quiz": [
+      { "q": "He just ___d what the teacher said.（受け売りした）", "A": "regurgitate", "B": "investigate の調査する", "C": "navigate の航行する", "D": "negotiate の交渉する", "correct": "A" },
+      { "q": "regurgitate の原義（生理的な意味）はどれ？", "A": "飲み込んだものを吐き戻す", "B": "深く眠る", "C": "速く走る", "D": "大声で笑う", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reintegrate",
+    "pron": "ˌriːˈɪntɪɡreɪt",
+    "kana": "リインテグレイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ integrate（統合する・溶け込ませる）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "社会"],
+    "meaning_main": "再び溶け込ませる・社会復帰させる／再統合する",
+    "description": "reintegrate の意味・発音・例文・語源を解説。離れていた人を社会に「再び溶け込ませる・社会復帰させる」、また組織・部品を「再統合する」という使い方を紹介します。",
+    "keywords": ["reintegrate 意味", "reintegrate 発音", "社会復帰", "再統合"],
+    "meanings": [
+      { "hinshi": "【動詞】（社会・集団に）再び溶け込ませる・社会復帰させる", "note": "離れていた人を再びなじませる。reintegrate into society（社会に再び溶け込む）。名詞は reintegration。" },
+      { "hinshi": "【動詞】（部分を）再統合する・組み込み直す", "note": "ばらばらのものを再びまとめる。" }
+    ],
+    "usages": [
+      { "title": "① 「社会復帰させる」として", "desc": "再び社会に溶け込ませることを表します。", "example_en": "The program helps offenders reintegrate into society.", "example_ja": "その制度は犯罪者の社会復帰を助ける。" },
+      { "title": "② 「再統合する」として", "desc": "部分をまとめ直すことを表します。", "example_en": "The two divisions were reintegrated into one team.", "example_ja": "二つの部門が一つのチームに再統合された。" }
+    ],
+    "warn": [
+      "reintegrate は『（社会・集団に）再び溶け込ませる・社会復帰させる』『再統合する』。re-（再び）＋ integrate。名詞は reintegration。",
+      "reintegrate into society（社会復帰する）が頻出。"
+    ],
+    "etym_note": "re-（再び）＋ integrate（統合する・全体にする、ラテン語 integrare「完全にする」より、integer「完全な」）から成り、「再び一つにまとめること」を意味します。integral（不可欠な）と同じ語根です。",
+    "etym_chain": [
+      { "node": "integrare", "sub": "完全にする", "era": "ラテン語" },
+      { "node": "integrate", "sub": "統合する", "era": "近代英語" },
+      { "node": "reintegrate", "sub": "再統合する・社会復帰させる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reintegrate into society", "ja": "社会に再び溶け込む" },
+      { "en": "reintegrate ex-offenders", "ja": "元犯罪者を社会復帰させる" },
+      { "en": "reintegrate refugees", "ja": "難民を再びなじませる" },
+      { "en": "reintegrate veterans", "ja": "退役軍人を社会復帰させる" },
+      { "en": "reintegrate the team", "ja": "チームを再統合する" },
+      { "en": "social reintegration", "ja": "社会再統合・社会復帰" }
+    ],
+    "related": [
+      { "en": "integrate", "ja": "統合する・溶け込ませる" },
+      { "en": "reintegration", "ja": "再統合・社会復帰" },
+      { "en": "rehabilitate", "ja": "社会復帰させる" },
+      { "en": "assimilate", "ja": "同化させる" }
+    ],
+    "faq": [
+      { "q": "reintegrate とはどんな意味？", "a": "離れていた人を社会に『再び溶け込ませる・社会復帰させる』、また部分を『再統合する』という意味です。The program helps offenders reintegrate into society.（犯罪者の社会復帰を助ける）のように使います。名詞は reintegration です。" },
+      { "q": "reintegrate と rehabilitate の違いは？", "a": "rehabilitate は『（更生・回復させて）社会復帰させる』全般、reintegrate は『（社会・集団に）再び溶け込ませる・なじませる』点に重点があります。しばしば一緒に使われます。" }
+    ],
+    "quiz": [
+      { "q": "The program helps offenders ___ into society.（社会復帰する）", "A": "reintegrate", "B": "integrate の最初に統合する", "C": "investigate の調査する", "D": "illustrate の説明する", "correct": "A" },
+      { "q": "reintegrate の名詞形はどれ？", "A": "reintegration（再統合・社会復帰）", "B": "investigation（調査）", "C": "illustration（説明図）", "D": "integration の最初の統合だけ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recumbent",
+    "pron": "rɪˈkʌmbənt",
+    "kana": "リカンベント",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 recumbere（横たわる）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "やや硬い語"],
+    "meaning_main": "横たわった・もたれかかった／（自転車が）リカンベント型の",
+    "description": "recumbent の意味・発音・例文・語源を解説。横たわった・もたれかかった姿勢を表す形容詞と、背もたれに寄りかかってこぐ「リカンベント型の」自転車の使い方を紹介します。",
+    "keywords": ["recumbent 意味", "recumbent 発音", "横たわった", "リカンベント"],
+    "meanings": [
+      { "hinshi": "【形容詞】横たわった・もたれかかった・寝そべった", "note": "体を横たえた、または後ろに寄りかかった姿勢。a recumbent figure（横たわった人物）。" },
+      { "hinshi": "【形容詞】(自転車などが)リカンベント型の", "note": "背もたれに寄りかかり、足を前に出してこぐ型。a recumbent bike（リカンベントバイク）。" }
+    ],
+    "usages": [
+      { "title": "① 「横たわった」として", "desc": "寝そべった姿勢を表します。", "example_en": "The statue shows a recumbent lion.", "example_ja": "その像は横たわったライオンを表している。" },
+      { "title": "② 「リカンベント型の」として", "desc": "寄りかかってこぐ型を表します。", "example_en": "He exercises on a recumbent bike.", "example_ja": "彼はリカンベントバイクで運動する。" }
+    ],
+    "warn": [
+      "recumbent は『横たわった・もたれかかった』、また『（自転車などが）リカンベント型の』。やや硬い・専門的な語。",
+      "ジムの『リカンベントバイク（背もたれ付きエアロバイク）』でよく聞く語。"
+    ],
+    "etym_note": "ラテン語 recumbere（re-「後ろへ」＋ cumbere「横たわる」）に由来し、「後ろに身を横たえること」を意味します。incumbent（在職の・のしかかる）と同じ語根です。",
+    "etym_chain": [
+      { "node": "recumbere", "sub": "横たわる", "era": "ラテン語" },
+      { "node": "recumbent", "sub": "横たわった", "era": "近代英語" },
+      { "node": "recumbent", "sub": "横たわった・リカンベント型の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a recumbent figure", "ja": "横たわった人物" },
+      { "en": "a recumbent position", "ja": "横たわった姿勢" },
+      { "en": "a recumbent statue", "ja": "横たわった像" },
+      { "en": "a recumbent bike", "ja": "リカンベントバイク" },
+      { "en": "in a recumbent posture", "ja": "寝そべった姿勢で" },
+      { "en": "a recumbent effigy", "ja": "横たわった彫像（墓像）" }
+    ],
+    "related": [
+      { "en": "reclining", "ja": "もたれた・横たわった" },
+      { "en": "prone", "ja": "うつぶせの" },
+      { "en": "supine", "ja": "あおむけの" },
+      { "en": "lying down", "ja": "横たわっている" }
+    ],
+    "faq": [
+      { "q": "recumbent とはどんな意味？", "a": "『横たわった・もたれかかった・寝そべった』という姿勢を表す形容詞です。また、背もたれに寄りかかってこぐ『リカンベント型の』自転車にも使います。a recumbent bike（リカンベントバイク）のように使います。" },
+      { "q": "recumbent bike とは？", "a": "背もたれに寄りかかり、足を前方に出してこぐタイプの自転車・エアロバイクです。腰や背中への負担が少なく、ジムのトレーニング機器としてよく見られます。" }
+    ],
+    "quiz": [
+      { "q": "The statue shows a ___ lion.（横たわった）", "A": "recumbent", "B": "reluctant の気が進まない", "C": "redundant の余分な", "D": "resonant のよく響く", "correct": "A" },
+      { "q": "a recumbent bike の特徴はどれ？", "A": "背もたれに寄りかかってこぐ", "B": "立ちこぎ専用", "C": "水上でこぐ", "D": "タイヤがない", "correct": "A" }
+    ]
+  }
+]

@@ -1,0 +1,528 @@
+[
+  {
+    "english": "raspberry",
+    "pron": "ˈræzbəri",
+    "kana": "ラズベリー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rasp（古語の木いちご）＋ berry（実）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "食べ物"],
+    "meaning_main": "ラズベリー・木いちご（赤い小さな果実）",
+    "description": "raspberry の意味・発音・例文・語源を解説。赤くて甘ずっぱい小さな果実「ラズベリー・木いちご」を表す名詞の使い方を分かりやすく紹介します。",
+    "keywords": ["raspberry 意味", "raspberry 発音", "ラズベリー", "木いちご"],
+    "meanings": [
+      { "hinshi": "【名詞】ラズベリー・木いちご", "note": "赤くて小さく、甘ずっぱい果実。ジャムやケーキに使う。複数形は raspberries。" }
+    ],
+    "usages": [
+      { "title": "① 果実としての「ラズベリー」", "desc": "甘ずっぱい赤い実を表します。", "example_en": "She picked fresh raspberries from the bush.", "example_ja": "彼女は茂みから新鮮なラズベリーを摘んだ。" },
+      { "title": "② 食品の風味として", "desc": "ジャムやケーキの味を表します。", "example_en": "I'd like a raspberry tart, please.", "example_ja": "ラズベリータルトをください。" }
+    ],
+    "warn": [
+      "raspberry は『ラズベリー・木いちご』。発音は『ラズ-ベリー』で、p は発音しない（ˈræzbəri）。",
+      "つづりの p に注意（黙字）。strawberry（いちご）, blueberry（ブルーベリー）と仲間。"
+    ],
+    "etym_note": "rasp（中世英語 raspis「木いちご」より）＋ berry（実、古英語 berie より）から成る複合語で、「ざらつく実」を意味するとされます。",
+    "etym_chain": [
+      { "node": "raspis", "sub": "木いちご", "era": "中英語" },
+      { "node": "rasp + berry", "sub": "木いちご＋実", "era": "近代英語" },
+      { "node": "raspberry", "sub": "ラズベリー", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "fresh raspberries", "ja": "新鮮なラズベリー" },
+      { "en": "raspberry jam", "ja": "ラズベリージャム" },
+      { "en": "a raspberry tart", "ja": "ラズベリータルト" },
+      { "en": "pick raspberries", "ja": "ラズベリーを摘む" },
+      { "en": "raspberry sauce", "ja": "ラズベリーソース" },
+      { "en": "wild raspberries", "ja": "野生の木いちご" }
+    ],
+    "related": [
+      { "en": "strawberry", "ja": "いちご" },
+      { "en": "blackberry", "ja": "ブラックベリー" },
+      { "en": "blueberry", "ja": "ブルーベリー" },
+      { "en": "berry", "ja": "ベリー・小さな実" }
+    ],
+    "faq": [
+      { "q": "raspberry とはどんな意味？", "a": "赤くて甘ずっぱい小さな果実『ラズベリー・木いちご』のことです。She picked fresh raspberries.（新鮮なラズベリーを摘んだ）のように使います。" },
+      { "q": "raspberry の p は発音する？", "a": "発音しません（黙字）。『ラズベリー（ˈræzbəri）』のように読みます。つづりには p がありますが、音には出ないので注意しましょう。" }
+    ],
+    "quiz": [
+      { "q": "She picked fresh ___ from the bush.（ラズベリー）", "A": "raspberries", "B": "strawberries のいちご", "C": "blueberries のブルーベリー", "D": "cranberries のクランベリー", "correct": "A" },
+      { "q": "raspberry の発音で正しいのは？", "A": "p は発音しない（ラズベリー）", "B": "ラスプベリーと p を強く読む", "C": "最後を『バリー』と読む", "D": "最初を『ラフ』と読む", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rant",
+    "pron": "rænt",
+    "kana": "ラント",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "オランダ語 ranten（わめく・たわごとを言う）より",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "口語"],
+    "meaning_main": "（怒って）わめき立てる・がなり立てる／長広舌・激しい不平",
+    "description": "rant の意味・発音・例文・語源を解説。腹を立てて「わめき立てる・がなり立てる」という動詞と、その「長広舌・激しい不平」という名詞の使い方を紹介します。",
+    "keywords": ["rant 意味", "rant 発音", "わめき立てる", "不平"],
+    "meanings": [
+      { "hinshi": "【動詞】わめき立てる・がなり立てる", "note": "怒って延々と大声で文句を言う。rant about ～（～についてまくし立てる）。" },
+      { "hinshi": "【名詞】長広舌・激しい不平", "note": "延々と続く怒りの言葉。go on a rant（まくし立てる）。" }
+    ],
+    "usages": [
+      { "title": "① 動詞「わめき立てる」として", "desc": "怒って延々と文句を言うことを表します。", "example_en": "He ranted about the bad service for ten minutes.", "example_ja": "彼はひどいサービスについて10分間まくし立てた。" },
+      { "title": "② 名詞「長広舌」として", "desc": "怒りの長い言葉を表します。", "example_en": "She posted an angry rant online.", "example_ja": "彼女はネットに怒りの長文を投稿した。" }
+    ],
+    "warn": [
+      "rant は『（怒って）わめき立てる』『長広舌・激しい不平』。rant and rave（がなり立てる）は決まり文句。",
+      "rant about ～（～について不平をまくし立てる）の形が多い。"
+    ],
+    "etym_note": "オランダ語 ranten（『わめく・たわごとを言う』）に由来し、英語で「大げさに、または怒ってまくし立てること」を意味するようになりました。",
+    "etym_chain": [
+      { "node": "ranten", "sub": "わめく", "era": "オランダ語" },
+      { "node": "rant", "sub": "大げさに言う", "era": "16世紀英語" },
+      { "node": "rant", "sub": "わめき立てる・長広舌", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rant about something", "ja": "〜についてまくし立てる" },
+      { "en": "rant and rave", "ja": "がなり立てる・わめき散らす" },
+      { "en": "go on a rant", "ja": "まくし立てる" },
+      { "en": "an angry rant", "ja": "怒りの長広舌" },
+      { "en": "a long rant", "ja": "長々とした不平" },
+      { "en": "rant at someone", "ja": "〜に向かってどなり散らす" }
+    ],
+    "related": [
+      { "en": "rave", "ja": "わめく・激賞する" },
+      { "en": "tirade", "ja": "（長い）非難の演説" },
+      { "en": "vent", "ja": "（不満を）ぶちまける" },
+      { "en": "complain", "ja": "不平を言う" }
+    ],
+    "faq": [
+      { "q": "rant とはどんな意味？", "a": "怒って『わめき立てる・がなり立てる』という動詞と、その『長広舌・激しい不平』という名詞です。He ranted about the bad service.（ひどいサービスにまくし立てた）のように使います。" },
+      { "q": "rant and rave とはどんな意味？", "a": "『がなり立てる・わめき散らす』という決まり文句です。rant も rave も『わめく』に近い意味で、2語を重ねて激しく怒り続ける様子を強調します。" }
+    ],
+    "quiz": [
+      { "q": "He ___ed about the bad service for ten minutes.（まくし立てた）", "A": "rant", "B": "rent の借りる", "C": "grant の与える", "D": "plant の植える", "correct": "A" },
+      { "q": "rant and rave の意味はどれ？", "A": "がなり立てる・わめき散らす", "B": "静かに考える", "C": "優しくほめる", "D": "そっと頼む", "correct": "A" }
+    ]
+  },
+  {
+    "english": "revulsion",
+    "pron": "rɪˈvʌlʃən",
+    "kana": "リバルジョン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 revellere（引き離す）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "やや硬い語"],
+    "meaning_main": "強い嫌悪・反感・むかつき",
+    "description": "revulsion の意味・発音・例文・語源を解説。ぞっとするほどの「強い嫌悪・反感・むかつき」を表す、感情の強さを示す名詞の使い方を分かりやすく紹介します。",
+    "keywords": ["revulsion 意味", "revulsion 発音", "強い嫌悪", "反感"],
+    "meanings": [
+      { "hinshi": "【名詞】強い嫌悪・反感・むかつき", "note": "ぞっとして拒みたくなる強い不快感。feel revulsion（強い嫌悪を感じる）。in revulsion（嫌悪して）。" }
+    ],
+    "usages": [
+      { "title": "① 「強い嫌悪」として", "desc": "ぞっとするほどの不快感を表します。", "example_en": "She turned away in revulsion.", "example_ja": "彼女は嫌悪して顔をそむけた。" },
+      { "title": "② 道徳的な反感として", "desc": "残虐な行いなどへの強い反発を表します。", "example_en": "The crime filled people with revulsion.", "example_ja": "その犯罪は人々を強い嫌悪で満たした。" }
+    ],
+    "warn": [
+      "revulsion は『強い嫌悪・むかつき』。disgust より強く、身震いするような拒絶感。feel/fill with revulsion が頻出。",
+      "形容詞 revolting（むかつくような）, 動詞 revolt（むかつかせる）と関連。"
+    ],
+    "etym_note": "ラテン語 revellere（re-「後ろへ」＋ vellere「引っ張る」）に由来し、「（心が）引き離されること＝強い拒絶」を意味します。動詞 revolt（反乱・むかつかせる）と同じ語根です。",
+    "etym_chain": [
+      { "node": "revellere", "sub": "引き離す", "era": "ラテン語" },
+      { "node": "revulsion", "sub": "引き離し・嫌悪", "era": "近代英語" },
+      { "node": "revulsion", "sub": "強い嫌悪", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "feel revulsion", "ja": "強い嫌悪を感じる" },
+      { "en": "in revulsion", "ja": "嫌悪して" },
+      { "en": "a sense of revulsion", "ja": "嫌悪感" },
+      { "en": "fill with revulsion", "ja": "強い嫌悪で満たす" },
+      { "en": "public revulsion", "ja": "世間の強い反感" },
+      { "en": "turn away in revulsion", "ja": "嫌悪して顔をそむける" }
+    ],
+    "related": [
+      { "en": "disgust", "ja": "嫌悪・むかつき" },
+      { "en": "repugnance", "ja": "強い反感" },
+      { "en": "revolting", "ja": "むかつくような" },
+      { "en": "loathing", "ja": "強い嫌悪" }
+    ],
+    "faq": [
+      { "q": "revulsion とはどんな意味？", "a": "ぞっとするほどの『強い嫌悪・反感・むかつき』という意味の名詞です。She turned away in revulsion.（嫌悪して顔をそむけた）のように使います。" },
+      { "q": "revulsion と disgust の違いは？", "a": "どちらも『嫌悪』ですが、revulsion のほうがより強く、身震いするような激しい拒絶感を表します。disgust は日常的にも軽い『うんざり』にも使えます。" }
+    ],
+    "quiz": [
+      { "q": "She turned away in ___.（嫌悪して）", "A": "revulsion", "B": "reversion の逆戻り", "C": "revision の修正", "D": "reunion の再会", "correct": "A" },
+      { "q": "revulsion と関連する動詞はどれ？", "A": "revolt（むかつかせる）", "B": "revise（修正する）", "C": "reverse（逆にする）", "D": "reunite（再会させる）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reactionary",
+    "pron": "riˈækʃəneri",
+    "kana": "リアクショナリー",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "reaction（反動）＋ -ary（〜の）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "政治"],
+    "meaning_main": "（政治的に）反動的な・復古的な／反動主義者",
+    "description": "reactionary の意味・発音・例文・語源を解説。進歩や変化に強く反対し、昔に戻そうとする「反動的な・反動主義者」を表す、政治で使う語を分かりやすく紹介します。",
+    "keywords": ["reactionary 意味", "reactionary 発音", "反動的な", "保守"],
+    "meanings": [
+      { "hinshi": "【形容詞】（政治的に）反動的な・復古的な", "note": "社会の進歩・改革に強く反対し、以前の状態に戻そうとする。否定的な含み。" },
+      { "hinshi": "【名詞】反動主義者・反動家", "note": "変化に反対し昔に戻そうとする人。" }
+    ],
+    "usages": [
+      { "title": "① 形容詞「反動的な」として", "desc": "改革に逆らう立場を表します。", "example_en": "The party adopted reactionary policies.", "example_ja": "その党は反動的な政策を採った。" },
+      { "title": "② 名詞「反動主義者」として", "desc": "変化に反対する人を表します。", "example_en": "He was branded a reactionary.", "example_ja": "彼は反動主義者の烙印を押された。" }
+    ],
+    "warn": [
+      "reactionary は『（政治的に）反動的な・復古的な』『反動主義者』。否定的なニュアンスが強い。",
+      "単なる conservative（保守的な）より強く、『過去に逆戻りさせようとする』含み。"
+    ],
+    "etym_note": "reaction（反動・反応、re-「逆に」＋ action「動き」より）＋ -ary（〜の・〜する人）から成り、「（進歩に対して）逆方向に動こうとする」を意味します。",
+    "etym_chain": [
+      { "node": "reaction", "sub": "反動・反応", "era": "近代英語" },
+      { "node": "reactionary", "sub": "反動的な", "era": "18世紀英語" },
+      { "node": "reactionary", "sub": "反動的な・反動主義者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reactionary policies", "ja": "反動的な政策" },
+      { "en": "a reactionary regime", "ja": "反動的な政権" },
+      { "en": "reactionary forces", "ja": "反動勢力" },
+      { "en": "branded a reactionary", "ja": "反動主義者とされる" },
+      { "en": "deeply reactionary", "ja": "きわめて反動的な" },
+      { "en": "reactionary views", "ja": "反動的な考え" }
+    ],
+    "related": [
+      { "en": "reaction", "ja": "反動・反応" },
+      { "en": "conservative", "ja": "保守的な" },
+      { "en": "regressive", "ja": "後退的な" },
+      { "en": "progressive", "ja": "進歩的な（反対）" }
+    ],
+    "faq": [
+      { "q": "reactionary とはどんな意味？", "a": "社会の進歩・改革に強く反対し、昔の状態に戻そうとする『反動的な』という形容詞、また『反動主義者』という名詞です。否定的なニュアンスで使われます。" },
+      { "q": "reactionary と conservative の違いは？", "a": "conservative は『（現状を守ろうとする）保守的な』、reactionary は『（過去に逆戻りさせようとする）反動的な』で、reactionary のほうが強く否定的に使われます。" }
+    ],
+    "quiz": [
+      { "q": "The party adopted ___ policies.（反動的な）", "A": "reactionary", "B": "revolutionary の革命的な", "C": "reactive の反応する", "D": "regulatory の規制の", "correct": "A" },
+      { "q": "reactionary の対義に近い語はどれ？", "A": "progressive（進歩的な）", "B": "conservative（保守的な）", "C": "regressive（後退的な）", "D": "negative（否定的な）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "receptacle",
+    "pron": "rɪˈseptəkl",
+    "kana": "リセプタクル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 receptaculum（受け入れる場所）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "やや硬い語"],
+    "meaning_main": "容器・入れ物／（米）コンセントの差込口",
+    "description": "receptacle の意味・発音・例文・語源を解説。物を受け入れる「容器・入れ物」、またアメリカ英語での「コンセントの差込口」という使い方を分かりやすく紹介します。",
+    "keywords": ["receptacle 意味", "receptacle 発音", "容器", "入れ物"],
+    "meanings": [
+      { "hinshi": "【名詞】容器・入れ物・受け皿", "note": "物を入れたり受けたりする器。a waste receptacle（ごみ入れ）。" },
+      { "hinshi": "【名詞】(米)コンセントの差込口", "note": "電気プラグを差し込む口（outlet）。" }
+    ],
+    "usages": [
+      { "title": "① 「容器・入れ物」として", "desc": "物を受け入れる器を表します。", "example_en": "Please put your trash in the receptacle.", "example_ja": "ごみは容器に入れてください。" },
+      { "title": "② 「差込口」として", "desc": "電気のコンセント口を表します。", "example_en": "Plug the cord into the wall receptacle.", "example_ja": "コードを壁のコンセントに差し込みなさい。" }
+    ],
+    "warn": [
+      "receptacle は『容器・入れ物』が中心。やや硬い語で、案内表示などで使う（a waste receptacle＝ごみ入れ）。",
+      "アメリカ英語では『コンセントの差込口（outlet）』の意味もある。"
+    ],
+    "etym_note": "ラテン語 receptaculum（『受け入れる場所』、recipere「受け取る」より）に由来し、「物を受け入れる器」を意味します。receive（受け取る）, reception（受付）と同じ語根です。",
+    "etym_chain": [
+      { "node": "receptaculum", "sub": "受け入れる場所", "era": "ラテン語" },
+      { "node": "receptacle", "sub": "容器", "era": "中英語" },
+      { "node": "receptacle", "sub": "容器・差込口", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a waste receptacle", "ja": "ごみ入れ" },
+      { "en": "a storage receptacle", "ja": "収納容器" },
+      { "en": "put trash in the receptacle", "ja": "ごみを容器に入れる" },
+      { "en": "a wall receptacle", "ja": "壁のコンセント" },
+      { "en": "an electrical receptacle", "ja": "電気の差込口" },
+      { "en": "a suitable receptacle", "ja": "ふさわしい容器" }
+    ],
+    "related": [
+      { "en": "container", "ja": "容器" },
+      { "en": "vessel", "ja": "器・容器" },
+      { "en": "outlet", "ja": "コンセント（米）" },
+      { "en": "bin", "ja": "ごみ箱・入れ物" }
+    ],
+    "faq": [
+      { "q": "receptacle とはどんな意味？", "a": "物を受け入れる『容器・入れ物・受け皿』のことです。Please put your trash in the receptacle.（ごみは容器に入れて）のように、やや硬い表示などで使います。" },
+      { "q": "receptacle はコンセントの意味もある？", "a": "はい。アメリカ英語では『コンセントの差込口（electrical receptacle / outlet）』の意味でも使います。Plug the cord into the wall receptacle.（コードを壁のコンセントに差す）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "Please put your trash in the ___.（容器）", "A": "receptacle", "B": "reception の受付", "C": "recipient の受取人", "D": "receipt の領収書", "correct": "A" },
+      { "q": "receptacle のもとになった語根の意味は？", "A": "receive（受け取る）", "B": "reduce（減らす）", "C": "recover（回復する）", "D": "record（記録する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rambunctious",
+    "pron": "ræmˈbʌŋkʃəs",
+    "kana": "ランバンクシャス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "rumbustious（騒がしい）の変形より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "口語"],
+    "meaning_main": "（元気がありすぎて）騒々しい・手に負えない・やんちゃな",
+    "description": "rambunctious の意味・発音・例文・語源を解説。元気いっぱいで「騒々しい・手に負えない・やんちゃな」様子を表す、子どもや動物によく使う口語を紹介します。",
+    "keywords": ["rambunctious 意味", "rambunctious 発音", "やんちゃな", "騒々しい"],
+    "meanings": [
+      { "hinshi": "【形容詞】（元気すぎて）騒々しい・手に負えない・やんちゃな", "note": "陽気でエネルギーがあり、騒がしく抑えがきかない様子。多く子ども・動物に使う。a rambunctious child（やんちゃな子）。" }
+    ],
+    "usages": [
+      { "title": "① 子どもの「やんちゃ」として", "desc": "元気で騒がしい様子を表します。", "example_en": "The rambunctious kids ran around the room.", "example_ja": "やんちゃな子どもたちが部屋を駆け回った。" },
+      { "title": "② 集まりの「にぎやかさ」として", "desc": "陽気で騒がしい雰囲気を表します。", "example_en": "It was a rambunctious party.", "example_ja": "それは騒々しいほどにぎやかなパーティーだった。" }
+    ],
+    "warn": [
+      "rambunctious は『（元気すぎて）騒々しい・やんちゃな』。主に子ども・動物・集まりに使う口語。アメリカ英語でよく使う。",
+      "悪意はなく『元気が有り余って手がつけられない』という、ほほえましさを含む語感。"
+    ],
+    "etym_note": "古い語 rumbustious（『騒がしい・手に負えない』、robust「頑健な」と関連）が変化してできた、19世紀アメリカ英語の語です。",
+    "etym_chain": [
+      { "node": "robustious", "sub": "頑健で騒がしい", "era": "近代英語" },
+      { "node": "rumbustious", "sub": "騒がしい", "era": "18世紀英語" },
+      { "node": "rambunctious", "sub": "騒々しい・やんちゃな", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rambunctious child", "ja": "やんちゃな子ども" },
+      { "en": "rambunctious kids", "ja": "やんちゃな子どもたち" },
+      { "en": "a rambunctious puppy", "ja": "元気いっぱいの子犬" },
+      { "en": "a rambunctious crowd", "ja": "騒々しい群衆" },
+      { "en": "get rambunctious", "ja": "はしゃぎ出す" },
+      { "en": "rambunctious behavior", "ja": "やんちゃなふるまい" }
+    ],
+    "related": [
+      { "en": "boisterous", "ja": "騒々しい・元気な" },
+      { "en": "rowdy", "ja": "乱暴で騒がしい" },
+      { "en": "unruly", "ja": "手に負えない" },
+      { "en": "lively", "ja": "活発な" }
+    ],
+    "faq": [
+      { "q": "rambunctious とはどんな意味？", "a": "元気が有り余って『騒々しい・手に負えない・やんちゃな』という意味の形容詞です。主に子どもや動物に使い、a rambunctious child（やんちゃな子）のように使います。" },
+      { "q": "rambunctious と rowdy の違いは？", "a": "どちらも『騒がしい』ですが、rambunctious は『元気いっぱいでほほえましい騒がしさ』、rowdy は『（けんか腰の）乱暴で粗野な騒がしさ』というニュアンスの違いがあります。" }
+    ],
+    "quiz": [
+      { "q": "The ___ kids ran around the room.（やんちゃな）", "A": "rambunctious", "B": "ridiculous のばかげた", "C": "religious の宗教的な", "D": "ambitious の野心的な", "correct": "A" },
+      { "q": "rambunctious はどんな対象によく使う？", "A": "元気な子どもや動物", "B": "静かな図書館", "C": "古い建物", "D": "高価な宝石", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rend",
+    "pron": "rend",
+    "kana": "レンド",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古英語 rendan（引き裂く）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文語的"],
+    "meaning_main": "（激しく）引き裂く・引きちぎる",
+    "description": "rend の意味・発音・例文・語源を解説。布や物を「激しく引き裂く・引きちぎる」という、文語的で力強い動詞の使い方と、過去形 rent を分かりやすく紹介します。",
+    "keywords": ["rend 意味", "rend 発音", "引き裂く", "rent 過去形"],
+    "meanings": [
+      { "hinshi": "【動詞】（激しく）引き裂く・引きちぎる", "note": "力ずくで裂く。文語的。過去形・過去分詞は rent。rend in two（二つに引き裂く）。" },
+      { "hinshi": "【動詞】（心・社会を）引き裂く・苦しめる", "note": "比喩で、対立などが組織や心を引き裂く。a country rent by war（戦争で引き裂かれた国）。" }
+    ],
+    "usages": [
+      { "title": "① 「引き裂く」として", "desc": "力ずくで裂くことを表します。", "example_en": "A loud scream rent the silence.", "example_ja": "大きな叫びが静寂を引き裂いた。" },
+      { "title": "② 比喩「引き裂く」として", "desc": "対立が組織や心を裂くことを表します。", "example_en": "The nation was rent by civil war.", "example_ja": "その国は内戦で引き裂かれた。" }
+    ],
+    "warn": [
+      "rend は『（激しく）引き裂く』。文語的・力強い語。過去形・過去分詞は rent（家賃の rent と同形だが別語）。",
+      "rend と tear（裂く）は同義だが、rend のほうが古風・劇的。"
+    ],
+    "etym_note": "古英語 rendan（引き裂く）に由来する古い語で、激しく裂く動作を表します。詩や聖書的な文章で『引き裂く』意味でよく使われます。",
+    "etym_chain": [
+      { "node": "rendan", "sub": "引き裂く", "era": "古英語" },
+      { "node": "renden", "sub": "引き裂く", "era": "中英語" },
+      { "node": "rend", "sub": "引き裂く", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rend in two", "ja": "二つに引き裂く" },
+      { "en": "rend the air", "ja": "（音が）空気を引き裂く" },
+      { "en": "rend the silence", "ja": "静寂を引き裂く" },
+      { "en": "rent by war", "ja": "戦争で引き裂かれた" },
+      { "en": "rend one's garments", "ja": "（嘆いて）衣服を引き裂く" },
+      { "en": "heart-rending", "ja": "胸が張り裂けるような" }
+    ],
+    "related": [
+      { "en": "tear", "ja": "裂く・破る" },
+      { "en": "rip", "ja": "引き裂く" },
+      { "en": "split", "ja": "割る・裂く" },
+      { "en": "shred", "ja": "ずたずたに裂く" }
+    ],
+    "faq": [
+      { "q": "rend とはどんな意味？", "a": "布や物を『激しく引き裂く・引きちぎる』という文語的な動詞です。A loud scream rent the silence.（叫びが静寂を引き裂いた）のように、劇的な文脈で使います。過去形は rent です。" },
+      { "q": "rend の過去形は？", "a": "rent です（家賃の rent と同じ形ですが別語）。heart-rending（胸が張り裂けるような）という形容詞でもよく見られます。" }
+    ],
+    "quiz": [
+      { "q": "A loud scream ___ the silence.（引き裂いた・過去形）", "A": "rent", "B": "rend の原形", "C": "lend の貸した", "D": "send の送った", "correct": "A" },
+      { "q": "rend とほぼ同じ意味の語はどれ？", "A": "tear（裂く）", "B": "lend（貸す）", "C": "bend（曲げる）", "D": "send（送る）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reprove",
+    "pron": "rɪˈpruːv",
+    "kana": "リプルーブ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 reprobare（拒む・とがめる）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文語的"],
+    "meaning_main": "(おだやかに)たしなめる・叱責する・とがめる",
+    "description": "reprove の意味・発音・例文・語源を解説。人の過ちを「たしなめる・やんわり叱る・とがめる」という、やや硬い動詞の使い方を分かりやすく紹介します。",
+    "keywords": ["reprove 意味", "reprove 発音", "たしなめる", "叱責する"],
+    "meanings": [
+      { "hinshi": "【動詞】たしなめる・叱責する・とがめる", "note": "過ちや言動をやんわり、または正式にとがめる。reprove someone for ～（〜のことで人をたしなめる）。" }
+    ],
+    "usages": [
+      { "title": "① 「たしなめる」として", "desc": "やんわりとがめることを表します。", "example_en": "The teacher reproved the boy for being late.", "example_ja": "先生は遅刻したことでその少年をたしなめた。" },
+      { "title": "② 穏やかな叱責として", "desc": "おだやかに非難することを表します。", "example_en": "She gently reproved him for his rudeness.", "example_ja": "彼女は彼の無礼をやんわり叱った。" }
+    ],
+    "warn": [
+      "reprove は『たしなめる・(穏やかに)叱責する』。やや硬い・文語的。reprove A for B（BのことでAをとがめる）。",
+      "名詞は reproof（叱責）。動詞 disprove（反証する）とは別語。"
+    ],
+    "etym_note": "ラテン語 reprobare（re-「逆に」＋ probare「よしとする・試す」）に由来し、「（よくないと）退ける＝とがめる」を意味します。prove（証明する）, probe（探る）と同じ語根です。",
+    "etym_chain": [
+      { "node": "reprobare", "sub": "拒む・とがめる", "era": "ラテン語" },
+      { "node": "reproven", "sub": "とがめる", "era": "中英語" },
+      { "node": "reprove", "sub": "たしなめる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reprove someone for something", "ja": "〜のことで人をたしなめる" },
+      { "en": "gently reprove", "ja": "やんわりたしなめる" },
+      { "en": "reprove sharply", "ja": "きつく叱責する" },
+      { "en": "a reproving look", "ja": "とがめるような目つき" },
+      { "en": "reprove a child", "ja": "子どもをたしなめる" },
+      { "en": "be reproved for", "ja": "〜のことで叱られる" }
+    ],
+    "related": [
+      { "en": "reproach", "ja": "非難する・とがめる" },
+      { "en": "rebuke", "ja": "（強く）叱責する" },
+      { "en": "scold", "ja": "（口やかましく）叱る" },
+      { "en": "reproof", "ja": "叱責（名詞）" }
+    ],
+    "faq": [
+      { "q": "reprove とはどんな意味？", "a": "人の過ちや言動を『たしなめる・やんわり叱る・とがめる』という、やや硬い動詞です。The teacher reproved the boy for being late.（遅刻でその子をたしなめた）のように使います。名詞は reproof です。" },
+      { "q": "reprove と rebuke の違いは？", "a": "どちらも『叱責する』ですが、reprove は『（おだやかに）たしなめる』ニュアンス、rebuke は『（強く・厳しく）叱責する』ニュアンスがあります。" }
+    ],
+    "quiz": [
+      { "q": "The teacher ___d the boy for being late.（たしなめた）", "A": "reprove", "B": "approve の承認する", "C": "improve の改善する", "D": "disprove の反証する", "correct": "A" },
+      { "q": "reprove の名詞形はどれ？", "A": "reproof（叱責）", "B": "approval（承認）", "C": "improvement（改善）", "D": "proof（証拠）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retrench",
+    "pron": "rɪˈtrentʃ",
+    "kana": "リトレンチ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古フランス語 retrencher（切り詰める）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "ビジネス・経済"],
+    "meaning_main": "（出費・規模を）切り詰める・縮小する／人員を削減する",
+    "description": "retrench の意味・発音・例文・語源を解説。企業や個人が出費や規模を「切り詰める・縮小する」、また人員を「削減する」という、経済・ビジネスで使う語を紹介します。",
+    "keywords": ["retrench 意味", "retrench 発音", "切り詰める", "縮小する"],
+    "meanings": [
+      { "hinshi": "【動詞】（出費・規模を）切り詰める・縮小する", "note": "経費を減らして引き締める。The company had to retrench.（会社は緊縮を迫られた）。" },
+      { "hinshi": "【動詞】(英)人員を削減する・解雇する", "note": "be retrenched（人員整理で解雇される）。" }
+    ],
+    "usages": [
+      { "title": "① 「切り詰める」として", "desc": "出費や規模を減らすことを表します。", "example_en": "Many firms retrenched during the recession.", "example_ja": "多くの企業が不況時に経費を切り詰めた。" },
+      { "title": "② 「人員削減」として", "desc": "従業員を減らすことを表します。", "example_en": "Hundreds of workers were retrenched.", "example_ja": "何百人もの労働者が人員整理で解雇された。" }
+    ],
+    "warn": [
+      "retrench は『（出費・規模を）切り詰める・縮小する』。経済・経営の語。名詞は retrenchment（緊縮・人員削減）。",
+      "イギリス・英連邦では『人員を削減・解雇する』の意味でも使う。"
+    ],
+    "etym_note": "古フランス語 retrencher（re-「再び」＋ trencher「切る」）に由来し、「切り詰めること」を意味します。trench（塹壕・溝）, trenchant（鋭い）と同じ語根です。",
+    "etym_chain": [
+      { "node": "retrencher", "sub": "切り詰める", "era": "古フランス語" },
+      { "node": "retrench", "sub": "切り詰める", "era": "17世紀英語" },
+      { "node": "retrench", "sub": "切り詰める・人員削減する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "retrench spending", "ja": "支出を切り詰める" },
+      { "en": "be forced to retrench", "ja": "緊縮を迫られる" },
+      { "en": "retrench during a recession", "ja": "不況時に切り詰める" },
+      { "en": "be retrenched", "ja": "人員整理で解雇される" },
+      { "en": "a period of retrenchment", "ja": "緊縮の時期" },
+      { "en": "retrench staff", "ja": "人員を削減する" }
+    ],
+    "related": [
+      { "en": "retrenchment", "ja": "緊縮・人員削減" },
+      { "en": "cut back", "ja": "切り詰める" },
+      { "en": "downsize", "ja": "（規模・人員を）縮小する" },
+      { "en": "economize", "ja": "節約する" }
+    ],
+    "faq": [
+      { "q": "retrench とはどんな意味？", "a": "出費や規模を『切り詰める・縮小する』という意味です。Many firms retrenched during the recession.（多くの企業が不況時に経費を切り詰めた）のように使います。名詞は retrenchment です。" },
+      { "q": "retrench は『解雇する』の意味もある？", "a": "はい。イギリスや英連邦の英語では『人員を削減する・解雇する』の意味でも使います。be retrenched（人員整理で解雇される）のように受け身でよく使います。" }
+    ],
+    "quiz": [
+      { "q": "Many firms ___ed during the recession.（切り詰めた）", "A": "retrench", "B": "research の研究する", "C": "retreat の退却する", "D": "reach の届く", "correct": "A" },
+      { "q": "retrench の名詞形はどれ？", "A": "retrenchment（緊縮・人員削減）", "B": "research（研究）", "C": "retreat（退却）", "D": "reach（範囲）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reed",
+    "pron": "riːd",
+    "kana": "リード",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 hrēod（葦）より",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "自然・音楽"],
+    "meaning_main": "アシ・葦（水辺の草）／（楽器の）リード",
+    "description": "reed の意味・発音・例文・語源を解説。水辺に生える背の高い草「アシ（葦）」と、クラリネットなどの「リード」を表す名詞の使い方を分かりやすく紹介します。",
+    "keywords": ["reed 意味", "reed 発音", "アシ 葦", "リード 楽器"],
+    "meanings": [
+      { "hinshi": "【名詞】アシ・葦（あし）", "note": "川辺や湿地に生える、まっすぐで背の高い草。reeds by the river（川辺のアシ）。" },
+      { "hinshi": "【名詞】(楽器の)リード", "note": "クラリネット・オーボエなどで振動して音を出す薄片。a reed instrument（リード楽器）。" }
+    ],
+    "usages": [
+      { "title": "① 植物の「アシ」として", "desc": "水辺の草を表します。", "example_en": "The ducks hid among the reeds.", "example_ja": "カモたちはアシの間に隠れた。" },
+      { "title": "② 楽器の「リード」として", "desc": "音を出す薄片を表します。", "example_en": "The clarinet's reed needs replacing.", "example_ja": "クラリネットのリードを交換する必要がある。" }
+    ],
+    "warn": [
+      "reed は『アシ・葦』『（楽器の）リード』。read（読む）の過去形 read と発音が同じ（riːd）だが別語。",
+      "a broken reed は『頼りにならない人・もの』という慣用句。"
+    ],
+    "etym_note": "古英語 hrēod（『葦』）に由来します。葦の茎が楽器の発音体に使われたことから、『（楽器の）リード』の意味も生まれました。",
+    "etym_chain": [
+      { "node": "hrēod", "sub": "葦", "era": "古英語" },
+      { "node": "reed", "sub": "葦", "era": "中英語" },
+      { "node": "reed", "sub": "アシ・リード", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reeds by the river", "ja": "川辺のアシ" },
+      { "en": "among the reeds", "ja": "アシの間に" },
+      { "en": "a reed instrument", "ja": "リード楽器" },
+      { "en": "a clarinet reed", "ja": "クラリネットのリード" },
+      { "en": "replace the reed", "ja": "リードを交換する" },
+      { "en": "a broken reed", "ja": "頼りにならない人・もの" }
+    ],
+    "related": [
+      { "en": "rush", "ja": "イグサ（水辺の草）" },
+      { "en": "cane", "ja": "茎・トウ" },
+      { "en": "clarinet", "ja": "クラリネット" },
+      { "en": "marsh", "ja": "湿地" }
+    ],
+    "faq": [
+      { "q": "reed とはどんな意味？", "a": "水辺に生える背の高い草『アシ（葦）』と、クラリネットなどの『（楽器の）リード』という意味があります。The ducks hid among the reeds.（カモがアシの間に隠れた）のように使います。" },
+      { "q": "reed と read の違いは？", "a": "reed は名詞『アシ・リード』、read は動詞『読む』です。read の過去形 read は reed と同じ発音（リード）ですが、つづりも意味も別なので注意しましょう。" }
+    ],
+    "quiz": [
+      { "q": "The ducks hid among the ___.（アシ）", "A": "reeds", "B": "roads の道", "C": "seeds の種", "D": "reads の読む", "correct": "A" },
+      { "q": "reed の楽器での意味はどれ？", "A": "振動して音を出す薄片（リード）", "B": "弦", "C": "鍵盤", "D": "太鼓の皮", "correct": "A" }
+    ]
+  }
+]

@@ -1,0 +1,473 @@
+[
+  {
+    "english": "renewable",
+    "pron": "rɪˈnjuːəbl",
+    "kana": "リニューアブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "renew（更新する・再生する）＋ -able（できる）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "環境・頻出"],
+    "meaning_main": "再生可能な（エネルギー）／更新できる（契約など）",
+    "description": "renewable の意味・発音・例文・語源を解説。太陽光や風力などの「再生可能な（エネルギー）」、また契約などが「更新できる」という使い方を分かりやすく紹介します。",
+    "keywords": ["renewable 意味", "renewable 発音", "再生可能エネルギー", "renew 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】再生可能な・尽きない", "note": "自然に補充され使い続けられる。renewable energy（再生可能エネルギー）。" },
+      { "hinshi": "【形容詞】更新できる・継続できる", "note": "契約・許可などを延長できる。a renewable contract（更新可能な契約）。" }
+    ],
+    "usages": [
+      { "title": "① 「再生可能エネルギー」として", "desc": "尽きない自然エネルギーを表します。", "example_en": "Solar and wind are renewable energy sources.", "example_ja": "太陽光と風力は再生可能エネルギー源だ。" },
+      { "title": "② 「更新できる」として", "desc": "契約などの延長可能を表します。", "example_en": "The visa is renewable every year.", "example_ja": "そのビザは毎年更新できる。" }
+    ],
+    "warn": [
+      "renewable は『再生可能な』『更新できる』。renew（更新・再生する）＋ -able。反対は non-renewable（再生不可能な）。",
+      "renewable energy（再生可能エネルギー＝太陽光・風力・地熱など）が頻出。"
+    ],
+    "etym_note": "renew（re-「再び」＋ new「新しい」＝新しくする）＋ -able（できる）から成り、「再び新しくできる・補充できる」を意味します。new（新しい）と同じ語根です。",
+    "etym_chain": [
+      { "node": "renew", "sub": "新しくする・更新する", "era": "中英語" },
+      { "node": "renewable", "sub": "更新できる", "era": "近代英語" },
+      { "node": "renewable", "sub": "再生可能な・更新できる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "renewable energy", "ja": "再生可能エネルギー" },
+      { "en": "renewable resources", "ja": "再生可能資源" },
+      { "en": "a renewable contract", "ja": "更新可能な契約" },
+      { "en": "renewable sources", "ja": "再生可能な（エネルギー）源" },
+      { "en": "100% renewable", "ja": "100％再生可能" },
+      { "en": "non-renewable fuels", "ja": "再生不可能な燃料" }
+    ],
+    "related": [
+      { "en": "renew", "ja": "更新する・再生する" },
+      { "en": "sustainable", "ja": "持続可能な" },
+      { "en": "recyclable", "ja": "リサイクル可能な" },
+      { "en": "non-renewable", "ja": "再生不可能な（反対）" }
+    ],
+    "faq": [
+      { "q": "renewable とはどんな意味？", "a": "太陽光や風力など自然に補充され使い続けられる『再生可能な』、また契約などが『更新できる』という意味です。Solar and wind are renewable energy sources.（太陽光と風力は再生可能エネルギー源）のように使います。" },
+      { "q": "renewable と non-renewable の違いは？", "a": "renewable は『再生可能な（尽きない）』、non-renewable は『再生不可能な（いずれ尽きる）』です。太陽光・風力は renewable、石油・石炭などの化石燃料は non-renewable です。" }
+    ],
+    "quiz": [
+      { "q": "Solar and wind are ___ energy sources.（再生可能な）", "A": "renewable", "B": "removable の取り外せる", "C": "reliable の信頼できる", "D": "readable の読みやすい", "correct": "A" },
+      { "q": "renewable の反対語はどれ？", "A": "non-renewable（再生不可能な）", "B": "renewal（更新）", "C": "renew（更新する）", "D": "renewed（更新された）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "removable",
+    "pron": "rɪˈmuːvəbl",
+    "kana": "リムーバブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "remove（取り除く）＋ -able（できる）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "日常・技術"],
+    "meaning_main": "取り外せる・取り除ける・着脱できる",
+    "description": "removable の意味・発音・例文・語源を解説。部品やカバーなどが「取り外せる・着脱できる」、汚れなどが「取り除ける」という使い方を分かりやすく紹介します。",
+    "keywords": ["removable 意味", "removable 発音", "取り外せる", "remove 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】取り外せる・着脱できる・取り除ける", "note": "外したり取り除いたりできる。a removable cover（取り外せるカバー）。removable stains（落とせる汚れ）。" }
+    ],
+    "usages": [
+      { "title": "① 「取り外せる」として", "desc": "着脱できる部品などを表します。", "example_en": "The laptop has a removable battery.", "example_ja": "そのノートパソコンは取り外せる電池を備えている。" },
+      { "title": "② 「取り除ける」として", "desc": "落とせる汚れなどを表します。", "example_en": "The cover is removable and machine-washable.", "example_ja": "そのカバーは取り外して洗濯機で洗える。" }
+    ],
+    "warn": [
+      "removable は『取り外せる・着脱できる・取り除ける』。remove（取り除く）＋ -able。反対は fixed（固定された）。",
+      "a removable cover / battery / lining（取り外せるカバー・電池・裏地）が頻出。"
+    ],
+    "etym_note": "remove（re-「再び・離れて」＋ move「動かす」＝離して動かす）＋ -able（できる）から成り、「取り外すことができる」を意味します。move（動かす）, motion（動き）と同じ語根です。",
+    "etym_chain": [
+      { "node": "remove", "sub": "取り除く・移す", "era": "中英語" },
+      { "node": "removable", "sub": "取り外せる", "era": "近代英語" },
+      { "node": "removable", "sub": "取り外せる・着脱できる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a removable cover", "ja": "取り外せるカバー" },
+      { "en": "a removable battery", "ja": "着脱できる電池" },
+      { "en": "a removable lining", "ja": "取り外せる裏地" },
+      { "en": "removable storage", "ja": "（PCの）取り外し可能な記憶装置" },
+      { "en": "easily removable", "ja": "簡単に取り外せる" },
+      { "en": "a removable partition", "ja": "可動式の仕切り" }
+    ],
+    "related": [
+      { "en": "remove", "ja": "取り除く・移す" },
+      { "en": "detachable", "ja": "取り外せる・着脱式の" },
+      { "en": "fixed", "ja": "固定された（反対）" },
+      { "en": "portable", "ja": "持ち運べる" }
+    ],
+    "faq": [
+      { "q": "removable とはどんな意味？", "a": "部品やカバーなどが『取り外せる・着脱できる』、また汚れなどが『取り除ける』という意味です。The laptop has a removable battery.（取り外せる電池を備えている）のように使います。" },
+      { "q": "removable と detachable の違いは？", "a": "ほぼ同義で『取り外せる』ですが、detachable は『（つながっている部品を）切り離せる・着脱式の』に重点、removable は『取り外せる・取り除ける』をより広く使えます。" }
+    ],
+    "quiz": [
+      { "q": "The laptop has a ___ battery.（取り外せる）", "A": "removable", "B": "renewable の再生可能な", "C": "reliable の信頼できる", "D": "reasonable の妥当な", "correct": "A" },
+      { "q": "removable のもとになった動詞はどれ？", "A": "remove（取り除く）", "B": "renew（更新する）", "C": "rely（頼る）", "D": "reason（推論する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "repetitive",
+    "pron": "rɪˈpetətɪv",
+    "kana": "リペティティブ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "repeat（繰り返す）＋ -itive",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "繰り返しの多い・反復的な・単調な",
+    "description": "repetitive の意味・発音・例文・語源を解説。同じことが何度も繰り返される「繰り返しの多い・反復的な・単調な」という様子を表す形容詞を分かりやすく紹介します。",
+    "keywords": ["repetitive 意味", "repetitive 発音", "繰り返しの多い", "単調な"],
+    "meanings": [
+      { "hinshi": "【形容詞】繰り返しの多い・反復的な・単調な", "note": "同じことが何度も繰り返される（しばしば退屈の含み）。repetitive work（単調な作業）。" }
+    ],
+    "usages": [
+      { "title": "① 「単調な作業」として", "desc": "繰り返しの多い退屈さを表します。", "example_en": "The job is dull and repetitive.", "example_ja": "その仕事は退屈で単調だ。" },
+      { "title": "② 「反復的な動作」として", "desc": "同じ動きの繰り返しを表します。", "example_en": "Repetitive movements can cause injury.", "example_ja": "反復的な動作はけがの原因になりうる。" }
+    ],
+    "warn": [
+      "repetitive は『繰り返しの多い・反復的な・単調な』。repeat（繰り返す）＋ -itive。名詞 repetition（繰り返し）。",
+      "RSI（repetitive strain injury＝反復運動による障害）でも使う。しばしば否定的（退屈）。"
+    ],
+    "etym_note": "repeat（繰り返す、ラテン語 repetere「再び求める」より）＋ -itive（性質を表す語尾）から成り、「繰り返しの多い」を意味します。repetition（反復）と同じ語根です。",
+    "etym_chain": [
+      { "node": "repetere", "sub": "再び求める", "era": "ラテン語" },
+      { "node": "repeat", "sub": "繰り返す", "era": "中英語" },
+      { "node": "repetitive", "sub": "反復的な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "repetitive work", "ja": "単調な作業" },
+      { "en": "repetitive tasks", "ja": "繰り返しの多い仕事" },
+      { "en": "repetitive movements", "ja": "反復的な動作" },
+      { "en": "dull and repetitive", "ja": "退屈で単調な" },
+      { "en": "repetitive strain injury", "ja": "反復運動による障害（RSI）" },
+      { "en": "a repetitive rhythm", "ja": "反復するリズム" }
+    ],
+    "related": [
+      { "en": "repeat", "ja": "繰り返す" },
+      { "en": "repetition", "ja": "繰り返し・反復" },
+      { "en": "monotonous", "ja": "単調な" },
+      { "en": "varied", "ja": "変化に富んだ（反対）" }
+    ],
+    "faq": [
+      { "q": "repetitive とはどんな意味？", "a": "同じことが何度も繰り返される『繰り返しの多い・反復的な・単調な』という形容詞です（しばしば退屈の含み）。The job is dull and repetitive.（退屈で単調だ）のように使います。" },
+      { "q": "repetitive と monotonous の違いは？", "a": "repetitive は『（同じことの）繰り返しが多い』、monotonous は『（変化がなく）単調で退屈な』に重点があります。単調な仕事は repetitive かつ monotonous といえます。" }
+    ],
+    "quiz": [
+      { "q": "The job is dull and ___.（単調な）", "A": "repetitive", "B": "competitive の競争的な", "C": "primitive の原始的な", "D": "sensitive の敏感な", "correct": "A" },
+      { "q": "repetitive の名詞形はどれ？", "A": "repetition（繰り返し）", "B": "competition（競争）", "C": "reputation（評判）", "D": "recreation（娯楽）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "respectful",
+    "pron": "rɪˈspektfl",
+    "kana": "リスペクトフル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "respect（尊敬）＋ -ful（〜に満ちた）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出語"],
+    "meaning_main": "敬意のこもった・礼儀正しい・うやうやしい",
+    "description": "respectful の意味・発音・例文・語源を解説。相手への「敬意のこもった・礼儀正しい・うやうやしい」態度を表す形容詞の使い方を分かりやすく紹介します。",
+    "keywords": ["respectful 意味", "respectful 発音", "敬意のこもった", "礼儀正しい"],
+    "meanings": [
+      { "hinshi": "【形容詞】敬意のこもった・礼儀正しい・うやうやしい", "note": "相手を敬う態度の。be respectful of ～（〜を尊重する）。a respectful manner（礼儀正しい態度）。" }
+    ],
+    "usages": [
+      { "title": "① 「礼儀正しい」として", "desc": "敬意ある態度を表します。", "example_en": "He was always respectful to his teachers.", "example_ja": "彼はいつも先生に礼儀正しかった。" },
+      { "title": "② be respectful of の形で", "desc": "「〜を尊重する」を表します。", "example_en": "Please be respectful of other people's opinions.", "example_ja": "他人の意見を尊重してください。" }
+    ],
+    "warn": [
+      "respectful は『敬意のこもった・礼儀正しい』。respect（尊敬）＋ -ful。副詞 respectfully。",
+      "respectable（立派な・きちんとした）, respective（それぞれの）と混同注意。"
+    ],
+    "etym_note": "respect（『尊敬』、ラテン語 respicere「振り返って見る・顧みる」より）＋ -ful（『〜に満ちた』）から成り、「敬意に満ちた」を意味します。spectator（観客）, inspect（調べる）と同じ語根です。",
+    "etym_chain": [
+      { "node": "respicere", "sub": "顧みる", "era": "ラテン語" },
+      { "node": "respect", "sub": "尊敬", "era": "中英語" },
+      { "node": "respectful", "sub": "敬意のこもった", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be respectful of", "ja": "〜を尊重する" },
+      { "en": "a respectful manner", "ja": "礼儀正しい態度" },
+      { "en": "respectful of others", "ja": "他人を尊重する" },
+      { "en": "a respectful silence", "ja": "うやうやしい沈黙" },
+      { "en": "polite and respectful", "ja": "丁寧で礼儀正しい" },
+      { "en": "treat with respect", "ja": "敬意をもって扱う" }
+    ],
+    "related": [
+      { "en": "respect", "ja": "尊敬・尊重する" },
+      { "en": "polite", "ja": "礼儀正しい" },
+      { "en": "courteous", "ja": "丁重な" },
+      { "en": "disrespectful", "ja": "無礼な（反対）" }
+    ],
+    "faq": [
+      { "q": "respectful とはどんな意味？", "a": "相手への『敬意のこもった・礼儀正しい・うやうやしい』態度を表す形容詞です。He was always respectful to his teachers.（先生にいつも礼儀正しかった）のように使います。" },
+      { "q": "respectful と respectable と respective の違いは？", "a": "respectful は『敬意のこもった・礼儀正しい』、respectable は『立派な・世間体のよい』、respective は『それぞれの』です。つづりが似ているので意味の違いに注意しましょう。" }
+    ],
+    "quiz": [
+      { "q": "He was always ___ to his teachers.（礼儀正しい）", "A": "respectful", "B": "respectable の立派な", "C": "respective のそれぞれの", "D": "responsible の責任ある", "correct": "A" },
+      { "q": "respectful の反対語はどれ？", "A": "disrespectful（無礼な）", "B": "respectable（立派な）", "C": "respective（それぞれの）", "D": "respected（尊敬された）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "respiratory",
+    "pron": "ˈrespərətɔːri",
+    "kana": "レスピラトリー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 respirare（呼吸する）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "理科・医学"],
+    "meaning_main": "呼吸の・呼吸器の",
+    "description": "respiratory の意味・発音・例文・語源を解説。鼻・のど・肺など「呼吸の・呼吸器の」器官や働きに関する、医学・生物で使う形容詞の使い方を紹介します。",
+    "keywords": ["respiratory 意味", "respiratory 発音", "呼吸の", "呼吸器"],
+    "meanings": [
+      { "hinshi": "【形容詞】呼吸の・呼吸器の", "note": "呼吸（息をすること）や呼吸器官に関する。the respiratory system（呼吸器系）。a respiratory infection（呼吸器感染症）。" }
+    ],
+    "usages": [
+      { "title": "① 「呼吸器系」として", "desc": "呼吸に関わる器官を表します。", "example_en": "The lungs are part of the respiratory system.", "example_ja": "肺は呼吸器系の一部だ。" },
+      { "title": "② 「呼吸器の病気」として", "desc": "呼吸に関わる疾患を表します。", "example_en": "Smoking causes respiratory diseases.", "example_ja": "喫煙は呼吸器の病気を引き起こす。" }
+    ],
+    "warn": [
+      "respiratory は『呼吸の・呼吸器の』。動詞 respire（呼吸する）、名詞 respiration（呼吸）。",
+      "the respiratory system（呼吸器系）, respiratory infection / failure（呼吸器感染症・呼吸不全）が頻出。"
+    ],
+    "etym_note": "ラテン語 respirare（re-「再び」＋ spirare「息をする」）に由来し、「呼吸すること」を意味します。spirit（息・精神）, inspire（息を吹き込む・鼓舞する）と同じ語根です。",
+    "etym_chain": [
+      { "node": "respirare", "sub": "呼吸する", "era": "ラテン語" },
+      { "node": "respiration", "sub": "呼吸", "era": "近代英語" },
+      { "node": "respiratory", "sub": "呼吸の・呼吸器の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the respiratory system", "ja": "呼吸器系" },
+      { "en": "respiratory disease", "ja": "呼吸器の病気" },
+      { "en": "a respiratory infection", "ja": "呼吸器感染症" },
+      { "en": "respiratory failure", "ja": "呼吸不全" },
+      { "en": "the respiratory tract", "ja": "気道" },
+      { "en": "respiratory problems", "ja": "呼吸器の問題" }
+    ],
+    "related": [
+      { "en": "respiration", "ja": "呼吸" },
+      { "en": "respire", "ja": "呼吸する" },
+      { "en": "lung", "ja": "肺" },
+      { "en": "breathing", "ja": "呼吸" }
+    ],
+    "faq": [
+      { "q": "respiratory とはどんな意味？", "a": "鼻・のど・肺など『呼吸の・呼吸器の』器官や働きに関する形容詞です。The lungs are part of the respiratory system.（肺は呼吸器系の一部）のように使います。名詞は respiration（呼吸）です。" },
+      { "q": "the respiratory system とは？", "a": "『呼吸器系』のことで、鼻・気管・気管支・肺など、空気を取り込み酸素と二酸化炭素を交換する器官のまとまりを指します。" }
+    ],
+    "quiz": [
+      { "q": "The lungs are part of the ___ system.（呼吸器の）", "A": "respiratory", "B": "circulatory の循環器の", "C": "regulatory の規制の", "D": "preparatory の準備の", "correct": "A" },
+      { "q": "respiratory の名詞形はどれ？", "A": "respiration（呼吸）", "B": "circulation（循環）", "C": "regulation（規制）", "D": "preparation（準備）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "restful",
+    "pron": "ˈrestfl",
+    "kana": "レストフル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "rest（休息）＋ -ful（〜に満ちた）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "日常"],
+    "meaning_main": "落ち着いた・安らかな・くつろげる",
+    "description": "restful の意味・発音・例文・語源を解説。心身が休まる「落ち着いた・安らかな・くつろげる」雰囲気や時間を表す形容詞の使い方を分かりやすく紹介します。",
+    "keywords": ["restful 意味", "restful 発音", "安らかな", "くつろげる"],
+    "meanings": [
+      { "hinshi": "【形容詞】落ち着いた・安らかな・くつろげる", "note": "心身を休ませてくれる。a restful weekend（くつろげる週末）。restful colors（落ち着いた色）。" }
+    ],
+    "usages": [
+      { "title": "① 「くつろげる」として", "desc": "心身が休まる様子を表します。", "example_en": "We spent a restful weekend in the countryside.", "example_ja": "私たちは田舎でくつろげる週末を過ごした。" },
+      { "title": "② 「落ち着いた雰囲気」として", "desc": "安らげる環境を表します。", "example_en": "The room was painted in restful colors.", "example_ja": "その部屋は落ち着いた色で塗られていた。" }
+    ],
+    "warn": [
+      "restful は『落ち着いた・安らかな・くつろげる』（休ませてくれる側）。rest（休息）＋ -ful。",
+      "restless（落ち着かない・休めない）は反対の意味。-ful と -less で正反対になる。"
+    ],
+    "etym_note": "rest（『休息・休む』、古英語 rest「休息」より）＋ -ful（『〜に満ちた』）から成り、「休息に満ちた・安らかな」を意味します。",
+    "etym_chain": [
+      { "node": "rest", "sub": "休息", "era": "古英語" },
+      { "node": "restful", "sub": "安らかな", "era": "中英語" },
+      { "node": "restful", "sub": "落ち着いた・くつろげる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a restful weekend", "ja": "くつろげる週末" },
+      { "en": "a restful night's sleep", "ja": "安らかな一晩の眠り" },
+      { "en": "restful colors", "ja": "落ち着いた色" },
+      { "en": "a restful atmosphere", "ja": "落ち着いた雰囲気" },
+      { "en": "a restful place", "ja": "くつろげる場所" },
+      { "en": "restful and calm", "ja": "安らかで穏やかな" }
+    ],
+    "related": [
+      { "en": "rest", "ja": "休息・休む" },
+      { "en": "relaxing", "ja": "くつろがせる" },
+      { "en": "peaceful", "ja": "平穏な" },
+      { "en": "restless", "ja": "落ち着かない（反対）" }
+    ],
+    "faq": [
+      { "q": "restful とはどんな意味？", "a": "心身が休まる『落ち着いた・安らかな・くつろげる』という形容詞です。We spent a restful weekend.（くつろげる週末を過ごした）のように使います。" },
+      { "q": "restful と restless の違いは？", "a": "restful は『（休ませてくれる）安らかな・くつろげる』、restless は『（休めない）落ち着かない・そわそわした』で、-ful と -less により正反対の意味になります。" }
+    ],
+    "quiz": [
+      { "q": "We spent a ___ weekend in the countryside.（くつろげる）", "A": "restful", "B": "restless の落ち着かない", "C": "stressful のストレスの多い", "D": "useful の役に立つ", "correct": "A" },
+      { "q": "restful の反対語はどれ？", "A": "restless（落ち着かない）", "B": "rested（休んだ）", "C": "resting（休んでいる）", "D": "restore（回復する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "resistant",
+    "pron": "rɪˈzɪstənt",
+    "kana": "リジスタント",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "resist（抵抗する）＋ -ant（〜する)",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "理科・日常"],
+    "meaning_main": "抵抗力のある・耐性のある／（〜に）抵抗する",
+    "description": "resistant の意味・発音・例文・語源を解説。熱や薬に「耐性のある・抵抗力のある」、また変化などに「抵抗する」という使い方を分かりやすく紹介します。",
+    "keywords": ["resistant 意味", "resistant 発音", "耐性のある", "resist 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】抵抗力のある・耐性のある・〜に強い", "note": "resistant to ～（〜に強い・耐性がある）。water-resistant（耐水性の）。heat-resistant（耐熱の）。" },
+      { "hinshi": "【形容詞】（変化・考えに）抵抗する・反対する", "note": "resistant to change（変化を嫌う）。" }
+    ],
+    "usages": [
+      { "title": "① 「耐性のある」として", "desc": "熱・薬などに強いことを表します。", "example_en": "These bacteria are resistant to antibiotics.", "example_ja": "これらの細菌は抗生物質に耐性がある。" },
+      { "title": "② 「抵抗する」として", "desc": "変化を嫌う様子を表します。", "example_en": "Some employees are resistant to change.", "example_ja": "変化を嫌う従業員もいる。" }
+    ],
+    "warn": [
+      "resistant は『抵抗力のある・耐性のある』『（〜に）抵抗する』。resist（抵抗する）＋ -ant。resistant to ～ の形で使う。",
+      "water-resistant（耐水）, heat-resistant（耐熱）, drug-resistant（薬剤耐性の）など複合語で頻出。"
+    ],
+    "etym_note": "resist（『抵抗する』、ラテン語 resistere「立ちはだかる」より）＋ -ant（『〜する』）から成り、「抵抗する・耐える」を意味します。resistance（抵抗）と同じ語根です。",
+    "etym_chain": [
+      { "node": "resistere", "sub": "立ちはだかる", "era": "ラテン語" },
+      { "node": "resist", "sub": "抵抗する", "era": "中英語" },
+      { "node": "resistant", "sub": "抵抗力のある", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "resistant to", "ja": "〜に強い・耐性がある" },
+      { "en": "water-resistant", "ja": "耐水性の" },
+      { "en": "heat-resistant", "ja": "耐熱の" },
+      { "en": "drug-resistant", "ja": "薬剤耐性の" },
+      { "en": "resistant to change", "ja": "変化を嫌う" },
+      { "en": "stain-resistant", "ja": "汚れに強い" }
+    ],
+    "related": [
+      { "en": "resist", "ja": "抵抗する" },
+      { "en": "resistance", "ja": "抵抗・耐性" },
+      { "en": "immune", "ja": "免疫のある" },
+      { "en": "susceptible", "ja": "影響を受けやすい（反対）" }
+    ],
+    "faq": [
+      { "q": "resistant とはどんな意味？", "a": "熱や薬などに『抵抗力のある・耐性のある・〜に強い』、また変化などに『抵抗する』という意味です。resistant to ～ の形で使い、resistant to antibiotics（抗生物質に耐性がある）のように使います。" },
+      { "q": "water-resistant と waterproof の違いは？", "a": "water-resistant は『耐水性の（ある程度水に強い）』、waterproof は『防水の（水を通さない）』です。耐水と防水の違いで、waterproof のほうが強力です。" }
+    ],
+    "quiz": [
+      { "q": "These bacteria are ___ to antibiotics.（耐性がある）", "A": "resistant", "B": "insistent のしつこい", "C": "consistent の一貫した", "D": "persistent の根気強い", "correct": "A" },
+      { "q": "resistant の名詞形はどれ？", "A": "resistance（抵抗・耐性）", "B": "insistence（主張）", "C": "consistency（一貫性）", "D": "persistence（根気）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "residual",
+    "pron": "rɪˈzɪdjuəl",
+    "kana": "リジジュアル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 residuum（残り）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "やや硬い語"],
+    "meaning_main": "残りの・残留した・あとに残った",
+    "description": "residual の意味・発音・例文・語源を解説。処理や出来事のあとに「残った・残留した」量や影響を表す、やや硬い形容詞の使い方を分かりやすく紹介します。",
+    "keywords": ["residual 意味", "residual 発音", "残留した", "残りの"],
+    "meanings": [
+      { "hinshi": "【形容詞】残りの・残留した・あとに残った", "note": "大部分が去ったあとに残る。residual effects（後に残る影響）。residual value（残存価値）。" }
+    ],
+    "usages": [
+      { "title": "① 「残留した」として", "desc": "あとに残る量や物を表します。", "example_en": "There were residual traces of the chemical.", "example_ja": "その化学物質の残留痕（あと）があった。" },
+      { "title": "② 「あとに残る影響」として", "desc": "出来事のあとの影響を表します。", "example_en": "He still feels the residual effects of the illness.", "example_ja": "彼はまだその病気の後遺（残留）的な影響を感じている。" }
+    ],
+    "warn": [
+      "residual は『残りの・残留した・あとに残った』。名詞 residue（残り・残留物）。",
+      "residual income（不労所得・継続収入）, residual value（残存価値）などビジネスでも使う。"
+    ],
+    "etym_note": "ラテン語 residuum（『残り』、residere「後に残る・座り続ける」より）に由来し、「あとに残った」を意味します。reside（住む）, residue（残留物）と同じ語根です。",
+    "etym_chain": [
+      { "node": "residere", "sub": "後に残る", "era": "ラテン語" },
+      { "node": "residuum", "sub": "残り", "era": "ラテン語" },
+      { "node": "residual", "sub": "残りの・残留した", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "residual effects", "ja": "後に残る影響" },
+      { "en": "residual traces", "ja": "残留痕（あと）" },
+      { "en": "residual income", "ja": "継続収入・不労所得" },
+      { "en": "residual value", "ja": "残存価値" },
+      { "en": "residual stress", "ja": "残留応力・残ったストレス" },
+      { "en": "residual heat", "ja": "残った熱・余熱" }
+    ],
+    "related": [
+      { "en": "residue", "ja": "残り・残留物" },
+      { "en": "remaining", "ja": "残っている" },
+      { "en": "leftover", "ja": "残りの" },
+      { "en": "lingering", "ja": "なかなか消えない" }
+    ],
+    "faq": [
+      { "q": "residual とはどんな意味？", "a": "処理や出来事のあとに『残った・残留した・あとに残る』という形容詞です。residual effects（後に残る影響）、residual traces（残留痕）のように使います。名詞は residue（残留物）です。" },
+      { "q": "residual income とは？", "a": "『継続収入・不労所得』のことです。一度の労力や投資のあとも継続して入ってくる収入（印税・配当・サブスク収入など）を指します。" }
+    ],
+    "quiz": [
+      { "q": "He still feels the ___ effects of the illness.（後に残る）", "A": "residual", "B": "residential の住宅の", "C": "individual の個々の", "D": "gradual の徐々の", "correct": "A" },
+      { "q": "residual の名詞形（残留物）はどれ？", "A": "residue（残り・残留物）", "B": "resident（居住者）", "C": "residence（住居）", "D": "resistance（抵抗）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "restorative",
+    "pron": "rɪˈstɔːrətɪv",
+    "kana": "リストラティブ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "restore（回復させる・元に戻す）＋ -ative",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "健康・社会"],
+    "meaning_main": "回復させる・元気を取り戻させる／修復的な",
+    "description": "restorative の意味・発音・例文・語源を解説。心身の元気を「回復させる」、また関係や秩序を「修復する」という、健康や司法で使う形容詞の使い方を紹介します。",
+    "keywords": ["restorative 意味", "restorative 発音", "回復させる", "restore 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】回復させる・元気を取り戻させる", "note": "心身を元気にする。a restorative sleep（疲れをいやす眠り）。restorative yoga（回復系ヨガ）。" },
+      { "hinshi": "【形容詞】修復的な・元に戻す", "note": "壊れた関係・秩序を修復する。restorative justice（修復的司法）。" }
+    ],
+    "usages": [
+      { "title": "① 「元気を取り戻させる」として", "desc": "心身の回復を表します。", "example_en": "A good night's sleep is restorative.", "example_ja": "ぐっすり眠ることは疲れをいやしてくれる。" },
+      { "title": "② 「修復的な」として", "desc": "関係や秩序の修復を表します。", "example_en": "Restorative justice focuses on repairing harm.", "example_ja": "修復的司法は被害の修復に重点を置く。" }
+    ],
+    "warn": [
+      "restorative は『回復させる・元気を取り戻させる』『修復的な』。restore（回復させる・元に戻す）＋ -ative。名詞 restoration（回復・修復）。",
+      "restorative justice（修復的司法＝加害者と被害者の関係修復を重視）は専門語。"
+    ],
+    "etym_note": "restore（『元に戻す・回復させる』、ラテン語 restaurare「建て直す」より）＋ -ative（性質を表す語尾）から成り、「回復させる性質の」を意味します。restoration（修復）と同じ語根です。",
+    "etym_chain": [
+      { "node": "restaurare", "sub": "建て直す", "era": "ラテン語" },
+      { "node": "restore", "sub": "回復させる・元に戻す", "era": "中英語" },
+      { "node": "restorative", "sub": "回復させる・修復的な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a restorative sleep", "ja": "疲れをいやす眠り" },
+      { "en": "restorative yoga", "ja": "回復系ヨガ" },
+      { "en": "restorative justice", "ja": "修復的司法" },
+      { "en": "a restorative effect", "ja": "回復させる効果" },
+      { "en": "restorative care", "ja": "回復のためのケア" },
+      { "en": "deeply restorative", "ja": "心身を深く回復させる" }
+    ],
+    "related": [
+      { "en": "restore", "ja": "回復させる・元に戻す" },
+      { "en": "restoration", "ja": "回復・修復" },
+      { "en": "rejuvenating", "ja": "若返らせる" },
+      { "en": "healing", "ja": "癒やしの" }
+    ],
+    "faq": [
+      { "q": "restorative とはどんな意味？", "a": "心身の元気を『回復させる・取り戻させる』、また関係や秩序を『修復する』という形容詞です。A good night's sleep is restorative.（ぐっすり眠ると疲れがいえる）のように使います。名詞は restoration です。" },
+      { "q": "restorative justice とは？", "a": "『修復的司法』のことです。罰だけでなく、加害者・被害者・地域が対話し、被害の修復や関係の回復を目指す司法の考え方です。" }
+    ],
+    "quiz": [
+      { "q": "A good night's sleep is ___.（疲れをいやす）", "A": "restorative", "B": "decorative の装飾的な", "C": "comparative の比較の", "D": "narrative の物語の", "correct": "A" },
+      { "q": "restorative の名詞形はどれ？", "A": "restoration（回復・修復）", "B": "decoration（装飾）", "C": "narration（語り）", "D": "comparison（比較）", "correct": "A" }
+    ]
+  }
+]

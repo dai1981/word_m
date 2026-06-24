@@ -1,0 +1,527 @@
+[
+  {
+    "english": "racism",
+    "pron": "ˈreɪsɪzəm",
+    "kana": "レイシズム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "race（人種）＋ -ism（主義）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "社会"],
+    "meaning_main": "人種差別・人種差別主義",
+    "description": "racism の意味・発音・例文・語源を解説。人種を理由に差別する考え方・行い「人種差別・人種差別主義」を表す、社会の話題で重要な名詞を分かりやすく紹介します。",
+    "keywords": ["racism 意味", "racism 発音", "人種差別", "差別"],
+    "meanings": [
+      { "hinshi": "【名詞】人種差別・人種差別主義", "note": "人種を理由に人を不当に扱う考え方や行い。fight racism（人種差別と闘う）。" }
+    ],
+    "usages": [
+      { "title": "① 「人種差別」として", "desc": "人種による不当な扱いを表します。", "example_en": "They are working to end racism.", "example_ja": "彼らは人種差別をなくそうと取り組んでいる。" },
+      { "title": "② 社会問題として", "desc": "差別の構造や態度を表します。", "example_en": "Racism remains a serious problem.", "example_ja": "人種差別は依然として深刻な問題だ。" }
+    ],
+    "warn": [
+      "racism は『人種差別（主義）』。race（人種）＋ -ism。差別する人は racist（人種差別主義者／差別的な）。",
+      "sexism（性差別）, ageism（年齢差別）など -ism は『差別・主義』を表す。"
+    ],
+    "etym_note": "race（『人種』、フランス語 race「血統」より）＋ -ism（主義・状態を表す語尾）から成り、「人種にもとづく差別の考え」を意味します。20世紀に広まった語です。",
+    "etym_chain": [
+      { "node": "race", "sub": "人種・血統", "era": "近代英語" },
+      { "node": "racism", "sub": "人種差別", "era": "20世紀英語" },
+      { "node": "racism", "sub": "人種差別主義", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "fight racism", "ja": "人種差別と闘う" },
+      { "en": "end racism", "ja": "人種差別をなくす" },
+      { "en": "institutional racism", "ja": "制度的な人種差別" },
+      { "en": "a victim of racism", "ja": "人種差別の被害者" },
+      { "en": "combat racism", "ja": "人種差別に立ち向かう" },
+      { "en": "experience racism", "ja": "人種差別を経験する" }
+    ],
+    "related": [
+      { "en": "racist", "ja": "人種差別主義者・差別的な" },
+      { "en": "discrimination", "ja": "差別" },
+      { "en": "prejudice", "ja": "偏見" },
+      { "en": "sexism", "ja": "性差別" }
+    ],
+    "faq": [
+      { "q": "racism とはどんな意味？", "a": "人種を理由に人を不当に扱う考え方や行い『人種差別・人種差別主義』のことです。They are working to end racism.（人種差別をなくそうとしている）のように使います。" },
+      { "q": "racism と racist の違いは？", "a": "racism は『人種差別（という考え・行い）』という名詞、racist は『人種差別主義者』という名詞、または『差別的な』という形容詞です。" }
+    ],
+    "quiz": [
+      { "q": "They are working to end ___.（人種差別）", "A": "racism", "B": "racist の差別主義者", "C": "racing のレース", "D": "racket の騒音", "correct": "A" },
+      { "q": "racism と同じ -ism（差別）を持つ語はどれ？", "A": "sexism（性差別）", "B": "tourism（観光）", "C": "realism（写実主義）", "D": "organism（生物）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "racist",
+    "pron": "ˈreɪsɪst",
+    "kana": "レイシスト",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "race（人種）＋ -ist（〜する人・主義の）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "社会"],
+    "meaning_main": "人種差別主義者／人種差別的な",
+    "description": "racist の意味・発音・例文・語源を解説。人種で人を差別する「人種差別主義者」という名詞と、「人種差別的な」という形容詞の使い方を分かりやすく紹介します。",
+    "keywords": ["racist 意味", "racist 発音", "人種差別主義者", "差別的な"],
+    "meanings": [
+      { "hinshi": "【名詞】人種差別主義者", "note": "人種を理由に差別する人。" },
+      { "hinshi": "【形容詞】人種差別的な", "note": "人種差別にもとづく。a racist remark（差別的な発言）。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「差別主義者」として", "desc": "人種差別をする人を表します。", "example_en": "He was condemned as a racist.", "example_ja": "彼は人種差別主義者として非難された。" },
+      { "title": "② 形容詞「差別的な」として", "desc": "差別にもとづく言動を表します。", "example_en": "She objected to the racist comment.", "example_ja": "彼女はその差別的な発言に抗議した。" }
+    ],
+    "warn": [
+      "racist は名詞『人種差別主義者』、形容詞『人種差別的な』。名詞の『人種差別（という考え）』は racism。",
+      "a racist remark / comment / joke（差別的な発言・冗談）のように形容詞で頻出。"
+    ],
+    "etym_note": "race（『人種』）＋ -ist（『〜する人・〜主義の』）から成り、「人種差別をする人・差別的な」を意味します。racism と同根の語です。",
+    "etym_chain": [
+      { "node": "race", "sub": "人種", "era": "近代英語" },
+      { "node": "racist", "sub": "人種差別主義者", "era": "20世紀英語" },
+      { "node": "racist", "sub": "人種差別主義者・差別的な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a racist remark", "ja": "差別的な発言" },
+      { "en": "a racist attitude", "ja": "差別的な態度" },
+      { "en": "a racist joke", "ja": "差別的な冗談" },
+      { "en": "racist abuse", "ja": "人種差別的な暴言" },
+      { "en": "be called a racist", "ja": "差別主義者呼ばわりされる" },
+      { "en": "deeply racist", "ja": "強く差別的な" }
+    ],
+    "related": [
+      { "en": "racism", "ja": "人種差別" },
+      { "en": "bigot", "ja": "偏狭な人・差別者" },
+      { "en": "prejudiced", "ja": "偏見を持った" },
+      { "en": "discriminatory", "ja": "差別的な" }
+    ],
+    "faq": [
+      { "q": "racist とはどんな意味？", "a": "名詞では『人種差別主義者』、形容詞では『人種差別的な』という意味です。a racist remark（差別的な発言）、He was condemned as a racist.（差別主義者として非難された）のように使います。" },
+      { "q": "racist と racism の違いは？", "a": "racist は『（差別する）人』または『差別的な』、racism は『人種差別（という考え・行い）』です。-ist は『人・主義の』、-ism は『主義・状態』を表します。" }
+    ],
+    "quiz": [
+      { "q": "She objected to the ___ comment.（差別的な）", "A": "racist", "B": "racism の人種差別という名詞", "C": "realist の現実主義者", "D": "tourist の観光客", "correct": "A" },
+      { "q": "racist（名詞）の意味はどれ？", "A": "人種差別主義者", "B": "観光客", "C": "現実主義者", "D": "レーサー", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rapids",
+    "pron": "ˈræpɪdz",
+    "kana": "ラピッズ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rapid（速い）＋ -s（複数）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "自然・地理"],
+    "meaning_main": "急流・早瀬（川の流れが速く荒い所）",
+    "description": "rapids の意味・発音・例文・語源を解説。川の流れが速く岩で水が泡立つ「急流・早瀬」を表す名詞（複数形で使う）の使い方を分かりやすく紹介します。",
+    "keywords": ["rapids 意味", "rapids 発音", "急流", "早瀬"],
+    "meanings": [
+      { "hinshi": "【名詞】急流・早瀬", "note": "川の流れが速く、岩で水が泡立つ所。ふつう複数形 rapids。shoot the rapids（急流を下る）。" }
+    ],
+    "usages": [
+      { "title": "① 「急流」として", "desc": "流れの速い荒い場所を表します。", "example_en": "The kayakers paddled through the rapids.", "example_ja": "カヤックの漕ぎ手たちは急流をこぎ抜けた。" },
+      { "title": "② レジャーの文脈で", "desc": "急流下りを表します。", "example_en": "We went white-water rafting down the rapids.", "example_ja": "私たちは急流をラフティングで下った。" }
+    ],
+    "warn": [
+      "rapids は『急流・早瀬』。ふつう複数形で使う。形容詞 rapid（速い）＋ -s から。",
+      "shoot the rapids（急流を一気に下る）は決まった言い方。"
+    ],
+    "etym_note": "rapid（『速い』、ラテン語 rapidus「ひったくるように速い」より）の複数形が名詞化したもので、「（川の）速い流れの所」を意味します。rapid（急な）と同じ語根です。",
+    "etym_chain": [
+      { "node": "rapidus", "sub": "ひったくるように速い", "era": "ラテン語" },
+      { "node": "rapid", "sub": "速い", "era": "近代英語" },
+      { "node": "rapids", "sub": "急流", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "shoot the rapids", "ja": "急流を下る" },
+      { "en": "white-water rapids", "ja": "白く泡立つ急流" },
+      { "en": "paddle through the rapids", "ja": "急流をこぎ抜ける" },
+      { "en": "dangerous rapids", "ja": "危険な急流" },
+      { "en": "raft down the rapids", "ja": "急流をいかだで下る" },
+      { "en": "class IV rapids", "ja": "（難易度）クラス4の急流" }
+    ],
+    "related": [
+      { "en": "rapid", "ja": "速い・急な" },
+      { "en": "current", "ja": "流れ" },
+      { "en": "waterfall", "ja": "滝" },
+      { "en": "rafting", "ja": "ラフティング・いかだ下り" }
+    ],
+    "faq": [
+      { "q": "rapids とはどんな意味？", "a": "川の流れが速く、岩で水が泡立つ『急流・早瀬』のことです。ふつう複数形で使い、The kayakers paddled through the rapids.（急流をこぎ抜けた）のように使います。" },
+      { "q": "rapids はなぜ複数形なの？", "a": "急流は連続した速い流れの区間を指すため、慣用的に複数形 rapids で使われます。shoot the rapids（急流を下る）のように s をつけます。" }
+    ],
+    "quiz": [
+      { "q": "The kayakers paddled through the ___.（急流）", "A": "rapids", "B": "rabbits のウサギ", "C": "rackets のラケット", "D": "ripples のさざ波", "correct": "A" },
+      { "q": "rapids のもとになった形容詞 rapid の意味は？", "A": "速い", "B": "深い", "C": "冷たい", "D": "広い", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rayon",
+    "pron": "ˈreɪɒn",
+    "kana": "レーヨン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ray（光線）＋ -on（繊維名の語尾）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "材料・日常"],
+    "meaning_main": "レーヨン（木材パルプから作る再生繊維）",
+    "description": "rayon の意味・発音・例文・語源を解説。木材パルプを原料に作る、絹に似たなめらかな再生繊維「レーヨン」を表す名詞の使い方を分かりやすく紹介します。",
+    "keywords": ["rayon 意味", "rayon 発音", "レーヨン", "再生繊維"],
+    "meanings": [
+      { "hinshi": "【名詞】レーヨン", "note": "木材パルプ（セルロース）から作る再生繊維。絹に似てなめらかで光沢がある。a rayon blouse（レーヨンのブラウス）。" }
+    ],
+    "usages": [
+      { "title": "① 繊維としての「レーヨン」", "desc": "絹に似た再生繊維を表します。", "example_en": "The dress is made of rayon.", "example_ja": "そのワンピースはレーヨン製だ。" },
+      { "title": "② 衣類の素材として", "desc": "レーヨンの服や生地を表します。", "example_en": "Rayon feels soft and drapes well.", "example_ja": "レーヨンは肌触りがよく、よく垂れて体になじむ。" }
+    ],
+    "warn": [
+      "rayon は『レーヨン』（木材パルプから作る再生繊維）。化学繊維ではなく『再生繊維（セルロース系）』に分類される。",
+      "絹（silk）に似た光沢・肌触りだが、ぬれると弱くなる。"
+    ],
+    "etym_note": "ray（『光線』、つやのある光沢から）＋ cotton（綿）などの -on をまねた語尾から、1920年代に作られた商標的な造語です。光沢ある繊維を表します。",
+    "etym_chain": [
+      { "node": "ray", "sub": "光線・つや", "era": "近代英語" },
+      { "node": "rayon", "sub": "光沢ある繊維", "era": "1924年の造語" },
+      { "node": "rayon", "sub": "レーヨン", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "made of rayon", "ja": "レーヨン製の" },
+      { "en": "a rayon blouse", "ja": "レーヨンのブラウス" },
+      { "en": "rayon fabric", "ja": "レーヨン生地" },
+      { "en": "a rayon blend", "ja": "レーヨン混紡" },
+      { "en": "soft rayon", "ja": "柔らかいレーヨン" },
+      { "en": "viscose rayon", "ja": "ビスコースレーヨン" }
+    ],
+    "related": [
+      { "en": "silk", "ja": "絹" },
+      { "en": "polyester", "ja": "ポリエステル" },
+      { "en": "fiber", "ja": "繊維" },
+      { "en": "fabric", "ja": "生地・布地" }
+    ],
+    "faq": [
+      { "q": "rayon とはどんな意味？", "a": "木材パルプ（セルロース）を原料に作る、絹に似たなめらかな再生繊維『レーヨン』のことです。The dress is made of rayon.（そのワンピースはレーヨン製だ）のように使います。" },
+      { "q": "rayon と silk の違いは？", "a": "silk（絹）は蚕（かいこ）から取る天然繊維、rayon（レーヨン）は木材パルプから人工的に作る再生繊維です。レーヨンは絹に似た光沢を安く再現できますが、ぬれると弱くなります。" }
+    ],
+    "quiz": [
+      { "q": "The dress is made of ___.（レーヨン）", "A": "rayon", "B": "crayon のクレヨン", "C": "canyon の峡谷", "D": "rayed の放射状の", "correct": "A" },
+      { "q": "rayon は何から作られる？", "A": "木材パルプ（セルロース）", "B": "石油だけ", "C": "羊毛", "D": "金属", "correct": "A" }
+    ]
+  },
+  {
+    "english": "readable",
+    "pron": "ˈriːdəbl",
+    "kana": "リーダブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "read（読む）＋ -able（できる）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "読みやすい・読んで面白い／（字が）判読できる",
+    "description": "readable の意味・発音・例文・語源を解説。文章が「読みやすい・読んで面白い」、また字が「判読できる」という、本や文章の評価で使う形容詞を紹介します。",
+    "keywords": ["readable 意味", "readable 発音", "読みやすい", "read 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】読みやすい・読んで面白い", "note": "文章が分かりやすく、読み進めやすい。a highly readable book（とても読みやすい本）。" },
+      { "hinshi": "【形容詞】（字が）判読できる・読める", "note": "字や表示がはっきりして読み取れる。" }
+    ],
+    "usages": [
+      { "title": "① 「読みやすい」として", "desc": "文章が分かりやすく面白いことを表します。", "example_en": "Her new novel is very readable.", "example_ja": "彼女の新しい小説はとても読みやすい。" },
+      { "title": "② 「判読できる」として", "desc": "字がはっきり読めることを表します。", "example_en": "Make the font large and readable.", "example_ja": "文字を大きく判読しやすくしなさい。" }
+    ],
+    "warn": [
+      "readable は『読みやすい・読んで面白い』『判読できる』。read（読む）＋ -able。反対は unreadable（読みにくい・判読できない）。",
+      "legible（字が読み取れる）は『判読可能』に特化。readable は内容の読みやすさにも使う。"
+    ],
+    "etym_note": "read（読む、古英語 rǣdan「助言する・読む」より）＋ -able（できる）から成り、「読むことができる・読みやすい」を意味します。",
+    "etym_chain": [
+      { "node": "rǣdan", "sub": "助言する・読む", "era": "古英語" },
+      { "node": "read", "sub": "読む", "era": "中英語" },
+      { "node": "readable", "sub": "読みやすい", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a highly readable book", "ja": "とても読みやすい本" },
+      { "en": "easy and readable", "ja": "やさしくて読みやすい" },
+      { "en": "make it more readable", "ja": "もっと読みやすくする" },
+      { "en": "a readable font", "ja": "読みやすいフォント" },
+      { "en": "clearly readable", "ja": "はっきり判読できる" },
+      { "en": "machine-readable", "ja": "機械で読み取れる" }
+    ],
+    "related": [
+      { "en": "read", "ja": "読む" },
+      { "en": "legible", "ja": "（字が）読み取れる" },
+      { "en": "unreadable", "ja": "読みにくい（反対）" },
+      { "en": "accessible", "ja": "分かりやすい・利用しやすい" }
+    ],
+    "faq": [
+      { "q": "readable とはどんな意味？", "a": "文章が『読みやすい・読んで面白い』、また字が『判読できる』という意味です。Her new novel is very readable.（彼女の小説はとても読みやすい）のように使います。" },
+      { "q": "readable と legible の違いは？", "a": "legible は『（字が）判読できる』ことに特化、readable は『（内容が）読みやすい・読んで面白い』にも使えます。手書きが legible でも、文章が readable とは限りません。" }
+    ],
+    "quiz": [
+      { "q": "Her new novel is very ___.（読みやすい）", "A": "readable", "B": "reliable の信頼できる", "C": "reasonable の妥当な", "D": "removable の取り外せる", "correct": "A" },
+      { "q": "readable の反対語はどれ？", "A": "unreadable（読みにくい）", "B": "readability（読みやすさ）", "C": "reader（読者）", "D": "reading（読書）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rebellious",
+    "pron": "rɪˈbeljəs",
+    "kana": "リベリャス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 rebellis（反抗する）より",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "反抗的な・反逆の・言うことを聞かない",
+    "description": "rebellious の意味・発音・例文・語源を解説。権威や規則に逆らう「反抗的な・反逆の・言うことを聞かない」という様子を表す形容詞の使い方を紹介します。",
+    "keywords": ["rebellious 意味", "rebellious 発音", "反抗的な", "rebel 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】反抗的な・言うことを聞かない", "note": "権威・親・規則などに逆らう。a rebellious teenager（反抗的なティーンエイジャー）。" },
+      { "hinshi": "【形容詞】反逆の・反乱の", "note": "支配・政府に対して反乱を起こす。rebellious forces（反乱軍）。" }
+    ],
+    "usages": [
+      { "title": "① 「反抗的な」として", "desc": "言うことを聞かない態度を表します。", "example_en": "He was a rebellious teenager.", "example_ja": "彼は反抗的なティーンエイジャーだった。" },
+      { "title": "② 「反乱の」として", "desc": "支配に逆らう様子を表します。", "example_en": "The rebellious provinces refused to obey.", "example_ja": "反抗的な諸州は従うことを拒んだ。" }
+    ],
+    "warn": [
+      "rebellious は『反抗的な・反逆の』。名詞 rebel（反逆者）／rebellion（反乱）、動詞 rebel（反抗する）と同根。",
+      "つづり注意（rebel の l が rebellious では ll に）。発音は『リベリャス』。"
+    ],
+    "etym_note": "ラテン語 rebellis（re-「再び」＋ bellum「戦争」＝再び戦いを起こす者）に由来し、「反抗する・反乱の」を意味します。rebel（反逆者）, rebellion（反乱）と同じ語根です。",
+    "etym_chain": [
+      { "node": "rebellis", "sub": "反抗する", "era": "ラテン語" },
+      { "node": "rebel", "sub": "反逆する・反逆者", "era": "中英語" },
+      { "node": "rebellious", "sub": "反抗的な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rebellious teenager", "ja": "反抗的なティーンエイジャー" },
+      { "en": "a rebellious streak", "ja": "反抗的な気質" },
+      { "en": "rebellious behavior", "ja": "反抗的なふるまい" },
+      { "en": "rebellious forces", "ja": "反乱軍" },
+      { "en": "a rebellious spirit", "ja": "反骨精神" },
+      { "en": "feel rebellious", "ja": "反抗したい気分になる" }
+    ],
+    "related": [
+      { "en": "rebel", "ja": "反逆者・反抗する" },
+      { "en": "rebellion", "ja": "反乱" },
+      { "en": "defiant", "ja": "反抗的な・挑戦的な" },
+      { "en": "obedient", "ja": "従順な（反対）" }
+    ],
+    "faq": [
+      { "q": "rebellious とはどんな意味？", "a": "権威・親・規則などに逆らう『反抗的な・言うことを聞かない』、また『反逆の・反乱の』という形容詞です。He was a rebellious teenager.（反抗的なティーンエイジャーだった）のように使います。" },
+      { "q": "rebellious と defiant の違いは？", "a": "どちらも『反抗的な』ですが、rebellious は『（権威・規則に）一貫して逆らう気質』、defiant は『（その場で）公然と挑むように逆らう態度』のニュアンスがあります。" }
+    ],
+    "quiz": [
+      { "q": "He was a ___ teenager.（反抗的な）", "A": "rebellious", "B": "religious の宗教的な", "C": "ridiculous のばかげた", "D": "rebellion の反乱という名詞", "correct": "A" },
+      { "q": "rebellious の名詞形（反乱）はどれ？", "A": "rebellion（反乱）", "B": "religion（宗教）", "C": "relation（関係）", "D": "reflection（反射）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recliner",
+    "pron": "rɪˈklaɪnər",
+    "kana": "リクライナー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "recline（もたれる・後ろに倒す）＋ -er（もの）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "日常・家具"],
+    "meaning_main": "リクライニングチェア（背もたれが倒れる安楽椅子）",
+    "description": "recliner の意味・発音・例文・語源を解説。背もたれを後ろに倒してくつろげる安楽椅子「リクライニングチェア」を表す名詞の使い方を分かりやすく紹介します。",
+    "keywords": ["recliner 意味", "recliner 発音", "リクライニングチェア", "recline 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】リクライニングチェア・安楽椅子", "note": "背もたれを倒し、足を上げてくつろげる椅子。sink into a recliner（安楽椅子に身を沈める）。" }
+    ],
+    "usages": [
+      { "title": "① 家具としての「安楽椅子」", "desc": "倒れる背もたれの椅子を表します。", "example_en": "He fell asleep in his recliner.", "example_ja": "彼は安楽椅子で眠ってしまった。" },
+      { "title": "② くつろぎの場面で", "desc": "リラックスする様子を表します。", "example_en": "She leaned back in the recliner to watch TV.", "example_ja": "彼女はテレビを見ようとリクライニングチェアにもたれた。" }
+    ],
+    "warn": [
+      "recliner は『リクライニングチェア・安楽椅子』。動詞 recline（もたれる・背を倒す）＋ -er。",
+      "飛行機・映画館の『倒れる座席』にも使える。"
+    ],
+    "etym_note": "recline（『もたれる・後ろに倒す』、ラテン語 reclinare「後ろに傾ける」より）＋ -er（『〜するもの』）から成り、「背を倒せる椅子」を意味します。incline（傾ける）, lean（もたれる）と関連します。",
+    "etym_chain": [
+      { "node": "reclinare", "sub": "後ろに傾ける", "era": "ラテン語" },
+      { "node": "recline", "sub": "もたれる・倒す", "era": "中英語" },
+      { "node": "recliner", "sub": "リクライニングチェア", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "sink into a recliner", "ja": "安楽椅子に身を沈める" },
+      { "en": "a leather recliner", "ja": "革張りの安楽椅子" },
+      { "en": "lean back in the recliner", "ja": "安楽椅子にもたれる" },
+      { "en": "a reclining chair", "ja": "リクライニングチェア" },
+      { "en": "a comfortable recliner", "ja": "座り心地のよい安楽椅子" },
+      { "en": "an electric recliner", "ja": "電動リクライニングチェア" }
+    ],
+    "related": [
+      { "en": "recline", "ja": "もたれる・背を倒す" },
+      { "en": "armchair", "ja": "ひじ掛け椅子" },
+      { "en": "sofa", "ja": "ソファ" },
+      { "en": "lounge chair", "ja": "ラウンジチェア" }
+    ],
+    "faq": [
+      { "q": "recliner とはどんな意味？", "a": "背もたれを後ろに倒し、くつろげる安楽椅子『リクライニングチェア』のことです。He fell asleep in his recliner.（安楽椅子で眠ってしまった）のように使います。" },
+      { "q": "recline とはどんな意味？", "a": "recliner のもとになる動詞で、『（背を）後ろに倒す・もたれる』という意味です。recline the seat（座席を倒す）のように、飛行機の座席などにも使います。" }
+    ],
+    "quiz": [
+      { "q": "He fell asleep in his ___.（安楽椅子）", "A": "recliner", "B": "reminder の通知", "C": "designer のデザイナー", "D": "container の容器", "correct": "A" },
+      { "q": "recliner のもとになった動詞 recline の意味は？", "A": "もたれる・背を倒す", "B": "思い出させる", "C": "デザインする", "D": "含む", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reasonably",
+    "pron": "ˈriːzənəbli",
+    "kana": "リーズナブリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "reasonable（理にかなった・適度な）＋ -ly",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "頻出語"],
+    "meaning_main": "かなり・まずまず／適切に・分別をもって",
+    "description": "reasonably の意味・発音・例文・語源を解説。「かなり・まずまず」という程度の意味と、「適切に・分別をもって」という意味を持つ副詞の使い方を分かりやすく紹介します。",
+    "keywords": ["reasonably 意味", "reasonably 発音", "かなり", "まずまず"],
+    "meanings": [
+      { "hinshi": "【副詞】かなり・まずまず・そこそこ", "note": "程度がそれなりに高いことを表す（very ほどではない）。reasonably good（まずまず良い）。" },
+      { "hinshi": "【副詞】適切に・分別をもって・道理にかなって", "note": "act reasonably（分別をもってふるまう）。priced reasonably（手ごろな値段で）。" }
+    ],
+    "usages": [
+      { "title": "① 「かなり・まずまず」として", "desc": "そこそこの程度を表します。", "example_en": "The hotel was reasonably clean.", "example_ja": "そのホテルはまずまず清潔だった。" },
+      { "title": "② 「適切に」として", "desc": "分別ある態度や手ごろさを表します。", "example_en": "The goods are reasonably priced.", "example_ja": "その商品は手ごろな値段だ。" }
+    ],
+    "warn": [
+      "reasonably は『かなり・まずまず（程度）』と『適切に・分別をもって』の二つの使い方。",
+      "reasonably priced（手ごろな値段の）は『安く（道理にかなった値段で）』の意味で頻出。"
+    ],
+    "etym_note": "reasonable（『理にかなった・適度な』、reason「理性・道理」より）＋ -ly（副詞をつくる語尾）から成り、「道理にかなって・適度に」を意味します。reason（理由・理性）と同じ語根です。",
+    "etym_chain": [
+      { "node": "reason", "sub": "理性・道理", "era": "中英語" },
+      { "node": "reasonable", "sub": "理にかなった・適度な", "era": "中英語" },
+      { "node": "reasonably", "sub": "かなり・適切に", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reasonably good", "ja": "まずまず良い" },
+      { "en": "reasonably priced", "ja": "手ごろな値段の" },
+      { "en": "reasonably well", "ja": "そこそこうまく" },
+      { "en": "reasonably sure", "ja": "かなり確信して" },
+      { "en": "act reasonably", "ja": "分別をもってふるまう" },
+      { "en": "reasonably expect", "ja": "当然のこととして期待する" }
+    ],
+    "related": [
+      { "en": "reasonable", "ja": "理にかなった・適度な" },
+      { "en": "fairly", "ja": "かなり・まあまあ" },
+      { "en": "quite", "ja": "かなり" },
+      { "en": "sensibly", "ja": "分別をもって" }
+    ],
+    "faq": [
+      { "q": "reasonably とはどんな意味？", "a": "『かなり・まずまず・そこそこ』という程度の意味と、『適切に・分別をもって・道理にかなって』という意味があります。The hotel was reasonably clean.（まずまず清潔だった）のように使います。" },
+      { "q": "reasonably priced とはどんな意味？", "a": "『手ごろな値段の・お手ごろな』という意味です。『道理にかなった（=高すぎない）値段がつけられている』ことを表し、買い物の場面でよく使います。" }
+    ],
+    "quiz": [
+      { "q": "The hotel was ___ clean.（まずまず）", "A": "reasonably", "B": "reasonable の理にかなった（形容詞）", "C": "rarely のめったに〜ない", "D": "recently の最近", "correct": "A" },
+      { "q": "reasonably priced の意味はどれ？", "A": "手ごろな値段の", "B": "とても高価な", "C": "売り切れの", "D": "値引き不可の", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ravenously",
+    "pron": "ˈrævənəsli",
+    "kana": "ラヴェナスリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "ravenous（がつがつ飢えた）＋ -ly",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "やや硬い語"],
+    "meaning_main": "がつがつと・飢えたように（食べる・むさぼる）",
+    "description": "ravenously の意味・発音・例文・語源を解説。ひどく空腹で「がつがつと・飢えたように」食べる様子を表す副詞の使い方と、形容詞 ravenous を紹介します。",
+    "keywords": ["ravenously 意味", "ravenously 発音", "がつがつ", "ravenous 意味"],
+    "meanings": [
+      { "hinshi": "【副詞】がつがつと・飢えたように", "note": "ひどく空腹で勢いよく食べる様子。eat ravenously（がつがつ食べる）。比喩で『むさぼるように（読む等）』。" }
+    ],
+    "usages": [
+      { "title": "① 「がつがつ食べる」として", "desc": "ひどい空腹で食べる様子を表します。", "example_en": "The hikers ate ravenously after the long climb.", "example_ja": "ハイカーたちは長い登山のあとがつがつ食べた。" },
+      { "title": "② 比喩「むさぼるように」として", "desc": "強い欲求で何かをする様子を表します。", "example_en": "She read ravenously, finishing a book a day.", "example_ja": "彼女はむさぼるように読み、1日1冊読み終えた。" }
+    ],
+    "warn": [
+      "ravenously は『がつがつと・飢えたように』。形容詞 ravenous（ひどく空腹の・貪欲な）＋ -ly。",
+      "raven（ワタリガラス）と同じつづりを含むが意味は別（語源は別系統）。"
+    ],
+    "etym_note": "ravenous（『がつがつ飢えた・貪欲な』、古フランス語 raviner「激しく奪う」より）＋ -ly から成り、「飢えたように・むさぼるように」を意味します。ravish（奪う）と関連します。",
+    "etym_chain": [
+      { "node": "raviner", "sub": "激しく奪う", "era": "古フランス語" },
+      { "node": "ravenous", "sub": "がつがつ飢えた", "era": "中英語" },
+      { "node": "ravenously", "sub": "がつがつと", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "eat ravenously", "ja": "がつがつ食べる" },
+      { "en": "devour ravenously", "ja": "むさぼり食う" },
+      { "en": "ravenously hungry", "ja": "ひどく空腹で" },
+      { "en": "read ravenously", "ja": "むさぼるように読む" },
+      { "en": "feed ravenously", "ja": "がつがつとえさを食べる" },
+      { "en": "wolf down ravenously", "ja": "がつがつとかき込む" }
+    ],
+    "related": [
+      { "en": "ravenous", "ja": "ひどく空腹の・貪欲な" },
+      { "en": "voraciously", "ja": "貪欲に・むさぼるように" },
+      { "en": "hungrily", "ja": "空腹そうに" },
+      { "en": "greedily", "ja": "欲深く・がつがつと" }
+    ],
+    "faq": [
+      { "q": "ravenously とはどんな意味？", "a": "ひどく空腹で『がつがつと・飢えたように』食べる様子を表す副詞です。The hikers ate ravenously.（ハイカーたちはがつがつ食べた）のように使います。比喩で『むさぼるように（読む等）』にも使います。" },
+      { "q": "ravenously の形容詞形は？", "a": "ravenous です。『ひどく空腹の・がつがつした・貪欲な』という意味で、I'm ravenous!（おなかがぺこぺこだ！）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The hikers ate ___ after the long climb.（がつがつと）", "A": "ravenously", "B": "rarely のめったに〜ない", "C": "recently の最近", "D": "narrowly のかろうじて", "correct": "A" },
+      { "q": "ravenously の形容詞形はどれ？", "A": "ravenous（ひどく空腹の）", "B": "ravine（峡谷）", "C": "raven（ワタリガラス）", "D": "rave（わめく）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "radically",
+    "pron": "ˈrædɪkli",
+    "kana": "ラディカリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "radical（根本的な・過激な）＋ -ly",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "根本的に・抜本的に・大幅に／過激に",
+    "description": "radically の意味・発音・例文・語源を解説。「根本的に・抜本的に・大幅に」という意味と「過激に」という意味を持つ副詞の使い方を分かりやすく紹介します。",
+    "keywords": ["radically 意味", "radically 発音", "根本的に", "radical 意味"],
+    "meanings": [
+      { "hinshi": "【副詞】根本的に・抜本的に・大幅に", "note": "ものの根本から大きく。radically different（根本的に異なる）。radically change（抜本的に変える）。" },
+      { "hinshi": "【副詞】過激に・急進的に", "note": "考え・立場が過激に。" }
+    ],
+    "usages": [
+      { "title": "① 「根本的に・大幅に」として", "desc": "根本からの大きな変化を表します。", "example_en": "The two approaches are radically different.", "example_ja": "その二つのやり方は根本的に異なる。" },
+      { "title": "② 「抜本的に変える」として", "desc": "大きく作り変えることを表します。", "example_en": "The internet radically changed how we communicate.", "example_ja": "インターネットは私たちの伝え方を根本的に変えた。" }
+    ],
+    "warn": [
+      "radically は『根本的に・抜本的に・大幅に』が中心。文脈で『過激に・急進的に』。形容詞 radical（根本的な／過激な）。",
+      "radically different / changed / new（根本的に異なる・変わった・新しい）が頻出。"
+    ],
+    "etym_note": "radical（『根本的な・過激な』、ラテン語 radix「根」より）＋ -ly から成り、「根本から・大きく」を意味します。radish（大根）, eradicate（根絶する）と同じ語根です。",
+    "etym_chain": [
+      { "node": "radix", "sub": "根", "era": "ラテン語" },
+      { "node": "radical", "sub": "根本的な・過激な", "era": "中英語" },
+      { "node": "radically", "sub": "根本的に・大幅に", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "radically different", "ja": "根本的に異なる" },
+      { "en": "radically change", "ja": "抜本的に変える" },
+      { "en": "radically new", "ja": "根本的に新しい" },
+      { "en": "radically transform", "ja": "根底から変える" },
+      { "en": "differ radically", "ja": "大きく異なる" },
+      { "en": "radically improve", "ja": "大幅に改善する" }
+    ],
+    "related": [
+      { "en": "radical", "ja": "根本的な・過激な" },
+      { "en": "fundamentally", "ja": "根本的に" },
+      { "en": "drastically", "ja": "大幅に・抜本的に" },
+      { "en": "completely", "ja": "完全に" }
+    ],
+    "faq": [
+      { "q": "radically とはどんな意味？", "a": "『根本的に・抜本的に・大幅に』という意味が中心で、文脈により『過激に・急進的に』も表します。The two approaches are radically different.（二つのやり方は根本的に異なる）のように使います。" },
+      { "q": "radically と drastically の違いは？", "a": "どちらも『大幅に』ですが、radically は『根本（根っこ）から大きく』、drastically は『急激で思い切った変化』に重点があります。多くの文脈で言い換え可能です。" }
+    ],
+    "quiz": [
+      { "q": "The two approaches are ___ different.（根本的に）", "A": "radically", "B": "rarely のめったに〜ない", "C": "rapidly の急速に", "D": "racially の人種的に", "correct": "A" },
+      { "q": "radically に含まれる語根 radix の意味は？", "A": "根", "B": "光", "C": "数", "D": "水", "correct": "A" }
+    ]
+  }
+]

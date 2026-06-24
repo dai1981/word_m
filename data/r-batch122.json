@@ -1,0 +1,529 @@
+[
+  {
+    "english": "reproductive",
+    "pron": "ˌriːprəˈdʌktɪv",
+    "kana": "リプロダクティブ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "reproduce（繁殖する・複製する）＋ -ive",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "理科・生物"],
+    "meaning_main": "生殖の・繁殖の・再生産の",
+    "description": "reproductive の意味・発音・例文・語源を解説。子を生み出す「生殖の・繁殖の」という生物の意味を中心に、生殖器系や生殖能力に関する形容詞の使い方を紹介します。",
+    "keywords": ["reproductive 意味", "reproductive 発音", "生殖の", "繁殖の"],
+    "meanings": [
+      { "hinshi": "【形容詞】生殖の・繁殖の・再生産の", "note": "子孫を生み出すことに関する。the reproductive system（生殖器系）。reproductive health（生殖に関する健康）。" }
+    ],
+    "usages": [
+      { "title": "① 「生殖器系」として", "desc": "生殖に関わる器官を表します。", "example_en": "The ovaries are part of the female reproductive system.", "example_ja": "卵巣は女性の生殖器系の一部だ。" },
+      { "title": "② 「繁殖能力」として", "desc": "子を生み出す力を表します。", "example_en": "Pollution can affect reproductive health.", "example_ja": "汚染は生殖の健康に影響を与えうる。" }
+    ],
+    "warn": [
+      "reproductive は『生殖の・繁殖の・再生産の』。reproduce（繁殖する・複製する）＋ -ive。名詞 reproduction（生殖・複製）。",
+      "the reproductive system（生殖器系）, reproductive health / rights（生殖の健康・権利）が頻出。"
+    ],
+    "etym_note": "reproduce（re-「再び」＋ produce「生み出す」、ラテン語 producere より）＋ -ive から成り、「再び生み出す・子をなす性質の」を意味します。produce（生産する）と同じ語根です。",
+    "etym_chain": [
+      { "node": "producere", "sub": "前に導き出す・生み出す", "era": "ラテン語" },
+      { "node": "reproduce", "sub": "繁殖する・複製する", "era": "近代英語" },
+      { "node": "reproductive", "sub": "生殖の・繁殖の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the reproductive system", "ja": "生殖器系" },
+      { "en": "reproductive health", "ja": "生殖に関する健康" },
+      { "en": "reproductive organs", "ja": "生殖器官" },
+      { "en": "reproductive rights", "ja": "生殖に関する権利" },
+      { "en": "reproductive cells", "ja": "生殖細胞" },
+      { "en": "the reproductive cycle", "ja": "繁殖周期" }
+    ],
+    "related": [
+      { "en": "reproduce", "ja": "繁殖する・複製する" },
+      { "en": "reproduction", "ja": "生殖・複製" },
+      { "en": "fertility", "ja": "繁殖力・出生率" },
+      { "en": "genetic", "ja": "遺伝の" }
+    ],
+    "faq": [
+      { "q": "reproductive とはどんな意味？", "a": "子孫を生み出すことに関する『生殖の・繁殖の・再生産の』という形容詞です。the reproductive system（生殖器系）、reproductive health（生殖の健康）のように使います。名詞は reproduction です。" },
+      { "q": "the reproductive system とは？", "a": "『生殖器系』のことで、子をつくるために働く器官のまとまりです。女性では卵巣・子宮など、男性では精巣などが含まれます。" }
+    ],
+    "quiz": [
+      { "q": "The ovaries are part of the female ___ system.（生殖の）", "A": "reproductive", "B": "productive の生産的な", "C": "destructive の破壊的な", "D": "protective の保護的な", "correct": "A" },
+      { "q": "reproductive の名詞形はどれ？", "A": "reproduction（生殖・複製）", "B": "production の最初の生産だけ", "C": "destruction（破壊）", "D": "protection（保護）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "residency",
+    "pron": "ˈrezɪdənsi",
+    "kana": "レジデンシー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "resident（居住者）＋ -cy（状態）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "社会・医学"],
+    "meaning_main": "居住（資格）・在留資格／（医師の）研修期間",
+    "description": "residency の意味・発音・例文・語源を解説。ある国・地域に住む資格「居住・在留資格」と、医師が病院で行う「研修（レジデント期間）」という二つの意味を紹介します。",
+    "keywords": ["residency 意味", "residency 発音", "在留資格", "研修医"],
+    "meanings": [
+      { "hinshi": "【名詞】居住・居住資格・在留資格", "note": "ある場所に住むこと・住む権利。permanent residency（永住権）。" },
+      { "hinshi": "【名詞】(米)（医師の）研修期間・レジデント期間", "note": "医学部卒業後、病院で専門研修を受ける期間。a medical residency（臨床研修）。" }
+    ],
+    "usages": [
+      { "title": "① 「在留資格」として", "desc": "住む権利を表します。", "example_en": "She applied for permanent residency.", "example_ja": "彼女は永住権を申請した。" },
+      { "title": "② 「医師の研修」として", "desc": "卒後の専門研修を表します。", "example_en": "He is doing his residency at a city hospital.", "example_ja": "彼は市の病院で研修（レジデント）をしている。" }
+    ],
+    "warn": [
+      "residency は『居住・在留資格』と、(米)『（医師の）研修期間』。resident（居住者／研修医）＋ -cy。",
+      "permanent residency（永住権）, a medical residency（臨床研修）が頻出。"
+    ],
+    "etym_note": "resident（『居住する（人）』、ラテン語 residere「とどまる・座り続ける」より）＋ -cy（『状態・地位』を表す語尾）から成り、「居住している状態」を意味します。reside（住む）, residence（住居）と同じ語根です。",
+    "etym_chain": [
+      { "node": "residere", "sub": "とどまる", "era": "ラテン語" },
+      { "node": "resident", "sub": "居住者・研修医", "era": "中英語" },
+      { "node": "residency", "sub": "居住・研修期間", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "permanent residency", "ja": "永住権" },
+      { "en": "apply for residency", "ja": "在留資格を申請する" },
+      { "en": "a residency requirement", "ja": "居住要件" },
+      { "en": "a medical residency", "ja": "臨床研修（レジデント）" },
+      { "en": "do one's residency", "ja": "研修を行う" },
+      { "en": "an artist in residency", "ja": "（招かれて滞在する）アーティスト" }
+    ],
+    "related": [
+      { "en": "resident", "ja": "居住者・研修医" },
+      { "en": "residence", "ja": "住居・居住" },
+      { "en": "citizenship", "ja": "市民権・国籍" },
+      { "en": "internship", "ja": "（医師の）初期研修・インターン" }
+    ],
+    "faq": [
+      { "q": "residency とはどんな意味？", "a": "ある国・地域に住む資格『居住・在留資格』という意味と、医師が病院で行う『研修期間（レジデント）』という意味があります。permanent residency（永住権）、a medical residency（臨床研修）のように使います。" },
+      { "q": "residency と residence の違いは？", "a": "residence は『住居・住むこと』が中心、residency は『居住資格・在留資格』や『（医師の）研修期間』を指します。permanent residency（永住権）のように、資格・地位の意味が強い語です。" }
+    ],
+    "quiz": [
+      { "q": "She applied for permanent ___.（在留資格）", "A": "residency", "B": "emergency の緊急", "C": "tendency の傾向", "D": "frequency の頻度", "correct": "A" },
+      { "q": "医師の residency とは何を指す？", "A": "卒業後の病院での研修期間", "B": "入院日数", "C": "診察料", "D": "病室", "correct": "A" }
+    ]
+  },
+  {
+    "english": "republicanism",
+    "pron": "rɪˈpʌblɪkənɪzəm",
+    "kana": "リパブリカニズム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "republican（共和制の）＋ -ism（主義）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "政治・歴史"],
+    "meaning_main": "共和主義（君主制でなく共和制を支持する立場）",
+    "description": "republicanism の意味・発音・例文・語源を解説。君主制ではなく、国民が主権を持つ共和制を支持する立場「共和主義」を表す、政治・歴史で使う名詞の使い方を紹介します。",
+    "keywords": ["republicanism 意味", "republicanism 発音", "共和主義", "republic 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】共和主義", "note": "君主（王）を置かず、国民が選んだ代表が国を治める共和制を支持する立場・思想。" }
+    ],
+    "usages": [
+      { "title": "① 思想としての「共和主義」", "desc": "共和制を支持する立場を表します。", "example_en": "Republicanism spread after the revolution.", "example_ja": "共和主義は革命のあと広まった。" },
+      { "title": "② 政治の文脈で", "desc": "君主制への反対を表します。", "example_en": "There is a growing movement for republicanism.", "example_ja": "共和主義を求める動きが高まっている。" }
+    ],
+    "warn": [
+      "republicanism は『共和主義』（君主制でなく共和制を支持）。republican（共和制の・共和主義者）＋ -ism。",
+      "（米）大文字 Republicanism は『共和党の主義』を指すこともある。文脈で区別。monarchism（君主主義）の反対。"
+    ],
+    "etym_note": "republican（『共和制の』、republic「共和国」、ラテン語 res publica「公共のもの・国家」より）＋ -ism（主義）から成り、「共和制を支持する立場」を意味します。public（公の）と同じ語根です。",
+    "etym_chain": [
+      { "node": "res publica", "sub": "公共のもの・国家", "era": "ラテン語" },
+      { "node": "republican", "sub": "共和制の", "era": "近代英語" },
+      { "node": "republicanism", "sub": "共和主義", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the spread of republicanism", "ja": "共和主義の広がり" },
+      { "en": "a movement for republicanism", "ja": "共和主義を求める運動" },
+      { "en": "classical republicanism", "ja": "古典的共和主義" },
+      { "en": "support republicanism", "ja": "共和主義を支持する" },
+      { "en": "republicanism and monarchism", "ja": "共和主義と君主主義" },
+      { "en": "the ideals of republicanism", "ja": "共和主義の理念" }
+    ],
+    "related": [
+      { "en": "republican", "ja": "共和制の・共和主義者" },
+      { "en": "republic", "ja": "共和国" },
+      { "en": "monarchism", "ja": "君主主義（対比）" },
+      { "en": "democracy", "ja": "民主主義" }
+    ],
+    "faq": [
+      { "q": "republicanism とはどんな意味？", "a": "君主（王）を置かず、国民が選んだ代表が国を治める共和制を支持する立場・思想『共和主義』のことです。Republicanism spread after the revolution.（革命のあと共和主義が広まった）のように使います。" },
+      { "q": "republicanism と monarchism の違いは？", "a": "republicanism（共和主義）は『君主を置かない共和制を支持』、monarchism（君主主義）は『君主（王）を置く君主制を支持』する立場で、対立します。" }
+    ],
+    "quiz": [
+      { "q": "___ spread after the revolution.（共和主義）", "A": "Republicanism", "B": "Tourism の観光", "C": "Realism の写実主義", "D": "Racism の人種差別", "correct": "A" },
+      { "q": "republicanism と対立する立場はどれ？", "A": "monarchism（君主主義）", "B": "tourism（観光）", "C": "optimism（楽観主義）", "D": "realism（写実主義）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reopening",
+    "pron": "ˌriːˈoʊpənɪŋ",
+    "kana": "リオープニング",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "reopen（再び開く）＋ -ing",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出語"],
+    "meaning_main": "再開・（店・施設の）再オープン／（案件の）再検討",
+    "description": "reopening の意味・発音・例文・語源を解説。店や施設の「再開・再オープン」、また閉じた案件の「再検討・再開」を表す名詞の使い方を分かりやすく紹介します。",
+    "keywords": ["reopening 意味", "reopening 発音", "再開", "再オープン"],
+    "meanings": [
+      { "hinshi": "【名詞】再開・（店・施設の）再オープン", "note": "一度閉じたものを再び開けること。the reopening of schools（学校の再開）。" },
+      { "hinshi": "【名詞】（案件・議論の）再検討・蒸し返し", "note": "the reopening of the case（その事件の再捜査）。動詞は reopen。" }
+    ],
+    "usages": [
+      { "title": "① 「店の再オープン」として", "desc": "施設の再開を表します。", "example_en": "The grand reopening drew a large crowd.", "example_ja": "盛大な再オープンは大勢の人を集めた。" },
+      { "title": "② 「案件の再検討」として", "desc": "閉じた件の再開を表します。", "example_en": "New evidence led to the reopening of the case.", "example_ja": "新証拠がその事件の再捜査につながった。" }
+    ],
+    "warn": [
+      "reopening は『再開・再オープン』『（案件の）再検討』。reopen（再び開く）＋ -ing。re-（再び）＋ open。",
+      "a grand reopening（盛大な再オープン）, the reopening of the case（事件の再捜査）が頻出。"
+    ],
+    "etym_note": "reopen（re-「再び」＋ open「開く」、古英語 open より）＋ -ing から成り、「再び開けること」を意味します。",
+    "etym_chain": [
+      { "node": "open", "sub": "開く", "era": "古英語" },
+      { "node": "reopen", "sub": "再び開く", "era": "近代英語" },
+      { "node": "reopening", "sub": "再開・再オープン", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a grand reopening", "ja": "盛大な再オープン" },
+      { "en": "the reopening of schools", "ja": "学校の再開" },
+      { "en": "the reopening of the border", "ja": "国境の再開" },
+      { "en": "the reopening of the case", "ja": "事件の再捜査" },
+      { "en": "after the reopening", "ja": "再開後に" },
+      { "en": "plan a reopening", "ja": "再開を計画する" }
+    ],
+    "related": [
+      { "en": "reopen", "ja": "再び開く" },
+      { "en": "open", "ja": "開く" },
+      { "en": "resumption", "ja": "再開" },
+      { "en": "closure", "ja": "閉鎖（反対）" }
+    ],
+    "faq": [
+      { "q": "reopening とはどんな意味？", "a": "一度閉じた店や施設の『再開・再オープン』、また閉じた案件の『再検討・蒸し返し』という意味です。The grand reopening drew a large crowd.（盛大な再オープンは大勢を集めた）のように使います。動詞は reopen です。" },
+      { "q": "the reopening of the case とは？", "a": "『その事件（案件）の再捜査・再検討』という意味です。新しい証拠が見つかったときなど、いったん終わった事件を再び調べ直すことを指します。" }
+    ],
+    "quiz": [
+      { "q": "The grand ___ drew a large crowd.（再オープン）", "A": "reopening", "B": "evening の夕方", "C": "morning の朝", "D": "meaning の意味", "correct": "A" },
+      { "q": "reopening の動詞形はどれ？", "A": "reopen（再び開く）", "B": "open の最初に開くだけ", "C": "happen（起こる）", "D": "listen（聞く）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "redirection",
+    "pron": "ˌriːdɪˈrekʃən",
+    "kana": "リダイレクション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "redirect（方向を変える・転送する）＋ -ion",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "IT・ビジネス"],
+    "meaning_main": "方向転換・進路変更・（ウェブの）リダイレクト・転送",
+    "description": "redirection の意味・発音・例文・語源を解説。進路や資源の「方向転換」、またウェブページの「リダイレクト（転送）」を表す、ITやビジネスで使う名詞を紹介します。",
+    "keywords": ["redirection 意味", "redirection 発音", "方向転換", "リダイレクト"],
+    "meanings": [
+      { "hinshi": "【名詞】方向転換・進路変更", "note": "向き・流れを変えること。a redirection of resources（資源の振り向け直し）。" },
+      { "hinshi": "【名詞】(IT)リダイレクト・転送", "note": "アクセスを別のURLへ自動で送ること。a URL redirection（URLの転送）。動詞は redirect。" }
+    ],
+    "usages": [
+      { "title": "① 「資源の振り向け直し」として", "desc": "流れの方向転換を表します。", "example_en": "The plan involves a redirection of funds.", "example_ja": "その計画は資金の振り向け直しを伴う。" },
+      { "title": "② IT「リダイレクト」として", "desc": "別URLへの転送を表します。", "example_en": "The old link uses a redirection to the new page.", "example_ja": "古いリンクは新しいページへのリダイレクトを使っている。" }
+    ],
+    "warn": [
+      "redirection は『方向転換・進路変更』『（IT）リダイレクト・転送』。redirect（方向を変える・転送する）＋ -ion。",
+      "ITでは a 301 redirection（恒久的な転送）のように使う。re-（再び）＋ direction（方向）。"
+    ],
+    "etym_note": "redirect（re-「再び・逆に」＋ direct「向ける」、ラテン語 dirigere「導く」より）＋ -ion から成り、「向きを変えること」を意味します。direction（方向）, direct（向ける）と同じ語根です。",
+    "etym_chain": [
+      { "node": "dirigere", "sub": "導く・向ける", "era": "ラテン語" },
+      { "node": "redirect", "sub": "方向を変える・転送する", "era": "近代英語" },
+      { "node": "redirection", "sub": "方向転換・転送", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a redirection of resources", "ja": "資源の振り向け直し" },
+      { "en": "a redirection of funds", "ja": "資金の振り向け直し" },
+      { "en": "a URL redirection", "ja": "URLの転送" },
+      { "en": "a 301 redirection", "ja": "301リダイレクト（恒久転送）" },
+      { "en": "traffic redirection", "ja": "アクセスの転送" },
+      { "en": "a sudden redirection", "ja": "急な方向転換" }
+    ],
+    "related": [
+      { "en": "redirect", "ja": "方向を変える・転送する" },
+      { "en": "direction", "ja": "方向" },
+      { "en": "diversion", "ja": "そらすこと・う回" },
+      { "en": "rerouting", "ja": "経路の変更" }
+    ],
+    "faq": [
+      { "q": "redirection とはどんな意味？", "a": "進路や資源の『方向転換・進路変更』、またウェブで別URLへ自動で送る『リダイレクト・転送』という意味です。a redirection of funds（資金の振り向け直し）、a URL redirection（URLの転送）のように使います。動詞は redirect です。" },
+      { "q": "ITの redirection（リダイレクト）とは？", "a": "あるURLにアクセスしたとき、自動的に別のURLへ転送する仕組みです。ページを移転したときなどに、古いアドレスから新しいアドレスへ訪問者を送るために使われます。" }
+    ],
+    "quiz": [
+      { "q": "The plan involves a ___ of funds.（振り向け直し）", "A": "redirection", "B": "direction の最初の方向だけ", "C": "collection の収集", "D": "correction の訂正", "correct": "A" },
+      { "q": "redirection の動詞形はどれ？", "A": "redirect（方向を変える・転送する）", "B": "collect（集める）", "C": "correct（訂正する）", "D": "connect（つなぐ）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reorientation",
+    "pron": "ˌriːˌɔːriɛnˈteɪʃən",
+    "kana": "リオリエンテイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "reorient（方向づけし直す）＋ -ation",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "ビジネス・教育"],
+    "meaning_main": "方向づけのし直し・路線変更・（考え方の）転換",
+    "description": "reorientation の意味・発音・例文・語源を解説。方針・考え方・体勢を新しい方向に向け直す「路線変更・方向づけのし直し・転換」を表す名詞の使い方を紹介します。",
+    "keywords": ["reorientation 意味", "reorientation 発音", "路線変更", "方向転換"],
+    "meanings": [
+      { "hinshi": "【名詞】方向づけのし直し・路線変更・（考え方の）転換", "note": "方針・考え方・立場を新たな方向に向け直すこと。a reorientation of policy（政策の路線変更）。動詞は reorient。" }
+    ],
+    "usages": [
+      { "title": "① 「政策の路線変更」として", "desc": "方針の向け直しを表します。", "example_en": "The crisis forced a reorientation of foreign policy.", "example_ja": "その危機は外交政策の路線変更を迫った。" },
+      { "title": "② 「考え方の転換」として", "desc": "視点の向け直しを表します。", "example_en": "The book calls for a reorientation of values.", "example_ja": "その本は価値観の転換を求めている。" }
+    ],
+    "warn": [
+      "reorientation は『方向づけのし直し・路線変更・（考え方の）転換』。reorient（方向づけし直す）＋ -ation。",
+      "policy / strategic reorientation（政策・戦略の路線変更）が頻出。re-（再び）＋ orient（方向づける）。"
+    ],
+    "etym_note": "reorient（re-「再び」＋ orient「（東に）方向づける」、orient「東」より＝もとは『東に向ける』）＋ -ation から成り、「再び方向づけること」を意味します。orientation（方向づけ・オリエンテーション）と同じ語根です。",
+    "etym_chain": [
+      { "node": "orient", "sub": "東・方向づける", "era": "ラテン語" },
+      { "node": "reorient", "sub": "方向づけし直す", "era": "近代英語" },
+      { "node": "reorientation", "sub": "路線変更・方向転換", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a reorientation of policy", "ja": "政策の路線変更" },
+      { "en": "a strategic reorientation", "ja": "戦略の方向転換" },
+      { "en": "a reorientation of values", "ja": "価値観の転換" },
+      { "en": "force a reorientation", "ja": "路線変更を迫る" },
+      { "en": "a complete reorientation", "ja": "全面的な方向転換" },
+      { "en": "a reorientation of priorities", "ja": "優先順位の見直し" }
+    ],
+    "related": [
+      { "en": "reorient", "ja": "方向づけし直す" },
+      { "en": "orientation", "ja": "方向づけ・オリエンテーション" },
+      { "en": "realignment", "ja": "再編成・立て直し" },
+      { "en": "shift", "ja": "転換・移行" }
+    ],
+    "faq": [
+      { "q": "reorientation とはどんな意味？", "a": "方針・考え方・立場を新しい方向に向け直す『路線変更・方向づけのし直し・転換』のことです。The crisis forced a reorientation of foreign policy.（外交政策の路線変更を迫った）のように使います。動詞は reorient です。" },
+      { "q": "reorientation と redirection の違いは？", "a": "redirection は『（向き・流れを）変えること』、reorientation は『（方針・考え方・体勢を）新たな方向に向け直す・路線変更すること』で、より大きな方向性の転換を表します。" }
+    ],
+    "quiz": [
+      { "q": "The crisis forced a ___ of foreign policy.（路線変更）", "A": "reorientation", "B": "presentation の発表", "C": "reservation の予約", "D": "celebration の祝賀", "correct": "A" },
+      { "q": "reorientation の動詞形はどれ？", "A": "reorient（方向づけし直す）", "B": "present（発表する）", "C": "reserve（予約する）", "D": "celebrate（祝う）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reprogramming",
+    "pron": "ˌriːˈproʊɡræmɪŋ",
+    "kana": "リプログラミング",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "reprogram（再プログラムする）＋ -ing",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "IT・生物"],
+    "meaning_main": "再プログラム・プログラムし直すこと／（細胞・思考の）作り替え",
+    "description": "reprogramming の意味・発音・例文・語源を解説。機器を「再プログラムすること」、また細胞や思考パターンを「作り替えること」という、ITや生物・心理で使う語を紹介します。",
+    "keywords": ["reprogramming 意味", "reprogramming 発音", "再プログラム", "program 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再プログラム・プログラムし直すこと", "note": "機器・装置の動作を新しく設定し直すこと。the reprogramming of the device（機器の再プログラム）。" },
+      { "hinshi": "【名詞】（細胞・思考の）作り替え・リプログラミング", "note": "生物では細胞の初期化、心理では思考パターンの作り直し。cellular reprogramming（細胞のリプログラミング）。動詞は reprogram。" }
+    ],
+    "usages": [
+      { "title": "① IT「再プログラム」として", "desc": "機器の設定し直しを表します。", "example_en": "The robot required reprogramming.", "example_ja": "そのロボットは再プログラムが必要だった。" },
+      { "title": "② 生物・心理「作り替え」として", "desc": "細胞や思考の作り直しを表します。", "example_en": "Cellular reprogramming can turn skin cells into stem cells.", "example_ja": "細胞のリプログラミングは皮膚細胞を幹細胞に変えられる。" }
+    ],
+    "warn": [
+      "reprogramming は『再プログラム』『（細胞・思考の）作り替え』。reprogram（再プログラムする）＋ -ing。",
+      "IT（機器の再設定）、生物（細胞のリプログラミング）、心理（思考の作り直し）など幅広く使う。"
+    ],
+    "etym_note": "reprogram（re-「再び」＋ program「予定・手順を組む」、ギリシャ語 programma「公示」より）＋ -ing から成り、「再び手順を組むこと」を意味します。program（プログラム）と同じ語根です。",
+    "etym_chain": [
+      { "node": "programma", "sub": "公示・あらかじめ書くもの", "era": "ギリシャ語" },
+      { "node": "reprogram", "sub": "再プログラムする", "era": "20世紀英語" },
+      { "node": "reprogramming", "sub": "再プログラム・作り替え", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "require reprogramming", "ja": "再プログラムが必要だ" },
+      { "en": "the reprogramming of the device", "ja": "機器の再プログラム" },
+      { "en": "cellular reprogramming", "ja": "細胞のリプログラミング" },
+      { "en": "reprogramming the software", "ja": "ソフトの再プログラム" },
+      { "en": "mental reprogramming", "ja": "思考パターンの作り替え" },
+      { "en": "genetic reprogramming", "ja": "遺伝子の再プログラム" }
+    ],
+    "related": [
+      { "en": "reprogram", "ja": "再プログラムする" },
+      { "en": "program", "ja": "プログラム・予定を組む" },
+      { "en": "reconfigure", "ja": "再構成する" },
+      { "en": "rewire", "ja": "配線し直す・（脳を）作り替える" }
+    ],
+    "faq": [
+      { "q": "reprogramming とはどんな意味？", "a": "機器を『再プログラムすること（設定し直し）』、また細胞や思考パターンを『作り替えること』という意味です。The robot required reprogramming.（ロボットは再プログラムが必要だった）のように使います。動詞は reprogram です。" },
+      { "q": "cellular reprogramming とは？", "a": "『細胞のリプログラミング』のことです。成熟した細胞（皮膚細胞など）を、さまざまな細胞になれる幹細胞のような状態に作り替える技術で、iPS細胞の作製などに関わります。" }
+    ],
+    "quiz": [
+      { "q": "The robot required ___.（再プログラム）", "A": "reprogramming", "B": "remembering の思い出すこと", "C": "rearranging の並べ替え", "D": "researching の調査", "correct": "A" },
+      { "q": "reprogramming の動詞形はどれ？", "A": "reprogram（再プログラムする）", "B": "remember（思い出す）", "C": "rearrange（並べ替える）", "D": "research（調査する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reanimation",
+    "pron": "ˌriːænɪˈmeɪʃən",
+    "kana": "リアニメイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "reanimate（生き返らせる）＋ -ion",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "理科・文化"],
+    "meaning_main": "蘇生（そせい）・生き返らせること／（活動の）再活性化",
+    "description": "reanimation の意味・発音・例文・語源を解説。命のないものを「生き返らせること・蘇生」、また衰えたものの「再活性化」を表す、医学やSF・文化で使う名詞を紹介します。",
+    "keywords": ["reanimation 意味", "reanimation 発音", "蘇生", "生き返らせる"],
+    "meanings": [
+      { "hinshi": "【名詞】蘇生・生き返らせること", "note": "命を再び与えること。物語・SFや医学的蘇生で使う。the reanimation of the dead（死者の蘇生）。" },
+      { "hinshi": "【名詞】（活動・関心の）再活性化・再興", "note": "衰えたものを再び生き生きさせること。動詞は reanimate。" }
+    ],
+    "usages": [
+      { "title": "① 「蘇生・生き返らせること」として", "desc": "命を再び与えることを表します。", "example_en": "The film explores the reanimation of the dead.", "example_ja": "その映画は死者の蘇生を描いている。" },
+      { "title": "② 「再活性化」として", "desc": "衰えたものの再興を表します。", "example_en": "The festival led to a reanimation of the town center.", "example_ja": "その祭りは町の中心部の再活性化につながった。" }
+    ],
+    "warn": [
+      "reanimation は『蘇生・生き返らせること』『（活動・関心の）再活性化』。reanimate（生き返らせる）＋ -ion。",
+      "SF・ホラー（死者の蘇生）や医学的蘇生、比喩での再活性化に使う。"
+    ],
+    "etym_note": "reanimate（re-「再び」＋ animate「生命を吹き込む」、ラテン語 anima「魂・息」より）＋ -ion から成り、「再び命を与えること」を意味します。animal（動物）, animation（アニメ）と同じ語根です。",
+    "etym_chain": [
+      { "node": "anima", "sub": "魂・息", "era": "ラテン語" },
+      { "node": "reanimate", "sub": "生き返らせる", "era": "近代英語" },
+      { "node": "reanimation", "sub": "蘇生・再活性化", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the reanimation of the dead", "ja": "死者の蘇生" },
+      { "en": "attempt reanimation", "ja": "蘇生を試みる" },
+      { "en": "the reanimation of a corpse", "ja": "死体の蘇生" },
+      { "en": "the reanimation of the economy", "ja": "経済の再活性化" },
+      { "en": "a reanimation of interest", "ja": "関心の再燃" },
+      { "en": "cryonic reanimation", "ja": "（冷凍保存からの）蘇生" }
+    ],
+    "related": [
+      { "en": "reanimate", "ja": "生き返らせる" },
+      { "en": "resuscitation", "ja": "（医学的）蘇生" },
+      { "en": "revival", "ja": "復活・再生" },
+      { "en": "resurrection", "ja": "復活" }
+    ],
+    "faq": [
+      { "q": "reanimation とはどんな意味？", "a": "命のないものを『生き返らせること・蘇生』、また衰えたものの『再活性化・再興』という意味です。The film explores the reanimation of the dead.（死者の蘇生を描いている）のように使います。動詞は reanimate です。" },
+      { "q": "reanimation と resuscitation の違いは？", "a": "resuscitation は『（止まりかけた呼吸・心拍を戻す）医学的な蘇生（心肺蘇生など）』、reanimation は『（命のないものに再び命を与える）SF・文学的な蘇生』や『再活性化』を広く表します。" }
+    ],
+    "quiz": [
+      { "q": "The film explores the ___ of the dead.（蘇生）", "A": "reanimation", "B": "animation の最初のアニメ・動画だけ", "C": "examination の試験", "D": "imagination の想像", "correct": "A" },
+      { "q": "reanimation に含まれる語根 anima の意味は？", "A": "魂・息", "B": "形", "C": "数", "D": "光", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rescheduling",
+    "pron": "ˌriːˈʃedjuːlɪŋ",
+    "kana": "リスケジューリング",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "reschedule（予定を変更する）＋ -ing",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "ビジネス"],
+    "meaning_main": "予定変更・日程の組み直し／（債務の）返済繰り延べ",
+    "description": "rescheduling の意味・発音・例文・語源を解説。会議などの「予定変更・日程の組み直し」と、借金の「返済の繰り延べ（リスケ）」という、ビジネス・金融で使う語を紹介します。",
+    "keywords": ["rescheduling 意味", "rescheduling 発音", "予定変更", "リスケ"],
+    "meanings": [
+      { "hinshi": "【名詞】予定変更・日程の組み直し", "note": "日時を改めて決め直すこと。the rescheduling of the meeting（会議の日程変更）。" },
+      { "hinshi": "【名詞】（債務の）返済繰り延べ・リスケジュール", "note": "借金の返済時期・条件を組み直すこと。debt rescheduling（債務の繰り延べ）。動詞は reschedule。" }
+    ],
+    "usages": [
+      { "title": "① 「日程の組み直し」として", "desc": "予定の変更を表します。", "example_en": "The rescheduling of the event annoyed many guests.", "example_ja": "イベントの日程変更は多くの招待客を困らせた。" },
+      { "title": "② 「債務の繰り延べ」として", "desc": "返済条件の組み直しを表します。", "example_en": "The country negotiated a rescheduling of its debt.", "example_ja": "その国は債務の繰り延べを交渉した。" }
+    ],
+    "warn": [
+      "rescheduling は『予定変更・日程の組み直し』『（債務の）返済繰り延べ』。reschedule（予定を変更する）＋ -ing。",
+      "日本語の『リスケ』は会議の予定変更にも債務の繰り延べにも使われる。debt rescheduling（債務の繰り延べ）が金融で頻出。"
+    ],
+    "etym_note": "reschedule（re-「再び」＋ schedule「予定（を組む）」、ラテン語 schedula「紙片」より）＋ -ing から成り、「再び予定を組むこと」を意味します。",
+    "etym_chain": [
+      { "node": "schedula", "sub": "紙片", "era": "ラテン語" },
+      { "node": "schedule", "sub": "予定・予定を組む", "era": "近代英語" },
+      { "node": "rescheduling", "sub": "予定変更・繰り延べ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the rescheduling of the meeting", "ja": "会議の日程変更" },
+      { "en": "debt rescheduling", "ja": "債務の繰り延べ" },
+      { "en": "request rescheduling", "ja": "予定変更を依頼する" },
+      { "en": "loan rescheduling", "ja": "ローンの返済繰り延べ" },
+      { "en": "the rescheduling of flights", "ja": "便の予定変更" },
+      { "en": "negotiate a rescheduling", "ja": "繰り延べを交渉する" }
+    ],
+    "related": [
+      { "en": "reschedule", "ja": "予定を変更する" },
+      { "en": "schedule", "ja": "予定・予定を組む" },
+      { "en": "postponement", "ja": "延期" },
+      { "en": "deferral", "ja": "繰り延べ・据え置き" }
+    ],
+    "faq": [
+      { "q": "rescheduling とはどんな意味？", "a": "会議などの『予定変更・日程の組み直し』と、借金の『返済の繰り延べ（リスケ）』という二つの意味があります。the rescheduling of the meeting（会議の日程変更）、debt rescheduling（債務の繰り延べ）のように使います。動詞は reschedule です。" },
+      { "q": "debt rescheduling とは？", "a": "『債務の繰り延べ』のことです。借金を期限どおり返せないとき、返済時期を遅らせたり条件を組み直したりすることで、国や企業の財政立て直しで行われます。" }
+    ],
+    "quiz": [
+      { "q": "The country negotiated a ___ of its debt.（繰り延べ）", "A": "rescheduling", "B": "researching の調査", "C": "resembling の似ていること", "D": "rehearsing の練習", "correct": "A" },
+      { "q": "rescheduling の動詞形はどれ？", "A": "reschedule（予定を変更する）", "B": "research（調査する）", "C": "resemble（似ている）", "D": "rehearse（練習する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "revaluation",
+    "pron": "ˌriːˌvæljuˈeɪʃən",
+    "kana": "リバリュエイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "revalue（再評価する・平価切り上げする）＋ -ation",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "経済・会計"],
+    "meaning_main": "再評価・価値の見直し／（通貨の）平価切り上げ",
+    "description": "revaluation の意味・発音・例文・語源を解説。資産などの「再評価・価値の見直し」と、通貨の価値を引き上げる「平価切り上げ」を表す、経済・会計で使う名詞を紹介します。",
+    "keywords": ["revaluation 意味", "revaluation 発音", "再評価", "平価切り上げ"],
+    "meanings": [
+      { "hinshi": "【名詞】（資産などの）再評価・価値の見直し", "note": "価値を改めて見積もり直すこと。the revaluation of assets（資産の再評価）。" },
+      { "hinshi": "【名詞】(通貨の)平価切り上げ", "note": "自国通貨の対外価値を引き上げること。反対は devaluation（平価切り下げ）。動詞は revalue。" }
+    ],
+    "usages": [
+      { "title": "① 会計「資産の再評価」として", "desc": "価値の見直しを表します。", "example_en": "The revaluation of property increased the company's assets.", "example_ja": "不動産の再評価で会社の資産が増えた。" },
+      { "title": "② 通貨「平価切り上げ」として", "desc": "通貨価値の引き上げを表します。", "example_en": "A currency revaluation made imports cheaper.", "example_ja": "通貨の平価切り上げは輸入品を安くした。" }
+    ],
+    "warn": [
+      "revaluation は『（資産の）再評価』『（通貨の）平価切り上げ』。revalue（再評価する・切り上げる）＋ -ation。",
+      "反対は devaluation（平価切り下げ・価値の下落）。re-（再び）＋ valuation（評価）。"
+    ],
+    "etym_note": "revalue（re-「再び」＋ value「価値・評価する」、ラテン語 valere「価値がある」より）＋ -ation から成り、「再び価値を評価すること」を意味します。value（価値）, valid（有効な）と同じ語根です。",
+    "etym_chain": [
+      { "node": "valere", "sub": "価値がある", "era": "ラテン語" },
+      { "node": "revalue", "sub": "再評価する・切り上げる", "era": "近代英語" },
+      { "node": "revaluation", "sub": "再評価・平価切り上げ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the revaluation of assets", "ja": "資産の再評価" },
+      { "en": "a currency revaluation", "ja": "通貨の平価切り上げ" },
+      { "en": "property revaluation", "ja": "不動産の再評価" },
+      { "en": "an upward revaluation", "ja": "上方への再評価" },
+      { "en": "a revaluation reserve", "ja": "再評価積立金" },
+      { "en": "revaluation and devaluation", "ja": "平価切り上げと切り下げ" }
+    ],
+    "related": [
+      { "en": "revalue", "ja": "再評価する・切り上げる" },
+      { "en": "valuation", "ja": "評価・査定" },
+      { "en": "devaluation", "ja": "平価切り下げ（反対）" },
+      { "en": "appreciation", "ja": "（通貨の）価値上昇" }
+    ],
+    "faq": [
+      { "q": "revaluation とはどんな意味？", "a": "資産などの『再評価・価値の見直し』と、通貨の価値を引き上げる『平価切り上げ』という意味です。the revaluation of assets（資産の再評価）、a currency revaluation（通貨の平価切り上げ）のように使います。動詞は revalue です。" },
+      { "q": "revaluation と devaluation の違いは？", "a": "通貨では、revaluation は『平価切り上げ（自国通貨の価値を上げる）』、devaluation は『平価切り下げ（自国通貨の価値を下げる）』で、反対の意味です。" }
+    ],
+    "quiz": [
+      { "q": "A currency ___ made imports cheaper.（平価切り上げ）", "A": "revaluation", "B": "evaluation の評価", "C": "reservation の予約", "D": "regulation の規制", "correct": "A" },
+      { "q": "revaluation（通貨）の反対語はどれ？", "A": "devaluation（平価切り下げ）", "B": "evaluation（評価）", "C": "regulation（規制）", "D": "reservation（予約）", "correct": "A" }
+    ]
+  }
+]

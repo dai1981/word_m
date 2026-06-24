@@ -1,0 +1,526 @@
+[
+  {
+    "english": "recreational",
+    "pron": "ˌrekriˈeɪʃənl",
+    "kana": "レクリエイショナル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "recreation（娯楽・気晴らし）＋ -al",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "娯楽の・レクリエーションの・気晴らしのための",
+    "description": "recreational の意味・発音・例文・語源を解説。仕事ではなく楽しみのための「娯楽の・レクリエーションの・気晴らしのための」という様子を表す形容詞を紹介します。",
+    "keywords": ["recreational 意味", "recreational 発音", "娯楽の", "recreation 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】娯楽の・レクリエーションの・気晴らしのための", "note": "楽しみ・気晴らしのための。recreational activities（レクリエーション活動）。仕事・専門ではなく趣味としての。" }
+    ],
+    "usages": [
+      { "title": "① 「娯楽活動」として", "desc": "楽しみのための活動を表します。", "example_en": "The park offers many recreational activities.", "example_ja": "その公園は多くのレクリエーション活動を提供している。" },
+      { "title": "② 「趣味としての」として", "desc": "専門でなく楽しみのためを表します。", "example_en": "He plays tennis on a recreational basis.", "example_ja": "彼は趣味としてテニスをしている。" }
+    ],
+    "warn": [
+      "recreational は『娯楽の・レクリエーションの・気晴らしのための』。recreation（娯楽）＋ -al。",
+      "recreational activities / facilities / drugs（娯楽活動・施設・嗜好品としての薬物）などで使う。"
+    ],
+    "etym_note": "recreation（『娯楽・気晴らし』、re-「再び」＋ create「創る」＝心身を再び元気にすること、ラテン語 recreare より）＋ -al から成り、「気晴らしの」を意味します。create（創造する）と同じ語根です。",
+    "etym_chain": [
+      { "node": "recreare", "sub": "再び元気にする", "era": "ラテン語" },
+      { "node": "recreation", "sub": "娯楽・気晴らし", "era": "中英語" },
+      { "node": "recreational", "sub": "娯楽の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "recreational activities", "ja": "レクリエーション活動" },
+      { "en": "recreational facilities", "ja": "レクリエーション施設" },
+      { "en": "recreational vehicle", "ja": "キャンピングカー（RV）" },
+      { "en": "for recreational purposes", "ja": "娯楽目的で" },
+      { "en": "recreational sports", "ja": "趣味のスポーツ" },
+      { "en": "recreational fishing", "ja": "趣味の釣り" }
+    ],
+    "related": [
+      { "en": "recreation", "ja": "娯楽・気晴らし" },
+      { "en": "leisure", "ja": "余暇" },
+      { "en": "amusement", "ja": "娯楽・楽しみ" },
+      { "en": "professional", "ja": "専門の（反対）" }
+    ],
+    "faq": [
+      { "q": "recreational とはどんな意味？", "a": "仕事ではなく楽しみのための『娯楽の・レクリエーションの・気晴らしのための』という形容詞です。The park offers many recreational activities.（多くのレクリエーション活動を提供している）のように使います。" },
+      { "q": "recreational vehicle とは？", "a": "『キャンピングカー（RV）』のことです。寝泊まりや調理ができる設備を備え、娯楽・旅行に使う車を指します。略して RV と呼ばれます。" }
+    ],
+    "quiz": [
+      { "q": "The park offers many ___ activities.（レクリエーションの）", "A": "recreational", "B": "educational の教育的な", "C": "international の国際的な", "D": "operational の運用上の", "correct": "A" },
+      { "q": "recreational のもとになった名詞はどれ？", "A": "recreation（娯楽・気晴らし）", "B": "creation（創造）", "C": "education（教育）", "D": "operation（操作）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recoverable",
+    "pron": "rɪˈkʌvərəbl",
+    "kana": "リカバラブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "recover（回復する・取り戻す）＋ -able（できる）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "IT・ビジネス"],
+    "meaning_main": "回復できる・取り戻せる・回収できる",
+    "description": "recoverable の意味・発音・例文・語源を解説。データや損失、健康などが「回復できる・取り戻せる・回収できる」という、ITやビジネスで使う形容詞を紹介します。",
+    "keywords": ["recoverable 意味", "recoverable 発音", "回復できる", "recover 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】回復できる・取り戻せる・回収できる", "note": "失ったものを取り戻せる。recoverable data（復元できるデータ）。a recoverable loss（取り戻せる損失）。反対は unrecoverable / irrecoverable。" }
+    ],
+    "usages": [
+      { "title": "① データの「復元できる」として", "desc": "失ったデータを取り戻せることを表します。", "example_en": "The deleted files may still be recoverable.", "example_ja": "削除されたファイルはまだ復元できるかもしれない。" },
+      { "title": "② 損失の「回収できる」として", "desc": "損失を取り戻せることを表します。", "example_en": "These costs are recoverable from the client.", "example_ja": "これらの費用は顧客から回収できる。" }
+    ],
+    "warn": [
+      "recoverable は『回復できる・取り戻せる・回収できる』。recover（回復する・取り戻す）＋ -able。反対は unrecoverable / irrecoverable。",
+      "IT（データ復元）、ビジネス（費用回収）、医療（回復可能）など幅広く使う。"
+    ],
+    "etym_note": "recover（re-「再び」＋ cover「覆う・得る」、古フランス語 recovrer より）＋ -able（できる）から成り、「取り戻すことができる」を意味します。recovery（回復）と同じ語根です。",
+    "etym_chain": [
+      { "node": "recovrer", "sub": "取り戻す", "era": "古フランス語" },
+      { "node": "recover", "sub": "回復する・取り戻す", "era": "中英語" },
+      { "node": "recoverable", "sub": "回復できる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "recoverable data", "ja": "復元できるデータ" },
+      { "en": "a recoverable loss", "ja": "取り戻せる損失" },
+      { "en": "recoverable costs", "ja": "回収できる費用" },
+      { "en": "fully recoverable", "ja": "完全に回復できる" },
+      { "en": "not recoverable", "ja": "復元できない" },
+      { "en": "a recoverable error", "ja": "回復可能なエラー" }
+    ],
+    "related": [
+      { "en": "recover", "ja": "回復する・取り戻す" },
+      { "en": "recovery", "ja": "回復" },
+      { "en": "retrievable", "ja": "取り出せる" },
+      { "en": "irrecoverable", "ja": "回復できない（反対）" }
+    ],
+    "faq": [
+      { "q": "recoverable とはどんな意味？", "a": "データや損失、健康などが『回復できる・取り戻せる・回収できる』という意味です。The deleted files may still be recoverable.（削除ファイルはまだ復元できるかも）のように使います。動詞は recover です。" },
+      { "q": "recoverable の反対語は？", "a": "unrecoverable または irrecoverable（回復できない・取り戻せない）です。recover（取り戻す）⇔ unrecoverable（取り戻せない）の関係です。" }
+    ],
+    "quiz": [
+      { "q": "The deleted files may still be ___.（復元できる）", "A": "recoverable", "B": "removable の取り外せる", "C": "remarkable の注目すべき", "D": "renewable の再生可能な", "correct": "A" },
+      { "q": "recoverable のもとになった動詞はどれ？", "A": "recover（回復する・取り戻す）", "B": "remove（取り除く）", "C": "remark（述べる）", "D": "renew（更新する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ratification",
+    "pron": "ˌrætɪfɪˈkeɪʃən",
+    "kana": "ラティフィケイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ratify（批准する・承認する）＋ -ation",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "政治・法律"],
+    "meaning_main": "批准（ひじゅん）・（正式な）承認・裁可",
+    "description": "ratification の意味・発音・例文・語源を解説。条約や憲法改正などを国家が正式に認める「批准・承認」を表す、政治・法律で使う名詞の使い方を紹介します。",
+    "keywords": ["ratification 意味", "ratification 発音", "批准", "ratify 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】批准（ひじゅん）・（正式な）承認・裁可", "note": "条約・協定・改正などに国家・議会が正式に同意して効力を持たせること。the ratification of the treaty（条約の批准）。動詞は ratify。" }
+    ],
+    "usages": [
+      { "title": "① 条約の「批准」として", "desc": "国家による正式承認を表します。", "example_en": "The treaty awaits ratification by the senate.", "example_ja": "その条約は上院による批准を待っている。" },
+      { "title": "② 改正の「承認」として", "desc": "正式な裁可を表します。", "example_en": "Ratification of the amendment took two years.", "example_ja": "その改正の批准には2年かかった。" }
+    ],
+    "warn": [
+      "ratification は『批准・（正式な）承認』。動詞 ratify（批准する）＋ -ation。条約・協定・憲法改正などで使う公式語。",
+      "署名（signing）のあとに行われる『正式な確認・効力発生』の手続き。"
+    ],
+    "etym_note": "ratify（『批准する』、ラテン語 ratus「定まった・有効な」＋ facere「する」より）＋ -ation から成り、「正式に有効と定めること」を意味します。rate（割合）, ratio（比）と同じ語根です。",
+    "etym_chain": [
+      { "node": "ratus + facere", "sub": "有効な＋する", "era": "ラテン語" },
+      { "node": "ratify", "sub": "批准する", "era": "中英語" },
+      { "node": "ratification", "sub": "批准・承認", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the ratification of the treaty", "ja": "条約の批准" },
+      { "en": "await ratification", "ja": "批准を待つ" },
+      { "en": "subject to ratification", "ja": "批准を条件として" },
+      { "en": "ratification by parliament", "ja": "議会による批准" },
+      { "en": "formal ratification", "ja": "正式な批准" },
+      { "en": "an instrument of ratification", "ja": "批准書" }
+    ],
+    "related": [
+      { "en": "ratify", "ja": "批准する・承認する" },
+      { "en": "approval", "ja": "承認" },
+      { "en": "endorsement", "ja": "承認・支持" },
+      { "en": "confirmation", "ja": "確認・確定" }
+    ],
+    "faq": [
+      { "q": "ratification とはどんな意味？", "a": "条約・協定・憲法改正などを国家・議会が正式に認めて効力を持たせる『批准・承認』のことです。The treaty awaits ratification by the senate.（上院による批准を待っている）のように使います。動詞は ratify です。" },
+      { "q": "署名と批准の違いは？", "a": "署名（signing）は条約に合意を示す段階、批准（ratification）はその後、国内の正式な手続きを経て条約に拘束される（効力を持たせる）段階です。批准して初めて正式に発効します。" }
+    ],
+    "quiz": [
+      { "q": "The treaty awaits ___ by the senate.（批准）", "A": "ratification", "B": "notification の通知", "C": "classification の分類", "D": "clarification の明確化", "correct": "A" },
+      { "q": "ratification の動詞形はどれ？", "A": "ratify（批准する）", "B": "notify（通知する）", "C": "classify（分類する）", "D": "clarify（明確にする）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rotational",
+    "pron": "roʊˈteɪʃənl",
+    "kana": "ロウテイショナル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "rotation（回転・交代）＋ -al",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "理科・労働"],
+    "meaning_main": "回転の・回転による／交代制の・輪番の",
+    "description": "rotational の意味・発音・例文・語源を解説。物体の「回転の・回転による」という物理の意味と、仕事などの「交代制の・輪番の」という意味の使い方を紹介します。",
+    "keywords": ["rotational 意味", "rotational 発音", "回転の", "交代制の"],
+    "meanings": [
+      { "hinshi": "【形容詞】回転の・回転による", "note": "回転に関する。rotational motion（回転運動）。rotational speed（回転速度）。" },
+      { "hinshi": "【形容詞】交代制の・輪番の・ローテーションの", "note": "順番に交代する。a rotational shift（交代制の勤務）。" }
+    ],
+    "usages": [
+      { "title": "① 物理「回転の」として", "desc": "回転に関する性質を表します。", "example_en": "The wheel's rotational speed increased.", "example_ja": "車輪の回転速度が上がった。" },
+      { "title": "② 労働「交代制の」として", "desc": "順番に交代する仕組みを表します。", "example_en": "The job involves rotational shifts.", "example_ja": "その仕事は交代制の勤務を伴う。" }
+    ],
+    "warn": [
+      "rotational は『回転の・回転による』と『交代制の・輪番の』。rotation（回転・交代）＋ -al。",
+      "物理では『回転』、労働・農業では『交代・輪作』の意味で使う（crop rotation 輪作）。"
+    ],
+    "etym_note": "rotation（『回転・交代』、ラテン語 rotare「回す」、rota「車輪」より）＋ -al から成り、「回転の・交代の」を意味します。rotate（回転する）, rotor（回転子）と同じ語根です。",
+    "etym_chain": [
+      { "node": "rota", "sub": "車輪", "era": "ラテン語" },
+      { "node": "rotation", "sub": "回転・交代", "era": "近代英語" },
+      { "node": "rotational", "sub": "回転の・交代制の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rotational motion", "ja": "回転運動" },
+      { "en": "rotational speed", "ja": "回転速度" },
+      { "en": "rotational energy", "ja": "回転エネルギー" },
+      { "en": "a rotational shift", "ja": "交代制の勤務" },
+      { "en": "on a rotational basis", "ja": "輪番制で" },
+      { "en": "rotational grazing", "ja": "輪換放牧" }
+    ],
+    "related": [
+      { "en": "rotation", "ja": "回転・交代" },
+      { "en": "rotate", "ja": "回転する・交代する" },
+      { "en": "rotary", "ja": "回転式の" },
+      { "en": "cyclical", "ja": "周期的な" }
+    ],
+    "faq": [
+      { "q": "rotational とはどんな意味？", "a": "物体の『回転の・回転による』という物理の意味と、仕事などの『交代制の・輪番の』という意味があります。rotational motion（回転運動）、a rotational shift（交代制の勤務）のように使います。" },
+      { "q": "rotational の二つの意味のつながりは？", "a": "もとになる rotation には『回転』と『（順番の）交代』の両方の意味があります。回転するように順番が回っていくことから、『交代制の・輪番の』の意味が生まれました。" }
+    ],
+    "quiz": [
+      { "q": "The wheel's ___ speed increased.（回転の）", "A": "rotational", "B": "national の国の", "C": "rational の理性的な", "D": "emotional の感情的な", "correct": "A" },
+      { "q": "rotational のもとになった名詞はどれ？", "A": "rotation（回転・交代）", "B": "nation（国）", "C": "ration（配給）", "D": "emotion（感情）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rudimentary",
+    "pron": "ˌruːdɪˈmentəri",
+    "kana": "ルーディメンタリー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "rudiment（基礎・初歩）＋ -ary",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "やや硬い語"],
+    "meaning_main": "基礎的な・初歩の・ごく簡単な／（器官が）未発達の",
+    "description": "rudimentary の意味・発音・例文・語源を解説。知識や設備が「基礎的な・ごく簡単な・原始的な」、また器官が「未発達の」という様子を表す形容詞を紹介します。",
+    "keywords": ["rudimentary 意味", "rudimentary 発音", "基礎的な", "初歩の"],
+    "meanings": [
+      { "hinshi": "【形容詞】基礎的な・初歩の・ごく簡単な・原始的な", "note": "最低限で発達していない。rudimentary knowledge（初歩的な知識）。rudimentary tools（簡素な道具）。" },
+      { "hinshi": "【形容詞】(生物)未発達の・痕跡的な", "note": "十分に発達していない器官。" }
+    ],
+    "usages": [
+      { "title": "① 「初歩的な」として", "desc": "基礎レベルの知識・設備を表します。", "example_en": "He has only a rudimentary knowledge of French.", "example_ja": "彼はフランス語の初歩的な知識しかない。" },
+      { "title": "② 「簡素な」として", "desc": "最低限の設備を表します。", "example_en": "The hut had only rudimentary facilities.", "example_ja": "その小屋には簡素な設備しかなかった。" }
+    ],
+    "warn": [
+      "rudimentary は『基礎的な・初歩の・ごく簡単な・原始的な』。rudiment（基礎・初歩）＋ -ary。",
+      "『十分発達していない・最低限の』という含み。生物では『未発達の・痕跡的な（器官）』。"
+    ],
+    "etym_note": "rudiment（『基礎・初歩』、ラテン語 rudimentum「初歩」、rudis「未加工の・粗野な」より）＋ -ary から成り、「初歩の・未発達の」を意味します。rude（粗野な）と同じ語根です。",
+    "etym_chain": [
+      { "node": "rudis", "sub": "未加工の・粗野な", "era": "ラテン語" },
+      { "node": "rudiment", "sub": "基礎・初歩", "era": "近代英語" },
+      { "node": "rudimentary", "sub": "基礎的な・未発達の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rudimentary knowledge", "ja": "初歩的な知識" },
+      { "en": "rudimentary skills", "ja": "基礎的な技能" },
+      { "en": "rudimentary tools", "ja": "簡素な道具" },
+      { "en": "rudimentary facilities", "ja": "最低限の設備" },
+      { "en": "a rudimentary understanding", "ja": "初歩的な理解" },
+      { "en": "a rudimentary organ", "ja": "未発達の器官" }
+    ],
+    "related": [
+      { "en": "rudiment", "ja": "基礎・初歩" },
+      { "en": "basic", "ja": "基本的な" },
+      { "en": "elementary", "ja": "初歩の" },
+      { "en": "primitive", "ja": "原始的な" }
+    ],
+    "faq": [
+      { "q": "rudimentary とはどんな意味？", "a": "知識や設備が『基礎的な・初歩の・ごく簡単な・原始的な（最低限で発達していない）』という形容詞です。He has only a rudimentary knowledge of French.（フランス語の初歩的な知識しかない）のように使います。" },
+      { "q": "rudimentary と basic の違いは？", "a": "どちらも『基礎的な』ですが、basic は『（必要な）基本の』と中立的、rudimentary は『（まだ発達していない）ごく初歩の・不十分な』というニュアンスを含むことが多いです。" }
+    ],
+    "quiz": [
+      { "q": "He has only a ___ knowledge of French.（初歩的な）", "A": "rudimentary", "B": "documentary の記録の", "C": "complimentary の無料の", "D": "elementary の初等の", "correct": "A" },
+      { "q": "rudimentary のもとになった名詞はどれ？", "A": "rudiment（基礎・初歩）", "B": "document（文書）", "C": "monument（記念碑）", "D": "instrument（道具）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rheumatic",
+    "pron": "ruˈmætɪk",
+    "kana": "ルーマティック",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ギリシャ語 rheuma（流れ）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "医学"],
+    "meaning_main": "リウマチの・リウマチ性の（関節などの痛み・炎症の）",
+    "description": "rheumatic の意味・発音・例文・語源を解説。関節や筋肉の痛み・炎症「リウマチの・リウマチ性の」という、医学で使う形容詞の使い方を分かりやすく紹介します。",
+    "keywords": ["rheumatic 意味", "rheumatic 発音", "リウマチの", "関節炎"],
+    "meanings": [
+      { "hinshi": "【形容詞】リウマチの・リウマチ性の", "note": "関節・筋肉の痛みや炎症に関する。rheumatic pain（リウマチの痛み）。rheumatic fever（リウマチ熱）。名詞は rheumatism（リウマチ）。" }
+    ],
+    "usages": [
+      { "title": "① 「リウマチの痛み」として", "desc": "関節の痛みを表します。", "example_en": "She suffers from rheumatic pain in her knees.", "example_ja": "彼女はひざのリウマチの痛みに悩まされている。" },
+      { "title": "② 「リウマチ熱」として", "desc": "病名で使います。", "example_en": "Rheumatic fever can damage the heart.", "example_ja": "リウマチ熱は心臓を損なうことがある。" }
+    ],
+    "warn": [
+      "rheumatic は『リウマチの・リウマチ性の』。名詞 rheumatism（リウマチ）。つづり rh- に注意（発音は『ルー』）。",
+      "rheumatoid arthritis（関節リウマチ）は関連語。"
+    ],
+    "etym_note": "ギリシャ語 rheuma（『流れ・分泌物』、rhein「流れる」より）に由来し、古い医学で『体液の流れが痛みを起こす』と考えられたことからの名です。rhythm（リズム）と同じ語根です。",
+    "etym_chain": [
+      { "node": "rheuma", "sub": "流れ・分泌物", "era": "ギリシャ語" },
+      { "node": "rheumatic", "sub": "リウマチの", "era": "近代英語" },
+      { "node": "rheumatic", "sub": "リウマチの・リウマチ性の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rheumatic pain", "ja": "リウマチの痛み" },
+      { "en": "rheumatic fever", "ja": "リウマチ熱" },
+      { "en": "a rheumatic condition", "ja": "リウマチの症状" },
+      { "en": "rheumatic joints", "ja": "リウマチの関節" },
+      { "en": "rheumatic disease", "ja": "リウマチ性疾患" },
+      { "en": "chronic rheumatic pain", "ja": "慢性のリウマチの痛み" }
+    ],
+    "related": [
+      { "en": "rheumatism", "ja": "リウマチ" },
+      { "en": "arthritis", "ja": "関節炎" },
+      { "en": "rheumatoid", "ja": "リウマチ様の" },
+      { "en": "inflammation", "ja": "炎症" }
+    ],
+    "faq": [
+      { "q": "rheumatic とはどんな意味？", "a": "関節や筋肉の痛み・炎症『リウマチの・リウマチ性の』という形容詞です。She suffers from rheumatic pain in her knees.（ひざのリウマチの痛みに悩まされている）のように使います。名詞は rheumatism です。" },
+      { "q": "rheumatic fever とは？", "a": "『リウマチ熱』のことです。溶連菌感染のあとに起こることがある病気で、関節の痛みや発熱を伴い、心臓の弁を損なうことがあるため注意が必要です。" }
+    ],
+    "quiz": [
+      { "q": "She suffers from ___ pain in her knees.（リウマチの）", "A": "rheumatic", "B": "dramatic の劇的な", "C": "automatic の自動の", "D": "systematic の体系的な", "correct": "A" },
+      { "q": "rheumatic の名詞形（病名）はどれ？", "A": "rheumatism（リウマチ）", "B": "rhythm（リズム）", "C": "realism（写実主義）", "D": "racism（人種差別）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retrograde",
+    "pron": "ˈretrəɡreɪd",
+    "kana": "レトログレイド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 retrogradi（後退する）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "天文・比喩"],
+    "meaning_main": "逆行する・後退する・退歩的な",
+    "description": "retrograde の意味・発音・例文・語源を解説。天体が「逆行する」という天文の意味と、状況が「後退する・退歩的な」という比喩の使い方を分かりやすく紹介します。",
+    "keywords": ["retrograde 意味", "retrograde 発音", "逆行", "後退する"],
+    "meanings": [
+      { "hinshi": "【形容詞】逆行する（天文）", "note": "天体が通常と逆の向きに動いて見えること。Mercury in retrograde（水星の逆行）。" },
+      { "hinshi": "【形容詞】後退する・退歩的な・逆戻りの", "note": "進歩に逆らう。a retrograde step（後退・退歩的な一歩）。" }
+    ],
+    "usages": [
+      { "title": "① 天文「逆行する」として", "desc": "通常と逆の動きを表します。", "example_en": "Mars appears to move in a retrograde direction.", "example_ja": "火星は逆行する向きに動いて見える。" },
+      { "title": "② 比喩「退歩的な」として", "desc": "進歩に逆らう様子を表します。", "example_en": "The new policy is a retrograde step.", "example_ja": "新しい方針は退歩的な一歩だ。" }
+    ],
+    "warn": [
+      "retrograde は天文で『逆行する』、比喩で『後退する・退歩的な（進歩に逆らう）』。retro-（後ろへ）＋ -grade（進む）。",
+      "a retrograde step / move（後退・退歩的な動き）が頻出。占星術の『〜 in retrograde（〜の逆行）』も知られる。"
+    ],
+    "etym_note": "ラテン語 retrogradi（retro「後ろへ」＋ gradi「進む」）に由来し、「後ろへ進む＝逆行する」を意味します。grade（段階）, progress（前進）と同じ語根です。",
+    "etym_chain": [
+      { "node": "retrogradi", "sub": "後退する", "era": "ラテン語" },
+      { "node": "retrograde", "sub": "逆行する", "era": "中英語" },
+      { "node": "retrograde", "sub": "逆行する・退歩的な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "in retrograde", "ja": "逆行して" },
+      { "en": "retrograde motion", "ja": "逆行運動" },
+      { "en": "a retrograde step", "ja": "退歩的な一歩・後退" },
+      { "en": "a retrograde move", "ja": "後退する動き" },
+      { "en": "retrograde amnesia", "ja": "逆行性健忘" },
+      { "en": "Mercury in retrograde", "ja": "水星の逆行" }
+    ],
+    "related": [
+      { "en": "regress", "ja": "後退する・退行する" },
+      { "en": "backward", "ja": "後ろ向きの" },
+      { "en": "regressive", "ja": "後退的な" },
+      { "en": "progressive", "ja": "進歩的な（反対）" }
+    ],
+    "faq": [
+      { "q": "retrograde とはどんな意味？", "a": "天体が通常と逆向きに動いて見える『逆行する』という天文の意味と、状況が『後退する・退歩的な（進歩に逆らう）』という比喩の意味があります。a retrograde step（退歩的な一歩）のように使います。" },
+      { "q": "Mercury in retrograde とは？", "a": "『水星の逆行』のことです。地球から見て水星が通常と逆向きに動いて見える期間を指します。占星術では物事が乱れやすい時期とされますが、科学的には見かけ上の動きです。" }
+    ],
+    "quiz": [
+      { "q": "The new policy is a ___ step.（退歩的な）", "A": "retrograde", "B": "upgrade のアップグレード", "C": "centigrade の摂氏の", "D": "comrade の仲間", "correct": "A" },
+      { "q": "retrograde の retro- の意味はどれ？", "A": "後ろへ", "B": "前へ", "C": "上へ", "D": "中へ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "revocation",
+    "pron": "ˌrevəˈkeɪʃən",
+    "kana": "レボケイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "revoke（取り消す・無効にする）＋ -ation",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "法律・行政"],
+    "meaning_main": "（許可・免許・権利などの）取り消し・撤回・無効化",
+    "description": "revocation の意味・発音・例文・語源を解説。免許・許可・権利などを正式に「取り消すこと・撤回・無効化」を表す、法律・行政で使う名詞の使い方を紹介します。",
+    "keywords": ["revocation 意味", "revocation 発音", "取り消し", "revoke 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】取り消し・撤回・無効化", "note": "免許・許可・権利などを正式に取り消すこと。the revocation of a license（免許の取り消し）。動詞は revoke。" }
+    ],
+    "usages": [
+      { "title": "① 「免許の取り消し」として", "desc": "正式な取り消しを表します。", "example_en": "The revocation of his license followed the accident.", "example_ja": "事故のあと、彼の免許の取り消しが行われた。" },
+      { "title": "② 「権利の撤回」として", "desc": "権利の無効化を表します。", "example_en": "The revocation of the permit angered residents.", "example_ja": "許可の取り消しは住民を怒らせた。" }
+    ],
+    "warn": [
+      "revocation は『（許可・免許・権利の）取り消し・撤回・無効化』。動詞 revoke（取り消す）＋ -ation。",
+      "license / permit / visa revocation（免許・許可・ビザの取り消し）が頻出。"
+    ],
+    "etym_note": "revoke（『取り消す・呼び戻す』、ラテン語 revocare「呼び戻す」、re-「再び」＋ vocare「呼ぶ」より）＋ -ation から成り、「呼び戻すこと＝取り消し」を意味します。voice（声）, vocal（声の）と同じ語根です。",
+    "etym_chain": [
+      { "node": "revocare", "sub": "呼び戻す", "era": "ラテン語" },
+      { "node": "revoke", "sub": "取り消す", "era": "中英語" },
+      { "node": "revocation", "sub": "取り消し・撤回", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the revocation of a license", "ja": "免許の取り消し" },
+      { "en": "license revocation", "ja": "免許取り消し" },
+      { "en": "visa revocation", "ja": "ビザの取り消し" },
+      { "en": "the revocation of a permit", "ja": "許可の取り消し" },
+      { "en": "subject to revocation", "ja": "取り消しの対象となる" },
+      { "en": "revocation of rights", "ja": "権利の剥奪" }
+    ],
+    "related": [
+      { "en": "revoke", "ja": "取り消す・無効にする" },
+      { "en": "cancellation", "ja": "取り消し・解約" },
+      { "en": "withdrawal", "ja": "撤回・取り下げ" },
+      { "en": "annulment", "ja": "無効化" }
+    ],
+    "faq": [
+      { "q": "revocation とはどんな意味？", "a": "免許・許可・権利などを正式に『取り消すこと・撤回・無効化』のことです。The revocation of his license followed the accident.（事故のあと免許が取り消された）のように使います。動詞は revoke です。" },
+      { "q": "revocation と cancellation の違いは？", "a": "どちらも『取り消し』ですが、revocation は『（一度与えた免許・権利を公式に）取り消す・無効にする』、cancellation は『（予約・契約・予定などを）取り消す・解約する』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The ___ of his license followed the accident.（取り消し）", "A": "revocation", "B": "vacation の休暇", "C": "location の場所", "D": "vocation の天職", "correct": "A" },
+      { "q": "revocation の動詞形はどれ？", "A": "revoke（取り消す）", "B": "relocate（移転する）", "C": "vacate（明け渡す）", "D": "evoke（呼び起こす）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ruggedness",
+    "pron": "ˈrʌɡɪdnəs",
+    "kana": "ラギッドネス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rugged（でこぼこの・頑丈な）＋ -ness",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "やや硬い語"],
+    "meaning_main": "（地形の）険しさ・ごつごつ／頑丈さ・たくましさ",
+    "description": "ruggedness の意味・発音・例文・語源を解説。地形の「険しさ・ごつごつ」、また機器や人の「頑丈さ・たくましさ」を表す名詞の使い方を分かりやすく紹介します。",
+    "keywords": ["ruggedness 意味", "ruggedness 発音", "険しさ", "頑丈さ"],
+    "meanings": [
+      { "hinshi": "【名詞】（地形の）険しさ・ごつごつしていること", "note": "岩がちで起伏が激しいこと。the ruggedness of the mountains（山の険しさ）。" },
+      { "hinshi": "【名詞】頑丈さ・たくましさ・無骨さ", "note": "丈夫さ。the ruggedness of the device（その機器の頑丈さ）。" }
+    ],
+    "usages": [
+      { "title": "① 「地形の険しさ」として", "desc": "岩がちで起伏ある地形を表します。", "example_en": "The ruggedness of the coast attracts hikers.", "example_ja": "その海岸の険しさはハイカーを引きつける。" },
+      { "title": "② 「頑丈さ」として", "desc": "丈夫さやたくましさを表します。", "example_en": "The phone is known for its ruggedness.", "example_ja": "そのスマホは頑丈さで知られている。" }
+    ],
+    "warn": [
+      "ruggedness は『（地形の）険しさ・ごつごつ』『頑丈さ・たくましさ』。形容詞 rugged（でこぼこの・頑丈な・無骨な）＋ -ness。",
+      "rugged は『rugged terrain（険しい地形）』『rugged design（頑丈な設計）』のように使う。"
+    ],
+    "etym_note": "rugged（『でこぼこの・頑丈な・無骨な』、もとは『毛羽立った・粗い』、北欧語起源とされる）＋ -ness（性質を表す語尾）から成り、「険しさ・頑丈さ」を意味します。",
+    "etym_chain": [
+      { "node": "rugged", "sub": "でこぼこの・粗い", "era": "中英語" },
+      { "node": "ruggedness", "sub": "険しさ・頑丈さ", "era": "近代英語" },
+      { "node": "ruggedness", "sub": "険しさ・頑丈さ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the ruggedness of the terrain", "ja": "地形の険しさ" },
+      { "en": "the ruggedness of the coast", "ja": "海岸の険しさ" },
+      { "en": "rugged mountains", "ja": "険しい山々" },
+      { "en": "the ruggedness of the device", "ja": "その機器の頑丈さ" },
+      { "en": "built for ruggedness", "ja": "頑丈さを重視して作られた" },
+      { "en": "physical ruggedness", "ja": "肉体的なたくましさ" }
+    ],
+    "related": [
+      { "en": "rugged", "ja": "でこぼこの・頑丈な・無骨な" },
+      { "en": "toughness", "ja": "頑丈さ・粘り強さ" },
+      { "en": "roughness", "ja": "粗さ" },
+      { "en": "durability", "ja": "耐久性" }
+    ],
+    "faq": [
+      { "q": "ruggedness とはどんな意味？", "a": "地形の『険しさ・ごつごつしていること』、また機器や人の『頑丈さ・たくましさ・無骨さ』という意味です。the ruggedness of the coast（海岸の険しさ）、the ruggedness of the device（機器の頑丈さ）のように使います。" },
+      { "q": "rugged とはどんな意味？", "a": "ruggedness のもとになる形容詞で、『（地形が）でこぼこの・険しい』『（物が）頑丈な』『（顔つきなどが）無骨な・たくましい』という意味があります。rugged terrain（険しい地形）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The ___ of the coast attracts hikers.（険しさ）", "A": "ruggedness", "B": "kindness の親切", "C": "darkness の暗さ", "D": "weakness の弱さ", "correct": "A" },
+      { "q": "ruggedness のもとになった形容詞 rugged の意味でないものは？", "A": "甘い", "B": "でこぼこの", "C": "頑丈な", "D": "無骨な", "correct": "A" }
+    ]
+  },
+  {
+    "english": "robustness",
+    "pron": "roʊˈbʌstnəs",
+    "kana": "ロバストネス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "robust（頑健な・強健な）＋ -ness",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "技術・ビジネス"],
+    "meaning_main": "頑健さ・堅牢（けんろう）さ・（システムなどの）強さ・安定性",
+    "description": "robustness の意味・発音・例文・語源を解説。体・システム・経済などの「頑健さ・堅牢さ・強さ・安定性」を表す、技術やビジネスで使う名詞の使い方を紹介します。",
+    "keywords": ["robustness 意味", "robustness 発音", "頑健さ", "堅牢さ"],
+    "meanings": [
+      { "hinshi": "【名詞】頑健さ・堅牢（けんろう）さ・強さ・安定性", "note": "壊れにくく安定して機能すること。the robustness of the system（システムの堅牢さ）。形容詞は robust。" }
+    ],
+    "usages": [
+      { "title": "① システムの「堅牢さ」として", "desc": "壊れにくい強さを表します。", "example_en": "We tested the robustness of the software.", "example_ja": "私たちはそのソフトの堅牢さを検証した。" },
+      { "title": "② 経済・健康の「頑健さ」として", "desc": "安定した強さを表します。", "example_en": "The robustness of the economy surprised analysts.", "example_ja": "経済の頑健さはアナリストを驚かせた。" }
+    ],
+    "warn": [
+      "robustness は『頑健さ・堅牢さ・強さ・安定性』。形容詞 robust（頑健な・強健な・（議論などが）力強い）＋ -ness。",
+      "技術（システムの堅牢性）、経済（景気の力強さ）、健康（頑健さ）など幅広く使う。"
+    ],
+    "etym_note": "robust（『頑健な・強健な』、ラテン語 robustus「樫の木のように丈夫な」、robur「樫・力」より）＋ -ness から成り、「頑健であること」を意味します。",
+    "etym_chain": [
+      { "node": "robur", "sub": "樫・力", "era": "ラテン語" },
+      { "node": "robust", "sub": "頑健な・強健な", "era": "近代英語" },
+      { "node": "robustness", "sub": "頑健さ・堅牢さ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the robustness of the system", "ja": "システムの堅牢さ" },
+      { "en": "test the robustness", "ja": "堅牢さを検証する" },
+      { "en": "the robustness of the economy", "ja": "経済の頑健さ" },
+      { "en": "structural robustness", "ja": "構造的な堅牢性" },
+      { "en": "robustness and reliability", "ja": "堅牢性と信頼性" },
+      { "en": "improve robustness", "ja": "堅牢さを高める" }
+    ],
+    "related": [
+      { "en": "robust", "ja": "頑健な・力強い" },
+      { "en": "sturdiness", "ja": "丈夫さ" },
+      { "en": "resilience", "ja": "回復力・強靭さ" },
+      { "en": "fragility", "ja": "もろさ（反対）" }
+    ],
+    "faq": [
+      { "q": "robustness とはどんな意味？", "a": "体・システム・経済などが壊れにくく安定して機能する『頑健さ・堅牢さ・強さ・安定性』のことです。We tested the robustness of the software.（ソフトの堅牢さを検証した）のように使います。形容詞は robust です。" },
+      { "q": "robustness と resilience の違いは？", "a": "robustness は『（外乱を受けても）壊れず安定して機能する強さ・堅牢さ』、resilience は『（壊れたり乱れたりしても）回復する力』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "We tested the ___ of the software.（堅牢さ）", "A": "robustness", "B": "robotics のロボット工学", "C": "rudeness の無礼", "D": "richness の豊かさ", "correct": "A" },
+      { "q": "robustness のもとになった形容詞はどれ？", "A": "robust（頑健な・力強い）", "B": "rude（無礼な）", "C": "rich（豊かな）", "D": "rough（粗い）", "correct": "A" }
+    ]
+  }
+]
