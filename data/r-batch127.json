@@ -1,0 +1,524 @@
+[
+  {
+    "english": "randomize",
+    "pron": "ˈrændəmaɪz",
+    "kana": "ランダマイズ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "random（無作為の）＋ -ize（〜化する）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "統計・IT"],
+    "meaning_main": "無作為化する・ランダムに並べ替える・無作為に割り当てる",
+    "description": "randomize の意味・発音・例文・語源を解説。順序や割り当てを「無作為化する・ランダムに並べ替える」という、統計・実験・ITで使う動詞の使い方を紹介します。",
+    "keywords": ["randomize 意味", "randomize 発音", "無作為化する", "random 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】無作為化する・ランダムに並べ替える・無作為に割り当てる", "note": "規則性をなくし、偏りなく決める。randomize the order（順序をランダムにする）。イギリス綴りは randomise。名詞 randomization。" }
+    ],
+    "usages": [
+      { "title": "① 「順序を無作為化する」として", "desc": "偏りなく並べ替えることを表します。", "example_en": "The software randomizes the question order.", "example_ja": "そのソフトは問題の順序をランダムにする。" },
+      { "title": "② 実験「無作為に割り当てる」として", "desc": "公平な振り分けを表します。", "example_en": "Participants were randomized into two groups.", "example_ja": "参加者は無作為に2つのグループに振り分けられた。" }
+    ],
+    "warn": [
+      "randomize は『無作為化する・ランダムに並べ替える・無作為に割り当てる』。random（無作為の）＋ -ize。名詞 randomization。",
+      "実験の randomized controlled trial（無作為化比較試験＝RCT）は信頼性の高い研究手法。"
+    ],
+    "etym_note": "random（『無作為の』、古フランス語 randon「勢い・無計画」より）＋ -ize から成り、「無作為にすること」を意味します。",
+    "etym_chain": [
+      { "node": "randon", "sub": "勢い・無計画", "era": "古フランス語" },
+      { "node": "random", "sub": "無作為の", "era": "近代英語" },
+      { "node": "randomize", "sub": "無作為化する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "randomize the order", "ja": "順序をランダムにする" },
+      { "en": "randomize the data", "ja": "データを無作為化する" },
+      { "en": "be randomized into groups", "ja": "無作為にグループ分けされる" },
+      { "en": "a randomized trial", "ja": "無作為化試験" },
+      { "en": "randomize the sample", "ja": "標本を無作為化する" },
+      { "en": "randomize a list", "ja": "リストをシャッフルする" }
+    ],
+    "related": [
+      { "en": "random", "ja": "無作為の" },
+      { "en": "randomization", "ja": "無作為化" },
+      { "en": "shuffle", "ja": "シャッフルする" },
+      { "en": "scramble", "ja": "ごちゃ混ぜにする" }
+    ],
+    "faq": [
+      { "q": "randomize とはどんな意味？", "a": "順序や割り当てを『無作為化する・ランダムに並べ替える・無作為に割り当てる』という意味です。Participants were randomized into two groups.（無作為に2つのグループに振り分けられた）のように使います。名詞は randomization です。" },
+      { "q": "randomized controlled trial とは？", "a": "『無作為化比較試験（RCT）』のことです。参加者を無作為に治療群と対照群に分けて効果を比べる研究方法で、偏りが少なく信頼性が高いとされます。" }
+    ],
+    "quiz": [
+      { "q": "Participants were ___d into two groups.（無作為化された）", "A": "randomize", "B": "memorize の暗記する", "C": "organize の組織する", "D": "realize の気づく", "correct": "A" },
+      { "q": "randomize のもとになった形容詞はどれ？", "A": "random（無作為の）", "B": "rapid（速い）", "C": "rare（まれな）", "D": "ready（準備できた）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retreating",
+    "pron": "rɪˈtriːtɪŋ",
+    "kana": "リトリーティング",
+    "hinshi": "形容詞 / 動名詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "retreat（退却する・後退する）＋ -ing",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "軍事・自然"],
+    "meaning_main": "退却する・後退していく・遠ざかっていく",
+    "description": "retreating の意味・発音・例文・語源を解説。軍が「退却する」、氷河や潮が「後退していく」、足音などが「遠ざかっていく」という様子を表す語の使い方を紹介します。",
+    "keywords": ["retreating 意味", "retreating 発音", "退却する", "retreat 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞・動名詞】退却する・後退していく・遠ざかっていく", "note": "後ろへ退いていく。retreating troops（退却する軍）。a retreating glacier（後退する氷河）。動詞は retreat。" }
+    ],
+    "usages": [
+      { "title": "① 軍「退却する」として", "desc": "後退する軍を表します。", "example_en": "The retreating army left the city.", "example_ja": "退却する軍は街を去った。" },
+      { "title": "② 「遠ざかっていく」として", "desc": "離れていく様子を表します。", "example_en": "She listened to his retreating footsteps.", "example_ja": "彼女は遠ざかる彼の足音に耳を澄ました。" }
+    ],
+    "warn": [
+      "retreating は『退却する・後退していく・遠ざかっていく』。retreat（退却する・後退する／隠れ家・静養）＋ -ing。",
+      "a retreating glacier（後退する氷河）, retreating footsteps（遠ざかる足音）が頻出。"
+    ],
+    "etym_note": "retreat（『退却する』、ラテン語 retrahere「引き戻す」、re-「後ろへ」＋ trahere「引く」より）＋ -ing から成り、「後ろへ退いていく」を意味します。tractor（牽引車）と同じ語根です。",
+    "etym_chain": [
+      { "node": "retrahere", "sub": "引き戻す", "era": "ラテン語" },
+      { "node": "retreat", "sub": "退却する・後退する", "era": "中英語" },
+      { "node": "retreating", "sub": "退却する・遠ざかる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the retreating army", "ja": "退却する軍" },
+      { "en": "retreating troops", "ja": "退却する部隊" },
+      { "en": "a retreating glacier", "ja": "後退する氷河" },
+      { "en": "retreating footsteps", "ja": "遠ざかる足音" },
+      { "en": "the retreating tide", "ja": "引いていく潮" },
+      { "en": "a retreating hairline", "ja": "後退する生え際" }
+    ],
+    "related": [
+      { "en": "retreat", "ja": "退却する・後退する" },
+      { "en": "withdrawing", "ja": "撤退する" },
+      { "en": "receding", "ja": "後退していく" },
+      { "en": "advancing", "ja": "前進する（反対）" }
+    ],
+    "faq": [
+      { "q": "retreating とはどんな意味？", "a": "軍が『退却する』、氷河や潮が『後退していく』、足音などが『遠ざかっていく』という様子を表します。The retreating army left the city.（退却する軍が街を去った）のように使います。動詞は retreat です。" },
+      { "q": "retreating と advancing の違いは？", "a": "retreating は『後ろへ退いていく』、advancing は『前へ進んでいく』で、反対の意味です。the retreating army（退却する軍）⇔ the advancing army（前進する軍）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The ___ army left the city.（退却する）", "A": "retreating", "B": "repeating の繰り返す", "C": "retiring の引退する", "D": "rotating の回転する", "correct": "A" },
+      { "q": "retreating の反対に近い語はどれ？", "A": "advancing（前進する）", "B": "receding（後退する）", "C": "withdrawing（撤退する）", "D": "retiring（引退する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "roughen",
+    "pron": "ˈrʌfn",
+    "kana": "ラフン",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "rough（粗い・荒い）＋ -en（〜にする・〜になる）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "日常"],
+    "meaning_main": "粗くする・ざらざらにする／粗くなる・荒れる",
+    "description": "roughen の意味・発音・例文・語源を解説。表面を「粗くする・ざらざらにする」、また肌や海が「荒れる・粗くなる」という、自動詞・他動詞両方の使い方を紹介します。",
+    "keywords": ["roughen 意味", "roughen 発音", "粗くする", "rough 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】粗くする・ざらざらにする（他動詞）", "note": "表面をなめらかでなくする。roughen the surface（表面を粗くする）。" },
+      { "hinshi": "【動詞】粗くなる・荒れる・ざらつく（自動詞）", "note": "肌・海などがざらつく・荒れる。Her hands roughened from work.（手が仕事で荒れた）。" }
+    ],
+    "usages": [
+      { "title": "① 「表面を粗くする」として", "desc": "ざらざらにすることを表します。", "example_en": "Sand the wood to roughen the surface.", "example_ja": "表面を粗くするため木をやすりがけしなさい。" },
+      { "title": "② 「肌が荒れる」として", "desc": "ざらつくことを表します。", "example_en": "The cold wind roughened her skin.", "example_ja": "冷たい風で彼女の肌が荒れた。" }
+    ],
+    "warn": [
+      "roughen は『粗くする・ざらざらにする』（他動詞）と『粗くなる・荒れる』（自動詞）。rough（粗い・荒い）＋ -en。",
+      "-en は形容詞を動詞にする語尾（widen 広げる, harden 固くする など）。反対は smoothen / smooth（なめらかにする）。"
+    ],
+    "etym_note": "rough（『粗い・荒い』、古英語 rūh より）＋ -en（『〜にする・〜になる』を表す語尾）から成り、「粗くする・粗くなる」を意味します。",
+    "etym_chain": [
+      { "node": "rūh", "sub": "粗い", "era": "古英語" },
+      { "node": "rough", "sub": "粗い・荒い", "era": "中英語" },
+      { "node": "roughen", "sub": "粗くする・粗くなる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "roughen the surface", "ja": "表面を粗くする" },
+      { "en": "roughen the edges", "ja": "縁をざらつかせる" },
+      { "en": "hands roughened by work", "ja": "仕事で荒れた手" },
+      { "en": "the sea roughened", "ja": "海が荒れた" },
+      { "en": "roughen with sandpaper", "ja": "紙やすりで粗くする" },
+      { "en": "skin roughens in winter", "ja": "冬に肌が荒れる" }
+    ],
+    "related": [
+      { "en": "rough", "ja": "粗い・荒い" },
+      { "en": "coarsen", "ja": "粗くする・きめを粗くする" },
+      { "en": "smoothen", "ja": "なめらかにする（反対）" },
+      { "en": "abrade", "ja": "すり減らす・こすって荒らす" }
+    ],
+    "faq": [
+      { "q": "roughen とはどんな意味？", "a": "表面を『粗くする・ざらざらにする』（他動詞）、また肌や海が『荒れる・粗くなる』（自動詞）という意味です。Sand the wood to roughen the surface.（表面を粗くするためやすりがけする）のように使います。" },
+      { "q": "roughen と -en のつく語の例は？", "a": "-en は形容詞を動詞にする語尾で、roughen（粗くする）のほか、widen（広げる）、harden（固くする）、darken（暗くする）、shorten（短くする）などがあります。" }
+    ],
+    "quiz": [
+      { "q": "Sand the wood to ___ the surface.（粗くする）", "A": "roughen", "B": "toughen の丈夫にする", "C": "loosen のゆるめる", "D": "lighten の軽くする", "correct": "A" },
+      { "q": "roughen のもとになった形容詞はどれ？", "A": "rough（粗い・荒い）", "B": "tough（丈夫な）", "C": "loose（ゆるい）", "D": "light（軽い）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ridged",
+    "pron": "rɪdʒd",
+    "kana": "リッジド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ridge（うね・尾根）＋ -ed",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "理科・日常"],
+    "meaning_main": "うね（畝）のある・隆起した筋のある・凹凸のある",
+    "description": "ridged の意味・発音・例文・語源を解説。表面に「うね（畝）のある・隆起した筋のある・凹凸のある」という様子を表す形容詞の使い方と、ridge（うね・尾根）を紹介します。",
+    "keywords": ["ridged 意味", "ridged 発音", "うねのある", "ridge 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】うね（畝）のある・隆起した筋のある・凹凸のある", "note": "細長く盛り上がった筋（ridge）が並んだ。a ridged surface（うねのある表面）。ridged potato chips（波形のポテトチップス）。" }
+    ],
+    "usages": [
+      { "title": "① 「うねのある表面」として", "desc": "隆起した筋を表します。", "example_en": "The rock had a ridged surface.", "example_ja": "その岩はうねのある表面をしていた。" },
+      { "title": "② 食品・製品の文脈で", "desc": "波形の凹凸を表します。", "example_en": "Ridged chips hold more dip.", "example_ja": "波形のチップスはディップが多くつく。" }
+    ],
+    "warn": [
+      "ridged は『うねのある・隆起した筋のある・凹凸のある』。ridge（うね・尾根・隆起）＋ -ed。",
+      "ribbed（リブ編み・うね）と近いが、ridged は『山の尾根のように細長く盛り上がった筋』。"
+    ],
+    "etym_note": "ridge（『うね・尾根・隆起』、古英語 hrycg「背・尾根」より）＋ -ed から成り、「うね（隆起した筋）のある」を意味します。",
+    "etym_chain": [
+      { "node": "hrycg", "sub": "背・尾根", "era": "古英語" },
+      { "node": "ridge", "sub": "うね・尾根・隆起", "era": "中英語" },
+      { "node": "ridged", "sub": "うねのある", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a ridged surface", "ja": "うねのある表面" },
+      { "en": "ridged potato chips", "ja": "波形のポテトチップス" },
+      { "en": "deeply ridged", "ja": "深いうねのある" },
+      { "en": "a ridged shell", "ja": "うねのある貝殻" },
+      { "en": "ridged fingernails", "ja": "筋のある爪" },
+      { "en": "a ridged pattern", "ja": "うね模様" }
+    ],
+    "related": [
+      { "en": "ridge", "ja": "うね・尾根・隆起" },
+      { "en": "ribbed", "ja": "うねのある・リブ編みの" },
+      { "en": "corrugated", "ja": "波形の" },
+      { "en": "grooved", "ja": "溝のある" }
+    ],
+    "faq": [
+      { "q": "ridged とはどんな意味？", "a": "表面に『うね（畝）のある・隆起した筋のある・凹凸のある』という形容詞です。The rock had a ridged surface.（うねのある表面をしていた）、ridged potato chips（波形のポテトチップス）のように使います。" },
+      { "q": "ridged と ribbed の違いは？", "a": "どちらも『うねのある』ですが、ribbed は『（編み物・生地などの）規則的なうね・リブ』、ridged は『（尾根のように）細長く盛り上がった筋・隆起』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The rock had a ___ surface.（うねのある）", "A": "ridged", "B": "rigged の不正操作された", "C": "rugged のでこぼこの", "D": "ragged のぼろぼろの", "correct": "A" },
+      { "q": "ridged のもとになった名詞 ridge の意味でないものは？", "A": "谷底", "B": "うね", "C": "尾根", "D": "隆起", "correct": "A" }
+    ]
+  },
+  {
+    "english": "restorer",
+    "pron": "rɪˈstɔːrər",
+    "kana": "リストーラー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "restore（修復する・元に戻す）＋ -er（〜する人/もの）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "芸術・技術"],
+    "meaning_main": "（美術品・建物の）修復家・修復者／修復・回復させるもの",
+    "description": "restorer の意味・発音・例文・語源を解説。絵画・建物・家具などを直してよみがえらせる「修復家」や、回復・修復させる「もの」を表す名詞の使い方を紹介します。",
+    "keywords": ["restorer 意味", "restorer 発音", "修復家", "restore 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】（美術品・建物などの）修復家・修復者", "note": "古い・傷んだものを元の状態に直す専門家。an art restorer（美術品修復家）。" },
+      { "hinshi": "【名詞】修復・回復させるもの", "note": "傷みや汚れを直す製品など。a leather restorer（革のつや出し・補修剤）。" }
+    ],
+    "usages": [
+      { "title": "① 「修復家」として", "desc": "美術品を直す専門家を表します。", "example_en": "The restorer carefully cleaned the old painting.", "example_ja": "修復家は古い絵画を丁寧に洗浄した。" },
+      { "title": "② 「補修剤」として", "desc": "回復させる製品を表します。", "example_en": "She used a wood restorer on the table.", "example_ja": "彼女はテーブルに木材用の補修剤を使った。" }
+    ],
+    "warn": [
+      "restorer は『（美術品・建物の）修復家』『修復・回復させるもの（製品）』。restore（修復する・元に戻す）＋ -er。",
+      "an art / furniture / building restorer（美術品・家具・建物の修復家）が頻出。"
+    ],
+    "etym_note": "restore（『修復する・元に戻す』、ラテン語 restaurare「建て直す」より）＋ -er（『〜する人・もの』）から成り、「修復する人・もの」を意味します。restoration（修復）と同じ語根です。",
+    "etym_chain": [
+      { "node": "restaurare", "sub": "建て直す", "era": "ラテン語" },
+      { "node": "restore", "sub": "修復する・元に戻す", "era": "中英語" },
+      { "node": "restorer", "sub": "修復家・補修剤", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an art restorer", "ja": "美術品修復家" },
+      { "en": "a furniture restorer", "ja": "家具修復家" },
+      { "en": "a building restorer", "ja": "建物の修復家" },
+      { "en": "a skilled restorer", "ja": "熟練の修復家" },
+      { "en": "a leather restorer", "ja": "革の補修剤" },
+      { "en": "a wood restorer", "ja": "木材用の補修剤" }
+    ],
+    "related": [
+      { "en": "restore", "ja": "修復する・元に戻す" },
+      { "en": "restoration", "ja": "修復・回復" },
+      { "en": "conservator", "ja": "（美術品の）保存修復士" },
+      { "en": "repairer", "ja": "修理する人" }
+    ],
+    "faq": [
+      { "q": "restorer とはどんな意味？", "a": "絵画・建物・家具などを直してよみがえらせる『修復家』、また傷みや汚れを直す『補修剤（製品）』のことです。The restorer carefully cleaned the old painting.（修復家が古い絵画を丁寧に洗浄した）のように使います。" },
+      { "q": "restorer と conservator の違いは？", "a": "どちらも美術品などを扱いますが、restorer は『（傷んだ部分を直して）元の見た目に戻す修復家』、conservator は『（劣化を防ぎ長く保つことに重点を置く）保存修復士』というニュアンスの違いがあります。" }
+    ],
+    "quiz": [
+      { "q": "The ___ carefully cleaned the old painting.（修復家）", "A": "restorer", "B": "researcher の研究者", "C": "reminder の通知", "D": "remainder の残り", "correct": "A" },
+      { "q": "restorer のもとになった動詞はどれ？", "A": "restore（修復する・元に戻す）", "B": "research（調査する）", "C": "remind（思い出させる）", "D": "remain（残る）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ratepayer",
+    "pron": "ˈreɪtpeɪər",
+    "kana": "レイトペイヤー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rate（料金・地方税）＋ payer（払う人）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "行政・公共"],
+    "meaning_main": "（公共料金・地方税の）納付者・利用者（電気・水道などの料金を払う人）",
+    "description": "ratepayer の意味・発音・例文・語源を解説。電気・水道などの公共料金や、（英）地方税を払う「納付者・利用者」を表す、行政・公共事業で使う名詞を紹介します。",
+    "keywords": ["ratepayer 意味", "ratepayer 発音", "納付者", "公共料金"],
+    "meanings": [
+      { "hinshi": "【名詞】（公共料金・地方税の）納付者・利用者", "note": "電気・水道・ガスなどの料金（rate）を払う人。(英・歴史)地方税（rates）を払う人。protect ratepayers（利用者を保護する）。" }
+    ],
+    "usages": [
+      { "title": "① 「公共料金の利用者」として", "desc": "料金を払う人を表します。", "example_en": "The rate increase will affect millions of ratepayers.", "example_ja": "料金引き上げは何百万もの利用者に影響する。" },
+      { "title": "② 行政の文脈で", "desc": "納付者の負担を表します。", "example_en": "The cost will fall on ratepayers.", "example_ja": "その費用は料金利用者の負担となる。" }
+    ],
+    "warn": [
+      "ratepayer は『（公共料金・地方税の）納付者・利用者』。rate（ここでは料金・地方税）＋ payer（払う人）。",
+      "ここでの rate は『割合』ではなく『（公共サービスの）料金・（英）地方税』の意味。taxpayer（納税者）と似た作り。"
+    ],
+    "etym_note": "rate（『料金・地方税』、ラテン語 rata「定められた分」より）＋ payer（『払う人』、pay「払う」＋ -er）から成る複合語で、「料金を払う人」を意味します。",
+    "etym_chain": [
+      { "node": "rata", "sub": "定められた分", "era": "ラテン語" },
+      { "node": "rate", "sub": "料金・地方税", "era": "近代英語" },
+      { "node": "ratepayer", "sub": "料金納付者・利用者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "protect ratepayers", "ja": "利用者を保護する" },
+      { "en": "millions of ratepayers", "ja": "何百万もの利用者" },
+      { "en": "the burden on ratepayers", "ja": "利用者の負担" },
+      { "en": "ratepayer money", "ja": "利用者が払った料金" },
+      { "en": "local ratepayers", "ja": "地元の納付者" },
+      { "en": "fall on ratepayers", "ja": "利用者の負担となる" }
+    ],
+    "related": [
+      { "en": "taxpayer", "ja": "納税者" },
+      { "en": "rate", "ja": "料金・割合・地方税" },
+      { "en": "utility", "ja": "公共事業・公共料金" },
+      { "en": "consumer", "ja": "消費者" }
+    ],
+    "faq": [
+      { "q": "ratepayer とはどんな意味？", "a": "電気・水道・ガスなどの公共料金（rate）や、（英）地方税を払う『納付者・利用者』のことです。The rate increase will affect millions of ratepayers.（料金引き上げは何百万もの利用者に影響する）のように使います。" },
+      { "q": "ratepayer と taxpayer の違いは？", "a": "ratepayer は『（電気・水道などの）公共料金や地方税を払う利用者』、taxpayer は『（国などに）税を払う納税者』です。どちらも -payer（払う人）の作りですが、払う対象が違います。" }
+    ],
+    "quiz": [
+      { "q": "The rate increase will affect millions of ___s.（利用者）", "A": "ratepayer", "B": "taxpayer の納税者", "C": "lawyer の弁護士", "D": "player の選手", "correct": "A" },
+      { "q": "ratepayer の rate の意味はどれ？", "A": "（公共サービスの）料金・地方税", "B": "速さ", "C": "気分", "D": "感謝", "correct": "A" }
+    ]
+  },
+  {
+    "english": "readmission",
+    "pron": "ˌriːədˈmɪʃən",
+    "kana": "リアドミッション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "readmit（再び入れる）＋ -ion",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "医学・教育"],
+    "meaning_main": "再入院・再入学・再加入（再び受け入れること）",
+    "description": "readmission の意味・発音・例文・語源を解説。退院した患者の「再入院」、退学した学生の「再入学」、組織への「再加入」を表す、医学・教育・行政で使う名詞を紹介します。",
+    "keywords": ["readmission 意味", "readmission 発音", "再入院", "再入学"],
+    "meanings": [
+      { "hinshi": "【名詞】再入院・再入学・再加入（再び受け入れること）", "note": "一度出た人を再び入れること。a hospital readmission（再入院）。動詞は readmit。" }
+    ],
+    "usages": [
+      { "title": "① 「再入院」として", "desc": "病院に再び入ることを表します。", "example_en": "The hospital aims to reduce readmissions.", "example_ja": "その病院は再入院を減らすことを目指している。" },
+      { "title": "② 「再加入」として", "desc": "組織への復帰を表します。", "example_en": "The country sought readmission to the union.", "example_ja": "その国は連合への再加入を求めた。" }
+    ],
+    "warn": [
+      "readmission は『再入院・再入学・再加入』。readmit（再び入れる）＋ -ion。",
+      "医療では a 30-day readmission rate（30日以内再入院率）が質の指標として使われる。"
+    ],
+    "etym_note": "readmit（re-「再び」＋ admit「入れる・認める」、ラテン語 admittere「中へ送る」より）＋ -ion から成り、「再び中へ入れること」を意味します。mission（派遣）, transmit（送る）と同じ語根です。",
+    "etym_chain": [
+      { "node": "admittere", "sub": "中へ送る", "era": "ラテン語" },
+      { "node": "readmit", "sub": "再び入れる", "era": "近代英語" },
+      { "node": "readmission", "sub": "再入院・再入学", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a hospital readmission", "ja": "再入院" },
+      { "en": "the readmission rate", "ja": "再入院率" },
+      { "en": "reduce readmissions", "ja": "再入院を減らす" },
+      { "en": "readmission to school", "ja": "再入学" },
+      { "en": "seek readmission", "ja": "再加入を求める" },
+      { "en": "a readmission policy", "ja": "再受け入れの方針" }
+    ],
+    "related": [
+      { "en": "readmit", "ja": "再び入れる" },
+      { "en": "admission", "ja": "入院・入学・入場" },
+      { "en": "reinstatement", "ja": "復職・復権" },
+      { "en": "discharge", "ja": "退院（反対に近い）" }
+    ],
+    "faq": [
+      { "q": "readmission とはどんな意味？", "a": "退院した患者の『再入院』、退学した学生の『再入学』、組織への『再加入』など、一度出た人を再び受け入れることです。The hospital aims to reduce readmissions.（再入院を減らすことを目指す）のように使います。動詞は readmit です。" },
+      { "q": "readmission rate（再入院率）とは？", "a": "退院後、一定期間（多くは30日）以内に再び入院する患者の割合のことです。医療の質を測る指標の一つとされ、低いほど良いとされます。" }
+    ],
+    "quiz": [
+      { "q": "The hospital aims to reduce ___s.（再入院）", "A": "readmission", "B": "permission の許可", "C": "submission の提出", "D": "commission の委員会", "correct": "A" },
+      { "q": "readmission の動詞形はどれ？", "A": "readmit（再び入れる）", "B": "permit（許可する）", "C": "submit（提出する）", "D": "commit（委ねる）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reallocation",
+    "pron": "ˌriːæləˈkeɪʃən",
+    "kana": "リアロケイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "reallocate（再配分する）＋ -ion",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "ビジネス・行政"],
+    "meaning_main": "再配分・割り当て直し（予算・資源・人員などの）",
+    "description": "reallocation の意味・発音・例文・語源を解説。予算・資源・人員などを改めて配分し直す「再配分・割り当て直し」を表す、ビジネスや行政で使う名詞を紹介します。",
+    "keywords": ["reallocation 意味", "reallocation 発音", "再配分", "reallocate 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再配分・割り当て直し", "note": "予算・資源・人員などを改めて配分すること。the reallocation of funds（資金の再配分）。動詞は reallocate。" }
+    ],
+    "usages": [
+      { "title": "① 「資金の再配分」として", "desc": "予算の割り当て直しを表します。", "example_en": "The plan calls for a reallocation of resources.", "example_ja": "その計画は資源の再配分を求めている。" },
+      { "title": "② 「人員の配置転換」として", "desc": "人の振り分け直しを表します。", "example_en": "The reallocation of staff improved efficiency.", "example_ja": "人員の割り当て直しが効率を高めた。" }
+    ],
+    "warn": [
+      "reallocation は『再配分・割り当て直し』。reallocate（再配分する）＋ -ion。",
+      "redistribution（再分配）に近いが、reallocation は『（用途・割り当てを）配分し直す』点に重点。"
+    ],
+    "etym_note": "reallocate（re-「再び」＋ allocate「割り当てる」、中世ラテン語 allocare「場所に置く」より）＋ -ion から成り、「再び割り当てること」を意味します。location（場所）と同じ語根です。",
+    "etym_chain": [
+      { "node": "allocare", "sub": "場所に置く", "era": "中世ラテン語" },
+      { "node": "reallocate", "sub": "再配分する", "era": "近代英語" },
+      { "node": "reallocation", "sub": "再配分", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the reallocation of funds", "ja": "資金の再配分" },
+      { "en": "the reallocation of resources", "ja": "資源の再配分" },
+      { "en": "a budget reallocation", "ja": "予算の組み替え" },
+      { "en": "the reallocation of staff", "ja": "人員の割り当て直し" },
+      { "en": "asset reallocation", "ja": "資産の再配分" },
+      { "en": "land reallocation", "ja": "土地の再配分" }
+    ],
+    "related": [
+      { "en": "reallocate", "ja": "再配分する" },
+      { "en": "allocation", "ja": "割り当て・配分" },
+      { "en": "redistribution", "ja": "再分配" },
+      { "en": "reassignment", "ja": "割り当て直し" }
+    ],
+    "faq": [
+      { "q": "reallocation とはどんな意味？", "a": "予算・資源・人員などを改めて配分し直す『再配分・割り当て直し』のことです。The plan calls for a reallocation of resources.（資源の再配分を求めている）のように使います。動詞は reallocate です。" },
+      { "q": "reallocation と redistribution の違いは？", "a": "reallocation は『（用途・割り当てを）配分し直す』、redistribution は『（広く公平に）分け直す』点に重点があります。予算の組み替えは reallocation がよく合います。" }
+    ],
+    "quiz": [
+      { "q": "The plan calls for a ___ of resources.（再配分）", "A": "reallocation", "B": "relocation の移転", "C": "education の教育", "D": "vacation の休暇", "correct": "A" },
+      { "q": "reallocation の動詞形はどれ？", "A": "reallocate（再配分する）", "B": "relocate（移転する）", "C": "educate（教育する）", "D": "vacate（明け渡す）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retributive",
+    "pron": "rɪˈtrɪbjutɪv",
+    "kana": "リトリビューティブ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "retribution（応報・報い）＋ -ive",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "法律・倫理"],
+    "meaning_main": "応報の・報復的な・（罰として）報いる",
+    "description": "retributive の意味・発音・例文・語源を解説。悪い行いに対する罰として報いる「応報の・報復的な」という、法律・倫理で使う形容詞の使い方を紹介します。",
+    "keywords": ["retributive 意味", "retributive 発音", "応報", "retribution 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】応報の・報復的な・（罰として）報いる", "note": "悪い行いに見合った罰を与えるという考えの。retributive justice（応報的司法＝罰による正義）。名詞は retribution。" }
+    ],
+    "usages": [
+      { "title": "① 「応報的司法」として", "desc": "罰による正義の考えを表します。", "example_en": "Retributive justice emphasizes punishment.", "example_ja": "応報的司法は罰を重視する。" },
+      { "title": "② 「報復的な措置」として", "desc": "報いとしての行為を表します。", "example_en": "The policy was seen as retributive.", "example_ja": "その政策は報復的だと見られた。" }
+    ],
+    "warn": [
+      "retributive は『応報の・報復的な・（罰として）報いる』。名詞 retribution（応報・報い・天罰）＋ -ive。",
+      "retributive justice（応報的司法＝犯罪に見合った罰を与える考え）は、修復的司法（restorative justice）と対比される。"
+    ],
+    "etym_note": "retribution（『応報・報い』、ラテン語 retribuere「返し与える」、re-「返して」＋ tribuere「与える」より）＋ -ive から成り、「報いる性質の」を意味します。tribute（貢ぎ物）, distribute（分配する）と同じ語根です。",
+    "etym_chain": [
+      { "node": "retribuere", "sub": "返し与える", "era": "ラテン語" },
+      { "node": "retribution", "sub": "応報・報い", "era": "中英語" },
+      { "node": "retributive", "sub": "応報の・報復的な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "retributive justice", "ja": "応報的司法" },
+      { "en": "retributive punishment", "ja": "応報的な罰" },
+      { "en": "a retributive measure", "ja": "報復的な措置" },
+      { "en": "retributive in nature", "ja": "本質的に応報的な" },
+      { "en": "purely retributive", "ja": "純粋に報復的な" },
+      { "en": "retributive and restorative justice", "ja": "応報的司法と修復的司法" }
+    ],
+    "related": [
+      { "en": "retribution", "ja": "応報・報い・天罰" },
+      { "en": "punitive", "ja": "懲罰的な" },
+      { "en": "vengeful", "ja": "復讐心に燃えた" },
+      { "en": "restorative", "ja": "修復的な（対比）" }
+    ],
+    "faq": [
+      { "q": "retributive とはどんな意味？", "a": "悪い行いに対する罰として報いる『応報の・報復的な』という形容詞です。retributive justice（応報的司法＝罰による正義）のように使います。名詞は retribution です。" },
+      { "q": "retributive justice と restorative justice の違いは？", "a": "retributive justice（応報的司法）は『犯罪に見合った罰を与えること』を重視、restorative justice（修復的司法）は『被害の修復や関係の回復』を重視します。司法の考え方として対比されます。" }
+    ],
+    "quiz": [
+      { "q": "___ justice emphasizes punishment.（応報の）", "A": "Retributive", "B": "Distributive の分配の", "C": "Productive の生産的な", "D": "Attractive の魅力的な", "correct": "A" },
+      { "q": "retributive の名詞形はどれ？", "A": "retribution（応報・報い）", "B": "distribution（分配）", "C": "production（生産）", "D": "attraction（魅力）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retinal",
+    "pron": "ˈretɪnl",
+    "kana": "レティナル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "retina（網膜）＋ -al",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "理科・医学"],
+    "meaning_main": "網膜の・網膜に関する",
+    "description": "retinal の意味・発音・例文・語源を解説。目の奥で光を受け取る膜「網膜」に関する「網膜の」という、医学・生体認証で使う形容詞の使い方を紹介します。",
+    "keywords": ["retinal 意味", "retinal 発音", "網膜の", "retina 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】網膜の・網膜に関する", "note": "目の網膜（retina）に関する。a retinal scan（網膜スキャン）。retinal damage（網膜の損傷）。" }
+    ],
+    "usages": [
+      { "title": "① 医学「網膜の」として", "desc": "網膜に関わる症状を表します。", "example_en": "The disease causes retinal damage.", "example_ja": "その病気は網膜の損傷を引き起こす。" },
+      { "title": "② 生体認証「網膜の」として", "desc": "網膜による認証を表します。", "example_en": "The system uses retinal scanning for security.", "example_ja": "そのシステムは安全のため網膜スキャンを使う。" }
+    ],
+    "warn": [
+      "retinal は『網膜の・網膜に関する』。名詞 retina（網膜）＋ -al。",
+      "a retinal scan（網膜スキャン）, retinal detachment（網膜剥離）が頻出。cornea（角膜）など他の部位と区別。"
+    ],
+    "etym_note": "retina（『網膜』、中世ラテン語 retina「網のような膜」、ラテン語 rete「網」より）＋ -al から成り、「網膜の」を意味します。",
+    "etym_chain": [
+      { "node": "rete", "sub": "網", "era": "ラテン語" },
+      { "node": "retina", "sub": "網膜", "era": "中世ラテン語" },
+      { "node": "retinal", "sub": "網膜の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a retinal scan", "ja": "網膜スキャン" },
+      { "en": "retinal damage", "ja": "網膜の損傷" },
+      { "en": "retinal detachment", "ja": "網膜剥離" },
+      { "en": "a retinal image", "ja": "網膜像" },
+      { "en": "retinal cells", "ja": "網膜の細胞" },
+      { "en": "retinal disease", "ja": "網膜の病気" }
+    ],
+    "related": [
+      { "en": "retina", "ja": "網膜" },
+      { "en": "ocular", "ja": "目の" },
+      { "en": "corneal", "ja": "角膜の" },
+      { "en": "optic", "ja": "視覚の・目の" }
+    ],
+    "faq": [
+      { "q": "retinal とはどんな意味？", "a": "目の奥で光を受け取る膜『網膜（retina）』に関する『網膜の』という形容詞です。a retinal scan（網膜スキャン）、retinal damage（網膜の損傷）のように使います。" },
+      { "q": "retinal scan（網膜スキャン）とは？", "a": "目の網膜にある血管のパターンを読み取って本人確認をする生体認証の一つです。一人ひとり異なるため、高い安全性が必要な場所で使われます。" }
+    ],
+    "quiz": [
+      { "q": "The disease causes ___ damage.（網膜の）", "A": "retinal", "B": "rental の賃貸の", "C": "mental の精神の", "D": "dental の歯の", "correct": "A" },
+      { "q": "retinal のもとになった名詞はどれ？", "A": "retina（網膜）", "B": "rent（家賃）", "C": "mind（心）", "D": "tooth（歯）", "correct": "A" }
+    ]
+  }
+]
