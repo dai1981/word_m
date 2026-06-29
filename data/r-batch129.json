@@ -1,0 +1,527 @@
+[
+  {
+    "english": "registrar",
+    "pron": "ˈredʒɪstrɑːr",
+    "kana": "レジストラー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "register（登録する・登記簿）＋ -ar（〜する人）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "行政・大学"],
+    "meaning_main": "登記官・登録係／（大学の）教務部長・学籍係",
+    "description": "registrar の意味・発音・例文・語源を解説。出生・結婚などを記録する「登記官」や、大学で学籍・成績を管理する「教務部長・学籍係」を表す名詞の使い方を紹介します。",
+    "keywords": ["registrar 意味", "registrar 発音", "登記官", "教務部長"],
+    "meanings": [
+      { "hinshi": "【名詞】登記官・登録係", "note": "出生・結婚・死亡などの公式記録を管理する役人。the registrar of births and deaths（出生・死亡の登記官）。" },
+      { "hinshi": "【名詞】(大学の)教務部長・学籍係", "note": "学生の入学・登録・成績などを管理する役職。the university registrar（大学の教務部長）。" }
+    ],
+    "usages": [
+      { "title": "① 「登記官」として", "desc": "公式記録の管理者を表します。", "example_en": "You must report the birth to the registrar.", "example_ja": "出生を登記官に届け出なければならない。" },
+      { "title": "② 「大学の学籍係」として", "desc": "学籍を管理する役職を表します。", "example_en": "Contact the registrar's office for your transcript.", "example_ja": "成績証明書は教務課（学籍係）に問い合わせなさい。" }
+    ],
+    "warn": [
+      "registrar は『登記官・登録係』『（大学の）教務部長・学籍係』。register（登録する・登記簿）＋ -ar。",
+      "ドメインの『レジストラ（登録事業者）』もこの語。イギリスでは病院の『専門研修医』の意味もある。"
+    ],
+    "etym_note": "register（『登録する・登記簿』、ラテン語 regesta「記録されたもの」より）＋ -ar（『〜する人』）から成り、「記録を管理する人」を意味します。",
+    "etym_chain": [
+      { "node": "regesta", "sub": "記録されたもの", "era": "ラテン語" },
+      { "node": "register", "sub": "登録する・登記簿", "era": "中英語" },
+      { "node": "registrar", "sub": "登記官・学籍係", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the registrar of births and deaths", "ja": "出生・死亡の登記官" },
+      { "en": "the registrar's office", "ja": "教務課・登録窓口" },
+      { "en": "the university registrar", "ja": "大学の教務部長" },
+      { "en": "report to the registrar", "ja": "登記官に届け出る" },
+      { "en": "a domain registrar", "ja": "ドメイン登録事業者" },
+      { "en": "the company registrar", "ja": "会社の登記官" }
+    ],
+    "related": [
+      { "en": "register", "ja": "登録する・登記簿" },
+      { "en": "registration", "ja": "登録・登記" },
+      { "en": "registry", "ja": "登録所・登記所" },
+      { "en": "clerk", "ja": "事務員・記録係" }
+    ],
+    "faq": [
+      { "q": "registrar とはどんな意味？", "a": "出生・結婚などを記録する『登記官・登録係』、また大学で学籍・成績を管理する『教務部長・学籍係』のことです。Contact the registrar's office for your transcript.（成績証明書は教務課に問い合わせて）のように使います。" },
+      { "q": "registrar と registry の違いは？", "a": "registrar は『（記録を管理する）人・役職』、registry は『登録所・登記所（場所や記録の体系）』です。registrar が働くのが registry、というイメージです。" }
+    ],
+    "quiz": [
+      { "q": "Contact the ___'s office for your transcript.（学籍係）", "A": "registrar", "B": "register の登記簿だけ", "C": "registry の登録所", "D": "registration の登録", "correct": "A" },
+      { "q": "registrar のもとになった語はどれ？", "A": "register（登録する・登記簿）", "B": "remember（思い出す）", "C": "represent（代表する）", "D": "require（要求する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "registry",
+    "pron": "ˈredʒɪstri",
+    "kana": "レジストリ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "register（登録する）＋ -ry（場所・集合）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "行政・IT"],
+    "meaning_main": "登録所・登記所／登録簿・名簿（公式記録の体系）",
+    "description": "registry の意味・発音・例文・語源を解説。公式な記録を保管する「登録所・登記所」や、登録された記録の集まり「登録簿・名簿」を表す、行政・ITで使う名詞を紹介します。",
+    "keywords": ["registry 意味", "registry 発音", "登記所", "登録簿"],
+    "meanings": [
+      { "hinshi": "【名詞】登録所・登記所", "note": "公式記録を管理・保管する役所・場所。a land registry（土地登記所）。a registry office（戸籍登記所＝英の結婚登録所）。" },
+      { "hinshi": "【名詞】登録簿・名簿・（公式記録の）体系", "note": "登録された記録の集まり。a donor registry（提供者の登録簿）。ITでは設定情報の保管場所（Windowsのレジストリなど）。" }
+    ],
+    "usages": [
+      { "title": "① 「登記所」として", "desc": "公式記録を扱う場所を表します。", "example_en": "The deed is held at the land registry.", "example_ja": "その権利証書は土地登記所に保管されている。" },
+      { "title": "② 「登録簿」として", "desc": "記録の集まりを表します。", "example_en": "She joined the bone marrow registry.", "example_ja": "彼女は骨髄バンク（の登録簿）に登録した。" }
+    ],
+    "warn": [
+      "registry は『登録所・登記所』『登録簿・名簿』。register（登録する）＋ -ry（場所・集合を表す語尾）。",
+      "(英)a registry office は『戸籍登記所（結婚の登録もする役所）』。ITの『レジストリ』もこの語。"
+    ],
+    "etym_note": "register（『登録する・登記簿』、ラテン語 regesta「記録されたもの」より）＋ -ry（『場所・集合』を表す語尾）から成り、「登録の場所・記録の集まり」を意味します。",
+    "etym_chain": [
+      { "node": "regesta", "sub": "記録されたもの", "era": "ラテン語" },
+      { "node": "register", "sub": "登録する・登記簿", "era": "中英語" },
+      { "node": "registry", "sub": "登録所・登録簿", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a land registry", "ja": "土地登記所" },
+      { "en": "a registry office", "ja": "戸籍登記所（英）" },
+      { "en": "a donor registry", "ja": "ドナー（提供者）登録簿" },
+      { "en": "a national registry", "ja": "全国登録簿" },
+      { "en": "the company registry", "ja": "会社登記所" },
+      { "en": "join the registry", "ja": "登録簿に登録する" }
+    ],
+    "related": [
+      { "en": "register", "ja": "登録する・登記簿" },
+      { "en": "registrar", "ja": "登記官・登録係" },
+      { "en": "registration", "ja": "登録・登記" },
+      { "en": "record", "ja": "記録" }
+    ],
+    "faq": [
+      { "q": "registry とはどんな意味？", "a": "公式な記録を保管する『登録所・登記所』や、登録された記録の集まり『登録簿・名簿』のことです。The deed is held at the land registry.（権利証書は土地登記所に保管されている）のように使います。" },
+      { "q": "registry office とは？", "a": "イギリスの『戸籍登記所』のことで、出生・死亡などの登録を扱うほか、結婚の登録（市役所での結婚式）も行います。get married at a registry office（登記所で結婚する）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The deed is held at the land ___.（登記所）", "A": "registry", "B": "register の登記簿だけ", "C": "registrar の登記官", "D": "registration の登録", "correct": "A" },
+      { "q": "registry の -ry が表すものはどれ？", "A": "場所・集合", "B": "人", "C": "動作", "D": "時間", "correct": "A" }
+    ]
+  },
+  {
+    "english": "regressive",
+    "pron": "rɪˈɡresɪv",
+    "kana": "リグレッシブ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "regress（後退する）＋ -ive",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "政治・経済"],
+    "meaning_main": "後退的な・退行的な／（税が）逆進的な（低所得者ほど負担が重い）",
+    "description": "regressive の意味・発音・例文・語源を解説。進歩に逆らう「後退的な・退行的な」という意味と、税で低所得者ほど負担割合が重い「逆進的な」という意味を紹介します。",
+    "keywords": ["regressive 意味", "regressive 発音", "後退的な", "逆進的"],
+    "meanings": [
+      { "hinshi": "【形容詞】後退的な・退行的な", "note": "進歩・発展に逆らう、または以前の状態に戻る。a regressive policy（後退的な政策）。" },
+      { "hinshi": "【形容詞】(税が)逆進的な", "note": "所得が低い人ほど負担割合が重くなる。a regressive tax（逆進税）。反対は progressive（累進的な）。" }
+    ],
+    "usages": [
+      { "title": "① 「後退的な政策」として", "desc": "進歩に逆らうことを表します。", "example_en": "Critics called the reform regressive.", "example_ja": "批評家はその改革を後退的だと呼んだ。" },
+      { "title": "② 「逆進税」として", "desc": "低所得者に重い税を表します。", "example_en": "Sales tax is often regressive.", "example_ja": "消費税はしばしば逆進的だ。" }
+    ],
+    "warn": [
+      "regressive は『後退的な・退行的な』『（税が）逆進的な』。regress（後退する）＋ -ive。名詞 regression（後退・退行）。",
+      "税では progressive（累進的＝高所得ほど高率）⇔ regressive（逆進的＝低所得ほど割合が重い）。"
+    ],
+    "etym_note": "regress（『後退する』、ラテン語 regredi「後戻りする」、re-「後ろへ」＋ gradi「進む」より）＋ -ive から成り、「後退する性質の」を意味します。progress（前進）, grade（段階）と同じ語根です。",
+    "etym_chain": [
+      { "node": "regredi", "sub": "後戻りする", "era": "ラテン語" },
+      { "node": "regress", "sub": "後退する", "era": "近代英語" },
+      { "node": "regressive", "sub": "後退的な・逆進的な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a regressive policy", "ja": "後退的な政策" },
+      { "en": "a regressive tax", "ja": "逆進税" },
+      { "en": "regressive measures", "ja": "後退的な措置" },
+      { "en": "socially regressive", "ja": "社会的に後退的な" },
+      { "en": "regressive and unfair", "ja": "逆進的で不公平な" },
+      { "en": "progressive vs regressive", "ja": "累進的か逆進的か" }
+    ],
+    "related": [
+      { "en": "regress", "ja": "後退する・退行する" },
+      { "en": "regression", "ja": "後退・退行・回帰" },
+      { "en": "backward", "ja": "後ろ向きの" },
+      { "en": "progressive", "ja": "進歩的な・累進的な（反対）" }
+    ],
+    "faq": [
+      { "q": "regressive とはどんな意味？", "a": "進歩に逆らう『後退的な・退行的な』という意味と、税で低所得者ほど負担割合が重い『逆進的な』という意味があります。Sales tax is often regressive.（消費税はしばしば逆進的だ）のように使います。" },
+      { "q": "regressive tax と progressive tax の違いは？", "a": "regressive tax（逆進税）は『所得が低い人ほど負担割合が重い』税（消費税など）、progressive tax（累進税）は『所得が高い人ほど税率が高い』税（所得税など）です。" }
+    ],
+    "quiz": [
+      { "q": "Sales tax is often ___.（逆進的な）", "A": "regressive", "B": "progressive の累進的な", "C": "expressive の表現豊かな", "D": "impressive の印象的な", "correct": "A" },
+      { "q": "regressive（税）の反対語はどれ？", "A": "progressive（累進的な）", "B": "expressive（表現豊かな）", "C": "impressive（印象的な）", "D": "aggressive（攻撃的な）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "regrettably",
+    "pron": "rɪˈɡretəbli",
+    "kana": "リグレッタブリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "regrettable（残念な）＋ -ly",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "残念ながら・遺憾（いかん）ながら・あいにく",
+    "description": "regrettably の意味・発音・例文・語源を解説。望ましくない事実を述べるときに「残念ながら・遺憾ながら・あいにく」と前置きする副詞の使い方を分かりやすく紹介します。",
+    "keywords": ["regrettably 意味", "regrettably 発音", "残念ながら", "遺憾ながら"],
+    "meanings": [
+      { "hinshi": "【副詞】残念ながら・遺憾ながら・あいにく", "note": "望ましくない事実への残念さを表す（文修飾）。Regrettably, the event was canceled.（残念ながらイベントは中止された）。" }
+    ],
+    "usages": [
+      { "title": "① 文頭「残念ながら」として", "desc": "望ましくない事実を前置きします。", "example_en": "Regrettably, we cannot accept your application.", "example_ja": "残念ながら、ご応募をお受けできません。" },
+      { "title": "② 「遺憾なほど」として", "desc": "程度を残念がる用法です。", "example_en": "The response was regrettably slow.", "example_ja": "対応は残念なほど遅かった。" }
+    ],
+    "warn": [
+      "regrettably は『残念ながら・遺憾ながら・あいにく』（文修飾）。regrettable（残念な）＋ -ly。",
+      "unfortunately（あいにく）と近い。regretfully（後悔して）は『本人が後悔する気持ち』で意味がやや違う。"
+    ],
+    "etym_note": "regrettable（『残念な・遺憾な』、regret「後悔する・残念に思う」、古フランス語 regreter「嘆く」より）＋ -ly から成り、「残念なことに」を意味します。",
+    "etym_chain": [
+      { "node": "regreter", "sub": "嘆く", "era": "古フランス語" },
+      { "node": "regrettable", "sub": "残念な", "era": "近代英語" },
+      { "node": "regrettably", "sub": "残念ながら", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "regrettably, ...", "ja": "残念ながら、…" },
+      { "en": "regrettably few", "ja": "残念なほど少ない" },
+      { "en": "regrettably slow", "ja": "残念なほど遅い" },
+      { "en": "regrettably common", "ja": "遺憾ながらよくある" },
+      { "en": "regrettably absent", "ja": "あいにく欠席で" },
+      { "en": "but regrettably", "ja": "しかし残念ながら" }
+    ],
+    "related": [
+      { "en": "regrettable", "ja": "残念な・遺憾な" },
+      { "en": "unfortunately", "ja": "あいにく・残念ながら" },
+      { "en": "regretfully", "ja": "後悔して・名残惜しそうに" },
+      { "en": "sadly", "ja": "悲しいことに" }
+    ],
+    "faq": [
+      { "q": "regrettably とはどんな意味？", "a": "望ましくない事実を述べるときに『残念ながら・遺憾ながら・あいにく』と前置きする副詞です。Regrettably, the event was canceled.（残念ながらイベントは中止された）のように使います。" },
+      { "q": "regrettably と regretfully の違いは？", "a": "regrettably は『残念なことに（事態が望ましくない）』と状況を述べる文修飾、regretfully は『後悔して・名残惜しそうに（本人の気持ち）』です。He left regretfully.（名残惜しそうに去った）のように使い分けます。" }
+    ],
+    "quiz": [
+      { "q": "___, we cannot accept your application.（残念ながら）", "A": "Regrettably", "B": "Reportedly の伝えられるところでは", "C": "Repeatedly の繰り返し", "D": "Reasonably のかなり", "correct": "A" },
+      { "q": "regrettably と意味が近い語はどれ？", "A": "unfortunately（あいにく）", "B": "fortunately（幸運にも）", "C": "naturally（当然）", "D": "actually（実は）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reformatory",
+    "pron": "rɪˈfɔːrmətɔːri",
+    "kana": "リフォーマトリー",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "reform（改める・矯正する）＋ -atory",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "歴史・法律"],
+    "meaning_main": "（少年）感化院・矯正院／矯正の・改善の",
+    "description": "reformatory の意味・発音・例文・語源を解説。非行少年を更生させる施設「感化院・矯正院」という名詞と、「矯正の・改善の」という形容詞の使い方を紹介します。",
+    "keywords": ["reformatory 意味", "reformatory 発音", "感化院", "矯正院"],
+    "meanings": [
+      { "hinshi": "【名詞】（少年）感化院・矯正院", "note": "罪を犯した若者を罰だけでなく更生させるための施設（やや古い語）。sent to a reformatory（感化院に送られる）。" },
+      { "hinshi": "【形容詞】矯正の・改善の・更生のための", "note": "reformatory measures（矯正のための措置）。" }
+    ],
+    "usages": [
+      { "title": "① 「感化院」として", "desc": "更生施設を表します。", "example_en": "The boy was sent to a reformatory.", "example_ja": "その少年は感化院に送られた。" },
+      { "title": "② 形容詞「矯正の」として", "desc": "更生を目的とすることを表します。", "example_en": "The system has a reformatory purpose.", "example_ja": "その制度は矯正（更生）を目的としている。" }
+    ],
+    "warn": [
+      "reformatory は『（少年）感化院・矯正院』『矯正の・改善の』。reform（改める・矯正する）＋ -atory。やや古い語。",
+      "現代では juvenile detention center / youth correctional facility（少年院）などが使われる。"
+    ],
+    "etym_note": "reform（『改める・矯正する』、ラテン語 reformare「作り直す」、re-「再び」＋ formare「形づくる」より）＋ -atory（『〜のための・〜する』）から成り、「矯正のための（施設）」を意味します。form（形）と同じ語根です。",
+    "etym_chain": [
+      { "node": "reformare", "sub": "作り直す", "era": "ラテン語" },
+      { "node": "reform", "sub": "改める・矯正する", "era": "中英語" },
+      { "node": "reformatory", "sub": "感化院・矯正の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "sent to a reformatory", "ja": "感化院に送られる" },
+      { "en": "a juvenile reformatory", "ja": "少年感化院" },
+      { "en": "release from the reformatory", "ja": "感化院から出る" },
+      { "en": "reformatory measures", "ja": "矯正のための措置" },
+      { "en": "a reformatory school", "ja": "感化学校" },
+      { "en": "reformatory purpose", "ja": "矯正の目的" }
+    ],
+    "related": [
+      { "en": "reform", "ja": "改める・矯正する" },
+      { "en": "reformation", "ja": "改革・矯正" },
+      { "en": "correctional facility", "ja": "矯正施設" },
+      { "en": "rehabilitate", "ja": "更生させる" }
+    ],
+    "faq": [
+      { "q": "reformatory とはどんな意味？", "a": "罪を犯した若者を罰だけでなく更生させるための施設『（少年）感化院・矯正院』という名詞、また『矯正の・改善の』という形容詞です。The boy was sent to a reformatory.（少年は感化院に送られた）のように使います。" },
+      { "q": "reformatory は今も使う語？", "a": "やや古い語で、歴史的な文脈でよく見られます。現代の英語では juvenile detention center や youth correctional facility（少年院）などの言い方が一般的です。" }
+    ],
+    "quiz": [
+      { "q": "The boy was sent to a ___.（感化院）", "A": "reformatory", "B": "laboratory の実験室", "C": "dormitory の寮", "D": "territory の領土", "correct": "A" },
+      { "q": "reformatory のもとになった動詞はどれ？", "A": "reform（改める・矯正する）", "B": "perform（行う）", "C": "inform（知らせる）", "D": "confirm（確認する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rapeseed",
+    "pron": "ˈreɪpsiːd",
+    "kana": "レイプシード",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rape（アブラナ）＋ seed（種）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "農業・食品"],
+    "meaning_main": "菜種（なたね）・セイヨウアブラナの種（食用油の原料）",
+    "description": "rapeseed の意味・発音・例文・語源を解説。黄色い花を咲かせるアブラナの種「菜種（なたね）」を表す名詞の使い方と、菜種油（rapeseed oil）を分かりやすく紹介します。",
+    "keywords": ["rapeseed 意味", "rapeseed 発音", "菜種", "なたね油"],
+    "meanings": [
+      { "hinshi": "【名詞】菜種（なたね）・セイヨウアブラナの種", "note": "黄色い花を咲かせるアブラナ（rape）の種。食用油（菜種油）の原料。rapeseed oil（菜種油）。canola はその改良品種。" }
+    ],
+    "usages": [
+      { "title": "① 作物としての「菜種」", "desc": "油の原料となる種を表します。", "example_en": "The fields were yellow with rapeseed in bloom.", "example_ja": "畑は咲き誇る菜種の花で黄色く染まっていた。" },
+      { "title": "② 食品の文脈で", "desc": "菜種油を表します。", "example_en": "Many dishes are cooked in rapeseed oil.", "example_ja": "多くの料理は菜種油で調理される。" }
+    ],
+    "warn": [
+      "rapeseed は『菜種・セイヨウアブラナの種』。rape（ここではアブラナという植物）＋ seed（種）。rapeseed oil（菜種油）。",
+      "ここでの rape は植物名（ラテン語 rapum「カブ」より）。canola（キャノーラ）は菜種を改良した品種。"
+    ],
+    "etym_note": "rape（『アブラナ』、ラテン語 rapum「カブ」より、カブの仲間）＋ seed（『種』、古英語 sǣd より）から成る複合語で、「アブラナの種」を意味します。",
+    "etym_chain": [
+      { "node": "rapum + sǣd", "sub": "カブ＋種", "era": "ラテン語・古英語" },
+      { "node": "rapeseed", "sub": "菜種", "era": "近代英語" },
+      { "node": "rapeseed", "sub": "菜種", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rapeseed oil", "ja": "菜種油" },
+      { "en": "a field of rapeseed", "ja": "菜種畑" },
+      { "en": "rapeseed in bloom", "ja": "咲いている菜種" },
+      { "en": "grow rapeseed", "ja": "菜種を栽培する" },
+      { "en": "rapeseed meal", "ja": "菜種かす（飼料）" },
+      { "en": "press rapeseed for oil", "ja": "菜種を搾って油をとる" }
+    ],
+    "related": [
+      { "en": "canola", "ja": "キャノーラ（改良菜種）" },
+      { "en": "oilseed", "ja": "油糧種子" },
+      { "en": "vegetable oil", "ja": "植物油" },
+      { "en": "mustard", "ja": "カラシナ（仲間）" }
+    ],
+    "faq": [
+      { "q": "rapeseed とはどんな意味？", "a": "黄色い花を咲かせるアブラナの種『菜種（なたね）』のことです。食用油（菜種油）の原料になります。The fields were yellow with rapeseed.（畑は菜種で黄色く染まっていた）のように使います。" },
+      { "q": "rapeseed と canola の違いは？", "a": "canola（キャノーラ）は rapeseed（菜種）を品種改良し、油に含まれる成分を改善したものです。食用油としては canola oil / rapeseed oil どちらも使われます。" }
+    ],
+    "quiz": [
+      { "q": "Many dishes are cooked in ___ oil.（菜種）", "A": "rapeseed", "B": "rapeseed ではなく linseed の亜麻仁", "C": "seaweed の海藻", "D": "tweed のツイード", "correct": "A" },
+      { "q": "rapeseed は主に何に使われる？", "A": "食用油（菜種油）の原料", "B": "建材", "C": "燃料の石炭", "D": "飲み水", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rascality",
+    "pron": "ræˈskæləti",
+    "kana": "ラスカリティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rascal（いたずら者・悪党）＋ -ity",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文語的"],
+    "meaning_main": "いたずら・腕白／悪事・ずる賢いふるまい",
+    "description": "rascality の意味・発音・例文・語源を解説。子どもの「いたずら・腕白」や、ずる賢い「悪事・ふるまい」を表す、やや古風・文語的な名詞の使い方を紹介します。",
+    "keywords": ["rascality 意味", "rascality 発音", "いたずら", "rascal 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】いたずら・腕白／悪事・ずる賢いふるまい", "note": "rascal（いたずら者・悪党）の性質・行い。ほほえましい『いたずら』から、ずるい『悪事』まで。childish rascality（子どもじみたいたずら）。" }
+    ],
+    "usages": [
+      { "title": "① 「いたずら・腕白」として", "desc": "やんちゃなふるまいを表します。", "example_en": "His eyes sparkled with rascality.", "example_ja": "彼の目はいたずらっぽく輝いていた。" },
+      { "title": "② 「悪事・ずる賢さ」として", "desc": "ずるいふるまいを表します。", "example_en": "The story is full of cheerful rascality.", "example_ja": "その物語は陽気な悪知恵に満ちている。" }
+    ],
+    "warn": [
+      "rascality は『いたずら・腕白』『悪事・ずる賢いふるまい』。rascal（いたずら者・悪党）＋ -ity。やや古風・文語的。",
+      "文脈により、ほほえましい『いたずら』にも、本格的な『悪事』にもなる。"
+    ],
+    "etym_note": "rascal（『いたずら者・悪党・ならず者』、古フランス語 rascaille「下層民・くず」より）＋ -ity から成り、「いたずら・悪事の性質」を意味します。",
+    "etym_chain": [
+      { "node": "rascaille", "sub": "下層民・くず", "era": "古フランス語" },
+      { "node": "rascal", "sub": "いたずら者・悪党", "era": "中英語" },
+      { "node": "rascality", "sub": "いたずら・悪事", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "childish rascality", "ja": "子どもじみたいたずら" },
+      { "en": "a hint of rascality", "ja": "いたずらっぽさ" },
+      { "en": "eyes full of rascality", "ja": "いたずらっぽい目" },
+      { "en": "cheerful rascality", "ja": "陽気な悪知恵" },
+      { "en": "youthful rascality", "ja": "若さゆえの腕白" },
+      { "en": "petty rascality", "ja": "ささいな悪事" }
+    ],
+    "related": [
+      { "en": "rascal", "ja": "いたずら者・悪党" },
+      { "en": "mischief", "ja": "いたずら・悪さ" },
+      { "en": "roguery", "ja": "悪事・いたずら" },
+      { "en": "knavery", "ja": "悪事・ずる" }
+    ],
+    "faq": [
+      { "q": "rascality とはどんな意味？", "a": "子どもの『いたずら・腕白』や、ずる賢い『悪事・ふるまい』を表す、やや古風な名詞です。His eyes sparkled with rascality.（彼の目はいたずらっぽく輝いていた）のように使います。もとになる語は rascal（いたずら者・悪党）です。" },
+      { "q": "rascality と mischief の違いは？", "a": "どちらも『いたずら』ですが、mischief は日常的に『（軽い）いたずら・悪さ』、rascality はやや文語的で『いたずら者（rascal）らしいふるまい・悪知恵』を表します。" }
+    ],
+    "quiz": [
+      { "q": "His eyes sparkled with ___.（いたずらっぽさ）", "A": "rascality", "B": "reality の現実", "C": "quality の品質", "D": "loyalty の忠誠", "correct": "A" },
+      { "q": "rascality のもとになった名詞はどれ？", "A": "rascal（いたずら者・悪党）", "B": "real（本当の）", "C": "royal（王の）", "D": "rural（田舎の）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rebelliously",
+    "pron": "rɪˈbeljəsli",
+    "kana": "リベリャスリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "rebellious（反抗的な）＋ -ly",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "感情・態度"],
+    "meaning_main": "反抗的に・逆らって・言うことを聞かずに",
+    "description": "rebelliously の意味・発音・例文・語源を解説。権威や規則に「反抗的に・逆らって・言うことを聞かずに」ふるまう様子を表す副詞の使い方を分かりやすく紹介します。",
+    "keywords": ["rebelliously 意味", "rebelliously 発音", "反抗的に", "rebellious 意味"],
+    "meanings": [
+      { "hinshi": "【副詞】反抗的に・逆らって・言うことを聞かずに", "note": "権威・親・規則に逆らって。stare rebelliously（反抗的ににらむ）。形容詞は rebellious。" }
+    ],
+    "usages": [
+      { "title": "① 「反抗的ににらむ」として", "desc": "逆らう態度を表します。", "example_en": "The teenager glared rebelliously at his parents.", "example_ja": "そのティーンエイジャーは反抗的に両親をにらんだ。" },
+      { "title": "② 「逆らってふるまう」として", "desc": "従わない様子を表します。", "example_en": "She rebelliously refused to follow the rules.", "example_ja": "彼女は反抗的に規則に従うのを拒んだ。" }
+    ],
+    "warn": [
+      "rebelliously は『反抗的に・逆らって・言うことを聞かずに』。形容詞 rebellious（反抗的な）＋ -ly。名詞 rebellion（反乱）。",
+      "obediently（従順に）の反対。つづり注意（rebel → rebellious → rebelliously）。"
+    ],
+    "etym_note": "rebellious（『反抗的な』、ラテン語 rebellis「再び戦いを起こす」、re-「再び」＋ bellum「戦争」より）＋ -ly から成り、「反抗して」を意味します。rebel（反逆者）と同じ語根です。",
+    "etym_chain": [
+      { "node": "rebellis", "sub": "反抗する", "era": "ラテン語" },
+      { "node": "rebellious", "sub": "反抗的な", "era": "中英語" },
+      { "node": "rebelliously", "sub": "反抗的に", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "stare rebelliously", "ja": "反抗的ににらむ" },
+      { "en": "act rebelliously", "ja": "反抗的にふるまう" },
+      { "en": "refuse rebelliously", "ja": "逆らって拒む" },
+      { "en": "rebelliously defiant", "ja": "反抗的で挑戦的な" },
+      { "en": "behave rebelliously", "ja": "言うことを聞かずにふるまう" },
+      { "en": "rebelliously cross one's arms", "ja": "反抗的に腕を組む" }
+    ],
+    "related": [
+      { "en": "rebellious", "ja": "反抗的な" },
+      { "en": "rebellion", "ja": "反乱" },
+      { "en": "defiantly", "ja": "反抗的に・挑戦的に" },
+      { "en": "obediently", "ja": "従順に（反対）" }
+    ],
+    "faq": [
+      { "q": "rebelliously とはどんな意味？", "a": "権威や規則に『反抗的に・逆らって・言うことを聞かずに』ふるまう様子を表す副詞です。The teenager glared rebelliously at his parents.（反抗的に両親をにらんだ）のように使います。形容詞は rebellious です。" },
+      { "q": "rebelliously の反対語は？", "a": "obediently（従順に・素直に）です。rebelliously（反抗的に）⇔ obediently（従順に）の関係です。" }
+    ],
+    "quiz": [
+      { "q": "The teenager glared ___ at his parents.（反抗的に）", "A": "rebelliously", "B": "religiously の宗教的に", "C": "ridiculously のばかげて", "D": "obediently の従順に", "correct": "A" },
+      { "q": "rebelliously の反対語はどれ？", "A": "obediently（従順に）", "B": "religiously（宗教的に）", "C": "rapidly（急速に）", "D": "rarely（めったに〜ない）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retransmission",
+    "pron": "ˌriːtrænzˈmɪʃən",
+    "kana": "リトランスミッション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "retransmit（再送信する）＋ -ion",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "通信・IT"],
+    "meaning_main": "再送信・再送・（放送の）再送信",
+    "description": "retransmission の意味・発音・例文・語源を解説。届かなかったデータを送り直す「再送信・再送」や、放送を別経路で再び流す「再送信」を表す、通信・IT・放送の語を紹介します。",
+    "keywords": ["retransmission 意味", "retransmission 発音", "再送信", "transmit 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再送信・再送", "note": "届かなかった・誤った信号やデータを再び送ること。data retransmission（データの再送）。動詞は retransmit。" },
+      { "hinshi": "【名詞】(放送)再送信", "note": "受信した放送を別の経路（ケーブルなど）で再び流すこと。" }
+    ],
+    "usages": [
+      { "title": "① 通信「データの再送」として", "desc": "送り直すことを表します。", "example_en": "Packet loss triggers retransmission.", "example_ja": "パケットの損失は再送信を引き起こす。" },
+      { "title": "② 放送「再送信」として", "desc": "放送の再配信を表します。", "example_en": "The cable company pays retransmission fees.", "example_ja": "そのケーブル会社は再送信料を払っている。" }
+    ],
+    "warn": [
+      "retransmission は『再送信・再送』『（放送の）再送信』。retransmit（再送信する）＋ -ion。re-（再び）＋ transmission（送信）。",
+      "通信ではエラー時のデータ再送、放送では番組の再配信。"
+    ],
+    "etym_note": "retransmit（re-「再び」＋ transmit「送る」、ラテン語 transmittere「向こうへ送る」、trans-「越えて」＋ mittere「送る」より）＋ -ion から成り、「再び送ること」を意味します。mission（派遣）と同じ語根です。",
+    "etym_chain": [
+      { "node": "transmittere", "sub": "向こうへ送る", "era": "ラテン語" },
+      { "node": "retransmit", "sub": "再送信する", "era": "近代英語" },
+      { "node": "retransmission", "sub": "再送信", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "data retransmission", "ja": "データの再送" },
+      { "en": "trigger retransmission", "ja": "再送信を引き起こす" },
+      { "en": "automatic retransmission", "ja": "自動再送" },
+      { "en": "retransmission fees", "ja": "再送信料" },
+      { "en": "request retransmission", "ja": "再送を要求する" },
+      { "en": "a retransmission rate", "ja": "再送率" }
+    ],
+    "related": [
+      { "en": "retransmit", "ja": "再送信する" },
+      { "en": "transmission", "ja": "送信・伝送" },
+      { "en": "transmit", "ja": "送る・伝える" },
+      { "en": "broadcast", "ja": "放送する" }
+    ],
+    "faq": [
+      { "q": "retransmission とはどんな意味？", "a": "届かなかった・誤ったデータを送り直す『再送信・再送』や、放送を別経路で再び流す『再送信』のことです。Packet loss triggers retransmission.（パケットの損失は再送信を引き起こす）のように使います。動詞は retransmit です。" },
+      { "q": "通信での retransmission の役割は？", "a": "データ通信では、信号が途中で失われたり壊れたりしたとき、受信側が正しく受け取れるようにデータを再送（retransmit）します。これにより通信の信頼性が保たれます。" }
+    ],
+    "quiz": [
+      { "q": "Packet loss triggers ___.（再送信）", "A": "retransmission", "B": "permission の許可", "C": "admission の入場", "D": "commission の委員会", "correct": "A" },
+      { "q": "retransmission の動詞形はどれ？", "A": "retransmit（再送信する）", "B": "permit（許可する）", "C": "admit（入れる）", "D": "commit（委ねる）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "resignedly",
+    "pron": "rɪˈzaɪnɪdli",
+    "kana": "リザイニドリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "resigned（あきらめた・観念した）＋ -ly",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "感情・文語"],
+    "meaning_main": "あきらめて・観念して・しかたなく（受け入れて）",
+    "description": "resignedly の意味・発音・例文・語源を解説。逆らわずに「あきらめて・観念して・しかたなく受け入れて」ふるまう様子を表す副詞の使い方を分かりやすく紹介します。",
+    "keywords": ["resignedly 意味", "resignedly 発音", "あきらめて", "観念して"],
+    "meanings": [
+      { "hinshi": "【副詞】あきらめて・観念して・しかたなく（受け入れて）", "note": "抵抗をやめて受け入れる様子。sigh resignedly（あきらめてため息をつく）。形容詞は resigned（あきらめた）。発音は4音節（リ-ザイ-ニド-リー）。" }
+    ],
+    "usages": [
+      { "title": "① 「あきらめてため息をつく」として", "desc": "観念した様子を表します。", "example_en": "He sighed resignedly and agreed.", "example_ja": "彼はあきらめてため息をつき、同意した。" },
+      { "title": "② 「しかたなく受け入れる」として", "desc": "逆らわない態度を表します。", "example_en": "She resignedly accepted her fate.", "example_ja": "彼女はあきらめて自分の運命を受け入れた。" }
+    ],
+    "warn": [
+      "resignedly は『あきらめて・観念して・しかたなく』。形容詞 resigned（あきらめた・観念した）＋ -ly。",
+      "発音は -ed を音節として読む（リザイニドリー、4音節）。動詞 resign（辞任する／（be resigned to で）あきらめる）と関連。"
+    ],
+    "etym_note": "resigned（『あきらめた・観念した』、resign「（運命などに）身をゆだねる・辞任する」、ラテン語 resignare「封を解く・放棄する」より）＋ -ly から成り、「あきらめて」を意味します。sign（印・署名）と同じ語根です。",
+    "etym_chain": [
+      { "node": "resignare", "sub": "放棄する", "era": "ラテン語" },
+      { "node": "resigned", "sub": "あきらめた・観念した", "era": "近代英語" },
+      { "node": "resignedly", "sub": "あきらめて", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "sigh resignedly", "ja": "あきらめてため息をつく" },
+      { "en": "nod resignedly", "ja": "観念してうなずく" },
+      { "en": "shrug resignedly", "ja": "あきらめて肩をすくめる" },
+      { "en": "resignedly accept", "ja": "しかたなく受け入れる" },
+      { "en": "say resignedly", "ja": "あきらめたように言う" },
+      { "en": "smile resignedly", "ja": "あきらめたようにほほえむ" }
+    ],
+    "related": [
+      { "en": "resigned", "ja": "あきらめた・観念した" },
+      { "en": "resignation", "ja": "あきらめ・辞任" },
+      { "en": "reluctantly", "ja": "しぶしぶ" },
+      { "en": "helplessly", "ja": "なすすべなく" }
+    ],
+    "faq": [
+      { "q": "resignedly とはどんな意味？", "a": "逆らわずに『あきらめて・観念して・しかたなく受け入れて』ふるまう様子を表す副詞です。He sighed resignedly and agreed.（あきらめてため息をつき、同意した）のように使います。形容詞は resigned です。" },
+      { "q": "resignedly と reluctantly の違いは？", "a": "reluctantly は『（気が進まないが）しぶしぶ』、resignedly は『（抵抗をあきらめ）観念して受け入れて』です。reluctantly はまだ嫌がる気持ち、resignedly はもうあきらめている点が違います。" }
+    ],
+    "quiz": [
+      { "q": "He sighed ___ and agreed.（あきらめて）", "A": "resignedly", "B": "surprisingly の驚いたことに", "C": "excitedly の興奮して", "D": "eagerly の熱心に", "correct": "A" },
+      { "q": "resignedly の形容詞形はどれ？", "A": "resigned（あきらめた・観念した）", "B": "surprised（驚いた）", "C": "excited（興奮した）", "D": "eager（熱心な）", "correct": "A" }
+    ]
+  }
+]
