@@ -1,0 +1,529 @@
+[
+  {
+    "english": "remand",
+    "pron": "rɪˈmænd",
+    "kana": "リマンド",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 remandare（送り返す）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "法律"],
+    "meaning_main": "（被告を）勾留する・差し戻す／勾留・拘置",
+    "description": "remand の意味・発音・例文・語源を解説。裁判で被告を「勾留する」、上級審が事件を下級審に「差し戻す」という、法律で使う語の使い方を分かりやすく紹介します。",
+    "keywords": ["remand 意味", "remand 発音", "勾留", "差し戻す"],
+    "meanings": [
+      { "hinshi": "【動詞】（被告を）勾留する・拘置する", "note": "裁判・判決を待つ間、身柄を拘束しておく。be remanded in custody（勾留される）。" },
+      { "hinshi": "【動詞】（事件を下級審に）差し戻す", "note": "上級裁判所が再審理のため事件を下級審に戻す。" },
+      { "hinshi": "【名詞】勾留・拘置（の状態）", "note": "on remand（勾留中で）。" }
+    ],
+    "usages": [
+      { "title": "① 「勾留する」として", "desc": "身柄を拘束することを表します。", "example_en": "The suspect was remanded in custody.", "example_ja": "容疑者は勾留された。" },
+      { "title": "② 「差し戻す」として", "desc": "事件を下級審に戻すことを表します。", "example_en": "The court remanded the case to a lower court.", "example_ja": "裁判所はその事件を下級審に差し戻した。" }
+    ],
+    "warn": [
+      "remand は『（被告を）勾留する』『（事件を）差し戻す』『勾留（名詞）』。法律用語。be remanded in custody（勾留される）, on remand（勾留中）。",
+      "保釈（bail）と対比される。"
+    ],
+    "etym_note": "ラテン語 remandare（re-「再び・戻して」＋ mandare「命じる・ゆだねる」）に由来し、「送り戻すこと」を意味します。command（命令する）, mandate（委任）と同じ語根です。",
+    "etym_chain": [
+      { "node": "remandare", "sub": "送り返す", "era": "ラテン語" },
+      { "node": "remaunden", "sub": "差し戻す", "era": "中英語" },
+      { "node": "remand", "sub": "勾留する・差し戻す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be remanded in custody", "ja": "勾留される" },
+      { "en": "on remand", "ja": "勾留中で" },
+      { "en": "remand the case", "ja": "事件を差し戻す" },
+      { "en": "remand to a lower court", "ja": "下級審に差し戻す" },
+      { "en": "a remand prisoner", "ja": "未決勾留者" },
+      { "en": "remanded for trial", "ja": "公判のため勾留された" }
+    ],
+    "related": [
+      { "en": "custody", "ja": "勾留・拘置" },
+      { "en": "bail", "ja": "保釈" },
+      { "en": "detain", "ja": "拘留する" },
+      { "en": "appeal", "ja": "控訴・上告" }
+    ],
+    "faq": [
+      { "q": "remand とはどんな意味？", "a": "裁判で被告を『勾留する』、また上級審が事件を下級審に『差し戻す』という法律用語です。The suspect was remanded in custody.（容疑者は勾留された）のように使います。" },
+      { "q": "on remand とは？", "a": "『勾留中で（判決を待って身柄を拘束されている状態で）』という意味です。a remand prisoner（未決勾留者＝有罪が確定する前に勾留されている人）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The suspect was ___ed in custody.（勾留された）", "A": "remand", "B": "demand の要求する", "C": "command の命令する", "D": "expand の拡大する", "correct": "A" },
+      { "q": "on remand の意味はどれ？", "A": "勾留中で", "B": "保釈中で", "C": "無罪で", "D": "釈放されて", "correct": "A" }
+    ]
+  },
+  {
+    "english": "remediate",
+    "pron": "rɪˈmiːdieɪt",
+    "kana": "リミディエイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "remedy（治す・改善する）＋ -ate",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "環境・教育"],
+    "meaning_main": "（問題を）改善する・是正する／（汚染を）浄化する・修復する",
+    "description": "remediate の意味・発音・例文・語源を解説。問題や欠陥を「改善・是正する」、土壌・水の汚染を「浄化・修復する」という、環境・教育・ITで使う語を紹介します。",
+    "keywords": ["remediate 意味", "remediate 発音", "是正する", "浄化する"],
+    "meanings": [
+      { "hinshi": "【動詞】（問題・欠陥を）改善する・是正する", "note": "悪い状態を直す。remediate the problem（問題を是正する）。教育では『（学習の遅れを）補習で補う』。" },
+      { "hinshi": "【動詞】（汚染を）浄化する・修復する", "note": "remediate contaminated soil（汚染された土壌を浄化する）。名詞は remediation。" }
+    ],
+    "usages": [
+      { "title": "① 「問題を是正する」として", "desc": "欠陥を直すことを表します。", "example_en": "Steps were taken to remediate the security flaw.", "example_ja": "セキュリティ上の欠陥を是正する措置がとられた。" },
+      { "title": "② 「汚染を浄化する」として", "desc": "土壌などの修復を表します。", "example_en": "The company must remediate the polluted site.", "example_ja": "その会社は汚染された土地を浄化しなければならない。" }
+    ],
+    "warn": [
+      "remediate は『（問題を）改善・是正する』『（汚染を）浄化・修復する』。remedy（治療・改善する）＋ -ate。名詞は remediation。",
+      "環境（土壌・水の浄化）、IT（脆弱性の是正）、教育（補習）など幅広く使う。"
+    ],
+    "etym_note": "remedy（『治療・改善する』、ラテン語 remedium「治療薬」、re-「再び」＋ mederi「治す」より）＋ -ate から成り、「直す・是正する」を意味します。medical（医療の）, medicine（薬）と同じ語根です。",
+    "etym_chain": [
+      { "node": "remedium", "sub": "治療薬", "era": "ラテン語" },
+      { "node": "remedy", "sub": "治療・改善する", "era": "中英語" },
+      { "node": "remediate", "sub": "是正する・浄化する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "remediate the problem", "ja": "問題を是正する" },
+      { "en": "remediate the flaw", "ja": "欠陥を是正する" },
+      { "en": "remediate contaminated soil", "ja": "汚染土壌を浄化する" },
+      { "en": "remediate the site", "ja": "用地を浄化する" },
+      { "en": "environmental remediation", "ja": "環境浄化・土壌修復" },
+      { "en": "remediate a vulnerability", "ja": "脆弱性を是正する" }
+    ],
+    "related": [
+      { "en": "remedy", "ja": "治療・改善する・対策" },
+      { "en": "remediation", "ja": "是正・浄化・補習" },
+      { "en": "rectify", "ja": "是正する" },
+      { "en": "decontaminate", "ja": "汚染を除去する" }
+    ],
+    "faq": [
+      { "q": "remediate とはどんな意味？", "a": "問題や欠陥を『改善・是正する』、また土壌・水の汚染を『浄化・修復する』という意味です。The company must remediate the polluted site.（汚染された土地を浄化しなければならない）のように使います。名詞は remediation です。" },
+      { "q": "remediate と remedy の違いは？", "a": "remedy は名詞『治療・対策』、動詞『（問題を）改善する』が中心。remediate はやや専門的で『（環境汚染・欠陥・学習の遅れなどを）是正・浄化・補習する』に使われます。" }
+    ],
+    "quiz": [
+      { "q": "The company must ___ the polluted site.（浄化する）", "A": "remediate", "B": "mediate の仲裁する", "C": "meditate の瞑想する", "D": "immediate の即座の", "correct": "A" },
+      { "q": "remediate の名詞形はどれ？", "A": "remediation（是正・浄化）", "B": "mediation（仲裁）", "C": "meditation（瞑想）", "D": "medication（投薬）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "remold",
+    "pron": "ˌriːˈmoʊld",
+    "kana": "リモールド",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ mold（型に入れて形づくる）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "比喩・製造"],
+    "meaning_main": "作り直す・形を変える・（性格・社会を）作り変える",
+    "description": "remold の意味・発音・例文・語源を解説。粘土などを「形を変えて作り直す」、また人の性格や社会を「作り変える」という比喩の使い方を分かりやすく紹介します。",
+    "keywords": ["remold 意味", "remold 発音", "作り変える", "mold 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】作り直す・形を変える", "note": "型に入れて改めて形づくる。remold the clay（粘土を作り直す）。イギリス綴りは remould。" },
+      { "hinshi": "【動詞】（性格・社会などを）作り変える・改造する", "note": "比喩で、考え方や制度を根本から変える。remold society（社会を作り変える）。" }
+    ],
+    "usages": [
+      { "title": "① 「形を作り直す」として", "desc": "物の形を変えることを表します。", "example_en": "She remolded the clay into a new shape.", "example_ja": "彼女は粘土を新しい形に作り直した。" },
+      { "title": "② 比喩「作り変える」として", "desc": "性格や社会の改造を表します。", "example_en": "The experience remolded his character.", "example_ja": "その経験は彼の人格を作り変えた。" }
+    ],
+    "warn": [
+      "remold は『作り直す・形を変える』『（性格・社会を）作り変える』。re-（再び）＋ mold（型・形づくる）。イギリス綴りは remould。",
+      "mold は『型・鋳型／（型に入れて）形づくる』。『カビ』の mold とつづり同じだが別語。"
+    ],
+    "etym_note": "re-（再び）＋ mold（『型・形づくる』、古フランス語 modle「型」、ラテン語 modulus「ものさし」より）から成り、「再び形づくること」を意味します。model（模型）, mode（様式）と同じ語根です。",
+    "etym_chain": [
+      { "node": "modulus", "sub": "ものさし・型", "era": "ラテン語" },
+      { "node": "mold", "sub": "型・形づくる", "era": "中英語" },
+      { "node": "remold", "sub": "作り直す・作り変える", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "remold the clay", "ja": "粘土を作り直す" },
+      { "en": "remold society", "ja": "社会を作り変える" },
+      { "en": "remold one's character", "ja": "人格を作り変える" },
+      { "en": "remold public opinion", "ja": "世論を作り変える" },
+      { "en": "remold the image", "ja": "イメージを作り変える" },
+      { "en": "remold into a new shape", "ja": "新しい形に作り直す" }
+    ],
+    "related": [
+      { "en": "mold", "ja": "型・形づくる" },
+      { "en": "reshape", "ja": "作り変える・形を変える" },
+      { "en": "remodel", "ja": "改造する・改装する" },
+      { "en": "transform", "ja": "一変させる" }
+    ],
+    "faq": [
+      { "q": "remold とはどんな意味？", "a": "粘土などを『形を変えて作り直す』、また人の性格や社会を『作り変える・改造する』という意味です。The experience remolded his character.（その経験が彼の人格を作り変えた）のように使います。イギリス綴りは remould です。" },
+      { "q": "remold と reshape の違いは？", "a": "どちらも『形を変える』ですが、remold は『（型に入れるように）根本から作り直す』、reshape は『（輪郭・形を）整え直す』ニュアンスがあります。比喩ではどちらも『作り変える』に使えます。" }
+    ],
+    "quiz": [
+      { "q": "The experience ___ed his character.（作り変えた）", "A": "remold", "B": "remind の思い出させる", "C": "remove の取り除く", "D": "remind ではなく remain の残る", "correct": "A" },
+      { "q": "remold のもとになった語 mold の意味でないものは？", "A": "感情", "B": "型", "C": "鋳型", "D": "形づくる", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reenroll",
+    "pron": "ˌriːɪnˈroʊl",
+    "kana": "リエンロール",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ enroll（登録する・入会する）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "教育・行政"],
+    "meaning_main": "再登録する・再入学（再加入）する",
+    "description": "reenroll の意味・発音・例文・語源を解説。学校・講座・保険などに「再登録する・再入学（再加入）する」という、教育・行政で使う語の使い方を紹介します。",
+    "keywords": ["reenroll 意味", "reenroll 発音", "再登録する", "enroll 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再登録する・再入学（再加入）する", "note": "一度登録をやめたもの（学校・講座・保険など）に再び登録する。re-enroll とも書く。reenroll in the course（講座に再登録する）。名詞は reenrollment。イギリス綴りは reenrol。" }
+    ],
+    "usages": [
+      { "title": "① 「講座に再登録する」として", "desc": "再び登録することを表します。", "example_en": "Students must reenroll each semester.", "example_ja": "学生は学期ごとに再登録しなければならない。" },
+      { "title": "② 「保険に再加入する」として", "desc": "再び加入することを表します。", "example_en": "You can reenroll in the plan during open enrollment.", "example_ja": "登録受付期間中にそのプランに再加入できる。" }
+    ],
+    "warn": [
+      "reenroll は『再登録する・再入学（再加入）する』。re-（再び）＋ enroll。re-enroll とも書く。名詞は reenrollment。イギリス綴りは reenrol（l 一つ）。",
+      "学校・講座・保険・プログラムなどへの再登録に使う。"
+    ],
+    "etym_note": "re-（再び）＋ enroll（『登録する・名簿に載せる』、古フランス語 enroller「巻物（roll）に書き込む」より）から成り、「再び名簿に載せること」を意味します。roll（名簿・巻物）と同じ語根です。",
+    "etym_chain": [
+      { "node": "enroller", "sub": "巻物に書き込む", "era": "古フランス語" },
+      { "node": "enroll", "sub": "登録する・入会する", "era": "中英語" },
+      { "node": "reenroll", "sub": "再登録する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reenroll in the course", "ja": "講座に再登録する" },
+      { "en": "reenroll each semester", "ja": "学期ごとに再登録する" },
+      { "en": "reenroll in the plan", "ja": "プランに再加入する" },
+      { "en": "reenroll at the university", "ja": "大学に再入学する" },
+      { "en": "automatic reenrollment", "ja": "自動再登録" },
+      { "en": "reenroll students", "ja": "学生を再登録させる" }
+    ],
+    "related": [
+      { "en": "enroll", "ja": "登録する・入会する" },
+      { "en": "enrollment", "ja": "登録・入学" },
+      { "en": "register", "ja": "登録する" },
+      { "en": "readmit", "ja": "再入学させる" }
+    ],
+    "faq": [
+      { "q": "reenroll とはどんな意味？", "a": "学校・講座・保険などに『再登録する・再入学（再加入）する』という意味です。Students must reenroll each semester.（学生は学期ごとに再登録しなければならない）のように使います。名詞は reenrollment です。" },
+      { "q": "reenroll と readmit の違いは？", "a": "reenroll は『（自分で）再登録・再加入する』、readmit は『（学校などが人を）再び受け入れる・再入学させる』点に重点があります。動作の主体が違います。" }
+    ],
+    "quiz": [
+      { "q": "Students must ___ each semester.（再登録する）", "A": "reenroll", "B": "enroll の最初に登録する", "C": "control の管理する", "D": "patrol の巡回する", "correct": "A" },
+      { "q": "reenroll のもとになった動詞はどれ？", "A": "enroll（登録する・入会する）", "B": "control（管理する）", "C": "patrol（巡回する）", "D": "stroll（散歩する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reentrance",
+    "pron": "ˌriːˈentrəns",
+    "kana": "リエントランス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ entrance（入ること・入り口）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "ビジネス・技術"],
+    "meaning_main": "再び入ること・再参入／（大気圏への）再突入",
+    "description": "reentrance の意味・発音・例文・語源を解説。市場などへ「再び入ること・再参入」、また宇宙船の大気圏「再突入」を表す名詞の使い方を分かりやすく紹介します。",
+    "keywords": ["reentrance 意味", "reentrance 発音", "再参入", "再突入"],
+    "meanings": [
+      { "hinshi": "【名詞】再び入ること・再参入・復帰", "note": "一度出たところに再び入ること。reentrance into the market（市場への再参入）。re-entrance とも書く。" },
+      { "hinshi": "【名詞】（大気圏への）再突入", "note": "宇宙船などが大気圏に再び入ること（reentry と同義に使われることも）。" }
+    ],
+    "usages": [
+      { "title": "① 「市場への再参入」として", "desc": "再び入ることを表します。", "example_en": "The company planned its reentrance into the market.", "example_ja": "その会社は市場への再参入を計画した。" },
+      { "title": "② 「職場への復帰」として", "desc": "再び加わることを表します。", "example_en": "Her reentrance into the workforce took planning.", "example_ja": "彼女の職場復帰には計画が必要だった。" }
+    ],
+    "warn": [
+      "reentrance は『再び入ること・再参入・復帰』『（大気圏への）再突入』。re-（再び）＋ entrance（入ること・入り口）。re-entrance とも書く。",
+      "宇宙では reentry のほうが一般的。市場・職場への『再参入・復帰』では reentrance / reentry どちらも使う。"
+    ],
+    "etym_note": "re-（再び）＋ entrance（『入ること・入り口』、enter「入る」、ラテン語 intrare「中に入る」より）から成り、「再び入ること」を意味します。enter（入る）, interior（内部）と同じ語根です。",
+    "etym_chain": [
+      { "node": "intrare", "sub": "中に入る", "era": "ラテン語" },
+      { "node": "entrance", "sub": "入ること・入り口", "era": "近代英語" },
+      { "node": "reentrance", "sub": "再び入ること・再参入", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reentrance into the market", "ja": "市場への再参入" },
+      { "en": "reentrance into the workforce", "ja": "職場への復帰" },
+      { "en": "make a reentrance", "ja": "再び入る・再登場する" },
+      { "en": "a dramatic reentrance", "ja": "劇的な再登場" },
+      { "en": "atmospheric reentrance", "ja": "大気圏への再突入" },
+      { "en": "plan the reentrance", "ja": "再参入を計画する" }
+    ],
+    "related": [
+      { "en": "reenter", "ja": "再び入る・再突入する" },
+      { "en": "reentry", "ja": "再突入・再加入" },
+      { "en": "entrance", "ja": "入ること・入り口" },
+      { "en": "return", "ja": "戻ること・復帰" }
+    ],
+    "faq": [
+      { "q": "reentrance とはどんな意味？", "a": "市場などへ『再び入ること・再参入・復帰』、また宇宙船の大気圏『再突入』を表す名詞です。The company planned its reentrance into the market.（市場への再参入を計画した）のように使います。" },
+      { "q": "reentrance と reentry の違いは？", "a": "ほぼ同義で『再び入ること』ですが、reentry のほうが一般的で、特に宇宙の『大気圏再突入』では reentry がよく使われます。reentrance はやや硬い響きです。" }
+    ],
+    "quiz": [
+      { "q": "The company planned its ___ into the market.（再参入）", "A": "reentrance", "B": "entrance の最初の入場だけ", "C": "fragrance の香り", "D": "ambulance の救急車", "correct": "A" },
+      { "q": "reentrance のもとになった動詞はどれ？", "A": "enter（入る）", "B": "endure（耐える）", "C": "ensure（保証する）", "D": "enjoy（楽しむ）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "referent",
+    "pron": "ˈrefərənt",
+    "kana": "レファレント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 referre（指し示す・関係づける）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "言語学・哲学"],
+    "meaning_main": "（語が）指し示すもの・指示対象（言語学）",
+    "description": "referent の意味・発音・例文・語源を解説。言葉や記号が「指し示している実際のもの・指示対象」を表す、言語学・哲学で使う名詞の使い方を分かりやすく紹介します。",
+    "keywords": ["referent 意味", "referent 発音", "指示対象", "refer 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】（語・記号が）指し示すもの・指示対象", "note": "ある語が現実に指している対象。例えば『犬』という語の referent は実際の犬。the referent of a word（語の指示対象）。" }
+    ],
+    "usages": [
+      { "title": "① 言語学「指示対象」として", "desc": "語が指す実物を表します。", "example_en": "The word \"dog\" has a clear referent.", "example_ja": "「犬」という語ははっきりした指示対象を持つ。" },
+      { "title": "② 抽象語の文脈で", "desc": "指す対象の有無を表します。", "example_en": "Some words have no concrete referent.", "example_ja": "具体的な指示対象を持たない語もある。" }
+    ],
+    "warn": [
+      "referent は言語学・哲学で『（語が）指し示すもの・指示対象』。動詞 refer（言及する・指す）、名詞 reference（言及・参照）と関連。",
+      "代名詞 it/they などが『指している語（先行詞）』の意味でも使う。"
+    ],
+    "etym_note": "ラテン語 referre（re-「再び・戻して」＋ ferre「運ぶ」＝指し示す・関係づける）に由来し、「指し示されるもの」を意味します。refer（言及する）, reference（参照）と同じ語根です。",
+    "etym_chain": [
+      { "node": "referre", "sub": "指し示す・関係づける", "era": "ラテン語" },
+      { "node": "refer", "sub": "言及する・指す", "era": "中英語" },
+      { "node": "referent", "sub": "指示対象", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the referent of a word", "ja": "語の指示対象" },
+      { "en": "a clear referent", "ja": "はっきりした指示対象" },
+      { "en": "no concrete referent", "ja": "具体的な指示対象がない" },
+      { "en": "the referent of a pronoun", "ja": "代名詞の指す対象" },
+      { "en": "identify the referent", "ja": "指示対象を特定する" },
+      { "en": "a shared referent", "ja": "共有された指示対象" }
+    ],
+    "related": [
+      { "en": "refer", "ja": "言及する・指す" },
+      { "en": "reference", "ja": "言及・参照" },
+      { "en": "antecedent", "ja": "（代名詞の）先行詞" },
+      { "en": "meaning", "ja": "意味" }
+    ],
+    "faq": [
+      { "q": "referent とはどんな意味？", "a": "言葉や記号が指し示している『実際のもの・指示対象』のことです。例えば『犬』という語の referent は現実の犬です。The word \"dog\" has a clear referent.（「犬」という語ははっきりした指示対象を持つ）のように使います。" },
+      { "q": "referent と meaning の違いは？", "a": "meaning（意味）は『語が表す概念・内容』、referent（指示対象）は『語が実際に指している具体的な対象』です。言語学では、語の意味と、それが指す現実のものを区別します。" }
+    ],
+    "quiz": [
+      { "q": "The word \"dog\" has a clear ___.（指示対象）", "A": "referent", "B": "different の異なる", "C": "resident の居住者", "D": "president の大統領", "correct": "A" },
+      { "q": "referent のもとになった動詞はどれ？", "A": "refer（言及する・指す）", "B": "differ（異なる）", "C": "reside（住む）", "D": "prefer（好む）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recuperative",
+    "pron": "rɪˈkuːpərətɪv",
+    "kana": "リキューパラティブ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "recuperate（回復する）＋ -ive",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "健康"],
+    "meaning_main": "回復力のある・回復を助ける・療養のための",
+    "description": "recuperative の意味・発音・例文・語源を解説。病気や疲れからの回復を助ける「回復力のある・療養のための」という様子を表す形容詞の使い方を分かりやすく紹介します。",
+    "keywords": ["recuperative 意味", "recuperative 発音", "回復を助ける", "recuperate 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】回復力のある・回復を助ける・療養のための", "note": "病気・疲労からの回復を促す。recuperative powers（回復力）。a recuperative break（療養の休み）。動詞は recuperate（回復する）。" }
+    ],
+    "usages": [
+      { "title": "① 「回復力」として", "desc": "回復する力を表します。", "example_en": "The body has remarkable recuperative powers.", "example_ja": "体は驚くべき回復力を持つ。" },
+      { "title": "② 「療養の休み」として", "desc": "回復を助ける時間を表します。", "example_en": "He took a recuperative holiday by the sea.", "example_ja": "彼は海辺で療養の休暇をとった。" }
+    ],
+    "warn": [
+      "recuperative は『回復力のある・回復を助ける・療養のための』。recuperate（回復する・取り戻す）＋ -ive。名詞は recuperation（回復・療養）。",
+      "recuperative powers（回復力）, a recuperative break / holiday（療養の休み）が頻出。"
+    ],
+    "etym_note": "recuperate（『回復する』、ラテン語 recuperare「取り戻す」より）＋ -ive から成り、「回復を助ける性質の」を意味します。recover（回復する）と関連します。",
+    "etym_chain": [
+      { "node": "recuperare", "sub": "取り戻す", "era": "ラテン語" },
+      { "node": "recuperate", "sub": "回復する", "era": "近代英語" },
+      { "node": "recuperative", "sub": "回復を助ける", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "recuperative powers", "ja": "回復力" },
+      { "en": "a recuperative break", "ja": "療養の休み" },
+      { "en": "a recuperative holiday", "ja": "療養の休暇" },
+      { "en": "recuperative sleep", "ja": "疲れをいやす眠り" },
+      { "en": "recuperative effects", "ja": "回復を助ける効果" },
+      { "en": "a recuperative period", "ja": "療養期間" }
+    ],
+    "related": [
+      { "en": "recuperate", "ja": "回復する・取り戻す" },
+      { "en": "recuperation", "ja": "回復・療養" },
+      { "en": "restorative", "ja": "回復させる" },
+      { "en": "healing", "ja": "癒やしの" }
+    ],
+    "faq": [
+      { "q": "recuperative とはどんな意味？", "a": "病気や疲れからの回復を助ける『回復力のある・回復を助ける・療養のための』という形容詞です。The body has remarkable recuperative powers.（体は驚くべき回復力を持つ）のように使います。動詞は recuperate です。" },
+      { "q": "recuperative と restorative の違いは？", "a": "どちらも『回復させる』ですが、recuperative は『（病気・疲労からの）回復を助ける』に重点、restorative は『（心身の元気を）取り戻させる』をより広く表します。意味は近いです。" }
+    ],
+    "quiz": [
+      { "q": "The body has remarkable ___ powers.（回復力）", "A": "recuperative", "B": "cooperative の協力的な", "C": "decorative の装飾的な", "D": "comparative の比較の", "correct": "A" },
+      { "q": "recuperative の動詞形はどれ？", "A": "recuperate（回復する）", "B": "cooperate（協力する）", "C": "decorate（飾る）", "D": "compare（比べる）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rezoning",
+    "pron": "ˌriːˈzoʊnɪŋ",
+    "kana": "リゾーニング",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rezone（用途地域を変更する）＋ -ing",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "都市・行政"],
+    "meaning_main": "用途地域の変更・区域指定の変更（土地利用の区分を変えること）",
+    "description": "rezoning の意味・発音・例文・語源を解説。土地の使い道を定める区分（用途地域）を変更する「区域指定の変更」を表す、都市計画・行政で使う名詞を紹介します。",
+    "keywords": ["rezoning 意味", "rezoning 発音", "用途地域の変更", "zone 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】用途地域の変更・区域指定の変更", "note": "土地の使い道（住宅地・商業地など）を定める区分（zone）を変えること。a rezoning proposal（用途変更の提案）。動詞は rezone。" }
+    ],
+    "usages": [
+      { "title": "① 「用途変更の提案」として", "desc": "区分の変更を表します。", "example_en": "The rezoning would allow apartments to be built.", "example_ja": "その用途変更でアパートの建設が可能になる。" },
+      { "title": "② 都市計画の文脈で", "desc": "土地利用の変更を表します。", "example_en": "Residents opposed the rezoning of the area.", "example_ja": "住民はその地域の用途変更に反対した。" }
+    ],
+    "warn": [
+      "rezoning は『用途地域の変更・区域指定の変更』。rezone（用途地域を変更する）＋ -ing。re-（再び）＋ zone（区域）。",
+      "都市計画で、住宅地を商業地にするなど、土地の使い道の区分を変える文脈で使う。"
+    ],
+    "etym_note": "rezone（re-「再び」＋ zone「区域・地帯」、ギリシャ語 zone「帯」より）＋ -ing から成り、「区域を定め直すこと」を意味します。zone（ゾーン）と同じ語根です。",
+    "etym_chain": [
+      { "node": "zone", "sub": "帯・区域", "era": "ギリシャ語" },
+      { "node": "rezone", "sub": "用途地域を変更する", "era": "20世紀英語" },
+      { "node": "rezoning", "sub": "用途変更", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rezoning proposal", "ja": "用途変更の提案" },
+      { "en": "approve the rezoning", "ja": "用途変更を承認する" },
+      { "en": "oppose the rezoning", "ja": "用途変更に反対する" },
+      { "en": "rezoning for housing", "ja": "住宅向けの用途変更" },
+      { "en": "a rezoning application", "ja": "用途変更の申請" },
+      { "en": "the rezoning of the land", "ja": "その土地の用途変更" }
+    ],
+    "related": [
+      { "en": "rezone", "ja": "用途地域を変更する" },
+      { "en": "zoning", "ja": "用途地域制・区域指定" },
+      { "en": "zone", "ja": "区域・地帯" },
+      { "en": "land use", "ja": "土地利用" }
+    ],
+    "faq": [
+      { "q": "rezoning とはどんな意味？", "a": "土地の使い道を定める区分（用途地域）を変更する『区域指定の変更』のことです。The rezoning would allow apartments to be built.（その用途変更でアパートの建設が可能になる）のように使います。動詞は rezone です。" },
+      { "q": "zoning（用途地域制）とは？", "a": "土地を住宅地・商業地・工業地などの区域（zone）に分け、それぞれで建てられる建物や使い道を定める制度のことです。その区分を変えるのが rezoning（用途変更）です。" }
+    ],
+    "quiz": [
+      { "q": "Residents opposed the ___ of the area.（用途変更）", "A": "rezoning", "B": "reasoning の推論", "C": "rationing の配給", "D": "reckoning の計算", "correct": "A" },
+      { "q": "rezoning のもとになった語 zone の意味は？", "A": "区域・地帯", "B": "規則", "C": "速さ", "D": "感情", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reenergize",
+    "pron": "ˌriːˈenərdʒaɪz",
+    "kana": "リエナジャイズ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ energize（活気づける・元気づける）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "ビジネス・健康"],
+    "meaning_main": "再び元気づける・活気を取り戻させる・再活性化する",
+    "description": "reenergize の意味・発音・例文・語源を解説。疲れた人や停滞した組織・運動を「再び元気づける・活気を取り戻させる・再活性化する」という使い方を紹介します。",
+    "keywords": ["reenergize 意味", "reenergize 発音", "再び元気づける", "energize 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再び元気づける・活気を取り戻させる・再活性化する", "note": "新たな活力を与える。reenergize the team（チームを再び元気づける）。re-energize とも書く。イギリス綴りは reenergise。" }
+    ],
+    "usages": [
+      { "title": "① 人を「再び元気づける」として", "desc": "活力を取り戻させることを表します。", "example_en": "A short break reenergized the staff.", "example_ja": "短い休憩がスタッフを再び元気づけた。" },
+      { "title": "② 組織・運動を「再活性化する」として", "desc": "勢いを取り戻すことを表します。", "example_en": "The new leader reenergized the campaign.", "example_ja": "新しい指導者は運動を再活性化した。" }
+    ],
+    "warn": [
+      "reenergize は『再び元気づける・活気を取り戻させる・再活性化する』。re-（再び）＋ energize（活気づける）。re-energize とも書く。",
+      "reinvigorate / revitalize（活気を取り戻させる）とほぼ同義。"
+    ],
+    "etym_note": "re-（再び）＋ energize（『活気づける』、energy「エネルギー」、ギリシャ語 energeia「活動」より）から成り、「再び活力を与えること」を意味します。energy（エネルギー）と同じ語根です。",
+    "etym_chain": [
+      { "node": "energeia", "sub": "活動", "era": "ギリシャ語" },
+      { "node": "energize", "sub": "活気づける", "era": "近代英語" },
+      { "node": "reenergize", "sub": "再び元気づける", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reenergize the team", "ja": "チームを再び元気づける" },
+      { "en": "reenergize the economy", "ja": "経済を再活性化する" },
+      { "en": "reenergize the campaign", "ja": "運動を再活性化する" },
+      { "en": "feel reenergized", "ja": "元気を取り戻す" },
+      { "en": "reenergize the base", "ja": "支持層を再び奮い立たせる" },
+      { "en": "reenergize the workforce", "ja": "従業員を再び活気づける" }
+    ],
+    "related": [
+      { "en": "energize", "ja": "活気づける・元気づける" },
+      { "en": "reinvigorate", "ja": "再び活気づける" },
+      { "en": "revitalize", "ja": "活気を取り戻させる" },
+      { "en": "refresh", "ja": "元気を回復させる" }
+    ],
+    "faq": [
+      { "q": "reenergize とはどんな意味？", "a": "疲れた人や停滞した組織・運動を『再び元気づける・活気を取り戻させる・再活性化する』という意味です。A short break reenergized the staff.（短い休憩がスタッフを再び元気づけた）のように使います。" },
+      { "q": "reenergize と reinvigorate の違いは？", "a": "ほぼ同義で『再び活気づける』ですが、reenergize は『（エネルギー・元気を）取り戻させる』、reinvigorate は『（活力・生気を）吹き込む』にやや重点があります。多くの場面で言い換え可能です。" }
+    ],
+    "quiz": [
+      { "q": "A short break ___d the staff.（再び元気づけた）", "A": "reenergize", "B": "energize の最初に元気づける", "C": "organize の組織する", "D": "apologize の謝る", "correct": "A" },
+      { "q": "reenergize に含まれる語 energy の意味は？", "A": "エネルギー・活力", "B": "組織", "C": "記憶", "D": "感謝", "correct": "A" }
+    ]
+  },
+  {
+    "english": "revivalist",
+    "pron": "rɪˈvaɪvəlɪst",
+    "kana": "リバイバリスト",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "revival（復活・信仰復興）＋ -ist（〜する人）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "宗教・文化"],
+    "meaning_main": "信仰復興運動の伝道者／（古い様式の）復興主義者・復興の",
+    "badges_note": "",
+    "description": "revivalist の意味・発音・例文・語源を解説。信仰復興運動を導く「伝道者」や、古い様式・伝統を復興させる「復興主義者・復興の」という意味の使い方を紹介します。",
+    "keywords": ["revivalist 意味", "revivalist 発音", "信仰復興", "復興主義者"],
+    "meanings": [
+      { "hinshi": "【名詞】信仰復興運動の伝道者", "note": "（キリスト教の）信仰を熱狂的によみがえらせる伝道者。a famous revivalist preacher（有名な信仰復興の伝道者）。" },
+      { "hinshi": "【名詞・形容詞】（古い様式・伝統の）復興主義者・復興の", "note": "建築・音楽などで過去の様式を復興する人・様式。a revivalist style（復興様式）。" }
+    ],
+    "usages": [
+      { "title": "① 「信仰復興の伝道者」として", "desc": "熱狂的な伝道者を表します。", "example_en": "The revivalist drew huge crowds.", "example_ja": "その信仰復興の伝道者は大群衆を集めた。" },
+      { "title": "② 「（様式の）復興の」として", "desc": "古い様式の復興を表します。", "example_en": "The building is in a Gothic revivalist style.", "example_ja": "その建物はゴシック復興様式だ。" }
+    ],
+    "warn": [
+      "revivalist は『信仰復興運動の伝道者』『（様式の）復興主義者・復興の』。revival（復活・信仰復興）＋ -ist。",
+      "宗教（信仰復興）と、建築・音楽・文化（古い様式の復興）の両方で使う。"
+    ],
+    "etym_note": "revival（『復活・信仰復興』、revive「よみがえらせる」、ラテン語 revivere「再び生きる」より）＋ -ist（『〜する人・〜主義の』）から成り、「復興を導く人」を意味します。revive（よみがえる）と同じ語根です。",
+    "etym_chain": [
+      { "node": "revivere", "sub": "再び生きる", "era": "ラテン語" },
+      { "node": "revival", "sub": "復活・信仰復興", "era": "近代英語" },
+      { "node": "revivalist", "sub": "信仰復興の伝道者・復興主義者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a revivalist preacher", "ja": "信仰復興の伝道者" },
+      { "en": "a revivalist meeting", "ja": "信仰復興の集会" },
+      { "en": "a revivalist movement", "ja": "復興運動" },
+      { "en": "a Gothic revivalist style", "ja": "ゴシック復興様式" },
+      { "en": "a folk revivalist", "ja": "民俗音楽の復興主義者" },
+      { "en": "revivalist fervor", "ja": "信仰復興の熱狂" }
+    ],
+    "related": [
+      { "en": "revival", "ja": "復活・信仰復興・再上演" },
+      { "en": "revive", "ja": "よみがえらせる" },
+      { "en": "preacher", "ja": "説教者・伝道者" },
+      { "en": "traditionalist", "ja": "伝統主義者" }
+    ],
+    "faq": [
+      { "q": "revivalist とはどんな意味？", "a": "信仰を熱狂的によみがえらせる『信仰復興運動の伝道者』、また古い様式・伝統を復興させる『復興主義者・復興の』という意味です。a revivalist preacher（信仰復興の伝道者）、a Gothic revivalist style（ゴシック復興様式）のように使います。" },
+      { "q": "revival とはどんな意味？", "a": "revivalist のもとになる名詞で、『復活・再生』『（宗教の）信仰復興』『（古い劇・様式の）再上演・復興』などの意味があります。a revival of interest（関心の復活）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The ___ drew huge crowds.（信仰復興の伝道者）", "A": "revivalist", "B": "specialist の専門家", "C": "tourist の観光客", "D": "novelist の小説家", "correct": "A" },
+      { "q": "revivalist のもとになった名詞はどれ？", "A": "revival（復活・信仰復興）", "B": "revenue ではなく revenue（収入）", "C": "review（批評）", "D": "revision（改訂）", "correct": "A" }
+    ]
+  }
+]
