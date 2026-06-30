@@ -1,0 +1,525 @@
+[
+  {
+    "english": "russet",
+    "pron": "ˈrʌsɪt",
+    "kana": "ラセット",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 rousset（赤みがかった）、ラテン語 russus（赤い）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "色・文学"],
+    "meaning_main": "赤褐色・くすんだ茶色／赤褐色の",
+    "description": "russet の意味・発音・例文・語源を解説。秋の落ち葉のような「赤褐色・くすんだ茶色」という色、また同名のリンゴ品種について、文学・日常で使う語の使い方を紹介します。",
+    "keywords": ["russet 意味", "russet 発音", "赤褐色", "russet apple"],
+    "meanings": [
+      { "hinshi": "【名詞】赤褐色・くすんだ茶色", "note": "赤みを帯びた茶色。秋の落ち葉や粗い毛織物の色。" },
+      { "hinshi": "【形容詞】赤褐色の", "note": "russet leaves（赤褐色の葉）。リンゴやジャガイモの『ラセット種』（ざらつく茶色い皮）も指す。" }
+    ],
+    "usages": [
+      { "title": "① 色「赤褐色」として", "desc": "くすんだ茶色を表します。", "example_en": "The hills turned russet in late autumn.", "example_ja": "丘は晩秋に赤褐色に染まった。" },
+      { "title": "② 品種「ラセット種」として", "desc": "茶色い皮のリンゴ・芋を表します。", "example_en": "She baked a pie with russet apples.", "example_ja": "彼女はラセット種のリンゴでパイを焼いた。" }
+    ],
+    "warn": [
+      "russet は『赤褐色（の）』。粗い茶色の毛織物や、皮のざらついた茶色のリンゴ・ジャガイモも指す。",
+      "ラテン語 russus（赤い）由来で、red（赤）と同系。"
+    ],
+    "etym_note": "古フランス語 rousset（『赤みがかった』、ラテン語 russus「赤い」の指小形 russettus より）に由来します。russus は red（赤）や rust（さび）と同じ印欧語根です。",
+    "etym_chain": [
+      { "node": "russus", "sub": "赤い", "era": "ラテン語" },
+      { "node": "rousset", "sub": "赤みがかった", "era": "古フランス語" },
+      { "node": "russet", "sub": "赤褐色（の）", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "russet leaves", "ja": "赤褐色の葉" },
+      { "en": "russet apples", "ja": "ラセット種のリンゴ" },
+      { "en": "a russet glow", "ja": "赤褐色の輝き" },
+      { "en": "russet tones", "ja": "赤褐色の色調" },
+      { "en": "russet potatoes", "ja": "ラセット種のジャガイモ" },
+      { "en": "turn russet", "ja": "赤褐色になる" }
+    ],
+    "related": [
+      { "en": "rust", "ja": "さび・さび色" },
+      { "en": "auburn", "ja": "赤褐色（髪の）" },
+      { "en": "tawny", "ja": "黄褐色の" },
+      { "en": "chestnut", "ja": "栗色" }
+    ],
+    "faq": [
+      { "q": "russet とはどんな意味？", "a": "赤みを帯びたくすんだ茶色『赤褐色』という色、またその色の形容詞です。The hills turned russet.（丘は赤褐色に染まった）のように使います。皮のざらついた茶色いリンゴ・ジャガイモの品種名でもあります。" },
+      { "q": "russet apple とは？", "a": "皮がざらついて茶色っぽい古いリンゴの品種群です。見た目は地味ですが、ナッツのような独特の風味があります。" }
+    ],
+    "quiz": [
+      { "q": "The hills turned ___ in late autumn.（赤褐色に）", "A": "russet", "B": "sunset の日没", "C": "russell", "D": "rusty のさびた", "correct": "A" },
+      { "q": "russet のもとのラテン語 russus の意味はどれ？", "A": "赤い", "B": "青い", "C": "白い", "D": "黒い", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rufous",
+    "pron": "ˈruːfəs",
+    "kana": "ルーファス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 rufus（赤い・赤毛の）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "生物・色"],
+    "meaning_main": "赤褐色の・赤茶けた（特に動物の色）",
+    "description": "rufous の意味・発音・例文・語源を解説。鳥や動物の羽・毛の色を表す「赤褐色の・赤茶けた」という、生物学で使う語の使い方を紹介します。",
+    "keywords": ["rufous 意味", "rufous 発音", "赤褐色の", "赤茶けた"],
+    "meanings": [
+      { "hinshi": "【形容詞】赤褐色の・赤茶けた", "note": "特に鳥や動物の羽・毛の赤みがかった茶色を表す生物学・博物学の語。a rufous breast（赤褐色の胸）。" }
+    ],
+    "usages": [
+      { "title": "① 鳥「赤褐色の羽」として", "desc": "羽の色を表します。", "example_en": "The bird has a distinctive rufous tail.", "example_ja": "その鳥は特徴的な赤褐色の尾を持つ。" },
+      { "title": "② 動物「赤茶けた毛」として", "desc": "毛の色を表します。", "example_en": "The squirrel's coat was a warm rufous brown.", "example_ja": "そのリスの毛は温かみのある赤茶色だった。" }
+    ],
+    "warn": [
+      "rufous は『赤褐色の・赤茶けた』。特に鳥や動物の色の記述に使う専門寄りの語。",
+      "鳥の英名にもよく使われる（Rufous Hummingbird＝アカフトオハチドリ）。ラテン語 rufus（赤い）由来。"
+    ],
+    "etym_note": "ラテン語 rufus（『赤い・赤毛の』）に由来します。red（赤）と同じ印欧語根で、人名 Rufus（ルーファス＝赤毛の人）もここから来ています。",
+    "etym_chain": [
+      { "node": "rufus", "sub": "赤い・赤毛の", "era": "ラテン語" },
+      { "node": "rufous", "sub": "赤褐色の", "era": "近代英語" },
+      { "node": "rufous", "sub": "赤茶けた（生物の色）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rufous tail", "ja": "赤褐色の尾" },
+      { "en": "rufous plumage", "ja": "赤褐色の羽毛" },
+      { "en": "a rufous breast", "ja": "赤褐色の胸" },
+      { "en": "rufous brown", "ja": "赤茶色" },
+      { "en": "a rufous coat", "ja": "赤茶けた毛並み" },
+      { "en": "rufous markings", "ja": "赤褐色の斑紋" }
+    ],
+    "related": [
+      { "en": "russet", "ja": "赤褐色（の）" },
+      { "en": "reddish", "ja": "赤みがかった" },
+      { "en": "tawny", "ja": "黄褐色の" },
+      { "en": "chestnut", "ja": "栗色の" }
+    ],
+    "faq": [
+      { "q": "rufous とはどんな意味？", "a": "『赤褐色の・赤茶けた』という意味の形容詞で、特に鳥や動物の羽・毛の色を表すのに使います。a rufous tail（赤褐色の尾）のように使います。" },
+      { "q": "rufous と russet の違いは？", "a": "どちらも『赤褐色（の）』ですが、rufous は主に動物の色の記述に使う形容詞、russet は色名・布・果実品種など幅広く使う名詞・形容詞です。" }
+    ],
+    "quiz": [
+      { "q": "The bird has a distinctive ___ tail.（赤褐色の）", "A": "rufous", "B": "famous の有名な", "C": "furious の激怒した", "D": "porous の多孔質の", "correct": "A" },
+      { "q": "rufous はおもに何の色を表す？", "A": "鳥や動物の赤褐色", "B": "空の青", "C": "海の緑", "D": "雪の白", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rheum",
+    "pron": "ruːm",
+    "kana": "ルーム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 rheuma（流れ・流出物）、rhein（流れる）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "医学・古語"],
+    "meaning_main": "目やに・鼻水（粘液の分泌物）",
+    "description": "rheum の意味・発音・例文・語源を解説。目や鼻から出る粘液「目やに・鼻水」という、医学・古語的に使う語の使い方と、rheumatism との関係を紹介します。",
+    "keywords": ["rheum 意味", "rheum 発音", "目やに", "鼻水"],
+    "meanings": [
+      { "hinshi": "【名詞】目やに・鼻水・粘液の分泌物", "note": "目・鼻・口から出る水っぽい分泌物。やや古語・文語的。形容詞 rheumy（目のうるんだ・粘液の多い）。" }
+    ],
+    "usages": [
+      { "title": "① 「目やに」として", "desc": "目の分泌物を表します。", "example_en": "He wiped the rheum from the corner of his eye.", "example_ja": "彼は目の端から目やにをぬぐった。" },
+      { "title": "② 形容詞 rheumy として", "desc": "うるんだ目を表します。", "example_en": "The old man peered with rheumy eyes.", "example_ja": "老人はうるんだ目でじっと見た。" }
+    ],
+    "warn": [
+      "rheum は『目やに・鼻水（粘液分泌物）』。発音はルーム（room と同音、rh の h は無音）。",
+      "rheumatism（リウマチ）は『体内を流れる悪い液』という昔の医学観から同語源だが、意味は異なる。"
+    ],
+    "etym_note": "ギリシャ語 rheuma（『流れ・流出物』、rhein「流れる」より）に由来します。昔は病気を体内の『流れ（体液）』の乱れと考えました。rheumatism（リウマチ）や rhythm（リズム）と同根です。",
+    "etym_chain": [
+      { "node": "rhein", "sub": "流れる", "era": "古代ギリシャ語" },
+      { "node": "rheuma", "sub": "流れ・流出物", "era": "古代ギリシャ語" },
+      { "node": "rheum", "sub": "目やに・鼻水", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "wipe the rheum", "ja": "目やにをぬぐう" },
+      { "en": "rheumy eyes", "ja": "うるんだ目" },
+      { "en": "rheum in the eyes", "ja": "目の目やに" },
+      { "en": "a watery rheum", "ja": "水っぽい分泌物" },
+      { "en": "eyes full of rheum", "ja": "目やにだらけの目" },
+      { "en": "rheum and tears", "ja": "目やにと涙" }
+    ],
+    "related": [
+      { "en": "rheumatism", "ja": "リウマチ" },
+      { "en": "mucus", "ja": "粘液" },
+      { "en": "discharge", "ja": "分泌物・排出" },
+      { "en": "rheumy", "ja": "目のうるんだ" }
+    ],
+    "faq": [
+      { "q": "rheum とはどんな意味？", "a": "目や鼻から出る粘液『目やに・鼻水』という、やや古語的な語です。He wiped the rheum from his eye.（目から目やにをぬぐった）のように使います。形容詞 rheumy は『目のうるんだ』です。" },
+      { "q": "rheum と rheumatism は関係ある？", "a": "語源は同じで、昔『体内を流れる悪い体液（rheum）』が関節に流れ込むと痛むと考えられたことから rheumatism（リウマチ）の名がつきました。" }
+    ],
+    "quiz": [
+      { "q": "He wiped the ___ from the corner of his eye.（目やに）", "A": "rheum", "B": "realm の王国", "C": "rhyme の韻", "D": "rhythm のリズム", "correct": "A" },
+      { "q": "rheum のもとのギリシャ語の意味はどれ？", "A": "流れ・流出物", "B": "光", "C": "石", "D": "火", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rugger",
+    "pron": "ˈrʌɡə",
+    "kana": "ラガー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "Rugby（ラグビー）＋ -er（英国俗語の語尾）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "スポーツ・英国口語"],
+    "meaning_main": "（英・口語）ラグビー",
+    "description": "rugger の意味・発音・例文・語源を解説。イギリスの口語で「ラグビー」を指す語「ラガー」の使い方を紹介します。soccer と同じ -er 語尾の俗語です。",
+    "keywords": ["rugger 意味", "rugger 発音", "ラグビー 俗語", "rugby"],
+    "meanings": [
+      { "hinshi": "【名詞】（英・口語）ラグビー", "note": "rugby（ラグビー）のくだけた英国口語。play rugger（ラグビーをする）。soccer（サッカー）と同じ語尾の作り方。" }
+    ],
+    "usages": [
+      { "title": "① 「ラグビーをする」として", "desc": "競技を表します。", "example_en": "We played rugger every Saturday at school.", "example_ja": "私たちは学校で毎週土曜にラグビーをした。" },
+      { "title": "② 「観戦する」として", "desc": "試合を表します。", "example_en": "He's a keen follower of rugger.", "example_ja": "彼は熱心なラグビーファンだ。" }
+    ],
+    "warn": [
+      "rugger は『（英・口語）ラグビー』。やや古風・上流階級的な響きの英国口語。",
+      "soccer（= association football）と同じ、語幹＋ -er の俗語の作り方。"
+    ],
+    "etym_note": "Rugby（『ラグビー』。発祥地イングランドのラグビー校に由来）＋ 英国学生俗語の語尾 -er から成ります。同じ作りで association → soccer ができました。",
+    "etym_chain": [
+      { "node": "Rugby", "sub": "ラグビー校・ラグビー", "era": "19世紀英語" },
+      { "node": "Rugby + -er", "sub": "俗語化", "era": "19世紀後半" },
+      { "node": "rugger", "sub": "ラグビー（口語）", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "play rugger", "ja": "ラグビーをする" },
+      { "en": "a rugger match", "ja": "ラグビーの試合" },
+      { "en": "a rugger player", "ja": "ラグビー選手" },
+      { "en": "watch rugger", "ja": "ラグビーを観戦する" },
+      { "en": "a rugger shirt", "ja": "ラグビーシャツ" },
+      { "en": "school rugger", "ja": "学校のラグビー" }
+    ],
+    "related": [
+      { "en": "rugby", "ja": "ラグビー" },
+      { "en": "soccer", "ja": "サッカー" },
+      { "en": "scrum", "ja": "スクラム" },
+      { "en": "try", "ja": "トライ（得点）" }
+    ],
+    "faq": [
+      { "q": "rugger とはどんな意味？", "a": "イギリスの口語で『ラグビー』を指す語です。We played rugger every Saturday.（毎週土曜にラグビーをした）のように使います。やや古風で上流階級的な響きがあります。" },
+      { "q": "rugger と soccer は似ている？", "a": "はい。どちらも英国の学生俗語で、Rugby → rugger、association → soccer と語幹に -er をつけて作られた仲間です。" }
+    ],
+    "quiz": [
+      { "q": "We played ___ every Saturday at school.（ラグビー）", "A": "rugger", "B": "trigger の引き金", "C": "bigger の より大きい", "D": "logger の木こり", "correct": "A" },
+      { "q": "rugger と同じ作り方の俗語はどれ？", "A": "soccer（サッカー）", "B": "tennis（テニス）", "C": "hockey（ホッケー）", "D": "boxing（ボクシング）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "raptorial",
+    "pron": "ræpˈtɔːriəl",
+    "kana": "ラプトーリアル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 raptor（奪う者）、rapere（つかみ取る）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "生物・専門"],
+    "meaning_main": "猛禽の・捕食性の・獲物をつかむのに適した",
+    "description": "raptorial の意味・発音・例文・語源を解説。タカやワシのような「猛禽の・捕食性の」、また獲物を「つかむのに適した（脚やかぎづめ）」という生物学の語の使い方を紹介します。",
+    "keywords": ["raptorial 意味", "raptorial 発音", "猛禽の", "捕食性の"],
+    "meanings": [
+      { "hinshi": "【形容詞】猛禽の・捕食性の", "note": "タカ・ワシ・フクロウなど、生きた獲物を捕らえる鳥（猛禽類）の。" },
+      { "hinshi": "【形容詞】獲物をつかむのに適した", "note": "獲物を捕らえるよう発達した（脚・かぎづめ・前脚）。カマキリの raptorial legs（捕獲脚）など。" }
+    ],
+    "usages": [
+      { "title": "① 「猛禽の」として", "desc": "捕食する鳥を表します。", "example_en": "Eagles and hawks are raptorial birds.", "example_ja": "ワシやタカは猛禽である。" },
+      { "title": "② 「捕獲に適した脚」として", "desc": "獲物をつかむ器官を表します。", "example_en": "The mantis seizes prey with its raptorial forelegs.", "example_ja": "カマキリは捕獲用の前脚で獲物をつかむ。" }
+    ],
+    "warn": [
+      "raptorial は『猛禽の・捕食性の／獲物をつかむのに適した』。生物学の専門語。",
+      "raptor（猛禽・捕食恐竜）と同根。rapere（つかみ取る）由来で、rapid（速い）や rapture（歓喜）と同系。"
+    ],
+    "etym_note": "ラテン語 raptor（『奪う者・捕食者』、rapere「つかみ取る・奪う」より）＋ -ial から成り、「獲物をつかみ取る（性質の）」を意味します。rapacious（貪欲な）や ravage（荒らす）と同根です。",
+    "etym_chain": [
+      { "node": "rapere", "sub": "つかみ取る・奪う", "era": "ラテン語" },
+      { "node": "raptor", "sub": "奪う者・捕食者", "era": "ラテン語" },
+      { "node": "raptorial", "sub": "猛禽の・捕食性の", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "raptorial birds", "ja": "猛禽" },
+      { "en": "raptorial claws", "ja": "獲物をつかむかぎづめ" },
+      { "en": "raptorial forelegs", "ja": "捕獲用の前脚" },
+      { "en": "raptorial habits", "ja": "捕食性の習性" },
+      { "en": "a raptorial beak", "ja": "猛禽のくちばし" },
+      { "en": "raptorial insects", "ja": "捕食性の昆虫" }
+    ],
+    "related": [
+      { "en": "raptor", "ja": "猛禽・捕食者" },
+      { "en": "predatory", "ja": "捕食性の" },
+      { "en": "carnivorous", "ja": "肉食の" },
+      { "en": "rapacious", "ja": "貪欲な・略奪的な" }
+    ],
+    "faq": [
+      { "q": "raptorial とはどんな意味？", "a": "タカやワシのような『猛禽の・捕食性の』、また獲物を『つかむのに適した（脚・かぎづめ）』という生物学の形容詞です。Eagles are raptorial birds.（ワシは猛禽だ）のように使います。" },
+      { "q": "raptorial と raptor の関係は？", "a": "raptor は『猛禽・捕食者』という名詞、raptorial はその形容詞形で『猛禽の・捕食性の』です。どちらもラテン語 rapere（つかみ取る）が語源です。" }
+    ],
+    "quiz": [
+      { "q": "Eagles and hawks are ___ birds.（猛禽の）", "A": "raptorial", "B": "editorial の社説の", "C": "memorial の記念の", "D": "territorial の領土の", "correct": "A" },
+      { "q": "raptorial と語源が同じなのはどれ？", "A": "raptor（猛禽・捕食者）", "B": "rapport（関係）", "C": "report（報告）", "D": "repair（修理）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rubeola",
+    "pron": "ruːˈbiːələ",
+    "kana": "ルベオラ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "中世ラテン語 rubeola（赤み）、ラテン語 rubeus（赤い）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "医学・専門"],
+    "meaning_main": "麻疹（はしか）の医学名",
+    "description": "rubeola の意味・発音・例文・語源を解説。「麻疹（はしか）」を指す医学用語「ルベオラ」という語の使い方と、rubella（風疹）との違いを紹介します。",
+    "keywords": ["rubeola 意味", "rubeola 発音", "麻疹", "はしか"],
+    "meanings": [
+      { "hinshi": "【名詞】麻疹（はしか）", "note": "measles（はしか）の正式な医学名。発熱と全身の赤い発疹を伴うウイルス感染症。風疹（rubella）とは別の病気。" }
+    ],
+    "usages": [
+      { "title": "① 「医学名」として", "desc": "はしかを表します。", "example_en": "Rubeola, commonly called measles, is highly contagious.", "example_ja": "ルベオラ、一般にはしかと呼ばれる病気は非常に感染力が強い。" },
+      { "title": "② 「予防」として", "desc": "ワクチンを表します。", "example_en": "The MMR vaccine protects against rubeola.", "example_ja": "MMRワクチンは麻疹を予防する。" }
+    ],
+    "warn": [
+      "rubeola は『麻疹（はしか）』の医学名（＝measles）。風疹 rubella（三日はしか）と混同しないこと。",
+      "ラテン語 rubeus（赤い）由来で、赤い発疹にちなむ。"
+    ],
+    "etym_note": "中世ラテン語 rubeola（『（皮膚の）赤み』、ラテン語 rubeus「赤い」の指小形）に由来します。赤い発疹が出ることから。ruby（ルビー）や rubric（朱書き）と同じ赤を表す語根です。",
+    "etym_chain": [
+      { "node": "rubeus", "sub": "赤い", "era": "ラテン語" },
+      { "node": "rubeola", "sub": "赤み（皮膚の）", "era": "中世ラテン語" },
+      { "node": "rubeola", "sub": "麻疹（はしか）", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "rubeola (measles)", "ja": "ルベオラ（はしか）" },
+      { "en": "rubeola rash", "ja": "麻疹の発疹" },
+      { "en": "rubeola virus", "ja": "麻疹ウイルス" },
+      { "en": "diagnose rubeola", "ja": "麻疹と診断する" },
+      { "en": "rubeola vaccine", "ja": "麻疹ワクチン" },
+      { "en": "a case of rubeola", "ja": "麻疹の症例" }
+    ],
+    "related": [
+      { "en": "measles", "ja": "はしか・麻疹" },
+      { "en": "rubella", "ja": "風疹・三日はしか" },
+      { "en": "rash", "ja": "発疹" },
+      { "en": "vaccine", "ja": "ワクチン" }
+    ],
+    "faq": [
+      { "q": "rubeola とはどんな意味？", "a": "『麻疹（はしか）』を指す医学用語で、一般語の measles に当たります。Rubeola, commonly called measles, is highly contagious.（はしかは感染力が強い）のように使います。" },
+      { "q": "rubeola と rubella の違いは？", "a": "rubeola は『麻疹（はしか）』、rubella は『風疹（三日はしか）』で別の病気です。名前が似ているので医療現場でも区別が重要です。" }
+    ],
+    "quiz": [
+      { "q": "___, commonly called measles, is highly contagious.（はしか）", "A": "Rubeola", "B": "Rubella の風疹", "C": "Roseola の突発性発疹", "D": "Rubric の見出し", "correct": "A" },
+      { "q": "rubeola は一般に何と呼ばれる病気？", "A": "はしか（measles）", "B": "風疹", "C": "水ぼうそう", "D": "おたふくかぜ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rachitic",
+    "pron": "rəˈkɪtɪk",
+    "kana": "ラキティック",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "rachitis（くる病）、ギリシャ語 rhachis（背骨）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "医学・専門"],
+    "meaning_main": "くる病の・くる病にかかった",
+    "description": "rachitic の意味・発音・例文・語源を解説。ビタミンD不足などで骨が弱くなる「くる病の・くる病にかかった」という、医学で使う語の使い方を紹介します。",
+    "keywords": ["rachitic 意味", "rachitic 発音", "くる病の", "rickets 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】くる病の・くる病にかかった", "note": "くる病（rickets / rachitis）に関する、それにより骨が変形した。rachitic bones（くる病による変形した骨）。" }
+    ],
+    "usages": [
+      { "title": "① 「くる病による変形」として", "desc": "骨の状態を表します。", "example_en": "The child showed rachitic bowing of the legs.", "example_ja": "その子はくる病による脚の湾曲を示していた。" },
+      { "title": "② 「医学的記述」として", "desc": "病態を表します。", "example_en": "Rachitic changes appear on the X-ray.", "example_ja": "X線にくる病性の変化が現れている。" }
+    ],
+    "warn": [
+      "rachitic は『くる病の』。一般語 rickets（くる病）の形容詞形（学名 rachitis 由来）。",
+      "ビタミンD・カルシウム・リン不足で骨が軟化・変形する病気にちなむ。"
+    ],
+    "etym_note": "rachitis（『くる病』、ギリシャ語 rhachis「背骨・脊柱」より、背骨の病とされたことから）＋ -ic から成ります。rachis（葉軸・脊柱）と同じ語根です。",
+    "etym_chain": [
+      { "node": "rhachis", "sub": "背骨・脊柱", "era": "古代ギリシャ語" },
+      { "node": "rachitis", "sub": "くる病", "era": "近代ラテン語" },
+      { "node": "rachitic", "sub": "くる病の", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "rachitic bones", "ja": "くる病による骨" },
+      { "en": "rachitic deformity", "ja": "くる病性の変形" },
+      { "en": "rachitic legs", "ja": "くる病による脚" },
+      { "en": "rachitic changes", "ja": "くる病性の変化" },
+      { "en": "a rachitic child", "ja": "くる病の子" },
+      { "en": "rachitic rosary", "ja": "くる病性数珠状肋骨" }
+    ],
+    "related": [
+      { "en": "rickets", "ja": "くる病" },
+      { "en": "rachitis", "ja": "くる病（学名）" },
+      { "en": "vitamin D", "ja": "ビタミンD" },
+      { "en": "osteomalacia", "ja": "骨軟化症" }
+    ],
+    "faq": [
+      { "q": "rachitic とはどんな意味？", "a": "ビタミンD不足などで骨が弱く変形する『くる病の・くる病にかかった』という意味の医学用語です。rachitic bowing of the legs（くる病による脚の湾曲）のように使います。" },
+      { "q": "rachitic と rickets の関係は？", "a": "rickets（または学名 rachitis）が『くる病』という病名の名詞で、rachitic はその形容詞形『くる病の』です。" }
+    ],
+    "quiz": [
+      { "q": "The child showed ___ bowing of the legs.（くる病の）", "A": "rachitic", "B": "athletic の運動の", "C": "arthritic の関節炎の", "D": "aquatic の水生の", "correct": "A" },
+      { "q": "rachitic はどんな病気に関する語？", "A": "くる病（骨の病気）", "B": "風邪", "C": "皮膚炎", "D": "近視", "correct": "A" }
+    ]
+  },
+  {
+    "english": "redwing",
+    "pron": "ˈrɛdwɪŋ",
+    "kana": "レッドウィング",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "red（赤い）＋ wing（翼・わき腹）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "鳥・自然"],
+    "meaning_main": "（鳥）ワキアカツグミ／ハゴロモガラス",
+    "description": "redwing の意味・発音・例文・語源を解説。わき腹が赤い小型のツグミ「ワキアカツグミ」、北米では翼に赤い斑のある「ハゴロモガラス」を指す鳥の名の使い方を紹介します。",
+    "keywords": ["redwing 意味", "redwing 発音", "ワキアカツグミ", "ハゴロモガラス"],
+    "meanings": [
+      { "hinshi": "【名詞】ワキアカツグミ（欧）", "note": "ヨーロッパのツグミの一種。わき腹と翼の下が赤褐色。冬の渡り鳥。" },
+      { "hinshi": "【名詞】ハゴロモガラス（北米）", "note": "red-winged blackbird の略。雄は黒く、翼に赤と黄の肩章状の斑がある。湿地に多い。" }
+    ],
+    "usages": [
+      { "title": "① 欧「ワキアカツグミ」として", "desc": "渡り鳥を表します。", "example_en": "Flocks of redwings arrive in Britain each winter.", "example_ja": "ワキアカツグミの群れは毎冬イギリスにやって来る。" },
+      { "title": "② 北米「ハゴロモガラス」として", "desc": "湿地の鳥を表します。", "example_en": "A redwing called from the reeds by the marsh.", "example_ja": "ハゴロモガラスが沼のアシの中から鳴いた。" }
+    ],
+    "warn": [
+      "redwing は鳥の名で、欧では『ワキアカツグミ』、北米では『ハゴロモガラス（red-winged blackbird）』を指す。",
+      "靴ブランド名でもあるが、語の本来の意味は鳥。"
+    ],
+    "etym_note": "red（『赤い』）＋ wing（『翼・わき腹』）から成り、「赤い翼（またはわき）を持つ鳥」を意味します。翼やわき腹の赤い色が名の由来です。",
+    "etym_chain": [
+      { "node": "red + wing", "sub": "赤い＋翼", "era": "英語" },
+      { "node": "redwing", "sub": "赤い翼の鳥", "era": "中英語" },
+      { "node": "redwing", "sub": "ワキアカツグミ・ハゴロモガラス", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a flock of redwings", "ja": "ワキアカツグミの群れ" },
+      { "en": "a redwing in winter", "ja": "冬のワキアカツグミ" },
+      { "en": "the red-winged blackbird", "ja": "ハゴロモガラス" },
+      { "en": "a redwing's call", "ja": "レッドウィングの鳴き声" },
+      { "en": "spot a redwing", "ja": "ワキアカツグミを見つける" },
+      { "en": "redwings migrate", "ja": "ワキアカツグミが渡る" }
+    ],
+    "related": [
+      { "en": "thrush", "ja": "ツグミ" },
+      { "en": "blackbird", "ja": "クロウタドリ・ムクドリモドキ" },
+      { "en": "migratory", "ja": "渡りの" },
+      { "en": "songbird", "ja": "鳴き鳥" }
+    ],
+    "faq": [
+      { "q": "redwing とはどんな意味？", "a": "鳥の名で、ヨーロッパではわき腹が赤褐色の『ワキアカツグミ』、北米では翼に赤い斑のある『ハゴロモガラス』を指します。Flocks of redwings arrive in winter.（冬に群れがやって来る）のように使います。" },
+      { "q": "redwing はどんな鳥？", "a": "欧州のワキアカツグミはツグミの仲間の冬の渡り鳥、北米のハゴロモガラスは湿地にすむムクドリモドキの仲間です。どちらも赤い翼・わきが名の由来です。" }
+    ],
+    "quiz": [
+      { "q": "Flocks of ___s arrive in Britain each winter.（ワキアカツグミ）", "A": "redwing", "B": "redhead の赤毛", "C": "wingspan の翼幅", "D": "redwood のセコイア", "correct": "A" },
+      { "q": "redwing が指すものはどれ？", "A": "赤い翼・わきを持つ鳥", "B": "赤い花", "C": "赤い魚", "D": "赤い石", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rogation",
+    "pron": "rəʊˈɡeɪʃən",
+    "kana": "ロゲイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 rogatio（問うこと・願い）、rogare（尋ねる・願う）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "宗教・歴史"],
+    "meaning_main": "祈願・（教会の）連願（特にロゲーションの祈り）",
+    "description": "rogation の意味・発音・例文・語源を解説。神への「祈願・連願」、特にキリスト教でロゲーションデーに行う豊作祈願の連祷について、語の使い方を紹介します。",
+    "keywords": ["rogation 意味", "rogation 発音", "祈願", "連願"],
+    "meanings": [
+      { "hinshi": "【名詞】祈願・連願（れんがん）", "note": "神に願い求める祈り。特にキリスト教で、昇天祭前の Rogation Days（祈願日）に行う豊作・加護を願う行列と連祷。複数形 rogations。" }
+    ],
+    "usages": [
+      { "title": "① 「祈願の連祷」として", "desc": "教会の祈りを表します。", "example_en": "Villagers walked the fields during the rogation.", "example_ja": "村人たちは祈願日に畑を歩いて回った。" },
+      { "title": "② 「Rogation Days」として", "desc": "祈願日を表します。", "example_en": "Rogation Days were set aside to pray for the harvest.", "example_ja": "祈願日は収穫を祈るために定められた日だった。" }
+    ],
+    "warn": [
+      "rogation は『祈願・（教会の）連願』。特に Rogation Days（昇天祭前の祈願日）に関する宗教・歴史語。",
+      "ラテン語 rogare（尋ねる・願う）由来で、interrogate（尋問する）と同根。"
+    ],
+    "etym_note": "ラテン語 rogatio（『問うこと・願い』、rogare「尋ねる・願う」より）に由来します。神に願い『求める』ことから。interrogate（尋問する）、prerogative（特権）と同じ rogare の系統です。",
+    "etym_chain": [
+      { "node": "rogare", "sub": "尋ねる・願う", "era": "ラテン語" },
+      { "node": "rogatio", "sub": "問うこと・願い", "era": "ラテン語" },
+      { "node": "rogation", "sub": "祈願・連願", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "Rogation Days", "ja": "祈願日" },
+      { "en": "Rogation Sunday", "ja": "祈願の主日" },
+      { "en": "the rogation procession", "ja": "祈願の行列" },
+      { "en": "sing the rogations", "ja": "連願を唱える" },
+      { "en": "a rogation litany", "ja": "祈願の連祷" },
+      { "en": "rogation prayers", "ja": "祈願の祈り" }
+    ],
+    "related": [
+      { "en": "litany", "ja": "連祷" },
+      { "en": "supplication", "ja": "嘆願・祈願" },
+      { "en": "procession", "ja": "行列" },
+      { "en": "intercession", "ja": "とりなしの祈り" }
+    ],
+    "faq": [
+      { "q": "rogation とはどんな意味？", "a": "神に願い求める『祈願・連願』のことです。特にキリスト教で、昇天祭前の Rogation Days（祈願日）に豊作や加護を願って行う行列と連祷を指します。" },
+      { "q": "Rogation Days とは？", "a": "キリスト教暦で、主の昇天祭の前に置かれた祈願の日々です。畑を歩いて回り、収穫と土地の加護を祈る伝統的な行事が行われました。" }
+    ],
+    "quiz": [
+      { "q": "Villagers walked the fields during the ___.（祈願）", "A": "rogation", "B": "rotation の回転", "C": "ration の配給", "D": "ovation の喝采", "correct": "A" },
+      { "q": "rogation のもとになったラテン語 rogare の意味はどれ？", "A": "尋ねる・願う", "B": "戦う", "C": "建てる", "D": "歌う", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ravelin",
+    "pron": "ˈrævəlɪn",
+    "kana": "ラブリン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "イタリア語 rivellino、フランス語 ravelin より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "築城・歴史"],
+    "meaning_main": "半月堡（城壁前の三角形の防御施設）",
+    "description": "ravelin の意味・発音・例文・語源を解説。星形要塞などで城壁の前に築かれた三角形の独立した防御施設「半月堡（はんげつほ）・ラベリン」という語の使い方を紹介します。",
+    "keywords": ["ravelin 意味", "ravelin 発音", "半月堡", "要塞"],
+    "meanings": [
+      { "hinshi": "【名詞】半月堡（はんげつほ）・ラベリン", "note": "近世の星形要塞で、主城壁の前方・堀の中に築かれた三角形（V字）の独立した防御施設。城門や稜堡の間を守る。" }
+    ],
+    "usages": [
+      { "title": "① 「要塞の防御施設」として", "desc": "三角形の堡塁を表します。", "example_en": "Attackers had to take the ravelin before reaching the main wall.", "example_ja": "攻め手は主城壁に達する前に半月堡を落とさねばならなかった。" },
+      { "title": "② 「配置」として", "desc": "堀の中の位置を表します。", "example_en": "A ravelin stood in the moat before the gate.", "example_ja": "城門の前の堀の中に半月堡が築かれていた。" }
+    ],
+    "warn": [
+      "ravelin は『半月堡（城壁前の三角形の独立防御施設）』。築城・軍事史の専門語。",
+      "形は三角形（V字）で、demilune（半月堡）ともほぼ同義。"
+    ],
+    "etym_note": "イタリア語 rivellino を経てフランス語 ravelin に由来します。近世ヨーロッパの稜堡式（星形）要塞の発達とともに使われるようになった築城用語です。",
+    "etym_chain": [
+      { "node": "rivellino", "sub": "小さな防御施設", "era": "イタリア語" },
+      { "node": "ravelin", "sub": "半月堡", "era": "フランス語" },
+      { "node": "ravelin", "sub": "半月堡（築城）", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "take the ravelin", "ja": "半月堡を落とす" },
+      { "en": "a triangular ravelin", "ja": "三角形の半月堡" },
+      { "en": "the ravelin in the moat", "ja": "堀の中の半月堡" },
+      { "en": "defend the ravelin", "ja": "半月堡を守る" },
+      { "en": "a ravelin before the gate", "ja": "城門前の半月堡" },
+      { "en": "the outer ravelin", "ja": "外側の半月堡" }
+    ],
+    "related": [
+      { "en": "bastion", "ja": "稜堡・とりで" },
+      { "en": "demilune", "ja": "半月堡" },
+      { "en": "fortification", "ja": "要塞・防御施設" },
+      { "en": "moat", "ja": "堀" }
+    ],
+    "faq": [
+      { "q": "ravelin とはどんな意味？", "a": "近世の星形要塞で、主城壁の前方・堀の中に築かれた三角形の独立した防御施設『半月堡』のことです。Attackers had to take the ravelin first.（攻め手はまず半月堡を落とさねばならなかった）のように使います。" },
+      { "q": "ravelin と bastion の違いは？", "a": "bastion（稜堡）は主城壁の角から突き出た防御施設、ravelin（半月堡）は城壁の前方・堀の中に独立して築かれた三角形の施設です。役割と位置が異なります。" }
+    ],
+    "quiz": [
+      { "q": "Attackers had to take the ___ before reaching the main wall.（半月堡）", "A": "ravelin", "B": "javelin の投げやり", "C": "violin のバイオリン", "D": "gremlin の小悪魔", "correct": "A" },
+      { "q": "ravelin はどんな形の防御施設？", "A": "三角形（V字）", "B": "正円", "C": "正方形", "D": "六角形", "correct": "A" }
+    ]
+  }
+]
