@@ -1,0 +1,523 @@
+[
+  {
+    "english": "reactivation",
+    "pron": "riˌæktɪˈveɪʃən",
+    "kana": "リアクティベイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ activation（活性化・起動）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "IT・一般"],
+    "meaning_main": "再活性化・再有効化・（休止状態の）再開",
+    "description": "reactivation の意味・発音・例文・語源を解説。停止していたものを「再び動かす・再有効化・再活性化すること」という、ITや医学、一般で使う語の使い方を紹介します。動詞 reactivate も解説。",
+    "keywords": ["reactivation 意味", "reactivation 発音", "再活性化", "reactivate 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再活性化・再有効化・再開", "note": "休止・停止していたものを再び動かす・有効にすること。account reactivation（アカウントの再有効化）。ウイルスや細胞の再活性化にも使う。動詞は reactivate。" }
+    ],
+    "usages": [
+      { "title": "① IT「アカウント再有効化」として", "desc": "停止状態の再開を表します。", "example_en": "Reactivation of your account requires email verification.", "example_ja": "アカウントの再有効化にはメール認証が必要だ。" },
+      { "title": "② 医学「ウイルスの再活性化」として", "desc": "潜伏したものの再開を表します。", "example_en": "Stress can trigger the reactivation of the virus.", "example_ja": "ストレスはウイルスの再活性化を引き起こすことがある。" }
+    ],
+    "warn": [
+      "reactivation は『再活性化・再有効化・再開』。re-（再び）＋ activation。動詞は reactivate。",
+      "IT（アカウント）、医学（ウイルス・細胞）、一般（計画・組織）など幅広く使う。"
+    ],
+    "etym_note": "re-（再び）＋ activation（active「活発な」＋ -ate ＋ -ion、ラテン語 actus「行為」より）から成り、「再び活発にすること」を意味します。act（行う）や action（行動）と同じ actus の系統です。",
+    "etym_chain": [
+      { "node": "actus", "sub": "行為", "era": "ラテン語" },
+      { "node": "activation", "sub": "活性化・起動", "era": "近代英語" },
+      { "node": "reactivation", "sub": "再活性化", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "account reactivation", "ja": "アカウントの再有効化" },
+      { "en": "reactivation of the virus", "ja": "ウイルスの再活性化" },
+      { "en": "trigger reactivation", "ja": "再活性化を引き起こす" },
+      { "en": "reactivation of a plan", "ja": "計画の再開" },
+      { "en": "require reactivation", "ja": "再有効化を要する" },
+      { "en": "card reactivation", "ja": "カードの再有効化" }
+    ],
+    "related": [
+      { "en": "reactivate", "ja": "再活性化する・再有効化する" },
+      { "en": "activation", "ja": "活性化・起動" },
+      { "en": "reinstatement", "ja": "復職・復元" },
+      { "en": "revival", "ja": "復活・再生" }
+    ],
+    "faq": [
+      { "q": "reactivation とはどんな意味？", "a": "停止・休止していたものを『再び動かす・再有効化・再活性化すること』です。Reactivation of your account requires email verification.（アカウントの再有効化にはメール認証が必要）のように使います。動詞は reactivate です。" },
+      { "q": "reactivation はどんな場面で使う？", "a": "IT（アカウント・カードの再有効化）、医学（ウイルスや細胞の再活性化）、一般（計画・組織の再開）など、いったん止まったものを再び動かす幅広い場面で使われます。" }
+    ],
+    "quiz": [
+      { "q": "___ of your account requires email verification.（再有効化）", "A": "Reactivation", "B": "Recreation の娯楽", "C": "Reservation の予約", "D": "Reputation の評判", "correct": "A" },
+      { "q": "reactivation の動詞形はどれ？", "A": "reactivate（再活性化する）", "B": "recreate（再現する）", "C": "reserve（予約する）", "D": "relocate（移転する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "realignment",
+    "pron": "ˌriːəˈlaɪnmənt",
+    "kana": "リアラインメント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ alignment（整列・提携）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "政治・ビジネス"],
+    "meaning_main": "再編成・（勢力・関係の）再編・調整し直すこと",
+    "description": "realignment の意味・発音・例文・語源を解説。政治勢力や組織、関係などを「再編成する・並べ直す・調整し直すこと」という、政治やビジネスで使う語の使い方を紹介します。",
+    "keywords": ["realignment 意味", "realignment 発音", "再編成", "realign 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再編成・再編・調整し直すこと", "note": "勢力・関係・組織・位置などを新たに並べ直す・組み替えること。a political realignment（政治勢力の再編）。動詞は realign。" }
+    ],
+    "usages": [
+      { "title": "① 政治「勢力の再編」として", "desc": "政治地図の組み替えを表します。", "example_en": "The election marked a major political realignment.", "example_ja": "その選挙は大きな政治勢力の再編を示した。" },
+      { "title": "② 「組織・関係の再編」として", "desc": "関係の調整し直しを表します。", "example_en": "The company announced a realignment of its divisions.", "example_ja": "その会社は部門の再編を発表した。" }
+    ],
+    "warn": [
+      "realignment は『再編成・（勢力・関係の）再編・調整し直すこと』。re-（再び）＋ alignment。動詞は realign。",
+      "政治（勢力再編）・ビジネス（組織再編）・外交（提携の組み替え）・物理的な位置調整など幅広い。"
+    ],
+    "etym_note": "re-（再び）＋ alignment（align「一直線にする・提携させる」、フランス語 aligner、à ligne「線に沿って」より）から成り、「再び並べ直すこと」を意味します。line（線）と同じ語根です。",
+    "etym_chain": [
+      { "node": "ligne", "sub": "線", "era": "フランス語" },
+      { "node": "alignment", "sub": "整列・提携", "era": "近代英語" },
+      { "node": "realignment", "sub": "再編成・再編", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a political realignment", "ja": "政治勢力の再編" },
+      { "en": "a major realignment", "ja": "大きな再編" },
+      { "en": "a realignment of forces", "ja": "勢力の再編" },
+      { "en": "strategic realignment", "ja": "戦略的な再編" },
+      { "en": "wheel realignment", "ja": "（車の）ホイールアライメント調整" },
+      { "en": "a realignment of priorities", "ja": "優先順位の組み替え" }
+    ],
+    "related": [
+      { "en": "realign", "ja": "並べ直す・再編する" },
+      { "en": "alignment", "ja": "整列・提携" },
+      { "en": "restructuring", "ja": "（組織の）再構築" },
+      { "en": "reorganization", "ja": "再編成" }
+    ],
+    "faq": [
+      { "q": "realignment とはどんな意味？", "a": "勢力・関係・組織・位置などを『新たに並べ直す・組み替える・調整し直すこと（再編成・再編）』です。The election marked a major political realignment.（選挙は大きな政治勢力の再編を示した）のように使います。動詞は realign です。" },
+      { "q": "realignment と reorganization の違いは？", "a": "reorganization は『（組織の）作り直し・再編成』全般、realignment は『（勢力・関係・方向性などを）並べ直し・組み替えること』に重点があります。政治勢力の再編によく使われます。" }
+    ],
+    "quiz": [
+      { "q": "The election marked a major political ___.（再編）", "A": "realignment", "B": "retirement の引退", "C": "refinement の洗練", "D": "requirement の要件", "correct": "A" },
+      { "q": "realignment のもとになった alignment の意味はどれ？", "A": "整列・提携", "B": "支払い", "C": "騒音", "D": "祈り", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reappointment",
+    "pron": "ˌriːəˈpɔɪntmənt",
+    "kana": "リアポイントメント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ appointment（任命・指名）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "ビジネス・行政"],
+    "meaning_main": "再任・再任命",
+    "description": "reappointment の意味・発音・例文・語源を解説。役職などに「再び任命すること・再任」という、ビジネスや行政で使う語の使い方を紹介します。動詞 reappoint も解説。",
+    "keywords": ["reappointment 意味", "reappointment 発音", "再任", "reappoint 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再任・再任命", "note": "任期を終えた人を同じ役職・地位に再び任命すること。reappointment for a second term（2期目の再任）。動詞は reappoint。" }
+    ],
+    "usages": [
+      { "title": "① 「議長の再任」として", "desc": "役職への再任命を表します。", "example_en": "The board approved the chairman's reappointment.", "example_ja": "取締役会は議長の再任を承認した。" },
+      { "title": "② 「任期の更新」として", "desc": "再任を表します。", "example_en": "She is seeking reappointment for another term.", "example_ja": "彼女はもう一期の再任を目指している。" }
+    ],
+    "warn": [
+      "reappointment は『再任・再任命』。re-（再び）＋ appointment。動詞は reappoint。",
+      "選挙で選ばれる reelection（再選）と違い、reappointment は『任命によって再び就く』点が特徴。"
+    ],
+    "etym_note": "re-（再び）＋ appointment（appoint「任命する」、古フランス語 apointer「定める」、à point「適切な点に」より）から成り、「再び任命すること」を意味します。point（点）と同じ語根です。",
+    "etym_chain": [
+      { "node": "à point", "sub": "適切な点に", "era": "古フランス語" },
+      { "node": "appointment", "sub": "任命・指名", "era": "中英語" },
+      { "node": "reappointment", "sub": "再任・再任命", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "seek reappointment", "ja": "再任を目指す" },
+      { "en": "approve the reappointment", "ja": "再任を承認する" },
+      { "en": "reappointment for a second term", "ja": "2期目の再任" },
+      { "en": "a judge's reappointment", "ja": "裁判官の再任" },
+      { "en": "recommend reappointment", "ja": "再任を推薦する" },
+      { "en": "deny reappointment", "ja": "再任を認めない" }
+    ],
+    "related": [
+      { "en": "reappoint", "ja": "再任命する" },
+      { "en": "appointment", "ja": "任命・指名" },
+      { "en": "reelection", "ja": "再選" },
+      { "en": "tenure", "ja": "在職期間・終身在職権" }
+    ],
+    "faq": [
+      { "q": "reappointment とはどんな意味？", "a": "任期を終えた人を同じ役職・地位に『再び任命すること（再任・再任命）』です。The board approved the chairman's reappointment.（議長の再任を承認した）のように使います。動詞は reappoint です。" },
+      { "q": "reappointment と reelection の違いは？", "a": "reappointment は『（任命によって）再び役職に就くこと』、reelection は『（選挙によって）再び選ばれること』です。就任の手段（任命か選挙か）が異なります。" }
+    ],
+    "quiz": [
+      { "q": "The board approved the chairman's ___.（再任）", "A": "reappointment", "B": "disappointment の失望", "C": "appointment の最初の任命", "D": "assignment の任務", "correct": "A" },
+      { "q": "reappointment の動詞形はどれ？", "A": "reappoint（再任命する）", "B": "disappoint（失望させる）", "C": "appoint の最初の任命だけ", "D": "appraise（評価する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rearmament",
+    "pron": "riːˈɑːməmənt",
+    "kana": "リアーマメント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ armament（軍備・武装）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "軍事・歴史"],
+    "meaning_main": "再軍備・再武装",
+    "description": "rearmament の意味・発音・例文・語源を解説。一度縮小・解除した軍備を「再び備えること・再軍備・再武装」という、軍事や歴史で使う語の使い方を紹介します。動詞 rearm も解説。",
+    "keywords": ["rearmament 意味", "rearmament 発音", "再軍備", "rearm 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再軍備・再武装", "note": "縮小・放棄していた軍備を再び整えること。国家が武装を立て直す文脈で使う。動詞は rearm。反対は disarmament（軍縮）。" }
+    ],
+    "usages": [
+      { "title": "① 「国家の再軍備」として", "desc": "軍備の立て直しを表します。", "example_en": "The 1930s saw the rapid rearmament of several nations.", "example_ja": "1930年代はいくつかの国の急速な再軍備を見た。" },
+      { "title": "② 「再軍備の政策」として", "desc": "武装の再構築を表します。", "example_en": "Critics warned against a policy of rearmament.", "example_ja": "批評家は再軍備政策に警告した。" }
+    ],
+    "warn": [
+      "rearmament は『再軍備・再武装』。re-（再び）＋ armament。動詞は rearm。反対は disarmament（軍縮・軍備撤廃）。",
+      "歴史では1930年代のドイツなどの再軍備が有名。"
+    ],
+    "etym_note": "re-（再び）＋ armament（『軍備・武装』、ラテン語 armamentum「装備」、arma「武器」より）から成り、「再び武装を整えること」を意味します。army（軍隊）や arms（武器）と同じ arma の系統です。",
+    "etym_chain": [
+      { "node": "arma", "sub": "武器", "era": "ラテン語" },
+      { "node": "armament", "sub": "軍備・武装", "era": "近代英語" },
+      { "node": "rearmament", "sub": "再軍備・再武装", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "rapid rearmament", "ja": "急速な再軍備" },
+      { "en": "a policy of rearmament", "ja": "再軍備政策" },
+      { "en": "naval rearmament", "ja": "海軍の再軍備" },
+      { "en": "German rearmament", "ja": "ドイツの再軍備" },
+      { "en": "warn against rearmament", "ja": "再軍備に警告する" },
+      { "en": "rearmament and disarmament", "ja": "再軍備と軍縮" }
+    ],
+    "related": [
+      { "en": "rearm", "ja": "再武装する" },
+      { "en": "armament", "ja": "軍備・武装" },
+      { "en": "disarmament", "ja": "軍縮・軍備撤廃" },
+      { "en": "militarization", "ja": "軍事化" }
+    ],
+    "faq": [
+      { "q": "rearmament とはどんな意味？", "a": "一度縮小・放棄した軍備を『再び整えること（再軍備・再武装）』です。The 1930s saw the rapid rearmament of several nations.（1930年代は急速な再軍備を見た）のように使います。動詞は rearm です。" },
+      { "q": "rearmament の反対の語は？", "a": "disarmament（軍縮・軍備撤廃）です。rearmament が『軍備を再び増強すること』なのに対し、disarmament は『軍備を減らす・なくすこと』を意味します。" }
+    ],
+    "quiz": [
+      { "q": "The 1930s saw the rapid ___ of several nations.（再軍備）", "A": "rearmament", "B": "refreshment の軽食", "C": "requirement の要件", "D": "retirement の引退", "correct": "A" },
+      { "q": "rearmament の反対の意味の語はどれ？", "A": "disarmament（軍縮）", "B": "department（部門）", "C": "argument（議論）", "D": "ornament（装飾）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reassignment",
+    "pron": "ˌriːəˈsaɪnmənt",
+    "kana": "リアサインメント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ assignment（割り当て・配属）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "ビジネス・人事"],
+    "meaning_main": "再配置・配置転換・割り当て直し",
+    "description": "reassignment の意味・発音・例文・語源を解説。人や仕事を別の部署・任務に「割り当て直すこと・配置転換」という、人事やビジネスで使う語の使い方を紹介します。動詞 reassign も解説。",
+    "keywords": ["reassignment 意味", "reassignment 発音", "配置転換", "reassign 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再配置・配置転換・割り当て直し", "note": "人を別の部署・任務に配属し直すこと、また仕事・役割を割り当て直すこと。job reassignment（配置転換）。動詞は reassign。" }
+    ],
+    "usages": [
+      { "title": "① 「配置転換」として", "desc": "人の再配属を表します。", "example_en": "He requested a reassignment to another department.", "example_ja": "彼は別の部署への配置転換を願い出た。" },
+      { "title": "② 「任務の割り当て直し」として", "desc": "役割の組み替えを表します。", "example_en": "The reassignment of duties improved efficiency.", "example_ja": "職務の割り当て直しが効率を高めた。" }
+    ],
+    "warn": [
+      "reassignment は『再配置・配置転換・割り当て直し』。re-（再び）＋ assignment。動詞は reassign。",
+      "人事（配属換え）、業務（タスクの再割り当て）、IT（リソース・番号の再割り当て）などで使う。"
+    ],
+    "etym_note": "re-（再び）＋ assignment（assign「割り当てる」、ラテン語 assignare「印をつけて割り当てる」、ad-＋ signare「印をつける」より）から成り、「再び割り当てること」を意味します。sign（記号）や signal（合図）と同じ signare の系統です。",
+    "etym_chain": [
+      { "node": "assignare", "sub": "印をつけて割り当てる", "era": "ラテン語" },
+      { "node": "assignment", "sub": "割り当て・配属", "era": "中英語" },
+      { "node": "reassignment", "sub": "再配置・配置転換", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "job reassignment", "ja": "配置転換" },
+      { "en": "request a reassignment", "ja": "配置転換を願い出る" },
+      { "en": "reassignment of duties", "ja": "職務の割り当て直し" },
+      { "en": "a temporary reassignment", "ja": "一時的な配置転換" },
+      { "en": "reassignment to another team", "ja": "別チームへの再配置" },
+      { "en": "approve the reassignment", "ja": "配置転換を承認する" }
+    ],
+    "related": [
+      { "en": "reassign", "ja": "割り当て直す・配置転換する" },
+      { "en": "assignment", "ja": "割り当て・配属・課題" },
+      { "en": "transfer", "ja": "異動・転勤" },
+      { "en": "redeployment", "ja": "再配置・配置転換" }
+    ],
+    "faq": [
+      { "q": "reassignment とはどんな意味？", "a": "人を別の部署・任務に配属し直すこと、また仕事・役割を割り当て直すこと『再配置・配置転換・割り当て直し』です。He requested a reassignment to another department.（別の部署への配置転換を願い出た）のように使います。動詞は reassign です。" },
+      { "q": "reassignment と transfer の違いは？", "a": "transfer は『（部署・勤務地の）異動・転勤』全般、reassignment は『（任務・役割・配属を）割り当て直すこと』に重点があります。重なる部分も多くあります。" }
+    ],
+    "quiz": [
+      { "q": "He requested a ___ to another department.（配置転換）", "A": "reassignment", "B": "assessment の評価", "C": "assortment の詰め合わせ", "D": "amazement の驚き", "correct": "A" },
+      { "q": "reassignment の動詞形はどれ？", "A": "reassign（割り当て直す）", "B": "assess（査定する）", "C": "assist（手伝う）", "D": "assert（主張する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rebroadcast",
+    "pron": "ˌriːˈbrɔːdkɑːst",
+    "kana": "リブロードキャスト",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ broadcast（放送する）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "メディア・放送"],
+    "meaning_main": "再放送する・再放送",
+    "description": "rebroadcast の意味・発音・例文・語源を解説。番組などを「再放送する」、また「再放送（の番組）」という、メディアや放送で使う語の使い方を紹介します。",
+    "keywords": ["rebroadcast 意味", "rebroadcast 発音", "再放送", "broadcast 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再放送する・中継再送する", "note": "一度放送した番組を再び放送する、または受信した放送を別の経路で再び送る。rebroadcast the match（試合を再放送する）。過去形は rebroadcast。" },
+      { "hinshi": "【名詞】再放送", "note": "a rebroadcast of the concert（コンサートの再放送）。" }
+    ],
+    "usages": [
+      { "title": "① 「番組を再放送する」として", "desc": "再放送を表します。", "example_en": "The network rebroadcast the speech that evening.", "example_ja": "放送局はその晩、演説を再放送した。" },
+      { "title": "② 名詞「再放送」として", "desc": "再放送の番組を表します。", "example_en": "Many fans watched the rebroadcast.", "example_ja": "多くのファンが再放送を見た。" }
+    ],
+    "warn": [
+      "rebroadcast は『再放送する・再放送』。re-（再び）＋ broadcast。過去形・過去分詞は rebroadcast（broadcast と同じく無変化が一般的）。",
+      "再放送のほか、受信した放送を中継して再送する意味でも使う。"
+    ],
+    "etym_note": "re-（再び）＋ broadcast（broad「広い」＋ cast「投げる・まく」。もとは種を『ばらまく』意味で、転じて電波を広く送ること）から成り、「再び広く放送すること」を意味します。cast（投げる）と同じ語根です。",
+    "etym_chain": [
+      { "node": "broad + cast", "sub": "広い＋まく", "era": "英語" },
+      { "node": "broadcast", "sub": "放送する", "era": "20世紀英語" },
+      { "node": "rebroadcast", "sub": "再放送する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rebroadcast the match", "ja": "試合を再放送する" },
+      { "en": "a rebroadcast of the concert", "ja": "コンサートの再放送" },
+      { "en": "rebroadcast rights", "ja": "再放送権" },
+      { "en": "rebroadcast live", "ja": "生で中継再送する" },
+      { "en": "a delayed rebroadcast", "ja": "時間差の再放送" },
+      { "en": "rebroadcast the interview", "ja": "インタビューを再放送する" }
+    ],
+    "related": [
+      { "en": "broadcast", "ja": "放送する・放送" },
+      { "en": "rerun", "ja": "再放送" },
+      { "en": "air", "ja": "放送する" },
+      { "en": "syndicate", "ja": "（番組を）配給する" }
+    ],
+    "faq": [
+      { "q": "rebroadcast とはどんな意味？", "a": "一度放送した番組を『再放送する』、また受信した放送を中継して再び送ることです。The network rebroadcast the speech.（放送局は演説を再放送した）のように使います。名詞で『再放送』も表します。" },
+      { "q": "rebroadcast と rerun の違いは？", "a": "どちらも『再放送』を指せますが、rerun は特に『（ドラマ・番組の）再放送・再放映』、rebroadcast は『放送（電波で再び送ること）』に重点があり、生中継の再送なども含みます。" }
+    ],
+    "quiz": [
+      { "q": "The network ___ the speech that evening.（再放送した）", "A": "rebroadcast", "B": "broadcast の最初に放送するだけ", "C": "forecast の予報する", "D": "outcast ののけ者", "correct": "A" },
+      { "q": "rebroadcast の broadcast はもともとどんな意味？", "A": "（種を）広くまく→広く送る", "B": "高く積む", "C": "深く掘る", "D": "速く走る", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recalibration",
+    "pron": "ˌriːkælɪˈbreɪʃən",
+    "kana": "リキャリブレイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ calibration（較正・目盛り調整）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "技術・一般"],
+    "meaning_main": "再較正・調整し直すこと・見直し",
+    "description": "recalibration の意味・発音・例文・語源を解説。計器を「較正し直すこと・再較正」、また比喩で考えや基準を「調整し直すこと・見直し」という語の使い方を紹介します。動詞 recalibrate も解説。",
+    "keywords": ["recalibration 意味", "recalibration 発音", "再較正", "recalibrate 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再較正・調整し直すこと", "note": "計器・機器の目盛りや精度を正しく合わせ直すこと。また比喩で、期待・戦略・基準などを状況に応じて調整し直すこと。動詞は recalibrate。" }
+    ],
+    "usages": [
+      { "title": "① 技術「計器の再較正」として", "desc": "精度の調整し直しを表します。", "example_en": "The sensor needs recalibration every six months.", "example_ja": "そのセンサーは半年ごとに再較正が必要だ。" },
+      { "title": "② 比喩「考えの見直し」として", "desc": "基準の調整を表します。", "example_en": "The data forced a recalibration of our expectations.", "example_ja": "そのデータは私たちの期待の見直しを迫った。" }
+    ],
+    "warn": [
+      "recalibration は『再較正・調整し直すこと・見直し』。re-（再び）＋ calibration。動詞は recalibrate。",
+      "計器の物理的な較正だけでなく、比喩で『期待・戦略・基準の見直し』にもよく使う。"
+    ],
+    "etym_note": "re-（再び）＋ calibration（calibrate「目盛りを調整する」、calibre/caliber「口径」、アラビア語 qālib「鋳型」由来とされる）から成り、「再び正しく目盛りを合わせること」を意味します。",
+    "etym_chain": [
+      { "node": "qālib", "sub": "鋳型", "era": "アラビア語（由来説）" },
+      { "node": "calibration", "sub": "較正・目盛り調整", "era": "近代英語" },
+      { "node": "recalibration", "sub": "再較正・調整し直し", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "need recalibration", "ja": "再較正が必要だ" },
+      { "en": "recalibration of the instrument", "ja": "計器の再較正" },
+      { "en": "a recalibration of expectations", "ja": "期待の見直し" },
+      { "en": "strategic recalibration", "ja": "戦略の調整し直し" },
+      { "en": "require recalibration", "ja": "再較正を要する" },
+      { "en": "a recalibration of policy", "ja": "政策の見直し" }
+    ],
+    "related": [
+      { "en": "recalibrate", "ja": "再較正する・調整し直す" },
+      { "en": "calibration", "ja": "較正・目盛り調整" },
+      { "en": "adjustment", "ja": "調整" },
+      { "en": "fine-tuning", "ja": "微調整" }
+    ],
+    "faq": [
+      { "q": "recalibration とはどんな意味？", "a": "計器を『較正し直すこと（再較正）』、また比喩で期待・戦略・基準などを『調整し直すこと・見直し』です。The sensor needs recalibration.（そのセンサーは再較正が必要）/ a recalibration of expectations（期待の見直し）のように使います。動詞は recalibrate です。" },
+      { "q": "recalibration は計器以外にも使う？", "a": "はい。比喩で『期待・戦略・関係・基準などを状況に合わせて調整し直すこと』にもよく使われます。a recalibration of policy（政策の見直し）のように用います。" }
+    ],
+    "quiz": [
+      { "q": "The sensor needs ___ every six months.（再較正）", "A": "recalibration", "B": "celebration の祝賀", "C": "collaboration の協力", "D": "calculation の計算", "correct": "A" },
+      { "q": "recalibration の動詞形はどれ？", "A": "recalibrate（再較正する）", "B": "celebrate（祝う）", "C": "calculate（計算する）", "D": "collaborate（協力する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recantation",
+    "pron": "ˌriːkænˈteɪʃən",
+    "kana": "リカンテイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 recantare（取り消して歌う・撤回する）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "歴史・宗教"],
+    "meaning_main": "（信念・発言の）撤回・取り消し・改説",
+    "description": "recantation の意味・発音・例文・語源を解説。以前の信念や主張を公に「撤回・取り消すこと・改説」という、歴史や宗教で使う語の使い方を紹介します。動詞 recant も解説。",
+    "keywords": ["recantation 意味", "recantation 発音", "撤回", "recant 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】（信念・発言の）撤回・取り消し・改説", "note": "以前に公言した信念・主張・証言などを、公に誤りと認めて取り消すこと。特に圧力下での信仰や説の撤回。動詞は recant。" }
+    ],
+    "usages": [
+      { "title": "① 「説の撤回」として", "desc": "公の取り消しを表します。", "example_en": "Under pressure, the scientist signed a recantation of his theory.", "example_ja": "圧力のもと、その科学者は自説の撤回書に署名した。" },
+      { "title": "② 「証言の取り消し」として", "desc": "前言の撤回を表します。", "example_en": "The witness's recantation changed the case.", "example_ja": "証人の証言撤回が事件の様相を変えた。" }
+    ],
+    "warn": [
+      "recantation は『（信念・発言の）撤回・取り消し・改説』。動詞は recant。",
+      "歴史では、宗教裁判などで圧力を受けて信仰や説を撤回する文脈（ガリレオなど）が有名。"
+    ],
+    "etym_note": "ラテン語 recantare（『取り消して歌う・呪文を解く・撤回する』、re-（反対に）＋ cantare「歌う」より）に由来します。chant（詠唱する）や cantata（カンタータ）と同じ cantare の系統です。",
+    "etym_chain": [
+      { "node": "cantare", "sub": "歌う", "era": "ラテン語" },
+      { "node": "recantare", "sub": "取り消して歌う・撤回する", "era": "ラテン語" },
+      { "node": "recantation", "sub": "撤回・取り消し", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "sign a recantation", "ja": "撤回書に署名する" },
+      { "en": "a public recantation", "ja": "公の撤回" },
+      { "en": "force a recantation", "ja": "撤回を強いる" },
+      { "en": "a recantation of the theory", "ja": "説の撤回" },
+      { "en": "a witness's recantation", "ja": "証人の証言撤回" },
+      { "en": "demand a recantation", "ja": "撤回を求める" }
+    ],
+    "related": [
+      { "en": "recant", "ja": "（信念・説を）撤回する" },
+      { "en": "retraction", "ja": "（発言の）撤回・取り消し" },
+      { "en": "renunciation", "ja": "放棄・断念" },
+      { "en": "abjuration", "ja": "（誓っての）放棄・棄教" }
+    ],
+    "faq": [
+      { "q": "recantation とはどんな意味？", "a": "以前に公言した信念・主張・証言などを公に誤りと認めて『撤回・取り消すこと（改説）』です。The scientist signed a recantation of his theory.（自説の撤回書に署名した）のように使います。動詞は recant です。" },
+      { "q": "recantation と retraction の違いは？", "a": "retraction は『（発言・記事などの）撤回・取り消し』全般、recantation は特に『（信念・信仰・説を、しばしば圧力のもとで）公に撤回・改説すること』という重い響きがあります。" }
+    ],
+    "quiz": [
+      { "q": "Under pressure, the scientist signed a ___ of his theory.（撤回）", "A": "recantation", "B": "recitation の暗唱", "C": "reputation の評判", "D": "recreation の娯楽", "correct": "A" },
+      { "q": "recantation の動詞形はどれ？", "A": "recant（撤回する）", "B": "recite（暗唱する）", "C": "recruit（採用する）", "D": "recall（思い出す）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recombination",
+    "pron": "ˌriːkɒmbɪˈneɪʃən",
+    "kana": "リコンビネイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ combination（結合・組み合わせ）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "生物・化学"],
+    "meaning_main": "再結合・組み換え（特に遺伝子の組み換え）",
+    "description": "recombination の意味・発音・例文・語源を解説。要素を「再び組み合わせること・再結合」、特に生物学で「遺伝子の組み換え」という語の使い方を紹介します。動詞 recombine も解説。",
+    "keywords": ["recombination 意味", "recombination 発音", "遺伝子組み換え", "再結合"],
+    "meanings": [
+      { "hinshi": "【名詞】再結合・組み換え", "note": "要素を新しく組み合わせ直すこと。特に生物学で、染色体・遺伝子が新しい組み合わせを作る『遺伝的組み換え（genetic recombination）』。化学・物理でも『（電子と正孔などの）再結合』。動詞は recombine。" }
+    ],
+    "usages": [
+      { "title": "① 生物「遺伝子の組み換え」として", "desc": "遺伝情報の組み合わせを表します。", "example_en": "Genetic recombination creates new combinations of genes.", "example_ja": "遺伝的組み換えは遺伝子の新しい組み合わせを生む。" },
+      { "title": "② 「再結合」として", "desc": "要素の組み合わせ直しを表します。", "example_en": "Recombination of the fragments produced a new molecule.", "example_ja": "断片の再結合が新しい分子を生んだ。" }
+    ],
+    "warn": [
+      "recombination は『再結合・組み換え（特に遺伝子の組み換え）』。re-（再び）＋ combination。動詞は recombine。",
+      "生物（遺伝的組み換え）、化学・物理（電子・イオンの再結合）でよく使う科学語。"
+    ],
+    "etym_note": "re-（再び）＋ combination（combine「組み合わせる」、ラテン語 combinare「2つを合わせる」、com-＋ bini「2つずつ」より）から成り、「再び組み合わせること」を意味します。combine（結合する）と同じ語根です。",
+    "etym_chain": [
+      { "node": "combinare", "sub": "2つを合わせる", "era": "ラテン語" },
+      { "node": "combination", "sub": "結合・組み合わせ", "era": "中英語" },
+      { "node": "recombination", "sub": "再結合・組み換え", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "genetic recombination", "ja": "遺伝的組み換え" },
+      { "en": "DNA recombination", "ja": "DNAの組み換え" },
+      { "en": "homologous recombination", "ja": "相同組み換え" },
+      { "en": "recombination of genes", "ja": "遺伝子の組み換え" },
+      { "en": "electron-hole recombination", "ja": "電子と正孔の再結合" },
+      { "en": "the rate of recombination", "ja": "組み換えの頻度" }
+    ],
+    "related": [
+      { "en": "recombine", "ja": "再結合する・組み換える" },
+      { "en": "combination", "ja": "結合・組み合わせ" },
+      { "en": "mutation", "ja": "突然変異" },
+      { "en": "gene", "ja": "遺伝子" }
+    ],
+    "faq": [
+      { "q": "recombination とはどんな意味？", "a": "要素を『再び組み合わせること（再結合・組み換え）』、特に生物学で染色体・遺伝子が新しい組み合わせを作る『遺伝的組み換え』のことです。Genetic recombination creates new combinations of genes.（遺伝的組み換えは遺伝子の新しい組み合わせを生む）のように使います。" },
+      { "q": "遺伝的組み換え（recombination）の意義は？", "a": "親から受け継ぐ遺伝子が新しく組み合わさることで、子に多様性が生まれます。これは進化や品種改良、遺伝の仕組みを理解するうえで重要な現象です。" }
+    ],
+    "quiz": [
+      { "q": "Genetic ___ creates new combinations of genes.（組み換え）", "A": "recombination", "B": "recommendation の推薦", "C": "reconciliation の和解", "D": "recreation の娯楽", "correct": "A" },
+      { "q": "recombination の動詞形はどれ？", "A": "recombine（再結合する・組み換える）", "B": "recommend（推薦する）", "C": "reconcile（和解させる）", "D": "recover（回復する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reeducation",
+    "pron": "ˌriːɛdjʊˈkeɪʃən",
+    "kana": "リエデュケイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ education（教育）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "教育・社会"],
+    "meaning_main": "再教育・教え直すこと",
+    "description": "reeducation の意味・発音・例文・語源を解説。技能や考え方を「改めて教えること・再教育」という、教育や社会で使う語の使い方を紹介します。政治的な含みについても解説。",
+    "keywords": ["reeducation 意味", "reeducation 発音", "再教育", "education 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再教育・教え直すこと", "note": "技能・知識・考え方を改めて教えること。職業再教育（vocational reeducation）など。政治的文脈では、思想を強制的に改めさせる『思想改造』を婉曲に指すこともある。動詞は reeducate。re-education とも綴る。" }
+    ],
+    "usages": [
+      { "title": "① 「職業の再教育」として", "desc": "技能の学び直しを表します。", "example_en": "Workers received reeducation for new technologies.", "example_ja": "労働者は新技術のための再教育を受けた。" },
+      { "title": "② 「考え方の教え直し」として", "desc": "意識の更新を表します。", "example_en": "Public reeducation helped change attitudes toward recycling.", "example_ja": "市民への再教育がリサイクルへの意識を変えるのに役立った。" }
+    ],
+    "warn": [
+      "reeducation は『再教育・教え直すこと』。re-（再び）＋ education。動詞は reeducate。re-education とも綴る。",
+      "職業・社会教育の中立的な意味のほか、政治的に『思想改造（reeducation camp＝思想改造収容所）』を婉曲に指すこともある点に注意。"
+    ],
+    "etym_note": "re-（再び）＋ education（educate「教育する」、ラテン語 educare「育てる」、educere「導き出す」より）から成り、「再び教育すること」を意味します。educate（教育する）と同じ語根です。",
+    "etym_chain": [
+      { "node": "educare", "sub": "育てる", "era": "ラテン語" },
+      { "node": "education", "sub": "教育", "era": "中英語" },
+      { "node": "reeducation", "sub": "再教育", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "vocational reeducation", "ja": "職業再教育" },
+      { "en": "public reeducation", "ja": "市民への再教育" },
+      { "en": "undergo reeducation", "ja": "再教育を受ける" },
+      { "en": "a reeducation program", "ja": "再教育プログラム" },
+      { "en": "reeducation of the workforce", "ja": "労働力の再教育" },
+      { "en": "a reeducation camp", "ja": "思想改造収容所" }
+    ],
+    "related": [
+      { "en": "reeducate", "ja": "再教育する" },
+      { "en": "education", "ja": "教育" },
+      { "en": "retraining", "ja": "再訓練" },
+      { "en": "rehabilitation", "ja": "更生・社会復帰" }
+    ],
+    "faq": [
+      { "q": "reeducation とはどんな意味？", "a": "技能・知識・考え方を『改めて教えること（再教育）』です。Workers received reeducation for new technologies.（労働者は新技術の再教育を受けた）のように使います。動詞は reeducate です。" },
+      { "q": "reeducation には注意すべき含みがある？", "a": "はい。職業・社会教育の中立的な意味のほか、政治的文脈では『思想を強制的に改めさせる思想改造（reeducation camp）』を婉曲に指すことがあり、文脈に注意が必要です。" }
+    ],
+    "quiz": [
+      { "q": "Workers received ___ for new technologies.（再教育）", "A": "reeducation", "B": "reservation の予約", "C": "recreation の娯楽", "D": "reputation の評判", "correct": "A" },
+      { "q": "reeducation の動詞形はどれ？", "A": "reeducate（再教育する）", "B": "reserve（予約する）", "C": "recreate（再現する）", "D": "relocate（移転する）", "correct": "A" }
+    ]
+  }
+]
