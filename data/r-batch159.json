@@ -1,0 +1,526 @@
+[
+  {
+    "english": "reminiscent",
+    "pron": "ˌrɛmɪˈnɪsənt",
+    "kana": "レミニセント",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 reminisci（思い出す）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "一般・文章"],
+    "meaning_main": "（〜を）思い出させる・しのばせる",
+    "description": "reminiscent の意味・発音・例文・語源を解説。何かが別のものを「思い出させる・しのばせる」、また人が「昔をなつかしむ」という語の使い方を紹介します。reminiscent of の形を解説。",
+    "keywords": ["reminiscent 意味", "reminiscent 発音", "思い出させる", "reminisce 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】（〜を）思い出させる・しのばせる", "note": "be reminiscent of ... の形で『〜を思い出させる・〜を思わせる』。The smell was reminiscent of summer.（その匂いは夏を思い出させた）。" },
+      { "hinshi": "【形容詞】昔をなつかしむ", "note": "（人が）思い出にふける。in a reminiscent mood（追憶に浸った気分で）。" }
+    ],
+    "usages": [
+      { "title": "① 「〜を思わせる」として", "desc": "類似による連想を表します。", "example_en": "The music is reminiscent of the 1980s.", "example_ja": "その音楽は1980年代を思い出させる。" },
+      { "title": "② 「なつかしむ」として", "desc": "追憶を表します。", "example_en": "She grew reminiscent as she looked at the old photos.", "example_ja": "彼女は古い写真を見て昔をなつかしんだ。" }
+    ],
+    "warn": [
+      "reminiscent は『（〜を）思い出させる・しのばせる』。be reminiscent of ... の形が基本。",
+      "ラテン語 reminisci（思い出す）由来。動詞 reminisce（思い出を語る）と同じ語根。"
+    ],
+    "etym_note": "ラテン語 reminisci（『思い出す』、re-＋ minisci「心に留める」、mens「心」より）に由来します。mind（心）、mental（精神の）、memory（記憶）と意味的につながる語根です。",
+    "etym_chain": [
+      { "node": "reminisci", "sub": "思い出す", "era": "ラテン語" },
+      { "node": "reminiscent", "sub": "思い出させる", "era": "近代英語" },
+      { "node": "reminisce", "sub": "思い出を語る", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "reminiscent of ...", "ja": "〜を思い出させる" },
+      { "en": "reminiscent of the past", "ja": "過去を思わせる" },
+      { "en": "strongly reminiscent of ...", "ja": "強く〜を思わせる" },
+      { "en": "a reminiscent smile", "ja": "なつかしむような笑み" },
+      { "en": "reminiscent of home", "ja": "故郷を思い出させる" },
+      { "en": "in a reminiscent mood", "ja": "追憶に浸った気分で" }
+    ],
+    "related": [
+      { "en": "reminisce", "ja": "思い出を語る・なつかしむ" },
+      { "en": "reminiscence", "ja": "回想・思い出" },
+      { "en": "evocative", "ja": "（記憶などを）呼び起こす" },
+      { "en": "nostalgic", "ja": "郷愁を誘う" }
+    ],
+    "faq": [
+      { "q": "reminiscent とはどんな意味？", "a": "何かが別のものを『思い出させる・しのばせる』という意味の形容詞です。be reminiscent of ... の形で使います。The music is reminiscent of the 1980s.（その音楽は1980年代を思い出させる）のように使います。" },
+      { "q": "reminiscent of の使い方は？", "a": "「A is reminiscent of B（AはBを思い出させる・思わせる）」の形で使います。AとBが似ていて連想を呼ぶときに用いる、文章でよく使う表現です。" }
+    ],
+    "quiz": [
+      { "q": "The music is ___ of the 1980s.（思い出させる）", "A": "reminiscent", "B": "magnificent の壮大な", "C": "innocent の無邪気な", "D": "consistent の一貫した", "correct": "A" },
+      { "q": "reminiscent と同じ語根を持つ動詞はどれ？", "A": "reminisce（思い出を語る）", "B": "remind の類義ではなく resign（辞職する）", "C": "remove（取り除く）", "D": "remain（とどまる）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "riverboat",
+    "pron": "ˈrɪvəbəʊt",
+    "kana": "リバーボート",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "river（川）＋ boat（船）",
+    "ld_level": "準1級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "乗り物・観光"],
+    "meaning_main": "川船・リバーボート（川を行く船）",
+    "description": "riverboat の意味・発音・例文・語源を解説。川を航行する船「川船・リバーボート」という語の使い方と、ミシシッピ川の外輪船など歴史的な川船を紹介します。",
+    "keywords": ["riverboat 意味", "riverboat 発音", "川船", "リバーボート"],
+    "meanings": [
+      { "hinshi": "【名詞】川船・リバーボート", "note": "川を航行する船。特にアメリカのミシシッピ川などを行き来した外輪船（paddle steamer）が有名。観光・遊覧やカジノ船にも使われる。" }
+    ],
+    "usages": [
+      { "title": "① 「川の遊覧船」として", "desc": "川を行く船を表します。", "example_en": "We took a riverboat cruise down the Mississippi.", "example_ja": "私たちはミシシッピ川を下るリバーボートの遊覧に乗った。" },
+      { "title": "② 「歴史的な外輪船」として", "desc": "昔の川船を表します。", "example_en": "Old riverboats carried cotton and passengers upriver.", "example_ja": "昔の川船は綿花や乗客を川上へ運んだ。" }
+    ],
+    "warn": [
+      "riverboat は『川船・リバーボート』。river（川）＋ boat（船）。",
+      "アメリカの外輪船（paddle steamer）として特に有名。観光・カジノ船にも使う。"
+    ],
+    "etym_note": "river（『川』、ラテン語 riparia「川岸」より）＋ boat（『船』、古英語 bāt より）から成り、「川を行く船」を意味します。",
+    "etym_chain": [
+      { "node": "river + boat", "sub": "川＋船", "era": "英語" },
+      { "node": "riverboat", "sub": "川船", "era": "近代英語" },
+      { "node": "riverboat", "sub": "リバーボート", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a riverboat cruise", "ja": "リバーボートの遊覧" },
+      { "en": "a paddle riverboat", "ja": "外輪式の川船" },
+      { "en": "board the riverboat", "ja": "リバーボートに乗る" },
+      { "en": "a riverboat captain", "ja": "川船の船長" },
+      { "en": "a riverboat casino", "ja": "カジノ船" },
+      { "en": "an old riverboat", "ja": "古い川船" }
+    ],
+    "related": [
+      { "en": "boat", "ja": "船・ボート" },
+      { "en": "steamboat", "ja": "蒸気船" },
+      { "en": "ferry", "ja": "フェリー・渡し船" },
+      { "en": "paddle steamer", "ja": "外輪船" }
+    ],
+    "faq": [
+      { "q": "riverboat とはどんな意味？", "a": "川を航行する船『川船・リバーボート』のことです。We took a riverboat cruise down the Mississippi.（ミシシッピ川を下るリバーボートに乗った）のように使います。" },
+      { "q": "riverboat はどんな船が有名？", "a": "アメリカのミシシッピ川などを行き来した外輪船（paddle steamer）が特に有名です。綿花や乗客を運び、現在は観光やカジノ船としても親しまれています。" }
+    ],
+    "quiz": [
+      { "q": "We took a ___ cruise down the Mississippi.（リバーボート）", "A": "riverboat", "B": "lifeboat の救命ボート", "C": "sailboat のヨット", "D": "tugboat のタグボート", "correct": "A" },
+      { "q": "riverboat は何と何を合わせた語？", "A": "river（川）と boat（船）", "B": "river と coat", "C": "rover と boat", "D": "river と boot", "correct": "A" }
+    ]
+  },
+  {
+    "english": "riverfront",
+    "pron": "ˈrɪvəfrʌnt",
+    "kana": "リバーフロント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "river（川）＋ front（前面・面した部分）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "都市・地理"],
+    "meaning_main": "川沿いの地区・川に面した一帯",
+    "description": "riverfront の意味・発音・例文・語源を解説。都市などで川に面した区域「川沿いの地区・リバーフロント」という、都市や地理で使う語の使い方を紹介します。",
+    "keywords": ["riverfront 意味", "riverfront 発音", "川沿いの地区", "リバーフロント"],
+    "meanings": [
+      { "hinshi": "【名詞】川沿いの地区・川に面した一帯", "note": "都市や町で、川に面した区域。遊歩道・公園・店・住宅などが並ぶ。形容詞的にも使う（a riverfront park＝川沿いの公園）。" }
+    ],
+    "usages": [
+      { "title": "① 「川沿いの地区」として", "desc": "川に面した区域を表します。", "example_en": "The city revitalized its riverfront with parks and cafés.", "example_ja": "市は公園やカフェで川沿いの地区を再生した。" },
+      { "title": "② 「川に面した物件」として", "desc": "立地を表します。", "example_en": "They bought a riverfront apartment with a great view.", "example_ja": "彼らは眺めの良い川沿いのアパートを買った。" }
+    ],
+    "warn": [
+      "riverfront は『川沿いの地区・川に面した一帯』。river（川）＋ front（前面）。",
+      "海沿いは waterfront / seafront、川沿いは riverfront と使い分ける。"
+    ],
+    "etym_note": "river（『川』）＋ front（『前面・正面』、ラテン語 frons「額・前面」より）から成り、「川に面した前面」を意味します。waterfront（水際の地区）と同じ front の使い方です。",
+    "etym_chain": [
+      { "node": "river + front", "sub": "川＋前面", "era": "英語" },
+      { "node": "riverfront", "sub": "川に面した一帯", "era": "近代英語" },
+      { "node": "riverfront", "sub": "川沿いの地区", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a riverfront park", "ja": "川沿いの公園" },
+      { "en": "the city riverfront", "ja": "市の川沿い地区" },
+      { "en": "a riverfront apartment", "ja": "川沿いのアパート" },
+      { "en": "develop the riverfront", "ja": "川沿いを開発する" },
+      { "en": "a riverfront walkway", "ja": "川沿いの遊歩道" },
+      { "en": "along the riverfront", "ja": "川沿いに沿って" }
+    ],
+    "related": [
+      { "en": "waterfront", "ja": "水際の地区・海岸通り" },
+      { "en": "riverbank", "ja": "川岸" },
+      { "en": "riverside", "ja": "川辺・川沿いの" },
+      { "en": "promenade", "ja": "遊歩道" }
+    ],
+    "faq": [
+      { "q": "riverfront とはどんな意味？", "a": "都市や町で川に面した区域『川沿いの地区・リバーフロント』のことです。The city revitalized its riverfront.（市は川沿いの地区を再生した）のように使います。形容詞的に a riverfront park（川沿いの公園）とも使います。" },
+      { "q": "riverfront と waterfront の違いは？", "a": "riverfront は『川に面した地区』、waterfront は『（海・湖・川など）水に面した地区全般』です。海沿いは特に seafront とも言います。" }
+    ],
+    "quiz": [
+      { "q": "The city revitalized its ___ with parks and cafés.（川沿いの地区）", "A": "riverfront", "B": "forefront の最前線", "C": "storefront の店頭", "D": "waterfall の滝", "correct": "A" },
+      { "q": "riverfront の front はどんな意味？", "A": "前面・面した部分", "B": "戦線だけ", "C": "額", "D": "天気図の前線", "correct": "A" }
+    ]
+  },
+  {
+    "english": "roadshow",
+    "pron": "ˈrəʊdʃəʊ",
+    "kana": "ロードショー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "road（道・巡業）＋ show（興行・公演）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "ビジネス・興行"],
+    "meaning_main": "巡業公演・各地を回る説明会（ロードショー）",
+    "description": "roadshow の意味・発音・例文・語源を解説。各地を回って行う公演や、企業が投資家向けに各地で行う説明会「ロードショー」という、興行やビジネスで使う語の使い方を紹介します。",
+    "keywords": ["roadshow 意味", "roadshow 発音", "巡業公演", "投資家向け説明会"],
+    "meanings": [
+      { "hinshi": "【名詞】巡業公演・各地を回る催し", "note": "劇団・楽団・展示などが各地を回って行う公演・催し。" },
+      { "hinshi": "【名詞】（金融）ロードショー", "note": "企業が新規上場や社債発行の前に、各地で投資家に行う説明会・宣伝活動。" }
+    ],
+    "usages": [
+      { "title": "① 「巡業」として", "desc": "各地を回る公演を表します。", "example_en": "The band took their new album on a roadshow across Europe.", "example_ja": "バンドは新アルバムを携えてヨーロッパ巡業に出た。" },
+      { "title": "② 金融「投資家向け説明会」として", "desc": "上場前の説明を表します。", "example_en": "The company held a roadshow to attract investors before the IPO.", "example_ja": "その会社は新規上場の前に投資家を呼び込む説明会を開いた。" }
+    ],
+    "warn": [
+      "roadshow は『巡業公演／（金融）各地を回る投資家向け説明会』。road（道・巡業）＋ show。",
+      "日本語の『ロードショー（映画の封切り上映）』とは意味がずれるので注意。"
+    ],
+    "etym_note": "road（『道・巡業』、古英語 rād「乗ること・道」より）＋ show（『興行・見せること』）から成り、「各地を回って見せる催し」を意味します。on the road（巡業中で）の road と同じです。",
+    "etym_chain": [
+      { "node": "road + show", "sub": "巡業＋興行", "era": "英語" },
+      { "node": "roadshow", "sub": "巡業公演", "era": "近代英語" },
+      { "node": "roadshow", "sub": "投資家向け説明会", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "go on a roadshow", "ja": "巡業に出る" },
+      { "en": "a marketing roadshow", "ja": "各地を回る宣伝活動" },
+      { "en": "an IPO roadshow", "ja": "新規上場のロードショー" },
+      { "en": "a product roadshow", "ja": "製品の巡回説明会" },
+      { "en": "hold a roadshow", "ja": "ロードショーを開く" },
+      { "en": "a national roadshow", "ja": "全国巡回の催し" }
+    ],
+    "related": [
+      { "en": "tour", "ja": "巡業・ツアー" },
+      { "en": "presentation", "ja": "発表・説明会" },
+      { "en": "IPO", "ja": "新規株式公開" },
+      { "en": "showcase", "ja": "披露・展示" }
+    ],
+    "faq": [
+      { "q": "roadshow とはどんな意味？", "a": "劇団や楽団が各地を回る『巡業公演』、また企業が上場前に各地で投資家に行う『説明会（ロードショー）』のことです。The company held a roadshow before the IPO.（上場前に説明会を開いた）のように使います。" },
+      { "q": "英語の roadshow と日本語の『ロードショー』は同じ？", "a": "やや違います。英語の roadshow は『各地を回る巡業・説明会』を指しますが、日本語の『ロードショー』は主に『映画の封切り上映』を意味します。" }
+    ],
+    "quiz": [
+      { "q": "The company held a ___ to attract investors before the IPO.（説明会）", "A": "roadshow", "B": "rainbow の虹", "C": "shadow の影", "D": "window の窓", "correct": "A" },
+      { "q": "金融での roadshow とは？", "A": "投資家向けの各地を回る説明会", "B": "道路工事の発表", "C": "新車の試乗会", "D": "映画の封切り", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rearview",
+    "pron": "ˈrɪəvjuː",
+    "kana": "リアビュー",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "rear（後ろ）＋ view（眺め・視界）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "車・日常"],
+    "meaning_main": "後方視界の（rearview mirror＝バックミラー）",
+    "description": "rearview の意味・発音・例文・語源を解説。車の後方の視界に関する「後方視界の」という語と、rearview mirror（バックミラー）という日常表現の使い方を紹介します。",
+    "keywords": ["rearview 意味", "rearview 発音", "バックミラー", "rearview mirror"],
+    "meanings": [
+      { "hinshi": "【形容詞】後方視界の・後ろを映す", "note": "主に rearview mirror（車の後方を映す『バックミラー＝ルームミラー』）の形で使う。和製英語『バックミラー』は英語では rearview mirror。" },
+      { "hinshi": "【名詞】後方の眺め", "note": "比喩で in the rearview（過ぎ去ったもの）。" }
+    ],
+    "usages": [
+      { "title": "① 「バックミラー」として", "desc": "後方を映す鏡を表します。", "example_en": "He glanced in the rearview mirror before changing lanes.", "example_ja": "彼は車線変更の前にバックミラーをちらりと見た。" },
+      { "title": "② 比喩「過ぎ去ったもの」として", "desc": "後にした物事を表します。", "example_en": "That tough year is now in the rearview.", "example_ja": "あのつらい一年はもう過去のものだ。" }
+    ],
+    "warn": [
+      "rearview は主に rearview mirror（バックミラー＝ルームミラー）で使う。和製英語の『バックミラー』は英語では rearview mirror。",
+      "rear（後ろ）＋ view（視界）。比喩で『過去・過ぎ去ったこと』にも使う。"
+    ],
+    "etym_note": "rear（『後ろ・後方』、古フランス語 rere「後ろ」、ラテン語 retro より）＋ view（『眺め・視界』、フランス語 veue、ラテン語 videre「見る」より）から成り、「後方の視界」を意味します。",
+    "etym_chain": [
+      { "node": "rear + view", "sub": "後ろ＋眺め", "era": "英語" },
+      { "node": "rearview", "sub": "後方視界の", "era": "近代英語" },
+      { "node": "rearview mirror", "sub": "バックミラー", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the rearview mirror", "ja": "バックミラー" },
+      { "en": "glance in the rearview", "ja": "バックミラーをちらりと見る" },
+      { "en": "adjust the rearview mirror", "ja": "バックミラーを調整する" },
+      { "en": "in the rearview", "ja": "過去のものとなって" },
+      { "en": "check the rearview", "ja": "後方を確認する" },
+      { "en": "the rearview camera", "ja": "バックカメラ" }
+    ],
+    "related": [
+      { "en": "rear", "ja": "後ろ・後方" },
+      { "en": "mirror", "ja": "鏡" },
+      { "en": "side mirror", "ja": "サイドミラー" },
+      { "en": "blind spot", "ja": "死角" }
+    ],
+    "faq": [
+      { "q": "rearview とはどんな意味？", "a": "車の後方の視界に関する語で、主に rearview mirror（後方を映す『バックミラー＝ルームミラー』）の形で使います。He glanced in the rearview mirror.（バックミラーをちらりと見た）のように使います。" },
+      { "q": "『バックミラー』は英語で何という？", "a": "rearview mirror です。back mirror は和製英語的で通じにくく、車内中央のミラーは rearview mirror、左右のものは side mirror（wing mirror）と言います。" }
+    ],
+    "quiz": [
+      { "q": "He glanced in the ___ mirror before changing lanes.（バックミラー）", "A": "rearview", "B": "preview の予告", "C": "overview の概観", "D": "interview の面接", "correct": "A" },
+      { "q": "rearview は何と何を合わせた語？", "A": "rear（後ろ）と view（眺め）", "B": "real と view", "C": "rear と few", "D": "near と view", "correct": "A" }
+    ]
+  },
+  {
+    "english": "racewalk",
+    "pron": "ˈreɪswɔːk",
+    "kana": "レースウォーク",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "race（競走）＋ walk（歩く）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "スポーツ・陸上"],
+    "meaning_main": "競歩する・競歩",
+    "description": "racewalk の意味・発音・例文・語源を解説。常に片足が地面につくよう速く歩く陸上競技「競歩（する）」という、スポーツで使う語の使い方とルールを紹介します。",
+    "keywords": ["racewalk 意味", "racewalk 発音", "競歩", "race walking"],
+    "meanings": [
+      { "hinshi": "【動詞】競歩する", "note": "競歩（race walking）を行う。常にどちらかの足が地面に接していなければならない（両足が同時に地面を離れると反則）陸上競技。名詞・動名詞は racewalking。" },
+      { "hinshi": "【名詞】競歩", "note": "その競技そのもの。" }
+    ],
+    "usages": [
+      { "title": "① 「競歩をする」として", "desc": "速く歩く競技を表します。", "example_en": "She trains to racewalk twenty kilometers.", "example_ja": "彼女は20キロの競歩のために練習している。" },
+      { "title": "② 「競技種目」として", "desc": "陸上の種目を表します。", "example_en": "Racewalking is an Olympic athletics event.", "example_ja": "競歩はオリンピックの陸上種目だ。" }
+    ],
+    "warn": [
+      "racewalk は『競歩する・競歩』。race（競走）＋ walk（歩く）。名詞形は racewalking。",
+      "常に片足が地面につき、前脚は接地から垂直になるまでまっすぐ伸ばす、という独特のルールがある。"
+    ],
+    "etym_note": "race（『競走』、古ノルド語 rás「走り・流れ」より）＋ walk（『歩く』、古英語 wealcan「転がる・歩く」より）から成り、「（走らずに）歩いて競うこと」を意味します。",
+    "etym_chain": [
+      { "node": "race + walk", "sub": "競走＋歩く", "era": "英語" },
+      { "node": "race walking", "sub": "競歩", "era": "近代英語" },
+      { "node": "racewalk", "sub": "競歩する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "racewalk twenty kilometers", "ja": "20キロを競歩する" },
+      { "en": "learn to racewalk", "ja": "競歩を学ぶ" },
+      { "en": "a racewalking event", "ja": "競歩の種目" },
+      { "en": "a racewalk technique", "ja": "競歩のフォーム" },
+      { "en": "a competitive racewalker", "ja": "競歩の選手" },
+      { "en": "racewalk for fitness", "ja": "健康のため競歩する" }
+    ],
+    "related": [
+      { "en": "race walking", "ja": "競歩" },
+      { "en": "athletics", "ja": "陸上競技" },
+      { "en": "stride", "ja": "大股で歩く・歩幅" },
+      { "en": "marathon", "ja": "マラソン" }
+    ],
+    "faq": [
+      { "q": "racewalk とはどんな意味？", "a": "常にどちらかの足が地面についた状態で速く歩く陸上競技『競歩（する）』のことです。She trains to racewalk twenty kilometers.（20キロの競歩のため練習している）のように使います。名詞形は racewalking です。" },
+      { "q": "競歩のルールは？", "a": "両足が同時に地面を離れてはならず（離れると反則）、前に出す脚は接地してから体の真下にくるまでまっすぐ伸ばす必要があります。このルールが普通の歩きや走りと区別します。" }
+    ],
+    "quiz": [
+      { "q": "She trains to ___ twenty kilometers.（競歩する）", "A": "racewalk", "B": "jaywalk の信号無視で渡る", "C": "boardwalk の遊歩道", "D": "sidewalk の歩道", "correct": "A" },
+      { "q": "競歩の基本ルールはどれ？", "A": "常に片足が地面についている", "B": "両足で跳ねてよい", "C": "走ってもよい", "D": "後ろ向きに歩く", "correct": "A" }
+    ]
+  },
+  {
+    "english": "raggedy",
+    "pron": "ˈræɡɪdi",
+    "kana": "ラギディ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ragged（ぼろぼろの）＋ -y",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "口語・描写"],
+    "meaning_main": "ぼろぼろの・みすぼらしい（くだけた語）",
+    "description": "raggedy の意味・発音・例文・語源を解説。服や物が「ぼろぼろの・みすぼらしい」という、口語的で親しみのある語の使い方を紹介します。ragged との違いも解説。",
+    "keywords": ["raggedy 意味", "raggedy 発音", "ぼろぼろの", "ragged 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】ぼろぼろの・みすぼらしい", "note": "服や布、髪などがすり切れて乱れた、みすぼらしい。ragged（ぼろぼろの）のくだけた・親しみのある言い方。Raggedy Ann（ぼろ人形のキャラクター）でも知られる。" }
+    ],
+    "usages": [
+      { "title": "① 「ぼろぼろの服」として", "desc": "すり切れた様子を表します。", "example_en": "The scarecrow wore a raggedy old coat.", "example_ja": "かかしはぼろぼろの古い上着を着ていた。" },
+      { "title": "② 「乱れた様子」として", "desc": "だらしない見た目を表します。", "example_en": "His hair was raggedy after weeks in the wild.", "example_ja": "何週間も野外で過ごした後、彼の髪は乱れてぼさぼさだった。" }
+    ],
+    "warn": [
+      "raggedy は『ぼろぼろの・みすぼらしい』。ragged（ぼろぼろの）＋ -y。くだけた・親しみのある口語。",
+      "ragged は発音が2音節（ラギッド）、raggedy は3音節（ラギディ）。"
+    ],
+    "etym_note": "ragged（『ぼろぼろの・すり切れた』、rag「ぼろ切れ」、古ノルド語 rögg「房・毛羽」より）＋ -y（形容詞語尾）から成り、「ぼろっぽい」を意味します。rag（ぼろ）と同じ語根です。",
+    "etym_chain": [
+      { "node": "rögg", "sub": "房・毛羽", "era": "古ノルド語" },
+      { "node": "ragged", "sub": "ぼろぼろの", "era": "中英語" },
+      { "node": "raggedy", "sub": "ぼろぼろの・みすぼらしい", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a raggedy old coat", "ja": "ぼろぼろの古い上着" },
+      { "en": "raggedy clothes", "ja": "ぼろぼろの服" },
+      { "en": "a raggedy doll", "ja": "ぼろ人形" },
+      { "en": "raggedy hair", "ja": "ぼさぼさの髪" },
+      { "en": "look raggedy", "ja": "みすぼらしく見える" },
+      { "en": "a raggedy edge", "ja": "ぎざぎざにすり切れた端" }
+    ],
+    "related": [
+      { "en": "ragged", "ja": "ぼろぼろの・すり切れた" },
+      { "en": "rag", "ja": "ぼろ切れ・ぞうきん" },
+      { "en": "tattered", "ja": "ぼろぼろになった" },
+      { "en": "shabby", "ja": "みすぼらしい" }
+    ],
+    "faq": [
+      { "q": "raggedy とはどんな意味？", "a": "服や物が『ぼろぼろの・みすぼらしい』という意味の、くだけた親しみのある形容詞です。The scarecrow wore a raggedy old coat.（かかしはぼろぼろの古い上着を着ていた）のように使います。" },
+      { "q": "raggedy と ragged の違いは？", "a": "意味はほぼ同じ『ぼろぼろの』ですが、raggedy はより口語的・親しみのある言い方です。ぼろ人形のキャラクター Raggedy Ann でも知られます。" }
+    ],
+    "quiz": [
+      { "q": "The scarecrow wore a ___ old coat.（ぼろぼろの）", "A": "raggedy", "B": "comedy の喜劇", "C": "remedy の治療", "D": "melody の旋律", "correct": "A" },
+      { "q": "raggedy のもとになった形容詞はどれ？", "A": "ragged（ぼろぼろの）", "B": "rugged（でこぼこの）", "C": "rigid（堅い）", "D": "ragtime（ラグタイム）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "runaround",
+    "pron": "ˈrʌnəraʊnd",
+    "kana": "ランアラウンド",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "run（走る・回す）＋ around（あちこち）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "口語・慣用"],
+    "meaning_main": "（the runaround で）言い逃れ・たらい回し",
+    "description": "runaround の意味・発音・例文・語源を解説。give someone the runaround の形で「言い逃れをする・たらい回しにする・はぐらかす」という、口語の慣用表現の使い方を紹介します。",
+    "keywords": ["runaround 意味", "runaround 発音", "たらい回し", "言い逃れ"],
+    "meanings": [
+      { "hinshi": "【名詞】言い逃れ・はぐらかし・たらい回し", "note": "主に give someone the runaround の形で『（人を）はぐらかす・言い逃れであしらう・あちこちたらい回しにする』。誠実に答えず逃げる対応を指す口語。" }
+    ],
+    "usages": [
+      { "title": "① 「はぐらかされる」として", "desc": "誠実でない対応を表します。", "example_en": "Every time I call customer service, I get the runaround.", "example_ja": "カスタマーサービスに電話するたびに、はぐらかされる。" },
+      { "title": "② 「たらい回し」として", "desc": "あちこち回される様子を表します。", "example_en": "The office gave us the runaround for weeks.", "example_ja": "その役所は何週間も私たちをたらい回しにした。" }
+    ],
+    "warn": [
+      "runaround は主に give someone the runaround の形で『はぐらかす・言い逃れであしらう・たらい回しにする』。",
+      "誠実な答えを与えず、あちこち回したり言い訳したりして逃げる対応を指す口語。"
+    ],
+    "etym_note": "run（『走る・走らせる・回す』、古英語 rinnan より）＋ around（『あちこち・周りを』）から成り、「（人を）あちこち走り回らせる＝たらい回しにする」イメージから来ています。",
+    "etym_chain": [
+      { "node": "run + around", "sub": "走る＋あちこち", "era": "英語" },
+      { "node": "runaround", "sub": "走り回らせること", "era": "近代英語" },
+      { "node": "the runaround", "sub": "言い逃れ・たらい回し", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "give someone the runaround", "ja": "〜をはぐらかす・たらい回しにする" },
+      { "en": "get the runaround", "ja": "はぐらかされる" },
+      { "en": "the usual runaround", "ja": "いつものはぐらかし" },
+      { "en": "tired of the runaround", "ja": "たらい回しにうんざりして" },
+      { "en": "a bureaucratic runaround", "ja": "お役所的なたらい回し" },
+      { "en": "no more runaround", "ja": "もう言い逃れはなしだ" }
+    ],
+    "related": [
+      { "en": "evade", "ja": "（質問などを）はぐらかす・逃れる" },
+      { "en": "stall", "ja": "引き延ばす・はぐらかす" },
+      { "en": "brush off", "ja": "あしらう・はねつける" },
+      { "en": "dodge", "ja": "（巧みに）かわす" }
+    ],
+    "faq": [
+      { "q": "runaround とはどんな意味？", "a": "主に give someone the runaround の形で『（人を）はぐらかす・言い逃れであしらう・たらい回しにする』という意味の口語です。Every time I call, I get the runaround.（電話するたびにはぐらかされる）のように使います。" },
+      { "q": "give someone the runaround の使い方は？", "a": "「The company gave me the runaround.（その会社は私をたらい回しにした）」のように、相手が誠実に答えず逃げたり回したりする対応を非難するときに使います。" }
+    ],
+    "quiz": [
+      { "q": "Every time I call customer service, I get the ___.（はぐらかし）", "A": "runaround", "B": "background の背景", "C": "playground の遊び場", "D": "underground の地下", "correct": "A" },
+      { "q": "give someone the runaround はどんな意味？", "A": "はぐらかす・たらい回しにする", "B": "親切に案内する", "C": "賞金を与える", "D": "一緒に走る", "correct": "A" }
+    ]
+  },
+  {
+    "english": "resizable",
+    "pron": "ˌriːˈsaɪzəbəl",
+    "kana": "リサイザブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "resize（大きさを変える）＋ -able（〜できる）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "IT・日常"],
+    "meaning_main": "大きさを変えられる・サイズ変更できる",
+    "description": "resizable の意味・発音・例文・語源を解説。ウィンドウや画像、指輪などの「大きさを変えられる・サイズ変更できる」という、ITや日常で使う語の使い方を紹介します。",
+    "keywords": ["resizable 意味", "resizable 発音", "サイズ変更できる", "resize 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】大きさを変えられる・サイズ変更できる", "note": "サイズを自由に変更できる。a resizable window（大きさを変えられるウィンドウ）。ITで特によく使う。指輪などにも使う。動詞は resize。" }
+    ],
+    "usages": [
+      { "title": "① IT「ウィンドウのサイズ変更」として", "desc": "画面要素の調整を表します。", "example_en": "The app has a resizable window.", "example_ja": "そのアプリは大きさを変えられるウィンドウを持つ。" },
+      { "title": "② 「指輪のサイズ直し」として", "desc": "物の寸法調整を表します。", "example_en": "Most rings are resizable by a jeweler.", "example_ja": "たいていの指輪は宝石店でサイズ直しができる。" }
+    ],
+    "warn": [
+      "resizable は『大きさを変えられる・サイズ変更できる』。resize（大きさを変える）＋ -able。",
+      "IT（ウィンドウ・画像）でよく使うが、指輪・服などにも使える。"
+    ],
+    "etym_note": "resize（re-「再び」＋ size「大きさ・寸法にする」、古フランス語 sise、assise「定め・寸法」より）＋ -able（『〜できる』）から成り、「大きさを変えられる」を意味します。size（大きさ）と同じ語根です。",
+    "etym_chain": [
+      { "node": "size", "sub": "大きさ・寸法", "era": "中英語" },
+      { "node": "resize", "sub": "大きさを変える", "era": "近代英語" },
+      { "node": "resizable", "sub": "大きさを変えられる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a resizable window", "ja": "大きさを変えられるウィンドウ" },
+      { "en": "a resizable image", "ja": "サイズ変更できる画像" },
+      { "en": "easily resizable", "ja": "簡単にサイズ変更できる" },
+      { "en": "a resizable ring", "ja": "サイズ直しできる指輪" },
+      { "en": "a resizable panel", "ja": "大きさを変えられるパネル" },
+      { "en": "fully resizable", "ja": "自由にサイズ変更できる" }
+    ],
+    "related": [
+      { "en": "resize", "ja": "大きさを変える" },
+      { "en": "scalable", "ja": "拡大縮小できる" },
+      { "en": "adjustable", "ja": "調整できる" },
+      { "en": "size", "ja": "大きさ・寸法" }
+    ],
+    "faq": [
+      { "q": "resizable とはどんな意味？", "a": "ウィンドウや画像、指輪などの『大きさを変えられる・サイズ変更できる』という意味の形容詞です。The app has a resizable window.（大きさを変えられるウィンドウを持つ）のように使います。動詞は resize です。" },
+      { "q": "resizable と scalable の違いは？", "a": "resizable は『（手動などで）大きさを変えられる』、scalable は『（拡大・縮小しても破綻せず）規模を変えられる』に重点があります。ITでは scalable は性能の拡張性も指します。" }
+    ],
+    "quiz": [
+      { "q": "The app has a ___ window.（大きさを変えられる）", "A": "resizable", "B": "reasonable の妥当な", "C": "remarkable の注目すべき", "D": "removable の取り外せる", "correct": "A" },
+      { "q": "resizable のもとになった動詞はどれ？", "A": "resize（大きさを変える）", "B": "realize（実現する）", "C": "revise（改訂する）", "D": "reside（住む）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "relatability",
+    "pron": "rɪˌleɪtəˈbɪləti",
+    "kana": "リレイタビリティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "relatable（共感できる）＋ -ity（性質）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "一般・メディア"],
+    "meaning_main": "共感しやすさ・親しみやすさ",
+    "description": "relatability の意味・発音・例文・語源を解説。登場人物や話などに「自分を重ねて共感しやすい度合い・親しみやすさ」という、メディアや対人で使う語の使い方を紹介します。",
+    "keywords": ["relatability 意味", "relatability 発音", "共感しやすさ", "relatable 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】共感しやすさ・親しみやすさ", "note": "人物・物語・発言などに、自分を重ねて『わかる・共感できる』と感じられる度合い。形容詞 relatable（共感できる・親しみやすい）の名詞形。近年よく使われる語。" }
+    ],
+    "usages": [
+      { "title": "① 「キャラクターの共感性」として", "desc": "感情移入のしやすさを表します。", "example_en": "The character's relatability made the film a hit.", "example_ja": "その登場人物の共感しやすさが映画をヒットさせた。" },
+      { "title": "② 「親しみやすさ」として", "desc": "身近に感じられる度合いを表します。", "example_en": "Her relatability is why so many fans love her.", "example_ja": "彼女の親しみやすさが、多くのファンに愛される理由だ。" }
+    ],
+    "warn": [
+      "relatability は『共感しやすさ・親しみやすさ』。relatable（共感できる）＋ -ity。",
+      "relate to ...（〜に共感する・自分を重ねる）という用法から生まれた、比較的新しい語。"
+    ],
+    "etym_note": "relate（『関係づける・共感する』、ラテン語 relatus「持ち帰られた」、referre「持ち帰る・関係づける」より）＋ -able ＋ -ity から成り、「自分に関係づけて共感できる度合い」を意味します。relation（関係）と同じ語根です。",
+    "etym_chain": [
+      { "node": "relatus", "sub": "持ち帰られた・関係づけられた", "era": "ラテン語" },
+      { "node": "relatable", "sub": "共感できる・親しみやすい", "era": "現代英語" },
+      { "node": "relatability", "sub": "共感しやすさ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the character's relatability", "ja": "登場人物の共感しやすさ" },
+      { "en": "lack relatability", "ja": "共感しにくい" },
+      { "en": "a sense of relatability", "ja": "親しみやすさ" },
+      { "en": "increase relatability", "ja": "共感しやすさを高める" },
+      { "en": "relatability and charm", "ja": "共感性と魅力" },
+      { "en": "her relatability", "ja": "彼女の親しみやすさ" }
+    ],
+    "related": [
+      { "en": "relatable", "ja": "共感できる・親しみやすい" },
+      { "en": "relate", "ja": "共感する・関係づける" },
+      { "en": "empathy", "ja": "共感・感情移入" },
+      { "en": "approachability", "ja": "近づきやすさ" }
+    ],
+    "faq": [
+      { "q": "relatability とはどんな意味？", "a": "人物・物語・発言などに自分を重ねて『共感しやすい度合い・親しみやすさ』という意味です。The character's relatability made the film a hit.（登場人物の共感しやすさが映画をヒットさせた）のように使います。形容詞は relatable です。" },
+      { "q": "relatable とはどう使う？", "a": "『（自分の経験に重ねて）共感できる・あるあると感じる』という意味で、a relatable character（共感できる登場人物）や That's so relatable.（すごくわかる）のように使います。relatability はその名詞形です。" }
+    ],
+    "quiz": [
+      { "q": "The character's ___ made the film a hit.（共感しやすさ）", "A": "relatability", "B": "reliability の信頼性", "C": "readability の読みやすさ", "D": "availability の利用可能性", "correct": "A" },
+      { "q": "relatability のもとになった形容詞はどれ？", "A": "relatable（共感できる）", "B": "reliable（信頼できる）", "C": "readable（読みやすい）", "D": "reasonable（妥当な）", "correct": "A" }
+    ]
+  }
+]
