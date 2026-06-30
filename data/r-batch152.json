@@ -1,54 +1,54 @@
 [
   {
-    "english": "ribald",
-    "pron": "ˈrɪbəld",
-    "kana": "リバルド",
-    "hinshi": "形容詞",
-    "ld_pos": "形容詞",
-    "ld_etym": "古フランス語 ribaud（放蕩者）、riber（みだらに振る舞う）より",
+    "english": "ruction",
+    "pron": "ˈrʌkʃən",
+    "kana": "ラクション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "由来不確か（insurrection などの短縮説あり）",
     "ld_level": "1級",
-    "badges": ["大学生〜", "英検1級", "CEFR C2", "文学・古風"],
-    "meaning_main": "下品で滑稽な・きわどく品のない",
-    "description": "ribald の意味・発音・例文・語源を解説。性的に「下品で滑稽な・きわどく品のない」という、ユーモアや言葉について使う語の使い方を紹介します。発音の注意点も解説。",
-    "keywords": ["ribald 意味", "ribald 発音", "下品で滑稽な", "きわどい"],
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "口語・英国"],
+    "meaning_main": "騒動・口論・もめごと",
+    "description": "ruction の意味・発音・例文・語源を解説。激しい「騒動・口論・もめごと」という、主に英国・アイルランドで使う口語の使い方を紹介します。しばしば複数形 ructions で使います。",
+    "keywords": ["ruction 意味", "ruction 発音", "騒動", "口論"],
     "meanings": [
-      { "hinshi": "【形容詞】下品で滑稽な・きわどく品のない", "note": "性的な事柄を露骨かつおどけて扱う。ribald humor（下品で笑える冗談）。名詞 ribaldry（下品な言動）。発音はリバルド（リボールドではない）。" }
+      { "hinshi": "【名詞】騒動・口論・もめごと", "note": "激しい言い争いや騒ぎ。しばしば複数形 ructions で『大もめ・大騒ぎ』。主に英国・アイルランドの口語。" }
     ],
     "usages": [
-      { "title": "① 「下品な冗談」として", "desc": "きわどいユーモアを表します。", "example_en": "The tavern rang with ribald songs and laughter.", "example_ja": "酒場は下品な歌と笑い声で響いていた。" },
-      { "title": "② 「品のない話」として", "desc": "露骨な言葉を表します。", "example_en": "He was famous for his ribald sense of humor.", "example_ja": "彼は下品で笑えるユーモアで有名だった。" }
+      { "title": "① 「もめごと」として", "desc": "激しい騒ぎを表します。", "example_en": "There will be ructions if the plan is cancelled.", "example_ja": "その計画が中止されれば大もめになるだろう。" },
+      { "title": "② 「口論」として", "desc": "言い争いを表します。", "example_en": "The decision caused ructions within the committee.", "example_ja": "その決定は委員会内で騒動を引き起こした。" }
     ],
     "warn": [
-      "ribald は『下品で滑稽な・きわどく品のない』。発音はリバルド（i は短く、リボールドではない）。",
-      "名詞は ribaldry（下品な言動・冗談）。単に下品なだけでなく『おどけた・陽気な』ニュアンスがある。"
+      "ruction は『騒動・口論・もめごと』。しばしば複数形 ructions で使う。主に英国・アイルランドの口語。",
+      "cause ructions（もめごとを起こす）の形が定番。"
     ],
-    "etym_note": "古フランス語 ribaud（『放蕩者・下層の従者』、riber「みだらに振る舞う・浮かれる」より）に由来します。もとは『身分の低い無頼の者』を指し、のちに『下品で滑稽な』という形容詞になりました。",
+    "etym_note": "語源は不確かですが、insurrection（暴動）や eruption（噴出）などの語尾が短縮・変化してできたという説があります。19世紀から騒ぎ・もめごとを表す口語として使われています。",
     "etym_chain": [
-      { "node": "riber", "sub": "みだらに振る舞う", "era": "古フランス語" },
-      { "node": "ribaud", "sub": "放蕩者", "era": "古フランス語" },
-      { "node": "ribald", "sub": "下品で滑稽な", "era": "中英語" }
+      { "node": "insurrection（説）", "sub": "暴動", "era": "ラテン語系" },
+      { "node": "ruction", "sub": "騒動・もめごと", "era": "19世紀英語" },
+      { "node": "ructions", "sub": "大もめ・大騒ぎ", "era": "現代英語" }
     ],
     "phrases": [
-      { "en": "ribald humor", "ja": "下品で笑える冗談" },
-      { "en": "a ribald joke", "ja": "きわどい冗談" },
-      { "en": "ribald songs", "ja": "下品な歌" },
-      { "en": "ribald laughter", "ja": "下品な笑い" },
-      { "en": "a ribald tale", "ja": "きわどい話" },
-      { "en": "ribald wit", "ja": "下品で滑稽な機知" }
+      { "en": "cause ructions", "ja": "騒動を起こす" },
+      { "en": "there will be ructions", "ja": "大もめになるだろう" },
+      { "en": "ructions in the family", "ja": "家庭内のもめごと" },
+      { "en": "a bit of a ruction", "ja": "ちょっとした騒ぎ" },
+      { "en": "ructions broke out", "ja": "もめごとが起きた" },
+      { "en": "lead to ructions", "ja": "騒動につながる" }
     ],
     "related": [
-      { "en": "bawdy", "ja": "下品な・猥雑な" },
-      { "en": "raunchy", "ja": "きわどい・下品な" },
-      { "en": "coarse", "ja": "粗野な・下品な" },
-      { "en": "ribaldry", "ja": "下品な言動・冗談" }
+      { "en": "commotion", "ja": "騒動・動揺" },
+      { "en": "uproar", "ja": "大騒ぎ・騒動" },
+      { "en": "quarrel", "ja": "口論・けんか" },
+      { "en": "fracas", "ja": "乱闘・騒動" }
     ],
     "faq": [
-      { "q": "ribald とはどんな意味？", "a": "性的な事柄を露骨かつおどけて扱う『下品で滑稽な・きわどく品のない』という意味の形容詞です。ribald humor（下品で笑える冗談）のように使います。名詞は ribaldry です。" },
-      { "q": "ribald と bawdy の違いは？", "a": "意味は近く、どちらも『下品で猥雑な』ですが、ribald は特に『陽気でおどけた下品さ』のニュアンスがあります。中世文学の卑俗で笑える内容によく使われます。" }
+      { "q": "ruction とはどんな意味？", "a": "激しい『騒動・口論・もめごと』という意味の、主に英国・アイルランドの口語です。しばしば複数形 ructions で使います。There will be ructions if the plan is cancelled.（中止されれば大もめになる）のように使います。" },
+      { "q": "ruction はどう使うことが多い？", "a": "複数形 ructions で『大もめ・大騒ぎ』を表すことが多く、cause ructions（もめごとを起こす）や There will be ructions.（ひと悶着あるぞ）のように使われます。" }
     ],
     "quiz": [
-      { "q": "The tavern rang with ___ songs and laughter.（下品で滑稽な）", "A": "ribald", "B": "ribbon のリボン", "C": "rebuild の再建する", "D": "reliable の信頼できる", "correct": "A" },
-      { "q": "ribald の名詞形はどれ？", "A": "ribaldry（下品な言動）", "B": "ribaldness のみ", "C": "ribaldion", "D": "ribaldity", "correct": "A" }
+      { "q": "There will be ___s if the plan is cancelled.（騒動）", "A": "ruction", "B": "auction の競売", "C": "function の機能", "D": "fiction の小説", "correct": "A" },
+      { "q": "ruction の意味に近いのはどれ？", "A": "commotion（騒動）", "B": "celebration（祝賀）", "C": "vacation（休暇）", "D": "education（教育）", "correct": "A" }
     ]
   },
   {
