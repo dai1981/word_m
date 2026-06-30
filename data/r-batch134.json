@@ -1,0 +1,525 @@
+[
+  {
+    "english": "recommence",
+    "pron": "ˌriːkəˈmens",
+    "kana": "リコメンス",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ commence（始める）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "ややフォーマル"],
+    "meaning_main": "再開する・また始める・始め直す",
+    "description": "recommence の意味・発音・例文・語源を解説。中断していた活動・作業などを「再開する・また始める」という、ややフォーマルな動詞の使い方を分かりやすく紹介します。",
+    "keywords": ["recommence 意味", "recommence 発音", "再開する", "commence 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再開する・また始める・始め直す", "note": "いったん止まった活動・作業を再び始める。やや硬い語。Work recommenced after the break.（休憩のあと作業が再開した）。" }
+    ],
+    "usages": [
+      { "title": "① 「作業を再開する」として", "desc": "中断したものを再び始めることを表します。", "example_en": "Talks will recommence next week.", "example_ja": "会談は来週再開される。" },
+      { "title": "② 「また始める」として", "desc": "活動を始め直すことを表します。", "example_en": "The factory recommenced production.", "example_ja": "その工場は生産を再開した。" }
+    ],
+    "warn": [
+      "recommence は『再開する・また始める』。re-（再び）＋ commence（始める）。ややフォーマル。日常では restart / resume が普通。",
+      "自動詞（再開する）・他動詞（〜を再開する）どちらでも使う。"
+    ],
+    "etym_note": "re-（再び）＋ commence（『始める』、古フランス語 comencier「始める」、ラテン語 cum-「共に」＋ initiare「始める」より）から成り、「再び始めること」を意味します。commencement（開始・卒業式）と同じ語根です。",
+    "etym_chain": [
+      { "node": "comencier", "sub": "始める", "era": "古フランス語" },
+      { "node": "commence", "sub": "始める", "era": "中英語" },
+      { "node": "recommence", "sub": "再開する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "recommence work", "ja": "作業を再開する" },
+      { "en": "talks recommence", "ja": "会談が再開する" },
+      { "en": "recommence production", "ja": "生産を再開する" },
+      { "en": "recommence after a break", "ja": "休憩のあと再開する" },
+      { "en": "recommence operations", "ja": "業務を再開する" },
+      { "en": "recommence negotiations", "ja": "交渉を再開する" }
+    ],
+    "related": [
+      { "en": "commence", "ja": "始める" },
+      { "en": "resume", "ja": "再開する" },
+      { "en": "restart", "ja": "再び始める" },
+      { "en": "cease", "ja": "やめる（反対）" }
+    ],
+    "faq": [
+      { "q": "recommence とはどんな意味？", "a": "中断していた活動・作業などを『再開する・また始める・始め直す』という、ややフォーマルな動詞です。Talks will recommence next week.（会談は来週再開される）のように使います。" },
+      { "q": "recommence と resume の違いは？", "a": "意味はほぼ同じ『再開する』ですが、recommence は『（最初からまた）始める』ニュアンスがやや強く、resume は『（中断したところから）続きを始める』ニュアンスがあります。どちらもフォーマルです。" }
+    ],
+    "quiz": [
+      { "q": "Talks will ___ next week.（再開される）", "A": "recommence", "B": "commence の最初に始めるだけ", "C": "comment のコメントする", "D": "command の命令する", "correct": "A" },
+      { "q": "recommence のもとになった動詞はどれ？", "A": "commence（始める）", "B": "comment（コメントする）", "C": "command（命令する）", "D": "compete（競争する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reflectivity",
+    "pron": "ˌriːflekˈtɪvəti",
+    "kana": "リフレクティビティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "reflective（反射する）＋ -ity（性質）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "理科・物理"],
+    "meaning_main": "反射率・反射能（表面が光や電波を反射する度合い）",
+    "description": "reflectivity の意味・発音・例文・語源を解説。物の表面が光や電波をどれだけ反射するかの度合い「反射率・反射能」を表す、物理・気象で使う名詞を紹介します。",
+    "keywords": ["reflectivity 意味", "reflectivity 発音", "反射率", "reflective 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】反射率・反射能", "note": "表面が光・電波・放射をどれだけ反射するかの度合い。high reflectivity（高い反射率）。気象レーダーの『反射強度』にも使う。" }
+    ],
+    "usages": [
+      { "title": "① 「高い反射率」として", "desc": "光をよく反射することを表します。", "example_en": "Polished metal has high reflectivity.", "example_ja": "磨いた金属は高い反射率を持つ。" },
+      { "title": "② 気象レーダーの文脈で", "desc": "電波の反射強度を表します。", "example_en": "Radar reflectivity indicates rainfall intensity.", "example_ja": "レーダー反射強度は降雨の強さを示す。" }
+    ],
+    "warn": [
+      "reflectivity は『反射率・反射能』（光や電波の反射の度合い）。reflective（反射する）＋ -ity。",
+      "reflectance（反射率）とほぼ同義で使われる。気象では radar reflectivity（レーダー反射強度）。"
+    ],
+    "etym_note": "reflective（『反射する』、reflect「反射する」、ラテン語 reflectere「曲げ返す」より）＋ -ity（『性質・度合い』を表す語尾）から成り、「反射する度合い」を意味します。",
+    "etym_chain": [
+      { "node": "reflectere", "sub": "曲げ返す", "era": "ラテン語" },
+      { "node": "reflective", "sub": "反射する", "era": "近代英語" },
+      { "node": "reflectivity", "sub": "反射率", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "high reflectivity", "ja": "高い反射率" },
+      { "en": "low reflectivity", "ja": "低い反射率" },
+      { "en": "radar reflectivity", "ja": "レーダー反射強度" },
+      { "en": "surface reflectivity", "ja": "表面の反射率" },
+      { "en": "measure the reflectivity", "ja": "反射率を測る" },
+      { "en": "the reflectivity of the mirror", "ja": "鏡の反射率" }
+    ],
+    "related": [
+      { "en": "reflective", "ja": "反射する・反射の" },
+      { "en": "reflectance", "ja": "反射率" },
+      { "en": "reflection", "ja": "反射" },
+      { "en": "absorptivity", "ja": "吸収率" }
+    ],
+    "faq": [
+      { "q": "reflectivity とはどんな意味？", "a": "物の表面が光や電波をどれだけ反射するかの度合い『反射率・反射能』のことです。Polished metal has high reflectivity.（磨いた金属は高い反射率を持つ）のように使います。" },
+      { "q": "reflectivity と reflectance の違いは？", "a": "どちらも『反射率』を表し、ほぼ同義で使われます。厳密には reflectance は『（特定条件での）反射の割合』、reflectivity は『（厚い材料の）固有の反射能』を指すこともありますが、日常ではほぼ同じです。" }
+    ],
+    "quiz": [
+      { "q": "Polished metal has high ___.（反射率）", "A": "reflectivity", "B": "creativity の創造性", "C": "activity の活動", "D": "sensitivity の感度", "correct": "A" },
+      { "q": "reflectivity のもとになった動詞はどれ？", "A": "reflect（反射する）", "B": "create（創造する）", "C": "act（行動する）", "D": "sense（感じる）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reignition",
+    "pron": "ˌriːɪɡˈnɪʃən",
+    "kana": "リイグニッション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "reignite（再点火する）＋ -ion",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "技術・比喩"],
+    "meaning_main": "再点火／（情熱・論争などの）再燃",
+    "description": "reignition の意味・発音・例文・語源を解説。エンジン・ロケットの「再点火」や、情熱・論争・関心が「再び燃え上がること（再燃）」を表す名詞の使い方を紹介します。",
+    "keywords": ["reignition 意味", "reignition 発音", "再点火", "再燃"],
+    "meanings": [
+      { "hinshi": "【名詞】再点火", "note": "いったん消えた火・エンジンに再び火をつけること。engine reignition（エンジンの再点火）。" },
+      { "hinshi": "【名詞】(比喩)再燃・再び燃え上がること", "note": "情熱・論争・関心などが再び盛り上がること。the reignition of the debate（論争の再燃）。動詞は reignite。" }
+    ],
+    "usages": [
+      { "title": "① 技術「再点火」として", "desc": "再び火をつけることを表します。", "example_en": "The rocket's reignition put it back on course.", "example_ja": "ロケットの再点火は軌道を取り戻させた。" },
+      { "title": "② 比喩「論争の再燃」として", "desc": "再び盛り上がることを表します。", "example_en": "The news led to a reignition of the debate.", "example_ja": "その知らせは論争の再燃を招いた。" }
+    ],
+    "warn": [
+      "reignition は『再点火』『（情熱・論争などの）再燃』。reignite（再点火する・再燃させる）＋ -ion。",
+      "技術（エンジン・ロケット）と比喩（情熱・論争・関心の再燃）の両方で使う。"
+    ],
+    "etym_note": "reignite（re-「再び」＋ ignite「点火する」、ラテン語 ignire「火をつける」、ignis「火」より）＋ -ion から成り、「再び火をつけること＝再点火・再燃」を意味します。ignite（点火する）と同じ語根です。",
+    "etym_chain": [
+      { "node": "ignis", "sub": "火", "era": "ラテン語" },
+      { "node": "reignite", "sub": "再点火する・再燃させる", "era": "近代英語" },
+      { "node": "reignition", "sub": "再点火・再燃", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "engine reignition", "ja": "エンジンの再点火" },
+      { "en": "the reignition of the debate", "ja": "論争の再燃" },
+      { "en": "the reignition of interest", "ja": "関心の再燃" },
+      { "en": "a reignition of tensions", "ja": "緊張の再燃" },
+      { "en": "rocket reignition", "ja": "ロケットの再点火" },
+      { "en": "the reignition of passion", "ja": "情熱の再燃" }
+    ],
+    "related": [
+      { "en": "reignite", "ja": "再点火する・再燃させる" },
+      { "en": "ignition", "ja": "点火" },
+      { "en": "ignite", "ja": "点火する" },
+      { "en": "rekindling", "ja": "再びかき立てること" }
+    ],
+    "faq": [
+      { "q": "reignition とはどんな意味？", "a": "エンジン・ロケットの『再点火』や、情熱・論争・関心が『再び燃え上がること（再燃）』を表す名詞です。The news led to a reignition of the debate.（論争の再燃を招いた）のように使います。動詞は reignite です。" },
+      { "q": "reignition はどんな場面で使う？", "a": "技術では『（消えたエンジン・ロケットの）再点火』、比喩では『（収まっていた論争・情熱・緊張の）再燃』など、いったん消えた火や勢いが再び燃え上がる場面で使います。" }
+    ],
+    "quiz": [
+      { "q": "The news led to a ___ of the debate.（再燃）", "A": "reignition", "B": "recognition の認識", "C": "registration の登録", "D": "regulation の規制", "correct": "A" },
+      { "q": "reignition の動詞形はどれ？", "A": "reignite（再点火する・再燃させる）", "B": "recognize（認識する）", "C": "register（登録する）", "D": "regulate（規制する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reimagining",
+    "pron": "ˌriːɪˈmædʒɪnɪŋ",
+    "kana": "リイマジニング",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "reimagine（思い描き直す・作り直す）＋ -ing",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "芸術・文化"],
+    "meaning_main": "（作品・概念の）新解釈・作り直し・とらえ直したもの",
+    "description": "reimagining の意味・発音・例文・語源を解説。古い物語・作品・概念を新しい発想で作り直した「新解釈・とらえ直し」を表す、芸術・文化で使う名詞を紹介します。",
+    "keywords": ["reimagining 意味", "reimagining 発音", "新解釈", "reimagine 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】（作品・概念の）新解釈・作り直し・とらえ直したもの", "note": "既存の物語・作品・考えを新たな発想で作り直したもの。a modern reimagining of the classic（その古典の現代的な新解釈）。動詞は reimagine。" }
+    ],
+    "usages": [
+      { "title": "① 「作品の新解釈」として", "desc": "新しく作り直した作品を表します。", "example_en": "The film is a bold reimagining of the fairy tale.", "example_ja": "その映画はおとぎ話の大胆な新解釈だ。" },
+      { "title": "② 「概念のとらえ直し」として", "desc": "考え方の作り直しを表します。", "example_en": "The book offers a reimagining of city life.", "example_ja": "その本は都市生活のとらえ直しを示している。" }
+    ],
+    "warn": [
+      "reimagining は『（作品・概念の）新解釈・作り直し・とらえ直したもの』。reimagine（思い描き直す・作り直す）＋ -ing。re-（再び）＋ imagine（想像する）。",
+      "remake（リメイク）より『新しい発想で大胆に作り直す』ニュアンス。"
+    ],
+    "etym_note": "reimagine（re-「再び」＋ imagine「想像する」、ラテン語 imaginari「思い描く」、imago「像」より）＋ -ing から成り、「思い描き直したもの」を意味します。image（像）と同じ語根です。",
+    "etym_chain": [
+      { "node": "imaginari", "sub": "思い描く", "era": "ラテン語" },
+      { "node": "reimagine", "sub": "思い描き直す・作り直す", "era": "近代英語" },
+      { "node": "reimagining", "sub": "新解釈・作り直し", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a modern reimagining", "ja": "現代的な新解釈" },
+      { "en": "a bold reimagining", "ja": "大胆な作り直し" },
+      { "en": "a reimagining of the classic", "ja": "その古典の新解釈" },
+      { "en": "a radical reimagining", "ja": "根本的なとらえ直し" },
+      { "en": "a reimagining of the story", "ja": "物語の作り直し" },
+      { "en": "a fresh reimagining", "ja": "新鮮な再解釈" }
+    ],
+    "related": [
+      { "en": "reimagine", "ja": "思い描き直す・作り直す" },
+      { "en": "remake", "ja": "リメイク・作り直す" },
+      { "en": "reinterpretation", "ja": "再解釈" },
+      { "en": "adaptation", "ja": "翻案・脚色" }
+    ],
+    "faq": [
+      { "q": "reimagining とはどんな意味？", "a": "古い物語・作品・概念を新しい発想で作り直した『新解釈・とらえ直し』のことです。The film is a bold reimagining of the fairy tale.（その映画はおとぎ話の大胆な新解釈だ）のように使います。動詞は reimagine です。" },
+      { "q": "reimagining と remake の違いは？", "a": "remake（リメイク）は『（元の作品を）作り直したもの』、reimagining は『（元の素材を）新しい発想で大胆にとらえ直したもの』で、より自由で創造的な作り直しを表します。" }
+    ],
+    "quiz": [
+      { "q": "The film is a bold ___ of the fairy tale.（新解釈）", "A": "reimagining", "B": "remaining の残っていること", "C": "remembering の思い出すこと", "D": "reminding の思い出させること", "correct": "A" },
+      { "q": "reimagining のもとになった動詞はどれ？", "A": "reimagine（思い描き直す・作り直す）", "B": "remain（残る）", "C": "remember（思い出す）", "D": "remind（思い出させる）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "refashion",
+    "pron": "ˌriːˈfæʃən",
+    "kana": "リファッション",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ fashion（作る・形づくる）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "やや硬い語"],
+    "meaning_main": "作り直す・作り変える・形を変える",
+    "description": "refashion の意味・発音・例文・語源を解説。物・制度・イメージなどを「作り直す・作り変える・形を変える」という、やや硬い動詞の使い方を分かりやすく紹介します。",
+    "keywords": ["refashion 意味", "refashion 発音", "作り直す", "fashion 動詞"],
+    "meanings": [
+      { "hinshi": "【動詞】作り直す・作り変える・形を変える", "note": "もとのものに手を加えて新しい形にする。refashion an old dress（古いドレスを作り直す）。動詞 fashion は『（手で）作る・形づくる』。" }
+    ],
+    "usages": [
+      { "title": "① 「古着を作り直す」として", "desc": "形を変えて作り直すことを表します。", "example_en": "She refashioned the old coat into a bag.", "example_ja": "彼女は古いコートをかばんに作り変えた。" },
+      { "title": "② 比喩「作り変える」として", "desc": "制度やイメージの作り直しを表します。", "example_en": "The party refashioned its image.", "example_ja": "その党はイメージを作り変えた。" }
+    ],
+    "warn": [
+      "refashion は『作り直す・作り変える・形を変える』。re-（再び）＋ fashion（作る・形づくる）。やや硬い語。",
+      "ここでの fashion は『流行』ではなく動詞『（手で）作る・形づくる』。reshape / remake に近い。"
+    ],
+    "etym_note": "re-（再び）＋ fashion（『作る・形づくる』、古フランス語 façon「作り方・形」、ラテン語 factio「作ること」、facere「作る」より）から成り、「再び形づくること」を意味します。factory（工場）, fact（事実）と同じ語根です。",
+    "etym_chain": [
+      { "node": "factio", "sub": "作ること", "era": "ラテン語" },
+      { "node": "fashion", "sub": "作る・形づくる", "era": "中英語" },
+      { "node": "refashion", "sub": "作り直す・作り変える", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "refashion an old dress", "ja": "古いドレスを作り直す" },
+      { "en": "refashion into", "ja": "〜に作り変える" },
+      { "en": "refashion the image", "ja": "イメージを作り変える" },
+      { "en": "refashion the institution", "ja": "制度を作り変える" },
+      { "en": "refashion society", "ja": "社会を作り変える" },
+      { "en": "refashion oneself", "ja": "自分を作り変える" }
+    ],
+    "related": [
+      { "en": "fashion", "ja": "作る・形づくる・流行" },
+      { "en": "reshape", "ja": "作り変える・形を変える" },
+      { "en": "remold", "ja": "作り直す・作り変える" },
+      { "en": "remake", "ja": "作り直す" }
+    ],
+    "faq": [
+      { "q": "refashion とはどんな意味？", "a": "物・制度・イメージなどを『作り直す・作り変える・形を変える』という、やや硬い動詞です。She refashioned the old coat into a bag.（古いコートをかばんに作り変えた）のように使います。" },
+      { "q": "refashion の fashion は『流行』のこと？", "a": "いいえ。ここでの fashion は動詞で『（手で）作る・形づくる』という意味です。refashion は『再び（手を加えて）作り直す』ことを表します。" }
+    ],
+    "quiz": [
+      { "q": "She ___ed the old coat into a bag.（作り変えた）", "A": "refashion", "B": "refresh の元気にする", "C": "refuse の拒む", "D": "reflect の反射する", "correct": "A" },
+      { "q": "refashion の fashion の意味はどれ？", "A": "作る・形づくる", "B": "流行（だけ）", "C": "速さ", "D": "感情", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reordering",
+    "pron": "ˌriːˈɔːrdərɪŋ",
+    "kana": "リオーダリング",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "reorder（並べ替える・再注文する）＋ -ing",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "ビジネス・IT"],
+    "meaning_main": "並べ替え・順序の組み替え／（商品の）再注文",
+    "description": "reordering の意味・発音・例文・語源を解説。項目や優先順位の「並べ替え・順序の組み替え」、また商品の「再注文」を表す、ビジネス・ITで使う名詞を紹介します。",
+    "keywords": ["reordering 意味", "reordering 発音", "並べ替え", "reorder 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】並べ替え・順序の組み替え", "note": "項目・優先順位などの順序を変えること。a reordering of priorities（優先順位の組み替え）。" },
+      { "hinshi": "【名詞】（商品の）再注文", "note": "在庫を補うため改めて注文すること。動詞は reorder。" }
+    ],
+    "usages": [
+      { "title": "① 「優先順位の組み替え」として", "desc": "順序を変えることを表します。", "example_en": "The crisis forced a reordering of priorities.", "example_ja": "その危機は優先順位の組み替えを迫った。" },
+      { "title": "② 「商品の再注文」として", "desc": "改めての注文を表します。", "example_en": "Automatic reordering keeps the shelves stocked.", "example_ja": "自動再注文が棚の在庫を保つ。" }
+    ],
+    "warn": [
+      "reordering は『並べ替え・順序の組み替え』『（商品の）再注文』。reorder（並べ替える・再注文する）＋ -ing。re-（再び）＋ order（順序・注文）。",
+      "順序の組み替え（IT・優先順位）と、商品の再注文（在庫管理）の両方で使う。"
+    ],
+    "etym_note": "reorder（re-「再び」＋ order「順序・注文（する）」、ラテン語 ordo「列・順序」より）＋ -ing から成り、「並べ替え・再び注文すること」を意味します。order（順序・命令・注文）と同じ語根です。",
+    "etym_chain": [
+      { "node": "ordo", "sub": "列・順序", "era": "ラテン語" },
+      { "node": "order", "sub": "順序・注文", "era": "中英語" },
+      { "node": "reordering", "sub": "並べ替え・再注文", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a reordering of priorities", "ja": "優先順位の組み替え" },
+      { "en": "the reordering of items", "ja": "項目の並べ替え" },
+      { "en": "automatic reordering", "ja": "自動再注文" },
+      { "en": "a reordering of society", "ja": "社会秩序の組み替え" },
+      { "en": "reordering the list", "ja": "リストの並べ替え" },
+      { "en": "the reordering of stock", "ja": "在庫の再注文" }
+    ],
+    "related": [
+      { "en": "reorder", "ja": "並べ替える・再注文する" },
+      { "en": "order", "ja": "順序・注文・命令" },
+      { "en": "rearrangement", "ja": "並べ替え・組み替え" },
+      { "en": "restock", "ja": "在庫を補充する" }
+    ],
+    "faq": [
+      { "q": "reordering とはどんな意味？", "a": "項目や優先順位の『並べ替え・順序の組み替え』、また商品の『再注文』という意味です。The crisis forced a reordering of priorities.（優先順位の組み替えを迫った）のように使います。動詞は reorder です。" },
+      { "q": "reordering の二つの意味は？", "a": "もとになる order に『順序』と『注文』の意味があるため、reordering も『（順序の）並べ替え』と『（商品の）再注文』の二つの意味で使われます。文脈で判断します。" }
+    ],
+    "quiz": [
+      { "q": "The crisis forced a ___ of priorities.（組み替え）", "A": "reordering", "B": "remembering の思い出すこと", "C": "rendering の描画", "D": "wondering の不思議に思うこと", "correct": "A" },
+      { "q": "reordering のもとになった語 order の意味でないものは？", "A": "感情", "B": "順序", "C": "注文", "D": "命令", "correct": "A" }
+    ]
+  },
+  {
+    "english": "renationalize",
+    "pron": "ˌriːˈnæʃənəlaɪz",
+    "kana": "リナショナライズ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ nationalize（国有化する）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "経済・政治"],
+    "meaning_main": "再国有化する（民営化された企業を再び国の所有にする）",
+    "description": "renationalize の意味・発音・例文・語源を解説。民営化された産業・企業を「再び国有化する（再国有化）」という、経済・政治で使う語の使い方を分かりやすく紹介します。",
+    "keywords": ["renationalize 意味", "renationalize 発音", "再国有化", "nationalize 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再国有化する", "note": "いったん民営化された産業・企業を再び国の所有・管理に戻す。renationalize the railways（鉄道を再国有化する）。名詞は renationalization。イギリス綴りは renationalise。" }
+    ],
+    "usages": [
+      { "title": "① 「鉄道を再国有化する」として", "desc": "国の所有に戻すことを表します。", "example_en": "Some politicians want to renationalize the railways.", "example_ja": "一部の政治家は鉄道の再国有化を望んでいる。" },
+      { "title": "② 政策の文脈で", "desc": "民営化の逆を表します。", "example_en": "The government renationalized the failing utility.", "example_ja": "政府は経営難の公益事業を再国有化した。" }
+    ],
+    "warn": [
+      "renationalize は『再国有化する』。re-（再び）＋ nationalize（国有化する）。名詞は renationalization。",
+      "privatize（民営化する）の逆の動き。一度 nationalize → privatize されたものを再び国有化する。"
+    ],
+    "etym_note": "re-（再び）＋ nationalize（『国有化する』、national「国の」、ラテン語 natio「生まれ・民族」より）から成り、「再び国の所有にすること」を意味します。nation（国家）と同じ語根です。",
+    "etym_chain": [
+      { "node": "natio", "sub": "生まれ・民族", "era": "ラテン語" },
+      { "node": "nationalize", "sub": "国有化する", "era": "近代英語" },
+      { "node": "renationalize", "sub": "再国有化する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "renationalize the railways", "ja": "鉄道を再国有化する" },
+      { "en": "renationalize the industry", "ja": "産業を再国有化する" },
+      { "en": "renationalize the utility", "ja": "公益事業を再国有化する" },
+      { "en": "calls to renationalize", "ja": "再国有化を求める声" },
+      { "en": "the renationalization of water", "ja": "水道事業の再国有化" },
+      { "en": "renationalize the banks", "ja": "銀行を再国有化する" }
+    ],
+    "related": [
+      { "en": "nationalize", "ja": "国有化する" },
+      { "en": "privatize", "ja": "民営化する（反対）" },
+      { "en": "renationalization", "ja": "再国有化" },
+      { "en": "state-owned", "ja": "国有の" }
+    ],
+    "faq": [
+      { "q": "renationalize とはどんな意味？", "a": "いったん民営化された産業・企業を『再び国有化する（再国有化）』という意味です。Some politicians want to renationalize the railways.（鉄道の再国有化を望んでいる）のように使います。名詞は renationalization です。" },
+      { "q": "renationalize と privatize の違いは？", "a": "renationalize は『（民営化されたものを）再び国の所有にする＝再国有化』、privatize は『（国有のものを）民間の所有にする＝民営化』で、反対の動きです。" }
+    ],
+    "quiz": [
+      { "q": "Some politicians want to ___ the railways.（再国有化する）", "A": "renationalize", "B": "nationalize の最初に国有化する", "C": "naturalize の帰化させる", "D": "neutralize の中和する", "correct": "A" },
+      { "q": "renationalize の反対に近い語はどれ？", "A": "privatize（民営化する）", "B": "naturalize（帰化させる）", "C": "neutralize（中和する）", "D": "modernize（近代化する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reoccupation",
+    "pron": "ˌriːˌɒkjuˈpeɪʃən",
+    "kana": "リオキュペイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "reoccupy（再占領する・再び住む）＋ -ation",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "軍事・歴史"],
+    "meaning_main": "再占領・（土地・建物への）再居住・再び占めること",
+    "description": "reoccupation の意味・発音・例文・語源を解説。撤退した地域を「再占領すること」や、空いた土地・建物に「再び住むこと」を表す、軍事・歴史で使う名詞を紹介します。",
+    "keywords": ["reoccupation 意味", "reoccupation 発音", "再占領", "occupy 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再占領・（土地・建物への）再居住・再び占めること", "note": "いったん離れた場所を再び占領・占有・居住すること。the reoccupation of the city（その都市の再占領）。動詞は reoccupy。" }
+    ],
+    "usages": [
+      { "title": "① 軍事「再占領」として", "desc": "再び占領することを表します。", "example_en": "The reoccupation of the territory sparked conflict.", "example_ja": "その領土の再占領は紛争を引き起こした。" },
+      { "title": "② 「再居住」として", "desc": "再び住み始めることを表します。", "example_en": "Excavations revealed the reoccupation of the site.", "example_ja": "発掘でその遺跡が再び人に住まれたことが明らかになった。" }
+    ],
+    "warn": [
+      "reoccupation は『再占領・（土地・建物への）再居住・再び占めること』。reoccupy（再占領する・再び住む）＋ -ation。re-（再び）＋ occupation（占領・占有）。",
+      "軍事（領土の再占領）、考古学（遺跡の再居住）などで使う。"
+    ],
+    "etym_note": "reoccupy（re-「再び」＋ occupy「占める・占領する」、ラテン語 occupare「つかみ取る」より）＋ -ation から成り、「再び占めること」を意味します。occupation（占領・職業）と同じ語根です。",
+    "etym_chain": [
+      { "node": "occupare", "sub": "つかみ取る", "era": "ラテン語" },
+      { "node": "reoccupy", "sub": "再占領する・再び住む", "era": "近代英語" },
+      { "node": "reoccupation", "sub": "再占領・再居住", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the reoccupation of the city", "ja": "その都市の再占領" },
+      { "en": "the reoccupation of the territory", "ja": "領土の再占領" },
+      { "en": "the reoccupation of the site", "ja": "遺跡の再居住" },
+      { "en": "prevent reoccupation", "ja": "再占領を防ぐ" },
+      { "en": "the reoccupation of the building", "ja": "建物の再使用" },
+      { "en": "military reoccupation", "ja": "軍事的な再占領" }
+    ],
+    "related": [
+      { "en": "reoccupy", "ja": "再占領する・再び住む" },
+      { "en": "occupation", "ja": "占領・占有・職業" },
+      { "en": "occupy", "ja": "占める・占領する" },
+      { "en": "resettlement", "ja": "再定住" }
+    ],
+    "faq": [
+      { "q": "reoccupation とはどんな意味？", "a": "撤退した地域を『再占領すること』や、空いた土地・建物に『再び住むこと』を表す名詞です。The reoccupation of the territory sparked conflict.（領土の再占領が紛争を引き起こした）のように使います。動詞は reoccupy です。" },
+      { "q": "reoccupation はどんな分野で使う？", "a": "軍事・政治では『（撤退後の）領土・都市の再占領』、考古学では『（一度放棄された）遺跡・住居への再居住』など、いったん離れた場所を再び占める場面で使われます。" }
+    ],
+    "quiz": [
+      { "q": "The ___ of the territory sparked conflict.（再占領）", "A": "reoccupation", "B": "preoccupation の没頭", "C": "occupation の最初の占領だけ", "D": "preparation の準備", "correct": "A" },
+      { "q": "reoccupation の動詞形はどれ？", "A": "reoccupy（再占領する・再び住む）", "B": "occupy の最初に占めるだけ", "C": "prepare（準備する）", "D": "prevent（防ぐ）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rambler",
+    "pron": "ˈræmblər",
+    "kana": "ランブラー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ramble（散策する・とりとめなく話す）＋ -er（〜する人）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "日常・英"],
+    "meaning_main": "（野山を）散策する人・ハイカー／とりとめなく話す人／つるバラ",
+    "description": "rambler の意味・発音・例文・語源を解説。野山を気ままに歩く「散策者・ハイカー」、とりとめなく話す人、また「つるバラ」を表す名詞の使い方を紹介します。",
+    "keywords": ["rambler 意味", "rambler 発音", "散策者", "ramble 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】（野山を）散策する人・ハイカー", "note": "(主に英)趣味で田園・山野を歩く人。a group of ramblers（ハイカーの一行）。" },
+      { "hinshi": "【名詞】とりとめなく話す人／つるバラ", "note": "話があちこちに飛ぶ人。また、よく伸びるつるバラ（climbing rose）。動詞は ramble。" }
+    ],
+    "usages": [
+      { "title": "① 「散策者・ハイカー」として", "desc": "野山を歩く人を表します。", "example_en": "The footpath is popular with ramblers.", "example_ja": "その小道はハイカーに人気だ。" },
+      { "title": "② 「つるバラ」として", "desc": "よく伸びるバラを表します。", "example_en": "A rambler covered the old wall with flowers.", "example_ja": "つるバラが古い壁を花で覆った。" }
+    ],
+    "warn": [
+      "rambler は『（野山を）散策する人・ハイカー』『とりとめなく話す人』『つるバラ』。ramble（散策する・とりとめなく話す）＋ -er。",
+      "イギリスでは『（趣味の）山歩きをする人』の意味でよく使う（the Ramblers＝山歩き愛好団体）。"
+    ],
+    "etym_note": "ramble（『あてもなく歩き回る・とりとめなく話す』）＋ -er（『〜する人・もの』）から成り、「歩き回る人・話があちこち飛ぶ人」を意味します。roam（歩き回る）と関連するとされます。",
+    "etym_chain": [
+      { "node": "ramble", "sub": "あてもなく歩く・話す", "era": "近代英語" },
+      { "node": "rambler", "sub": "散策者・とりとめなく話す人", "era": "近代英語" },
+      { "node": "rambler", "sub": "散策者・つるバラ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a group of ramblers", "ja": "ハイカーの一行" },
+      { "en": "popular with ramblers", "ja": "ハイカーに人気で" },
+      { "en": "a keen rambler", "ja": "熱心な山歩き愛好者" },
+      { "en": "a rambler rose", "ja": "つるバラ" },
+      { "en": "ramblers' rights", "ja": "歩行者の通行権" },
+      { "en": "an old rambler", "ja": "とりとめなく話す老人" }
+    ],
+    "related": [
+      { "en": "ramble", "ja": "散策する・とりとめなく話す" },
+      { "en": "hiker", "ja": "ハイカー・登山者" },
+      { "en": "walker", "ja": "歩く人・散歩者" },
+      { "en": "climbing rose", "ja": "つるバラ" }
+    ],
+    "faq": [
+      { "q": "rambler とはどんな意味？", "a": "野山を気ままに歩く『散策者・ハイカー』（主にイギリス）、『とりとめなく話す人』、また『つるバラ』を表す名詞です。The footpath is popular with ramblers.（小道はハイカーに人気だ）のように使います。" },
+      { "q": "rambler と hiker の違いは？", "a": "どちらも『歩く人』ですが、rambler は主にイギリスで『（田園・山野を趣味で）気ままに歩く人』、hiker は『（より本格的に山道を）歩く登山者』というニュアンスがあります。" }
+    ],
+    "quiz": [
+      { "q": "The footpath is popular with ___s.（ハイカー）", "A": "rambler", "B": "gambler の賭博師", "C": "plumber の配管工", "D": "number の数字", "correct": "A" },
+      { "q": "rambler のもとになった動詞はどれ？", "A": "ramble（散策する・とりとめなく話す）", "B": "gamble（賭ける）", "C": "tremble（震える）", "D": "assemble（集める）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "resealable",
+    "pron": "ˌriːˈsiːləbl",
+    "kana": "リシーラブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "reseal（封をし直す）＋ -able（できる）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "日常・食品"],
+    "meaning_main": "再封できる・封をし直せる・チャック付きの",
+    "description": "resealable の意味・発音・例文・語源を解説。袋や容器が「再び封ができる・封をし直せる（チャック付きの）」という、食品の包装などで使う形容詞を紹介します。",
+    "keywords": ["resealable 意味", "resealable 発音", "再封できる", "チャック付き"],
+    "meanings": [
+      { "hinshi": "【形容詞】再封できる・封をし直せる・チャック付きの", "note": "開けたあとも再び閉じられる。a resealable bag（チャック付きの袋）。動詞 reseal は『封をし直す』。" }
+    ],
+    "usages": [
+      { "title": "① 「チャック付きの袋」として", "desc": "再び閉じられる包装を表します。", "example_en": "The coffee comes in a resealable bag.", "example_ja": "そのコーヒーは再封できる袋に入っている。" },
+      { "title": "② 「封をし直せる容器」として", "desc": "再び閉じられることを表します。", "example_en": "The snacks have a resealable pack to keep them fresh.", "example_ja": "そのお菓子は鮮度を保つチャック付きの袋になっている。" }
+    ],
+    "warn": [
+      "resealable は『再封できる・封をし直せる・チャック付きの』。reseal（封をし直す）＋ -able。re-（再び）＋ seal（封をする）。",
+      "食品包装でよく見る『チャック付き（ジッパー付き）の袋』など。"
+    ],
+    "etym_note": "reseal（re-「再び」＋ seal「封をする」、ラテン語 sigillum「封印」より）＋ -able（できる）から成り、「再び封ができる」を意味します。seal（封・印章）と同じ語根です。",
+    "etym_chain": [
+      { "node": "sigillum", "sub": "封印", "era": "ラテン語" },
+      { "node": "seal", "sub": "封をする", "era": "中英語" },
+      { "node": "resealable", "sub": "再封できる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a resealable bag", "ja": "チャック付きの袋" },
+      { "en": "a resealable pack", "ja": "再封できるパック" },
+      { "en": "a resealable container", "ja": "再封できる容器" },
+      { "en": "in a resealable pouch", "ja": "再封できる袋に入って" },
+      { "en": "a resealable lid", "ja": "閉め直せるふた" },
+      { "en": "keep fresh in a resealable bag", "ja": "チャック付きの袋で鮮度を保つ" }
+    ],
+    "related": [
+      { "en": "reseal", "ja": "封をし直す" },
+      { "en": "seal", "ja": "封をする・封印" },
+      { "en": "airtight", "ja": "密閉の" },
+      { "en": "ziplock", "ja": "ジッパー付きの" }
+    ],
+    "faq": [
+      { "q": "resealable とはどんな意味？", "a": "袋や容器が『再び封ができる・封をし直せる（チャック付きの）』という形容詞です。The coffee comes in a resealable bag.（再封できる袋に入っている）のように使います。" },
+      { "q": "resealable はどんな製品で使う？", "a": "コーヒー・お菓子・冷凍食品など、開けたあとも鮮度を保つために再び閉じられる『チャック（ジッパー）付きの袋』や容器でよく使われます。" }
+    ],
+    "quiz": [
+      { "q": "The coffee comes in a ___ bag.（再封できる）", "A": "resealable", "B": "readable の読みやすい", "C": "reliable の信頼できる", "D": "reusable の再使用できる", "correct": "A" },
+      { "q": "resealable のもとになった動詞はどれ？", "A": "reseal（封をし直す）", "B": "reveal（明らかにする）", "C": "real ではなく rely（頼る）", "D": "read（読む）", "correct": "A" }
+    ]
+  }
+]
