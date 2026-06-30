@@ -1,0 +1,522 @@
+[
+  {
+    "english": "rambutan",
+    "pron": "ræmˈbuːtən",
+    "kana": "ランブータン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "マレー語 rambutan（毛のあるもの）、rambut（毛）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "果物・東南アジア"],
+    "meaning_main": "ランブータン（とげ状の毛をもつ熱帯果物）",
+    "description": "rambutan の意味・発音・例文・語源を解説。赤くてやわらかいとげ状の毛に覆われた、ライチに似た東南アジアの果物「ランブータン」という語の使い方を紹介します。",
+    "keywords": ["rambutan 意味", "rambutan 発音", "ランブータン", "熱帯果物"],
+    "meanings": [
+      { "hinshi": "【名詞】ランブータン", "note": "東南アジア原産の熱帯果樹とその果実。赤や黄色の皮がやわらかい毛（とげ状）に覆われ、中は半透明で甘い。ライチの近縁。マレー語 rambut（毛）に由来。" }
+    ],
+    "usages": [
+      { "title": "① 「熱帯果物」として", "desc": "毛に覆われた果実を表します。", "example_en": "We peeled the hairy rambutan to reach the sweet flesh.", "example_ja": "私たちは毛に覆われたランブータンをむいて甘い果肉を食べた。" },
+      { "title": "② 「市場で」として", "desc": "南国の市場の果物を表します。", "example_en": "Rambutans were piled high at the market stall.", "example_ja": "市場の屋台にはランブータンが山積みされていた。" }
+    ],
+    "warn": [
+      "rambutan は『ランブータン（とげ状の毛をもつ熱帯果物）』。マレー語 rambut（毛）が語源。",
+      "ライチ（lychee）の近縁で味も似るが、皮の毛が特徴。"
+    ],
+    "etym_note": "マレー語 rambutan（『毛のあるもの』、rambut「毛・髪」より）に由来します。果実の表面がやわらかい毛で覆われていることから名づけられました。",
+    "etym_chain": [
+      { "node": "rambut", "sub": "毛・髪", "era": "マレー語" },
+      { "node": "rambutan", "sub": "毛のあるもの", "era": "マレー語" },
+      { "node": "rambutan", "sub": "ランブータン", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a ripe rambutan", "ja": "熟したランブータン" },
+      { "en": "peel a rambutan", "ja": "ランブータンの皮をむく" },
+      { "en": "sweet rambutan flesh", "ja": "甘いランブータンの果肉" },
+      { "en": "a bunch of rambutans", "ja": "ひと房のランブータン" },
+      { "en": "fresh rambutan", "ja": "新鮮なランブータン" },
+      { "en": "the hairy skin of a rambutan", "ja": "ランブータンの毛皮" }
+    ],
+    "related": [
+      { "en": "lychee", "ja": "ライチ" },
+      { "en": "longan", "ja": "リュウガン" },
+      { "en": "tropical fruit", "ja": "熱帯果物" },
+      { "en": "pulp", "ja": "果肉" }
+    ],
+    "faq": [
+      { "q": "rambutan とはどんな意味？", "a": "赤や黄色のやわらかいとげ状の毛に覆われた、ライチに似た東南アジアの熱帯果物『ランブータン』のことです。We peeled the hairy rambutan.（毛に覆われたランブータンをむいた）のように使います。" },
+      { "q": "rambutan の名前の由来は？", "a": "マレー語の rambut（毛・髪）に由来します。果実の表面がやわらかい毛で覆われている様子から『毛のあるもの』と名づけられました。" }
+    ],
+    "quiz": [
+      { "q": "We peeled the hairy ___ to reach the sweet flesh.（ランブータン）", "A": "rambutan", "B": "rattan の籐", "C": "sultan のスルタン", "D": "tartan のタータン", "correct": "A" },
+      { "q": "rambutan の名前のもとになった rambut の意味はどれ？", "A": "毛・髪", "B": "甘い", "C": "赤い", "D": "丸い", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rangoli",
+    "pron": "rænˈɡəʊli",
+    "kana": "ランゴリ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "サンスクリット語 rangavalli（色の列）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文化・インド"],
+    "meaning_main": "ランゴリ（インドの床に描く彩色の文様）",
+    "description": "rangoli の意味・発音・例文・語源を解説。インドで祭りなどの際に、色粉や花びらで床や地面に描く吉祥の幾何学文様「ランゴリ」という、文化で使う語の使い方を紹介します。",
+    "keywords": ["rangoli 意味", "rangoli 発音", "ランゴリ", "インド 文様"],
+    "meanings": [
+      { "hinshi": "【名詞】ランゴリ", "note": "インドで、祭り（特にディワリ）や祝い事の際に、色粉・米粉・花びらなどを使って玄関先や床に描く左右対称の装飾文様。来客や神を迎える吉祥のしるし。" }
+    ],
+    "usages": [
+      { "title": "① 「床の装飾文様」として", "desc": "祭りの飾りを表します。", "example_en": "She drew a colorful rangoli at the doorstep for Diwali.", "example_ja": "彼女はディワリのため玄関先に色鮮やかなランゴリを描いた。" },
+      { "title": "② 「歓迎のしるし」として", "desc": "客を迎える意味を表します。", "example_en": "A rangoli welcomes guests into the home.", "example_ja": "ランゴリは客を家に迎え入れる歓迎のしるしだ。" }
+    ],
+    "warn": [
+      "rangoli は『ランゴリ（インドの床に描く彩色の文様）』。色粉・花びらなどで描く。",
+      "ディワリ（光の祭り）などの祝祭で玄関先に描かれる吉祥の装飾。"
+    ],
+    "etym_note": "サンスクリット語 rangavalli（『色の列・色の連なり』、ranga「色」＋ valli「つる・列」より）に由来します。色を連ねて文様を描くことから名づけられました。",
+    "etym_chain": [
+      { "node": "rangavalli", "sub": "色の列", "era": "サンスクリット語" },
+      { "node": "rangoli", "sub": "彩色文様", "era": "インド諸語" },
+      { "node": "rangoli", "sub": "ランゴリ", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "draw a rangoli", "ja": "ランゴリを描く" },
+      { "en": "a colorful rangoli", "ja": "色鮮やかなランゴリ" },
+      { "en": "a rangoli pattern", "ja": "ランゴリの文様" },
+      { "en": "a rangoli at the doorstep", "ja": "玄関先のランゴリ" },
+      { "en": "a flower rangoli", "ja": "花びらのランゴリ" },
+      { "en": "make a Diwali rangoli", "ja": "ディワリのランゴリを作る" }
+    ],
+    "related": [
+      { "en": "Diwali", "ja": "ディワリ（光の祭り）" },
+      { "en": "motif", "ja": "文様・モチーフ" },
+      { "en": "mandala", "ja": "曼荼羅・円環文様" },
+      { "en": "ornament", "ja": "装飾" }
+    ],
+    "faq": [
+      { "q": "rangoli とはどんな意味？", "a": "インドで祭りや祝い事の際に、色粉や花びらで玄関先や床に描く左右対称の装飾文様『ランゴリ』のことです。She drew a colorful rangoli for Diwali.（ディワリのため色鮮やかなランゴリを描いた）のように使います。" },
+      { "q": "rangoli はいつ描く？", "a": "特にディワリ（光の祭り）をはじめとする祝祭や祝い事の際に、来客や神々を迎える吉祥のしるしとして玄関先に描かれます。" }
+    ],
+    "quiz": [
+      { "q": "She drew a colorful ___ at the doorstep for Diwali.（ランゴリ）", "A": "rangoli", "B": "ravioli のラビオリ", "C": "broccoli のブロッコリー", "D": "patrol の巡回", "correct": "A" },
+      { "q": "rangoli はどの国の文化？", "A": "インド", "B": "ノルウェー", "C": "メキシコ", "D": "エジプト", "correct": "A" }
+    ]
+  },
+  {
+    "english": "riyal",
+    "pron": "riːˈɑːl",
+    "kana": "リヤル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "アラビア語 riyāl、スペイン語 real（王の・レアル貨）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "通貨・経済"],
+    "meaning_main": "リヤル（サウジアラビア・カタールなどの通貨）",
+    "description": "riyal の意味・発音・例文・語源を解説。サウジアラビアやカタールなどの中東諸国で使われる通貨「リヤル」という、通貨や経済で使う語の使い方を紹介します。",
+    "keywords": ["riyal 意味", "riyal 発音", "リヤル", "サウジアラビア 通貨"],
+    "meanings": [
+      { "hinshi": "【名詞】リヤル", "note": "サウジアラビア・カタール・イエメンなどで使われる通貨の単位。下位単位はハララ（halala）など。スペイン語の real（レアル貨）に由来。" }
+    ],
+    "usages": [
+      { "title": "① 「中東の通貨」として", "desc": "通貨単位を表します。", "example_en": "The meal cost fifty Saudi riyals.", "example_ja": "その食事は50サウジ・リヤルだった。" },
+      { "title": "② 「両替」として", "desc": "為替を表します。", "example_en": "She exchanged her dollars for riyals at the airport.", "example_ja": "彼女は空港でドルをリヤルに両替した。" }
+    ],
+    "warn": [
+      "riyal は『リヤル（サウジ・カタールなどの通貨）』。イランの rial（リアル）とは別の通貨だが語源は同じ。",
+      "スペイン語 real（王の・レアル貨）由来で、ブラジルの real（レアル）とも語源を共有する。"
+    ],
+    "etym_note": "アラビア語 riyāl を経て、スペイン語 real（『王の』、ラテン語 regalis「王の」より）に由来します。かつて広く流通したスペインの銀貨レアルにちなみます。royal（王の）や regal（王の）と同根です。",
+    "etym_chain": [
+      { "node": "regalis", "sub": "王の", "era": "ラテン語" },
+      { "node": "real", "sub": "レアル貨（王の貨幣）", "era": "スペイン語" },
+      { "node": "riyal", "sub": "リヤル", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a Saudi riyal", "ja": "サウジ・リヤル" },
+      { "en": "a Qatari riyal", "ja": "カタール・リヤル" },
+      { "en": "exchange for riyals", "ja": "リヤルに両替する" },
+      { "en": "fifty riyals", "ja": "50リヤル" },
+      { "en": "the riyal exchange rate", "ja": "リヤルの為替レート" },
+      { "en": "pay in riyals", "ja": "リヤルで支払う" }
+    ],
+    "related": [
+      { "en": "rial", "ja": "リアル（イランなどの通貨）" },
+      { "en": "real", "ja": "レアル（ブラジルの通貨）" },
+      { "en": "currency", "ja": "通貨" },
+      { "en": "exchange rate", "ja": "為替レート" }
+    ],
+    "faq": [
+      { "q": "riyal とはどんな意味？", "a": "サウジアラビアやカタールなどの中東諸国で使われる通貨の単位『リヤル』のことです。The meal cost fifty Saudi riyals.（その食事は50サウジ・リヤルだった）のように使います。" },
+      { "q": "riyal と rial の違いは？", "a": "綴りが riyal（サウジ・カタールなど）と rial（イランなど）で分かれますが、いずれもスペイン語 real（レアル）に由来する同系統の通貨名です。" }
+    ],
+    "quiz": [
+      { "q": "The meal cost fifty Saudi ___s.（リヤル）", "A": "riyal", "B": "rival の競争相手", "C": "royal の王の", "D": "trial の裁判", "correct": "A" },
+      { "q": "riyal のもとになった real の意味はどれ？", "A": "王の", "B": "赤い", "C": "速い", "D": "丸い", "correct": "A" }
+    ]
+  },
+  {
+    "english": "roentgenium",
+    "pron": "rɛntˈɡɛniəm",
+    "kana": "レントゲニウム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "物理学者 Röntgen（レントゲン）＋ -ium",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "化学・元素"],
+    "meaning_main": "レントゲニウム（人工の超重元素・記号Rg）",
+    "description": "roentgenium の意味・発音・例文・語源を解説。人工的に合成された超重元素「レントゲニウム（元素記号Rg、原子番号111）」という、化学で使う語と、X線発見者にちなむ名を紹介します。",
+    "keywords": ["roentgenium 意味", "roentgenium 発音", "レントゲニウム", "元素 Rg"],
+    "meanings": [
+      { "hinshi": "【名詞】レントゲニウム（元素記号Rg、原子番号111）", "note": "加速器で人工的に合成された、非常に不安定で寿命の短い超重元素。1994年に初めて合成された。X線を発見したレントゲンにちなんで命名。" }
+    ],
+    "usages": [
+      { "title": "① 「人工元素」として", "desc": "合成された元素を表します。", "example_en": "Roentgenium has only ever been made in tiny amounts.", "example_ja": "レントゲニウムはごく微量しか作られたことがない。" },
+      { "title": "② 「短い寿命」として", "desc": "不安定さを表します。", "example_en": "Atoms of roentgenium decay within seconds.", "example_ja": "レントゲニウムの原子は数秒で崩壊する。" }
+    ],
+    "warn": [
+      "roentgenium は人工の超重元素『レントゲニウム』（記号Rg、原子番号111）。非常に不安定。",
+      "X線を発見したヴィルヘルム・レントゲン（Röntgen）にちなむ名。発音はレントゲニウム。"
+    ],
+    "etym_note": "X線を発見したドイツの物理学者ヴィルヘルム・レントゲン（Wilhelm Röntgen）の名＋ 元素の語尾 -ium から名づけられました。日本語の『レントゲン（X線撮影）』も同じ人名に由来します。",
+    "etym_chain": [
+      { "node": "Röntgen", "sub": "レントゲン（人名）", "era": "ドイツ語" },
+      { "node": "roentgenium", "sub": "レントゲニウム", "era": "近代英語（2004命名）" },
+      { "node": "Rg", "sub": "元素記号", "era": "現代化学" }
+    ],
+    "phrases": [
+      { "en": "the element roentgenium", "ja": "元素レントゲニウム" },
+      { "en": "an atom of roentgenium", "ja": "レントゲニウムの原子" },
+      { "en": "synthesize roentgenium", "ja": "レントゲニウムを合成する" },
+      { "en": "roentgenium decays quickly", "ja": "レントゲニウムは速く崩壊する" },
+      { "en": "element 111, roentgenium", "ja": "111番元素レントゲニウム" },
+      { "en": "a superheavy element", "ja": "超重元素" }
+    ],
+    "related": [
+      { "en": "element", "ja": "元素" },
+      { "en": "transuranium", "ja": "超ウラン元素" },
+      { "en": "radioactive", "ja": "放射性の" },
+      { "en": "X-ray", "ja": "X線・レントゲン" }
+    ],
+    "faq": [
+      { "q": "roentgenium とはどんな意味？", "a": "加速器で人工的に合成された、非常に不安定な超重元素『レントゲニウム（元素記号Rg、原子番号111）』のことです。Roentgenium has only been made in tiny amounts.（ごく微量しか作られていない）のように使います。" },
+      { "q": "roentgenium の名前の由来は？", "a": "X線を発見したドイツの物理学者ヴィルヘルム・レントゲン（Röntgen）にちなみます。日本語の『レントゲン（X線撮影）』も同じ人名に由来します。" }
+    ],
+    "quiz": [
+      { "q": "Atoms of ___ decay within seconds.（レントゲニウム）", "A": "roentgenium", "B": "radium のラジウム", "C": "rhenium のレニウム", "D": "radon のラドン", "correct": "A" },
+      { "q": "roentgenium の名前のもとになった人物の功績はどれ？", "A": "X線の発見", "B": "重力の発見", "C": "電球の発明", "D": "進化論の提唱", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ragi",
+    "pron": "ˈrɑːɡi",
+    "kana": "ラギ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ヒンディー語・カンナダ語 rāgi より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "穀物・食品"],
+    "meaning_main": "シコクビエ（ラギ・栄養豊富な雑穀）",
+    "description": "ragi の意味・発音・例文・語源を解説。インドやアフリカで主食にされる栄養豊富な雑穀「シコクビエ（ラギ／フィンガーミレット）」という、穀物や食品で使う語の使い方を紹介します。",
+    "keywords": ["ragi 意味", "ragi 発音", "シコクビエ", "雑穀"],
+    "meanings": [
+      { "hinshi": "【名詞】ラギ・シコクビエ", "note": "インドやアフリカで栽培されるイネ科の雑穀（finger millet）。鉄分やカルシウムが豊富で、粉にしてパンやかゆ、団子などにする。乾燥に強く貧栄養地でも育つ。" }
+    ],
+    "usages": [
+      { "title": "① 「主食の雑穀」として", "desc": "栄養豊富な穀物を表します。", "example_en": "In south India, ragi is made into porridge and flatbread.", "example_ja": "南インドではラギをかゆや平焼きパンにする。" },
+      { "title": "② 「健康食」として", "desc": "栄養価を表します。", "example_en": "Ragi is rich in calcium and iron.", "example_ja": "ラギはカルシウムと鉄分が豊富だ。" }
+    ],
+    "warn": [
+      "ragi は『シコクビエ（ラギ／finger millet）』。栄養豊富な雑穀。",
+      "乾燥に強く、やせた土地でも育つため、食料の安全保障の面でも注目される。"
+    ],
+    "etym_note": "ヒンディー語・カンナダ語など南アジアの言葉 rāgi に由来します。インドで古くから栽培されてきた雑穀の名がそのまま英語に取り入れられました。",
+    "etym_chain": [
+      { "node": "rāgi", "sub": "シコクビエ", "era": "南アジア諸語" },
+      { "node": "ragi", "sub": "ラギ", "era": "近代英語" },
+      { "node": "ragi", "sub": "シコクビエ（雑穀）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "ragi flour", "ja": "ラギの粉" },
+      { "en": "ragi porridge", "ja": "ラギのかゆ" },
+      { "en": "ragi flatbread", "ja": "ラギの平焼きパン" },
+      { "en": "grow ragi", "ja": "ラギを栽培する" },
+      { "en": "nutritious ragi", "ja": "栄養豊富なラギ" },
+      { "en": "a ragi field", "ja": "ラギの畑" }
+    ],
+    "related": [
+      { "en": "millet", "ja": "キビ・アワなどの雑穀" },
+      { "en": "sorghum", "ja": "ソルガム・モロコシ" },
+      { "en": "grain", "ja": "穀物" },
+      { "en": "cereal", "ja": "穀類" }
+    ],
+    "faq": [
+      { "q": "ragi とはどんな意味？", "a": "インドやアフリカで栽培される栄養豊富な雑穀『シコクビエ（ラギ／finger millet）』のことです。粉にしてかゆやパンにします。Ragi is rich in calcium and iron.（ラギはカルシウムと鉄分が豊富だ）のように使います。" },
+      { "q": "ragi はなぜ注目される？", "a": "鉄分やカルシウムが豊富で栄養価が高いうえ、乾燥に強くやせた土地でも育つため、健康食としても食料の安全保障の面でも注目されています。" }
+    ],
+    "quiz": [
+      { "q": "In south India, ___ is made into porridge and flatbread.（シコクビエ）", "A": "ragi", "B": "ragu のラグー", "C": "saga の武勇伝", "D": "yoga のヨガ", "correct": "A" },
+      { "q": "ragi はどんな食べ物の分類？", "A": "雑穀（穀物）", "B": "果物", "C": "魚", "D": "肉", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rikisha",
+    "pron": "rɪkˈʃɔː",
+    "kana": "リクショー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "日本語「人力車（じんりきしゃ）」より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "乗り物・文化"],
+    "meaning_main": "人力車（rickshaw の別綴り）",
+    "description": "rikisha の意味・発音・例文・語源を解説。人が引いて走る二輪の乗り物「人力車」という、乗り物や文化で使う語（rickshaw の別綴り）の使い方と、日本語由来の語源を紹介します。",
+    "keywords": ["rikisha 意味", "rikisha 発音", "人力車", "rickshaw"],
+    "meanings": [
+      { "hinshi": "【名詞】人力車", "note": "人が引いて走る二輪の客用の車。rickshaw とも綴る。日本語の『人力車（じんりきしゃ）』に由来し、アジア各地に広まった。" }
+    ],
+    "usages": [
+      { "title": "① 「人が引く車」として", "desc": "伝統的な乗り物を表します。", "example_en": "They rode through the old town in a rikisha.", "example_ja": "彼らは人力車に乗って旧市街を巡った。" },
+      { "title": "② 「観光」として", "desc": "観光用の乗り物を表します。", "example_en": "A rikisha puller waited by the temple gate.", "example_ja": "人力車の車夫が寺の門のそばで待っていた。" }
+    ],
+    "warn": [
+      "rikisha は『人力車』。rickshaw が一般的な綴りで、rikisha は日本語に近い古い綴り。",
+      "日本語『人力車（じんりきしゃ）』の jin（人）を略した riki-sha が語源。"
+    ],
+    "etym_note": "日本語『人力車（じんりきしゃ）』に由来します。jin（人）＋ riki（力）＋ sha（車）のうち、後半 riki-sha が rikisha / rickshaw として各国語に広まりました。",
+    "etym_chain": [
+      { "node": "人力車", "sub": "じんりきしゃ", "era": "明治期日本語" },
+      { "node": "riki-sha", "sub": "力車", "era": "借用" },
+      { "node": "rikisha / rickshaw", "sub": "人力車", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "ride in a rikisha", "ja": "人力車に乗る" },
+      { "en": "a rikisha puller", "ja": "人力車の車夫" },
+      { "en": "pull a rikisha", "ja": "人力車を引く" },
+      { "en": "a rikisha ride", "ja": "人力車での移動" },
+      { "en": "hail a rikisha", "ja": "人力車を呼び止める" },
+      { "en": "a two-wheeled rikisha", "ja": "二輪の人力車" }
+    ],
+    "related": [
+      { "en": "rickshaw", "ja": "人力車" },
+      { "en": "pedicab", "ja": "輪タク・自転車タクシー" },
+      { "en": "cart", "ja": "荷車・手押し車" },
+      { "en": "carriage", "ja": "馬車・客車" }
+    ],
+    "faq": [
+      { "q": "rikisha とはどんな意味？", "a": "人が引いて走る二輪の客用の乗り物『人力車』のことです。rickshaw とも綴ります。They rode through the old town in a rikisha.（人力車で旧市街を巡った）のように使います。" },
+      { "q": "rikisha の語源は？", "a": "日本語の『人力車（じんりきしゃ）』です。後半の riki-sha（力車）が各国語に広まり、rikisha / rickshaw となりました。日本語由来の珍しい外来語です。" }
+    ],
+    "quiz": [
+      { "q": "They rode through the old town in a ___.（人力車）", "A": "rikisha", "B": "geisha の芸者", "C": "kimono の着物", "D": "samurai の侍", "correct": "A" },
+      { "q": "rikisha はどの言語に由来する？", "A": "日本語（人力車）", "B": "フランス語", "C": "ラテン語", "D": "アラビア語", "correct": "A" }
+    ]
+  },
+  {
+    "english": "renvoi",
+    "pron": "rɒnˈvwɑː",
+    "kana": "ランボワ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 renvoi（差し戻し・送り返し）、renvoyer より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "法律・国際私法"],
+    "meaning_main": "反致（国際私法で、他国の法へ送り返すこと）",
+    "description": "renvoi の意味・発音・例文・語源を解説。国際私法で、ある国の抵触規則が問題を他国（や自国）の法へ送り返す「反致（はんち）」という、法律で使う語の使い方を紹介します。",
+    "keywords": ["renvoi 意味", "renvoi 発音", "反致", "国際私法"],
+    "meanings": [
+      { "hinshi": "【名詞】反致（はんち）", "note": "国際私法で、ある国の法廷が外国法を適用すべき場合に、その外国の抵触規則が問題を元の国（または第三国）の法へ『送り返す・送る』こと。発音はランボワ（フランス語）。" }
+    ],
+    "usages": [
+      { "title": "① 「法の送り返し」として", "desc": "国際私法の概念を表します。", "example_en": "Under the doctrine of renvoi, the court applied its own law.", "example_ja": "反致の法理により、裁判所は自国法を適用した。" },
+      { "title": "② 「複雑な論点」として", "desc": "難しい法律論を表します。", "example_en": "Renvoi is one of the trickiest topics in private international law.", "example_ja": "反致は国際私法で最も難しい論点の一つだ。" }
+    ],
+    "warn": [
+      "renvoi は『反致（国際私法で他国・自国の法へ送り返すこと）』。発音はランボワ（フランス語）。",
+      "外国の抵触規則まで考慮する点が特徴で、法解釈上の難問とされる。"
+    ],
+    "etym_note": "フランス語 renvoi（『差し戻し・送り返し』、renvoyer「送り返す」、re-＋ envoyer「送る」より）に由来します。envoy（使節）や voyage（航海）と同じ語根です。",
+    "etym_chain": [
+      { "node": "envoyer", "sub": "送る", "era": "フランス語" },
+      { "node": "renvoyer", "sub": "送り返す", "era": "フランス語" },
+      { "node": "renvoi", "sub": "反致・送り返し", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the doctrine of renvoi", "ja": "反致の法理" },
+      { "en": "apply renvoi", "ja": "反致を適用する" },
+      { "en": "single renvoi", "ja": "単純反致" },
+      { "en": "double renvoi", "ja": "二重反致" },
+      { "en": "reject renvoi", "ja": "反致を否定する" },
+      { "en": "the problem of renvoi", "ja": "反致の問題" }
+    ],
+    "related": [
+      { "en": "conflict of laws", "ja": "抵触法・法の抵触" },
+      { "en": "private international law", "ja": "国際私法" },
+      { "en": "jurisdiction", "ja": "裁判管轄" },
+      { "en": "applicable law", "ja": "準拠法" }
+    ],
+    "faq": [
+      { "q": "renvoi とはどんな意味？", "a": "国際私法で、ある国の法廷が外国法を適用すべき場合に、その外国の抵触規則が問題を元の国や第三国の法へ『送り返す』こと『反致（はんち）』を指します。Under the doctrine of renvoi, the court applied its own law.（反致の法理で自国法を適用した）のように使います。" },
+      { "q": "なぜ renvoi は難しいとされる？", "a": "外国の実質法だけでなく、その国の『どの法を適用するかを決める規則（抵触規則）』まで参照するため、法が互いに送り返し合って堂々巡りになりうるからです。" }
+    ],
+    "quiz": [
+      { "q": "Under the doctrine of ___, the court applied its own law.（反致）", "A": "renvoi", "B": "convoy の護送", "C": "envoy の使節", "D": "decoy のおとり", "correct": "A" },
+      { "q": "renvoi はどの法分野の用語？", "A": "国際私法", "B": "刑法", "C": "労働法", "D": "税法", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rasa",
+    "pron": "ˈrɑːsə",
+    "kana": "ラサ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "サンスクリット語 rasa（味・情趣）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "美学・インド"],
+    "meaning_main": "ラサ（インド美学で芸術が呼び起こす情趣・情感）",
+    "description": "rasa の意味・発音・例文・語源を解説。インドの美学・演劇論で、作品が鑑賞者の心に呼び起こす「情趣・情感（ラサ）」という、美学で使う語の使い方を紹介します。",
+    "keywords": ["rasa 意味", "rasa 発音", "ラサ", "インド美学"],
+    "meanings": [
+      { "hinshi": "【名詞】ラサ（情趣・情感）", "note": "インドの古典美学・演劇論で、詩・劇・音楽・舞踊などの作品が鑑賞者の心に呼び起こす情趣・味わい。恋情・滑稽・悲哀・怒りなど伝統的に複数の rasa が分類される。" }
+    ],
+    "usages": [
+      { "title": "① 「芸術の情趣」として", "desc": "作品が生む情感を表します。", "example_en": "Classical Indian theatre aims to evoke a particular rasa in the audience.", "example_ja": "インド古典演劇は観客に特定のラサ（情趣）を呼び起こすことを目指す。" },
+      { "title": "② 「味わい」として", "desc": "美的体験を表します。", "example_en": "The dance expressed the rasa of love.", "example_ja": "その舞踊は恋情のラサを表現していた。" }
+    ],
+    "warn": [
+      "rasa は『ラサ（インド美学で芸術が呼び起こす情趣・情感）』。文字どおりは『味』。",
+      "演劇論書『ナーティヤ・シャーストラ』で体系化された美学概念。"
+    ],
+    "etym_note": "サンスクリット語 rasa（『味・汁・情趣』）に由来します。もとは舌で感じる『味』を意味し、転じて芸術が心にもたらす『味わい・情趣』を指すようになりました。",
+    "etym_chain": [
+      { "node": "rasa", "sub": "味・汁", "era": "サンスクリット語" },
+      { "node": "rasa", "sub": "情趣・味わい", "era": "サンスクリット美学" },
+      { "node": "rasa", "sub": "ラサ（美的情趣）", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "evoke a rasa", "ja": "ラサを呼び起こす" },
+      { "en": "the rasa of love", "ja": "恋情のラサ" },
+      { "en": "the nine rasas", "ja": "九つのラサ" },
+      { "en": "aesthetic rasa", "ja": "美的情趣としてのラサ" },
+      { "en": "experience rasa", "ja": "ラサを味わう" },
+      { "en": "rasa theory", "ja": "ラサ理論" }
+    ],
+    "related": [
+      { "en": "aesthetics", "ja": "美学" },
+      { "en": "mood", "ja": "情趣・気分" },
+      { "en": "sentiment", "ja": "情感・感情" },
+      { "en": "catharsis", "ja": "カタルシス・浄化" }
+    ],
+    "faq": [
+      { "q": "rasa とはどんな意味？", "a": "インドの古典美学・演劇論で、芸術作品が鑑賞者の心に呼び起こす『情趣・情感（ラサ）』のことです。Classical Indian theatre aims to evoke a particular rasa.（特定のラサを呼び起こすことを目指す）のように使います。" },
+      { "q": "rasa の文字どおりの意味は？", "a": "サンスクリット語で『味・汁』です。舌で感じる『味』から転じて、芸術が心にもたらす『味わい・情趣』を指す美学用語になりました。" }
+    ],
+    "quiz": [
+      { "q": "Classical Indian theatre aims to evoke a particular ___ in the audience.（情趣）", "A": "rasa", "B": "salsa のサルサ", "C": "plaza の広場", "D": "pizza のピザ", "correct": "A" },
+      { "q": "rasa の文字どおりの意味はどれ？", "A": "味", "B": "色", "C": "音", "D": "光", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rotl",
+    "pron": "ˈrɒtəl",
+    "kana": "ロトル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "アラビア語 raṭl（重さの単位）、ギリシャ語 litra より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "度量衡・歴史"],
+    "meaning_main": "ロトル（中東などで使われた重さの単位）",
+    "description": "rotl の意味・発音・例文・語源を解説。中東や地中海地域で使われた伝統的な重さの単位「ロトル」という、度量衡や歴史で使う語の使い方を紹介します。地域で重さが異なる点も解説。",
+    "keywords": ["rotl 意味", "rotl 発音", "ロトル", "重さの単位"],
+    "meanings": [
+      { "hinshi": "【名詞】ロトル", "note": "中東・北アフリカ・地中海地域で使われた伝統的な重さの単位。地域や時代によって値が異なるが、おおむね数百グラム〜1キロ前後。複数形は artal / rotls。" }
+    ],
+    "usages": [
+      { "title": "① 「重さの単位」として", "desc": "伝統的な計量を表します。", "example_en": "The merchant weighed the spices by the rotl.", "example_ja": "商人は香辛料をロトル単位で量った。" },
+      { "title": "② 「地域差」として", "desc": "値の不統一を表します。", "example_en": "A rotl varied from town to town.", "example_ja": "1ロトルの重さは町ごとに異なっていた。" }
+    ],
+    "warn": [
+      "rotl は『ロトル（中東などの重さの単位）』。地域・時代で値が異なる。複数形は artal。",
+      "アラビア語 raṭl に由来し、英語の単位 pound（ポンド）と同系のギリシャ語 litra にさかのぼる。"
+    ],
+    "etym_note": "アラビア語 raṭl に由来し、さらにギリシャ語 litra（『重さ・リトラ』）にさかのぼります。litra は英語の liter（リットル）やイタリアの貨幣リラ（lira）とも語源を共有します。",
+    "etym_chain": [
+      { "node": "litra", "sub": "重さの単位", "era": "古代ギリシャ語" },
+      { "node": "raṭl", "sub": "ロトル", "era": "アラビア語" },
+      { "node": "rotl", "sub": "ロトル（重さの単位）", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "by the rotl", "ja": "ロトル単位で" },
+      { "en": "a rotl of spices", "ja": "1ロトルの香辛料" },
+      { "en": "weigh in rotls", "ja": "ロトルで量る" },
+      { "en": "half a rotl", "ja": "半ロトル" },
+      { "en": "the local rotl", "ja": "その地方のロトル" },
+      { "en": "several rotls", "ja": "数ロトル" }
+    ],
+    "related": [
+      { "en": "pound", "ja": "ポンド（重さの単位）" },
+      { "en": "oke", "ja": "オカ（トルコの重さの単位）" },
+      { "en": "weight", "ja": "重さ・重量" },
+      { "en": "measure", "ja": "計量・単位" }
+    ],
+    "faq": [
+      { "q": "rotl とはどんな意味？", "a": "中東・北アフリカ・地中海地域で使われた伝統的な重さの単位『ロトル』のことです。The merchant weighed the spices by the rotl.（商人は香辛料をロトル単位で量った）のように使います。" },
+      { "q": "1ロトルはどれくらいの重さ？", "a": "地域や時代によって異なり、おおむね数百グラムから1キロ前後の幅があります。統一されておらず、町ごとに値が違うことも珍しくありませんでした。" }
+    ],
+    "quiz": [
+      { "q": "The merchant weighed the spices by the ___.（ロトル）", "A": "rotl", "B": "title の題", "C": "total の合計", "D": "hotel のホテル", "correct": "A" },
+      { "q": "rotl は何を量る単位？", "A": "重さ", "B": "長さ", "C": "時間", "D": "角度", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rundlet",
+    "pron": "ˈrʌndlɪt",
+    "kana": "ランドレット",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 rondelet（小さな樽）、rond（丸い）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "度量衡・歴史"],
+    "meaning_main": "ランドレット（小型の樽・古い液量単位）",
+    "description": "rundlet の意味・発音・例文・語源を解説。酒などを入れた小型の樽、また古い液量の単位「ランドレット」という、度量衡や歴史で使う語の使い方を紹介します。",
+    "keywords": ["rundlet 意味", "rundlet 発音", "ランドレット", "小樽"],
+    "meanings": [
+      { "hinshi": "【名詞】ランドレット", "note": "ワインなどを入れた小型の樽。また、それを基にした古い液量の単位で、おおよそ18ガロン（約68〜82リットル）前後とされた。runlet とも綴る。" }
+    ],
+    "usages": [
+      { "title": "① 「小樽」として", "desc": "小型の樽を表します。", "example_en": "They tapped a rundlet of wine for the feast.", "example_ja": "彼らは宴のためにワインの小樽の栓を開けた。" },
+      { "title": "② 「液量の単位」として", "desc": "古い計量を表します。", "example_en": "A rundlet held about eighteen gallons.", "example_ja": "1ランドレットはおよそ18ガロンを入れた。" }
+    ],
+    "warn": [
+      "rundlet は『ランドレット（小型の樽・古い液量単位）』。runlet とも綴る。歴史・度量衡の語。",
+      "古フランス語 rond（丸い）に由来し、丸い小樽の形にちなむ。"
+    ],
+    "etym_note": "古フランス語 rondelet（『小さな丸いもの・小樽』、rond「丸い」の指小形）に由来します。round（丸い）や roundelay（輪唱歌）と同じ rond の系統です。",
+    "etym_chain": [
+      { "node": "rond", "sub": "丸い", "era": "古フランス語" },
+      { "node": "rondelet", "sub": "小さな樽", "era": "古フランス語" },
+      { "node": "rundlet", "sub": "ランドレット（小樽）", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "a rundlet of wine", "ja": "ワインの小樽" },
+      { "en": "tap a rundlet", "ja": "小樽の栓を開ける" },
+      { "en": "a small rundlet", "ja": "小さな樽" },
+      { "en": "a rundlet of ale", "ja": "エールの小樽" },
+      { "en": "half a rundlet", "ja": "半ランドレット" },
+      { "en": "fill a rundlet", "ja": "小樽を満たす" }
+    ],
+    "related": [
+      { "en": "cask", "ja": "樽" },
+      { "en": "barrel", "ja": "樽・バレル" },
+      { "en": "keg", "ja": "小樽" },
+      { "en": "gallon", "ja": "ガロン" }
+    ],
+    "faq": [
+      { "q": "rundlet とはどんな意味？", "a": "ワインなどを入れた小型の樽、またそれを基にした古い液量の単位（およそ18ガロン）『ランドレット』のことです。They tapped a rundlet of wine.（ワインの小樽の栓を開けた）のように使います。" },
+      { "q": "rundlet の語源は？", "a": "古フランス語 rondelet（小さな丸いもの・小樽）に由来します。rond（丸い）の指小形で、丸い小樽の形にちなみます。round（丸い）と同じ語根です。" }
+    ],
+    "quiz": [
+      { "q": "They tapped a ___ of wine for the feast.（小樽）", "A": "rundlet", "B": "ringlet の巻き毛", "C": "booklet の小冊子", "D": "bracelet の腕輪", "correct": "A" },
+      { "q": "rundlet のもとになった rond の意味はどれ？", "A": "丸い", "B": "赤い", "C": "古い", "D": "重い", "correct": "A" }
+    ]
+  }
+]
