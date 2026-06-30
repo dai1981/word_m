@@ -1,0 +1,525 @@
+[
+  {
+    "english": "riboflavin",
+    "pron": "ˌraɪbəʊˈfleɪvɪn",
+    "kana": "ライボフレイビン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ribose（リボース）＋ flavin（黄色色素、ラテン語 flavus 黄色）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "栄養・化学"],
+    "meaning_main": "リボフラビン・ビタミンB2",
+    "description": "riboflavin の意味・発音・例文・語源を解説。水溶性ビタミンの一つ「リボフラビン（ビタミンB2）」という、栄養や化学で使う語の使い方を紹介します。",
+    "keywords": ["riboflavin 意味", "riboflavin 発音", "ビタミンB2", "リボフラビン"],
+    "meanings": [
+      { "hinshi": "【名詞】リボフラビン・ビタミンB2", "note": "成長やエネルギー代謝に関わる水溶性ビタミン。黄色〜橙色をしている。乳製品・卵・葉物野菜に多い。" }
+    ],
+    "usages": [
+      { "title": "① 「ビタミンB2」として", "desc": "栄養素を表します。", "example_en": "Milk and eggs are good sources of riboflavin.", "example_ja": "牛乳と卵はリボフラビンの良い供給源だ。" },
+      { "title": "② 「不足症状」として", "desc": "欠乏に関わることを表します。", "example_en": "A riboflavin deficiency can cause cracks at the corners of the mouth.", "example_ja": "リボフラビン不足は口角のひび割れを起こすことがある。" }
+    ],
+    "warn": [
+      "riboflavin は『リボフラビン（ビタミンB2）』。水溶性で熱より光に弱い。",
+      "サプリで尿が黄色くなるのはこの黄色色素のため。flavus（ラテン語で黄色）が語源。"
+    ],
+    "etym_note": "ribose（糖の一種『リボース』）＋ flavin（『黄色色素』、ラテン語 flavus「黄色」より）から成り、「リボースを含む黄色い物質」を意味します。flavus は flavescent（黄色がかった）とも同根です。",
+    "etym_chain": [
+      { "node": "flavus", "sub": "黄色", "era": "ラテン語" },
+      { "node": "flavin", "sub": "黄色色素", "era": "近代英語" },
+      { "node": "riboflavin", "sub": "リボフラビン・ビタミンB2", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a source of riboflavin", "ja": "リボフラビンの供給源" },
+      { "en": "riboflavin deficiency", "ja": "リボフラビン欠乏" },
+      { "en": "vitamin B2 (riboflavin)", "ja": "ビタミンB2（リボフラビン）" },
+      { "en": "rich in riboflavin", "ja": "リボフラビンが豊富な" },
+      { "en": "riboflavin supplement", "ja": "リボフラビンのサプリ" },
+      { "en": "daily riboflavin intake", "ja": "1日のリボフラビン摂取量" }
+    ],
+    "related": [
+      { "en": "vitamin", "ja": "ビタミン" },
+      { "en": "thiamine", "ja": "チアミン・ビタミンB1" },
+      { "en": "niacin", "ja": "ナイアシン・ビタミンB3" },
+      { "en": "nutrient", "ja": "栄養素" }
+    ],
+    "faq": [
+      { "q": "riboflavin とはどんな意味？", "a": "水溶性ビタミンの一つ『リボフラビン（ビタミンB2）』のことです。Milk and eggs are good sources of riboflavin.（牛乳と卵は良い供給源だ）のように使います。" },
+      { "q": "riboflavin はなぜ黄色い？", "a": "名前の flavin がラテン語の flavus（黄色）に由来する通り、黄色〜橙色の色素だからです。サプリ摂取で尿が黄色くなるのもこのためです。" }
+    ],
+    "quiz": [
+      { "q": "Milk and eggs are good sources of ___.（ビタミンB2）", "A": "riboflavin", "B": "ribbon のリボン", "C": "rivalry の競争", "D": "ribosome のリボソーム", "correct": "A" },
+      { "q": "riboflavin は別名なんと呼ばれる？", "A": "ビタミンB2", "B": "ビタミンC", "C": "ビタミンD", "D": "ビタミンK", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reticle",
+    "pron": "ˈrɛtɪkəl",
+    "kana": "レティクル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 reticulum（小さな網）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "光学・照準"],
+    "meaning_main": "照準線・十字線（レチクル）",
+    "description": "reticle の意味・発音・例文・語源を解説。望遠鏡や照準器の中の「照準線・十字線（レチクル）」という、光学や射撃で使う語の使い方を紹介します。",
+    "keywords": ["reticle 意味", "reticle 発音", "照準線", "十字線"],
+    "meanings": [
+      { "hinshi": "【名詞】照準線・十字線（レチクル）", "note": "望遠鏡・顕微鏡・照準器の視野内にある、位置合わせ用の細い線や目盛り。crosshairs（十字線）とも呼ぶ。reticule とも綴る。" }
+    ],
+    "usages": [
+      { "title": "① 「照準器の十字線」として", "desc": "狙いを定める線を表します。", "example_en": "He centered the reticle on the target.", "example_ja": "彼は標的に照準線を合わせた。" },
+      { "title": "② 光学「目盛り線」として", "desc": "計測用の線を表します。", "example_en": "The microscope's reticle helps measure tiny objects.", "example_ja": "顕微鏡のレチクルは微小な物の計測に役立つ。" }
+    ],
+    "warn": [
+      "reticle は『照準線・十字線（レチクル）』。reticule とも綴るが、reticule には『女性用の手提げ袋』という別義もある。",
+      "日常では crosshairs（十字線）の方がよく使われる。"
+    ],
+    "etym_note": "ラテン語 reticulum（『小さな網』、rete「網」の指小形）に由来します。細い線が網目のように見えることから。retina（網膜）とも同じ rete（網）の系統です。",
+    "etym_chain": [
+      { "node": "rete", "sub": "網", "era": "ラテン語" },
+      { "node": "reticulum", "sub": "小さな網", "era": "ラテン語" },
+      { "node": "reticle", "sub": "照準線・十字線", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "center the reticle", "ja": "照準線を中央に合わせる" },
+      { "en": "a crosshair reticle", "ja": "十字の照準線" },
+      { "en": "align the reticle", "ja": "照準線を合わせる" },
+      { "en": "the reticle pattern", "ja": "レチクルの模様" },
+      { "en": "an illuminated reticle", "ja": "発光照準線" },
+      { "en": "a scope reticle", "ja": "スコープの照準線" }
+    ],
+    "related": [
+      { "en": "crosshairs", "ja": "十字線" },
+      { "en": "scope", "ja": "照準器・スコープ" },
+      { "en": "sight", "ja": "照準・照準器" },
+      { "en": "graticule", "ja": "（光学の）目盛り線" }
+    ],
+    "faq": [
+      { "q": "reticle とはどんな意味？", "a": "望遠鏡や照準器の視野内にある『照準線・十字線（レチクル）』のことです。He centered the reticle on the target.（標的に照準線を合わせた）のように使います。" },
+      { "q": "reticle と reticule の違いは？", "a": "どちらも『照準線』を指せますが、reticule には別に『女性用の手提げ袋』という意味もあります。照準線の意味では reticle が一般的です。" }
+    ],
+    "quiz": [
+      { "q": "He centered the ___ on the target.（照準線）", "A": "reticle", "B": "article の記事", "C": "particle の粒子", "D": "obstacle の障害", "correct": "A" },
+      { "q": "reticle のもとのラテン語の意味はどれ？", "A": "小さな網", "B": "大きな剣", "C": "丸い窓", "D": "赤い目", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rheostat",
+    "pron": "ˈriːəstæt",
+    "kana": "リオスタット",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 rheos（流れ）＋ -stat（静止させるもの）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "電気・物理"],
+    "meaning_main": "可変抵抗器・レオスタット",
+    "description": "rheostat の意味・発音・例文・語源を解説。電流の大きさを連続的に変える「可変抵抗器・レオスタット」という、電気や物理で使う語の使い方を紹介します。",
+    "keywords": ["rheostat 意味", "rheostat 発音", "可変抵抗器", "レオスタット"],
+    "meanings": [
+      { "hinshi": "【名詞】可変抵抗器・レオスタット", "note": "抵抗値を変えて回路の電流を調整する装置。照明の明るさ調整（調光器）などに使う。" }
+    ],
+    "usages": [
+      { "title": "① 「調光に使う可変抵抗」として", "desc": "電流を調整する装置を表します。", "example_en": "A rheostat dims the lights by varying the current.", "example_ja": "レオスタットは電流を変えて照明を暗くする。" },
+      { "title": "② 「実験装置」として", "desc": "電流制御の器具を表します。", "example_en": "The students adjusted the rheostat to change the motor's speed.", "example_ja": "生徒たちはモーターの速度を変えるためレオスタットを調整した。" }
+    ],
+    "warn": [
+      "rheostat は『可変抵抗器・レオスタット』。発音はリオスタット（rh の h は無音）。",
+      "現代では potentiometer（ポテンショメータ）や調光器（dimmer）と呼ばれることも多い。"
+    ],
+    "etym_note": "ギリシャ語 rheos（『流れ』、rhein「流れる」より）＋ -stat（『静止・一定に保つもの』）から成り、「流れ（電流）を制御するもの」を意味します。rheum（粘液）や thermostat（サーモスタット）の -stat と同系です。",
+    "etym_chain": [
+      { "node": "rheos", "sub": "流れ", "era": "古代ギリシャ語" },
+      { "node": "rheo- + -stat", "sub": "流れを制御するもの", "era": "近代造語" },
+      { "node": "rheostat", "sub": "可変抵抗器", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "adjust the rheostat", "ja": "レオスタットを調整する" },
+      { "en": "a rheostat dimmer", "ja": "可変抵抗式の調光器" },
+      { "en": "turn down the rheostat", "ja": "レオスタットを絞る" },
+      { "en": "wire in a rheostat", "ja": "可変抵抗器を配線する" },
+      { "en": "the rheostat controls the current", "ja": "可変抵抗器が電流を制御する" },
+      { "en": "a sliding rheostat", "ja": "スライド式可変抵抗器" }
+    ],
+    "related": [
+      { "en": "resistor", "ja": "抵抗器" },
+      { "en": "potentiometer", "ja": "ポテンショメータ・分圧器" },
+      { "en": "dimmer", "ja": "調光器" },
+      { "en": "thermostat", "ja": "サーモスタット" }
+    ],
+    "faq": [
+      { "q": "rheostat とはどんな意味？", "a": "抵抗値を変えて回路の電流を連続的に調整する『可変抵抗器・レオスタット』のことです。A rheostat dims the lights.（レオスタットは照明を暗くする）のように使います。" },
+      { "q": "rheostat と resistor の違いは？", "a": "resistor は『（固定の）抵抗器』、rheostat は『抵抗値を変えられる可変抵抗器』です。rheostat で電流を連続的に変えられます。" }
+    ],
+    "quiz": [
+      { "q": "A ___ dims the lights by varying the current.（可変抵抗器）", "A": "rheostat", "B": "thermostat の温度調節器", "C": "thermometer の温度計", "D": "barometer の気圧計", "correct": "A" },
+      { "q": "rheostat の rheo- はどんな意味？", "A": "流れ", "B": "熱", "C": "光", "D": "音", "correct": "A" }
+    ]
+  },
+  {
+    "english": "resultant",
+    "pron": "rɪˈzʌltənt",
+    "kana": "リザルタント",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "result（結果として生じる）＋ -ant",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "学術・物理"],
+    "meaning_main": "結果として生じる・（物理）合力",
+    "description": "resultant の意味・発音・例文・語源を解説。形容詞「結果として生じる」、物理の名詞「合力・合成ベクトル」という、学術や物理で使う語の使い方を紹介します。",
+    "keywords": ["resultant 意味", "resultant 発音", "結果として生じる", "合力"],
+    "meanings": [
+      { "hinshi": "【形容詞】結果として生じる・それに伴う", "note": "ある原因の結果として起こる。the resultant damage（その結果生じた損害）。" },
+      { "hinshi": "【名詞】（物理）合力・合成ベクトル", "note": "複数の力やベクトルを合わせた一つの力。the resultant of two forces（二力の合力）。" }
+    ],
+    "usages": [
+      { "title": "① 形容詞「結果として生じる」として", "desc": "原因に伴う結果を表します。", "example_en": "The flood and the resultant damage cost millions.", "example_ja": "洪水とその結果生じた損害で何百万もかかった。" },
+      { "title": "② 物理「合力」として", "desc": "合成された力を表します。", "example_en": "The resultant of the two forces points northeast.", "example_ja": "二つの力の合力は北東を向く。" }
+    ],
+    "warn": [
+      "resultant は形容詞『結果として生じる』、名詞『（物理）合力』。result（結果）＋ -ant。",
+      "形容詞 resulting（結果として生じる）とほぼ同義だが、resultant はやや硬い・専門的。"
+    ],
+    "etym_note": "result（『結果として生じる』、ラテン語 resultare「跳ね返る」、re-＋ saltare「跳ぶ」より）＋ -ant から成り、「結果として現れるもの」を意味します。salient（顕著な）や assault（襲撃）と同じ語根です。",
+    "etym_chain": [
+      { "node": "resultare", "sub": "跳ね返る", "era": "ラテン語" },
+      { "node": "result", "sub": "結果として生じる", "era": "中英語" },
+      { "node": "resultant", "sub": "結果として生じる・合力", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the resultant damage", "ja": "その結果生じた損害" },
+      { "en": "the resultant effect", "ja": "結果として生じる効果" },
+      { "en": "the resultant force", "ja": "合力" },
+      { "en": "the resultant of two vectors", "ja": "二ベクトルの合成" },
+      { "en": "the resultant chaos", "ja": "それに伴う混乱" },
+      { "en": "calculate the resultant", "ja": "合力を計算する" }
+    ],
+    "related": [
+      { "en": "result", "ja": "結果・結果として生じる" },
+      { "en": "resulting", "ja": "結果として生じる" },
+      { "en": "consequent", "ja": "結果として起こる" },
+      { "en": "vector", "ja": "ベクトル" }
+    ],
+    "faq": [
+      { "q": "resultant とはどんな意味？", "a": "形容詞で『結果として生じる』、物理の名詞で『合力・合成ベクトル』という意味です。the resultant damage（その結果生じた損害）/ the resultant of two forces（二力の合力）のように使います。" },
+      { "q": "物理の resultant（合力）とは？", "a": "複数の力やベクトルを足し合わせて得られる一つの力（ベクトル）のことです。平行四辺形の法則などで求めます。" }
+    ],
+    "quiz": [
+      { "q": "The flood and the ___ damage cost millions.（結果として生じた）", "A": "resultant", "B": "reluctant の気の進まない", "C": "redundant の余分な", "D": "reluctant の渋る", "correct": "A" },
+      { "q": "物理で resultant が指すものはどれ？", "A": "合力・合成ベクトル", "B": "摩擦力だけ", "C": "重力だけ", "D": "速度だけ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "riverine",
+    "pron": "ˈrɪvəraɪn",
+    "kana": "リバライン",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "river（川）＋ -ine（〜の・〜に関する）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "地理・生態"],
+    "meaning_main": "川の・川沿いの・河川の",
+    "description": "riverine の意味・発音・例文・語源を解説。「川の・川沿いの・河川の」という、地理や生態学で使う形容詞の使い方を例文とともに紹介します。",
+    "keywords": ["riverine 意味", "riverine 発音", "川の", "河川の"],
+    "meanings": [
+      { "hinshi": "【形容詞】川の・川沿いの・河川の", "note": "川や河川に関する、川辺に生じる。riverine habitat（河川の生息地）、riverine forest（河畔林）。やや学術的。" }
+    ],
+    "usages": [
+      { "title": "① 生態「河川の生息地」として", "desc": "川に関わる環境を表します。", "example_en": "Many species depend on riverine habitats.", "example_ja": "多くの種が河川の生息地に依存している。" },
+      { "title": "② 地理「川沿いの」として", "desc": "川辺の地域を表します。", "example_en": "Riverine communities are vulnerable to flooding.", "example_ja": "川沿いの集落は洪水に弱い。" }
+    ],
+    "warn": [
+      "riverine は『川の・川沿いの・河川の』。学術・地理的な語で、日常では riverside（川辺の）が普通。",
+      "-ine（〜の）はラテン語由来の形容詞語尾で、marine（海の）、bovine（牛の）などと同系。"
+    ],
+    "etym_note": "river（『川』、ラテン語 riparia「川岸」、ripa「岸」より）＋ -ine（『〜の』）から成り、「川に関する」を意味します。riparian（川岸の）と同じ ripa（岸）の系統です。",
+    "etym_chain": [
+      { "node": "ripa", "sub": "岸", "era": "ラテン語" },
+      { "node": "river", "sub": "川", "era": "中英語" },
+      { "node": "riverine", "sub": "川の・河川の", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "riverine habitat", "ja": "河川の生息地" },
+      { "en": "riverine forest", "ja": "河畔林" },
+      { "en": "riverine communities", "ja": "川沿いの集落" },
+      { "en": "riverine ecosystem", "ja": "河川生態系" },
+      { "en": "riverine flooding", "ja": "河川の氾濫" },
+      { "en": "riverine transport", "ja": "河川輸送" }
+    ],
+    "related": [
+      { "en": "river", "ja": "川" },
+      { "en": "riparian", "ja": "川岸の・河岸の" },
+      { "en": "riverside", "ja": "川辺・川岸の" },
+      { "en": "fluvial", "ja": "河川の・流水による" }
+    ],
+    "faq": [
+      { "q": "riverine とはどんな意味？", "a": "『川の・川沿いの・河川の』という意味の形容詞です。riverine habitat（河川の生息地）、riverine communities（川沿いの集落）のように、地理・生態の文脈で使います。" },
+      { "q": "riverine と riparian の違いは？", "a": "riverine は『川（全体）に関する』、riparian は特に『川岸・河岸の』に重点があります。riparian zone（河岸帯）のように使われます。" }
+    ],
+    "quiz": [
+      { "q": "Many species depend on ___ habitats.（河川の）", "A": "riverine", "B": "marine の海の", "C": "ravine の峡谷", "D": "routine の決まり切った", "correct": "A" },
+      { "q": "riverine の -ine と同じ語尾を持つのはどれ？", "A": "marine（海の）", "B": "machine（機械）", "C": "magazine（雑誌）", "D": "medicine（薬）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "radicle",
+    "pron": "ˈrædɪkəl",
+    "kana": "ラディクル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 radicula（小さな根）、radix（根）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "植物・生物"],
+    "meaning_main": "幼根（種子が出す最初の根）",
+    "description": "radicle の意味・発音・例文・語源を解説。発芽するとき種子から最初に出る「幼根」という、植物学で使う語の使い方を紹介します。radical との混同に注意。",
+    "keywords": ["radicle 意味", "radicle 発音", "幼根", "radix 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】幼根（ようこん）", "note": "発芽時に種子の胚から最初に伸びて、やがて主根になる部分。植物学の用語。" }
+    ],
+    "usages": [
+      { "title": "① 「幼根が出る」として", "desc": "発芽の最初の根を表します。", "example_en": "When the seed germinates, the radicle emerges first.", "example_ja": "種子が発芽すると、まず幼根が現れる。" },
+      { "title": "② 「下方に伸びる」として", "desc": "根の成長方向を表します。", "example_en": "The radicle grows downward into the soil.", "example_ja": "幼根は土の中へ下向きに伸びる。" }
+    ],
+    "warn": [
+      "radicle は植物の『幼根』。同音に近い radical（急進的な／根本的な）と混同しないよう注意。",
+      "どちらもラテン語 radix（根）が語源で、radical は『根本の』、radicle は『小さな根』。"
+    ],
+    "etym_note": "ラテン語 radicula（『小さな根』、radix「根」の指小形）に由来します。radish（ダイコン）、radical（根本的な）、root（根）と語源的につながります。",
+    "etym_chain": [
+      { "node": "radix", "sub": "根", "era": "ラテン語" },
+      { "node": "radicula", "sub": "小さな根", "era": "ラテン語" },
+      { "node": "radicle", "sub": "幼根", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the radicle emerges", "ja": "幼根が現れる" },
+      { "en": "the radicle grows downward", "ja": "幼根が下向きに伸びる" },
+      { "en": "the embryonic radicle", "ja": "胚の幼根" },
+      { "en": "radicle and plumule", "ja": "幼根と幼芽" },
+      { "en": "the tip of the radicle", "ja": "幼根の先端" },
+      { "en": "develop a radicle", "ja": "幼根を出す" }
+    ],
+    "related": [
+      { "en": "radical", "ja": "根本的な・急進的な" },
+      { "en": "root", "ja": "根" },
+      { "en": "plumule", "ja": "幼芽" },
+      { "en": "germinate", "ja": "発芽する" }
+    ],
+    "faq": [
+      { "q": "radicle とはどんな意味？", "a": "発芽するとき種子の胚から最初に出て、やがて主根になる『幼根』という植物学の用語です。When the seed germinates, the radicle emerges first.（発芽するとまず幼根が現れる）のように使います。" },
+      { "q": "radicle と radical の違いは？", "a": "radicle は植物の『幼根』、radical は『根本的な・急進的な』という形容詞（または名詞）です。同じ radix（根）由来ですが意味が違うので注意します。" }
+    ],
+    "quiz": [
+      { "q": "When the seed germinates, the ___ emerges first.（幼根）", "A": "radicle", "B": "radical の急進的な", "C": "particle の粒子", "D": "vehicle の乗り物", "correct": "A" },
+      { "q": "radicle のもとになったラテン語 radix の意味はどれ？", "A": "根", "B": "葉", "C": "花", "D": "茎", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ruthenium",
+    "pron": "ruːˈθiːniəm",
+    "kana": "ルテニウム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 Ruthenia（ルーシ＝ロシアの古名）＋ -ium",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "化学・元素"],
+    "meaning_main": "ルテニウム（金属元素・記号Ru）",
+    "description": "ruthenium の意味・発音・例文・語源を解説。白金族の金属元素「ルテニウム（元素記号Ru、原子番号44）」という、化学で使う語と、ロシアにちなむ語源を紹介します。",
+    "keywords": ["ruthenium 意味", "ruthenium 発音", "ルテニウム", "元素 Ru"],
+    "meanings": [
+      { "hinshi": "【名詞】ルテニウム（元素記号Ru、原子番号44）", "note": "白金族に属する硬く希少な金属元素。電子部品・触媒・合金の硬化剤などに使う。" }
+    ],
+    "usages": [
+      { "title": "① 「触媒として」として", "desc": "化学反応を助ける用途を表します。", "example_en": "Ruthenium is used as a catalyst in many chemical reactions.", "example_ja": "ルテニウムは多くの化学反応で触媒として使われる。" },
+      { "title": "② 「合金に加えて」として", "desc": "硬化剤としての用途を表します。", "example_en": "A small amount of ruthenium hardens platinum alloys.", "example_ja": "少量のルテニウムは白金合金を硬くする。" }
+    ],
+    "warn": [
+      "ruthenium は金属元素『ルテニウム』（記号Ru、原子番号44）。白金族の一つ。",
+      "名はロシアの古名 Ruthenia（ルテニア）に由来し、ウラル産の鉱石から発見されたことにちなむ。"
+    ],
+    "etym_note": "発見地ウラル地方にちなみ、ロシアを指すラテン語名 Ruthenia（『ルーシ・ルテニア』）＋ 金属元素の語尾 -ium から名づけられました。1844年にカール・クラウスが命名しました。",
+    "etym_chain": [
+      { "node": "Ruthenia", "sub": "ルーシ・ロシアの古名", "era": "中世ラテン語" },
+      { "node": "ruthenium", "sub": "ルテニウム", "era": "近代英語（1844）" },
+      { "node": "Ru", "sub": "元素記号", "era": "現代化学" }
+    ],
+    "phrases": [
+      { "en": "ruthenium catalyst", "ja": "ルテニウム触媒" },
+      { "en": "ruthenium alloy", "ja": "ルテニウム合金" },
+      { "en": "a thin layer of ruthenium", "ja": "ルテニウムの薄膜" },
+      { "en": "ruthenium compounds", "ja": "ルテニウム化合物" },
+      { "en": "platinum-group metal ruthenium", "ja": "白金族金属ルテニウム" },
+      { "en": "ruthenium oxide", "ja": "酸化ルテニウム" }
+    ],
+    "related": [
+      { "en": "platinum", "ja": "白金・プラチナ" },
+      { "en": "rhodium", "ja": "ロジウム" },
+      { "en": "catalyst", "ja": "触媒" },
+      { "en": "element", "ja": "元素" }
+    ],
+    "faq": [
+      { "q": "ruthenium とはどんな意味？", "a": "白金族に属する硬く希少な金属元素『ルテニウム（元素記号Ru、原子番号44）』です。触媒や合金の硬化剤、電子部品などに使われます。" },
+      { "q": "ruthenium の名前の由来は？", "a": "ロシアを指すラテン語名 Ruthenia に由来します。ウラル地方産の鉱石から発見されたことにちなんで命名されました。" }
+    ],
+    "quiz": [
+      { "q": "___ is used as a catalyst in many chemical reactions.（ルテニウム）", "A": "Ruthenium", "B": "Radium のラジウム", "C": "Rubidium のルビジウム", "D": "Radon のラドン", "correct": "A" },
+      { "q": "ruthenium の名前の由来となった国はどれ？", "A": "ロシア", "B": "ルーマニア", "C": "フランス", "D": "ドイツ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rutile",
+    "pron": "ˈruːtaɪl",
+    "kana": "ルチル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 rutilus（赤みがかった・金色の）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "鉱物・地学"],
+    "meaning_main": "ルチル（金紅石・二酸化チタンの鉱物）",
+    "description": "rutile の意味・発音・例文・語源を解説。二酸化チタンからなる鉱物「ルチル（金紅石）」という、鉱物学で使う語の使い方と、宝石のルチルクォーツも紹介します。",
+    "keywords": ["rutile 意味", "rutile 発音", "ルチル", "金紅石"],
+    "meanings": [
+      { "hinshi": "【名詞】ルチル・金紅石", "note": "二酸化チタン（TiO₂）からなる鉱物。チタンの主要な鉱石。白色顔料の原料。水晶に針状に内包されると『ルチルクォーツ（針入り水晶）』になる。" }
+    ],
+    "usages": [
+      { "title": "① 鉱物「チタンの鉱石」として", "desc": "鉱物としての用途を表します。", "example_en": "Rutile is an important ore of titanium.", "example_ja": "ルチルはチタンの重要な鉱石だ。" },
+      { "title": "② 宝石「ルチルクォーツ」として", "desc": "水晶への内包を表します。", "example_en": "Golden needles of rutile run through the quartz.", "example_ja": "金色のルチルの針が水晶の中を走っている。" }
+    ],
+    "warn": [
+      "rutile は鉱物『ルチル（金紅石）』。二酸化チタン（TiO₂）からなる。",
+      "白色顔料・日焼け止めに使われる二酸化チタンの結晶形の一つ。赤みがかった色から命名。"
+    ],
+    "etym_note": "ラテン語 rutilus（『赤みがかった・金色に輝く』）に由来します。結晶がしばしば赤褐色〜金色を帯びることにちなみ、1803年に命名されました。",
+    "etym_chain": [
+      { "node": "rutilus", "sub": "赤みがかった・金色の", "era": "ラテン語" },
+      { "node": "Rutil", "sub": "ルチル（独語命名）", "era": "近代（1803）" },
+      { "node": "rutile", "sub": "ルチル・金紅石", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "rutile is an ore of titanium", "ja": "ルチルはチタンの鉱石だ" },
+      { "en": "needles of rutile", "ja": "ルチルの針状結晶" },
+      { "en": "rutile quartz", "ja": "ルチルクォーツ・針入り水晶" },
+      { "en": "rutile sand", "ja": "ルチル砂" },
+      { "en": "titanium dioxide rutile", "ja": "ルチル型二酸化チタン" },
+      { "en": "golden rutile", "ja": "金色のルチル" }
+    ],
+    "related": [
+      { "en": "titanium", "ja": "チタン" },
+      { "en": "quartz", "ja": "水晶・石英" },
+      { "en": "mineral", "ja": "鉱物" },
+      { "en": "ore", "ja": "鉱石" }
+    ],
+    "faq": [
+      { "q": "rutile とはどんな意味？", "a": "二酸化チタン（TiO₂）からなる鉱物『ルチル（金紅石）』のことです。Rutile is an important ore of titanium.（ルチルはチタンの重要な鉱石だ）のように使います。" },
+      { "q": "ルチルクォーツとは？", "a": "水晶（quartz）の中に金色の針状のルチル結晶が内包されたものを『ルチルクォーツ（針入り水晶）』と呼び、宝石・パワーストーンとして人気があります。" }
+    ],
+    "quiz": [
+      { "q": "___ is an important ore of titanium.（ルチル）", "A": "Rutile", "B": "Reptile のは虫類", "C": "Ratio の比率", "D": "Rattle のガラガラ", "correct": "A" },
+      { "q": "rutile はおもに何の鉱石？", "A": "チタン", "B": "鉄", "C": "銅", "D": "金", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reamer",
+    "pron": "ˈriːmə",
+    "kana": "リーマー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ream（穴を広げる）＋ -er（道具）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "工具・機械"],
+    "meaning_main": "リーマー（穴を仕上げる工具）",
+    "description": "reamer の意味・発音・例文・語源を解説。あけた穴を正確な寸法に仕上げる工具「リーマー」という、機械加工で使う語の使い方を紹介します。",
+    "keywords": ["reamer 意味", "reamer 発音", "リーマー", "穴を仕上げる工具"],
+    "meanings": [
+      { "hinshi": "【名詞】リーマー", "note": "ドリルであけた穴を、正確な径・なめらかな内面に仕上げる回転工具。動詞 ream は『穴を広げる・仕上げる』。" },
+      { "hinshi": "【名詞】（柑橘の）果汁絞り器", "note": "オレンジなどを押し当てて果汁を絞る突起状の道具も reamer と呼ぶ。" }
+    ],
+    "usages": [
+      { "title": "① 機械「穴を仕上げる工具」として", "desc": "穴を正確に仕上げる道具を表します。", "example_en": "Use a reamer to bring the hole to the exact diameter.", "example_ja": "穴を正確な径に仕上げるにはリーマーを使いなさい。" },
+      { "title": "② 台所「果汁絞り器」として", "desc": "柑橘の果汁を絞る道具を表します。", "example_en": "She squeezed the lemon on a wooden reamer.", "example_ja": "彼女は木製の絞り器でレモンを絞った。" }
+    ],
+    "warn": [
+      "reamer は『リーマー（穴を仕上げる工具）』、また『（柑橘の）果汁絞り器』。動詞 ream は『穴を広げる』。",
+      "ドリルが穴を『あける』のに対し、リーマーは穴を『正確に仕上げる』点が違う。"
+    ],
+    "etym_note": "ream（『穴を広げる・えぐる』、古英語 ryman「広げる」、rūm「広い」より）＋ -er（道具）から成り、「穴を広げ仕上げる道具」を意味します。room（部屋＝広い空間）と同じ語根です。",
+    "etym_chain": [
+      { "node": "rūm", "sub": "広い", "era": "古英語" },
+      { "node": "ream", "sub": "穴を広げる・仕上げる", "era": "近代英語" },
+      { "node": "reamer", "sub": "リーマー", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "use a reamer", "ja": "リーマーを使う" },
+      { "en": "a hand reamer", "ja": "ハンドリーマー" },
+      { "en": "a taper reamer", "ja": "テーパーリーマー" },
+      { "en": "ream the hole", "ja": "穴を仕上げる" },
+      { "en": "a citrus reamer", "ja": "柑橘の果汁絞り器" },
+      { "en": "finish with a reamer", "ja": "リーマーで仕上げる" }
+    ],
+    "related": [
+      { "en": "ream", "ja": "穴を広げる・仕上げる" },
+      { "en": "drill", "ja": "ドリル・穴をあける" },
+      { "en": "bore", "ja": "穴をあける" },
+      { "en": "juicer", "ja": "果汁絞り器" }
+    ],
+    "faq": [
+      { "q": "reamer とはどんな意味？", "a": "ドリルであけた穴を正確な径・なめらかな内面に仕上げる回転工具『リーマー』のことです。Use a reamer to bring the hole to the exact diameter.（穴を正確な径に仕上げるにはリーマーを使う）のように使います。" },
+      { "q": "ドリルとリーマーの違いは？", "a": "ドリルは穴を『あける』工具、リーマーは既にある穴を『正確な寸法・なめらかな面に仕上げる』工具です。仕上げ精度が違います。" }
+    ],
+    "quiz": [
+      { "q": "Use a ___ to bring the hole to the exact diameter.（リーマー）", "A": "reamer", "B": "dreamer の夢想家", "C": "steamer の蒸し器", "D": "roamer の放浪者", "correct": "A" },
+      { "q": "reamer のもとになった動詞 ream の意味はどれ？", "A": "穴を広げる・仕上げる", "B": "夢を見る", "C": "蒸す", "D": "叫ぶ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reticule",
+    "pron": "ˈrɛtɪkjuːl",
+    "kana": "レティキュール",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 réticule、ラテン語 reticulum（小さな網）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "歴史・服飾"],
+    "meaning_main": "（昔の）女性用手提げ袋・小型バッグ",
+    "description": "reticule の意味・発音・例文・語源を解説。18〜19世紀の女性が持った「手提げ袋・小型バッグ」という、歴史や服飾で使う語の使い方を紹介します。reticle との違いも解説。",
+    "keywords": ["reticule 意味", "reticule 発音", "手提げ袋", "女性用バッグ"],
+    "meanings": [
+      { "hinshi": "【名詞】（昔の）女性用手提げ袋・小型バッグ", "note": "18〜19世紀、ドレスにポケットが作りにくくなった時代に女性が持ち歩いた小さな袋。ひも付きで手に提げた。" },
+      { "hinshi": "【名詞】（光学）照準線・目盛り線", "note": "reticle と同じく、望遠鏡などの十字線を指すこともある。" }
+    ],
+    "usages": [
+      { "title": "① 服飾史「手提げ袋」として", "desc": "昔の女性用バッグを表します。", "example_en": "She carried a small beaded reticule to the ball.", "example_ja": "彼女は舞踏会にビーズ飾りの小さな手提げ袋を持って行った。" },
+      { "title": "② 「中身を取り出す」として", "desc": "小袋の使い方を表します。", "example_en": "From her reticule she drew a lace handkerchief.", "example_ja": "彼女は手提げ袋からレースのハンカチを取り出した。" }
+    ],
+    "warn": [
+      "reticule は主に『（18〜19世紀の）女性用手提げ袋』。歴史・服飾の語。",
+      "光学の『照準線』の意味もあるが、その場合は reticle と綴る方が一般的。"
+    ],
+    "etym_note": "フランス語 réticule（ラテン語 reticulum「小さな網」より）に由来します。もとは網目状の小袋だったことから。reticle（照準線）や reticulate（網状の）と同じ rete（網）の系統です。",
+    "etym_chain": [
+      { "node": "reticulum", "sub": "小さな網", "era": "ラテン語" },
+      { "node": "réticule", "sub": "網状の小袋", "era": "フランス語" },
+      { "node": "reticule", "sub": "女性用手提げ袋", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a beaded reticule", "ja": "ビーズ飾りの手提げ袋" },
+      { "en": "a silk reticule", "ja": "絹の手提げ袋" },
+      { "en": "carry a reticule", "ja": "手提げ袋を持つ" },
+      { "en": "from her reticule", "ja": "彼女の手提げ袋から" },
+      { "en": "a drawstring reticule", "ja": "ひも締めの手提げ袋" },
+      { "en": "an embroidered reticule", "ja": "刺繍入りの手提げ袋" }
+    ],
+    "related": [
+      { "en": "reticle", "ja": "照準線・十字線" },
+      { "en": "purse", "ja": "小銭入れ・ハンドバッグ" },
+      { "en": "handbag", "ja": "ハンドバッグ" },
+      { "en": "pouch", "ja": "小袋" }
+    ],
+    "faq": [
+      { "q": "reticule とはどんな意味？", "a": "18〜19世紀の女性が持ち歩いた小さな『手提げ袋・バッグ』のことです。She carried a small beaded reticule.（ビーズ飾りの小さな手提げ袋を持っていた）のように、歴史・服飾の文脈で使います。" },
+      { "q": "reticule と reticle の違いは？", "a": "reticule は主に『女性用手提げ袋』、reticle は『照準線・十字線』です。どちらもラテン語 reticulum（小さな網）が語源で綴りが似ていますが、現在は意味が分かれています。" }
+    ],
+    "quiz": [
+      { "q": "She carried a small beaded ___ to the ball.（手提げ袋）", "A": "reticule", "B": "molecule の分子", "C": "ridicule の嘲笑", "D": "schedule の予定", "correct": "A" },
+      { "q": "reticule のもとのラテン語の意味はどれ？", "A": "小さな網", "B": "丸い鏡", "C": "革の帯", "D": "金の鎖", "correct": "A" }
+    ]
+  }
+]
