@@ -421,108 +421,107 @@
     ]
   },
   {
-    "english": "retest",
-    "pron": "ˌriːˈtɛst",
-    "kana": "リテスト",
-    "hinshi": "動詞 / 名詞",
+    "english": "resew",
+    "pron": "ˌriːˈsəʊ",
+    "kana": "リソウ",
+    "hinshi": "動詞",
     "ld_pos": "動詞",
-    "ld_etym": "re-（再び）＋ test（試験する・検査する）",
+    "ld_etym": "re-（再び）＋ sew（縫う）",
     "ld_level": "準1級",
-    "badges": ["高校生〜", "英検準1級", "CEFR B2", "教育・品質管理"],
-    "meaning_main": "再試験する・再検査する",
-    "description": "retest の意味・発音・例文・語源を解説。試験を「もう一度受けさせる」、製品を「再検査する」という、教育や品質管理で使う語の使い方を紹介します。",
-    "keywords": ["retest 意味", "retest 発音", "再試験する", "test 意味"],
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "裁縫・生活"],
+    "meaning_main": "縫い直す・縫い付け直す",
+    "description": "resew の意味・発音・例文・語源を解説。ほつれた縫い目やボタンを「縫い直す・縫い付け直す」という、裁縫や生活で使う語の使い方を紹介します。",
+    "keywords": ["resew 意味", "resew 発音", "縫い直す", "sew 意味"],
     "meanings": [
-      { "hinshi": "【動詞】再試験する・再検査する", "note": "試験・検査をもう一度行う。retest the samples（試料を再検査する）。" },
-      { "hinshi": "【名詞】再試験・再検査", "note": "take a retest（再試験を受ける）。" }
+      { "hinshi": "【動詞】縫い直す・縫い付け直す", "note": "ほどけた縫い目やとれたボタンを再び縫う。resew the button（ボタンを縫い付け直す）。過去分詞は resewn または resewed。" }
     ],
     "usages": [
-      { "title": "① 教育「再試験を受けさせる」として", "desc": "もう一度試験することを表します。", "example_en": "Students who failed were allowed to retest.", "example_ja": "落第した生徒は再試験を受けることが許された。" },
-      { "title": "② 品質管理「再検査する」として", "desc": "もう一度検査することを表します。", "example_en": "The lab retested the samples to confirm the readings.", "example_ja": "研究所は測定値を確認するため試料を再検査した。" }
+      { "title": "① 「ボタンを縫い付け直す」として", "desc": "とれたものを再び縫うことを表します。", "example_en": "She resewed the button that had fallen off.", "example_ja": "彼女はとれてしまったボタンを縫い付け直した。" },
+      { "title": "② 「縫い目を縫い直す」として", "desc": "ほどけた箇所を再び縫うことを表します。", "example_en": "The seam came apart, so I had to resew it.", "example_ja": "縫い目がほどけたので、縫い直さねばならなかった。" }
     ],
     "warn": [
-      "retest は『再試験する・再検査する』、名詞『再試験』。re-（再び）＋ test。",
-      "教育（追試）、品質管理（再検査）、医療（再検査）など幅広く使う。"
+      "resew は『縫い直す・縫い付け直す』。re-（再び）＋ sew。sew の発音はソウ（縫う）で、so と同音。",
+      "過去形は resewed、過去分詞は resewn（または resewed）。"
     ],
-    "etym_note": "re-（再び）＋ test（『試す・検査する』、ラテン語 testum「素焼きの壺（昔は金属を試す容器）」より）から成り、「再び試すこと」を意味します。testify（証言する）とは別系統ですが、test 自体は容器に由来します。",
+    "etym_note": "re-（再び）＋ sew（『縫う』、古英語 sēowian「縫う」より）から成り、「再び縫うこと」を意味します。seam（縫い目）と語源的につながる古英語起源の語です。",
     "etym_chain": [
-      { "node": "testum", "sub": "素焼きの壺", "era": "ラテン語" },
-      { "node": "test", "sub": "試験する・検査する", "era": "近代英語" },
-      { "node": "retest", "sub": "再試験する", "era": "現代英語" }
+      { "node": "sēowian", "sub": "縫う", "era": "古英語" },
+      { "node": "sew", "sub": "縫う", "era": "中英語" },
+      { "node": "resew", "sub": "縫い直す", "era": "現代英語" }
     ],
     "phrases": [
-      { "en": "retest the students", "ja": "生徒に再試験を行う" },
-      { "en": "retest the samples", "ja": "試料を再検査する" },
-      { "en": "take a retest", "ja": "再試験を受ける" },
-      { "en": "retest the equipment", "ja": "機器を再検査する" },
-      { "en": "retest for accuracy", "ja": "正確さのため再検査する" },
-      { "en": "retest later", "ja": "後で再検査する" }
+      { "en": "resew the button", "ja": "ボタンを縫い付け直す" },
+      { "en": "resew the seam", "ja": "縫い目を縫い直す" },
+      { "en": "resew the hem", "ja": "裾を縫い直す" },
+      { "en": "resew the patch", "ja": "当て布を縫い直す" },
+      { "en": "resew by hand", "ja": "手で縫い直す" },
+      { "en": "resew the lining", "ja": "裏地を縫い直す" }
     ],
     "related": [
-      { "en": "test", "ja": "試験する・検査する" },
-      { "en": "retake", "ja": "（試験を）受け直す" },
-      { "en": "reexamine", "ja": "再検査する" },
-      { "en": "recheck", "ja": "再点検する" }
+      { "en": "sew", "ja": "縫う" },
+      { "en": "restitch", "ja": "縫い直す" },
+      { "en": "mend", "ja": "繕う・直す" },
+      { "en": "stitch", "ja": "縫う・ひと針" }
     ],
     "faq": [
-      { "q": "retest とはどんな意味？", "a": "試験を『もう一度受けさせる・行う』、または製品・試料を『再検査する』という意味です。Students who failed were allowed to retest.（落第者は再試験を受けられた）のように使います。名詞でも『再試験』です。" },
-      { "q": "retest と retake の違いは？", "a": "retake は主に『（受験者が試験を）受け直す』、retest は『（実施側が）再び試験・検査する』『（受験者が）再受験する』両方に使えます。" }
+      { "q": "resew とはどんな意味？", "a": "ほどけた縫い目やとれたボタンなどを『縫い直す・縫い付け直す』という意味です。She resewed the button.（ボタンを縫い付け直した）のように使います。" },
+      { "q": "resew と restitch の違いは？", "a": "ほぼ同義ですが、resew は『（手や機械で）もう一度縫う』全般、restitch は『（一針一針の）縫い目をやり直す』ことにやや重点があります。" }
     ],
     "quiz": [
-      { "q": "Students who failed were allowed to ___.（再試験を受ける）", "A": "retest", "B": "test の最初に試験するだけ", "C": "protest の抗議する", "D": "detest のひどく嫌う", "correct": "A" },
-      { "q": "retest のもとになった動詞はどれ？", "A": "test（試験する・検査する）", "B": "taste（味わう）", "C": "toast（乾杯する）", "D": "trust（信頼する）", "correct": "A" }
+      { "q": "She ___ed the button that had fallen off.（縫い付け直した）", "A": "resew", "B": "sew の最初に縫うだけ", "C": "saw ののこぎりで切る", "D": "show の見せる", "correct": "A" },
+      { "q": "resew のもとになった動詞はどれ？", "A": "sew（縫う）", "B": "sow（種をまく）", "C": "saw（のこぎりで切る）", "D": "see（見る）", "correct": "A" }
     ]
   },
   {
-    "english": "retune",
-    "pron": "ˌriːˈtjuːn",
-    "kana": "リテューン",
+    "english": "reglue",
+    "pron": "ˌriːˈɡluː",
+    "kana": "リグルー",
     "hinshi": "動詞",
     "ld_pos": "動詞",
-    "ld_etym": "re-（再び）＋ tune（調律する・調整する）",
-    "ld_level": "1級",
-    "badges": ["大学生〜", "英検1級", "CEFR C1", "音楽・機械"],
-    "meaning_main": "調律し直す・チューニングし直す",
-    "description": "retune の意味・発音・例文・語源を解説。楽器を「調律し直す」、エンジンやラジオを「調整し直す」という、音楽や機械で使う語の使い方を紹介します。",
-    "keywords": ["retune 意味", "retune 発音", "調律し直す", "tune 意味"],
+    "ld_etym": "re-（再び）＋ glue（接着する・のりで貼る）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "工作・修理"],
+    "meaning_main": "貼り直す・接着し直す",
+    "description": "reglue の意味・発音・例文・語源を解説。はがれたものを「貼り直す・接着し直す」という、工作や修理で使う語の使い方を例文とともに紹介します。",
+    "keywords": ["reglue 意味", "reglue 発音", "貼り直す", "glue 意味"],
     "meanings": [
-      { "hinshi": "【動詞】調律し直す・チューニングし直す", "note": "楽器の音程を合わせ直す、機械やラジオを調整し直す。retune the guitar（ギターを調律し直す）。比喩で方針を『微調整する』。" }
+      { "hinshi": "【動詞】貼り直す・接着し直す", "note": "はがれた部分を再びのり・接着剤でつける。reglue the joint（接合部を接着し直す）。" }
     ],
     "usages": [
-      { "title": "① 音楽「楽器を調律し直す」として", "desc": "音程を合わせ直すことを表します。", "example_en": "The pianist had to retune the strings before the concert.", "example_ja": "ピアニストは演奏会の前に弦を調律し直さねばならなかった。" },
-      { "title": "② 機械「調整し直す」として", "desc": "設定を合わせ直すことを表します。", "example_en": "You may need to retune the TV after the signal change.", "example_ja": "電波の変更後はテレビを再設定する必要があるかもしれない。" }
+      { "title": "① 「はがれた部分を貼り直す」として", "desc": "再び接着することを表します。", "example_en": "The sole came off, so he reglued it.", "example_ja": "靴底がはがれたので、彼は貼り直した。" },
+      { "title": "② 工作「接合部を接着し直す」として", "desc": "緩んだ接合を再びつけることを表します。", "example_en": "We had to reglue the loose chair legs.", "example_ja": "私たちはぐらつく椅子の脚を接着し直さねばならなかった。" }
     ],
     "warn": [
-      "retune は『調律し直す・チューニングし直す』。re-（再び）＋ tune。",
-      "音楽（楽器）だけでなく、エンジン・ラジオ・テレビ・政策の『微調整』にも使う。"
+      "reglue は『貼り直す・接着し直す』。re-（再び）＋ glue。",
+      "ing 形は regluing。家具・靴・本など、はがれた接着の修理に使う日常語。"
     ],
-    "etym_note": "re-（再び）＋ tune（『調子・調律する』、tone「音・調子」の変形、ギリシャ語 tonos「張り・音」より）から成り、「再び調子を合わせること」を意味します。tone（音色）と同じ語根です。",
+    "etym_note": "re-（再び）＋ glue（『にかわ・接着する』、後期ラテン語 glus「にかわ」より）から成り、「再び接着すること」を意味します。gluten（グルテン＝粘り）と同じ語根です。",
     "etym_chain": [
-      { "node": "tonos", "sub": "張り・音", "era": "古代ギリシャ語" },
-      { "node": "tune", "sub": "調子・調律する", "era": "中英語" },
-      { "node": "retune", "sub": "調律し直す", "era": "現代英語" }
+      { "node": "glus", "sub": "にかわ", "era": "後期ラテン語" },
+      { "node": "glue", "sub": "接着する・のりで貼る", "era": "中英語" },
+      { "node": "reglue", "sub": "貼り直す", "era": "現代英語" }
     ],
     "phrases": [
-      { "en": "retune the guitar", "ja": "ギターを調律し直す" },
-      { "en": "retune the piano", "ja": "ピアノを調律し直す" },
-      { "en": "retune the engine", "ja": "エンジンを調整し直す" },
-      { "en": "retune the TV", "ja": "テレビを再設定する" },
-      { "en": "retune the radio", "ja": "ラジオを合わせ直す" },
-      { "en": "retune the strategy", "ja": "戦略を微調整する" }
+      { "en": "reglue the sole", "ja": "靴底を貼り直す" },
+      { "en": "reglue the joint", "ja": "接合部を接着し直す" },
+      { "en": "reglue the chair leg", "ja": "椅子の脚を接着し直す" },
+      { "en": "reglue the label", "ja": "ラベルを貼り直す" },
+      { "en": "reglue the binding", "ja": "本の背を貼り直す" },
+      { "en": "reglue firmly", "ja": "しっかり貼り直す" }
     ],
     "related": [
-      { "en": "tune", "ja": "調律する・調整する" },
-      { "en": "tuning", "ja": "調律・調整" },
-      { "en": "adjust", "ja": "調整する" },
-      { "en": "calibrate", "ja": "較正する" }
+      { "en": "glue", "ja": "接着する・のり" },
+      { "en": "stick", "ja": "貼る・くっつく" },
+      { "en": "bond", "ja": "接着する・結合する" },
+      { "en": "reattach", "ja": "取り付け直す" }
     ],
     "faq": [
-      { "q": "retune とはどんな意味？", "a": "楽器を『調律し直す』、機械やラジオを『調整し直す』という意味です。He had to retune the guitar.（ギターを調律し直さねばならなかった）のように使います。" },
-      { "q": "retune は比喩でも使える？", "a": "はい。政策や戦略を『微調整する』という比喩で retune the strategy のように使えます。tune（調子を合わせる）の比喩用法です。" }
+      { "q": "reglue とはどんな意味？", "a": "はがれたものを『貼り直す・接着し直す』という意味です。The sole came off, so he reglued it.（靴底がはがれたので貼り直した）のように使います。" },
+      { "q": "reglue の ing 形は？", "a": "glue と同じく、e を残しつつ regluing となります（glue → gluing）。過去形は reglued です。" }
     ],
     "quiz": [
-      { "q": "The pianist had to ___ the strings before the concert.（調律し直す）", "A": "retune", "B": "tune の最初に調律するだけ", "C": "return の戻る", "D": "tumble の転がる", "correct": "A" },
-      { "q": "retune のもとになった語はどれ？", "A": "tune（調子・調律する）", "B": "turn（回す）", "C": "tube（管）", "D": "tone の無関係な town（町）", "correct": "A" }
+      { "q": "The sole came off, so he ___d it.（貼り直した）", "A": "reglue", "B": "glue の最初に貼るだけ", "C": "glow の輝く", "D": "glide の滑る", "correct": "A" },
+      { "q": "reglue のもとになった動詞はどれ？", "A": "glue（接着する・のりで貼る）", "B": "glow（輝く）", "C": "glide（滑る）", "D": "grow（育つ）", "correct": "A" }
     ]
   }
 ]
