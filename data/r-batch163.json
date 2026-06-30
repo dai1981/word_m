@@ -1,0 +1,525 @@
+[
+  {
+    "english": "rehabilitation",
+    "pron": "ˌriːəˌbɪlɪˈteɪʃən",
+    "kana": "リハビリテイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ ラテン語 habilitare（適する・能力を与える）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "医療・社会"],
+    "meaning_main": "社会復帰・更生・リハビリ・修復",
+    "description": "rehabilitation の意味・発音・例文・語源を解説。病気やけがからの「リハビリ・機能回復」、犯罪者の「更生」、建物などの「修復」という、医療や社会で使う語の使い方を紹介します。",
+    "keywords": ["rehabilitation 意味", "rehabilitation 発音", "リハビリ", "更生"],
+    "meanings": [
+      { "hinshi": "【名詞】（医療）リハビリ・機能回復", "note": "病気・けが・依存からの回復訓練。physical rehabilitation（身体機能の回復）。略して rehab。" },
+      { "hinshi": "【名詞】更生・社会復帰／修復・復権", "note": "犯罪者などの更生、また建物・名誉などの修復・復権。動詞は rehabilitate。" }
+    ],
+    "usages": [
+      { "title": "① 医療「リハビリ」として", "desc": "機能回復を表します。", "example_en": "After the accident, he underwent months of rehabilitation.", "example_ja": "事故のあと、彼は何か月もリハビリを受けた。" },
+      { "title": "② 「更生・社会復帰」として", "desc": "立ち直りを表します。", "example_en": "The program focuses on the rehabilitation of offenders.", "example_ja": "その計画は犯罪者の更生に重点を置いている。" }
+    ],
+    "warn": [
+      "rehabilitation は『リハビリ・機能回復／更生・社会復帰／修復・復権』。動詞は rehabilitate、略は rehab。",
+      "医療（機能回復）、司法（更生）、建築（修復）、名誉（復権）など幅広く使う。"
+    ],
+    "etym_note": "re-（再び）＋ 中世ラテン語 rehabilitare（『再び能力・適性を与える』、habilitare「適する」、habilis「扱いやすい・適した」より）に由来し、「再び元の状態・能力に戻すこと」を意味します。ability（能力）や able（できる）と同じ語根です。",
+    "etym_chain": [
+      { "node": "habilis", "sub": "適した・扱いやすい", "era": "ラテン語" },
+      { "node": "rehabilitare", "sub": "再び能力を与える", "era": "中世ラテン語" },
+      { "node": "rehabilitation", "sub": "社会復帰・リハビリ", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "physical rehabilitation", "ja": "身体機能のリハビリ" },
+      { "en": "undergo rehabilitation", "ja": "リハビリを受ける" },
+      { "en": "drug rehabilitation", "ja": "薬物依存の更生" },
+      { "en": "the rehabilitation of offenders", "ja": "犯罪者の更生" },
+      { "en": "a rehabilitation center", "ja": "リハビリ施設" },
+      { "en": "urban rehabilitation", "ja": "都市の再生・修復" }
+    ],
+    "related": [
+      { "en": "rehabilitate", "ja": "社会復帰させる・修復する" },
+      { "en": "recovery", "ja": "回復" },
+      { "en": "therapy", "ja": "療法・セラピー" },
+      { "en": "restoration", "ja": "修復・復元" }
+    ],
+    "faq": [
+      { "q": "rehabilitation とはどんな意味？", "a": "病気やけがからの『リハビリ・機能回復』、犯罪者などの『更生・社会復帰』、建物や名誉の『修復・復権』を指します。He underwent months of rehabilitation.（何か月もリハビリを受けた）のように使います。動詞は rehabilitate です。" },
+      { "q": "rehabilitation と recovery の違いは？", "a": "recovery は『（自然な）回復』全般、rehabilitation は『（訓練・支援を通じて）元の能力・状態に戻すこと』に重点があります。リハビリ訓練や更生プログラムを伴います。" }
+    ],
+    "quiz": [
+      { "q": "After the accident, he underwent months of ___.（リハビリ）", "A": "rehabilitation", "B": "hesitation のためらい", "C": "imitation の模倣", "D": "irritation のいらだち", "correct": "A" },
+      { "q": "rehabilitation の動詞形はどれ？", "A": "rehabilitate（社会復帰させる・修復する）", "B": "hesitate（ためらう）", "C": "imitate（真似る）", "D": "irritate（いらだたせる）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "repentance",
+    "pron": "rɪˈpɛntəns",
+    "kana": "リペンタンス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "repent（悔い改める）＋ -ance",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "宗教・道徳"],
+    "meaning_main": "後悔・悔い改め・改悛",
+    "description": "repentance の意味・発音・例文・語源を解説。過ちを深く「後悔し悔い改めること・改悛」という、宗教や道徳で使う語の使い方を紹介します。動詞 repent も解説。",
+    "keywords": ["repentance 意味", "repentance 発音", "悔い改め", "repent 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】後悔・悔い改め・改悛", "note": "自分の過ちや罪を深く悔いて、心を入れ替えること。show repentance（悔い改めを示す）。宗教的・道徳的な文脈で重んじられる。動詞は repent。" }
+    ],
+    "usages": [
+      { "title": "① 「悔い改め」として", "desc": "深い後悔と改心を表します。", "example_en": "He expressed sincere repentance for his crimes.", "example_ja": "彼は自らの罪を心から悔い改めた。" },
+      { "title": "② 宗教「改悛」として", "desc": "罪の悔い改めを表します。", "example_en": "The sermon called for repentance and forgiveness.", "example_ja": "その説教は悔い改めと赦しを説いた。" }
+    ],
+    "warn": [
+      "repentance は『後悔・悔い改め・改悛』。repent（悔い改める）＋ -ance。",
+      "単なる『後悔（regret）』より、罪・過ちを悔いて『心を入れ替える』道徳的・宗教的な響きが強い。"
+    ],
+    "etym_note": "repent（『悔い改める』、古フランス語 repentir、re-（強意）＋ ラテン語 paenitere「後悔させる」より）＋ -ance から成り、「悔い改めること」を意味します。penitent（悔悛した）や penalty（罰）と同じ paena の系統です。",
+    "etym_chain": [
+      { "node": "paenitere", "sub": "後悔させる", "era": "ラテン語" },
+      { "node": "repent", "sub": "悔い改める", "era": "中英語" },
+      { "node": "repentance", "sub": "後悔・悔い改め", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "show repentance", "ja": "悔い改めを示す" },
+      { "en": "sincere repentance", "ja": "心からの悔い改め" },
+      { "en": "a sign of repentance", "ja": "悔悛のしるし" },
+      { "en": "call for repentance", "ja": "悔い改めを説く" },
+      { "en": "repentance and forgiveness", "ja": "悔い改めと赦し" },
+      { "en": "deep repentance", "ja": "深い改悛" }
+    ],
+    "related": [
+      { "en": "repent", "ja": "悔い改める" },
+      { "en": "remorse", "ja": "自責・良心の呵責" },
+      { "en": "contrition", "ja": "痛悔・深い悔い" },
+      { "en": "penitence", "ja": "悔悛・改悛" }
+    ],
+    "faq": [
+      { "q": "repentance とはどんな意味？", "a": "自分の過ちや罪を深く悔いて心を入れ替えること『後悔・悔い改め・改悛』のことです。He expressed sincere repentance for his crimes.（罪を心から悔い改めた）のように使います。動詞は repent です。" },
+      { "q": "repentance と regret の違いは？", "a": "regret は『（一般的な）後悔・残念に思うこと』、repentance は『（罪・過ちを悔いて）心を入れ替えること』という道徳的・宗教的な響きを持ちます。改心を伴う点が異なります。" }
+    ],
+    "quiz": [
+      { "q": "He expressed sincere ___ for his crimes.（悔い改め）", "A": "repentance", "B": "performance の演技", "C": "appearance の出現", "D": "acceptance の受容", "correct": "A" },
+      { "q": "repentance の動詞形はどれ？", "A": "repent（悔い改める）", "B": "represent（表す）", "C": "repeat（繰り返す）", "D": "repel（はねつける）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "repudiation",
+    "pron": "rɪˌpjuːdiˈeɪʃən",
+    "kana": "リピュディエイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 repudiare（拒絶する・離縁する）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "法律・政治"],
+    "meaning_main": "拒絶・否認・（債務などの）履行拒否",
+    "description": "repudiation の意味・発音・例文・語源を解説。主張・契約・債務などを「拒絶・否認・（支払いを）拒否すること」という、法律や政治で使う語の使い方を紹介します。動詞 repudiate も解説。",
+    "keywords": ["repudiation 意味", "repudiation 発音", "拒絶", "repudiate 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】拒絶・否認・履行拒否", "note": "主張・信念・契約・債務などをきっぱり拒む・受け入れないこと。repudiation of debt（債務の履行拒否＝デフォルト）。動詞は repudiate。" }
+    ],
+    "usages": [
+      { "title": "① 「主張の否認」として", "desc": "きっぱり退けることを表します。", "example_en": "The statement was a clear repudiation of the old policy.", "example_ja": "その声明は旧方針のはっきりとした否認だった。" },
+      { "title": "② 「債務の履行拒否」として", "desc": "支払い拒否を表します。", "example_en": "The country's repudiation of its debts shocked investors.", "example_ja": "その国の債務の履行拒否は投資家を動揺させた。" }
+    ],
+    "warn": [
+      "repudiation は『拒絶・否認・（債務などの）履行拒否』。動詞は repudiate。",
+      "信念・契約・債務などを『きっぱり退ける』強い語。単なる拒否（refusal）より公式・断固とした響き。"
+    ],
+    "etym_note": "ラテン語 repudiare（『拒絶する・離縁する』、repudium「離縁・拒絶」より）に由来します。もとは結婚の『離縁』を指し、転じて広く『きっぱり拒む』意味になりました。",
+    "etym_chain": [
+      { "node": "repudium", "sub": "離縁・拒絶", "era": "ラテン語" },
+      { "node": "repudiare", "sub": "拒絶する・離縁する", "era": "ラテン語" },
+      { "node": "repudiation", "sub": "拒絶・否認", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "repudiation of the treaty", "ja": "条約の破棄" },
+      { "en": "repudiation of debt", "ja": "債務の履行拒否" },
+      { "en": "a clear repudiation", "ja": "はっきりとした否認" },
+      { "en": "repudiation of violence", "ja": "暴力の拒否" },
+      { "en": "a public repudiation", "ja": "公の否認" },
+      { "en": "anticipatory repudiation", "ja": "履行期前の履行拒否（法律）" }
+    ],
+    "related": [
+      { "en": "repudiate", "ja": "拒絶する・否認する" },
+      { "en": "rejection", "ja": "拒絶" },
+      { "en": "denial", "ja": "否認" },
+      { "en": "renunciation", "ja": "放棄・断念" }
+    ],
+    "faq": [
+      { "q": "repudiation とはどんな意味？", "a": "主張・信念・契約・債務などをきっぱり『拒絶・否認・（支払いを）拒否すること』です。a clear repudiation of the old policy（旧方針のはっきりした否認）/ repudiation of debt（債務の履行拒否）のように使います。動詞は repudiate です。" },
+      { "q": "repudiation と rejection の違いは？", "a": "rejection は『（一般的な）拒絶・却下』、repudiation は『（信念・契約・債務などを）公式に・断固として退けること』に重点があります。法律・政治でよく使う強い語です。" }
+    ],
+    "quiz": [
+      { "q": "The statement was a clear ___ of the old policy.（否認）", "A": "repudiation", "B": "reputation の評判", "C": "repetition の繰り返し", "D": "reparation の賠償", "correct": "A" },
+      { "q": "repudiation の動詞形はどれ？", "A": "repudiate（拒絶する・否認する）", "B": "repute（評する）", "C": "repeat（繰り返す）", "D": "repair（修理する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reversion",
+    "pron": "rɪˈvɜːʃən",
+    "kana": "リバージョン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 revertere（引き返す・戻る）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "法律・生物"],
+    "meaning_main": "（元の状態への）逆戻り・復帰・（法律）復帰権",
+    "description": "reversion の意味・発音・例文・語源を解説。元の状態・性質への「逆戻り・復帰」、生物の「先祖返り」、法律で財産が元の所有者に戻る「復帰（権）」という語の使い方を紹介します。",
+    "keywords": ["reversion 意味", "reversion 発音", "逆戻り", "revert 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】（元の状態・性質への）逆戻り・復帰", "note": "以前の状態・習慣・型に戻ること。a reversion to old habits（昔の習慣への逆戻り）。生物では『先祖返り（祖先の形質が再び現れること）』。" },
+      { "hinshi": "【名詞】（法律）復帰・復帰権", "note": "財産・権利が、期間満了などで元の所有者（やその相続人）に戻ること。動詞は revert。" }
+    ],
+    "usages": [
+      { "title": "① 「逆戻り」として", "desc": "元の状態に戻ることを表します。", "example_en": "The crisis caused a reversion to protectionism.", "example_ja": "その危機は保護主義への逆戻りを招いた。" },
+      { "title": "② 法律「復帰権」として", "desc": "財産の元への帰属を表します。", "example_en": "On the tenant's death, the property's reversion goes to the landlord.", "example_ja": "借家人の死亡時、その不動産は地主に復帰する。" }
+    ],
+    "warn": [
+      "reversion は『（元の状態への）逆戻り・復帰／（生物）先祖返り／（法律）復帰権』。動詞は revert。",
+      "日常の『元に戻ること』から、生物学・法律の専門用法まで幅広い。"
+    ],
+    "etym_note": "ラテン語 revertere（『引き返す・戻る』、re-（戻して）＋ vertere「回す・向ける」より）に由来します。reverse（逆にする）、convert（転換する）、version（版）と同じ vertere の系統です。",
+    "etym_chain": [
+      { "node": "vertere", "sub": "回す・向ける", "era": "ラテン語" },
+      { "node": "revertere", "sub": "引き返す・戻る", "era": "ラテン語" },
+      { "node": "reversion", "sub": "逆戻り・復帰", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "reversion to type", "ja": "もとの型への逆戻り・先祖返り" },
+      { "en": "a reversion to old habits", "ja": "昔の習慣への逆戻り" },
+      { "en": "reversion to the mean", "ja": "平均への回帰" },
+      { "en": "the right of reversion", "ja": "復帰権" },
+      { "en": "reversion of the estate", "ja": "財産の復帰" },
+      { "en": "a sudden reversion", "ja": "突然の逆戻り" }
+    ],
+    "related": [
+      { "en": "revert", "ja": "（元に）戻る・逆戻りする" },
+      { "en": "reverse", "ja": "逆にする・逆の" },
+      { "en": "regression", "ja": "後退・退行・回帰" },
+      { "en": "atavism", "ja": "先祖返り・隔世遺伝" }
+    ],
+    "faq": [
+      { "q": "reversion とはどんな意味？", "a": "元の状態・性質への『逆戻り・復帰』、生物の『先祖返り』、法律で財産が元の所有者に戻る『復帰（権）』を指します。a reversion to old habits（昔の習慣への逆戻り）のように使います。動詞は revert です。" },
+      { "q": "「reversion to type」とは？", "a": "『もとの型・性質への逆戻り』という慣用表現です。生物では祖先の形質が再び現れる『先祖返り』、比喩では人や物事が本来の（しばしば望ましくない）姿に戻ることを指します。" }
+    ],
+    "quiz": [
+      { "q": "The crisis caused a ___ to protectionism.（逆戻り）", "A": "reversion", "B": "version の版", "C": "diversion の気晴らし", "D": "conversion の転換", "correct": "A" },
+      { "q": "reversion の動詞形はどれ？", "A": "revert（元に戻る）", "B": "reverse の名詞ではなく reserve（予約する）", "C": "review（再検討する）", "D": "reveal（明らかにする）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rectification",
+    "pron": "ˌrɛktɪfɪˈkeɪʃən",
+    "kana": "レクティフィケイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 rectus（まっすぐな・正しい）＋ facere（作る）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "技術・一般"],
+    "meaning_main": "是正・訂正・（電気）整流",
+    "description": "rectification の意味・発音・例文・語源を解説。誤りや不正を「是正・訂正すること」、また電気工学で交流を直流にする「整流」という語の使い方を紹介します。動詞 rectify も解説。",
+    "keywords": ["rectification 意味", "rectification 発音", "是正", "rectify 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】是正・訂正・修正", "note": "誤り・不正・不備を正しくすること。the rectification of errors（誤りの訂正）。動詞は rectify。" },
+      { "hinshi": "【名詞】（電気）整流／（化学）精留", "note": "電気工学で交流を直流に変えること、化学で蒸留を繰り返し純度を高めること。" }
+    ],
+    "usages": [
+      { "title": "① 「誤りの是正」として", "desc": "正しく直すことを表します。", "example_en": "The report called for the rectification of past mistakes.", "example_ja": "その報告は過去の誤りの是正を求めた。" },
+      { "title": "② 電気「整流」として", "desc": "交流→直流の変換を表します。", "example_en": "Rectification converts alternating current to direct current.", "example_ja": "整流は交流を直流に変換する。" }
+    ],
+    "warn": [
+      "rectification は『是正・訂正・修正／（電気）整流／（化学）精留』。動詞は rectify。",
+      "rect-（まっすぐ・正しい）が語根。correct（正す）、rectangle（長方形）と同系。"
+    ],
+    "etym_note": "ラテン語 rectus（『まっすぐな・正しい』）＋ facere（『作る』）から成る rectificare に由来し、「正しくすること」を意味します。correct（正す）、direct（まっすぐな）、rectitude（正直）と同じ rectus の系統です。",
+    "etym_chain": [
+      { "node": "rectus + facere", "sub": "正しい＋作る", "era": "ラテン語" },
+      { "node": "rectificare", "sub": "正しくする", "era": "後期ラテン語" },
+      { "node": "rectification", "sub": "是正・整流", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "the rectification of errors", "ja": "誤りの是正" },
+      { "en": "require rectification", "ja": "是正を要する" },
+      { "en": "rectification of the situation", "ja": "状況の是正" },
+      { "en": "a rectification of accounts", "ja": "会計の訂正" },
+      { "en": "full-wave rectification", "ja": "全波整流" },
+      { "en": "await rectification", "ja": "是正を待つ" }
+    ],
+    "related": [
+      { "en": "rectify", "ja": "是正する・整流する" },
+      { "en": "correction", "ja": "訂正・修正" },
+      { "en": "amendment", "ja": "修正・改正" },
+      { "en": "rectifier", "ja": "整流器" }
+    ],
+    "faq": [
+      { "q": "rectification とはどんな意味？", "a": "誤りや不正を『是正・訂正すること』、また電気工学で交流を直流に変える『整流』のことです。The report called for the rectification of past mistakes.（過去の誤りの是正を求めた）のように使います。動詞は rectify です。" },
+      { "q": "電気の rectification（整流）とは？", "a": "交流（AC）を直流（DC）に変換することです。整流器（rectifier）を使って行い、多くの電子機器の電源で必要となる基本的な処理です。" }
+    ],
+    "quiz": [
+      { "q": "The report called for the ___ of past mistakes.（是正）", "A": "rectification", "B": "ratification の批准", "C": "notification の通知", "D": "gratification の満足", "correct": "A" },
+      { "q": "rectification の動詞形はどれ？", "A": "rectify（是正する）", "B": "ratify（批准する）", "C": "notify（通知する）", "D": "verify（確認する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "remonstrance",
+    "pron": "rɪˈmɒnstrəns",
+    "kana": "リモンストランス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 remonstrare（指し示す・抗議する）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "フォーマル・歴史"],
+    "meaning_main": "抗議・諫言（かんげん）・異議の申し立て",
+    "description": "remonstrance の意味・発音・例文・語源を解説。不満や反対を訴える「抗議・諫言（かんげん）・異議の申し立て」という、フォーマルや歴史で使う語の使い方を紹介します。動詞 remonstrate も解説。",
+    "keywords": ["remonstrance 意味", "remonstrance 発音", "抗議", "諫言"],
+    "meanings": [
+      { "hinshi": "【名詞】抗議・諫言・異議の申し立て", "note": "強く反対・不満を述べ、考え直すよう訴えること。しばしば文書による正式な抗議も指す。動詞は remonstrate（抗議する・諫める）。フォーマル・やや古風。" }
+    ],
+    "usages": [
+      { "title": "① 「抗議」として", "desc": "強い異議を表します。", "example_en": "Despite their remonstrances, the plan went ahead.", "example_ja": "彼らの抗議にもかかわらず、計画は進められた。" },
+      { "title": "② 「諫言」として", "desc": "考え直すよう訴えることを表します。", "example_en": "The minister ignored the bishop's remonstrance.", "example_ja": "大臣は司教の諫言を無視した。" }
+    ],
+    "warn": [
+      "remonstrance は『抗議・諫言・異議の申し立て』。動詞は remonstrate。フォーマル・やや古風。",
+      "歴史では Grand Remonstrance（大抗議文、1641年の英議会の文書）のような固有の用例もある。"
+    ],
+    "etym_note": "ラテン語 remonstrare（『はっきり指し示す・抗議する』、re-（強意）＋ monstrare「示す」より）に由来します。demonstrate（実演する・示す）や monster（前兆・怪物）と同じ monstrare の系統です。",
+    "etym_chain": [
+      { "node": "monstrare", "sub": "示す", "era": "ラテン語" },
+      { "node": "remonstrare", "sub": "指し示す・抗議する", "era": "中世ラテン語" },
+      { "node": "remonstrance", "sub": "抗議・諫言", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "despite their remonstrances", "ja": "彼らの抗議にもかかわらず" },
+      { "en": "a formal remonstrance", "ja": "正式な抗議" },
+      { "en": "ignore a remonstrance", "ja": "諫言を無視する" },
+      { "en": "make a remonstrance", "ja": "抗議する" },
+      { "en": "in spite of remonstrance", "ja": "異議をよそに" },
+      { "en": "a strong remonstrance", "ja": "強い抗議" }
+    ],
+    "related": [
+      { "en": "remonstrate", "ja": "抗議する・諫める" },
+      { "en": "protest", "ja": "抗議・抗議する" },
+      { "en": "objection", "ja": "異議・反対" },
+      { "en": "expostulation", "ja": "忠告・諫言" }
+    ],
+    "faq": [
+      { "q": "remonstrance とはどんな意味？", "a": "強く反対・不満を述べ考え直すよう訴えること『抗議・諫言（かんげん）・異議の申し立て』です。Despite their remonstrances, the plan went ahead.（抗議にもかかわらず計画は進められた）のように使います。動詞は remonstrate です。" },
+      { "q": "remonstrance と protest の違いは？", "a": "protest は『（広く）抗議』全般、remonstrance は『（正式に・諫めるように）強く異議を訴えること』というフォーマルで古風な響きがあります。" }
+    ],
+    "quiz": [
+      { "q": "Despite their ___s, the plan went ahead.（抗議）", "A": "remonstrance", "B": "performance の演技", "C": "maintenance の維持", "D": "ambulance の救急車", "correct": "A" },
+      { "q": "remonstrance と同じ語根 monstrare を持つのはどれ？", "A": "demonstrate（実演する・示す）", "B": "demolish（取り壊す）", "C": "dominate（支配する）", "D": "diminish（減らす）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "replenishment",
+    "pron": "rɪˈplɛnɪʃmənt",
+    "kana": "リプレニッシュメント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "replenish（補充する）＋ -ment",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "ビジネス・物流"],
+    "meaning_main": "補充・補給・（在庫の）補填",
+    "description": "replenishment の意味・発音・例文・語源を解説。減ったものを「補充・補給すること」という、ビジネスや物流（在庫補充）で使う語の使い方を紹介します。動詞 replenish も解説。",
+    "keywords": ["replenishment 意味", "replenishment 発音", "補充", "replenish 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】補充・補給・補填", "note": "減ったもの（在庫・資源・体力など）を再び満たすこと。stock replenishment（在庫補充）。動詞は replenish。" }
+    ],
+    "usages": [
+      { "title": "① 物流「在庫補充」として", "desc": "在庫の補填を表します。", "example_en": "The store uses an automatic replenishment system.", "example_ja": "その店は自動補充システムを使っている。" },
+      { "title": "② 「補給」として", "desc": "減ったものを満たすことを表します。", "example_en": "Rest allows the replenishment of energy.", "example_ja": "休息はエネルギーの補給を可能にする。" }
+    ],
+    "warn": [
+      "replenishment は『補充・補給・補填』。replenish（補充する）＋ -ment。",
+      "在庫管理（stock replenishment）でよく使うビジネス語。資源・体力の『補給』にも使う。"
+    ],
+    "etym_note": "replenish（『再び満たす・補充する』、古フランス語 repleniss-、ラテン語 re-＋ plenus「満ちた」より）＋ -ment から成り、「再び満たすこと」を意味します。plenty（豊富）や plenary（完全な）と同じ plenus の系統です。",
+    "etym_chain": [
+      { "node": "plenus", "sub": "満ちた", "era": "ラテン語" },
+      { "node": "replenish", "sub": "補充する・再び満たす", "era": "中英語" },
+      { "node": "replenishment", "sub": "補充・補給", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "stock replenishment", "ja": "在庫補充" },
+      { "en": "automatic replenishment", "ja": "自動補充" },
+      { "en": "replenishment of supplies", "ja": "物資の補給" },
+      { "en": "energy replenishment", "ja": "エネルギーの補給" },
+      { "en": "inventory replenishment", "ja": "在庫の補填" },
+      { "en": "a replenishment order", "ja": "補充の発注" }
+    ],
+    "related": [
+      { "en": "replenish", "ja": "補充する・再び満たす" },
+      { "en": "resupply", "ja": "補給する" },
+      { "en": "restock", "ja": "在庫を補充する" },
+      { "en": "refill", "ja": "補充する・補充分" }
+    ],
+    "faq": [
+      { "q": "replenishment とはどんな意味？", "a": "減ったもの（在庫・資源・体力など）を再び満たすこと『補充・補給・補填』のことです。The store uses an automatic replenishment system.（自動補充システムを使っている）のように使います。動詞は replenish です。" },
+      { "q": "replenishment と restock の違いは？", "a": "意味は近く、どちらも『在庫の補充』を指せます。replenishment は『補充（の過程・概念）』全般、restock は『（特に商品を）再び仕入れて棚を埋める』動作に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The store uses an automatic ___ system.（補充）", "A": "replenishment", "B": "establishment の設立", "C": "punishment の罰", "D": "astonishment の驚き", "correct": "A" },
+      { "q": "replenishment の動詞形はどれ？", "A": "replenish（補充する）", "B": "replace（取り替える）", "C": "represent（表す）", "D": "reply（返答する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reconquest",
+    "pron": "ˌriːˈkɒŋkwɛst",
+    "kana": "リコンクエスト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ conquest（征服）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "歴史・軍事"],
+    "meaning_main": "再征服・（失地の）奪回",
+    "description": "reconquest の意味・発音・例文・語源を解説。失った土地などを「再び征服する・奪回すること」という、歴史や軍事で使う語の使い方と、スペインのレコンキスタを紹介します。",
+    "keywords": ["reconquest 意味", "reconquest 発音", "再征服", "レコンキスタ"],
+    "meanings": [
+      { "hinshi": "【名詞】再征服・（失地の）奪回", "note": "一度失った領土などを再び征服・奪い返すこと。特に大文字 Reconquest はスペイン・ポルトガルがイスラム勢力から領土を取り戻した『レコンキスタ（国土回復運動）』を指す。動詞は reconquer。" }
+    ],
+    "usages": [
+      { "title": "① 「失地の奪回」として", "desc": "領土の取り戻しを表します。", "example_en": "The campaign aimed at the reconquest of lost territory.", "example_ja": "その軍事行動は失った領土の奪回を目指した。" },
+      { "title": "② 歴史「レコンキスタ」として", "desc": "国土回復運動を表します。", "example_en": "The Reconquest of Spain ended in 1492.", "example_ja": "スペインのレコンキスタは1492年に完了した。" }
+    ],
+    "warn": [
+      "reconquest は『再征服・（失地の）奪回』。re-（再び）＋ conquest。動詞は reconquer。",
+      "大文字 Reconquest はスペイン語 Reconquista（レコンキスタ＝国土回復運動）の英訳として有名。"
+    ],
+    "etym_note": "re-（再び）＋ conquest（『征服』、ラテン語 conquirere「探し求める・獲得する」、con-（強意）＋ quaerere「求める」より）から成り、「再び獲得すること」を意味します。quest（探求）や require（要求する）と同じ quaerere の系統です。",
+    "etym_chain": [
+      { "node": "conquirere", "sub": "獲得する・探し求める", "era": "ラテン語" },
+      { "node": "conquest", "sub": "征服", "era": "中英語" },
+      { "node": "reconquest", "sub": "再征服・奪回", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the reconquest of territory", "ja": "領土の奪回" },
+      { "en": "the Reconquest of Spain", "ja": "スペインのレコンキスタ" },
+      { "en": "aim at reconquest", "ja": "奪回を目指す" },
+      { "en": "a war of reconquest", "ja": "奪回の戦争" },
+      { "en": "the reconquest of the city", "ja": "都市の奪回" },
+      { "en": "complete the reconquest", "ja": "再征服を完了する" }
+    ],
+    "related": [
+      { "en": "reconquer", "ja": "再征服する・奪回する" },
+      { "en": "conquest", "ja": "征服" },
+      { "en": "recapture", "ja": "奪回する・取り戻す" },
+      { "en": "Reconquista", "ja": "レコンキスタ（国土回復運動）" }
+    ],
+    "faq": [
+      { "q": "reconquest とはどんな意味？", "a": "一度失った領土などを『再び征服する・奪い返すこと（再征服・奪回）』です。The campaign aimed at the reconquest of lost territory.（失った領土の奪回を目指した）のように使います。動詞は reconquer です。" },
+      { "q": "Reconquest（レコンキスタ）とは？", "a": "中世のスペイン・ポルトガルで、キリスト教勢力がイスラム勢力から領土を取り戻した『国土回復運動』を指します。スペイン語で Reconquista と呼ばれ、1492年のグラナダ陥落で完了しました。" }
+    ],
+    "quiz": [
+      { "q": "The campaign aimed at the ___ of lost territory.（奪回）", "A": "reconquest", "B": "request の要求", "C": "conquest の最初の征服", "D": "bequest の遺贈", "correct": "A" },
+      { "q": "reconquest の動詞形はどれ？", "A": "reconquer（再征服する）", "B": "request（要求する）", "C": "inquire（尋ねる）", "D": "acquire（獲得する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recoupment",
+    "pron": "rɪˈkuːpmənt",
+    "kana": "リクープメント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "recoup（取り戻す・回収する）＋ -ment",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "金融・ビジネス"],
+    "meaning_main": "（損失・費用の）回収・取り戻し",
+    "description": "recoupment の意味・発音・例文・語源を解説。投じた費用や被った損失を「回収・取り戻すこと」という、金融やビジネスで使う語の使い方を紹介します。動詞 recoup も解説。",
+    "keywords": ["recoupment 意味", "recoupment 発音", "回収", "recoup 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】（損失・費用の）回収・取り戻し", "note": "支出した費用や被った損失を埋め合わせて取り戻すこと。recoupment of costs（費用の回収）。動詞は recoup。" }
+    ],
+    "usages": [
+      { "title": "① 「費用の回収」として", "desc": "投資の取り戻しを表します。", "example_en": "The film's success allowed full recoupment of its budget.", "example_ja": "その映画の成功で制作費を全額回収できた。" },
+      { "title": "② 「損失の取り戻し」として", "desc": "損失の埋め合わせを表します。", "example_en": "They sought recoupment of their losses through the courts.", "example_ja": "彼らは裁判を通じて損失の回収を求めた。" }
+    ],
+    "warn": [
+      "recoupment は『（損失・費用の）回収・取り戻し』。recoup（取り戻す）＋ -ment。",
+      "投資の回収・損失の埋め合わせの文脈で使う金融・ビジネス語。"
+    ],
+    "etym_note": "recoup（『取り戻す・回収する』、古フランス語 recouper「切り戻す・差し引く」、re-＋ couper「切る」より）＋ -ment から成り、「（損失を）取り戻すこと」を意味します。coupon（クーポン＝切り取り券）と同じ couper の系統です。",
+    "etym_chain": [
+      { "node": "couper", "sub": "切る", "era": "古フランス語" },
+      { "node": "recoup", "sub": "取り戻す・回収する", "era": "近代英語" },
+      { "node": "recoupment", "sub": "回収・取り戻し", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "recoupment of costs", "ja": "費用の回収" },
+      { "en": "full recoupment", "ja": "全額回収" },
+      { "en": "recoupment of losses", "ja": "損失の回収" },
+      { "en": "the recoupment period", "ja": "回収期間" },
+      { "en": "seek recoupment", "ja": "回収を求める" },
+      { "en": "recoupment of investment", "ja": "投資の回収" }
+    ],
+    "related": [
+      { "en": "recoup", "ja": "取り戻す・回収する" },
+      { "en": "recovery", "ja": "回収・回復" },
+      { "en": "reimbursement", "ja": "弁済・払い戻し" },
+      { "en": "return", "ja": "リターン・利益" }
+    ],
+    "faq": [
+      { "q": "recoupment とはどんな意味？", "a": "支出した費用や被った損失を埋め合わせて『回収・取り戻すこと』です。The film's success allowed full recoupment of its budget.（成功で制作費を全額回収できた）のように使います。動詞は recoup です。" },
+      { "q": "recoupment と reimbursement の違いは？", "a": "recoupment は『（投資・損失を、収益などで）自力で取り戻すこと』、reimbursement は『（立て替えた費用を他者から）弁済・払い戻してもらうこと』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The film's success allowed full ___ of its budget.（回収）", "A": "recoupment", "B": "recruitment の採用", "C": "requirement の要件", "D": "retirement の引退", "correct": "A" },
+      { "q": "recoupment の動詞形はどれ？", "A": "recoup（取り戻す・回収する）", "B": "recruit（採用する）", "C": "require（要求する）", "D": "retire（引退する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "redoubling",
+    "pron": "ˌriːˈdʌblɪŋ",
+    "kana": "リダブリング",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "redouble（倍加する・強める）＋ -ing",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文章・一般"],
+    "meaning_main": "倍加・いっそうの強化（努力などを倍にすること）",
+    "description": "redoubling の意味・発音・例文・語源を解説。努力や勢いを「倍加すること・いっそう強めること」という、文章で使う語の使い方を紹介します。動詞 redouble も解説。",
+    "keywords": ["redoubling 意味", "redoubling 発音", "倍加", "redouble 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】倍加・いっそうの強化", "note": "努力・勢い・警戒などを倍にする・大いに強めること。a redoubling of efforts（いっそうの努力）。動詞は redouble（倍加する・強める）。" }
+    ],
+    "usages": [
+      { "title": "① 「努力の倍加」として", "desc": "いっそうの努力を表します。", "example_en": "The setback led to a redoubling of efforts.", "example_ja": "その挫折は、いっそうの努力につながった。" },
+      { "title": "② 「警戒の強化」として", "desc": "勢いの強化を表します。", "example_en": "There was a redoubling of security after the threat.", "example_ja": "脅迫のあと、警備がいっそう強化された。" }
+    ],
+    "warn": [
+      "redoubling は『倍加・いっそうの強化』。redouble（倍加する・強める）＋ -ing。",
+      "文字どおり『2倍』というより『大いに強める』という比喩で使うことが多い。a redoubling of efforts が定番。"
+    ],
+    "etym_note": "redouble（re-（強意）＋ double「2倍にする」、ラテン語 duplus「2倍の」より）＋ -ing から成り、「倍加すること・いっそう強めること」を意味します。double（2倍）や duplicate（複製）と同じ duplus の系統です。",
+    "etym_chain": [
+      { "node": "duplus", "sub": "2倍の", "era": "ラテン語" },
+      { "node": "redouble", "sub": "倍加する・強める", "era": "中英語" },
+      { "node": "redoubling", "sub": "倍加・いっそうの強化", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a redoubling of efforts", "ja": "いっそうの努力" },
+      { "en": "a redoubling of security", "ja": "警備の強化" },
+      { "en": "a redoubling of energy", "ja": "勢いの倍加" },
+      { "en": "call for a redoubling", "ja": "いっそうの強化を求める" },
+      { "en": "a redoubling of attention", "ja": "注意のいっそうの強化" },
+      { "en": "the redoubling of demand", "ja": "需要の倍増" }
+    ],
+    "related": [
+      { "en": "redouble", "ja": "倍加する・強める" },
+      { "en": "double", "ja": "2倍にする" },
+      { "en": "intensification", "ja": "強化・激化" },
+      { "en": "escalation", "ja": "増大・エスカレート" }
+    ],
+    "faq": [
+      { "q": "redoubling とはどんな意味？", "a": "努力や勢い、警戒などを『倍加すること・いっそう強めること』です。The setback led to a redoubling of efforts.（挫折がいっそうの努力につながった）のように使います。動詞は redouble です。" },
+      { "q": "redoubling は文字どおり『2倍』？", "a": "必ずしも正確に2倍を意味せず、『大いに強める・いっそう力を入れる』という比喩で使うことが多いです。a redoubling of efforts（努力をいっそう強めること）が代表的な言い回しです。" }
+    ],
+    "quiz": [
+      { "q": "The setback led to a ___ of efforts.（倍加）", "A": "redoubling", "B": "rebuilding の再建", "C": "reminding の思い出させること", "D": "rewarding のやりがいのある", "correct": "A" },
+      { "q": "redoubling の動詞形はどれ？", "A": "redouble（倍加する・強める）", "B": "rebound（はね返る）", "C": "reduce（減らす）", "D": "remind（思い出させる）", "correct": "A" }
+    ]
+  }
+]
