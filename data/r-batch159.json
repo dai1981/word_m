@@ -1,55 +1,54 @@
 [
   {
-    "english": "reminiscent",
-    "pron": "ˌrɛmɪˈnɪsənt",
-    "kana": "レミニセント",
-    "hinshi": "形容詞",
-    "ld_pos": "形容詞",
-    "ld_etym": "ラテン語 reminisci（思い出す）より",
+    "english": "reproducibly",
+    "pron": "ˌriːprəˈdjuːsəbli",
+    "kana": "リプロデューシブリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "reproducible（再現できる）＋ -ly",
     "ld_level": "1級",
-    "badges": ["大学生〜", "英検1級", "CEFR C1", "一般・文章"],
-    "meaning_main": "（〜を）思い出させる・しのばせる",
-    "description": "reminiscent の意味・発音・例文・語源を解説。何かが別のものを「思い出させる・しのばせる」、また人が「昔をなつかしむ」という語の使い方を紹介します。reminiscent of の形を解説。",
-    "keywords": ["reminiscent 意味", "reminiscent 発音", "思い出させる", "reminisce 意味"],
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "学術・研究"],
+    "meaning_main": "再現可能な形で・繰り返し同じように",
+    "description": "reproducibly の意味・発音・例文・語源を解説。実験や測定が「再現可能な形で・繰り返しても同じように」得られる様子という、科学や研究で使う副詞の使い方を紹介します。",
+    "keywords": ["reproducibly 意味", "reproducibly 発音", "再現可能な形で", "reproducible 意味"],
     "meanings": [
-      { "hinshi": "【形容詞】（〜を）思い出させる・しのばせる", "note": "be reminiscent of ... の形で『〜を思い出させる・〜を思わせる』。The smell was reminiscent of summer.（その匂いは夏を思い出させた）。" },
-      { "hinshi": "【形容詞】昔をなつかしむ", "note": "（人が）思い出にふける。in a reminiscent mood（追憶に浸った気分で）。" }
+      { "hinshi": "【副詞】再現可能な形で・繰り返し同じように", "note": "同じ手順でやり直しても同じ結果が安定して得られるように。measured reproducibly（再現可能に測定された）。科学の信頼性を示す重要な語。形容詞は reproducible。" }
     ],
     "usages": [
-      { "title": "① 「〜を思わせる」として", "desc": "類似による連想を表します。", "example_en": "The music is reminiscent of the 1980s.", "example_ja": "その音楽は1980年代を思い出させる。" },
-      { "title": "② 「なつかしむ」として", "desc": "追憶を表します。", "example_en": "She grew reminiscent as she looked at the old photos.", "example_ja": "彼女は古い写真を見て昔をなつかしんだ。" }
+      { "title": "① 「再現可能に測定する」として", "desc": "安定した再現性を表します。", "example_en": "The effect can be reproducibly measured in the lab.", "example_ja": "その効果は実験室で再現可能な形で測定できる。" },
+      { "title": "② 「繰り返し同じ結果」として", "desc": "結果の一貫性を表します。", "example_en": "The drug reproducibly lowered blood pressure in trials.", "example_ja": "その薬は試験で繰り返し同じように血圧を下げた。" }
     ],
     "warn": [
-      "reminiscent は『（〜を）思い出させる・しのばせる』。be reminiscent of ... の形が基本。",
-      "ラテン語 reminisci（思い出す）由来。動詞 reminisce（思い出を語る）と同じ語根。"
+      "reproducibly は『再現可能な形で・繰り返し同じように』。reproducible（再現できる）＋ -ly。",
+      "科学論文で『誰がやっても同じ結果が出る』という再現性を述べるのに使う。"
     ],
-    "etym_note": "ラテン語 reminisci（『思い出す』、re-＋ minisci「心に留める」、mens「心」より）に由来します。mind（心）、mental（精神の）、memory（記憶）と意味的につながる語根です。",
+    "etym_note": "reproduce（re-「再び」＋ produce「生み出す」、ラテン語 producere「前へ導く」より）＋ -ible ＋ -ly から成り、「再び同じものを生み出せるように」を意味します。produce（生産する）や conduct（導く）と同じ ducere の系統です。",
     "etym_chain": [
-      { "node": "reminisci", "sub": "思い出す", "era": "ラテン語" },
-      { "node": "reminiscent", "sub": "思い出させる", "era": "近代英語" },
-      { "node": "reminisce", "sub": "思い出を語る", "era": "近代英語" }
+      { "node": "producere", "sub": "前へ導く・生み出す", "era": "ラテン語" },
+      { "node": "reproducible", "sub": "再現できる", "era": "近代英語" },
+      { "node": "reproducibly", "sub": "再現可能な形で", "era": "現代英語" }
     ],
     "phrases": [
-      { "en": "reminiscent of ...", "ja": "〜を思い出させる" },
-      { "en": "reminiscent of the past", "ja": "過去を思わせる" },
-      { "en": "strongly reminiscent of ...", "ja": "強く〜を思わせる" },
-      { "en": "a reminiscent smile", "ja": "なつかしむような笑み" },
-      { "en": "reminiscent of home", "ja": "故郷を思い出させる" },
-      { "en": "in a reminiscent mood", "ja": "追憶に浸った気分で" }
+      { "en": "reproducibly measured", "ja": "再現可能に測定された" },
+      { "en": "reproducibly observed", "ja": "繰り返し観察された" },
+      { "en": "reproducibly produce ...", "ja": "再現可能に〜を生み出す" },
+      { "en": "demonstrated reproducibly", "ja": "再現可能に実証された" },
+      { "en": "work reproducibly", "ja": "安定して同じように働く" },
+      { "en": "reproducibly accurate", "ja": "再現性をもって正確な" }
     ],
     "related": [
-      { "en": "reminisce", "ja": "思い出を語る・なつかしむ" },
-      { "en": "reminiscence", "ja": "回想・思い出" },
-      { "en": "evocative", "ja": "（記憶などを）呼び起こす" },
-      { "en": "nostalgic", "ja": "郷愁を誘う" }
+      { "en": "reproducible", "ja": "再現可能な" },
+      { "en": "reproducibility", "ja": "再現性" },
+      { "en": "replicable", "ja": "再現できる" },
+      { "en": "consistently", "ja": "一貫して" }
     ],
     "faq": [
-      { "q": "reminiscent とはどんな意味？", "a": "何かが別のものを『思い出させる・しのばせる』という意味の形容詞です。be reminiscent of ... の形で使います。The music is reminiscent of the 1980s.（その音楽は1980年代を思い出させる）のように使います。" },
-      { "q": "reminiscent of の使い方は？", "a": "「A is reminiscent of B（AはBを思い出させる・思わせる）」の形で使います。AとBが似ていて連想を呼ぶときに用いる、文章でよく使う表現です。" }
+      { "q": "reproducibly とはどんな意味？", "a": "実験や測定が『再現可能な形で・繰り返しても同じように』得られる様子を表す副詞です。The effect can be reproducibly measured.（その効果は再現可能な形で測定できる）のように、科学・研究で使います。形容詞は reproducible です。" },
+      { "q": "なぜ reproducibly が科学で重要？", "a": "ある結果が『誰がやっても・何度やっても同じように得られる（再現性がある）』ことは、科学的な信頼性の核心だからです。再現できない結果は信用されにくくなります。" }
     ],
     "quiz": [
-      { "q": "The music is ___ of the 1980s.（思い出させる）", "A": "reminiscent", "B": "magnificent の壮大な", "C": "innocent の無邪気な", "D": "consistent の一貫した", "correct": "A" },
-      { "q": "reminiscent と同じ語根を持つ動詞はどれ？", "A": "reminisce（思い出を語る）", "B": "remind の類義ではなく resign（辞職する）", "C": "remove（取り除く）", "D": "remain（とどまる）", "correct": "A" }
+      { "q": "The effect can be ___ measured in the lab.（再現可能な形で）", "A": "reproducibly", "B": "reluctantly のいやいや", "C": "remotely の遠隔で", "D": "repeatedly の繰り返して", "correct": "A" },
+      { "q": "reproducibly のもとになった形容詞はどれ？", "A": "reproducible（再現できる）", "B": "responsible（責任のある）", "C": "remarkable（注目すべき）", "D": "reasonable（妥当な）", "correct": "A" }
     ]
   },
   {
