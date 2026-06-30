@@ -467,5 +467,57 @@
       { "q": "The referee checked the ___ before making the call.（ルールブック）", "A": "rulebook", "B": "notebook のノート", "C": "textbook の教科書", "D": "cookbook の料理本", "correct": "A" },
       { "q": "by the rulebook はどんな意味？", "A": "規則どおりに", "B": "本を読みながら", "C": "急いで", "D": "ひそかに", "correct": "A" }
     ]
+  },
+  {
+    "english": "repairable",
+    "pron": "rɪˈpɛərəbəl",
+    "kana": "リペアラブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "repair（修理する）＋ -able（〜できる）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "日常・修理"],
+    "meaning_main": "修理できる・直せる",
+    "description": "repairable の意味・発音・例文・語源を解説。壊れたものが「修理できる・直せる」という、日常や修理の場面で使う語の使い方を紹介します。irreparable との違いも解説。",
+    "keywords": ["repairable 意味", "repairable 発音", "修理できる", "repair 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】修理できる・直せる", "note": "壊れたものを直せる。a repairable device（修理できる機器）。重大な損傷について『取り返しがつかない』を表すときは irreparable を使う。" }
+    ],
+    "usages": [
+      { "title": "① 「修理できる機器」として", "desc": "直せることを表します。", "example_en": "The laptop is repairable, so don't throw it away.", "example_ja": "そのノートパソコンは修理できるから捨てないで。" },
+      { "title": "② 「直せる損傷」として", "desc": "復旧可能を表します。", "example_en": "The damage to the roof is repairable.", "example_ja": "屋根の損傷は直せる範囲だ。" }
+    ],
+    "warn": [
+      "repairable は『修理できる・直せる』。repair（修理する）＋ -able。",
+      "物理的な修理には repairable、抽象的・取り返しのつかない損害には irreparable（取り返しのつかない）を使い分ける。"
+    ],
+    "etym_note": "repair（『修理する』、ラテン語 reparare「再び整える」、re-＋ parare「整える・備える」より）＋ -able（『〜できる』）から成り、「直せる」を意味します。prepare（準備する）や apparatus（装置）と同じ parare の系統です。",
+    "etym_chain": [
+      { "node": "reparare", "sub": "再び整える", "era": "ラテン語" },
+      { "node": "repair", "sub": "修理する", "era": "中英語" },
+      { "node": "repairable", "sub": "修理できる", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a repairable device", "ja": "修理できる機器" },
+      { "en": "easily repairable", "ja": "簡単に直せる" },
+      { "en": "repairable damage", "ja": "直せる損傷" },
+      { "en": "still repairable", "ja": "まだ修理できる" },
+      { "en": "a repairable fault", "ja": "直せる故障" },
+      { "en": "designed to be repairable", "ja": "修理できるよう設計された" }
+    ],
+    "related": [
+      { "en": "repair", "ja": "修理する" },
+      { "en": "fixable", "ja": "直せる" },
+      { "en": "irreparable", "ja": "取り返しのつかない" },
+      { "en": "mend", "ja": "繕う・直す" }
+    ],
+    "faq": [
+      { "q": "repairable とはどんな意味？", "a": "壊れたものが『修理できる・直せる』という意味の形容詞です。The laptop is repairable, so don't throw it away.（修理できるから捨てないで）のように使います。" },
+      { "q": "repairable と irreparable の違いは？", "a": "repairable は『修理できる』、irreparable は『取り返しのつかない・修復不能な』です。irreparable は物だけでなく『取り返しのつかない損害・関係』など抽象的にも使われます。" }
+    ],
+    "quiz": [
+      { "q": "The laptop is ___, so don't throw it away.（修理できる）", "A": "repairable", "B": "irreparable の取り返しのつかない", "C": "removable の取り外せる", "D": "remarkable の注目すべき", "correct": "A" },
+      { "q": "repairable のもとになった動詞はどれ？", "A": "repair（修理する）", "B": "prepare（準備する）", "C": "repeat（繰り返す）", "D": "replace（取り替える）", "correct": "A" }
+    ]
   }
 ]
