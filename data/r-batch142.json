@@ -1,0 +1,528 @@
+[
+  {
+    "english": "recondition",
+    "pron": "ˌriːkənˈdɪʃən",
+    "kana": "リコンディション",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ condition（状態を整える）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "工業・整備"],
+    "meaning_main": "再生する・整備し直して新品同様にする",
+    "description": "recondition の意味・発音・例文・語源を解説。中古の機械やエンジンを「再生する・整備し直して新品同様にする」という、工業や整備で使う語の使い方を紹介します。",
+    "keywords": ["recondition 意味", "recondition 発音", "再生する", "condition 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再生する・整備し直す", "note": "中古品を点検・修理・清掃して良好な状態に戻す。recondition the engine（エンジンを再生する）。形容詞 reconditioned（再生整備済みの）。" }
+    ],
+    "usages": [
+      { "title": "① 「エンジンを再生する」として", "desc": "整備して新品同様にすることを表します。", "example_en": "The garage reconditioned the old engine instead of replacing it.", "example_ja": "整備工場は古いエンジンを交換せずに再生した。" },
+      { "title": "② 「中古品を再生する」として", "desc": "良好な状態に戻すことを表します。", "example_en": "They sell reconditioned laptops at a lower price.", "example_ja": "彼らは再生整備済みのノートパソコンを安く売っている。" }
+    ],
+    "warn": [
+      "recondition は『再生する・整備し直す』。re-（再び）＋ condition。",
+      "reconditioned（再生整備済み）は refurbished とほぼ同義で中古品販売でよく使う。"
+    ],
+    "etym_note": "re-（再び）＋ condition（『状態・整える』、ラテン語 condicio「取り決め・状態」、condicere「取り決める」より）から成り、「再び良い状態に整えること」を意味します。",
+    "etym_chain": [
+      { "node": "condicio", "sub": "取り決め・状態", "era": "ラテン語" },
+      { "node": "condition", "sub": "状態・整える", "era": "中英語" },
+      { "node": "recondition", "sub": "再生する・整備し直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "recondition the engine", "ja": "エンジンを再生する" },
+      { "en": "recondition the battery", "ja": "バッテリーを再生する" },
+      { "en": "reconditioned laptop", "ja": "再生整備済みのノートPC" },
+      { "en": "recondition the machine", "ja": "機械を整備し直す" },
+      { "en": "fully reconditioned", "ja": "完全に再生整備された" },
+      { "en": "recondition used parts", "ja": "中古部品を再生する" }
+    ],
+    "related": [
+      { "en": "condition", "ja": "状態・整える" },
+      { "en": "refurbish", "ja": "改装する・一新する" },
+      { "en": "overhaul", "ja": "分解整備する" },
+      { "en": "restore", "ja": "修復する" }
+    ],
+    "faq": [
+      { "q": "recondition とはどんな意味？", "a": "中古の機械や製品を『再生する・整備し直して新品同様にする』という意味です。They sell reconditioned laptops.（再生整備済みのノートPCを売っている）のように使います。" },
+      { "q": "recondition と refurbish の違いは？", "a": "ほぼ同義ですが、recondition は『（機械的に）点検・修理して機能を回復させる』、refurbish は『（外観も含めて）きれいに一新する』点にやや重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The garage ___ed the old engine instead of replacing it.（再生した）", "A": "recondition", "B": "condition の最初に整えるだけ", "C": "conduct の行う", "D": "consider の考える", "correct": "A" },
+      { "q": "reconditioned と意味が近いのはどれ？", "A": "refurbished（再生整備済みの）", "B": "brand-new（新品の）", "C": "broken（壊れた）", "D": "rented（賃貸の）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "restyle",
+    "pron": "ˌriːˈstaɪl",
+    "kana": "リスタイル",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ style（型にする・整える）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "ファッション・デザイン"],
+    "meaning_main": "デザインを一新する・髪型を整え直す",
+    "description": "restyle の意味・発音・例文・語源を解説。製品や髪型などの「デザインを一新する・整え直す」という、ファッションやデザインで使う語の使い方を紹介します。",
+    "keywords": ["restyle 意味", "restyle 発音", "デザインを一新する", "style 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】デザインを一新する・整え直す", "note": "外見・型・髪型などを新しくする。restyle the website（サイトのデザインを一新する）。restyle one's hair（髪型を整え直す）。" }
+    ],
+    "usages": [
+      { "title": "① 「デザインを一新する」として", "desc": "見た目を新しくすることを表します。", "example_en": "The brand restyled its logo for a fresh look.", "example_ja": "そのブランドは新鮮な印象のためロゴを一新した。" },
+      { "title": "② 「髪型を整え直す」として", "desc": "ヘアスタイルを変えることを表します。", "example_en": "The stylist restyled her hair into a short bob.", "example_ja": "美容師は彼女の髪をショートボブに整え直した。" }
+    ],
+    "warn": [
+      "restyle は『デザインを一新する・整え直す』。re-（再び）＋ style。",
+      "見た目・スタイルの刷新を指し、機能より外観の変更に重点がある。"
+    ],
+    "etym_note": "re-（再び）＋ style（『様式・型にする』、ラテン語 stilus「筆記具・書き方」より）から成り、「再び様式を整えること」を意味します。stylus（尖筆）と同じ語根です。",
+    "etym_chain": [
+      { "node": "stilus", "sub": "筆記具・書き方", "era": "ラテン語" },
+      { "node": "style", "sub": "様式・型にする", "era": "中英語" },
+      { "node": "restyle", "sub": "デザインを一新する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "restyle the logo", "ja": "ロゴを一新する" },
+      { "en": "restyle the website", "ja": "サイトのデザインを一新する" },
+      { "en": "restyle the car", "ja": "車のデザインを一新する" },
+      { "en": "restyle one's hair", "ja": "髪型を整え直す" },
+      { "en": "restyle the interior", "ja": "内装を一新する" },
+      { "en": "completely restyle", "ja": "完全にデザインを一新する" }
+    ],
+    "related": [
+      { "en": "style", "ja": "様式・型にする" },
+      { "en": "redesign", "ja": "設計し直す" },
+      { "en": "revamp", "ja": "改良する・刷新する" },
+      { "en": "makeover", "ja": "イメージ刷新" }
+    ],
+    "faq": [
+      { "q": "restyle とはどんな意味？", "a": "製品や髪型などの『デザインを一新する・整え直す』という意味です。The brand restyled its logo.（ブランドはロゴを一新した）のように使います。" },
+      { "q": "restyle と redesign の違いは？", "a": "redesign は『（機能・構造も含めて）設計し直す』、restyle は『（主に外見・スタイルを）整え直す』点に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The stylist ___d her hair into a short bob.（整え直した）", "A": "restyle", "B": "style の最初に整えるだけ", "C": "settle の落ち着く", "D": "startle の驚かせる", "correct": "A" },
+      { "q": "restyle のもとになった語はどれ？", "A": "style（様式・型にする）", "B": "stale（古びた）", "C": "still（静かな）", "D": "steel（鋼）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reseat",
+    "pron": "ˌriːˈsiːt",
+    "kana": "リシート",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ seat（座らせる・はめ込む）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "一般・整備"],
+    "meaning_main": "座り直させる・はめ直す",
+    "description": "reseat の意味・発音・例文・語源を解説。客を「別の席に座らせ直す」、部品を「はめ直す・取り付け直す」という語の使い方を紹介します。",
+    "keywords": ["reseat 意味", "reseat 発音", "座らせ直す", "seat 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】座り直させる・席を替える", "note": "客や乗客を別の席に案内し直す。reseat the guests（客を席替えする）。" },
+      { "hinshi": "【動詞】はめ直す・取り付け直す", "note": "部品・カードなどを正しく差し込み直す。reseat the chip（チップをはめ直す）。" }
+    ],
+    "usages": [
+      { "title": "① 「客を席替えする」として", "desc": "別の席に座らせ直すことを表します。", "example_en": "The waiter reseated us at a quieter table.", "example_ja": "ウェイターは私たちを静かなテーブルに案内し直した。" },
+      { "title": "② 整備「部品をはめ直す」として", "desc": "正しく差し込み直すことを表します。", "example_en": "Try reseating the memory card if it isn't detected.", "example_ja": "認識されないならメモリーカードをはめ直してみなさい。" }
+    ],
+    "warn": [
+      "reseat は『座り直させる・席を替える／はめ直す・取り付け直す』。re-（再び）＋ seat。",
+      "PC修理で『reseat the RAM（メモリを挿し直す）』のように接触不良の対処によく使う。"
+    ],
+    "etym_note": "re-（再び）＋ seat（『座席・座らせる』、古ノルド語 sæti「座席」より）から成り、「再び座らせる・正しい位置に収めること」を意味します。sit（座る）と同じ語根です。",
+    "etym_chain": [
+      { "node": "sæti", "sub": "座席", "era": "古ノルド語" },
+      { "node": "seat", "sub": "座席・座らせる", "era": "中英語" },
+      { "node": "reseat", "sub": "座り直させる・はめ直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reseat the guests", "ja": "客を席替えする" },
+      { "en": "reseat the passengers", "ja": "乗客を座らせ直す" },
+      { "en": "reseat the card", "ja": "カードをはめ直す" },
+      { "en": "reseat the chip", "ja": "チップをはめ直す" },
+      { "en": "reseat the RAM", "ja": "メモリを挿し直す" },
+      { "en": "reseat the valve", "ja": "弁を当たり直す" }
+    ],
+    "related": [
+      { "en": "seat", "ja": "座席・座らせる" },
+      { "en": "reposition", "ja": "位置を変える" },
+      { "en": "reinsert", "ja": "差し込み直す" },
+      { "en": "rearrange", "ja": "並べ替える" }
+    ],
+    "faq": [
+      { "q": "reseat とはどんな意味？", "a": "客を『別の席に座らせ直す』、または部品を『はめ直す・取り付け直す』という意味です。The waiter reseated us.（席替えしてくれた）/ reseat the card（カードをはめ直す）のように使います。" },
+      { "q": "PC修理の reseat とは？", "a": "メモリやカードなどの部品を一度抜いて正しく挿し直すことで、接触不良を直す定番の対処を指します。reseat the RAM のように使います。" }
+    ],
+    "quiz": [
+      { "q": "Try ___ing the memory card if it isn't detected.（はめ直す）", "A": "reseat", "B": "seat の最初に座らせるだけ", "C": "repeat の繰り返す", "D": "retreat の退却する", "correct": "A" },
+      { "q": "reseat のもとになった語はどれ？", "A": "seat（座席・座らせる）", "B": "seal（封じる）", "C": "sweat（汗）", "D": "seek（探す）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reseed",
+    "pron": "ˌriːˈsiːd",
+    "kana": "リシード",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ seed（種をまく）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "園芸・IT"],
+    "meaning_main": "種をまき直す・（IT）シードし直す",
+    "description": "reseed の意味・発音・例文・語源を解説。芝生などに「種をまき直す」、ITで乱数を「シードし直す」という、園芸やITで使う語の使い方を紹介します。",
+    "keywords": ["reseed 意味", "reseed 発音", "種をまき直す", "seed 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】種をまき直す", "note": "芝生・畑などにもう一度種をまく。reseed the lawn（芝生に種をまき直す）。" },
+      { "hinshi": "【動詞】（IT）シードし直す・初期値を入れ直す", "note": "乱数生成器やデータベースに初期値・初期データを再投入する。" }
+    ],
+    "usages": [
+      { "title": "① 園芸「芝生に種をまき直す」として", "desc": "再び種をまくことを表します。", "example_en": "We reseeded the bare patches in the lawn.", "example_ja": "私たちは芝生のはげた部分に種をまき直した。" },
+      { "title": "② IT「シードし直す」として", "desc": "初期値・初期データを入れ直すことを表します。", "example_en": "The script reseeds the database with sample data.", "example_ja": "そのスクリプトはサンプルデータでデータベースを初期化し直す。" }
+    ],
+    "warn": [
+      "reseed は『種をまき直す／（IT）シードし直す』。re-（再び）＋ seed。",
+      "IT では乱数の seed（種・初期値）やDBの seed data（初期データ）を入れ直す意味で使う。"
+    ],
+    "etym_note": "re-（再び）＋ seed（『種・種をまく』、古英語 sǣd「種」より）から成り、「再び種をまくこと」を意味します。sow（まく）と語源的につながります。",
+    "etym_chain": [
+      { "node": "sǣd", "sub": "種", "era": "古英語" },
+      { "node": "seed", "sub": "種・種をまく", "era": "中英語" },
+      { "node": "reseed", "sub": "種をまき直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reseed the lawn", "ja": "芝生に種をまき直す" },
+      { "en": "reseed the field", "ja": "畑に種をまき直す" },
+      { "en": "reseed bare patches", "ja": "はげた所に種をまき直す" },
+      { "en": "reseed the database", "ja": "データベースを初期化し直す" },
+      { "en": "reseed in spring", "ja": "春に種をまき直す" },
+      { "en": "reseed the generator", "ja": "乱数を初期化し直す" }
+    ],
+    "related": [
+      { "en": "seed", "ja": "種・種をまく" },
+      { "en": "sow", "ja": "（種を）まく" },
+      { "en": "replant", "ja": "植え直す" },
+      { "en": "seeding", "ja": "種まき・初期化" }
+    ],
+    "faq": [
+      { "q": "reseed とはどんな意味？", "a": "芝生や畑に『種をまき直す』、またはITで『シード（初期値・初期データ）を入れ直す』という意味です。We reseeded the bare patches.（はげた部分に種をまき直した）のように使います。" },
+      { "q": "IT の reseed とは？", "a": "乱数生成器の seed（初期値）を入れ直したり、データベースに seed data（初期データ）を再投入したりすることを指します。" }
+    ],
+    "quiz": [
+      { "q": "We ___ed the bare patches in the lawn.（種をまき直した）", "A": "reseed", "B": "seed の最初にまくだけ", "C": "recede の後退する", "D": "succeed の成功する", "correct": "A" },
+      { "q": "reseed のもとになった語はどれ？", "A": "seed（種・種をまく）", "B": "seat（座席）", "C": "feed（与える）", "D": "speed（速さ）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "resettle",
+    "pron": "ˌriːˈsɛtəl",
+    "kana": "リセトゥル",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ settle（住み着く・定住させる）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "社会・ニュース"],
+    "meaning_main": "再定住する・移住させる",
+    "description": "resettle の意味・発音・例文・語源を解説。難民などを「移住させる・再定住させる」、人が新天地に「移り住む」という、社会やニュースで使う語の使い方を紹介します。",
+    "keywords": ["resettle 意味", "resettle 発音", "再定住する", "settle 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再定住する・移り住む", "note": "別の土地に新たに住み着く。resettle abroad（外国に移り住む）。" },
+      { "hinshi": "【動詞】（難民などを）移住させる・再定住させる", "note": "難民・避難民を別の地域・国に受け入れ定住させる。名詞は resettlement。" }
+    ],
+    "usages": [
+      { "title": "① 「移り住む」として", "desc": "新しい土地に定住することを表します。", "example_en": "After the war, the family resettled in another country.", "example_ja": "戦後、その一家は別の国に移り住んだ。" },
+      { "title": "② 「難民を再定住させる」として", "desc": "避難民を受け入れ定住させることを表します。", "example_en": "The agency helped resettle thousands of refugees.", "example_ja": "その機関は数千人の難民の再定住を支援した。" }
+    ],
+    "warn": [
+      "resettle は『再定住する／（難民などを）移住させる』。re-（再び）＋ settle。名詞は resettlement。",
+      "難民・避難民・移住の文脈で特によく使われる。"
+    ],
+    "etym_note": "re-（再び）＋ settle（『落ち着く・定住する』、古英語 setlan「座らせる・据える」、setl「座席」より）から成り、「再び腰を据えて住むこと」を意味します。sit（座る）と同じ語根です。",
+    "etym_chain": [
+      { "node": "setlan", "sub": "据える・落ち着かせる", "era": "古英語" },
+      { "node": "settle", "sub": "定住する・落ち着く", "era": "中英語" },
+      { "node": "resettle", "sub": "再定住する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "resettle abroad", "ja": "外国に移り住む" },
+      { "en": "resettle the refugees", "ja": "難民を再定住させる" },
+      { "en": "resettle in a new country", "ja": "新しい国に移り住む" },
+      { "en": "help resettle", "ja": "再定住を支援する" },
+      { "en": "resettle displaced people", "ja": "避難民を再定住させる" },
+      { "en": "resettlement program", "ja": "再定住プログラム" }
+    ],
+    "related": [
+      { "en": "settle", "ja": "定住する・落ち着く" },
+      { "en": "resettlement", "ja": "再定住・移住" },
+      { "en": "relocate", "ja": "移転する・移住する" },
+      { "en": "migrate", "ja": "移住する" }
+    ],
+    "faq": [
+      { "q": "resettle とはどんな意味？", "a": "人が別の土地に『再定住する・移り住む』、または難民などを『移住させる・再定住させる』という意味です。The agency helped resettle refugees.（難民の再定住を支援した）のように使います。名詞は resettlement です。" },
+      { "q": "resettle と relocate の違いは？", "a": "relocate は『（会社・人が）移転する』広い語、resettle は特に『（難民・移民が新天地に）定住し直す』社会的な文脈で使われます。" }
+    ],
+    "quiz": [
+      { "q": "The agency helped ___ thousands of refugees.（再定住させる）", "A": "resettle", "B": "settle の最初に定住するだけ", "C": "settle の同義 unsettle（不安にする）", "D": "rattle のガタガタ鳴る", "correct": "A" },
+      { "q": "resettle のもとになった動詞はどれ？", "A": "settle（定住する・落ち着く）", "B": "saddle（鞍をつける）", "C": "scuttle（急ぎ足で行く）", "D": "shuttle（往復する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reupload",
+    "pron": "ˌriːʌpˈləʊd",
+    "kana": "リアップロード",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ upload（アップロードする）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "IT・SNS"],
+    "meaning_main": "再アップロードする・上げ直す",
+    "description": "reupload の意味・発音・例文・語源を解説。動画やファイルを「再アップロードする・上げ直す」という、ITやSNSで使う語の使い方を例文とともに紹介します。",
+    "keywords": ["reupload 意味", "reupload 発音", "再アップロードする", "upload 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再アップロードする・上げ直す", "note": "削除した・失敗したファイルや動画を再びアップする。reupload the video（動画を上げ直す）。re-upload とも綴る。" }
+    ],
+    "usages": [
+      { "title": "① 「動画を上げ直す」として", "desc": "再びアップすることを表します。", "example_en": "He reuploaded the video after fixing the audio.", "example_ja": "彼は音声を直して動画を上げ直した。" },
+      { "title": "② 「ファイルを再アップロードする」として", "desc": "失敗したアップを再びすることを表します。", "example_en": "Please reupload the file; the previous one was corrupted.", "example_ja": "ファイルを再アップロードしてください。前のは壊れていました。" }
+    ],
+    "warn": [
+      "reupload は『再アップロードする・上げ直す』。re-（再び）＋ upload。re-upload とも綴る。",
+      "対義は redownload（再ダウンロードする）。SNS・動画サイトでよく使う。"
+    ],
+    "etym_note": "re-（再び）＋ upload（up「上へ」＋ load「積む」）から成り、「再び（データを）上へ送ること」を意味します。コンピュータ時代に生まれた load 系の語です。",
+    "etym_chain": [
+      { "node": "load", "sub": "積む・読み込む", "era": "古英語系" },
+      { "node": "upload", "sub": "アップロードする", "era": "現代英語" },
+      { "node": "reupload", "sub": "再アップロードする", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reupload the video", "ja": "動画を上げ直す" },
+      { "en": "reupload the file", "ja": "ファイルを再アップロードする" },
+      { "en": "reupload the photo", "ja": "写真を上げ直す" },
+      { "en": "reupload to the server", "ja": "サーバーに再アップロードする" },
+      { "en": "reupload in HD", "ja": "高画質で上げ直す" },
+      { "en": "please reupload", "ja": "再アップロードしてください" }
+    ],
+    "related": [
+      { "en": "upload", "ja": "アップロードする" },
+      { "en": "download", "ja": "ダウンロードする" },
+      { "en": "repost", "ja": "再投稿する" },
+      { "en": "resubmit", "ja": "再提出する" }
+    ],
+    "faq": [
+      { "q": "reupload とはどんな意味？", "a": "動画やファイルを『再アップロードする・上げ直す』という意味です。He reuploaded the video after fixing the audio.（音声を直して動画を上げ直した）のように使います。" },
+      { "q": "reupload と repost の違いは？", "a": "reupload は『（データそのものを）もう一度アップする』、repost は『（投稿として）再び共有・投稿する』点に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "Please ___ the file; the previous one was corrupted.（再アップロードする）", "A": "reupload", "B": "upload の最初に上げるだけ", "C": "download の落とす", "D": "unload の降ろす", "correct": "A" },
+      { "q": "reupload のもとになった動詞はどれ？", "A": "upload（アップロードする）", "B": "unload（荷を降ろす）", "C": "reload（再装填する）", "D": "overload（積みすぎる）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reship",
+    "pron": "ˌriːˈʃɪp",
+    "kana": "リシップ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ ship（発送する・船で送る）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "物流・通販"],
+    "meaning_main": "再発送する・転送する",
+    "description": "reship の意味・発音・例文・語源を解説。荷物を「再発送する」、転送業者が「別の宛先へ送り直す」という、物流や通販で使う語の使い方を紹介します。",
+    "keywords": ["reship 意味", "reship 発音", "再発送する", "ship 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再発送する・送り直す", "note": "届かなかった・返品された荷物を再び送る。reship the order（注文品を再発送する）。過去形は reshipped。" },
+      { "hinshi": "【動詞】転送する", "note": "受け取った荷物を別の宛先へ送り直す。reship to another address（別の住所へ転送する）。" }
+    ],
+    "usages": [
+      { "title": "① 通販「再発送する」として", "desc": "もう一度送ることを表します。", "example_en": "The seller agreed to reship the lost parcel for free.", "example_ja": "売り手は紛失した小包を無料で再発送することに同意した。" },
+      { "title": "② 「転送する」として", "desc": "別の宛先へ送り直すことを表します。", "example_en": "The forwarding service reships packages overseas.", "example_ja": "その転送サービスは荷物を海外へ転送する。" }
+    ],
+    "warn": [
+      "reship は『再発送する・転送する』。re-（再び）＋ ship。過去形・過去分詞は reshipped（p を重ねる）。",
+      "ここでの ship は『船』ではなく動詞『発送する』。海外転送（reshipping）サービスでよく使う。"
+    ],
+    "etym_note": "re-（再び）＋ ship（『船・船で運ぶ→発送する』、古英語 scip「船」より）から成り、「再び（船などで）送ること」を意味します。名詞 ship（船）と同じ語根です。",
+    "etym_chain": [
+      { "node": "scip", "sub": "船", "era": "古英語" },
+      { "node": "ship", "sub": "発送する・船で送る", "era": "近代英語" },
+      { "node": "reship", "sub": "再発送する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reship the order", "ja": "注文品を再発送する" },
+      { "en": "reship the parcel", "ja": "小包を再発送する" },
+      { "en": "reship for free", "ja": "無料で再発送する" },
+      { "en": "reship to another address", "ja": "別の住所へ転送する" },
+      { "en": "reship the goods", "ja": "商品を送り直す" },
+      { "en": "reshipping service", "ja": "海外転送サービス" }
+    ],
+    "related": [
+      { "en": "ship", "ja": "発送する・船で送る" },
+      { "en": "shipment", "ja": "発送・積荷" },
+      { "en": "forward", "ja": "転送する" },
+      { "en": "resend", "ja": "再送する" }
+    ],
+    "faq": [
+      { "q": "reship とはどんな意味？", "a": "届かなかった荷物を『再発送する』、または受け取った荷物を別の宛先へ『転送する』という意味です。The seller agreed to reship the parcel.（小包を再発送することに同意した）のように使います。" },
+      { "q": "reshipping サービスとは？", "a": "海外通販で、その国の住所宛てに届いた荷物を顧客の国へ転送（reship）してくれる代行サービスを指します。" }
+    ],
+    "quiz": [
+      { "q": "The seller agreed to ___ the lost parcel for free.（再発送する）", "A": "reship", "B": "ship の最初に発送するだけ", "C": "skip の飛ばす", "D": "slip の滑る", "correct": "A" },
+      { "q": "reship の ship はどんな意味？", "A": "発送する・送る", "B": "船に乗るだけ", "C": "羊", "D": "店", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reglaze",
+    "pron": "ˌriːˈɡleɪz",
+    "kana": "リグレイズ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ glaze（ガラスをはめる・うわぐすりをかける）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "建築・工芸"],
+    "meaning_main": "ガラスを入れ直す・うわぐすりを掛け直す",
+    "description": "reglaze の意味・発音・例文・語源を解説。窓のガラスを「入れ直す」、陶器に「うわぐすりを掛け直す」という、建築や工芸で使う語の使い方を紹介します。",
+    "keywords": ["reglaze 意味", "reglaze 発音", "ガラスを入れ直す", "glaze 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】ガラスを入れ直す", "note": "窓やドアのガラスを新しくはめ込む。reglaze the window（窓ガラスを入れ直す）。" },
+      { "hinshi": "【動詞】うわぐすりを掛け直す", "note": "陶器・タイルに釉薬を再び施す。料理では照りを再びかける。" }
+    ],
+    "usages": [
+      { "title": "① 建築「窓ガラスを入れ直す」として", "desc": "ガラスを新しくはめることを表します。", "example_en": "We had the broken window reglazed.", "example_ja": "私たちは割れた窓のガラスを入れ直してもらった。" },
+      { "title": "② 工芸「うわぐすりを掛け直す」として", "desc": "釉薬を再び施すことを表します。", "example_en": "The potter reglazed the bowl in a deeper blue.", "example_ja": "陶工はその鉢をより濃い青のうわぐすりで掛け直した。" }
+    ],
+    "warn": [
+      "reglaze は『ガラスを入れ直す／うわぐすりを掛け直す』。re-（再び）＋ glaze。",
+      "glaze は『窓ガラスをはめる』『釉薬をかける』『（料理に）照りをつける』など多義で、reglaze も対応する。"
+    ],
+    "etym_note": "re-（再び）＋ glaze（『ガラス状にする・うわぐすりをかける』、glass「ガラス」より）から成り、「再びガラス状に仕上げること」を意味します。glass（ガラス）と同じ語根です。",
+    "etym_chain": [
+      { "node": "glas", "sub": "ガラス", "era": "古英語" },
+      { "node": "glaze", "sub": "ガラスをはめる・釉をかける", "era": "中英語" },
+      { "node": "reglaze", "sub": "ガラスを入れ直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reglaze the window", "ja": "窓ガラスを入れ直す" },
+      { "en": "reglaze the door", "ja": "ドアのガラスを入れ直す" },
+      { "en": "reglaze the pottery", "ja": "陶器を掛け直す" },
+      { "en": "reglaze the bowl", "ja": "鉢のうわぐすりを掛け直す" },
+      { "en": "reglaze the tiles", "ja": "タイルを釉掛けし直す" },
+      { "en": "reglaze the ham", "ja": "ハムに照りを掛け直す" }
+    ],
+    "related": [
+      { "en": "glaze", "ja": "ガラスをはめる・釉をかける" },
+      { "en": "glass", "ja": "ガラス" },
+      { "en": "glazier", "ja": "ガラス職人" },
+      { "en": "varnish", "ja": "ニスを塗る" }
+    ],
+    "faq": [
+      { "q": "reglaze とはどんな意味？", "a": "窓の『ガラスを入れ直す』、または陶器に『うわぐすりを掛け直す』という意味です。We had the broken window reglazed.（割れた窓のガラスを入れ直してもらった）のように使います。" },
+      { "q": "glaze にはどんな意味がある？", "a": "『窓ガラスをはめる』『陶器に釉薬をかける』『料理に照り（つや）をつける』など複数の意味があり、reglaze もそれぞれの『やり直し』に対応します。" }
+    ],
+    "quiz": [
+      { "q": "We had the broken window ___d.（ガラスを入れ直す）", "A": "reglaze", "B": "glaze の最初にはめるだけ", "C": "graze の草を食べる", "D": "blaze の燃える", "correct": "A" },
+      { "q": "reglaze のもとになった語 glaze と関係が深いのはどれ？", "A": "glass（ガラス）", "B": "grass（草）", "C": "glance（ちらっと見る）", "D": "globe（球）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retest",
+    "pron": "ˌriːˈtɛst",
+    "kana": "リテスト",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ test（試験する・検査する）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "教育・品質管理"],
+    "meaning_main": "再試験する・再検査する",
+    "description": "retest の意味・発音・例文・語源を解説。試験を「もう一度受けさせる」、製品を「再検査する」という、教育や品質管理で使う語の使い方を紹介します。",
+    "keywords": ["retest 意味", "retest 発音", "再試験する", "test 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再試験する・再検査する", "note": "試験・検査をもう一度行う。retest the samples（試料を再検査する）。" },
+      { "hinshi": "【名詞】再試験・再検査", "note": "take a retest（再試験を受ける）。" }
+    ],
+    "usages": [
+      { "title": "① 教育「再試験を受けさせる」として", "desc": "もう一度試験することを表します。", "example_en": "Students who failed were allowed to retest.", "example_ja": "落第した生徒は再試験を受けることが許された。" },
+      { "title": "② 品質管理「再検査する」として", "desc": "もう一度検査することを表します。", "example_en": "The lab retested the samples to confirm the readings.", "example_ja": "研究所は測定値を確認するため試料を再検査した。" }
+    ],
+    "warn": [
+      "retest は『再試験する・再検査する』、名詞『再試験』。re-（再び）＋ test。",
+      "教育（追試）、品質管理（再検査）、医療（再検査）など幅広く使う。"
+    ],
+    "etym_note": "re-（再び）＋ test（『試す・検査する』、ラテン語 testum「素焼きの壺（昔は金属を試す容器）」より）から成り、「再び試すこと」を意味します。testify（証言する）とは別系統ですが、test 自体は容器に由来します。",
+    "etym_chain": [
+      { "node": "testum", "sub": "素焼きの壺", "era": "ラテン語" },
+      { "node": "test", "sub": "試験する・検査する", "era": "近代英語" },
+      { "node": "retest", "sub": "再試験する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "retest the students", "ja": "生徒に再試験を行う" },
+      { "en": "retest the samples", "ja": "試料を再検査する" },
+      { "en": "take a retest", "ja": "再試験を受ける" },
+      { "en": "retest the equipment", "ja": "機器を再検査する" },
+      { "en": "retest for accuracy", "ja": "正確さのため再検査する" },
+      { "en": "retest later", "ja": "後で再検査する" }
+    ],
+    "related": [
+      { "en": "test", "ja": "試験する・検査する" },
+      { "en": "retake", "ja": "（試験を）受け直す" },
+      { "en": "reexamine", "ja": "再検査する" },
+      { "en": "recheck", "ja": "再点検する" }
+    ],
+    "faq": [
+      { "q": "retest とはどんな意味？", "a": "試験を『もう一度受けさせる・行う』、または製品・試料を『再検査する』という意味です。Students who failed were allowed to retest.（落第者は再試験を受けられた）のように使います。名詞でも『再試験』です。" },
+      { "q": "retest と retake の違いは？", "a": "retake は主に『（受験者が試験を）受け直す』、retest は『（実施側が）再び試験・検査する』『（受験者が）再受験する』両方に使えます。" }
+    ],
+    "quiz": [
+      { "q": "Students who failed were allowed to ___.（再試験を受ける）", "A": "retest", "B": "test の最初に試験するだけ", "C": "protest の抗議する", "D": "detest のひどく嫌う", "correct": "A" },
+      { "q": "retest のもとになった動詞はどれ？", "A": "test（試験する・検査する）", "B": "taste（味わう）", "C": "toast（乾杯する）", "D": "trust（信頼する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retune",
+    "pron": "ˌriːˈtjuːn",
+    "kana": "リテューン",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ tune（調律する・調整する）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "音楽・機械"],
+    "meaning_main": "調律し直す・チューニングし直す",
+    "description": "retune の意味・発音・例文・語源を解説。楽器を「調律し直す」、エンジンやラジオを「調整し直す」という、音楽や機械で使う語の使い方を紹介します。",
+    "keywords": ["retune 意味", "retune 発音", "調律し直す", "tune 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】調律し直す・チューニングし直す", "note": "楽器の音程を合わせ直す、機械やラジオを調整し直す。retune the guitar（ギターを調律し直す）。比喩で方針を『微調整する』。" }
+    ],
+    "usages": [
+      { "title": "① 音楽「楽器を調律し直す」として", "desc": "音程を合わせ直すことを表します。", "example_en": "The pianist had to retune the strings before the concert.", "example_ja": "ピアニストは演奏会の前に弦を調律し直さねばならなかった。" },
+      { "title": "② 機械「調整し直す」として", "desc": "設定を合わせ直すことを表します。", "example_en": "You may need to retune the TV after the signal change.", "example_ja": "電波の変更後はテレビを再設定する必要があるかもしれない。" }
+    ],
+    "warn": [
+      "retune は『調律し直す・チューニングし直す』。re-（再び）＋ tune。",
+      "音楽（楽器）だけでなく、エンジン・ラジオ・テレビ・政策の『微調整』にも使う。"
+    ],
+    "etym_note": "re-（再び）＋ tune（『調子・調律する』、tone「音・調子」の変形、ギリシャ語 tonos「張り・音」より）から成り、「再び調子を合わせること」を意味します。tone（音色）と同じ語根です。",
+    "etym_chain": [
+      { "node": "tonos", "sub": "張り・音", "era": "古代ギリシャ語" },
+      { "node": "tune", "sub": "調子・調律する", "era": "中英語" },
+      { "node": "retune", "sub": "調律し直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "retune the guitar", "ja": "ギターを調律し直す" },
+      { "en": "retune the piano", "ja": "ピアノを調律し直す" },
+      { "en": "retune the engine", "ja": "エンジンを調整し直す" },
+      { "en": "retune the TV", "ja": "テレビを再設定する" },
+      { "en": "retune the radio", "ja": "ラジオを合わせ直す" },
+      { "en": "retune the strategy", "ja": "戦略を微調整する" }
+    ],
+    "related": [
+      { "en": "tune", "ja": "調律する・調整する" },
+      { "en": "tuning", "ja": "調律・調整" },
+      { "en": "adjust", "ja": "調整する" },
+      { "en": "calibrate", "ja": "較正する" }
+    ],
+    "faq": [
+      { "q": "retune とはどんな意味？", "a": "楽器を『調律し直す』、機械やラジオを『調整し直す』という意味です。He had to retune the guitar.（ギターを調律し直さねばならなかった）のように使います。" },
+      { "q": "retune は比喩でも使える？", "a": "はい。政策や戦略を『微調整する』という比喩で retune the strategy のように使えます。tune（調子を合わせる）の比喩用法です。" }
+    ],
+    "quiz": [
+      { "q": "The pianist had to ___ the strings before the concert.（調律し直す）", "A": "retune", "B": "tune の最初に調律するだけ", "C": "return の戻る", "D": "tumble の転がる", "correct": "A" },
+      { "q": "retune のもとになった語はどれ？", "A": "tune（調子・調律する）", "B": "turn（回す）", "C": "tube（管）", "D": "tone の無関係な town（町）", "correct": "A" }
+    ]
+  }
+]
