@@ -1,0 +1,526 @@
+[
+  {
+    "english": "rarebit",
+    "pron": "ˈrɛəbɪt",
+    "kana": "レアビット",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "Welsh rabbit（ウェルシュ・ラビット）の rabbit を変えた語",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "料理・英国"],
+    "meaning_main": "ウェルシュ・レアビット（チーズトースト料理）",
+    "description": "rarebit の意味・発音・例文・語源を解説。溶かしたチーズソースをパンにのせた英国料理「ウェルシュ・レアビット」という語の使い方と、ユニークな語源を紹介します。",
+    "keywords": ["rarebit 意味", "rarebit 発音", "ウェルシュレアビット", "チーズトースト"],
+    "meanings": [
+      { "hinshi": "【名詞】ウェルシュ・レアビット", "note": "溶かしたチーズに調味料を加えたソースをトーストにかけた英国（ウェールズ）の料理。Welsh rarebit の形で使う。" }
+    ],
+    "usages": [
+      { "title": "① 「チーズトースト料理」として", "desc": "英国の軽食を表します。", "example_en": "We ordered Welsh rarebit at the old pub.", "example_ja": "私たちは古いパブでウェルシュ・レアビットを注文した。" },
+      { "title": "② 「作り方」として", "desc": "料理の説明を表します。", "example_en": "Rarebit is made by pouring a cheese sauce over toast.", "example_ja": "レアビットはチーズソースをトーストにかけて作る。" }
+    ],
+    "warn": [
+      "rarebit は『ウェルシュ・レアビット（チーズトースト料理）』。ウサギ（rabbit）は使わない。",
+      "もとは Welsh rabbit と冗談めかして呼ばれ、後に rarebit と上品に言い換えられた。"
+    ],
+    "etym_note": "もともと Welsh rabbit（『ウェールズのウサギ』、肉が買えない代わりのチーズ料理をからかった呼び名）から、rabbit を rarebit に言い換えてできた語です。語源的には rare（まれな）+ bit（一口）とこじつけられました。",
+    "etym_chain": [
+      { "node": "Welsh rabbit", "sub": "ウェールズのウサギ（戯称）", "era": "18世紀英語" },
+      { "node": "Welsh rarebit", "sub": "言い換え", "era": "18世紀後半" },
+      { "node": "rarebit", "sub": "チーズトースト料理", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Welsh rarebit", "ja": "ウェルシュ・レアビット" },
+      { "en": "order rarebit", "ja": "レアビットを注文する" },
+      { "en": "a cheese rarebit", "ja": "チーズのレアビット" },
+      { "en": "make rarebit", "ja": "レアビットを作る" },
+      { "en": "buck rarebit", "ja": "目玉焼きをのせたレアビット" },
+      { "en": "rarebit sauce", "ja": "レアビットのチーズソース" }
+    ],
+    "related": [
+      { "en": "cheese", "ja": "チーズ" },
+      { "en": "toast", "ja": "トースト" },
+      { "en": "fondue", "ja": "フォンデュ" },
+      { "en": "savoury", "ja": "（英）食後の塩味の軽食" }
+    ],
+    "faq": [
+      { "q": "rarebit とはどんな意味？", "a": "溶かしたチーズソースをトーストにかけた英国（ウェールズ）の料理『ウェルシュ・レアビット』のことです。We ordered Welsh rarebit.（ウェルシュ・レアビットを注文した）のように使います。" },
+      { "q": "なぜ rabbit（ウサギ）に似た名前なの？", "a": "もとは Welsh rabbit（ウェールズのウサギ）という戯称でした。肉の代わりのチーズ料理をからかった呼び名で、のちに上品に rarebit と言い換えられました。" }
+    ],
+    "quiz": [
+      { "q": "We ordered Welsh ___ at the old pub.（チーズトースト料理）", "A": "rarebit", "B": "rabbit のウサギ", "C": "habit の習慣", "D": "orbit の軌道", "correct": "A" },
+      { "q": "rarebit はもともと何と呼ばれていた？", "A": "Welsh rabbit", "B": "French toast", "C": "Dutch oven", "D": "Irish stew", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ricin",
+    "pron": "ˈraɪsɪn",
+    "kana": "ライシン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 ricinus（トウゴマ）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "生化学・毒物"],
+    "meaning_main": "リシン（トウゴマ由来の猛毒タンパク質）",
+    "description": "ricin の意味・発音・例文・語源を解説。トウゴマの種子に含まれる猛毒タンパク質「リシン」という、生化学や毒物学で使う語の使い方を紹介します。",
+    "keywords": ["ricin 意味", "ricin 発音", "リシン", "トウゴマ 毒"],
+    "meanings": [
+      { "hinshi": "【名詞】リシン", "note": "トウゴマ（ヒマ）の種子に含まれる非常に強い毒性のタンパク質。細胞のタンパク質合成を止める。生物兵器として懸念される。" }
+    ],
+    "usages": [
+      { "title": "① 「猛毒として」として", "desc": "強い毒性を表します。", "example_en": "Ricin is one of the most toxic substances known.", "example_ja": "リシンは知られている中で最も毒性の強い物質の一つだ。" },
+      { "title": "② 「由来」として", "desc": "原料を表します。", "example_en": "Ricin is extracted from castor beans.", "example_ja": "リシンはトウゴマの種子から抽出される。" }
+    ],
+    "warn": [
+      "ricin は『リシン（トウゴマ由来の猛毒タンパク質）』。発音はライシン。",
+      "抗生物質の rifampicin などとは無関係。castor oil（ひまし油）の絞りかすに残る毒。"
+    ],
+    "etym_note": "ラテン語 ricinus（『トウゴマ（ヒマ）』。種子がダニ（ricinus）に似ることに由来）から名づけられました。トウゴマの学名 Ricinus communis に基づきます。",
+    "etym_chain": [
+      { "node": "ricinus", "sub": "トウゴマ・ダニ", "era": "ラテン語" },
+      { "node": "Ricinus", "sub": "トウゴマ属（学名）", "era": "近代植物学" },
+      { "node": "ricin", "sub": "リシン", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "ricin poisoning", "ja": "リシン中毒" },
+      { "en": "extract ricin", "ja": "リシンを抽出する" },
+      { "en": "ricin is highly toxic", "ja": "リシンは毒性が非常に強い" },
+      { "en": "a trace of ricin", "ja": "微量のリシン" },
+      { "en": "ricin from castor beans", "ja": "トウゴマ由来のリシン" },
+      { "en": "detect ricin", "ja": "リシンを検出する" }
+    ],
+    "related": [
+      { "en": "toxin", "ja": "毒素" },
+      { "en": "castor bean", "ja": "トウゴマの種子" },
+      { "en": "poison", "ja": "毒" },
+      { "en": "protein", "ja": "タンパク質" }
+    ],
+    "faq": [
+      { "q": "ricin とはどんな意味？", "a": "トウゴマ（ヒマ）の種子に含まれる猛毒のタンパク質『リシン』のことです。Ricin is one of the most toxic substances known.（最も毒性の強い物質の一つだ）のように使います。" },
+      { "q": "ricin はどこから取れる？", "a": "ひまし油（castor oil）の原料であるトウゴマの種子（castor beans）から取れます。油を絞ったあとの絞りかすに毒のリシンが残ります。" }
+    ],
+    "quiz": [
+      { "q": "___ is extracted from castor beans.（リシン）", "A": "Ricin", "B": "Raisin のレーズン", "C": "Resin の樹脂", "D": "Reason の理由", "correct": "A" },
+      { "q": "ricin はどんな植物に由来する？", "A": "トウゴマ（ヒマ）", "B": "ブドウ", "C": "稲", "D": "麦", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ragout",
+    "pron": "ræˈɡuː",
+    "kana": "ラグー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 ragoût（食欲をそそるもの）、ragoûter（食欲を回復させる）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "料理・フランス"],
+    "meaning_main": "ラグー（肉と野菜の煮込み料理）",
+    "description": "ragout の意味・発音・例文・語源を解説。肉や野菜をよく味付けして煮込んだフランス料理「ラグー（煮込み）」という語の使い方を紹介します。",
+    "keywords": ["ragout 意味", "ragout 発音", "ラグー", "煮込み料理"],
+    "meanings": [
+      { "hinshi": "【名詞】ラグー・煮込み料理", "note": "肉・野菜を香辛料でよく味付けして煮込んだフランス風シチュー。発音はラグー（t は無音）。" }
+    ],
+    "usages": [
+      { "title": "① 「煮込み料理」として", "desc": "フランス風シチューを表します。", "example_en": "She served a rich beef ragout with crusty bread.", "example_ja": "彼女はこくのある牛肉のラグーを固いパンと出した。" },
+      { "title": "② 「作る」として", "desc": "調理を表します。", "example_en": "The ragout simmered slowly for three hours.", "example_ja": "そのラグーは3時間かけてゆっくり煮込まれた。" }
+    ],
+    "warn": [
+      "ragout は『ラグー（肉と野菜の煮込み）』。発音はラグー（語尾の t は読まない）。",
+      "イタリア料理の ragù（ラグー、ミートソース）と語源は同じだが綴り・国が異なる。"
+    ],
+    "etym_note": "フランス語 ragoût（『食欲をそそるもの』、ragoûter「食欲を回復させる」、re-＋ goût「味」より）に由来します。goût は taste（味）に当たり、gusto（楽しみ）と同じ語根です。",
+    "etym_chain": [
+      { "node": "goût", "sub": "味", "era": "フランス語" },
+      { "node": "ragoûter", "sub": "食欲を回復させる", "era": "フランス語" },
+      { "node": "ragout", "sub": "ラグー・煮込み", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a beef ragout", "ja": "牛肉のラグー" },
+      { "en": "a vegetable ragout", "ja": "野菜のラグー" },
+      { "en": "simmer the ragout", "ja": "ラグーを煮込む" },
+      { "en": "a rich ragout", "ja": "こくのあるラグー" },
+      { "en": "serve the ragout", "ja": "ラグーを出す" },
+      { "en": "a lamb ragout", "ja": "ラム肉のラグー" }
+    ],
+    "related": [
+      { "en": "stew", "ja": "シチュー・煮込み" },
+      { "en": "casserole", "ja": "蒸し煮料理" },
+      { "en": "ragù", "ja": "（伊）ラグー・ミートソース" },
+      { "en": "simmer", "ja": "とろ火で煮る" }
+    ],
+    "faq": [
+      { "q": "ragout とはどんな意味？", "a": "肉や野菜を香辛料でよく味付けして煮込んだフランス風の煮込み料理『ラグー』のことです。a rich beef ragout（こくのある牛肉のラグー）のように使います。" },
+      { "q": "ragout と stew の違いは？", "a": "どちらも煮込み料理ですが、ragout はフランス由来で『よく味付けし香辛料をきかせた』ニュアンス、stew は英語の一般的な『シチュー・煮込み』です。" }
+    ],
+    "quiz": [
+      { "q": "She served a rich beef ___ with bread.（煮込み料理）", "A": "ragout", "B": "ragtime のラグタイム", "C": "ragged のぼろぼろの", "D": "rampart の城壁", "correct": "A" },
+      { "q": "ragout はどの国に由来する料理？", "A": "フランス", "B": "ドイツ", "C": "スペイン", "D": "ロシア", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rummy",
+    "pron": "ˈrʌmi",
+    "kana": "ラミー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "由来不詳（rum「奇妙な」との関連説あり）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "ゲーム・娯楽"],
+    "meaning_main": "ラミー（手札を組み合わせるトランプゲーム）",
+    "description": "rummy の意味・発音・例文・語源を解説。同じ数字や連続した札の組を作って上がるトランプゲーム「ラミー」という語の使い方を紹介します。ジン・ラミーにも触れます。",
+    "keywords": ["rummy 意味", "rummy 発音", "ラミー", "トランプゲーム"],
+    "meanings": [
+      { "hinshi": "【名詞】ラミー", "note": "同じ数字（セット）や連続した札（ラン）の組を作って手札を減らすトランプゲームの総称。gin rummy（ジン・ラミー）が有名。" }
+    ],
+    "usages": [
+      { "title": "① 「ゲームをする」として", "desc": "トランプ遊びを表します。", "example_en": "We played rummy until midnight.", "example_ja": "私たちは真夜中までラミーをした。" },
+      { "title": "② 「ジン・ラミー」として", "desc": "代表的な種類を表します。", "example_en": "Gin rummy is a popular two-player version.", "example_ja": "ジン・ラミーは人気のある2人用の種類だ。" }
+    ],
+    "warn": [
+      "rummy は『ラミー（トランプゲーム）』。形容詞 rummy には『（英・古）奇妙な』という別義もある。",
+      "セット（同数字3枚以上）やラン（同スートの連番）を作って手札をそろえるのが基本。"
+    ],
+    "etym_note": "語源は不確かで、英国俗語 rum（『奇妙な・変わった』）と関連づける説があります。19世紀から知られるカードゲーム名です。",
+    "etym_chain": [
+      { "node": "rum", "sub": "奇妙な（俗語）", "era": "18世紀英語" },
+      { "node": "rummy", "sub": "ラミー（ゲーム）", "era": "19世紀英語" },
+      { "node": "gin rummy", "sub": "ジン・ラミー", "era": "20世紀英語" }
+    ],
+    "phrases": [
+      { "en": "play rummy", "ja": "ラミーをする" },
+      { "en": "gin rummy", "ja": "ジン・ラミー" },
+      { "en": "a game of rummy", "ja": "ラミーの一勝負" },
+      { "en": "win at rummy", "ja": "ラミーで勝つ" },
+      { "en": "a rummy hand", "ja": "ラミーの手札" },
+      { "en": "Indian rummy", "ja": "インディアン・ラミー" }
+    ],
+    "related": [
+      { "en": "cards", "ja": "トランプ" },
+      { "en": "meld", "ja": "（カードを）組にして出す" },
+      { "en": "canasta", "ja": "カナスタ（ラミー系ゲーム）" },
+      { "en": "deck", "ja": "ひと組のトランプ" }
+    ],
+    "faq": [
+      { "q": "rummy とはどんな意味？", "a": "同じ数字や連続した札の組を作って手札を減らすトランプゲーム『ラミー』のことです。We played rummy until midnight.（真夜中までラミーをした）のように使います。" },
+      { "q": "gin rummy とは？", "a": "ラミーの一種で、2人で遊ぶ人気の高い変種です。手早くセットやランをそろえて『ジン』と宣言して上がります。" }
+    ],
+    "quiz": [
+      { "q": "We played ___ until midnight.（トランプゲーム）", "A": "rummy", "B": "mummy のミイラ", "C": "dummy の人形", "D": "tummy のおなか", "correct": "A" },
+      { "q": "rummy の有名な2人用の種類はどれ？", "A": "gin rummy（ジン・ラミー）", "B": "poker（ポーカー）", "C": "bridge（ブリッジ）", "D": "solitaire（ソリティア）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reefer",
+    "pron": "ˈriːfə",
+    "kana": "リーファー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "refrigerator（冷蔵）の短縮、また reef（帆を縮める）＋ -er",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "物流・口語"],
+    "meaning_main": "冷蔵（冷凍）コンテナ・冷蔵車",
+    "description": "reefer の意味・発音・例文・語源を解説。物流で使う「冷蔵（冷凍）コンテナ・冷蔵車」という語の使い方と、その他の意味（厚手の上着など）も紹介します。",
+    "keywords": ["reefer 意味", "reefer 発音", "冷蔵コンテナ", "リーファー"],
+    "meanings": [
+      { "hinshi": "【名詞】冷蔵（冷凍）コンテナ・冷蔵車", "note": "refrigerator（冷蔵）の略から。温度管理して生鮮品を運ぶコンテナ・トラック・貨車。物流の口語。" },
+      { "hinshi": "【名詞】リーファージャケット（厚手の上着）", "note": "船乗りが着た厚手の二列ボタンの短い上着。reef（帆を縮める作業）に由来。" }
+    ],
+    "usages": [
+      { "title": "① 物流「冷蔵コンテナ」として", "desc": "温度管理コンテナを表します。", "example_en": "The fruit was shipped in a reefer to keep it fresh.", "example_ja": "果物は鮮度を保つため冷蔵コンテナで輸送された。" },
+      { "title": "② 「冷蔵トラック」として", "desc": "保冷車を表します。", "example_en": "A reefer truck delivers frozen goods to the stores.", "example_ja": "冷蔵トラックが冷凍品を店に配送する。" }
+    ],
+    "warn": [
+      "reefer は物流で『冷蔵（冷凍）コンテナ・冷蔵車』（refrigerator の略）。",
+      "別に『厚手の船員上着』、また俗語で『大麻タバコ』の意味もあるので文脈に注意。"
+    ],
+    "etym_note": "物流の意味は refrigerator（『冷蔵庫』、ラテン語 refrigerare「冷やす」より）の短縮。上着の意味は reef（『帆を縮める』）＋ -er に由来し、別系統です。",
+    "etym_chain": [
+      { "node": "refrigerare", "sub": "冷やす", "era": "ラテン語" },
+      { "node": "refrigerator", "sub": "冷蔵庫", "era": "近代英語" },
+      { "node": "reefer", "sub": "冷蔵コンテナ・冷蔵車", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a reefer container", "ja": "冷蔵コンテナ" },
+      { "en": "a reefer truck", "ja": "冷蔵トラック" },
+      { "en": "ship in a reefer", "ja": "冷蔵コンテナで運ぶ" },
+      { "en": "a reefer ship", "ja": "冷蔵運搬船" },
+      { "en": "load the reefer", "ja": "冷蔵コンテナに積む" },
+      { "en": "a reefer wagon", "ja": "冷蔵貨車" }
+    ],
+    "related": [
+      { "en": "refrigerator", "ja": "冷蔵庫" },
+      { "en": "container", "ja": "コンテナ" },
+      { "en": "refrigerated", "ja": "冷蔵された" },
+      { "en": "cold chain", "ja": "コールドチェーン・低温物流" }
+    ],
+    "faq": [
+      { "q": "reefer とはどんな意味？", "a": "物流で『冷蔵（冷凍）コンテナ・冷蔵車』を指す口語で、refrigerator（冷蔵）の略です。The fruit was shipped in a reefer.（果物は冷蔵コンテナで輸送された）のように使います。" },
+      { "q": "reefer には他の意味もある？", "a": "はい。船員が着た『厚手の二列ボタンの上着（リーファージャケット）』や、俗語で『大麻タバコ』の意味もあります。文脈で判断します。" }
+    ],
+    "quiz": [
+      { "q": "The fruit was shipped in a ___ to keep it fresh.（冷蔵コンテナ）", "A": "reefer", "B": "keeper の番人", "C": "reaper の刈り取り機", "D": "leader の指導者", "correct": "A" },
+      { "q": "物流の reefer は何の略？", "A": "refrigerator（冷蔵）", "B": "reference（参照）", "C": "referee（審判）", "D": "refresher（復習）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ridgeline",
+    "pron": "ˈrɪdʒlaɪn",
+    "kana": "リッジライン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ridge（尾根）＋ line（線）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "地理・登山"],
+    "meaning_main": "尾根線・稜線",
+    "description": "ridgeline の意味・発音・例文・語源を解説。山の頂をつなぐ「尾根線・稜線」、また屋根の「棟（むね）の線」という、地理や登山で使う語の使い方を紹介します。",
+    "keywords": ["ridgeline 意味", "ridgeline 発音", "尾根線", "稜線"],
+    "meanings": [
+      { "hinshi": "【名詞】尾根線・稜線", "note": "山の最も高い部分をつないだ線。地形・登山で使う。follow the ridgeline（尾根線をたどる）。" },
+      { "hinshi": "【名詞】（屋根の）棟の線", "note": "屋根の頂上を走る水平の線。" }
+    ],
+    "usages": [
+      { "title": "① 登山「尾根線をたどる」として", "desc": "山の稜線を表します。", "example_en": "The trail follows the ridgeline for several miles.", "example_ja": "その登山道は数マイルにわたり尾根線をたどる。" },
+      { "title": "② 風景「稜線が浮かぶ」として", "desc": "山の輪郭を表します。", "example_en": "The ridgeline was silhouetted against the sunset.", "example_ja": "稜線が夕日を背に浮かび上がっていた。" }
+    ],
+    "warn": [
+      "ridgeline は『尾根線・稜線』、屋根では『棟の線』。ridge（尾根・隆起）＋ line。",
+      "登山・地形図・軍事（地形の利用）などで使う。"
+    ],
+    "etym_note": "ridge（『尾根・背・隆起』、古英語 hrycg「背・尾根」より）＋ line（『線』）から成り、「尾根の線」を意味します。hrycg は背骨のような隆起を表す古英語です。",
+    "etym_chain": [
+      { "node": "hrycg", "sub": "背・尾根", "era": "古英語" },
+      { "node": "ridge", "sub": "尾根・隆起", "era": "中英語" },
+      { "node": "ridgeline", "sub": "尾根線・稜線", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "follow the ridgeline", "ja": "尾根線をたどる" },
+      { "en": "along the ridgeline", "ja": "稜線沿いに" },
+      { "en": "the mountain ridgeline", "ja": "山の稜線" },
+      { "en": "a sharp ridgeline", "ja": "鋭い稜線" },
+      { "en": "the roof ridgeline", "ja": "屋根の棟の線" },
+      { "en": "hike the ridgeline", "ja": "尾根線を歩く" }
+    ],
+    "related": [
+      { "en": "ridge", "ja": "尾根・隆起" },
+      { "en": "crest", "ja": "頂・峰" },
+      { "en": "summit", "ja": "山頂" },
+      { "en": "skyline", "ja": "空を背にした輪郭" }
+    ],
+    "faq": [
+      { "q": "ridgeline とはどんな意味？", "a": "山の最も高い部分をつないだ『尾根線・稜線』のことです。The trail follows the ridgeline.（登山道は尾根線をたどる）のように使います。屋根の『棟の線』も指します。" },
+      { "q": "ridgeline と summit の違いは？", "a": "summit は『（一点の）山頂』、ridgeline は『山の頂をつなぐ線（稜線）』です。稜線をたどると複数の峰を通ります。" }
+    ],
+    "quiz": [
+      { "q": "The trail follows the ___ for several miles.（尾根線）", "A": "ridgeline", "B": "deadline の締め切り", "C": "outline の輪郭", "D": "hairline の生え際", "correct": "A" },
+      { "q": "ridgeline のもとになった ridge の意味はどれ？", "A": "尾根・隆起", "B": "谷", "C": "川", "D": "湖", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rosaceous",
+    "pron": "rəʊˈzeɪʃəs",
+    "kana": "ロゼイシャス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 rosaceus（バラの）、rosa（バラ）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "植物・専門"],
+    "meaning_main": "バラ科の・バラのような",
+    "description": "rosaceous の意味・発音・例文・語源を解説。植物分類の「バラ科の」、また「バラのような・バラ色の」という、植物学で使う形容詞の使い方を紹介します。",
+    "keywords": ["rosaceous 意味", "rosaceous 発音", "バラ科の", "rose 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】バラ科の", "note": "植物分類でバラ科（Rosaceae）に属する。バラ・リンゴ・サクラ・イチゴなどを含む大きな科。" },
+      { "hinshi": "【形容詞】バラのような・バラ色の", "note": "バラに似た、バラ色を帯びた。やや文語的。" }
+    ],
+    "usages": [
+      { "title": "① 植物「バラ科の」として", "desc": "分類上の所属を表します。", "example_en": "Apples and cherries are rosaceous plants.", "example_ja": "リンゴとサクラはバラ科の植物だ。" },
+      { "title": "② 「バラのような」として", "desc": "バラに似た様子を表します。", "example_en": "The flower had a delicate, rosaceous form.", "example_ja": "その花は繊細でバラのような形をしていた。" }
+    ],
+    "warn": [
+      "rosaceous は『バラ科の／バラのような』。植物学の専門語。",
+      "医学の rosacea（酒さ＝顔の赤み）とは別語なので混同に注意。"
+    ],
+    "etym_note": "ラテン語 rosaceus（『バラの・バラからなる』、rosa「バラ」より）に由来します。植物分類のバラ科 Rosaceae もこの語に基づきます。rose（バラ）と同じ語根です。",
+    "etym_chain": [
+      { "node": "rosa", "sub": "バラ", "era": "ラテン語" },
+      { "node": "rosaceus", "sub": "バラの", "era": "ラテン語" },
+      { "node": "rosaceous", "sub": "バラ科の・バラのような", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "rosaceous plants", "ja": "バラ科の植物" },
+      { "en": "a rosaceous flower", "ja": "バラのような花" },
+      { "en": "the rosaceous family", "ja": "バラ科" },
+      { "en": "rosaceous fruit", "ja": "バラ科の果実" },
+      { "en": "a rosaceous shrub", "ja": "バラ科の低木" },
+      { "en": "rosaceous petals", "ja": "バラのような花弁" }
+    ],
+    "related": [
+      { "en": "rose", "ja": "バラ" },
+      { "en": "Rosaceae", "ja": "バラ科（学名）" },
+      { "en": "floral", "ja": "花の" },
+      { "en": "petal", "ja": "花弁" }
+    ],
+    "faq": [
+      { "q": "rosaceous とはどんな意味？", "a": "植物分類で『バラ科の』、または『バラのような・バラ色の』という意味の形容詞です。Apples and cherries are rosaceous plants.（リンゴとサクラはバラ科の植物だ）のように使います。" },
+      { "q": "バラ科にはどんな植物がある？", "a": "バラのほか、リンゴ・ナシ・サクラ・モモ・イチゴ・ウメなど、私たちになじみ深い果樹や花が多く含まれる大きな科です。" }
+    ],
+    "quiz": [
+      { "q": "Apples and cherries are ___ plants.（バラ科の）", "A": "rosaceous", "B": "spacious の広々とした", "C": "gracious の優雅な", "D": "ferocious の獰猛な", "correct": "A" },
+      { "q": "次のうちバラ科でないものはどれ？", "A": "トマト", "B": "リンゴ", "C": "サクラ", "D": "イチゴ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "roundelay",
+    "pron": "ˈraʊndɪleɪ",
+    "kana": "ラウンデレイ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 rondelet（小さな輪・短い詩）、rond（丸い）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "詩・音楽"],
+    "meaning_main": "ラウンデレイ（折り返しを繰り返す短詩・歌）",
+    "description": "roundelay の意味・発音・例文・語源を解説。同じ句（折り返し）を繰り返す短い詩や歌「ラウンデレイ」という、詩や音楽で使う語の使い方を紹介します。",
+    "keywords": ["roundelay 意味", "roundelay 発音", "輪唱歌", "折り返しの詩"],
+    "meanings": [
+      { "hinshi": "【名詞】ラウンデレイ・輪唱歌", "note": "同じ句（リフレイン）を規則的に繰り返す短い詩や歌。素朴で快活な田園的な歌を指すことが多い。文語。" }
+    ],
+    "usages": [
+      { "title": "① 「繰り返しの歌」として", "desc": "折り返しのある歌を表します。", "example_en": "The shepherds sang a cheerful roundelay.", "example_ja": "羊飼いたちは陽気なラウンデレイを歌った。" },
+      { "title": "② 「詩形として」として", "desc": "リフレインのある詩形を表します。", "example_en": "The poet composed a roundelay with a recurring refrain.", "example_ja": "詩人は繰り返しの折り返し句を持つラウンデレイを作った。" }
+    ],
+    "warn": [
+      "roundelay は『折り返しを繰り返す短詩・歌』。文語的・古風な語。",
+      "rondel / rondeau（ロンデル・ロンドー＝フランスの詩形）と同じ rond（丸い）系統。"
+    ],
+    "etym_note": "古フランス語 rondelet（『小さな輪・短い詩』、rondel「丸いもの」、rond「丸い」より）に由来します。丸く巡って同じ句に戻ることから。round（丸い）と同じ語根です。",
+    "etym_chain": [
+      { "node": "rond", "sub": "丸い", "era": "古フランス語" },
+      { "node": "rondelet", "sub": "小さな輪・短い詩", "era": "古フランス語" },
+      { "node": "roundelay", "sub": "折り返しの短詩・歌", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "sing a roundelay", "ja": "ラウンデレイを歌う" },
+      { "en": "a cheerful roundelay", "ja": "陽気な輪唱歌" },
+      { "en": "a country roundelay", "ja": "田園的なラウンデレイ" },
+      { "en": "compose a roundelay", "ja": "ラウンデレイを作る" },
+      { "en": "the recurring roundelay", "ja": "繰り返される折り返し句" },
+      { "en": "a merry roundelay", "ja": "楽しい輪唱歌" }
+    ],
+    "related": [
+      { "en": "refrain", "ja": "折り返し句・リフレイン" },
+      { "en": "rondeau", "ja": "ロンドー（仏の定型詩）" },
+      { "en": "ballad", "ja": "バラッド・物語歌" },
+      { "en": "round", "ja": "輪唱・丸い" }
+    ],
+    "faq": [
+      { "q": "roundelay とはどんな意味？", "a": "同じ句（リフレイン）を規則的に繰り返す短い詩や歌『ラウンデレイ』のことです。The shepherds sang a cheerful roundelay.（羊飼いたちは陽気なラウンデレイを歌った）のように、文語的に使います。" },
+      { "q": "roundelay の特徴は？", "a": "『折り返し句（refrain）』が丸く巡って繰り返されるのが特徴です。round（丸い）が語源で、素朴で快活な田園的な歌によく使われます。" }
+    ],
+    "quiz": [
+      { "q": "The shepherds sang a cheerful ___.（折り返しの歌）", "A": "roundelay", "B": "roundabout の環状交差点", "C": "runaway の逃亡者", "D": "holiday の休日", "correct": "A" },
+      { "q": "roundelay の語源 rond の意味はどれ？", "A": "丸い", "B": "高い", "C": "速い", "D": "暗い", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rebozo",
+    "pron": "rɪˈbəʊzəʊ",
+    "kana": "レボソ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "スペイン語 rebozo（顔を覆うもの）、rebozar（包む・覆う）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文化・服飾"],
+    "meaning_main": "レボソ（メキシコの長い肩掛け布）",
+    "description": "rebozo の意味・発音・例文・語源を解説。メキシコの女性が肩や頭にかける長い布「レボソ」という、文化や服飾で使う語の使い方を紹介します。",
+    "keywords": ["rebozo 意味", "rebozo 発音", "レボソ", "メキシコ 肩掛け"],
+    "meanings": [
+      { "hinshi": "【名詞】レボソ", "note": "メキシコや中南米の女性が肩・頭にかける、長方形の長い布。防寒・装飾のほか、赤ん坊を抱いたり荷物を運んだりするのにも使う。" }
+    ],
+    "usages": [
+      { "title": "① 「肩にかける」として", "desc": "伝統的な肩掛けを表します。", "example_en": "She wrapped a colorful rebozo around her shoulders.", "example_ja": "彼女は色鮮やかなレボソを肩に巻いた。" },
+      { "title": "② 「赤ん坊を抱く」として", "desc": "実用的な使い方を表します。", "example_en": "Mothers often carry babies in a rebozo.", "example_ja": "母親はよくレボソで赤ん坊を抱く。" }
+    ],
+    "warn": [
+      "rebozo は『レボソ（メキシコの長い肩掛け布）』。文化・服飾の語。",
+      "ショール（shawl）に似るが、メキシコ特有の織りと使い方を持つ伝統衣装。"
+    ],
+    "etym_note": "スペイン語 rebozo（『顔を覆うもの』、rebozar「包む・覆う」、re-＋ bozo「口・顔」より）に由来します。元は顔を覆う布だったことに由来します。",
+    "etym_chain": [
+      { "node": "bozo", "sub": "口・顔", "era": "スペイン語" },
+      { "node": "rebozar", "sub": "包む・覆う", "era": "スペイン語" },
+      { "node": "rebozo", "sub": "レボソ・肩掛け布", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a colorful rebozo", "ja": "色鮮やかなレボソ" },
+      { "en": "wear a rebozo", "ja": "レボソを身につける" },
+      { "en": "wrap in a rebozo", "ja": "レボソに包む" },
+      { "en": "a woven rebozo", "ja": "織りのレボソ" },
+      { "en": "carry a baby in a rebozo", "ja": "レボソで赤ん坊を抱く" },
+      { "en": "a silk rebozo", "ja": "絹のレボソ" }
+    ],
+    "related": [
+      { "en": "shawl", "ja": "ショール・肩掛け" },
+      { "en": "scarf", "ja": "スカーフ・襟巻き" },
+      { "en": "wrap", "ja": "巻き布・羽織り" },
+      { "en": "poncho", "ja": "ポンチョ" }
+    ],
+    "faq": [
+      { "q": "rebozo とはどんな意味？", "a": "メキシコや中南米の女性が肩や頭にかける長方形の長い布『レボソ』のことです。She wrapped a colorful rebozo around her shoulders.（色鮮やかなレボソを肩に巻いた）のように使います。" },
+      { "q": "rebozo と shawl の違いは？", "a": "どちらも肩掛けですが、rebozo はメキシコ特有の長い織り布で、防寒・装飾だけでなく赤ん坊を抱いたり荷物を運んだりする実用的な使い方もあります。" }
+    ],
+    "quiz": [
+      { "q": "She wrapped a colorful ___ around her shoulders.（メキシコの肩掛け布）", "A": "rebozo", "B": "gazebo の あずまや", "C": "tornado の竜巻", "D": "tempo のテンポ", "correct": "A" },
+      { "q": "rebozo はどの国の伝統衣装？", "A": "メキシコ", "B": "日本", "C": "インド", "D": "エジプト", "correct": "A" }
+    ]
+  },
+  {
+    "english": "redcap",
+    "pron": "ˈrɛdkæp",
+    "kana": "レッドキャップ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "red（赤い）＋ cap（帽子）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "職業・口語"],
+    "meaning_main": "（米）駅の赤帽（ポーター）・（英）憲兵",
+    "description": "redcap の意味・発音・例文・語源を解説。アメリカの駅で荷物を運ぶ「赤帽（ポーター）」、イギリスの「憲兵」という語の使い方を紹介します。",
+    "keywords": ["redcap 意味", "redcap 発音", "赤帽", "ポーター"],
+    "meanings": [
+      { "hinshi": "【名詞】（米）駅の赤帽・ポーター", "note": "アメリカの鉄道駅・空港で、赤い帽子をかぶって乗客の荷物を運ぶ係。" },
+      { "hinshi": "【名詞】（英）憲兵", "note": "イギリス軍の憲兵（Military Police）。赤い帽子をかぶることから。" }
+    ],
+    "usages": [
+      { "title": "① 米「駅の赤帽」として", "desc": "荷物運びの係を表します。", "example_en": "A redcap helped us carry the luggage to the platform.", "example_ja": "赤帽が私たちの荷物をホームまで運ぶのを手伝ってくれた。" },
+      { "title": "② 英「憲兵」として", "desc": "軍警察を表します。", "example_en": "The redcaps patrolled the base.", "example_ja": "憲兵たちが基地を巡回していた。" }
+    ],
+    "warn": [
+      "redcap は米国では『駅・空港の赤帽（ポーター）』、英国では『憲兵』。赤い帽子が共通。",
+      "別に、伝説上の悪い妖精『レッドキャップ』を指すこともある。"
+    ],
+    "etym_note": "red（『赤い』、古英語 rēad）＋ cap（『帽子』、後期ラテン語 cappa「頭巾」より）から成り、「赤い帽子（をかぶった人）」を意味します。職務上かぶる赤帽が名の由来です。",
+    "etym_chain": [
+      { "node": "rēad + cappa", "sub": "赤い＋頭巾", "era": "古英語・ラテン語" },
+      { "node": "red cap", "sub": "赤い帽子", "era": "中英語" },
+      { "node": "redcap", "sub": "赤帽・憲兵", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "call a redcap", "ja": "赤帽を呼ぶ" },
+      { "en": "tip the redcap", "ja": "赤帽にチップを渡す" },
+      { "en": "a station redcap", "ja": "駅の赤帽" },
+      { "en": "the redcaps patrolled", "ja": "憲兵が巡回した" },
+      { "en": "a redcap porter", "ja": "赤帽のポーター" },
+      { "en": "ask the redcap for help", "ja": "赤帽に手伝いを頼む" }
+    ],
+    "related": [
+      { "en": "porter", "ja": "ポーター・荷物運び" },
+      { "en": "baggage", "ja": "手荷物" },
+      { "en": "military police", "ja": "憲兵" },
+      { "en": "skycap", "ja": "（空港の）荷物運び係" }
+    ],
+    "faq": [
+      { "q": "redcap とはどんな意味？", "a": "アメリカでは鉄道駅・空港で荷物を運ぶ『赤帽（ポーター）』、イギリスでは『憲兵』を指します。どちらも赤い帽子をかぶることに由来します。A redcap helped us carry the luggage.（赤帽が荷物運びを手伝ってくれた）のように使います。" },
+      { "q": "空港の skycap との違いは？", "a": "skycap は『空港の荷物運び係』、redcap は元々『鉄道駅の荷物運び係』を指します。どちらも乗客の荷物を運ぶポーターです。" }
+    ],
+    "quiz": [
+      { "q": "A ___ helped us carry the luggage to the platform.（赤帽）", "A": "redcap", "B": "kidnap の誘拐", "C": "redhead の赤毛", "D": "nightcap の寝酒", "correct": "A" },
+      { "q": "英国で redcap が指すのはどれ？", "A": "憲兵", "B": "消防士", "C": "郵便配達人", "D": "看護師", "correct": "A" }
+    ]
+  }
+]
