@@ -1,0 +1,525 @@
+[
+  {
+    "english": "rangefinder",
+    "pron": "ˈreɪndʒfaɪndə",
+    "kana": "レンジファインダー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "range（距離）＋ finder（見つけるもの）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "光学・機器"],
+    "meaning_main": "距離計・レンジファインダー",
+    "description": "rangefinder の意味・発音・例文・語源を解説。対象までの距離を測る装置「距離計（レンジファインダー）」という、カメラや測量、ゴルフなどで使う語の使い方を紹介します。",
+    "keywords": ["rangefinder 意味", "rangefinder 発音", "距離計", "レンジファインダー"],
+    "meanings": [
+      { "hinshi": "【名詞】距離計・レンジファインダー", "note": "対象までの距離を測る装置。カメラのピント合わせ、測量、ゴルフ、射撃などで使う。レンジファインダーカメラは二重像を合わせて距離を測る方式。" }
+    ],
+    "usages": [
+      { "title": "① 「距離を測る装置」として", "desc": "測距器を表します。", "example_en": "Golfers use a laser rangefinder to measure the distance to the pin.", "example_ja": "ゴルファーはレーザー距離計でピンまでの距離を測る。" },
+      { "title": "② カメラ「レンジファインダー」として", "desc": "ピント合わせ方式を表します。", "example_en": "He shot the street scene with a vintage rangefinder camera.", "example_ja": "彼はビンテージのレンジファインダーカメラで街の情景を撮った。" }
+    ],
+    "warn": [
+      "rangefinder は『距離計・レンジファインダー』。range（距離・範囲）＋ finder。",
+      "カメラ、ゴルフ、測量、射撃など幅広く使う。"
+    ],
+    "etym_note": "range（『距離・範囲』、古フランス語 range「列・並び」より）＋ finder（『見つけるもの』、find「見つける」より）から成り、「距離を見つける装置」を意味します。",
+    "etym_chain": [
+      { "node": "range + finder", "sub": "距離＋見つけるもの", "era": "英語" },
+      { "node": "rangefinder", "sub": "距離計", "era": "19世紀英語" },
+      { "node": "rangefinder", "sub": "距離計・レンジファインダー", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a laser rangefinder", "ja": "レーザー距離計" },
+      { "en": "a rangefinder camera", "ja": "レンジファインダーカメラ" },
+      { "en": "use a rangefinder", "ja": "距離計を使う" },
+      { "en": "a golf rangefinder", "ja": "ゴルフ用距離計" },
+      { "en": "an optical rangefinder", "ja": "光学式距離計" },
+      { "en": "the rangefinder reads 200 yards", "ja": "距離計が200ヤードを示す" }
+    ],
+    "related": [
+      { "en": "range", "ja": "距離・範囲" },
+      { "en": "distance", "ja": "距離" },
+      { "en": "telemeter", "ja": "テレメーター・遠隔測定器" },
+      { "en": "focus", "ja": "ピント・焦点" }
+    ],
+    "faq": [
+      { "q": "rangefinder とはどんな意味？", "a": "対象までの距離を測る装置『距離計（レンジファインダー）』のことです。Golfers use a laser rangefinder.（ゴルファーはレーザー距離計を使う）のように、カメラ・ゴルフ・測量などで使います。" },
+      { "q": "レンジファインダーカメラとは？", "a": "ファインダー内に見える二重像を合わせることでピントを合わせる方式のカメラです。一眼レフと違いミラーがなく、静かでコンパクトなのが特徴です。" }
+    ],
+    "quiz": [
+      { "q": "Golfers use a laser ___ to measure the distance to the pin.（距離計）", "A": "rangefinder", "B": "viewfinder のファインダー", "C": "pathfinder の先駆者", "D": "spellbinder の魅了するもの", "correct": "A" },
+      { "q": "rangefinder は何を測る装置？", "A": "距離", "B": "重さ", "C": "温度", "D": "時間", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rascally",
+    "pron": "ˈrɑːskəli",
+    "kana": "ラスカリー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "rascal（悪党・いたずら者）＋ -ly",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "口語・文学"],
+    "meaning_main": "ずる賢い・いたずらな・悪党らしい",
+    "description": "rascally の意味・発音・例文・語源を解説。いたずら者や悪党のように「ずる賢い・いたずらな・けしからぬ」という、口語や文学で使う語の使い方を紹介します。",
+    "keywords": ["rascally 意味", "rascally 発音", "ずる賢い", "rascal 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】ずる賢い・いたずらな・悪党らしい", "note": "rascal（悪党・いたずら者）のような。憎めないいたずらから、けしからぬずるさまで幅がある。やや古風・ユーモラス。" }
+    ],
+    "usages": [
+      { "title": "① 「いたずらな」として", "desc": "茶目っ気を表します。", "example_en": "The rascally puppy stole my slipper again.", "example_ja": "そのいたずらな子犬はまた私のスリッパを盗んだ。" },
+      { "title": "② 「ずる賢い」として", "desc": "悪賢さを表します。", "example_en": "He had a rascally grin as he made the deal.", "example_ja": "彼は取引をするとき、ずる賢い笑みを浮かべていた。" }
+    ],
+    "warn": [
+      "rascally は『ずる賢い・いたずらな・悪党らしい』。rascal（悪党・いたずら者）＋ -ly。",
+      "深刻な悪というより、憎めない・ユーモラスなずるさを表すことが多い。"
+    ],
+    "etym_note": "rascal（『悪党・いたずら者』、古フランス語 rascaille「下層民・くず」より。英語 rabble「群衆」と関連）＋ -ly（形容詞語尾）から成り、「悪党のような」を意味します。",
+    "etym_chain": [
+      { "node": "rascaille", "sub": "下層民・くず", "era": "古フランス語" },
+      { "node": "rascal", "sub": "悪党・いたずら者", "era": "中英語" },
+      { "node": "rascally", "sub": "ずる賢い・いたずらな", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a rascally grin", "ja": "ずる賢い笑み" },
+      { "en": "a rascally puppy", "ja": "いたずらな子犬" },
+      { "en": "rascally tricks", "ja": "いたずら・悪だくみ" },
+      { "en": "a rascally fellow", "ja": "悪党らしい男" },
+      { "en": "rascally behavior", "ja": "けしからぬ振る舞い" },
+      { "en": "a rascally scheme", "ja": "ずる賢いたくらみ" }
+    ],
+    "related": [
+      { "en": "rascal", "ja": "悪党・いたずら者" },
+      { "en": "mischievous", "ja": "いたずら好きな" },
+      { "en": "roguish", "ja": "いたずらな・無頼の" },
+      { "en": "sly", "ja": "ずる賢い" }
+    ],
+    "faq": [
+      { "q": "rascally とはどんな意味？", "a": "いたずら者や悪党のように『ずる賢い・いたずらな・けしからぬ』という意味の形容詞です。The rascally puppy stole my slipper.（いたずらな子犬がスリッパを盗んだ）のように使います。" },
+      { "q": "rascally は悪い意味だけ？", "a": "いいえ。深刻な悪というより、憎めない・ユーモラスな『いたずらっぽさ・ずる賢さ』を表すことが多く、愛嬌をこめて使われます。" }
+    ],
+    "quiz": [
+      { "q": "The ___ puppy stole my slipper again.（いたずらな）", "A": "rascally", "B": "racially の人種的に", "C": "radically の根本的に", "D": "rapidly の急速に", "correct": "A" },
+      { "q": "rascally のもとになった名詞はどれ？", "A": "rascal（悪党・いたずら者）", "B": "rascia", "C": "rascor", "D": "rascade", "correct": "A" }
+    ]
+  },
+  {
+    "english": "razorback",
+    "pron": "ˈreɪzəbæk",
+    "kana": "レイザーバック",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "razor（かみそり）＋ back（背）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "動物・地形"],
+    "meaning_main": "背が鋭く盛り上がったもの（野生ブタ・尾根・クジラ）",
+    "description": "razorback の意味・発音・例文・語源を解説。背中が鋭く盛り上がった野生のブタ、鋭い尾根、ナガスクジラなどを指す「レイザーバック」という語の使い方を紹介します。",
+    "keywords": ["razorback 意味", "razorback 発音", "野生ブタ", "鋭い尾根"],
+    "meanings": [
+      { "hinshi": "【名詞】（米南部の）背の盛り上がった野生ブタ", "note": "背中の隆起が鋭い、半野生化したやせたブタ。アメリカ南部でおなじみ。" },
+      { "hinshi": "【名詞】鋭い尾根／ナガスクジラ", "note": "かみそりのように鋭く切り立った尾根（razorback ridge）。また背びれの目立つナガスクジラの俗称。" }
+    ],
+    "usages": [
+      { "title": "① 「野生のブタ」として", "desc": "背の隆起した豚を表します。", "example_en": "Razorbacks roamed the swampy woods.", "example_ja": "レイザーバック（野生ブタ）が沼地の森をうろついていた。" },
+      { "title": "② 「鋭い尾根」として", "desc": "切り立った稜線を表します。", "example_en": "The trail followed a narrow razorback ridge.", "example_ja": "登山道は細く鋭い尾根をたどっていた。" }
+    ],
+    "warn": [
+      "razorback は『背が鋭く盛り上がったもの』＝野生ブタ／鋭い尾根／ナガスクジラ。razor（かみそり）＋ back（背）。",
+      "アメリカ・アーカンソー大のマスコット名としても有名。"
+    ],
+    "etym_note": "razor（『かみそり』、古フランス語 rasor、raser「削る」より）＋ back（『背』、古英語 bæc より）から成り、「かみそりのように鋭い背を持つもの」を意味します。",
+    "etym_chain": [
+      { "node": "razor + back", "sub": "かみそり＋背", "era": "英語" },
+      { "node": "razorback", "sub": "鋭い背のもの", "era": "近代英語" },
+      { "node": "razorback", "sub": "野生ブタ・鋭い尾根", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a wild razorback", "ja": "野生のレイザーバック（ブタ）" },
+      { "en": "a razorback ridge", "ja": "鋭い尾根" },
+      { "en": "a razorback hog", "ja": "背の盛り上がった豚" },
+      { "en": "hunt razorbacks", "ja": "野生ブタを狩る" },
+      { "en": "a narrow razorback", "ja": "細く鋭い尾根" },
+      { "en": "a razorback whale", "ja": "ナガスクジラ" }
+    ],
+    "related": [
+      { "en": "boar", "ja": "イノシシ・雄ブタ" },
+      { "en": "ridge", "ja": "尾根・隆起" },
+      { "en": "hog", "ja": "ブタ" },
+      { "en": "spine", "ja": "背骨・隆起" }
+    ],
+    "faq": [
+      { "q": "razorback とはどんな意味？", "a": "背中が鋭く盛り上がったものを指し、アメリカ南部の半野生化したやせたブタ、かみそりのように切り立った尾根、背びれの目立つナガスクジラなどを表します。Razorbacks roamed the woods.（野生ブタが森をうろついていた）のように使います。" },
+      { "q": "razorback ridge とは？", "a": "両側が急に落ち込み、かみそりの刃のように細く鋭く切り立った尾根のことです。登山では慎重に通過する必要がある地形です。" }
+    ],
+    "quiz": [
+      { "q": "The trail followed a narrow ___ ridge.（鋭い尾根）", "A": "razorback", "B": "paperback のペーパーバック", "C": "quarterback のクォーターバック", "D": "throwback の先祖返り", "correct": "A" },
+      { "q": "razorback は何と何を合わせた語？", "A": "razor（かみそり）と back（背）", "B": "raise と back", "C": "race と back", "D": "razor と black", "correct": "A" }
+    ]
+  },
+  {
+    "english": "refillable",
+    "pron": "ˌriːˈfɪləbəl",
+    "kana": "リフィラブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "refill（補充する）＋ -able（〜できる）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "日常・環境"],
+    "meaning_main": "補充できる・詰め替えできる",
+    "description": "refillable の意味・発音・例文・語源を解説。容器やペンなどを「補充できる・詰め替えできる」という、日常や環境の話題で使う語の使い方を紹介します。",
+    "keywords": ["refillable 意味", "refillable 発音", "詰め替えできる", "refill 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】補充できる・詰め替えできる", "note": "中身を再び満たして繰り返し使える。a refillable bottle（詰め替えできるボトル）。使い捨てを減らせるエコな特徴として注目される。" }
+    ],
+    "usages": [
+      { "title": "① 「詰め替えボトル」として", "desc": "繰り返し使える容器を表します。", "example_en": "Bring a refillable water bottle to reduce plastic waste.", "example_ja": "プラごみを減らすため詰め替えできる水筒を持参しよう。" },
+      { "title": "② 「補充できるペン」として", "desc": "インク補充を表します。", "example_en": "This fountain pen is refillable with bottled ink.", "example_ja": "この万年筆はボトルインクで補充できる。" }
+    ],
+    "warn": [
+      "refillable は『補充できる・詰め替えできる』。refill（補充する）＋ -able。",
+      "使い捨て（disposable）の反対として、環境にやさしい特徴を表すことが多い。"
+    ],
+    "etym_note": "refill（re-「再び」＋ fill「満たす」）＋ -able（『〜できる』）から成り、「再び満たせる」を意味します。fill（満たす）と同じ語根です。",
+    "etym_chain": [
+      { "node": "fill", "sub": "満たす", "era": "古英語" },
+      { "node": "refill", "sub": "補充する", "era": "近代英語" },
+      { "node": "refillable", "sub": "補充できる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a refillable bottle", "ja": "詰め替えできるボトル" },
+      { "en": "a refillable container", "ja": "補充できる容器" },
+      { "en": "a refillable pen", "ja": "補充できるペン" },
+      { "en": "refillable cartridges", "ja": "詰め替えカートリッジ" },
+      { "en": "a refillable cup", "ja": "おかわりできるカップ" },
+      { "en": "fully refillable", "ja": "完全に詰め替えできる" }
+    ],
+    "related": [
+      { "en": "refill", "ja": "補充する・補充分" },
+      { "en": "reusable", "ja": "再利用できる" },
+      { "en": "disposable", "ja": "使い捨ての" },
+      { "en": "replenish", "ja": "補充する" }
+    ],
+    "faq": [
+      { "q": "refillable とはどんな意味？", "a": "容器やペンなどを『補充できる・詰め替えできる』という意味の形容詞です。Bring a refillable water bottle.（詰め替えできる水筒を持参しよう）のように使います。" },
+      { "q": "refillable と disposable の違いは？", "a": "refillable は『中身を補充して繰り返し使える』、disposable は『使い捨ての』で正反対です。refillable はごみを減らす環境にやさしい特徴を表します。" }
+    ],
+    "quiz": [
+      { "q": "Bring a ___ water bottle to reduce plastic waste.（詰め替えできる）", "A": "refillable", "B": "disposable の使い捨ての", "C": "reliable の信頼できる", "D": "remarkable の注目すべき", "correct": "A" },
+      { "q": "refillable のもとになった動詞はどれ？", "A": "refill（補充する）", "B": "refer（参照する）", "C": "refine（精製する）", "D": "reflect（反射する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "refundable",
+    "pron": "rɪˈfʌndəbəl",
+    "kana": "リファンダブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "refund（払い戻す）＋ -able（〜できる）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "ビジネス・旅行"],
+    "meaning_main": "払い戻し可能な・返金できる",
+    "description": "refundable の意味・発音・例文・語源を解説。料金や預り金などが「払い戻し可能な・返金できる」という、ビジネスや旅行で使う語の使い方を紹介します。non-refundable も解説。",
+    "keywords": ["refundable 意味", "refundable 発音", "払い戻し可能な", "返金できる"],
+    "meanings": [
+      { "hinshi": "【形容詞】払い戻し可能な・返金できる", "note": "支払ったお金を返してもらえる。a refundable deposit（返金される預り金）。反対は non-refundable（払い戻し不可の）。" }
+    ],
+    "usages": [
+      { "title": "① 「返金できる料金」として", "desc": "払い戻しを表します。", "example_en": "The ticket is fully refundable up to 24 hours before departure.", "example_ja": "そのチケットは出発24時間前まで全額払い戻し可能だ。" },
+      { "title": "② 「返金される預り金」として", "desc": "預り金の返却を表します。", "example_en": "The deposit is refundable when you return the key.", "example_ja": "預り金は鍵を返すと払い戻される。" }
+    ],
+    "warn": [
+      "refundable は『払い戻し可能な・返金できる』。refund（払い戻す）＋ -able。",
+      "反対は non-refundable（払い戻し不可の）。旅行・予約・契約でよく使う。"
+    ],
+    "etym_note": "refund（『払い戻す』、ラテン語 refundere「注ぎ戻す」、re-＋ fundere「注ぐ」より）＋ -able（『〜できる』）から成り、「払い戻せる」を意味します。fund（資金）や fuse（注ぐ・融合）と同じ fundere の系統です。",
+    "etym_chain": [
+      { "node": "refundere", "sub": "注ぎ戻す", "era": "ラテン語" },
+      { "node": "refund", "sub": "払い戻す", "era": "近代英語" },
+      { "node": "refundable", "sub": "払い戻し可能な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a refundable deposit", "ja": "返金される預り金" },
+      { "en": "a refundable ticket", "ja": "払い戻し可能なチケット" },
+      { "en": "fully refundable", "ja": "全額払い戻し可能な" },
+      { "en": "a refundable fee", "ja": "返金される料金" },
+      { "en": "non-refundable", "ja": "払い戻し不可の" },
+      { "en": "refundable tax credit", "ja": "還付される税額控除" }
+    ],
+    "related": [
+      { "en": "refund", "ja": "払い戻す・払い戻し" },
+      { "en": "reimburse", "ja": "弁済する・払い戻す" },
+      { "en": "deposit", "ja": "預り金・手付金" },
+      { "en": "non-refundable", "ja": "払い戻し不可の" }
+    ],
+    "faq": [
+      { "q": "refundable とはどんな意味？", "a": "支払ったお金が『払い戻し可能な・返金できる』という意味の形容詞です。The ticket is fully refundable.（そのチケットは全額払い戻し可能だ）のように使います。反対は non-refundable です。" },
+      { "q": "refundable と non-refundable の違いは？", "a": "refundable は『払い戻してもらえる』、non-refundable は『払い戻し不可（返金されない）』です。航空券やホテルの予約条件でよく見かけます。" }
+    ],
+    "quiz": [
+      { "q": "The ticket is fully ___ up to 24 hours before departure.（払い戻し可能な）", "A": "refundable", "B": "reliable の信頼できる", "C": "remarkable の注目すべき", "D": "reasonable の妥当な", "correct": "A" },
+      { "q": "refundable の反対の意味の語はどれ？", "A": "non-refundable（払い戻し不可の）", "B": "affordable（手ごろな）", "C": "available（入手できる）", "D": "comfortable（快適な）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "redial",
+    "pron": "ˌriːˈdaɪəl",
+    "kana": "リダイヤル",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ dial（ダイヤルを回す・電話をかける）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "電話・日常"],
+    "meaning_main": "再ダイヤルする・かけ直す",
+    "description": "redial の意味・発音・例文・語源を解説。同じ電話番号に「再ダイヤルする・かけ直す」、また「再ダイヤル（機能）」という、電話や日常で使う語の使い方を紹介します。",
+    "keywords": ["redial 意味", "redial 発音", "かけ直す", "dial 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再ダイヤルする・かけ直す", "note": "直前にかけた番号にもう一度電話をかける。redial the number（その番号にかけ直す）。" },
+      { "hinshi": "【名詞】再ダイヤル（機能）", "note": "ボタン一つで直前の番号にかけ直す機能。the redial button（リダイヤルボタン）。" }
+    ],
+    "usages": [
+      { "title": "① 「かけ直す」として", "desc": "再度電話することを表します。", "example_en": "The line was busy, so she redialed a minute later.", "example_ja": "話し中だったので、彼女は1分後にかけ直した。" },
+      { "title": "② 「再ダイヤル機能」として", "desc": "便利機能を表します。", "example_en": "Just press redial to call the last number.", "example_ja": "リダイヤルを押すだけで直前の番号にかけられる。" }
+    ],
+    "warn": [
+      "redial は『再ダイヤルする・かけ直す』、名詞『再ダイヤル機能』。re-（再び）＋ dial。",
+      "過去形は redialed / redialled（英）。"
+    ],
+    "etym_note": "re-（再び）＋ dial（『ダイヤルを回す・電話をかける』、ラテン語 dies「日」、dialis「日の」より。もとは日時計・文字盤）から成り、「再びダイヤルを回す」を意味します。",
+    "etym_chain": [
+      { "node": "dialis", "sub": "日の・文字盤", "era": "ラテン語" },
+      { "node": "dial", "sub": "ダイヤルを回す・電話する", "era": "近代英語" },
+      { "node": "redial", "sub": "再ダイヤルする", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "redial the number", "ja": "その番号にかけ直す" },
+      { "en": "press redial", "ja": "リダイヤルを押す" },
+      { "en": "the redial button", "ja": "リダイヤルボタン" },
+      { "en": "redial automatically", "ja": "自動でかけ直す" },
+      { "en": "redial the last call", "ja": "直前の通話にかけ直す" },
+      { "en": "keep redialing", "ja": "かけ直し続ける" }
+    ],
+    "related": [
+      { "en": "dial", "ja": "ダイヤルを回す・電話する" },
+      { "en": "call back", "ja": "折り返し電話する" },
+      { "en": "ring", "ja": "電話をかける・鳴る" },
+      { "en": "hang up", "ja": "電話を切る" }
+    ],
+    "faq": [
+      { "q": "redial とはどんな意味？", "a": "直前にかけた電話番号に『再ダイヤルする・かけ直す』という意味です。The line was busy, so she redialed.（話し中だったのでかけ直した）のように使います。名詞で『再ダイヤル機能』も表します。" },
+      { "q": "redial の過去形は？", "a": "redialed（米）または redialled（英）です。「She redialed the number.（その番号にかけ直した）」のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The line was busy, so she ___ed a minute later.（かけ直した）", "A": "redial", "B": "dial の最初にかけるだけ", "C": "denial の否定", "D": "detail の細部", "correct": "A" },
+      { "q": "redial の dial はどんな意味？", "A": "ダイヤルを回す・電話をかける", "B": "数える", "C": "描く", "D": "押す", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reducible",
+    "pron": "rɪˈdjuːsɪbəl",
+    "kana": "リデューシブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "reduce（減らす・約す）＋ -ible（〜できる）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "学術・数学"],
+    "meaning_main": "減らせる・単純化できる・約分できる",
+    "description": "reducible の意味・発音・例文・語源を解説。より単純な形に「減らせる・約せる・単純化できる」という、数学や論理、学術で使う語の使い方を紹介します。irreducible との対比も。",
+    "keywords": ["reducible 意味", "reducible 発音", "約分できる", "reduce 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】減らせる・単純化できる・約せる", "note": "より小さい・単純な形に変えられる。数学では分数が『約分できる』、多項式が『因数分解できる』こと。reducible to ...（〜に還元できる）。反対は irreducible。" }
+    ],
+    "usages": [
+      { "title": "① 数学「約分できる」として", "desc": "単純化を表します。", "example_en": "The fraction 4/8 is reducible to 1/2.", "example_ja": "分数4/8は1/2に約分できる。" },
+      { "title": "② 「単純化できる」として", "desc": "より単純な形への還元を表します。", "example_en": "The problem is reducible to a simpler equation.", "example_ja": "その問題はより単純な方程式に還元できる。" }
+    ],
+    "warn": [
+      "reducible は『減らせる・単純化できる・約せる』。reduce＋-ible。反対は irreducible（これ以上単純化できない）。",
+      "数学（約分・因数分解）、論理（還元）でよく使う。"
+    ],
+    "etym_note": "reduce（『減らす・約す・連れ戻す』、ラテン語 reducere「連れ戻す」、re-＋ ducere「導く」より）＋ -ible（『〜できる』）から成り、「より単純な形に戻せる」を意味します。produce（生み出す）や conduct（導く）と同じ ducere の系統です。",
+    "etym_chain": [
+      { "node": "reducere", "sub": "連れ戻す", "era": "ラテン語" },
+      { "node": "reduce", "sub": "減らす・約す", "era": "中英語" },
+      { "node": "reducible", "sub": "減らせる・約せる", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "reducible to ...", "ja": "〜に還元できる" },
+      { "en": "a reducible fraction", "ja": "約分できる分数" },
+      { "en": "reducible to simpler terms", "ja": "より単純な形に約せる" },
+      { "en": "a reducible polynomial", "ja": "因数分解できる多項式" },
+      { "en": "not reducible", "ja": "単純化できない" },
+      { "en": "easily reducible", "ja": "容易に約せる" }
+    ],
+    "related": [
+      { "en": "reduce", "ja": "減らす・約す" },
+      { "en": "irreducible", "ja": "これ以上単純化できない" },
+      { "en": "simplify", "ja": "単純化する" },
+      { "en": "factor", "ja": "因数分解する・因数" }
+    ],
+    "faq": [
+      { "q": "reducible とはどんな意味？", "a": "より単純な形に『減らせる・約せる・単純化できる』という意味の形容詞です。The fraction 4/8 is reducible to 1/2.（4/8は1/2に約分できる）のように、数学や論理で使います。反対は irreducible です。" },
+      { "q": "reducible と irreducible の違いは？", "a": "reducible は『（もっと単純な形に）約せる・分解できる』、irreducible は『これ以上単純化できない』です。約分しきった分数や、因数分解できない多項式は irreducible です。" }
+    ],
+    "quiz": [
+      { "q": "The fraction 4/8 is ___ to 1/2.（約分できる）", "A": "reducible", "B": "credible の信用できる", "C": "audible の聞こえる", "D": "edible の食べられる", "correct": "A" },
+      { "q": "reducible の反対の意味の語はどれ？", "A": "irreducible（単純化できない）", "B": "incredible（信じられない）", "C": "invisible（見えない）", "D": "impossible（不可能な）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rainproof",
+    "pron": "ˈreɪnpruːf",
+    "kana": "レインプルーフ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "rain（雨）＋ proof（〜を通さない・耐える）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "日常・衣類"],
+    "meaning_main": "雨を通さない・防雨の",
+    "description": "rainproof の意味・発音・例文・語源を解説。雨を「通さない・防ぐ」という、衣類や道具について使う語の使い方を紹介します。waterproof との違いも解説。",
+    "keywords": ["rainproof 意味", "rainproof 発音", "防雨の", "雨を通さない"],
+    "meanings": [
+      { "hinshi": "【形容詞】雨を通さない・防雨の", "note": "雨を防いで中をぬらさない。a rainproof jacket（雨を通さない上着）。動詞で『防雨加工する』にも使う。" }
+    ],
+    "usages": [
+      { "title": "① 「防雨の上着」として", "desc": "雨を防ぐ衣類を表します。", "example_en": "She wore a rainproof jacket on the hike.", "example_ja": "彼女はハイキングに雨を通さない上着を着た。" },
+      { "title": "② 「防雨の覆い」として", "desc": "雨よけを表します。", "example_en": "The tent has a rainproof outer layer.", "example_ja": "そのテントには防雨の外層がある。" }
+    ],
+    "warn": [
+      "rainproof は『雨を通さない・防雨の』。rain（雨）＋ proof（〜を通さない）。",
+      "waterproof（完全防水）ほど強くなく、『雨をしのげる』程度を指すことが多い。"
+    ],
+    "etym_note": "rain（『雨』、古英語 regn より）＋ proof（『〜に耐える・通さない』、ラテン語 probare「試す・証明する」より）から成り、「雨に耐える・雨を通さない」を意味します。waterproof（防水の）と同じ proof の使い方です。",
+    "etym_chain": [
+      { "node": "rain + proof", "sub": "雨＋通さない", "era": "英語" },
+      { "node": "rainproof", "sub": "防雨の", "era": "近代英語" },
+      { "node": "rainproof", "sub": "雨を通さない・防雨の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rainproof jacket", "ja": "雨を通さない上着" },
+      { "en": "rainproof clothing", "ja": "防雨の衣類" },
+      { "en": "a rainproof cover", "ja": "防雨の覆い" },
+      { "en": "rainproof the tent", "ja": "テントを防雨加工する" },
+      { "en": "a rainproof coating", "ja": "防雨のコーティング" },
+      { "en": "fully rainproof", "ja": "完全に雨を通さない" }
+    ],
+    "related": [
+      { "en": "waterproof", "ja": "防水の" },
+      { "en": "water-resistant", "ja": "耐水の" },
+      { "en": "weatherproof", "ja": "風雨に耐える" },
+      { "en": "raincoat", "ja": "レインコート" }
+    ],
+    "faq": [
+      { "q": "rainproof とはどんな意味？", "a": "雨を『通さない・防ぐ』という意味の形容詞です。She wore a rainproof jacket.（雨を通さない上着を着た）のように使います。動詞で『防雨加工する』にも使えます。" },
+      { "q": "rainproof と waterproof の違いは？", "a": "waterproof は『（水に浸けても大丈夫な）完全防水』、rainproof は『雨をしのげる』程度を指すことが多く、防水性能の度合いがやや異なります。" }
+    ],
+    "quiz": [
+      { "q": "She wore a ___ jacket on the hike.（雨を通さない）", "A": "rainproof", "B": "rainbow の虹", "C": "rainfall の降雨", "D": "raincheck の引換券", "correct": "A" },
+      { "q": "rainproof の proof はどんな意味？", "A": "〜を通さない・耐える", "B": "証拠だけ", "C": "校正刷り", "D": "数字", "correct": "A" }
+    ]
+  },
+  {
+    "english": "remorseless",
+    "pron": "rɪˈmɔːsləs",
+    "kana": "リモースレス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "remorse（自責・後悔）＋ -less（〜のない）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文学・一般"],
+    "meaning_main": "無慈悲な・容赦のない・絶え間ない",
+    "description": "remorseless の意味・発音・例文・語源を解説。良心の呵責を感じない「無慈悲な・容赦のない」、また止まらない「絶え間ない」という語の使い方を紹介します。",
+    "keywords": ["remorseless 意味", "remorseless 発音", "無慈悲な", "remorse 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】無慈悲な・容赦のない", "note": "自責の念（remorse）を感じない、情け容赦のない。a remorseless killer（冷酷な殺人者）。" },
+      { "hinshi": "【形容詞】絶え間ない・止まらない", "note": "勢いが衰えず容赦なく続く。the remorseless advance（容赦なく進む前進）。" }
+    ],
+    "usages": [
+      { "title": "① 「冷酷な」として", "desc": "情け容赦のなさを表します。", "example_en": "The dictator was remorseless in crushing dissent.", "example_ja": "その独裁者は反対意見を容赦なく押しつぶした。" },
+      { "title": "② 「絶え間ない」として", "desc": "止まらない勢いを表します。", "example_en": "The remorseless rain continued for days.", "example_ja": "容赦のない雨が何日も降り続いた。" }
+    ],
+    "warn": [
+      "remorseless は『無慈悲な・容赦のない／絶え間ない』。remorse（自責・後悔）＋ -less（〜のない）。",
+      "人について『冷酷な』、物事について『止まらない・容赦なく続く』の両方で使う。"
+    ],
+    "etym_note": "remorse（『自責の念・良心の呵責』、ラテン語 remordere「再びかむ＝良心がさいなむ」、re-＋ mordere「かむ」より）＋ -less（『〜のない』）から成り、「良心の呵責を感じない」を意味します。morsel（一口）や mordant（辛辣な）と同じ mordere の系統です。",
+    "etym_chain": [
+      { "node": "remordere", "sub": "再びかむ・さいなむ", "era": "ラテン語" },
+      { "node": "remorse", "sub": "自責・後悔", "era": "中英語" },
+      { "node": "remorseless", "sub": "無慈悲な・容赦のない", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a remorseless killer", "ja": "冷酷な殺人者" },
+      { "en": "remorseless cruelty", "ja": "容赦のない残酷さ" },
+      { "en": "the remorseless advance", "ja": "容赦なく進む前進" },
+      { "en": "remorseless pressure", "ja": "絶え間ない圧力" },
+      { "en": "remorseless logic", "ja": "情け容赦のない論理" },
+      { "en": "remorseless rain", "ja": "降りやまない雨" }
+    ],
+    "related": [
+      { "en": "remorse", "ja": "自責・後悔" },
+      { "en": "merciless", "ja": "無慈悲な" },
+      { "en": "ruthless", "ja": "容赦ない" },
+      { "en": "relentless", "ja": "絶え間ない・容赦ない" }
+    ],
+    "faq": [
+      { "q": "remorseless とはどんな意味？", "a": "良心の呵責を感じない『無慈悲な・容赦のない』、また止まらない『絶え間ない』という意味です。The dictator was remorseless.（独裁者は容赦なかった）/ the remorseless rain（降りやまない雨）のように使います。" },
+      { "q": "remorseless と relentless の違いは？", "a": "remorseless は『（良心の呵責がなく）冷酷な』に重点があり、relentless は『（勢いが）緩まず容赦なく続く』に重点があります。意味が重なる部分も多くあります。" }
+    ],
+    "quiz": [
+      { "q": "The dictator was ___ in crushing dissent.（容赦のない）", "A": "remorseless", "B": "harmless の無害な", "C": "careless の不注意な", "D": "priceless の値の付けられない", "correct": "A" },
+      { "q": "remorseless のもとになった名詞はどれ？", "A": "remorse（自責・後悔）", "B": "remote（遠隔）", "C": "remark（所見）", "D": "remedy（治療）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "relentlessly",
+    "pron": "rɪˈlɛntləsli",
+    "kana": "リレントレスリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "relentless（容赦ない）＋ -ly",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "一般・文章"],
+    "meaning_main": "容赦なく・絶え間なく・執拗に",
+    "description": "relentlessly の意味・発音・例文・語源を解説。勢いを緩めず「容赦なく・絶え間なく・執拗に」という、努力や攻撃、自然現象について使う副詞の使い方を紹介します。",
+    "keywords": ["relentlessly 意味", "relentlessly 発音", "容赦なく", "relentless 意味"],
+    "meanings": [
+      { "hinshi": "【副詞】容赦なく・絶え間なく・執拗に", "note": "勢いや厳しさを緩めずに。work relentlessly（休まず働く）。pursue relentlessly（執拗に追い求める）。形容詞は relentless。" }
+    ],
+    "usages": [
+      { "title": "① 「絶え間なく」として", "desc": "休まず続く様子を表します。", "example_en": "She worked relentlessly to finish the project on time.", "example_ja": "彼女は期限内に仕上げるため休みなく働いた。" },
+      { "title": "② 「執拗に」として", "desc": "緩まない追及を表します。", "example_en": "The reporters questioned him relentlessly.", "example_ja": "記者たちは彼を執拗に問いただした。" }
+    ],
+    "warn": [
+      "relentlessly は『容赦なく・絶え間なく・執拗に』。relentless（容赦ない）＋ -ly。",
+      "良い意味（ひたむきに努力する）にも、厳しい意味（容赦なく攻める）にも使う。"
+    ],
+    "etym_note": "relentless（relent「（態度を）和らげる」＋ -less「〜ない」）＋ -ly から成り、「（厳しさを）緩めることなく」を意味します。relent は re-＋ ラテン語 lentus「柔らかい・遅い」に由来します。",
+    "etym_chain": [
+      { "node": "lentus", "sub": "柔らかい・遅い", "era": "ラテン語" },
+      { "node": "relent", "sub": "和らげる・折れる", "era": "近代英語" },
+      { "node": "relentlessly", "sub": "容赦なく・絶え間なく", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "work relentlessly", "ja": "休まず働く" },
+      { "en": "pursue relentlessly", "ja": "執拗に追い求める" },
+      { "en": "push relentlessly", "ja": "容赦なく推し進める" },
+      { "en": "rain relentlessly", "ja": "降りやまず降る" },
+      { "en": "criticize relentlessly", "ja": "容赦なく批判する" },
+      { "en": "advance relentlessly", "ja": "絶え間なく前進する" }
+    ],
+    "related": [
+      { "en": "relentless", "ja": "容赦ない・絶え間ない" },
+      { "en": "relent", "ja": "和らげる・折れる" },
+      { "en": "tirelessly", "ja": "たゆまず・疲れを知らず" },
+      { "en": "persistently", "ja": "粘り強く・しつこく" }
+    ],
+    "faq": [
+      { "q": "relentlessly とはどんな意味？", "a": "勢いや厳しさを緩めず『容赦なく・絶え間なく・執拗に』という意味の副詞です。She worked relentlessly.（彼女は休みなく働いた）のように使います。形容詞は relentless です。" },
+      { "q": "relentlessly は良い意味でも使える？", "a": "はい。『ひたむきに・たゆまず（努力する）』という前向きな意味にも、『容赦なく・執拗に（攻める）』という厳しい意味にも使えます。文脈で判断します。" }
+    ],
+    "quiz": [
+      { "q": "She worked ___ to finish the project on time.（休みなく）", "A": "relentlessly", "B": "reluctantly のいやいや", "C": "recently の最近", "D": "remotely の遠隔で", "correct": "A" },
+      { "q": "relentlessly のもとになった形容詞はどれ？", "A": "relentless（容赦ない）", "B": "reluctant（気の進まない）", "C": "relevant（関連する）", "D": "reliable（信頼できる）", "correct": "A" }
+    ]
+  }
+]
