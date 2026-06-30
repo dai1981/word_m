@@ -312,55 +312,55 @@
     ]
   },
   {
-    "english": "replaceable",
-    "pron": "rɪˈpleɪsəbəl",
-    "kana": "リプレイサブル",
+    "english": "replicable",
+    "pron": "ˈrɛplɪkəbəl",
+    "kana": "レプリカブル",
     "hinshi": "形容詞",
     "ld_pos": "形容詞",
-    "ld_etym": "replace（取り替える）＋ -able（〜できる）",
-    "ld_level": "準1級",
-    "badges": ["高校生〜", "英検準1級", "CEFR B2", "一般・日常"],
-    "meaning_main": "取り替えられる・代わりがきく",
-    "description": "replaceable の意味・発音・例文・語源を解説。部品や人などが「取り替えられる・代わりがきく」という、日常やビジネスで使う語の使い方と、反対の irreplaceable を紹介します。",
-    "keywords": ["replaceable 意味", "replaceable 発音", "取り替えられる", "replace 意味"],
+    "ld_etym": "replicate（複製する・再現する）＋ -able（〜できる）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "学術・研究"],
+    "meaning_main": "再現できる・複製できる",
+    "description": "replicable の意味・発音・例文・語源を解説。実験や結果などが「再現できる・複製できる」という、科学や研究で使う語の使い方を紹介します。reproducible との関係も解説。",
+    "keywords": ["replicable 意味", "replicable 発音", "再現できる", "replicate 意味"],
     "meanings": [
-      { "hinshi": "【形容詞】取り替えられる・代わりがきく", "note": "新しいものや別のものと交換できる、代わりが見つかる。replaceable parts（交換できる部品）。反対は irreplaceable（かけがえのない）。" }
+      { "hinshi": "【形容詞】再現できる・複製できる", "note": "同じ手順でやり直しても同じ結果が得られる、または複製できる。a replicable experiment（再現できる実験）。科学の信頼性の核心となる性質。動詞は replicate。" }
     ],
     "usages": [
-      { "title": "① 「交換できる部品」として", "desc": "取り替え可能を表します。", "example_en": "The battery is easily replaceable.", "example_ja": "そのバッテリーは簡単に取り替えられる。" },
-      { "title": "② 「代わりがきく」として", "desc": "代替可能を表します。", "example_en": "No one on the team is truly replaceable.", "example_ja": "チームの誰一人として本当に代わりがきく者はいない。" }
+      { "title": "① 「再現できる実験」として", "desc": "結果の再現性を表します。", "example_en": "Good science produces replicable results.", "example_ja": "良い科学は再現できる結果を生む。" },
+      { "title": "② 「複製できる仕組み」として", "desc": "同じものを作れることを表します。", "example_en": "The model is simple and easily replicable.", "example_ja": "そのモデルは単純で簡単に再現できる。" }
     ],
     "warn": [
-      "replaceable は『取り替えられる・代わりがきく』。replace（取り替える）＋ -able。",
-      "反対は irreplaceable（取り替えのきかない・かけがえのない）。人について使うと『代わりがきく』とやや冷たい響きにもなる。"
+      "replicable は『再現できる・複製できる』。replicate（複製する・再現する）＋ -able。",
+      "科学では reproducible（再現可能な）とほぼ同義で、研究の信頼性を示す重要な語。"
     ],
-    "etym_note": "replace（re-「再び・戻して」＋ place「置く」、ラテン語 platea「広場・通り」より）＋ -able（『〜できる』）から成り、「（別のものを）置き換えられる」を意味します。place（場所・置く）と同じ語根です。",
+    "etym_note": "replicate（『複製する・再現する』、ラテン語 replicare「折り返す・繰り返す」、re-＋ plicare「折る」より）＋ -able（『〜できる』）から成り、「繰り返して同じものを得られる」を意味します。reply（返答する）や complicated（複雑な）と同じ plicare の系統です。",
     "etym_chain": [
-      { "node": "place", "sub": "場所・置く", "era": "古フランス語" },
-      { "node": "replace", "sub": "取り替える", "era": "近代英語" },
-      { "node": "replaceable", "sub": "取り替えられる", "era": "近代英語" }
+      { "node": "replicare", "sub": "折り返す・繰り返す", "era": "ラテン語" },
+      { "node": "replicate", "sub": "複製する・再現する", "era": "近代英語" },
+      { "node": "replicable", "sub": "再現できる・複製できる", "era": "近代英語" }
     ],
     "phrases": [
-      { "en": "easily replaceable", "ja": "簡単に取り替えられる" },
-      { "en": "replaceable parts", "ja": "交換できる部品" },
-      { "en": "a replaceable battery", "ja": "交換できるバッテリー" },
-      { "en": "not replaceable", "ja": "取り替えのきかない" },
-      { "en": "a replaceable component", "ja": "交換可能な部品" },
-      { "en": "readily replaceable", "ja": "すぐ代わりがきく" }
+      { "en": "replicable results", "ja": "再現できる結果" },
+      { "en": "a replicable experiment", "ja": "再現できる実験" },
+      { "en": "easily replicable", "ja": "簡単に再現できる" },
+      { "en": "a replicable method", "ja": "再現できる方法" },
+      { "en": "not replicable", "ja": "再現できない" },
+      { "en": "a replicable model", "ja": "再現できるモデル" }
     ],
     "related": [
-      { "en": "replace", "ja": "取り替える" },
-      { "en": "irreplaceable", "ja": "かけがえのない" },
-      { "en": "interchangeable", "ja": "交換可能な" },
-      { "en": "replacement", "ja": "交換・代わりのもの" }
+      { "en": "replicate", "ja": "複製する・再現する" },
+      { "en": "reproducible", "ja": "再現可能な" },
+      { "en": "replication", "ja": "複製・再現" },
+      { "en": "verifiable", "ja": "検証できる" }
     ],
     "faq": [
-      { "q": "replaceable とはどんな意味？", "a": "部品や人などが『取り替えられる・代わりがきく』という意味の形容詞です。The battery is easily replaceable.（バッテリーは簡単に取り替えられる）のように使います。反対は irreplaceable です。" },
-      { "q": "replaceable と irreplaceable の違いは？", "a": "replaceable は『取り替えられる・代わりがきく』、irreplaceable は『取り替えのきかない・かけがえのない』です。大切な人や物には irreplaceable を使います。" }
+      { "q": "replicable とはどんな意味？", "a": "実験や結果などが『再現できる・複製できる』という意味の形容詞です。Good science produces replicable results.（良い科学は再現できる結果を生む）のように使います。動詞は replicate です。" },
+      { "q": "replicable と reproducible の違いは？", "a": "どちらも『再現できる』とほぼ同義です。厳密には、replicable は『（別の条件・データでも）同じ結論が出せる』、reproducible は『（同じデータ・手順で）同じ結果が出せる』と区別されることもあります。" }
     ],
     "quiz": [
-      { "q": "The battery is easily ___.（取り替えられる）", "A": "replaceable", "B": "irreplaceable のかけがえのない", "C": "reasonable の妥当な", "D": "remarkable の注目すべき", "correct": "A" },
-      { "q": "replaceable の反対の意味の語はどれ？", "A": "irreplaceable（かけがえのない）", "B": "incredible（信じられない）", "C": "invisible（見えない）", "D": "inevitable（避けられない）", "correct": "A" }
+      { "q": "Good science produces ___ results.（再現できる）", "A": "replicable", "B": "remarkable の注目すべき", "C": "reasonable の妥当な", "D": "removable の取り外せる", "correct": "A" },
+      { "q": "replicable のもとになった動詞はどれ？", "A": "replicate（複製する・再現する）", "B": "replace（取り替える）", "C": "reply（返答する）", "D": "report（報告する）", "correct": "A" }
     ]
   },
   {
