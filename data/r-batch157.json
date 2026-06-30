@@ -1,0 +1,471 @@
+[
+  {
+    "english": "reassessment",
+    "pron": "ˌriːəˈsɛsmənt",
+    "kana": "リアセスメント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ assessment（評価・査定）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "ビジネス・一般"],
+    "meaning_main": "再評価・見直し・再査定",
+    "description": "reassessment の意味・発音・例文・語源を解説。状況や価値を「再評価する・見直す」こと「再評価・再査定」という、ビジネスや行政で使う語の使い方を紹介します。",
+    "keywords": ["reassessment 意味", "reassessment 発音", "再評価", "見直し"],
+    "meanings": [
+      { "hinshi": "【名詞】再評価・見直し・再査定", "note": "一度行った評価・判断・査定を改めて行うこと。a reassessment of the situation（状況の見直し）。税・不動産の再査定にも使う。動詞は reassess。" }
+    ],
+    "usages": [
+      { "title": "① 「状況の見直し」として", "desc": "改めて評価することを表します。", "example_en": "The crisis forced a reassessment of company policy.", "example_ja": "その危機は会社方針の見直しを迫った。" },
+      { "title": "② 「再査定」として", "desc": "価値の評価し直しを表します。", "example_en": "The property underwent a tax reassessment.", "example_ja": "その不動産は税の再査定を受けた。" }
+    ],
+    "warn": [
+      "reassessment は『再評価・見直し・再査定』。re-（再び）＋ assessment。動詞は reassess。",
+      "考え方・方針の『見直し』にも、税・資産の『再査定』にも使う。"
+    ],
+    "etym_note": "re-（再び）＋ assessment（『評価・査定』、assess「査定する」、ラテン語 assidere「そばに座る＝（税を）定める」より）から成り、「再び評価すること」を意味します。assize（巡回裁判）や session（会期）と語源的につながります。",
+    "etym_chain": [
+      { "node": "assidere", "sub": "そばに座る・定める", "era": "ラテン語" },
+      { "node": "assessment", "sub": "評価・査定", "era": "中英語" },
+      { "node": "reassessment", "sub": "再評価・見直し", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a reassessment of the situation", "ja": "状況の見直し" },
+      { "en": "a policy reassessment", "ja": "方針の見直し" },
+      { "en": "a tax reassessment", "ja": "税の再査定" },
+      { "en": "call for a reassessment", "ja": "見直しを求める" },
+      { "en": "a thorough reassessment", "ja": "徹底的な再評価" },
+      { "en": "undergo reassessment", "ja": "再査定を受ける" }
+    ],
+    "related": [
+      { "en": "reassess", "ja": "再評価する" },
+      { "en": "assessment", "ja": "評価・査定" },
+      { "en": "review", "ja": "見直し・再検討" },
+      { "en": "reevaluation", "ja": "再評価" }
+    ],
+    "faq": [
+      { "q": "reassessment とはどんな意味？", "a": "一度行った評価・判断・査定を改めて行うこと『再評価・見直し・再査定』のことです。The crisis forced a reassessment of policy.（危機が方針の見直しを迫った）のように使います。動詞は reassess です。" },
+      { "q": "reassessment はどんな場面で使う？", "a": "考え方や方針の『見直し』、不動産・税などの価値の『再査定』、患者の容体の『再評価』など、一度下した評価を改めて行う幅広い場面で使われます。" }
+    ],
+    "quiz": [
+      { "q": "The crisis forced a ___ of company policy.（見直し）", "A": "reassessment", "B": "resemblance の類似", "C": "resentment の憤り", "D": "resettlement の再定住", "correct": "A" },
+      { "q": "reassessment の動詞形はどれ？", "A": "reassess（再評価する）", "B": "reassure（安心させる）", "C": "reassemble（再び集める）", "D": "reassign（割り当て直す）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reenactor",
+    "pron": "ˌriːɪˈnæktə",
+    "kana": "リエナクター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "reenact（再現する）＋ -or（する人）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "歴史・趣味"],
+    "meaning_main": "歴史再現を演じる人（リエナクター）",
+    "description": "reenactor の意味・発音・例文・語源を解説。当時の衣装や装備で歴史上の出来事（戦闘など）を再現して演じる人「リエナクター」という、歴史趣味で使う語の使い方を紹介します。",
+    "keywords": ["reenactor 意味", "reenactor 発音", "歴史再現", "reenact 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】歴史再現を演じる人（リエナクター）", "note": "当時の衣装・装備をまとい、歴史上の戦闘や生活などを再現して演じる人。re-enactor とも綴る。動詞は reenact（再現する）。" }
+    ],
+    "usages": [
+      { "title": "① 「戦闘の再現者」として", "desc": "史実を演じる人を表します。", "example_en": "Reenactors staged a Civil War battle for the crowd.", "example_ja": "リエナクターたちが観衆のために南北戦争の戦闘を再現した。" },
+      { "title": "② 「当時の生活の再現」として", "desc": "歴史体験を表します。", "example_en": "The reenactors cooked over an open fire as people did in the 1800s.", "example_ja": "リエナクターたちは1800年代の人々のように直火で料理した。" }
+    ],
+    "warn": [
+      "reenactor は『歴史再現を演じる人（リエナクター）』。reenact（再現する）＋ -or。re-enactor とも綴る。",
+      "歴史的戦闘（battle reenactment）の再現が特に有名。"
+    ],
+    "etym_note": "reenact（re-「再び」＋ enact「（劇として）演じる・法律を制定する」、en-＋ act「行為」より）＋ -or（『する人』）から成り、「再び演じて再現する人」を意味します。act（行う・演じる）と同じ語根です。",
+    "etym_chain": [
+      { "node": "act", "sub": "行う・演じる", "era": "ラテン語系" },
+      { "node": "reenact", "sub": "再現する", "era": "近代英語" },
+      { "node": "reenactor", "sub": "歴史再現を演じる人", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a Civil War reenactor", "ja": "南北戦争のリエナクター" },
+      { "en": "historical reenactors", "ja": "歴史再現者たち" },
+      { "en": "a battle reenactor", "ja": "戦闘再現を演じる人" },
+      { "en": "dressed as a reenactor", "ja": "リエナクターの装いで" },
+      { "en": "a medieval reenactor", "ja": "中世のリエナクター" },
+      { "en": "a group of reenactors", "ja": "リエナクターの一団" }
+    ],
+    "related": [
+      { "en": "reenact", "ja": "再現する" },
+      { "en": "reenactment", "ja": "歴史再現・再演" },
+      { "en": "costume", "ja": "衣装" },
+      { "en": "living history", "ja": "リビングヒストリー・歴史体験" }
+    ],
+    "faq": [
+      { "q": "reenactor とはどんな意味？", "a": "当時の衣装や装備をまとい、歴史上の戦闘や生活などを再現して演じる人『リエナクター』のことです。Reenactors staged a Civil War battle.（リエナクターが南北戦争の戦闘を再現した）のように使います。" },
+      { "q": "reenactor は何をする人？", "a": "歴史的な出来事（特に戦闘）や当時の暮らしを、忠実な衣装・道具で再現して演じる趣味・活動を行う人です。教育イベントや祭りでよく見られます。" }
+    ],
+    "quiz": [
+      { "q": "___s staged a Civil War battle for the crowd.（歴史再現を演じる人）", "A": "Reenactor", "B": "Spectator の観客", "C": "Narrator の語り手", "D": "Inspector の検査官", "correct": "A" },
+      { "q": "reenactor のもとになった動詞はどれ？", "A": "reenact（再現する）", "B": "react（反応する）", "C": "retract（撤回する）", "D": "redirect（向け直す）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reportedly",
+    "pron": "rɪˈpɔːtɪdli",
+    "kana": "リポーティッドリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "reported（報じられた）＋ -ly",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "報道・一般"],
+    "meaning_main": "伝えられるところによれば・報道によると",
+    "description": "reportedly の意味・発音・例文・語源を解説。「伝えられるところによれば・報道によると（確実ではないが）」という、ニュースや文章で使う副詞の使い方を紹介します。",
+    "keywords": ["reportedly 意味", "reportedly 発音", "報道によると", "report 意味"],
+    "meanings": [
+      { "hinshi": "【副詞】伝えられるところによれば・報道によると", "note": "（断定を避けて）報じられている内容として。話し手自身が確認したわけではないことを示す。He is reportedly leaving.（彼は辞めると伝えられている）。" }
+    ],
+    "usages": [
+      { "title": "① 「報道によると」として", "desc": "伝聞であることを表します。", "example_en": "The company is reportedly planning layoffs.", "example_ja": "その会社は人員削減を計画していると伝えられている。" },
+      { "title": "② 「〜とされる」として", "desc": "未確認の情報を表します。", "example_en": "The painting reportedly sold for millions.", "example_ja": "その絵は数百万で売れたと伝えられている。" }
+    ],
+    "warn": [
+      "reportedly は『伝えられるところによれば・報道によると』。reported（報じられた）＋ -ly。",
+      "話し手が真偽を保証せず、報道・うわさの内容として述べるときに使う。"
+    ],
+    "etym_note": "report（『報告する・報じる』、ラテン語 reportare「持ち帰る」、re-＋ portare「運ぶ」より）の過去分詞 reported ＋ -ly から成り、「報じられているところによれば」を意味します。portable（持ち運べる）や transport（輸送）と同じ portare の系統です。",
+    "etym_chain": [
+      { "node": "reportare", "sub": "持ち帰る・報じる", "era": "ラテン語" },
+      { "node": "report", "sub": "報告する・報じる", "era": "中英語" },
+      { "node": "reportedly", "sub": "伝えられるところによれば", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "is reportedly planning ...", "ja": "〜を計画していると伝えられる" },
+      { "en": "reportedly worth ...", "ja": "〜の価値があるとされる" },
+      { "en": "reportedly injured", "ja": "けがをしたと伝えられる" },
+      { "en": "reportedly said", "ja": "〜と語ったと伝えられる" },
+      { "en": "reportedly in talks", "ja": "協議中と伝えられる" },
+      { "en": "reportedly resigned", "ja": "辞任したと報じられる" }
+    ],
+    "related": [
+      { "en": "report", "ja": "報告する・報じる" },
+      { "en": "allegedly", "ja": "申し立てによると" },
+      { "en": "supposedly", "ja": "おそらく・〜とされる" },
+      { "en": "apparently", "ja": "見たところ・どうやら" }
+    ],
+    "faq": [
+      { "q": "reportedly とはどんな意味？", "a": "『伝えられるところによれば・報道によると』という意味の副詞で、話し手自身が確認したわけではないことを示します。The company is reportedly planning layoffs.（人員削減を計画していると伝えられている）のように使います。" },
+      { "q": "reportedly と allegedly の違いは？", "a": "reportedly は『報道・情報源が伝えるところでは』、allegedly は『（特に非難の文脈で）申し立てによると（証明前）』という違いがあります。どちらも断定を避ける語です。" }
+    ],
+    "quiz": [
+      { "q": "The company is ___ planning layoffs.（伝えられるところによれば）", "A": "reportedly", "B": "repeatedly の繰り返して", "C": "reluctantly のいやいや", "D": "remotely の遠隔で", "correct": "A" },
+      { "q": "reportedly のもとになった動詞はどれ？", "A": "report（報じる）", "B": "repeat（繰り返す）", "C": "repair（修理する）", "D": "replace（取り替える）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reseller",
+    "pron": "ˌriːˈsɛlə",
+    "kana": "リセラー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "resell（転売する）＋ -er（する人）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "ビジネス・商取引"],
+    "meaning_main": "再販業者・転売者",
+    "description": "reseller の意味・発音・例文・語源を解説。仕入れた商品を再び売る「再販業者・転売者」という、ビジネスや商取引で使う語の使い方を紹介します。正規の再販と転売の両方を解説。",
+    "keywords": ["reseller 意味", "reseller 発音", "再販業者", "転売者"],
+    "meanings": [
+      { "hinshi": "【名詞】再販業者・転売者", "note": "メーカーや卸から仕入れた商品・サービスを最終消費者などに再び売る業者。正規の販売代理店から、品薄品を高値で転売する人まで幅がある。動詞は resell。" }
+    ],
+    "usages": [
+      { "title": "① 「正規の再販業者」として", "desc": "販売代理を表します。", "example_en": "The software is sold through authorized resellers.", "example_ja": "そのソフトは正規の再販業者を通じて売られている。" },
+      { "title": "② 「転売者」として", "desc": "品薄品の転売を表します。", "example_en": "Resellers bought up the tickets and sold them at a markup.", "example_ja": "転売者がチケットを買い占め、上乗せ価格で売った。" }
+    ],
+    "warn": [
+      "reseller は『再販業者・転売者』。resell（転売する）＋ -er。",
+      "正規の『販売代理店』にも、品薄品の『転売ヤー』にも使う。文脈で良し悪しが決まる。"
+    ],
+    "etym_note": "resell（re-「再び」＋ sell「売る」、古英語 sellan「与える・売る」より）＋ -er（『する人』）から成り、「再び売る人」を意味します。sale（販売）と同じ語根です。",
+    "etym_chain": [
+      { "node": "sellan", "sub": "与える・売る", "era": "古英語" },
+      { "node": "resell", "sub": "転売する・再び売る", "era": "近代英語" },
+      { "node": "reseller", "sub": "再販業者・転売者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an authorized reseller", "ja": "正規の再販業者" },
+      { "en": "a value-added reseller", "ja": "付加価値再販業者（VAR）" },
+      { "en": "ticket resellers", "ja": "チケット転売者" },
+      { "en": "become a reseller", "ja": "再販業者になる" },
+      { "en": "a third-party reseller", "ja": "第三者の再販業者" },
+      { "en": "buy from a reseller", "ja": "再販業者から買う" }
+    ],
+    "related": [
+      { "en": "resell", "ja": "転売する・再び売る" },
+      { "en": "retailer", "ja": "小売業者" },
+      { "en": "distributor", "ja": "卸売業者・販売代理店" },
+      { "en": "scalper", "ja": "ダフ屋・転売屋" }
+    ],
+    "faq": [
+      { "q": "reseller とはどんな意味？", "a": "メーカーや卸から仕入れた商品・サービスを再び売る『再販業者・転売者』のことです。The software is sold through authorized resellers.（正規の再販業者を通じて売られている）のように使います。動詞は resell です。" },
+      { "q": "reseller は良い意味？悪い意味？", "a": "両方あります。正規の『販売代理店（authorized reseller）』を指すこともあれば、品薄品を高値で売る『転売者』を指すこともあり、文脈で判断します。" }
+    ],
+    "quiz": [
+      { "q": "The software is sold through authorized ___s.（再販業者）", "A": "reseller", "B": "researcher の研究者", "C": "reminder の通知", "D": "remainder の残り", "correct": "A" },
+      { "q": "reseller のもとになった動詞はどれ？", "A": "resell（転売する）", "B": "resemble（似ている）", "C": "reserve（予約する）", "D": "reset（リセットする）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "revalidate",
+    "pron": "ˌriːˈvælɪdeɪt",
+    "kana": "リバリデイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ validate（有効にする・確認する）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "手続き・IT"],
+    "meaning_main": "再び有効にする・再確認する・再認証する",
+    "description": "revalidate の意味・発音・例文・語源を解説。チケットや資格、データなどを「再び有効にする・再確認する・再認証する」という、手続きやITで使う語の使い方を紹介します。",
+    "keywords": ["revalidate 意味", "revalidate 発音", "再認証する", "validate 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再び有効にする・再確認する・再認証する", "note": "一度有効性を確認したもの（チケット・資格・証明書・データ）を改めて有効にする・確認する。名詞は revalidation。" }
+    ],
+    "usages": [
+      { "title": "① 「チケットを再び有効にする」として", "desc": "有効化のやり直しを表します。", "example_en": "You must revalidate your ticket if you change the date.", "example_ja": "日付を変更するならチケットを再び有効にする必要がある。" },
+      { "title": "② IT「データを再検証する」として", "desc": "再確認を表します。", "example_en": "The system revalidates the user's session every hour.", "example_ja": "システムは1時間ごとにユーザーのセッションを再認証する。" }
+    ],
+    "warn": [
+      "revalidate は『再び有効にする・再確認する・再認証する』。re-（再び）＋ validate。名詞は revalidation。",
+      "資格・証明書の更新、チケットの再有効化、入力データの再検証など幅広く使う。"
+    ],
+    "etym_note": "re-（再び）＋ validate（『有効にする・確認する』、ラテン語 validus「強い・有効な」、valere「価値がある・強い」より）から成り、「再び有効にすること」を意味します。valid（有効な）や value（価値）と同じ valere の系統です。",
+    "etym_chain": [
+      { "node": "validus", "sub": "強い・有効な", "era": "ラテン語" },
+      { "node": "validate", "sub": "有効にする・確認する", "era": "近代英語" },
+      { "node": "revalidate", "sub": "再び有効にする", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "revalidate the ticket", "ja": "チケットを再び有効にする" },
+      { "en": "revalidate a certificate", "ja": "証明書を再認証する" },
+      { "en": "revalidate the data", "ja": "データを再検証する" },
+      { "en": "revalidate a license", "ja": "免許を再有効化する" },
+      { "en": "revalidate the session", "ja": "セッションを再認証する" },
+      { "en": "need to revalidate", "ja": "再認証が必要だ" }
+    ],
+    "related": [
+      { "en": "validate", "ja": "有効にする・確認する" },
+      { "en": "revalidation", "ja": "再認証・再有効化" },
+      { "en": "verify", "ja": "検証する" },
+      { "en": "renew", "ja": "更新する" }
+    ],
+    "faq": [
+      { "q": "revalidate とはどんな意味？", "a": "チケットや資格、データなどを『再び有効にする・再確認する・再認証する』という意味です。You must revalidate your ticket if you change the date.（日付を変えるならチケットを再び有効にする必要がある）のように使います。名詞は revalidation です。" },
+      { "q": "revalidate はどんな場面で使う？", "a": "航空券の日付変更時の再有効化、専門資格・証明書の更新、ITでのセッションや入力データの再検証など、一度有効性を確認したものを改めて有効にする場面で使われます。" }
+    ],
+    "quiz": [
+      { "q": "You must ___ your ticket if you change the date.（再び有効にする）", "A": "revalidate", "B": "validate の最初に有効にするだけ", "C": "ventilate の換気する", "D": "vindicate の正当性を証明する", "correct": "A" },
+      { "q": "revalidate のもとになった動詞はどれ？", "A": "validate（有効にする）", "B": "violate（違反する）", "C": "vacate（明け渡す）", "D": "vibrate（振動する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "revocable",
+    "pron": "ˈrɛvəkəbəl",
+    "kana": "レボカブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 revocare（呼び戻す・取り消す）＋ -able",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "法律・契約"],
+    "meaning_main": "取り消せる・撤回できる",
+    "description": "revocable の意味・発音・例文・語源を解説。許可・契約・遺言などを「取り消せる・撤回できる」という、法律や契約で使う語の使い方と、反対の irrevocable を紹介します。",
+    "keywords": ["revocable 意味", "revocable 発音", "取り消せる", "revoke 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】取り消せる・撤回できる", "note": "後から取り消し・撤回が可能な。a revocable trust（撤回可能な信託）。反対は irrevocable（取り消せない）。動詞は revoke。" }
+    ],
+    "usages": [
+      { "title": "① 「撤回できる信託」として", "desc": "取り消し可能を表します。", "example_en": "A revocable trust can be changed during the grantor's lifetime.", "example_ja": "撤回可能な信託は設定者の存命中に変更できる。" },
+      { "title": "② 「取り消せる許可」として", "desc": "撤回の可能性を表します。", "example_en": "The license is revocable if the rules are broken.", "example_ja": "規則が破られればその許可は取り消される。" }
+    ],
+    "warn": [
+      "revocable は『取り消せる・撤回できる』。反対は irrevocable（取り消せない）。動詞は revoke。",
+      "アクセントは前（レボカブル）が一般的。法律・契約・信託でよく使う。"
+    ],
+    "etym_note": "ラテン語 revocare（『呼び戻す・取り消す』、re-（戻して）＋ vocare「呼ぶ」より）＋ -able（『〜できる』）から成り、「呼び戻せる＝取り消せる」を意味します。voice（声）や vocal（声の）と同じ vocare の系統です。",
+    "etym_chain": [
+      { "node": "revocare", "sub": "呼び戻す・取り消す", "era": "ラテン語" },
+      { "node": "revoke", "sub": "取り消す・撤回する", "era": "中英語" },
+      { "node": "revocable", "sub": "取り消せる", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a revocable trust", "ja": "撤回可能な信託" },
+      { "en": "a revocable license", "ja": "取り消せる許可" },
+      { "en": "revocable consent", "ja": "撤回できる同意" },
+      { "en": "freely revocable", "ja": "自由に撤回できる" },
+      { "en": "a revocable offer", "ja": "撤回できる申し出" },
+      { "en": "revocable at any time", "ja": "いつでも取り消せる" }
+    ],
+    "related": [
+      { "en": "revoke", "ja": "取り消す・撤回する" },
+      { "en": "irrevocable", "ja": "取り消せない・撤回不能の" },
+      { "en": "rescind", "ja": "（契約を）破棄する" },
+      { "en": "cancel", "ja": "取り消す" }
+    ],
+    "faq": [
+      { "q": "revocable とはどんな意味？", "a": "許可・契約・遺言などを後から『取り消せる・撤回できる』という意味の形容詞です。A revocable trust can be changed.（撤回可能な信託は変更できる）のように使います。反対は irrevocable です。" },
+      { "q": "revocable と irrevocable の違いは？", "a": "revocable は『取り消せる・撤回できる』、irrevocable は『取り消せない・撤回不能の』です。信託や信用状などで、この区別が重要になります。" }
+    ],
+    "quiz": [
+      { "q": "A ___ trust can be changed during the grantor's lifetime.（撤回可能な）", "A": "revocable", "B": "irrevocable の取り消せない", "C": "removable の取り外せる", "D": "renewable の更新できる", "correct": "A" },
+      { "q": "revocable の動詞形はどれ？", "A": "revoke（取り消す）", "B": "revolve（回転する）", "C": "revive（よみがえらせる）", "D": "reveal（明らかにする）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rewatch",
+    "pron": "ˌriːˈwɒtʃ",
+    "kana": "リウォッチ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ watch（見る・視聴する）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "日常・娯楽"],
+    "meaning_main": "もう一度見る・見返す（再視聴する）",
+    "description": "rewatch の意味・発音・例文・語源を解説。映画やドラマなどを「もう一度見る・見返す（再視聴する）」という、日常や娯楽で使う語の使い方を紹介します。",
+    "keywords": ["rewatch 意味", "rewatch 発音", "見返す", "watch 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】もう一度見る・見返す", "note": "映画・ドラマ・動画などを再び視聴する。rewatch the movie（その映画を見返す）。配信時代に定着したくだけた語。" }
+    ],
+    "usages": [
+      { "title": "① 「映画を見返す」として", "desc": "再視聴を表します。", "example_en": "I love this film so much that I rewatch it every year.", "example_ja": "この映画が大好きで毎年見返している。" },
+      { "title": "② 「ドラマを見直す」として", "desc": "再び見ることを表します。", "example_en": "She rewatched the whole series before the finale.", "example_ja": "彼女は最終回の前にシリーズ全体を見返した。" }
+    ],
+    "warn": [
+      "rewatch は『もう一度見る・見返す（再視聴する）』。re-（再び）＋ watch。",
+      "動画配信時代に広まったくだけた語。re-watch とも綴る。"
+    ],
+    "etym_note": "re-（再び）＋ watch（『見る・見張る』、古英語 wæccan「目を覚ましている」より）から成り、「再び視聴する」を意味します。wake（目覚める）と同じ語根です。",
+    "etym_chain": [
+      { "node": "wæccan", "sub": "目を覚ましている", "era": "古英語" },
+      { "node": "watch", "sub": "見る・見張る", "era": "中英語" },
+      { "node": "rewatch", "sub": "もう一度見る", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rewatch the movie", "ja": "その映画を見返す" },
+      { "en": "rewatch the series", "ja": "シリーズを見直す" },
+      { "en": "rewatch the scene", "ja": "その場面を見返す" },
+      { "en": "rewatch it later", "ja": "あとでもう一度見る" },
+      { "en": "worth rewatching", "ja": "見返す価値がある" },
+      { "en": "rewatch the highlights", "ja": "ハイライトを見返す" }
+    ],
+    "related": [
+      { "en": "watch", "ja": "見る・視聴する" },
+      { "en": "rerun", "ja": "再放送" },
+      { "en": "replay", "ja": "再生する・再現する" },
+      { "en": "binge-watch", "ja": "一気見する" }
+    ],
+    "faq": [
+      { "q": "rewatch とはどんな意味？", "a": "映画やドラマ、動画などを『もう一度見る・見返す（再視聴する）』という意味です。I rewatch this film every year.（この映画を毎年見返す）のように使います。" },
+      { "q": "rewatch と rerun の違いは？", "a": "rewatch は『（自分が）もう一度見る』という動詞、rerun は『（番組の）再放送』という名詞・動詞です。視聴者の行為か放送側の行為かが違います。" }
+    ],
+    "quiz": [
+      { "q": "I love this film so much that I ___ it every year.（見返す）", "A": "rewatch", "B": "watch の最初に見るだけ", "C": "rematch の再戦", "D": "research の研究する", "correct": "A" },
+      { "q": "rewatch のもとになった動詞はどれ？", "A": "watch（見る）", "B": "wash（洗う）", "C": "wish（願う）", "D": "wave（振る）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "roughshod",
+    "pron": "ˈrʌfʃɒd",
+    "kana": "ラフショッド",
+    "hinshi": "形容詞 / 副詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "rough（粗い）＋ shod（蹄鉄をつけた、shoe の過去分詞）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "慣用・文章"],
+    "meaning_main": "（ride roughshod over で）人を踏みにじる・強引に振る舞う",
+    "description": "roughshod の意味・発音・例文・語源を解説。ride roughshod over の形で「（人や意見を）踏みにじる・無視して強引に振る舞う」という慣用表現の使い方と、蹄鉄に由来する語源を紹介します。",
+    "keywords": ["roughshod 意味", "roughshod 発音", "踏みにじる", "ride roughshod over"],
+    "meanings": [
+      { "hinshi": "【形容詞/副詞】（馬が）滑り止めの鋲を打った蹄鉄をつけた", "note": "もとは、氷上などで滑らないよう先のとがった鋲のついた蹄鉄をつけた状態。" },
+      { "hinshi": "【慣用】ride roughshod over ...", "note": "そこから比喩で『（人・意見・権利を）踏みにじる・無視して強引に振る舞う』。" }
+    ],
+    "usages": [
+      { "title": "① 「人を踏みにじる」として", "desc": "強引な振る舞いを表します。", "example_en": "The manager rode roughshod over everyone's objections.", "example_ja": "その上司は皆の反対を踏みにじって強引に進めた。" },
+      { "title": "② 「権利を無視する」として", "desc": "横暴さを表します。", "example_en": "The new law rides roughshod over local rights.", "example_ja": "その新法は地元の権利を踏みにじっている。" }
+    ],
+    "warn": [
+      "roughshod は主に ride roughshod over ... の形で『（人・意見を）踏みにじる・強引に振る舞う』。",
+      "もとは『滑り止めの鋲を打った蹄鉄をつけた（馬）』の意味。蹄で踏みつけるイメージから比喩が生まれた。"
+    ],
+    "etym_note": "rough（『粗い・荒い』）＋ shod（『蹄鉄・靴をつけた』、shoe「靴・蹄鉄をつける」の過去分詞）から成り、「滑り止めの鋲を打った蹄鉄をつけた」が原義です。とがった蹄で踏みつける様子から『踏みにじる』の比喩が生まれました。",
+    "etym_chain": [
+      { "node": "rough + shod", "sub": "粗い＋蹄鉄をつけた", "era": "近代英語" },
+      { "node": "roughshod", "sub": "鋲打ち蹄鉄の", "era": "17世紀英語" },
+      { "node": "ride roughshod over", "sub": "踏みにじる", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "ride roughshod over ...", "ja": "〜を踏みにじる" },
+      { "en": "ride roughshod over objections", "ja": "反対を踏みにじる" },
+      { "en": "ride roughshod over the rules", "ja": "規則を無視して振る舞う" },
+      { "en": "ride roughshod over their rights", "ja": "彼らの権利を踏みにじる" },
+      { "en": "run roughshod over ...", "ja": "〜を踏みにじる（米）" },
+      { "en": "trample roughshod", "ja": "容赦なく踏みつける" }
+    ],
+    "related": [
+      { "en": "trample", "ja": "踏みつける・踏みにじる" },
+      { "en": "override", "ja": "無視する・押し切る" },
+      { "en": "domineer", "ja": "横暴に振る舞う" },
+      { "en": "bulldoze", "ja": "強引に押し進める" }
+    ],
+    "faq": [
+      { "q": "roughshod とはどんな意味？", "a": "主に ride roughshod over ... の形で『（人・意見・権利を）踏みにじる・無視して強引に振る舞う』という意味です。The manager rode roughshod over everyone's objections.（皆の反対を踏みにじって進めた）のように使います。" },
+      { "q": "roughshod のもとの意味は？", "a": "氷上などで滑らないよう、先のとがった鋲を打った蹄鉄を馬につけた状態のことです。そのとがった蹄で踏みつける様子から『踏みにじる』という比喩が生まれました。" }
+    ],
+    "quiz": [
+      { "q": "The manager rode ___ over everyone's objections.（踏みにじって）", "A": "roughshod", "B": "rampart の城壁", "C": "rooftop の屋上", "D": "rawhide の生皮", "correct": "A" },
+      { "q": "roughshod の shod のもとの意味はどれ？", "A": "蹄鉄・靴をつけた", "B": "屋根", "C": "影", "D": "棒", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rulebook",
+    "pron": "ˈruːlbʊk",
+    "kana": "ルールブック",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rule（規則）＋ book（本）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "一般・スポーツ"],
+    "meaning_main": "規則集・ルールブック",
+    "description": "rulebook の意味・発音・例文・語源を解説。競技や組織の規則をまとめた「規則集・ルールブック」という語の使い方と、throw the rulebook などの慣用表現を紹介します。",
+    "keywords": ["rulebook 意味", "rulebook 発音", "規則集", "ルールブック"],
+    "meanings": [
+      { "hinshi": "【名詞】規則集・ルールブック", "note": "競技・ゲーム・組織などの規則を集めた本や冊子。比喩で『（守るべき）決まりごと一式』。by the rulebook（規則どおりに）。" }
+    ],
+    "usages": [
+      { "title": "① 「規則集」として", "desc": "規則をまとめた本を表します。", "example_en": "The referee checked the rulebook before making the call.", "example_ja": "審判は判定を下す前にルールブックを確認した。" },
+      { "title": "② 慣用「規則どおりに」として", "desc": "決まりの順守・破りを表します。", "example_en": "She did everything by the rulebook.", "example_ja": "彼女はすべて規則どおりに行った。" }
+    ],
+    "warn": [
+      "rulebook は『規則集・ルールブック』。rule（規則）＋ book（本）。",
+      "by the rulebook（規則どおりに）、throw out the rulebook（型破りにやる）などの慣用がある。"
+    ],
+    "etym_note": "rule（『規則』、ラテン語 regula「まっすぐな棒・基準」より）＋ book（『本』、古英語 bōc より）から成り、「規則を集めた本」を意味します。ruler（定規）や regular（規則的な）と同じ regula の系統です。",
+    "etym_chain": [
+      { "node": "regula", "sub": "基準・まっすぐな棒", "era": "ラテン語" },
+      { "node": "rule + book", "sub": "規則＋本", "era": "英語" },
+      { "node": "rulebook", "sub": "規則集・ルールブック", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "check the rulebook", "ja": "ルールブックを確認する" },
+      { "en": "by the rulebook", "ja": "規則どおりに" },
+      { "en": "throw out the rulebook", "ja": "型破りにやる" },
+      { "en": "the official rulebook", "ja": "公式ルールブック" },
+      { "en": "rewrite the rulebook", "ja": "ルールを書き換える" },
+      { "en": "follow the rulebook", "ja": "規則に従う" }
+    ],
+    "related": [
+      { "en": "rule", "ja": "規則・ルール" },
+      { "en": "regulation", "ja": "規定・規則" },
+      { "en": "handbook", "ja": "便覧・手引き" },
+      { "en": "code", "ja": "規約・規範" }
+    ],
+    "faq": [
+      { "q": "rulebook とはどんな意味？", "a": "競技や組織などの規則をまとめた『規則集・ルールブック』のことです。The referee checked the rulebook.（審判はルールブックを確認した）のように使います。比喩で『守るべき決まりごと一式』も指します。" },
+      { "q": "throw out the rulebook とは？", "a": "『ルールブックを捨てる』、つまり既存の決まりにとらわれず型破りに・自由にやることを表す慣用表現です。逆に by the rulebook は『規則どおりに』です。" }
+    ],
+    "quiz": [
+      { "q": "The referee checked the ___ before making the call.（ルールブック）", "A": "rulebook", "B": "notebook のノート", "C": "textbook の教科書", "D": "cookbook の料理本", "correct": "A" },
+      { "q": "by the rulebook はどんな意味？", "A": "規則どおりに", "B": "本を読みながら", "C": "急いで", "D": "ひそかに", "correct": "A" }
+    ]
+  }
+]
