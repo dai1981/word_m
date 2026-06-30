@@ -1,0 +1,525 @@
+[
+  {
+    "english": "rouleau",
+    "pron": "ruːˈləʊ",
+    "kana": "ルーロー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 rouleau（巻いたもの）、rouler（巻く）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "一般・専門"],
+    "meaning_main": "（硬貨などの）筒状の包み・巻いた細ひも",
+    "description": "rouleau の意味・発音・例文・語源を解説。同じ硬貨を筒状に巻いた包み、また裁縫の細い巻きひもや、赤血球が連なった「連銭形成」など、巻いた形のものを指す語の使い方を紹介します。",
+    "keywords": ["rouleau 意味", "rouleau 発音", "硬貨の包み", "巻いたもの"],
+    "meanings": [
+      { "hinshi": "【名詞】（硬貨の）筒状の包み", "note": "同じ硬貨を一定数まとめて筒状に巻いた包み。複数形は rouleaux。" },
+      { "hinshi": "【名詞】巻いた細ひも・（医学）連銭形成", "note": "裁縫で布を細く巻いたひも飾り。また医学で、赤血球がコインを積んだように連なる現象（rouleaux formation）。" }
+    ],
+    "usages": [
+      { "title": "① 「硬貨の包み」として", "desc": "筒状にまとめた硬貨を表します。", "example_en": "He handed over a rouleau of gold coins.", "example_ja": "彼は金貨の筒状の包みを手渡した。" },
+      { "title": "② 医学「連銭形成」として", "desc": "赤血球の連なりを表します。", "example_en": "Under the microscope, the red cells formed rouleaux.", "example_ja": "顕微鏡下で赤血球が連銭形成を示した。" }
+    ],
+    "warn": [
+      "rouleau は『（硬貨の）筒状の包み／巻いた細ひも／（医学）連銭形成』。複数形は rouleaux（発音はルーロー）。",
+      "フランス語 rouler（巻く）由来で、roll（巻く）と同系。"
+    ],
+    "etym_note": "フランス語 rouleau（『巻いたもの・巻物』、rouler「転がす・巻く」、ラテン語 rota「車輪」より）に由来します。roll（巻く）、roulette（ルーレット）、roulade（巻き料理）と同じ rota の系統です。",
+    "etym_chain": [
+      { "node": "rota", "sub": "車輪", "era": "ラテン語" },
+      { "node": "rouler", "sub": "転がす・巻く", "era": "フランス語" },
+      { "node": "rouleau", "sub": "巻いたもの・筒状の包み", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a rouleau of coins", "ja": "硬貨の筒状の包み" },
+      { "en": "a rouleau of banknotes", "ja": "紙幣の巻き束" },
+      { "en": "rouleaux of red cells", "ja": "赤血球の連銭形成" },
+      { "en": "a fabric rouleau", "ja": "布の巻きひも" },
+      { "en": "wind into a rouleau", "ja": "巻いて筒状にする" },
+      { "en": "a rouleau loop", "ja": "巻きひものループ（ボタン留め）" }
+    ],
+    "related": [
+      { "en": "roll", "ja": "巻く・ロール" },
+      { "en": "roulade", "ja": "巻いた料理" },
+      { "en": "coil", "ja": "巻く・コイル" },
+      { "en": "red blood cell", "ja": "赤血球" }
+    ],
+    "faq": [
+      { "q": "rouleau とはどんな意味？", "a": "同じ硬貨を筒状に巻いた『包み』、裁縫の『巻いた細ひも』、また医学で赤血球がコインのように連なる『連銭形成』を指します。a rouleau of gold coins（金貨の筒状の包み）のように使います。複数形は rouleaux です。" },
+      { "q": "医学の rouleaux formation とは？", "a": "赤血球が硬貨を積み重ねたように連なる現象です。炎症などで血漿タンパクが増えると起こりやすく、血液検査の所見になります。" }
+    ],
+    "quiz": [
+      { "q": "He handed over a ___ of gold coins.（筒状の包み）", "A": "rouleau", "B": "plateau の台地", "C": "bureau の事務局", "D": "tableau の活人画", "correct": "A" },
+      { "q": "rouleau のもとになった rouler の意味はどれ？", "A": "転がす・巻く", "B": "焼く", "C": "切る", "D": "数える", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rusticle",
+    "pron": "ˈrʌstɪkəl",
+    "kana": "ラスティクル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rust（さび）＋ icicle（つらら）のかばん語",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "海洋・科学"],
+    "meaning_main": "ラスティクル（沈没鉄から垂れるつらら状のさび）",
+    "description": "rusticle の意味・発音・例文・語源を解説。海底の鉄（沈没船など）から、つらら状に垂れ下がってできるさびの構造物「ラスティクル」という、海洋科学で使う語の使い方を紹介します。",
+    "keywords": ["rusticle 意味", "rusticle 発音", "ラスティクル", "さびのつらら"],
+    "meanings": [
+      { "hinshi": "【名詞】ラスティクル", "note": "海底の鉄（沈没船など）の表面に、微生物の働きで形成される、つらら状に垂れ下がる鉄さびの構造物。タイタニック号の残骸で広く知られるようになった。rust＋icicle のかばん語。" }
+    ],
+    "usages": [
+      { "title": "① 「沈没船のさび」として", "desc": "鉄の腐食物を表します。", "example_en": "Rusticles hang from the rails of the sunken ship.", "example_ja": "ラスティクルが沈没船の手すりから垂れ下がっている。" },
+      { "title": "② 「微生物の作用」として", "desc": "生物による腐食を表します。", "example_en": "Bacteria slowly build rusticles on the iron hull.", "example_ja": "細菌が鉄の船体に少しずつラスティクルを作る。" }
+    ],
+    "warn": [
+      "rusticle は『ラスティクル（沈没鉄から垂れるつらら状のさび）』。rust（さび）＋ icicle（つらら）の合成。",
+      "タイタニック号の調査で有名になった語。微生物が関与してできる。"
+    ],
+    "etym_note": "rust（『さび』、古英語 rūst より）＋ icicle（『つらら』）を合わせたかばん語です。つらら状に垂れるさびであることから。タイタニックを調査した研究で広まりました。",
+    "etym_chain": [
+      { "node": "rust + icicle", "sub": "さび＋つらら", "era": "20世紀英語" },
+      { "node": "rusticle", "sub": "さびのつらら", "era": "1990年代" },
+      { "node": "rusticle", "sub": "ラスティクル", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rusticles on the wreck", "ja": "残骸のラスティクル" },
+      { "en": "hanging rusticles", "ja": "垂れ下がるラスティクル" },
+      { "en": "a fragile rusticle", "ja": "もろいラスティクル" },
+      { "en": "rusticles of the Titanic", "ja": "タイタニックのラスティクル" },
+      { "en": "form rusticles", "ja": "ラスティクルを形成する" },
+      { "en": "brittle rusticles", "ja": "もろいラスティクル" }
+    ],
+    "related": [
+      { "en": "rust", "ja": "さび" },
+      { "en": "icicle", "ja": "つらら" },
+      { "en": "corrosion", "ja": "腐食" },
+      { "en": "wreck", "ja": "難破船・残骸" }
+    ],
+    "faq": [
+      { "q": "rusticle とはどんな意味？", "a": "海底の鉄（沈没船など）の表面に、微生物の働きでつらら状に垂れ下がってできる鉄さびの構造物『ラスティクル』のことです。Rusticles hang from the rails of the sunken ship.（沈没船の手すりから垂れ下がっている）のように使います。" },
+      { "q": "rusticle はどこで有名になった？", "a": "沈没したタイタニック号の残骸の調査で広く知られるようになりました。船体を覆い垂れ下がるさびの構造として観察されています。" }
+    ],
+    "quiz": [
+      { "q": "___s hang from the rails of the sunken ship.（ラスティクル）", "A": "Rusticle", "B": "Particle の粒子", "C": "Article の記事", "D": "Cubicle の小部屋", "correct": "A" },
+      { "q": "rusticle は何と何を合わせた語？", "A": "rust（さび）と icicle（つらら）", "B": "rustic と vehicle", "C": "rush と cycle", "D": "rust と muscle", "correct": "A" }
+    ]
+  },
+  {
+    "english": "roble",
+    "pron": "ˈrəʊbleɪ",
+    "kana": "ロブレ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "スペイン語 roble（樫・オーク）、ラテン語 robur より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "植物・樹木"],
+    "meaning_main": "ロブレ（オーク（樫）類の木）",
+    "description": "roble の意味・発音・例文・語源を解説。スペイン語由来で、樫（オーク）やそれに似た硬く丈夫な木を指す「ロブレ」という、植物や木材で使う語の使い方を紹介します。",
+    "keywords": ["roble 意味", "roble 発音", "ロブレ", "オーク 樫"],
+    "meanings": [
+      { "hinshi": "【名詞】ロブレ", "note": "スペイン語で『樫（オーク）』を意味し、英語でも主に北米・中南米の樫やそれに似た硬く丈夫な木を指す。California white oak（バレーオーク）の通称でもある。" }
+    ],
+    "usages": [
+      { "title": "① 「樫の木」として", "desc": "丈夫な木を表します。", "example_en": "Great roble oaks shaded the old ranch.", "example_ja": "大きなロブレの樫が古い牧場に木陰を作っていた。" },
+      { "title": "② 「木材」として", "desc": "硬材を表します。", "example_en": "The beams were cut from local roble.", "example_ja": "梁は地元のロブレ材から切り出された。" }
+    ],
+    "warn": [
+      "roble は『ロブレ（樫・オーク類の木）』。スペイン語で oak を意味する。",
+      "ラテン語 robur（樫・力）由来で、robust（たくましい）と同根。地名にもよく使われる。"
+    ],
+    "etym_note": "スペイン語 roble（『樫・オーク』、ラテン語 robur「樫・強さ」より）に由来します。樫の木の硬さ・強さが『力』の意味につながり、robust（たくましい）や corroborate（裏づける）と同じ robur の系統です。",
+    "etym_chain": [
+      { "node": "robur", "sub": "樫・強さ", "era": "ラテン語" },
+      { "node": "roble", "sub": "樫・オーク", "era": "スペイン語" },
+      { "node": "roble", "sub": "ロブレ", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a roble oak", "ja": "ロブレの樫" },
+      { "en": "roble timber", "ja": "ロブレ材" },
+      { "en": "a grove of roble", "ja": "ロブレの木立" },
+      { "en": "old roble trees", "ja": "古いロブレの木々" },
+      { "en": "hard roble wood", "ja": "硬いロブレ材" },
+      { "en": "valley roble", "ja": "谷のロブレ（バレーオーク）" }
+    ],
+    "related": [
+      { "en": "oak", "ja": "樫・オーク" },
+      { "en": "robust", "ja": "たくましい・頑健な" },
+      { "en": "hardwood", "ja": "硬材・広葉樹材" },
+      { "en": "timber", "ja": "木材" }
+    ],
+    "faq": [
+      { "q": "roble とはどんな意味？", "a": "スペイン語で『樫（オーク）』を意味し、英語でも主に北米・中南米の樫やそれに似た硬く丈夫な木『ロブレ』を指します。Great roble oaks shaded the ranch.（大きなロブレの樫が木陰を作っていた）のように使います。" },
+      { "q": "roble と robust は関係ある？", "a": "はい。どちらもラテン語 robur（樫・強さ）に由来します。樫の木の硬さ・たくましさから『力強い（robust）』の意味が生まれました。" }
+    ],
+    "quiz": [
+      { "q": "Great ___ oaks shaded the old ranch.（ロブレ）", "A": "roble", "B": "noble の高貴な", "C": "rouble のルーブル", "D": "bubble の泡", "correct": "A" },
+      { "q": "roble はスペイン語で何を意味する？", "A": "樫（オーク）", "B": "松", "C": "竹", "D": "柳", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rivage",
+    "pron": "ˈrɪvɪdʒ",
+    "kana": "リビッジ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 rivage（岸辺）、ラテン語 ripa（岸）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "文学・古語"],
+    "meaning_main": "岸辺・水際（文語・古語）",
+    "description": "rivage の意味・発音・例文・語源を解説。海や川の「岸辺・水際」という、文語的・古語的に使う語の使い方を紹介します。river（川）と同じ語源の関係も解説。",
+    "keywords": ["rivage 意味", "rivage 発音", "岸辺", "水際"],
+    "meanings": [
+      { "hinshi": "【名詞】岸辺・水際", "note": "海・川・湖の岸。詩的・文語的な語で、現代の日常では shore や bank を使う。" }
+    ],
+    "usages": [
+      { "title": "① 「海の岸辺」として", "desc": "水際を表します。", "example_en": "Waves lapped gently against the rivage.", "example_ja": "波が岸辺にやさしく打ち寄せていた。" },
+      { "title": "② 文学「水際」として", "desc": "詩的な情景を表します。", "example_en": "Mist rose along the river's rivage at dawn.", "example_ja": "夜明けに川の岸辺に沿って霧が立ちのぼった。" }
+    ],
+    "warn": [
+      "rivage は『岸辺・水際』。文語的・古語的で、日常では shore（海岸）や bank（川岸）が普通。",
+      "ラテン語 ripa（岸）由来で、river（川）や riparian（川岸の）と同根。"
+    ],
+    "etym_note": "古フランス語 rivage（『岸辺』、ラテン語 ripa「岸」、ripaticum「岸の通行料」より）に由来します。river（川）、riparian（川岸の）、riviera（海岸保養地）と同じ ripa の系統です。",
+    "etym_chain": [
+      { "node": "ripa", "sub": "岸", "era": "ラテン語" },
+      { "node": "rivage", "sub": "岸辺", "era": "古フランス語" },
+      { "node": "rivage", "sub": "岸辺・水際", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "along the rivage", "ja": "岸辺に沿って" },
+      { "en": "the rocky rivage", "ja": "岩の多い岸辺" },
+      { "en": "waves on the rivage", "ja": "岸辺の波" },
+      { "en": "the river's rivage", "ja": "川の岸辺" },
+      { "en": "a distant rivage", "ja": "遠い岸辺" },
+      { "en": "walk the rivage", "ja": "岸辺を歩く" }
+    ],
+    "related": [
+      { "en": "shore", "ja": "海岸・岸" },
+      { "en": "bank", "ja": "川岸・土手" },
+      { "en": "riparian", "ja": "川岸の" },
+      { "en": "strand", "ja": "浜辺・磯" }
+    ],
+    "faq": [
+      { "q": "rivage とはどんな意味？", "a": "海や川、湖の『岸辺・水際』という意味の文語的・古語的な語です。Waves lapped gently against the rivage.（波が岸辺に打ち寄せていた）のように、詩的な文章で使われます。" },
+      { "q": "rivage と shore の違いは？", "a": "意味は『岸辺』で同じですが、shore が日常語なのに対し、rivage は文語的・古風で詩などに使われます。どちらもラテン語 ripa（岸）にさかのぼります。" }
+    ],
+    "quiz": [
+      { "q": "Waves lapped gently against the ___.（岸辺）", "A": "rivage", "B": "village の村", "C": "voyage の航海", "D": "baggage の荷物", "correct": "A" },
+      { "q": "rivage のもとになったラテン語 ripa の意味はどれ？", "A": "岸", "B": "山", "C": "森", "D": "空", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rondel",
+    "pron": "ˈrɒndəl",
+    "kana": "ロンデル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 rondel（小さな円・輪の詩）、rond（丸い）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "詩・美術"],
+    "meaning_main": "ロンデル（折り返しを持つ定型詩／円形の意匠）",
+    "description": "rondel の意味・発音・例文・語源を解説。同じ行を折り返しとして繰り返すフランスの定型詩「ロンデル」、また円形の装飾・紋章という、詩や美術で使う語の使い方を紹介します。",
+    "keywords": ["rondel 意味", "rondel 発音", "ロンデル", "定型詩"],
+    "meanings": [
+      { "hinshi": "【名詞】ロンデル（定型詩）", "note": "13〜14世紀のフランスに由来する定型詩。多くは13〜14行で、最初の数行を折り返し（リフレイン）として繰り返す。rondeau（ロンドー）の近縁。" },
+      { "hinshi": "【名詞】円形の意匠・円板", "note": "円形の装飾・紋章・ステンドグラスの円形パネルなど。" }
+    ],
+    "usages": [
+      { "title": "① 「定型詩」として", "desc": "折り返しのある詩を表します。", "example_en": "The poet wrote a delicate rondel about spring.", "example_ja": "詩人は春についての繊細なロンデルを書いた。" },
+      { "title": "② 「円形の意匠」として", "desc": "円い装飾を表します。", "example_en": "A stained-glass rondel decorated the window.", "example_ja": "ステンドグラスの円形パネルが窓を飾っていた。" }
+    ],
+    "warn": [
+      "rondel は『ロンデル（折り返しのある定型詩）／円形の意匠』。rond（丸い）が語源。",
+      "rondeau（ロンドー）と近縁で混同しやすいが、行数や折り返しの規則が少し異なる。"
+    ],
+    "etym_note": "古フランス語 rondel（『小さな円・輪状の詩』、rond「丸い」の指小形）に由来します。詩の折り返しが丸く巡って戻ることから。round（丸い）や roundelay（輪唱歌）と同じ rond の系統です。",
+    "etym_chain": [
+      { "node": "rond", "sub": "丸い", "era": "古フランス語" },
+      { "node": "rondel", "sub": "小さな円・輪の詩", "era": "古フランス語" },
+      { "node": "rondel", "sub": "ロンデル", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "write a rondel", "ja": "ロンデルを書く" },
+      { "en": "a delicate rondel", "ja": "繊細なロンデル" },
+      { "en": "the rondel's refrain", "ja": "ロンデルの折り返し句" },
+      { "en": "a stained-glass rondel", "ja": "ステンドグラスの円形パネル" },
+      { "en": "a carved rondel", "ja": "彫刻された円形装飾" },
+      { "en": "a heraldic rondel", "ja": "紋章の円板" }
+    ],
+    "related": [
+      { "en": "rondeau", "ja": "ロンドー（定型詩）" },
+      { "en": "roundel", "ja": "円形紋章・小円" },
+      { "en": "refrain", "ja": "折り返し句・リフレイン" },
+      { "en": "quatrain", "ja": "四行詩" }
+    ],
+    "faq": [
+      { "q": "rondel とはどんな意味？", "a": "最初の数行を折り返しとして繰り返すフランス由来の定型詩『ロンデル』、また『円形の意匠・円板』を指します。The poet wrote a delicate rondel.（繊細なロンデルを書いた）のように使います。" },
+      { "q": "rondel と rondeau の違いは？", "a": "どちらも rond（丸い）に由来する折り返しのある定型詩ですが、行数や折り返しの位置・回数の規則が少し異なります。近縁の詩形です。" }
+    ],
+    "quiz": [
+      { "q": "The poet wrote a delicate ___ about spring.（ロンデル）", "A": "rondel", "B": "model の模型", "C": "tunnel のトンネル", "D": "panel のパネル", "correct": "A" },
+      { "q": "rondel のもとになった rond の意味はどれ？", "A": "丸い", "B": "長い", "C": "暗い", "D": "重い", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reliquiae",
+    "pron": "rɪˈlɪkwiiː",
+    "kana": "リリクウィエ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 reliquiae（残されたもの）、relinquere（後に残す）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "学術・古生物"],
+    "meaning_main": "遺物・残存物・（化石としての）遺骸",
+    "description": "reliquiae の意味・発音・例文・語源を解説。後に残された「遺物・残存物」、特に古生物学で地層に残された「化石としての遺骸」という、学術で使う語の使い方を紹介します。",
+    "keywords": ["reliquiae 意味", "reliquiae 発音", "遺物", "化石 遺骸"],
+    "meanings": [
+      { "hinshi": "【名詞】遺物・残存物・遺骸（化石）", "note": "後に残されたもの。特に古生物学・地質学で、地層に残された生物の遺骸や化石を指す。ラテン語の複数形で、つねに複数扱い。relic（聖遺物・遺物）の同源。" }
+    ],
+    "usages": [
+      { "title": "① 古生物「化石の遺骸」として", "desc": "地層に残る遺骸を表します。", "example_en": "The reliquiae of ancient ferns were preserved in the rock.", "example_ja": "古代のシダの遺骸が岩の中に保存されていた。" },
+      { "title": "② 「残されたもの」として", "desc": "残存物を表します。", "example_en": "Only scattered reliquiae of the old library survived.", "example_ja": "古い図書館の散逸した残存物だけが残った。" }
+    ],
+    "warn": [
+      "reliquiae は『遺物・残存物・（化石としての）遺骸』。ラテン語の複数形で、つねに複数扱い。",
+      "relic（遺物・聖遺物）と同源だが、reliquiae は学術的（特に古生物・地質）で使う。"
+    ],
+    "etym_note": "ラテン語 reliquiae（『残されたもの・残り』、relinquere「後に残す」、re-＋ linquere「残す・去る」より）に由来します。relic（遺物）、relinquish（手放す）、delinquent（怠った）と同じ linquere の系統です。",
+    "etym_chain": [
+      { "node": "relinquere", "sub": "後に残す", "era": "ラテン語" },
+      { "node": "reliquiae", "sub": "残されたもの", "era": "ラテン語" },
+      { "node": "reliquiae", "sub": "遺物・遺骸（化石）", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "fossil reliquiae", "ja": "化石の遺骸" },
+      { "en": "the reliquiae of plants", "ja": "植物の遺骸" },
+      { "en": "preserved reliquiae", "ja": "保存された遺物" },
+      { "en": "scattered reliquiae", "ja": "散在する残存物" },
+      { "en": "organic reliquiae", "ja": "有機物の遺骸" },
+      { "en": "reliquiae in the strata", "ja": "地層中の遺骸" }
+    ],
+    "related": [
+      { "en": "relic", "ja": "遺物・聖遺物" },
+      { "en": "remains", "ja": "遺骸・残り" },
+      { "en": "fossil", "ja": "化石" },
+      { "en": "residue", "ja": "残留物・残り" }
+    ],
+    "faq": [
+      { "q": "reliquiae とはどんな意味？", "a": "後に残された『遺物・残存物』、特に古生物学・地質学で地層に残された生物の『遺骸・化石』を指すラテン語由来の語です。The reliquiae of ancient ferns were preserved in the rock.（古代シダの遺骸が岩に保存されていた）のように使います。" },
+      { "q": "reliquiae と relic の違いは？", "a": "どちらもラテン語 relinquere（残す）に由来しますが、relic は『聖遺物・遺物』を指す一般語、reliquiae は学術的（特に古生物の遺骸・化石）で使うラテン語の複数形です。" }
+    ],
+    "quiz": [
+      { "q": "The ___ of ancient ferns were preserved in the rock.（遺骸）", "A": "reliquiae", "B": "antennae の触角", "C": "formulae の公式", "D": "algae の藻", "correct": "A" },
+      { "q": "reliquiae と同源の語はどれ？", "A": "relic（遺物）", "B": "republic（共和国）", "C": "relax（くつろぐ）", "D": "reliable（信頼できる）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "remontant",
+    "pron": "rɪˈmɒntənt",
+    "kana": "リモンタント",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "フランス語 remontant（再び上がる・返り咲く）、remonter より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "園芸・植物"],
+    "meaning_main": "（植物が）四季咲きの・返り咲く",
+    "description": "remontant の意味・発音・例文・語源を解説。バラやイチゴなどが一季だけでなく「（その季節に）二度以上咲く・返り咲く」という、園芸で使う語の使い方を紹介します。",
+    "keywords": ["remontant 意味", "remontant 発音", "四季咲きの", "返り咲く"],
+    "meanings": [
+      { "hinshi": "【形容詞】四季咲きの・返り咲く", "note": "（バラ・イチゴなどが）一度の開花期だけでなく、その後また花や実をつける性質の。remontant rose（返り咲きのバラ）。" },
+      { "hinshi": "【名詞】返り咲きの品種", "note": "そうした性質を持つ植物・品種。" }
+    ],
+    "usages": [
+      { "title": "① 「返り咲きのバラ」として", "desc": "二度咲く性質を表します。", "example_en": "Remontant roses bloom again in late summer.", "example_ja": "返り咲きのバラは晩夏にもう一度咲く。" },
+      { "title": "② 「四季なりイチゴ」として", "desc": "繰り返し実る性質を表します。", "example_en": "These strawberries are remontant, fruiting more than once.", "example_ja": "これらのイチゴは四季なりで、二度以上実る。" }
+    ],
+    "warn": [
+      "remontant は『（植物が）四季咲きの・返り咲く』。園芸の専門語。",
+      "フランス語 remonter（再び上がる）由来で、再び花茎が立ち上がり咲くことを表す。"
+    ],
+    "etym_note": "フランス語 remontant（『再び上がる・返り咲く』、remonter「再び上がる」、re-＋ monter「上がる」、ラテン語 mons「山」より）に由来します。mount（登る）や mountain（山）と同じ語根です。",
+    "etym_chain": [
+      { "node": "monter", "sub": "上がる", "era": "フランス語" },
+      { "node": "remonter", "sub": "再び上がる", "era": "フランス語" },
+      { "node": "remontant", "sub": "返り咲く・四季咲きの", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a remontant rose", "ja": "返り咲きのバラ" },
+      { "en": "remontant varieties", "ja": "四季咲きの品種" },
+      { "en": "remontant strawberries", "ja": "四季なりのイチゴ" },
+      { "en": "a remontant habit", "ja": "返り咲きの性質" },
+      { "en": "bloom in a remontant way", "ja": "返り咲きする" },
+      { "en": "non-remontant", "ja": "一季咲きの" }
+    ],
+    "related": [
+      { "en": "everblooming", "ja": "四季咲きの" },
+      { "en": "perpetual", "ja": "絶えず咲く・永続的な" },
+      { "en": "rebloom", "ja": "返り咲く" },
+      { "en": "cultivar", "ja": "栽培品種" }
+    ],
+    "faq": [
+      { "q": "remontant とはどんな意味？", "a": "バラやイチゴなどが、一度の開花・結実期だけでなく『（その季節に）二度以上咲く・返り咲く』性質を表す園芸の語です。Remontant roses bloom again in late summer.（返り咲きのバラは晩夏に再び咲く）のように使います。" },
+      { "q": "remontant の反対は？", "a": "non-remontant（一季咲き）です。一度の開花期にしか咲かない品種を指します。remontant は繰り返し咲く・実る品種を表します。" }
+    ],
+    "quiz": [
+      { "q": "___ roses bloom again in late summer.（返り咲きの）", "A": "Remontant", "B": "Reluctant の気の進まない", "C": "Redundant の余分な", "D": "Resistant の抵抗力のある", "correct": "A" },
+      { "q": "remontant のもとになった remonter の意味はどれ？", "A": "再び上がる", "B": "燃える", "C": "枯れる", "D": "流れる", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rya",
+    "pron": "ˈriːə",
+    "kana": "リーア",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "スウェーデン語 rya（毛足の長い敷物）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "工芸・北欧"],
+    "meaning_main": "リャ織り（毛足の長い北欧の手織りラグ）",
+    "description": "rya の意味・発音・例文・語源を解説。スカンジナビア伝統の、毛足が長くふんわりした手織りの敷物「リャ（リャ・ラグ）」という、工芸で使う語の使い方を紹介します。",
+    "keywords": ["rya 意味", "rya 発音", "リャ織り", "北欧 ラグ"],
+    "meanings": [
+      { "hinshi": "【名詞】リャ（リャ・ラグ）", "note": "スカンジナビア伝統の、長い毛足（パイル）を結びつけて作るふんわりした手織りの敷物・壁掛け。rya rug の形でよく使う。" }
+    ],
+    "usages": [
+      { "title": "① 「毛足の長い敷物」として", "desc": "北欧のラグを表します。", "example_en": "A colorful rya rug warmed the wooden floor.", "example_ja": "色鮮やかなリャ・ラグが板の床を温かくしていた。" },
+      { "title": "② 「壁掛け」として", "desc": "装飾の織物を表します。", "example_en": "She hung a handwoven rya on the wall.", "example_ja": "彼女は手織りのリャを壁に掛けた。" }
+    ],
+    "warn": [
+      "rya は『リャ（毛足の長い北欧の手織りラグ）』。rya rug の形で使うことが多い。",
+      "スウェーデン語由来。長いパイル（毛足）を結んで作る点が特徴。"
+    ],
+    "etym_note": "スウェーデン語 rya（『毛足の長い敷物・粗い毛布』）に由来します。もとは寝具として使われた厚手の織物で、のちに装飾的な敷物・壁掛けへと発展しました。",
+    "etym_chain": [
+      { "node": "rya", "sub": "毛足の長い敷物", "era": "スウェーデン語" },
+      { "node": "rya", "sub": "リャ織り", "era": "近代英語" },
+      { "node": "rya rug", "sub": "リャ・ラグ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rya rug", "ja": "リャ・ラグ" },
+      { "en": "a handwoven rya", "ja": "手織りのリャ" },
+      { "en": "a colorful rya", "ja": "色鮮やかなリャ" },
+      { "en": "make a rya", "ja": "リャを織る" },
+      { "en": "a wool rya", "ja": "ウールのリャ" },
+      { "en": "a rya wall hanging", "ja": "リャの壁掛け" }
+    ],
+    "related": [
+      { "en": "rug", "ja": "敷物・ラグ" },
+      { "en": "pile", "ja": "（織物の）毛足・パイル" },
+      { "en": "tapestry", "ja": "つづれ織り・壁掛け" },
+      { "en": "weaving", "ja": "織ること・織物" }
+    ],
+    "faq": [
+      { "q": "rya とはどんな意味？", "a": "スカンジナビア伝統の、長い毛足を結びつけて作るふんわりした手織りの敷物・壁掛け『リャ（リャ・ラグ）』のことです。A colorful rya rug warmed the floor.（色鮮やかなリャ・ラグが床を温かくしていた）のように使います。" },
+      { "q": "rya の特徴は？", "a": "長い毛足（パイル）を結んで作るため、厚みがありふんわりしている点です。もとは寝具でしたが、のちに色鮮やかな装飾的ラグや壁掛けとして発展しました。" }
+    ],
+    "quiz": [
+      { "q": "A colorful ___ rug warmed the wooden floor.（リャ）", "A": "rya", "B": "area の地域", "C": "aria のアリア", "D": "idea の考え", "correct": "A" },
+      { "q": "rya はどの地域の伝統工芸？", "A": "スカンジナビア（北欧）", "B": "南米", "C": "中東", "D": "東南アジア", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rocaille",
+    "pron": "rɒˈkaɪ",
+    "kana": "ロカイユ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 rocaille（小石・岩細工）、roc（岩）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "美術・装飾"],
+    "meaning_main": "ロカイユ（貝殻・岩を模した曲線的装飾／ロココの装飾様式）",
+    "description": "rocaille の意味・発音・例文・語源を解説。貝殻や岩、波を思わせる非対称で曲線的な装飾「ロカイユ」という、美術・建築で使う語の使い方と、ロココ様式との関係を紹介します。",
+    "keywords": ["rocaille 意味", "rocaille 発音", "ロカイユ", "ロココ 装飾"],
+    "meanings": [
+      { "hinshi": "【名詞】ロカイユ", "note": "貝殻・岩・波・植物などをかたどった、非対称で軽やかな曲線の装飾。18世紀フランスの庭園の岩細工・貝細工に始まり、ロココ様式の特徴的な装飾モチーフとなった。『ロココ』の語源でもある。" }
+    ],
+    "usages": [
+      { "title": "① 「曲線的な装飾」として", "desc": "貝殻風の意匠を表します。", "example_en": "The mirror was framed with gilded rocaille.", "example_ja": "その鏡は金色のロカイユ装飾で縁取られていた。" },
+      { "title": "② 「ロココの様式」として", "desc": "装飾様式を表します。", "example_en": "Rocaille ornament defined the Rococo interiors.", "example_ja": "ロカイユ装飾がロココの室内を特徴づけた。" }
+    ],
+    "warn": [
+      "rocaille は『ロカイユ（貝殻・岩を模した曲線的装飾／ロココの装飾様式）』。",
+      "『ロココ（Rococo）』という語は、この rocaille に由来する。"
+    ],
+    "etym_note": "フランス語 rocaille（『小石・岩細工・貝細工』、roc「岩」より）に由来します。庭園の岩や貝による装飾から始まり、ロココ様式の装飾モチーフとなりました。Rococo（ロココ）はこの語が変化したものです。rock（岩）と同根です。",
+    "etym_chain": [
+      { "node": "roc", "sub": "岩", "era": "古フランス語" },
+      { "node": "rocaille", "sub": "岩細工・貝細工", "era": "フランス語" },
+      { "node": "rocaille", "sub": "ロカイユ（装飾）", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "gilded rocaille", "ja": "金色のロカイユ" },
+      { "en": "rocaille ornament", "ja": "ロカイユ装飾" },
+      { "en": "a rocaille motif", "ja": "ロカイユのモチーフ" },
+      { "en": "carved rocaille", "ja": "彫られたロカイユ" },
+      { "en": "rocaille and shellwork", "ja": "ロカイユと貝細工" },
+      { "en": "the rocaille style", "ja": "ロカイユ様式" }
+    ],
+    "related": [
+      { "en": "Rococo", "ja": "ロココ（様式）" },
+      { "en": "ornament", "ja": "装飾" },
+      { "en": "scrollwork", "ja": "渦巻き装飾" },
+      { "en": "shellwork", "ja": "貝細工" }
+    ],
+    "faq": [
+      { "q": "rocaille とはどんな意味？", "a": "貝殻・岩・波などをかたどった、非対称で軽やかな曲線の装飾『ロカイユ』のことです。18世紀フランスに始まり、ロココ様式の特徴的な装飾になりました。The mirror was framed with gilded rocaille.（金色のロカイユで縁取られていた）のように使います。" },
+      { "q": "rocaille と Rococo の関係は？", "a": "『ロココ（Rococo）』という様式名は、この rocaille（貝殻・岩を模した曲線装飾）に由来します。ロカイユはロココの最も特徴的な装飾モチーフです。" }
+    ],
+    "quiz": [
+      { "q": "The mirror was framed with gilded ___.（ロカイユ）", "A": "rocaille", "B": "detail の細部", "C": "cocktail のカクテル", "D": "retail の小売り", "correct": "A" },
+      { "q": "rocaille が語源となった様式はどれ？", "A": "ロココ（Rococo）", "B": "ゴシック", "C": "バロック", "D": "ルネサンス", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rundale",
+    "pron": "ˈrʌndeɪl",
+    "kana": "ランデイル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "run（区画）＋ dale（分配・谷）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "歴史・農業"],
+    "meaning_main": "ランデール（アイルランド等の共同耕作・分散地割の制度）",
+    "description": "rundale の意味・発音・例文・語源を解説。アイルランドやスコットランドで行われた、土地を細かく分散して割り当て共同耕作する伝統的な土地制度「ランデール」という、歴史・農業で使う語の使い方を紹介します。",
+    "keywords": ["rundale 意味", "rundale 発音", "ランデール", "共同耕作"],
+    "meanings": [
+      { "hinshi": "【名詞】ランデール", "note": "アイルランドやスコットランド高地で行われた伝統的な土地制度。耕地を多数の細い区画に分け、各農家に分散して割り当て、共同で耕作・放牧した。スコットランドの runrig に近い。" }
+    ],
+    "usages": [
+      { "title": "① 「土地制度」として", "desc": "分散地割の慣行を表します。", "example_en": "Under rundale, each family farmed scattered strips of land.", "example_ja": "ランデールのもとでは、各家が分散した細長い土地を耕した。" },
+      { "title": "② 「共同体の耕作」として", "desc": "共同農業を表します。", "example_en": "Rundale villages shared pasture and arable land.", "example_ja": "ランデールの村々は放牧地と耕地を共有した。" }
+    ],
+    "warn": [
+      "rundale は『ランデール（アイルランド等の共同耕作・分散地割の制度）』。歴史・農業の語。",
+      "スコットランドの runrig（ランリグ）に近い制度。19世紀以降の土地改革で衰退した。"
+    ],
+    "etym_note": "run（『細長い区画・畝』）＋ dale（『分け前・分配』、古英語 dǣl「部分」より。地形の dale「谷」とは別系）から成り、「分けて割り当てた土地」を意味します。deal（分配する）と関連します。",
+    "etym_chain": [
+      { "node": "run + dale", "sub": "区画＋分配", "era": "英語・ゲール語系" },
+      { "node": "rundale", "sub": "分散地割の耕作", "era": "近代英語" },
+      { "node": "rundale", "sub": "ランデール", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the rundale system", "ja": "ランデール制度" },
+      { "en": "farm in rundale", "ja": "ランデールで耕作する" },
+      { "en": "a rundale village", "ja": "ランデールの村" },
+      { "en": "scattered rundale strips", "ja": "分散したランデールの区画" },
+      { "en": "abolish rundale", "ja": "ランデールを廃止する" },
+      { "en": "rundale and runrig", "ja": "ランデールとランリグ" }
+    ],
+    "related": [
+      { "en": "runrig", "ja": "ランリグ（スコットランドの土地制度）" },
+      { "en": "common land", "ja": "共有地" },
+      { "en": "open field", "ja": "開放耕地" },
+      { "en": "tenant", "ja": "小作人・借地人" }
+    ],
+    "faq": [
+      { "q": "rundale とはどんな意味？", "a": "アイルランドやスコットランド高地で行われた、耕地を細い区画に分けて各農家に分散して割り当て、共同で耕作・放牧した伝統的な土地制度『ランデール』のことです。Under rundale, each family farmed scattered strips.（各家が分散した土地を耕した）のように使います。" },
+      { "q": "rundale と runrig の違いは？", "a": "どちらも分散地割による共同耕作の制度ですが、rundale は主にアイルランド、runrig は主にスコットランドで使われた呼び名です。仕組みはよく似ています。" }
+    ],
+    "quiz": [
+      { "q": "Under ___, each family farmed scattered strips of land.（ランデール）", "A": "rundale", "B": "sundial の日時計", "C": "scandal のスキャンダル", "D": "vandal の破壊者", "correct": "A" },
+      { "q": "rundale はどんな制度？", "A": "分散地割による共同耕作の土地制度", "B": "海上交易の制度", "C": "軍隊の階級制度", "D": "教会の税制", "correct": "A" }
+    ]
+  }
+]
