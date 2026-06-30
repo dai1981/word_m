@@ -1,0 +1,524 @@
+[
+  {
+    "english": "relatable",
+    "pron": "rɪˈleɪtəbl",
+    "kana": "リレイタブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "relate（関連づける・共感する）＋ -able（できる）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出・口語"],
+    "meaning_main": "共感できる・親しみのもてる・身近に感じられる",
+    "description": "relatable の意味・発音・例文・語源を解説。登場人物や話に「共感できる・親しみのもてる・自分のことのように感じられる」という、近年よく使われる形容詞を紹介します。",
+    "keywords": ["relatable 意味", "relatable 発音", "共感できる", "relate 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】共感できる・親しみのもてる・身近に感じられる", "note": "自分の経験・気持ちと重ねられる。a relatable character（共感できる登場人物）。relatable to ～（〜にとって共感しやすい）。" }
+    ],
+    "usages": [
+      { "title": "① 「共感できる登場人物」として", "desc": "親しみを感じられることを表します。", "example_en": "The main character is very relatable.", "example_ja": "主人公はとても共感しやすい。" },
+      { "title": "② 「身近に感じられる話」として", "desc": "自分のことのように感じることを表します。", "example_en": "Her struggles feel relatable to many people.", "example_ja": "彼女の苦労は多くの人に身近に感じられる。" }
+    ],
+    "warn": [
+      "relatable は『共感できる・親しみのもてる・身近に感じられる』。relate（関連づける／（relate to で）共感する）＋ -able。近年の口語で頻出。",
+      "relatable to ～（〜にとって共感しやすい）の形も使う。"
+    ],
+    "etym_note": "relate（『関連づける・（relate to で）共感する』、ラテン語 referre/relatus「運び戻す・関係づける」より）＋ -able（できる）から成り、「（自分と）関連づけられる＝共感できる」を意味します。relation（関係）と同じ語根です。",
+    "etym_chain": [
+      { "node": "relatus", "sub": "関係づけられた", "era": "ラテン語" },
+      { "node": "relate", "sub": "関連づける・共感する", "era": "近代英語" },
+      { "node": "relatable", "sub": "共感できる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a relatable character", "ja": "共感できる登場人物" },
+      { "en": "highly relatable", "ja": "とても共感しやすい" },
+      { "en": "relatable to many people", "ja": "多くの人に身近な" },
+      { "en": "a relatable story", "ja": "親しみのもてる話" },
+      { "en": "feel relatable", "ja": "身近に感じられる" },
+      { "en": "instantly relatable", "ja": "すぐに共感できる" }
+    ],
+    "related": [
+      { "en": "relate", "ja": "関連づける・共感する" },
+      { "en": "relatability", "ja": "共感しやすさ" },
+      { "en": "sympathetic", "ja": "共感を呼ぶ・好感のもてる" },
+      { "en": "approachable", "ja": "親しみやすい" }
+    ],
+    "faq": [
+      { "q": "relatable とはどんな意味？", "a": "登場人物や話に『共感できる・親しみのもてる・自分のことのように感じられる』という形容詞です。The main character is very relatable.（主人公はとても共感しやすい）のように、近年の口語でよく使われます。" },
+      { "q": "relate to ～ とはどんな意味？", "a": "『〜に共感する・〜を自分のことのように感じる』という意味です。I can relate to that.（それ、わかる・共感できる）のように使い、relatable はその形容詞形です。" }
+    ],
+    "quiz": [
+      { "q": "The main character is very ___.（共感しやすい）", "A": "relatable", "B": "reliable の信頼できる", "C": "readable の読みやすい", "D": "reasonable の妥当な", "correct": "A" },
+      { "q": "relatable のもとになった動詞はどれ？", "A": "relate（関連づける・共感する）", "B": "rely（頼る）", "C": "read（読む）", "D": "reason（推論する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "relaxant",
+    "pron": "rɪˈlæksənt",
+    "kana": "リラクサント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "relax（ゆるめる）＋ -ant（〜するもの）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "医学"],
+    "meaning_main": "弛緩（しかん）剤・筋弛緩薬（筋肉などをゆるめる薬）",
+    "description": "relaxant の意味・発音・例文・語源を解説。筋肉や神経の緊張をゆるめる薬「弛緩剤・筋弛緩薬」を表す、医学で使う名詞の使い方を分かりやすく紹介します。",
+    "keywords": ["relaxant 意味", "relaxant 発音", "筋弛緩剤", "relax 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】弛緩剤・筋弛緩薬", "note": "筋肉や神経の緊張をゆるめる薬。a muscle relaxant（筋弛緩薬）。形容詞で『弛緩させる（の）』の意味も。" }
+    ],
+    "usages": [
+      { "title": "① 「筋弛緩薬」として", "desc": "筋肉をゆるめる薬を表します。", "example_en": "The doctor prescribed a muscle relaxant.", "example_ja": "医師は筋弛緩薬を処方した。" },
+      { "title": "② 治療の文脈で", "desc": "緊張をやわらげる薬を表します。", "example_en": "A relaxant can ease painful muscle spasms.", "example_ja": "弛緩剤は痛みを伴う筋けいれんをやわらげる。" }
+    ],
+    "warn": [
+      "relaxant は『弛緩（しかん）剤・筋弛緩薬』。relax（ゆるめる）＋ -ant。a muscle relaxant（筋弛緩薬）が頻出。",
+      "stimulant（興奮剤）の反対方向の薬。"
+    ],
+    "etym_note": "relax（『ゆるめる・くつろがせる』、ラテン語 relaxare「ゆるめる」より）＋ -ant（『〜するもの』）から成り、「ゆるめるもの＝弛緩剤」を意味します。relaxation（くつろぎ）と同じ語根です。",
+    "etym_chain": [
+      { "node": "relaxare", "sub": "ゆるめる", "era": "ラテン語" },
+      { "node": "relax", "sub": "ゆるめる", "era": "中英語" },
+      { "node": "relaxant", "sub": "弛緩剤", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a muscle relaxant", "ja": "筋弛緩薬" },
+      { "en": "prescribe a relaxant", "ja": "弛緩剤を処方する" },
+      { "en": "take a relaxant", "ja": "弛緩剤を服用する" },
+      { "en": "a smooth muscle relaxant", "ja": "平滑筋弛緩薬" },
+      { "en": "the effect of the relaxant", "ja": "弛緩剤の効果" },
+      { "en": "a mild relaxant", "ja": "穏やかな弛緩剤" }
+    ],
+    "related": [
+      { "en": "relax", "ja": "ゆるめる・くつろがせる" },
+      { "en": "relaxation", "ja": "くつろぎ・弛緩" },
+      { "en": "sedative", "ja": "鎮静剤" },
+      { "en": "stimulant", "ja": "興奮剤（反対方向）" }
+    ],
+    "faq": [
+      { "q": "relaxant とはどんな意味？", "a": "筋肉や神経の緊張をゆるめる薬『弛緩剤・筋弛緩薬』のことです。The doctor prescribed a muscle relaxant.（医師は筋弛緩薬を処方した）のように使います。" },
+      { "q": "muscle relaxant とは？", "a": "『筋弛緩薬』のことです。こりや、けいれん、手術時などに筋肉の緊張をゆるめるために使われる薬です。" }
+    ],
+    "quiz": [
+      { "q": "The doctor prescribed a muscle ___.（弛緩薬）", "A": "relaxant", "B": "assistant の助手", "C": "restaurant のレストラン", "D": "important の重要な", "correct": "A" },
+      { "q": "relaxant のもとになった動詞はどれ？", "A": "relax（ゆるめる）", "B": "relate（関連づける）", "C": "release（解放する）", "D": "rely（頼る）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "remaster",
+    "pron": "ˌriːˈmæstər",
+    "kana": "リマスター",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ master（原盤を作る）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "音楽・映像"],
+    "meaning_main": "（音源・映像を）リマスターする・原盤を作り直して高音質・高画質化する",
+    "description": "remaster の意味・発音・例文・語源を解説。古い音楽や映画の原盤を作り直し、音質・画質を高める「リマスターする」という、音楽・映像で使う語を紹介します。",
+    "keywords": ["remaster 意味", "remaster 発音", "リマスター", "master 原盤"],
+    "meanings": [
+      { "hinshi": "【動詞】（音源・映像を）リマスターする・作り直して高音質・高画質化する", "note": "古い録音・映像のもとになる原盤（master）を最新技術で作り直す。a remastered album（リマスター版アルバム）。" },
+      { "hinshi": "【名詞】リマスター版", "note": "リマスターされた作品。a 4K remaster（4Kリマスター）。" }
+    ],
+    "usages": [
+      { "title": "① 「アルバムをリマスターする」として", "desc": "音質を高めることを表します。", "example_en": "The band remastered their old albums.", "example_ja": "そのバンドは昔のアルバムをリマスターした。" },
+      { "title": "② 「映画を高画質化する」として", "desc": "画質を高めることを表します。", "example_en": "The classic film was remastered in 4K.", "example_ja": "その名画は4Kでリマスターされた。" }
+    ],
+    "warn": [
+      "remaster は『（音源・映像を）リマスターする・原盤を作り直して高音質・高画質化する』。re-（再び）＋ master（原盤を作る）。",
+      "ここでの master は『原盤・マスター音源』。a remastered version / a 4K remaster（リマスター版）。"
+    ],
+    "etym_note": "re-（再び）＋ master（『原盤を作る』、master「主・原型」、ラテン語 magister「師・長」より）から成り、「再び原盤を作ること」を意味します。",
+    "etym_chain": [
+      { "node": "magister", "sub": "師・長", "era": "ラテン語" },
+      { "node": "master", "sub": "原盤・主", "era": "近代英語" },
+      { "node": "remaster", "sub": "リマスターする", "era": "20世紀英語" }
+    ],
+    "phrases": [
+      { "en": "a remastered album", "ja": "リマスター版アルバム" },
+      { "en": "remaster the recording", "ja": "録音をリマスターする" },
+      { "en": "remastered in 4K", "ja": "4Kでリマスターされた" },
+      { "en": "a digitally remastered film", "ja": "デジタルリマスター版の映画" },
+      { "en": "a remastered edition", "ja": "リマスター版" },
+      { "en": "a high-definition remaster", "ja": "高精細リマスター" }
+    ],
+    "related": [
+      { "en": "master", "ja": "原盤・マスター" },
+      { "en": "remix", "ja": "リミックスする" },
+      { "en": "restore", "ja": "修復する" },
+      { "en": "reissue", "ja": "再発売する" }
+    ],
+    "faq": [
+      { "q": "remaster とはどんな意味？", "a": "古い音楽や映画のもとになる原盤（master）を最新技術で作り直し、音質・画質を高める『リマスターする』という意味です。The classic film was remastered in 4K.（名画が4Kでリマスターされた）のように使います。" },
+      { "q": "remaster と remix の違いは？", "a": "remaster は『（既存の音源を）作り直して音質・画質を高める』、remix は『（各楽器の音を）混ぜ直して新しいバランスの曲にする』ことです。リマスターは質の向上、リミックスは作り変えに近いです。" }
+    ],
+    "quiz": [
+      { "q": "The classic film was ___ed in 4K.（リマスターされた）", "A": "remaster", "B": "disaster の災害", "C": "register の登録する", "D": "remember の思い出す", "correct": "A" },
+      { "q": "remaster の master の意味はどれ？", "A": "原盤・マスター音源", "B": "先生", "C": "主人", "D": "修士", "correct": "A" }
+    ]
+  },
+  {
+    "english": "regrow",
+    "pron": "ˌriːˈɡroʊ",
+    "kana": "リグロウ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ grow（育つ・伸びる）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "理科・日常"],
+    "meaning_main": "再び生える・また伸びる／再び育てる",
+    "description": "regrow の意味・発音・例文・語源を解説。髪・植物・トカゲの尾などが「再び生える・また伸びる」、また植物を「再び育てる」という使い方を分かりやすく紹介します。",
+    "keywords": ["regrow 意味", "regrow 発音", "再び生える", "grow 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再び生える・また伸びる（自動詞）", "note": "一度なくなった部分が再び育つ。Hair can regrow.（髪はまた生える）。" },
+      { "hinshi": "【動詞】再び育てる・また生やす（他動詞）", "note": "regrow a beard（ひげをまた伸ばす）。過去形 regrew、過去分詞 regrown。" }
+    ],
+    "usages": [
+      { "title": "① 「再び生える」として", "desc": "なくなった部分が育つことを表します。", "example_en": "Lizards can regrow their tails.", "example_ja": "トカゲは尾を再生できる。" },
+      { "title": "② 「また伸ばす」として", "desc": "再び育てることを表します。", "example_en": "He decided to regrow his beard.", "example_ja": "彼はひげをまた伸ばすことにした。" }
+    ],
+    "warn": [
+      "regrow は『再び生える・また伸びる』『再び育てる』。re-（再び）＋ grow。過去形 regrew、過去分詞 regrown（grow → grew → grown と同じ）。",
+      "髪・植物・トカゲの尾・森林など、再生・再成長の文脈で使う。"
+    ],
+    "etym_note": "re-（再び）＋ grow（『育つ・伸びる』、古英語 grōwan より）から成り、「再び育つこと」を意味します。",
+    "etym_chain": [
+      { "node": "grōwan", "sub": "育つ", "era": "古英語" },
+      { "node": "grow", "sub": "育つ・伸びる", "era": "中英語" },
+      { "node": "regrow", "sub": "再び生える・また伸びる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "regrow hair", "ja": "髪を再び生やす" },
+      { "en": "regrow a tail", "ja": "尾を再生する" },
+      { "en": "regrow a beard", "ja": "ひげをまた伸ばす" },
+      { "en": "the forest will regrow", "ja": "森はまた育つ" },
+      { "en": "regrow from a cutting", "ja": "挿し木から再び育つ" },
+      { "en": "regrow naturally", "ja": "自然に再生する" }
+    ],
+    "related": [
+      { "en": "grow", "ja": "育つ・伸びる" },
+      { "en": "regrowth", "ja": "再成長・再生" },
+      { "en": "regenerate", "ja": "再生する" },
+      { "en": "sprout", "ja": "芽を出す" }
+    ],
+    "faq": [
+      { "q": "regrow とはどんな意味？", "a": "髪・植物・トカゲの尾などが『再び生える・また伸びる』、また植物などを『再び育てる』という意味です。Lizards can regrow their tails.（トカゲは尾を再生できる）のように使います。過去形は regrew です。" },
+      { "q": "regrow の過去形は？", "a": "regrew（過去形）、regrown（過去分詞）です。grow → grew → grown と同じ変化をします。" }
+    ],
+    "quiz": [
+      { "q": "Lizards can ___ their tails.（再生する）", "A": "regrow", "B": "grow の最初に育つだけ", "C": "throw の投げる", "D": "borrow の借りる", "correct": "A" },
+      { "q": "regrow の過去形はどれ？", "A": "regrew", "B": "regrowed", "C": "regrown（過去分詞）", "D": "regrowing", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reoccur",
+    "pron": "ˌriːəˈkɜːr",
+    "kana": "リオカー",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ occur（起こる）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "再び起こる・再発する",
+    "description": "reoccur の意味・発音・例文・語源を解説。問題や症状などが「再び起こる・再発する」という、日常や医学で使う動詞の使い方を分かりやすく紹介します。",
+    "keywords": ["reoccur 意味", "reoccur 発音", "再び起こる", "occur 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再び起こる・再発する", "note": "一度起きたことがまた起こる。The problem may reoccur.（その問題はまた起こるかもしれない）。過去形は reoccurred（r が2つ）。" }
+    ],
+    "usages": [
+      { "title": "① 「問題が再び起こる」として", "desc": "再発することを表します。", "example_en": "We must prevent the error from reoccurring.", "example_ja": "そのエラーが再発しないよう防がねばならない。" },
+      { "title": "② 「症状が再発する」として", "desc": "再び現れることを表します。", "example_en": "The symptoms reoccurred after a month.", "example_ja": "症状は1か月後に再発した。" }
+    ],
+    "warn": [
+      "reoccur は『再び起こる・再発する』。re-（再び）＋ occur。過去形・過去分詞は reoccurred、-ing は reoccurring（r を重ねる）。",
+      "recur（再発する）とほぼ同義。recur のほうがやや一般的・フォーマル。"
+    ],
+    "etym_note": "re-（再び）＋ occur（『起こる』、ラテン語 occurrere「（ふと）出くわす」、ob-「向かって」＋ currere「走る」より）から成り、「再び起こること」を意味します。current（流れ）, recur（再発する）と同じ語根です。",
+    "etym_chain": [
+      { "node": "occurrere", "sub": "出くわす", "era": "ラテン語" },
+      { "node": "occur", "sub": "起こる", "era": "中英語" },
+      { "node": "reoccur", "sub": "再び起こる・再発する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the problem may reoccur", "ja": "問題がまた起こるかもしれない" },
+      { "en": "prevent it from reoccurring", "ja": "再発を防ぐ" },
+      { "en": "symptoms reoccur", "ja": "症状が再発する" },
+      { "en": "errors that reoccur", "ja": "再発するエラー" },
+      { "en": "reoccur frequently", "ja": "頻繁に再発する" },
+      { "en": "is unlikely to reoccur", "ja": "再発しそうにない" }
+    ],
+    "related": [
+      { "en": "occur", "ja": "起こる" },
+      { "en": "recur", "ja": "再発する・くり返す" },
+      { "en": "recurrence", "ja": "再発・くり返し" },
+      { "en": "repeat", "ja": "繰り返す" }
+    ],
+    "faq": [
+      { "q": "reoccur とはどんな意味？", "a": "問題や症状などが『再び起こる・再発する』という意味です。We must prevent the error from reoccurring.（そのエラーが再発しないよう防がねばならない）のように使います。過去形は reoccurred です。" },
+      { "q": "reoccur と recur の違いは？", "a": "意味はほぼ同じ『再発する』ですが、recur のほうが一般的でフォーマルな響きです。recur には『（同じことが規則的に）くり返す』ニュアンスもあります。" }
+    ],
+    "quiz": [
+      { "q": "We must prevent the error from ___ing.（再発する）", "A": "reoccur", "B": "occur の最初に起こるだけ", "C": "secure の確保する", "D": "endure の耐える", "correct": "A" },
+      { "q": "reoccur とほぼ同じ意味の語はどれ？", "A": "recur（再発する）", "B": "secure（確保する）", "C": "endure（耐える）", "D": "ensure（保証する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "renegotiation",
+    "pron": "ˌriːnɪˌɡoʊʃiˈeɪʃən",
+    "kana": "リネゴシエイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "renegotiate（再交渉する）＋ -ion",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "ビジネス・外交"],
+    "meaning_main": "再交渉・条件の交渉し直し",
+    "description": "renegotiation の意味・発音・例文・語源を解説。契約・条約・条件などを「再び交渉し直すこと・再交渉」を表す、ビジネス・外交で使う名詞の使い方を紹介します。",
+    "keywords": ["renegotiation 意味", "renegotiation 発音", "再交渉", "negotiate 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再交渉・条件の交渉し直し", "note": "契約・条約などの条件をもう一度交渉して決め直すこと。the renegotiation of the contract（契約の再交渉）。動詞は renegotiate。" }
+    ],
+    "usages": [
+      { "title": "① 「契約の再交渉」として", "desc": "条件の交渉し直しを表します。", "example_en": "The union demanded the renegotiation of the contract.", "example_ja": "組合は契約の再交渉を要求した。" },
+      { "title": "② 「条約の再交渉」として", "desc": "国家間の交渉し直しを表します。", "example_en": "The treaty is up for renegotiation.", "example_ja": "その条約は再交渉の対象になっている。" }
+    ],
+    "warn": [
+      "renegotiation は『再交渉・条件の交渉し直し』。renegotiate（再交渉する）＋ -ion。re-（再び）＋ negotiation（交渉）。",
+      "契約・条約・債務・賃金などの条件を交渉し直す文脈で使う。"
+    ],
+    "etym_note": "renegotiate（re-「再び」＋ negotiate「交渉する」、ラテン語 negotiari「商売する」、neg-「〜でない」＋ otium「暇」＝暇でないこと＝仕事より）＋ -ion から成り、「再び交渉すること」を意味します。",
+    "etym_chain": [
+      { "node": "negotiari", "sub": "商売する", "era": "ラテン語" },
+      { "node": "negotiate", "sub": "交渉する", "era": "近代英語" },
+      { "node": "renegotiation", "sub": "再交渉", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the renegotiation of the contract", "ja": "契約の再交渉" },
+      { "en": "demand renegotiation", "ja": "再交渉を要求する" },
+      { "en": "up for renegotiation", "ja": "再交渉の対象で" },
+      { "en": "debt renegotiation", "ja": "債務の再交渉" },
+      { "en": "treaty renegotiation", "ja": "条約の再交渉" },
+      { "en": "wage renegotiation", "ja": "賃金の再交渉" }
+    ],
+    "related": [
+      { "en": "renegotiate", "ja": "再交渉する" },
+      { "en": "negotiation", "ja": "交渉" },
+      { "en": "negotiate", "ja": "交渉する" },
+      { "en": "bargaining", "ja": "交渉・取引" }
+    ],
+    "faq": [
+      { "q": "renegotiation とはどんな意味？", "a": "契約・条約・条件などを『再び交渉し直すこと・再交渉』のことです。The union demanded the renegotiation of the contract.（組合は契約の再交渉を要求した）のように使います。動詞は renegotiate です。" },
+      { "q": "renegotiation はどんな場面で使う？", "a": "契約・条約・賃金・債務などの条件が合わなくなったり、状況が変わったりしたときに、もう一度交渉して条件を決め直す場面で使います。" }
+    ],
+    "quiz": [
+      { "q": "The union demanded the ___ of the contract.（再交渉）", "A": "renegotiation", "B": "registration の登録", "C": "reservation の予約", "D": "recreation の娯楽", "correct": "A" },
+      { "q": "renegotiation の動詞形はどれ？", "A": "renegotiate（再交渉する）", "B": "register（登録する）", "C": "reserve（予約する）", "D": "recreate（再現する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "remilitarize",
+    "pron": "ˌriːˈmɪlɪtəraɪz",
+    "kana": "リミリタライズ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ militarize（軍事化する）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "軍事・政治"],
+    "meaning_main": "再軍事化する・（地域に）再び軍隊を置く",
+    "description": "remilitarize の意味・発音・例文・語源を解説。非武装化された地域に再び軍隊・軍備を置く「再軍事化する」という、軍事・政治で使う語の使い方を紹介します。",
+    "keywords": ["remilitarize 意味", "remilitarize 発音", "再軍事化", "military 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再軍事化する・（地域に）再び軍隊・軍備を置く", "note": "いったん非武装化した地域・国を再び軍事的にする。remilitarize the zone（地帯を再軍事化する）。名詞は remilitarization。イギリス綴りは remilitarise。" }
+    ],
+    "usages": [
+      { "title": "① 「地帯を再軍事化する」として", "desc": "軍隊を再び置くことを表します。", "example_en": "The country threatened to remilitarize the border region.", "example_ja": "その国は国境地帯の再軍事化をちらつかせた。" },
+      { "title": "② 歴史の文脈で", "desc": "非武装地帯への再進駐を表します。", "example_en": "The army remilitarized the demilitarized zone.", "example_ja": "軍は非武装地帯を再軍事化した。" }
+    ],
+    "warn": [
+      "remilitarize は『再軍事化する・（地域に）再び軍隊を置く』。re-（再び）＋ militarize（軍事化する）。名詞は remilitarization。",
+      "反対は demilitarize（非武装化する）。demilitarized zone（非武装地帯＝DMZ）と対比される。"
+    ],
+    "etym_note": "re-（再び）＋ militarize（『軍事化する』、military「軍の」、ラテン語 miles「兵士」より）から成り、「再び軍事化すること」を意味します。military（軍隊）, militant（戦闘的な）と同じ語根です。",
+    "etym_chain": [
+      { "node": "miles", "sub": "兵士", "era": "ラテン語" },
+      { "node": "militarize", "sub": "軍事化する", "era": "近代英語" },
+      { "node": "remilitarize", "sub": "再軍事化する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "remilitarize the zone", "ja": "地帯を再軍事化する" },
+      { "en": "remilitarize the border", "ja": "国境を再軍事化する" },
+      { "en": "threaten to remilitarize", "ja": "再軍事化をちらつかせる" },
+      { "en": "remilitarize the region", "ja": "地域を再軍事化する" },
+      { "en": "the remilitarization of", "ja": "〜の再軍事化" },
+      { "en": "remilitarize an island", "ja": "島を再軍事化する" }
+    ],
+    "related": [
+      { "en": "militarize", "ja": "軍事化する" },
+      { "en": "demilitarize", "ja": "非武装化する（反対）" },
+      { "en": "remilitarization", "ja": "再軍事化" },
+      { "en": "rearm", "ja": "再武装する" }
+    ],
+    "faq": [
+      { "q": "remilitarize とはどんな意味？", "a": "いったん非武装化された地域や国に、再び軍隊・軍備を置く『再軍事化する』という意味です。The country threatened to remilitarize the border region.（国境地帯の再軍事化をちらつかせた）のように使います。名詞は remilitarization です。" },
+      { "q": "remilitarize の反対語は？", "a": "demilitarize（非武装化する・軍備を撤去する）です。demilitarized zone（非武装地帯＝DMZ）⇔ remilitarize（再軍事化する）の関係です。" }
+    ],
+    "quiz": [
+      { "q": "The country threatened to ___ the border region.（再軍事化する）", "A": "remilitarize", "B": "militarize の最初に軍事化する", "C": "memorize の暗記する", "D": "familiarize の慣れさせる", "correct": "A" },
+      { "q": "remilitarize の反対語はどれ？", "A": "demilitarize（非武装化する）", "B": "militarize（軍事化する）", "C": "memorize（暗記する）", "D": "modernize（近代化する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reparative",
+    "pron": "rɪˈpærətɪv",
+    "kana": "リパラティブ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "repair（修復する）／reparation（賠償・修復）＋ -ative",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "医学・社会"],
+    "meaning_main": "修復の・修復を促す・償いの",
+    "description": "reparative の意味・発音・例文・語源を解説。傷ついた組織・関係・損害を「修復する・償う」という、医学・心理・社会で使う形容詞の使い方を紹介します。",
+    "keywords": ["reparative 意味", "reparative 発音", "修復の", "repair 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】修復の・修復を促す・償いの", "note": "傷・損害・関係を直したり償ったりする。reparative surgery（修復手術）。reparative justice（修復的正義＝関係の修復を重んじる）。" }
+    ],
+    "usages": [
+      { "title": "① 医学「修復の」として", "desc": "組織を直すことを表します。", "example_en": "The body's reparative processes heal the wound.", "example_ja": "体の修復作用が傷を治す。" },
+      { "title": "② 社会「償いの」として", "desc": "関係や損害の修復を表します。", "example_en": "They took reparative measures to address the harm.", "example_ja": "彼らは被害に対処するため償いの措置をとった。" }
+    ],
+    "warn": [
+      "reparative は『修復の・修復を促す・償いの』。repair（修復する）/ reparation（賠償・償い）＋ -ative。",
+      "医学（組織の修復）、心理・社会（関係や損害の修復・償い）で使う。restorative justice と近い reparative justice も。"
+    ],
+    "etym_note": "ラテン語 reparare（『修復する』、re-「再び」＋ parare「整える」より）に由来し、-ative がついて「修復する性質の」を意味します。repair（修理する）, prepare（準備する）と同じ語根です。",
+    "etym_chain": [
+      { "node": "reparare", "sub": "修復する", "era": "ラテン語" },
+      { "node": "reparation", "sub": "賠償・修復", "era": "中英語" },
+      { "node": "reparative", "sub": "修復の・償いの", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reparative surgery", "ja": "修復手術" },
+      { "en": "reparative processes", "ja": "（体の）修復作用" },
+      { "en": "reparative justice", "ja": "修復的正義" },
+      { "en": "reparative measures", "ja": "償いの措置" },
+      { "en": "a reparative effect", "ja": "修復を促す効果" },
+      { "en": "reparative work", "ja": "修復・償いの取り組み" }
+    ],
+    "related": [
+      { "en": "repair", "ja": "修復する・修理する" },
+      { "en": "reparation", "ja": "賠償・償い・修復" },
+      { "en": "restorative", "ja": "回復させる・修復的な" },
+      { "en": "healing", "ja": "癒やしの" }
+    ],
+    "faq": [
+      { "q": "reparative とはどんな意味？", "a": "傷ついた組織・関係・損害を『修復する・修復を促す・償う』という形容詞です。The body's reparative processes heal the wound.（体の修復作用が傷を治す）のように使います。" },
+      { "q": "reparative justice とは？", "a": "『修復的正義』のことで、罰だけでなく、被害の修復や加害者・被害者の関係の回復を重んじる司法の考え方です。restorative justice（修復的司法）とほぼ同じ意味で使われます。" }
+    ],
+    "quiz": [
+      { "q": "The body's ___ processes heal the wound.（修復の）", "A": "reparative", "B": "preparative の準備の", "C": "comparative の比較の", "D": "narrative の物語の", "correct": "A" },
+      { "q": "reparative のもとになった語はどれ？", "A": "repair（修復する）", "B": "prepare（準備する）", "C": "compare（比べる）", "D": "appear（現れる）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reissuance",
+    "pron": "riːˈɪʃuəns",
+    "kana": "リイシュアンス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "reissue（再発行する）＋ -ance",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "金融・行政"],
+    "meaning_main": "再発行・再交付（証券・文書・カードなどの）",
+    "description": "reissuance の意味・発音・例文・語源を解説。証券・文書・カード・パスポートなどを「再発行・再交付すること」を表す、金融・行政で使う名詞の使い方を紹介します。",
+    "keywords": ["reissuance 意味", "reissuance 発音", "再発行", "reissue 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再発行・再交付", "note": "証券・債券・文書・カードなどを改めて発行すること。the reissuance of bonds（債券の再発行）。動詞は reissue。" }
+    ],
+    "usages": [
+      { "title": "① 「債券の再発行」として", "desc": "証券の再発行を表します。", "example_en": "The reissuance of bonds raised new funds.", "example_ja": "債券の再発行は新たな資金を集めた。" },
+      { "title": "② 「カードの再交付」として", "desc": "文書の再発行を表します。", "example_en": "You can request the reissuance of a lost card.", "example_ja": "紛失したカードの再交付を申請できる。" }
+    ],
+    "warn": [
+      "reissuance は『再発行・再交付』。reissue（再発行する）＋ -ance。reissue は名詞（再発行・再発売）としても使う。",
+      "証券・債券（金融）、パスポート・カード・文書（行政）などの再発行に使う。"
+    ],
+    "etym_note": "reissue（re-「再び」＋ issue「発行する・出す」、古フランス語 issir「出る」、ラテン語 exire「出る」より）＋ -ance から成り、「再び発行すること」を意味します。",
+    "etym_chain": [
+      { "node": "exire", "sub": "出る", "era": "ラテン語" },
+      { "node": "issue", "sub": "発行する・出す", "era": "中英語" },
+      { "node": "reissuance", "sub": "再発行・再交付", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the reissuance of bonds", "ja": "債券の再発行" },
+      { "en": "request reissuance", "ja": "再交付を申請する" },
+      { "en": "the reissuance of a passport", "ja": "パスポートの再発行" },
+      { "en": "card reissuance", "ja": "カードの再発行" },
+      { "en": "a reissuance fee", "ja": "再発行手数料" },
+      { "en": "the reissuance of shares", "ja": "株式の再発行" }
+    ],
+    "related": [
+      { "en": "reissue", "ja": "再発行する・再発売（する）" },
+      { "en": "issuance", "ja": "発行" },
+      { "en": "issue", "ja": "発行する・出す" },
+      { "en": "renewal", "ja": "更新" }
+    ],
+    "faq": [
+      { "q": "reissuance とはどんな意味？", "a": "証券・文書・カード・パスポートなどを『再発行・再交付すること』です。The reissuance of bonds raised new funds.（債券の再発行が新たな資金を集めた）のように使います。動詞は reissue です。" },
+      { "q": "reissuance はどんな場面で使う？", "a": "債券・株式の再発行（金融）、紛失したパスポート・カード・証明書の再交付（行政）など、いったん発行したものを改めて発行する場面で使います。" }
+    ],
+    "quiz": [
+      { "q": "You can request the ___ of a lost card.（再交付）", "A": "reissuance", "B": "assistance の援助", "C": "insurance の保険", "D": "appearance の出現", "correct": "A" },
+      { "q": "reissuance の動詞形はどれ？", "A": "reissue（再発行する）", "B": "assist（助ける）", "C": "insure（保険をかける）", "D": "appear（現れる）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reinsertion",
+    "pron": "ˌriːɪnˈsɜːrʃən",
+    "kana": "リインサーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "reinsert（再び差し込む）＋ -ion",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "技術・医学"],
+    "meaning_main": "再挿入・再び差し込むこと・入れ直し",
+    "description": "reinsertion の意味・発音・例文・語源を解説。チューブ・部品・文などを「再び差し込むこと・再挿入・入れ直し」を表す、医学・技術・編集で使う名詞を紹介します。",
+    "keywords": ["reinsertion 意味", "reinsertion 発音", "再挿入", "reinsert 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再挿入・再び差し込むこと・入れ直し", "note": "抜いたものを再び差し込むこと。the reinsertion of the tube（チューブの再挿入）。動詞は reinsert。" }
+    ],
+    "usages": [
+      { "title": "① 医学「チューブの再挿入」として", "desc": "再び差し込むことを表します。", "example_en": "The reinsertion of the catheter was successful.", "example_ja": "カテーテルの再挿入は成功した。" },
+      { "title": "② 編集「文の入れ直し」として", "desc": "削除した部分を戻すことを表します。", "example_en": "The reinsertion of the paragraph improved the flow.", "example_ja": "その段落の入れ直しは流れを良くした。" }
+    ],
+    "warn": [
+      "reinsertion は『再挿入・再び差し込むこと・入れ直し』。reinsert（再び差し込む）＋ -ion。",
+      "医学（チューブ・器具）、技術（部品）、編集（文・段落）など、抜いたものを再び入れる文脈で使う。"
+    ],
+    "etym_note": "reinsert（re-「再び」＋ insert「差し込む」、ラテン語 inserere「中に植え込む」より）＋ -ion から成り、「再び差し込むこと」を意味します。insert（挿入する）と同じ語根です。",
+    "etym_chain": [
+      { "node": "inserere", "sub": "中に植え込む", "era": "ラテン語" },
+      { "node": "reinsert", "sub": "再び差し込む", "era": "近代英語" },
+      { "node": "reinsertion", "sub": "再挿入", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the reinsertion of the tube", "ja": "チューブの再挿入" },
+      { "en": "reinsertion of the catheter", "ja": "カテーテルの再挿入" },
+      { "en": "require reinsertion", "ja": "再挿入を要する" },
+      { "en": "the reinsertion of a gene", "ja": "遺伝子の再挿入" },
+      { "en": "reinsertion of the part", "ja": "部品の入れ直し" },
+      { "en": "after reinsertion", "ja": "再挿入のあと" }
+    ],
+    "related": [
+      { "en": "reinsert", "ja": "再び差し込む" },
+      { "en": "insertion", "ja": "挿入" },
+      { "en": "insert", "ja": "差し込む・挿入する" },
+      { "en": "reattachment", "ja": "再接合・再取り付け" }
+    ],
+    "faq": [
+      { "q": "reinsertion とはどんな意味？", "a": "チューブ・部品・文などを『再び差し込むこと・再挿入・入れ直し』のことです。The reinsertion of the catheter was successful.（カテーテルの再挿入は成功した）のように使います。動詞は reinsert です。" },
+      { "q": "reinsertion はどんな分野で使う？", "a": "医学（チューブ・カテーテルなどの再挿入）、生物（遺伝子の再挿入）、技術（部品の入れ直し）、編集（削除した文の入れ直し）など、抜いたものを再び入れる場面で使われます。" }
+    ],
+    "quiz": [
+      { "q": "The ___ of the catheter was successful.（再挿入）", "A": "reinsertion", "B": "reservation の予約", "C": "reflection の反射", "D": "reaction の反応", "correct": "A" },
+      { "q": "reinsertion の動詞形はどれ？", "A": "reinsert（再び差し込む）", "B": "reserve（予約する）", "C": "reflect（反射する）", "D": "react（反応する）", "correct": "A" }
+    ]
+  }
+]
