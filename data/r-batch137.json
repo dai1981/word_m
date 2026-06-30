@@ -1,0 +1,526 @@
+[
+  {
+    "english": "reattempt",
+    "pron": "ˌriːəˈtɛmpt",
+    "kana": "リアテンプト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ attempt（試みる）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "一般"],
+    "meaning_main": "再び試みる・再挑戦する",
+    "description": "reattempt の意味・発音・例文・語源を解説。一度失敗したことを「再び試みる・再挑戦する」という、勉強やスポーツ、ITで使う語の使い方を紹介します。",
+    "keywords": ["reattempt 意味", "reattempt 発音", "再挑戦する", "attempt 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再び試みる・再挑戦する", "note": "一度の試みのあと、もう一度試す。reattempt the test（テストに再挑戦する）。名詞としても使い『再試行』。" }
+    ],
+    "usages": [
+      { "title": "① 「再挑戦する」として", "desc": "もう一度試すことを表します。", "example_en": "She reattempted the exam after a month of study.", "example_ja": "彼女は1か月勉強したあと試験に再挑戦した。" },
+      { "title": "② IT「再試行する」として", "desc": "処理を再び試すことを表します。", "example_en": "The system will reattempt the connection automatically.", "example_ja": "システムは自動的に接続を再試行する。" }
+    ],
+    "warn": [
+      "reattempt は『再び試みる・再挑戦する』。re-（再び）＋ attempt。",
+      "名詞でも『再試行・再挑戦』の意味で使える。"
+    ],
+    "etym_note": "re-（再び）＋ attempt（『試みる』、ラテン語 attemptare「試みる」、ad-「〜へ」＋ temptare「試す」より）から成り、「再び試みること」を意味します。tempt（誘惑する）と同じ語根です。",
+    "etym_chain": [
+      { "node": "attemptare", "sub": "試みる", "era": "ラテン語" },
+      { "node": "attempt", "sub": "試みる", "era": "中英語" },
+      { "node": "reattempt", "sub": "再び試みる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reattempt the test", "ja": "テストに再挑戦する" },
+      { "en": "reattempt the climb", "ja": "登頂に再挑戦する" },
+      { "en": "reattempt the connection", "ja": "接続を再試行する" },
+      { "en": "a second reattempt", "ja": "2度目の再挑戦" },
+      { "en": "reattempt later", "ja": "あとで再試行する" },
+      { "en": "reattempt the task", "ja": "作業をやり直す" }
+    ],
+    "related": [
+      { "en": "attempt", "ja": "試みる" },
+      { "en": "retry", "ja": "再試行する" },
+      { "en": "try again", "ja": "もう一度やってみる" },
+      { "en": "redo", "ja": "やり直す" }
+    ],
+    "faq": [
+      { "q": "reattempt とはどんな意味？", "a": "一度失敗したことを『再び試みる・再挑戦する』という意味です。She reattempted the exam.（試験に再挑戦した）のように使います。名詞でも『再試行』を表します。" },
+      { "q": "reattempt と retry の違いは？", "a": "ほぼ同義ですが、reattempt はやや硬く『（努力を要することへの）再挑戦』、retry は機械的・IT的な『再試行』で使われることが多いです。" }
+    ],
+    "quiz": [
+      { "q": "She ___ed the exam after more study.（再挑戦した）", "A": "reattempt", "B": "attempt の最初に試みるだけ", "C": "attend の出席する", "D": "attend の世話する", "correct": "A" },
+      { "q": "reattempt のもとになった動詞はどれ？", "A": "attempt（試みる）", "B": "attend（出席する）", "C": "attach（取り付ける）", "D": "attack（攻撃する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recharter",
+    "pron": "ˌriːˈtʃɑːtə",
+    "kana": "リチャーター",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ charter（特許状を与える・チャーターする）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "法律・ビジネス"],
+    "meaning_main": "再び認可する・再びチャーターする",
+    "description": "recharter の意味・発音・例文・語源を解説。組織や銀行を「再び認可する」、船や飛行機を「再びチャーターする」という、法律・ビジネスで使う語の使い方を紹介します。",
+    "keywords": ["recharter 意味", "recharter 発音", "再認可する", "charter 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再び認可する・再び特許を与える", "note": "組織・銀行などの設立認可を更新する。recharter the bank（銀行を再認可する）。" },
+      { "hinshi": "【動詞】再びチャーターする", "note": "船・飛行機・バスなどを再び貸し切る。" }
+    ],
+    "usages": [
+      { "title": "① 「再認可する」として", "desc": "認可を更新することを表します。", "example_en": "Congress voted to recharter the national bank.", "example_ja": "議会は国立銀行の再認可を可決した。" },
+      { "title": "② 「再びチャーターする」として", "desc": "乗り物を再び貸し切ることを表します。", "example_en": "The team rechartered a plane for the trip home.", "example_ja": "チームは帰路のために再び飛行機をチャーターした。" }
+    ],
+    "warn": [
+      "recharter は『再認可する／再チャーターする』。re-（再び）＋ charter。",
+      "charter は『特許状・認可』と『（乗り物の）貸し切り』の二つの意味があり、recharter も両方に対応する。"
+    ],
+    "etym_note": "re-（再び）＋ charter（『特許状』、ラテン語 charta「紙・文書」より）から成り、「再び認可（の文書）を与えること」を意味します。card（カード）や chart（図表）と同じ語根です。",
+    "etym_chain": [
+      { "node": "charta", "sub": "紙・文書", "era": "ラテン語" },
+      { "node": "charter", "sub": "特許状・認可", "era": "中英語" },
+      { "node": "recharter", "sub": "再び認可する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "recharter the bank", "ja": "銀行を再認可する" },
+      { "en": "recharter the organization", "ja": "組織を再認可する" },
+      { "en": "recharter a plane", "ja": "飛行機を再チャーターする" },
+      { "en": "vote to recharter", "ja": "再認可を採決する" },
+      { "en": "recharter the school", "ja": "学校を再認可する" },
+      { "en": "fail to recharter", "ja": "再認可できない" }
+    ],
+    "related": [
+      { "en": "charter", "ja": "特許状・チャーターする" },
+      { "en": "license", "ja": "認可する・免許" },
+      { "en": "authorize", "ja": "権限を与える" },
+      { "en": "renew", "ja": "更新する" }
+    ],
+    "faq": [
+      { "q": "recharter とはどんな意味？", "a": "組織や銀行を『再び認可する』、または船・飛行機を『再びチャーターする』という意味です。Congress voted to recharter the bank.（議会は銀行の再認可を可決した）のように使います。" },
+      { "q": "charter にはどんな意味がある？", "a": "『特許状・設立認可』という名詞・動詞の意味と、『（乗り物を）貸し切る』という意味の二つがあります。recharter もそのどちらにも対応します。" }
+    ],
+    "quiz": [
+      { "q": "Congress voted to ___ the national bank.（再認可する）", "A": "recharter", "B": "charter の最初に認可するだけ", "C": "chatter のおしゃべりする", "D": "chapter の章", "correct": "A" },
+      { "q": "recharter のもとになった語はどれ？", "A": "charter（特許状・チャーターする）", "B": "chatter（おしゃべり）", "C": "chapter（章）", "D": "charge（請求する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reconfirm",
+    "pron": "ˌriːkənˈfɜːm",
+    "kana": "リコンファーム",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ confirm（確認する）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "旅行・ビジネス"],
+    "meaning_main": "再確認する・再び確認する",
+    "description": "reconfirm の意味・発音・例文・語源を解説。予約や予定を「再確認する・もう一度確かめる」という、旅行やビジネスで使う語の使い方を紹介します。",
+    "keywords": ["reconfirm 意味", "reconfirm 発音", "再確認する", "confirm 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再確認する・もう一度確かめる", "note": "一度確認したことを念のため再び確認する。reconfirm the booking（予約を再確認する）。名詞は reconfirmation。" }
+    ],
+    "usages": [
+      { "title": "① 旅行「予約を再確認する」として", "desc": "予約内容を改めて確かめることを表します。", "example_en": "Please reconfirm your flight 72 hours before departure.", "example_ja": "出発の72時間前にフライトを再確認してください。" },
+      { "title": "② ビジネス「予定を再確認する」として", "desc": "約束や予定を改めて確認することを表します。", "example_en": "I'll reconfirm the meeting time by email.", "example_ja": "会議の時間をメールで再確認します。" }
+    ],
+    "warn": [
+      "reconfirm は『再確認する』。re-（再び）＋ confirm。名詞は reconfirmation。",
+      "旅行業界では飛行機の予約を再確認する『リコンファーム』として日本語化している。"
+    ],
+    "etym_note": "re-（再び）＋ confirm（『確認する・固める』、ラテン語 confirmare「強固にする」、con-（強意）＋ firmus「堅い」より）から成り、「再び確かにすること」を意味します。firm（堅い）と同じ語根です。",
+    "etym_chain": [
+      { "node": "confirmare", "sub": "強固にする", "era": "ラテン語" },
+      { "node": "confirm", "sub": "確認する", "era": "中英語" },
+      { "node": "reconfirm", "sub": "再確認する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reconfirm the booking", "ja": "予約を再確認する" },
+      { "en": "reconfirm the flight", "ja": "フライトを再確認する" },
+      { "en": "reconfirm the appointment", "ja": "約束を再確認する" },
+      { "en": "reconfirm by email", "ja": "メールで再確認する" },
+      { "en": "reconfirm the details", "ja": "詳細を再確認する" },
+      { "en": "please reconfirm", "ja": "再確認してください" }
+    ],
+    "related": [
+      { "en": "confirm", "ja": "確認する" },
+      { "en": "reconfirmation", "ja": "再確認" },
+      { "en": "verify", "ja": "検証する" },
+      { "en": "double-check", "ja": "再点検する" }
+    ],
+    "faq": [
+      { "q": "reconfirm とはどんな意味？", "a": "予約や予定を『再確認する・もう一度確かめる』という意味です。Please reconfirm your flight.（フライトを再確認してください）のように使います。名詞は reconfirmation です。" },
+      { "q": "「リコンファーム」とは？", "a": "旅行業界で航空券の予約を改めて確認することを指す和製英語的な用語で、まさに reconfirm が語源です。近年は不要な航空会社も増えています。" }
+    ],
+    "quiz": [
+      { "q": "Please ___ your flight before departure.（再確認する）", "A": "reconfirm", "B": "confirm の最初に確認するだけ", "C": "conform の従う", "D": "conference の会議", "correct": "A" },
+      { "q": "reconfirm のもとになった動詞はどれ？", "A": "confirm（確認する）", "B": "conform（従う）", "C": "consume（消費する）", "D": "concern（関係する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recross",
+    "pron": "ˌriːˈkrɒs",
+    "kana": "リクロス",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ cross（横切る・渡る）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "一般"],
+    "meaning_main": "再び横切る・再び渡る",
+    "description": "recross の意味・発音・例文・語源を解説。川や道、国境などを「再び横切る・もう一度渡る」という語の使い方を例文とともに紹介します。",
+    "keywords": ["recross 意味", "recross 発音", "再び渡る", "cross 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再び横切る・もう一度渡る", "note": "一度渡ったところを再び渡る。recross the river（川を再び渡る）。recross the border（国境を再び越える）。" }
+    ],
+    "usages": [
+      { "title": "① 「川を再び渡る」として", "desc": "もう一度横切ることを表します。", "example_en": "They had to recross the river to find the lost trail.", "example_ja": "彼らは失った小道を探すため川を再び渡らねばならなかった。" },
+      { "title": "② 「国境を再び越える」として", "desc": "境界を改めて越えることを表します。", "example_en": "The refugees recrossed the border at night.", "example_ja": "難民たちは夜に国境を再び越えた。" }
+    ],
+    "warn": [
+      "recross は『再び横切る・もう一度渡る』。re-（再び）＋ cross。",
+      "脚を組み替える、線を引き直すなど『改めて交差させる』意味でも使う。"
+    ],
+    "etym_note": "re-（再び）＋ cross（『横切る・十字』、ラテン語 crux「十字架」より）から成り、「再び横切ること」を意味します。crucial（決定的な）や crucify（はりつけにする）と同じ語根です。",
+    "etym_chain": [
+      { "node": "crux", "sub": "十字架", "era": "ラテン語" },
+      { "node": "cross", "sub": "横切る・十字", "era": "古英語" },
+      { "node": "recross", "sub": "再び横切る", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "recross the river", "ja": "川を再び渡る" },
+      { "en": "recross the border", "ja": "国境を再び越える" },
+      { "en": "recross the street", "ja": "道を再び横切る" },
+      { "en": "recross the bridge", "ja": "橋を再び渡る" },
+      { "en": "recross one's legs", "ja": "脚を組み替える" },
+      { "en": "recross the line", "ja": "線を引き直す" }
+    ],
+    "related": [
+      { "en": "cross", "ja": "横切る・渡る" },
+      { "en": "traverse", "ja": "横断する" },
+      { "en": "return", "ja": "戻る" },
+      { "en": "retrace", "ja": "引き返す・たどり直す" }
+    ],
+    "faq": [
+      { "q": "recross とはどんな意味？", "a": "川や道、国境などを『再び横切る・もう一度渡る』という意味です。They had to recross the river.（川を再び渡らねばならなかった）のように使います。" },
+      { "q": "recross と retrace の違いは？", "a": "recross は『（一度渡った所を）再び横切る』、retrace は『（来た道を）たどり直す・引き返す』点に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "They had to ___ the river to find the trail.（再び渡る）", "A": "recross", "B": "cross の最初に渡るだけ", "C": "across の横切って", "D": "crash の衝突する", "correct": "A" },
+      { "q": "recross のもとになった動詞はどれ？", "A": "cross（横切る・渡る）", "B": "crash（衝突する）", "C": "crush（押しつぶす）", "D": "creep（はう）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "redecorate",
+    "pron": "ˌriːˈdɛkəreɪt",
+    "kana": "リデコレイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ decorate（飾る・装飾する）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "住まい・生活"],
+    "meaning_main": "模様替えする・内装をやり直す",
+    "description": "redecorate の意味・発音・例文・語源を解説。部屋や家を「模様替えする・内装をやり直す」という、住まいや生活で使う語の使い方を紹介します。",
+    "keywords": ["redecorate 意味", "redecorate 発音", "模様替えする", "decorate 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】模様替えする・内装をやり直す", "note": "部屋や家の壁紙・塗装・家具などを新しくする。redecorate the room（部屋を模様替えする）。名詞は redecoration。" }
+    ],
+    "usages": [
+      { "title": "① 「部屋を模様替えする」として", "desc": "内装を新しくすることを表します。", "example_en": "We decided to redecorate the living room this spring.", "example_ja": "私たちはこの春リビングを模様替えすることにした。" },
+      { "title": "② 「店を改装する」として", "desc": "店舗の内装をやり直すことを表します。", "example_en": "The café was redecorated in a retro style.", "example_ja": "そのカフェはレトロ調に改装された。" }
+    ],
+    "warn": [
+      "redecorate は『模様替えする・内装をやり直す』。re-（再び）＋ decorate。名詞は redecoration。",
+      "英国英語では壁の塗り替え・壁紙の貼り替えを指すことが多い。renovate（大規模改修）より軽い変更。"
+    ],
+    "etym_note": "re-（再び）＋ decorate（『飾る』、ラテン語 decorare「飾る」、decus「飾り・名誉」より）から成り、「再び飾ること」を意味します。decent（きちんとした）と同じ語根です。",
+    "etym_chain": [
+      { "node": "decorare", "sub": "飾る", "era": "ラテン語" },
+      { "node": "decorate", "sub": "飾る・装飾する", "era": "近代英語" },
+      { "node": "redecorate", "sub": "模様替えする", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "redecorate the room", "ja": "部屋を模様替えする" },
+      { "en": "redecorate the house", "ja": "家を改装する" },
+      { "en": "redecorate the office", "ja": "オフィスを模様替えする" },
+      { "en": "redecorate in a new style", "ja": "新しい様式に模様替えする" },
+      { "en": "completely redecorate", "ja": "全面的に模様替えする" },
+      { "en": "redecorate the bedroom", "ja": "寝室を模様替えする" }
+    ],
+    "related": [
+      { "en": "decorate", "ja": "飾る・装飾する" },
+      { "en": "redecoration", "ja": "模様替え・改装" },
+      { "en": "renovate", "ja": "改修する" },
+      { "en": "refurbish", "ja": "改装する・一新する" }
+    ],
+    "faq": [
+      { "q": "redecorate とはどんな意味？", "a": "部屋や家を『模様替えする・内装をやり直す』という意味です。We decided to redecorate the living room.（リビングを模様替えすることにした）のように使います。名詞は redecoration です。" },
+      { "q": "redecorate と renovate の違いは？", "a": "redecorate は壁紙・塗装・家具など『内装の見た目を新しくする』、renovate は構造を含む『大規模な改修』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "We decided to ___ the living room.（模様替えする）", "A": "redecorate", "B": "decorate の最初に飾るだけ", "C": "dedicate の捧げる", "D": "delicate の繊細な", "correct": "A" },
+      { "q": "redecorate のもとになった動詞はどれ？", "A": "decorate（飾る・装飾する）", "B": "dedicate（捧げる）", "C": "delegate（委任する）", "D": "demonstrate（示す）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "redeposit",
+    "pron": "ˌriːdɪˈpɒzɪt",
+    "kana": "リデポジット",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ deposit（預ける・堆積させる）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "金融・科学"],
+    "meaning_main": "再び預け入れる・再び堆積させる",
+    "description": "redeposit の意味・発音・例文・語源を解説。お金を「再び預け入れる」、土砂などを「再び堆積させる」という、金融や地学で使う語の使い方を紹介します。",
+    "keywords": ["redeposit 意味", "redeposit 発音", "再び預ける", "deposit 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再び預け入れる", "note": "引き出したお金を再び口座に入れる。redeposit the funds（資金を再び預け入れる）。" },
+      { "hinshi": "【動詞】再び堆積させる", "note": "地学で、運ばれた土砂などが別の場所に再び積もる。" }
+    ],
+    "usages": [
+      { "title": "① 金融「再び預け入れる」として", "desc": "再び口座に入れることを表します。", "example_en": "She redeposited the refunded amount into her savings.", "example_ja": "彼女は返金額を貯金口座に再び預け入れた。" },
+      { "title": "② 地学「再び堆積させる」として", "desc": "土砂などが再び積もることを表します。", "example_en": "The river redeposits sediment further downstream.", "example_ja": "その川は土砂を下流のさらに先に再び堆積させる。" }
+    ],
+    "warn": [
+      "redeposit は『再び預け入れる／再び堆積させる』。re-（再び）＋ deposit。",
+      "金融と地学の両方で使う。名詞でも『再預け入れ・再堆積物』を表す。"
+    ],
+    "etym_note": "re-（再び）＋ deposit（『預ける・置く』、ラテン語 deponere「下に置く」、de-「下へ」＋ ponere「置く」より）から成り、「再び（下に）置くこと」を意味します。position（位置）と同じ語根です。",
+    "etym_chain": [
+      { "node": "deponere", "sub": "下に置く", "era": "ラテン語" },
+      { "node": "deposit", "sub": "預ける・堆積させる", "era": "近代英語" },
+      { "node": "redeposit", "sub": "再び預ける", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "redeposit the funds", "ja": "資金を再び預け入れる" },
+      { "en": "redeposit the money", "ja": "お金を再び預ける" },
+      { "en": "redeposit the check", "ja": "小切手を再び預け入れる" },
+      { "en": "redeposit sediment", "ja": "土砂を再び堆積させる" },
+      { "en": "redeposit into the account", "ja": "口座に再び入れる" },
+      { "en": "redeposit the deposit", "ja": "保証金を再び預ける" }
+    ],
+    "related": [
+      { "en": "deposit", "ja": "預ける・堆積させる" },
+      { "en": "withdraw", "ja": "引き出す" },
+      { "en": "deposition", "ja": "堆積・沈着" },
+      { "en": "reinvest", "ja": "再投資する" }
+    ],
+    "faq": [
+      { "q": "redeposit とはどんな意味？", "a": "お金を『再び預け入れる』、または土砂などを『再び堆積させる』という意味です。She redeposited the refund.（返金を再び預け入れた）のように使います。" },
+      { "q": "redeposit はどんな分野で使う？", "a": "金融（口座への再預け入れ）と地学（堆積物の再堆積）の二つの分野でよく使われます。文脈で意味が決まります。" }
+    ],
+    "quiz": [
+      { "q": "She ___ed the refund into her savings.（再び預け入れた）", "A": "redeposit", "B": "deposit の最初に預けるだけ", "C": "deposition の証言", "D": "dispose の処分する", "correct": "A" },
+      { "q": "redeposit のもとになった動詞はどれ？", "A": "deposit（預ける・堆積させる）", "B": "dispose（処分する）", "C": "display（展示する）", "D": "dispute（論争する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rediscount",
+    "pron": "ˌriːˈdɪskaʊnt",
+    "kana": "リディスカウント",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ discount（割り引く・手形を割り引く）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "金融・専門"],
+    "meaning_main": "再割引する・再割引",
+    "description": "rediscount の意味・発音・例文・語源を解説。銀行がすでに割り引いた手形を中央銀行などが「再割引する」という、金融専門で使う語の使い方を紹介します。",
+    "keywords": ["rediscount 意味", "rediscount 発音", "再割引", "discount 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再割引する", "note": "市中銀行が割り引いた手形を、中央銀行がさらに割り引いて買い取る。金融の専門用語。" },
+      { "hinshi": "【名詞】再割引", "note": "rediscount rate は『再割引率（公定歩合）』。" }
+    ],
+    "usages": [
+      { "title": "① 金融「手形を再割引する」として", "desc": "中央銀行が手形をさらに割り引くことを表します。", "example_en": "The central bank may rediscount commercial bills held by banks.", "example_ja": "中央銀行は銀行が保有する商業手形を再割引することがある。" },
+      { "title": "② 名詞「再割引率」として", "desc": "再割引の利率を表します。", "example_en": "Changes in the rediscount rate affect lending across the economy.", "example_ja": "再割引率の変動は経済全体の貸し出しに影響する。" }
+    ],
+    "warn": [
+      "rediscount は金融の専門語で『（手形を）再割引する』。re-（再び）＋ discount。",
+      "rediscount rate は伝統的に『公定歩合』と訳されることがある。"
+    ],
+    "etym_note": "re-（再び）＋ discount（『割り引く』、中世ラテン語 discomputare「差し引いて計算する」、dis-「離す」＋ computare「計算する」より）から成り、「再び割り引くこと」を意味します。compute（計算する）と同じ語根です。",
+    "etym_chain": [
+      { "node": "discomputare", "sub": "差し引いて計算する", "era": "中世ラテン語" },
+      { "node": "discount", "sub": "割り引く", "era": "近代英語" },
+      { "node": "rediscount", "sub": "再割引する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rediscount a bill", "ja": "手形を再割引する" },
+      { "en": "rediscount rate", "ja": "再割引率・公定歩合" },
+      { "en": "rediscount commercial paper", "ja": "商業手形を再割引する" },
+      { "en": "the central bank rediscounts", "ja": "中央銀行が再割引する" },
+      { "en": "rediscount policy", "ja": "再割引政策" },
+      { "en": "rediscount window", "ja": "再割引窓口" }
+    ],
+    "related": [
+      { "en": "discount", "ja": "割り引く" },
+      { "en": "bill", "ja": "手形" },
+      { "en": "central bank", "ja": "中央銀行" },
+      { "en": "interest rate", "ja": "金利" }
+    ],
+    "faq": [
+      { "q": "rediscount とはどんな意味？", "a": "市中銀行がすでに割り引いた手形を、中央銀行などがさらに割り引いて買い取る『再割引する』という金融用語です。rediscount rate は『再割引率（公定歩合）』を指します。" },
+      { "q": "rediscount rate と公定歩合の関係は？", "a": "中央銀行が手形を再割引する際の利率が rediscount rate で、日本では伝統的に『公定歩合』と呼ばれてきた金利に相当します。" }
+    ],
+    "quiz": [
+      { "q": "The central bank may ___ commercial bills.（再割引する）", "A": "rediscount", "B": "discount の単に値引きするだけ", "C": "discourse の談話", "D": "discover の発見する", "correct": "A" },
+      { "q": "rediscount のもとになった語はどれ？", "A": "discount（割り引く）", "B": "discover（発見する）", "C": "discuss（議論する）", "D": "discard（捨てる）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reembark",
+    "pron": "ˌriːɪmˈbɑːk",
+    "kana": "リエンバーク",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ embark（乗船する・着手する）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "旅行・文章"],
+    "meaning_main": "再び乗船する・再び着手する",
+    "description": "reembark の意味・発音・例文・語源を解説。船や飛行機に「再び乗り込む」、計画などに「改めて乗り出す」という語の使い方を紹介します。",
+    "keywords": ["reembark 意味", "reembark 発音", "再び乗船する", "embark 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再び乗船する・再び乗り込む", "note": "一度降りた船・飛行機に再び乗る。reembark the ship（船に再び乗り込む）。re-embark と綴ることもある。" },
+      { "hinshi": "【動詞】再び着手する・改めて乗り出す", "note": "embark on（〜に乗り出す）と同様、計画・事業に再び取りかかる。" }
+    ],
+    "usages": [
+      { "title": "① 「船に再び乗り込む」として", "desc": "再度乗船することを表します。", "example_en": "Passengers reembarked after the brief stop at the island.", "example_ja": "乗客は島での短い停泊のあと再び乗船した。" },
+      { "title": "② 「再び乗り出す」として", "desc": "事業や計画に改めて取りかかることを表します。", "example_en": "The company reembarked on its expansion plan.", "example_ja": "その会社は拡大計画に再び乗り出した。" }
+    ],
+    "warn": [
+      "reembark は『再び乗船する／再び着手する』。re-（再び）＋ embark。re-embark とも綴る。",
+      "『着手する』の意味では reembark on ... と on を伴うことが多い。"
+    ],
+    "etym_note": "re-（再び）＋ embark（『乗船する』、フランス語 embarquer、en-「中へ」＋ barque「小舟」より）から成り、「再び舟に乗ること」を意味します。barge（はしけ）と同じ語根です。",
+    "etym_chain": [
+      { "node": "barque", "sub": "小舟", "era": "古フランス語" },
+      { "node": "embark", "sub": "乗船する・着手する", "era": "近代英語" },
+      { "node": "reembark", "sub": "再び乗船する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reembark the ship", "ja": "船に再び乗り込む" },
+      { "en": "reembark on the journey", "ja": "旅に再び乗り出す" },
+      { "en": "reembark the troops", "ja": "部隊を再び乗船させる" },
+      { "en": "reembark on a plan", "ja": "計画に再び着手する" },
+      { "en": "reembark passengers", "ja": "乗客を再び乗せる" },
+      { "en": "reembark after the stop", "ja": "停泊のあと再び乗船する" }
+    ],
+    "related": [
+      { "en": "embark", "ja": "乗船する・着手する" },
+      { "en": "disembark", "ja": "下船する" },
+      { "en": "board", "ja": "乗り込む" },
+      { "en": "resume", "ja": "再開する" }
+    ],
+    "faq": [
+      { "q": "reembark とはどんな意味？", "a": "船や飛行機に『再び乗り込む』、または計画・事業に『改めて乗り出す』という意味です。Passengers reembarked after the stop.（乗客は停泊後に再び乗船した）のように使います。" },
+      { "q": "reembark と disembark の違いは？", "a": "disembark は『下船・下車する』、reembark は『再び乗り込む』で正反対の動きを表します。embark（乗り込む）が共通の語根です。" }
+    ],
+    "quiz": [
+      { "q": "Passengers ___ed after the brief stop.（再び乗船した）", "A": "reembark", "B": "disembark の下船する", "C": "embargo の通商禁止", "D": "embrace の抱きしめる", "correct": "A" },
+      { "q": "reembark のもとになった動詞はどれ？", "A": "embark（乗船する・着手する）", "B": "embrace（抱きしめる）", "C": "emerge（現れる）", "D": "embed（埋め込む）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reenlist",
+    "pron": "ˌriːɪnˈlɪst",
+    "kana": "リエンリスト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ enlist（入隊する・協力を得る）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "軍事・一般"],
+    "meaning_main": "再入隊する・再び加わる",
+    "description": "reenlist の意味・発音・例文・語源を解説。兵役の任期を終えた人が「再入隊する」、仲間として「再び加わる」という語の使い方を紹介します。",
+    "keywords": ["reenlist 意味", "reenlist 発音", "再入隊する", "enlist 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再入隊する", "note": "任期満了後に再び軍に入る。reenlist in the army（陸軍に再入隊する）。re-enlist とも綴る。名詞は reenlistment。" }
+    ],
+    "usages": [
+      { "title": "① 「再入隊する」として", "desc": "任期後に再び軍務に就くことを表します。", "example_en": "He decided to reenlist for another four years.", "example_ja": "彼はもう4年間、再入隊することにした。" },
+      { "title": "② 比喩「再び加わる」として", "desc": "活動などに改めて参加することを表します。", "example_en": "Several volunteers reenlisted for the next campaign.", "example_ja": "数人のボランティアが次のキャンペーンに再び加わった。" }
+    ],
+    "warn": [
+      "reenlist は『再入隊する』。re-（再び）＋ enlist。re-enlist とも綴る。名詞は reenlistment。",
+      "enlist は『（軍に）入隊する』のほか『（人の協力を）得る』意味もある。"
+    ],
+    "etym_note": "re-（再び）＋ enlist（en-「〜にする」＋ list「名簿」）から成り、「再び名簿に載ること＝再入隊」を意味します。list（一覧）と同じ語根です。",
+    "etym_chain": [
+      { "node": "list", "sub": "名簿・一覧", "era": "古英語系" },
+      { "node": "enlist", "sub": "入隊する", "era": "近代英語" },
+      { "node": "reenlist", "sub": "再入隊する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reenlist in the army", "ja": "陸軍に再入隊する" },
+      { "en": "reenlist for four years", "ja": "4年間再入隊する" },
+      { "en": "decide to reenlist", "ja": "再入隊を決める" },
+      { "en": "reenlistment bonus", "ja": "再入隊手当" },
+      { "en": "reenlist after discharge", "ja": "除隊後に再入隊する" },
+      { "en": "reenlist for service", "ja": "再び任務に就く" }
+    ],
+    "related": [
+      { "en": "enlist", "ja": "入隊する・協力を得る" },
+      { "en": "reenlistment", "ja": "再入隊" },
+      { "en": "recruit", "ja": "募集する・新兵" },
+      { "en": "discharge", "ja": "除隊する" }
+    ],
+    "faq": [
+      { "q": "reenlist とはどんな意味？", "a": "兵役の任期を終えた人が『再入隊する』という意味です。He decided to reenlist for another four years.（もう4年再入隊することにした）のように使います。名詞は reenlistment です。" },
+      { "q": "reenlist と recruit の違いは？", "a": "reenlist は『（経験者が任期後に）自ら再び入隊する』、recruit は『（組織が新たに人を）募集・採用する』点で立場が異なります。" }
+    ],
+    "quiz": [
+      { "q": "He decided to ___ for another four years.（再入隊する）", "A": "reenlist", "B": "enlist の最初に入隊するだけ", "C": "enrich の豊かにする", "D": "enroll の登録する", "correct": "A" },
+      { "q": "reenlist のもとになった動詞はどれ？", "A": "enlist（入隊する）", "B": "enroll（登録する）", "C": "engage（従事する）", "D": "enable（可能にする）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reequip",
+    "pron": "ˌriːɪˈkwɪp",
+    "kana": "リイクイップ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ equip（装備する・備え付ける）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "軍事・産業"],
+    "meaning_main": "再び装備する・装備を一新する",
+    "description": "reequip の意味・発音・例文・語源を解説。軍隊や工場、人を「再び装備する・新しい設備や道具を備えさせる」という語の使い方を紹介します。",
+    "keywords": ["reequip 意味", "reequip 発音", "再装備する", "equip 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再び装備する・装備を一新する", "note": "新しい設備・道具・装備を備え付ける。reequip the factory（工場の設備を一新する）。re-equip とも綴る。" }
+    ],
+    "usages": [
+      { "title": "① 産業「設備を一新する」として", "desc": "新しい機械を備えることを表します。", "example_en": "The plant was reequipped with modern machinery.", "example_ja": "その工場は最新の機械で設備を一新された。" },
+      { "title": "② 軍事「再武装する」として", "desc": "新しい装備を部隊に備えることを表します。", "example_en": "The unit was reequipped before the next deployment.", "example_ja": "その部隊は次の派遣の前に再装備された。" }
+    ],
+    "warn": [
+      "reequip は『再び装備する・装備を一新する』。re-（再び）＋ equip。re-equip とも綴る。",
+      "equip A with B（AにBを備え付ける）の形で reequip A with B も使う。"
+    ],
+    "etym_note": "re-（再び）＋ equip（『装備する』、フランス語 équiper、おそらく古ノルド語 skipa「整える・船を整える」より）から成り、「再び（船・人を）整え装備すること」を意味します。ship（船）と語源的につながります。",
+    "etym_chain": [
+      { "node": "skipa", "sub": "整える・船を整える", "era": "古ノルド語" },
+      { "node": "equip", "sub": "装備する", "era": "近代英語" },
+      { "node": "reequip", "sub": "再び装備する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reequip the factory", "ja": "工場の設備を一新する" },
+      { "en": "reequip the army", "ja": "軍を再装備する" },
+      { "en": "reequip with new tools", "ja": "新しい道具を備える" },
+      { "en": "reequip the laboratory", "ja": "実験室を新しく整える" },
+      { "en": "fully reequip", "ja": "全面的に装備し直す" },
+      { "en": "reequip the fleet", "ja": "艦隊を再装備する" }
+    ],
+    "related": [
+      { "en": "equip", "ja": "装備する・備え付ける" },
+      { "en": "equipment", "ja": "装備・設備" },
+      { "en": "rearm", "ja": "再武装する" },
+      { "en": "upgrade", "ja": "性能を高める" }
+    ],
+    "faq": [
+      { "q": "reequip とはどんな意味？", "a": "軍隊や工場、人に『新しい設備・道具・装備を再び備え付ける』という意味です。The plant was reequipped with modern machinery.（工場は最新機械で設備を一新された）のように使います。" },
+      { "q": "reequip と upgrade の違いは？", "a": "reequip は『（設備・装備一式を）新しく備え直す』、upgrade は『（既存のものの）性能・等級を上げる』点に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The plant was ___ped with modern machinery.（設備を一新された）", "A": "reequip", "B": "equip の最初に備えるだけ", "C": "equal の等しい", "D": "equate の同一視する", "correct": "A" },
+      { "q": "reequip のもとになった動詞はどれ？", "A": "equip（装備する）", "B": "equate（同一視する）", "C": "equal（等しくする）", "D": "esquire（郷士）", "correct": "A" }
+    ]
+  }
+]
