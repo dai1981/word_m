@@ -1,0 +1,522 @@
+[
+  {
+    "english": "roommate",
+    "pron": "ˈruːmmeɪt",
+    "kana": "ルームメイト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "room（部屋）＋ mate（仲間）",
+    "ld_level": "準1級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "日常・生活"],
+    "meaning_main": "ルームメイト・同居人",
+    "description": "roommate の意味・発音・例文・語源を解説。部屋や住居を共有して一緒に暮らす相手「ルームメイト・同居人」という、日常生活で使う語の使い方を紹介します。",
+    "keywords": ["roommate 意味", "roommate 発音", "ルームメイト", "同居人"],
+    "meanings": [
+      { "hinshi": "【名詞】ルームメイト・同居人", "note": "同じ部屋・住居を共有して暮らす相手。寮や学生のシェア生活で特によく使う。英国では flatmate / housemate も使う。" }
+    ],
+    "usages": [
+      { "title": "① 「寮の同室者」として", "desc": "同居する相手を表します。", "example_en": "My college roommate became a lifelong friend.", "example_ja": "大学のルームメイトは生涯の友になった。" },
+      { "title": "② 「家賃を分け合う相手」として", "desc": "シェア生活を表します。", "example_en": "We split the rent with our roommates.", "example_ja": "私たちはルームメイトと家賃を分け合った。" }
+    ],
+    "warn": [
+      "roommate は『ルームメイト・同居人』。room（部屋）＋ mate（仲間）。",
+      "アメリカで一般的。英国では flatmate（アパートの同居人）や housemate（家の同居人）もよく使う。"
+    ],
+    "etym_note": "room（『部屋』、古英語 rūm「広い場所」より）＋ mate（『仲間・連れ』、中低ドイツ語 mate「食事を共にする者」より）から成り、「部屋を共にする仲間」を意味します。teammate（チームの仲間）と同じ mate です。",
+    "etym_chain": [
+      { "node": "rūm + mate", "sub": "部屋＋仲間", "era": "英語" },
+      { "node": "roommate", "sub": "部屋を共にする人", "era": "近代英語" },
+      { "node": "roommate", "sub": "ルームメイト・同居人", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "my college roommate", "ja": "大学のルームメイト" },
+      { "en": "a new roommate", "ja": "新しい同居人" },
+      { "en": "share a room with a roommate", "ja": "ルームメイトと部屋を共有する" },
+      { "en": "look for a roommate", "ja": "ルームメイトを探す" },
+      { "en": "split rent with roommates", "ja": "ルームメイトと家賃を分ける" },
+      { "en": "a former roommate", "ja": "かつてのルームメイト" }
+    ],
+    "related": [
+      { "en": "flatmate", "ja": "（英）アパートの同居人" },
+      { "en": "housemate", "ja": "家の同居人" },
+      { "en": "dorm", "ja": "寮" },
+      { "en": "tenant", "ja": "借家人" }
+    ],
+    "faq": [
+      { "q": "roommate とはどんな意味？", "a": "同じ部屋や住居を共有して暮らす相手『ルームメイト・同居人』のことです。My college roommate became a lifelong friend.（大学のルームメイトが生涯の友になった）のように使います。" },
+      { "q": "roommate と flatmate の違いは？", "a": "意味はほぼ同じ『同居人』ですが、roommate は主にアメリカ英語、flatmate（アパートの同居人）や housemate（家の同居人）は主にイギリス英語で使われます。" }
+    ],
+    "quiz": [
+      { "q": "My college ___ became a lifelong friend.（ルームメイト）", "A": "roommate", "B": "teammate のチームメイト", "C": "classmate のクラスメート", "D": "checkmate のチェックメイト", "correct": "A" },
+      { "q": "roommate は何と何を合わせた語？", "A": "room（部屋）と mate（仲間）", "B": "room と meet", "C": "roof と mate", "D": "root と mate", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rosebush",
+    "pron": "ˈrəʊzbʊʃ",
+    "kana": "ローズブッシュ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rose（バラ）＋ bush（低木）",
+    "ld_level": "準1級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "日常・園芸"],
+    "meaning_main": "バラの木・バラの茂み",
+    "description": "rosebush の意味・発音・例文・語源を解説。バラが茂る低木「バラの木・バラの茂み」という、園芸や日常で使う語の使い方を紹介します。",
+    "keywords": ["rosebush 意味", "rosebush 発音", "バラの木", "rose 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】バラの木・バラの茂み", "note": "バラの花をつける低木（やぶ状の株）。rose（バラ）＋ bush（低木）。a climbing rosebush（つるバラ）。" }
+    ],
+    "usages": [
+      { "title": "① 「庭のバラの木」として", "desc": "バラの株を表します。", "example_en": "She planted a rosebush by the front gate.", "example_ja": "彼女は正門のそばにバラの木を植えた。" },
+      { "title": "② 「バラの茂み」として", "desc": "茂ったバラを表します。", "example_en": "The old rosebush was covered in red blooms.", "example_ja": "その古いバラの木は赤い花で覆われていた。" }
+    ],
+    "warn": [
+      "rosebush は『バラの木・バラの茂み』。rose（バラ）＋ bush（低木）。",
+      "一本立ちの『木』というより、株立ち・やぶ状のバラを指す。"
+    ],
+    "etym_note": "rose（『バラ』、ラテン語 rosa より）＋ bush（『低木・やぶ』、中英語 busch より）から成り、「バラの低木」を意味します。",
+    "etym_chain": [
+      { "node": "rosa + bush", "sub": "バラ＋低木", "era": "英語" },
+      { "node": "rosebush", "sub": "バラの低木", "era": "近代英語" },
+      { "node": "rosebush", "sub": "バラの木・バラの茂み", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "plant a rosebush", "ja": "バラの木を植える" },
+      { "en": "prune the rosebush", "ja": "バラの木を剪定する" },
+      { "en": "a climbing rosebush", "ja": "つるバラ" },
+      { "en": "a thorny rosebush", "ja": "とげのあるバラの木" },
+      { "en": "a blooming rosebush", "ja": "花咲くバラの木" },
+      { "en": "behind the rosebush", "ja": "バラの茂みの陰に" }
+    ],
+    "related": [
+      { "en": "rose", "ja": "バラ" },
+      { "en": "bush", "ja": "低木・やぶ" },
+      { "en": "shrub", "ja": "低木・かん木" },
+      { "en": "thorn", "ja": "とげ" }
+    ],
+    "faq": [
+      { "q": "rosebush とはどんな意味？", "a": "バラの花をつける低木『バラの木・バラの茂み』のことです。She planted a rosebush by the gate.（門のそばにバラの木を植えた）のように使います。" },
+      { "q": "rosebush と rose の違いは？", "a": "rose は『バラ（の花そのもの）』、rosebush は『バラの株（低木）全体』を指します。花は rose、それをつける植物は rosebush です。" }
+    ],
+    "quiz": [
+      { "q": "She planted a ___ by the front gate.（バラの木）", "A": "rosebush", "B": "ambush の待ち伏せ", "C": "rosewood のローズウッド", "D": "rosebud のバラのつぼみ", "correct": "A" },
+      { "q": "rosebush は何と何を合わせた語？", "A": "rose（バラ）と bush（低木）", "B": "rose と push", "C": "rise と bush", "D": "rose と brush", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rainfall",
+    "pron": "ˈreɪnfɔːl",
+    "kana": "レインフォール",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rain（雨）＋ fall（降ること）",
+    "ld_level": "準1級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "気象・地理"],
+    "meaning_main": "降雨・降水量",
+    "description": "rainfall の意味・発音・例文・語源を解説。降る雨、また一定期間に降った雨の量「降雨・降水量」という、気象や地理で使う語の使い方を紹介します。",
+    "keywords": ["rainfall 意味", "rainfall 発音", "降雨", "降水量"],
+    "meanings": [
+      { "hinshi": "【名詞】降雨・降水量", "note": "降る雨、また一定の場所・期間に降った雨の総量。annual rainfall（年間降水量）。ミリメートルで表す。" }
+    ],
+    "usages": [
+      { "title": "① 「降水量」として", "desc": "雨の量を表します。", "example_en": "This region gets heavy rainfall in summer.", "example_ja": "この地域は夏に多くの降雨がある。" },
+      { "title": "② 「年間降水量」として", "desc": "統計値を表します。", "example_en": "The annual rainfall here is about 1,500 millimeters.", "example_ja": "ここの年間降水量はおよそ1500ミリだ。" }
+    ],
+    "warn": [
+      "rainfall は『降雨・降水量』。rain（雨）＋ fall（降ること）。",
+      "降った雨の量を指し、heavy / light rainfall（多い／少ない降雨）のように使う。"
+    ],
+    "etym_note": "rain（『雨』、古英語 regn より）＋ fall（『落ちること・降ること』、古英語 feallan「落ちる」より）から成り、「雨が降ること・降った量」を意味します。",
+    "etym_chain": [
+      { "node": "rain + fall", "sub": "雨＋落ちること", "era": "英語" },
+      { "node": "rainfall", "sub": "降雨", "era": "近代英語" },
+      { "node": "rainfall", "sub": "降雨・降水量", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "heavy rainfall", "ja": "多量の降雨" },
+      { "en": "annual rainfall", "ja": "年間降水量" },
+      { "en": "average rainfall", "ja": "平均降水量" },
+      { "en": "low rainfall", "ja": "少ない降水量" },
+      { "en": "record rainfall", "ja": "記録的な降雨" },
+      { "en": "rainfall totals", "ja": "降水量の合計" }
+    ],
+    "related": [
+      { "en": "rain", "ja": "雨" },
+      { "en": "precipitation", "ja": "降水" },
+      { "en": "downpour", "ja": "土砂降り" },
+      { "en": "drought", "ja": "干ばつ" }
+    ],
+    "faq": [
+      { "q": "rainfall とはどんな意味？", "a": "降る雨、また一定の場所・期間に降った雨の量『降雨・降水量』のことです。This region gets heavy rainfall in summer.（この地域は夏に多くの降雨がある）のように使います。" },
+      { "q": "rainfall と precipitation の違いは？", "a": "rainfall は『（液体の）雨の量』、precipitation は『雨・雪・あられなどを含む降水全般』です。雪も含めるときは precipitation を使います。" }
+    ],
+    "quiz": [
+      { "q": "This region gets heavy ___ in summer.（降雨）", "A": "rainfall", "B": "rainbow の虹", "C": "waterfall の滝", "D": "nightfall の日暮れ", "correct": "A" },
+      { "q": "rainfall は何と何を合わせた語？", "A": "rain（雨）と fall（降ること）", "B": "rain と full", "C": "rain と ball", "D": "rain と wall", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reimbursable",
+    "pron": "ˌriːɪmˈbɜːsəbəl",
+    "kana": "リインバーサブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "reimburse（弁済する）＋ -able（〜できる）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "ビジネス・会計"],
+    "meaning_main": "払い戻される・経費精算できる",
+    "description": "reimbursable の意味・発音・例文・語源を解説。立て替えた費用などが「払い戻される・経費精算できる」という、ビジネスや会計で使う語の使い方を紹介します。",
+    "keywords": ["reimbursable 意味", "reimbursable 発音", "経費精算できる", "reimburse 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】払い戻される・経費精算できる", "note": "立て替えた費用などが、あとで弁済・精算してもらえる。reimbursable expenses（精算可能な経費）。動詞は reimburse（弁済する・払い戻す）。" }
+    ],
+    "usages": [
+      { "title": "① 「精算できる経費」として", "desc": "立替金の返却を表します。", "example_en": "Travel costs are reimbursable with a receipt.", "example_ja": "旅費は領収書があれば精算できる。" },
+      { "title": "② 「会社負担」として", "desc": "費用の弁済を表します。", "example_en": "The training fee is fully reimbursable by the company.", "example_ja": "研修費は会社から全額払い戻される。" }
+    ],
+    "warn": [
+      "reimbursable は『払い戻される・経費精算できる』。reimburse（弁済する）＋ -able。",
+      "立て替えた費用を後で返してもらえる、というビジネス・会計の文脈で使う。"
+    ],
+    "etym_note": "reimburse（『弁済する・払い戻す』、re-＋ im-（中へ）＋ ラテン語 bursa「財布」より＝財布に戻す）＋ -able（『〜できる』）から成り、「財布に返せる＝払い戻せる」を意味します。purse（財布）や bursar（会計係）と同じ bursa の系統です。",
+    "etym_chain": [
+      { "node": "bursa", "sub": "財布", "era": "ラテン語" },
+      { "node": "reimburse", "sub": "弁済する・払い戻す", "era": "近代英語" },
+      { "node": "reimbursable", "sub": "払い戻される", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reimbursable expenses", "ja": "精算可能な経費" },
+      { "en": "fully reimbursable", "ja": "全額払い戻される" },
+      { "en": "reimbursable costs", "ja": "弁済される費用" },
+      { "en": "a reimbursable trip", "ja": "経費精算できる出張" },
+      { "en": "reimbursable with a receipt", "ja": "領収書があれば精算できる" },
+      { "en": "non-reimbursable", "ja": "精算できない" }
+    ],
+    "related": [
+      { "en": "reimburse", "ja": "弁済する・払い戻す" },
+      { "en": "reimbursement", "ja": "弁済・払い戻し" },
+      { "en": "expense", "ja": "経費・費用" },
+      { "en": "refundable", "ja": "返金できる" }
+    ],
+    "faq": [
+      { "q": "reimbursable とはどんな意味？", "a": "立て替えた費用などが、あとで『払い戻される・経費精算できる』という意味の形容詞です。Travel costs are reimbursable with a receipt.（旅費は領収書があれば精算できる）のように使います。動詞は reimburse です。" },
+      { "q": "reimbursable と refundable の違いは？", "a": "reimbursable は『（立て替えた費用を）あとで弁済・精算してもらえる』、refundable は『（支払った代金が）払い戻される』に重点があります。どちらもお金が戻る点は共通です。" }
+    ],
+    "quiz": [
+      { "q": "Travel costs are ___ with a receipt.（精算できる）", "A": "reimbursable", "B": "remarkable の注目すべき", "C": "reasonable の妥当な", "D": "removable の取り外せる", "correct": "A" },
+      { "q": "reimbursable のもとになった動詞はどれ？", "A": "reimburse（弁済する）", "B": "remember（思い出す）", "C": "remind（思い出させる）", "D": "remove（取り除く）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "repayable",
+    "pron": "rɪˈpeɪəbəl",
+    "kana": "リペイアブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "repay（返済する）＋ -able（〜できる・すべき）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "金融・契約"],
+    "meaning_main": "返済すべき・返済できる",
+    "description": "repayable の意味・発音・例文・語源を解説。借りたお金などが「返済すべき・返済できる」という、金融や契約で使う語の使い方を紹介します。返済条件の表現も解説。",
+    "keywords": ["repayable 意味", "repayable 発音", "返済すべき", "repay 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】返済すべき・返済できる", "note": "借りたお金やローンを返さなければならない、または返せる。repayable over five years（5年で返済すべき）。動詞は repay。" }
+    ],
+    "usages": [
+      { "title": "① 「返済条件」として", "desc": "返済の期間を表します。", "example_en": "The loan is repayable over ten years.", "example_ja": "そのローンは10年で返済することになっている。" },
+      { "title": "② 「返済すべき額」として", "desc": "返済義務を表します。", "example_en": "The grant is not repayable, unlike a loan.", "example_ja": "その補助金はローンと違って返済不要だ。" }
+    ],
+    "warn": [
+      "repayable は『返済すべき・返済できる』。repay（返済する）＋ -able。",
+      "ローン・借入の文脈でよく使う。repayable over ...（〜にわたって返済すべき）。"
+    ],
+    "etym_note": "repay（re-「再び・戻して」＋ pay「支払う」、古フランス語 paier、ラテン語 pacare「なだめる・満足させる」より）＋ -able（『〜できる・すべき』）から成り、「返して支払うべき」を意味します。pay（支払う）や peace（平和）と同じ pacare の系統です。",
+    "etym_chain": [
+      { "node": "pacare", "sub": "なだめる・満足させる", "era": "ラテン語" },
+      { "node": "repay", "sub": "返済する", "era": "中英語" },
+      { "node": "repayable", "sub": "返済すべき", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "repayable over five years", "ja": "5年で返済すべき" },
+      { "en": "a repayable loan", "ja": "返済すべきローン" },
+      { "en": "repayable on demand", "ja": "要求次第返済すべき" },
+      { "en": "not repayable", "ja": "返済不要の" },
+      { "en": "repayable in installments", "ja": "分割で返済できる" },
+      { "en": "interest-free and repayable", "ja": "無利子で返済すべき" }
+    ],
+    "related": [
+      { "en": "repay", "ja": "返済する" },
+      { "en": "repayment", "ja": "返済" },
+      { "en": "loan", "ja": "ローン・貸付" },
+      { "en": "installment", "ja": "分割払いの一回分" }
+    ],
+    "faq": [
+      { "q": "repayable とはどんな意味？", "a": "借りたお金やローンが『返済すべき・返済できる』という意味の形容詞です。The loan is repayable over ten years.（そのローンは10年で返済する）のように使います。動詞は repay です。" },
+      { "q": "「not repayable」とはどういうこと？", "a": "『返済不要』という意味です。例えば返済義務のある loan（ローン）と違い、grant（補助金）は not repayable（返さなくてよい）であることが多いです。" }
+    ],
+    "quiz": [
+      { "q": "The loan is ___ over ten years.（返済すべき）", "A": "repayable", "B": "readable の読みやすい", "C": "reachable の連絡がつく", "D": "reusable の再利用できる", "correct": "A" },
+      { "q": "repayable のもとになった動詞はどれ？", "A": "repay（返済する）", "B": "replay（再生する）", "C": "repair（修理する）", "D": "repeat（繰り返す）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "regretfully",
+    "pron": "rɪˈɡrɛtfəli",
+    "kana": "リグレットフリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "regretful（残念に思う）＋ -ly",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "一般・フォーマル"],
+    "meaning_main": "残念ながら・心残りに思いつつ",
+    "description": "regretfully の意味・発音・例文・語源を解説。残念な気持ちを込めて「残念ながら・心残りに思いつつ」という、フォーマルな場面で使う副詞の使い方と、regrettably との違いを紹介します。",
+    "keywords": ["regretfully 意味", "regretfully 発音", "残念ながら", "regret 意味"],
+    "meanings": [
+      { "hinshi": "【副詞】残念に思いつつ・心残りに", "note": "（主語の人が）残念な気持ちを抱きながら。regretfully decline（残念に思いつつ辞退する）。本来は『（人が）残念がって』の意味。" }
+    ],
+    "usages": [
+      { "title": "① 「残念に思いつつ」として", "desc": "心残りの気持ちを表します。", "example_en": "She regretfully turned down the offer.", "example_ja": "彼女は残念に思いつつその申し出を断った。" },
+      { "title": "② 「別れを惜しんで」として", "desc": "名残惜しさを表します。", "example_en": "He regretfully said goodbye to his colleagues.", "example_ja": "彼は名残惜しそうに同僚に別れを告げた。" }
+    ],
+    "warn": [
+      "regretfully は本来『（人が）残念に思いつつ』。文全体を修飾する『残念ながら（＝あいにく）』には regrettably が正式とされる。",
+      "ただし日常では regretfully を『残念ながら』の意味で使うことも多い。"
+    ],
+    "etym_note": "regret（『後悔する・残念に思う』、古フランス語 regreter「嘆く」より）＋ -ful（『〜に満ちた』）＋ -ly（副詞語尾）から成り、「残念な気持ちを抱いて」を意味します。",
+    "etym_chain": [
+      { "node": "regreter", "sub": "嘆く", "era": "古フランス語" },
+      { "node": "regret", "sub": "後悔する・残念に思う", "era": "中英語" },
+      { "node": "regretfully", "sub": "残念に思いつつ", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "regretfully decline", "ja": "残念に思いつつ辞退する" },
+      { "en": "regretfully say goodbye", "ja": "名残惜しく別れを告げる" },
+      { "en": "regretfully inform you", "ja": "残念ながらお知らせする" },
+      { "en": "shake one's head regretfully", "ja": "残念そうに首を振る" },
+      { "en": "regretfully accept", "ja": "残念に思いつつ受け入れる" },
+      { "en": "smile regretfully", "ja": "残念そうにほほえむ" }
+    ],
+    "related": [
+      { "en": "regret", "ja": "後悔・残念に思う" },
+      { "en": "regrettably", "ja": "残念ながら・あいにく" },
+      { "en": "reluctantly", "ja": "いやいや・しぶしぶ" },
+      { "en": "sadly", "ja": "悲しいことに" }
+    ],
+    "faq": [
+      { "q": "regretfully とはどんな意味？", "a": "残念な気持ちを抱きながら『残念に思いつつ・心残りに』という意味の副詞です。She regretfully turned down the offer.（残念に思いつつ申し出を断った）のように使います。" },
+      { "q": "regretfully と regrettably の違いは？", "a": "regretfully は本来『（人が）残念がって』、regrettably は『（残念なことに＝あいにく）』と文全体を修飾します。厳密には『残念ながら』には regrettably が適切とされます。" }
+    ],
+    "quiz": [
+      { "q": "She ___ turned down the offer.（残念に思いつつ）", "A": "regretfully", "B": "gratefully の感謝して", "C": "carefully の注意深く", "D": "cheerfully の陽気に", "correct": "A" },
+      { "q": "regretfully のもとになった語はどれ？", "A": "regret（後悔・残念に思う）", "B": "regard（みなす）", "C": "register（登録する）", "D": "regular（規則的な）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "replaceable",
+    "pron": "rɪˈpleɪsəbəl",
+    "kana": "リプレイサブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "replace（取り替える）＋ -able（〜できる）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "一般・日常"],
+    "meaning_main": "取り替えられる・代わりがきく",
+    "description": "replaceable の意味・発音・例文・語源を解説。部品や人などが「取り替えられる・代わりがきく」という、日常やビジネスで使う語の使い方と、反対の irreplaceable を紹介します。",
+    "keywords": ["replaceable 意味", "replaceable 発音", "取り替えられる", "replace 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】取り替えられる・代わりがきく", "note": "新しいものや別のものと交換できる、代わりが見つかる。replaceable parts（交換できる部品）。反対は irreplaceable（かけがえのない）。" }
+    ],
+    "usages": [
+      { "title": "① 「交換できる部品」として", "desc": "取り替え可能を表します。", "example_en": "The battery is easily replaceable.", "example_ja": "そのバッテリーは簡単に取り替えられる。" },
+      { "title": "② 「代わりがきく」として", "desc": "代替可能を表します。", "example_en": "No one on the team is truly replaceable.", "example_ja": "チームの誰一人として本当に代わりがきく者はいない。" }
+    ],
+    "warn": [
+      "replaceable は『取り替えられる・代わりがきく』。replace（取り替える）＋ -able。",
+      "反対は irreplaceable（取り替えのきかない・かけがえのない）。人について使うと『代わりがきく』とやや冷たい響きにもなる。"
+    ],
+    "etym_note": "replace（re-「再び・戻して」＋ place「置く」、ラテン語 platea「広場・通り」より）＋ -able（『〜できる』）から成り、「（別のものを）置き換えられる」を意味します。place（場所・置く）と同じ語根です。",
+    "etym_chain": [
+      { "node": "place", "sub": "場所・置く", "era": "古フランス語" },
+      { "node": "replace", "sub": "取り替える", "era": "近代英語" },
+      { "node": "replaceable", "sub": "取り替えられる", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "easily replaceable", "ja": "簡単に取り替えられる" },
+      { "en": "replaceable parts", "ja": "交換できる部品" },
+      { "en": "a replaceable battery", "ja": "交換できるバッテリー" },
+      { "en": "not replaceable", "ja": "取り替えのきかない" },
+      { "en": "a replaceable component", "ja": "交換可能な部品" },
+      { "en": "readily replaceable", "ja": "すぐ代わりがきく" }
+    ],
+    "related": [
+      { "en": "replace", "ja": "取り替える" },
+      { "en": "irreplaceable", "ja": "かけがえのない" },
+      { "en": "interchangeable", "ja": "交換可能な" },
+      { "en": "replacement", "ja": "交換・代わりのもの" }
+    ],
+    "faq": [
+      { "q": "replaceable とはどんな意味？", "a": "部品や人などが『取り替えられる・代わりがきく』という意味の形容詞です。The battery is easily replaceable.（バッテリーは簡単に取り替えられる）のように使います。反対は irreplaceable です。" },
+      { "q": "replaceable と irreplaceable の違いは？", "a": "replaceable は『取り替えられる・代わりがきく』、irreplaceable は『取り替えのきかない・かけがえのない』です。大切な人や物には irreplaceable を使います。" }
+    ],
+    "quiz": [
+      { "q": "The battery is easily ___.（取り替えられる）", "A": "replaceable", "B": "irreplaceable のかけがえのない", "C": "reasonable の妥当な", "D": "remarkable の注目すべき", "correct": "A" },
+      { "q": "replaceable の反対の意味の語はどれ？", "A": "irreplaceable（かけがえのない）", "B": "incredible（信じられない）", "C": "invisible（見えない）", "D": "inevitable（避けられない）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reportable",
+    "pron": "rɪˈpɔːtəbəl",
+    "kana": "リポータブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "report（報告する）＋ -able（〜すべき・できる）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "医療・法務"],
+    "meaning_main": "報告すべき・届け出を要する",
+    "description": "reportable の意味・発音・例文・語源を解説。法律や規則により当局へ「報告すべき・届け出を要する」という、医療や法務で使う語の使い方を紹介します。reportable disease などを解説。",
+    "keywords": ["reportable 意味", "reportable 発音", "報告すべき", "届け出を要する"],
+    "meanings": [
+      { "hinshi": "【形容詞】報告すべき・届け出を要する", "note": "法律・規則上、当局や上司に報告する義務がある。a reportable disease（届出が義務づけられた感染症）。a reportable incident（報告すべき事案）。" }
+    ],
+    "usages": [
+      { "title": "① 「届出感染症」として", "desc": "報告義務を表します。", "example_en": "Measles is a reportable disease in many countries.", "example_ja": "はしかは多くの国で届出が義務づけられた感染症だ。" },
+      { "title": "② 「報告すべき事案」として", "desc": "報告の義務を表します。", "example_en": "Any workplace injury is reportable to the authorities.", "example_ja": "職場でのけがはどんなものも当局へ報告しなければならない。" }
+    ],
+    "warn": [
+      "reportable は『報告すべき・届け出を要する』。report（報告する）＋ -able。",
+      "医療（届出感染症）、安全管理（報告事案）、税務（申告すべき所得）などで使う。"
+    ],
+    "etym_note": "report（『報告する』、ラテン語 reportare「持ち帰る・報じる」より）＋ -able（『〜すべき・できる』）から成り、「報告すべき」を意味します。portable（持ち運べる）や transport（輸送）と同じ portare の系統です。",
+    "etym_chain": [
+      { "node": "reportare", "sub": "持ち帰る・報じる", "era": "ラテン語" },
+      { "node": "report", "sub": "報告する", "era": "中英語" },
+      { "node": "reportable", "sub": "報告すべき", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a reportable disease", "ja": "届出が義務づけられた感染症" },
+      { "en": "a reportable incident", "ja": "報告すべき事案" },
+      { "en": "reportable to the authorities", "ja": "当局に報告すべき" },
+      { "en": "a reportable injury", "ja": "報告すべきけが" },
+      { "en": "reportable income", "ja": "申告すべき所得" },
+      { "en": "legally reportable", "ja": "法律上報告義務のある" }
+    ],
+    "related": [
+      { "en": "report", "ja": "報告する・報告" },
+      { "en": "notifiable", "ja": "届出を要する" },
+      { "en": "disclose", "ja": "開示する" },
+      { "en": "mandatory", "ja": "義務的な" }
+    ],
+    "faq": [
+      { "q": "reportable とはどんな意味？", "a": "法律や規則により当局や上司へ『報告すべき・届け出を要する』という意味の形容詞です。Measles is a reportable disease.（はしかは届出義務のある感染症だ）のように使います。" },
+      { "q": "reportable disease とは？", "a": "法律で当局（保健所など）への届け出が義務づけられた感染症のことです。流行の把握と対策のため、医師に報告義務があります。notifiable disease ともいいます。" }
+    ],
+    "quiz": [
+      { "q": "Measles is a ___ disease in many countries.（届け出を要する）", "A": "reportable", "B": "comfortable の快適な", "C": "portable の持ち運べる", "D": "remarkable の注目すべき", "correct": "A" },
+      { "q": "reportable のもとになった動詞はどれ？", "A": "report（報告する）", "B": "repair（修理する）", "C": "replace（取り替える）", "D": "repeat（繰り返す）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "resourcefully",
+    "pron": "rɪˈsɔːsfəli",
+    "kana": "リソースフリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "resourceful（機知に富んだ）＋ -ly",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "一般・称賛"],
+    "meaning_main": "機知に富んで・工夫して・臨機応変に",
+    "description": "resourcefully の意味・発音・例文・語源を解説。限られた手段で「機知に富んで・工夫して・臨機応変に」物事に対処する様子という副詞の使い方を紹介します。",
+    "keywords": ["resourcefully 意味", "resourcefully 発音", "工夫して", "resourceful 意味"],
+    "meanings": [
+      { "hinshi": "【副詞】機知に富んで・工夫して・臨機応変に", "note": "限られた資源や困難な状況で、知恵と工夫を働かせて対処する様子。形容詞 resourceful（機知に富んだ・やりくり上手な）の副詞形。" }
+    ],
+    "usages": [
+      { "title": "① 「工夫して対処する」として", "desc": "知恵を働かせる様子を表します。", "example_en": "She resourcefully fixed the engine with a hairpin.", "example_ja": "彼女はヘアピンで機転をきかせてエンジンを直した。" },
+      { "title": "② 「臨機応変に」として", "desc": "状況への適応を表します。", "example_en": "The team responded resourcefully to the crisis.", "example_ja": "チームは危機に臨機応変に対応した。" }
+    ],
+    "warn": [
+      "resourcefully は『機知に富んで・工夫して・臨機応変に』。resourceful（機知に富んだ）＋ -ly。",
+      "限られた手段でうまく対処する、ほめ言葉として使う。"
+    ],
+    "etym_note": "resource（『資源・手だて』、フランス語 ressource、ラテン語 resurgere「再び立ち上がる」より）＋ -ful（『〜に富んだ』）＋ -ly から成り、「手だてを豊かに使って」を意味します。source（源）と同じ surgere の系統です。",
+    "etym_chain": [
+      { "node": "resurgere", "sub": "再び立ち上がる", "era": "ラテン語" },
+      { "node": "resource", "sub": "資源・手だて", "era": "近代英語" },
+      { "node": "resourcefully", "sub": "機知に富んで・工夫して", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "respond resourcefully", "ja": "臨機応変に対応する" },
+      { "en": "deal resourcefully with ...", "ja": "〜にうまく対処する" },
+      { "en": "act resourcefully", "ja": "機転をきかせて動く" },
+      { "en": "resourcefully improvise", "ja": "工夫して間に合わせる" },
+      { "en": "solve it resourcefully", "ja": "機知を働かせて解決する" },
+      { "en": "cope resourcefully", "ja": "工夫して切り抜ける" }
+    ],
+    "related": [
+      { "en": "resourceful", "ja": "機知に富んだ・やりくり上手な" },
+      { "en": "resource", "ja": "資源・手だて" },
+      { "en": "ingeniously", "ja": "巧妙に・独創的に" },
+      { "en": "cleverly", "ja": "賢く・巧みに" }
+    ],
+    "faq": [
+      { "q": "resourcefully とはどんな意味？", "a": "限られた手段や困難な状況で『機知に富んで・工夫して・臨機応変に』対処する様子を表す副詞です。She resourcefully fixed the engine with a hairpin.（ヘアピンで機転をきかせてエンジンを直した）のように使います。" },
+      { "q": "resourcefully はほめ言葉？", "a": "はい。少ない手段でも知恵と工夫でうまく対処する様子を表す、前向きでほめる意味合いの語です。形容詞 resourceful（やりくり上手な）の副詞形です。" }
+    ],
+    "quiz": [
+      { "q": "The team responded ___ to the crisis.（臨機応変に）", "A": "resourcefully", "B": "carelessly の不注意に", "C": "reluctantly のいやいや", "D": "hopelessly の絶望的に", "correct": "A" },
+      { "q": "resourcefully のもとになった形容詞はどれ？", "A": "resourceful（機知に富んだ）", "B": "respectful（敬意のある）", "C": "resentful（恨んでいる）", "D": "restful（落ち着いた）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "removalist",
+    "pron": "rɪˈmuːvəlɪst",
+    "kana": "リムーバリスト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "removal（移動・引っ越し）＋ -ist（する人）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "日常・豪英"],
+    "meaning_main": "（豪・口語）引っ越し業者",
+    "description": "removalist の意味・発音・例文・語源を解説。家具や荷物を運ぶ「引っ越し業者」という、オーストラリア英語で使う語の使い方と、英米での言い方の違いを紹介します。",
+    "keywords": ["removalist 意味", "removalist 発音", "引っ越し業者", "removal 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】（豪）引っ越し業者", "note": "家具や荷物を運んで引っ越しを手伝う業者・作業員。主にオーストラリア英語。英国では remover / removal company、米国では mover が一般的。" }
+    ],
+    "usages": [
+      { "title": "① 「引っ越し業者を頼む」として", "desc": "運送業者を表します。", "example_en": "We hired removalists to move the furniture.", "example_ja": "私たちは家具を運ぶため引っ越し業者を雇った。" },
+      { "title": "② 「作業」として", "desc": "荷物運びを表します。", "example_en": "The removalists carried the piano up three floors.", "example_ja": "引っ越し業者はピアノを3階まで運び上げた。" }
+    ],
+    "warn": [
+      "removalist は『（豪）引っ越し業者』。removal（移動・引っ越し）＋ -ist。",
+      "アメリカでは mover、イギリスでは remover / removal company が普通。オーストラリア特有の語。"
+    ],
+    "etym_note": "removal（『移動・撤去・引っ越し』、remove「動かす・移す」、ラテン語 removere「移し去る」より）＋ -ist（『〜する人』）から成り、「荷物を移動させる人」を意味します。move（動く・移す）と同じ movere の系統です。",
+    "etym_chain": [
+      { "node": "removere", "sub": "移し去る", "era": "ラテン語" },
+      { "node": "removal", "sub": "移動・引っ越し", "era": "近代英語" },
+      { "node": "removalist", "sub": "引っ越し業者", "era": "現代英語（豪）" }
+    ],
+    "phrases": [
+      { "en": "hire removalists", "ja": "引っ越し業者を雇う" },
+      { "en": "a removalist company", "ja": "引っ越し業者の会社" },
+      { "en": "book the removalists", "ja": "引っ越し業者を予約する" },
+      { "en": "the removalists arrived", "ja": "引っ越し業者が到着した" },
+      { "en": "professional removalists", "ja": "プロの引っ越し業者" },
+      { "en": "a removalist truck", "ja": "引っ越しトラック" }
+    ],
+    "related": [
+      { "en": "removal", "ja": "移動・引っ越し" },
+      { "en": "mover", "ja": "（米）引っ越し業者" },
+      { "en": "remove", "ja": "動かす・移す" },
+      { "en": "relocate", "ja": "移転する" }
+    ],
+    "faq": [
+      { "q": "removalist とはどんな意味？", "a": "家具や荷物を運んで引っ越しを手伝う『引っ越し業者』のことです。主にオーストラリア英語で使います。We hired removalists to move the furniture.（家具を運ぶため引っ越し業者を雇った）のように使います。" },
+      { "q": "removalist は英米でも使う？", "a": "removalist は主にオーストラリア英語です。アメリカでは mover、イギリスでは remover や removal company が一般的な言い方です。" }
+    ],
+    "quiz": [
+      { "q": "We hired ___s to move the furniture.（引っ越し業者）", "A": "removalist", "B": "novelist の小説家", "C": "specialist の専門家", "D": "journalist の記者", "correct": "A" },
+      { "q": "removalist は主にどの国の英語？", "A": "オーストラリア", "B": "カナダ", "C": "アイルランド", "D": "インド", "correct": "A" }
+    ]
+  }
+]
