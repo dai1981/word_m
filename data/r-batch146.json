@@ -1,0 +1,524 @@
+[
+  {
+    "english": "rattletrap",
+    "pron": "ˈrætəltræp",
+    "kana": "ラトルトラップ",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rattle（ガタガタ鳴る）＋ trap（馬車・道具）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "口語・描写"],
+    "meaning_main": "ガタガタの古い乗り物・おんぼろ車",
+    "description": "rattletrap の意味・発音・例文・語源を解説。今にも壊れそうな「ガタガタの古い乗り物・おんぼろ車」という、口語・描写で使う語の使い方を紹介します。",
+    "keywords": ["rattletrap 意味", "rattletrap 発音", "おんぼろ車", "rattle 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】おんぼろ車・ガタガタの乗り物", "note": "古くてガタガタ音を立てる、今にも壊れそうな車や馬車。くだけた語。" },
+      { "hinshi": "【形容詞】おんぼろの・ガタガタの", "note": "a rattletrap old car（おんぼろの古い車）。" }
+    ],
+    "usages": [
+      { "title": "① 「おんぼろ車」として", "desc": "古い乗り物を表します。", "example_en": "He drove an old rattletrap that barely ran.", "example_ja": "彼はかろうじて走るおんぼろ車を運転していた。" },
+      { "title": "② 形容詞「ガタガタの」として", "desc": "古びた様子を表します。", "example_en": "They arrived in a rattletrap pickup truck.", "example_ja": "彼らはおんぼろのピックアップトラックでやって来た。" }
+    ],
+    "warn": [
+      "rattletrap は『おんぼろ車・ガタガタの乗り物』。くだけた・やや古風な口語。",
+      "rattle（ガタガタ鳴る）＋ trap（昔の俗語で『馬車・乗り物』）の合成。"
+    ],
+    "etym_note": "rattle（『ガタガタ鳴る』、擬音語）＋ trap（俗語で『二輪馬車・乗り物』）から成り、「ガタガタ鳴る乗り物」を意味します。乗ると音を立てる古い車のイメージです。",
+    "etym_chain": [
+      { "node": "rattle", "sub": "ガタガタ鳴る", "era": "中英語（擬音）" },
+      { "node": "trap", "sub": "馬車・乗り物（俗語）", "era": "近代英語" },
+      { "node": "rattletrap", "sub": "おんぼろ車", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "an old rattletrap", "ja": "おんぼろの古い車" },
+      { "en": "a rattletrap car", "ja": "ガタガタの車" },
+      { "en": "drive a rattletrap", "ja": "おんぼろ車を運転する" },
+      { "en": "a rattletrap truck", "ja": "おんぼろトラック" },
+      { "en": "that old rattletrap", "ja": "あのおんぼろ車" },
+      { "en": "a rattletrap of a car", "ja": "おんぼろと呼ぶべき車" }
+    ],
+    "related": [
+      { "en": "rattle", "ja": "ガタガタ鳴る" },
+      { "en": "jalopy", "ja": "おんぼろ車" },
+      { "en": "clunker", "ja": "おんぼろ車・欠陥品" },
+      { "en": "wreck", "ja": "ぼろぼろのもの・残骸" }
+    ],
+    "faq": [
+      { "q": "rattletrap とはどんな意味？", "a": "古くてガタガタ音を立てる、今にも壊れそうな『おんぼろ車・ガタガタの乗り物』のことです。He drove an old rattletrap.（おんぼろ車を運転していた）のように使います。形容詞でも使います。" },
+      { "q": "rattletrap と jalopy の違いは？", "a": "どちらも『おんぼろ車』ですが、rattletrap は『ガタガタ鳴る』音のイメージ、jalopy はくだけた『ぽんこつ車』という別の口語です。意味はほぼ同じです。" }
+    ],
+    "quiz": [
+      { "q": "He drove an old ___ that barely ran.（おんぼろ車）", "A": "rattletrap", "B": "mousetrap のねずみ取り", "C": "claptrap のたわごと", "D": "rattlesnake のガラガラヘビ", "correct": "A" },
+      { "q": "rattletrap の rattle はどんな意味？", "A": "ガタガタ鳴る", "B": "速く走る", "C": "光り輝く", "D": "高くそびえる", "correct": "A" }
+    ]
+  },
+  {
+    "english": "raunchy",
+    "pron": "ˈrɔːntʃi",
+    "kana": "ローンチー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "由来不詳（20世紀アメリカ俗語）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "口語・俗語"],
+    "meaning_main": "下品な・きわどい・むさ苦しい",
+    "description": "raunchy の意味・発音・例文・語源を解説。性的に「きわどい・下品な」、また「むさ苦しい・薄汚い」という、口語・俗語で使う語の使い方を紹介します。",
+    "keywords": ["raunchy 意味", "raunchy 発音", "下品な", "きわどい"],
+    "meanings": [
+      { "hinshi": "【形容詞】下品な・きわどい・色っぽい", "note": "性的にあけすけで品がない。a raunchy joke（きわどい冗談）。くだけた口語。" },
+      { "hinshi": "【形容詞】むさ苦しい・薄汚い", "note": "（古い用法）だらしなく汚い。" }
+    ],
+    "usages": [
+      { "title": "① 「きわどい冗談」として", "desc": "下品さを表します。", "example_en": "The comedian told a few raunchy jokes.", "example_ja": "そのコメディアンはきわどい冗談をいくつか言った。" },
+      { "title": "② 「きわどい歌詞」として", "desc": "あけすけな内容を表します。", "example_en": "The song's raunchy lyrics shocked some listeners.", "example_ja": "その曲の下品な歌詞は一部の聴き手を驚かせた。" }
+    ],
+    "warn": [
+      "raunchy は『下品な・きわどい・色っぽい』。くだけた口語で、改まった場では避ける。",
+      "もとは『むさ苦しい・薄汚い』の意味で、後に『性的にきわどい』の意味が主流になった。"
+    ],
+    "etym_note": "1930年代のアメリカ英語の俗語で、確かな語源は不明です。当初は『だらしない・薄汚い』を意味し、のちに『性的にあけすけな』という現在の主な意味に変化しました。",
+    "etym_chain": [
+      { "node": "raunchy", "sub": "むさ苦しい・薄汚い", "era": "1930年代米俗語" },
+      { "node": "raunchy", "sub": "下品な・きわどい", "era": "20世紀後半" },
+      { "node": "raunchy", "sub": "きわどい・色っぽい", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a raunchy joke", "ja": "きわどい冗談" },
+      { "en": "raunchy lyrics", "ja": "下品な歌詞" },
+      { "en": "a raunchy comedy", "ja": "きわどいコメディ" },
+      { "en": "raunchy humor", "ja": "下品なユーモア" },
+      { "en": "a raunchy scene", "ja": "きわどい場面" },
+      { "en": "too raunchy for TV", "ja": "テレビには下品すぎる" }
+    ],
+    "related": [
+      { "en": "risqué", "ja": "きわどい・際どい" },
+      { "en": "bawdy", "ja": "下品な・猥雑な" },
+      { "en": "crude", "ja": "粗野な・下品な" },
+      { "en": "vulgar", "ja": "下品な・俗悪な" }
+    ],
+    "faq": [
+      { "q": "raunchy とはどんな意味？", "a": "性的に『きわどい・下品な・色っぽい』という意味のくだけた形容詞です。a raunchy joke（きわどい冗談）のように使います。古くは『むさ苦しい・薄汚い』の意味でした。" },
+      { "q": "raunchy と risqué の違いは？", "a": "risqué は『（上品ぎりぎりの）きわどい』フランス語由来の語、raunchy は『（もっとあけすけで下品な）』くだけた俗語という違いがあります。" }
+    ],
+    "quiz": [
+      { "q": "The comedian told a few ___ jokes.（きわどい）", "A": "raunchy", "B": "crunchy のかりかりの", "C": "launchy", "D": "haughty の高慢な", "correct": "A" },
+      { "q": "raunchy の現在の主な意味はどれ？", "A": "下品な・きわどい", "B": "上品な", "C": "勇敢な", "D": "正直な", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rectilinear",
+    "pron": "ˌrɛktɪˈlɪniə",
+    "kana": "レクティリニア",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 rectus（まっすぐな）＋ linea（線）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "数学・光学"],
+    "meaning_main": "直線の・直線状の・直線からなる",
+    "description": "rectilinear の意味・発音・例文・語源を解説。「直線の・直線状の・直線からなる」という、数学・光学・建築で使う語の使い方を紹介します。curvilinear との対比も解説。",
+    "keywords": ["rectilinear 意味", "rectilinear 発音", "直線の", "直線状の"],
+    "meanings": [
+      { "hinshi": "【形容詞】直線の・直線状の・直線からなる", "note": "まっすぐな線で構成された、直線運動の。rectilinear motion（直線運動）。曲線の curvilinear と対をなす。" }
+    ],
+    "usages": [
+      { "title": "① 物理「直線運動」として", "desc": "まっすぐな動きを表します。", "example_en": "The object moves in rectilinear motion along the track.", "example_ja": "その物体はレールに沿って直線運動をする。" },
+      { "title": "② 建築・写真「直線的な」として", "desc": "直線で構成された様子を表します。", "example_en": "A rectilinear lens keeps straight lines straight.", "example_ja": "直線補正レンズはまっすぐな線をまっすぐに保つ。" }
+    ],
+    "warn": [
+      "rectilinear は『直線の・直線状の』。曲線の curvilinear と対になる。",
+      "rect-（まっすぐ）は rectangle（長方形）、correct（正す）と同系。"
+    ],
+    "etym_note": "ラテン語 rectus（『まっすぐな・正しい』）＋ linea（『線』）から成り、「まっすぐな線の」を意味します。rectangle（長方形）や direct（まっすぐな・直接の）と同じ rectus の系統です。",
+    "etym_chain": [
+      { "node": "rectus + linea", "sub": "まっすぐな＋線", "era": "ラテン語" },
+      { "node": "rectilineus", "sub": "直線の", "era": "後期ラテン語" },
+      { "node": "rectilinear", "sub": "直線の・直線状の", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "rectilinear motion", "ja": "直線運動" },
+      { "en": "a rectilinear shape", "ja": "直線からなる形" },
+      { "en": "rectilinear lens", "ja": "直線補正レンズ" },
+      { "en": "a rectilinear grid", "ja": "直線の格子" },
+      { "en": "rectilinear design", "ja": "直線的なデザイン" },
+      { "en": "rectilinear coordinates", "ja": "直交座標" }
+    ],
+    "related": [
+      { "en": "curvilinear", "ja": "曲線の" },
+      { "en": "linear", "ja": "線の・直線的な" },
+      { "en": "straight", "ja": "まっすぐな" },
+      { "en": "rectangular", "ja": "長方形の・直角の" }
+    ],
+    "faq": [
+      { "q": "rectilinear とはどんな意味？", "a": "『直線の・直線状の・直線からなる』という意味の形容詞です。rectilinear motion（直線運動）のように、数学・物理・建築・写真で使います。" },
+      { "q": "rectilinear と curvilinear の違いは？", "a": "rectilinear は『直線で構成された』、curvilinear は『曲線で構成された』で対になる語です。rect-（まっすぐ）と curv-（曲がった）の違いです。" }
+    ],
+    "quiz": [
+      { "q": "The object moves in ___ motion along the track.（直線の）", "A": "rectilinear", "B": "curvilinear の曲線の", "C": "circular の円形の", "D": "spiral のらせんの", "correct": "A" },
+      { "q": "rectilinear の rect- はどんな意味？", "A": "まっすぐな", "B": "丸い", "C": "曲がった", "D": "尖った", "correct": "A" }
+    ]
+  },
+  {
+    "english": "revanche",
+    "pron": "rɪˈvɑːnʃ",
+    "kana": "リバンシュ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 revanche（報復・仕返し）、revancher より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "政治・歴史"],
+    "meaning_main": "（失った領土などへの）報復・雪辱政策",
+    "description": "revanche の意味・発音・例文・語源を解説。失った領土や威信を取り戻そうとする「報復・雪辱（の政策）」という、政治史で使う語の使い方を紹介します。revanchism も解説。",
+    "keywords": ["revanche 意味", "revanche 発音", "報復", "雪辱政策"],
+    "meanings": [
+      { "hinshi": "【名詞】報復・雪辱（特に失った領土への）", "note": "戦争で失った領土や威信を取り戻そうとする国家的な報復願望。派生語 revanchism（復讐主義・失地回復主義）。" }
+    ],
+    "usages": [
+      { "title": "① 「失地回復の願望」として", "desc": "領土を取り戻す思いを表します。", "example_en": "A desire for revanche shaped the nation's foreign policy.", "example_ja": "雪辱への願望がその国の外交政策を形づくった。" },
+      { "title": "② 「報復主義」として", "desc": "復讐的な政治姿勢を表します。", "example_en": "Revanchism grew after the humiliating defeat.", "example_ja": "屈辱的な敗北のあと復讐主義が高まった。" }
+    ],
+    "warn": [
+      "revanche は『（失った領土などへの）報復・雪辱』。政治・歴史の用語。",
+      "派生語 revanchism（失地回復主義）は、普仏戦争後のフランスなどを語る際によく使う。"
+    ],
+    "etym_note": "フランス語 revanche（『仕返し・報復』、revancher「報復する」、re-＋古フランス語 vengier「復讐する」より）に由来します。revenge（復讐）や vengeance（報復）と同じ語根です。",
+    "etym_chain": [
+      { "node": "vengier", "sub": "復讐する", "era": "古フランス語" },
+      { "node": "revanche", "sub": "報復・仕返し", "era": "フランス語" },
+      { "node": "revanche", "sub": "雪辱・失地回復", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a desire for revanche", "ja": "雪辱への願望" },
+      { "en": "the spirit of revanche", "ja": "報復の精神" },
+      { "en": "seek revanche", "ja": "雪辱を求める" },
+      { "en": "revanchism", "ja": "復讐主義・失地回復主義" },
+      { "en": "a policy of revanche", "ja": "報復政策" },
+      { "en": "nationalist revanche", "ja": "国家主義的な雪辱論" }
+    ],
+    "related": [
+      { "en": "revenge", "ja": "復讐" },
+      { "en": "vengeance", "ja": "報復" },
+      { "en": "retaliation", "ja": "報復・仕返し" },
+      { "en": "irredentism", "ja": "民族統一主義・失地回復" }
+    ],
+    "faq": [
+      { "q": "revanche とはどんな意味？", "a": "戦争で失った領土や威信を取り戻そうとする『報復・雪辱（の願望）』という政治・歴史用語です。A desire for revanche shaped the policy.（雪辱への願望が政策を形づくった）のように使います。" },
+      { "q": "revanchism とは？", "a": "revanche の派生語で『失地回復主義・復讐主義』を指します。普仏戦争でアルザス・ロレーヌを失ったフランスの動きなどを説明するのに使われます。" }
+    ],
+    "quiz": [
+      { "q": "A desire for ___ shaped the nation's foreign policy.（雪辱）", "A": "revanche", "B": "romance の恋愛", "C": "advance の前進", "D": "nuance のニュアンス", "correct": "A" },
+      { "q": "revanche と語源が同じなのはどれ？", "A": "revenge（復讐）", "B": "reverence（畏敬）", "C": "revenue（収入）", "D": "reverie（空想）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rowan",
+    "pron": "ˈrəʊən",
+    "kana": "ロウアン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古ノルド語 reynir / 北欧語由来",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "植物・自然"],
+    "meaning_main": "ナナカマド（赤い実をつける木）",
+    "description": "rowan の意味・発音・例文・語源を解説。秋に赤いオレンジの実をつける木「ナナカマド」という、植物や自然で使う語の使い方を紹介します。rowan berry も解説。",
+    "keywords": ["rowan 意味", "rowan 発音", "ナナカマド", "rowan berry"],
+    "meanings": [
+      { "hinshi": "【名詞】ナナカマド（の木）", "note": "バラ科の落葉樹で、秋に赤〜橙色の小さな実を房状につける。mountain ash とも呼ぶ。実は rowan berry。" }
+    ],
+    "usages": [
+      { "title": "① 「木」として", "desc": "樹木を表します。", "example_en": "A rowan grew beside the old stone wall.", "example_ja": "古い石垣のそばにナナカマドが生えていた。" },
+      { "title": "② 「実」として", "desc": "赤い実を表します。", "example_en": "Birds love the bright berries of the rowan.", "example_ja": "鳥はナナカマドの鮮やかな実が大好きだ。" }
+    ],
+    "warn": [
+      "rowan は木『ナナカマド』。mountain ash とも呼ぶが、本物の ash（トネリコ）とは別の木。",
+      "ケルトや北欧の伝承では魔除けの木とされた。実 rowan berry は加熱してジャムなどにする。"
+    ],
+    "etym_note": "古ノルド語 reynir などの北欧語に由来します。スカンジナビアやスコットランドで古くから親しまれ、魔除けの力があると信じられてきた木です。",
+    "etym_chain": [
+      { "node": "reynir", "sub": "ナナカマド", "era": "古ノルド語" },
+      { "node": "rowan-tree", "sub": "ナナカマドの木", "era": "中英語" },
+      { "node": "rowan", "sub": "ナナカマド", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a rowan tree", "ja": "ナナカマドの木" },
+      { "en": "rowan berries", "ja": "ナナカマドの実" },
+      { "en": "rowan jelly", "ja": "ナナカマドのジャム" },
+      { "en": "the red rowan", "ja": "赤いナナカマド" },
+      { "en": "under the rowan", "ja": "ナナカマドの下で" },
+      { "en": "a mountain rowan", "ja": "山のナナカマド" }
+    ],
+    "related": [
+      { "en": "mountain ash", "ja": "ナナカマド（別名）" },
+      { "en": "berry", "ja": "（小さな）実・ベリー" },
+      { "en": "ash", "ja": "トネリコ" },
+      { "en": "hawthorn", "ja": "サンザシ" }
+    ],
+    "faq": [
+      { "q": "rowan とはどんな意味？", "a": "秋に赤〜橙色の小さな実を房状につけるバラ科の木『ナナカマド』のことです。A rowan grew beside the wall.（石垣のそばにナナカマドが生えていた）のように使います。mountain ash とも呼びます。" },
+      { "q": "rowan は ash（トネリコ）の仲間？", "a": "別名 mountain ash と呼ばれますが、葉が似ているだけで本物の ash（トネリコ）とは別の木です。rowan はバラ科の Sorbus 属です。" }
+    ],
+    "quiz": [
+      { "q": "Birds love the bright berries of the ___.（ナナカマド）", "A": "rowan", "B": "crown の王冠", "C": "clown の道化師", "D": "frown のしかめ面", "correct": "A" },
+      { "q": "rowan の別名はどれ？", "A": "mountain ash", "B": "weeping willow", "C": "silver birch", "D": "horse chestnut", "correct": "A" }
+    ]
+  },
+  {
+    "english": "refulgence",
+    "pron": "rɪˈfʌldʒəns",
+    "kana": "リファルジェンス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 refulgere（強く輝く）、re-＋ fulgere（光る）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "文学・詩"],
+    "meaning_main": "燦然たる輝き・光輝",
+    "description": "refulgence の意味・発音・例文・語源を解説。まばゆく放たれる「燦然たる輝き・光輝」という、文学的・詩的に使う語の使い方を紹介します。形容詞 refulgent も解説。",
+    "keywords": ["refulgence 意味", "refulgence 発音", "光輝", "燦然たる輝き"],
+    "meanings": [
+      { "hinshi": "【名詞】燦然たる輝き・光輝・まばゆさ", "note": "強く放たれる光・輝き。文語・詩的。形容詞は refulgent（燦然と輝く）。" }
+    ],
+    "usages": [
+      { "title": "① 「光の輝き」として", "desc": "まばゆい輝きを表します。", "example_en": "The refulgence of the noon sun dazzled them.", "example_ja": "真昼の太陽の燦然たる輝きが彼らの目をくらませた。" },
+      { "title": "② 比喩「栄光の輝き」として", "desc": "栄光のまばゆさを表します。", "example_en": "The hall shone with the refulgence of gold and jewels.", "example_ja": "広間は金と宝石の光輝で輝いていた。" }
+    ],
+    "warn": [
+      "refulgence は『燦然たる輝き・光輝』。文学的・詩的で日常会話ではまれ。",
+      "形容詞 refulgent（燦然と輝く）の名詞形。fulgent（まばゆい）と同根。"
+    ],
+    "etym_note": "ラテン語 refulgere（『強く照り返す』、re-（強意）＋ fulgere「光る」より）に由来します。fulgere は fulgent（まばゆい）や effulgent（光り輝く）と同じ語根です。",
+    "etym_chain": [
+      { "node": "fulgere", "sub": "光る", "era": "ラテン語" },
+      { "node": "refulgere", "sub": "強く輝く", "era": "ラテン語" },
+      { "node": "refulgence", "sub": "燦然たる輝き", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the refulgence of the sun", "ja": "太陽の燦然たる輝き" },
+      { "en": "golden refulgence", "ja": "黄金の光輝" },
+      { "en": "shine with refulgence", "ja": "燦然と輝く" },
+      { "en": "the refulgence of dawn", "ja": "夜明けの輝き" },
+      { "en": "a dazzling refulgence", "ja": "目もくらむ光輝" },
+      { "en": "heavenly refulgence", "ja": "天上の輝き" }
+    ],
+    "related": [
+      { "en": "refulgent", "ja": "燦然と輝く" },
+      { "en": "radiance", "ja": "光輝・輝き" },
+      { "en": "brilliance", "ja": "まばゆさ・光輝" },
+      { "en": "effulgence", "ja": "光輝・燦光" }
+    ],
+    "faq": [
+      { "q": "refulgence とはどんな意味？", "a": "強く放たれる『燦然たる輝き・光輝・まばゆさ』という意味の文語です。The refulgence of the noon sun.（真昼の太陽の燦然たる輝き）のように、詩的に使います。形容詞は refulgent です。" },
+      { "q": "refulgence と radiance の違いは？", "a": "意味は近いですが、radiance が比較的日常的に使えるのに対し、refulgence はより文学的・大げさで『まばゆいほどの光輝』を強調します。" }
+    ],
+    "quiz": [
+      { "q": "The ___ of the noon sun dazzled them.（燦然たる輝き）", "A": "refulgence", "B": "reluctance の気の進まなさ", "C": "reference の参照", "D": "residence の住居", "correct": "A" },
+      { "q": "refulgence の形容詞形はどれ？", "A": "refulgent（燦然と輝く）", "B": "reluctant（気の進まない）", "C": "redundant（余分な）", "D": "resilient（回復力のある）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "redbud",
+    "pron": "ˈrɛdbʌd",
+    "kana": "レッドバド",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "red（赤い）＋ bud（つぼみ）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "植物・北米"],
+    "meaning_main": "ハナズオウ（春に赤紫の花をつける木）",
+    "description": "redbud の意味・発音・例文・語源を解説。春に枝いっぱいに赤紫の花を咲かせる北米の木「ハナズオウ（アメリカハナズオウ）」という語の使い方を紹介します。",
+    "keywords": ["redbud 意味", "redbud 発音", "ハナズオウ", "春の花木"],
+    "meanings": [
+      { "hinshi": "【名詞】ハナズオウ・アメリカハナズオウ", "note": "マメ科の小高木。早春、葉が出る前に枝や幹に直接、赤紫（ピンク）の小花を密につける。北米でおなじみの花木。" }
+    ],
+    "usages": [
+      { "title": "① 「春に咲く木」として", "desc": "花木を表します。", "example_en": "The redbud bloomed bright pink in early April.", "example_ja": "ハナズオウは4月初めに鮮やかなピンクに咲いた。" },
+      { "title": "② 「庭木として」として", "desc": "観賞用の木を表します。", "example_en": "They planted a redbud near the front porch.", "example_ja": "彼らは玄関ポーチの近くにハナズオウを植えた。" }
+    ],
+    "warn": [
+      "redbud は木『ハナズオウ（アメリカハナズオウ）』。早春に枝へ直接びっしり花が咲くのが特徴。",
+      "実際の花の色は赤というより赤紫〜ピンク。米オクラホマ州の州木。"
+    ],
+    "etym_note": "red（『赤い』）＋ bud（『つぼみ』）から成り、「赤い（赤紫の）つぼみをつける木」を意味します。春先に赤紫のつぼみと花が枝を彩る様子から名づけられました。",
+    "etym_chain": [
+      { "node": "red + bud", "sub": "赤い＋つぼみ", "era": "英語" },
+      { "node": "redbud", "sub": "ハナズオウ", "era": "近代英語" },
+      { "node": "redbud", "sub": "アメリカハナズオウ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a redbud tree", "ja": "ハナズオウの木" },
+      { "en": "the redbud blooms", "ja": "ハナズオウが咲く" },
+      { "en": "an eastern redbud", "ja": "アメリカハナズオウ" },
+      { "en": "redbud blossoms", "ja": "ハナズオウの花" },
+      { "en": "a flowering redbud", "ja": "花咲くハナズオウ" },
+      { "en": "plant a redbud", "ja": "ハナズオウを植える" }
+    ],
+    "related": [
+      { "en": "bud", "ja": "つぼみ・芽" },
+      { "en": "blossom", "ja": "（木の）花・花が咲く" },
+      { "en": "dogwood", "ja": "ハナミズキ" },
+      { "en": "magnolia", "ja": "モクレン" }
+    ],
+    "faq": [
+      { "q": "redbud とはどんな意味？", "a": "早春に葉が出る前、枝や幹に直接ピンク（赤紫）の花を密につけるマメ科の木『ハナズオウ（アメリカハナズオウ）』のことです。The redbud bloomed bright pink.（ハナズオウが鮮やかなピンクに咲いた）のように使います。" },
+      { "q": "redbud の花は本当に赤い？", "a": "名前は redbud（赤いつぼみ）ですが、実際の花の色は赤というより赤紫〜濃いピンクです。枝に直接びっしり咲くのが特徴です。" }
+    ],
+    "quiz": [
+      { "q": "The ___ bloomed bright pink in early April.（ハナズオウ）", "A": "redbud", "B": "rosebud のバラのつぼみ", "C": "redhead の赤毛", "D": "rebound のはね返り", "correct": "A" },
+      { "q": "redbud はどんな植物？", "A": "春に花を咲かせる木", "B": "海藻", "C": "きのこ", "D": "サボテン", "correct": "A" }
+    ]
+  },
+  {
+    "english": "raki",
+    "pron": "rɑːˈkiː",
+    "kana": "ラク",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "トルコ語 rakı より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文化・飲料"],
+    "meaning_main": "ラク（トルコ・バルカンの蒸留酒）",
+    "description": "raki の意味・発音・例文・語源を解説。トルコやバルカン半島で飲まれるアニス風味の蒸留酒「ラク」という、文化や飲料で使う語の使い方を紹介します。",
+    "keywords": ["raki 意味", "raki 発音", "ラク", "トルコ 酒"],
+    "meanings": [
+      { "hinshi": "【名詞】ラク", "note": "トルコやバルカン半島で飲まれる、ブドウやレーズンから作るアニス（ういきょう）風味の蒸留酒。水を加えると白く濁る。" }
+    ],
+    "usages": [
+      { "title": "① 「飲み物」として", "desc": "蒸留酒を表します。", "example_en": "They sipped raki with mezze by the sea.", "example_ja": "彼らは海辺でメゼ（前菜）とともにラクを飲んだ。" },
+      { "title": "② 「白く濁る」として", "desc": "特徴を表します。", "example_en": "Adding water turns raki a milky white.", "example_ja": "水を加えるとラクは乳白色に濁る。" }
+    ],
+    "warn": [
+      "raki は『ラク（トルコ・バルカンのアニス風蒸留酒）』。発音はラク（後ろにアクセント）。",
+      "水で白濁することから『ライオンの乳（lion's milk）』とも呼ばれる。ギリシャの ouzo と似る。"
+    ],
+    "etym_note": "トルコ語 rakı に由来します。さらにさかのぼるとアラビア語 ʿaraq（『汗・蒸留液』）と関連し、各地の蒸留酒（arrack など）と語源を共有します。",
+    "etym_chain": [
+      { "node": "ʿaraq", "sub": "汗・蒸留液", "era": "アラビア語" },
+      { "node": "rakı", "sub": "ラク", "era": "トルコ語" },
+      { "node": "raki", "sub": "ラク（蒸留酒）", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a glass of raki", "ja": "ラク一杯" },
+      { "en": "drink raki", "ja": "ラクを飲む" },
+      { "en": "raki and mezze", "ja": "ラクとメゼ（前菜）" },
+      { "en": "Turkish raki", "ja": "トルコのラク" },
+      { "en": "raki turns milky", "ja": "ラクが白く濁る" },
+      { "en": "a bottle of raki", "ja": "ラク一瓶" }
+    ],
+    "related": [
+      { "en": "ouzo", "ja": "ウーゾ（ギリシャの酒）" },
+      { "en": "arrack", "ja": "アラック（蒸留酒）" },
+      { "en": "anise", "ja": "アニス・ういきょう" },
+      { "en": "spirit", "ja": "蒸留酒" }
+    ],
+    "faq": [
+      { "q": "raki とはどんな意味？", "a": "トルコやバルカン半島で飲まれる、アニス（ういきょう）風味の蒸留酒『ラク』のことです。They sipped raki with mezze.（メゼとともにラクを飲んだ）のように使います。" },
+      { "q": "raki はなぜ白く濁る？", "a": "アニスに含まれる油分が、水を加えると溶けきれず微細な粒になって光を散らすためです。この白濁から『ライオンの乳』とも呼ばれます。" }
+    ],
+    "quiz": [
+      { "q": "Adding water turns ___ a milky white.（ラク）", "A": "raki", "B": "rake の熊手", "C": "rocky の岩だらけの", "D": "rookie の新人", "correct": "A" },
+      { "q": "raki はどの国を代表する蒸留酒？", "A": "トルコ", "B": "日本", "C": "メキシコ", "D": "ロシア", "correct": "A" }
+    ]
+  },
+  {
+    "english": "redfish",
+    "pron": "ˈrɛdfɪʃ",
+    "kana": "レッドフィッシュ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "red（赤い）＋ fish（魚）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "魚・料理"],
+    "meaning_main": "赤い魚（アカウオ・レッドドラムなど）の総称",
+    "description": "redfish の意味・発音・例文・語源を解説。アカウオやレッドドラムなど、赤みを帯びたいくつかの食用魚をまとめて呼ぶ「レッドフィッシュ」という語の使い方を紹介します。",
+    "keywords": ["redfish 意味", "redfish 発音", "アカウオ", "レッドドラム"],
+    "meanings": [
+      { "hinshi": "【名詞】赤い魚の総称", "note": "赤みを帯びた数種の食用魚の通称。北米南部ではレッドドラム（red drum）、北大西洋ではアカウオ（Sebastes 属）を指すなど、地域で示す魚が異なる。" }
+    ],
+    "usages": [
+      { "title": "① 「料理の魚」として", "desc": "食用魚を表します。", "example_en": "Blackened redfish is a famous Cajun dish.", "example_ja": "ブラックンド・レッドフィッシュは有名なケイジャン料理だ。" },
+      { "title": "② 「釣りの対象」として", "desc": "釣魚を表します。", "example_en": "Anglers along the Gulf coast prize redfish.", "example_ja": "メキシコ湾岸の釣り人はレッドフィッシュを珍重する。" }
+    ],
+    "warn": [
+      "redfish は『赤い魚（アカウオ・レッドドラムなど）の総称』。地域によって指す魚が異なる。",
+      "米南部ではレッドドラム、北欧・北米北部ではアカウオ（ローズフィッシュ）を指すことが多い。"
+    ],
+    "etym_note": "red（『赤い』）＋ fish（『魚』）から成る素朴な合成語で、「赤みを帯びた魚」を意味します。特定の一種ではなく、赤い色を共通点とする複数種の通称です。",
+    "etym_chain": [
+      { "node": "red + fish", "sub": "赤い＋魚", "era": "英語" },
+      { "node": "redfish", "sub": "赤い魚", "era": "近代英語" },
+      { "node": "redfish", "sub": "アカウオ・レッドドラム", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "blackened redfish", "ja": "ブラックンド・レッドフィッシュ" },
+      { "en": "catch a redfish", "ja": "レッドフィッシュを釣る" },
+      { "en": "grilled redfish", "ja": "焼きレッドフィッシュ" },
+      { "en": "a school of redfish", "ja": "レッドフィッシュの群れ" },
+      { "en": "redfish fillet", "ja": "レッドフィッシュの切り身" },
+      { "en": "fish for redfish", "ja": "レッドフィッシュを狙って釣る" }
+    ],
+    "related": [
+      { "en": "red drum", "ja": "レッドドラム" },
+      { "en": "rockfish", "ja": "メバル・カサゴ類" },
+      { "en": "snapper", "ja": "フエダイ・タイ類" },
+      { "en": "fillet", "ja": "魚の切り身" }
+    ],
+    "faq": [
+      { "q": "redfish とはどんな意味？", "a": "赤みを帯びた数種の食用魚をまとめて呼ぶ通称『レッドフィッシュ』です。地域により、北米南部ではレッドドラム、北大西洋ではアカウオを指します。Blackened redfish（ブラックンド・レッドフィッシュ）のように使います。" },
+      { "q": "redfish は特定の一種の魚？", "a": "いいえ。赤い色を共通点とする複数種の通称で、地域によって指す魚が異なります。料理名や釣りの文脈でよく使われます。" }
+    ],
+    "quiz": [
+      { "q": "Blackened ___ is a famous Cajun dish.（レッドフィッシュ）", "A": "redfish", "B": "jellyfish のクラゲ", "C": "redhead の赤毛", "D": "shellfish の貝類", "correct": "A" },
+      { "q": "redfish が指す魚は？", "A": "赤い色の数種の魚の総称", "B": "ただ一種の魚", "C": "貝の一種", "D": "海藻", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reniform",
+    "pron": "ˈrɛnɪfɔːm",
+    "kana": "レニフォーム",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 ren（腎臓）＋ forma（形）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "生物・鉱物"],
+    "meaning_main": "腎臓形の・そら豆形の",
+    "description": "reniform の意味・発音・例文・語源を解説。腎臓のような「腎臓形の・そら豆形の」という、生物学や鉱物学で形を表すのに使う語の使い方を紹介します。",
+    "keywords": ["reniform 意味", "reniform 発音", "腎臓形の", "そら豆形の"],
+    "meanings": [
+      { "hinshi": "【形容詞】腎臓形の・そら豆形の", "note": "腎臓のように、片側がくぼんだ豆形の。葉・種子・鉱物の形を表す専門語。reniform leaf（腎形の葉）。" }
+    ],
+    "usages": [
+      { "title": "① 植物「腎形の葉」として", "desc": "葉の形を表します。", "example_en": "The plant has rounded, reniform leaves.", "example_ja": "その植物は丸みを帯びた腎臓形の葉を持つ。" },
+      { "title": "② 鉱物「腎臓状の」として", "desc": "鉱物の形を表します。", "example_en": "The hematite occurred in reniform masses.", "example_ja": "その赤鉄鉱は腎臓状の塊で産出した。" }
+    ],
+    "warn": [
+      "reniform は『腎臓形の・そら豆形の』。生物・鉱物の形を述べる専門語。",
+      "ren-（腎臓）は renal（腎臓の）と同じ語根。-form（〜形の）は cuneiform（くさび形の）などと同系。"
+    ],
+    "etym_note": "ラテン語 ren（『腎臓』、複数 renes）＋ forma（『形』）から成り、「腎臓の形をした」を意味します。renal（腎臓の）と同じ ren の系統です。",
+    "etym_chain": [
+      { "node": "ren + forma", "sub": "腎臓＋形", "era": "ラテン語" },
+      { "node": "reniformis", "sub": "腎臓形の", "era": "後期ラテン語" },
+      { "node": "reniform", "sub": "腎臓形の・そら豆形の", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a reniform leaf", "ja": "腎臓形の葉" },
+      { "en": "reniform seeds", "ja": "そら豆形の種子" },
+      { "en": "reniform masses", "ja": "腎臓状の塊（鉱物）" },
+      { "en": "a reniform shape", "ja": "腎臓のような形" },
+      { "en": "reniform spots", "ja": "腎臓形の斑紋" },
+      { "en": "reniform structure", "ja": "腎臓状の構造" }
+    ],
+    "related": [
+      { "en": "renal", "ja": "腎臓の" },
+      { "en": "kidney-shaped", "ja": "腎臓形の" },
+      { "en": "cordiform", "ja": "心臓形の" },
+      { "en": "ovate", "ja": "卵形の" }
+    ],
+    "faq": [
+      { "q": "reniform とはどんな意味？", "a": "腎臓のように片側がくぼんだ『腎臓形の・そら豆形の』という意味の形容詞です。a reniform leaf（腎臓形の葉）のように、植物の葉や種子、鉱物の形を述べるのに使います。" },
+      { "q": "reniform と renal の違いは？", "a": "renal は『腎臓の（腎臓に関する）』、reniform は『腎臓の形をした』です。どちらもラテン語 ren（腎臓）が語源ですが、reniform は形を表します。" }
+    ],
+    "quiz": [
+      { "q": "The plant has rounded, ___ leaves.（腎臓形の）", "A": "reniform", "B": "uniform の制服", "C": "reform の改革", "D": "inform の知らせる", "correct": "A" },
+      { "q": "reniform は何の形を表す？", "A": "腎臓（そら豆）の形", "B": "星の形", "C": "三角の形", "D": "らせんの形", "correct": "A" }
+    ]
+  }
+]
