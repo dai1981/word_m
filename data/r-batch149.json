@@ -1,0 +1,524 @@
+[
+  {
+    "english": "remittance",
+    "pron": "rɪˈmɪtəns",
+    "kana": "リミタンス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "remit（送金する）＋ -ance",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "金融・ビジネス"],
+    "meaning_main": "送金・送金額",
+    "description": "remittance の意味・発音・例文・語源を解説。お金を送ること、また送られたお金「送金・送金額」という、金融やビジネスで使う語の使い方を紹介します。",
+    "keywords": ["remittance 意味", "remittance 発音", "送金", "remit 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】送金・送金額", "note": "お金を（特に遠方へ）送ること、または送られた金額。海外で働く人が母国の家族に送る『海外送金（remittances）』が代表例。動詞は remit。" }
+    ],
+    "usages": [
+      { "title": "① 「海外送金」として", "desc": "送られるお金を表します。", "example_en": "Migrant workers send remittances home every month.", "example_ja": "出稼ぎ労働者は毎月母国へ送金している。" },
+      { "title": "② 「支払いの送金」として", "desc": "代金の送付を表します。", "example_en": "Please enclose your remittance with the order form.", "example_ja": "注文書に送金（小切手など）を同封してください。" }
+    ],
+    "warn": [
+      "remittance は『送金・送金額』。動詞は remit（送金する）。",
+      "経済では『海外送金（remittances）』が、移民の母国への重要な収入源として注目される。"
+    ],
+    "etym_note": "remit（『送る・送金する』、ラテン語 remittere「送り返す」、re-＋ mittere「送る」より）＋ -ance から成り、「送ること（金）」を意味します。mission（任務）や transmit（送信する）と同じ mittere の系統です。",
+    "etym_chain": [
+      { "node": "remittere", "sub": "送り返す", "era": "ラテン語" },
+      { "node": "remit", "sub": "送金する", "era": "中英語" },
+      { "node": "remittance", "sub": "送金・送金額", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "send a remittance", "ja": "送金する" },
+      { "en": "an overseas remittance", "ja": "海外送金" },
+      { "en": "remittances from abroad", "ja": "国外からの送金" },
+      { "en": "a monthly remittance", "ja": "毎月の送金" },
+      { "en": "enclose a remittance", "ja": "送金を同封する" },
+      { "en": "a remittance advice", "ja": "送金通知書" }
+    ],
+    "related": [
+      { "en": "remit", "ja": "送金する" },
+      { "en": "transfer", "ja": "振り込む・送金する" },
+      { "en": "payment", "ja": "支払い" },
+      { "en": "wire", "ja": "電信送金する" }
+    ],
+    "faq": [
+      { "q": "remittance とはどんな意味？", "a": "お金を送ること、または送られたお金『送金・送金額』のことです。Migrant workers send remittances home.（出稼ぎ労働者は母国へ送金する）のように使います。動詞は remit です。" },
+      { "q": "経済での remittances（複数）とは？", "a": "主に海外で働く人が母国の家族へ送るお金を指します。多くの発展途上国にとって、輸出や援助に匹敵する重要な外貨収入源となっています。" }
+    ],
+    "quiz": [
+      { "q": "Migrant workers send ___s home every month.（送金）", "A": "remittance", "B": "remembrance の記憶", "C": "resemblance の類似", "D": "reluctance の気の進まなさ", "correct": "A" },
+      { "q": "remittance の動詞形はどれ？", "A": "remit（送金する）", "B": "remind（思い出させる）", "C": "remove（取り除く）", "D": "remain（とどまる）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "riviera",
+    "pron": "ˌrɪviˈɛərə",
+    "kana": "リビエラ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "イタリア語 riviera（海岸・岸）、ラテン語 riparia より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "地理・観光"],
+    "meaning_main": "リビエラ（温暖な海岸保養地）",
+    "description": "riviera の意味・発音・例文・語源を解説。温暖で風光明媚な海岸の保養地「リビエラ」という、地理や観光で使う語の使い方と、有名なフレンチ・リビエラを紹介します。",
+    "keywords": ["riviera 意味", "riviera 発音", "リビエラ", "海岸保養地"],
+    "meanings": [
+      { "hinshi": "【名詞】リビエラ・温暖な海岸保養地", "note": "本来は地中海北西岸（イタリア〜フランス）の温暖な海岸地帯。大文字 the Riviera。転じて、各地の高級海岸リゾートを指す。" }
+    ],
+    "usages": [
+      { "title": "① 「地中海の海岸保養地」として", "desc": "有名なリゾートを表します。", "example_en": "They spent the summer on the French Riviera.", "example_ja": "彼らはフレンチ・リビエラで夏を過ごした。" },
+      { "title": "② 比喩「〜のリビエラ」として", "desc": "海岸リゾートの例えを表します。", "example_en": "The town is called the Riviera of the East.", "example_ja": "その町は東洋のリビエラと呼ばれる。" }
+    ],
+    "warn": [
+      "riviera は『リビエラ（温暖な海岸保養地）』。大文字 the Riviera は地中海の有名な海岸地帯を指す。",
+      "本来は『海岸』という普通名詞で、ラテン語 riparia（川岸）由来。river（川）と同根。"
+    ],
+    "etym_note": "イタリア語 riviera（『海岸・岸』、ラテン語 riparia「岸」、ripa「岸」より）に由来します。river（川）や riparian（川岸の）と同じ ripa の系統です。",
+    "etym_chain": [
+      { "node": "ripa", "sub": "岸", "era": "ラテン語" },
+      { "node": "riviera", "sub": "海岸・岸", "era": "イタリア語" },
+      { "node": "riviera", "sub": "リビエラ・海岸保養地", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the French Riviera", "ja": "フレンチ・リビエラ" },
+      { "en": "the Italian Riviera", "ja": "イタリアン・リビエラ" },
+      { "en": "on the Riviera", "ja": "リビエラで" },
+      { "en": "a Riviera resort", "ja": "リビエラの保養地" },
+      { "en": "the Riviera of the East", "ja": "東洋のリビエラ" },
+      { "en": "a glamorous riviera", "ja": "華やかな海岸保養地" }
+    ],
+    "related": [
+      { "en": "coast", "ja": "海岸" },
+      { "en": "resort", "ja": "保養地・リゾート" },
+      { "en": "seaside", "ja": "海辺" },
+      { "en": "Côte d'Azur", "ja": "コート・ダジュール" }
+    ],
+    "faq": [
+      { "q": "riviera とはどんな意味？", "a": "温暖で風光明媚な海岸の保養地『リビエラ』のことです。特に大文字 the Riviera は地中海北西岸（フレンチ・リビエラなど）を指します。They spent the summer on the French Riviera.（フレンチ・リビエラで夏を過ごした）のように使います。" },
+      { "q": "riviera のもとの意味は？", "a": "イタリア語で単に『海岸・岸』を意味する普通名詞です。ラテン語 ripa（岸）に由来し、river（川）と同じ語根です。" }
+    ],
+    "quiz": [
+      { "q": "They spent the summer on the French ___.（リビエラ）", "A": "Riviera", "B": "Sierra のシエラ（山脈）", "C": "Replica の複製", "D": "Veranda のベランダ", "correct": "A" },
+      { "q": "riviera のもとのラテン語 ripa の意味はどれ？", "A": "岸", "B": "山", "C": "森", "D": "砂漠", "correct": "A" }
+    ]
+  },
+  {
+    "english": "roulette",
+    "pron": "ruːˈlɛt",
+    "kana": "ルーレット",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 roulette（小さな車輪）、rouler（転がる）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "ゲーム・日常"],
+    "meaning_main": "ルーレット（回転盤の賭博）・ミシン目入れ器",
+    "description": "roulette の意味・発音・例文・語源を解説。回転盤に球を落として数字を当てる賭博「ルーレット」、また切手などのミシン目を入れる道具について、語の使い方を紹介します。",
+    "keywords": ["roulette 意味", "roulette 発音", "ルーレット", "回転盤"],
+    "meanings": [
+      { "hinshi": "【名詞】ルーレット", "note": "回転する円盤に球を投げ入れ、止まった数字・色を当てて賭けるカジノのゲーム。play roulette（ルーレットをする）。" },
+      { "hinshi": "【名詞】ルレット（ミシン目入れ器）", "note": "切手や紙に点線状の切り取り線（ミシン目）を入れる小さな歯車状の道具。" }
+    ],
+    "usages": [
+      { "title": "① 「賭博」として", "desc": "カジノのゲームを表します。", "example_en": "He lost a fortune playing roulette.", "example_ja": "彼はルーレットで大金を失った。" },
+      { "title": "② 比喩「危険な賭け」として", "desc": "運任せの行為を表します。", "example_en": "Driving without a seatbelt is like Russian roulette.", "example_ja": "シートベルトなしの運転はロシアンルーレットのようなものだ。" }
+    ],
+    "warn": [
+      "roulette は『ルーレット（回転盤の賭博）』、また『ミシン目入れ器』。フランス語 rouler（転がる）由来。",
+      "Russian roulette（ロシアンルーレット）は命がけの危険な賭けの比喩。"
+    ],
+    "etym_note": "フランス語 roulette（『小さな車輪』、rouler「転がる」、ラテン語 rota「車輪」より）に由来します。roll（転がる）や rotate（回転する）と同じ rota の系統です。",
+    "etym_chain": [
+      { "node": "rota", "sub": "車輪", "era": "ラテン語" },
+      { "node": "roulette", "sub": "小さな車輪", "era": "フランス語" },
+      { "node": "roulette", "sub": "ルーレット", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "play roulette", "ja": "ルーレットをする" },
+      { "en": "a roulette wheel", "ja": "ルーレットの回転盤" },
+      { "en": "Russian roulette", "ja": "ロシアンルーレット" },
+      { "en": "bet on roulette", "ja": "ルーレットに賭ける" },
+      { "en": "the roulette table", "ja": "ルーレット台" },
+      { "en": "spin the roulette", "ja": "ルーレットを回す" }
+    ],
+    "related": [
+      { "en": "casino", "ja": "カジノ" },
+      { "en": "gamble", "ja": "賭ける・賭博" },
+      { "en": "wheel", "ja": "車輪・回転盤" },
+      { "en": "perforation", "ja": "ミシン目・穴" }
+    ],
+    "faq": [
+      { "q": "roulette とはどんな意味？", "a": "回転する円盤に球を投げ入れ、止まった数字や色を当てて賭けるカジノのゲーム『ルーレット』のことです。He lost a fortune playing roulette.（ルーレットで大金を失った）のように使います。" },
+      { "q": "Russian roulette とは？", "a": "拳銃に1発だけ弾を込めて回し、自分の頭に向けて引き金を引く命がけの『度胸試し』です。転じて『きわめて危険な賭け』の比喩として使われます。" }
+    ],
+    "quiz": [
+      { "q": "He lost a fortune playing ___.（ルーレット）", "A": "roulette", "B": "omelette のオムレツ", "C": "silhouette のシルエット", "D": "cassette のカセット", "correct": "A" },
+      { "q": "roulette のもとのフランス語の意味はどれ？", "A": "小さな車輪", "B": "赤い旗", "C": "金の山", "D": "丸い窓", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ripieno",
+    "pron": "rɪpiˈeɪnəʊ",
+    "kana": "リピエーノ",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "イタリア語 ripieno（満たされた・詰め物）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "音楽・専門"],
+    "meaning_main": "リピエーノ（合奏部・全合奏の部分）",
+    "description": "ripieno の意味・発音・例文・語源を解説。バロック音楽の合奏協奏曲で、独奏群に対する「合奏部（全合奏）リピエーノ」という、音楽で使う語の使い方を紹介します。",
+    "keywords": ["ripieno 意味", "ripieno 発音", "リピエーノ", "合奏部"],
+    "meanings": [
+      { "hinshi": "【名詞】リピエーノ・合奏部", "note": "バロックの合奏協奏曲（concerto grosso）で、少人数の独奏群（concertino）に対し、合奏全体（トゥッティ）を担う大人数の部分。concerto grosso とほぼ同義に使うことも。" },
+      { "hinshi": "【形容詞】補強の・全合奏の", "note": "ripieno part（合奏パート）。" }
+    ],
+    "usages": [
+      { "title": "① 「合奏部」として", "desc": "全合奏の部分を表します。", "example_en": "The ripieno answers the soloists with full chords.", "example_ja": "リピエーノは独奏群に厚い和音で応える。" },
+      { "title": "② 「対比」として", "desc": "独奏群との対をなします。", "example_en": "Concerto grosso contrasts the concertino with the ripieno.", "example_ja": "合奏協奏曲は独奏群とリピエーノを対比させる。" }
+    ],
+    "warn": [
+      "ripieno は『リピエーノ（合奏部）』。バロック音楽（concerto grosso）の専門語。",
+      "少人数の独奏群 concertino（コンチェルティーノ）と対をなす全合奏部。"
+    ],
+    "etym_note": "イタリア語 ripieno（『満たされた・詰め物』、riempire「満たす」より）に由来します。音を『満たす』全合奏部であることから。料理の ripieno（詰め物）と同じ語です。",
+    "etym_chain": [
+      { "node": "riempire", "sub": "満たす", "era": "イタリア語" },
+      { "node": "ripieno", "sub": "満たされた・詰め物", "era": "イタリア語" },
+      { "node": "ripieno", "sub": "合奏部・リピエーノ", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the ripieno section", "ja": "リピエーノの合奏部" },
+      { "en": "ripieno and concertino", "ja": "合奏部と独奏群" },
+      { "en": "a ripieno part", "ja": "合奏パート" },
+      { "en": "the full ripieno", "ja": "全合奏" },
+      { "en": "ripieno strings", "ja": "合奏の弦楽部" },
+      { "en": "answered by the ripieno", "ja": "リピエーノが応える" }
+    ],
+    "related": [
+      { "en": "concertino", "ja": "独奏群（コンチェルティーノ）" },
+      { "en": "concerto grosso", "ja": "合奏協奏曲" },
+      { "en": "tutti", "ja": "トゥッティ・総奏" },
+      { "en": "ensemble", "ja": "合奏" }
+    ],
+    "faq": [
+      { "q": "ripieno とはどんな意味？", "a": "バロックの合奏協奏曲で、少人数の独奏群に対し合奏全体を担う大人数の部分『リピエーノ（合奏部）』のことです。The ripieno answers the soloists.（リピエーノが独奏群に応える）のように使います。" },
+      { "q": "ripieno と concertino の違いは？", "a": "concertino は『少人数の独奏群』、ripieno は『（それに応える）全合奏部』です。この二群の対比が合奏協奏曲（concerto grosso）の核心です。" }
+    ],
+    "quiz": [
+      { "q": "The ___ answers the soloists with full chords.（合奏部）", "A": "ripieno", "B": "piano のピアノ", "C": "soprano のソプラノ", "D": "casino のカジノ", "correct": "A" },
+      { "q": "ripieno と対をなす独奏群はどれ？", "A": "concertino（コンチェルティーノ）", "B": "crescendo（クレッシェンド）", "C": "staccato（スタッカート）", "D": "vibrato（ビブラート）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ricercar",
+    "pron": "ˌriːtʃəˈkɑː",
+    "kana": "リチェルカーレ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "イタリア語 ricercare（探し求める）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "音楽・専門"],
+    "meaning_main": "リチェルカーレ（対位法的な器楽曲）",
+    "description": "ricercar の意味・発音・例文・語源を解説。フーガの先駆けとされる対位法的な器楽曲「リチェルカーレ」という、音楽史で使う語の使い方を紹介します。ricercare とも。",
+    "keywords": ["ricercar 意味", "ricercar 発音", "リチェルカーレ", "対位法"],
+    "meanings": [
+      { "hinshi": "【名詞】リチェルカーレ", "note": "16〜17世紀の対位法的な器楽曲。一つの主題を各声部が模倣しながら展開する厳格な様式で、フーガの先駆けとされる。ricercare とも綴る。" }
+    ],
+    "usages": [
+      { "title": "① 「器楽曲」として", "desc": "対位法の曲を表します。", "example_en": "Bach included a six-part ricercar in The Musical Offering.", "example_ja": "バッハは『音楽の捧げもの』に6声のリチェルカーレを含めた。" },
+      { "title": "② 「フーガの先駆け」として", "desc": "様式の起源を表します。", "example_en": "The ricercar foreshadowed the later fugue.", "example_ja": "リチェルカーレは後のフーガを予告するものだった。" }
+    ],
+    "warn": [
+      "ricercar は『リチェルカーレ（対位法的な器楽曲）』。ricercare とも綴る。音楽史の専門語。",
+      "イタリア語 ricercare（探し求める）に由来し、主題を『探求する』ように展開することから。"
+    ],
+    "etym_note": "イタリア語 ricercare（『探し求める・吟味する』、ri-＋ cercare「探す」、ラテン語 circare「巡る」より）に由来します。主題を念入りに探求・展開する曲であることから。search（探す）と意味的につながります。",
+    "etym_chain": [
+      { "node": "circare", "sub": "巡る・探す", "era": "ラテン語" },
+      { "node": "ricercare", "sub": "探し求める", "era": "イタリア語" },
+      { "node": "ricercar", "sub": "リチェルカーレ", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a six-part ricercar", "ja": "6声のリチェルカーレ" },
+      { "en": "compose a ricercar", "ja": "リチェルカーレを作曲する" },
+      { "en": "a keyboard ricercar", "ja": "鍵盤のリチェルカーレ" },
+      { "en": "the ricercar form", "ja": "リチェルカーレの様式" },
+      { "en": "an early ricercar", "ja": "初期のリチェルカーレ" },
+      { "en": "a contrapuntal ricercar", "ja": "対位法的なリチェルカーレ" }
+    ],
+    "related": [
+      { "en": "fugue", "ja": "フーガ・遁走曲" },
+      { "en": "counterpoint", "ja": "対位法" },
+      { "en": "canon", "ja": "カノン・追復曲" },
+      { "en": "polyphony", "ja": "多声音楽・ポリフォニー" }
+    ],
+    "faq": [
+      { "q": "ricercar とはどんな意味？", "a": "一つの主題を各声部が模倣しながら展開する、16〜17世紀の対位法的な器楽曲『リチェルカーレ』のことです。フーガの先駆けとされます。Bach included a six-part ricercar.（バッハは6声のリチェルカーレを含めた）のように使います。" },
+      { "q": "ricercar と fugue の関係は？", "a": "ricercar は主題を厳格に模倣・展開する初期の対位法曲で、のちに確立された fugue（フーガ）の先駆けとされます。様式の発展史でつながっています。" }
+    ],
+    "quiz": [
+      { "q": "Bach included a six-part ___ in The Musical Offering.（リチェルカーレ）", "A": "ricercar", "B": "guitar のギター", "C": "fanfare のファンファーレ", "D": "register の登録", "correct": "A" },
+      { "q": "ricercar が先駆けとなった様式はどれ？", "A": "フーガ", "B": "ワルツ", "C": "ソナタ", "D": "オペラ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rigadoon",
+    "pron": "ˌrɪɡəˈduːn",
+    "kana": "リガドゥーン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 rigaudon より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "音楽・舞踊"],
+    "meaning_main": "リゴドン（快活な2拍子の古い舞曲）",
+    "description": "rigadoon の意味・発音・例文・語源を解説。17〜18世紀に流行した快活な2拍子の舞曲・踊り「リゴドン（リガドゥーン）」という、音楽や舞踊で使う語の使い方を紹介します。",
+    "keywords": ["rigadoon 意味", "rigadoon 発音", "リゴドン", "舞曲"],
+    "meanings": [
+      { "hinshi": "【名詞】リゴドン（リガドゥーン）", "note": "17〜18世紀のフランス・プロヴァンス起源の、快活で軽快な2拍子の舞曲およびその踊り。バロック組曲にも取り入れられた。フランス語形は rigaudon。" }
+    ],
+    "usages": [
+      { "title": "① 「舞曲」として", "desc": "軽快な踊りの曲を表します。", "example_en": "The suite ends with a lively rigadoon.", "example_ja": "その組曲は軽快なリゴドンで終わる。" },
+      { "title": "② 「踊り」として", "desc": "宮廷舞踊を表します。", "example_en": "Couples danced a rigadoon at the ball.", "example_ja": "男女は舞踏会でリゴドンを踊った。" }
+    ],
+    "warn": [
+      "rigadoon は『リゴドン（快活な2拍子の舞曲・踊り）』。フランス語形は rigaudon。",
+      "バロック音楽の組曲に現れる古い舞曲の一つ。発音はリガドゥーン。"
+    ],
+    "etym_note": "フランス語 rigaudon に由来します。一説に、これを広めたとされる舞踊教師リゴー（Rigaud）の名にちなむと言われます。プロヴァンス地方発祥の民俗舞踊から発展しました。",
+    "etym_chain": [
+      { "node": "rigaudon", "sub": "リゴドン", "era": "フランス語" },
+      { "node": "rigadoon", "sub": "リガドゥーン", "era": "近代英語" },
+      { "node": "rigadoon", "sub": "快活な2拍子の舞曲", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a lively rigadoon", "ja": "軽快なリゴドン" },
+      { "en": "dance a rigadoon", "ja": "リゴドンを踊る" },
+      { "en": "play a rigadoon", "ja": "リゴドンを演奏する" },
+      { "en": "a baroque rigadoon", "ja": "バロックのリゴドン" },
+      { "en": "the rigadoon step", "ja": "リゴドンのステップ" },
+      { "en": "end with a rigadoon", "ja": "リゴドンで締めくくる" }
+    ],
+    "related": [
+      { "en": "gavotte", "ja": "ガヴォット（舞曲）" },
+      { "en": "bourrée", "ja": "ブーレ（舞曲）" },
+      { "en": "minuet", "ja": "メヌエット" },
+      { "en": "suite", "ja": "組曲" }
+    ],
+    "faq": [
+      { "q": "rigadoon とはどんな意味？", "a": "17〜18世紀に流行した、快活で軽快な2拍子のフランスの舞曲および踊り『リゴドン（リガドゥーン）』のことです。The suite ends with a lively rigadoon.（組曲は軽快なリゴドンで終わる）のように使います。" },
+      { "q": "rigadoon はどんな音楽に現れる？", "a": "バロック時代の組曲（suite）に、ガヴォットやブーレなどとともに取り入れられた古い舞曲の一つです。明るく弾むような2拍子が特徴です。" }
+    ],
+    "quiz": [
+      { "q": "The suite ends with a lively ___.（リゴドン）", "A": "rigadoon", "B": "balloon の風船", "C": "lagoon の潟", "D": "monsoon の季節風", "correct": "A" },
+      { "q": "rigadoon はどんな種類の曲？", "A": "快活な2拍子の舞曲", "B": "悲しい葬送曲", "C": "ゆっくりした子守歌", "D": "宗教的な聖歌", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ridotto",
+    "pron": "rɪˈdɒtəʊ",
+    "kana": "リドット",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "イタリア語 ridotto（集まり・避難所）、ラテン語 reductus より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "歴史・社交"],
+    "meaning_main": "リドット（18世紀の音楽・ダンス・賭博の社交場）",
+    "description": "ridotto の意味・発音・例文・語源を解説。18世紀のヴェネツィアなどで開かれた、音楽・ダンス・賭博を伴う公開の社交集会「リドット」という、歴史で使う語の使い方を紹介します。",
+    "keywords": ["ridotto 意味", "ridotto 発音", "リドット", "社交場"],
+    "meanings": [
+      { "hinshi": "【名詞】リドット", "note": "18世紀のイタリア（特にヴェネツィア）や英国で開かれた、音楽・仮面舞踏・賭博を伴う公開の社交集会、またその会場。" }
+    ],
+    "usages": [
+      { "title": "① 「社交集会」として", "desc": "華やかな集いを表します。", "example_en": "Masked guests gathered at the Venetian ridotto.", "example_ja": "仮面の客たちがヴェネツィアのリドットに集まった。" },
+      { "title": "② 「催し」として", "desc": "公開の催事を表します。", "example_en": "Handel's music was sometimes performed at a ridotto.", "example_ja": "ヘンデルの音楽はリドットで演奏されることもあった。" }
+    ],
+    "warn": [
+      "ridotto は『リドット（18世紀の音楽・ダンス・賭博の社交集会）』。歴史・社交史の語。複数形は ridotti。",
+      "ヴェネツィアの仮面文化や賭博と結びついた華やかな催し。"
+    ],
+    "etym_note": "イタリア語 ridotto（『（人の）集まり・私的な部屋・避難所』、ラテン語 reductus「引っ込んだ場所」より）に由来します。reduce（減らす・引き戻す）と同じ reducere の系統です。",
+    "etym_chain": [
+      { "node": "reductus", "sub": "引っ込んだ場所", "era": "ラテン語" },
+      { "node": "ridotto", "sub": "集まり・私室", "era": "イタリア語" },
+      { "node": "ridotto", "sub": "社交集会（リドット）", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a Venetian ridotto", "ja": "ヴェネツィアのリドット" },
+      { "en": "attend a ridotto", "ja": "リドットに出席する" },
+      { "en": "a masked ridotto", "ja": "仮面のリドット" },
+      { "en": "music at the ridotto", "ja": "リドットの音楽" },
+      { "en": "a public ridotto", "ja": "公開のリドット" },
+      { "en": "the gaming ridotto", "ja": "賭博のリドット" }
+    ],
+    "related": [
+      { "en": "assembly", "ja": "集会・社交集会" },
+      { "en": "masquerade", "ja": "仮面舞踏会" },
+      { "en": "ball", "ja": "舞踏会" },
+      { "en": "salon", "ja": "サロン・社交の集い" }
+    ],
+    "faq": [
+      { "q": "ridotto とはどんな意味？", "a": "18世紀のヴェネツィアなどで開かれた、音楽・仮面舞踏・賭博を伴う公開の社交集会『リドット』のことです。Masked guests gathered at the Venetian ridotto.（仮面の客がリドットに集まった）のように使います。" },
+      { "q": "ridotto はどんな雰囲気の催し？", "a": "仮面をつけた人々が音楽やダンス、カードゲーム・賭博に興じる華やかで開放的な社交の場でした。ヴェネツィアの謝肉祭文化と結びついていました。" }
+    ],
+    "quiz": [
+      { "q": "Masked guests gathered at the Venetian ___.（リドット）", "A": "ridotto", "B": "risotto のリゾット", "C": "lotto の宝くじ", "D": "motto の標語", "correct": "A" },
+      { "q": "ridotto で行われたのは次のうちどれ？", "A": "音楽・ダンス・賭博", "B": "農作業", "C": "軍事訓練", "D": "裁判", "correct": "A" }
+    ]
+  },
+  {
+    "english": "remuda",
+    "pron": "rɪˈmuːdə",
+    "kana": "レムーダ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "スペイン語 remuda（交替）、remudar（取り替える）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "牧畜・西部"],
+    "meaning_main": "（牧場の）替え馬の群れ",
+    "description": "remuda の意味・発音・例文・語源を解説。カウボーイが乗り替えるために用意された「替え馬の群れ」という、牧畜やアメリカ西部で使う語の使い方を紹介します。",
+    "keywords": ["remuda 意味", "remuda 発音", "替え馬の群れ", "牧場"],
+    "meanings": [
+      { "hinshi": "【名詞】（牧場の）替え馬の群れ", "note": "牧場やカウボーイが、作業中に乗り替えるために用意した馬の一団。アメリカ南西部・メキシコの牧畜用語。" }
+    ],
+    "usages": [
+      { "title": "① 「替え馬の一団」として", "desc": "乗り替え用の馬群を表します。", "example_en": "Each cowboy chose a fresh mount from the remuda.", "example_ja": "各カウボーイは替え馬の群れから元気な馬を選んだ。" },
+      { "title": "② 「世話」として", "desc": "馬群の管理を表します。", "example_en": "The wrangler watched over the remuda at night.", "example_ja": "馬係は夜の間、替え馬の群れを見張った。" }
+    ],
+    "warn": [
+      "remuda は『（牧場の）替え馬の群れ』。アメリカ西部・牧畜の語。スペイン語 remudar（取り替える）由来。",
+      "馬の世話・管理をする人を wrangler（馬係）と呼ぶ。"
+    ],
+    "etym_note": "スペイン語 remuda（『交替・取り替え』、remudar「取り替える」、re-＋ mudar「変える」、ラテン語 mutare より）に由来します。mutate（変化する）や mutual（相互の）と同じ mutare の系統です。",
+    "etym_chain": [
+      { "node": "mutare", "sub": "変える", "era": "ラテン語" },
+      { "node": "remudar", "sub": "取り替える", "era": "スペイン語" },
+      { "node": "remuda", "sub": "替え馬の群れ", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a fresh horse from the remuda", "ja": "替え馬の群れの元気な馬" },
+      { "en": "tend the remuda", "ja": "替え馬の群れの世話をする" },
+      { "en": "the ranch remuda", "ja": "牧場の替え馬群" },
+      { "en": "round up the remuda", "ja": "替え馬を集める" },
+      { "en": "change horses from the remuda", "ja": "替え馬に乗り替える" },
+      { "en": "a large remuda", "ja": "大きな替え馬の群れ" }
+    ],
+    "related": [
+      { "en": "wrangler", "ja": "馬係・牧夫" },
+      { "en": "mount", "ja": "乗用馬" },
+      { "en": "herd", "ja": "群れ" },
+      { "en": "corral", "ja": "馬囲い・畜舎" }
+    ],
+    "faq": [
+      { "q": "remuda とはどんな意味？", "a": "カウボーイが作業中に乗り替えるために用意された『替え馬の群れ』のことです。Each cowboy chose a fresh mount from the remuda.（各カウボーイは替え馬の群れから元気な馬を選んだ）のように使います。" },
+      { "q": "remuda はどこで使う言葉？", "a": "主にアメリカ南西部やメキシコの牧畜・カウボーイ文化で使われる言葉です。スペイン語の remudar（取り替える）に由来します。" }
+    ],
+    "quiz": [
+      { "q": "Each cowboy chose a fresh mount from the ___.（替え馬の群れ）", "A": "remuda", "B": "armada の艦隊", "C": "veranda のベランダ", "D": "agenda の議題", "correct": "A" },
+      { "q": "remuda のもとになった意味はどれ？", "A": "取り替え・交替", "B": "戦い", "C": "祭り", "D": "眠り", "correct": "A" }
+    ]
+  },
+  {
+    "english": "resorb",
+    "pron": "rɪˈsɔːb",
+    "kana": "リソーブ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 resorbere（吸い戻す）、re-＋ sorbere（吸う）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "医学・生理"],
+    "meaning_main": "再吸収する・吸い戻す",
+    "description": "resorb の意味・発音・例文・語源を解説。体が自分の組織や物質を「再吸収する・吸い戻す」という、医学や生理学で使う語の使い方を紹介します。名詞 resorption も解説。",
+    "keywords": ["resorb 意味", "resorb 発音", "再吸収する", "resorption 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再吸収する・吸い戻す", "note": "体がすでに分泌・形成した物質や組織を再び吸収する。骨の resorb（骨吸収）など。名詞は resorption。" }
+    ],
+    "usages": [
+      { "title": "① 「骨を再吸収する」として", "desc": "組織の吸収を表します。", "example_en": "The body constantly resorbs and rebuilds bone.", "example_ja": "体は絶えず骨を再吸収しては作り直している。" },
+      { "title": "② 「液を吸い戻す」として", "desc": "分泌物の吸収を表します。", "example_en": "Excess fluid is gradually resorbed by the tissue.", "example_ja": "余分な液は組織に徐々に再吸収される。" }
+    ],
+    "warn": [
+      "resorb は『再吸収する・吸い戻す』。医学・生理学の語。名詞は resorption。",
+      "absorb（吸収する）と似るが、resorb は『（自分が出した・作ったものを）吸い戻す』点が特徴。"
+    ],
+    "etym_note": "ラテン語 resorbere（『吸い戻す』、re-（再び・戻す）＋ sorbere「吸う」より）に由来します。absorb（吸収する）や absorbent（吸収性の）と同じ sorbere の系統です。",
+    "etym_chain": [
+      { "node": "sorbere", "sub": "吸う", "era": "ラテン語" },
+      { "node": "resorbere", "sub": "吸い戻す", "era": "ラテン語" },
+      { "node": "resorb", "sub": "再吸収する", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "resorb bone", "ja": "骨を再吸収する" },
+      { "en": "resorb fluid", "ja": "液を再吸収する" },
+      { "en": "be gradually resorbed", "ja": "徐々に再吸収される" },
+      { "en": "resorb the clot", "ja": "血のかたまりを吸収する" },
+      { "en": "bone resorption", "ja": "骨吸収" },
+      { "en": "resorb excess material", "ja": "余分な物質を吸い戻す" }
+    ],
+    "related": [
+      { "en": "absorb", "ja": "吸収する" },
+      { "en": "resorption", "ja": "再吸収・骨吸収" },
+      { "en": "reabsorb", "ja": "再吸収する" },
+      { "en": "assimilate", "ja": "同化する・吸収する" }
+    ],
+    "faq": [
+      { "q": "resorb とはどんな意味？", "a": "体がすでに分泌・形成した物質や組織を『再吸収する・吸い戻す』という意味です。The body constantly resorbs and rebuilds bone.（体は絶えず骨を再吸収しては作り直す）のように、医学・生理学で使います。名詞は resorption です。" },
+      { "q": "resorb と absorb の違いは？", "a": "absorb は『（外部のものを）吸収する』、resorb は『（自分が出した・作ったものを）吸い戻す・再吸収する』点に重点があります。骨や体液の代謝で使われます。" }
+    ],
+    "quiz": [
+      { "q": "The body constantly ___s and rebuilds bone.（再吸収する）", "A": "resorb", "B": "absorb の単に吸収するだけ", "C": "disturb の妨げる", "D": "absurd のばかげた", "correct": "A" },
+      { "q": "resorb の名詞形はどれ？", "A": "resorption（再吸収）", "B": "resortment", "C": "resorbance のみ", "D": "resorbing のみ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rille",
+    "pron": "rɪl",
+    "kana": "リル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ドイツ語 Rille（溝）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "天文・地形"],
+    "meaning_main": "リル（月面などの細長い溝状地形）",
+    "description": "rille の意味・発音・例文・語源を解説。月面に見られる細長い溝・谷状の地形「リル（谷）」という、天文学や惑星地質学で使う語の使い方を紹介します。",
+    "keywords": ["rille 意味", "rille 発音", "リル", "月の谷"],
+    "meanings": [
+      { "hinshi": "【名詞】リル・月の谷（細長い溝状地形）", "note": "月や惑星の表面に見られる、細長い溝・谷のような地形。蛇行するもの（sinuous rille）や直線状のものがある。溶岩流路や陥没で生じたと考えられる。" }
+    ],
+    "usages": [
+      { "title": "① 「月面の溝」として", "desc": "細長い谷を表します。", "example_en": "The astronauts studied a sinuous rille near the landing site.", "example_ja": "宇宙飛行士は着陸地点近くの蛇行するリルを調べた。" },
+      { "title": "② 「成因」として", "desc": "地形の起源を表します。", "example_en": "Many rilles are thought to be collapsed lava channels.", "example_ja": "多くのリルは陥没した溶岩流路だと考えられている。" }
+    ],
+    "warn": [
+      "rille は『リル（月面などの細長い溝・谷状地形）』。天文・惑星地質学の語。",
+      "ドイツ語 Rille（溝）由来。地球の小川 rill（細流）とは別語だが、ともに『細い流れ・溝』のイメージ。"
+    ],
+    "etym_note": "ドイツ語 Rille（『溝・細い溝』）に由来します。月面の溝状地形を表す天文用語として英語に取り入れられました。英語の rill（小川・細流）と語感を共有します。",
+    "etym_chain": [
+      { "node": "Rille", "sub": "溝", "era": "ドイツ語" },
+      { "node": "rille", "sub": "月面の溝", "era": "近代英語" },
+      { "node": "rille", "sub": "リル（月の谷）", "era": "現代天文学" }
+    ],
+    "phrases": [
+      { "en": "a sinuous rille", "ja": "蛇行するリル" },
+      { "en": "a lunar rille", "ja": "月のリル" },
+      { "en": "a straight rille", "ja": "直線状のリル" },
+      { "en": "explore the rille", "ja": "リルを探査する" },
+      { "en": "Hadley Rille", "ja": "ハドリー・リル" },
+      { "en": "collapsed lava rille", "ja": "陥没溶岩のリル" }
+    ],
+    "related": [
+      { "en": "rill", "ja": "小川・細流" },
+      { "en": "crater", "ja": "クレーター" },
+      { "en": "lava tube", "ja": "溶岩洞・溶岩トンネル" },
+      { "en": "canyon", "ja": "峡谷" }
+    ],
+    "faq": [
+      { "q": "rille とはどんな意味？", "a": "月や惑星の表面に見られる細長い溝・谷のような地形『リル』のことです。The astronauts studied a sinuous rille.（宇宙飛行士は蛇行するリルを調べた）のように使います。" },
+      { "q": "rille はどうやってできた？", "a": "多くは溶岩が流れた流路や、その天井が陥没してできたと考えられています。蛇行するもの（sinuous rille）や直線・弓状のものがあります。アポロ15号はハドリー・リルを探査しました。" }
+    ],
+    "quiz": [
+      { "q": "The astronauts studied a sinuous ___ near the landing site.（リル）", "A": "rille", "B": "grill の焼き網", "C": "drill のドリル", "D": "thrill のスリル", "correct": "A" },
+      { "q": "rille はどこに見られる地形？", "A": "月や惑星の表面", "B": "深海の底のみ", "C": "人の体内", "D": "都市の地下", "correct": "A" }
+    ]
+  }
+]
