@@ -1,0 +1,526 @@
+[
+  {
+    "english": "rhetorician",
+    "pron": "ˌrɛtəˈrɪʃən",
+    "kana": "レトリシャン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rhetoric（修辞）＋ -ian（〜の専門家）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "学術・文章"],
+    "meaning_main": "修辞家・雄弁術の達人",
+    "description": "rhetorician の意味・発音・例文・語源を解説。説得力ある話し方や文章術にたけた「修辞家・雄弁術の達人」という、学術や文章で使う語の使い方を紹介します。",
+    "keywords": ["rhetorician 意味", "rhetorician 発音", "修辞家", "rhetoric 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】修辞家・雄弁術の達人", "note": "言葉を効果的に使い人を説得する技術にたけた人。古代では弁論術の教師も指した。やや格式ばった語。" }
+    ],
+    "usages": [
+      { "title": "① 「修辞家」として", "desc": "言葉巧みな人を表します。", "example_en": "The senator was a skilled rhetorician who could sway any audience.", "example_ja": "その上院議員はどんな聴衆も動かせる巧みな修辞家だった。" },
+      { "title": "② やや批判的に「弁の立つ人」として", "desc": "中身より言葉の巧みさが目立つ人を表すこともあります。", "example_en": "Critics called him more rhetorician than thinker.", "example_ja": "批評家は彼を思想家というより弁の立つ人だと評した。" }
+    ],
+    "warn": [
+      "rhetorician は『修辞家・雄弁術の達人』。rh- で始まり h は発音しない（レトリシャン）。",
+      "ほめ言葉にも、『中身より言葉先行』というやや皮肉な意味にもなる。"
+    ],
+    "etym_note": "rhetoric（『修辞・弁論術』、ギリシャ語 rhētorikē「弁論術」、rhētōr「弁論家」より）＋ -ian（人）から成り、「弁論術にたけた人」を意味します。",
+    "etym_chain": [
+      { "node": "rhētōr", "sub": "弁論家", "era": "古代ギリシャ語" },
+      { "node": "rhetoric", "sub": "修辞・弁論術", "era": "中英語" },
+      { "node": "rhetorician", "sub": "修辞家", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a skilled rhetorician", "ja": "巧みな修辞家" },
+      { "en": "a great rhetorician", "ja": "偉大な修辞家" },
+      { "en": "an ancient rhetorician", "ja": "古代の弁論術教師" },
+      { "en": "more rhetorician than thinker", "ja": "思想家というより弁の立つ人" },
+      { "en": "a clever rhetorician", "ja": "賢い修辞家" },
+      { "en": "a famous rhetorician", "ja": "有名な修辞家" }
+    ],
+    "related": [
+      { "en": "rhetoric", "ja": "修辞・弁論術" },
+      { "en": "orator", "ja": "雄弁家・演説者" },
+      { "en": "eloquence", "ja": "雄弁" },
+      { "en": "persuasion", "ja": "説得" }
+    ],
+    "faq": [
+      { "q": "rhetorician とはどんな意味？", "a": "言葉を巧みに使って人を説得する技術にたけた『修辞家・雄弁術の達人』という意味です。a skilled rhetorician（巧みな修辞家）のように使います。古代では弁論術の教師も指しました。" },
+      { "q": "rhetorician と orator の違いは？", "a": "orator は『（実際に演説する）雄弁家』、rhetorician は『修辞・説得術に通じた人（理論家・教師も含む）』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The senator was a skilled ___ who could sway any audience.（修辞家）", "A": "rhetorician", "B": "physician の医師", "C": "musician の音楽家", "D": "technician の技術者", "correct": "A" },
+      { "q": "rhetorician のもとになった名詞はどれ？", "A": "rhetoric（修辞・弁論術）", "B": "rhythm（リズム）", "C": "rhyme（韻）", "D": "rhino（サイ）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "roseate",
+    "pron": "ˈrəʊziət",
+    "kana": "ロウジエット",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 roseus（バラ色の）＋ -ate",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文学・描写"],
+    "meaning_main": "バラ色の・楽観的な",
+    "description": "roseate の意味・発音・例文・語源を解説。空や頬の「バラ色の」、見通しが「楽観的な」という、文学的・描写的に使う語の使い方を紹介します。",
+    "keywords": ["roseate 意味", "roseate 発音", "バラ色の", "rose 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】バラ色の・淡紅色の", "note": "明け方や夕暮れの空、頬などの淡い赤・ピンク色を表す文語。roseate sky（バラ色の空）。" },
+      { "hinshi": "【形容詞】楽観的な・明るい", "note": "比喩で『（実際以上に）バラ色の・楽観的な』。roseate view（楽観的な見方）。" }
+    ],
+    "usages": [
+      { "title": "① 「バラ色の空」として", "desc": "淡紅色の情景を表します。", "example_en": "The roseate glow of dawn spread across the sky.", "example_ja": "夜明けのバラ色の輝きが空一面に広がった。" },
+      { "title": "② 比喩「楽観的な」として", "desc": "明るすぎる見通しを表します。", "example_en": "Their roseate forecasts ignored the real risks.", "example_ja": "彼らの楽観的な予測は実際のリスクを無視していた。" }
+    ],
+    "warn": [
+      "roseate は『バラ色の／楽観的な』。文語的・描写的な語で日常会話ではまれ。",
+      "鳥の名 Roseate Tern（ベニアジサシ）など固有名にも使われる。"
+    ],
+    "etym_note": "ラテン語 roseus（『バラ色の』、rosa「バラ」より）＋ -ate（〜の性質の）から成り、「バラ色の」を意味します。rose（バラ）と同じ語根です。",
+    "etym_chain": [
+      { "node": "rosa", "sub": "バラ", "era": "ラテン語" },
+      { "node": "roseus", "sub": "バラ色の", "era": "ラテン語" },
+      { "node": "roseate", "sub": "バラ色の・楽観的な", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "roseate sky", "ja": "バラ色の空" },
+      { "en": "roseate glow", "ja": "バラ色の輝き" },
+      { "en": "roseate dawn", "ja": "バラ色の夜明け" },
+      { "en": "roseate cheeks", "ja": "バラ色の頬" },
+      { "en": "roseate view", "ja": "楽観的な見方" },
+      { "en": "roseate hue", "ja": "淡紅色の色合い" }
+    ],
+    "related": [
+      { "en": "rose", "ja": "バラ" },
+      { "en": "rosy", "ja": "バラ色の・有望な" },
+      { "en": "pinkish", "ja": "ピンクがかった" },
+      { "en": "optimistic", "ja": "楽観的な" }
+    ],
+    "faq": [
+      { "q": "roseate とはどんな意味？", "a": "空や頬の『バラ色の・淡紅色の』、または比喩で『楽観的な』という意味の文語です。The roseate glow of dawn.（夜明けのバラ色の輝き）のように使います。" },
+      { "q": "roseate と rosy の違いは？", "a": "意味は近いですが、rosy が日常的（rosy cheeks, rosy future）なのに対し、roseate は文学的・格調高い響きを持ちます。" }
+    ],
+    "quiz": [
+      { "q": "The ___ glow of dawn spread across the sky.（バラ色の）", "A": "roseate", "B": "desolate の荒涼とした", "C": "delicate の繊細な", "D": "moderate の適度な", "correct": "A" },
+      { "q": "roseate のもとになった語はどれ？", "A": "rose（バラ）", "B": "rise（昇る）", "C": "rose の同音 rows（列）", "D": "rust（さび）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recondite",
+    "pron": "ˈrɛkəndaɪt",
+    "kana": "レコンダイト",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 reconditus（隠された・秘められた）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "学術・文章"],
+    "meaning_main": "難解な・深遠で分かりにくい",
+    "description": "recondite の意味・発音・例文・語源を解説。専門的で「難解な・深遠で分かりにくい」という、学術や文章で使う上級語の使い方を紹介します。",
+    "keywords": ["recondite 意味", "recondite 発音", "難解な", "深遠な"],
+    "meanings": [
+      { "hinshi": "【形容詞】難解な・深遠で分かりにくい", "note": "一般の人には理解しにくい、専門的で奥深い。recondite subject（難解な主題）。やや高尚な語。" }
+    ],
+    "usages": [
+      { "title": "① 「難解な主題」として", "desc": "理解しにくい専門分野を表します。", "example_en": "The lecture dealt with a recondite branch of mathematics.", "example_ja": "その講義は数学の難解な一分野を扱った。" },
+      { "title": "② 「深遠な知識」として", "desc": "一般には知られない奥深い知識を表します。", "example_en": "He delighted in recondite facts that few people knew.", "example_ja": "彼はほとんど誰も知らない深遠な事実を好んだ。" }
+    ],
+    "warn": [
+      "recondite は『難解な・深遠で分かりにくい』。アクセントは前（レコンダイト）が一般的。",
+      "abstruse（難解な）と近い高尚な語。日常会話ではまれ。"
+    ],
+    "etym_note": "ラテン語 reconditus（『隠された』、recondere「しまい込む・隠す」、re-（強意）＋ condere「収める」より）から成り、「奥にしまわれた＝容易には手の届かない」を意味します。",
+    "etym_chain": [
+      { "node": "recondere", "sub": "しまい込む・隠す", "era": "ラテン語" },
+      { "node": "reconditus", "sub": "隠された", "era": "ラテン語" },
+      { "node": "recondite", "sub": "難解な・深遠な", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a recondite subject", "ja": "難解な主題" },
+      { "en": "recondite knowledge", "ja": "深遠な知識" },
+      { "en": "recondite theory", "ja": "難解な理論" },
+      { "en": "recondite facts", "ja": "ほとんど知られない事実" },
+      { "en": "a recondite argument", "ja": "難解な議論" },
+      { "en": "recondite scholarship", "ja": "深遠な学識" }
+    ],
+    "related": [
+      { "en": "abstruse", "ja": "難解な" },
+      { "en": "esoteric", "ja": "秘伝の・難解な" },
+      { "en": "obscure", "ja": "分かりにくい" },
+      { "en": "profound", "ja": "深遠な" }
+    ],
+    "faq": [
+      { "q": "recondite とはどんな意味？", "a": "専門的で『難解な・深遠で分かりにくい』という意味の上級語です。a recondite branch of mathematics（数学の難解な一分野）のように使います。" },
+      { "q": "recondite と obscure の違いは？", "a": "obscure は『（広く）あいまい・知られていない』、recondite は『（深い専門知識ゆえに）一般には理解しにくい』点に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The lecture dealt with a ___ branch of mathematics.（難解な）", "A": "recondite", "B": "convenient の便利な", "C": "concrete の具体的な", "D": "considerate の思いやりある", "correct": "A" },
+      { "q": "recondite のもとの意味に近いのはどれ？", "A": "隠された・しまい込まれた", "B": "再び数える", "C": "再建する", "D": "和解させる", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rhapsodize",
+    "pron": "ˈræpsədaɪz",
+    "kana": "ラプソダイズ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "rhapsody（狂詩曲・熱狂的言辞）＋ -ize",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文章・会話"],
+    "meaning_main": "熱狂的に語る・絶賛する",
+    "description": "rhapsodize の意味・発音・例文・語源を解説。何かについて「熱狂的に語る・夢中で絶賛する」という、文章や会話で使う語の使い方を紹介します。",
+    "keywords": ["rhapsodize 意味", "rhapsodize 発音", "熱狂的に語る", "rhapsody 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】熱狂的に語る・夢中で絶賛する", "note": "あふれる感情で大げさにほめたたえる。rhapsodize about ...（〜について熱く語る）。英国綴りは rhapsodise。" }
+    ],
+    "usages": [
+      { "title": "① 「熱狂的に語る」として", "desc": "夢中で語ることを表します。", "example_en": "She rhapsodized about her trip to Italy for an hour.", "example_ja": "彼女はイタリア旅行について1時間も熱く語った。" },
+      { "title": "② 「絶賛する」として", "desc": "大げさにほめることを表します。", "example_en": "Critics rhapsodized over the young pianist's debut.", "example_ja": "批評家たちはその若いピアニストのデビューを絶賛した。" }
+    ],
+    "warn": [
+      "rhapsodize は『熱狂的に語る・絶賛する』。rh- の h は無音（ラプソダイズ）。",
+      "about / over を伴って『〜について熱く語る』の形が多い。"
+    ],
+    "etym_note": "rhapsody（『狂詩曲・熱狂的な言葉』、ギリシャ語 rhapsōidia「叙事詩の朗唱」、rhaptein「縫い合わせる」＋ ōidē「歌」より）＋ -ize から成り、「熱狂的に歌い語ること」を意味します。",
+    "etym_chain": [
+      { "node": "rhapsōidia", "sub": "叙事詩の朗唱", "era": "古代ギリシャ語" },
+      { "node": "rhapsody", "sub": "狂詩曲・熱狂的言辞", "era": "近代英語" },
+      { "node": "rhapsodize", "sub": "熱狂的に語る", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rhapsodize about the trip", "ja": "旅行について熱く語る" },
+      { "en": "rhapsodize over the food", "ja": "料理を絶賛する" },
+      { "en": "rhapsodize about art", "ja": "芸術について熱狂的に語る" },
+      { "en": "rhapsodize endlessly", "ja": "延々と熱く語る" },
+      { "en": "rhapsodize over the view", "ja": "景色に夢中になって語る" },
+      { "en": "rhapsodize about love", "ja": "愛について熱く語る" }
+    ],
+    "related": [
+      { "en": "rhapsody", "ja": "狂詩曲・熱狂的言辞" },
+      { "en": "gush", "ja": "大げさにほめる" },
+      { "en": "rave", "ja": "べた褒めする" },
+      { "en": "extol", "ja": "激賞する" }
+    ],
+    "faq": [
+      { "q": "rhapsodize とはどんな意味？", "a": "何かについて『熱狂的に語る・夢中で絶賛する』という意味です。She rhapsodized about her trip.（旅行について熱く語った）のように、about や over を伴って使います。" },
+      { "q": "rhapsodize と rave の違いは？", "a": "rave も『べた褒めする』ですが、rhapsodize は『（詩的に・あふれる感情で）熱く語る』というやや文学的な響きがあります。" }
+    ],
+    "quiz": [
+      { "q": "She ___d about her trip to Italy for an hour.（熱く語った）", "A": "rhapsodize", "B": "criticize の批判する", "C": "apologize の謝る", "D": "summarize の要約する", "correct": "A" },
+      { "q": "rhapsodize のもとになった名詞はどれ？", "A": "rhapsody（狂詩曲・熱狂的言辞）", "B": "remedy（治療）", "C": "rhythm（リズム）", "D": "registry（登録簿）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rollick",
+    "pron": "ˈrɒlɪk",
+    "kana": "ロリック",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "おそらく romp と frolic の混成",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文章・描写"],
+    "meaning_main": "陽気にはしゃぐ・浮かれ騒ぐ",
+    "description": "rollick の意味・発音・例文・語源を解説。陽気に「はしゃぐ・浮かれ騒ぐ」という、文章や描写で使う語の使い方を例文とともに紹介します。形容詞 rollicking も紹介。",
+    "keywords": ["rollick 意味", "rollick 発音", "はしゃぐ", "rollicking 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】陽気にはしゃぐ・浮かれ騒ぐ", "note": "明るく元気に騒いで楽しむ。rollick on the beach（浜辺ではしゃぐ）。形容詞 rollicking（陽気で楽しい）が特によく使われる。" }
+    ],
+    "usages": [
+      { "title": "① 「はしゃぐ」として", "desc": "陽気に騒いで楽しむことを表します。", "example_en": "The children rollicked in the autumn leaves.", "example_ja": "子どもたちは秋の落ち葉の中ではしゃいだ。" },
+      { "title": "② 形容詞 rollicking として", "desc": "『陽気で楽しい・痛快な』という意味で使います。", "example_en": "It was a rollicking adventure story.", "example_ja": "それは痛快で楽しい冒険物語だった。" }
+    ],
+    "warn": [
+      "rollick は『陽気にはしゃぐ・浮かれ騒ぐ』。動詞より形容詞 rollicking（陽気な・痛快な）の方がよく使われる。",
+      "frolic（はしゃぐ）と意味・響きが近い。"
+    ],
+    "etym_note": "語源ははっきりしませんが、romp（はね回る）と frolic（はしゃぐ）が混ざってできた語と考えられています。陽気に動き回る様子を表します。",
+    "etym_chain": [
+      { "node": "romp + frolic", "sub": "はね回る＋はしゃぐ", "era": "混成（推定）" },
+      { "node": "rollick", "sub": "陽気にはしゃぐ", "era": "近代英語" },
+      { "node": "rollicking", "sub": "陽気な・痛快な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rollick in the leaves", "ja": "落ち葉の中ではしゃぐ" },
+      { "en": "rollick on the beach", "ja": "浜辺ではしゃぐ" },
+      { "en": "a rollicking tune", "ja": "陽気な曲" },
+      { "en": "a rollicking comedy", "ja": "痛快な喜劇" },
+      { "en": "a rollicking good time", "ja": "とても楽しい時間" },
+      { "en": "rollicking adventure", "ja": "痛快な冒険" }
+    ],
+    "related": [
+      { "en": "frolic", "ja": "はしゃぐ・戯れる" },
+      { "en": "romp", "ja": "はね回る" },
+      { "en": "cavort", "ja": "陽気に飛び回る" },
+      { "en": "revel", "ja": "浮かれ騒ぐ" }
+    ],
+    "faq": [
+      { "q": "rollick とはどんな意味？", "a": "陽気に『はしゃぐ・浮かれ騒ぐ』という意味です。The children rollicked in the leaves.（子どもたちは落ち葉の中ではしゃいだ）のように使います。形容詞 rollicking（陽気な・痛快な）が特によく使われます。" },
+      { "q": "rollicking はどう使う？", "a": "『陽気で楽しい・痛快な』という意味の形容詞で、a rollicking comedy（痛快な喜劇）や a rollicking good time（とても楽しい時間）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The children ___ed in the autumn leaves.（はしゃいだ）", "A": "rollick", "B": "rollerの転がす人", "C": "rally の集結する", "D": "rattle のガタガタ鳴る", "correct": "A" },
+      { "q": "rollick と意味が近いのはどれ？", "A": "frolic（はしゃぐ）", "B": "frighten（怖がらせる）", "C": "follow（従う）", "D": "fumble（手探りする）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rusticate",
+    "pron": "ˈrʌstɪkeɪt",
+    "kana": "ラスティケイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 rusticari（田舎で暮らす）＋ -ate",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "文章・英国"],
+    "meaning_main": "田舎で暮らす・（英）停学にする",
+    "description": "rusticate の意味・発音・例文・語源を解説。都会を離れて「田舎で暮らす」、英国の大学で「（一時的に）停学にする」という語の使い方を紹介します。",
+    "keywords": ["rusticate 意味", "rusticate 発音", "田舎で暮らす", "停学にする"],
+    "meanings": [
+      { "hinshi": "【動詞】田舎で暮らす・田舎へ引っ込む", "note": "都会を離れて田舎でのんびり過ごす。文語的。" },
+      { "hinshi": "【動詞】（英）停学にする", "note": "英国の大学（特にオックスブリッジ）で学生を一時的に退学・停学処分にする。" }
+    ],
+    "usages": [
+      { "title": "① 「田舎で暮らす」として", "desc": "都会を離れて過ごすことを表します。", "example_en": "After retiring, they rusticated in a small village.", "example_ja": "引退後、彼らは小さな村で田舎暮らしをした。" },
+      { "title": "② 英国「停学にする」として", "desc": "大学が学生を一時的に処分することを表します。", "example_en": "He was rusticated for a term for breaking the rules.", "example_ja": "彼は規則違反で一学期間の停学処分を受けた。" }
+    ],
+    "warn": [
+      "rusticate は『田舎で暮らす／（英）停学にする』。後者は英国大学特有の用法。",
+      "石材を粗面仕上げにする建築用語としても使う（rustication）。"
+    ],
+    "etym_note": "ラテン語 rusticari（『田舎で暮らす』、rusticus「田舎の」、rus「田舎・野」より）＋ -ate から成り、「田舎で暮らすこと」を意味します。rural（田舎の）や rustic（素朴な）と同じ語根です。",
+    "etym_chain": [
+      { "node": "rus", "sub": "田舎・野", "era": "ラテン語" },
+      { "node": "rusticari", "sub": "田舎で暮らす", "era": "ラテン語" },
+      { "node": "rusticate", "sub": "田舎で暮らす・停学にする", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "rusticate in the country", "ja": "田舎で暮らす" },
+      { "en": "rusticate for a while", "ja": "しばらく田舎に引っ込む" },
+      { "en": "be rusticated", "ja": "停学処分を受ける" },
+      { "en": "rusticate a student", "ja": "学生を停学にする" },
+      { "en": "rusticate for a term", "ja": "一学期間停学にする" },
+      { "en": "rusticated stonework", "ja": "粗面仕上げの石細工" }
+    ],
+    "related": [
+      { "en": "rustic", "ja": "素朴な・田舎の" },
+      { "en": "rural", "ja": "田舎の・地方の" },
+      { "en": "retreat", "ja": "引きこもる・退く" },
+      { "en": "suspend", "ja": "停学にする・停止する" }
+    ],
+    "faq": [
+      { "q": "rusticate とはどんな意味？", "a": "都会を離れて『田舎で暮らす』、または英国の大学で学生を『（一時的に）停学にする』という意味です。He was rusticated for a term.（一学期の停学処分を受けた）のように使います。" },
+      { "q": "rusticate の『停学』の用法は？", "a": "主に英国（オックスフォードやケンブリッジなど）で、学生を一定期間大学から退かせる処分を指す独特の用法です。退学（send down）より軽い処分です。" }
+    ],
+    "quiz": [
+      { "q": "He was ___d for a term for breaking the rules.（停学にされた）", "A": "rusticate", "B": "graduate の卒業する", "C": "calculate の計算する", "D": "decorate の飾る", "correct": "A" },
+      { "q": "rusticate のもとになった語根の意味はどれ？", "A": "田舎・野（rus）", "B": "さび（rust）", "C": "急ぐ（rush）", "D": "規則（rule）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "resend",
+    "pron": "ˌriːˈsɛnd",
+    "kana": "リセンド",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ send（送る）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "IT・ビジネス"],
+    "meaning_main": "再送する・もう一度送る",
+    "description": "resend の意味・発音・例文・語源を解説。メールや荷物を「再送する・もう一度送る」という、ITやビジネスで使う語の使い方を例文とともに紹介します。",
+    "keywords": ["resend 意味", "resend 発音", "再送する", "send 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再送する・もう一度送る", "note": "届かなかった・送り直したいメールや荷物を再び送る。resend the email（メールを再送する）。過去形は resent。" }
+    ],
+    "usages": [
+      { "title": "① 「メールを再送する」として", "desc": "もう一度送ることを表します。", "example_en": "Could you resend the email? I didn't receive it.", "example_ja": "メールを再送してもらえますか。届いていないんです。" },
+      { "title": "② 「荷物を再送する」として", "desc": "再び発送することを表します。", "example_en": "The seller resent the package after it was lost.", "example_ja": "売り手は荷物が紛失したあと再送した。" }
+    ],
+    "warn": [
+      "resend は『再送する・もう一度送る』。re-（再び）＋ send。過去形・過去分詞は resent。",
+      "綴り resent は『憤慨する』という別語と同形なので文脈に注意。"
+    ],
+    "etym_note": "re-（再び）＋ send（『送る』、古英語 sendan「送る」より）から成り、「再び送ること」を意味します。godsend（天の恵み）の send と同じ語根です。",
+    "etym_chain": [
+      { "node": "sendan", "sub": "送る", "era": "古英語" },
+      { "node": "send", "sub": "送る", "era": "中英語" },
+      { "node": "resend", "sub": "再送する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "resend the email", "ja": "メールを再送する" },
+      { "en": "resend the message", "ja": "メッセージを再送する" },
+      { "en": "resend the package", "ja": "荷物を再送する" },
+      { "en": "resend the invoice", "ja": "請求書を再送する" },
+      { "en": "resend the link", "ja": "リンクを再送する" },
+      { "en": "please resend", "ja": "再送してください" }
+    ],
+    "related": [
+      { "en": "send", "ja": "送る" },
+      { "en": "forward", "ja": "転送する" },
+      { "en": "retransmit", "ja": "再送信する" },
+      { "en": "resubmit", "ja": "再提出する" }
+    ],
+    "faq": [
+      { "q": "resend とはどんな意味？", "a": "メールや荷物を『再送する・もう一度送る』という意味です。Could you resend the email?（メールを再送してもらえますか）のように使います。過去形は resent です。" },
+      { "q": "resend の過去形 resent に注意点は？", "a": "send の過去形 sent に re- が付いた resent ですが、まったく別語の resent（憤慨する）と綴りが同じです。文脈で判断します。" }
+    ],
+    "quiz": [
+      { "q": "Could you ___ the email? I didn't receive it.（再送する）", "A": "resend", "B": "send の最初に送るだけ", "C": "spend の費やす", "D": "lend の貸す", "correct": "A" },
+      { "q": "resend の過去形はどれ？", "A": "resent", "B": "resended", "C": "resound", "D": "resold", "correct": "A" }
+    ]
+  },
+  {
+    "english": "redraw",
+    "pron": "ˌriːˈdrɔː",
+    "kana": "リドロー",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ draw（描く・引く）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "一般・地理"],
+    "meaning_main": "描き直す・（境界などを）引き直す",
+    "description": "redraw の意味・発音・例文・語源を解説。絵や図を「描き直す」、境界線を「引き直す」という、美術や地理で使う語の使い方を紹介します。",
+    "keywords": ["redraw 意味", "redraw 発音", "描き直す", "draw 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】描き直す・引き直す", "note": "絵・図・線を再び描く。redraw the map（地図を描き直す）。過去形は redrew、過去分詞は redrawn。" },
+      { "hinshi": "【動詞】（境界・計画を）引き直す・見直す", "note": "選挙区や国境などを改める。redraw the boundaries（境界を引き直す）。" }
+    ],
+    "usages": [
+      { "title": "① 「図を描き直す」として", "desc": "もう一度描くことを表します。", "example_en": "The architect redrew the plans after the feedback.", "example_ja": "建築家は意見を受けて図面を描き直した。" },
+      { "title": "② 「境界を引き直す」として", "desc": "区分を改めることを表します。", "example_en": "The committee redrew the electoral boundaries.", "example_ja": "委員会は選挙区の境界を引き直した。" }
+    ],
+    "warn": [
+      "redraw は『描き直す／引き直す』。re-（再び）＋ draw。活用は redraw-redrew-redrawn。",
+      "比喩で『（計画・区分を）見直す・引き直す』にも使う。"
+    ],
+    "etym_note": "re-（再び）＋ draw（『引く・描く』、古英語 dragan「引く」より）から成り、「再び（線を）引く・描くこと」を意味します。draught（一引き）や drag（引く）と同じ語根です。",
+    "etym_chain": [
+      { "node": "dragan", "sub": "引く", "era": "古英語" },
+      { "node": "draw", "sub": "引く・描く", "era": "中英語" },
+      { "node": "redraw", "sub": "描き直す・引き直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "redraw the map", "ja": "地図を描き直す" },
+      { "en": "redraw the plans", "ja": "図面を描き直す" },
+      { "en": "redraw the boundaries", "ja": "境界を引き直す" },
+      { "en": "redraw the lines", "ja": "線を引き直す" },
+      { "en": "redraw the diagram", "ja": "図を描き直す" },
+      { "en": "redraw the border", "ja": "国境を引き直す" }
+    ],
+    "related": [
+      { "en": "draw", "ja": "描く・引く" },
+      { "en": "redrawn", "ja": "描き直された（過去分詞）" },
+      { "en": "sketch", "ja": "下書きする" },
+      { "en": "revise", "ja": "改訂する・見直す" }
+    ],
+    "faq": [
+      { "q": "redraw とはどんな意味？", "a": "絵や図を『描き直す』、境界線などを『引き直す』という意味です。The architect redrew the plans.（図面を描き直した）のように使います。" },
+      { "q": "redraw の活用は？", "a": "draw と同じ不規則変化で、redraw - redrew - redrawn となります。「redrew the map（地図を描き直した）」のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The committee ___ the electoral boundaries.（引き直した）", "A": "redrew（redraw の過去形）", "B": "redrawed", "C": "redrawn を過去形として", "D": "redrew の代わりに drew", "correct": "A" },
+      { "q": "redraw のもとになった動詞はどれ？", "A": "draw（引く・描く）", "B": "drag の同義 draw ではなく drown（溺れる）", "C": "dream（夢見る）", "D": "dress（服を着せる）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recoat",
+    "pron": "ˌriːˈkəʊt",
+    "kana": "リコート",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ coat（塗る・覆う）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "塗装・工業"],
+    "meaning_main": "塗り直す・再びコーティングする",
+    "description": "recoat の意味・発音・例文・語源を解説。塗料や被膜を「塗り直す・再びコーティングする」という、塗装や工業で使う語の使い方を紹介します。",
+    "keywords": ["recoat 意味", "recoat 発音", "塗り直す", "coat 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】塗り直す・再びコーティングする", "note": "塗料・ニス・被膜などを重ねて塗り直す。recoat the wall（壁を塗り直す）。" }
+    ],
+    "usages": [
+      { "title": "① 「壁を塗り直す」として", "desc": "塗料を重ねて塗ることを表します。", "example_en": "Let the first layer dry before you recoat the wall.", "example_ja": "壁を塗り直す前に最初の層を乾かしなさい。" },
+      { "title": "② 工業「再コーティングする」として", "desc": "被膜を再び施すことを表します。", "example_en": "The metal parts were recoated to prevent rust.", "example_ja": "金属部品はさびを防ぐため再コーティングされた。" }
+    ],
+    "warn": [
+      "recoat は『塗り直す・再びコーティングする』。re-（再び）＋ coat。",
+      "ここでの coat は『上着』ではなく『塗る・被膜で覆う』という動詞。recoat time（重ね塗りまでの乾燥時間）。"
+    ],
+    "etym_note": "re-（再び）＋ coat（『覆う・塗る』、古フランス語 cote「上着・覆い」より）から成り、「再び（塗料で）覆うこと」を意味します。名詞 coat（上着・被膜）と同じ語根です。",
+    "etym_chain": [
+      { "node": "cote", "sub": "上着・覆い", "era": "古フランス語" },
+      { "node": "coat", "sub": "塗る・覆う", "era": "中英語" },
+      { "node": "recoat", "sub": "塗り直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "recoat the wall", "ja": "壁を塗り直す" },
+      { "en": "recoat the surface", "ja": "表面を塗り直す" },
+      { "en": "recoat with varnish", "ja": "ニスを塗り直す" },
+      { "en": "recoat the deck", "ja": "デッキを塗り直す" },
+      { "en": "recoat time", "ja": "重ね塗りまでの乾燥時間" },
+      { "en": "recoat for protection", "ja": "保護のため再塗装する" }
+    ],
+    "related": [
+      { "en": "coat", "ja": "塗る・覆う・上着" },
+      { "en": "coating", "ja": "被膜・コーティング" },
+      { "en": "repaint", "ja": "塗り直す（ペンキ）" },
+      { "en": "varnish", "ja": "ニスを塗る" }
+    ],
+    "faq": [
+      { "q": "recoat とはどんな意味？", "a": "塗料やニス、被膜などを『塗り直す・再びコーティングする』という意味です。Let the first layer dry before you recoat.（塗り直す前に最初の層を乾かしなさい）のように使います。" },
+      { "q": "recoat と repaint の違いは？", "a": "repaint は特に『ペンキを塗り直す』、recoat は『（塗料・ニス・被膜など一般を）重ね塗り・再コーティングする』広い語です。" }
+    ],
+    "quiz": [
+      { "q": "Let the first layer dry before you ___ the wall.（塗り直す）", "A": "recoat", "B": "coat の最初に塗るだけ", "C": "react の反応する", "D": "recall の思い出す", "correct": "A" },
+      { "q": "recoat の coat はどんな意味？", "A": "塗る・覆う", "B": "上着だけ", "C": "山羊", "D": "海岸", "correct": "A" }
+    ]
+  },
+  {
+    "english": "refile",
+    "pron": "ˌriːˈfaɪl",
+    "kana": "リファイル",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ file（提出する・整理保管する）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "法律・事務"],
+    "meaning_main": "再提出する・再びファイルする",
+    "description": "refile の意味・発音・例文・語源を解説。書類や申請を「再提出する」、文書を「再びファイルする・整理し直す」という、法律や事務で使う語の使い方を紹介します。",
+    "keywords": ["refile 意味", "refile 発音", "再提出する", "file 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再提出する・改めて申請する", "note": "却下・不備のあった書類や申請を再び正式に出す。refile the lawsuit（訴訟を再提起する）。refile the form（書類を再提出する）。" },
+      { "hinshi": "【動詞】再びファイルする・整理し直す", "note": "書類を元の場所に戻す・整理し直す。" }
+    ],
+    "usages": [
+      { "title": "① 法律「再提出する」として", "desc": "申請や訴えを改めて出すことを表します。", "example_en": "The attorney refiled the motion with the missing documents.", "example_ja": "弁護士は不足書類を添えて申立てを再提出した。" },
+      { "title": "② 事務「整理し直す」として", "desc": "書類を再び整理保管することを表します。", "example_en": "Please refile these folders in alphabetical order.", "example_ja": "これらのフォルダをアルファベット順に整理し直してください。" }
+    ],
+    "warn": [
+      "refile は『再提出する／再びファイルする』。re-（再び）＋ file。",
+      "file は『（書類を）提出する』『（公的に）申請する』『整理保管する』の意味があり、refile も対応する。"
+    ],
+    "etym_note": "re-（再び）＋ file（『書類をとじる・提出する』、ラテン語 filum「糸」より。昔は書類を糸に通して保管したことに由来）から成り、「再びとじ・提出すること」を意味します。",
+    "etym_chain": [
+      { "node": "filum", "sub": "糸", "era": "ラテン語" },
+      { "node": "file", "sub": "提出する・整理保管する", "era": "近代英語" },
+      { "node": "refile", "sub": "再提出する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "refile the form", "ja": "書類を再提出する" },
+      { "en": "refile the application", "ja": "申請を再提出する" },
+      { "en": "refile the lawsuit", "ja": "訴訟を再提起する" },
+      { "en": "refile the taxes", "ja": "税の申告をやり直す" },
+      { "en": "refile the documents", "ja": "書類を整理し直す" },
+      { "en": "refile the motion", "ja": "申立てを再提出する" }
+    ],
+    "related": [
+      { "en": "file", "ja": "提出する・整理保管する" },
+      { "en": "resubmit", "ja": "再提出する" },
+      { "en": "reapply", "ja": "再申請する" },
+      { "en": "archive", "ja": "保管する" }
+    ],
+    "faq": [
+      { "q": "refile とはどんな意味？", "a": "却下・不備のあった書類や申請を『再提出する』、または文書を『再びファイルする・整理し直す』という意味です。The attorney refiled the motion.（弁護士は申立てを再提出した）のように使います。" },
+      { "q": "refile と resubmit の違いは？", "a": "ほぼ同義ですが、refile は特に『（裁判所・役所に）正式に再び提出・申請する』法律事務的な響き、resubmit は一般的な『再提出』です。" }
+    ],
+    "quiz": [
+      { "q": "The attorney ___d the motion with the missing documents.（再提出した）", "A": "refile", "B": "file の最初に提出するだけ", "C": "refine の精製する", "D": "defile の汚す", "correct": "A" },
+      { "q": "refile の file はどんな意味を含む？", "A": "提出する・整理保管する", "B": "やすりで削るだけ", "C": "満たす", "D": "感じる", "correct": "A" }
+    ]
+  }
+]

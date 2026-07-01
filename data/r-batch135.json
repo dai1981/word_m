@@ -1,0 +1,526 @@
+[
+  {
+    "english": "reframe",
+    "pron": "ˌriːˈfreɪm",
+    "kana": "リフレイム",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ frame（枠に入れる・組み立てる）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "心理・ビジネス"],
+    "meaning_main": "（問題・状況を）とらえ直す・別の枠組みで考える／額に入れ直す",
+    "description": "reframe の意味・発音・例文・語源を解説。問題や状況を「別の見方でとらえ直す」、また写真などを「額に入れ直す」という、心理・ビジネスで使う語を紹介します。",
+    "keywords": ["reframe 意味", "reframe 発音", "とらえ直す", "frame 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（問題・状況を）とらえ直す・別の枠組みで考える", "note": "見方・枠組みを変えて考える。reframe the problem as an opportunity（問題を好機としてとらえ直す）。心理学・思考法でよく使う。" },
+      { "hinshi": "【動詞】（絵・写真を）額に入れ直す・枠を付け替える", "note": "reframe the painting（絵を額装し直す）。" }
+    ],
+    "usages": [
+      { "title": "① 「とらえ直す」として", "desc": "別の見方をすることを表します。", "example_en": "Try to reframe failure as a chance to learn.", "example_ja": "失敗を学ぶ機会としてとらえ直してみよう。" },
+      { "title": "② 「額に入れ直す」として", "desc": "枠を付け替えることを表します。", "example_en": "She reframed the old photograph.", "example_ja": "彼女は古い写真を額装し直した。" }
+    ],
+    "warn": [
+      "reframe は『（問題・状況を）とらえ直す・別の枠組みで考える』が中心。re-（再び）＋ frame（枠・枠組み）。名詞 reframing。",
+      "心理学・コーチングの『リフレーミング（見方を変える技法）』で頻出。"
+    ],
+    "etym_note": "re-（再び）＋ frame（『枠・枠組み・組み立てる』、古英語 framian「役立つ・形づくる」より）から成り、「枠組みを作り直すこと＝とらえ直す」を意味します。",
+    "etym_chain": [
+      { "node": "framian", "sub": "形づくる・役立つ", "era": "古英語" },
+      { "node": "frame", "sub": "枠・組み立てる", "era": "中英語" },
+      { "node": "reframe", "sub": "とらえ直す・額に入れ直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reframe the problem", "ja": "問題をとらえ直す" },
+      { "en": "reframe failure as a chance", "ja": "失敗を好機ととらえ直す" },
+      { "en": "reframe the issue", "ja": "問題を別の枠組みで考える" },
+      { "en": "reframe the debate", "ja": "議論の枠組みを変える" },
+      { "en": "reframe the painting", "ja": "絵を額装し直す" },
+      { "en": "cognitive reframing", "ja": "認知のリフレーミング" }
+    ],
+    "related": [
+      { "en": "frame", "ja": "枠・枠組み・組み立てる" },
+      { "en": "reframing", "ja": "とらえ直し・リフレーミング" },
+      { "en": "rethink", "ja": "考え直す" },
+      { "en": "reinterpret", "ja": "解釈し直す" }
+    ],
+    "faq": [
+      { "q": "reframe とはどんな意味？", "a": "問題や状況を『別の見方でとらえ直す・別の枠組みで考える』という意味が中心です。Try to reframe failure as a chance to learn.（失敗を学ぶ機会としてとらえ直そう）のように、心理学やビジネスで使います。額に入れ直す意味もあります。" },
+      { "q": "リフレーミングとは？", "a": "reframing のことで、心理学・コーチングで『物事の見方（枠組み）を変えて、前向きにとらえ直す技法』を指します。例えば『欠点』を『個性』ととらえ直すようなことです。" }
+    ],
+    "quiz": [
+      { "q": "Try to ___ failure as a chance to learn.（とらえ直す）", "A": "reframe", "B": "frame の最初に枠に入れるだけ", "C": "refuse の拒む", "D": "refund の払い戻す", "correct": "A" },
+      { "q": "reframe のもとになった語 frame の意味でないものは？", "A": "感情", "B": "枠", "C": "枠組み", "D": "組み立てる", "correct": "A" }
+    ]
+  },
+  {
+    "english": "refuel",
+    "pron": "ˌriːˈfjuːəl",
+    "kana": "リフューエル",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ fuel（燃料を補給する）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出語"],
+    "meaning_main": "燃料を補給する・給油する／（比喩）エネルギーを補給する",
+    "description": "refuel の意味・発音・例文・語源を解説。飛行機や車に「燃料を補給する・給油する」、また比喩で人や経済が「エネルギーを補給する」という使い方を紹介します。",
+    "keywords": ["refuel 意味", "refuel 発音", "給油する", "fuel 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】燃料を補給する・給油する", "note": "乗り物に燃料を入れる。The plane stopped to refuel.（飛行機は給油のため着陸した）。" },
+      { "hinshi": "【動詞】(比喩)エネルギー・活力を補給する／（対立などを）あおる", "note": "refuel oneself with food（食事で元気を補給する）。refuel tensions（緊張をあおる）。" }
+    ],
+    "usages": [
+      { "title": "① 「給油する」として", "desc": "燃料補給を表します。", "example_en": "The truck pulled over to refuel.", "example_ja": "トラックは給油のため路肩に寄った。" },
+      { "title": "② 比喩「元気を補給する」として", "desc": "活力の補給を表します。", "example_en": "Runners refuel with energy gels.", "example_ja": "ランナーはエネルギージェルで補給する。" }
+    ],
+    "warn": [
+      "refuel は『燃料を補給する・給油する』が中心。比喩で『エネルギーを補給する』『（対立を）あおる』。re-（再び）＋ fuel（燃料・燃料を補給する）。",
+      "過去形は refueled / refuelled（米・英でつづりが違う）。"
+    ],
+    "etym_note": "re-（再び）＋ fuel（『燃料・燃料を補給する』、古フランス語 fouaille「たきぎ」、ラテン語 focus「炉」より）から成り、「再び燃料を入れること」を意味します。focus（焦点）と同じ語根です。",
+    "etym_chain": [
+      { "node": "focus", "sub": "炉", "era": "ラテン語" },
+      { "node": "fuel", "sub": "燃料・燃料を補給する", "era": "中英語" },
+      { "node": "refuel", "sub": "燃料を補給する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "stop to refuel", "ja": "給油のため止まる" },
+      { "en": "refuel the plane", "ja": "飛行機に給油する" },
+      { "en": "refuel in midair", "ja": "空中給油する" },
+      { "en": "refuel and rest", "ja": "給油して休む" },
+      { "en": "refuel with food", "ja": "食事で元気を補給する" },
+      { "en": "refuel the debate", "ja": "議論を再びあおる" }
+    ],
+    "related": [
+      { "en": "fuel", "ja": "燃料・燃料を補給する" },
+      { "en": "gas up", "ja": "給油する" },
+      { "en": "recharge", "ja": "再充電する・元気を取り戻す" },
+      { "en": "replenish", "ja": "補充する" }
+    ],
+    "faq": [
+      { "q": "refuel とはどんな意味？", "a": "飛行機や車に『燃料を補給する・給油する』、また比喩で人や経済が『エネルギー・活力を補給する』という意味です。The plane stopped to refuel.（飛行機は給油のため着陸した）のように使います。" },
+      { "q": "refuel は比喩でも使う？", "a": "はい。運動後に『食事で元気を補給する（refuel）』、また『（対立・議論を）再びあおる（refuel tensions）』のように、エネルギーや勢いを補給・再燃させる比喩でも使われます。" }
+    ],
+    "quiz": [
+      { "q": "The plane stopped to ___.（給油する）", "A": "refuel", "B": "refuse の拒む", "C": "refund の払い戻す", "D": "refer の言及する", "correct": "A" },
+      { "q": "refuel のもとになった名詞はどれ？", "A": "fuel（燃料）", "B": "fool（ばか）", "C": "feel（感じる）", "D": "fail（失敗する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "regift",
+    "pron": "ˌriːˈɡɪft",
+    "kana": "リギフト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ gift（贈る・贈り物）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "口語・日常"],
+    "meaning_main": "（もらった贈り物を）他の人に贈り直す・回す",
+    "description": "regift の意味・発音・例文・語源を解説。自分がもらった贈り物を、別の人へのプレゼントとして「贈り直す・回す」という、くだけた日常語の使い方を紹介します。",
+    "keywords": ["regift 意味", "regift 発音", "贈り直す", "gift 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（もらった贈り物を）他の人に贈り直す・回す", "note": "自分が受け取ったプレゼントを、別の人へのプレゼントとして渡す。regift an unwanted present（いらない贈り物を回す）。比較的新しい口語。名詞 regift / regifting も。" }
+    ],
+    "usages": [
+      { "title": "① 「贈り物を回す」として", "desc": "もらった物を別の人に渡すことを表します。", "example_en": "She regifted the candle she didn't need.", "example_ja": "彼女はいらないキャンドルを別の人に回した。" },
+      { "title": "② 日常の文脈で", "desc": "プレゼントの使い回しを表します。", "example_en": "Is it rude to regift a present?", "example_ja": "もらった物を他の人にあげるのは失礼かな？" }
+    ],
+    "warn": [
+      "regift は『（もらった贈り物を）他の人に贈り直す・回す』。re-（再び）＋ gift（贈る）。比較的新しいくだけた口語。",
+      "名詞でも使う（a regift＝使い回しの贈り物）。失礼と思われる場合もあるので場面に注意。"
+    ],
+    "etym_note": "re-（再び）＋ gift（『贈り物・贈る』、古ノルド語 gift「贈り物」より）から成り、「再び（別の人に）贈ること」を意味します。20世紀末〜21世紀に広まった語です。",
+    "etym_chain": [
+      { "node": "gift", "sub": "贈り物", "era": "古ノルド語" },
+      { "node": "gift", "sub": "贈る", "era": "近代英語" },
+      { "node": "regift", "sub": "他の人に贈り直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "regift a present", "ja": "贈り物を回す" },
+      { "en": "regift an unwanted gift", "ja": "いらない贈り物を回す" },
+      { "en": "regift it to someone", "ja": "それを誰かに贈り直す" },
+      { "en": "the art of regifting", "ja": "贈り物の上手な回し方" },
+      { "en": "be caught regifting", "ja": "使い回しがばれる" },
+      { "en": "regift the chocolates", "ja": "チョコを別の人にあげる" }
+    ],
+    "related": [
+      { "en": "gift", "ja": "贈り物・贈る" },
+      { "en": "present", "ja": "プレゼント・贈る" },
+      { "en": "pass on", "ja": "（人に）回す・譲る" },
+      { "en": "donate", "ja": "寄付する" }
+    ],
+    "faq": [
+      { "q": "regift とはどんな意味？", "a": "自分がもらった贈り物を、別の人へのプレゼントとして『贈り直す・回す』という、くだけた日常語です。She regifted the candle she didn't need.（いらないキャンドルを別の人に回した）のように使います。" },
+      { "q": "regift は失礼？", "a": "場面によります。気に入らない贈り物を他の人に喜んでもらうのは合理的とも言えますが、贈り主に知られると失礼に感じられることもあるため、配慮が必要です。" }
+    ],
+    "quiz": [
+      { "q": "She ___ed the candle she didn't need.（別の人に回した）", "A": "regift", "B": "gift の最初に贈るだけ", "C": "drift の漂う", "D": "lift の持ち上げる", "correct": "A" },
+      { "q": "regift の意味として正しいのは？", "A": "もらった贈り物を別の人に贈り直す", "B": "贈り物を買う", "C": "贈り物を捨てる", "D": "贈り物を包む", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reedit",
+    "pron": "ˌriːˈedɪt",
+    "kana": "リエディット",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ edit（編集する）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "出版・映像"],
+    "meaning_main": "編集し直す・再編集する（文章・映像などを）",
+    "description": "reedit の意味・発音・例文・語源を解説。文章・映像・音声などを「編集し直す・再編集する」という、出版・映像・ITで使う語の使い方を分かりやすく紹介します。",
+    "keywords": ["reedit 意味", "reedit 発音", "再編集する", "edit 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】編集し直す・再編集する", "note": "一度編集したものをもう一度手を入れて編集する。re-edit とも書く。reedit the article（記事を編集し直す）。名詞 re-edit（再編集版）も。" }
+    ],
+    "usages": [
+      { "title": "① 「記事を編集し直す」として", "desc": "手を入れ直すことを表します。", "example_en": "The editor reedited the article for clarity.", "example_ja": "編集者は明確さのため記事を編集し直した。" },
+      { "title": "② 映像「再編集する」として", "desc": "映像のつなぎ直しを表します。", "example_en": "The film was reedited before release.", "example_ja": "その映画は公開前に再編集された。" }
+    ],
+    "warn": [
+      "reedit は『編集し直す・再編集する』。re-（再び）＋ edit。re-edit とも書く。",
+      "文章・映像・音声・写真など、編集対象を改めて手直しする文脈で使う。"
+    ],
+    "etym_note": "re-（再び）＋ edit（『編集する』、ラテン語 edere「世に出す」、editus「出された」より）から成り、「再び編集すること」を意味します。edition（版）, editor（編集者）と同じ語根です。",
+    "etym_chain": [
+      { "node": "edere", "sub": "世に出す", "era": "ラテン語" },
+      { "node": "edit", "sub": "編集する", "era": "近代英語" },
+      { "node": "reedit", "sub": "編集し直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reedit the article", "ja": "記事を編集し直す" },
+      { "en": "reedit the manuscript", "ja": "原稿を再編集する" },
+      { "en": "reedit the film", "ja": "映画を再編集する" },
+      { "en": "reedit for clarity", "ja": "明確さのため編集し直す" },
+      { "en": "a re-edit of the video", "ja": "動画の再編集版" },
+      { "en": "heavily reedited", "ja": "大幅に再編集された" }
+    ],
+    "related": [
+      { "en": "edit", "ja": "編集する" },
+      { "en": "revise", "ja": "改訂する・見直す" },
+      { "en": "rewrite", "ja": "書き直す" },
+      { "en": "recut", "ja": "（映像を）編集し直す" }
+    ],
+    "faq": [
+      { "q": "reedit とはどんな意味？", "a": "文章・映像・音声などを『編集し直す・再編集する』という意味です。The film was reedited before release.（その映画は公開前に再編集された）のように使います。re-edit とも書きます。" },
+      { "q": "reedit と revise の違いは？", "a": "reedit は『（文章・映像を）編集し直す（つなぎ・体裁を整え直す）』、revise は『（内容を）改訂する・修正する』点に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The film was ___ed before release.（再編集された）", "A": "reedit", "B": "edit の最初に編集するだけ", "C": "credit の信用する", "D": "audit の監査する", "correct": "A" },
+      { "q": "reedit のもとになった動詞はどれ？", "A": "edit（編集する）", "B": "credit（信用する）", "C": "audit（監査する）", "D": "admit（認める）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "relink",
+    "pron": "ˌriːˈlɪŋk",
+    "kana": "リリンク",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ link（つなぐ・連結する）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "IT・日常"],
+    "meaning_main": "再びつなぐ・連結し直す・リンクを張り直す",
+    "description": "relink の意味・発音・例文・語源を解説。切れたつながりやファイル・ページを「再びつなぐ・連結し直す・リンクを張り直す」という、ITや日常で使う語を紹介します。",
+    "keywords": ["relink 意味", "relink 発音", "再びつなぐ", "link 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再びつなぐ・連結し直す・リンクを張り直す", "note": "切れた接続・関連を再び結びつける。relink the files（ファイルをつなぎ直す）。IT（リンクの張り直し）でよく使う。" }
+    ],
+    "usages": [
+      { "title": "① IT「リンクを張り直す」として", "desc": "切れたリンクを再接続することを表します。", "example_en": "You may need to relink the broken files.", "example_ja": "壊れたファイルのリンクを張り直す必要があるかもしれない。" },
+      { "title": "② 「再びつなぐ」として", "desc": "つながりを取り戻すことを表します。", "example_en": "The bridge relinks the two communities.", "example_ja": "その橋は二つの地域を再びつなぐ。" }
+    ],
+    "warn": [
+      "relink は『再びつなぐ・連結し直す・リンクを張り直す』。re-（再び）＋ link（つなぐ・連結）。",
+      "IT（リンク・ファイルの再接続）で頻出。reconnect（再接続する）と近い。"
+    ],
+    "etym_note": "re-（再び）＋ link（『つなぐ・連結（する）』、古ノルド語 hlenkr「鎖の輪」より）から成り、「再びつなぐこと」を意味します。",
+    "etym_chain": [
+      { "node": "hlenkr", "sub": "鎖の輪", "era": "古ノルド語" },
+      { "node": "link", "sub": "つなぐ・連結", "era": "中英語" },
+      { "node": "relink", "sub": "再びつなぐ・連結し直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "relink the files", "ja": "ファイルをつなぎ直す" },
+      { "en": "relink a broken link", "ja": "切れたリンクを張り直す" },
+      { "en": "relink the account", "ja": "アカウントを連携し直す" },
+      { "en": "relink to the source", "ja": "元データに連結し直す" },
+      { "en": "automatically relink", "ja": "自動でつなぎ直す" },
+      { "en": "relink the two systems", "ja": "二つのシステムをつなぎ直す" }
+    ],
+    "related": [
+      { "en": "link", "ja": "つなぐ・連結・リンク" },
+      { "en": "reconnect", "ja": "再接続する" },
+      { "en": "reattach", "ja": "再び取り付ける" },
+      { "en": "unlink", "ja": "リンクを外す（反対）" }
+    ],
+    "faq": [
+      { "q": "relink とはどんな意味？", "a": "切れたつながりやファイル・ページを『再びつなぐ・連結し直す・リンクを張り直す』という意味です。You may need to relink the broken files.（壊れたファイルのリンクを張り直す必要がある）のように、ITで頻出です。" },
+      { "q": "relink と reconnect の違いは？", "a": "どちらも『再びつなぐ』ですが、relink は『（リンク・ファイル・データの）関連づけを張り直す』、reconnect は『（通信・接続を）再びつなぐ』点にやや重点があります。" }
+    ],
+    "quiz": [
+      { "q": "You may need to ___ the broken files.（リンクを張り直す）", "A": "relink", "B": "rethink の考え直す", "C": "rewind の巻き戻す", "D": "remind の思い出させる", "correct": "A" },
+      { "q": "relink の反対に近い語はどれ？", "A": "unlink（リンクを外す）", "B": "link（つなぐ）", "C": "rethink（考え直す）", "D": "remind（思い出させる）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rematch",
+    "pron": "ˈriːmætʃ",
+    "kana": "リマッチ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ match（試合・対戦）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "スポーツ"],
+    "meaning_main": "再試合・再戦（同じ相手ともう一度対戦すること）",
+    "description": "rematch の意味・発音・例文・語源を解説。同じ相手ともう一度戦う「再試合・再戦」という名詞と、「再び対戦させる」という動詞の使い方を分かりやすく紹介します。",
+    "keywords": ["rematch 意味", "rematch 発音", "再戦", "match 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再試合・再戦", "note": "前に対戦した相手ともう一度行う試合。demand a rematch（再戦を求める）。" },
+      { "hinshi": "【動詞】再び対戦させる・組み合わせ直す", "note": "be rematched against ～（〜と再び対戦する）。" }
+    ],
+    "usages": [
+      { "title": "① 「再戦を求める」として", "desc": "もう一度の対戦を表します。", "example_en": "The boxer demanded a rematch.", "example_ja": "そのボクサーは再戦を求めた。" },
+      { "title": "② 「再試合」として", "desc": "同じ相手との再対戦を表します。", "example_en": "The two teams will meet in a rematch next week.", "example_ja": "両チームは来週、再戦で対戦する。" }
+    ],
+    "warn": [
+      "rematch は『再試合・再戦』『再び対戦させる』。re-（再び）＋ match（試合・対戦）。",
+      "前に負けた側が『リベンジ（雪辱）』を狙う再戦の文脈で使うことが多い。"
+    ],
+    "etym_note": "re-（再び）＋ match（『試合・対戦・好敵手』、古英語 gemæcca「仲間・対等な者」より）から成り、「再び対戦すること」を意味します。",
+    "etym_chain": [
+      { "node": "gemæcca", "sub": "仲間・対等な者", "era": "古英語" },
+      { "node": "match", "sub": "試合・対戦", "era": "中英語" },
+      { "node": "rematch", "sub": "再試合・再戦", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "demand a rematch", "ja": "再戦を求める" },
+      { "en": "a championship rematch", "ja": "タイトルの再戦" },
+      { "en": "win the rematch", "ja": "再戦に勝つ" },
+      { "en": "a rematch next week", "ja": "来週の再戦" },
+      { "en": "agree to a rematch", "ja": "再戦に応じる" },
+      { "en": "a long-awaited rematch", "ja": "待望の再戦" }
+    ],
+    "related": [
+      { "en": "match", "ja": "試合・対戦" },
+      { "en": "rerun", "ja": "再放送・やり直し" },
+      { "en": "replay", "ja": "再試合・再生" },
+      { "en": "revenge", "ja": "雪辱・復讐" }
+    ],
+    "faq": [
+      { "q": "rematch とはどんな意味？", "a": "同じ相手ともう一度戦う『再試合・再戦』という名詞、また『再び対戦させる』という動詞です。The boxer demanded a rematch.（ボクサーは再戦を求めた）のように使います。" },
+      { "q": "rematch はどんな場面で使う？", "a": "前に対戦した相手ともう一度試合をするとき、特に負けた側が雪辱（リベンジ）を狙う場面で使います。a championship rematch（タイトルの再戦）のように言います。" }
+    ],
+    "quiz": [
+      { "q": "The boxer demanded a ___.（再戦）", "A": "rematch", "B": "match の最初の試合だけ", "C": "sketch のスケッチ", "D": "stretch の伸ばすこと", "correct": "A" },
+      { "q": "rematch の意味として正しいのは？", "A": "同じ相手との再試合・再戦", "B": "初めての試合", "C": "練習試合", "D": "試合の中止", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ranchland",
+    "pron": "ˈræntʃlænd",
+    "kana": "ランチランド",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ranch（牧場）＋ land（土地）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "農業・地理"],
+    "meaning_main": "牧場地・放牧地（家畜を飼う広大な土地）",
+    "description": "ranchland の意味・発音・例文・語源を解説。牛や羊などを放牧する広大な土地「牧場地・放牧地」を表す、農業・地理で使う名詞の使い方を紹介します。",
+    "keywords": ["ranchland 意味", "ranchland 発音", "牧場地", "放牧地"],
+    "meanings": [
+      { "hinshi": "【名詞】牧場地・放牧地", "note": "牛・羊・馬などを放し飼いにする広大な土地。acres of ranchland（広大な牧場地）。" }
+    ],
+    "usages": [
+      { "title": "① 「牧場地」として", "desc": "家畜を飼う土地を表します。", "example_en": "The family owns thousands of acres of ranchland.", "example_ja": "その一家は何千エーカーもの牧場地を所有している。" },
+      { "title": "② 開発・環境の文脈で", "desc": "放牧地の利用を表します。", "example_en": "Much of the ranchland was converted to crops.", "example_ja": "その牧場地の多くは農地に転換された。" }
+    ],
+    "warn": [
+      "ranchland は『牧場地・放牧地』。ranch（牧場）＋ land（土地）。主にアメリカ西部・南米などの広大な放牧地に使う。",
+      "farmland（農地）と区別。ranchland は『家畜を放牧する土地』。"
+    ],
+    "etym_note": "ranch（『牧場』、スペイン語 rancho「（人の）集まる小屋」より）＋ land（『土地』、古英語 land より）から成る複合語で、「牧場の土地」を意味します。",
+    "etym_chain": [
+      { "node": "rancho", "sub": "小屋・集まる場所", "era": "スペイン語" },
+      { "node": "ranch", "sub": "牧場", "era": "近代英語" },
+      { "node": "ranchland", "sub": "牧場地", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "acres of ranchland", "ja": "広大な牧場地" },
+      { "en": "open ranchland", "ja": "開けた放牧地" },
+      { "en": "own ranchland", "ja": "牧場地を所有する" },
+      { "en": "convert ranchland", "ja": "牧場地を転換する" },
+      { "en": "vast ranchland", "ja": "広大な放牧地" },
+      { "en": "graze cattle on ranchland", "ja": "牧場地で牛を放牧する" }
+    ],
+    "related": [
+      { "en": "ranch", "ja": "牧場" },
+      { "en": "farmland", "ja": "農地" },
+      { "en": "pasture", "ja": "牧草地" },
+      { "en": "grassland", "ja": "草原" }
+    ],
+    "faq": [
+      { "q": "ranchland とはどんな意味？", "a": "牛・羊・馬などを放牧する広大な土地『牧場地・放牧地』のことです。The family owns thousands of acres of ranchland.（一家は何千エーカーもの牧場地を所有している）のように使います。" },
+      { "q": "ranchland と farmland の違いは？", "a": "ranchland は『（家畜を放牧する）牧場地』、farmland は『（作物を育てる）農地』です。主に飼うか育てるかで区別します。" }
+    ],
+    "quiz": [
+      { "q": "The family owns thousands of acres of ___.（牧場地）", "A": "ranchland", "B": "farmland の農地", "C": "wasteland の荒れ地", "D": "wetland の湿地", "correct": "A" },
+      { "q": "ranchland を構成する2語はどれ？", "A": "ranch（牧場）＋ land（土地）", "B": "branch（枝）＋ land", "C": "range（範囲）＋ land", "D": "lunch（昼食）＋ land", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rangeland",
+    "pron": "ˈreɪndʒlænd",
+    "kana": "レインジランド",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "range（放牧地・広がり）＋ land（土地）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "農業・環境"],
+    "meaning_main": "放牧地・草地（家畜が自然の草を食む広大な土地）",
+    "description": "rangeland の意味・発音・例文・語源を解説。家畜が自然の草を食べる広大な「放牧地・草地」を表す、農業・環境で使う名詞の使い方を分かりやすく紹介します。",
+    "keywords": ["rangeland 意味", "rangeland 発音", "放牧地", "草地"],
+    "meanings": [
+      { "hinshi": "【名詞】放牧地・草地", "note": "家畜が自然に生える草を食む、広く開けた土地（草原・低木地など）。manage the rangeland（放牧地を管理する）。" }
+    ],
+    "usages": [
+      { "title": "① 「放牧地」として", "desc": "自然の草地を表します。", "example_en": "Cattle graze freely on the rangeland.", "example_ja": "牛は放牧地で自由に草を食む。" },
+      { "title": "② 環境管理の文脈で", "desc": "草地の保全を表します。", "example_en": "Overgrazing can damage rangeland.", "example_ja": "過放牧は放牧地を傷めることがある。" }
+    ],
+    "warn": [
+      "rangeland は『放牧地・草地』（家畜が自然の草を食む広い土地）。range（放牧地・広がり）＋ land。",
+      "ranchland（牧場地＝経営される牧場の土地）と近いが、rangeland は『（自然の草が生える）放牧に使う土地』に重点。"
+    ],
+    "etym_note": "range（『（家畜の）放牧地・広がり・歩き回る範囲』、古フランス語 range「列・並び」より）＋ land（『土地』）から成る複合語で、「家畜が歩き回って草を食む土地」を意味します。",
+    "etym_chain": [
+      { "node": "range", "sub": "放牧地・歩き回る範囲", "era": "近代英語" },
+      { "node": "rangeland", "sub": "放牧地", "era": "近代英語" },
+      { "node": "rangeland", "sub": "放牧地・草地", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "graze on the rangeland", "ja": "放牧地で草を食む" },
+      { "en": "manage the rangeland", "ja": "放牧地を管理する" },
+      { "en": "arid rangeland", "ja": "乾燥した放牧地" },
+      { "en": "rangeland management", "ja": "放牧地管理" },
+      { "en": "degraded rangeland", "ja": "荒廃した放牧地" },
+      { "en": "open rangeland", "ja": "開けた草地" }
+    ],
+    "related": [
+      { "en": "range", "ja": "放牧地・範囲" },
+      { "en": "ranchland", "ja": "牧場地" },
+      { "en": "pasture", "ja": "牧草地" },
+      { "en": "grassland", "ja": "草原" }
+    ],
+    "faq": [
+      { "q": "rangeland とはどんな意味？", "a": "家畜が自然に生える草を食べる、広く開けた『放牧地・草地』のことです。Cattle graze freely on the rangeland.（牛は放牧地で自由に草を食む）のように使います。" },
+      { "q": "rangeland と pasture の違いは？", "a": "pasture（牧草地）は『（人が草を育て管理した）放牧地』、rangeland は『（自然のままの草・低木が生える）広い放牧地』に重点があります。rangeland のほうが自然・乾燥地を含みます。" }
+    ],
+    "quiz": [
+      { "q": "Cattle graze freely on the ___.（放牧地）", "A": "rangeland", "B": "homeland の祖国", "C": "wonderland の不思議の国", "D": "mainland の本土", "correct": "A" },
+      { "q": "rangeland を構成する2語はどれ？", "A": "range（放牧地・範囲）＋ land（土地）", "B": "orange（オレンジ）＋ land", "C": "rang（鳴った）＋ land", "D": "strange（奇妙な）＋ land", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rootstock",
+    "pron": "ˈruːtstɒk",
+    "kana": "ルートストック",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "root（根）＋ stock（幹・台）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "園芸・植物"],
+    "meaning_main": "台木（だいぎ。接ぎ木で根の側になる株）／根茎",
+    "description": "rootstock の意味・発音・例文・語源を解説。接ぎ木で根の側になる株「台木（だいぎ）」や、地下を横に伸びる「根茎」を表す、園芸・植物で使う名詞を紹介します。",
+    "keywords": ["rootstock 意味", "rootstock 発音", "台木", "接ぎ木"],
+    "meanings": [
+      { "hinshi": "【名詞】台木（だいぎ）", "note": "接ぎ木で、根のついた下の部分になる株。上に別の品種の枝（穂木）を接ぐ。a dwarfing rootstock（わい性台木）。" },
+      { "hinshi": "【名詞】根茎（こんけい）", "note": "地下を横に伸びる茎（rhizome）。" }
+    ],
+    "usages": [
+      { "title": "① 接ぎ木の「台木」として", "desc": "根の側になる株を表します。", "example_en": "The apple variety is grafted onto a dwarf rootstock.", "example_ja": "そのリンゴ品種はわい性台木に接ぎ木される。" },
+      { "title": "② 「根茎」として", "desc": "地下の茎を表します。", "example_en": "The plant spreads by its rootstock.", "example_ja": "その植物は根茎で広がる。" }
+    ],
+    "warn": [
+      "rootstock は『台木（だいぎ）』『根茎』。root（根）＋ stock（幹・台）。",
+      "接ぎ木では rootstock（台木）＋ scion（穂木＝接ぐ枝）の組み合わせ。台木で木の大きさや耐性が決まる。"
+    ],
+    "etym_note": "root（『根』、古英語 rōt より）＋ stock（『幹・台・もと』、古英語 stocc「切り株」より）から成る複合語で、「根のついた台（になる株）」を意味します。",
+    "etym_chain": [
+      { "node": "rōt + stocc", "sub": "根＋切り株・台", "era": "古英語" },
+      { "node": "rootstock", "sub": "台木", "era": "近代英語" },
+      { "node": "rootstock", "sub": "台木・根茎", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a dwarf rootstock", "ja": "わい性台木" },
+      { "en": "grafted onto a rootstock", "ja": "台木に接ぎ木された" },
+      { "en": "a disease-resistant rootstock", "ja": "病気に強い台木" },
+      { "en": "choose the right rootstock", "ja": "適切な台木を選ぶ" },
+      { "en": "spread by rootstock", "ja": "根茎で広がる" },
+      { "en": "a vigorous rootstock", "ja": "生育の強い台木" }
+    ],
+    "related": [
+      { "en": "graft", "ja": "接ぎ木する" },
+      { "en": "scion", "ja": "穂木・接ぎ穂" },
+      { "en": "rhizome", "ja": "根茎" },
+      { "en": "stock", "ja": "幹・台・もと" }
+    ],
+    "faq": [
+      { "q": "rootstock とはどんな意味？", "a": "接ぎ木で根の側になる株『台木（だいぎ）』、また地下を横に伸びる『根茎』のことです。The apple variety is grafted onto a dwarf rootstock.（リンゴ品種をわい性台木に接ぐ）のように使います。" },
+      { "q": "接ぎ木の rootstock の役割は？", "a": "台木（rootstock）は根を担い、木の大きさ・病害虫への強さ・土壌への適応などを決めます。上に接ぐ穂木（scion）が実や花の品種を決めます。両者を組み合わせるのが接ぎ木です。" }
+    ],
+    "quiz": [
+      { "q": "The apple variety is grafted onto a dwarf ___.（台木）", "A": "rootstock", "B": "livestock の家畜", "C": "feedstock の原料", "D": "bedrock の岩盤", "correct": "A" },
+      { "q": "接ぎ木で rootstock（台木）と組み合わせる枝の側は？", "A": "scion（穂木）", "B": "leaf（葉）", "C": "fruit（実）", "D": "flower（花）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "requital",
+    "pron": "rɪˈkwaɪtl",
+    "kana": "リクワイタル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "requite（報いる・返礼する）＋ -al",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文語的"],
+    "meaning_main": "報い・返礼・仕返し（受けたことへのお返し）",
+    "description": "requital の意味・発音・例文・語源を解説。受けた親切や悪事に対する「報い・返礼・仕返し」を表す、やや文語的な名詞の使い方と動詞 requite を紹介します。",
+    "keywords": ["requital 意味", "requital 発音", "報い", "返礼"],
+    "meanings": [
+      { "hinshi": "【名詞】報い・返礼・仕返し", "note": "受けたこと（善・悪）へのお返し。in requital for ～（〜の返礼に・〜の報いに）。動詞は requite（報いる）。やや文語的。" }
+    ],
+    "usages": [
+      { "title": "① 「親切への返礼」として", "desc": "善意へのお返しを表します。", "example_en": "He gave gifts in requital for their kindness.", "example_ja": "彼は彼らの親切への返礼に贈り物をした。" },
+      { "title": "② 「悪事への報い」として", "desc": "仕返しを表します。", "example_en": "The attack was in requital for the earlier raid.", "example_ja": "その攻撃は先の急襲への報いだった。" }
+    ],
+    "warn": [
+      "requital は『報い・返礼・仕返し』（善にも悪にも使う）。動詞 requite（報いる・返礼する）＋ -al。やや文語的。",
+      "in requital for ～（〜の返礼に・報いに）の形が多い。"
+    ],
+    "etym_note": "requite（『報いる・返礼する』、re-「返して」＋ quite（古語 quit「報いる・解放する」）より）＋ -al から成り、「報いること＝返礼・報い」を意味します。quit（やめる・免れる）と同じ語根です。",
+    "etym_chain": [
+      { "node": "quiten", "sub": "報いる・解放する", "era": "中英語" },
+      { "node": "requite", "sub": "報いる・返礼する", "era": "近代英語" },
+      { "node": "requital", "sub": "報い・返礼", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "in requital for", "ja": "〜の返礼に・報いに" },
+      { "en": "a fitting requital", "ja": "ふさわしい報い" },
+      { "en": "requital for kindness", "ja": "親切への返礼" },
+      { "en": "demand requital", "ja": "報いを求める" },
+      { "en": "without requital", "ja": "見返りなしに" },
+      { "en": "just requital", "ja": "正当な報い" }
+    ],
+    "related": [
+      { "en": "requite", "ja": "報いる・返礼する" },
+      { "en": "repayment", "ja": "返済・報い" },
+      { "en": "retribution", "ja": "応報・報い" },
+      { "en": "reward", "ja": "報酬・報いる" }
+    ],
+    "faq": [
+      { "q": "requital とはどんな意味？", "a": "受けた親切や悪事に対する『報い・返礼・仕返し』のことです（善にも悪にも使えます）。He gave gifts in requital for their kindness.（親切への返礼に贈り物をした）のように、やや文語的に使います。動詞は requite です。" },
+      { "q": "in requital for ～ とは？", "a": "『〜の返礼に・〜の報いに』という意味の決まった言い方です。善意へのお返しにも、悪事への仕返しにも使えます。" }
+    ],
+    "quiz": [
+      { "q": "He gave gifts in ___ for their kindness.（返礼）", "A": "requital", "B": "recital の独奏会", "C": "capital の首都・資本", "D": "hospital の病院", "correct": "A" },
+      { "q": "requital の動詞形はどれ？", "A": "requite（報いる・返礼する）", "B": "recite（暗唱する）", "C": "require（要求する）", "D": "acquire（得る）", "correct": "A" }
+    ]
+  }
+]

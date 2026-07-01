@@ -1,0 +1,526 @@
+[
+  {
+    "english": "reconstruct",
+    "pron": "ˌriːkənˈstrʌkt",
+    "kana": "リコンストラクト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ construct（建設する・組み立てる）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "再建する・復元する・（事件などを）再現する",
+    "description": "reconstruct の意味・発音・例文・語源を解説。壊れた建物を「再建する」、失われたものを「復元する」、事件を「（証拠から）再現する」という使い方を分かりやすく紹介します。",
+    "keywords": ["reconstruct 意味", "reconstruct 発音", "再建する", "復元する"],
+    "meanings": [
+      { "hinshi": "【動詞】再建する・建て直す", "note": "壊れた建物・組織を作り直す。reconstruct the city（街を再建する）。" },
+      { "hinshi": "【動詞】復元する・（事件・経緯を）再現する", "note": "断片から元の姿・出来事を組み立て直す。reconstruct the events（出来事を再現する）。名詞は reconstruction。" }
+    ],
+    "usages": [
+      { "title": "① 「再建する」として", "desc": "壊れたものを作り直すことを表します。", "example_en": "They reconstructed the bridge after the flood.", "example_ja": "彼らは洪水のあと橋を再建した。" },
+      { "title": "② 「事件を再現する」として", "desc": "経緯を組み立て直すことを表します。", "example_en": "Police reconstructed the crime from the evidence.", "example_ja": "警察は証拠から犯行を再現した。" }
+    ],
+    "warn": [
+      "reconstruct は『再建する・復元する・再現する』。re-（再び）＋ construct（建設する・組み立てる）。名詞は reconstruction。",
+      "建物の再建、出来事の再現、骨格・歴史の復元など幅広く使う。"
+    ],
+    "etym_note": "re-（再び）＋ construct（『建設する・組み立てる』、ラテン語 construere「積み上げる」、con-「共に」＋ struere「積む」より）から成り、「再び組み立てること」を意味します。structure（構造）と同じ語根です。",
+    "etym_chain": [
+      { "node": "construere", "sub": "積み上げる", "era": "ラテン語" },
+      { "node": "construct", "sub": "建設する・組み立てる", "era": "近代英語" },
+      { "node": "reconstruct", "sub": "再建する・復元する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reconstruct the city", "ja": "街を再建する" },
+      { "en": "reconstruct the bridge", "ja": "橋を再建する" },
+      { "en": "reconstruct the events", "ja": "出来事を再現する" },
+      { "en": "reconstruct the crime", "ja": "犯行を再現する" },
+      { "en": "reconstruct from fragments", "ja": "断片から復元する" },
+      { "en": "facial reconstruction", "ja": "顔の復元" }
+    ],
+    "related": [
+      { "en": "construct", "ja": "建設する・組み立てる" },
+      { "en": "reconstruction", "ja": "再建・復元" },
+      { "en": "rebuild", "ja": "再建する" },
+      { "en": "restore", "ja": "修復する・元に戻す" }
+    ],
+    "faq": [
+      { "q": "reconstruct とはどんな意味？", "a": "壊れた建物を『再建する』、失われたものを『復元する』、事件を『（証拠から）再現する』という意味です。Police reconstructed the crime from the evidence.（証拠から犯行を再現した）のように使います。名詞は reconstruction です。" },
+      { "q": "reconstruct と rebuild の違いは？", "a": "rebuild は『（建物などを）建て直す』が中心、reconstruct は『建て直す』に加えて『（出来事・骨格・歴史などを断片から）復元・再現する』という幅広い意味で使えます。" }
+    ],
+    "quiz": [
+      { "q": "Police ___ed the crime from the evidence.（再現した）", "A": "reconstruct", "B": "construct の最初に建設する", "C": "instruct の指示する", "D": "obstruct の妨げる", "correct": "A" },
+      { "q": "reconstruct の名詞形はどれ？", "A": "reconstruction（再建・復元）", "B": "instruction（指示）", "C": "construction の最初の建設だけ", "D": "obstruction（妨害）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rockslide",
+    "pron": "ˈrɒkslaɪd",
+    "kana": "ロックスライド",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rock（岩）＋ slide（滑り落ちること）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "自然・災害"],
+    "meaning_main": "岩石の崩落・岩なだれ（山の斜面から岩が滑り落ちる現象）",
+    "description": "rockslide の意味・発音・例文・語源を解説。山や崖の斜面から岩が滑り落ちる「岩石の崩落・岩なだれ」を表す、自然災害の名詞の使い方を分かりやすく紹介します。",
+    "keywords": ["rockslide 意味", "rockslide 発音", "岩なだれ", "岩石崩落"],
+    "meanings": [
+      { "hinshi": "【名詞】岩石の崩落・岩なだれ", "note": "山・崖の斜面から多量の岩が滑り落ちる現象。rock slide と2語でも書く。a rockslide blocked the road（岩なだれが道をふさいだ）。" }
+    ],
+    "usages": [
+      { "title": "① 「岩なだれ」として", "desc": "岩が滑り落ちる現象を表します。", "example_en": "A rockslide blocked the mountain road.", "example_ja": "岩なだれが山道をふさいだ。" },
+      { "title": "② 災害の文脈で", "desc": "崩落の被害を表します。", "example_en": "Heavy rain triggered a rockslide.", "example_ja": "大雨が岩石崩落を引き起こした。" }
+    ],
+    "warn": [
+      "rockslide は『岩石の崩落・岩なだれ』。rock（岩）＋ slide（滑り落ちること）。rock slide と2語でも書く。",
+      "landslide（地滑り＝土砂全体）, avalanche（雪崩）と区別。rockslide は『岩』が滑り落ちる。"
+    ],
+    "etym_note": "rock（『岩』、古フランス語 roque より）＋ slide（『滑る・滑り落ちること』、古英語 slīdan より）から成る複合語で、「岩が滑り落ちること」を意味します。",
+    "etym_chain": [
+      { "node": "rock + slide", "sub": "岩＋滑る", "era": "中英語" },
+      { "node": "rock slide", "sub": "岩の滑落", "era": "近代英語" },
+      { "node": "rockslide", "sub": "岩なだれ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rockslide blocked the road", "ja": "岩なだれが道をふさいだ" },
+      { "en": "trigger a rockslide", "ja": "岩石崩落を引き起こす" },
+      { "en": "a massive rockslide", "ja": "大規模な岩なだれ" },
+      { "en": "the risk of a rockslide", "ja": "岩なだれの危険" },
+      { "en": "caused by a rockslide", "ja": "岩なだれによる" },
+      { "en": "warn of rockslides", "ja": "落石・岩なだれに注意を促す" }
+    ],
+    "related": [
+      { "en": "landslide", "ja": "地滑り・土砂崩れ" },
+      { "en": "avalanche", "ja": "雪崩" },
+      { "en": "rockfall", "ja": "落石" },
+      { "en": "erosion", "ja": "侵食" }
+    ],
+    "faq": [
+      { "q": "rockslide とはどんな意味？", "a": "山や崖の斜面から多量の岩が滑り落ちる『岩石の崩落・岩なだれ』のことです。A rockslide blocked the mountain road.（岩なだれが山道をふさいだ）のように使います。" },
+      { "q": "rockslide と landslide の違いは？", "a": "rockslide は『岩が滑り落ちる（岩なだれ）』、landslide は『土砂全体が滑り落ちる（地滑り・土砂崩れ）』です。崩れるものが主に岩か土砂かで区別します。" }
+    ],
+    "quiz": [
+      { "q": "A ___ blocked the mountain road.（岩なだれ）", "A": "rockslide", "B": "landslide の地滑り", "C": "waterslide のウォータースライダー", "D": "slideshow のスライド上映", "correct": "A" },
+      { "q": "rockslide を構成する2語はどれ？", "A": "rock（岩）＋ slide（滑る）", "B": "rocket（ロケット）＋ slide", "C": "rock ＋ side（側）", "D": "lock（錠）＋ slide", "correct": "A" }
+    ]
+  },
+  {
+    "english": "roundtable",
+    "pron": "ˈraʊndteɪbl",
+    "kana": "ラウンドテーブル",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "round（丸い）＋ table（テーブル）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "ビジネス・会議"],
+    "meaning_main": "円卓会議・（上下のない）討論会／円卓の・対等な",
+    "description": "roundtable の意味・発音・例文・語源を解説。参加者が対等に意見を交わす「円卓会議・討論会」という名詞と、「円卓の・対等な」という形容詞の使い方を紹介します。",
+    "keywords": ["roundtable 意味", "roundtable 発音", "円卓会議", "討論会"],
+    "meanings": [
+      { "hinshi": "【名詞】円卓会議・（上下のない）討論会", "note": "参加者が対等な立場で意見を交わす会議・討論。round table とも書く。hold a roundtable（円卓会議を開く）。" },
+      { "hinshi": "【形容詞】円卓の・対等な・自由討論の", "note": "a roundtable discussion（円卓討論）。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「円卓会議」として", "desc": "対等な討論の場を表します。", "example_en": "Experts gathered for a roundtable on climate.", "example_ja": "専門家たちが気候についての円卓会議に集まった。" },
+      { "title": "② 形容詞「円卓討論の」として", "desc": "自由な討論を表します。", "example_en": "They held a roundtable discussion.", "example_ja": "彼らは円卓討論を行った。" }
+    ],
+    "warn": [
+      "roundtable は『円卓会議・（上下のない）討論会』『円卓の・対等な』。round（丸い）＋ table。round table と2語でも書く。",
+      "丸いテーブルには上座・下座がないことから、『対等な立場での話し合い』を表す。アーサー王伝説の『円卓の騎士』に由来。"
+    ],
+    "etym_note": "round（『丸い』、ラテン語 rotundus より）＋ table（『テーブル』、ラテン語 tabula「板」より）から成り、「円卓」を意味します。上下の差がない丸テーブルから『対等な討論』の意味が生まれました。",
+    "etym_chain": [
+      { "node": "round + tabula", "sub": "丸い＋板", "era": "中英語・ラテン語" },
+      { "node": "round table", "sub": "円卓", "era": "中英語" },
+      { "node": "roundtable", "sub": "円卓会議", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "hold a roundtable", "ja": "円卓会議を開く" },
+      { "en": "a roundtable discussion", "ja": "円卓討論" },
+      { "en": "a roundtable on", "ja": "〜についての円卓会議" },
+      { "en": "a roundtable of experts", "ja": "専門家による円卓会議" },
+      { "en": "a policy roundtable", "ja": "政策の円卓会議" },
+      { "en": "sit at the roundtable", "ja": "円卓につく" }
+    ],
+    "related": [
+      { "en": "discussion", "ja": "討論・議論" },
+      { "en": "forum", "ja": "公開討論の場・フォーラム" },
+      { "en": "symposium", "ja": "シンポジウム" },
+      { "en": "panel", "ja": "討論者の一団・パネル" }
+    ],
+    "faq": [
+      { "q": "roundtable とはどんな意味？", "a": "参加者が対等な立場で意見を交わす『円卓会議・討論会』という名詞、また『円卓の・対等な』という形容詞です。Experts gathered for a roundtable.（専門家が円卓会議に集まった）のように使います。" },
+      { "q": "なぜ『円卓』が対等な話し合いを表すの？", "a": "丸いテーブルには上座・下座（席の上下）がないため、全員が対等であることを示します。アーサー王と『円卓の騎士』の伝説に由来する考え方です。" }
+    ],
+    "quiz": [
+      { "q": "Experts gathered for a ___ on climate.（円卓会議）", "A": "roundtable", "B": "timetable の時間割", "C": "vegetable の野菜", "D": "turntable のターンテーブル", "correct": "A" },
+      { "q": "roundtable が『対等な話し合い』を表すのはなぜ？", "A": "丸卓には上座・下座がないから", "B": "テーブルが大きいから", "C": "立って話すから", "D": "司会がいないから", "correct": "A" }
+    ]
+  },
+  {
+    "english": "runic",
+    "pron": "ˈruːnɪk",
+    "kana": "ルーニック",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "rune（ルーン文字）＋ -ic",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "歴史・文化"],
+    "meaning_main": "ルーン文字の・ルーン文字で書かれた／神秘的な",
+    "description": "runic の意味・発音・例文・語源を解説。古代ゲルマン・北欧で使われた「ルーン文字の・ルーン文字で書かれた」という意味と、そこから『神秘的な』という使い方を紹介します。",
+    "keywords": ["runic 意味", "runic 発音", "ルーン文字", "rune 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】ルーン文字の・ルーン文字で書かれた", "note": "古代ゲルマン人・北欧人が使った文字（rune）に関する。a runic inscription（ルーン文字の碑文）。" },
+      { "hinshi": "【形容詞】（ルーン文字のように）神秘的な・謎めいた", "note": "比喩で、古めかしく神秘的な。" }
+    ],
+    "usages": [
+      { "title": "① 「ルーン文字の碑文」として", "desc": "古代文字の刻みを表します。", "example_en": "The stone bears a runic inscription.", "example_ja": "その石にはルーン文字の碑文が刻まれている。" },
+      { "title": "② 「神秘的な」として", "desc": "謎めいた様子を表します。", "example_en": "The symbols had a runic, mysterious look.", "example_ja": "その記号はルーン文字のような神秘的な見た目だった。" }
+    ],
+    "warn": [
+      "runic は『ルーン文字の・ルーン文字で書かれた』、比喩で『神秘的な』。名詞 rune（ルーン文字）＋ -ic。",
+      "ルーン文字は古代ゲルマン・北欧（バイキングなど）が石や木に刻んだ文字。占いにも使われた。"
+    ],
+    "etym_note": "rune（『ルーン文字・秘密』、古英語 rūn「秘密・ささやき」、古ノルド語 rún より）＋ -ic から成り、「ルーン文字の」を意味します。もとは『秘密』の意味があり、神秘的なニュアンスを含みます。",
+    "etym_chain": [
+      { "node": "rūn", "sub": "秘密・ささやき", "era": "古英語" },
+      { "node": "rune", "sub": "ルーン文字", "era": "近代英語" },
+      { "node": "runic", "sub": "ルーン文字の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a runic inscription", "ja": "ルーン文字の碑文" },
+      { "en": "runic symbols", "ja": "ルーン文字の記号" },
+      { "en": "a runic stone", "ja": "ルーン石碑" },
+      { "en": "runic letters", "ja": "ルーン文字" },
+      { "en": "the runic alphabet", "ja": "ルーン文字の体系（フサルク）" },
+      { "en": "runic carvings", "ja": "ルーン文字の彫刻" }
+    ],
+    "related": [
+      { "en": "rune", "ja": "ルーン文字" },
+      { "en": "inscription", "ja": "碑文・刻まれた文字" },
+      { "en": "ancient", "ja": "古代の" },
+      { "en": "Norse", "ja": "古代北欧の" }
+    ],
+    "faq": [
+      { "q": "runic とはどんな意味？", "a": "古代ゲルマン人・北欧人が使った文字『ルーン文字の・ルーン文字で書かれた』という形容詞です。比喩で『神秘的な』の意味もあります。a runic inscription（ルーン文字の碑文）のように使います。名詞は rune です。" },
+      { "q": "ルーン文字（rune）とは？", "a": "古代ゲルマン・北欧（バイキングなど）で使われた文字です。石や木に刻みやすい直線的な形で、記録のほか占い（ルーン占い）にも使われました。『秘密』を意味する語に由来します。" }
+    ],
+    "quiz": [
+      { "q": "The stone bears a ___ inscription.（ルーン文字の）", "A": "runic", "B": "music の音楽", "C": "comic の喜劇の", "D": "tunic のチュニック", "correct": "A" },
+      { "q": "runic のもとになった rune の意味は？", "A": "ルーン文字・秘密", "B": "走ること", "C": "雨", "D": "規則", "correct": "A" }
+    ]
+  },
+  {
+    "english": "resinous",
+    "pron": "ˈrezɪnəs",
+    "kana": "レジナス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "resin（樹脂）＋ -ous",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "理科・素材"],
+    "meaning_main": "樹脂（じゅし）質の・樹脂のような・やにを多く含む",
+    "description": "resinous の意味・発音・例文・語源を解説。木のやに（樹脂）を多く含む「樹脂質の・樹脂のような・やにっぽい」という様子や香りを表す形容詞の使い方を紹介します。",
+    "keywords": ["resinous 意味", "resinous 発音", "樹脂質の", "resin 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】樹脂質の・樹脂のような・やにを多く含む", "note": "樹脂（やに）を含む、または樹脂に似た性質・香りの。a resinous smell（やにっぽい香り）。resinous wood（やにの多い木）。" }
+    ],
+    "usages": [
+      { "title": "① 「やにっぽい香り」として", "desc": "樹脂の香りを表します。", "example_en": "The air had a resinous pine scent.", "example_ja": "空気には松のやにっぽい香りが漂っていた。" },
+      { "title": "② 「樹脂質の木」として", "desc": "やにを多く含む木を表します。", "example_en": "Pine is a resinous wood.", "example_ja": "松はやにの多い木だ。" }
+    ],
+    "warn": [
+      "resinous は『樹脂質の・樹脂のような・やにを多く含む』。名詞 resin（樹脂・やに）＋ -ous。",
+      "松（pine）など針葉樹の香りや、香水・ワインの香りの形容にも使う。"
+    ],
+    "etym_note": "resin（『樹脂・やに』、ラテン語 resina より）＋ -ous（『〜の性質の』）から成り、「樹脂を含む・樹脂のような」を意味します。",
+    "etym_chain": [
+      { "node": "resina", "sub": "樹脂", "era": "ラテン語" },
+      { "node": "resin", "sub": "樹脂・やに", "era": "中英語" },
+      { "node": "resinous", "sub": "樹脂質の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a resinous smell", "ja": "やにっぽい香り" },
+      { "en": "resinous wood", "ja": "やにの多い木" },
+      { "en": "a resinous scent", "ja": "樹脂のような香り" },
+      { "en": "resinous sap", "ja": "やにの多い樹液" },
+      { "en": "a resinous aroma", "ja": "樹脂質の芳香" },
+      { "en": "resinous and sticky", "ja": "やにっぽくて粘つく" }
+    ],
+    "related": [
+      { "en": "resin", "ja": "樹脂・やに" },
+      { "en": "sticky", "ja": "粘つく" },
+      { "en": "piny", "ja": "松のような" },
+      { "en": "balsamic", "ja": "バルサム（香油）のような" }
+    ],
+    "faq": [
+      { "q": "resinous とはどんな意味？", "a": "木のやに（樹脂）を多く含む『樹脂質の・樹脂のような・やにっぽい』という性質や香りを表す形容詞です。The air had a resinous pine scent.（松のやにっぽい香りが漂っていた）のように使います。名詞は resin です。" },
+      { "q": "resinous はどんな場面で使う？", "a": "松などやにの多い木の性質、針葉樹の森の香り、また香水・ワインなどの『樹脂のような（深く温かみのある）香り』を表すのに使われます。" }
+    ],
+    "quiz": [
+      { "q": "The air had a ___ pine scent.（やにっぽい）", "A": "resinous", "B": "ridiculous のばかげた", "C": "nervous の神経質な", "D": "famous の有名な", "correct": "A" },
+      { "q": "resinous のもとになった名詞はどれ？", "A": "resin（樹脂・やに）", "B": "reason（理由）", "C": "region（地域）", "D": "raisin（干しぶどう）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recapitalize",
+    "pron": "ˌriːˈkæpɪtəlaɪz",
+    "kana": "リキャピタライズ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ capitalize（資本を投入する）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "金融・経済"],
+    "meaning_main": "（企業・銀行に）資本を再注入する・資本構成を立て直す",
+    "description": "recapitalize の意味・発音・例文・語源を解説。経営が悪化した企業や銀行に資本を入れ直し、財務を立て直す「資本の再注入・資本再構成」を表す、金融の語を紹介します。",
+    "keywords": ["recapitalize 意味", "recapitalize 発音", "資本再注入", "capital 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（企業・銀行に）資本を再注入する・資本構成を立て直す", "note": "新たな資本を入れて財務基盤を立て直す。recapitalize the bank（銀行に資本を再注入する）。名詞は recapitalization。イギリス綴りは recapitalise。" }
+    ],
+    "usages": [
+      { "title": "① 「銀行に資本を再注入する」として", "desc": "財務の立て直しを表します。", "example_en": "The government recapitalized the failing banks.", "example_ja": "政府は破綻しかけた銀行に資本を再注入した。" },
+      { "title": "② 「資本構成を立て直す」として", "desc": "資本の組み直しを表します。", "example_en": "The company was recapitalized to reduce debt.", "example_ja": "その会社は負債を減らすため資本構成を立て直した。" }
+    ],
+    "warn": [
+      "recapitalize は『（企業・銀行に）資本を再注入する・資本構成を立て直す』。re-（再び）＋ capitalize（資本化する）。名詞 recapitalization。",
+      "金融危機で経営が傾いた銀行などへの公的資金注入の文脈でよく使う。"
+    ],
+    "etym_note": "re-（再び）＋ capitalize（『資本を投入する・資本化する』、capital「資本」、ラテン語 capitalis「主要な」、caput「頭」より）から成り、「再び資本を入れること」を意味します。capital（資本・首都）と同じ語根です。",
+    "etym_chain": [
+      { "node": "capital", "sub": "資本", "era": "近代英語" },
+      { "node": "capitalize", "sub": "資本を投入する", "era": "近代英語" },
+      { "node": "recapitalize", "sub": "資本を再注入する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "recapitalize the bank", "ja": "銀行に資本を再注入する" },
+      { "en": "recapitalize the company", "ja": "会社の資本を立て直す" },
+      { "en": "be recapitalized", "ja": "資本を再注入される" },
+      { "en": "recapitalize with public funds", "ja": "公的資金で資本を入れる" },
+      { "en": "a bank recapitalization", "ja": "銀行の資本再注入" },
+      { "en": "recapitalize to reduce debt", "ja": "負債削減のため資本を立て直す" }
+    ],
+    "related": [
+      { "en": "capitalize", "ja": "資本を投入する" },
+      { "en": "capital", "ja": "資本" },
+      { "en": "recapitalization", "ja": "資本再注入・資本再構成" },
+      { "en": "bailout", "ja": "（公的）救済" }
+    ],
+    "faq": [
+      { "q": "recapitalize とはどんな意味？", "a": "経営が悪化した企業や銀行に資本を入れ直し、財務基盤を立て直す『資本を再注入する・資本構成を立て直す』という意味です。The government recapitalized the failing banks.（破綻しかけた銀行に資本を再注入した）のように使います。" },
+      { "q": "recapitalize はどんな場面で使う？", "a": "金融危機などで自己資本が不足した銀行に、政府や投資家が資本を注入して立て直す場面でよく使います。bank recapitalization（銀行の資本再注入）のように言います。" }
+    ],
+    "quiz": [
+      { "q": "The government ___d the failing banks.（資本を再注入した）", "A": "recapitalize", "B": "capitalize の最初に資本投入する", "C": "specialize の専門化する", "D": "centralize の中央集権化する", "correct": "A" },
+      { "q": "recapitalize に含まれる語根 capital の意味は？", "A": "資本", "B": "中心", "C": "規則", "D": "速さ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reassuringly",
+    "pron": "ˌriːəˈʃʊərɪŋli",
+    "kana": "リアシュアリングリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "reassuring（安心させる）＋ -ly",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "感情・頻出"],
+    "meaning_main": "安心させるように・心強いことに",
+    "description": "reassuringly の意味・発音・例文・語源を解説。不安をやわらげ「安心させるように」ふるまう様子や、「心強いことに」と文を修飾する使い方を分かりやすく紹介します。",
+    "keywords": ["reassuringly 意味", "reassuringly 発音", "安心させるように", "心強いことに"],
+    "meanings": [
+      { "hinshi": "【副詞】安心させるように・心強く", "note": "相手の不安をやわらげるように。smile reassuringly（安心させるようにほほえむ）。" },
+      { "hinshi": "【副詞】(文修飾)心強いことに・ありがたいことに", "note": "Reassuringly, the test results were normal.（心強いことに、検査結果は正常だった）。" }
+    ],
+    "usages": [
+      { "title": "① 「安心させるように」として", "desc": "不安をやわらげる態度を表します。", "example_en": "She squeezed his hand reassuringly.", "example_ja": "彼女は安心させるように彼の手を握った。" },
+      { "title": "② 文修飾「心強いことに」として", "desc": "ほっとする状況を表します。", "example_en": "Reassuringly, sales remained strong.", "example_ja": "心強いことに、売上は好調を保った。" }
+    ],
+    "warn": [
+      "reassuringly は『安心させるように・心強く』、文修飾で『心強いことに』。reassuring（安心させる）＋ -ly。",
+      "smile / nod / say reassuringly（安心させるように笑う・うなずく・言う）が頻出。"
+    ],
+    "etym_note": "reassuring（reassure「安心させる」、re-「再び」＋ assure「保証する」より）＋ -ly から成り、「安心させるように」を意味します。sure（確かな）, assure（保証する）と同じ語根です。",
+    "etym_chain": [
+      { "node": "assure", "sub": "保証する・安心させる", "era": "中英語" },
+      { "node": "reassuring", "sub": "安心させる", "era": "近代英語" },
+      { "node": "reassuringly", "sub": "安心させるように", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "smile reassuringly", "ja": "安心させるようにほほえむ" },
+      { "en": "nod reassuringly", "ja": "安心させるようにうなずく" },
+      { "en": "say reassuringly", "ja": "安心させるように言う" },
+      { "en": "squeeze one's hand reassuringly", "ja": "安心させるように手を握る" },
+      { "en": "reassuringly normal", "ja": "心強いほど正常な" },
+      { "en": "reassuringly, ...", "ja": "心強いことに、…" }
+    ],
+    "related": [
+      { "en": "reassuring", "ja": "安心させる" },
+      { "en": "reassure", "ja": "安心させる" },
+      { "en": "comfortingly", "ja": "慰めになるように" },
+      { "en": "soothingly", "ja": "なだめるように" }
+    ],
+    "faq": [
+      { "q": "reassuringly とはどんな意味？", "a": "不安をやわらげ『安心させるように』ふるまう様子や、文修飾で『心強いことに・ありがたいことに』という意味です。She squeezed his hand reassuringly.（安心させるように手を握った）のように使います。" },
+      { "q": "reassuringly の文修飾の使い方は？", "a": "文頭などに置いて『心強いことに・ほっとすることに』と状況への安心感を表します。Reassuringly, the results were normal.（心強いことに、結果は正常だった）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "She squeezed his hand ___.（安心させるように）", "A": "reassuringly", "B": "surprisingly の驚いたことに", "C": "increasingly のますます", "D": "amazingly の驚くほど", "correct": "A" },
+      { "q": "reassuringly の形容詞形はどれ？", "A": "reassuring（安心させる）", "B": "surprising（驚くべき）", "C": "increasing（増加する）", "D": "amazing（驚くべき）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recalcitrance",
+    "pron": "rɪˈkælsɪtrəns",
+    "kana": "リカルシトランス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 recalcitrare（後ろ足で蹴る）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文語的"],
+    "meaning_main": "反抗・頑強な抵抗・言うことを聞かないこと",
+    "description": "recalcitrance の意味・発音・例文・語源を解説。権威や指示に頑として従わない「反抗・頑強な抵抗・強情さ」を表す、やや硬い名詞の使い方と形容詞 recalcitrant を紹介します。",
+    "keywords": ["recalcitrance 意味", "recalcitrance 発音", "反抗", "頑強な抵抗"],
+    "meanings": [
+      { "hinshi": "【名詞】反抗・頑強な抵抗・言うことを聞かないこと・強情さ", "note": "権威・指示・規則に頑として従わないこと。the recalcitrance of the rebels（反逆者たちの頑強な抵抗）。形容詞は recalcitrant。" }
+    ],
+    "usages": [
+      { "title": "① 「頑強な抵抗」として", "desc": "従わない態度を表します。", "example_en": "The government was frustrated by the recalcitrance of the unions.", "example_ja": "政府は労組の頑強な抵抗にいらだった。" },
+      { "title": "② 「強情さ」として", "desc": "言うことを聞かない様子を表します。", "example_en": "His recalcitrance made teamwork difficult.", "example_ja": "彼の強情さはチームワークを難しくした。" }
+    ],
+    "warn": [
+      "recalcitrance は『反抗・頑強な抵抗・強情さ』。形容詞 recalcitrant（反抗的な・言うことを聞かない）。やや硬い・文語的。",
+      "権威・規則に従わないニュアンス。stubbornness（頑固さ）より反抗的。"
+    ],
+    "etym_note": "ラテン語 recalcitrare（re-「逆に」＋ calcitrare「（馬などが）後ろ足で蹴る」、calx「かかと」より）に由来し、「（馬のように）蹴って抵抗すること＝反抗」を意味します。",
+    "etym_chain": [
+      { "node": "recalcitrare", "sub": "後ろ足で蹴る", "era": "ラテン語" },
+      { "node": "recalcitrant", "sub": "反抗的な", "era": "近代英語" },
+      { "node": "recalcitrance", "sub": "反抗・頑強な抵抗", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the recalcitrance of", "ja": "〜の頑強な抵抗" },
+      { "en": "show recalcitrance", "ja": "反抗を示す" },
+      { "en": "stubborn recalcitrance", "ja": "頑固な抵抗" },
+      { "en": "political recalcitrance", "ja": "政治的な非協力" },
+      { "en": "deal with recalcitrance", "ja": "反抗に対処する" },
+      { "en": "frustrated by recalcitrance", "ja": "頑強な抵抗にいらだつ" }
+    ],
+    "related": [
+      { "en": "recalcitrant", "ja": "反抗的な・言うことを聞かない" },
+      { "en": "defiance", "ja": "反抗・挑戦" },
+      { "en": "obstinacy", "ja": "頑固さ" },
+      { "en": "compliance", "ja": "従順・順守（反対）" }
+    ],
+    "faq": [
+      { "q": "recalcitrance とはどんな意味？", "a": "権威や指示に頑として従わない『反抗・頑強な抵抗・強情さ』のことです。The government was frustrated by the recalcitrance of the unions.（労組の頑強な抵抗にいらだった）のように使います。形容詞は recalcitrant です。" },
+      { "q": "recalcitrance と stubbornness の違いは？", "a": "stubbornness は『（単なる）頑固さ・意地』、recalcitrance は『（権威・規則に対する）反抗的で頑強な抵抗』に重点があります。recalcitrance のほうが反抗のニュアンスが強いです。" }
+    ],
+    "quiz": [
+      { "q": "The government was frustrated by the ___ of the unions.（頑強な抵抗）", "A": "recalcitrance", "B": "reluctance のためらい", "C": "relevance の関連性", "D": "reassurance の安心", "correct": "A" },
+      { "q": "recalcitrance の形容詞形はどれ？", "A": "recalcitrant（反抗的な）", "B": "reluctant（気が進まない）", "C": "relevant（関連する）", "D": "resistant（抵抗する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rapturously",
+    "pron": "ˈræptʃərəsli",
+    "kana": "ラプチャラスリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "rapturous（熱狂的な）＋ -ly",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "感情表現"],
+    "meaning_main": "熱狂的に・有頂天で・うっとりと",
+    "description": "rapturously の意味・発音・例文・語源を解説。あふれる喜びや感激で「熱狂的に・有頂天で・うっとりと」何かをする様子を表す副詞の使い方を紹介します。",
+    "keywords": ["rapturously 意味", "rapturously 発音", "熱狂的に", "うっとりと"],
+    "meanings": [
+      { "hinshi": "【副詞】熱狂的に・有頂天で・うっとりと", "note": "強い喜び・感激にあふれて。applaud rapturously（割れんばかりに拍手する）。形容詞は rapturous。" }
+    ],
+    "usages": [
+      { "title": "① 「熱狂的に拍手する」として", "desc": "感激にあふれた様子を表します。", "example_en": "The audience applauded rapturously.", "example_ja": "観客は割れんばかりに拍手した。" },
+      { "title": "② 「うっとりと語る」として", "desc": "感きわまった様子を表します。", "example_en": "She spoke rapturously about the concert.", "example_ja": "彼女はそのコンサートについてうっとりと語った。" }
+    ],
+    "warn": [
+      "rapturously は『熱狂的に・有頂天で・うっとりと』。形容詞 rapturous（熱狂的な）＋ -ly。名詞 rapture（有頂天・歓喜）。",
+      "applaud / cheer / receive rapturously（割れんばかりに拍手・歓迎する）が頻出。"
+    ],
+    "etym_note": "rapturous（『熱狂的な』、rapture「有頂天・歓喜」、ラテン語 rapere「奪う・さらう」より＝心をさらわれた状態）＋ -ly から成り、「歓喜にさらわれて」を意味します。rapt（夢中の）と同じ語根です。",
+    "etym_chain": [
+      { "node": "rapere", "sub": "奪う・さらう", "era": "ラテン語" },
+      { "node": "rapturous", "sub": "熱狂的な", "era": "近代英語" },
+      { "node": "rapturously", "sub": "熱狂的に・うっとりと", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "applaud rapturously", "ja": "割れんばかりに拍手する" },
+      { "en": "cheer rapturously", "ja": "熱狂的に歓声を上げる" },
+      { "en": "be received rapturously", "ja": "熱烈に迎えられる" },
+      { "en": "speak rapturously about", "ja": "〜についてうっとりと語る" },
+      { "en": "smile rapturously", "ja": "うっとりとほほえむ" },
+      { "en": "rapturously happy", "ja": "有頂天で幸せな" }
+    ],
+    "related": [
+      { "en": "rapturous", "ja": "熱狂的な・うっとりした" },
+      { "en": "rapture", "ja": "有頂天・歓喜" },
+      { "en": "ecstatically", "ja": "有頂天で・狂喜して" },
+      { "en": "enthusiastically", "ja": "熱狂的に" }
+    ],
+    "faq": [
+      { "q": "rapturously とはどんな意味？", "a": "あふれる喜びや感激で『熱狂的に・有頂天で・うっとりと』何かをする様子を表す副詞です。The audience applauded rapturously.（観客は割れんばかりに拍手した）のように使います。形容詞は rapturous です。" },
+      { "q": "rapturously と enthusiastically の違いは？", "a": "どちらも『熱心に・熱狂的に』ですが、rapturously は『（うっとりするほどの）歓喜にあふれて』、enthusiastically は『（やる気・熱意をもって）熱心に』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The audience applauded ___.（割れんばかりに）", "A": "rapturously", "B": "reluctantly のしぶしぶ", "C": "rarely のめったに〜ない", "D": "recently の最近", "correct": "A" },
+      { "q": "rapturously の形容詞形はどれ？", "A": "rapturous（熱狂的な）", "B": "reluctant（気が進まない）", "C": "rare（まれな）", "D": "recent（最近の）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "redemptive",
+    "pron": "rɪˈdemptɪv",
+    "kana": "リデンプティブ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "redemption（あがない・救済）＋ -ive",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "宗教・文学"],
+    "meaning_main": "あがないの・救いをもたらす・名誉を取り戻させる",
+    "description": "redemptive の意味・発音・例文・語源を解説。罪や過ちから「あがない・救いをもたらす・名誉を取り戻させる」という、宗教・文学で使う形容詞の使い方を紹介します。",
+    "keywords": ["redemptive 意味", "redemptive 発音", "あがないの", "救済の"],
+    "meanings": [
+      { "hinshi": "【形容詞】あがないの・救いをもたらす・名誉を取り戻させる", "note": "罪・過ち・失敗から救う、または埋め合わせる。a redemptive act（あがないの行為）。a redemptive story（救いの物語）。名詞は redemption。" }
+    ],
+    "usages": [
+      { "title": "① 「救いをもたらす」として", "desc": "あがないの力を表します。", "example_en": "The novel has a redemptive ending.", "example_ja": "その小説は救いのある結末をもつ。" },
+      { "title": "② 「名誉を取り戻させる」として", "desc": "埋め合わせる力を表します。", "example_en": "His redemptive act earned forgiveness.", "example_ja": "彼のあがないの行為は赦しを得た。" }
+    ],
+    "warn": [
+      "redemptive は『あがないの・救いをもたらす・名誉を取り戻させる』。名詞 redemption（あがない・救済・名誉回復）＋ -ive。動詞 redeem。",
+      "宗教（罪のあがない）・文学（救いの物語）でよく使う。a redemptive arc（主人公が立ち直る筋立て）も。"
+    ],
+    "etym_note": "redemption（『あがない・買い戻し・救済』、ラテン語 redimere「買い戻す」、re-「再び」＋ emere「買う」より）＋ -ive から成り、「救いをもたらす」を意味します。redeem（あがなう）と同じ語根です。",
+    "etym_chain": [
+      { "node": "redimere", "sub": "買い戻す・あがなう", "era": "ラテン語" },
+      { "node": "redemption", "sub": "あがない・救済", "era": "中英語" },
+      { "node": "redemptive", "sub": "あがないの・救いの", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a redemptive act", "ja": "あがないの行為" },
+      { "en": "a redemptive story", "ja": "救いの物語" },
+      { "en": "a redemptive ending", "ja": "救いのある結末" },
+      { "en": "redemptive power", "ja": "あがないの力" },
+      { "en": "a redemptive arc", "ja": "（主人公が）立ち直る筋立て" },
+      { "en": "a redemptive quality", "ja": "救いをもたらす性質" }
+    ],
+    "related": [
+      { "en": "redemption", "ja": "あがない・救済・名誉回復" },
+      { "en": "redeem", "ja": "あがなう・名誉を取り戻す" },
+      { "en": "salvation", "ja": "救い・救済" },
+      { "en": "atoning", "ja": "罪を償う" }
+    ],
+    "faq": [
+      { "q": "redemptive とはどんな意味？", "a": "罪や過ち・失敗から『あがない・救いをもたらす・名誉を取り戻させる』という形容詞です。The novel has a redemptive ending.（その小説は救いのある結末をもつ）のように使います。名詞は redemption です。" },
+      { "q": "a redemptive arc とは？", "a": "物語で『主人公が過ちや堕落から立ち直り、名誉や心を取り戻していく筋立て』のことです。redemption（あがない・名誉回復）の物語的な展開を指します。" }
+    ],
+    "quiz": [
+      { "q": "The novel has a ___ ending.（救いのある）", "A": "redemptive", "B": "descriptive の描写的な", "C": "destructive の破壊的な", "D": "deceptive の人を欺く", "correct": "A" },
+      { "q": "redemptive の名詞形はどれ？", "A": "redemption（あがない・救済）", "B": "description（描写）", "C": "destruction（破壊）", "D": "deception（欺き）", "correct": "A" }
+    ]
+  }
+]

@@ -1,0 +1,525 @@
+[
+  {
+    "english": "regolith",
+    "pron": "ˈrɛɡəlɪθ",
+    "kana": "レゴリス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 rhēgos（毛布）＋ lithos（石）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "地学・宇宙"],
+    "meaning_main": "表土・レゴリス（岩盤を覆うゆるい層）",
+    "description": "regolith の意味・発音・例文・語源を解説。岩盤の上を覆う、砕けた岩や土砂のゆるい層「表土・レゴリス」という、地学や宇宙科学で使う語の使い方を紹介します。",
+    "keywords": ["regolith 意味", "regolith 発音", "レゴリス", "表土"],
+    "meanings": [
+      { "hinshi": "【名詞】レゴリス・表土", "note": "固い岩盤（基盤岩）の上を覆う、風化や衝突で砕けた岩・砂・塵のゆるい層。月の表面を覆う『月のレゴリス』が有名。" }
+    ],
+    "usages": [
+      { "title": "① 「月の表土」として", "desc": "天体表面の層を表します。", "example_en": "The lunar regolith is several meters deep in places.", "example_ja": "月のレゴリスは場所によって数メートルの厚さがある。" },
+      { "title": "② 「地表の風化層」として", "desc": "地球の表層を表します。", "example_en": "Soil forms from the upper part of the regolith.", "example_ja": "土壌はレゴリスの上部から形成される。" }
+    ],
+    "warn": [
+      "regolith は『レゴリス・表土（岩盤を覆うゆるい層）』。地学・宇宙科学の語。",
+      "月探査でよく登場する。発音はレゴリス（th は無声音）。"
+    ],
+    "etym_note": "ギリシャ語 rhēgos（『毛布・敷物』）＋ lithos（『石』）から成り、「岩盤を覆う毛布のような層」を意味します。lithos は monolith（一枚岩）や lithograph（石版画）と同じ語根です。",
+    "etym_chain": [
+      { "node": "rhēgos + lithos", "sub": "毛布＋石", "era": "古代ギリシャ語" },
+      { "node": "regolith", "sub": "岩を覆う層", "era": "近代英語（1897）" },
+      { "node": "regolith", "sub": "レゴリス・表土", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "lunar regolith", "ja": "月のレゴリス" },
+      { "en": "Martian regolith", "ja": "火星のレゴリス" },
+      { "en": "a layer of regolith", "ja": "レゴリスの層" },
+      { "en": "deep regolith", "ja": "厚い表土" },
+      { "en": "weathered regolith", "ja": "風化した表土" },
+      { "en": "regolith and bedrock", "ja": "表土と基盤岩" }
+    ],
+    "related": [
+      { "en": "bedrock", "ja": "基盤岩" },
+      { "en": "soil", "ja": "土壌" },
+      { "en": "weathering", "ja": "風化" },
+      { "en": "sediment", "ja": "堆積物" }
+    ],
+    "faq": [
+      { "q": "regolith とはどんな意味？", "a": "固い岩盤の上を覆う、砕けた岩や砂・塵のゆるい層『レゴリス・表土』のことです。The lunar regolith is several meters deep.（月のレゴリスは数メートルの厚さがある）のように使います。" },
+      { "q": "regolith と soil（土壌）の違いは？", "a": "regolith は『岩盤を覆うゆるい層全体』、soil（土壌）はそのうち生物や有機物を含み植物が育つ上部を指します。月のレゴリスには有機質の土壌はありません。" }
+    ],
+    "quiz": [
+      { "q": "The lunar ___ is several meters deep in places.（レゴリス）", "A": "regolith", "B": "monolith の一枚岩", "C": "algorithm のアルゴリズム", "D": "logarithm の対数", "correct": "A" },
+      { "q": "regolith の lith はどんな意味？", "A": "石", "B": "水", "C": "光", "D": "風", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rotifer",
+    "pron": "ˈrəʊtɪfə",
+    "kana": "ロウティファー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 rota（車輪）＋ ferre（運ぶ・持つ）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "生物・微生物"],
+    "meaning_main": "ワムシ（車輪状の繊毛を持つ微小動物）",
+    "description": "rotifer の意味・発音・例文・語源を解説。淡水にすむ微小な多細胞動物「ワムシ（輪虫）」という、生物学で使う語の使い方と、車輪のような繊毛にちなむ語源を紹介します。",
+    "keywords": ["rotifer 意味", "rotifer 発音", "ワムシ", "輪虫"],
+    "meanings": [
+      { "hinshi": "【名詞】ワムシ（輪虫）", "note": "主に淡水にすむ非常に小さな多細胞動物。頭部に車輪のように回転して見える繊毛の冠（輪盤）を持ち、それで水流を作り餌をとる。" }
+    ],
+    "usages": [
+      { "title": "① 「微小動物」として", "desc": "プランクトンを表します。", "example_en": "Rotifers are common in pond water.", "example_ja": "ワムシは池の水によく見られる。" },
+      { "title": "② 「観察」として", "desc": "顕微鏡での観察を表します。", "example_en": "Under the microscope, the rotifer's wheel organ spun.", "example_ja": "顕微鏡下でワムシの輪盤が回転して見えた。" }
+    ],
+    "warn": [
+      "rotifer は『ワムシ（輪虫）』。頭部の繊毛が車輪のように回って見えることが名の由来。",
+      "肉眼ではほぼ見えない微小動物だが、単細胞ではなく多細胞動物。"
+    ],
+    "etym_note": "ラテン語 rota（『車輪』）＋ ferre（『運ぶ・持つ』）から成り、「車輪を持つもの」を意味します。回転して見える繊毛の冠にちなみます。rotate（回転する）や rotary（回転式の）と同じ rota の系統です。",
+    "etym_chain": [
+      { "node": "rota + ferre", "sub": "車輪＋持つ", "era": "ラテン語" },
+      { "node": "Rotifera", "sub": "ワムシ綱（学名）", "era": "近代ラテン語" },
+      { "node": "rotifer", "sub": "ワムシ", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "freshwater rotifers", "ja": "淡水のワムシ" },
+      { "en": "a colony of rotifers", "ja": "ワムシの群体" },
+      { "en": "the rotifer's wheel organ", "ja": "ワムシの輪盤" },
+      { "en": "feed on rotifers", "ja": "ワムシを餌にする" },
+      { "en": "rotifers in plankton", "ja": "プランクトン中のワムシ" },
+      { "en": "observe a rotifer", "ja": "ワムシを観察する" }
+    ],
+    "related": [
+      { "en": "plankton", "ja": "プランクトン" },
+      { "en": "cilia", "ja": "繊毛" },
+      { "en": "microorganism", "ja": "微生物" },
+      { "en": "invertebrate", "ja": "無脊椎動物" }
+    ],
+    "faq": [
+      { "q": "rotifer とはどんな意味？", "a": "主に淡水にすむ微小な多細胞動物『ワムシ（輪虫）』のことです。頭部に車輪のように回って見える繊毛の冠を持ちます。Rotifers are common in pond water.（ワムシは池の水によく見られる）のように使います。" },
+      { "q": "なぜ rotifer（車輪を持つもの）と呼ぶ？", "a": "頭部の繊毛（輪盤）が波打って動くと、まるで車輪が回転しているように見えるためです。ラテン語 rota（車輪）が語源です。" }
+    ],
+    "quiz": [
+      { "q": "___s are common in pond water.（ワムシ）", "A": "Rotifer", "B": "Rooster のおんどり", "C": "Roaster の焙煎器", "D": "Rotor の回転子", "correct": "A" },
+      { "q": "rotifer の名前のもとになった rota の意味はどれ？", "A": "車輪", "B": "根", "C": "石", "D": "葉", "correct": "A" }
+    ]
+  },
+  {
+    "english": "refugium",
+    "pron": "rɪˈfjuːdʒiəm",
+    "kana": "レフュージウム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 refugium（避難所）、refugere（逃れる）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "生物・生態"],
+    "meaning_main": "待避地・残存生息地（生物が生き延びた場所）",
+    "description": "refugium の意味・発音・例文・語源を解説。気候変動などの中で生物が生き延びた「待避地・残存生息地（レフュジア）」という、生物地理学で使う語の使い方を紹介します。",
+    "keywords": ["refugium 意味", "refugium 発音", "待避地", "レフュジア"],
+    "meanings": [
+      { "hinshi": "【名詞】待避地・残存生息地（レフュジウム）", "note": "氷期などの環境変化の中で、生物の集団が生き延びることのできた限られた地域。複数形は refugia（レフュジア）。" },
+      { "hinshi": "【名詞】（水槽）リフュジウム", "note": "アクアリウムで、生物を保護・繁殖させる付属水槽。" }
+    ],
+    "usages": [
+      { "title": "① 生態「氷期の待避地」として", "desc": "生き延びた地域を表します。", "example_en": "During the ice age, these valleys served as a refugium for many species.", "example_ja": "氷期にこれらの谷は多くの種の待避地となった。" },
+      { "title": "② 「残存地から再拡散」として", "desc": "回復の起点を表します。", "example_en": "Species spread out again from their glacial refugia.", "example_ja": "種は氷期の待避地から再び分布を広げた。" }
+    ],
+    "warn": [
+      "refugium は『待避地・残存生息地』。複数形は refugia。生物地理学の専門語。",
+      "refuge（避難所）と同語源だが、refugium は『（種が生き延びた）生態学的待避地』を指す。"
+    ],
+    "etym_note": "ラテン語 refugium（『避難所』、refugere「逃れる」、re-＋ fugere「逃げる」より）に由来します。refuge（避難所）や fugitive（逃亡者）と同じ fugere の系統です。",
+    "etym_chain": [
+      { "node": "refugere", "sub": "逃れる", "era": "ラテン語" },
+      { "node": "refugium", "sub": "避難所", "era": "ラテン語" },
+      { "node": "refugium", "sub": "待避地・残存生息地", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a glacial refugium", "ja": "氷期の待避地" },
+      { "en": "serve as a refugium", "ja": "待避地となる" },
+      { "en": "climate refugia", "ja": "気候の待避地" },
+      { "en": "refugia for species", "ja": "種の残存生息地" },
+      { "en": "isolated refugium", "ja": "孤立した待避地" },
+      { "en": "spread from refugia", "ja": "待避地から広がる" }
+    ],
+    "related": [
+      { "en": "refuge", "ja": "避難所" },
+      { "en": "habitat", "ja": "生息地" },
+      { "en": "endemic", "ja": "固有の（生物）" },
+      { "en": "biogeography", "ja": "生物地理学" }
+    ],
+    "faq": [
+      { "q": "refugium とはどんな意味？", "a": "氷期などの環境変化の中で生物が生き延びることのできた限られた地域『待避地・残存生息地』のことです。複数形は refugia。These valleys served as a refugium.（これらの谷は待避地となった）のように使います。" },
+      { "q": "refugium と refuge の違いは？", "a": "refuge は一般的な『避難所』、refugium は生物地理学で『（種が環境変動を生き延びた）生態学的待避地』を指す専門語です。" }
+    ],
+    "quiz": [
+      { "q": "These valleys served as a ___ for many species.（待避地）", "A": "refugium", "B": "stadium の競技場", "C": "medium の媒体", "D": "podium の演壇", "correct": "A" },
+      { "q": "refugium の複数形はどれ？", "A": "refugia", "B": "refugiums のみ", "C": "refugies", "D": "refugii", "correct": "A" }
+    ]
+  },
+  {
+    "english": "risorgimento",
+    "pron": "rɪˌsɔːdʒɪˈmɛntəʊ",
+    "kana": "リソルジメント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "イタリア語 risorgimento（復活・再起）、risorgere（再び立ち上がる）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "歴史・イタリア"],
+    "meaning_main": "リソルジメント（19世紀イタリア統一運動）／復興",
+    "description": "risorgimento の意味・発音・例文・語源を解説。19世紀イタリアの統一運動「リソルジメント」、また一般に「復興・再起」という、歴史で使う語の使い方を紹介します。",
+    "keywords": ["risorgimento 意味", "risorgimento 発音", "イタリア統一", "復興"],
+    "meanings": [
+      { "hinshi": "【名詞】リソルジメント（イタリア統一運動）", "note": "大文字 Risorgimento で、19世紀に分裂していたイタリアを一つの国家に統一した政治・社会運動。1861年のイタリア王国成立に至る。" },
+      { "hinshi": "【名詞】復興・再起", "note": "比喩で、文化・国家などの『よみがえり』。" }
+    ],
+    "usages": [
+      { "title": "① 歴史「イタリア統一運動」として", "desc": "統一運動を表します。", "example_en": "Garibaldi was a hero of the Risorgimento.", "example_ja": "ガリバルディはリソルジメントの英雄だった。" },
+      { "title": "② 比喩「復興」として", "desc": "よみがえりを表します。", "example_en": "The festival celebrated a cultural risorgimento.", "example_ja": "その祭りは文化の復興を祝った。" }
+    ],
+    "warn": [
+      "risorgimento は歴史で『リソルジメント（イタリア統一運動）』、一般に『復興・再起』。",
+      "大文字 Risorgimento は特に19世紀イタリアの統一運動を指す固有の歴史用語。"
+    ],
+    "etym_note": "イタリア語 risorgimento（『再び立ち上がること・復活』、risorgere「再び起きる」、ri-（再び）＋ sorgere「立ち上がる」、ラテン語 surgere より）に由来します。surge（うねる・押し寄せる）や resurrect（よみがえらせる）と同根です。",
+    "etym_chain": [
+      { "node": "surgere", "sub": "立ち上がる", "era": "ラテン語" },
+      { "node": "risorgere", "sub": "再び立ち上がる", "era": "イタリア語" },
+      { "node": "risorgimento", "sub": "復活・統一運動", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the Risorgimento", "ja": "リソルジメント" },
+      { "en": "a hero of the Risorgimento", "ja": "リソルジメントの英雄" },
+      { "en": "the age of Risorgimento", "ja": "リソルジメントの時代" },
+      { "en": "Italian Risorgimento", "ja": "イタリア統一運動" },
+      { "en": "a cultural risorgimento", "ja": "文化の復興" },
+      { "en": "the spirit of risorgimento", "ja": "復興の精神" }
+    ],
+    "related": [
+      { "en": "unification", "ja": "統一" },
+      { "en": "revival", "ja": "復興・再生" },
+      { "en": "nationalism", "ja": "国民主義・民族主義" },
+      { "en": "resurgence", "ja": "復活・再起" }
+    ],
+    "faq": [
+      { "q": "risorgimento とはどんな意味？", "a": "19世紀に分裂していたイタリアを統一した政治運動『リソルジメント』を指します（大文字 Risorgimento）。一般には『復興・再起』の意味でも使います。Garibaldi was a hero of the Risorgimento.（ガリバルディはその英雄だった）のように使います。" },
+      { "q": "risorgimento の文字どおりの意味は？", "a": "イタリア語で『再び立ち上がること・よみがえり』です。ri-（再び）＋ sorgere（立ち上がる）から成り、分裂したイタリアの『復活』を象徴しています。" }
+    ],
+    "quiz": [
+      { "q": "Garibaldi was a hero of the ___.（イタリア統一運動）", "A": "Risorgimento", "B": "Renaissance のルネサンス", "C": "Reformation の宗教改革", "D": "Enlightenment の啓蒙", "correct": "A" },
+      { "q": "risorgimento の文字どおりの意味はどれ？", "A": "再び立ち上がること", "B": "古い争い", "C": "長い眠り", "D": "深い谷", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rinderpest",
+    "pron": "ˈrɪndəpɛst",
+    "kana": "リンダーペスト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ドイツ語 Rinderpest（Rinder 牛＋ Pest 疫病）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "獣医・歴史"],
+    "meaning_main": "牛疫（ぎゅうえき）・牛の伝染病",
+    "description": "rinderpest の意味・発音・例文・語源を解説。牛などに致命的な感染症「牛疫（ぎゅうえき）」という、獣医学や歴史で使う語の使い方と、根絶の歴史を紹介します。",
+    "keywords": ["rinderpest 意味", "rinderpest 発音", "牛疫", "牛の伝染病"],
+    "meanings": [
+      { "hinshi": "【名詞】牛疫（ぎゅうえき）", "note": "ウシ・スイギュウなどに高い致死率を示したウイルス性の伝染病。2011年に世界根絶が宣言され、天然痘に次いで人類が根絶した2番目の病気となった。" }
+    ],
+    "usages": [
+      { "title": "① 「家畜の伝染病」として", "desc": "牛の病気を表します。", "example_en": "Rinderpest once devastated cattle herds across Africa.", "example_ja": "牛疫はかつてアフリカ各地の牛の群れを壊滅させた。" },
+      { "title": "② 「根絶」として", "desc": "撲滅の歴史を表します。", "example_en": "Rinderpest was declared eradicated in 2011.", "example_ja": "牛疫は2011年に根絶が宣言された。" }
+    ],
+    "warn": [
+      "rinderpest は『牛疫（ぎゅうえき）』。人にはうつらない家畜（牛）の致命的なウイルス病。",
+      "天然痘に次いで根絶された2番目の感染症（2011年宣言）という点で歴史的に重要。"
+    ],
+    "etym_note": "ドイツ語 Rinderpest に由来し、Rinder（『牛（複数）』）＋ Pest（『疫病』、ラテン語 pestis より）から成り、「牛の疫病」を意味します。pest（害虫）や pestilence（疫病）と同じ語根です。",
+    "etym_chain": [
+      { "node": "Rinder + Pest", "sub": "牛＋疫病", "era": "ドイツ語" },
+      { "node": "Rinderpest", "sub": "牛疫", "era": "ドイツ語" },
+      { "node": "rinderpest", "sub": "牛疫", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "an outbreak of rinderpest", "ja": "牛疫の発生" },
+      { "en": "rinderpest virus", "ja": "牛疫ウイルス" },
+      { "en": "eradicate rinderpest", "ja": "牛疫を根絶する" },
+      { "en": "a rinderpest epidemic", "ja": "牛疫の流行" },
+      { "en": "vaccinate against rinderpest", "ja": "牛疫の予防接種をする" },
+      { "en": "cattle plague (rinderpest)", "ja": "牛疫" }
+    ],
+    "related": [
+      { "en": "cattle", "ja": "牛・畜牛" },
+      { "en": "plague", "ja": "疫病・伝染病" },
+      { "en": "epidemic", "ja": "流行・伝染病" },
+      { "en": "eradicate", "ja": "根絶する" }
+    ],
+    "faq": [
+      { "q": "rinderpest とはどんな意味？", "a": "ウシなどに高い致死率を示したウイルス性の伝染病『牛疫（ぎゅうえき）』のことです。Rinderpest once devastated cattle herds.（牛疫はかつて牛の群れを壊滅させた）のように使います。" },
+      { "q": "rinderpest が歴史的に重要な理由は？", "a": "2011年に世界根絶が宣言され、天然痘に次いで人類が根絶に成功した2番目の感染症（家畜の病気としては初）となったためです。" }
+    ],
+    "quiz": [
+      { "q": "___ was declared eradicated in 2011.（牛疫）", "A": "Rinderpest", "B": "Rind の皮", "C": "Reindeer のトナカイ", "D": "Render の描写", "correct": "A" },
+      { "q": "rinderpest はおもにどの動物の病気？", "A": "牛", "B": "人間", "C": "魚", "D": "鳥", "correct": "A" }
+    ]
+  },
+  {
+    "english": "repine",
+    "pron": "rɪˈpaɪn",
+    "kana": "リパイン",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（強意）＋ pine（思い焦がれる・やつれる）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "文学・古風"],
+    "meaning_main": "嘆く・不平を言う・思い悩む",
+    "description": "repine の意味・発音・例文・語源を解説。運命や境遇を「嘆く・不平を言う・思い悩む」という、文学的・古風な語の使い方を例文とともに紹介します。",
+    "keywords": ["repine 意味", "repine 発音", "嘆く", "不平を言う"],
+    "meanings": [
+      { "hinshi": "【動詞】嘆く・不平を言う・思い悩む", "note": "自分の境遇や運命を不満に思い、くよくよ嘆く。repine at / over ...（〜を嘆く）。文語・古風。" }
+    ],
+    "usages": [
+      { "title": "① 「境遇を嘆く」として", "desc": "不満を表します。", "example_en": "It is useless to repine over what cannot be changed.", "example_ja": "変えられないことを嘆いても無駄だ。" },
+      { "title": "② 「思い悩む」として", "desc": "くよくよする様子を表します。", "example_en": "She did not repine but quietly accepted her fate.", "example_ja": "彼女は嘆かず、静かに運命を受け入れた。" }
+    ],
+    "warn": [
+      "repine は『嘆く・不平を言う』。文語・古風で、しばしば否定文（do not repine）で使う。",
+      "pine（思い焦がれる・やつれる）に強意の re- がついた語。"
+    ],
+    "etym_note": "re-（強意）＋ pine（『思い焦がれる・やつれる』、古英語 pīnian「苦しむ」、ラテン語 poena「罰・苦痛」より）から成り、「（境遇を）苦しみ嘆くこと」を意味します。pain（苦痛）や penal（刑罰の）と同じ語根です。",
+    "etym_chain": [
+      { "node": "poena", "sub": "罰・苦痛", "era": "ラテン語" },
+      { "node": "pine", "sub": "思い焦がれる・やつれる", "era": "古英語" },
+      { "node": "repine", "sub": "嘆く・不平を言う", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "repine at one's fate", "ja": "運命を嘆く" },
+      { "en": "repine over the past", "ja": "過去を嘆く" },
+      { "en": "do not repine", "ja": "嘆かない" },
+      { "en": "repine in silence", "ja": "黙って思い悩む" },
+      { "en": "useless to repine", "ja": "嘆いても無駄だ" },
+      { "en": "neither complain nor repine", "ja": "愚痴も不平も言わない" }
+    ],
+    "related": [
+      { "en": "pine", "ja": "思い焦がれる・やつれる" },
+      { "en": "lament", "ja": "嘆く・悲しむ" },
+      { "en": "grumble", "ja": "不平を言う" },
+      { "en": "fret", "ja": "思い悩む・やきもきする" }
+    ],
+    "faq": [
+      { "q": "repine とはどんな意味？", "a": "自分の境遇や運命を不満に思い『嘆く・不平を言う・思い悩む』という意味の文語です。It is useless to repine over what cannot be changed.（変えられないことを嘆いても無駄だ）のように使います。" },
+      { "q": "repine と pine の違いは？", "a": "pine は『（人や物を）思い焦がれる・やつれる』、repine は強意の re- がついて『（境遇を）嘆く・不平を言う』という意味になります。" }
+    ],
+    "quiz": [
+      { "q": "It is useless to ___ over what cannot be changed.（嘆く）", "A": "repine", "B": "refine の精製する", "C": "recline のもたれる", "D": "redefine の定義し直す", "correct": "A" },
+      { "q": "repine のもとになった pine の意味に近いのはどれ？", "A": "思い焦がれる・やつれる", "B": "輝く", "C": "走る", "D": "建てる", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retroflex",
+    "pron": "ˈrɛtrəʊflɛks",
+    "kana": "レトロフレックス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 retro（後ろへ）＋ flexus（曲げた）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "言語学・医学"],
+    "meaning_main": "そり舌の・後ろへ反り返った",
+    "description": "retroflex の意味・発音・例文・語源を解説。舌を後ろへ反らせて出す「そり舌音の」、また一般に「後ろへ反り返った」という、言語学や医学で使う語の使い方を紹介します。",
+    "keywords": ["retroflex 意味", "retroflex 発音", "そり舌音", "反り返った"],
+    "meanings": [
+      { "hinshi": "【形容詞】そり舌の（音声）", "note": "舌先を後ろへ反らせ、硬口蓋に近づけて出す音の。インドの諸言語などの retroflex consonant（そり舌子音）。" },
+      { "hinshi": "【形容詞】後ろへ反り返った", "note": "医学・生物で、器官などが後方へ曲がった状態。retroflex uterus（後屈子宮）。" }
+    ],
+    "usages": [
+      { "title": "① 言語学「そり舌音」として", "desc": "舌を反らせる音を表します。", "example_en": "Hindi has several retroflex consonants.", "example_ja": "ヒンディー語にはいくつかのそり舌子音がある。" },
+      { "title": "② 医学「後屈の」として", "desc": "器官の反り返りを表します。", "example_en": "The condition is known as a retroflex uterus.", "example_ja": "その状態は後屈子宮として知られる。" }
+    ],
+    "warn": [
+      "retroflex は『そり舌の（音声）／後ろへ反り返った』。言語学と医学で使う。",
+      "retro-（後ろへ）＋ flex（曲げる）。reflex（反射）や flexible（曲げやすい）と同根。"
+    ],
+    "etym_note": "ラテン語 retro（『後ろへ』）＋ flexus（『曲げた』、flectere「曲げる」より）から成り、「後ろへ曲げた」を意味します。reflex（反射）、flexible（柔軟な）、deflect（そらす）と同じ flectere の系統です。",
+    "etym_chain": [
+      { "node": "retro + flectere", "sub": "後ろへ＋曲げる", "era": "ラテン語" },
+      { "node": "retroflexus", "sub": "後ろへ曲げた", "era": "ラテン語" },
+      { "node": "retroflex", "sub": "そり舌の・反り返った", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a retroflex consonant", "ja": "そり舌子音" },
+      { "en": "retroflex sounds", "ja": "そり舌音" },
+      { "en": "retroflex articulation", "ja": "そり舌調音" },
+      { "en": "a retroflex r", "ja": "そり舌のr音" },
+      { "en": "a retroflex uterus", "ja": "後屈子宮" },
+      { "en": "retroflex position", "ja": "後屈の位置" }
+    ],
+    "related": [
+      { "en": "reflex", "ja": "反射" },
+      { "en": "consonant", "ja": "子音" },
+      { "en": "articulation", "ja": "調音・発音" },
+      { "en": "flexed", "ja": "曲げられた" }
+    ],
+    "faq": [
+      { "q": "retroflex とはどんな意味？", "a": "舌先を後ろへ反らせて出す『そり舌の（音声）』、また一般に『後ろへ反り返った』という意味です。Hindi has several retroflex consonants.（ヒンディー語にはそり舌子音がある）のように使います。" },
+      { "q": "retroflex consonant（そり舌子音）とは？", "a": "舌先を後ろに反らせ、硬口蓋に近づけて発音する子音です。ヒンディー語など南アジアの言語に多く、英語話者には聞き分けが難しい音です。" }
+    ],
+    "quiz": [
+      { "q": "Hindi has several ___ consonants.（そり舌の）", "A": "retroflex", "B": "reflex の反射", "C": "complex の複雑な", "D": "convex の凸の", "correct": "A" },
+      { "q": "retroflex の retro- はどんな意味？", "A": "後ろへ", "B": "上へ", "C": "速く", "D": "明るく", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rhyton",
+    "pron": "ˈraɪtɒn",
+    "kana": "リュトン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 rhyton（注ぐ器）、rhein（流れる）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "考古・美術"],
+    "meaning_main": "リュトン（角形の注ぎ用酒杯）",
+    "description": "rhyton の意味・発音・例文・語源を解説。古代ギリシャやペルシアで用いられた、動物の頭などをかたどった角形の酒杯「リュトン」という、考古学や美術で使う語の使い方を紹介します。",
+    "keywords": ["rhyton 意味", "rhyton 発音", "リュトン", "角杯"],
+    "meanings": [
+      { "hinshi": "【名詞】リュトン", "note": "古代ギリシャ・ペルシアなどで使われた、角や動物の頭をかたどった注ぎ口付きの酒杯。底の穴から酒を流して飲んだ。複数形は rhyta。" }
+    ],
+    "usages": [
+      { "title": "① 「古代の酒杯」として", "desc": "儀式用の器を表します。", "example_en": "The museum displays a gold rhyton shaped like a ram's head.", "example_ja": "その博物館は雄羊の頭の形をした金のリュトンを展示している。" },
+      { "title": "② 「注いで飲む」として", "desc": "使い方を表します。", "example_en": "Wine was poured through the rhyton into a cup.", "example_ja": "酒はリュトンを通して杯に注がれた。" }
+    ],
+    "warn": [
+      "rhyton は『リュトン（角形の注ぎ用酒杯）』。複数形は rhyta。考古学・古代美術の語。",
+      "発音はリュトン（rh の h は無音）。動物の頭をかたどったものが多い。"
+    ],
+    "etym_note": "ギリシャ語 rhyton（『注ぐ器』、rhein「流れる」より）に由来します。酒が底の口から流れ出る器であることから。rheum（分泌物）や rhythm（リズム）と同じ rhein の系統です。",
+    "etym_chain": [
+      { "node": "rhein", "sub": "流れる", "era": "古代ギリシャ語" },
+      { "node": "rhyton", "sub": "注ぐ器", "era": "古代ギリシャ語" },
+      { "node": "rhyton", "sub": "リュトン（角杯）", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a gold rhyton", "ja": "金のリュトン" },
+      { "en": "a ram's-head rhyton", "ja": "雄羊の頭のリュトン" },
+      { "en": "an ancient rhyton", "ja": "古代のリュトン" },
+      { "en": "drink from a rhyton", "ja": "リュトンで飲む" },
+      { "en": "a horn-shaped rhyton", "ja": "角形のリュトン" },
+      { "en": "Persian rhyta", "ja": "ペルシアのリュトン（複数）" }
+    ],
+    "related": [
+      { "en": "goblet", "ja": "脚付きの杯" },
+      { "en": "chalice", "ja": "聖杯・大杯" },
+      { "en": "vessel", "ja": "器・容器" },
+      { "en": "libation", "ja": "（神への）献酒" }
+    ],
+    "faq": [
+      { "q": "rhyton とはどんな意味？", "a": "古代ギリシャやペルシアで使われた、角や動物の頭をかたどった注ぎ口付きの酒杯『リュトン』のことです。a gold rhyton shaped like a ram's head（雄羊の頭の形の金のリュトン）のように使います。" },
+      { "q": "rhyton の特徴は？", "a": "底（または下部）に小さな注ぎ口があり、そこから酒を細く流して杯や口に注いで飲んだ点です。儀式や宴で用いられ、精巧な金属・陶器製の名品が残っています。" }
+    ],
+    "quiz": [
+      { "q": "The museum displays a gold ___ shaped like a ram's head.（リュトン）", "A": "rhyton", "B": "python のニシキヘビ", "C": "piston のピストン", "D": "proton の陽子", "correct": "A" },
+      { "q": "rhyton のもとのギリシャ語 rhein の意味はどれ？", "A": "流れる", "B": "輝く", "C": "戦う", "D": "歌う", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retiarius",
+    "pron": "ˌrɛtiˈɛəriəs",
+    "kana": "レティアリウス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 retiarius（網を持つ者）、rete（網）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "歴史・古代ローマ"],
+    "meaning_main": "レティアリウス（網と三叉槍で戦った剣闘士）",
+    "description": "retiarius の意味・発音・例文・語源を解説。古代ローマの闘技場で、網と三叉槍（トライデント）を武器に戦った剣闘士「レティアリウス（網闘士）」という語の使い方を紹介します。",
+    "keywords": ["retiarius 意味", "retiarius 発音", "網闘士", "剣闘士"],
+    "meanings": [
+      { "hinshi": "【名詞】レティアリウス・網闘士", "note": "古代ローマの剣闘士の一種。投網（net）と三叉槍（trident）、短剣を武器とし、軽装で動き回って戦った。複数形は retiarii。" }
+    ],
+    "usages": [
+      { "title": "① 「剣闘士の種類」として", "desc": "網を使う闘士を表します。", "example_en": "The retiarius tried to entangle his opponent in a net.", "example_ja": "レティアリウスは網で相手をからめ取ろうとした。" },
+      { "title": "② 「対戦」として", "desc": "典型的な組み合わせを表します。", "example_en": "A retiarius usually fought a heavily armored secutor.", "example_ja": "網闘士はたいてい重装のセクトルと戦った。" }
+    ],
+    "warn": [
+      "retiarius は『レティアリウス（網と三叉槍で戦った剣闘士）』。複数形は retiarii。",
+      "rete（網）が語源。reticle（照準線）や retina（網膜）と同じ網の系統。"
+    ],
+    "etym_note": "ラテン語 retiarius（『網を持つ者』、rete「網」より）に由来します。投網を武器にしたことから。reticulate（網状の）や reticle（照準線）と同じ rete の系統です。",
+    "etym_chain": [
+      { "node": "rete", "sub": "網", "era": "ラテン語" },
+      { "node": "retiarius", "sub": "網を持つ者", "era": "ラテン語" },
+      { "node": "retiarius", "sub": "網闘士", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the retiarius cast his net", "ja": "網闘士が網を投げた" },
+      { "en": "a retiarius with a trident", "ja": "三叉槍を持つ網闘士" },
+      { "en": "retiarius versus secutor", "ja": "網闘士対セクトル" },
+      { "en": "the net of the retiarius", "ja": "網闘士の投網" },
+      { "en": "a skilled retiarius", "ja": "熟練の網闘士" },
+      { "en": "Roman retiarii", "ja": "ローマの網闘士たち" }
+    ],
+    "related": [
+      { "en": "gladiator", "ja": "剣闘士" },
+      { "en": "trident", "ja": "三叉槍" },
+      { "en": "net", "ja": "網・投網" },
+      { "en": "arena", "ja": "闘技場・アリーナ" }
+    ],
+    "faq": [
+      { "q": "retiarius とはどんな意味？", "a": "古代ローマの剣闘士の一種『レティアリウス（網闘士）』のことです。投網と三叉槍、短剣を武器に軽装で戦いました。The retiarius tried to entangle his opponent in a net.（網で相手をからめ取ろうとした）のように使います。" },
+      { "q": "retiarius はどんな相手と戦った？", "a": "典型的には、重装で兜と大盾を持つ secutor（セクトル）と戦いました。素早く動く網闘士と重装の追撃者という対照的な組み合わせが人気でした。" }
+    ],
+    "quiz": [
+      { "q": "The ___ tried to entangle his opponent in a net.（網闘士）", "A": "retiarius", "B": "aquarius の水がめ座", "C": "barbarian の野蛮人", "D": "librarian の司書", "correct": "A" },
+      { "q": "retiarius のもとになった rete の意味はどれ？", "A": "網", "B": "剣", "C": "盾", "D": "馬", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ruth",
+    "pron": "ruːθ",
+    "kana": "ルース",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "中英語 ruthe、rue（後悔する・哀れむ）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "古語・文学"],
+    "meaning_main": "哀れみ・同情・悲しみ",
+    "description": "ruth の意味・発音・例文・語源を解説。古語・文語で「哀れみ・同情・悲しみ」という意味の語の使い方と、よく使う派生語 ruthless（無慈悲な）との関係を紹介します。",
+    "keywords": ["ruth 意味", "ruth 発音", "哀れみ", "ruthless 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】哀れみ・同情・悲しみ", "note": "他者の苦しみへの思いやり・あわれみ。古語・文語で、現代ではほぼ派生語 ruthless（無慈悲な）でのみ残る。" }
+    ],
+    "usages": [
+      { "title": "① 「哀れみ」として", "desc": "同情を表します。", "example_en": "He felt ruth for the starving beggar.", "example_ja": "彼は飢えた物乞いに哀れみを感じた。" },
+      { "title": "② ruthless との対比として", "desc": "派生語との関係を表します。", "example_en": "Ruthless means 'without ruth'—without pity.", "example_ja": "ruthless は『ruth（哀れみ）がない』＝無慈悲な、という意味だ。" }
+    ],
+    "warn": [
+      "ruth は『哀れみ・同情・悲しみ』。古語・文語で、現代では単独ではほとんど使われない。",
+      "今日では否定の派生語 ruthless（哀れみのない＝無慈悲な）として主に残る。人名 Ruth とは別。"
+    ],
+    "etym_note": "中英語 ruthe（rue「後悔する・哀れむ」、古英語 hrēowan より）に由来し、「哀れみ・悲しみ」を意味します。形容詞 ruthless（哀れみのない）や rue（悔やむ）と同じ語根です。",
+    "etym_chain": [
+      { "node": "hrēowan", "sub": "後悔する・哀れむ", "era": "古英語" },
+      { "node": "ruthe", "sub": "哀れみ・悲しみ", "era": "中英語" },
+      { "node": "ruth", "sub": "哀れみ・同情", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "feel ruth", "ja": "哀れみを感じる" },
+      { "en": "without ruth", "ja": "哀れみなく" },
+      { "en": "have ruth on", "ja": "〜を哀れむ" },
+      { "en": "moved to ruth", "ja": "哀れみに心動かされて" },
+      { "en": "ruth and pity", "ja": "哀れみと同情" },
+      { "en": "ruthless (without ruth)", "ja": "無慈悲な（哀れみのない）" }
+    ],
+    "related": [
+      { "en": "ruthless", "ja": "無慈悲な・容赦ない" },
+      { "en": "rue", "ja": "悔やむ・哀れむ" },
+      { "en": "pity", "ja": "哀れみ" },
+      { "en": "compassion", "ja": "同情・思いやり" }
+    ],
+    "faq": [
+      { "q": "ruth とはどんな意味？", "a": "他者の苦しみへの『哀れみ・同情・悲しみ』という意味の古語・文語です。現代では単独ではほとんど使われず、派生語 ruthless（無慈悲な）として残っています。" },
+      { "q": "ruth と ruthless の関係は？", "a": "ruthless は ruth（哀れみ）＋ -less（〜がない）で『哀れみのない＝無慈悲な』という意味です。元の ruth は廃れましたが、否定形だけが日常語として生き残りました。" }
+    ],
+    "quiz": [
+      { "q": "He felt ___ for the starving beggar.（哀れみ）", "A": "ruth", "B": "truth の真実", "C": "youth の若さ", "D": "booth の屋台", "correct": "A" },
+      { "q": "ruthless はどういう意味？", "A": "哀れみのない＝無慈悲な", "B": "哀れみ深い", "C": "真実の", "D": "若々しい", "correct": "A" }
+    ]
+  }
+]

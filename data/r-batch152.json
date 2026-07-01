@@ -1,0 +1,526 @@
+[
+  {
+    "english": "ruction",
+    "pron": "ˈrʌkʃən",
+    "kana": "ラクション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "由来不確か（insurrection などの短縮説あり）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "口語・英国"],
+    "meaning_main": "騒動・口論・もめごと",
+    "description": "ruction の意味・発音・例文・語源を解説。激しい「騒動・口論・もめごと」という、主に英国・アイルランドで使う口語の使い方を紹介します。しばしば複数形 ructions で使います。",
+    "keywords": ["ruction 意味", "ruction 発音", "騒動", "口論"],
+    "meanings": [
+      { "hinshi": "【名詞】騒動・口論・もめごと", "note": "激しい言い争いや騒ぎ。しばしば複数形 ructions で『大もめ・大騒ぎ』。主に英国・アイルランドの口語。" }
+    ],
+    "usages": [
+      { "title": "① 「もめごと」として", "desc": "激しい騒ぎを表します。", "example_en": "There will be ructions if the plan is cancelled.", "example_ja": "その計画が中止されれば大もめになるだろう。" },
+      { "title": "② 「口論」として", "desc": "言い争いを表します。", "example_en": "The decision caused ructions within the committee.", "example_ja": "その決定は委員会内で騒動を引き起こした。" }
+    ],
+    "warn": [
+      "ruction は『騒動・口論・もめごと』。しばしば複数形 ructions で使う。主に英国・アイルランドの口語。",
+      "cause ructions（もめごとを起こす）の形が定番。"
+    ],
+    "etym_note": "語源は不確かですが、insurrection（暴動）や eruption（噴出）などの語尾が短縮・変化してできたという説があります。19世紀から騒ぎ・もめごとを表す口語として使われています。",
+    "etym_chain": [
+      { "node": "insurrection（説）", "sub": "暴動", "era": "ラテン語系" },
+      { "node": "ruction", "sub": "騒動・もめごと", "era": "19世紀英語" },
+      { "node": "ructions", "sub": "大もめ・大騒ぎ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "cause ructions", "ja": "騒動を起こす" },
+      { "en": "there will be ructions", "ja": "大もめになるだろう" },
+      { "en": "ructions in the family", "ja": "家庭内のもめごと" },
+      { "en": "a bit of a ruction", "ja": "ちょっとした騒ぎ" },
+      { "en": "ructions broke out", "ja": "もめごとが起きた" },
+      { "en": "lead to ructions", "ja": "騒動につながる" }
+    ],
+    "related": [
+      { "en": "commotion", "ja": "騒動・動揺" },
+      { "en": "uproar", "ja": "大騒ぎ・騒動" },
+      { "en": "quarrel", "ja": "口論・けんか" },
+      { "en": "fracas", "ja": "乱闘・騒動" }
+    ],
+    "faq": [
+      { "q": "ruction とはどんな意味？", "a": "激しい『騒動・口論・もめごと』という意味の、主に英国・アイルランドの口語です。しばしば複数形 ructions で使います。There will be ructions if the plan is cancelled.（中止されれば大もめになる）のように使います。" },
+      { "q": "ruction はどう使うことが多い？", "a": "複数形 ructions で『大もめ・大騒ぎ』を表すことが多く、cause ructions（もめごとを起こす）や There will be ructions.（ひと悶着あるぞ）のように使われます。" }
+    ],
+    "quiz": [
+      { "q": "There will be ___s if the plan is cancelled.（騒動）", "A": "ruction", "B": "auction の競売", "C": "function の機能", "D": "fiction の小説", "correct": "A" },
+      { "q": "ruction の意味に近いのはどれ？", "A": "commotion（騒動）", "B": "celebration（祝賀）", "C": "vacation（休暇）", "D": "education（教育）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recusant",
+    "pron": "ˈrɛkjʊzənt",
+    "kana": "レキュザント",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 recusare（拒む）、re-＋ causa（理由・訴え）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "歴史・宗教"],
+    "meaning_main": "（英国史）国教忌避者・服従を拒む人",
+    "description": "recusant の意味・発音・例文・語源を解説。16〜18世紀の英国で、国教会の礼拝への出席を拒んだ人（特にカトリック教徒）「国教忌避者（レキュザント）」という、歴史で使う語の使い方を紹介します。",
+    "keywords": ["recusant 意味", "recusant 発音", "国教忌避者", "服従を拒む人"],
+    "meanings": [
+      { "hinshi": "【名詞】（英国史）国教忌避者", "note": "16〜18世紀の英国で、法で義務づけられた国教会（英国国教会）の礼拝への出席を拒んだ人。特にローマ・カトリック教徒を指し、罰金などの処罰を受けた。" },
+      { "hinshi": "【形容詞】（権威・国教に）服従を拒む", "note": "recusant Catholics（国教を拒んだカトリック教徒）。" }
+    ],
+    "usages": [
+      { "title": "① 歴史「国教忌避者」として", "desc": "礼拝を拒んだ人を表します。", "example_en": "Recusants were fined for not attending church.", "example_ja": "国教忌避者は教会に出席しないことで罰金を科された。" },
+      { "title": "② 形容詞「服従を拒む」として", "desc": "抵抗する姿勢を表します。", "example_en": "The recusant family secretly kept their old faith.", "example_ja": "その服従を拒んだ一家は古い信仰をひそかに守った。" }
+    ],
+    "warn": [
+      "recusant は『（英国史）国教忌避者・服従を拒む人』。特に16〜18世紀のカトリック教徒を指す歴史語。",
+      "ラテン語 recusare（拒む）由来。一般語の refuse（拒む）と同じ系統。"
+    ],
+    "etym_note": "ラテン語 recusare（『拒む・異議を唱える』、re-（反対に）＋ causa「理由・訴え」より）に由来します。「（求められたことを）拒む人」を意味します。cause（原因・訴え）や accuse（訴える）と同じ causa の系統です。",
+    "etym_chain": [
+      { "node": "recusare", "sub": "拒む", "era": "ラテン語" },
+      { "node": "recusant", "sub": "拒む者", "era": "ラテン語現在分詞" },
+      { "node": "recusant", "sub": "国教忌避者", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a Catholic recusant", "ja": "カトリックの国教忌避者" },
+      { "en": "recusant families", "ja": "国教を拒んだ家系" },
+      { "en": "fine the recusants", "ja": "国教忌避者に罰金を科す" },
+      { "en": "recusant gentry", "ja": "国教忌避の地主階級" },
+      { "en": "remain recusant", "ja": "服従を拒み続ける" },
+      { "en": "recusant priests", "ja": "国教を拒んだ司祭" }
+    ],
+    "related": [
+      { "en": "dissenter", "ja": "国教反対者・非国教徒" },
+      { "en": "nonconformist", "ja": "国教に従わない人" },
+      { "en": "heretic", "ja": "異端者" },
+      { "en": "refuse", "ja": "拒む" }
+    ],
+    "faq": [
+      { "q": "recusant とはどんな意味？", "a": "16〜18世紀の英国で、法で義務づけられた国教会の礼拝への出席を拒んだ人『国教忌避者』のことです。特にカトリック教徒を指します。Recusants were fined for not attending church.（国教忌避者は罰金を科された）のように使います。" },
+      { "q": "recusant と dissenter の違いは？", "a": "recusant は特に『国教会の礼拝を拒んだカトリック教徒』、dissenter（非国教徒）は『国教会に従わないプロテスタント系の人々』を指すことが多いです。立場が異なります。" }
+    ],
+    "quiz": [
+      { "q": "___s were fined for not attending church.（国教忌避者）", "A": "Recusant", "B": "Recipient の受取人", "C": "Recruit の新兵", "D": "Recital の独奏会", "correct": "A" },
+      { "q": "recusant のもとになったラテン語 recusare の意味はどれ？", "A": "拒む", "B": "祈る", "C": "教える", "D": "建てる", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ruralize",
+    "pron": "ˈrʊərəlaɪz",
+    "kana": "ルーラライズ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "rural（田舎の）＋ -ize",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "社会・文章"],
+    "meaning_main": "田舎風にする・田舎で暮らす",
+    "description": "ruralize の意味・発音・例文・語源を解説。場所を「田舎風にする」、また人が「田舎で暮らす・田舎へ移る」という、社会や文章で使う語の使い方を紹介します。urbanize との対比も。",
+    "keywords": ["ruralize 意味", "ruralize 発音", "田舎風にする", "rural 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】田舎風にする・田園化する", "note": "土地・社会を田舎らしく変える。urbanize（都市化する）の反対。英国綴りは ruralise。" },
+      { "hinshi": "【動詞】田舎で暮らす・田舎へ行く", "note": "（自動詞）田園で時を過ごす。" }
+    ],
+    "usages": [
+      { "title": "① 「田園化する」として", "desc": "田舎風に変えることを表します。", "example_en": "Some planners want to ruralize the city's edges with farmland.", "example_ja": "一部の都市計画家は街の周縁を農地で田園化したいと考えている。" },
+      { "title": "② 「田舎で暮らす」として", "desc": "田園生活を表します。", "example_en": "After retiring, he ruralized in a quiet hamlet.", "example_ja": "引退後、彼は静かな小村で田舎暮らしをした。" }
+    ],
+    "warn": [
+      "ruralize は『田舎風にする／田舎で暮らす』。urbanize（都市化する）の反対。英国綴りは ruralise。",
+      "rural（田舎の）＋ -ize。やや硬い語。"
+    ],
+    "etym_note": "rural（『田舎の』、ラテン語 ruralis、rus「田舎・野」より）＋ -ize（『〜化する』）から成り、「田舎らしくすること」を意味します。rustic（素朴な）や rusticate（田舎で暮らす）と同じ rus の系統です。",
+    "etym_chain": [
+      { "node": "rus", "sub": "田舎・野", "era": "ラテン語" },
+      { "node": "rural", "sub": "田舎の", "era": "中英語" },
+      { "node": "ruralize", "sub": "田舎風にする", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "ruralize the area", "ja": "その地域を田園化する" },
+      { "en": "ruralize the landscape", "ja": "景観を田舎風にする" },
+      { "en": "ruralize the suburbs", "ja": "郊外を田園化する" },
+      { "en": "ruralize after retiring", "ja": "引退後に田舎で暮らす" },
+      { "en": "ruralize the economy", "ja": "経済を農村型にする" },
+      { "en": "urbanize or ruralize", "ja": "都市化するか田園化するか" }
+    ],
+    "related": [
+      { "en": "rural", "ja": "田舎の・地方の" },
+      { "en": "urbanize", "ja": "都市化する" },
+      { "en": "rusticate", "ja": "田舎で暮らす" },
+      { "en": "agrarian", "ja": "農業の・農地の" }
+    ],
+    "faq": [
+      { "q": "ruralize とはどんな意味？", "a": "土地や社会を『田舎風にする・田園化する』、また人が『田舎で暮らす』という意味です。Some planners want to ruralize the city's edges.（街の周縁を田園化したい）のように使います。urbanize（都市化する）の反対です。" },
+      { "q": "ruralize と urbanize の関係は？", "a": "ruralize は『田舎風にする・田園化する』、urbanize は『都市化する』で正反対の語です。rural（田舎の）と urban（都市の）の対比に基づきます。" }
+    ],
+    "quiz": [
+      { "q": "Some planners want to ___ the city's edges with farmland.（田園化する）", "A": "ruralize", "B": "urbanize の都市化する", "C": "realize の実現する", "D": "neutralize の中和する", "correct": "A" },
+      { "q": "ruralize の反対の意味の語はどれ？", "A": "urbanize（都市化する）", "B": "rationalize（合理化する）", "C": "ritualize（儀式化する）", "D": "moralize（説教する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rumbustious",
+    "pron": "rʌmˈbʌstiəs",
+    "kana": "ランバスティアス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "robustious（荒々しい）の変形か",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "口語・英国"],
+    "meaning_main": "騒々しく元気な・やんちゃで手に負えない",
+    "description": "rumbustious の意味・発音・例文・語源を解説。陽気で「騒々しく元気な・やんちゃで手に負えない」という、主に英国で使う口語の使い方を紹介します。米国の rambunctious も解説。",
+    "keywords": ["rumbustious 意味", "rumbustious 発音", "騒々しく元気な", "やんちゃな"],
+    "meanings": [
+      { "hinshi": "【形容詞】騒々しく元気な・やんちゃで手に負えない", "note": "元気がありあまって騒がしい、抑えのきかない陽気さ。主に英国口語。米国では rambunctious が一般的。" }
+    ],
+    "usages": [
+      { "title": "① 「やんちゃな子ども」として", "desc": "元気で騒々しい様子を表します。", "example_en": "The classroom was full of rumbustious children.", "example_ja": "教室は元気いっぱいでやんちゃな子どもたちでいっぱいだった。" },
+      { "title": "② 「陽気で騒々しい催し」として", "desc": "にぎやかさを表します。", "example_en": "It was a rumbustious party that went on all night.", "example_ja": "それは一晩中続く騒々しく陽気なパーティーだった。" }
+    ],
+    "warn": [
+      "rumbustious は『騒々しく元気な・やんちゃで手に負えない』。主に英国の口語。",
+      "アメリカでは同義の rambunctious が一般的。否定的というより愛嬌のあるニュアンス。"
+    ],
+    "etym_note": "古い語 robustious（『荒々しい・頑健な』、robust「頑健な」より）が変化してできたとされます。robust（たくましい）と語源的につながり、ありあまる元気さを表します。",
+    "etym_chain": [
+      { "node": "robustus", "sub": "頑健な", "era": "ラテン語" },
+      { "node": "robustious", "sub": "荒々しい・頑健な", "era": "近代英語" },
+      { "node": "rumbustious", "sub": "騒々しく元気な", "era": "18世紀英語" }
+    ],
+    "phrases": [
+      { "en": "rumbustious children", "ja": "やんちゃな子どもたち" },
+      { "en": "a rumbustious party", "ja": "騒々しく陽気なパーティー" },
+      { "en": "rumbustious behavior", "ja": "騒々しい振る舞い" },
+      { "en": "a rumbustious crowd", "ja": "騒がしく元気な群衆" },
+      { "en": "get rumbustious", "ja": "はしゃいで騒がしくなる" },
+      { "en": "a rumbustious puppy", "ja": "やんちゃな子犬" }
+    ],
+    "related": [
+      { "en": "rambunctious", "ja": "（米）騒々しく元気な" },
+      { "en": "boisterous", "ja": "騒がしい・陽気な" },
+      { "en": "rowdy", "ja": "乱暴で騒がしい" },
+      { "en": "unruly", "ja": "手に負えない" }
+    ],
+    "faq": [
+      { "q": "rumbustious とはどんな意味？", "a": "元気がありあまって『騒々しく元気な・やんちゃで手に負えない』という意味の、主に英国の口語です。The classroom was full of rumbustious children.（やんちゃな子どもでいっぱいだった）のように使います。" },
+      { "q": "rumbustious と rambunctious の違いは？", "a": "意味はほぼ同じ『騒々しく元気な』ですが、rumbustious は主にイギリス英語、rambunctious は主にアメリカ英語で使われます。" }
+    ],
+    "quiz": [
+      { "q": "The classroom was full of ___ children.（やんちゃで元気な）", "A": "rumbustious", "B": "ambitious の野心的な", "C": "delicious のおいしい", "D": "cautious の慎重な", "correct": "A" },
+      { "q": "rumbustious のアメリカでの同義語はどれ？", "A": "rambunctious", "B": "ridiculous", "C": "ravenous", "D": "righteous", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retrocede",
+    "pron": "ˌrɛtrəʊˈsiːd",
+    "kana": "レトロシード",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 retrocedere（後退する・返す）、retro-＋ cedere より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "歴史・法律"],
+    "meaning_main": "（領土などを）返還する・後退する",
+    "description": "retrocede の意味・発音・例文・語源を解説。割譲された領土などを「（元の所有者に）返還する」、また「後退する」という、歴史や法律で使う語の使い方を紹介します。",
+    "keywords": ["retrocede 意味", "retrocede 発音", "返還する", "後退する"],
+    "meanings": [
+      { "hinshi": "【動詞】（領土・権利を）返還する", "note": "いったん譲り受けた領土や権利を、元の所有者に再び譲り渡す。名詞は retrocession。" },
+      { "hinshi": "【動詞】後退する・退く", "note": "（やや古風）後ろへ退く。" }
+    ],
+    "usages": [
+      { "title": "① 「領土を返還する」として", "desc": "元の所有者へ返すことを表します。", "example_en": "The territory was retroceded to its original owner.", "example_ja": "その領土は元の所有者に返還された。" },
+      { "title": "② 歴史「返還」として", "desc": "条約による返還を表します。", "example_en": "France retroceded the land to Spain in the treaty.", "example_ja": "フランスは条約でその土地をスペインに返還した。" }
+    ],
+    "warn": [
+      "retrocede は『（領土・権利を）返還する／後退する』。名詞は retrocession。",
+      "cede（譲る・割譲する）に retro-（後ろへ・元へ）がついた語。再保険でも『再々保険に出す』意味で使う。"
+    ],
+    "etym_note": "ラテン語 retrocedere（『後退する・退く』、retro-（後ろへ）＋ cedere「進む・譲る」より）に由来します。cede（譲る）、concede（認める）、recede（後退する）と同じ cedere の系統です。",
+    "etym_chain": [
+      { "node": "retro + cedere", "sub": "後ろへ＋譲る・進む", "era": "ラテン語" },
+      { "node": "retrocedere", "sub": "後退する・返す", "era": "ラテン語" },
+      { "node": "retrocede", "sub": "返還する・後退する", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "retrocede the territory", "ja": "領土を返還する" },
+      { "en": "retrocede the land", "ja": "土地を返還する" },
+      { "en": "be retroceded to ...", "ja": "〜に返還される" },
+      { "en": "retrocede the rights", "ja": "権利を返還する" },
+      { "en": "retrocede the district", "ja": "地区を返還する" },
+      { "en": "retrocession of land", "ja": "土地の返還" }
+    ],
+    "related": [
+      { "en": "cede", "ja": "譲る・割譲する" },
+      { "en": "recede", "ja": "後退する" },
+      { "en": "retrocession", "ja": "返還・割譲返し" },
+      { "en": "return", "ja": "返す・戻す" }
+    ],
+    "faq": [
+      { "q": "retrocede とはどんな意味？", "a": "いったん譲り受けた領土や権利を『（元の所有者に）返還する』、また『後退する』という意味です。The territory was retroceded to its original owner.（その領土は元の所有者に返還された）のように使います。名詞は retrocession です。" },
+      { "q": "retrocede と cede の違いは？", "a": "cede は『（領土などを）譲る・割譲する』、retrocede は『（譲り受けたものを元へ）返還する』で、retro-（元へ）が加わって逆方向の譲渡を表します。" }
+    ],
+    "quiz": [
+      { "q": "The territory was ___d to its original owner.（返還された）", "A": "retrocede", "B": "proceed の進む", "C": "precede の先行する", "D": "succeed の成功する", "correct": "A" },
+      { "q": "retrocede のもとになった cedere の意味はどれ？", "A": "進む・譲る", "B": "切る", "C": "燃やす", "D": "数える", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reformism",
+    "pron": "rɪˈfɔːmɪzəm",
+    "kana": "リフォーミズム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "reform（改革）＋ -ism（主義）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "政治・思想"],
+    "meaning_main": "改良主義（漸進的改革を重んじる立場）",
+    "description": "reformism の意味・発音・例文・語源を解説。革命ではなく既存制度の中での段階的な改革を目指す立場「改良主義」という、政治・思想で使う語の使い方を紹介します。",
+    "keywords": ["reformism 意味", "reformism 発音", "改良主義", "reform 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】改良主義", "note": "既存の制度を一気に転覆させる革命ではなく、その枠内で段階的・漸進的に改革していくことを重んじる政治的立場。形容詞は reformist。" }
+    ],
+    "usages": [
+      { "title": "① 「政治的立場」として", "desc": "漸進的改革の立場を表します。", "example_en": "The party favored reformism over revolution.", "example_ja": "その党は革命より改良主義を支持した。" },
+      { "title": "② 「対比」として", "desc": "急進主義との違いを表します。", "example_en": "Reformism seeks gradual change within the system.", "example_ja": "改良主義は制度の枠内での漸進的な変化を目指す。" }
+    ],
+    "warn": [
+      "reformism は『改良主義（漸進的改革を重んじる立場）』。形容詞は reformist。",
+      "革命（revolution）による急激な変革と対比される。"
+    ],
+    "etym_note": "reform（『改革する』、ラテン語 reformare「作り直す」、re-＋ forma「形」より）＋ -ism（『主義・立場』）から成り、「改革を漸進的に進める主義」を意味します。form（形）と同じ語根です。",
+    "etym_chain": [
+      { "node": "reformare", "sub": "作り直す", "era": "ラテン語" },
+      { "node": "reform", "sub": "改革する", "era": "中英語" },
+      { "node": "reformism", "sub": "改良主義", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "favor reformism", "ja": "改良主義を支持する" },
+      { "en": "gradual reformism", "ja": "漸進的な改良主義" },
+      { "en": "reformism vs revolution", "ja": "改良主義対革命" },
+      { "en": "social reformism", "ja": "社会改良主義" },
+      { "en": "a path of reformism", "ja": "改良主義の道" },
+      { "en": "reject reformism", "ja": "改良主義を退ける" }
+    ],
+    "related": [
+      { "en": "reform", "ja": "改革・改革する" },
+      { "en": "reformist", "ja": "改良主義の（人）" },
+      { "en": "gradualism", "ja": "漸進主義" },
+      { "en": "radicalism", "ja": "急進主義" }
+    ],
+    "faq": [
+      { "q": "reformism とはどんな意味？", "a": "革命ではなく、既存の制度の枠内で段階的・漸進的に改革を進めることを重んじる政治的立場『改良主義』のことです。The party favored reformism over revolution.（党は革命より改良主義を支持した）のように使います。" },
+      { "q": "reformism と revolution の違いは？", "a": "reformism（改良主義）は『制度の枠内での漸進的な改革』、revolution（革命）は『制度そのものの急激な転覆』を目指します。変化の手段と速度が異なります。" }
+    ],
+    "quiz": [
+      { "q": "The party favored ___ over revolution.（改良主義）", "A": "reformism", "B": "tourism の観光", "C": "realism の現実主義", "D": "racism の人種差別", "correct": "A" },
+      { "q": "reformism の形容詞形はどれ？", "A": "reformist（改良主義の）", "B": "reformal", "C": "reformic", "D": "reformous", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reseda",
+    "pron": "rɪˈsiːdə",
+    "kana": "レセダ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 reseda（モクセイソウ）、resedare（鎮める）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "植物・色"],
+    "meaning_main": "モクセイソウ（香りのよい草花）／くすんだ緑色",
+    "description": "reseda の意味・発音・例文・語源を解説。芳香を持つ草花「モクセイソウ（レセダ）」、またその葉のような「くすんだ黄緑色（レセダグリーン）」という、植物や色で使う語の使い方を紹介します。",
+    "keywords": ["reseda 意味", "reseda 発音", "モクセイソウ", "レセダグリーン"],
+    "meanings": [
+      { "hinshi": "【名詞】モクセイソウ（レセダ）", "note": "黄緑〜白の小花を穂状につける香りのよい草花。香水の原料にもされた。学名 Reseda。" },
+      { "hinshi": "【名詞】レセダグリーン（くすんだ黄緑色）", "note": "この植物の葉にちなんだ、灰みがかった淡い黄緑色。" }
+    ],
+    "usages": [
+      { "title": "① 「香りの草花」として", "desc": "芳香植物を表します。", "example_en": "The garden was scented with reseda.", "example_ja": "庭はモクセイソウの香りに満ちていた。" },
+      { "title": "② 色「レセダグリーン」として", "desc": "くすんだ緑を表します。", "example_en": "She chose a dress in soft reseda green.", "example_ja": "彼女は柔らかなレセダグリーンのドレスを選んだ。" }
+    ],
+    "warn": [
+      "reseda は植物『モクセイソウ』、また色『くすんだ黄緑色（レセダグリーン）』。",
+      "学名 Reseda はラテン語 resedare（鎮める）に由来し、薬草として用いられたことから。"
+    ],
+    "etym_note": "ラテン語 reseda（モクセイソウ）に由来します。さらに resedare（『鎮める・和らげる』、re-＋ sedare「静める」より）から来ており、腫れを鎮める薬草とされたことにちなみます。sedate（鎮静させる）と同根です。",
+    "etym_chain": [
+      { "node": "resedare", "sub": "鎮める", "era": "ラテン語" },
+      { "node": "reseda", "sub": "モクセイソウ", "era": "ラテン語" },
+      { "node": "reseda", "sub": "モクセイソウ・レセダ色", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the scent of reseda", "ja": "モクセイソウの香り" },
+      { "en": "reseda green", "ja": "レセダグリーン" },
+      { "en": "a sprig of reseda", "ja": "モクセイソウの小枝" },
+      { "en": "reseda in the garden", "ja": "庭のモクセイソウ" },
+      { "en": "a reseda-colored dress", "ja": "レセダ色のドレス" },
+      { "en": "fragrant reseda", "ja": "香り高いモクセイソウ" }
+    ],
+    "related": [
+      { "en": "mignonette", "ja": "モクセイソウ（仏名）" },
+      { "en": "fragrance", "ja": "芳香" },
+      { "en": "sage green", "ja": "セージグリーン" },
+      { "en": "wildflower", "ja": "野の花" }
+    ],
+    "faq": [
+      { "q": "reseda とはどんな意味？", "a": "黄緑〜白の小花を穂状につける香りのよい草花『モクセイソウ（レセダ）』のことです。また、その葉のような『くすんだ黄緑色（レセダグリーン）』も指します。The garden was scented with reseda.（庭はモクセイソウの香りに満ちていた）のように使います。" },
+      { "q": "reseda green とはどんな色？", "a": "モクセイソウの葉にちなんだ、灰みがかった淡い黄緑色です。落ち着いた上品な緑として、服飾やインテリアで使われます。" }
+    ],
+    "quiz": [
+      { "q": "She chose a dress in soft ___ green.（レセダ）", "A": "reseda", "B": "veranda のベランダ", "C": "agenda の議題", "D": "panda のパンダ", "correct": "A" },
+      { "q": "reseda はもともと何を指す語？", "A": "香りのよい草花（モクセイソウ）", "B": "貝", "C": "鳥", "D": "魚", "correct": "A" }
+    ]
+  },
+  {
+    "english": "revers",
+    "pron": "rɪˈvɪə",
+    "kana": "リビア",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 revers（裏・折り返し）、ラテン語 reversus より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "服飾・専門"],
+    "meaning_main": "（衣服の）折り返し・襟の返し（ラペル）",
+    "description": "revers の意味・発音・例文・語源を解説。上着やコートの前を外側へ折り返した部分「折り返し・襟の返し（ラペル）」という、服飾で使う語の使い方を紹介します。単複同形の注意点も。",
+    "keywords": ["revers 意味", "revers 発音", "折り返し", "ラペル"],
+    "meanings": [
+      { "hinshi": "【名詞】（衣服の）折り返し・襟の返し", "note": "コートや上着の前身頃を外側へ折り返して、裏地や別布を見せた部分。襟の lapel（ラペル）に当たる。単数も複数も revers（語尾の s は無音、リビア）。" }
+    ],
+    "usages": [
+      { "title": "① 「襟の折り返し」として", "desc": "上着の返しを表します。", "example_en": "The coat had wide satin revers.", "example_ja": "そのコートには幅広のサテンの折り返しがついていた。" },
+      { "title": "② 「装飾の返し」として", "desc": "見せる裏布を表します。", "example_en": "Contrasting revers added flair to the jacket.", "example_ja": "対照的な色の折り返しがジャケットに華やかさを添えた。" }
+    ],
+    "warn": [
+      "revers は『（衣服の）折り返し・襟の返し（ラペル）』。発音はリビア（語尾の s は読まない）。単複同形。",
+      "reverse（逆の・裏）と同語源だが、服飾の専門語。"
+    ],
+    "etym_note": "フランス語 revers（『裏・折り返し』、ラテン語 reversus「向きを変えた」、revertere「引き返す」より）に由来します。reverse（逆・裏返す）や revert（戻る）と同じ語根です。",
+    "etym_chain": [
+      { "node": "reversus", "sub": "向きを変えた", "era": "ラテン語" },
+      { "node": "revers", "sub": "裏・折り返し", "era": "フランス語" },
+      { "node": "revers", "sub": "襟の折り返し", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "wide revers", "ja": "幅広の折り返し" },
+      { "en": "satin revers", "ja": "サテンの折り返し" },
+      { "en": "the coat's revers", "ja": "コートの折り返し" },
+      { "en": "contrasting revers", "ja": "対照的な色の折り返し" },
+      { "en": "a jacket with revers", "ja": "折り返し付きのジャケット" },
+      { "en": "fold back the revers", "ja": "折り返しを返す" }
+    ],
+    "related": [
+      { "en": "lapel", "ja": "ラペル・下襟" },
+      { "en": "collar", "ja": "襟" },
+      { "en": "cuff", "ja": "袖口の折り返し" },
+      { "en": "facing", "ja": "見返し布" }
+    ],
+    "faq": [
+      { "q": "revers とはどんな意味？", "a": "コートや上着の前身頃を外側へ折り返して裏地や別布を見せた部分『折り返し・襟の返し（ラペル）』のことです。The coat had wide satin revers.（幅広のサテンの折り返しがついていた）のように使います。" },
+      { "q": "revers と lapel の違いは？", "a": "lapel（ラペル）は背広などの『下襟』を指す一般語、revers はより広く『（衣服の）折り返した返し部分』を指す服飾用語です。重なる部分も多くあります。" }
+    ],
+    "quiz": [
+      { "q": "The coat had wide satin ___.（折り返し）", "A": "revers", "B": "rivers の川", "C": "reverse の逆", "D": "drivers の運転手", "correct": "A" },
+      { "q": "revers は衣服のどの部分？", "A": "襟・前身頃の折り返し", "B": "袖の中", "C": "裾のボタン", "D": "ポケットの底", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rhebok",
+    "pron": "ˈriːbɒk",
+    "kana": "リーボック",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "アフリカーンス語 reebok（ノロジカ）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "動物・アフリカ"],
+    "meaning_main": "リーボック（南部アフリカ産の小型レイヨウ）",
+    "description": "rhebok の意味・発音・例文・語源を解説。南部アフリカの草原や山地にすむ小型のレイヨウ（カモシカの仲間）「リーボック」という、動物で使う語の使い方を紹介します。",
+    "keywords": ["rhebok 意味", "rhebok 発音", "リーボック", "レイヨウ"],
+    "meanings": [
+      { "hinshi": "【名詞】リーボック", "note": "南部アフリカの草原・山地にすむ小型のレイヨウ（カモシカの仲間）。灰色がかった毛と細い角を持つ。reebok / rhebok と綴る。" }
+    ],
+    "usages": [
+      { "title": "① 「草原のレイヨウ」として", "desc": "野生動物を表します。", "example_en": "A grey rhebok grazed on the mountain slope.", "example_ja": "灰色のリーボックが山の斜面で草を食んでいた。" },
+      { "title": "② 「保護動物」として", "desc": "希少種を表します。", "example_en": "The rhebok is protected in several reserves.", "example_ja": "リーボックはいくつかの保護区で守られている。" }
+    ],
+    "warn": [
+      "rhebok は動物『リーボック（南部アフリカ産の小型レイヨウ）』。reebok とも綴る。",
+      "スポーツ用品ブランド Reebok の名はこの動物に由来する（綴りは少し変えられている）。"
+    ],
+    "etym_note": "アフリカーンス語 reebok（『ノロジカ・レイヨウ』、ree「ノロジカ」＋ bok「雄ヤギ・レイヨウ」より）に由来します。オランダ系入植者がヨーロッパのノロジカ（roe deer）に似た動物に名づけました。",
+    "etym_chain": [
+      { "node": "ree + bok", "sub": "ノロジカ＋レイヨウ", "era": "オランダ語系" },
+      { "node": "reebok", "sub": "リーボック", "era": "アフリカーンス語" },
+      { "node": "rhebok", "sub": "リーボック", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a grey rhebok", "ja": "灰色のリーボック" },
+      { "en": "a herd of rhebok", "ja": "リーボックの群れ" },
+      { "en": "the mountain rhebok", "ja": "山のリーボック" },
+      { "en": "spot a rhebok", "ja": "リーボックを見つける" },
+      { "en": "a grazing rhebok", "ja": "草を食むリーボック" },
+      { "en": "protect the rhebok", "ja": "リーボックを保護する" }
+    ],
+    "related": [
+      { "en": "antelope", "ja": "レイヨウ・カモシカ" },
+      { "en": "gazelle", "ja": "ガゼル" },
+      { "en": "springbok", "ja": "スプリングボック" },
+      { "en": "ungulate", "ja": "有蹄類" }
+    ],
+    "faq": [
+      { "q": "rhebok とはどんな意味？", "a": "南部アフリカの草原や山地にすむ小型のレイヨウ（カモシカの仲間）『リーボック』のことです。A grey rhebok grazed on the mountain slope.（灰色のリーボックが斜面で草を食んでいた）のように使います。" },
+      { "q": "スポーツブランドの Reebok と関係ある？", "a": "はい。スポーツ用品ブランド Reebok の名は、この俊敏なアフリカのレイヨウ rhebok（reebok）にちなんで名づけられました。" }
+    ],
+    "quiz": [
+      { "q": "A grey ___ grazed on the mountain slope.（リーボック）", "A": "rhebok", "B": "reboot の再起動", "C": "rebound のはね返り", "D": "rework のやり直し", "correct": "A" },
+      { "q": "rhebok はどんな動物？", "A": "小型のレイヨウ（カモシカの仲間）", "B": "大型の猛獣", "C": "海の魚", "D": "渡り鳥", "correct": "A" }
+    ]
+  },
+  {
+    "english": "roque",
+    "pron": "rəʊk",
+    "kana": "ローク",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "croquet（クロッケー）から最初と最後の文字を除いた語",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "スポーツ・歴史"],
+    "meaning_main": "ローク（縁を硬壁で囲んだ米国式クロッケー）",
+    "description": "roque の意味・発音・例文・語源を解説。20世紀初頭のアメリカで行われた、固い縁壁のあるコートで玉を打つクロッケーの一種「ローク」という、スポーツで使う語の使い方を紹介します。",
+    "keywords": ["roque 意味", "roque 発音", "ローク", "クロッケー"],
+    "meanings": [
+      { "hinshi": "【名詞】ローク", "note": "クロッケー（croquet）から発展した、固い縁壁で囲んだ硬い地面のコートで木球を木槌で打つアメリカの球技。壁での跳ね返り（バンク）を使う。1904年五輪の正式種目だった。" }
+    ],
+    "usages": [
+      { "title": "① 「球技」として", "desc": "クロッケーの一種を表します。", "example_en": "Roque was played on a hard court with bordered walls.", "example_ja": "ロークは縁壁のある硬いコートで行われた。" },
+      { "title": "② 「歴史」として", "desc": "オリンピック種目を表します。", "example_en": "Roque appeared at the 1904 Olympic Games.", "example_ja": "ロークは1904年のオリンピックに登場した。" }
+    ],
+    "warn": [
+      "roque は『ローク（縁を硬壁で囲んだ米国式クロッケー）』。croquet の頭と末尾を取った語。",
+      "壁での跳ね返り（バンクショット）を使う点がふつうのクロッケーと異なる。"
+    ],
+    "etym_note": "croquet（『クロッケー』）の最初と最後の文字を取り除いて作られた語です。クロッケーから派生・洗練された競技であることを、語形でも示しています。",
+    "etym_chain": [
+      { "node": "croquet", "sub": "クロッケー", "era": "19世紀英語" },
+      { "node": "(c)roque(t)", "sub": "頭尾を除く", "era": "20世紀初頭" },
+      { "node": "roque", "sub": "ローク", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "play roque", "ja": "ロークをする" },
+      { "en": "a roque court", "ja": "ロークのコート" },
+      { "en": "a game of roque", "ja": "ロークの試合" },
+      { "en": "the roque mallet", "ja": "ロークの木槌" },
+      { "en": "an Olympic roque match", "ja": "オリンピックのローク試合" },
+      { "en": "bank the ball in roque", "ja": "ロークで玉を壁で跳ね返す" }
+    ],
+    "related": [
+      { "en": "croquet", "ja": "クロッケー" },
+      { "en": "mallet", "ja": "木槌・マレット" },
+      { "en": "wicket", "ja": "（クロッケーの）門" },
+      { "en": "lawn game", "ja": "芝生の球技" }
+    ],
+    "faq": [
+      { "q": "roque とはどんな意味？", "a": "クロッケーから発展した、固い縁壁のあるコートで木球を木槌で打つアメリカの球技『ローク』のことです。壁での跳ね返りを使います。Roque appeared at the 1904 Olympics.（1904年五輪に登場した）のように使います。" },
+      { "q": "roque という名前の由来は？", "a": "croquet（クロッケー）の最初と最後の文字を取り除いて作られた語です。クロッケーを改良した競技であることを名前自体が表しています。" }
+    ],
+    "quiz": [
+      { "q": "___ was played on a hard court with bordered walls.（ローク）", "A": "Roque", "B": "Rogue の悪党", "C": "Rouge の頬紅", "D": "Rope の縄", "correct": "A" },
+      { "q": "roque はどの球技から派生した？", "A": "クロッケー（croquet）", "B": "テニス", "C": "ゴルフ", "D": "ボウリング", "correct": "A" }
+    ]
+  }
+]

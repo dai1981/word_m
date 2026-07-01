@@ -1,0 +1,524 @@
+[
+  {
+    "english": "raingear",
+    "pron": "ˈreɪnɡɪə",
+    "kana": "レインギア",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rain（雨）＋ gear（用具・装備）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "衣類・アウトドア"],
+    "meaning_main": "雨具一式・レインギア",
+    "description": "raingear の意味・発音・例文・語源を解説。雨をしのぐための衣類や装備一式「雨具・レインギア」という、アウトドアや日常で使う語の使い方を紹介します。",
+    "keywords": ["raingear 意味", "raingear 発音", "雨具", "レインギア"],
+    "meanings": [
+      { "hinshi": "【名詞】雨具一式・レインギア", "note": "レインコート・ポンチョ・防水ズボン・長靴など、雨をしのぐ衣類・装備の総称。rain（雨）＋ gear（用具・装備）。集合的に使う不可算名詞。rain gear と2語でも書く。" }
+    ],
+    "usages": [
+      { "title": "① 「雨具を用意する」として", "desc": "雨用の装備を表します。", "example_en": "Bring your raingear; it might pour later.", "example_ja": "雨具を持っておいで。あとで土砂降りになるかも。" },
+      { "title": "② 「登山の装備」として", "desc": "アウトドア用品を表します。", "example_en": "Good raingear is essential for mountain hiking.", "example_ja": "良い雨具は山歩きに欠かせない。" }
+    ],
+    "warn": [
+      "raingear は『雨具一式・レインギア』。rain（雨）＋ gear（用具・装備）。rain gear とも書く。",
+      "rainwear（雨用の衣類）とほぼ同義だが、gear は長靴やカバーなど装備全般も含むニュアンス。不可算名詞。"
+    ],
+    "etym_note": "rain（『雨』、古英語 regn より）＋ gear（『用具・装備・道具一式』、古ノルド語 gervi「支度・装い」より）から成り、「雨のための装備一式」を意味します。",
+    "etym_chain": [
+      { "node": "rain + gear", "sub": "雨＋装備", "era": "英語" },
+      { "node": "rain gear", "sub": "雨具", "era": "近代英語" },
+      { "node": "raingear", "sub": "雨具一式・レインギア", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "bring your raingear", "ja": "雨具を持ってくる" },
+      { "en": "pack raingear", "ja": "雨具を詰める" },
+      { "en": "good raingear", "ja": "良い雨具" },
+      { "en": "put on raingear", "ja": "雨具を身につける" },
+      { "en": "waterproof raingear", "ja": "防水の雨具" },
+      { "en": "hiking raingear", "ja": "ハイキング用の雨具" }
+    ],
+    "related": [
+      { "en": "rainwear", "ja": "雨具・雨用の衣類" },
+      { "en": "gear", "ja": "用具・装備" },
+      { "en": "raincoat", "ja": "レインコート" },
+      { "en": "poncho", "ja": "ポンチョ" }
+    ],
+    "faq": [
+      { "q": "raingear とはどんな意味？", "a": "レインコートや長靴など、雨をしのぐ衣類・装備の総称『雨具一式・レインギア』のことです。Bring your raingear.（雨具を持っておいで）のように使います。集合的に使う不可算名詞です。" },
+      { "q": "raingear と rainwear の違いは？", "a": "ほぼ同義ですが、rainwear は『雨用の衣類』、raingear は衣類に加えて長靴やカバーなど『装備全般』を含むニュアンスがあります。どちらも不可算名詞です。" }
+    ],
+    "quiz": [
+      { "q": "Bring your ___; it might pour later.（雨具）", "A": "raingear", "B": "headgear の頭の装具", "C": "footgear の履物", "D": "rainbow の虹", "correct": "A" },
+      { "q": "raingear の gear はどんな意味？", "A": "用具・装備", "B": "歯車だけ", "C": "雨つぶ", "D": "雲", "correct": "A" }
+    ]
+  },
+  {
+    "english": "razzmatazz",
+    "pron": "ˌræzməˈtæz",
+    "kana": "ラズマタズ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "由来不確か（razzle-dazzle の変形か）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "口語・娯楽"],
+    "meaning_main": "派手な演出・けばけばしい騒ぎ立て",
+    "description": "razzmatazz の意味・発音・例文・語源を解説。人目を引く「派手な演出・けばけばしい騒ぎ立て・大げさな宣伝」という、くだけた口語の使い方を紹介します。",
+    "keywords": ["razzmatazz 意味", "razzmatazz 発音", "派手な演出", "けばけばしさ"],
+    "meanings": [
+      { "hinshi": "【名詞】派手な演出・けばけばしい騒ぎ立て", "note": "人目を引くための華やかで大げさな見せ方・宣伝・興奮。しばしば『中身より見せ方が派手』というやや皮肉な含みがある。razzle-dazzle に近い口語。" }
+    ],
+    "usages": [
+      { "title": "① 「派手な演出」として", "desc": "華やかな見せ方を表します。", "example_en": "The show had plenty of razzmatazz but little substance.", "example_ja": "そのショーは派手な演出ばかりで中身は乏しかった。" },
+      { "title": "② 「大げさな宣伝」として", "desc": "けばけばしい騒ぎを表します。", "example_en": "The product launch was full of marketing razzmatazz.", "example_ja": "その製品発表は大げさな宣伝に満ちていた。" }
+    ],
+    "warn": [
+      "razzmatazz は『派手な演出・けばけばしい騒ぎ立て』。razzle-dazzle に近いくだけた口語。",
+      "『中身より見せ方が派手』というやや皮肉な含みを持つことが多い。"
+    ],
+    "etym_note": "語源ははっきりせず、razzle-dazzle（けばけばしい・幻惑するような）の変形や、リズミカルな造語と考えられています。20世紀初頭のアメリカ英語で生まれた口語です。",
+    "etym_chain": [
+      { "node": "razzle-dazzle", "sub": "けばけばしさ・幻惑", "era": "19世紀米英語" },
+      { "node": "razzmatazz", "sub": "派手な演出", "era": "20世紀米英語" },
+      { "node": "razzmatazz", "sub": "けばけばしい騒ぎ立て", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "full of razzmatazz", "ja": "派手な演出に満ちた" },
+      { "en": "marketing razzmatazz", "ja": "大げさな宣伝" },
+      { "en": "all razzmatazz", "ja": "見せ方だけ派手で" },
+      { "en": "showbiz razzmatazz", "ja": "芸能界の華やかさ" },
+      { "en": "without the razzmatazz", "ja": "派手な演出抜きで" },
+      { "en": "a lot of razzmatazz", "ja": "たくさんのけばけばしさ" }
+    ],
+    "related": [
+      { "en": "razzle-dazzle", "ja": "けばけばしさ・幻惑" },
+      { "en": "glitz", "ja": "けばけばしい華やかさ" },
+      { "en": "hype", "ja": "大げさな宣伝・誇大広告" },
+      { "en": "spectacle", "ja": "壮観・見せ物" }
+    ],
+    "faq": [
+      { "q": "razzmatazz とはどんな意味？", "a": "人目を引くための『派手な演出・けばけばしい騒ぎ立て・大げさな宣伝』という意味のくだけた口語です。The show had plenty of razzmatazz but little substance.（派手な演出ばかりで中身は乏しかった）のように使います。" },
+      { "q": "razzmatazz には皮肉が含まれる？", "a": "しばしば『中身より見せ方ばかり派手』というやや批判的・皮肉な含みを持ちます。華やかさを楽しむ肯定的な意味でも使えますが、文脈に注意が必要です。" }
+    ],
+    "quiz": [
+      { "q": "The show had plenty of ___ but little substance.（派手な演出）", "A": "razzmatazz", "B": "jazz のジャズ", "C": "buzz のざわめき", "D": "fizz の泡立ち", "correct": "A" },
+      { "q": "razzmatazz と意味が近いのはどれ？", "A": "razzle-dazzle（けばけばしさ）", "B": "silence（静けさ）", "C": "honesty（正直さ）", "D": "simplicity（簡素さ）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "readymade",
+    "pron": "ˌrɛdiˈmeɪd",
+    "kana": "レディメイド",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ready（用意のできた）＋ made（作られた）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "一般・美術"],
+    "meaning_main": "既製の・出来合いの／レディメイド（既製品を用いた美術）",
+    "description": "readymade の意味・発音・例文・語源を解説。注文せず「既製の・出来合いの」という意味と、デュシャンに始まる現代美術の「レディメイド」という語の使い方を紹介します。",
+    "keywords": ["readymade 意味", "readymade 発音", "既製の", "レディメイド 美術"],
+    "meanings": [
+      { "hinshi": "【形容詞】既製の・出来合いの・ありきたりの", "note": "特注ではなく、あらかじめ作られた。readymade clothes（既製服）。比喩で『（自分で考えない）ありきたりの・借り物の』。" },
+      { "hinshi": "【名詞】（美術）レディメイド", "note": "デュシャンが始めた、既製の日用品をそのまま（または少し手を加えて）芸術作品として提示する手法・作品。" }
+    ],
+    "usages": [
+      { "title": "① 「既製の」として", "desc": "出来合いを表します。", "example_en": "She bought a readymade suit instead of a tailored one.", "example_ja": "彼女は仕立てではなく既製のスーツを買った。" },
+      { "title": "② 美術「レディメイド」として", "desc": "既製品を用いた作品を表します。", "example_en": "Duchamp's urinal is a famous readymade.", "example_ja": "デュシャンの便器は有名なレディメイドだ。" }
+    ],
+    "warn": [
+      "readymade は『既製の・出来合いの』、美術『レディメイド』。ready（用意のできた）＋ made（作られた）。ready-made と綴ることも多い。",
+      "比喩で『（借り物の）ありきたりの考え』にも使う（a readymade excuse＝ありきたりの言い訳）。"
+    ],
+    "etym_note": "ready（『用意のできた』、古英語 rǣde「準備した」より）＋ made（『作られた』、make「作る」の過去分詞）から成り、「すでに作られて用意された」を意味します。",
+    "etym_chain": [
+      { "node": "ready + made", "sub": "用意のできた＋作られた", "era": "英語" },
+      { "node": "ready-made", "sub": "既製の", "era": "近代英語" },
+      { "node": "readymade", "sub": "既製の・レディメイド", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "readymade clothes", "ja": "既製服" },
+      { "en": "a readymade meal", "ja": "出来合いの食事" },
+      { "en": "a readymade excuse", "ja": "ありきたりの言い訳" },
+      { "en": "a readymade solution", "ja": "出来合いの解決策" },
+      { "en": "Duchamp's readymades", "ja": "デュシャンのレディメイド作品" },
+      { "en": "a readymade audience", "ja": "もとから用意された観客" }
+    ],
+    "related": [
+      { "en": "off-the-shelf", "ja": "既製の・在庫品の" },
+      { "en": "prefabricated", "ja": "プレハブの・組み立て式の" },
+      { "en": "custom-made", "ja": "あつらえの・特注の" },
+      { "en": "found object", "ja": "オブジェ・拾得物（美術）" }
+    ],
+    "faq": [
+      { "q": "readymade とはどんな意味？", "a": "注文せずあらかじめ作られた『既製の・出来合いの』という意味です。She bought a readymade suit.（既製のスーツを買った）のように使います。美術では既製品を作品にする『レディメイド』を指します。" },
+      { "q": "美術の readymade とは？", "a": "マルセル・デュシャンが始めた、便器や瓶乾燥器などの既製の日用品をそのまま（または少し手を加えて）芸術作品として提示する手法です。『何が芸術か』を問い直しました。" }
+    ],
+    "quiz": [
+      { "q": "She bought a ___ suit instead of a tailored one.（既製の）", "A": "readymade", "B": "handmade の手作りの", "C": "homemade の自家製の", "D": "remade の作り直した", "correct": "A" },
+      { "q": "美術の readymade を始めたのは誰？", "A": "デュシャン", "B": "ピカソ", "C": "モネ", "D": "ダ・ヴィンチ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reapportion",
+    "pron": "ˌriːəˈpɔːʃən",
+    "kana": "リアポーション",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ apportion（割り当てる・配分する）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "政治・行政"],
+    "meaning_main": "再配分する・（議席を）配分し直す",
+    "description": "reapportion の意味・発音・例文・語源を解説。資源や議席などを「再配分する・割り当て直す」という、政治や行政で使う語の使い方と、議席配分との関係を紹介します。",
+    "keywords": ["reapportion 意味", "reapportion 発音", "再配分する", "議席配分"],
+    "meanings": [
+      { "hinshi": "【動詞】再配分する・割り当て直す", "note": "資源・費用・議席などを改めて配分する。特に（米）人口に応じて議会の議席を各州・地域に配分し直すこと。名詞は reapportionment。" }
+    ],
+    "usages": [
+      { "title": "① 「議席を配分し直す」として", "desc": "議席の再配分を表します。", "example_en": "Seats in Congress are reapportioned after each census.", "example_ja": "連邦議会の議席は国勢調査ごとに配分し直される。" },
+      { "title": "② 「費用を再配分する」として", "desc": "資源の割り当て直しを表します。", "example_en": "The budget was reapportioned among the departments.", "example_ja": "予算は各部門に再配分された。" }
+    ],
+    "warn": [
+      "reapportion は『再配分する・割り当て直す』。re-（再び）＋ apportion。名詞は reapportionment。",
+      "特に米国で、人口変動に応じて議会の議席を配分し直すことを指す。redistrict（区割りの引き直し）とは段階が異なる。"
+    ],
+    "etym_note": "re-（再び）＋ apportion（『割り当てる・配分する』、ap-（〜へ）＋ portion「分け前」、ラテン語 portio より）から成り、「再び分け前を割り当てる」を意味します。portion（部分）や proportion（割合）と同じ portio の系統です。",
+    "etym_chain": [
+      { "node": "portio", "sub": "分け前・部分", "era": "ラテン語" },
+      { "node": "apportion", "sub": "割り当てる・配分する", "era": "近代英語" },
+      { "node": "reapportion", "sub": "再配分する", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "reapportion the seats", "ja": "議席を配分し直す" },
+      { "en": "reapportion the budget", "ja": "予算を再配分する" },
+      { "en": "reapportion after the census", "ja": "国勢調査後に配分し直す" },
+      { "en": "reapportion resources", "ja": "資源を再配分する" },
+      { "en": "reapportionment of representatives", "ja": "議員定数の再配分" },
+      { "en": "reapportion the costs", "ja": "費用を割り当て直す" }
+    ],
+    "related": [
+      { "en": "apportion", "ja": "割り当てる・配分する" },
+      { "en": "reapportionment", "ja": "再配分・議席再配分" },
+      { "en": "redistrict", "ja": "選挙区を引き直す" },
+      { "en": "allocate", "ja": "配分する・割り当てる" }
+    ],
+    "faq": [
+      { "q": "reapportion とはどんな意味？", "a": "資源や費用、議席などを『再配分する・割り当て直す』という意味です。Seats in Congress are reapportioned after each census.（議席は国勢調査ごとに配分し直される）のように使います。名詞は reapportionment です。" },
+      { "q": "reapportion と redistrict の違いは？", "a": "reapportion は『（各州・地域に）議席の数を配分し直す』こと、redistrict は『（その後）選挙区の境界を引き直す』ことです。配分（数）→ 区割り（線）という段階の違いがあります。" }
+    ],
+    "quiz": [
+      { "q": "Seats in Congress are ___ed after each census.（配分し直す）", "A": "reapportion", "B": "report の報告する", "C": "reappoint の再任する", "D": "reappear の再び現れる", "correct": "A" },
+      { "q": "reapportion のもとになった apportion の意味はどれ？", "A": "割り当てる・配分する", "B": "謝罪する", "C": "出版する", "D": "競争する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rawboned",
+    "pron": "ˌrɔːˈbəʊnd",
+    "kana": "ローボーンド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "raw（むき出しの）＋ boned（骨のある）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "文学・描写"],
+    "meaning_main": "骨ばった・やせて骨格のごつい",
+    "description": "rawboned の意味・発音・例文・語源を解説。やせていて「骨ばった・骨格のごつい」という、人や動物の体つきを描写する語の使い方を紹介します。",
+    "keywords": ["rawboned 意味", "rawboned 発音", "骨ばった", "やせてごつい"],
+    "meanings": [
+      { "hinshi": "【形容詞】骨ばった・やせて骨格のごつい", "note": "肉付きが薄く、骨格が目立つ体つきの。背が高くごつごつした印象。a rawboned farmer（骨ばった農夫）。文学的・描写的な語。" }
+    ],
+    "usages": [
+      { "title": "① 「骨ばった人」として", "desc": "やせた体つきを表します。", "example_en": "He was a tall, rawboned man with big hands.", "example_ja": "彼は大きな手をした、背の高い骨ばった男だった。" },
+      { "title": "② 「やせた動物」として", "desc": "骨格の目立つ様子を表します。", "example_en": "A rawboned old horse pulled the cart.", "example_ja": "やせて骨ばった老馬が荷車を引いていた。" }
+    ],
+    "warn": [
+      "rawboned は『骨ばった・やせて骨格のごつい』。raw（むき出しの）＋ boned（骨のある）。文学的・描写的。",
+      "ただ細いだけでなく『骨格ががっしり目立つ』ニュアンス。"
+    ],
+    "etym_note": "raw（『生の・むき出しの』、古英語 hrēaw より）＋ boned（『骨のある』、bone「骨」より）から成り、「骨がむき出しに目立つ」を意味します。",
+    "etym_chain": [
+      { "node": "raw + boned", "sub": "むき出しの＋骨のある", "era": "英語" },
+      { "node": "rawboned", "sub": "骨ばった", "era": "近代英語" },
+      { "node": "rawboned", "sub": "骨ばった・やせてごつい", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a tall, rawboned man", "ja": "背の高い骨ばった男" },
+      { "en": "a rawboned face", "ja": "骨ばった顔" },
+      { "en": "a rawboned horse", "ja": "やせて骨ばった馬" },
+      { "en": "rawboned and gaunt", "ja": "骨ばってやつれた" },
+      { "en": "a rawboned frame", "ja": "ごつごつした体格" },
+      { "en": "lean and rawboned", "ja": "やせて骨ばった" }
+    ],
+    "related": [
+      { "en": "gaunt", "ja": "やせこけた・げっそりした" },
+      { "en": "lanky", "ja": "ひょろ長い" },
+      { "en": "bony", "ja": "骨ばった" },
+      { "en": "angular", "ja": "骨ばった・角ばった" }
+    ],
+    "faq": [
+      { "q": "rawboned とはどんな意味？", "a": "肉付きが薄く『骨ばった・やせて骨格のごつい』体つきを表す描写的な形容詞です。He was a tall, rawboned man.（背の高い骨ばった男だった）のように使います。" },
+      { "q": "rawboned と gaunt の違いは？", "a": "gaunt は『（病気や苦労で）やつれてげっそりした』、rawboned は『骨格ががっしり目立つ、ごつごつした』に重点があります。rawboned は必ずしも不健康そうとは限りません。" }
+    ],
+    "quiz": [
+      { "q": "He was a tall, ___ man with big hands.（骨ばった）", "A": "rawboned", "B": "rainbow の虹", "C": "warmhearted の心の温かい", "D": "lighthearted の気楽な", "correct": "A" },
+      { "q": "rawboned は何と何を合わせた語？", "A": "raw（むき出しの）と boned（骨のある）", "B": "raw と bond", "C": "row と boned", "D": "raw と burned", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retell",
+    "pron": "ˌriːˈtɛl",
+    "kana": "リテル",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ tell（語る・話す）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "一般・文学"],
+    "meaning_main": "語り直す・再話する",
+    "description": "retell の意味・発音・例文・語源を解説。物語や出来事を「語り直す・再話する（別の形で語り直す）」という、日常や文学で使う語の使い方を紹介します。retelling も解説。",
+    "keywords": ["retell 意味", "retell 発音", "語り直す", "tell 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】語り直す・再話する", "note": "物語や出来事を改めて、しばしば自分の言葉や新しい形で語る。retell the story（その物語を語り直す）。過去形は retold。名詞は retelling（再話）。" }
+    ],
+    "usages": [
+      { "title": "① 「物語を語り直す」として", "desc": "再話を表します。", "example_en": "The film retells the old legend in a modern setting.", "example_ja": "その映画は古い伝説を現代の舞台で語り直している。" },
+      { "title": "② 「出来事を話して聞かせる」として", "desc": "再び話すことを表します。", "example_en": "She retold the funny story to her friends.", "example_ja": "彼女はその面白い話を友人たちに語り直した。" }
+    ],
+    "warn": [
+      "retell は『語り直す・再話する』。re-（再び）＋ tell。過去形・過去分詞は retold。名詞は retelling。",
+      "単に繰り返すだけでなく、新しい形・視点で語り直すニュアンスがある。"
+    ],
+    "etym_note": "re-（再び）＋ tell（『語る・話す・数える』、古英語 tellan「述べる・数える」より）から成り、「再び語ること」を意味します。tale（物語）や tally（数える）と同じ語根です。",
+    "etym_chain": [
+      { "node": "tellan", "sub": "述べる・数える", "era": "古英語" },
+      { "node": "tell", "sub": "語る・話す", "era": "中英語" },
+      { "node": "retell", "sub": "語り直す・再話する", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "retell the story", "ja": "その物語を語り直す" },
+      { "en": "retell a legend", "ja": "伝説を再話する" },
+      { "en": "retell it in your own words", "ja": "自分の言葉で語り直す" },
+      { "en": "a modern retelling", "ja": "現代風の再話" },
+      { "en": "retell the events", "ja": "出来事を話し直す" },
+      { "en": "retell from a new angle", "ja": "新しい視点で語り直す" }
+    ],
+    "related": [
+      { "en": "tell", "ja": "語る・話す" },
+      { "en": "retelling", "ja": "再話・語り直し" },
+      { "en": "narrate", "ja": "物語る・ナレーションする" },
+      { "en": "recount", "ja": "詳しく話す・述べる" }
+    ],
+    "faq": [
+      { "q": "retell とはどんな意味？", "a": "物語や出来事を『語り直す・再話する（しばしば自分の言葉や新しい形で）』という意味です。The film retells the old legend.（その映画は古い伝説を語り直している）のように使います。過去形は retold、名詞は retelling です。" },
+      { "q": "retell は単なる繰り返し？", "a": "単に同じ言葉を繰り返すだけでなく、自分の言葉や新しい視点・舞台で『語り直す』ニュアンスがあります。古典の現代版（a modern retelling）などがその例です。" }
+    ],
+    "quiz": [
+      { "q": "The film ___s the old legend in a modern setting.（語り直す）", "A": "retell", "B": "tell の最初に語るだけ", "C": "retail の小売り", "D": "rebel の反逆する", "correct": "A" },
+      { "q": "retell の過去形はどれ？", "A": "retold", "B": "retelled", "C": "retalt", "D": "retolled", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rampancy",
+    "pron": "ˈræmpənsi",
+    "kana": "ランパンシー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rampant（はびこる・横行する）＋ -cy（性質）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "文章・社会"],
+    "meaning_main": "横行・まん延・はびこっていること",
+    "description": "rampancy の意味・発音・例文・語源を解説。悪いものが「横行・まん延していること・はびこり」という、社会問題などを語る文章で使う語の使い方を紹介します。",
+    "keywords": ["rampancy 意味", "rampancy 発音", "横行", "rampant 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】横行・まん延・はびこっていること", "note": "（特に悪いものが）抑えられずに広がっている状態。the rampancy of corruption（汚職の横行）。形容詞 rampant（はびこる・横行する）の名詞形。" }
+    ],
+    "usages": [
+      { "title": "① 「汚職の横行」として", "desc": "悪事のまん延を表します。", "example_en": "People protested against the rampancy of corruption.", "example_ja": "人々は汚職の横行に抗議した。" },
+      { "title": "② 「病気のまん延」として", "desc": "広がりを表します。", "example_en": "The rampancy of the disease alarmed officials.", "example_ja": "その病気のまん延は当局を警戒させた。" }
+    ],
+    "warn": [
+      "rampancy は『横行・まん延・はびこっていること』。rampant（はびこる）＋ -cy。",
+      "多くは犯罪・汚職・病気など『悪いものが抑えられず広がっている』否定的な文脈で使う。"
+    ],
+    "etym_note": "rampant（『はびこる・横行する・（紋章で）後脚で立った』、古フランス語 ramper「はい登る・跳ね上がる」より）＋ -cy（『性質・状態』）から成り、「抑えなく広がっている状態」を意味します。ramp（傾斜路）と語源的につながります。",
+    "etym_chain": [
+      { "node": "ramper", "sub": "はい登る・跳ね上がる", "era": "古フランス語" },
+      { "node": "rampant", "sub": "はびこる・横行する", "era": "中英語" },
+      { "node": "rampancy", "sub": "横行・まん延", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the rampancy of corruption", "ja": "汚職の横行" },
+      { "en": "the rampancy of crime", "ja": "犯罪の横行" },
+      { "en": "check the rampancy of ...", "ja": "〜のまん延を抑える" },
+      { "en": "the rampancy of disease", "ja": "病気のまん延" },
+      { "en": "widespread rampancy", "ja": "広範な横行" },
+      { "en": "the rampancy of misinformation", "ja": "誤情報の横行" }
+    ],
+    "related": [
+      { "en": "rampant", "ja": "はびこる・横行する" },
+      { "en": "prevalence", "ja": "まん延・普及" },
+      { "en": "proliferation", "ja": "急増・拡散" },
+      { "en": "spread", "ja": "広がり・拡大" }
+    ],
+    "faq": [
+      { "q": "rampancy とはどんな意味？", "a": "（特に悪いものが）抑えられずに広がっている状態『横行・まん延・はびこり』のことです。the rampancy of corruption（汚職の横行）のように、否定的な文脈で使います。形容詞は rampant です。" },
+      { "q": "rampancy と prevalence の違いは？", "a": "prevalence は中立的に『普及・まん延（の度合い）』、rampancy は『（悪いものが）抑えられず横行している』という否定的なニュアンスが強い語です。" }
+    ],
+    "quiz": [
+      { "q": "People protested against the ___ of corruption.（横行）", "A": "rampancy", "B": "vacancy の空き", "C": "tendency の傾向", "D": "frequency の頻度", "correct": "A" },
+      { "q": "rampancy のもとになった形容詞はどれ？", "A": "rampant（はびこる・横行する）", "B": "reluctant（気の進まない）", "C": "redundant（余分な）", "D": "resistant（抵抗力のある）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "railcard",
+    "pron": "ˈreɪlkɑːd",
+    "kana": "レイルカード",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rail（鉄道）＋ card（カード）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "交通・英国"],
+    "meaning_main": "（英）鉄道割引カード",
+    "description": "railcard の意味・発音・例文・語源を解説。イギリスで鉄道運賃が割引になるカード「鉄道割引カード（レイルカード）」という、交通で使う語の使い方を紹介します。",
+    "keywords": ["railcard 意味", "railcard 発音", "鉄道割引カード", "rail 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】（英）鉄道割引カード", "note": "イギリスで、一定の料金を払って買うと鉄道運賃が割引になるカード。年齢や属性別（若者・シニア・家族など）に種類がある。rail（鉄道）＋ card（カード）。" }
+    ],
+    "usages": [
+      { "title": "① 「割引カードを使う」として", "desc": "運賃割引を表します。", "example_en": "With a railcard, you get a third off most fares.", "example_ja": "レイルカードがあれば、たいていの運賃が3分の1引きになる。" },
+      { "title": "② 「カードを買う」として", "desc": "割引の取得を表します。", "example_en": "She bought a young person's railcard for the year.", "example_ja": "彼女は1年用の若者向け鉄道割引カードを買った。" }
+    ],
+    "warn": [
+      "railcard は『（英）鉄道割引カード』。rail（鉄道）＋ card。主にイギリスの制度。",
+      "若者用・シニア用・家族用など種類があり、年会費を払うと運賃が割引になる。"
+    ],
+    "etym_note": "rail（『鉄道・レール』、ラテン語 regula「まっすぐな棒」より）＋ card（『カード』、ギリシャ語 chartes「紙」より）から成り、「鉄道のカード」を意味します。",
+    "etym_chain": [
+      { "node": "rail + card", "sub": "鉄道＋カード", "era": "英語" },
+      { "node": "railcard", "sub": "鉄道カード", "era": "20世紀英語" },
+      { "node": "railcard", "sub": "鉄道割引カード", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a young person's railcard", "ja": "若者向け鉄道割引カード" },
+      { "en": "a senior railcard", "ja": "シニア向け割引カード" },
+      { "en": "with a railcard", "ja": "割引カードを使えば" },
+      { "en": "buy a railcard", "ja": "鉄道割引カードを買う" },
+      { "en": "a family railcard", "ja": "家族向け割引カード" },
+      { "en": "renew the railcard", "ja": "割引カードを更新する" }
+    ],
+    "related": [
+      { "en": "fare", "ja": "運賃" },
+      { "en": "discount", "ja": "割引" },
+      { "en": "season ticket", "ja": "定期券" },
+      { "en": "commute", "ja": "通勤する" }
+    ],
+    "faq": [
+      { "q": "railcard とはどんな意味？", "a": "イギリスで、一定の料金を払って買うと鉄道運賃が割引になるカード『鉄道割引カード（レイルカード）』のことです。With a railcard, you get a third off most fares.（割引カードがあれば運賃が3分の1引きになる）のように使います。" },
+      { "q": "railcard にはどんな種類がある？", "a": "若者用（16-25 Railcard）、シニア用、家族用、二人用など、年齢や属性別にさまざまな種類があります。年会費を払うと、その後の運賃が割引になります。" }
+    ],
+    "quiz": [
+      { "q": "With a ___, you get a third off most fares.（鉄道割引カード）", "A": "railcard", "B": "postcard の絵はがき", "C": "scorecard のスコアカード", "D": "wildcard のワイルドカード", "correct": "A" },
+      { "q": "railcard は主にどの国の制度？", "A": "イギリス", "B": "日本", "C": "ブラジル", "D": "エジプト", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ranchman",
+    "pron": "ˈræntʃmən",
+    "kana": "ランチマン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ranch（牧場）＋ man（人）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "牧畜・西部"],
+    "meaning_main": "牧場主・牧場で働く人",
+    "description": "ranchman の意味・発音・例文・語源を解説。牧場を経営する、または牧場で働く人「牧場主・牧場の男」という、牧畜やアメリカ西部で使う語の使い方を紹介します。",
+    "keywords": ["ranchman 意味", "ranchman 発音", "牧場主", "ranch 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】牧場主・牧場で働く人", "note": "牧場（ranch）を経営する、または牧場で働く人。rancher（牧場主）とほぼ同義のやや古風な語。複数形は ranchmen。" }
+    ],
+    "usages": [
+      { "title": "① 「牧場主」として", "desc": "牧場の経営者を表します。", "example_en": "The old ranchman had raised cattle for forty years.", "example_ja": "その老牧場主は40年間牛を育ててきた。" },
+      { "title": "② 「牧場の働き手」として", "desc": "牧場の労働者を表します。", "example_en": "Ranchmen rode out at dawn to check the herd.", "example_ja": "牧場の男たちは夜明けに群れを確認しに馬で出ていった。" }
+    ],
+    "warn": [
+      "ranchman は『牧場主・牧場で働く人』。ranch（牧場）＋ man。複数形は ranchmen。",
+      "rancher（牧場主）とほぼ同義だが、ranchman はやや古風。アメリカ西部の語。"
+    ],
+    "etym_note": "ranch（『牧場』、スペイン語 rancho「（兵士などの）食事をとる集まり・小屋」より）＋ man（『人・男』）から成り、「牧場の人」を意味します。rancho は『隊列を組む』という語に由来します。",
+    "etym_chain": [
+      { "node": "rancho", "sub": "（人の）集まり・小屋", "era": "スペイン語" },
+      { "node": "ranch", "sub": "牧場", "era": "近代英語" },
+      { "node": "ranchman", "sub": "牧場主・牧場の男", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "an old ranchman", "ja": "老牧場主" },
+      { "en": "a cattle ranchman", "ja": "牛の牧場主" },
+      { "en": "the ranchman's herd", "ja": "牧場主の群れ" },
+      { "en": "ranchmen on horseback", "ja": "馬に乗った牧場の男たち" },
+      { "en": "a wealthy ranchman", "ja": "裕福な牧場主" },
+      { "en": "a hardworking ranchman", "ja": "勤勉な牧場主" }
+    ],
+    "related": [
+      { "en": "rancher", "ja": "牧場主" },
+      { "en": "ranch", "ja": "牧場" },
+      { "en": "cowboy", "ja": "カウボーイ・牧童" },
+      { "en": "cattle", "ja": "牛・畜牛" }
+    ],
+    "faq": [
+      { "q": "ranchman とはどんな意味？", "a": "牧場を経営する、または牧場で働く人『牧場主・牧場の男』のことです。The old ranchman had raised cattle for forty years.（その老牧場主は40年間牛を育ててきた）のように使います。複数形は ranchmen です。" },
+      { "q": "ranchman と rancher の違いは？", "a": "意味はほぼ同じ『牧場主・牧場で働く人』ですが、ranchman はやや古風な響きがあります。現代では rancher の方が一般的に使われます。" }
+    ],
+    "quiz": [
+      { "q": "The old ___ had raised cattle for forty years.（牧場主）", "A": "ranchman", "B": "chairman の議長", "C": "salesman の販売員", "D": "fireman の消防士", "correct": "A" },
+      { "q": "ranchman は何と何を合わせた語？", "A": "ranch（牧場）と man（人）", "B": "range と man", "C": "rancid と man", "D": "ranch と main", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rackety",
+    "pron": "ˈrækɪti",
+    "kana": "ラケティ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "racket（騒音・大騒ぎ）＋ -y",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "口語・描写"],
+    "meaning_main": "騒々しい・がたがたうるさい・放埒な",
+    "description": "rackety の意味・発音・例文・語源を解説。「騒々しい・がたがたうるさい」、また生活が「放埒で乱れた」という、くだけた描写的な語の使い方を紹介します。",
+    "keywords": ["rackety 意味", "rackety 発音", "騒々しい", "racket 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】騒々しい・がたがたうるさい", "note": "やかましい音を立てる、騒がしい。a rackety old car（がたがた音を立てる古い車）。" },
+      { "hinshi": "【形容詞】放埒な・乱れた", "note": "（生活などが）落ち着かず羽目を外した。a rackety lifestyle（放埒な暮らし）。" }
+    ],
+    "usages": [
+      { "title": "① 「がたがたうるさい」として", "desc": "騒音を表します。", "example_en": "They drove off in a rackety old van.", "example_ja": "彼らはがたがた音を立てる古いバンで走り去った。" },
+      { "title": "② 「放埒な暮らし」として", "desc": "羽目を外した生活を表します。", "example_en": "He led a rackety life in his twenties.", "example_ja": "彼は20代の頃、放埒な暮らしをしていた。" }
+    ],
+    "warn": [
+      "rackety は『騒々しい・がたがたうるさい／放埒な』。racket（騒音・大騒ぎ）＋ -y。くだけた語。",
+      "テニスの racket（ラケット）とは別語源（こちらは騒音の racket）。"
+    ],
+    "etym_note": "racket（『騒音・大騒ぎ』、擬音的な語）＋ -y（形容詞語尾）から成り、「やかましい・騒がしい」を意味します。テニスのラケット（racket）とは別語源です。",
+    "etym_chain": [
+      { "node": "racket", "sub": "騒音・大騒ぎ", "era": "近代英語（擬音）" },
+      { "node": "rackety", "sub": "騒々しい", "era": "近代英語" },
+      { "node": "rackety", "sub": "騒々しい・放埒な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rackety old car", "ja": "がたがた音を立てる古い車" },
+      { "en": "a rackety engine", "ja": "うるさいエンジン" },
+      { "en": "a rackety life", "ja": "放埒な暮らし" },
+      { "en": "a rackety crowd", "ja": "騒がしい群衆" },
+      { "en": "rackety and worn", "ja": "がたがたで使い古された" },
+      { "en": "a rackety party", "ja": "騒々しいパーティー" }
+    ],
+    "related": [
+      { "en": "racket", "ja": "騒音・大騒ぎ" },
+      { "en": "noisy", "ja": "騒々しい" },
+      { "en": "ramshackle", "ja": "がたがたの・崩れかけた" },
+      { "en": "raffish", "ja": "放埒だが粋な" }
+    ],
+    "faq": [
+      { "q": "rackety とはどんな意味？", "a": "『騒々しい・がたがたうるさい』、また生活などが『放埒で乱れた』という意味のくだけた形容詞です。a rackety old car（がたがた音を立てる古い車）/ a rackety life（放埒な暮らし）のように使います。" },
+      { "q": "rackety はテニスのラケットと関係ある？", "a": "いいえ、別語源です。rackety は racket（騒音・大騒ぎ）に由来します。テニスのラケットは別の語（アラビア語由来）です。同じ綴りでも意味の系統が異なります。" }
+    ],
+    "quiz": [
+      { "q": "They drove off in a ___ old van.（がたがたうるさい）", "A": "rackety", "B": "rocky の岩だらけの", "C": "racy の活気のある", "D": "ripe の熟した", "correct": "A" },
+      { "q": "rackety のもとになった racket の意味はどれ？", "A": "騒音・大騒ぎ", "B": "テニスのラケットだけ", "C": "ロケット", "D": "切符", "correct": "A" }
+    ]
+  }
+]

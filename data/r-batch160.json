@@ -1,0 +1,523 @@
+[
+  {
+    "english": "redistrict",
+    "pron": "ˌriːˈdɪstrɪkt",
+    "kana": "リディストリクト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ district（区・選挙区）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "政治・アメリカ"],
+    "meaning_main": "選挙区を引き直す・区割りを変更する",
+    "description": "redistrict の意味・発音・例文・語源を解説。選挙区などの「区割りを引き直す・変更する」という、政治（特にアメリカ）で使う語の使い方と、ゲリマンダーとの関係を紹介します。",
+    "keywords": ["redistrict 意味", "redistrict 発音", "選挙区を引き直す", "区割り変更"],
+    "meanings": [
+      { "hinshi": "【動詞】選挙区を引き直す・区割りを変更する", "note": "（主に米）人口変動などに応じて選挙区・学区などの境界を引き直す。名詞は redistricting。意図的に有利に引くと gerrymandering（ゲリマンダー）と批判される。" }
+    ],
+    "usages": [
+      { "title": "① 「選挙区の引き直し」として", "desc": "境界変更を表します。", "example_en": "States redistrict every ten years after the census.", "example_ja": "各州は国勢調査のあと10年ごとに選挙区を引き直す。" },
+      { "title": "② 「学区の変更」として", "desc": "区割りの変更を表します。", "example_en": "The board voted to redistrict the schools.", "example_ja": "教育委員会は学区を引き直すことを可決した。" }
+    ],
+    "warn": [
+      "redistrict は『選挙区を引き直す・区割りを変更する』。re-（再び）＋ district。名詞は redistricting。",
+      "意図的に特定の党に有利な形に引き直すことは gerrymandering（ゲリマンダー）と呼ばれ批判される。"
+    ],
+    "etym_note": "re-（再び）＋ district（『地区・選挙区』、中世ラテン語 districtus「（領主の）管轄区」、distringere「締めつける・拘束する」より）から成り、「区域を引き直す」を意味します。strict（厳しい）や restrict（制限する）と同じ stringere の系統です。",
+    "etym_chain": [
+      { "node": "districtus", "sub": "管轄区", "era": "中世ラテン語" },
+      { "node": "district", "sub": "地区・選挙区", "era": "近代英語" },
+      { "node": "redistrict", "sub": "区割りを引き直す", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "redistrict the state", "ja": "州の選挙区を引き直す" },
+      { "en": "redistrict after the census", "ja": "国勢調査後に区割りを変える" },
+      { "en": "redistrict the schools", "ja": "学区を引き直す" },
+      { "en": "vote to redistrict", "ja": "区割り変更を可決する" },
+      { "en": "redistricting plan", "ja": "区割り変更案" },
+      { "en": "redistrict the boundaries", "ja": "境界を引き直す" }
+    ],
+    "related": [
+      { "en": "district", "ja": "地区・選挙区" },
+      { "en": "gerrymander", "ja": "（自党に有利に）選挙区を引く" },
+      { "en": "constituency", "ja": "選挙区" },
+      { "en": "census", "ja": "国勢調査" }
+    ],
+    "faq": [
+      { "q": "redistrict とはどんな意味？", "a": "人口変動などに応じて選挙区や学区などの境界を『引き直す・変更する』という意味です（主に米）。States redistrict every ten years.（各州は10年ごとに選挙区を引き直す）のように使います。名詞は redistricting です。" },
+      { "q": "redistrict と gerrymander の違いは？", "a": "redistrict は中立的に『区割りを引き直す』こと、gerrymander は『特定の党に有利になるよう不公正に引く』ことです。後者は批判的な意味を持ちます。" }
+    ],
+    "quiz": [
+      { "q": "States ___ every ten years after the census.（選挙区を引き直す）", "A": "redistrict", "B": "restrict の制限する", "C": "district の地区", "D": "distract の気を散らす", "correct": "A" },
+      { "q": "意図的に有利な選挙区を引くことを何という？", "A": "gerrymander（ゲリマンダー）", "B": "filibuster（議事妨害）", "C": "lobby（陳情）", "D": "caucus（党員集会）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reusability",
+    "pron": "ˌriːjuːzəˈbɪləti",
+    "kana": "リユーザビリティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "reusable（再利用できる）＋ -ity（性質）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "環境・IT"],
+    "meaning_main": "再利用性・再使用できること",
+    "description": "reusability の意味・発音・例文・語源を解説。物やコードなどを「繰り返し使える度合い・再利用性」という、環境やITで使う語の使い方を紹介します。",
+    "keywords": ["reusability 意味", "reusability 発音", "再利用性", "reusable 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再利用性・再使用できること", "note": "繰り返し使える性質・度合い。環境（容器・資源の再利用）やIT（コード・部品の再利用）で重要視される。形容詞は reusable。" }
+    ],
+    "usages": [
+      { "title": "① 環境「資源の再利用性」として", "desc": "繰り返し使える度合いを表します。", "example_en": "The packaging was designed for maximum reusability.", "example_ja": "その包装は最大限の再利用性を目指して設計された。" },
+      { "title": "② IT「コードの再利用性」として", "desc": "部品の再使用を表します。", "example_en": "Good software design improves code reusability.", "example_ja": "良いソフト設計はコードの再利用性を高める。" }
+    ],
+    "warn": [
+      "reusability は『再利用性・再使用できること』。reusable（再利用できる）＋ -ity。",
+      "環境（容器・ロケット）やIT（コード・モジュール）の両方で重要な概念。"
+    ],
+    "etym_note": "reusable（re-「再び」＋ use「使う」＋ -able「〜できる」）＋ -ity（『性質』）から成り、「繰り返し使える性質」を意味します。use（使う）と同じ語根です。",
+    "etym_chain": [
+      { "node": "use", "sub": "使う", "era": "中英語" },
+      { "node": "reusable", "sub": "再利用できる", "era": "近代英語" },
+      { "node": "reusability", "sub": "再利用性", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "code reusability", "ja": "コードの再利用性" },
+      { "en": "improve reusability", "ja": "再利用性を高める" },
+      { "en": "designed for reusability", "ja": "再利用性を考えて設計された" },
+      { "en": "maximize reusability", "ja": "再利用性を最大化する" },
+      { "en": "the reusability of materials", "ja": "材料の再利用性" },
+      { "en": "rocket reusability", "ja": "ロケットの再利用性" }
+    ],
+    "related": [
+      { "en": "reusable", "ja": "再利用できる" },
+      { "en": "reuse", "ja": "再利用する" },
+      { "en": "recyclability", "ja": "リサイクル性" },
+      { "en": "sustainability", "ja": "持続可能性" }
+    ],
+    "faq": [
+      { "q": "reusability とはどんな意味？", "a": "物やコードなどを『繰り返し使える度合い・再利用性』という意味です。Good software design improves code reusability.（良い設計はコードの再利用性を高める）のように使います。形容詞は reusable です。" },
+      { "q": "reusability はどんな分野で重要？", "a": "環境（容器・資源・ロケットなどの再利用）と、IT（コードや部品を使い回すこと）の両方で重視されます。コストやごみを減らし、効率を高める鍵になります。" }
+    ],
+    "quiz": [
+      { "q": "Good software design improves code ___.（再利用性）", "A": "reusability", "B": "reliability の信頼性", "C": "readability の読みやすさ", "D": "availability の利用可能性", "correct": "A" },
+      { "q": "reusability のもとになった形容詞はどれ？", "A": "reusable（再利用できる）", "B": "reliable（信頼できる）", "C": "readable（読みやすい）", "D": "reasonable（妥当な）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "renewability",
+    "pron": "rɪˌnjuːəˈbɪləti",
+    "kana": "リニューアビリティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "renewable（更新できる・再生可能な）＋ -ity（性質）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "環境・エネルギー"],
+    "meaning_main": "再生可能性・更新できること",
+    "description": "renewability の意味・発音・例文・語源を解説。資源やエネルギーが「自然に補充され再生できる性質・再生可能性」という、環境やエネルギーで使う語の使い方を紹介します。",
+    "keywords": ["renewability 意味", "renewability 発音", "再生可能性", "renewable 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再生可能性・更新できること", "note": "資源やエネルギーが、自然の働きで補充され繰り返し利用できる性質。契約・免許などが『更新できる』性質も指す。形容詞は renewable。" }
+    ],
+    "usages": [
+      { "title": "① エネルギー「再生可能性」として", "desc": "補充される性質を表します。", "example_en": "Solar power is valued for its renewability.", "example_ja": "太陽光発電は再生可能性のゆえに評価される。" },
+      { "title": "② 「更新できること」として", "desc": "契約の更新可能性を表します。", "example_en": "The license's renewability depends on yearly review.", "example_ja": "その免許の更新可能性は毎年の審査による。" }
+    ],
+    "warn": [
+      "renewability は『再生可能性・更新できること』。renewable（再生可能な・更新できる）＋ -ity。",
+      "エネルギー（太陽・風など）の再生可能性のほか、契約・資格の更新可能性も指す。"
+    ],
+    "etym_note": "renewable（renew「新しくする・更新する」、re-＋ new「新しい」＋ -able）＋ -ity（『性質』）から成り、「再び新しくできる性質」を意味します。new（新しい）と同じ語根です。",
+    "etym_chain": [
+      { "node": "new", "sub": "新しい", "era": "古英語" },
+      { "node": "renewable", "sub": "再生可能な・更新できる", "era": "近代英語" },
+      { "node": "renewability", "sub": "再生可能性", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the renewability of energy", "ja": "エネルギーの再生可能性" },
+      { "en": "valued for its renewability", "ja": "再生可能性ゆえに評価される" },
+      { "en": "ensure renewability", "ja": "再生可能性を確保する" },
+      { "en": "the renewability of resources", "ja": "資源の再生可能性" },
+      { "en": "license renewability", "ja": "免許の更新可能性" },
+      { "en": "long-term renewability", "ja": "長期的な再生可能性" }
+    ],
+    "related": [
+      { "en": "renewable", "ja": "再生可能な・更新できる" },
+      { "en": "renew", "ja": "更新する・新しくする" },
+      { "en": "sustainability", "ja": "持続可能性" },
+      { "en": "renewable energy", "ja": "再生可能エネルギー" }
+    ],
+    "faq": [
+      { "q": "renewability とはどんな意味？", "a": "資源やエネルギーが自然に補充され繰り返し利用できる『再生可能性』、また契約などが『更新できること』を指します。Solar power is valued for its renewability.（太陽光は再生可能性ゆえに評価される）のように使います。形容詞は renewable です。" },
+      { "q": "renewability と sustainability の違いは？", "a": "renewability は『（資源が）自然に再生・補充される性質』、sustainability は『（社会・環境が）長く維持できる持続可能性』です。再生可能性は持続可能性を支える要素の一つです。" }
+    ],
+    "quiz": [
+      { "q": "Solar power is valued for its ___.（再生可能性）", "A": "renewability", "B": "reliability の信頼性", "C": "readability の読みやすさ", "D": "visibility の視認性", "correct": "A" },
+      { "q": "renewability のもとになった形容詞はどれ？", "A": "renewable（再生可能な）", "B": "reasonable（妥当な）", "C": "remarkable（注目すべき）", "D": "removable（取り外せる）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rulemaking",
+    "pron": "ˈruːlmeɪkɪŋ",
+    "kana": "ルールメイキング",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rule（規則）＋ making（作ること）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "行政・法務"],
+    "meaning_main": "規則制定・ルール作り",
+    "description": "rulemaking の意味・発音・例文・語源を解説。行政機関などが規則を定める「規則制定・ルール作り」という、行政や法務で使う語の使い方を紹介します。",
+    "keywords": ["rulemaking 意味", "rulemaking 発音", "規則制定", "ルール作り"],
+    "meanings": [
+      { "hinshi": "【名詞】規則制定・ルール作り", "note": "特に行政機関が法律に基づいて具体的な規則（規制）を定める手続き・過程。rule（規則）＋ making。rule-making とも綴る。" }
+    ],
+    "usages": [
+      { "title": "① 行政「規則制定」として", "desc": "規制を作る過程を表します。", "example_en": "The agency began rulemaking on air quality standards.", "example_ja": "その機関は大気環境基準の規則制定に着手した。" },
+      { "title": "② 「ルール作り」として", "desc": "決まりごとの策定を表します。", "example_en": "Public input is part of the rulemaking process.", "example_ja": "市民の意見はルール作りの過程の一部だ。" }
+    ],
+    "warn": [
+      "rulemaking は『規則制定・ルール作り』。rule（規則）＋ making。rule-making とも綴る。",
+      "特に行政機関が法律を具体化する規制を作る手続きを指す法務・行政の語。"
+    ],
+    "etym_note": "rule（『規則』、ラテン語 regula「基準・まっすぐな棒」より）＋ making（『作ること』、make「作る」より）から成り、「規則を作ること」を意味します。regular（規則的な）と同じ regula の系統です。",
+    "etym_chain": [
+      { "node": "regula + making", "sub": "規則＋作ること", "era": "英語" },
+      { "node": "rulemaking", "sub": "規則制定", "era": "近代英語" },
+      { "node": "rulemaking", "sub": "規則制定・ルール作り", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the rulemaking process", "ja": "規則制定の過程" },
+      { "en": "begin rulemaking", "ja": "規則制定に着手する" },
+      { "en": "federal rulemaking", "ja": "連邦の規則制定" },
+      { "en": "a rulemaking authority", "ja": "規則制定の権限" },
+      { "en": "notice of rulemaking", "ja": "規則制定の告示" },
+      { "en": "participate in rulemaking", "ja": "ルール作りに参加する" }
+    ],
+    "related": [
+      { "en": "rule", "ja": "規則・ルール" },
+      { "en": "regulation", "ja": "規制・規則" },
+      { "en": "legislation", "ja": "立法・法律" },
+      { "en": "policy", "ja": "政策・方針" }
+    ],
+    "faq": [
+      { "q": "rulemaking とはどんな意味？", "a": "特に行政機関が法律に基づいて具体的な規則（規制）を定める手続き『規則制定・ルール作り』のことです。The agency began rulemaking on air quality.（大気環境の規則制定に着手した）のように使います。" },
+      { "q": "rulemaking と legislation の違いは？", "a": "legislation は『議会による立法（法律を作ること）』、rulemaking は『（その法律に基づき）行政機関が具体的な規則を作ること』です。法律を実際に運用する細則を定める段階です。" }
+    ],
+    "quiz": [
+      { "q": "The agency began ___ on air quality standards.（規則制定）", "A": "rulemaking", "B": "lawmaking の立法ではなく lawbreaking（法を破ること）", "C": "matchmaking の縁結び", "D": "moneymaking の金もうけ", "correct": "A" },
+      { "q": "rulemaking はおもに誰が行う？", "A": "行政機関（規制を作る）", "B": "観客", "C": "選手", "D": "観光客", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rainwear",
+    "pron": "ˈreɪnwɛə",
+    "kana": "レインウェア",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rain（雨）＋ wear（衣類）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "衣類・日常"],
+    "meaning_main": "雨具・レインウェア（雨用の衣類）",
+    "description": "rainwear の意味・発音・例文・語源を解説。雨の日に着る防水の衣類「雨具・レインウェア」という、衣類や日常で使う語の使い方を紹介します。",
+    "keywords": ["rainwear 意味", "rainwear 発音", "雨具", "レインウェア"],
+    "meanings": [
+      { "hinshi": "【名詞】雨具・レインウェア", "note": "雨をしのぐための衣類の総称。レインコート・ポンチョ・防水ジャケットなど。rain（雨）＋ wear（衣類）。集合的に使う不可算名詞。" }
+    ],
+    "usages": [
+      { "title": "① 「雨用の衣類」として", "desc": "防水の服を表します。", "example_en": "Pack some rainwear for the hiking trip.", "example_ja": "ハイキング旅行には雨具を詰めておこう。" },
+      { "title": "② 「店の売り場」として", "desc": "雨具の商品を表します。", "example_en": "The store sells rainwear and umbrellas.", "example_ja": "その店はレインウェアと傘を売っている。" }
+    ],
+    "warn": [
+      "rainwear は『雨具・レインウェア（雨用の衣類の総称）』。rain（雨）＋ wear（衣類）。",
+      "集合的に使う不可算名詞で、複数形にしない（some rainwear）。"
+    ],
+    "etym_note": "rain（『雨』、古英語 regn より）＋ wear（『衣類・身につけるもの』、古英語 werian「身につける」より）から成り、「雨のときに着るもの」を意味します。footwear（履物）や swimwear（水着）と同じ wear の使い方です。",
+    "etym_chain": [
+      { "node": "rain + wear", "sub": "雨＋衣類", "era": "英語" },
+      { "node": "rainwear", "sub": "雨具", "era": "近代英語" },
+      { "node": "rainwear", "sub": "雨具・レインウェア", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "pack some rainwear", "ja": "雨具を詰める" },
+      { "en": "waterproof rainwear", "ja": "防水のレインウェア" },
+      { "en": "wear rainwear", "ja": "雨具を着る" },
+      { "en": "rainwear and boots", "ja": "雨具と長靴" },
+      { "en": "lightweight rainwear", "ja": "軽量のレインウェア" },
+      { "en": "a rainwear section", "ja": "雨具売り場" }
+    ],
+    "related": [
+      { "en": "raincoat", "ja": "レインコート" },
+      { "en": "poncho", "ja": "ポンチョ" },
+      { "en": "waterproof", "ja": "防水の" },
+      { "en": "umbrella", "ja": "傘" }
+    ],
+    "faq": [
+      { "q": "rainwear とはどんな意味？", "a": "雨の日に着る防水の衣類の総称『雨具・レインウェア』のことです。Pack some rainwear for the trip.（旅行には雨具を詰めておこう）のように使います。集合的に使う不可算名詞です。" },
+      { "q": "rainwear は数えられる？", "a": "いいえ、不可算名詞です。複数形にせず、some rainwear（雨具）/ a piece of rainwear（雨具一点）のように使います。footwear（履物）などと同じ扱いです。" }
+    ],
+    "quiz": [
+      { "q": "Pack some ___ for the hiking trip.（雨具）", "A": "rainwear", "B": "footwear の履物", "C": "software のソフトウェア", "D": "hardware の金物", "correct": "A" },
+      { "q": "rainwear は何と何を合わせた語？", "A": "rain（雨）と wear（衣類）", "B": "rain と where", "C": "rain と war", "D": "reign と wear", "correct": "A" }
+    ]
+  },
+  {
+    "english": "raincloud",
+    "pron": "ˈreɪnklaʊd",
+    "kana": "レインクラウド",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rain（雨）＋ cloud（雲）",
+    "ld_level": "準1級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "気象・日常"],
+    "meaning_main": "雨雲",
+    "description": "raincloud の意味・発音・例文・語源を解説。雨を降らせる暗い雲「雨雲」という語の使い方と、比喩的な使い方も紹介します。",
+    "keywords": ["raincloud 意味", "raincloud 発音", "雨雲", "cloud 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】雨雲", "note": "雨を降らせる（降らせそうな）暗い雲。rain（雨）＋ cloud（雲）。rain cloud と2語でも綴る。比喩で『暗い影・憂い』を表すことも。" }
+    ],
+    "usages": [
+      { "title": "① 「雨雲」として", "desc": "雨を降らす雲を表します。", "example_en": "Dark rainclouds gathered over the hills.", "example_ja": "暗い雨雲が丘の上に集まってきた。" },
+      { "title": "② 比喩「暗い影」として", "desc": "憂いの象徴を表します。", "example_en": "A raincloud of worry hung over the meeting.", "example_ja": "心配という暗い影が会議に垂れこめていた。" }
+    ],
+    "warn": [
+      "raincloud は『雨雲』。rain（雨）＋ cloud（雲）。rain cloud と2語でも書く。",
+      "比喩で『暗い気分・憂い』の象徴としても使う。"
+    ],
+    "etym_note": "rain（『雨』、古英語 regn より）＋ cloud（『雲』、古英語 clūd「岩・かたまり」より。雲のかたまりを岩に見立てた）から成り、「雨を含む雲」を意味します。",
+    "etym_chain": [
+      { "node": "rain + cloud", "sub": "雨＋雲", "era": "英語" },
+      { "node": "raincloud", "sub": "雨雲", "era": "近代英語" },
+      { "node": "raincloud", "sub": "雨雲", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "dark rainclouds", "ja": "暗い雨雲" },
+      { "en": "rainclouds gather", "ja": "雨雲が集まる" },
+      { "en": "a heavy raincloud", "ja": "重く垂れこめた雨雲" },
+      { "en": "under a raincloud", "ja": "雨雲の下で" },
+      { "en": "rainclouds on the horizon", "ja": "地平線の雨雲" },
+      { "en": "a raincloud of gloom", "ja": "陰うつな暗い影" }
+    ],
+    "related": [
+      { "en": "cloud", "ja": "雲" },
+      { "en": "storm cloud", "ja": "嵐雲" },
+      { "en": "overcast", "ja": "曇った・どんよりした" },
+      { "en": "drizzle", "ja": "霧雨" }
+    ],
+    "faq": [
+      { "q": "raincloud とはどんな意味？", "a": "雨を降らせる（降らせそうな）暗い雲『雨雲』のことです。Dark rainclouds gathered over the hills.（暗い雨雲が丘の上に集まった）のように使います。比喩で『暗い気分・憂い』も表します。" },
+      { "q": "raincloud は1語？2語？", "a": "raincloud（1語）でも rain cloud（2語）でも書かれます。どちらも『雨雲』を意味します。" }
+    ],
+    "quiz": [
+      { "q": "Dark ___s gathered over the hills.（雨雲）", "A": "raincloud", "B": "rainbow の虹", "C": "raindrop の雨つぶ", "D": "raincoat のレインコート", "correct": "A" },
+      { "q": "raincloud は何と何を合わせた語？", "A": "rain（雨）と cloud（雲）", "B": "rain と loud", "C": "reign と cloud", "D": "rain と crowd", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rumormonger",
+    "pron": "ˈruːməmʌŋɡə",
+    "kana": "ルーマーモンガー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rumor（うわさ）＋ monger（売る人・広める人）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "社会・口語"],
+    "meaning_main": "うわさを広める人・デマを流す人",
+    "description": "rumormonger の意味・発音・例文・語源を解説。根拠のないうわさを「広める人・流す人」という、社会や対人で使う語の使い方と、-monger という語尾を紹介します。",
+    "keywords": ["rumormonger 意味", "rumormonger 発音", "うわさを広める人", "monger 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】うわさを広める人・デマを流す人", "note": "根拠のないうわさやゴシップを言いふらす人。rumor（うわさ）＋ -monger（〜を商う・広める人）。否定的な語。英国綴りは rumourmonger。" }
+    ],
+    "usages": [
+      { "title": "① 「デマを流す人」として", "desc": "うわさを広める人を表します。", "example_en": "Don't listen to rumormongers spreading lies.", "example_ja": "うそを広めるうわさ屋の言うことを聞いてはいけない。" },
+      { "title": "② 「ゴシップ好き」として", "desc": "噂好きの人を表します。", "example_en": "The office rumormonger knew everyone's business.", "example_ja": "職場のうわさ好きは皆の事情に通じていた。" }
+    ],
+    "warn": [
+      "rumormonger は『うわさを広める人・デマを流す人』。rumor（うわさ）＋ -monger。否定的な語。",
+      "-monger は『〜を商う・広める人』を表す語尾。warmonger（戦争屋）、fearmonger（不安をあおる人）などと同系。"
+    ],
+    "etym_note": "rumor（『うわさ』、ラテン語 rumor「ざわめき・評判」より）＋ monger（『商人・広める人』、古英語 mangere「商人」、ラテン語 mango より）から成り、「うわさを商う・広める人」を意味します。fishmonger（魚屋）と同じ monger です。",
+    "etym_chain": [
+      { "node": "rumor + monger", "sub": "うわさ＋広める人", "era": "英語・ラテン語" },
+      { "node": "rumormonger", "sub": "うわさを広める人", "era": "近代英語" },
+      { "node": "rumormonger", "sub": "デマを流す人", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a notorious rumormonger", "ja": "悪名高いうわさ屋" },
+      { "en": "ignore the rumormongers", "ja": "うわさ屋を無視する" },
+      { "en": "the office rumormonger", "ja": "職場のうわさ好き" },
+      { "en": "rumormongers spread lies", "ja": "うわさ屋がうそを広める" },
+      { "en": "a malicious rumormonger", "ja": "悪意あるデマ屋" },
+      { "en": "warn against rumormongers", "ja": "うわさ屋に注意する" }
+    ],
+    "related": [
+      { "en": "rumor", "ja": "うわさ" },
+      { "en": "gossip", "ja": "ゴシップ・うわさ話" },
+      { "en": "warmonger", "ja": "戦争をあおる人" },
+      { "en": "fearmonger", "ja": "不安をあおる人" }
+    ],
+    "faq": [
+      { "q": "rumormonger とはどんな意味？", "a": "根拠のないうわさやゴシップを言いふらす『うわさを広める人・デマを流す人』のことです。Don't listen to rumormongers.（うわさ屋の言うことを聞くな）のように使う否定的な語です。" },
+      { "q": "-monger という語尾の意味は？", "a": "『〜を商う・広める人』を表す語尾です。もとは fishmonger（魚屋）のように商人を指しましたが、warmonger（戦争屋）、fearmonger（不安をあおる人）のように『（好ましくないものを）あおり広める人』にも使われます。" }
+    ],
+    "quiz": [
+      { "q": "Don't listen to ___s spreading lies.（うわさを広める人）", "A": "rumormonger", "B": "passenger の乗客", "C": "messenger の使者", "D": "stranger の見知らぬ人", "correct": "A" },
+      { "q": "-monger と同じ語尾を持つのはどれ？", "A": "fishmonger（魚屋）", "B": "manager（管理者）", "C": "teenager（10代）", "D": "hunger（飢え）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reuptake",
+    "pron": "riːˈʌpteɪk",
+    "kana": "リアップテイク",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ uptake（取り込み）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "医学・脳科学"],
+    "meaning_main": "再取り込み（神経伝達物質の回収）",
+    "description": "reuptake の意味・発音・例文・語源を解説。神経終末が放出した神経伝達物質を「再び取り込むこと（再取り込み）」という、医学・脳科学で使う語の使い方と、抗うつ薬との関係を紹介します。",
+    "keywords": ["reuptake 意味", "reuptake 発音", "再取り込み", "神経伝達物質"],
+    "meanings": [
+      { "hinshi": "【名詞】再取り込み", "note": "神経終末が、シナプスへ放出した神経伝達物質（セロトニンなど）を再び細胞内に回収すること。抗うつ薬の多くはこの reuptake を阻害して伝達物質の働きを高める（SSRI＝選択的セロトニン再取り込み阻害薬）。" }
+    ],
+    "usages": [
+      { "title": "① 「再取り込みの阻害」として", "desc": "薬の作用を表します。", "example_en": "SSRIs block the reuptake of serotonin.", "example_ja": "SSRIはセロトニンの再取り込みを阻害する。" },
+      { "title": "② 「伝達物質の回収」として", "desc": "神経の仕組みを表します。", "example_en": "Reuptake clears the neurotransmitter from the synapse.", "example_ja": "再取り込みはシナプスから神経伝達物質を除去する。" }
+    ],
+    "warn": [
+      "reuptake は『再取り込み（神経伝達物質の回収）』。re-（再び）＋ uptake（取り込み）。医学・脳科学の語。",
+      "抗うつ薬 SSRI（選択的セロトニン再取り込み阻害薬）の名に含まれる重要な概念。"
+    ],
+    "etym_note": "re-（再び）＋ uptake（『取り込み・摂取』、up「上へ」＋ take「取る」）から成り、「再び（細胞内に）取り込むこと」を意味します。take（取る）と同じ語根です。",
+    "etym_chain": [
+      { "node": "re + uptake", "sub": "再び＋取り込み", "era": "英語" },
+      { "node": "reuptake", "sub": "再取り込み", "era": "20世紀英語" },
+      { "node": "reuptake", "sub": "再取り込み（神経科学）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "serotonin reuptake", "ja": "セロトニンの再取り込み" },
+      { "en": "block the reuptake", "ja": "再取り込みを阻害する" },
+      { "en": "a reuptake inhibitor", "ja": "再取り込み阻害薬" },
+      { "en": "dopamine reuptake", "ja": "ドーパミンの再取り込み" },
+      { "en": "inhibit reuptake", "ja": "再取り込みを抑える" },
+      { "en": "selective serotonin reuptake inhibitor", "ja": "選択的セロトニン再取り込み阻害薬（SSRI）" }
+    ],
+    "related": [
+      { "en": "uptake", "ja": "取り込み・摂取" },
+      { "en": "neurotransmitter", "ja": "神経伝達物質" },
+      { "en": "synapse", "ja": "シナプス" },
+      { "en": "inhibitor", "ja": "阻害薬・阻害物質" }
+    ],
+    "faq": [
+      { "q": "reuptake とはどんな意味？", "a": "神経終末が、放出した神経伝達物質（セロトニンなど）を再び細胞内に回収すること『再取り込み』のことです。SSRIs block the reuptake of serotonin.（SSRIはセロトニンの再取り込みを阻害する）のように使います。" },
+      { "q": "reuptake と抗うつ薬の関係は？", "a": "多くの抗うつ薬（SSRIなど）は、この reuptake（再取り込み）を阻害することで、神経伝達物質がシナプスにとどまる量を増やし、その働きを高めます。" }
+    ],
+    "quiz": [
+      { "q": "SSRIs block the ___ of serotonin.（再取り込み）", "A": "reuptake", "B": "remake のリメイク", "C": "mistake の誤り", "D": "pancake のパンケーキ", "correct": "A" },
+      { "q": "reuptake はおもにどの分野の用語？", "A": "神経科学・医学", "B": "経済学", "C": "建築", "D": "天文学", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reshoot",
+    "pron": "ˌriːˈʃuːt",
+    "kana": "リシュート",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ shoot（撮影する）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "映画・写真"],
+    "meaning_main": "撮り直す・再撮影（する）",
+    "description": "reshoot の意味・発音・例文・語源を解説。映画や写真などを「撮り直す・再撮影する」、また「撮り直し（の場面）」という、映画や写真で使う語の使い方を紹介します。",
+    "keywords": ["reshoot 意味", "reshoot 発音", "撮り直す", "shoot 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】撮り直す・再撮影する", "note": "一度撮った映像・写真を改めて撮る。reshoot the scene（その場面を撮り直す）。過去形は reshot。" },
+      { "hinshi": "【名詞】撮り直し・再撮影", "note": "do reshoots（撮り直しを行う）。" }
+    ],
+    "usages": [
+      { "title": "① 「場面を撮り直す」として", "desc": "再撮影を表します。", "example_en": "The director decided to reshoot the ending.", "example_ja": "監督は結末を撮り直すことに決めた。" },
+      { "title": "② 名詞「撮り直し」として", "desc": "再撮影の作業を表します。", "example_en": "The film needed expensive reshoots.", "example_ja": "その映画は費用のかかる撮り直しを要した。" }
+    ],
+    "warn": [
+      "reshoot は『撮り直す・再撮影（する）』。re-（再び）＋ shoot（撮影する）。過去形・過去分詞は reshot。",
+      "映画・テレビ・写真で使う。名詞では reshoots と複数でよく使う。"
+    ],
+    "etym_note": "re-（再び）＋ shoot（『撮影する・撃つ』、古英語 scēotan「射る」より。カメラで『撮る』はこの比喩）から成り、「再び撮影する」を意味します。",
+    "etym_chain": [
+      { "node": "scēotan", "sub": "射る", "era": "古英語" },
+      { "node": "shoot", "sub": "撃つ・撮影する", "era": "中英語" },
+      { "node": "reshoot", "sub": "撮り直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reshoot the scene", "ja": "その場面を撮り直す" },
+      { "en": "reshoot the ending", "ja": "結末を撮り直す" },
+      { "en": "do reshoots", "ja": "撮り直しを行う" },
+      { "en": "need a reshoot", "ja": "撮り直しが必要だ" },
+      { "en": "reshoot the photo", "ja": "写真を撮り直す" },
+      { "en": "expensive reshoots", "ja": "費用のかかる撮り直し" }
+    ],
+    "related": [
+      { "en": "shoot", "ja": "撮影する・撃つ" },
+      { "en": "retake", "ja": "撮り直し・取り直す" },
+      { "en": "footage", "ja": "（撮影された）映像" },
+      { "en": "edit", "ja": "編集する" }
+    ],
+    "faq": [
+      { "q": "reshoot とはどんな意味？", "a": "映画や写真などを『撮り直す・再撮影する』という意味です。The director decided to reshoot the ending.（監督は結末を撮り直すことにした）のように使います。名詞で『撮り直し』も表し、過去形は reshot です。" },
+      { "q": "reshoot と retake の違いは？", "a": "retake は『（同じ場面の）テイクを取り直す』こと、reshoot は『（場面やシーン全体を）改めて撮影し直す』ことに重点があります。映画では reshoots は後日まとめて行う追加撮影も指します。" }
+    ],
+    "quiz": [
+      { "q": "The director decided to ___ the ending.（撮り直す）", "A": "reshoot", "B": "shoot の最初に撮るだけ", "C": "reboot の再起動する", "D": "salute の敬礼する", "correct": "A" },
+      { "q": "reshoot の過去形はどれ？", "A": "reshot", "B": "reshooted", "C": "reshat", "D": "reshoten", "correct": "A" }
+    ]
+  },
+  {
+    "english": "roadtrip",
+    "pron": "ˈrəʊdtrɪp",
+    "kana": "ロードトリップ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "road（道路）＋ trip（旅行）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "旅行・日常"],
+    "meaning_main": "車での長距離旅行（ロードトリップ）",
+    "description": "roadtrip の意味・発音・例文・語源を解説。車で各地を巡る「長距離のドライブ旅行（ロードトリップ）」という、旅行や日常で使う語の使い方を紹介します。road trip と2語でも書きます。",
+    "keywords": ["roadtrip 意味", "roadtrip 発音", "車の旅", "road trip"],
+    "meanings": [
+      { "hinshi": "【名詞】車での長距離旅行", "note": "車で長い距離を走り、各地を巡る旅行。road trip と2語で書くことが多い。気ままで冒険的な旅の象徴。動詞的に『ロードトリップに行く』とも使う。" }
+    ],
+    "usages": [
+      { "title": "① 「車の旅」として", "desc": "ドライブ旅行を表します。", "example_en": "We went on a road trip across the country.", "example_ja": "私たちは国を横断する車の旅に出た。" },
+      { "title": "② 「計画」として", "desc": "旅の計画を表します。", "example_en": "They planned a summer road trip along the coast.", "example_ja": "彼らは海岸沿いを行く夏のロードトリップを計画した。" }
+    ],
+    "warn": [
+      "roadtrip は『車での長距離旅行』。road（道路）＋ trip（旅行）。road trip と2語で書くのが一般的。",
+      "気ままで冒険的な車の旅を指す。アメリカ文化と特に結びつく。"
+    ],
+    "etym_note": "road（『道路』、古英語 rād「乗ること・道」より）＋ trip（『旅行・短い旅』、中英語 trippen「軽快に歩く」より）から成り、「道を行く旅」を意味します。",
+    "etym_chain": [
+      { "node": "road + trip", "sub": "道路＋旅行", "era": "英語" },
+      { "node": "road trip", "sub": "車の旅", "era": "20世紀英語" },
+      { "node": "roadtrip", "sub": "ロードトリップ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "go on a road trip", "ja": "車の旅に出る" },
+      { "en": "a cross-country road trip", "ja": "大陸横断のロードトリップ" },
+      { "en": "plan a road trip", "ja": "車の旅を計画する" },
+      { "en": "a summer road trip", "ja": "夏のロードトリップ" },
+      { "en": "a road-trip playlist", "ja": "ドライブ旅行のプレイリスト" },
+      { "en": "take a road trip", "ja": "車で旅に出る" }
+    ],
+    "related": [
+      { "en": "trip", "ja": "旅行・短い旅" },
+      { "en": "journey", "ja": "旅・道のり" },
+      { "en": "drive", "ja": "ドライブ・運転する" },
+      { "en": "itinerary", "ja": "旅程" }
+    ],
+    "faq": [
+      { "q": "roadtrip とはどんな意味？", "a": "車で長い距離を走り各地を巡る『車での長距離旅行（ロードトリップ）』のことです。We went on a road trip across the country.（国を横断する車の旅に出た）のように使います。road trip と2語で書くことが多いです。" },
+      { "q": "road trip と journey の違いは？", "a": "journey は『（手段を問わない）旅・道のり』全般、road trip は特に『車で行く気ままな長距離旅行』を指します。寄り道や自由さがロードトリップの魅力です。" }
+    ],
+    "quiz": [
+      { "q": "We went on a ___ across the country.（車の旅）", "A": "road trip", "B": "round trip の往復だけを強調", "C": "field trip の遠足", "D": "ego trip の自己満足", "correct": "A" },
+      { "q": "roadtrip は何と何を合わせた語？", "A": "road（道路）と trip（旅行）", "B": "road と tip", "C": "rod と trip", "D": "road と drip", "correct": "A" }
+    ]
+  }
+]

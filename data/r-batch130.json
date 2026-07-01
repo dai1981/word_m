@@ -1,0 +1,522 @@
+[
+  {
+    "english": "rehouse",
+    "pron": "ˌriːˈhaʊz",
+    "kana": "リハウズ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ house（住まわせる）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "社会・行政"],
+    "meaning_main": "（人を）新しい住まいに移す・別の住居を提供する",
+    "description": "rehouse の意味・発音・例文・語源を解説。立ち退きや災害で住む場所を失った人を「新しい住まいに移す・別の住居を提供する」という、行政・福祉で使う語を紹介します。",
+    "keywords": ["rehouse 意味", "rehouse 発音", "住まいを移す", "house 動詞"],
+    "meanings": [
+      { "hinshi": "【動詞】（人を）新しい住まいに移す・別の住居を提供する", "note": "住む場所を失った人に新たな住居を用意する。rehouse the residents（住民を別の住居に移す）。動詞 house は『住まわせる』。発音は『リハウズ』（z の音）。" }
+    ],
+    "usages": [
+      { "title": "① 「住民を移す」として", "desc": "新しい住居を提供することを表します。", "example_en": "The council rehoused the flood victims.", "example_ja": "自治体は洪水の被災者を別の住居に移した。" },
+      { "title": "② 立ち退きの文脈で", "desc": "代わりの住まいを表します。", "example_en": "Tenants will be rehoused before demolition.", "example_ja": "解体前に入居者は別の住居に移される。" }
+    ],
+    "warn": [
+      "rehouse は『（人を）新しい住まいに移す・別の住居を提供する』。re-（再び）＋ house（住まわせる）。",
+      "動詞の house は名詞（ハウス）と発音が違い『ハウズ』（z）。rehouse も『リハウズ』。名詞は rehousing。"
+    ],
+    "etym_note": "re-（再び）＋ house（『住まわせる・収容する』、古英語 hūs「家」より、動詞では語末が濁る）から成り、「再び住まわせること」を意味します。",
+    "etym_chain": [
+      { "node": "hūs", "sub": "家", "era": "古英語" },
+      { "node": "house", "sub": "住まわせる", "era": "中英語" },
+      { "node": "rehouse", "sub": "新しい住まいに移す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rehouse the residents", "ja": "住民を別の住居に移す" },
+      { "en": "rehouse flood victims", "ja": "洪水の被災者を移す" },
+      { "en": "be rehoused", "ja": "別の住居に移される" },
+      { "en": "rehouse the homeless", "ja": "ホームレスに住居を提供する" },
+      { "en": "rehouse tenants", "ja": "入居者を別の住居に移す" },
+      { "en": "an emergency rehousing", "ja": "緊急の住居提供" }
+    ],
+    "related": [
+      { "en": "house", "ja": "住まわせる・家" },
+      { "en": "rehousing", "ja": "住居の再提供" },
+      { "en": "relocate", "ja": "移転させる" },
+      { "en": "evict", "ja": "立ち退かせる" }
+    ],
+    "faq": [
+      { "q": "rehouse とはどんな意味？", "a": "立ち退きや災害で住む場所を失った人を『新しい住まいに移す・別の住居を提供する』という意味です。The council rehoused the flood victims.（自治体が被災者を別の住居に移した）のように使います。" },
+      { "q": "rehouse と relocate の違いは？", "a": "rehouse は『（住む場所を失った人に）住居を提供して移す』という福祉・行政的なニュアンス、relocate は『（職場・施設・人を）別の場所に移す』を広く表します。" }
+    ],
+    "quiz": [
+      { "q": "The council ___d the flood victims.（別の住居に移した）", "A": "rehouse", "B": "house の最初に住まわせる", "C": "arouse の呼び起こす", "D": "rehearse の練習する", "correct": "A" },
+      { "q": "rehouse のもとになった動詞 house の意味は？", "A": "住まわせる", "B": "売る", "C": "壊す", "D": "建てる", "correct": "A" }
+    ]
+  },
+  {
+    "english": "relearn",
+    "pron": "ˌriːˈlɜːrn",
+    "kana": "リラーン",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ learn（学ぶ・覚える）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "頻出語"],
+    "meaning_main": "学び直す・覚え直す・身につけ直す",
+    "description": "relearn の意味・発音・例文・語源を解説。忘れたことや、けがのあとの動作などを「学び直す・覚え直す・身につけ直す」という、日常やリハビリで使う語を紹介します。",
+    "keywords": ["relearn 意味", "relearn 発音", "学び直す", "learn 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】学び直す・覚え直す・身につけ直す", "note": "一度学んだことを再び学ぶ。relearn how to walk（歩き方を覚え直す）。過去形・過去分詞は relearned（または relearnt）。" }
+    ],
+    "usages": [
+      { "title": "① 「学び直す」として", "desc": "忘れたことを再び学ぶことを表します。", "example_en": "He had to relearn French after years away.", "example_ja": "彼は何年も離れたあとフランス語を学び直さねばならなかった。" },
+      { "title": "② リハビリ「動作を覚え直す」として", "desc": "失った能力を取り戻すことを表します。", "example_en": "She is relearning how to walk after the accident.", "example_ja": "彼女は事故のあと歩き方を覚え直している。" }
+    ],
+    "warn": [
+      "relearn は『学び直す・覚え直す・身につけ直す』。re-（再び）＋ learn。過去形は relearned / relearnt。",
+      "勉強の学び直しや、けが・病気からのリハビリ（動作を覚え直す）に使う。"
+    ],
+    "etym_note": "re-（再び）＋ learn（『学ぶ・覚える』、古英語 leornian より）から成り、「再び学ぶこと」を意味します。",
+    "etym_chain": [
+      { "node": "leornian", "sub": "学ぶ", "era": "古英語" },
+      { "node": "learn", "sub": "学ぶ・覚える", "era": "中英語" },
+      { "node": "relearn", "sub": "学び直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "relearn a language", "ja": "言語を学び直す" },
+      { "en": "relearn how to walk", "ja": "歩き方を覚え直す" },
+      { "en": "relearn old skills", "ja": "昔の技能を身につけ直す" },
+      { "en": "have to relearn", "ja": "学び直さねばならない" },
+      { "en": "relearn from scratch", "ja": "一から学び直す" },
+      { "en": "unlearn and relearn", "ja": "学びほぐして学び直す" }
+    ],
+    "related": [
+      { "en": "learn", "ja": "学ぶ・覚える" },
+      { "en": "review", "ja": "復習する" },
+      { "en": "unlearn", "ja": "（覚えたことを）忘れる・捨てる" },
+      { "en": "retrain", "ja": "再訓練する" }
+    ],
+    "faq": [
+      { "q": "relearn とはどんな意味？", "a": "忘れたことや、けがのあとの動作などを『学び直す・覚え直す・身につけ直す』という意味です。She is relearning how to walk after the accident.（事故のあと歩き方を覚え直している）のように使います。" },
+      { "q": "relearn と review の違いは？", "a": "review は『（覚えていることを）復習する・見直す』、relearn は『（忘れた・失ったことを）改めて学び直す』点に重点があります。relearn のほうがゼロから学び直すニュアンスです。" }
+    ],
+    "quiz": [
+      { "q": "She is ___ing how to walk after the accident.（覚え直す）", "A": "relearn", "B": "learn の最初に学ぶ", "C": "earn の稼ぐ", "D": "yearn の切望する", "correct": "A" },
+      { "q": "relearn のもとになった動詞はどれ？", "A": "learn（学ぶ・覚える）", "B": "earn（稼ぐ）", "C": "yearn（切望する）", "D": "burn（燃やす）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rejig",
+    "pron": "ˌriːˈdʒɪɡ",
+    "kana": "リジグ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ jig（取りつけ具・段取りする）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "口語・英"],
+    "meaning_main": "（配置・計画などを）組み替える・調整し直す（くだけた語）",
+    "description": "rejig の意味・発音・例文・語源を解説。計画・組織・配置などを「組み替える・調整し直す」という、イギリス英語の口語的な動詞の使い方を分かりやすく紹介します。",
+    "keywords": ["rejig 意味", "rejig 発音", "組み替える", "調整し直す"],
+    "meanings": [
+      { "hinshi": "【動詞】（配置・計画などを）組み替える・調整し直す・手直しする", "note": "くだけた語（主にイギリス英語）。rejig the schedule（予定を組み替える）。アメリカ英語では rejigger。過去形は rejigged。" }
+    ],
+    "usages": [
+      { "title": "① 「予定を組み替える」として", "desc": "計画の手直しを表します。", "example_en": "We had to rejig the schedule at the last minute.", "example_ja": "私たちは土壇場で予定を組み替えねばならなかった。" },
+      { "title": "② 「配置を調整し直す」として", "desc": "組織や配置の手直しを表します。", "example_en": "The manager rejigged the team's roles.", "example_ja": "部長はチームの役割を組み替えた。" }
+    ],
+    "warn": [
+      "rejig は『（配置・計画を）組み替える・調整し直す』のくだけた語（主に英）。re-（再び）＋ jig（取りつけ具）。過去形は rejigged。",
+      "アメリカ英語では rejigger を使うことが多い。フォーマルには rearrange / reorganize。"
+    ],
+    "etym_note": "re-（再び）＋ jig（『（工作の）取りつけ具・治具』、転じて『うまく段取りする』、もとは『跳ねる踊り（jig）』より）から成り、「組み替え・手直しする」を意味します。",
+    "etym_chain": [
+      { "node": "jig", "sub": "取りつけ具・段取り", "era": "近代英語" },
+      { "node": "rejig", "sub": "組み替える", "era": "20世紀英語" },
+      { "node": "rejig", "sub": "組み替える・調整し直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rejig the schedule", "ja": "予定を組み替える" },
+      { "en": "rejig the plan", "ja": "計画を手直しする" },
+      { "en": "rejig the team", "ja": "チームを組み替える" },
+      { "en": "rejig the layout", "ja": "レイアウトを調整し直す" },
+      { "en": "rejig the budget", "ja": "予算を組み替える" },
+      { "en": "a major rejig", "ja": "大幅な組み替え" }
+    ],
+    "related": [
+      { "en": "rearrange", "ja": "並べ替える・組み直す" },
+      { "en": "reorganize", "ja": "再編成する" },
+      { "en": "reshuffle", "ja": "（人事を）入れ替える" },
+      { "en": "tweak", "ja": "微調整する" }
+    ],
+    "faq": [
+      { "q": "rejig とはどんな意味？", "a": "計画・組織・配置などを『組み替える・調整し直す・手直しする』という、イギリス英語の口語的な動詞です。We had to rejig the schedule.（予定を組み替えねばならなかった）のように使います。過去形は rejigged です。" },
+      { "q": "rejig と rearrange の違いは？", "a": "意味は近く『組み替える』ですが、rejig はくだけた口語（主に英）、rearrange はより一般的・中立的な語です。フォーマルな文では rearrange や reorganize が好まれます。" }
+    ],
+    "quiz": [
+      { "q": "We had to ___ the schedule at the last minute.（組み替える）", "A": "rejig", "B": "rejoice の喜ぶ", "C": "reject の拒絶する", "D": "rejoin の再び加わる", "correct": "A" },
+      { "q": "rejig とほぼ同じ意味の語はどれ？", "A": "rearrange（組み直す）", "B": "rejoice（喜ぶ）", "C": "reject（拒絶する）", "D": "rejoin（再び加わる）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "regularize",
+    "pron": "ˈreɡjuləraɪz",
+    "kana": "レギュラライズ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "regular（正規の・規則的な）＋ -ize（〜化する）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "行政・法律"],
+    "meaning_main": "正規化する・合法化する・きちんとした状態にする",
+    "description": "regularize の意味・発音・例文・語源を解説。非正規・不正規な状態を「正規化する・合法化する・きちんとした状態にする」という、行政・法律で使う語を紹介します。",
+    "keywords": ["regularize 意味", "regularize 発音", "正規化する", "合法化する"],
+    "meanings": [
+      { "hinshi": "【動詞】正規化する・合法化する・きちんとした状態にする", "note": "不規則・非正規・違法な状態を、正式・合法・規則どおりにする。regularize one's status（在留資格などを正規化する）。イギリス綴りは regularise。名詞 regularization。" }
+    ],
+    "usages": [
+      { "title": "① 「在留資格を正規化する」として", "desc": "正式な状態にすることを表します。", "example_en": "The law allowed migrants to regularize their status.", "example_ja": "その法律は移民が在留資格を正規化することを認めた。" },
+      { "title": "② 「取引を正規化する」として", "desc": "きちんとした手続きにすることを表します。", "example_en": "They moved to regularize the informal arrangement.", "example_ja": "彼らは非公式な取り決めを正式なものにしようとした。" }
+    ],
+    "warn": [
+      "regularize は『正規化する・合法化する・きちんとした状態にする』。regular（正規の・規則的な）＋ -ize。名詞 regularization。",
+      "在留資格・契約・手続きなどを『正式・合法にする』文脈で使う。"
+    ],
+    "etym_note": "regular（『正規の・規則的な』、ラテン語 regula「規則・ものさし」より）＋ -ize から成り、「規則どおり・正規にすること」を意味します。rule（規則）, regulate（規制する）と同じ語根です。",
+    "etym_chain": [
+      { "node": "regula", "sub": "規則・ものさし", "era": "ラテン語" },
+      { "node": "regular", "sub": "正規の・規則的な", "era": "中英語" },
+      { "node": "regularize", "sub": "正規化する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "regularize one's status", "ja": "在留資格を正規化する" },
+      { "en": "regularize the situation", "ja": "状況を正常化する" },
+      { "en": "regularize an arrangement", "ja": "取り決めを正式にする" },
+      { "en": "regularize a relationship", "ja": "関係を正式なものにする" },
+      { "en": "regularize the procedure", "ja": "手続きを正規化する" },
+      { "en": "the regularization of migrants", "ja": "移民の正規化" }
+    ],
+    "related": [
+      { "en": "regular", "ja": "正規の・規則的な" },
+      { "en": "regularization", "ja": "正規化" },
+      { "en": "legalize", "ja": "合法化する" },
+      { "en": "formalize", "ja": "正式にする" }
+    ],
+    "faq": [
+      { "q": "regularize とはどんな意味？", "a": "非正規・不正規・違法な状態を『正規化する・合法化する・きちんとした状態にする』という意味です。The law allowed migrants to regularize their status.（移民が在留資格を正規化することを認めた）のように使います。名詞は regularization です。" },
+      { "q": "regularize はどんな場面で使う？", "a": "非正規滞在者の在留資格を正式にする、非公式な取り決めや関係を正式なものにする、不規則な手続きを規則どおりにするなど、『正式・合法・規則どおりにする』場面で使います。" }
+    ],
+    "quiz": [
+      { "q": "The law allowed migrants to ___ their status.（正規化する）", "A": "regularize", "B": "memorize の暗記する", "C": "summarize の要約する", "D": "criticize の批判する", "correct": "A" },
+      { "q": "regularize のもとになった形容詞はどれ？", "A": "regular（正規の・規則的な）", "B": "popular（人気の）", "C": "similar（似た）", "D": "familiar（よく知った）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reemphasize",
+    "pron": "ˌriːˈemfəsaɪz",
+    "kana": "リエンファサイズ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ emphasize（強調する）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "議論・頻出"],
+    "meaning_main": "再び強調する・改めて力説する",
+    "description": "reemphasize の意味・発音・例文・語源を解説。すでに述べた点を「再び強調する・改めて力説する」という、議論やプレゼンで使う語の使い方を分かりやすく紹介します。",
+    "keywords": ["reemphasize 意味", "reemphasize 発音", "再び強調する", "emphasize 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再び強調する・改めて力説する", "note": "一度述べた点を重ねて強調する。re-emphasize とも書く。reemphasize the importance（重要性を改めて強調する）。名詞は reemphasis。イギリス綴りは reemphasise。" }
+    ],
+    "usages": [
+      { "title": "① 「重要性を再び強調する」として", "desc": "改めて力説することを表します。", "example_en": "She reemphasized the importance of safety.", "example_ja": "彼女は安全の重要性を改めて強調した。" },
+      { "title": "② 「要点を念押しする」として", "desc": "繰り返し強調することを表します。", "example_en": "Let me reemphasize the main point.", "example_ja": "主な要点を改めて強調させてください。" }
+    ],
+    "warn": [
+      "reemphasize は『再び強調する・改めて力説する』。re-（再び）＋ emphasize。re-emphasize とも書く。名詞は reemphasis。",
+      "stress / underline（強調する・念押しする）とも言い換えられる。"
+    ],
+    "etym_note": "re-（再び）＋ emphasize（『強調する』、ギリシャ語 emphasis「表に現れること」より）から成り、「再び強調すること」を意味します。emphasis（強調）と同じ語根です。",
+    "etym_chain": [
+      { "node": "emphasis", "sub": "表に現れること", "era": "ギリシャ語" },
+      { "node": "emphasize", "sub": "強調する", "era": "近代英語" },
+      { "node": "reemphasize", "sub": "再び強調する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reemphasize the importance", "ja": "重要性を改めて強調する" },
+      { "en": "reemphasize the point", "ja": "要点を再び強調する" },
+      { "en": "reemphasize the need for", "ja": "〜の必要性を改めて力説する" },
+      { "en": "strongly reemphasize", "ja": "強く念押しする" },
+      { "en": "reemphasize a message", "ja": "メッセージを再び強調する" },
+      { "en": "let me reemphasize", "ja": "改めて強調させてください" }
+    ],
+    "related": [
+      { "en": "emphasize", "ja": "強調する" },
+      { "en": "emphasis", "ja": "強調" },
+      { "en": "stress", "ja": "強調する・力説する" },
+      { "en": "reiterate", "ja": "繰り返して言う" }
+    ],
+    "faq": [
+      { "q": "reemphasize とはどんな意味？", "a": "すでに述べた点を『再び強調する・改めて力説する』という意味です。She reemphasized the importance of safety.（安全の重要性を改めて強調した）のように使います。re-emphasize とも書きます。" },
+      { "q": "reemphasize と reiterate の違いは？", "a": "reiterate は『（同じ内容を）繰り返して言う』、reemphasize は『（要点を）改めて強く強調する』点に重点があります。reemphasize は重要性を念押しするニュアンスです。" }
+    ],
+    "quiz": [
+      { "q": "She ___d the importance of safety.（再び強調した）", "A": "reemphasize", "B": "emphasize の最初に強調する", "C": "memorize の暗記する", "D": "apologize の謝る", "correct": "A" },
+      { "q": "reemphasize の名詞形はどれ？", "A": "reemphasis（再強調）", "B": "emphasis の最初の強調だけ", "C": "memory（記憶）", "D": "apology（謝罪）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reabsorb",
+    "pron": "ˌriːəbˈzɔːrb",
+    "kana": "リアブゾーブ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ absorb（吸収する）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "理科・生物"],
+    "meaning_main": "再吸収する・再び吸い込む（体・組織などが）",
+    "description": "reabsorb の意味・発音・例文・語源を解説。いったん放出したものを「再び吸収する・再吸収する」という、生物（腎臓の再吸収など）や物理で使う語を紹介します。",
+    "keywords": ["reabsorb 意味", "reabsorb 発音", "再吸収する", "absorb 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再吸収する・再び吸い込む", "note": "いったん出た・分けた物質を再び取り込む。The kidneys reabsorb water.（腎臓は水を再吸収する）。名詞は reabsorption。" }
+    ],
+    "usages": [
+      { "title": "① 生物「再吸収する」として", "desc": "体が再び取り込むことを表します。", "example_en": "The kidneys reabsorb most of the water.", "example_ja": "腎臓は水分の大半を再吸収する。" },
+      { "title": "② 「再び吸い込む」として", "desc": "放出物を取り戻すことを表します。", "example_en": "The body can reabsorb a small blood clot.", "example_ja": "体は小さな血のかたまりを再吸収できる。" }
+    ],
+    "warn": [
+      "reabsorb は『再吸収する・再び吸い込む』。re-（再び）＋ absorb（吸収する）。名詞は reabsorption。",
+      "腎臓での『水分・栄養の再吸収』、骨の『再吸収（吸収して作り替える）』など、生物・医学で頻出。"
+    ],
+    "etym_note": "re-（再び）＋ absorb（『吸収する』、ラテン語 absorbere「吸い込む」、ab-「離れて」＋ sorbere「吸う」より）から成り、「再び吸い込むこと」を意味します。",
+    "etym_chain": [
+      { "node": "absorbere", "sub": "吸い込む", "era": "ラテン語" },
+      { "node": "absorb", "sub": "吸収する", "era": "近代英語" },
+      { "node": "reabsorb", "sub": "再吸収する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reabsorb water", "ja": "水を再吸収する" },
+      { "en": "reabsorb nutrients", "ja": "栄養を再吸収する" },
+      { "en": "the kidneys reabsorb", "ja": "腎臓が再吸収する" },
+      { "en": "be reabsorbed", "ja": "再吸収される" },
+      { "en": "reabsorb the fluid", "ja": "体液を再吸収する" },
+      { "en": "bone reabsorption", "ja": "骨の再吸収" }
+    ],
+    "related": [
+      { "en": "absorb", "ja": "吸収する" },
+      { "en": "reabsorption", "ja": "再吸収" },
+      { "en": "absorption", "ja": "吸収" },
+      { "en": "excrete", "ja": "排出する（反対に近い）" }
+    ],
+    "faq": [
+      { "q": "reabsorb とはどんな意味？", "a": "いったん放出したり分けたりしたものを『再び吸収する・再吸収する』という意味です。The kidneys reabsorb most of the water.（腎臓は水分の大半を再吸収する）のように、生物・医学で使います。名詞は reabsorption です。" },
+      { "q": "腎臓の reabsorption（再吸収）とは？", "a": "腎臓ではいったん血液からろ過した水分・糖・塩分などのうち、体に必要なものを再び血液に取り戻します。この働きを『再吸収（reabsorption）』と呼びます。" }
+    ],
+    "quiz": [
+      { "q": "The kidneys ___ most of the water.（再吸収する）", "A": "reabsorb", "B": "absorb の最初に吸収する", "C": "disturb の邪魔する", "D": "absorb ではなく observe の観察する", "correct": "A" },
+      { "q": "reabsorb の名詞形はどれ？", "A": "reabsorption（再吸収）", "B": "absorption の最初の吸収だけ", "C": "observation（観察）", "D": "disturbance（妨害）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reanalyze",
+    "pron": "ˌriːˈænəlaɪz",
+    "kana": "リアナライズ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ analyze（分析する）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "学術・データ"],
+    "meaning_main": "再分析する・分析し直す（データなどを）",
+    "description": "reanalyze の意味・発音・例文・語源を解説。データや状況を「再分析する・分析し直す」という、研究・統計・ビジネスで使う語の使い方を分かりやすく紹介します。",
+    "keywords": ["reanalyze 意味", "reanalyze 発音", "再分析する", "analyze 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再分析する・分析し直す", "note": "データ・結果・状況を改めて分析する。reanalyze the data（データを分析し直す）。イギリス綴りは reanalyse。名詞は reanalysis。" }
+    ],
+    "usages": [
+      { "title": "① 「データを分析し直す」として", "desc": "改めて分析することを表します。", "example_en": "The team reanalyzed the data using a new method.", "example_ja": "チームは新しい手法でデータを分析し直した。" },
+      { "title": "② 「結果を再検討する」として", "desc": "結論を見直すことを表します。", "example_en": "Researchers reanalyzed the old results.", "example_ja": "研究者たちは古い結果を再分析した。" }
+    ],
+    "warn": [
+      "reanalyze は『再分析する・分析し直す』。re-（再び）＋ analyze。イギリス綴りは reanalyse。名詞は reanalysis。",
+      "新しい手法・データで『分析し直す』研究の文脈で頻出。"
+    ],
+    "etym_note": "re-（再び）＋ analyze（『分析する』、ギリシャ語 analysis「分解」、ana-「上へ・徹底的に」＋ lyein「ほどく」より）から成り、「再び分析すること」を意味します。",
+    "etym_chain": [
+      { "node": "analysis", "sub": "分解", "era": "ギリシャ語" },
+      { "node": "analyze", "sub": "分析する", "era": "近代英語" },
+      { "node": "reanalyze", "sub": "再分析する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reanalyze the data", "ja": "データを分析し直す" },
+      { "en": "reanalyze the results", "ja": "結果を再分析する" },
+      { "en": "reanalyze the sample", "ja": "標本を分析し直す" },
+      { "en": "reanalyze the evidence", "ja": "証拠を再分析する" },
+      { "en": "a reanalysis of the study", "ja": "その研究の再分析" },
+      { "en": "reanalyze using new methods", "ja": "新手法で分析し直す" }
+    ],
+    "related": [
+      { "en": "analyze", "ja": "分析する" },
+      { "en": "reanalysis", "ja": "再分析" },
+      { "en": "reexamine", "ja": "再検討する" },
+      { "en": "reassess", "ja": "再評価する" }
+    ],
+    "faq": [
+      { "q": "reanalyze とはどんな意味？", "a": "データや状況を『再分析する・分析し直す』という意味です。The team reanalyzed the data using a new method.（新しい手法でデータを分析し直した）のように、研究・統計で使います。名詞は reanalysis です。" },
+      { "q": "reanalyze はどんな場面で使う？", "a": "新しい手法やより多くのデータを使って過去の研究結果を分析し直すとき、ビジネスでデータを別の角度から見直すときなど、すでに分析したものを改めて調べ直す場面で使います。" }
+    ],
+    "quiz": [
+      { "q": "The team ___d the data using a new method.（分析し直した）", "A": "reanalyze", "B": "analyze の最初に分析する", "C": "realize の気づく", "D": "paralyze のまひさせる", "correct": "A" },
+      { "q": "reanalyze の名詞形はどれ？", "A": "reanalysis（再分析）", "B": "analysis の最初の分析だけ", "C": "realization（実現）", "D": "paralysis（まひ）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rancorously",
+    "pron": "ˈræŋkərəsli",
+    "kana": "ランカラスリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "rancorous（恨みのこもった）＋ -ly",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文語的"],
+    "meaning_main": "恨みをこめて・とげとげしく・憎しみを抱いて",
+    "description": "rancorously の意味・発音・例文・語源を解説。深い恨みや敵意をこめて「とげとげしく・憎しみを抱いて」ふるまう様子を表す、やや硬い副詞の使い方を紹介します。",
+    "keywords": ["rancorously 意味", "rancorously 発音", "恨みをこめて", "rancor 意味"],
+    "meanings": [
+      { "hinshi": "【副詞】恨みをこめて・とげとげしく・憎しみを抱いて", "note": "深い恨み・敵意を込めて。argue rancorously（とげとげしく言い争う）。形容詞は rancorous、名詞は rancor（恨み・遺恨）。" }
+    ],
+    "usages": [
+      { "title": "① 「とげとげしく言い争う」として", "desc": "敵意のこもった様子を表します。", "example_en": "The two sides argued rancorously for hours.", "example_ja": "両者は何時間もとげとげしく言い争った。" },
+      { "title": "② 「恨みをこめて語る」として", "desc": "憎しみを表します。", "example_en": "He spoke rancorously about his former partner.", "example_ja": "彼は元の相棒について恨みをこめて語った。" }
+    ],
+    "warn": [
+      "rancorously は『恨みをこめて・とげとげしく・憎しみを抱いて』。形容詞 rancorous（恨みのこもった）＋ -ly。名詞 rancor（遺恨・恨み）。やや硬い・文語的。",
+      "a rancorous divorce / debate（とげとげしい離婚・論争）のように形容詞 rancorous も覚えると便利。"
+    ],
+    "etym_note": "rancorous（『恨みのこもった』、rancor「遺恨・恨み」、ラテン語 rancor「悪臭・恨み」、rancere「腐る」より）＋ -ly から成り、「恨みをこめて」を意味します。rancid（腐敗した）と同じ語根です。",
+    "etym_chain": [
+      { "node": "rancor", "sub": "悪臭・恨み", "era": "ラテン語" },
+      { "node": "rancorous", "sub": "恨みのこもった", "era": "中英語" },
+      { "node": "rancorously", "sub": "恨みをこめて", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "argue rancorously", "ja": "とげとげしく言い争う" },
+      { "en": "speak rancorously", "ja": "恨みをこめて語る" },
+      { "en": "rancorously divided", "ja": "憎しみで分裂して" },
+      { "en": "debate rancorously", "ja": "とげとげしく議論する" },
+      { "en": "part rancorously", "ja": "恨みを残して別れる" },
+      { "en": "respond rancorously", "ja": "敵意をこめて応じる" }
+    ],
+    "related": [
+      { "en": "rancorous", "ja": "恨みのこもった・とげとげしい" },
+      { "en": "rancor", "ja": "遺恨・恨み" },
+      { "en": "bitterly", "ja": "苦々しく・恨めしげに" },
+      { "en": "spitefully", "ja": "意地悪く・悪意をもって" }
+    ],
+    "faq": [
+      { "q": "rancorously とはどんな意味？", "a": "深い恨みや敵意をこめて『とげとげしく・憎しみを抱いて』ふるまう様子を表す副詞です。The two sides argued rancorously.（両者はとげとげしく言い争った）のように使います。名詞は rancor、形容詞は rancorous です。" },
+      { "q": "rancor とはどんな意味？", "a": "rancorously のもとになる名詞で、『（長く心に残る）遺恨・恨み・敵意』という意味です。without rancor（恨みを抱かずに）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The two sides argued ___ for hours.（とげとげしく）", "A": "rancorously", "B": "harmoniously の調和して", "C": "generously の寛大に", "D": "joyously の楽しげに", "correct": "A" },
+      { "q": "rancorously の名詞形はどれ？", "A": "rancor（遺恨・恨み）", "B": "harmony（調和）", "C": "honor（名誉）", "D": "rumor（うわさ）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "raptly",
+    "pron": "ˈræptli",
+    "kana": "ラプトリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "rapt（夢中の・心を奪われた）＋ -ly",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "感情・文語"],
+    "meaning_main": "夢中になって・うっとりと・心を奪われて（聞き入る・見入る）",
+    "description": "raptly の意味・発音・例文・語源を解説。何かに心を奪われ「夢中になって・うっとりと・一心に」聞き入ったり見入ったりする様子を表す副詞の使い方を紹介します。",
+    "keywords": ["raptly 意味", "raptly 発音", "夢中になって", "rapt 意味"],
+    "meanings": [
+      { "hinshi": "【副詞】夢中になって・うっとりと・一心に・心を奪われて", "note": "深く心を奪われて。listen raptly（うっとりと聞き入る）。形容詞は rapt（夢中の・没頭した）。" }
+    ],
+    "usages": [
+      { "title": "① 「うっとりと聞き入る」として", "desc": "夢中で聞く様子を表します。", "example_en": "The children listened raptly to the story.", "example_ja": "子どもたちはその物語にうっとりと聞き入った。" },
+      { "title": "② 「一心に見入る」として", "desc": "心を奪われて見る様子を表します。", "example_en": "She gazed raptly at the painting.", "example_ja": "彼女はその絵に一心に見入った。" }
+    ],
+    "warn": [
+      "raptly は『夢中になって・うっとりと・一心に』。形容詞 rapt（夢中の・心を奪われた）＋ -ly。やや文語的。",
+      "listen / watch / gaze raptly（うっとりと聞く・見る）が頻出。rapt は rapture（有頂天）と同じ語根。"
+    ],
+    "etym_note": "rapt（『心を奪われた・夢中の』、ラテン語 raptus「さらわれた」、rapere「奪う・さらう」より＝心がさらわれた状態）＋ -ly から成り、「心を奪われて」を意味します。rapture（有頂天）と同じ語根です。",
+    "etym_chain": [
+      { "node": "raptus", "sub": "さらわれた", "era": "ラテン語" },
+      { "node": "rapt", "sub": "夢中の・心を奪われた", "era": "中英語" },
+      { "node": "raptly", "sub": "夢中になって・うっとりと", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "listen raptly", "ja": "うっとりと聞き入る" },
+      { "en": "watch raptly", "ja": "夢中で見入る" },
+      { "en": "gaze raptly at", "ja": "〜に一心に見入る" },
+      { "en": "raptly attentive", "ja": "うっとりと聞き入って" },
+      { "en": "stare raptly", "ja": "夢中になって見つめる" },
+      { "en": "follow raptly", "ja": "夢中で追う" }
+    ],
+    "related": [
+      { "en": "rapt", "ja": "夢中の・心を奪われた" },
+      { "en": "rapture", "ja": "有頂天・歓喜" },
+      { "en": "intently", "ja": "一心に・熱心に" },
+      { "en": "absorbedly", "ja": "没頭して" }
+    ],
+    "faq": [
+      { "q": "raptly とはどんな意味？", "a": "何かに心を奪われ『夢中になって・うっとりと・一心に』聞き入ったり見入ったりする様子を表す副詞です。The children listened raptly to the story.（子どもたちが物語にうっとりと聞き入った）のように使います。形容詞は rapt です。" },
+      { "q": "raptly と intently の違いは？", "a": "intently は『一心に・熱心に（集中して）』、raptly は『（うっとりするほど）心を奪われて夢中で』に重点があります。raptly のほうが感激・没入のニュアンスが強いです。" }
+    ],
+    "quiz": [
+      { "q": "The children listened ___ to the story.（うっとりと）", "A": "raptly", "B": "rapidly の急速に", "C": "rarely のめったに〜ない", "D": "roughly のおおよそ", "correct": "A" },
+      { "q": "raptly の形容詞形はどれ？", "A": "rapt（夢中の・心を奪われた）", "B": "rapid（速い）", "C": "rare（まれな）", "D": "rough（粗い）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reupholster",
+    "pron": "ˌriːʌpˈhoʊlstər",
+    "kana": "リアップホルスター",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ upholster（（家具に）詰め物・布張りをする）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "日常・家具"],
+    "meaning_main": "（いす・ソファの）布地を張り替える・詰め物を入れ替える",
+    "description": "reupholster の意味・発音・例文・語源を解説。古くなったいすやソファの「布地を張り替える・詰め物を入れ替える」という、家具の手入れで使う語を紹介します。",
+    "keywords": ["reupholster 意味", "reupholster 発音", "張り替える", "upholster 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（いす・ソファの）布地を張り替える・詰め物を入れ替える", "note": "古くなった家具の表地・クッションを新しくする。reupholster the sofa（ソファを張り替える）。動詞 upholster は『（家具に）布張り・詰め物をする』。" }
+    ],
+    "usages": [
+      { "title": "① 「ソファを張り替える」として", "desc": "布地の交換を表します。", "example_en": "They reupholstered the old armchair.", "example_ja": "彼らは古いひじ掛け椅子を張り替えた。" },
+      { "title": "② 修繕の文脈で", "desc": "家具の手入れを表します。", "example_en": "The chairs were reupholstered in leather.", "example_ja": "そのいすは革で張り替えられた。" }
+    ],
+    "warn": [
+      "reupholster は『（いす・ソファの）布地を張り替える・詰め物を入れ替える』。re-（再び）＋ upholster。名詞は reupholstery / upholsterer（張り替える職人）。",
+      "upholstery は『（家具の）布張り・詰め物』という名詞。"
+    ],
+    "etym_note": "re-（再び）＋ upholster（『（家具に）布張り・詰め物をする』、uphold「支える・保つ」より＝家具を整える者の仕事）から成り、「再び布張りすること」を意味します。",
+    "etym_chain": [
+      { "node": "uphold", "sub": "支える・保つ", "era": "中英語" },
+      { "node": "upholster", "sub": "布張り・詰め物をする", "era": "近代英語" },
+      { "node": "reupholster", "sub": "張り替える", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reupholster the sofa", "ja": "ソファを張り替える" },
+      { "en": "reupholster the chair", "ja": "いすを張り替える" },
+      { "en": "reupholstered in leather", "ja": "革で張り替えられた" },
+      { "en": "reupholster the seats", "ja": "座面を張り替える" },
+      { "en": "need reupholstering", "ja": "張り替えが必要だ" },
+      { "en": "reupholster an antique", "ja": "アンティーク家具を張り替える" }
+    ],
+    "related": [
+      { "en": "upholster", "ja": "布張り・詰め物をする" },
+      { "en": "upholstery", "ja": "（家具の）布張り・詰め物" },
+      { "en": "refurbish", "ja": "改装する・再生する" },
+      { "en": "restore", "ja": "修復する" }
+    ],
+    "faq": [
+      { "q": "reupholster とはどんな意味？", "a": "古くなったいすやソファの『布地を張り替える・詰め物を入れ替える』という意味です。They reupholstered the old armchair.（古いひじ掛け椅子を張り替えた）のように使います。" },
+      { "q": "upholstery とは？", "a": "『（家具の）布張り・詰め物』という名詞です。いすやソファの座面・背もたれを覆う生地やクッション材を指します。reupholster はそれを新しくすることです。" }
+    ],
+    "quiz": [
+      { "q": "They ___ed the old armchair.（張り替えた）", "A": "reupholster", "B": "upholster の最初に布張りする", "C": "uphold の支える", "D": "upgrade のアップグレードする", "correct": "A" },
+      { "q": "reupholster は何を張り替える？", "A": "いす・ソファの布地・詰め物", "B": "屋根のかわら", "C": "車のタイヤ", "D": "壁の塗装", "correct": "A" }
+    ]
+  }
+]

@@ -1,0 +1,523 @@
+[
+  {
+    "english": "railhead",
+    "pron": "ˈreɪlhɛd",
+    "kana": "レイルヘッド",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rail（線路）＋ head（先端・終点）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "鉄道・物流"],
+    "meaning_main": "線路の終端・鉄道の終点（積み替え地点）",
+    "description": "railhead の意味・発音・例文・語源を解説。建設中・運行中の鉄道の最先端、また物資を積み替える「鉄道の終点・端末駅」という、鉄道や物流で使う語の使い方を紹介します。",
+    "keywords": ["railhead 意味", "railhead 発音", "鉄道の終点", "rail 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】線路の終端・鉄道の終点", "note": "敷設中の線路の最先端、または路線の終点。貨物や軍需品を鉄道から他の輸送手段へ積み替える地点を指すことが多い。" }
+    ],
+    "usages": [
+      { "title": "① 「敷設の最先端」として", "desc": "建設中の線路の先を表します。", "example_en": "Supplies were carried by truck from the railhead.", "example_ja": "物資は鉄道の終点からトラックで運ばれた。" },
+      { "title": "② 「積み替え地点」として", "desc": "輸送の中継点を表します。", "example_en": "The town grew up around the railhead.", "example_ja": "その町は鉄道の終点を中心に発展した。" }
+    ],
+    "warn": [
+      "railhead は『線路の終端・鉄道の終点（積み替え地点）』。rail（線路）＋ head（先端）。",
+      "軍事・物流で、鉄道輸送の最前線・終点として重要な拠点を指す。"
+    ],
+    "etym_note": "rail（『線路・レール』、ラテン語 regula「まっすぐな棒」より）＋ head（『先端・頭』、古英語 hēafod より）から成り、「線路の先端・終点」を意味します。",
+    "etym_chain": [
+      { "node": "rail + head", "sub": "線路＋先端", "era": "英語" },
+      { "node": "railhead", "sub": "線路の終端", "era": "19世紀英語" },
+      { "node": "railhead", "sub": "鉄道の終点・積替地", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reach the railhead", "ja": "鉄道の終点に着く" },
+      { "en": "from the railhead", "ja": "鉄道の終点から" },
+      { "en": "supplies at the railhead", "ja": "終点の物資" },
+      { "en": "the advancing railhead", "ja": "延びていく線路の先端" },
+      { "en": "a military railhead", "ja": "軍の鉄道終点" },
+      { "en": "unload at the railhead", "ja": "終点で荷を降ろす" }
+    ],
+    "related": [
+      { "en": "terminus", "ja": "終着駅・終点" },
+      { "en": "depot", "ja": "貨物駅・集積所" },
+      { "en": "siding", "ja": "側線・待避線" },
+      { "en": "freight", "ja": "貨物" }
+    ],
+    "faq": [
+      { "q": "railhead とはどんな意味？", "a": "敷設中の線路の最先端、または路線の終点で、貨物を他の輸送手段に積み替える地点『鉄道の終点』のことです。Supplies were carried by truck from the railhead.（物資は終点からトラックで運ばれた）のように使います。" },
+      { "q": "railhead はなぜ重要？", "a": "鉄道輸送の最前線・終点として、そこから先はトラックなど別手段で運ぶ積み替え拠点になるためです。軍事補給や開拓の歴史で要となりました。" }
+    ],
+    "quiz": [
+      { "q": "Supplies were carried by truck from the ___.（鉄道の終点）", "A": "railhead", "B": "forehead の額", "C": "warhead の弾頭", "D": "overhead の頭上の", "correct": "A" },
+      { "q": "railhead の head はどんな意味？", "A": "先端・終点", "B": "頭脳", "C": "校長", "D": "見出し", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rainout",
+    "pron": "ˈreɪnaʊt",
+    "kana": "レインアウト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rain（雨）＋ out（外へ・中止）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "スポーツ・気象"],
+    "meaning_main": "雨天中止／（気象）雨による洗い落とし",
+    "description": "rainout の意味・発音・例文・語源を解説。雨で試合などが「雨天中止」になること、また気象で大気中の粒子が「雨に取り込まれて降下すること」という語の使い方を紹介します。",
+    "keywords": ["rainout 意味", "rainout 発音", "雨天中止", "雨による洗い落とし"],
+    "meanings": [
+      { "hinshi": "【名詞】雨天中止", "note": "（主に米）雨のために試合・行事が中止・順延になること。a rainout（雨天中止の試合）。" },
+      { "hinshi": "【名詞】（気象）レインアウト", "note": "大気中の塵や放射性粒子などが雲の中で雨滴に取り込まれ、雨とともに地表へ降下すること。washout（洗い落とし）と区別される。" }
+    ],
+    "usages": [
+      { "title": "① スポーツ「雨天中止」として", "desc": "試合の中止を表します。", "example_en": "The game was declared a rainout in the third inning.", "example_ja": "試合は3回で雨天中止と宣言された。" },
+      { "title": "② 気象「降下」として", "desc": "粒子の雨による除去を表します。", "example_en": "Rainout removes much of the dust from the atmosphere.", "example_ja": "レインアウトは大気から多くの塵を取り除く。" }
+    ],
+    "warn": [
+      "rainout は『雨天中止／（気象）雨による粒子の洗い落とし・降下』。rain＋out。",
+      "気象では、雲の中で取り込まれる rainout と、降る雨に洗い流される washout を区別する。"
+    ],
+    "etym_note": "rain（『雨』、古英語 regn より）＋ out（『外へ・尽きて』）から成り、「雨で（試合などが）流れること」「雨として（粒子が）出ていくこと」を意味します。",
+    "etym_chain": [
+      { "node": "rain + out", "sub": "雨＋外へ", "era": "英語" },
+      { "node": "rainout", "sub": "雨天中止", "era": "20世紀米英語" },
+      { "node": "rainout", "sub": "雨による降下（気象）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rainout", "ja": "雨天中止（の試合）" },
+      { "en": "declare a rainout", "ja": "雨天中止を宣言する" },
+      { "en": "due to a rainout", "ja": "雨天中止のため" },
+      { "en": "a rainout policy", "ja": "雨天中止の規定" },
+      { "en": "atmospheric rainout", "ja": "大気からのレインアウト" },
+      { "en": "rainout of particles", "ja": "粒子のレインアウト" }
+    ],
+    "related": [
+      { "en": "washout", "ja": "洗い落とし・中止" },
+      { "en": "postpone", "ja": "延期する" },
+      { "en": "fallout", "ja": "（放射性）降下物" },
+      { "en": "precipitation", "ja": "降水" }
+    ],
+    "faq": [
+      { "q": "rainout とはどんな意味？", "a": "雨のために試合や行事が『雨天中止』になること（主に米）、また気象で大気中の粒子が『雨に取り込まれて降下すること（レインアウト）』を指します。The game was declared a rainout.（試合は雨天中止になった）のように使います。" },
+      { "q": "rainout と washout の違いは？", "a": "気象では、rainout は『雲の中で粒子が雨滴に取り込まれる』こと、washout は『降る雨が粒子を洗い流す』ことを指し、粒子が除かれる過程が違います。" }
+    ],
+    "quiz": [
+      { "q": "The game was declared a ___ in the third inning.（雨天中止）", "A": "rainout", "B": "rainbow の虹", "C": "raincoat のレインコート", "D": "rainfall の降雨", "correct": "A" },
+      { "q": "rainout は rain と何を合わせた語？", "A": "out", "B": "in", "C": "up", "D": "off", "correct": "A" }
+    ]
+  },
+  {
+    "english": "redhorse",
+    "pron": "ˈrɛdhɔːs",
+    "kana": "レッドホース",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "red（赤い）＋ horse（馬）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "魚・北米"],
+    "meaning_main": "レッドホース（北米産の赤いひれの淡水魚）",
+    "description": "redhorse の意味・発音・例文・語源を解説。北米の川にすむ、赤いひれを持つサッカー（吸口魚）の仲間「レッドホース」という、魚や自然で使う語の使い方を紹介します。",
+    "keywords": ["redhorse 意味", "redhorse 発音", "レッドホース", "北米 淡水魚"],
+    "meanings": [
+      { "hinshi": "【名詞】レッドホース", "note": "北米の川にすむサッカー（吸口魚＝sucker）の仲間の淡水魚。赤やオレンジ色のひれを持つ。底で口を使って餌をとる。学名は Moxostoma 属。" }
+    ],
+    "usages": [
+      { "title": "① 「川の魚」として", "desc": "淡水魚を表します。", "example_en": "Anglers caught several redhorse in the river.", "example_ja": "釣り人は川で数匹のレッドホースを釣った。" },
+      { "title": "② 「水質の指標」として", "desc": "環境の目安を表します。", "example_en": "Redhorse thrive in clean, flowing water.", "example_ja": "レッドホースはきれいな流水を好んで生息する。" }
+    ],
+    "warn": [
+      "redhorse は『レッドホース（北米産の赤いひれの淡水魚）』。馬とは無関係。",
+      "サッカー（sucker＝吸口魚）の仲間で、口を底につけて餌をとる。きれいな水を好む。"
+    ],
+    "etym_note": "red（『赤い』）＋ horse（『馬』）から成りますが、馬とは無関係で、赤いひれと大きめの体にちなんだ通称です。魚名で horse が『大型の・たくましい』を含意することがあります。",
+    "etym_chain": [
+      { "node": "red + horse", "sub": "赤い＋馬", "era": "英語" },
+      { "node": "redhorse", "sub": "赤いひれの魚", "era": "近代英語" },
+      { "node": "redhorse", "sub": "レッドホース", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a golden redhorse", "ja": "ゴールデン・レッドホース" },
+      { "en": "catch a redhorse", "ja": "レッドホースを釣る" },
+      { "en": "a school of redhorse", "ja": "レッドホースの群れ" },
+      { "en": "the river redhorse", "ja": "リバー・レッドホース" },
+      { "en": "redhorse spawning", "ja": "レッドホースの産卵" },
+      { "en": "redhorse and suckers", "ja": "レッドホースとサッカー類" }
+    ],
+    "related": [
+      { "en": "sucker", "ja": "サッカー・吸口魚" },
+      { "en": "carp", "ja": "コイ" },
+      { "en": "freshwater fish", "ja": "淡水魚" },
+      { "en": "fin", "ja": "ひれ" }
+    ],
+    "faq": [
+      { "q": "redhorse とはどんな意味？", "a": "北米の川にすむサッカー（吸口魚）の仲間で、赤いひれを持つ淡水魚『レッドホース』のことです。Anglers caught several redhorse.（数匹のレッドホースを釣った）のように使います。" },
+      { "q": "redhorse は馬と関係ある？", "a": "いいえ、無関係です。赤いひれと大きめの体にちなんだ魚の通称で、口を川底につけて餌をとるサッカー（sucker）の仲間です。" }
+    ],
+    "quiz": [
+      { "q": "Anglers caught several ___ in the river.（レッドホース）", "A": "redhorse", "B": "racehorse の競走馬", "C": "seahorse のタツノオトシゴ", "D": "redhead の赤毛", "correct": "A" },
+      { "q": "redhorse はどんな生き物？", "A": "北米の淡水魚", "B": "赤い馬", "C": "海の哺乳類", "D": "鳥", "correct": "A" }
+    ]
+  },
+  {
+    "english": "roomette",
+    "pron": "ruːˈmɛt",
+    "kana": "ルーメット",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "room（部屋）＋ -ette（小さいもの）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "鉄道・旅行"],
+    "meaning_main": "ルーメット（寝台列車の小型個室）",
+    "description": "roomette の意味・発音・例文・語源を解説。寝台列車にある、一人用の小さな個室「ルーメット」という、鉄道や旅行で使う語の使い方を紹介します。",
+    "keywords": ["roomette 意味", "roomette 発音", "ルーメット", "寝台 個室"],
+    "meanings": [
+      { "hinshi": "【名詞】ルーメット", "note": "寝台列車にある一人（または二人）用の小型個室。座席が夜には寝台になる。主に北米の鉄道で使われる語。room（部屋）＋ -ette（小さいもの）。" }
+    ],
+    "usages": [
+      { "title": "① 「寝台個室」として", "desc": "列車の小部屋を表します。", "example_en": "We booked a roomette for the overnight train.", "example_ja": "私たちは夜行列車のルーメットを予約した。" },
+      { "title": "② 「寝台になる座席」として", "desc": "昼夜の変化を表します。", "example_en": "At night the roomette's seats fold down into a bed.", "example_ja": "夜にはルーメットの座席が折りたたまれて寝台になる。" }
+    ],
+    "warn": [
+      "roomette は『ルーメット（寝台列車の小型個室）』。room＋-ette（小さいもの）。",
+      "主に北米の鉄道（アムトラックなど）で使われる語。bedroom（より大きい個室）より小さい。"
+    ],
+    "etym_note": "room（『部屋』、古英語 rūm「広い場所」より）＋ -ette（『小さいもの』を表すフランス語由来の語尾）から成り、「小さな部屋」を意味します。kitchenette（簡易台所）と同じ -ette です。",
+    "etym_chain": [
+      { "node": "rūm", "sub": "広い場所", "era": "古英語" },
+      { "node": "room + -ette", "sub": "小さな部屋", "era": "20世紀英語" },
+      { "node": "roomette", "sub": "ルーメット", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "book a roomette", "ja": "ルーメットを予約する" },
+      { "en": "a sleeping-car roomette", "ja": "寝台車のルーメット" },
+      { "en": "stay in a roomette", "ja": "ルーメットに泊まる" },
+      { "en": "a single roomette", "ja": "一人用ルーメット" },
+      { "en": "the roomette's berth", "ja": "ルーメットの寝台" },
+      { "en": "upgrade to a roomette", "ja": "ルーメットにアップグレードする" }
+    ],
+    "related": [
+      { "en": "sleeping car", "ja": "寝台車" },
+      { "en": "berth", "ja": "寝台・寝棚" },
+      { "en": "compartment", "ja": "（列車の）コンパートメント" },
+      { "en": "cabin", "ja": "客室・船室" }
+    ],
+    "faq": [
+      { "q": "roomette とはどんな意味？", "a": "寝台列車にある一人用の小さな個室『ルーメット』のことです。座席が夜には寝台になります。We booked a roomette for the overnight train.（夜行列車のルーメットを予約した）のように使います。" },
+      { "q": "roomette の -ette はどんな意味？", "a": "『小さいもの』を表すフランス語由来の語尾です。kitchenette（簡易台所）などと同じで、room（部屋）＋ -ette で『小さな部屋』を表します。" }
+    ],
+    "quiz": [
+      { "q": "We booked a ___ for the overnight train.（ルーメット）", "A": "roomette", "B": "cassette のカセット", "C": "baguette のバゲット", "D": "silhouette のシルエット", "correct": "A" },
+      { "q": "roomette はどこにある個室？", "A": "寝台列車", "B": "飛行機の操縦席", "C": "潜水艦の機関室", "D": "病院の手術室", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rimu",
+    "pron": "ˈriːmuː",
+    "kana": "リムー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "マオリ語 rimu より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "植物・ニュージーランド"],
+    "meaning_main": "リムー（ニュージーランド産の針葉樹）",
+    "description": "rimu の意味・発音・例文・語源を解説。ニュージーランド固有の大きな針葉樹「リムー」という、植物や林業で使う語の使い方と、マオリ語由来の名を紹介します。",
+    "keywords": ["rimu 意味", "rimu 発音", "リムー", "ニュージーランド 木"],
+    "meanings": [
+      { "hinshi": "【名詞】リムー", "note": "ニュージーランド固有のマキ科の大きな針葉樹。垂れ下がる枝葉が特徴で、良質の木材がとれる。マオリ語名 rimu に由来。別名 red pine。" }
+    ],
+    "usages": [
+      { "title": "① 「森の大木」として", "desc": "在来の針葉樹を表します。", "example_en": "Tall rimu trees towered over the native forest.", "example_ja": "高いリムーの木々が在来林にそびえていた。" },
+      { "title": "② 「木材」として", "desc": "建材・家具材を表します。", "example_en": "The old table was made of polished rimu.", "example_ja": "その古いテーブルは磨かれたリムー材でできていた。" }
+    ],
+    "warn": [
+      "rimu は『リムー（ニュージーランド産の針葉樹）』。マオリ語由来。別名 red pine。",
+      "現在は伐採が制限される保護された在来種。垂れ下がる枝葉が特徴。"
+    ],
+    "etym_note": "マオリ語 rimu に由来します。ニュージーランドの先住民マオリの言葉がそのまま英語に取り入れられた植物名で、固有の在来樹を指します。",
+    "etym_chain": [
+      { "node": "rimu", "sub": "リムー（樹名）", "era": "マオリ語" },
+      { "node": "rimu", "sub": "リムー", "era": "近代英語（NZ）" },
+      { "node": "rimu", "sub": "リムー・レッドパイン", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rimu tree", "ja": "リムーの木" },
+      { "en": "tall rimu", "ja": "高いリムー" },
+      { "en": "rimu timber", "ja": "リムー材" },
+      { "en": "a rimu forest", "ja": "リムーの森" },
+      { "en": "polished rimu", "ja": "磨かれたリムー材" },
+      { "en": "native rimu", "ja": "在来のリムー" }
+    ],
+    "related": [
+      { "en": "conifer", "ja": "針葉樹" },
+      { "en": "kauri", "ja": "カウリ（NZの大木）" },
+      { "en": "podocarp", "ja": "マキ科の木" },
+      { "en": "timber", "ja": "木材" }
+    ],
+    "faq": [
+      { "q": "rimu とはどんな意味？", "a": "ニュージーランド固有のマキ科の大きな針葉樹『リムー』のことです。良質の木材がとれます。Tall rimu trees towered over the forest.（高いリムーの木々が森にそびえていた）のように使います。" },
+      { "q": "rimu の名前の由来は？", "a": "ニュージーランドの先住民マオリの言葉 rimu がそのまま使われています。多くのニュージーランドの動植物名がマオリ語に由来します。" }
+    ],
+    "quiz": [
+      { "q": "Tall ___ trees towered over the native forest.（リムー）", "A": "rimu", "B": "menu のメニュー", "C": "guru の指導者", "D": "tofu の豆腐", "correct": "A" },
+      { "q": "rimu はどこの国の木？", "A": "ニュージーランド", "B": "アイスランド", "C": "エジプト", "D": "ペルー", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reata",
+    "pron": "riˈɑːtə",
+    "kana": "リアータ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "スペイン語 reata（つなぎ綱）、reatar（縛りつける）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "牧畜・西部"],
+    "meaning_main": "リアータ（投げ縄・引き綱）",
+    "description": "reata の意味・発音・例文・語源を解説。カウボーイが家畜を捕らえるのに使う投げ縄・引き綱「リアータ」という、牧畜やアメリカ西部で使う語の使い方と、lariat との関係を紹介します。",
+    "keywords": ["reata 意味", "reata 発音", "リアータ", "投げ縄"],
+    "meanings": [
+      { "hinshi": "【名詞】リアータ（投げ縄・引き綱）", "note": "牛馬を捕らえたりつないだりするための綱・投げ縄。riata とも綴る。英語の lariat（投げ縄）はこの la reata（その綱）が変化した語。" }
+    ],
+    "usages": [
+      { "title": "① 「投げ縄」として", "desc": "家畜を捕らえる綱を表します。", "example_en": "The vaquero coiled his reata and roped the calf.", "example_ja": "牧夫はリアータを巻き取り、子牛に縄をかけた。" },
+      { "title": "② 「引き綱」として", "desc": "馬をつなぐ綱を表します。", "example_en": "He led the horse by a braided reata.", "example_ja": "彼は編んだリアータで馬を引いた。" }
+    ],
+    "warn": [
+      "reata は『リアータ（投げ縄・引き綱）』。riata とも綴る。スペイン語 reata 由来。",
+      "英語の lariat は la reata（その綱）が一語化したもの。"
+    ],
+    "etym_note": "スペイン語 reata（『（家畜を）つなぐ綱』、reatar「縛りつける」、re-＋ atar「縛る」より）に由来します。冠詞をつけた la reata が英語で lariat（投げ縄）になりました。",
+    "etym_chain": [
+      { "node": "atar", "sub": "縛る", "era": "スペイン語" },
+      { "node": "reata", "sub": "つなぎ綱", "era": "スペイン語" },
+      { "node": "reata / lariat", "sub": "リアータ・投げ縄", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "coil a reata", "ja": "リアータを巻く" },
+      { "en": "a braided reata", "ja": "編んだリアータ" },
+      { "en": "throw the reata", "ja": "リアータを投げる" },
+      { "en": "a rawhide reata", "ja": "生皮のリアータ" },
+      { "en": "rope with a reata", "ja": "リアータで縄をかける" },
+      { "en": "lead by a reata", "ja": "リアータで引く" }
+    ],
+    "related": [
+      { "en": "lariat", "ja": "投げ縄" },
+      { "en": "lasso", "ja": "投げ縄・なげ縄でとらえる" },
+      { "en": "vaquero", "ja": "（スペイン系の）カウボーイ" },
+      { "en": "rope", "ja": "縄・綱" }
+    ],
+    "faq": [
+      { "q": "reata とはどんな意味？", "a": "カウボーイが牛馬を捕らえたりつないだりするための投げ縄・引き綱『リアータ』のことです。The vaquero coiled his reata.（牧夫はリアータを巻き取った）のように使います。riata とも綴ります。" },
+      { "q": "reata と lariat の関係は？", "a": "英語の lariat（投げ縄）は、スペイン語の la reata（その綱）が一語にまとまってできた語です。つまり reata が lariat の語源です。" }
+    ],
+    "quiz": [
+      { "q": "The vaquero coiled his ___ and roped the calf.（投げ縄）", "A": "reata", "B": "regatta のレガッタ", "C": "sonata のソナタ", "D": "errata の正誤表", "correct": "A" },
+      { "q": "英語 lariat の語源となったのはどれ？", "A": "la reata（その綱）", "B": "la luna（月）", "C": "el toro（牛）", "D": "la casa（家）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rabato",
+    "pron": "rəˈbɑːtəʊ",
+    "kana": "ラバート",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 rabat（折り返した襟）、rabattre（折り返す）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "服飾・歴史"],
+    "meaning_main": "ラバート（16〜17世紀の立て襟・襟飾り）",
+    "description": "rabato の意味・発音・例文・語源を解説。16〜17世紀に流行した、首の後ろで立てて支える広い襟飾り「ラバート」という、服飾史で使う語の使い方を紹介します。rebato とも。",
+    "keywords": ["rabato 意味", "rabato 発音", "ラバート", "襟飾り"],
+    "meanings": [
+      { "hinshi": "【名詞】ラバート", "note": "16〜17世紀のヨーロッパで流行した、針金などの枠で首の後ろに立てて支えた広く豪華な襟飾り。ひだ襟（ruff）を立てるための支えも指す。rebato とも綴る。" }
+    ],
+    "usages": [
+      { "title": "① 「立て襟」として", "desc": "豪華な襟飾りを表します。", "example_en": "The portrait shows a lady wearing a stiff lace rabato.", "example_ja": "その肖像画には、こわばったレースのラバートをつけた婦人が描かれている。" },
+      { "title": "② 「襟の支え」として", "desc": "ひだ襟の支持具を表します。", "example_en": "A wire rabato held the ruff upright.", "example_ja": "針金のラバートがひだ襟を立てて支えていた。" }
+    ],
+    "warn": [
+      "rabato は『ラバート（16〜17世紀の立て襟・襟飾り）』。rebato とも綴る。服飾史の語。",
+      "ひだ襟（ruff）を首の後ろで立てて見せるための支えや、それ自体の広い襟を指す。"
+    ],
+    "etym_note": "フランス語 rabat（『折り返した襟・垂れ襟』、rabattre「折り返す・たたみ下げる」より）に由来します。襟を折り返したり立てたりする装飾であることから。",
+    "etym_chain": [
+      { "node": "rabattre", "sub": "折り返す", "era": "フランス語" },
+      { "node": "rabat", "sub": "折り返した襟", "era": "フランス語" },
+      { "node": "rabato", "sub": "ラバート（立て襟）", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a lace rabato", "ja": "レースのラバート" },
+      { "en": "wear a rabato", "ja": "ラバートをつける" },
+      { "en": "a stiff rabato", "ja": "こわばったラバート" },
+      { "en": "a wire rabato", "ja": "針金のラバート" },
+      { "en": "the rabato of a ruff", "ja": "ひだ襟のラバート" },
+      { "en": "an ornate rabato", "ja": "華麗なラバート" }
+    ],
+    "related": [
+      { "en": "ruff", "ja": "ひだ襟・ラフ" },
+      { "en": "collar", "ja": "襟" },
+      { "en": "lace", "ja": "レース" },
+      { "en": "doublet", "ja": "ダブレット（胴着）" }
+    ],
+    "faq": [
+      { "q": "rabato とはどんな意味？", "a": "16〜17世紀のヨーロッパで流行した、首の後ろに立てて支えた広く豪華な襟飾り『ラバート』のことです。The portrait shows a lady wearing a lace rabato.（レースのラバートをつけた婦人が描かれている）のように使います。" },
+      { "q": "rabato と ruff の関係は？", "a": "ruff（ひだ襟・ラフ）は首回りのひだ状の襟、rabato はそれを首の後ろで立てて支える枠や、それ自体の広い襟を指します。当時の華やかな襟飾りの一部です。" }
+    ],
+    "quiz": [
+      { "q": "The portrait shows a lady wearing a stiff lace ___.（ラバート）", "A": "rabato", "B": "tomato のトマト", "C": "potato のジャガイモ", "D": "tornado の竜巻", "correct": "A" },
+      { "q": "rabato は体のどこにつける装飾？", "A": "首・襟", "B": "手首", "C": "足首", "D": "腰", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rappee",
+    "pron": "ræˈpiː",
+    "kana": "ラピー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 (tabac) râpé（すりおろしたタバコ）、râper（すりおろす）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "歴史・嗜好品"],
+    "meaning_main": "ラピー（粗くひいた濃い嗅ぎタバコ）",
+    "description": "rappee の意味・発音・例文・語源を解説。粗くすりおろした、香りの強い嗅ぎタバコ（スナッフ）の一種「ラピー」という、歴史や嗜好品で使う語の使い方を紹介します。",
+    "keywords": ["rappee 意味", "rappee 発音", "ラピー", "嗅ぎタバコ"],
+    "meanings": [
+      { "hinshi": "【名詞】ラピー", "note": "粗くすりおろした、濃く香りの強い嗅ぎタバコ（snuff）の一種。18〜19世紀に好まれた。フランス語 râpé（すりおろした）に由来。" }
+    ],
+    "usages": [
+      { "title": "① 「嗅ぎタバコ」として", "desc": "粗びきのスナッフを表します。", "example_en": "The old gentleman took a pinch of rappee.", "example_ja": "その老紳士はラピーをひとつまみ吸った。" },
+      { "title": "② 「香りの強さ」として", "desc": "濃い風味を表します。", "example_en": "Rappee had a stronger scent than fine snuff.", "example_ja": "ラピーは上等な細かい嗅ぎタバコより香りが強かった。" }
+    ],
+    "warn": [
+      "rappee は『ラピー（粗くひいた濃い嗅ぎタバコ）』。フランス語 râpé（すりおろした）由来。歴史・嗜好品の語。",
+      "嗅ぎタバコ（snuff）全般の中で、特に粗びきで香りの強いものを指す。"
+    ],
+    "etym_note": "フランス語 (tabac) râpé（『すりおろした（タバコ）』、râper「すりおろす」、おろし金 râpe より）に由来します。粗くおろして作ることから。rasp（やすり・削る）と語源的につながります。",
+    "etym_chain": [
+      { "node": "râper", "sub": "すりおろす", "era": "フランス語" },
+      { "node": "tabac râpé", "sub": "すりおろしたタバコ", "era": "フランス語" },
+      { "node": "rappee", "sub": "ラピー", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a pinch of rappee", "ja": "ひとつまみのラピー" },
+      { "en": "take rappee", "ja": "ラピーを吸う" },
+      { "en": "a box of rappee", "ja": "ラピーの箱" },
+      { "en": "strong rappee", "ja": "濃いラピー" },
+      { "en": "coarse rappee", "ja": "粗びきのラピー" },
+      { "en": "scented rappee", "ja": "香りつきのラピー" }
+    ],
+    "related": [
+      { "en": "snuff", "ja": "嗅ぎタバコ" },
+      { "en": "tobacco", "ja": "タバコ" },
+      { "en": "pinch", "ja": "ひとつまみ" },
+      { "en": "snuffbox", "ja": "嗅ぎタバコ入れ" }
+    ],
+    "faq": [
+      { "q": "rappee とはどんな意味？", "a": "粗くすりおろした、濃く香りの強い嗅ぎタバコ（snuff）の一種『ラピー』のことです。The old gentleman took a pinch of rappee.（老紳士はラピーをひとつまみ吸った）のように使います。" },
+      { "q": "rappee の名前の由来は？", "a": "フランス語 râpé（すりおろした）に由来します。タバコの葉を粗くおろして作ることから名づけられ、やすりを意味する rasp と語源を共有します。" }
+    ],
+    "quiz": [
+      { "q": "The old gentleman took a pinch of ___.（ラピー）", "A": "rappee", "B": "coffee のコーヒー", "C": "toffee のタフィー", "D": "trustee の受託者", "correct": "A" },
+      { "q": "rappee はどんなもの？", "A": "粗びきの嗅ぎタバコ", "B": "焼き菓子", "C": "香水", "D": "飲み物", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rimland",
+    "pron": "ˈrɪmlænd",
+    "kana": "リムランド",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rim（縁）＋ land（陸地）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "地政学・地理"],
+    "meaning_main": "リムランド（大陸を縁取る沿岸地帯）",
+    "description": "rimland の意味・発音・例文・語源を解説。ユーラシア大陸の中心部（ハートランド）を取り巻く沿岸地帯「リムランド」という、地政学で使う語の使い方と、その戦略的意義を紹介します。",
+    "keywords": ["rimland 意味", "rimland 発音", "リムランド", "地政学"],
+    "meanings": [
+      { "hinshi": "【名詞】リムランド", "note": "地政学で、ユーラシア大陸の中心（ハートランド）を取り巻く沿岸の縁地帯。学者スパイクマンが、この縁こそが世界支配の鍵だと論じた。" }
+    ],
+    "usages": [
+      { "title": "① 「沿岸の縁地帯」として", "desc": "大陸の周縁を表します。", "example_en": "Spykman argued that whoever controls the rimland rules Eurasia.", "example_ja": "スパイクマンはリムランドを制する者がユーラシアを支配すると論じた。" },
+      { "title": "② 「戦略的地域」として", "desc": "地政学的要地を表します。", "example_en": "The rimland includes Western Europe and East Asia.", "example_ja": "リムランドには西ヨーロッパや東アジアが含まれる。" }
+    ],
+    "warn": [
+      "rimland は『リムランド（大陸を縁取る沿岸地帯）』。地政学の専門語。rim（縁）＋ land。",
+      "大陸中心部の heartland（ハートランド）と対をなす概念。"
+    ],
+    "etym_note": "rim（『縁・へり』、古英語 rima より）＋ land（『陸地』）から成り、「（大陸の）縁の陸地」を意味します。地政学者ニコラス・スパイクマンが heartland に対する概念として提唱しました。",
+    "etym_chain": [
+      { "node": "rim + land", "sub": "縁＋陸地", "era": "英語" },
+      { "node": "rimland", "sub": "縁の陸地", "era": "20世紀英語" },
+      { "node": "rimland", "sub": "リムランド（地政学）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "control the rimland", "ja": "リムランドを制する" },
+      { "en": "the Eurasian rimland", "ja": "ユーラシアのリムランド" },
+      { "en": "rimland theory", "ja": "リムランド理論" },
+      { "en": "heartland and rimland", "ja": "ハートランドとリムランド" },
+      { "en": "the strategic rimland", "ja": "戦略的なリムランド" },
+      { "en": "states of the rimland", "ja": "リムランドの諸国" }
+    ],
+    "related": [
+      { "en": "heartland", "ja": "ハートランド・中核地域" },
+      { "en": "geopolitics", "ja": "地政学" },
+      { "en": "littoral", "ja": "沿岸の・沿岸地帯" },
+      { "en": "hinterland", "ja": "後背地・奥地" }
+    ],
+    "faq": [
+      { "q": "rimland とはどんな意味？", "a": "地政学で、ユーラシア大陸の中心部（ハートランド）を取り巻く沿岸の縁地帯『リムランド』のことです。Whoever controls the rimland rules Eurasia.（リムランドを制する者がユーラシアを支配する）のように使います。" },
+      { "q": "rimland と heartland の違いは？", "a": "heartland は大陸の『中心部（内陸の核）』、rimland はそれを取り巻く『沿岸の縁地帯』です。スパイクマンは、海と内陸の間にある rimland こそ戦略上の鍵だと論じました。" }
+    ],
+    "quiz": [
+      { "q": "Spykman argued that whoever controls the ___ rules Eurasia.（リムランド）", "A": "rimland", "B": "wonderland の不思議の国", "C": "homeland の故国", "D": "farmland の農地", "correct": "A" },
+      { "q": "rimland と対をなす地政学の概念はどれ？", "A": "heartland（ハートランド）", "B": "island（島）", "C": "lowland（低地）", "D": "wetland（湿地）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "relievo",
+    "pron": "rɪˈliːvəʊ",
+    "kana": "リリーボ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "イタリア語 rilievo（浮き彫り）、rilevare（持ち上げる）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "美術・彫刻"],
+    "meaning_main": "浮き彫り・レリーフ（relief の別形）",
+    "description": "relievo の意味・発音・例文・語源を解説。平らな面から像を浮き上がらせて彫る「浮き彫り・レリーフ」という、美術・彫刻で使う語（relief のイタリア語形）の使い方を紹介します。",
+    "keywords": ["relievo 意味", "relievo 発音", "浮き彫り", "レリーフ"],
+    "meanings": [
+      { "hinshi": "【名詞】浮き彫り・レリーフ", "note": "平らな面から像を浮き上がらせて表す彫刻技法、またその作品。英語の relief と同義で、イタリア語形 rilievo に由来する。alto-relievo（高浮き彫り）などの形で使う。" }
+    ],
+    "usages": [
+      { "title": "① 「浮き彫り」として", "desc": "彫刻技法を表します。", "example_en": "The temple walls were carved in relievo.", "example_ja": "神殿の壁は浮き彫りで彫られていた。" },
+      { "title": "② 「高浮き彫り」として", "desc": "浮き上がりの度合いを表します。", "example_en": "The figures stood out in bold alto-relievo.", "example_ja": "人物像は大胆な高浮き彫りで際立っていた。" }
+    ],
+    "warn": [
+      "relievo は『浮き彫り・レリーフ』。英語 relief と同義のイタリア語形 rilievo に由来。",
+      "alto-relievo（高浮き彫り）、basso-relievo（低浮き彫り）の形で使う。"
+    ],
+    "etym_note": "イタリア語 rilievo（『浮き彫り・隆起』、rilevare「持ち上げる・浮き上がらせる」、ラテン語 relevare より）に由来します。英語の relief（浮き彫り・安堵）と同じ relevare の系統です。",
+    "etym_chain": [
+      { "node": "relevare", "sub": "持ち上げる", "era": "ラテン語" },
+      { "node": "rilievo", "sub": "浮き彫り", "era": "イタリア語" },
+      { "node": "relievo", "sub": "浮き彫り・レリーフ", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "carved in relievo", "ja": "浮き彫りで彫られた" },
+      { "en": "alto-relievo", "ja": "高浮き彫り" },
+      { "en": "basso-relievo", "ja": "低浮き彫り" },
+      { "en": "a relievo panel", "ja": "浮き彫りのパネル" },
+      { "en": "figures in relievo", "ja": "浮き彫りの人物像" },
+      { "en": "decorative relievo", "ja": "装飾的な浮き彫り" }
+    ],
+    "related": [
+      { "en": "relief", "ja": "浮き彫り・レリーフ" },
+      { "en": "bas-relief", "ja": "低浮き彫り・バスレリーフ" },
+      { "en": "sculpture", "ja": "彫刻" },
+      { "en": "carving", "ja": "彫り物" }
+    ],
+    "faq": [
+      { "q": "relievo とはどんな意味？", "a": "平らな面から像を浮き上がらせて表す『浮き彫り・レリーフ』のことです。英語の relief と同義で、イタリア語形 rilievo に由来します。The walls were carved in relievo.（壁は浮き彫りで彫られていた）のように使います。" },
+      { "q": "alto-relievo と basso-relievo の違いは？", "a": "alto-relievo（高浮き彫り）は像が面から大きく突き出るもの、basso-relievo（低浮き彫り）はわずかに浮き出るものです。浮き上がりの度合いの違いです。" }
+    ],
+    "quiz": [
+      { "q": "The temple walls were carved in ___.（浮き彫り）", "A": "relievo", "B": "relievo の同音 relief ではなく retrieve（取り戻す）", "C": "believe の信じる", "D": "relieve の和らげる", "correct": "A" },
+      { "q": "relievo と同義の英語はどれ？", "A": "relief（浮き彫り）", "B": "release（解放）", "C": "reverse（逆）", "D": "review（再検討）", "correct": "A" }
+    ]
+  }
+]

@@ -1,0 +1,525 @@
+[
+  {
+    "english": "republish",
+    "pron": "ˌriːˈpʌblɪʃ",
+    "kana": "リパブリッシュ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ publish（出版する・公開する）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "出版・IT"],
+    "meaning_main": "再出版する・再掲載する・再び公開する",
+    "description": "republish の意味・発音・例文・語源を解説。本を「再出版する」、記事やページを「再掲載する・再び公開する」という、出版やウェブで使う語の使い方を紹介します。",
+    "keywords": ["republish 意味", "republish 発音", "再出版する", "publish 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再出版する・再掲載する・再び公開する", "note": "一度出版・公開したものを再び出す。republish the book（本を再出版する）。ウェブでは記事の再掲載。名詞は republication。" }
+    ],
+    "usages": [
+      { "title": "① 「本を再出版する」として", "desc": "改めて出版することを表します。", "example_en": "The classic novel was republished with new illustrations.", "example_ja": "その古典小説は新しい挿絵をつけて再出版された。" },
+      { "title": "② ウェブ「再掲載する」として", "desc": "記事を再び公開することを表します。", "example_en": "The article was republished on another site.", "example_ja": "その記事は別のサイトに再掲載された。" }
+    ],
+    "warn": [
+      "republish は『再出版する・再掲載する・再び公開する』。re-（再び）＋ publish。名詞は republication。",
+      "本・雑誌の再版や、ウェブ記事の転載・再公開に使う。"
+    ],
+    "etym_note": "re-（再び）＋ publish（『出版する・公にする』、ラテン語 publicare「公にする」、publicus「公の」より）から成り、「再び公にすること」を意味します。public（公の）と同じ語根です。",
+    "etym_chain": [
+      { "node": "publicare", "sub": "公にする", "era": "ラテン語" },
+      { "node": "publish", "sub": "出版する・公開する", "era": "中英語" },
+      { "node": "republish", "sub": "再出版する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "republish the book", "ja": "本を再出版する" },
+      { "en": "republish an article", "ja": "記事を再掲載する" },
+      { "en": "republished with permission", "ja": "許可を得て再掲載された" },
+      { "en": "republish online", "ja": "ネットで再公開する" },
+      { "en": "a republished edition", "ja": "再版" },
+      { "en": "republish the report", "ja": "報告書を再公開する" }
+    ],
+    "related": [
+      { "en": "publish", "ja": "出版する・公開する" },
+      { "en": "republication", "ja": "再出版・再掲載" },
+      { "en": "reprint", "ja": "重版する・再印刷する" },
+      { "en": "repost", "ja": "再投稿する" }
+    ],
+    "faq": [
+      { "q": "republish とはどんな意味？", "a": "本を『再出版する』、記事やページを『再掲載する・再び公開する』という意味です。The article was republished on another site.（その記事は別サイトに再掲載された）のように使います。名詞は republication です。" },
+      { "q": "republish と reprint の違いは？", "a": "reprint は『（同じ内容を）もう一度印刷する・重版する』、republish は『再び出版・公開する（新版・別媒体への掲載も含む）』点に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The article was ___ed on another site.（再掲載された）", "A": "republish", "B": "publish の最初に出版するだけ", "C": "punish の罰する", "D": "polish の磨く", "correct": "A" },
+      { "q": "republish のもとになった動詞はどれ？", "A": "publish（出版する・公開する）", "B": "punish（罰する）", "C": "polish（磨く）", "D": "perish（滅びる）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reprint",
+    "pron": "ˌriːˈprɪnt",
+    "kana": "リプリント",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ print（印刷する）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "出版"],
+    "meaning_main": "重版する・再印刷する／重版・増刷（したもの）",
+    "description": "reprint の意味・発音・例文・語源を解説。本などを「重版する・再印刷する」という動詞と、「重版・増刷（したもの）」という名詞の使い方を分かりやすく紹介します。",
+    "keywords": ["reprint 意味", "reprint 発音", "重版", "print 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】重版する・再印刷する・刷り直す", "note": "同じ内容をもう一度印刷する。The book was reprinted ten times.（その本は10回重版された）。" },
+      { "hinshi": "【名詞】重版・増刷・再版（したもの）", "note": "a reprint of the novel（その小説の重版）。" }
+    ],
+    "usages": [
+      { "title": "① 動詞「重版する」として", "desc": "もう一度印刷することを表します。", "example_en": "The publisher decided to reprint the bestseller.", "example_ja": "出版社はそのベストセラーの重版を決めた。" },
+      { "title": "② 名詞「重版」として", "desc": "増刷したものを表します。", "example_en": "This is a reprint of the 1950 edition.", "example_ja": "これは1950年版の重版だ。" }
+    ],
+    "warn": [
+      "reprint は『重版する・再印刷する』『重版・増刷（名詞）』。re-（再び）＋ print。",
+      "内容は同じで、もう一度刷ること。内容を変える new edition（改訂版）とは区別。"
+    ],
+    "etym_note": "re-（再び）＋ print（『印刷する・刷る』、古フランス語 preinte「押された跡」、ラテン語 premere「押す」より）から成り、「再び印刷すること」を意味します。press（押す）, imprint（刻印）と同じ語根です。",
+    "etym_chain": [
+      { "node": "premere", "sub": "押す", "era": "ラテン語" },
+      { "node": "print", "sub": "印刷する・刷る", "era": "中英語" },
+      { "node": "reprint", "sub": "重版する・再印刷する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reprint the book", "ja": "本を重版する" },
+      { "en": "go into reprint", "ja": "重版に入る" },
+      { "en": "a reprint of the edition", "ja": "その版の重版" },
+      { "en": "reprint on demand", "ja": "オンデマンド印刷する" },
+      { "en": "the third reprint", "ja": "第3刷" },
+      { "en": "out of print, awaiting reprint", "ja": "品切れ・重版待ち" }
+    ],
+    "related": [
+      { "en": "print", "ja": "印刷する・刷る" },
+      { "en": "republish", "ja": "再出版する" },
+      { "en": "edition", "ja": "版" },
+      { "en": "impression", "ja": "刷り（印刷の回数）" }
+    ],
+    "faq": [
+      { "q": "reprint とはどんな意味？", "a": "本などを『重版する・再印刷する・刷り直す』という動詞、また『重版・増刷（したもの）』という名詞です。The book was reprinted ten times.（その本は10回重版された）のように使います。" },
+      { "q": "reprint と new edition の違いは？", "a": "reprint（重版）は『内容を変えずにもう一度刷ること』、new edition（改訂版）は『内容を直して新しくした版』です。重版は同じ内容、改訂版は内容が変わります。" }
+    ],
+    "quiz": [
+      { "q": "The publisher decided to ___ the bestseller.（重版する）", "A": "reprint", "B": "print の最初に印刷するだけ", "C": "sprint の全力疾走する", "D": "imprint の刻印する", "correct": "A" },
+      { "q": "reprint（重版）の意味として正しいのは？", "A": "内容を変えずもう一度印刷する", "B": "内容を大きく書き換える", "C": "本を絶版にする", "D": "本を回収する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "repost",
+    "pron": "ˌriːˈpoʊst",
+    "kana": "リポスト",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ post（投稿する）",
+    "ld_level": "2級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "SNS・IT"],
+    "meaning_main": "（SNSに）再投稿する・転載する／再投稿（したもの）",
+    "description": "repost の意味・発音・例文・語源を解説。SNSやネットで他人や自分の投稿を「再投稿する・転載する」という動詞と、「再投稿」という名詞の使い方を紹介します。",
+    "keywords": ["repost 意味", "repost 発音", "再投稿", "post 投稿"],
+    "meanings": [
+      { "hinshi": "【動詞】（SNS・ネットに）再投稿する・転載する・もう一度載せる", "note": "他人や自分の投稿を改めて載せる。repost the photo（写真を再投稿する）。" },
+      { "hinshi": "【名詞】再投稿（したもの）", "note": "a repost of an old article（古い記事の再投稿）。" }
+    ],
+    "usages": [
+      { "title": "① 「写真を再投稿する」として", "desc": "もう一度載せることを表します。", "example_en": "She reposted the photo on her story.", "example_ja": "彼女はその写真をストーリーに再投稿した。" },
+      { "title": "② 「記事を転載する」として", "desc": "他の場所に載せ直すことを表します。", "example_en": "He reposted the article with credit.", "example_ja": "彼はクレジットをつけてその記事を転載した。" }
+    ],
+    "warn": [
+      "repost は『（SNS・ネットに）再投稿する・転載する』『再投稿（名詞）』。re-（再び）＋ post（投稿する）。",
+      "他人の投稿を自分のところにシェアする意味でも使う（retweet/share に近い）。出典明記（credit）に注意。"
+    ],
+    "etym_note": "re-（再び）＋ post（『（掲示・投稿で）載せる』、もとは『（情報を）掲示する』、ラテン語 ponere「置く」より）から成り、「再び載せること」を意味します。",
+    "etym_chain": [
+      { "node": "ponere", "sub": "置く", "era": "ラテン語" },
+      { "node": "post", "sub": "掲示する・投稿する", "era": "近代英語" },
+      { "node": "repost", "sub": "再投稿する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "repost the photo", "ja": "写真を再投稿する" },
+      { "en": "repost with credit", "ja": "出典をつけて転載する" },
+      { "en": "repost on social media", "ja": "SNSで再投稿する" },
+      { "en": "a repost of an old post", "ja": "古い投稿の再投稿" },
+      { "en": "feel free to repost", "ja": "自由に転載してください" },
+      { "en": "repost the story", "ja": "ストーリーを再投稿する" }
+    ],
+    "related": [
+      { "en": "post", "ja": "投稿する・投稿" },
+      { "en": "share", "ja": "シェアする・共有する" },
+      { "en": "retweet", "ja": "リツイートする" },
+      { "en": "forward", "ja": "転送する" }
+    ],
+    "faq": [
+      { "q": "repost とはどんな意味？", "a": "SNSやネットで他人や自分の投稿を『再投稿する・転載する・もう一度載せる』という意味です。She reposted the photo on her story.（写真をストーリーに再投稿した）のように使います。" },
+      { "q": "repost と share の違いは？", "a": "share（シェア）は『（他人の投稿を）共有・拡散する』、repost は『（投稿を）改めて載せ直す・転載する』で意味が重なります。プラットフォームによって呼び方や仕組みが異なります。" }
+    ],
+    "quiz": [
+      { "q": "She ___ed the photo on her story.（再投稿した）", "A": "repost", "B": "post の最初に投稿するだけ", "C": "boost の押し上げる", "D": "roast の焼く", "correct": "A" },
+      { "q": "repost のもとになった動詞はどれ？", "A": "post（投稿する）", "B": "boost（押し上げる）", "C": "roast（焼く）", "D": "coast（滑走する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reoffend",
+    "pron": "ˌriːəˈfend",
+    "kana": "リオフェンド",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ offend（罪を犯す)",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "法律・社会"],
+    "meaning_main": "再び罪を犯す・再犯する",
+    "description": "reoffend の意味・発音・例文・語源を解説。一度刑罰を受けた人が「再び罪を犯す・再犯する」という、法律・刑事政策で使う語の使い方を分かりやすく紹介します。",
+    "keywords": ["reoffend 意味", "reoffend 発音", "再犯する", "offend 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再び罪を犯す・再犯する", "note": "一度処罰された人がまた犯罪を犯す。be likely to reoffend（再犯のおそれがある）。名詞は reoffending（再犯）、再犯者は reoffender。" }
+    ],
+    "usages": [
+      { "title": "① 「再犯する」として", "desc": "また罪を犯すことを表します。", "example_en": "Many offenders reoffend within a year.", "example_ja": "多くの犯罪者は1年以内に再犯する。" },
+      { "title": "② 刑事政策の文脈で", "desc": "再犯防止を表します。", "example_en": "Programs aim to stop prisoners from reoffending.", "example_ja": "プログラムは受刑者の再犯防止を目指している。" }
+    ],
+    "warn": [
+      "reoffend は『再び罪を犯す・再犯する』。re-（再び）＋ offend（罪を犯す／（人を）怒らせる）。名詞 reoffending（再犯）、reoffender（再犯者）。",
+      "ここでの offend は『罪を犯す』の意味（『気分を害させる』の offend とは用法が違う）。"
+    ],
+    "etym_note": "re-（再び）＋ offend（『罪を犯す・違反する／怒らせる』、ラテン語 offendere「ぶつかる・つまずく」より）から成り、「再び罪を犯すこと」を意味します。offense（罪・違反）と同じ語根です。",
+    "etym_chain": [
+      { "node": "offendere", "sub": "ぶつかる・つまずく", "era": "ラテン語" },
+      { "node": "offend", "sub": "罪を犯す・怒らせる", "era": "中英語" },
+      { "node": "reoffend", "sub": "再犯する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be likely to reoffend", "ja": "再犯のおそれがある" },
+      { "en": "reoffend within a year", "ja": "1年以内に再犯する" },
+      { "en": "stop them from reoffending", "ja": "再犯を防ぐ" },
+      { "en": "the risk of reoffending", "ja": "再犯のリスク" },
+      { "en": "reoffending rates", "ja": "再犯率" },
+      { "en": "less likely to reoffend", "ja": "再犯しにくい" }
+    ],
+    "related": [
+      { "en": "offend", "ja": "罪を犯す・怒らせる" },
+      { "en": "offender", "ja": "犯罪者・違反者" },
+      { "en": "recidivism", "ja": "再犯（の傾向）" },
+      { "en": "rehabilitate", "ja": "更生させる" }
+    ],
+    "faq": [
+      { "q": "reoffend とはどんな意味？", "a": "一度刑罰を受けた人が『再び罪を犯す・再犯する』という意味です。Many offenders reoffend within a year.（多くの犯罪者は1年以内に再犯する）のように使います。名詞は reoffending（再犯）です。" },
+      { "q": "reoffend と recidivism の違いは？", "a": "reoffend は動詞『再犯する』、recidivism は名詞『再犯（の傾向・現象）』です。reoffending（再犯）もほぼ同義の名詞として使われます。" }
+    ],
+    "quiz": [
+      { "q": "Many offenders ___ within a year.（再犯する）", "A": "reoffend", "B": "offend の最初に罪を犯すだけ", "C": "defend の守る", "D": "depend の頼る", "correct": "A" },
+      { "q": "reoffend の名詞形（再犯）はどれ？", "A": "reoffending（再犯）", "B": "defense（防御）", "C": "dependence（依存）", "D": "intention（意図）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "renumber",
+    "pron": "ˌriːˈnʌmbər",
+    "kana": "リナンバー",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ number（番号をつける）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "日常・事務"],
+    "meaning_main": "番号をつけ直す・番号を振り直す",
+    "description": "renumber の意味・発音・例文・語源を解説。ページ・項目・座席などの「番号をつけ直す・振り直す」という、事務・編集で使う語の使い方を分かりやすく紹介します。",
+    "keywords": ["renumber 意味", "renumber 発音", "番号をつけ直す", "number 動詞"],
+    "meanings": [
+      { "hinshi": "【動詞】番号をつけ直す・番号を振り直す", "note": "順番が変わったときなどに番号を割り当て直す。renumber the pages（ページ番号を振り直す）。動詞 number は『番号をつける』。" }
+    ],
+    "usages": [
+      { "title": "① 「ページを振り直す」として", "desc": "番号をつけ直すことを表します。", "example_en": "We had to renumber the pages after adding a chapter.", "example_ja": "章を追加したのでページ番号を振り直さねばならなかった。" },
+      { "title": "② 「項目を振り直す」として", "desc": "番号を割り当て直すことを表します。", "example_en": "Renumber the items in order.", "example_ja": "項目を順番に番号付けし直しなさい。" }
+    ],
+    "warn": [
+      "renumber は『番号をつけ直す・番号を振り直す』。re-（再び）＋ number（番号をつける）。",
+      "ページ・項目・座席・通し番号などを割り当て直す事務的な文脈で使う。"
+    ],
+    "etym_note": "re-（再び）＋ number（『番号・番号をつける』、古フランス語 nombre、ラテン語 numerus「数」より）から成り、「再び番号をつけること」を意味します。",
+    "etym_chain": [
+      { "node": "numerus", "sub": "数", "era": "ラテン語" },
+      { "node": "number", "sub": "番号・番号をつける", "era": "中英語" },
+      { "node": "renumber", "sub": "番号をつけ直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "renumber the pages", "ja": "ページ番号を振り直す" },
+      { "en": "renumber the items", "ja": "項目を番号付けし直す" },
+      { "en": "renumber the seats", "ja": "座席番号を振り直す" },
+      { "en": "automatically renumber", "ja": "自動で番号を振り直す" },
+      { "en": "renumber the list", "ja": "リストを番号付けし直す" },
+      { "en": "renumber the houses", "ja": "家屋番号を振り直す" }
+    ],
+    "related": [
+      { "en": "number", "ja": "番号・番号をつける" },
+      { "en": "reorder", "ja": "並べ替える" },
+      { "en": "reindex", "ja": "索引を作り直す" },
+      { "en": "relabel", "ja": "ラベルを付け直す" }
+    ],
+    "faq": [
+      { "q": "renumber とはどんな意味？", "a": "ページ・項目・座席などの『番号をつけ直す・振り直す』という意味です。We had to renumber the pages after adding a chapter.（章を追加したのでページ番号を振り直した）のように使います。" },
+      { "q": "renumber はどんな場面で使う？", "a": "文書に項目や章を追加・削除して順番が変わったとき、座席や部屋の配置を変えたときなど、すでに振った番号を割り当て直す必要がある場面で使います。" }
+    ],
+    "quiz": [
+      { "q": "We had to ___ the pages after adding a chapter.（番号を振り直す）", "A": "renumber", "B": "remember の思い出す", "C": "number の最初に番号をつけるだけ", "D": "slumber の眠り", "correct": "A" },
+      { "q": "renumber のもとになった動詞 number の意味は？", "A": "番号をつける", "B": "思い出す", "C": "眠る", "D": "数える（だけではない）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "repave",
+    "pron": "ˌriːˈpeɪv",
+    "kana": "リペイブ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ pave（舗装する）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "土木・日常"],
+    "meaning_main": "舗装し直す・再舗装する（道路などを）",
+    "description": "repave の意味・発音・例文・語源を解説。傷んだ道路や駐車場を「舗装し直す・再舗装する」という、土木・道路工事で使う語の使い方を分かりやすく紹介します。",
+    "keywords": ["repave 意味", "repave 発音", "舗装し直す", "pave 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】舗装し直す・再舗装する", "note": "傷んだ路面を新しく舗装し直す。repave the road（道路を舗装し直す）。動詞 pave は『（道を）舗装する』。" }
+    ],
+    "usages": [
+      { "title": "① 「道路を舗装し直す」として", "desc": "路面の張り替えを表します。", "example_en": "The city will repave the main road this summer.", "example_ja": "市はこの夏、幹線道路を舗装し直す予定だ。" },
+      { "title": "② 「駐車場を再舗装する」として", "desc": "傷んだ舗装の補修を表します。", "example_en": "They repaved the cracked parking lot.", "example_ja": "彼らはひび割れた駐車場を再舗装した。" }
+    ],
+    "warn": [
+      "repave は『舗装し直す・再舗装する』。re-（再び）＋ pave（舗装する）。",
+      "道路・歩道・駐車場など、傷んだ舗装面の補修・張り替えに使う。"
+    ],
+    "etym_note": "re-（再び）＋ pave（『舗装する・敷く』、ラテン語 pavire「突き固める」より）から成り、「再び舗装すること」を意味します。pavement（舗装・歩道）と同じ語根です。",
+    "etym_chain": [
+      { "node": "pavire", "sub": "突き固める", "era": "ラテン語" },
+      { "node": "pave", "sub": "舗装する", "era": "中英語" },
+      { "node": "repave", "sub": "舗装し直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "repave the road", "ja": "道路を舗装し直す" },
+      { "en": "repave the street", "ja": "通りを再舗装する" },
+      { "en": "repave the driveway", "ja": "私道を舗装し直す" },
+      { "en": "repave the parking lot", "ja": "駐車場を再舗装する" },
+      { "en": "be repaved", "ja": "舗装し直される" },
+      { "en": "repave with asphalt", "ja": "アスファルトで舗装し直す" }
+    ],
+    "related": [
+      { "en": "pave", "ja": "舗装する" },
+      { "en": "pavement", "ja": "舗装・歩道" },
+      { "en": "resurface", "ja": "（路面を）舗装し直す" },
+      { "en": "asphalt", "ja": "アスファルト" }
+    ],
+    "faq": [
+      { "q": "repave とはどんな意味？", "a": "傷んだ道路や駐車場を『舗装し直す・再舗装する』という意味です。The city will repave the main road this summer.（市は幹線道路を舗装し直す）のように使います。" },
+      { "q": "repave と resurface の違いは？", "a": "どちらも『路面を直す』ですが、repave は『（舗装を）し直す』全般、resurface は『（表面の層を）張り替える・打ち直す』点にやや重点があります。意味は近いです。" }
+    ],
+    "quiz": [
+      { "q": "The city will ___ the main road this summer.（舗装し直す）", "A": "repave", "B": "pave の最初に舗装するだけ", "C": "behave のふるまう", "D": "engrave の彫る", "correct": "A" },
+      { "q": "repave のもとになった動詞 pave の意味は？", "A": "舗装する", "B": "ふるまう", "C": "彫る", "D": "節約する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reinsure",
+    "pron": "ˌriːɪnˈʃʊər",
+    "kana": "リインシュア",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ insure（保険をかける）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "金融・保険"],
+    "meaning_main": "再保険をかける（保険会社が引き受けた危険を別の保険会社に移す）",
+    "description": "reinsure の意味・発音・例文・語源を解説。保険会社が引き受けたリスクの一部を、別の保険会社に「再保険をかける」という、保険・金融で使う語を紹介します。",
+    "keywords": ["reinsure 意味", "reinsure 発音", "再保険", "insure 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再保険をかける", "note": "保険会社が、引き受けた保険リスクの一部を別の保険会社に引き受けてもらうこと。reinsure the policy（その契約に再保険をかける）。名詞は reinsurance（再保険）。" }
+    ],
+    "usages": [
+      { "title": "① 「再保険をかける」として", "desc": "リスクを他社に移すことを表します。", "example_en": "Insurers reinsure large risks with other companies.", "example_ja": "保険会社は大きなリスクを他社に再保険する。" },
+      { "title": "② 金融の文脈で", "desc": "リスク分散を表します。", "example_en": "The company reinsured part of its portfolio.", "example_ja": "その会社はポートフォリオの一部を再保険した。" }
+    ],
+    "warn": [
+      "reinsure は『再保険をかける』（保険会社がリスクを別の保険会社に移す）。re-（再び）＋ insure（保険をかける）。名詞は reinsurance。",
+      "個人が入る保険ではなく、保険会社どうしのリスク分散の仕組み。"
+    ],
+    "etym_note": "re-（再び）＋ insure（『保険をかける・確実にする』、ensure と同源、古フランス語 enseürer「確かにする」より）から成り、「再び保険をかけること＝再保険」を意味します。sure（確かな）と同じ語根です。",
+    "etym_chain": [
+      { "node": "enseürer", "sub": "確かにする", "era": "古フランス語" },
+      { "node": "insure", "sub": "保険をかける", "era": "中英語" },
+      { "node": "reinsure", "sub": "再保険をかける", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reinsure the risk", "ja": "リスクに再保険をかける" },
+      { "en": "reinsure the policy", "ja": "契約に再保険をかける" },
+      { "en": "reinsure with another company", "ja": "別会社に再保険する" },
+      { "en": "a reinsurance company", "ja": "再保険会社" },
+      { "en": "reinsure part of the portfolio", "ja": "ポートフォリオの一部を再保険する" },
+      { "en": "spread risk by reinsuring", "ja": "再保険でリスクを分散する" }
+    ],
+    "related": [
+      { "en": "insure", "ja": "保険をかける" },
+      { "en": "reinsurance", "ja": "再保険" },
+      { "en": "insurance", "ja": "保険" },
+      { "en": "underwrite", "ja": "（保険を）引き受ける" }
+    ],
+    "faq": [
+      { "q": "reinsure とはどんな意味？", "a": "保険会社が、自社で引き受けた保険リスクの一部を別の保険会社に引き受けてもらう『再保険をかける』という意味です。Insurers reinsure large risks with other companies.（大きなリスクを他社に再保険する）のように使います。名詞は reinsurance です。" },
+      { "q": "再保険（reinsurance）はなぜ必要？", "a": "大地震など巨額の保険金が発生しうるリスクを、一社だけで抱えると経営が危うくなります。そこでリスクを他の保険会社に分けて引き受けてもらい、損害を分散するために再保険が使われます。" }
+    ],
+    "quiz": [
+      { "q": "Insurers ___ large risks with other companies.（再保険をかける）", "A": "reinsure", "B": "insure の最初に保険をかけるだけ", "C": "ensure の保証する", "D": "endure の耐える", "correct": "A" },
+      { "q": "reinsure の名詞形はどれ？", "A": "reinsurance（再保険）", "B": "insurance の最初の保険だけ", "C": "assurance（保証）", "D": "endurance（忍耐）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "resolvable",
+    "pron": "rɪˈzɒlvəbl",
+    "kana": "リゾルバブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "resolve（解決する）＋ -able（できる）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "議論・技術"],
+    "meaning_main": "解決できる・解消できる／（光学で）分解（識別）できる",
+    "description": "resolvable の意味・発音・例文・語源を解説。問題や対立が「解決できる・解消できる」、また光学で細部が「分解（識別）できる」という使い方を分かりやすく紹介します。",
+    "keywords": ["resolvable 意味", "resolvable 発音", "解決できる", "resolve 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】解決できる・解消できる", "note": "問題・対立を解決可能な。a resolvable dispute（解決できる紛争）。反対は unresolvable / irresolvable。" },
+      { "hinshi": "【形容詞】(光学・物理)分解できる・識別できる", "note": "望遠鏡などで細部を区別できる。" }
+    ],
+    "usages": [
+      { "title": "① 「解決できる問題」として", "desc": "解消できることを表します。", "example_en": "The conflict is resolvable through dialogue.", "example_ja": "その対立は対話で解決できる。" },
+      { "title": "② 光学「分解できる」として", "desc": "細部を識別できることを表します。", "example_en": "The two stars are barely resolvable.", "example_ja": "その2つの星はかろうじて分離して見える。" }
+    ],
+    "warn": [
+      "resolvable は『解決できる・解消できる』『（光学で）分解できる』。resolve（解決する／分解する）＋ -able。反対は unresolvable / irresolvable。",
+      "対立・問題（解決可能）と、光学（細部を識別可能）の両方で使う。"
+    ],
+    "etym_note": "resolve（『解決する・分解する』、ラテン語 resolvere「ほどく・解く」、re-「再び」＋ solvere「解く」より）＋ -able（できる）から成り、「解くことができる」を意味します。solve（解く）, solution（解決）と同じ語根です。",
+    "etym_chain": [
+      { "node": "resolvere", "sub": "ほどく・解く", "era": "ラテン語" },
+      { "node": "resolve", "sub": "解決する・分解する", "era": "中英語" },
+      { "node": "resolvable", "sub": "解決できる・分解できる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a resolvable dispute", "ja": "解決できる紛争" },
+      { "en": "resolvable through dialogue", "ja": "対話で解決できる" },
+      { "en": "easily resolvable", "ja": "簡単に解決できる" },
+      { "en": "a resolvable conflict", "ja": "解消できる対立" },
+      { "en": "barely resolvable", "ja": "かろうじて分離できる" },
+      { "en": "not resolvable", "ja": "解決できない" }
+    ],
+    "related": [
+      { "en": "resolve", "ja": "解決する・分解する" },
+      { "en": "resolution", "ja": "解決・解像度" },
+      { "en": "solvable", "ja": "（問題が）解ける" },
+      { "en": "unresolvable", "ja": "解決できない（反対）" }
+    ],
+    "faq": [
+      { "q": "resolvable とはどんな意味？", "a": "問題や対立が『解決できる・解消できる』、また光学で細部が『分解（識別）できる』という形容詞です。The conflict is resolvable through dialogue.（対立は対話で解決できる）のように使います。" },
+      { "q": "resolvable と solvable の違いは？", "a": "solvable は『（問題・パズルが）解ける』、resolvable は『（対立・疑問・問題を）解決・解消できる』に重点があります。光学では『分解できる（細部を区別できる）』の意味でも resolvable を使います。" }
+    ],
+    "quiz": [
+      { "q": "The conflict is ___ through dialogue.（解決できる）", "A": "resolvable", "B": "removable の取り外せる", "C": "reliable の信頼できる", "D": "remarkable の注目すべき", "correct": "A" },
+      { "q": "resolvable のもとになった動詞はどれ？", "A": "resolve（解決する・分解する）", "B": "remove（取り除く）", "C": "rely（頼る）", "D": "remark（述べる）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "restorable",
+    "pron": "rɪˈstɔːrəbl",
+    "kana": "リストーラブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "restore（修復する・元に戻す）＋ -able（できる）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "技術・芸術"],
+    "meaning_main": "修復できる・元に戻せる・復元できる",
+    "description": "restorable の意味・発音・例文・語源を解説。古い建物・データ・状態などが「修復できる・元に戻せる・復元できる」という、技術・芸術で使う形容詞を紹介します。",
+    "keywords": ["restorable 意味", "restorable 発音", "修復できる", "restore 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】修復できる・元に戻せる・復元できる", "note": "傷んだものや失われた状態を元に戻せる。a restorable building（修復できる建物）。反対は unrestorable。" }
+    ],
+    "usages": [
+      { "title": "① 「修復できる建物」として", "desc": "直して再生できることを表します。", "example_en": "The old house is run-down but restorable.", "example_ja": "その古い家は傷んでいるが修復できる。" },
+      { "title": "② データ「復元できる」として", "desc": "元に戻せることを表します。", "example_en": "The deleted files are still restorable.", "example_ja": "削除されたファイルはまだ復元できる。" }
+    ],
+    "warn": [
+      "restorable は『修復できる・元に戻せる・復元できる』。restore（修復する・元に戻す）＋ -able。反対は unrestorable。",
+      "建物・美術品（修復可能）、データ・設定（復元可能）などで使う。"
+    ],
+    "etym_note": "restore（『修復する・元に戻す』、ラテン語 restaurare「建て直す」より）＋ -able（できる）から成り、「元に戻すことができる」を意味します。restoration（修復）と同じ語根です。",
+    "etym_chain": [
+      { "node": "restaurare", "sub": "建て直す", "era": "ラテン語" },
+      { "node": "restore", "sub": "修復する・元に戻す", "era": "中英語" },
+      { "node": "restorable", "sub": "修復できる・復元できる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a restorable building", "ja": "修復できる建物" },
+      { "en": "still restorable", "ja": "まだ復元できる" },
+      { "en": "fully restorable", "ja": "完全に元に戻せる" },
+      { "en": "restorable to its original state", "ja": "元の状態に戻せる" },
+      { "en": "restorable data", "ja": "復元できるデータ" },
+      { "en": "not restorable", "ja": "修復できない" }
+    ],
+    "related": [
+      { "en": "restore", "ja": "修復する・元に戻す" },
+      { "en": "restoration", "ja": "修復・回復" },
+      { "en": "recoverable", "ja": "回復できる・復元できる" },
+      { "en": "repairable", "ja": "修理できる" }
+    ],
+    "faq": [
+      { "q": "restorable とはどんな意味？", "a": "古い建物・データ・状態などが『修復できる・元に戻せる・復元できる』という形容詞です。The old house is run-down but restorable.（傷んでいるが修復できる）のように使います。" },
+      { "q": "restorable と recoverable の違いは？", "a": "restorable は『（傷んだもの・状態を）元に戻せる・修復できる』、recoverable は『（失ったもの・損失を）取り戻せる・回復できる』に重点があります。データでは両方使われます。" }
+    ],
+    "quiz": [
+      { "q": "The old house is run-down but ___.（修復できる）", "A": "restorable", "B": "remarkable の注目すべき", "C": "reasonable の妥当な", "D": "removable の取り外せる", "correct": "A" },
+      { "q": "restorable のもとになった動詞はどれ？", "A": "restore（修復する・元に戻す）", "B": "remark（述べる）", "C": "reason（推論する）", "D": "remove（取り除く）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reprocess",
+    "pron": "ˌriːˈprəʊsɛs",
+    "kana": "リプロセス",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ process（処理する・加工する）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "工業・環境"],
+    "meaning_main": "再処理する・再加工する",
+    "description": "reprocess の意味・発音・例文・語源を解説。原料や使用済みのものを「再処理する・再加工する」という、工業・リサイクル・環境分野で使う語の使い方を紹介します。",
+    "keywords": ["reprocess 意味", "reprocess 発音", "再処理する", "process 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再処理する・再加工する", "note": "一度処理・加工したものを再び処理する。reprocess waste（廃棄物を再処理する）。核燃料の再処理やリサイクルで使う。名詞は reprocessing。" }
+    ],
+    "usages": [
+      { "title": "① 「廃棄物を再処理する」として", "desc": "再び加工・処理することを表します。", "example_en": "The plant reprocesses used nuclear fuel.", "example_ja": "その施設は使用済み核燃料を再処理する。" },
+      { "title": "② リサイクル「再加工する」として", "desc": "素材を再び使えるように処理することを表します。", "example_en": "Plastic waste can be reprocessed into new products.", "example_ja": "プラスチック廃棄物は再加工して新製品にできる。" }
+    ],
+    "warn": [
+      "reprocess は『再処理する・再加工する』。re-（再び）＋ process。名詞は reprocessing。",
+      "核燃料・廃棄物・素材のリサイクルなど、工業や環境の文脈で使う。"
+    ],
+    "etym_note": "re-（再び）＋ process（『処理する・加工する』、ラテン語 processus「前進・進行」、procedere「前へ進む」より）から成り、「再び処理すること」を意味します。proceed（進む）と同じ語根です。",
+    "etym_chain": [
+      { "node": "processus", "sub": "前進・進行", "era": "ラテン語" },
+      { "node": "process", "sub": "処理する・加工する", "era": "近代英語" },
+      { "node": "reprocess", "sub": "再処理する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reprocess waste", "ja": "廃棄物を再処理する" },
+      { "en": "reprocess nuclear fuel", "ja": "核燃料を再処理する" },
+      { "en": "reprocess the material", "ja": "素材を再加工する" },
+      { "en": "reprocess the data", "ja": "データを再処理する" },
+      { "en": "a reprocessing plant", "ja": "再処理施設" },
+      { "en": "reprocessed into new products", "ja": "再加工されて新製品になる" }
+    ],
+    "related": [
+      { "en": "process", "ja": "処理する・加工する" },
+      { "en": "reprocessing", "ja": "再処理" },
+      { "en": "recycle", "ja": "再生利用する" },
+      { "en": "reuse", "ja": "再利用する" }
+    ],
+    "faq": [
+      { "q": "reprocess とはどんな意味？", "a": "原料や使用済みのものを『再処理する・再加工する』という意味です。The plant reprocesses used nuclear fuel.（その施設は使用済み核燃料を再処理する）のように使います。名詞は reprocessing です。" },
+      { "q": "reprocess と recycle の違いは？", "a": "recycle は『（資源として）再生利用する』全般、reprocess は『（化学的・工業的に）再び処理・加工する』点に重点があります。核燃料の再処理は reprocess を使います。" }
+    ],
+    "quiz": [
+      { "q": "The plant ___es used nuclear fuel.（再処理する）", "A": "reprocess", "B": "process の最初に処理するだけ", "C": "progress の進歩する", "D": "promise の約束する", "correct": "A" },
+      { "q": "reprocess のもとになった動詞はどれ？", "A": "process（処理する・加工する）", "B": "progress（進歩する）", "C": "promise（約束する）", "D": "protest（抗議する）", "correct": "A" }
+    ]
+  }
+]

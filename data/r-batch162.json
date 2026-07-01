@@ -1,0 +1,525 @@
+[
+  {
+    "english": "resentful",
+    "pron": "rɪˈzɛntfəl",
+    "kana": "リゼントフル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "resent（憤慨する）＋ -ful（〜に満ちた）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "感情・一般"],
+    "meaning_main": "憤慨した・恨みがましい・腹を立てた",
+    "description": "resentful の意味・発音・例文・語源を解説。不当な扱いなどに「憤慨した・恨みがましい・腹を立てた」という、感情を表す語の使い方を紹介します。",
+    "keywords": ["resentful 意味", "resentful 発音", "憤慨した", "resent 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】憤慨した・恨みがましい・腹を立てた", "note": "不公平な扱いや侮辱に対して、怒りや恨みを感じている。be resentful of / about ...（〜に憤慨している）。動詞は resent、名詞は resentment。" }
+    ],
+    "usages": [
+      { "title": "① 「不満をいだく」として", "desc": "恨みの感情を表します。", "example_en": "She felt resentful about being passed over for promotion.", "example_ja": "彼女は昇進で見送られたことに憤りを感じた。" },
+      { "title": "② 「恨みがましい態度」として", "desc": "腹立ちを表します。", "example_en": "He gave a resentful look and said nothing.", "example_ja": "彼は恨みがましい目を向けて何も言わなかった。" }
+    ],
+    "warn": [
+      "resentful は『憤慨した・恨みがましい・腹を立てた』。resent（憤慨する）＋ -ful。名詞は resentment。",
+      "be resentful of / about / toward ... の形で『〜に憤慨している』と使う。"
+    ],
+    "etym_note": "resent（『憤慨する』、フランス語 ressentir「強く感じる」、re-（強意）＋ sentir「感じる」、ラテン語 sentire より）＋ -ful（『〜に満ちた』）から成り、「（不満を）強く感じている」を意味します。sense（感覚）や sentiment（感情）と同じ sentire の系統です。",
+    "etym_chain": [
+      { "node": "sentire", "sub": "感じる", "era": "ラテン語" },
+      { "node": "resent", "sub": "憤慨する", "era": "近代英語" },
+      { "node": "resentful", "sub": "憤慨した・恨みがましい", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "feel resentful", "ja": "憤りを感じる" },
+      { "en": "resentful of ...", "ja": "〜に憤慨している" },
+      { "en": "a resentful look", "ja": "恨みがましい目つき" },
+      { "en": "grow resentful", "ja": "恨みを募らせる" },
+      { "en": "resentful and bitter", "ja": "恨みがましく苦々しい" },
+      { "en": "a resentful silence", "ja": "腹立たしげな沈黙" }
+    ],
+    "related": [
+      { "en": "resent", "ja": "憤慨する・恨む" },
+      { "en": "resentment", "ja": "憤り・恨み" },
+      { "en": "bitter", "ja": "苦々しい・恨んでいる" },
+      { "en": "indignant", "ja": "（不当さに）憤慨した" }
+    ],
+    "faq": [
+      { "q": "resentful とはどんな意味？", "a": "不当な扱いや侮辱に対して『憤慨した・恨みがましい・腹を立てた』という意味の形容詞です。She felt resentful about being passed over.（見送られたことに憤りを感じた）のように使います。名詞は resentment です。" },
+      { "q": "resentful と angry の違いは？", "a": "angry は『（その場の）怒り』全般、resentful は『（不公平さなどに対し、くすぶり続ける）恨み・憤り』に重点があります。長く尾を引く感情を表します。" }
+    ],
+    "quiz": [
+      { "q": "She felt ___ about being passed over for promotion.（憤慨した）", "A": "resentful", "B": "respectful の敬意のある", "C": "restful の落ち着いた", "D": "resourceful の機知に富んだ", "correct": "A" },
+      { "q": "resentful の名詞形はどれ？", "A": "resentment（憤り・恨み）", "B": "resentness", "C": "resentation", "D": "resentity", "correct": "A" }
+    ]
+  },
+  {
+    "english": "respiration",
+    "pron": "ˌrɛspɪˈreɪʃən",
+    "kana": "レスピレイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 respirare（呼吸する）、re-＋ spirare（息をする）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "生物・医学"],
+    "meaning_main": "呼吸・（生物）呼吸作用",
+    "description": "respiration の意味・発音・例文・語源を解説。息を吸ったり吐いたりする「呼吸」、また細胞が酸素で栄養を分解しエネルギーを得る「呼吸作用」という、生物・医学で使う語の使い方を紹介します。",
+    "keywords": ["respiration 意味", "respiration 発音", "呼吸", "呼吸作用"],
+    "meanings": [
+      { "hinshi": "【名詞】呼吸", "note": "息を吸って吐く動作・はたらき。rate of respiration（呼吸数）。動詞は respire。" },
+      { "hinshi": "【名詞】（生物）呼吸作用", "note": "細胞が酸素を使って栄養を分解しエネルギーを取り出す働き（cellular respiration＝細胞呼吸）。光合成（photosynthesis）と対をなす。" }
+    ],
+    "usages": [
+      { "title": "① 「呼吸」として", "desc": "息のはたらきを表します。", "example_en": "The patient's respiration was shallow and rapid.", "example_ja": "その患者の呼吸は浅く速かった。" },
+      { "title": "② 生物「呼吸作用」として", "desc": "細胞のエネルギー産生を表します。", "example_en": "Cellular respiration releases energy from glucose.", "example_ja": "細胞呼吸はブドウ糖からエネルギーを取り出す。" }
+    ],
+    "warn": [
+      "respiration は『呼吸／（生物）呼吸作用』。動詞は respire、形容詞は respiratory（呼吸の）。",
+      "生物学では cellular respiration（細胞呼吸）が、光合成と対をなす重要な働き。"
+    ],
+    "etym_note": "ラテン語 respirare（『呼吸する』、re-（繰り返し）＋ spirare「息をする」より）に由来します。spirit（精神＝息）、inspire（息を吹き込む）、expire（息を吐く・期限が切れる）と同じ spirare の系統です。",
+    "etym_chain": [
+      { "node": "spirare", "sub": "息をする", "era": "ラテン語" },
+      { "node": "respirare", "sub": "呼吸する", "era": "ラテン語" },
+      { "node": "respiration", "sub": "呼吸・呼吸作用", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "rate of respiration", "ja": "呼吸数" },
+      { "en": "shallow respiration", "ja": "浅い呼吸" },
+      { "en": "artificial respiration", "ja": "人工呼吸" },
+      { "en": "cellular respiration", "ja": "細胞呼吸" },
+      { "en": "aerobic respiration", "ja": "好気呼吸" },
+      { "en": "monitor respiration", "ja": "呼吸を監視する" }
+    ],
+    "related": [
+      { "en": "respire", "ja": "呼吸する" },
+      { "en": "respiratory", "ja": "呼吸の" },
+      { "en": "breathing", "ja": "呼吸・息づかい" },
+      { "en": "photosynthesis", "ja": "光合成" }
+    ],
+    "faq": [
+      { "q": "respiration とはどんな意味？", "a": "息を吸って吐く『呼吸』、また細胞が酸素を使って栄養を分解しエネルギーを得る『呼吸作用』のことです。The patient's respiration was shallow.（患者の呼吸は浅かった）/ cellular respiration（細胞呼吸）のように使います。" },
+      { "q": "呼吸作用と光合成の関係は？", "a": "細胞呼吸（respiration）は酸素を使い糖を分解してエネルギーを取り出し二酸化炭素を出す働き、光合成（photosynthesis）は二酸化炭素と光から糖と酸素を作る働きで、互いに対をなします。" }
+    ],
+    "quiz": [
+      { "q": "The patient's ___ was shallow and rapid.（呼吸）", "A": "respiration", "B": "inspiration のひらめき", "C": "operation の手術", "D": "decoration の装飾", "correct": "A" },
+      { "q": "respiration と同じ語根 spirare を持つのはどれ？", "A": "inspire（息を吹き込む・鼓舞する）", "B": "require（要求する）", "C": "retire（引退する）", "D": "acquire（獲得する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "repertory",
+    "pron": "ˈrɛpətri",
+    "kana": "レパートリー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "後期ラテン語 repertorium（一覧・在庫目録）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "演劇・音楽"],
+    "meaning_main": "レパートリー／（演劇）数作品を入れ替えて上演する方式",
+    "description": "repertory の意味・発音・例文・語源を解説。劇団がいつでも上演できる演目の蓄え、また数作品を交互に上演する方式「レパートリー（方式）」という、演劇・音楽で使う語の使い方を紹介します。",
+    "keywords": ["repertory 意味", "repertory 発音", "レパートリー", "repertoire 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】（演劇）レパートリー方式", "note": "劇団が複数の演目を用意し、短い期間で入れ替えながら上演する方式。a repertory theatre / company（レパートリー方式の劇団）。" },
+      { "hinshi": "【名詞】レパートリー（上演・演奏できる演目の蓄え）", "note": "repertoire（レパートリー）とほぼ同義の、いつでも上演・演奏できる作品の総体。" }
+    ],
+    "usages": [
+      { "title": "① 「レパートリー劇団」として", "desc": "上演方式を表します。", "example_en": "She acted in a repertory company for several years.", "example_ja": "彼女は数年間レパートリー方式の劇団で演じた。" },
+      { "title": "② 「演目の蓄え」として", "desc": "上演できる作品群を表します。", "example_en": "The orchestra has a wide classical repertory.", "example_ja": "そのオーケストラは幅広い古典のレパートリーを持つ。" }
+    ],
+    "warn": [
+      "repertory は『（演劇）レパートリー方式／演目の蓄え』。フランス語形 repertoire（レパートリー）と意味が重なる。",
+      "a repertory theatre は『複数の演目を入れ替えて上演する劇団・劇場』を指す。"
+    ],
+    "etym_note": "後期ラテン語 repertorium（『一覧・目録・在庫』、reperire「見つけ出す」より）に由来します。repertoire（レパートリー）も同源です。",
+    "etym_chain": [
+      { "node": "reperire", "sub": "見つけ出す", "era": "ラテン語" },
+      { "node": "repertorium", "sub": "一覧・目録", "era": "後期ラテン語" },
+      { "node": "repertory", "sub": "レパートリー（方式）", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a repertory company", "ja": "レパートリー方式の劇団" },
+      { "en": "a repertory theatre", "ja": "レパートリー劇場" },
+      { "en": "in repertory", "ja": "レパートリー方式で" },
+      { "en": "a classical repertory", "ja": "古典のレパートリー" },
+      { "en": "a wide repertory", "ja": "幅広いレパートリー" },
+      { "en": "add to the repertory", "ja": "レパートリーに加える" }
+    ],
+    "related": [
+      { "en": "repertoire", "ja": "レパートリー（仏語形）" },
+      { "en": "ensemble", "ja": "劇団・合奏団" },
+      { "en": "production", "ja": "上演・公演" },
+      { "en": "troupe", "ja": "一座・劇団" }
+    ],
+    "faq": [
+      { "q": "repertory とはどんな意味？", "a": "劇団が複数の演目を用意し入れ替えながら上演する『レパートリー方式』、また上演・演奏できる『演目の蓄え』のことです。She acted in a repertory company.（レパートリー方式の劇団で演じた）のように使います。" },
+      { "q": "repertory と repertoire の違いは？", "a": "意味は重なり、どちらも『上演できる作品の蓄え』を指します。repertory は特に英語圏で『（複数演目を入れ替える）上演方式・劇団』を、repertoire は『個人や団体の持ち演目』を指すことが多いです。" }
+    ],
+    "quiz": [
+      { "q": "She acted in a ___ company for several years.（レパートリー方式の）", "A": "repertory", "B": "territory の領土", "C": "laboratory の実験室", "D": "inventory の在庫", "correct": "A" },
+      { "q": "repertory と同源のフランス語形はどれ？", "A": "repertoire（レパートリー）", "B": "reservoir（貯水池）", "C": "memoir（回顧録）", "D": "boudoir（私室）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reiteration",
+    "pron": "riˌɪtəˈreɪʃən",
+    "kana": "リイタレイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "reiterate（繰り返し言う）＋ -ion",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文章・議論"],
+    "meaning_main": "繰り返し述べること・反復",
+    "description": "reiteration の意味・発音・例文・語源を解説。同じことを「繰り返し述べること・反復」という、文章や議論で使う語の使い方を紹介します。動詞 reiterate も解説。",
+    "keywords": ["reiteration 意味", "reiteration 発音", "繰り返し述べること", "reiterate 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】繰り返し述べること・反復", "note": "（強調や念押しのために）同じ内容を再び述べること。a reiteration of the rules（規則の繰り返しの確認）。動詞は reiterate（繰り返し言う）。" }
+    ],
+    "usages": [
+      { "title": "① 「主張の繰り返し」として", "desc": "念押しを表します。", "example_en": "His speech was just a reiteration of earlier promises.", "example_ja": "彼の演説は以前の約束の繰り返しにすぎなかった。" },
+      { "title": "② 「方針の再確認」として", "desc": "改めて述べることを表します。", "example_en": "The memo was a reiteration of company policy.", "example_ja": "その通達は会社方針の再確認だった。" }
+    ],
+    "warn": [
+      "reiteration は『繰り返し述べること・反復』。reiterate（繰り返し言う）＋ -ion。",
+      "強調・念押しのために言葉を繰り返すことを指す。動詞 reiterate と合わせて覚える。"
+    ],
+    "etym_note": "reiterate（『繰り返し言う』、ラテン語 reiterare、re-＋ iterare「繰り返す」、iterum「再び」より）＋ -ion から成り、「繰り返し述べること」を意味します。iterate（反復する）や iteration（反復・繰り返し）と同じ iterum の系統です。",
+    "etym_chain": [
+      { "node": "iterum", "sub": "再び", "era": "ラテン語" },
+      { "node": "reiterate", "sub": "繰り返し言う", "era": "近代英語" },
+      { "node": "reiteration", "sub": "繰り返し述べること", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a reiteration of ...", "ja": "〜の繰り返し" },
+      { "en": "a mere reiteration", "ja": "単なる繰り返し" },
+      { "en": "a reiteration of the rules", "ja": "規則の再確認" },
+      { "en": "endless reiteration", "ja": "際限のない反復" },
+      { "en": "a reiteration of support", "ja": "支持の改めての表明" },
+      { "en": "through reiteration", "ja": "繰り返しによって" }
+    ],
+    "related": [
+      { "en": "reiterate", "ja": "繰り返し言う" },
+      { "en": "repetition", "ja": "繰り返し・反復" },
+      { "en": "restatement", "ja": "言い直し・再表明" },
+      { "en": "iteration", "ja": "反復・繰り返し" }
+    ],
+    "faq": [
+      { "q": "reiteration とはどんな意味？", "a": "（強調や念押しのために）同じ内容を『繰り返し述べること・反復』のことです。His speech was just a reiteration of earlier promises.（以前の約束の繰り返しにすぎなかった）のように使います。動詞は reiterate です。" },
+      { "q": "reiteration と repetition の違いは？", "a": "repetition は『（一般的な）繰り返し・反復』全般、reiteration は特に『（強調・念押しのために言葉や主張を）繰り返し述べること』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "His speech was just a ___ of earlier promises.（繰り返し）", "A": "reiteration", "B": "registration の登録", "C": "restoration の修復", "D": "reservation の予約", "correct": "A" },
+      { "q": "reiteration の動詞形はどれ？", "A": "reiterate（繰り返し言う）", "B": "irritate（いらだたせる）", "C": "imitate（真似る）", "D": "illustrate（説明する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "relinquishment",
+    "pron": "rɪˈlɪŋkwɪʃmənt",
+    "kana": "リリンクイッシュメント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "relinquish（手放す・放棄する）＋ -ment",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "法律・フォーマル"],
+    "meaning_main": "放棄・断念・（権利などを）手放すこと",
+    "description": "relinquishment の意味・発音・例文・語源を解説。権利や所有物、地位などを「放棄すること・断念・手放すこと」という、法律やフォーマルな文脈で使う語の使い方を紹介します。",
+    "keywords": ["relinquishment 意味", "relinquishment 発音", "放棄", "relinquish 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】放棄・断念・手放すこと", "note": "権利・所有物・地位・主張などを正式に手放すこと。the relinquishment of rights（権利の放棄）。動詞は relinquish。フォーマルな語。" }
+    ],
+    "usages": [
+      { "title": "① 「権利の放棄」として", "desc": "正式に手放すことを表します。", "example_en": "The treaty required the relinquishment of certain territories.", "example_ja": "その条約は一部領土の放棄を求めた。" },
+      { "title": "② 「地位の断念」として", "desc": "手放すことを表します。", "example_en": "His relinquishment of the title surprised everyone.", "example_ja": "彼が称号を手放したことは皆を驚かせた。" }
+    ],
+    "warn": [
+      "relinquishment は『放棄・断念・手放すこと』。relinquish（手放す・放棄する）＋ -ment。フォーマルな語。",
+      "権利・所有物・地位などを正式に手放す文脈で使う。"
+    ],
+    "etym_note": "relinquish（『手放す・放棄する』、ラテン語 relinquere「後に残す・捨て去る」、re-＋ linquere「残す」より）＋ -ment から成り、「手放すこと」を意味します。relic（遺物）や delinquent（怠った）と同じ linquere の系統です。",
+    "etym_chain": [
+      { "node": "relinquere", "sub": "後に残す・捨て去る", "era": "ラテン語" },
+      { "node": "relinquish", "sub": "手放す・放棄する", "era": "中英語" },
+      { "node": "relinquishment", "sub": "放棄・手放すこと", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the relinquishment of rights", "ja": "権利の放棄" },
+      { "en": "relinquishment of control", "ja": "支配権の放棄" },
+      { "en": "relinquishment of the throne", "ja": "王位の放棄" },
+      { "en": "voluntary relinquishment", "ja": "自発的な放棄" },
+      { "en": "relinquishment of claims", "ja": "請求権の放棄" },
+      { "en": "sign a relinquishment", "ja": "放棄の書類に署名する" }
+    ],
+    "related": [
+      { "en": "relinquish", "ja": "手放す・放棄する" },
+      { "en": "surrender", "ja": "明け渡し・放棄" },
+      { "en": "abandonment", "ja": "放棄・遺棄" },
+      { "en": "waiver", "ja": "（権利の）放棄" }
+    ],
+    "faq": [
+      { "q": "relinquishment とはどんな意味？", "a": "権利・所有物・地位などを正式に『放棄すること・断念・手放すこと』です。The treaty required the relinquishment of certain territories.（条約は一部領土の放棄を求めた）のように使います。動詞は relinquish です。" },
+      { "q": "relinquishment と waiver の違いは？", "a": "relinquishment は『（権利・所有物などを）手放すこと』全般、waiver は特に『（権利の）放棄・免除（請求しないと表明すること）』を指す法律用語です。重なる部分もあります。" }
+    ],
+    "quiz": [
+      { "q": "The treaty required the ___ of certain territories.（放棄）", "A": "relinquishment", "B": "establishment の設立", "C": "punishment の罰", "D": "nourishment の栄養", "correct": "A" },
+      { "q": "relinquishment の動詞形はどれ？", "A": "relinquish（手放す・放棄する）", "B": "replenish（補充する）", "C": "diminish（減らす）", "D": "furnish（備え付ける）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "renunciation",
+    "pron": "rɪˌnʌnsiˈeɪʃən",
+    "kana": "リナンシエイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 renuntiare（公に断る・放棄する）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "宗教・フォーマル"],
+    "meaning_main": "（信念・権利・欲望などの）放棄・断念・棄権",
+    "description": "renunciation の意味・発音・例文・語源を解説。信念・地位・欲望などを公に「放棄・断念・棄権すること」という、宗教やフォーマルな文脈で使う語の使い方を紹介します。",
+    "keywords": ["renunciation 意味", "renunciation 発音", "放棄", "renounce 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】放棄・断念・棄権", "note": "信念・主張・権利・地位・快楽などを公にきっぱり捨てること。renunciation of violence（暴力の放棄）、self-renunciation（克己・自己放棄）。動詞は renounce。" }
+    ],
+    "usages": [
+      { "title": "① 「暴力の放棄」として", "desc": "きっぱり捨てることを表します。", "example_en": "The group issued a public renunciation of violence.", "example_ja": "その集団は暴力の放棄を公に表明した。" },
+      { "title": "② 宗教「世俗の断念」として", "desc": "欲望を捨てることを表します。", "example_en": "Monastic life involves the renunciation of worldly pleasures.", "example_ja": "修道生活は世俗の快楽の放棄を伴う。" }
+    ],
+    "warn": [
+      "renunciation は『（信念・権利・欲望などの）放棄・断念・棄権』。動詞は renounce。",
+      "relinquishment が『（物・権利を）手放す』ことに重点があるのに対し、renunciation は『（信念・主張を）公にきっぱり捨てる』響きが強い。"
+    ],
+    "etym_note": "ラテン語 renuntiare（『公に断る・放棄する』、re-（反対に）＋ nuntiare「告げる」、nuntius「使者・知らせ」より）に由来します。announce（発表する）や pronounce（発音する・宣言する）と同じ nuntiare の系統です。",
+    "etym_chain": [
+      { "node": "nuntiare", "sub": "告げる", "era": "ラテン語" },
+      { "node": "renuntiare", "sub": "公に断る・放棄する", "era": "ラテン語" },
+      { "node": "renunciation", "sub": "放棄・断念", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "renunciation of violence", "ja": "暴力の放棄" },
+      { "en": "self-renunciation", "ja": "克己・自己放棄" },
+      { "en": "renunciation of the throne", "ja": "王位の放棄" },
+      { "en": "a public renunciation", "ja": "公の放棄表明" },
+      { "en": "renunciation of citizenship", "ja": "国籍の放棄" },
+      { "en": "renunciation of worldly desires", "ja": "世俗の欲望の放棄" }
+    ],
+    "related": [
+      { "en": "renounce", "ja": "放棄する・断つ" },
+      { "en": "abdication", "ja": "（王位の）退位・放棄" },
+      { "en": "rejection", "ja": "拒絶" },
+      { "en": "abstinence", "ja": "節制・禁欲" }
+    ],
+    "faq": [
+      { "q": "renunciation とはどんな意味？", "a": "信念・主張・権利・地位・欲望などを公にきっぱり『放棄・断念・棄権すること』です。a public renunciation of violence（暴力の放棄の公表明）のように使います。動詞は renounce です。" },
+      { "q": "renunciation と relinquishment の違いは？", "a": "relinquishment は『（物・権利を）手放すこと』に重点、renunciation は『（信念・主張・欲望を）公にきっぱり捨て去ること』という強い決別の響きがあります。宗教的・道徳的な文脈でよく使われます。" }
+    ],
+    "quiz": [
+      { "q": "The group issued a public ___ of violence.（放棄）", "A": "renunciation", "B": "pronunciation の発音", "C": "annunciation の告知", "D": "denunciation の告発", "correct": "A" },
+      { "q": "renunciation の動詞形はどれ？", "A": "renounce（放棄する・断つ）", "B": "announce（発表する）", "C": "pronounce（発音する）", "D": "denounce（非難する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "resolutely",
+    "pron": "ˈrɛzəluːtli",
+    "kana": "レゾルートリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "resolute（決然とした）＋ -ly",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "一般・文章"],
+    "meaning_main": "断固として・決然と・きっぱりと",
+    "description": "resolutely の意味・発音・例文・語源を解説。意志を曲げず「断固として・決然と・きっぱりと」物事を行う様子という副詞の使い方を紹介します。形容詞 resolute も解説。",
+    "keywords": ["resolutely 意味", "resolutely 発音", "断固として", "resolute 意味"],
+    "meanings": [
+      { "hinshi": "【副詞】断固として・決然と・きっぱりと", "note": "決意が固く、ためらいなく。stand resolutely（断固として立つ）。refuse resolutely（きっぱり断る）。形容詞は resolute（決然とした）。" }
+    ],
+    "usages": [
+      { "title": "① 「断固として行う」として", "desc": "固い決意を表します。", "example_en": "She resolutely refused to give up.", "example_ja": "彼女は断固としてあきらめることを拒んだ。" },
+      { "title": "② 「決然と立ち向かう」として", "desc": "ゆるがぬ態度を表します。", "example_en": "They faced the crisis resolutely.", "example_ja": "彼らは決然と危機に立ち向かった。" }
+    ],
+    "warn": [
+      "resolutely は『断固として・決然と・きっぱりと』。resolute（決然とした）＋ -ly。",
+      "意志が固くためらいがない様子を表す。resolve（決意する・解決する）と同じ語根。"
+    ],
+    "etym_note": "resolute（『決然とした』、ラテン語 resolutus「解き放たれた・確固とした」、resolvere「解きほぐす・決める」より）＋ -ly から成り、「固い決意をもって」を意味します。resolve（決意する）や solve（解く）と同じ solvere の系統です。",
+    "etym_chain": [
+      { "node": "resolvere", "sub": "解きほぐす・決める", "era": "ラテン語" },
+      { "node": "resolute", "sub": "決然とした", "era": "中英語" },
+      { "node": "resolutely", "sub": "断固として", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "resolutely refuse", "ja": "断固として断る" },
+      { "en": "stand resolutely", "ja": "決然と立つ" },
+      { "en": "resolutely opposed", "ja": "断固反対して" },
+      { "en": "face it resolutely", "ja": "決然と立ち向かう" },
+      { "en": "resolutely determined", "ja": "固く決意して" },
+      { "en": "act resolutely", "ja": "きっぱりと行動する" }
+    ],
+    "related": [
+      { "en": "resolute", "ja": "決然とした・固い決意の" },
+      { "en": "resolve", "ja": "決意する・解決する" },
+      { "en": "firmly", "ja": "しっかりと・断固として" },
+      { "en": "steadfastly", "ja": "確固として・ゆるぎなく" }
+    ],
+    "faq": [
+      { "q": "resolutely とはどんな意味？", "a": "意志を曲げず『断固として・決然と・きっぱりと』物事を行う様子を表す副詞です。She resolutely refused to give up.（断固としてあきらめることを拒んだ）のように使います。形容詞は resolute です。" },
+      { "q": "resolutely と firmly の違いは？", "a": "どちらも『しっかりと・断固として』ですが、resolutely は『（強い決意・覚悟をもって）決然と』という内面の固さを、firmly は『（態度・口調が）きっぱりと』を強調することが多いです。" }
+    ],
+    "quiz": [
+      { "q": "She ___ refused to give up.（断固として）", "A": "resolutely", "B": "reluctantly のいやいや", "C": "recklessly の無謀に", "D": "remotely の遠隔で", "correct": "A" },
+      { "q": "resolutely のもとになった形容詞はどれ？", "A": "resolute（決然とした）", "B": "absolute（絶対の）", "C": "desolate（荒涼とした）", "D": "obsolete（時代遅れの）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ringside",
+    "pron": "ˈrɪŋsaɪd",
+    "kana": "リングサイド",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ring（リング・闘技場）＋ side（そば・側）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "スポーツ・観戦"],
+    "meaning_main": "リングサイド（リングのすぐそば）・最前列の特等席",
+    "description": "ringside の意味・発音・例文・語源を解説。ボクシングなどのリングのすぐそばの席「リングサイド」、また比喩で物事を間近で見られる「特等席」という語の使い方を紹介します。",
+    "keywords": ["ringside 意味", "ringside 発音", "リングサイド", "最前列の席"],
+    "meanings": [
+      { "hinshi": "【名詞】リングサイド・リングのすぐそば", "note": "ボクシング・レスリングなどのリングの周りのすぐそば（の席）。比喩で『（出来事を）間近で見られる特等の位置』。a ringside seat（最前列の特等席）。" },
+      { "hinshi": "【形容詞】リングサイドの・間近で見る", "note": "a ringside view（間近で見られる眺め）。" }
+    ],
+    "usages": [
+      { "title": "① 「リング際の席」として", "desc": "観戦の特等席を表します。", "example_en": "We had ringside seats for the title fight.", "example_ja": "私たちはタイトルマッチのリングサイド席を取った。" },
+      { "title": "② 比喩「間近の特等席」として", "desc": "出来事を間近で見る位置を表します。", "example_en": "As a reporter, she had a ringside view of history.", "example_ja": "記者として彼女は歴史を間近で見る特等の位置にいた。" }
+    ],
+    "warn": [
+      "ringside は『リングサイド（リングのすぐそば）・特等席』。ring（リング）＋ side（側）。",
+      "比喩で『（出来事を）間近で見られる位置』にも使う（a ringside seat to ...）。"
+    ],
+    "etym_note": "ring（『リング・闘技場・輪』、古英語 hring より）＋ side（『そば・側』、古英語 sīde より）から成り、「リングのすぐそば」を意味します。",
+    "etym_chain": [
+      { "node": "ring + side", "sub": "リング＋そば", "era": "英語" },
+      { "node": "ringside", "sub": "リングのそば", "era": "近代英語" },
+      { "node": "ringside", "sub": "リングサイド・特等席", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a ringside seat", "ja": "リングサイドの席・特等席" },
+      { "en": "ringside seats", "ja": "リングサイド席" },
+      { "en": "a ringside view", "ja": "間近で見られる眺め" },
+      { "en": "at ringside", "ja": "リングサイドで" },
+      { "en": "a ringside seat to history", "ja": "歴史を間近で見る特等席" },
+      { "en": "sit ringside", "ja": "リングサイドに座る" }
+    ],
+    "related": [
+      { "en": "ring", "ja": "リング・闘技場" },
+      { "en": "front-row", "ja": "最前列の" },
+      { "en": "spectator", "ja": "観客" },
+      { "en": "arena", "ja": "アリーナ・闘技場" }
+    ],
+    "faq": [
+      { "q": "ringside とはどんな意味？", "a": "ボクシングなどのリングのすぐそば（の席）『リングサイド』のことです。比喩で『出来事を間近で見られる特等の位置』も指します。We had ringside seats.（リングサイド席を取った）のように使います。" },
+      { "q": "a ringside seat の比喩的な意味は？", "a": "『（重要な出来事を）間近で見られる絶好の位置』という意味です。a ringside seat to history（歴史を間近で目撃する立場）のように使われます。" }
+    ],
+    "quiz": [
+      { "q": "We had ___ seats for the title fight.（リングサイドの）", "A": "ringside", "B": "roadside の道端", "C": "bedside の枕元", "D": "seaside の海辺", "correct": "A" },
+      { "q": "ringside は何と何を合わせた語？", "A": "ring（リング）と side（そば）", "B": "ring と slide", "C": "ridge と side", "D": "ring と size", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rowdiness",
+    "pron": "ˈraʊdinəs",
+    "kana": "ラウディネス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rowdy（乱暴で騒がしい）＋ -ness",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "一般・社会"],
+    "meaning_main": "乱暴で騒がしいこと・無秩序な騒ぎ",
+    "description": "rowdiness の意味・発音・例文・語源を解説。群衆などが「乱暴で騒がしいこと・無秩序な騒ぎ」という、社会や日常で使う語の使い方を紹介します。形容詞 rowdy も解説。",
+    "keywords": ["rowdiness 意味", "rowdiness 発音", "乱暴な騒ぎ", "rowdy 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】乱暴で騒がしいこと・無秩序な騒ぎ", "note": "群衆や集団が乱暴に騒ぎ立てて手に負えない状態。drunken rowdiness（酔っての乱暴な騒ぎ）。形容詞は rowdy（乱暴で騒がしい）。" }
+    ],
+    "usages": [
+      { "title": "① 「観客の乱暴な騒ぎ」として", "desc": "騒乱を表します。", "example_en": "Police were called to deal with the rowdiness at the bar.", "example_ja": "バーでの乱暴な騒ぎに対処するため警察が呼ばれた。" },
+      { "title": "② 「無秩序」として", "desc": "手に負えない様子を表します。", "example_en": "The teacher struggled to control the rowdiness of the class.", "example_ja": "先生はクラスの騒がしさを抑えるのに苦労した。" }
+    ],
+    "warn": [
+      "rowdiness は『乱暴で騒がしいこと・無秩序な騒ぎ』。rowdy（乱暴で騒がしい）＋ -ness。",
+      "群衆・集団が乱暴に騒ぎ手に負えない状態を指す。"
+    ],
+    "etym_note": "rowdy（『乱暴で騒がしい（人）』、もとアメリカ西部の俗語。由来は row「口論・騒ぎ」との関連説がある）＋ -ness（『〜であること』）から成り、「乱暴で騒がしい状態」を意味します。",
+    "etym_chain": [
+      { "node": "rowdy", "sub": "乱暴で騒がしい", "era": "19世紀米英語" },
+      { "node": "rowdiness", "sub": "乱暴な騒ぎ", "era": "近代英語" },
+      { "node": "rowdiness", "sub": "乱暴で騒がしいこと", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "drunken rowdiness", "ja": "酔っての乱暴な騒ぎ" },
+      { "en": "control the rowdiness", "ja": "騒がしさを抑える" },
+      { "en": "crowd rowdiness", "ja": "群衆の乱暴な騒ぎ" },
+      { "en": "deal with rowdiness", "ja": "騒乱に対処する" },
+      { "en": "alcohol-fueled rowdiness", "ja": "酒に勢いづいた乱暴な騒ぎ" },
+      { "en": "general rowdiness", "ja": "全体的な騒がしさ" }
+    ],
+    "related": [
+      { "en": "rowdy", "ja": "乱暴で騒がしい（人）" },
+      { "en": "disorder", "ja": "無秩序・混乱" },
+      { "en": "unruliness", "ja": "手に負えなさ" },
+      { "en": "boisterousness", "ja": "騒がしさ" }
+    ],
+    "faq": [
+      { "q": "rowdiness とはどんな意味？", "a": "群衆や集団が『乱暴に騒ぎ立てて手に負えないこと・無秩序な騒ぎ』のことです。Police dealt with the rowdiness at the bar.（バーでの乱暴な騒ぎに対処した）のように使います。形容詞は rowdy です。" },
+      { "q": "rowdy はどう使う？", "a": "『乱暴で騒がしい』という形容詞、または『乱暴者』という名詞です。a rowdy crowd（騒がしい群衆）、rowdy behavior（乱暴な振る舞い）のように使います。rowdiness はその名詞形です。" }
+    ],
+    "quiz": [
+      { "q": "Police were called to deal with the ___ at the bar.（乱暴な騒ぎ）", "A": "rowdiness", "B": "readiness の準備のできていること", "C": "kindness の親切", "D": "darkness の暗さ", "correct": "A" },
+      { "q": "rowdiness のもとになった形容詞はどれ？", "A": "rowdy（乱暴で騒がしい）", "B": "ready（用意のできた）", "C": "rosy（バラ色の）", "D": "rusty（さびた）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "regimental",
+    "pron": "ˌrɛdʒɪˈmɛntəl",
+    "kana": "レジメンタル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "regiment（連隊）＋ -al",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "軍事・ファッション"],
+    "meaning_main": "連隊の・連隊に属する",
+    "description": "regimental の意味・発音・例文・語源を解説。軍の「連隊の・連隊に属する」という語と、連隊の縞模様に由来する「レジメンタルストライプ（ネクタイ柄）」の使い方を紹介します。",
+    "keywords": ["regimental 意味", "regimental 発音", "連隊の", "レジメンタルストライプ"],
+    "meanings": [
+      { "hinshi": "【形容詞】連隊の・連隊に属する", "note": "軍隊の単位 regiment（連隊）に関する。regimental colours（連隊旗）、regimental band（連隊軍楽隊）。連隊の旗・記章に由来する斜め縞は regimental stripe（レジメンタルストライプ）として知られる。" }
+    ],
+    "usages": [
+      { "title": "① 「連隊の」として", "desc": "軍の単位に関することを表します。", "example_en": "The soldiers marched under the regimental flag.", "example_ja": "兵士たちは連隊旗のもとを行進した。" },
+      { "title": "② 「レジメンタル柄」として", "desc": "ネクタイの縞模様を表します。", "example_en": "He wore a tie with regimental stripes.", "example_ja": "彼はレジメンタルストライプのネクタイをしていた。" }
+    ],
+    "warn": [
+      "regimental は『連隊の・連隊に属する』。regiment（連隊）＋ -al。",
+      "連隊旗・記章に由来する斜め縞は regimental stripe（レジメンタルストライプ）として、ネクタイ柄の名で知られる。"
+    ],
+    "etym_note": "regiment（『連隊・統治』、ラテン語 regimentum「統治」、regere「治める・導く」より）＋ -al（『〜の』）から成り、「連隊の」を意味します。regime（体制）、regent（摂政）、regular（規則的な）と同じ regere の系統です。",
+    "etym_chain": [
+      { "node": "regere", "sub": "治める・導く", "era": "ラテン語" },
+      { "node": "regiment", "sub": "連隊・統治", "era": "中英語" },
+      { "node": "regimental", "sub": "連隊の", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the regimental flag", "ja": "連隊旗" },
+      { "en": "regimental colours", "ja": "連隊旗・連隊色" },
+      { "en": "a regimental band", "ja": "連隊軍楽隊" },
+      { "en": "regimental stripes", "ja": "レジメンタルストライプ" },
+      { "en": "regimental headquarters", "ja": "連隊本部" },
+      { "en": "a regimental tie", "ja": "レジメンタルタイ" }
+    ],
+    "related": [
+      { "en": "regiment", "ja": "連隊" },
+      { "en": "battalion", "ja": "大隊" },
+      { "en": "military", "ja": "軍の・軍隊の" },
+      { "en": "insignia", "ja": "記章・記号" }
+    ],
+    "faq": [
+      { "q": "regimental とはどんな意味？", "a": "軍の単位『連隊』に関する『連隊の・連隊に属する』という意味の形容詞です。The soldiers marched under the regimental flag.（連隊旗のもとを行進した）のように使います。" },
+      { "q": "レジメンタルストライプとは？", "a": "英国の連隊旗や記章の斜め縞に由来するネクタイ柄です。regimental stripe と呼ばれ、伝統的・きちんとした印象を与える定番の縞模様です。" }
+    ],
+    "quiz": [
+      { "q": "The soldiers marched under the ___ flag.（連隊の）", "A": "regimental", "B": "fundamental の基本的な", "C": "experimental の実験的な", "D": "monumental の記念碑的な", "correct": "A" },
+      { "q": "regimental のもとになった名詞はどれ？", "A": "regiment（連隊）", "B": "regiment の無関係な segment（区分）", "C": "moment（瞬間）", "D": "comment（論評）", "correct": "A" }
+    ]
+  }
+]

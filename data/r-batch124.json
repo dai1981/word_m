@@ -1,0 +1,526 @@
+[
+  {
+    "english": "revolutionize",
+    "pron": "ˌrevəˈluːʃənaɪz",
+    "kana": "レボリューショナイズ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "revolution（革命）＋ -ize（〜化する）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "頻出語"],
+    "meaning_main": "（〜に）革命を起こす・根本から一変させる",
+    "description": "revolutionize の意味・発音・例文・語源を解説。技術や考え方が、ある分野を「根本から一変させる・革命を起こす」という前向きな意味の動詞の使い方を紹介します。",
+    "keywords": ["revolutionize 意味", "revolutionize 発音", "一変させる", "revolution 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（〜に）革命を起こす・根本から一変させる", "note": "あり方を劇的に変える。revolutionize the industry（業界を一変させる）。イギリス綴りは revolutionise。" }
+    ],
+    "usages": [
+      { "title": "① 「業界を一変させる」として", "desc": "劇的な変化をもたらすことを表します。", "example_en": "The smartphone revolutionized communication.", "example_ja": "スマートフォンはコミュニケーションを一変させた。" },
+      { "title": "② 「やり方を変える」として", "desc": "根本的な刷新を表します。", "example_en": "The new method revolutionized how we work.", "example_ja": "その新手法は私たちの働き方を一変させた。" }
+    ],
+    "warn": [
+      "revolutionize は『革命を起こす・根本から一変させる』。revolution（革命）＋ -ize。多く前向きな大変化に使う。",
+      "revolutionize the industry / the way ～（業界・やり方を一変させる）が頻出。"
+    ],
+    "etym_note": "revolution（『革命・回転』、ラテン語 revolvere「回転する」より）＋ -ize から成り、「（劇的に）回転させ変える＝革命を起こす」を意味します。revolve（回転する）と同じ語根です。",
+    "etym_chain": [
+      { "node": "revolvere", "sub": "回転する", "era": "ラテン語" },
+      { "node": "revolution", "sub": "革命・回転", "era": "近代英語" },
+      { "node": "revolutionize", "sub": "革命を起こす", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "revolutionize the industry", "ja": "業界を一変させる" },
+      { "en": "revolutionize communication", "ja": "コミュニケーションを一変させる" },
+      { "en": "revolutionize medicine", "ja": "医療に革命を起こす" },
+      { "en": "revolutionize the way we", "ja": "私たちの〜のやり方を一変させる" },
+      { "en": "completely revolutionize", "ja": "完全に一変させる" },
+      { "en": "revolutionize the market", "ja": "市場を一変させる" }
+    ],
+    "related": [
+      { "en": "revolution", "ja": "革命・回転" },
+      { "en": "transform", "ja": "一変させる" },
+      { "en": "innovate", "ja": "革新する" },
+      { "en": "reinvent", "ja": "作り直す・刷新する" }
+    ],
+    "faq": [
+      { "q": "revolutionize とはどんな意味？", "a": "技術や考え方が、ある分野を『根本から一変させる・革命を起こす』という意味です。The smartphone revolutionized communication.（スマホがコミュニケーションを一変させた）のように、前向きな大変化に使います。" },
+      { "q": "revolutionize と transform の違いは？", "a": "どちらも『一変させる』ですが、revolutionize は『（革命のように）根本から劇的に変える』、transform は『（姿・性質を）変える』を広く表します。revolutionize のほうが画期的な変化を強調します。" }
+    ],
+    "quiz": [
+      { "q": "The smartphone ___d communication.（一変させた）", "A": "revolutionize", "B": "memorize の暗記する", "C": "organize の組織する", "D": "realize の気づく", "correct": "A" },
+      { "q": "revolutionize のもとになった名詞はどれ？", "A": "revolution（革命）", "B": "resolution（解決）", "C": "evolution（進化）", "D": "solution（解決策）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reversible",
+    "pron": "rɪˈvɜːrsəbl",
+    "kana": "リバーシブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "reverse（逆にする）＋ -ible（できる）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "日常・理科"],
+    "meaning_main": "元に戻せる・逆にできる／（衣服が）両面使える",
+    "description": "reversible の意味・発音・例文・語源を解説。変化を「元に戻せる・逆にできる」、また衣服が「裏表どちらも使える（リバーシブル）」という使い方を分かりやすく紹介します。",
+    "keywords": ["reversible 意味", "reversible 発音", "元に戻せる", "リバーシブル"],
+    "meanings": [
+      { "hinshi": "【形容詞】元に戻せる・逆にできる", "note": "変化・反応・決定を逆に戻せる。a reversible reaction（可逆反応）。反対は irreversible（元に戻せない）。" },
+      { "hinshi": "【形容詞】（衣服が）両面使える・裏表使える", "note": "a reversible jacket（リバーシブルのジャケット）。" }
+    ],
+    "usages": [
+      { "title": "① 「元に戻せる」として", "desc": "逆に戻せることを表します。", "example_en": "The damage is reversible if treated early.", "example_ja": "早く処置すればその損傷は元に戻せる。" },
+      { "title": "② 「リバーシブルの」として", "desc": "両面使える衣服を表します。", "example_en": "She wore a reversible coat.", "example_ja": "彼女はリバーシブルのコートを着ていた。" }
+    ],
+    "warn": [
+      "reversible は『元に戻せる・逆にできる』『（衣服が）両面使える』。reverse（逆にする）＋ -ible。反対は irreversible。",
+      "理科の a reversible reaction（可逆反応）, 衣服の a reversible jacket（リバーシブル）が頻出。"
+    ],
+    "etym_note": "reverse（『逆にする・反対の』、ラテン語 revertere「向きを変える」、re-「後ろへ」＋ vertere「回す」より）＋ -ible（できる）から成り、「逆に戻せる」を意味します。convert（変える）と同じ語根です。",
+    "etym_chain": [
+      { "node": "revertere", "sub": "向きを変える", "era": "ラテン語" },
+      { "node": "reverse", "sub": "逆にする・反対の", "era": "中英語" },
+      { "node": "reversible", "sub": "元に戻せる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a reversible reaction", "ja": "可逆反応" },
+      { "en": "a reversible process", "ja": "可逆的な過程" },
+      { "en": "a reversible decision", "ja": "撤回できる決定" },
+      { "en": "a reversible jacket", "ja": "リバーシブルのジャケット" },
+      { "en": "fully reversible", "ja": "完全に元に戻せる" },
+      { "en": "potentially reversible", "ja": "元に戻せる可能性のある" }
+    ],
+    "related": [
+      { "en": "reverse", "ja": "逆にする・反対の" },
+      { "en": "reversal", "ja": "逆転・撤回" },
+      { "en": "irreversible", "ja": "元に戻せない（反対）" },
+      { "en": "undo", "ja": "元に戻す" }
+    ],
+    "faq": [
+      { "q": "reversible とはどんな意味？", "a": "変化や反応を『元に戻せる・逆にできる』、また衣服が『裏表どちらも使える（リバーシブル）』という意味です。The damage is reversible if treated early.（早く処置すれば元に戻せる）のように使います。" },
+      { "q": "reversible の反対語は？", "a": "irreversible（元に戻せない・不可逆の）です。reversible（元に戻せる）⇔ irreversible（元に戻せない）の関係で、医学や環境で『不可逆的な変化』のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The damage is ___ if treated early.（元に戻せる）", "A": "reversible", "B": "responsible の責任ある", "C": "reasonable の妥当な", "D": "remarkable の注目すべき", "correct": "A" },
+      { "q": "reversible の反対語はどれ？", "A": "irreversible（元に戻せない）", "B": "reversal（逆転）", "C": "reverse（逆にする）", "D": "reversing（逆にすること）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rhombus",
+    "pron": "ˈrɒmbəs",
+    "kana": "ロンバス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 rhombos（回るもの・ひし形）より",
+    "ld_level": "1級",
+    "badges": ["中学生〜", "英検1級", "CEFR B2", "数学・図形"],
+    "meaning_main": "ひし形・菱形（りょうけい）（4辺の長さが等しい四角形）",
+    "description": "rhombus の意味・発音・例文・語源を解説。4つの辺の長さがすべて等しい四角形「ひし形・菱形」を表す、数学・図形で使う名詞の使い方を紹介します。",
+    "keywords": ["rhombus 意味", "rhombus 発音", "ひし形", "菱形"],
+    "meanings": [
+      { "hinshi": "【名詞】ひし形・菱形（りょうけい）", "note": "4つの辺の長さがすべて等しい四角形。複数形は rhombuses または rhombi。" }
+    ],
+    "usages": [
+      { "title": "① 図形としての「ひし形」", "desc": "4辺が等しい四角形を表します。", "example_en": "A square is a special kind of rhombus.", "example_ja": "正方形はひし形の特別な一種だ。" },
+      { "title": "② 数学の文脈で", "desc": "図形の性質を表します。", "example_en": "The diagonals of a rhombus cross at right angles.", "example_ja": "ひし形の対角線は直角に交わる。" }
+    ],
+    "warn": [
+      "rhombus は『ひし形・菱形』（4辺が等しい四角形）。つづり rh- に注意。複数形は rhombuses / rhombi。",
+      "diamond（トランプなどのダイヤ形）も日常では『ひし形』に使うが、数学では rhombus。"
+    ],
+    "etym_note": "ギリシャ語 rhombos（『回るもの・うなり板』、のち『ひし形』）に由来します。回転させる道具の形から図形の名になりました。",
+    "etym_chain": [
+      { "node": "rhombos", "sub": "回るもの・ひし形", "era": "ギリシャ語" },
+      { "node": "rhombus", "sub": "ひし形", "era": "ラテン語" },
+      { "node": "rhombus", "sub": "ひし形・菱形", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a perfect rhombus", "ja": "完全なひし形" },
+      { "en": "in the shape of a rhombus", "ja": "ひし形の形で" },
+      { "en": "the area of a rhombus", "ja": "ひし形の面積" },
+      { "en": "the diagonals of a rhombus", "ja": "ひし形の対角線" },
+      { "en": "draw a rhombus", "ja": "ひし形を描く" },
+      { "en": "a rhombus pattern", "ja": "ひし形模様" }
+    ],
+    "related": [
+      { "en": "diamond", "ja": "ダイヤ形・ひし形" },
+      { "en": "square", "ja": "正方形" },
+      { "en": "parallelogram", "ja": "平行四辺形" },
+      { "en": "quadrilateral", "ja": "四角形・四辺形" }
+    ],
+    "faq": [
+      { "q": "rhombus とはどんな意味？", "a": "4つの辺の長さがすべて等しい四角形『ひし形・菱形』のことです。A square is a special kind of rhombus.（正方形はひし形の特別な一種だ）のように使います。" },
+      { "q": "rhombus と square の違いは？", "a": "どちらも4辺が等しい四角形ですが、square（正方形）は『4つの角がすべて直角』のひし形です。つまり正方形はひし形の特別な場合といえます。" }
+    ],
+    "quiz": [
+      { "q": "A square is a special kind of ___.（ひし形）", "A": "rhombus", "B": "circus のサーカス", "C": "campus のキャンパス", "D": "bonus のボーナス", "correct": "A" },
+      { "q": "rhombus（ひし形）の特徴はどれ？", "A": "4つの辺の長さがすべて等しい", "B": "辺が3つ", "C": "辺が5つ", "D": "角がない（円）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ribcage",
+    "pron": "ˈrɪbkeɪdʒ",
+    "kana": "リブケイジ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rib（肋骨）＋ cage（かご）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "理科・人体"],
+    "meaning_main": "胸郭（きょうかく）・肋骨（ろっこつ）のかご状の骨組み",
+    "description": "ribcage の意味・発音・例文・語源を解説。心臓や肺を囲んで守る、肋骨でできたかご状の骨組み「胸郭・肋骨のかご」を表す、人体の名詞の使い方を紹介します。",
+    "keywords": ["ribcage 意味", "ribcage 発音", "胸郭", "肋骨"],
+    "meanings": [
+      { "hinshi": "【名詞】胸郭・肋骨のかご状の骨組み", "note": "肋骨（ribs）が胸を囲んでできるかご状の骨組み。心臓・肺などを守る。rib cage と2語でも書く。" }
+    ],
+    "usages": [
+      { "title": "① 人体の「胸郭」として", "desc": "肋骨のかごを表します。", "example_en": "The ribcage protects the heart and lungs.", "example_ja": "胸郭は心臓と肺を守る。" },
+      { "title": "② 医学・解剖の文脈で", "desc": "骨格の一部を表します。", "example_en": "He felt pain in his ribcage.", "example_ja": "彼は胸郭（肋骨のあたり）に痛みを感じた。" }
+    ],
+    "warn": [
+      "ribcage は『胸郭・肋骨のかご状の骨組み』。rib（肋骨）＋ cage（かご）。rib cage と2語でも書く。",
+      "心臓・肺などの臓器を守る役割。"
+    ],
+    "etym_note": "rib（『肋骨』、古英語 ribb より）＋ cage（『かご』、ラテン語 cavea「囲い」より）から成る複合語で、「肋骨でできたかご」を意味します。",
+    "etym_chain": [
+      { "node": "ribb + cavea", "sub": "肋骨＋囲い", "era": "古英語・ラテン語" },
+      { "node": "rib cage", "sub": "肋骨のかご", "era": "近代英語" },
+      { "node": "ribcage", "sub": "胸郭", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the ribcage protects the heart", "ja": "胸郭が心臓を守る" },
+      { "en": "pain in the ribcage", "ja": "胸郭（肋骨）の痛み" },
+      { "en": "inside the ribcage", "ja": "胸郭の内側に" },
+      { "en": "the lower ribcage", "ja": "胸郭の下部" },
+      { "en": "expand the ribcage", "ja": "胸郭を広げる" },
+      { "en": "the bones of the ribcage", "ja": "胸郭の骨" }
+    ],
+    "related": [
+      { "en": "rib", "ja": "肋骨" },
+      { "en": "chest", "ja": "胸" },
+      { "en": "sternum", "ja": "胸骨" },
+      { "en": "skeleton", "ja": "骨格" }
+    ],
+    "faq": [
+      { "q": "ribcage とはどんな意味？", "a": "肋骨（ribs）が胸を囲んでできる、かご状の骨組み『胸郭』のことです。心臓や肺などの臓器を守ります。The ribcage protects the heart and lungs.（胸郭は心臓と肺を守る）のように使います。" },
+      { "q": "ribcage の役割は？", "a": "心臓・肺などの大切な臓器を囲んで衝撃から守るとともに、呼吸のときに広がったり縮んだりして肺の動きを助けます。" }
+    ],
+    "quiz": [
+      { "q": "The ___ protects the heart and lungs.（胸郭）", "A": "ribcage", "B": "package の小包", "C": "village の村", "D": "message のメッセージ", "correct": "A" },
+      { "q": "ribcage を構成する2語はどれ？", "A": "rib（肋骨）＋ cage（かご）", "B": "rib ＋ page（ページ）", "C": "rib ＋ age（年齢）", "D": "ribbon（リボン）＋ cage", "correct": "A" }
+    ]
+  },
+  {
+    "english": "richly",
+    "pron": "ˈrɪtʃli",
+    "kana": "リッチリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "rich（豊かな）＋ -ly",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "頻出語"],
+    "meaning_main": "豊かに・ぜいたくに／（当然のこととして）十分に・大いに",
+    "description": "richly の意味・発音・例文・語源を解説。「豊かに・ぜいたくに飾る」という意味と、richly deserve のように「（当然のこととして）十分に・大いに」という意味を紹介します。",
+    "keywords": ["richly 意味", "richly 発音", "豊かに", "十分に"],
+    "meanings": [
+      { "hinshi": "【副詞】豊かに・ぜいたくに・華やかに", "note": "richly decorated（豪華に飾られた）。色・味などが『濃く・深く』も。" },
+      { "hinshi": "【副詞】（当然のこととして）十分に・大いに", "note": "richly deserve（当然受けるに値する）。richly rewarded（十分に報われた）。" }
+    ],
+    "usages": [
+      { "title": "① 「豪華に」として", "desc": "ぜいたくな様子を表します。", "example_en": "The room was richly decorated.", "example_ja": "その部屋は豪華に飾られていた。" },
+      { "title": "② richly deserve の形で", "desc": "「当然〜に値する」を表します。", "example_en": "She richly deserves the award.", "example_ja": "彼女はその賞を受けるのに十分値する。" }
+    ],
+    "warn": [
+      "richly は『豊かに・ぜいたくに』と、『（当然のこととして）十分に・大いに』。rich（豊かな）＋ -ly。",
+      "richly deserve（当然〜に値する）, richly decorated（豪華に飾られた）が頻出。"
+    ],
+    "etym_note": "rich（『豊かな・裕福な』、古英語 rīce「力ある・豊かな」より）＋ -ly から成り、「豊かに・十分に」を意味します。",
+    "etym_chain": [
+      { "node": "rīce", "sub": "力ある・豊かな", "era": "古英語" },
+      { "node": "rich", "sub": "豊かな", "era": "中英語" },
+      { "node": "richly", "sub": "豊かに・十分に", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "richly decorated", "ja": "豪華に飾られた" },
+      { "en": "richly deserve", "ja": "当然受けるに値する" },
+      { "en": "richly rewarded", "ja": "十分に報われた" },
+      { "en": "richly colored", "ja": "色鮮やかな" },
+      { "en": "richly illustrated", "ja": "豊富に図解された" },
+      { "en": "a richly woven fabric", "ja": "豪華に織られた生地" }
+    ],
+    "related": [
+      { "en": "rich", "ja": "豊かな・裕福な" },
+      { "en": "lavishly", "ja": "ぜいたくに" },
+      { "en": "abundantly", "ja": "豊富に" },
+      { "en": "fully", "ja": "十分に" }
+    ],
+    "faq": [
+      { "q": "richly とはどんな意味？", "a": "『豊かに・ぜいたくに・華やかに』という意味と、richly deserve のように『（当然のこととして）十分に・大いに』という意味があります。The room was richly decorated.（豪華に飾られていた）のように使います。" },
+      { "q": "richly deserve とは？", "a": "『当然受けるに値する・受けて当たり前だ』という意味です。She richly deserves the award.（彼女はその賞に十分値する）のように、正当な報い・評価を強調します。" }
+    ],
+    "quiz": [
+      { "q": "The room was ___ decorated.（豪華に）", "A": "richly", "B": "rarely のめったに〜ない", "C": "recently の最近", "D": "roughly のおおよそ", "correct": "A" },
+      { "q": "richly deserve の意味はどれ？", "A": "当然受けるに値する", "B": "めったに受けない", "C": "断る", "D": "忘れる", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reverberation",
+    "pron": "rɪˌvɜːrbəˈreɪʃən",
+    "kana": "リバーバレイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "reverberate（反響する）＋ -ion",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "理科・比喩"],
+    "meaning_main": "反響・残響／（比喩・複数で）（出来事の）余波・影響",
+    "description": "reverberation の意味・発音・例文・語源を解説。音の「反響・残響」という物理の意味と、出来事が後々まで及ぼす「余波・影響」という比喩の使い方を紹介します。",
+    "keywords": ["reverberation 意味", "reverberation 発音", "反響", "余波"],
+    "meanings": [
+      { "hinshi": "【名詞】反響・残響", "note": "音が壁などにはね返り、響き続けること。the reverberation of the bell（鐘の残響）。" },
+      { "hinshi": "【名詞】(比喩・ふつう複数)余波・（後々の）影響", "note": "出来事が及ぼす長く続く影響。the reverberations of the crisis（危機の余波）。" }
+    ],
+    "usages": [
+      { "title": "① 音の「反響・残響」として", "desc": "響き続ける音を表します。", "example_en": "The reverberation of the drum filled the hall.", "example_ja": "太鼓の残響がホールを満たした。" },
+      { "title": "② 比喩「余波」として", "desc": "後々の影響を表します。", "example_en": "The scandal had reverberations across the country.", "example_ja": "そのスキャンダルは全国に余波を及ぼした。" }
+    ],
+    "warn": [
+      "reverberation は物理で『反響・残響』、比喩（多く複数 reverberations）で『余波・後々の影響』。動詞 reverberate（反響する・響き渡る）。",
+      "echo（こだま）が一度はね返る音なのに対し、reverberation は『何度も重なって響き続ける残響』。"
+    ],
+    "etym_note": "reverberate（『反響する』、ラテン語 reverberare「打ち返す」、re-「再び」＋ verberare「打つ」より）＋ -ion から成り、「打ち返されて響くこと」を意味します。",
+    "etym_chain": [
+      { "node": "reverberare", "sub": "打ち返す", "era": "ラテン語" },
+      { "node": "reverberate", "sub": "反響する", "era": "近代英語" },
+      { "node": "reverberation", "sub": "反響・余波", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the reverberation of the bell", "ja": "鐘の残響" },
+      { "en": "acoustic reverberation", "ja": "音響の残響" },
+      { "en": "a long reverberation", "ja": "長い残響" },
+      { "en": "the reverberations of the crisis", "ja": "危機の余波" },
+      { "en": "have reverberations", "ja": "余波を及ぼす" },
+      { "en": "political reverberations", "ja": "政治的な余波" }
+    ],
+    "related": [
+      { "en": "reverberate", "ja": "反響する・響き渡る" },
+      { "en": "echo", "ja": "こだま・反響" },
+      { "en": "resonance", "ja": "共鳴・反響" },
+      { "en": "repercussion", "ja": "（しばしば悪い）影響・余波" }
+    ],
+    "faq": [
+      { "q": "reverberation とはどんな意味？", "a": "音が壁などにはね返り響き続ける『反響・残響』という物理の意味と、出来事が後々まで及ぼす『余波・影響』という比喩の意味があります。the reverberations of the crisis（危機の余波）のように使います。動詞は reverberate です。" },
+      { "q": "reverberation と echo の違いは？", "a": "echo（こだま）は『（時間をおいて）はっきり聞こえるはね返り』、reverberation（残響）は『（何度も重なって）すぐに長く響き続ける音』です。お風呂場で声が響くのは reverberation に近いです。" }
+    ],
+    "quiz": [
+      { "q": "The scandal had ___s across the country.（余波）", "A": "reverberation", "B": "celebration の祝賀", "C": "reservation の予約", "D": "registration の登録", "correct": "A" },
+      { "q": "reverberation の動詞形はどれ？", "A": "reverberate（反響する）", "B": "celebrate（祝う）", "C": "reserve（予約する）", "D": "register（登録する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "revelry",
+    "pron": "ˈrevəlri",
+    "kana": "レベルリー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "revel（どんちゃん騒ぎをする）＋ -ry",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文化・文語"],
+    "meaning_main": "どんちゃん騒ぎ・酒宴・お祭り騒ぎ",
+    "description": "revelry の意味・発音・例文・語源を解説。飲んで歌って楽しむ「どんちゃん騒ぎ・酒宴・お祭り騒ぎ」を表す、やや文語的な名詞の使い方を分かりやすく紹介します。",
+    "keywords": ["revelry 意味", "revelry 発音", "どんちゃん騒ぎ", "酒宴"],
+    "meanings": [
+      { "hinshi": "【名詞】どんちゃん騒ぎ・酒宴・お祭り騒ぎ", "note": "にぎやかに飲み歌い楽しむこと。a night of revelry（飲めや歌えの一夜）。動詞は revel。" }
+    ],
+    "usages": [
+      { "title": "① 「お祭り騒ぎ」として", "desc": "にぎやかな宴を表します。", "example_en": "The festival was a night of music and revelry.", "example_ja": "その祭りは音楽とお祭り騒ぎの一夜だった。" },
+      { "title": "② 宴の様子として", "desc": "飲み騒ぐ様子を表します。", "example_en": "The revelry continued until dawn.", "example_ja": "どんちゃん騒ぎは夜明けまで続いた。" }
+    ],
+    "warn": [
+      "revelry は『どんちゃん騒ぎ・酒宴・お祭り騒ぎ』。動詞 revel（どんちゃん騒ぎをする／revel in 〜＝〜を大いに楽しむ）＋ -ry。やや文語的。",
+      "a night of revelry（飲めや歌えの一夜）が頻出。"
+    ],
+    "etym_note": "revel（『どんちゃん騒ぎをする』、古フランス語 reveler「騒ぐ」、ラテン語 rebellare「反抗する」より）＋ -ry（『集合・行為』を表す語尾）から成り、「にぎやかな宴」を意味します。",
+    "etym_chain": [
+      { "node": "reveler", "sub": "騒ぐ", "era": "古フランス語" },
+      { "node": "revel", "sub": "どんちゃん騒ぎをする", "era": "中英語" },
+      { "node": "revelry", "sub": "どんちゃん騒ぎ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a night of revelry", "ja": "飲めや歌えの一夜" },
+      { "en": "drunken revelry", "ja": "酔ってのどんちゃん騒ぎ" },
+      { "en": "festive revelry", "ja": "祭りのお祭り騒ぎ" },
+      { "en": "join in the revelry", "ja": "お祭り騒ぎに加わる" },
+      { "en": "the revelry continued", "ja": "宴は続いた" },
+      { "en": "scenes of revelry", "ja": "どんちゃん騒ぎの光景" }
+    ],
+    "related": [
+      { "en": "revel", "ja": "どんちゃん騒ぎをする" },
+      { "en": "festivity", "ja": "祝祭・お祭り騒ぎ" },
+      { "en": "merrymaking", "ja": "宴・浮かれ騒ぎ" },
+      { "en": "carousing", "ja": "酒盛り" }
+    ],
+    "faq": [
+      { "q": "revelry とはどんな意味？", "a": "飲んで歌って楽しむ『どんちゃん騒ぎ・酒宴・お祭り騒ぎ』のことです。The festival was a night of music and revelry.（音楽とお祭り騒ぎの一夜だった）のように使います。動詞は revel です。" },
+      { "q": "revel in ～ とは？", "a": "動詞 revel の用法で『〜を大いに楽しむ・〜に浸る』という意味です。revel in success（成功を大いに楽しむ）のように、revelry（どんちゃん騒ぎ）とは別の使い方です。" }
+    ],
+    "quiz": [
+      { "q": "The festival was a night of music and ___.（お祭り騒ぎ）", "A": "revelry", "B": "jewelry の宝石類", "C": "delivery の配達", "D": "discovery の発見", "correct": "A" },
+      { "q": "revelry の動詞形はどれ？", "A": "revel（どんちゃん騒ぎをする）", "B": "deliver（配達する）", "C": "discover（発見する）", "D": "develop（発展させる）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rewilding",
+    "pron": "ˌriːˈwaɪldɪŋ",
+    "kana": "リワイルディング",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rewild（自然を取り戻させる）＋ -ing",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "環境・自然"],
+    "meaning_main": "再野生化・自然回復（土地を本来の自然な状態に戻すこと）",
+    "description": "rewilding の意味・発音・例文・語源を解説。人の手が入った土地を本来の自然な状態に戻し、生態系を回復させる「再野生化・自然回復」を表す、環境の語を紹介します。",
+    "keywords": ["rewilding 意味", "rewilding 発音", "再野生化", "自然回復"],
+    "meanings": [
+      { "hinshi": "【名詞】再野生化・自然回復", "note": "人の手が入った土地を本来の自然な状態に戻し、野生動植物や生態系を回復させる取り組み。a rewilding project（再野生化プロジェクト）。動詞は rewild。" }
+    ],
+    "usages": [
+      { "title": "① 「再野生化」として", "desc": "自然を取り戻す取り組みを表します。", "example_en": "Rewilding aims to restore natural ecosystems.", "example_ja": "再野生化は自然の生態系の回復を目指す。" },
+      { "title": "② 環境保全の文脈で", "desc": "野生動物の再導入を表します。", "example_en": "The rewilding project reintroduced beavers to the river.", "example_ja": "その再野生化計画はビーバーを川に再導入した。" }
+    ],
+    "warn": [
+      "rewilding は『再野生化・自然回復』。rewild（自然を取り戻させる）＋ -ing。re-（再び）＋ wild（野生の）。",
+      "野生動物の再導入や、農地を自然に戻す取り組みなど。近年の環境保全の重要概念。"
+    ],
+    "etym_note": "rewild（re-「再び」＋ wild「野生の・荒れ地の」、古英語 wilde より）＋ -ing から成り、「再び野生（自然）の状態に戻すこと」を意味します。20〜21世紀の環境保全の文脈で広まった語です。",
+    "etym_chain": [
+      { "node": "wilde", "sub": "野生の", "era": "古英語" },
+      { "node": "rewild", "sub": "自然を取り戻させる", "era": "20世紀英語" },
+      { "node": "rewilding", "sub": "再野生化", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a rewilding project", "ja": "再野生化プロジェクト" },
+      { "en": "rewilding efforts", "ja": "再野生化の取り組み" },
+      { "en": "large-scale rewilding", "ja": "大規模な自然回復" },
+      { "en": "rewilding the landscape", "ja": "景観を自然に戻す" },
+      { "en": "promote rewilding", "ja": "再野生化を進める" },
+      { "en": "urban rewilding", "ja": "都市の緑化・自然回復" }
+    ],
+    "related": [
+      { "en": "rewild", "ja": "自然を取り戻させる" },
+      { "en": "conservation", "ja": "保全" },
+      { "en": "restoration", "ja": "回復・修復" },
+      { "en": "biodiversity", "ja": "生物多様性" }
+    ],
+    "faq": [
+      { "q": "rewilding とはどんな意味？", "a": "人の手が入った土地を本来の自然な状態に戻し、野生動植物や生態系を回復させる取り組み『再野生化・自然回復』のことです。Rewilding aims to restore natural ecosystems.（自然の生態系の回復を目指す）のように使います。" },
+      { "q": "rewilding はどんなことをするの？", "a": "農地や荒れ地を自然に戻したり、かつていた野生動物（ビーバー・オオカミなど）を再導入したりして、人の介入を減らし生態系が自力で回復するのを促します。" }
+    ],
+    "quiz": [
+      { "q": "___ aims to restore natural ecosystems.（再野生化）", "A": "Rewilding", "B": "Rebuilding の再建", "C": "Recycling の再利用", "D": "Rewinding の巻き戻し", "correct": "A" },
+      { "q": "rewilding に含まれる wild の意味は？", "A": "野生の・自然のままの", "B": "都市の", "C": "人工の", "D": "汚染された", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rhinoplasty",
+    "pron": "ˈraɪnoʊplæsti",
+    "kana": "ライノプラスティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 rhis/rhino-（鼻）＋ -plasty（形成術）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "医学・美容"],
+    "meaning_main": "鼻形成術・隆鼻術（びけいせいじゅつ。鼻の整形手術）",
+    "description": "rhinoplasty の意味・発音・例文・語源を解説。鼻の形を整える手術「鼻形成術・隆鼻術（いわゆる鼻の整形）」を表す、医学・美容で使う名詞の使い方を紹介します。",
+    "keywords": ["rhinoplasty 意味", "rhinoplasty 発音", "鼻形成術", "鼻の整形"],
+    "meanings": [
+      { "hinshi": "【名詞】鼻形成術・隆鼻術（鼻の整形手術）", "note": "鼻の形を整えたり、機能（呼吸など）を改善したりする手術。美容目的・医療目的の両方がある。" }
+    ],
+    "usages": [
+      { "title": "① 美容目的の「鼻の整形」として", "desc": "鼻の形を整える手術を表します。", "example_en": "She had rhinoplasty to reshape her nose.", "example_ja": "彼女は鼻の形を整える鼻形成術を受けた。" },
+      { "title": "② 医療目的の文脈で", "desc": "機能改善の手術を表します。", "example_en": "Rhinoplasty can also improve breathing.", "example_ja": "鼻形成術は呼吸の改善にも役立つ。" }
+    ],
+    "warn": [
+      "rhinoplasty は『鼻形成術・隆鼻術（鼻の整形手術）』。rhino-（鼻）＋ -plasty（形成術）。つづり rh- に注意。",
+      "-plasty は『形成術』を表す（surgery の一種）。"
+    ],
+    "etym_note": "ギリシャ語 rhis/rhino-（『鼻』）＋ -plasty（『形成する・形づくる術』、plassein「形づくる」より）から成り、「鼻を形づくる手術」を意味します。rhinoceros（サイ＝『鼻に角のある』）と同じ rhino- です。",
+    "etym_chain": [
+      { "node": "rhino- + plassein", "sub": "鼻＋形づくる", "era": "ギリシャ語" },
+      { "node": "rhinoplasty", "sub": "鼻形成術", "era": "近代英語" },
+      { "node": "rhinoplasty", "sub": "鼻形成術・隆鼻術", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "have rhinoplasty", "ja": "鼻形成術を受ける" },
+      { "en": "undergo rhinoplasty", "ja": "鼻の整形手術を受ける" },
+      { "en": "cosmetic rhinoplasty", "ja": "美容目的の鼻形成術" },
+      { "en": "a rhinoplasty procedure", "ja": "鼻形成術の処置" },
+      { "en": "recover from rhinoplasty", "ja": "鼻形成術から回復する" },
+      { "en": "functional rhinoplasty", "ja": "機能改善の鼻形成術" }
+    ],
+    "related": [
+      { "en": "plastic surgery", "ja": "形成外科・美容整形" },
+      { "en": "cosmetic surgery", "ja": "美容外科" },
+      { "en": "rhinoceros", "ja": "サイ（鼻に角のある動物）" },
+      { "en": "nose", "ja": "鼻" }
+    ],
+    "faq": [
+      { "q": "rhinoplasty とはどんな意味？", "a": "鼻の形を整えたり、呼吸などの機能を改善したりする手術『鼻形成術・隆鼻術（いわゆる鼻の整形）』のことです。She had rhinoplasty to reshape her nose.（鼻の形を整える手術を受けた）のように使います。" },
+      { "q": "rhinoplasty の rhino- とは？", "a": "ギリシャ語で『鼻』を意味する要素です。-plasty は『形成術』。rhinoceros（サイ）も『鼻に角のある動物』という意味で、同じ rhino-（鼻）を含みます。" }
+    ],
+    "quiz": [
+      { "q": "She had ___ to reshape her nose.（鼻形成術）", "A": "rhinoplasty", "B": "rhapsody の狂詩曲", "C": "rhetoric の修辞", "D": "rhythm のリズム", "correct": "A" },
+      { "q": "rhinoplasty の rhino- の意味はどれ？", "A": "鼻", "B": "目", "C": "耳", "D": "口", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retractor",
+    "pron": "rɪˈtræktər",
+    "kana": "リトラクター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "retract（引っ込める）＋ -or（〜するもの）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "医学・技術"],
+    "meaning_main": "（手術で組織を引き寄せる）開創器・リトラクター／引き込む装置・筋肉",
+    "description": "retractor の意味・発音・例文・語源を解説。手術で切開部を広げて保つ器具「開創器（リトラクター）」や、引き込む装置・筋肉を表す、医学・技術の名詞を紹介します。",
+    "keywords": ["retractor 意味", "retractor 発音", "開創器", "retract 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】（手術用の）開創器・リトラクター", "note": "手術で切開部の組織を引き寄せて視野を確保する器具。a surgical retractor（外科用開創器）。" },
+      { "hinshi": "【名詞】引き込む装置・（解剖)後引筋", "note": "何かを引っ込める装置や、部位を引っ込める筋肉。" }
+    ],
+    "usages": [
+      { "title": "① 「開創器」として", "desc": "手術器具を表します。", "example_en": "The surgeon used a retractor to hold the incision open.", "example_ja": "外科医は切開部を広げて保つために開創器を使った。" },
+      { "title": "② 装置の文脈で", "desc": "引き込む仕組みを表します。", "example_en": "A retractor pulls the cable back automatically.", "example_ja": "リトラクターはケーブルを自動で引き戻す。" }
+    ],
+    "warn": [
+      "retractor は『（手術用の）開創器・リトラクター』が中心。retract（引っ込める・引き寄せる）＋ -or。",
+      "解剖学では『後引筋（部位を引っ込める筋肉）』、機械では『引き込む装置』にも使う。"
+    ],
+    "etym_note": "retract（『引っ込める・引き寄せる』、ラテン語 retrahere「引き戻す」より）＋ -or（『〜するもの』）から成り、「引き寄せるもの」を意味します。retractable（格納式の）と同じ語根です。",
+    "etym_chain": [
+      { "node": "retrahere", "sub": "引き戻す", "era": "ラテン語" },
+      { "node": "retract", "sub": "引っ込める・引き寄せる", "era": "近代英語" },
+      { "node": "retractor", "sub": "開創器・引き込む装置", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a surgical retractor", "ja": "外科用開創器" },
+      { "en": "use a retractor", "ja": "開創器を使う" },
+      { "en": "hold the incision open with a retractor", "ja": "開創器で切開部を広げて保つ" },
+      { "en": "a self-retaining retractor", "ja": "自己保持式開創器" },
+      { "en": "a seatbelt retractor", "ja": "シートベルトの巻き取り装置" },
+      { "en": "place the retractor", "ja": "開創器を留置する" }
+    ],
+    "related": [
+      { "en": "retract", "ja": "引っ込める・引き寄せる" },
+      { "en": "retractable", "ja": "格納式の・引っ込められる" },
+      { "en": "forceps", "ja": "鉗子（かんし）" },
+      { "en": "scalpel", "ja": "メス" }
+    ],
+    "faq": [
+      { "q": "retractor とはどんな意味？", "a": "手術で切開部の組織を引き寄せ、視野を確保する器具『開創器（リトラクター）』が中心の意味です。The surgeon used a retractor to hold the incision open.（切開部を広げて保つために開創器を使った）のように使います。" },
+      { "q": "retractor の他の使い方は？", "a": "解剖学では『部位を引っ込める筋肉（後引筋）』、機械では『（シートベルトなどを）自動で引き戻す装置』にも使われます。いずれも『引っ込める・引き寄せる（retract）もの』という意味でつながっています。" }
+    ],
+    "quiz": [
+      { "q": "The surgeon used a ___ to hold the incision open.（開創器）", "A": "retractor", "B": "reactor の原子炉", "C": "tractor のトラクター", "D": "director の監督", "correct": "A" },
+      { "q": "retractor のもとになった動詞はどれ？", "A": "retract（引っ込める・引き寄せる）", "B": "react（反応する）", "C": "attract（引きつける）", "D": "direct（向ける）", "correct": "A" }
+    ]
+  }
+]

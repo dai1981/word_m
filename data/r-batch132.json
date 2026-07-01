@@ -1,0 +1,525 @@
+[
+  {
+    "english": "reflexively",
+    "pron": "rɪˈfleksɪvli",
+    "kana": "リフレクシブリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "reflexive（反射的な）＋ -ly",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "心理・頻出"],
+    "meaning_main": "反射的に・とっさに・考えずに（自動的に）",
+    "description": "reflexively の意味・発音・例文・語源を解説。考えるより先に「反射的に・とっさに・自動的に」体や心が反応する様子を表す副詞の使い方を分かりやすく紹介します。",
+    "keywords": ["reflexively 意味", "reflexively 発音", "反射的に", "とっさに"],
+    "meanings": [
+      { "hinshi": "【副詞】反射的に・とっさに・考えずに（自動的に）", "note": "意識的に考える前に自動的に反応して。reflexively flinch（反射的にひるむ）。形容詞は reflexive（反射的な）。" }
+    ],
+    "usages": [
+      { "title": "① 「反射的にひるむ」として", "desc": "とっさの体の反応を表します。", "example_en": "He reflexively raised his arms to protect his face.", "example_ja": "彼はとっさに顔を守ろうと腕を上げた。" },
+      { "title": "② 「考えずに〜する」として", "desc": "自動的な反応を表します。", "example_en": "She reflexively apologized, even though it wasn't her fault.", "example_ja": "彼女は自分のせいでないのに反射的に謝った。" }
+    ],
+    "warn": [
+      "reflexively は『反射的に・とっさに・考えずに（自動的に）』。形容詞 reflexive（反射的な／文法の再帰の）＋ -ly。",
+      "文法用語の reflexive（再帰代名詞 myself など）とは別の用法。ここでは『反射的に』。"
+    ],
+    "etym_note": "reflexive（『反射的な』、ラテン語 reflectere「曲げ返す」より）＋ -ly から成り、「（刺激に対し）曲げ返すように自動的に」を意味します。reflect（反射する）, reflex（反射）と同じ語根です。",
+    "etym_chain": [
+      { "node": "reflectere", "sub": "曲げ返す", "era": "ラテン語" },
+      { "node": "reflexive", "sub": "反射的な", "era": "近代英語" },
+      { "node": "reflexively", "sub": "反射的に", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reflexively flinch", "ja": "反射的にひるむ" },
+      { "en": "reflexively duck", "ja": "とっさに身をかがめる" },
+      { "en": "reflexively apologize", "ja": "反射的に謝る" },
+      { "en": "act reflexively", "ja": "反射的に行動する" },
+      { "en": "reflexively defensive", "ja": "とっさに身構えて" },
+      { "en": "respond reflexively", "ja": "反射的に反応する" }
+    ],
+    "related": [
+      { "en": "reflexive", "ja": "反射的な・再帰の" },
+      { "en": "reflex", "ja": "反射" },
+      { "en": "instinctively", "ja": "本能的に" },
+      { "en": "automatically", "ja": "自動的に" }
+    ],
+    "faq": [
+      { "q": "reflexively とはどんな意味？", "a": "考えるより先に『反射的に・とっさに・自動的に』体や心が反応する様子を表す副詞です。He reflexively raised his arms.（とっさに腕を上げた）のように使います。形容詞は reflexive です。" },
+      { "q": "reflexively と instinctively の違いは？", "a": "どちらも『考えずに』ですが、reflexively は『（刺激への）反射として自動的に』、instinctively は『（生まれ持った）本能にもとづいて』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "He ___ raised his arms to protect his face.（とっさに）", "A": "reflexively", "B": "reflectively の熟考して", "C": "respectively のそれぞれ", "D": "relatively の比較的", "correct": "A" },
+      { "q": "reflexively の形容詞形はどれ？", "A": "reflexive（反射的な）", "B": "reflective（反射の・熟考する）", "C": "respective（それぞれの）", "D": "relative（相対的な）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reductionist",
+    "pron": "rɪˈdʌkʃənɪst",
+    "kana": "リダクショニスト",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "reduction（還元）＋ -ist（〜主義の/人）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "哲学・科学"],
+    "meaning_main": "還元主義の・単純化しすぎた／還元主義者",
+    "description": "reductionist の意味・発音・例文・語源を解説。複雑なものを単純な要素に分けて説明する「還元主義の・単純化しすぎた」という形容詞と、「還元主義者」という名詞の使い方を紹介します。",
+    "keywords": ["reductionist 意味", "reductionist 発音", "還元主義の", "単純化しすぎた"],
+    "meanings": [
+      { "hinshi": "【形容詞】還元主義の・単純化しすぎた", "note": "複雑な現象を単純な要素に切り詰めて説明する（しばしば否定的）。a reductionist view（単純化しすぎた見方）。" },
+      { "hinshi": "【名詞】還元主義者", "note": "全体を要素に還元して説明しようとする人。" }
+    ],
+    "usages": [
+      { "title": "① 「還元主義的な見方」として", "desc": "単純化しすぎた説明を表します。", "example_en": "That's a reductionist explanation of human behavior.", "example_ja": "それは人間の行動を単純化しすぎた説明だ。" },
+      { "title": "② 「還元主義者」として", "desc": "要素に還元する立場の人を表します。", "example_en": "Critics accused him of being a reductionist.", "example_ja": "批評家は彼を還元主義者だと非難した。" }
+    ],
+    "warn": [
+      "reductionist は『還元主義の・単純化しすぎた』『還元主義者』。reduction（還元）＋ -ist。名詞 reductionism（還元主義）。",
+      "しばしば否定的（複雑さを切り捨てている）。対立する立場は holism（全体論）。"
+    ],
+    "etym_note": "reduction（『還元・縮小』、ラテン語 reducere「引き戻す」より）＋ -ist（『〜主義の・〜する人』）から成り、「（複雑さを）単純な要素に還元する立場の」を意味します。reduce（減らす）と同じ語根です。",
+    "etym_chain": [
+      { "node": "reducere", "sub": "引き戻す", "era": "ラテン語" },
+      { "node": "reduction", "sub": "還元・縮小", "era": "近代英語" },
+      { "node": "reductionist", "sub": "還元主義の・還元主義者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a reductionist view", "ja": "単純化しすぎた見方" },
+      { "en": "a reductionist approach", "ja": "還元主義的な手法" },
+      { "en": "overly reductionist", "ja": "過度に単純化した" },
+      { "en": "a reductionist explanation", "ja": "単純化しすぎた説明" },
+      { "en": "a crude reductionist", "ja": "粗雑な還元主義者" },
+      { "en": "reductionist thinking", "ja": "還元主義的な考え方" }
+    ],
+    "related": [
+      { "en": "reductionism", "ja": "還元主義" },
+      { "en": "reductive", "ja": "還元的な・単純化しすぎた" },
+      { "en": "holist", "ja": "全体論者（対比）" },
+      { "en": "simplistic", "ja": "単純化しすぎた" }
+    ],
+    "faq": [
+      { "q": "reductionist とはどんな意味？", "a": "複雑なものを単純な要素に分けて説明する『還元主義の・単純化しすぎた』という形容詞、また『還元主義者』という名詞です。That's a reductionist explanation.（単純化しすぎた説明だ）のように、しばしば否定的に使います。" },
+      { "q": "reductionist と holist の違いは？", "a": "reductionist（還元主義者）は『全体は部分に分解して説明できる』とする立場、holist（全体論者）は『全体は部分の総和以上で、まるごととらえるべき』とする立場で、対立します。" }
+    ],
+    "quiz": [
+      { "q": "That's a ___ explanation of human behavior.（単純化しすぎた）", "A": "reductionist", "B": "receptionist の受付係", "C": "specialist の専門家", "D": "tourist の観光客", "correct": "A" },
+      { "q": "reductionist の名詞（立場）はどれ？", "A": "reductionism（還元主義）", "B": "reception（受付）", "C": "tourism（観光）", "D": "realism（写実主義）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reflectance",
+    "pron": "rɪˈflektəns",
+    "kana": "リフレクタンス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "reflect（反射する）＋ -ance（性質）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "理科・物理"],
+    "meaning_main": "反射率・反射能（表面が光を反射する割合）",
+    "description": "reflectance の意味・発音・例文・語源を解説。物の表面が当たった光をどれだけ反射するかの割合「反射率」を表す、物理・光学で使う名詞の使い方を紹介します。",
+    "keywords": ["reflectance 意味", "reflectance 発音", "反射率", "reflect 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】反射率・反射能", "note": "表面に当たった光（放射）のうち反射される割合。high reflectance（高い反射率）。0〜1（または0〜100%）で表す。" }
+    ],
+    "usages": [
+      { "title": "① 「高い反射率」として", "desc": "光をよく反射することを表します。", "example_en": "Snow has a very high reflectance.", "example_ja": "雪はとても高い反射率を持つ。" },
+      { "title": "② 光学・リモートセンシングの文脈で", "desc": "反射の度合いを表します。", "example_en": "Satellites measure the reflectance of the surface.", "example_ja": "衛星は地表の反射率を測定する。" }
+    ],
+    "warn": [
+      "reflectance は『反射率・反射能』（光をどれだけ反射するか）。reflect（反射する）＋ -ance。",
+      "似た語に albedo（アルベド＝全体の反射率）。reflectivity（反射率）ともほぼ同義で使われる。"
+    ],
+    "etym_note": "reflect（『反射する』、ラテン語 reflectere「曲げ返す」より）＋ -ance（『性質・度合い』を表す語尾）から成り、「反射する度合い」を意味します。reflection（反射）と同じ語根です。",
+    "etym_chain": [
+      { "node": "reflectere", "sub": "曲げ返す", "era": "ラテン語" },
+      { "node": "reflect", "sub": "反射する", "era": "中英語" },
+      { "node": "reflectance", "sub": "反射率", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "high reflectance", "ja": "高い反射率" },
+      { "en": "low reflectance", "ja": "低い反射率" },
+      { "en": "surface reflectance", "ja": "表面の反射率" },
+      { "en": "spectral reflectance", "ja": "分光反射率" },
+      { "en": "measure the reflectance", "ja": "反射率を測る" },
+      { "en": "the reflectance of snow", "ja": "雪の反射率" }
+    ],
+    "related": [
+      { "en": "reflect", "ja": "反射する" },
+      { "en": "reflection", "ja": "反射" },
+      { "en": "albedo", "ja": "アルベド（反射率）" },
+      { "en": "absorptance", "ja": "吸収率" }
+    ],
+    "faq": [
+      { "q": "reflectance とはどんな意味？", "a": "物の表面が当たった光をどれだけ反射するかの割合『反射率・反射能』のことです。Snow has a very high reflectance.（雪はとても高い反射率を持つ）のように使います。" },
+      { "q": "reflectance と albedo の違いは？", "a": "どちらも『反射の度合い』ですが、reflectance は『（特定の表面・波長の）反射率』、albedo は『（地表・天体などの）全体的な反射率』を指すことが多いです。" }
+    ],
+    "quiz": [
+      { "q": "Snow has a very high ___.（反射率）", "A": "reflectance", "B": "reluctance のためらい", "C": "resistance の抵抗", "D": "relevance の関連性", "correct": "A" },
+      { "q": "reflectance のもとになった動詞はどれ？", "A": "reflect（反射する）", "B": "resist（抵抗する）", "C": "relate（関連づける）", "D": "reduce（減らす）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rarefaction",
+    "pron": "ˌreərɪˈfækʃən",
+    "kana": "レアリファクション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rarefy（希薄にする）＋ -faction（〜にすること）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "理科・物理"],
+    "meaning_main": "希薄化・（気体・密度の）疎（そ）になること（音波の疎の部分）",
+    "description": "rarefaction の意味・発音・例文・語源を解説。気体などが薄く（密度が低く）なる「希薄化」や、音波で粒子がまばらになる「疎の部分」を表す、物理で使う名詞を紹介します。",
+    "keywords": ["rarefaction 意味", "rarefaction 発音", "希薄化", "疎"],
+    "meanings": [
+      { "hinshi": "【名詞】希薄化・（密度が）疎になること", "note": "気体などの密度が低くなること。音波では、粒子がまばらになる『疎（そ）』の部分。反対は compression（圧縮・密）。動詞は rarefy。" }
+    ],
+    "usages": [
+      { "title": "① 音波の「疎の部分」として", "desc": "粒子がまばらな部分を表します。", "example_en": "A sound wave consists of compressions and rarefactions.", "example_ja": "音波は密（圧縮）と疎（希薄）の部分から成る。" },
+      { "title": "② 気体の「希薄化」として", "desc": "密度が下がることを表します。", "example_en": "Rarefaction of the air occurs at high altitudes.", "example_ja": "高地では空気の希薄化が起こる。" }
+    ],
+    "warn": [
+      "rarefaction は『希薄化・（密度が）疎になること』。動詞 rarefy（希薄にする）。反対は compression（圧縮・密）。",
+      "音波の説明で『compression（密）と rarefaction（疎）』のセットで頻出。"
+    ],
+    "etym_note": "rarefy（『希薄にする』、ラテン語 rarus「まばらな」＋ facere「する」より）＋ -faction（『〜にすること』）から成り、「まばらにすること＝希薄化」を意味します。rare（まれな・希薄な）と同じ語根です。",
+    "etym_chain": [
+      { "node": "rarus + facere", "sub": "まばらな＋する", "era": "ラテン語" },
+      { "node": "rarefy", "sub": "希薄にする", "era": "近代英語" },
+      { "node": "rarefaction", "sub": "希薄化・疎", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "compression and rarefaction", "ja": "密（圧縮）と疎（希薄）" },
+      { "en": "a region of rarefaction", "ja": "疎の領域" },
+      { "en": "rarefaction of air", "ja": "空気の希薄化" },
+      { "en": "a rarefaction wave", "ja": "膨張波（希薄波）" },
+      { "en": "areas of rarefaction", "ja": "疎の部分" },
+      { "en": "during rarefaction", "ja": "希薄化のあいだ" }
+    ],
+    "related": [
+      { "en": "rarefy", "ja": "希薄にする" },
+      { "en": "compression", "ja": "圧縮・密（反対）" },
+      { "en": "density", "ja": "密度" },
+      { "en": "sound wave", "ja": "音波" }
+    ],
+    "faq": [
+      { "q": "rarefaction とはどんな意味？", "a": "気体などの密度が低くなる『希薄化』や、音波で粒子がまばらになる『疎（そ）の部分』のことです。A sound wave consists of compressions and rarefactions.（音波は密と疎から成る）のように使います。" },
+      { "q": "rarefaction と compression の違いは？", "a": "音波では、compression（密・圧縮）は『粒子が密に集まった部分』、rarefaction（疎・希薄）は『粒子がまばらになった部分』で、反対の関係です。" }
+    ],
+    "quiz": [
+      { "q": "A sound wave consists of compressions and ___s.（疎・希薄）", "A": "rarefaction", "B": "satisfaction の満足", "C": "transaction の取引", "D": "attraction の魅力", "correct": "A" },
+      { "q": "rarefaction の反対語はどれ？", "A": "compression（圧縮・密）", "B": "satisfaction（満足）", "C": "attraction（魅力）", "D": "reflection（反射）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reassertion",
+    "pron": "ˌriːəˈsɜːrʃən",
+    "kana": "リアサーション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "reassert（再び主張する）＋ -ion",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "政治・議論"],
+    "meaning_main": "再主張・（権利・支配などの）再確立・改めての表明",
+    "description": "reassertion の意味・発音・例文・語源を解説。立場・権利・支配などを「再び強く主張すること・再確立・改めての表明」を表す、政治・議論で使う名詞を紹介します。",
+    "keywords": ["reassertion 意味", "reassertion 発音", "再主張", "再確立"],
+    "meanings": [
+      { "hinshi": "【名詞】再主張・（権利・支配などの）再確立・改めての表明", "note": "いったん弱まった主張・権限を再び強く示すこと。a reassertion of control（支配の再確立）。動詞は reassert。" }
+    ],
+    "usages": [
+      { "title": "① 「支配の再確立」として", "desc": "権限を再び示すことを表します。", "example_en": "The move was a reassertion of central authority.", "example_ja": "その動きは中央の権威の再確立だった。" },
+      { "title": "② 「立場の再主張」として", "desc": "改めての表明を表します。", "example_en": "His speech was a reassertion of traditional values.", "example_ja": "彼の演説は伝統的価値観の再主張だった。" }
+    ],
+    "warn": [
+      "reassertion は『再主張・（権利・支配の）再確立・改めての表明』。reassert（再び主張する）＋ -ion。",
+      "a reassertion of authority / control / rights / identity（権威・支配・権利・アイデンティティの再確立）が頻出。"
+    ],
+    "etym_note": "reassert（re-「再び」＋ assert「主張する」、ラテン語 asserere「（手を置いて）言い張る」より）＋ -ion から成り、「再び主張すること」を意味します。assertion（主張）と同じ語根です。",
+    "etym_chain": [
+      { "node": "asserere", "sub": "言い張る", "era": "ラテン語" },
+      { "node": "reassert", "sub": "再び主張する", "era": "近代英語" },
+      { "node": "reassertion", "sub": "再主張・再確立", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a reassertion of authority", "ja": "権威の再確立" },
+      { "en": "a reassertion of control", "ja": "支配の再確立" },
+      { "en": "a reassertion of rights", "ja": "権利の再主張" },
+      { "en": "a reassertion of identity", "ja": "アイデンティティの再主張" },
+      { "en": "a bold reassertion", "ja": "大胆な再主張" },
+      { "en": "the reassertion of values", "ja": "価値観の再表明" }
+    ],
+    "related": [
+      { "en": "reassert", "ja": "再び主張する" },
+      { "en": "assertion", "ja": "主張・断言" },
+      { "en": "reaffirmation", "ja": "再確認・再表明" },
+      { "en": "restatement", "ja": "言い直し・再表明" }
+    ],
+    "faq": [
+      { "q": "reassertion とはどんな意味？", "a": "立場・権利・支配などを『再び強く主張すること・再確立・改めての表明』のことです。The move was a reassertion of central authority.（中央の権威の再確立だった）のように使います。動詞は reassert です。" },
+      { "q": "reassertion と reaffirmation の違いは？", "a": "reassertion は『（権利・支配などを）再び強く主張・確立する』、reaffirmation は『（約束・信念などを）改めて確認・支持する』点に重点があります。reassertion のほうが力で示すニュアンスがあります。" }
+    ],
+    "quiz": [
+      { "q": "The move was a ___ of central authority.（再確立）", "A": "reassertion", "B": "reservation の予約", "C": "reflection の反射", "D": "reaction の反応", "correct": "A" },
+      { "q": "reassertion の動詞形はどれ？", "A": "reassert（再び主張する）", "B": "reserve（予約する）", "C": "reflect（反射する）", "D": "react（反応する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "revivify",
+    "pron": "riˈvɪvɪfaɪ",
+    "kana": "リビビファイ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 revivificare（再び生かす）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文語的"],
+    "meaning_main": "生き返らせる・よみがえらせる・活気を取り戻させる",
+    "description": "revivify の意味・発音・例文・語源を解説。衰えたものや活気を失ったものを「生き返らせる・よみがえらせる・活気を取り戻させる」という、やや文語的な動詞を紹介します。",
+    "keywords": ["revivify 意味", "revivify 発音", "よみがえらせる", "活気を取り戻させる"],
+    "meanings": [
+      { "hinshi": "【動詞】生き返らせる・よみがえらせる・活気を取り戻させる", "note": "新たな生命・活力を与える（やや文語的）。revivify the economy（経済を再生させる）。revive とほぼ同義だが硬い。" }
+    ],
+    "usages": [
+      { "title": "① 「活気を取り戻させる」として", "desc": "衰えたものの再生を表します。", "example_en": "The reforms revivified the struggling industry.", "example_ja": "その改革は苦境の産業を再生させた。" },
+      { "title": "② 「よみがえらせる」として", "desc": "生命・活力を与えることを表します。", "example_en": "Fresh ideas revivified the old tradition.", "example_ja": "新しい発想が古い伝統をよみがえらせた。" }
+    ],
+    "warn": [
+      "revivify は『生き返らせる・よみがえらせる・活気を取り戻させる』。ラテン語由来でやや文語的。revive（よみがえらせる）の強調・硬い言い方。",
+      "名詞は revivification。日常では revive / revitalize のほうが普通。"
+    ],
+    "etym_note": "ラテン語 revivificare（re-「再び」＋ vivificare「生かす」、vivus「生きた」＋ facere「する」より）に由来し、「再び生かすこと」を意味します。vivid（生き生きした）, survive（生き残る）と同じ語根です。",
+    "etym_chain": [
+      { "node": "revivificare", "sub": "再び生かす", "era": "ラテン語" },
+      { "node": "revivify", "sub": "生き返らせる", "era": "近代英語" },
+      { "node": "revivify", "sub": "よみがえらせる・活気を取り戻させる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "revivify the economy", "ja": "経済を再生させる" },
+      { "en": "revivify the tradition", "ja": "伝統をよみがえらせる" },
+      { "en": "revivify interest", "ja": "関心を再びかき立てる" },
+      { "en": "revivify a debate", "ja": "議論を再び活発にする" },
+      { "en": "revivify the spirit", "ja": "精神に活気を取り戻させる" },
+      { "en": "help to revivify", "ja": "再生を助ける" }
+    ],
+    "related": [
+      { "en": "revive", "ja": "よみがえらせる・回復させる" },
+      { "en": "revitalize", "ja": "活気を取り戻させる" },
+      { "en": "reinvigorate", "ja": "再び活気づける" },
+      { "en": "resuscitate", "ja": "蘇生させる" }
+    ],
+    "faq": [
+      { "q": "revivify とはどんな意味？", "a": "衰えたものや活気を失ったものを『生き返らせる・よみがえらせる・活気を取り戻させる』という、やや文語的な動詞です。The reforms revivified the struggling industry.（改革が苦境の産業を再生させた）のように使います。" },
+      { "q": "revivify と revive の違いは？", "a": "意味はほぼ同じ『よみがえらせる』ですが、revivify はラテン語由来でより硬く文語的な響きがあります。日常では revive のほうが一般的です。" }
+    ],
+    "quiz": [
+      { "q": "The reforms ___ the struggling industry.（再生させた）", "A": "revivify", "B": "verify の確かめる", "C": "clarify の明確にする", "D": "qualify の資格を得る", "correct": "A" },
+      { "q": "revivify と意味が近い語はどれ？", "A": "revive（よみがえらせる）", "B": "verify（確かめる）", "C": "clarify（明確にする）", "D": "qualify（資格を得る）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rubberize",
+    "pron": "ˈrʌbəraɪz",
+    "kana": "ラバライズ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "rubber（ゴム）＋ -ize（〜化する）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "製造・素材"],
+    "meaning_main": "ゴム引きにする・ゴムで覆う・ゴム加工する",
+    "description": "rubberize の意味・発音・例文・語源を解説。布や表面に「ゴム引きにする・ゴムで覆う・ゴム加工する」という、製造・素材で使う動詞の使い方を分かりやすく紹介します。",
+    "keywords": ["rubberize 意味", "rubberize 発音", "ゴム引き", "rubber 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】ゴム引きにする・ゴムで覆う・ゴム加工する", "note": "布・金属などの表面にゴムを塗る・含ませて、防水・滑り止め・耐久性を持たせる。rubberized fabric（ゴム引き生地）。イギリス綴りは rubberise。" }
+    ],
+    "usages": [
+      { "title": "① 「ゴム引きにする」として", "desc": "ゴムで覆うことを表します。", "example_en": "The coat is made of rubberized cotton.", "example_ja": "そのコートはゴム引きの綿でできている。" },
+      { "title": "② 「ゴム加工する」として", "desc": "滑り止め加工などを表します。", "example_en": "The handle is rubberized for a better grip.", "example_ja": "その取っ手は握りやすいようゴム加工されている。" }
+    ],
+    "warn": [
+      "rubberize は『ゴム引きにする・ゴムで覆う・ゴム加工する』。rubber（ゴム）＋ -ize。形容詞 rubberized（ゴム引きの・ゴム加工した）でよく使う。",
+      "防水・滑り止め・耐久性のための加工に使う。"
+    ],
+    "etym_note": "rubber（『ゴム』、もとは『こするもの』、rub「こする」より）＋ -ize から成り、「ゴムにする・ゴムで処理する」を意味します。",
+    "etym_chain": [
+      { "node": "rub", "sub": "こする", "era": "中英語" },
+      { "node": "rubber", "sub": "ゴム", "era": "近代英語" },
+      { "node": "rubberize", "sub": "ゴム引きにする", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rubberized fabric", "ja": "ゴム引き生地" },
+      { "en": "rubberized cotton", "ja": "ゴム引きの綿" },
+      { "en": "a rubberized coating", "ja": "ゴム塗装" },
+      { "en": "a rubberized grip", "ja": "ゴム加工の握り" },
+      { "en": "rubberized for grip", "ja": "滑り止めのためゴム加工された" },
+      { "en": "rubberize the surface", "ja": "表面をゴム加工する" }
+    ],
+    "related": [
+      { "en": "rubber", "ja": "ゴム" },
+      { "en": "rubberized", "ja": "ゴム引きの・ゴム加工した" },
+      { "en": "waterproof", "ja": "防水の" },
+      { "en": "coat", "ja": "覆う・塗る" }
+    ],
+    "faq": [
+      { "q": "rubberize とはどんな意味？", "a": "布や表面に『ゴム引きにする・ゴムで覆う・ゴム加工する』という意味です。The coat is made of rubberized cotton.（ゴム引きの綿でできている）のように使います。防水・滑り止めのための加工を表します。" },
+      { "q": "rubberized fabric とは？", "a": "『ゴム引き生地』のことです。布の表面にゴムを塗ったり含ませたりして、水を通さない・丈夫にした生地で、レインコートや防水用品に使われます。" }
+    ],
+    "quiz": [
+      { "q": "The coat is made of ___ cotton.（ゴム引きの）", "A": "rubberized", "B": "memorized の暗記された", "C": "organized の組織された", "D": "realized の実現した", "correct": "A" },
+      { "q": "rubberize のもとになった名詞はどれ？", "A": "rubber（ゴム）", "B": "rubble（がれき）", "C": "robber（強盗）", "D": "ruby（ルビー）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "restrainer",
+    "pron": "rɪˈstreɪnər",
+    "kana": "リストレイナー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "restrain（抑える・拘束する）＋ -er（〜するもの/人）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "技術・日常"],
+    "meaning_main": "抑制するもの・拘束具／抑える人・抑制剤",
+    "description": "restrainer の意味・発音・例文・語源を解説。動きや働きを「抑えるもの・拘束具」、また何かを抑える「人・抑制剤」を表す、技術・日常で使う名詞の使い方を紹介します。",
+    "keywords": ["restrainer 意味", "restrainer 発音", "抑制するもの", "restrain 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】抑制するもの・拘束具／抑える人・抑制剤", "note": "動き・反応・行動を抑えるもの。a restrainer keeps it in place（拘束具が固定する）。化学では反応を抑える『抑制剤』。動詞は restrain。" }
+    ],
+    "usages": [
+      { "title": "① 「拘束具・固定具」として", "desc": "動きを抑える器具を表します。", "example_en": "A restrainer holds the cable firmly in place.", "example_ja": "拘束具がケーブルをしっかり固定する。" },
+      { "title": "② 「抑制剤」として", "desc": "反応を抑える物質を表します。", "example_en": "The solution contains a restrainer to slow the reaction.", "example_ja": "その溶液には反応を遅らせる抑制剤が含まれている。" }
+    ],
+    "warn": [
+      "restrainer は『抑制するもの・拘束具』『抑える人・抑制剤』。restrain（抑える・拘束する）＋ -er。",
+      "化学（現像液などの抑制剤）、機械（固定具）、人（抑える人）など文脈で意味が変わる。"
+    ],
+    "etym_note": "restrain（『抑える・拘束する』、ラテン語 restringere「引き締める」より）＋ -er（『〜するもの・人』）から成り、「抑えるもの」を意味します。restraint（抑制）, strict（厳しい）と同じ語根です。",
+    "etym_chain": [
+      { "node": "restringere", "sub": "引き締める", "era": "ラテン語" },
+      { "node": "restrain", "sub": "抑える・拘束する", "era": "中英語" },
+      { "node": "restrainer", "sub": "抑制するもの・拘束具", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a restrainer holds it in place", "ja": "拘束具が固定する" },
+      { "en": "a chemical restrainer", "ja": "化学的な抑制剤" },
+      { "en": "act as a restrainer", "ja": "抑制するものとして働く" },
+      { "en": "a cable restrainer", "ja": "ケーブルの固定具" },
+      { "en": "add a restrainer", "ja": "抑制剤を加える" },
+      { "en": "a restrainer on the reaction", "ja": "反応を抑えるもの" }
+    ],
+    "related": [
+      { "en": "restrain", "ja": "抑える・拘束する" },
+      { "en": "restraint", "ja": "抑制・拘束" },
+      { "en": "inhibitor", "ja": "（化学の）阻害剤・抑制剤" },
+      { "en": "brake", "ja": "ブレーキ・抑えるもの" }
+    ],
+    "faq": [
+      { "q": "restrainer とはどんな意味？", "a": "動きや働き・反応を『抑えるもの・拘束具』、また何かを抑える『人・抑制剤』のことです。A restrainer holds the cable firmly in place.（拘束具がケーブルを固定する）のように使います。動詞は restrain です。" },
+      { "q": "化学での restrainer とは？", "a": "化学（特に写真の現像）では、反応の進みを遅らせたり抑えたりする『抑制剤』を指します。inhibitor（阻害剤）と近い役割をもちます。" }
+    ],
+    "quiz": [
+      { "q": "A ___ holds the cable firmly in place.（拘束具）", "A": "restrainer", "B": "container の容器", "C": "trainer の訓練者", "D": "entertainer の芸人", "correct": "A" },
+      { "q": "restrainer のもとになった動詞はどれ？", "A": "restrain（抑える・拘束する）", "B": "remain（残る）", "C": "retain（保持する）", "D": "obtain（得る）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retooling",
+    "pron": "ˌriːˈtuːlɪŋ",
+    "kana": "リトゥーリング",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "retool（工具を入れ替える・刷新する）＋ -ing",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "製造・ビジネス"],
+    "meaning_main": "（工場の）設備の入れ替え・再編成／（制度・技能の）作り直し",
+    "description": "retooling の意味・発音・例文・語源を解説。工場の機械・工具を入れ替えて生産を切り替える「設備の入れ替え」や、比喩で制度・技能を「作り直すこと」を紹介します。",
+    "keywords": ["retooling 意味", "retooling 発音", "設備の入れ替え", "retool 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】（工場の）設備・工具の入れ替え・再編成", "note": "新製品の生産などのために機械・工具を入れ替えること。a factory retooling（工場の設備刷新）。" },
+      { "hinshi": "【名詞】(比喩)（制度・技能・組織の）作り直し・刷新", "note": "the retooling of the workforce's skills（労働者の技能の刷新）。動詞は retool。" }
+    ],
+    "usages": [
+      { "title": "① 工場の「設備刷新」として", "desc": "機械の入れ替えを表します。", "example_en": "The plant closed for retooling.", "example_ja": "その工場は設備の入れ替えのため閉鎖した。" },
+      { "title": "② 比喩「作り直し」として", "desc": "制度や技能の刷新を表します。", "example_en": "The crisis forced a retooling of the whole strategy.", "example_ja": "その危機は戦略全体の作り直しを迫った。" }
+    ],
+    "warn": [
+      "retooling は『（工場の）設備・工具の入れ替え』『（制度・技能の）作り直し・刷新』。retool（工具を入れ替える・刷新する）＋ -ing。re-（再び）＋ tool（工具）。",
+      "製造では設備刷新、比喩では制度・スキルの作り直しに使う。"
+    ],
+    "etym_note": "retool（re-「再び」＋ tool「工具（を備える）」、古英語 tōl より）＋ -ing から成り、「工具を入れ替えること＝設備の刷新」を意味します。",
+    "etym_chain": [
+      { "node": "tōl", "sub": "工具", "era": "古英語" },
+      { "node": "retool", "sub": "工具を入れ替える・刷新する", "era": "20世紀英語" },
+      { "node": "retooling", "sub": "設備の入れ替え・刷新", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a factory retooling", "ja": "工場の設備刷新" },
+      { "en": "close for retooling", "ja": "設備入れ替えのため閉鎖する" },
+      { "en": "retooling the production line", "ja": "生産ラインの再編成" },
+      { "en": "the retooling of skills", "ja": "技能の作り直し" },
+      { "en": "a major retooling", "ja": "大規模な刷新" },
+      { "en": "retooling the economy", "ja": "経済の作り直し" }
+    ],
+    "related": [
+      { "en": "retool", "ja": "工具を入れ替える・刷新する" },
+      { "en": "tool", "ja": "工具・道具" },
+      { "en": "overhaul", "ja": "抜本的見直し" },
+      { "en": "restructuring", "ja": "再編・再構築" }
+    ],
+    "faq": [
+      { "q": "retooling とはどんな意味？", "a": "工場の機械・工具を入れ替えて生産を切り替える『設備の入れ替え・再編成』や、比喩で制度・技能・組織を『作り直すこと・刷新』のことです。The plant closed for retooling.（設備入れ替えのため工場を閉鎖した）のように使います。" },
+      { "q": "retooling はなぜ行うの？", "a": "新しい製品やモデルを生産するために、工場の機械や工具を新しいものに入れ替える必要があるからです。比喩では、時代の変化に合わせて制度やスキルを作り直すことも表します。" }
+    ],
+    "quiz": [
+      { "q": "The plant closed for ___.（設備の入れ替え）", "A": "retooling", "B": "recycling の再利用", "C": "rebuilding の再建", "D": "removing の取り除くこと", "correct": "A" },
+      { "q": "retooling のもとになった語 tool の意味は？", "A": "工具・道具", "B": "規則", "C": "速さ", "D": "感情", "correct": "A" }
+    ]
+  },
+  {
+    "english": "readdress",
+    "pron": "ˌriːəˈdres",
+    "kana": "リアドレス",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ address（取り組む・宛名を書く）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "ビジネス・日常"],
+    "meaning_main": "（問題に）改めて取り組む・再検討する／宛名を書き直す",
+    "description": "readdress の意味・発音・例文・語源を解説。問題や課題に「改めて取り組む・再検討する」、また手紙の「宛名を書き直す」という使い方を分かりやすく紹介します。",
+    "keywords": ["readdress 意味", "readdress 発音", "改めて取り組む", "address 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】（問題・課題に）改めて取り組む・再検討する", "note": "一度扱った問題をもう一度取り上げて対処する。readdress the issue（問題に改めて取り組む）。" },
+      { "hinshi": "【動詞】（手紙・荷物の）宛名を書き直す・転送する", "note": "新しい宛先を書く。readdress the letter（手紙の宛名を書き直す）。" }
+    ],
+    "usages": [
+      { "title": "① 「問題に改めて取り組む」として", "desc": "再び対処することを表します。", "example_en": "We need to readdress the issue of staffing.", "example_ja": "人員配置の問題に改めて取り組む必要がある。" },
+      { "title": "② 「宛名を書き直す」として", "desc": "宛先の変更を表します。", "example_en": "She readdressed the parcel to her new home.", "example_ja": "彼女は小包の宛名を新居に書き直した。" }
+    ],
+    "warn": [
+      "readdress は『（問題に）改めて取り組む・再検討する』『宛名を書き直す』。re-（再び）＋ address（取り組む／宛名）。",
+      "動詞 address は『（問題に）取り組む』『宛名を書く』『演説する』など多義。readdress はその『再び』版。"
+    ],
+    "etym_note": "re-（再び）＋ address（『取り組む・宛名を書く・向ける』、古フランス語 adrecier「まっすぐ向ける」、ラテン語 directus「まっすぐな」より）から成り、「再び向けること＝改めて取り組む・宛名を書き直す」を意味します。direct（向ける）と同じ語根です。",
+    "etym_chain": [
+      { "node": "adrecier", "sub": "まっすぐ向ける", "era": "古フランス語" },
+      { "node": "address", "sub": "取り組む・宛名を書く", "era": "中英語" },
+      { "node": "readdress", "sub": "改めて取り組む・宛名を書き直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "readdress the issue", "ja": "問題に改めて取り組む" },
+      { "en": "readdress the problem", "ja": "問題を再検討する" },
+      { "en": "readdress the balance", "ja": "（不均衡を）是正し直す" },
+      { "en": "need to readdress", "ja": "改めて取り組む必要がある" },
+      { "en": "readdress the letter", "ja": "手紙の宛名を書き直す" },
+      { "en": "readdress the parcel", "ja": "小包の宛名を書き直す" }
+    ],
+    "related": [
+      { "en": "address", "ja": "取り組む・宛名・住所" },
+      { "en": "revisit", "ja": "（問題を）再び取り上げる" },
+      { "en": "reconsider", "ja": "再考する" },
+      { "en": "forward", "ja": "転送する" }
+    ],
+    "faq": [
+      { "q": "readdress とはどんな意味？", "a": "問題や課題に『改めて取り組む・再検討する』、また手紙の『宛名を書き直す』という意味です。We need to readdress the issue.（その問題に改めて取り組む必要がある）のように使います。" },
+      { "q": "readdress the balance とは？", "a": "『（かたよった）バランスを是正し直す・公平にし直す』という意味の決まった言い方です。不均衡や不公平を改めて正すときに使います。" }
+    ],
+    "quiz": [
+      { "q": "We need to ___ the issue of staffing.（改めて取り組む）", "A": "readdress", "B": "address の最初に取り組む", "C": "depress の落ち込ませる", "D": "impress の感銘を与える", "correct": "A" },
+      { "q": "readdress のもとになった動詞はどれ？", "A": "address（取り組む・宛名を書く）", "B": "press（押す）", "C": "depress（落ち込ませる）", "D": "express（表現する）", "correct": "A" }
+    ]
+  }
+]

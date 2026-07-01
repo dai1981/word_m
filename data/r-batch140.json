@@ -1,0 +1,524 @@
+[
+  {
+    "english": "retitle",
+    "pron": "ˌriːˈtaɪtəl",
+    "kana": "リタイトゥル",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ title（題をつける）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "出版・メディア"],
+    "meaning_main": "改題する・題名をつけ直す",
+    "description": "retitle の意味・発音・例文・語源を解説。本や映画などを「改題する・題名をつけ直す」という、出版やメディアで使う語の使い方を紹介します。",
+    "keywords": ["retitle 意味", "retitle 発音", "改題する", "title 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】改題する・題名をつけ直す", "note": "本・映画・記事などの題を新しくする。retitle the book（本を改題する）。" }
+    ],
+    "usages": [
+      { "title": "① 出版「本を改題する」として", "desc": "題名を変えることを表します。", "example_en": "The novel was retitled for its American release.", "example_ja": "その小説はアメリカ版発売のため改題された。" },
+      { "title": "② 「記事をつけ直す」として", "desc": "見出しを新しくすることを表します。", "example_en": "The editor retitled the article to attract more readers.", "example_ja": "編集者は読者を増やすため記事を改題した。" }
+    ],
+    "warn": [
+      "retitle は『改題する・題名をつけ直す』。re-（再び）＋ title。",
+      "翻訳版・再版の際に作品が retitle されることがよくある。"
+    ],
+    "etym_note": "re-（再び）＋ title（『題・称号』、ラテン語 titulus「表題・札」より）から成り、「再び題をつけること」を意味します。titular（名ばかりの）と同じ語根です。",
+    "etym_chain": [
+      { "node": "titulus", "sub": "表題・札", "era": "ラテン語" },
+      { "node": "title", "sub": "題・称号", "era": "中英語" },
+      { "node": "retitle", "sub": "改題する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "retitle the book", "ja": "本を改題する" },
+      { "en": "retitle the film", "ja": "映画を改題する" },
+      { "en": "retitle the article", "ja": "記事を改題する" },
+      { "en": "retitle for release", "ja": "発売のため改題する" },
+      { "en": "be retitled", "ja": "改題される" },
+      { "en": "retitle the song", "ja": "曲名をつけ直す" }
+    ],
+    "related": [
+      { "en": "title", "ja": "題・称号" },
+      { "en": "rename", "ja": "改名する・名前を変える" },
+      { "en": "subtitle", "ja": "副題・字幕" },
+      { "en": "headline", "ja": "見出し" }
+    ],
+    "faq": [
+      { "q": "retitle とはどんな意味？", "a": "本や映画などを『改題する・題名をつけ直す』という意味です。The novel was retitled for its American release.（アメリカ版発売のため改題された）のように使います。" },
+      { "q": "retitle と rename の違いは？", "a": "retitle は『（作品の）題名を変える』、rename は『（人・物・ファイルなどの）名前を変える』全般を指します。作品の題には retitle が自然です。" }
+    ],
+    "quiz": [
+      { "q": "The novel was ___d for its American release.（改題された）", "A": "retitle", "B": "title の最初に題をつけるだけ", "C": "retire の引退する", "D": "rattle のガタガタ鳴る", "correct": "A" },
+      { "q": "retitle のもとになった語はどれ？", "A": "title（題・称号）", "B": "title の同音の tidal（潮の）", "C": "tickle（くすぐる）", "D": "tile（タイル）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retransmit",
+    "pron": "ˌriːtrænzˈmɪt",
+    "kana": "リトランスミット",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ transmit（送信する・伝える）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "通信・IT"],
+    "meaning_main": "再送信する・中継する",
+    "description": "retransmit の意味・発音・例文・語源を解説。データや信号を「再送信する・中継して送り直す」という、通信やITで使う語の使い方を紹介します。",
+    "keywords": ["retransmit 意味", "retransmit 発音", "再送信する", "transmit 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再送信する・中継する", "note": "失われた・受信できなかったデータや信号を再び送る。retransmit the packet（パケットを再送信する）。名詞は retransmission。" }
+    ],
+    "usages": [
+      { "title": "① 通信「データを再送信する」として", "desc": "失われたデータを再び送ることを表します。", "example_en": "If a packet is lost, the protocol retransmits it.", "example_ja": "パケットが失われると、プロトコルはそれを再送信する。" },
+      { "title": "② 放送「中継する」として", "desc": "信号を受けて再び送ることを表します。", "example_en": "The satellite retransmits the signal to ground stations.", "example_ja": "その衛星は信号を地上局へ中継する。" }
+    ],
+    "warn": [
+      "retransmit は『再送信する・中継する』。re-（再び）＋ transmit。名詞は retransmission。",
+      "ネットワーク（パケット再送）や放送（信号の中継）で使う専門寄りの語。"
+    ],
+    "etym_note": "re-（再び）＋ transmit（『送る・伝える』、ラテン語 transmittere「越えて送る」、trans-「越えて」＋ mittere「送る」より）から成り、「再び送ること」を意味します。mission（任務）や missile（ミサイル）と同じ語根です。",
+    "etym_chain": [
+      { "node": "transmittere", "sub": "越えて送る", "era": "ラテン語" },
+      { "node": "transmit", "sub": "送信する・伝える", "era": "近代英語" },
+      { "node": "retransmit", "sub": "再送信する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "retransmit the packet", "ja": "パケットを再送信する" },
+      { "en": "retransmit the data", "ja": "データを再送信する" },
+      { "en": "retransmit the signal", "ja": "信号を中継する" },
+      { "en": "retransmit the message", "ja": "メッセージを再送する" },
+      { "en": "automatic retransmission", "ja": "自動再送信" },
+      { "en": "retransmit on error", "ja": "エラー時に再送信する" }
+    ],
+    "related": [
+      { "en": "transmit", "ja": "送信する・伝える" },
+      { "en": "retransmission", "ja": "再送信" },
+      { "en": "relay", "ja": "中継する" },
+      { "en": "resend", "ja": "再送する" }
+    ],
+    "faq": [
+      { "q": "retransmit とはどんな意味？", "a": "データや信号を『再送信する・中継する』という意味です。If a packet is lost, the protocol retransmits it.（パケットが失われると再送信する）のように、通信の分野で使います。名詞は retransmission です。" },
+      { "q": "retransmit と resend の違いは？", "a": "resend は『（メールなどを）もう一度送る』日常語、retransmit は『（信号・データを）再送信・中継する』技術的な語という違いがあります。" }
+    ],
+    "quiz": [
+      { "q": "If a packet is lost, the protocol ___s it.（再送信する）", "A": "retransmit", "B": "transmit の最初に送信するだけ", "C": "transform の変形する", "D": "translate の翻訳する", "correct": "A" },
+      { "q": "retransmit のもとになった動詞はどれ？", "A": "transmit（送信する・伝える）", "B": "translate（翻訳する）", "C": "transfer（移す）", "D": "transform（変形する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "revalue",
+    "pron": "ˌriːˈvæljuː",
+    "kana": "リバリュー",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ value（価値を評価する）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "経済・金融"],
+    "meaning_main": "再評価する・平価を切り上げる",
+    "description": "revalue の意味・発音・例文・語源を解説。資産を「再評価する」、通貨の価値を「切り上げる」という、経済や金融で使う語の使い方を紹介します。",
+    "keywords": ["revalue 意味", "revalue 発音", "再評価する", "value 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再評価する", "note": "資産・財産の価値を改めて見積もる。revalue the assets（資産を再評価する）。" },
+      { "hinshi": "【動詞】平価を切り上げる", "note": "通貨の対外価値を公的に引き上げる。devalue（切り下げる）の反対。名詞は revaluation。" }
+    ],
+    "usages": [
+      { "title": "① 「資産を再評価する」として", "desc": "価値を改めて見積もることを表します。", "example_en": "The company revalued its property at current market prices.", "example_ja": "その会社は不動産を現在の市場価格で再評価した。" },
+      { "title": "② 金融「通貨を切り上げる」として", "desc": "通貨の価値を引き上げることを表します。", "example_en": "The government decided to revalue the currency.", "example_ja": "政府は通貨を切り上げることを決めた。" }
+    ],
+    "warn": [
+      "revalue は『再評価する／平価を切り上げる』。re-（再び）＋ value。名詞は revaluation。",
+      "通貨では revalue（切り上げ）⇔ devalue（切り下げ）が対になる。"
+    ],
+    "etym_note": "re-（再び）＋ value（『価値・評価する』、古フランス語 value、ラテン語 valere「価値がある・強い」より）から成り、「再び価値を見積もること」を意味します。valid（有効な）や valiant（勇敢な）と同じ語根です。",
+    "etym_chain": [
+      { "node": "valere", "sub": "価値がある", "era": "ラテン語" },
+      { "node": "value", "sub": "価値・評価する", "era": "中英語" },
+      { "node": "revalue", "sub": "再評価する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "revalue the assets", "ja": "資産を再評価する" },
+      { "en": "revalue the property", "ja": "不動産を再評価する" },
+      { "en": "revalue the currency", "ja": "通貨を切り上げる" },
+      { "en": "revalue upward", "ja": "上方に再評価する" },
+      { "en": "revalue the inventory", "ja": "在庫を再評価する" },
+      { "en": "currency revaluation", "ja": "通貨の切り上げ" }
+    ],
+    "related": [
+      { "en": "value", "ja": "価値・評価する" },
+      { "en": "devalue", "ja": "価値を下げる・切り下げる" },
+      { "en": "revaluation", "ja": "再評価・平価切り上げ" },
+      { "en": "reassess", "ja": "再評価する" }
+    ],
+    "faq": [
+      { "q": "revalue とはどんな意味？", "a": "資産を『再評価する』、または通貨の価値を『切り上げる』という意味です。The company revalued its property.（不動産を再評価した）のように使います。名詞は revaluation です。" },
+      { "q": "revalue と devalue の違いは？", "a": "通貨について、revalue は『（対外価値を）切り上げる』、devalue は『切り下げる』で正反対です。value（価値）が共通の語根です。" }
+    ],
+    "quiz": [
+      { "q": "The company ___d its property at market prices.（再評価した）", "A": "revalue", "B": "devalue の切り下げる", "C": "value の最初に評価するだけ", "D": "evaluate の最初に査定するだけ", "correct": "A" },
+      { "q": "revalue のもとになった語はどれ？", "A": "value（価値・評価する）", "B": "volume（量）", "C": "valve（弁）", "D": "vale（谷）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reverify",
+    "pron": "ˌriːˈvɛrɪfaɪ",
+    "kana": "リベリファイ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ verify（確認する・検証する）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "IT・手続き"],
+    "meaning_main": "再検証する・再確認する",
+    "description": "reverify の意味・発音・例文・語源を解説。情報や身元を「再検証する・再確認する」という、ITや手続きで使う語の使い方を紹介します。",
+    "keywords": ["reverify 意味", "reverify 発音", "再検証する", "verify 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再検証する・再確認する", "note": "正しいかどうかを改めて確かめる。reverify your identity（本人確認をやり直す）。名詞は reverification。" }
+    ],
+    "usages": [
+      { "title": "① IT「本人確認をやり直す」として", "desc": "身元を改めて確認することを表します。", "example_en": "You may be asked to reverify your identity after a password change.", "example_ja": "パスワード変更後、本人確認のやり直しを求められることがある。" },
+      { "title": "② 「データを再検証する」として", "desc": "正確さを改めて確かめることを表します。", "example_en": "The auditors reverified the figures before signing off.", "example_ja": "監査人は承認の前に数値を再検証した。" }
+    ],
+    "warn": [
+      "reverify は『再検証する・再確認する』。re-（再び）＋ verify。名詞は reverification。",
+      "セキュリティ（本人確認のやり直し）や監査（数値の再検証）でよく使う。"
+    ],
+    "etym_note": "re-（再び）＋ verify（『真実だと確かめる』、中世ラテン語 verificare、verus「真実の」＋ facere「作る」より）から成り、「再び真実だと確かめること」を意味します。very（まさに）や verdict（評決）と同じ語根です。",
+    "etym_chain": [
+      { "node": "verificare", "sub": "真実だと確かめる", "era": "中世ラテン語" },
+      { "node": "verify", "sub": "確認する・検証する", "era": "中英語" },
+      { "node": "reverify", "sub": "再検証する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reverify your identity", "ja": "本人確認をやり直す" },
+      { "en": "reverify the data", "ja": "データを再検証する" },
+      { "en": "reverify the results", "ja": "結果を再検証する" },
+      { "en": "reverify the figures", "ja": "数値を再検証する" },
+      { "en": "reverify the account", "ja": "アカウントを再確認する" },
+      { "en": "reverify before approval", "ja": "承認前に再確認する" }
+    ],
+    "related": [
+      { "en": "verify", "ja": "確認する・検証する" },
+      { "en": "reverification", "ja": "再検証・再確認" },
+      { "en": "validate", "ja": "妥当性を確認する" },
+      { "en": "confirm", "ja": "確認する" }
+    ],
+    "faq": [
+      { "q": "reverify とはどんな意味？", "a": "情報や身元が正しいかを『再検証する・再確認する』という意味です。You may be asked to reverify your identity.（本人確認のやり直しを求められることがある）のように使います。名詞は reverification です。" },
+      { "q": "reverify と reconfirm の違いは？", "a": "reverify は『（正しさを検証して）再確認する』技術寄りの語、reconfirm は『（予約・予定を）念のため再確認する』日常寄りの語です。" }
+    ],
+    "quiz": [
+      { "q": "You may need to ___ your identity after a password change.（再確認する）", "A": "reverify", "B": "verify の最初に確認するだけ", "C": "clarify の明確にする", "D": "modify の修正する", "correct": "A" },
+      { "q": "reverify のもとになった動詞はどれ？", "A": "verify（確認する・検証する）", "B": "clarify（明確にする）", "C": "classify（分類する）", "D": "notify（通知する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rewash",
+    "pron": "ˌriːˈwɒʃ",
+    "kana": "リウォッシュ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ wash（洗う）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "生活・一般"],
+    "meaning_main": "もう一度洗う・洗い直す",
+    "description": "rewash の意味・発音・例文・語源を解説。衣類や食器などを「もう一度洗う・洗い直す」という、生活の場面で使う語の使い方を例文とともに紹介します。",
+    "keywords": ["rewash 意味", "rewash 発音", "洗い直す", "wash 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】もう一度洗う・洗い直す", "note": "汚れが残ったものを再び洗う。rewash the clothes（衣類を洗い直す）。" }
+    ],
+    "usages": [
+      { "title": "① 「衣類を洗い直す」として", "desc": "もう一度洗うことを表します。", "example_en": "The stain didn't come out, so I had to rewash the shirt.", "example_ja": "しみが落ちなかったので、シャツを洗い直さねばならなかった。" },
+      { "title": "② 「食器を洗い直す」として", "desc": "汚れが残ったものを再び洗うことを表します。", "example_en": "Some dishes were still greasy and needed rewashing.", "example_ja": "いくつかの食器はまだ脂っぽく、洗い直しが必要だった。" }
+    ],
+    "warn": [
+      "rewash は『もう一度洗う・洗い直す』。re-（再び）＋ wash。",
+      "汚れ・しみが落ちなかったとき、洗濯物・食器などをやり直す日常語。"
+    ],
+    "etym_note": "re-（再び）＋ wash（『洗う』、古英語 wascan「洗う」より）から成り、「再び洗うこと」を意味します。water（水）と語源的につながる古英語起源の素朴な語です。",
+    "etym_chain": [
+      { "node": "wascan", "sub": "洗う", "era": "古英語" },
+      { "node": "wash", "sub": "洗う", "era": "中英語" },
+      { "node": "rewash", "sub": "もう一度洗う", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rewash the clothes", "ja": "衣類を洗い直す" },
+      { "en": "rewash the shirt", "ja": "シャツを洗い直す" },
+      { "en": "rewash the dishes", "ja": "食器を洗い直す" },
+      { "en": "rewash by hand", "ja": "手で洗い直す" },
+      { "en": "need rewashing", "ja": "洗い直しが必要だ" },
+      { "en": "rewash the load", "ja": "洗濯物をもう一度洗う" }
+    ],
+    "related": [
+      { "en": "wash", "ja": "洗う" },
+      { "en": "rinse", "ja": "すすぐ" },
+      { "en": "launder", "ja": "洗濯する" },
+      { "en": "reclean", "ja": "再び掃除する" }
+    ],
+    "faq": [
+      { "q": "rewash とはどんな意味？", "a": "汚れが残った衣類や食器などを『もう一度洗う・洗い直す』という意味です。I had to rewash the shirt.（シャツを洗い直さねばならなかった）のように使います。" },
+      { "q": "rewash と rinse の違いは？", "a": "rewash は『（洗剤などで）もう一度洗う』、rinse は『（水で）すすぐ』点が異なります。洗い直しは rewash です。" }
+    ],
+    "quiz": [
+      { "q": "The stain didn't come out, so I had to ___ the shirt.（洗い直す）", "A": "rewash", "B": "wash の最初に洗うだけ", "C": "rush の急ぐ", "D": "crash の衝突する", "correct": "A" },
+      { "q": "rewash のもとになった動詞はどれ？", "A": "wash（洗う）", "B": "wish（願う）", "C": "watch（見る）", "D": "wave（振る）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reweigh",
+    "pron": "ˌriːˈweɪ",
+    "kana": "リウェイ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ weigh（重さを量る）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "一般・商業"],
+    "meaning_main": "もう一度量る・量り直す",
+    "description": "reweigh の意味・発音・例文・語源を解説。重さを「もう一度量る・量り直す」という、商業や日常で使う語の使い方を例文とともに紹介します。",
+    "keywords": ["reweigh 意味", "reweigh 発音", "量り直す", "weigh 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】もう一度量る・量り直す", "note": "重さを再び確認する。reweigh the parcel（小包を量り直す）。スポーツの計量のやり直しにも使う。" }
+    ],
+    "usages": [
+      { "title": "① 商業「量り直す」として", "desc": "重さを再び確認することを表します。", "example_en": "The clerk reweighed the package to confirm the postage.", "example_ja": "店員は送料を確認するため小包を量り直した。" },
+      { "title": "② スポーツ「再計量する」として", "desc": "規定の重さを再び量ることを表します。", "example_en": "The boxer was reweighed the next morning.", "example_ja": "そのボクサーは翌朝再計量された。" }
+    ],
+    "warn": [
+      "reweigh は『もう一度量る・量り直す』。re-（再び）＋ weigh。",
+      "weigh の発音はウェイ（gh は無音）。reweigh も同様。"
+    ],
+    "etym_note": "re-（再び）＋ weigh（『重さを量る・持ち上げる』、古英語 wegan「運ぶ・量る」より）から成り、「再び重さを量ること」を意味します。weight（重さ）と同じ語根です。",
+    "etym_chain": [
+      { "node": "wegan", "sub": "運ぶ・量る", "era": "古英語" },
+      { "node": "weigh", "sub": "重さを量る", "era": "中英語" },
+      { "node": "reweigh", "sub": "量り直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reweigh the parcel", "ja": "小包を量り直す" },
+      { "en": "reweigh the package", "ja": "荷物を量り直す" },
+      { "en": "reweigh the ingredients", "ja": "材料を量り直す" },
+      { "en": "reweigh the luggage", "ja": "手荷物を量り直す" },
+      { "en": "reweigh to confirm", "ja": "確認のため量り直す" },
+      { "en": "reweigh the boxer", "ja": "ボクサーを再計量する" }
+    ],
+    "related": [
+      { "en": "weigh", "ja": "重さを量る" },
+      { "en": "weight", "ja": "重さ・重り" },
+      { "en": "remeasure", "ja": "測り直す" },
+      { "en": "recheck", "ja": "再点検する" }
+    ],
+    "faq": [
+      { "q": "reweigh とはどんな意味？", "a": "重さを『もう一度量る・量り直す』という意味です。The clerk reweighed the package.（店員は小包を量り直した）のように使います。" },
+      { "q": "reweigh と remeasure の違いは？", "a": "reweigh は『（重さを）量り直す』、remeasure は『（長さ・寸法を）測り直す』点が異なります。対象が重さか寸法かで使い分けます。" }
+    ],
+    "quiz": [
+      { "q": "The clerk ___ed the package to confirm the postage.（量り直した）", "A": "reweigh", "B": "weigh の最初に量るだけ", "C": "review の見直す", "D": "reward の報いる", "correct": "A" },
+      { "q": "reweigh のもとになった動詞はどれ？", "A": "weigh（重さを量る）", "B": "wear（着る）", "C": "weave（織る）", "D": "wade（歩いて渡る）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rebind",
+    "pron": "ˌriːˈbaɪnd",
+    "kana": "リバインド",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ bind（製本する・縛る）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "製本・IT"],
+    "meaning_main": "製本し直す・再び結びつける",
+    "description": "rebind の意味・発音・例文・語源を解説。傷んだ本を「製本し直す」、ITでキーやデータを「割り当て直す」という語の使い方を紹介します。",
+    "keywords": ["rebind 意味", "rebind 発音", "製本し直す", "bind 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】製本し直す・装丁し直す", "note": "傷んだ本の表紙や綴じを新しくする。rebind the old book（古い本を製本し直す）。過去形は rebound。" },
+      { "hinshi": "【動詞】再び結びつける・割り当て直す", "note": "ITでキー・関数・変数などを再び対応づける。rebind the key（キーを割り当て直す）。" }
+    ],
+    "usages": [
+      { "title": "① 製本「本を製本し直す」として", "desc": "綴じや表紙を新しくすることを表します。", "example_en": "The library had the damaged volumes rebound in leather.", "example_ja": "図書館は傷んだ本を革で製本し直してもらった。" },
+      { "title": "② IT「キーを割り当て直す」として", "desc": "対応づけをやり直すことを表します。", "example_en": "You can rebind this shortcut to another key.", "example_ja": "このショートカットを別のキーに割り当て直せる。" }
+    ],
+    "warn": [
+      "rebind は『製本し直す／再び結びつける・割り当て直す』。re-（再び）＋ bind。",
+      "製本・IT どちらの意味でも過去形・過去分詞は rebound（rebind-rebound-rebound）。"
+    ],
+    "etym_note": "re-（再び）＋ bind（『縛る・綴じる』、古英語 bindan「縛る」より）から成り、「再び結び・綴じること」を意味します。band（帯）や bond（絆）と同じ語根です。",
+    "etym_chain": [
+      { "node": "bindan", "sub": "縛る", "era": "古英語" },
+      { "node": "bind", "sub": "縛る・製本する", "era": "中英語" },
+      { "node": "rebind", "sub": "製本し直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rebind the book", "ja": "本を製本し直す" },
+      { "en": "rebind in leather", "ja": "革で製本し直す" },
+      { "en": "rebind the volume", "ja": "その本を装丁し直す" },
+      { "en": "rebind the key", "ja": "キーを割り当て直す" },
+      { "en": "rebind the function", "ja": "機能を割り当て直す" },
+      { "en": "rebind the data", "ja": "データを再び結びつける" }
+    ],
+    "related": [
+      { "en": "bind", "ja": "縛る・製本する" },
+      { "en": "binding", "ja": "製本・束縛" },
+      { "en": "bookbinding", "ja": "製本" },
+      { "en": "reassign", "ja": "割り当て直す" }
+    ],
+    "faq": [
+      { "q": "rebind とはどんな意味？", "a": "傷んだ本を『製本し直す』、またはITでキーやデータを『割り当て直す・再び結びつける』という意味です。The volumes were rebound in leather.（本は革で製本し直された）のように使います。" },
+      { "q": "rebind の過去形は？", "a": "bind と同じく不規則変化で、過去形・過去分詞は rebound です。ボールの『リバウンド』と同じ綴りになりますが別語源の活用形です。" }
+    ],
+    "quiz": [
+      { "q": "The library had the damaged volumes ___ in leather.（製本し直す）", "A": "rebound（rebind の過去分詞）", "B": "binded", "C": "rebind の現在形のまま", "D": "bonded", "correct": "A" },
+      { "q": "rebind のもとになった動詞はどれ？", "A": "bind（縛る・製本する）", "B": "blind（盲目にする）", "C": "bend（曲げる）", "D": "band（束ねる）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reboil",
+    "pron": "ˌriːˈbɔɪl",
+    "kana": "リボイル",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ boil（沸かす・煮る）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "料理・生活"],
+    "meaning_main": "もう一度沸かす・煮直す",
+    "description": "reboil の意味・発音・例文・語源を解説。お湯やスープなどを「もう一度沸かす・煮直す」という、料理や生活で使う語の使い方を紹介します。",
+    "keywords": ["reboil 意味", "reboil 発音", "もう一度沸かす", "boil 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】もう一度沸かす・煮直す", "note": "冷めたお湯や料理を再び沸騰させる。reboil the water（お湯を沸かし直す）。" }
+    ],
+    "usages": [
+      { "title": "① 「お湯を沸かし直す」として", "desc": "冷めた湯を再び沸かすことを表します。", "example_en": "The water had cooled, so she reboiled the kettle.", "example_ja": "お湯が冷めたので、彼女はやかんを沸かし直した。" },
+      { "title": "② 「スープを煮直す」として", "desc": "料理を再び煮ることを表します。", "example_en": "Reboil the soup before serving it again.", "example_ja": "もう一度出す前にスープを煮直しなさい。" }
+    ],
+    "warn": [
+      "reboil は『もう一度沸かす・煮直す』。re-（再び）＋ boil。",
+      "一度沸かした水を reboil するのは味や安全面で避けるべき、という議論もある日常語。"
+    ],
+    "etym_note": "re-（再び）＋ boil（『沸かす・煮る』、ラテン語 bullire「泡立つ」、bulla「泡」より）から成り、「再び沸かすこと」を意味します。bull（泡）に由来し、ebullient（元気いっぱいの）と同じ語根です。",
+    "etym_chain": [
+      { "node": "bullire", "sub": "泡立つ", "era": "ラテン語" },
+      { "node": "boil", "sub": "沸かす・煮る", "era": "中英語" },
+      { "node": "reboil", "sub": "もう一度沸かす", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reboil the water", "ja": "お湯を沸かし直す" },
+      { "en": "reboil the kettle", "ja": "やかんを沸かし直す" },
+      { "en": "reboil the soup", "ja": "スープを煮直す" },
+      { "en": "reboil the milk", "ja": "牛乳を温め直す" },
+      { "en": "do not reboil", "ja": "沸かし直さないこと" },
+      { "en": "reboil briefly", "ja": "さっと煮直す" }
+    ],
+    "related": [
+      { "en": "boil", "ja": "沸かす・煮る" },
+      { "en": "reheat", "ja": "温め直す" },
+      { "en": "simmer", "ja": "とろ火で煮る" },
+      { "en": "warm up", "ja": "温める" }
+    ],
+    "faq": [
+      { "q": "reboil とはどんな意味？", "a": "冷めたお湯や料理を『もう一度沸かす・煮直す』という意味です。She reboiled the kettle.（やかんを沸かし直した）のように使います。" },
+      { "q": "reboil と reheat の違いは？", "a": "reboil は『（沸騰するまで）再び沸かす』、reheat は『（沸騰させずに）温め直す』点が異なります。" }
+    ],
+    "quiz": [
+      { "q": "The water had cooled, so she ___ed the kettle.（沸かし直した）", "A": "reboil", "B": "boil の最初に沸かすだけ", "C": "broil の網焼きする", "D": "spoil の台無しにする", "correct": "A" },
+      { "q": "reboil のもとになった動詞はどれ？", "A": "boil（沸かす・煮る）", "B": "broil（網焼きする）", "C": "spoil（台無しにする）", "D": "coil（巻く）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "restack",
+    "pron": "ˌriːˈstæk",
+    "kana": "リスタック",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ stack（積み重ねる）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "一般・物流"],
+    "meaning_main": "積み直す・並べ替えて積む",
+    "description": "restack の意味・発音・例文・語源を解説。崩れたものを「積み直す」、本や荷物を「並べ替えて積む」という、物流や日常で使う語の使い方を紹介します。",
+    "keywords": ["restack 意味", "restack 発音", "積み直す", "stack 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】積み直す・並べ替えて積む", "note": "崩れたり乱れたりした積み重ねを整え直す。restack the boxes（箱を積み直す）。" }
+    ],
+    "usages": [
+      { "title": "① 「箱を積み直す」として", "desc": "崩れた山を整え直すことを表します。", "example_en": "After the boxes toppled, we had to restack them.", "example_ja": "箱が倒れたので、私たちは積み直さねばならなかった。" },
+      { "title": "② 「棚を並べ替える」として", "desc": "整理して積み直すことを表します。", "example_en": "The staff restacked the shelves overnight.", "example_ja": "店員は夜のうちに棚を並べ直した。" }
+    ],
+    "warn": [
+      "restack は『積み直す・並べ替えて積む』。re-（再び）＋ stack。",
+      "物流・倉庫・図書館などで、崩れた山や乱れた棚を整え直す日常語。"
+    ],
+    "etym_note": "re-（再び）＋ stack（『積み重ね・干し草の山』、古ノルド語 stakkr「干し草の山」より）から成り、「再び積み重ねること」を意味します。stake（杭）と語源的につながります。",
+    "etym_chain": [
+      { "node": "stakkr", "sub": "干し草の山", "era": "古ノルド語" },
+      { "node": "stack", "sub": "積み重ねる", "era": "中英語" },
+      { "node": "restack", "sub": "積み直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "restack the boxes", "ja": "箱を積み直す" },
+      { "en": "restack the shelves", "ja": "棚を並べ直す" },
+      { "en": "restack the chairs", "ja": "椅子を積み直す" },
+      { "en": "restack the firewood", "ja": "薪を積み直す" },
+      { "en": "restack the pallets", "ja": "パレットを積み直す" },
+      { "en": "restack neatly", "ja": "きれいに積み直す" }
+    ],
+    "related": [
+      { "en": "stack", "ja": "積み重ねる" },
+      { "en": "pile", "ja": "積み上げる" },
+      { "en": "rearrange", "ja": "並べ替える" },
+      { "en": "reorganize", "ja": "再編成する" }
+    ],
+    "faq": [
+      { "q": "restack とはどんな意味？", "a": "崩れたり乱れたりしたものを『積み直す・並べ替えて積む』という意味です。After the boxes toppled, we had to restack them.（箱が倒れたので積み直さねばならなかった）のように使います。" },
+      { "q": "restack と rearrange の違いは？", "a": "restack は『（積み重ねを）積み直す』ことに限定され、rearrange は『（順序・配置を）並べ替える』全般を指します。" }
+    ],
+    "quiz": [
+      { "q": "After the boxes toppled, we had to ___ them.（積み直す）", "A": "restack", "B": "stack の最初に積むだけ", "C": "attack の攻撃する", "D": "stick の貼る", "correct": "A" },
+      { "q": "restack のもとになった動詞はどれ？", "A": "stack（積み重ねる）", "B": "stick（貼る・刺す）", "C": "stalk（こっそり追う）", "D": "stock（蓄える）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retie",
+    "pron": "ˌriːˈtaɪ",
+    "kana": "リタイ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ tie（結ぶ・縛る）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "一般・生活"],
+    "meaning_main": "結び直す・縛り直す",
+    "description": "retie の意味・発音・例文・語源を解説。靴ひもやネクタイなどを「結び直す・縛り直す」という、日常で使う語の使い方を例文とともに紹介します。",
+    "keywords": ["retie 意味", "retie 発音", "結び直す", "tie 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】結び直す・縛り直す", "note": "ほどけたものを再び結ぶ。retie the shoelaces（靴ひもを結び直す）。-ie で終わるが retying と綴る。" }
+    ],
+    "usages": [
+      { "title": "① 「靴ひもを結び直す」として", "desc": "ほどけたひもを再び結ぶことを表します。", "example_en": "He stopped to retie his shoelaces.", "example_ja": "彼は立ち止まって靴ひもを結び直した。" },
+      { "title": "② 「縛り直す」として", "desc": "緩んだものを再び縛ることを表します。", "example_en": "She retied the ribbon around the gift.", "example_ja": "彼女は贈り物のリボンを結び直した。" }
+    ],
+    "warn": [
+      "retie は『結び直す・縛り直す』。re-（再び）＋ tie。",
+      "ing 形は retying、過去形は retied。比喩で『関係を結び直す』にも使う。"
+    ],
+    "etym_note": "re-（再び）＋ tie（『結ぶ・ひも』、古英語 tīgan「縛る」、tēag「ひも・きずな」より）から成り、「再び結ぶこと」を意味します。tow（引く）と語源的につながる古英語起源の語です。",
+    "etym_chain": [
+      { "node": "tīgan", "sub": "縛る", "era": "古英語" },
+      { "node": "tie", "sub": "結ぶ・縛る", "era": "中英語" },
+      { "node": "retie", "sub": "結び直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "retie the shoelaces", "ja": "靴ひもを結び直す" },
+      { "en": "retie the knot", "ja": "結び目を結び直す" },
+      { "en": "retie the ribbon", "ja": "リボンを結び直す" },
+      { "en": "retie the tie", "ja": "ネクタイを締め直す" },
+      { "en": "retie the rope", "ja": "ロープを縛り直す" },
+      { "en": "retie the bow", "ja": "ちょう結びを結び直す" }
+    ],
+    "related": [
+      { "en": "tie", "ja": "結ぶ・縛る" },
+      { "en": "untie", "ja": "ほどく" },
+      { "en": "knot", "ja": "結び目" },
+      { "en": "fasten", "ja": "留める" }
+    ],
+    "faq": [
+      { "q": "retie とはどんな意味？", "a": "ほどけた靴ひもやリボンなどを『結び直す・縛り直す』という意味です。He stopped to retie his shoelaces.（立ち止まって靴ひもを結び直した）のように使います。" },
+      { "q": "retie の ing 形は？", "a": "tie と同じく、ie を y に変えて retying となります。過去形は retied です。" }
+    ],
+    "quiz": [
+      { "q": "He stopped to ___ his shoelaces.（結び直す）", "A": "retie", "B": "untie のほどく", "C": "tie の最初に結ぶだけ", "D": "tidy の片付ける", "correct": "A" },
+      { "q": "retie のもとになった動詞はどれ？", "A": "tie（結ぶ・縛る）", "B": "tidy（片付ける）", "C": "tip（傾ける）", "D": "tile（タイルを張る）", "correct": "A" }
+    ]
+  }
+]

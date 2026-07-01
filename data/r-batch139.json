@@ -1,0 +1,523 @@
+[
+  {
+    "english": "reline",
+    "pron": "ˌriːˈlaɪn",
+    "kana": "リライン",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ line（裏地をつける・内張りする）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "工業・衣類"],
+    "meaning_main": "裏地を張り替える・内張りし直す",
+    "description": "reline の意味・発音・例文・語源を解説。上着の裏地やブレーキ、管の内側などを「張り替える・内張りし直す」という、衣類や工業で使う語の使い方を紹介します。",
+    "keywords": ["reline 意味", "reline 発音", "裏地を張り替える", "line 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】裏地を張り替える・内張りし直す", "note": "衣類の裏地、ブレーキシュー、配管の内側などを新しくする。reline the coat（上着の裏地を張り替える）。reline the brakes（ブレーキを張り替える）。" }
+    ],
+    "usages": [
+      { "title": "① 衣類「裏地を張り替える」として", "desc": "古い裏地を新しくすることを表します。", "example_en": "The tailor relined the old jacket with new silk.", "example_ja": "仕立て屋は古い上着を新しい絹で裏地を張り替えた。" },
+      { "title": "② 工業「内張りし直す」として", "desc": "管や炉の内側を張り替えることを表します。", "example_en": "The sewer pipes were relined without digging.", "example_ja": "下水管は掘り返さずに内張りし直された。" }
+    ],
+    "warn": [
+      "reline は『裏地を張り替える・内張りし直す』。re-（再び）＋ line（裏地をつける）。",
+      "ここでの line は『線』ではなく『（衣類などの）裏地・内張りをつける』という動詞。"
+    ],
+    "etym_note": "re-（再び）＋ line（『裏地をつける』、もとは亜麻布 linen を裏に当てたことから、ラテン語 linum「亜麻」より）から成り、「再び裏地をつけること」を意味します。linen（リネン）と同じ語根です。",
+    "etym_chain": [
+      { "node": "linum", "sub": "亜麻", "era": "ラテン語" },
+      { "node": "line", "sub": "裏地をつける", "era": "中英語" },
+      { "node": "reline", "sub": "裏地を張り替える", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reline the coat", "ja": "上着の裏地を張り替える" },
+      { "en": "reline the brakes", "ja": "ブレーキを張り替える" },
+      { "en": "reline the pipe", "ja": "管を内張りし直す" },
+      { "en": "reline the furnace", "ja": "炉を内張りし直す" },
+      { "en": "reline the jacket", "ja": "ジャケットの裏地を替える" },
+      { "en": "reline with new fabric", "ja": "新しい生地で裏地を張る" }
+    ],
+    "related": [
+      { "en": "line", "ja": "裏地をつける" },
+      { "en": "lining", "ja": "裏地・内張り" },
+      { "en": "reupholster", "ja": "張り替える（家具）" },
+      { "en": "refit", "ja": "改装する・取り付け直す" }
+    ],
+    "faq": [
+      { "q": "reline とはどんな意味？", "a": "衣類の裏地や管・炉の内側などを『張り替える・内張りし直す』という意味です。The tailor relined the old jacket.（古い上着の裏地を張り替えた）のように使います。" },
+      { "q": "reline の line はどんな意味？", "a": "『線』ではなく『（衣類などに）裏地・内張りをつける』という動詞の line です。名詞 lining（裏地）と関連します。" }
+    ],
+    "quiz": [
+      { "q": "The tailor ___d the old jacket with new silk.（裏地を張り替えた）", "A": "reline", "B": "line の最初に線を引くだけ", "C": "recline のもたれる", "D": "decline の断る", "correct": "A" },
+      { "q": "reline の line はどんな意味？", "A": "裏地をつける", "B": "線を引く", "C": "並ぶ", "D": "電話線", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rematerialize",
+    "pron": "ˌriːməˈtɪəriəlaɪz",
+    "kana": "リマテリアライズ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ materialize（実体化する・現れる）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "SF・文章"],
+    "meaning_main": "再び現れる・再び実体化する",
+    "description": "rematerialize の意味・発音・例文・語源を解説。消えたものが「再び現れる・再び実体化する」という、SFや文章で使う語の使い方を紹介します。",
+    "keywords": ["rematerialize 意味", "rematerialize 発音", "再び現れる", "materialize 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再び現れる・再び実体化する", "note": "一度消えたものが再び形を取って現れる。SFの転送装置などで使う。比喩で『（消えた問題などが）再び姿を現す』。" }
+    ],
+    "usages": [
+      { "title": "① SF「再び実体化する」として", "desc": "消えた人や物が再び現れることを表します。", "example_en": "The crew rematerialized on the planet's surface.", "example_ja": "乗組員は惑星の表面に再び実体化した。" },
+      { "title": "② 比喩「再び姿を現す」として", "desc": "消えていたものが再び現れることを表します。", "example_en": "Old fears rematerialized as the deadline approached.", "example_ja": "締め切りが近づくと古い不安が再び頭をもたげた。" }
+    ],
+    "warn": [
+      "rematerialize は『再び現れる・再び実体化する』。re-（再び）＋ materialize。英国綴りは rematerialise。",
+      "SF（テレポート）や比喩（問題・感情の再来）で使う。"
+    ],
+    "etym_note": "re-（再び）＋ materialize（material「物質」＋ -ize「〜化する」、ラテン語 materia「素材・物質」より）から成り、「再び物質となること」を意味します。matter（物質）と同じ語根です。",
+    "etym_chain": [
+      { "node": "materia", "sub": "素材・物質", "era": "ラテン語" },
+      { "node": "materialize", "sub": "実体化する・現れる", "era": "近代英語" },
+      { "node": "rematerialize", "sub": "再び現れる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rematerialize on the surface", "ja": "表面に再び実体化する" },
+      { "en": "rematerialize out of thin air", "ja": "何もないところから再び現れる" },
+      { "en": "rematerialize as a ghost", "ja": "幽霊として再び現れる" },
+      { "en": "fears rematerialize", "ja": "不安が再びよみがえる" },
+      { "en": "suddenly rematerialize", "ja": "突然再び姿を現す" },
+      { "en": "rematerialize elsewhere", "ja": "別の場所に再び現れる" }
+    ],
+    "related": [
+      { "en": "materialize", "ja": "実体化する・現れる" },
+      { "en": "dematerialize", "ja": "消える・非物質化する" },
+      { "en": "reappear", "ja": "再び現れる" },
+      { "en": "teleport", "ja": "瞬間移動する" }
+    ],
+    "faq": [
+      { "q": "rematerialize とはどんな意味？", "a": "消えたものが『再び現れる・再び実体化する』という意味です。The crew rematerialized on the surface.（乗組員は表面に再び実体化した）のように、SFや比喩で使います。" },
+      { "q": "rematerialize と reappear の違いは？", "a": "reappear は単に『再び現れる』、rematerialize は『（一度消えた実体が）再び物質として形を取る』点を強調します。SF的・劇的な響きがあります。" }
+    ],
+    "quiz": [
+      { "q": "The crew ___d on the planet's surface.（再び実体化した）", "A": "rematerialize", "B": "dematerialize の消える", "C": "materialize の最初に現れるだけ", "D": "memorialize の記念する", "correct": "A" },
+      { "q": "rematerialize のもとになった動詞はどれ？", "A": "materialize（実体化する・現れる）", "B": "memorialize（記念する）", "C": "minimize（最小化する）", "D": "moralize（説教する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "remelt",
+    "pron": "ˌriːˈmɛlt",
+    "kana": "リメルト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ melt（溶かす・溶ける）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "工業・料理"],
+    "meaning_main": "再び溶かす・溶かし直す",
+    "description": "remelt の意味・発音・例文・語源を解説。金属やチョコレートなどを「再び溶かす・溶かし直す」という、工業や料理で使う語の使い方を紹介します。",
+    "keywords": ["remelt 意味", "remelt 発音", "溶かし直す", "melt 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再び溶かす・溶かし直す", "note": "一度固まったものを再び熱して溶かす。remelt the metal（金属を溶かし直す）。リサイクルや鋳造で使う。" }
+    ],
+    "usages": [
+      { "title": "① 工業「金属を溶かし直す」として", "desc": "再び熱して溶かすことを表します。", "example_en": "Scrap aluminum is remelted to make new products.", "example_ja": "くずアルミは新製品を作るため溶かし直される。" },
+      { "title": "② 料理「溶かし直す」として", "desc": "固まったものを再び溶かすことを表します。", "example_en": "If the chocolate hardens, just remelt it gently.", "example_ja": "チョコレートが固まったら、やさしく溶かし直せばよい。" }
+    ],
+    "warn": [
+      "remelt は『再び溶かす・溶かし直す』。re-（再び）＋ melt。",
+      "金属リサイクル（remelt scrap）や料理（remelt chocolate）でよく使う。"
+    ],
+    "etym_note": "re-（再び）＋ melt（『溶ける・溶かす』、古英語 meltan「溶ける」より）から成り、「再び溶かすこと」を意味します。smelt（鉱石を溶かす）と語源的につながります。",
+    "etym_chain": [
+      { "node": "meltan", "sub": "溶ける", "era": "古英語" },
+      { "node": "melt", "sub": "溶かす・溶ける", "era": "中英語" },
+      { "node": "remelt", "sub": "再び溶かす", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "remelt the metal", "ja": "金属を溶かし直す" },
+      { "en": "remelt scrap", "ja": "くず金属を溶かし直す" },
+      { "en": "remelt the chocolate", "ja": "チョコレートを溶かし直す" },
+      { "en": "remelt the wax", "ja": "ろうを溶かし直す" },
+      { "en": "remelt and recast", "ja": "溶かし直して鋳直す" },
+      { "en": "remelt the snow", "ja": "雪を再び溶かす" }
+    ],
+    "related": [
+      { "en": "melt", "ja": "溶かす・溶ける" },
+      { "en": "smelt", "ja": "（鉱石を）製錬する" },
+      { "en": "recast", "ja": "鋳直す" },
+      { "en": "recycle", "ja": "再生利用する" }
+    ],
+    "faq": [
+      { "q": "remelt とはどんな意味？", "a": "一度固まった金属やチョコレートなどを『再び溶かす・溶かし直す』という意味です。Scrap aluminum is remelted.（くずアルミは溶かし直される）のように使います。" },
+      { "q": "remelt と smelt の違いは？", "a": "smelt は『鉱石を熱して金属を取り出す（製錬する）』、remelt は『（すでに金属になったものを）再び溶かす』点が異なります。" }
+    ],
+    "quiz": [
+      { "q": "Scrap aluminum is ___ed to make new products.（溶かし直される）", "A": "remelt", "B": "melt の最初に溶かすだけ", "C": "smell の匂う", "D": "smelt の製錬する", "correct": "A" },
+      { "q": "remelt のもとになった動詞はどれ？", "A": "melt（溶かす・溶ける）", "B": "smell（匂う）", "C": "spell（つづる）", "D": "swell（膨らむ）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "repot",
+    "pron": "ˌriːˈpɒt",
+    "kana": "リポット",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ pot（鉢に植える）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "園芸・生活"],
+    "meaning_main": "植え替える・鉢を替える",
+    "description": "repot の意味・発音・例文・語源を解説。植物を「植え替える・大きな鉢に移す」という、園芸や生活で使う語の使い方を例文とともに紹介します。",
+    "keywords": ["repot 意味", "repot 発音", "植え替える", "pot 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】植え替える・鉢を替える", "note": "植物を別の（多くはより大きな）鉢に移す。repot the plant（植物を植え替える）。根詰まりを防ぐために行う。" }
+    ],
+    "usages": [
+      { "title": "① 「植物を植え替える」として", "desc": "大きな鉢に移すことを表します。", "example_en": "You should repot the plant when its roots fill the container.", "example_ja": "根が鉢いっぱいになったら植物を植え替えるとよい。" },
+      { "title": "② 「鉢を替える」として", "desc": "新しい鉢に移すことを表します。", "example_en": "She repotted the orchid into a larger pot.", "example_ja": "彼女はランをより大きな鉢に植え替えた。" }
+    ],
+    "warn": [
+      "repot は『植え替える・鉢を替える』。re-（再び）＋ pot（鉢に植える）。",
+      "過去形は repotted（t を重ねる）。園芸で根詰まり対策として行う。"
+    ],
+    "etym_note": "re-（再び）＋ pot（『鉢・鉢に植える』、古英語 pott「つぼ・鉢」より）から成り、「再び鉢に植えること」を意味します。potter（陶工）や pottery（陶器）と同じ語根です。",
+    "etym_chain": [
+      { "node": "pott", "sub": "つぼ・鉢", "era": "古英語" },
+      { "node": "pot", "sub": "鉢に植える", "era": "中英語" },
+      { "node": "repot", "sub": "植え替える", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "repot the plant", "ja": "植物を植え替える" },
+      { "en": "repot the orchid", "ja": "ランを植え替える" },
+      { "en": "repot in spring", "ja": "春に植え替える" },
+      { "en": "repot into a larger pot", "ja": "大きな鉢に植え替える" },
+      { "en": "repot the seedling", "ja": "苗を植え替える" },
+      { "en": "time to repot", "ja": "植え替えの時期" }
+    ],
+    "related": [
+      { "en": "pot", "ja": "鉢に植える" },
+      { "en": "transplant", "ja": "移植する" },
+      { "en": "plant", "ja": "植える" },
+      { "en": "root-bound", "ja": "根詰まりした" }
+    ],
+    "faq": [
+      { "q": "repot とはどんな意味？", "a": "植物を別の（多くはより大きな）鉢に『植え替える』という意味です。You should repot the plant when its roots fill the pot.（根が鉢いっぱいになったら植え替えるとよい）のように使います。" },
+      { "q": "repot と transplant の違いは？", "a": "repot は『（鉢から鉢へ）植え替える』、transplant は『（地面や別の場所へ）移植する』を含む広い語です。鉢植えの植え替えには repot を使います。" }
+    ],
+    "quiz": [
+      { "q": "You should ___ the plant when its roots fill the pot.（植え替える）", "A": "repot", "B": "pot の最初に鉢に植えるだけ", "C": "report の報告する", "D": "reboot の再起動する", "correct": "A" },
+      { "q": "repot のもとになった語はどれ？", "A": "pot（鉢・鉢に植える）", "B": "port（港）", "C": "plot（区画）", "D": "pet（ペット）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "requalify",
+    "pron": "ˌriːˈkwɒlɪfaɪ",
+    "kana": "リクオリファイ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ qualify（資格を得る・予選を通過する）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "スポーツ・資格"],
+    "meaning_main": "再び資格を得る・再び予選を通過する",
+    "description": "requalify の意味・発音・例文・語源を解説。資格を「取り直す」、大会の「予選を再び通過する」という、スポーツや資格で使う語の使い方を紹介します。",
+    "keywords": ["requalify 意味", "requalify 発音", "資格を取り直す", "qualify 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再び資格を得る・資格を取り直す", "note": "失効した資格を改めて取得する。requalify as a nurse（看護師の資格を取り直す）。" },
+      { "hinshi": "【動詞】再び予選を通過する", "note": "スポーツで、次の段階・大会への出場権を再び得る。" }
+    ],
+    "usages": [
+      { "title": "① 資格「取り直す」として", "desc": "資格を改めて得ることを表します。", "example_en": "Pilots must requalify regularly to keep flying.", "example_ja": "パイロットは飛び続けるため定期的に資格を取り直さねばならない。" },
+      { "title": "② スポーツ「予選を再び通過する」として", "desc": "再び出場権を得ることを表します。", "example_en": "The team requalified for the World Cup.", "example_ja": "そのチームはワールドカップの出場権を再び得た。" }
+    ],
+    "warn": [
+      "requalify は『再び資格を得る／再び予選を通過する』。re-（再び）＋ qualify。",
+      "名詞は requalification。定期的な資格更新（再認定）の文脈でよく使う。"
+    ],
+    "etym_note": "re-（再び）＋ qualify（『資格を与える』、中世ラテン語 qualificare、qualis「どんな性質の」＋ facere「作る」より）から成り、「再び（必要な）性質を備えること」を意味します。quality（品質）と同じ語根です。",
+    "etym_chain": [
+      { "node": "qualificare", "sub": "性質を備えさせる", "era": "中世ラテン語" },
+      { "node": "qualify", "sub": "資格を得る", "era": "近代英語" },
+      { "node": "requalify", "sub": "再び資格を得る", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "requalify as a nurse", "ja": "看護師の資格を取り直す" },
+      { "en": "requalify for the final", "ja": "決勝の出場権を再び得る" },
+      { "en": "requalify every year", "ja": "毎年資格を取り直す" },
+      { "en": "requalify for the race", "ja": "レースの予選を再び通過する" },
+      { "en": "requalify the license", "ja": "免許を再認定する" },
+      { "en": "fail to requalify", "ja": "資格を取り直せない" }
+    ],
+    "related": [
+      { "en": "qualify", "ja": "資格を得る・予選通過する" },
+      { "en": "requalification", "ja": "再資格取得・再認定" },
+      { "en": "recertify", "ja": "再認定する" },
+      { "en": "renew", "ja": "更新する" }
+    ],
+    "faq": [
+      { "q": "requalify とはどんな意味？", "a": "失効した資格を『取り直す』、または大会の『予選を再び通過する』という意味です。Pilots must requalify regularly.（パイロットは定期的に資格を取り直さねばならない）のように使います。" },
+      { "q": "requalify と recertify の違いは？", "a": "ほぼ同義ですが、requalify は『（試験・基準を満たして）再び資格を得る』、recertify は『（認定機関が）再び認定する』視点に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "Pilots must ___ regularly to keep flying.（資格を取り直す）", "A": "requalify", "B": "qualify の最初に資格を得るだけ", "C": "quantify の数量化する", "D": "quarrel の口論する", "correct": "A" },
+      { "q": "requalify のもとになった動詞はどれ？", "A": "qualify（資格を得る）", "B": "quantify（数量化する）", "C": "quality（品質）", "D": "quote（引用する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rerecord",
+    "pron": "ˌriːrɪˈkɔːd",
+    "kana": "リリコード",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ record（録音する・記録する）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "音楽・メディア"],
+    "meaning_main": "録音し直す・再収録する",
+    "description": "rerecord の意味・発音・例文・語源を解説。曲や声を「録音し直す・再収録する」という、音楽やメディアで使う語の使い方を紹介します。",
+    "keywords": ["rerecord 意味", "rerecord 発音", "録音し直す", "record 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】録音し直す・録画し直す・再収録する", "note": "一度録ったものを改めて録る。rerecord the song（曲を録音し直す）。re-record とも綴る。" }
+    ],
+    "usages": [
+      { "title": "① 「曲を録音し直す」として", "desc": "改めて録音することを表します。", "example_en": "The band rerecorded the album with a new producer.", "example_ja": "そのバンドは新しいプロデューサーとアルバムを録音し直した。" },
+      { "title": "② 「ナレーションを再収録する」として", "desc": "声を録り直すことを表します。", "example_en": "We had to rerecord the narration because of background noise.", "example_ja": "雑音のためナレーションを再収録しなければならなかった。" }
+    ],
+    "warn": [
+      "rerecord は『録音し直す・再収録する』。re-（再び）＋ record。re-record とも綴る。",
+      "動詞 record の発音はリコード（後ろにアクセント）。名詞のレコード（前にアクセント）と区別。"
+    ],
+    "etym_note": "re-（再び）＋ record（『記録する』、ラテン語 recordari「思い出す」、re-「再び」＋ cor「心」より）から成り、「再び記録すること」を意味します。core（核）や courage（勇気）と同じ語根です。",
+    "etym_chain": [
+      { "node": "recordari", "sub": "思い出す", "era": "ラテン語" },
+      { "node": "record", "sub": "記録する・録音する", "era": "中英語" },
+      { "node": "rerecord", "sub": "録音し直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "rerecord the song", "ja": "曲を録音し直す" },
+      { "en": "rerecord the album", "ja": "アルバムを録音し直す" },
+      { "en": "rerecord the vocals", "ja": "ボーカルを録り直す" },
+      { "en": "rerecord the narration", "ja": "ナレーションを再収録する" },
+      { "en": "rerecord the track", "ja": "トラックを録音し直す" },
+      { "en": "rerecord from scratch", "ja": "一から録音し直す" }
+    ],
+    "related": [
+      { "en": "record", "ja": "録音する・記録する" },
+      { "en": "recording", "ja": "録音・記録" },
+      { "en": "redub", "ja": "吹き替え直す" },
+      { "en": "remaster", "ja": "リマスターする" }
+    ],
+    "faq": [
+      { "q": "rerecord とはどんな意味？", "a": "一度録音・録画したものを『録音し直す・再収録する』という意味です。The band rerecorded the album.（バンドはアルバムを録音し直した）のように使います。" },
+      { "q": "rerecord と remaster の違いは？", "a": "rerecord は『（演奏・声を）もう一度録り直す』、remaster は『（既存の録音の）音質を整え直す』点が異なります。" }
+    ],
+    "quiz": [
+      { "q": "The band ___ed the album with a new producer.（録音し直した）", "A": "rerecord", "B": "record の最初に録音するだけ", "C": "recall の思い出す", "D": "reward の報いる", "correct": "A" },
+      { "q": "rerecord のもとになった動詞はどれ？", "A": "record（録音する・記録する）", "B": "recall（思い出す）", "C": "reward（報いる）", "D": "recover（回復する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reroof",
+    "pron": "ˌriːˈruːf",
+    "kana": "リルーフ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ roof（屋根を葺く）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "建築・住まい"],
+    "meaning_main": "屋根を葺き替える",
+    "description": "reroof の意味・発音・例文・語源を解説。建物の「屋根を葺き替える・新しくする」という、建築や住まいで使う語の使い方を例文とともに紹介します。",
+    "keywords": ["reroof 意味", "reroof 発音", "屋根を葺き替える", "roof 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】屋根を葺き替える", "note": "古い屋根を取り外し新しい屋根材で覆い直す。reroof the house（家の屋根を葺き替える）。" }
+    ],
+    "usages": [
+      { "title": "① 「家の屋根を葺き替える」として", "desc": "屋根を新しくすることを表します。", "example_en": "We had to reroof the house after the storm damage.", "example_ja": "嵐の被害のあと家の屋根を葺き替えねばならなかった。" },
+      { "title": "② 「屋根材を替える」として", "desc": "古い屋根を覆い直すことを表します。", "example_en": "The barn was reroofed with metal sheets.", "example_ja": "その納屋は金属板で屋根を葺き替えられた。" }
+    ],
+    "warn": [
+      "reroof は『屋根を葺き替える』。re-（再び）＋ roof（屋根を葺く）。",
+      "roof は名詞『屋根』だけでなく動詞『屋根を葺く』としても使い、reroof はその再施工。"
+    ],
+    "etym_note": "re-（再び）＋ roof（『屋根・屋根を葺く』、古英語 hrof「屋根・頂」より）から成り、「再び屋根を葺くこと」を意味します。古英語起源の素朴な語に re- を付けた語です。",
+    "etym_chain": [
+      { "node": "hrof", "sub": "屋根・頂", "era": "古英語" },
+      { "node": "roof", "sub": "屋根・屋根を葺く", "era": "中英語" },
+      { "node": "reroof", "sub": "屋根を葺き替える", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reroof the house", "ja": "家の屋根を葺き替える" },
+      { "en": "reroof the barn", "ja": "納屋の屋根を葺き替える" },
+      { "en": "reroof with tiles", "ja": "瓦で屋根を葺き替える" },
+      { "en": "reroof the garage", "ja": "車庫の屋根を葺き替える" },
+      { "en": "need to reroof", "ja": "屋根の葺き替えが必要だ" },
+      { "en": "reroof the building", "ja": "建物の屋根を葺き替える" }
+    ],
+    "related": [
+      { "en": "roof", "ja": "屋根・屋根を葺く" },
+      { "en": "roofing", "ja": "屋根葺き・屋根材" },
+      { "en": "shingle", "ja": "屋根板・屋根を葺く" },
+      { "en": "renovate", "ja": "改修する" }
+    ],
+    "faq": [
+      { "q": "reroof とはどんな意味？", "a": "建物の『屋根を葺き替える』という意味です。We had to reroof the house after the storm.（嵐のあと家の屋根を葺き替えねばならなかった）のように使います。" },
+      { "q": "roof は動詞にもなる？", "a": "はい。roof は名詞『屋根』のほか、動詞『屋根を葺く』としても使います。reroof はその動詞に re-（再び）を付けた『葺き替える』です。" }
+    ],
+    "quiz": [
+      { "q": "We had to ___ the house after the storm.（屋根を葺き替える）", "A": "reroof", "B": "roof の最初に屋根を葺くだけ", "C": "reproof の叱責", "D": "removal の撤去", "correct": "A" },
+      { "q": "reroof のもとになった語はどれ？", "A": "roof（屋根・屋根を葺く）", "B": "root（根）", "C": "room（部屋）", "D": "roost（ねぐら）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "resurvey",
+    "pron": "ˌriːsɜːˈveɪ",
+    "kana": "リサーベイ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ survey（測量する・調査する）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "測量・調査"],
+    "meaning_main": "再測量する・再調査する",
+    "description": "resurvey の意味・発音・例文・語源を解説。土地を「再測量する」、アンケートなどを「再調査する」という、測量や統計で使う語の使い方を紹介します。",
+    "keywords": ["resurvey 意味", "resurvey 発音", "再測量する", "survey 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再測量する・再調査する", "note": "土地を改めて測量する、または対象を改めて調査する。resurvey the land（土地を再測量する）。resurvey the residents（住民を再調査する）。" }
+    ],
+    "usages": [
+      { "title": "① 測量「土地を再測量する」として", "desc": "境界などを改めて測ることを表します。", "example_en": "The boundary was disputed, so they resurveyed the property.", "example_ja": "境界に争いがあったため、彼らはその土地を再測量した。" },
+      { "title": "② 調査「再調査する」として", "desc": "アンケートなどを改めて行うことを表します。", "example_en": "Researchers resurveyed the same households a year later.", "example_ja": "研究者は1年後に同じ世帯を再調査した。" }
+    ],
+    "warn": [
+      "resurvey は『再測量する・再調査する』。re-（再び）＋ survey。",
+      "動詞 survey の発音はサーベイ（後ろにアクセント）、名詞はサーベイ（前にアクセント）で異なる。"
+    ],
+    "etym_note": "re-（再び）＋ survey（『見渡す・調査する』、古フランス語 surveeir、sur-「上から」＋ veoir「見る」より）から成り、「再び上から見渡し調べること」を意味します。view（見る）と同じ語根です。",
+    "etym_chain": [
+      { "node": "surveeir", "sub": "上から見る", "era": "古フランス語" },
+      { "node": "survey", "sub": "測量する・調査する", "era": "中英語" },
+      { "node": "resurvey", "sub": "再測量する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "resurvey the land", "ja": "土地を再測量する" },
+      { "en": "resurvey the property", "ja": "敷地を再測量する" },
+      { "en": "resurvey the boundary", "ja": "境界を再測量する" },
+      { "en": "resurvey the residents", "ja": "住民を再調査する" },
+      { "en": "resurvey the area", "ja": "地域を再調査する" },
+      { "en": "resurvey the site", "ja": "現場を再測量する" }
+    ],
+    "related": [
+      { "en": "survey", "ja": "測量する・調査する" },
+      { "en": "surveyor", "ja": "測量士" },
+      { "en": "remap", "ja": "地図を作り直す" },
+      { "en": "reassess", "ja": "再評価する" }
+    ],
+    "faq": [
+      { "q": "resurvey とはどんな意味？", "a": "土地を『再測量する』、または対象を『再調査する』という意味です。They resurveyed the property.（その土地を再測量した）のように使います。" },
+      { "q": "resurvey はどんな場面で使う？", "a": "土地の境界争いでの再測量や、統計・市場調査で同じ対象を時間をおいて再び調べる場面で使われます。" }
+    ],
+    "quiz": [
+      { "q": "The boundary was disputed, so they ___ed the property.（再測量した）", "A": "resurvey", "B": "survey の最初に測量するだけ", "C": "surface の表面", "D": "serve の仕える", "correct": "A" },
+      { "q": "resurvey のもとになった動詞はどれ？", "A": "survey（測量する・調査する）", "B": "serve（仕える）", "C": "surge（押し寄せる）", "D": "survive（生き残る）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retighten",
+    "pron": "ˌriːˈtaɪtən",
+    "kana": "リタイトゥン",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ tighten（締める・きつくする）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "整備・一般"],
+    "meaning_main": "再び締める・締め直す",
+    "description": "retighten の意味・発音・例文・語源を解説。ねじやボルト、規制などを「再び締める・締め直す」という、整備や一般の場面で使う語の使い方を紹介します。",
+    "keywords": ["retighten 意味", "retighten 発音", "締め直す", "tighten 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再び締める・締め直す", "note": "緩んだねじ・ボルトなどを再びきつく締める。retighten the bolts（ボルトを締め直す）。比喩で規制・管理を再び強める。" }
+    ],
+    "usages": [
+      { "title": "① 整備「ボルトを締め直す」として", "desc": "緩んだものを再び締めることを表します。", "example_en": "Check and retighten the bolts after the first 100 km.", "example_ja": "最初の100km走行後にボルトを点検し締め直してください。" },
+      { "title": "② 比喩「規制を再び強める」として", "desc": "管理を再び厳しくすることを表します。", "example_en": "The central bank retightened monetary policy.", "example_ja": "中央銀行は金融政策を再び引き締めた。" }
+    ],
+    "warn": [
+      "retighten は『再び締める・締め直す』。re-（再び）＋ tighten。",
+      "物理的な締め直し（ボルト）にも、比喩的な引き締め（金融・規制）にも使う。"
+    ],
+    "etym_note": "re-（再び）＋ tighten（tight「きつい」＋ -en「〜にする」、古ノルド語 þéttr「密な」より）から成り、「再びきつくすること」を意味します。tight（きつい）と同じ語根です。",
+    "etym_chain": [
+      { "node": "þéttr", "sub": "密な・きつい", "era": "古ノルド語" },
+      { "node": "tighten", "sub": "締める・きつくする", "era": "近代英語" },
+      { "node": "retighten", "sub": "再び締める", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "retighten the bolts", "ja": "ボルトを締め直す" },
+      { "en": "retighten the screw", "ja": "ねじを締め直す" },
+      { "en": "retighten the strap", "ja": "ストラップを締め直す" },
+      { "en": "retighten the rules", "ja": "規則を再び厳しくする" },
+      { "en": "retighten policy", "ja": "政策を再び引き締める" },
+      { "en": "retighten periodically", "ja": "定期的に締め直す" }
+    ],
+    "related": [
+      { "en": "tighten", "ja": "締める・きつくする" },
+      { "en": "loosen", "ja": "緩める" },
+      { "en": "fasten", "ja": "留める・固定する" },
+      { "en": "secure", "ja": "固定する" }
+    ],
+    "faq": [
+      { "q": "retighten とはどんな意味？", "a": "緩んだねじやボルトなどを『再び締める・締め直す』という意味です。Retighten the bolts after the first 100 km.（最初の100km後にボルトを締め直してください）のように使います。" },
+      { "q": "retighten は比喩でも使える？", "a": "はい。金融政策や規制を『再び引き締める』という比喩でも使います。retighten monetary policy（金融政策を再び引き締める）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "Check and ___ the bolts after the first 100 km.（締め直す）", "A": "retighten", "B": "loosen の緩める", "C": "tighten の最初に締めるだけ", "D": "frighten の怖がらせる", "correct": "A" },
+      { "q": "retighten のもとになった動詞はどれ？", "A": "tighten（締める・きつくする）", "B": "frighten（怖がらせる）", "C": "brighten（明るくする）", "D": "straighten（まっすぐにする）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "restitch",
+    "pron": "ˌriːˈstɪtʃ",
+    "kana": "リスティッチ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ stitch（縫う・ひと針縫う）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "裁縫・医療"],
+    "meaning_main": "縫い直す・縫い合わせ直す",
+    "description": "restitch の意味・発音・例文・語源を解説。衣類のほつれや傷口などを「縫い直す・縫い合わせ直す」という、裁縫や医療で使う語の使い方を紹介します。",
+    "keywords": ["restitch 意味", "restitch 発音", "縫い直す", "stitch 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】縫い直す・縫い合わせ直す", "note": "ほつれた箇所や開いた傷口を再び縫う。restitch the hem（裾を縫い直す）。医療では傷の縫合をやり直す。" }
+    ],
+    "usages": [
+      { "title": "① 裁縫「縫い直す」として", "desc": "ほつれを再び縫うことを表します。", "example_en": "She restitched the hem that had come undone.", "example_ja": "彼女はほどけた裾を縫い直した。" },
+      { "title": "② 医療「縫合し直す」として", "desc": "傷口を再び縫うことを表します。", "example_en": "The wound reopened and had to be restitched.", "example_ja": "傷口が再び開いたので縫い合わせ直さねばならなかった。" }
+    ],
+    "warn": [
+      "restitch は『縫い直す・縫い合わせ直す』。re-（再び）＋ stitch。",
+      "裁縫（ほつれの修繕）にも医療（傷の再縫合）にも使う。"
+    ],
+    "etym_note": "re-（再び）＋ stitch（『ひと針・縫う』、古英語 stice「刺し傷・ちくりとした痛み」より）から成り、「再び（針で）縫うこと」を意味します。stick（刺す）と同じ語根です。",
+    "etym_chain": [
+      { "node": "stice", "sub": "刺し傷・ひと刺し", "era": "古英語" },
+      { "node": "stitch", "sub": "縫う・ひと針", "era": "中英語" },
+      { "node": "restitch", "sub": "縫い直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "restitch the hem", "ja": "裾を縫い直す" },
+      { "en": "restitch the seam", "ja": "縫い目を縫い直す" },
+      { "en": "restitch the button", "ja": "ボタンを縫い付け直す" },
+      { "en": "restitch the wound", "ja": "傷口を縫合し直す" },
+      { "en": "restitch the tear", "ja": "破れを縫い直す" },
+      { "en": "restitch by hand", "ja": "手で縫い直す" }
+    ],
+    "related": [
+      { "en": "stitch", "ja": "縫う・ひと針" },
+      { "en": "sew", "ja": "縫う" },
+      { "en": "mend", "ja": "繕う・直す" },
+      { "en": "suture", "ja": "縫合する" }
+    ],
+    "faq": [
+      { "q": "restitch とはどんな意味？", "a": "衣類のほつれや傷口などを『縫い直す・縫い合わせ直す』という意味です。She restitched the hem.（裾を縫い直した）のように使います。" },
+      { "q": "restitch と mend の違いは？", "a": "restitch は『（針と糸で）縫い直す』ことに限定され、mend は縫う以外も含む『繕う・修理する』全般を指します。" }
+    ],
+    "quiz": [
+      { "q": "She ___ed the hem that had come undone.（縫い直した）", "A": "restitch", "B": "stitch の最初に縫うだけ", "C": "switch の切り替える", "D": "stretch の伸ばす", "correct": "A" },
+      { "q": "restitch のもとになった動詞はどれ？", "A": "stitch（縫う・ひと針）", "B": "switch（切り替える）", "C": "stretch（伸ばす）", "D": "scratch（引っかく）", "correct": "A" }
+    ]
+  }
+]

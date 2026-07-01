@@ -1,0 +1,525 @@
+[
+  {
+    "english": "raga",
+    "pron": "ˈrɑːɡə",
+    "kana": "ラーガ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "サンスクリット語 rāga（色・情趣）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "音楽・インド"],
+    "meaning_main": "ラーガ（インド古典音楽の旋法・旋律の枠組み）",
+    "description": "raga の意味・発音・例文・語源を解説。インド古典音楽で、即興演奏の土台となる音階と旋律の枠組み「ラーガ」という、音楽で使う語の使い方を紹介します。",
+    "keywords": ["raga 意味", "raga 発音", "ラーガ", "インド音楽"],
+    "meanings": [
+      { "hinshi": "【名詞】ラーガ", "note": "インド古典音楽で、特定の音階・動き・情趣を定めた旋律の枠組み。奏者はその枠の中で即興的に演奏する。時間帯や季節と結びつくものもある。複数形 ragas。" }
+    ],
+    "usages": [
+      { "title": "① 「旋律の枠組み」として", "desc": "即興の土台を表します。", "example_en": "The sitar player improvised on an evening raga.", "example_ja": "シタール奏者は夕べのラーガに基づいて即興演奏した。" },
+      { "title": "② 「情趣」として", "desc": "ラーガの雰囲気を表します。", "example_en": "Each raga evokes a particular mood.", "example_ja": "それぞれのラーガは特定の情趣を呼び起こす。" }
+    ],
+    "warn": [
+      "raga は『ラーガ（インド古典音楽の旋法・旋律の枠組み）』。単なる音階ではなく、動きや情趣まで含む。",
+      "サンスクリット語 rāga（色・情趣）に由来。西洋の単純な『スケール（音階）』とは異なる。"
+    ],
+    "etym_note": "サンスクリット語 rāga（『色・染まり・情趣・情熱』、rañj「染める」より）に由来します。聴く者の心を『染める』音楽であることから。情趣を生む旋律の枠組みを意味します。",
+    "etym_chain": [
+      { "node": "rañj", "sub": "染める", "era": "サンスクリット語" },
+      { "node": "rāga", "sub": "色・情趣", "era": "サンスクリット語" },
+      { "node": "raga", "sub": "ラーガ（旋法）", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "an evening raga", "ja": "夕べのラーガ" },
+      { "en": "play a raga", "ja": "ラーガを演奏する" },
+      { "en": "improvise on a raga", "ja": "ラーガで即興する" },
+      { "en": "a morning raga", "ja": "朝のラーガ" },
+      { "en": "the mood of a raga", "ja": "ラーガの情趣" },
+      { "en": "a classical raga", "ja": "古典的なラーガ" }
+    ],
+    "related": [
+      { "en": "sitar", "ja": "シタール" },
+      { "en": "tala", "ja": "ターラ（リズム周期）" },
+      { "en": "scale", "ja": "音階・スケール" },
+      { "en": "improvisation", "ja": "即興演奏" }
+    ],
+    "faq": [
+      { "q": "raga とはどんな意味？", "a": "インド古典音楽で、特定の音階・旋律の動き・情趣を定めた即興演奏の枠組み『ラーガ』のことです。The sitar player improvised on an evening raga.（夕べのラーガで即興した）のように使います。" },
+      { "q": "raga は西洋の音階と同じ？", "a": "いいえ。raga は単なる音階だけでなく、特徴的な音の動き・装飾・情趣・演奏すべき時間帯まで含む、より豊かな旋律の枠組みです。" }
+    ],
+    "quiz": [
+      { "q": "The sitar player improvised on an evening ___.（ラーガ）", "A": "raga", "B": "saga の武勇伝", "C": "yoga のヨガ", "D": "mega の巨大な", "correct": "A" },
+      { "q": "raga はどの国の音楽の用語？", "A": "インド", "B": "日本", "C": "ブラジル", "D": "アイルランド", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retsina",
+    "pron": "rɛtˈsiːnə",
+    "kana": "レツィーナ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "現代ギリシャ語 retsina（松やに）、ラテン語 resina より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "飲料・ギリシャ"],
+    "meaning_main": "レツィーナ（松やにで風味づけしたギリシャワイン）",
+    "description": "retsina の意味・発音・例文・語源を解説。松やにで独特の風味をつけたギリシャの白（またはロゼ）ワイン「レツィーナ」という、飲料や文化で使う語の使い方を紹介します。",
+    "keywords": ["retsina 意味", "retsina 発音", "レツィーナ", "ギリシャワイン"],
+    "meanings": [
+      { "hinshi": "【名詞】レツィーナ", "note": "発酵時に松やに（樹脂）を加えて風味づけしたギリシャの伝統的な白・ロゼワイン。独特の松の香りがある。古代の保存法に由来する。" }
+    ],
+    "usages": [
+      { "title": "① 「ギリシャワイン」として", "desc": "松やに風味の酒を表します。", "example_en": "We drank chilled retsina with grilled fish.", "example_ja": "私たちは焼き魚と冷えたレツィーナを飲んだ。" },
+      { "title": "② 「独特の風味」として", "desc": "松の香りを表します。", "example_en": "Retsina has a distinctive resinous taste.", "example_ja": "レツィーナには松やに特有の風味がある。" }
+    ],
+    "warn": [
+      "retsina は『レツィーナ（松やに風味のギリシャワイン）』。独特の樹脂の香りが特徴。",
+      "ギリシャ語で『松やに（resin）』を意味する語に由来。好みが分かれる味わい。"
+    ],
+    "etym_note": "現代ギリシャ語 retsina（『松やに』、ラテン語 resina「樹脂」より）に由来します。古代ギリシャで、ワインの保存のため壺を松やにで密封したことが、独特の風味の起源とされます。resin（樹脂）と同根です。",
+    "etym_chain": [
+      { "node": "resina", "sub": "樹脂・松やに", "era": "ラテン語" },
+      { "node": "retsina", "sub": "松やに（ギリシャ語）", "era": "現代ギリシャ語" },
+      { "node": "retsina", "sub": "レツィーナ（ワイン）", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a glass of retsina", "ja": "レツィーナ一杯" },
+      { "en": "chilled retsina", "ja": "冷えたレツィーナ" },
+      { "en": "drink retsina", "ja": "レツィーナを飲む" },
+      { "en": "the taste of retsina", "ja": "レツィーナの味" },
+      { "en": "a bottle of retsina", "ja": "レツィーナ一瓶" },
+      { "en": "resinous retsina", "ja": "松やに風味のレツィーナ" }
+    ],
+    "related": [
+      { "en": "resin", "ja": "樹脂・松やに" },
+      { "en": "wine", "ja": "ワイン・ぶどう酒" },
+      { "en": "ouzo", "ja": "ウーゾ（ギリシャの酒）" },
+      { "en": "vintage", "ja": "ぶどうの収穫年・極上の" }
+    ],
+    "faq": [
+      { "q": "retsina とはどんな意味？", "a": "発酵時に松やにを加えて風味づけしたギリシャの伝統的なワイン『レツィーナ』のことです。We drank chilled retsina with grilled fish.（焼き魚と冷えたレツィーナを飲んだ）のように使います。" },
+      { "q": "retsina はなぜ松やにの味がする？", "a": "古代ギリシャで、ワインを保存する壺を松やにで密封していたためその風味が移ったのが起源とされ、今では意図的に松やにを加えて独特の香りを出しています。" }
+    ],
+    "quiz": [
+      { "q": "We drank chilled ___ with grilled fish.（レツィーナ）", "A": "retsina", "B": "marina の停泊地", "C": "arena の競技場", "D": "vitrina", "correct": "A" },
+      { "q": "retsina に独特の風味を与えるのは何？", "A": "松やに（樹脂）", "B": "ハチミツ", "C": "唐辛子", "D": "コーヒー", "correct": "A" }
+    ]
+  },
+  {
+    "english": "roulade",
+    "pron": "ruːˈlɑːd",
+    "kana": "ルラード",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 roulade（巻くこと）、rouler（転がす・巻く）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "料理・音楽"],
+    "meaning_main": "ルラード（巻いた料理／声楽の急速な装飾的旋律）",
+    "description": "roulade の意味・発音・例文・語源を解説。肉や生地を巻いた料理「ルラード」、また声楽で一音節を急速に歌い回す装飾「ルラード」という、料理・音楽で使う語の使い方を紹介します。",
+    "keywords": ["roulade 意味", "roulade 発音", "ルラード", "巻き料理"],
+    "meanings": [
+      { "hinshi": "【名詞】ルラード（巻いた料理）", "note": "薄い肉や魚に詰め物をして巻いた料理、またはスポンジ生地を巻いたロールケーキ風の菓子。" },
+      { "hinshi": "【名詞】（声楽）ルラード", "note": "一つの音節を、速く流れるように複数の音で歌い回す装飾的な走句。" }
+    ],
+    "usages": [
+      { "title": "① 料理「巻いた料理」として", "desc": "詰め物を巻いた料理を表します。", "example_en": "She served a veal roulade stuffed with herbs.", "example_ja": "彼女はハーブを詰めた仔牛肉のルラードを出した。" },
+      { "title": "② 音楽「装飾的旋律」として", "desc": "急速な走句を表します。", "example_en": "The soprano ended the aria with a brilliant roulade.", "example_ja": "ソプラノは華麗なルラードでアリアを締めくくった。" }
+    ],
+    "warn": [
+      "roulade は料理『巻いた料理』、音楽『一音節を急速に歌い回す装飾』。フランス語 rouler（巻く）由来。",
+      "料理のロールケーキも roulade と呼ぶ。"
+    ],
+    "etym_note": "フランス語 roulade（『巻くこと・転がし』、rouler「転がす・巻く」、ラテン語 rota「車輪」より）に由来します。料理は『巻いた』もの、音楽は音を『転がす』ように歌うことから。roll（転がる）や roulette（ルーレット）と同根です。",
+    "etym_chain": [
+      { "node": "rota", "sub": "車輪", "era": "ラテン語" },
+      { "node": "rouler", "sub": "転がす・巻く", "era": "フランス語" },
+      { "node": "roulade", "sub": "巻いた料理・装飾的旋律", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a veal roulade", "ja": "仔牛肉のルラード" },
+      { "en": "a chocolate roulade", "ja": "チョコレートのロールケーキ" },
+      { "en": "a salmon roulade", "ja": "サーモンのルラード" },
+      { "en": "sing a roulade", "ja": "ルラードを歌う" },
+      { "en": "a brilliant roulade", "ja": "華麗なルラード" },
+      { "en": "roll into a roulade", "ja": "巻いてルラードにする" }
+    ],
+    "related": [
+      { "en": "roll", "ja": "巻く・ロール" },
+      { "en": "ballotine", "ja": "バロティーヌ（巻いた料理）" },
+      { "en": "coloratura", "ja": "コロラトゥーラ（装飾的歌唱）" },
+      { "en": "trill", "ja": "トリル・震音" }
+    ],
+    "faq": [
+      { "q": "roulade とはどんな意味？", "a": "料理では『薄い肉や生地に詰め物をして巻いたもの（ルラード）』、声楽では『一音節を急速に歌い回す装飾的な走句』を指します。a veal roulade（仔牛肉のルラード）/ a brilliant roulade（華麗なルラード）のように使います。" },
+      { "q": "なぜ料理と音楽で同じ roulade と呼ぶ？", "a": "どちらもフランス語 rouler（転がす・巻く）に由来するためです。料理は具を『巻く』こと、音楽は音を『転がす』ように歌うことから、同じ語が使われます。" }
+    ],
+    "quiz": [
+      { "q": "She served a veal ___ stuffed with herbs.（巻いた料理）", "A": "roulade", "B": "parade のパレード", "C": "arcade のアーケード", "D": "decade の10年", "correct": "A" },
+      { "q": "roulade のもとになったフランス語 rouler の意味はどれ？", "A": "転がす・巻く", "B": "焼く", "C": "切る", "D": "凍らせる", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rugelach",
+    "pron": "ˈruːɡələx",
+    "kana": "ルゲラッハ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "イディッシュ語 rugelach（小さな角・巻いたもの）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "料理・ユダヤ"],
+    "meaning_main": "ルゲラッハ（巻いて焼くユダヤの菓子）",
+    "description": "rugelach の意味・発音・例文・語源を解説。生地でフィリングを巻いて焼く三日月形のユダヤの伝統菓子「ルゲラッハ」という、料理・文化で使う語の使い方を紹介します。",
+    "keywords": ["rugelach 意味", "rugelach 発音", "ルゲラッハ", "ユダヤ菓子"],
+    "meanings": [
+      { "hinshi": "【名詞】ルゲラッハ", "note": "ユダヤ系（アシュケナージ）の伝統的な焼き菓子。クリームチーズやサワークリーム入りの生地で、ナッツ・ジャム・チョコ・シナモンなどを巻き、三日月形に焼く。単複同形に近い。" }
+    ],
+    "usages": [
+      { "title": "① 「焼き菓子」として", "desc": "巻いた菓子を表します。", "example_en": "She baked chocolate rugelach for the holiday.", "example_ja": "彼女は祝日のためチョコレートのルゲラッハを焼いた。" },
+      { "title": "② 「三日月形」として", "desc": "形を表します。", "example_en": "Each rugelach was rolled into a tiny crescent.", "example_ja": "ルゲラッハは一つ一つ小さな三日月形に巻かれていた。" }
+    ],
+    "warn": [
+      "rugelach は『ルゲラッハ（巻いて焼くユダヤの菓子）』。イディッシュ語由来で、語尾 -ach は喉のハ行音。",
+      "クリームチーズ生地でフィリングを巻き、三日月形に焼くのが定番。"
+    ],
+    "etym_note": "イディッシュ語 rugelach（『小さな角・小さく巻いたもの』）に由来します。三日月（角）の形に巻いて焼くことから。東欧のユダヤ人社会で生まれ、各地に広まりました。",
+    "etym_chain": [
+      { "node": "rugel-", "sub": "巻いたもの・角", "era": "イディッシュ語" },
+      { "node": "rugelach", "sub": "巻き菓子（複数形的）", "era": "イディッシュ語" },
+      { "node": "rugelach", "sub": "ルゲラッハ", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "chocolate rugelach", "ja": "チョコレートのルゲラッハ" },
+      { "en": "bake rugelach", "ja": "ルゲラッハを焼く" },
+      { "en": "apricot rugelach", "ja": "アプリコットのルゲラッハ" },
+      { "en": "a tray of rugelach", "ja": "一皿のルゲラッハ" },
+      { "en": "cinnamon rugelach", "ja": "シナモンのルゲラッハ" },
+      { "en": "homemade rugelach", "ja": "手作りのルゲラッハ" }
+    ],
+    "related": [
+      { "en": "pastry", "ja": "焼き菓子・ペストリー" },
+      { "en": "croissant", "ja": "クロワッサン" },
+      { "en": "babka", "ja": "ババカ（ユダヤの菓子パン）" },
+      { "en": "dough", "ja": "生地" }
+    ],
+    "faq": [
+      { "q": "rugelach とはどんな意味？", "a": "生地でナッツやジャム、チョコなどを巻いて三日月形に焼くユダヤ系の伝統菓子『ルゲラッハ』のことです。She baked chocolate rugelach.（チョコのルゲラッハを焼いた）のように使います。" },
+      { "q": "rugelach はどんな生地で作る？", "a": "クリームチーズやサワークリームを加えたしっとりした生地が定番です。これでフィリングを巻き、三日月形にして焼き上げます。" }
+    ],
+    "quiz": [
+      { "q": "She baked chocolate ___ for the holiday.（ルゲラッハ）", "A": "rugelach", "B": "spinach のほうれん草", "C": "stomach の胃", "D": "approach の接近", "correct": "A" },
+      { "q": "rugelach はどんな文化の菓子？", "A": "ユダヤ系（アシュケナージ）", "B": "日本", "C": "メキシコ", "D": "タイ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ramsons",
+    "pron": "ˈræmzənz",
+    "kana": "ラムゾンズ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 hramsa（野生のニンニク）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "植物・食用"],
+    "meaning_main": "クマニラ・ワイルドガーリック（野生のニンニク）",
+    "description": "ramsons の意味・発音・例文・語源を解説。春の森に群生し、ニンニクの香りのする葉を持つ野草「ラムソンズ（ワイルドガーリック）」という、植物や食用で使う語の使い方を紹介します。",
+    "keywords": ["ramsons 意味", "ramsons 発音", "ワイルドガーリック", "野生のニンニク"],
+    "meanings": [
+      { "hinshi": "【名詞】ラムソンズ・クマニラ・ワイルドガーリック", "note": "ヨーロッパの森林に春、白い星形の花とともに群生する野草。幅広の葉にニンニクの香りがあり、サラダやペーストなどに食用にされる。複数形扱いだが単数のようにも使う。" }
+    ],
+    "usages": [
+      { "title": "① 「春の野草」として", "desc": "森に群生する植物を表します。", "example_en": "The woodland floor was carpeted with ramsons.", "example_ja": "森の地面はラムソンズで一面に覆われていた。" },
+      { "title": "② 「食用」として", "desc": "料理の材料を表します。", "example_en": "We picked ramsons to make a wild garlic pesto.", "example_ja": "私たちはワイルドガーリックのペーストを作るためラムソンズを摘んだ。" }
+    ],
+    "warn": [
+      "ramsons は『ラムソンズ（野生のニンニク＝ワイルドガーリック）』。複数形に見えるが、単複どちらにも使う。",
+      "葉が有毒のスズラン（lily of the valley）などと似るので、採取には注意が必要。"
+    ],
+    "etym_note": "古英語 hramsa（『野生のニンニク』）の複数形 hramsan に由来します。各地の方言で ramsons / rams などと呼ばれ、地名 Ramsbottom などにも残ります。",
+    "etym_chain": [
+      { "node": "hramsa", "sub": "野生のニンニク", "era": "古英語" },
+      { "node": "ramsen", "sub": "野生ニンニク（複数）", "era": "中英語" },
+      { "node": "ramsons", "sub": "ラムソンズ", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a carpet of ramsons", "ja": "一面のラムソンズ" },
+      { "en": "pick ramsons", "ja": "ラムソンズを摘む" },
+      { "en": "wild garlic (ramsons)", "ja": "ワイルドガーリック（ラムソンズ）" },
+      { "en": "ramsons pesto", "ja": "ラムソンズのペースト" },
+      { "en": "the smell of ramsons", "ja": "ラムソンズの香り" },
+      { "en": "ramsons in spring", "ja": "春のラムソンズ" }
+    ],
+    "related": [
+      { "en": "garlic", "ja": "ニンニク" },
+      { "en": "leek", "ja": "リーキ・ねぎ類" },
+      { "en": "chive", "ja": "チャイブ・あさつき" },
+      { "en": "foraging", "ja": "（野草などの）採集" }
+    ],
+    "faq": [
+      { "q": "ramsons とはどんな意味？", "a": "ヨーロッパの森林に春に群生する、ニンニクの香りのする野草『ラムソンズ（ワイルドガーリック）』のことです。The woodland floor was carpeted with ramsons.（森の地面が一面ラムソンズで覆われていた）のように使います。" },
+      { "q": "ramsons は食べられる？", "a": "はい。葉や花を生でサラダにしたり、ペースト（ペスト）にしたりして食べられます。ただし有毒のスズランなどと葉が似るため、採取には注意が必要です。" }
+    ],
+    "quiz": [
+      { "q": "The woodland floor was carpeted with ___.（ワイルドガーリック）", "A": "ramsons", "B": "ransoms の身代金", "C": "reasons の理由", "D": "seasons の季節", "correct": "A" },
+      { "q": "ramsons はどんな植物？", "A": "ニンニクの香りのする野草", "B": "毒キノコ", "C": "海藻", "D": "サボテン", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rampion",
+    "pron": "ˈræmpiən",
+    "kana": "ランピオン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "中世ラテン語 rapuncium、ラテン語 rapum（カブ）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "植物・食用"],
+    "meaning_main": "ラピュンツェル（食用にする野草・キキョウ科の植物）",
+    "description": "rampion の意味・発音・例文・語源を解説。根や葉を食用にするキキョウ科の野草「ラピュンツェル（ランピオン）」という、植物や食用で使う語の使い方と、童話との関係を紹介します。",
+    "keywords": ["rampion 意味", "rampion 発音", "ランピオン", "ラプンツェル 植物"],
+    "meanings": [
+      { "hinshi": "【名詞】ランピオン・ラピュンツェル", "note": "キキョウ科の野草。白〜紫の花をつけ、カブのような根や若葉をサラダや野菜として食用にした。ドイツ語名 Rapunzel はグリム童話『ラプンツェル』の名の由来。" }
+    ],
+    "usages": [
+      { "title": "① 「食用の野草」として", "desc": "根菜・サラダ菜を表します。", "example_en": "The root of the rampion was once eaten as a vegetable.", "example_ja": "ランピオンの根はかつて野菜として食べられた。" },
+      { "title": "② 「童話との関係」として", "desc": "ラプンツェルの由来を表します。", "example_en": "In the fairy tale, the mother craved rampion from the witch's garden.", "example_ja": "童話では母親が魔女の庭のラピュンツェルを欲しがった。" }
+    ],
+    "warn": [
+      "rampion は『ランピオン（食用にするキキョウ科の野草）』。ドイツ語名 Rapunzel が童話の名の由来。",
+      "ラテン語 rapum（カブ）由来で、根がカブのようだったことから。"
+    ],
+    "etym_note": "中世ラテン語 rapuncium（ラテン語 rapum「カブ」の指小形）に由来します。カブのような食用の根を持つことから。ドイツ語形 Rapunzel が、グリム童話の少女の名になりました。",
+    "etym_chain": [
+      { "node": "rapum", "sub": "カブ", "era": "ラテン語" },
+      { "node": "rapuncium", "sub": "小さなカブ（野草）", "era": "中世ラテン語" },
+      { "node": "rampion", "sub": "ランピオン", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the root of the rampion", "ja": "ランピオンの根" },
+      { "en": "eat rampion", "ja": "ランピオンを食べる" },
+      { "en": "rampion salad", "ja": "ランピオンのサラダ" },
+      { "en": "a rampion flower", "ja": "ランピオンの花" },
+      { "en": "crave rampion", "ja": "ランピオンを欲しがる" },
+      { "en": "wild rampion", "ja": "野生のランピオン" }
+    ],
+    "related": [
+      { "en": "bellflower", "ja": "キキョウ・ホタルブクロ" },
+      { "en": "turnip", "ja": "カブ" },
+      { "en": "Rapunzel", "ja": "ラプンツェル（童話）" },
+      { "en": "herb", "ja": "草・ハーブ" }
+    ],
+    "faq": [
+      { "q": "rampion とはどんな意味？", "a": "根や葉を食用にしたキキョウ科の野草『ランピオン（ラピュンツェル）』のことです。The root of the rampion was once eaten.（その根はかつて食べられた）のように使います。" },
+      { "q": "rampion と童話『ラプンツェル』の関係は？", "a": "rampion のドイツ語名 Rapunzel が、グリム童話の少女の名の由来です。物語では、母親がこの植物を欲しがったことが発端になります。" }
+    ],
+    "quiz": [
+      { "q": "The root of the ___ was once eaten as a vegetable.（ランピオン）", "A": "rampion", "B": "champion の優勝者", "C": "scorpion のサソリ", "D": "companion の仲間", "correct": "A" },
+      { "q": "rampion のドイツ語名が由来する童話はどれ？", "A": "ラプンツェル", "B": "シンデレラ", "C": "白雪姫", "D": "赤ずきん", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recce",
+    "pron": "ˈrɛki",
+    "kana": "レキー",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "reconnaissance（偵察）の短縮",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "軍事・英国口語"],
+    "meaning_main": "（英・口語）偵察・下見／偵察する",
+    "description": "recce の意味・発音・例文・語源を解説。イギリスの口語で「偵察・下見」、また動詞「偵察する・下見する」という、軍事や日常で使う語の使い方を紹介します。",
+    "keywords": ["recce 意味", "recce 発音", "偵察", "下見"],
+    "meanings": [
+      { "hinshi": "【名詞】（英・口語）偵察・下見", "note": "reconnaissance（偵察）の略。do a recce（下見する）。軍事から日常まで使う英国口語。米国では recon が一般的。" },
+      { "hinshi": "【動詞】偵察する・下見する", "note": "recce the area（その地域を偵察する）。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「下見」として", "desc": "事前の偵察を表します。", "example_en": "Let's do a quick recce of the venue before the event.", "example_ja": "イベントの前に会場をさっと下見しよう。" },
+      { "title": "② 動詞「偵察する」として", "desc": "下調べを表します。", "example_en": "The team recced the route the day before.", "example_ja": "チームは前日にルートを偵察した。" }
+    ],
+    "warn": [
+      "recce は『（英・口語）偵察・下見／偵察する』。reconnaissance の略。発音はレキー。",
+      "米国では同じ略でも recon（リーコン）の方が一般的。"
+    ],
+    "etym_note": "reconnaissance（『偵察』、フランス語 reconnaître「見分ける・認識する」、ラテン語 recognoscere より）の短縮形です。recognize（認識する）と同じ語根です。",
+    "etym_chain": [
+      { "node": "recognoscere", "sub": "見分ける・認識する", "era": "ラテン語" },
+      { "node": "reconnaissance", "sub": "偵察", "era": "近代英語" },
+      { "node": "recce", "sub": "偵察・下見（口語）", "era": "20世紀英語" }
+    ],
+    "phrases": [
+      { "en": "do a recce", "ja": "下見をする" },
+      { "en": "go on a recce", "ja": "偵察に行く" },
+      { "en": "a quick recce", "ja": "さっとした下見" },
+      { "en": "recce the area", "ja": "その地域を偵察する" },
+      { "en": "recce the route", "ja": "ルートを下見する" },
+      { "en": "a recce mission", "ja": "偵察任務" }
+    ],
+    "related": [
+      { "en": "reconnaissance", "ja": "偵察" },
+      { "en": "recon", "ja": "（米・口語）偵察" },
+      { "en": "scout", "ja": "偵察する・斥候" },
+      { "en": "survey", "ja": "下調べする・調査" }
+    ],
+    "faq": [
+      { "q": "recce とはどんな意味？", "a": "reconnaissance（偵察）を略したイギリスの口語で、名詞『偵察・下見』、動詞『偵察する・下見する』として使います。Let's do a quick recce of the venue.（会場をさっと下見しよう）のように使います。" },
+      { "q": "recce と recon の違いは？", "a": "どちらも reconnaissance（偵察）の略ですが、recce は主にイギリス英語、recon は主にアメリカ英語で使われます。意味は同じです。" }
+    ],
+    "quiz": [
+      { "q": "Let's do a quick ___ of the venue before the event.（下見）", "A": "recce", "B": "recipe のレシピ", "C": "recess の休憩", "D": "receipt の領収書", "correct": "A" },
+      { "q": "recce は何という語の略？", "A": "reconnaissance（偵察）", "B": "recreation（娯楽）", "C": "recovery（回復）", "D": "recipe（レシピ）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rhumb",
+    "pron": "rʌm",
+    "kana": "ラム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "スペイン語・ポルトガル語 rumbo（方位）、ラテン語 rhombus より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "航海・地理"],
+    "meaning_main": "羅針方位・等角航路（の線）",
+    "description": "rhumb の意味・発音・例文・語源を解説。羅針盤上の方位、また一定の方位で進むときに地球上に描く線「等角航路（航程線）」という、航海・地理で使う語の使い方を紹介します。",
+    "keywords": ["rhumb 意味", "rhumb 発音", "等角航路", "航程線"],
+    "meanings": [
+      { "hinshi": "【名詞】羅針方位", "note": "コンパスの示す32方位の一つ。各点が rhumb。" },
+      { "hinshi": "【名詞】等角航路・航程線（rhumb line）", "note": "つねに一定の方位を保って進むときに地球表面に描かれる線。メルカトル図法では直線になる。loxodrome（航程線）ともいう。" }
+    ],
+    "usages": [
+      { "title": "① 「等角航路」として", "desc": "一定方位の航路を表します。", "example_en": "A rhumb line crosses every meridian at the same angle.", "example_ja": "航程線はすべての子午線を同じ角度で横切る。" },
+      { "title": "② 「羅針方位」として", "desc": "コンパスの方位を表します。", "example_en": "The old chart marked the wind rhumbs around a compass rose.", "example_ja": "古い海図は羅針図の周りに方位線を記していた。" }
+    ],
+    "warn": [
+      "rhumb は『羅針方位／等角航路（rhumb line）』。発音はラム（rh の h は無音、b も読まない）。",
+      "等角航路は最短ではないが、つねに同じ方位で進めるので航海に便利。最短は大圏航路。"
+    ],
+    "etym_note": "スペイン語・ポルトガル語 rumbo（『進路・方位』、ラテン語 rhombus「ひし形・回るもの」より）に由来します。羅針図の図形にちなみます。rhombus（ひし形）と同根です。",
+    "etym_chain": [
+      { "node": "rhombus", "sub": "ひし形・回るもの", "era": "ラテン語" },
+      { "node": "rumbo", "sub": "進路・方位", "era": "スペイン語・ポルトガル語" },
+      { "node": "rhumb", "sub": "羅針方位・等角航路", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a rhumb line", "ja": "等角航路・航程線" },
+      { "en": "sail along a rhumb", "ja": "等角航路を進む" },
+      { "en": "the wind rhumbs", "ja": "羅針方位（の線）" },
+      { "en": "a rhumb on the compass", "ja": "コンパスの一方位" },
+      { "en": "follow a rhumb line", "ja": "航程線をたどる" },
+      { "en": "rhumb-line distance", "ja": "等角航路の距離" }
+    ],
+    "related": [
+      { "en": "loxodrome", "ja": "航程線・等角航路" },
+      { "en": "great circle", "ja": "大圏・大圏航路" },
+      { "en": "bearing", "ja": "方位" },
+      { "en": "compass rose", "ja": "羅針図・方位盤" }
+    ],
+    "faq": [
+      { "q": "rhumb とはどんな意味？", "a": "羅針盤の示す方位、また一定の方位を保って進むときに地球表面に描かれる線『等角航路（rhumb line・航程線）』のことです。A rhumb line crosses every meridian at the same angle.（航程線はすべての子午線を同じ角度で横切る）のように使います。" },
+      { "q": "rhumb line と great circle の違いは？", "a": "rhumb line（等角航路）はつねに同じ方位で進める線で操船は楽ですが最短ではありません。great circle（大圏航路）は2点間の最短経路ですが、進む方位が変化します。" }
+    ],
+    "quiz": [
+      { "q": "A ___ line crosses every meridian at the same angle.（等角航路）", "A": "rhumb", "B": "thumb の親指", "C": "crumb のパンくず", "D": "plumb の鉛直", "correct": "A" },
+      { "q": "rhumb line（等角航路）の特徴はどれ？", "A": "つねに一定の方位で進める", "B": "つねに最短距離", "C": "つねに直進できない", "D": "方位が一定しない", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reedling",
+    "pron": "ˈriːdlɪŋ",
+    "kana": "リードリング",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "reed（アシ）＋ -ling（小さいもの）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "鳥・自然"],
+    "meaning_main": "ヒゲガラ（アシ原にすむ小鳥）",
+    "description": "reedling の意味・発音・例文・語源を解説。ヨーロッパのアシ原にすむ小鳥「ヒゲガラ（リードリング）」という、鳥や自然で使う語の使い方を紹介します。bearded reedling とも。",
+    "keywords": ["reedling 意味", "reedling 発音", "ヒゲガラ", "アシ原の鳥"],
+    "meanings": [
+      { "hinshi": "【名詞】ヒゲガラ（リードリング）", "note": "ヨーロッパ〜アジアのアシ原にすむ小鳥。雄は目の下に黒いひげ状の模様がある。bearded reedling / bearded tit とも呼ばれる。reed（アシ）にちなむ名。" }
+    ],
+    "usages": [
+      { "title": "① 「アシ原の小鳥」として", "desc": "湿地の鳥を表します。", "example_en": "A pair of reedlings clung to the swaying reeds.", "example_ja": "つがいのヒゲガラが揺れるアシにつかまっていた。" },
+      { "title": "② 「観察」として", "desc": "バードウォッチングを表します。", "example_en": "Birdwatchers came to see the reedlings at the marsh.", "example_ja": "バードウォッチャーが沼地にヒゲガラを見に来た。" }
+    ],
+    "warn": [
+      "reedling は鳥『ヒゲガラ（bearded reedling）』。reed（アシ）＋ -ling（小さいもの）。",
+      "かつて『ヒゲのあるシジュウカラ（bearded tit）』と呼ばれたが、シジュウカラ類とは別系統。"
+    ],
+    "etym_note": "reed（『アシ・葦』、古英語 hrēod より）＋ -ling（『小さいもの』を表す指小語尾）から成り、「アシ原の小さな鳥」を意味します。duckling（アヒルの子）や gosling（ガチョウの子）と同じ -ling です。",
+    "etym_chain": [
+      { "node": "hrēod", "sub": "アシ・葦", "era": "古英語" },
+      { "node": "reed + -ling", "sub": "アシの小鳥", "era": "近代英語" },
+      { "node": "reedling", "sub": "ヒゲガラ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a bearded reedling", "ja": "ヒゲガラ" },
+      { "en": "a pair of reedlings", "ja": "つがいのヒゲガラ" },
+      { "en": "reedlings in the reeds", "ja": "アシの中のヒゲガラ" },
+      { "en": "spot a reedling", "ja": "ヒゲガラを見つける" },
+      { "en": "the reedling's call", "ja": "ヒゲガラの鳴き声" },
+      { "en": "a flock of reedlings", "ja": "ヒゲガラの群れ" }
+    ],
+    "related": [
+      { "en": "reed", "ja": "アシ・葦" },
+      { "en": "marsh", "ja": "沼地・湿地" },
+      { "en": "warbler", "ja": "ウグイス類・ムシクイ" },
+      { "en": "songbird", "ja": "鳴き鳥" }
+    ],
+    "faq": [
+      { "q": "reedling とはどんな意味？", "a": "ヨーロッパなどのアシ原にすむ小鳥『ヒゲガラ（リードリング）』のことです。雄は目の下に黒いひげ状の模様があります。A pair of reedlings clung to the reeds.（つがいのヒゲガラがアシにつかまっていた）のように使います。" },
+      { "q": "reedling の -ling はどんな意味？", "a": "『小さいもの』を表す指小の語尾です。duckling（アヒルの子）や gosling（ガチョウの子）と同じで、reed（アシ）＋ -ling で『アシ原の小さな鳥』を表します。" }
+    ],
+    "quiz": [
+      { "q": "A pair of ___s clung to the swaying reeds.（ヒゲガラ）", "A": "reedling", "B": "yearling の1歳の動物", "C": "duckling のアヒルの子", "D": "sibling の兄弟姉妹", "correct": "A" },
+      { "q": "reedling はどんな場所にすむ鳥？", "A": "アシ原（湿地）", "B": "砂漠", "C": "高山の岩場", "D": "都会のビル", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rummer",
+    "pron": "ˈrʌmə",
+    "kana": "ラマー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "オランダ語 roemer（大きなワイングラス）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "工芸・歴史"],
+    "meaning_main": "ラマー（脚付きの大型ワイングラス）",
+    "description": "rummer の意味・発音・例文・語源を解説。17〜18世紀に使われた、太い脚と装飾を持つ大型のワイングラス「ラマー」という、ガラス工芸や歴史で使う語の使い方を紹介します。",
+    "keywords": ["rummer 意味", "rummer 発音", "ラマー", "大型ワイングラス"],
+    "meanings": [
+      { "hinshi": "【名詞】ラマー", "note": "17〜18世紀のオランダ・英国・ドイツで使われた、丸い杯部と太く装飾的な脚を持つ大型のワイングラス（特にライン産白ワイン用）。骨董・ガラス工芸の語。" }
+    ],
+    "usages": [
+      { "title": "① 「大型のワイングラス」として", "desc": "歴史的な杯を表します。", "example_en": "The collector prized an engraved 18th-century rummer.", "example_ja": "その収集家は18世紀の彫刻入りラマーを大切にしていた。" },
+      { "title": "② 「装飾ガラス」として", "desc": "工芸品を表します。", "example_en": "The rummer's bowl rested on a knopped stem.", "example_ja": "そのラマーの杯部はこぶ飾りのある脚の上にのっていた。" }
+    ],
+    "warn": [
+      "rummer は『ラマー（脚付きの大型ワイングラス）』。酒の rum（ラム酒）とは無関係。",
+      "オランダ語 roemer（大杯）由来。骨董・ガラス工芸で使う歴史的な語。"
+    ],
+    "etym_note": "オランダ語 roemer（『大きなワイングラス』）に由来します（語源的には『ローマの杯』との説や、roemen「ほめる」との関連説がある）。rum（ラム酒）とは無関係です。",
+    "etym_chain": [
+      { "node": "roemer", "sub": "大きなワイングラス", "era": "オランダ語" },
+      { "node": "rummer", "sub": "大杯（英語化）", "era": "近代英語" },
+      { "node": "rummer", "sub": "ラマー（装飾杯）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an engraved rummer", "ja": "彫刻入りのラマー" },
+      { "en": "a glass rummer", "ja": "ガラスのラマー" },
+      { "en": "an 18th-century rummer", "ja": "18世紀のラマー" },
+      { "en": "the bowl of the rummer", "ja": "ラマーの杯部" },
+      { "en": "a footed rummer", "ja": "脚付きのラマー" },
+      { "en": "drink from a rummer", "ja": "ラマーで飲む" }
+    ],
+    "related": [
+      { "en": "goblet", "ja": "脚付きの杯" },
+      { "en": "chalice", "ja": "聖杯・大杯" },
+      { "en": "stemware", "ja": "脚付きグラス類" },
+      { "en": "glassware", "ja": "ガラス器" }
+    ],
+    "faq": [
+      { "q": "rummer とはどんな意味？", "a": "17〜18世紀に使われた、丸い杯部と太く装飾的な脚を持つ大型のワイングラス『ラマー』のことです。The collector prized an engraved 18th-century rummer.（18世紀の彫刻入りラマーを大切にしていた）のように使います。" },
+      { "q": "rummer は rum（ラム酒）と関係ある？", "a": "いいえ、無関係です。rummer はオランダ語 roemer（大きなワイングラス）に由来する別語で、主にワインを飲むための大型のグラスを指します。" }
+    ],
+    "quiz": [
+      { "q": "The collector prized an engraved 18th-century ___.（ラマー）", "A": "rummer", "B": "summer の夏", "C": "hammer のハンマー", "D": "drummer の太鼓奏者", "correct": "A" },
+      { "q": "rummer とは何の器？", "A": "脚付きの大型ワイングラス", "B": "鍋", "C": "皿", "D": "急須", "correct": "A" }
+    ]
+  }
+]

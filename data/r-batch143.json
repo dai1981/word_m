@@ -1,0 +1,528 @@
+[
+  {
+    "english": "rarefy",
+    "pron": "ˈrɛərɪfaɪ",
+    "kana": "レアリファイ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 rarus（薄い・まばらな）＋ facere（作る）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "科学・文章"],
+    "meaning_main": "希薄にする・薄くする",
+    "description": "rarefy の意味・発音・例文・語源を解説。空気などを「希薄にする・薄くする」、比喩で議論などを「高尚で難解にする」という語の使い方を紹介します。",
+    "keywords": ["rarefy 意味", "rarefy 発音", "希薄にする", "rare 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】希薄にする・薄くする", "note": "気体などの密度を下げる。高地で空気が薄くなる。名詞は rarefaction（希薄化）。" },
+      { "hinshi": "【動詞】高尚にする・純化する", "note": "比喩で議論・趣味などを『（一般から離れて）高尚で難解にする』。形容詞 rarefied（希薄な・高尚な）が特によく使う。" }
+    ],
+    "usages": [
+      { "title": "① 「空気を希薄にする」として", "desc": "密度を下げることを表します。", "example_en": "At high altitude the air is greatly rarefied.", "example_ja": "高地では空気が大いに希薄になっている。" },
+      { "title": "② 比喩 rarefied として", "desc": "『（一般人には縁遠い）高尚な』という意味で使います。", "example_en": "They moved in the rarefied world of high finance.", "example_ja": "彼らは高度金融という高尚な世界で活動していた。" }
+    ],
+    "warn": [
+      "rarefy は『希薄にする・高尚にする』。綴りは rarify ではなく rarefy が正しい。",
+      "形容詞 rarefied（希薄な／高尚で縁遠い）が特によく使われる。名詞は rarefaction。"
+    ],
+    "etym_note": "ラテン語 rarus（『まばらな・薄い』）＋ facere（『作る』）から成る rarefacere に由来し、「まばらにする＝薄くすること」を意味します。rare（まれな・希薄な）と同じ語根です。",
+    "etym_chain": [
+      { "node": "rarus", "sub": "まばらな・薄い", "era": "ラテン語" },
+      { "node": "rarefacere", "sub": "薄くする", "era": "ラテン語" },
+      { "node": "rarefy", "sub": "希薄にする", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "rarefy the air", "ja": "空気を希薄にする" },
+      { "en": "rarefied air", "ja": "希薄な空気" },
+      { "en": "rarefied atmosphere", "ja": "希薄な大気・高尚な雰囲気" },
+      { "en": "the rarefied world of ...", "ja": "〜という高尚な世界" },
+      { "en": "become rarefied", "ja": "希薄になる" },
+      { "en": "rarefied tastes", "ja": "高尚な趣味" }
+    ],
+    "related": [
+      { "en": "rare", "ja": "まれな・希薄な" },
+      { "en": "rarefaction", "ja": "希薄化" },
+      { "en": "rarefied", "ja": "希薄な・高尚な" },
+      { "en": "thin", "ja": "薄くする" }
+    ],
+    "faq": [
+      { "q": "rarefy とはどんな意味？", "a": "空気などを『希薄にする・薄くする』という意味です。At high altitude the air is rarefied.（高地では空気が希薄になる）のように使います。比喩で『高尚にする』の意味もあります。" },
+      { "q": "rarefied はどう使う？", "a": "形容詞で『希薄な』のほか、比喩で『（一般人には縁遠い）高尚な・特権的な』という意味で使います。the rarefied world of high finance（高度金融という高尚な世界）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "At high altitude the air is greatly ___ied.（希薄にされる）", "A": "rarefy", "B": "ratify の批准する", "C": "clarify の明確にする", "D": "verify の確認する", "correct": "A" },
+      { "q": "rarefy のもとになった語はどれ？", "A": "rare（まれな・希薄な）", "B": "rear（後ろ）", "C": "rate（割合）", "D": "rage（怒り）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ravel",
+    "pron": "ˈrævəl",
+    "kana": "ラベル",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "中世オランダ語 ravelen（ほつれる・もつれる）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文章・古風"],
+    "meaning_main": "ほつれる・もつれる／ほどく",
+    "description": "ravel の意味・発音・例文・語源を解説。糸が「ほつれる・もつれる」、また逆に「ほどく」という相反する意味を持つ語の使い方を紹介します。unravel との関係も解説。",
+    "keywords": ["ravel 意味", "ravel 発音", "ほつれる", "unravel 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】ほつれる・もつれる", "note": "糸や布の端がほどけて乱れる。The sweater began to ravel.（セーターがほつれ始めた）。" },
+      { "hinshi": "【動詞】ほどく・解きほぐす", "note": "もつれをほどく。ravel out（ほどける／解明される）。相反する意味を持つ自家撞着語。" }
+    ],
+    "usages": [
+      { "title": "① 「ほつれる」として", "desc": "端が乱れることを表します。", "example_en": "The hem had started to ravel at the edge.", "example_ja": "裾の端がほつれ始めていた。" },
+      { "title": "② 「解きほぐす」として", "desc": "もつれをほどくことを表します。", "example_en": "He tried to ravel out the tangled threads.", "example_ja": "彼はもつれた糸を解きほぐそうとした。" }
+    ],
+    "warn": [
+      "ravel は『ほつれる』と『ほどく』の相反する意味を持つ珍しい語（contronym）。",
+      "実際には派生語 unravel（ほどく・解明する）の方がはるかによく使われる。"
+    ],
+    "etym_note": "中世オランダ語 ravelen（『ほつれる・もつれる』）に由来します。布の織り目（rafel「ほつれ糸」）が乱れる様子から来ており、ほどける／ほどく両方の意味を生みました。",
+    "etym_chain": [
+      { "node": "ravelen", "sub": "ほつれる・もつれる", "era": "中世オランダ語" },
+      { "node": "ravel", "sub": "ほつれる・ほどく", "era": "近代英語" },
+      { "node": "unravel", "sub": "ほどく・解明する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "ravel out", "ja": "ほどける・解明される" },
+      { "en": "begin to ravel", "ja": "ほつれ始める" },
+      { "en": "ravel the threads", "ja": "糸を解きほぐす" },
+      { "en": "a raveled edge", "ja": "ほつれた端" },
+      { "en": "ravel and unravel", "ja": "もつれてはほどける" },
+      { "en": "the ravel of wool", "ja": "ほつれた毛糸" }
+    ],
+    "related": [
+      { "en": "unravel", "ja": "ほどく・解明する" },
+      { "en": "tangle", "ja": "もつれる・もつれ" },
+      { "en": "fray", "ja": "すり切れる・ほつれる" },
+      { "en": "untangle", "ja": "もつれをほどく" }
+    ],
+    "faq": [
+      { "q": "ravel とはどんな意味？", "a": "糸や布が『ほつれる・もつれる』という意味と、逆に『ほどく・解きほぐす』という相反する意味を持つ珍しい語です。The hem started to ravel.（裾がほつれ始めた）のように使います。" },
+      { "q": "ravel と unravel の違いは？", "a": "unravel は『ほどく・（謎を）解明する』で意味が明確なため、現代ではこちらがよく使われます。ravel 単独はやや古風・文語的です。" }
+    ],
+    "quiz": [
+      { "q": "The hem had started to ___ at the edge.（ほつれる）", "A": "ravel", "B": "travel の旅行する", "C": "gravel の砂利", "D": "marvel の驚く", "correct": "A" },
+      { "q": "ravel の派生語で「ほどく・解明する」はどれ？", "A": "unravel", "B": "disravel", "C": "misravel", "D": "ravelize", "correct": "A" }
+    ]
+  },
+  {
+    "english": "readout",
+    "pron": "ˈriːdaʊt",
+    "kana": "リードアウト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "read（読む）＋ out（外へ）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "技術・ニュース"],
+    "meaning_main": "読み取り表示・（会談などの）報告概要",
+    "description": "readout の意味・発音・例文・語源を解説。計器の「読み取り表示・数値表示」、会談後の「報告概要・要旨」という、技術やニュースで使う語の使い方を紹介します。",
+    "keywords": ["readout 意味", "readout 発音", "読み取り表示", "報告概要"],
+    "meanings": [
+      { "hinshi": "【名詞】読み取り表示・数値表示", "note": "計器・装置が示す数値やデータの表示。a digital readout（デジタル表示）。" },
+      { "hinshi": "【名詞】（会談などの）報告概要・要旨", "note": "会議や首脳会談のあとに出される内容の要約。a readout of the call（電話会談の概要）。" }
+    ],
+    "usages": [
+      { "title": "① 技術「読み取り表示」として", "desc": "計器の数値表示を表します。", "example_en": "The instrument gives a digital readout of the temperature.", "example_ja": "その計器は温度をデジタル表示で示す。" },
+      { "title": "② ニュース「会談の概要」として", "desc": "会談後の公式要旨を表します。", "example_en": "The White House released a readout of the leaders' call.", "example_ja": "ホワイトハウスは首脳会談の概要を発表した。" }
+    ],
+    "warn": [
+      "readout は『読み取り表示／（会談の）報告概要』。read（読む）＋ out。",
+      "ニュースでの『会談の readout（公式要旨）』の用法は近年特によく見かける。"
+    ],
+    "etym_note": "read（『読む』、古英語 rǣdan「助言する・読む」）＋ out（『外へ』）から成り、「（機械やデータから）読み出されたもの」を意味します。",
+    "etym_chain": [
+      { "node": "rǣdan", "sub": "読む・助言する", "era": "古英語" },
+      { "node": "read out", "sub": "読み上げる・読み出す", "era": "近代英語" },
+      { "node": "readout", "sub": "読み取り表示・報告概要", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a digital readout", "ja": "デジタル表示" },
+      { "en": "a meter readout", "ja": "計器の読み取り値" },
+      { "en": "a readout of the call", "ja": "電話会談の概要" },
+      { "en": "release a readout", "ja": "概要を発表する" },
+      { "en": "sensor readout", "ja": "センサーの読み取り値" },
+      { "en": "provide a readout", "ja": "要旨を伝える" }
+    ],
+    "related": [
+      { "en": "read", "ja": "読む" },
+      { "en": "display", "ja": "表示・表示する" },
+      { "en": "summary", "ja": "要約" },
+      { "en": "briefing", "ja": "状況説明" }
+    ],
+    "faq": [
+      { "q": "readout とはどんな意味？", "a": "計器の『読み取り表示・数値表示』、または会談後の『報告概要・要旨』という意味です。a digital readout（デジタル表示）/ a readout of the call（電話会談の概要）のように使います。" },
+      { "q": "ニュースの readout とは？", "a": "首脳会談や電話会談のあと、政府などが公表する『話し合いの内容の要旨』を指します。The White House released a readout.（ホワイトハウスが概要を発表した）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The instrument gives a digital ___ of the temperature.（読み取り表示）", "A": "readout", "B": "reader の読者", "C": "reading の読書", "D": "readme の説明文", "correct": "A" },
+      { "q": "ニュースでの readout の意味はどれ？", "A": "会談の報告概要・要旨", "B": "読書感想文", "C": "読者数", "D": "誤植", "correct": "A" }
+    ]
+  },
+  {
+    "english": "renal",
+    "pron": "ˈriːnəl",
+    "kana": "リーナル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 renalis（腎臓の）、renes（腎臓）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "医学・専門"],
+    "meaning_main": "腎臓の・腎性の",
+    "description": "renal の意味・発音・例文・語源を解説。「腎臓の・腎性の」という、医学や生物学で使う専門的な形容詞の使い方を例文とともに紹介します。",
+    "keywords": ["renal 意味", "renal 発音", "腎臓の", "renal failure 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】腎臓の・腎性の", "note": "腎臓に関する。renal failure（腎不全）、renal function（腎機能）。医学の専門語。" }
+    ],
+    "usages": [
+      { "title": "① 「腎不全」として", "desc": "腎臓の働きに関わることを表します。", "example_en": "The patient was diagnosed with chronic renal failure.", "example_ja": "その患者は慢性腎不全と診断された。" },
+      { "title": "② 「腎機能」として", "desc": "腎臓の機能を表します。", "example_en": "The test measures renal function.", "example_ja": "その検査は腎機能を測定する。" }
+    ],
+    "warn": [
+      "renal は『腎臓の・腎性の』。日常語の kidney（腎臓）に対する医学・専門用語の形容詞。",
+      "renal failure（腎不全）、renal artery（腎動脈）など複合語で頻出。"
+    ],
+    "etym_note": "ラテン語 renalis（『腎臓の』、renes「腎臓」より）に由来します。フランス語経由で英語に入った医学用語で、kidney（本来の英語）と対をなします。",
+    "etym_chain": [
+      { "node": "renes", "sub": "腎臓", "era": "ラテン語" },
+      { "node": "renalis", "sub": "腎臓の", "era": "ラテン語" },
+      { "node": "renal", "sub": "腎臓の", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "renal failure", "ja": "腎不全" },
+      { "en": "renal function", "ja": "腎機能" },
+      { "en": "renal artery", "ja": "腎動脈" },
+      { "en": "renal disease", "ja": "腎臓病" },
+      { "en": "renal transplant", "ja": "腎移植" },
+      { "en": "acute renal injury", "ja": "急性腎障害" }
+    ],
+    "related": [
+      { "en": "kidney", "ja": "腎臓" },
+      { "en": "nephritis", "ja": "腎炎" },
+      { "en": "dialysis", "ja": "透析" },
+      { "en": "urinary", "ja": "尿の・泌尿器の" }
+    ],
+    "faq": [
+      { "q": "renal とはどんな意味？", "a": "『腎臓の・腎性の』という意味の医学用語です。renal failure（腎不全）、renal function（腎機能）のように使います。日常語 kidney に対する専門的な形容詞です。" },
+      { "q": "renal と kidney の違いは？", "a": "意味は同じ『腎臓（の）』ですが、kidney が一般語の名詞、renal はラテン語由来の専門的な形容詞です。医学の複合語では renal が使われます。" }
+    ],
+    "quiz": [
+      { "q": "The patient was diagnosed with chronic ___ failure.（腎不全）", "A": "renal", "B": "rental の賃貸の", "C": "renew の更新する", "D": "rural の田舎の", "correct": "A" },
+      { "q": "renal はどの臓器に関する語？", "A": "腎臓", "B": "心臓", "C": "肝臓", "D": "肺", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reverend",
+    "pron": "ˈrɛvərənd",
+    "kana": "レバレンド",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 reverendus（敬うべき）、revereri（畏敬する）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "宗教・敬称"],
+    "meaning_main": "尊師（聖職者の敬称）・尊ぶべき",
+    "description": "reverend の意味・発音・例文・語源を解説。キリスト教の聖職者につける敬称「師・尊師」、また「尊ぶべき」という形容詞の使い方を紹介します。reverent との違いも解説。",
+    "keywords": ["reverend 意味", "reverend 発音", "尊師", "聖職者 敬称"],
+    "meanings": [
+      { "hinshi": "【形容詞】（聖職者への敬称）〜師", "note": "牧師・聖職者の名前の前につける敬称。the Reverend John Smith（ジョン・スミス師）。略して Rev.。" },
+      { "hinshi": "【名詞】聖職者・牧師", "note": "口語で『牧師さん』。The reverend gave a sermon.（牧師が説教をした）。" }
+    ],
+    "usages": [
+      { "title": "① 敬称「〜師」として", "desc": "聖職者の名前につける敬称を表します。", "example_en": "The service was led by the Reverend Mary Jones.", "example_ja": "礼拝はメアリー・ジョーンズ師が執り行った。" },
+      { "title": "② 名詞「牧師」として", "desc": "聖職者そのものを表します。", "example_en": "The reverend welcomed the congregation warmly.", "example_ja": "牧師は会衆を温かく迎えた。" }
+    ],
+    "warn": [
+      "reverend は『（聖職者の）敬称・牧師』。形容詞 reverent（敬虔な・うやうやしい）と混同しやすいので注意。",
+      "敬称では the をつけ the Reverend ... とするのが正式。略は Rev.。"
+    ],
+    "etym_note": "ラテン語 reverendus（『敬われるべき』、revereri「畏敬する」、re-（強意）＋ vereri「畏れる」より）に由来し、「敬うべき人」を意味します。revere（敬う）や reverence（畏敬）と同じ語根です。",
+    "etym_chain": [
+      { "node": "revereri", "sub": "畏敬する", "era": "ラテン語" },
+      { "node": "reverendus", "sub": "敬われるべき", "era": "ラテン語" },
+      { "node": "reverend", "sub": "尊師・尊ぶべき", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "the Reverend John Smith", "ja": "ジョン・スミス師" },
+      { "en": "Reverend Mother", "ja": "修道院長（女子）" },
+      { "en": "the reverend gentleman", "ja": "尊敬すべき紳士（議会用語）" },
+      { "en": "Rev. (略)", "ja": "〜師（略記）" },
+      { "en": "a young reverend", "ja": "若い牧師" },
+      { "en": "the Right Reverend", "ja": "主教への敬称" }
+    ],
+    "related": [
+      { "en": "revere", "ja": "敬う・あがめる" },
+      { "en": "reverence", "ja": "畏敬・崇敬" },
+      { "en": "reverent", "ja": "敬虔な・うやうやしい" },
+      { "en": "clergy", "ja": "聖職者" }
+    ],
+    "faq": [
+      { "q": "reverend とはどんな意味？", "a": "キリスト教の聖職者の名前につける敬称『〜師』、または『牧師』そのものを指す語です。the Reverend John Smith（ジョン・スミス師）のように使います。略は Rev.。" },
+      { "q": "reverend と reverent の違いは？", "a": "reverend は『（聖職者の）敬称・牧師』、reverent は『敬虔な・うやうやしい』という形容詞です。綴りも意味も別なので注意します。" }
+    ],
+    "quiz": [
+      { "q": "The service was led by the ___ Mary Jones.（〜師）", "A": "Reverend", "B": "reverent の敬虔な", "C": "reverence の畏敬", "D": "reverie の空想", "correct": "A" },
+      { "q": "reverend の略記はどれ？", "A": "Rev.", "B": "Dr.", "C": "Prof.", "D": "Hon.", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rostrum",
+    "pron": "ˈrɒstrəm",
+    "kana": "ロストラム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 rostrum（くちばし・船首）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "演説・式典"],
+    "meaning_main": "演壇・指揮台",
+    "description": "rostrum の意味・発音・例文・語源を解説。演説や指揮を行う「演壇・指揮台」という、式典や演奏会で使う語の使い方と、ローマ史にちなむ語源を紹介します。",
+    "keywords": ["rostrum 意味", "rostrum 発音", "演壇", "指揮台"],
+    "meanings": [
+      { "hinshi": "【名詞】演壇・登壇台", "note": "演説者・指揮者・受賞者が立つ一段高い台。複数形は rostra または rostrums。" },
+      { "hinshi": "【名詞】（生物）吻（ふん）・くちばし状の突起", "note": "昆虫・甲殻類などの口先の突起。専門用語。" }
+    ],
+    "usages": [
+      { "title": "① 「演壇」として", "desc": "演説の台を表します。", "example_en": "The speaker stepped up to the rostrum.", "example_ja": "演者は演壇に上がった。" },
+      { "title": "② 「指揮台」として", "desc": "指揮者の立つ台を表します。", "example_en": "The conductor took her place on the rostrum.", "example_ja": "指揮者は指揮台の定位置についた。" }
+    ],
+    "warn": [
+      "rostrum は『演壇・指揮台』。複数形は rostra（ラテン式）または rostrums。",
+      "語源はローマの演壇を敵船の『船首（rostra）』で飾ったことに由来する歴史的な語。"
+    ],
+    "etym_note": "ラテン語 rostrum（『くちばし・船首の衝角』、rodere「かじる」より）に由来します。古代ローマの広場の演壇が、海戦で捕獲した敵船の船首で飾られたことから『演壇』の意味になりました。",
+    "etym_chain": [
+      { "node": "rodere", "sub": "かじる", "era": "ラテン語" },
+      { "node": "rostrum", "sub": "くちばし・船首", "era": "ラテン語" },
+      { "node": "rostrum", "sub": "演壇・指揮台", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "step up to the rostrum", "ja": "演壇に上がる" },
+      { "en": "speak from the rostrum", "ja": "演壇から話す" },
+      { "en": "on the rostrum", "ja": "演壇・指揮台の上で" },
+      { "en": "the conductor's rostrum", "ja": "指揮台" },
+      { "en": "mount the rostrum", "ja": "登壇する" },
+      { "en": "the winner's rostrum", "ja": "表彰台" }
+    ],
+    "related": [
+      { "en": "podium", "ja": "演台・指揮台" },
+      { "en": "platform", "ja": "壇・演壇" },
+      { "en": "lectern", "ja": "書見台・演台" },
+      { "en": "dais", "ja": "高座・壇" }
+    ],
+    "faq": [
+      { "q": "rostrum とはどんな意味？", "a": "演説者・指揮者・受賞者が立つ一段高い『演壇・指揮台』という意味です。The speaker stepped up to the rostrum.（演者は演壇に上がった）のように使います。" },
+      { "q": "rostrum と podium の違いは？", "a": "ほぼ同義で『演壇・登壇台』を指します。podium はもともと『（演者が立つ）台』、rostrum は『（演説用の）壇』ですが、現代では互換的に使われることが多いです。" }
+    ],
+    "quiz": [
+      { "q": "The speaker stepped up to the ___.（演壇）", "A": "rostrum", "B": "rooster のおんどり", "C": "roster の名簿", "D": "ransom の身代金", "correct": "A" },
+      { "q": "rostrum のもとのラテン語の意味はどれ？", "A": "くちばし・船首", "B": "丸い窓", "C": "王の冠", "D": "車輪", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rabbinic",
+    "pron": "rəˈbɪnɪk",
+    "kana": "ラビニック",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "rabbi（ラビ・ユダヤ教の律法学者）＋ -ic",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "宗教・学術"],
+    "meaning_main": "ラビの・ユダヤ教律法学者の",
+    "description": "rabbinic の意味・発音・例文・語源を解説。ユダヤ教の律法学者「ラビの・ラビに関する」という、宗教や学術で使う語の使い方を紹介します。rabbinical とも。",
+    "keywords": ["rabbinic 意味", "rabbinic 発音", "ラビの", "rabbi 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】ラビの・ユダヤ教律法学者の", "note": "ユダヤ教の指導者ラビや、その伝統・文献に関する。rabbinic literature（ラビ文献）。rabbinical とも綴る。" }
+    ],
+    "usages": [
+      { "title": "① 「ラビ文献」として", "desc": "ラビの伝統に関わることを表します。", "example_en": "The scholar specializes in rabbinic literature.", "example_ja": "その学者はラビ文献を専門にしている。" },
+      { "title": "② 「ラビの解釈」として", "desc": "律法学者による解釈を表します。", "example_en": "Rabbinic interpretation shaped Jewish law for centuries.", "example_ja": "ラビの解釈は何世紀にもわたりユダヤ法を形づくった。" }
+    ],
+    "warn": [
+      "rabbinic は『ラビの・ユダヤ教律法学者の』。rabbinical とほぼ同義でどちらも使う。",
+      "rabbi（ラビ）はユダヤ教の宗教指導者・律法の教師を指す名詞。"
+    ],
+    "etym_note": "rabbi（『ラビ』、ヘブライ語 rabbī「我が師」、rab「偉大な・師」より）＋ -ic から成り、「ラビに関する」を意味します。元は『我が師よ』という敬称でした。",
+    "etym_chain": [
+      { "node": "rab", "sub": "偉大な・師", "era": "ヘブライ語" },
+      { "node": "rabbi", "sub": "ラビ・我が師", "era": "中英語" },
+      { "node": "rabbinic", "sub": "ラビの", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "rabbinic literature", "ja": "ラビ文献" },
+      { "en": "rabbinic tradition", "ja": "ラビの伝統" },
+      { "en": "rabbinic law", "ja": "ラビ法・口伝律法" },
+      { "en": "rabbinic interpretation", "ja": "ラビの解釈" },
+      { "en": "rabbinic scholar", "ja": "ラビ学者" },
+      { "en": "rabbinic Judaism", "ja": "ラビ的ユダヤ教" }
+    ],
+    "related": [
+      { "en": "rabbi", "ja": "ラビ・律法学者" },
+      { "en": "rabbinical", "ja": "ラビの（同義）" },
+      { "en": "Talmud", "ja": "タルムード" },
+      { "en": "Judaism", "ja": "ユダヤ教" }
+    ],
+    "faq": [
+      { "q": "rabbinic とはどんな意味？", "a": "ユダヤ教の指導者『ラビの・ラビの伝統や文献に関する』という意味の形容詞です。rabbinic literature（ラビ文献）のように使います。rabbinical とも綴ります。" },
+      { "q": "rabbi とは？", "a": "ユダヤ教の宗教指導者・律法の教師を指す語で、ヘブライ語の『我が師（rabbī）』に由来します。rabbinic はその形容詞形です。" }
+    ],
+    "quiz": [
+      { "q": "The scholar specializes in ___ literature.（ラビの）", "A": "rabbinic", "B": "robotic のロボットの", "C": "rabid の狂暴な", "D": "rubric の見出し", "correct": "A" },
+      { "q": "rabbinic のもとになった語はどれ？", "A": "rabbi（ラビ・律法学者）", "B": "rabbit（ウサギ）", "C": "rubber（ゴム）", "D": "ribbon（リボン）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recreant",
+    "pron": "ˈrɛkriənt",
+    "kana": "レクリアント",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 recreant（降参する）、recroire（屈服する）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "文学・古風"],
+    "meaning_main": "臆病者・卑怯な・裏切りの",
+    "description": "recreant の意味・発音・例文・語源を解説。古風・文学的な語で「臆病者・卑怯者」、形容詞で「臆病な・裏切りの」という意味の使い方を紹介します。",
+    "keywords": ["recreant 意味", "recreant 発音", "臆病者", "卑怯な"],
+    "meanings": [
+      { "hinshi": "【名詞】臆病者・卑怯者・裏切り者", "note": "戦いから逃げる者、信義を裏切る者。古風・文語。" },
+      { "hinshi": "【形容詞】臆病な・卑怯な・不忠の", "note": "勇気がなく裏切る性質の。a recreant knight（卑怯な騎士）。" }
+    ],
+    "usages": [
+      { "title": "① 名詞「臆病者」として", "desc": "勇気のない裏切り者を表します。", "example_en": "The poem condemns the recreant who fled the battle.", "example_ja": "その詩は戦いから逃げた臆病者を非難している。" },
+      { "title": "② 形容詞「卑怯な」として", "desc": "臆病で不忠な性質を表します。", "example_en": "He was branded a recreant coward by his peers.", "example_ja": "彼は仲間から卑怯な臆病者の烙印を押された。" }
+    ],
+    "warn": [
+      "recreant は『臆病者・卑怯な・裏切りの』。古風・文学的で日常会話ではまれ。",
+      "recreate（再創造する）や recreation（娯楽）とは語源も意味も無関係なので注意。"
+    ],
+    "etym_note": "古フランス語 recreant（『降参する者』、recroire「（戦いで）屈服する・信仰を放棄する」、re-＋ croire「信じる」より）に由来し、「信義を放棄して降参する者＝臆病者・裏切り者」を意味します。",
+    "etym_chain": [
+      { "node": "recroire", "sub": "屈服する・信を放棄する", "era": "古フランス語" },
+      { "node": "recreant", "sub": "降参する者", "era": "古フランス語" },
+      { "node": "recreant", "sub": "臆病者・卑怯な", "era": "中英語" }
+    ],
+    "phrases": [
+      { "en": "a recreant knight", "ja": "卑怯な騎士" },
+      { "en": "a recreant coward", "ja": "卑怯な臆病者" },
+      { "en": "brand someone a recreant", "ja": "〜を臆病者呼ばわりする" },
+      { "en": "recreant behavior", "ja": "卑怯な振る舞い" },
+      { "en": "the recreant who fled", "ja": "逃げ出した臆病者" },
+      { "en": "prove recreant", "ja": "臆病だと判明する" }
+    ],
+    "related": [
+      { "en": "coward", "ja": "臆病者" },
+      { "en": "craven", "ja": "ひどく臆病な" },
+      { "en": "traitor", "ja": "裏切り者" },
+      { "en": "apostate", "ja": "背教者" }
+    ],
+    "faq": [
+      { "q": "recreant とはどんな意味？", "a": "古風・文学的な語で、名詞『臆病者・卑怯者・裏切り者』、形容詞『臆病な・卑怯な・不忠の』という意味です。a recreant knight（卑怯な騎士）のように使います。" },
+      { "q": "recreant と recreation は関係ある？", "a": "いいえ、無関係です。recreant は『信義を放棄して降参する』が語源、recreation（娯楽）は『再び創り出す』が語源で、別系統です。" }
+    ],
+    "quiz": [
+      { "q": "The poem condemns the ___ who fled the battle.（臆病者）", "A": "recreant", "B": "recreation の娯楽", "C": "recipient の受取人", "D": "recruit の新兵", "correct": "A" },
+      { "q": "recreant の意味に近いのはどれ？", "A": "coward（臆病者）", "B": "hero（英雄）", "C": "leader（指導者）", "D": "champion（王者）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recitative",
+    "pron": "ˌrɛsɪtəˈtiːv",
+    "kana": "レシタティーブ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "イタリア語 recitativo（朗唱する）、ラテン語 recitare（朗読する）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "音楽・声楽"],
+    "meaning_main": "レチタティーボ・叙唱（話すように歌う部分）",
+    "description": "recitative の意味・発音・例文・語源を解説。オペラなどで話すように歌う「レチタティーボ・叙唱」という、音楽・声楽で使う語の使い方を紹介します。",
+    "keywords": ["recitative 意味", "recitative 発音", "レチタティーボ", "叙唱"],
+    "meanings": [
+      { "hinshi": "【名詞】レチタティーボ・叙唱", "note": "オペラやオラトリオで、話し言葉のリズムに近い節回しで歌う部分。物語を進める役割を持つ。対するのが旋律的な aria（アリア）。" }
+    ],
+    "usages": [
+      { "title": "① 「叙唱」として", "desc": "話すように歌う部分を表します。", "example_en": "The opera moves from recitative into a soaring aria.", "example_ja": "そのオペラは叙唱から高揚するアリアへと移る。" },
+      { "title": "② 「話すように歌う」として", "desc": "語りに近い歌唱を表します。", "example_en": "The singer delivered the recitative with great clarity.", "example_ja": "歌手はその叙唱をきわめて明瞭に歌った。" }
+    ],
+    "warn": [
+      "recitative は『レチタティーボ・叙唱』。話すように歌う部分で、旋律的な aria（アリア）と対をなす。",
+      "発音はレシタティーブ（最後にアクセント）。動詞 recite（暗唱する）と同根。"
+    ],
+    "etym_note": "イタリア語 recitativo（『朗唱する・語るように歌う』、ラテン語 recitare「声に出して読む」、re-＋ citare「呼び出す」より）に由来します。recite（暗唱する）や cite（引用する）と同じ語根です。",
+    "etym_chain": [
+      { "node": "recitare", "sub": "声に出して読む", "era": "ラテン語" },
+      { "node": "recitativo", "sub": "語るように歌う", "era": "イタリア語" },
+      { "node": "recitative", "sub": "レチタティーボ・叙唱", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "sing in recitative", "ja": "叙唱で歌う" },
+      { "en": "recitative and aria", "ja": "叙唱とアリア" },
+      { "en": "a dramatic recitative", "ja": "劇的な叙唱" },
+      { "en": "accompanied recitative", "ja": "伴奏付き叙唱" },
+      { "en": "move into recitative", "ja": "叙唱に入る" },
+      { "en": "a long recitative", "ja": "長い叙唱" }
+    ],
+    "related": [
+      { "en": "aria", "ja": "アリア・詠唱" },
+      { "en": "recite", "ja": "暗唱する・朗唱する" },
+      { "en": "opera", "ja": "オペラ" },
+      { "en": "oratorio", "ja": "オラトリオ" }
+    ],
+    "faq": [
+      { "q": "recitative とはどんな意味？", "a": "オペラやオラトリオで、話し言葉のリズムに近い節回しで歌う『レチタティーボ・叙唱』という意味です。物語を進める役割を持ち、旋律的なアリアと対をなします。" },
+      { "q": "recitative と aria の違いは？", "a": "recitative（叙唱）は『話すように歌い物語を進める部分』、aria（アリア）は『旋律的に感情を歌い上げる部分』です。オペラはこの二つが交互に現れます。" }
+    ],
+    "quiz": [
+      { "q": "The opera moves from ___ into a soaring aria.（叙唱）", "A": "recitative", "B": "relative の親戚", "C": "recital の独奏会", "D": "narrative の物語", "correct": "A" },
+      { "q": "recitative と対をなす旋律的な部分はどれ？", "A": "aria（アリア）", "B": "chorus（合唱）だけ", "C": "overture（序曲）", "D": "encore（アンコール）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rending",
+    "pron": "ˈrɛndɪŋ",
+    "kana": "レンディング",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "rend（引き裂く）＋ -ing",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文学・描写"],
+    "meaning_main": "引き裂くような・胸を引き裂く",
+    "description": "rending の意味・発音・例文・語源を解説。心を「引き裂くような・胸を締めつける」という、文学的・描写的に使う語の使い方を紹介します。heart-rending も解説。",
+    "keywords": ["rending 意味", "rending 発音", "引き裂くような", "rend 意味"],
+    "meanings": [
+      { "hinshi": "【形容詞】引き裂くような・胸を締めつける", "note": "感情を激しく揺さぶる、痛ましい。特に heart-rending（胸が張り裂けるような）の形で使う。動詞 rend は『引き裂く』。" }
+    ],
+    "usages": [
+      { "title": "① 「胸を引き裂くような」として", "desc": "痛ましく心を打つことを表します。", "example_en": "A rending cry echoed through the hospital.", "example_ja": "胸を引き裂くような叫びが病院に響いた。" },
+      { "title": "② heart-rending として", "desc": "『胸が張り裂けるような』という複合語で使います。", "example_en": "It was a heart-rending account of the disaster.", "example_ja": "それは胸が張り裂けるような災害の記録だった。" }
+    ],
+    "warn": [
+      "rending は『引き裂くような・胸を締めつける』。特に heart-rending（胸が張り裂けるような）で頻出。",
+      "動詞 rend は不規則変化（rend-rent-rent）で『引き裂く』。文語的。"
+    ],
+    "etym_note": "rend（『引き裂く』、古英語 rendan「裂く」）＋ -ing から成り、「（心を）引き裂くような」を意味します。激しい悲しみで心が裂ける比喩から来ています。",
+    "etym_chain": [
+      { "node": "rendan", "sub": "裂く", "era": "古英語" },
+      { "node": "rend", "sub": "引き裂く", "era": "中英語" },
+      { "node": "rending", "sub": "引き裂くような", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "heart-rending", "ja": "胸が張り裂けるような" },
+      { "en": "a rending cry", "ja": "胸を引き裂くような叫び" },
+      { "en": "a rending sob", "ja": "痛ましいすすり泣き" },
+      { "en": "a rending scream", "ja": "引き裂くような悲鳴" },
+      { "en": "rending grief", "ja": "胸を引き裂く悲しみ" },
+      { "en": "ear-rending noise", "ja": "耳をつんざく音" }
+    ],
+    "related": [
+      { "en": "rend", "ja": "引き裂く" },
+      { "en": "heart-rending", "ja": "胸が張り裂けるような" },
+      { "en": "harrowing", "ja": "痛ましい・悲惨な" },
+      { "en": "tearing", "ja": "引き裂くような" }
+    ],
+    "faq": [
+      { "q": "rending とはどんな意味？", "a": "心を『引き裂くような・胸を締めつける』という意味の形容詞です。特に heart-rending（胸が張り裂けるような）の形でよく使います。A rending cry.（胸を引き裂くような叫び）のように使います。" },
+      { "q": "rend とはどんな動詞？", "a": "『（激しく）引き裂く』という意味の文語的な動詞で、不規則変化 rend-rent-rent です。rending はその現在分詞・形容詞形です。" }
+    ],
+    "quiz": [
+      { "q": "It was a heart-___ account of the disaster.（胸が張り裂けるような）", "A": "rending", "B": "lending の貸す", "C": "bending の曲げる", "D": "sending の送る", "correct": "A" },
+      { "q": "rending のもとになった動詞 rend の意味はどれ？", "A": "引き裂く", "B": "貸す", "C": "曲げる", "D": "送る", "correct": "A" }
+    ]
+  }
+]

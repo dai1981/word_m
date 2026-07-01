@@ -1,0 +1,523 @@
+[
+  {
+    "english": "radome",
+    "pron": "ˈreɪdəʊm",
+    "kana": "レイドーム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "radar（レーダー）＋ dome（ドーム）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "工学・航空"],
+    "meaning_main": "レドーム（レーダーを覆う保護ドーム）",
+    "description": "radome の意味・発音・例文・語源を解説。レーダーアンテナを風雨から守りつつ電波を通す保護カバー「レドーム」という、航空・工学で使う語の使い方を紹介します。",
+    "keywords": ["radome 意味", "radome 発音", "レドーム", "レーダーカバー"],
+    "meanings": [
+      { "hinshi": "【名詞】レドーム", "note": "レーダーアンテナを覆い、風雨や衝撃から守りながら電波を透過させる保護カバー。航空機の機首や、地上の球形ドームに見られる。radar＋dome の合成。" }
+    ],
+    "usages": [
+      { "title": "① 「航空機のレドーム」として", "desc": "機首のカバーを表します。", "example_en": "The aircraft's radar sits behind the nose radome.", "example_ja": "その航空機のレーダーは機首のレドームの後ろにある。" },
+      { "title": "② 「地上のレドーム」として", "desc": "球形のドームを表します。", "example_en": "Large white radomes dotted the radar station.", "example_ja": "大きな白いレドームがレーダー基地に点在していた。" }
+    ],
+    "warn": [
+      "radome は『レドーム（レーダーを覆う保護ドーム）』。radar＋dome のかばん語。",
+      "電波を通す特殊な素材でできており、アンテナを保護しつつ性能を損なわない。"
+    ],
+    "etym_note": "radar（『レーダー』、radio detection and ranging の頭字語）＋ dome（『ドーム』、ラテン語 domus「家」より）を合わせたかばん語です。電波を通すドーム型のカバーを表します。",
+    "etym_chain": [
+      { "node": "radar + dome", "sub": "レーダー＋ドーム", "era": "20世紀英語" },
+      { "node": "radome", "sub": "レーダーカバー", "era": "1940年代" },
+      { "node": "radome", "sub": "レドーム", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the nose radome", "ja": "機首のレドーム" },
+      { "en": "a weather radome", "ja": "気象レーダーのレドーム" },
+      { "en": "a spherical radome", "ja": "球形のレドーム" },
+      { "en": "install a radome", "ja": "レドームを取り付ける" },
+      { "en": "a radome cover", "ja": "レドームのカバー" },
+      { "en": "behind the radome", "ja": "レドームの後ろに" }
+    ],
+    "related": [
+      { "en": "radar", "ja": "レーダー" },
+      { "en": "dome", "ja": "ドーム・丸屋根" },
+      { "en": "antenna", "ja": "アンテナ" },
+      { "en": "fuselage", "ja": "（航空機の）胴体" }
+    ],
+    "faq": [
+      { "q": "radome とはどんな意味？", "a": "レーダーアンテナを風雨や衝撃から守りつつ電波を通す保護カバー『レドーム』のことです。The radar sits behind the nose radome.（レーダーは機首のレドームの後ろにある）のように使います。" },
+      { "q": "radome はなぜ必要？", "a": "むき出しのレーダーアンテナを風雨・氷・飛来物から守るためです。電波を透過する特殊素材でできており、保護しながらレーダー性能を損なわないようにしています。" }
+    ],
+    "quiz": [
+      { "q": "The aircraft's radar sits behind the nose ___.（レドーム）", "A": "radome", "B": "syndrome の症候群", "C": "ribosome のリボソーム", "D": "metronome のメトロノーム", "correct": "A" },
+      { "q": "radome は何と何を合わせた語？", "A": "radar と dome", "B": "radio と home", "C": "rapid と dome", "D": "ray と dome", "correct": "A" }
+    ]
+  },
+  {
+    "english": "radula",
+    "pron": "ˈrædjʊlə",
+    "kana": "ラデュラ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 radula（削り器）、radere（削る）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "生物・軟体動物"],
+    "meaning_main": "歯舌（しぜつ・巻貝などの削り取る器官）",
+    "description": "radula の意味・発音・例文・語源を解説。巻貝やカタツムリなどが餌を削り取るのに使う、おろし金のような器官「歯舌（しぜつ）」という、生物学で使う語の使い方を紹介します。",
+    "keywords": ["radula 意味", "radula 発音", "歯舌", "軟体動物"],
+    "meanings": [
+      { "hinshi": "【名詞】歯舌（しぜつ）", "note": "巻貝・カタツムリ・ナメクジなど多くの軟体動物が口の中に持つ、微小な歯が並んだおろし金状の器官。餌をこすり削り取って食べる。複数形は radulae。" }
+    ],
+    "usages": [
+      { "title": "① 「餌を削る器官」として", "desc": "摂食器官を表します。", "example_en": "A snail scrapes algae off rocks with its radula.", "example_ja": "カタツムリは歯舌で岩から藻をこすり取る。" },
+      { "title": "② 「微小な歯」として", "desc": "歯舌の構造を表します。", "example_en": "The radula bears thousands of tiny teeth.", "example_ja": "歯舌には何千もの微小な歯が並んでいる。" }
+    ],
+    "warn": [
+      "radula は『歯舌（軟体動物が餌を削り取る器官）』。複数形は radulae。生物学の語。",
+      "二枚貝（アサリなど）には歯舌がないが、巻貝・カタツムリ・イカ・タコなどにはある。"
+    ],
+    "etym_note": "ラテン語 radula（『削り器・へら』、radere「削る・こする」より）に由来します。おろし金のように餌を削ることから。abrade（すり減らす）や erase（消す）と同じ radere の系統です。",
+    "etym_chain": [
+      { "node": "radere", "sub": "削る・こする", "era": "ラテン語" },
+      { "node": "radula", "sub": "削り器", "era": "ラテン語" },
+      { "node": "radula", "sub": "歯舌", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "scrape with the radula", "ja": "歯舌でこすり取る" },
+      { "en": "the snail's radula", "ja": "カタツムリの歯舌" },
+      { "en": "teeth on the radula", "ja": "歯舌の歯" },
+      { "en": "a rasping radula", "ja": "削り取る歯舌" },
+      { "en": "the radula of a mollusc", "ja": "軟体動物の歯舌" },
+      { "en": "examine the radula", "ja": "歯舌を調べる" }
+    ],
+    "related": [
+      { "en": "mollusc", "ja": "軟体動物" },
+      { "en": "snail", "ja": "カタツムリ・巻貝" },
+      { "en": "gastropod", "ja": "腹足類" },
+      { "en": "rasp", "ja": "やすり・削る" }
+    ],
+    "faq": [
+      { "q": "radula とはどんな意味？", "a": "巻貝やカタツムリなど多くの軟体動物が口の中に持つ、微小な歯が並んだおろし金状の器官『歯舌（しぜつ）』のことです。A snail scrapes algae with its radula.（カタツムリは歯舌で藻をこすり取る）のように使います。" },
+      { "q": "どんな動物が radula を持つ？", "a": "巻貝・カタツムリ・ナメクジ・イカ・タコなど多くの軟体動物が持ちます。一方、アサリなどの二枚貝は歯舌を持ちません。" }
+    ],
+    "quiz": [
+      { "q": "A snail scrapes algae off rocks with its ___.（歯舌）", "A": "radula", "B": "formula の公式", "C": "nebula の星雲", "D": "tarantula のタランチュラ", "correct": "A" },
+      { "q": "radula を持つのは次のうちどれ？", "A": "カタツムリ", "B": "アサリ（二枚貝）", "C": "ヒトデ", "D": "クラゲ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rottweiler",
+    "pron": "ˈrɒtvaɪlə",
+    "kana": "ロットワイラー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ドイツの町 Rottweil（ロットワイル）＋ -er",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "動物・犬種"],
+    "meaning_main": "ロットワイラー（大型で力強い番犬・作業犬）",
+    "description": "rottweiler の意味・発音・例文・語源を解説。黒地に茶のはん点を持つ大型で力強い犬種「ロットワイラー」という、動物・犬種で使う語の使い方と、ドイツの町にちなむ語源を紹介します。",
+    "keywords": ["rottweiler 意味", "rottweiler 発音", "ロットワイラー", "犬種"],
+    "meanings": [
+      { "hinshi": "【名詞】ロットワイラー", "note": "ドイツ原産の大型の犬種。黒地に茶色のはん点があり、筋肉質で力強い。番犬・警察犬・作業犬として知られ、忠実だが訓練が重要。" }
+    ],
+    "usages": [
+      { "title": "① 「番犬」として", "desc": "犬種を表します。", "example_en": "A rottweiler guarded the entrance to the yard.", "example_ja": "ロットワイラーが庭の入り口を守っていた。" },
+      { "title": "② 比喩「容赦ない人」として", "desc": "強硬な人の例えを表します。", "example_en": "The interviewer had a reputation as a rottweiler.", "example_ja": "そのインタビュアーは容赦ない人として知られていた。" }
+    ],
+    "warn": [
+      "rottweiler は犬種『ロットワイラー』。発音はロットワイラー（w はヴに近い）。",
+      "ドイツの町 Rottweil（ロットワイル）に由来。比喩で『攻撃的で容赦ない人』も指す。"
+    ],
+    "etym_note": "ドイツ南西部の町 Rottweil（ロットワイル）に由来し、その地で家畜を追い守る犬として育てられたことから Rottweiler（ロットワイルの犬）と呼ばれました。",
+    "etym_chain": [
+      { "node": "Rottweil", "sub": "ドイツの町名", "era": "ドイツ語" },
+      { "node": "Rottweiler", "sub": "ロットワイルの犬", "era": "ドイツ語" },
+      { "node": "rottweiler", "sub": "ロットワイラー", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a guard rottweiler", "ja": "番犬のロットワイラー" },
+      { "en": "train a rottweiler", "ja": "ロットワイラーを訓練する" },
+      { "en": "a powerful rottweiler", "ja": "力強いロットワイラー" },
+      { "en": "a loyal rottweiler", "ja": "忠実なロットワイラー" },
+      { "en": "like a rottweiler", "ja": "ロットワイラーのように（容赦なく）" },
+      { "en": "a police rottweiler", "ja": "警察犬のロットワイラー" }
+    ],
+    "related": [
+      { "en": "breed", "ja": "（動物の）品種・犬種" },
+      { "en": "guard dog", "ja": "番犬" },
+      { "en": "mastiff", "ja": "マスティフ（犬種）" },
+      { "en": "Doberman", "ja": "ドーベルマン" }
+    ],
+    "faq": [
+      { "q": "rottweiler とはどんな意味？", "a": "黒地に茶のはん点を持つ、ドイツ原産の大型で力強い犬種『ロットワイラー』のことです。番犬・警察犬として知られます。A rottweiler guarded the entrance.（ロットワイラーが入り口を守っていた）のように使います。" },
+      { "q": "rottweiler の名前の由来は？", "a": "ドイツ南西部の町ロットワイル（Rottweil）に由来します。その地で牛を追い、肉屋の荷車を守る犬として活躍したことから名づけられました。" }
+    ],
+    "quiz": [
+      { "q": "A ___ guarded the entrance to the yard.（ロットワイラー）", "A": "rottweiler", "B": "rotor の回転子", "C": "retriever のレトリバー", "D": "wrestler のレスラー", "correct": "A" },
+      { "q": "rottweiler の名前のもとになったのは？", "A": "ドイツの町ロットワイル", "B": "発見者の名前", "C": "毛の色", "D": "鳴き声", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rubaiyat",
+    "pron": "ˈruːbaɪjɑːt",
+    "kana": "ルバイヤート",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "アラビア語 rubāʿiyāt（四行詩、複数）、rubāʿī より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "文学・詩"],
+    "meaning_main": "ルバイヤート（ペルシアの四行詩集）",
+    "description": "rubaiyat の意味・発音・例文・語源を解説。ペルシアの詩形「四行詩（ルバイ）」の集成「ルバイヤート」という、文学で使う語の使い方と、オマル・ハイヤームの作品を紹介します。",
+    "keywords": ["rubaiyat 意味", "rubaiyat 発音", "ルバイヤート", "四行詩"],
+    "meanings": [
+      { "hinshi": "【名詞】ルバイヤート（四行詩集）", "note": "ペルシアの定型詩 rubāʿī（四行詩）の複数形・集成。特に詩人オマル・ハイヤームの『ルバイヤート』が、19世紀にフィッツジェラルドの英訳で広く知られる。" }
+    ],
+    "usages": [
+      { "title": "① 「四行詩集」として", "desc": "詩集を表します。", "example_en": "The Rubaiyat of Omar Khayyam is famous in English translation.", "example_ja": "オマル・ハイヤームの『ルバイヤート』は英訳で有名だ。" },
+      { "title": "② 「詩形」として", "desc": "四行の詩を表します。", "example_en": "Each rubai is a self-contained four-line poem.", "example_ja": "各ルバイは独立した四行の詩である。" }
+    ],
+    "warn": [
+      "rubaiyat は『ルバイヤート（ペルシアの四行詩集）』。単数の一編は rubai（ルバイ）。",
+      "特にオマル・ハイヤームの作品と、その英訳者フィッツジェラルドで有名。"
+    ],
+    "etym_note": "アラビア語 rubāʿiyāt（『四行詩（複数）』、rubāʿī「四行から成る」、arbaʿa「4」より）に由来します。四行から成る詩であることが名の由来です。",
+    "etym_chain": [
+      { "node": "arbaʿa", "sub": "4", "era": "アラビア語" },
+      { "node": "rubāʿī", "sub": "四行詩", "era": "アラビア語・ペルシア語" },
+      { "node": "rubaiyat", "sub": "四行詩集", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the Rubaiyat of Omar Khayyam", "ja": "オマル・ハイヤームのルバイヤート" },
+      { "en": "read the Rubaiyat", "ja": "ルバイヤートを読む" },
+      { "en": "a verse from the Rubaiyat", "ja": "ルバイヤートの一節" },
+      { "en": "translate the Rubaiyat", "ja": "ルバイヤートを翻訳する" },
+      { "en": "a single rubai", "ja": "一編のルバイ" },
+      { "en": "the famous Rubaiyat", "ja": "有名なルバイヤート" }
+    ],
+    "related": [
+      { "en": "quatrain", "ja": "四行詩・四行連" },
+      { "en": "verse", "ja": "詩・韻文" },
+      { "en": "stanza", "ja": "詩節・連" },
+      { "en": "ode", "ja": "頌歌・オード" }
+    ],
+    "faq": [
+      { "q": "rubaiyat とはどんな意味？", "a": "ペルシアの定型詩 rubāʿī（四行詩）の集成『ルバイヤート（四行詩集）』のことです。特に詩人オマル・ハイヤームの『ルバイヤート』が、英訳によって世界的に有名です。" },
+      { "q": "rubaiyat と quatrain の関係は？", "a": "どちらも『四行詩』を指します。rubaiyat はペルシア・アラビアの伝統的な四行詩（およびその集成）、quatrain は西洋詩でいう一般的な四行連です。" }
+    ],
+    "quiz": [
+      { "q": "The ___ of Omar Khayyam is famous in English translation.（ルバイヤート）", "A": "Rubaiyat", "B": "Pirate の海賊", "C": "Roundabout の環状路", "D": "Caveat の警告", "correct": "A" },
+      { "q": "rubaiyat はもともと何行から成る詩？", "A": "4行", "B": "3行", "C": "5行", "D": "8行", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rondavel",
+    "pron": "rɒnˈdɑːvəl",
+    "kana": "ロンダベル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "アフリカーンス語 rondawel より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "建築・アフリカ"],
+    "meaning_main": "ロンダベル（アフリカ伝統の円形の小屋）",
+    "description": "rondavel の意味・発音・例文・語源を解説。南部アフリカの円形で円錐屋根の伝統的な小屋「ロンダベル」という、建築や文化で使う語の使い方を紹介します。",
+    "keywords": ["rondavel 意味", "rondavel 発音", "ロンダベル", "円形の小屋"],
+    "meanings": [
+      { "hinshi": "【名詞】ロンダベル", "note": "南部アフリカの伝統的な円形の小屋。土・石の円い壁に、草ぶきの円錐形の屋根をのせる。観光地の宿泊施設としても建てられる。" }
+    ],
+    "usages": [
+      { "title": "① 「伝統的な住居」として", "desc": "円形の小屋を表します。", "example_en": "The village was made up of several thatched rondavels.", "example_ja": "その村はいくつかの草ぶきのロンダベルから成っていた。" },
+      { "title": "② 「宿泊施設」として", "desc": "観光用の小屋を表します。", "example_en": "We stayed in a rondavel at the game reserve.", "example_ja": "私たちは野生動物保護区のロンダベルに泊まった。" }
+    ],
+    "warn": [
+      "rondavel は『ロンダベル（アフリカ伝統の円形・円錐屋根の小屋）』。南部アフリカの語。",
+      "アフリカーンス語 rondawel 由来で、rond（丸い）と関連。"
+    ],
+    "etym_note": "アフリカーンス語 rondawel に由来します。rond（『丸い』、オランダ語・フランス語系）と関連し、円形の建物であることを反映しています。round（丸い）と語源を共有します。",
+    "etym_chain": [
+      { "node": "rond", "sub": "丸い", "era": "オランダ語系" },
+      { "node": "rondawel", "sub": "円形の小屋", "era": "アフリカーンス語" },
+      { "node": "rondavel", "sub": "ロンダベル", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a thatched rondavel", "ja": "草ぶきのロンダベル" },
+      { "en": "stay in a rondavel", "ja": "ロンダベルに泊まる" },
+      { "en": "a traditional rondavel", "ja": "伝統的なロンダベル" },
+      { "en": "build a rondavel", "ja": "ロンダベルを建てる" },
+      { "en": "a cluster of rondavels", "ja": "ロンダベルの集まり" },
+      { "en": "a round rondavel hut", "ja": "円形のロンダベル小屋" }
+    ],
+    "related": [
+      { "en": "hut", "ja": "小屋" },
+      { "en": "thatch", "ja": "草ぶき屋根" },
+      { "en": "dwelling", "ja": "住居" },
+      { "en": "kraal", "ja": "（南アフリカの）囲い村" }
+    ],
+    "faq": [
+      { "q": "rondavel とはどんな意味？", "a": "南部アフリカの伝統的な円形の小屋『ロンダベル』のことです。円い壁に草ぶきの円錐形の屋根をのせます。We stayed in a rondavel.（ロンダベルに泊まった）のように使います。" },
+      { "q": "rondavel はどんな形？", "a": "円形の壁（土・石・れんが）に、草ぶきの円錐形の屋根をのせた丸い小屋です。名の rond（丸い）が形を表しています。観光地の宿泊棟にもよく用いられます。" }
+    ],
+    "quiz": [
+      { "q": "The village was made up of several thatched ___s.（ロンダベル）", "A": "rondavel", "B": "carousel の回転木馬", "C": "caravel の帆船", "D": "marvel の驚異", "correct": "A" },
+      { "q": "rondavel はどんな形の小屋？", "A": "円形（丸い）", "B": "正方形", "C": "三角形", "D": "六角形", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rasbora",
+    "pron": "ræzˈbɔːrə",
+    "kana": "ラスボラ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "由来不確か（学名 Rasbora より）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "魚・観賞魚"],
+    "meaning_main": "ラスボラ（東南アジア原産の小型観賞魚）",
+    "description": "rasbora の意味・発音・例文・語源を解説。東南アジア原産で、群れで泳ぐ小型の人気観賞魚「ラスボラ」という、魚やアクアリウムで使う語の使い方を紹介します。",
+    "keywords": ["rasbora 意味", "rasbora 発音", "ラスボラ", "観賞魚"],
+    "meanings": [
+      { "hinshi": "【名詞】ラスボラ", "note": "東南アジアなどに分布するコイ科の小型淡水魚の総称。群れで泳ぐ習性と美しい体色から、熱帯魚（アクアリウム）として人気。代表種はラスボラ・ヘテロモルファ。" }
+    ],
+    "usages": [
+      { "title": "① 「観賞魚」として", "desc": "熱帯魚を表します。", "example_en": "A shoal of rasboras shimmered in the planted tank.", "example_ja": "ラスボラの群れが水草水槽の中できらめいた。" },
+      { "title": "② 「飼育」として", "desc": "アクアリウムを表します。", "example_en": "Rasboras are peaceful and easy to keep.", "example_ja": "ラスボラは温和で飼いやすい。" }
+    ],
+    "warn": [
+      "rasbora は『ラスボラ（東南アジア原産の小型観賞魚）』。コイ科の淡水魚の総称。",
+      "群れで泳ぐので、水槽でも複数匹で飼うのがよいとされる。"
+    ],
+    "etym_note": "学名 Rasbora に基づきます。語源ははっきりしませんが、現地（インド・東南アジア）の呼び名に由来するとされ、19世紀に分類名として定着しました。",
+    "etym_chain": [
+      { "node": "現地名（推定）", "sub": "小魚の呼び名", "era": "南アジア" },
+      { "node": "Rasbora", "sub": "ラスボラ属（学名）", "era": "近代分類学" },
+      { "node": "rasbora", "sub": "ラスボラ", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a shoal of rasboras", "ja": "ラスボラの群れ" },
+      { "en": "keep rasboras", "ja": "ラスボラを飼う" },
+      { "en": "harlequin rasbora", "ja": "ラスボラ・ヘテロモルファ" },
+      { "en": "a peaceful rasbora", "ja": "温和なラスボラ" },
+      { "en": "rasboras in a planted tank", "ja": "水草水槽のラスボラ" },
+      { "en": "a school of rasbora", "ja": "ラスボラの一群" }
+    ],
+    "related": [
+      { "en": "tetra", "ja": "テトラ（観賞魚）" },
+      { "en": "aquarium", "ja": "水槽・アクアリウム" },
+      { "en": "freshwater fish", "ja": "淡水魚" },
+      { "en": "shoal", "ja": "魚の群れ" }
+    ],
+    "faq": [
+      { "q": "rasbora とはどんな意味？", "a": "東南アジアなどに分布するコイ科の小型淡水魚『ラスボラ』のことです。群れで泳ぐ習性と美しい体色から熱帯魚として人気です。A shoal of rasboras shimmered in the tank.（ラスボラの群れが水槽できらめいた）のように使います。" },
+      { "q": "rasbora の飼い方のコツは？", "a": "群れで泳ぐ魚なので、水槽では複数匹（できれば6匹以上）でまとめて飼うと落ち着き、自然な群泳が見られます。温和で混泳にも向きます。" }
+    ],
+    "quiz": [
+      { "q": "A shoal of ___s shimmered in the planted tank.（ラスボラ）", "A": "rasbora", "B": "fedora の中折れ帽", "C": "aurora のオーロラ", "D": "pandora のパンドラ", "correct": "A" },
+      { "q": "rasbora はどんな生き物？", "A": "小型の淡水観賞魚", "B": "鳥", "C": "昆虫", "D": "貝", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rhinarium",
+    "pron": "raɪˈnɛəriəm",
+    "kana": "ライナリウム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 rhis / rhinos（鼻）＋ -arium",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "生物・解剖"],
+    "meaning_main": "鼻鏡（びきょう・動物の湿った鼻先）",
+    "description": "rhinarium の意味・発音・例文・語源を解説。犬や猫などの湿って毛のない鼻先「鼻鏡（びきょう）」という、生物学・解剖学で使う語の使い方を紹介します。",
+    "keywords": ["rhinarium 意味", "rhinarium 発音", "鼻鏡", "動物の鼻先"],
+    "meanings": [
+      { "hinshi": "【名詞】鼻鏡（びきょう）", "note": "多くの哺乳類（犬・猫など）に見られる、鼻孔の周りの湿って毛のない皮膚の部分。においや湿度の感知に役立つ。複数形は rhinaria。" }
+    ],
+    "usages": [
+      { "title": "① 「動物の鼻先」として", "desc": "湿った鼻を表します。", "example_en": "A dog's wet rhinarium helps it detect scents.", "example_ja": "犬の湿った鼻鏡はにおいを感知するのに役立つ。" },
+      { "title": "② 「比較解剖」として", "desc": "種による違いを表します。", "example_en": "Humans lack a rhinarium, unlike most mammals.", "example_ja": "人間は多くの哺乳類と違って鼻鏡を持たない。" }
+    ],
+    "warn": [
+      "rhinarium は『鼻鏡（動物の湿った毛のない鼻先）』。複数形は rhinaria。解剖学の語。",
+      "ギリシャ語 rhis/rhinos（鼻）由来で、rhinoceros（サイ）や rhinitis（鼻炎）と同根。"
+    ],
+    "etym_note": "ギリシャ語 rhis（属格 rhinos「鼻」）＋ ラテン語の場所・物を表す -arium から成り、「鼻の部分」を意味します。rhinoceros（鼻に角のある動物＝サイ）や rhinoplasty（鼻形成術）と同じ rhis の系統です。",
+    "etym_chain": [
+      { "node": "rhinos", "sub": "鼻", "era": "古代ギリシャ語" },
+      { "node": "rhin- + -arium", "sub": "鼻の部分", "era": "近代ラテン語" },
+      { "node": "rhinarium", "sub": "鼻鏡", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a wet rhinarium", "ja": "湿った鼻鏡" },
+      { "en": "the dog's rhinarium", "ja": "犬の鼻鏡" },
+      { "en": "a moist rhinarium", "ja": "しっとりした鼻鏡" },
+      { "en": "lack a rhinarium", "ja": "鼻鏡を持たない" },
+      { "en": "the rhinarium aids smell", "ja": "鼻鏡が嗅覚を助ける" },
+      { "en": "a hairless rhinarium", "ja": "毛のない鼻鏡" }
+    ],
+    "related": [
+      { "en": "nostril", "ja": "鼻孔" },
+      { "en": "snout", "ja": "（動物の）鼻づら" },
+      { "en": "muzzle", "ja": "（動物の）鼻口部" },
+      { "en": "olfactory", "ja": "嗅覚の" }
+    ],
+    "faq": [
+      { "q": "rhinarium とはどんな意味？", "a": "犬や猫など多くの哺乳類に見られる、鼻孔の周りの湿って毛のない皮膚の部分『鼻鏡（びきょう）』のことです。A dog's wet rhinarium helps it detect scents.（犬の湿った鼻鏡はにおいの感知に役立つ）のように使います。" },
+      { "q": "人間にも rhinarium はある？", "a": "いいえ。人間や多くの霊長類は rhinarium を持ちません。犬・猫などに見られる湿った鼻先が rhinarium で、においや空気の流れの感知に役立つとされます。" }
+    ],
+    "quiz": [
+      { "q": "A dog's wet ___ helps it detect scents.（鼻鏡）", "A": "rhinarium", "B": "aquarium の水族館", "C": "planetarium のプラネタリウム", "D": "auditorium の講堂", "correct": "A" },
+      { "q": "rhinarium の rhin- はどんな意味？", "A": "鼻", "B": "耳", "C": "目", "D": "舌", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rosella",
+    "pron": "rəʊˈzɛlə",
+    "kana": "ロゼラ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "オーストラリアの地名 Rose Hill の変化形",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "鳥・オーストラリア"],
+    "meaning_main": "ロゼラ（オーストラリア産の色鮮やかなインコ）",
+    "description": "rosella の意味・発音・例文・語源を解説。オーストラリア原産の、赤・青・黄など色鮮やかな中型インコ「ロゼラ」という、鳥や自然で使う語の使い方を紹介します。",
+    "keywords": ["rosella 意味", "rosella 発音", "ロゼラ", "オーストラリア インコ"],
+    "meanings": [
+      { "hinshi": "【名詞】ロゼラ", "note": "オーストラリア原産のオウム科（インコ）の中型の鳥。赤・青・黄・緑など色鮮やかで、頬に白や青の斑がある。庭にもよく現れる人気の鳥。" }
+    ],
+    "usages": [
+      { "title": "① 「色鮮やかな鳥」として", "desc": "インコを表します。", "example_en": "A crimson rosella landed on the feeder.", "example_ja": "深紅のロゼラが餌台にとまった。" },
+      { "title": "② 「庭の鳥」として", "desc": "身近な野鳥を表します。", "example_en": "Rosellas are common in gardens across eastern Australia.", "example_ja": "ロゼラはオーストラリア東部の庭でよく見られる。" }
+    ],
+    "warn": [
+      "rosella は『ロゼラ（オーストラリア産の色鮮やかなインコ）』。鳥の名。",
+      "シドニー近郊の地名 Rose Hill（ローズ・ヒル）に由来するとされる。食用植物のローゼル（roselle）とは別。"
+    ],
+    "etym_note": "シドニー近郊の入植地 Rose Hill（ローズ・ヒル、Rosehiller → rosella）に由来するとされます。その地で見られた美しいインコにちなんで名づけられました。",
+    "etym_chain": [
+      { "node": "Rose Hill", "sub": "ローズ・ヒル（地名）", "era": "18世紀豪英語" },
+      { "node": "rosehiller", "sub": "ローズ・ヒルの鳥", "era": "初期豪英語" },
+      { "node": "rosella", "sub": "ロゼラ", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a crimson rosella", "ja": "アカクサインコ（深紅のロゼラ）" },
+      { "en": "an eastern rosella", "ja": "ナナクサインコ（東部のロゼラ）" },
+      { "en": "a colorful rosella", "ja": "色鮮やかなロゼラ" },
+      { "en": "a flock of rosellas", "ja": "ロゼラの群れ" },
+      { "en": "feed the rosellas", "ja": "ロゼラに餌をやる" },
+      { "en": "a rosella in the garden", "ja": "庭のロゼラ" }
+    ],
+    "related": [
+      { "en": "parrot", "ja": "オウム・インコ" },
+      { "en": "parakeet", "ja": "小型インコ" },
+      { "en": "cockatoo", "ja": "オウム（冠羽のある）" },
+      { "en": "plumage", "ja": "羽毛" }
+    ],
+    "faq": [
+      { "q": "rosella とはどんな意味？", "a": "オーストラリア原産の、赤・青・黄など色鮮やかな中型のインコ『ロゼラ』のことです。A crimson rosella landed on the feeder.（深紅のロゼラが餌台にとまった）のように使います。" },
+      { "q": "rosella の名前の由来は？", "a": "シドニー近郊の入植地 Rose Hill（ローズ・ヒル）で見られた美しいインコ『Rose Hiller』が変化して rosella になったとされます。" }
+    ],
+    "quiz": [
+      { "q": "A crimson ___ landed on the feeder.（ロゼラ）", "A": "rosella", "B": "umbrella の傘", "C": "vanilla のバニラ", "D": "gorilla のゴリラ", "correct": "A" },
+      { "q": "rosella はどこ原産の鳥？", "A": "オーストラリア", "B": "南極", "C": "サハラ砂漠", "D": "北極", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ratline",
+    "pron": "ˈrætlɪn",
+    "kana": "ラットリン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "由来不確か（rat 連想で綴りが変化）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "船・海事"],
+    "meaning_main": "ラットライン（帆船の横静索＝縄ばしご）",
+    "description": "ratline の意味・発音・例文・語源を解説。帆船で、マストへ登るために横静索（シュラウド）に渡した縄の段「ラットライン」という、海事で使う語の使い方を紹介します。",
+    "keywords": ["ratline 意味", "ratline 発音", "ラットライン", "縄ばしご"],
+    "meanings": [
+      { "hinshi": "【名詞】ラットライン（横静索）", "note": "帆船で、マストを支える静索（shrouds）の間に水平に渡された細い縄。船員がマストへ登るための縄ばしごの段になる。通常 ratlines と複数で使う。発音はラットリン。" }
+    ],
+    "usages": [
+      { "title": "① 「縄ばしごの段」として", "desc": "登るための横縄を表します。", "example_en": "The sailor climbed the ratlines to the masthead.", "example_ja": "船員はラットラインを登ってマストの先端へ向かった。" },
+      { "title": "② 「索具」として", "desc": "帆船の装具を表します。", "example_en": "The ratlines were tarred to protect them from the weather.", "example_ja": "ラットラインは風雨から守るためタールが塗られていた。" }
+    ],
+    "warn": [
+      "ratline は『ラットライン（帆船の横静索＝縄ばしごの段）』。通常 ratlines と複数。発音はラットリン（rat-line ではない）。",
+      "比喩のラットライン（戦後の逃亡経路）とは別だが、綴りは同じ。"
+    ],
+    "etym_note": "もとは ratling / radeling などの形で、確かな語源は不明です。のちに rat（ネズミ）＋ line（綱）と連想して綴りが ratline に変化しました（実際にネズミとは無関係）。",
+    "etym_chain": [
+      { "node": "ratling", "sub": "横静索（古形）", "era": "中英語" },
+      { "node": "ratline", "sub": "rat＋line と再解釈", "era": "近代英語" },
+      { "node": "ratlines", "sub": "ラットライン", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "climb the ratlines", "ja": "ラットラインを登る" },
+      { "en": "the ship's ratlines", "ja": "船のラットライン" },
+      { "en": "tarred ratlines", "ja": "タールを塗ったラットライン" },
+      { "en": "up the ratlines", "ja": "ラットラインを上って" },
+      { "en": "rope ratlines", "ja": "縄のラットライン" },
+      { "en": "the ratlines of the shrouds", "ja": "静索のラットライン" }
+    ],
+    "related": [
+      { "en": "shroud", "ja": "（船の）静索・シュラウド" },
+      { "en": "rigging", "ja": "索具・帆装" },
+      { "en": "mast", "ja": "マスト・帆柱" },
+      { "en": "halyard", "ja": "揚げ綱・ハリヤード" }
+    ],
+    "faq": [
+      { "q": "ratline とはどんな意味？", "a": "帆船で、マストを支える静索の間に水平に渡された細い縄『ラットライン』のことです。船員がマストへ登る縄ばしごの段になります。The sailor climbed the ratlines.（船員はラットラインを登った）のように、通常 ratlines と複数で使います。" },
+      { "q": "ratline はネズミと関係ある？", "a": "実際には無関係です。古い形 ratling が、のちに rat（ネズミ）＋ line（綱）と連想されて ratline と綴られるようになっただけで、語源的にネズミとはつながりません。" }
+    ],
+    "quiz": [
+      { "q": "The sailor climbed the ___s to the masthead.（ラットライン）", "A": "ratline", "B": "outline の輪郭", "C": "deadline の締め切り", "D": "hotline のホットライン", "correct": "A" },
+      { "q": "ratline は船のどんな部分？", "A": "マストに登るための縄ばしごの段", "B": "船の錨", "C": "船の舵", "D": "船の帆そのもの", "correct": "A" }
+    ]
+  },
+  {
+    "english": "redbrick",
+    "pron": "ˈrɛdbrɪk",
+    "kana": "レッドブリック",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "red（赤い）＋ brick（れんが）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "教育・英国"],
+    "meaning_main": "（英）赤れんが大学（の）・19〜20世紀創立の地方大学",
+    "description": "redbrick の意味・発音・例文・語源を解説。イギリスで19〜20世紀初頭に各都市に設立された大学群「赤れんが大学」という、教育で使う語の使い方を紹介します。",
+    "keywords": ["redbrick 意味", "redbrick 発音", "赤れんが大学", "イギリス 大学"],
+    "meanings": [
+      { "hinshi": "【形容詞】（英）赤れんが大学の", "note": "イギリスで、19〜20世紀初頭に産業都市に設立された比較的新しい大学（マンチェスター、バーミンガムなど）を指す。校舎の赤れんが造りにちなむ。" },
+      { "hinshi": "【名詞】赤れんが大学", "note": "オックスフォード・ケンブリッジ（古い石造の大学）と対比される。" }
+    ],
+    "usages": [
+      { "title": "① 「大学の分類」として", "desc": "新しい地方大学を表します。", "example_en": "She studied engineering at a redbrick university.", "example_ja": "彼女は赤れんが大学で工学を学んだ。" },
+      { "title": "② 「対比」として", "desc": "古い大学との違いを表します。", "example_en": "Redbrick universities contrasted with ancient Oxbridge.", "example_ja": "赤れんが大学は古いオックスブリッジと対照をなした。" }
+    ],
+    "warn": [
+      "redbrick は『（英）赤れんが大学（の）』。19〜20世紀初頭に産業都市へ設立された大学群を指す英国特有の語。",
+      "古い石造のオックスフォード・ケンブリッジ（Oxbridge）と対比される。"
+    ],
+    "etym_note": "red（『赤い』）＋ brick（『れんが』）から成り、これらの大学のヴィクトリア朝風の赤れんが校舎にちなみます。古い石造のオックスブリッジと区別する語として20世紀に広まりました。",
+    "etym_chain": [
+      { "node": "red + brick", "sub": "赤い＋れんが", "era": "英語" },
+      { "node": "redbrick", "sub": "赤れんが造りの", "era": "近代英語" },
+      { "node": "redbrick", "sub": "赤れんが大学（の）", "era": "20世紀英語" }
+    ],
+    "phrases": [
+      { "en": "a redbrick university", "ja": "赤れんが大学" },
+      { "en": "study at a redbrick", "ja": "赤れんが大学で学ぶ" },
+      { "en": "redbrick institutions", "ja": "赤れんが系の大学" },
+      { "en": "a redbrick degree", "ja": "赤れんが大学の学位" },
+      { "en": "the redbrick tradition", "ja": "赤れんが大学の伝統" },
+      { "en": "redbrick and Oxbridge", "ja": "赤れんが大学とオックスブリッジ" }
+    ],
+    "related": [
+      { "en": "Oxbridge", "ja": "オックスブリッジ" },
+      { "en": "university", "ja": "大学" },
+      { "en": "campus", "ja": "キャンパス" },
+      { "en": "alma mater", "ja": "母校" }
+    ],
+    "faq": [
+      { "q": "redbrick とはどんな意味？", "a": "イギリスで19〜20世紀初頭に産業都市へ設立された比較的新しい大学群『赤れんが大学』を指します。校舎の赤れんが造りにちなみます。She studied at a redbrick university.（赤れんが大学で学んだ）のように使います。" },
+      { "q": "redbrick と Oxbridge の違いは？", "a": "Oxbridge は古い石造のオックスフォード・ケンブリッジ、redbrick は産業革命期以降に各都市へできた新しい赤れんが造りの大学です。両者を対比して語られます。" }
+    ],
+    "quiz": [
+      { "q": "She studied engineering at a ___ university.（赤れんが大学）", "A": "redbrick", "B": "redhead の赤毛", "C": "redwood のセコイア", "D": "redneck の田舎者", "correct": "A" },
+      { "q": "redbrick 大学と対比されるのはどれ？", "A": "Oxbridge（オックスブリッジ）", "B": "幼稚園", "C": "専門学校のみ", "D": "図書館", "correct": "A" }
+    ]
+  }
+]

@@ -1,0 +1,525 @@
+[
+  {
+    "english": "refasten",
+    "pron": "ˌriːˈfɑːsən",
+    "kana": "リファースン",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ fasten（留める・固定する）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "一般"],
+    "meaning_main": "再び留める・締め直す",
+    "description": "refasten の意味・発音・例文・語源を解説。ベルトやボタン、シートベルトなどを「再び留める・締め直す」という語の使い方を例文とともに紹介します。",
+    "keywords": ["refasten 意味", "refasten 発音", "締め直す", "fasten 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再び留める・締め直す", "note": "一度外したものをもう一度しっかり留める。refasten the seatbelt（シートベルトを締め直す）。" }
+    ],
+    "usages": [
+      { "title": "① 「シートベルトを締め直す」として", "desc": "もう一度しっかり留めることを表します。", "example_en": "Please refasten your seatbelt during turbulence.", "example_ja": "乱気流の間はシートベルトを締め直してください。" },
+      { "title": "② 「ボタンを留め直す」として", "desc": "外れたものを再び留めることを表します。", "example_en": "He refastened the top button of his shirt.", "example_ja": "彼はシャツの一番上のボタンを留め直した。" }
+    ],
+    "warn": [
+      "refasten は『再び留める・締め直す』。re-（再び）＋ fasten。",
+      "fasten の t は発音しない（ファースン）。refasten も同様。"
+    ],
+    "etym_note": "re-（再び）＋ fasten（『留める』、古英語 fæstnian「固定する」、fæst「堅い・しっかりした」より）から成り、「再びしっかり留めること」を意味します。fast（速い／しっかり固定された）と同じ語根です。",
+    "etym_chain": [
+      { "node": "fæstnian", "sub": "固定する", "era": "古英語" },
+      { "node": "fasten", "sub": "留める・固定する", "era": "中英語" },
+      { "node": "refasten", "sub": "再び留める", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "refasten the seatbelt", "ja": "シートベルトを締め直す" },
+      { "en": "refasten the button", "ja": "ボタンを留め直す" },
+      { "en": "refasten the strap", "ja": "ストラップを締め直す" },
+      { "en": "refasten the lid", "ja": "ふたを締め直す" },
+      { "en": "refasten securely", "ja": "しっかり留め直す" },
+      { "en": "refasten the buckle", "ja": "バックルを留め直す" }
+    ],
+    "related": [
+      { "en": "fasten", "ja": "留める・固定する" },
+      { "en": "unfasten", "ja": "外す・緩める" },
+      { "en": "buckle", "ja": "留め金で締める" },
+      { "en": "secure", "ja": "固定する・確保する" }
+    ],
+    "faq": [
+      { "q": "refasten とはどんな意味？", "a": "一度外したベルトやボタンなどを『再び留める・締め直す』という意味です。Please refasten your seatbelt.（シートベルトを締め直してください）のように使います。" },
+      { "q": "refasten と unfasten の違いは？", "a": "unfasten は『外す・緩める』、refasten は『再び留める・締め直す』で正反対の動作を表します。fasten（留める）が共通の語根です。" }
+    ],
+    "quiz": [
+      { "q": "Please ___ your seatbelt during turbulence.（締め直す）", "A": "refasten", "B": "unfasten の外す", "C": "fasten の最初に留めるだけ", "D": "hasten の急ぐ", "correct": "A" },
+      { "q": "refasten のもとになった動詞はどれ？", "A": "fasten（留める・固定する）", "B": "hasten（急ぐ）", "C": "flatten（平らにする）", "D": "fatten（太らせる）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "refurnish",
+    "pron": "ˌriːˈfɜːnɪʃ",
+    "kana": "リファーニッシュ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ furnish（家具を備え付ける）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "住まい・生活"],
+    "meaning_main": "家具を入れ替える・備品を一新する",
+    "description": "refurnish の意味・発音・例文・語源を解説。部屋や家の「家具を入れ替える・備品を一新する」という、住まいや生活で使う語の使い方を紹介します。",
+    "keywords": ["refurnish 意味", "refurnish 発音", "家具を一新する", "furnish 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】家具を入れ替える・備品を一新する", "note": "古い家具を新しいものに替える。refurnish the apartment（アパートの家具を一新する）。" }
+    ],
+    "usages": [
+      { "title": "① 「家具を一新する」として", "desc": "家具を新しく備え直すことを表します。", "example_en": "They refurnished the entire apartment after moving in.", "example_ja": "彼らは引っ越し後、アパート全体の家具を一新した。" },
+      { "title": "② 「ホテルを改装する」として", "desc": "備品を入れ替えることを表します。", "example_en": "The hotel was refurnished with antique pieces.", "example_ja": "そのホテルはアンティーク家具で備品を一新された。" }
+    ],
+    "warn": [
+      "refurnish は『家具・備品を一新する』。re-（再び）＋ furnish。",
+      "refurbish（改装する・一新する）と混同しやすいが、refurnish は特に『家具・調度』に焦点がある。"
+    ],
+    "etym_note": "re-（再び）＋ furnish（『備え付ける』、古フランス語 furnir「成し遂げる・供給する」より）から成り、「再び（家具を）備え付けること」を意味します。furniture（家具）と同じ語根です。",
+    "etym_chain": [
+      { "node": "furnir", "sub": "供給する", "era": "古フランス語" },
+      { "node": "furnish", "sub": "家具を備え付ける", "era": "中英語" },
+      { "node": "refurnish", "sub": "家具を一新する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "refurnish the apartment", "ja": "アパートの家具を一新する" },
+      { "en": "refurnish the office", "ja": "オフィスの備品を入れ替える" },
+      { "en": "refurnish the room", "ja": "部屋の家具を一新する" },
+      { "en": "fully refurnish", "ja": "全面的に家具を入れ替える" },
+      { "en": "refurnish the house", "ja": "家の家具を一新する" },
+      { "en": "refurnish in modern style", "ja": "現代風に家具を一新する" }
+    ],
+    "related": [
+      { "en": "furnish", "ja": "家具を備え付ける" },
+      { "en": "furniture", "ja": "家具" },
+      { "en": "refurbish", "ja": "改装する・一新する" },
+      { "en": "redecorate", "ja": "模様替えする" }
+    ],
+    "faq": [
+      { "q": "refurnish とはどんな意味？", "a": "部屋や家の『家具を入れ替える・備品を一新する』という意味です。They refurnished the entire apartment.（アパート全体の家具を一新した）のように使います。" },
+      { "q": "refurnish と refurbish の違いは？", "a": "refurnish は『家具・調度を新しくする』、refurbish は『（建物や物を）改装して全体を一新する』点に重点があります。発音もファーニッシュとファービッシュで異なります。" }
+    ],
+    "quiz": [
+      { "q": "They ___ed the entire apartment after moving in.（家具を一新した）", "A": "refurnish", "B": "furnish の最初に備えるだけ", "C": "furious の激怒した", "D": "finish の終える", "correct": "A" },
+      { "q": "refurnish のもとになった動詞はどれ？", "A": "furnish（家具を備え付ける）", "B": "finish（終える）", "C": "flourish（栄える）", "D": "furnace（炉）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "regrade",
+    "pron": "ˌriːˈɡreɪd",
+    "kana": "リグレイド",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ grade（評価する・等級をつける・地ならしする）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "教育・土木"],
+    "meaning_main": "再評価する・採点し直す・地ならしし直す",
+    "description": "regrade の意味・発音・例文・語源を解説。答案を「採点し直す」、等級を「つけ直す」、土地を「地ならしし直す」という、教育・土木で使う語の使い方を紹介します。",
+    "keywords": ["regrade 意味", "regrade 発音", "採点し直す", "grade 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】採点し直す・等級をつけ直す", "note": "答案や品物を再び評価・格付けする。regrade the exam（試験を採点し直す）。" },
+      { "hinshi": "【動詞】地ならしし直す", "note": "土木で、土地の傾斜・高さを再び調整する。regrade the slope（斜面を整地し直す）。" }
+    ],
+    "usages": [
+      { "title": "① 教育「採点し直す」として", "desc": "答案を再評価することを表します。", "example_en": "The teacher agreed to regrade the disputed answers.", "example_ja": "先生は異議のあった解答を採点し直すことに同意した。" },
+      { "title": "② 土木「地ならしし直す」として", "desc": "土地の傾斜を整え直すことを表します。", "example_en": "The contractor regraded the lot to improve drainage.", "example_ja": "業者は排水を良くするため土地を地ならしし直した。" }
+    ],
+    "warn": [
+      "regrade は『採点し直す／格付けし直す／地ならしし直す』。re-（再び）＋ grade。",
+      "grade は『成績・等級』と『勾配・地ならし』の両方の意味があり、regrade も両方に対応する。"
+    ],
+    "etym_note": "re-（再び）＋ grade（『等級・段階』、ラテン語 gradus「歩み・段階」、gradi「歩く」より）から成り、「再び段階づけ・等級づけすること」を意味します。gradual（段階的な）や grade と同じ語根です。",
+    "etym_chain": [
+      { "node": "gradus", "sub": "歩み・段階", "era": "ラテン語" },
+      { "node": "grade", "sub": "等級・地ならし", "era": "近代英語" },
+      { "node": "regrade", "sub": "採点し直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "regrade the exam", "ja": "試験を採点し直す" },
+      { "en": "regrade the papers", "ja": "答案を採点し直す" },
+      { "en": "regrade the slope", "ja": "斜面を整地し直す" },
+      { "en": "regrade the road", "ja": "道路を地ならしし直す" },
+      { "en": "request a regrade", "ja": "再採点を求める" },
+      { "en": "regrade the product", "ja": "製品を格付けし直す" }
+    ],
+    "related": [
+      { "en": "grade", "ja": "評価する・地ならしする" },
+      { "en": "remark", "ja": "（英）採点し直す" },
+      { "en": "reassess", "ja": "再評価する" },
+      { "en": "level", "ja": "水平にする" }
+    ],
+    "faq": [
+      { "q": "regrade とはどんな意味？", "a": "答案を『採点し直す』、品物を『格付けし直す』、土地を『地ならしし直す』という意味です。The teacher agreed to regrade the answers.（解答を採点し直すことに同意した）のように使います。" },
+      { "q": "regrade はどんな分野で使う？", "a": "教育（再採点）、商業（再格付け）、土木（再整地）の三つの分野でよく使われます。grade の二つの意味を反映しています。" }
+    ],
+    "quiz": [
+      { "q": "The teacher agreed to ___ the disputed answers.（採点し直す）", "A": "regrade", "B": "grade の最初に採点するだけ", "C": "upgrade の格上げする", "D": "degrade の品位を下げる", "correct": "A" },
+      { "q": "regrade のもとになった語はどれ？", "A": "grade（等級・地ならし）", "B": "grace（優美）", "C": "grain（穀物）", "D": "grasp（つかむ）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reimpose",
+    "pron": "ˌriːɪmˈpəʊz",
+    "kana": "リインポーズ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ impose（課す・押し付ける）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "政治・ニュース"],
+    "meaning_main": "再び課す・再導入する",
+    "description": "reimpose の意味・発音・例文・語源を解説。税や規制、制裁などを「再び課す・再導入する」という、政治やニュースで使う語の使い方を紹介します。",
+    "keywords": ["reimpose 意味", "reimpose 発音", "再び課す", "impose 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再び課す・再導入する", "note": "一度解除した税・規制・制裁などを再び設ける。reimpose sanctions（制裁を再び課す）。名詞は reimposition。" }
+    ],
+    "usages": [
+      { "title": "① 「制裁を再び課す」として", "desc": "解除した措置を再び設けることを表します。", "example_en": "The government threatened to reimpose sanctions.", "example_ja": "政府は制裁を再び課すと警告した。" },
+      { "title": "② 「規制を再導入する」として", "desc": "ルールを再び設けることを表します。", "example_en": "Authorities reimposed travel restrictions during the outbreak.", "example_ja": "当局は流行中、渡航制限を再導入した。" }
+    ],
+    "warn": [
+      "reimpose は『再び課す・再導入する』。re-（再び）＋ impose。名詞は reimposition。",
+      "税・規制・制裁・締め切りなど『義務として課すもの』に使う。"
+    ],
+    "etym_note": "re-（再び）＋ impose（『課す・押し付ける』、ラテン語 imponere「上に置く」、in-「上に」＋ ponere「置く」より）から成り、「再び（上に）課すこと」を意味します。position（位置）と同じ語根です。",
+    "etym_chain": [
+      { "node": "imponere", "sub": "上に置く", "era": "ラテン語" },
+      { "node": "impose", "sub": "課す・押し付ける", "era": "近代英語" },
+      { "node": "reimpose", "sub": "再び課す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reimpose sanctions", "ja": "制裁を再び課す" },
+      { "en": "reimpose restrictions", "ja": "規制を再導入する" },
+      { "en": "reimpose a tax", "ja": "税を再び課す" },
+      { "en": "reimpose a curfew", "ja": "外出禁止令を再び出す" },
+      { "en": "reimpose tariffs", "ja": "関税を再び課す" },
+      { "en": "reimpose controls", "ja": "統制を再び敷く" }
+    ],
+    "related": [
+      { "en": "impose", "ja": "課す・押し付ける" },
+      { "en": "reimposition", "ja": "再賦課・再導入" },
+      { "en": "lift", "ja": "（規制を）解除する" },
+      { "en": "enforce", "ja": "施行する" }
+    ],
+    "faq": [
+      { "q": "reimpose とはどんな意味？", "a": "一度解除した税・規制・制裁などを『再び課す・再導入する』という意味です。The government threatened to reimpose sanctions.（制裁を再び課すと警告した）のように使います。名詞は reimposition です。" },
+      { "q": "reimpose と lift の関係は？", "a": "lift は『（規制・制裁を）解除する』、reimpose は『再び課す』で対になる動きです。「lift then reimpose（解除して再び課す）」のように使われます。" }
+    ],
+    "quiz": [
+      { "q": "The government threatened to ___ sanctions.（再び課す）", "A": "reimpose", "B": "impose の最初に課すだけ", "C": "improve の改善する", "D": "import の輸入する", "correct": "A" },
+      { "q": "reimpose のもとになった動詞はどれ？", "A": "impose（課す・押し付ける）", "B": "import（輸入する）", "C": "improve（改善する）", "D": "imply（ほのめかす）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reincorporate",
+    "pron": "ˌriːɪnˈkɔːpəreɪt",
+    "kana": "リインコーポレイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ incorporate（組み込む・法人化する）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "ビジネス・文章"],
+    "meaning_main": "再び組み込む・再び法人化する",
+    "description": "reincorporate の意味・発音・例文・語源を解説。要素を「再び組み込む」、会社を「別の州で再び法人化する」という、文章やビジネスで使う語の使い方を紹介します。",
+    "keywords": ["reincorporate 意味", "reincorporate 発音", "再び組み込む", "incorporate 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再び組み込む・再び取り入れる", "note": "一度外した要素を再び全体に入れる。reincorporate the feedback（意見を再び取り入れる）。" },
+      { "hinshi": "【動詞】再び法人化する", "note": "会社を改めて（別の州・国などで）法人登記する。" }
+    ],
+    "usages": [
+      { "title": "① 「再び組み込む」として", "desc": "要素を再び取り入れることを表します。", "example_en": "The editor reincorporated the deleted paragraph.", "example_ja": "編集者は削除した段落を再び組み込んだ。" },
+      { "title": "② ビジネス「再び法人化する」として", "desc": "会社を改めて登記することを表します。", "example_en": "The firm reincorporated in Delaware for tax reasons.", "example_ja": "その会社は税務上の理由でデラウェア州で再び法人化した。" }
+    ],
+    "warn": [
+      "reincorporate は『再び組み込む／再び法人化する』。re-（再び）＋ incorporate。",
+      "incorporate は『取り入れる・組み込む』と『法人化する』の両方の意味があり、reincorporate も両方に対応する。"
+    ],
+    "etym_note": "re-（再び）＋ incorporate（『一体化する・組み込む』、ラテン語 incorporare、in-「中へ」＋ corpus「体」より）から成り、「再び一つの体に取り込むこと」を意味します。corps（軍団）や corpse（死体）と同じ語根です。",
+    "etym_chain": [
+      { "node": "incorporare", "sub": "体に取り込む", "era": "ラテン語" },
+      { "node": "incorporate", "sub": "組み込む・法人化する", "era": "近代英語" },
+      { "node": "reincorporate", "sub": "再び組み込む", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reincorporate the feedback", "ja": "意見を再び取り入れる" },
+      { "en": "reincorporate the changes", "ja": "変更を再び組み込む" },
+      { "en": "reincorporate the section", "ja": "その項目を再び組み込む" },
+      { "en": "reincorporate in Delaware", "ja": "デラウェアで再び法人化する" },
+      { "en": "reincorporate the data", "ja": "データを再び取り込む" },
+      { "en": "reincorporate elements", "ja": "要素を再び取り入れる" }
+    ],
+    "related": [
+      { "en": "incorporate", "ja": "組み込む・法人化する" },
+      { "en": "integrate", "ja": "統合する" },
+      { "en": "merge", "ja": "合併する" },
+      { "en": "include", "ja": "含める" }
+    ],
+    "faq": [
+      { "q": "reincorporate とはどんな意味？", "a": "要素を『再び組み込む・取り入れる』、または会社を『再び法人化する』という意味です。The editor reincorporated the deleted paragraph.（削除した段落を再び組み込んだ）のように使います。" },
+      { "q": "会社の reincorporate とは？", "a": "会社を別の州や国で改めて法人登記し直すことを指します。米国では税制や法制度の有利な州（例：デラウェア州）へ reincorporate することがあります。" }
+    ],
+    "quiz": [
+      { "q": "The editor ___d the deleted paragraph.（再び組み込んだ）", "A": "reincorporate", "B": "incorporate の最初に組み込むだけ", "C": "incorrect の間違った", "D": "increase の増やす", "correct": "A" },
+      { "q": "reincorporate のもとになった動詞はどれ？", "A": "incorporate（組み込む・法人化する）", "B": "increase（増やす）", "C": "incline（傾く）", "D": "include（含める）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reinitiate",
+    "pron": "ˌriːɪˈnɪʃieɪt",
+    "kana": "リイニシエイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ initiate（始める・開始する）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "ビジネス・IT"],
+    "meaning_main": "再び開始する・再開する",
+    "description": "reinitiate の意味・発音・例文・語源を解説。手続きやプロセスを「再び開始する・改めて始める」という、ビジネスやITで使う語の使い方を紹介します。",
+    "keywords": ["reinitiate 意味", "reinitiate 発音", "再開始する", "initiate 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再び開始する・改めて始める", "note": "中断した手続き・プロセスを再び立ち上げる。reinitiate the process（プロセスを再開始する）。" }
+    ],
+    "usages": [
+      { "title": "① 「手続きを再開始する」として", "desc": "改めて始めることを表します。", "example_en": "They reinitiated the negotiation after a long pause.", "example_ja": "彼らは長い中断のあと交渉を再開始した。" },
+      { "title": "② IT「処理を再起動する」として", "desc": "プロセスを再び立ち上げることを表します。", "example_en": "The system reinitiated the failed transfer.", "example_ja": "システムは失敗した転送を再び開始した。" }
+    ],
+    "warn": [
+      "reinitiate は『再び開始する・改めて始める』。re-（再び）＋ initiate。",
+      "resume（中断した所から再開）と違い、reinitiate は『初めから手続きを立ち上げ直す』ニュアンスが強い。"
+    ],
+    "etym_note": "re-（再び）＋ initiate（『始める』、ラテン語 initiare「始める」、initium「始まり」、in-「中へ」＋ ire「行く」より）から成り、「再び始めること」を意味します。initial（最初の）と同じ語根です。",
+    "etym_chain": [
+      { "node": "initiare", "sub": "始める", "era": "ラテン語" },
+      { "node": "initiate", "sub": "始める・開始する", "era": "近代英語" },
+      { "node": "reinitiate", "sub": "再び開始する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reinitiate the process", "ja": "プロセスを再開始する" },
+      { "en": "reinitiate negotiations", "ja": "交渉を再開始する" },
+      { "en": "reinitiate the procedure", "ja": "手続きを再び始める" },
+      { "en": "reinitiate contact", "ja": "再び連絡を取り始める" },
+      { "en": "reinitiate the transfer", "ja": "転送を再び開始する" },
+      { "en": "reinitiate the request", "ja": "要求を再び出す" }
+    ],
+    "related": [
+      { "en": "initiate", "ja": "始める・開始する" },
+      { "en": "restart", "ja": "再起動する" },
+      { "en": "resume", "ja": "再開する" },
+      { "en": "relaunch", "ja": "再開する・再発売する" }
+    ],
+    "faq": [
+      { "q": "reinitiate とはどんな意味？", "a": "中断した手続きやプロセスを『再び開始する・改めて始める』という意味です。They reinitiated the negotiation.（交渉を再開始した）のように使います。" },
+      { "q": "reinitiate と resume の違いは？", "a": "resume は『（中断した所から）再開する』、reinitiate は『（手続き全体を）改めて立ち上げ直す』点に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "They ___d the negotiation after a long pause.（再開始した）", "A": "reinitiate", "B": "initiate の最初に始めるだけ", "C": "imitate の真似る", "D": "irritate のいらだたせる", "correct": "A" },
+      { "q": "reinitiate のもとになった動詞はどれ？", "A": "initiate（始める・開始する）", "B": "imitate（真似る）", "C": "irritate（いらだたせる）", "D": "indicate（示す）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "remeasure",
+    "pron": "ˌriːˈmɛʒə",
+    "kana": "リメジャー",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ measure（測る・計測する）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "一般・科学"],
+    "meaning_main": "再び測る・測り直す",
+    "description": "remeasure の意味・発音・例文・語源を解説。寸法や数値を「再び測る・測り直す」という、工作や科学で使う語の使い方を例文とともに紹介します。",
+    "keywords": ["remeasure 意味", "remeasure 発音", "測り直す", "measure 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再び測る・測り直す", "note": "正確を期して再度計測する。remeasure the room（部屋を測り直す）。" }
+    ],
+    "usages": [
+      { "title": "① 「寸法を測り直す」として", "desc": "再度正確に測ることを表します。", "example_en": "Always remeasure before you cut the wood.", "example_ja": "木を切る前に必ず測り直しなさい。" },
+      { "title": "② 科学「再計測する」として", "desc": "数値を再び測ることを表します。", "example_en": "The scientists remeasured the sample to confirm the result.", "example_ja": "科学者たちは結果を確認するため試料を再計測した。" }
+    ],
+    "warn": [
+      "remeasure は『再び測る・測り直す』。re-（再び）＋ measure。",
+      "『測ってから切れ（Measure twice, cut once）』の精神で、工作では remeasure が大切。"
+    ],
+    "etym_note": "re-（再び）＋ measure（『測る』、ラテン語 mensura「測定」、metiri「測る」より）から成り、「再び測ること」を意味します。dimension（寸法）や immense（巨大な）と同じ語根です。",
+    "etym_chain": [
+      { "node": "mensura", "sub": "測定", "era": "ラテン語" },
+      { "node": "measure", "sub": "測る・計測する", "era": "中英語" },
+      { "node": "remeasure", "sub": "測り直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "remeasure the room", "ja": "部屋を測り直す" },
+      { "en": "remeasure the length", "ja": "長さを測り直す" },
+      { "en": "remeasure the sample", "ja": "試料を再計測する" },
+      { "en": "remeasure carefully", "ja": "慎重に測り直す" },
+      { "en": "remeasure the distance", "ja": "距離を測り直す" },
+      { "en": "remeasure to confirm", "ja": "確認のため測り直す" }
+    ],
+    "related": [
+      { "en": "measure", "ja": "測る・計測する" },
+      { "en": "measurement", "ja": "測定・寸法" },
+      { "en": "recalculate", "ja": "計算し直す" },
+      { "en": "recheck", "ja": "再点検する" }
+    ],
+    "faq": [
+      { "q": "remeasure とはどんな意味？", "a": "寸法や数値を『再び測る・測り直す』という意味です。Always remeasure before you cut.（切る前に必ず測り直しなさい）のように使います。" },
+      { "q": "remeasure はなぜ大切？", "a": "工作や工事では『Measure twice, cut once（二度測って一度で切る）』と言われ、ミスを防ぐために remeasure（測り直し）が重視されます。" }
+    ],
+    "quiz": [
+      { "q": "Always ___ before you cut the wood.（測り直す）", "A": "remeasure", "B": "measure の最初に測るだけ", "C": "treasure の宝", "D": "pleasure の喜び", "correct": "A" },
+      { "q": "remeasure のもとになった動詞はどれ？", "A": "measure（測る・計測する）", "B": "treasure（大切にする）", "C": "pressure（圧力をかける）", "D": "pleasure（喜ばせる）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "renominate",
+    "pron": "ˌriːˈnɒmɪneɪt",
+    "kana": "リノミネイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ nominate（指名する・推薦する）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "政治・ニュース"],
+    "meaning_main": "再指名する・再び候補に立てる",
+    "description": "renominate の意味・発音・例文・語源を解説。候補者を「再指名する・再び候補に立てる」という、政治や選挙で使う語の使い方を紹介します。",
+    "keywords": ["renominate 意味", "renominate 発音", "再指名する", "nominate 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再指名する・再び候補に立てる", "note": "現職者などを再び候補・候補者として指名する。renominate the president（大統領を再指名する）。名詞は renomination。" }
+    ],
+    "usages": [
+      { "title": "① 「候補者を再指名する」として", "desc": "再び候補に立てることを表します。", "example_en": "The party renominated the incumbent for another term.", "example_ja": "党は現職をもう一期、再指名した。" },
+      { "title": "② 「役職に再指名する」として", "desc": "再び任命候補とすることを表します。", "example_en": "The president was renominated to the supreme court.", "example_ja": "その人物は最高裁判事に再指名された。" }
+    ],
+    "warn": [
+      "renominate は『再指名する・再び候補に立てる』。re-（再び）＋ nominate。名詞は renomination。",
+      "選挙・任命・受賞候補など『指名・推薦』の文脈で使う。"
+    ],
+    "etym_note": "re-（再び）＋ nominate（『指名する』、ラテン語 nominare「名づける・指名する」、nomen「名前」より）から成り、「再び名指しすること」を意味します。name（名前）や noun（名詞）と同じ語根です。",
+    "etym_chain": [
+      { "node": "nominare", "sub": "名づける・指名する", "era": "ラテン語" },
+      { "node": "nominate", "sub": "指名する・推薦する", "era": "近代英語" },
+      { "node": "renominate", "sub": "再指名する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "renominate the incumbent", "ja": "現職を再指名する" },
+      { "en": "renominate the candidate", "ja": "候補者を再指名する" },
+      { "en": "renominate for another term", "ja": "もう一期、再指名する" },
+      { "en": "be renominated", "ja": "再指名される" },
+      { "en": "renominate the chairman", "ja": "議長を再指名する" },
+      { "en": "vote to renominate", "ja": "再指名を採決する" }
+    ],
+    "related": [
+      { "en": "nominate", "ja": "指名する・推薦する" },
+      { "en": "renomination", "ja": "再指名" },
+      { "en": "reelect", "ja": "再選する" },
+      { "en": "incumbent", "ja": "現職の（人）" }
+    ],
+    "faq": [
+      { "q": "renominate とはどんな意味？", "a": "候補者や現職者を『再指名する・再び候補に立てる』という意味です。The party renominated the incumbent.（党は現職を再指名した）のように使います。名詞は renomination です。" },
+      { "q": "renominate と reelect の違いは？", "a": "renominate は『（選挙の前に）再び候補として指名する』、reelect は『（投票で）再び選ぶ・再選する』点で段階が異なります。" }
+    ],
+    "quiz": [
+      { "q": "The party ___d the incumbent for another term.（再指名した）", "A": "renominate", "B": "nominate の最初に指名するだけ", "C": "dominate の支配する", "D": "eliminate の除く", "correct": "A" },
+      { "q": "renominate のもとになった動詞はどれ？", "A": "nominate（指名する・推薦する）", "B": "dominate（支配する）", "C": "eliminate（除く）", "D": "designate（指定する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "renormalize",
+    "pron": "ˌriːˈnɔːməlaɪz",
+    "kana": "リノーマライズ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ normalize（正常化する・標準化する）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "科学・専門"],
+    "meaning_main": "再び正常化する・再規格化する",
+    "description": "renormalize の意味・発音・例文・語源を解説。状態を「再び正常に戻す」、物理や数学で数値を「再規格化する」という、科学・専門で使う語の使い方を紹介します。",
+    "keywords": ["renormalize 意味", "renormalize 発音", "再正常化する", "normalize 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再び正常化する・元に戻す", "note": "乱れた状態を再び正常な状態に戻す。renormalize relations（関係を再び正常化する）。" },
+      { "hinshi": "【動詞】再規格化する", "note": "物理学・数学で、量を再び基準に合わせて調整する。renormalization は『くりこみ』。" }
+    ],
+    "usages": [
+      { "title": "① 「関係を再び正常化する」として", "desc": "正常な状態に戻すことを表します。", "example_en": "The two countries sought to renormalize diplomatic ties.", "example_ja": "両国は外交関係を再び正常化しようとした。" },
+      { "title": "② 物理「再規格化する」として", "desc": "量を基準に合わせ直すことを表します。", "example_en": "Physicists renormalize the equations to remove infinities.", "example_ja": "物理学者は無限大を取り除くため方程式を再規格化する。" }
+    ],
+    "warn": [
+      "renormalize は『再び正常化する／再規格化する』。re-（再び）＋ normalize。",
+      "物理学では renormalization を『くりこみ』と訳す専門用語。英国綴りは renormalise。"
+    ],
+    "etym_note": "re-（再び）＋ normalize（normal「標準の」＋ -ize「〜化する」、ラテン語 norma「規範・直角定規」より）から成り、「再び標準に合わせること」を意味します。norm（規範）と同じ語根です。",
+    "etym_chain": [
+      { "node": "norma", "sub": "規範・定規", "era": "ラテン語" },
+      { "node": "normalize", "sub": "正常化する・標準化する", "era": "近代英語" },
+      { "node": "renormalize", "sub": "再び正常化する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "renormalize relations", "ja": "関係を再び正常化する" },
+      { "en": "renormalize diplomatic ties", "ja": "外交関係を再正常化する" },
+      { "en": "renormalize the data", "ja": "データを再び正規化する" },
+      { "en": "renormalize the equations", "ja": "方程式を再規格化する" },
+      { "en": "renormalize the values", "ja": "値を再び規格化する" },
+      { "en": "renormalization group", "ja": "くりこみ群" }
+    ],
+    "related": [
+      { "en": "normalize", "ja": "正常化する・標準化する" },
+      { "en": "normalization", "ja": "正常化・正規化" },
+      { "en": "standardize", "ja": "標準化する" },
+      { "en": "stabilize", "ja": "安定させる" }
+    ],
+    "faq": [
+      { "q": "renormalize とはどんな意味？", "a": "乱れた状態を『再び正常化する』、または物理・数学で量を『再規格化する』という意味です。The two countries sought to renormalize ties.（関係を再び正常化しようとした）のように使います。" },
+      { "q": "物理学の renormalization とは？", "a": "場の量子論などで現れる無限大を取り除き、計算可能な有限の値に整える操作で、日本語では『くりこみ』と訳されます。renormalize はその動詞形です。" }
+    ],
+    "quiz": [
+      { "q": "The two countries sought to ___ diplomatic ties.（再び正常化する）", "A": "renormalize", "B": "normalize の最初に正常化するだけ", "C": "normal の普通の", "D": "nominal の名目上の", "correct": "A" },
+      { "q": "renormalize のもとになった動詞はどれ？", "A": "normalize（正常化する・標準化する）", "B": "nominate（指名する）", "C": "neutralize（中和する）", "D": "naturalize（帰化させる）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reprice",
+    "pron": "ˌriːˈpraɪs",
+    "kana": "リプライス",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ price（値段をつける）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "ビジネス・金融"],
+    "meaning_main": "値段をつけ直す・価格を見直す",
+    "description": "reprice の意味・発音・例文・語源を解説。商品や金融商品の「値段をつけ直す・価格を見直す」という、ビジネスや金融で使う語の使い方を紹介します。",
+    "keywords": ["reprice 意味", "reprice 発音", "値段をつけ直す", "price 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】値段をつけ直す・価格を見直す", "note": "商品や資産の価格を改める。reprice the products（商品を値付けし直す）。金融では債券などの再評価。" }
+    ],
+    "usages": [
+      { "title": "① 小売「値段をつけ直す」として", "desc": "価格を改めることを表します。", "example_en": "The store repriced all items for the clearance sale.", "example_ja": "その店は在庫一掃セールのため全商品を値付けし直した。" },
+      { "title": "② 金融「価格を見直す」として", "desc": "資産を再評価することを表します。", "example_en": "The market repriced the bonds after the rate change.", "example_ja": "市場は金利変動後に債券の価格を見直した。" }
+    ],
+    "warn": [
+      "reprice は『値段をつけ直す・価格を見直す』。re-（再び）＋ price。",
+      "小売（値札の付け替え）から金融（資産の再評価）まで幅広く使う。"
+    ],
+    "etym_note": "re-（再び）＋ price（『値段』、ラテン語 pretium「価値・代価」より）から成り、「再び値段をつけること」を意味します。precious（貴重な）や prize（賞）と同じ語根です。",
+    "etym_chain": [
+      { "node": "pretium", "sub": "価値・代価", "era": "ラテン語" },
+      { "node": "price", "sub": "値段", "era": "中英語" },
+      { "node": "reprice", "sub": "値段をつけ直す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reprice the products", "ja": "商品を値付けし直す" },
+      { "en": "reprice the items", "ja": "品物の値段を改める" },
+      { "en": "reprice the bonds", "ja": "債券の価格を見直す" },
+      { "en": "reprice the contract", "ja": "契約の価格を見直す" },
+      { "en": "reprice upward", "ja": "値上げ方向に見直す" },
+      { "en": "reprice risk", "ja": "リスクを再評価する" }
+    ],
+    "related": [
+      { "en": "price", "ja": "値段をつける" },
+      { "en": "revalue", "ja": "再評価する" },
+      { "en": "markdown", "ja": "値下げ" },
+      { "en": "adjust", "ja": "調整する" }
+    ],
+    "faq": [
+      { "q": "reprice とはどんな意味？", "a": "商品や金融商品の『値段をつけ直す・価格を見直す』という意味です。The store repriced all items.（全商品を値付けし直した）のように使います。" },
+      { "q": "金融で reprice はどう使う？", "a": "金利や市況の変化を受けて、債券・ローン・リスクなどの価格を市場が再評価することを指します。「the market repriced risk（市場がリスクを再評価した）」のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The store ___d all items for the sale.（値段をつけ直した）", "A": "reprice", "B": "price の最初に値段をつけるだけ", "C": "prize の賞", "D": "praise のほめる", "correct": "A" },
+      { "q": "reprice のもとになった語はどれ？", "A": "price（値段）", "B": "prize（賞）", "C": "praise（称賛）", "D": "prince（王子）", "correct": "A" }
+    ]
+  }
+]
