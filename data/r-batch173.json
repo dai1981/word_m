@@ -1,0 +1,522 @@
+[
+  {
+    "english": "Rockies",
+    "pron": "ˈrɒkiz",
+    "kana": "ロッキーズ",
+    "hinshi": "固有名詞（山脈）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "rock（岩）＋ -y ＋ -es（the Rocky Mountains の短縮）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "地理・山脈"],
+    "meaning_main": "ロッキー山脈（北米西部の大山脈）",
+    "description": "the Rockies（ロッキー山脈）の意味・発音・語源を解説。カナダからアメリカ西部にのびる北米最大級の山脈「ロッキー山脈」について、英語での使い方を紹介します。",
+    "keywords": ["Rockies 意味", "Rockies 発音", "ロッキー山脈", "北米 山脈"],
+    "meanings": [
+      { "hinshi": "【固有名詞】（the Rockies で）ロッキー山脈", "note": "北アメリカ西部を、カナダからアメリカのニューメキシコ州あたりまで南北に貫く大山脈。正式には the Rocky Mountains で、その短縮が the Rockies。大陸分水嶺をなし、雄大な国立公園（イエローストーンなど）で知られる。" }
+    ],
+    "usages": [
+      { "title": "① 「大山脈」として", "desc": "山脈を表します。", "example_en": "The Rockies stretch from Canada to New Mexico.", "example_ja": "ロッキー山脈はカナダからニューメキシコまでのびている。" },
+      { "title": "② 「登山・観光」として", "desc": "自然を表します。", "example_en": "We went hiking in the Rockies last summer.", "example_ja": "私たちは昨夏ロッキー山脈へハイキングに行った。" }
+    ],
+    "warn": [
+      "Rockies は山脈名で、定冠詞をつけて the Rockies（ロッキー山脈）。正式には the Rocky Mountains。",
+      "北米大陸を東西に分ける大陸分水嶺（Continental Divide）をなす。"
+    ],
+    "etym_note": "rock（『岩』、古フランス語 roque より）＋ -y（形容詞）＋ 複数の -es から成り、「岩の多い山々」を意味します。the Rocky Mountains（ロッキー山脈）を短くした呼び名です。",
+    "etym_chain": [
+      { "node": "rock", "sub": "岩", "era": "中英語" },
+      { "node": "Rocky Mountains", "sub": "岩の多い山々", "era": "近代英語" },
+      { "node": "the Rockies", "sub": "ロッキー山脈", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the Rocky Mountains", "ja": "ロッキー山脈" },
+      { "en": "in the Rockies", "ja": "ロッキー山脈で" },
+      { "en": "cross the Rockies", "ja": "ロッキー山脈を越える" },
+      { "en": "the Canadian Rockies", "ja": "カナディアン・ロッキー" },
+      { "en": "hiking in the Rockies", "ja": "ロッキー山脈でのハイキング" },
+      { "en": "the peaks of the Rockies", "ja": "ロッキー山脈の峰々" }
+    ],
+    "related": [
+      { "en": "mountain range", "ja": "山脈" },
+      { "en": "Continental Divide", "ja": "大陸分水嶺" },
+      { "en": "Colorado", "ja": "コロラド州" },
+      { "en": "Andes", "ja": "アンデス山脈" }
+    ],
+    "faq": [
+      { "q": "the Rockies とはどんな意味？", "a": "北アメリカ西部を、カナダからアメリカのニューメキシコあたりまで南北に貫く大山脈『ロッキー山脈』のことです。正式には the Rocky Mountains で、その短縮です。The Rockies stretch from Canada to New Mexico.（ロッキー山脈はカナダからニューメキシコまでのびる）のように使います。" },
+      { "q": "ロッキー山脈の地理的な重要性は？", "a": "北米大陸を東西に分ける『大陸分水嶺』をなします。ここを境に、川が太平洋側と大西洋側に分かれて流れます。イエローストーンなど雄大な国立公園でも知られます。" }
+    ],
+    "quiz": [
+      { "q": "The ___ stretch from Canada to New Mexico.（ロッキー山脈）", "A": "Rockies", "B": "Alps のアルプス", "C": "Himalayas のヒマラヤ", "D": "Andes のアンデス", "correct": "A" },
+      { "q": "the Rockies の正式名称はどれ？", "A": "the Rocky Mountains", "B": "the Rock Islands", "C": "the Rocky Hills", "D": "the Rock Ridge", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Riga",
+    "pron": "ˈriːɡə",
+    "kana": "リガ",
+    "hinshi": "固有名詞（都市・首都）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "地名 Riga（由来は諸説あり）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "地理・首都"],
+    "meaning_main": "リガ（ラトビアの首都・バルト三国最大の都市）",
+    "description": "Riga（リガ）の意味・発音・語源を解説。バルト海に面したラトビアの首都で、バルト三国最大の都市「リガ」について、美しいアール・ヌーヴォー建築とともに、英語での使い方を紹介します。",
+    "keywords": ["Riga 意味", "Riga 発音", "リガ", "ラトビア 首都"],
+    "meanings": [
+      { "hinshi": "【固有名詞】リガ", "note": "バルト海に面したラトビアの首都。バルト三国（エストニア・ラトビア・リトアニア）最大の都市。中世ハンザ同盟の交易都市として栄え、旧市街や豊かなアール・ヌーヴォー（ユーゲントシュティール）建築で知られ、世界遺産に登録されている。" }
+    ],
+    "usages": [
+      { "title": "① 「ラトビアの首都」として", "desc": "都市を表します。", "example_en": "Riga is the capital of Latvia.", "example_ja": "リガはラトビアの首都だ。" },
+      { "title": "② 「歴史ある街」として", "desc": "文化を表します。", "example_en": "Riga's old town is a UNESCO World Heritage Site.", "example_ja": "リガの旧市街は世界遺産だ。" }
+    ],
+    "warn": [
+      "Riga は固有名詞『リガ（ラトビアの首都）』。バルト三国最大の都市。",
+      "中世ハンザ同盟の交易都市。アール・ヌーヴォー建築の宝庫として知られる。"
+    ],
+    "etym_note": "地名 Riga の由来には諸説あり、川や湾を表す現地の語にちなむとされます。中世からバルト海交易の要衝として栄えました。",
+    "etym_chain": [
+      { "node": "Riga", "sub": "リガ（地名）", "era": "中世" },
+      { "node": "Riga", "sub": "ハンザ交易都市", "era": "中世ドイツ・ラトビア" },
+      { "node": "Riga", "sub": "リガ（首都）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the city of Riga", "ja": "リガの街" },
+      { "en": "the capital of Latvia, Riga", "ja": "ラトビアの首都リガ" },
+      { "en": "old town Riga", "ja": "リガ旧市街" },
+      { "en": "Art Nouveau in Riga", "ja": "リガのアール・ヌーヴォー建築" },
+      { "en": "travel to Riga", "ja": "リガへ旅する" },
+      { "en": "the port of Riga", "ja": "リガの港" }
+    ],
+    "related": [
+      { "en": "Latvia", "ja": "ラトビア" },
+      { "en": "Baltic states", "ja": "バルト三国" },
+      { "en": "Hanseatic League", "ja": "ハンザ同盟" },
+      { "en": "Art Nouveau", "ja": "アール・ヌーヴォー" }
+    ],
+    "faq": [
+      { "q": "Riga とはどんな意味？", "a": "バルト海に面したラトビアの首都『リガ』のことです。バルト三国最大の都市で、中世ハンザ同盟の交易都市として栄え、美しいアール・ヌーヴォー建築で知られます。Riga is the capital of Latvia.（リガはラトビアの首都だ）のように使います。" },
+      { "q": "バルト三国とは？", "a": "バルト海の東岸に並ぶエストニア・ラトビア・リトアニアの3国を指します。リガはその中で最大の都市で、ラトビアの首都です。" }
+    ],
+    "quiz": [
+      { "q": "___ is the capital of Latvia and the largest city in the Baltic states.（リガ）", "A": "Riga", "B": "Vienna のウィーン", "C": "Warsaw のワルシャワ", "D": "Prague のプラハ", "correct": "A" },
+      { "q": "Riga はどの海に面している？", "A": "バルト海", "B": "地中海", "C": "黒海", "D": "紅海", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Rabat",
+    "pron": "rəˈbɑːt",
+    "kana": "ラバト",
+    "hinshi": "固有名詞（都市・首都）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "アラビア語 ar-Ribāṭ（要塞・とりで）より",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "地理・首都"],
+    "meaning_main": "ラバト（モロッコの首都）",
+    "description": "Rabat（ラバト）の意味・発音・語源を解説。大西洋に面したモロッコの首都「ラバト」について、『要塞』という語源とともに、英語での使い方を紹介します。最大都市カサブランカとの違いも解説。",
+    "keywords": ["Rabat 意味", "Rabat 発音", "ラバト", "モロッコ 首都"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ラバト", "note": "北アフリカ、大西洋に面したモロッコの首都。歴史的な城壁や王宮があり、政治の中心。最大都市は隣接するカサブランカだが、首都はラバト。名は『要塞・とりで』を意味する。" }
+    ],
+    "usages": [
+      { "title": "① 「モロッコの首都」として", "desc": "都市を表します。", "example_en": "Rabat is the capital of Morocco.", "example_ja": "ラバトはモロッコの首都だ。" },
+      { "title": "② 「歴史ある街」として", "desc": "文化を表します。", "example_en": "Rabat has old city walls and a royal palace.", "example_ja": "ラバトには古い城壁と王宮がある。" }
+    ],
+    "warn": [
+      "Rabat は固有名詞『ラバト（モロッコの首都）』。名は『要塞・とりで』の意。",
+      "モロッコ最大の都市はカサブランカ（Casablanca）だが、首都はラバト。混同に注意。"
+    ],
+    "etym_note": "アラビア語 ar-Ribāṭ（『要塞・とりで・修道戦士の駐屯地』、rabaṭa「結ぶ・つなぐ」より）に由来します。もとは国境を守る要塞だったことにちなみます。",
+    "etym_chain": [
+      { "node": "rabaṭa", "sub": "結ぶ・つなぐ", "era": "アラビア語" },
+      { "node": "ar-Ribāṭ", "sub": "要塞・とりで", "era": "アラビア語" },
+      { "node": "Rabat", "sub": "ラバト（首都）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the city of Rabat", "ja": "ラバトの街" },
+      { "en": "the capital of Morocco, Rabat", "ja": "モロッコの首都ラバト" },
+      { "en": "the walls of Rabat", "ja": "ラバトの城壁" },
+      { "en": "travel to Rabat", "ja": "ラバトへ旅する" },
+      { "en": "the royal palace in Rabat", "ja": "ラバトの王宮" },
+      { "en": "Rabat and Casablanca", "ja": "ラバトとカサブランカ" }
+    ],
+    "related": [
+      { "en": "Morocco", "ja": "モロッコ" },
+      { "en": "Casablanca", "ja": "カサブランカ" },
+      { "en": "North Africa", "ja": "北アフリカ" },
+      { "en": "medina", "ja": "メディナ（旧市街）" }
+    ],
+    "faq": [
+      { "q": "Rabat とはどんな意味？", "a": "北アフリカ、大西洋に面したモロッコの首都『ラバト』のことです。歴史的な城壁や王宮があり、政治の中心です。名は『要塞・とりで』を意味します。Rabat is the capital of Morocco.（ラバトはモロッコの首都だ）のように使います。" },
+      { "q": "モロッコの首都はカサブランカ？", "a": "いいえ。カサブランカはモロッコ最大の都市ですが、首都はラバトです。有名なカサブランカと混同されがちなので注意が必要です。" }
+    ],
+    "quiz": [
+      { "q": "___ is the capital of Morocco (not Casablanca).（ラバト）", "A": "Rabat", "B": "Tunis のチュニス", "C": "Algiers のアルジェ", "D": "Tripoli のトリポリ", "correct": "A" },
+      { "q": "Rabat の名前のもとの意味はどれ？", "A": "要塞・とりで", "B": "白い家", "C": "青い港", "D": "太陽の門", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Ruhr",
+    "pron": "rʊə",
+    "kana": "ルール",
+    "hinshi": "固有名詞（地域・河川）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ドイツの川名 Ruhr より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "地理・産業"],
+    "meaning_main": "ルール地方（ドイツ最大の工業地帯）",
+    "description": "the Ruhr（ルール地方）の意味・発音・語源を解説。石炭と鉄鋼で栄えたドイツ西部の大工業地帯「ルール地方」について、英語での使い方を紹介します。",
+    "keywords": ["Ruhr 意味", "Ruhr 発音", "ルール地方", "ドイツ 工業"],
+    "meanings": [
+      { "hinshi": "【固有名詞】（the Ruhr で）ルール地方", "note": "ドイツ西部、ライン川の支流ルール川流域に広がる工業地帯。豊富な石炭を背景に鉄鋼業などで発展し、ヨーロッパ有数の工業・人口密集地域となった。エッセン、ドルトムントなどの都市がある。ルール工業地帯。" }
+    ],
+    "usages": [
+      { "title": "① 「工業地帯」として", "desc": "産業地域を表します。", "example_en": "The Ruhr was the industrial heartland of Germany.", "example_ja": "ルール地方はドイツの工業の中心地だった。" },
+      { "title": "② 「石炭・鉄鋼」として", "desc": "産業を表します。", "example_en": "Coal and steel drove the growth of the Ruhr.", "example_ja": "石炭と鉄鋼がルール地方の発展を支えた。" }
+    ],
+    "warn": [
+      "Ruhr は地域・河川名で、工業地帯を指すときは the Ruhr（ルール地方）。ライン川の支流ルール川にちなむ。",
+      "石炭・鉄鋼で発展したヨーロッパ有数の工業地帯。近年は産業構造の転換が進む。"
+    ],
+    "etym_note": "ドイツの川名 Ruhr に由来します。この川の流域が石炭産地・工業地帯として発展し、地域名として知られるようになりました。",
+    "etym_chain": [
+      { "node": "Ruhr", "sub": "ルール川", "era": "ドイツ語" },
+      { "node": "Ruhrgebiet", "sub": "ルール工業地帯", "era": "ドイツ語" },
+      { "node": "the Ruhr", "sub": "ルール地方", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the Ruhr valley", "ja": "ルール渓谷・ルール地方" },
+      { "en": "the Ruhr region", "ja": "ルール地方" },
+      { "en": "industry in the Ruhr", "ja": "ルール地方の工業" },
+      { "en": "coal from the Ruhr", "ja": "ルール地方の石炭" },
+      { "en": "the Ruhr's steelworks", "ja": "ルール地方の製鉄所" },
+      { "en": "the cities of the Ruhr", "ja": "ルール地方の都市" }
+    ],
+    "related": [
+      { "en": "Germany", "ja": "ドイツ" },
+      { "en": "coal", "ja": "石炭" },
+      { "en": "steel", "ja": "鉄鋼" },
+      { "en": "Rhine", "ja": "ライン川" }
+    ],
+    "faq": [
+      { "q": "the Ruhr とはどんな意味？", "a": "ドイツ西部、ルール川流域に広がる大工業地帯『ルール地方』のことです。豊富な石炭を背景に鉄鋼業などで発展し、ヨーロッパ有数の工業・人口密集地域となりました。The Ruhr was the industrial heartland of Germany.（ルール地方はドイツの工業の中心地だった）のように使います。" },
+      { "q": "ルール地方はなぜ発展した？", "a": "地下に豊富な石炭があり、それを燃料・原料として製鉄・鉄鋼業が発達したためです。19〜20世紀にドイツの重工業の中心地として栄えました。" }
+    ],
+    "quiz": [
+      { "q": "The ___ was the industrial heartland of Germany, rich in coal and steel.（ルール地方）", "A": "Ruhr", "B": "Alps のアルプス", "C": "Rhine のライン川", "D": "Bavaria のバイエルン", "correct": "A" },
+      { "q": "ルール地方の発展を支えた資源はどれ？", "A": "石炭（と鉄鋼）", "B": "石油", "C": "金", "D": "ダイヤモンド", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Ronaldo",
+    "pron": "rɒˈnɑːldəʊ",
+    "kana": "ロナウド",
+    "hinshi": "固有名詞（人物・サッカー選手）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ポルトガル語・スペイン語の人名 Ronaldo より",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "スポーツ・人物"],
+    "meaning_main": "ロナウド（世界的なサッカー選手の名）",
+    "description": "Ronaldo（ロナウド）の意味・発音・語源を解説。クリスティアーノ・ロナウドをはじめ、世界的なサッカー選手として知られる名前「ロナウド」について、英語での使い方を紹介します。",
+    "keywords": ["Ronaldo 意味", "Ronaldo 発音", "ロナウド", "サッカー選手"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ロナウド", "note": "世界的なサッカー選手の名。特にクリスティアーノ・ロナウド（Cristiano Ronaldo、ポルトガル、1985– ）は史上最高の選手の一人とされ、多くの得点記録を持つ。ブラジルのロナウド（Ronaldo Nazário、1976– ）も『怪物』と呼ばれた名ストライカー。" }
+    ],
+    "usages": [
+      { "title": "① 「サッカー選手」として", "desc": "人物を表します。", "example_en": "Cristiano Ronaldo is one of the greatest footballers of all time.", "example_ja": "クリスティアーノ・ロナウドは史上最高のサッカー選手の一人だ。" },
+      { "title": "② 「得点記録」として", "desc": "実績を表します。", "example_en": "Ronaldo has scored hundreds of goals in his career.", "example_ja": "ロナウドはこれまでに何百ものゴールを決めてきた。" }
+    ],
+    "warn": [
+      "Ronaldo は固有名詞。単に Ronaldo といえば、多くは『クリスティアーノ・ロナウド（ポルトガル）』を指す。",
+      "ブラジルの名ストライカー、ロナウド・ナザーリオも同名。文脈で区別する。"
+    ],
+    "etym_note": "ポルトガル語・スペイン語の人名 Ronaldo に由来します。ゲルマン系の名 Ragnvald（『助言＋支配』）にさかのぼり、英語の Ronald に対応します。",
+    "etym_chain": [
+      { "node": "Ragnvald", "sub": "助言＋支配", "era": "ゲルマン語系" },
+      { "node": "Ronaldo", "sub": "ロナウド（人名）", "era": "ポルトガル語" },
+      { "node": "Ronaldo", "sub": "サッカー選手ロナウド", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Cristiano Ronaldo", "ja": "クリスティアーノ・ロナウド" },
+      { "en": "a goal by Ronaldo", "ja": "ロナウドのゴール" },
+      { "en": "Ronaldo's record", "ja": "ロナウドの記録" },
+      { "en": "Messi and Ronaldo", "ja": "メッシとロナウド" },
+      { "en": "a Ronaldo fan", "ja": "ロナウドのファン" },
+      { "en": "Ronaldo's career", "ja": "ロナウドの経歴" }
+    ],
+    "related": [
+      { "en": "football", "ja": "サッカー（英）・フットボール" },
+      { "en": "soccer", "ja": "サッカー（米）" },
+      { "en": "Messi", "ja": "メッシ（サッカー選手）" },
+      { "en": "striker", "ja": "ストライカー・点取り屋" }
+    ],
+    "faq": [
+      { "q": "Ronaldo とはどんな意味？", "a": "世界的なサッカー選手の名です。特にクリスティアーノ・ロナウド（ポルトガル、1985– ）は史上最高の選手の一人とされ、多くの得点記録を持ちます。Cristiano Ronaldo is one of the greatest footballers.（史上最高の選手の一人だ）のように使います。" },
+      { "q": "『ロナウド』は一人だけ？", "a": "いいえ。ポルトガルのクリスティアーノ・ロナウドのほか、ブラジルの名ストライカー、ロナウド・ナザーリオ（『怪物』の愛称）も有名です。単に Ronaldo といえばふつうクリスティアーノを指します。" }
+    ],
+    "quiz": [
+      { "q": "Cristiano ___ is one of the greatest footballers of all time.（ロナウド）", "A": "Ronaldo", "B": "Beckham のベッカム", "C": "Zidane のジダン", "D": "Pelé のペレ", "correct": "A" },
+      { "q": "Ronaldo が活躍するスポーツはどれ？", "A": "サッカー", "B": "テニス", "C": "バスケットボール", "D": "ゴルフ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Rachmaninoff",
+    "pron": "rækˈmænɪnɒf",
+    "kana": "ラフマニノフ",
+    "hinshi": "固有名詞（人物・作曲家）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ロシア語の姓 Rakhmaninov より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "音楽・歴史"],
+    "meaning_main": "ラフマニノフ（ロシアの作曲家・ピアニスト）",
+    "description": "Rachmaninoff（ラフマニノフ）の意味・発音・語源を解説。豊かな抒情と超絶技巧で知られるロシアの作曲家・ピアニスト「ラフマニノフ」について、『ピアノ協奏曲第2番』とともに、英語での使い方を紹介します。",
+    "keywords": ["Rachmaninoff 意味", "Rachmaninoff 発音", "ラフマニノフ", "ピアノ協奏曲"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ラフマニノフ", "note": "セルゲイ・ラフマニノフ（Sergei Rachmaninoff、1873–1943）。ロシア出身の作曲家・ピアニスト。ロマン派の伝統を受け継ぐ豊かで抒情的な旋律と、大きな手を生かした超絶技巧で知られる。『ピアノ協奏曲第2番』『パガニーニの主題による狂詩曲』が有名。ロシア革命後はアメリカで活動した。Rachmaninov とも綴る。" }
+    ],
+    "usages": [
+      { "title": "① 「作曲家・ピアニスト」として", "desc": "人物を表します。", "example_en": "Rachmaninoff was a great Russian composer and pianist.", "example_ja": "ラフマニノフは偉大なロシアの作曲家でありピアニストだった。" },
+      { "title": "② 「代表作」として", "desc": "作品を表します。", "example_en": "His Piano Concerto No. 2 is one of Rachmaninoff's best-loved works.", "example_ja": "『ピアノ協奏曲第2番』はラフマニノフの最も愛される作品の一つだ。" }
+    ],
+    "warn": [
+      "Rachmaninoff は固有名詞『ラフマニノフ（ロシアの作曲家・ピアニスト）』。Rachmaninov とも綴る。",
+      "豊かな抒情と超絶技巧が特徴。手が非常に大きく、広い音域の和音を弾けたことでも知られる。"
+    ],
+    "etym_note": "ロシア語の姓 Rakhmaninov（ラフマニノフ）に由来します。ラテン文字での綴りは Rachmaninoff / Rachmaninov など複数あります。作曲家セルゲイ・ラフマニノフの名で知られます。",
+    "etym_chain": [
+      { "node": "Рахманинов", "sub": "ラフマニノフ（キリル文字）", "era": "ロシア語" },
+      { "node": "Rachmaninoff", "sub": "ラフマニノフ（ラテン綴り）", "era": "英語" },
+      { "node": "Rachmaninoff", "sub": "作曲家ラフマニノフ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "music by Rachmaninoff", "ja": "ラフマニノフの音楽" },
+      { "en": "Rachmaninoff's Piano Concerto No. 2", "ja": "ラフマニノフの『ピアノ協奏曲第2番』" },
+      { "en": "play Rachmaninoff", "ja": "ラフマニノフを弾く" },
+      { "en": "a Rachmaninoff prelude", "ja": "ラフマニノフの前奏曲" },
+      { "en": "the lyricism of Rachmaninoff", "ja": "ラフマニノフの抒情性" },
+      { "en": "the Rhapsody on a Theme of Paganini", "ja": "『パガニーニの主題による狂詩曲』" }
+    ],
+    "related": [
+      { "en": "composer", "ja": "作曲家" },
+      { "en": "pianist", "ja": "ピアニスト" },
+      { "en": "concerto", "ja": "協奏曲" },
+      { "en": "Tchaikovsky", "ja": "チャイコフスキー（ロシアの作曲家）" }
+    ],
+    "faq": [
+      { "q": "Rachmaninoff とはどんな意味？", "a": "ロシア出身の作曲家・ピアニスト『セルゲイ・ラフマニノフ（1873–1943）』のことです。豊かで抒情的な旋律と超絶技巧で知られ、『ピアノ協奏曲第2番』などが有名です。Rachmaninoff was a great Russian composer and pianist.のように使います。" },
+      { "q": "ラフマニノフの代表作は？", "a": "『ピアノ協奏曲第2番』が特に有名で、映画音楽などにも使われてきました。『パガニーニの主題による狂詩曲』や『前奏曲 嬰ハ短調』なども広く親しまれています。" }
+    ],
+    "quiz": [
+      { "q": "___ was a Russian composer famous for his Piano Concerto No. 2.（ラフマニノフ）", "A": "Rachmaninoff", "B": "Rossini のロッシーニ（イタリアのオペラ作曲家）", "C": "Rodin のロダン（彫刻家）", "D": "Renoir のルノワール（画家）", "correct": "A" },
+      { "q": "Rachmaninoff の楽器はどれ？", "A": "ピアノ", "B": "バイオリン", "C": "チェロ", "D": "フルート", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Rubens",
+    "pron": "ˈruːbənz",
+    "kana": "ルーベンス",
+    "hinshi": "固有名詞（人物・画家）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "フランドルの姓 Rubens より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "美術・歴史"],
+    "meaning_main": "ルーベンス（フランドル・バロックの巨匠画家）",
+    "description": "Rubens（ルーベンス）の意味・発音・語源を解説。躍動感あふれる色彩豊かな絵画で知られるフランドル・バロックの巨匠「ルーベンス」について、英語での使い方を紹介します。",
+    "keywords": ["Rubens 意味", "Rubens 発音", "ルーベンス", "バロック 画家"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ルーベンス", "note": "ピーテル・パウル・ルーベンス（Peter Paul Rubens、1577–1640）。フランドル（現ベルギー）のバロックを代表する画家。豊かな色彩と躍動感、ふくよかな人体表現で知られる。宗教画・神話画・肖像画を多数残し、大工房を率いた。『フランダースの犬』でネロが憧れる画家としても有名。" }
+    ],
+    "usages": [
+      { "title": "① 「巨匠画家」として", "desc": "画家を表します。", "example_en": "Rubens was the greatest Flemish Baroque painter.", "example_ja": "ルーベンスは最も偉大なフランドル・バロックの画家だった。" },
+      { "title": "② 「作風」として", "desc": "絵画を表します。", "example_en": "Rubens's paintings are full of color and movement.", "example_ja": "ルーベンスの絵は色彩と躍動感に満ちている。" }
+    ],
+    "warn": [
+      "Rubens は固有名詞『ルーベンス（フランドル・バロックの画家）』。発音はルーベンス。",
+      "ふくよかな人体表現が特徴で、豊満な女性美を Rubenesque（ルーベンス風の）と形容する語も生まれた。"
+    ],
+    "etym_note": "フランドル（現ベルギー）の姓 Rubens に由来します。バロックの巨匠ピーテル・パウル・ルーベンスの名で知られます。",
+    "etym_chain": [
+      { "node": "Rubens", "sub": "ルーベンス（姓）", "era": "フランドル語" },
+      { "node": "Peter Paul Rubens", "sub": "画家の本名", "era": "17世紀フランドル" },
+      { "node": "Rubens", "sub": "ルーベンス（画家）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a painting by Rubens", "ja": "ルーベンスの絵" },
+      { "en": "Rubens's Baroque style", "ja": "ルーベンスのバロック様式" },
+      { "en": "in the manner of Rubens", "ja": "ルーベンス風に" },
+      { "en": "a Rubens altarpiece", "ja": "ルーベンスの祭壇画" },
+      { "en": "Rubenesque figures", "ja": "ルーベンス風のふくよかな人体" },
+      { "en": "the workshop of Rubens", "ja": "ルーベンスの工房" }
+    ],
+    "related": [
+      { "en": "Baroque", "ja": "バロック" },
+      { "en": "Flemish", "ja": "フランドルの" },
+      { "en": "Van Dyck", "ja": "ヴァン・ダイク（ルーベンスの弟子）" },
+      { "en": "altarpiece", "ja": "祭壇画" }
+    ],
+    "faq": [
+      { "q": "Rubens とはどんな意味？", "a": "フランドル（現ベルギー）のバロックを代表する画家『ピーテル・パウル・ルーベンス（1577–1640）』のことです。豊かな色彩と躍動感あふれる作風で知られます。Rubens was the greatest Flemish Baroque painter.（最も偉大なフランドル・バロックの画家だった）のように使います。" },
+      { "q": "Rubenesque とは？", "a": "『ルーベンス風の』という形容詞で、特にルーベンスが描いたような『ふくよかで豊満な（女性の）体つき』を指します。彼の人体表現の特徴から生まれた語です。" }
+    ],
+    "quiz": [
+      { "q": "___ was the greatest Flemish Baroque painter, known for color and movement.（ルーベンス）", "A": "Rubens", "B": "Rembrandt のレンブラント（オランダ）", "C": "Raphael のラファエロ（ルネサンス）", "D": "Renoir のルノワール（印象派）", "correct": "A" },
+      { "q": "Rubens が属した美術様式はどれ？", "A": "バロック", "B": "印象派", "C": "キュビスム", "D": "ロココのみ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Rutherford",
+    "pron": "ˈrʌðəfəd",
+    "kana": "ラザフォード",
+    "hinshi": "固有名詞（人物・物理学者）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "英語の姓 Rutherford より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "科学・歴史"],
+    "meaning_main": "ラザフォード（『原子核物理学の父』）",
+    "description": "Rutherford（ラザフォード）の意味・発音・語源を解説。原子核を発見し『原子核物理学の父』と呼ばれるニュージーランド出身の物理学者「ラザフォード」について、英語での使い方を紹介します。",
+    "keywords": ["Rutherford 意味", "Rutherford 発音", "ラザフォード", "原子核"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ラザフォード", "note": "アーネスト・ラザフォード（Ernest Rutherford、1871–1937）。ニュージーランド出身の物理学者。金箔に粒子を当てる実験から原子の中心に『原子核』があることを発見し、『原子核物理学の父』と呼ばれる。放射能の研究でノーベル化学賞を受賞。元素ラザホージウム（Rf）に名を残す。" }
+    ],
+    "usages": [
+      { "title": "① 「物理学者」として", "desc": "人物を表します。", "example_en": "Rutherford discovered the atomic nucleus.", "example_ja": "ラザフォードは原子核を発見した。" },
+      { "title": "② 「実験」として", "desc": "業績を表します。", "example_en": "Rutherford's gold foil experiment revealed the structure of the atom.", "example_ja": "ラザフォードの金箔実験は原子の構造を明らかにした。" }
+    ],
+    "warn": [
+      "Rutherford は固有名詞『ラザフォード（物理学者）』。『原子核物理学の父』と呼ばれる。",
+      "有名な金箔実験で原子核を発見。元素ラザホージウム（rutherfordium、Rf）に名を残す。"
+    ],
+    "etym_note": "英語（スコットランド系）の姓 Rutherford に由来します（『家畜が渡る浅瀬（cattle ford）』を意味する地名が起源とされます）。物理学者アーネスト・ラザフォードの名で知られます。",
+    "etym_chain": [
+      { "node": "Rutherford", "sub": "ラザフォード（姓・地名）", "era": "英語" },
+      { "node": "Ernest Rutherford", "sub": "物理学者の本名", "era": "19–20世紀" },
+      { "node": "Rutherford", "sub": "ラザフォード（物理学者）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Rutherford's model of the atom", "ja": "ラザフォードの原子模型" },
+      { "en": "Rutherford's gold foil experiment", "ja": "ラザフォードの金箔実験" },
+      { "en": "the father of nuclear physics", "ja": "原子核物理学の父" },
+      { "en": "discovered by Rutherford", "ja": "ラザフォードによって発見された" },
+      { "en": "Rutherford scattering", "ja": "ラザフォード散乱" },
+      { "en": "the element rutherfordium", "ja": "元素ラザホージウム" }
+    ],
+    "related": [
+      { "en": "atom", "ja": "原子" },
+      { "en": "nucleus", "ja": "原子核" },
+      { "en": "physics", "ja": "物理学" },
+      { "en": "radioactivity", "ja": "放射能" }
+    ],
+    "faq": [
+      { "q": "Rutherford とはどんな意味？", "a": "ニュージーランド出身の物理学者『アーネスト・ラザフォード（1871–1937）』のことです。原子の中心に原子核があることを発見し、『原子核物理学の父』と呼ばれます。Rutherford discovered the atomic nucleus.（原子核を発見した）のように使います。" },
+      { "q": "ラザフォードの金箔実験とは？", "a": "薄い金箔にアルファ粒子を当て、その散乱を調べた実験です。一部の粒子が大きく跳ね返ったことから、原子の中心に小さく重い『原子核』があると結論づけました。原子構造の理解を大きく進めました。" }
+    ],
+    "quiz": [
+      { "q": "___ discovered the atomic nucleus and is called the father of nuclear physics.（ラザフォード）", "A": "Rutherford", "B": "Newton のニュートン", "C": "Darwin のダーウィン", "D": "Galileo のガリレオ", "correct": "A" },
+      { "q": "Rutherford が発見したものはどれ？", "A": "原子核", "B": "電気", "C": "重力", "D": "細胞", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Ramses",
+    "pron": "ˈræmsiːz",
+    "kana": "ラムセス／ラメセス",
+    "hinshi": "固有名詞（人物・古代エジプト王）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "エジプト語 Ra-messes（太陽神ラーが生みし者）より",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "歴史・古代エジプト"],
+    "meaning_main": "ラムセス（古代エジプトの偉大なファラオの名）",
+    "description": "Ramses（ラムセス）の意味・発音・語源を解説。特にラムセス2世で知られる古代エジプトの偉大なファラオの名「ラムセス」について、アブ・シンベル神殿とともに、英語での使い方を紹介します。",
+    "keywords": ["Ramses 意味", "Ramses 発音", "ラムセス", "ファラオ"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ラムセス", "note": "古代エジプト新王国時代の複数のファラオ（王）の名。特に『ラムセス2世（Ramesses II、在位前13世紀）』は、長い治世と多くの建造物（アブ・シンベル神殿など）で知られ『大王』と呼ばれる。Ramesses とも綴る。名は『太陽神ラーが生みし者』の意。" }
+    ],
+    "usages": [
+      { "title": "① 「ファラオ」として", "desc": "王を表します。", "example_en": "Ramses II was one of ancient Egypt's greatest pharaohs.", "example_ja": "ラムセス2世は古代エジプト最大のファラオの一人だった。" },
+      { "title": "② 「建造物」として", "desc": "遺跡を表します。", "example_en": "Ramses built the great temples at Abu Simbel.", "example_ja": "ラムセスはアブ・シンベルの大神殿を建てた。" }
+    ],
+    "warn": [
+      "Ramses は古代エジプト王の名。Ramesses とも綴る。特に『ラムセス2世（大王）』が有名。",
+      "太陽神ラー（Ra）にちなむ名。同名の王が複数いる（ラムセス1世〜11世）。"
+    ],
+    "etym_note": "エジプト語 Ra-messes（『ラー（太陽神）が彼を生んだ・ラーが生みし者』、ra「太陽神ラー」＋ mes「生む」より）に由来します。太陽神の加護を示す王名です。",
+    "etym_chain": [
+      { "node": "Ra + mes", "sub": "太陽神ラー＋生む", "era": "古代エジプト語" },
+      { "node": "Ra-messes", "sub": "ラーが生みし者", "era": "古代エジプト語" },
+      { "node": "Ramses", "sub": "ラムセス（ファラオ）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Ramses II", "ja": "ラムセス2世" },
+      { "en": "the pharaoh Ramses", "ja": "ファラオ・ラムセス" },
+      { "en": "the temple of Ramses", "ja": "ラムセスの神殿" },
+      { "en": "Ramses the Great", "ja": "ラムセス大王" },
+      { "en": "the reign of Ramses", "ja": "ラムセスの治世" },
+      { "en": "statues of Ramses", "ja": "ラムセスの巨像" }
+    ],
+    "related": [
+      { "en": "pharaoh", "ja": "ファラオ・エジプト王" },
+      { "en": "Egypt", "ja": "エジプト" },
+      { "en": "Abu Simbel", "ja": "アブ・シンベル神殿" },
+      { "en": "Ra", "ja": "ラー（太陽神）" }
+    ],
+    "faq": [
+      { "q": "Ramses とはどんな意味？", "a": "古代エジプト新王国時代の複数のファラオ（王）の名です。特に『ラムセス2世（大王）』が、長い治世とアブ・シンベル神殿などの巨大建造物で知られます。名は『太陽神ラーが生みし者』を意味します。Ramses II was one of Egypt's greatest pharaohs.（最大のファラオの一人だった）のように使います。" },
+      { "q": "ラムセス2世はなぜ有名？", "a": "約60年以上という長い治世を誇り、アブ・シンベル神殿をはじめ数多くの巨大な建造物や自身の像を残したためです。古代エジプトの繁栄の象徴とされ『大王』と呼ばれます。" }
+    ],
+    "quiz": [
+      { "q": "___ II was one of ancient Egypt's greatest pharaohs.（ラムセス）", "A": "Ramses", "B": "Caesar のカエサル（ローマ）", "C": "Alexander のアレクサンドロス（ギリシャ）", "D": "Genghis のチンギス（モンゴル）", "correct": "A" },
+      { "q": "Ramses の名前のもとになった神はどれ？", "A": "太陽神ラー", "B": "海の神ポセイドン", "C": "戦いの神マルス", "D": "知恵の神アテナ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Rowling",
+    "pron": "ˈrəʊlɪŋ",
+    "kana": "ローリング",
+    "hinshi": "固有名詞（人物・作家）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "英語の姓 Rowling より",
+    "ld_level": "1級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "文学・現代"],
+    "meaning_main": "ローリング（『ハリー・ポッター』の作者）",
+    "description": "Rowling（ローリング）の意味・発音・語源を解説。世界的ベストセラー『ハリー・ポッター』シリーズを書いた英国の作家J・K・ローリングについて、英語での使い方を紹介します。",
+    "keywords": ["Rowling 意味", "Rowling 発音", "ローリング", "ハリー・ポッター"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ローリング", "note": "J・K・ローリング（J.K. Rowling、1965– ）。イギリスの作家。魔法学校を舞台にしたファンタジー『ハリー・ポッター（Harry Potter）』シリーズの作者。全7巻は世界中で翻訳・映画化され、児童文学史上最大級の成功を収めた。発音はローリング（rolling ではない）。" }
+    ],
+    "usages": [
+      { "title": "① 「作家」として", "desc": "人物を表します。", "example_en": "J.K. Rowling wrote the Harry Potter series.", "example_ja": "J・K・ローリングは『ハリー・ポッター』シリーズを書いた。" },
+      { "title": "② 「作品」として", "desc": "本を表します。", "example_en": "Rowling's books have been translated into many languages.", "example_ja": "ローリングの本は多くの言語に翻訳されている。" }
+    ],
+    "warn": [
+      "Rowling は固有名詞『（J・K・）ローリング（『ハリー・ポッター』の作者）』。発音はローリング（rolling とは母音が違う）。",
+      "J.K. の J は Joanne（ジョアン）から。ペンネームとして頭文字を使った。"
+    ],
+    "etym_note": "英語の姓 Rowling に由来します。『ハリー・ポッター』シリーズの作者ジョアン・ローリングが、J.K. Rowling というペンネームで知られます。",
+    "etym_chain": [
+      { "node": "Rowling", "sub": "ローリング（姓）", "era": "英語" },
+      { "node": "J.K. Rowling", "sub": "作家のペンネーム", "era": "現代" },
+      { "node": "Rowling", "sub": "ローリング（作家）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "J.K. Rowling", "ja": "J・K・ローリング" },
+      { "en": "a book by Rowling", "ja": "ローリングの本" },
+      { "en": "Rowling's Harry Potter", "ja": "ローリングの『ハリー・ポッター』" },
+      { "en": "the world of Rowling", "ja": "ローリングの世界" },
+      { "en": "written by Rowling", "ja": "ローリングによって書かれた" },
+      { "en": "a Rowling novel", "ja": "ローリングの小説" }
+    ],
+    "related": [
+      { "en": "Harry Potter", "ja": "ハリー・ポッター" },
+      { "en": "author", "ja": "作家・著者" },
+      { "en": "fantasy", "ja": "ファンタジー" },
+      { "en": "bestseller", "ja": "ベストセラー" }
+    ],
+    "faq": [
+      { "q": "Rowling とはどんな意味？", "a": "世界的ベストセラー『ハリー・ポッター』シリーズを書いたイギリスの作家『J・K・ローリング（1965– ）』のことです。全7巻は世界中で翻訳・映画化されました。J.K. Rowling wrote the Harry Potter series.（『ハリー・ポッター』シリーズを書いた）のように使います。" },
+      { "q": "J.K. の意味は？", "a": "J は本名の Joanne（ジョアン）から取ったものです。児童書で男女どちらの作者か分からないようにと出版社が勧め、頭文字の J.K. をペンネームに使ったとされます。" }
+    ],
+    "quiz": [
+      { "q": "J.K. ___ wrote the Harry Potter series.（ローリング）", "A": "Rowling", "B": "Rushdie のラシュディ（『真夜中の子供たち』）", "C": "Tolkien のトールキン（『指輪物語』）", "D": "Dahl のダール（『チョコレート工場』）", "correct": "A" },
+      { "q": "Rowling の代表作はどれ？", "A": "『ハリー・ポッター』", "B": "『指輪物語』", "C": "『ナルニア国物語』", "D": "『ゲド戦記』", "correct": "A" }
+    ]
+  }
+]
