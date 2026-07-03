@@ -1,0 +1,524 @@
+[
+  {
+    "english": "rink",
+    "pron": "rɪŋk",
+    "kana": "リンク",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "スコットランド語 rink（走路・カーリングの競技場）より",
+    "ld_level": "準1級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "スポーツ・施設"],
+    "meaning_main": "（スケート・アイスホッケーなどの）リンク・競技場",
+    "description": "rink の意味・発音・例文・語源を解説。スケートやアイスホッケーを行う「リンク・氷の競技場」という、スポーツや施設で使う語の使い方を紹介します。",
+    "keywords": ["rink 意味", "rink 発音", "スケートリンク", "アイスリンク"],
+    "meanings": [
+      { "hinshi": "【名詞】リンク・（氷などの）競技場", "note": "スケート・アイスホッケー・カーリングなどを行う氷の面や、ローラースケート用の床面。a skating rink（スケートリンク）、an ice rink（アイスリンク）。" }
+    ],
+    "usages": [
+      { "title": "① 「スケートリンク」として", "desc": "氷の競技場を表します。", "example_en": "The children skated around the ice rink.", "example_ja": "子どもたちはアイスリンクを滑って回った。" },
+      { "title": "② 「ホッケーの試合会場」として", "desc": "競技場を表します。", "example_en": "The team practices at the local rink every morning.", "example_ja": "そのチームは毎朝地元のリンクで練習する。" }
+    ],
+    "warn": [
+      "rink は『（スケート・ホッケーなどの）リンク・競技場』。日本語の『リンク（link＝つなぐ）』とは別語で、綴りも違う。",
+      "an ice rink（アイスリンク）、a roller rink（ローラースケート場）のように使う。"
+    ],
+    "etym_note": "スコットランド語 rink（『走路・（カーリングの）競技区域』）に由来します。もとはカーリングの競技場を指し、のちにスケートやホッケーの氷面も指すようになりました。",
+    "etym_chain": [
+      { "node": "rink", "sub": "走路・競技場", "era": "スコットランド語" },
+      { "node": "rink", "sub": "カーリング場", "era": "近代英語" },
+      { "node": "rink", "sub": "スケートリンク", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an ice rink", "ja": "アイスリンク" },
+      { "en": "a skating rink", "ja": "スケートリンク" },
+      { "en": "a roller rink", "ja": "ローラースケート場" },
+      { "en": "at the rink", "ja": "リンクで" },
+      { "en": "an indoor rink", "ja": "屋内リンク" },
+      { "en": "circle the rink", "ja": "リンクを回る" }
+    ],
+    "related": [
+      { "en": "skate", "ja": "スケートをする" },
+      { "en": "ice hockey", "ja": "アイスホッケー" },
+      { "en": "curling", "ja": "カーリング" },
+      { "en": "arena", "ja": "アリーナ・競技場" }
+    ],
+    "faq": [
+      { "q": "rink とはどんな意味？", "a": "スケートやアイスホッケー、カーリングなどを行う『リンク・氷の競技場』のことです。The children skated around the ice rink.（子どもたちはアイスリンクを滑って回った）のように使います。" },
+      { "q": "rink と link は同じ？", "a": "いいえ、別の語です。rink は『スケートなどの競技場』、link（リンク）は『つなぐこと・結びつき』です。発音も rink（リンク）と link（リンク）で、綴りと意味が異なります。" }
+    ],
+    "quiz": [
+      { "q": "The children skated around the ice ___.（リンク）", "A": "rink", "B": "link のつながり", "C": "drink の飲み物", "D": "blink のまばたき", "correct": "A" },
+      { "q": "rink はどんな場所？", "A": "スケートなどの競技場", "B": "図書館", "C": "駅", "D": "農場", "correct": "A" }
+    ]
+  },
+  {
+    "english": "regrouping",
+    "pron": "ˌriːˈɡruːpɪŋ",
+    "kana": "リグルーピング",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ grouping（集団化・編成）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "一般・軍事"],
+    "meaning_main": "再編成・態勢立て直し",
+    "description": "regrouping の意味・発音・例文・語源を解説。人や部隊を「再びまとめること・態勢を立て直すこと」という、一般や軍事で使う語の使い方を紹介します。動詞 regroup も解説。",
+    "keywords": ["regrouping 意味", "regrouping 発音", "態勢立て直し", "regroup 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再編成・態勢立て直し", "note": "散らばった人・部隊・要素を再びまとめ直すこと。また、挫折のあと『態勢を立て直すこと』。動詞は regroup。" }
+    ],
+    "usages": [
+      { "title": "① 「態勢の立て直し」として", "desc": "立て直しを表します。", "example_en": "After the defeat, a period of regrouping was needed.", "example_ja": "敗北のあと、態勢を立て直す期間が必要だった。" },
+      { "title": "② 軍事「部隊の再編成」として", "desc": "部隊のまとめ直しを表します。", "example_en": "The troops fell back for regrouping.", "example_ja": "部隊は再編成のためいったん退いた。" }
+    ],
+    "warn": [
+      "regrouping は『再編成・態勢立て直し』。re-＋ grouping。動詞は regroup。",
+      "軍事（部隊のまとめ直し）だけでなく、日常でも『（挫折後に）気持ち・態勢を立て直す』意味で使う。"
+    ],
+    "etym_note": "re-（再び）＋ grouping（group「集団・まとめる」、フランス語 groupe、イタリア語 gruppo「かたまり」より）から成り、「再びまとめること」を意味します。group（グループ）と同じ語根です。",
+    "etym_chain": [
+      { "node": "gruppo", "sub": "かたまり", "era": "イタリア語" },
+      { "node": "grouping", "sub": "集団化・編成", "era": "近代英語" },
+      { "node": "regrouping", "sub": "再編成・態勢立て直し", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a period of regrouping", "ja": "態勢を立て直す期間" },
+      { "en": "regrouping after a setback", "ja": "挫折後の立て直し" },
+      { "en": "fall back for regrouping", "ja": "再編成のため退く" },
+      { "en": "time for regrouping", "ja": "立て直しの時間" },
+      { "en": "regrouping of forces", "ja": "部隊の再編成" },
+      { "en": "strategic regrouping", "ja": "戦略的な再編成" }
+    ],
+    "related": [
+      { "en": "regroup", "ja": "再編成する・態勢を立て直す" },
+      { "en": "group", "ja": "集団・まとめる" },
+      { "en": "reorganization", "ja": "再編成" },
+      { "en": "recovery", "ja": "立ち直り・回復" }
+    ],
+    "faq": [
+      { "q": "regrouping とはどんな意味？", "a": "散らばった人・部隊・要素を『再びまとめ直すこと』、また挫折のあと『態勢を立て直すこと』です。After the defeat, a period of regrouping was needed.（敗北のあと態勢を立て直す期間が必要だった）のように使います。動詞は regroup です。" },
+      { "q": "regroup は日常でも使う？", "a": "はい。「Let's regroup tomorrow.（明日また集まって仕切り直そう）」のように、失敗や中断のあとに『態勢・気持ちを立て直す』意味で日常的に使われます。" }
+    ],
+    "quiz": [
+      { "q": "After the defeat, a period of ___ was needed.（態勢立て直し）", "A": "regrouping", "B": "regretting の後悔", "C": "reporting の報告", "D": "requesting の要請", "correct": "A" },
+      { "q": "regrouping の動詞形はどれ？", "A": "regroup（再編成する）", "B": "regret（後悔する）", "C": "report（報告する）", "D": "request（要請する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rehiring",
+    "pron": "ˌriːˈhaɪərɪŋ",
+    "kana": "リハイアリング",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ hiring（雇うこと）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "労働・ビジネス"],
+    "meaning_main": "再雇用・雇い直し",
+    "description": "rehiring の意味・発音・例文・語源を解説。一度辞めた・解雇した人を「再び雇うこと・雇い直し」という、労働やビジネスで使う語の使い方を紹介します。動詞 rehire も解説。",
+    "keywords": ["rehiring 意味", "rehiring 発音", "再雇用", "rehire 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再雇用・雇い直し", "note": "以前に雇っていた人や、いったん解雇・退職した人を再び雇うこと。the rehiring of laid-off workers（解雇された労働者の再雇用）。動詞は rehire。" }
+    ],
+    "usages": [
+      { "title": "① 「解雇者の再雇用」として", "desc": "雇い直しを表します。", "example_en": "The company announced the rehiring of former staff.", "example_ja": "その会社は元社員の再雇用を発表した。" },
+      { "title": "② 「景気回復後の雇用」として", "desc": "雇用の再開を表します。", "example_en": "Rehiring picked up as the economy recovered.", "example_ja": "景気回復とともに雇い直しが増えた。" }
+    ],
+    "warn": [
+      "rehiring は『再雇用・雇い直し』。re-＋ hiring。動詞は rehire。",
+      "reemployment（再就職・再雇用）と近いが、rehiring は特に『（同じ会社が）また雇う』動作に重点がある。"
+    ],
+    "etym_note": "re-（再び）＋ hiring（hire「雇う・賃借りする」、古英語 hyrian「賃金で雇う」より）から成り、「再び雇うこと」を意味します。",
+    "etym_chain": [
+      { "node": "hyrian", "sub": "賃金で雇う", "era": "古英語" },
+      { "node": "hiring", "sub": "雇うこと", "era": "中英語" },
+      { "node": "rehiring", "sub": "再雇用・雇い直し", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the rehiring of former staff", "ja": "元社員の再雇用" },
+      { "en": "rehiring of laid-off workers", "ja": "解雇された労働者の再雇用" },
+      { "en": "a rehiring freeze", "ja": "再雇用の凍結" },
+      { "en": "consider rehiring", "ja": "再雇用を検討する" },
+      { "en": "rehiring after furlough", "ja": "一時帰休後の再雇用" },
+      { "en": "a rehiring policy", "ja": "再雇用の方針" }
+    ],
+    "related": [
+      { "en": "rehire", "ja": "再雇用する" },
+      { "en": "hire", "ja": "雇う・賃借りする" },
+      { "en": "reemployment", "ja": "再雇用・再就職" },
+      { "en": "layoff", "ja": "一時解雇・レイオフ" }
+    ],
+    "faq": [
+      { "q": "rehiring とはどんな意味？", "a": "以前に雇っていた人や、いったん解雇・退職した人を『再び雇うこと（再雇用・雇い直し）』です。The company announced the rehiring of former staff.（元社員の再雇用を発表した）のように使います。動詞は rehire です。" },
+      { "q": "rehiring と reemployment の違いは？", "a": "rehiring は特に『（同じ会社が）また雇うこと』に重点、reemployment は『（本人が）再び仕事に就くこと（再就職）』という視点に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The company announced the ___ of former staff.（再雇用）", "A": "rehiring", "B": "rewiring の配線し直し", "C": "retiring の引退", "D": "requiring の要求", "correct": "A" },
+      { "q": "rehiring の動詞形はどれ？", "A": "rehire（再雇用する）", "B": "rewire（配線し直す）", "C": "retire（引退する）", "D": "require（要求する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reimposition",
+    "pron": "ˌriːɪmpəˈzɪʃən",
+    "kana": "リインポジション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ imposition（課すること）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "政治・ニュース"],
+    "meaning_main": "（税・規制などの）再賦課・再導入",
+    "description": "reimposition の意味・発音・例文・語源を解説。いったん解除した税・規制・制裁などを「再び課すこと・再導入」という、政治やニュースで使う語の使い方を紹介します。動詞 reimpose も解説。",
+    "keywords": ["reimposition 意味", "reimposition 発音", "再賦課", "reimpose 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】（税・規制などの）再賦課・再導入", "note": "一度解除・撤廃した税・規制・制裁・制限などを再び設けること。the reimposition of sanctions（制裁の再導入）。動詞は reimpose。" }
+    ],
+    "usages": [
+      { "title": "① 「制裁の再導入」として", "desc": "解除した措置の再賦課を表します。", "example_en": "The reimposition of sanctions hurt the economy.", "example_ja": "制裁の再導入は経済を痛めた。" },
+      { "title": "② 「規制の再賦課」として", "desc": "規制の再設定を表します。", "example_en": "Cases rose, forcing the reimposition of restrictions.", "example_ja": "感染者が増え、規制の再導入を余儀なくされた。" }
+    ],
+    "warn": [
+      "reimposition は『（税・規制などの）再賦課・再導入』。re-＋ imposition。動詞は reimpose。",
+      "税・規制・制裁・制限など『義務として課すもの』の再設定に使う。"
+    ],
+    "etym_note": "re-（再び）＋ imposition（impose「課す・押し付ける」、ラテン語 imponere「上に置く」、in-＋ ponere「置く」より）から成り、「再び課すこと」を意味します。position（位置）と同じ ponere の系統です。",
+    "etym_chain": [
+      { "node": "imponere", "sub": "上に置く・課す", "era": "ラテン語" },
+      { "node": "imposition", "sub": "課すること", "era": "中英語" },
+      { "node": "reimposition", "sub": "再賦課・再導入", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the reimposition of sanctions", "ja": "制裁の再導入" },
+      { "en": "the reimposition of tariffs", "ja": "関税の再賦課" },
+      { "en": "the reimposition of restrictions", "ja": "規制の再導入" },
+      { "en": "the reimposition of a curfew", "ja": "外出禁止令の再導入" },
+      { "en": "call for reimposition", "ja": "再導入を求める" },
+      { "en": "avoid reimposition", "ja": "再賦課を避ける" }
+    ],
+    "related": [
+      { "en": "reimpose", "ja": "再び課す・再導入する" },
+      { "en": "imposition", "ja": "課すること・賦課" },
+      { "en": "sanction", "ja": "制裁" },
+      { "en": "lifting", "ja": "（規制の）解除" }
+    ],
+    "faq": [
+      { "q": "reimposition とはどんな意味？", "a": "いったん解除・撤廃した税・規制・制裁などを『再び課すこと（再賦課・再導入）』です。The reimposition of sanctions hurt the economy.（制裁の再導入は経済を痛めた）のように使います。動詞は reimpose です。" },
+      { "q": "reimposition の反対は？", "a": "lifting（解除）や removal（撤廃）です。規制・制裁を『解除（lifting）』した後に『再導入（reimposition）』する、という対で使われます。" }
+    ],
+    "quiz": [
+      { "q": "The ___ of sanctions hurt the economy.（再導入）", "A": "reimposition", "B": "composition の構成", "C": "opposition の反対", "D": "proposition の提案", "correct": "A" },
+      { "q": "reimposition の動詞形はどれ？", "A": "reimpose（再び課す）", "B": "compose（構成する）", "C": "oppose（反対する）", "D": "propose（提案する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reoccurrence",
+    "pron": "ˌriːəˈkʌrəns",
+    "kana": "リオカレンス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ occurrence（出来事・発生）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "一般・医療"],
+    "meaning_main": "再発・再び起こること",
+    "description": "reoccurrence の意味・発音・例文・語源を解説。同じ出来事や症状が「再び起こること・再発」という、一般や医療で使う語の使い方を紹介します。recurrence との関係も解説。",
+    "keywords": ["reoccurrence 意味", "reoccurrence 発音", "再発", "occurrence 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再発・再び起こること", "note": "同じ出来事・問題・症状が再び起こること。prevent a reoccurrence（再発を防ぐ）。より正式・一般的な語は recurrence。動詞は reoccur。" }
+    ],
+    "usages": [
+      { "title": "① 「問題の再発」として", "desc": "再び起こることを表します。", "example_en": "Steps were taken to prevent a reoccurrence of the error.", "example_ja": "その誤りの再発を防ぐ措置がとられた。" },
+      { "title": "② 「症状の再発」として", "desc": "病気の再発を表します。", "example_en": "There was a reoccurrence of the symptoms months later.", "example_ja": "数か月後に症状の再発があった。" }
+    ],
+    "warn": [
+      "reoccurrence は『再発・再び起こること』。re-＋ occurrence。動詞は reoccur。",
+      "厳密には recurrence（繰り返し起こること）の方が標準的とされるが、reoccurrence も広く使われる。"
+    ],
+    "etym_note": "re-（再び）＋ occurrence（occur「起こる」、ラテン語 occurrere「向かって走る・出くわす」、ob-＋ currere「走る」より）から成り、「再び起こること」を意味します。current（流れ）や recur（再発する）と同じ currere の系統です。",
+    "etym_chain": [
+      { "node": "occurrere", "sub": "出くわす・起こる", "era": "ラテン語" },
+      { "node": "occurrence", "sub": "出来事・発生", "era": "近代英語" },
+      { "node": "reoccurrence", "sub": "再発・再び起こること", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "prevent a reoccurrence", "ja": "再発を防ぐ" },
+      { "en": "a reoccurrence of the problem", "ja": "問題の再発" },
+      { "en": "avoid reoccurrence", "ja": "再発を避ける" },
+      { "en": "a reoccurrence of symptoms", "ja": "症状の再発" },
+      { "en": "the risk of reoccurrence", "ja": "再発のリスク" },
+      { "en": "guard against reoccurrence", "ja": "再発を警戒する" }
+    ],
+    "related": [
+      { "en": "recurrence", "ja": "再発・繰り返し起こること" },
+      { "en": "occurrence", "ja": "出来事・発生" },
+      { "en": "reoccur", "ja": "再発する・再び起こる" },
+      { "en": "relapse", "ja": "（病気の）再発・ぶり返し" }
+    ],
+    "faq": [
+      { "q": "reoccurrence とはどんな意味？", "a": "同じ出来事・問題・症状が『再び起こること（再発）』です。Steps were taken to prevent a reoccurrence of the error.（その誤りの再発を防ぐ措置がとられた）のように使います。動詞は reoccur です。" },
+      { "q": "reoccurrence と recurrence の違いは？", "a": "意味はほぼ同じ『再発・繰り返し起こること』です。厳密には recurrence の方が標準的・正式とされますが、reoccurrence も日常的に広く使われます。" }
+    ],
+    "quiz": [
+      { "q": "Steps were taken to prevent a ___ of the error.（再発）", "A": "reoccurrence", "B": "reassurance の安心", "C": "resemblance の類似", "D": "remittance の送金", "correct": "A" },
+      { "q": "reoccurrence とほぼ同義の標準的な語はどれ？", "A": "recurrence（再発）", "B": "reference（参照）", "C": "resistance（抵抗）", "D": "residence（住居）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "repackaging",
+    "pron": "ˌriːˈpækɪdʒɪŋ",
+    "kana": "リパッケージング",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ packaging（包装・パッケージング）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "ビジネス・マーケ"],
+    "meaning_main": "包装し直すこと・（中身を変えず）見せ方を変えること",
+    "description": "repackaging の意味・発音・例文・語源を解説。商品を「包装し直すこと」、また比喩で中身は同じものを「新しい見せ方に変えること」という、ビジネスやマーケで使う語の使い方を紹介します。",
+    "keywords": ["repackaging 意味", "repackaging 発音", "包装し直す", "repackage 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】包装し直すこと・パッケージの一新", "note": "商品を新しい包装・パッケージに変えること。product repackaging（製品のパッケージ刷新）。" },
+      { "hinshi": "【名詞】（中身を変えず）見せ方・体裁を変えること", "note": "比喩で、内容は同じものを新しい形・名前で提示すること。しばしば『中身は同じなのに新しく見せる』とやや批判的にも使う。動詞は repackage。" }
+    ],
+    "usages": [
+      { "title": "① 「パッケージの刷新」として", "desc": "包装の一新を表します。", "example_en": "The repackaging boosted the product's sales.", "example_ja": "パッケージの一新は製品の売上を押し上げた。" },
+      { "title": "② 比喩「見せ方の変更」として", "desc": "体裁の変更を表します。", "example_en": "Critics called the plan a repackaging of old ideas.", "example_ja": "批評家はその案を古い考えの焼き直しと呼んだ。" }
+    ],
+    "warn": [
+      "repackaging は『包装し直すこと／（中身を変えず）見せ方を変えること』。re-＋ packaging。動詞は repackage。",
+      "比喩では『中身は同じなのに新しく見せる（焼き直し）』とやや批判的に使うこともある。"
+    ],
+    "etym_note": "re-（再び）＋ packaging（package「包み・パッケージ」、pack「詰める」＋ -age より）から成り、「再び包むこと」を意味します。pack（詰める）と同じ語根です。",
+    "etym_chain": [
+      { "node": "pack", "sub": "詰める・包み", "era": "中英語" },
+      { "node": "packaging", "sub": "包装・パッケージング", "era": "近代英語" },
+      { "node": "repackaging", "sub": "包装し直し・見せ方の変更", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "product repackaging", "ja": "製品のパッケージ刷新" },
+      { "en": "a repackaging of old ideas", "ja": "古い考えの焼き直し" },
+      { "en": "repackaging the brand", "ja": "ブランドの体裁の一新" },
+      { "en": "repackaging of debt", "ja": "債務の組み替え（金融）" },
+      { "en": "require repackaging", "ja": "包装し直しを要する" },
+      { "en": "a clever repackaging", "ja": "巧みな見せ方の変更" }
+    ],
+    "related": [
+      { "en": "repackage", "ja": "包装し直す・見せ方を変える" },
+      { "en": "packaging", "ja": "包装・パッケージング" },
+      { "en": "rebranding", "ja": "ブランド再構築" },
+      { "en": "rehash", "ja": "焼き直し・作り直し" }
+    ],
+    "faq": [
+      { "q": "repackaging とはどんな意味？", "a": "商品を『包装し直すこと・パッケージを一新すること』、また比喩で中身は同じものを『新しい見せ方に変えること』です。The repackaging boosted sales.（パッケージの一新は売上を押し上げた）のように使います。動詞は repackage です。" },
+      { "q": "repackaging に批判的な意味もある？", "a": "はい。『中身は同じなのに新しく見せかけること（焼き直し）』というやや批判的な意味でも使われます。a repackaging of old ideas（古い考えの焼き直し）のように用います。" }
+    ],
+    "quiz": [
+      { "q": "Critics called the plan a ___ of old ideas.（焼き直し）", "A": "repackaging", "B": "repairing の修理", "C": "reporting の報告", "D": "reporting の同義 recording（記録）", "correct": "A" },
+      { "q": "repackaging の動詞形はどれ？", "A": "repackage（包装し直す）", "B": "repair（修理する）", "C": "report（報告する）", "D": "replace（取り替える）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "restocking",
+    "pron": "ˌriːˈstɒkɪŋ",
+    "kana": "リストッキング",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ stocking（在庫を蓄えること）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "ビジネス・小売"],
+    "meaning_main": "在庫の補充・仕入れ直し",
+    "description": "restocking の意味・発音・例文・語源を解説。売れて減った商品を「仕入れて補充すること・在庫の補充」という、小売やビジネスで使う語の使い方を紹介します。動詞 restock と restocking fee も解説。",
+    "keywords": ["restocking 意味", "restocking 発音", "在庫補充", "restock 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】在庫の補充・仕入れ直し", "note": "売れて減った商品を再び仕入れて棚・倉庫を満たすこと。restocking of shelves（棚の補充）。返品時にかかる restocking fee（返品手数料）でも使う。動詞は restock。" }
+    ],
+    "usages": [
+      { "title": "① 「棚の補充」として", "desc": "在庫の補充を表します。", "example_en": "Restocking of popular items happens daily.", "example_ja": "人気商品の在庫補充は毎日行われる。" },
+      { "title": "② 「返品手数料」として", "desc": "restocking fee を表します。", "example_en": "Returns are subject to a 15% restocking fee.", "example_ja": "返品には15%の返品手数料がかかる。" }
+    ],
+    "warn": [
+      "restocking は『在庫の補充・仕入れ直し』。re-＋ stocking。動詞は restock。",
+      "a restocking fee（返品手数料）は、返品された商品を再び在庫に戻す手間の分として課される。"
+    ],
+    "etym_note": "re-（再び）＋ stocking（stock「在庫・蓄える」、古英語 stocc「幹・棒・蓄え」より）から成り、「再び在庫を蓄えること」を意味します。stock（在庫）と同じ語根です。",
+    "etym_chain": [
+      { "node": "stocc", "sub": "幹・蓄え", "era": "古英語" },
+      { "node": "stocking", "sub": "在庫を蓄えること", "era": "近代英語" },
+      { "node": "restocking", "sub": "在庫の補充", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "restocking of shelves", "ja": "棚の補充" },
+      { "en": "a restocking fee", "ja": "返品手数料" },
+      { "en": "restocking the inventory", "ja": "在庫の補充" },
+      { "en": "daily restocking", "ja": "毎日の在庫補充" },
+      { "en": "await restocking", "ja": "入荷を待つ" },
+      { "en": "restocking after the sale", "ja": "セール後の仕入れ直し" }
+    ],
+    "related": [
+      { "en": "restock", "ja": "在庫を補充する" },
+      { "en": "stock", "ja": "在庫・蓄える" },
+      { "en": "replenishment", "ja": "補充・補填" },
+      { "en": "inventory", "ja": "在庫・棚卸資産" }
+    ],
+    "faq": [
+      { "q": "restocking とはどんな意味？", "a": "売れて減った商品を『再び仕入れて補充すること（在庫の補充・仕入れ直し）』です。Restocking of popular items happens daily.（人気商品の在庫補充は毎日行われる）のように使います。動詞は restock です。" },
+      { "q": "restocking fee とは？", "a": "返品された商品を再び在庫に戻す手間の分として課される『返品手数料』です。Returns are subject to a 15% restocking fee.（返品には15%の返品手数料がかかる）のように使われます。" }
+    ],
+    "quiz": [
+      { "q": "Returns are subject to a 15% ___ fee.（返品手数料の）", "A": "restocking", "B": "restarting の再開", "C": "restraining の抑制", "D": "resting の休息", "correct": "A" },
+      { "q": "restocking の動詞形はどれ？", "A": "restock（在庫を補充する）", "B": "restart（再開する）", "C": "restrain（抑える）", "D": "rest（休む）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "roadbed",
+    "pron": "ˈrəʊdbɛd",
+    "kana": "ロードベッド",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "road（道路）＋ bed（土台・床）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "土木・鉄道"],
+    "meaning_main": "路盤・道床（道路や線路を支える土台）",
+    "description": "roadbed の意味・発音・例文・語源を解説。道路の舗装や線路を支える土台部分「路盤・道床（ロードベッド）」という、土木や鉄道で使う語の使い方を紹介します。",
+    "keywords": ["roadbed 意味", "roadbed 発音", "路盤", "道床"],
+    "meanings": [
+      { "hinshi": "【名詞】路盤・道床", "note": "道路の舗装層の下、または鉄道の線路（レール・枕木）の下にあって、それらを支える土台部分。しっかりした roadbed が耐久性の鍵になる。road（道路）＋ bed（土台・床）。" }
+    ],
+    "usages": [
+      { "title": "① 「道路の路盤」として", "desc": "舗装を支える土台を表します。", "example_en": "A solid roadbed prevents the pavement from cracking.", "example_ja": "しっかりした路盤は舗装のひび割れを防ぐ。" },
+      { "title": "② 「線路の道床」として", "desc": "レールを支える土台を表します。", "example_en": "Crews packed gravel to form the railroad roadbed.", "example_ja": "作業員は砂利を突き固めて線路の道床を作った。" }
+    ],
+    "warn": [
+      "roadbed は『路盤・道床（道路や線路を支える土台）』。road（道路）＋ bed（土台・床）。",
+      "ここでの bed は『寝台』ではなく『土台・地盤・床』の意味（riverbed＝川底、seabed＝海底 と同じ用法）。"
+    ],
+    "etym_note": "road（『道路』、古英語 rād「乗ること・道」より）＋ bed（『土台・床・地盤』、古英語 bedd より。riverbed などと同じ用法）から成り、「道の土台」を意味します。",
+    "etym_chain": [
+      { "node": "road + bed", "sub": "道路＋土台", "era": "英語" },
+      { "node": "roadbed", "sub": "路盤", "era": "近代英語" },
+      { "node": "roadbed", "sub": "路盤・道床", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a solid roadbed", "ja": "しっかりした路盤" },
+      { "en": "the railroad roadbed", "ja": "線路の道床" },
+      { "en": "prepare the roadbed", "ja": "路盤を整える" },
+      { "en": "a gravel roadbed", "ja": "砂利の道床" },
+      { "en": "compact the roadbed", "ja": "路盤を突き固める" },
+      { "en": "an eroded roadbed", "ja": "浸食された路盤" }
+    ],
+    "related": [
+      { "en": "pavement", "ja": "舗装・舗道" },
+      { "en": "ballast", "ja": "（線路の）道床砂利・バラスト" },
+      { "en": "foundation", "ja": "基礎・土台" },
+      { "en": "subgrade", "ja": "路床" }
+    ],
+    "faq": [
+      { "q": "roadbed とはどんな意味？", "a": "道路の舗装層の下、または鉄道の線路の下にあって、それらを支える土台部分『路盤・道床』のことです。A solid roadbed prevents the pavement from cracking.（しっかりした路盤は舗装のひび割れを防ぐ）のように使います。" },
+      { "q": "roadbed の bed はどんな意味？", "a": "『寝台』ではなく『土台・地盤・床』の意味です。riverbed（川底）、seabed（海底）と同じ用法で、roadbed は『道路の土台』を指します。" }
+    ],
+    "quiz": [
+      { "q": "A solid ___ prevents the pavement from cracking.（路盤）", "A": "roadbed", "B": "flowerbed の花壇", "C": "seabed の海底", "D": "riverbed の川底", "correct": "A" },
+      { "q": "roadbed の bed はどんな意味？", "A": "土台・地盤・床", "B": "寝台だけ", "C": "花壇", "D": "川", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rathole",
+    "pron": "ˈræthəʊl",
+    "kana": "ラットホール",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rat（ネズミ）＋ hole（穴）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "口語・比喩"],
+    "meaning_main": "ネズミの穴／むさ苦しい場所／（金の）浪費の穴",
+    "description": "rathole の意味・発音・例文・語源を解説。ネズミの穴、比喩で「むさ苦しい場所」、また「（お金が）際限なく吸い込まれる浪費先」という、口語で使う語の使い方を紹介します。",
+    "keywords": ["rathole 意味", "rathole 発音", "むさ苦しい場所", "浪費の穴"],
+    "meanings": [
+      { "hinshi": "【名詞】ネズミの穴", "note": "ネズミが出入りする穴。" },
+      { "hinshi": "【名詞】むさ苦しい場所／浪費の穴", "note": "比喩で『（狭く汚い）ひどい場所・あばら家』、また『お金が際限なく吸い込まれて無駄になる先』。pour money down a rathole（金をどぶに捨てる）。" }
+    ],
+    "usages": [
+      { "title": "① 「むさ苦しい場所」として", "desc": "ひどい住まいを表します。", "example_en": "The apartment was a real rathole.", "example_ja": "そのアパートは本当にひどいところだった。" },
+      { "title": "② 「金の浪費先」として", "desc": "無駄な出費を表します。", "example_en": "Investing more would just pour money down a rathole.", "example_ja": "これ以上つぎ込むのは金をどぶに捨てるようなものだ。" }
+    ],
+    "warn": [
+      "rathole は『ネズミの穴／むさ苦しい場所／（金の）浪費の穴』。rat（ネズミ）＋ hole（穴）。くだけた語で否定的。",
+      "pour money down a rathole（金をどぶに捨てる）が定番の比喩表現。会議が脱線することを go down a rathole とも言う。"
+    ],
+    "etym_note": "rat（『ネズミ』、古英語 ræt より）＋ hole（『穴』、古英語 hol より）から成り、「ネズミの穴」を意味します。そこから『むさ苦しい隠れ穴』『（底なしに吸い込む）浪費先』の比喩が生まれました。",
+    "etym_chain": [
+      { "node": "rat + hole", "sub": "ネズミ＋穴", "era": "英語" },
+      { "node": "rathole", "sub": "ネズミの穴", "era": "近代英語" },
+      { "node": "rathole", "sub": "むさ苦しい場所・浪費の穴", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a real rathole", "ja": "本当にひどい場所" },
+      { "en": "pour money down a rathole", "ja": "金をどぶに捨てる" },
+      { "en": "live in a rathole", "ja": "むさ苦しい所に住む" },
+      { "en": "throw money into a rathole", "ja": "無駄に金を注ぎ込む" },
+      { "en": "go down a rathole", "ja": "（議論が）脱線して深みにはまる" },
+      { "en": "a dingy rathole", "ja": "薄汚いあばら家" }
+    ],
+    "related": [
+      { "en": "hovel", "ja": "あばら家・掘っ立て小屋" },
+      { "en": "dump", "ja": "むさ苦しい場所・ごみ捨て場" },
+      { "en": "money pit", "ja": "金食い虫・浪費先" },
+      { "en": "slum", "ja": "スラム・貧民街" }
+    ],
+    "faq": [
+      { "q": "rathole とはどんな意味？", "a": "文字どおりは『ネズミの穴』ですが、比喩で『（狭く汚い）むさ苦しい場所・あばら家』、また『お金が際限なく吸い込まれる浪費先』を指す口語です。The apartment was a real rathole.（そのアパートは本当にひどかった）のように使います。" },
+      { "q": "pour money down a rathole とは？", "a": "『（回収の見込みもなく）お金をどぶに捨てる・無駄につぎ込む』という意味の慣用表現です。ネズミの穴に落とした金が二度と戻らないイメージから来ています。" }
+    ],
+    "quiz": [
+      { "q": "Investing more would just pour money down a ___.（浪費の穴）", "A": "rathole", "B": "loophole の抜け穴", "C": "manhole のマンホール", "D": "pothole の路面の穴", "correct": "A" },
+      { "q": "rathole は何と何を合わせた語？", "A": "rat（ネズミ）と hole（穴）", "B": "rate と hole", "C": "rat と whole", "D": "rat と hall", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rattlebrain",
+    "pron": "ˈrætəlbreɪn",
+    "kana": "ラトルブレイン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rattle（ガタガタ鳴る・浮ついた）＋ brain（頭・脳）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "口語・くだけた"],
+    "meaning_main": "軽はずみな人・おっちょこちょい・考えの浅い人",
+    "description": "rattlebrain の意味・発音・例文・語源を解説。落ち着きがなく「軽はずみな人・おっちょこちょい・考えの浅い人」という、くだけた口語の使い方を紹介します。形容詞 rattlebrained も解説。",
+    "keywords": ["rattlebrain 意味", "rattlebrain 発音", "おっちょこちょい", "軽はずみな人"],
+    "meanings": [
+      { "hinshi": "【名詞】軽はずみな人・おっちょこちょい・考えの浅い人", "note": "落ち着きがなく、深く考えずに軽々しく振る舞う人。頭の中が空っぽで『カタカタ鳴る』イメージ。形容詞は rattlebrained（軽はずみな）。くだけた語。" }
+    ],
+    "usages": [
+      { "title": "① 「おっちょこちょい」として", "desc": "軽率な人を表します。", "example_en": "That rattlebrain forgot the tickets again.", "example_ja": "あのおっちょこちょいはまたチケットを忘れた。" },
+      { "title": "② 形容詞 rattlebrained として", "desc": "軽はずみな性質を表します。", "example_en": "It was a rattlebrained idea from the start.", "example_ja": "それは初めから軽はずみな思いつきだった。" }
+    ],
+    "warn": [
+      "rattlebrain は『軽はずみな人・おっちょこちょい・考えの浅い人』。rattle（ガタガタ鳴る）＋ brain（頭）。くだけた・やや古風。",
+      "形容詞は rattlebrained（軽はずみな）。scatterbrain（そそっかしい人）と近い。"
+    ],
+    "etym_note": "rattle（『ガタガタ鳴る・浮ついてしゃべる』、擬音語）＋ brain（『頭・脳』、古英語 brægen より）から成り、「頭の中が空っぽでカタカタ鳴るような人」を意味します。scatterbrain（散漫な人）と同じ発想の語です。",
+    "etym_chain": [
+      { "node": "rattle + brain", "sub": "ガタガタ鳴る＋頭", "era": "英語" },
+      { "node": "rattlebrain", "sub": "軽はずみな人", "era": "近代英語" },
+      { "node": "rattlebrained", "sub": "軽はずみな", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a real rattlebrain", "ja": "とんだおっちょこちょい" },
+      { "en": "that rattlebrain", "ja": "あの軽はずみな人" },
+      { "en": "a rattlebrained idea", "ja": "軽はずみな思いつき" },
+      { "en": "act like a rattlebrain", "ja": "おっちょこちょいに振る舞う" },
+      { "en": "a rattlebrained scheme", "ja": "浅はかな計画" },
+      { "en": "call someone a rattlebrain", "ja": "〜をおっちょこちょい呼ばわりする" }
+    ],
+    "related": [
+      { "en": "scatterbrain", "ja": "そそっかしい人・散漫な人" },
+      { "en": "featherbrain", "ja": "おろかな人・軽薄な人" },
+      { "en": "airhead", "ja": "頭が空っぽな人" },
+      { "en": "harebrained", "ja": "軽はずみな・浅はかな" }
+    ],
+    "faq": [
+      { "q": "rattlebrain とはどんな意味？", "a": "落ち着きがなく、深く考えずに軽々しく振る舞う『軽はずみな人・おっちょこちょい・考えの浅い人』を指すくだけた語です。That rattlebrain forgot the tickets again.（あのおっちょこちょいはまたチケットを忘れた）のように使います。形容詞は rattlebrained です。" },
+      { "q": "rattlebrain と scatterbrain の違いは？", "a": "どちらも『そそっかしい・軽はずみな人』を指しますが、scatterbrain は『注意が散漫で忘れっぽい』、rattlebrain は『考えが浅く軽々しい』にやや重点があります。意味は近いです。" }
+    ],
+    "quiz": [
+      { "q": "That ___ forgot the tickets again.（おっちょこちょい）", "A": "rattlebrain", "B": "mastermind の首謀者", "C": "brainstorm のブレスト", "D": "birdbath の鳥の水浴び場", "correct": "A" },
+      { "q": "rattlebrain と意味が近いのはどれ？", "A": "scatterbrain（そそっかしい人）", "B": "mastermind（首謀者）", "C": "genius（天才）", "D": "expert（専門家）", "correct": "A" }
+    ]
+  }
+]
