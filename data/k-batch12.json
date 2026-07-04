@@ -1,0 +1,503 @@
+[
+  {
+    "english": "kaleidoscope",
+    "pron": "kəˈlaɪdəskoʊp",
+    "kana": "カライドスコープ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 kalos（美しい）＋ eidos（形）＋ skopein（見る）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "頻出語"],
+    "meaning_main": "万華鏡／めまぐるしく変化するもの",
+    "description": "kaleidoscope は「万華鏡」を表す名詞。筒をのぞくと鏡と色片が作る美しい模様が次々と変わる玩具です。比喩的に「めまぐるしく変化するもの・多彩な集まり」の意味でも使われます。",
+    "keywords": ["kaleidoscope 意味", "kaleidoscope 発音", "kaleidoscope 万華鏡", "kaleidoscope 比喩", "kaleidoscope 例文"],
+    "meanings": [
+      { "hinshi": "【名】万華鏡", "note": "鏡と色片で模様が変化する筒状の玩具。" },
+      { "hinshi": "【名】めまぐるしく変化するもの", "note": "多彩で変わりやすいもの。比喩的。" }
+    ],
+    "usages": [
+      { "title": "① 万華鏡（玩具）", "desc": "のぞくと模様が変わる。", "example_en": "The child looked through the kaleidoscope.", "example_ja": "その子は万華鏡をのぞいた。" },
+      { "title": "② 多彩で変化に富むもの", "desc": "比喩的な用法。", "example_en": "The market is a kaleidoscope of colors.", "example_ja": "市場は色彩の万華鏡のようだ。" },
+      { "title": "③ 移り変わり", "desc": "a kaleidoscope of emotions。", "example_en": "She felt a kaleidoscope of emotions.", "example_ja": "彼女はめまぐるしく変わる感情を覚えた。" }
+    ],
+    "warn": ["綴りが長いので注意。kalei-do-scope と区切ると覚えやすい。", "形容詞は kaleidoscopic（万華鏡のような・多彩な）。"],
+    "etym_note": "ギリシャ語 kalos（美しい）＋ eidos（形）＋ skopein（見る）を組み合わせた造語で、「美しい形を見るもの」の意味です。19世紀に発明者ブルースターが名づけました。",
+    "etym_chain": [
+      { "node": "kalos + eidos + skopein", "sub": "美しい＋形＋見る", "era": "ギリシャ語" },
+      { "node": "kaleidoscope", "sub": "万華鏡", "era": "19世紀英語" },
+      { "node": "kaleidoscope", "sub": "万華鏡・多彩な変化", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "look through a kaleidoscope", "ja": "万華鏡をのぞく" },
+      { "en": "a kaleidoscope of colors", "ja": "色彩の万華鏡" },
+      { "en": "a kaleidoscope of emotions", "ja": "めまぐるしく変わる感情" },
+      { "en": "like a kaleidoscope", "ja": "万華鏡のように" },
+      { "en": "a shifting kaleidoscope", "ja": "移り変わる万華鏡" },
+      { "en": "kaleidoscope pattern", "ja": "万華鏡模様" }
+    ],
+    "related": [
+      { "en": "pattern", "ja": "模様" },
+      { "en": "mirror", "ja": "鏡" },
+      { "en": "color", "ja": "色" },
+      { "en": "variety", "ja": "多様性" }
+    ],
+    "faq": [
+      { "q": "kaleidoscope の語源は？", "a": "ギリシャ語で「美しい（kalos）＋形（eidos）＋見る（skopein）」を組み合わせた造語です。「美しい模様を見る道具」という意味です。" },
+      { "q": "比喩ではどう使いますか？", "a": "「めまぐるしく変化する多彩なもの」を表します。a kaleidoscope of emotions（次々に変わる感情）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "Through the ___, she saw colorful shifting patterns.（万華鏡越しに彼女は色鮮やかに変わる模様を見た）", "A": "kaleidoscope", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "kaleidoscope の kalos が表す意味は？", "A": "美しい", "B": "速い", "C": "大きい", "D": "丸い", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kibbutz",
+    "pron": "kɪˈbʊts",
+    "kana": "キブーツ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ヘブライ語 qibbūṣ（集まり・集団)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "社会・文化"],
+    "meaning_main": "キブツ（イスラエルの共同体・集団農場）",
+    "description": "kibbutz は「キブツ」を表す名詞。イスラエルの共同生活体で、土地や財産を共有し、農業などを協同で行う集団です。ヘブライ語で「集まり」を意味し、複数形は kibbutzim となります。",
+    "keywords": ["kibbutz 意味", "kibbutz 発音", "kibbutz キブツ", "kibbutz イスラエル", "kibbutz 例文"],
+    "meanings": [
+      { "hinshi": "【名】キブツ", "note": "イスラエルの財産共有型の共同体・集団農場。" }
+    ],
+    "usages": [
+      { "title": "① キブツ（共同体）", "desc": "協同で暮らし働く。", "example_en": "He grew up on a kibbutz in Israel.", "example_ja": "彼はイスラエルのキブツで育った。" },
+      { "title": "② 共同で農業を営む", "desc": "土地・財産を共有。", "example_en": "Members of a kibbutz share the work and the profits.", "example_ja": "キブツの構成員は労働も利益も分かち合う。" },
+      { "title": "③ 複数形 kibbutzim", "desc": "ヘブライ語の複数形。", "example_en": "There are many kibbutzim across the country.", "example_ja": "国中に多くのキブツがある。" }
+    ],
+    "warn": ["複数形はヘブライ語式の kibbutzim。発音は /kɪˈbʊts/。", "土地や財産を共有する平等主義的な共同体を指す。"],
+    "etym_note": "ヘブライ語 qibbūṣ（集まり・集団）に由来します。20世紀初めにイスラエル（当時のパレスチナ）で始まった協同組合的な共同生活体を指す語として英語に入りました。",
+    "etym_chain": [
+      { "node": "qibbūṣ", "sub": "集まり・集団", "era": "ヘブライ語" },
+      { "node": "kibbutz", "sub": "共同体", "era": "20世紀英語" },
+      { "node": "kibbutz", "sub": "キブツ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "live on a kibbutz", "ja": "キブツで暮らす" },
+      { "en": "a kibbutz member", "ja": "キブツの構成員" },
+      { "en": "work on a kibbutz", "ja": "キブツで働く" },
+      { "en": "kibbutzim (複数)", "ja": "キブツ（複数）" },
+      { "en": "a farming kibbutz", "ja": "農業キブツ" },
+      { "en": "join a kibbutz", "ja": "キブツに加わる" }
+    ],
+    "related": [
+      { "en": "commune", "ja": "共同体" },
+      { "en": "Israel", "ja": "イスラエル" },
+      { "en": "community", "ja": "共同社会" },
+      { "en": "farm", "ja": "農場" }
+    ],
+    "faq": [
+      { "q": "kibbutz とは何ですか？", "a": "イスラエルの共同生活体で、土地や財産を共有し、農業などを協同で行う平等主義的な集団です。ヘブライ語で「集まり」を意味します。" },
+      { "q": "kibbutz の複数形は？", "a": "ヘブライ語式の kibbutzim（キブツィム）です。英語式に kibbutzes とすることもあります。" }
+    ],
+    "quiz": [
+      { "q": "They shared all their work on the ___.（彼らはキブツですべての労働を分かち合った）", "A": "kibbutz", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "kibbutz はどこの国の共同体？", "A": "イスラエル", "B": "日本", "C": "ドイツ", "D": "ブラジル", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kipper",
+    "pron": "ˈkɪpər",
+    "kana": "キッパー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 cypera（産卵期のサケ)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "食べ物"],
+    "meaning_main": "キッパー（開いて燻製にしたニシン）",
+    "description": "kipper は「キッパー」を表す名詞。ニシンなどを開いて塩漬けにし、燻製にした食品です。イギリスの伝統的な朝食でおなじみで、独特の風味があります。動詞では「燻製にする」の意味もあります。",
+    "keywords": ["kipper 意味", "kipper 発音", "kipper キッパー", "kipper ニシン 燻製", "kipper 例文"],
+    "meanings": [
+      { "hinshi": "【名】キッパー（燻製ニシン）", "note": "開いて塩漬けにし燻製にしたニシン。" },
+      { "hinshi": "【動】(魚を)開いて燻製にする", "note": "塩漬けし煙でいぶす。" }
+    ],
+    "usages": [
+      { "title": "① キッパー（食品）", "desc": "英国の朝食の定番。", "example_en": "He had kippers for breakfast.", "example_ja": "彼は朝食にキッパーを食べた。" },
+      { "title": "② 燻製にする（動詞）", "desc": "kipper the herring。", "example_en": "The herring is kippered over oak smoke.", "example_ja": "そのニシンはオークの煙で燻製にされる。" },
+      { "title": "③ 独特の風味", "desc": "塩気と煙の香り。", "example_en": "Kippers have a strong, smoky flavor.", "example_ja": "キッパーは強い燻製の風味がある。" }
+    ],
+    "warn": ["主にニシンの燻製を指す。イギリスの伝統的な朝食。", "発音は /ˈkɪpər/。"],
+    "etym_note": "古英語 cypera（産卵期のサケ）に由来するとされます。もとは産卵後のサケを保存加工したことから、後に開いて燻製にした魚を指すようになりました。",
+    "etym_chain": [
+      { "node": "cypera", "sub": "産卵期のサケ", "era": "古英語" },
+      { "node": "kipper", "sub": "燻製の魚", "era": "中英語" },
+      { "node": "kipper", "sub": "キッパー", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "kippers for breakfast", "ja": "朝食のキッパー" },
+      { "en": "smoked kipper", "ja": "燻製のキッパー" },
+      { "en": "a pair of kippers", "ja": "キッパー2枚" },
+      { "en": "grilled kippers", "ja": "焼いたキッパー" },
+      { "en": "kipper fillet", "ja": "キッパーの切り身" },
+      { "en": "a kipper and toast", "ja": "キッパーとトースト" }
+    ],
+    "related": [
+      { "en": "herring", "ja": "ニシン" },
+      { "en": "smoke", "ja": "燻製にする・煙" },
+      { "en": "fish", "ja": "魚" },
+      { "en": "breakfast", "ja": "朝食" }
+    ],
+    "faq": [
+      { "q": "kipper とは何ですか？", "a": "ニシンなどを開いて塩漬けにし、燻製にした食品です。イギリスの伝統的な朝食としておなじみで、独特の燻製の風味があります。" },
+      { "q": "kipper は動詞にもなりますか？", "a": "はい。「(魚を)開いて塩漬けし燻製にする」という動詞としても使えます。" }
+    ],
+    "quiz": [
+      { "q": "In Britain, ___ are a traditional breakfast dish.（英国ではキッパーは伝統的な朝食料理だ）", "A": "kippers", "B": "kettles", "C": "kernels", "D": "keepers", "correct": "A" },
+      { "q": "kipper は主にどの魚から作る？", "A": "ニシン", "B": "マグロ", "C": "タラ", "D": "サバ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kneecap",
+    "pron": "ˈniːkæp",
+    "kana": "ニーキャップ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "knee（ひざ）＋ cap（覆い)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "体の部位"],
+    "meaning_main": "膝蓋骨（ひざのお皿）",
+    "description": "kneecap は「膝蓋骨（しつがいこつ）・ひざのお皿」を表す名詞。ひざの前面を覆う丸い骨で、knee（ひざ）＋ cap（覆い）の複合語です。先頭の k は黙字で /ˈniːkæp/ と読みます。",
+    "keywords": ["kneecap 意味", "kneecap 発音", "kneecap 膝蓋骨", "kneecap ひざのお皿", "kneecap 例文"],
+    "meanings": [
+      { "hinshi": "【名】膝蓋骨・ひざのお皿", "note": "ひざの前面を覆う丸い骨。" }
+    ],
+    "usages": [
+      { "title": "① ひざのお皿（骨）", "desc": "ひざを保護する骨。", "example_en": "He fractured his kneecap in the fall.", "example_ja": "彼は転んで膝蓋骨を骨折した。" },
+      { "title": "② ひざを打つ", "desc": "痛める部位。", "example_en": "She banged her kneecap on the table.", "example_ja": "彼女はひざのお皿をテーブルにぶつけた。" },
+      { "title": "③ 解剖学的な語 (patella)", "desc": "正式には patella。", "example_en": "The kneecap is also called the patella.", "example_ja": "膝蓋骨は patella とも呼ばれる。" }
+    ],
+    "warn": ["先頭の k は黙字。/ˈniːkæp/ と読む。", "knee（ひざ）＋ cap（覆い）の複合語。医学用語では patella。"],
+    "etym_note": "knee（ひざ）＋ cap（覆い・帽子）を合わせた複合語です。ひざの前を「帽子のように覆う骨」であることに由来します。",
+    "etym_chain": [
+      { "node": "knee + cap", "sub": "ひざ＋覆い", "era": "近代英語" },
+      { "node": "kneecap", "sub": "膝蓋骨", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "fracture a kneecap", "ja": "膝蓋骨を骨折する" },
+      { "en": "hurt one's kneecap", "ja": "ひざのお皿を痛める" },
+      { "en": "the kneecap (patella)", "ja": "膝蓋骨" },
+      { "en": "a dislocated kneecap", "ja": "外れた膝蓋骨" },
+      { "en": "protect the kneecap", "ja": "ひざのお皿を守る" },
+      { "en": "bang one's kneecap", "ja": "ひざを打つ" }
+    ],
+    "related": [
+      { "en": "knee", "ja": "ひざ" },
+      { "en": "bone", "ja": "骨" },
+      { "en": "patella", "ja": "膝蓋骨(医学名)" },
+      { "en": "joint", "ja": "関節" }
+    ],
+    "faq": [
+      { "q": "kneecap の正式な医学名は？", "a": "patella（膝蓋骨・しつがいこつ）です。kneecap は日常的な言い方です。" },
+      { "q": "kneecap の k は発音しますか？", "a": "いいえ、黙字です。/ˈniːkæp/ と読みます。knee（ひざ）と同じく kn- の k は発音しません。" }
+    ],
+    "quiz": [
+      { "q": "He hit his ___ hard against the desk.（彼はひざのお皿を机に強くぶつけた）", "A": "kneecap", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "kneecap は knee ＋ ___ の複合語。空所は？", "A": "cap", "B": "cup", "C": "cop", "D": "cape", "correct": "A" }
+    ]
+  },
+  {
+    "english": "killjoy",
+    "pron": "ˈkɪldʒɔɪ",
+    "kana": "キルジョイ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "kill（消す）＋ joy（喜び)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "口語"],
+    "meaning_main": "座を白けさせる人／興ざめな人",
+    "description": "killjoy は「(みんなの)楽しみに水を差す人・興ざめな人」を表す名詞。kill（消す）＋ joy（喜び）＝「喜びを殺す人」が語源です。周りが楽しんでいるのに雰囲気を壊す人を指します。",
+    "keywords": ["killjoy 意味", "killjoy 発音", "killjoy 興ざめ", "killjoy 白ける", "killjoy 例文"],
+    "meanings": [
+      { "hinshi": "【名】座を白けさせる人・興ざめな人", "note": "みんなの楽しみに水を差す人。" }
+    ],
+    "usages": [
+      { "title": "① 楽しみに水を差す人", "desc": "雰囲気を壊す人。", "example_en": "Don't be such a killjoy!", "example_ja": "そんなに興ざめなことを言うなよ！" },
+      { "title": "② 場を白けさせる人", "desc": "みんなが楽しむのを妨げる。", "example_en": "He's a real killjoy at parties.", "example_ja": "彼はパーティーで本当に場を白けさせる。" },
+      { "title": "③ 楽しみを台無しにする", "desc": "否定的に。", "example_en": "The rain was a killjoy for our picnic.", "example_ja": "雨が私たちのピクニックを台無しにした。" }
+    ],
+    "warn": ["kill＋joy の複合語。1語で書く。", "類義に spoilsport, party pooper（口語）。"],
+    "etym_note": "kill（消す・殺す）＋ joy（喜び）を合わせた語で、「喜びを殺す人」を意味します。17世紀ごろから使われている複合名詞です。",
+    "etym_chain": [
+      { "node": "kill + joy", "sub": "消す＋喜び", "era": "17世紀英語" },
+      { "node": "killjoy", "sub": "興ざめな人", "era": "近代英語" },
+      { "node": "killjoy", "sub": "座を白けさせる人", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be a killjoy", "ja": "興ざめなことを言う人だ" },
+      { "en": "don't be a killjoy", "ja": "水を差すなよ" },
+      { "en": "such a killjoy", "ja": "本当に興ざめな人" },
+      { "en": "a real killjoy", "ja": "まったくの座白け" },
+      { "en": "act like a killjoy", "ja": "場を白けさせる" },
+      { "en": "the killjoy of the group", "ja": "みんなの興をそぐ人" }
+    ],
+    "related": [
+      { "en": "spoilsport", "ja": "座を白けさせる人" },
+      { "en": "party pooper", "ja": "興ざめな人(口語)" },
+      { "en": "joy", "ja": "喜び" },
+      { "en": "grump", "ja": "不機嫌な人" }
+    ],
+    "faq": [
+      { "q": "killjoy とはどんな人ですか？", "a": "みんなが楽しんでいるのに、否定的なことを言ったり雰囲気を壊したりして「楽しみに水を差す人・興ざめな人」を指します。" },
+      { "q": "killjoy の類義語は？", "a": "spoilsport（座を白けさせる人）や、口語の party pooper（パーティーの雰囲気を壊す人）が近い意味です。" }
+    ],
+    "quiz": [
+      { "q": "Come on, don't be a ___ and join the fun!（さあ、興ざめなこと言わずに楽しもうよ）", "A": "killjoy", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "killjoy は kill ＋ ___ の複合語。空所は？", "A": "joy", "B": "toy", "C": "boy", "D": "day", "correct": "A" }
+    ]
+  },
+  {
+    "english": "knickers",
+    "pron": "ˈnɪkərz",
+    "kana": "ニッカーズ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "knickerbockers（半ズボン）の短縮",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "衣服・英"],
+    "meaning_main": "(英)女性用下着（パンティー）／(古)半ズボン",
+    "description": "knickers は主にイギリス英語で「女性用の下着（パンティー）」を表す名詞。先頭の k は黙字で /ˈnɪkərz/。常に複数形で使います。get one's knickers in a twist（うろたえる）という口語表現でも知られます。",
+    "keywords": ["knickers 意味", "knickers 発音", "knickers 下着", "knickers 英", "knickers 例文"],
+    "meanings": [
+      { "hinshi": "【名】(英)女性用下着・パンティー", "note": "常に複数形。イギリス英語。" },
+      { "hinshi": "【名】(古)ゆったりした半ズボン", "note": "膝下で締める昔のズボン。" }
+    ],
+    "usages": [
+      { "title": "① 女性用下着（英）", "desc": "常に複数形で使う。", "example_en": "She bought a pair of knickers.", "example_ja": "彼女は下着を1枚買った。" },
+      { "title": "② get one's knickers in a twist（うろたえる）", "desc": "英国の口語表現。", "example_en": "Don't get your knickers in a twist over it.", "example_ja": "そのことでそんなにうろたえないで。" },
+      { "title": "③ (古)半ズボン", "desc": "昔の膝下ズボン。", "example_en": "The boy wore old-fashioned knickers.", "example_ja": "その少年は昔風の半ズボンをはいていた。" }
+    ],
+    "warn": ["先頭の k は黙字。常に複数形（a pair of knickers）。", "主にイギリス英語。アメリカ英語では panties が普通。"],
+    "etym_note": "knickerbockers（膝下で締める半ズボん）の短縮形です。この語は、オランダ系ニューヨーカーを描いた小説の登場人物 Diedrich Knickerbocker に由来します。",
+    "etym_chain": [
+      { "node": "Knickerbocker", "sub": "小説の登場人物", "era": "19世紀" },
+      { "node": "knickerbockers", "sub": "半ズボン", "era": "19世紀英語" },
+      { "node": "knickers", "sub": "下着・半ズボン", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a pair of knickers", "ja": "下着1枚" },
+      { "en": "get one's knickers in a twist", "ja": "うろたえる・慌てふためく" },
+      { "en": "clean knickers", "ja": "きれいな下着" },
+      { "en": "lace knickers", "ja": "レースの下着" },
+      { "en": "cotton knickers", "ja": "綿の下着" },
+      { "en": "change one's knickers", "ja": "下着を替える" }
+    ],
+    "related": [
+      { "en": "underwear", "ja": "下着" },
+      { "en": "panties", "ja": "パンティー(米)" },
+      { "en": "pants", "ja": "(英)下着/(米)ズボン" },
+      { "en": "briefs", "ja": "ブリーフ" }
+    ],
+    "faq": [
+      { "q": "knickers はどの英語圏の語ですか？", "a": "主にイギリス英語で「女性用の下着」を意味します。アメリカ英語では panties が一般的です。" },
+      { "q": "get one's knickers in a twist とは？", "a": "「(ささいなことで)うろたえる・慌てふためく・むきになる」という意味のイギリスの口語表現です。" }
+    ],
+    "quiz": [
+      { "q": "In British English, ___ means women's underwear.（イギリス英語で knickers は女性用下着を意味する）", "A": "knickers", "B": "kettles", "C": "kernels", "D": "keepers", "correct": "A" },
+      { "q": "knickers はどの国の英語でよく使う？", "A": "イギリス", "B": "アメリカ", "C": "オーストラリア", "D": "カナダ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kohl",
+    "pron": "koʊl",
+    "kana": "コウル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "アラビア語 kuḥl（黒い化粧粉)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "化粧・文化"],
+    "meaning_main": "コール墨（目の縁に塗る黒い化粧料）",
+    "description": "kohl は「コール墨」を表す名詞。中東・南アジア・北アフリカで古くから使われてきた、目の縁に塗る黒い化粧料です。coal（石炭）と同じ発音で、目を大きく見せたり日差しから守ったりします。",
+    "keywords": ["kohl 意味", "kohl 発音", "kohl コール墨", "kohl アイライナー", "kohl 例文"],
+    "meanings": [
+      { "hinshi": "【名】コール墨", "note": "目の縁に塗る黒い伝統的な化粧料。" }
+    ],
+    "usages": [
+      { "title": "① コール墨（化粧）", "desc": "目を縁取る黒い化粧料。", "example_en": "She lined her eyes with kohl.", "example_ja": "彼女はコール墨で目を縁取った。" },
+      { "title": "② 古代からの化粧", "desc": "古代エジプトでも使われた。", "example_en": "Ancient Egyptians wore kohl around their eyes.", "example_ja": "古代エジプト人は目の周りにコール墨を塗った。" },
+      { "title": "③ 実用的な役割", "desc": "日差しよけにも。", "example_en": "Kohl was believed to protect the eyes from the sun.", "example_ja": "コール墨は目を日差しから守ると信じられた。" }
+    ],
+    "warn": ["coal（石炭）と同じ発音 /koʊl/。綴りと意味で区別。", "chemical としては伝統的に鉛を含むものもあり、注意が必要とされる。"],
+    "etym_note": "アラビア語 kuḥl（目に塗る黒い粉）に由来します。alcohol（アルコール）も同じ語源で、もとは「細かい粉」を意味しました。中東の化粧文化とともに英語に入りました。",
+    "etym_chain": [
+      { "node": "kuḥl", "sub": "黒い化粧粉", "era": "アラビア語" },
+      { "node": "kohl", "sub": "コール墨", "era": "17世紀英語" },
+      { "node": "kohl", "sub": "コール墨", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "line the eyes with kohl", "ja": "コール墨で目を縁取る" },
+      { "en": "kohl-rimmed eyes", "ja": "コール墨で縁取った目" },
+      { "en": "black kohl", "ja": "黒いコール墨" },
+      { "en": "apply kohl", "ja": "コール墨を塗る" },
+      { "en": "traditional kohl", "ja": "伝統的なコール墨" },
+      { "en": "a stick of kohl", "ja": "コール墨のスティック" }
+    ],
+    "related": [
+      { "en": "eyeliner", "ja": "アイライナー" },
+      { "en": "makeup", "ja": "化粧" },
+      { "en": "cosmetic", "ja": "化粧品" },
+      { "en": "eye", "ja": "目" }
+    ],
+    "faq": [
+      { "q": "kohl とは何ですか？", "a": "中東・南アジア・北アフリカで古くから使われる、目の縁に塗る黒い化粧料「コール墨」です。目を大きく見せ、日差しから守る役割もありました。" },
+      { "q": "kohl と coal は同じ発音ですか？", "a": "はい、どちらも /koʊl/ で同じ発音です。kohl は「コール墨」、coal は「石炭」で、綴りと意味が異なります。" }
+    ],
+    "quiz": [
+      { "q": "Ancient Egyptians outlined their eyes with ___.（古代エジプト人はコール墨で目を縁取った）", "A": "kohl", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "kohl と同じ発音の語は？", "A": "coal", "B": "cool", "C": "call", "D": "kill", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kraut",
+    "pron": "kraʊt",
+    "kana": "クラウト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ドイツ語 Kraut（キャベツ・野菜)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "食べ物"],
+    "meaning_main": "ザワークラウト（の略）／発酵キャベツ",
+    "description": "kraut は「ザワークラウト（sauerkraut）」の略として使われる名詞で、細切りキャベツを塩で発酵させた酸味のある漬物を指します。ドイツ語で「キャベツ・野菜」を意味する Kraut が語源です。",
+    "keywords": ["kraut 意味", "kraut 発音", "kraut ザワークラウト", "sauerkraut 略", "kraut 例文"],
+    "meanings": [
+      { "hinshi": "【名】ザワークラウト（発酵キャベツ）", "note": "sauerkraut の略。塩で発酵させた酸っぱいキャベツ。" }
+    ],
+    "usages": [
+      { "title": "① ザワークラウト（食品）", "desc": "sauerkraut の略。", "example_en": "The sausage came with kraut.", "example_ja": "そのソーセージにはザワークラウトが添えられていた。" },
+      { "title": "② ソーセージの付け合わせ", "desc": "ドイツ料理の定番。", "example_en": "Hot dogs taste great with kraut.", "example_ja": "ホットドッグはザワークラウトと相性がよい。" },
+      { "title": "③ 酸味のある発酵食品", "desc": "乳酸発酵の漬物。", "example_en": "Kraut is made by fermenting cabbage.", "example_ja": "ザワークラウトはキャベツを発酵させて作る。" }
+    ],
+    "warn": ["食品としては sauerkraut（ザワークラウト）の略。ドイツ語 sauer（酸っぱい）＋Kraut（キャベツ）。", "発音は /kraʊt/（クラウト）。out と韻を踏む。"],
+    "etym_note": "ドイツ語 Kraut（キャベツ・葉物野菜・草）に由来します。sauerkraut（酸っぱいキャベツ）の後半部分で、英語では食品を指す略語として使われます。",
+    "etym_chain": [
+      { "node": "Kraut", "sub": "キャベツ・野菜", "era": "ドイツ語" },
+      { "node": "sauerkraut", "sub": "酸っぱいキャベツ", "era": "17世紀英語" },
+      { "node": "kraut", "sub": "ザワークラウト", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "sauerkraut", "ja": "ザワークラウト" },
+      { "en": "sausage and kraut", "ja": "ソーセージとザワークラウト" },
+      { "en": "a serving of kraut", "ja": "ザワークラウト一皿" },
+      { "en": "fermented kraut", "ja": "発酵したザワークラウト" },
+      { "en": "top with kraut", "ja": "ザワークラウトをのせる" },
+      { "en": "homemade kraut", "ja": "自家製ザワークラウト" }
+    ],
+    "related": [
+      { "en": "cabbage", "ja": "キャベツ" },
+      { "en": "sauerkraut", "ja": "ザワークラウト" },
+      { "en": "pickle", "ja": "漬物" },
+      { "en": "ferment", "ja": "発酵させる" }
+    ],
+    "faq": [
+      { "q": "kraut とは何ですか？", "a": "sauerkraut（ザワークラウト）の略で、細切りキャベツを塩で発酵させた酸味のある漬物です。ソーセージなどの付け合わせによく使われます。" },
+      { "q": "sauerkraut の意味は？", "a": "ドイツ語で sauer（酸っぱい）＋ Kraut（キャベツ）＝「酸っぱいキャベツ」です。乳酸発酵させて作ります。" }
+    ],
+    "quiz": [
+      { "q": "The German dish was served with sausage and ___.（そのドイツ料理はソーセージとザワークラウト付きだった）", "A": "kraut", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "kraut は何の略？", "A": "sauerkraut", "B": "kraken", "C": "karma", "D": "kayak", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kickstand",
+    "pron": "ˈkɪkstænd",
+    "kana": "キックスタンド",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "kick（蹴る）＋ stand（支え)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "乗り物・機器"],
+    "meaning_main": "(自転車・バイクの)スタンド",
+    "description": "kickstand は「(自転車やオートバイの)スタンド」を表す名詞。足で蹴って倒し、車体を立てて支えておく金具です。kick（蹴る）＋ stand（支え）の複合語で、駐輪時に使います。",
+    "keywords": ["kickstand 意味", "kickstand 発音", "kickstand スタンド", "kickstand 自転車", "kickstand 例文"],
+    "meanings": [
+      { "hinshi": "【名】(自転車・バイクの)スタンド", "note": "足で蹴って倒し車体を立てる金具。" }
+    ],
+    "usages": [
+      { "title": "① 自転車のスタンド", "desc": "駐輪時に立てる金具。", "example_en": "She put the bike on its kickstand.", "example_ja": "彼女は自転車をスタンドで立てた。" },
+      { "title": "② 足で蹴って出す", "desc": "kick down the kickstand。", "example_en": "He kicked down the kickstand and got off.", "example_ja": "彼はスタンドを蹴り下ろして降りた。" },
+      { "title": "③ バイクのスタンド", "desc": "サイドスタンドなど。", "example_en": "The motorcycle leaned on its kickstand.", "example_ja": "そのバイクはスタンドにもたれて立っていた。" }
+    ],
+    "warn": ["kick＋stand の複合語。1語で書く。", "自転車・オートバイを立てて支える金具を指す。"],
+    "etym_note": "kick（蹴る）＋ stand（支え・立てるもの）を合わせた20世紀の複合語です。足で蹴って倒す動作で使うスタンドであることに由来します。",
+    "etym_chain": [
+      { "node": "kick + stand", "sub": "蹴る＋支え", "era": "20世紀英語" },
+      { "node": "kickstand", "sub": "スタンド", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "put down the kickstand", "ja": "スタンドを下ろす" },
+      { "en": "on its kickstand", "ja": "スタンドで立てて" },
+      { "en": "a bike kickstand", "ja": "自転車のスタンド" },
+      { "en": "flip up the kickstand", "ja": "スタンドをはね上げる" },
+      { "en": "kick down the kickstand", "ja": "スタンドを蹴り下ろす" },
+      { "en": "a broken kickstand", "ja": "壊れたスタンド" }
+    ],
+    "related": [
+      { "en": "bicycle", "ja": "自転車" },
+      { "en": "motorcycle", "ja": "オートバイ" },
+      { "en": "stand", "ja": "台・支え" },
+      { "en": "park", "ja": "駐車・駐輪する" }
+    ],
+    "faq": [
+      { "q": "kickstand とは何ですか？", "a": "自転車やオートバイを立てて支えておくための金具「スタンド」です。足で蹴って倒して使うことから、kick（蹴る）＋ stand（支え）と名づけられました。" },
+      { "q": "kickstand は1語ですか？", "a": "はい、kick（蹴る）＋ stand（支え）の複合語として1語で書きます。" }
+    ],
+    "quiz": [
+      { "q": "He parked his bike and put down the ___.（彼は自転車を停めてスタンドを下ろした）", "A": "kickstand", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "kickstand は kick ＋ ___ の複合語。空所は？", "A": "stand", "B": "start", "C": "back", "D": "off", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kooky",
+    "pron": "ˈkuːki",
+    "kana": "クーキー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "cuckoo（カッコウ・変な）＋ -y",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "口語"],
+    "meaning_main": "風変わりな／奇抜な／ちょっと変な",
+    "description": "kooky は「風変わりな・奇抜な」を表すくだけた形容詞。少し変わっているが憎めない、ユニークで愉快な人や物を表します。cuckoo（カッコウ→「変な」の俗語）から生まれた語で、親しみを込めて使われます。",
+    "keywords": ["kooky 意味", "kooky 発音", "kooky 風変わり", "kooky 奇抜", "kooky 例文"],
+    "meanings": [
+      { "hinshi": "【形】風変わりな・奇抜な", "note": "少し変わっているがユニークで愉快な。口語。" }
+    ],
+    "usages": [
+      { "title": "① 風変わりな（人）", "desc": "ユニークで憎めない。", "example_en": "She has a kooky sense of humor.", "example_ja": "彼女は風変わりなユーモアのセンスを持っている。" },
+      { "title": "② 奇抜な（物・考え）", "desc": "型破りな。", "example_en": "He came up with a kooky idea.", "example_ja": "彼は奇抜なアイデアを思いついた。" },
+      { "title": "③ 親しみを込めて", "desc": "愉快な変わり者。", "example_en": "The movie is full of kooky characters.", "example_ja": "その映画は風変わりな登場人物でいっぱいだ。" }
+    ],
+    "warn": ["くだけた口語。多くは親しみ・肯定的なニュアンス。", "名詞は kook（変わり者）。"],
+    "etym_note": "cuckoo（カッコウ）が俗語で「頭のおかしい・変な」を意味したことから、名詞 kook（変わり者）が生まれ、それに -y が付いて形容詞 kooky になりました。20世紀のアメリカ英語です。",
+    "etym_chain": [
+      { "node": "cuckoo", "sub": "カッコウ・変な", "era": "俗語" },
+      { "node": "kook", "sub": "変わり者", "era": "20世紀英語" },
+      { "node": "kooky", "sub": "風変わりな", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a kooky idea", "ja": "奇抜なアイデア" },
+      { "en": "kooky humor", "ja": "風変わりなユーモア" },
+      { "en": "a kooky character", "ja": "変わり者のキャラクター" },
+      { "en": "a bit kooky", "ja": "ちょっと風変わりな" },
+      { "en": "kooky and fun", "ja": "奇抜で楽しい" },
+      { "en": "kooky style", "ja": "奇抜なスタイル" }
+    ],
+    "related": [
+      { "en": "eccentric", "ja": "風変わりな" },
+      { "en": "quirky", "ja": "一風変わった" },
+      { "en": "weird", "ja": "奇妙な" },
+      { "en": "odd", "ja": "変な" }
+    ],
+    "faq": [
+      { "q": "kooky はどんなニュアンスの語ですか？", "a": "「風変わりな・奇抜な」ですが、多くは親しみを込めた肯定的なニュアンスです。ユニークで憎めない愉快な人や物を表します。" },
+      { "q": "kooky の語源は？", "a": "cuckoo（カッコウ）が俗語で「頭のおかしい・変な」を意味したことから、名詞 kook（変わり者）が生まれ、その形容詞形が kooky です。" }
+    ],
+    "quiz": [
+      { "q": "I love her ___ and original fashion sense.（私は彼女の風変わりで独創的なファッションが好きだ）", "A": "kooky", "B": "kindly", "C": "keen", "D": "known", "correct": "A" },
+      { "q": "kooky の意味に近いのは？", "A": "風変わりな", "B": "普通の", "C": "退屈な", "D": "厳格な", "correct": "A" }
+    ]
+  }
+]
