@@ -1,0 +1,514 @@
+[
+  {
+    "english": "kill",
+    "pron": "kɪl",
+    "kana": "キル",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "中英語 cullen（打つ・殺す）",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A1", "基本語"],
+    "meaning_main": "殺す／枯らす／(時間を)つぶす",
+    "description": "kill は「殺す」を表す基本動詞。人・動物・植物の命を絶つことを指し、比喩的に「時間をつぶす」「痛みを消す」などの用法もあります。",
+    "keywords": ["kill 意味", "kill 使い方", "kill 殺す", "kill time 意味", "kill 例文"],
+    "meanings": [
+      { "hinshi": "【動】殺す・死なせる", "note": "命を絶つこと。人・動物・植物に使う。" },
+      { "hinshi": "【動】(時間を)つぶす", "note": "kill time で「暇をつぶす」。" },
+      { "hinshi": "【動】(痛み・音などを)消す", "note": "kill the pain（痛みを止める）。" },
+      { "hinshi": "【名】仕留めること・獲物", "note": "狩りで得た獲物。" }
+    ],
+    "usages": [
+      { "title": "① 殺す", "desc": "命を絶つ基本の意味。", "example_en": "The frost killed the flowers.", "example_ja": "霜が花を枯らした。" },
+      { "title": "② kill time（時間をつぶす）", "desc": "暇な時間を過ごす。", "example_en": "We played cards to kill time.", "example_ja": "私たちは時間つぶしにトランプをした。" },
+      { "title": "③ 痛みを消す (kill the pain)", "desc": "痛みや感覚を和らげる。", "example_en": "This medicine kills the pain.", "example_ja": "この薬は痛みを止める。" }
+    ],
+    "warn": ["過去形・過去分詞は killed（規則変化）。", "「殺人」は名詞 murder、殺す行為全般は kill。文脈で使い分ける。"],
+    "etym_note": "中英語 cullen（打つ・殺す）に由来し、quell（鎮圧する）とも関係があるとされます。もとは「打ちのめす」という意味でした。",
+    "etym_chain": [
+      { "node": "cullen", "sub": "打つ・殺す", "era": "中英語" },
+      { "node": "killen", "sub": "殺す", "era": "中英語後期" },
+      { "node": "kill", "sub": "殺す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "kill time", "ja": "時間をつぶす" },
+      { "en": "kill two birds with one stone", "ja": "一石二鳥" },
+      { "en": "be killed in", "ja": "〜で亡くなる" },
+      { "en": "kill off", "ja": "皆殺しにする・絶滅させる" },
+      { "en": "kill the pain", "ja": "痛みを止める" },
+      { "en": "dressed to kill", "ja": "とびきりおしゃれをして" }
+    ],
+    "related": [
+      { "en": "die", "ja": "死ぬ" },
+      { "en": "murder", "ja": "殺人・殺害する" },
+      { "en": "hurt", "ja": "傷つける" },
+      { "en": "destroy", "ja": "破壊する" }
+    ],
+    "faq": [
+      { "q": "kill と murder の違いは？", "a": "kill は「殺す」全般（事故・病気・植物にも使う）、murder は「(故意の)殺人」を指します。murder の方が犯罪の意味が強いです。" },
+      { "q": "kill time はどんな意味ですか？", "a": "「時間をつぶす・暇を過ごす」という意味の慣用表現です。to kill time（時間つぶしに）の形でよく使います。" }
+    ],
+    "quiz": [
+      { "q": "We watched TV to ___ time.（時間つぶしにテレビを見た）", "A": "kill", "B": "keep", "C": "know", "D": "kick", "correct": "A" },
+      { "q": "kill two birds with one ___ は「一石二鳥」。空所は？", "A": "stone", "B": "bird", "C": "key", "D": "kite", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kilogram",
+    "pron": "ˈkɪləɡræm",
+    "kana": "キログラム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 khilioi（千）＋ gramma（重さの単位）",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A1", "単位"],
+    "meaning_main": "キログラム（1000グラム）",
+    "description": "kilogram は重さの単位「キログラム」を表す名詞。1キログラム＝1000グラムです。略号は kg。英式では kilogramme とも綴ります。",
+    "keywords": ["kilogram 意味", "kilogram 発音", "kilogram キログラム", "kg 単位", "kilogram 例文"],
+    "meanings": [
+      { "hinshi": "【名】キログラム", "note": "重さ（質量）の単位。1kg＝1000g。略号 kg。" }
+    ],
+    "usages": [
+      { "title": "① 重さを表す", "desc": "数字＋kilograms。", "example_en": "This bag weighs two kilograms.", "example_ja": "このかばんは2キログラムある。" },
+      { "title": "② 体重・重量", "desc": "人や物の重さ。", "example_en": "The baby was born at three kilograms.", "example_ja": "その赤ちゃんは3キログラムで生まれた。" },
+      { "title": "③ 略してkilo", "desc": "口語では kilo と短くも言う。", "example_en": "I bought a kilo of rice.", "example_ja": "私は米を1キロ買った。" }
+    ],
+    "warn": ["略号は kg。1 kilogram = 1000 grams。", "口語では kilo と短縮することが多い。複数は kilograms / kilos。"],
+    "etym_note": "ギリシャ語 khilioi（千）を表す接頭辞 kilo- と、重さの単位 gramma（グラム）を組み合わせた語です。フランスのメートル法とともに広まりました。",
+    "etym_chain": [
+      { "node": "khilioi + gramma", "sub": "千＋グラム", "era": "ギリシャ語" },
+      { "node": "kilogramme", "sub": "キログラム", "era": "18世紀フランス語" },
+      { "node": "kilogram", "sub": "キログラム", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a kilogram of ~", "ja": "1キログラムの〜" },
+      { "en": "two kilograms", "ja": "2キログラム" },
+      { "en": "per kilogram", "ja": "1キログラムあたり" },
+      { "en": "half a kilogram", "ja": "500グラム・半キロ" },
+      { "en": "a kilo of sugar", "ja": "砂糖1キロ" },
+      { "en": "lose kilograms", "ja": "体重を減らす" }
+    ],
+    "related": [
+      { "en": "gram", "ja": "グラム" },
+      { "en": "kilometer", "ja": "キロメートル" },
+      { "en": "weight", "ja": "重さ" },
+      { "en": "pound", "ja": "ポンド" }
+    ],
+    "faq": [
+      { "q": "1キログラムは何グラムですか？", "a": "1000グラムです。kilo- は「千」を表す接頭辞です。略号は kg です。" },
+      { "q": "kilo だけでも通じますか？", "a": "はい。口語では a kilo of rice（米1キロ）のように kilogram を kilo と短縮してよく使います。" }
+    ],
+    "quiz": [
+      { "q": "This melon weighs one ___.（このメロンは1キログラムある）", "A": "kilogram", "B": "kilometer", "C": "kingdom", "D": "kitchen", "correct": "A" },
+      { "q": "1 kilogram は何グラム？", "A": "10グラム", "B": "100グラム", "C": "1000グラム", "D": "10000グラム", "correct": "C" }
+    ]
+  },
+  {
+    "english": "kneel",
+    "pron": "niːl",
+    "kana": "ニール",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古英語 cnēowlian（ひざまずく）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "動作"],
+    "meaning_main": "ひざまずく／ひざをつく",
+    "description": "kneel は「ひざまずく・ひざをつく」を表す動詞。先頭の k は黙字で /niːl/。knee（ひざ）から派生した語で、kneel down の形でよく使われます。",
+    "keywords": ["kneel 意味", "kneel 発音", "kneel ひざまずく", "kneel down", "kneel 例文"],
+    "meanings": [
+      { "hinshi": "【動】ひざまずく", "note": "床にひざをついた姿勢をとる。" },
+      { "hinshi": "【動】ひざをついている", "note": "ひざまずいた状態を保つ。" }
+    ],
+    "usages": [
+      { "title": "① ひざまずく (kneel down)", "desc": "down を伴うことが多い。", "example_en": "He knelt down to tie his shoe.", "example_ja": "彼は靴ひもを結ぶためにひざまずいた。" },
+      { "title": "② 祈るためにひざをつく", "desc": "宗教的な場面でも。", "example_en": "The people knelt to pray.", "example_ja": "人々は祈るためにひざまずいた。" },
+      { "title": "③ プロポーズなどで片ひざをつく", "desc": "敬意や愛情を示す。", "example_en": "He knelt on one knee and proposed.", "example_ja": "彼は片ひざをついてプロポーズした。" }
+    ],
+    "warn": ["先頭の k は黙字。/niːl/ と読む。", "過去形・過去分詞は knelt または kneeled（両方使われる）。"],
+    "etym_note": "古英語 cnēowlian に由来し、knee（ひざ）から派生した動詞です。「ひざを地につける」という意味がそのまま残っています。",
+    "etym_chain": [
+      { "node": "cnēowlian", "sub": "ひざまずく", "era": "古英語" },
+      { "node": "knelen", "sub": "ひざまずく", "era": "中英語" },
+      { "node": "kneel", "sub": "ひざまずく", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "kneel down", "ja": "ひざまずく" },
+      { "en": "kneel on one knee", "ja": "片ひざをつく" },
+      { "en": "kneel to pray", "ja": "祈るためにひざまずく" },
+      { "en": "kneel before", "ja": "〜の前にひざまずく" },
+      { "en": "knelt down", "ja": "ひざまずいた（過去）" },
+      { "en": "kneel in prayer", "ja": "ひざまずいて祈る" }
+    ],
+    "related": [
+      { "en": "knee", "ja": "ひざ" },
+      { "en": "bow", "ja": "おじぎする" },
+      { "en": "sit", "ja": "座る" },
+      { "en": "pray", "ja": "祈る" }
+    ],
+    "faq": [
+      { "q": "kneel の過去形は？", "a": "knelt が一般的ですが、kneeled も使われます。どちらも正しい形です。" },
+      { "q": "kneel と knee の関係は？", "a": "kneel（ひざまずく）は名詞 knee（ひざ）から派生した動詞です。どちらも k は黙字です。" }
+    ],
+    "quiz": [
+      { "q": "She ___ down to pick up the coin.（彼女は硬貨を拾うためにひざまずいた）", "A": "knelt", "B": "knew", "C": "knocked", "D": "knitted", "correct": "A" },
+      { "q": "kneel の発音として正しいのは？", "A": "クニール", "B": "ニール", "C": "ケニール", "D": "クネエル", "correct": "B" }
+    ]
+  },
+  {
+    "english": "knuckle",
+    "pron": "ˈnʌkl",
+    "kana": "ナックル",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "中英語 knokel（指の関節）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "体の部位"],
+    "meaning_main": "指の関節／こぶし",
+    "description": "knuckle は「指の関節・こぶしの節」を表す名詞。先頭の k は黙字で /ˈnʌkl/。野球の変化球「ナックルボール」の語源でもあります。",
+    "keywords": ["knuckle 意味", "knuckle 発音", "knuckle 指の関節", "knuckle ball", "knuckle 例文"],
+    "meanings": [
+      { "hinshi": "【名】指の関節・こぶしの節", "note": "指の付け根の骨の出っぱり。" },
+      { "hinshi": "【動】knuckle down（本腰を入れる）", "note": "真剣に取り組む。" },
+      { "hinshi": "【動】knuckle under（屈する）", "note": "圧力に負けて従う。" }
+    ],
+    "usages": [
+      { "title": "① 指の関節", "desc": "こぶしの出っぱり。", "example_en": "He cracked his knuckles.", "example_ja": "彼は指の関節をポキポキ鳴らした。" },
+      { "title": "② knuckle down（本腰を入れる）", "desc": "真剣に取り組み始める。", "example_en": "It's time to knuckle down and study.", "example_ja": "そろそろ本腰を入れて勉強する時だ。" },
+      { "title": "③ ナックルボール", "desc": "回転の少ない変化球。", "example_en": "The pitcher threw a knuckleball.", "example_ja": "投手はナックルボールを投げた。" }
+    ],
+    "warn": ["先頭の k は黙字。/ˈnʌkl/ と読む。", "「指の関節を鳴らす」は crack one's knuckles。"],
+    "etym_note": "中英語 knokel に由来し、「小さな骨・節」を表しました。ゲルマン語系の語で、knee や knob と同じく丸い突起を指すイメージがあります。",
+    "etym_chain": [
+      { "node": "knokel", "sub": "指の関節", "era": "中英語" },
+      { "node": "knuckle", "sub": "関節", "era": "近代英語" },
+      { "node": "knuckle", "sub": "指の関節・こぶし", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "crack one's knuckles", "ja": "指の関節を鳴らす" },
+      { "en": "knuckle down", "ja": "本腰を入れる" },
+      { "en": "knuckle under", "ja": "屈する・従う" },
+      { "en": "knuckleball", "ja": "ナックルボール" },
+      { "en": "white knuckles", "ja": "力んで白くなった指(緊張)" },
+      { "en": "brass knuckles", "ja": "メリケンサック" }
+    ],
+    "related": [
+      { "en": "finger", "ja": "指" },
+      { "en": "fist", "ja": "こぶし" },
+      { "en": "joint", "ja": "関節" },
+      { "en": "hand", "ja": "手" }
+    ],
+    "faq": [
+      { "q": "knuckle の k は発音しますか？", "a": "いいえ、黙字です。/ˈnʌkl/（ナックル）と読みます。kn- の k は発音しません。" },
+      { "q": "knuckle down はどんな意味ですか？", "a": "「本腰を入れる・真剣に取り組む」という意味の句動詞です。knuckle under（屈する）と混同しないよう注意しましょう。" }
+    ],
+    "quiz": [
+      { "q": "He cracked his ___ before the game.（試合前に指の関節を鳴らした）", "A": "knuckles", "B": "knees", "C": "knots", "D": "knives", "correct": "A" },
+      { "q": "knuckle down の意味は？", "A": "屈する", "B": "本腰を入れる", "C": "ひざまずく", "D": "編む", "correct": "B" }
+    ]
+  },
+  {
+    "english": "kidnap",
+    "pron": "ˈkɪdnæp",
+    "kana": "キドナップ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "kid（子供）＋ nap（さらう・盗む）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "社会・事件"],
+    "meaning_main": "誘拐する／拉致する",
+    "description": "kidnap は「誘拐する・拉致する」を表す動詞。身代金や脅迫のために人を無理やり連れ去ることを指します。kid（子供）＋ nap（かすめ取る）が語源です。",
+    "keywords": ["kidnap 意味", "kidnap 発音", "kidnap 誘拐", "kidnapping 名詞", "kidnap 例文"],
+    "meanings": [
+      { "hinshi": "【動】誘拐する・拉致する", "note": "人を無理やり連れ去ること。" },
+      { "hinshi": "【名】(kidnapping)誘拐(事件)", "note": "-ping を重ねて名詞にする。" }
+    ],
+    "usages": [
+      { "title": "① 誘拐する", "desc": "身代金目的などで連れ去る。", "example_en": "The gang kidnapped a wealthy man.", "example_ja": "その一味は裕福な男性を誘拐した。" },
+      { "title": "② 受け身で「誘拐される」", "desc": "be kidnapped。", "example_en": "The child was kidnapped on his way home.", "example_ja": "その子は帰り道で誘拐された。" },
+      { "title": "③ 名詞 kidnapping（誘拐）", "desc": "事件・犯罪を指す。", "example_en": "The kidnapping shocked the town.", "example_ja": "その誘拐事件は町を震撼させた。" }
+    ],
+    "warn": ["過去形・-ing 形は p を重ねる: kidnapped, kidnapping。", "誘拐犯は kidnapper。名詞（誘拐）は kidnapping。"],
+    "etym_note": "kid（子供）＋ nap（＝nab, かすめ取る・つかまえる）を合わせた17世紀の語です。もとは植民地へ売るため子供をさらう行為を指しました。",
+    "etym_chain": [
+      { "node": "kid + nap", "sub": "子供＋さらう", "era": "17世紀英語" },
+      { "node": "kidnap", "sub": "誘拐する", "era": "近代英語" },
+      { "node": "kidnap", "sub": "誘拐する・拉致する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "kidnap a child", "ja": "子供を誘拐する" },
+      { "en": "be kidnapped", "ja": "誘拐される" },
+      { "en": "kidnapping case", "ja": "誘拐事件" },
+      { "en": "kidnapper", "ja": "誘拐犯" },
+      { "en": "kidnap for ransom", "ja": "身代金目的で誘拐する" },
+      { "en": "attempted kidnapping", "ja": "誘拐未遂" }
+    ],
+    "related": [
+      { "en": "abduct", "ja": "拉致する" },
+      { "en": "ransom", "ja": "身代金" },
+      { "en": "hostage", "ja": "人質" },
+      { "en": "crime", "ja": "犯罪" }
+    ],
+    "faq": [
+      { "q": "kidnap の過去形は？", "a": "kidnapped です。p を重ねる点に注意しましょう。-ing 形も kidnapping となります。" },
+      { "q": "kidnap の語源は？", "a": "kid（子供）＋ nap（かすめ取る＝nab）です。もとは子供をさらう行為を指しましたが、今は大人を含む「誘拐」全般に使います。" }
+    ],
+    "quiz": [
+      { "q": "The criminals ___ the boy for ransom.（犯人は身代金目的で少年を誘拐した）", "A": "kidnapped", "B": "kidnaped", "C": "kidnapt", "D": "kidnaping", "correct": "A" },
+      { "q": "「誘拐犯」を表す語は？", "A": "kidnapping", "B": "kidnapper", "C": "kidnap", "D": "kidnaped", "correct": "B" }
+    ]
+  },
+  {
+    "english": "kindly",
+    "pron": "ˈkaɪndli",
+    "kana": "カインドリー",
+    "hinshi": "副詞 / 形容詞",
+    "ld_pos": "副詞",
+    "ld_etym": "kind（親切な）＋ -ly（副詞語尾）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "頻出語"],
+    "meaning_main": "親切に／どうか(丁寧な依頼)",
+    "description": "kindly は「親切に・優しく」を表す副詞。丁寧な依頼「どうか〜してください」でも使われます。形容詞 kind に -ly が付いた形で、皮肉っぽく強い依頼を表すこともあります。",
+    "keywords": ["kindly 意味", "kindly 発音", "kindly 親切に", "kindly 依頼", "kindly 例文"],
+    "meanings": [
+      { "hinshi": "【副】親切に・優しく", "note": "思いやりを持って行動するようす。" },
+      { "hinshi": "【副】どうか・どうぞ(丁寧な依頼)", "note": "Would you kindly ~? など。" },
+      { "hinshi": "【形】優しい・思いやりのある", "note": "a kindly old man（優しい老人）。" }
+    ],
+    "usages": [
+      { "title": "① 親切に（副詞）", "desc": "動作のようすを表す。", "example_en": "She kindly helped me carry the bags.", "example_ja": "彼女は親切に荷物を運ぶのを手伝ってくれた。" },
+      { "title": "② 丁寧な依頼", "desc": "Would you kindly ~? で「どうか〜してください」。", "example_en": "Would you kindly close the window?", "example_ja": "どうか窓を閉めていただけますか？" },
+      { "title": "③ 形容詞（優しい）", "desc": "名詞を修飾。", "example_en": "He is a kindly old gentleman.", "example_ja": "彼は優しい老紳士だ。" }
+    ],
+    "warn": ["丁寧な依頼の kindly は、状況によっては皮肉・強い催促に聞こえることもある。", "kind（親切な＝形容詞）と kindly（親切に＝副詞）を区別する。"],
+    "etym_note": "形容詞 kind（親切な）に、副詞をつくる接尾辞 -ly が付いた語です。古英語の gecyndelīce（自然に・生まれつき）にさかのぼります。",
+    "etym_chain": [
+      { "node": "gecyndelīce", "sub": "自然に", "era": "古英語" },
+      { "node": "kindely", "sub": "親切に", "era": "中英語" },
+      { "node": "kindly", "sub": "親切に・どうか", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Would you kindly ~?", "ja": "どうか〜してくださいませんか" },
+      { "en": "kindly note that", "ja": "〜にご留意ください" },
+      { "en": "take kindly to", "ja": "〜を快く受け入れる" },
+      { "en": "kindly help", "ja": "親切に手伝う" },
+      { "en": "speak kindly", "ja": "優しく話す" },
+      { "en": "a kindly smile", "ja": "優しいほほえみ" }
+    ],
+    "related": [
+      { "en": "kind", "ja": "親切な" },
+      { "en": "gently", "ja": "優しく・穏やかに" },
+      { "en": "please", "ja": "どうぞ" },
+      { "en": "warmly", "ja": "温かく" }
+    ],
+    "faq": [
+      { "q": "kind と kindly の違いは？", "a": "kind は形容詞「親切な」、kindly は副詞「親切に」です。kindly は丁寧な依頼「どうか〜」の意味でも使います。" },
+      { "q": "Would you kindly ~? は丁寧ですか？", "a": "基本は丁寧な依頼ですが、文脈や口調によっては皮肉・強い催促に聞こえることもあるので注意しましょう。" }
+    ],
+    "quiz": [
+      { "q": "He ___ offered to drive me home.（彼は親切にも家まで送ると申し出た）", "A": "kind", "B": "kindly", "C": "kindness", "D": "kindest", "correct": "B" },
+      { "q": "kindly は kind ＋ ___ でできた副詞。空所は？", "A": "-ness", "B": "-ly", "C": "-dom", "D": "-ful", "correct": "B" }
+    ]
+  },
+  {
+    "english": "kiosk",
+    "pron": "ˈkiːɒsk",
+    "kana": "キオスク",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "トルコ語 köşk（あずまや）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "生活語"],
+    "meaning_main": "売店／キオスク／情報端末",
+    "description": "kiosk は「(駅などの)売店・キオスク」を表す名詞。新聞やお菓子を売る小さな店を指します。近年はタッチパネル式の「情報端末・券売機」の意味でも使われます。",
+    "keywords": ["kiosk 意味", "kiosk 発音", "kiosk 売店", "kiosk 端末", "kiosk 例文"],
+    "meanings": [
+      { "hinshi": "【名】売店・キオスク", "note": "駅や街角の小さな店。" },
+      { "hinshi": "【名】(タッチ式)情報端末・券売機", "note": "自動で情報を提供・発券する機械。" }
+    ],
+    "usages": [
+      { "title": "① 売店（駅など）", "desc": "新聞・軽食などを売る。", "example_en": "I bought a magazine at the kiosk.", "example_ja": "私は売店で雑誌を買った。" },
+      { "title": "② 情報端末・券売機", "desc": "空港などのタッチパネル端末。", "example_en": "Check in at the self-service kiosk.", "example_ja": "セルフサービス端末でチェックインしてください。" },
+      { "title": "③ 屋台風の小店舗", "desc": "ショッピングモール内など。", "example_en": "There is a coffee kiosk in the mall.", "example_ja": "モールの中にコーヒーの売店がある。" }
+    ],
+    "warn": ["発音は /ˈkiːɒsk/（キーオスク）。最初を強く読む。", "元は「あずまや」の意味だったトルコ語由来の外来語。"],
+    "etym_note": "トルコ語 köşk（庭園のあずまや・パビリオン）に由来し、フランス語 kiosque を経て英語に入りました。開放的な小屋の意味から「売店」へと発展しました。",
+    "etym_chain": [
+      { "node": "köşk", "sub": "あずまや", "era": "トルコ語" },
+      { "node": "kiosque", "sub": "あずまや・売店", "era": "フランス語" },
+      { "node": "kiosk", "sub": "売店・端末", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a newspaper kiosk", "ja": "新聞売店" },
+      { "en": "ticket kiosk", "ja": "券売機・チケット売り場" },
+      { "en": "self-service kiosk", "ja": "セルフサービス端末" },
+      { "en": "information kiosk", "ja": "案内端末" },
+      { "en": "at the kiosk", "ja": "売店で" },
+      { "en": "check-in kiosk", "ja": "チェックイン端末" }
+    ],
+    "related": [
+      { "en": "stand", "ja": "屋台・売店" },
+      { "en": "booth", "ja": "ブース・小部屋" },
+      { "en": "shop", "ja": "店" },
+      { "en": "stall", "ja": "露店" }
+    ],
+    "faq": [
+      { "q": "kiosk の発音は？", "a": "/ˈkiːɒsk/（キーオスク）で、最初の音節を強く読みます。日本語の「キオスク」とは少しリズムが違います。" },
+      { "q": "kiosk は店以外の意味もありますか？", "a": "はい。近年は空港やモールにあるタッチパネル式の「情報端末・券売機」も kiosk と呼びます。" }
+    ],
+    "quiz": [
+      { "q": "I got a snack from the ___ at the station.（駅の売店で軽食を買った）", "A": "kiosk", "B": "kingdom", "C": "kettle", "D": "knight", "correct": "A" },
+      { "q": "kiosk のもとの意味は？", "A": "券売機", "B": "あずまや", "C": "新聞", "D": "駅", "correct": "B" }
+    ]
+  },
+  {
+    "english": "karate",
+    "pron": "kəˈrɑːti",
+    "kana": "カラーティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "日本語「空手」（空＝から＋手＝て）",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "スポーツ・文化"],
+    "meaning_main": "空手",
+    "description": "karate は日本発祥の武道「空手」を表す名詞。武器を使わず手足で突き・蹴りを行う格闘技で、世界中に広まりました。日本語がそのまま英語になった語です。",
+    "keywords": ["karate 意味", "karate 発音", "karate 空手", "karate 武道", "karate 例文"],
+    "meanings": [
+      { "hinshi": "【名】空手", "note": "手足を使う日本発祥の武道。" }
+    ],
+    "usages": [
+      { "title": "① 空手（武道）", "desc": "do / practice karate で「空手をする」。", "example_en": "He practices karate every weekend.", "example_ja": "彼は毎週末に空手を練習している。" },
+      { "title": "② 空手の技", "desc": "karate chop（手刀）など。", "example_en": "She broke the board with a karate chop.", "example_ja": "彼女は手刀で板を割った。" },
+      { "title": "③ 級・段（belt）", "desc": "black belt（黒帯）など。", "example_en": "He earned a black belt in karate.", "example_ja": "彼は空手で黒帯を取った。" }
+    ],
+    "warn": ["発音は /kəˈrɑːti/（カラーティ）で、真ん中を強く読む。日本語の「カラテ」とアクセントが違う。", "「空手をする」は do karate または practice karate。"],
+    "etym_note": "日本語の「空手」（空＝から＝空っぽ／素手、手＝て）に由来し、「武器を持たない手」という意味です。沖縄で発達し、20世紀に世界へ広まりました。",
+    "etym_chain": [
+      { "node": "空手 (karate)", "sub": "素手の武術", "era": "沖縄・日本" },
+      { "node": "karate", "sub": "空手", "era": "20世紀英語" },
+      { "node": "karate", "sub": "空手", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "do karate", "ja": "空手をする" },
+      { "en": "practice karate", "ja": "空手を練習する" },
+      { "en": "karate chop", "ja": "手刀・空手チョップ" },
+      { "en": "black belt in karate", "ja": "空手の黒帯" },
+      { "en": "karate class", "ja": "空手教室" },
+      { "en": "a karate kick", "ja": "空手の蹴り" }
+    ],
+    "related": [
+      { "en": "judo", "ja": "柔道" },
+      { "en": "martial arts", "ja": "武道・格闘技" },
+      { "en": "belt", "ja": "帯" },
+      { "en": "kick", "ja": "蹴り" }
+    ],
+    "faq": [
+      { "q": "karate の語源は？", "a": "日本語の「空手」で、「空（から＝素手）＋手（て）」＝武器を持たない手、という意味です。沖縄で発達しました。" },
+      { "q": "「空手をする」は英語で？", "a": "do karate または practice karate と言います。play は使いません。" }
+    ],
+    "quiz": [
+      { "q": "My brother learns ___ at the dojo.（兄は道場で空手を習っている）", "A": "karate", "B": "kettle", "C": "kiosk", "D": "kingdom", "correct": "A" },
+      { "q": "karate はどこ発祥の武道？", "A": "中国", "B": "日本（沖縄）", "C": "韓国", "D": "タイ", "correct": "B" }
+    ]
+  },
+  {
+    "english": "karaoke",
+    "pron": "ˌkæriˈoʊki",
+    "kana": "キャリオウキ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "日本語「カラオケ」（空＝から＋オーケストラ）",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "娯楽・文化"],
+    "meaning_main": "カラオケ",
+    "description": "karaoke は「カラオケ」を表す名詞。伴奏に合わせて歌う娯楽で、日本発祥。世界中に広まった日本語由来の英単語で、英語では /ˌkæriˈoʊki/ と発音します。",
+    "keywords": ["karaoke 意味", "karaoke 発音", "karaoke カラオケ", "karaoke 語源", "karaoke 例文"],
+    "meanings": [
+      { "hinshi": "【名】カラオケ", "note": "伴奏に合わせて歌う娯楽・その機器。" }
+    ],
+    "usages": [
+      { "title": "① カラオケをする (do/sing karaoke)", "desc": "「カラオケで歌う」。", "example_en": "We sang karaoke all night.", "example_ja": "私たちは一晩中カラオケで歌った。" },
+      { "title": "② カラオケに行く", "desc": "go to karaoke。", "example_en": "Let's go to karaoke after dinner.", "example_ja": "夕食のあとカラオケに行こう。" },
+      { "title": "③ カラオケ機・ボックス", "desc": "karaoke machine / bar。", "example_en": "They bought a karaoke machine.", "example_ja": "彼らはカラオケ機を買った。" }
+    ],
+    "warn": ["英語の発音は /ˌkæriˈoʊki/（キャリオウキ）で、日本語の「カラオケ」とかなり違う。", "「カラオケをする」は do / sing karaoke。"],
+    "etym_note": "日本語の「カラオケ」に由来し、「空（から＝空っぽ）＋オケ（オーケストラ）」＝歌のない伴奏、という意味です。1970年代の日本で生まれ、世界へ広まりました。",
+    "etym_chain": [
+      { "node": "カラオケ", "sub": "空＋オーケストラ", "era": "20世紀日本" },
+      { "node": "karaoke", "sub": "カラオケ", "era": "20世紀後半英語" },
+      { "node": "karaoke", "sub": "カラオケ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "sing karaoke", "ja": "カラオケで歌う" },
+      { "en": "go to karaoke", "ja": "カラオケに行く" },
+      { "en": "karaoke machine", "ja": "カラオケ機" },
+      { "en": "karaoke bar", "ja": "カラオケバー" },
+      { "en": "karaoke night", "ja": "カラオケの夜(イベント)" },
+      { "en": "a karaoke song", "ja": "カラオケの曲" }
+    ],
+    "related": [
+      { "en": "sing", "ja": "歌う" },
+      { "en": "song", "ja": "歌" },
+      { "en": "music", "ja": "音楽" },
+      { "en": "microphone", "ja": "マイク" }
+    ],
+    "faq": [
+      { "q": "karaoke の語源は？", "a": "日本語で「空（から＝空っぽ）＋オケ（オーケストラ）」＝歌の入っていない伴奏、という意味です。1970年代の日本で生まれました。" },
+      { "q": "英語の karaoke の発音は？", "a": "/ˌkæriˈoʊki/（キャリオウキ）に近く、日本語の「カラオケ」とはかなり異なります。" }
+    ],
+    "quiz": [
+      { "q": "We sang ___ at the party.（パーティーでカラオケを歌った）", "A": "karaoke", "B": "karate", "C": "kiosk", "D": "kettle", "correct": "A" },
+      { "q": "karaoke の語源「オケ」は何の略？", "A": "オーケストラ", "B": "オーケー", "C": "お客", "D": "オルガン", "correct": "A" }
+    ]
+  },
+  {
+    "english": "khaki",
+    "pron": "ˈkɑːki",
+    "kana": "カーキ",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ヒンディー・ウルドゥー語 khākī（土ぼこり色の）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "色・服"],
+    "meaning_main": "カーキ色／カーキ色の服",
+    "description": "khaki は「カーキ色（黄土色がかった茶緑）」を表す名詞・形容詞。もとは軍服の色で、ヒンディー語で「土ぼこり色」を意味します。ズボンなどの服も指します。",
+    "keywords": ["khaki 意味", "khaki 発音", "khaki カーキ", "khaki 色", "khaki 例文"],
+    "meanings": [
+      { "hinshi": "【名】カーキ色", "note": "黄土色がかった茶緑色。" },
+      { "hinshi": "【名】カーキ色の服・ズボン", "note": "特に綿のズボン(khakis)。" },
+      { "hinshi": "【形】カーキ色の", "note": "khaki pants（カーキ色のズボン）。" }
+    ],
+    "usages": [
+      { "title": "① カーキ色（色）", "desc": "土っぽい茶緑色。", "example_en": "He wore a khaki jacket.", "example_ja": "彼はカーキ色のジャケットを着ていた。" },
+      { "title": "② カーキのズボン (khakis)", "desc": "複数形で綿ズボンを指す。", "example_en": "She bought a pair of khakis.", "example_ja": "彼女はカーキのズボンを1本買った。" },
+      { "title": "③ 軍服の色", "desc": "もとは軍で使われた色。", "example_en": "The soldiers wore khaki uniforms.", "example_ja": "兵士たちはカーキ色の軍服を着ていた。" }
+    ],
+    "warn": ["発音は /ˈkɑːki/（カーキ）。米では /ˈkæki/ とも。", "服の「カーキのズボン」は複数形 khakis で表すことが多い。"],
+    "etym_note": "ヒンディー・ウルドゥー語 khākī（土ぼこりの・土色の）に由来します。19世紀にインド駐留の英国軍が目立ちにくい軍服の色として採用し、世界に広まりました。",
+    "etym_chain": [
+      { "node": "khākī", "sub": "土ぼこり色の", "era": "ヒンディー・ウルドゥー語" },
+      { "node": "khaki", "sub": "軍服の色", "era": "19世紀英語" },
+      { "node": "khaki", "sub": "カーキ色", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "khaki pants", "ja": "カーキ色のズボン" },
+      { "en": "khaki uniform", "ja": "カーキ色の軍服" },
+      { "en": "a pair of khakis", "ja": "カーキのズボン1本" },
+      { "en": "khaki green", "ja": "カーキグリーン" },
+      { "en": "khaki jacket", "ja": "カーキ色のジャケット" },
+      { "en": "dressed in khaki", "ja": "カーキ色の服を着て" }
+    ],
+    "related": [
+      { "en": "beige", "ja": "ベージュ" },
+      { "en": "brown", "ja": "茶色" },
+      { "en": "olive", "ja": "オリーブ色" },
+      { "en": "uniform", "ja": "制服・軍服" }
+    ],
+    "faq": [
+      { "q": "khaki の語源は？", "a": "ヒンディー・ウルドゥー語で「土ぼこり色の」を意味する khākī です。目立たない軍服の色として広まりました。" },
+      { "q": "khakis と複数形にすると何を指しますか？", "a": "カーキ色の綿のズボン（チノパン）を指すことが多いです。a pair of khakis（カーキのズボン1本）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The hiker wore ___ shorts.（登山者はカーキ色の短パンをはいていた）", "A": "khaki", "B": "kettle", "C": "kiosk", "D": "karate", "correct": "A" },
+      { "q": "khaki のもとの意味は？", "A": "土ぼこり色の", "B": "海の色の", "C": "空の色の", "D": "血の色の", "correct": "A" }
+    ]
+  }
+]
