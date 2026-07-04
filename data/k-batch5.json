@@ -1,0 +1,511 @@
+[
+  {
+    "english": "killer",
+    "pron": "ˈkɪlər",
+    "kana": "キラー",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "kill（殺す）＋ -er（人・物を表す語尾）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頻出語"],
+    "meaning_main": "殺す者／殺し屋／(口語)すごいもの",
+    "description": "killer は「殺す者・殺し屋」を表す名詞。kill（殺す）＋ -er でできています。口語では「とてもすごい・きつい」という形容詞的な使い方もあります。",
+    "keywords": ["killer 意味", "killer 発音", "killer 殺し屋", "killer 口語", "killer 例文"],
+    "meanings": [
+      { "hinshi": "【名】殺す者・殺人者", "note": "人や動物を殺す存在。" },
+      { "hinshi": "【名】致命的なもの・難物", "note": "That hill is a killer.（あの坂はきつい）。" },
+      { "hinshi": "【形】(口語)すごい・強烈な", "note": "a killer smile（魅力的な笑顔）など。" }
+    ],
+    "usages": [
+      { "title": "① 殺す者・殺し屋", "desc": "犯罪や動物について。", "example_en": "The police caught the killer.", "example_ja": "警察は殺人犯を捕まえた。" },
+      { "title": "② 致命的なもの・難物", "desc": "「非常にきついもの」。", "example_en": "This exam is a real killer.", "example_ja": "この試験は本当にきつい。" },
+      { "title": "③ (口語)すごい (killer + 名詞)", "desc": "強調的にほめる。", "example_en": "She has a killer voice.", "example_ja": "彼女はすごい歌声を持っている。" }
+    ],
+    "warn": ["kill＋-er の派生語。動物なら killer whale（シャチ）など。", "口語の「すごい」の killer は良い意味にも使う。"],
+    "etym_note": "動詞 kill（殺す）に、「〜する人・物」を表す接尾辞 -er が付いた名詞です。中英語のころから使われています。",
+    "etym_chain": [
+      { "node": "killen + -er", "sub": "殺す＋人", "era": "中英語" },
+      { "node": "killer", "sub": "殺す者", "era": "近代英語" },
+      { "node": "killer", "sub": "殺し屋・すごいもの", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "serial killer", "ja": "連続殺人犯" },
+      { "en": "killer whale", "ja": "シャチ" },
+      { "en": "a killer smile", "ja": "魅力的な笑顔" },
+      { "en": "cold-blooded killer", "ja": "冷酷な殺人者" },
+      { "en": "pain killer", "ja": "痛み止め" },
+      { "en": "a killer app", "ja": "キラーアプリ・目玉商品" }
+    ],
+    "related": [
+      { "en": "kill", "ja": "殺す" },
+      { "en": "murderer", "ja": "殺人者" },
+      { "en": "victim", "ja": "被害者" },
+      { "en": "weapon", "ja": "武器" }
+    ],
+    "faq": [
+      { "q": "killer whale とは何ですか？", "a": "「シャチ」のことです。killer（殺す者）＋ whale（クジラ）で、獰猛な捕食者であることに由来します。" },
+      { "q": "killer は良い意味でも使いますか？", "a": "はい。口語では a killer smile（すてきな笑顔）のように「すごい・魅力的な」という良い意味の形容詞的用法もあります。" }
+    ],
+    "quiz": [
+      { "q": "The detective finally found the ___.（探偵はついに殺人犯を見つけた）", "A": "killer", "B": "kettle", "C": "kiosk", "D": "kite", "correct": "A" },
+      { "q": "killer whale の意味は？", "A": "サメ", "B": "シャチ", "C": "イルカ", "D": "クジラの子", "correct": "B" }
+    ]
+  },
+  {
+    "english": "kilobyte",
+    "pron": "ˈkɪloʊbaɪt",
+    "kana": "キロバイト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "kilo（千）＋ byte（バイト）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "IT・単位"],
+    "meaning_main": "キロバイト（データ量の単位）",
+    "description": "kilobyte はコンピューターのデータ量の単位「キロバイト」を表す名詞。1キロバイト＝約1000バイトです。略号は KB。kilo-（千）＋ byte の複合語です。",
+    "keywords": ["kilobyte 意味", "kilobyte 発音", "kilobyte キロバイト", "KB 単位", "kilobyte 例文"],
+    "meanings": [
+      { "hinshi": "【名】キロバイト", "note": "データ量の単位。1KB＝約1000バイト。略号 KB。" }
+    ],
+    "usages": [
+      { "title": "① データ量を表す", "desc": "ファイルの大きさなど。", "example_en": "This text file is only a few kilobytes.", "example_ja": "このテキストファイルはほんの数キロバイトだ。" },
+      { "title": "② 単位の関係", "desc": "1000KB＝1MB(メガバイト)。", "example_en": "A megabyte is about a thousand kilobytes.", "example_ja": "1メガバイトは約1000キロバイトだ。" },
+      { "title": "③ 略号 KB", "desc": "書き言葉での表記。", "example_en": "The image is 500 KB in size.", "example_ja": "その画像は500キロバイトの大きさだ。" }
+    ],
+    "warn": ["略号は KB（大文字）。1 kilobyte ≒ 1000 bytes。", "kilo-（千）＋ byte の複合語。上位は megabyte, gigabyte。"],
+    "etym_note": "「千」を表す接頭辞 kilo- と、コンピューターのデータ量の基本単位 byte を組み合わせた20世紀の造語です。byte 自体は bit（ビット）から作られた語です。",
+    "etym_chain": [
+      { "node": "kilo + byte", "sub": "千＋バイト", "era": "20世紀英語" },
+      { "node": "kilobyte", "sub": "キロバイト", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a few kilobytes", "ja": "数キロバイト" },
+      { "en": "500 kilobytes", "ja": "500キロバイト" },
+      { "en": "kilobyte per second", "ja": "毎秒キロバイト" },
+      { "en": "file size in KB", "ja": "キロバイト単位のファイルサイズ" },
+      { "en": "megabyte and kilobyte", "ja": "メガバイトとキロバイト" },
+      { "en": "only a kilobyte", "ja": "わずか1キロバイト" }
+    ],
+    "related": [
+      { "en": "byte", "ja": "バイト" },
+      { "en": "megabyte", "ja": "メガバイト" },
+      { "en": "gigabyte", "ja": "ギガバイト" },
+      { "en": "data", "ja": "データ" }
+    ],
+    "faq": [
+      { "q": "1キロバイトはどのくらいですか？", "a": "約1000バイトです（厳密には1024バイトとする場合もあります）。略号は KB です。" },
+      { "q": "kilobyte より大きい単位は？", "a": "megabyte（メガバイト、約1000KB）、gigabyte（ギガバイト、約1000MB）と続きます。" }
+    ],
+    "quiz": [
+      { "q": "This small file is just 20 ___.（この小さいファイルはたった20キロバイトだ）", "A": "kilobytes", "B": "kilograms", "C": "kilometers", "D": "kingdoms", "correct": "A" },
+      { "q": "kilobyte の略号は？", "A": "KG", "B": "KM", "C": "KB", "D": "KL", "correct": "C" }
+    ]
+  },
+  {
+    "english": "kimono",
+    "pron": "kɪˈmoʊnoʊ",
+    "kana": "キモウノウ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "日本語「着物」（着る＋物）",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "衣服・文化"],
+    "meaning_main": "着物／和服",
+    "description": "kimono は日本の伝統衣装「着物」を表す名詞。長い袖と帯が特徴で、日本語がそのまま英語になった語です。西洋風のゆったりした部屋着を指すこともあります。",
+    "keywords": ["kimono 意味", "kimono 発音", "kimono 着物", "kimono 和服", "kimono 例文"],
+    "meanings": [
+      { "hinshi": "【名】着物・和服", "note": "帯で締める日本の伝統衣装。" },
+      { "hinshi": "【名】(西洋の)ゆったりした部屋着", "note": "着物風のガウン。" }
+    ],
+    "usages": [
+      { "title": "① 着物（和服）", "desc": "wear a kimono で「着物を着る」。", "example_en": "She wore a beautiful kimono to the festival.", "example_ja": "彼女は祭りに美しい着物を着ていった。" },
+      { "title": "② 帯を締める", "desc": "obi（帯）で留める。", "example_en": "A kimono is tied with a sash called an obi.", "example_ja": "着物は帯と呼ばれる布で締める。" },
+      { "title": "③ 複数形 kimonos", "desc": "-o で終わるが -s だけ付ける。", "example_en": "The shop sells silk kimonos.", "example_ja": "その店は絹の着物を売っている。" }
+    ],
+    "warn": ["複数形は kimonos（-es ではなく -s）。", "発音は /kɪˈmoʊnoʊ/（キモウノウ）で、真ん中を強く読む。"],
+    "etym_note": "日本語の「着物」（着る＋物＝身につけるもの）に由来します。19世紀に日本が開国し、欧米に紹介されてそのまま英語になりました。",
+    "etym_chain": [
+      { "node": "着物 (kimono)", "sub": "着る物", "era": "日本" },
+      { "node": "kimono", "sub": "着物", "era": "19世紀英語" },
+      { "node": "kimono", "sub": "着物・和服", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "wear a kimono", "ja": "着物を着る" },
+      { "en": "a silk kimono", "ja": "絹の着物" },
+      { "en": "kimono sleeve", "ja": "着物袖・ゆったりした袖" },
+      { "en": "put on a kimono", "ja": "着物を着る" },
+      { "en": "a colorful kimono", "ja": "色鮮やかな着物" },
+      { "en": "kimono and obi", "ja": "着物と帯" }
+    ],
+    "related": [
+      { "en": "obi", "ja": "帯" },
+      { "en": "robe", "ja": "ローブ・ガウン" },
+      { "en": "sushi", "ja": "寿司" },
+      { "en": "Japan", "ja": "日本" }
+    ],
+    "faq": [
+      { "q": "kimono の複数形は？", "a": "kimonos です。-o で終わりますが、-es ではなく -s だけを付けます。" },
+      { "q": "kimono の語源は？", "a": "日本語の「着物」で、「着る＋物」＝身につけるもの、という意味です。日本の開国とともに英語圏に伝わりました。" }
+    ],
+    "quiz": [
+      { "q": "She looked elegant in her silk ___.（彼女は絹の着物姿が上品だった）", "A": "kimono", "B": "kiosk", "C": "kettle", "D": "kite", "correct": "A" },
+      { "q": "kimono の複数形は？", "A": "kimonoes", "B": "kimonos", "C": "kimonies", "D": "kimoni", "correct": "B" }
+    ]
+  },
+  {
+    "english": "kindle",
+    "pron": "ˈkɪndl",
+    "kana": "キンドル",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古ノルド語 kynda（火をつける）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "やや硬い語"],
+    "meaning_main": "火をつける／(感情を)かき立てる",
+    "description": "kindle は「火をつける・燃え立たせる」を表す動詞。比喩的に「興味や感情をかき立てる」の意味でもよく使われます。電子書籍端末の名前でも知られています。",
+    "keywords": ["kindle 意味", "kindle 発音", "kindle 火をつける", "kindle 興味", "kindle 例文"],
+    "meanings": [
+      { "hinshi": "【動】火をつける・燃やし始める", "note": "薪などに火を起こすこと。" },
+      { "hinshi": "【動】(感情・興味を)かき立てる", "note": "kindle interest（興味をかき立てる）。" },
+      { "hinshi": "【動】(感情が)燃え上がる", "note": "自動詞で「燃え立つ」。" }
+    ],
+    "usages": [
+      { "title": "① 火をつける", "desc": "薪や落ち葉に火を起こす。", "example_en": "He kindled a fire with dry leaves.", "example_ja": "彼は乾いた葉で火をおこした。" },
+      { "title": "② 興味・感情をかき立てる", "desc": "比喩的な用法。", "example_en": "The book kindled her interest in space.", "example_ja": "その本は彼女の宇宙への興味をかき立てた。" },
+      { "title": "③ 燃え上がる（自動詞）", "desc": "感情が高まる。", "example_en": "Hope kindled in his heart.", "example_ja": "彼の心に希望が燃え上がった。" }
+    ],
+    "warn": ["やや文学的・硬い語。日常では light a fire も使う。", "反対の「火が消える・弱まる」は die down など。"],
+    "etym_note": "古ノルド語 kynda（火をつける）に由来し、candle（ろうそく）とも間接的に関係するとされます。「火を起こす」から「感情を燃え立たせる」へと意味が広がりました。",
+    "etym_chain": [
+      { "node": "kynda", "sub": "火をつける", "era": "古ノルド語" },
+      { "node": "kindlen", "sub": "火をつける", "era": "中英語" },
+      { "node": "kindle", "sub": "火をつける・かき立てる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "kindle a fire", "ja": "火をおこす" },
+      { "en": "kindle interest", "ja": "興味をかき立てる" },
+      { "en": "kindle hope", "ja": "希望を燃え立たせる" },
+      { "en": "kindle a passion", "ja": "情熱をかき立てる" },
+      { "en": "rekindle", "ja": "再び火をつける・よみがえらせる" },
+      { "en": "kindling", "ja": "たきつけ（火種の小枝）" }
+    ],
+    "related": [
+      { "en": "light", "ja": "火をつける" },
+      { "en": "ignite", "ja": "点火する" },
+      { "en": "burn", "ja": "燃える" },
+      { "en": "spark", "ja": "火花・きっかけを与える" }
+    ],
+    "faq": [
+      { "q": "kindle は火以外にも使いますか？", "a": "はい。比喩的に「興味・希望・情熱をかき立てる」という意味でよく使われます。例: kindle interest（興味をかき立てる）。" },
+      { "q": "rekindle とはどんな意味ですか？", "a": "re-（再び）＋ kindle で「再び火をつける・(愛情や関係を)よみがえらせる」という意味です。" }
+    ],
+    "quiz": [
+      { "q": "The teacher's story ___ the students' curiosity.（先生の話は生徒の好奇心をかき立てた）", "A": "kindled", "B": "killed", "C": "kicked", "D": "knitted", "correct": "A" },
+      { "q": "kindle a fire の意味は？", "A": "火を消す", "B": "火をおこす", "C": "水をまく", "D": "料理する", "correct": "B" }
+    ]
+  },
+  {
+    "english": "kingfisher",
+    "pron": "ˈkɪŋfɪʃər",
+    "kana": "キングフィッシャー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "king（王）＋ fisher（釣る者）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "動物・鳥"],
+    "meaning_main": "カワセミ",
+    "description": "kingfisher は「カワセミ」を表す名詞。青く輝く羽と、水に飛び込んで魚を捕らえる姿で知られる鳥です。king（王）＋ fisher（釣り手）＝「魚捕りの名手」が語源です。",
+    "keywords": ["kingfisher 意味", "kingfisher 発音", "kingfisher カワセミ", "kingfisher 鳥", "kingfisher 例文"],
+    "meanings": [
+      { "hinshi": "【名】カワセミ", "note": "水辺にすみ、魚を捕る青い羽の鳥。" }
+    ],
+    "usages": [
+      { "title": "① カワセミ（鳥）", "desc": "水辺で魚を捕る。", "example_en": "A kingfisher dived into the river.", "example_ja": "カワセミが川に飛び込んだ。" },
+      { "title": "② 美しい青い羽", "desc": "宝石のような色。", "example_en": "The kingfisher's blue feathers shone in the sun.", "example_ja": "カワセミの青い羽が日に輝いた。" },
+      { "title": "③ 水辺の象徴", "desc": "きれいな川の指標とされる。", "example_en": "Kingfishers live near clean rivers.", "example_ja": "カワセミはきれいな川の近くにすむ。" }
+    ],
+    "warn": ["king＋fisher の複合語で、「王のように魚捕りがうまい鳥」の意。", "1語で書く（king fisher と分けない）。"],
+    "etym_note": "king（王）＋ fisher（魚を捕る者）を合わせた語です。もとは king's fisher とも呼ばれ、魚捕りの見事さを「王」にたとえた名前です。",
+    "etym_chain": [
+      { "node": "king + fisher", "sub": "王＋釣り手", "era": "15世紀英語" },
+      { "node": "kingfisher", "sub": "カワセミ", "era": "近代英語" },
+      { "node": "kingfisher", "sub": "カワセミ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a blue kingfisher", "ja": "青いカワセミ" },
+      { "en": "kingfisher's nest", "ja": "カワセミの巣" },
+      { "en": "spot a kingfisher", "ja": "カワセミを見つける" },
+      { "en": "kingfisher blue", "ja": "カワセミの青（鮮やかな青）" },
+      { "en": "a diving kingfisher", "ja": "飛び込むカワセミ" },
+      { "en": "river kingfisher", "ja": "カワセミ（川辺の）" }
+    ],
+    "related": [
+      { "en": "bird", "ja": "鳥" },
+      { "en": "river", "ja": "川" },
+      { "en": "fish", "ja": "魚" },
+      { "en": "feather", "ja": "羽" }
+    ],
+    "faq": [
+      { "q": "kingfisher の語源は？", "a": "king（王）＋ fisher（魚を捕る者）で、「魚捕りが王のようにうまい鳥」を表します。実際、水に飛び込んで見事に魚を捕らえます。" },
+      { "q": "kingfisher はどんな鳥ですか？", "a": "青く輝く羽を持ち、水辺にすむ小型の鳥「カワセミ」です。きれいな川の近くで見られます。" }
+    ],
+    "quiz": [
+      { "q": "A ___ caught a fish in its beak.（カワセミがくちばしで魚を捕らえた）", "A": "kingfisher", "B": "kangaroo", "C": "koala", "D": "kitten", "correct": "A" },
+      { "q": "kingfisher は king ＋ ___ の複合語。空所は？", "A": "fisher", "B": "farmer", "C": "father", "D": "finger", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kiwi",
+    "pron": "ˈkiːwiː",
+    "kana": "キーウィー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "マオリ語 kiwi（キーウィ鳥）",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "動物・果物"],
+    "meaning_main": "キウイ(鳥)／キウイフルーツ",
+    "description": "kiwi は飛べない鳥「キーウィ」を表す名詞。ニュージーランドの国鳥です。果物の「キウイフルーツ」や、ニュージーランド人の愛称としても使われます。",
+    "keywords": ["kiwi 意味", "kiwi 発音", "kiwi 鳥", "kiwi fruit", "kiwi 例文"],
+    "meanings": [
+      { "hinshi": "【名】キーウィ(鳥)", "note": "ニュージーランド固有の飛べない鳥。国鳥。" },
+      { "hinshi": "【名】キウイフルーツ", "note": "緑色の果肉と黒い種の果物。kiwi fruit。" },
+      { "hinshi": "【名】(口語)ニュージーランド人", "note": "親しみを込めた呼び名。" }
+    ],
+    "usages": [
+      { "title": "① キーウィ（鳥）", "desc": "夜行性で翼が退化している。", "example_en": "The kiwi is the national bird of New Zealand.", "example_ja": "キーウィはニュージーランドの国鳥だ。" },
+      { "title": "② キウイフルーツ", "desc": "kiwi または kiwi fruit。", "example_en": "I ate a slice of kiwi.", "example_ja": "私はキウイを一切れ食べた。" },
+      { "title": "③ ニュージーランド人の愛称", "desc": "口語で親しみを込めて。", "example_en": "Many Kiwis love rugby.", "example_ja": "多くのニュージーランド人はラグビーが大好きだ。" }
+    ],
+    "warn": ["3つの意味（鳥・果物・NZ人）がある。文脈で判断する。", "果物は kiwi または kiwi fruit。複数は kiwis。"],
+    "etym_note": "ニュージーランド先住民マオリの言葉 kiwi（鳥の鳴き声に由来）から来ています。果物は形が鳥に似ていることから20世紀に kiwi fruit と名づけられました。",
+    "etym_chain": [
+      { "node": "kiwi", "sub": "キーウィ鳥", "era": "マオリ語" },
+      { "node": "kiwi", "sub": "鳥・NZ人", "era": "19-20世紀英語" },
+      { "node": "kiwi", "sub": "鳥・果物・NZ人", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "kiwi fruit", "ja": "キウイフルーツ" },
+      { "en": "a flightless kiwi", "ja": "飛べないキーウィ" },
+      { "en": "the national bird", "ja": "国鳥" },
+      { "en": "a Kiwi (New Zealander)", "ja": "ニュージーランド人" },
+      { "en": "kiwi and banana", "ja": "キウイとバナナ" },
+      { "en": "ripe kiwi", "ja": "熟したキウイ" }
+    ],
+    "related": [
+      { "en": "New Zealand", "ja": "ニュージーランド" },
+      { "en": "fruit", "ja": "果物" },
+      { "en": "bird", "ja": "鳥" },
+      { "en": "ostrich", "ja": "ダチョウ" }
+    ],
+    "faq": [
+      { "q": "kiwi には何種類の意味がありますか？", "a": "主に3つあります。①飛べない鳥「キーウィ」、②果物「キウイフルーツ」、③ニュージーランド人の愛称です。" },
+      { "q": "キウイフルーツと鳥はどちらが先ですか？", "a": "鳥の方が先です。果物は形や毛の見た目が鳥に似ていることから、後になって kiwi fruit と名づけられました。" }
+    ],
+    "quiz": [
+      { "q": "The ___ is a flightless bird from New Zealand.（キーウィはニュージーランドの飛べない鳥だ）", "A": "kiwi", "B": "koala", "C": "knight", "D": "kettle", "correct": "A" },
+      { "q": "kiwi が指さないものは？", "A": "飛べない鳥", "B": "果物", "C": "ニュージーランド人", "D": "山の名前", "correct": "D" }
+    ]
+  },
+  {
+    "english": "knack",
+    "pron": "næk",
+    "kana": "ナック",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "中英語 knak（巧みな技・音）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "こつ／要領／才能",
+    "description": "knack は「こつ・要領・生まれつきの才能」を表す名詞。先頭の k は黙字で /næk/。have a knack for ~（〜のこつを心得ている）の形で頻出します。",
+    "keywords": ["knack 意味", "knack 発音", "knack こつ", "have a knack for", "knack 例文"],
+    "meanings": [
+      { "hinshi": "【名】こつ・要領", "note": "うまくやるための手際・呼吸。" },
+      { "hinshi": "【名】生まれつきの才能", "note": "特に苦もなくこなす能力。" }
+    ],
+    "usages": [
+      { "title": "① have a knack for ~（〜のこつがある）", "desc": "for の後は名詞・動名詞。", "example_en": "She has a knack for languages.", "example_ja": "彼女は語学の才がある。" },
+      { "title": "② こつをつかむ (get the knack)", "desc": "「要領を覚える」。", "example_en": "You'll soon get the knack of it.", "example_ja": "すぐにこつをつかめるよ。" },
+      { "title": "③ うまくやる才能", "desc": "自然にこなす能力。", "example_en": "He has a knack for making people laugh.", "example_ja": "彼は人を笑わせるのが得意だ。" }
+    ],
+    "warn": ["先頭の k は黙字。/næk/ と読む。", "「〜のこつ」は knack for / of ~（前置詞 for が一般的）。"],
+    "etym_note": "中英語 knak（巧みな仕掛け・鋭い音）に由来します。もとは「カチッという音・巧妙な仕掛け」を表し、そこから「うまくやるこつ」の意味になりました。",
+    "etym_chain": [
+      { "node": "knak", "sub": "巧みな技・音", "era": "中英語" },
+      { "node": "knack", "sub": "こつ・技", "era": "近代英語" },
+      { "node": "knack", "sub": "こつ・才能", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "have a knack for", "ja": "〜のこつを心得ている" },
+      { "en": "get the knack", "ja": "こつをつかむ" },
+      { "en": "a knack for cooking", "ja": "料理の才" },
+      { "en": "lose the knack", "ja": "こつを忘れる" },
+      { "en": "the knack of it", "ja": "そのこつ" },
+      { "en": "a special knack", "ja": "特別な才能" }
+    ],
+    "related": [
+      { "en": "skill", "ja": "技能" },
+      { "en": "talent", "ja": "才能" },
+      { "en": "trick", "ja": "こつ・トリック" },
+      { "en": "ability", "ja": "能力" }
+    ],
+    "faq": [
+      { "q": "knack の k は発音しますか？", "a": "いいえ、黙字です。/næk/（ナック）と読みます。kn- の k は発音しません。" },
+      { "q": "have a knack for の意味は？", "a": "「〜のこつを心得ている・〜の才能がある」という意味です。for の後には名詞や動名詞が続きます。" }
+    ],
+    "quiz": [
+      { "q": "He has a ___ for fixing things.（彼は物を直すのが得意だ）", "A": "knack", "B": "knock", "C": "knee", "D": "knot", "correct": "A" },
+      { "q": "get the knack の意味は？", "A": "こつを忘れる", "B": "こつをつかむ", "C": "けがをする", "D": "あきらめる", "correct": "B" }
+    ]
+  },
+  {
+    "english": "knapsack",
+    "pron": "ˈnæpsæk",
+    "kana": "ナップサック",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "低地ドイツ語 knappen（かじる）＋ sack（袋）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "生活語"],
+    "meaning_main": "ナップサック／背負い袋",
+    "description": "knapsack は「ナップサック・背負い袋」を表す名詞。先頭の k は黙字で /ˈnæpsæk/。背中に背負う布や革の袋で、backpack（リュック）とほぼ同じ意味です。",
+    "keywords": ["knapsack 意味", "knapsack 発音", "knapsack ナップサック", "knapsack backpack", "knapsack 例文"],
+    "meanings": [
+      { "hinshi": "【名】ナップサック・背負い袋", "note": "背中に背負う布・革の袋。" }
+    ],
+    "usages": [
+      { "title": "① 背負い袋", "desc": "ハイキングや遠足で使う。", "example_en": "He packed food into his knapsack.", "example_ja": "彼はナップサックに食料を詰めた。" },
+      { "title": "② 背負う (carry a knapsack)", "desc": "肩にかけて背負う。", "example_en": "She carried a knapsack on her back.", "example_ja": "彼女は背中にナップサックを背負っていた。" },
+      { "title": "③ backpack とほぼ同義", "desc": "現代では backpack の方が一般的。", "example_en": "A knapsack is like a small backpack.", "example_ja": "ナップサックは小さなリュックのようなものだ。" }
+    ],
+    "warn": ["先頭の k は黙字。/ˈnæpsæk/ と読む。", "現代のアメリカ英語では backpack の方が一般的な言い方。"],
+    "etym_note": "低地ドイツ語 knappen（かじる・食べる）＋ sack（袋）に由来し、もとは「食料を入れる袋」を意味しました。兵士や旅人が背負う袋として広まりました。",
+    "etym_chain": [
+      { "node": "knappsack", "sub": "食料袋", "era": "低地ドイツ語" },
+      { "node": "knapsack", "sub": "背負い袋", "era": "17世紀英語" },
+      { "node": "knapsack", "sub": "ナップサック", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "carry a knapsack", "ja": "ナップサックを背負う" },
+      { "en": "pack a knapsack", "ja": "ナップサックに荷を詰める" },
+      { "en": "a heavy knapsack", "ja": "重いナップサック" },
+      { "en": "an army knapsack", "ja": "軍用背のう" },
+      { "en": "on one's back", "ja": "背中に" },
+      { "en": "knapsack and boots", "ja": "背負い袋と登山靴" }
+    ],
+    "related": [
+      { "en": "backpack", "ja": "リュックサック" },
+      { "en": "bag", "ja": "かばん" },
+      { "en": "rucksack", "ja": "リュックサック" },
+      { "en": "sack", "ja": "袋" }
+    ],
+    "faq": [
+      { "q": "knapsack の k は発音しますか？", "a": "いいえ、黙字です。/ˈnæpsæk/（ナップサック）と読みます。" },
+      { "q": "knapsack と backpack の違いは？", "a": "ほぼ同じ「背負い袋」です。knapsack はやや古風で、現代のアメリカ英語では backpack がよく使われます。" }
+    ],
+    "quiz": [
+      { "q": "The hiker put a water bottle in his ___.（登山者はナップサックに水筒を入れた）", "A": "knapsack", "B": "knuckle", "C": "kettle", "D": "kiosk", "correct": "A" },
+      { "q": "knapsack とほぼ同じ意味の語は？", "A": "backpack", "B": "pocket", "C": "wallet", "D": "basket", "correct": "A" }
+    ]
+  },
+  {
+    "english": "knowledgeable",
+    "pron": "ˈnɒlɪdʒəbl",
+    "kana": "ナリッジャブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "knowledge（知識）＋ -able（できる)",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "知識が豊富な／博識な",
+    "description": "knowledgeable は「知識が豊富な・博識な」を表す形容詞。名詞 knowledge（知識）＋ -able でできています。be knowledgeable about ~（〜に詳しい）の形で頻出します。",
+    "keywords": ["knowledgeable 意味", "knowledgeable 発音", "knowledgeable 博識", "knowledgeable about", "knowledgeable 例文"],
+    "meanings": [
+      { "hinshi": "【形】知識が豊富な・博識な", "note": "多くのことをよく知っているようす。" },
+      { "hinshi": "【形】(ある分野に)詳しい", "note": "be knowledgeable about ~。" }
+    ],
+    "usages": [
+      { "title": "① be knowledgeable about ~（〜に詳しい）", "desc": "about の後は分野。", "example_en": "She is very knowledgeable about art.", "example_ja": "彼女は芸術にとても詳しい。" },
+      { "title": "② 博識な人", "desc": "名詞を修飾。", "example_en": "He is a knowledgeable guide.", "example_ja": "彼は博識なガイドだ。" },
+      { "title": "③ 専門知識がある", "desc": "特定分野に精通。", "example_en": "The staff are knowledgeable and helpful.", "example_ja": "スタッフは知識豊富で親切だ。" }
+    ],
+    "warn": ["knowledge の e を残して -able を付ける（knowledgeable）。綴りに注意。", "「〜に詳しい」は knowledgeable about ~（前置詞 about）。"],
+    "etym_note": "名詞 knowledge（知識）に、「〜できる・〜の性質がある」を表す接尾辞 -able が付いた形容詞です。「知識を持ちうる＝博識な」という意味になります。",
+    "etym_chain": [
+      { "node": "knowledge", "sub": "知識", "era": "中英語" },
+      { "node": "knowledgeable", "sub": "博識な", "era": "近代英語" },
+      { "node": "knowledgeable", "sub": "知識豊富な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "knowledgeable about", "ja": "〜に詳しい" },
+      { "en": "a knowledgeable person", "ja": "博識な人" },
+      { "en": "highly knowledgeable", "ja": "非常に博識な" },
+      { "en": "knowledgeable staff", "ja": "知識豊富なスタッフ" },
+      { "en": "well-informed and knowledgeable", "ja": "情報通で博識な" },
+      { "en": "knowledgeable in the field", "ja": "その分野に精通した" }
+    ],
+    "related": [
+      { "en": "knowledge", "ja": "知識" },
+      { "en": "well-informed", "ja": "情報に通じた" },
+      { "en": "expert", "ja": "専門家・熟達した" },
+      { "en": "wise", "ja": "賢明な" }
+    ],
+    "faq": [
+      { "q": "knowledgeable の綴りの注意点は？", "a": "knowledge の語尾の e を残したまま -able を付けます。knowledgable と書かないよう注意しましょう。" },
+      { "q": "「〜に詳しい」の前置詞は？", "a": "knowledgeable about ~ です。be knowledgeable about history（歴史に詳しい）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The teacher is very ___ about science.（先生は科学にとても詳しい）", "A": "knowledgeable", "B": "knowledge", "C": "knowing", "D": "known", "correct": "A" },
+      { "q": "knowledgeable は knowledge ＋ ___ でできた形容詞。空所は？", "A": "-able", "B": "-ness", "C": "-ly", "D": "-ful", "correct": "A" }
+    ]
+  },
+  {
+    "english": "known",
+    "pron": "noʊn",
+    "kana": "ノウン",
+    "hinshi": "形容詞 / 動詞(過去分詞)",
+    "ld_pos": "形容詞",
+    "ld_etym": "know（知る）の過去分詞",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頻出語"],
+    "meaning_main": "知られている／既知の",
+    "description": "known は動詞 know（知る）の過去分詞で、形容詞としても使われ「知られている・有名な」を表します。be known as ~（〜として知られる）、be known for ~（〜で有名）が頻出です。",
+    "keywords": ["known 意味", "known 発音", "known 知られている", "be known as for", "known 例文"],
+    "meanings": [
+      { "hinshi": "【動】know の過去分詞", "note": "have known / be known の形で使う。" },
+      { "hinshi": "【形】知られている・有名な", "note": "a known fact（周知の事実）。" }
+    ],
+    "usages": [
+      { "title": "① be known as ~（〜として知られる）", "desc": "名前・肩書について。", "example_en": "He is known as a great scientist.", "example_ja": "彼は偉大な科学者として知られている。" },
+      { "title": "② be known for ~（〜で有名）", "desc": "特徴・理由について。", "example_en": "Kyoto is known for its temples.", "example_ja": "京都は寺で有名だ。" },
+      { "title": "③ 現在完了 (have known)", "desc": "「ずっと知っている」。", "example_en": "I have known her for ten years.", "example_ja": "私は彼女を10年間知っている。" }
+    ],
+    "warn": ["be known as（〜という名で）と be known for（〜という理由で有名）を区別する。", "know の変化は know → knew → known。過去分詞は known。"],
+    "etym_note": "動詞 know（古英語 cnāwan）の過去分詞形が形容詞化した語です。「知られた状態にある」という意味から「有名な・既知の」を表します。",
+    "etym_chain": [
+      { "node": "cnāwen", "sub": "知られた", "era": "古英語" },
+      { "node": "knowen", "sub": "知られた", "era": "中英語" },
+      { "node": "known", "sub": "知られている", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be known as", "ja": "〜として知られる" },
+      { "en": "be known for", "ja": "〜で有名である" },
+      { "en": "a known fact", "ja": "周知の事実" },
+      { "en": "well-known", "ja": "よく知られた・有名な" },
+      { "en": "as is known", "ja": "知られているように" },
+      { "en": "make oneself known", "ja": "名乗り出る・知らせる" }
+    ],
+    "related": [
+      { "en": "know", "ja": "知る" },
+      { "en": "famous", "ja": "有名な" },
+      { "en": "unknown", "ja": "知られていない" },
+      { "en": "familiar", "ja": "よく知られた" }
+    ],
+    "faq": [
+      { "q": "be known as と be known for の違いは？", "a": "be known as は「〜という名前・肩書で知られる」、be known for は「〜という特徴・理由で有名」です。例: known as a poet（詩人として知られる）／known for poetry（詩で有名）。" },
+      { "q": "know の変化を教えてください。", "a": "know（原形）→ knew（過去形）→ known（過去分詞）と不規則に変化します。" }
+    ],
+    "quiz": [
+      { "q": "Paris is ___ for the Eiffel Tower.（パリはエッフェル塔で有名だ）", "A": "known", "B": "knew", "C": "knowing", "D": "know", "correct": "A" },
+      { "q": "know の過去分詞は？", "A": "knowed", "B": "knew", "C": "known", "D": "knowing", "correct": "C" }
+    ]
+  }
+]
