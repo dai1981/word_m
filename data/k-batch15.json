@@ -1,0 +1,504 @@
+[
+  {
+    "english": "keratin",
+    "pron": "ˈkerətɪn",
+    "kana": "ケラティン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 keras（角）＋ -in（物質)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "科学・生物"],
+    "meaning_main": "ケラチン（髪・爪・角を作るタンパク質）",
+    "description": "keratin は「ケラチン」を表す名詞。髪・爪・皮膚の表面や、動物の角・ひづめ・羽を作る丈夫なタンパク質です。ギリシャ語の keras（角）が語源で、体を守る硬い組織の主成分です。",
+    "keywords": ["keratin 意味", "keratin 発音", "keratin ケラチン", "keratin 髪 爪", "keratin 例文"],
+    "meanings": [
+      { "hinshi": "【名】ケラチン", "note": "髪・爪・皮膚・角などを作る丈夫なタンパク質。不可算。" }
+    ],
+    "usages": [
+      { "title": "① 髪・爪の成分", "desc": "体の硬い組織を作る。", "example_en": "Hair and nails are made of keratin.", "example_ja": "髪と爪はケラチンでできている。" },
+      { "title": "② 動物の角・ひづめ", "desc": "角・羽・うろこにも。", "example_en": "A rhino's horn is made of keratin.", "example_ja": "サイの角はケラチンでできている。" },
+      { "title": "③ ヘアケアで", "desc": "keratin treatment（ケラチン処理）。", "example_en": "She got a keratin treatment for her hair.", "example_ja": "彼女は髪にケラチントリートメントをした。" }
+    ],
+    "warn": ["不可算名詞。発音は /ˈkerətɪn/。", "髪・爪・皮膚・角・羽・ひづめなどを作る硬タンパク質。"],
+    "etym_note": "ギリシャ語 keras（角）に、物質を表す接尾辞 -in を付けた語です。「角を作る物質」という意味で、19世紀に化学・生物学の用語として作られました。",
+    "etym_chain": [
+      { "node": "keras", "sub": "角", "era": "ギリシャ語" },
+      { "node": "keratin", "sub": "角の物質", "era": "19世紀英語" },
+      { "node": "keratin", "sub": "ケラチン", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "made of keratin", "ja": "ケラチンでできた" },
+      { "en": "keratin treatment", "ja": "ケラチン処理・トリートメント" },
+      { "en": "hair keratin", "ja": "髪のケラチン" },
+      { "en": "keratin protein", "ja": "ケラチンタンパク質" },
+      { "en": "rich in keratin", "ja": "ケラチンが豊富な" },
+      { "en": "a layer of keratin", "ja": "ケラチンの層" }
+    ],
+    "related": [
+      { "en": "protein", "ja": "タンパク質" },
+      { "en": "hair", "ja": "髪" },
+      { "en": "nail", "ja": "爪" },
+      { "en": "horn", "ja": "角" }
+    ],
+    "faq": [
+      { "q": "keratin は何を作っていますか？", "a": "髪・爪・皮膚の表面のほか、動物の角・ひづめ・羽・うろこなど、体を守る硬い組織を作る丈夫なタンパク質です。" },
+      { "q": "keratin の語源は？", "a": "ギリシャ語 keras（角）＋ -in（物質）で、「角を作る物質」という意味です。角や爪など硬い部分の主成分であることに由来します。" }
+    ],
+    "quiz": [
+      { "q": "Human fingernails are made of ___.（人間の爪はケラチンでできている）", "A": "keratin", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "keratin の語源 keras の意味は？", "A": "角", "B": "水", "C": "光", "D": "石", "correct": "A" }
+    ]
+  },
+  {
+    "english": "koi",
+    "pron": "kɔɪ",
+    "kana": "コイ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "日本語「鯉（こい)」",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "動物・文化"],
+    "meaning_main": "錦鯉（観賞用の色鮮やかなコイ）",
+    "description": "koi は「錦鯉」を表す名詞。日本で観賞用に改良された、赤・白・黒・金などの色鮮やかなコイです。庭園の池でおなじみで、日本語がそのまま英語になりました。単複同形で使われます。",
+    "keywords": ["koi 意味", "koi 発音", "koi 錦鯉", "koi 池", "koi 例文"],
+    "meanings": [
+      { "hinshi": "【名】錦鯉", "note": "観賞用の色鮮やかなコイ。単複同形。" }
+    ],
+    "usages": [
+      { "title": "① 錦鯉（観賞魚）", "desc": "池を泳ぐ色鮮やかな魚。", "example_en": "Colorful koi swam in the garden pond.", "example_ja": "色鮮やかな錦鯉が庭の池を泳いでいた。" },
+      { "title": "② koi pond（鯉の池）", "desc": "日本庭園でおなじみ。", "example_en": "They built a koi pond in the backyard.", "example_ja": "彼らは裏庭に鯉の池を作った。" },
+      { "title": "③ 単複同形", "desc": "koi は複数も同じ形。", "example_en": "Several koi gathered near the surface.", "example_ja": "数匹の錦鯉が水面近くに集まった。" }
+    ],
+    "warn": ["単数・複数とも koi（-s を付けない）。", "日本語「鯉」由来。観賞用の色鮮やかなコイを指す。"],
+    "etym_note": "日本語の「鯉（こい）」に由来します。日本で観賞用に品種改良された色鮮やかなコイ（錦鯉）が世界に広まり、そのまま英語になりました。",
+    "etym_chain": [
+      { "node": "鯉 (koi)", "sub": "コイ", "era": "日本" },
+      { "node": "koi", "sub": "錦鯉", "era": "20世紀英語" },
+      { "node": "koi", "sub": "錦鯉", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "koi pond", "ja": "鯉の池" },
+      { "en": "colorful koi", "ja": "色鮮やかな錦鯉" },
+      { "en": "feed the koi", "ja": "錦鯉に餌をやる" },
+      { "en": "a school of koi", "ja": "錦鯉の群れ" },
+      { "en": "koi fish", "ja": "錦鯉" },
+      { "en": "ornamental koi", "ja": "観賞用の錦鯉" }
+    ],
+    "related": [
+      { "en": "carp", "ja": "コイ" },
+      { "en": "pond", "ja": "池" },
+      { "en": "fish", "ja": "魚" },
+      { "en": "goldfish", "ja": "金魚" }
+    ],
+    "faq": [
+      { "q": "koi とは何ですか？", "a": "日本で観賞用に改良された、赤・白・黒・金などの色鮮やかなコイ「錦鯉」です。日本庭園の池でよく見られます。" },
+      { "q": "koi の複数形は？", "a": "koi のままです。単数も複数も同じ形で、-s を付けません。" }
+    ],
+    "quiz": [
+      { "q": "Beautiful ___ swam gracefully in the pond.（美しい錦鯉が池を優雅に泳いだ）", "A": "koi", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "koi の語源となった言語は？", "A": "日本語", "B": "中国語", "C": "韓国語", "D": "タイ語", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kudu",
+    "pron": "ˈkuːduː",
+    "kana": "クードゥー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "コイコイ語 由来（アフリカの言語)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "動物"],
+    "meaning_main": "クーズー（らせん状の角を持つアフリカのレイヨウ）",
+    "description": "kudu は「クーズー」を表す名詞。アフリカに生息する大型のレイヨウ（アンテロープ）で、オスは長くねじれたらせん状の角を持ちます。体には白い縦じまがあり、サバンナや森林にすみます。",
+    "keywords": ["kudu 意味", "kudu 発音", "kudu クーズー", "kudu レイヨウ", "kudu 例文"],
+    "meanings": [
+      { "hinshi": "【名】クーズー", "note": "らせん状の角を持つアフリカの大型レイヨウ。" }
+    ],
+    "usages": [
+      { "title": "① クーズー（動物）", "desc": "アフリカのレイヨウ。", "example_en": "A kudu grazed on the savanna.", "example_ja": "クーズーがサバンナで草を食んでいた。" },
+      { "title": "② らせん状の角", "desc": "オスの特徴。", "example_en": "The male kudu has long spiral horns.", "example_ja": "オスのクーズーは長いらせん状の角を持つ。" },
+      { "title": "③ 白い縦じま", "desc": "体の模様。", "example_en": "Kudus have white stripes on their bodies.", "example_ja": "クーズーは体に白い縦じまがある。" }
+    ],
+    "warn": ["発音は /ˈkuːduː/。複数は kudu または kudus。", "オスのねじれたらせん状の角が特徴のアフリカのレイヨウ。"],
+    "etym_note": "アフリカ南部のコイコイ語（またはアフリカーンス語 koedoe）に由来し、18世紀に英語に入りました。現地でこの動物を指す言葉がそのまま使われています。",
+    "etym_chain": [
+      { "node": "koedoe", "sub": "クーズー", "era": "コイコイ語/アフリカーンス語" },
+      { "node": "kudu", "sub": "クーズー", "era": "18世紀英語" },
+      { "node": "kudu", "sub": "クーズー", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a greater kudu", "ja": "オオクーズー" },
+      { "en": "spiral horns", "ja": "らせん状の角" },
+      { "en": "a herd of kudu", "ja": "クーズーの群れ" },
+      { "en": "a male kudu", "ja": "オスのクーズー" },
+      { "en": "kudu on the savanna", "ja": "サバンナのクーズー" },
+      { "en": "spot a kudu", "ja": "クーズーを見つける" }
+    ],
+    "related": [
+      { "en": "antelope", "ja": "レイヨウ・アンテロープ" },
+      { "en": "gazelle", "ja": "ガゼル" },
+      { "en": "Africa", "ja": "アフリカ" },
+      { "en": "horn", "ja": "角" }
+    ],
+    "faq": [
+      { "q": "kudu とはどんな動物ですか？", "a": "アフリカに生息する大型のレイヨウ（アンテロープ）です。オスは長くねじれたらせん状の角を持ち、体には白い縦じまがあります。" },
+      { "q": "kudu の複数形は？", "a": "kudu のまま、または kudus とも言います。多くの野生動物名と同様に単複同形でも使われます。" }
+    ],
+    "quiz": [
+      { "q": "The male ___ is known for its long, twisted horns.（オスのクーズーは長くねじれた角で知られる）", "A": "kudu", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "kudu はどこに生息する動物？", "A": "アフリカ", "B": "北極", "C": "南米", "D": "オーストラリア", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kola",
+    "pron": "ˈkoʊlə",
+    "kana": "コウラ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "西アフリカの言語（コーラの木）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "植物・食"],
+    "meaning_main": "コーラの木／コーラの実（カフェインを含む種子）",
+    "description": "kola は「コーラの木・コーラの実」を表す名詞。西アフリカ原産の木で、その種子（kola nut）はカフェインを含み、かむと刺激があります。飲料「コーラ（cola）」の名の由来にもなった植物です。",
+    "keywords": ["kola 意味", "kola 発音", "kola コーラの実", "kola nut", "kola 例文"],
+    "meanings": [
+      { "hinshi": "【名】コーラの木・コーラの実", "note": "西アフリカ原産。種子はカフェインを含む。kola nut。" }
+    ],
+    "usages": [
+      { "title": "① コーラの実 (kola nut)", "desc": "カフェインを含む種子。", "example_en": "People chew kola nuts for energy.", "example_ja": "人々は元気を出すためにコーラの実をかむ。" },
+      { "title": "② 飲料コーラの由来", "desc": "cola の語源。", "example_en": "The kola nut gave cola its name.", "example_ja": "コーラの実が飲料コーラの名の由来だ。" },
+      { "title": "③ 西アフリカの文化", "desc": "もてなしや儀式に。", "example_en": "Kola nuts are shared as a sign of welcome.", "example_ja": "コーラの実は歓迎のしるしとして分け合われる。" }
+    ],
+    "warn": ["飲料は cola、植物・実は kola と綴ることが多い。", "kola nut（コーラの実）はカフェインを含み刺激がある。"],
+    "etym_note": "西アフリカの言語（マンディンゴ語 kolo など）に由来します。この木の実 kola nut に含まれるカフェインが、19世紀の飲料コーラ（cola）の材料・名の由来になりました。",
+    "etym_chain": [
+      { "node": "kolo", "sub": "コーラの木", "era": "西アフリカの言語" },
+      { "node": "kola", "sub": "コーラの木・実", "era": "18世紀英語" },
+      { "node": "kola", "sub": "コーラの木・実", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "kola nut", "ja": "コーラの実" },
+      { "en": "chew a kola nut", "ja": "コーラの実をかむ" },
+      { "en": "the kola tree", "ja": "コーラの木" },
+      { "en": "kola and cola", "ja": "コーラの実と飲料コーラ" },
+      { "en": "share kola nuts", "ja": "コーラの実を分け合う" },
+      { "en": "caffeine in kola", "ja": "コーラの実のカフェイン" }
+    ],
+    "related": [
+      { "en": "cola", "ja": "コーラ(飲料)" },
+      { "en": "caffeine", "ja": "カフェイン" },
+      { "en": "nut", "ja": "木の実" },
+      { "en": "tree", "ja": "木" }
+    ],
+    "faq": [
+      { "q": "kola と cola の関係は？", "a": "kola はカフェインを含む「コーラの木の実（kola nut）」を指し、この実が19世紀の飲料コーラ（cola）の材料・名の由来になりました。" },
+      { "q": "kola nut はどう使われますか？", "a": "西アフリカでは、かむと刺激と覚醒作用があるため嗜好品として利用され、また歓迎やもてなし、儀式のしるしとして分け合われます。" }
+    ],
+    "quiz": [
+      { "q": "The soft drink cola was named after the ___ nut.（清涼飲料コーラはコーラの実にちなんで名づけられた）", "A": "kola", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "kola nut に含まれる成分は？", "A": "カフェイン", "B": "塩分", "C": "鉄分", "D": "酸素", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kicker",
+    "pron": "ˈkɪkər",
+    "kana": "キッカー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "kick（蹴る）＋ -er（人・物)",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "スポーツ・口語"],
+    "meaning_main": "蹴る人／キッカー／(口語)意外なオチ",
+    "description": "kicker は「蹴る人・キッカー」を表す名詞。サッカーやアメフトでボールを蹴る選手を指します。口語では「(話の最後の)意外なオチ・思わぬ落とし穴」の意味でも使われます。",
+    "keywords": ["kicker 意味", "kicker 発音", "kicker キッカー", "kicker オチ", "kicker 例文"],
+    "meanings": [
+      { "hinshi": "【名】蹴る人・キッカー", "note": "ボールを蹴る選手。特にアメフトの蹴球専門選手。" },
+      { "hinshi": "【名】(口語)意外なオチ・落とし穴", "note": "話の最後の思わぬ展開。" }
+    ],
+    "usages": [
+      { "title": "① キッカー（選手）", "desc": "ボールを蹴る役。", "example_en": "The kicker scored the winning goal.", "example_ja": "キッカーが決勝ゴールを決めた。" },
+      { "title": "② (口語)意外なオチ", "desc": "話の最後の驚き。", "example_en": "And here's the kicker: it was free!", "example_ja": "そして驚いたことに、それは無料だったんだ！" },
+      { "title": "③ 思わぬ落とし穴", "desc": "予想外の要素。", "example_en": "The kicker is that we have to pay extra.", "example_ja": "問題は、追加料金を払わなきゃいけないことだ。" }
+    ],
+    "warn": ["kick＋-er の派生語。", "口語の「オチ」は the kicker is (that) ~ の形でよく使う。"],
+    "etym_note": "動詞 kick（蹴る）に、「〜する人・物」を表す接尾辞 -er が付いた名詞です。スポーツの「蹴る人」から、比喩的に「最後に効いてくる意外な要素」の意味が生まれました。",
+    "etym_chain": [
+      { "node": "kick + -er", "sub": "蹴る＋人", "era": "近代英語" },
+      { "node": "kicker", "sub": "蹴る人", "era": "近代英語" },
+      { "node": "kicker", "sub": "キッカー・意外なオチ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the kicker is that", "ja": "意外なことに〜だ" },
+      { "en": "here's the kicker", "ja": "そしてオチはこうだ" },
+      { "en": "a place kicker", "ja": "プレースキッカー" },
+      { "en": "the star kicker", "ja": "花形キッカー" },
+      { "en": "and the kicker", "ja": "そして極めつけは" },
+      { "en": "a real kicker", "ja": "本当に意外なオチ" }
+    ],
+    "related": [
+      { "en": "kick", "ja": "蹴る" },
+      { "en": "player", "ja": "選手" },
+      { "en": "twist", "ja": "意外な展開" },
+      { "en": "surprise", "ja": "驚き" }
+    ],
+    "faq": [
+      { "q": "the kicker is that ~ とはどんな意味ですか？", "a": "「そして意外なことに〜だ・極めつけは〜だ」という口語表現です。話の最後に思わぬ展開やオチを付け加えるときに使います。" },
+      { "q": "kicker はスポーツ以外でも使いますか？", "a": "はい。口語で「(話の最後の)意外なオチ・予想外の落とし穴」の意味でよく使われます。" }
+    ],
+    "quiz": [
+      { "q": "The team's ___ made a 50-yard field goal.（チームのキッカーが50ヤードのフィールドゴールを決めた）", "A": "kicker", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "the kicker is that ~ の意味は？", "A": "意外なことに〜だ", "B": "最初に〜する", "C": "いつも〜だ", "D": "決して〜ない", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ketone",
+    "pron": "ˈkiːtoʊn",
+    "kana": "キートウン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ドイツ語 Aketon（アセトン）より",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "科学・化学"],
+    "meaning_main": "ケトン（有機化合物の一種）",
+    "description": "ketone は「ケトン」を表す名詞。カルボニル基（C=O）が2つの炭素にはさまれた構造を持つ有機化合物の総称です。アセトンが代表例で、体が脂肪を分解する際にも生じ、健康・栄養の話題でも登場します。",
+    "keywords": ["ketone 意味", "ketone 発音", "ketone ケトン", "ketone 化学", "ketone 例文"],
+    "meanings": [
+      { "hinshi": "【名】ケトン", "note": "カルボニル基を炭素にはさまれた有機化合物。アセトンなど。" }
+    ],
+    "usages": [
+      { "title": "① ケトン（化合物）", "desc": "有機化学の分類。", "example_en": "Acetone is the simplest ketone.", "example_ja": "アセトンは最も単純なケトンだ。" },
+      { "title": "② 体内で生じる", "desc": "脂肪の分解で。", "example_en": "The body produces ketones when burning fat.", "example_ja": "体は脂肪を燃やすときにケトンを作る。" },
+      { "title": "③ 栄養・ダイエット", "desc": "ケトン体・ケト食。", "example_en": "A ketogenic diet raises ketone levels.", "example_ja": "ケトジェニックダイエットはケトン値を上げる。" }
+    ],
+    "warn": ["発音は /ˈkiːtoʊn/。化学用語で、体内の『ケトン体』も ketone(s)。", "アルデヒドとは炭素の結合位置が異なる。"],
+    "etym_note": "ドイツ語 Aketon（アセトン）を短縮・変化させた語です。アセトンが代表的なケトンであることから、その仲間の化合物全体を ketone と呼ぶようになりました。",
+    "etym_chain": [
+      { "node": "Aketon", "sub": "アセトン", "era": "ドイツ語" },
+      { "node": "ketone", "sub": "ケトン", "era": "19世紀英語" },
+      { "node": "ketone", "sub": "ケトン", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a simple ketone", "ja": "単純なケトン" },
+      { "en": "ketone bodies", "ja": "ケトン体" },
+      { "en": "ketone levels", "ja": "ケトン値" },
+      { "en": "produce ketones", "ja": "ケトンを作る" },
+      { "en": "a ketone group", "ja": "ケトン基" },
+      { "en": "ketones in the blood", "ja": "血中のケトン" }
+    ],
+    "related": [
+      { "en": "acetone", "ja": "アセトン" },
+      { "en": "aldehyde", "ja": "アルデヒド" },
+      { "en": "compound", "ja": "化合物" },
+      { "en": "carbon", "ja": "炭素" }
+    ],
+    "faq": [
+      { "q": "ketone とは何ですか？", "a": "カルボニル基（C=O）が2つの炭素にはさまれた構造を持つ有機化合物の総称です。除光液に使われるアセトンが代表例です。" },
+      { "q": "ケトン体とは？", "a": "体が糖の代わりに脂肪を分解してエネルギーを得るときに生じる物質で、英語では ketone bodies（ケトン体）と呼びます。ケトジェニックダイエットで話題になります。" }
+    ],
+    "quiz": [
+      { "q": "Acetone is the simplest kind of ___.（アセトンは最も単純なケトンだ）", "A": "ketone", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "ketone が生じるのは体が何を燃やすとき？", "A": "脂肪", "B": "骨", "C": "水", "D": "空気", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kurta",
+    "pron": "ˈkʊrtə",
+    "kana": "クルタ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ウルドゥー・ペルシャ語 kurtah（ゆるい上衣)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "衣服・文化"],
+    "meaning_main": "クルタ（南アジアのゆったりした上着）",
+    "description": "kurta は「クルタ」を表す名詞。インドやパキスタンなど南アジアで着られる、ゆったりとした襟なしの丈長の上着です。男女ともに着用し、ズボンと合わせる伝統的で日常的な衣服です。",
+    "keywords": ["kurta 意味", "kurta 発音", "kurta クルタ", "kurta インド 服", "kurta 例文"],
+    "meanings": [
+      { "hinshi": "【名】クルタ", "note": "南アジアのゆったりした襟なしの丈長の上着。" }
+    ],
+    "usages": [
+      { "title": "① クルタ（衣服）", "desc": "南アジアの上着。", "example_en": "He wore a white cotton kurta.", "example_ja": "彼は白い綿のクルタを着ていた。" },
+      { "title": "② 男女ともに着る", "desc": "日常着・正装にも。", "example_en": "Both men and women wear kurtas.", "example_ja": "男女ともにクルタを着る。" },
+      { "title": "③ ズボンと合わせる", "desc": "kurta と pyjama など。", "example_en": "She paired her kurta with loose trousers.", "example_ja": "彼女はクルタをゆったりしたズボンと合わせた。" }
+    ],
+    "warn": ["発音は /ˈkʊrtə/。南アジアの伝統的な上着を指す。", "襟なしで丈が長く、男女ともに着る。"],
+    "etym_note": "ウルドゥー語・ペルシャ語 kurtah（ゆるい上衣）に由来します。南アジアの伝統衣装を指す語として、そのまま英語に取り入れられました。",
+    "etym_chain": [
+      { "node": "kurtah", "sub": "ゆるい上衣", "era": "ウルドゥー・ペルシャ語" },
+      { "node": "kurta", "sub": "クルタ", "era": "19-20世紀英語" },
+      { "node": "kurta", "sub": "クルタ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a cotton kurta", "ja": "綿のクルタ" },
+      { "en": "wear a kurta", "ja": "クルタを着る" },
+      { "en": "a kurta and pyjama", "ja": "クルタとパジャマ(ズボン)" },
+      { "en": "an embroidered kurta", "ja": "刺繍入りのクルタ" },
+      { "en": "a long kurta", "ja": "丈長のクルタ" },
+      { "en": "a festive kurta", "ja": "祝祭用のクルタ" }
+    ],
+    "related": [
+      { "en": "tunic", "ja": "チュニック" },
+      { "en": "sari", "ja": "サリー" },
+      { "en": "India", "ja": "インド" },
+      { "en": "garment", "ja": "衣服" }
+    ],
+    "faq": [
+      { "q": "kurta とはどんな服ですか？", "a": "インドやパキスタンなど南アジアで着られる、ゆったりとした襟なしの丈長の上着です。男女ともに着用し、ズボンと合わせます。" },
+      { "q": "kurta の語源は？", "a": "ウルドゥー語・ペルシャ語 kurtah（ゆるい上衣）に由来します。南アジアの伝統衣装を指す語として英語に入りました。" }
+    ],
+    "quiz": [
+      { "q": "He dressed in a traditional Indian ___.（彼は伝統的なインドのクルタを着た）", "A": "kurta", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "kurta はどの地域の衣服？", "A": "南アジア", "B": "北欧", "C": "南米", "D": "東アジア", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kobold",
+    "pron": "ˈkoʊbɒld",
+    "kana": "コボルト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ドイツ語 Kobold（家の精霊・小鬼)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "神話・伝説"],
+    "meaning_main": "コボルト（ドイツ伝承の小鬼・妖精）",
+    "description": "kobold は「コボルト」を表す名詞。ドイツの民間伝承に登場する小さな精霊・小鬼です。家に住んでいたずらをしたり、鉱山に現れたりするとされます。ファンタジー作品やゲームにもよく登場します。",
+    "keywords": ["kobold 意味", "kobold 発音", "kobold コボルト", "kobold 小鬼", "kobold 例文"],
+    "meanings": [
+      { "hinshi": "【名】コボルト", "note": "ドイツ伝承の小さな精霊・小鬼。いたずら好き。" }
+    ],
+    "usages": [
+      { "title": "① コボルト（伝承の妖精）", "desc": "家や鉱山の精霊。", "example_en": "German folklore tells of mischievous kobolds.", "example_ja": "ドイツの民話はいたずら好きのコボルトを語る。" },
+      { "title": "② 家の精霊", "desc": "家事を手伝うことも。", "example_en": "A kobold was said to live in the house.", "example_ja": "コボルトが家に住んでいると言われた。" },
+      { "title": "③ ファンタジーの生き物", "desc": "ゲームなどに登場。", "example_en": "Kobolds appear as monsters in many games.", "example_ja": "コボルトは多くのゲームに魔物として登場する。" }
+    ],
+    "warn": ["ドイツ伝承の小鬼・精霊。発音は /ˈkoʊbɒld/。", "金属コバルト(cobalt)は、鉱山に潜むコボルトの伝承にちなむ語源関係がある。"],
+    "etym_note": "ドイツ語 Kobold（家や鉱山に住む小さな精霊）に由来します。鉱山で鉱石を台無しにするとされたことから、金属コバルト（cobalt）の語源にもなりました。",
+    "etym_chain": [
+      { "node": "Kobold", "sub": "家の精霊・小鬼", "era": "ドイツ語" },
+      { "node": "kobold", "sub": "コボルト", "era": "19世紀英語" },
+      { "node": "kobold", "sub": "コボルト", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a mischievous kobold", "ja": "いたずら好きのコボルト" },
+      { "en": "a house kobold", "ja": "家のコボルト" },
+      { "en": "a mine kobold", "ja": "鉱山のコボルト" },
+      { "en": "the legend of the kobold", "ja": "コボルトの伝説" },
+      { "en": "kobolds in folklore", "ja": "民話のコボルト" },
+      { "en": "a tiny kobold", "ja": "小さなコボルト" }
+    ],
+    "related": [
+      { "en": "goblin", "ja": "ゴブリン" },
+      { "en": "sprite", "ja": "小妖精" },
+      { "en": "elf", "ja": "エルフ・妖精" },
+      { "en": "cobalt", "ja": "コバルト(金属)" }
+    ],
+    "faq": [
+      { "q": "kobold とは何ですか？", "a": "ドイツの民間伝承に登場する小さな精霊・小鬼です。家に住んでいたずらをしたり、家事を手伝ったり、鉱山に現れたりするとされます。" },
+      { "q": "kobold と cobalt は関係がありますか？", "a": "はい。鉱山のコボルトが鉱石を台無しにするとされたことから、扱いにくい鉱石にちなんで金属コバルト（cobalt）が名づけられました。" }
+    ],
+    "quiz": [
+      { "q": "In German myths, a ___ is a small household spirit.（ドイツ神話ではコボルトは小さな家の精霊だ）", "A": "kobold", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "kobold の伝承にちなむ金属は？", "A": "コバルト", "B": "金", "C": "鉄", "D": "銀", "correct": "A" }
+    ]
+  },
+  {
+    "english": "keffiyeh",
+    "pron": "kəˈfiːje",
+    "kana": "ケフィエ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "アラビア語 kūfiyya（頭巾)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "衣服・文化"],
+    "meaning_main": "ケフィエ（中東の伝統的な頭巾）",
+    "description": "keffiyeh は「ケフィエ」を表す名詞。中東・アラブ地域で男性が頭に巻く、格子模様の伝統的な布（頭巾）です。日差しや砂ぼこりから頭や顔を守る実用的な役割があり、地域の象徴的な装いでもあります。",
+    "keywords": ["keffiyeh 意味", "keffiyeh 発音", "keffiyeh ケフィエ", "keffiyeh 頭巾", "keffiyeh 例文"],
+    "meanings": [
+      { "hinshi": "【名】ケフィエ", "note": "中東・アラブ地域の格子模様の伝統的な頭巾。" }
+    ],
+    "usages": [
+      { "title": "① ケフィエ（頭巾）", "desc": "頭に巻く布。", "example_en": "He wore a checkered keffiyeh.", "example_ja": "彼は格子模様のケフィエを巻いていた。" },
+      { "title": "② 日差し・砂よけ", "desc": "実用的な役割。", "example_en": "The keffiyeh protects the head from the sun.", "example_ja": "ケフィエは頭を日差しから守る。" },
+      { "title": "③ 文化の象徴", "desc": "地域の伝統的な装い。", "example_en": "The keffiyeh is a symbol of the region.", "example_ja": "ケフィエはその地域の象徴だ。" }
+    ],
+    "warn": ["発音は /kəˈfiːje/。keffiyah など綴りにゆれがある。", "中東・アラブ地域で男性が頭に巻く格子模様の布を指す。"],
+    "etym_note": "アラビア語 kūfiyya（頭巾）に由来し、イラクの都市クーファ（Kufa）にちなむとされます。中東の伝統的な男性の頭部装身具を指す語として英語に入りました。",
+    "etym_chain": [
+      { "node": "kūfiyya", "sub": "頭巾", "era": "アラビア語" },
+      { "node": "keffiyeh", "sub": "ケフィエ", "era": "20世紀英語" },
+      { "node": "keffiyeh", "sub": "ケフィエ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "wear a keffiyeh", "ja": "ケフィエを巻く" },
+      { "en": "a checkered keffiyeh", "ja": "格子模様のケフィエ" },
+      { "en": "wrap a keffiyeh", "ja": "ケフィエを巻きつける" },
+      { "en": "a traditional keffiyeh", "ja": "伝統的なケフィエ" },
+      { "en": "a black-and-white keffiyeh", "ja": "白黒のケフィエ" },
+      { "en": "the keffiyeh pattern", "ja": "ケフィエの模様" }
+    ],
+    "related": [
+      { "en": "headscarf", "ja": "頭に巻くスカーフ" },
+      { "en": "turban", "ja": "ターバン" },
+      { "en": "scarf", "ja": "スカーフ" },
+      { "en": "Arab", "ja": "アラブの" }
+    ],
+    "faq": [
+      { "q": "keffiyeh とはどんなものですか？", "a": "中東・アラブ地域で男性が頭に巻く、格子模様の伝統的な布（頭巾）です。日差しや砂ぼこりから頭や顔を守る役割があります。" },
+      { "q": "keffiyeh の語源は？", "a": "アラビア語 kūfiyya（頭巾）に由来し、イラクの都市クーファ（Kufa）にちなむとされます。" }
+    ],
+    "quiz": [
+      { "q": "The man wrapped a checkered ___ around his head.（その男性は格子模様のケフィエを頭に巻いた）", "A": "keffiyeh", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "keffiyeh はどの地域の頭巾？", "A": "中東・アラブ", "B": "北欧", "C": "東アジア", "D": "南米", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kip",
+    "pron": "kɪp",
+    "kana": "キップ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "デンマーク語 kippe（安宿)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "口語・英"],
+    "meaning_main": "(英・口語)ひと眠り／仮眠／寝る",
+    "description": "kip は主にイギリスの口語で「ひと眠り・仮眠」を表す名詞、また「寝る」を表す動詞です。have a kip（ひと眠りする）のように使います。くだけた表現で、日常会話でよく登場します。",
+    "keywords": ["kip 意味", "kip 発音", "kip 仮眠", "kip 英 口語", "kip 例文"],
+    "meanings": [
+      { "hinshi": "【名】ひと眠り・仮眠", "note": "短い睡眠。英国の口語。" },
+      { "hinshi": "【動】寝る・眠る", "note": "kip down で「(仮に)寝る」。" }
+    ],
+    "usages": [
+      { "title": "① ひと眠り (have a kip)", "desc": "短い睡眠をとる。", "example_en": "I'm going to have a quick kip.", "example_ja": "ちょっとひと眠りしてくるよ。" },
+      { "title": "② 寝る（動詞）", "desc": "kip down。", "example_en": "You can kip on the sofa tonight.", "example_ja": "今夜はソファで寝ていいよ。" },
+      { "title": "③ 睡眠一般（口語）", "desc": "get some kip。", "example_en": "I need to get some kip.", "example_ja": "少し眠らないと。" }
+    ],
+    "warn": ["主にイギリスのくだけた口語。フォーマルには sleep, nap。", "発音は /kɪp/。同じ綴りでラオスの通貨（キープ）の意味もある。"],
+    "etym_note": "デンマーク語 kippe（安宿・木賃宿）に由来するとされます。もとは「粗末な寝床・安宿」を意味し、そこから「寝ること・ひと眠り」の口語的意味になりました。",
+    "etym_chain": [
+      { "node": "kippe", "sub": "安宿", "era": "デンマーク語" },
+      { "node": "kip", "sub": "寝床・ひと眠り", "era": "18-19世紀英語" },
+      { "node": "kip", "sub": "仮眠・寝る", "era": "現代英語(英)" }
+    ],
+    "phrases": [
+      { "en": "have a kip", "ja": "ひと眠りする" },
+      { "en": "get some kip", "ja": "少し眠る" },
+      { "en": "a quick kip", "ja": "ちょっとした仮眠" },
+      { "en": "kip down", "ja": "(仮に)寝る" },
+      { "en": "need a kip", "ja": "ひと眠りが必要だ" },
+      { "en": "have a good kip", "ja": "ぐっすり眠る" }
+    ],
+    "related": [
+      { "en": "nap", "ja": "仮眠・昼寝" },
+      { "en": "sleep", "ja": "眠る・睡眠" },
+      { "en": "snooze", "ja": "うたた寝" },
+      { "en": "rest", "ja": "休む" }
+    ],
+    "faq": [
+      { "q": "kip はどの英語圏の語ですか？", "a": "主にイギリス英語のくだけた口語で「ひと眠り・仮眠」または「寝る」を意味します。have a kip（ひと眠りする）のように使います。" },
+      { "q": "kip の語源は？", "a": "デンマーク語 kippe（安宿・木賃宿）に由来するとされます。もとは粗末な寝床を意味し、そこから「寝ること」の口語になりました。" }
+    ],
+    "quiz": [
+      { "q": "I'm tired — I think I'll have a ___.（疲れたから、ひと眠りしようと思う）", "A": "kip", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "kip の意味は？", "A": "ひと眠り・仮眠", "B": "食事", "C": "散歩", "D": "掃除", "correct": "A" }
+    ]
+  }
+]
