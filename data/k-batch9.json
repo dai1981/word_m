@@ -1,0 +1,504 @@
+[
+  {
+    "english": "keg",
+    "pron": "keg",
+    "kana": "ケグ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古ノルド語 kaggi（小さな樽)",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "生活語"],
+    "meaning_main": "小さな樽（たる）／ビール樽",
+    "description": "keg は「小さな樽・ビール樽」を表す名詞。特にビールを入れる金属製の樽を指します。パーティーやパブでおなじみの容器で、a keg of beer（ビール1樽）の形でよく使われます。",
+    "keywords": ["keg 意味", "keg 発音", "keg 樽", "keg ビール", "keg 例文"],
+    "meanings": [
+      { "hinshi": "【名】小さな樽（たる）", "note": "液体などを入れる小型の樽。" },
+      { "hinshi": "【名】ビール樽", "note": "特にビールを入れる金属製の樽。" }
+    ],
+    "usages": [
+      { "title": "① ビール樽", "desc": "a keg of beer（ビール1樽）。", "example_en": "They brought a keg of beer to the party.", "example_ja": "彼らはパーティーにビール樽を持ってきた。" },
+      { "title": "② 小さな樽（容器）", "desc": "液体や火薬などを入れる。", "example_en": "The gunpowder was stored in kegs.", "example_ja": "火薬は樽に保管されていた。" },
+      { "title": "③ 樽から注ぐ", "desc": "tap a keg（樽の栓を開ける）。", "example_en": "He tapped the keg and poured a drink.", "example_ja": "彼は樽の栓を開けて一杯注いだ。" }
+    ],
+    "warn": ["barrel（大きな樽）より小型の樽を指す。", "発音は /keg/。egg（卵）と母音を混同しない。"],
+    "etym_note": "古ノルド語 kaggi（小さな樽）に由来し、中英語 cag を経て keg になりました。北欧の交易とともに英語に入った語です。",
+    "etym_chain": [
+      { "node": "kaggi", "sub": "小さな樽", "era": "古ノルド語" },
+      { "node": "cag", "sub": "樽", "era": "中英語" },
+      { "node": "keg", "sub": "小さな樽", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a keg of beer", "ja": "ビール1樽" },
+      { "en": "tap a keg", "ja": "樽の栓を開ける" },
+      { "en": "a beer keg", "ja": "ビール樽" },
+      { "en": "an empty keg", "ja": "空の樽" },
+      { "en": "keg party", "ja": "ビール樽を囲むパーティー" },
+      { "en": "a powder keg", "ja": "火薬樽・一触即発の状態" }
+    ],
+    "related": [
+      { "en": "barrel", "ja": "樽" },
+      { "en": "cask", "ja": "樽" },
+      { "en": "beer", "ja": "ビール" },
+      { "en": "container", "ja": "容器" }
+    ],
+    "faq": [
+      { "q": "keg と barrel の違いは？", "a": "どちらも「樽」ですが、keg は比較的小型の樽（特にビール樽）、barrel はより大きな樽を指すことが多いです。" },
+      { "q": "a powder keg とはどんな意味ですか？", "a": "文字通りは「火薬樽」ですが、比喩的に「今にも爆発しそうな危険な状況・一触即発の状態」を表します。" }
+    ],
+    "quiz": [
+      { "q": "They ordered a ___ of beer for the party.（パーティー用にビール樽を1つ頼んだ）", "A": "keg", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "keg が指すものは？", "A": "小さな樽", "B": "皿", "C": "コップ", "D": "鍋", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kelvin",
+    "pron": "ˈkelvɪn",
+    "kana": "ケルビン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "物理学者ケルビン卿の名にちなむ",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "科学・単位"],
+    "meaning_main": "ケルビン（絶対温度の単位）",
+    "description": "kelvin は温度の単位「ケルビン」を表す名詞。絶対零度（-273.15℃）を0とする絶対温度の単位で、記号は K です。物理学者ケルビン卿にちなんで名づけられました。",
+    "keywords": ["kelvin 意味", "kelvin 発音", "kelvin ケルビン", "kelvin 絶対温度", "kelvin 例文"],
+    "meanings": [
+      { "hinshi": "【名】ケルビン", "note": "絶対温度の単位。記号 K。0K＝-273.15℃。" }
+    ],
+    "usages": [
+      { "title": "① 絶対温度の単位", "desc": "科学で使う温度の単位。", "example_en": "Water freezes at 273 kelvin.", "example_ja": "水は273ケルビンで凍る。" },
+      { "title": "② 絶対零度 (0 kelvin)", "desc": "理論上の最低温度。", "example_en": "Zero kelvin is the coldest possible temperature.", "example_ja": "0ケルビンは理論上最も低い温度だ。" },
+      { "title": "③ 記号 K", "desc": "度（°）を付けない。", "example_en": "The star's surface is about 6000 K.", "example_ja": "その星の表面は約6000ケルビンだ。" }
+    ],
+    "warn": ["記号は K。摂氏(℃)と違い「度(°)」を付けない（× °K）。", "0ケルビン＝絶対零度＝-273.15℃。目盛りの間隔は摂氏と同じ。"],
+    "etym_note": "19世紀の物理学者ウィリアム・トムソン（ケルビン卿）の名にちなみます。彼が絶対温度の概念を確立したことを記念して単位名になりました。",
+    "etym_chain": [
+      { "node": "Kelvin (人名)", "sub": "物理学者", "era": "19世紀" },
+      { "node": "kelvin", "sub": "絶対温度の単位", "era": "20世紀英語" },
+      { "node": "kelvin", "sub": "ケルビン", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "degrees kelvin (口語)", "ja": "ケルビン(温度)" },
+      { "en": "zero kelvin", "ja": "絶対零度(0K)" },
+      { "en": "in kelvin", "ja": "ケルビン単位で" },
+      { "en": "absolute zero", "ja": "絶対零度" },
+      { "en": "6000 kelvin", "ja": "6000ケルビン" },
+      { "en": "the kelvin scale", "ja": "ケルビン温度目盛り" }
+    ],
+    "related": [
+      { "en": "temperature", "ja": "温度" },
+      { "en": "Celsius", "ja": "摂氏" },
+      { "en": "Fahrenheit", "ja": "華氏" },
+      { "en": "absolute zero", "ja": "絶対零度" }
+    ],
+    "faq": [
+      { "q": "kelvin と摂氏(℃)の関係は？", "a": "目盛りの間隔は同じで、0K＝-273.15℃です。摂氏の温度に273.15を足すとケルビンになります。" },
+      { "q": "kelvin に「度」は付けますか？", "a": "付けません。摂氏は「℃（度）」ですが、ケルビンは単に K と書きます（× °K は誤り）。" }
+    ],
+    "quiz": [
+      { "q": "Absolute zero is zero ___.（絶対零度は0ケルビンだ）", "A": "kelvin", "B": "kelp", "C": "keg", "D": "keeper", "correct": "A" },
+      { "q": "kelvin の記号は？", "A": "K", "B": "C", "C": "F", "D": "kW", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kinship",
+    "pron": "ˈkɪnʃɪp",
+    "kana": "キンシップ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "kin（親族）＋ -ship（状態)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "頻出語"],
+    "meaning_main": "血縁関係／親族関係／親近感",
+    "description": "kinship は「血縁関係・親族関係」を表す名詞。kin（親族）＋ -ship（状態）でできています。血のつながりのほか、「(気持ちの上での)親近感・つながり」の意味でも使われます。",
+    "keywords": ["kinship 意味", "kinship 発音", "kinship 血縁", "kinship 親近感", "kinship 例文"],
+    "meanings": [
+      { "hinshi": "【名】血縁関係・親族関係", "note": "血のつながりによる結びつき。" },
+      { "hinshi": "【名】親近感・共感的なつながり", "note": "似た者同士の心のつながり。" }
+    ],
+    "usages": [
+      { "title": "① 血縁関係", "desc": "家族・親族のつながり。", "example_en": "They are bound by kinship.", "example_ja": "彼らは血縁で結ばれている。" },
+      { "title": "② 親近感 (a sense of kinship)", "desc": "心のつながり。", "example_en": "I felt a sense of kinship with them.", "example_ja": "私は彼らに親近感を覚えた。" },
+      { "title": "③ kinship ties（親族の絆）", "desc": "社会・文化の研究などで。", "example_en": "Kinship ties are strong in that village.", "example_ja": "その村では親族の絆が強い。" }
+    ],
+    "warn": ["kin（親族）＋ -ship（friendship などと同じ状態の語尾）。", "「〜との親近感」は kinship with ~（前置詞 with）。"],
+    "etym_note": "kin（親族）に、状態や関係を表す接尾辞 -ship が付いた語です。friendship（友情）や relationship（関係）と同じ作り方です。",
+    "etym_chain": [
+      { "node": "kin + -ship", "sub": "親族＋状態", "era": "中英語" },
+      { "node": "kinship", "sub": "血縁関係", "era": "近代英語" },
+      { "node": "kinship", "sub": "血縁・親近感", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a sense of kinship", "ja": "親近感" },
+      { "en": "kinship ties", "ja": "親族の絆" },
+      { "en": "close kinship", "ja": "近い血縁" },
+      { "en": "feel kinship with", "ja": "〜に親近感を抱く" },
+      { "en": "bonds of kinship", "ja": "血縁の絆" },
+      { "en": "kinship group", "ja": "親族集団" }
+    ],
+    "related": [
+      { "en": "kin", "ja": "親族" },
+      { "en": "relationship", "ja": "関係" },
+      { "en": "bond", "ja": "絆" },
+      { "en": "family", "ja": "家族" }
+    ],
+    "faq": [
+      { "q": "kinship は血縁だけの意味ですか？", "a": "いいえ。血のつながりのほか、「(気持ちの上での)親近感・共感的なつながり」も表します。a sense of kinship（親近感）のように使います。" },
+      { "q": "kinship の語源は？", "a": "kin（親族）＋ -ship（状態を表す語尾）です。friendship（友情）や relationship（関係）と同じ作り方の名詞です。" }
+    ],
+    "quiz": [
+      { "q": "I feel a deep sense of ___ with my cousins.（いとこたちに深い親近感を覚える）", "A": "kinship", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "kinship は kin ＋ ___ の語。空所は？", "A": "-ship", "B": "-ness", "C": "-dom", "D": "-ful", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kickback",
+    "pron": "ˈkɪkbæk",
+    "kana": "キックバック",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "kick（蹴る）＋ back（戻す)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "ビジネス・社会"],
+    "meaning_main": "リベート／不正な謝礼／反動",
+    "description": "kickback は「(不正な)リベート・裏金」を表す名詞。取引の見返りとして秘密裏に支払われる謝礼を指します。また機械や銃の「反動・跳ね返り」の意味もあります。",
+    "keywords": ["kickback 意味", "kickback 発音", "kickback リベート", "kickback 裏金", "kickback 例文"],
+    "meanings": [
+      { "hinshi": "【名】(不正な)リベート・裏金", "note": "取引の見返りに秘密に渡す謝礼。" },
+      { "hinshi": "【名】反動・跳ね返り", "note": "機械や銃が跳ね返る力。" }
+    ],
+    "usages": [
+      { "title": "① 不正なリベート・裏金", "desc": "収賄の一種。", "example_en": "The official took kickbacks from companies.", "example_ja": "その役人は企業から裏金を受け取った。" },
+      { "title": "② 見返りとしての謝礼", "desc": "契約の見返りに支払われる。", "example_en": "He was accused of paying kickbacks.", "example_ja": "彼はリベートを支払ったとして告発された。" },
+      { "title": "③ 反動（機械・銃）", "desc": "跳ね返る力。", "example_en": "The saw can cause a dangerous kickback.", "example_ja": "そののこぎりは危険な反動を起こしうる。" }
+    ],
+    "warn": ["「不正なリベート」の意味では否定的・違法なニュアンス。", "kick＋back の複合語。1語で書く。"],
+    "etym_note": "動詞句 kick back（蹴り返す・戻す）が名詞化した語です。「支払いの一部が秘密に蹴り返される」イメージから「不正な謝礼」を意味するようになりました。",
+    "etym_chain": [
+      { "node": "kick + back", "sub": "蹴る＋戻す", "era": "20世紀英語" },
+      { "node": "kickback", "sub": "跳ね返り・裏金", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "take a kickback", "ja": "リベートを受け取る" },
+      { "en": "pay kickbacks", "ja": "裏金を支払う" },
+      { "en": "illegal kickbacks", "ja": "違法なリベート" },
+      { "en": "demand a kickback", "ja": "リベートを要求する" },
+      { "en": "kickback scheme", "ja": "リベートの仕組み・汚職" },
+      { "en": "a dangerous kickback", "ja": "危険な反動" }
+    ],
+    "related": [
+      { "en": "bribe", "ja": "賄賂" },
+      { "en": "corruption", "ja": "汚職" },
+      { "en": "commission", "ja": "手数料・歩合" },
+      { "en": "recoil", "ja": "反動" }
+    ],
+    "faq": [
+      { "q": "kickback とはどんな意味ですか？", "a": "取引や契約の見返りとして秘密裏に支払われる「不正なリベート・裏金」を指します。汚職・収賄に関わる否定的な語です。" },
+      { "q": "kickback には別の意味もありますか？", "a": "はい。機械や銃が急に跳ね返る「反動・跳ね返り」の意味もあります。チェーンソーの kickback などが例です。" }
+    ],
+    "quiz": [
+      { "q": "The manager received illegal ___ from suppliers.（部長は業者から違法なリベートを受け取った）", "A": "kickbacks", "B": "kettles", "C": "kernels", "D": "keepers", "correct": "A" },
+      { "q": "kickback（裏金）と関係が深い語は？", "A": "bribe（賄賂）", "B": "gift（贈り物）", "C": "salary（給料）", "D": "loan（融資）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kickstart",
+    "pron": "ˈkɪkstɑːrt",
+    "kana": "キックスタート",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "kick（蹴る）＋ start（始動)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "ビジネス"],
+    "meaning_main": "弾みをつけて始める／勢いよく始動させる",
+    "description": "kickstart は「(物事に)弾みをつけて始める・勢いよく始動させる」を表す動詞。もとはバイクをペダルを蹴って始動させることで、そこから「経済や計画を活気づける」意味になりました。",
+    "keywords": ["kickstart 意味", "kickstart 発音", "kickstart 始動", "kickstart 弾みをつける", "kickstart 例文"],
+    "meanings": [
+      { "hinshi": "【動】弾みをつけて始める・活気づける", "note": "勢いよくスタートさせる。" },
+      { "hinshi": "【名】始動・弾み", "note": "物事を勢いづける最初の一押し。" }
+    ],
+    "usages": [
+      { "title": "① 弾みをつけて始める", "desc": "計画や経済を活気づける。", "example_en": "The plan aims to kickstart the economy.", "example_ja": "その計画は経済を活気づけることを狙っている。" },
+      { "title": "② 勢いよく始動させる", "desc": "停滞したものを動かす。", "example_en": "A good breakfast kickstarts your day.", "example_ja": "良い朝食は一日を勢いよくスタートさせる。" },
+      { "title": "③ 名詞（弾み）", "desc": "give ~ a kickstart。", "example_en": "The grant gave the project a kickstart.", "example_ja": "その助成金は計画に弾みを与えた。" }
+    ],
+    "warn": ["kick＋start の複合語。kick-start と書くこともある。", "「(停滞したものを)勢いよく始める」という比喩でよく使う。"],
+    "etym_note": "オートバイをペダルを蹴って始動させる「キックスターター」に由来します。そこから比喩的に「物事に弾みをつけて動かし始める」意味になりました。",
+    "etym_chain": [
+      { "node": "kick + start", "sub": "蹴る＋始動", "era": "20世紀英語" },
+      { "node": "kick-start", "sub": "キック始動", "era": "20世紀後半英語" },
+      { "node": "kickstart", "sub": "弾みをつけて始める", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "kickstart the economy", "ja": "経済を活気づける" },
+      { "en": "kickstart a project", "ja": "計画に弾みをつける" },
+      { "en": "kickstart your day", "ja": "一日を勢いよく始める" },
+      { "en": "give a kickstart", "ja": "弾みを与える" },
+      { "en": "kickstart growth", "ja": "成長を促進する" },
+      { "en": "kickstart a career", "ja": "経歴に弾みをつける" }
+    ],
+    "related": [
+      { "en": "start", "ja": "始める" },
+      { "en": "boost", "ja": "後押しする" },
+      { "en": "launch", "ja": "立ち上げる" },
+      { "en": "stimulate", "ja": "刺激する・活気づける" }
+    ],
+    "faq": [
+      { "q": "kickstart の語源は？", "a": "オートバイをペダルを蹴って始動させる仕組み「キックスターター」に由来します。そこから「物事に弾みをつけて始める」という比喩的意味が生まれました。" },
+      { "q": "kickstart はどんな文脈で使いますか？", "a": "停滞した経済・計画・キャリアなどを「勢いよく動かし始める・活気づける」という比喩的な場面でよく使われます。" }
+    ],
+    "quiz": [
+      { "q": "The government hopes to ___ the economy.（政府は経済を活気づけたいと考えている）", "A": "kickstart", "B": "knit", "C": "kneel", "D": "kick", "correct": "A" },
+      { "q": "kickstart のもとになった乗り物は？", "A": "オートバイ", "B": "自転車", "C": "船", "D": "飛行機", "correct": "A" }
+    ]
+  },
+  {
+    "english": "knickknack",
+    "pron": "ˈnɪknæk",
+    "kana": "ニックナック",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "knack（巧みな小物）の重複形",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "生活語"],
+    "meaning_main": "小さな装飾品／こまごました置物",
+    "description": "knickknack は「小さな装飾品・こまごました置物」を表す名詞。先頭の k は黙字で /ˈnɪknæk/。棚に飾る安価で可愛らしい小物を指し、しばしば複数形 knickknacks で使われます。",
+    "keywords": ["knickknack 意味", "knickknack 発音", "knickknack 置物", "knickknack 小物", "knickknack 例文"],
+    "meanings": [
+      { "hinshi": "【名】小さな装飾品・こまごました置物", "note": "棚などに飾る安価で可愛い小物。" }
+    ],
+    "usages": [
+      { "title": "① 小さな置物・装飾品", "desc": "棚に並べる小物。", "example_en": "Her shelves were full of knickknacks.", "example_ja": "彼女の棚は小さな置物でいっぱいだった。" },
+      { "title": "② 土産の小物", "desc": "旅行先で買う小物。", "example_en": "We bought some knickknacks as souvenirs.", "example_ja": "私たちは土産に小物をいくつか買った。" },
+      { "title": "③ 複数形で使うことが多い", "desc": "knickknacks。", "example_en": "She dusted the knickknacks on the mantel.", "example_ja": "彼女は炉棚の置物のほこりを払った。" }
+    ],
+    "warn": ["先頭の k は黙字。/ˈnɪknæk/ と読む。", "knick-knack とハイフンで書くこともある。しばしば複数形。"],
+    "etym_note": "knack（巧みな小物・工夫）を重ねた重複語（畳語）です。17世紀ごろ「小さな飾り物・おもちゃ」の意味で使われるようになりました。",
+    "etym_chain": [
+      { "node": "knack", "sub": "巧みな小物", "era": "中英語" },
+      { "node": "knick-knack", "sub": "小さな装飾品", "era": "17世紀英語" },
+      { "node": "knickknack", "sub": "こまごました置物", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a shelf of knickknacks", "ja": "小物が並ぶ棚" },
+      { "en": "collect knickknacks", "ja": "小物を集める" },
+      { "en": "cheap knickknacks", "ja": "安っぽい小物" },
+      { "en": "dust the knickknacks", "ja": "置物のほこりを払う" },
+      { "en": "decorative knickknacks", "ja": "装飾用の小物" },
+      { "en": "knickknacks and trinkets", "ja": "こまごました小物類" }
+    ],
+    "related": [
+      { "en": "trinket", "ja": "安物の装身具・小物" },
+      { "en": "ornament", "ja": "装飾品" },
+      { "en": "souvenir", "ja": "土産" },
+      { "en": "decoration", "ja": "飾り" }
+    ],
+    "faq": [
+      { "q": "knickknack の発音は？", "a": "/ˈnɪknæk/（ニックナック）です。先頭の k は黙字で発音しません。knack（ナック）を2つ重ねた語です。" },
+      { "q": "knickknack はどんな物を指しますか？", "a": "棚などに飾る「小さくて安価な装飾品・こまごました置物」を指します。土産物の小物などが典型例です。" }
+    ],
+    "quiz": [
+      { "q": "The shelf was covered with tiny ___.（棚は小さな置物で覆われていた）", "A": "knickknacks", "B": "kettles", "C": "kernels", "D": "keepers", "correct": "A" },
+      { "q": "knickknack はどんな語からできた？", "A": "knack を重ねた語", "B": "king の変化形", "C": "knock の複数", "D": "knee の派生", "correct": "A" }
+    ]
+  },
+  {
+    "english": "know-how",
+    "pron": "ˈnoʊhaʊ",
+    "kana": "ノウハウ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "know（知る）＋ how（方法)",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "ノウハウ／実践的な知識・技術",
+    "description": "know-how は「ノウハウ・実践的な知識や技術」を表す名詞。know how to ~（〜のしかたを知る）から生まれた語で、実際にやり方を心得ている専門的な技能を指します。原則不可算です。",
+    "keywords": ["know-how 意味", "know-how 発音", "know-how ノウハウ", "know-how 技術", "know-how 例文"],
+    "meanings": [
+      { "hinshi": "【名】ノウハウ・実践的な知識", "note": "やり方を心得た専門的技能。不可算。" }
+    ],
+    "usages": [
+      { "title": "① 実践的な知識・技術", "desc": "実際のやり方を知っていること。", "example_en": "She has the know-how to run a business.", "example_ja": "彼女は事業を経営するノウハウを持っている。" },
+      { "title": "② 技術・ノウハウを持つ", "desc": "have the know-how。", "example_en": "We lack the technical know-how.", "example_ja": "私たちは技術的なノウハウを欠いている。" },
+      { "title": "③ ノウハウを共有する", "desc": "share know-how。", "example_en": "The companies shared their know-how.", "example_ja": "その企業同士はノウハウを共有した。" }
+    ],
+    "warn": ["ふつうハイフンでつなぐ（know-how）。原則不可算名詞。", "know how（2語）は動詞句「〜のしかたを知る」で別。"],
+    "etym_note": "know how to do（〜のしかたを知る）という表現から生まれた複合名詞です。20世紀に「実践的な専門技能」を指す語として定着しました。",
+    "etym_chain": [
+      { "node": "know how", "sub": "やり方を知る", "era": "近代英語" },
+      { "node": "know-how", "sub": "実践的知識", "era": "20世紀英語" },
+      { "node": "know-how", "sub": "ノウハウ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "technical know-how", "ja": "技術的ノウハウ" },
+      { "en": "have the know-how", "ja": "ノウハウを持つ" },
+      { "en": "practical know-how", "ja": "実践的な知識" },
+      { "en": "share know-how", "ja": "ノウハウを共有する" },
+      { "en": "lack the know-how", "ja": "ノウハウを欠く" },
+      { "en": "business know-how", "ja": "経営ノウハウ" }
+    ],
+    "related": [
+      { "en": "skill", "ja": "技能" },
+      { "en": "expertise", "ja": "専門知識" },
+      { "en": "knowledge", "ja": "知識" },
+      { "en": "experience", "ja": "経験" }
+    ],
+    "faq": [
+      { "q": "know-how と knowledge の違いは？", "a": "knowledge は「知識」全般、know-how は特に「実際のやり方を心得た実践的な技能」を指します。手を動かして使える知識、というニュアンスです。" },
+      { "q": "know-how はハイフンが必要ですか？", "a": "名詞として使うときは通常ハイフンでつなぎます（know-how）。know how（2語）は「〜のしかたを知る」という動詞句で別物です。" }
+    ],
+    "quiz": [
+      { "q": "He has the technical ___ to fix the machine.（彼はその機械を直す技術的ノウハウがある）", "A": "know-how", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "know-how は know ＋ ___ の複合語。空所は？", "A": "how", "B": "who", "C": "why", "D": "when", "correct": "A" }
+    ]
+  },
+  {
+    "english": "klutz",
+    "pron": "klʌts",
+    "kana": "クラッツ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "イディッシュ語 klots（木の塊・不器用者)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "口語"],
+    "meaning_main": "不器用な人／どじな人",
+    "description": "klutz は「不器用な人・どじな人」を表す口語的な名詞。物をよく落としたりつまずいたりする人を、親しみを込めて指します。イディッシュ語で「木の塊」を意味する語が語源です。",
+    "keywords": ["klutz 意味", "klutz 発音", "klutz 不器用", "klutz どじ", "klutz 例文"],
+    "meanings": [
+      { "hinshi": "【名】不器用な人・どじな人", "note": "よく物を落とし失敗するぎこちない人。口語。" }
+    ],
+    "usages": [
+      { "title": "① 不器用な人", "desc": "動作がぎこちない人。", "example_en": "I'm such a klutz — I dropped my phone again.", "example_ja": "私は本当にどじだ、また携帯を落とした。" },
+      { "title": "② よく失敗する人", "desc": "つまずく・こぼす。", "example_en": "He's a klutz on the dance floor.", "example_ja": "彼はダンスとなるとまるで不器用だ。" },
+      { "title": "③ 親しみを込めた自嘲", "desc": "自分をからかう言い方。", "example_en": "Sorry, I spilled it — total klutz!", "example_ja": "ごめん、こぼしちゃった、完全にどじだね！" }
+    ],
+    "warn": ["くだけた口語。フォーマルな場では clumsy person などが無難。", "発音は /klʌts/。語尾の ts をはっきり。"],
+    "etym_note": "イディッシュ語 klots（木の塊・丸太）に由来し、「木のように鈍い人」というイメージから「不器用者」を意味するようになりました。20世紀にアメリカ英語に入りました。",
+    "etym_chain": [
+      { "node": "klots", "sub": "木の塊・鈍い人", "era": "イディッシュ語" },
+      { "node": "klutz", "sub": "不器用者", "era": "20世紀英語" },
+      { "node": "klutz", "sub": "どじな人", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a total klutz", "ja": "まったくの不器用者" },
+      { "en": "be a klutz", "ja": "どじである" },
+      { "en": "a klutz in the kitchen", "ja": "料理が不器用な人" },
+      { "en": "such a klutz", "ja": "本当にどじ" },
+      { "en": "a clumsy klutz", "ja": "ぎこちないどじ" },
+      { "en": "feel like a klutz", "ja": "自分がどじに思える" }
+    ],
+    "related": [
+      { "en": "clumsy", "ja": "不器用な" },
+      { "en": "awkward", "ja": "ぎこちない" },
+      { "en": "butterfingers", "ja": "よく物を落とす人" },
+      { "en": "oaf", "ja": "のろまな人" }
+    ],
+    "faq": [
+      { "q": "klutz はどんなニュアンスの語ですか？", "a": "「不器用でどじな人」を指す口語で、親しみやユーモアを込めて使うことが多いです。自分を自嘲的に言うのにもよく使います。" },
+      { "q": "klutz の語源は？", "a": "イディッシュ語 klots（木の塊）に由来します。「木のように鈍い」というイメージから「不器用者」の意味になりました。" }
+    ],
+    "quiz": [
+      { "q": "I tripped over nothing again — what a ___!（何もないところでまた転んだ、なんてどじ！）", "A": "klutz", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "klutz の意味は？", "A": "器用な人", "B": "不器用な人", "C": "力持ち", "D": "賢い人", "correct": "B" }
+    ]
+  },
+  {
+    "english": "kudzu",
+    "pron": "ˈkʊdzuː",
+    "kana": "クヅー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "日本語「葛（くず）」",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "植物・自然"],
+    "meaning_main": "クズ（葛）／つる性の植物",
+    "description": "kudzu は「クズ（葛）」を表す名詞。日本原産のつる性植物で、驚くほど速く生い茂ります。アメリカ南部では緑化のために持ち込まれ、他の植物を覆い尽くす侵略的外来種として有名になりました。",
+    "keywords": ["kudzu 意味", "kudzu 発音", "kudzu 葛", "kudzu つる植物", "kudzu 例文"],
+    "meanings": [
+      { "hinshi": "【名】クズ（葛）", "note": "日本原産のつる性植物。非常に速く広がる。" }
+    ],
+    "usages": [
+      { "title": "① クズ（つる植物）", "desc": "つるを伸ばして広がる。", "example_en": "Kudzu covered the entire hillside.", "example_ja": "クズが丘の斜面全体を覆っていた。" },
+      { "title": "② 侵略的外来種", "desc": "米南部で問題に。", "example_en": "Kudzu is an invasive plant in the American South.", "example_ja": "クズはアメリカ南部で侵略的な植物だ。" },
+      { "title": "③ 急速に広がるもののたとえ", "desc": "比喩的にも使う。", "example_en": "The rumor spread like kudzu.", "example_ja": "そのうわさはクズのように広がった。" }
+    ],
+    "warn": ["日本語の「葛（くず）」が語源。発音は /ˈkʊdzuː/。", "米国では「他を覆い尽くす速さ」の象徴として比喩的にも使われる。"],
+    "etym_note": "日本語の「葛（くず）」に由来します。19世紀後半にアメリカへ紹介され、土壌流出を防ぐために植えられましたが、猛烈な繁殖力で問題視されるようになりました。",
+    "etym_chain": [
+      { "node": "葛 (kuzu)", "sub": "つる植物", "era": "日本" },
+      { "node": "kudzu", "sub": "クズ", "era": "19世紀英語" },
+      { "node": "kudzu", "sub": "クズ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "kudzu vine", "ja": "クズのつる" },
+      { "en": "covered in kudzu", "ja": "クズに覆われて" },
+      { "en": "invasive kudzu", "ja": "侵略的なクズ" },
+      { "en": "spread like kudzu", "ja": "クズのように広がる" },
+      { "en": "kudzu root", "ja": "葛の根(葛根)" },
+      { "en": "a wall of kudzu", "ja": "クズの壁" }
+    ],
+    "related": [
+      { "en": "vine", "ja": "つる植物" },
+      { "en": "weed", "ja": "雑草" },
+      { "en": "plant", "ja": "植物" },
+      { "en": "invasive", "ja": "侵略的な" }
+    ],
+    "faq": [
+      { "q": "kudzu の語源は？", "a": "日本語の「葛（くず）」です。日本原産のつる植物で、19世紀にアメリカへ持ち込まれ、そのまま英語になりました。" },
+      { "q": "なぜ kudzu は有名なのですか？", "a": "アメリカ南部で緑化のために植えられた後、猛烈な速さで広がり他の植物を覆い尽くす「侵略的外来種」として有名になったからです。" }
+    ],
+    "quiz": [
+      { "q": "___ can grow up to 30 cm in a single day.（クズは1日で30cmも伸びることがある）", "A": "Kudzu", "B": "Kettle", "C": "Kernel", "D": "Keeper", "correct": "A" },
+      { "q": "kudzu の語源となった言語は？", "A": "日本語", "B": "中国語", "C": "韓国語", "D": "タイ語", "correct": "A" }
+    ]
+  },
+  {
+    "english": "knothole",
+    "pron": "ˈnɒthoʊl",
+    "kana": "ノットホウル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "knot（節）＋ hole（穴)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "生活語"],
+    "meaning_main": "節穴（板の節が抜けた穴）",
+    "description": "knothole は「節穴（ふしあな）」を表す名詞。木の板から節（knot）が抜け落ちてできた丸い穴を指します。先頭の k は黙字で /ˈnɒthoʊl/。塀の節穴からのぞく、といった場面で使われます。",
+    "keywords": ["knothole 意味", "knothole 発音", "knothole 節穴", "knothole ふしあな", "knothole 例文"],
+    "meanings": [
+      { "hinshi": "【名】節穴（ふしあな）", "note": "板の節が抜けてできた丸い穴。" }
+    ],
+    "usages": [
+      { "title": "① 節穴（板の穴）", "desc": "木の節が抜けた穴。", "example_en": "The boy peeked through a knothole in the fence.", "example_ja": "少年は塀の節穴からのぞいた。" },
+      { "title": "② のぞき穴として", "desc": "節穴から中を見る。", "example_en": "Sunlight came through the knothole.", "example_ja": "日光が節穴から差し込んだ。" },
+      { "title": "③ 木材の欠点", "desc": "板の弱い部分。", "example_en": "The plank had a large knothole.", "example_ja": "その厚板には大きな節穴があった。" }
+    ],
+    "warn": ["先頭の k は黙字。/ˈnɒthoʊl/ と読む。", "knot（節）＋ hole（穴）の複合語。1語で書く。"],
+    "etym_note": "knot（木の節）＋ hole（穴）を合わせた複合語です。木材の節の部分が乾燥して抜け落ち、丸い穴ができることに由来します。",
+    "etym_chain": [
+      { "node": "knot + hole", "sub": "節＋穴", "era": "近代英語" },
+      { "node": "knothole", "sub": "節穴", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "peek through a knothole", "ja": "節穴からのぞく" },
+      { "en": "a knothole in the fence", "ja": "塀の節穴" },
+      { "en": "look through a knothole", "ja": "節穴から見る" },
+      { "en": "a small knothole", "ja": "小さな節穴" },
+      { "en": "light through the knothole", "ja": "節穴から差す光" },
+      { "en": "a knothole in the board", "ja": "板の節穴" }
+    ],
+    "related": [
+      { "en": "knot", "ja": "節・結び目" },
+      { "en": "hole", "ja": "穴" },
+      { "en": "wood", "ja": "木材" },
+      { "en": "fence", "ja": "塀・柵" }
+    ],
+    "faq": [
+      { "q": "knothole とは何ですか？", "a": "木の板にある「節（knot）」が乾燥して抜け落ち、そこにできた丸い穴「節穴（ふしあな）」のことです。" },
+      { "q": "knothole の k は発音しますか？", "a": "いいえ、黙字です。/ˈnɒthoʊl/ と読みます。knot（節）＋ hole（穴）の複合語です。" }
+    ],
+    "quiz": [
+      { "q": "She watched the game through a ___ in the fence.（彼女は塀の節穴から試合を見た）", "A": "knothole", "B": "keyhole", "C": "kettle", "D": "kernel", "correct": "A" },
+      { "q": "knothole は knot ＋ ___ の複合語。空所は？", "A": "hole", "B": "board", "C": "wood", "D": "wall", "correct": "A" }
+    ]
+  }
+]
