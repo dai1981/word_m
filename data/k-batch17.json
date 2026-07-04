@@ -1,0 +1,502 @@
+[
+  {
+    "english": "kiln",
+    "pron": "kɪln",
+    "kana": "キルン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 culina（かまど・台所)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "工芸・道具"],
+    "meaning_main": "窯（かま）／焼成炉",
+    "description": "kiln は「窯（かま）」を表す名詞。陶器・れんが・石灰などを高温で焼き固めたり乾燥させたりするための炉です。陶芸でおなじみで、fire in a kiln（窯で焼く）のように使います。",
+    "keywords": ["kiln 意味", "kiln 発音", "kiln 窯", "kiln 陶芸", "kiln 例文"],
+    "meanings": [
+      { "hinshi": "【名】窯・焼成炉", "note": "陶器・れんがなどを高温で焼く炉。" }
+    ],
+    "usages": [
+      { "title": "① 窯（陶芸）", "desc": "陶器を焼く炉。", "example_en": "The potter fired the bowls in a kiln.", "example_ja": "陶芸家は器を窯で焼いた。" },
+      { "title": "② れんが・石灰を焼く", "desc": "工業用の窯。", "example_en": "Bricks are baked in a kiln.", "example_ja": "れんがは窯で焼かれる。" },
+      { "title": "③ 木材の乾燥", "desc": "kiln-dried（窯乾燥の）。", "example_en": "This wood is kiln-dried.", "example_ja": "この木材は窯で乾燥させてある。" }
+    ],
+    "warn": ["発音は /kɪln/。語尾の n まで発音する（/kɪl/ とも言うが標準は /kɪln/）。", "陶器・れんが・石灰などを焼く炉。オーブン(oven)より高温・専門的。"],
+    "etym_note": "ラテン語 culina（かまど・台所）に由来し、古英語 cyln を経て kiln になりました。cook（料理する）とも遠い語源のつながりがあります。",
+    "etym_chain": [
+      { "node": "culina", "sub": "かまど", "era": "ラテン語" },
+      { "node": "cyln", "sub": "窯", "era": "古英語" },
+      { "node": "kiln", "sub": "窯", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "fire in a kiln", "ja": "窯で焼く" },
+      { "en": "a pottery kiln", "ja": "陶芸の窯" },
+      { "en": "a brick kiln", "ja": "れんが窯" },
+      { "en": "kiln-dried wood", "ja": "窯乾燥の木材" },
+      { "en": "load the kiln", "ja": "窯に詰める" },
+      { "en": "a wood-fired kiln", "ja": "薪窯" }
+    ],
+    "related": [
+      { "en": "oven", "ja": "オーブン・かまど" },
+      { "en": "furnace", "ja": "溶鉱炉・炉" },
+      { "en": "pottery", "ja": "陶器" },
+      { "en": "fire", "ja": "焼く・火" }
+    ],
+    "faq": [
+      { "q": "kiln と oven の違いは？", "a": "oven は料理用のオーブンやかまど全般ですが、kiln は陶器・れんが・石灰などを非常に高温で焼き固める専門的な「窯」を指します。" },
+      { "q": "kiln-dried とはどんな意味ですか？", "a": "「窯（乾燥室）で乾燥させた」という意味です。自然乾燥より短時間で木材などを乾かす方法で、kiln-dried wood（窯乾燥材）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The potter placed the clay pots in the ___ to fire them.（陶芸家は焼くために粘土の器を窯に入れた）", "A": "kiln", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "kiln の主な用途は？", "A": "陶器などを焼く", "B": "服を洗う", "C": "水を冷やす", "D": "音を鳴らす", "correct": "A" }
+    ]
+  },
+  {
+    "english": "korma",
+    "pron": "ˈkɔːrmə",
+    "kana": "コルマ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ウルドゥー語 qormā（煮込み)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "食べ物・文化"],
+    "meaning_main": "コルマ（クリーミーで穏やかなインドのカレー）",
+    "description": "korma は「コルマ」を表す名詞。ヨーグルトや生クリーム、ナッツを使ったマイルドでクリーミーなインド・南アジアの煮込み料理（カレー）です。辛さは控えめで、まろやかな味わいが特徴です。",
+    "keywords": ["korma 意味", "korma 発音", "korma コルマ", "korma カレー", "korma 例文"],
+    "meanings": [
+      { "hinshi": "【名】コルマ", "note": "ヨーグルトやクリームを使ったマイルドな南アジアの煮込みカレー。" }
+    ],
+    "usages": [
+      { "title": "① コルマ（料理）", "desc": "クリーミーなカレー。", "example_en": "I ordered a chicken korma.", "example_ja": "私はチキンコルマを注文した。" },
+      { "title": "② マイルドな辛さ", "desc": "辛さ控えめ。", "example_en": "Korma is milder than most curries.", "example_ja": "コルマは大半のカレーより辛くない。" },
+      { "title": "③ ナッツやクリーム", "desc": "濃厚な口当たり。", "example_en": "The korma sauce is rich with cream and almonds.", "example_ja": "コルマのソースはクリームとアーモンドで濃厚だ。" }
+    ],
+    "warn": ["発音は /ˈkɔːrmə/。マイルドでクリーミーな南アジアの煮込み料理。", "vindaloo などの辛いカレーと対照的にマイルド。"],
+    "etym_note": "ウルドゥー語 qormā（煮込む・炒め煮する）に由来し、さらにトルコ語にさかのぼるとされます。ムガル帝国の宮廷料理に起源を持つ、まろやかな煮込み料理を指します。",
+    "etym_chain": [
+      { "node": "qormā", "sub": "煮込み", "era": "ウルドゥー語" },
+      { "node": "korma", "sub": "コルマ", "era": "19-20世紀英語" },
+      { "node": "korma", "sub": "コルマ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "chicken korma", "ja": "チキンコルマ" },
+      { "en": "a mild korma", "ja": "マイルドなコルマ" },
+      { "en": "vegetable korma", "ja": "野菜のコルマ" },
+      { "en": "creamy korma sauce", "ja": "クリーミーなコルマソース" },
+      { "en": "korma and rice", "ja": "コルマとライス" },
+      { "en": "a lamb korma", "ja": "ラムのコルマ" }
+    ],
+    "related": [
+      { "en": "curry", "ja": "カレー" },
+      { "en": "India", "ja": "インド" },
+      { "en": "spice", "ja": "香辛料" },
+      { "en": "yogurt", "ja": "ヨーグルト" }
+    ],
+    "faq": [
+      { "q": "korma とはどんな料理ですか？", "a": "ヨーグルトや生クリーム、ナッツを使った、マイルドでクリーミーなインド・南アジアの煮込みカレーです。辛さは控えめです。" },
+      { "q": "korma は辛いですか？", "a": "いいえ、比較的マイルドです。クリームやナッツでまろやかに仕上げるため、辛いカレーが苦手な人にも人気です。" }
+    ],
+    "quiz": [
+      { "q": "I prefer a mild, creamy ___ over spicy curries.（辛いカレーよりマイルドでクリーミーなコルマが好きだ）", "A": "korma", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "korma の特徴は？", "A": "マイルドでクリーミー", "B": "とても辛い", "C": "冷たい", "D": "甘いデザート", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kilim",
+    "pron": "kɪˈliːm",
+    "kana": "キリム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "トルコ語 kilim（平織りの敷物)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "工芸・文化"],
+    "meaning_main": "キリム（平織りの敷物・つづれ織り)",
+    "description": "kilim は「キリム」を表す名詞。トルコや中東・中央アジアで作られる、毛足のない平織りの敷物です。幾何学模様が特徴で、床に敷いたり壁に掛けたりして使われる伝統的な織物です。",
+    "keywords": ["kilim 意味", "kilim 発音", "kilim キリム", "kilim 敷物", "kilim 例文"],
+    "meanings": [
+      { "hinshi": "【名】キリム", "note": "毛足のない平織りの伝統的な敷物。幾何学模様が特徴。" }
+    ],
+    "usages": [
+      { "title": "① キリム（敷物）", "desc": "平織りの織物。", "example_en": "They spread a colorful kilim on the floor.", "example_ja": "彼らは色鮮やかなキリムを床に敷いた。" },
+      { "title": "② 幾何学模様", "desc": "伝統的なデザイン。", "example_en": "The kilim had bold geometric patterns.", "example_ja": "そのキリムは大胆な幾何学模様だった。" },
+      { "title": "③ 壁掛けにも", "desc": "装飾として。", "example_en": "She hung a kilim on the wall.", "example_ja": "彼女はキリムを壁に掛けた。" }
+    ],
+    "warn": ["発音は /kɪˈliːm/。毛足のある絨毯(carpet)と違い、毛足のない平織り。", "トルコ・中東・中央アジアの伝統的な織物。"],
+    "etym_note": "トルコ語 kilim（平織りの敷物）に由来し、さらにペルシャ語 gelīm にさかのぼります。中東・中央アジアの遊牧民の織物文化とともに世界に知られるようになりました。",
+    "etym_chain": [
+      { "node": "gelīm", "sub": "敷物", "era": "ペルシャ語" },
+      { "node": "kilim", "sub": "平織りの敷物", "era": "トルコ語" },
+      { "node": "kilim", "sub": "キリム", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a woven kilim", "ja": "織りのキリム" },
+      { "en": "a Turkish kilim", "ja": "トルコのキリム" },
+      { "en": "a kilim rug", "ja": "キリムの敷物" },
+      { "en": "geometric kilim patterns", "ja": "キリムの幾何学模様" },
+      { "en": "hang a kilim", "ja": "キリムを掛ける" },
+      { "en": "an antique kilim", "ja": "アンティークのキリム" }
+    ],
+    "related": [
+      { "en": "rug", "ja": "敷物・ラグ" },
+      { "en": "carpet", "ja": "絨毯" },
+      { "en": "weave", "ja": "織る" },
+      { "en": "tapestry", "ja": "つづれ織り・タペストリー" }
+    ],
+    "faq": [
+      { "q": "kilim とは何ですか？", "a": "トルコや中東・中央アジアで作られる、毛足のない平織りの敷物です。幾何学模様が特徴で、床に敷いたり壁に掛けたりします。" },
+      { "q": "kilim と carpet(絨毯)の違いは？", "a": "carpet は毛足のあるパイル織りが多いのに対し、kilim は毛足のない平織り（つづれ織り）です。薄くて軽いのが特徴です。" }
+    ],
+    "quiz": [
+      { "q": "A colorful ___ covered the floor of the tent.（色鮮やかなキリムがテントの床を覆っていた）", "A": "kilim", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "kilim の織りの特徴は？", "A": "毛足のない平織り", "B": "毛足の長い織り", "C": "編み物", "D": "革製", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kappa",
+    "pron": "ˈkæpə",
+    "kana": "カッパ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 kappa（文字の名)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "文字・学術"],
+    "meaning_main": "カッパ（ギリシャ文字の第10字 Κ・κ）",
+    "description": "kappa は「カッパ」を表す名詞。ギリシャ文字の10番目の字（大文字 Κ、小文字 κ）です。ラテン文字の K のもとになった文字で、数学・物理・統計などの学術記号として広く使われます。",
+    "keywords": ["kappa 意味", "kappa 発音", "kappa ギリシャ文字", "kappa κ", "kappa 例文"],
+    "meanings": [
+      { "hinshi": "【名】カッパ", "note": "ギリシャ文字の第10字（Κ・κ）。K の起源。" }
+    ],
+    "usages": [
+      { "title": "① ギリシャ文字カッパ", "desc": "Κ（大）・κ（小）。", "example_en": "Kappa is the tenth letter of the Greek alphabet.", "example_ja": "カッパはギリシャ文字の10番目の字だ。" },
+      { "title": "② 学術記号として", "desc": "数学・統計で使う。", "example_en": "In statistics, kappa measures agreement.", "example_ja": "統計ではカッパ係数が一致度を表す。" },
+      { "title": "③ 物理・数学の変数", "desc": "曲率などを表す。", "example_en": "The symbol κ often stands for curvature.", "example_ja": "記号 κ はしばしば曲率を表す。" }
+    ],
+    "warn": ["発音は /ˈkæpə/。ギリシャ文字 Κ/κ を指す。", "ラテン文字 K の起源。数学・統計・物理で記号として使う。"],
+    "etym_note": "ギリシャ文字の名 kappa に由来し、さらにフェニキア文字 kaph（手のひら）にさかのぼります。この文字がラテン文字の K、キリル文字の К のもとになりました。",
+    "etym_chain": [
+      { "node": "kaph", "sub": "手のひら", "era": "フェニキア文字" },
+      { "node": "kappa", "sub": "ギリシャ文字K", "era": "ギリシャ語" },
+      { "node": "kappa", "sub": "カッパ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the letter kappa", "ja": "文字カッパ" },
+      { "en": "kappa coefficient", "ja": "カッパ係数(統計)" },
+      { "en": "capital kappa", "ja": "大文字のカッパ(Κ)" },
+      { "en": "the symbol κ", "ja": "記号 κ" },
+      { "en": "Greek kappa", "ja": "ギリシャ文字カッパ" },
+      { "en": "kappa in physics", "ja": "物理でのカッパ" }
+    ],
+    "related": [
+      { "en": "alpha", "ja": "アルファ(ギリシャ文字)" },
+      { "en": "beta", "ja": "ベータ" },
+      { "en": "alphabet", "ja": "アルファベット" },
+      { "en": "letter", "ja": "文字" }
+    ],
+    "faq": [
+      { "q": "kappa とは何ですか？", "a": "ギリシャ文字の10番目の字（大文字 Κ、小文字 κ）です。ラテン文字の K のもとになった文字で、学術記号としても使われます。" },
+      { "q": "kappa はどこで記号として使われますか？", "a": "数学（曲率など）、物理、統計（一致度を示すカッパ係数）など、さまざまな学術分野で変数や係数の記号として使われます。" }
+    ],
+    "quiz": [
+      { "q": "The Greek letter ___ is the ancestor of the Latin K.（ギリシャ文字カッパはラテン文字Kの祖先だ）", "A": "kappa", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "kappa はどの文字体系の文字？", "A": "ギリシャ文字", "B": "アラビア文字", "C": "漢字", "D": "ロシア文字", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kirk",
+    "pron": "kɜːrk",
+    "kana": "カーク",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古ノルド語 kirkja（教会)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "宗教・方言"],
+    "meaning_main": "(スコットランドの)教会",
+    "description": "kirk は「(スコットランドの)教会」を表す名詞。church（教会）に相当するスコットランド語・北イングランド方言の語です。特にスコットランド国教会（the Kirk）を指すこともあります。",
+    "keywords": ["kirk 意味", "kirk 発音", "kirk 教会", "kirk スコットランド", "kirk 例文"],
+    "meanings": [
+      { "hinshi": "【名】(スコットランドの)教会", "note": "church に相当する方言。the Kirk はスコットランド国教会。" }
+    ],
+    "usages": [
+      { "title": "① 教会（スコットランド）", "desc": "church の方言。", "example_en": "They were married in the village kirk.", "example_ja": "彼らは村の教会で結婚した。" },
+      { "title": "② the Kirk（スコットランド国教会）", "desc": "大文字で特定の教会。", "example_en": "He is a minister in the Kirk.", "example_ja": "彼はスコットランド国教会の牧師だ。" },
+      { "title": "③ 地名・姓にも", "desc": "Kirkwall など。", "example_en": "Many Scottish place names contain \"kirk.\"", "example_ja": "多くのスコットランドの地名に「kirk」が含まれる。" }
+    ],
+    "warn": ["発音は /kɜːrk/。スコットランド語・北イングランド方言で church の意味。", "大文字の the Kirk はスコットランド国教会を指す。"],
+    "etym_note": "古ノルド語 kirkja（教会）に由来します。church と同じゲルマン語系の語源（ギリシャ語 kyriakon＝主の家）を持ちますが、北欧経由でスコットランドに定着しました。",
+    "etym_chain": [
+      { "node": "kyriakon", "sub": "主の家", "era": "ギリシャ語" },
+      { "node": "kirkja", "sub": "教会", "era": "古ノルド語" },
+      { "node": "kirk", "sub": "教会(スコットランド)", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the village kirk", "ja": "村の教会" },
+      { "en": "go to the kirk", "ja": "教会に行く" },
+      { "en": "the Kirk of Scotland", "ja": "スコットランド国教会" },
+      { "en": "the old kirk", "ja": "古い教会" },
+      { "en": "a kirk minister", "ja": "教会の牧師" },
+      { "en": "kirkyard", "ja": "教会の墓地" }
+    ],
+    "related": [
+      { "en": "church", "ja": "教会" },
+      { "en": "Scotland", "ja": "スコットランド" },
+      { "en": "chapel", "ja": "礼拝堂" },
+      { "en": "minister", "ja": "牧師" }
+    ],
+    "faq": [
+      { "q": "kirk と church の違いは？", "a": "意味は同じ「教会」ですが、kirk はスコットランド語・北イングランド方言の語です。同じ語源から北欧経由で入った形です。" },
+      { "q": "the Kirk とは何ですか？", "a": "大文字で特定して使うと、スコットランド国教会（Church of Scotland）を指します。" }
+    ],
+    "quiz": [
+      { "q": "In Scotland, people may call a church a ___.（スコットランドでは教会を kirk と呼ぶことがある）", "A": "kirk", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "kirk はどの地域の語？", "A": "スコットランド", "B": "日本", "C": "エジプト", "D": "インド", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kris",
+    "pron": "kriːs",
+    "kana": "クリス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "マレー語 keris（短剣)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "武器・文化"],
+    "meaning_main": "クリス（波打つ刃を持つ東南アジアの短剣）",
+    "description": "kris は「クリス」を表す名詞。マレーシアやインドネシアなど東南アジアの伝統的な短剣で、波打つような独特の刃の形で知られます。武器であると同時に、儀式や護符としての意味も持つ文化的な品です。",
+    "keywords": ["kris 意味", "kris 発音", "kris クリス 短剣", "kris マレー", "kris 例文"],
+    "meanings": [
+      { "hinshi": "【名】クリス", "note": "波打つ刃を持つ東南アジアの伝統的な短剣。" }
+    ],
+    "usages": [
+      { "title": "① クリス（短剣）", "desc": "波形の刃が特徴。", "example_en": "The warrior carried an ornate kris.", "example_ja": "その戦士は装飾されたクリスを持っていた。" },
+      { "title": "② 波打つ刃", "desc": "うねった独特の形。", "example_en": "A kris often has a wavy blade.", "example_ja": "クリスはよく波打った刃を持つ。" },
+      { "title": "③ 儀式・護符", "desc": "文化的な意味も。", "example_en": "The kris is more than a weapon in Javanese culture.", "example_ja": "ジャワ文化でクリスは単なる武器以上のものだ。" }
+    ],
+    "warn": ["発音は /kriːs/。creese とも綴る。人名 Chris とは無関係。", "波打つ刃が特徴の東南アジアの短剣。護符的な意味も持つ。"],
+    "etym_note": "マレー語 keris（短剣）に由来します。マレー・インドネシア文化圏の伝統的な短剣を指す語として、ヨーロッパの探検・交易を通じて英語に入りました。",
+    "etym_chain": [
+      { "node": "keris", "sub": "短剣", "era": "マレー語" },
+      { "node": "kris", "sub": "クリス", "era": "16-17世紀英語" },
+      { "node": "kris", "sub": "クリス", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a wavy kris", "ja": "波打つクリス" },
+      { "en": "an ornate kris", "ja": "装飾されたクリス" },
+      { "en": "a ceremonial kris", "ja": "儀式用のクリス" },
+      { "en": "draw a kris", "ja": "クリスを抜く" },
+      { "en": "a Javanese kris", "ja": "ジャワのクリス" },
+      { "en": "the kris blade", "ja": "クリスの刃" }
+    ],
+    "related": [
+      { "en": "dagger", "ja": "短剣" },
+      { "en": "blade", "ja": "刃" },
+      { "en": "sword", "ja": "剣" },
+      { "en": "Indonesia", "ja": "インドネシア" }
+    ],
+    "faq": [
+      { "q": "kris とは何ですか？", "a": "マレーシアやインドネシアなど東南アジアの伝統的な短剣です。波打つような独特の刃の形で知られ、武器であると同時に儀式や護符としての意味も持ちます。" },
+      { "q": "kris はすべて波形の刃ですか？", "a": "波打つ刃が有名ですが、まっすぐな刃のクリスもあります。刃の波の数などに象徴的な意味が込められることもあります。" }
+    ],
+    "quiz": [
+      { "q": "The museum displayed an antique ___ with a wavy blade.（博物館は波形の刃を持つ古いクリスを展示した）", "A": "kris", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "kris はどの地域の短剣？", "A": "東南アジア", "B": "北欧", "C": "南米", "D": "アフリカ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kvass",
+    "pron": "kvɑːs",
+    "kana": "クワス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ロシア語 kvas（発酵飲料)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "飲み物・文化"],
+    "meaning_main": "クワス（ライ麦パンから作る発酵飲料）",
+    "description": "kvass は「クワス」を表す名詞。ロシアや東欧で古くから飲まれてきた、ライ麦パンを発酵させて作る微炭酸の飲み物です。アルコール分はごくわずかで、ほんのり甘酸っぱく、夏の定番飲料として親しまれています。",
+    "keywords": ["kvass 意味", "kvass 発音", "kvass クワス", "kvass ロシア 飲み物", "kvass 例文"],
+    "meanings": [
+      { "hinshi": "【名】クワス", "note": "ライ麦パンを発酵させた微炭酸の東欧の飲み物。" }
+    ],
+    "usages": [
+      { "title": "① クワス（飲み物）", "desc": "発酵した微炭酸飲料。", "example_en": "We drank cold kvass on a hot day.", "example_ja": "私たちは暑い日に冷たいクワスを飲んだ。" },
+      { "title": "② ライ麦パンから作る", "desc": "パンを発酵させる。", "example_en": "Kvass is made from fermented rye bread.", "example_ja": "クワスは発酵させたライ麦パンから作る。" },
+      { "title": "③ 東欧の伝統飲料", "desc": "夏の定番。", "example_en": "Kvass is a popular summer drink in Russia.", "example_ja": "クワスはロシアで人気の夏の飲み物だ。" }
+    ],
+    "warn": ["発音は /kvɑːs/。アルコール分はごくわずかで、清涼飲料に近い。", "ライ麦パンを発酵させて作る微炭酸飲料。"],
+    "etym_note": "ロシア語 kvas（酸っぱい飲み物・発酵飲料）に由来します。スラブ語圏で古くから作られてきた発酵飲料を指す語として英語に入りました。",
+    "etym_chain": [
+      { "node": "kvas", "sub": "発酵飲料", "era": "ロシア語" },
+      { "node": "kvass", "sub": "クワス", "era": "19世紀英語" },
+      { "node": "kvass", "sub": "クワス", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a glass of kvass", "ja": "クワス1杯" },
+      { "en": "cold kvass", "ja": "冷たいクワス" },
+      { "en": "homemade kvass", "ja": "自家製クワス" },
+      { "en": "bread kvass", "ja": "パンのクワス" },
+      { "en": "drink kvass", "ja": "クワスを飲む" },
+      { "en": "ferment kvass", "ja": "クワスを発酵させる" }
+    ],
+    "related": [
+      { "en": "ferment", "ja": "発酵させる" },
+      { "en": "rye", "ja": "ライ麦" },
+      { "en": "beverage", "ja": "飲み物" },
+      { "en": "Russia", "ja": "ロシア" }
+    ],
+    "faq": [
+      { "q": "kvass とは何ですか？", "a": "ロシアや東欧で飲まれる、ライ麦パンを発酵させて作る微炭酸の飲み物です。アルコール分はごくわずかで、ほんのり甘酸っぱい味わいです。" },
+      { "q": "kvass はお酒ですか？", "a": "発酵で作りますが、アルコール分はごくわずかで、清涼飲料に近い扱いです。子どもも飲む夏の定番飲料です。" }
+    ],
+    "quiz": [
+      { "q": "In Russia, ___ is a refreshing drink made from rye bread.（ロシアではクワスはライ麦パンから作るさわやかな飲み物だ）", "A": "kvass", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "kvass は何から作る？", "A": "ライ麦パン", "B": "ぶどう", "C": "牛乳", "D": "米", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kora",
+    "pron": "ˈkɔːrə",
+    "kana": "コーラ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "マンディンカ語 kora（弦楽器)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "音楽・文化"],
+    "meaning_main": "コラ（西アフリカの21弦のハープ状楽器）",
+    "description": "kora は「コラ」を表す名詞。西アフリカの伝統的な弦楽器で、大きなひょうたんの共鳴胴に21本ほどの弦を張った、ハープとリュートを合わせたような楽器です。グリオと呼ばれる語り部の音楽家が奏でます。",
+    "keywords": ["kora 意味", "kora 発音", "kora コラ 楽器", "kora 西アフリカ", "kora 例文"],
+    "meanings": [
+      { "hinshi": "【名】コラ", "note": "ひょうたんの胴に21弦を張った西アフリカのハープ状楽器。" }
+    ],
+    "usages": [
+      { "title": "① コラ（楽器）", "desc": "西アフリカのハープ。", "example_en": "The musician played a melody on the kora.", "example_ja": "その演奏家はコラで旋律を奏でた。" },
+      { "title": "② 21本の弦", "desc": "ひょうたんの共鳴胴。", "example_en": "A kora has around 21 strings.", "example_ja": "コラは約21本の弦を持つ。" },
+      { "title": "③ グリオの音楽", "desc": "語り部が演奏。", "example_en": "Griots use the kora to tell stories in song.", "example_ja": "グリオはコラを使って歌で物語を語る。" }
+    ],
+    "warn": ["発音は /ˈkɔːrə/。飲料コーラ(cola)とは無関係。", "ひょうたんの胴を持つ西アフリカのハープ状の弦楽器。"],
+    "etym_note": "西アフリカのマンディンカ語などに由来する語で、この地域の伝統的な弦楽器を指します。グリオ（世襲の語り部音楽家）の文化とともに世界に知られるようになりました。",
+    "etym_chain": [
+      { "node": "kora", "sub": "弦楽器", "era": "マンディンカ語" },
+      { "node": "kora", "sub": "コラ", "era": "20世紀英語" },
+      { "node": "kora", "sub": "コラ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "play the kora", "ja": "コラを弾く" },
+      { "en": "a 21-string kora", "ja": "21弦のコラ" },
+      { "en": "a kora player", "ja": "コラの奏者" },
+      { "en": "the sound of the kora", "ja": "コラの音色" },
+      { "en": "a West African kora", "ja": "西アフリカのコラ" },
+      { "en": "kora music", "ja": "コラの音楽" }
+    ],
+    "related": [
+      { "en": "harp", "ja": "ハープ" },
+      { "en": "lute", "ja": "リュート" },
+      { "en": "instrument", "ja": "楽器" },
+      { "en": "Africa", "ja": "アフリカ" }
+    ],
+    "faq": [
+      { "q": "kora とはどんな楽器ですか？", "a": "西アフリカの伝統的な弦楽器で、大きなひょうたんの共鳴胴に21本ほどの弦を張った、ハープとリュートを合わせたような楽器です。" },
+      { "q": "kora は誰が演奏しますか？", "a": "主にグリオ（griot）と呼ばれる、西アフリカの世襲の語り部・音楽家が演奏し、歌で歴史や物語を伝えます。" }
+    ],
+    "quiz": [
+      { "q": "The griot plucked the strings of his ___.（グリオはコラの弦をはじいた）", "A": "kora", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "kora はどの地域の楽器？", "A": "西アフリカ", "B": "北欧", "C": "東アジア", "D": "南米", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kaon",
+    "pron": "ˈkeɪɒn",
+    "kana": "ケイオン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "K中間子（K＋ -on）より",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "科学・物理"],
+    "meaning_main": "K中間子（素粒子の一種）",
+    "description": "kaon は「K中間子（ケイオン）」を表す名詞。物理学で扱う素粒子（中間子）の一種で、クォークと反クォークからできています。粒子物理学で「奇妙さ（ストレンジネス）」の研究に重要な役割を果たしました。",
+    "keywords": ["kaon 意味", "kaon 発音", "kaon K中間子", "kaon 素粒子", "kaon 例文"],
+    "meanings": [
+      { "hinshi": "【名】K中間子・ケイオン", "note": "クォークと反クォークからなる素粒子(中間子)の一種。" }
+    ],
+    "usages": [
+      { "title": "① K中間子（素粒子）", "desc": "粒子物理学の用語。", "example_en": "A kaon is a type of subatomic particle.", "example_ja": "K中間子は素粒子の一種だ。" },
+      { "title": "② 中間子の仲間", "desc": "パイ中間子などと並ぶ。", "example_en": "Kaons and pions are both mesons.", "example_ja": "K中間子とパイ中間子はどちらもメソンだ。" },
+      { "title": "③ 加速器で観測", "desc": "実験で生成・研究。", "example_en": "Physicists study kaons in particle accelerators.", "example_ja": "物理学者は加速器でK中間子を研究する。" }
+    ],
+    "warn": ["発音は /ˈkeɪɒn/。K中間子（K meson）の別名。", "粒子物理学の専門用語。クォークと反クォークからなる中間子。"],
+    "etym_note": "K中間子（K meson）の「K」に、素粒子を表す接尾辞 -on（electron, proton などと同じ）を付けた語です。20世紀の粒子物理学の発展とともに作られました。",
+    "etym_chain": [
+      { "node": "K meson", "sub": "K中間子", "era": "20世紀物理学" },
+      { "node": "kaon", "sub": "ケイオン", "era": "20世紀英語" },
+      { "node": "kaon", "sub": "K中間子", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a neutral kaon", "ja": "中性K中間子" },
+      { "en": "kaon decay", "ja": "K中間子の崩壊" },
+      { "en": "produce kaons", "ja": "K中間子を生成する" },
+      { "en": "kaons and pions", "ja": "K中間子とパイ中間子" },
+      { "en": "detect a kaon", "ja": "K中間子を検出する" },
+      { "en": "the kaon particle", "ja": "K中間子" }
+    ],
+    "related": [
+      { "en": "meson", "ja": "中間子" },
+      { "en": "particle", "ja": "粒子" },
+      { "en": "quark", "ja": "クォーク" },
+      { "en": "physics", "ja": "物理学" }
+    ],
+    "faq": [
+      { "q": "kaon とは何ですか？", "a": "物理学で扱う素粒子（中間子）の一種「K中間子」です。クォークと反クォークからでき、粒子物理学の研究で重要な役割を果たしました。" },
+      { "q": "kaon の名前の由来は？", "a": "K中間子（K meson）の「K」に、電子(electron)や陽子(proton)と同じ素粒子を表す接尾辞 -on を付けた語です。" }
+    ],
+    "quiz": [
+      { "q": "A ___ is a subatomic particle studied in physics.（K中間子は物理学で研究される素粒子だ）", "A": "kaon", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "kaon はどの分野の用語？", "A": "粒子物理学", "B": "料理", "C": "音楽", "D": "経済", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kwacha",
+    "pron": "ˈkwɑːtʃə",
+    "kana": "クワチャ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "チェワ語・ベンバ語 kwacha（夜明け)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "通貨・文化"],
+    "meaning_main": "クワチャ（ザンビア・マラウイの通貨）",
+    "description": "kwacha は「クワチャ」を表す名詞。アフリカのザンビアとマラウイの通貨単位です。現地の言葉で「夜明け」を意味し、独立による新しい時代の始まりを象徴して名づけられました。",
+    "keywords": ["kwacha 意味", "kwacha 発音", "kwacha クワチャ", "kwacha ザンビア 通貨", "kwacha 例文"],
+    "meanings": [
+      { "hinshi": "【名】クワチャ", "note": "ザンビア・マラウイの通貨単位。「夜明け」が原義。" }
+    ],
+    "usages": [
+      { "title": "① クワチャ（通貨）", "desc": "ザンビア・マラウイの通貨。", "example_en": "The prices were listed in kwacha.", "example_ja": "価格はクワチャで表示されていた。" },
+      { "title": "② 両替する", "desc": "現地通貨に。", "example_en": "I changed my dollars into kwacha.", "example_ja": "私はドルをクワチャに両替した。" },
+      { "title": "③ 「夜明け」が原義", "desc": "独立を象徴。", "example_en": "Kwacha means \"dawn\" in local languages.", "example_ja": "クワチャは現地の言葉で「夜明け」を意味する。" }
+    ],
+    "warn": ["発音は /ˈkwɑːtʃə/。ザンビアとマラウイで別々の通貨だが同じ名。", "現地語で「夜明け」を意味し、独立の象徴。"],
+    "etym_note": "ザンビア・マラウイの現地語（チェワ語・ベンバ語）で「夜明け」を意味する kwacha に由来します。植民地支配からの独立による「新しい夜明け」を象徴して通貨名になりました。",
+    "etym_chain": [
+      { "node": "kwacha", "sub": "夜明け", "era": "チェワ語・ベンバ語" },
+      { "node": "kwacha", "sub": "通貨クワチャ", "era": "20世紀" },
+      { "node": "kwacha", "sub": "クワチャ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Zambian kwacha", "ja": "ザンビア・クワチャ" },
+      { "en": "Malawian kwacha", "ja": "マラウイ・クワチャ" },
+      { "en": "in kwacha", "ja": "クワチャで" },
+      { "en": "exchange for kwacha", "ja": "クワチャに両替する" },
+      { "en": "a thousand kwacha", "ja": "1000クワチャ" },
+      { "en": "pay in kwacha", "ja": "クワチャで支払う" }
+    ],
+    "related": [
+      { "en": "currency", "ja": "通貨" },
+      { "en": "Zambia", "ja": "ザンビア" },
+      { "en": "Africa", "ja": "アフリカ" },
+      { "en": "money", "ja": "お金" }
+    ],
+    "faq": [
+      { "q": "kwacha とは何ですか？", "a": "アフリカのザンビアとマラウイの通貨単位です。現地の言葉で「夜明け」を意味し、独立による新しい時代の始まりを象徴しています。" },
+      { "q": "kwacha の名前の由来は？", "a": "現地語（チェワ語・ベンバ語）で「夜明け」を意味します。植民地支配からの独立による「新しい夜明け」を象徴して名づけられました。" }
+    ],
+    "quiz": [
+      { "q": "In Zambia, you pay for goods in ___.（ザンビアでは商品をクワチャで支払う）", "A": "kwacha", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "kwacha のもとの意味は？", "A": "夜明け", "B": "太陽", "C": "川", "D": "山", "correct": "A" }
+    ]
+  }
+]
