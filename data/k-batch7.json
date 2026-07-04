@@ -1,0 +1,509 @@
+[
+  {
+    "english": "keeper",
+    "pron": "ˈkiːpər",
+    "kana": "キーパー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "keep（保つ）＋ -er（人)",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頻出語"],
+    "meaning_main": "番人／管理者／ゴールキーパー",
+    "description": "keeper は「番人・管理者・世話をする人」を表す名詞。keep（保つ・世話する）＋ -er でできています。goalkeeper（ゴールキーパー）や zookeeper（動物園の飼育員）など複合語でも頻出します。",
+    "keywords": ["keeper 意味", "keeper 発音", "keeper 番人", "goalkeeper 意味", "keeper 例文"],
+    "meanings": [
+      { "hinshi": "【名】番人・管理者・世話係", "note": "何かを守り管理する人。" },
+      { "hinshi": "【名】ゴールキーパー", "note": "goalkeeper の略でも使う。" },
+      { "hinshi": "【名】(口語)取っておく価値のあるもの", "note": "This one's a keeper.（これは当たりだ）。" }
+    ],
+    "usages": [
+      { "title": "① 番人・世話係", "desc": "動物や施設の管理者。", "example_en": "The zoo keeper feeds the lions.", "example_ja": "動物園の飼育員はライオンにえさをやる。" },
+      { "title": "② ゴールキーパー", "desc": "サッカーなどの守護神。", "example_en": "The keeper made a great save.", "example_ja": "キーパーは見事なセーブをした。" },
+      { "title": "③ (口語)取っておく価値のあるもの", "desc": "良いもの・人について。", "example_en": "He's a keeper.", "example_ja": "彼は手放せない良い人だ。" }
+    ],
+    "warn": ["keep＋-er の派生語。複合語では -keeper（goalkeeper, shopkeeper 等）。", "「番人」の意味では of を伴う: the keeper of the castle。"],
+    "etym_note": "動詞 keep（保つ・世話する）に、「〜する人」を表す接尾辞 -er が付いた名詞です。「守り保つ人」が中心の意味です。",
+    "etym_chain": [
+      { "node": "kepen + -er", "sub": "保つ＋人", "era": "中英語" },
+      { "node": "keeper", "sub": "番人", "era": "近代英語" },
+      { "node": "keeper", "sub": "番人・管理者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "goalkeeper", "ja": "ゴールキーパー" },
+      { "en": "zookeeper", "ja": "動物園の飼育員" },
+      { "en": "shopkeeper", "ja": "店主" },
+      { "en": "beekeeper", "ja": "養蜂家" },
+      { "en": "a keeper of secrets", "ja": "秘密を守る人" },
+      { "en": "finders keepers", "ja": "拾った者勝ち" }
+    ],
+    "related": [
+      { "en": "keep", "ja": "保つ" },
+      { "en": "guard", "ja": "見張り" },
+      { "en": "caretaker", "ja": "世話人・管理人" },
+      { "en": "owner", "ja": "所有者" }
+    ],
+    "faq": [
+      { "q": "keeper はどんな複合語がありますか？", "a": "goalkeeper（ゴールキーパー）、shopkeeper（店主）、zookeeper（飼育員）、beekeeper（養蜂家）など、多くの複合語があります。" },
+      { "q": "He's a keeper. とはどういう意味ですか？", "a": "口語で「彼は手放せない良い人・当たりの人だ」という意味です。物にも使い、「これは取っておく価値がある」を表します。" }
+    ],
+    "quiz": [
+      { "q": "The goal___ blocked the shot.（ゴールキーパーがシュートを止めた）", "A": "keeper", "B": "kettle", "C": "kernel", "D": "keyhole", "correct": "A" },
+      { "q": "keeper は keep ＋ ___ でできた名詞。空所は？", "A": "-er", "B": "-ness", "C": "-ly", "D": "-dom", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kennel",
+    "pron": "ˈkenl",
+    "kana": "ケネル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 canis（犬）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "生活語"],
+    "meaning_main": "犬小屋／犬の宿泊施設",
+    "description": "kennel は「犬小屋」を表す名詞。1匹用の小屋のほか、複数形 kennels で「ペットホテル・犬の預かり施設」も指します。ラテン語 canis（犬）に由来します。",
+    "keywords": ["kennel 意味", "kennel 発音", "kennel 犬小屋", "kennel ペットホテル", "kennel 例文"],
+    "meanings": [
+      { "hinshi": "【名】犬小屋", "note": "犬が寝起きする小さな小屋。" },
+      { "hinshi": "【名】(kennels)犬の預かり施設・飼育場", "note": "旅行中などに犬を預ける所。" }
+    ],
+    "usages": [
+      { "title": "① 犬小屋", "desc": "庭などに置く犬の小屋。", "example_en": "The dog sleeps in its kennel.", "example_ja": "その犬は犬小屋で眠る。" },
+      { "title": "② ペットホテル (put in kennels)", "desc": "旅行中に犬を預ける。", "example_en": "We put our dog in kennels during our trip.", "example_ja": "旅行中は犬を預かり施設に預けた。" },
+      { "title": "③ 犬の繁殖・飼育場", "desc": "犬舎・ブリーダー施設。", "example_en": "The puppies came from a good kennel.", "example_ja": "その子犬たちは良い犬舎の出身だ。" }
+    ],
+    "warn": ["発音は /ˈkenl/。camel（ラクダ）と混同しない。", "「預かり施設」の意味ではしばしば複数形 kennels を使う。"],
+    "etym_note": "ラテン語 canis（犬）に由来し、古フランス語 chenil を経て英語に入りました。「犬のための場所」が中心の意味です。canine（犬の）と同語源です。",
+    "etym_chain": [
+      { "node": "canis", "sub": "犬", "era": "ラテン語" },
+      { "node": "kenel", "sub": "犬小屋", "era": "中英語" },
+      { "node": "kennel", "sub": "犬小屋", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a dog kennel", "ja": "犬小屋" },
+      { "en": "put in kennels", "ja": "犬を預かり施設に預ける" },
+      { "en": "boarding kennels", "ja": "ペットの宿泊施設" },
+      { "en": "kennel club", "ja": "愛犬クラブ" },
+      { "en": "clean the kennel", "ja": "犬小屋を掃除する" },
+      { "en": "a heated kennel", "ja": "暖房付きの犬小屋" }
+    ],
+    "related": [
+      { "en": "dog", "ja": "犬" },
+      { "en": "cage", "ja": "おり" },
+      { "en": "stable", "ja": "馬小屋" },
+      { "en": "shelter", "ja": "保護施設" }
+    ],
+    "faq": [
+      { "q": "kennel は犬小屋だけの意味ですか？", "a": "いいえ。1匹用の「犬小屋」のほか、複数形 kennels で「犬の預かり施設・ペットホテル」も指します。" },
+      { "q": "kennel の語源は？", "a": "ラテン語 canis（犬）に由来します。犬を意味する canine（犬の）と同じ語源です。" }
+    ],
+    "quiz": [
+      { "q": "The puppy ran into its ___.（子犬は犬小屋に駆け込んだ）", "A": "kennel", "B": "kettle", "C": "kernel", "D": "kiosk", "correct": "A" },
+      { "q": "kennel の語源となった動物は？", "A": "猫", "B": "犬", "C": "馬", "D": "羊", "correct": "B" }
+    ]
+  },
+  {
+    "english": "kilowatt",
+    "pron": "ˈkɪləwɒt",
+    "kana": "キロワット",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "kilo（千）＋ watt（ワット)",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "単位・科学"],
+    "meaning_main": "キロワット（電力の単位）",
+    "description": "kilowatt は電力の単位「キロワット」を表す名詞。1キロワット＝1000ワットです。略号は kW。kilo-（千）＋ watt（発明家ワットにちなむ単位）の複合語です。",
+    "keywords": ["kilowatt 意味", "kilowatt 発音", "kilowatt キロワット", "kW 単位", "kilowatt 例文"],
+    "meanings": [
+      { "hinshi": "【名】キロワット", "note": "電力（仕事率）の単位。1kW＝1000W。略号 kW。" }
+    ],
+    "usages": [
+      { "title": "① 電力を表す", "desc": "家電や発電量の単位。", "example_en": "This heater uses two kilowatts.", "example_ja": "このヒーターは2キロワットを使う。" },
+      { "title": "② キロワット時 (kilowatt-hour)", "desc": "電力量の単位 kWh。", "example_en": "We used 300 kilowatt-hours last month.", "example_ja": "先月は300キロワット時を使った。" },
+      { "title": "③ 発電能力", "desc": "発電所や太陽光の出力。", "example_en": "The solar panels produce five kilowatts.", "example_ja": "その太陽光パネルは5キロワットを発電する。" }
+    ],
+    "warn": ["略号は kW（k は小文字、W は大文字）。1 kilowatt = 1000 watts。", "電力量の「キロワット時」は kilowatt-hour（kWh）で別の単位。"],
+    "etym_note": "「千」を表す接頭辞 kilo- と、電力の単位 watt を組み合わせた語です。watt は蒸気機関を改良したジェームズ・ワットにちなんで名づけられました。",
+    "etym_chain": [
+      { "node": "kilo + watt", "sub": "千＋ワット", "era": "19世紀英語" },
+      { "node": "kilowatt", "sub": "キロワット", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "kilowatt-hour", "ja": "キロワット時（kWh）" },
+      { "en": "a few kilowatts", "ja": "数キロワット" },
+      { "en": "per kilowatt", "ja": "1キロワットあたり" },
+      { "en": "kilowatts of power", "ja": "キロワットの電力" },
+      { "en": "generate kilowatts", "ja": "キロワット単位で発電する" },
+      { "en": "output in kilowatts", "ja": "キロワット単位の出力" }
+    ],
+    "related": [
+      { "en": "watt", "ja": "ワット" },
+      { "en": "power", "ja": "電力" },
+      { "en": "energy", "ja": "エネルギー" },
+      { "en": "electricity", "ja": "電気" }
+    ],
+    "faq": [
+      { "q": "1キロワットは何ワットですか？", "a": "1000ワットです。kilo- は「千」を表す接頭辞です。略号は kW です。" },
+      { "q": "kilowatt と kilowatt-hour の違いは？", "a": "kilowatt（kW）は電力（瞬間の仕事率）、kilowatt-hour（kWh）はその電力を一定時間使った「電力量」です。電気料金は kWh で計算されます。" }
+    ],
+    "quiz": [
+      { "q": "The machine consumes three ___.（その機械は3キロワットを消費する）", "A": "kilowatts", "B": "kilograms", "C": "kilometers", "D": "kilobytes", "correct": "A" },
+      { "q": "kilowatt の略号は？", "A": "kW", "B": "kg", "C": "km", "D": "KB", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kindred",
+    "pron": "ˈkɪndrɪd",
+    "kana": "キンドレッド",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "kin（親族）＋ -red（状態)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "文語的"],
+    "meaning_main": "親族／同族の／似通った",
+    "description": "kindred は「親族」を表す名詞、また「同族の・似通った」を表す形容詞です。kin（親族）から派生した語で、kindred spirit（気の合う人・同志）という表現が特に有名です。",
+    "keywords": ["kindred 意味", "kindred 発音", "kindred 親族", "kindred spirit", "kindred 例文"],
+    "meanings": [
+      { "hinshi": "【名】親族・一族", "note": "血縁のある人々（集合的）。" },
+      { "hinshi": "【形】同族の・血縁の", "note": "血のつながった。" },
+      { "hinshi": "【形】似通った・共通する", "note": "kindred spirits（同じ気質の人々）。" }
+    ],
+    "usages": [
+      { "title": "① kindred spirit（気の合う人・同志）", "desc": "考え方や感じ方が似た人。", "example_en": "We became kindred spirits at once.", "example_ja": "私たちはすぐに意気投合した。" },
+      { "title": "② 同族の・血縁の", "desc": "血のつながり。", "example_en": "They are kindred families.", "example_ja": "彼らは同族の一家だ。" },
+      { "title": "③ 似通った（性質）", "desc": "共通点のある。", "example_en": "The two languages are kindred.", "example_ja": "その2つの言語は同系統だ。" }
+    ],
+    "warn": ["文語的・やや硬い語。日常会話では related などが普通。", "kindred spirit（気の合う人）は決まった言い回しとして覚える。"],
+    "etym_note": "kin（親族）に、状態を表す古い接尾辞 -red（rǣden＝状態）が付いた語です。もとは kinrede でしたが、d が挿入されて kindred になりました。",
+    "etym_chain": [
+      { "node": "cynn + rǣden", "sub": "親族＋状態", "era": "古英語" },
+      { "node": "kinrede", "sub": "親族関係", "era": "中英語" },
+      { "node": "kindred", "sub": "親族・同族の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "kindred spirit", "ja": "気の合う人・同志" },
+      { "en": "kindred souls", "ja": "似た者同士" },
+      { "en": "a kindred feeling", "ja": "共感・親近感" },
+      { "en": "kindred languages", "ja": "同系統の言語" },
+      { "en": "of kindred blood", "ja": "同じ血筋の" },
+      { "en": "kindred and friends", "ja": "親族と友人" }
+    ],
+    "related": [
+      { "en": "kin", "ja": "親族" },
+      { "en": "related", "ja": "関係のある・血縁の" },
+      { "en": "similar", "ja": "似た" },
+      { "en": "akin", "ja": "同種の・似た" }
+    ],
+    "faq": [
+      { "q": "kindred spirit とは何ですか？", "a": "「気の合う人・同じ考えや感じ方を持つ仲間・同志」という意味の決まった表現です。すぐに打ち解けられる相手を指します。" },
+      { "q": "kindred は日常でよく使いますか？", "a": "やや文語的な語で、日常会話では related（血縁の）や similar（似た）の方が普通です。kindred spirit の形では今も使われます。" }
+    ],
+    "quiz": [
+      { "q": "They quickly became ___ spirits.（彼らはすぐに気の合う仲間になった）", "A": "kindred", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "kindred は ___ ＋ -red からできた語。空所は？", "A": "kin", "B": "king", "C": "kind", "D": "kid", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kingpin",
+    "pron": "ˈkɪŋpɪn",
+    "kana": "キングピン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "king（王）＋ pin（ピン・くぎ)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "比喩表現"],
+    "meaning_main": "中心人物／首謀者／要（かなめ）",
+    "description": "kingpin は「(組織の)中心人物・首謀者」を表す名詞。ボウリングの中央のピンや機械の要のピンが語源で、そこから「物事のかなめとなる最重要人物」を指すようになりました。",
+    "keywords": ["kingpin 意味", "kingpin 発音", "kingpin 首謀者", "kingpin 中心人物", "kingpin 例文"],
+    "meanings": [
+      { "hinshi": "【名】中心人物・首謀者", "note": "組織を動かす最重要人物。しばしば犯罪組織の。" },
+      { "hinshi": "【名】(機械・ボウリングの)要のピン", "note": "全体を支える中心のピン。" }
+    ],
+    "usages": [
+      { "title": "① 中心人物・首謀者", "desc": "組織を支配する人物。", "example_en": "The police arrested the drug kingpin.", "example_ja": "警察は麻薬組織の首謀者を逮捕した。" },
+      { "title": "② 要（かなめ）となる存在", "desc": "全体を支える中心。", "example_en": "She is the kingpin of the company.", "example_ja": "彼女は会社の中心人物だ。" },
+      { "title": "③ もとの意味（ピン）", "desc": "ボウリングや機械の中心ピン。", "example_en": "The kingpin holds the parts together.", "example_ja": "その要のピンが部品をつなぎ止めている。" }
+    ],
+    "warn": ["しばしば犯罪組織の「ボス・黒幕」を指す否定的な文脈で使う。", "king＋pin の複合語。1語で書く。"],
+    "etym_note": "king（王＝中心）＋ pin（ピン）の複合語です。ボウリングの中央のピンや、車輪などをつなぐ中心のピンを指し、そこから「全体のかなめとなる人物」の比喩が生まれました。",
+    "etym_chain": [
+      { "node": "king + pin", "sub": "王＋ピン", "era": "19世紀英語" },
+      { "node": "kingpin", "sub": "中心のピン", "era": "近代英語" },
+      { "node": "kingpin", "sub": "中心人物・首謀者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "drug kingpin", "ja": "麻薬組織の首謀者" },
+      { "en": "crime kingpin", "ja": "犯罪組織のボス" },
+      { "en": "the kingpin of ~", "ja": "〜の中心人物" },
+      { "en": "a business kingpin", "ja": "実業界の大物" },
+      { "en": "topple the kingpin", "ja": "首謀者を失脚させる" },
+      { "en": "become the kingpin", "ja": "中心人物になる" }
+    ],
+    "related": [
+      { "en": "boss", "ja": "ボス" },
+      { "en": "leader", "ja": "指導者" },
+      { "en": "mastermind", "ja": "首謀者・黒幕" },
+      { "en": "chief", "ja": "長・チーフ" }
+    ],
+    "faq": [
+      { "q": "kingpin はどんな場面で使いますか？", "a": "組織の「中心人物・首謀者」を指し、特に麻薬組織や犯罪組織のボスなど否定的な文脈でよく使われます。" },
+      { "q": "kingpin の語源は？", "a": "ボウリングの中央のピンや機械の中心ピンが語源です。全体を支える「かなめ」から、比喩的に「最重要人物」を指すようになりました。" }
+    ],
+    "quiz": [
+      { "q": "The gang's ___ was finally caught.（一味の首謀者はついに捕まった）", "A": "kingpin", "B": "kettle", "C": "keeper", "D": "kelp", "correct": "A" },
+      { "q": "kingpin は king ＋ ___ の複合語。空所は？", "A": "pin", "B": "pen", "C": "pan", "D": "pot", "correct": "A" }
+    ]
+  },
+  {
+    "english": "knockout",
+    "pron": "ˈnɒkaʊt",
+    "kana": "ノックアウト",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "knock（打つ）＋ out（外へ)",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "スポーツ"],
+    "meaning_main": "ノックアウト／(口語)絶品／勝ち抜き戦",
+    "description": "knockout は「ノックアウト（KO）」を表す名詞。ボクシングで相手を打ち倒して勝つことを指します。口語では「とても魅力的な人・物」、スポーツでは「勝ち抜き戦」の意味でも使われます。",
+    "keywords": ["knockout 意味", "knockout 発音", "knockout ノックアウト", "knockout KO", "knockout 例文"],
+    "meanings": [
+      { "hinshi": "【名】ノックアウト（KO）", "note": "打ち倒して相手を戦えなくすること。" },
+      { "hinshi": "【名】勝ち抜き戦・トーナメント", "note": "負けたら敗退する方式。" },
+      { "hinshi": "【名/形】(口語)絶品・すごい人", "note": "とても魅力的な人・物。" }
+    ],
+    "usages": [
+      { "title": "① ノックアウト（ボクシング）", "desc": "win by a knockout（KO勝ちする）。", "example_en": "He won the fight by a knockout.", "example_ja": "彼はKOで試合に勝った。" },
+      { "title": "② 勝ち抜き戦", "desc": "knockout stage（決勝トーナメント）。", "example_en": "The team reached the knockout stage.", "example_ja": "そのチームは決勝トーナメントに進んだ。" },
+      { "title": "③ (口語)絶品・すごい人", "desc": "とても魅力的な。", "example_en": "She looked a knockout in that dress.", "example_ja": "そのドレス姿の彼女は絶品だった。" }
+    ],
+    "warn": ["先頭の k は黙字。/ˈnɒkaʊt/ と読む。略語は KO。", "名詞は knockout（1語）、動詞句は knock out（2語）。"],
+    "etym_note": "動詞句 knock out（打ち倒す）が名詞化した語です。ボクシングで相手を倒して勝つことを指し、そこから「圧倒的にすごいもの」の意味も生まれました。",
+    "etym_chain": [
+      { "node": "knock + out", "sub": "打つ＋外へ", "era": "19世紀英語" },
+      { "node": "knock-out", "sub": "打ち倒し", "era": "近代英語" },
+      { "node": "knockout", "sub": "ノックアウト", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "win by a knockout", "ja": "KO勝ちする" },
+      { "en": "a knockout blow", "ja": "決定的な一撃" },
+      { "en": "knockout stage", "ja": "決勝トーナメント" },
+      { "en": "technical knockout (TKO)", "ja": "テクニカルノックアウト" },
+      { "en": "a knockout punch", "ja": "とどめのパンチ" },
+      { "en": "look a knockout", "ja": "とても魅力的に見える" }
+    ],
+    "related": [
+      { "en": "knock", "ja": "打つ" },
+      { "en": "punch", "ja": "パンチ・殴る" },
+      { "en": "boxing", "ja": "ボクシング" },
+      { "en": "defeat", "ja": "打ち負かす" }
+    ],
+    "faq": [
+      { "q": "knockout と knock out の違いは？", "a": "knockout（1語）は名詞・形容詞「ノックアウト・絶品」、knock out（2語）は動詞句「打ち倒す・気絶させる」です。" },
+      { "q": "knockout stage とは？", "a": "サッカーなどで、負けたら敗退する「勝ち抜き戦・決勝トーナメント」のことです。予選リーグの後の段階を指します。" }
+    ],
+    "quiz": [
+      { "q": "The boxer scored a ___ in the third round.（ボクサーは3ラウンドでKOを決めた）", "A": "knockout", "B": "kingdom", "C": "keeper", "D": "kelp", "correct": "A" },
+      { "q": "名詞「ノックアウト」の正しい書き方は？", "A": "knock out", "B": "knockout", "C": "knocksout", "D": "knock-of", "correct": "B" }
+    ]
+  },
+  {
+    "english": "knoll",
+    "pron": "noʊl",
+    "kana": "ノウル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 cnoll（丘の頂）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "文語的"],
+    "meaning_main": "小さな丘／小山",
+    "description": "knoll は「小さな丘・小山」を表す名詞。先頭の k は黙字で /noʊl/。なだらかで丸い小さな高まりを指す、やや文学的な語です。grassy knoll（草の生えた小丘）という表現でも知られます。",
+    "keywords": ["knoll 意味", "knoll 発音", "knoll 小さな丘", "grassy knoll", "knoll 例文"],
+    "meanings": [
+      { "hinshi": "【名】小さな丘・小山", "note": "なだらかで丸い小さな高まり。" }
+    ],
+    "usages": [
+      { "title": "① 小さな丘", "desc": "見晴らしの良い小高い場所。", "example_en": "They sat on a grassy knoll.", "example_ja": "彼らは草の生えた小丘に座った。" },
+      { "title": "② 丘の上から見る", "desc": "眺めのよい高台。", "example_en": "From the knoll, we could see the whole valley.", "example_ja": "小丘からは谷全体が見えた。" },
+      { "title": "③ 木のある小山", "desc": "landmark（目印）になることも。", "example_en": "A single oak stood on the knoll.", "example_ja": "小山には一本のオークが立っていた。" }
+    ],
+    "warn": ["先頭の k は黙字。/noʊl/ と読み、knowledge の know とは別語。", "hill（丘）より小さくなだらかな高まりを指す文語的な語。"],
+    "etym_note": "古英語 cnoll（丘の頂・小山）に由来します。ゲルマン語系の語で、knee や knot と同じく先頭の k の音は近代に失われました。",
+    "etym_chain": [
+      { "node": "cnoll", "sub": "丘の頂", "era": "古英語" },
+      { "node": "knol", "sub": "小丘", "era": "中英語" },
+      { "node": "knoll", "sub": "小さな丘", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a grassy knoll", "ja": "草の生えた小丘" },
+      { "en": "on the knoll", "ja": "小丘の上に" },
+      { "en": "a small knoll", "ja": "小さな丘" },
+      { "en": "climb the knoll", "ja": "小山を登る" },
+      { "en": "a wooded knoll", "ja": "木の茂った小丘" },
+      { "en": "the top of the knoll", "ja": "小丘の頂上" }
+    ],
+    "related": [
+      { "en": "hill", "ja": "丘" },
+      { "en": "mound", "ja": "塚・小山" },
+      { "en": "hillock", "ja": "小丘" },
+      { "en": "slope", "ja": "斜面" }
+    ],
+    "faq": [
+      { "q": "knoll と hill の違いは？", "a": "どちらも「丘」ですが、knoll は特に小さくなだらかで丸い高まりを指す文語的な語です。hill の方が一般的で大きさの幅も広いです。" },
+      { "q": "knoll の k は発音しますか？", "a": "いいえ、黙字です。/noʊl/ と読みます。kn- で始まる語の k は発音しません。" }
+    ],
+    "quiz": [
+      { "q": "We had a picnic on a small ___.（私たちは小さな丘でピクニックをした）", "A": "knoll", "B": "kettle", "C": "keeper", "D": "kilt", "correct": "A" },
+      { "q": "knoll の意味は？", "A": "深い谷", "B": "小さな丘", "C": "広い川", "D": "高い塔", "correct": "B" }
+    ]
+  },
+  {
+    "english": "krill",
+    "pron": "krɪl",
+    "kana": "クリル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ノルウェー語 kril（小魚の稚魚)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "自然・海"],
+    "meaning_main": "オキアミ（小型のエビ状の生物）",
+    "description": "krill は「オキアミ」を表す名詞。エビに似た小さな海の生き物で、大群をなして泳ぎます。クジラやペンギンなど多くの海洋動物の重要なえさで、海の食物連鎖を支えています。",
+    "keywords": ["krill 意味", "krill 発音", "krill オキアミ", "krill クジラ えさ", "krill 例文"],
+    "meanings": [
+      { "hinshi": "【名】オキアミ", "note": "エビに似た小型の海の甲殻類。大群をなす。" }
+    ],
+    "usages": [
+      { "title": "① オキアミ（生き物）", "desc": "小さなエビ状のプランクトン。", "example_en": "Whales eat huge amounts of krill.", "example_ja": "クジラは大量のオキアミを食べる。" },
+      { "title": "② 食物連鎖の基盤", "desc": "多くの動物のえさ。", "example_en": "Krill is vital to the ocean food chain.", "example_ja": "オキアミは海の食物連鎖に欠かせない。" },
+      { "title": "③ 単複同形", "desc": "krill は単数も複数も同じ形。", "example_en": "Millions of krill filled the water.", "example_ja": "何百万ものオキアミが水を満たした。" }
+    ],
+    "warn": ["単数・複数とも krill（-s を付けない）。集合的に扱う。", "エビ(shrimp)に似るが別の生物。プランクトンの一種。"],
+    "etym_note": "ノルウェー語 kril（小さな稚魚・小さな生き物）に由来します。南極海などで大群をなすオキアミを指す語として英語に取り入れられました。",
+    "etym_chain": [
+      { "node": "kril", "sub": "小さな生き物", "era": "ノルウェー語" },
+      { "node": "krill", "sub": "オキアミ", "era": "19-20世紀英語" },
+      { "node": "krill", "sub": "オキアミ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a swarm of krill", "ja": "オキアミの大群" },
+      { "en": "feed on krill", "ja": "オキアミを食べる" },
+      { "en": "Antarctic krill", "ja": "ナンキョクオキアミ" },
+      { "en": "krill oil", "ja": "オキアミ油(サプリ)" },
+      { "en": "whales and krill", "ja": "クジラとオキアミ" },
+      { "en": "tiny krill", "ja": "小さなオキアミ" }
+    ],
+    "related": [
+      { "en": "shrimp", "ja": "エビ" },
+      { "en": "plankton", "ja": "プランクトン" },
+      { "en": "whale", "ja": "クジラ" },
+      { "en": "ocean", "ja": "海" }
+    ],
+    "faq": [
+      { "q": "krill の複数形は？", "a": "krill のままです。単数も複数も同じ形で、-s を付けません。集合的に扱います。" },
+      { "q": "krill はなぜ重要なのですか？", "a": "クジラ・アザラシ・ペンギン・魚など多くの動物のえさとなり、海の食物連鎖を支える基盤的な存在だからです。" }
+    ],
+    "quiz": [
+      { "q": "Blue whales feed on tiny ___.（シロナガスクジラは小さなオキアミを食べる）", "A": "krill", "B": "kernel", "C": "kettle", "D": "kilt", "correct": "A" },
+      { "q": "krill とは何ですか？", "A": "海鳥", "B": "オキアミ", "C": "海藻", "D": "貝", "correct": "B" }
+    ]
+  },
+  {
+    "english": "keepsake",
+    "pron": "ˈkiːpseɪk",
+    "kana": "キープセイク",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "keep（保つ）＋ sake（ため)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "頻出語"],
+    "meaning_main": "記念品／形見／思い出の品",
+    "description": "keepsake は「記念品・形見」を表す名詞。keep（取っておく）＋ sake（ため）＝「思い出のために取っておくもの」が語源です。人や出来事を思い出すための品を指します。",
+    "keywords": ["keepsake 意味", "keepsake 発音", "keepsake 記念品", "keepsake 形見", "keepsake 例文"],
+    "meanings": [
+      { "hinshi": "【名】記念品・形見・思い出の品", "note": "人や出来事の思い出として取っておく品。" }
+    ],
+    "usages": [
+      { "title": "① 記念品・思い出の品", "desc": "大切に取っておく品。", "example_en": "She kept the ring as a keepsake.", "example_ja": "彼女はその指輪を記念に取っておいた。" },
+      { "title": "② 形見", "desc": "亡くなった人の思い出の品。", "example_en": "The watch was a keepsake from his father.", "example_ja": "その時計は父の形見だった。" },
+      { "title": "③ 贈る記念品", "desc": "as a keepsake（記念に）。", "example_en": "She gave me a photo as a keepsake.", "example_ja": "彼女は記念に写真をくれた。" }
+    ],
+    "warn": ["keep＋sake の複合語。1語で書く。", "「記念に・思い出に」は as a keepsake の形。"],
+    "etym_note": "keep（取っておく）＋ sake（〜のため）を合わせた18世紀の語で、「(人を)思い出すために取っておくもの」を意味します。for someone's sake（〜のために）の sake と同じです。",
+    "etym_chain": [
+      { "node": "keep + sake", "sub": "保つ＋ため", "era": "18世紀英語" },
+      { "node": "keepsake", "sub": "記念品", "era": "近代英語" },
+      { "node": "keepsake", "sub": "記念品・形見", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "as a keepsake", "ja": "記念に・思い出に" },
+      { "en": "a precious keepsake", "ja": "大切な記念品" },
+      { "en": "keep as a keepsake", "ja": "形見として取っておく" },
+      { "en": "a family keepsake", "ja": "家に伝わる記念品" },
+      { "en": "treasured keepsake", "ja": "宝物のような思い出の品" },
+      { "en": "a keepsake box", "ja": "思い出の品を入れる箱" }
+    ],
+    "related": [
+      { "en": "souvenir", "ja": "土産・記念品" },
+      { "en": "memento", "ja": "形見・記念の品" },
+      { "en": "token", "ja": "しるし・記念品" },
+      { "en": "memory", "ja": "思い出" }
+    ],
+    "faq": [
+      { "q": "keepsake と souvenir の違いは？", "a": "keepsake は「人や出来事の思い出のために取っておく品・形見」、souvenir は主に「旅行先で買う土産・記念品」を指します。" },
+      { "q": "keepsake の語源は？", "a": "keep（取っておく）＋ sake（〜のため）で、「(誰かを)思い出すために取っておくもの」という意味です。" }
+    ],
+    "quiz": [
+      { "q": "I keep her letter as a ___.（彼女の手紙を記念に取っている）", "A": "keepsake", "B": "keeper", "C": "kettle", "D": "kernel", "correct": "A" },
+      { "q": "keepsake は keep ＋ ___ の複合語。空所は？", "A": "sake", "B": "make", "C": "lake", "D": "take", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kestrel",
+    "pron": "ˈkestrəl",
+    "kana": "ケストレル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 cresserelle（小型のタカ)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "動物・鳥"],
+    "meaning_main": "チョウゲンボウ（小型のタカ）",
+    "description": "kestrel は「チョウゲンボウ」を表す名詞。ハヤブサの仲間の小型の猛禽で、空中で羽ばたきながら一点に静止（ホバリング）して獲物を探す独特の狩りで知られます。",
+    "keywords": ["kestrel 意味", "kestrel 発音", "kestrel チョウゲンボウ", "kestrel 猛禽", "kestrel 例文"],
+    "meanings": [
+      { "hinshi": "【名】チョウゲンボウ", "note": "ハヤブサ科の小型の猛禽。ホバリングして狩る。" }
+    ],
+    "usages": [
+      { "title": "① チョウゲンボウ（鳥）", "desc": "小型のタカ・ハヤブサの仲間。", "example_en": "A kestrel hovered over the field.", "example_ja": "チョウゲンボウが野原の上でホバリングした。" },
+      { "title": "② ホバリングして狩る", "desc": "空中で静止して獲物を探す。", "example_en": "The kestrel spotted a mouse below.", "example_ja": "チョウゲンボウは下のネズミを見つけた。" },
+      { "title": "③ 田園の風景", "desc": "農地や草原でよく見られる。", "example_en": "Kestrels often nest on cliffs.", "example_ja": "チョウゲンボウはよく崖に巣を作る。" }
+    ],
+    "warn": ["ハヤブサ(falcon)の一種で、小型の猛禽。空中で静止する「ホバリング」が特徴。", "発音は /ˈkestrəl/。最初の音節を強く読む。"],
+    "etym_note": "古フランス語 cresserelle（小型のタカ）に由来します。鳴き声を表す語からきたとされ、中英語を経て英語に定着しました。",
+    "etym_chain": [
+      { "node": "cresserelle", "sub": "小型のタカ", "era": "古フランス語" },
+      { "node": "castrel", "sub": "チョウゲンボウ", "era": "中英語" },
+      { "node": "kestrel", "sub": "チョウゲンボウ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a hovering kestrel", "ja": "ホバリングするチョウゲンボウ" },
+      { "en": "a common kestrel", "ja": "ふつうのチョウゲンボウ" },
+      { "en": "the kestrel's nest", "ja": "チョウゲンボウの巣" },
+      { "en": "a bird of prey", "ja": "猛禽" },
+      { "en": "spot a kestrel", "ja": "チョウゲンボウを見つける" },
+      { "en": "a kestrel in flight", "ja": "飛翔するチョウゲンボウ" }
+    ],
+    "related": [
+      { "en": "falcon", "ja": "ハヤブサ" },
+      { "en": "hawk", "ja": "タカ" },
+      { "en": "eagle", "ja": "ワシ" },
+      { "en": "bird", "ja": "鳥" }
+    ],
+    "faq": [
+      { "q": "kestrel はどんな鳥ですか？", "a": "ハヤブサ科の小型の猛禽「チョウゲンボウ」です。空中で羽ばたきながら一点に静止（ホバリング）して、地上の獲物を探す狩りが特徴です。" },
+      { "q": "kestrel と falcon の関係は？", "a": "kestrel（チョウゲンボウ）は falcon（ハヤブサ）の仲間の一種です。ハヤブサ類の中では小型で、身近な田園でよく見られます。" }
+    ],
+    "quiz": [
+      { "q": "A ___ hovered in the air looking for prey.（チョウゲンボウが獲物を探して空中に静止した）", "A": "kestrel", "B": "kettle", "C": "keeper", "D": "kelp", "correct": "A" },
+      { "q": "kestrel は何の仲間の鳥？", "A": "ペンギン", "B": "ハヤブサ", "C": "カモメ", "D": "スズメ", "correct": "B" }
+    ]
+  }
+]
