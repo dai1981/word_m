@@ -452,5 +452,56 @@
       { "q": "Sweets are my ___ — I just can't say no.（甘い物は私の弱点、断れない）", "A": "kryptonite", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
       { "q": "kryptonite の比喩的な意味は？", "A": "弱点・泣きどころ", "B": "強み", "C": "宝物", "D": "武器", "correct": "A" }
     ]
+  },
+  {
+    "english": "klaxon",
+    "pron": "ˈklæksən",
+    "kana": "クラクソン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "商標名 Klaxon（ギリシャ語 klazō「叫ぶ」より）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "機器・音"],
+    "meaning_main": "クラクション／大音量の警報器",
+    "description": "klaxon は「クラクション・大音量の警報器」を表す名詞。もとは自動車や船の警笛の商標名で、けたたましく鳴り響く電気式のホーンを指します。警報や注意喚起の大きな音の器具です。",
+    "keywords": ["klaxon 意味", "klaxon 発音", "klaxon クラクション", "klaxon 警報", "klaxon 例文"],
+    "meanings": [
+      { "hinshi": "【名】クラクション・警笛", "note": "けたたましく鳴る電気式のホーン。" },
+      { "hinshi": "【名】大音量の警報器", "note": "危険を知らせる大きな音の器具。" }
+    ],
+    "usages": [
+      { "title": "① 警笛・クラクション", "desc": "車や船の大きな警笛。", "example_en": "The ship sounded its klaxon.", "example_ja": "船は警笛を鳴らした。" },
+      { "title": "② 警報器", "desc": "危険を知らせる大音量。", "example_en": "A klaxon warned of the fire.", "example_ja": "警報器が火災を知らせた。" },
+      { "title": "③ 鳴り響く", "desc": "the klaxon blared。", "example_en": "The klaxon blared across the factory.", "example_ja": "警報が工場中に鳴り響いた。" }
+    ],
+    "warn": ["もとは商標名。今は大音量の警報・警笛全般を指す。", "発音は /ˈklæksən/。最初の音節を強く読む。"],
+    "etym_note": "20世紀初めに作られた電気警笛の商標名 Klaxon に由来します。ギリシャ語 klazō（叫ぶ・鳴り響く）から名づけられ、後に一般名詞として大音量の警報を指すようになりました。",
+    "etym_chain": [
+      { "node": "klazō", "sub": "叫ぶ・鳴る", "era": "ギリシャ語" },
+      { "node": "Klaxon", "sub": "警笛の商標名", "era": "20世紀英語" },
+      { "node": "klaxon", "sub": "警笛・警報器", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "sound the klaxon", "ja": "警笛を鳴らす" },
+      { "en": "the klaxon blared", "ja": "警報が鳴り響いた" },
+      { "en": "a warning klaxon", "ja": "警告のクラクション" },
+      { "en": "a loud klaxon", "ja": "大音量の警報器" },
+      { "en": "a klaxon went off", "ja": "警報が鳴った" },
+      { "en": "an emergency klaxon", "ja": "緊急警報器" }
+    ],
+    "related": [
+      { "en": "horn", "ja": "警笛・ホーン" },
+      { "en": "siren", "ja": "サイレン" },
+      { "en": "alarm", "ja": "警報" },
+      { "en": "buzzer", "ja": "ブザー" }
+    ],
+    "faq": [
+      { "q": "klaxon とは何ですか？", "a": "けたたましく鳴り響く電気式の警笛・警報器のことです。もとは自動車の警笛の商標名でしたが、今では大音量の警報全般を指します。" },
+      { "q": "klaxon と siren の違いは？", "a": "klaxon は「ビーッ」という電気ホーンのような音、siren は「ウーウー」と音の高さが上下するサイレンを指すことが多いです。どちらも警報用です。" }
+    ],
+    "quiz": [
+      { "q": "A loud ___ warned the workers of danger.（大音量の警報が作業員に危険を知らせた）", "A": "klaxon", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "klaxon はどんな器具？", "A": "大音量の警報器・警笛", "B": "料理道具", "C": "楽器", "D": "照明", "correct": "A" }
+    ]
   }
 ]
