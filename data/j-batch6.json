@@ -1,0 +1,509 @@
+[
+  {
+    "english": "jab",
+    "pron": "dʒæb",
+    "kana": "ジャブ",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "スコットランド語 job（突く)",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "動作・スポーツ"],
+    "meaning_main": "すばやく突く／(ボクシングの)ジャブ",
+    "description": "jab は「すばやく突く」を表す動詞。とがったものや指、こぶしなどで、鋭く短く突くことを指します。名詞ではボクシングの「ジャブ（すばやいパンチ）」や、イギリス口語で「注射」の意味でも使われます。",
+    "keywords": ["jab 意味", "jab 発音", "jab 突く", "jab ジャブ", "jab 例文"],
+    "meanings": [
+      { "hinshi": "【動】すばやく突く・突き刺す", "note": "鋭く短く突く。" },
+      { "hinshi": "【名】ジャブ・突き", "note": "ボクシングのすばやいパンチ。" },
+      { "hinshi": "【名】(英・口語)注射", "note": "a flu jab（インフルの注射）。" }
+    ],
+    "usages": [
+      { "title": "① すばやく突く（動詞）", "desc": "指や物で突く。", "example_en": "He jabbed the button with his finger.", "example_ja": "彼は指でボタンをぐいと押した。" },
+      { "title": "② ジャブ（ボクシング）", "desc": "すばやいパンチ。", "example_en": "The boxer threw a quick jab.", "example_ja": "ボクサーはすばやいジャブを放った。" },
+      { "title": "③ (英)注射", "desc": "a flu jab。", "example_en": "I got my flu jab yesterday.", "example_ja": "私は昨日インフルエンザの注射を受けた。" }
+    ],
+    "warn": ["過去形・-ing 形は b を重ねる: jabbed, jabbing。", "イギリス口語で「注射」の意味（jab）もある。"],
+    "etym_note": "スコットランド語 job（鋭く突く）に由来するとされます。「短く鋭く突く」動作を表す語として使われるようになりました。",
+    "etym_chain": [
+      { "node": "job", "sub": "突く", "era": "スコットランド語" },
+      { "node": "jab", "sub": "すばやく突く", "era": "19世紀英語" },
+      { "node": "jab", "sub": "突く・ジャブ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "throw a jab", "ja": "ジャブを放つ" },
+      { "en": "jab at", "ja": "〜を突く" },
+      { "en": "a quick jab", "ja": "すばやい突き" },
+      { "en": "a flu jab", "ja": "インフルの注射(英)" },
+      { "en": "jab with a finger", "ja": "指で突く" },
+      { "en": "a left jab", "ja": "左ジャブ" }
+    ],
+    "related": [
+      { "en": "poke", "ja": "つつく" },
+      { "en": "punch", "ja": "殴る・パンチ" },
+      { "en": "stab", "ja": "刺す" },
+      { "en": "prod", "ja": "突く" }
+    ],
+    "faq": [
+      { "q": "jab とはどんな動作ですか？", "a": "とがったものや指、こぶしで「鋭く短く突く」動作です。ボクシングでは、すばやく打つ軽いパンチ「ジャブ」を指します。" },
+      { "q": "jab に「注射」の意味がありますか？", "a": "はい。イギリスの口語で「注射」を jab と言います。a flu jab（インフルエンザの予防接種）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The boxer landed a quick ___ to his opponent's chin.（ボクサーは相手のあごにすばやいジャブを当てた）", "A": "jab", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jab のイギリス口語の意味は？", "A": "注射", "B": "食事", "C": "旅行", "D": "睡眠", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jackal",
+    "pron": "ˈdʒækɔːl",
+    "kana": "ジャッコール",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ペルシャ語 shaghāl（ジャッカル)",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "動物"],
+    "meaning_main": "ジャッカル（イヌ科の野生動物）",
+    "description": "jackal は「ジャッカル」を表す名詞。アフリカやアジアにすむ、犬に似たイヌ科の野生動物です。群れで行動し、狩りをするほか、他の動物が食べ残した肉（死肉）もあさります。ずる賢いイメージで比喩的に使われることもあります。",
+    "keywords": ["jackal 意味", "jackal 発音", "jackal ジャッカル", "jackal イヌ科", "jackal 例文"],
+    "meanings": [
+      { "hinshi": "【名】ジャッカル", "note": "アフリカ・アジアにすむ犬に似たイヌ科の野生動物。" }
+    ],
+    "usages": [
+      { "title": "① ジャッカル（動物）", "desc": "イヌ科の野生動物。", "example_en": "Jackals hunt in the African savanna.", "example_ja": "ジャッカルはアフリカのサバンナで狩りをする。" },
+      { "title": "② 死肉もあさる", "desc": "残り物を食べる。", "example_en": "Jackals often eat the remains of other animals' kills.", "example_ja": "ジャッカルはよく他の動物の獲物の残りを食べる。" },
+      { "title": "③ 群れで行動", "desc": "協力して狩る。", "example_en": "A pack of jackals surrounded the prey.", "example_ja": "ジャッカルの群れが獲物を取り囲んだ。" }
+    ],
+    "warn": ["発音は /ˈdʒækɔːl/。犬・オオカミに近いイヌ科の動物。", "ずる賢い・卑劣な者の比喩として使われることもある。"],
+    "etym_note": "ペルシャ語 shaghāl（ジャッカル）に由来し、トルコ語・フランス語を経て英語に入りました。中東・アジア・アフリカにすむイヌ科動物を指す語です。",
+    "etym_chain": [
+      { "node": "shaghāl", "sub": "ジャッカル", "era": "ペルシャ語" },
+      { "node": "jackal", "sub": "ジャッカル", "era": "17世紀英語" },
+      { "node": "jackal", "sub": "ジャッカル", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a pack of jackals", "ja": "ジャッカルの群れ" },
+      { "en": "a hungry jackal", "ja": "空腹のジャッカル" },
+      { "en": "jackals in the savanna", "ja": "サバンナのジャッカル" },
+      { "en": "a golden jackal", "ja": "キンイロジャッカル" },
+      { "en": "the cry of a jackal", "ja": "ジャッカルの鳴き声" },
+      { "en": "hunt like jackals", "ja": "ジャッカルのように狩る" }
+    ],
+    "related": [
+      { "en": "wolf", "ja": "オオカミ" },
+      { "en": "fox", "ja": "キツネ" },
+      { "en": "hyena", "ja": "ハイエナ" },
+      { "en": "dog", "ja": "犬" }
+    ],
+    "faq": [
+      { "q": "jackal とはどんな動物ですか？", "a": "アフリカやアジアにすむ、犬に似たイヌ科の野生動物です。群れで狩りをするほか、他の動物の食べ残しもあさります。" },
+      { "q": "jackal は比喩でも使いますか？", "a": "はい。死肉をあさる習性やずる賢いイメージから、「卑劣な者・他人の利益に群がる者」のたとえとして使われることがあります。" }
+    ],
+    "quiz": [
+      { "q": "A ___ is a wild dog-like animal found in Africa and Asia.（ジャッカルはアフリカやアジアにいる犬に似た野生動物だ）", "A": "jackal", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jackal は何の仲間の動物？", "A": "イヌ科", "B": "ネコ科", "C": "クマ科", "D": "サル", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jaded",
+    "pron": "ˈdʒeɪdɪd",
+    "kana": "ジェイディッド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "jade（疲れた馬）＋ -ed",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR B2", "感情"],
+    "meaning_main": "うんざりした／(慣れて)興味を失った／疲れきった",
+    "description": "jaded は「(同じことの繰り返しに)うんざりした・興味を失った」を表す形容詞。長く経験しすぎて新鮮さや喜びを感じなくなった、飽き飽きした状態を表します。宝石の jade（ひすい）とは別で、「疲れた馬」を意味する古語が語源です。",
+    "keywords": ["jaded 意味", "jaded 発音", "jaded うんざり", "jaded 興味を失う", "jaded 例文"],
+    "meanings": [
+      { "hinshi": "【形】うんざりした・興味を失った", "note": "経験しすぎて新鮮さを感じなくなった。" },
+      { "hinshi": "【形】疲れきった", "note": "心身ともに消耗した。" }
+    ],
+    "usages": [
+      { "title": "① うんざりした・飽きた", "desc": "新鮮さを失う。", "example_en": "After years of travel, she felt jaded.", "example_ja": "何年も旅を続けて、彼女は飽き飽きしていた。" },
+      { "title": "② 興味を失った", "desc": "感動しなくなる。", "example_en": "He has a jaded view of politics.", "example_ja": "彼は政治に対して冷めた見方をしている。" },
+      { "title": "③ 疲れきった", "desc": "消耗した様子。", "example_en": "The jaded workers needed a rest.", "example_ja": "疲れきった労働者たちは休息が必要だった。" }
+    ],
+    "warn": ["宝石の jade（ひすい）とは別語源。「疲れた馬」を意味する古語 jade に由来。", "「経験しすぎて感動しなくなった」という否定的なニュアンス。"],
+    "etym_note": "「疲れた駄馬・使い古した馬」を意味する古い語 jade（宝石とは別語）に由来します。そこから「疲れきった・すり切れた・うんざりした」の意味になりました。",
+    "etym_chain": [
+      { "node": "jade", "sub": "疲れた馬", "era": "中英語" },
+      { "node": "jaded", "sub": "疲れきった", "era": "近代英語" },
+      { "node": "jaded", "sub": "うんざりした", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "feel jaded", "ja": "うんざりする" },
+      { "en": "a jaded view", "ja": "冷めた見方" },
+      { "en": "become jaded", "ja": "興味を失う" },
+      { "en": "jaded and tired", "ja": "うんざりして疲れて" },
+      { "en": "a jaded palate", "ja": "刺激に慣れた味覚" },
+      { "en": "jaded by experience", "ja": "経験にうんざりして" }
+    ],
+    "related": [
+      { "en": "tired", "ja": "疲れた" },
+      { "en": "weary", "ja": "疲れ果てた" },
+      { "en": "bored", "ja": "退屈した" },
+      { "en": "cynical", "ja": "冷めた・皮肉な" }
+    ],
+    "faq": [
+      { "q": "jaded とはどんな意味ですか？", "a": "同じことを経験しすぎて新鮮さや喜びを感じなくなり、「うんざりした・興味を失った・冷めた」状態を表します。" },
+      { "q": "jaded と宝石の jade は関係がありますか？", "a": "いいえ、別語源です。jaded は「疲れた馬」を意味する古語 jade に由来し、宝石の jade（ひすい）とは無関係です。" }
+    ],
+    "quiz": [
+      { "q": "After seeing so many cities, he became ___ and unimpressed.（多くの都市を見て、彼はうんざりして感動しなくなった）", "A": "jaded", "B": "jealous", "C": "jolly", "D": "jumbo", "correct": "A" },
+      { "q": "jaded の意味に近いのは？", "A": "うんざりした・興味を失った", "B": "わくわくした", "C": "元気いっぱいの", "D": "驚いた", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jeer",
+    "pron": "dʒɪər",
+    "kana": "ジアー",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "16世紀英語（起源不明）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR B2", "感情・行動"],
+    "meaning_main": "やじる／あざ笑う／冷やかし",
+    "description": "jeer は「やじる・あざ笑う」を表す動詞。人をばかにして、大声で冷やかしたりからかったりすることを指します。名詞では「やじ・冷やかし」。jeer at ~（〜をやじる）の形でよく使われます。",
+    "keywords": ["jeer 意味", "jeer 発音", "jeer やじる", "jeer at", "jeer 例文"],
+    "meanings": [
+      { "hinshi": "【動】やじる・あざ笑う", "note": "人をばかにして冷やかす。jeer at ~。" },
+      { "hinshi": "【名】やじ・冷やかし", "note": "ばかにする声。" }
+    ],
+    "usages": [
+      { "title": "① やじる (jeer at ~)", "desc": "at の後は対象。", "example_en": "The crowd jeered at the referee.", "example_ja": "観客は審判をやじった。" },
+      { "title": "② あざ笑う", "desc": "ばかにする。", "example_en": "They jeered as he fell.", "example_ja": "彼が転ぶと彼らはあざ笑った。" },
+      { "title": "③ やじ（名詞）", "desc": "冷やかしの声。", "example_en": "The speaker was met with jeers.", "example_ja": "その話し手はやじを浴びた。" }
+    ],
+    "warn": ["「〜をやじる」は jeer at ~（前置詞 at）。", "反対は cheer（声援を送る）。混同しないよう注意。"],
+    "etym_note": "16世紀に現れた語で、はっきりした語源はわかっていません。「あざ笑う・冷やかす」という意味で使われてきました。cheer（応援する）とは反対の意味です。",
+    "etym_chain": [
+      { "node": "jeer", "sub": "あざ笑う(起源不明)", "era": "16世紀英語" },
+      { "node": "jeer", "sub": "やじる・あざ笑う", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "jeer at", "ja": "〜をやじる" },
+      { "en": "jeers from the crowd", "ja": "観客からのやじ" },
+      { "en": "cheers and jeers", "ja": "声援とやじ" },
+      { "en": "a jeering crowd", "ja": "やじる群衆" },
+      { "en": "jeer loudly", "ja": "大声でやじる" },
+      { "en": "boos and jeers", "ja": "ブーイングとやじ" }
+    ],
+    "related": [
+      { "en": "mock", "ja": "あざける" },
+      { "en": "taunt", "ja": "ののしる・からかう" },
+      { "en": "ridicule", "ja": "あざ笑う" },
+      { "en": "cheer", "ja": "声援を送る" }
+    ],
+    "faq": [
+      { "q": "jeer と cheer の違いは？", "a": "反対の意味です。jeer は「やじる・あざ笑う」（否定的）、cheer は「声援を送る・喜ぶ」（肯定的）です。綴りも似ているので注意しましょう。" },
+      { "q": "「〜をやじる」の前置詞は？", "a": "jeer at ~ です。The fans jeered at the losing team.（ファンは負けたチームをやじった）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The angry fans began to ___ at the players.（怒ったファンは選手をやじり始めた）", "A": "jeer", "B": "jam", "C": "jog", "D": "jump", "correct": "A" },
+      { "q": "jeer の反対語は？", "A": "cheer", "B": "jump", "C": "juice", "D": "joke", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jest",
+    "pron": "dʒest",
+    "kana": "ジェスト",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 gesta（行い・武勇伝)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR B2", "文語的"],
+    "meaning_main": "冗談／たわむれ／冗談を言う",
+    "description": "jest は「冗談・たわむれ」を表す名詞、また「冗談を言う」を表す動詞です。joke とほぼ同じ意味ですが、やや古風で文語的な語です。in jest（冗談で）という表現でよく使われます。中世の道化師 jester と同じ語源です。",
+    "keywords": ["jest 意味", "jest 発音", "jest 冗談", "in jest", "jest 例文"],
+    "meanings": [
+      { "hinshi": "【名】冗談・たわむれ", "note": "joke の文語的な語。" },
+      { "hinshi": "【動】冗談を言う・ふざける", "note": "たわむれる。" }
+    ],
+    "usages": [
+      { "title": "① 冗談 (in jest)", "desc": "「冗談で」。", "example_en": "He said it in jest, not seriously.", "example_ja": "彼は本気ではなく冗談で言った。" },
+      { "title": "② 冗談を言う（動詞）", "desc": "たわむれる。", "example_en": "Surely you jest!", "example_ja": "まさか冗談でしょう！" },
+      { "title": "③ 文語的な言い回し", "desc": "joke より古風。", "example_en": "\"Many a true word is spoken in jest.\"", "example_ja": "「冗談の中に真実あり」（ことわざ）。" }
+    ],
+    "warn": ["やや古風・文語的な語。日常では joke が普通。", "「冗談で」は in jest。道化師 jester と同じ語源。"],
+    "etym_note": "ラテン語 gesta（行い・武勇伝）に由来します。もとは「英雄の物語」を意味しましたが、語り物がしだいにこっけいな話になり、「冗談」の意味に変わりました。",
+    "etym_chain": [
+      { "node": "gesta", "sub": "行い・武勇伝", "era": "ラテン語" },
+      { "node": "gest", "sub": "物語", "era": "中英語" },
+      { "node": "jest", "sub": "冗談", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "in jest", "ja": "冗談で" },
+      { "en": "a jest", "ja": "冗談" },
+      { "en": "half in jest", "ja": "半分冗談で" },
+      { "en": "You jest!", "ja": "冗談でしょう！" },
+      { "en": "make a jest of", "ja": "〜を冗談の種にする" },
+      { "en": "a passing jest", "ja": "ふとした冗談" }
+    ],
+    "related": [
+      { "en": "joke", "ja": "冗談" },
+      { "en": "jester", "ja": "道化師" },
+      { "en": "banter", "ja": "軽口・からかい" },
+      { "en": "quip", "ja": "気の利いた冗談" }
+    ],
+    "faq": [
+      { "q": "jest と joke の違いは？", "a": "意味はほぼ同じ「冗談」ですが、jest はやや古風で文語的な語です。日常では joke が普通で、jest は in jest（冗談で）などの決まった表現で使われます。" },
+      { "q": "in jest とはどんな意味ですか？", "a": "「冗談で・ふざけて」という意味です。He said it in jest.（彼は冗談で言った）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "Don't take it seriously — I said it in ___.（本気にしないで、冗談で言ったんだ）", "A": "jest", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jest と同じ語源の語は？", "A": "jester（道化師）", "B": "jacket（上着）", "C": "juice（ジュース）", "D": "jungle（密林）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jinx",
+    "pron": "dʒɪŋks",
+    "kana": "ジンクス",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 iynx（まじないに使う鳥)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR B2", "口語"],
+    "meaning_main": "縁起の悪いもの／(不運を呼ぶ)ジンクス／たたる",
+    "description": "jinx は「縁起の悪いもの・不運を招くもの」を表す名詞、また「(不運を呼び込んで)たたる・だめにする」を表す動詞です。日本語の「ジンクス」と違い、英語では悪い縁起（不運を呼ぶもの）を指します。",
+    "keywords": ["jinx 意味", "jinx 発音", "jinx ジンクス", "jinx 縁起", "jinx 例文"],
+    "meanings": [
+      { "hinshi": "【名】縁起の悪いもの・不運を招くもの", "note": "不運を呼ぶとされる人や物。" },
+      { "hinshi": "【動】(不運を呼んで)だめにする・たたる", "note": "口にして縁起を悪くする。" }
+    ],
+    "usages": [
+      { "title": "① 縁起の悪いもの（名詞）", "desc": "不運を招く。", "example_en": "Some people think black cats are a jinx.", "example_ja": "黒猫を縁起が悪いと思う人もいる。" },
+      { "title": "② たたる・だめにする（動詞）", "desc": "口にして縁起を壊す。", "example_en": "Don't say we'll win — you'll jinx it!", "example_ja": "勝つなんて言わないで、縁起が悪くなる！" },
+      { "title": "③ 不運が続く", "desc": "put a jinx on。", "example_en": "It felt like there was a jinx on the team.", "example_ja": "そのチームには不運がついているようだった。" }
+    ],
+    "warn": ["日本語の「ジンクス」と違い、英語では『不運を呼ぶ縁起の悪いもの』を指す。良い縁起には使わない。", "発音は /dʒɪŋks/。"],
+    "etym_note": "ギリシャ語 iynx（まじないに使われたアリスイという鳥）に由来します。この鳥がまじないと結びつけられたことから、「不運を招くもの・たたり」の意味になりました。",
+    "etym_chain": [
+      { "node": "iynx", "sub": "まじないの鳥", "era": "ギリシャ語" },
+      { "node": "jinx", "sub": "縁起の悪いもの", "era": "20世紀アメリカ英語" },
+      { "node": "jinx", "sub": "ジンクス・たたる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "put a jinx on", "ja": "〜にたたりをかける" },
+      { "en": "jinx it", "ja": "縁起を悪くする" },
+      { "en": "break the jinx", "ja": "不運を断ち切る" },
+      { "en": "a jinx on the team", "ja": "チームの不運" },
+      { "en": "don't jinx it", "ja": "縁起の悪いことを言うな" },
+      { "en": "a bad-luck jinx", "ja": "不運を呼ぶもの" }
+    ],
+    "related": [
+      { "en": "curse", "ja": "のろい" },
+      { "en": "bad luck", "ja": "不運" },
+      { "en": "superstition", "ja": "迷信" },
+      { "en": "spell", "ja": "呪文・まじない" }
+    ],
+    "faq": [
+      { "q": "英語の jinx は日本語の「ジンクス」と同じですか？", "a": "いいえ、違います。日本語の「ジンクス」は良い縁起にも使いますが、英語の jinx は『不運を呼ぶ縁起の悪いもの』だけを指します。" },
+      { "q": "You'll jinx it! とはどんな意味ですか？", "a": "「(そんなことを言うと)縁起が悪くなるよ・だめになるよ」という意味です。うまくいくと口に出すと失敗する、という迷信から来ています。" }
+    ],
+    "quiz": [
+      { "q": "Don't talk about winning — you might ___ it!（勝つ話をしないで、縁起が悪くなるよ）", "A": "jinx", "B": "jam", "C": "jog", "D": "jump", "correct": "A" },
+      { "q": "英語の jinx が表すのは？", "A": "不運を呼ぶ縁起の悪いもの", "B": "幸運を呼ぶもの", "C": "お守り", "D": "祝福", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jovial",
+    "pron": "ˈdʒoʊviəl",
+    "kana": "ジョウビアル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 Jovialis（木星の・ユピテルの)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR B2", "感情"],
+    "meaning_main": "陽気な／快活な／上機嫌な",
+    "description": "jovial は「陽気な・快活な」を表す形容詞。明るく愛想がよく、周りを楽しい気分にさせるような人の様子を表します。ローマ神話の主神ユピテル（ジュピター）＝木星に由来し、「木星生まれの人は陽気」という古い占星術の考えから来ています。",
+    "keywords": ["jovial 意味", "jovial 発音", "jovial 陽気な", "jovial 快活", "jovial 例文"],
+    "meanings": [
+      { "hinshi": "【形】陽気な・快活な・上機嫌な", "note": "明るく愛想がよいようす。" }
+    ],
+    "usages": [
+      { "title": "① 陽気な（人）", "desc": "明るく愛想がよい。", "example_en": "He was a jovial host.", "example_ja": "彼は陽気なもてなし役だった。" },
+      { "title": "② 快活な雰囲気", "desc": "楽しい様子。", "example_en": "The party had a jovial atmosphere.", "example_ja": "パーティーは陽気な雰囲気だった。" },
+      { "title": "③ 上機嫌な", "desc": "笑顔で明るい。", "example_en": "She greeted us in a jovial mood.", "example_ja": "彼女は上機嫌で私たちを迎えた。" }
+    ],
+    "warn": ["やや文語的。jolly / cheerful と近い。", "語源はローマ神話の主神ユピテル(Jove)＝木星。"],
+    "etym_note": "ラテン語 Jovialis（木星の・ユピテル神の）に由来します。古い占星術で「木星（Jove）の影響下に生まれた人は陽気で快活だ」とされたことから、「陽気な」の意味になりました。",
+    "etym_chain": [
+      { "node": "Jovialis", "sub": "木星の・ユピテルの", "era": "ラテン語" },
+      { "node": "jovial", "sub": "木星生まれの・陽気な", "era": "近代英語" },
+      { "node": "jovial", "sub": "陽気な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a jovial mood", "ja": "上機嫌" },
+      { "en": "a jovial man", "ja": "陽気な男性" },
+      { "en": "jovial and friendly", "ja": "陽気で親しみやすい" },
+      { "en": "a jovial laugh", "ja": "快活な笑い" },
+      { "en": "in a jovial spirit", "ja": "陽気な気分で" },
+      { "en": "a jovial atmosphere", "ja": "陽気な雰囲気" }
+    ],
+    "related": [
+      { "en": "jolly", "ja": "陽気な" },
+      { "en": "cheerful", "ja": "快活な" },
+      { "en": "merry", "ja": "陽気な" },
+      { "en": "genial", "ja": "愛想のよい" }
+    ],
+    "faq": [
+      { "q": "jovial とはどんな様子を表しますか？", "a": "明るく愛想がよく、周りを楽しい気分にさせるような「陽気で快活な」様子を表します。" },
+      { "q": "jovial の語源は？", "a": "ローマ神話の主神ユピテル（Jove）＝木星に由来します。占星術で「木星生まれの人は陽気だ」とされたことから、「陽気な」の意味になりました。" }
+    ],
+    "quiz": [
+      { "q": "The ___ old man laughed and welcomed everyone warmly.（その陽気な老人は笑ってみんなを温かく迎えた）", "A": "jovial", "B": "jealous", "C": "jaded", "D": "jumbo", "correct": "A" },
+      { "q": "jovial の語源となった星は？", "A": "木星", "B": "火星", "C": "金星", "D": "土星", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jut",
+    "pron": "dʒʌt",
+    "kana": "ジャット",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "jet（突き出る）の変形",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR B2", "動作"],
+    "meaning_main": "突き出る／張り出す",
+    "description": "jut は「突き出る・張り出す」を表す動詞。がけや岬、あごなどが周りから前や外へ突き出ている様子を表します。ふつう jut out の形で使われます。jet（噴射・突き出る）が変化してできた語です。",
+    "keywords": ["jut 意味", "jut 発音", "jut 突き出る", "jut out", "jut 例文"],
+    "meanings": [
+      { "hinshi": "【動】突き出る・張り出す", "note": "周りから前や外へ出っ張る。ふつう jut out。" }
+    ],
+    "usages": [
+      { "title": "① 突き出る (jut out)", "desc": "out を伴うことが多い。", "example_en": "The cliff juts out over the sea.", "example_ja": "そのがけは海の上に突き出ている。" },
+      { "title": "② 張り出す", "desc": "外へ出っ張る。", "example_en": "A balcony juts out from the wall.", "example_ja": "バルコニーが壁から張り出している。" },
+      { "title": "③ あごが出る", "desc": "体の部分にも。", "example_en": "His chin juts out sharply.", "example_ja": "彼のあごは鋭く突き出ている。" }
+    ],
+    "warn": ["過去形・-ing 形は t を重ねる: jutted, jutting。", "ふつう jut out の形で使う。「突き出る」の自動詞。"],
+    "etym_note": "jet（勢いよく出る・突き出る）が変化してできた語です。「前や外へ突き出る」動作を表します。",
+    "etym_chain": [
+      { "node": "jet", "sub": "突き出る", "era": "近代英語" },
+      { "node": "jut", "sub": "突き出る", "era": "16世紀英語" },
+      { "node": "jut", "sub": "突き出る・張り出す", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "jut out", "ja": "突き出る" },
+      { "en": "jut out over", "ja": "〜の上に張り出す" },
+      { "en": "a jutting cliff", "ja": "突き出たがけ" },
+      { "en": "jut into", "ja": "〜に突き出る" },
+      { "en": "a jutting chin", "ja": "突き出たあご" },
+      { "en": "jut forward", "ja": "前に突き出る" }
+    ],
+    "related": [
+      { "en": "stick out", "ja": "突き出る" },
+      { "en": "project", "ja": "突き出る・投影する" },
+      { "en": "protrude", "ja": "突出する" },
+      { "en": "extend", "ja": "伸びる・張り出す" }
+    ],
+    "faq": [
+      { "q": "jut とはどんな意味ですか？", "a": "がけや岬、バルコニー、あごなどが周りから前や外へ「突き出る・張り出す」ことです。ふつう jut out の形で使います。" },
+      { "q": "jut と jet は関係がありますか？", "a": "はい。jut は jet（勢いよく出る・突き出る）が変化してできた語で、同じ語源を持ちます。" }
+    ],
+    "quiz": [
+      { "q": "The rocky point ___ out into the ocean.（岩の岬が海に突き出ている）", "A": "juts", "B": "jams", "C": "jogs", "D": "jumps", "correct": "A" },
+      { "q": "jut はふつうどの語と一緒に使う？", "A": "out", "B": "up", "C": "in", "D": "off", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jetty",
+    "pron": "ˈdʒeti",
+    "kana": "ジェティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 jetee（突き出たもの)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR B1", "海・建造物"],
+    "meaning_main": "桟橋／防波堤",
+    "description": "jetty は「桟橋・防波堤」を表す名詞。海や川に突き出して造られた構造物で、船を着けたり、波から港を守ったりするために使われます。jut（突き出る）や jet と同じく「突き出る」を意味する語源から来ています。",
+    "keywords": ["jetty 意味", "jetty 発音", "jetty 桟橋", "jetty 防波堤", "jetty 例文"],
+    "meanings": [
+      { "hinshi": "【名】桟橋", "note": "船を着けるために水に突き出した構造物。" },
+      { "hinshi": "【名】防波堤", "note": "波から港を守るための突堤。" }
+    ],
+    "usages": [
+      { "title": "① 桟橋", "desc": "船を着ける場所。", "example_en": "The boat was tied to the jetty.", "example_ja": "ボートは桟橋につながれていた。" },
+      { "title": "② 防波堤", "desc": "波を防ぐ。", "example_en": "The jetty protects the harbor from waves.", "example_ja": "その防波堤は港を波から守っている。" },
+      { "title": "③ 桟橋を歩く", "desc": "水辺の構造物。", "example_en": "We walked along the wooden jetty.", "example_ja": "私たちは木の桟橋を歩いた。" }
+    ],
+    "warn": ["発音は /ˈdʒeti/。海や川に突き出した構造物を指す。", "pier（桟橋）と近いが、jetty はより小さい桟橋や防波堤も指す。"],
+    "etym_note": "古フランス語 jetee（jeter＝投げる・突き出す、から＝突き出たもの）に由来します。jet（噴射）や jut（突き出る）と同じ語源で、「水に突き出した構造物」を意味します。",
+    "etym_chain": [
+      { "node": "jetee", "sub": "突き出たもの", "era": "古フランス語" },
+      { "node": "jetty", "sub": "桟橋", "era": "中英語" },
+      { "node": "jetty", "sub": "桟橋・防波堤", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a wooden jetty", "ja": "木の桟橋" },
+      { "en": "tie up at the jetty", "ja": "桟橋に船をつなぐ" },
+      { "en": "walk along the jetty", "ja": "桟橋を歩く" },
+      { "en": "a stone jetty", "ja": "石の防波堤" },
+      { "en": "the end of the jetty", "ja": "桟橋の先端" },
+      { "en": "a fishing jetty", "ja": "釣り用の桟橋" }
+    ],
+    "related": [
+      { "en": "pier", "ja": "桟橋" },
+      { "en": "dock", "ja": "波止場・ドック" },
+      { "en": "harbor", "ja": "港" },
+      { "en": "wharf", "ja": "埠頭" }
+    ],
+    "faq": [
+      { "q": "jetty とは何ですか？", "a": "海や川に突き出して造られた構造物で、船を着ける「桟橋」や、波から港を守る「防波堤」を指します。" },
+      { "q": "jetty と pier の違いは？", "a": "どちらも水に突き出た構造物ですが、pier は主に船着き場・遊歩用の桟橋、jetty はより小さな桟橋や、波を防ぐ防波堤も指します。" }
+    ],
+    "quiz": [
+      { "q": "The small boat was moored to the wooden ___.（小舟は木の桟橋につながれていた）", "A": "jetty", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jetty の役割は？", "A": "船を着ける・波を防ぐ", "B": "空を飛ぶ", "C": "料理する", "D": "音を出す", "correct": "A" }
+    ]
+  },
+  {
+    "english": "juncture",
+    "pron": "ˈdʒʌŋktʃər",
+    "kana": "ジャンクチャー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 junctura（接合)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "頻出語"],
+    "meaning_main": "(重大な)時点／局面／接合点",
+    "description": "juncture は「(重大な)時点・局面」を表す名詞。物事が大きく分かれるような重要な時期や状況を指します。at this juncture（この重大な時点で）という決まった表現で特に使われます。もとは「接合点・つなぎ目」を意味する、join と同じ語源の語です。",
+    "keywords": ["juncture 意味", "juncture 発音", "juncture 局面", "at this juncture", "juncture 例文"],
+    "meanings": [
+      { "hinshi": "【名】(重大な)時点・局面", "note": "物事が分かれる重要な時期。" },
+      { "hinshi": "【名】接合点・つなぎ目", "note": "物と物が結びつく点。" }
+    ],
+    "usages": [
+      { "title": "① at this juncture（この重大な時点で）", "desc": "かたい決まり文句。", "example_en": "At this juncture, we must make a decision.", "example_ja": "この重大な局面で、決断せねばならない。" },
+      { "title": "② 重要な局面", "desc": "分かれ道。", "example_en": "The country was at a critical juncture.", "example_ja": "その国は重大な岐路に立っていた。" },
+      { "title": "③ 接合点（本来の意味）", "desc": "つなぎ目。", "example_en": "The pipes meet at this juncture.", "example_ja": "パイプはこの接合点で合わさる。" }
+    ],
+    "warn": ["かたい語。at this juncture（この重大な時点で）の形で特に使う。", "join / joint / junction と同じ語源。"],
+    "etym_note": "ラテン語 junctura（jungere＝つなぐ、から＝接合・つなぎ目）に由来します。join（つなぐ）や joint（関節）、junction（連結点）と同じ語源で、「物事が結びつく重要な点・時点」を表します。",
+    "etym_chain": [
+      { "node": "junctura", "sub": "接合", "era": "ラテン語" },
+      { "node": "juncture", "sub": "接合点", "era": "中英語" },
+      { "node": "juncture", "sub": "局面・時点", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "at this juncture", "ja": "この重大な時点で" },
+      { "en": "a critical juncture", "ja": "重大な局面" },
+      { "en": "at a crucial juncture", "ja": "重要な岐路で" },
+      { "en": "an important juncture", "ja": "大切な局面" },
+      { "en": "at that juncture", "ja": "その時点で" },
+      { "en": "a turning juncture", "ja": "転換点" }
+    ],
+    "related": [
+      { "en": "moment", "ja": "瞬間・時点" },
+      { "en": "point", "ja": "点・時点" },
+      { "en": "stage", "ja": "段階" },
+      { "en": "junction", "ja": "連結点・交差点" }
+    ],
+    "faq": [
+      { "q": "juncture とはどんな意味ですか？", "a": "物事が大きく分かれるような「重要な時点・局面」を指すかたい語です。at this juncture（この重大な時点で）の形でよく使われます。" },
+      { "q": "juncture と junction の違いは？", "a": "どちらも「つなぎ目」が語源ですが、juncture は主に「重要な時点・局面」、junction は道路や線路の「交差点・連結点」を指します。" }
+    ],
+    "quiz": [
+      { "q": "At this critical ___, the team had to decide their strategy.（この重大な局面で、チームは戦略を決めねばならなかった）", "A": "juncture", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "juncture と同じ語源の語は？", "A": "join（つなぐ）", "B": "juice（ジュース）", "C": "jungle（密林）", "D": "jacket（上着）", "correct": "A" }
+    ]
+  }
+]
