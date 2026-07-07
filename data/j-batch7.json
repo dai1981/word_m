@@ -1,0 +1,503 @@
+[
+  {
+    "english": "jamboree",
+    "pron": "ˌdʒæmbəˈriː",
+    "kana": "ジャンボリー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "英語 jamboree（起源不明の造語)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR B2", "行事"],
+    "meaning_main": "お祭り騒ぎ／にぎやかな大集会／(ボーイスカウトの)大会",
+    "description": "jamboree は「にぎやかな大集会・お祭り騒ぎ」を表す名詞。多くの人が集まってにぎやかに楽しむ催しを指します。特にボーイスカウトの大規模な集会（ジャンボリー）でよく使われる語です。",
+    "keywords": ["jamboree 意味", "jamboree 発音", "ジャンボリー", "jamboree スカウト", "jamboree 例文"],
+    "meanings": [
+      { "hinshi": "【名】にぎやかな大集会・お祭り騒ぎ", "note": "多くの人が集まる楽しい催し。" },
+      { "hinshi": "【名】(ボーイスカウトの)大会", "note": "スカウトの大規模な集会。" }
+    ],
+    "usages": [
+      { "title": "① にぎやかな催し", "desc": "お祭り騒ぎ。", "example_en": "The festival was a real jamboree.", "example_ja": "その祭りはまさにお祭り騒ぎだった。" },
+      { "title": "② スカウトの大会", "desc": "世界的な集まり。", "example_en": "Scouts from many countries gathered at the jamboree.", "example_ja": "多くの国のスカウトがジャンボリーに集まった。" },
+      { "title": "③ 大規模なイベント", "desc": "にぎやかな集まり。", "example_en": "The town held a music jamboree.", "example_ja": "町は音楽の大集会を開いた。" }
+    ],
+    "warn": ["発音は /ˌdʒæmbəˈriː/。最後を強く読む。", "ボーイスカウトの大会の意味で特に有名。"],
+    "etym_note": "19世紀のアメリカ英語で生まれた語で、はっきりした語源はわかっていません。jabber（早口でしゃべる）などとの連想が指摘されています。にぎやかな集まりを指す語として定着しました。",
+    "etym_chain": [
+      { "node": "jamboree", "sub": "にぎやかな集会(起源不明)", "era": "19世紀アメリカ英語" },
+      { "node": "jamboree", "sub": "お祭り騒ぎ・大集会", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a scout jamboree", "ja": "スカウトの大会" },
+      { "en": "a music jamboree", "ja": "音楽の大集会" },
+      { "en": "hold a jamboree", "ja": "大集会を開く" },
+      { "en": "a big jamboree", "ja": "大がかりなお祭り騒ぎ" },
+      { "en": "a world jamboree", "ja": "世界大会" },
+      { "en": "a family jamboree", "ja": "一家総出の集まり" }
+    ],
+    "related": [
+      { "en": "festival", "ja": "祭り" },
+      { "en": "gathering", "ja": "集まり" },
+      { "en": "celebration", "ja": "祝典" },
+      { "en": "party", "ja": "パーティー" }
+    ],
+    "faq": [
+      { "q": "jamboree とは何ですか？", "a": "多くの人が集まってにぎやかに楽しむ「大集会・お祭り騒ぎ」です。特にボーイスカウトの大規模な集会（ジャンボリー）でよく使われます。" },
+      { "q": "jamboree の語源は？", "a": "19世紀のアメリカ英語で生まれた語で、はっきりした語源はわかっていません。にぎやかな集まりを指す語として広まりました。" }
+    ],
+    "quiz": [
+      { "q": "Scouts from around the world met at the international ___.（世界中のスカウトが国際ジャンボリーに集まった）", "A": "jamboree", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jamboree の意味に近いのは？", "A": "にぎやかな大集会", "B": "静かな読書", "C": "小さな会議", "D": "一人の作業", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jaunt",
+    "pron": "dʒɔːnt",
+    "kana": "ジョーント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "16世紀英語（起源不明）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR B2", "旅行"],
+    "meaning_main": "気晴らしの小旅行／ちょっとした遠出",
+    "description": "jaunt は「気晴らしの小旅行・ちょっとした遠出」を表す名詞。楽しみのために出かける、短くて気軽な旅を指します。長い journey（旅）と違い、のんびりした小さな外出のニュアンスがあります。",
+    "keywords": ["jaunt 意味", "jaunt 発音", "jaunt 小旅行", "jaunt 遠出", "jaunt 例文"],
+    "meanings": [
+      { "hinshi": "【名】気晴らしの小旅行・ちょっとした遠出", "note": "楽しみのための短く気軽な旅。" }
+    ],
+    "usages": [
+      { "title": "① 気晴らしの小旅行", "desc": "短く気軽な旅。", "example_en": "We took a jaunt to the seaside.", "example_ja": "私たちは海辺へちょっとした遠出をした。" },
+      { "title": "② ちょっとした外出", "desc": "のんびりした遠出。", "example_en": "It was just a short jaunt into town.", "example_ja": "それはただの町へのちょっとした外出だった。" },
+      { "title": "③ go on a jaunt", "desc": "小旅行に出かける。", "example_en": "They went on a weekend jaunt.", "example_ja": "彼らは週末の小旅行に出かけた。" }
+    ],
+    "warn": ["楽しみのための短く気軽な旅を指す。長い旅は journey。", "発音は /dʒɔːnt/。"],
+    "etym_note": "16世紀に現れた語で、はっきりした語源はわかっていません。もとは「疲れるほど動き回る」の意味もありましたが、後に「気晴らしの小旅行」の意味に落ち着きました。",
+    "etym_chain": [
+      { "node": "jaunt", "sub": "動き回る(起源不明)", "era": "16世紀英語" },
+      { "node": "jaunt", "sub": "小旅行", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "go on a jaunt", "ja": "小旅行に出かける" },
+      { "en": "a weekend jaunt", "ja": "週末の小旅行" },
+      { "en": "a short jaunt", "ja": "ちょっとした遠出" },
+      { "en": "a jaunt to the coast", "ja": "海岸への小旅行" },
+      { "en": "a little jaunt", "ja": "気軽な遠出" },
+      { "en": "a day's jaunt", "ja": "日帰りの小旅行" }
+    ],
+    "related": [
+      { "en": "trip", "ja": "旅行" },
+      { "en": "excursion", "ja": "遠足・小旅行" },
+      { "en": "outing", "ja": "外出・遠足" },
+      { "en": "journey", "ja": "旅" }
+    ],
+    "faq": [
+      { "q": "jaunt とはどんな旅ですか？", "a": "楽しみのために出かける、短くて気軽な「小旅行・ちょっとした遠出」です。長い journey とは違い、のんびりした小さな外出のニュアンスがあります。" },
+      { "q": "jaunt と journey の違いは？", "a": "journey は長い距離の本格的な「旅」、jaunt は気晴らしの短く気軽な「小旅行」を指します。" }
+    ],
+    "quiz": [
+      { "q": "We took a little ___ to the countryside on Sunday.（日曜に田舎へちょっとした小旅行をした）", "A": "jaunt", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jaunt の意味に近いのは？", "A": "気軽な小旅行", "B": "長期の移住", "C": "つらい労働", "D": "会議", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jaunty",
+    "pron": "ˈdʒɔːnti",
+    "kana": "ジョーンティ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "フランス語 gentil（上品な・優雅な)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR B2", "様子"],
+    "meaning_main": "元気で軽快な／陽気で自信ありげな",
+    "description": "jaunty は「元気で軽快な・陽気で自信ありげな」を表す形容詞。足取りや態度、身なりなどが、明るく生き生きとしていて自信に満ちている様子を表します。a jaunty walk（軽快な足取り）のように使われます。",
+    "keywords": ["jaunty 意味", "jaunty 発音", "jaunty 軽快な", "jaunty 陽気な", "jaunty 例文"],
+    "meanings": [
+      { "hinshi": "【形】元気で軽快な・陽気で自信ありげな", "note": "生き生きとして自信に満ちた様子。" }
+    ],
+    "usages": [
+      { "title": "① 軽快な（足取り）", "desc": "生き生きとした。", "example_en": "He walked with a jaunty step.", "example_ja": "彼は軽快な足取りで歩いた。" },
+      { "title": "② 陽気で自信ありげな", "desc": "明るい態度。", "example_en": "She wore her hat at a jaunty angle.", "example_ja": "彼女は帽子を粋な角度でかぶっていた。" },
+      { "title": "③ 生き生きとした雰囲気", "desc": "はつらつとした。", "example_en": "The song has a jaunty tune.", "example_ja": "その歌は軽快な曲調だ。" }
+    ],
+    "warn": ["発音は /ˈdʒɔːnti/。明るく自信に満ちた軽快さを表す。", "jaunt（小旅行）と綴りは似るが意味は別。"],
+    "etym_note": "フランス語 gentil（上品な・優雅な）に由来します。もとは「上品な」の意味でしたが、「粋で自信ありげな・軽快な」という意味に発展しました。gentle（穏やかな）とも同語源です。",
+    "etym_chain": [
+      { "node": "gentil", "sub": "上品な", "era": "フランス語" },
+      { "node": "jaunty", "sub": "粋な・軽快な", "era": "17世紀英語" },
+      { "node": "jaunty", "sub": "元気で軽快な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a jaunty step", "ja": "軽快な足取り" },
+      { "en": "a jaunty angle", "ja": "粋な角度" },
+      { "en": "a jaunty tune", "ja": "軽快な曲調" },
+      { "en": "in a jaunty manner", "ja": "陽気で自信ありげに" },
+      { "en": "a jaunty smile", "ja": "はつらつとした笑顔" },
+      { "en": "walk jauntily", "ja": "軽快に歩く" }
+    ],
+    "related": [
+      { "en": "lively", "ja": "生き生きとした" },
+      { "en": "cheerful", "ja": "快活な" },
+      { "en": "sprightly", "ja": "きびきびした" },
+      { "en": "confident", "ja": "自信のある" }
+    ],
+    "faq": [
+      { "q": "jaunty とはどんな様子を表しますか？", "a": "足取りや態度、身なりが、明るく生き生きとしていて自信に満ちている「元気で軽快な・粋な」様子を表します。" },
+      { "q": "jaunty と jaunt は関係がありますか？", "a": "綴りは似ていますが、意味は別です。jaunty は「軽快な」（形容詞）、jaunt は「小旅行」（名詞）で、語源も異なります。" }
+    ],
+    "quiz": [
+      { "q": "He set off with a ___ spring in his step.（彼は軽快な足取りで出発した）", "A": "jaunty", "B": "jealous", "C": "jaded", "D": "jumbo", "correct": "A" },
+      { "q": "jaunty の意味に近いのは？", "A": "元気で軽快な", "B": "疲れきった", "C": "怒った", "D": "退屈な", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jester",
+    "pron": "ˈdʒestər",
+    "kana": "ジェスター",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "jest（冗談）＋ -er（人)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR B2", "歴史・文化"],
+    "meaning_main": "道化師／(宮廷の)お抱え道化",
+    "description": "jester は「道化師」を表す名詞。中世ヨーロッパの王や貴族に仕え、冗談や芸で人々を楽しませたお抱えの芸人を指します。派手な衣装と鈴のついた帽子が特徴で、時には王をからかうことも許されました。jest（冗談）＋ -er でできています。",
+    "keywords": ["jester 意味", "jester 発音", "jester 道化師", "court jester", "jester 例文"],
+    "meanings": [
+      { "hinshi": "【名】道化師・お抱え道化", "note": "中世の王侯に仕え冗談や芸で楽しませた芸人。" }
+    ],
+    "usages": [
+      { "title": "① 道化師", "desc": "宮廷の芸人。", "example_en": "The court jester made the king laugh.", "example_ja": "宮廷の道化師は王を笑わせた。" },
+      { "title": "② 派手な衣装", "desc": "鈴つきの帽子。", "example_en": "The jester wore a colorful costume.", "example_ja": "道化師は色鮮やかな衣装を着ていた。" },
+      { "title": "③ 王をからかう役", "desc": "時に本音を言う。", "example_en": "A jester could mock the king freely.", "example_ja": "道化師は王を自由にからかうことができた。" }
+    ],
+    "warn": ["jest（冗談）＋ -er（人）でできた語。中世の宮廷道化を指す。", "clown（サーカスの道化）とは時代・場が違う。"],
+    "etym_note": "jest（冗談・たわむれ）に、「〜する人」を表す接尾辞 -er が付いた語です。「冗談を言う人＝道化師」を意味します。もとは「物語を語る人」の意味もありました。",
+    "etym_chain": [
+      { "node": "jest + -er", "sub": "冗談＋人", "era": "中英語" },
+      { "node": "jester", "sub": "道化師", "era": "近代英語" },
+      { "node": "jester", "sub": "道化師", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a court jester", "ja": "宮廷の道化師" },
+      { "en": "the king's jester", "ja": "王お抱えの道化" },
+      { "en": "a jester's hat", "ja": "道化師の帽子" },
+      { "en": "play the jester", "ja": "道化を演じる" },
+      { "en": "a medieval jester", "ja": "中世の道化師" },
+      { "en": "a jester's costume", "ja": "道化師の衣装" }
+    ],
+    "related": [
+      { "en": "jest", "ja": "冗談" },
+      { "en": "clown", "ja": "道化・ピエロ" },
+      { "en": "fool", "ja": "道化・愚か者" },
+      { "en": "comedian", "ja": "喜劇役者" }
+    ],
+    "faq": [
+      { "q": "jester とはどんな人ですか？", "a": "中世ヨーロッパの王や貴族に仕え、冗談や芸で人々を楽しませたお抱えの芸人「道化師」です。派手な衣装と鈴つきの帽子が特徴で、時には王をからかうことも許されました。" },
+      { "q": "jester と clown の違いは？", "a": "jester は中世の宮廷に仕えた道化師、clown はサーカスなどで芸をする現代の道化・ピエロを指します。時代や場が異なります。" }
+    ],
+    "quiz": [
+      { "q": "The court ___ entertained the king with jokes and tricks.（宮廷の道化師は冗談と芸で王を楽しませた）", "A": "jester", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jester は jest ＋ ___ の語。空所は？", "A": "-er", "B": "-ness", "C": "-ly", "D": "-ful", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jettison",
+    "pron": "ˈdʒetɪsən",
+    "kana": "ジェティソン",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 jactare（投げる)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "頻出語"],
+    "meaning_main": "(船・機から)投げ捨てる／(計画などを)捨て去る",
+    "description": "jettison は「(船や飛行機から荷物を)投げ捨てる」を表す動詞。もとは危険を避けるため船外へ荷を捨てることを指しました。比喩的に「(不要になった計画・考えなどを)捨て去る・放棄する」の意味でよく使われます。jet（投げる）と同じ語源です。",
+    "keywords": ["jettison 意味", "jettison 発音", "jettison 投げ捨てる", "jettison 放棄", "jettison 例文"],
+    "meanings": [
+      { "hinshi": "【動】(船・機から)投げ捨てる", "note": "危険を避けるため荷を捨てる。" },
+      { "hinshi": "【動】(計画などを)捨て去る・放棄する", "note": "比喩的に不要なものを手放す。" }
+    ],
+    "usages": [
+      { "title": "① 投げ捨てる（船・機）", "desc": "荷を捨てる。", "example_en": "The crew jettisoned the cargo to save the ship.", "example_ja": "乗組員は船を救うため積荷を投げ捨てた。" },
+      { "title": "② 計画を捨て去る（比喩）", "desc": "放棄する。", "example_en": "They jettisoned the old plan.", "example_ja": "彼らは古い計画を捨て去った。" },
+      { "title": "③ 不要なものを手放す", "desc": "切り捨てる。", "example_en": "The company jettisoned unprofitable products.", "example_ja": "その会社はもうからない製品を切り捨てた。" }
+    ],
+    "warn": ["かたい語。物理的な「投げ捨てる」と、比喩の「放棄する」の両方に使う。", "jet（投げる）と同じ語源。"],
+    "etym_note": "ラテン語 jactare（投げる）に由来し、古フランス語 getaison（船から荷を投げること）を経て英語に入りました。jet（噴射・投げる）や jetty（桟橋）と同じ語源です。",
+    "etym_chain": [
+      { "node": "jactare", "sub": "投げる", "era": "ラテン語" },
+      { "node": "getaison", "sub": "荷を投げること", "era": "古フランス語" },
+      { "node": "jettison", "sub": "投げ捨てる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "jettison the cargo", "ja": "積荷を投げ捨てる" },
+      { "en": "jettison a plan", "ja": "計画を捨てる" },
+      { "en": "jettison fuel", "ja": "燃料を投棄する" },
+      { "en": "jettison the idea", "ja": "その考えを捨て去る" },
+      { "en": "be jettisoned", "ja": "捨て去られる" },
+      { "en": "jettison excess weight", "ja": "余分な重量を捨てる" }
+    ],
+    "related": [
+      { "en": "discard", "ja": "捨てる" },
+      { "en": "abandon", "ja": "放棄する" },
+      { "en": "dump", "ja": "投棄する" },
+      { "en": "throw out", "ja": "投げ捨てる" }
+    ],
+    "faq": [
+      { "q": "jettison とはどんな意味ですか？", "a": "もとは船や飛行機から荷物を「投げ捨てる」ことです。比喩的に「(不要になった計画や考えを)捨て去る・放棄する」の意味でもよく使われます。" },
+      { "q": "jettison と jet は関係がありますか？", "a": "はい。どちらもラテン語 jactare（投げる）に由来する同語源の語です。jetty（桟橋）も同じ語源です。" }
+    ],
+    "quiz": [
+      { "q": "The company decided to ___ its outdated strategy.（その会社は時代遅れの戦略を捨て去ることにした）", "A": "jettison", "B": "jam", "C": "jog", "D": "jump", "correct": "A" },
+      { "q": "jettison のもとの意味は？", "A": "船・機から投げ捨てる", "B": "組み立てる", "C": "集める", "D": "描く", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jitters",
+    "pron": "ˈdʒɪtərz",
+    "kana": "ジターズ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "英語 jitter（小刻みに震える)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR B2", "感情・口語"],
+    "meaning_main": "(緊張による)そわそわ／神経過敏／びくびく",
+    "description": "jitters は「(緊張や不安による)そわそわ・神経過敏」を表す名詞。大事な出来事の前などに落ち着かず、そわそわ・びくびくする状態を指します。常に複数形で使い、the jitters / have the jitters の形が一般的です。",
+    "keywords": ["jitters 意味", "jitters 発音", "jitters 緊張", "have the jitters", "jitters 例文"],
+    "meanings": [
+      { "hinshi": "【名】そわそわ・神経過敏・びくびく", "note": "緊張や不安で落ち着かない状態。常に複数形。" }
+    ],
+    "usages": [
+      { "title": "① そわそわ (have the jitters)", "desc": "緊張して落ち着かない。", "example_en": "She had the jitters before the exam.", "example_ja": "彼女は試験前にそわそわしていた。" },
+      { "title": "② 神経過敏", "desc": "びくびくする。", "example_en": "Too much coffee gives me the jitters.", "example_ja": "コーヒーの飲みすぎで神経が高ぶる。" },
+      { "title": "③ 本番前の緊張", "desc": "pre-game jitters など。", "example_en": "He felt the first-night jitters.", "example_ja": "彼は初日の緊張を感じた。" }
+    ],
+    "warn": ["常に複数形 jitters。the jitters / have the jitters の形で使う。", "動詞・形容詞は jitter / jittery（神経質な）。"],
+    "etym_note": "「小刻みに震える・そわそわする」を意味する動詞 jitter に由来する語です。20世紀のアメリカ英語で「緊張による神経過敏」を表すようになりました。",
+    "etym_chain": [
+      { "node": "jitter", "sub": "小刻みに震える", "era": "20世紀アメリカ英語" },
+      { "node": "jitters", "sub": "そわそわ・神経過敏", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "have the jitters", "ja": "そわそわする" },
+      { "en": "get the jitters", "ja": "緊張してくる" },
+      { "en": "pre-game jitters", "ja": "試合前の緊張" },
+      { "en": "first-night jitters", "ja": "初日の緊張" },
+      { "en": "a case of the jitters", "ja": "神経過敏の状態" },
+      { "en": "give someone the jitters", "ja": "〜を落ち着かなくさせる" }
+    ],
+    "related": [
+      { "en": "nerves", "ja": "神経・緊張" },
+      { "en": "anxiety", "ja": "不安" },
+      { "en": "jittery", "ja": "神経質な・そわそわした" },
+      { "en": "nervousness", "ja": "神経質・緊張" }
+    ],
+    "faq": [
+      { "q": "have the jitters とはどんな意味ですか？", "a": "「(緊張や不安で)そわそわする・落ち着かない・びくびくする」という意味の口語表現です。試験や本番の前などによく使います。" },
+      { "q": "jitters はいつも複数形ですか？", "a": "はい。この意味では常に複数形 jitters で使い、the jitters / have the jitters の形が一般的です。" }
+    ],
+    "quiz": [
+      { "q": "I always get the ___ before speaking in public.（人前で話す前はいつも緊張してそわそわする）", "A": "jitters", "B": "jams", "C": "jars", "D": "jaws", "correct": "A" },
+      { "q": "jitters が表すのは？", "A": "緊張によるそわそわ", "B": "深い眠り", "C": "強い怒り", "D": "満足感", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jostle",
+    "pron": "ˈdʒɒsl",
+    "kana": "ジョスル",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "joust（馬上槍試合をする）より",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR B2", "動作"],
+    "meaning_main": "(人ごみで)押し合う／突き飛ばす／competeする",
+    "description": "jostle は「(人ごみで)押し合う・突き飛ばす」を表す動詞。混雑した場所で、人々が体をぶつけ合いながら押し合いへし合いする様子を表します。比喩的に「(地位などを求めて)競い合う」の意味でも使われます。",
+    "keywords": ["jostle 意味", "jostle 発音", "jostle 押し合う", "jostle 競う", "jostle 例文"],
+    "meanings": [
+      { "hinshi": "【動】(人ごみで)押し合う・突き飛ばす", "note": "混雑の中で体をぶつけ合う。" },
+      { "hinshi": "【動】(地位などを求めて)競い合う", "note": "jostle for ~。" }
+    ],
+    "usages": [
+      { "title": "① 押し合う（人ごみ）", "desc": "体をぶつけ合う。", "example_en": "People jostled in the crowded market.", "example_ja": "混雑した市場で人々は押し合った。" },
+      { "title": "② 突き飛ばす", "desc": "ぶつかって押す。", "example_en": "Someone jostled me on the train.", "example_ja": "電車で誰かが私を押しのけた。" },
+      { "title": "③ jostle for ~（〜を求めて競う）", "desc": "地位などを争う。", "example_en": "Candidates jostled for position.", "example_ja": "候補者たちは地位を求めて競い合った。" }
+    ],
+    "warn": ["発音は /ˈdʒɒsl/（t は発音しないことが多い）。", "「〜を求めて競う」は jostle for ~。"],
+    "etym_note": "joust（中世の馬上槍試合をする）に由来し、その反復形として「ぶつかり合う・押し合う」の意味になりました。もとは騎士どうしがぶつかり合う様子を表しました。",
+    "etym_chain": [
+      { "node": "joust", "sub": "馬上槍試合", "era": "中英語" },
+      { "node": "justle", "sub": "ぶつかり合う", "era": "近代英語" },
+      { "node": "jostle", "sub": "押し合う", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "jostle for position", "ja": "地位を求めて競う" },
+      { "en": "jostle in the crowd", "ja": "人ごみで押し合う" },
+      { "en": "jostle each other", "ja": "互いに押し合う" },
+      { "en": "jostle through", "ja": "押し分けて進む" },
+      { "en": "jostle for space", "ja": "場所を取り合う" },
+      { "en": "be jostled", "ja": "押しのけられる" }
+    ],
+    "related": [
+      { "en": "push", "ja": "押す" },
+      { "en": "shove", "ja": "ぐいと押す" },
+      { "en": "elbow", "ja": "ひじで押しのける" },
+      { "en": "compete", "ja": "競う" }
+    ],
+    "faq": [
+      { "q": "jostle とはどんな意味ですか？", "a": "混雑した場所で、人々が体をぶつけ合いながら「押し合う・突き飛ばす」ことです。比喩的に「(地位などを求めて)競い合う」の意味でも使います。" },
+      { "q": "「〜を求めて競う」の形は？", "a": "jostle for ~ です。jostle for position（地位を争う）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "Shoppers ___ each other during the big sale.（大セール中、買い物客は互いに押し合った）", "A": "jostled", "B": "jammed", "C": "jogged", "D": "jumped", "correct": "A" },
+      { "q": "jostle の意味に近いのは？", "A": "押し合う", "B": "静かに座る", "C": "きれいに並ぶ", "D": "眠る", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jubilant",
+    "pron": "ˈdʒuːbɪlənt",
+    "kana": "ジュビラント",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 jubilare（歓声をあげる)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "感情"],
+    "meaning_main": "歓喜に沸く／大喜びの／勝ち誇った",
+    "description": "jubilant は「歓喜に沸く・大喜びの」を表す形容詞。勝利や成功など、大きな喜びで胸がいっぱいになり、はしゃぐような様子を表します。特にみんなで喜びを分かち合うような場面で使われる、強い喜びを表す語です。",
+    "keywords": ["jubilant 意味", "jubilant 発音", "jubilant 歓喜", "jubilant 大喜び", "jubilant 例文"],
+    "meanings": [
+      { "hinshi": "【形】歓喜に沸く・大喜びの・勝ち誇った", "note": "大きな喜びではしゃぐようす。" }
+    ],
+    "usages": [
+      { "title": "① 歓喜に沸く", "desc": "大喜びする。", "example_en": "The fans were jubilant after the win.", "example_ja": "ファンは勝利の後、歓喜に沸いた。" },
+      { "title": "② 大喜びの様子", "desc": "喜びに満ちて。", "example_en": "She gave a jubilant shout.", "example_ja": "彼女は歓喜の声をあげた。" },
+      { "title": "③ 勝ち誇った雰囲気", "desc": "祝福ムード。", "example_en": "There was a jubilant mood in the crowd.", "example_ja": "群衆には歓喜の雰囲気があった。" }
+    ],
+    "warn": ["happy より強い、はしゃぐような大きな喜びを表す。", "名詞は jubilation（歓喜）。jubilee（記念祭）と同語源。"],
+    "etym_note": "ラテン語 jubilare（歓声をあげる・喜び叫ぶ）に由来します。jubilee（記念祭）と同じ語根を持ち、大きな喜びを表す語です。",
+    "etym_chain": [
+      { "node": "jubilare", "sub": "歓声をあげる", "era": "ラテン語" },
+      { "node": "jubilant", "sub": "歓喜する", "era": "近代英語" },
+      { "node": "jubilant", "sub": "歓喜に沸く", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a jubilant crowd", "ja": "歓喜に沸く群衆" },
+      { "en": "a jubilant mood", "ja": "歓喜の雰囲気" },
+      { "en": "jubilant fans", "ja": "大喜びのファン" },
+      { "en": "a jubilant celebration", "ja": "歓喜の祝賀" },
+      { "en": "feel jubilant", "ja": "大喜びする" },
+      { "en": "a jubilant shout", "ja": "歓喜の叫び" }
+    ],
+    "related": [
+      { "en": "joyful", "ja": "喜びに満ちた" },
+      { "en": "elated", "ja": "大喜びの・有頂天の" },
+      { "en": "triumphant", "ja": "勝ち誇った" },
+      { "en": "ecstatic", "ja": "有頂天の" }
+    ],
+    "faq": [
+      { "q": "jubilant とはどんな様子ですか？", "a": "勝利や成功など、大きな喜びで胸がいっぱいになり、はしゃぐような様子を表します。happy より強い、みんなで喜びを分かち合うような場面で使われます。" },
+      { "q": "jubilant の名詞形は？", "a": "jubilation（歓喜・歓声）です。jubilee（記念祭）とも同じ語源を持ちます。" }
+    ],
+    "quiz": [
+      { "q": "The team was ___ after winning the championship.（チームは優勝して歓喜に沸いた）", "A": "jubilant", "B": "jaded", "C": "jealous", "D": "jumbo", "correct": "A" },
+      { "q": "jubilant の意味に近いのは？", "A": "歓喜に沸く", "B": "悲しむ", "C": "退屈する", "D": "怒る", "correct": "A" }
+    ]
+  },
+  {
+    "english": "judicious",
+    "pron": "dʒuˈdɪʃəs",
+    "kana": "ジュディシャス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 judicium（判断)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "頻出語"],
+    "meaning_main": "思慮深い／賢明な／分別のある",
+    "description": "judicious は「思慮深い・賢明な」を表す形容詞。物事をよく考え、正しい判断を下せる様子を表します。judge（判断する）や judgment（判断）と同じ語源です。judicial（司法の）とは意味が異なるので注意が必要です。",
+    "keywords": ["judicious 意味", "judicious 発音", "judicious 賢明", "judicious 思慮深い", "judicious 例文"],
+    "meanings": [
+      { "hinshi": "【形】思慮深い・賢明な・分別のある", "note": "よく考えて正しい判断ができる。" }
+    ],
+    "usages": [
+      { "title": "① 賢明な・思慮深い", "desc": "よい判断力。", "example_en": "She made a judicious decision.", "example_ja": "彼女は賢明な決断を下した。" },
+      { "title": "② 分別のある使い方", "desc": "適切に使う。", "example_en": "Judicious use of money is important.", "example_ja": "お金の賢明な使い方が大切だ。" },
+      { "title": "③ 慎重な選択", "desc": "よく考えた選択。", "example_en": "A judicious choice of words is key.", "example_ja": "言葉の慎重な選択が肝心だ。" }
+    ],
+    "warn": ["judicial（司法の・裁判の）と混同しないよう注意。judicious は「賢明な」。", "judge / judgment と同じ語源。"],
+    "etym_note": "ラテン語 judicium（判断・裁き）に由来します。judge（裁く・判断する）や judgment（判断）と同じ語根を持ち、「よい判断ができる＝賢明な」という意味になりました。",
+    "etym_chain": [
+      { "node": "judicium", "sub": "判断", "era": "ラテン語" },
+      { "node": "judicious", "sub": "賢明な", "era": "16世紀英語" },
+      { "node": "judicious", "sub": "思慮深い・賢明な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a judicious decision", "ja": "賢明な決断" },
+      { "en": "judicious use of", "ja": "〜の賢明な使い方" },
+      { "en": "a judicious choice", "ja": "分別のある選択" },
+      { "en": "judicious and careful", "ja": "思慮深く慎重な" },
+      { "en": "a judicious approach", "ja": "賢明な取り組み方" },
+      { "en": "judicious spending", "ja": "賢明な支出" }
+    ],
+    "related": [
+      { "en": "wise", "ja": "賢明な" },
+      { "en": "sensible", "ja": "分別のある" },
+      { "en": "prudent", "ja": "慎重な・思慮深い" },
+      { "en": "judgment", "ja": "判断" }
+    ],
+    "faq": [
+      { "q": "judicious とはどんな意味ですか？", "a": "物事をよく考え、正しい判断を下せる「思慮深い・賢明な・分別のある」という意味です。judge（判断する）と同じ語源です。" },
+      { "q": "judicious と judicial の違いは？", "a": "judicious は「賢明な・思慮深い」、judicial は「司法の・裁判の」です。綴りが似ていますが意味が異なるので注意しましょう。" }
+    ],
+    "quiz": [
+      { "q": "It was a ___ decision to save money for the future.（将来のためにお金をためたのは賢明な決断だった）", "A": "judicious", "B": "jealous", "C": "jaded", "D": "jumbo", "correct": "A" },
+      { "q": "judicious の意味に近いのは？", "A": "思慮深い・賢明な", "B": "軽率な", "C": "怒った", "D": "眠い", "correct": "A" }
+    ]
+  },
+  {
+    "english": "juggernaut",
+    "pron": "ˈdʒʌɡərnɔːt",
+    "kana": "ジャガノート",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "サンスクリット語 Jagannātha（世界の主)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "比喩表現"],
+    "meaning_main": "止められない巨大な力／破壊的な勢い／(英)大型トラック",
+    "description": "juggernaut は「止められない巨大な力・圧倒的な勢い」を表す名詞。何ものにも止められず突き進む強大な存在を指します。インドの神の山車（だし）の名に由来します。イギリス英語では「大型トラック」の意味でも使われます。",
+    "keywords": ["juggernaut 意味", "juggernaut 発音", "juggernaut 巨大な力", "juggernaut 勢い", "juggernaut 例文"],
+    "meanings": [
+      { "hinshi": "【名】止められない巨大な力・圧倒的な勢い", "note": "何ものにも止められない強大な存在。" },
+      { "hinshi": "【名】(英)大型トラック", "note": "巨大なトラック。" }
+    ],
+    "usages": [
+      { "title": "① 止められない巨大な力", "desc": "圧倒的な勢い。", "example_en": "The company became an economic juggernaut.", "example_ja": "その会社は経済の巨大勢力になった。" },
+      { "title": "② 破壊的な勢い", "desc": "突き進む力。", "example_en": "Nothing could stop the juggernaut of change.", "example_ja": "変化の巨大な流れは何ものにも止められなかった。" },
+      { "title": "③ (英)大型トラック", "desc": "巨大なトラック。", "example_en": "A juggernaut thundered down the highway.", "example_ja": "大型トラックが轟音を立てて高速道路を走った。" }
+    ],
+    "warn": ["発音は /ˈdʒʌɡərnɔːt/。「止められない巨大な力」の比喩でよく使う。", "イギリス英語では「大型トラック」の意味もある。"],
+    "etym_note": "サンスクリット語 Jagannātha（世界の主＝ヒンドゥー教の神クリシュナの一形態）に由来します。この神の巨大な山車（だし）が、その前で人々をひき進むという伝説から、「止められない巨大な力」の意味になりました。",
+    "etym_chain": [
+      { "node": "Jagannātha", "sub": "世界の主(神)", "era": "サンスクリット語" },
+      { "node": "juggernaut", "sub": "巨大な山車", "era": "19世紀英語" },
+      { "node": "juggernaut", "sub": "止められない巨大な力", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an economic juggernaut", "ja": "経済の巨大勢力" },
+      { "en": "a marketing juggernaut", "ja": "マーケティングの巨大勢力" },
+      { "en": "an unstoppable juggernaut", "ja": "止められない巨大な力" },
+      { "en": "the juggernaut of progress", "ja": "進歩の巨大な流れ" },
+      { "en": "a corporate juggernaut", "ja": "巨大企業" },
+      { "en": "roll like a juggernaut", "ja": "巨大な力で突き進む" }
+    ],
+    "related": [
+      { "en": "force", "ja": "力・勢力" },
+      { "en": "powerhouse", "ja": "強大な存在" },
+      { "en": "unstoppable", "ja": "止められない" },
+      { "en": "giant", "ja": "巨大なもの" }
+    ],
+    "faq": [
+      { "q": "juggernaut とはどんな意味ですか？", "a": "何ものにも止められず突き進む「止められない巨大な力・圧倒的な勢い」を表します。強大な企業や運動などのたとえに使われます。" },
+      { "q": "juggernaut の語源は？", "a": "サンスクリット語 Jagannātha（世界の主＝ヒンドゥー教の神）に由来します。この神の巨大な山車が何ものも止められず進むという伝説から、この意味になりました。" }
+    ],
+    "quiz": [
+      { "q": "The tech company grew into an unstoppable ___.（そのIT企業は止められない巨大勢力に成長した）", "A": "juggernaut", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "juggernaut の語源となった言語は？", "A": "サンスクリット語", "B": "ラテン語", "C": "ギリシャ語", "D": "アラビア語", "correct": "A" }
+    ]
+  }
+]
