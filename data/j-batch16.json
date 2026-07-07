@@ -1,0 +1,501 @@
+[
+  {
+    "english": "juicy",
+    "pron": "ˈdʒuːsi",
+    "kana": "ジューシー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "juice（果汁）＋ -y",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頻出語"],
+    "meaning_main": "汁の多い／ジューシーな／(口語)興味をそそる",
+    "description": "juicy は「汁が多い・ジューシーな」を表す形容詞。果物や肉などが水分たっぷりでみずみずしいことを指します。juice（果汁）＋ -y でできています。口語では「(うわさなどが)興味をそそる・きわどい」の意味でも使われます。",
+    "keywords": ["juicy 意味", "juicy 発音", "juicy ジューシー", "juicy うわさ", "juicy 例文"],
+    "meanings": [
+      { "hinshi": "【形】汁の多い・ジューシーな", "note": "水分たっぷりでみずみずしい。" },
+      { "hinshi": "【形】(口語)興味をそそる・きわどい", "note": "juicy gossip（面白いうわさ話）。" }
+    ],
+    "usages": [
+      { "title": "① ジューシーな（食べ物）", "desc": "汁が多い。", "example_en": "This peach is sweet and juicy.", "example_ja": "この桃は甘くてジューシーだ。" },
+      { "title": "② みずみずしい", "desc": "水分たっぷり。", "example_en": "The steak was tender and juicy.", "example_ja": "そのステーキは柔らかくジューシーだった。" },
+      { "title": "③ (口語)興味をそそる", "desc": "juicy gossip。", "example_en": "She told me all the juicy details.", "example_ja": "彼女は面白い詳細を全部教えてくれた。" }
+    ],
+    "warn": ["juice（果汁）＋ -y でできた語。", "口語の「興味をそそる」は juicy gossip / juicy details など。"],
+    "etym_note": "juice（果汁・汁）に、性質を表す接尾辞 -y が付いた形容詞です。「汁が多い＝ジューシーな」を意味し、比喩的に「(話が)おいしい＝面白い」の意味にも広がりました。",
+    "etym_chain": [
+      { "node": "juice + -y", "sub": "果汁＋性質", "era": "中英語" },
+      { "node": "juicy", "sub": "汁の多い", "era": "近代英語" },
+      { "node": "juicy", "sub": "ジューシーな・興味をそそる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a juicy orange", "ja": "ジューシーなオレンジ" },
+      { "en": "juicy and tender", "ja": "ジューシーで柔らかい" },
+      { "en": "juicy gossip", "ja": "面白いうわさ話" },
+      { "en": "juicy details", "ja": "興味をそそる詳細" },
+      { "en": "a juicy steak", "ja": "ジューシーなステーキ" },
+      { "en": "a juicy story", "ja": "面白い話" }
+    ],
+    "related": [
+      { "en": "juice", "ja": "果汁" },
+      { "en": "moist", "ja": "しっとりした" },
+      { "en": "succulent", "ja": "多汁の・みずみずしい" },
+      { "en": "dry", "ja": "乾いた・パサパサの" }
+    ],
+    "faq": [
+      { "q": "juicy の口語的な意味は？", "a": "「(うわさや話が)興味をそそる・きわどい・面白い」という意味です。juicy gossip（面白いうわさ）、juicy details（きわどい詳細）のように使います。" },
+      { "q": "juicy と juice の関係は？", "a": "juicy は juice（果汁・汁）＋ -y でできた形容詞で、「汁が多い＝ジューシーな」を意味します。" }
+    ],
+    "quiz": [
+      { "q": "The watermelon was so sweet and ___.（そのスイカはとても甘くてジューシーだった）", "A": "juicy", "B": "jealous", "C": "jaded", "D": "jumbo", "correct": "A" },
+      { "q": "juicy gossip の意味は？", "A": "面白いうわさ話", "B": "退屈な話", "C": "古い新聞", "D": "難しい問題", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jazzy",
+    "pron": "ˈdʒæzi",
+    "kana": "ジャジー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "jazz（ジャズ）＋ -y",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "音楽・様子"],
+    "meaning_main": "ジャズ風の／派手で活気のある／しゃれた",
+    "description": "jazzy は「ジャズ風の」を表す形容詞。ジャズのようにリズミカルで生き生きした音楽や雰囲気を表します。そこから「派手で活気のある・しゃれた」の意味でも使われ、色や柄が明るく目立つ様子も表します。jazz（ジャズ）＋ -y でできています。",
+    "keywords": ["jazzy 意味", "jazzy 発音", "jazzy ジャズ風", "jazzy 派手", "jazzy 例文"],
+    "meanings": [
+      { "hinshi": "【形】ジャズ風の", "note": "ジャズのようにリズミカルで生き生きした。" },
+      { "hinshi": "【形】派手で活気のある・しゃれた", "note": "明るく目立つ・粋な。" }
+    ],
+    "usages": [
+      { "title": "① ジャズ風の（音楽）", "desc": "リズミカルな。", "example_en": "The café played jazzy music.", "example_ja": "そのカフェはジャズ風の音楽を流していた。" },
+      { "title": "② 派手で活気のある", "desc": "目立つ色柄。", "example_en": "He wore a jazzy tie.", "example_ja": "彼は派手なネクタイをしていた。" },
+      { "title": "③ しゃれた・粋な", "desc": "かっこいい。", "example_en": "The car has a jazzy new design.", "example_ja": "その車はしゃれた新しいデザインだ。" }
+    ],
+    "warn": ["jazz（ジャズ）＋ -y でできた語。", "「派手な」の意味では showy / flashy と近い。"],
+    "etym_note": "jazz（ジャズ）に、性質を表す接尾辞 -y が付いた形容詞です。「ジャズのように生き生きした」から、「派手で活気のある・しゃれた」の意味に広がりました。",
+    "etym_chain": [
+      { "node": "jazz + -y", "sub": "ジャズ＋性質", "era": "20世紀英語" },
+      { "node": "jazzy", "sub": "ジャズ風の・派手な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "jazzy music", "ja": "ジャズ風の音楽" },
+      { "en": "a jazzy tie", "ja": "派手なネクタイ" },
+      { "en": "a jazzy design", "ja": "しゃれたデザイン" },
+      { "en": "jazzy colors", "ja": "派手な色" },
+      { "en": "a jazzy tune", "ja": "軽快な曲" },
+      { "en": "look jazzy", "ja": "しゃれて見える" }
+    ],
+    "related": [
+      { "en": "jazz", "ja": "ジャズ" },
+      { "en": "flashy", "ja": "派手な" },
+      { "en": "lively", "ja": "生き生きとした" },
+      { "en": "stylish", "ja": "しゃれた" }
+    ],
+    "faq": [
+      { "q": "jazzy とはどんな意味ですか？", "a": "「ジャズ風の（リズミカルで生き生きした）」という意味と、そこから広がった「派手で活気のある・しゃれた」という意味があります。" },
+      { "q": "jazzy と flashy の違いは？", "a": "どちらも「派手な」ですが、jazzy は生き生きとして粋な良い意味合いが強く、flashy はときに「けばけばしい」という否定的なニュアンスを含みます。" }
+    ],
+    "quiz": [
+      { "q": "She decorated the room with ___, colorful patterns.（彼女は部屋を派手でカラフルな柄で飾った）", "A": "jazzy", "B": "jealous", "C": "jaded", "D": "jumbo", "correct": "A" },
+      { "q": "jazzy は jazz ＋ ___ の形容詞。空所は？", "A": "-y", "B": "-ness", "C": "-ly", "D": "-ful", "correct": "A" }
+    ]
+  },
+  {
+    "english": "justifiable",
+    "pron": "ˈdʒʌstɪfaɪəbl",
+    "kana": "ジャスティファイアブル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "justify（正当化する）＋ -able",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR B2", "頻出語"],
+    "meaning_main": "正当化できる／もっともな／正当な",
+    "description": "justifiable は「正当化できる・もっともな」を表す形容詞。ある行動や考えが、正しい理由があって認められる・弁明できることを表します。justify（正当化する）＋ -able でできています。justifiable homicide（正当防衛による殺人）などの法律用語でも使われます。",
+    "keywords": ["justifiable 意味", "justifiable 発音", "justifiable 正当な", "justifiable もっともな", "justifiable 例文"],
+    "meanings": [
+      { "hinshi": "【形】正当化できる・もっともな・正当な", "note": "正しい理由があって認められる。" }
+    ],
+    "usages": [
+      { "title": "① 正当化できる・もっともな", "desc": "理由が認められる。", "example_en": "Her anger was justifiable.", "example_ja": "彼女の怒りはもっともだった。" },
+      { "title": "② 弁明できる", "desc": "正当な理由がある。", "example_en": "The decision seems justifiable.", "example_ja": "その決定は正当だと思える。" },
+      { "title": "③ 法律用語", "desc": "justifiable homicide。", "example_en": "It was ruled a justifiable act of self-defense.", "example_ja": "それは正当防衛の行為だと判断された。" }
+    ],
+    "warn": ["justify（正当化する）＋ -able でできた語。反対は unjustifiable（正当化できない）。", "副詞は justifiably（もっともなことに）。"],
+    "etym_note": "動詞 justify（正当化する）に、「〜できる」を表す接尾辞 -able が付いた形容詞です。「正当化しうる＝もっともな」を意味します。justice（正義）と同じ語源です。",
+    "etym_chain": [
+      { "node": "justify + -able", "sub": "正当化する＋できる", "era": "近代英語" },
+      { "node": "justifiable", "sub": "正当化できる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "justifiable anger", "ja": "もっともな怒り" },
+      { "en": "morally justifiable", "ja": "道徳的に正当な" },
+      { "en": "justifiable homicide", "ja": "正当防衛による殺人" },
+      { "en": "hardly justifiable", "ja": "正当化しがたい" },
+      { "en": "a justifiable reason", "ja": "もっともな理由" },
+      { "en": "justifiable spending", "ja": "正当な支出" }
+    ],
+    "related": [
+      { "en": "justify", "ja": "正当化する" },
+      { "en": "reasonable", "ja": "妥当な" },
+      { "en": "legitimate", "ja": "正当な" },
+      { "en": "defensible", "ja": "弁護できる" }
+    ],
+    "faq": [
+      { "q": "justifiable とはどんな意味ですか？", "a": "ある行動や考えが、正しい理由があって認められる・弁明できることを表します。「正当化できる・もっともな・正当な」という意味です。" },
+      { "q": "justifiable の反対語は？", "a": "unjustifiable（正当化できない・不当な）です。un-（否定）＋ justifiable でできています。" }
+    ],
+    "quiz": [
+      { "q": "Given the danger, his caution was completely ___.（危険を考えれば、彼の用心は完全にもっともだった）", "A": "justifiable", "B": "jealous", "C": "jaded", "D": "jumbo", "correct": "A" },
+      { "q": "justifiable は justify ＋ ___ の形容詞。空所は？", "A": "-able", "B": "-ness", "C": "-ly", "D": "-ful", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jocose",
+    "pron": "dʒoʊˈkoʊs",
+    "kana": "ジョウコウス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 jocosus（冗談好きの)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "文語的"],
+    "meaning_main": "おどけた／冗談好きの／ふざけた",
+    "description": "jocose は「おどけた・冗談好きの」を表す形容詞。冗談やユーモアを言って人を楽しませるような様子を表す、かたい文語的な語です。jocular（冗談好きの）とほぼ同じ意味で、joke（冗談）と同じラテン語 jocus が語源です。",
+    "keywords": ["jocose 意味", "jocose 発音", "jocose おどけた", "jocose 冗談好き", "jocose 例文"],
+    "meanings": [
+      { "hinshi": "【形】おどけた・冗談好きの・ふざけた", "note": "ユーモアを言って楽しませる様子。文語的。" }
+    ],
+    "usages": [
+      { "title": "① おどけた（人・態度）", "desc": "ユーモアがある。", "example_en": "He made a jocose remark.", "example_ja": "彼はおどけた発言をした。" },
+      { "title": "② 冗談めかした調子", "desc": "ふざけた口調。", "example_en": "Her jocose tone lightened the mood.", "example_ja": "彼女のおどけた口調は雰囲気を和ませた。" },
+      { "title": "③ 楽しませる", "desc": "陽気で愉快な。", "example_en": "The host was witty and jocose.", "example_ja": "司会者は機知に富んでおどけていた。" }
+    ],
+    "warn": ["かたい文語的な語。jocular（冗談好きの）とほぼ同義。", "joke（冗談）と同じラテン語 jocus が語源。"],
+    "etym_note": "ラテン語 jocosus（jocus＝冗談、から＝冗談に満ちた）に由来します。joke（冗談）や jocular（おどけた）と同じ語源で、「おどけた・冗談好きの」を意味します。",
+    "etym_chain": [
+      { "node": "jocosus", "sub": "冗談好きの", "era": "ラテン語" },
+      { "node": "jocose", "sub": "おどけた", "era": "17世紀英語" },
+      { "node": "jocose", "sub": "おどけた・冗談好きの", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a jocose remark", "ja": "おどけた発言" },
+      { "en": "a jocose tone", "ja": "おどけた口調" },
+      { "en": "jocose and witty", "ja": "おどけて機知に富んだ" },
+      { "en": "in a jocose mood", "ja": "冗談を言いたい気分で" },
+      { "en": "a jocose manner", "ja": "おどけた態度" },
+      { "en": "a jocose fellow", "ja": "冗談好きの男" }
+    ],
+    "related": [
+      { "en": "jocular", "ja": "冗談好きの" },
+      { "en": "humorous", "ja": "ユーモアのある" },
+      { "en": "playful", "ja": "遊び心のある" },
+      { "en": "witty", "ja": "機知に富んだ" }
+    ],
+    "faq": [
+      { "q": "jocose とはどんな意味ですか？", "a": "冗談やユーモアを言って人を楽しませるような「おどけた・冗談好きの」様子を表す、かたい文語的な形容詞です。" },
+      { "q": "jocose と jocular の違いは？", "a": "意味はほぼ同じ「おどけた・冗談好きの」です。どちらもラテン語 jocus 由来で、jocose の方がやや古風・文語的な響きがあります。" }
+    ],
+    "quiz": [
+      { "q": "The professor's ___ comments made the lecture enjoyable.（教授のおどけた発言は講義を楽しくした）", "A": "jocose", "B": "jealous", "C": "jaded", "D": "jumbo", "correct": "A" },
+      { "q": "jocose と同じ語源の語は？", "A": "joke（冗談）", "B": "juice（ジュース）", "C": "jungle（密林）", "D": "jacket（上着）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jounce",
+    "pron": "dʒaʊns",
+    "kana": "ジャウンス",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "中英語（bounce と jolt の連想)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "動作"],
+    "meaning_main": "ガタガタ揺れる／(乗り物が)激しく上下に揺れる",
+    "description": "jounce は「ガタガタ揺れる・激しく上下に揺れる」を表す動詞。特に、でこぼこ道を進む車や馬車などが、上下に激しく揺れ動くことを指します。bounce（はずむ）と jolt（急に揺れる）を合わせたような響きの語です。",
+    "keywords": ["jounce 意味", "jounce 発音", "jounce ガタガタ揺れる", "jounce 上下に揺れる", "jounce 例文"],
+    "meanings": [
+      { "hinshi": "【動】ガタガタ揺れる・激しく上下に揺れる", "note": "でこぼこ道で車などが激しく上下する。" }
+    ],
+    "usages": [
+      { "title": "① ガタガタ揺れる（乗り物）", "desc": "でこぼこ道で。", "example_en": "The wagon jounced along the rough track.", "example_ja": "荷馬車はでこぼこ道をガタガタ揺れて進んだ。" },
+      { "title": "② 上下に激しく揺れる", "desc": "はずむように。", "example_en": "We jounced over the potholes.", "example_ja": "私たちは穴ぼこを越えてガタガタ揺れた。" },
+      { "title": "③ 揺さぶる", "desc": "他動詞でも。", "example_en": "The bumpy road jounced the passengers.", "example_ja": "でこぼこ道は乗客を揺さぶった。" }
+    ],
+    "warn": ["発音は /dʒaʊns/。bounce（はずむ）と韻を踏む。", "でこぼこ道での激しい上下の揺れを表す。"],
+    "etym_note": "中英語に現れた語で、bounce（はずむ）と jolt（急に揺れる）の連想からできた擬態的な語とされます。激しく上下に揺れる動きを表します。",
+    "etym_chain": [
+      { "node": "jounce", "sub": "揺れる(擬態的)", "era": "中英語" },
+      { "node": "jounce", "sub": "ガタガタ揺れる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "jounce along", "ja": "ガタガタ揺れて進む" },
+      { "en": "jounce over bumps", "ja": "段差でガタガタ揺れる" },
+      { "en": "jounce up and down", "ja": "上下に激しく揺れる" },
+      { "en": "the cart jounced", "ja": "荷車がガタガタ揺れた" },
+      { "en": "jounce on the road", "ja": "道でガタガタ揺れる" },
+      { "en": "a jouncing ride", "ja": "ガタガタした乗り心地" }
+    ],
+    "related": [
+      { "en": "bounce", "ja": "はずむ" },
+      { "en": "jolt", "ja": "急に揺れる" },
+      { "en": "bump", "ja": "でこぼこ・ぶつかる" },
+      { "en": "shake", "ja": "揺れる" }
+    ],
+    "faq": [
+      { "q": "jounce とはどんな意味ですか？", "a": "特に、でこぼこ道を進む車や馬車などが「激しく上下にガタガタ揺れる」ことを表す動詞です。" },
+      { "q": "jounce と bounce の違いは？", "a": "bounce は「(ボールなどが規則的に)はずむ」、jounce は「(でこぼこ道で不規則に)激しく上下に揺れる」ことを表します。" }
+    ],
+    "quiz": [
+      { "q": "The old truck ___ over the rocky road.（古いトラックは岩だらけの道をガタガタ揺れて進んだ）", "A": "jounced", "B": "jammed", "C": "jogged", "D": "jumped", "correct": "A" },
+      { "q": "jounce の動きに近いのは？", "A": "激しく上下に揺れる", "B": "静かに止まる", "C": "まっすぐ滑る", "D": "ゆっくり沈む", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jaggery",
+    "pron": "ˈdʒæɡəri",
+    "kana": "ジャガリー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ポルトガル語 jágara（マラヤーラム語 chakkara より)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "食べ物"],
+    "meaning_main": "ジャガリー（サトウキビやヤシから作る粗糖）",
+    "description": "jaggery は「ジャガリー」を表す名詞。サトウキビの汁やヤシの樹液を煮詰めて固めた、精製していない伝統的な粗糖です。南アジアや東南アジアでおなじみで、こくのある甘さと茶色い色が特徴です。料理やお菓子の甘味料として使われます。",
+    "keywords": ["jaggery 意味", "jaggery 発音", "ジャガリー", "jaggery 粗糖", "jaggery 例文"],
+    "meanings": [
+      { "hinshi": "【名】ジャガリー・粗糖", "note": "サトウキビやヤシから作る精製していない伝統的な砂糖。" }
+    ],
+    "usages": [
+      { "title": "① ジャガリー（粗糖）", "desc": "精製しない砂糖。", "example_en": "Jaggery has a rich, caramel-like taste.", "example_ja": "ジャガリーはこくのあるカラメルのような味だ。" },
+      { "title": "② 料理・菓子に", "desc": "甘味料として。", "example_en": "Many Indian sweets use jaggery.", "example_ja": "多くのインドのお菓子はジャガリーを使う。" },
+      { "title": "③ 茶色い塊", "desc": "固めた形。", "example_en": "Jaggery is often sold in solid blocks.", "example_ja": "ジャガリーはよく固形の塊で売られる。" }
+    ],
+    "warn": ["発音は /ˈdʒæɡəri/。精製していない伝統的な粗糖を指す。", "白砂糖と違い、こくと風味がある茶色い砂糖。"],
+    "etym_note": "南インドのマラヤーラム語 chakkara（砂糖）に由来し、ポルトガル語 jágara を経て英語に入りました。南アジア・東南アジアの伝統的な粗糖を指す語です。",
+    "etym_chain": [
+      { "node": "chakkara", "sub": "砂糖", "era": "マラヤーラム語" },
+      { "node": "jágara", "sub": "粗糖", "era": "ポルトガル語" },
+      { "node": "jaggery", "sub": "ジャガリー", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a block of jaggery", "ja": "ジャガリーの塊" },
+      { "en": "palm jaggery", "ja": "ヤシのジャガリー" },
+      { "en": "cook with jaggery", "ja": "ジャガリーで料理する" },
+      { "en": "sweetened with jaggery", "ja": "ジャガリーで甘くした" },
+      { "en": "cane jaggery", "ja": "サトウキビのジャガリー" },
+      { "en": "melt the jaggery", "ja": "ジャガリーを溶かす" }
+    ],
+    "related": [
+      { "en": "sugar", "ja": "砂糖" },
+      { "en": "molasses", "ja": "糖蜜" },
+      { "en": "sweetener", "ja": "甘味料" },
+      { "en": "cane", "ja": "サトウキビ" }
+    ],
+    "faq": [
+      { "q": "jaggery とは何ですか？", "a": "サトウキビの汁やヤシの樹液を煮詰めて固めた、精製していない伝統的な粗糖です。こくのある甘さと茶色い色が特徴で、南アジア・東南アジアの料理やお菓子に使われます。" },
+      { "q": "jaggery と白砂糖の違いは？", "a": "白砂糖は精製されていますが、jaggery は精製せずに作るため、ミネラルを含みこくのある風味と茶色い色があります。" }
+    ],
+    "quiz": [
+      { "q": "In India, many desserts are sweetened with ___ instead of white sugar.（インドでは多くのデザートが白砂糖の代わりにジャガリーで甘くされる）", "A": "jaggery", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jaggery とは？", "A": "精製していない粗糖", "B": "塩", "C": "小麦粉", "D": "油", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jarl",
+    "pron": "jɑːrl",
+    "kana": "ヤール",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古ノルド語 jarl（首長・貴族)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "歴史・文化"],
+    "meaning_main": "ヤール（北欧・バイキングの首長・貴族）",
+    "description": "jarl は「ヤール」を表す名詞。中世スカンジナビアやバイキングの社会で、王の下に位置した有力な首長・貴族を指します。地方を治める高い身分の指導者でした。英語の earl（伯爵）はこの古ノルド語 jarl に由来します。",
+    "keywords": ["jarl 意味", "jarl 発音", "ヤール", "jarl バイキング 首長", "jarl 例文"],
+    "meanings": [
+      { "hinshi": "【名】ヤール（北欧の首長・貴族）", "note": "中世スカンジナビア・バイキングの有力な首長。earl の語源。" }
+    ],
+    "usages": [
+      { "title": "① ヤール（首長）", "desc": "地方を治める貴族。", "example_en": "The jarl ruled the region.", "example_ja": "ヤールはその地方を治めた。" },
+      { "title": "② バイキングの指導者", "desc": "高い身分。", "example_en": "A jarl led the Viking warriors.", "example_ja": "ヤールがバイキングの戦士たちを率いた。" },
+      { "title": "③ earl の語源", "desc": "英語の伯爵に。", "example_en": "The English word \"earl\" comes from \"jarl.\"", "example_ja": "英語の earl は jarl に由来する。" }
+    ],
+    "warn": ["発音は /jɑːrl/（ヤール）。j は「ヤ」の音。", "英語 earl（伯爵）の語源。中世北欧・バイキングの首長を指す。"],
+    "etym_note": "古ノルド語 jarl（首長・貴族）に由来します。中世スカンジナビアで王の下の有力者を指し、この語が古英語 eorl を経て、現在の earl（伯爵）になりました。",
+    "etym_chain": [
+      { "node": "jarl", "sub": "首長・貴族", "era": "古ノルド語" },
+      { "node": "eorl", "sub": "貴族", "era": "古英語" },
+      { "node": "jarl / earl", "sub": "ヤール／伯爵", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a powerful jarl", "ja": "有力なヤール" },
+      { "en": "the jarl's hall", "ja": "ヤールの館" },
+      { "en": "a Viking jarl", "ja": "バイキングのヤール" },
+      { "en": "serve the jarl", "ja": "ヤールに仕える" },
+      { "en": "the jarl's warriors", "ja": "ヤールの戦士たち" },
+      { "en": "a Norse jarl", "ja": "北欧のヤール" }
+    ],
+    "related": [
+      { "en": "earl", "ja": "伯爵" },
+      { "en": "chief", "ja": "首長" },
+      { "en": "Viking", "ja": "バイキング" },
+      { "en": "noble", "ja": "貴族" }
+    ],
+    "faq": [
+      { "q": "jarl とは何ですか？", "a": "中世スカンジナビアやバイキングの社会で、王の下に位置した有力な首長・貴族「ヤール」です。地方を治める高い身分の指導者でした。" },
+      { "q": "jarl と earl の関係は？", "a": "英語の earl（伯爵）は、この古ノルド語 jarl に由来します。バイキングの言葉が古英語に取り入れられ、貴族の称号 earl になりました。" }
+    ],
+    "quiz": [
+      { "q": "In Viking society, a ___ was a powerful noble who ruled land.（バイキング社会では、ヤールは土地を治める有力な貴族だった）", "A": "jarl", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jarl が語源となった英語は？", "A": "earl（伯爵）", "B": "king（王）", "C": "queen（女王）", "D": "prince（王子）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "junco",
+    "pron": "ˈdʒʌŋkoʊ",
+    "kana": "ジャンコウ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "スペイン語 junco（い草)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "動物・鳥"],
+    "meaning_main": "ユキヒメドリ（北米の小鳥）",
+    "description": "junco は「ユキヒメドリ」を表す名詞。北アメリカに広くすむ小型の鳥で、スズメの仲間です。灰色や茶色の地味な羽で、冬に群れで見られることから「スノーバード（雪の鳥）」とも呼ばれます。ラテン語系の「い草」が語源です。",
+    "keywords": ["junco 意味", "junco 発音", "ユキヒメドリ", "junco 小鳥", "junco 例文"],
+    "meanings": [
+      { "hinshi": "【名】ユキヒメドリ", "note": "北米にすむスズメの仲間の小鳥。冬に群れで見られる。" }
+    ],
+    "usages": [
+      { "title": "① ユキヒメドリ（鳥）", "desc": "北米の小鳥。", "example_en": "A junco hopped across the snowy yard.", "example_ja": "ユキヒメドリが雪の庭を跳ねて渡った。" },
+      { "title": "② 冬に群れで", "desc": "スノーバード。", "example_en": "Juncos appear in winter.", "example_ja": "ユキヒメドリは冬に現れる。" },
+      { "title": "③ 地味な羽色", "desc": "灰色・茶色。", "example_en": "The junco has a plain gray coat.", "example_ja": "ユキヒメドリは地味な灰色の羽をしている。" }
+    ],
+    "warn": ["発音は /ˈdʒʌŋkoʊ/。北米にすむスズメの仲間の小鳥を指す。", "冬に見られることから snowbird とも呼ばれる。"],
+    "etym_note": "スペイン語 junco（い草）に由来し、ラテン語 juncus にさかのぼります。もとは別の鳥を指したともいわれますが、北米のこの小鳥の名として定着しました。",
+    "etym_chain": [
+      { "node": "juncus", "sub": "い草", "era": "ラテン語" },
+      { "node": "junco", "sub": "い草・鳥", "era": "スペイン語" },
+      { "node": "junco", "sub": "ユキヒメドリ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a dark-eyed junco", "ja": "クロメユキヒメドリ" },
+      { "en": "a flock of juncos", "ja": "ユキヒメドリの群れ" },
+      { "en": "juncos in winter", "ja": "冬のユキヒメドリ" },
+      { "en": "a junco at the feeder", "ja": "餌台のユキヒメドリ" },
+      { "en": "spot a junco", "ja": "ユキヒメドリを見つける" },
+      { "en": "a small junco", "ja": "小さなユキヒメドリ" }
+    ],
+    "related": [
+      { "en": "sparrow", "ja": "スズメ" },
+      { "en": "bird", "ja": "鳥" },
+      { "en": "finch", "ja": "フィンチ・アトリ類" },
+      { "en": "winter", "ja": "冬" }
+    ],
+    "faq": [
+      { "q": "junco とはどんな鳥ですか？", "a": "北アメリカに広くすむ小型の鳥で、スズメの仲間です。灰色や茶色の地味な羽で、冬に群れで見られることから「スノーバード」とも呼ばれます。" },
+      { "q": "junco はなぜ snowbird と呼ばれますか？", "a": "冬になると群れで現れて庭先などでよく見られるためです。雪の季節に姿を見せる鳥、というイメージから来ています。" }
+    ],
+    "quiz": [
+      { "q": "A little gray ___ visited the bird feeder in winter.（小さな灰色のユキヒメドリが冬に餌台を訪れた）", "A": "junco", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "junco は何の仲間の鳥？", "A": "スズメ", "B": "ワシ", "C": "ペンギン", "D": "フクロウ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jubilate",
+    "pron": "ˈdʒuːbɪleɪt",
+    "kana": "ジュビレイト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 jubilare（歓声をあげる)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "感情・文語"],
+    "meaning_main": "歓喜する／大いに喜ぶ／喜びの声をあげる",
+    "description": "jubilate は「歓喜する・大いに喜ぶ」を表す動詞。勝利や幸運などで、はじけるように喜び、喜びの声をあげることを指します。かたい文語的な語で、名詞 jubilation（歓喜）や形容詞 jubilant（歓喜に沸く）と同じ語源です。",
+    "keywords": ["jubilate 意味", "jubilate 発音", "jubilate 歓喜する", "jubilate 喜ぶ", "jubilate 例文"],
+    "meanings": [
+      { "hinshi": "【動】歓喜する・大いに喜ぶ・喜びの声をあげる", "note": "はじけるように喜ぶ。文語的。" }
+    ],
+    "usages": [
+      { "title": "① 歓喜する", "desc": "大いに喜ぶ。", "example_en": "The fans jubilated after the victory.", "example_ja": "ファンは勝利の後、歓喜した。" },
+      { "title": "② 喜びの声をあげる", "desc": "はしゃぐ。", "example_en": "The crowd jubilated in the streets.", "example_ja": "群衆は街で歓喜の声をあげた。" },
+      { "title": "③ 祝い喜ぶ", "desc": "勝利を祝う。", "example_en": "They jubilated over the good news.", "example_ja": "彼らはよい知らせに大いに喜んだ。" }
+    ],
+    "warn": ["かたい文語的な動詞。日常では rejoice / celebrate が普通。", "名詞 jubilation、形容詞 jubilant と同じ語源。"],
+    "etym_note": "ラテン語 jubilare（歓声をあげる・喜び叫ぶ）に由来します。jubilant（歓喜に沸く）や jubilation（歓喜）、jubilee（記念祭）と同じ語根を持ちます。",
+    "etym_chain": [
+      { "node": "jubilare", "sub": "歓声をあげる", "era": "ラテン語" },
+      { "node": "jubilate", "sub": "歓喜する", "era": "近代英語" },
+      { "node": "jubilate", "sub": "歓喜する・大いに喜ぶ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "jubilate over", "ja": "〜を大いに喜ぶ" },
+      { "en": "jubilate at the win", "ja": "勝利に歓喜する" },
+      { "en": "the crowd jubilated", "ja": "群衆が歓喜した" },
+      { "en": "jubilate together", "ja": "共に喜ぶ" },
+      { "en": "jubilate in victory", "ja": "勝利に沸く" },
+      { "en": "reason to jubilate", "ja": "喜ぶ理由" }
+    ],
+    "related": [
+      { "en": "rejoice", "ja": "喜ぶ" },
+      { "en": "celebrate", "ja": "祝う" },
+      { "en": "jubilant", "ja": "歓喜に沸く" },
+      { "en": "exult", "ja": "大喜びする" }
+    ],
+    "faq": [
+      { "q": "jubilate とはどんな意味ですか？", "a": "勝利や幸運などで、はじけるように喜び、喜びの声をあげることです。「歓喜する・大いに喜ぶ」という意味のかたい文語的な動詞です。" },
+      { "q": "jubilate の名詞・形容詞は？", "a": "名詞は jubilation（歓喜）、形容詞は jubilant（歓喜に沸く）です。すべて同じラテン語 jubilare 由来です。" }
+    ],
+    "quiz": [
+      { "q": "The whole town ___ when the team won the championship.（チームが優勝すると町中が歓喜した）", "A": "jubilated", "B": "jammed", "C": "jogged", "D": "jumped", "correct": "A" },
+      { "q": "jubilate の意味に近いのは？", "A": "大いに喜ぶ", "B": "悲しむ", "C": "怒る", "D": "眠る", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jollof",
+    "pron": "ˈdʒɒləf",
+    "kana": "ジョロフ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "西アフリカのウォロフ人（Wolof）の名より",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "食べ物・文化"],
+    "meaning_main": "ジョロフライス（西アフリカのトマト味の炊き込みご飯）",
+    "description": "jollof（jollof rice）は「ジョロフライス」を表す名詞。西アフリカで広く親しまれる、トマトと香辛料で米を炊き込んだ赤いご飯料理です。ナイジェリアやガーナなどの国民食で、どの国のジョロフが一番おいしいかという「ジョロフ戦争」でも知られます。",
+    "keywords": ["jollof 意味", "jollof 発音", "ジョロフライス", "jollof rice", "jollof 例文"],
+    "meanings": [
+      { "hinshi": "【名】ジョロフライス", "note": "トマトと香辛料で炊き込んだ西アフリカの赤いご飯料理。" }
+    ],
+    "usages": [
+      { "title": "① ジョロフライス（料理）", "desc": "トマト味の炊き込みご飯。", "example_en": "We had jollof rice at the party.", "example_ja": "私たちはパーティーでジョロフライスを食べた。" },
+      { "title": "② 西アフリカの国民食", "desc": "各国で親しまれる。", "example_en": "Jollof is popular across West Africa.", "example_ja": "ジョロフは西アフリカ中で人気だ。" },
+      { "title": "③ ジョロフ戦争", "desc": "どこが一番か論争。", "example_en": "Nigeria and Ghana argue over the best jollof.", "example_ja": "ナイジェリアとガーナは一番のジョロフを巡って争う。" }
+    ],
+    "warn": ["ふつう jollof rice の形で使う。発音は /ˈdʒɒləf/。", "西アフリカ・ウォロフ人にちなむ名。トマトベースの赤い炊き込みご飯。"],
+    "etym_note": "西アフリカの民族ウォロフ人（Wolof）の名に由来します。もともとウォロフ人の地域で作られた米料理が、西アフリカ各地に広まりました。",
+    "etym_chain": [
+      { "node": "Wolof", "sub": "西アフリカの民族名", "era": "西アフリカ" },
+      { "node": "jollof", "sub": "ジョロフライス", "era": "20世紀英語" },
+      { "node": "jollof", "sub": "ジョロフライス", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "jollof rice", "ja": "ジョロフライス" },
+      { "en": "make jollof", "ja": "ジョロフを作る" },
+      { "en": "a plate of jollof", "ja": "ジョロフライス一皿" },
+      { "en": "spicy jollof", "ja": "辛いジョロフ" },
+      { "en": "Nigerian jollof", "ja": "ナイジェリアのジョロフ" },
+      { "en": "the jollof wars", "ja": "ジョロフ戦争(論争)" }
+    ],
+    "related": [
+      { "en": "rice", "ja": "米" },
+      { "en": "tomato", "ja": "トマト" },
+      { "en": "Africa", "ja": "アフリカ" },
+      { "en": "Nigeria", "ja": "ナイジェリア" }
+    ],
+    "faq": [
+      { "q": "jollof とはどんな料理ですか？", "a": "西アフリカで広く親しまれる、トマトと香辛料で米を炊き込んだ赤いご飯料理「ジョロフライス」です。ナイジェリアやガーナなどの国民食です。" },
+      { "q": "「ジョロフ戦争」とは？", "a": "ナイジェリアやガーナなど、どの国のジョロフライスが一番おいしいかを巡る、楽しくも真剣な論争のことです。" }
+    ],
+    "quiz": [
+      { "q": "___ rice, cooked with tomatoes and spices, is a favorite dish in West Africa.（トマトと香辛料で炊いたジョロフライスは西アフリカの人気料理だ）", "A": "Jollof", "B": "Jam", "C": "Jar", "D": "Jaw", "correct": "A" },
+      { "q": "jollof はどの地域の料理？", "A": "西アフリカ", "B": "北欧", "C": "東アジア", "D": "南米", "correct": "A" }
+    ]
+  }
+]
