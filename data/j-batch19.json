@@ -1,0 +1,501 @@
+[
+  {
+    "english": "joyful",
+    "pron": "ˈdʒɔɪfəl",
+    "kana": "ヂョイフル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "joy（喜び）+ -ful（満ちた）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "感情"],
+    "meaning_main": "喜びに満ちた／うれしい／楽しい",
+    "description": "joyful（ヂョイフル）は喜びに満ちてうれしい・楽しい様子を表す形容詞。joy（喜び）に「満ちた」を表す -ful が付いた語です。",
+    "keywords": ["joyful 意味", "joyful 使い方", "喜びに満ちた 英語", "うれしい 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】喜びに満ちた／うれしい", "note": "人の気持ちが喜びであふれている様子。" },
+      { "hinshi": "【形容詞】喜ばしい／楽しい", "note": "出来事・場面が喜びをもたらす様子。a joyful occasion。" }
+    ],
+    "usages": [
+      { "title": "① 人の喜びに満ちた気持ち", "desc": "うれしくて幸せな心情を表す。", "example_en": "The children were joyful when the snow began to fall.", "example_ja": "雪が降り始めると子どもたちは大喜びだった。" },
+      { "title": "② 喜ばしい出来事", "desc": "祝いの場面などを形容する。", "example_en": "It was a joyful reunion after many years.", "example_ja": "長年ぶりの喜ばしい再会だった。" }
+    ],
+    "warn": ["joyous とほぼ同義だが、joyful は「人の気持ち」、joyous は「場面・雰囲気」に使われる傾向がある。"],
+    "etym_note": "名詞 joy（古フランス語 joie、ラテン語 gaudium「喜び」由来）に「〜に満ちた」を表す接尾辞 -ful が付いた語です。",
+    "etym_chain": [
+      { "node": "gaudium", "sub": "喜び", "era": "ラテン語" },
+      { "node": "joie/joy", "sub": "喜び", "era": "古フランス語・中英語" },
+      { "node": "joyful", "sub": "喜びに満ちた", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "joyful heart", "ja": "喜びに満ちた心" },
+      { "en": "joyful noise", "ja": "喜びの声" },
+      { "en": "joyful occasion", "ja": "喜ばしい行事" },
+      { "en": "feel joyful", "ja": "うれしく感じる" },
+      { "en": "joyful celebration", "ja": "喜びの祝典" },
+      { "en": "joyful tears", "ja": "うれし涙" }
+    ],
+    "related": [
+      { "en": "joyous", "ja": "喜びに満ちた" },
+      { "en": "joy", "ja": "喜び" },
+      { "en": "cheerful", "ja": "陽気な" },
+      { "en": "joyless", "ja": "喜びのない" }
+    ],
+    "faq": [
+      { "q": "joyful と happy の違いは？", "a": "happy は日常的な「幸せ・満足」、joyful はより強く「喜びにあふれた」ニュアンスで、やや感情の高まりを表します。" },
+      { "q": "joyful の副詞は？", "a": "joyfully（喜んで・うれしそうに）です。" }
+    ],
+    "quiz": [
+      { "q": "joyful の意味は？", "A": "退屈な", "B": "喜びに満ちた", "C": "疲れた", "D": "怒った", "correct": "B" },
+      { "q": "joyful の副詞形は？", "A": "joyful", "B": "joyness", "C": "joyfully", "D": "joyment", "correct": "C" }
+    ]
+  },
+  {
+    "english": "joyous",
+    "pron": "ˈdʒɔɪəs",
+    "kana": "ヂョイアス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "古フランス語 joios（喜びの）より",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "感情・格式"],
+    "meaning_main": "喜びに満ちた／楽しい／めでたい",
+    "description": "joyous（ヂョイアス）は喜びに満ちてめでたい様子を表す形容詞。joyful より文語的で、出来事や雰囲気を形容することが多い語です。",
+    "keywords": ["joyous 意味", "joyous 使い方", "めでたい 英語", "喜ばしい 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】喜びに満ちた／めでたい", "note": "場面・行事が喜びに満ちている様子。やや格式ばった語。" },
+      { "hinshi": "【形容詞】楽しい／陽気な", "note": "喜びを感じさせる雰囲気。" }
+    ],
+    "usages": [
+      { "title": "① 喜ばしい行事・場面", "desc": "祝い事など晴れやかな場面を形容する。", "example_en": "We wish you a joyous holiday season.", "example_ja": "喜びに満ちた休暇シーズンをお祈りします。" },
+      { "title": "② 陽気な雰囲気", "desc": "楽しく明るい様子を表す。", "example_en": "The festival had a joyous atmosphere.", "example_ja": "祭りは喜びに満ちた雰囲気だった。" }
+    ],
+    "warn": ["joyful とほぼ同義。joyous はやや文語的で、行事・雰囲気に使われることが多い。"],
+    "etym_note": "古フランス語 joios（喜びの）に由来し、joy と同じくラテン語 gaudium（喜び）が根です。-ous は「〜に富む」を表す形容詞接尾辞です。",
+    "etym_chain": [
+      { "node": "gaudium", "sub": "喜び", "era": "ラテン語" },
+      { "node": "joios", "sub": "喜びの", "era": "古フランス語" },
+      { "node": "joyous", "sub": "喜びに満ちた", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "joyous occasion", "ja": "喜ばしい機会" },
+      { "en": "joyous celebration", "ja": "めでたい祝典" },
+      { "en": "joyous news", "ja": "喜ばしい知らせ" },
+      { "en": "joyous mood", "ja": "陽気な気分" },
+      { "en": "joyous laughter", "ja": "喜びの笑い" },
+      { "en": "a joyous day", "ja": "めでたい一日" }
+    ],
+    "related": [
+      { "en": "joyful", "ja": "喜びに満ちた" },
+      { "en": "jubilant", "ja": "歓喜した" },
+      { "en": "festive", "ja": "お祝いの" },
+      { "en": "merry", "ja": "陽気な" }
+    ],
+    "faq": [
+      { "q": "joyous と joyful の使い分けは？", "a": "意味はほぼ同じですが、joyous は行事・雰囲気に、joyful は人の気持ちに使われる傾向があります。joyous はやや格式ばった語です。" },
+      { "q": "joyous はカードの挨拶に使える？", "a": "はい。a joyous holiday season のように祝いの挨拶でよく使われます。" }
+    ],
+    "quiz": [
+      { "q": "joyous の意味は？", "A": "危険な", "B": "喜びに満ちた", "C": "静かな", "D": "退屈な", "correct": "B" },
+      { "q": "joyous が特に使われやすいのは？", "A": "人の性格", "B": "行事・雰囲気", "C": "天気", "D": "食べ物", "correct": "B" }
+    ]
+  },
+  {
+    "english": "joyless",
+    "pron": "ˈdʒɔɪləs",
+    "kana": "ヂョイレス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "joy（喜び）+ -less（〜のない）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "感情"],
+    "meaning_main": "喜びのない／味気ない／わびしい",
+    "description": "joyless（ヂョイレス）は喜びや楽しさが感じられない、味気なくわびしい様子を表す形容詞。joy に「〜のない」を表す -less が付いた語です。",
+    "keywords": ["joyless 意味", "joyless 使い方", "喜びのない 英語", "味気ない 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】喜びのない／味気ない", "note": "楽しさ・喜びを欠いた様子。" },
+      { "hinshi": "【形容詞】わびしい／陰気な", "note": "暗く沈んだ雰囲気。" }
+    ],
+    "usages": [
+      { "title": "① 喜びのない状態・生活", "desc": "楽しみのない様子を表す。", "example_en": "He led a joyless, monotonous life.", "example_ja": "彼は喜びのない単調な生活を送っていた。" },
+      { "title": "② 味気ない場面", "desc": "楽しさを欠いた出来事を形容する。", "example_en": "It was a joyless victory.", "example_ja": "それは喜びのない勝利だった。" }
+    ],
+    "warn": ["joyful の反対語。感情の乏しさや陰鬱さを表し、ややネガティブで文学的な響きがある。"],
+    "etym_note": "名詞 joy（喜び）に「〜がない」を表す接尾辞 -less が付いた語。-less は古英語 lēas（欠いた）に由来します。",
+    "etym_chain": [
+      { "node": "joy + -less", "sub": "喜び+欠く", "era": "英語の派生" },
+      { "node": "joyless", "sub": "喜びのない", "era": "中英語〜" }
+    ],
+    "phrases": [
+      { "en": "joyless life", "ja": "喜びのない人生" },
+      { "en": "joyless smile", "ja": "うつろな笑み" },
+      { "en": "joyless routine", "ja": "味気ない日課" },
+      { "en": "joyless existence", "ja": "わびしい暮らし" },
+      { "en": "joyless victory", "ja": "喜びのない勝利" },
+      { "en": "cold and joyless", "ja": "冷たく味気ない" }
+    ],
+    "related": [
+      { "en": "joyful", "ja": "喜びに満ちた（反対語）" },
+      { "en": "cheerless", "ja": "陰気な" },
+      { "en": "gloomy", "ja": "暗い・憂鬱な" },
+      { "en": "dreary", "ja": "わびしい" }
+    ],
+    "faq": [
+      { "q": "joyless と sad の違いは？", "a": "sad は「悲しい」という感情、joyless は「喜び・楽しさが欠けている」状態を表します。必ずしも悲しいとは限りません。" },
+      { "q": "joyless はどんな場面で使う？", "a": "単調な生活や、喜べない出来事など、楽しさの欠如を強調したいときに使います。やや文学的です。" }
+    ],
+    "quiz": [
+      { "q": "joyless の意味は？", "A": "喜びに満ちた", "B": "喜びのない", "C": "騒がしい", "D": "忙しい", "correct": "B" },
+      { "q": "joyless の反対語は？", "A": "joyful", "B": "joyance", "C": "joyer", "D": "enjoy", "correct": "A" }
+    ]
+  },
+  {
+    "english": "joviality",
+    "pron": "ˌdʒoʊviˈæləti",
+    "kana": "ヂョウヴィアリティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "jovial（陽気な）+ -ity（性質）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "抽象・格式"],
+    "meaning_main": "陽気さ／快活さ／上機嫌",
+    "description": "joviality（ヂョウヴィアリティ）は陽気で快活な様子・上機嫌さを表す名詞。木星（Jupiter/Jove）にちなむ jovial の名詞形です。",
+    "keywords": ["joviality 意味", "joviality 使い方", "陽気さ 英語", "快活さ 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】陽気さ／快活さ", "note": "明るく朗らかで上機嫌な様子。" },
+      { "hinshi": "【名詞】愛想の良さ", "note": "人あたりの良い朗らかな態度。" }
+    ],
+    "usages": [
+      { "title": "① 陽気で快活な様子", "desc": "明るい雰囲気・態度を表す。", "example_en": "His joviality lifted everyone's spirits.", "example_ja": "彼の陽気さがみんなの気分を明るくした。" },
+      { "title": "② 宴席などの朗らかさ", "desc": "楽しく和やかな場面を描く。", "example_en": "The dinner was full of warmth and joviality.", "example_ja": "その食事会は温かさと陽気さに満ちていた。" }
+    ],
+    "warn": ["jovial の名詞形。やや格式ばった語で、日常では cheerfulness の方が一般的。"],
+    "etym_note": "古代占星術で木星（ラテン語 Jovialis「木星の」、Jove＝ユピテル）生まれの人は陽気とされたことから jovial（陽気な）が生まれ、その名詞形が joviality です。",
+    "etym_chain": [
+      { "node": "Jove/Jupiter", "sub": "木星・主神", "era": "ローマ神話" },
+      { "node": "jovialis", "sub": "木星の", "era": "ラテン語" },
+      { "node": "joviality", "sub": "陽気さ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an air of joviality", "ja": "陽気な雰囲気" },
+      { "en": "forced joviality", "ja": "無理な陽気さ" },
+      { "en": "warmth and joviality", "ja": "温かさと快活さ" },
+      { "en": "his usual joviality", "ja": "彼のいつもの陽気さ" },
+      { "en": "with great joviality", "ja": "とても上機嫌に" },
+      { "en": "festive joviality", "ja": "祝祭の陽気さ" }
+    ],
+    "related": [
+      { "en": "jovial", "ja": "陽気な" },
+      { "en": "cheerfulness", "ja": "快活さ" },
+      { "en": "merriment", "ja": "浮かれ騒ぎ" },
+      { "en": "geniality", "ja": "愛想の良さ" }
+    ],
+    "faq": [
+      { "q": "joviality はなぜ木星と関係がある？", "a": "占星術で木星（Jove）の影響を受けて生まれた人は陽気とされたため、jovial（陽気な）とその名詞 joviality が生まれました。" },
+      { "q": "joviality と joy の違いは？", "a": "joy は「喜び」という感情、joviality は「陽気で朗らかな態度・雰囲気」を指します。" }
+    ],
+    "quiz": [
+      { "q": "joviality の意味は？", "A": "陽気さ・快活さ", "B": "悲しみ", "C": "怒り", "D": "退屈", "correct": "A" },
+      { "q": "joviality の語源となった天体は？", "A": "火星", "B": "木星", "C": "金星", "D": "土星", "correct": "B" }
+    ]
+  },
+  {
+    "english": "justification",
+    "pron": "ˌdʒʌstɪfɪˈkeɪʃən",
+    "kana": "ヂャスティフィケイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "justify（正当化する）+ -ation（名詞化）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "論理・議論"],
+    "meaning_main": "正当化／正当な理由／根拠",
+    "description": "justification（ヂャスティフィケイション）は行為や主張を正しいと示す「正当化・正当な理由・根拠」を表す名詞。動詞 justify の名詞形です。",
+    "keywords": ["justification 意味", "justification 使い方", "正当化 英語", "根拠 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】正当化／正当な理由", "note": "ある行為・主張を正しいと示す理由や根拠。" },
+      { "hinshi": "【名詞】弁明／言い訳", "note": "自分の行動を正しいと説明すること。" },
+      { "hinshi": "【名詞】（印刷）行揃え", "note": "文字を左右端にそろえる整形。専門用法。" }
+    ],
+    "usages": [
+      { "title": "① 正当な理由・根拠", "desc": "行為を正しいとする理由を表す。", "example_en": "There is no justification for such cruelty.", "example_ja": "そのような残酷さに正当な理由はない。" },
+      { "title": "② 弁明・釈明", "desc": "自分の行動を正しいと説明する。", "example_en": "He offered a long justification for his decision.", "example_ja": "彼は自分の決定について長々と弁明した。" }
+    ],
+    "warn": ["in justification of 〜（〜を正当化して）の形でよく使う。動詞は justify、形容詞は justifiable。"],
+    "etym_note": "動詞 justify（ラテン語 iustificare「正しくする」＝ iustus「正しい」＋ facere「する」）に名詞化の -ation が付いた語です。",
+    "etym_chain": [
+      { "node": "iustus + facere", "sub": "正しい+する", "era": "ラテン語" },
+      { "node": "iustificatio", "sub": "正当化", "era": "後期ラテン語" },
+      { "node": "justification", "sub": "正当化・根拠", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "no justification for", "ja": "〜に正当な理由はない" },
+      { "en": "in justification of", "ja": "〜を正当化して" },
+      { "en": "moral justification", "ja": "道徳的な正当化" },
+      { "en": "legal justification", "ja": "法的根拠" },
+      { "en": "seek justification", "ja": "正当な理由を求める" },
+      { "en": "with some justification", "ja": "それなりの根拠をもって" }
+    ],
+    "related": [
+      { "en": "justify", "ja": "正当化する" },
+      { "en": "justifiable", "ja": "正当と認められる" },
+      { "en": "rationale", "ja": "論理的根拠" },
+      { "en": "grounds", "ja": "根拠" }
+    ],
+    "faq": [
+      { "q": "justification と excuse の違いは？", "a": "justification は「正当な理由（本当に正しいと示す根拠）」、excuse は「言い訳（責任を軽くする弁明）」です。前者の方が正当性が強いニュアンスです。" },
+      { "q": "印刷用語の justification とは？", "a": "文字列を行の左右端にそろえる整形（両端揃え）を指します。ワープロの「均等割り付け」に近い機能です。" }
+    ],
+    "quiz": [
+      { "q": "justification の意味は？", "A": "正当化・根拠", "B": "破壊", "C": "調整", "D": "喜び", "correct": "A" },
+      { "q": "justification の動詞形は？", "A": "justness", "B": "justify", "C": "justly", "D": "justice", "correct": "B" }
+    ]
+  },
+  {
+    "english": "justly",
+    "pron": "ˈdʒʌstli",
+    "kana": "ヂャストリィ",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "just（正しい）+ -ly（副詞化）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "様態"],
+    "meaning_main": "正当に／公正に／当然のことながら",
+    "description": "justly（ヂャストリィ）は「正当に・公正に・当然」を意味する副詞。just（正しい）に -ly が付いた語で、行いや評価が理にかなっている様子を表します。",
+    "keywords": ["justly 意味", "justly 使い方", "正当に 英語", "公正に 英語"],
+    "meanings": [
+      { "hinshi": "【副詞】正当に／公正に", "note": "公平で正しいやり方で。treat someone justly。" },
+      { "hinshi": "【副詞】当然のことながら", "note": "もっともな理由があって。justly proud（誇りに思って当然）。" }
+    ],
+    "usages": [
+      { "title": "① 公正に・正しく", "desc": "公平な扱いや判断を表す。", "example_en": "The workers demanded to be treated justly.", "example_ja": "労働者たちは公正に扱われることを求めた。" },
+      { "title": "② 当然のことながら", "desc": "もっともな理由があることを表す。", "example_en": "She is justly famous for her research.", "example_ja": "彼女は研究で有名になって当然だ。" }
+    ],
+    "warn": ["justly proud / justly famous のように「〜して当然」の意味で使うことが多い。"],
+    "etym_note": "形容詞 just（ラテン語 iustus「正しい」由来）に副詞化の -ly が付いた語です。just 自体には「ちょうど・たった今」の副詞用法もありますが、justly は「正しく・公正に」の意味に特化しています。",
+    "etym_chain": [
+      { "node": "iustus", "sub": "正しい", "era": "ラテン語" },
+      { "node": "just", "sub": "正しい", "era": "中英語" },
+      { "node": "justly", "sub": "正当に", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "treat someone justly", "ja": "人を公正に扱う" },
+      { "en": "justly proud", "ja": "誇りに思って当然" },
+      { "en": "justly famous", "ja": "有名になって当然" },
+      { "en": "act justly", "ja": "正しく振る舞う" },
+      { "en": "justly rewarded", "ja": "正当に報われた" },
+      { "en": "rightly and justly", "ja": "正しく公正に" }
+    ],
+    "related": [
+      { "en": "just", "ja": "正しい・公正な" },
+      { "en": "justice", "ja": "正義" },
+      { "en": "fairly", "ja": "公平に" },
+      { "en": "rightly", "ja": "正しく・当然" }
+    ],
+    "faq": [
+      { "q": "justly と just の副詞用法はどう違う？", "a": "just は「ちょうど・たった今・ただ〜だけ」の意味、justly は「正しく・公正に・当然」の意味です。別の役割を持ちます。" },
+      { "q": "justly proud とは？", "a": "「誇りに思って当然だ」という意味で、もっともな理由があって誇っている様子を表します。" }
+    ],
+    "quiz": [
+      { "q": "justly の意味は？", "A": "正当に・公正に", "B": "たった今", "C": "ほんの少し", "D": "急いで", "correct": "A" },
+      { "q": "「有名になって当然」を表すのは？", "A": "just famous", "B": "justly famous", "C": "justice famous", "D": "justify famous", "correct": "B" }
+    ]
+  },
+  {
+    "english": "juxtaposition",
+    "pron": "ˌdʒʌkstəpəˈzɪʃən",
+    "kana": "ヂャクスタポジション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 juxta（そばに）+ position（配置）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "芸術・論理"],
+    "meaning_main": "並置／対比／隣り合わせに置くこと",
+    "description": "juxtaposition（ヂャクスタポジション）は対照的なものを隣り合わせに置く「並置・対比」を表す名詞。芸術・文学・論理でよく使われる語です。",
+    "keywords": ["juxtaposition 意味", "juxtaposition 使い方", "並置 英語", "対比 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】並置／隣り合わせ", "note": "二つ以上のものを近くに並べて置くこと。" },
+      { "hinshi": "【名詞】対比／対照", "note": "対照的なものを並べて違いを際立たせること。" }
+    ],
+    "usages": [
+      { "title": "① 対照的なものの並置", "desc": "違いを際立たせるための配置を表す。", "example_en": "The photo shows a striking juxtaposition of old and new.", "example_ja": "その写真は新旧の鮮やかな対比を映している。" },
+      { "title": "② 論理・議論での対比", "desc": "考えを並べて比較する。", "example_en": "The juxtaposition of the two theories reveals their flaws.", "example_ja": "二つの理論を並べると、その欠点が見えてくる。" }
+    ],
+    "warn": ["in juxtaposition with / to 〜（〜と並べて）の形で使う。動詞は juxtapose。"],
+    "etym_note": "ラテン語 juxta（そばに・隣に）と position（ラテン語 ponere「置く」由来の配置）を組み合わせた語で、「隣に置くこと」を意味します。",
+    "etym_chain": [
+      { "node": "juxta + ponere", "sub": "隣に+置く", "era": "ラテン語要素" },
+      { "node": "juxtaposition", "sub": "並置・対比", "era": "18世紀〜" }
+    ],
+    "phrases": [
+      { "en": "in juxtaposition with", "ja": "〜と並べて" },
+      { "en": "striking juxtaposition", "ja": "際立った対比" },
+      { "en": "juxtaposition of colors", "ja": "色の対比" },
+      { "en": "curious juxtaposition", "ja": "奇妙な取り合わせ" },
+      { "en": "visual juxtaposition", "ja": "視覚的な並置" },
+      { "en": "create a juxtaposition", "ja": "対比を生み出す" }
+    ],
+    "related": [
+      { "en": "juxtapose", "ja": "並置する" },
+      { "en": "contrast", "ja": "対比・対照" },
+      { "en": "comparison", "ja": "比較" },
+      { "en": "adjacent", "ja": "隣接した" }
+    ],
+    "faq": [
+      { "q": "juxtaposition と contrast の違いは？", "a": "juxtaposition は「並べて置くこと」自体を指し、contrast は「その結果生じる違い・対照」を指します。並置によって対比が生まれる関係です。" },
+      { "q": "juxtaposition はどんな分野で使う？", "a": "美術・写真・文学・音楽・論説など、対照的な要素を並べて効果を出す場面で幅広く使われます。" }
+    ],
+    "quiz": [
+      { "q": "juxtaposition の意味は？", "A": "並置・対比", "B": "破壊", "C": "喜び", "D": "調整", "correct": "A" },
+      { "q": "juxtaposition の動詞形は？", "A": "juxtapose", "B": "juxtance", "C": "juxtify", "D": "juxtate", "correct": "A" }
+    ]
+  },
+  {
+    "english": "juridical",
+    "pron": "dʒʊˈrɪdɪkəl",
+    "kana": "ヂュリディカル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 iuridicus（法を語る）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "法律"],
+    "meaning_main": "司法上の／法律上の／裁判の",
+    "description": "juridical（ヂュリディカル）は「司法上の・法律上の」を意味する形容詞。judicial に近いが、法の理論・制度全般に関わる硬い専門語です。",
+    "keywords": ["juridical 意味", "juridical 使い方", "法律上の 英語", "司法上の 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】法律上の／司法上の", "note": "法や裁判に関する。juridical person（法人）。" },
+      { "hinshi": "【形容詞】法学の", "note": "法の理論・研究に関する。" }
+    ],
+    "usages": [
+      { "title": "① 法律・司法に関する", "desc": "法制度や裁判に関わることを表す。", "example_en": "The treaty has no juridical force.", "example_ja": "その条約には法的効力がない。" },
+      { "title": "② 法人などの専門用語", "desc": "juridical person（法人）のように使う。", "example_en": "A company is a juridical person under the law.", "example_ja": "会社は法律上、法人である。" }
+    ],
+    "warn": ["judicial（裁判所の実務）とやや異なり、juridical は「法そのもの・法理論」に関わるニュアンスが強い。"],
+    "etym_note": "ラテン語 iuridicus（法を語る＝ ius「法」＋ dicere「言う」）に由来します。judicial・jurist・jurisdiction などと同じ ius 系の語です。",
+    "etym_chain": [
+      { "node": "ius + dicere", "sub": "法+言う", "era": "ラテン語" },
+      { "node": "iuridicus", "sub": "法を語る", "era": "ラテン語" },
+      { "node": "juridical", "sub": "法律上の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "juridical person", "ja": "法人" },
+      { "en": "juridical force", "ja": "法的効力" },
+      { "en": "juridical status", "ja": "法律上の地位" },
+      { "en": "juridical system", "ja": "法制度" },
+      { "en": "juridical basis", "ja": "法的根拠" },
+      { "en": "juridical review", "ja": "法的審査" }
+    ],
+    "related": [
+      { "en": "judicial", "ja": "司法の" },
+      { "en": "legal", "ja": "法律の" },
+      { "en": "juridic", "ja": "法律上の（異形）" },
+      { "en": "jurisprudence", "ja": "法学" }
+    ],
+    "faq": [
+      { "q": "juridical と judicial の違いは？", "a": "judicial は「裁判所・裁判官の実務に関する」、juridical は「法そのもの・法理論・法制度に関する」ニュアンスです。juridical の方が抽象的・学術的です。" },
+      { "q": "juridical person とは？", "a": "法律上の権利義務の主体となる「法人」のことです。自然人（natural person）に対する概念です。" }
+    ],
+    "quiz": [
+      { "q": "juridical の意味は？", "A": "法律上の・司法上の", "B": "医学の", "C": "軍事の", "D": "音楽の", "correct": "A" },
+      { "q": "juridical person が指すのは？", "A": "裁判官", "B": "法人", "C": "証人", "D": "弁護士", "correct": "B" }
+    ]
+  },
+  {
+    "english": "judicature",
+    "pron": "ˈdʒuːdɪkətʃər",
+    "kana": "ヂューディカチャァ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 iudicare（裁く）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "法律・格式"],
+    "meaning_main": "司法権／裁判機構／裁判官職",
+    "description": "judicature（ヂューディカチャァ）は司法を行う権限や裁判機構・裁判官の職を指す硬い法律用語。judiciary に近い格式ばった語です。",
+    "keywords": ["judicature 意味", "judicature 使い方", "司法権 英語", "裁判機構 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】司法権／裁判権", "note": "裁判を行う法的権限。" },
+      { "hinshi": "【名詞】裁判機構／司法制度", "note": "裁判所の体系。the judicature。" },
+      { "hinshi": "【名詞】裁判官職／裁判官団", "note": "裁判官の地位・集団。" }
+    ],
+    "usages": [
+      { "title": "① 司法権・裁判権", "desc": "裁判を行う権限を表す。", "example_en": "Parliament limited the king's judicature.", "example_ja": "議会は国王の司法権を制限した。" },
+      { "title": "② 裁判制度・機構", "desc": "司法の体系を指す。", "example_en": "The Judicature Acts reformed English courts.", "example_ja": "裁判所法はイングランドの裁判所を改革した。" }
+    ],
+    "warn": ["現代では judiciary の方が一般的。judicature は歴史的・法制史的文脈（例: the Judicature Acts）でよく見られる。"],
+    "etym_note": "ラテン語 iudicare（裁く＝ iudex「裁判官」由来）から中世ラテン語 iudicatura を経た語で、judge・judicial と同族です。",
+    "etym_chain": [
+      { "node": "iudicare", "sub": "裁く", "era": "ラテン語" },
+      { "node": "iudicatura", "sub": "裁判権", "era": "中世ラテン語" },
+      { "node": "judicature", "sub": "司法権", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the judicature", "ja": "司法機構" },
+      { "en": "supreme judicature", "ja": "最高司法権" },
+      { "en": "Judicature Acts", "ja": "裁判所法（英史）" },
+      { "en": "seat of judicature", "ja": "裁判の座" },
+      { "en": "exercise judicature", "ja": "司法権を行使する" },
+      { "en": "court of judicature", "ja": "裁判所" }
+    ],
+    "related": [
+      { "en": "judiciary", "ja": "司法機関" },
+      { "en": "jurisdiction", "ja": "司法権・管轄" },
+      { "en": "judicial", "ja": "司法の" },
+      { "en": "magistrature", "ja": "行政司法官職" }
+    ],
+    "faq": [
+      { "q": "judicature と judiciary の違いは？", "a": "意味は重なりますが、judiciary が現代で一般的な「司法機関」を指すのに対し、judicature はやや古めかしく、司法権・裁判機構を法制史的に指すことが多いです。" },
+      { "q": "Judicature Acts とは？", "a": "19世紀イングランドで裁判所制度を統合・改革した一連の法律（1873年〜）で、英米法の歴史で重要です。" }
+    ],
+    "quiz": [
+      { "q": "judicature の意味は？", "A": "司法権・裁判機構", "B": "立法権", "C": "行政命令", "D": "選挙制度", "correct": "A" },
+      { "q": "judicature とほぼ同義の現代的な語は？", "A": "legislature", "B": "judiciary", "C": "executive", "D": "electorate", "correct": "B" }
+    ]
+  },
+  {
+    "english": "juvenilia",
+    "pron": "ˌdʒuːvəˈnɪliə",
+    "kana": "ヂューヴェニリア",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 juvenilis（若い）の中性複数より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文学・芸術"],
+    "meaning_main": "若書き（作家・芸術家の若い頃の作品）",
+    "description": "juvenilia（ヂューヴェニリア）は作家や芸術家が若い頃・少年少女期に作った「若書き」の作品群を指す名詞。通常は複数扱いの文学用語です。",
+    "keywords": ["juvenilia 意味", "juvenilia 使い方", "若書き 英語", "初期作品 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】若書き／若い頃の作品", "note": "作家・芸術家が若年期に制作した作品の総称。複数扱い。" }
+    ],
+    "usages": [
+      { "title": "① 作家の若い頃の作品", "desc": "初期の未熟だが興味深い作品群を指す。", "example_en": "Scholars study Austen's juvenilia for early signs of her wit.", "example_ja": "研究者はオースティンの若書きに彼女の機知の萌芽を探る。" },
+      { "title": "② 芸術家の初期作", "desc": "画家・作曲家などにも使う。", "example_en": "The exhibition included the painter's juvenilia.", "example_ja": "その展覧会には画家の若い頃の作品も含まれていた。" }
+    ],
+    "warn": ["ラテン語由来の複数形なので通常 the juvenilia are 〜 のように複数扱い。単数の juvenile（少年・幼稚な）とは別語。"],
+    "etym_note": "ラテン語 juvenilis（若い＝ juvenis「若者」由来）の中性複数形で、「若い頃のもの」を意味します。juvenile（少年の・幼稚な）と同族です。",
+    "etym_chain": [
+      { "node": "juvenis", "sub": "若者", "era": "ラテン語" },
+      { "node": "juvenilia", "sub": "若い頃のもの", "era": "ラテン語（中性複数）" },
+      { "node": "juvenilia", "sub": "若書き", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "early juvenilia", "ja": "ごく初期の若書き" },
+      { "en": "the author's juvenilia", "ja": "その作家の若書き" },
+      { "en": "publish one's juvenilia", "ja": "若書きを出版する" },
+      { "en": "study the juvenilia", "ja": "若書きを研究する" },
+      { "en": "collected juvenilia", "ja": "若書き作品集" },
+      { "en": "surviving juvenilia", "ja": "現存する若書き" }
+    ],
+    "related": [
+      { "en": "juvenile", "ja": "少年の／幼稚な" },
+      { "en": "early works", "ja": "初期作品" },
+      { "en": "apprentice work", "ja": "習作" },
+      { "en": "oeuvre", "ja": "（芸術家の）全作品" }
+    ],
+    "faq": [
+      { "q": "juvenilia は単数？複数？", "a": "ラテン語の中性複数形なので通常は複数扱いです。作家の若い頃の作品「群」を指します。" },
+      { "q": "juvenilia と juvenile は同じ？", "a": "同語源ですが別語です。juvenile は「少年の・幼稚な」という形容詞・名詞、juvenilia は「若書き作品」を指す名詞です。" }
+    ],
+    "quiz": [
+      { "q": "juvenilia の意味は？", "A": "若い頃の作品（若書き）", "B": "少年犯罪", "C": "遊具", "D": "青春時代", "correct": "A" },
+      { "q": "juvenilia は文法上ふつうどう扱う？", "A": "常に単数", "B": "複数扱い", "C": "不可算のみ", "D": "動詞", "correct": "B" }
+    ]
+  }
+]
