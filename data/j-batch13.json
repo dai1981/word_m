@@ -1,0 +1,500 @@
+[
+  {
+    "english": "jiffy",
+    "pron": "ˈdʒɪfi",
+    "kana": "ジフィー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "18世紀英語（起源不明）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "口語"],
+    "meaning_main": "(口語)ほんの一瞬／すぐに",
+    "description": "jiffy は「ほんの一瞬・すぐ」を表すくだけた名詞。とても短い時間を表す口語で、in a jiffy（すぐに・あっという間に）の形でよく使われます。「ちょっと待って」「すぐ戻るね」といった日常会話で活躍します。",
+    "keywords": ["jiffy 意味", "jiffy 発音", "jiffy すぐ", "in a jiffy", "jiffy 例文"],
+    "meanings": [
+      { "hinshi": "【名】ほんの一瞬・短い時間", "note": "in a jiffy（すぐに）の形で使う口語。" }
+    ],
+    "usages": [
+      { "title": "① in a jiffy（すぐに）", "desc": "あっという間に。", "example_en": "I'll be back in a jiffy.", "example_ja": "すぐに戻るね。" },
+      { "title": "② ほんの一瞬", "desc": "とても短い時間。", "example_en": "It only took a jiffy.", "example_ja": "ほんの一瞬しかかからなかった。" },
+      { "title": "③ 待ってもらうとき", "desc": "少しの間。", "example_en": "Wait a jiffy, please.", "example_ja": "ちょっと待ってね。" }
+    ],
+    "warn": ["くだけた口語。in a jiffy（すぐに）の形が最も一般的。", "moment / instant と近いが、jiffy はより口語的で軽い。"],
+    "etym_note": "18世紀に現れた口語で、はっきりした語源はわかっていません。「ごく短い時間」を表す語として定着しました。",
+    "etym_chain": [
+      { "node": "jiffy", "sub": "一瞬(起源不明)", "era": "18世紀英語" },
+      { "node": "jiffy", "sub": "ほんの一瞬・すぐ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "in a jiffy", "ja": "すぐに・あっという間に" },
+      { "en": "back in a jiffy", "ja": "すぐ戻る" },
+      { "en": "wait a jiffy", "ja": "ちょっと待って" },
+      { "en": "done in a jiffy", "ja": "あっという間に終わる" },
+      { "en": "just a jiffy", "ja": "ほんの少しの間" },
+      { "en": "ready in a jiffy", "ja": "すぐに用意できる" }
+    ],
+    "related": [
+      { "en": "moment", "ja": "瞬間" },
+      { "en": "instant", "ja": "即座" },
+      { "en": "second", "ja": "秒・一瞬" },
+      { "en": "flash", "ja": "一瞬" }
+    ],
+    "faq": [
+      { "q": "in a jiffy とはどんな意味ですか？", "a": "「すぐに・あっという間に」という意味の口語表現です。I'll be there in a jiffy.（すぐ行くよ）のように使います。" },
+      { "q": "jiffy はフォーマルな場で使えますか？", "a": "くだけた口語なので、正式な場面では in a moment / shortly などを使う方が無難です。" }
+    ],
+    "quiz": [
+      { "q": "Don't worry, I'll finish it in a ___.（心配しないで、すぐ終わらせるから）", "A": "jiffy", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "in a jiffy の意味は？", "A": "すぐに", "B": "ゆっくりと", "C": "決して〜ない", "D": "毎年", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jigsaw",
+    "pron": "ˈdʒɪɡsɔː",
+    "kana": "ジグソー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "jig（上下に動く）＋ saw（のこぎり)",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "遊び・道具"],
+    "meaning_main": "ジグソーパズル／糸のこ",
+    "description": "jigsaw は「ジグソーパズル」を表す名詞。ばらばらのピースを組み合わせて1枚の絵を完成させるパズルです。ふつう jigsaw puzzle の形で使います。もともとは絵を細かく切り分けるのに使った「糸のこ（jigsaw）」の名から来ています。",
+    "keywords": ["jigsaw 意味", "jigsaw 発音", "ジグソーパズル", "jigsaw puzzle", "jigsaw 例文"],
+    "meanings": [
+      { "hinshi": "【名】ジグソーパズル", "note": "ピースを組み合わせて絵を完成させるパズル。jigsaw puzzle。" },
+      { "hinshi": "【名】糸のこ", "note": "曲線を切れる細い刃ののこぎり。" }
+    ],
+    "usages": [
+      { "title": "① ジグソーパズル", "desc": "jigsaw puzzle。", "example_en": "We put together a 1000-piece jigsaw.", "example_ja": "私たちは1000ピースのジグソーパズルを組み立てた。" },
+      { "title": "② 糸のこ（道具）", "desc": "曲線を切る。", "example_en": "He cut the wood with a jigsaw.", "example_ja": "彼は糸のこで木を切った。" },
+      { "title": "③ (比喩)複雑に組み合わさったもの", "desc": "パズルのように。", "example_en": "The evidence was like a jigsaw.", "example_ja": "証拠はパズルのようだった。" }
+    ],
+    "warn": ["パズルの意味では jigsaw puzzle と言うことが多い。", "jig（上下に動く）＋ saw（のこぎり）が語源。"],
+    "etym_note": "jig（上下に小刻みに動く）＋ saw（のこぎり）でできた語です。刃が上下に動く「糸のこ」で絵を細かく切り分けて作ったパズルから、jigsaw puzzle の名が生まれました。",
+    "etym_chain": [
+      { "node": "jig + saw", "sub": "上下に動く＋のこぎり", "era": "19世紀英語" },
+      { "node": "jigsaw", "sub": "糸のこ", "era": "近代英語" },
+      { "node": "jigsaw", "sub": "ジグソーパズル・糸のこ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a jigsaw puzzle", "ja": "ジグソーパズル" },
+      { "en": "do a jigsaw", "ja": "ジグソーパズルをする" },
+      { "en": "a jigsaw piece", "ja": "パズルのピース" },
+      { "en": "a 1000-piece jigsaw", "ja": "1000ピースのパズル" },
+      { "en": "use a jigsaw", "ja": "糸のこを使う" },
+      { "en": "the last jigsaw piece", "ja": "最後のピース" }
+    ],
+    "related": [
+      { "en": "puzzle", "ja": "パズル" },
+      { "en": "piece", "ja": "ピース・部分" },
+      { "en": "saw", "ja": "のこぎり" },
+      { "en": "solve", "ja": "解く" }
+    ],
+    "faq": [
+      { "q": "jigsaw とは何ですか？", "a": "ばらばらのピースを組み合わせて1枚の絵を完成させる「ジグソーパズル」です（ふつう jigsaw puzzle）。また、曲線を切れる「糸のこ」も指します。" },
+      { "q": "jigsaw の語源は？", "a": "jig（上下に動く）＋ saw（のこぎり）です。刃が上下に動く糸のこで絵を切り分けて作ったパズルから、この名が生まれました。" }
+    ],
+    "quiz": [
+      { "q": "It took hours to finish the 500-piece ___ puzzle.（500ピースのジグソーパズルを仕上げるのに何時間もかかった）", "A": "jigsaw", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jigsaw は jig ＋ ___ の複合語。空所は？", "A": "saw", "B": "see", "C": "sew", "D": "say", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jig",
+    "pron": "dʒɪɡ",
+    "kana": "ジグ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 giguer（跳ねる・踊る)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR B2", "音楽・ダンス"],
+    "meaning_main": "ジグ（軽快な踊り・その曲）／小刻みに動く",
+    "description": "jig は「ジグ」を表す名詞。アイルランドやスコットランドの、跳ねるように速く踊る軽快なダンスや、その音楽を指します。動詞では「小刻みに跳ねるように動く」。the jig is up（もう万事休すだ）という慣用表現でも使われます。",
+    "keywords": ["jig 意味", "jig 発音", "jig ジグ 踊り", "the jig is up", "jig 例文"],
+    "meanings": [
+      { "hinshi": "【名】ジグ（軽快な踊り・その曲）", "note": "跳ねるように速く踊るダンス・音楽。" },
+      { "hinshi": "【動】小刻みに跳ねるように動く", "note": "上下に速く動く。" }
+    ],
+    "usages": [
+      { "title": "① ジグ（踊り）", "desc": "軽快なダンス。", "example_en": "They danced a lively Irish jig.", "example_ja": "彼らは陽気なアイルランドのジグを踊った。" },
+      { "title": "② 小刻みに動く（動詞）", "desc": "跳ねるように。", "example_en": "He jigged up and down with excitement.", "example_ja": "彼は興奮して跳ねるように動いた。" },
+      { "title": "③ the jig is up（万事休す）", "desc": "慣用表現。", "example_en": "When the police arrived, the jig was up.", "example_ja": "警察が来て、もうおしまいだった。" }
+    ],
+    "warn": ["過去形・-ing 形は g を重ねる: jigged, jigging。", "the jig is up は「もう万事休す・ばれてしまった」の慣用句。"],
+    "etym_note": "古フランス語 giguer（跳ねる・踊る）に由来するとされます。跳ねるような軽快な踊りとその音楽を指す語として使われるようになりました。",
+    "etym_chain": [
+      { "node": "giguer", "sub": "跳ねる・踊る", "era": "古フランス語" },
+      { "node": "jig", "sub": "軽快な踊り", "era": "16世紀英語" },
+      { "node": "jig", "sub": "ジグ・小刻みに動く", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "dance a jig", "ja": "ジグを踊る" },
+      { "en": "an Irish jig", "ja": "アイルランドのジグ" },
+      { "en": "the jig is up", "ja": "もう万事休すだ" },
+      { "en": "jig up and down", "ja": "跳ねるように動く" },
+      { "en": "a lively jig", "ja": "陽気なジグ" },
+      { "en": "do a little jig", "ja": "ちょっと踊る" }
+    ],
+    "related": [
+      { "en": "dance", "ja": "踊り・踊る" },
+      { "en": "reel", "ja": "リール(踊り)" },
+      { "en": "hop", "ja": "跳ねる" },
+      { "en": "tune", "ja": "曲・調べ" }
+    ],
+    "faq": [
+      { "q": "jig とは何ですか？", "a": "アイルランドやスコットランドの、跳ねるように速く踊る軽快なダンスや、その音楽です。動詞で「小刻みに跳ねるように動く」の意味もあります。" },
+      { "q": "the jig is up とはどんな意味ですか？", "a": "「もう万事休すだ・(たくらみが)ばれてしまった」という意味の慣用表現です。踊り（jig）が終わる＝おしまい、というイメージから来ています。" }
+    ],
+    "quiz": [
+      { "q": "The dancers performed a fast, lively ___.（踊り手たちは速くて陽気なジグを踊った）", "A": "jig", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "the jig is up の意味は？", "A": "もう万事休すだ", "B": "始まったばかりだ", "C": "とても楽しい", "D": "準備ができた", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jumpsuit",
+    "pron": "ˈdʒʌmpsuːt",
+    "kana": "ジャンプスーツ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "jump（跳ぶ）＋ suit（衣服)",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "衣服"],
+    "meaning_main": "ジャンプスーツ／つなぎ服（上下がひと続きの服）",
+    "description": "jumpsuit は「ジャンプスーツ・つなぎ服」を表す名詞。上着とズボンが一つにつながった、上下ひと続きの衣服です。もとはパラシュート降下（jump）をする人が着る服でしたが、現在は作業着やファッションとしても着られます。",
+    "keywords": ["jumpsuit 意味", "jumpsuit 発音", "ジャンプスーツ", "jumpsuit つなぎ", "jumpsuit 例文"],
+    "meanings": [
+      { "hinshi": "【名】ジャンプスーツ・つなぎ服", "note": "上着とズボンがひと続きになった衣服。" }
+    ],
+    "usages": [
+      { "title": "① つなぎ服（衣服）", "desc": "上下ひと続き。", "example_en": "She wore a stylish jumpsuit to the party.", "example_ja": "彼女はパーティーにおしゃれなジャンプスーツを着ていった。" },
+      { "title": "② 作業着として", "desc": "実用的な服。", "example_en": "The mechanic wore a jumpsuit.", "example_ja": "整備士はつなぎを着ていた。" },
+      { "title": "③ パラシュート降下の服", "desc": "もとの用途。", "example_en": "Skydivers wear jumpsuits.", "example_ja": "スカイダイバーはジャンプスーツを着る。" }
+    ],
+    "warn": ["jump（跳ぶ）＋ suit（衣服）の複合語。1語で書く。", "上着とズボンがつながった一体型の服を指す。"],
+    "etym_note": "jump（跳ぶ）＋ suit（衣服）でできた語です。もとはパラシュート降下（parachute jump）をする兵士が着た一体型の服を指し、後に作業着やファッションにも広がりました。",
+    "etym_chain": [
+      { "node": "jump + suit", "sub": "跳ぶ＋衣服", "era": "20世紀英語" },
+      { "node": "jumpsuit", "sub": "ジャンプスーツ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "wear a jumpsuit", "ja": "ジャンプスーツを着る" },
+      { "en": "a stylish jumpsuit", "ja": "おしゃれなつなぎ" },
+      { "en": "a mechanic's jumpsuit", "ja": "整備士のつなぎ" },
+      { "en": "a flight jumpsuit", "ja": "飛行用ジャンプスーツ" },
+      { "en": "a denim jumpsuit", "ja": "デニムのつなぎ" },
+      { "en": "a one-piece jumpsuit", "ja": "一体型のつなぎ" }
+    ],
+    "related": [
+      { "en": "suit", "ja": "スーツ・衣服" },
+      { "en": "overalls", "ja": "オーバーオール" },
+      { "en": "outfit", "ja": "服装" },
+      { "en": "clothes", "ja": "衣服" }
+    ],
+    "faq": [
+      { "q": "jumpsuit とはどんな服ですか？", "a": "上着とズボンが一つにつながった、上下ひと続きの衣服です。もとはパラシュート降下用でしたが、今は作業着やファッションとしても着られます。" },
+      { "q": "jumpsuit の語源は？", "a": "jump（跳ぶ）＋ suit（衣服）です。パラシュート降下（jump）をする人が着た一体型の服に由来します。" }
+    ],
+    "quiz": [
+      { "q": "She looked elegant in a black ___ at the event.（彼女はイベントで黒いジャンプスーツ姿が上品だった）", "A": "jumpsuit", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jumpsuit は jump ＋ ___ の複合語。空所は？", "A": "suit", "B": "shoe", "C": "shirt", "D": "sock", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jumpy",
+    "pron": "ˈdʒʌmpi",
+    "kana": "ジャンピー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "jump（跳ぶ）＋ -y",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "感情"],
+    "meaning_main": "びくびくした／神経質な／落ち着かない",
+    "description": "jumpy は「びくびくした・神経質な」を表す形容詞。不安や緊張で、ちょっとしたことにも過敏に反応してびくっとするような状態を表します。jump（跳ぶ）＋ -y でできており、「すぐ跳び上がってしまう」イメージの語です。",
+    "keywords": ["jumpy 意味", "jumpy 発音", "jumpy びくびく", "jumpy 神経質", "jumpy 例文"],
+    "meanings": [
+      { "hinshi": "【形】びくびくした・神経質な・落ち着かない", "note": "不安や緊張で過敏になっているようす。" }
+    ],
+    "usages": [
+      { "title": "① びくびくした", "desc": "過敏に反応。", "example_en": "She was jumpy after the scary movie.", "example_ja": "彼女は怖い映画の後びくびくしていた。" },
+      { "title": "② 神経質な・落ち着かない", "desc": "そわそわする。", "example_en": "He gets jumpy before exams.", "example_ja": "彼は試験前になると神経質になる。" },
+      { "title": "③ ちょっとしたことに驚く", "desc": "びくっとする。", "example_en": "The loud noise made everyone jumpy.", "example_ja": "大きな音でみんなびくびくした。" }
+    ],
+    "warn": ["jump（跳ぶ）＋ -y でできた語。「すぐびくっと跳ぶ」イメージ。", "nervous（緊張した）と近い。名詞 jitters（そわそわ）も類義。"],
+    "etym_note": "jump（跳ぶ）に、性質を表す接尾辞 -y が付いた語です。「ちょっとしたことにもびくっと跳び上がる＝神経過敏な」という意味になりました。",
+    "etym_chain": [
+      { "node": "jump + -y", "sub": "跳ぶ＋性質", "era": "近代英語" },
+      { "node": "jumpy", "sub": "びくびくした", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "feel jumpy", "ja": "びくびくする" },
+      { "en": "a bit jumpy", "ja": "ちょっと神経質で" },
+      { "en": "jumpy nerves", "ja": "過敏な神経" },
+      { "en": "get jumpy", "ja": "落ち着かなくなる" },
+      { "en": "nervous and jumpy", "ja": "緊張してびくびくして" },
+      { "en": "jumpy about", "ja": "〜についてびくびくして" }
+    ],
+    "related": [
+      { "en": "nervous", "ja": "緊張した" },
+      { "en": "edgy", "ja": "いらいらした・神経質な" },
+      { "en": "anxious", "ja": "不安な" },
+      { "en": "calm", "ja": "落ち着いた" }
+    ],
+    "faq": [
+      { "q": "jumpy とはどんな意味ですか？", "a": "不安や緊張で、ちょっとしたことにも過敏に反応してびくっとするような「びくびくした・神経質な」状態を表します。" },
+      { "q": "jumpy と nervous の違いは？", "a": "どちらも「緊張した」ですが、jumpy は特に「ちょっとした刺激にびくっと反応する・落ち着かない」ようすを強調します。" }
+    ],
+    "quiz": [
+      { "q": "After the burglary, she felt ___ at every little sound.（強盗の後、彼女は小さな物音にもびくびくした）", "A": "jumpy", "B": "jealous", "C": "jaded", "D": "jumbo", "correct": "A" },
+      { "q": "jumpy の意味に近いのは？", "A": "びくびくした・神経質な", "B": "落ち着いた", "C": "眠い", "D": "怒った", "correct": "A" }
+    ]
+  },
+  {
+    "english": "junta",
+    "pron": "ˈhʊntə",
+    "kana": "フンタ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "スペイン語 junta（会議・評議会)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "政治"],
+    "meaning_main": "軍事政権／(クーデター後の)軍事評議会",
+    "description": "junta は「軍事政権・軍事評議会」を表す名詞。特にクーデターなどで政権を奪い、力で国を支配する軍人たちの集団を指します。スペイン語の「会議・評議会」に由来し、j を「フ」と発音することがあります（/ˈhʊntə/）。",
+    "keywords": ["junta 意味", "junta 発音", "junta 軍事政権", "junta クーデター", "junta 例文"],
+    "meanings": [
+      { "hinshi": "【名】軍事政権・軍事評議会", "note": "クーデターなどで力で国を支配する軍人の集団。" }
+    ],
+    "usages": [
+      { "title": "① 軍事政権", "desc": "軍人の支配集団。", "example_en": "A military junta seized power.", "example_ja": "軍事政権が権力を握った。" },
+      { "title": "② クーデター後の支配", "desc": "力による統治。", "example_en": "The junta ruled the country for years.", "example_ja": "その軍事政権は何年も国を支配した。" },
+      { "title": "③ 国際的な非難", "desc": "独裁的な政権。", "example_en": "The junta faced international sanctions.", "example_ja": "その軍事政権は国際的な制裁を受けた。" }
+    ],
+    "warn": ["スペイン語由来で、j を「フ」と発音することがある（/ˈhʊntə/）。/ˈdʒʌntə/ とも。", "クーデターで政権を握った軍人集団を指す、否定的な文脈が多い語。"],
+    "etym_note": "スペイン語 junta（会議・評議会）に由来し、ラテン語 jungere（つなぐ・結合する）から来ています。join / joint と同じ語源で、「集まった人々＝評議会」から「軍事評議会・軍事政権」の意味になりました。",
+    "etym_chain": [
+      { "node": "jungere", "sub": "つなぐ・結合する", "era": "ラテン語" },
+      { "node": "junta", "sub": "会議・評議会", "era": "スペイン語" },
+      { "node": "junta", "sub": "軍事政権", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a military junta", "ja": "軍事政権" },
+      { "en": "the ruling junta", "ja": "支配する軍事政権" },
+      { "en": "overthrow the junta", "ja": "軍事政権を倒す" },
+      { "en": "a junta seized power", "ja": "軍事政権が権力を奪った" },
+      { "en": "under the junta", "ja": "軍事政権のもとで" },
+      { "en": "the junta's rule", "ja": "軍事政権の支配" }
+    ],
+    "related": [
+      { "en": "coup", "ja": "クーデター" },
+      { "en": "regime", "ja": "政権・体制" },
+      { "en": "dictatorship", "ja": "独裁" },
+      { "en": "military", "ja": "軍の" }
+    ],
+    "faq": [
+      { "q": "junta とは何ですか？", "a": "特にクーデターなどで政権を奪い、力で国を支配する軍人たちの集団「軍事政権・軍事評議会」を指します。" },
+      { "q": "junta の発音は？", "a": "スペイン語由来のため、j を「フ」と発音して /ˈhʊntə/（フンタ）となることが多いですが、/ˈdʒʌntə/（ジャンタ）とも読まれます。" }
+    ],
+    "quiz": [
+      { "q": "After the coup, a military ___ took control of the country.（クーデターの後、軍事政権が国を支配した）", "A": "junta", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "junta のもとのスペイン語の意味は？", "A": "会議・評議会", "B": "戦争", "C": "祭り", "D": "旅", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jilt",
+    "pron": "dʒɪlt",
+    "kana": "ジルト",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "17世紀英語（起源不明）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "感情・恋愛"],
+    "meaning_main": "(恋人を)ふる／捨てる",
+    "description": "jilt は「(恋人や婚約者を)ふる・捨てる」を表す動詞。特に、真剣な交際や婚約の相手を突然そっけなく振ってしまうことを指します。しばしば受け身 be jilted（振られる）の形で使われる、ややかたい語です。",
+    "keywords": ["jilt 意味", "jilt 発音", "jilt ふる", "be jilted", "jilt 例文"],
+    "meanings": [
+      { "hinshi": "【動】(恋人・婚約者を)ふる・捨てる", "note": "真剣な相手を突然振る。" }
+    ],
+    "usages": [
+      { "title": "① 恋人をふる", "desc": "突然振る。", "example_en": "She jilted him just before the wedding.", "example_ja": "彼女は結婚式の直前に彼をふった。" },
+      { "title": "② be jilted（振られる）", "desc": "受け身でよく使う。", "example_en": "He was jilted by his fiancée.", "example_ja": "彼は婚約者に振られた。" },
+      { "title": "③ 婚約を破棄する", "desc": "そっけなく捨てる。", "example_en": "The bride was jilted at the altar.", "example_ja": "花嫁は祭壇で振られた。" }
+    ],
+    "warn": ["特に婚約・真剣な交際の相手を突然振ることを指す。", "しばしば受け身 be jilted（振られる）で使う。"],
+    "etym_note": "17世紀に現れた語で、はっきりした語源はわかっていません。「軽々しく男を振る女」を指す名詞から動詞化したとされます。",
+    "etym_chain": [
+      { "node": "jilt", "sub": "振る(起源不明)", "era": "17世紀英語" },
+      { "node": "jilt", "sub": "(恋人を)ふる・捨てる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be jilted", "ja": "振られる" },
+      { "en": "jilt one's lover", "ja": "恋人をふる" },
+      { "en": "jilted at the altar", "ja": "祭壇で振られる" },
+      { "en": "a jilted lover", "ja": "振られた恋人" },
+      { "en": "jilt someone", "ja": "〜をふる" },
+      { "en": "feel jilted", "ja": "振られた気持ちになる" }
+    ],
+    "related": [
+      { "en": "dump", "ja": "(恋人を)ふる(口語)" },
+      { "en": "reject", "ja": "拒む" },
+      { "en": "abandon", "ja": "見捨てる" },
+      { "en": "fiancé", "ja": "婚約者" }
+    ],
+    "faq": [
+      { "q": "jilt とはどんな意味ですか？", "a": "「(恋人や婚約者を)ふる・捨てる」という意味の動詞です。特に、真剣な交際や婚約の相手を突然そっけなく振ってしまうことを指します。" },
+      { "q": "jilt と dump の違いは？", "a": "どちらも「恋人をふる」ですが、jilt はややかたく、特に婚約など真剣な関係を突然裏切って振るニュアンス、dump はくだけた口語です。" }
+    ],
+    "quiz": [
+      { "q": "She ___ him a week before their wedding.（彼女は結婚式の1週間前に彼をふった）", "A": "jilted", "B": "jammed", "C": "jogged", "D": "jumped", "correct": "A" },
+      { "q": "jilt の意味に近いのは？", "A": "(恋人を)ふる", "B": "結婚する", "C": "出会う", "D": "手伝う", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jinni",
+    "pron": "ˈdʒɪni",
+    "kana": "ジニー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "アラビア語 jinnī（精霊)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "神話・伝説"],
+    "meaning_main": "ジン（アラビアの伝説の精霊。英語のgenie）",
+    "description": "jinni は「ジン（精霊）」を表す名詞。アラビアの神話・伝承に登場する、超自然的な力を持つ精霊です。『アラビアン・ナイト』でランプから現れる魔神（genie）として知られます。複数形は jinn。英語の genie はこの語に由来します。",
+    "keywords": ["jinni 意味", "jinni 発音", "ジン 精霊", "jinni genie", "jinni 例文"],
+    "meanings": [
+      { "hinshi": "【名】ジン・精霊", "note": "アラビアの伝承に登場する超自然的な力を持つ精霊。複数形 jinn。" }
+    ],
+    "usages": [
+      { "title": "① ジン（精霊）", "desc": "アラビアの伝承。", "example_en": "A jinni appeared from the lamp.", "example_ja": "ランプから精霊が現れた。" },
+      { "title": "② 願いをかなえる魔神", "desc": "物語でおなじみ。", "example_en": "The jinni granted three wishes.", "example_ja": "その魔神は3つの願いをかなえた。" },
+      { "title": "③ 複数形 jinn", "desc": "精霊たち。", "example_en": "Arabic folklore is full of jinn.", "example_ja": "アラビアの民話は精霊であふれている。" }
+    ],
+    "warn": ["複数形は jinn。英語 genie はこの語に由来。", "djinn とも綴る。発音は /ˈdʒɪni/。"],
+    "etym_note": "アラビア語 jinnī（精霊）に由来します。イスラム以前からのアラビアの伝承に登場する超自然的存在で、『アラビアン・ナイト』を通じて西洋に知られ、英語の genie の元にもなりました。",
+    "etym_chain": [
+      { "node": "jinnī", "sub": "精霊", "era": "アラビア語" },
+      { "node": "jinni", "sub": "ジン", "era": "18-19世紀英語" },
+      { "node": "jinni", "sub": "ジン・精霊", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a jinni in a lamp", "ja": "ランプの中の精霊" },
+      { "en": "summon a jinni", "ja": "精霊を呼び出す" },
+      { "en": "the jinn (複数)", "ja": "精霊たち" },
+      { "en": "an evil jinni", "ja": "邪悪な精霊" },
+      { "en": "grant a wish", "ja": "願いをかなえる" },
+      { "en": "a powerful jinni", "ja": "強力な精霊" }
+    ],
+    "related": [
+      { "en": "genie", "ja": "ジーニー・魔神" },
+      { "en": "spirit", "ja": "精霊" },
+      { "en": "demon", "ja": "悪魔" },
+      { "en": "myth", "ja": "神話" }
+    ],
+    "faq": [
+      { "q": "jinni とは何ですか？", "a": "アラビアの神話・伝承に登場する、超自然的な力を持つ精霊「ジン」です。『アラビアン・ナイト』でランプから現れる魔神として知られます。複数形は jinn です。" },
+      { "q": "jinni と genie は関係がありますか？", "a": "はい。英語の genie（ジーニー・魔神）は、このアラビア語 jinnī に由来します。フランス語の génie（守護霊）とも結びついて広まりました。" }
+    ],
+    "quiz": [
+      { "q": "In the story, a ___ came out of the lamp and offered three wishes.（物語では、ランプから精霊が現れて3つの願いを差し出した）", "A": "jinni", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "英語の genie の由来となった語は？", "A": "jinni（アラビア語の精霊）", "B": "jump", "C": "jungle", "D": "juice", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jerrycan",
+    "pron": "ˈdʒerikæn",
+    "kana": "ジェリカン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "Jerry（ドイツ兵の俗称）＋ can（缶)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "道具"],
+    "meaning_main": "ジェリカン（燃料や水を運ぶ丈夫な缶）",
+    "description": "jerrycan は「ジェリカン」を表す名詞。ガソリンや水などを運ぶための、平たくて丈夫な金属またはプラスチック製の携行缶です。第二次世界大戦中にドイツ軍（俗称 Jerry）が使った缶を連合軍がまねたことに由来します。jerrican とも綴ります。",
+    "keywords": ["jerrycan 意味", "jerrycan 発音", "ジェリカン", "jerrycan 燃料缶", "jerrycan 例文"],
+    "meanings": [
+      { "hinshi": "【名】ジェリカン", "note": "燃料や水を運ぶ平たくて丈夫な携行缶。" }
+    ],
+    "usages": [
+      { "title": "① 燃料の携行缶", "desc": "ガソリンなどを運ぶ。", "example_en": "He filled the jerrycan with petrol.", "example_ja": "彼はジェリカンにガソリンを満たした。" },
+      { "title": "② 水を運ぶ缶", "desc": "水の運搬にも。", "example_en": "They carried water in jerrycans.", "example_ja": "彼らはジェリカンで水を運んだ。" },
+      { "title": "③ 丈夫な作り", "desc": "軍用由来。", "example_en": "A jerrycan is sturdy and easy to stack.", "example_ja": "ジェリカンは丈夫で積み重ねやすい。" }
+    ],
+    "warn": ["Jerry（第二次大戦のドイツ兵の俗称）＋ can（缶）が語源。", "jerrican とも綴る。燃料・水の携行缶を指す。"],
+    "etym_note": "第二次世界大戦中、ドイツ軍（イギリス兵が俗に Jerry と呼んだ）が使っていたよくできた燃料缶を、連合軍がまねて採用したことに由来します。Jerry＋can（缶）でこの名になりました。",
+    "etym_chain": [
+      { "node": "Jerry + can", "sub": "ドイツ兵＋缶", "era": "第二次大戦・英語" },
+      { "node": "jerrycan", "sub": "ジェリカン", "era": "20世紀英語" },
+      { "node": "jerrycan", "sub": "ジェリカン", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a fuel jerrycan", "ja": "燃料用ジェリカン" },
+      { "en": "fill a jerrycan", "ja": "ジェリカンを満たす" },
+      { "en": "a water jerrycan", "ja": "水用ジェリカン" },
+      { "en": "a plastic jerrycan", "ja": "プラスチックのジェリカン" },
+      { "en": "carry a jerrycan", "ja": "ジェリカンを運ぶ" },
+      { "en": "a 20-liter jerrycan", "ja": "20リットルのジェリカン" }
+    ],
+    "related": [
+      { "en": "can", "ja": "缶" },
+      { "en": "container", "ja": "容器" },
+      { "en": "fuel", "ja": "燃料" },
+      { "en": "gasoline", "ja": "ガソリン" }
+    ],
+    "faq": [
+      { "q": "jerrycan とは何ですか？", "a": "ガソリンや水などを運ぶための、平たくて丈夫な金属またはプラスチック製の携行缶です。第二次世界大戦中にドイツ軍の缶を連合軍がまねたことに由来します。" },
+      { "q": "jerrycan の語源は？", "a": "Jerry（第二次大戦でイギリス兵がドイツ兵を呼んだ俗称）＋ can（缶）です。ドイツ軍のよくできた燃料缶を連合軍が採用したことに由来します。" }
+    ],
+    "quiz": [
+      { "q": "They stored extra gasoline in a ___ for the long trip.（彼らは長旅のため予備のガソリンをジェリカンに入れて保管した）", "A": "jerrycan", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jerrycan は何を運ぶための缶？", "A": "燃料や水", "B": "本", "C": "衣類", "D": "食器", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jump-start",
+    "pron": "ˈdʒʌmpstɑːrt",
+    "kana": "ジャンプスタート",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "jump（跳ぶ・急な）＋ start（始動)",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "頻出語"],
+    "meaning_main": "(バッテリー上がりの車を)ブースターで始動させる／(物事を)活気づける",
+    "description": "jump-start は「(バッテリーの上がった車を)他の車の電気をつないで始動させる」を表す動詞です。そこから比喩的に「(停滞した物事を)勢いよく始めさせる・活気づける」の意味でも広く使われます。名詞でも使い、jumpstart と1語でも書きます。",
+    "keywords": ["jump-start 意味", "jump-start 発音", "ジャンプスタート", "jump-start 活気づける", "jump-start 例文"],
+    "meanings": [
+      { "hinshi": "【動】(車を)ブースターで始動させる", "note": "他の車の電気をつないでエンジンをかける。" },
+      { "hinshi": "【動】(物事を)活気づける・勢いよく始める", "note": "停滞したものを動かし始める。" }
+    ],
+    "usages": [
+      { "title": "① 車を始動させる", "desc": "バッテリー上がりを助ける。", "example_en": "We jump-started the car with cables.", "example_ja": "私たちはケーブルで車を始動させた。" },
+      { "title": "② 物事を活気づける（比喩）", "desc": "勢いをつける。", "example_en": "The plan aims to jump-start the economy.", "example_ja": "その計画は経済を活気づけることを狙う。" },
+      { "title": "③ 名詞でも使う", "desc": "give ~ a jump-start。", "example_en": "The grant gave the project a jump-start.", "example_ja": "その助成金は計画に弾みを与えた。" }
+    ],
+    "warn": ["jump-start / jumpstart どちらの表記もある。", "kickstart（弾みをつけて始める）と意味が近い。"],
+    "etym_note": "jump（急な・跳ぶ）＋ start（始動）でできた語です。バッテリー上がりの車に外部から電気を「跳ね上げるように」つないで始動させることから、比喩的に「物事に弾みをつけて始める」の意味になりました。",
+    "etym_chain": [
+      { "node": "jump + start", "sub": "急な＋始動", "era": "20世紀英語" },
+      { "node": "jump-start", "sub": "ブースター始動・活気づける", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "jump-start a car", "ja": "車を始動させる" },
+      { "en": "jump-start the economy", "ja": "経済を活気づける" },
+      { "en": "give a jump-start", "ja": "弾みを与える" },
+      { "en": "jump-start a project", "ja": "計画に弾みをつける" },
+      { "en": "jumper cables", "ja": "ブースターケーブル" },
+      { "en": "jump-start growth", "ja": "成長を促進する" }
+    ],
+    "related": [
+      { "en": "kickstart", "ja": "弾みをつけて始める" },
+      { "en": "start", "ja": "始める" },
+      { "en": "boost", "ja": "後押しする" },
+      { "en": "battery", "ja": "バッテリー" }
+    ],
+    "faq": [
+      { "q": "jump-start とはどんな意味ですか？", "a": "もとは「バッテリーの上がった車を、他の車の電気をつないで始動させる」ことです。比喩的に「(停滞した物事を)勢いよく始めさせる・活気づける」の意味でも使います。" },
+      { "q": "jump-start と kickstart の違いは？", "a": "意味はほぼ同じ「弾みをつけて始める」です。jump-start はもともと車のバッテリー始動、kickstart はバイクのペダル始動が由来ですが、比喩ではどちらも使えます。" }
+    ],
+    "quiz": [
+      { "q": "The government hopes to ___ the economy with new spending.（政府は新たな支出で経済を活気づけたいと考えている）", "A": "jump-start", "B": "jog", "C": "jump", "D": "join", "correct": "A" },
+      { "q": "jump-start のもとの意味は？", "A": "車をブースターで始動させる", "B": "水を沸かす", "C": "絵を描く", "D": "料理する", "correct": "A" }
+    ]
+  }
+]
