@@ -447,5 +447,55 @@
       { "q": "With no spare parts, they had to ___ a fix for the machine.（予備部品がなく、機械を間に合わせで直すしかなかった）", "A": "jury-rig", "B": "jog", "C": "jump", "D": "join", "correct": "A" },
       { "q": "jury-rig の意味に近いのは？", "A": "あり合わせで間に合わせに作る", "B": "正式に組み立てる", "C": "捨てる", "D": "数える", "correct": "A" }
     ]
+  },
+  {
+    "english": "judder",
+    "pron": "ˈdʒʌdər",
+    "kana": "ジャダー",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "英語 judder（shudder の連想による造語)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "動作・英"],
+    "meaning_main": "(機械などが)激しく震える／ガタガタ揺れる",
+    "description": "judder は主にイギリス英語で「(機械・車などが)激しく震える・ガタガタ揺れる」を表す動詞です。エンジンやブレーキ、車体などが不規則に激しく振動することを指します。shudder（身震いする）と似た響きの語で、名詞でも使います。",
+    "keywords": ["judder 意味", "judder 発音", "judder 震える", "judder ガタガタ", "judder 例文"],
+    "meanings": [
+      { "hinshi": "【動】(機械などが)激しく震える・ガタガタ揺れる", "note": "不規則に激しく振動する。英国的な語。" },
+      { "hinshi": "【名】激しい振動", "note": "ガタガタという揺れ。" }
+    ],
+    "usages": [
+      { "title": "① 激しく震える（動詞）", "desc": "機械・車が。", "example_en": "The car juddered to a halt.", "example_ja": "車はガタガタと震えて止まった。" },
+      { "title": "② ブレーキの振動", "desc": "不規則な揺れ。", "example_en": "The brakes juddered on the wet road.", "example_ja": "ブレーキは濡れた道でガタガタ震えた。" },
+      { "title": "③ 激しい振動（名詞）", "desc": "揺れそのもの。", "example_en": "There was a judder as the engine started.", "example_ja": "エンジンがかかると激しい振動があった。" }
+    ],
+    "warn": ["主にイギリス英語。機械・車などの激しく不規則な振動を指す。", "shudder（人が身震いする）と似るが、judder は主に機械の振動。"],
+    "etym_note": "20世紀のイギリス英語で生まれた語で、shudder（身震いする）や judder の響きから作られた擬音的な造語とされます。機械などの激しい振動を表します。",
+    "etym_chain": [
+      { "node": "judder", "sub": "激しく震える(造語)", "era": "20世紀イギリス英語" },
+      { "node": "judder", "sub": "激しく震える・振動", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "judder to a halt", "ja": "ガタガタ震えて止まる" },
+      { "en": "the engine juddered", "ja": "エンジンが激しく震えた" },
+      { "en": "a violent judder", "ja": "激しい振動" },
+      { "en": "the brakes judder", "ja": "ブレーキが震える" },
+      { "en": "judder and shake", "ja": "ガタガタ揺れる" },
+      { "en": "a sudden judder", "ja": "突然の激しい揺れ" }
+    ],
+    "related": [
+      { "en": "shudder", "ja": "身震いする" },
+      { "en": "vibrate", "ja": "振動する" },
+      { "en": "shake", "ja": "揺れる" },
+      { "en": "jolt", "ja": "急に揺れる" }
+    ],
+    "faq": [
+      { "q": "judder とはどんな意味ですか？", "a": "主にイギリス英語で「(機械・車などが)激しく震える・ガタガタ揺れる」という意味です。エンジンやブレーキ、車体などが不規則に激しく振動することを指します。" },
+      { "q": "judder と shudder の違いは？", "a": "judder は主に機械・車などの激しい振動、shudder は主に人が恐怖や寒さで「身震いする」ことを指します。響きは似ていますが使う対象が異なります。" }
+    ],
+    "quiz": [
+      { "q": "The old bus ___ violently as it went over the bumps.（古いバスは段差を越えるとき激しくガタガタ揺れた）", "A": "juddered", "B": "jammed", "C": "jogged", "D": "jumped", "correct": "A" },
+      { "q": "judder は主に何が震えることを指す？", "A": "機械・車", "B": "人の心", "C": "植物", "D": "音楽", "correct": "A" }
+    ]
   }
 ]
