@@ -1,0 +1,494 @@
+[
+  {
+    "english": "Jung",
+    "pron": "jʊŋ",
+    "kana": "ユング",
+    "hinshi": "固有名詞（人名）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ドイツ語の姓 Jung（若い）より",
+    "ld_level": "準1級",
+    "badges": ["大学生〜", "英検準1級", "CEFR C1", "心理学・人物"],
+    "meaning_main": "ユング（カール・ユング；スイスの心理学者）",
+    "description": "Jung（ユング）は分析心理学を創始したスイスの精神科医カール・グスタフ・ユングを指す人名。集合的無意識や元型の概念で知られます。",
+    "keywords": ["Jung 意味", "カール・ユング", "分析心理学", "集合的無意識"],
+    "meanings": [
+      { "hinshi": "【固有名詞】カール・ユング", "note": "スイスの精神科医・心理学者（1875〜1961）。分析心理学の創始者。" },
+      { "hinshi": "【固有名詞】姓 Jung", "note": "ドイツ語圏・韓国語圏などで一般的な姓としても使われる。" }
+    ],
+    "usages": [
+      { "title": "① 分析心理学の創始者", "desc": "心理学者その人を指す。", "example_en": "Jung developed the idea of the collective unconscious.", "example_ja": "ユングは集合的無意識という考えを打ち立てた。" },
+      { "title": "② フロイトとの対比", "desc": "しばしばフロイトと並べて語られる。", "example_en": "Jung broke away from Freud's psychoanalysis.", "example_ja": "ユングはフロイトの精神分析から袂を分かった。" }
+    ],
+    "warn": ["発音は英語でも「ユング」に近い（Jは Y の音）。形容詞は Jungian（ユング派の）。"],
+    "etym_note": "ドイツ語の姓 Jung（「若い」の意）に由来します。英語では「ヤング」ではなく原音に近い「ユング」と読むのが通例です。",
+    "etym_chain": [
+      { "node": "jung", "sub": "若い", "era": "ドイツ語" },
+      { "node": "Jung", "sub": "姓", "era": "現代" }
+    ],
+    "phrases": [
+      { "en": "Carl Jung", "ja": "カール・ユング" },
+      { "en": "Jungian psychology", "ja": "ユング心理学" },
+      { "en": "Jung's archetypes", "ja": "ユングの元型" },
+      { "en": "the collective unconscious", "ja": "集合的無意識" },
+      { "en": "Jung and Freud", "ja": "ユングとフロイト" },
+      { "en": "a Jungian analyst", "ja": "ユング派の分析家" }
+    ],
+    "related": [
+      { "en": "Freud", "ja": "フロイト" },
+      { "en": "archetype", "ja": "元型" },
+      { "en": "unconscious", "ja": "無意識" },
+      { "en": "Jungian", "ja": "ユング派の" }
+    ],
+    "faq": [
+      { "q": "ユングとフロイトの違いは？", "a": "どちらも無意識を重視しましたが、ユングは「集合的無意識」や元型を提唱し、性欲中心のフロイト理論と袂を分かちました。" },
+      { "q": "Jung はどう発音する？", "a": "英語でも原音に近く「ユング（jʊŋ）」と読みます。J を Y の音で発音します。" }
+    ],
+    "quiz": [
+      { "q": "Jung が提唱した概念は？", "A": "相対性理論", "B": "集合的無意識", "C": "自然選択", "D": "万有引力", "correct": "B" },
+      { "q": "Jung の職業は？", "A": "物理学者", "B": "心理学者", "C": "作曲家", "D": "画家", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Juno",
+    "pron": "ˈdʒuːnoʊ",
+    "kana": "ヂューノー",
+    "hinshi": "固有名詞（神・探査機）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ラテン語 Iuno（女神の名）より",
+    "ld_level": "準1級",
+    "badges": ["大学生〜", "英検準1級", "CEFR C1", "神話・天文"],
+    "meaning_main": "ユノ（ローマ神話の女王神）／木星探査機ジュノー",
+    "description": "Juno（ヂューノー）はローマ神話でユピテルの妃であり結婚と女性を守護する女王神。NASAの木星探査機の名前にもなっています。",
+    "keywords": ["Juno 意味", "ユノ 女神", "ジュノー 探査機", "ローマ神話 女神"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ユノ（ジュノー）", "note": "ローマ神話の最高女神。ユピテルの妃で結婚・出産・女性の守護神。" },
+      { "hinshi": "【固有名詞】探査機ジュノー", "note": "2011年打ち上げのNASA木星探査機の名。" }
+    ],
+    "usages": [
+      { "title": "① ローマ神話の女王神", "desc": "女神そのものを指す。", "example_en": "Juno was the wife of Jupiter and queen of the gods.", "example_ja": "ユノはユピテルの妃で神々の女王だった。" },
+      { "title": "② NASAの探査機", "desc": "宇宙探査の文脈で登場する。", "example_en": "The Juno spacecraft has been orbiting Jupiter since 2016.", "example_ja": "探査機ジュノーは2016年から木星を周回している。" }
+    ],
+    "warn": ["ギリシャ神話のヘラ（Hera）に相当。6月 June の語源とされることもある。"],
+    "etym_note": "ラテン語 Iuno に由来し、若さ・生命力を意味する語根と関わるとされます。月名 June（6月）はユノにちなむという説があります。ギリシャ神話のヘラに対応します。",
+    "etym_chain": [
+      { "node": "Iuno", "sub": "女神の名", "era": "ラテン語" },
+      { "node": "Juno", "sub": "女神・探査機", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the goddess Juno", "ja": "女神ユノ" },
+      { "en": "Juno and Jupiter", "ja": "ユノとユピテル" },
+      { "en": "the temple of Juno", "ja": "ユノ神殿" },
+      { "en": "the Juno mission", "ja": "ジュノー計画" },
+      { "en": "Juno orbits Jupiter", "ja": "ジュノーが木星を周回する" },
+      { "en": "Juno, queen of the gods", "ja": "神々の女王ユノ" }
+    ],
+    "related": [
+      { "en": "Hera", "ja": "ヘラ（ギリシャの対応神）" },
+      { "en": "Jupiter", "ja": "ユピテル（夫）" },
+      { "en": "June", "ja": "6月（語源とされる）" },
+      { "en": "Roman mythology", "ja": "ローマ神話" }
+    ],
+    "faq": [
+      { "q": "Juno はギリシャ神話の誰に当たる？", "a": "女神ヘラ（Hera）に相当します。神々の女王で、結婚と女性の守護神です。" },
+      { "q": "6月 June と関係ある？", "a": "月名 June はユノ（Juno）にちなむという説があります。結婚の女神ゆえ「6月の花嫁」の言い伝えとも結び付けられます。" }
+    ],
+    "quiz": [
+      { "q": "Juno はローマ神話で何の女神？", "A": "戦いの女神", "B": "結婚・女性の女神", "C": "知恵の女神", "D": "海の女神", "correct": "B" },
+      { "q": "Juno と同名のNASA探査機が調べているのは？", "A": "火星", "B": "土星", "C": "木星", "D": "金星", "correct": "C" }
+    ]
+  },
+  {
+    "english": "Jesus",
+    "pron": "ˈdʒiːzəs",
+    "kana": "ヂーザス",
+    "hinshi": "固有名詞（人名・宗教）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ヘブライ語 Yeshua（神は救い）より",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "宗教・歴史"],
+    "meaning_main": "イエス（キリスト教の中心人物）",
+    "description": "Jesus（ヂーザス）はキリスト教の中心人物イエス・キリストを指す固有名詞。1世紀のユダヤに生まれ、キリスト教の教えの基礎となった人物です。",
+    "keywords": ["Jesus 意味", "イエス・キリスト", "キリスト教 中心", "Jesus 発音"],
+    "meanings": [
+      { "hinshi": "【固有名詞】イエス（・キリスト）", "note": "キリスト教で神の子・救い主とされる中心人物。" },
+      { "hinshi": "【固有名詞】スペイン語圏の男性名 Jesús", "note": "Jesús（ヘスス）は人名としても一般的。" }
+    ],
+    "usages": [
+      { "title": "① キリスト教の中心人物", "desc": "宗教・歴史上の人物を指す。", "example_en": "Christians believe Jesus is the son of God.", "example_ja": "キリスト教徒はイエスを神の子と信じている。" },
+      { "title": "② 歴史的人物としての言及", "desc": "1世紀の歴史的存在として語られる。", "example_en": "Jesus was born in the region of Judea.", "example_ja": "イエスはユダヤ地方で生まれた。" }
+    ],
+    "warn": ["Christ（キリスト）は「救い主・メシア」を意味する称号で、名前の一部ではない。宗教的にデリケートな話題は敬意をもって扱う。"],
+    "etym_note": "ヘブライ語 Yeshua（イェシュア＝「神は救い」）がギリシャ語 Iēsous、ラテン語 Iesus を経て英語 Jesus になりました。Christ は別語で、ギリシャ語 Christos（油を注がれた者＝救い主）に由来する称号です。",
+    "etym_chain": [
+      { "node": "Yeshua", "sub": "神は救い", "era": "ヘブライ語" },
+      { "node": "Iēsous", "sub": "ギリシャ語形", "era": "古代ギリシャ語" },
+      { "node": "Jesus", "sub": "英語名", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Jesus Christ", "ja": "イエス・キリスト" },
+      { "en": "the teachings of Jesus", "ja": "イエスの教え" },
+      { "en": "Jesus of Nazareth", "ja": "ナザレのイエス" },
+      { "en": "follow Jesus", "ja": "イエスに従う" },
+      { "en": "the life of Jesus", "ja": "イエスの生涯" },
+      { "en": "parables of Jesus", "ja": "イエスのたとえ話" }
+    ],
+    "related": [
+      { "en": "Christ", "ja": "キリスト（称号）" },
+      { "en": "Christianity", "ja": "キリスト教" },
+      { "en": "Bible", "ja": "聖書" },
+      { "en": "Bethlehem", "ja": "ベツレヘム（生誕地）" }
+    ],
+    "faq": [
+      { "q": "Jesus と Christ は同じ意味？", "a": "Jesus は名前、Christ は「救い主・メシア」を意味する称号です。合わせて「救い主イエス」を表します。" },
+      { "q": "スペイン語の Jesús は同じ語？", "a": "はい。同じ語源で、スペイン語圏では Jesús（ヘスス）が一般的な男性名として使われます。" }
+    ],
+    "quiz": [
+      { "q": "Jesus が中心人物である宗教は？", "A": "仏教", "B": "キリスト教", "C": "ヒンドゥー教", "D": "神道", "correct": "B" },
+      { "q": "Christ の本来の意味は？", "A": "教師", "B": "救い主・油を注がれた者", "C": "王", "D": "預言者", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Jonah",
+    "pron": "ˈdʒoʊnə",
+    "kana": "ヂョウナ",
+    "hinshi": "固有名詞（人名・聖書）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ヘブライ語 Yonah（鳩）より",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "聖書・人物"],
+    "meaning_main": "ヨナ（旧約聖書の預言者）／不運を招く人",
+    "description": "Jonah（ヂョウナ）は旧約聖書に登場する預言者ヨナ。大魚に飲み込まれる物語で知られ、転じて「不運を招く人」の意味でも使われます。",
+    "keywords": ["Jonah 意味", "ヨナ 聖書", "大魚 ヨナ", "不運を招く人"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ヨナ", "note": "旧約聖書『ヨナ書』の預言者。大きな魚に飲み込まれ、三日後に吐き出される。" },
+      { "hinshi": "【名詞】(比喩) 不運を招く人", "note": "船乗りの俗信から、災いをもたらす人を a Jonah と呼ぶ。" }
+    ],
+    "usages": [
+      { "title": "① 聖書の預言者ヨナ", "desc": "聖書の物語の人物を指す。", "example_en": "Jonah was swallowed by a great fish.", "example_ja": "ヨナは大きな魚に飲み込まれた。" },
+      { "title": "② 不運を招く人の比喩", "desc": "災いをもたらす人を指す口語。", "example_en": "The sailors thought he was a Jonah.", "example_ja": "船員たちは彼を不運を招く人だと思った。" }
+    ],
+    "warn": ["「クジラ」とよく言われるが、聖書の原文は「大きな魚（great fish）」。人名は男性名 Jonah としても一般的。"],
+    "etym_note": "ヘブライ語 Yonah（「鳩」の意）に由来します。船乗りの間で「ヨナが乗ると嵐が来る」という物語から、a Jonah が「不運を運ぶ人」を指す比喩になりました。",
+    "etym_chain": [
+      { "node": "Yonah", "sub": "鳩", "era": "ヘブライ語" },
+      { "node": "Jonah", "sub": "預言者名", "era": "現代英語" },
+      { "node": "a Jonah", "sub": "不運を招く人", "era": "比喩" }
+    ],
+    "phrases": [
+      { "en": "the Book of Jonah", "ja": "ヨナ書" },
+      { "en": "Jonah and the whale", "ja": "ヨナと大魚" },
+      { "en": "be a Jonah", "ja": "不運を招く人である" },
+      { "en": "swallowed like Jonah", "ja": "ヨナのように飲み込まれる" },
+      { "en": "Jonah's warning", "ja": "ヨナの警告" },
+      { "en": "the sign of Jonah", "ja": "ヨナのしるし" }
+    ],
+    "related": [
+      { "en": "Nineveh", "ja": "ニネベ（ヨナが向かった町）" },
+      { "en": "prophet", "ja": "預言者" },
+      { "en": "Old Testament", "ja": "旧約聖書" },
+      { "en": "whale", "ja": "クジラ" }
+    ],
+    "faq": [
+      { "q": "ヨナを飲み込んだのはクジラ？", "a": "一般に「クジラ」と語られますが、聖書の原文では「大きな魚（great fish）」と書かれています。" },
+      { "q": "a Jonah とはどういう意味？", "a": "船に災いをもたらすという物語から転じ、「不運を招く人」を指す口語表現です。" }
+    ],
+    "quiz": [
+      { "q": "Jonah は何に飲み込まれた？", "A": "ライオン", "B": "大きな魚", "C": "ワシ", "D": "ヘビ", "correct": "B" },
+      { "q": "a Jonah の比喩的な意味は？", "A": "英雄", "B": "不運を招く人", "C": "金持ち", "D": "旅人", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Jamestown",
+    "pron": "ˈdʒeɪmzˌtaʊn",
+    "kana": "ヂェイムズタウン",
+    "hinshi": "固有名詞（地名・史跡）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "英国王 James I にちなむ + town（町）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "歴史・地名"],
+    "meaning_main": "ジェームズタウン（北米初の恒久的英国植民地）",
+    "description": "Jamestown（ヂェイムズタウン）は1607年に築かれた北米で最初の恒久的なイギリス植民地。現在の米バージニア州にあり、アメリカ史の出発点とされます。",
+    "keywords": ["Jamestown 意味", "ジェームズタウン 植民地", "1607年 植民地", "アメリカ 最初の植民地"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ジェームズタウン", "note": "1607年建設の北米初の恒久的イギリス植民地。バージニア州。" },
+      { "hinshi": "【固有名詞】史跡・地名としての Jamestown", "note": "米国内の複数の地名にも使われる。" }
+    ],
+    "usages": [
+      { "title": "① 北米最初の英植民地", "desc": "歴史的植民地を指す。", "example_en": "Jamestown was founded in 1607 in Virginia.", "example_ja": "ジェームズタウンは1607年にバージニアに築かれた。" },
+      { "title": "② アメリカ史の起点", "desc": "建国前史の文脈で登場する。", "example_en": "Jamestown marks the start of permanent English settlement in America.", "example_ja": "ジェームズタウンはアメリカにおける恒久的英国入植の始まりを示す。" }
+    ],
+    "warn": ["1620年のプリマス植民地（ピルグリム）とは別。ジェームズタウンの方が早く、1607年の設立。"],
+    "etym_note": "当時のイングランド王ジェームズ1世（James I）にちなんで名付けられ、町を表す town が付いています。",
+    "etym_chain": [
+      { "node": "James I + town", "sub": "王名+町", "era": "1607年" },
+      { "node": "Jamestown", "sub": "植民地名", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the Jamestown colony", "ja": "ジェームズタウン植民地" },
+      { "en": "settlers of Jamestown", "ja": "ジェームズタウンの入植者" },
+      { "en": "founded Jamestown", "ja": "ジェームズタウンを建設した" },
+      { "en": "Historic Jamestown", "ja": "史跡ジェームズタウン" },
+      { "en": "Jamestown, Virginia", "ja": "バージニア州ジェームズタウン" },
+      { "en": "the story of Jamestown", "ja": "ジェームズタウンの物語" }
+    ],
+    "related": [
+      { "en": "Virginia", "ja": "バージニア州" },
+      { "en": "Plymouth", "ja": "プリマス植民地" },
+      { "en": "Pocahontas", "ja": "ポカホンタス" },
+      { "en": "colony", "ja": "植民地" }
+    ],
+    "faq": [
+      { "q": "ジェームズタウンはいつ建設された？", "a": "1607年です。北米で最初の恒久的なイギリス植民地とされます。" },
+      { "q": "プリマス植民地とどう違う？", "a": "プリマス（1620年、ピルグリム）より早く、1607年にバージニアに築かれた植民地です。宗教目的というより会社による経済的入植でした。" }
+    ],
+    "quiz": [
+      { "q": "Jamestown が築かれた年は？", "A": "1492年", "B": "1607年", "C": "1620年", "D": "1776年", "correct": "B" },
+      { "q": "Jamestown は現在のどの州にある？", "A": "マサチューセッツ", "B": "バージニア", "C": "テキサス", "D": "カリフォルニア", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Jutland",
+    "pron": "ˈdʒʌtlənd",
+    "kana": "ヂャットランド",
+    "hinshi": "固有名詞（地名）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ゲルマン系部族ジュート人（Jutes）の地",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "地理・歴史"],
+    "meaning_main": "ユトランド半島（デンマーク）／ユトランド沖海戦",
+    "description": "Jutland（ヂャットランド）はデンマーク本土をなすユトランド半島。第一次世界大戦最大の海戦「ユトランド沖海戦」の名でも知られます。",
+    "keywords": ["Jutland 意味", "ユトランド半島", "ユトランド沖海戦", "デンマーク 半島"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ユトランド半島", "note": "デンマーク本土を構成する半島。北はスカゲラク海峡に面する。" },
+      { "hinshi": "【固有名詞】ユトランド沖海戦", "note": "1916年、第一次大戦最大の艦隊決戦。英独の主力艦隊が激突。" }
+    ],
+    "usages": [
+      { "title": "① デンマークの半島", "desc": "地理的な半島を指す。", "example_en": "Jutland is the mainland part of Denmark.", "example_ja": "ユトランドはデンマークの本土部分だ。" },
+      { "title": "② 第一次大戦の海戦", "desc": "歴史的な海戦を指す。", "example_en": "The Battle of Jutland took place in 1916.", "example_ja": "ユトランド沖海戦は1916年に起きた。" }
+    ],
+    "warn": ["ゲルマン系のジュート人（Jutes）はアングロ・サクソンとともにブリテン島へ渡った部族で、地名の由来。"],
+    "etym_note": "5世紀にブリテン島へ渡ったゲルマン系部族「ジュート人（Jutes）」の土地を意味します。デンマーク語では Jylland（ユラン）です。",
+    "etym_chain": [
+      { "node": "Jutes", "sub": "ジュート人", "era": "古代ゲルマン" },
+      { "node": "Jutland", "sub": "ジュート人の地", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the Jutland peninsula", "ja": "ユトランド半島" },
+      { "en": "the Battle of Jutland", "ja": "ユトランド沖海戦" },
+      { "en": "northern Jutland", "ja": "北ユトランド" },
+      { "en": "the coast of Jutland", "ja": "ユトランドの海岸" },
+      { "en": "Jutland in Denmark", "ja": "デンマークのユトランド" },
+      { "en": "off Jutland", "ja": "ユトランド沖で" }
+    ],
+    "related": [
+      { "en": "Denmark", "ja": "デンマーク" },
+      { "en": "Jutes", "ja": "ジュート人" },
+      { "en": "North Sea", "ja": "北海" },
+      { "en": "peninsula", "ja": "半島" }
+    ],
+    "faq": [
+      { "q": "ユトランド半島はどの国？", "a": "デンマークです。半島部分が同国の本土をなし、南はドイツと接しています。" },
+      { "q": "ユトランド沖海戦とは？", "a": "1916年、第一次世界大戦で英独の主力艦隊が北海のユトランド沖で激突した、同大戦最大の海戦です。" }
+    ],
+    "quiz": [
+      { "q": "Jutland 半島がある国は？", "A": "ノルウェー", "B": "デンマーク", "C": "オランダ", "D": "ポーランド", "correct": "B" },
+      { "q": "ユトランド沖海戦が起きた戦争は？", "A": "ナポレオン戦争", "B": "第一次世界大戦", "C": "第二次世界大戦", "D": "クリミア戦争", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Jaipur",
+    "pron": "ˈdʒaɪpʊr",
+    "kana": "ヂャイプル",
+    "hinshi": "固有名詞（都市）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "創設者ジャイ・シング2世 + pur（サンスクリットで都市）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "地理・都市"],
+    "meaning_main": "ジャイプル（インドの「ピンクの都」）",
+    "description": "Jaipur（ヂャイプル）はインド北西部ラジャスタン州の州都。建物がピンク色で統一され「ピンク・シティ」と呼ばれる歴史都市です。",
+    "keywords": ["Jaipur 意味", "ジャイプル ピンク", "ラジャスタン 州都", "インド 都市"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ジャイプル", "note": "インド・ラジャスタン州の州都。計画的に建設された城郭都市。" },
+      { "hinshi": "【固有名詞】ピンク・シティ", "note": "旧市街の建物がピンク色で統一され「ピンクの都」と呼ばれる。" }
+    ],
+    "usages": [
+      { "title": "① ラジャスタン州の州都", "desc": "都市そのものを指す。", "example_en": "Jaipur is the capital of Rajasthan.", "example_ja": "ジャイプルはラジャスタン州の州都だ。" },
+      { "title": "② 観光都市としての言及", "desc": "「ピンク・シティ」として知られる。", "example_en": "Jaipur is famous as the Pink City.", "example_ja": "ジャイプルはピンク・シティとして有名だ。" }
+    ],
+    "warn": ["デリー・アグラと結ぶ観光ルート「ゴールデン・トライアングル」の一角。pur はサンスクリットで「都市」を意味する接尾語（Nagpur, Kanpur なども同様）。"],
+    "etym_note": "都市を築いたマハラジャ、ジャイ・シング2世（Jai Singh II）の名と、サンスクリット語 pur（都市）を組み合わせた「ジャイの都」を意味します。",
+    "etym_chain": [
+      { "node": "Jai + pur", "sub": "創設者名+都市", "era": "1727年" },
+      { "node": "Jaipur", "sub": "都市名", "era": "現代" }
+    ],
+    "phrases": [
+      { "en": "the city of Jaipur", "ja": "ジャイプルの街" },
+      { "en": "the Pink City", "ja": "ピンク・シティ" },
+      { "en": "palaces of Jaipur", "ja": "ジャイプルの宮殿" },
+      { "en": "Jaipur, Rajasthan", "ja": "ラジャスタン州ジャイプル" },
+      { "en": "the Golden Triangle", "ja": "ゴールデン・トライアングル" },
+      { "en": "visit Jaipur", "ja": "ジャイプルを訪れる" }
+    ],
+    "related": [
+      { "en": "Rajasthan", "ja": "ラジャスタン州" },
+      { "en": "India", "ja": "インド" },
+      { "en": "Delhi", "ja": "デリー" },
+      { "en": "Agra", "ja": "アグラ" }
+    ],
+    "faq": [
+      { "q": "ジャイプルはなぜ「ピンク・シティ」と呼ばれる？", "a": "旧市街の建物がテラコッタ色（ピンク）で塗られているためです。19世紀に来訪者を歓迎する意で塗られたと言われます。" },
+      { "q": "ゴールデン・トライアングルとは？", "a": "デリー・アグラ・ジャイプルを結ぶインド北部の代表的観光ルートのことです。" }
+    ],
+    "quiz": [
+      { "q": "Jaipur はどの国の都市？", "A": "パキスタン", "B": "インド", "C": "ネパール", "D": "バングラデシュ", "correct": "B" },
+      { "q": "Jaipur の別名は？", "A": "白い都", "B": "ピンク・シティ", "C": "青の都", "D": "黄金都市", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Juneau",
+    "pron": "ˈdʒuːnoʊ",
+    "kana": "ヂューノー",
+    "hinshi": "固有名詞（都市・州都）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "金鉱発見者ジョー・ジュノー（Joe Juneau）にちなむ",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "地理・州都"],
+    "meaning_main": "ジュノー（米アラスカ州の州都）",
+    "description": "Juneau（ヂューノー）は米アラスカ州の州都。道路で外部とつながらない珍しい州都で、山と海に囲まれた景勝地としても知られます。",
+    "keywords": ["Juneau 意味", "ジュノー アラスカ", "アラスカ 州都", "道路でつながらない 州都"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ジュノー", "note": "アメリカ合衆国アラスカ州の州都。人口は3万人ほど。" },
+      { "hinshi": "【固有名詞】陸路で孤立した州都", "note": "周囲を山と海に囲まれ、他都市と結ぶ道路がない。" }
+    ],
+    "usages": [
+      { "title": "① アラスカ州の州都", "desc": "州都としての用法。", "example_en": "Juneau is the capital of Alaska.", "example_ja": "ジュノーはアラスカ州の州都だ。" },
+      { "title": "② 交通の特殊性", "desc": "道路で外とつながらない点が話題になる。", "example_en": "You can only reach Juneau by boat or plane.", "example_ja": "ジュノーへは船か飛行機でしか行けない。" }
+    ],
+    "warn": ["アラスカ最大の都市はアンカレジ（Anchorage）で、州都のジュノーとは別。発音は木星探査機 Juno とほぼ同じ「ヂューノー」。"],
+    "etym_note": "1880年にこの地で金を発見した鉱夫ジョー・ジュノー（Joe Juneau）にちなんで名付けられました。ゴールドラッシュとともに発展した町です。",
+    "etym_chain": [
+      { "node": "Joe Juneau", "sub": "金鉱発見者", "era": "1880年" },
+      { "node": "Juneau", "sub": "都市名", "era": "現代" }
+    ],
+    "phrases": [
+      { "en": "the city of Juneau", "ja": "ジュノー市" },
+      { "en": "capital of Alaska", "ja": "アラスカの州都" },
+      { "en": "fly to Juneau", "ja": "ジュノーへ飛ぶ" },
+      { "en": "downtown Juneau", "ja": "ジュノー中心部" },
+      { "en": "Juneau's harbor", "ja": "ジュノーの港" },
+      { "en": "no road to Juneau", "ja": "ジュノーへの道路はない" }
+    ],
+    "related": [
+      { "en": "Alaska", "ja": "アラスカ州" },
+      { "en": "Anchorage", "ja": "アンカレジ（最大都市）" },
+      { "en": "gold rush", "ja": "ゴールドラッシュ" },
+      { "en": "Juno", "ja": "ジュノー（同音の女神・探査機）" }
+    ],
+    "faq": [
+      { "q": "ジュノーはどんな点で珍しい？", "a": "アメリカの州都でありながら、他都市とつながる道路がなく、船か飛行機でしか行けない点で珍しいです。" },
+      { "q": "アラスカ最大の都市はジュノー？", "a": "いいえ。最大都市はアンカレジで、州都はジュノーです。両者は別の都市です。" }
+    ],
+    "quiz": [
+      { "q": "Juneau はどの州の州都？", "A": "ハワイ", "B": "アラスカ", "C": "ワシントン", "D": "オレゴン", "correct": "B" },
+      { "q": "ジュノーへの一般的な交通手段は？", "A": "道路の車のみ", "B": "船か飛行機", "C": "鉄道のみ", "D": "地下鉄", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Jinnah",
+    "pron": "ˈdʒɪnə",
+    "kana": "ヂンナー",
+    "hinshi": "固有名詞（人名）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "グジャラート系の姓 Jinnah",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "歴史・人物"],
+    "meaning_main": "ジンナー（パキスタン建国の父）",
+    "description": "Jinnah（ヂンナー）はパキスタンの建国の父ムハンマド・アリー・ジンナー。1947年の分離独立を主導し、初代総督となった政治指導者です。",
+    "keywords": ["Jinnah 意味", "ジンナー パキスタン", "パキスタン 建国の父", "分離独立 1947"],
+    "meanings": [
+      { "hinshi": "【固有名詞】M・A・ジンナー", "note": "パキスタン建国の父（1876〜1948）。初代総督。" },
+      { "hinshi": "【固有名詞】称号カーイデ・アーザム", "note": "「偉大な指導者（Quaid-e-Azam）」と呼ばれる。" }
+    ],
+    "usages": [
+      { "title": "① パキスタン建国の指導者", "desc": "歴史上の人物を指す。", "example_en": "Jinnah is regarded as the founder of Pakistan.", "example_ja": "ジンナーはパキスタン建国の父とされる。" },
+      { "title": "② 分離独立の主導", "desc": "1947年のインド・パキスタン分離の文脈で登場する。", "example_en": "Jinnah led the movement for a separate Muslim state.", "example_ja": "ジンナーは独立したイスラム国家を求める運動を率いた。" }
+    ],
+    "warn": ["インド独立運動のガンディー・ネルーと並ぶ重要人物だが、彼らとは異なりムスリム国家パキスタンの樹立を主導した。"],
+    "etym_note": "南アジア系の姓 Jinnah に由来する人名です。フルネームは Muhammad Ali Jinnah。パキスタンでは「カーイデ・アーザム（偉大な指導者）」の敬称で呼ばれます。",
+    "etym_chain": [
+      { "node": "Jinnah", "sub": "姓", "era": "南アジア" },
+      { "node": "Jinnah", "sub": "建国の父", "era": "20世紀" }
+    ],
+    "phrases": [
+      { "en": "Muhammad Ali Jinnah", "ja": "ムハンマド・アリー・ジンナー" },
+      { "en": "the father of Pakistan", "ja": "パキスタン建国の父" },
+      { "en": "Quaid-e-Azam Jinnah", "ja": "カーイデ・アーザム・ジンナー" },
+      { "en": "Jinnah's vision", "ja": "ジンナーの構想" },
+      { "en": "Jinnah International Airport", "ja": "ジンナー国際空港" },
+      { "en": "Jinnah and independence", "ja": "ジンナーと独立" }
+    ],
+    "related": [
+      { "en": "Pakistan", "ja": "パキスタン" },
+      { "en": "Gandhi", "ja": "ガンディー" },
+      { "en": "Nehru", "ja": "ネルー" },
+      { "en": "Partition", "ja": "インド・パキスタン分離" }
+    ],
+    "faq": [
+      { "q": "ジンナーは何をした人？", "a": "1947年のインド分離独立を主導し、ムスリムのための国家パキスタンを建国した政治指導者で、初代総督を務めました。" },
+      { "q": "Quaid-e-Azam とは？", "a": "「偉大な指導者」を意味するジンナーの敬称です。パキスタンで広く用いられます。" }
+    ],
+    "quiz": [
+      { "q": "Jinnah が建国した国は？", "A": "インド", "B": "パキスタン", "C": "バングラデシュ", "D": "スリランカ", "correct": "B" },
+      { "q": "Jinnah の敬称は？", "A": "マハトマ", "B": "カーイデ・アーザム", "C": "パンディト", "D": "サルダール", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Jena",
+    "pron": "ˈjeɪnə",
+    "kana": "イェーナ",
+    "hinshi": "固有名詞（都市）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ドイツ・テューリンゲン地方の古い地名",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "地理・歴史"],
+    "meaning_main": "イェーナ（ドイツの大学・光学の都市）",
+    "description": "Jena（イェーナ）はドイツ中部テューリンゲン州の都市。名門イェーナ大学や光学メーカー、1806年のイェーナの戦いで知られます。",
+    "keywords": ["Jena 意味", "イェーナ ドイツ", "イェーナ大学", "イェーナの戦い"],
+    "meanings": [
+      { "hinshi": "【固有名詞】イェーナ", "note": "ドイツ中部テューリンゲン州の都市。大学町・光学産業で有名。" },
+      { "hinshi": "【固有名詞】イェーナの戦い", "note": "1806年、ナポレオンがプロイセン軍を破った戦い。" }
+    ],
+    "usages": [
+      { "title": "① ドイツの大学都市", "desc": "学術・産業都市として指す。", "example_en": "Jena is known for its university and optics industry.", "example_ja": "イェーナは大学と光学産業で知られる。" },
+      { "title": "② ナポレオン戦争の古戦場", "desc": "歴史的な戦いを指す。", "example_en": "Napoleon crushed the Prussians at Jena in 1806.", "example_ja": "ナポレオンは1806年イェーナでプロイセン軍を打ち破った。" }
+    ],
+    "warn": ["発音はドイツ語風に「イェーナ（jeɪnə）」。Jは Y の音。光学メーカー Carl Zeiss や Schott の拠点として著名。"],
+    "etym_note": "テューリンゲン地方の古い地名で、語源には諸説あります。19世紀以降、カール・ツァイスらにより光学・精密機器産業の中心地として発展しました。",
+    "etym_chain": [
+      { "node": "Jena", "sub": "古地名", "era": "中世" },
+      { "node": "Jena", "sub": "大学・光学都市", "era": "現代" }
+    ],
+    "phrases": [
+      { "en": "the University of Jena", "ja": "イェーナ大学" },
+      { "en": "the Battle of Jena", "ja": "イェーナの戦い" },
+      { "en": "optics in Jena", "ja": "イェーナの光学産業" },
+      { "en": "Jena, Germany", "ja": "ドイツのイェーナ" },
+      { "en": "Carl Zeiss of Jena", "ja": "イェーナのカール・ツァイス" },
+      { "en": "study at Jena", "ja": "イェーナで学ぶ" }
+    ],
+    "related": [
+      { "en": "Germany", "ja": "ドイツ" },
+      { "en": "Thuringia", "ja": "テューリンゲン州" },
+      { "en": "Carl Zeiss", "ja": "カール・ツァイス（光学）" },
+      { "en": "Napoleon", "ja": "ナポレオン" }
+    ],
+    "faq": [
+      { "q": "イェーナは何で有名？", "a": "名門イェーナ大学、カール・ツァイスなどの光学・精密機器産業、そして1806年のイェーナの戦いで有名です。" },
+      { "q": "Jena の発音は？", "a": "ドイツ語風に「イェーナ（jeɪnə）」と読みます。英語でも J を Y の音で発音します。" }
+    ],
+    "quiz": [
+      { "q": "Jena はどの国の都市？", "A": "オーストリア", "B": "ドイツ", "C": "スイス", "D": "オランダ", "correct": "B" },
+      { "q": "1806年のイェーナの戦いで勝ったのは？", "A": "プロイセン", "B": "ナポレオン（フランス）", "C": "ロシア", "D": "オーストリア", "correct": "B" }
+    ]
+  }
+]
