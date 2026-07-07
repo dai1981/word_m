@@ -1,0 +1,500 @@
+[
+  {
+    "english": "Jakarta",
+    "pron": "dʒəˈkɑːrtə",
+    "kana": "ヂャカルタ",
+    "hinshi": "固有名詞（都市・首都）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "サンスクリット由来 Jayakarta（勝利の町）より",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "地理・首都"],
+    "meaning_main": "ジャカルタ（インドネシアの首都）",
+    "description": "Jakarta（ヂャカルタ）はインドネシアの首都で同国最大の都市。ジャワ島北西部に位置し、東南アジア有数の巨大都市圏を形成します。",
+    "keywords": ["Jakarta 意味", "ジャカルタ どこ", "インドネシア 首都", "Jakarta 英語"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ジャカルタ", "note": "インドネシア共和国の首都。ジャワ島北西岸に位置する。" },
+      { "hinshi": "【固有名詞】首都圏ジャボデタベック", "note": "周辺都市を含む大都市圏は世界屈指の人口規模。" }
+    ],
+    "usages": [
+      { "title": "① インドネシアの首都", "desc": "国の政治・経済の中心を指す。", "example_en": "Jakarta is the capital and largest city of Indonesia.", "example_ja": "ジャカルタはインドネシアの首都で最大の都市だ。" },
+      { "title": "② 交通渋滞で有名な都市", "desc": "都市問題の文脈でよく話題になる。", "example_en": "Jakarta is known for its heavy traffic congestion.", "example_ja": "ジャカルタはひどい交通渋滞で知られている。" }
+    ],
+    "warn": ["インドネシアは首都をカリマンタン島の新都市ヌサンタラ（Nusantara）へ移転する計画を進めており、将来の首都が変わる可能性がある。"],
+    "etym_note": "サンスクリット語 Jayakarta（勝利の町）に由来。オランダ植民地時代はバタヴィア（Batavia）と呼ばれ、独立後にジャカルタの名が定着しました。",
+    "etym_chain": [
+      { "node": "Jayakarta", "sub": "勝利の町", "era": "16世紀" },
+      { "node": "Batavia", "sub": "蘭領時代の呼称", "era": "17〜20世紀" },
+      { "node": "Jakarta", "sub": "現首都名", "era": "現代" }
+    ],
+    "phrases": [
+      { "en": "the city of Jakarta", "ja": "ジャカルタ市" },
+      { "en": "greater Jakarta", "ja": "ジャカルタ首都圏" },
+      { "en": "downtown Jakarta", "ja": "ジャカルタ中心部" },
+      { "en": "fly to Jakarta", "ja": "ジャカルタへ飛ぶ" },
+      { "en": "Jakarta traffic", "ja": "ジャカルタの渋滞" },
+      { "en": "Old Batavia in Jakarta", "ja": "ジャカルタの旧バタヴィア地区" }
+    ],
+    "related": [
+      { "en": "Indonesia", "ja": "インドネシア" },
+      { "en": "Java", "ja": "ジャワ島" },
+      { "en": "Batavia", "ja": "バタヴィア（旧称）" },
+      { "en": "Nusantara", "ja": "ヌサンタラ（新首都）" }
+    ],
+    "faq": [
+      { "q": "ジャカルタはどこにある？", "a": "インドネシアのジャワ島北西岸にあり、同国の首都で最大都市です。" },
+      { "q": "ジャカルタの昔の名前は？", "a": "オランダ植民地時代はバタヴィア（Batavia）と呼ばれていました。" }
+    ],
+    "quiz": [
+      { "q": "Jakarta はどの国の首都？", "A": "マレーシア", "B": "インドネシア", "C": "タイ", "D": "フィリピン", "correct": "B" },
+      { "q": "Jakarta のオランダ時代の呼称は？", "A": "Batavia", "B": "Malacca", "C": "Manila", "D": "Saigon", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Jamaica",
+    "pron": "dʒəˈmeɪkə",
+    "kana": "ヂャメイカ",
+    "hinshi": "固有名詞（国名・島）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "先住民タイノ語 Xaymaca（木と水の地）より",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "地理・国名"],
+    "meaning_main": "ジャマイカ（カリブ海の島国）",
+    "description": "Jamaica（ヂャメイカ）はカリブ海に浮かぶ島国。レゲエ音楽やボブ・マーリー、陸上短距離の強さで世界に知られています。",
+    "keywords": ["Jamaica 意味", "ジャマイカ どこ", "カリブ 島国", "レゲエ 国"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ジャマイカ", "note": "カリブ海の大アンティル諸島にある島国。首都はキングストン。" },
+      { "hinshi": "【固有名詞】レゲエ発祥の地", "note": "レゲエ音楽やラスタファリ運動の発祥地として有名。" }
+    ],
+    "usages": [
+      { "title": "① カリブ海の島国", "desc": "国・島そのものを指す。", "example_en": "Jamaica is an island nation in the Caribbean Sea.", "example_ja": "ジャマイカはカリブ海の島国だ。" },
+      { "title": "② 文化・スポーツの文脈", "desc": "レゲエや陸上競技の話題で登場する。", "example_en": "Jamaica has produced many world-class sprinters.", "example_ja": "ジャマイカは多くの世界的短距離走者を輩出してきた。" }
+    ],
+    "warn": ["形容詞・国民は Jamaican（ジャマイカの／ジャマイカ人）。首都はキングストン（Kingston）。"],
+    "etym_note": "先住民タイノ族の言葉 Xaymaca（木と水の地／泉の地）に由来。コロンブス到来後にスペイン語・英語を経て Jamaica の綴りになりました。",
+    "etym_chain": [
+      { "node": "Xaymaca", "sub": "木と水の地", "era": "タイノ語" },
+      { "node": "Jamaica", "sub": "国名", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the island of Jamaica", "ja": "ジャマイカ島" },
+      { "en": "made in Jamaica", "ja": "ジャマイカ製" },
+      { "en": "reggae from Jamaica", "ja": "ジャマイカのレゲエ" },
+      { "en": "visit Jamaica", "ja": "ジャマイカを訪れる" },
+      { "en": "Jamaica's sprinters", "ja": "ジャマイカの短距離走者" },
+      { "en": "Team Jamaica", "ja": "ジャマイカ代表" }
+    ],
+    "related": [
+      { "en": "Kingston", "ja": "キングストン（首都）" },
+      { "en": "Caribbean", "ja": "カリブ海（地域）" },
+      { "en": "reggae", "ja": "レゲエ" },
+      { "en": "Jamaican", "ja": "ジャマイカの／人" }
+    ],
+    "faq": [
+      { "q": "ジャマイカの首都は？", "a": "キングストン（Kingston）です。カリブ海に面した港湾都市です。" },
+      { "q": "ジャマイカは何で有名？", "a": "レゲエ音楽（ボブ・マーリー）と、ウサイン・ボルトに代表される陸上短距離の強さで世界的に有名です。" }
+    ],
+    "quiz": [
+      { "q": "Jamaica がある海域は？", "A": "地中海", "B": "カリブ海", "C": "紅海", "D": "バルト海", "correct": "B" },
+      { "q": "Jamaica の首都は？", "A": "Havana", "B": "Kingston", "C": "Nassau", "D": "Santo Domingo", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Japan",
+    "pron": "dʒəˈpæn",
+    "kana": "ヂャパン",
+    "hinshi": "固有名詞（国名）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "中国語「日本（日の本）」の南方音 Cipangu 経由",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "地理・国名"],
+    "meaning_main": "日本（東アジアの島国）",
+    "description": "Japan（ヂャパン）は東アジアの島国「日本」の英語名。四つの主要な島からなり、首都は東京です。学習者に最もなじみ深い固有名詞の一つです。",
+    "keywords": ["Japan 意味", "日本 英語", "Japan 発音", "日本 首都"],
+    "meanings": [
+      { "hinshi": "【固有名詞】日本", "note": "東アジアの島国。首都は東京。" },
+      { "hinshi": "【名詞】japan（小文字）：漆・漆器", "note": "小文字の japan は「漆・ジャパン塗り」を指すことがある。" }
+    ],
+    "usages": [
+      { "title": "① 国名としての日本", "desc": "国そのものを指す基本用法。", "example_en": "Japan is made up of four main islands.", "example_ja": "日本は四つの主要な島から成る。" },
+      { "title": "② 形容詞は Japanese", "desc": "「日本の・日本人・日本語」は Japanese。", "example_en": "She is learning Japanese in Japan.", "example_ja": "彼女は日本で日本語を学んでいる。" }
+    ],
+    "warn": ["「日本の・日本人・日本語」はすべて Japanese。国名 Japan と形容詞 Japanese を混同しないこと。小文字 japan は「漆」の意味。"],
+    "etym_note": "「日本（にほん＝日の本）」の中国南方方言音がマルコ・ポーロにより Cipangu（ジパング）として伝わり、ポルトガル語・オランダ語を経て英語 Japan になりました。",
+    "etym_chain": [
+      { "node": "日本", "sub": "日の本", "era": "古代〜" },
+      { "node": "Cipangu", "sub": "ジパング", "era": "13世紀（マルコ・ポーロ）" },
+      { "node": "Japan", "sub": "英語名", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the country of Japan", "ja": "日本という国" },
+      { "en": "made in Japan", "ja": "日本製" },
+      { "en": "the Sea of Japan", "ja": "日本海" },
+      { "en": "travel around Japan", "ja": "日本各地を旅する" },
+      { "en": "the Emperor of Japan", "ja": "日本の天皇" },
+      { "en": "modern Japan", "ja": "現代の日本" }
+    ],
+    "related": [
+      { "en": "Japanese", "ja": "日本の／日本人／日本語" },
+      { "en": "Tokyo", "ja": "東京（首都）" },
+      { "en": "Nippon", "ja": "ニッポン（自称）" },
+      { "en": "Asia", "ja": "アジア" }
+    ],
+    "faq": [
+      { "q": "「日本の」は英語で何と言う？", "a": "Japanese です。国名は Japan、形容詞・国民・言語はすべて Japanese を使います。" },
+      { "q": "なぜ Japan と呼ばれるの？", "a": "「日本」の中国南方音がジパング（Cipangu）として西洋に伝わり、それが Japan へと変化しました。" }
+    ],
+    "quiz": [
+      { "q": "「日本語」は英語で？", "A": "Japan", "B": "Japanish", "C": "Japanese", "D": "Japanian", "correct": "C" },
+      { "q": "Japan の語源とされる語は？", "A": "Cipangu", "B": "Cathay", "C": "Nihonium", "D": "Yamato", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Java",
+    "pron": "ˈdʒɑːvə",
+    "kana": "ヂャーヴァ",
+    "hinshi": "固有名詞（島）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "サンスクリット yava（穀物・大麦）に由来する説",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "地理・島"],
+    "meaning_main": "ジャワ島（インドネシア）／（俗）コーヒー",
+    "description": "Java（ヂャーヴァ）はインドネシアのジャワ島で、首都ジャカルタがある人口稠密な島。俗語でコーヒー、またプログラミング言語名にもなっています。",
+    "keywords": ["Java 意味", "ジャワ島 どこ", "Java コーヒー", "Java 島"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ジャワ島", "note": "インドネシアの主要島。世界有数の人口密集地で首都ジャカルタがある。" },
+      { "hinshi": "【名詞】(俗) コーヒー", "note": "ジャワ産コーヒーにちなむ米俗語で「コーヒー」。" },
+      { "hinshi": "【固有名詞】プログラミング言語 Java", "note": "1995年公開のプログラミング言語名（コーヒーにちなむ）。" }
+    ],
+    "usages": [
+      { "title": "① インドネシアのジャワ島", "desc": "島そのものを指す地理的用法。", "example_en": "Most Indonesians live on the island of Java.", "example_ja": "インドネシア人の大半はジャワ島に住んでいる。" },
+      { "title": "② 俗語のコーヒー", "desc": "くだけた会話でコーヒーを指す。", "example_en": "Let's grab a cup of java.", "example_ja": "コーヒーでも一杯飲もう。" }
+    ],
+    "warn": ["文脈で「島」「コーヒー」「プログラミング言語」を区別する。ジャワ産コーヒーが有名だったことが俗語・言語名の由来。"],
+    "etym_note": "サンスクリット語 yava（穀物・大麦）に由来するとされます。植民地時代にジャワ産コーヒーが世界的に有名になり、俗語「コーヒー」やプログラミング言語名の由来となりました。",
+    "etym_chain": [
+      { "node": "yava", "sub": "穀物", "era": "サンスクリット" },
+      { "node": "Java", "sub": "島名", "era": "現代英語" },
+      { "node": "java", "sub": "コーヒー・言語名", "era": "20世紀〜" }
+    ],
+    "phrases": [
+      { "en": "the island of Java", "ja": "ジャワ島" },
+      { "en": "central Java", "ja": "ジャワ島中部" },
+      { "en": "a cup of java", "ja": "コーヒー一杯" },
+      { "en": "Java coffee", "ja": "ジャワコーヒー" },
+      { "en": "written in Java", "ja": "Java（言語）で書かれた" },
+      { "en": "Javanese culture", "ja": "ジャワの文化" }
+    ],
+    "related": [
+      { "en": "Indonesia", "ja": "インドネシア" },
+      { "en": "Jakarta", "ja": "ジャカルタ" },
+      { "en": "Javanese", "ja": "ジャワの／ジャワ人" },
+      { "en": "coffee", "ja": "コーヒー" }
+    ],
+    "faq": [
+      { "q": "Java が「コーヒー」を意味するのはなぜ？", "a": "植民地時代にジャワ島産コーヒーが世界的に有名だったため、米俗語でコーヒーを java と呼ぶようになりました。" },
+      { "q": "島とプログラミング言語は関係ある？", "a": "直接の関係はありませんが、言語 Java は開発者が好んだコーヒー（＝ジャワ由来）にちなんで命名されました。" }
+    ],
+    "quiz": [
+      { "q": "Java 島はどの国にある？", "A": "インド", "B": "インドネシア", "C": "フィリピン", "D": "スリランカ", "correct": "B" },
+      { "q": "俗語 java の意味は？", "A": "紅茶", "B": "コーヒー", "C": "砂糖", "D": "水", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Jefferson",
+    "pron": "ˈdʒefərsən",
+    "kana": "ヂェファソン",
+    "hinshi": "固有名詞（人名）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "英語の姓「Jeffrey の子」より",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "歴史・人物"],
+    "meaning_main": "ジェファーソン（トマス・ジェファーソン；第3代米大統領）",
+    "description": "Jefferson（ヂェファソン）は独立宣言を起草し第3代アメリカ大統領を務めたトマス・ジェファーソンを指す人名。米国建国の父の一人です。",
+    "keywords": ["Jefferson 意味", "トマス・ジェファーソン", "独立宣言 起草", "アメリカ 大統領"],
+    "meanings": [
+      { "hinshi": "【固有名詞】トマス・ジェファーソン", "note": "アメリカ独立宣言の主起草者、第3代大統領（在任1801〜1809）。" },
+      { "hinshi": "【固有名詞】地名・姓としての Jefferson", "note": "米国の郡・都市名や一般的な姓としても使われる。" }
+    ],
+    "usages": [
+      { "title": "① 第3代アメリカ大統領", "desc": "歴史上の人物を指す基本用法。", "example_en": "Jefferson drafted the Declaration of Independence.", "example_ja": "ジェファーソンは独立宣言を起草した。" },
+      { "title": "② 名前を冠した施設・地名", "desc": "記念館や地名にも使われる。", "example_en": "The Jefferson Memorial stands in Washington, D.C.", "example_ja": "ジェファーソン記念館はワシントンD.C.にある。" }
+    ],
+    "warn": ["フルネームは Thomas Jefferson。同じ姓の別人（都市名など）と区別すること。"],
+    "etym_note": "英語の父称姓で「Jeffrey（ジェフリー）の子」を意味します。Jeffrey はゲルマン系の人名に由来します。",
+    "etym_chain": [
+      { "node": "Jeffrey", "sub": "人名", "era": "中世" },
+      { "node": "Jefferson", "sub": "ジェフリーの子", "era": "姓の成立" },
+      { "node": "Jefferson", "sub": "人名・地名", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Thomas Jefferson", "ja": "トマス・ジェファーソン" },
+      { "en": "the Jefferson Memorial", "ja": "ジェファーソン記念館" },
+      { "en": "Jefferson's ideals", "ja": "ジェファーソンの理想" },
+      { "en": "President Jefferson", "ja": "ジェファーソン大統領" },
+      { "en": "Jeffersonian democracy", "ja": "ジェファーソン流民主主義" },
+      { "en": "Monticello, Jefferson's home", "ja": "ジェファーソンの邸宅モンティチェロ" }
+    ],
+    "related": [
+      { "en": "Declaration of Independence", "ja": "独立宣言" },
+      { "en": "Washington", "ja": "ワシントン（初代大統領）" },
+      { "en": "Monticello", "ja": "モンティチェロ（邸宅）" },
+      { "en": "Founding Fathers", "ja": "建国の父" }
+    ],
+    "faq": [
+      { "q": "ジェファーソンは何をした人？", "a": "アメリカ独立宣言の主な起草者で、第3代アメリカ合衆国大統領を務めた建国の父の一人です。" },
+      { "q": "Jeffersonian democracy とは？", "a": "小さな政府と農民・市民の自立を重んじるジェファーソンの政治理念を指す言葉です。" }
+    ],
+    "quiz": [
+      { "q": "Jefferson が起草した文書は？", "A": "合衆国憲法", "B": "独立宣言", "C": "権利章典", "D": "ゲティスバーグ演説", "correct": "B" },
+      { "q": "Thomas Jefferson は第何代大統領？", "A": "初代", "B": "第2代", "C": "第3代", "D": "第5代", "correct": "C" }
+    ]
+  },
+  {
+    "english": "Jerusalem",
+    "pron": "dʒəˈruːsələm",
+    "kana": "ヂェルーサレム",
+    "hinshi": "固有名詞（都市）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ヘブライ語 Yerushalayim（平和の礎の意とされる）より",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "地理・宗教"],
+    "meaning_main": "エルサレム（三宗教の聖地）",
+    "description": "Jerusalem（ヂェルーサレム）はユダヤ教・キリスト教・イスラム教の聖地とされる歴史的都市。中東の宗教・政治で重要な位置を占めます。",
+    "keywords": ["Jerusalem 意味", "エルサレム どこ", "聖地 エルサレム", "三宗教 聖地"],
+    "meanings": [
+      { "hinshi": "【固有名詞】エルサレム", "note": "ユダヤ教・キリスト教・イスラム教の聖地とされる都市。" },
+      { "hinshi": "【固有名詞】旧市街の聖地群", "note": "嘆きの壁・聖墳墓教会・岩のドームなどがある。" }
+    ],
+    "usages": [
+      { "title": "① 三宗教の聖地", "desc": "宗教的中心地としての用法。", "example_en": "Jerusalem is sacred to three major religions.", "example_ja": "エルサレムは三大宗教の聖地だ。" },
+      { "title": "② 歴史・政治の文脈", "desc": "中東情勢の話題で登場する。", "example_en": "The status of Jerusalem remains a sensitive issue.", "example_ja": "エルサレムの地位は今なお微妙な問題である。" }
+    ],
+    "warn": ["都市の帰属・地位は国際的に非常にデリケートな問題。中立的・事実ベースで扱うのが望ましい。"],
+    "etym_note": "ヘブライ語 Yerushalayim に由来し、「平和(shalom)の礎」を意味するとする説が知られます。古代から幾度も破壊と再建を繰り返した歴史ある都市です。",
+    "etym_chain": [
+      { "node": "Yerushalayim", "sub": "平和の礎（諸説）", "era": "古代ヘブライ語" },
+      { "node": "Hierosolyma", "sub": "ギリシャ・ラテン形", "era": "古代" },
+      { "node": "Jerusalem", "sub": "英語名", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the city of Jerusalem", "ja": "エルサレムの街" },
+      { "en": "Old City of Jerusalem", "ja": "エルサレム旧市街" },
+      { "en": "East Jerusalem", "ja": "東エルサレム" },
+      { "en": "the holy city", "ja": "聖なる都市" },
+      { "en": "pilgrims to Jerusalem", "ja": "エルサレムへの巡礼者" },
+      { "en": "New Jerusalem", "ja": "新しいエルサレム（聖書の理想郷）" }
+    ],
+    "related": [
+      { "en": "Israel", "ja": "イスラエル" },
+      { "en": "Judaism", "ja": "ユダヤ教" },
+      { "en": "Christianity", "ja": "キリスト教" },
+      { "en": "Islam", "ja": "イスラム教" }
+    ],
+    "faq": [
+      { "q": "エルサレムはなぜ聖地なの？", "a": "ユダヤ教の神殿跡、キリスト教のイエス受難の地、イスラム教の預言者昇天の地とされ、三宗教すべてにとって重要だからです。" },
+      { "q": "New Jerusalem とは？", "a": "聖書（ヨハネの黙示録）に登場する理想郷・天上の都を指す表現です。" }
+    ],
+    "quiz": [
+      { "q": "Jerusalem を聖地とする宗教の数は？", "A": "1つ", "B": "2つ", "C": "3つ", "D": "4つ", "correct": "C" },
+      { "q": "エルサレム旧市街にある聖地でないものは？", "A": "嘆きの壁", "B": "岩のドーム", "C": "聖墳墓教会", "D": "パルテノン神殿", "correct": "D" }
+    ]
+  },
+  {
+    "english": "Johannesburg",
+    "pron": "dʒoʊˈhænɪsbɜːrɡ",
+    "kana": "ヂョハネスバーグ",
+    "hinshi": "固有名詞（都市）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "オランダ系の人名 Johannes +（都市を表す）burg",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "地理・都市"],
+    "meaning_main": "ヨハネスブルグ（南アフリカ最大の都市）",
+    "description": "Johannesburg（ヂョハネスバーグ）は南アフリカ最大の都市で、金鉱発見から発展した経済の中心地。愛称は「ジョーバーグ（Joburg）」です。",
+    "keywords": ["Johannesburg 意味", "ヨハネスブルグ どこ", "南アフリカ 都市", "金鉱 都市"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ヨハネスブルグ", "note": "南アフリカ共和国最大の都市。金鉱で発展した経済の中心。" },
+      { "hinshi": "【固有名詞】愛称ジョーバーグ", "note": "Joburg / Jozi の愛称で呼ばれる。" }
+    ],
+    "usages": [
+      { "title": "① 南アフリカ最大の都市", "desc": "経済・人口の中心を指す。", "example_en": "Johannesburg grew rapidly after gold was discovered.", "example_ja": "ヨハネスブルグは金が発見された後、急速に発展した。" },
+      { "title": "② 略称・愛称の使用", "desc": "口語で Joburg と呼ばれる。", "example_en": "Locals often just call it Joburg.", "example_ja": "地元の人はよく単にジョーバーグと呼ぶ。" }
+    ],
+    "warn": ["南アフリカの首都ではない（行政首都はプレトリア）。最大都市＝首都と誤解しやすいので注意。"],
+    "etym_note": "1886年の金鉱発見で誕生した街で、当時の関係者ヨハネス（Johannes）にちなむとされ、都市・城を表すオランダ語系の -burg が付いています。",
+    "etym_chain": [
+      { "node": "Johannes + burg", "sub": "人名+町", "era": "19世紀" },
+      { "node": "Johannesburg", "sub": "都市名", "era": "1886年〜" }
+    ],
+    "phrases": [
+      { "en": "the city of Johannesburg", "ja": "ヨハネスブルグ市" },
+      { "en": "greater Johannesburg", "ja": "ヨハネスブルグ都市圏" },
+      { "en": "gold mines near Johannesburg", "ja": "ヨハネスブルグ近郊の金鉱" },
+      { "en": "fly into Johannesburg", "ja": "ヨハネスブルグに飛ぶ" },
+      { "en": "Joburg for short", "ja": "略してジョーバーグ" },
+      { "en": "downtown Johannesburg", "ja": "ヨハネスブルグ中心部" }
+    ],
+    "related": [
+      { "en": "South Africa", "ja": "南アフリカ" },
+      { "en": "Pretoria", "ja": "プレトリア（行政首都）" },
+      { "en": "Cape Town", "ja": "ケープタウン（立法首都）" },
+      { "en": "Soweto", "ja": "ソウェト（近郊地区）" }
+    ],
+    "faq": [
+      { "q": "ヨハネスブルグは南アフリカの首都？", "a": "いいえ。最大都市ですが首都ではありません。南アフリカは行政首都プレトリア、立法首都ケープタウン、司法首都ブルームフォンテーンの三首都制です。" },
+      { "q": "なぜ発展したの？", "a": "1886年の大規模な金鉱発見をきっかけに人と資本が集まり、急速に発展しました。" }
+    ],
+    "quiz": [
+      { "q": "Johannesburg はどの国の都市？", "A": "ナイジェリア", "B": "南アフリカ", "C": "ケニア", "D": "エジプト", "correct": "B" },
+      { "q": "ヨハネスブルグ発展のきっかけは？", "A": "石油", "B": "金鉱の発見", "C": "港の開設", "D": "鉄道の終点", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Jordan",
+    "pron": "ˈdʒɔːrdən",
+    "kana": "ヂョーダン",
+    "hinshi": "固有名詞（国名・河川）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ヘブライ語 Yarden（下る川）より",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "地理・国名"],
+    "meaning_main": "ヨルダン（中東の王国）／ヨルダン川",
+    "description": "Jordan（ヂョーダン）は中東の立憲君主国ヨルダン、およびその名の由来となったヨルダン川を指す固有名詞。首都はアンマンです。",
+    "keywords": ["Jordan 意味", "ヨルダン どこ", "ヨルダン川", "中東 王国"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ヨルダン（国）", "note": "中東の立憲君主国。正式名はヨルダン・ハシミテ王国。首都アンマン。" },
+      { "hinshi": "【固有名詞】ヨルダン川", "note": "イスラエルとヨルダンの境を流れ、死海に注ぐ聖書ゆかりの川。" }
+    ],
+    "usages": [
+      { "title": "① 中東の国ヨルダン", "desc": "国そのものを指す。", "example_en": "Jordan borders Israel, Syria, Iraq, and Saudi Arabia.", "example_ja": "ヨルダンはイスラエル・シリア・イラク・サウジアラビアと接する。" },
+      { "title": "② ヨルダン川", "desc": "聖書ゆかりの河川を指す。", "example_en": "The Jordan River flows into the Dead Sea.", "example_ja": "ヨルダン川は死海に注いでいる。" }
+    ],
+    "warn": ["国と川の両方を指すので文脈で区別する。姓・人名（Michael Jordan など）としても使われる。"],
+    "etym_note": "ヘブライ語 Yarden（「下る・流れ下る川」）に由来します。川の名が地域名となり、独立後の国名 Jordan になりました。",
+    "etym_chain": [
+      { "node": "Yarden", "sub": "下る川", "era": "古代ヘブライ語" },
+      { "node": "Jordan", "sub": "川・地域名", "era": "古代〜" },
+      { "node": "Jordan", "sub": "国名", "era": "20世紀" }
+    ],
+    "phrases": [
+      { "en": "the Kingdom of Jordan", "ja": "ヨルダン王国" },
+      { "en": "the Jordan River", "ja": "ヨルダン川" },
+      { "en": "the capital, Amman", "ja": "首都アンマン" },
+      { "en": "cross the Jordan", "ja": "ヨルダン川を渡る" },
+      { "en": "West Bank of the Jordan", "ja": "ヨルダン川西岸" },
+      { "en": "travel to Jordan", "ja": "ヨルダンへ旅する" }
+    ],
+    "related": [
+      { "en": "Amman", "ja": "アンマン（首都）" },
+      { "en": "Petra", "ja": "ペトラ（遺跡）" },
+      { "en": "Dead Sea", "ja": "死海" },
+      { "en": "Middle East", "ja": "中東" }
+    ],
+    "faq": [
+      { "q": "ヨルダンの首都は？", "a": "アンマン（Amman）です。古代からの歴史を持つ都市です。" },
+      { "q": "Jordan は国と川のどちらを指す？", "a": "両方を指します。文脈により、国（ヨルダン）か、ヨルダン川（the Jordan River）かを判断します。" }
+    ],
+    "quiz": [
+      { "q": "Jordan の首都は？", "A": "ダマスカス", "B": "アンマン", "C": "バグダッド", "D": "ベイルート", "correct": "B" },
+      { "q": "ヨルダン川が注ぐ湖は？", "A": "カスピ海", "B": "死海", "C": "ガリラヤ湖のみ", "D": "紅海", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Joyce",
+    "pron": "dʒɔɪs",
+    "kana": "ヂョイス",
+    "hinshi": "固有名詞（人名）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "古い人名 Josse／ラテン語 Iodocus に由来",
+    "ld_level": "準1級",
+    "badges": ["大学生〜", "英検準1級", "CEFR C1", "文学・人物"],
+    "meaning_main": "ジョイス（ジェイムズ・ジョイス；アイルランドの作家）",
+    "description": "Joyce（ヂョイス）は『ユリシーズ』で知られるアイルランドの小説家ジェイムズ・ジョイスを指す人名。20世紀モダニズム文学を代表する作家です。",
+    "keywords": ["Joyce 意味", "ジェイムズ・ジョイス", "ユリシーズ 作者", "モダニズム 文学"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ジェイムズ・ジョイス", "note": "アイルランドの小説家（1882〜1941）。『ユリシーズ』『ダブリン市民』の作者。" },
+      { "hinshi": "【固有名詞】姓・名としての Joyce", "note": "英語圏の姓・女性名としても使われる。" }
+    ],
+    "usages": [
+      { "title": "① モダニズム文学の巨匠", "desc": "作家その人を指す用法。", "example_en": "Joyce revolutionized the novel with Ulysses.", "example_ja": "ジョイスは『ユリシーズ』で小説を革新した。" },
+      { "title": "② 作品・文体への言及", "desc": "「意識の流れ」の文体で知られる。", "example_en": "Joyce is famous for his stream-of-consciousness style.", "example_ja": "ジョイスは「意識の流れ」の文体で有名だ。" }
+    ],
+    "warn": ["フルネームは James Joyce。同姓の別人や一般的な人名 Joyce と区別すること。"],
+    "etym_note": "中世の人名 Josse（ラテン語 Iodocus、ブルターニュの聖人名に由来）から生まれた姓・名です。ラテン語 gaudium（喜び）と結び付けられることもあります。",
+    "etym_chain": [
+      { "node": "Iodocus/Josse", "sub": "聖人名", "era": "中世" },
+      { "node": "Joyce", "sub": "姓・名", "era": "英語圏" }
+    ],
+    "phrases": [
+      { "en": "James Joyce", "ja": "ジェイムズ・ジョイス" },
+      { "en": "Joyce's Ulysses", "ja": "ジョイスの『ユリシーズ』" },
+      { "en": "Dubliners by Joyce", "ja": "ジョイスの『ダブリン市民』" },
+      { "en": "Joycean style", "ja": "ジョイス風の文体" },
+      { "en": "read Joyce", "ja": "ジョイスを読む" },
+      { "en": "Bloomsday and Joyce", "ja": "ブルームズデイとジョイス" }
+    ],
+    "related": [
+      { "en": "Ulysses", "ja": "ユリシーズ（作品）" },
+      { "en": "Dublin", "ja": "ダブリン（出身地）" },
+      { "en": "modernism", "ja": "モダニズム" },
+      { "en": "stream of consciousness", "ja": "意識の流れ" }
+    ],
+    "faq": [
+      { "q": "ジェイムズ・ジョイスの代表作は？", "a": "『ユリシーズ（Ulysses）』が最も有名で、ほかに『ダブリン市民』『フィネガンズ・ウェイク』などがあります。" },
+      { "q": "Bloomsday（ブルームズデイ）とは？", "a": "『ユリシーズ』の物語が展開する6月16日を記念する日で、ダブリンなどでジョイスを祝う催しが開かれます。" }
+    ],
+    "quiz": [
+      { "q": "James Joyce の代表作は？", "A": "戦争と平和", "B": "ユリシーズ", "C": "ハムレット", "D": "老人と海", "correct": "B" },
+      { "q": "Joyce の出身国は？", "A": "イングランド", "B": "アイルランド", "C": "スコットランド", "D": "アメリカ", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Jupiter",
+    "pron": "ˈdʒuːpɪtər",
+    "kana": "ヂューピター",
+    "hinshi": "固有名詞（天体・神）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ラテン語 Iuppiter（天空の父の意）より",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "天文・神話"],
+    "meaning_main": "木星（太陽系最大の惑星）／ユピテル（ローマ神話の主神）",
+    "description": "Jupiter（ヂューピター）は太陽系最大の惑星「木星」であり、ローマ神話の主神ユピテルの名でもあります。ギリシャ神話のゼウスに相当します。",
+    "keywords": ["Jupiter 意味", "木星 英語", "ユピテル 神", "太陽系 最大 惑星"],
+    "meanings": [
+      { "hinshi": "【固有名詞】木星", "note": "太陽系で最大の惑星。ガス惑星で大赤斑や多数の衛星を持つ。" },
+      { "hinshi": "【固有名詞】ユピテル（ジュピター）", "note": "ローマ神話の最高神。天空と雷を司り、ギリシャ神話のゼウスに当たる。" }
+    ],
+    "usages": [
+      { "title": "① 太陽系最大の惑星", "desc": "天体としての木星を指す。", "example_en": "Jupiter is the largest planet in the solar system.", "example_ja": "木星は太陽系で最大の惑星だ。" },
+      { "title": "② ローマ神話の主神", "desc": "神ユピテルを指す用法。", "example_en": "Jupiter was the king of the Roman gods.", "example_ja": "ユピテルはローマの神々の王だった。" }
+    ],
+    "warn": ["形容詞は Jovian（木星の・ユピテルの）。jovial（陽気な）もこの神に由来する。"],
+    "etym_note": "ラテン語 Iuppiter は「天空の父」（Dyēus phatēr）に遡る印欧語形で、ギリシャの Zeus（ゼウス）と同源です。占星術で木星生まれは陽気とされ、jovial の語源にもなりました。",
+    "etym_chain": [
+      { "node": "Dyēus phatēr", "sub": "天空の父", "era": "印欧祖語" },
+      { "node": "Iuppiter", "sub": "主神", "era": "ラテン語" },
+      { "node": "Jupiter", "sub": "木星・神", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the planet Jupiter", "ja": "惑星の木星" },
+      { "en": "the Great Red Spot of Jupiter", "ja": "木星の大赤斑" },
+      { "en": "moons of Jupiter", "ja": "木星の衛星" },
+      { "en": "the god Jupiter", "ja": "神ユピテル" },
+      { "en": "Jupiter and Zeus", "ja": "ユピテルとゼウス" },
+      { "en": "Jovian atmosphere", "ja": "木星の大気" }
+    ],
+    "related": [
+      { "en": "Zeus", "ja": "ゼウス（ギリシャの対応神）" },
+      { "en": "Saturn", "ja": "土星／サトゥルヌス" },
+      { "en": "Jovian", "ja": "木星の（形容詞）" },
+      { "en": "solar system", "ja": "太陽系" }
+    ],
+    "faq": [
+      { "q": "木星の形容詞形は？", "a": "Jovian です。Jupiter の古い語幹 Jov- に由来し、「陽気な」を意味する jovial も同じ語源です。" },
+      { "q": "Jupiter はギリシャ神話の誰に当たる？", "a": "最高神ゼウス（Zeus）に相当します。どちらも天空と雷を司る神々の王です。" }
+    ],
+    "quiz": [
+      { "q": "Jupiter は太陽系で何番目に大きい惑星？", "A": "最大", "B": "2番目", "C": "3番目", "D": "最小", "correct": "A" },
+      { "q": "Jupiter に対応するギリシャ神話の神は？", "A": "アポロン", "B": "ゼウス", "C": "ポセイドン", "D": "ハデス", "correct": "B" }
+    ]
+  }
+]
