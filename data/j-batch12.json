@@ -1,0 +1,503 @@
+[
+  {
+    "english": "jalapeno",
+    "pron": "ˌhæləˈpeɪnjoʊ",
+    "kana": "ハラペーニョ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "スペイン語（メキシコの都市ハラパより)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR B2", "食べ物"],
+    "meaning_main": "ハラペーニョ（辛い緑の唐辛子）",
+    "description": "jalapeno（jalapeño）は「ハラペーニョ」を表す名詞。メキシコ原産の中くらいの辛さの緑の唐辛子です。メキシコ料理でおなじみで、ピザやナチョスなどにも使われます。j は「ハ」の音で発音し、メキシコの都市ハラパ（Xalapa）に由来します。",
+    "keywords": ["jalapeno 意味", "jalapeno 発音", "ハラペーニョ", "jalapeno 唐辛子", "jalapeno 例文"],
+    "meanings": [
+      { "hinshi": "【名】ハラペーニョ", "note": "メキシコ原産の中辛の緑の唐辛子。" }
+    ],
+    "usages": [
+      { "title": "① ハラペーニョ（唐辛子）", "desc": "中辛の緑唐辛子。", "example_en": "The nachos were topped with jalapenos.", "example_ja": "ナチョスにはハラペーニョがのっていた。" },
+      { "title": "② 料理に辛みを加える", "desc": "メキシコ料理など。", "example_en": "Add some jalapeno for extra heat.", "example_ja": "辛みを足すためにハラペーニョを加えて。" },
+      { "title": "③ 発音に注意", "desc": "j は「ハ」。", "example_en": "\"Jalapeno\" is pronounced with an \"h\" sound.", "example_ja": "「ハラペーニョ」は j を「ハ」と発音する。" }
+    ],
+    "warn": ["j は「ジャ」ではなく「ハ」と発音する（スペイン語由来）。", "正式な綴りは jalapeño（ñ）。英語では jalapeno とも書く。"],
+    "etym_note": "メキシコの都市ハラパ（Xalapa / Jalapa）に由来するスペイン語です。この地で栽培されたことから名づけられました。ñ を使う jalapeño が本来の綴りです。",
+    "etym_chain": [
+      { "node": "Jalapa", "sub": "メキシコの都市名", "era": "スペイン語" },
+      { "node": "jalapeño", "sub": "ハラペーニョ", "era": "スペイン語" },
+      { "node": "jalapeno", "sub": "ハラペーニョ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "sliced jalapenos", "ja": "スライスしたハラペーニョ" },
+      { "en": "spicy jalapeno", "ja": "辛いハラペーニョ" },
+      { "en": "jalapeno pepper", "ja": "ハラペーニョ唐辛子" },
+      { "en": "pickled jalapenos", "ja": "ハラペーニョのピクルス" },
+      { "en": "add jalapeno", "ja": "ハラペーニョを加える" },
+      { "en": "jalapeno poppers", "ja": "ハラペーニョポッパー(料理)" }
+    ],
+    "related": [
+      { "en": "pepper", "ja": "唐辛子・こしょう" },
+      { "en": "chili", "ja": "チリ・唐辛子" },
+      { "en": "spicy", "ja": "辛い" },
+      { "en": "Mexico", "ja": "メキシコ" }
+    ],
+    "faq": [
+      { "q": "jalapeno の j はどう発音しますか？", "a": "「ジャ」ではなく「ハ」と発音します（/ˌhæləˈpeɪnjoʊ/）。スペイン語由来なので j がハ行の音になります。" },
+      { "q": "jalapeno と jalapeño の違いは？", "a": "同じものです。jalapeño（ñ 付き）が本来のスペイン語の綴りで、英語では ñ を使わず jalapeno と書くこともあります。" }
+    ],
+    "quiz": [
+      { "q": "The tacos were spicy because of the ___.（そのタコスはハラペーニョのせいで辛かった）", "A": "jalapeno", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jalapeno の j の発音は？", "A": "「ハ」の音", "B": "「ジャ」の音", "C": "「ヤ」の音", "D": "無音", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jambalaya",
+    "pron": "ˌdʒʌmbəˈlaɪə",
+    "kana": "ジャンバラヤ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "プロヴァンス語 jambalaia（米料理)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR B2", "食べ物・文化"],
+    "meaning_main": "ジャンバラヤ（米・肉・魚介のスパイシーな炊き込み料理）",
+    "description": "jambalaya は「ジャンバラヤ」を表す名詞。アメリカ南部ルイジアナ州発祥の、米に肉・魚介・野菜・香辛料を加えて炊き込んだスパイシーな料理です。スペインのパエリアの影響を受けたケイジャン・クレオール料理として知られます。",
+    "keywords": ["jambalaya 意味", "jambalaya 発音", "ジャンバラヤ", "jambalaya 料理", "jambalaya 例文"],
+    "meanings": [
+      { "hinshi": "【名】ジャンバラヤ", "note": "米・肉・魚介・香辛料を炊き込んだ米国南部の料理。" }
+    ],
+    "usages": [
+      { "title": "① ジャンバラヤ（料理）", "desc": "スパイシーな炊き込みご飯。", "example_en": "We had spicy jambalaya for dinner.", "example_ja": "私たちは夕食に辛いジャンバラヤを食べた。" },
+      { "title": "② 米・肉・魚介", "desc": "具だくさん。", "example_en": "Jambalaya has rice, sausage, and shrimp.", "example_ja": "ジャンバラヤには米・ソーセージ・エビが入る。" },
+      { "title": "③ ルイジアナの名物", "desc": "南部料理。", "example_en": "Jambalaya is a famous dish from Louisiana.", "example_ja": "ジャンバラヤはルイジアナの有名な料理だ。" }
+    ],
+    "warn": ["発音は /ˌdʒʌmbəˈlaɪə/。米国南部ルイジアナの料理。", "パエリアの影響を受けたケイジャン・クレオール料理。"],
+    "etym_note": "南フランスのプロヴァンス語 jambalaia（米などを混ぜた料理）に由来するとされます。ルイジアナのフランス・スペイン・アフリカの食文化が混ざり合って生まれた料理の名です。",
+    "etym_chain": [
+      { "node": "jambalaia", "sub": "米料理", "era": "プロヴァンス語" },
+      { "node": "jambalaya", "sub": "ジャンバラヤ", "era": "19世紀英語" },
+      { "node": "jambalaya", "sub": "ジャンバラヤ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "spicy jambalaya", "ja": "辛いジャンバラヤ" },
+      { "en": "make jambalaya", "ja": "ジャンバラヤを作る" },
+      { "en": "chicken jambalaya", "ja": "チキンジャンバラヤ" },
+      { "en": "a pot of jambalaya", "ja": "鍋一杯のジャンバラヤ" },
+      { "en": "Creole jambalaya", "ja": "クレオール風ジャンバラヤ" },
+      { "en": "shrimp jambalaya", "ja": "エビのジャンバラヤ" }
+    ],
+    "related": [
+      { "en": "rice", "ja": "米" },
+      { "en": "paella", "ja": "パエリア" },
+      { "en": "Cajun", "ja": "ケイジャン(料理)" },
+      { "en": "Louisiana", "ja": "ルイジアナ" }
+    ],
+    "faq": [
+      { "q": "jambalaya とはどんな料理ですか？", "a": "アメリカ南部ルイジアナ州発祥の、米に肉・魚介・野菜・香辛料を加えて炊き込んだスパイシーな料理です。スペインのパエリアの影響を受けています。" },
+      { "q": "jambalaya とパエリアの違いは？", "a": "どちらも米の料理ですが、jambalaya はアメリカ南部のケイジャン・クレオール料理で、より辛くソーセージなどを使います。パエリアはスペインの料理です。" }
+    ],
+    "quiz": [
+      { "q": "___ is a spicy rice dish from Louisiana.（ジャンバラヤはルイジアナの辛い米料理だ）", "A": "Jambalaya", "B": "Jam", "C": "Jar", "D": "Jaw", "correct": "A" },
+      { "q": "jambalaya はどの地域の料理？", "A": "アメリカ南部ルイジアナ", "B": "北欧", "C": "東アジア", "D": "アフリカ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jacaranda",
+    "pron": "ˌdʒækəˈrændə",
+    "kana": "ジャカランダ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "トゥピ・グアラニ語 jakará（木の名)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR B2", "植物・花"],
+    "meaning_main": "ジャカランダ（紫の花を咲かせる木）",
+    "description": "jacaranda は「ジャカランダ」を表す名詞。南米原産の熱帯・亜熱帯の木で、春から初夏にかけて青紫色の美しい花を木いっぱいに咲かせます。世界三大花木の一つとされ、街路樹としても世界各地で親しまれています。",
+    "keywords": ["jacaranda 意味", "jacaranda 発音", "ジャカランダ", "jacaranda 花 紫", "jacaranda 例文"],
+    "meanings": [
+      { "hinshi": "【名】ジャカランダ", "note": "青紫色の花を咲かせる南米原産の木。" }
+    ],
+    "usages": [
+      { "title": "① ジャカランダ（木）", "desc": "紫の花の木。", "example_en": "The jacaranda blooms with purple flowers.", "example_ja": "ジャカランダは紫の花を咲かせる。" },
+      { "title": "② 街路樹として", "desc": "世界各地で人気。", "example_en": "The streets were lined with jacarandas.", "example_ja": "通りにはジャカランダが並んでいた。" },
+      { "title": "③ 花の季節", "desc": "春〜初夏。", "example_en": "Jacarandas bloom in spring.", "example_ja": "ジャカランダは春に咲く。" }
+    ],
+    "warn": ["発音は /ˌdʒækəˈrændə/。青紫の花を咲かせる木を指す。", "世界三大花木の一つとされる。"],
+    "etym_note": "南米の先住民トゥピ・グアラニ語で、この木を指す語に由来します。ポルトガル語・スペイン語を経て英語に入りました。南米原産の紫の花の木を指します。",
+    "etym_chain": [
+      { "node": "jakará", "sub": "木の名", "era": "トゥピ・グアラニ語" },
+      { "node": "jacaranda", "sub": "ジャカランダ", "era": "18世紀英語" },
+      { "node": "jacaranda", "sub": "ジャカランダ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a jacaranda tree", "ja": "ジャカランダの木" },
+      { "en": "purple jacaranda", "ja": "紫のジャカランダ" },
+      { "en": "jacaranda in bloom", "ja": "咲いたジャカランダ" },
+      { "en": "jacaranda blossoms", "ja": "ジャカランダの花" },
+      { "en": "under the jacaranda", "ja": "ジャカランダの下で" },
+      { "en": "a street of jacarandas", "ja": "ジャカランダ並木" }
+    ],
+    "related": [
+      { "en": "tree", "ja": "木" },
+      { "en": "flower", "ja": "花" },
+      { "en": "blossom", "ja": "花・咲く" },
+      { "en": "purple", "ja": "紫" }
+    ],
+    "faq": [
+      { "q": "jacaranda とはどんな木ですか？", "a": "南米原産の熱帯・亜熱帯の木で、春から初夏にかけて青紫色の美しい花を木いっぱいに咲かせます。世界三大花木の一つとされ、街路樹としても親しまれています。" },
+      { "q": "jacaranda はどこで見られますか？", "a": "南米原産ですが、オーストラリア・南アフリカ・アメリカ南部・日本の一部など、暖かい地域の街路樹や公園で世界的に見られます。" }
+    ],
+    "quiz": [
+      { "q": "In spring, the ___ tree is covered with purple flowers.（春にはジャカランダの木が紫の花で覆われる）", "A": "jacaranda", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jacaranda の花は何色？", "A": "青紫", "B": "赤", "C": "黄", "D": "白のみ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jackfruit",
+    "pron": "ˈdʒækfruːt",
+    "kana": "ジャックフルーツ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ポルトガル語 jaca（マラヤーラム語 chakka より)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR B2", "食べ物・植物"],
+    "meaning_main": "ジャックフルーツ（世界最大級の果実）",
+    "description": "jackfruit は「ジャックフルーツ」を表す名詞。南アジア・東南アジア原産の、木になる果実としては世界最大級の巨大な果物です。とげのある緑の皮の中に甘い黄色い果肉があり、熟す前のものは肉の代わりの食材としても使われます。",
+    "keywords": ["jackfruit 意味", "jackfruit 発音", "ジャックフルーツ", "jackfruit 果物", "jackfruit 例文"],
+    "meanings": [
+      { "hinshi": "【名】ジャックフルーツ", "note": "木になる果実として世界最大級の巨大な果物。" }
+    ],
+    "usages": [
+      { "title": "① ジャックフルーツ（果物）", "desc": "巨大な果実。", "example_en": "A jackfruit can weigh over 30 kilograms.", "example_ja": "ジャックフルーツは30キロを超えることもある。" },
+      { "title": "② 甘い黄色い果肉", "desc": "とげのある皮の中。", "example_en": "The yellow flesh of jackfruit is sweet.", "example_ja": "ジャックフルーツの黄色い果肉は甘い。" },
+      { "title": "③ 肉の代替食材", "desc": "熟す前のもの。", "example_en": "Unripe jackfruit is used as a meat substitute.", "example_ja": "熟す前のジャックフルーツは肉の代わりに使われる。" }
+    ],
+    "warn": ["発音は /ˈdʒækfruːt/。木になる果実として世界最大級。", "durian（ドリアン）とは別の果物。"],
+    "etym_note": "南インドのマラヤーラム語 chakka に由来し、ポルトガル語 jaca を経て、英語で jack＋fruit（果物）の形になりました。南アジア・東南アジア原産の巨大な果物を指します。",
+    "etym_chain": [
+      { "node": "chakka", "sub": "ジャックフルーツ", "era": "マラヤーラム語" },
+      { "node": "jaca", "sub": "ジャカ", "era": "ポルトガル語" },
+      { "node": "jackfruit", "sub": "ジャックフルーツ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a ripe jackfruit", "ja": "熟したジャックフルーツ" },
+      { "en": "jackfruit flesh", "ja": "ジャックフルーツの果肉" },
+      { "en": "a giant jackfruit", "ja": "巨大なジャックフルーツ" },
+      { "en": "unripe jackfruit", "ja": "熟す前のジャックフルーツ" },
+      { "en": "jackfruit curry", "ja": "ジャックフルーツのカレー" },
+      { "en": "sweet jackfruit", "ja": "甘いジャックフルーツ" }
+    ],
+    "related": [
+      { "en": "fruit", "ja": "果物" },
+      { "en": "durian", "ja": "ドリアン" },
+      { "en": "tropical", "ja": "熱帯の" },
+      { "en": "mango", "ja": "マンゴー" }
+    ],
+    "faq": [
+      { "q": "jackfruit とはどんな果物ですか？", "a": "南アジア・東南アジア原産の、木になる果実としては世界最大級の巨大な果物です。とげのある緑の皮の中に甘い黄色い果肉があります。" },
+      { "q": "jackfruit は料理にも使いますか？", "a": "はい。熟す前のジャックフルーツは繊維質で肉に似た食感があるため、肉の代わりの食材（ベジタリアン料理など）として使われます。" }
+    ],
+    "quiz": [
+      { "q": "The ___ is one of the largest fruits that grow on trees.（ジャックフルーツは木になる果実として最大級だ）", "A": "jackfruit", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jackfruit の特徴は？", "A": "木になる果実として世界最大級", "B": "とても小さい", "C": "根菜", "D": "海藻", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jalopy",
+    "pron": "dʒəˈlɒpi",
+    "kana": "ジャロピー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "20世紀アメリカ英語（起源不明）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "乗り物・口語"],
+    "meaning_main": "おんぼろ車／おんぼろの古い自動車",
+    "description": "jalopy は「おんぼろ車」を表すくだけた名詞。古くてぼろぼろになった、今にも壊れそうな自動車を親しみを込めて指す口語です。20世紀初めのアメリカで生まれた語で、はっきりした語源はわかっていません。",
+    "keywords": ["jalopy 意味", "jalopy 発音", "jalopy おんぼろ車", "jalopy 古い車", "jalopy 例文"],
+    "meanings": [
+      { "hinshi": "【名】おんぼろ車", "note": "古くてぼろぼろの自動車。親しみを込めた口語。" }
+    ],
+    "usages": [
+      { "title": "① おんぼろ車", "desc": "古い車。", "example_en": "He drives an old jalopy.", "example_ja": "彼はおんぼろの古い車に乗っている。" },
+      { "title": "② 今にも壊れそうな車", "desc": "がたがたの車。", "example_en": "The jalopy rattled down the road.", "example_ja": "おんぼろ車ががたがた音を立てて走った。" },
+      { "title": "③ 親しみを込めて", "desc": "愛着のある古い車。", "example_en": "That old jalopy still runs somehow.", "example_ja": "あのおんぼろ車はなんとかまだ走る。" }
+    ],
+    "warn": ["くだけた口語。親しみを込めた「おんぼろ車」の意味。", "発音は /dʒəˈlɒpi/。"],
+    "etym_note": "20世紀初めのアメリカ英語で生まれた語で、はっきりした語源はわかっていません。古くてぼろぼろの自動車を親しみを込めて指す口語として定着しました。",
+    "etym_chain": [
+      { "node": "jalopy", "sub": "おんぼろ車(起源不明)", "era": "20世紀初めアメリカ英語" },
+      { "node": "jalopy", "sub": "おんぼろ車", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an old jalopy", "ja": "古いおんぼろ車" },
+      { "en": "a beat-up jalopy", "ja": "ぼろぼろの車" },
+      { "en": "drive a jalopy", "ja": "おんぼろ車に乗る" },
+      { "en": "a rusty jalopy", "ja": "さびたおんぼろ車" },
+      { "en": "fix up a jalopy", "ja": "おんぼろ車を直す" },
+      { "en": "that old jalopy", "ja": "あのおんぼろ車" }
+    ],
+    "related": [
+      { "en": "car", "ja": "車" },
+      { "en": "wreck", "ja": "おんぼろ・残骸" },
+      { "en": "banger", "ja": "おんぼろ車(英俗)" },
+      { "en": "vehicle", "ja": "乗り物" }
+    ],
+    "faq": [
+      { "q": "jalopy とはどんな車ですか？", "a": "古くてぼろぼろになった、今にも壊れそうな自動車を親しみを込めて指すくだけた口語です。" },
+      { "q": "jalopy にはどんなニュアンスがありますか？", "a": "ただの古い車というより、愛着を込めた「おんぼろ車」というユーモラスな響きがあります。" }
+    ],
+    "quiz": [
+      { "q": "His car is an old, rusty ___ that barely runs.（彼の車はかろうじて走る古くさびたおんぼろ車だ）", "A": "jalopy", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jalopy の意味は？", "A": "おんぼろ車", "B": "新車", "C": "高級車", "D": "レーシングカー", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jitterbug",
+    "pron": "ˈdʒɪtərbʌɡ",
+    "kana": "ジターバグ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "jitter（そわそわ）＋ bug（虫)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "音楽・ダンス"],
+    "meaning_main": "ジルバ（活発なスウィングダンス）",
+    "description": "jitterbug は「ジルバ」を表す名詞。1930〜40年代に流行した、スウィングジャズに合わせて跳ねるように踊る活発なペアダンスです。日本語の「ジルバ」はこの語がなまったものです。jitter（そわそわ・小刻みに動く）＋ bug（虫）が語源です。",
+    "keywords": ["jitterbug 意味", "jitterbug 発音", "ジルバ", "jitterbug ダンス", "jitterbug 例文"],
+    "meanings": [
+      { "hinshi": "【名】ジルバ", "note": "スウィングジャズに合わせて跳ねる活発なペアダンス。" }
+    ],
+    "usages": [
+      { "title": "① ジルバ（ダンス）", "desc": "活発なペアダンス。", "example_en": "They danced the jitterbug all night.", "example_ja": "彼らは一晩中ジルバを踊った。" },
+      { "title": "② スウィングに合わせて", "desc": "跳ねるように踊る。", "example_en": "The jitterbug is danced to swing music.", "example_ja": "ジルバはスウィング音楽に合わせて踊る。" },
+      { "title": "③ 1930〜40年代の流行", "desc": "時代の象徴。", "example_en": "The jitterbug was popular in the 1940s.", "example_ja": "ジルバは1940年代に人気だった。" }
+    ],
+    "warn": ["日本語の「ジルバ」はこの語がなまったもの。", "jitter（小刻みに動く）＋ bug（虫）が語源。"],
+    "etym_note": "jitter（そわそわ・小刻みに動く）＋ bug（虫）でできた語です。せわしなく跳ね回る踊りの様子から名づけられました。1930〜40年代のスウィング全盛期に流行しました。",
+    "etym_chain": [
+      { "node": "jitter + bug", "sub": "そわそわ＋虫", "era": "20世紀アメリカ英語" },
+      { "node": "jitterbug", "sub": "ジルバ", "era": "1930年代英語" },
+      { "node": "jitterbug", "sub": "ジルバ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "dance the jitterbug", "ja": "ジルバを踊る" },
+      { "en": "do the jitterbug", "ja": "ジルバを踊る" },
+      { "en": "a jitterbug contest", "ja": "ジルバの大会" },
+      { "en": "swing and jitterbug", "ja": "スウィングとジルバ" },
+      { "en": "learn the jitterbug", "ja": "ジルバを覚える" },
+      { "en": "a lively jitterbug", "ja": "活発なジルバ" }
+    ],
+    "related": [
+      { "en": "swing", "ja": "スウィング(音楽)" },
+      { "en": "dance", "ja": "ダンス・踊る" },
+      { "en": "jazz", "ja": "ジャズ" },
+      { "en": "jive", "ja": "ジャイブ(ダンス)" }
+    ],
+    "faq": [
+      { "q": "jitterbug とは何ですか？", "a": "1930〜40年代に流行した、スウィングジャズに合わせて跳ねるように踊る活発なペアダンスです。日本語の「ジルバ」はこの語がなまったものです。" },
+      { "q": "jitterbug の語源は？", "a": "jitter（そわそわ・小刻みに動く）＋ bug（虫）です。せわしなく跳ね回る踊りの様子から名づけられました。" }
+    ],
+    "quiz": [
+      { "q": "In the 1940s, young people loved to dance the ___.（1940年代、若者はジルバを踊るのが大好きだった）", "A": "jitterbug", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jitterbug は何に合わせて踊る？", "A": "スウィングジャズ", "B": "クラシック", "C": "演歌", "D": "無音", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jape",
+    "pron": "dʒeɪp",
+    "kana": "ジェイプ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "中英語 japen（ばかにする・ふざける)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "古語・文語"],
+    "meaning_main": "(古風な)冗談／いたずら／ふざける",
+    "description": "jape は「冗談・いたずら」を表す古風な名詞、また「ふざける・からかう」を表す動詞です。joke や prank に近い意味ですが、非常に古めかしく文語的・戯曲的な語です。現代では、あえて古風でユーモラスな響きを出すために使われます。",
+    "keywords": ["jape 意味", "jape 発音", "jape 冗談", "jape いたずら", "jape 例文"],
+    "meanings": [
+      { "hinshi": "【名】冗談・いたずら", "note": "joke / prank の古風な語。" },
+      { "hinshi": "【動】ふざける・からかう", "note": "冗談を言う。" }
+    ],
+    "usages": [
+      { "title": "① 冗談・いたずら（名詞）", "desc": "古風な語。", "example_en": "It was just a harmless jape.", "example_ja": "それは害のないただのいたずらだった。" },
+      { "title": "② ふざける（動詞）", "desc": "からかう。", "example_en": "The boys japed and laughed.", "example_ja": "少年たちはふざけて笑った。" },
+      { "title": "③ 古めかしい響き", "desc": "戯曲的。", "example_en": "He made a witty jape.", "example_ja": "彼は気の利いた冗談を言った。" }
+    ],
+    "warn": ["非常に古風・文語的な語。日常では joke / prank が普通。", "あえて古めかしくユーモラスに使うことが多い。"],
+    "etym_note": "中英語 japen（ばかにする・ふざける・だます）に由来します。古フランス語との関係が指摘されますが、はっきりしません。中世から使われる古い語です。",
+    "etym_chain": [
+      { "node": "japen", "sub": "ばかにする・ふざける", "era": "中英語" },
+      { "node": "jape", "sub": "冗談・いたずら", "era": "近代英語" },
+      { "node": "jape", "sub": "冗談・ふざける", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a harmless jape", "ja": "害のないいたずら" },
+      { "en": "a witty jape", "ja": "気の利いた冗談" },
+      { "en": "make a jape", "ja": "冗談を言う" },
+      { "en": "a childish jape", "ja": "子どもっぽいいたずら" },
+      { "en": "just a jape", "ja": "ただの冗談" },
+      { "en": "a merry jape", "ja": "陽気ないたずら" }
+    ],
+    "related": [
+      { "en": "joke", "ja": "冗談" },
+      { "en": "prank", "ja": "いたずら" },
+      { "en": "jest", "ja": "冗談" },
+      { "en": "trick", "ja": "いたずら・策略" }
+    ],
+    "faq": [
+      { "q": "jape とはどんな意味ですか？", "a": "「冗談・いたずら」を表す古風な語です。joke や prank に近い意味ですが、非常に古めかしく文語的・戯曲的な響きがあります。" },
+      { "q": "jape は日常でよく使いますか？", "a": "いいえ、非常に古風な語です。日常では joke（冗談）や prank（いたずら）が普通で、jape はあえて古風にユーモラスに使うことが多いです。" }
+    ],
+    "quiz": [
+      { "q": "It was only a harmless ___ meant to make everyone laugh.（それはみんなを笑わせるための害のないいたずらにすぎなかった）", "A": "jape", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jape の意味に近いのは？", "A": "冗談・いたずら", "B": "仕事", "C": "けんか", "D": "旅行", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jocund",
+    "pron": "ˈdʒɒkənd",
+    "kana": "ジョカンド",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 jucundus（楽しい)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "文語的"],
+    "meaning_main": "陽気な／快活な／楽しげな",
+    "description": "jocund は「陽気な・快活な・楽しげな」を表す形容詞。明るく生き生きとして楽しそうな様子を表す、非常に文語的・詩的な語です。日常ではあまり使わず、詩や古典的な文章で見られます。jolly や merry の格式高い言い方です。",
+    "keywords": ["jocund 意味", "jocund 発音", "jocund 陽気な", "jocund 快活", "jocund 例文"],
+    "meanings": [
+      { "hinshi": "【形】陽気な・快活な・楽しげな", "note": "明るく生き生きとした様子。文語的・詩的。" }
+    ],
+    "usages": [
+      { "title": "① 陽気な・楽しげな", "desc": "詩的な表現。", "example_en": "A jocund crowd filled the square.", "example_ja": "陽気な群衆が広場を満たした。" },
+      { "title": "② 快活な雰囲気", "desc": "生き生きとした。", "example_en": "The morning was bright and jocund.", "example_ja": "朝は明るく快活だった。" },
+      { "title": "③ 詩・古典で", "desc": "格調高い語。", "example_en": "The poet described a jocund company of daffodils.", "example_ja": "詩人は陽気な水仙の群れを描いた。" }
+    ],
+    "warn": ["非常に文語的・詩的な語。日常では cheerful / jolly が普通。", "ワーズワースの詩などで有名。jovial / jolly と近い。"],
+    "etym_note": "ラテン語 jucundus（楽しい・快い）に由来します。もとは「役に立つ」を意味する juvare とも関わり、「心地よい・楽しい」の意味に発展しました。詩的な文脈で使われる格調高い語です。",
+    "etym_chain": [
+      { "node": "jucundus", "sub": "楽しい", "era": "ラテン語" },
+      { "node": "jocund", "sub": "陽気な", "era": "中英語" },
+      { "node": "jocund", "sub": "陽気な・楽しげな", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a jocund mood", "ja": "陽気な気分" },
+      { "en": "jocund company", "ja": "陽気な仲間" },
+      { "en": "a jocund morning", "ja": "快活な朝" },
+      { "en": "bright and jocund", "ja": "明るく陽気な" },
+      { "en": "a jocund tune", "ja": "楽しげな調べ" },
+      { "en": "in jocund spirits", "ja": "陽気な気分で" }
+    ],
+    "related": [
+      { "en": "jolly", "ja": "陽気な" },
+      { "en": "merry", "ja": "陽気な" },
+      { "en": "cheerful", "ja": "快活な" },
+      { "en": "jovial", "ja": "陽気な" }
+    ],
+    "faq": [
+      { "q": "jocund とはどんな意味ですか？", "a": "「陽気な・快活な・楽しげな」を表す非常に文語的・詩的な形容詞です。日常ではあまり使わず、詩や古典的な文章で見られます。" },
+      { "q": "jocund と jolly の違いは？", "a": "意味はほぼ同じ「陽気な」ですが、jocund はより格調高く詩的な語で、日常会話ではまれです。jolly はくだけた日常語です。" }
+    ],
+    "quiz": [
+      { "q": "The poem describes a ___ scene full of joy and dancing.（その詩は喜びと踊りに満ちた陽気な情景を描いている）", "A": "jocund", "B": "jealous", "C": "jaded", "D": "jumbo", "correct": "A" },
+      { "q": "jocund の意味に近いのは？", "A": "陽気な・楽しげな", "B": "悲しい", "C": "怒った", "D": "疲れた", "correct": "A" }
+    ]
+  },
+  {
+    "english": "juju",
+    "pron": "ˈdʒuːdʒuː",
+    "kana": "ジュージュー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "西アフリカの言語（またはフランス語 joujou）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "文化・呪術"],
+    "meaning_main": "(西アフリカの)呪物／お守り／呪力",
+    "description": "juju は「(西アフリカの)呪物・お守り」を表す名詞。呪術的な力を持つとされる物や、その神秘的な力そのものを指します。西アフリカの伝統的な信仰に関わる語で、比喩的に「不思議な力・運気」の意味で使われることもあります。",
+    "keywords": ["juju 意味", "juju 発音", "juju 呪物", "juju お守り", "juju 例文"],
+    "meanings": [
+      { "hinshi": "【名】(西アフリカの)呪物・お守り", "note": "呪術的な力を持つとされる物。" },
+      { "hinshi": "【名】呪力・神秘的な力", "note": "その物が持つとされる力。" }
+    ],
+    "usages": [
+      { "title": "① 呪物・お守り", "desc": "力を持つ物。", "example_en": "He wore a juju for protection.", "example_ja": "彼は身を守るために呪物を身につけていた。" },
+      { "title": "② 呪術的な力", "desc": "神秘的な力。", "example_en": "They believed in the power of juju.", "example_ja": "彼らは呪力の力を信じていた。" },
+      { "title": "③ (比喩)不思議な運気", "desc": "口語的に。", "example_en": "The team seemed to have good juju.", "example_ja": "そのチームは良い運気を持っているようだった。" }
+    ],
+    "warn": ["発音は /ˈdʒuːdʒuː/。西アフリカの伝統信仰に関わる語。", "口語で「運気・不思議な力」の意味でも使う。"],
+    "etym_note": "西アフリカの言語、またはフランス語 joujou（おもちゃ）に由来するとされます。西アフリカの伝統的な信仰で、呪術的な力を持つとされる物やその力を指す語として英語に入りました。",
+    "etym_chain": [
+      { "node": "juju/joujou", "sub": "呪物/おもちゃ", "era": "西アフリカ語・フランス語" },
+      { "node": "juju", "sub": "呪物", "era": "19世紀英語" },
+      { "node": "juju", "sub": "呪物・呪力", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "good juju", "ja": "良い運気" },
+      { "en": "bad juju", "ja": "悪い運気・不吉なもの" },
+      { "en": "a juju charm", "ja": "呪物のお守り" },
+      { "en": "the power of juju", "ja": "呪力" },
+      { "en": "wear a juju", "ja": "呪物を身につける" },
+      { "en": "believe in juju", "ja": "呪術を信じる" }
+    ],
+    "related": [
+      { "en": "charm", "ja": "お守り・魔除け" },
+      { "en": "magic", "ja": "魔法・呪術" },
+      { "en": "talisman", "ja": "護符" },
+      { "en": "spell", "ja": "呪文" }
+    ],
+    "faq": [
+      { "q": "juju とは何ですか？", "a": "西アフリカの伝統的な信仰で、呪術的な力を持つとされる物（呪物・お守り）や、その神秘的な力そのものを指す語です。" },
+      { "q": "good juju / bad juju とは？", "a": "口語で「良い運気・幸運を呼ぶもの」「悪い運気・不吉なもの」という意味です。呪物の力にちなんだ比喩的な使い方です。" }
+    ],
+    "quiz": [
+      { "q": "Some players keep a lucky charm for good ___.（縁起をかついで幸運のお守りを持つ選手もいる）", "A": "juju", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "juju はどの地域の伝統に関わる語？", "A": "西アフリカ", "B": "北欧", "C": "東アジア", "D": "南米", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jonquil",
+    "pron": "ˈdʒɒŋkwɪl",
+    "kana": "ジョンクィル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 juncus（い草)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "植物・花"],
+    "meaning_main": "キズイセン（黄色い香りのよい水仙）",
+    "description": "jonquil は「キズイセン（黄水仙）」を表す名詞。水仙（ナルシサス）の仲間で、細い葉と黄色い香りのよい花をつけます。春に咲く花で、その澄んだ黄色は「ジョンキル色」とも呼ばれます。ラテン語の「い草」が語源です。",
+    "keywords": ["jonquil 意味", "jonquil 発音", "jonquil キズイセン", "jonquil 水仙", "jonquil 例文"],
+    "meanings": [
+      { "hinshi": "【名】キズイセン（黄水仙）", "note": "細い葉と黄色い香りのよい花をつける水仙の仲間。" }
+    ],
+    "usages": [
+      { "title": "① キズイセン（花）", "desc": "黄色い水仙。", "example_en": "Jonquils bloomed in the spring garden.", "example_ja": "春の庭にキズイセンが咲いた。" },
+      { "title": "② 香りのよい花", "desc": "甘い香り。", "example_en": "Jonquils have a sweet scent.", "example_ja": "キズイセンは甘い香りがする。" },
+      { "title": "③ ジョンキル色", "desc": "澄んだ黄色。", "example_en": "The dress was a bright jonquil yellow.", "example_ja": "そのドレスは鮮やかなジョンキル色だった。" }
+    ],
+    "warn": ["発音は /ˈdʒɒŋkwɪl/。水仙(daffodil)の仲間だが、より細い葉と香りのよい花が特徴。", "澄んだ黄色を jonquil（ジョンキル色）とも言う。"],
+    "etym_note": "ラテン語 juncus（い草・灯心草）に由来し、スペイン語 junquillo・フランス語 jonquille を経て英語に入りました。細くい草のような葉にちなむ名です。",
+    "etym_chain": [
+      { "node": "juncus", "sub": "い草", "era": "ラテン語" },
+      { "node": "jonquille", "sub": "キズイセン", "era": "フランス語" },
+      { "node": "jonquil", "sub": "キズイセン", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "yellow jonquils", "ja": "黄色いキズイセン" },
+      { "en": "a bunch of jonquils", "ja": "キズイセンの花束" },
+      { "en": "fragrant jonquils", "ja": "香りのよいキズイセン" },
+      { "en": "jonquils in spring", "ja": "春のキズイセン" },
+      { "en": "jonquil yellow", "ja": "ジョンキル色(澄んだ黄)" },
+      { "en": "a field of jonquils", "ja": "キズイセンの野" }
+    ],
+    "related": [
+      { "en": "daffodil", "ja": "ラッパスイセン" },
+      { "en": "narcissus", "ja": "水仙" },
+      { "en": "flower", "ja": "花" },
+      { "en": "yellow", "ja": "黄色" }
+    ],
+    "faq": [
+      { "q": "jonquil とはどんな花ですか？", "a": "水仙（ナルシサス）の仲間で、細い葉と黄色い香りのよい花をつける「キズイセン（黄水仙）」です。春に咲きます。" },
+      { "q": "jonquil と daffodil の違いは？", "a": "どちらも水仙の仲間ですが、jonquil（キズイセン）はより細い葉と、房状で香りの強い黄色い花が特徴です。daffodil（ラッパスイセン）はラッパ状の花を1輪ずつつけます。" }
+    ],
+    "quiz": [
+      { "q": "The garden was full of fragrant yellow ___ in spring.（庭は春に香りのよい黄色いキズイセンでいっぱいだった）", "A": "jonquils", "B": "jams", "C": "jars", "D": "jaws", "correct": "A" },
+      { "q": "jonquil は何の花の仲間？", "A": "水仙", "B": "バラ", "C": "ヒマワリ", "D": "チューリップ", "correct": "A" }
+    ]
+  }
+]
