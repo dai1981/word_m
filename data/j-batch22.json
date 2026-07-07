@@ -1,0 +1,499 @@
+[
+  {
+    "english": "Jackson",
+    "pron": "ˈdʒæksən",
+    "kana": "ヂャクソン",
+    "hinshi": "固有名詞（人名・地名）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "英語の父称姓「Jack の子」より",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "人物・地名"],
+    "meaning_main": "ジャクソン（人名・地名。マイケル・ジャクソンなど）",
+    "description": "Jackson（ヂャクソン）は英語圏の一般的な姓で、歌手マイケル・ジャクソンや第7代米大統領アンドリュー・ジャクソン、米ミシシッピ州都の名でもあります。",
+    "keywords": ["Jackson 意味", "マイケル・ジャクソン", "アンドリュー・ジャクソン", "ジャクソン 州都"],
+    "meanings": [
+      { "hinshi": "【固有名詞】マイケル・ジャクソン", "note": "「キング・オブ・ポップ」と呼ばれた米国の歌手（1958〜2009）。" },
+      { "hinshi": "【固有名詞】アンドリュー・ジャクソン", "note": "第7代アメリカ大統領。20ドル紙幣の肖像。" },
+      { "hinshi": "【固有名詞】地名 Jackson", "note": "米ミシシッピ州の州都など、複数の都市名。" }
+    ],
+    "usages": [
+      { "title": "① 姓としてのジャクソン", "desc": "人物の姓として使う。", "example_en": "Michael Jackson was known as the King of Pop.", "example_ja": "マイケル・ジャクソンは「キング・オブ・ポップ」と呼ばれた。" },
+      { "title": "② 地名としてのジャクソン", "desc": "都市名を指す。", "example_en": "Jackson is the capital of Mississippi.", "example_ja": "ジャクソンはミシシッピ州の州都だ。" }
+    ],
+    "warn": ["非常に多くの人物・地名に使われる姓なので、文脈でどの Jackson かを判断する。"],
+    "etym_note": "「Jack（ジャック）の子」を意味する英語の父称姓です。Jack は John の愛称で、そこから Jackson が生まれました。",
+    "etym_chain": [
+      { "node": "Jack", "sub": "John の愛称", "era": "中世" },
+      { "node": "Jackson", "sub": "ジャックの子", "era": "姓の成立" }
+    ],
+    "phrases": [
+      { "en": "Michael Jackson", "ja": "マイケル・ジャクソン" },
+      { "en": "Andrew Jackson", "ja": "アンドリュー・ジャクソン" },
+      { "en": "Jackson, Mississippi", "ja": "ミシシッピ州ジャクソン" },
+      { "en": "the Jackson family", "ja": "ジャクソン一家" },
+      { "en": "Jackson Pollock", "ja": "ジャクソン・ポロック（画家）" },
+      { "en": "Jackson Hole", "ja": "ジャクソンホール（保養地）" }
+    ],
+    "related": [
+      { "en": "Jack", "ja": "ジャック（元の名）" },
+      { "en": "Mississippi", "ja": "ミシシッピ州" },
+      { "en": "King of Pop", "ja": "キング・オブ・ポップ" },
+      { "en": "president", "ja": "大統領" }
+    ],
+    "faq": [
+      { "q": "Jackson は誰を指す？", "a": "文脈によります。歌手マイケル・ジャクソン、第7代大統領アンドリュー・ジャクソン、画家ジャクソン・ポロック、地名など多数あります。" },
+      { "q": "Jackson の語源は？", "a": "「Jack の子」を意味する父称姓です。Jack は John の愛称でした。" }
+    ],
+    "quiz": [
+      { "q": "「キング・オブ・ポップ」と呼ばれた Jackson は？", "A": "アンドリュー", "B": "マイケル", "C": "ジャクソン・ポロック", "D": "ストーンウォール", "correct": "B" },
+      { "q": "Jackson が州都であるのは？", "A": "テキサス", "B": "ミシシッピ", "C": "フロリダ", "D": "オハイオ", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Jacob",
+    "pron": "ˈdʒeɪkəb",
+    "kana": "ヂェイコブ",
+    "hinshi": "固有名詞（人名・聖書）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ヘブライ語 Ya'aqov（かかとをつかむ者）より",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "聖書・人名"],
+    "meaning_main": "ヤコブ（旧約聖書の族長）／男性名ジェイコブ",
+    "description": "Jacob（ヂェイコブ）は旧約聖書の族長ヤコブ。アブラハムの孫でイスラエル十二部族の父祖とされ、英語圏では人気の男性名でもあります。",
+    "keywords": ["Jacob 意味", "ヤコブ 聖書", "イスラエル 十二部族", "男性名 Jacob"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ヤコブ", "note": "旧約聖書の族長。イサクの子、アブラハムの孫。後に「イスラエル」と改名。" },
+      { "hinshi": "【固有名詞】男性名ジェイコブ", "note": "英語圏で非常に人気のある男性名。" }
+    ],
+    "usages": [
+      { "title": "① 聖書の族長ヤコブ", "desc": "聖書の人物を指す。", "example_en": "Jacob had twelve sons, the fathers of Israel's tribes.", "example_ja": "ヤコブには12人の息子がおり、イスラエル諸部族の父祖となった。" },
+      { "title": "② 現代の男性名", "desc": "人名として使う。", "example_en": "Jacob is one of the most popular boys' names.", "example_ja": "ジェイコブは最も人気のある男の子の名前の一つだ。" }
+    ],
+    "warn": ["ヤコブは神との格闘の後「イスラエル（Israel）」と改名した。英語の James も同語源（ラテン語 Iacobus 経由）。"],
+    "etym_note": "ヘブライ語 Ya'aqov（「かかとをつかむ者」、双子の兄エサウのかかとを握って生まれた逸話に由来）から、ラテン語 Iacobus を経て英語 Jacob になりました。James も同源です。",
+    "etym_chain": [
+      { "node": "Ya'aqov", "sub": "かかとをつかむ者", "era": "ヘブライ語" },
+      { "node": "Iacobus", "sub": "ラテン語形", "era": "古代ラテン語" },
+      { "node": "Jacob", "sub": "英語名", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Jacob and Esau", "ja": "ヤコブとエサウ" },
+      { "en": "Jacob's ladder", "ja": "ヤコブのはしご" },
+      { "en": "the sons of Jacob", "ja": "ヤコブの息子たち" },
+      { "en": "Jacob wrestled with God", "ja": "ヤコブは神と格闘した" },
+      { "en": "named Jacob", "ja": "ジェイコブという名の" },
+      { "en": "the God of Jacob", "ja": "ヤコブの神" }
+    ],
+    "related": [
+      { "en": "Israel", "ja": "イスラエル（改名後の名）" },
+      { "en": "Esau", "ja": "エサウ（双子の兄）" },
+      { "en": "James", "ja": "ジェームズ（同語源）" },
+      { "en": "Isaac", "ja": "イサク（父）" }
+    ],
+    "faq": [
+      { "q": "Jacob と James は関係ある？", "a": "はい。どちらもヘブライ語 Ya'aqov に由来し、ラテン語 Iacobus から派生した同語源の名前です。" },
+      { "q": "Jacob's ladder（ヤコブのはしご）とは？", "a": "ヤコブが夢に見た、天まで届くはしごのことです。転じて縄ばしごや植物名にも使われます。" }
+    ],
+    "quiz": [
+      { "q": "Jacob の息子は何人いたとされる？", "A": "7人", "B": "10人", "C": "12人", "D": "20人", "correct": "C" },
+      { "q": "Jacob が神との格闘の後に得た名は？", "A": "イサク", "B": "イスラエル", "C": "アブラハム", "D": "ヨセフ", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Joan",
+    "pron": "dʒoʊn",
+    "kana": "ヂョーン",
+    "hinshi": "固有名詞（人名）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "John の女性形（ラテン語 Johanna）より",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "歴史・人物"],
+    "meaning_main": "ジャンヌ／ジョーン（特にジャンヌ・ダルク）",
+    "description": "Joan（ヂョーン）は女性名で、特に百年戦争でフランスを救った国民的英雄ジャンヌ・ダルク（Joan of Arc）を指すことが多い固有名詞です。",
+    "keywords": ["Joan 意味", "ジャンヌ・ダルク", "Joan of Arc", "百年戦争 英雄"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ジャンヌ・ダルク", "note": "Joan of Arc。百年戦争でフランスを勝利に導いた少女。後に列聖。" },
+      { "hinshi": "【固有名詞】女性名ジョーン", "note": "英語圏の一般的な女性名。John の女性形。" }
+    ],
+    "usages": [
+      { "title": "① ジャンヌ・ダルク", "desc": "歴史上の英雄を指す。", "example_en": "Joan of Arc led the French army at Orléans.", "example_ja": "ジャンヌ・ダルクはオルレアンでフランス軍を率いた。" },
+      { "title": "② 一般的な女性名", "desc": "人名として使う。", "example_en": "Her grandmother's name was Joan.", "example_ja": "彼女の祖母の名はジョーンだった。" }
+    ],
+    "warn": ["フランス語では Jeanne d'Arc（ジャンヌ・ダルク）。英語では Joan of Arc と呼ぶ。John の女性形にあたる。"],
+    "etym_note": "男性名 John の女性形で、ラテン語 Johanna（ヘブライ語「ヤハウェは慈悲深い」由来）から来ています。Jane, Joanna, Jean なども同系の女性名です。",
+    "etym_chain": [
+      { "node": "Yohanan", "sub": "神は慈悲深い", "era": "ヘブライ語" },
+      { "node": "Johanna", "sub": "女性形", "era": "ラテン語" },
+      { "node": "Joan", "sub": "英語名", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Joan of Arc", "ja": "ジャンヌ・ダルク" },
+      { "en": "Saint Joan", "ja": "聖ジャンヌ" },
+      { "en": "the Maid of Orléans", "ja": "オルレアンの乙女" },
+      { "en": "Pope Joan", "ja": "女教皇ヨハンナ（伝説）" },
+      { "en": "named Joan", "ja": "ジョーンという名の" },
+      { "en": "Joan's courage", "ja": "ジャンヌの勇気" }
+    ],
+    "related": [
+      { "en": "John", "ja": "ジョン（男性形）" },
+      { "en": "Jane", "ja": "ジェーン（同系）" },
+      { "en": "Orléans", "ja": "オルレアン" },
+      { "en": "Hundred Years' War", "ja": "百年戦争" }
+    ],
+    "faq": [
+      { "q": "Joan of Arc はフランス語で何と言う？", "a": "Jeanne d'Arc（ジャンヌ・ダルク）です。英語では Joan of Arc と呼ばれます。" },
+      { "q": "Joan はどんな名前？", "a": "男性名 John の女性形にあたる伝統的な女性名です。Jane や Joanna も同系統です。" }
+    ],
+    "quiz": [
+      { "q": "Joan of Arc が活躍した戦争は？", "A": "薔薇戦争", "B": "百年戦争", "C": "十字軍", "D": "三十年戦争", "correct": "B" },
+      { "q": "Joan は男性名の何の女性形？", "A": "James", "B": "John", "C": "George", "D": "Jacob", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Judah",
+    "pron": "ˈdʒuːdə",
+    "kana": "ヂューダ",
+    "hinshi": "固有名詞（人名・地名・聖書）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ヘブライ語 Yehudah（賛美される）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "聖書・歴史"],
+    "meaning_main": "ユダ（ヤコブの子／古代ユダ王国）",
+    "description": "Judah（ヂューダ）は旧約聖書のヤコブの子ユダ、そのユダ族、および南部の古代ユダ王国を指す固有名詞。ユダヤ（Jew, Judea）の語源です。",
+    "keywords": ["Judah 意味", "ユダ 部族", "ユダ王国", "ユダヤ 語源"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ユダ", "note": "ヤコブの4番目の子で、ユダ族の祖。" },
+      { "hinshi": "【固有名詞】ユダ王国", "note": "古代イスラエルが分裂した後の南王国。首都エルサレム。" }
+    ],
+    "usages": [
+      { "title": "① 部族・人物としてのユダ", "desc": "ヤコブの子・その部族を指す。", "example_en": "Judah was one of the twelve sons of Jacob.", "example_ja": "ユダはヤコブの12人の息子の一人だった。" },
+      { "title": "② 古代ユダ王国", "desc": "南王国を指す歴史用法。", "example_en": "The Kingdom of Judah had its capital in Jerusalem.", "example_ja": "ユダ王国は首都をエルサレムに置いた。" }
+    ],
+    "warn": ["イエスを裏切った弟子「ユダ（Judas）」とは別の綴り・別人。Judah は「賛美」、Jew・Judea・Judaism の語源。"],
+    "etym_note": "ヘブライ語 Yehudah（「賛美される」）に由来。ここから地域名 Judea、民族名 Jew、宗教名 Judaism が派生しました。",
+    "etym_chain": [
+      { "node": "Yehudah", "sub": "賛美される", "era": "ヘブライ語" },
+      { "node": "Judah", "sub": "部族・王国名", "era": "古代" },
+      { "node": "Jew / Judea", "sub": "派生語", "era": "後代" }
+    ],
+    "phrases": [
+      { "en": "the tribe of Judah", "ja": "ユダ族" },
+      { "en": "the Kingdom of Judah", "ja": "ユダ王国" },
+      { "en": "the Lion of Judah", "ja": "ユダの獅子" },
+      { "en": "Judah and Israel", "ja": "ユダとイスラエル（南北王国）" },
+      { "en": "sons of Judah", "ja": "ユダの子孫" },
+      { "en": "land of Judah", "ja": "ユダの地" }
+    ],
+    "related": [
+      { "en": "Judea", "ja": "ユダヤ（地域）" },
+      { "en": "Jew", "ja": "ユダヤ人" },
+      { "en": "Judaism", "ja": "ユダヤ教" },
+      { "en": "Judas", "ja": "ユダ（裏切りの弟子・別人）" }
+    ],
+    "faq": [
+      { "q": "Judah と Judas は同じ？", "a": "別人・別綴りです。Judah はヤコブの子・ユダ王国、Judas は新約でイエスを裏切った弟子を指します。" },
+      { "q": "Judah から生まれた語は？", "a": "地域名 Judea、民族名 Jew、宗教名 Judaism などが Judah（ユダ）に由来します。" }
+    ],
+    "quiz": [
+      { "q": "Judah 王国の首都は？", "A": "サマリア", "B": "エルサレム", "C": "バビロン", "D": "ダマスカス", "correct": "B" },
+      { "q": "Judah から派生していない語は？", "A": "Jew", "B": "Judea", "C": "Judaism", "D": "Jordan", "correct": "D" }
+    ]
+  },
+  {
+    "english": "Judaism",
+    "pron": "ˈdʒuːdiɪzəm",
+    "kana": "ヂューダイズム",
+    "hinshi": "固有名詞（宗教）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "Judah（ユダ）+ -ism（主義・教）",
+    "ld_level": "準1級",
+    "badges": ["大学生〜", "英検準1級", "CEFR C1", "宗教"],
+    "meaning_main": "ユダヤ教（ユダヤ人の一神教）",
+    "description": "Judaism（ヂューダイズム）はユダヤ人の伝統的な一神教。唯一神への信仰とトーラー（律法）を中心とし、キリスト教・イスラム教の源流でもあります。",
+    "keywords": ["Judaism 意味", "ユダヤ教", "一神教", "トーラー 律法"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ユダヤ教", "note": "ユダヤ人の民族宗教で、唯一神を信じる最古級の一神教。" },
+      { "hinshi": "【固有名詞】ユダヤの信仰・文化", "note": "律法や戒律に基づく生活様式を含む。" }
+    ],
+    "usages": [
+      { "title": "① 一神教としてのユダヤ教", "desc": "宗教そのものを指す。", "example_en": "Judaism is one of the oldest monotheistic religions.", "example_ja": "ユダヤ教は最古級の一神教の一つだ。" },
+      { "title": "② 三宗教の源流", "desc": "アブラハムの宗教の起点として語られる。", "example_en": "Christianity and Islam grew out of the tradition of Judaism.", "example_ja": "キリスト教とイスラム教はユダヤ教の伝統から生まれた。" }
+    ],
+    "warn": ["聖典はトーラー（モーセ五書）を中心とするタナハ。キリスト教・イスラム教と合わせて「アブラハムの宗教」と総称される。"],
+    "etym_note": "Judah（ユダ）に「主義・教」を表す -ism が付いた語。ユダ族・ユダ王国の名に由来し、その信仰体系を指します。",
+    "etym_chain": [
+      { "node": "Yehudah", "sub": "ユダ", "era": "ヘブライ語" },
+      { "node": "Judah + -ism", "sub": "ユダの教え", "era": "派生" },
+      { "node": "Judaism", "sub": "ユダヤ教", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "convert to Judaism", "ja": "ユダヤ教に改宗する" },
+      { "en": "Orthodox Judaism", "ja": "正統派ユダヤ教" },
+      { "en": "the roots of Judaism", "ja": "ユダヤ教の源流" },
+      { "en": "practice Judaism", "ja": "ユダヤ教を実践する" },
+      { "en": "Judaism and Christianity", "ja": "ユダヤ教とキリスト教" },
+      { "en": "Reform Judaism", "ja": "改革派ユダヤ教" }
+    ],
+    "related": [
+      { "en": "Jew", "ja": "ユダヤ人" },
+      { "en": "Torah", "ja": "トーラー（律法）" },
+      { "en": "synagogue", "ja": "シナゴーグ" },
+      { "en": "monotheism", "ja": "一神教" }
+    ],
+    "faq": [
+      { "q": "ユダヤ教の聖典は？", "a": "トーラー（モーセ五書）を中心とするタナハ（ヘブライ語聖書）です。解釈書のタルムードも重要です。" },
+      { "q": "「アブラハムの宗教」とは？", "a": "共通の始祖アブラハムを持つユダヤ教・キリスト教・イスラム教の総称です。いずれも一神教です。" }
+    ],
+    "quiz": [
+      { "q": "Judaism は何教？", "A": "多神教", "B": "一神教", "C": "無神論", "D": "汎神論", "correct": "B" },
+      { "q": "ユダヤ教の中心的な聖典は？", "A": "コーラン", "B": "トーラー", "C": "新約聖書", "D": "ヴェーダ", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Jericho",
+    "pron": "ˈdʒerɪkoʊ",
+    "kana": "ヂェリコー",
+    "hinshi": "固有名詞（都市・遺跡）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ヘブライ語 Yeriho（月／香りに関わる語）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "歴史・聖書"],
+    "meaning_main": "エリコ（世界最古級の都市）",
+    "description": "Jericho（ヂェリコー）はヨルダン川西岸にある世界最古級の都市。聖書では「エリコの城壁が崩れ落ちた」物語で知られる古代都市です。",
+    "keywords": ["Jericho 意味", "エリコ 最古 都市", "エリコの城壁", "ヨルダン川西岸"],
+    "meanings": [
+      { "hinshi": "【固有名詞】エリコ", "note": "ヨルダン川西岸の古代都市。約1万年前の遺構が知られる世界最古級の町。" },
+      { "hinshi": "【固有名詞】聖書のエリコ", "note": "ヨシュア記で城壁が崩れ落ちる物語の舞台。" }
+    ],
+    "usages": [
+      { "title": "① 世界最古級の都市", "desc": "考古学的な古代都市を指す。", "example_en": "Jericho is one of the oldest continuously inhabited cities.", "example_ja": "エリコは最も古くから人が住み続けた都市の一つだ。" },
+      { "title": "② 聖書の物語の舞台", "desc": "城壁崩落の物語で登場する。", "example_en": "According to the Bible, the walls of Jericho came tumbling down.", "example_ja": "聖書によれば、エリコの城壁は崩れ落ちた。" }
+    ],
+    "warn": ["ヨルダン川西岸（パレスチナ自治区）に位置。標高が海面下で「世界で最も低い都市」の一つ。"],
+    "etym_note": "ヘブライ語 Yeriho に由来し、「月（yareah）」または「香り（reah）」と結び付ける説があります。約1万年前まで遡る集落跡が発掘されています。",
+    "etym_chain": [
+      { "node": "Yeriho", "sub": "月／香り（諸説）", "era": "古代ヘブライ語" },
+      { "node": "Jericho", "sub": "都市名", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the walls of Jericho", "ja": "エリコの城壁" },
+      { "en": "ancient Jericho", "ja": "古代エリコ" },
+      { "en": "the road to Jericho", "ja": "エリコへの道" },
+      { "en": "oldest city, Jericho", "ja": "最古の都市エリコ" },
+      { "en": "excavations at Jericho", "ja": "エリコの発掘" },
+      { "en": "the battle of Jericho", "ja": "エリコの戦い" }
+    ],
+    "related": [
+      { "en": "Joshua", "ja": "ヨシュア（聖書の指導者）" },
+      { "en": "West Bank", "ja": "ヨルダン川西岸" },
+      { "en": "Palestine", "ja": "パレスチナ" },
+      { "en": "Dead Sea", "ja": "死海" }
+    ],
+    "faq": [
+      { "q": "エリコはどれくらい古い？", "a": "約1万年前まで遡る集落跡が見つかっており、人が住み続けた都市としては世界最古級とされます。" },
+      { "q": "「エリコの城壁」の物語とは？", "a": "旧約聖書ヨシュア記で、イスラエルの民が角笛を吹き鬨の声を上げると城壁が崩れ落ちたとされる話です。" }
+    ],
+    "quiz": [
+      { "q": "Jericho の特徴は？", "A": "世界最古級の都市", "B": "最も新しい都市", "C": "最も高地の都市", "D": "無人の砂漠", "correct": "A" },
+      { "q": "エリコの城壁の物語がある聖書の書は？", "A": "創世記", "B": "ヨシュア記", "C": "詩篇", "D": "黙示録", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Jodhpur",
+    "pron": "ˈdʒoʊdpʊr",
+    "kana": "ヂョードプル",
+    "hinshi": "固有名詞（都市）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "創設者ラーオ・ジョーダ + pur（都市）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "地理・都市"],
+    "meaning_main": "ジョードプル（インドの「青の街」）",
+    "description": "Jodhpur（ヂョードプル）はインド・ラジャスタン州の都市で、旧市街の家々が青く塗られ「ブルー・シティ」と呼ばれます。乗馬ズボン jodhpurs の語源でもあります。",
+    "keywords": ["Jodhpur 意味", "ジョードプル 青", "ブルー・シティ", "jodhpurs 語源"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ジョードプル", "note": "インド・ラジャスタン州第2の都市。メヘラーンガル砦で有名。" },
+      { "hinshi": "【固有名詞】ブルー・シティ", "note": "旧市街の建物が青く塗られていることから。" }
+    ],
+    "usages": [
+      { "title": "① ラジャスタンの城郭都市", "desc": "都市そのものを指す。", "example_en": "Jodhpur is famous for its massive Mehrangarh Fort.", "example_ja": "ジョードプルは巨大なメヘラーンガル砦で有名だ。" },
+      { "title": "② 「青の街」の呼称", "desc": "青い旧市街として知られる。", "example_en": "Jodhpur is known as the Blue City.", "example_ja": "ジョードプルはブルー・シティとして知られる。" }
+    ],
+    "warn": ["乗馬用ズボン jodhpurs（ジョッパーズ）はこの街の名に由来する。ジャイプル（ピンク）と混同しないこと。"],
+    "etym_note": "15世紀に街を築いたラートール朝の王ラーオ・ジョーダ（Rao Jodha）の名と、サンスクリット語 pur（都市）を組み合わせた地名です。乗馬ズボン jodhpurs もこの地名から生まれました。",
+    "etym_chain": [
+      { "node": "Jodha + pur", "sub": "王名+都市", "era": "1459年" },
+      { "node": "Jodhpur", "sub": "都市名", "era": "現代" }
+    ],
+    "phrases": [
+      { "en": "the city of Jodhpur", "ja": "ジョードプルの街" },
+      { "en": "the Blue City", "ja": "青の街" },
+      { "en": "Mehrangarh Fort in Jodhpur", "ja": "ジョードプルのメヘラーンガル砦" },
+      { "en": "a pair of jodhpurs", "ja": "乗馬ズボン一着" },
+      { "en": "Jodhpur, Rajasthan", "ja": "ラジャスタン州ジョードプル" },
+      { "en": "blue houses of Jodhpur", "ja": "ジョードプルの青い家々" }
+    ],
+    "related": [
+      { "en": "Rajasthan", "ja": "ラジャスタン州" },
+      { "en": "Jaipur", "ja": "ジャイプル（ピンク・シティ）" },
+      { "en": "jodhpurs", "ja": "乗馬ズボン" },
+      { "en": "India", "ja": "インド" }
+    ],
+    "faq": [
+      { "q": "Jodhpur はなぜ「青の街」？", "a": "旧市街の家々が青色に塗られているためです。かつて上位カーストの家を示したとも、暑さや虫よけのためとも言われます。" },
+      { "q": "乗馬ズボン jodhpurs と関係ある？", "a": "はい。ゆったりした乗馬用ズボン jodhpurs はジョードプルの名に由来します。" }
+    ],
+    "quiz": [
+      { "q": "Jodhpur の別名は？", "A": "ピンク・シティ", "B": "ブルー・シティ", "C": "ホワイト・シティ", "D": "ゴールデン・シティ", "correct": "B" },
+      { "q": "Jodhpur に由来する衣類は？", "A": "帽子", "B": "乗馬ズボン", "C": "コート", "D": "手袋", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Julius",
+    "pron": "ˈdʒuːliəs",
+    "kana": "ヂューリアス",
+    "hinshi": "固有名詞（人名）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "古代ローマの氏族名 Julius（ユリウス）より",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "歴史・人物"],
+    "meaning_main": "ユリウス（特にユリウス・カエサル）",
+    "description": "Julius（ヂューリアス）は古代ローマの氏族名で、とりわけ将軍・政治家ユリウス・カエサル（Julius Caesar）を指します。7月 July の語源でもあります。",
+    "keywords": ["Julius 意味", "ユリウス・カエサル", "Julius Caesar", "July 語源"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ユリウス・カエサル", "note": "古代ローマの将軍・政治家（前100〜前44）。共和政末期の実力者。" },
+      { "hinshi": "【固有名詞】氏族名・人名 Julius", "note": "ユリウス氏族の名。男性名としても使われる。" }
+    ],
+    "usages": [
+      { "title": "① ユリウス・カエサル", "desc": "歴史上の人物を指す。", "example_en": "Julius Caesar was assassinated in 44 BC.", "example_ja": "ユリウス・カエサルは紀元前44年に暗殺された。" },
+      { "title": "② 暦・名前への影響", "desc": "7月やユリウス暦の名の由来。", "example_en": "The month of July is named after Julius Caesar.", "example_ja": "7月はユリウス・カエサルにちなんで名付けられた。" }
+    ],
+    "warn": ["Caesar（カエサル）は家名で、後に「皇帝」を意味する称号（Kaiser, Tsar の語源）になった。July・ユリウス暦もこの名に由来。"],
+    "etym_note": "古代ローマのユリウス氏族の名。ユリウス・カエサルにちなんで7月（July）が名付けられ、彼が定めた暦は「ユリウス暦（Julian calendar）」と呼ばれます。",
+    "etym_chain": [
+      { "node": "Iulius", "sub": "ローマの氏族名", "era": "古代ローマ" },
+      { "node": "Julius", "sub": "人名", "era": "現代英語" },
+      { "node": "July", "sub": "7月", "era": "派生" }
+    ],
+    "phrases": [
+      { "en": "Julius Caesar", "ja": "ユリウス・カエサル" },
+      { "en": "the Julian calendar", "ja": "ユリウス暦" },
+      { "en": "the death of Julius", "ja": "ユリウスの死" },
+      { "en": "Julius and Augustus", "ja": "ユリウスとアウグストゥス" },
+      { "en": "the play Julius Caesar", "ja": "戯曲『ジュリアス・シーザー』" },
+      { "en": "Et tu, Brute?", "ja": "ブルータス、お前もか" }
+    ],
+    "related": [
+      { "en": "Caesar", "ja": "カエサル（家名・称号）" },
+      { "en": "Augustus", "ja": "アウグストゥス" },
+      { "en": "July", "ja": "7月" },
+      { "en": "Rome", "ja": "ローマ" }
+    ],
+    "faq": [
+      { "q": "7月 July の名の由来は？", "a": "ユリウス・カエサル（Julius Caesar）にちなみます。彼の生まれ月とされ、暦の改革を記念して名付けられました。" },
+      { "q": "Caesar は名前？称号？", "a": "元はカエサルの家名でしたが、後に「皇帝」を意味する称号となり、ドイツ語 Kaiser やロシア語 Tsar の語源になりました。" }
+    ],
+    "quiz": [
+      { "q": "Julius Caesar が暗殺された年は？", "A": "前44年", "B": "前100年", "C": "後14年", "D": "前27年", "correct": "A" },
+      { "q": "Julius にちなむ月は？", "A": "6月", "B": "7月", "C": "8月", "D": "3月", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Jainism",
+    "pron": "ˈdʒaɪnɪzəm",
+    "kana": "ヂャイニズム",
+    "hinshi": "固有名詞（宗教）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "サンスクリット jina（勝者）+ -ism",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "宗教"],
+    "meaning_main": "ジャイナ教（インド発祥の不殺生の宗教）",
+    "description": "Jainism（ヂャイニズム）は古代インドで生まれた宗教。徹底した不殺生（アヒンサー）と禁欲を重んじ、あらゆる生命を傷つけないことを説きます。",
+    "keywords": ["Jainism 意味", "ジャイナ教", "不殺生 アヒンサー", "インド 宗教"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ジャイナ教", "note": "古代インド発祥の宗教。徹底した非暴力・不殺生と禁欲を説く。" },
+      { "hinshi": "【固有名詞】ジナの教え", "note": "「勝者（ジナ）」＝煩悩に打ち勝った聖者の教えに従う。" }
+    ],
+    "usages": [
+      { "title": "① 不殺生を説く宗教", "desc": "宗教そのものを指す。", "example_en": "Jainism teaches strict nonviolence toward all living things.", "example_ja": "ジャイナ教はあらゆる生き物への徹底した非暴力を説く。" },
+      { "title": "② 仏教・ヒンドゥー教との対比", "desc": "インド起源の宗教として並べられる。", "example_en": "Jainism arose in India around the same era as Buddhism.", "example_ja": "ジャイナ教は仏教とほぼ同時代にインドで興った。" }
+    ],
+    "warn": ["開祖的存在はマハーヴィーラ。非暴力（アヒンサー）の思想はガンディーにも影響を与えた。"],
+    "etym_note": "サンスクリット語 jina（「勝者」＝煩悩に打ち勝った者）に -ism が付いた語。ジナと呼ばれる救済者ティールタンカラの教えに従う宗教です。",
+    "etym_chain": [
+      { "node": "jina", "sub": "勝者", "era": "サンスクリット" },
+      { "node": "Jaina + -ism", "sub": "ジナの教え", "era": "派生" },
+      { "node": "Jainism", "sub": "ジャイナ教", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the principles of Jainism", "ja": "ジャイナ教の教義" },
+      { "en": "nonviolence in Jainism", "ja": "ジャイナ教の非暴力" },
+      { "en": "follow Jainism", "ja": "ジャイナ教を信仰する" },
+      { "en": "Jainism and ahimsa", "ja": "ジャイナ教とアヒンサー" },
+      { "en": "Jain temples", "ja": "ジャイナ教寺院" },
+      { "en": "the roots of Jainism", "ja": "ジャイナ教の源流" }
+    ],
+    "related": [
+      { "en": "ahimsa", "ja": "アヒンサー（非暴力）" },
+      { "en": "Mahavira", "ja": "マハーヴィーラ" },
+      { "en": "Buddhism", "ja": "仏教" },
+      { "en": "Hinduism", "ja": "ヒンドゥー教" }
+    ],
+    "faq": [
+      { "q": "ジャイナ教の中心的な教えは？", "a": "アヒンサー（非暴力・不殺生）です。あらゆる生命を傷つけないことを徹底し、禁欲的な生活を重んじます。" },
+      { "q": "仏教と関係ある？", "a": "同じ古代インドでほぼ同時代に興った宗教で、輪廻や解脱の考えを共有しますが、別個の宗教です。" }
+    ],
+    "quiz": [
+      { "q": "Jainism が最も重んじる原則は？", "A": "戦い", "B": "非暴力・不殺生", "C": "偶像崇拝", "D": "富の蓄積", "correct": "B" },
+      { "q": "Jainism が生まれた地域は？", "A": "中国", "B": "インド", "C": "アラビア", "D": "ギリシャ", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Jamshedpur",
+    "pron": "ˈdʒæmʃedpʊr",
+    "kana": "ヂャムシェドプル",
+    "hinshi": "固有名詞（都市）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "創業者ジャムシェトジー・タタ + pur（都市）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "地理・産業"],
+    "meaning_main": "ジャムシェドプル（インドの「鉄鋼の街」）",
+    "description": "Jamshedpur（ヂャムシェドプル）はインド東部ジャールカンド州の計画都市。タタ財閥が築いた製鉄業の中心で「スティール・シティ」と呼ばれます。",
+    "keywords": ["Jamshedpur 意味", "ジャムシェドプル 鉄鋼", "タタ 製鉄", "インド 計画都市"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ジャムシェドプル", "note": "インド・ジャールカンド州の計画都市。タタ・スチールの企業城下町。" },
+      { "hinshi": "【固有名詞】スティール・シティ", "note": "インド有数の鉄鋼業の中心地。" }
+    ],
+    "usages": [
+      { "title": "① タタが築いた工業都市", "desc": "計画都市・産業都市を指す。", "example_en": "Jamshedpur was built around India's first large steel plant.", "example_ja": "ジャムシェドプルはインド初の大製鉄所を中心に築かれた。" },
+      { "title": "② 「鉄鋼の街」としての言及", "desc": "産業の文脈で登場する。", "example_en": "Jamshedpur is often called the Steel City of India.", "example_ja": "ジャムシェドプルはしばしばインドの鉄鋼都市と呼ばれる。" }
+    ],
+    "warn": ["インドの州都ではなく、企業（タタ）が計画的に建設した都市。「Tatanagar（タタナガル）」の別称もある。"],
+    "etym_note": "タタ財閥の創業者ジャムシェトジー・タタ（Jamsetji Tata）にちなみ、サンスクリット語 pur（都市）を付けた地名です。彼の構想を継いで20世紀初頭に建設されました。",
+    "etym_chain": [
+      { "node": "Jamsetji + pur", "sub": "創業者名+都市", "era": "1919年命名" },
+      { "node": "Jamshedpur", "sub": "都市名", "era": "現代" }
+    ],
+    "phrases": [
+      { "en": "the city of Jamshedpur", "ja": "ジャムシェドプル市" },
+      { "en": "the Steel City", "ja": "鉄鋼の街" },
+      { "en": "Tata Steel in Jamshedpur", "ja": "ジャムシェドプルのタタ・スチール" },
+      { "en": "Jamshedpur, Jharkhand", "ja": "ジャールカンド州ジャムシェドプル" },
+      { "en": "also called Tatanagar", "ja": "タタナガルとも呼ばれる" },
+      { "en": "a planned city", "ja": "計画都市" }
+    ],
+    "related": [
+      { "en": "Tata", "ja": "タタ（財閥）" },
+      { "en": "Jharkhand", "ja": "ジャールカンド州" },
+      { "en": "steel", "ja": "鉄鋼" },
+      { "en": "India", "ja": "インド" }
+    ],
+    "faq": [
+      { "q": "ジャムシェドプルはなぜ有名？", "a": "タタ財閥がインド初の大規模製鉄所を中心に築いた計画都市で、「鉄鋼の街（Steel City）」として知られます。" },
+      { "q": "都市名の由来は？", "a": "タタ財閥の創業者ジャムシェトジー・タタの名にちなみます。pur は「都市」を意味するサンスクリット語です。" }
+    ],
+    "quiz": [
+      { "q": "Jamshedpur の別名は？", "A": "ピンク・シティ", "B": "スティール・シティ", "C": "ブルー・シティ", "D": "サン・シティ", "correct": "B" },
+      { "q": "Jamshedpur を築いた財閥は？", "A": "リライアンス", "B": "タタ", "C": "ビルラ", "D": "アダニ", "correct": "B" }
+    ]
+  }
+]
