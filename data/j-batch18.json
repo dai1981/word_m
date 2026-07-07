@@ -1,0 +1,502 @@
+[
+  {
+    "english": "janitor",
+    "pron": "ˈdʒænɪtər",
+    "kana": "ヂャニタァ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 ianitor（門番）より",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "建物管理"],
+    "meaning_main": "用務員／管理人／清掃員",
+    "description": "janitor（ヂャニタァ）は建物の掃除や設備の維持を担当する用務員・管理人を指す名詞。学校やビルで働く人を表す語です。",
+    "keywords": ["janitor 意味", "janitor 使い方", "用務員 英語", "管理人 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】用務員／管理人", "note": "建物の清掃・保守・簡単な修理を担当する人。米国では学校の清掃員を指すことが多い。" },
+      { "hinshi": "【名詞】門番（古義）", "note": "語源のラテン語では「門を守る者」。現代ではまれ。" }
+    ],
+    "usages": [
+      { "title": "① 学校・ビルの用務員", "desc": "掃除や設備管理を担当する人を指す最も一般的な用法。", "example_en": "The janitor unlocked the gym before class.", "example_ja": "用務員さんが授業前に体育館の鍵を開けた。" },
+      { "title": "② custodian との違い", "desc": "custodian はより丁寧・公式な言い換え。janitor はやや口語的。", "example_en": "The building's custodian, or janitor, keeps the halls clean.", "example_ja": "そのビルの管理人（用務員）が廊下を清潔に保っている。" }
+    ],
+    "warn": ["「管理人（マンションの）」は building manager や superintendent が近く、janitor は主に清掃・保守担当を指す。"],
+    "etym_note": "ローマ神話の門の神ヤヌス（Janus）に由来するラテン語 ianitor（門番）から。ヤヌスは入口・始まりの神で、1月 January も同語源です。",
+    "etym_chain": [
+      { "node": "Janus", "sub": "門の神", "era": "ローマ神話" },
+      { "node": "ianitor", "sub": "門番", "era": "ラテン語" },
+      { "node": "janitor", "sub": "用務員", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "school janitor", "ja": "学校の用務員" },
+      { "en": "night janitor", "ja": "夜間清掃員" },
+      { "en": "janitor's closet", "ja": "用務員の掃除用具入れ" },
+      { "en": "head janitor", "ja": "主任用務員" },
+      { "en": "janitorial staff", "ja": "清掃スタッフ" },
+      { "en": "work as a janitor", "ja": "用務員として働く" }
+    ],
+    "related": [
+      { "en": "custodian", "ja": "管理人（丁寧語）" },
+      { "en": "caretaker", "ja": "（英）建物管理人" },
+      { "en": "cleaner", "ja": "清掃員" },
+      { "en": "janitorial", "ja": "清掃・保守の（形容詞）" }
+    ],
+    "faq": [
+      { "q": "janitor と custodian はどう違う？", "a": "意味はほぼ同じですが、custodian の方が丁寧でフォーマルな言い方です。米国の学校求人などでは custodian が好まれます。" },
+      { "q": "janitor は複数形はどうなる？", "a": "規則変化で janitors です。" }
+    ],
+    "quiz": [
+      { "q": "janitor の主な意味は？", "A": "教師", "B": "用務員・管理人", "C": "門", "D": "生徒", "correct": "B" },
+      { "q": "janitor と同語源の月の名前は？", "A": "March", "B": "June", "C": "January", "D": "August", "correct": "C" }
+    ]
+  },
+  {
+    "english": "jackhammer",
+    "pron": "ˈdʒækˌhæmər",
+    "kana": "ヂャックハマァ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "jack（機械装置）+ hammer（ハンマー）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "工具"],
+    "meaning_main": "削岩機／ジャックハンマー／激しく打つ",
+    "description": "jackhammer（ヂャックハマァ）は圧縮空気で先端を上下させて路面や岩を砕く削岩機。動詞で「激しく叩く」意味にもなります。",
+    "keywords": ["jackhammer 意味", "jackhammer 使い方", "削岩機 英語", "工事 工具 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】削岩機／空気ハンマー", "note": "圧縮空気で先端のノミを高速で上下させ、コンクリートや岩を砕く工具。" },
+      { "hinshi": "【動詞】激しく打つ／連打する", "note": "削岩機のように反復して強く叩く様子。比喩でも使う。" }
+    ],
+    "usages": [
+      { "title": "① 工事現場の削岩機", "desc": "道路工事などで路面を砕く工具を指す基本用法。", "example_en": "Workers used a jackhammer to break up the old sidewalk.", "example_ja": "作業員が削岩機で古い歩道を砕いた。" },
+      { "title": "② 比喩・動詞用法", "desc": "心臓の激しい鼓動などを表す比喩でも使われる。", "example_en": "My heart was jackhammering as I stepped on stage.", "example_ja": "舞台に立つと心臓が激しく打っていた。" }
+    ],
+    "warn": ["非常に大きな騒音を伴う工具なので、比喩で「うるさい・激しい」ニュアンスを帯びることが多い。"],
+    "etym_note": "jack は「（力仕事をする）機械装置」を表す語（car jack のジャッキと同系）、hammer は「ハンマー」。合わせて「機械式ハンマー」の意味になりました。",
+    "etym_chain": [
+      { "node": "jack + hammer", "sub": "機械+槌", "era": "英語の複合" },
+      { "node": "jackhammer", "sub": "削岩機", "era": "20世紀〜" }
+    ],
+    "phrases": [
+      { "en": "operate a jackhammer", "ja": "削岩機を操作する" },
+      { "en": "pneumatic jackhammer", "ja": "空気圧式削岩機" },
+      { "en": "jackhammer the concrete", "ja": "コンクリートを削岩機で砕く" },
+      { "en": "the roar of a jackhammer", "ja": "削岩機の轟音" },
+      { "en": "handheld jackhammer", "ja": "手持ち式削岩機" },
+      { "en": "heart jackhammering", "ja": "心臓が激しく打つ" }
+    ],
+    "related": [
+      { "en": "drill", "ja": "ドリル／掘削機" },
+      { "en": "pneumatic", "ja": "空気圧式の" },
+      { "en": "hammer", "ja": "ハンマー／打つ" },
+      { "en": "pickaxe", "ja": "つるはし" }
+    ],
+    "faq": [
+      { "q": "jackhammer はイギリスでも通じる？", "a": "通じますが、英国では pneumatic drill という言い方も一般的です。" },
+      { "q": "動詞として使える？", "a": "はい。My heart jackhammered.（心臓が激しく打った）のように比喩的に使えます。" }
+    ],
+    "quiz": [
+      { "q": "jackhammer の意味は？", "A": "削岩機", "B": "金づち収集家", "C": "ジャッキ", "D": "大工", "correct": "A" },
+      { "q": "jackhammer の英国での別名は？", "A": "pneumatic drill", "B": "electric saw", "C": "power jack", "D": "steam hammer", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jailer",
+    "pron": "ˈdʒeɪlər",
+    "kana": "ヂェイラァ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "jail（牢獄）+ -er（人）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "刑務"],
+    "meaning_main": "看守／牢番／刑務官",
+    "description": "jailer（ヂェイラァ）は牢獄や拘置所で囚人を監視・管理する看守・牢番を指す名詞。英国綴りでは gaoler とも書きます。",
+    "keywords": ["jailer 意味", "jailer 使い方", "看守 英語", "牢番 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】看守／牢番", "note": "刑務所・拘置所で囚人を見張り管理する人。" },
+      { "hinshi": "【名詞】拘束する者（比喩）", "note": "人の自由を奪い閉じ込める者を比喩的に指すことも。" }
+    ],
+    "usages": [
+      { "title": "① 牢獄の看守", "desc": "囚人を監視する人を指す基本用法。", "example_en": "The jailer locked the cell and walked away.", "example_ja": "看守は独房に鍵をかけて立ち去った。" },
+      { "title": "② 比喩的な「自由を奪う者」", "desc": "束縛する存在を比喩で表す。", "example_en": "Fear became her jailer.", "example_ja": "恐怖が彼女を閉じ込める牢番となった。" }
+    ],
+    "warn": ["英国綴りは gaoler。発音は同じ「ジェイラー」。現代では guard や prison officer の方が一般的。"],
+    "etym_note": "jail（古フランス語 gaiole「檻」経由、ラテン語 cavea「檻・空洞」由来）に「人」を表す -er が付いた語。英国綴り gaol/gaoler は同じ語の別系統の綴りです。",
+    "etym_chain": [
+      { "node": "cavea", "sub": "檻・空洞", "era": "ラテン語" },
+      { "node": "gaiole/jaiole", "sub": "檻", "era": "古フランス語" },
+      { "node": "jailer", "sub": "看守", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the prison jailer", "ja": "刑務所の看守" },
+      { "en": "bribe the jailer", "ja": "看守を買収する" },
+      { "en": "kindly jailer", "ja": "情け深い牢番" },
+      { "en": "escape the jailer", "ja": "看守の目を逃れる" },
+      { "en": "jailer's keys", "ja": "看守の鍵束" },
+      { "en": "act as jailer", "ja": "牢番役を務める" }
+    ],
+    "related": [
+      { "en": "warden", "ja": "刑務所長" },
+      { "en": "guard", "ja": "警備員／看守" },
+      { "en": "prisoner", "ja": "囚人" },
+      { "en": "gaoler", "ja": "看守（英綴り）" }
+    ],
+    "faq": [
+      { "q": "jailer と warden の違いは？", "a": "warden は刑務所全体を統括する所長、jailer は囚人を直接見張る看守です。" },
+      { "q": "gaoler と jailer は同じ？", "a": "はい。gaoler は英国式の綴りで、意味・発音とも jailer と同じです。" }
+    ],
+    "quiz": [
+      { "q": "jailer の意味は？", "A": "囚人", "B": "看守・牢番", "C": "弁護士", "D": "裁判官", "correct": "B" },
+      { "q": "jailer の英国式の綴りは？", "A": "jaler", "B": "jailor only", "C": "gaoler", "D": "jayler", "correct": "C" }
+    ]
+  },
+  {
+    "english": "jailbreak",
+    "pron": "ˈdʒeɪlˌbreɪk",
+    "kana": "ヂェイルブレイク",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "jail（牢獄）+ break（破る）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "脱獄"],
+    "meaning_main": "脱獄／（機器の）制限解除",
+    "description": "jailbreak（ヂェイルブレイク）は牢獄からの脱走「脱獄」を指す名詞・動詞。IT分野ではスマホなどの制限を解除することも意味します。",
+    "keywords": ["jailbreak 意味", "jailbreak 使い方", "脱獄 英語", "制限解除 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】脱獄", "note": "囚人が刑務所から逃げ出すこと。" },
+      { "hinshi": "【動詞】脱獄する", "note": "牢獄から逃走する。" },
+      { "hinshi": "【名詞・動詞】（IT）ジェイルブレイク", "note": "スマートフォンなどのメーカー制限を解除する行為。" }
+    ],
+    "usages": [
+      { "title": "① 刑務所からの脱獄", "desc": "本来の「脱走」の意味。", "example_en": "The dramatic jailbreak made headlines.", "example_ja": "劇的な脱獄が新聞の見出しを飾った。" },
+      { "title": "② IT用語の制限解除", "desc": "端末を改造してメーカー制限を外すこと。", "example_en": "He jailbroke his phone to install other apps.", "example_ja": "彼は別のアプリを入れるために端末をジェイルブレイクした。" }
+    ],
+    "warn": ["動詞の過去形は jailbroke、過去分詞は jailbroken（break の変化に従う）。"],
+    "etym_note": "jail（牢獄）と break（破る・突破する）の複合語。「牢を破る」から「脱獄」となり、20世紀後半にIT分野で「制限を破る」の比喩用法が生まれました。",
+    "etym_chain": [
+      { "node": "jail + break", "sub": "牢+破る", "era": "英語の複合" },
+      { "node": "jailbreak", "sub": "脱獄", "era": "19世紀〜" },
+      { "node": "jailbreak（IT）", "sub": "制限解除", "era": "21世紀" }
+    ],
+    "phrases": [
+      { "en": "attempt a jailbreak", "ja": "脱獄を試みる" },
+      { "en": "mass jailbreak", "ja": "大量脱獄" },
+      { "en": "jailbreak a phone", "ja": "端末の制限を解除する" },
+      { "en": "foil a jailbreak", "ja": "脱獄を阻止する" },
+      { "en": "daring jailbreak", "ja": "大胆な脱獄" },
+      { "en": "jailbreak attempt", "ja": "脱獄の試み" }
+    ],
+    "related": [
+      { "en": "escape", "ja": "逃げる／脱出" },
+      { "en": "breakout", "ja": "脱走" },
+      { "en": "fugitive", "ja": "逃亡者" },
+      { "en": "unlock", "ja": "解除する" }
+    ],
+    "faq": [
+      { "q": "jailbreak の過去形は？", "a": "break に従い jailbroke（過去）、jailbroken（過去分詞）です。" },
+      { "q": "IT用語としての jailbreak は合法？", "a": "国や機器により扱いが異なります。保証が無効になる場合が多いので注意が必要です。" }
+    ],
+    "quiz": [
+      { "q": "jailbreak の本来の意味は？", "A": "入獄", "B": "脱獄", "C": "面会", "D": "釈放", "correct": "B" },
+      { "q": "jailbreak の過去形は？", "A": "jailbreaked", "B": "jailbroke", "C": "jailbreaken", "D": "jailbrake", "correct": "B" }
+    ]
+  },
+  {
+    "english": "jailbird",
+    "pron": "ˈdʒeɪlˌbɜːrd",
+    "kana": "ヂェイルバァド",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "jail（牢獄）+ bird（鳥、俗語で人）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "口語・俗語"],
+    "meaning_main": "常習犯／前科者／服役囚",
+    "description": "jailbird（ヂェイルバァド）は何度も服役した囚人や前科者を指す口語・俗語。「牢の鳥」という比喩から生まれた言葉です。",
+    "keywords": ["jailbird 意味", "jailbird 使い方", "前科者 英語", "常習犯 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】常習犯／前科者", "note": "たびたび投獄される人を指す軽い侮蔑・冗談交じりの語。" },
+      { "hinshi": "【名詞】服役中の囚人", "note": "現在収監されている人を指すことも。" }
+    ],
+    "usages": [
+      { "title": "① 前科者・常習犯", "desc": "繰り返し罪を犯す人を口語で表す。", "example_en": "The old jailbird had spent half his life behind bars.", "example_ja": "その常習犯は人生の半分を刑務所で過ごした。" },
+      { "title": "② 冗談交じりの用法", "desc": "軽口として使われることもある。", "example_en": "Careful, or you'll end up a jailbird!", "example_ja": "気をつけないと前科者になるぞ！" }
+    ],
+    "warn": ["侮蔑的・くだけた語なので、公式な文書では convict や ex-convict を使う。"],
+    "etym_note": "jail（牢獄）と bird（鳥）の複合。籠に入れられた鳥のイメージから「牢に閉じ込められる常連」を表す比喩が18世紀頃に生まれました。bird は英俗語で「人・やつ」を指すこともあります。",
+    "etym_chain": [
+      { "node": "jail + bird", "sub": "牢+鳥", "era": "英語の複合" },
+      { "node": "jailbird", "sub": "常習犯", "era": "18世紀〜" }
+    ],
+    "phrases": [
+      { "en": "old jailbird", "ja": "常習の前科者" },
+      { "en": "become a jailbird", "ja": "前科者になる" },
+      { "en": "notorious jailbird", "ja": "悪名高い常習犯" },
+      { "en": "reformed jailbird", "ja": "更生した元囚人" },
+      { "en": "a pack of jailbirds", "ja": "囚人の一団" },
+      { "en": "life of a jailbird", "ja": "常習犯の人生" }
+    ],
+    "related": [
+      { "en": "convict", "ja": "囚人／服役者" },
+      { "en": "ex-convict", "ja": "前科者" },
+      { "en": "inmate", "ja": "収容者" },
+      { "en": "offender", "ja": "犯罪者" }
+    ],
+    "faq": [
+      { "q": "jailbird は失礼な言葉？", "a": "くだけた俗語で軽い侮蔑を含みます。冗談で使うこともありますが、公式には convict を使いましょう。" },
+      { "q": "なぜ bird（鳥）なの？", "a": "籠の鳥のように閉じ込められるイメージから。bird は俗語で「人・やつ」を指すこともあります。" }
+    ],
+    "quiz": [
+      { "q": "jailbird の意味は？", "A": "刑務所の看守", "B": "常習犯・前科者", "C": "警察犬", "D": "脱獄の道具", "correct": "B" },
+      { "q": "jailbird のより公式な言い換えは？", "A": "convict", "B": "warden", "C": "lawyer", "D": "witness", "correct": "A" }
+    ]
+  },
+  {
+    "english": "judgment",
+    "pron": "ˈdʒʌdʒmənt",
+    "kana": "ヂャッヂメント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "judge（裁く）+ -ment（名詞化）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "判断"],
+    "meaning_main": "判断（力）／判決／意見",
+    "description": "judgment（ヂャッヂメント）は物事を見極める「判断（力）」や裁判の「判決」を指す名詞。英国綴りでは judgement とも書きます。",
+    "keywords": ["judgment 意味", "judgement 綴り", "判断力 英語", "判決 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】判断／判断力", "note": "状況を見極めて決める能力・行為。good judgment（優れた判断力）。" },
+      { "hinshi": "【名詞】判決", "note": "裁判所が下す法的決定。" },
+      { "hinshi": "【名詞】意見／評価", "note": "個人の見解・評価。" }
+    ],
+    "usages": [
+      { "title": "① 判断力", "desc": "物事を的確に見極める能力。", "example_en": "She showed good judgment under pressure.", "example_ja": "彼女は重圧の下でも優れた判断力を見せた。" },
+      { "title": "② 裁判の判決", "desc": "法廷での決定を指す。", "example_en": "The court delivered its judgment yesterday.", "example_ja": "裁判所は昨日、判決を下した。" }
+    ],
+    "warn": ["米国綴りは judgment（e無し）、英国では judgement も広く使われる。法律文脈では英でも judgment が一般的。"],
+    "etym_note": "動詞 judge（ラテン語 iudicare「裁く」由来）に名詞化の -ment が付いた語。米国では中間の e を落とした judgment、英国では judgement の綴りが好まれます。",
+    "etym_chain": [
+      { "node": "iudicare", "sub": "裁く", "era": "ラテン語" },
+      { "node": "juger/judge", "sub": "裁く", "era": "古フランス語・中英語" },
+      { "node": "judgment", "sub": "判断・判決", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "good judgment", "ja": "優れた判断力" },
+      { "en": "pass judgment on", "ja": "〜を批評する・裁く" },
+      { "en": "against my better judgment", "ja": "本心では反対だが" },
+      { "en": "sound judgment", "ja": "健全な判断" },
+      { "en": "final judgment", "ja": "最終判決" },
+      { "en": "error of judgment", "ja": "判断の誤り" }
+    ],
+    "related": [
+      { "en": "judge", "ja": "裁く／裁判官" },
+      { "en": "verdict", "ja": "評決" },
+      { "en": "decision", "ja": "決定" },
+      { "en": "discernment", "ja": "識別力" }
+    ],
+    "faq": [
+      { "q": "judgment と judgement はどちらが正しい？", "a": "どちらも正しく、judgment は米国式、judgement は英国式です。法律文脈では英国でも judgment が使われます。" },
+      { "q": "against my better judgment とは？", "a": "「本当はやめた方がいいと分かっていながら」という決まり文句です。" }
+    ],
+    "quiz": [
+      { "q": "judgment の意味でないものは？", "A": "判断力", "B": "判決", "C": "評価", "D": "牢獄", "correct": "D" },
+      { "q": "judgment の英国式の別綴りは？", "A": "judgemant", "B": "judgement", "C": "judgmant", "D": "judjment", "correct": "B" }
+    ]
+  },
+  {
+    "english": "judicial",
+    "pron": "dʒuˈdɪʃəl",
+    "kana": "ヂュディシャル",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 iudicialis（裁判の）より",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "法律"],
+    "meaning_main": "司法の／裁判の／裁判官の",
+    "description": "judicial（ヂュディシャル）は「司法の・裁判の」を意味する形容詞。judicial system（司法制度）のように法律・裁判に関わる語で使われます。",
+    "keywords": ["judicial 意味", "judicial 使い方", "司法の 英語", "裁判の 英語"],
+    "meanings": [
+      { "hinshi": "【形容詞】司法の／裁判の", "note": "裁判所・司法制度に関する。judicial branch（司法府）。" },
+      { "hinshi": "【形容詞】裁判官らしい／公平な", "note": "冷静で公正な判断を伴う様子。" }
+    ],
+    "usages": [
+      { "title": "① 司法・裁判に関する", "desc": "法律・裁判所に関わることを表す。", "example_en": "The judicial system protects citizens' rights.", "example_ja": "司法制度は市民の権利を守る。" },
+      { "title": "② 公平・慎重な判断", "desc": "裁判官のように冷静な態度を表す。", "example_en": "She weighed the options with judicial care.", "example_ja": "彼女は裁判官のように慎重に選択肢を検討した。" }
+    ],
+    "warn": ["judicious（思慮深い）と混同しやすい。judicial は「司法の」、judicious は「賢明な・分別ある」。"],
+    "etym_note": "ラテン語 iudicialis（裁判の）に由来し、iudex（裁判官）＝ ius（法）＋ dicere（言う）が語根です。同語源に judge, judgment, judiciary があります。",
+    "etym_chain": [
+      { "node": "ius + dicere", "sub": "法+言う", "era": "ラテン語" },
+      { "node": "iudicialis", "sub": "裁判の", "era": "ラテン語" },
+      { "node": "judicial", "sub": "司法の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "judicial system", "ja": "司法制度" },
+      { "en": "judicial branch", "ja": "司法府" },
+      { "en": "judicial review", "ja": "司法審査" },
+      { "en": "judicial power", "ja": "司法権" },
+      { "en": "judicial decision", "ja": "司法判断" },
+      { "en": "judicial proceedings", "ja": "裁判手続き" }
+    ],
+    "related": [
+      { "en": "judiciary", "ja": "司法機関" },
+      { "en": "judicious", "ja": "思慮深い" },
+      { "en": "legal", "ja": "法律の" },
+      { "en": "court", "ja": "裁判所" }
+    ],
+    "faq": [
+      { "q": "judicial と judicious の違いは？", "a": "judicial は「司法の・裁判の」、judicious は「賢明な・分別のある」です。綴りが似ているので注意しましょう。" },
+      { "q": "judicial branch とは？", "a": "三権分立における「司法府（裁判所）」を指します。立法府（legislative）・行政府（executive）と並ぶ機関です。" }
+    ],
+    "quiz": [
+      { "q": "judicial の意味は？", "A": "司法の・裁判の", "B": "賢明な", "C": "工業の", "D": "医療の", "correct": "A" },
+      { "q": "judicial と混同しやすい「思慮深い」の語は？", "A": "judiciary", "B": "judicious", "C": "judgment", "D": "juridical", "correct": "B" }
+    ]
+  },
+  {
+    "english": "judiciary",
+    "pron": "dʒuˈdɪʃieri",
+    "kana": "ヂュディシエリィ",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 iudiciarius（裁判の）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "法律・政治"],
+    "meaning_main": "司法機関／裁判所制度／司法の",
+    "description": "judiciary（ヂュディシエリィ）は国の司法を担う「司法機関・裁判所全体」を指す名詞。三権のうち司法府を表す政治・法律用語です。",
+    "keywords": ["judiciary 意味", "judiciary 使い方", "司法機関 英語", "三権分立 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】司法機関／司法府", "note": "裁判所と裁判官の総体。the judiciary は「司法部門」を指す。" },
+      { "hinshi": "【名詞】裁判官団", "note": "裁判官の集合体。" },
+      { "hinshi": "【形容詞】司法の", "note": "judicial に近い形容詞用法もある。" }
+    ],
+    "usages": [
+      { "title": "① 三権のうちの司法府", "desc": "立法・行政と並ぶ司法部門を指す。", "example_en": "An independent judiciary is vital to democracy.", "example_ja": "独立した司法機関は民主主義に不可欠だ。" },
+      { "title": "② 裁判官の総体", "desc": "国の裁判官たち全体を指す。", "example_en": "The judiciary interprets the laws passed by parliament.", "example_ja": "司法機関は議会が可決した法律を解釈する。" }
+    ],
+    "warn": ["the をつけて the judiciary（司法府）の形でよく使う。judicial（形容詞）と役割が異なる。"],
+    "etym_note": "ラテン語 iudiciarius（裁判に関する）に由来。iudicium（裁判）＝ ius（法）＋ dicere（言う）が根で、judge・judicial と同族です。",
+    "etym_chain": [
+      { "node": "iudicium", "sub": "裁判", "era": "ラテン語" },
+      { "node": "iudiciarius", "sub": "裁判の", "era": "ラテン語" },
+      { "node": "judiciary", "sub": "司法機関", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the judiciary", "ja": "司法府" },
+      { "en": "independent judiciary", "ja": "独立した司法機関" },
+      { "en": "federal judiciary", "ja": "連邦司法制度" },
+      { "en": "reform the judiciary", "ja": "司法制度を改革する" },
+      { "en": "members of the judiciary", "ja": "司法関係者" },
+      { "en": "judiciary committee", "ja": "司法委員会" }
+    ],
+    "related": [
+      { "en": "judicial", "ja": "司法の（形容詞）" },
+      { "en": "legislature", "ja": "立法府" },
+      { "en": "executive", "ja": "行政府" },
+      { "en": "court", "ja": "裁判所" }
+    ],
+    "faq": [
+      { "q": "judiciary と judicial の違いは？", "a": "judiciary は名詞で「司法機関そのもの」、judicial は形容詞で「司法の・裁判の」です。" },
+      { "q": "三権分立を英語で言うと？", "a": "separation of powers です。judiciary（司法）、legislature（立法）、executive（行政）の三つに分かれます。" }
+    ],
+    "quiz": [
+      { "q": "judiciary の意味は？", "A": "立法府", "B": "司法機関", "C": "行政府", "D": "軍隊", "correct": "B" },
+      { "q": "judiciary と並ぶ三権のうち「立法府」は？", "A": "executive", "B": "legislature", "C": "judicial", "D": "cabinet", "correct": "B" }
+    ]
+  },
+  {
+    "english": "junkyard",
+    "pron": "ˈdʒʌŋkˌjɑːrd",
+    "kana": "ヂャンクヤァド",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "junk（くず）+ yard（置き場）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "廃品"],
+    "meaning_main": "廃品置き場／がらくた置き場／解体屋",
+    "description": "junkyard（ヂャンクヤァド）は廃車や金属くずなどを集めておく廃品置き場・解体屋を指す名詞。scrapyard とほぼ同義です。",
+    "keywords": ["junkyard 意味", "junkyard 使い方", "廃品置き場 英語", "解体屋 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】廃品置き場／解体屋", "note": "古い車や金属くずを集めて解体・再利用する場所。" },
+      { "hinshi": "【名詞】がらくた置き場", "note": "不要な物が乱雑に置かれた場所の比喩にも。" }
+    ],
+    "usages": [
+      { "title": "① 廃車・金属くずの置き場", "desc": "解体屋・スクラップ置き場を指す基本用法。", "example_en": "They found spare parts at the junkyard.", "example_ja": "彼らは廃品置き場で交換部品を見つけた。" },
+      { "title": "② 散らかった場所の比喩", "desc": "乱雑な場所を junkyard に例える。", "example_en": "His garage looked like a junkyard.", "example_ja": "彼のガレージはがらくた置き場のようだった。" }
+    ],
+    "warn": ["英国では scrapyard の方が一般的。junkyard dog は「番犬・気性の荒い人」の慣用句。"],
+    "etym_note": "junk（がらくた・くず。元は「古い綱」を指す航海用語だった）と yard（囲われた敷地・置き場）の複合語です。",
+    "etym_chain": [
+      { "node": "junk + yard", "sub": "くず+置き場", "era": "英語の複合" },
+      { "node": "junkyard", "sub": "廃品置き場", "era": "19世紀〜" }
+    ],
+    "phrases": [
+      { "en": "car junkyard", "ja": "廃車置き場" },
+      { "en": "junkyard dog", "ja": "番犬／気性の荒い人" },
+      { "en": "scour the junkyard", "ja": "廃品置き場をあさる" },
+      { "en": "end up in a junkyard", "ja": "廃品置き場行きになる" },
+      { "en": "junkyard parts", "ja": "廃品置き場の部品" },
+      { "en": "old junkyard", "ja": "古い解体屋" }
+    ],
+    "related": [
+      { "en": "scrapyard", "ja": "スクラップ置き場（英）" },
+      { "en": "junk", "ja": "がらくた" },
+      { "en": "scrap", "ja": "くず金属" },
+      { "en": "salvage", "ja": "回収・再利用する" }
+    ],
+    "faq": [
+      { "q": "junkyard と scrapyard の違いは？", "a": "ほぼ同義です。junkyard は米国、scrapyard は英国でよく使われます。" },
+      { "q": "junkyard dog とは？", "a": "廃品置き場を守る番犬のこと。転じて「気性が荒く手強い人」を指す慣用句です。" }
+    ],
+    "quiz": [
+      { "q": "junkyard の意味は？", "A": "遊園地", "B": "廃品置き場", "C": "市場", "D": "農場", "correct": "B" },
+      { "q": "junkyard の英国での言い換えは？", "A": "backyard", "B": "scrapyard", "C": "courtyard", "D": "shipyard", "correct": "B" }
+    ]
+  },
+  {
+    "english": "justness",
+    "pron": "ˈdʒʌstnəs",
+    "kana": "ヂャストネス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "just（正しい）+ -ness（性質）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "抽象・格式"],
+    "meaning_main": "正当性／公正さ／妥当さ",
+    "description": "justness（ヂャストネス）は主張や行いの「正当さ・妥当さ・公正さ」を表すやや硬い名詞。justice（正義）とは異なり「正しさの度合い」を指します。",
+    "keywords": ["justness 意味", "justness 使い方", "正当性 英語", "妥当さ 英語"],
+    "meanings": [
+      { "hinshi": "【名詞】正当性／妥当さ", "note": "主張・要求・行動が理にかなって正しいこと。" },
+      { "hinshi": "【名詞】公正さ／的確さ", "note": "判断や表現が的を射ていること。" }
+    ],
+    "usages": [
+      { "title": "① 主張の正当性", "desc": "訴えや要求が正しいことを表す。", "example_en": "No one doubted the justness of their cause.", "example_ja": "彼らの主張の正当性を疑う者はいなかった。" },
+      { "title": "② 表現・判断の的確さ", "desc": "描写や評価が的を射ている様子。", "example_en": "The justness of her remark silenced the room.", "example_ja": "彼女の指摘の的確さに部屋は静まり返った。" }
+    ],
+    "warn": ["justice（正義・司法）とは別語。justness は「正しさ・妥当さの性質」を指し、やや文語的。"],
+    "etym_note": "形容詞 just（ラテン語 iustus「正しい」由来）に性質を表す接尾辞 -ness が付いた語。justice が制度・概念としての「正義」を指すのに対し、justness は「正しさの度合い」という抽象名詞です。",
+    "etym_chain": [
+      { "node": "iustus", "sub": "正しい", "era": "ラテン語" },
+      { "node": "just", "sub": "正しい", "era": "中英語" },
+      { "node": "justness", "sub": "正当性", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the justness of the cause", "ja": "その大義の正当性" },
+      { "en": "justness of a claim", "ja": "主張の妥当さ" },
+      { "en": "prove the justness", "ja": "正当性を証明する" },
+      { "en": "justness of the decision", "ja": "決定の妥当さ" },
+      { "en": "with justness", "ja": "的確に・公正に" },
+      { "en": "doubt the justness", "ja": "正当性を疑う" }
+    ],
+    "related": [
+      { "en": "justice", "ja": "正義／司法" },
+      { "en": "fairness", "ja": "公平さ" },
+      { "en": "validity", "ja": "妥当性" },
+      { "en": "rightness", "ja": "正しさ" }
+    ],
+    "faq": [
+      { "q": "justness と justice の違いは？", "a": "justice は「正義・司法（制度や概念）」、justness は「正しさ・妥当さという性質・度合い」を指します。justness の方が抽象度が高く文語的です。" },
+      { "q": "justness は日常会話で使う？", "a": "やや硬い語で、演説や論説などフォーマルな場面で使われます。日常では fairness などが一般的です。" }
+    ],
+    "quiz": [
+      { "q": "justness の意味は？", "A": "正当性・妥当さ", "B": "調整", "C": "冗談", "D": "司法官", "correct": "A" },
+      { "q": "justness と混同しやすい「正義・司法」の語は？", "A": "justify", "B": "justice", "C": "justly", "D": "justage", "correct": "B" }
+    ]
+  }
+]
