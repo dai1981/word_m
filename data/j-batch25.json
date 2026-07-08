@@ -1,0 +1,494 @@
+[
+  {
+    "english": "Jane",
+    "pron": "dʒeɪn",
+    "kana": "ヂェイン",
+    "hinshi": "固有名詞（人名）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "John の女性形（古フランス語 Jehanne）より",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A1", "人名・文学"],
+    "meaning_main": "ジェーン（代表的な女性名。ジェーン・オースティンなど）",
+    "description": "Jane（ヂェイン）は英語圏の代表的な女性名。作家ジェーン・オースティンや小説『ジェーン・エア』、霊長類学者ジェーン・グドールなどで知られます。",
+    "keywords": ["Jane 意味", "ジェーン・オースティン", "ジェーン・エア", "女性名 Jane"],
+    "meanings": [
+      { "hinshi": "【固有名詞】女性名ジェーン", "note": "John の女性形にあたる伝統的な女性名。" },
+      { "hinshi": "【固有名詞】Jane Doe", "note": "身元不明・匿名の女性を指す仮名。" }
+    ],
+    "usages": [
+      { "title": "① 代表的な女性名", "desc": "人名として使う。", "example_en": "Jane Austen wrote Pride and Prejudice.", "example_ja": "ジェーン・オースティンは『高慢と偏見』を書いた。" },
+      { "title": "② 匿名の女性 Jane Doe", "desc": "身元不明の女性を指す。", "example_en": "The victim was listed as Jane Doe.", "example_ja": "被害者はジェーン・ドウ（身元不明女性）として記録された。" }
+    ],
+    "warn": ["男性名 John の女性形。同系の女性名に Joan, Joanna, Jean, Jeanne がある。plain Jane は「地味な女性」を指す口語。"],
+    "etym_note": "男性名 John の女性形で、古フランス語 Jehanne（ラテン語 Johanna 由来）から来ています。Joan や Jean も同系統の女性名です。",
+    "etym_chain": [
+      { "node": "Yohanan", "sub": "神は慈悲深い", "era": "ヘブライ語" },
+      { "node": "Johanna/Jehanne", "sub": "女性形", "era": "ラテン語・古フランス語" },
+      { "node": "Jane", "sub": "英語名", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Jane Austen", "ja": "ジェーン・オースティン" },
+      { "en": "Jane Eyre", "ja": "ジェーン・エア（小説）" },
+      { "en": "Jane Goodall", "ja": "ジェーン・グドール" },
+      { "en": "Jane Doe", "ja": "身元不明の女性" },
+      { "en": "plain Jane", "ja": "地味な女性" },
+      { "en": "named Jane", "ja": "ジェーンという名の" }
+    ],
+    "related": [
+      { "en": "John", "ja": "ジョン（男性形）" },
+      { "en": "Joan", "ja": "ジョーン（同系）" },
+      { "en": "Jean", "ja": "ジーン（同系）" },
+      { "en": "Janet", "ja": "ジャネット（派生）" }
+    ],
+    "faq": [
+      { "q": "Jane はどんな名前？", "a": "男性名 John の女性形にあたる伝統的な女性名です。Joan や Jean と同系統です。" },
+      { "q": "plain Jane とは？", "a": "「地味で目立たない女性」を指す口語表現です。Jane がありふれた名前であることに由来します。" }
+    ],
+    "quiz": [
+      { "q": "『高慢と偏見』を書いた Jane は？", "A": "ジェーン・エア", "B": "ジェーン・オースティン", "C": "ジェーン・グドール", "D": "ジェーン・ドウ", "correct": "B" },
+      { "q": "Jane は男性名の何の女性形？", "A": "James", "B": "John", "C": "Jacob", "D": "Joseph", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Jules",
+    "pron": "dʒuːlz",
+    "kana": "ヂュールズ",
+    "hinshi": "固有名詞（人名）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ラテン語 Julius のフランス語形",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "文学・人物"],
+    "meaning_main": "ジュール（特にジュール・ヴェルヌ；SFの父）",
+    "description": "Jules（ヂュールズ）はフランス語の男性名で、特に『海底二万里』『八十日間世界一周』の作者ジュール・ヴェルヌを指すことが多い固有名詞です。",
+    "keywords": ["Jules 意味", "ジュール・ヴェルヌ", "SF の父", "海底二万里 作者"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ジュール・ヴェルヌ", "note": "フランスの作家（1828〜1905）。近代SFの父と呼ばれる。" },
+      { "hinshi": "【固有名詞】男性名ジュール", "note": "フランス語圏の男性名。ラテン語 Julius に対応。" }
+    ],
+    "usages": [
+      { "title": "① SFの父ヴェルヌ", "desc": "作家その人を指す。", "example_en": "Jules Verne imagined submarines and space travel.", "example_ja": "ジュール・ヴェルヌは潜水艦や宇宙旅行を想像した。" },
+      { "title": "② フランス語の男性名", "desc": "人名として使う。", "example_en": "Jules is a common French given name.", "example_ja": "ジュールはよくあるフランスの男性名だ。" }
+    ],
+    "warn": ["英語の Julius に対応するフランス語形。発音は「ヂュールズ」。"],
+    "etym_note": "ラテン語の氏族名 Julius（ユリウス）のフランス語形が Jules です。ジュール・ヴェルヌの名で世界的に知られます（物理の単位 joule は別人ジュールに由来）。",
+    "etym_chain": [
+      { "node": "Iulius", "sub": "ローマの氏族名", "era": "古代ローマ" },
+      { "node": "Jules", "sub": "フランス語形", "era": "現代フランス語" }
+    ],
+    "phrases": [
+      { "en": "Jules Verne", "ja": "ジュール・ヴェルヌ" },
+      { "en": "novels by Jules Verne", "ja": "ジュール・ヴェルヌの小説" },
+      { "en": "Around the World in Eighty Days", "ja": "八十日間世界一周" },
+      { "en": "Twenty Thousand Leagues", "ja": "海底二万里" },
+      { "en": "named Jules", "ja": "ジュールという名の" },
+      { "en": "the father of science fiction", "ja": "SFの父" }
+    ],
+    "related": [
+      { "en": "Julius", "ja": "ユリウス（元の形）" },
+      { "en": "science fiction", "ja": "SF" },
+      { "en": "Verne", "ja": "ヴェルヌ（姓）" },
+      { "en": "Nautilus", "ja": "ノーチラス号（作中の潜水艦）" }
+    ],
+    "faq": [
+      { "q": "ジュール・ヴェルヌは何で有名？", "a": "『海底二万里』『八十日間世界一周』『月世界旅行』など、科学的想像力に富む冒険小説で「近代SFの父」と呼ばれます。" },
+      { "q": "エネルギーの単位 joule と関係ある？", "a": "いいえ。単位 joule は物理学者ジェームズ・ジュールに由来し、作家 Jules Verne とは別です。" }
+    ],
+    "quiz": [
+      { "q": "『海底二万里』の作者 Jules は？", "A": "ジュール・ヴェルヌ", "B": "ジュール・マスネ", "C": "ジュール・ジュール", "D": "ジュール・フェリー", "correct": "A" },
+      { "q": "Jules はどの言語の男性名？", "A": "ドイツ語", "B": "フランス語", "C": "スペイン語", "D": "イタリア語", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Jungfrau",
+    "pron": "ˈjʊŋfraʊ",
+    "kana": "ユングフラウ",
+    "hinshi": "固有名詞（山）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ドイツ語 Jungfrau（乙女・処女）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "地理・自然"],
+    "meaning_main": "ユングフラウ（スイス・アルプスの名峰）",
+    "description": "Jungfrau（ユングフラウ）はスイス・アルプスを代表する標高約4158mの名峰。アイガー、メンヒと並ぶ三名山の一つで、鉄道で行ける展望台でも有名です。",
+    "keywords": ["Jungfrau 意味", "ユングフラウ スイス", "アルプス 名峰", "アイガー メンヒ"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ユングフラウ", "note": "スイス・ベルナーアルプスの名峰（約4158m）。" },
+      { "hinshi": "【固有名詞】三名山の一つ", "note": "アイガー・メンヒ・ユングフラウのうちの一つ。" }
+    ],
+    "usages": [
+      { "title": "① アルプスの名峰", "desc": "山そのものを指す。", "example_en": "The Jungfrau is one of the most famous peaks in the Alps.", "example_ja": "ユングフラウはアルプスで最も有名な山の一つだ。" },
+      { "title": "② 観光地としての言及", "desc": "登山鉄道・展望台で知られる。", "example_en": "A railway takes visitors near the Jungfrau summit.", "example_ja": "鉄道が観光客をユングフラウ山頂近くまで運ぶ。" }
+    ],
+    "warn": ["名の由来は「乙女（処女）」の意。近隣のユングフラウヨッホ（Jungfraujoch）はヨーロッパ最高地点の鉄道駅で「Top of Europe」と呼ばれる。"],
+    "etym_note": "ドイツ語 Jungfrau（若い女性・乙女・処女）に由来します。純白の雪をまとった山容がその名の由来とされ、近くの峰メンヒ（僧）と対をなす伝説もあります。",
+    "etym_chain": [
+      { "node": "jung + Frau", "sub": "若い+女性", "era": "ドイツ語" },
+      { "node": "Jungfrau", "sub": "山名", "era": "現代" }
+    ],
+    "phrases": [
+      { "en": "the Jungfrau", "ja": "ユングフラウ山" },
+      { "en": "Jungfraujoch", "ja": "ユングフラウヨッホ" },
+      { "en": "Eiger, Monch and Jungfrau", "ja": "アイガー・メンヒ・ユングフラウ" },
+      { "en": "the Top of Europe", "ja": "ヨーロッパの頂" },
+      { "en": "climb the Jungfrau", "ja": "ユングフラウに登る" },
+      { "en": "the Bernese Alps", "ja": "ベルナーアルプス" }
+    ],
+    "related": [
+      { "en": "Switzerland", "ja": "スイス" },
+      { "en": "Alps", "ja": "アルプス" },
+      { "en": "Eiger", "ja": "アイガー" },
+      { "en": "Monch", "ja": "メンヒ" }
+    ],
+    "faq": [
+      { "q": "ユングフラウはどこにある？", "a": "スイスのベルナーアルプスにある標高約4158mの名峰です。アイガー、メンヒと並ぶ三名山の一つです。" },
+      { "q": "ユングフラウヨッホとは？", "a": "ユングフラウとメンヒの間にある鞍部で、ヨーロッパ最高地点の鉄道駅「Top of Europe」があります。" }
+    ],
+    "quiz": [
+      { "q": "Jungfrau はどの国の山？", "A": "オーストリア", "B": "スイス", "C": "フランス", "D": "イタリア", "correct": "B" },
+      { "q": "Jungfrau のドイツ語での意味は？", "A": "老人", "B": "乙女・処女", "C": "王", "D": "雪", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Jurassic",
+    "pron": "dʒʊˈræsɪk",
+    "kana": "ヂュラシック",
+    "hinshi": "固有名詞（地質時代）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ジュラ山脈（Jura）にちなむ",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "地学・恐竜"],
+    "meaning_main": "ジュラ紀（恐竜が栄えた中生代の時代）",
+    "description": "Jurassic（ヂュラシック）は約2億〜1億4500万年前の地質時代「ジュラ紀」。恐竜が繁栄し始祖鳥が現れた中生代の時代で、ジュラ山脈が語源です。",
+    "keywords": ["Jurassic 意味", "ジュラ紀 恐竜", "中生代 時代", "ジュラ山脈 語源"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ジュラ紀", "note": "中生代の中期。約2億130万〜1億4500万年前。恐竜が大いに栄えた。" },
+      { "hinshi": "【形容詞】ジュラ紀の", "note": "その時代・地層に関する。Jurassic period。" }
+    ],
+    "usages": [
+      { "title": "① 恐竜時代のジュラ紀", "desc": "地質時代を指す。", "example_en": "Many large dinosaurs lived during the Jurassic period.", "example_ja": "多くの大型恐竜がジュラ紀に生息していた。" },
+      { "title": "② 地層・化石の文脈", "desc": "地層区分として使う。", "example_en": "These fossils date from the Jurassic.", "example_ja": "これらの化石はジュラ紀のものだ。" }
+    ],
+    "warn": ["中生代は三畳紀（Triassic）→ジュラ紀（Jurassic）→白亜紀（Cretaceous）の順。恐竜の絶滅は白亜紀末で、ジュラ紀ではない。"],
+    "etym_note": "スイス・フランス国境のジュラ山脈（Jura Mountains）に由来します。この山地でこの時代の石灰岩層が広く研究されたため名付けられました。",
+    "etym_chain": [
+      { "node": "Jura", "sub": "ジュラ山脈", "era": "地名" },
+      { "node": "Jurassic", "sub": "ジュラ紀", "era": "19世紀（地質学）" }
+    ],
+    "phrases": [
+      { "en": "the Jurassic period", "ja": "ジュラ紀" },
+      { "en": "Jurassic dinosaurs", "ja": "ジュラ紀の恐竜" },
+      { "en": "Late Jurassic", "ja": "ジュラ紀後期" },
+      { "en": "Jurassic rocks", "ja": "ジュラ紀の岩層" },
+      { "en": "the Jurassic Coast", "ja": "ジュラシック・コースト（英）" },
+      { "en": "Jurassic fossils", "ja": "ジュラ紀の化石" }
+    ],
+    "related": [
+      { "en": "Triassic", "ja": "三畳紀" },
+      { "en": "Cretaceous", "ja": "白亜紀" },
+      { "en": "Mesozoic", "ja": "中生代" },
+      { "en": "dinosaur", "ja": "恐竜" }
+    ],
+    "faq": [
+      { "q": "ジュラ紀に恐竜は絶滅した？", "a": "いいえ。ジュラ紀は恐竜が繁栄した時代で、絶滅はその次の白亜紀の末（約6600万年前）です。" },
+      { "q": "Jurassic の語源は？", "a": "スイスとフランスの国境にあるジュラ山脈（Jura）です。この地層の研究から名付けられました。" }
+    ],
+    "quiz": [
+      { "q": "Jurassic（ジュラ紀）に栄えたのは？", "A": "哺乳類のみ", "B": "恐竜", "C": "人類", "D": "三葉虫", "correct": "B" },
+      { "q": "中生代の順序で正しいのは？", "A": "白亜紀→ジュラ紀→三畳紀", "B": "三畳紀→ジュラ紀→白亜紀", "C": "ジュラ紀→三畳紀→白亜紀", "D": "三畳紀→白亜紀→ジュラ紀", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Jeddah",
+    "pron": "ˈdʒedə",
+    "kana": "ヂェッダ",
+    "hinshi": "固有名詞（都市）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "アラビア語 Jiddah（祖母／海岸の意）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "地理・都市"],
+    "meaning_main": "ジッダ（サウジアラビアの紅海の港湾都市）",
+    "description": "Jeddah（ヂェッダ）はサウジアラビア西部・紅海に面する港湾都市。聖地メッカへの玄関口として巡礼者が集まる、同国第二の大都市です。",
+    "keywords": ["Jeddah 意味", "ジッダ サウジ", "メッカ 玄関口", "紅海 港湾都市"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ジッダ", "note": "サウジアラビア西部・紅海沿岸の港湾都市。同国第二の都市。" },
+      { "hinshi": "【固有名詞】メッカの玄関口", "note": "巡礼者が空路・海路で到着する拠点。" }
+    ],
+    "usages": [
+      { "title": "① 紅海の港湾都市", "desc": "都市そのものを指す。", "example_en": "Jeddah is a major port on the Red Sea.", "example_ja": "ジッダは紅海沿岸の主要な港湾都市だ。" },
+      { "title": "② 巡礼の玄関口", "desc": "メッカ巡礼の拠点として登場する。", "example_en": "Many pilgrims arrive in Jeddah on their way to Mecca.", "example_ja": "多くの巡礼者がメッカへ向かう途中ジッダに到着する。" }
+    ],
+    "warn": ["Jeddah / Jiddah など複数の英語表記がある。首都はリヤド（Riyadh）で、ジッダは首都ではない。"],
+    "etym_note": "アラビア語 Jiddah に由来し、「祖母」または「海岸」を意味するとされます。古くから紅海交易と巡礼の要衝として栄えてきました。",
+    "etym_chain": [
+      { "node": "Jiddah", "sub": "祖母／海岸", "era": "アラビア語" },
+      { "node": "Jeddah", "sub": "英語表記", "era": "現代" }
+    ],
+    "phrases": [
+      { "en": "the city of Jeddah", "ja": "ジッダ市" },
+      { "en": "the port of Jeddah", "ja": "ジッダ港" },
+      { "en": "Jeddah on the Red Sea", "ja": "紅海沿岸のジッダ" },
+      { "en": "gateway to Mecca", "ja": "メッカへの玄関口" },
+      { "en": "historic Jeddah", "ja": "歴史地区ジッダ（アル・バラド）" },
+      { "en": "fly into Jeddah", "ja": "ジッダに飛ぶ" }
+    ],
+    "related": [
+      { "en": "Saudi Arabia", "ja": "サウジアラビア" },
+      { "en": "Mecca", "ja": "メッカ" },
+      { "en": "Red Sea", "ja": "紅海" },
+      { "en": "Riyadh", "ja": "リヤド（首都）" }
+    ],
+    "faq": [
+      { "q": "ジッダはサウジの首都？", "a": "いいえ。首都はリヤドです。ジッダは紅海沿岸の港湾都市で、同国第二の都市です。" },
+      { "q": "ジッダはなぜ巡礼と関係が深い？", "a": "聖地メッカに最も近い大きな港・空港を持ち、世界中の巡礼者が到着する玄関口だからです。" }
+    ],
+    "quiz": [
+      { "q": "Jeddah はどの海に面する？", "A": "地中海", "B": "紅海", "C": "ペルシャ湾", "D": "アラビア海", "correct": "B" },
+      { "q": "Jeddah が玄関口となる聖地は？", "A": "エルサレム", "B": "メッカ", "C": "バグダッド", "D": "カイロ", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Jinja",
+    "pron": "ˈdʒɪndʒə",
+    "kana": "ヂンジャ",
+    "hinshi": "固有名詞（都市）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "現地語で「石」を意味する語より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "地理・アフリカ"],
+    "meaning_main": "ジンジャ（ウガンダの都市；ナイル川の源）",
+    "description": "Jinja（ヂンジャ）はウガンダ南部、ヴィクトリア湖畔の都市。ナイル川の源流とされる地点があり、ラフティングなどのアウトドアで知られます。",
+    "keywords": ["Jinja 意味", "ジンジャ ウガンダ", "ナイル川 源流", "ヴィクトリア湖"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ジンジャ", "note": "ウガンダ南部の都市。ヴィクトリア湖の北岸に位置する。" },
+      { "hinshi": "【固有名詞】ナイルの源", "note": "白ナイルがヴィクトリア湖から流れ出す地点として知られる。" }
+    ],
+    "usages": [
+      { "title": "① ナイルの源の町", "desc": "都市・源流地点を指す。", "example_en": "Jinja is often called the source of the Nile.", "example_ja": "ジンジャはしばしば「ナイルの源」と呼ばれる。" },
+      { "title": "② アウトドアの拠点", "desc": "川下りなどで知られる。", "example_en": "Jinja is popular for white-water rafting.", "example_ja": "ジンジャは急流下りで人気だ。" }
+    ],
+    "warn": ["「ナイルの源」には諸説あるが、白ナイルがヴィクトリア湖から流れ出す地点がジンジャ近郊にある。日本語の『神社』とは無関係。"],
+    "etym_note": "現地の言葉で「石（岩）」を意味する語に由来するとされます。かつて湖の出口にあった大きな岩にちなむと言われます。",
+    "etym_chain": [
+      { "node": "jinja", "sub": "石・岩", "era": "現地語" },
+      { "node": "Jinja", "sub": "都市名", "era": "現代" }
+    ],
+    "phrases": [
+      { "en": "the town of Jinja", "ja": "ジンジャの町" },
+      { "en": "the source of the Nile", "ja": "ナイルの源" },
+      { "en": "rafting in Jinja", "ja": "ジンジャでのラフティング" },
+      { "en": "Lake Victoria near Jinja", "ja": "ジンジャ近くのヴィクトリア湖" },
+      { "en": "Jinja, Uganda", "ja": "ウガンダのジンジャ" },
+      { "en": "the White Nile", "ja": "白ナイル" }
+    ],
+    "related": [
+      { "en": "Uganda", "ja": "ウガンダ" },
+      { "en": "Nile", "ja": "ナイル川" },
+      { "en": "Lake Victoria", "ja": "ヴィクトリア湖" },
+      { "en": "rafting", "ja": "ラフティング" }
+    ],
+    "faq": [
+      { "q": "ジンジャはなぜ有名？", "a": "白ナイルがヴィクトリア湖から流れ出す「ナイルの源」の町として知られ、急流下りなどのアウトドアでも人気です。" },
+      { "q": "日本語の『神社』と関係ある？", "a": "全くの別語で、偶然の一致です。ジンジャは現地語で「石」を意味する語に由来するとされます。" }
+    ],
+    "quiz": [
+      { "q": "Jinja はどの国の都市？", "A": "ケニア", "B": "ウガンダ", "C": "タンザニア", "D": "エチオピア", "correct": "B" },
+      { "q": "ジンジャが「源」とされる川は？", "A": "コンゴ川", "B": "ナイル川", "C": "ニジェール川", "D": "ザンベジ川", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Jabalpur",
+    "pron": "ˈdʒʌbəlpʊr",
+    "kana": "ヂャバルプル",
+    "hinshi": "固有名詞（都市）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "地名 Jabali +（都市を表す）pur",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "地理・インド"],
+    "meaning_main": "ジャバルプル（インド中部の都市；大理石の峡谷）",
+    "description": "Jabalpur（ヂャバルプル）はインド中部マディヤ・プラデーシュ州の都市。ナルマダ川沿いの白い大理石の峡谷「マーブル・ロックス」で知られます。",
+    "keywords": ["Jabalpur 意味", "ジャバルプル インド", "大理石の峡谷", "ナルマダ川"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ジャバルプル", "note": "インド中部マディヤ・プラデーシュ州の主要都市。" },
+      { "hinshi": "【固有名詞】マーブル・ロックス", "note": "近郊のナルマダ川に大理石の断崖が続く景勝地。" }
+    ],
+    "usages": [
+      { "title": "① インド中部の都市", "desc": "都市そのものを指す。", "example_en": "Jabalpur is a major city in central India.", "example_ja": "ジャバルプルはインド中部の主要都市だ。" },
+      { "title": "② 大理石峡谷への言及", "desc": "景勝地として登場する。", "example_en": "The Marble Rocks near Jabalpur attract many visitors.", "example_ja": "ジャバルプル近郊のマーブル・ロックスは多くの観光客を集める。" }
+    ],
+    "warn": ["pur はサンスクリットで「都市」を意味する接尾語（Jaipur, Jodhpur などと同様）。州都はボーパール（Bhopal）で、ジャバルプルは州都ではない。"],
+    "etym_note": "地名 Jabali（聖仙ジャーバーリにちなむとも）に、サンスクリット語 pur（都市）を組み合わせた地名とされます。ナルマダ川沿いに開けた歴史都市です。",
+    "etym_chain": [
+      { "node": "Jabali + pur", "sub": "地名+都市", "era": "古代〜" },
+      { "node": "Jabalpur", "sub": "都市名", "era": "現代" }
+    ],
+    "phrases": [
+      { "en": "the city of Jabalpur", "ja": "ジャバルプル市" },
+      { "en": "Marble Rocks, Jabalpur", "ja": "ジャバルプルのマーブル・ロックス" },
+      { "en": "the Narmada River", "ja": "ナルマダ川" },
+      { "en": "Jabalpur, Madhya Pradesh", "ja": "マディヤ・プラデーシュ州ジャバルプル" },
+      { "en": "central India", "ja": "インド中部" },
+      { "en": "visit Jabalpur", "ja": "ジャバルプルを訪れる" }
+    ],
+    "related": [
+      { "en": "Madhya Pradesh", "ja": "マディヤ・プラデーシュ州" },
+      { "en": "Narmada", "ja": "ナルマダ川" },
+      { "en": "India", "ja": "インド" },
+      { "en": "Bhopal", "ja": "ボーパール（州都）" }
+    ],
+    "faq": [
+      { "q": "ジャバルプルの見どころは？", "a": "ナルマダ川沿いに白い大理石の断崖が続く「マーブル・ロックス」や、そこにあるドゥアーンダール滝が有名です。" },
+      { "q": "ジャバルプルは州都？", "a": "いいえ。マディヤ・プラデーシュ州の州都はボーパールで、ジャバルプルは同州の主要都市の一つです。" }
+    ],
+    "quiz": [
+      { "q": "Jabalpur はどの国の都市？", "A": "パキスタン", "B": "インド", "C": "ネパール", "D": "スリランカ", "correct": "B" },
+      { "q": "ジャバルプル近郊の景勝地は？", "A": "青の街", "B": "マーブル・ロックス（大理石の峡谷）", "C": "ピンク・シティ", "D": "砂の砦", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Jerez",
+    "pron": "heˈreθ",
+    "kana": "ヘレス",
+    "hinshi": "固有名詞（都市）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "アラビア語 Sherish 経由、シェリー酒 sherry の語源",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "地理・文化"],
+    "meaning_main": "ヘレス（スペインの都市；シェリー酒とフラメンコの故郷）",
+    "description": "Jerez（ヘレス）はスペイン南部アンダルシアの都市。酒精強化ワイン「シェリー（sherry）」の産地で、フラメンコや乗馬の伝統でも知られます。",
+    "keywords": ["Jerez 意味", "ヘレス スペイン", "シェリー酒 産地", "フラメンコ 故郷"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ヘレス", "note": "正式には Jerez de la Frontera。スペイン・アンダルシアの都市。" },
+      { "hinshi": "【固有名詞】シェリー酒の産地", "note": "英語 sherry はこの地名 Jerez に由来する。" }
+    ],
+    "usages": [
+      { "title": "① シェリー酒の都市", "desc": "産地としての用法。", "example_en": "Jerez is famous for producing sherry.", "example_ja": "ヘレスはシェリー酒の産地として有名だ。" },
+      { "title": "② フラメンコ・乗馬の伝統", "desc": "文化の文脈で登場する。", "example_en": "Jerez is also known for flamenco and horse shows.", "example_ja": "ヘレスはフラメンコや馬術ショーでも知られる。" }
+    ],
+    "warn": ["スペイン語読みで J は「ハ行」、「ヘレス」と読む。英語 sherry（シェリー酒）はこの地名に由来する。"],
+    "etym_note": "アラビア語 Sherish を経た地名で、ここで造られる酒精強化ワインが英語で sherry（シェリー）と呼ばれるようになりました。つまり sherry の語源が Jerez です。",
+    "etym_chain": [
+      { "node": "Sherish", "sub": "地名", "era": "アラビア語" },
+      { "node": "Jerez", "sub": "都市名", "era": "スペイン語" },
+      { "node": "sherry", "sub": "シェリー酒", "era": "英語（派生）" }
+    ],
+    "phrases": [
+      { "en": "Jerez de la Frontera", "ja": "ヘレス・デ・ラ・フロンテーラ" },
+      { "en": "sherry from Jerez", "ja": "ヘレス産シェリー酒" },
+      { "en": "flamenco in Jerez", "ja": "ヘレスのフラメンコ" },
+      { "en": "the bodegas of Jerez", "ja": "ヘレスのワイナリー" },
+      { "en": "Andalusian Jerez", "ja": "アンダルシアのヘレス" },
+      { "en": "horses of Jerez", "ja": "ヘレスの馬術" }
+    ],
+    "related": [
+      { "en": "sherry", "ja": "シェリー酒" },
+      { "en": "Andalusia", "ja": "アンダルシア" },
+      { "en": "flamenco", "ja": "フラメンコ" },
+      { "en": "Spain", "ja": "スペイン" }
+    ],
+    "faq": [
+      { "q": "sherry（シェリー酒）と Jerez の関係は？", "a": "シェリー酒はヘレスで造られる酒精強化ワインで、英語名 sherry はこの地名 Jerez に由来します。" },
+      { "q": "Jerez はどう読む？", "a": "スペイン語では J を「ハ行」で発音し、「ヘレス」と読みます。" }
+    ],
+    "quiz": [
+      { "q": "Jerez が産地として有名な酒は？", "A": "ポートワイン", "B": "シェリー酒", "C": "シャンパン", "D": "ウイスキー", "correct": "B" },
+      { "q": "Jerez はどの国の都市？", "A": "ポルトガル", "B": "スペイン", "C": "イタリア", "D": "フランス", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Jujuy",
+    "pron": "huˈhwi",
+    "kana": "フフイ",
+    "hinshi": "固有名詞（地名）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "先住民の語に由来する地名",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "地理・南米"],
+    "meaning_main": "フフイ州（アルゼンチン北西部；アンデスの渓谷）",
+    "description": "Jujuy（フフイ）はアルゼンチン最北西部の州。アンデス山脈の色鮮やかな渓谷「ウマワカ渓谷」や先住民文化で知られる高地の州です。",
+    "keywords": ["Jujuy 意味", "フフイ州 アルゼンチン", "ウマワカ渓谷", "アンデス 渓谷"],
+    "meanings": [
+      { "hinshi": "【固有名詞】フフイ州", "note": "アルゼンチン北西端の州。ボリビアと国境を接する高地。" },
+      { "hinshi": "【固有名詞】ウマワカ渓谷", "note": "色とりどりの地層で知られる世界遺産の渓谷が州内にある。" }
+    ],
+    "usages": [
+      { "title": "① アルゼンチン北西の州", "desc": "行政区画を指す。", "example_en": "Jujuy is the northernmost province of Argentina.", "example_ja": "フフイはアルゼンチン最北の州だ。" },
+      { "title": "② アンデスの景観への言及", "desc": "色鮮やかな渓谷で知られる。", "example_en": "Jujuy is famous for the colorful Humahuaca Valley.", "example_ja": "フフイは色鮮やかなウマワカ渓谷で有名だ。" }
+    ],
+    "warn": ["スペイン語読みで J は「ハ行」、「フフイ」と読む。標高が高く、タンゴのイメージとは異なる先住民色の濃い地域。"],
+    "etym_note": "先住民の言葉に由来する地名とされ、由来には諸説あります。アンデス高地に位置し、インカ以前からの文化が色濃く残ります。",
+    "etym_chain": [
+      { "node": "Jujuy", "sub": "先住民の地名", "era": "先スペイン期" },
+      { "node": "Jujuy", "sub": "州名", "era": "現代" }
+    ],
+    "phrases": [
+      { "en": "the province of Jujuy", "ja": "フフイ州" },
+      { "en": "the Humahuaca Valley", "ja": "ウマワカ渓谷" },
+      { "en": "northern Jujuy", "ja": "フフイ北部" },
+      { "en": "the Andes of Jujuy", "ja": "フフイのアンデス" },
+      { "en": "San Salvador de Jujuy", "ja": "サン・サルバドール・デ・フフイ（州都）" },
+      { "en": "highlands of Jujuy", "ja": "フフイの高地" }
+    ],
+    "related": [
+      { "en": "Argentina", "ja": "アルゼンチン" },
+      { "en": "Andes", "ja": "アンデス山脈" },
+      { "en": "Humahuaca", "ja": "ウマワカ" },
+      { "en": "Bolivia", "ja": "ボリビア（隣国）" }
+    ],
+    "faq": [
+      { "q": "フフイはどんな地域？", "a": "アルゼンチン最北西の高地の州で、ボリビアと国境を接します。色鮮やかな地層のウマワカ渓谷（世界遺産）や先住民文化で知られます。" },
+      { "q": "Jujuy はどう読む？", "a": "スペイン語では J を「ハ行」で発音し、「フフイ」と読みます。" }
+    ],
+    "quiz": [
+      { "q": "Jujuy はどの国の州？", "A": "チリ", "B": "アルゼンチン", "C": "ペルー", "D": "ボリビア", "correct": "B" },
+      { "q": "フフイにある世界遺産の渓谷は？", "A": "ウマワカ渓谷", "B": "コルカ渓谷", "C": "グランドキャニオン", "D": "ドウロ渓谷", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Jomo",
+    "pron": "ˈdʒoʊmoʊ",
+    "kana": "ヂョモ",
+    "hinshi": "固有名詞（人名）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "キクユ語の名 Jomo（燃える槍の意とされる）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "歴史・人物"],
+    "meaning_main": "ジョモ（ジョモ・ケニヤッタ；ケニア建国の父）",
+    "description": "Jomo（ヂョモ）はケニアを独立に導いた建国の父ジョモ・ケニヤッタの名。初代大統領を務め、アフリカ独立運動を象徴する指導者の一人です。",
+    "keywords": ["Jomo 意味", "ジョモ・ケニヤッタ", "ケニア 建国の父", "アフリカ 独立運動"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ジョモ・ケニヤッタ", "note": "ケニアの独立運動指導者・初代大統領（在任1964〜1978）。" },
+      { "hinshi": "【固有名詞】名 Jomo", "note": "キクユ語系の男性名。空港名などにも残る。" }
+    ],
+    "usages": [
+      { "title": "① ケニア建国の父", "desc": "歴史上の人物を指す。", "example_en": "Jomo Kenyatta became Kenya's first president.", "example_ja": "ジョモ・ケニヤッタはケニア初代大統領となった。" },
+      { "title": "② 名前を冠した施設", "desc": "空港名などに残る。", "example_en": "Nairobi's main airport is named after Jomo Kenyatta.", "example_ja": "ナイロビの主要空港はジョモ・ケニヤッタにちなんで名付けられた。" }
+    ],
+    "warn": ["フルネームは Jomo Kenyatta。息子のウフル・ケニヤッタも後に大統領を務めた（別人）。"],
+    "etym_note": "キクユ語系の名で「燃える槍」を意味するとされます。ジョモ・ケニヤッタの活躍により、ケニア独立の象徴的な名となりました。",
+    "etym_chain": [
+      { "node": "Jomo", "sub": "燃える槍（諸説）", "era": "キクユ語" },
+      { "node": "Jomo", "sub": "建国の父の名", "era": "20世紀" }
+    ],
+    "phrases": [
+      { "en": "Jomo Kenyatta", "ja": "ジョモ・ケニヤッタ" },
+      { "en": "the father of Kenya", "ja": "ケニア建国の父" },
+      { "en": "Jomo Kenyatta Airport", "ja": "ジョモ・ケニヤッタ空港" },
+      { "en": "Kenya's first president", "ja": "ケニア初代大統領" },
+      { "en": "the legacy of Jomo", "ja": "ジョモの遺産" },
+      { "en": "independence under Jomo", "ja": "ジョモの下での独立" }
+    ],
+    "related": [
+      { "en": "Kenya", "ja": "ケニア" },
+      { "en": "Nairobi", "ja": "ナイロビ（首都）" },
+      { "en": "independence", "ja": "独立" },
+      { "en": "Africa", "ja": "アフリカ" }
+    ],
+    "faq": [
+      { "q": "ジョモ・ケニヤッタは何をした人？", "a": "イギリスからのケニア独立を導き、1964年に初代大統領となった建国の父です。アフリカ独立運動の象徴的存在です。" },
+      { "q": "空港の名前になっている？", "a": "はい。首都ナイロビの主要国際空港が「ジョモ・ケニヤッタ国際空港」と名付けられています。" }
+    ],
+    "quiz": [
+      { "q": "Jomo Kenyatta が初代大統領を務めた国は？", "A": "ナイジェリア", "B": "ケニア", "C": "タンザニア", "D": "ガーナ", "correct": "B" },
+      { "q": "ジョモ・ケニヤッタの名を冠した施設は？", "A": "ダム", "B": "国際空港", "C": "大学のみ", "D": "港", "correct": "B" }
+    ]
+  }
+]
