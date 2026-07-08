@@ -1,0 +1,496 @@
+[
+  {
+    "english": "John",
+    "pron": "dʒɒn",
+    "kana": "ヂョン",
+    "hinshi": "固有名詞（人名・聖書）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ヘブライ語 Yohanan（神は慈悲深い）より",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A1", "聖書・人名"],
+    "meaning_main": "ヨハネ／ジョン（最も一般的な英語の男性名の一つ）",
+    "description": "John（ヂョン）は英語圏で最も一般的な男性名の一つ。聖書の洗礼者ヨハネや使徒ヨハネを指し、歴代の王や多くの著名人の名でもあります。",
+    "keywords": ["John 意味", "洗礼者ヨハネ", "使徒ヨハネ", "男性名 John"],
+    "meanings": [
+      { "hinshi": "【固有名詞】洗礼者ヨハネ", "note": "イエスに洗礼を授けたとされる預言者 John the Baptist。" },
+      { "hinshi": "【固有名詞】使徒ヨハネ", "note": "イエスの十二使徒の一人。ヨハネ福音書の名の由来。" },
+      { "hinshi": "【固有名詞】男性名ジョン", "note": "英語圏で最も伝統的な男性名の一つ。愛称は Jack, Johnny。" }
+    ],
+    "usages": [
+      { "title": "① 聖書のヨハネ", "desc": "洗礼者・使徒を指す。", "example_en": "John the Baptist baptized people in the Jordan River.", "example_ja": "洗礼者ヨハネはヨルダン川で人々に洗礼を授けた。" },
+      { "title": "② 一般的な男性名", "desc": "人名として使う。", "example_en": "John is one of the most common English names.", "example_ja": "ジョンは最もありふれた英語名の一つだ。" }
+    ],
+    "warn": ["愛称は Jack, Johnny, Jock など。名を特定しない一般人を John Doe（身元不明の男性）と呼ぶ用法もある。"],
+    "etym_note": "ヘブライ語 Yohanan（「ヤハウェは慈悲深い」）に由来し、ギリシャ語 Iōannēs、ラテン語 Iohannes を経て英語 John になりました。Joan・Jane・Jean などは女性形です。",
+    "etym_chain": [
+      { "node": "Yohanan", "sub": "神は慈悲深い", "era": "ヘブライ語" },
+      { "node": "Iohannes", "sub": "ラテン語形", "era": "古代" },
+      { "node": "John", "sub": "英語名", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "John the Baptist", "ja": "洗礼者ヨハネ" },
+      { "en": "the Gospel of John", "ja": "ヨハネ福音書" },
+      { "en": "John Doe", "ja": "身元不明の男性" },
+      { "en": "King John", "ja": "ジョン王" },
+      { "en": "Dear John letter", "ja": "別れの手紙" },
+      { "en": "Jack, short for John", "ja": "ジョンの愛称ジャック" }
+    ],
+    "related": [
+      { "en": "Joan", "ja": "ジョーン（女性形）" },
+      { "en": "Jack", "ja": "ジャック（愛称）" },
+      { "en": "Jane", "ja": "ジェーン（女性形）" },
+      { "en": "Johnny", "ja": "ジョニー（愛称）" }
+    ],
+    "faq": [
+      { "q": "John の愛称は？", "a": "Jack、Johnny、Jock などがあります。特に Jack は中世から John の愛称として定着しています。" },
+      { "q": "John Doe とは？", "a": "身元不明・匿名の男性を指す仮名です。女性は Jane Doe を使います。" }
+    ],
+    "quiz": [
+      { "q": "イエスに洗礼を授けたとされるのは？", "A": "使徒ペテロ", "B": "洗礼者ヨハネ", "C": "パウロ", "D": "ヤコブ", "correct": "B" },
+      { "q": "John の女性形は？", "A": "Jack", "B": "Joan", "C": "Jim", "D": "Josh", "correct": "B" }
+    ]
+  },
+  {
+    "english": "James",
+    "pron": "dʒeɪmz",
+    "kana": "ヂェイムズ",
+    "hinshi": "固有名詞（人名・聖書）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ラテン語 Iacomus（ヤコブ Jacob の異形）より",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A1", "聖書・人名"],
+    "meaning_main": "ヤコブ／ジェームズ（使徒・王・一般的な男性名）",
+    "description": "James（ヂェイムズ）は英語圏で非常に一般的な男性名。聖書の使徒ヤコブや歴代のイングランド王ジェームズの名で、Jacob と同語源です。",
+    "keywords": ["James 意味", "使徒ヤコブ", "ジェームズ王", "男性名 James"],
+    "meanings": [
+      { "hinshi": "【固有名詞】使徒ヤコブ（ジェームズ）", "note": "新約聖書の使徒。英語では James と表記される。" },
+      { "hinshi": "【固有名詞】ジェームズ王", "note": "イングランド・スコットランドの歴代の王名。欽定訳聖書のジェームズ1世など。" },
+      { "hinshi": "【固有名詞】男性名ジェームズ", "note": "英語圏の伝統的な男性名。愛称は Jim, Jamie, Jimmy。" }
+    ],
+    "usages": [
+      { "title": "① 聖書・王名としての James", "desc": "歴史・宗教の文脈で使う。", "example_en": "The King James Bible was published in 1611.", "example_ja": "欽定訳（キング・ジェームズ）聖書は1611年に刊行された。" },
+      { "title": "② 一般的な男性名", "desc": "人名として使う。", "example_en": "James, or Jim, is a very common name.", "example_ja": "ジェームズ（愛称ジム）はごくありふれた名前だ。" }
+    ],
+    "warn": ["Jacob と同語源（ラテン語 Iacobus → Iacomus → James）。愛称は Jim, Jamie, Jimmy, Jack。"],
+    "etym_note": "ヘブライ語 Ya'aqov（ヤコブ）がラテン語 Iacobus、俗ラテン語 Iacomus を経て英語 James になりました。つまり James と Jacob は同じ名前の別系統です。",
+    "etym_chain": [
+      { "node": "Iacobus", "sub": "ヤコブ", "era": "ラテン語" },
+      { "node": "Iacomus", "sub": "俗ラテン語形", "era": "中世" },
+      { "node": "James", "sub": "英語名", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the King James Bible", "ja": "欽定訳聖書" },
+      { "en": "James I of England", "ja": "イングランド王ジェームズ1世" },
+      { "en": "the Apostle James", "ja": "使徒ヤコブ" },
+      { "en": "Jim, short for James", "ja": "ジェームズの愛称ジム" },
+      { "en": "James Bond", "ja": "ジェームズ・ボンド" },
+      { "en": "named James", "ja": "ジェームズという名の" }
+    ],
+    "related": [
+      { "en": "Jacob", "ja": "ヤコブ（同語源）" },
+      { "en": "Jim", "ja": "ジム（愛称）" },
+      { "en": "Jamie", "ja": "ジェイミー（愛称）" },
+      { "en": "Jimmy", "ja": "ジミー（愛称）" }
+    ],
+    "faq": [
+      { "q": "James と Jacob は同じ名前？", "a": "はい、同じヘブライ語源です。ラテン語 Iacobus が二つの系統に分かれ、一方が Jacob、もう一方が James になりました。" },
+      { "q": "King James Bible とは？", "a": "イングランド王ジェームズ1世の命で1611年に刊行された英訳聖書「欽定訳聖書」のことです。" }
+    ],
+    "quiz": [
+      { "q": "James と同語源の名前は？", "A": "John", "B": "Jacob", "C": "Joseph", "D": "Jesse", "correct": "B" },
+      { "q": "1611年刊行の英訳聖書は？", "A": "ジュネーブ聖書", "B": "欽定訳（King James）聖書", "C": "ウルガタ", "D": "七十人訳", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Jonathan",
+    "pron": "ˈdʒɒnəθən",
+    "kana": "ヂョナサン",
+    "hinshi": "固有名詞（人名・聖書）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ヘブライ語 Yehonatan（ヤハウェが与えた）より",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "聖書・人名"],
+    "meaning_main": "ヨナタン（ダビデの親友）／男性名ジョナサン",
+    "description": "Jonathan（ヂョナサン）は旧約聖書でサウル王の子ヨナタン。ダビデとの厚い友情で知られ、英語圏では一般的な男性名でもあります。愛称は Jon。",
+    "keywords": ["Jonathan 意味", "ヨナタン ダビデ", "友情 聖書", "男性名 Jonathan"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ヨナタン", "note": "サウル王の子。ダビデの無二の親友として描かれる。" },
+      { "hinshi": "【固有名詞】男性名ジョナサン", "note": "英語圏の男性名。愛称は Jon, Jonny。" }
+    ],
+    "usages": [
+      { "title": "① ダビデの親友ヨナタン", "desc": "旧約の人物を指す。", "example_en": "David and Jonathan formed a deep friendship.", "example_ja": "ダビデとヨナタンは深い友情で結ばれた。" },
+      { "title": "② 現代の男性名", "desc": "人名として使う。", "example_en": "Jonathan, often Jon, is a popular name.", "example_ja": "ジョナサン（愛称ジョン）は人気の名前だ。" }
+    ],
+    "warn": ["愛称の Jon は John（ジョン）と紛らわしいが別の名前。りんごの品種「紅玉」は英語で Jonathan という。"],
+    "etym_note": "ヘブライ語 Yehonatan（「ヤハウェが与えた」）に由来します。「神の贈り物」を意味し、同義のギリシャ語源を持つ Theodore とも意味が重なります。",
+    "etym_chain": [
+      { "node": "Yehonatan", "sub": "ヤハウェが与えた", "era": "ヘブライ語" },
+      { "node": "Jonathan", "sub": "人名", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "David and Jonathan", "ja": "ダビデとヨナタン" },
+      { "en": "the friendship of Jonathan", "ja": "ヨナタンの友情" },
+      { "en": "Jon, short for Jonathan", "ja": "ジョナサンの愛称ジョン" },
+      { "en": "Jonathan apple", "ja": "紅玉（りんご）" },
+      { "en": "named Jonathan", "ja": "ジョナサンという名の" },
+      { "en": "Jonathan Swift", "ja": "ジョナサン・スウィフト（作家）" }
+    ],
+    "related": [
+      { "en": "David", "ja": "ダビデ" },
+      { "en": "Saul", "ja": "サウル（父）" },
+      { "en": "Jon", "ja": "ジョン（愛称）" },
+      { "en": "friendship", "ja": "友情" }
+    ],
+    "faq": [
+      { "q": "ヨナタンとダビデの関係は？", "a": "サウル王の子ヨナタンとダビデは無二の親友で、聖書は二人の深い友情を美しく描いています。" },
+      { "q": "Jonathan と John は同じ？", "a": "別の名前です。愛称がどちらも Jon になり得るため紛らわしいですが、語源も別です。" }
+    ],
+    "quiz": [
+      { "q": "Jonathan の父である王は？", "A": "ダビデ", "B": "サウル", "C": "ソロモン", "D": "ヘロデ", "correct": "B" },
+      { "q": "Jonathan の意味に近いのは？", "A": "神の裁き", "B": "神の贈り物", "C": "神の怒り", "D": "神の沈黙", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Joel",
+    "pron": "ˈdʒoʊəl",
+    "kana": "ヂョウエル",
+    "hinshi": "固有名詞（人名・聖書）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ヘブライ語 Yoel（ヤハウェは神なり）より",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "聖書・人名"],
+    "meaning_main": "ヨエル（旧約の預言者）／男性名ジョエル",
+    "description": "Joel（ヂョウエル）は旧約聖書の十二小預言者の一人ヨエル。いなごの災いと「主の日」を説いた預言で知られ、英語圏の男性名でもあります。",
+    "keywords": ["Joel 意味", "ヨエル 預言者", "主の日", "男性名 Joel"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ヨエル", "note": "旧約聖書『ヨエル書』の預言者。十二小預言者の一人。" },
+      { "hinshi": "【固有名詞】男性名ジョエル", "note": "英語圏の男性名。ビリー・ジョエル（歌手）など。" }
+    ],
+    "usages": [
+      { "title": "① 小預言者ヨエル", "desc": "旧約の人物を指す。", "example_en": "The Book of Joel describes a plague of locusts.", "example_ja": "ヨエル書はいなごの災いを描く。" },
+      { "title": "② 現代の人名", "desc": "人名として使う。", "example_en": "Billy Joel is a famous American singer.", "example_ja": "ビリー・ジョエルは有名なアメリカの歌手だ。" }
+    ],
+    "warn": ["名前の意味は「ヤハウェこそ神」。同名の預言書『ヨエル書』は旧約の十二小預言書の一つ。"],
+    "etym_note": "ヘブライ語 Yoel（「ヤハウェは神なり」）に由来し、神名 Yah と El（神）を組み合わせた形です。Elijah（エリヤ）と要素が逆順の関係にあります。",
+    "etym_chain": [
+      { "node": "Yoel", "sub": "ヤハウェは神なり", "era": "ヘブライ語" },
+      { "node": "Joel", "sub": "人名", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the Book of Joel", "ja": "ヨエル書" },
+      { "en": "the prophet Joel", "ja": "預言者ヨエル" },
+      { "en": "the day of the Lord", "ja": "主の日" },
+      { "en": "Billy Joel", "ja": "ビリー・ジョエル" },
+      { "en": "named Joel", "ja": "ジョエルという名の" },
+      { "en": "Joel's prophecy", "ja": "ヨエルの預言" }
+    ],
+    "related": [
+      { "en": "prophet", "ja": "預言者" },
+      { "en": "Elijah", "ja": "エリヤ（要素が逆の名）" },
+      { "en": "locust", "ja": "いなご" },
+      { "en": "Old Testament", "ja": "旧約聖書" }
+    ],
+    "faq": [
+      { "q": "ヨエル書のテーマは？", "a": "いなごの大群による災いを神の裁きの前触れとして描き、悔い改めと「主の日」の到来を説きます。" },
+      { "q": "Joel の名前の意味は？", "a": "「ヤハウェこそ神である」という意味です。神名 Yah と El（神）を組み合わせています。" }
+    ],
+    "quiz": [
+      { "q": "ヨエル書が描く災いは？", "A": "洪水", "B": "いなごの大群", "C": "地震", "D": "疫病のみ", "correct": "B" },
+      { "q": "Joel の名の意味に近いのは？", "A": "神は救い", "B": "ヤハウェは神なり", "C": "神は慈悲深い", "D": "神が与えた", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Josiah",
+    "pron": "dʒoʊˈsaɪə",
+    "kana": "ヂョウサイア",
+    "hinshi": "固有名詞（人名・聖書）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ヘブライ語 Yoshiyahu（ヤハウェが癒す・支える）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "聖書・歴史"],
+    "meaning_main": "ヨシヤ（宗教改革を行ったユダ王）／男性名ジョサイア",
+    "description": "Josiah（ヂョウサイア）は旧約聖書でユダ王国の王ヨシヤ。律法の書を発見し宗教改革を断行した敬虔な王として知られる名です。",
+    "keywords": ["Josiah 意味", "ヨシヤ 王", "宗教改革 ユダ", "律法の書 発見"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ヨシヤ", "note": "ユダ王国の王。神殿で律法の書を発見し、偶像崇拝を廃する改革を行った。" },
+      { "hinshi": "【固有名詞】男性名ジョサイア", "note": "英語圏の男性名。ジョサイア・ウェッジウッド（陶工）など。" }
+    ],
+    "usages": [
+      { "title": "① 改革者ヨシヤ王", "desc": "旧約の王を指す。", "example_en": "King Josiah restored the worship of God in Judah.", "example_ja": "ヨシヤ王はユダにおける神への礼拝を復興した。" },
+      { "title": "② 現代の人名", "desc": "人名として使う。", "example_en": "Josiah Wedgwood founded the famous pottery firm.", "example_ja": "ジョサイア・ウェッジウッドは有名な陶器会社を創設した。" }
+    ],
+    "warn": ["幼くして即位し、神殿修復中に発見された「律法の書」（申命記とされる）をもとに大改革を行ったとされる。"],
+    "etym_note": "ヘブライ語 Yoshiyahu（「ヤハウェが癒す／支える」）に由来します。ユダ王国末期の敬虔な王の名として旧約に記されています。",
+    "etym_chain": [
+      { "node": "Yoshiyahu", "sub": "ヤハウェが支える", "era": "ヘブライ語" },
+      { "node": "Josiah", "sub": "人名", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "King Josiah", "ja": "ヨシヤ王" },
+      { "en": "the reforms of Josiah", "ja": "ヨシヤの改革" },
+      { "en": "the book of the Law", "ja": "律法の書" },
+      { "en": "Josiah Wedgwood", "ja": "ジョサイア・ウェッジウッド" },
+      { "en": "named Josiah", "ja": "ジョサイアという名の" },
+      { "en": "Josiah's reign", "ja": "ヨシヤの治世" }
+    ],
+    "related": [
+      { "en": "Judah", "ja": "ユダ王国" },
+      { "en": "Deuteronomy", "ja": "申命記" },
+      { "en": "reform", "ja": "改革" },
+      { "en": "Wedgwood", "ja": "ウェッジウッド（陶工）" }
+    ],
+    "faq": [
+      { "q": "ヨシヤ王は何をした？", "a": "神殿修復中に発見された律法の書に基づき、偶像崇拝を廃して神への礼拝を復興する宗教改革を断行しました。" },
+      { "q": "ジョサイア・ウェッジウッドとは？", "a": "18世紀イギリスの陶工で、今も続く高級陶磁器ブランド「ウェッジウッド」の創業者です。" }
+    ],
+    "quiz": [
+      { "q": "Josiah はどの王国の王？", "A": "イスラエル王国", "B": "ユダ王国", "C": "バビロニア", "D": "エジプト", "correct": "B" },
+      { "q": "ヨシヤ王の改革のきっかけは？", "A": "戦争の勝利", "B": "律法の書の発見", "C": "日食", "D": "他国の侵攻", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Jenner",
+    "pron": "ˈdʒenər",
+    "kana": "ヂェナー",
+    "hinshi": "固有名詞（人名）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "英語の姓 Jenner（Jean/John に由来）",
+    "ld_level": "準1級",
+    "badges": ["大学生〜", "英検準1級", "CEFR B2", "科学・人物"],
+    "meaning_main": "ジェンナー（種痘を開発した医師）",
+    "description": "Jenner（ヂェナー）は世界初のワクチン「種痘」を開発したイギリスの医師エドワード・ジェンナー。「免疫学の父」と呼ばれ天然痘の克服に道を開きました。",
+    "keywords": ["Jenner 意味", "エドワード・ジェンナー", "種痘 ワクチン", "免疫学の父"],
+    "meanings": [
+      { "hinshi": "【固有名詞】エドワード・ジェンナー", "note": "イギリスの医師（1749〜1823）。牛痘を用いた種痘を開発。" },
+      { "hinshi": "【固有名詞】姓 Jenner", "note": "英語圏の姓。" }
+    ],
+    "usages": [
+      { "title": "① 種痘を開発した医師", "desc": "科学史上の人物を指す。", "example_en": "Jenner developed the first successful vaccine against smallpox.", "example_ja": "ジェンナーは天然痘に対する初の有効なワクチンを開発した。" },
+      { "title": "② ワクチンの起源への言及", "desc": "免疫学の起点として語られる。", "example_en": "The word 'vaccine' traces back to Jenner's work with cowpox.", "example_ja": "「ワクチン」という語はジェンナーの牛痘研究に遡る。" }
+    ],
+    "warn": ["vaccine（ワクチン）の語源はラテン語 vacca（雌牛）で、ジェンナーが牛痘（cowpox）を用いたことに由来する。"],
+    "etym_note": "英語の姓 Jenner は、Jean や John に由来する職業名・父称名とされます。エドワード・ジェンナーの功績により、免疫学史に名を刻む姓となりました。",
+    "etym_chain": [
+      { "node": "Jean/John", "sub": "元の名", "era": "中世" },
+      { "node": "Jenner", "sub": "姓", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Edward Jenner", "ja": "エドワード・ジェンナー" },
+      { "en": "Jenner's vaccine", "ja": "ジェンナーのワクチン" },
+      { "en": "the smallpox vaccine", "ja": "天然痘ワクチン" },
+      { "en": "cowpox and Jenner", "ja": "牛痘とジェンナー" },
+      { "en": "the father of immunology", "ja": "免疫学の父" },
+      { "en": "vaccination pioneer", "ja": "ワクチン接種の先駆者" }
+    ],
+    "related": [
+      { "en": "vaccine", "ja": "ワクチン" },
+      { "en": "smallpox", "ja": "天然痘" },
+      { "en": "immunology", "ja": "免疫学" },
+      { "en": "cowpox", "ja": "牛痘" }
+    ],
+    "faq": [
+      { "q": "ジェンナーは何を成し遂げた？", "a": "牛痘にかかった人が天然痘にかからない点に着目し、牛痘を接種する「種痘」を開発しました。世界初の有効なワクチンです。" },
+      { "q": "vaccine の語源は？", "a": "ラテン語 vacca（雌牛）です。ジェンナーが牛痘（cowpox）を用いたことにちなみます。" }
+    ],
+    "quiz": [
+      { "q": "Jenner が開発したのは？", "A": "抗生物質", "B": "天然痘ワクチン（種痘）", "C": "麻酔", "D": "レントゲン", "correct": "B" },
+      { "q": "vaccine の語源となった動物は？", "A": "馬", "B": "雌牛", "C": "羊", "D": "犬", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Jobs",
+    "pron": "dʒɒbz",
+    "kana": "ヂョブズ",
+    "hinshi": "固有名詞（人名）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "英語の姓 Jobs（聖書の人名 Job に由来）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "技術・人物"],
+    "meaning_main": "ジョブズ（スティーブ・ジョブズ；アップル創業者）",
+    "description": "Jobs（ヂョブズ）はアップルの共同創業者スティーブ・ジョブズを指す姓。iPhone や Mac を生み出し、現代のデジタル製品文化を象徴する起業家です。",
+    "keywords": ["Jobs 意味", "スティーブ・ジョブズ", "アップル 創業者", "iPhone 生みの親"],
+    "meanings": [
+      { "hinshi": "【固有名詞】スティーブ・ジョブズ", "note": "アップルの共同創業者（1955〜2011）。iPhone・Mac・iPad などを主導。" },
+      { "hinshi": "【固有名詞】姓 Jobs", "note": "英語圏の姓。" }
+    ],
+    "usages": [
+      { "title": "① アップル創業者", "desc": "起業家その人を指す。", "example_en": "Jobs co-founded Apple in 1976.", "example_ja": "ジョブズは1976年にアップルを共同創業した。" },
+      { "title": "② 製品文化への言及", "desc": "革新的製品と結び付けて語られる。", "example_en": "Jobs unveiled the first iPhone in 2007.", "example_ja": "ジョブズは2007年に初代iPhoneを発表した。" }
+    ],
+    "warn": ["普通名詞 job（仕事）の複数形と綴りが同じだが、人名としては固有名詞。フルネームは Steve Jobs。"],
+    "etym_note": "英語の姓 Jobs は、聖書の人物ヨブ（Job）に由来する父称姓とされます。スティーブ・ジョブズの活躍により、テクノロジー史を象徴する名となりました。",
+    "etym_chain": [
+      { "node": "Job", "sub": "聖書の人名", "era": "古代" },
+      { "node": "Jobs", "sub": "姓", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Steve Jobs", "ja": "スティーブ・ジョブズ" },
+      { "en": "Jobs and Wozniak", "ja": "ジョブズとウォズニアック" },
+      { "en": "the vision of Jobs", "ja": "ジョブズの構想" },
+      { "en": "Jobs at Apple", "ja": "アップルのジョブズ" },
+      { "en": "Jobs's keynote", "ja": "ジョブズの基調講演" },
+      { "en": "co-founded by Jobs", "ja": "ジョブズが共同創業した" }
+    ],
+    "related": [
+      { "en": "Apple", "ja": "アップル" },
+      { "en": "iPhone", "ja": "アイフォン" },
+      { "en": "Wozniak", "ja": "ウォズニアック（共同創業者）" },
+      { "en": "Pixar", "ja": "ピクサー" }
+    ],
+    "faq": [
+      { "q": "スティーブ・ジョブズは何をした人？", "a": "アップルを共同創業し、Mac、iPod、iPhone、iPad など数々の革新的製品を主導した起業家です。ピクサーの経営にも関わりました。" },
+      { "q": "Jobs は普通名詞 job と関係ある？", "a": "綴りは同じですが、姓としての Jobs は聖書の人名ヨブ（Job）に由来する固有名詞です。" }
+    ],
+    "quiz": [
+      { "q": "Steve Jobs が創業した会社は？", "A": "マイクロソフト", "B": "アップル", "C": "グーグル", "D": "アマゾン", "correct": "B" },
+      { "q": "Jobs が2007年に発表した製品は？", "A": "iPad", "B": "iPhone", "C": "Apple Watch", "D": "iMac", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Jinan",
+    "pron": "dʒiˈnɑːn",
+    "kana": "ヂーナン",
+    "hinshi": "固有名詞（都市）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "中国語「済南（済水の南）」より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "地理・中国"],
+    "meaning_main": "済南（中国山東省の省都・泉の都）",
+    "description": "Jinan（ヂーナン／済南）は中国山東省の省都。市内に多くの湧き水があり「泉城（泉の都）」と呼ばれる歴史都市です。",
+    "keywords": ["Jinan 意味", "済南 山東省", "泉城 済南", "中国 省都"],
+    "meanings": [
+      { "hinshi": "【固有名詞】済南（チーナン）", "note": "中国山東省の省都。黄河の南に位置する。" },
+      { "hinshi": "【固有名詞】泉城", "note": "湧き水が豊富で「泉の都」と呼ばれる。趵突泉が有名。" }
+    ],
+    "usages": [
+      { "title": "① 山東省の省都", "desc": "都市そのものを指す。", "example_en": "Jinan is the capital of Shandong Province.", "example_ja": "済南は山東省の省都だ。" },
+      { "title": "② 泉の都としての言及", "desc": "湧き水で知られる。", "example_en": "Jinan is famous for its natural springs.", "example_ja": "済南は天然の泉で有名だ。" }
+    ],
+    "warn": ["山東省の省都は済南だが、経済規模で有名な港湾都市・青島（チンタオ）と混同しやすい。"],
+    "etym_note": "古代の河川「済水」の南に位置することから「済南」と名付けられました。地下水が豊富で、市内には多数の名泉があります。",
+    "etym_chain": [
+      { "node": "済水 + 南", "sub": "川の南", "era": "古代中国" },
+      { "node": "済南 / Jinan", "sub": "都市名", "era": "現代" }
+    ],
+    "phrases": [
+      { "en": "the city of Jinan", "ja": "済南市" },
+      { "en": "Jinan, Shandong", "ja": "山東省済南" },
+      { "en": "the springs of Jinan", "ja": "済南の泉" },
+      { "en": "Baotu Spring in Jinan", "ja": "済南の趵突泉" },
+      { "en": "capital of Shandong", "ja": "山東省の省都" },
+      { "en": "the City of Springs", "ja": "泉城" }
+    ],
+    "related": [
+      { "en": "Shandong", "ja": "山東省" },
+      { "en": "Qingdao", "ja": "青島" },
+      { "en": "Yellow River", "ja": "黄河" },
+      { "en": "China", "ja": "中国" }
+    ],
+    "faq": [
+      { "q": "済南はどの省の省都？", "a": "山東省の省都です。黄河の南に位置する歴史都市です。" },
+      { "q": "済南が「泉城」と呼ばれる理由は？", "a": "地下水が豊富で市内に多くの湧き水があるためです。趵突泉（ほうとつせん）が特に有名です。" }
+    ],
+    "quiz": [
+      { "q": "Jinan はどの省の省都？", "A": "河北省", "B": "山東省", "C": "江蘇省", "D": "河南省", "correct": "B" },
+      { "q": "済南の別名は？", "A": "氷城", "B": "泉城", "C": "山城", "D": "花城", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Johor",
+    "pron": "dʒoʊˈhɔːr",
+    "kana": "ヂョホール",
+    "hinshi": "固有名詞（地名）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "アラビア語 jauhar（宝石）に由来する説",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "地理・東南アジア"],
+    "meaning_main": "ジョホール州（マレー半島南端；シンガポールの対岸）",
+    "description": "Johor（ヂョホール）はマレーシア最南端の州で、シンガポールと海峡を挟んで隣接します。州都はジョホールバル。工業と国境往来で栄える地域です。",
+    "keywords": ["Johor 意味", "ジョホール州 マレーシア", "ジョホールバル", "シンガポール 対岸"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ジョホール州", "note": "マレー半島南端のマレーシアの州。州都はジョホールバル。" },
+      { "hinshi": "【固有名詞】ジョホール海峡", "note": "シンガポールとの間を隔てる海峡。橋で結ばれる。" }
+    ],
+    "usages": [
+      { "title": "① マレーシア南部の州", "desc": "行政区画を指す。", "example_en": "Johor is the southernmost state of Peninsular Malaysia.", "example_ja": "ジョホールはマレー半島最南端の州だ。" },
+      { "title": "② シンガポールとの結節点", "desc": "国境往来の文脈で登場する。", "example_en": "Many people commute from Johor to Singapore daily.", "example_ja": "多くの人が毎日ジョホールからシンガポールへ通勤する。" }
+    ],
+    "warn": ["州都ジョホールバル（Johor Bahru、略称JB）と州名を区別する。シンガポールとは橋（コーズウェイ）で結ばれる。"],
+    "etym_note": "アラビア語 jauhar（宝石・本質）に由来するとする説があります。かつてはジョホール王国（スルタン国）の中心として栄えました。",
+    "etym_chain": [
+      { "node": "jauhar", "sub": "宝石（諸説）", "era": "アラビア語" },
+      { "node": "Johor", "sub": "州名", "era": "現代" }
+    ],
+    "phrases": [
+      { "en": "the state of Johor", "ja": "ジョホール州" },
+      { "en": "Johor Bahru", "ja": "ジョホールバル（州都）" },
+      { "en": "the Johor Strait", "ja": "ジョホール海峡" },
+      { "en": "cross into Johor", "ja": "ジョホールへ渡る" },
+      { "en": "southern Johor", "ja": "ジョホール南部" },
+      { "en": "the Sultan of Johor", "ja": "ジョホールのスルタン" }
+    ],
+    "related": [
+      { "en": "Malaysia", "ja": "マレーシア" },
+      { "en": "Singapore", "ja": "シンガポール" },
+      { "en": "Johor Bahru", "ja": "ジョホールバル" },
+      { "en": "peninsula", "ja": "半島" }
+    ],
+    "faq": [
+      { "q": "ジョホールはどこにある？", "a": "マレー半島の最南端にあるマレーシアの州で、海峡を挟んでシンガポールと隣接しています。" },
+      { "q": "ジョホールバルとの違いは？", "a": "ジョホールは州の名前、ジョホールバル（JB）はその州都の都市名です。" }
+    ],
+    "quiz": [
+      { "q": "Johor はどの国の州？", "A": "インドネシア", "B": "マレーシア", "C": "タイ", "D": "ブルネイ", "correct": "B" },
+      { "q": "Johor が海峡を挟んで隣接する国は？", "A": "ベトナム", "B": "シンガポール", "C": "フィリピン", "D": "カンボジア", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Jilin",
+    "pron": "dʒiˈlɪn",
+    "kana": "ヂーリン",
+    "hinshi": "固有名詞（地名）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "満洲語 girin ula（川沿いの意）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "地理・中国"],
+    "meaning_main": "吉林省（中国東北部の省）／吉林市",
+    "description": "Jilin（ヂーリン／吉林）は中国東北部の省。省都は長春で、朝鮮・ロシアと国境を接し、白頭山（長白山）や自動車産業で知られます。同名の都市もあります。",
+    "keywords": ["Jilin 意味", "吉林省 中国東北", "長春 省都", "長白山 吉林"],
+    "meanings": [
+      { "hinshi": "【固有名詞】吉林省", "note": "中国東北部の省。省都は長春。朝鮮・ロシアと国境を接する。" },
+      { "hinshi": "【固有名詞】吉林市", "note": "省内にある同名の都市。省都ではない点に注意。" }
+    ],
+    "usages": [
+      { "title": "① 中国東北部の省", "desc": "行政区画を指す。", "example_en": "Jilin is a province in northeastern China.", "example_ja": "吉林は中国東北部の省だ。" },
+      { "title": "② 国境・自然の文脈", "desc": "白頭山や国境地帯として語られる。", "example_en": "Changbai Mountain lies on the border of Jilin.", "example_ja": "長白山（白頭山）は吉林の国境に位置する。" }
+    ],
+    "warn": ["省名の「吉林省」と、その中の都市「吉林市」は別。省都は長春（Changchun）で吉林市ではない。"],
+    "etym_note": "満洲語の girin ula（「川沿い」の意）に由来するとされ、松花江のほとりに開けた地であることにちなみます。旧満洲（中国東北）の中核をなす省の一つです。",
+    "etym_chain": [
+      { "node": "girin ula", "sub": "川沿い", "era": "満洲語" },
+      { "node": "吉林 / Jilin", "sub": "地名", "era": "現代" }
+    ],
+    "phrases": [
+      { "en": "Jilin Province", "ja": "吉林省" },
+      { "en": "Changchun, capital of Jilin", "ja": "吉林省都の長春" },
+      { "en": "Jilin City", "ja": "吉林市" },
+      { "en": "Changbai Mountain in Jilin", "ja": "吉林の長白山" },
+      { "en": "northeastern China", "ja": "中国東北部" },
+      { "en": "the border of Jilin", "ja": "吉林の国境" }
+    ],
+    "related": [
+      { "en": "Changchun", "ja": "長春（省都）" },
+      { "en": "Manchuria", "ja": "満洲（中国東北）" },
+      { "en": "Changbai Mountain", "ja": "長白山（白頭山）" },
+      { "en": "China", "ja": "中国" }
+    ],
+    "faq": [
+      { "q": "吉林省の省都は？", "a": "長春（Changchun）です。吉林市が省都ではない点に注意が必要です。" },
+      { "q": "吉林省の地理的特徴は？", "a": "中国東北部に位置し、北朝鮮・ロシアと国境を接します。長白山（白頭山）や松花江が有名です。" }
+    ],
+    "quiz": [
+      { "q": "Jilin はどの地方の省？", "A": "中国南部", "B": "中国東北部", "C": "中国西部", "D": "中国中部", "correct": "B" },
+      { "q": "吉林省の省都は？", "A": "吉林市", "B": "長春", "C": "瀋陽", "D": "ハルビン", "correct": "B" }
+    ]
+  }
+]
