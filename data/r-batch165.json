@@ -1,0 +1,525 @@
+[
+  {
+    "english": "recommencement",
+    "pron": "ˌriːkəˈmɛnsmənt",
+    "kana": "リコメンスメント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ commencement（開始）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "フォーマル・一般"],
+    "meaning_main": "再開・再び始めること",
+    "description": "recommencement の意味・発音・例文・語源を解説。中断していた活動などを「再開すること・再び始めること」という、ややフォーマルな文脈で使う語の使い方を紹介します。動詞 recommence も解説。",
+    "keywords": ["recommencement 意味", "recommencement 発音", "再開", "recommence 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再開・再び始めること", "note": "いったん止まった活動・作業・交渉などを再び始めること。the recommencement of talks（交渉の再開）。ややフォーマル。動詞は recommence。" }
+    ],
+    "usages": [
+      { "title": "① 「交渉の再開」として", "desc": "中断後の再スタートを表します。", "example_en": "Both sides welcomed the recommencement of talks.", "example_ja": "両者は交渉の再開を歓迎した。" },
+      { "title": "② 「作業の再開」として", "desc": "活動の再始動を表します。", "example_en": "The recommencement of work was delayed by bad weather.", "example_ja": "作業の再開は悪天候で遅れた。" }
+    ],
+    "warn": [
+      "recommencement は『再開・再び始めること』。re-（再び）＋ commencement。動詞は recommence。ややフォーマル。",
+      "米国では commencement は『卒業式』の意味もあるが、recommencement は主に『再開』。"
+    ],
+    "etym_note": "re-（再び）＋ commencement（commence「始める」、古フランス語 comencier、ラテン語 com-＋ initiare「始める」より）から成り、「再び始めること」を意味します。commence（開始する）と同じ語根です。",
+    "etym_chain": [
+      { "node": "comencier", "sub": "始める", "era": "古フランス語" },
+      { "node": "commencement", "sub": "開始", "era": "中英語" },
+      { "node": "recommencement", "sub": "再開", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the recommencement of talks", "ja": "交渉の再開" },
+      { "en": "the recommencement of work", "ja": "作業の再開" },
+      { "en": "await recommencement", "ja": "再開を待つ" },
+      { "en": "the recommencement of hostilities", "ja": "戦闘の再開" },
+      { "en": "delay the recommencement", "ja": "再開を遅らせる" },
+      { "en": "the recommencement of trade", "ja": "貿易の再開" }
+    ],
+    "related": [
+      { "en": "recommence", "ja": "再開する・再び始める" },
+      { "en": "commencement", "ja": "開始・（米）卒業式" },
+      { "en": "resumption", "ja": "再開" },
+      { "en": "restart", "ja": "再開・再起動" }
+    ],
+    "faq": [
+      { "q": "recommencement とはどんな意味？", "a": "いったん止まった活動・作業・交渉などを『再開すること・再び始めること』です。Both sides welcomed the recommencement of talks.（両者は交渉の再開を歓迎した）のように使います。動詞は recommence です。" },
+      { "q": "recommencement と resumption の違いは？", "a": "どちらも『再開』を指しますが、recommencement は『（初めから）再び始めること』、resumption は『（中断した所から）再び続けること』にやや重点があります。resumption の方が一般的です。" }
+    ],
+    "quiz": [
+      { "q": "Both sides welcomed the ___ of talks.（再開）", "A": "recommencement", "B": "recommendation の推薦", "C": "reconciliation の和解", "D": "reimbursement の弁済", "correct": "A" },
+      { "q": "recommencement の動詞形はどれ？", "A": "recommence（再開する）", "B": "recommend（推薦する）", "C": "reconcile（和解させる）", "D": "recover（回復する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reconstitution",
+    "pron": "ˌriːkɒnstɪˈtjuːʃən",
+    "kana": "リコンスティテューション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ constitution（構成・組成）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "科学・組織"],
+    "meaning_main": "再構成・（乾燥物を）水で戻すこと",
+    "description": "reconstitution の意味・発音・例文・語源を解説。組織を「再構成すること」、また乾燥・濃縮された物を水などで「元の状態に戻すこと」という、組織や科学・料理で使う語の使い方を紹介します。",
+    "keywords": ["reconstitution 意味", "reconstitution 発音", "再構成", "水で戻す"],
+    "meanings": [
+      { "hinshi": "【名詞】再構成・再編", "note": "組織・団体などを作り直すこと。the reconstitution of the committee（委員会の再構成）。" },
+      { "hinshi": "【名詞】（乾燥物を）水で戻すこと・復元", "note": "乾燥・濃縮・凍結乾燥された物質を水などで元の状態に戻すこと。reconstitution of powdered milk（粉ミルクを溶いて戻すこと）。動詞は reconstitute。" }
+    ],
+    "usages": [
+      { "title": "① 「組織の再構成」として", "desc": "作り直しを表します。", "example_en": "The reconstitution of the board took several months.", "example_ja": "取締役会の再構成には数か月かかった。" },
+      { "title": "② 「水で戻すこと」として", "desc": "乾燥物の復元を表します。", "example_en": "Reconstitution of the freeze-dried food requires hot water.", "example_ja": "そのフリーズドライ食品を戻すには湯が必要だ。" }
+    ],
+    "warn": [
+      "reconstitution は『再構成・再編／（乾燥物を）水で戻すこと・復元』。re-＋ constitution。動詞は reconstitute。",
+      "薬剤（粉末を溶かして注射液にする）・食品（フリーズドライを戻す）・組織（作り直す）で使う。"
+    ],
+    "etym_note": "re-（再び）＋ constitution（constitute「構成する・設立する」、ラテン語 constituere「立てる・定める」、com-＋ statuere「立てる」より）から成り、「再び構成すること・元に戻すこと」を意味します。statute（法令）や statue（像）と同じ statuere の系統です。",
+    "etym_chain": [
+      { "node": "constituere", "sub": "立てる・定める", "era": "ラテン語" },
+      { "node": "constitution", "sub": "構成・組成", "era": "中英語" },
+      { "node": "reconstitution", "sub": "再構成・復元", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the reconstitution of the board", "ja": "取締役会の再構成" },
+      { "en": "reconstitution of powdered milk", "ja": "粉ミルクを溶いて戻すこと" },
+      { "en": "reconstitution with water", "ja": "水での復元" },
+      { "en": "require reconstitution", "ja": "水で戻す必要がある" },
+      { "en": "reconstitution of a vaccine", "ja": "ワクチンの溶解調製" },
+      { "en": "the reconstitution of the state", "ja": "国家の再構成" }
+    ],
+    "related": [
+      { "en": "reconstitute", "ja": "再構成する・水で戻す" },
+      { "en": "constitution", "ja": "構成・組成・憲法" },
+      { "en": "reconstruction", "ja": "再建・復元" },
+      { "en": "rehydration", "ja": "再水和・水分補給" }
+    ],
+    "faq": [
+      { "q": "reconstitution とはどんな意味？", "a": "組織などを『再構成すること』、また乾燥・濃縮された物を水などで『元の状態に戻すこと（復元）』です。The reconstitution of the board took months.（取締役会の再構成に数か月かかった）/ reconstitution of powdered milk（粉ミルクを溶いて戻すこと）のように使います。動詞は reconstitute です。" },
+      { "q": "薬や食品の reconstitution とは？", "a": "粉末の薬を水や生理食塩水に溶かして注射液にしたり、フリーズドライ食品を湯で戻したりするなど、乾燥・濃縮された物を使える状態に戻すことを指します。" }
+    ],
+    "quiz": [
+      { "q": "___ of the freeze-dried food requires hot water.（水で戻すこと）", "A": "Reconstitution", "B": "Constitution の憲法", "C": "Substitution の代用", "D": "Institution の制度", "correct": "A" },
+      { "q": "reconstitution の動詞形はどれ？", "A": "reconstitute（再構成する・水で戻す）", "B": "constitute の最初に構成するだけ", "C": "substitute（代用する）", "D": "institute（設立する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reconversion",
+    "pron": "ˌriːkənˈvɜːʃən",
+    "kana": "リコンバージョン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ conversion（転換・変換）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "経済・歴史"],
+    "meaning_main": "再転換・（戦時経済などの）平時への切り替え",
+    "description": "reconversion の意味・発音・例文・語源を解説。元の用途・状態に「再び転換すること」、特に戦時経済を平時の生産へ「切り替えること」という、経済や歴史で使う語の使い方を紹介します。",
+    "keywords": ["reconversion 意味", "reconversion 発音", "再転換", "conversion 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再転換・（元の用途への）切り替え", "note": "一度転換したものを元（や別）の用途・状態に再び変えること。特に、戦時の軍需生産を平時の民生生産へ切り替えること（postwar reconversion）。動詞は reconvert。" }
+    ],
+    "usages": [
+      { "title": "① 「平時への切り替え」として", "desc": "戦時経済の転換を表します。", "example_en": "Postwar reconversion shifted factories back to civilian goods.", "example_ja": "戦後の再転換は工場を民生品の生産へ戻した。" },
+      { "title": "② 「用途の再転換」として", "desc": "元の用途への転換を表します。", "example_en": "The reconversion of the building into offices took a year.", "example_ja": "その建物のオフィスへの再転換には1年かかった。" }
+    ],
+    "warn": [
+      "reconversion は『再転換・（元の用途への）切り替え』。re-＋ conversion。動詞は reconvert。",
+      "特に第二次大戦後の『戦時経済から平時経済への転換（reconversion）』という歴史・経済用語として有名。"
+    ],
+    "etym_note": "re-（再び）＋ conversion（convert「転換する」、ラテン語 convertere「向きを変える」、com-＋ vertere「回す」より）から成り、「再び転換すること」を意味します。convert（転換する）や version（版）と同じ vertere の系統です。",
+    "etym_chain": [
+      { "node": "convertere", "sub": "向きを変える", "era": "ラテン語" },
+      { "node": "conversion", "sub": "転換・変換", "era": "中英語" },
+      { "node": "reconversion", "sub": "再転換・切り替え", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "postwar reconversion", "ja": "戦後の再転換" },
+      { "en": "economic reconversion", "ja": "経済の再転換" },
+      { "en": "reconversion to civilian production", "ja": "民生生産への切り替え" },
+      { "en": "the reconversion of factories", "ja": "工場の再転換" },
+      { "en": "industrial reconversion", "ja": "産業の再転換" },
+      { "en": "reconversion of the building", "ja": "建物の用途の再転換" }
+    ],
+    "related": [
+      { "en": "reconvert", "ja": "再転換する" },
+      { "en": "conversion", "ja": "転換・変換" },
+      { "en": "transition", "ja": "移行・転換" },
+      { "en": "demobilization", "ja": "動員解除・復員" }
+    ],
+    "faq": [
+      { "q": "reconversion とはどんな意味？", "a": "一度転換したものを元（や別）の用途・状態に『再び転換すること』です。特に戦時の軍需生産を平時の民生生産へ『切り替えること』を指します。Postwar reconversion shifted factories back to civilian goods.（戦後の再転換は工場を民生品生産へ戻した）のように使います。動詞は reconvert です。" },
+      { "q": "歴史での reconversion とは？", "a": "第二次世界大戦後、戦争のために軍需品を作っていた経済・工場を、平時の民生品生産へ切り替えたことを指す代表的な用法です（postwar reconversion）。" }
+    ],
+    "quiz": [
+      { "q": "Postwar ___ shifted factories back to civilian goods.（再転換）", "A": "reconversion", "B": "conversation の会話", "C": "reservation の予約", "D": "reservation の同音 observation（観察）", "correct": "A" },
+      { "q": "reconversion のもとになった conversion の意味はどれ？", "A": "転換・変換", "B": "会話", "C": "予約", "D": "保存", "correct": "A" }
+    ]
+  },
+  {
+    "english": "redecoration",
+    "pron": "ˌriːdɛkəˈreɪʃən",
+    "kana": "リデコレイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ decoration（装飾）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "住まい・生活"],
+    "meaning_main": "模様替え・内装のやり直し",
+    "description": "redecoration の意味・発音・例文・語源を解説。部屋や家の「模様替え・内装のやり直し・改装」という、住まいや生活で使う語の使い方を紹介します。動詞 redecorate も解説。",
+    "keywords": ["redecoration 意味", "redecoration 発音", "模様替え", "redecorate 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】模様替え・内装のやり直し", "note": "部屋や家の壁紙・塗装・家具などを新しくすること。need redecoration（模様替えが必要だ）。動詞は redecorate。英国では壁の塗り替え・壁紙の貼り替えを指すことが多い。" }
+    ],
+    "usages": [
+      { "title": "① 「模様替え」として", "desc": "内装の刷新を表します。", "example_en": "The living room is in need of redecoration.", "example_ja": "リビングは模様替えが必要だ。" },
+      { "title": "② 「改装」として", "desc": "内装のやり直しを表します。", "example_en": "The redecoration of the office brightened the space.", "example_ja": "オフィスの改装で空間が明るくなった。" }
+    ],
+    "warn": [
+      "redecoration は『模様替え・内装のやり直し』。re-＋ decoration。動詞は redecorate。",
+      "構造を含む大規模改修 renovation より軽い、見た目・内装の刷新を指す。"
+    ],
+    "etym_note": "re-（再び）＋ decoration（decorate「飾る」、ラテン語 decorare「飾る」、decus「飾り・名誉」より）から成り、「再び飾ること」を意味します。decent（きちんとした）と同じ語根です。",
+    "etym_chain": [
+      { "node": "decorare", "sub": "飾る", "era": "ラテン語" },
+      { "node": "decoration", "sub": "装飾", "era": "近代英語" },
+      { "node": "redecoration", "sub": "模様替え・改装", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "need redecoration", "ja": "模様替えが必要だ" },
+      { "en": "the redecoration of the room", "ja": "部屋の模様替え" },
+      { "en": "a complete redecoration", "ja": "全面的な模様替え" },
+      { "en": "in need of redecoration", "ja": "改装が必要な" },
+      { "en": "redecoration of the office", "ja": "オフィスの改装" },
+      { "en": "after the redecoration", "ja": "模様替えのあと" }
+    ],
+    "related": [
+      { "en": "redecorate", "ja": "模様替えする" },
+      { "en": "decoration", "ja": "装飾" },
+      { "en": "renovation", "ja": "改修" },
+      { "en": "refurbishment", "ja": "改装・一新" }
+    ],
+    "faq": [
+      { "q": "redecoration とはどんな意味？", "a": "部屋や家の壁紙・塗装・家具などを新しくすること『模様替え・内装のやり直し・改装』です。The living room is in need of redecoration.（リビングは模様替えが必要だ）のように使います。動詞は redecorate です。" },
+      { "q": "redecoration と renovation の違いは？", "a": "redecoration は壁紙・塗装など『内装の見た目を新しくすること』、renovation は構造を含む『大規模な改修』です。redecoration の方が軽い変更を指します。" }
+    ],
+    "quiz": [
+      { "q": "The living room is in need of ___.（模様替え）", "A": "redecoration", "B": "recreation の娯楽", "C": "declaration の宣言", "D": "decoration の最初の装飾だけ", "correct": "A" },
+      { "q": "redecoration の動詞形はどれ？", "A": "redecorate（模様替えする）", "B": "declare（宣言する）", "C": "dedicate（捧げる）", "D": "decorate の最初に飾るだけ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reestablishment",
+    "pron": "ˌriːɪˈstæblɪʃmənt",
+    "kana": "リエスタブリッシュメント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ establishment（確立・設立）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "政治・一般"],
+    "meaning_main": "再確立・再建・（関係などの）復活",
+    "description": "reestablishment の意味・発音・例文・語源を解説。制度・関係・秩序などを「再び確立すること・再建・復活」という、政治や一般で使う語の使い方を紹介します。動詞 reestablish も解説。",
+    "keywords": ["reestablishment 意味", "reestablishment 発音", "再確立", "reestablish 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再確立・再建・復活", "note": "いったん失われた制度・秩序・関係・組織などを再び築き上げること。the reestablishment of order（秩序の回復）。動詞は reestablish。re-establishment とも綴る。" }
+    ],
+    "usages": [
+      { "title": "① 「秩序の回復」として", "desc": "再び確立することを表します。", "example_en": "The treaty led to the reestablishment of peace.", "example_ja": "その条約は平和の再確立につながった。" },
+      { "title": "② 「関係の復活」として", "desc": "関係の再構築を表します。", "example_en": "They worked toward the reestablishment of diplomatic ties.", "example_ja": "彼らは外交関係の復活に向けて努力した。" }
+    ],
+    "warn": [
+      "reestablishment は『再確立・再建・復活』。re-＋ establishment。動詞は reestablish。re-establishment とも綴る。",
+      "制度・秩序・関係・組織などを『再び築くこと』を広く指す。"
+    ],
+    "etym_note": "re-（再び）＋ establishment（establish「確立する・設立する」、古フランス語 establir、ラテン語 stabilire「安定させる」、stabilis「安定した」より）から成り、「再び確立すること」を意味します。stable（安定した）と同じ語根です。",
+    "etym_chain": [
+      { "node": "stabilire", "sub": "安定させる", "era": "ラテン語" },
+      { "node": "establishment", "sub": "確立・設立", "era": "中英語" },
+      { "node": "reestablishment", "sub": "再確立・再建", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the reestablishment of order", "ja": "秩序の回復" },
+      { "en": "the reestablishment of peace", "ja": "平和の再確立" },
+      { "en": "reestablishment of ties", "ja": "関係の復活" },
+      { "en": "the reestablishment of democracy", "ja": "民主主義の再建" },
+      { "en": "work toward reestablishment", "ja": "再確立に向けて努力する" },
+      { "en": "reestablishment of trust", "ja": "信頼の再構築" }
+    ],
+    "related": [
+      { "en": "reestablish", "ja": "再確立する・再建する" },
+      { "en": "establishment", "ja": "確立・設立" },
+      { "en": "restoration", "ja": "回復・復元" },
+      { "en": "revival", "ja": "復活・再生" }
+    ],
+    "faq": [
+      { "q": "reestablishment とはどんな意味？", "a": "いったん失われた制度・秩序・関係・組織などを『再び確立すること（再確立・再建・復活）』です。The treaty led to the reestablishment of peace.（条約は平和の再確立につながった）のように使います。動詞は reestablish です。" },
+      { "q": "reestablishment と restoration の違いは？", "a": "restoration は『（元の状態への）回復・復元』全般、reestablishment は『（制度・関係・秩序などを）改めて築き直すこと』に重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The treaty led to the ___ of peace.（再確立）", "A": "reestablishment", "B": "establishment の最初の確立だけ", "C": "embarrassment の当惑", "D": "entertainment の娯楽", "correct": "A" },
+      { "q": "reestablishment の動詞形はどれ？", "A": "reestablish（再確立する）", "B": "embarrass（当惑させる）", "C": "entertain（楽しませる）", "D": "establish の最初に確立するだけ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reformulation",
+    "pron": "ˌriːfɔːmjʊˈleɪʃən",
+    "kana": "リフォーミュレイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ formulation（定式化・調合）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "学術・製品"],
+    "meaning_main": "練り直し・言い直し・（成分の）配合し直し",
+    "description": "reformulation の意味・発音・例文・語源を解説。考え・理論・文を「練り直す・言い直すこと」、また製品の成分を「配合し直すこと」という、学術や製品開発で使う語の使い方を紹介します。",
+    "keywords": ["reformulation 意味", "reformulation 発音", "練り直し", "reformulate 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】練り直し・言い直し・定式化し直し", "note": "考え・理論・方針・文などを新しい形に組み立て直すこと。a reformulation of the theory（理論の練り直し）。" },
+      { "hinshi": "【名詞】（成分の）配合し直し・改良", "note": "薬・食品・製品の成分・処方を作り直すこと。動詞は reformulate。" }
+    ],
+    "usages": [
+      { "title": "① 「理論の練り直し」として", "desc": "考えの組み立て直しを表します。", "example_en": "The paper offers a reformulation of the old theory.", "example_ja": "その論文は古い理論の練り直しを提示している。" },
+      { "title": "② 「製品の配合し直し」として", "desc": "成分の改良を表します。", "example_en": "The reformulation reduced the sugar content.", "example_ja": "その配合し直しで糖分が減らされた。" }
+    ],
+    "warn": [
+      "reformulation は『練り直し・言い直し・（成分の）配合し直し』。re-＋ formulation。動詞は reformulate。",
+      "考え・理論・方針の『組み立て直し』にも、薬・食品・製品の『成分の作り直し』にも使う。"
+    ],
+    "etym_note": "re-（再び）＋ formulation（formulate「定式化する・処方する」、formula「公式・処方」、ラテン語 forma「形」の指小形より）から成り、「再び形にすること」を意味します。form（形）や formula（公式）と同じ語根です。",
+    "etym_chain": [
+      { "node": "formula", "sub": "公式・処方", "era": "ラテン語" },
+      { "node": "formulation", "sub": "定式化・調合", "era": "近代英語" },
+      { "node": "reformulation", "sub": "練り直し・配合し直し", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a reformulation of the theory", "ja": "理論の練り直し" },
+      { "en": "reformulation of the policy", "ja": "方針の練り直し" },
+      { "en": "product reformulation", "ja": "製品の配合し直し" },
+      { "en": "a reformulation of the question", "ja": "問いの立て直し" },
+      { "en": "require reformulation", "ja": "練り直しを要する" },
+      { "en": "reformulation to reduce sugar", "ja": "糖分を減らす配合し直し" }
+    ],
+    "related": [
+      { "en": "reformulate", "ja": "練り直す・配合し直す" },
+      { "en": "formulation", "ja": "定式化・調合" },
+      { "en": "revision", "ja": "改訂・見直し" },
+      { "en": "rephrasing", "ja": "言い換え" }
+    ],
+    "faq": [
+      { "q": "reformulation とはどんな意味？", "a": "考え・理論・文を『練り直す・言い直すこと』、また薬・食品・製品の成分を『配合し直すこと』です。The paper offers a reformulation of the old theory.（古い理論の練り直しを提示している）/ product reformulation（製品の配合し直し）のように使います。動詞は reformulate です。" },
+      { "q": "製品の reformulation とは？", "a": "薬・食品・化粧品などの成分・処方を作り直すことです。例えば糖分・塩分を減らしたり、成分を改良したりする際に reformulation と言います。" }
+    ],
+    "quiz": [
+      { "q": "The paper offers a ___ of the old theory.（練り直し）", "A": "reformulation", "B": "reformation の改革", "C": "information の情報", "D": "reservation の予約", "correct": "A" },
+      { "q": "reformulation の動詞形はどれ？", "A": "reformulate（練り直す・配合し直す）", "B": "reform の改革するだけ", "C": "inform（知らせる）", "D": "reserve（予約する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reinstallation",
+    "pron": "ˌriːɪnstəˈleɪʃən",
+    "kana": "リインストレイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ installation（設置・インストール）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "IT・設備"],
+    "meaning_main": "再インストール・再設置",
+    "description": "reinstallation の意味・発音・例文・語源を解説。ソフトを「再インストールすること」、機器を「再び設置すること」という、ITや設備で使う語の使い方を紹介します。動詞 reinstall も解説。",
+    "keywords": ["reinstallation 意味", "reinstallation 発音", "再インストール", "reinstall 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再インストール・再設置", "note": "ソフトウェアを削除して改めて入れ直すこと、また機器・設備を再び取り付けること。reinstallation of the software（ソフトの再インストール）。動詞は reinstall。" }
+    ],
+    "usages": [
+      { "title": "① IT「再インストール」として", "desc": "ソフトの入れ直しを表します。", "example_en": "A clean reinstallation of the operating system fixed the problem.", "example_ja": "OSのクリーン再インストールで問題が直った。" },
+      { "title": "② 「設備の再設置」として", "desc": "機器の取り付け直しを表します。", "example_en": "The reinstallation of the equipment took two days.", "example_ja": "その機器の再設置には2日かかった。" }
+    ],
+    "warn": [
+      "reinstallation は『再インストール・再設置』。re-＋ installation。動詞は reinstall。",
+      "IT（ソフトの入れ直し）や設備・機器の『再設置』で使う。役職への『復職』は reinstatement（別語）。"
+    ],
+    "etym_note": "re-（再び）＋ installation（install「設置する・（役職に）就ける」、中世ラテン語 installare、stallum「座席・馬房」より）から成り、「再び設置すること」を意味します。stall（馬房・売り台）と同じ語根です。",
+    "etym_chain": [
+      { "node": "installare", "sub": "座席に据える・設置する", "era": "中世ラテン語" },
+      { "node": "installation", "sub": "設置・インストール", "era": "近代英語" },
+      { "node": "reinstallation", "sub": "再インストール・再設置", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reinstallation of the software", "ja": "ソフトの再インストール" },
+      { "en": "a clean reinstallation", "ja": "クリーン再インストール" },
+      { "en": "require reinstallation", "ja": "再インストールを要する" },
+      { "en": "reinstallation of the system", "ja": "システムの再インストール" },
+      { "en": "reinstallation of the equipment", "ja": "機器の再設置" },
+      { "en": "after reinstallation", "ja": "再インストールのあと" }
+    ],
+    "related": [
+      { "en": "reinstall", "ja": "再インストールする・再設置する" },
+      { "en": "installation", "ja": "設置・インストール" },
+      { "en": "reinstatement", "ja": "復職・復元" },
+      { "en": "setup", "ja": "設定・セットアップ" }
+    ],
+    "faq": [
+      { "q": "reinstallation とはどんな意味？", "a": "ソフトウェアを削除して改めて入れ直すこと『再インストール』、また機器・設備を再び取り付けること『再設置』です。A clean reinstallation of the OS fixed the problem.（OSのクリーン再インストールで問題が直った）のように使います。動詞は reinstall です。" },
+      { "q": "reinstallation と reinstatement の違いは？", "a": "reinstallation は『（ソフト・機器を）再び設置・インストールすること』、reinstatement は『（人を）役職・地位に戻すこと（復職）』です。似ていますが対象が異なります。" }
+    ],
+    "quiz": [
+      { "q": "A clean ___ of the operating system fixed the problem.（再インストール）", "A": "reinstallation", "B": "installment の分割払い", "C": "constellation の星座", "D": "cancellation の取り消し", "correct": "A" },
+      { "q": "reinstallation の動詞形はどれ？", "A": "reinstall（再インストールする）", "B": "install の最初にインストールするだけ", "C": "instill（教え込む）", "D": "cancel（取り消す）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reintroduction",
+    "pron": "ˌriːɪntrəˈdʌkʃən",
+    "kana": "リイントロダクション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ introduction（導入・紹介）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "環境・一般"],
+    "meaning_main": "再導入・（生物の）再導入・再び取り入れること",
+    "description": "reintroduction の意味・発音・例文・語源を解説。制度や製品を「再び取り入れること」、また絶滅危惧種などを元の生息地に「再導入すること」という、環境や一般で使う語の使い方を紹介します。",
+    "keywords": ["reintroduction 意味", "reintroduction 発音", "再導入", "reintroduce 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再導入・再び取り入れること", "note": "廃止・中止した制度・製品・慣行などを再び取り入れること。the reintroduction of the tax（その税の再導入）。" },
+      { "hinshi": "【名詞】（生物の）再導入", "note": "いなくなった動植物を元の生息地に再び放して定着させること。the reintroduction of wolves（オオカミの再導入）。動詞は reintroduce。" }
+    ],
+    "usages": [
+      { "title": "① 「制度の再導入」として", "desc": "廃止後の再採用を表します。", "example_en": "The reintroduction of the toll sparked protests.", "example_ja": "通行料の再導入は抗議を引き起こした。" },
+      { "title": "② 環境「種の再導入」として", "desc": "生物の再放流を表します。", "example_en": "The reintroduction of beavers restored the wetland.", "example_ja": "ビーバーの再導入が湿地を回復させた。" }
+    ],
+    "warn": [
+      "reintroduction は『再導入・（生物の）再導入・再び取り入れること』。re-＋ introduction。動詞は reintroduce。",
+      "制度・製品の再導入のほか、環境保全での『絶滅・消失した種の再導入』が重要な用法。"
+    ],
+    "etym_note": "re-（再び）＋ introduction（introduce「導入する・紹介する」、ラテン語 introducere「中へ導く」、intro-（中へ）＋ ducere「導く」より）から成り、「再び中へ導き入れること」を意味します。produce（生み出す）や conduct（導く）と同じ ducere の系統です。",
+    "etym_chain": [
+      { "node": "introducere", "sub": "中へ導く", "era": "ラテン語" },
+      { "node": "introduction", "sub": "導入・紹介", "era": "中英語" },
+      { "node": "reintroduction", "sub": "再導入", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the reintroduction of the tax", "ja": "その税の再導入" },
+      { "en": "the reintroduction of wolves", "ja": "オオカミの再導入" },
+      { "en": "reintroduction into the wild", "ja": "野生への再導入" },
+      { "en": "a reintroduction program", "ja": "再導入プログラム" },
+      { "en": "reintroduction of the policy", "ja": "その政策の再導入" },
+      { "en": "species reintroduction", "ja": "種の再導入" }
+    ],
+    "related": [
+      { "en": "reintroduce", "ja": "再導入する・再び取り入れる" },
+      { "en": "introduction", "ja": "導入・紹介" },
+      { "en": "rewilding", "ja": "再野生化・野生復元" },
+      { "en": "conservation", "ja": "保全・保護" }
+    ],
+    "faq": [
+      { "q": "reintroduction とはどんな意味？", "a": "廃止・中止した制度・製品を『再び取り入れること』、また絶滅・消失した動植物を元の生息地に『再導入すること』です。the reintroduction of wolves（オオカミの再導入）のように使います。動詞は reintroduce です。" },
+      { "q": "環境保全での reintroduction とは？", "a": "その地域からいなくなった動植物を再び放して定着させ、生態系を回復させる取り組みです。オオカミやビーバーの再導入などが有名で、rewilding（再野生化）と関連します。" }
+    ],
+    "quiz": [
+      { "q": "The ___ of beavers restored the wetland.（再導入）", "A": "reintroduction", "B": "introduction の最初の導入だけ", "C": "instruction の指示", "D": "reproduction の複製", "correct": "A" },
+      { "q": "reintroduction の動詞形はどれ？", "A": "reintroduce（再導入する）", "B": "introduce の最初に導入するだけ", "C": "instruct（指示する）", "D": "reproduce（複製する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "renomination",
+    "pron": "riːˌnɒmɪˈneɪʃən",
+    "kana": "リノミネイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ nomination（指名・推薦）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "政治・選挙"],
+    "meaning_main": "再指名・再び候補に立てること",
+    "description": "renomination の意味・発音・例文・語源を解説。候補者や現職者を「再び指名すること・再指名」という、政治や選挙で使う語の使い方を紹介します。動詞 renominate も解説。",
+    "keywords": ["renomination 意味", "renomination 発音", "再指名", "renominate 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再指名・再び候補に立てること", "note": "現職者などを再び候補・候補者として指名すること。secure the renomination（再指名を確実にする）。動詞は renominate。選挙・任命・受賞候補などで使う。" }
+    ],
+    "usages": [
+      { "title": "① 「候補者の再指名」として", "desc": "再び候補に立てることを表します。", "example_en": "The president easily won renomination.", "example_ja": "大統領は難なく再指名を勝ち取った。" },
+      { "title": "② 「再指名を争う」として", "desc": "候補の座を巡る争いを表します。", "example_en": "She faced a challenge for the party's renomination.", "example_ja": "彼女は党の再指名を巡って対抗馬に挑まれた。" }
+    ],
+    "warn": [
+      "renomination は『再指名・再び候補に立てること』。re-＋ nomination。動詞は renominate。",
+      "選挙で再び選ばれる reelection（再選）とは段階が異なり、renomination は『（選挙の前に）再び候補として指名されること』。"
+    ],
+    "etym_note": "re-（再び）＋ nomination（nominate「指名する」、ラテン語 nominare「名づける」、nomen「名前」より）から成り、「再び名指しすること」を意味します。name（名前）や noun（名詞）と同じ nomen の系統です。",
+    "etym_chain": [
+      { "node": "nominare", "sub": "名づける・指名する", "era": "ラテン語" },
+      { "node": "nomination", "sub": "指名・推薦", "era": "中英語" },
+      { "node": "renomination", "sub": "再指名", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "win renomination", "ja": "再指名を勝ち取る" },
+      { "en": "secure the renomination", "ja": "再指名を確実にする" },
+      { "en": "seek renomination", "ja": "再指名を目指す" },
+      { "en": "a challenge for the renomination", "ja": "再指名を巡る挑戦" },
+      { "en": "the party's renomination", "ja": "党の再指名" },
+      { "en": "deny renomination", "ja": "再指名を認めない" }
+    ],
+    "related": [
+      { "en": "renominate", "ja": "再指名する" },
+      { "en": "nomination", "ja": "指名・推薦" },
+      { "en": "reelection", "ja": "再選" },
+      { "en": "incumbent", "ja": "現職の（人）" }
+    ],
+    "faq": [
+      { "q": "renomination とはどんな意味？", "a": "候補者や現職者を『再び指名すること・再び候補に立てること（再指名）』です。The president easily won renomination.（大統領は難なく再指名を勝ち取った）のように使います。動詞は renominate です。" },
+      { "q": "renomination と reelection の違いは？", "a": "renomination は『（選挙の前に）再び候補として指名されること』、reelection は『（投票で）再び選ばれること』です。指名 → 選挙という段階の違いがあります。" }
+    ],
+    "quiz": [
+      { "q": "The president easily won ___.（再指名）", "A": "renomination", "B": "denomination の宗派・額面", "C": "domination の支配", "D": "examination の試験", "correct": "A" },
+      { "q": "renomination の動詞形はどれ？", "A": "renominate（再指名する）", "B": "dominate（支配する）", "C": "eliminate（除く）", "D": "examine（調べる）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "repositioning",
+    "pron": "ˌriːpəˈzɪʃənɪŋ",
+    "kana": "リポジショニング",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ positioning（位置づけ）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "ビジネス・マーケ"],
+    "meaning_main": "位置づけの変更・（市場での）再ポジショニング",
+    "description": "repositioning の意味・発音・例文・語源を解説。物の「位置を変えること」、またマーケティングで製品・ブランドの「市場での位置づけを変えること（リポジショニング）」という語の使い方を紹介します。",
+    "keywords": ["repositioning 意味", "repositioning 発音", "リポジショニング", "reposition 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】位置づけの変更・再配置", "note": "物の位置を変えること。また、マーケティングで製品・ブランドの市場での位置づけ（イメージ・ターゲット）を変えること。brand repositioning（ブランドのリポジショニング）。動詞は reposition。" }
+    ],
+    "usages": [
+      { "title": "① マーケ「ブランドの再ポジショニング」として", "desc": "市場での位置づけ変更を表します。", "example_en": "The repositioning of the brand targeted younger customers.", "example_ja": "そのブランドの再ポジショニングは若い客層を狙った。" },
+      { "title": "② 「位置の変更」として", "desc": "物理的な配置換えを表します。", "example_en": "Repositioning of the camera improved the shot.", "example_ja": "カメラの位置変更で構図が良くなった。" }
+    ],
+    "warn": [
+      "repositioning は『位置づけの変更・再配置／（市場での）再ポジショニング』。re-＋ positioning。動詞は reposition。",
+      "マーケティングでは、製品・ブランドの『市場での立ち位置・イメージ・ターゲットを変えること』を指す重要語。"
+    ],
+    "etym_note": "re-（再び）＋ positioning（position「位置・位置づける」、ラテン語 positio「置くこと」、ponere「置く」より）から成り、「再び位置づけること」を意味します。pose（ポーズ）や deposit（預ける）と同じ ponere の系統です。",
+    "etym_chain": [
+      { "node": "ponere", "sub": "置く", "era": "ラテン語" },
+      { "node": "positioning", "sub": "位置づけ", "era": "近代英語" },
+      { "node": "repositioning", "sub": "位置づけの変更・再配置", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "brand repositioning", "ja": "ブランドのリポジショニング" },
+      { "en": "market repositioning", "ja": "市場での再ポジショニング" },
+      { "en": "strategic repositioning", "ja": "戦略的な再ポジショニング" },
+      { "en": "repositioning of the product", "ja": "製品の位置づけ変更" },
+      { "en": "repositioning of the camera", "ja": "カメラの位置変更" },
+      { "en": "a repositioning campaign", "ja": "リポジショニングの宣伝活動" }
+    ],
+    "related": [
+      { "en": "reposition", "ja": "位置を変える・位置づけ直す" },
+      { "en": "positioning", "ja": "位置づけ・ポジショニング" },
+      { "en": "rebranding", "ja": "ブランド再構築" },
+      { "en": "marketing", "ja": "マーケティング" }
+    ],
+    "faq": [
+      { "q": "repositioning とはどんな意味？", "a": "物の『位置を変えること』、またマーケティングで製品・ブランドの『市場での位置づけ（イメージ・ターゲット）を変えること（リポジショニング）』です。The repositioning of the brand targeted younger customers.（ブランドの再ポジショニングは若い客層を狙った）のように使います。動詞は reposition です。" },
+      { "q": "マーケティングの repositioning とは？", "a": "既存の製品・ブランドの市場での立ち位置やイメージ、狙う客層を変えることです。例えば高級路線から手頃路線へ、あるいは新しい世代向けへとブランドの見え方を変える戦略を指します。" }
+    ],
+    "quiz": [
+      { "q": "The ___ of the brand targeted younger customers.（再ポジショニング）", "A": "repositioning", "B": "proposition の提案", "C": "composition の構成", "D": "opposition の反対", "correct": "A" },
+      { "q": "repositioning の動詞形はどれ？", "A": "reposition（位置づけ直す）", "B": "propose（提案する）", "C": "compose（構成する）", "D": "oppose（反対する）", "correct": "A" }
+    ]
+  }
+]

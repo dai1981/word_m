@@ -1,0 +1,503 @@
+[
+  {
+    "english": "koto",
+    "pron": "ˈkoʊtoʊ",
+    "kana": "コウトウ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "日本語「琴（こと)」",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "音楽・文化"],
+    "meaning_main": "琴（日本の伝統的な弦楽器）",
+    "description": "koto は「琴（こと）」を表す名詞。日本の伝統的な弦楽器で、細長い木の胴に13本ほどの弦を張り、爪をはめた指ではじいて演奏します。日本語がそのまま英語になった語です。",
+    "keywords": ["koto 意味", "koto 発音", "koto 琴", "koto 楽器", "koto 例文"],
+    "meanings": [
+      { "hinshi": "【名】琴（こと）", "note": "細長い胴に弦を張った日本の伝統弦楽器。" }
+    ],
+    "usages": [
+      { "title": "① 琴（楽器）", "desc": "指ではじいて演奏。", "example_en": "She played a gentle melody on the koto.", "example_ja": "彼女は琴で穏やかな旋律を奏でた。" },
+      { "title": "② 13本の弦", "desc": "柱で音程を調節。", "example_en": "A koto usually has thirteen strings.", "example_ja": "琴はふつう13本の弦を持つ。" },
+      { "title": "③ 日本の伝統音楽", "desc": "雅楽や邦楽で使う。", "example_en": "The koto is central to traditional Japanese music.", "example_ja": "琴は日本の伝統音楽の中心だ。" }
+    ],
+    "warn": ["日本語「琴」由来。発音は /ˈkoʊtoʊ/。", "指に爪(pick)をはめてはじいて演奏する弦楽器。"],
+    "etym_note": "日本語の「琴（こと）」に由来します。20世紀に日本の伝統音楽が海外に紹介されるとともに、この楽器を指す語として英語に入りました。",
+    "etym_chain": [
+      { "node": "琴 (koto)", "sub": "弦楽器", "era": "日本" },
+      { "node": "koto", "sub": "琴", "era": "20世紀英語" },
+      { "node": "koto", "sub": "琴", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "play the koto", "ja": "琴を弾く" },
+      { "en": "a koto melody", "ja": "琴の旋律" },
+      { "en": "thirteen-string koto", "ja": "13弦の琴" },
+      { "en": "a koto player", "ja": "琴の奏者" },
+      { "en": "the sound of the koto", "ja": "琴の音色" },
+      { "en": "learn the koto", "ja": "琴を習う" }
+    ],
+    "related": [
+      { "en": "harp", "ja": "ハープ" },
+      { "en": "instrument", "ja": "楽器" },
+      { "en": "string", "ja": "弦" },
+      { "en": "Japan", "ja": "日本" }
+    ],
+    "faq": [
+      { "q": "koto とはどんな楽器ですか？", "a": "細長い木の胴に13本ほどの弦を張った日本の伝統的な弦楽器「琴」です。指に爪をはめてはじいて演奏します。" },
+      { "q": "koto の弦は何本ですか？", "a": "一般的には13本です。柱（じ）と呼ばれる可動式の支えを動かして音程を調節します。" }
+    ],
+    "quiz": [
+      { "q": "She performed a traditional piece on the ___.（彼女は琴で伝統的な曲を演奏した）", "A": "koto", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "koto はどこの国の楽器？", "A": "日本", "B": "中国", "C": "韓国", "D": "インド", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kea",
+    "pron": "ˈkiːə",
+    "kana": "キーア",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "マオリ語 kea（鳴き声から)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "動物・鳥"],
+    "meaning_main": "ケア（ニュージーランドの高山に住むオウム）",
+    "description": "kea は「ケア」を表す名詞。ニュージーランドの山岳地帯に住む大型のオウムで、緑色の羽と高い知能で知られます。好奇心が強く、いたずら好きで、道具を使う賢さでも有名な鳥です。",
+    "keywords": ["kea 意味", "kea 発音", "kea ケア オウム", "kea ニュージーランド", "kea 例文"],
+    "meanings": [
+      { "hinshi": "【名】ケア", "note": "ニュージーランド高山に住む知能の高い大型オウム。" }
+    ],
+    "usages": [
+      { "title": "① ケア（鳥）", "desc": "高山にすむオウム。", "example_en": "The kea is a mountain parrot of New Zealand.", "example_ja": "ケアはニュージーランドの高山オウムだ。" },
+      { "title": "② 高い知能", "desc": "道具を使う賢さ。", "example_en": "Keas are known for their intelligence.", "example_ja": "ケアはその知能の高さで知られる。" },
+      { "title": "③ いたずら好き", "desc": "車などをつつく。", "example_en": "Keas often play with objects and cause mischief.", "example_ja": "ケアはよく物で遊び、いたずらをする。" }
+    ],
+    "warn": ["発音は /ˈkiːə/。マオリ語の鳴き声由来。", "ニュージーランド固有の、知能の高い高山オウム。"],
+    "etym_note": "ニュージーランド先住民マオリの言葉 kea に由来し、その鳴き声を模した語だとされます。この鳥を指す名としてそのまま英語に取り入れられました。",
+    "etym_chain": [
+      { "node": "kea", "sub": "鳴き声の語", "era": "マオリ語" },
+      { "node": "kea", "sub": "ケア(オウム)", "era": "19世紀英語" },
+      { "node": "kea", "sub": "ケア", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a mountain kea", "ja": "高山のケア" },
+      { "en": "a clever kea", "ja": "賢いケア" },
+      { "en": "the kea's curiosity", "ja": "ケアの好奇心" },
+      { "en": "a flock of kea", "ja": "ケアの群れ" },
+      { "en": "an alpine parrot", "ja": "高山のオウム" },
+      { "en": "spot a kea", "ja": "ケアを見つける" }
+    ],
+    "related": [
+      { "en": "parrot", "ja": "オウム" },
+      { "en": "New Zealand", "ja": "ニュージーランド" },
+      { "en": "bird", "ja": "鳥" },
+      { "en": "mountain", "ja": "山" }
+    ],
+    "faq": [
+      { "q": "kea とはどんな鳥ですか？", "a": "ニュージーランドの山岳地帯に住む大型のオウムです。緑色の羽を持ち、非常に知能が高く、好奇心が強くていたずら好きなことで知られます。" },
+      { "q": "kea の名前の由来は？", "a": "ニュージーランド先住民マオリの言葉で、その鳴き声を模した kea という語に由来します。" }
+    ],
+    "quiz": [
+      { "q": "The ___ is a clever alpine parrot from New Zealand.（ケアはニュージーランドの賢い高山オウムだ）", "A": "kea", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "kea はどこに生息する鳥？", "A": "ニュージーランド", "B": "カナダ", "C": "エジプト", "D": "日本", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kelpie",
+    "pron": "ˈkelpi",
+    "kana": "ケルピー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "スコットランド・ゲール語 cailpeach（若い馬)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "神話・伝説"],
+    "meaning_main": "ケルピー（スコットランド伝説の水の精霊）",
+    "description": "kelpie は「ケルピー」を表す名詞。スコットランドの伝承に登場する、川や湖に住む馬の姿をした水の精霊です。人を水中に引き込むとされます。また、同名のオーストラリアの牧羊犬の品種もあります。",
+    "keywords": ["kelpie 意味", "kelpie 発音", "kelpie 水の精霊", "kelpie スコットランド", "kelpie 例文"],
+    "meanings": [
+      { "hinshi": "【名】ケルピー（水の精霊）", "note": "スコットランド伝説の馬の姿をした水の精霊。" },
+      { "hinshi": "【名】ケルピー（牧羊犬）", "note": "オーストラリア原産の牧羊犬の品種。" }
+    ],
+    "usages": [
+      { "title": "① 水の精霊（伝説）", "desc": "川や湖にすむ。", "example_en": "The kelpie appeared as a horse by the loch.", "example_ja": "ケルピーは湖のほとりに馬の姿で現れた。" },
+      { "title": "② 人を引き込む", "desc": "危険な精霊とされる。", "example_en": "Legend says a kelpie drags people underwater.", "example_ja": "伝説ではケルピーは人を水中に引きずり込む。" },
+      { "title": "③ 牧羊犬の品種", "desc": "オーストラリアン・ケルピー。", "example_en": "A kelpie is a hardworking herding dog.", "example_ja": "ケルピーはよく働く牧羊犬だ。" }
+    ],
+    "warn": ["発音は /ˈkelpi/。スコットランド伝説の水の精霊、または牧羊犬の品種。", "海藻の kelp とは無関係。"],
+    "etym_note": "スコットランド・ゲール語 cailpeach（若い馬・雄牛）に由来するとされます。スコットランドの水辺の伝承に登場する馬の精霊を指す語として英語に入りました。",
+    "etym_chain": [
+      { "node": "cailpeach", "sub": "若い馬", "era": "ゲール語" },
+      { "node": "kelpie", "sub": "水の精霊", "era": "18世紀英語" },
+      { "node": "kelpie", "sub": "ケルピー", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a water kelpie", "ja": "水のケルピー" },
+      { "en": "the legend of the kelpie", "ja": "ケルピーの伝説" },
+      { "en": "a kelpie by the loch", "ja": "湖のケルピー" },
+      { "en": "an Australian kelpie", "ja": "オーストラリアン・ケルピー(犬)" },
+      { "en": "a herding kelpie", "ja": "牧羊のケルピー(犬)" },
+      { "en": "a shape-shifting kelpie", "ja": "姿を変えるケルピー" }
+    ],
+    "related": [
+      { "en": "spirit", "ja": "精霊" },
+      { "en": "myth", "ja": "神話" },
+      { "en": "Scotland", "ja": "スコットランド" },
+      { "en": "horse", "ja": "馬" }
+    ],
+    "faq": [
+      { "q": "kelpie とは何ですか？", "a": "スコットランドの伝承に登場する、川や湖にすむ馬の姿をした水の精霊です。人を水中に引き込むとされます。また、同名のオーストラリアの牧羊犬もいます。" },
+      { "q": "kelpie と kelp は関係がありますか？", "a": "いいえ、無関係です。kelpie はスコットランド・ゲール語由来の「水の精霊」、kelp は「海藻」で、語源も意味も異なります。" }
+    ],
+    "quiz": [
+      { "q": "In Scottish myth, a ___ is a water spirit shaped like a horse.（スコットランド神話でケルピーは馬の姿の水の精霊だ）", "A": "kelpie", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "kelpie が登場するのはどこの伝説？", "A": "スコットランド", "B": "日本", "C": "エジプト", "D": "ギリシャ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kinkajou",
+    "pron": "ˈkɪŋkədʒuː",
+    "kana": "キンカジュー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 quincajou（先住民語由来)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "動物"],
+    "meaning_main": "キンカジュー（中南米の樹上性の哺乳類）",
+    "description": "kinkajou は「キンカジュー」を表す名詞。中南米の熱帯雨林にすむアライグマの仲間で、夜行性です。物をつかめる長い尾を持ち、木の上で果実などを食べて暮らします。愛らしい姿で知られます。",
+    "keywords": ["kinkajou 意味", "kinkajou 発音", "kinkajou キンカジュー", "kinkajou 動物", "kinkajou 例文"],
+    "meanings": [
+      { "hinshi": "【名】キンカジュー", "note": "中南米の熱帯雨林にすむ夜行性の樹上哺乳類。" }
+    ],
+    "usages": [
+      { "title": "① キンカジュー（動物）", "desc": "アライグマの仲間。", "example_en": "The kinkajou lives in tropical rainforests.", "example_ja": "キンカジューは熱帯雨林に暮らす。" },
+      { "title": "② 物をつかむ尾", "desc": "尾で枝をつかむ。", "example_en": "A kinkajou uses its tail to grip branches.", "example_ja": "キンカジューは尾を使って枝をつかむ。" },
+      { "title": "③ 夜行性", "desc": "夜に活動する。", "example_en": "Kinkajous are active at night.", "example_ja": "キンカジューは夜に活動する。" }
+    ],
+    "warn": ["発音は /ˈkɪŋkədʒuː/。中南米の樹上性哺乳類。", "サルではなくアライグマの仲間。"],
+    "etym_note": "フランス語 quincajou を経て英語に入った語で、もとは北米先住民の言語に由来するとされます（当初は別の動物を指したともいわれます）。中南米の樹上性哺乳類の名として定着しました。",
+    "etym_chain": [
+      { "node": "先住民語", "sub": "動物名", "era": "北米先住民語" },
+      { "node": "quincajou", "sub": "キンカジュー", "era": "フランス語" },
+      { "node": "kinkajou", "sub": "キンカジュー", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a nocturnal kinkajou", "ja": "夜行性のキンカジュー" },
+      { "en": "the kinkajou's tail", "ja": "キンカジューの尾" },
+      { "en": "a kinkajou in a tree", "ja": "木の上のキンカジュー" },
+      { "en": "a rainforest kinkajou", "ja": "熱帯雨林のキンカジュー" },
+      { "en": "spot a kinkajou", "ja": "キンカジューを見つける" },
+      { "en": "a cute kinkajou", "ja": "かわいいキンカジュー" }
+    ],
+    "related": [
+      { "en": "raccoon", "ja": "アライグマ" },
+      { "en": "mammal", "ja": "哺乳類" },
+      { "en": "rainforest", "ja": "熱帯雨林" },
+      { "en": "tail", "ja": "尾" }
+    ],
+    "faq": [
+      { "q": "kinkajou とはどんな動物ですか？", "a": "中南米の熱帯雨林にすむアライグマの仲間の哺乳類です。夜行性で、物をつかめる長い尾を持ち、木の上で果実などを食べて暮らします。" },
+      { "q": "kinkajou はサルの仲間ですか？", "a": "いいえ。見た目はサルに似ていますが、実際はアライグマの仲間です。" }
+    ],
+    "quiz": [
+      { "q": "The ___ uses its long tail to hang from branches.（キンカジューは長い尾を使って枝からぶら下がる）", "A": "kinkajou", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "kinkajou は何の仲間？", "A": "アライグマ", "B": "サル", "C": "ネコ", "D": "リス", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kopeck",
+    "pron": "ˈkoʊpek",
+    "kana": "コペック",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ロシア語 kopeyka（槍を持つ像より)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "通貨・文化"],
+    "meaning_main": "コペイカ（ロシアの補助通貨単位）",
+    "description": "kopeck は「コペイカ」を表す名詞。ロシアなどの通貨ルーブルの補助単位で、100コペイカ＝1ルーブルです。かつて硬貨に描かれた、槍（コピヨ）を持つ騎士の像が名の由来とされます。kopek とも綴ります。",
+    "keywords": ["kopeck 意味", "kopeck 発音", "kopeck コペイカ", "kopeck ロシア 通貨", "kopeck 例文"],
+    "meanings": [
+      { "hinshi": "【名】コペイカ", "note": "ロシアの補助通貨単位。100コペイカ＝1ルーブル。" }
+    ],
+    "usages": [
+      { "title": "① コペイカ（通貨）", "desc": "ルーブルの補助単位。", "example_en": "There are 100 kopecks in a ruble.", "example_ja": "1ルーブルは100コペイカだ。" },
+      { "title": "② 小額のお金", "desc": "ごくわずかな額。", "example_en": "The candy cost only a few kopecks.", "example_ja": "そのお菓子はほんの数コペイカだった。" },
+      { "title": "③ 別綴り kopek", "desc": "綴りにゆれがある。", "example_en": "It can also be spelled kopek.", "example_ja": "kopek と綴ることもある。" }
+    ],
+    "warn": ["kopeck / kopek と綴りにゆれがある。", "100コペイカ＝1ルーブル。ロシアなどの補助通貨単位。"],
+    "etym_note": "ロシア語 kopeyka に由来します。かつてこの硬貨に、槍（ロシア語 kopyo）を持つ騎士（聖ゲオルギオス）の像が刻まれていたことにちなむとされます。",
+    "etym_chain": [
+      { "node": "kopeyka", "sub": "コペイカ", "era": "ロシア語" },
+      { "node": "kopeck", "sub": "コペイカ", "era": "19世紀英語" },
+      { "node": "kopeck", "sub": "コペイカ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a few kopecks", "ja": "数コペイカ" },
+      { "en": "100 kopecks", "ja": "100コペイカ" },
+      { "en": "worth a kopeck", "ja": "1コペイカの価値" },
+      { "en": "kopecks and rubles", "ja": "コペイカとルーブル" },
+      { "en": "not a kopeck", "ja": "びた一文（〜ない）" },
+      { "en": "a copper kopeck", "ja": "銅のコペイカ硬貨" }
+    ],
+    "related": [
+      { "en": "ruble", "ja": "ルーブル" },
+      { "en": "coin", "ja": "硬貨" },
+      { "en": "currency", "ja": "通貨" },
+      { "en": "Russia", "ja": "ロシア" }
+    ],
+    "faq": [
+      { "q": "kopeck とは何ですか？", "a": "ロシアなどの通貨ルーブルの補助単位「コペイカ」です。100コペイカで1ルーブルになります。日本の「銭」に近い位置づけです。" },
+      { "q": "kopeck の名前の由来は？", "a": "かつてこの硬貨に、槍（ロシア語 kopyo）を持つ騎士の像が刻まれていたことにちなむとされます。" }
+    ],
+    "quiz": [
+      { "q": "One hundred ___ make one ruble.（100コペイカで1ルーブルになる）", "A": "kopecks", "B": "kettles", "C": "kernels", "D": "keepers", "correct": "A" },
+      { "q": "kopeck はどの国の通貨単位？", "A": "ロシア", "B": "日本", "C": "アメリカ", "D": "インド", "correct": "A" }
+    ]
+  },
+  {
+    "english": "krona",
+    "pron": "ˈkroʊnə",
+    "kana": "クローナ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "スウェーデン語 krona（王冠)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "通貨・文化"],
+    "meaning_main": "クローナ（スウェーデン・アイスランドの通貨）",
+    "description": "krona は「クローナ」を表す名詞。スウェーデンやアイスランドの通貨単位です。北欧の言葉で「王冠」を意味する語が語源で、複数形は kronor（スウェーデン）や krónur（アイスランド）となります。",
+    "keywords": ["krona 意味", "krona 発音", "krona クローナ", "krona スウェーデン 通貨", "krona 例文"],
+    "meanings": [
+      { "hinshi": "【名】クローナ", "note": "スウェーデン・アイスランドの通貨単位。「王冠」が原義。" }
+    ],
+    "usages": [
+      { "title": "① クローナ（通貨）", "desc": "スウェーデンなどの通貨。", "example_en": "The meal cost 150 krona.", "example_ja": "その食事は150クローナだった。" },
+      { "title": "② 両替する", "desc": "現地通貨に。", "example_en": "I exchanged euros for Swedish krona.", "example_ja": "私はユーロをスウェーデン・クローナに両替した。" },
+      { "title": "③ 「王冠」が原義", "desc": "北欧の通貨名に共通。", "example_en": "Krona means \"crown\" in Swedish.", "example_ja": "krona はスウェーデン語で「王冠」を意味する。" }
+    ],
+    "warn": ["デンマーク・ノルウェーは krone、スウェーデン・アイスランドは krona。", "複数形は kronor（スウェーデン）など言語で異なる。"],
+    "etym_note": "スウェーデン語・アイスランド語 krona（王冠）に由来します。ラテン語 corona（王冠）から来ており、北欧諸国の通貨名に共通する「王冠」の意味を持ちます。",
+    "etym_chain": [
+      { "node": "corona", "sub": "王冠", "era": "ラテン語" },
+      { "node": "krona", "sub": "王冠・通貨", "era": "北欧の言語" },
+      { "node": "krona", "sub": "クローナ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Swedish krona", "ja": "スウェーデン・クローナ" },
+      { "en": "Icelandic krona", "ja": "アイスランド・クローナ" },
+      { "en": "in krona", "ja": "クローナで" },
+      { "en": "exchange for krona", "ja": "クローナに両替する" },
+      { "en": "a hundred kronor", "ja": "100クローナ" },
+      { "en": "pay in krona", "ja": "クローナで支払う" }
+    ],
+    "related": [
+      { "en": "krone", "ja": "クローネ(デンマーク等)" },
+      { "en": "currency", "ja": "通貨" },
+      { "en": "crown", "ja": "王冠" },
+      { "en": "Sweden", "ja": "スウェーデン" }
+    ],
+    "faq": [
+      { "q": "krona とは何ですか？", "a": "スウェーデンやアイスランドの通貨単位「クローナ」です。北欧の言葉で「王冠」を意味します。" },
+      { "q": "krona と krone の違いは？", "a": "どちらも「王冠」が原義の北欧の通貨名ですが、krona はスウェーデン・アイスランド、krone はデンマーク・ノルウェーの通貨を指します。" }
+    ],
+    "quiz": [
+      { "q": "In Sweden, prices are shown in ___.（スウェーデンでは価格はクローナで表示される）", "A": "krona", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "krona のもとの意味は？", "A": "王冠", "B": "太陽", "C": "海", "D": "花", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kulfi",
+    "pron": "ˈkʊlfi",
+    "kana": "クルフィ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ヒンディー・ウルドゥー語 qulfī",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "食べ物・文化"],
+    "meaning_main": "クルフィ（インドの濃厚な氷菓）",
+    "description": "kulfi は「クルフィ」を表す名詞。インド亜大陸の伝統的な氷菓（アイスクリーム）で、ミルクを長時間煮詰めて作る濃厚な味わいが特徴です。カルダモンやピスタチオ、マンゴーなどで風味づけされます。",
+    "keywords": ["kulfi 意味", "kulfi 発音", "kulfi クルフィ", "kulfi インド アイス", "kulfi 例文"],
+    "meanings": [
+      { "hinshi": "【名】クルフィ", "note": "ミルクを煮詰めて作るインドの濃厚な氷菓。" }
+    ],
+    "usages": [
+      { "title": "① クルフィ（氷菓）", "desc": "濃厚なインドのアイス。", "example_en": "We had mango kulfi for dessert.", "example_ja": "私たちはデザートにマンゴークルフィを食べた。" },
+      { "title": "② 濃厚な味わい", "desc": "煮詰めたミルク。", "example_en": "Kulfi is richer than regular ice cream.", "example_ja": "クルフィは普通のアイスより濃厚だ。" },
+      { "title": "③ さまざまな風味", "desc": "カルダモン・ピスタチオなど。", "example_en": "Pistachio kulfi is very popular.", "example_ja": "ピスタチオのクルフィはとても人気だ。" }
+    ],
+    "warn": ["発音は /ˈkʊlfi/。インド亜大陸の伝統的な氷菓を指す。", "普通のアイスクリームより濃厚でねっとりしている。"],
+    "etym_note": "ヒンディー・ウルドゥー語 qulfī に由来し、さらにペルシャ語の「覆いのある容器」を意味する語にさかのぼります。円錐形の型で凍らせる作り方にちなむとされます。",
+    "etym_chain": [
+      { "node": "qulfī", "sub": "氷菓", "era": "ヒンディー・ウルドゥー語" },
+      { "node": "kulfi", "sub": "クルフィ", "era": "20世紀英語" },
+      { "node": "kulfi", "sub": "クルフィ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "mango kulfi", "ja": "マンゴークルフィ" },
+      { "en": "pistachio kulfi", "ja": "ピスタチオクルフィ" },
+      { "en": "a stick of kulfi", "ja": "棒付きクルフィ" },
+      { "en": "creamy kulfi", "ja": "濃厚なクルフィ" },
+      { "en": "make kulfi", "ja": "クルフィを作る" },
+      { "en": "cardamom kulfi", "ja": "カルダモンのクルフィ" }
+    ],
+    "related": [
+      { "en": "ice cream", "ja": "アイスクリーム" },
+      { "en": "dessert", "ja": "デザート" },
+      { "en": "milk", "ja": "牛乳" },
+      { "en": "India", "ja": "インド" }
+    ],
+    "faq": [
+      { "q": "kulfi とは何ですか？", "a": "インド亜大陸の伝統的な氷菓（アイスクリーム）です。ミルクを長時間煮詰めて作るため、普通のアイスより濃厚でねっとりした味わいが特徴です。" },
+      { "q": "kulfi はどんな味がありますか？", "a": "カルダモン、ピスタチオ、マンゴー、サフランなど、さまざまな風味があります。" }
+    ],
+    "quiz": [
+      { "q": "For dessert, we ordered creamy mango ___.（デザートに濃厚なマンゴークルフィを頼んだ）", "A": "kulfi", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "kulfi はどこの国の氷菓？", "A": "インド", "B": "イタリア", "C": "日本", "D": "フランス", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kombu",
+    "pron": "ˈkɒmbuː",
+    "kana": "コンブ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "日本語「昆布（こんぶ)」",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "食べ物・文化"],
+    "meaning_main": "昆布（だしに使う食用の海藻）",
+    "description": "kombu は「昆布」を表す名詞。日本料理でだし（出汁）をとるのに欠かせない、乾燥させた食用の海藻です。うま味成分を多く含み、和食の基本となる食材として世界的にも知られるようになりました。",
+    "keywords": ["kombu 意味", "kombu 発音", "kombu 昆布", "kombu だし", "kombu 例文"],
+    "meanings": [
+      { "hinshi": "【名】昆布", "note": "だしに使う乾燥した食用海藻。うま味が豊富。" }
+    ],
+    "usages": [
+      { "title": "① 昆布（食材）", "desc": "だしをとる海藻。", "example_en": "Japanese soup stock is made with kombu.", "example_ja": "和風だしは昆布で作られる。" },
+      { "title": "② うま味の源", "desc": "グルタミン酸を含む。", "example_en": "Kombu gives dishes a rich umami flavor.", "example_ja": "昆布は料理に豊かなうま味を与える。" },
+      { "title": "③ だしをとる", "desc": "水に浸して煮出す。", "example_en": "Soak the kombu before making broth.", "example_ja": "だしを取る前に昆布を浸しておく。" }
+    ],
+    "warn": ["日本語「昆布」由来。ケルプ(kelp)の一種だが、食用・だし用の昆布を特に指す。", "うま味成分(グルタミン酸)を多く含む。"],
+    "etym_note": "日本語の「昆布（こんぶ）」に由来します。和食が世界に広まるとともに、だしの材料となる食用海藻を指す語として英語に取り入れられました。",
+    "etym_chain": [
+      { "node": "昆布 (kombu)", "sub": "食用海藻", "era": "日本" },
+      { "node": "kombu", "sub": "昆布", "era": "20世紀英語" },
+      { "node": "kombu", "sub": "昆布", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "kombu dashi", "ja": "昆布だし" },
+      { "en": "dried kombu", "ja": "干した昆布" },
+      { "en": "soak the kombu", "ja": "昆布を浸す" },
+      { "en": "kombu stock", "ja": "昆布のだし" },
+      { "en": "a strip of kombu", "ja": "昆布一切れ" },
+      { "en": "kombu and bonito", "ja": "昆布と鰹節" }
+    ],
+    "related": [
+      { "en": "kelp", "ja": "ケルプ・大型海藻" },
+      { "en": "seaweed", "ja": "海藻" },
+      { "en": "dashi", "ja": "だし" },
+      { "en": "umami", "ja": "うま味" }
+    ],
+    "faq": [
+      { "q": "kombu とは何ですか？", "a": "日本料理でだしをとるのに使う、乾燥させた食用の海藻「昆布」です。うま味成分を多く含み、和食の基本となる食材です。" },
+      { "q": "kombu と kelp の違いは？", "a": "kombu は大型海藻ケルプ（kelp）の一種ですが、特に食用・だし用として使われる「昆布」を指す日本語由来の語です。" }
+    ],
+    "quiz": [
+      { "q": "Traditional Japanese broth uses ___ for its umami.（伝統的な和風だしはうま味のために昆布を使う）", "A": "kombu", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "kombu の語源となった言語は？", "A": "日本語", "B": "中国語", "C": "韓国語", "D": "タイ語", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kabaddi",
+    "pron": "kəˈbɑːdi",
+    "kana": "カバディ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "タミル語・南アジアの言語由来",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "スポーツ・文化"],
+    "meaning_main": "カバディ（南アジアの接触型チームスポーツ）",
+    "description": "kabaddi は「カバディ」を表す名詞。南アジア発祥のチームスポーツで、攻撃側の1人が息を止めて「カバディ」と唱え続けながら敵陣に入り、相手にタッチして戻ることを競います。インドなどで大人気の競技です。",
+    "keywords": ["kabaddi 意味", "kabaddi 発音", "kabaddi カバディ", "kabaddi スポーツ", "kabaddi 例文"],
+    "meanings": [
+      { "hinshi": "【名】カバディ", "note": "南アジア発祥の、息を止めて敵陣に攻め込む接触型チームスポーツ。" }
+    ],
+    "usages": [
+      { "title": "① カバディ（競技）", "desc": "2チームで対戦。", "example_en": "Kabaddi is very popular in India.", "example_ja": "カバディはインドでとても人気だ。" },
+      { "title": "② 息を止めて攻める", "desc": "レイダーが敵陣へ。", "example_en": "The raider must hold his breath in kabaddi.", "example_ja": "カバディでは攻撃者は息を止めなければならない。" },
+      { "title": "③ タッチして戻る", "desc": "得点の仕組み。", "example_en": "He tagged two players and ran back.", "example_ja": "彼は2人にタッチして走って戻った。" }
+    ],
+    "warn": ["発音は /kəˈbɑːdi/。南アジア発祥の接触型チームスポーツ。", "攻撃者(レイダー)は息を止めて『カバディ』と唱え続ける独特のルール。"],
+    "etym_note": "南アジアの言語（タミル語などの説がある）に由来します。攻撃者が唱え続ける掛け声そのものが競技名になったとされ、インド・バングラデシュなどの伝統的なスポーツを指します。",
+    "etym_chain": [
+      { "node": "kabaddi", "sub": "掛け声・競技名", "era": "南アジアの言語" },
+      { "node": "kabaddi", "sub": "カバディ", "era": "20世紀英語" },
+      { "node": "kabaddi", "sub": "カバディ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "play kabaddi", "ja": "カバディをする" },
+      { "en": "a kabaddi match", "ja": "カバディの試合" },
+      { "en": "a kabaddi raider", "ja": "カバディの攻撃者" },
+      { "en": "the kabaddi league", "ja": "カバディリーグ" },
+      { "en": "win at kabaddi", "ja": "カバディで勝つ" },
+      { "en": "a team sport", "ja": "チームスポーツ" }
+    ],
+    "related": [
+      { "en": "sport", "ja": "スポーツ" },
+      { "en": "team", "ja": "チーム" },
+      { "en": "India", "ja": "インド" },
+      { "en": "tag", "ja": "タッチする・鬼ごっこ" }
+    ],
+    "faq": [
+      { "q": "kabaddi とはどんなスポーツですか？", "a": "南アジア発祥のチームスポーツです。攻撃側の1人（レイダー）が息を止めて「カバディ」と唱え続けながら敵陣に入り、相手にタッチして自陣に戻ることを競います。" },
+      { "q": "kabaddi はどこで人気ですか？", "a": "インド、バングラデシュ、パキスタン、ネパールなど南アジアの国々で特に人気があり、プロリーグもあります。" }
+    ],
+    "quiz": [
+      { "q": "In ___, a raider must hold his breath while tagging opponents.（カバディでは攻撃者は息を止めて相手にタッチする）", "A": "kabaddi", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "kabaddi はどの地域発祥のスポーツ？", "A": "南アジア", "B": "北欧", "C": "南米", "D": "アフリカ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "koan",
+    "pron": "ˈkoʊɑːn",
+    "kana": "コウアン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "日本語「公案（こうあん)」",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "宗教・哲学"],
+    "meaning_main": "公案（禅の修行で用いる問い）",
+    "description": "koan は「公案（こうあん）」を表す名詞。禅宗の修行で師が弟子に与える、論理では解けない問いや話です。「片手で打つ拍手の音は？」のような、理屈を超えた気づきを促す謎かけで、瞑想の題材になります。",
+    "keywords": ["koan 意味", "koan 発音", "koan 公案", "koan 禅", "koan 例文"],
+    "meanings": [
+      { "hinshi": "【名】公案", "note": "禅の修行で用いる、論理では解けない問い・謎かけ。" }
+    ],
+    "usages": [
+      { "title": "① 公案（禅の問い）", "desc": "瞑想の題材。", "example_en": "The monk meditated on a koan for years.", "example_ja": "その僧は何年も公案を瞑想した。" },
+      { "title": "② 論理を超えた謎かけ", "desc": "理屈で解けない。", "example_en": "A famous koan asks about the sound of one hand clapping.", "example_ja": "有名な公案は片手で打つ拍手の音を問う。" },
+      { "title": "③ 比喩的に「難問」", "desc": "答えの出ない問い。", "example_en": "The puzzle felt like a Zen koan.", "example_ja": "その難問はまるで禅の公案のようだった。" }
+    ],
+    "warn": ["日本語「公案」由来。発音は /ˈkoʊɑːn/。", "答えを論理的に導くのではなく、直観的な気づきを促すための問い。"],
+    "etym_note": "日本語の「公案（こうあん）」に由来し、もとは中国語の「公案（公の裁定・事例）」から来ています。禅宗の修行法とともに西洋に紹介され、英語に入りました。",
+    "etym_chain": [
+      { "node": "公案 (kōan)", "sub": "禅の問い", "era": "中国・日本" },
+      { "node": "koan", "sub": "公案", "era": "20世紀英語" },
+      { "node": "koan", "sub": "公案", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a Zen koan", "ja": "禅の公案" },
+      { "en": "meditate on a koan", "ja": "公案を瞑想する" },
+      { "en": "solve a koan", "ja": "公案に取り組む" },
+      { "en": "the sound of one hand", "ja": "片手の音(有名な公案)" },
+      { "en": "a famous koan", "ja": "有名な公案" },
+      { "en": "like a koan", "ja": "公案のように" }
+    ],
+    "related": [
+      { "en": "Zen", "ja": "禅" },
+      { "en": "riddle", "ja": "なぞなぞ・謎" },
+      { "en": "meditation", "ja": "瞑想" },
+      { "en": "paradox", "ja": "逆説" }
+    ],
+    "faq": [
+      { "q": "koan とは何ですか？", "a": "禅宗の修行で師が弟子に与える、論理では解けない問いや話「公案」です。理屈を超えた気づきを促し、瞑想の題材になります。" },
+      { "q": "有名な koan の例は？", "a": "「片手で打つ拍手の音はどんな音か（the sound of one hand clapping）」という公案が特に有名です。論理的な答えを出すためのものではありません。" }
+    ],
+    "quiz": [
+      { "q": "The Zen master gave his student a ___ to ponder.（禅師は弟子に考えるべき公案を与えた）", "A": "koan", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "koan はどの宗教・思想に関わる語？", "A": "禅（仏教）", "B": "キリスト教", "C": "イスラム教", "D": "ヒンドゥー教", "correct": "A" }
+    ]
+  }
+]

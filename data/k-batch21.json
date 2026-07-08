@@ -1,0 +1,502 @@
+[
+  {
+    "english": "Krakow",
+    "pron": "ˈkrækaʊ",
+    "kana": "クラクフ",
+    "hinshi": "固有名詞（都市）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ポーランド語 Kraków（伝説の王クラクより)",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "地理・ヨーロッパ"],
+    "meaning_main": "クラクフ（ポーランドの古都）",
+    "description": "Krakow はポーランドの古都「クラクフ」を表す固有名詞。かつてポーランド王国の首都だった歴史ある都市で、中世の街並みが良好に残り、旧市街は世界遺産に登録されています。学問と文化の中心地としても知られます。",
+    "keywords": ["Krakow 意味", "Krakow 発音", "クラクフ 英語", "Krakow ポーランド", "Krakow 例文"],
+    "meanings": [
+      { "hinshi": "【固有名詞】クラクフ", "note": "ポーランドの古都。かつての首都で世界遺産の旧市街を持つ。" }
+    ],
+    "usages": [
+      { "title": "① クラクフ（都市）", "desc": "ポーランドの古都。", "example_en": "Krakow is one of Poland's oldest cities.", "example_ja": "クラクフはポーランドで最も古い都市の一つだ。" },
+      { "title": "② かつての首都", "desc": "王国の中心だった。", "example_en": "Krakow was once the capital of Poland.", "example_ja": "クラクフはかつてポーランドの首都だった。" },
+      { "title": "③ 世界遺産の旧市街", "desc": "中世の街並み。", "example_en": "The old town of Krakow is a World Heritage Site.", "example_ja": "クラクフの旧市街は世界遺産だ。" }
+    ],
+    "warn": ["固有名詞なので大文字で始める。ポーランド語では Kraków と綴る。", "発音は /ˈkrækaʊ/。現在のポーランドの首都はワルシャワ。"],
+    "etym_note": "ポーランド語 Kraków に由来し、伝説上の建設者である王クラク（Krak）にちなむとされます。中世からポーランドの政治・文化の中心地として栄えました。",
+    "etym_chain": [
+      { "node": "Kraków", "sub": "王クラクの町", "era": "ポーランド語" },
+      { "node": "Krakow", "sub": "クラクフ", "era": "近代英語" },
+      { "node": "Krakow", "sub": "クラクフ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the city of Krakow", "ja": "クラクフ市" },
+      { "en": "old town Krakow", "ja": "クラクフ旧市街" },
+      { "en": "Krakow, Poland", "ja": "ポーランドのクラクフ" },
+      { "en": "visit Krakow", "ja": "クラクフを訪れる" },
+      { "en": "medieval Krakow", "ja": "中世のクラクフ" },
+      { "en": "the market square of Krakow", "ja": "クラクフの中央広場" }
+    ],
+    "related": [
+      { "en": "Poland", "ja": "ポーランド" },
+      { "en": "Warsaw", "ja": "ワルシャワ" },
+      { "en": "Europe", "ja": "ヨーロッパ" },
+      { "en": "city", "ja": "都市" }
+    ],
+    "faq": [
+      { "q": "Krakow はどこにありますか？", "a": "ポーランドの古都で、かつてポーランド王国の首都でした。中世の街並みが残り、旧市街は世界遺産に登録されています。" },
+      { "q": "Krakow は今も首都ですか？", "a": "いいえ。かつての首都ですが、現在のポーランドの首都はワルシャワ（Warsaw）です。" }
+    ],
+    "quiz": [
+      { "q": "___ was the historic capital of Poland.（クラクフはポーランドの歴史的な首都だった）", "A": "Krakow", "B": "Kettle", "C": "Kernel", "D": "Keeper", "correct": "A" },
+      { "q": "Krakow はどの国の都市？", "A": "ポーランド", "B": "ドイツ", "C": "ロシア", "D": "日本", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Kuwait",
+    "pron": "kuˈweɪt",
+    "kana": "クウェイト",
+    "hinshi": "固有名詞（国名）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "アラビア語 Kuwayt（小さな砦)",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "地理・中東"],
+    "meaning_main": "クウェート（中東の産油国）",
+    "description": "Kuwait は中東の国「クウェート」を表す固有名詞。ペルシャ湾に面した小さな国で、豊富な石油資源で知られる産油国です。首都もクウェート市で、国名と同じ名を持ちます。アラビア語で「小さな砦」を意味します。",
+    "keywords": ["Kuwait 意味", "Kuwait 発音", "クウェート 英語", "Kuwait 石油", "Kuwait 例文"],
+    "meanings": [
+      { "hinshi": "【固有名詞】クウェート", "note": "ペルシャ湾に面した中東の産油国。" }
+    ],
+    "usages": [
+      { "title": "① クウェート（国）", "desc": "中東の産油国。", "example_en": "Kuwait is a small country in the Middle East.", "example_ja": "クウェートは中東の小さな国だ。" },
+      { "title": "② 豊富な石油", "desc": "産油国として有名。", "example_en": "Kuwait is rich in oil.", "example_ja": "クウェートは石油が豊富だ。" },
+      { "title": "③ ペルシャ湾に面する", "desc": "湾岸の国。", "example_en": "Kuwait lies on the Persian Gulf.", "example_ja": "クウェートはペルシャ湾に面している。" }
+    ],
+    "warn": ["固有名詞なので大文字で始める。首都もクウェート市(Kuwait City)。", "発音は /kuˈweɪt/。"],
+    "etym_note": "アラビア語 Kuwayt に由来し、「小さな砦・城」を意味する語がもとになったとされます。ペルシャ湾岸に築かれた交易と漁業の拠点として発展しました。",
+    "etym_chain": [
+      { "node": "Kuwayt", "sub": "小さな砦", "era": "アラビア語" },
+      { "node": "Kuwait", "sub": "クウェート", "era": "近代英語" },
+      { "node": "Kuwait", "sub": "クウェート", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the State of Kuwait", "ja": "クウェート国" },
+      { "en": "Kuwait City", "ja": "クウェート市" },
+      { "en": "oil in Kuwait", "ja": "クウェートの石油" },
+      { "en": "the Persian Gulf", "ja": "ペルシャ湾" },
+      { "en": "travel to Kuwait", "ja": "クウェートへ行く" },
+      { "en": "the emir of Kuwait", "ja": "クウェートの首長" }
+    ],
+    "related": [
+      { "en": "Middle East", "ja": "中東" },
+      { "en": "oil", "ja": "石油" },
+      { "en": "gulf", "ja": "湾" },
+      { "en": "desert", "ja": "砂漠" }
+    ],
+    "faq": [
+      { "q": "Kuwait はどんな国ですか？", "a": "ペルシャ湾に面した中東の小さな国で、豊富な石油資源で知られる産油国です。首都もクウェート市という同名の都市です。" },
+      { "q": "Kuwait の名前の意味は？", "a": "アラビア語で「小さな砦・城」を意味する語に由来します。" }
+    ],
+    "quiz": [
+      { "q": "___ is a small oil-rich country on the Persian Gulf.（クウェートはペルシャ湾に面した石油の豊かな小国だ）", "A": "Kuwait", "B": "Kettle", "C": "Kernel", "D": "Keeper", "correct": "A" },
+      { "q": "Kuwait が豊富に産出するものは？", "A": "石油", "B": "石炭", "C": "木材", "D": "米", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Kathmandu",
+    "pron": "ˌkætmænˈduː",
+    "kana": "カトマンズ",
+    "hinshi": "固有名詞（都市・首都）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ネワール語（木造の寺 Kāsthamandap より)",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "地理・アジア"],
+    "meaning_main": "カトマンズ（ネパールの首都）",
+    "description": "Kathmandu はネパールの首都「カトマンズ」を表す固有名詞。ヒマラヤ山脈のふもとの盆地に位置し、多くの寺院や史跡が残る古都です。エベレストをはじめとする高峰への登山の玄関口としても知られています。",
+    "keywords": ["Kathmandu 意味", "Kathmandu 発音", "カトマンズ 英語", "Kathmandu ネパール", "Kathmandu 例文"],
+    "meanings": [
+      { "hinshi": "【固有名詞】カトマンズ", "note": "ネパールの首都。ヒマラヤのふもとの古都。" }
+    ],
+    "usages": [
+      { "title": "① カトマンズ（首都）", "desc": "ネパールの首都。", "example_en": "Kathmandu is the capital of Nepal.", "example_ja": "カトマンズはネパールの首都だ。" },
+      { "title": "② 寺院と史跡", "desc": "古い寺が多い。", "example_en": "Kathmandu is full of ancient temples.", "example_ja": "カトマンズは古い寺院であふれている。" },
+      { "title": "③ 登山の玄関口", "desc": "ヒマラヤへの拠点。", "example_en": "Climbers pass through Kathmandu on the way to Everest.", "example_ja": "登山者はエベレストへ行く途中カトマンズを通る。" }
+    ],
+    "warn": ["固有名詞なので大文字で始める。ネパール(Nepal)の首都。", "発音は /ˌkætmænˈduː/。"],
+    "etym_note": "ネワール語で、市内にある木造の建物「カーष्ठマンダプ（Kāsthamandap＝一本の木から作られた館）」に由来するとされます。ヒマラヤのふもとの盆地に開けた古都です。",
+    "etym_chain": [
+      { "node": "Kāsthamandap", "sub": "木造の館", "era": "ネワール語" },
+      { "node": "Kathmandu", "sub": "カトマンズ", "era": "近代英語" },
+      { "node": "Kathmandu", "sub": "カトマンズ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the city of Kathmandu", "ja": "カトマンズ市" },
+      { "en": "Kathmandu, Nepal", "ja": "ネパールのカトマンズ" },
+      { "en": "the temples of Kathmandu", "ja": "カトマンズの寺院" },
+      { "en": "the Kathmandu valley", "ja": "カトマンズ盆地" },
+      { "en": "fly to Kathmandu", "ja": "カトマンズへ飛ぶ" },
+      { "en": "trek from Kathmandu", "ja": "カトマンズからトレッキングする" }
+    ],
+    "related": [
+      { "en": "Nepal", "ja": "ネパール" },
+      { "en": "Himalaya", "ja": "ヒマラヤ" },
+      { "en": "Everest", "ja": "エベレスト" },
+      { "en": "temple", "ja": "寺院" }
+    ],
+    "faq": [
+      { "q": "Kathmandu はどこですか？", "a": "ネパールの首都で、ヒマラヤ山脈のふもとの盆地に位置します。多くの寺院や史跡が残る古都で、高峰への登山の玄関口です。" },
+      { "q": "Kathmandu はどんな役割がありますか？", "a": "ネパールの政治・文化の中心であると同時に、エベレストなどヒマラヤの高峰へ向かう登山者の玄関口となっています。" }
+    ],
+    "quiz": [
+      { "q": "___ is the capital of Nepal, near the Himalayas.（カトマンズはヒマラヤに近いネパールの首都だ）", "A": "Kathmandu", "B": "Kettle", "C": "Kernel", "D": "Keeper", "correct": "A" },
+      { "q": "Kathmandu はどの国の首都？", "A": "ネパール", "B": "インド", "C": "中国", "D": "タイ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Kilauea",
+    "pron": "ˌkiːlaʊˈeɪə",
+    "kana": "キラウエア",
+    "hinshi": "固有名詞（火山）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ハワイ語 Kīlauea（吹き出す・広がる)",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "地理・自然"],
+    "meaning_main": "キラウエア（ハワイの活火山）",
+    "description": "Kilauea はハワイ島にある活火山「キラウエア」を表す固有名詞。世界で最も活発な火山の一つで、しばしば溶岩を噴き出します。ハワイ火山国立公園の一部で、地球の火山活動を間近に見られる場所として知られます。",
+    "keywords": ["Kilauea 意味", "Kilauea 発音", "キラウエア 英語", "Kilauea 火山 ハワイ", "Kilauea 例文"],
+    "meanings": [
+      { "hinshi": "【固有名詞】キラウエア", "note": "ハワイ島にある世界有数の活火山。" }
+    ],
+    "usages": [
+      { "title": "① キラウエア（火山）", "desc": "ハワイの活火山。", "example_en": "Kilauea is one of the world's most active volcanoes.", "example_ja": "キラウエアは世界有数の活火山だ。" },
+      { "title": "② 溶岩の噴出", "desc": "しばしば噴火する。", "example_en": "Kilauea often erupts with flowing lava.", "example_ja": "キラウエアはしばしば溶岩を流して噴火する。" },
+      { "title": "③ 国立公園", "desc": "観光・研究の場。", "example_en": "Kilauea is part of a national park.", "example_ja": "キラウエアは国立公園の一部だ。" }
+    ],
+    "warn": ["固有名詞なので大文字で始める。ハワイ島(Hawaii)にある。", "発音は /ˌkiːlaʊˈeɪə/。世界で最も活発な火山の一つ。"],
+    "etym_note": "ハワイ語 Kīlauea に由来し、「吹き出す・広がる」といった意味とされます。絶えず活動する火山の様子を表した名です。",
+    "etym_chain": [
+      { "node": "Kīlauea", "sub": "吹き出す", "era": "ハワイ語" },
+      { "node": "Kilauea", "sub": "キラウエア", "era": "19世紀英語" },
+      { "node": "Kilauea", "sub": "キラウエア", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Mount Kilauea", "ja": "キラウエア山" },
+      { "en": "Kilauea erupts", "ja": "キラウエアが噴火する" },
+      { "en": "lava from Kilauea", "ja": "キラウエアの溶岩" },
+      { "en": "an active volcano", "ja": "活火山" },
+      { "en": "Hawaii Volcanoes National Park", "ja": "ハワイ火山国立公園" },
+      { "en": "the crater of Kilauea", "ja": "キラウエアの火口" }
+    ],
+    "related": [
+      { "en": "volcano", "ja": "火山" },
+      { "en": "Hawaii", "ja": "ハワイ" },
+      { "en": "lava", "ja": "溶岩" },
+      { "en": "eruption", "ja": "噴火" }
+    ],
+    "faq": [
+      { "q": "Kilauea とは何ですか？", "a": "ハワイ島にある活火山で、世界で最も活発な火山の一つです。しばしば溶岩を噴き出し、ハワイ火山国立公園の一部になっています。" },
+      { "q": "Kilauea は今も活動していますか？", "a": "はい、現在も活動を続ける活火山で、時折噴火して溶岩を流します。" }
+    ],
+    "quiz": [
+      { "q": "___ is one of the most active volcanoes in the world.（キラウエアは世界で最も活発な火山の一つだ）", "A": "Kilauea", "B": "Kettle", "C": "Kernel", "D": "Keeper", "correct": "A" },
+      { "q": "Kilauea があるのはどこ？", "A": "ハワイ", "B": "アイスランド", "C": "日本", "D": "イタリア", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Keats",
+    "pron": "kiːts",
+    "kana": "キーツ",
+    "hinshi": "固有名詞（人物・詩人）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "英語の姓 Keats",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "文学・人物"],
+    "meaning_main": "キーツ（イギリス・ロマン派の詩人）",
+    "description": "Keats はイギリスの詩人「ジョン・キーツ」を表す固有名詞。19世紀初めのロマン派を代表する詩人で、美と自然をうたった作品で知られます。25歳の若さで世を去りましたが、『ナイチンゲールに寄せて』などの詩は今も愛されています。",
+    "keywords": ["Keats 意味", "Keats 発音", "キーツ 英語", "Keats 詩人 ロマン派", "Keats 例文"],
+    "meanings": [
+      { "hinshi": "【固有名詞】キーツ", "note": "イギリス・ロマン派を代表する詩人(1795-1821)。" }
+    ],
+    "usages": [
+      { "title": "① キーツ（詩人）", "desc": "ロマン派の詩人。", "example_en": "Keats was a great English Romantic poet.", "example_ja": "キーツは偉大なイギリスのロマン派詩人だった。" },
+      { "title": "② 美と自然の詩", "desc": "情感豊かな作品。", "example_en": "Keats wrote about beauty and nature.", "example_ja": "キーツは美と自然について書いた。" },
+      { "title": "③ 若くして没す", "desc": "25歳で早世。", "example_en": "Keats died young, at only 25.", "example_ja": "キーツはわずか25歳で早世した。" }
+    ],
+    "warn": ["固有名詞なので大文字で始める。19世紀ロマン派の詩人。", "同時代のシェリー(Shelley)、バイロン(Byron)と並び称される。"],
+    "etym_note": "英語圏の姓 Keats に由来します。ジョン・キーツ（1795-1821）はロンドンに生まれ、短い生涯ながらイギリス・ロマン派を代表する詩を残しました。",
+    "etym_chain": [
+      { "node": "Keats (姓)", "sub": "英語の姓", "era": "近代" },
+      { "node": "Keats", "sub": "詩人の名", "era": "19世紀" },
+      { "node": "Keats", "sub": "キーツ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "John Keats", "ja": "ジョン・キーツ" },
+      { "en": "Keats's poems", "ja": "キーツの詩" },
+      { "en": "a Romantic poet", "ja": "ロマン派の詩人" },
+      { "en": "Ode to a Nightingale", "ja": "ナイチンゲールに寄せて" },
+      { "en": "read Keats", "ja": "キーツを読む" },
+      { "en": "the poetry of Keats", "ja": "キーツの詩" }
+    ],
+    "related": [
+      { "en": "poet", "ja": "詩人" },
+      { "en": "poetry", "ja": "詩" },
+      { "en": "Romantic", "ja": "ロマン派の" },
+      { "en": "England", "ja": "イングランド" }
+    ],
+    "faq": [
+      { "q": "Keats はどんな人ですか？", "a": "19世紀初めのイギリスのロマン派を代表する詩人ジョン・キーツです。美と自然をうたった作品で知られ、25歳の若さで世を去りました。" },
+      { "q": "Keats の代表作は？", "a": "『ナイチンゲールに寄せて（Ode to a Nightingale）』や『ギリシャの壺に寄せて』などの頌歌（オード）が特に有名です。" }
+    ],
+    "quiz": [
+      { "q": "___ was a Romantic poet who wrote about beauty and nature.（キーツは美と自然について書いたロマン派の詩人だった）", "A": "Keats", "B": "Kettle", "C": "Kernel", "D": "Keeper", "correct": "A" },
+      { "q": "Keats の専門分野は？", "A": "詩", "B": "科学", "C": "音楽", "D": "絵画", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Kahlo",
+    "pron": "ˈkɑːloʊ",
+    "kana": "カーロ",
+    "hinshi": "固有名詞（人物・画家）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "姓 Kahlo（ドイツ系の姓)",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "美術・人物"],
+    "meaning_main": "カーロ（自画像で知られるメキシコの画家）",
+    "description": "Kahlo はメキシコの画家「フリーダ・カーロ」を表す固有名詞。数多くの自画像で知られ、痛みや情熱、メキシコの文化を鮮やかな色彩で描きました。事故による重傷や波乱の生涯を作品に昇華させ、20世紀を代表する女性画家として世界的に愛されています。",
+    "keywords": ["Kahlo 意味", "Kahlo 発音", "カーロ 英語", "Frida Kahlo 自画像", "Kahlo 例文"],
+    "meanings": [
+      { "hinshi": "【固有名詞】カーロ", "note": "自画像で知られるメキシコの画家フリーダ・カーロ(1907-1954)。" }
+    ],
+    "usages": [
+      { "title": "① カーロ（画家）", "desc": "メキシコの女性画家。", "example_en": "Kahlo is one of Mexico's most famous artists.", "example_ja": "カーロはメキシコで最も有名な画家の一人だ。" },
+      { "title": "② 自画像", "desc": "多くの自画像を描いた。", "example_en": "Kahlo painted many self-portraits.", "example_ja": "カーロは多くの自画像を描いた。" },
+      { "title": "③ 鮮やかな色彩", "desc": "痛みと情熱を表現。", "example_en": "Kahlo used bold colors and Mexican themes.", "example_ja": "カーロは大胆な色とメキシコの題材を使った。" }
+    ],
+    "warn": ["固有名詞なので大文字で始める。フルネームはフリーダ・カーロ(Frida Kahlo)。", "夫は壁画家ディエゴ・リベラ(Diego Rivera)。"],
+    "etym_note": "ドイツ系の姓 Kahlo に由来します（父はドイツ系移民）。フリーダ・カーロ（1907-1954）はメキシコシティ郊外に生まれ、独自の絵画世界を築きました。",
+    "etym_chain": [
+      { "node": "Kahlo (姓)", "sub": "ドイツ系の姓", "era": "近代" },
+      { "node": "Kahlo", "sub": "画家の名", "era": "20世紀" },
+      { "node": "Kahlo", "sub": "カーロ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Frida Kahlo", "ja": "フリーダ・カーロ" },
+      { "en": "Kahlo's self-portraits", "ja": "カーロの自画像" },
+      { "en": "a painting by Kahlo", "ja": "カーロの絵" },
+      { "en": "Kahlo's art", "ja": "カーロの芸術" },
+      { "en": "a Kahlo exhibition", "ja": "カーロ展" },
+      { "en": "Mexican art", "ja": "メキシコ美術" }
+    ],
+    "related": [
+      { "en": "painter", "ja": "画家" },
+      { "en": "Mexico", "ja": "メキシコ" },
+      { "en": "self-portrait", "ja": "自画像" },
+      { "en": "art", "ja": "美術" }
+    ],
+    "faq": [
+      { "q": "Kahlo はどんな画家ですか？", "a": "メキシコの画家フリーダ・カーロで、数多くの自画像で知られます。痛みや情熱、メキシコの文化を鮮やかな色彩で描き、20世紀を代表する女性画家です。" },
+      { "q": "Kahlo はなぜ自画像が多いのですか？", "a": "事故による重傷で長く療養する中、自分自身を見つめて描いたことが理由の一つとされます。自らの人生や感情を作品に昇華させました。" }
+    ],
+    "quiz": [
+      { "q": "___ is a Mexican painter famous for her self-portraits.（カーロは自画像で有名なメキシコの画家だ）", "A": "Kahlo", "B": "Kettle", "C": "Kernel", "D": "Keeper", "correct": "A" },
+      { "q": "Kahlo はどの国の画家？", "A": "メキシコ", "B": "フランス", "C": "日本", "D": "イタリア", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Keller",
+    "pron": "ˈkelər",
+    "kana": "ケラー",
+    "hinshi": "固有名詞（人物）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ドイツ系の姓 Keller",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "歴史・人物"],
+    "meaning_main": "ケラー（目と耳が不自由ながら活躍した著述家・社会運動家）",
+    "description": "Keller はアメリカの著述家・社会運動家「ヘレン・ケラー」を表す固有名詞。幼くして視力と聴力を失いながら、教師アン・サリバンの導きで言葉を学び、大学を卒業。障害を持つ人々の権利のために生涯を尽くし、世界中に希望を与えました。",
+    "keywords": ["Keller 意味", "Keller 発音", "ケラー 英語", "Helen Keller", "Keller 例文"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ケラー", "note": "目と耳が不自由ながら活躍した著述家・社会運動家ヘレン・ケラー(1880-1968)。" }
+    ],
+    "usages": [
+      { "title": "① ケラー（人物）", "desc": "ヘレン・ケラー。", "example_en": "Helen Keller could not see or hear.", "example_ja": "ヘレン・ケラーは目も耳も不自由だった。" },
+      { "title": "② 言葉を学ぶ", "desc": "教師の導きで。", "example_en": "Keller learned to communicate with her teacher's help.", "example_ja": "ケラーは教師の助けで意思を伝えることを学んだ。" },
+      { "title": "③ 社会運動家として", "desc": "障害者の権利のために。", "example_en": "Keller worked for the rights of disabled people.", "example_ja": "ケラーは障害を持つ人々の権利のために働いた。" }
+    ],
+    "warn": ["固有名詞なので大文字で始める。フルネームはヘレン・ケラー(Helen Keller)。", "教師はアン・サリバン(Anne Sullivan)。"],
+    "etym_note": "ドイツ系の姓 Keller（もとは「地下室・貯蔵庫の管理人」の意）に由来します。ヘレン・ケラー（1880-1968）はアメリカ・アラバマ州に生まれました。",
+    "etym_chain": [
+      { "node": "Keller (姓)", "sub": "ドイツ系の姓", "era": "近代" },
+      { "node": "Keller", "sub": "ヘレン・ケラー", "era": "19-20世紀" },
+      { "node": "Keller", "sub": "ケラー", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Helen Keller", "ja": "ヘレン・ケラー" },
+      { "en": "Keller's teacher", "ja": "ケラーの教師" },
+      { "en": "Anne Sullivan", "ja": "アン・サリバン" },
+      { "en": "Keller's story", "ja": "ケラーの物語" },
+      { "en": "an inspiration", "ja": "希望を与える存在" },
+      { "en": "disability rights", "ja": "障害者の権利" }
+    ],
+    "related": [
+      { "en": "author", "ja": "著述家" },
+      { "en": "activist", "ja": "社会運動家" },
+      { "en": "teacher", "ja": "教師" },
+      { "en": "America", "ja": "アメリカ" }
+    ],
+    "faq": [
+      { "q": "Keller はどんな人ですか？", "a": "アメリカの著述家・社会運動家ヘレン・ケラーです。幼くして視力と聴力を失いながら、教師の導きで言葉を学び、大学を卒業。障害を持つ人々の権利のために生涯を尽くしました。" },
+      { "q": "Keller を支えた教師は誰ですか？", "a": "アン・サリバン（Anne Sullivan）です。粘り強い指導でケラーに言葉を教え、「奇跡の人」として知られています。" }
+    ],
+    "quiz": [
+      { "q": "Helen ___ learned to read and write despite being deaf and blind.（ヘレン・ケラーは目と耳が不自由ながら読み書きを学んだ）", "A": "Keller", "B": "Kettle", "C": "Kernel", "D": "Keeper", "correct": "A" },
+      { "q": "Keller を導いた教師の名は？", "A": "アン・サリバン", "B": "マリー・キュリー", "C": "フローレンス", "D": "ナイチンゲール", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Kipling",
+    "pron": "ˈkɪplɪŋ",
+    "kana": "キプリング",
+    "hinshi": "固有名詞（人物・作家）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "英語の姓 Kipling",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "文学・人物"],
+    "meaning_main": "キプリング（『ジャングル・ブック』の作家）",
+    "description": "Kipling はイギリスの作家・詩人「ラドヤード・キプリング」を表す固有名詞。少年モーグリと動物たちを描いた『ジャングル・ブック』で世界的に知られます。インド生まれで、ノーベル文学賞を受賞した最初の英語圏作家でもあります。",
+    "keywords": ["Kipling 意味", "Kipling 発音", "キプリング 英語", "ジャングルブック 作家", "Kipling 例文"],
+    "meanings": [
+      { "hinshi": "【固有名詞】キプリング", "note": "『ジャングル・ブック』で知られる英国の作家(1865-1936)。" }
+    ],
+    "usages": [
+      { "title": "① キプリング（作家）", "desc": "『ジャングル・ブック』の作者。", "example_en": "Kipling wrote \"The Jungle Book.\"", "example_ja": "キプリングは『ジャングル・ブック』を書いた。" },
+      { "title": "② インド生まれ", "desc": "インドを舞台にした作品も。", "example_en": "Kipling was born in India.", "example_ja": "キプリングはインドで生まれた。" },
+      { "title": "③ ノーベル賞受賞", "desc": "英語圏で最初の受賞者。", "example_en": "Kipling won the Nobel Prize in Literature.", "example_ja": "キプリングはノーベル文学賞を受賞した。" }
+    ],
+    "warn": ["固有名詞なので大文字で始める。フルネームはラドヤード・キプリング(Rudyard Kipling)。", "『ジャングル・ブック』『少年キム』などで知られる。"],
+    "etym_note": "英語圏の姓 Kipling に由来します。ラドヤード・キプリング（1865-1936）は英領インドのボンベイ（現ムンバイ）に生まれ、インドを題材にした作品を多く残しました。",
+    "etym_chain": [
+      { "node": "Kipling (姓)", "sub": "英語の姓", "era": "近代" },
+      { "node": "Kipling", "sub": "作家の名", "era": "19-20世紀" },
+      { "node": "Kipling", "sub": "キプリング", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Rudyard Kipling", "ja": "ラドヤード・キプリング" },
+      { "en": "The Jungle Book", "ja": "ジャングル・ブック" },
+      { "en": "Kipling's stories", "ja": "キプリングの物語" },
+      { "en": "the Nobel Prize", "ja": "ノーベル賞" },
+      { "en": "read Kipling", "ja": "キプリングを読む" },
+      { "en": "Kipling's poems", "ja": "キプリングの詩" }
+    ],
+    "related": [
+      { "en": "writer", "ja": "作家" },
+      { "en": "India", "ja": "インド" },
+      { "en": "novel", "ja": "小説" },
+      { "en": "England", "ja": "イングランド" }
+    ],
+    "faq": [
+      { "q": "Kipling はどんな作家ですか？", "a": "イギリスの作家・詩人ラドヤード・キプリングで、少年モーグリと動物たちを描いた『ジャングル・ブック』で世界的に知られます。ノーベル文学賞を受賞しました。" },
+      { "q": "Kipling の代表作は？", "a": "『ジャングル・ブック（The Jungle Book）』が最も有名です。ほかに『少年キム』や詩『If—』などがあります。" }
+    ],
+    "quiz": [
+      { "q": "___ wrote \"The Jungle Book,\" about a boy raised by animals.（キプリングは動物に育てられた少年を描いた『ジャングル・ブック』を書いた）", "A": "Kipling", "B": "Kettle", "C": "Kernel", "D": "Keeper", "correct": "A" },
+      { "q": "Kipling の専門分野は？", "A": "文学", "B": "科学", "C": "音楽", "D": "政治", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Kandinsky",
+    "pron": "kænˈdɪnski",
+    "kana": "カンディンスキー",
+    "hinshi": "固有名詞（人物・画家）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ロシア語の姓 Kandinsky",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "美術・人物"],
+    "meaning_main": "カンディンスキー（抽象絵画の先駆者となったロシアの画家）",
+    "description": "Kandinsky はロシア出身の画家「ワシリー・カンディンスキー」を表す固有名詞。具体的な形を描かず、色と形そのもので感情を表現する「抽象絵画」の先駆者の一人です。音楽のように絵を描くことを目指し、20世紀美術に大きな影響を与えました。",
+    "keywords": ["Kandinsky 意味", "Kandinsky 発音", "カンディンスキー 英語", "Kandinsky 抽象画", "Kandinsky 例文"],
+    "meanings": [
+      { "hinshi": "【固有名詞】カンディンスキー", "note": "抽象絵画の先駆者となったロシア出身の画家(1866-1944)。" }
+    ],
+    "usages": [
+      { "title": "① カンディンスキー（画家）", "desc": "抽象絵画の先駆者。", "example_en": "Kandinsky was a pioneer of abstract art.", "example_ja": "カンディンスキーは抽象絵画の先駆者だった。" },
+      { "title": "② 色と形の表現", "desc": "具体的な形を描かない。", "example_en": "Kandinsky painted with pure color and shape.", "example_ja": "カンディンスキーは純粋な色と形で描いた。" },
+      { "title": "③ 音楽のような絵", "desc": "音楽と絵を結びつけた。", "example_en": "Kandinsky wanted his paintings to feel like music.", "example_ja": "カンディンスキーは絵を音楽のように感じさせたかった。" }
+    ],
+    "warn": ["固有名詞なので大文字で始める。フルネームはワシリー・カンディンスキー(Wassily Kandinsky)。", "抽象絵画(abstract art)の創始者の一人とされる。"],
+    "etym_note": "ロシア語の姓 Kandinsky に由来します。ワシリー・カンディンスキー（1866-1944）はモスクワに生まれ、ドイツやフランスで活躍し、抽象芸術の理論と実践を切り開きました。",
+    "etym_chain": [
+      { "node": "Kandinsky (姓)", "sub": "ロシア語の姓", "era": "近代" },
+      { "node": "Kandinsky", "sub": "画家の名", "era": "19-20世紀" },
+      { "node": "Kandinsky", "sub": "カンディンスキー", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Wassily Kandinsky", "ja": "ワシリー・カンディンスキー" },
+      { "en": "Kandinsky's abstract art", "ja": "カンディンスキーの抽象画" },
+      { "en": "color and form", "ja": "色と形" },
+      { "en": "a Kandinsky painting", "ja": "カンディンスキーの絵" },
+      { "en": "abstract painting", "ja": "抽象絵画" },
+      { "en": "the pioneer of abstraction", "ja": "抽象芸術の先駆者" }
+    ],
+    "related": [
+      { "en": "painter", "ja": "画家" },
+      { "en": "abstract", "ja": "抽象の" },
+      { "en": "Russia", "ja": "ロシア" },
+      { "en": "art", "ja": "美術" }
+    ],
+    "faq": [
+      { "q": "Kandinsky はどんな画家ですか？", "a": "ロシア出身の画家ワシリー・カンディンスキーで、具体的な形を描かず色と形そのもので感情を表現する「抽象絵画」の先駆者の一人です。" },
+      { "q": "抽象絵画（abstract art）とは？", "a": "山や人など具体的なものを写実的に描くのではなく、色・線・形そのもので感情やイメージを表現する絵画のことです。" }
+    ],
+    "quiz": [
+      { "q": "___ was a pioneer of abstract painting.（カンディンスキーは抽象絵画の先駆者だった）", "A": "Kandinsky", "B": "Kettle", "C": "Kernel", "D": "Keeper", "correct": "A" },
+      { "q": "Kandinsky が切り開いた絵画は？", "A": "抽象絵画", "B": "写実画", "C": "水墨画", "D": "版画", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Kurosawa",
+    "pron": "ˌkʊrəˈsɑːwə",
+    "kana": "クロサワ",
+    "hinshi": "固有名詞（人物・映画監督）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "日本語の姓「黒澤」",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "映画・人物"],
+    "meaning_main": "クロサワ（世界に影響を与えた日本の映画監督）",
+    "description": "Kurosawa は日本の映画監督「黒澤明」を表す固有名詞。『七人の侍』『羅生門』などの名作で知られ、力強い映像と物語で世界の映画に大きな影響を与えました。日本を代表する映画監督として、国際的にも高く評価されています。",
+    "keywords": ["Kurosawa 意味", "Kurosawa 発音", "クロサワ 英語", "黒澤明 七人の侍", "Kurosawa 例文"],
+    "meanings": [
+      { "hinshi": "【固有名詞】クロサワ", "note": "『七人の侍』などで知られる日本の映画監督 黒澤明(1910-1998)。" }
+    ],
+    "usages": [
+      { "title": "① クロサワ（映画監督）", "desc": "日本の巨匠。", "example_en": "Kurosawa was a legendary Japanese film director.", "example_ja": "クロサワは伝説的な日本の映画監督だった。" },
+      { "title": "② 『七人の侍』", "desc": "代表作。", "example_en": "Kurosawa directed \"Seven Samurai.\"", "example_ja": "クロサワは『七人の侍』を監督した。" },
+      { "title": "③ 世界の映画に影響", "desc": "多くの監督が影響を受けた。", "example_en": "Kurosawa influenced filmmakers around the world.", "example_ja": "クロサワは世界中の映画製作者に影響を与えた。" }
+    ],
+    "warn": ["固有名詞なので大文字で始める。フルネームは黒澤明(Akira Kurosawa)。", "『七人の侍』『羅生門』『乱』などで知られる。"],
+    "etym_note": "日本語の姓「黒澤（くろさわ）」に由来します。黒澤明（1910-1998）は東京に生まれ、その作品はハリウッドをはじめ世界中の映画に影響を与えました。",
+    "etym_chain": [
+      { "node": "黒澤 (Kurosawa)", "sub": "日本語の姓", "era": "日本" },
+      { "node": "Kurosawa", "sub": "映画監督の名", "era": "20世紀" },
+      { "node": "Kurosawa", "sub": "クロサワ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Akira Kurosawa", "ja": "黒澤明" },
+      { "en": "Seven Samurai", "ja": "七人の侍" },
+      { "en": "Rashomon", "ja": "羅生門" },
+      { "en": "a Kurosawa film", "ja": "クロサワの映画" },
+      { "en": "directed by Kurosawa", "ja": "クロサワ監督の" },
+      { "en": "Kurosawa's masterpieces", "ja": "クロサワの傑作" }
+    ],
+    "related": [
+      { "en": "film", "ja": "映画" },
+      { "en": "director", "ja": "監督" },
+      { "en": "Japan", "ja": "日本" },
+      { "en": "samurai", "ja": "侍" }
+    ],
+    "faq": [
+      { "q": "Kurosawa はどんな人ですか？", "a": "日本の映画監督 黒澤明で、『七人の侍』『羅生門』などの名作で知られます。力強い映像と物語で世界の映画に大きな影響を与えました。" },
+      { "q": "Kurosawa の代表作は？", "a": "『七人の侍（Seven Samurai）』が特に有名で、ハリウッドでリメイクされるなど世界の映画に影響を与えました。ほかに『羅生門』『乱』などがあります。" }
+    ],
+    "quiz": [
+      { "q": "___ directed the famous film \"Seven Samurai.\"（クロサワは有名な映画『七人の侍』を監督した）", "A": "Kurosawa", "B": "Kettle", "C": "Kernel", "D": "Keeper", "correct": "A" },
+      { "q": "Kurosawa の専門分野は？", "A": "映画", "B": "絵画", "C": "音楽", "D": "科学", "correct": "A" }
+    ]
+  }
+]

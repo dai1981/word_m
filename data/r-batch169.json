@@ -1,0 +1,525 @@
+[
+  {
+    "english": "ragamuffin",
+    "pron": "ˈræɡəmʌfɪn",
+    "kana": "ラガマフィン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "中英語 Ragamoffyn（悪魔の名）、rag（ぼろ）との連想より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "口語・描写"],
+    "meaning_main": "ぼろを着た子・みすぼらしい身なりの子",
+    "description": "ragamuffin の意味・発音・例文・語源を解説。ぼろぼろの服を着た「みすぼらしい身なりの子・浮浪児」という、口語・描写的に使う語の使い方を紹介します。",
+    "keywords": ["ragamuffin 意味", "ragamuffin 発音", "ぼろを着た子", "浮浪児"],
+    "meanings": [
+      { "hinshi": "【名詞】ぼろを着た子・みすぼらしい身なりの子", "note": "ぼろぼろの汚れた服を着た子ども（特に浮浪児）。しばしば愛嬌をこめて、あるいは同情をこめて使う。rag（ぼろ）との連想がある。" }
+    ],
+    "usages": [
+      { "title": "① 「ぼろを着た子」として", "desc": "みすぼらしい子どもを表します。", "example_en": "A little ragamuffin begged for coins on the street.", "example_ja": "小さなぼろを着た子が通りで小銭をねだった。" },
+      { "title": "② 愛嬌をこめて", "desc": "汚れて遊ぶ子を表します。", "example_en": "The kids came home from the mud as happy little ragamuffins.", "example_ja": "子どもたちは泥まみれで、幸せそうなちびっ子たちとして帰ってきた。" }
+    ],
+    "warn": [
+      "ragamuffin は『ぼろを着た子・みすぼらしい身なりの子』。しばしば愛嬌・同情をこめて使う。",
+      "猫の品種名（Ragamuffin）や音楽ジャンル（ラガマフィン）にも使われるが、本来の意味は『ぼろを着た子』。"
+    ],
+    "etym_note": "中英語で悪魔・悪霊を指した Ragamoffyn に由来し、rag（『ぼろ』）との連想で『ぼろをまとった者』の意味になりました。ラングランドの詩『農夫ピアズ』に悪魔の名として登場します。",
+    "etym_chain": [
+      { "node": "Ragamoffyn", "sub": "悪魔の名", "era": "中英語" },
+      { "node": "rag", "sub": "ぼろ（連想）", "era": "中英語" },
+      { "node": "ragamuffin", "sub": "ぼろを着た子", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a little ragamuffin", "ja": "小さなぼろを着た子" },
+      { "en": "a band of ragamuffins", "ja": "ぼろを着た子どもの一団" },
+      { "en": "a street ragamuffin", "ja": "通りの浮浪児" },
+      { "en": "look like a ragamuffin", "ja": "みすぼらしい身なりに見える" },
+      { "en": "a dirty little ragamuffin", "ja": "汚れたちびっ子" },
+      { "en": "ragged ragamuffins", "ja": "ぼろぼろの子どもたち" }
+    ],
+    "related": [
+      { "en": "urchin", "ja": "浮浪児・いたずら小僧" },
+      { "en": "waif", "ja": "宿なしの子・浮浪児" },
+      { "en": "rag", "ja": "ぼろ切れ" },
+      { "en": "scruffy", "ja": "みすぼらしい・薄汚い" }
+    ],
+    "faq": [
+      { "q": "ragamuffin とはどんな意味？", "a": "ぼろぼろの汚れた服を着た子ども『ぼろを着た子・みすぼらしい身なりの子（浮浪児）』のことです。A little ragamuffin begged for coins.（小さなぼろを着た子が小銭をねだった）のように、しばしば愛嬌や同情をこめて使います。" },
+      { "q": "ragamuffin と urchin の違いは？", "a": "どちらも『浮浪児・みすぼらしい子』を指しますが、ragamuffin は『ぼろを着た（身なりの）子』、urchin は『（通りをうろつく）いたずらな浮浪児』にやや重点があります。" }
+    ],
+    "quiz": [
+      { "q": "A little ___ begged for coins on the street.（ぼろを着た子）", "A": "ragamuffin", "B": "muffin のマフィン", "C": "puffin のツノメドリ", "D": "coffin の棺", "correct": "A" },
+      { "q": "ragamuffin と連想される rag の意味はどれ？", "A": "ぼろ切れ", "B": "怒り", "C": "旗", "D": "岩", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rapscallion",
+    "pron": "ræpˈskæliən",
+    "kana": "ラプスカリオン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rascallion（rascal「悪党」の変形）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "口語・古風"],
+    "meaning_main": "いたずら者・悪党・ならず者（ユーモラスに）",
+    "description": "rapscallion の意味・発音・例文・語源を解説。憎めない「いたずら者・悪党・ならず者」という、古風でユーモラスな口語の使い方を紹介します。rascal との関係も解説。",
+    "keywords": ["rapscallion 意味", "rapscallion 発音", "いたずら者", "悪党"],
+    "meanings": [
+      { "hinshi": "【名詞】いたずら者・悪党・ならず者", "note": "ずる賢く手に負えないが、しばしば憎めない人。古風でユーモラスな響き。rascal（悪党・いたずら者）の派生・変形。" }
+    ],
+    "usages": [
+      { "title": "① 「いたずら者」として", "desc": "手に負えないが憎めない人を表します。", "example_en": "That little rapscallion hid my glasses again!", "example_ja": "あのいたずら小僧がまた私の眼鏡を隠した！" },
+      { "title": "② 「ならず者」として", "desc": "ずるい人物を表します。", "example_en": "The old pirate was a lovable rapscallion.", "example_ja": "その老海賊は愛すべきならず者だった。" }
+    ],
+    "warn": [
+      "rapscallion は『いたずら者・悪党・ならず者』。古風でユーモラス。憎めないニュアンスで使うことが多い。",
+      "rascal（悪党・いたずら者）→ rascallion → rapscallion と変化した語。"
+    ],
+    "etym_note": "rascal（『悪党・いたずら者』、古フランス語 rascaille「下層民・くず」より）が rascallion → rapscallion と変化してできた語です。遊び心のある語形変化で、ユーモラスな響きを持ちます。",
+    "etym_chain": [
+      { "node": "rascaille", "sub": "下層民・くず", "era": "古フランス語" },
+      { "node": "rascal", "sub": "悪党・いたずら者", "era": "中英語" },
+      { "node": "rapscallion", "sub": "いたずら者・ならず者", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a little rapscallion", "ja": "いたずら小僧" },
+      { "en": "a lovable rapscallion", "ja": "愛すべきならず者" },
+      { "en": "you rapscallion!", "ja": "このいたずら者め！" },
+      { "en": "a band of rapscallions", "ja": "ならず者の一団" },
+      { "en": "a mischievous rapscallion", "ja": "いたずら好きなやんちゃ者" },
+      { "en": "an old rapscallion", "ja": "食えない年寄り" }
+    ],
+    "related": [
+      { "en": "rascal", "ja": "悪党・いたずら者" },
+      { "en": "scallywag", "ja": "いたずら者・ならず者" },
+      { "en": "scamp", "ja": "いたずらっ子・ならず者" },
+      { "en": "rogue", "ja": "悪党・いたずら者" }
+    ],
+    "faq": [
+      { "q": "rapscallion とはどんな意味？", "a": "ずる賢く手に負えないが、しばしば憎めない『いたずら者・悪党・ならず者』のことです。That little rapscallion hid my glasses!（あのいたずら小僧がまた眼鏡を隠した）のように、古風でユーモラスに使います。" },
+      { "q": "rapscallion と rascal の関係は？", "a": "rapscallion は rascal（悪党・いたずら者）が変化してできた語です。rascal → rascallion → rapscallion と、遊び心のある語形変化を経ており、よりユーモラスで大げさな響きになっています。" }
+    ],
+    "quiz": [
+      { "q": "That little ___ hid my glasses again!（いたずら者）", "A": "rapscallion", "B": "battalion の大隊", "C": "medallion のメダル", "D": "stallion の種馬", "correct": "A" },
+      { "q": "rapscallion のもとになった語はどれ？", "A": "rascal（悪党・いたずら者）", "B": "rapid（速い）", "C": "rabbit（ウサギ）", "D": "ration（配給）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reprocessing",
+    "pron": "ˌriːˈprəʊsɛsɪŋ",
+    "kana": "リプロセシング",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ processing（処理・加工）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "工業・原子力"],
+    "meaning_main": "再処理・再加工（特に使用済み核燃料の再処理）",
+    "description": "reprocessing の意味・発音・例文・語源を解説。原料や使用済みのものを「再処理・再加工すること」、特に「使用済み核燃料の再処理」という、工業や原子力で使う語の使い方を紹介します。",
+    "keywords": ["reprocessing 意味", "reprocessing 発音", "再処理", "核燃料 再処理"],
+    "meanings": [
+      { "hinshi": "【名詞】再処理・再加工", "note": "一度処理・加工したものを再び処理すること。特に、使用済み核燃料からプルトニウムやウランを取り出す『核燃料の再処理（nuclear reprocessing）』が有名。リサイクルでも使う。動詞は reprocess。" }
+    ],
+    "usages": [
+      { "title": "① 原子力「核燃料の再処理」として", "desc": "使用済み燃料の処理を表します。", "example_en": "The plant handles the reprocessing of spent nuclear fuel.", "example_ja": "その施設は使用済み核燃料の再処理を扱う。" },
+      { "title": "② 「素材の再加工」として", "desc": "リサイクルを表します。", "example_en": "Reprocessing of plastics reduces waste.", "example_ja": "プラスチックの再加工はごみを減らす。" }
+    ],
+    "warn": [
+      "reprocessing は『再処理・再加工』。re-＋ processing。動詞は reprocess。",
+      "特に『使用済み核燃料の再処理（nuclear reprocessing）』が重要な用法。核不拡散の観点で議論の的にもなる。"
+    ],
+    "etym_note": "re-（再び）＋ processing（process「処理する・加工する」、ラテン語 processus「進行」、procedere「前へ進む」より）から成り、「再び処理すること」を意味します。proceed（進む）と同じ語根です。",
+    "etym_chain": [
+      { "node": "processus", "sub": "進行", "era": "ラテン語" },
+      { "node": "processing", "sub": "処理・加工", "era": "近代英語" },
+      { "node": "reprocessing", "sub": "再処理・再加工", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "nuclear reprocessing", "ja": "核燃料の再処理" },
+      { "en": "reprocessing of spent fuel", "ja": "使用済み燃料の再処理" },
+      { "en": "a reprocessing plant", "ja": "再処理施設" },
+      { "en": "reprocessing of plastics", "ja": "プラスチックの再加工" },
+      { "en": "chemical reprocessing", "ja": "化学的な再処理" },
+      { "en": "waste reprocessing", "ja": "廃棄物の再処理" }
+    ],
+    "related": [
+      { "en": "reprocess", "ja": "再処理する・再加工する" },
+      { "en": "processing", "ja": "処理・加工" },
+      { "en": "recycling", "ja": "リサイクル・再生利用" },
+      { "en": "spent fuel", "ja": "使用済み燃料" }
+    ],
+    "faq": [
+      { "q": "reprocessing とはどんな意味？", "a": "原料や使用済みのものを『再処理・再加工すること』です。特に使用済み核燃料からウランやプルトニウムを取り出す『核燃料の再処理』が有名です。The plant handles the reprocessing of spent nuclear fuel.（使用済み核燃料の再処理を扱う）のように使います。動詞は reprocess です。" },
+      { "q": "核燃料の reprocessing はなぜ議論になる？", "a": "使用済み核燃料からプルトニウムを取り出せるため、資源の有効利用になる一方、核兵器への転用（核拡散）の懸念があり、国際的に議論の的になっています。" }
+    ],
+    "quiz": [
+      { "q": "The plant handles the ___ of spent nuclear fuel.（再処理）", "A": "reprocessing", "B": "reproducing の複製", "C": "reporting の報告", "D": "researching の研究", "correct": "A" },
+      { "q": "reprocessing の動詞形はどれ？", "A": "reprocess（再処理する）", "B": "reproduce（複製する）", "C": "report（報告する）", "D": "research（研究する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "recontamination",
+    "pron": "ˌriːkənˌtæmɪˈneɪʃən",
+    "kana": "リコンタミネイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ contamination（汚染）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "医療・環境"],
+    "meaning_main": "再汚染・（きれいにした後の）再び汚れること",
+    "description": "recontamination の意味・発音・例文・語源を解説。いったんきれいにしたものが「再び汚染されること・再汚染」という、医療や食品衛生、環境で使う語の使い方を紹介します。動詞 recontaminate も解説。",
+    "keywords": ["recontamination 意味", "recontamination 発音", "再汚染", "contamination 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再汚染", "note": "洗浄・除染・滅菌したものが、再び細菌・有害物質などで汚染されること。avoid recontamination（再汚染を避ける）。食品衛生・医療・除染などで重要。動詞は recontaminate。" }
+    ],
+    "usages": [
+      { "title": "① 食品衛生「再汚染を防ぐ」として", "desc": "洗浄後の汚染防止を表します。", "example_en": "Proper storage prevents recontamination of cooked food.", "example_ja": "適切な保存は調理済み食品の再汚染を防ぐ。" },
+      { "title": "② 「除染後の再汚染」として", "desc": "きれいにした後の汚れを表します。", "example_en": "Rain could cause recontamination of the cleaned site.", "example_ja": "雨は除染した場所の再汚染を招きかねない。" }
+    ],
+    "warn": [
+      "recontamination は『再汚染』。re-＋ contamination。動詞は recontaminate。",
+      "食品衛生（洗った後の再汚染）、医療（滅菌後の汚染）、環境（除染後の再汚染）などで使う。"
+    ],
+    "etym_note": "re-（再び）＋ contamination（contaminate「汚染する」、ラテン語 contaminare「触れて汚す」、com-＋ tangere「触れる」より）から成り、「再び汚染すること」を意味します。contact（接触）や tangible（触れられる）と同じ tangere の系統です。",
+    "etym_chain": [
+      { "node": "contaminare", "sub": "触れて汚す", "era": "ラテン語" },
+      { "node": "contamination", "sub": "汚染", "era": "近代英語" },
+      { "node": "recontamination", "sub": "再汚染", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "avoid recontamination", "ja": "再汚染を避ける" },
+      { "en": "prevent recontamination", "ja": "再汚染を防ぐ" },
+      { "en": "recontamination of food", "ja": "食品の再汚染" },
+      { "en": "the risk of recontamination", "ja": "再汚染のリスク" },
+      { "en": "recontamination of the water", "ja": "水の再汚染" },
+      { "en": "guard against recontamination", "ja": "再汚染を警戒する" }
+    ],
+    "related": [
+      { "en": "recontaminate", "ja": "再汚染する" },
+      { "en": "contamination", "ja": "汚染" },
+      { "en": "decontamination", "ja": "除染・汚染除去" },
+      { "en": "sterilization", "ja": "滅菌・殺菌" }
+    ],
+    "faq": [
+      { "q": "recontamination とはどんな意味？", "a": "洗浄・除染・滅菌したものが『再び汚染されること（再汚染）』です。Proper storage prevents recontamination of cooked food.（適切な保存は調理済み食品の再汚染を防ぐ）のように使います。動詞は recontaminate です。" },
+      { "q": "recontamination と decontamination の違いは？", "a": "decontamination は『汚染を取り除くこと（除染）』、recontamination は『（除染した後に）再び汚染されること（再汚染）』です。除染したものが再汚染しないようにすることが重要です。" }
+    ],
+    "quiz": [
+      { "q": "Proper storage prevents ___ of cooked food.（再汚染）", "A": "recontamination", "B": "determination の決意", "C": "examination の試験", "D": "combination の組み合わせ", "correct": "A" },
+      { "q": "recontamination の反対の意味の語はどれ？", "A": "decontamination（除染）", "B": "documentation（文書化）", "C": "demonstration（実演）", "D": "decoration（装飾）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rededication",
+    "pron": "ˌriːdɛdɪˈkeɪʃən",
+    "kana": "リデディケイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ dedication（献身・奉献）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "式典・一般"],
+    "meaning_main": "再び捧げること・改めての献身／（建物などの）再奉献式",
+    "description": "rededication の意味・発音・例文・語源を解説。目標や理念に「改めて身を捧げること」、また修復した建物や記念碑を「改めて奉献・除幕すること」という語の使い方を紹介します。",
+    "keywords": ["rededication 意味", "rededication 発音", "改めての献身", "再奉献"],
+    "meanings": [
+      { "hinshi": "【名詞】改めての献身・再び身を捧げること", "note": "目標・理念・務めに改めて力を注ぐと誓うこと。a rededication to public service（公共への奉仕への改めての献身）。" },
+      { "hinshi": "【名詞】（修復した建物・記念碑の）再奉献・再除幕", "note": "改修・修復した教会・記念碑などを改めて捧げ・披露する式。動詞は rededicate。" }
+    ],
+    "usages": [
+      { "title": "① 「改めての献身」として", "desc": "誓い直しを表します。", "example_en": "The anniversary was a rededication to their shared goals.", "example_ja": "その記念日は共通の目標への改めての誓いだった。" },
+      { "title": "② 「再奉献式」として", "desc": "建物の再披露を表します。", "example_en": "The restored monument had a public rededication.", "example_ja": "修復された記念碑は公開の再除幕式が行われた。" }
+    ],
+    "warn": [
+      "rededication は『改めての献身・再び身を捧げること／（建物などの）再奉献・再除幕』。re-＋ dedication。動詞は rededicate。",
+      "誓いの新たな表明（recommitment に近い）と、修復した建物・記念碑の再奉献式の両方で使う。"
+    ],
+    "etym_note": "re-（再び）＋ dedication（dedicate「捧げる・献身する」、ラテン語 dedicare「宣言する・捧げる」、de-＋ dicare「告げる」より）から成り、「再び捧げること」を意味します。dictate（口述する）や indicate（示す）と同じ dicare の系統です。",
+    "etym_chain": [
+      { "node": "dedicare", "sub": "宣言する・捧げる", "era": "ラテン語" },
+      { "node": "dedication", "sub": "献身・奉献", "era": "中英語" },
+      { "node": "rededication", "sub": "改めての献身・再奉献", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a rededication to the cause", "ja": "大義への改めての献身" },
+      { "en": "a rededication ceremony", "ja": "再奉献式・再除幕式" },
+      { "en": "a rededication of the church", "ja": "教会の再奉献" },
+      { "en": "a rededication to public service", "ja": "公共奉仕への改めての誓い" },
+      { "en": "call for rededication", "ja": "改めての献身を呼びかける" },
+      { "en": "the monument's rededication", "ja": "記念碑の再除幕" }
+    ],
+    "related": [
+      { "en": "rededicate", "ja": "再び捧げる・改めて献身する" },
+      { "en": "dedication", "ja": "献身・奉献" },
+      { "en": "recommitment", "ja": "改めての決意・再誓約" },
+      { "en": "consecration", "ja": "奉献・聖別" }
+    ],
+    "faq": [
+      { "q": "rededication とはどんな意味？", "a": "目標・理念に『改めて身を捧げること』、また修復した建物・記念碑を『改めて奉献・披露すること（再奉献式）』です。The anniversary was a rededication to their goals.（共通の目標への改めての誓いだった）のように使います。動詞は rededicate です。" },
+      { "q": "rededication と recommitment の違いは？", "a": "どちらも『改めての誓い』を指せますが、rededication は『（理念・務めに）身を捧げ直すこと』や『（建物の）再奉献式』、recommitment は『（目標・約束に）改めて力を注ぐと誓うこと』にやや重点があります。" }
+    ],
+    "quiz": [
+      { "q": "The restored monument had a public ___.（再除幕式）", "A": "rededication", "B": "dedication の最初の奉献だけ", "C": "medication の投薬", "D": "education の教育", "correct": "A" },
+      { "q": "rededication の動詞形はどれ？", "A": "rededicate（再び捧げる）", "B": "medicate（薬を与える）", "C": "educate（教育する）", "D": "dedicate の最初に捧げるだけ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "redelivery",
+    "pron": "ˌriːdɪˈlɪvəri",
+    "kana": "リデリバリー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ delivery（配達）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "物流・日常"],
+    "meaning_main": "再配達・再送",
+    "description": "redelivery の意味・発音・例文・語源を解説。不在などで届かなかった荷物を「再び配達すること・再配達」という、物流や日常で使う語の使い方を紹介します。動詞 redeliver も解説。",
+    "keywords": ["redelivery 意味", "redelivery 発音", "再配達", "delivery 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再配達・再送", "note": "不在・受取拒否などで届けられなかった荷物・郵便を、改めて配達すること。arrange a redelivery（再配達を手配する）。動詞は redeliver。" }
+    ],
+    "usages": [
+      { "title": "① 「再配達を頼む」として", "desc": "不在後の再配達を表します。", "example_en": "I missed the parcel, so I arranged a redelivery.", "example_ja": "荷物を受け取れなかったので、再配達を手配した。" },
+      { "title": "② 「再配達サービス」として", "desc": "配達のやり直しを表します。", "example_en": "The courier offers free redelivery.", "example_ja": "その宅配業者は無料の再配達を提供している。" }
+    ],
+    "warn": [
+      "redelivery は『再配達・再送』。re-＋ delivery。動詞は redeliver。",
+      "不在票（missed delivery notice）を受けて再配達を頼む日常的な語。"
+    ],
+    "etym_note": "re-（再び）＋ delivery（deliver「配達する・引き渡す」、古フランス語 delivrer「解放する・引き渡す」、ラテン語 de-＋ liberare「自由にする」より）から成り、「再び引き渡すこと」を意味します。liberate（解放する）と同じ liberare の系統です。",
+    "etym_chain": [
+      { "node": "delivrer", "sub": "引き渡す・解放する", "era": "古フランス語" },
+      { "node": "delivery", "sub": "配達", "era": "中英語" },
+      { "node": "redelivery", "sub": "再配達・再送", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "arrange a redelivery", "ja": "再配達を手配する" },
+      { "en": "request redelivery", "ja": "再配達を依頼する" },
+      { "en": "free redelivery", "ja": "無料の再配達" },
+      { "en": "schedule a redelivery", "ja": "再配達を予約する" },
+      { "en": "a redelivery notice", "ja": "再配達の通知（不在票）" },
+      { "en": "redelivery of the parcel", "ja": "小包の再配達" }
+    ],
+    "related": [
+      { "en": "redeliver", "ja": "再配達する" },
+      { "en": "delivery", "ja": "配達" },
+      { "en": "courier", "ja": "宅配便・配達業者" },
+      { "en": "parcel", "ja": "小包" }
+    ],
+    "faq": [
+      { "q": "redelivery とはどんな意味？", "a": "不在などで届けられなかった荷物・郵便を『再び配達すること（再配達・再送）』です。I missed the parcel, so I arranged a redelivery.（荷物を受け取れなかったので再配達を手配した）のように使います。動詞は redeliver です。" },
+      { "q": "redelivery はどんなときに使う？", "a": "宅配便や郵便が不在で届けられず、不在票（redelivery notice）を受け取ったときに、改めて配達してもらうよう手配する場面で使います。" }
+    ],
+    "quiz": [
+      { "q": "I missed the parcel, so I arranged a ___.（再配達）", "A": "redelivery", "B": "recovery の回復", "C": "discovery の発見", "D": "delivery の最初の配達だけ", "correct": "A" },
+      { "q": "redelivery の動詞形はどれ？", "A": "redeliver（再配達する）", "B": "recover（回復する）", "C": "discover（発見する）", "D": "deliver の最初に配達するだけ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reincorporation",
+    "pron": "ˌriːɪnˌkɔːpəˈreɪʃən",
+    "kana": "リインコーポレイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ incorporation（法人化・組み込み）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "ビジネス・法律"],
+    "meaning_main": "再び組み込むこと・再法人化",
+    "description": "reincorporation の意味・発音・例文・語源を解説。要素を「再び組み込むこと」、また会社を別の州・国で「改めて法人化すること（再法人化）」という、ビジネスや法律で使う語の使い方を紹介します。",
+    "keywords": ["reincorporation 意味", "reincorporation 発音", "再法人化", "incorporation 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再び組み込むこと・再統合", "note": "一度外した要素を再び全体に取り入れること。the reincorporation of feedback（意見の再取り込み）。" },
+      { "hinshi": "【名詞】再法人化", "note": "会社を別の州・国などで改めて法人登記し直すこと。reincorporation in Delaware（デラウェア州での再法人化）。動詞は reincorporate。" }
+    ],
+    "usages": [
+      { "title": "① 「要素の再統合」として", "desc": "再び取り入れることを表します。", "example_en": "The reincorporation of the deleted section improved the report.", "example_ja": "削除した項の再統合が報告書を良くした。" },
+      { "title": "② 「会社の再法人化」として", "desc": "改めての登記を表します。", "example_en": "The firm's reincorporation in Delaware saved on taxes.", "example_ja": "その会社のデラウェア州での再法人化は税を節約した。" }
+    ],
+    "warn": [
+      "reincorporation は『再び組み込むこと・再統合／再法人化』。re-＋ incorporation。動詞は reincorporate。",
+      "incorporation は『取り入れること』と『法人化』の両義があり、reincorporation も両方に対応する。"
+    ],
+    "etym_note": "re-（再び）＋ incorporation（incorporate「組み込む・法人化する」、ラテン語 incorporare「体に取り込む」、in-＋ corpus「体」より）から成り、「再び一つの体に取り込むこと」を意味します。corps（軍団）や corpse（死体）と同じ corpus の系統です。",
+    "etym_chain": [
+      { "node": "corpus", "sub": "体", "era": "ラテン語" },
+      { "node": "incorporation", "sub": "法人化・組み込み", "era": "中英語" },
+      { "node": "reincorporation", "sub": "再び組み込むこと・再法人化", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the reincorporation of feedback", "ja": "意見の再取り込み" },
+      { "en": "reincorporation of the section", "ja": "その項の再統合" },
+      { "en": "reincorporation in Delaware", "ja": "デラウェアでの再法人化" },
+      { "en": "a corporate reincorporation", "ja": "会社の再法人化" },
+      { "en": "the reincorporation of the town", "ja": "町の再自治体化" },
+      { "en": "require reincorporation", "ja": "再法人化を要する" }
+    ],
+    "related": [
+      { "en": "reincorporate", "ja": "再び組み込む・再法人化する" },
+      { "en": "incorporation", "ja": "法人化・組み込み" },
+      { "en": "reintegration", "ja": "再統合" },
+      { "en": "merger", "ja": "合併" }
+    ],
+    "faq": [
+      { "q": "reincorporation とはどんな意味？", "a": "要素を『再び組み込むこと・再統合』、また会社を別の州・国で『改めて法人化すること（再法人化）』です。The firm's reincorporation in Delaware saved on taxes.（デラウェア州での再法人化は税を節約した）のように使います。動詞は reincorporate です。" },
+      { "q": "会社の reincorporation とは？", "a": "会社を別の州や国で改めて法人登記し直すことです。米国では、税制や法制度が有利な州（例：デラウェア州）へ reincorporation することがあります。" }
+    ],
+    "quiz": [
+      { "q": "The firm's ___ in Delaware saved on taxes.（再法人化）", "A": "reincorporation", "B": "corporation の最初の法人だけ", "C": "cooperation の協力", "D": "corporation の同義 correlation（相関）", "correct": "A" },
+      { "q": "reincorporation の動詞形はどれ？", "A": "reincorporate（再び組み込む・再法人化する）", "B": "cooperate（協力する）", "C": "correlate（相関する）", "D": "incorporate の最初に法人化するだけ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reupholstery",
+    "pron": "ˌriːʌpˈhəʊlstəri",
+    "kana": "リアップホルスタリー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ upholstery（（家具の）布張り・詰め物）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "家具・工芸"],
+    "meaning_main": "（家具の）張り替え・布張りのやり直し",
+    "description": "reupholstery の意味・発音・例文・語源を解説。いすやソファーの「布張りを張り替えること・詰め物のやり直し」という、家具や工芸で使う語の使い方を紹介します。動詞 reupholster も解説。",
+    "keywords": ["reupholstery 意味", "reupholstery 発音", "張り替え", "upholstery 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】（家具の）張り替え・布張りのやり直し", "note": "いす・ソファーなどの表地（布・革）や中の詰め物（クッション材）を新しく張り替えること。動詞は reupholster。upholstery は家具の布張り・詰め物。" }
+    ],
+    "usages": [
+      { "title": "① 「ソファーの張り替え」として", "desc": "表地の交換を表します。", "example_en": "The old sofa needs reupholstery.", "example_ja": "その古いソファーは張り替えが必要だ。" },
+      { "title": "② 「いすの布張りをやり直す」として", "desc": "布張りの一新を表します。", "example_en": "Reupholstery gave the antique chairs a new life.", "example_ja": "張り替えでアンティークのいすが生き返った。" }
+    ],
+    "warn": [
+      "reupholstery は『（家具の）張り替え・布張りのやり直し』。re-＋ upholstery。動詞は reupholster。",
+      "upholstery は『（家具の）布張り・詰め物』。upholsterer は『いす張り職人』。"
+    ],
+    "etym_note": "re-（再び）＋ upholstery（uphold「支える・保つ」＋ -ster ＋ -y より。もとは『家具を整え保つ職人（upholster）』の仕事）から成り、「再び家具の布張りを整えること」を意味します。",
+    "etym_chain": [
+      { "node": "uphold", "sub": "支える・保つ", "era": "中英語" },
+      { "node": "upholstery", "sub": "布張り・詰め物", "era": "近代英語" },
+      { "node": "reupholstery", "sub": "張り替え", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "need reupholstery", "ja": "張り替えが必要だ" },
+      { "en": "sofa reupholstery", "ja": "ソファーの張り替え" },
+      { "en": "reupholstery of the chairs", "ja": "いすの張り替え" },
+      { "en": "cost of reupholstery", "ja": "張り替えの費用" },
+      { "en": "professional reupholstery", "ja": "プロによる張り替え" },
+      { "en": "reupholstery in leather", "ja": "革での張り替え" }
+    ],
+    "related": [
+      { "en": "reupholster", "ja": "張り替える" },
+      { "en": "upholstery", "ja": "布張り・詰め物" },
+      { "en": "upholsterer", "ja": "いす張り職人" },
+      { "en": "refurbishment", "ja": "改装・一新" }
+    ],
+    "faq": [
+      { "q": "reupholstery とはどんな意味？", "a": "いすやソファーなどの表地（布・革）や中の詰め物を『新しく張り替えること（張り替え・布張りのやり直し）』です。The old sofa needs reupholstery.（その古いソファーは張り替えが必要だ）のように使います。動詞は reupholster です。" },
+      { "q": "upholstery とは？", "a": "家具（いす・ソファーなど）の布張り・革張りや、中のクッション材（詰め物）のことです。それを新しくやり直すのが reupholstery（張り替え）で、職人を upholsterer と呼びます。" }
+    ],
+    "quiz": [
+      { "q": "The old sofa needs ___.（張り替え）", "A": "reupholstery", "B": "recovery の回復", "C": "refinery の精製所", "D": "rediscovery の再発見", "correct": "A" },
+      { "q": "reupholstery の動詞形はどれ？", "A": "reupholster（張り替える）", "B": "recover の回復するだけ", "C": "refine（精製する）", "D": "rediscover（再発見する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rooftree",
+    "pron": "ˈruːftriː",
+    "kana": "ルーフツリー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "roof（屋根）＋ tree（材木・棟木）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "建築・文語"],
+    "meaning_main": "棟木（むなぎ）／（比喩）わが家・屋根",
+    "description": "rooftree の意味・発音・例文・語源を解説。屋根の頂上を支える横材「棟木（むなぎ）」、また比喩で「わが家・住まい」という、建築や文語で使う語の使い方を紹介します。",
+    "keywords": ["rooftree 意味", "rooftree 発音", "棟木", "わが家"],
+    "meanings": [
+      { "hinshi": "【名詞】棟木（むなぎ）", "note": "屋根の頂上に水平に渡され、垂木を支える最も高い横材。屋根の骨組みの背骨にあたる。roof（屋根）＋ tree（材木）。" },
+      { "hinshi": "【名詞】（比喩・文語）わが家・屋根・住まい", "note": "屋根を家全体の象徴として『わが家・住まい』を指す文語的用法。under one's own rooftree（自分の家で）。" }
+    ],
+    "usages": [
+      { "title": "① 「棟木」として", "desc": "屋根の背骨の材を表します。", "example_en": "The carpenters raised the rooftree of the new barn.", "example_ja": "大工たちは新しい納屋の棟木を上げた。" },
+      { "title": "② 比喩「わが家」として", "desc": "住まいを表します。", "example_en": "He longed to be back under his own rooftree.", "example_ja": "彼はわが家に戻りたいと切望した。" }
+    ],
+    "warn": [
+      "rooftree は『棟木（むなぎ）／（比喩・文語）わが家・住まい』。roof（屋根）＋ tree（材木）。",
+      "ここでの tree は『（生きた）木』ではなく『材木・梁』の意味。文語的でやや古風。"
+    ],
+    "etym_note": "roof（『屋根』、古英語 hrof より）＋ tree（『木・材木・梁』、古英語 trēow より。tree には『材・梁』の古い意味がある）から成り、「屋根の梁＝棟木」を意味します。axletree（車軸）などと同じ、tree を『材』とする用法です。",
+    "etym_chain": [
+      { "node": "roof + tree", "sub": "屋根＋材木", "era": "英語" },
+      { "node": "rooftree", "sub": "棟木", "era": "中英語" },
+      { "node": "rooftree", "sub": "棟木・わが家", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "raise the rooftree", "ja": "棟木を上げる" },
+      { "en": "the rooftree of the house", "ja": "家の棟木" },
+      { "en": "under one's own rooftree", "ja": "自分の家で" },
+      { "en": "beneath the rooftree", "ja": "屋根の下で・わが家で" },
+      { "en": "the ancestral rooftree", "ja": "先祖代々の家" },
+      { "en": "a sturdy rooftree", "ja": "頑丈な棟木" }
+    ],
+    "related": [
+      { "en": "ridgepole", "ja": "棟木・棟柱" },
+      { "en": "beam", "ja": "梁・横材" },
+      { "en": "rafter", "ja": "垂木" },
+      { "en": "roof", "ja": "屋根" }
+    ],
+    "faq": [
+      { "q": "rooftree とはどんな意味？", "a": "屋根の頂上に水平に渡され垂木を支える最も高い横材『棟木（むなぎ）』のことです。また比喩・文語で『わが家・住まい』も指します。The carpenters raised the rooftree.（大工たちは棟木を上げた）のように使います。" },
+      { "q": "rooftree の tree はどんな意味？", "a": "『（生きた）木』ではなく『材木・梁』の意味です。tree には古くから『材・棒』の意味があり、axletree（車軸）などと同じ用法で、rooftree は『屋根の梁（棟木）』を表します。" }
+    ],
+    "quiz": [
+      { "q": "The carpenters raised the ___ of the new barn.（棟木）", "A": "rooftree", "B": "rooftop の屋上", "C": "pine tree の松の木", "D": "family tree の家系図", "correct": "A" },
+      { "q": "rooftree の tree はどんな意味？", "A": "材木・梁", "B": "生きた木だけ", "C": "森", "D": "根", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rutting",
+    "pron": "ˈrʌtɪŋ",
+    "kana": "ラッティング",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rut（（雄鹿などの）発情期）＋ -ing",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "生物・動物"],
+    "meaning_main": "（雄鹿などの）発情期の行動・盛りがつくこと",
+    "description": "rutting の意味・発音・例文・語源を解説。シカなどの雄が繁殖期に見せる「発情期の行動・盛りがつくこと」という、生物・動物で使う語の使い方を紹介します。名詞 rut も解説。",
+    "keywords": ["rutting 意味", "rutting 発音", "発情期", "rut 意味"],
+    "meanings": [
+      { "hinshi": "【名詞/形容詞】（雄鹿などの）発情期の行動・盛りがつくこと", "note": "シカ・ヤギ・ヒツジなどの雄が、繁殖期（rut）に見せる、鳴き・角突き・縄張り争いなどの行動。the rutting season（発情期）。名詞 rut は『発情期』そのもの。" }
+    ],
+    "usages": [
+      { "title": "① 「発情期の行動」として", "desc": "繁殖期の雄の行動を表します。", "example_en": "During the rutting season, stags bellow and clash antlers.", "example_ja": "発情期の間、雄鹿は鳴き声を上げ角を突き合わせる。" },
+      { "title": "② 「盛りがつく」として", "desc": "繁殖期の状態を表します。", "example_en": "The rutting males became aggressive.", "example_ja": "発情期の雄は攻撃的になった。" }
+    ],
+    "warn": [
+      "rutting は『（雄鹿などの）発情期の行動・盛りがつくこと』。rut（発情期）＋ -ing。",
+      "名詞 rut には別に『わだち・（比喩で）マンネリ』の意味もあるが、rutting は主に動物の発情期を指す。"
+    ],
+    "etym_note": "rut（『（雄の）発情期』、古フランス語 rut、ラテン語 rugitus「（獣の）うなり声」より。雄鹿のうなり声にちなむ）＋ -ing から成り、「発情期の（行動）」を意味します。",
+    "etym_chain": [
+      { "node": "rugitus", "sub": "獣のうなり声", "era": "ラテン語" },
+      { "node": "rut", "sub": "（雄の）発情期", "era": "中英語" },
+      { "node": "rutting", "sub": "発情期の行動", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the rutting season", "ja": "発情期" },
+      { "en": "rutting stags", "ja": "発情期の雄鹿" },
+      { "en": "during the rut", "ja": "発情期の間" },
+      { "en": "rutting behavior", "ja": "発情期の行動" },
+      { "en": "a rutting male", "ja": "盛りのついた雄" },
+      { "en": "the roar of rutting deer", "ja": "発情期の鹿のうなり声" }
+    ],
+    "related": [
+      { "en": "rut", "ja": "発情期・わだち" },
+      { "en": "mating season", "ja": "交尾期・繁殖期" },
+      { "en": "stag", "ja": "雄鹿" },
+      { "en": "antler", "ja": "（鹿の）枝角" }
+    ],
+    "faq": [
+      { "q": "rutting とはどんな意味？", "a": "シカ・ヤギ・ヒツジなどの雄が繁殖期（rut）に見せる『発情期の行動・盛りがつくこと』です。During the rutting season, stags bellow and clash antlers.（発情期の間、雄鹿は鳴き角を突き合わせる）のように使います。" },
+      { "q": "rut の他の意味は？", "a": "名詞 rut には『（道の）わだち』、そこから比喩で『マンネリ・型にはまった状態（in a rut）』の意味もあります。ただし rutting は主に動物の発情期を指します。" }
+    ],
+    "quiz": [
+      { "q": "During the ___ season, stags bellow and clash antlers.（発情期の）", "A": "rutting", "B": "cutting の切ること", "C": "putting の置くこと", "D": "hunting の狩り", "correct": "A" },
+      { "q": "rutting はおもにどんな動物の行動？", "A": "雄鹿など（繁殖期の雄）", "B": "渡り鳥", "C": "深海魚", "D": "昆虫の幼虫", "correct": "A" }
+    ]
+  }
+]

@@ -1,0 +1,495 @@
+[
+  {
+    "english": "jointly",
+    "pron": "ˈdʒɔɪntli",
+    "kana": "ジョイントリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "joint（共同の）＋ -ly",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "頻出語"],
+    "meaning_main": "共同で／合同で／一緒に",
+    "description": "jointly は「共同で・合同で」を表す副詞。複数の人や団体が力を合わせて一緒に行うことを表します。形容詞 joint（共同の）＋ -ly でできています。契約や事業、受賞などで「共同で行う・共同名義の」場面でよく使われます。",
+    "keywords": ["jointly 意味", "jointly 発音", "jointly 共同で", "jointly 合同", "jointly 例文"],
+    "meanings": [
+      { "hinshi": "【副】共同で・合同で・一緒に", "note": "複数で力を合わせて行うようす。" }
+    ],
+    "usages": [
+      { "title": "① 共同で行う", "desc": "力を合わせて。", "example_en": "The two companies jointly developed the product.", "example_ja": "その2社は共同で製品を開発した。" },
+      { "title": "② 共同名義で", "desc": "一緒に所有・責任。", "example_en": "They own the house jointly.", "example_ja": "彼らはその家を共同で所有している。" },
+      { "title": "③ 共同で受賞", "desc": "分かち合う。", "example_en": "The prize was awarded jointly to two scientists.", "example_ja": "その賞は2人の科学者に共同で授与された。" }
+    ],
+    "warn": ["joint（共同の）＋ -ly の副詞。反対は separately / individually（別々に）。", "「共同で〜する」は do ~ jointly。"],
+    "etym_note": "形容詞 joint（共同の・合同の）に、副詞をつくる接尾辞 -ly が付いた語です。join（つなぐ）と同じ語源で、「結びついて一緒に」を意味します。",
+    "etym_chain": [
+      { "node": "joint + -ly", "sub": "共同の＋副詞", "era": "中英語" },
+      { "node": "jointly", "sub": "共同で", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "jointly owned", "ja": "共同で所有された" },
+      { "en": "jointly developed", "ja": "共同で開発された" },
+      { "en": "jointly responsible", "ja": "共同で責任がある" },
+      { "en": "act jointly", "ja": "共同で行動する" },
+      { "en": "jointly and severally", "ja": "連帯して(法律)" },
+      { "en": "jointly organized", "ja": "共催の" }
+    ],
+    "related": [
+      { "en": "joint", "ja": "共同の" },
+      { "en": "together", "ja": "一緒に" },
+      { "en": "collaboratively", "ja": "協力して" },
+      { "en": "separately", "ja": "別々に" }
+    ],
+    "faq": [
+      { "q": "jointly とはどんな意味ですか？", "a": "「共同で・合同で・一緒に」という意味の副詞です。複数の人や団体が力を合わせて行うことを表し、契約や事業、受賞などでよく使われます。" },
+      { "q": "jointly の反対語は？", "a": "separately（別々に）や individually（個別に）です。jointly は「一緒に・共同で」を表します。" }
+    ],
+    "quiz": [
+      { "q": "The prize was awarded ___ to the two researchers.（その賞は2人の研究者に共同で授与された）", "A": "jointly", "B": "jealously", "C": "jaggedly", "D": "jokingly", "correct": "A" },
+      { "q": "jointly は joint ＋ ___ の副詞。空所は？", "A": "-ly", "B": "-ness", "C": "-ful", "D": "-able", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jokingly",
+    "pron": "ˈdʒoʊkɪŋli",
+    "kana": "ジョウキングリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "joke（冗談）＋ -ing＋-ly",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "頻出語"],
+    "meaning_main": "冗談で／ふざけて／冗談めかして",
+    "description": "jokingly は「冗談で・ふざけて」を表す副詞。本気ではなく、冗談のつもりで何かを言ったりしたりする様子を表します。動詞 joke（冗談を言う）から派生した語で、say something jokingly（冗談で言う）のように使われます。",
+    "keywords": ["jokingly 意味", "jokingly 発音", "jokingly 冗談で", "jokingly ふざけて", "jokingly 例文"],
+    "meanings": [
+      { "hinshi": "【副】冗談で・ふざけて・冗談めかして", "note": "本気ではなく冗談のつもりで。" }
+    ],
+    "usages": [
+      { "title": "① 冗談で言う", "desc": "本気でなく。", "example_en": "He jokingly called her \"boss.\"", "example_ja": "彼は冗談で彼女を「ボス」と呼んだ。" },
+      { "title": "② ふざけて", "desc": "からかい半分で。", "example_en": "She jokingly suggested we skip work.", "example_ja": "彼女は冗談で仕事をサボろうと言った。" },
+      { "title": "③ 冗談めかして", "desc": "本気に取らせない。", "example_en": "\"You're late again,\" he said jokingly.", "example_ja": "「また遅刻だね」と彼は冗談めかして言った。" }
+    ],
+    "warn": ["joke（冗談を言う）＋ -ing＋-ly の副詞。", "反対は seriously（真剣に）。"],
+    "etym_note": "動詞 joke（冗談を言う）の現在分詞 joking に、副詞をつくる -ly が付いた語です。「冗談を言うように＝冗談で」を意味します。",
+    "etym_chain": [
+      { "node": "joke + -ing + -ly", "sub": "冗談＋副詞", "era": "近代英語" },
+      { "node": "jokingly", "sub": "冗談で", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "say jokingly", "ja": "冗談で言う" },
+      { "en": "half-jokingly", "ja": "半分冗談で" },
+      { "en": "jokingly refer to", "ja": "冗談で〜と呼ぶ" },
+      { "en": "add jokingly", "ja": "冗談めかして付け加える" },
+      { "en": "jokingly suggest", "ja": "冗談で提案する" },
+      { "en": "remark jokingly", "ja": "冗談めかして言う" }
+    ],
+    "related": [
+      { "en": "joke", "ja": "冗談を言う" },
+      { "en": "playfully", "ja": "ふざけて" },
+      { "en": "teasingly", "ja": "からかうように" },
+      { "en": "seriously", "ja": "真剣に" }
+    ],
+    "faq": [
+      { "q": "jokingly とはどんな意味ですか？", "a": "「冗談で・ふざけて・冗談めかして」という意味の副詞です。本気ではなく冗談のつもりで何かを言ったりしたりする様子を表します。" },
+      { "q": "jokingly の反対語は？", "a": "seriously（真剣に・本気で）です。jokingly は「冗談で」を表します。" }
+    ],
+    "quiz": [
+      { "q": "\"I could eat a whole pizza,\" she said ___.（「ピザ丸ごと食べられそう」と彼女は冗談で言った）", "A": "jokingly", "B": "jointly", "C": "jealously", "D": "jaggedly", "correct": "A" },
+      { "q": "jokingly の反対の意味に近いのは？", "A": "seriously（真剣に）", "B": "quickly（速く）", "C": "loudly（大声で）", "D": "slowly（ゆっくり）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "joinery",
+    "pron": "ˈdʒɔɪnəri",
+    "kana": "ジョイナリー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "join（つなぐ）＋ -ery",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "工芸・建築"],
+    "meaning_main": "指物（さしもの）／建具製作／木材の接合",
+    "description": "joinery は「指物・建具製作」を表す名詞。木材を組み合わせて、ドア・窓枠・階段・家具などを作る木工の技術や、その作られた木製品を指します。くぎに頼らず木を精巧に組み合わせる技を含みます。join（つなぐ）＋ -ery でできています。",
+    "keywords": ["joinery 意味", "joinery 発音", "joinery 指物", "joinery 建具", "joinery 例文"],
+    "meanings": [
+      { "hinshi": "【名】指物・建具製作・木材の接合", "note": "木を組み合わせてドア・窓枠・家具などを作る木工技術。" }
+    ],
+    "usages": [
+      { "title": "① 建具製作・指物", "desc": "木工の技術。", "example_en": "The cabinet showed fine joinery.", "example_ja": "その戸棚は見事な指物を見せていた。" },
+      { "title": "② 木材の接合", "desc": "精巧に組む。", "example_en": "Good joinery uses no nails.", "example_ja": "優れた指物はくぎを使わない。" },
+      { "title": "③ 作られた木製品", "desc": "ドア・窓枠など。", "example_en": "The house has beautiful wooden joinery.", "example_ja": "その家には美しい木製建具がある。" }
+    ],
+    "warn": ["join（つなぐ）＋ -ery の名詞。職人は joiner（建具職人・指物師）。", "carpentry（大工仕事）より精巧な木の接合を指す。"],
+    "etym_note": "動詞 join（つなぐ・接合する）に、技術や仕事を表す接尾辞 -ery が付いた語です。「木をつなぎ合わせる技術＝指物・建具製作」を意味します。",
+    "etym_chain": [
+      { "node": "join + -ery", "sub": "つなぐ＋仕事", "era": "中英語" },
+      { "node": "joinery", "sub": "指物・建具製作", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "fine joinery", "ja": "見事な指物" },
+      { "en": "wooden joinery", "ja": "木製建具" },
+      { "en": "traditional joinery", "ja": "伝統的な指物" },
+      { "en": "a piece of joinery", "ja": "建具の一品" },
+      { "en": "skilled joinery", "ja": "熟練の指物" },
+      { "en": "joinery and carpentry", "ja": "建具と大工仕事" }
+    ],
+    "related": [
+      { "en": "carpentry", "ja": "大工仕事" },
+      { "en": "join", "ja": "つなぐ" },
+      { "en": "woodwork", "ja": "木工" },
+      { "en": "furniture", "ja": "家具" }
+    ],
+    "faq": [
+      { "q": "joinery とは何ですか？", "a": "木材を組み合わせて、ドア・窓枠・階段・家具などを作る木工の技術や、その木製品を指します。くぎに頼らず木を精巧に組み合わせる技を含みます。" },
+      { "q": "joinery と carpentry の違いは？", "a": "carpentry（大工仕事）は建物の骨組みなど大きな木工全般、joinery（指物・建具製作）はドアや家具など、木を精巧に組み合わせる細かい木工を指します。" }
+    ],
+    "quiz": [
+      { "q": "The antique desk was admired for its fine ___.（そのアンティークの机は見事な指物で称賛された）", "A": "joinery", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "joinery は join ＋ ___ の名詞。空所は？", "A": "-ery", "B": "-ness", "C": "-ly", "D": "-ful", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jinrikisha",
+    "pron": "dʒɪnˈrɪkʃɔː",
+    "kana": "ジンリキシャ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "日本語「人力車」（人の力の車)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "乗り物・文化"],
+    "meaning_main": "人力車（人が引く二輪の乗り物）",
+    "description": "jinrikisha は「人力車」を表す名詞。人が引いて走る、二輪の座席付きの乗り物です。19世紀の日本で生まれ、アジア各地に広まりました。日本語の「人力車（じんりきしゃ）」がそのまま英語になった語で、短くして rickshaw とも呼ばれます。",
+    "keywords": ["jinrikisha 意味", "jinrikisha 発音", "人力車", "jinrikisha rickshaw", "jinrikisha 例文"],
+    "meanings": [
+      { "hinshi": "【名】人力車", "note": "人が引く二輪の座席付きの乗り物。rickshaw の元。" }
+    ],
+    "usages": [
+      { "title": "① 人力車（乗り物）", "desc": "人が引く。", "example_en": "They rode in a jinrikisha through the old town.", "example_ja": "彼らは旧市街を人力車で回った。" },
+      { "title": "② 明治時代に普及", "desc": "日本発祥。", "example_en": "The jinrikisha became common in Meiji Japan.", "example_ja": "人力車は明治の日本で一般的になった。" },
+      { "title": "③ rickshaw の元", "desc": "短縮形。", "example_en": "\"Rickshaw\" is short for \"jinrikisha.\"", "example_ja": "rickshaw は jinrikisha を短くした語だ。" }
+    ],
+    "warn": ["日本語「人力車」由来。短縮形は rickshaw（リキシャ）。", "発音は /dʒɪnˈrɪkʃɔː/。"],
+    "etym_note": "日本語の「人力車」＝「人（じん）＋力（りき）＋車（しゃ）＝人の力で動く車」に由来します。19世紀の日本で発明され、その名がそのまま英語になり、短縮形 rickshaw も生まれました。",
+    "etym_chain": [
+      { "node": "人力車 (jinrikisha)", "sub": "人の力の車", "era": "明治・日本" },
+      { "node": "jinrikisha", "sub": "人力車", "era": "19世紀英語" },
+      { "node": "jinrikisha / rickshaw", "sub": "人力車", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "ride in a jinrikisha", "ja": "人力車に乗る" },
+      { "en": "pull a jinrikisha", "ja": "人力車を引く" },
+      { "en": "a jinrikisha driver", "ja": "人力車の車夫" },
+      { "en": "short for rickshaw", "ja": "rickshaw の元" },
+      { "en": "an old jinrikisha", "ja": "古い人力車" },
+      { "en": "a two-wheeled jinrikisha", "ja": "二輪の人力車" }
+    ],
+    "related": [
+      { "en": "rickshaw", "ja": "リキシャ・人力車" },
+      { "en": "cart", "ja": "荷車" },
+      { "en": "Japan", "ja": "日本" },
+      { "en": "vehicle", "ja": "乗り物" }
+    ],
+    "faq": [
+      { "q": "jinrikisha とは何ですか？", "a": "人が引いて走る、二輪の座席付きの乗り物「人力車」です。19世紀の日本で生まれ、アジア各地に広まりました。短くして rickshaw とも呼ばれます。" },
+      { "q": "jinrikisha と rickshaw の関係は？", "a": "rickshaw は jinrikisha を短縮した語です。どちらも日本語の「人力車」に由来します。" }
+    ],
+    "quiz": [
+      { "q": "A ___ is a two-wheeled cart pulled by a person.（人力車は人が引く二輪の乗り物だ）", "A": "jinrikisha", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jinrikisha の短縮形は？", "A": "rickshaw", "B": "jumbo", "C": "jetliner", "D": "jitney", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jumbuck",
+    "pron": "ˈdʒʌmbʌk",
+    "kana": "ジャンバック",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "オーストラリア先住民語（またはjump up の変化)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "動物・方言"],
+    "meaning_main": "(オーストラリアの)羊",
+    "description": "jumbuck は「羊」を表すオーストラリア英語の名詞。sheep のくだけた・方言的な言い方です。オーストラリアの有名な歌『ワルチング・マチルダ』の歌詞に登場することで広く知られています。日常的な標準語では sheep が普通です。",
+    "keywords": ["jumbuck 意味", "jumbuck 発音", "jumbuck 羊", "jumbuck オーストラリア", "jumbuck 例文"],
+    "meanings": [
+      { "hinshi": "【名】(オーストラリアの)羊", "note": "sheep のくだけた・方言的な言い方。" }
+    ],
+    "usages": [
+      { "title": "① 羊（豪方言）", "desc": "sheep の方言。", "example_en": "The swagman caught a jumbuck.", "example_ja": "その放浪者は羊を捕まえた。" },
+      { "title": "② 歌に登場", "desc": "『ワルチング・マチルダ』。", "example_en": "A jumbuck appears in \"Waltzing Matilda.\"", "example_ja": "羊は『ワルチング・マチルダ』に登場する。" },
+      { "title": "③ 牧羊", "desc": "オーストラリアの風景。", "example_en": "Jumbucks grazed on the station.", "example_ja": "羊が牧場で草を食んでいた。" }
+    ],
+    "warn": ["オーストラリア英語・方言。標準語では sheep が普通。", "『ワルチング・マチルダ』の歌詞で有名。"],
+    "etym_note": "オーストラリア先住民の言語、または英語の jump up がなまったものなど諸説あり、はっきりしません。オーストラリアで羊を指す口語・方言として定着しました。",
+    "etym_chain": [
+      { "node": "jumbuck", "sub": "羊(諸説)", "era": "19世紀オーストラリア英語" },
+      { "node": "jumbuck", "sub": "羊", "era": "現代英語(豪)" }
+    ],
+    "phrases": [
+      { "en": "catch a jumbuck", "ja": "羊を捕まえる" },
+      { "en": "a jumbuck by the billabong", "ja": "水辺の羊" },
+      { "en": "a fat jumbuck", "ja": "太った羊" },
+      { "en": "jumbucks grazing", "ja": "草を食む羊" },
+      { "en": "a flock of jumbucks", "ja": "羊の群れ" },
+      { "en": "shear a jumbuck", "ja": "羊の毛を刈る" }
+    ],
+    "related": [
+      { "en": "sheep", "ja": "羊" },
+      { "en": "lamb", "ja": "子羊" },
+      { "en": "Australia", "ja": "オーストラリア" },
+      { "en": "wool", "ja": "羊毛" }
+    ],
+    "faq": [
+      { "q": "jumbuck とは何ですか？", "a": "「羊」を表すオーストラリア英語の方言・口語です。標準語では sheep が普通ですが、有名な歌『ワルチング・マチルダ』の歌詞に登場することで広く知られています。" },
+      { "q": "jumbuck はどこで有名ですか？", "a": "オーストラリアの事実上の国民歌『ワルチング・マチルダ』の歌詞に出てくることで有名です。" }
+    ],
+    "quiz": [
+      { "q": "In Australian slang, a ___ is a sheep.（オーストラリアの俗語で jumbuck は羊のことだ）", "A": "jumbuck", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jumbuck が指す動物は？", "A": "羊", "B": "牛", "C": "馬", "D": "犬", "correct": "A" }
+    ]
+  },
+  {
+    "english": "javelina",
+    "pron": "ˌhævəˈliːnə",
+    "kana": "ハベリーナ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "スペイン語 jabalí（イノシシ)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "動物"],
+    "meaning_main": "ペッカリー（新大陸のイノシシに似た動物）",
+    "description": "javelina は「ペッカリー」を表す名詞。アメリカ南西部から中南米にすむ、イノシシに似た動物です。豚の仲間ですが本物のイノシシとは別種で、群れで暮らします。スペイン語由来で、j を「ハ」と発音します（/ˌhævəˈliːnə/）。",
+    "keywords": ["javelina 意味", "javelina 発音", "ペッカリー", "javelina イノシシ", "javelina 例文"],
+    "meanings": [
+      { "hinshi": "【名】ペッカリー", "note": "新大陸にすむイノシシに似た豚の仲間。群れで暮らす。" }
+    ],
+    "usages": [
+      { "title": "① ペッカリー（動物）", "desc": "イノシシに似る。", "example_en": "A javelina wandered near the campsite.", "example_ja": "ペッカリーがキャンプ場の近くをうろついた。" },
+      { "title": "② 群れで暮らす", "desc": "集団で行動。", "example_en": "Javelinas travel in small herds.", "example_ja": "ペッカリーは小さな群れで移動する。" },
+      { "title": "③ 砂漠にもすむ", "desc": "米南西部など。", "example_en": "Javelinas are common in the desert Southwest.", "example_ja": "ペッカリーはアメリカ南西部の砂漠でよく見られる。" }
+    ],
+    "warn": ["j は「ハ」と発音（スペイン語由来）。/ˌhævəˈliːnə/。", "イノシシに似るが、本物のイノシシ(wild boar)とは別種のペッカリー。"],
+    "etym_note": "スペイン語 jabalí（イノシシ）に由来し、jabalina（雌イノシシ）を経て英語に入りました。アメリカ大陸のイノシシに似た動物ペッカリーを指します。",
+    "etym_chain": [
+      { "node": "jabalí", "sub": "イノシシ", "era": "スペイン語" },
+      { "node": "javelina", "sub": "ペッカリー", "era": "19世紀英語" },
+      { "node": "javelina", "sub": "ペッカリー", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a herd of javelinas", "ja": "ペッカリーの群れ" },
+      { "en": "a wild javelina", "ja": "野生のペッカリー" },
+      { "en": "a desert javelina", "ja": "砂漠のペッカリー" },
+      { "en": "spot a javelina", "ja": "ペッカリーを見つける" },
+      { "en": "javelinas foraging", "ja": "餌を探すペッカリー" },
+      { "en": "a young javelina", "ja": "若いペッカリー" }
+    ],
+    "related": [
+      { "en": "boar", "ja": "イノシシ" },
+      { "en": "pig", "ja": "豚" },
+      { "en": "peccary", "ja": "ペッカリー" },
+      { "en": "desert", "ja": "砂漠" }
+    ],
+    "faq": [
+      { "q": "javelina とはどんな動物ですか？", "a": "アメリカ南西部から中南米にすむ、イノシシに似た動物「ペッカリー」です。豚の仲間ですが本物のイノシシとは別種で、群れで暮らします。" },
+      { "q": "javelina の j はどう発音しますか？", "a": "スペイン語由来なので「ハ」と発音します（/ˌhævəˈliːnə/、ハベリーナ）。jalapeno と同じく j がハ行の音になります。" }
+    ],
+    "quiz": [
+      { "q": "A ___ looks like a wild pig and lives in the American Southwest.（ペッカリーはイノシシに似ていてアメリカ南西部にすむ）", "A": "javelina", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "javelina の j の発音は？", "A": "「ハ」の音", "B": "「ジャ」の音", "C": "「ヤ」の音", "D": "無音", "correct": "A" }
+    ]
+  },
+  {
+    "english": "juryman",
+    "pron": "ˈdʒʊərimən",
+    "kana": "ジュアリマン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "jury（陪審）＋ man（人)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "法律"],
+    "meaning_main": "陪審員（陪審を務める人）",
+    "description": "juryman は「陪審員」を表す名詞。裁判で、市民から選ばれて有罪か無罪かの判断に加わる人を指します。jury（陪審）＋ man（人）でできています。juror とほぼ同じ意味ですが、やや古風で、現代では男女を問わない juror が好まれます。",
+    "keywords": ["juryman 意味", "juryman 発音", "juryman 陪審員", "juryman juror", "juryman 例文"],
+    "meanings": [
+      { "hinshi": "【名】陪審員", "note": "陪審を務める人。juror とほぼ同義。やや古風。" }
+    ],
+    "usages": [
+      { "title": "① 陪審員", "desc": "判断に加わる人。", "example_en": "Each juryman listened to the evidence.", "example_ja": "各陪審員は証拠に耳を傾けた。" },
+      { "title": "② 陪審団の一員", "desc": "12人など。", "example_en": "The jurymen reached a verdict.", "example_ja": "陪審員たちは評決に達した。" },
+      { "title": "③ juror が現代的", "desc": "男女問わない語。", "example_en": "\"Juror\" is now preferred over \"juryman.\"", "example_ja": "今は juryman より juror が好まれる。" }
+    ],
+    "warn": ["jury（陪審）＋ man の複合語。複数形は jurymen。", "現代では男女を問わない juror が好まれる。"],
+    "etym_note": "jury（陪審）＋ man（人）でできた語です。陪審を務める人を指しますが、man を含むため、現代では性別を問わない juror がより一般的です。",
+    "etym_chain": [
+      { "node": "jury + man", "sub": "陪審＋人", "era": "中英語" },
+      { "node": "juryman", "sub": "陪審員", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a juryman's duty", "ja": "陪審員の義務" },
+      { "en": "twelve jurymen", "ja": "12人の陪審員" },
+      { "en": "serve as a juryman", "ja": "陪審員を務める" },
+      { "en": "the jurymen decided", "ja": "陪審員たちが決定した" },
+      { "en": "a fair juryman", "ja": "公平な陪審員" },
+      { "en": "the head juryman", "ja": "陪審長" }
+    ],
+    "related": [
+      { "en": "juror", "ja": "陪審員" },
+      { "en": "jury", "ja": "陪審" },
+      { "en": "court", "ja": "法廷" },
+      { "en": "verdict", "ja": "評決" }
+    ],
+    "faq": [
+      { "q": "juryman とは何ですか？", "a": "裁判で、市民から選ばれて有罪か無罪かの判断に加わる「陪審員」です。juror とほぼ同じ意味ですが、やや古風な語です。" },
+      { "q": "juryman と juror の違いは？", "a": "意味はほぼ同じ「陪審員」ですが、juryman は man を含むため、現代では性別を問わない juror がより好まれます。" }
+    ],
+    "quiz": [
+      { "q": "Each ___ must weigh the evidence fairly.（各陪審員は証拠を公平に検討しなければならない）", "A": "juryman", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "juryman と同じ意味の現代的な語は？", "A": "juror", "B": "judge", "C": "jockey", "D": "jester", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jocularity",
+    "pron": "ˌdʒɒkjəˈlærəti",
+    "kana": "ジョキュラリティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "jocular（おどけた）＋ -ity",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "感情・文語"],
+    "meaning_main": "おどけ／ひょうきんさ／冗談好きな性質",
+    "description": "jocularity は「おどけ・ひょうきんさ」を表す名詞。冗談を言って人を笑わせるような、陽気でユーモラスな性質や雰囲気を指します。形容詞 jocular（おどけた・冗談好きの）＋ -ity でできた、ややかたい文語的な語です。",
+    "keywords": ["jocularity 意味", "jocularity 発音", "jocularity おどけ", "jocularity ひょうきん", "jocularity 例文"],
+    "meanings": [
+      { "hinshi": "【名】おどけ・ひょうきんさ・冗談好きな性質", "note": "陽気でユーモラスな性質・雰囲気。文語的。" }
+    ],
+    "usages": [
+      { "title": "① おどけ・ひょうきんさ", "desc": "ユーモラスな性質。", "example_en": "His jocularity put everyone at ease.", "example_ja": "彼のひょうきんさはみんなをくつろがせた。" },
+      { "title": "② 陽気な雰囲気", "desc": "冗談に満ちた。", "example_en": "There was an air of jocularity at dinner.", "example_ja": "夕食にはおどけた雰囲気があった。" },
+      { "title": "③ 冗談好きな態度", "desc": "軽妙な調子。", "example_en": "She spoke with characteristic jocularity.", "example_ja": "彼女はいつものひょうきんな調子で話した。" }
+    ],
+    "warn": ["形容詞 jocular（おどけた）＋ -ity の名詞。文語的な語。", "joke（冗談）と同じラテン語 jocus 由来。"],
+    "etym_note": "形容詞 jocular（おどけた・冗談好きの）に、状態を表す接尾辞 -ity が付いた名詞です。joke（冗談）と同じラテン語 jocus 由来で、「おどけた性質」を意味します。",
+    "etym_chain": [
+      { "node": "jocular + -ity", "sub": "おどけた＋状態", "era": "近代英語" },
+      { "node": "jocularity", "sub": "おどけ・ひょうきんさ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an air of jocularity", "ja": "おどけた雰囲気" },
+      { "en": "with jocularity", "ja": "ひょうきんに" },
+      { "en": "forced jocularity", "ja": "無理におどけた様子" },
+      { "en": "good-natured jocularity", "ja": "気のいいひょうきんさ" },
+      { "en": "characteristic jocularity", "ja": "いつものおどけ" },
+      { "en": "his jocularity", "ja": "彼のひょうきんさ" }
+    ],
+    "related": [
+      { "en": "jocular", "ja": "おどけた" },
+      { "en": "humor", "ja": "ユーモア" },
+      { "en": "playfulness", "ja": "遊び心" },
+      { "en": "wit", "ja": "機知" }
+    ],
+    "faq": [
+      { "q": "jocularity とはどんな意味ですか？", "a": "冗談を言って人を笑わせるような、陽気でユーモラスな性質や雰囲気「おどけ・ひょうきんさ」を表す、ややかたい文語的な名詞です。" },
+      { "q": "jocularity の形容詞は？", "a": "jocular（おどけた・冗談好きの）です。jocularity は jocular ＋ -ity でできた名詞形です。" }
+    ],
+    "quiz": [
+      { "q": "His natural ___ made him popular at parties.（彼の生まれつきのひょうきんさはパーティーで人気だった）", "A": "jocularity", "B": "jealousy", "C": "jaggedness", "D": "jointness", "correct": "A" },
+      { "q": "jocularity の意味に近いのは？", "A": "おどけ・ひょうきんさ", "B": "悲しみ", "C": "怒り", "D": "退屈", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jointure",
+    "pron": "ˈdʒɔɪntʃər",
+    "kana": "ジョインチャー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 junctura（接合)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "法律・歴史"],
+    "meaning_main": "(法)寡婦産（夫の死後、妻に残される財産）",
+    "description": "jointure は「寡婦産（かふさん）」を表す法律用語の名詞。かつての英米法で、夫の死後に妻（未亡人）の生活のために残された、あらかじめ取り決められた財産や不動産を指します。歴史・古典文学や法律の文脈で使われる語です。join と同じ語源です。",
+    "keywords": ["jointure 意味", "jointure 発音", "jointure 寡婦産", "jointure 法律", "jointure 例文"],
+    "meanings": [
+      { "hinshi": "【名】(法)寡婦産", "note": "夫の死後、妻の生活のために残される取り決めた財産。" }
+    ],
+    "usages": [
+      { "title": "① 寡婦産（法律）", "desc": "未亡人への財産。", "example_en": "The widow lived on her jointure.", "example_ja": "その未亡人は寡婦産で暮らした。" },
+      { "title": "② 婚姻時の取り決め", "desc": "あらかじめ定める。", "example_en": "A jointure was arranged before the marriage.", "example_ja": "寡婦産は結婚前に取り決められた。" },
+      { "title": "③ 古典文学に登場", "desc": "歴史的な語。", "example_en": "Jointure often appears in old novels.", "example_ja": "寡婦産は古い小説によく登場する。" }
+    ],
+    "warn": ["法律・歴史の専門語。join（つなぐ）と同じ語源。", "現代の日常ではまれ。古典文学・法制史の文脈で使う。"],
+    "etym_note": "ラテン語 junctura（接合・結合）に由来し、join（つなぐ）や joint（関節）、juncture（局面）と同じ語源です。夫婦の財産が「結び合わされる」ことから、寡婦のための財産を意味するようになりました。",
+    "etym_chain": [
+      { "node": "junctura", "sub": "接合", "era": "ラテン語" },
+      { "node": "jointure", "sub": "共有・寡婦産", "era": "中英語" },
+      { "node": "jointure", "sub": "寡婦産", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "settle a jointure", "ja": "寡婦産を定める" },
+      { "en": "live on a jointure", "ja": "寡婦産で暮らす" },
+      { "en": "a widow's jointure", "ja": "未亡人の寡婦産" },
+      { "en": "a large jointure", "ja": "多額の寡婦産" },
+      { "en": "arrange a jointure", "ja": "寡婦産を取り決める" },
+      { "en": "the jointure estate", "ja": "寡婦産の地所" }
+    ],
+    "related": [
+      { "en": "widow", "ja": "未亡人" },
+      { "en": "inheritance", "ja": "相続財産" },
+      { "en": "estate", "ja": "財産・地所" },
+      { "en": "dowry", "ja": "持参金" }
+    ],
+    "faq": [
+      { "q": "jointure とは何ですか？", "a": "かつての英米法で、夫の死後に妻（未亡人）の生活のために残された、あらかじめ取り決められた財産や不動産「寡婦産」を指す法律用語です。" },
+      { "q": "jointure と join は関係がありますか？", "a": "はい。どちらもラテン語 junctura（接合）に由来する同語源の語です。joint（関節）や juncture（局面）とも同じ語源です。" }
+    ],
+    "quiz": [
+      { "q": "After her husband died, the widow received her ___.（夫の死後、その未亡人は寡婦産を受け取った）", "A": "jointure", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jointure と同じ語源の語は？", "A": "join（つなぐ）", "B": "juice（ジュース）", "C": "jungle（密林）", "D": "jacket（上着）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jimjams",
+    "pron": "ˈdʒɪmdʒæmz",
+    "kana": "ジムジャムズ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "畳語的な造語（jim-jam の重ね)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "口語"],
+    "meaning_main": "(口語)不安なそわそわ／神経の高ぶり／身震い",
+    "description": "jimjams は「(不安による)そわそわ・神経の高ぶり・身震い」を表すくだけた名詞。落ち着かず、そわそわして神経が高ぶった状態を指す口語です。常に複数形 the jimjams の形で使います。jim-jam という語を重ねた、遊び心のある古風な言い方です。",
+    "keywords": ["jimjams 意味", "jimjams 発音", "jimjams そわそわ", "the jimjams", "jimjams 例文"],
+    "meanings": [
+      { "hinshi": "【名】(口語)不安なそわそわ・神経の高ぶり・身震い", "note": "落ち着かず神経が高ぶった状態。常に複数形。" }
+    ],
+    "usages": [
+      { "title": "① そわそわ・神経の高ぶり", "desc": "落ち着かない。", "example_en": "The spooky house gave me the jimjams.", "example_ja": "その不気味な家で私はぞくぞくと落ち着かなくなった。" },
+      { "title": "② 不安な身震い", "desc": "ぞくぞくする。", "example_en": "He had a case of the jimjams before the show.", "example_ja": "彼は本番前にそわそわしていた。" },
+      { "title": "③ the jimjams の形で", "desc": "常に複数形。", "example_en": "Too much coffee gives me the jimjams.", "example_ja": "コーヒーの飲みすぎで神経が高ぶる。" }
+    ],
+    "warn": ["くだけた古風な口語。常に複数形 the jimjams。", "jitters（そわそわ）と近い意味。"],
+    "etym_note": "jim-jam という語を重ねた畳語的な造語です。はっきりした語源はなく、遊び心のある響きの語として「そわそわ・神経の高ぶり」を表すようになりました。",
+    "etym_chain": [
+      { "node": "jim-jam", "sub": "畳語的な造語", "era": "19世紀英語" },
+      { "node": "jimjams", "sub": "そわそわ・神経の高ぶり", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "have the jimjams", "ja": "そわそわする" },
+      { "en": "get the jimjams", "ja": "神経が高ぶる" },
+      { "en": "give someone the jimjams", "ja": "〜を落ち着かなくさせる" },
+      { "en": "a case of the jimjams", "ja": "そわそわした状態" },
+      { "en": "the jimjams before a test", "ja": "試験前のそわそわ" },
+      { "en": "shake off the jimjams", "ja": "そわそわを振り払う" }
+    ],
+    "related": [
+      { "en": "jitters", "ja": "そわそわ・神経過敏" },
+      { "en": "nerves", "ja": "神経・緊張" },
+      { "en": "anxiety", "ja": "不安" },
+      { "en": "creeps", "ja": "ぞっとする感じ" }
+    ],
+    "faq": [
+      { "q": "jimjams とはどんな意味ですか？", "a": "落ち着かず、そわそわして神経が高ぶった状態を指すくだけた口語です。常に複数形 the jimjams で使います。" },
+      { "q": "jimjams と jitters の違いは？", "a": "どちらも「そわそわ・神経の高ぶり」を表す口語ですが、jimjams はより古風で遊び心のある響きの語です。jitters の方が一般的です。" }
+    ],
+    "quiz": [
+      { "q": "Waiting alone in the dark gave her the ___.（暗闇で一人待っていると彼女はそわそわと落ち着かなくなった）", "A": "jimjams", "B": "jams", "C": "jars", "D": "jaws", "correct": "A" },
+      { "q": "jimjams の意味に近いのは？", "A": "そわそわ・神経の高ぶり", "B": "深い眠り", "C": "満足", "D": "強い喜び", "correct": "A" }
+    ]
+  }
+]

@@ -1,0 +1,510 @@
+[
+  {
+    "english": "keyword",
+    "pron": "ˈkiːwɜːrd",
+    "kana": "キーワード",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "key（重要な・鍵）＋ word（語）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "IT・学習"],
+    "meaning_main": "キーワード／重要語／検索語",
+    "description": "keyword は「キーワード・重要語」を表す名詞。key（鍵・重要な）＋ word（語）の複合語です。文章の要点を示す語や、ネット検索に入力する語を指します。",
+    "keywords": ["keyword 意味", "keyword 発音", "keyword キーワード", "keyword 検索", "keyword 例文"],
+    "meanings": [
+      { "hinshi": "【名】キーワード・重要語", "note": "文章や話の要点を表す大切な語。" },
+      { "hinshi": "【名】(検索の)検索語", "note": "ネット検索で入力する語。" }
+    ],
+    "usages": [
+      { "title": "① 重要語（要点）", "desc": "内容を理解するかぎとなる語。", "example_en": "Underline the keywords in the passage.", "example_ja": "文章のキーワードに下線を引きなさい。" },
+      { "title": "② 検索語", "desc": "検索エンジンに入力する語。", "example_en": "Type a keyword into the search box.", "example_ja": "検索ボックスにキーワードを入力して。" },
+      { "title": "③ キーワードで探す (search by keyword)", "desc": "語を手がかりに探す。", "example_en": "You can search by keyword.", "example_ja": "キーワードで検索できます。" }
+    ],
+    "warn": ["key＋word の複合語。1語で書く。", "強勢は前の key の部分 /ˈkiːwɜːrd/。"],
+    "etym_note": "key（鍵・重要な）と word（語）を合わせた複合語です。「内容を開くかぎとなる語」という意味から生まれ、後にコンピューター検索の用語としても広まりました。",
+    "etym_chain": [
+      { "node": "key + word", "sub": "重要な＋語", "era": "19世紀英語" },
+      { "node": "keyword", "sub": "重要語", "era": "20世紀英語" },
+      { "node": "keyword", "sub": "キーワード・検索語", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "search by keyword", "ja": "キーワードで検索する" },
+      { "en": "enter a keyword", "ja": "キーワードを入力する" },
+      { "en": "key words in a text", "ja": "文章中の重要語" },
+      { "en": "keyword search", "ja": "キーワード検索" },
+      { "en": "highlight keywords", "ja": "キーワードを強調する" },
+      { "en": "a list of keywords", "ja": "キーワード一覧" }
+    ],
+    "related": [
+      { "en": "key", "ja": "鍵・重要な" },
+      { "en": "word", "ja": "語" },
+      { "en": "search", "ja": "検索する" },
+      { "en": "topic", "ja": "話題" }
+    ],
+    "faq": [
+      { "q": "keyword はどんな時に使いますか？", "a": "文章の「要点となる語」や、ネット検索で入力する「検索語」を指すときに使います。" },
+      { "q": "keyword は1語で書きますか？", "a": "はい、key＋word の複合語として1語で書きます。key word と2語に分けて書くこともあります。" }
+    ],
+    "quiz": [
+      { "q": "Type a ___ to find the article.（記事を探すためにキーワードを入力して）", "A": "keyword", "B": "kingdom", "C": "kettle", "D": "kite", "correct": "A" },
+      { "q": "keyword は key ＋ ___ の複合語。空所は？", "A": "word", "B": "board", "C": "hole", "D": "note", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kayak",
+    "pron": "ˈkaɪæk",
+    "kana": "カヤック",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "イヌイット語 qajaq（小舟）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "スポーツ・乗り物"],
+    "meaning_main": "カヤック／小型カヌー",
+    "description": "kayak は「カヤック」を表す名詞。両端にブレードのあるパドルでこぐ細長い小舟です。もとは北極圏のイヌイットが使った舟で、前後どちらから読んでも同じ回文の単語です。",
+    "keywords": ["kayak 意味", "kayak 発音", "kayak カヤック", "kayak カヌー", "kayak 例文"],
+    "meanings": [
+      { "hinshi": "【名】カヤック", "note": "両端に水かきのあるパドルでこぐ小舟。" },
+      { "hinshi": "【動】カヤックをこぐ", "note": "カヤックで進む。" }
+    ],
+    "usages": [
+      { "title": "① カヤック（乗り物）", "desc": "川や海でこぐ小舟。", "example_en": "We paddled a kayak down the river.", "example_ja": "私たちは川をカヤックでこぎ下った。" },
+      { "title": "② カヤックをする（動詞）", "desc": "go kayaking で「カヤックに行く」。", "example_en": "They went kayaking on the lake.", "example_ja": "彼らは湖にカヤックをしに行った。" },
+      { "title": "③ カヌーとの違い", "desc": "kayak は両端パドル、canoe は片端。", "example_en": "A kayak uses a double-bladed paddle.", "example_ja": "カヤックは両端に水かきのあるパドルを使う。" }
+    ],
+    "warn": ["前から読んでも後ろから読んでも kayak（回文）。", "canoe（カヌー）とは違い、両端に水かきのあるパドルを使う。"],
+    "etym_note": "北極圏の先住民イヌイットの言葉 qajaq（狩りや漁に使う一人乗りの小舟）に由来します。動物の皮を張った軽い舟でした。",
+    "etym_chain": [
+      { "node": "qajaq", "sub": "皮張りの小舟", "era": "イヌイット語" },
+      { "node": "kayak", "sub": "カヤック", "era": "18世紀英語" },
+      { "node": "kayak", "sub": "カヤック", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "go kayaking", "ja": "カヤックをしに行く" },
+      { "en": "paddle a kayak", "ja": "カヤックをこぐ" },
+      { "en": "a sea kayak", "ja": "シーカヤック" },
+      { "en": "kayak on the river", "ja": "川でカヤックをする" },
+      { "en": "an inflatable kayak", "ja": "空気で膨らますカヤック" },
+      { "en": "kayak and canoe", "ja": "カヤックとカヌー" }
+    ],
+    "related": [
+      { "en": "canoe", "ja": "カヌー" },
+      { "en": "paddle", "ja": "パドル・こぐ" },
+      { "en": "boat", "ja": "ボート" },
+      { "en": "river", "ja": "川" }
+    ],
+    "faq": [
+      { "q": "kayak と canoe の違いは？", "a": "kayak は両端に水かきのあるパドルを使い座ってこぎます。canoe は片端だけの水かきで、ひざ立ちや座ってこぎます。" },
+      { "q": "kayak が回文というのは本当ですか？", "a": "はい。k-a-y-a-k は前から読んでも後ろから読んでも同じ「回文（palindrome）」です。" }
+    ],
+    "quiz": [
+      { "q": "We rented a ___ to explore the coast.（海岸を探検するためカヤックを借りた）", "A": "kayak", "B": "kettle", "C": "kiosk", "D": "kimono", "correct": "A" },
+      { "q": "kayak のもとの使い手は？", "A": "イヌイット", "B": "マオリ", "C": "トルコ人", "D": "エジプト人", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kernel",
+    "pron": "ˈkɜːrnl",
+    "kana": "カーネル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 cyrnel（小さな種）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "(木の実の)仁／穀粒／核心",
+    "description": "kernel は「(木の実の)仁・穀粒」を表す名詞。トウモロコシの粒や種の中身を指します。比喩的に「核心・要点」の意味でも使われ、colonel（大佐）と同じ発音です。",
+    "keywords": ["kernel 意味", "kernel 発音", "kernel 仁", "kernel 核心", "kernel 例文"],
+    "meanings": [
+      { "hinshi": "【名】(木の実の)仁・種の中身", "note": "殻の中の食べられる部分。" },
+      { "hinshi": "【名】(穀物の)粒", "note": "corn kernel（トウモロコシの粒）。" },
+      { "hinshi": "【名】核心・要点", "note": "the kernel of truth（真実の核心）。" }
+    ],
+    "usages": [
+      { "title": "① 木の実の仁・種の中身", "desc": "殻を割った中身。", "example_en": "The nut has a sweet kernel inside.", "example_ja": "その木の実の中には甘い仁がある。" },
+      { "title": "② トウモロコシの粒", "desc": "corn kernel。", "example_en": "Popcorn is made from corn kernels.", "example_ja": "ポップコーンはトウモロコシの粒から作る。" },
+      { "title": "③ 核心・要点", "desc": "物事の中心。", "example_en": "There is a kernel of truth in his story.", "example_ja": "彼の話には一片の真実がある。" }
+    ],
+    "warn": ["colonel（大佐）と同じ発音 /ˈkɜːrnl/。綴りで区別する。", "比喩の「核心」の意味も重要。a kernel of truth（真実の一片）。"],
+    "etym_note": "古英語 cyrnel（corn＝穀粒の指小形）に由来し、「小さな種・穀粒」を意味しました。そこから「中身・核心」の比喩的意味が生まれました。",
+    "etym_chain": [
+      { "node": "cyrnel", "sub": "小さな種", "era": "古英語" },
+      { "node": "kernel", "sub": "仁・粒", "era": "中英語" },
+      { "node": "kernel", "sub": "仁・核心", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "corn kernel", "ja": "トウモロコシの粒" },
+      { "en": "a kernel of truth", "ja": "真実の一片・核心" },
+      { "en": "the kernel of the matter", "ja": "問題の核心" },
+      { "en": "popcorn kernels", "ja": "ポップコーンの粒" },
+      { "en": "a nut kernel", "ja": "木の実の仁" },
+      { "en": "the kernel of an idea", "ja": "アイデアの核" }
+    ],
+    "related": [
+      { "en": "seed", "ja": "種" },
+      { "en": "grain", "ja": "穀粒" },
+      { "en": "core", "ja": "核・芯" },
+      { "en": "nut", "ja": "木の実" }
+    ],
+    "faq": [
+      { "q": "kernel と colonel は同じ発音ですか？", "a": "はい、どちらも /ˈkɜːrnl/（カーネル）で同じ発音です。kernel は「仁・核心」、colonel は「大佐」で、綴りで区別します。" },
+      { "q": "a kernel of truth とは？", "a": "「真実の一片・核心となる真実」という意味の慣用表現です。うそや誇張の中にも少し本当のことがある、というニュアンスです。" }
+    ],
+    "quiz": [
+      { "q": "There is a ___ of truth in that rumor.（そのうわさには一片の真実がある）", "A": "kernel", "B": "kettle", "C": "kingdom", "D": "kite", "correct": "A" },
+      { "q": "kernel と同じ発音の語は？", "A": "colonel", "B": "corner", "C": "candle", "D": "camel", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kin",
+    "pron": "kɪn",
+    "kana": "キン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 cynn（親族・種族）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "やや硬い語"],
+    "meaning_main": "親族／身内／血縁",
+    "description": "kin は「親族・身内」を表す名詞。集合的に血縁のある人々を指し、複数扱いで使われます。next of kin（最近親者）という表現が特に重要です。",
+    "keywords": ["kin 意味", "kin 発音", "kin 親族", "next of kin", "kin 例文"],
+    "meanings": [
+      { "hinshi": "【名】親族・身内（集合的）", "note": "血縁のある人々全体。複数扱い。" },
+      { "hinshi": "【形】血縁の (be kin to)", "note": "「〜と血がつながっている」。" }
+    ],
+    "usages": [
+      { "title": "① 親族・身内", "desc": "集合名詞で複数扱い。", "example_en": "All his kin came to the wedding.", "example_ja": "彼の親族全員が結婚式に来た。" },
+      { "title": "② next of kin（最近親者）", "desc": "書類などでの重要表現。", "example_en": "Please list your next of kin.", "example_ja": "最近親者を記入してください。" },
+      { "title": "③ be kin to ~（〜と血縁だ）", "desc": "やや古風な言い方。", "example_en": "She is kin to the royal family.", "example_ja": "彼女は王家と血縁関係にある。" }
+    ],
+    "warn": ["集合的に「親族全体」を指し、通常は複数扱い。数える語ではない。", "kith and kin（友人・知人と親族）という決まり文句もある。"],
+    "etym_note": "古英語 cynn（親族・種族・生まれ）に由来し、kind（種類）や king（王＝一族の長）と同じ語根から来ています。「同じ血筋」が中心の意味です。",
+    "etym_chain": [
+      { "node": "cynn", "sub": "親族・種族", "era": "古英語" },
+      { "node": "kin", "sub": "親族", "era": "中英語" },
+      { "node": "kin", "sub": "親族・身内", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "next of kin", "ja": "最近親者" },
+      { "en": "kith and kin", "ja": "友人知人と親族" },
+      { "en": "be kin to", "ja": "〜と血縁である" },
+      { "en": "close kin", "ja": "近い親族" },
+      { "en": "kinfolk", "ja": "親族・一族" },
+      { "en": "one's own kin", "ja": "自分の身内" }
+    ],
+    "related": [
+      { "en": "relative", "ja": "親戚" },
+      { "en": "family", "ja": "家族" },
+      { "en": "kinship", "ja": "血縁関係" },
+      { "en": "clan", "ja": "一族" }
+    ],
+    "faq": [
+      { "q": "next of kin とはどんな意味ですか？", "a": "「最近親者」という意味で、最も血縁の近い家族を指します。病院や役所の書類でよく使われる重要表現です。" },
+      { "q": "kin は数えられますか？", "a": "基本的に集合名詞で「親族全体」を指し、複数扱いします。a kin のように1人を数える使い方は普通しません。" }
+    ],
+    "quiz": [
+      { "q": "In an emergency, we will contact your next of ___.（緊急時には最近親者に連絡します）", "A": "kin", "B": "king", "C": "kind", "D": "kid", "correct": "A" },
+      { "q": "kin の意味は？", "A": "友人", "B": "親族", "C": "隣人", "D": "同僚", "correct": "B" }
+    ]
+  },
+  {
+    "english": "knead",
+    "pron": "niːd",
+    "kana": "ニード",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古英語 cnedan（こねる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "料理"],
+    "meaning_main": "(生地を)こねる／もみほぐす",
+    "description": "knead は「(パン生地などを)こねる」を表す動詞。先頭の k は黙字で /niːd/、need（必要とする）と同じ発音です。筋肉を「もみほぐす」意味でも使います。",
+    "keywords": ["knead 意味", "knead 発音", "knead こねる", "knead need 違い", "knead 例文"],
+    "meanings": [
+      { "hinshi": "【動】(生地を)こねる", "note": "小麦粉の生地を押し混ぜること。" },
+      { "hinshi": "【動】(筋肉などを)もみほぐす", "note": "マッサージのように押しもむ。" }
+    ],
+    "usages": [
+      { "title": "① 生地をこねる", "desc": "パンやうどんの生地。", "example_en": "Knead the dough for ten minutes.", "example_ja": "生地を10分間こねなさい。" },
+      { "title": "② もみほぐす", "desc": "肩や筋肉をもむ。", "example_en": "She kneaded his tired shoulders.", "example_ja": "彼女は彼の疲れた肩をもみほぐした。" },
+      { "title": "③ 猫がふみふみする", "desc": "前足で押すしぐさ。", "example_en": "The cat kneaded the blanket.", "example_ja": "猫が毛布をふみふみした。" }
+    ],
+    "warn": ["先頭の k は黙字。/niːd/ で need（必要とする）と同じ発音。", "knead（こねる）と need（必要とする）は同音異義語。綴りで区別する。"],
+    "etym_note": "古英語 cnedan（こねる）に由来します。ゲルマン語系の語で、knee や knife と同じく先頭の k の音は近代に失われました。",
+    "etym_chain": [
+      { "node": "cnedan", "sub": "こねる", "era": "古英語" },
+      { "node": "kneden", "sub": "こねる", "era": "中英語" },
+      { "node": "knead", "sub": "こねる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "knead the dough", "ja": "生地をこねる" },
+      { "en": "knead bread", "ja": "パン生地をこねる" },
+      { "en": "knead the muscles", "ja": "筋肉をもみほぐす" },
+      { "en": "knead well", "ja": "よくこねる" },
+      { "en": "knead by hand", "ja": "手でこねる" },
+      { "en": "knead and shape", "ja": "こねて形を作る" }
+    ],
+    "related": [
+      { "en": "dough", "ja": "生地" },
+      { "en": "bread", "ja": "パン" },
+      { "en": "mix", "ja": "混ぜる" },
+      { "en": "massage", "ja": "マッサージする" }
+    ],
+    "faq": [
+      { "q": "knead と need は同じ発音ですか？", "a": "はい、どちらも /niːd/ で同じ発音です。knead は「こねる」、need は「必要とする」で、綴りで区別します。" },
+      { "q": "knead の k は発音しますか？", "a": "いいえ、黙字です。/niːd/ と読みます。kn- で始まる語の k は発音しません。" }
+    ],
+    "quiz": [
+      { "q": "You must ___ the dough before baking.（焼く前に生地をこねなければならない）", "A": "need", "B": "knead", "C": "knee", "D": "knock", "correct": "B" },
+      { "q": "knead と同じ発音の語は？", "A": "need", "B": "nod", "C": "node", "D": "nut", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kickoff",
+    "pron": "ˈkɪkɔːf",
+    "kana": "キックオフ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "kick（蹴る）＋ off（離れて）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "スポーツ・ビジネス"],
+    "meaning_main": "キックオフ／開始／始まり",
+    "description": "kickoff は「キックオフ・開始」を表す名詞。サッカーやアメフトで試合を始める最初のキックを指し、比喩的に「(行事や計画の)開始」の意味でも使われます。",
+    "keywords": ["kickoff 意味", "kickoff 発音", "kickoff キックオフ", "kickoff 開始", "kickoff 例文"],
+    "meanings": [
+      { "hinshi": "【名】キックオフ", "note": "サッカー等で試合を始めるキック。" },
+      { "hinshi": "【名】(行事・計画の)開始", "note": "物事の始まり。kickoff meeting など。" }
+    ],
+    "usages": [
+      { "title": "① キックオフ（試合開始）", "desc": "試合を始める最初のキック。", "example_en": "The kickoff is at 7 p.m.", "example_ja": "キックオフは午後7時だ。" },
+      { "title": "② 開始・始まり", "desc": "イベントや計画のスタート。", "example_en": "The festival's kickoff was a great success.", "example_ja": "祭りの開始は大成功だった。" },
+      { "title": "③ kickoff meeting（開始会議）", "desc": "プロジェクトの最初の会議。", "example_en": "We had a kickoff meeting for the new project.", "example_ja": "新プロジェクトのキックオフ会議を開いた。" }
+    ],
+    "warn": ["名詞は kickoff（1語）、動詞句は kick off（2語）と使い分ける。", "強勢は前の kick の部分 /ˈkɪkɔːf/。"],
+    "etym_note": "動詞句 kick off（蹴って始める）が名詞化した語です。サッカーで試合開始時にボールを蹴り出すことに由来し、比喩的に「物事の開始」を表すようになりました。",
+    "etym_chain": [
+      { "node": "kick + off", "sub": "蹴る＋離れて", "era": "19世紀英語" },
+      { "node": "kick-off", "sub": "試合開始", "era": "20世紀英語" },
+      { "node": "kickoff", "sub": "キックオフ・開始", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "kickoff time", "ja": "キックオフの時刻" },
+      { "en": "kickoff meeting", "ja": "開始会議" },
+      { "en": "the kickoff of the campaign", "ja": "キャンペーンの開始" },
+      { "en": "before kickoff", "ja": "試合開始前に" },
+      { "en": "opening kickoff", "ja": "最初のキックオフ" },
+      { "en": "a season kickoff", "ja": "シーズンの開幕" }
+    ],
+    "related": [
+      { "en": "kick", "ja": "蹴る" },
+      { "en": "start", "ja": "開始" },
+      { "en": "beginning", "ja": "始まり" },
+      { "en": "launch", "ja": "開始・立ち上げ" }
+    ],
+    "faq": [
+      { "q": "kickoff と kick off の違いは？", "a": "kickoff（1語）は名詞「開始・キックオフ」、kick off（2語）は動詞句「〜を始める」です。品詞で書き分けます。" },
+      { "q": "スポーツ以外でも使いますか？", "a": "はい。kickoff meeting（開始会議）のように、行事や計画の「開始」を表す比喩的な使い方も一般的です。" }
+    ],
+    "quiz": [
+      { "q": "The ___ of the match is at noon.（試合のキックオフは正午だ）", "A": "kickoff", "B": "kingdom", "C": "kettle", "D": "kernel", "correct": "A" },
+      { "q": "名詞「キックオフ」の正しい書き方は？", "A": "kick off", "B": "kickoff", "C": "kicksoff", "D": "kick-of", "correct": "B" }
+    ]
+  },
+  {
+    "english": "kilt",
+    "pron": "kɪlt",
+    "kana": "キルト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "スカンジナビア語 kilte（たくし上げる）",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "衣服・文化"],
+    "meaning_main": "キルト（スコットランドの男性用スカート）",
+    "description": "kilt は「キルト」を表す名詞。スコットランドの伝統衣装で、格子柄（タータン）のひだのある巻きスカートです。主に男性が正装や式典で身につけます。",
+    "keywords": ["kilt 意味", "kilt 発音", "kilt キルト", "kilt スコットランド", "kilt 例文"],
+    "meanings": [
+      { "hinshi": "【名】キルト", "note": "スコットランド男性の伝統的な巻きスカート。" }
+    ],
+    "usages": [
+      { "title": "① キルト（民族衣装）", "desc": "格子柄のひだスカート。", "example_en": "The Scotsman wore a traditional kilt.", "example_ja": "そのスコットランド人は伝統的なキルトを身につけていた。" },
+      { "title": "② 式典・演奏で着用", "desc": "バグパイプ奏者などが着る。", "example_en": "The bagpiper played in his kilt.", "example_ja": "バグパイプ奏者はキルト姿で演奏した。" },
+      { "title": "③ タータン柄", "desc": "一族ごとの格子模様。", "example_en": "Each clan has its own kilt pattern.", "example_ja": "各氏族は独自のキルト柄を持つ。" }
+    ],
+    "warn": ["キルト(kilt)は衣装。ベッドカバーの「キルト」は quilt で別の語。", "主にスコットランドの男性の民族衣装を指す。"],
+    "etym_note": "スカンジナビア語系の kilte（衣服をたくし上げる）に由来します。もとは「たくし上げた布」を意味し、スコットランド高地の民族衣装として定着しました。",
+    "etym_chain": [
+      { "node": "kilte", "sub": "たくし上げる", "era": "スカンジナビア語" },
+      { "node": "kilt", "sub": "巻きスカート", "era": "近代英語" },
+      { "node": "kilt", "sub": "キルト", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "wear a kilt", "ja": "キルトを着る" },
+      { "en": "a tartan kilt", "ja": "タータン柄のキルト" },
+      { "en": "traditional kilt", "ja": "伝統的なキルト" },
+      { "en": "Scottish kilt", "ja": "スコットランドのキルト" },
+      { "en": "kilt and sporran", "ja": "キルトと腰袋" },
+      { "en": "a pleated kilt", "ja": "ひだのあるキルト" }
+    ],
+    "related": [
+      { "en": "tartan", "ja": "タータン(格子柄)" },
+      { "en": "Scotland", "ja": "スコットランド" },
+      { "en": "bagpipe", "ja": "バグパイプ" },
+      { "en": "skirt", "ja": "スカート" }
+    ],
+    "faq": [
+      { "q": "kilt と quilt は同じですか？", "a": "いいえ、別の語です。kilt はスコットランドの巻きスカート、quilt は中に綿を入れたベッドカバーや掛け布団です。" },
+      { "q": "kilt は誰が着ますか？", "a": "主にスコットランドの男性が、正装や式典、バグパイプ演奏などで身につける伝統衣装です。" }
+    ],
+    "quiz": [
+      { "q": "The Scottish dancer wore a ___.（スコットランドの踊り手はキルトを着ていた）", "A": "kilt", "B": "kimono", "C": "khaki", "D": "kettle", "correct": "A" },
+      { "q": "kilt はどこの国の民族衣装？", "A": "アイルランド", "B": "スコットランド", "C": "日本", "D": "トルコ", "correct": "B" }
+    ]
+  },
+  {
+    "english": "kudos",
+    "pron": "ˈkjuːdɒs",
+    "kana": "キュードス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 kydos（栄光・名声）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "やや硬い語"],
+    "meaning_main": "称賛／名誉／栄誉",
+    "description": "kudos は「称賛・名誉」を表す名詞。ギリシャ語由来で、功績をたたえるときに使います。形は複数のようでも単数扱いの不可算名詞である点に注意が必要です。",
+    "keywords": ["kudos 意味", "kudos 発音", "kudos 称賛", "kudos 単数複数", "kudos 例文"],
+    "meanings": [
+      { "hinshi": "【名】称賛・名誉・栄誉", "note": "功績に対するほめ言葉・評価。不可算。" }
+    ],
+    "usages": [
+      { "title": "① 称賛（不可算名詞）", "desc": "-s で終わるが単数扱い。", "example_en": "Kudos to the team for their hard work.", "example_ja": "頑張ったチームに称賛を。" },
+      { "title": "② 名誉・評価を得る", "desc": "win/earn kudos。", "example_en": "She earned kudos for her research.", "example_ja": "彼女は研究で称賛を得た。" },
+      { "title": "③ Kudos to ~（〜に称賛を）", "desc": "ほめる決まり文句。", "example_en": "Kudos to you for finishing the race.", "example_ja": "レースを完走したあなたに拍手を。" }
+    ],
+    "warn": ["-s で終わるが単数扱いの不可算名詞。a kudo とは通常言わない。", "「〜に称賛を」は kudos to ~ の形。"],
+    "etym_note": "ギリシャ語 kydos（栄光・名声）に由来し、19世紀にイギリスの大学のスラングとして英語に入りました。もともと単数の語なので、-s は複数語尾ではありません。",
+    "etym_chain": [
+      { "node": "kydos", "sub": "栄光・名声", "era": "古代ギリシャ語" },
+      { "node": "kudos", "sub": "称賛", "era": "19世紀英語" },
+      { "node": "kudos", "sub": "称賛・名誉", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "kudos to ~", "ja": "〜に称賛を" },
+      { "en": "earn kudos", "ja": "称賛を得る" },
+      { "en": "win kudos", "ja": "名誉を勝ち取る" },
+      { "en": "much kudos", "ja": "大きな称賛" },
+      { "en": "give kudos", "ja": "称賛を贈る" },
+      { "en": "deserve kudos", "ja": "称賛に値する" }
+    ],
+    "related": [
+      { "en": "praise", "ja": "称賛" },
+      { "en": "honor", "ja": "名誉" },
+      { "en": "credit", "ja": "評価・功績" },
+      { "en": "acclaim", "ja": "喝采・称賛" }
+    ],
+    "faq": [
+      { "q": "kudos は複数形ですか？", "a": "いいえ。-s で終わりますが、ギリシャ語由来の単数扱いの不可算名詞です。Kudos is deserved.（称賛に値する）のように単数で扱います。" },
+      { "q": "kudos はどんな場面で使いますか？", "a": "誰かの功績や努力をたたえるときに使います。Kudos to you!（お見事！）のようにほめ言葉として使えます。" }
+    ],
+    "quiz": [
+      { "q": "___ to her for winning the prize.（賞を取った彼女に称賛を）", "A": "Kudos", "B": "Kettle", "C": "Kernel", "D": "Kilt", "correct": "A" },
+      { "q": "kudos の意味は？", "A": "非難", "B": "称賛", "C": "無視", "D": "疑い", "correct": "B" }
+    ]
+  },
+  {
+    "english": "keyhole",
+    "pron": "ˈkiːhoʊl",
+    "kana": "キーホール",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "key（鍵）＋ hole（穴）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "生活語"],
+    "meaning_main": "鍵穴",
+    "description": "keyhole は「鍵穴」を表す名詞。key（鍵）＋ hole（穴）の複合語で、鍵を差し込む錠の穴を指します。keyhole surgery（内視鏡手術）のように比喩的にも使われます。",
+    "keywords": ["keyhole 意味", "keyhole 発音", "keyhole 鍵穴", "keyhole surgery", "keyhole 例文"],
+    "meanings": [
+      { "hinshi": "【名】鍵穴", "note": "鍵を差し込む錠の穴。" },
+      { "hinshi": "【名】(比喩)小さなのぞき穴", "note": "keyhole surgery（小切開手術）など。" }
+    ],
+    "usages": [
+      { "title": "① 鍵穴", "desc": "鍵を差し込む穴。", "example_en": "She peeked through the keyhole.", "example_ja": "彼女は鍵穴からのぞいた。" },
+      { "title": "② 鍵を差し込む", "desc": "put the key in the keyhole。", "example_en": "He put the key in the keyhole.", "example_ja": "彼は鍵穴に鍵を差し込んだ。" },
+      { "title": "③ keyhole surgery（内視鏡手術）", "desc": "小さな穴から行う手術。", "example_en": "The doctor performed keyhole surgery.", "example_ja": "医師は内視鏡手術を行った。" }
+    ],
+    "warn": ["key＋hole の複合語。1語で書く。", "keyhole surgery は「小さな穴から行う手術（内視鏡手術）」の意味。"],
+    "etym_note": "key（鍵）と hole（穴）を合わせた複合語で、文字通り「鍵の穴」を意味します。のちに「小さな穴」の比喩として医療用語などにも使われるようになりました。",
+    "etym_chain": [
+      { "node": "key + hole", "sub": "鍵＋穴", "era": "17世紀英語" },
+      { "node": "keyhole", "sub": "鍵穴", "era": "近代英語" },
+      { "node": "keyhole", "sub": "鍵穴", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "look through the keyhole", "ja": "鍵穴からのぞく" },
+      { "en": "keyhole surgery", "ja": "内視鏡手術・小切開手術" },
+      { "en": "put a key in the keyhole", "ja": "鍵穴に鍵を差す" },
+      { "en": "peep through a keyhole", "ja": "鍵穴からのぞき見する" },
+      { "en": "a keyhole view", "ja": "狭い視野・のぞき見" },
+      { "en": "block the keyhole", "ja": "鍵穴をふさぐ" }
+    ],
+    "related": [
+      { "en": "key", "ja": "鍵" },
+      { "en": "lock", "ja": "錠" },
+      { "en": "hole", "ja": "穴" },
+      { "en": "door", "ja": "ドア" }
+    ],
+    "faq": [
+      { "q": "keyhole surgery とは何ですか？", "a": "体に小さな穴を開け、そこから器具を入れて行う「内視鏡手術・小切開手術」のことです。鍵穴のように小さな穴を使うことに由来します。" },
+      { "q": "keyhole は1語ですか？", "a": "はい、key（鍵）＋ hole（穴）の複合語として1語で書きます。" }
+    ],
+    "quiz": [
+      { "q": "The child looked through the ___ to see inside.（子供は中を見ようと鍵穴からのぞいた）", "A": "keyhole", "B": "keyboard", "C": "kettle", "D": "kernel", "correct": "A" },
+      { "q": "keyhole は key ＋ ___ の複合語。空所は？", "A": "hole", "B": "board", "C": "word", "D": "note", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kelp",
+    "pron": "kelp",
+    "kana": "ケルプ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "中英語 culp（海藻）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "自然・海"],
+    "meaning_main": "ケルプ／大型の海藻／昆布",
+    "description": "kelp は「ケルプ・大型の褐色海藻」を表す名詞。冷たい海に生える大きな海藻で、昆布もこの仲間です。海の生態系や食用・工業原料として重要です。",
+    "keywords": ["kelp 意味", "kelp 発音", "kelp 海藻", "kelp 昆布", "kelp 例文"],
+    "meanings": [
+      { "hinshi": "【名】ケルプ・大型の褐色海藻", "note": "冷たい海に生える大きな海藻。昆布など。" }
+    ],
+    "usages": [
+      { "title": "① 海藻（ケルプ）", "desc": "海中で林のように茂る。", "example_en": "Sea otters live among the kelp.", "example_ja": "ラッコはケルプの間で暮らす。" },
+      { "title": "② ケルプの森 (kelp forest)", "desc": "海中の海藻の群生。", "example_en": "A kelp forest is home to many fish.", "example_ja": "ケルプの森は多くの魚のすみかだ。" },
+      { "title": "③ 食用・原料", "desc": "食品や肥料に使われる。", "example_en": "Kelp is used in some foods and cosmetics.", "example_ja": "ケルプは一部の食品や化粧品に使われる。" }
+    ],
+    "warn": ["原則不可算名詞。海藻全体をまとめて指す。", "食用の「昆布」も kelp の仲間だが、日本語の昆布は kombu とも呼ばれる。"],
+    "etym_note": "中英語 culp（海藻）に由来する語です。かつてはケルプを焼いて得た灰（ソーダやヨウ素の原料）も kelp と呼ばれました。",
+    "etym_chain": [
+      { "node": "culp", "sub": "海藻", "era": "中英語" },
+      { "node": "kelp", "sub": "海藻・その灰", "era": "近代英語" },
+      { "node": "kelp", "sub": "ケルプ・大型海藻", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "kelp forest", "ja": "ケルプの森" },
+      { "en": "giant kelp", "ja": "ジャイアントケルプ" },
+      { "en": "kelp beds", "ja": "ケルプの群生地" },
+      { "en": "dried kelp", "ja": "干した海藻・昆布" },
+      { "en": "kelp and seaweed", "ja": "ケルプと海藻" },
+      { "en": "float on the kelp", "ja": "ケルプに浮かぶ" }
+    ],
+    "related": [
+      { "en": "seaweed", "ja": "海藻" },
+      { "en": "algae", "ja": "藻類" },
+      { "en": "ocean", "ja": "海" },
+      { "en": "seabed", "ja": "海底" }
+    ],
+    "faq": [
+      { "q": "kelp と seaweed の違いは？", "a": "seaweed は「海藻」全般を指す広い語で、kelp はその中でも冷たい海に生える「大型の褐色海藻（昆布の仲間）」を指します。" },
+      { "q": "kelp forest とは何ですか？", "a": "大型のケルプが海中で林のように群生する場所で、多くの魚や海洋生物のすみかとなる豊かな生態系です。" }
+    ],
+    "quiz": [
+      { "q": "Many sea animals live in the ___ forest.（多くの海の動物がケルプの森にすむ）", "A": "kelp", "B": "kettle", "C": "kiosk", "D": "kilt", "correct": "A" },
+      { "q": "kelp とは何ですか？", "A": "大型の海藻", "B": "深海魚", "C": "貝の一種", "D": "海鳥", "correct": "A" }
+    ]
+  }
+]

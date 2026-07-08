@@ -1,0 +1,506 @@
+[
+  {
+    "english": "jackpot",
+    "pron": "ˈdʒækpɒt",
+    "kana": "ジャックポット",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "jack（トランプのジャック）＋ pot（賭け金)",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "頻出語"],
+    "meaning_main": "大当たり／(くじ・賭けの)大賞金",
+    "description": "jackpot は「(くじや賭けの)大当たり・大賞金」を表す名詞。積み立てられて大きくなった賞金を指します。hit the jackpot（大当たりする・大成功する）という表現で、比喩的に「思わぬ幸運をつかむ」意味でもよく使われます。",
+    "keywords": ["jackpot 意味", "jackpot 発音", "jackpot 大当たり", "hit the jackpot", "jackpot 例文"],
+    "meanings": [
+      { "hinshi": "【名】大当たり・大賞金", "note": "積み立てられた大きな賞金。" },
+      { "hinshi": "【名】(比喩)思わぬ幸運・大成功", "note": "hit the jackpot。" }
+    ],
+    "usages": [
+      { "title": "① 大賞金（くじ・賭け）", "desc": "積み立てられた賞金。", "example_en": "She won the lottery jackpot.", "example_ja": "彼女は宝くじの大当たりを引いた。" },
+      { "title": "② hit the jackpot（大当たりする）", "desc": "大成功する。", "example_en": "The company hit the jackpot with its new product.", "example_ja": "その会社は新製品で大当たりした。" },
+      { "title": "③ 思わぬ幸運", "desc": "比喩的に。", "example_en": "You hit the jackpot finding this apartment.", "example_ja": "このアパートを見つけたなんて大当たりだね。" }
+    ],
+    "warn": ["jack（トランプのジャック）＋ pot（賭けの元金）が語源。", "hit the jackpot は「大当たりする・大成功する」の慣用表現。"],
+    "etym_note": "ポーカーの一種で、ジャックのペア以上が出るまで賭け金（pot）が積み立てられたことに由来します。jack（ジャック）＋ pot（賭け金）で、たまった大金を意味します。",
+    "etym_chain": [
+      { "node": "jack + pot", "sub": "ジャック＋賭け金", "era": "19世紀アメリカ英語" },
+      { "node": "jackpot", "sub": "大当たり", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "hit the jackpot", "ja": "大当たりする・大成功する" },
+      { "en": "win the jackpot", "ja": "大賞金を当てる" },
+      { "en": "a lottery jackpot", "ja": "宝くじの大当たり" },
+      { "en": "a huge jackpot", "ja": "巨額の賞金" },
+      { "en": "the jackpot prize", "ja": "大当たりの賞金" },
+      { "en": "a progressive jackpot", "ja": "積み立て式の大賞金" }
+    ],
+    "related": [
+      { "en": "prize", "ja": "賞金・賞品" },
+      { "en": "lottery", "ja": "宝くじ" },
+      { "en": "win", "ja": "勝つ・当てる" },
+      { "en": "fortune", "ja": "大金・幸運" }
+    ],
+    "faq": [
+      { "q": "hit the jackpot とはどんな意味ですか？", "a": "文字通りは「大当たりを引く」ですが、比喩的に「思わぬ幸運をつかむ・大成功する」という意味でよく使われます。" },
+      { "q": "jackpot の語源は？", "a": "ポーカーで、ジャックのペア以上が出るまで賭け金（pot）が積み立てられたことに由来します。jack＋pot でたまった大金を意味します。" }
+    ],
+    "quiz": [
+      { "q": "He won the ___ and became a millionaire overnight.（彼は大当たりを引いて一夜で大金持ちになった）", "A": "jackpot", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "hit the ___ は「大当たりする」。空所は？", "A": "jackpot", "B": "jug", "C": "jade", "D": "jog", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jargon",
+    "pron": "ˈdʒɑːrɡən",
+    "kana": "ジャーゴン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 jargon（さえずり・意味不明の言葉)",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "言語"],
+    "meaning_main": "専門用語／(部外者にわかりにくい)業界用語",
+    "description": "jargon は「専門用語・業界用語」を表す名詞。ある職業・分野の人々の間だけで通じる、部外者にはわかりにくい特殊な言葉を指します。原則不可算名詞で、しばしば「わかりにくい」という否定的なニュアンスを伴います。",
+    "keywords": ["jargon 意味", "jargon 発音", "jargon 専門用語", "jargon 業界用語", "jargon 例文"],
+    "meanings": [
+      { "hinshi": "【名】専門用語・業界用語", "note": "特定分野でだけ通じる部外者にわかりにくい言葉。不可算。" }
+    ],
+    "usages": [
+      { "title": "① 専門用語", "desc": "分野特有の言葉。", "example_en": "The manual is full of technical jargon.", "example_ja": "その説明書は専門用語だらけだ。" },
+      { "title": "② わかりにくい言葉", "desc": "否定的ニュアンス。", "example_en": "Try to avoid jargon when writing for beginners.", "example_ja": "初心者向けに書くときは専門用語を避けよう。" },
+      { "title": "③ 業界用語", "desc": "medical / legal jargon など。", "example_en": "Doctors sometimes use medical jargon.", "example_ja": "医師は時に医学用語を使う。" }
+    ],
+    "warn": ["原則不可算名詞。部外者にわかりにくい言葉を指し、否定的に使うことが多い。", "term（専門語）は中立的だが、jargon は「難解でわかりにくい」ニュアンス。"],
+    "etym_note": "古フランス語 jargon（鳥のさえずり・意味不明のおしゃべり）に由来します。「部外者には意味の通じない言葉」というイメージから「専門用語」の意味になりました。",
+    "etym_chain": [
+      { "node": "jargon", "sub": "さえずり・意味不明の言葉", "era": "古フランス語" },
+      { "node": "jargon", "sub": "専門用語", "era": "近代英語" },
+      { "node": "jargon", "sub": "専門用語・業界用語", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "technical jargon", "ja": "専門用語" },
+      { "en": "medical jargon", "ja": "医学用語" },
+      { "en": "legal jargon", "ja": "法律用語" },
+      { "en": "avoid jargon", "ja": "専門用語を避ける" },
+      { "en": "business jargon", "ja": "ビジネス用語" },
+      { "en": "full of jargon", "ja": "専門用語だらけ" }
+    ],
+    "related": [
+      { "en": "term", "ja": "専門語・用語" },
+      { "en": "slang", "ja": "俗語" },
+      { "en": "vocabulary", "ja": "語彙" },
+      { "en": "language", "ja": "言語・言葉遣い" }
+    ],
+    "faq": [
+      { "q": "jargon とはどんな言葉ですか？", "a": "ある職業・分野の人々の間だけで通じる、部外者にはわかりにくい特殊な言葉です。しばしば「難解でわかりにくい」という否定的なニュアンスを伴います。" },
+      { "q": "jargon と slang の違いは？", "a": "jargon は特定の職業・分野の「専門用語」、slang は特定の集団の「俗語・くだけた言葉」です。jargon は仕事上の専門語を指します。" }
+    ],
+    "quiz": [
+      { "q": "The report was hard to read because of all the ___.（そのレポートは専門用語だらけで読みにくかった）", "A": "jargon", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jargon のニュアンスは？", "A": "部外者にわかりにくい専門用語", "B": "誰にでもわかる易しい言葉", "C": "外国語", "D": "古語", "correct": "A" }
+    ]
+  },
+  {
+    "english": "javelin",
+    "pron": "ˈdʒævlɪn",
+    "kana": "ジャブリン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 javeline（投げ槍)",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "スポーツ"],
+    "meaning_main": "やり／(競技の)やり投げ用の槍",
+    "description": "javelin は「やり（投げ槍）」を表す名詞。陸上競技の「やり投げ」で投げる、細長い槍を指します。競技そのもの（the javelin＝やり投げ）を指すこともあります。もとは狩りや戦いに使われた投げ槍でした。",
+    "keywords": ["javelin 意味", "javelin 発音", "javelin やり投げ", "javelin 槍", "javelin 例文"],
+    "meanings": [
+      { "hinshi": "【名】やり・投げ槍", "note": "陸上競技のやり投げで投げる細長い槍。" },
+      { "hinshi": "【名】(競技)やり投げ", "note": "the javelin。" }
+    ],
+    "usages": [
+      { "title": "① やり（投げ槍）", "desc": "投げる細長い槍。", "example_en": "He threw the javelin a long way.", "example_ja": "彼はやりを遠くまで投げた。" },
+      { "title": "② やり投げ（競技）", "desc": "the javelin。", "example_en": "She won gold in the javelin.", "example_ja": "彼女はやり投げで金メダルを取った。" },
+      { "title": "③ 昔の武器", "desc": "狩り・戦いの道具。", "example_en": "Ancient soldiers used javelins.", "example_ja": "古代の兵士はやりを使った。" }
+    ],
+    "warn": ["発音は /ˈdʒævlɪn/。陸上競技の「やり投げ」用の槍。", "「やり投げをする」は throw the javelin。"],
+    "etym_note": "古フランス語 javeline（投げ槍）に由来し、ケルト語系の語にさかのぼるとされます。狩りや戦いで投げる軽い槍を指し、後に陸上競技の道具の名になりました。",
+    "etym_chain": [
+      { "node": "javeline", "sub": "投げ槍", "era": "古フランス語" },
+      { "node": "javelin", "sub": "やり", "era": "近代英語" },
+      { "node": "javelin", "sub": "やり・やり投げ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "throw the javelin", "ja": "やりを投げる" },
+      { "en": "the javelin throw", "ja": "やり投げ" },
+      { "en": "a javelin thrower", "ja": "やり投げ選手" },
+      { "en": "win the javelin", "ja": "やり投げで優勝する" },
+      { "en": "a long javelin throw", "ja": "遠くへのやり投げ" },
+      { "en": "an ancient javelin", "ja": "古代のやり" }
+    ],
+    "related": [
+      { "en": "spear", "ja": "槍・やり" },
+      { "en": "throw", "ja": "投げる" },
+      { "en": "athletics", "ja": "陸上競技" },
+      { "en": "discus", "ja": "円盤投げ" }
+    ],
+    "faq": [
+      { "q": "javelin とは何ですか？", "a": "陸上競技の「やり投げ」で投げる細長い槍のことです。競技そのもの（the javelin＝やり投げ）を指すこともあります。もとは狩りや戦いの投げ槍でした。" },
+      { "q": "「やり投げをする」は英語で？", "a": "throw the javelin と言います。競技としては do the javelin とも表現します。" }
+    ],
+    "quiz": [
+      { "q": "The athlete threw the ___ over 80 meters.（その選手はやりを80メートル以上投げた）", "A": "javelin", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "javelin はどの競技で使う？", "A": "やり投げ", "B": "水泳", "C": "体操", "D": "卓球", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jury",
+    "pron": "ˈdʒʊəri",
+    "kana": "ジューリー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 jurare（誓う)",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "社会・法律"],
+    "meaning_main": "陪審／陪審員団／(コンテストの)審査員団",
+    "description": "jury は「陪審・陪審員団」を表す名詞。裁判で、一般の市民から選ばれて有罪か無罪かを判断する人々の集まりを指します。コンテストの「審査員団」の意味でも使われます。集合名詞で、1人の陪審員は juror です。",
+    "keywords": ["jury 意味", "jury 発音", "jury 陪審", "jury 審査員", "jury 例文"],
+    "meanings": [
+      { "hinshi": "【名】陪審・陪審員団", "note": "裁判で有罪・無罪を判断する市民の集まり。" },
+      { "hinshi": "【名】(コンテストの)審査員団", "note": "作品などを審査する人々。" }
+    ],
+    "usages": [
+      { "title": "① 陪審員団（裁判）", "desc": "有罪・無罪を判断。", "example_en": "The jury found him guilty.", "example_ja": "陪審員団は彼を有罪とした。" },
+      { "title": "② 審査員団（コンテスト）", "desc": "作品を審査。", "example_en": "The jury awarded her first prize.", "example_ja": "審査員団は彼女に一等賞を与えた。" },
+      { "title": "③ 1人は juror", "desc": "陪審員（個人）。", "example_en": "Each juror listened carefully.", "example_ja": "各陪審員は注意深く聞いた。" }
+    ],
+    "warn": ["集合名詞。1人の陪審員は juror。", "the jury is still out で「まだ結論が出ていない」の慣用表現。"],
+    "etym_note": "ラテン語 jurare（誓う）に由来します。陪審員が公正に判断すると「誓う」ことから、古フランス語 juree を経て英語に入りました。just / justice と同じ語源です。",
+    "etym_chain": [
+      { "node": "jurare", "sub": "誓う", "era": "ラテン語" },
+      { "node": "juree", "sub": "宣誓した人々", "era": "古フランス語" },
+      { "node": "jury", "sub": "陪審", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a jury of twelve", "ja": "12人の陪審員団" },
+      { "en": "serve on a jury", "ja": "陪審員を務める" },
+      { "en": "the jury's verdict", "ja": "陪審の評決" },
+      { "en": "the jury is still out", "ja": "まだ結論が出ていない" },
+      { "en": "a panel of jury", "ja": "審査員団" },
+      { "en": "jury duty", "ja": "陪審員の義務" }
+    ],
+    "related": [
+      { "en": "juror", "ja": "陪審員(個人)" },
+      { "en": "judge", "ja": "裁判官" },
+      { "en": "court", "ja": "法廷" },
+      { "en": "verdict", "ja": "評決" }
+    ],
+    "faq": [
+      { "q": "jury と judge の違いは？", "a": "jury（陪審）は一般市民から選ばれ有罪・無罪を判断する人々の集まり、judge（裁判官）は法律の専門家で裁判を進行し量刑を決める人です。" },
+      { "q": "the jury is still out とは？", "a": "「陪審員がまだ評議中で結論が出ていない」ことから、比喩的に「まだ結論・判断が出ていない」という意味の慣用表現です。" }
+    ],
+    "quiz": [
+      { "q": "The ___ decided that the man was not guilty.（陪審員団はその男性が無罪だと判断した）", "A": "jury", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "1人の陪審員を表す語は？", "A": "juror", "B": "judge", "C": "jockey", "D": "jailer", "correct": "A" }
+    ]
+  },
+  {
+    "english": "juvenile",
+    "pron": "ˈdʒuːvənaɪl",
+    "kana": "ジューブナイル",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 juvenilis（若い)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR B2", "頻出語"],
+    "meaning_main": "青少年の／未成年の／(否定的に)子どもっぽい",
+    "description": "juvenile は「青少年の・未成年の」を表す形容詞、また「青少年・未成年者」を表す名詞です。法律や社会の文脈で「未成年」を指すことが多い、ややかたい語です。否定的に「(大人げなく)子どもっぽい」の意味でも使われます。",
+    "keywords": ["juvenile 意味", "juvenile 発音", "juvenile 青少年", "juvenile 未成年", "juvenile 例文"],
+    "meanings": [
+      { "hinshi": "【形】青少年の・未成年の", "note": "法律・社会の文脈で使うかたい語。" },
+      { "hinshi": "【形】(否定的に)子どもっぽい・幼稚な", "note": "大人げないようす。" },
+      { "hinshi": "【名】青少年・未成年者", "note": "法的な文脈での若者。" }
+    ],
+    "usages": [
+      { "title": "① 青少年の・未成年の", "desc": "法律の文脈など。", "example_en": "Juvenile crime is a serious issue.", "example_ja": "少年犯罪は深刻な問題だ。" },
+      { "title": "② 子どもっぽい（否定的）", "desc": "幼稚な。", "example_en": "His juvenile behavior annoyed everyone.", "example_ja": "彼の幼稚な態度はみんなを苛立たせた。" },
+      { "title": "③ 名詞（未成年者）", "desc": "法的な若者。", "example_en": "The court treats juveniles differently.", "example_ja": "裁判所は未成年者を別に扱う。" }
+    ],
+    "warn": ["かたい語。日常の「若い」は young。juvenile は法律・生物学などで使う。", "「子どもっぽい」の意味では否定的なニュアンス。"],
+    "etym_note": "ラテン語 juvenilis（juvenis＝若い、から＝若々しい）に由来します。junior（年下の）や young（若い）と語源的につながります。",
+    "etym_chain": [
+      { "node": "juvenilis", "sub": "若い", "era": "ラテン語" },
+      { "node": "juvenile", "sub": "青少年の", "era": "近代英語" },
+      { "node": "juvenile", "sub": "青少年の・子どもっぽい", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "juvenile crime", "ja": "少年犯罪" },
+      { "en": "a juvenile court", "ja": "少年裁判所" },
+      { "en": "juvenile delinquency", "ja": "少年非行" },
+      { "en": "juvenile behavior", "ja": "幼稚な態度" },
+      { "en": "a juvenile offender", "ja": "少年犯罪者" },
+      { "en": "juvenile fiction", "ja": "児童・青少年向け小説" }
+    ],
+    "related": [
+      { "en": "young", "ja": "若い" },
+      { "en": "adolescent", "ja": "青年期の・思春期の" },
+      { "en": "childish", "ja": "子どもっぽい" },
+      { "en": "minor", "ja": "未成年者" }
+    ],
+    "faq": [
+      { "q": "juvenile と young の違いは？", "a": "young は「若い」全般の日常語、juvenile は法律・生物学などで使うかたい語で「青少年の・未成年の」を指します。否定的に「子どもっぽい」の意味もあります。" },
+      { "q": "juvenile crime とは？", "a": "未成年者（少年）が犯す犯罪「少年犯罪」のことです。多くの国で成人とは異なる扱いがされます。" }
+    ],
+    "quiz": [
+      { "q": "___ crime is handled by a special court.（少年犯罪は特別な裁判所で扱われる）", "A": "Juvenile", "B": "Jam", "C": "Jar", "D": "Jaw", "correct": "A" },
+      { "q": "juvenile の意味に近いのは？", "A": "青少年の・未成年の", "B": "年老いた", "C": "外国の", "D": "巨大な", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jolt",
+    "pron": "dʒoʊlt",
+    "kana": "ジョウルト",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "英語 jolt（急に揺らす)",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "動作・比喩"],
+    "meaning_main": "急な揺れ／衝撃／ぐいと揺さぶる",
+    "description": "jolt は「急な揺れ・衝撃」を表す名詞、また「(急に)揺さぶる・衝撃を与える」を表す動詞です。乗り物ががくんと揺れることや、心に強い衝撃を与えることを指します。a jolt of ~（ひと突きの〜）の形でも使われます。",
+    "keywords": ["jolt 意味", "jolt 発音", "jolt 衝撃", "jolt 揺れ", "jolt 例文"],
+    "meanings": [
+      { "hinshi": "【名】急な揺れ・衝撃", "note": "がくんとした揺れ、心の衝撃。" },
+      { "hinshi": "【動】急に揺さぶる・衝撃を与える", "note": "がくんと動かす、はっとさせる。" }
+    ],
+    "usages": [
+      { "title": "① 急な揺れ（名詞）", "desc": "がくんとした揺れ。", "example_en": "The train stopped with a jolt.", "example_ja": "電車はがくんと止まった。" },
+      { "title": "② 衝撃を与える（動詞）", "desc": "はっとさせる。", "example_en": "The news jolted her awake.", "example_ja": "その知らせは彼女をはっと目覚めさせた。" },
+      { "title": "③ a jolt of ~（ひと突きの〜）", "desc": "刺激の量。", "example_en": "I needed a jolt of caffeine.", "example_ja": "私はカフェインの刺激がほしかった。" }
+    ],
+    "warn": ["物理的な「揺れ」と、心理的な「衝撃」の両方に使う。", "shock（衝撃）と近いが、jolt はがくんとした一瞬の揺れ・刺激。"],
+    "etym_note": "18世紀ごろに現れた語で、「がくんと揺れる・突く」動作を表します。jog（揺さぶる）や jolt に近い擬音的な語から発達したとされます。",
+    "etym_chain": [
+      { "node": "jolt", "sub": "急に揺らす", "era": "18世紀英語" },
+      { "node": "jolt", "sub": "急な揺れ・衝撃", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "with a jolt", "ja": "がくんと・はっと" },
+      { "en": "a sudden jolt", "ja": "突然の揺れ" },
+      { "en": "jolt awake", "ja": "はっと目覚めさせる" },
+      { "en": "a jolt of energy", "ja": "エネルギーの刺激" },
+      { "en": "give a jolt", "ja": "衝撃を与える" },
+      { "en": "a jolt of electricity", "ja": "電気の衝撃" }
+    ],
+    "related": [
+      { "en": "shock", "ja": "衝撃" },
+      { "en": "jerk", "ja": "急な動き" },
+      { "en": "shake", "ja": "揺らす" },
+      { "en": "bump", "ja": "衝突・でこぼこ" }
+    ],
+    "faq": [
+      { "q": "jolt と shock の違いは？", "a": "どちらも「衝撃」ですが、jolt はがくんとした一瞬の物理的な揺れや刺激を強調し、shock はより広く心理的・電気的な衝撃を表します。" },
+      { "q": "a jolt of caffeine とはどんな意味ですか？", "a": "「カフェインによるひと刺激・目が覚めるような刺激」という意味です。jolt は「ぱっと元気にする刺激」も表します。" }
+    ],
+    "quiz": [
+      { "q": "The car hit a bump and gave us a ___.（車が段差にぶつかって私たちはがくんと揺れた）", "A": "jolt", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jolt awake の意味は？", "A": "はっと目覚めさせる", "B": "ゆっくり眠らせる", "C": "静かにさせる", "D": "笑わせる", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jot",
+    "pron": "dʒɒt",
+    "kana": "ジョット",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ギリシャ語 iota（最小の文字)",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "動作"],
+    "meaning_main": "(手早く)書き留める／メモする",
+    "description": "jot は「(手早く)書き留める・メモする」を表す動詞。忘れないように、ちょっとした言葉や数字をさっと書きつけることを指します。ふつう jot down の形で使われます。ギリシャ文字で最小の「イオタ」が語源です。",
+    "keywords": ["jot 意味", "jot 発音", "jot 書き留める", "jot down", "jot 例文"],
+    "meanings": [
+      { "hinshi": "【動】(手早く)書き留める・メモする", "note": "さっと書きつける。ふつう jot down。" }
+    ],
+    "usages": [
+      { "title": "① jot down（書き留める）", "desc": "さっとメモする。", "example_en": "Let me jot down your phone number.", "example_ja": "あなたの電話番号を書き留めさせて。" },
+      { "title": "② メモを取る", "desc": "忘れないように。", "example_en": "She jotted a few notes during the meeting.", "example_ja": "彼女は会議中にいくつかメモを取った。" },
+      { "title": "③ 手早く記す", "desc": "簡単に書く。", "example_en": "I jotted the idea on a napkin.", "example_ja": "私はそのアイデアをナプキンに書きつけた。" }
+    ],
+    "warn": ["過去形・-ing 形は t を重ねる: jotted, jotting。", "ふつう jot down の形で使う。write より手早く簡単に書くイメージ。"],
+    "etym_note": "ギリシャ文字で最も小さい文字「イオタ（iota）」に由来します。「ごく小さいもの」から「ちょっと書きつける」という意味の動詞になりました。",
+    "etym_chain": [
+      { "node": "iota", "sub": "最小の文字", "era": "ギリシャ語" },
+      { "node": "jot", "sub": "ごく小さいもの", "era": "近代英語" },
+      { "node": "jot", "sub": "書き留める", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "jot down", "ja": "書き留める" },
+      { "en": "jot a note", "ja": "メモを書く" },
+      { "en": "jot down an idea", "ja": "アイデアを書き留める" },
+      { "en": "quickly jot", "ja": "さっと書きつける" },
+      { "en": "jot down the address", "ja": "住所を書き留める" },
+      { "en": "jot down a number", "ja": "番号をメモする" }
+    ],
+    "related": [
+      { "en": "note", "ja": "メモ・書き留める" },
+      { "en": "write", "ja": "書く" },
+      { "en": "scribble", "ja": "走り書きする" },
+      { "en": "record", "ja": "記録する" }
+    ],
+    "faq": [
+      { "q": "jot down とはどんな意味ですか？", "a": "「(忘れないように)さっと書き留める・メモする」という意味です。ちょっとした言葉や数字を手早く書きつけるときに使います。" },
+      { "q": "jot の語源は？", "a": "ギリシャ文字で最も小さい文字「イオタ（iota）」に由来します。「ごく小さいもの→ちょっと書きつける」という意味になりました。" }
+    ],
+    "quiz": [
+      { "q": "Let me ___ down your email address.（あなたのメールアドレスを書き留めさせて）", "A": "jot", "B": "jam", "C": "jog", "D": "jump", "correct": "A" },
+      { "q": "jot はふつうどの語と一緒に使う？", "A": "down", "B": "up", "C": "off", "D": "in", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jumble",
+    "pron": "ˈdʒʌmbl",
+    "kana": "ジャンブル",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "英語 jumble（ごちゃ混ぜにする)",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "動作"],
+    "meaning_main": "ごちゃ混ぜにする／寄せ集め／乱雑な山",
+    "description": "jumble は「ごちゃ混ぜにする」を表す動詞、また「寄せ集め・乱雑な山」を表す名詞です。物事が順序なく入り混じって混乱した状態を指します。しばしば jumble up（ごちゃ混ぜにする）の形で使われます。",
+    "keywords": ["jumble 意味", "jumble 発音", "jumble ごちゃ混ぜ", "jumble up", "jumble 例文"],
+    "meanings": [
+      { "hinshi": "【動】ごちゃ混ぜにする・乱雑にする", "note": "順序なく入り混じらせる。" },
+      { "hinshi": "【名】寄せ集め・乱雑な山", "note": "ごちゃ混ぜの状態。" }
+    ],
+    "usages": [
+      { "title": "① ごちゃ混ぜにする（動詞）", "desc": "jumble up。", "example_en": "The papers were all jumbled up.", "example_ja": "書類は全部ごちゃ混ぜになっていた。" },
+      { "title": "② 寄せ集め（名詞）", "desc": "a jumble of ~。", "example_en": "The drawer was a jumble of old keys.", "example_ja": "引き出しは古い鍵のごちゃ混ぜだった。" },
+      { "title": "③ 混乱した状態", "desc": "整理されていない。", "example_en": "My thoughts were a jumble.", "example_ja": "私の考えはごちゃごちゃだった。" }
+    ],
+    "warn": ["「ごちゃ混ぜにする」は jumble up の形が多い。", "イギリスの jumble sale は「不用品のバザー」。"],
+    "etym_note": "16世紀ごろに現れた語で、「混ぜ合わせる・混乱させる」動作を表す擬音的・造語的な語だとされます。tumble（転がる）などとの連想もあります。",
+    "etym_chain": [
+      { "node": "jumble", "sub": "混ぜ合わせる", "era": "16世紀英語" },
+      { "node": "jumble", "sub": "ごちゃ混ぜにする", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "jumble up", "ja": "ごちゃ混ぜにする" },
+      { "en": "a jumble of things", "ja": "物の寄せ集め" },
+      { "en": "all jumbled together", "ja": "全部ごちゃ混ぜで" },
+      { "en": "a jumble sale", "ja": "不用品バザー(英)" },
+      { "en": "a jumble of colors", "ja": "色のごちゃ混ぜ" },
+      { "en": "jumbled thoughts", "ja": "混乱した考え" }
+    ],
+    "related": [
+      { "en": "mix", "ja": "混ぜる" },
+      { "en": "mess", "ja": "散らかった状態" },
+      { "en": "muddle", "ja": "混乱させる" },
+      { "en": "disorder", "ja": "無秩序" }
+    ],
+    "faq": [
+      { "q": "jumble とはどんな意味ですか？", "a": "物事が順序なく入り混じって混乱することです。動詞で「ごちゃ混ぜにする」、名詞で「寄せ集め・乱雑な山」を表します。" },
+      { "q": "jumble sale とは？", "a": "主にイギリスで、家庭の不用品を持ち寄って安く売る「バザー・ガラクタ市」のことです。" }
+    ],
+    "quiz": [
+      { "q": "The letters of the word were all ___ up.（その単語の文字は全部ごちゃ混ぜになっていた）", "A": "jumbled", "B": "jammed", "C": "jarred", "D": "jogged", "correct": "A" },
+      { "q": "jumble の意味に近いのは？", "A": "ごちゃ混ぜにする", "B": "きれいに並べる", "C": "捨てる", "D": "数える", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jubilee",
+    "pron": "ˈdʒuːbɪliː",
+    "kana": "ジュビリー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ヘブライ語 yobel（雄羊の角笛)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR B2", "文化・行事"],
+    "meaning_main": "記念祭／(特に25年・50年などの)祝典",
+    "description": "jubilee は「記念祭・祝典」を表す名詞。特に25周年（silver jubilee）や50周年（golden jubilee）など、大きな節目を祝う記念の行事を指します。王の即位や大きな出来事の周年を盛大に祝うときに使われます。",
+    "keywords": ["jubilee 意味", "jubilee 発音", "jubilee 記念祭", "golden jubilee", "jubilee 例文"],
+    "meanings": [
+      { "hinshi": "【名】記念祭・祝典", "note": "特に大きな節目の周年を祝う行事。" }
+    ],
+    "usages": [
+      { "title": "① 記念祭", "desc": "周年の祝典。", "example_en": "The town held a jubilee to mark its 100th year.", "example_ja": "その町は100周年を記念して祝典を開いた。" },
+      { "title": "② silver / golden jubilee", "desc": "25年・50年の記念。", "example_en": "The queen celebrated her golden jubilee.", "example_ja": "女王は即位50周年を祝った。" },
+      { "title": "③ 盛大な祝い", "desc": "喜びの行事。", "example_en": "There was a jubilee with music and dancing.", "example_ja": "音楽と踊りのある祝典があった。" }
+    ],
+    "warn": ["silver jubilee（25周年）、golden jubilee（50周年）、diamond jubilee（60周年）。", "発音は /ˈdʒuːbɪliː/。"],
+    "etym_note": "ヘブライ語 yobel（雄羊の角笛）に由来します。古代ユダヤで50年ごとに角笛を吹いて始まる特別な「ヨベルの年（解放の年）」を意味し、そこから「50年の記念・祝典」の意味になりました。",
+    "etym_chain": [
+      { "node": "yobel", "sub": "雄羊の角笛", "era": "ヘブライ語" },
+      { "node": "jubileus", "sub": "50年の記念", "era": "ラテン語" },
+      { "node": "jubilee", "sub": "記念祭", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a golden jubilee", "ja": "50周年記念" },
+      { "en": "a silver jubilee", "ja": "25周年記念" },
+      { "en": "a diamond jubilee", "ja": "60周年記念" },
+      { "en": "celebrate a jubilee", "ja": "記念祭を祝う" },
+      { "en": "a jubilee year", "ja": "記念の年" },
+      { "en": "the queen's jubilee", "ja": "女王の即位記念" }
+    ],
+    "related": [
+      { "en": "anniversary", "ja": "記念日" },
+      { "en": "celebration", "ja": "祝典" },
+      { "en": "festival", "ja": "祭り" },
+      { "en": "commemoration", "ja": "記念" }
+    ],
+    "faq": [
+      { "q": "jubilee とは何ですか？", "a": "特に25周年や50周年など、大きな節目を祝う記念の行事・祝典です。王の即位や重要な出来事の周年を盛大に祝うときに使われます。" },
+      { "q": "golden jubilee と silver jubilee の違いは？", "a": "silver jubilee は25周年、golden jubilee は50周年の記念です。さらに diamond jubilee は60周年を指します。" }
+    ],
+    "quiz": [
+      { "q": "The king celebrated his golden ___ after 50 years on the throne.（王は即位50年の記念を祝った）", "A": "jubilee", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "golden jubilee は何周年の記念？", "A": "50周年", "B": "10周年", "C": "5周年", "D": "1周年", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jasmine",
+    "pron": "ˈdʒæzmɪn",
+    "kana": "ジャズミン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ペルシャ語 yāsamīn（ジャスミンの花)",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "植物・花"],
+    "meaning_main": "ジャスミン（甘い香りの白い花）",
+    "description": "jasmine は「ジャスミン」を表す名詞。小さな白い花をつけ、甘く強い香りで知られるつる性の植物です。香水やジャスミン茶（花で香りづけした緑茶）に使われます。ペルシャ語の花の名が語源です。",
+    "keywords": ["jasmine 意味", "jasmine 発音", "jasmine ジャスミン", "jasmine 花 香り", "jasmine 例文"],
+    "meanings": [
+      { "hinshi": "【名】ジャスミン", "note": "甘い香りの白い花をつけるつる性植物。" }
+    ],
+    "usages": [
+      { "title": "① ジャスミン（花）", "desc": "甘い香りの白い花。", "example_en": "The jasmine smells wonderful at night.", "example_ja": "ジャスミンは夜に素晴らしい香りがする。" },
+      { "title": "② 香水・お茶に", "desc": "香りづけに使う。", "example_en": "I like jasmine tea.", "example_ja": "私はジャスミン茶が好きだ。" },
+      { "title": "③ ジャスミンの香り", "desc": "甘く強い香り。", "example_en": "The garden was full of the scent of jasmine.", "example_ja": "庭はジャスミンの香りで満ちていた。" }
+    ],
+    "warn": ["発音は /ˈdʒæzmɪn/。甘い香りの白い花を指す。", "ジャスミン茶(jasmine tea)は緑茶に花で香りをつけたもの。"],
+    "etym_note": "ペルシャ語 yāsamīn（ジャスミンの花）に由来し、アラビア語・フランス語を経て英語に入りました。中東・アジア原産の香り高い花を指す語です。",
+    "etym_chain": [
+      { "node": "yāsamīn", "sub": "ジャスミン", "era": "ペルシャ語" },
+      { "node": "jasmin", "sub": "ジャスミン", "era": "フランス語" },
+      { "node": "jasmine", "sub": "ジャスミン", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "jasmine flowers", "ja": "ジャスミンの花" },
+      { "en": "jasmine tea", "ja": "ジャスミン茶" },
+      { "en": "the scent of jasmine", "ja": "ジャスミンの香り" },
+      { "en": "white jasmine", "ja": "白いジャスミン" },
+      { "en": "jasmine perfume", "ja": "ジャスミンの香水" },
+      { "en": "a jasmine vine", "ja": "ジャスミンのつる" }
+    ],
+    "related": [
+      { "en": "flower", "ja": "花" },
+      { "en": "scent", "ja": "香り" },
+      { "en": "perfume", "ja": "香水" },
+      { "en": "rose", "ja": "バラ" }
+    ],
+    "faq": [
+      { "q": "jasmine とはどんな花ですか？", "a": "小さな白い花をつけ、甘く強い香りで知られるつる性の植物です。香水やジャスミン茶に使われます。" },
+      { "q": "jasmine tea とは？", "a": "緑茶などにジャスミンの花の香りをつけたお茶です。甘く華やかな香りが特徴で、中国などで親しまれています。" }
+    ],
+    "quiz": [
+      { "q": "The sweet smell of ___ filled the evening air.（ジャスミンの甘い香りが夕方の空気を満たした）", "A": "jasmine", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jasmine の特徴は？", "A": "甘い香りの白い花", "B": "とげのある赤い実", "C": "大きな黄色い花", "D": "香りのない葉", "correct": "A" }
+    ]
+  }
+]

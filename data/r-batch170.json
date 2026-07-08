@@ -1,0 +1,523 @@
+[
+  {
+    "english": "razorbill",
+    "pron": "ˈreɪzəbɪl",
+    "kana": "レイザービル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "razor（かみそり）＋ bill（くちばし）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "鳥・自然"],
+    "meaning_main": "オオハシウミガラス（黒白の海鳥）",
+    "description": "razorbill の意味・発音・例文・語源を解説。厚く平たいくちばしを持つ黒白の海鳥「オオハシウミガラス（レイザービル）」という、鳥や自然で使う語の使い方を紹介します。",
+    "keywords": ["razorbill 意味", "razorbill 発音", "オオハシウミガラス", "海鳥"],
+    "meanings": [
+      { "hinshi": "【名詞】オオハシウミガラス", "note": "北大西洋の断崖などで繁殖するウミスズメ科の海鳥。黒い背と白い腹、厚く平たい（かみそりの刃のような）くちばしを持つ。潜水して魚を捕る。razor（かみそり）＋ bill（くちばし）。" }
+    ],
+    "usages": [
+      { "title": "① 「崖の海鳥」として", "desc": "繁殖する海鳥を表します。", "example_en": "Razorbills nest on the sea cliffs in large colonies.", "example_ja": "オオハシウミガラスは海の断崖に大群で巣を作る。" },
+      { "title": "② 「潜って魚を捕る」として", "desc": "採餌行動を表します。", "example_en": "The razorbill dived to catch small fish.", "example_ja": "オオハシウミガラスは小魚を捕るために潜った。" }
+    ],
+    "warn": [
+      "razorbill は海鳥『オオハシウミガラス』。razor（かみそり）＋ bill（くちばし）。厚く平たいくちばしにちなむ。",
+      "ペンギンに似るが北半球の鳥で、飛べる（ペンギンは南半球で飛べない）。"
+    ],
+    "etym_note": "razor（『かみそり』、古フランス語 rasor、raser「削る」より）＋ bill（『くちばし』、古英語 bile より）から成り、「かみそりのような（薄く平たい）くちばしの鳥」を意味します。",
+    "etym_chain": [
+      { "node": "razor + bill", "sub": "かみそり＋くちばし", "era": "英語" },
+      { "node": "razorbill", "sub": "かみそりくちばしの鳥", "era": "近代英語" },
+      { "node": "razorbill", "sub": "オオハシウミガラス", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a colony of razorbills", "ja": "オオハシウミガラスの群れ" },
+      { "en": "razorbills on the cliff", "ja": "崖のオオハシウミガラス" },
+      { "en": "a diving razorbill", "ja": "潜るオオハシウミガラス" },
+      { "en": "spot a razorbill", "ja": "オオハシウミガラスを見つける" },
+      { "en": "razorbill chicks", "ja": "オオハシウミガラスのひな" },
+      { "en": "a nesting razorbill", "ja": "巣を作るオオハシウミガラス" }
+    ],
+    "related": [
+      { "en": "auk", "ja": "ウミスズメ類・ウミガラス" },
+      { "en": "puffin", "ja": "ツノメドリ" },
+      { "en": "guillemot", "ja": "ウミガラス" },
+      { "en": "seabird", "ja": "海鳥" }
+    ],
+    "faq": [
+      { "q": "razorbill とはどんな意味？", "a": "北大西洋の断崖などで繁殖する、黒白で厚く平たいくちばしを持つ海鳥『オオハシウミガラス（レイザービル）』のことです。Razorbills nest on the sea cliffs.（海の断崖に巣を作る）のように使います。" },
+      { "q": "razorbill はペンギンの仲間？", "a": "いいえ、別の仲間です。見た目はペンギンに似ますが、razorbill は北半球のウミスズメ科の鳥で、飛ぶことができます。ペンギンは南半球にすみ、飛べません。" }
+    ],
+    "quiz": [
+      { "q": "___s nest on the sea cliffs in large colonies.（オオハシウミガラス）", "A": "Razorbill", "B": "Razorback の野生ブタ", "C": "Whippoorwill のヨタカ", "D": "Bluebell のツリガネソウ", "correct": "A" },
+      { "q": "razorbill は何と何を合わせた語？", "A": "razor（かみそり）と bill（くちばし）", "B": "razor と bell", "C": "raise と bill", "D": "razor と ball", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ranunculus",
+    "pron": "rəˈnʌŋkjʊləs",
+    "kana": "ラナンキュラス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 ranunculus（小さなカエル）、rana（カエル）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "植物・園芸"],
+    "meaning_main": "ラナンキュラス・キンポウゲ（幾重にも重なる花びらの花）",
+    "description": "ranunculus の意味・発音・例文・語源を解説。薄い花びらが幾重にも重なる華やかな花「ラナンキュラス（キンポウゲ属）」という、植物や園芸で使う語の使い方と、カエルにちなむ語源を紹介します。",
+    "keywords": ["ranunculus 意味", "ranunculus 発音", "ラナンキュラス", "キンポウゲ"],
+    "meanings": [
+      { "hinshi": "【名詞】ラナンキュラス・キンポウゲ属の植物", "note": "キンポウゲ科ラナンキュラス属の草花。園芸種は薄い花びらが幾重にも重なる、バラのように華やかな花をつける。切り花・花束で人気。複数形は ranunculuses / ranunculi。" }
+    ],
+    "usages": [
+      { "title": "① 「華やかな花」として", "desc": "重なる花びらの花を表します。", "example_en": "The bouquet was full of pink ranunculus.", "example_ja": "その花束はピンクのラナンキュラスでいっぱいだった。" },
+      { "title": "② 「球根から育てる」として", "desc": "園芸を表します。", "example_en": "She planted ranunculus bulbs in the fall.", "example_ja": "彼女は秋にラナンキュラスの球根を植えた。" }
+    ],
+    "warn": [
+      "ranunculus は『ラナンキュラス・キンポウゲ属の花』。薄い花びらが幾重にも重なるのが特徴。",
+      "属名はラテン語で『小さなカエル』。水辺・湿地を好む種が多く、カエルの生息地と重なることにちなむ。"
+    ],
+    "etym_note": "ラテン語 ranunculus（『小さなカエル』、rana「カエル」の指小形）に由来します。この属の多くが水辺・湿地に生え、カエルのすむ場所と重なることから名づけられました。",
+    "etym_chain": [
+      { "node": "rana", "sub": "カエル", "era": "ラテン語" },
+      { "node": "ranunculus", "sub": "小さなカエル", "era": "ラテン語" },
+      { "node": "ranunculus", "sub": "ラナンキュラス・キンポウゲ", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "pink ranunculus", "ja": "ピンクのラナンキュラス" },
+      { "en": "a bunch of ranunculus", "ja": "ひと束のラナンキュラス" },
+      { "en": "ranunculus bulbs", "ja": "ラナンキュラスの球根" },
+      { "en": "plant ranunculus", "ja": "ラナンキュラスを植える" },
+      { "en": "layered ranunculus petals", "ja": "重なったラナンキュラスの花びら" },
+      { "en": "a ranunculus flower", "ja": "ラナンキュラスの花" }
+    ],
+    "related": [
+      { "en": "buttercup", "ja": "キンポウゲ・バターカップ" },
+      { "en": "anemone", "ja": "アネモネ" },
+      { "en": "bulb", "ja": "球根" },
+      { "en": "bloom", "ja": "花・咲く" }
+    ],
+    "faq": [
+      { "q": "ranunculus とはどんな意味？", "a": "薄い花びらが幾重にも重なる、バラのように華やかな花をつけるキンポウゲ科の草花『ラナンキュラス』のことです。The bouquet was full of pink ranunculus.（花束はピンクのラナンキュラスでいっぱいだった）のように使います。" },
+      { "q": "ranunculus はなぜ『小さなカエル』の意味？", "a": "この属の多くが水辺・湿地に生え、カエルのすむ場所と重なることから、ラテン語で『小さなカエル（rana の指小形）』と名づけられました。" }
+    ],
+    "quiz": [
+      { "q": "The bouquet was full of pink ___.（ラナンキュラス）", "A": "ranunculus", "B": "cactus のサボテン", "C": "fungus の菌類", "D": "campus のキャンパス", "correct": "A" },
+      { "q": "ranunculus のもとのラテン語の意味はどれ？", "A": "小さなカエル", "B": "赤いバラ", "C": "黄金の冠", "D": "青い星", "correct": "A" }
+    ]
+  },
+  {
+    "english": "railcar",
+    "pron": "ˈreɪlkɑː",
+    "kana": "レイルカー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rail（線路）＋ car（車両）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "鉄道・交通"],
+    "meaning_main": "鉄道車両・（自走式の）レールカー",
+    "description": "railcar の意味・発音・例文・語源を解説。線路を走る車両、特にエンジンを積んで単独で走れる「自走式の鉄道車両（レールカー）」という、鉄道で使う語の使い方を紹介します。",
+    "keywords": ["railcar 意味", "railcar 発音", "鉄道車両", "レールカー"],
+    "meanings": [
+      { "hinshi": "【名詞】鉄道車両・（自走式の）レールカー", "note": "線路を走る車両。特に、機関車に牽引されず自らエンジン・モーターで走れる客車（自走式気動車・電車）を指すことが多い。貨車を含む個々の車両も railcar と呼ぶ。rail（線路）＋ car（車両）。" }
+    ],
+    "usages": [
+      { "title": "① 「自走式車両」として", "desc": "単独で走る車両を表します。", "example_en": "A single diesel railcar serves the branch line.", "example_ja": "1両のディーゼルレールカーがその支線を走っている。" },
+      { "title": "② 「貨車・車両」として", "desc": "個々の鉄道車両を表します。", "example_en": "Each railcar was loaded with grain.", "example_ja": "各車両には穀物が積まれていた。" }
+    ],
+    "warn": [
+      "railcar は『鉄道車両／（自走式の）レールカー』。rail（線路）＋ car（車両）。",
+      "特に『機関車に引かれず自らエンジンで走る客車（気動車・電車）』を指すことが多い。米国では貨車を含む個々の車両も指す。"
+    ],
+    "etym_note": "rail（『線路・レール』、ラテン語 regula「まっすぐな棒」より）＋ car（『車両』、ラテン語 carrus「四輪車」より）から成り、「線路を走る車両」を意味します。carriage（客車）や cargo（積荷）と同じ carrus の系統です。",
+    "etym_chain": [
+      { "node": "rail + car", "sub": "線路＋車両", "era": "英語" },
+      { "node": "railcar", "sub": "鉄道車両", "era": "近代英語" },
+      { "node": "railcar", "sub": "自走式レールカー", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a diesel railcar", "ja": "ディーゼルレールカー" },
+      { "en": "a single railcar", "ja": "1両の車両" },
+      { "en": "a freight railcar", "ja": "貨車" },
+      { "en": "load the railcar", "ja": "車両に積み込む" },
+      { "en": "a self-propelled railcar", "ja": "自走式の車両" },
+      { "en": "couple the railcars", "ja": "車両を連結する" }
+    ],
+    "related": [
+      { "en": "carriage", "ja": "客車" },
+      { "en": "locomotive", "ja": "機関車" },
+      { "en": "wagon", "ja": "貨車" },
+      { "en": "multiple unit", "ja": "電車・気動車（編成）" }
+    ],
+    "faq": [
+      { "q": "railcar とはどんな意味？", "a": "線路を走る車両、特にエンジン・モーターを積んで機関車に引かれず単独で走れる『自走式の鉄道車両（レールカー）』のことです。A single diesel railcar serves the branch line.（1両のディーゼルレールカーが支線を走る）のように使います。" },
+      { "q": "railcar と carriage の違いは？", "a": "carriage は『（機関車に引かれる）客車』を指すことが多いのに対し、railcar は『自らエンジンで走れる車両』を指すことが多いです。米国では貨車を含む個々の車両も railcar と呼びます。" }
+    ],
+    "quiz": [
+      { "q": "A single diesel ___ serves the branch line.（レールカー）", "A": "railcar", "B": "sidecar のサイドカー", "C": "streetcar の路面電車", "D": "sports car のスポーツカー", "correct": "A" },
+      { "q": "railcar は何と何を合わせた語？", "A": "rail（線路）と car（車両）", "B": "rain と car", "C": "rail と care", "D": "real と car", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rennin",
+    "pron": "ˈrɛnɪn",
+    "kana": "レンニン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rennet（凝乳酵素）＋ -in",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "生化学・食品"],
+    "meaning_main": "レンニン（乳を固める消化酵素・キモシン）",
+    "description": "rennin の意味・発音・例文・語源を解説。乳を固める（凝乳させる）消化酵素「レンニン（キモシン）」という、生化学や食品（チーズ作り）で使う語の使い方を紹介します。",
+    "keywords": ["rennin 意味", "rennin 発音", "レンニン", "凝乳酵素"],
+    "meanings": [
+      { "hinshi": "【名詞】レンニン（キモシン）", "note": "乳を固める（凝乳させる）消化酵素。子牛など幼い哺乳類の胃で作られ、母乳のタンパク質を固めて消化を助ける。チーズ作りに使う rennet（凝乳酵素剤）の主成分。現在は chymosin（キモシン）とも呼ぶ。" }
+    ],
+    "usages": [
+      { "title": "① 「乳を固める酵素」として", "desc": "凝乳作用を表します。", "example_en": "Rennin curdles milk into solid curds.", "example_ja": "レンニンは乳を固めて凝乳にする。" },
+      { "title": "② チーズ作りとして", "desc": "食品への利用を表します。", "example_en": "Cheesemakers use rennet, which contains rennin.", "example_ja": "チーズ職人はレンニンを含む凝乳酵素剤を使う。" }
+    ],
+    "warn": [
+      "rennin は『レンニン（乳を固める消化酵素・キモシン）』。凝乳酵素剤 rennet の主成分。",
+      "腎臓のホルモン renin（レニン、血圧調節）とは綴りも働きも別なので混同に注意。"
+    ],
+    "etym_note": "rennet（『凝乳酵素（剤）』、run「（乳が）固まる・流れる」に由来する古英語系の語）＋ -in（物質を表す語尾）から成り、「乳を固める物質」を意味します。",
+    "etym_chain": [
+      { "node": "rennet", "sub": "凝乳酵素剤", "era": "中英語" },
+      { "node": "rennin", "sub": "凝乳酵素", "era": "近代英語" },
+      { "node": "chymosin", "sub": "キモシン（現名）", "era": "現代生化学" }
+    ],
+    "phrases": [
+      { "en": "rennin curdles milk", "ja": "レンニンが乳を固める" },
+      { "en": "the action of rennin", "ja": "レンニンの働き" },
+      { "en": "rennin in the stomach", "ja": "胃の中のレンニン" },
+      { "en": "rennin and rennet", "ja": "レンニンと凝乳酵素剤" },
+      { "en": "the enzyme rennin", "ja": "酵素レンニン" },
+      { "en": "rennin activity", "ja": "レンニンの活性" }
+    ],
+    "related": [
+      { "en": "rennet", "ja": "凝乳酵素剤・レンネット" },
+      { "en": "enzyme", "ja": "酵素" },
+      { "en": "curd", "ja": "凝乳・カード" },
+      { "en": "chymosin", "ja": "キモシン" }
+    ],
+    "faq": [
+      { "q": "rennin とはどんな意味？", "a": "乳を固める（凝乳させる）消化酵素『レンニン（キモシン）』のことです。子牛などの胃で作られ、チーズ作りに使う凝乳酵素剤（rennet）の主成分です。Rennin curdles milk into solid curds.（レンニンは乳を固めて凝乳にする）のように使います。" },
+      { "q": "rennin と renin は同じ？", "a": "いいえ、別物です。rennin（レンニン）は乳を固める消化酵素、renin（レニン）は腎臓が出す血圧調節ホルモンです。綴りも働きも異なるので注意が必要です。" }
+    ],
+    "quiz": [
+      { "q": "___ curdles milk into solid curds.（レンニン）", "A": "Rennin", "B": "Vitamin のビタミン", "C": "Aspirin のアスピリン", "D": "Gelatin のゼラチン", "correct": "A" },
+      { "q": "rennin を含みチーズ作りに使うものはどれ？", "A": "rennet（凝乳酵素剤）", "B": "yeast（酵母）", "C": "sugar（砂糖）", "D": "salt（塩）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "raffish",
+    "pron": "ˈræfɪʃ",
+    "kana": "ラフィッシュ",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "raff（くず・寄せ集め、riffraff の raff）＋ -ish",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "文学・描写"],
+    "meaning_main": "だらしないが粋な・無頼だが魅力的な",
+    "description": "raffish の意味・発音・例文・語源を解説。少しだらしなく品行はよくないが、どこか粋で魅力的な「無頼だが魅力的な・崩れた色気のある」という、描写的に使う語の使い方を紹介します。",
+    "keywords": ["raffish 意味", "raffish 発音", "無頼だが粋な", "崩れた魅力"],
+    "meanings": [
+      { "hinshi": "【形容詞】だらしないが粋な・無頼だが魅力的な", "note": "身なりや行いがきちんとしていない・品行がよくないが、どこか型破りで粋・魅力的な。a raffish charm（崩れた色気・型破りな魅力）。ほめ言葉にもなる。" }
+    ],
+    "usages": [
+      { "title": "① 「無頼だが魅力的な」として", "desc": "崩れた色気を表します。", "example_en": "He had a raffish charm that women found irresistible.", "example_ja": "彼には女性が抗えない、型破りな魅力があった。" },
+      { "title": "② 「粋でくだけた雰囲気」として", "desc": "洒脱な崩れを表します。", "example_en": "The bar had a raffish, bohemian atmosphere.", "example_ja": "そのバーには粋で放埒な、ボヘミアンな雰囲気があった。" }
+    ],
+    "warn": [
+      "raffish は『だらしないが粋な・無頼だが魅力的な』。批判というより『崩れた色気・型破りな魅力』としてほめ言葉にもなる。",
+      "riffraff（くず・下層民）の raff（くず・寄せ集め）＋ -ish に由来する。"
+    ],
+    "etym_note": "raff（『くず・寄せ集め・下層』、riffraff「くず・やくざ者」の raff より）＋ -ish（形容詞語尾）から成り、「くずっぽい→無頼な→（それでいて）粋な」という意味に発展しました。",
+    "etym_chain": [
+      { "node": "raff", "sub": "くず・寄せ集め", "era": "中英語" },
+      { "node": "raffish", "sub": "無頼な・だらしない", "era": "近代英語" },
+      { "node": "raffish", "sub": "無頼だが粋な・魅力的な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a raffish charm", "ja": "崩れた色気・型破りな魅力" },
+      { "en": "a raffish air", "ja": "無頼だが粋な雰囲気" },
+      { "en": "raffish good looks", "ja": "崩れた色男ぶり" },
+      { "en": "a raffish grin", "ja": "不敵で粋な笑み" },
+      { "en": "a raffish hat", "ja": "粋にくずした帽子" },
+      { "en": "a raffish reputation", "ja": "無頼な評判" }
+    ],
+    "related": [
+      { "en": "rakish", "ja": "放埒だが粋な・伊達な" },
+      { "en": "roguish", "ja": "いたずらな・無頼の" },
+      { "en": "bohemian", "ja": "ボヘミアンな・自由奔放な" },
+      { "en": "dapper", "ja": "こぎれいな・小粋な" }
+    ],
+    "faq": [
+      { "q": "raffish とはどんな意味？", "a": "身なりや行いがきちんとしていない・品行がよくないが、どこか型破りで粋・魅力的な『無頼だが魅力的な・崩れた色気のある』という意味の形容詞です。He had a raffish charm.（型破りな魅力があった）のように、しばしばほめ言葉として使います。" },
+      { "q": "raffish と rakish の違いは？", "a": "意味は近く、どちらも『放埒だが粋な』です。rakish は『（伊達で）颯爽とした・粋な』、raffish は『（少しだらしない・下層的な崩れを含む）無頼な粋さ』にやや重点があります。" }
+    ],
+    "quiz": [
+      { "q": "He had a ___ charm that women found irresistible.（無頼だが魅力的な）", "A": "raffish", "B": "selfish の利己的な", "C": "foolish の愚かな", "D": "childish の子どもっぽい", "correct": "A" },
+      { "q": "raffish と意味が近いのはどれ？", "A": "rakish（放埒だが粋な）", "B": "polite（礼儀正しい）", "C": "diligent（勤勉な）", "D": "modest（控えめな）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rakehell",
+    "pron": "ˈreɪkhɛl",
+    "kana": "レイクヘル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rake（放蕩者）＋ hell（地獄）／中英語 rakel（無謀な）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "文学・古風"],
+    "meaning_main": "放蕩者・道楽者・遊蕩児",
+    "description": "rakehell の意味・発音・例文・語源を解説。酒や女遊びにふける「放蕩者・道楽者・遊蕩児」という、文学的・古風な語の使い方を紹介します。rake との関係も解説。",
+    "keywords": ["rakehell 意味", "rakehell 発音", "放蕩者", "道楽者"],
+    "meanings": [
+      { "hinshi": "【名詞】放蕩者・道楽者・遊蕩児", "note": "酒・賭博・女遊びなどにふける品行のよくない男。古風・文語で、しばしば貴族の道楽者を指す。短く rake ともいう。形容詞 rakish（放埒だが粋な）と関連。" }
+    ],
+    "usages": [
+      { "title": "① 「道楽者」として", "desc": "放蕩する男を表します。", "example_en": "The young lord was a notorious rakehell.", "example_ja": "その若い貴族は名うての放蕩者だった。" },
+      { "title": "② 「遊蕩児」として", "desc": "品行のよくない人物を表します。", "example_en": "He spent his fortune living the life of a rakehell.", "example_ja": "彼は放蕩三昧の暮らしで財産を使い果たした。" }
+    ],
+    "warn": [
+      "rakehell は『放蕩者・道楽者・遊蕩児』。短く rake ともいう。古風・文語。",
+      "中英語 rakel（無謀な・軽率な）に由来し、rake（放蕩者）＋ hell（地獄）と再解釈された語。"
+    ],
+    "etym_note": "中英語 rakel（『無謀な・軽率な』）に由来し、のちに rake（放蕩者）＋ hell（地獄）と結びつけて再解釈されました。『地獄をかき集めても見つからないほどの悪党（rake hell）』という民間語源的な連想もあります。",
+    "etym_chain": [
+      { "node": "rakel", "sub": "無謀な・軽率な", "era": "中英語" },
+      { "node": "rakehell", "sub": "放蕩者", "era": "近代英語" },
+      { "node": "rake", "sub": "放蕩者（短縮）", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a notorious rakehell", "ja": "名うての放蕩者" },
+      { "en": "a young rakehell", "ja": "若い道楽者" },
+      { "en": "the life of a rakehell", "ja": "放蕩三昧の暮らし" },
+      { "en": "a reformed rakehell", "ja": "改心した放蕩者" },
+      { "en": "a rakehell nobleman", "ja": "放蕩貴族" },
+      { "en": "an old rakehell", "ja": "年老いた遊蕩児" }
+    ],
+    "related": [
+      { "en": "rake", "ja": "放蕩者・道楽者" },
+      { "en": "libertine", "ja": "放蕩者・自由思想家" },
+      { "en": "profligate", "ja": "放蕩者・浪費家" },
+      { "en": "rakish", "ja": "放埒だが粋な" }
+    ],
+    "faq": [
+      { "q": "rakehell とはどんな意味？", "a": "酒・賭博・女遊びなどにふける品行のよくない男『放蕩者・道楽者・遊蕩児』のことです。The young lord was a notorious rakehell.（その若い貴族は名うての放蕩者だった）のように、古風・文語的に使います。短く rake ともいいます。" },
+      { "q": "rakehell と rake の関係は？", "a": "rakehell を短くしたのが rake（放蕩者）です。どちらも『（貴族などの）道楽者・遊蕩児』を指し、形容詞 rakish（放埒だが粋な）と関連します。" }
+    ],
+    "quiz": [
+      { "q": "The young lord was a notorious ___.（放蕩者）", "A": "rakehell", "B": "eggshell の卵の殻", "C": "nutshell の木の実の殻", "D": "seashell の貝殻", "correct": "A" },
+      { "q": "rakehell を短くした語はどれ？", "A": "rake（放蕩者）", "B": "hell（地獄）だけ", "C": "lake（湖）", "D": "rack（棚）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rusticity",
+    "pron": "rʌˈstɪsɪti",
+    "kana": "ラスティシティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rustic（田舎の・素朴な）＋ -ity（性質）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "文学・描写"],
+    "meaning_main": "素朴さ・田舎びた趣・野暮ったさ",
+    "description": "rusticity の意味・発音・例文・語源を解説。田舎らしい「素朴さ・田舎びた趣」、また「野暮ったさ・粗野さ」という、文学や描写で使う語の使い方を紹介します。形容詞 rustic も解説。",
+    "keywords": ["rusticity 意味", "rusticity 発音", "素朴さ", "rustic 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】素朴さ・田舎びた趣", "note": "田舎らしい飾り気のなさ・素朴な魅力。the rusticity of the cottage（田舎家の素朴な趣）。" },
+      { "hinshi": "【名詞】野暮ったさ・粗野さ", "note": "洗練されていないこと・田舎じみた無作法。形容詞は rustic。" }
+    ],
+    "usages": [
+      { "title": "① 「素朴な趣」として", "desc": "田舎びた魅力を表します。", "example_en": "The inn's charm lay in its rusticity.", "example_ja": "その宿の魅力は素朴な趣にあった。" },
+      { "title": "② 「野暮ったさ」として", "desc": "洗練のなさを表します。", "example_en": "His manners betrayed a certain rusticity.", "example_ja": "彼の物腰にはどこか野暮ったさがにじんでいた。" }
+    ],
+    "warn": [
+      "rusticity は『素朴さ・田舎びた趣／野暮ったさ・粗野さ』。rustic（田舎の・素朴な）＋ -ity。",
+      "『（好ましい）素朴な魅力』にも、『（洗練されていない）野暮ったさ』にも使う。文脈で判断。"
+    ],
+    "etym_note": "rustic（『田舎の・素朴な』、ラテン語 rusticus「田舎の」、rus「田舎・野」より）＋ -ity（『性質・状態』）から成り、「田舎らしさ」を意味します。rural（田舎の）や rusticate（田舎で暮らす）と同じ rus の系統です。",
+    "etym_chain": [
+      { "node": "rus", "sub": "田舎・野", "era": "ラテン語" },
+      { "node": "rustic", "sub": "田舎の・素朴な", "era": "中英語" },
+      { "node": "rusticity", "sub": "素朴さ・田舎びた趣", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the rusticity of the cottage", "ja": "田舎家の素朴な趣" },
+      { "en": "rustic charm and rusticity", "ja": "素朴な魅力とその趣" },
+      { "en": "a certain rusticity", "ja": "どこか田舎びた趣" },
+      { "en": "the rusticity of the setting", "ja": "その舞台の素朴さ" },
+      { "en": "betray one's rusticity", "ja": "野暮ったさをにじませる" },
+      { "en": "charming rusticity", "ja": "魅力的な素朴さ" }
+    ],
+    "related": [
+      { "en": "rustic", "ja": "田舎の・素朴な" },
+      { "en": "simplicity", "ja": "簡素さ・素朴さ" },
+      { "en": "provincialism", "ja": "地方くささ・偏狭さ" },
+      { "en": "rural", "ja": "田舎の" }
+    ],
+    "faq": [
+      { "q": "rusticity とはどんな意味？", "a": "田舎らしい『素朴さ・田舎びた趣』、また『野暮ったさ・粗野さ』という意味です。The inn's charm lay in its rusticity.（宿の魅力は素朴な趣にあった）のように使います。形容詞は rustic です。" },
+      { "q": "rusticity は良い意味？悪い意味？", "a": "両方あります。『（好ましい）飾り気のない素朴な魅力』にも、『（洗練されていない）田舎じみた野暮ったさ』にも使え、文脈で意味が決まります。" }
+    ],
+    "quiz": [
+      { "q": "The inn's charm lay in its ___.（素朴さ）", "A": "rusticity", "B": "electricity の電気", "C": "publicity の宣伝", "D": "elasticity の弾力", "correct": "A" },
+      { "q": "rusticity のもとになった形容詞はどれ？", "A": "rustic（田舎の・素朴な）", "B": "elastic（弾力のある）", "C": "public（公の）", "D": "electric（電気の）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rushlight",
+    "pron": "ˈrʌʃlaɪt",
+    "kana": "ラッシュライト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rush（イグサ・灯心草）＋ light（明かり）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "歴史・生活"],
+    "meaning_main": "灯心草ろうそく（イグサの芯を油脂に浸した昔の灯り）",
+    "description": "rushlight の意味・発音・例文・語源を解説。イグサ（灯心草）の芯を油脂に浸して作った、昔の質素な灯り「灯心草ろうそく（ラッシュライト）」という、歴史や生活で使う語の使い方を紹介します。",
+    "keywords": ["rushlight 意味", "rushlight 発音", "灯心草ろうそく", "昔の灯り"],
+    "meanings": [
+      { "hinshi": "【名詞】灯心草ろうそく・イグサの灯り", "note": "イグサ（灯心草＝rush）の茎の芯を、獣脂などの油脂に浸してともした、昔の安価な照明。ろうそくが高価だった時代に貧しい家庭で使われた。ほのかで頼りない明かりの象徴。" }
+    ],
+    "usages": [
+      { "title": "① 「昔の灯り」として", "desc": "質素な照明を表します。", "example_en": "The cottage was lit by a single rushlight.", "example_ja": "その田舎家は一本の灯心草ろうそくで照らされていた。" },
+      { "title": "② 「かすかな光」として", "desc": "頼りない明かりを表します。", "example_en": "They read by the dim glow of a rushlight.", "example_ja": "彼らは灯心草ろうそくのほのかな光で本を読んだ。" }
+    ],
+    "warn": [
+      "rushlight は『灯心草ろうそく（イグサの芯を油脂に浸した昔の灯り）』。rush（イグサ）＋ light（明かり）。",
+      "ここでの rush は『急ぐ』ではなく植物の『イグサ・灯心草』。ろうそくが買えない貧しい家庭の照明だった。"
+    ],
+    "etym_note": "rush（『イグサ・灯心草』、古英語 rysc より。植物名）＋ light（『明かり・光』、古英語 lēoht より）から成り、「イグサの芯でともす灯り」を意味します。動詞 rush（急ぐ）とは別語源です。",
+    "etym_chain": [
+      { "node": "rysc + lēoht", "sub": "イグサ＋明かり", "era": "古英語" },
+      { "node": "rushlight", "sub": "灯心草の灯り", "era": "中英語" },
+      { "node": "rushlight", "sub": "灯心草ろうそく", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "a single rushlight", "ja": "一本の灯心草ろうそく" },
+      { "en": "by the light of a rushlight", "ja": "灯心草ろうそくの明かりで" },
+      { "en": "a flickering rushlight", "ja": "揺れる灯心草ろうそく" },
+      { "en": "a dim rushlight", "ja": "ほのかな灯心草ろうそく" },
+      { "en": "light a rushlight", "ja": "灯心草ろうそくをともす" },
+      { "en": "the glow of a rushlight", "ja": "灯心草ろうそくの光" }
+    ],
+    "related": [
+      { "en": "rush", "ja": "イグサ・灯心草" },
+      { "en": "candle", "ja": "ろうそく" },
+      { "en": "tallow", "ja": "獣脂" },
+      { "en": "lantern", "ja": "ランタン・角灯" }
+    ],
+    "faq": [
+      { "q": "rushlight とはどんな意味？", "a": "イグサ（灯心草）の茎の芯を獣脂などの油脂に浸してともした、昔の安価な照明『灯心草ろうそく』のことです。The cottage was lit by a single rushlight.（田舎家は一本の灯心草ろうそくで照らされていた）のように使います。" },
+      { "q": "rushlight の rush はどんな意味？", "a": "『急ぐ』ではなく、植物の『イグサ・灯心草』の意味です。この草の茎の芯を油脂に浸して灯りにしたことから rushlight と呼ばれます。" }
+    ],
+    "quiz": [
+      { "q": "The cottage was lit by a single ___.（灯心草ろうそく）", "A": "rushlight", "B": "flashlight の懐中電灯", "C": "spotlight のスポットライト", "D": "moonlight の月光", "correct": "A" },
+      { "q": "rushlight の rush はどんな意味？", "A": "イグサ・灯心草（植物）", "B": "急ぐ", "C": "水の流れ", "D": "赤面する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "radicel",
+    "pron": "ˈrædɪsɛl",
+    "kana": "ラディセル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 radicella（小さな根）、radix（根）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C2", "植物・専門"],
+    "meaning_main": "小根・細根（根の細かい枝）",
+    "description": "radicel の意味・発音・例文・語源を解説。主根から分かれ出る細い根「小根・細根（ラディセル）」という、植物学で使う語の使い方と、radicle（幼根）との違いを紹介します。",
+    "keywords": ["radicel 意味", "radicel 発音", "小根", "細根"],
+    "meanings": [
+      { "hinshi": "【名詞】小根・細根", "note": "根から分かれ出る、ごく細い根の枝（rootlet）。水や養分を吸収する働きを持つ。植物学の用語。ラテン語 radix（根）の指小形に由来。" }
+    ],
+    "usages": [
+      { "title": "① 「細い根の枝」として", "desc": "根の分枝を表します。", "example_en": "Tiny radicels spread through the soil to absorb water.", "example_ja": "細い小根が水を吸うため土の中に広がる。" },
+      { "title": "② 「根系の細部」として", "desc": "根の細部を表します。", "example_en": "The radicels form a dense network near the surface.", "example_ja": "小根は地表近くに密な網を作る。" }
+    ],
+    "warn": [
+      "radicel は『小根・細根（根の細かい枝＝rootlet）』。ラテン語 radix（根）の指小形。",
+      "発芽時に最初に出る『幼根』を指す radicle（ラディクル）とは別語なので混同に注意。"
+    ],
+    "etym_note": "ラテン語 radicella（『小さな根』、radix「根」の指小形）に由来します。radish（ダイコン）、radical（根本的な）、radicle（幼根）と同じ radix の系統です。",
+    "etym_chain": [
+      { "node": "radix", "sub": "根", "era": "ラテン語" },
+      { "node": "radicella", "sub": "小さな根", "era": "ラテン語" },
+      { "node": "radicel", "sub": "小根・細根", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "tiny radicels", "ja": "細い小根" },
+      { "en": "a network of radicels", "ja": "小根の網" },
+      { "en": "absorb water through radicels", "ja": "小根から水を吸う" },
+      { "en": "fine radicels", "ja": "細かい根" },
+      { "en": "the radicels of the plant", "ja": "植物の小根" },
+      { "en": "radicels near the surface", "ja": "地表近くの小根" }
+    ],
+    "related": [
+      { "en": "rootlet", "ja": "小根・細根" },
+      { "en": "radicle", "ja": "幼根" },
+      { "en": "root", "ja": "根" },
+      { "en": "root hair", "ja": "根毛" }
+    ],
+    "faq": [
+      { "q": "radicel とはどんな意味？", "a": "主根や根から分かれ出る、ごく細い根の枝『小根・細根（rootlet）』のことです。水や養分の吸収を担います。Tiny radicels spread through the soil.（細い小根が土の中に広がる）のように使います。" },
+      { "q": "radicel と radicle の違いは？", "a": "radicel は『（根から分かれる）小さな細根』、radicle は『（発芽時に最初に出る）幼根』です。どちらもラテン語 radix（根）由来ですが、指すものが異なります。" }
+    ],
+    "quiz": [
+      { "q": "Tiny ___s spread through the soil to absorb water.（小根）", "A": "radicel", "B": "parcel の小包", "C": "cancel の取り消し", "D": "vessel の船・血管", "correct": "A" },
+      { "q": "radicel と混同しやすい『幼根』を指す語はどれ？", "A": "radicle（幼根）", "B": "radical（急進的な）", "C": "radish（ダイコン）", "D": "radius（半径）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ragman",
+    "pron": "ˈræɡmæn",
+    "kana": "ラグマン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rag（ぼろ切れ）＋ man（人）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "職業・歴史"],
+    "meaning_main": "くず屋・ぼろ買い（古着やくず鉄を買い集める人）",
+    "description": "ragman の意味・発音・例文・語源を解説。ぼろ布や古着、くず鉄などを買い集めて回った「くず屋・ぼろ買い（ラグマン）」という、職業や歴史で使う語の使い方を紹介します。",
+    "keywords": ["ragman 意味", "ragman 発音", "くず屋", "ぼろ買い"],
+    "meanings": [
+      { "hinshi": "【名詞】くず屋・ぼろ買い", "note": "ぼろ布・古着・くず鉄・廃品などを町を回って買い集め、転売した行商人。かつての都市でおなじみの職業。rag-and-bone man（ぼろ・骨買い）とも呼ばれた。rag（ぼろ）＋ man。複数形は ragmen。" }
+    ],
+    "usages": [
+      { "title": "① 「廃品を買い集める人」として", "desc": "行商のくず屋を表します。", "example_en": "The ragman came down the street with his cart.", "example_ja": "くず屋が荷車を引いて通りをやって来た。" },
+      { "title": "② 「昔の風景」として", "desc": "かつての職業を表します。", "example_en": "In those days, the ragman collected old clothes for pennies.", "example_ja": "当時、くず屋は古着をわずかな金で集めた。" }
+    ],
+    "warn": [
+      "ragman は『くず屋・ぼろ買い（古着やくず鉄を買い集める行商人）』。rag（ぼろ）＋ man。複数形は ragmen。",
+      "rag-and-bone man（ぼろ・骨買い）とも呼ばれた歴史的な職業。現代では scrap dealer（廃品業者）など。"
+    ],
+    "etym_note": "rag（『ぼろ切れ・古布』、古ノルド語 rögg「毛羽」より）＋ man（『人』）から成り、「ぼろを扱う人」を意味します。ragged（ぼろぼろの）と同じ rag の系統です。",
+    "etym_chain": [
+      { "node": "rag + man", "sub": "ぼろ＋人", "era": "英語" },
+      { "node": "ragman", "sub": "くず屋", "era": "中英語" },
+      { "node": "ragman", "sub": "くず屋・ぼろ買い", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the ragman's cart", "ja": "くず屋の荷車" },
+      { "en": "call the ragman", "ja": "くず屋を呼ぶ" },
+      { "en": "the ragman came by", "ja": "くず屋が通りかかった" },
+      { "en": "sell rags to the ragman", "ja": "くず屋にぼろを売る" },
+      { "en": "an old ragman", "ja": "年老いたくず屋" },
+      { "en": "a ragman's horn", "ja": "くず屋のラッパ" }
+    ],
+    "related": [
+      { "en": "rag-and-bone man", "ja": "ぼろ・骨買い・くず屋" },
+      { "en": "scrap dealer", "ja": "廃品業者・くず鉄業者" },
+      { "en": "junkman", "ja": "がらくた買い・くず屋" },
+      { "en": "peddler", "ja": "行商人" }
+    ],
+    "faq": [
+      { "q": "ragman とはどんな意味？", "a": "ぼろ布・古着・くず鉄などを町を回って買い集めた行商人『くず屋・ぼろ買い』のことです。The ragman came down the street with his cart.（くず屋が荷車を引いてやって来た）のように使います。rag-and-bone man とも呼ばれました。" },
+      { "q": "現代では ragman を何と呼ぶ？", "a": "現代では scrap dealer（廃品・くず鉄業者）や recycler（リサイクル業者）などに当たります。ragman は主に歴史的・古風な職業名として使われます。" }
+    ],
+    "quiz": [
+      { "q": "The ___ came down the street with his cart.（くず屋）", "A": "ragman", "B": "chairman の議長", "C": "postman の郵便配達人", "D": "milkman の牛乳配達人", "correct": "A" },
+      { "q": "ragman は何と何を合わせた語？", "A": "rag（ぼろ）と man（人）", "B": "rage と man", "C": "rag と main", "D": "rug と man", "correct": "A" }
+    ]
+  }
+]

@@ -1,0 +1,508 @@
+[
+  {
+    "english": "jaguar",
+    "pron": "ˈdʒæɡwɑːr",
+    "kana": "ジャギュアー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "先住民語 yaguar（大型ネコ科)",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "動物"],
+    "meaning_main": "ジャガー（中南米の大型のネコ科動物）",
+    "description": "jaguar は「ジャガー」を表す名詞。中南米の熱帯雨林などにすむ大型のネコ科動物で、黄色い体に黒い斑点（ロゼット模様）があります。ネコ科では大きく力強く、泳ぎも得意な優れたハンターです。",
+    "keywords": ["jaguar 意味", "jaguar 発音", "jaguar ジャガー", "jaguar ネコ科", "jaguar 例文"],
+    "meanings": [
+      { "hinshi": "【名】ジャガー", "note": "中南米にすむ斑点模様の大型ネコ科動物。" }
+    ],
+    "usages": [
+      { "title": "① ジャガー（動物）", "desc": "大型のネコ科。", "example_en": "The jaguar hunts in the rainforest.", "example_ja": "ジャガーは熱帯雨林で狩りをする。" },
+      { "title": "② 斑点模様", "desc": "ロゼット模様が特徴。", "example_en": "A jaguar has black spots on its fur.", "example_ja": "ジャガーは毛に黒い斑点がある。" },
+      { "title": "③ 泳ぎが得意", "desc": "水も苦にしない。", "example_en": "Jaguars are good swimmers.", "example_ja": "ジャガーは泳ぎが得意だ。" }
+    ],
+    "warn": ["発音は /ˈdʒæɡwɑːr/。leopard（ヒョウ）と似るがジャガーは中南米、より頑丈。", "自動車ブランドの名でもあるが、もとは動物名。"],
+    "etym_note": "南米の先住民トゥピ・グアラニ語 yaguar（獲物を一跳びで仕留める獣）に由来するとされます。ポルトガル語・スペイン語を経て英語に入りました。",
+    "etym_chain": [
+      { "node": "yaguar", "sub": "大型ネコ科", "era": "トゥピ語" },
+      { "node": "jaguar", "sub": "ジャガー", "era": "17世紀英語" },
+      { "node": "jaguar", "sub": "ジャガー", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a spotted jaguar", "ja": "斑点のあるジャガー" },
+      { "en": "a jaguar in the jungle", "ja": "ジャングルのジャガー" },
+      { "en": "a powerful jaguar", "ja": "力強いジャガー" },
+      { "en": "the roar of a jaguar", "ja": "ジャガーのうなり声" },
+      { "en": "a hunting jaguar", "ja": "狩りをするジャガー" },
+      { "en": "spot a jaguar", "ja": "ジャガーを見つける" }
+    ],
+    "related": [
+      { "en": "leopard", "ja": "ヒョウ" },
+      { "en": "tiger", "ja": "トラ" },
+      { "en": "cat", "ja": "ネコ" },
+      { "en": "rainforest", "ja": "熱帯雨林" }
+    ],
+    "faq": [
+      { "q": "jaguar と leopard の違いは？", "a": "どちらも斑点模様の大型ネコ科ですが、jaguar は中南米にすみ、より頑丈でかみつく力が強いです。leopard（ヒョウ）はアフリカ・アジアにすみます。" },
+      { "q": "jaguar は泳げますか？", "a": "はい。ジャガーは水を嫌わず、泳ぎが得意なネコ科動物です。川で魚やカメを捕まえることもあります。" }
+    ],
+    "quiz": [
+      { "q": "The ___ is a large spotted cat from Central and South America.（ジャガーは中南米の斑点のある大型のネコ科動物だ）", "A": "jaguar", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jaguar が生息するのはどこ？", "A": "中南米", "B": "北極", "C": "砂漠だけ", "D": "南極", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jade",
+    "pron": "dʒeɪd",
+    "kana": "ジェイド",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "スペイン語 piedra de ijada（脇腹の石)",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "宝石・色"],
+    "meaning_main": "ひすい（翡翠）／緑色の宝石／ひすい色",
+    "description": "jade は「ひすい（翡翠）」を表す名詞。緑色を中心とした美しい半貴石で、装飾品や彫刻に使われます。特に東アジアで珍重されてきました。その色にちなんで「ひすい色（青みがかった緑）」も表します。",
+    "keywords": ["jade 意味", "jade 発音", "jade ひすい 翡翠", "jade 緑色", "jade 例文"],
+    "meanings": [
+      { "hinshi": "【名】ひすい（翡翠）", "note": "緑色を中心とした美しい半貴石。" },
+      { "hinshi": "【名】ひすい色", "note": "青みがかった緑色。" }
+    ],
+    "usages": [
+      { "title": "① ひすい（宝石）", "desc": "緑色の半貴石。", "example_en": "The necklace was made of jade.", "example_ja": "そのネックレスはひすいでできていた。" },
+      { "title": "② ひすいの彫刻", "desc": "装飾・工芸品。", "example_en": "The museum has ancient jade carvings.", "example_ja": "その博物館には古代のひすいの彫刻がある。" },
+      { "title": "③ ひすい色（色）", "desc": "青みがかった緑。", "example_en": "She wore a jade-green dress.", "example_ja": "彼女はひすい色のドレスを着ていた。" }
+    ],
+    "warn": ["発音は /dʒeɪd/。特に東アジアで珍重される緑色の宝石。", "色の意味では jade-green（ひすい色の緑）とも言う。"],
+    "etym_note": "スペイン語 piedra de ijada（脇腹の石）に由来します。かつてこの石が脇腹・腎臓の病に効くと信じられたことにちなみ、フランス語を経て英語に入りました。",
+    "etym_chain": [
+      { "node": "piedra de ijada", "sub": "脇腹の石", "era": "スペイン語" },
+      { "node": "jade", "sub": "ひすい", "era": "17世紀英語" },
+      { "node": "jade", "sub": "ひすい・ひすい色", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a jade necklace", "ja": "ひすいのネックレス" },
+      { "en": "green jade", "ja": "緑のひすい" },
+      { "en": "jade-green", "ja": "ひすい色の" },
+      { "en": "a jade carving", "ja": "ひすいの彫刻" },
+      { "en": "a jade ring", "ja": "ひすいの指輪" },
+      { "en": "precious jade", "ja": "貴重なひすい" }
+    ],
+    "related": [
+      { "en": "gem", "ja": "宝石" },
+      { "en": "green", "ja": "緑" },
+      { "en": "stone", "ja": "石" },
+      { "en": "jewel", "ja": "宝石" }
+    ],
+    "faq": [
+      { "q": "jade とは何ですか？", "a": "緑色を中心とした美しい半貴石「ひすい（翡翠）」です。装飾品や彫刻に使われ、特に東アジアで珍重されてきました。その色から「ひすい色」も表します。" },
+      { "q": "jade の語源は？", "a": "スペイン語 piedra de ijada（脇腹の石）に由来します。この石が腎臓や脇腹の病に効くと信じられたことにちなみます。" }
+    ],
+    "quiz": [
+      { "q": "The emperor's seal was carved from green ___.（皇帝の印章は緑のひすいで彫られていた）", "A": "jade", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jade は主に何色の宝石？", "A": "緑", "B": "赤", "C": "青", "D": "黒", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jerk",
+    "pron": "dʒɜːrk",
+    "kana": "ジャーク",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "擬音的な語 jerk（急に動かす)",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "動作・口語"],
+    "meaning_main": "急に引く／ぐいと動かす／(口語)嫌なやつ",
+    "description": "jerk は「急に引く・ぐいと動かす」を表す動詞。すばやく力を入れて引いたり動かしたりすることを指します。名詞では「急な動き」、また口語で「嫌なやつ・ばか」という悪口の意味でも使われます。",
+    "keywords": ["jerk 意味", "jerk 発音", "jerk 急に引く", "jerk 嫌なやつ", "jerk 例文"],
+    "meanings": [
+      { "hinshi": "【動】急に引く・ぐいと動かす", "note": "すばやく力を入れて動かす。" },
+      { "hinshi": "【名】急な動き・ぐいと引くこと", "note": "1回の急な動作。" },
+      { "hinshi": "【名】(口語)嫌なやつ・ばか", "note": "不快な人への悪口。" }
+    ],
+    "usages": [
+      { "title": "① 急に引く（動詞）", "desc": "ぐいと動かす。", "example_en": "She jerked the rope hard.", "example_ja": "彼女はロープをぐいと強く引いた。" },
+      { "title": "② 急な動き（名詞）", "desc": "with a jerk。", "example_en": "The train stopped with a jerk.", "example_ja": "電車はがくんと止まった。" },
+      { "title": "③ (口語)嫌なやつ", "desc": "悪口。", "example_en": "Don't be such a jerk.", "example_ja": "そんな嫌なやつにならないで。" }
+    ],
+    "warn": ["口語の「嫌なやつ」の意味は失礼な悪口。使う場面に注意。", "料理の jerk（ジャークチキン）は別語源のカリブ料理の調理法。"],
+    "etym_note": "16世紀ごろに現れた擬音的な語で、「すばやくぴくっと動かす」動作を表します。はっきりした語源はありません。",
+    "etym_chain": [
+      { "node": "jerk", "sub": "急に動かす(擬音)", "era": "16世紀英語" },
+      { "node": "jerk", "sub": "急に引く・嫌なやつ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "jerk the rope", "ja": "ロープを急に引く" },
+      { "en": "with a jerk", "ja": "がくんと・ぐいと" },
+      { "en": "jerk away", "ja": "さっと身を引く" },
+      { "en": "a knee-jerk reaction", "ja": "反射的な反応" },
+      { "en": "What a jerk!", "ja": "なんて嫌なやつだ！" },
+      { "en": "jerk one's head", "ja": "急に頭を動かす" }
+    ],
+    "related": [
+      { "en": "pull", "ja": "引く" },
+      { "en": "tug", "ja": "ぐいと引く" },
+      { "en": "yank", "ja": "急に強く引く" },
+      { "en": "twitch", "ja": "ぴくっと動く" }
+    ],
+    "faq": [
+      { "q": "jerk の口語の意味は？", "a": "「嫌なやつ・不快な人・ばか」という意味の悪口です。He's a jerk.（あいつは嫌なやつだ）のように使いますが、失礼な表現なので注意が必要です。" },
+      { "q": "a knee-jerk reaction とは？", "a": "ひざを軽く叩くと足がぴくっと動く反射にちなみ、「深く考えずに反射的にしてしまう反応」を表す表現です。" }
+    ],
+    "quiz": [
+      { "q": "The bus started with a sudden ___.（バスは急にがくんと動き出した）", "A": "jerk", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "a knee-___ reaction は「反射的な反応」。空所は？", "A": "jerk", "B": "jug", "C": "jade", "D": "jog", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jingle",
+    "pron": "ˈdʒɪŋɡl",
+    "kana": "ジングル",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "擬音的な語 jingle（チリンと鳴る音)",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "音・音楽"],
+    "meaning_main": "チリンチリン鳴る／(CMの)短い曲",
+    "description": "jingle は「チリンチリンと鳴る」を表す動詞。鈴や小銭などが軽く触れ合って鳴る澄んだ音を表します。名詞では、その音や、コマーシャルで使われる耳に残る「短い宣伝の曲（ジングル）」を指します。",
+    "keywords": ["jingle 意味", "jingle 発音", "jingle チリンと鳴る", "jingle CM 曲", "jingle 例文"],
+    "meanings": [
+      { "hinshi": "【動】チリンチリン鳴る", "note": "鈴や小銭が軽く触れ合って鳴る。" },
+      { "hinshi": "【名】チリンという音", "note": "澄んだ軽い金属音。" },
+      { "hinshi": "【名】(CMの)ジングル", "note": "耳に残る短い宣伝の曲。" }
+    ],
+    "usages": [
+      { "title": "① チリンと鳴る（動詞）", "desc": "鈴や小銭が鳴る。", "example_en": "The keys jingled in his pocket.", "example_ja": "鍵が彼のポケットでチリンと鳴った。" },
+      { "title": "② チリンという音（名詞）", "desc": "澄んだ音。", "example_en": "I heard the jingle of bells.", "example_ja": "私は鈴のチリンという音を聞いた。" },
+      { "title": "③ CMのジングル", "desc": "宣伝の短い曲。", "example_en": "That ad has a catchy jingle.", "example_ja": "あの広告には耳に残るジングルがある。" }
+    ],
+    "warn": ["鈴・小銭などの軽く澄んだ音を表す。大きな音は違う語。", "CMの「ジングル」は耳に残る短い宣伝ソングの意味。"],
+    "etym_note": "鈴などがチリンチリンと鳴る音を模した擬音的な語です。14世紀ごろから使われ、その音そのものと、耳に残る短い曲の両方を表すようになりました。",
+    "etym_chain": [
+      { "node": "jingle", "sub": "チリンと鳴る音", "era": "中英語" },
+      { "node": "jingle", "sub": "チリンと鳴る・ジングル", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "jingle bells", "ja": "鈴が鳴る・ジングルベル" },
+      { "en": "the jingle of coins", "ja": "小銭のチリンという音" },
+      { "en": "a catchy jingle", "ja": "耳に残るジングル" },
+      { "en": "an advertising jingle", "ja": "広告のジングル" },
+      { "en": "keys jingle", "ja": "鍵がチリンと鳴る" },
+      { "en": "jingle in one's pocket", "ja": "ポケットでチリンと鳴る" }
+    ],
+    "related": [
+      { "en": "ring", "ja": "鳴る・鳴らす" },
+      { "en": "bell", "ja": "鈴・ベル" },
+      { "en": "tinkle", "ja": "チリンと鳴る" },
+      { "en": "melody", "ja": "旋律" }
+    ],
+    "faq": [
+      { "q": "jingle はどんな音を表しますか？", "a": "鈴や小銭、鍵などが軽く触れ合って鳴る、チリンチリンという澄んだ金属音を表します。" },
+      { "q": "CM の jingle とは？", "a": "コマーシャルで使われる、短くて耳に残りやすい宣伝の曲のことです。商品名やフレーズが覚えやすいメロディに乗せられます。" }
+    ],
+    "quiz": [
+      { "q": "The bells ___ softly in the wind.（鈴が風にやさしくチリンと鳴った）", "A": "jingle", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "CMの短い宣伝曲を表すのは？", "A": "jingle", "B": "junk", "C": "juice", "D": "joke", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jockey",
+    "pron": "ˈdʒɒki",
+    "kana": "ジョッキー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "スコットランド語 Jock（人名 Johnの愛称)",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "スポーツ・職業"],
+    "meaning_main": "騎手（競馬で馬に乗る人）",
+    "description": "jockey は「騎手」を表す名詞。競馬で馬に乗ってレースをする専門の乗り手を指します。体重を軽く保つ必要がある専門職です。ラジオの「ディスクジョッキー（DJ）」の jockey もこの語です。",
+    "keywords": ["jockey 意味", "jockey 発音", "jockey 騎手", "jockey 競馬", "jockey 例文"],
+    "meanings": [
+      { "hinshi": "【名】騎手", "note": "競馬で馬に乗ってレースをする人。" },
+      { "hinshi": "【名】(〜を操る)専門家", "note": "disc jockey（DJ）など。" }
+    ],
+    "usages": [
+      { "title": "① 騎手（競馬）", "desc": "馬に乗る乗り手。", "example_en": "The jockey rode the horse to victory.", "example_ja": "騎手はその馬を勝利へ導いた。" },
+      { "title": "② レースで競う", "desc": "馬を操る。", "example_en": "The jockey guided the horse around the track.", "example_ja": "騎手は馬を操ってコースを回った。" },
+      { "title": "③ disc jockey（DJ）", "desc": "音楽をかける人。", "example_en": "A disc jockey plays music on the radio.", "example_ja": "ディスクジョッキーはラジオで音楽をかける。" }
+    ],
+    "warn": ["発音は /ˈdʒɒki/。ビールの「ジョッキ」とは無関係（あれは和製語）。", "競馬の乗り手を指す。DJ の J も jockey。"],
+    "etym_note": "スコットランドで人名 John の愛称 Jock（少年・下男）に由来します。馬の世話や乗り手を指す語となり、「騎手」の意味に定着しました。",
+    "etym_chain": [
+      { "node": "Jock", "sub": "Johnの愛称", "era": "スコットランド語" },
+      { "node": "jockey", "sub": "馬の乗り手", "era": "近代英語" },
+      { "node": "jockey", "sub": "騎手", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a horse jockey", "ja": "競馬の騎手" },
+      { "en": "a winning jockey", "ja": "勝利した騎手" },
+      { "en": "a disc jockey (DJ)", "ja": "ディスクジョッキー" },
+      { "en": "ride as a jockey", "ja": "騎手として乗る" },
+      { "en": "a top jockey", "ja": "一流の騎手" },
+      { "en": "the jockey and the horse", "ja": "騎手と馬" }
+    ],
+    "related": [
+      { "en": "horse", "ja": "馬" },
+      { "en": "race", "ja": "レース・競走" },
+      { "en": "rider", "ja": "乗り手" },
+      { "en": "saddle", "ja": "鞍" }
+    ],
+    "faq": [
+      { "q": "jockey とはどんな人ですか？", "a": "競馬で馬に乗ってレースをする専門の乗り手「騎手」です。体重を軽く保つ必要がある専門職です。" },
+      { "q": "disc jockey の jockey も同じ語ですか？", "a": "はい。ラジオやクラブで音楽をかける「ディスクジョッキー（DJ）」の jockey も、この「操る人」という意味の語です。" }
+    ],
+    "quiz": [
+      { "q": "The ___ rode the fastest horse in the race.（騎手はレースで最も速い馬に乗った）", "A": "jockey", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jockey の仕事は？", "A": "競馬で馬に乗る", "B": "船を操縦する", "C": "料理する", "D": "絵を描く", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jolly",
+    "pron": "ˈdʒɒli",
+    "kana": "ジョリー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "古フランス語 jolif（陽気な)",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "感情・英"],
+    "meaning_main": "陽気な／楽しい／(英)とても",
+    "description": "jolly は「陽気な・楽しい」を表す形容詞。明るく機嫌がよく、まわりを楽しませるような様子を表します。イギリス英語では副詞的に「とても・すごく（jolly good）」の意味でも使われる、ややくだけた古風な語です。",
+    "keywords": ["jolly 意味", "jolly 発音", "jolly 陽気な", "jolly good", "jolly 例文"],
+    "meanings": [
+      { "hinshi": "【形】陽気な・楽しい・上機嫌な", "note": "明るく機嫌がよいようす。" },
+      { "hinshi": "【副】(英)とても・すごく", "note": "jolly good（とてもよい）など。" }
+    ],
+    "usages": [
+      { "title": "① 陽気な・楽しい", "desc": "明るく機嫌がよい。", "example_en": "He is a jolly old man.", "example_ja": "彼は陽気な老人だ。" },
+      { "title": "② 楽しい雰囲気", "desc": "にぎやかで楽しい。", "example_en": "We had a jolly time at the party.", "example_ja": "私たちはパーティーで楽しい時を過ごした。" },
+      { "title": "③ (英)とても (jolly good)", "desc": "強調の副詞。", "example_en": "That's a jolly good idea!", "example_ja": "それはとてもいい考えだ！" }
+    ],
+    "warn": ["やや古風でくだけた語。サンタクロースの描写などによく使う。", "副詞の「とても」の用法は主にイギリス英語。"],
+    "etym_note": "古フランス語 jolif（陽気な・美しい・元気な）に由来し、中英語 joli を経て英語に入りました。楽しさや陽気さを表す語として定着しました。",
+    "etym_chain": [
+      { "node": "jolif", "sub": "陽気な", "era": "古フランス語" },
+      { "node": "joli", "sub": "楽しい", "era": "中英語" },
+      { "node": "jolly", "sub": "陽気な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a jolly time", "ja": "楽しいひととき" },
+      { "en": "jolly good", "ja": "とてもよい(英)" },
+      { "en": "a jolly laugh", "ja": "陽気な笑い" },
+      { "en": "jolly and cheerful", "ja": "陽気で快活な" },
+      { "en": "the jolly old man", "ja": "陽気な老人" },
+      { "en": "a jolly mood", "ja": "上機嫌" }
+    ],
+    "related": [
+      { "en": "cheerful", "ja": "快活な" },
+      { "en": "merry", "ja": "陽気な" },
+      { "en": "happy", "ja": "幸せな" },
+      { "en": "gloomy", "ja": "陰気な" }
+    ],
+    "faq": [
+      { "q": "jolly はどんな様子を表しますか？", "a": "明るく機嫌がよく、まわりを楽しませるような「陽気で楽しい」様子を表します。サンタクロースの描写などによく使われます。" },
+      { "q": "jolly good とはどんな意味ですか？", "a": "主にイギリス英語で「とてもよい・すばらしい」という意味です。jolly が副詞的に「とても」を表しています。" }
+    ],
+    "quiz": [
+      { "q": "Santa is often shown as a ___, cheerful man.（サンタはよく陽気で快活な人物として描かれる）", "A": "jolly", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jolly の意味に近いのは？", "A": "陽気な", "B": "悲しい", "C": "怒った", "D": "退屈な", "correct": "A" }
+    ]
+  },
+  {
+    "english": "journalist",
+    "pron": "ˈdʒɜːrnəlɪst",
+    "kana": "ジャーナリスト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "journal（新聞・雑誌）＋ -ist（人)",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "職業"],
+    "meaning_main": "ジャーナリスト／記者",
+    "description": "journalist は「ジャーナリスト・記者」を表す名詞。新聞・雑誌・テレビなどで、ニュースを取材して記事や報道を書く人を指します。journal（新聞・雑誌）＋ -ist（〜する人）でできています。",
+    "keywords": ["journalist 意味", "journalist 発音", "journalist 記者", "journalist ジャーナリスト", "journalist 例文"],
+    "meanings": [
+      { "hinshi": "【名】ジャーナリスト・記者", "note": "ニュースを取材し記事や報道を書く人。" }
+    ],
+    "usages": [
+      { "title": "① 記者・ジャーナリスト", "desc": "報道の仕事。", "example_en": "She works as a journalist.", "example_ja": "彼女はジャーナリストとして働いている。" },
+      { "title": "② 取材する", "desc": "ニュースを伝える。", "example_en": "The journalist interviewed the mayor.", "example_ja": "その記者は市長にインタビューした。" },
+      { "title": "③ 記事を書く", "desc": "報道を担う。", "example_en": "Journalists report the news.", "example_ja": "ジャーナリストはニュースを報道する。" }
+    ],
+    "warn": ["journal（新聞・雑誌）＋ -ist（人）でできた語。", "報道全般を担う人。新聞専門は reporter（記者）とも言う。"],
+    "etym_note": "journal（新聞・雑誌・日誌）に、「〜する人」を表す接尾辞 -ist が付いた語です。「新聞や雑誌に記事を書く人」を意味します。",
+    "etym_chain": [
+      { "node": "journal + -ist", "sub": "新聞＋人", "era": "18世紀英語" },
+      { "node": "journalist", "sub": "記者", "era": "近代英語" },
+      { "node": "journalist", "sub": "ジャーナリスト", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a news journalist", "ja": "報道記者" },
+      { "en": "work as a journalist", "ja": "ジャーナリストとして働く" },
+      { "en": "a freelance journalist", "ja": "フリーの記者" },
+      { "en": "an investigative journalist", "ja": "調査報道記者" },
+      { "en": "a sports journalist", "ja": "スポーツ記者" },
+      { "en": "become a journalist", "ja": "記者になる" }
+    ],
+    "related": [
+      { "en": "journal", "ja": "新聞・雑誌" },
+      { "en": "reporter", "ja": "記者" },
+      { "en": "news", "ja": "ニュース" },
+      { "en": "editor", "ja": "編集者" }
+    ],
+    "faq": [
+      { "q": "journalist とはどんな仕事ですか？", "a": "新聞・雑誌・テレビなどで、ニュースを取材して記事や報道を書く仕事です。事実を集めて社会に伝える役割を担います。" },
+      { "q": "journalist と reporter の違いは？", "a": "ほぼ同じですが、journalist は報道に関わる人全般（記者・編集者・評論家など）、reporter は特に現場で取材して報道する「記者」を指すことが多いです。" }
+    ],
+    "quiz": [
+      { "q": "The ___ wrote an article about the election.（そのジャーナリストは選挙についての記事を書いた）", "A": "journalist", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "journalist は journal ＋ ___ の語。空所は？", "A": "-ist", "B": "-ness", "C": "-ly", "D": "-ful", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jug",
+    "pron": "dʒʌɡ",
+    "kana": "ジャグ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "女性名 Jug（Joan/Judithの愛称)",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "生活語"],
+    "meaning_main": "水差し／取っ手付きの容器",
+    "description": "jug は「水差し」を表す名詞。取っ手と注ぎ口のついた、液体を入れて注ぐための容器を指します。水・牛乳・ジュースなどを入れます。a jug of ~（〜1差し）の形でよく使われます。",
+    "keywords": ["jug 意味", "jug 発音", "jug 水差し", "a jug of", "jug 例文"],
+    "meanings": [
+      { "hinshi": "【名】水差し・取っ手付きの容器", "note": "液体を注ぐための取っ手・注ぎ口付きの容器。" }
+    ],
+    "usages": [
+      { "title": "① 水差し", "desc": "a jug of ~ で「〜1差し」。", "example_en": "She poured water from the jug.", "example_ja": "彼女は水差しから水を注いだ。" },
+      { "title": "② 牛乳・ジュース入れ", "desc": "液体を入れる。", "example_en": "There's a jug of milk in the fridge.", "example_ja": "冷蔵庫に牛乳の入った水差しがある。" },
+      { "title": "③ a jug of water（水1差し）", "desc": "数える言い方。", "example_en": "Could you bring a jug of water?", "example_ja": "水を1差し持ってきてくれる？" }
+    ],
+    "warn": ["取っ手と注ぎ口のある容器。アメリカでは pitcher とも言う。", "発音は /dʒʌɡ/。"],
+    "etym_note": "女性名 Jug（Joan や Judith の愛称）に由来するとされます。かつて器や道具に人名をつけて呼ぶ習慣があり、水差しの名として定着しました。",
+    "etym_chain": [
+      { "node": "Jug", "sub": "女性名の愛称", "era": "16世紀英語" },
+      { "node": "jug", "sub": "水差し", "era": "近代英語" },
+      { "node": "jug", "sub": "水差し", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a jug of water", "ja": "水1差し" },
+      { "en": "a milk jug", "ja": "ミルク入れ" },
+      { "en": "a water jug", "ja": "水差し" },
+      { "en": "pour from a jug", "ja": "水差しから注ぐ" },
+      { "en": "a jug of juice", "ja": "ジュース1差し" },
+      { "en": "fill the jug", "ja": "水差しを満たす" }
+    ],
+    "related": [
+      { "en": "pitcher", "ja": "水差し(米)" },
+      { "en": "jar", "ja": "びん" },
+      { "en": "bottle", "ja": "びん" },
+      { "en": "container", "ja": "容器" }
+    ],
+    "faq": [
+      { "q": "jug と pitcher の違いは？", "a": "ほぼ同じ「水差し」ですが、jug はイギリス英語でよく使い、pitcher はアメリカ英語でよく使います。どちらも取っ手と注ぎ口のある容器です。" },
+      { "q": "「水1差し」は英語で？", "a": "a jug of water と言います。数えるときは a jug of ~ の形を使います。" }
+    ],
+    "quiz": [
+      { "q": "She filled the ___ with orange juice.（彼女は水差しにオレンジジュースを満たした）", "A": "jug", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jug の特徴は？", "A": "取っ手と注ぎ口がある", "B": "刃がある", "C": "車輪がある", "D": "電気で動く", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jumbo",
+    "pron": "ˈdʒʌmboʊ",
+    "kana": "ジャンボ",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "有名なゾウの名 Jumbo より",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "頻出語"],
+    "meaning_main": "特大の／巨大な／ジャンボ",
+    "description": "jumbo は「特大の・巨大な」を表す形容詞。並外れて大きいものを表します。jumbo jet（大型ジェット旅客機）が代表例です。19世紀に人気を集めた巨大なゾウ「ジャンボ」の名にちなむ語です。",
+    "keywords": ["jumbo 意味", "jumbo 発音", "jumbo 特大", "jumbo jet", "jumbo 例文"],
+    "meanings": [
+      { "hinshi": "【形】特大の・巨大な", "note": "並外れて大きい。" },
+      { "hinshi": "【名】巨大なもの", "note": "特大サイズの物。" }
+    ],
+    "usages": [
+      { "title": "① 特大の（形容詞）", "desc": "並外れて大きい。", "example_en": "He ordered a jumbo hot dog.", "example_ja": "彼は特大のホットドッグを注文した。" },
+      { "title": "② jumbo jet（大型旅客機）", "desc": "巨大なジェット機。", "example_en": "We flew on a jumbo jet.", "example_ja": "私たちは大型ジェット機に乗った。" },
+      { "title": "③ サイズ表示", "desc": "jumbo size。", "example_en": "The eggs come in jumbo size.", "example_ja": "その卵は特大サイズがある。" }
+    ],
+    "warn": ["「特大の」を表す。giant / huge と近い。", "有名なゾウ Jumbo に由来する語。"],
+    "etym_note": "19世紀にロンドン動物園やアメリカのサーカスで人気を集めた巨大なアフリカゾウの名「Jumbo（ジャンボ）」に由来します。その大きさから「特大の」を意味する語になりました。",
+    "etym_chain": [
+      { "node": "Jumbo", "sub": "巨大なゾウの名", "era": "19世紀" },
+      { "node": "jumbo", "sub": "特大の", "era": "19世紀英語" },
+      { "node": "jumbo", "sub": "特大の・巨大な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a jumbo jet", "ja": "大型ジェット旅客機" },
+      { "en": "jumbo size", "ja": "特大サイズ" },
+      { "en": "a jumbo shrimp", "ja": "特大のエビ" },
+      { "en": "a jumbo bag", "ja": "特大の袋" },
+      { "en": "jumbo popcorn", "ja": "特大のポップコーン" },
+      { "en": "a jumbo screen", "ja": "巨大スクリーン" }
+    ],
+    "related": [
+      { "en": "giant", "ja": "巨大な" },
+      { "en": "huge", "ja": "巨大な" },
+      { "en": "large", "ja": "大きい" },
+      { "en": "enormous", "ja": "とてつもなく大きい" }
+    ],
+    "faq": [
+      { "q": "jumbo の語源は？", "a": "19世紀に人気を集めた巨大なアフリカゾウの名「Jumbo（ジャンボ）」に由来します。その大きさから「特大の」を意味するようになりました。" },
+      { "q": "jumbo jet とは？", "a": "ボーイング747のような、多くの乗客を乗せられる「大型ジェット旅客機」のことです。" }
+    ],
+    "quiz": [
+      { "q": "We flew to Europe on a ___ jet.（私たちは大型ジェット機でヨーロッパへ飛んだ）", "A": "jumbo", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jumbo の語源となった動物は？", "A": "ゾウ", "B": "ライオン", "C": "クジラ", "D": "キリン", "correct": "A" }
+    ]
+  },
+  {
+    "english": "justify",
+    "pron": "ˈdʒʌstɪfaɪ",
+    "kana": "ジャスティファイ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 justificare（正しいとする)",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "頻出語"],
+    "meaning_main": "正当化する／(正しいと)理由づける",
+    "description": "justify は「正当化する・(正しいと)理由づける」を表す動詞。ある行動や考えが正しい・もっともだと理由を示して説明することを指します。名詞は justification（正当化）。just（公正な）や justice（正義）と同じ語源です。",
+    "keywords": ["justify 意味", "justify 発音", "justify 正当化する", "justify 理由づける", "justify 例文"],
+    "meanings": [
+      { "hinshi": "【動】正当化する・理由づける", "note": "正しい・もっともだと理由を示す。" }
+    ],
+    "usages": [
+      { "title": "① 正当化する", "desc": "正しいと説明する。", "example_en": "Nothing can justify such cruelty.", "example_ja": "そんな残酷さは何ものも正当化できない。" },
+      { "title": "② 理由づける", "desc": "根拠を示す。", "example_en": "How do you justify your decision?", "example_ja": "その決定をどう正当化するのですか？" },
+      { "title": "③ 名詞 justification", "desc": "「正当化・正当な理由」。", "example_en": "There is no justification for this.", "example_ja": "これには何の正当な理由もない。" }
+    ],
+    "warn": ["名詞は justification（正当化）。形容詞は justified（正当な・もっともな）。", "just / justice と同じ語源。"],
+    "etym_note": "ラテン語 justificare（justus＝正しい＋facere＝する＝「正しいとする」）に由来します。just（公正な）や justice（正義）と同じ語根を持ちます。",
+    "etym_chain": [
+      { "node": "justificare", "sub": "正しいとする", "era": "ラテン語" },
+      { "node": "justifier", "sub": "正当化する", "era": "古フランス語" },
+      { "node": "justify", "sub": "正当化する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "justify one's actions", "ja": "自分の行動を正当化する" },
+      { "en": "justify a decision", "ja": "決定を正当化する" },
+      { "en": "hard to justify", "ja": "正当化しがたい" },
+      { "en": "justification", "ja": "正当化・正当な理由" },
+      { "en": "justify the means", "ja": "手段を正当化する" },
+      { "en": "be justified in doing", "ja": "〜するのももっともだ" }
+    ],
+    "related": [
+      { "en": "just", "ja": "公正な" },
+      { "en": "justice", "ja": "正義" },
+      { "en": "excuse", "ja": "言い訳する" },
+      { "en": "defend", "ja": "擁護する" }
+    ],
+    "faq": [
+      { "q": "justify とはどんな意味ですか？", "a": "ある行動や考えが「正しい・もっともだ」と理由を示して説明する、つまり「正当化する」という意味です。" },
+      { "q": "justify の名詞形は？", "a": "justification（正当化・正当な理由）です。There is no justification.（何の正当な理由もない）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "He tried to ___ his rude behavior.（彼は自分の失礼な態度を正当化しようとした）", "A": "justify", "B": "jam", "C": "jog", "D": "jump", "correct": "A" },
+      { "q": "justify と同じ語源の語は？", "A": "justice（正義）", "B": "juice（ジュース）", "C": "jungle（密林）", "D": "jacket（上着）", "correct": "A" }
+    ]
+  }
+]

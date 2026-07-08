@@ -1,0 +1,501 @@
+[
+  {
+    "english": "kazoo",
+    "pron": "kəˈzuː",
+    "kana": "カズー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "英語 kazoo（音を模した語)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "音楽・楽器"],
+    "meaning_main": "カズー（声で鳴らす小さな笛のような楽器）",
+    "description": "kazoo は「カズー」を表す名詞。筒の中の薄い膜が声で振動して「ブーブー」という音を出す、小さくて手軽な楽器です。吹くのではなく、口ずさむように声を出して鳴らすのが特徴です。",
+    "keywords": ["kazoo 意味", "kazoo 発音", "kazoo カズー", "kazoo 楽器", "kazoo 例文"],
+    "meanings": [
+      { "hinshi": "【名】カズー", "note": "声で膜を振動させて音を出す小さな楽器。" }
+    ],
+    "usages": [
+      { "title": "① カズー（楽器）", "desc": "声で鳴らす。", "example_en": "He hummed a tune on the kazoo.", "example_ja": "彼はカズーで曲を口ずさんだ。" },
+      { "title": "② 独特のブーブー音", "desc": "膜が振動する。", "example_en": "The kazoo made a funny buzzing sound.", "example_ja": "カズーはおかしなブーブー音を出した。" },
+      { "title": "③ 手軽な楽器", "desc": "誰でも鳴らせる。", "example_en": "Anyone can play a kazoo without training.", "example_ja": "カズーは練習なしで誰でも鳴らせる。" }
+    ],
+    "warn": ["吹くのではなく、声(ハミング)で膜を振動させて鳴らす。", "発音は /kəˈzuː/。後ろの -zoo を強く読む。"],
+    "etym_note": "19世紀のアメリカで生まれた楽器で、その音を模した造語だとされます。声で膜を振動させて「ブーブー」という音を出す仕組みにちなむ名です。",
+    "etym_chain": [
+      { "node": "kazoo", "sub": "音を模した語", "era": "19世紀アメリカ英語" },
+      { "node": "kazoo", "sub": "カズー", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "play the kazoo", "ja": "カズーを鳴らす" },
+      { "en": "hum on a kazoo", "ja": "カズーで口ずさむ" },
+      { "en": "a plastic kazoo", "ja": "プラスチックのカズー" },
+      { "en": "a kazoo band", "ja": "カズーの楽団" },
+      { "en": "the buzz of a kazoo", "ja": "カズーのブーブー音" },
+      { "en": "toy kazoo", "ja": "おもちゃのカズー" }
+    ],
+    "related": [
+      { "en": "instrument", "ja": "楽器" },
+      { "en": "hum", "ja": "口ずさむ・ハミングする" },
+      { "en": "whistle", "ja": "笛" },
+      { "en": "buzz", "ja": "ブーンと鳴る" }
+    ],
+    "faq": [
+      { "q": "kazoo はどうやって鳴らしますか？", "a": "吹くのではなく、口ずさむように声を出します。その声で筒の中の薄い膜が振動して、独特の「ブーブー」という音が出ます。" },
+      { "q": "kazoo は難しい楽器ですか？", "a": "いいえ、とても簡単です。声を出せば鳴るので、練習なしで誰でもすぐに演奏できます。" }
+    ],
+    "quiz": [
+      { "q": "You make sound on a ___ by humming into it.（カズーは口ずさんで音を出す）", "A": "kazoo", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "kazoo の鳴らし方は？", "A": "声で膜を振動させる", "B": "弦をはじく", "C": "叩く", "D": "電気で鳴らす", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kanji",
+    "pron": "ˈkændʒi",
+    "kana": "カンジ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "日本語「漢字」（漢の文字)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "文字・文化"],
+    "meaning_main": "漢字（日本語で使う表意文字）",
+    "description": "kanji は「漢字」を表す名詞。中国から伝わり日本語で使われる表意文字（一字が意味を持つ文字）です。ひらがな・カタカナと組み合わせて日本語を書き表します。日本語がそのまま英語になった語です。",
+    "keywords": ["kanji 意味", "kanji 発音", "kanji 漢字", "kanji 日本語 文字", "kanji 例文"],
+    "meanings": [
+      { "hinshi": "【名】漢字", "note": "日本語で使われる、一字が意味を持つ表意文字。" }
+    ],
+    "usages": [
+      { "title": "① 漢字（文字）", "desc": "表意文字。", "example_en": "Japanese uses kanji, hiragana, and katakana.", "example_ja": "日本語は漢字・ひらがな・カタカナを使う。" },
+      { "title": "② 漢字を学ぶ", "desc": "learn kanji。", "example_en": "Learning kanji takes years.", "example_ja": "漢字を覚えるには何年もかかる。" },
+      { "title": "③ 一字が意味を持つ", "desc": "表意的な文字。", "example_en": "Each kanji represents a meaning.", "example_ja": "それぞれの漢字は意味を表す。" }
+    ],
+    "warn": ["日本語「漢字」由来。表音文字のかな(kana)とは異なり、意味を表す文字。", "発音は /ˈkændʒi/。"],
+    "etym_note": "日本語の「漢字（かんじ）」＝「漢（中国)の文字」に由来します。中国から伝わった文字体系を指し、日本語学習が世界に広まるとともに英語にも取り入れられました。",
+    "etym_chain": [
+      { "node": "漢字 (kanji)", "sub": "漢の文字", "era": "日本" },
+      { "node": "kanji", "sub": "漢字", "era": "20世紀英語" },
+      { "node": "kanji", "sub": "漢字", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "learn kanji", "ja": "漢字を学ぶ" },
+      { "en": "write in kanji", "ja": "漢字で書く" },
+      { "en": "a kanji character", "ja": "漢字1字" },
+      { "en": "read kanji", "ja": "漢字を読む" },
+      { "en": "kanji and kana", "ja": "漢字とかな" },
+      { "en": "a difficult kanji", "ja": "難しい漢字" }
+    ],
+    "related": [
+      { "en": "kana", "ja": "かな" },
+      { "en": "character", "ja": "文字" },
+      { "en": "Japanese", "ja": "日本語" },
+      { "en": "writing", "ja": "書記・文字" }
+    ],
+    "faq": [
+      { "q": "kanji とは何ですか？", "a": "中国から伝わり日本語で使われる表意文字（一字が意味を持つ文字）です。ひらがな・カタカナと組み合わせて日本語を書き表します。" },
+      { "q": "kanji と kana の違いは？", "a": "kanji（漢字）は意味を表す表意文字、kana（かな＝ひらがな・カタカナ）は音を表す表音文字です。" }
+    ],
+    "quiz": [
+      { "q": "Each ___ character stands for a meaning, not just a sound.（漢字は音だけでなく意味を表す）", "A": "kanji", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "kanji はどの国の文字を使ったもの？", "A": "中国由来（日本で使用）", "B": "ロシア", "C": "エジプト", "D": "ギリシャ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kana",
+    "pron": "ˈkɑːnə",
+    "kana": "カナ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "日本語「仮名（かな)」",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "文字・文化"],
+    "meaning_main": "かな（日本語の表音文字。ひらがな・カタカナ）",
+    "description": "kana は「かな（仮名）」を表す名詞。日本語の表音文字で、ひらがなとカタカナの総称です。漢字（kanji）と違い、一字が音を表します。日本語がそのまま英語になった語です。",
+    "keywords": ["kana 意味", "kana 発音", "kana かな", "kana ひらがな カタカナ", "kana 例文"],
+    "meanings": [
+      { "hinshi": "【名】かな（仮名）", "note": "日本語の表音文字。ひらがなとカタカナの総称。" }
+    ],
+    "usages": [
+      { "title": "① かな（表音文字）", "desc": "音を表す文字。", "example_en": "Kana includes hiragana and katakana.", "example_ja": "かなにはひらがなとカタカナがある。" },
+      { "title": "② 音を表す", "desc": "1字が1音節。", "example_en": "Each kana represents a syllable.", "example_ja": "それぞれのかなは1音節を表す。" },
+      { "title": "③ 学習の第一歩", "desc": "まずかなを覚える。", "example_en": "Beginners learn kana before kanji.", "example_ja": "初学者は漢字の前にかなを覚える。" }
+    ],
+    "warn": ["日本語「仮名」由来。表意文字の漢字(kanji)とは異なり、音を表す。", "ひらがな(hiragana)とカタカナ(katakana)の総称。"],
+    "etym_note": "日本語の「仮名（かな）」に由来します。「仮の文字（漢字＝真名に対する）」という意味で、日本語学習が世界に広まるとともに英語にも取り入れられました。",
+    "etym_chain": [
+      { "node": "仮名 (kana)", "sub": "仮の文字", "era": "日本" },
+      { "node": "kana", "sub": "かな", "era": "20世紀英語" },
+      { "node": "kana", "sub": "かな", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "learn kana", "ja": "かなを学ぶ" },
+      { "en": "write in kana", "ja": "かなで書く" },
+      { "en": "hiragana and katakana", "ja": "ひらがなとカタカナ" },
+      { "en": "read the kana", "ja": "かなを読む" },
+      { "en": "the kana chart", "ja": "五十音表" },
+      { "en": "phonetic kana", "ja": "表音的なかな" }
+    ],
+    "related": [
+      { "en": "kanji", "ja": "漢字" },
+      { "en": "hiragana", "ja": "ひらがな" },
+      { "en": "katakana", "ja": "カタカナ" },
+      { "en": "syllable", "ja": "音節" }
+    ],
+    "faq": [
+      { "q": "kana とは何ですか？", "a": "日本語の表音文字で、ひらがなとカタカナの総称です。一字が音（音節）を表し、漢字と組み合わせて日本語を書きます。" },
+      { "q": "kana と kanji はどちらを先に学びますか？", "a": "ふつうは kana（かな）を先に学びます。音を表す文字なので、日本語の発音や基礎を身につけやすいからです。" }
+    ],
+    "quiz": [
+      { "q": "Japanese learners usually study ___ before kanji.（日本語学習者はふつう漢字の前にかなを学ぶ）", "A": "kana", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "kana が表すのは？", "A": "音（音節）", "B": "意味だけ", "C": "数字だけ", "D": "色", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kanban",
+    "pron": "ˈkɑːnbɑːn",
+    "kana": "カンバン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "日本語「看板（かんばん)」",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "ビジネス・生産"],
+    "meaning_main": "かんばん方式（生産・作業管理の手法)",
+    "description": "kanban は「かんばん（方式）」を表す名詞。トヨタが生み出した生産管理の手法で、カードやボードを使って作業の流れや在庫を「見える化」し、必要なものを必要なだけ作る仕組みです。ソフトウェア開発の管理でも広く使われます。",
+    "keywords": ["kanban 意味", "kanban 発音", "kanban かんばん方式", "kanban ボード", "kanban 例文"],
+    "meanings": [
+      { "hinshi": "【名】かんばん方式", "note": "カードやボードで作業・在庫を見える化する管理手法。" }
+    ],
+    "usages": [
+      { "title": "① かんばん方式（生産）", "desc": "必要な分だけ作る。", "example_en": "Toyota developed the kanban system.", "example_ja": "トヨタはかんばん方式を開発した。" },
+      { "title": "② かんばんボード", "desc": "作業を見える化。", "example_en": "The team tracks tasks on a kanban board.", "example_ja": "チームはかんばんボードで作業を管理する。" },
+      { "title": "③ ソフト開発でも", "desc": "アジャイル開発に応用。", "example_en": "Many developers use kanban to manage work.", "example_ja": "多くの開発者が作業管理にかんばんを使う。" }
+    ],
+    "warn": ["日本語「看板」由来だが、英語では生産・作業管理の『方式』を指す。", "カードやボードで作業の流れを『見える化』する仕組み。"],
+    "etym_note": "日本語の「看板（かんばん）」に由来します。トヨタ生産方式で、部品の補充を知らせる札（かんばん）を使ったことから、この管理手法全体を指す語として世界に広まりました。",
+    "etym_chain": [
+      { "node": "看板 (kanban)", "sub": "札・看板", "era": "日本" },
+      { "node": "kanban", "sub": "かんばん方式", "era": "20世紀英語" },
+      { "node": "kanban", "sub": "かんばん方式", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "kanban board", "ja": "かんばんボード" },
+      { "en": "kanban system", "ja": "かんばん方式" },
+      { "en": "a kanban card", "ja": "かんばんカード" },
+      { "en": "use kanban", "ja": "かんばんを使う" },
+      { "en": "kanban method", "ja": "かんばん手法" },
+      { "en": "just-in-time and kanban", "ja": "ジャストインタイムとかんばん" }
+    ],
+    "related": [
+      { "en": "workflow", "ja": "作業の流れ" },
+      { "en": "inventory", "ja": "在庫" },
+      { "en": "agile", "ja": "アジャイル" },
+      { "en": "production", "ja": "生産" }
+    ],
+    "faq": [
+      { "q": "kanban とは何ですか？", "a": "カードやボードを使って作業の流れや在庫を「見える化」し、必要なものを必要なだけ作る生産・作業管理の手法です。トヨタが生み出しました。" },
+      { "q": "kanban はソフト開発でも使いますか？", "a": "はい。かんばんボードでタスクの進み具合を見える化する方法として、ソフトウェア開発やプロジェクト管理で広く使われています。" }
+    ],
+    "quiz": [
+      { "q": "The team visualizes its tasks on a ___ board.（チームはかんばんボードで作業を見える化する）", "A": "kanban", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "kanban 方式を生み出した企業は？", "A": "トヨタ", "B": "アップル", "C": "グーグル", "D": "ソニー", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kaolin",
+    "pron": "ˈkeɪəlɪn",
+    "kana": "カオリン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "中国語「高嶺（гāolǐng）」（産地の地名)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "材料・科学"],
+    "meaning_main": "カオリン（磁器を作る白い粘土)",
+    "description": "kaolin は「カオリン（陶土）」を表す名詞。白くてきめの細かい粘土で、磁器や陶器の原料として使われます。紙や化粧品、薬などにも利用されます。中国の産地「高嶺（カオリン）」が語源です。",
+    "keywords": ["kaolin 意味", "kaolin 発音", "kaolin カオリン", "kaolin 陶土 磁器", "kaolin 例文"],
+    "meanings": [
+      { "hinshi": "【名】カオリン・陶土", "note": "磁器などの原料になる白いきめ細かい粘土。" }
+    ],
+    "usages": [
+      { "title": "① 磁器の原料", "desc": "白い粘土。", "example_en": "Porcelain is made from kaolin.", "example_ja": "磁器はカオリンから作られる。" },
+      { "title": "② 紙・化粧品にも", "desc": "幅広い用途。", "example_en": "Kaolin is used in paper and cosmetics.", "example_ja": "カオリンは紙や化粧品に使われる。" },
+      { "title": "③ 薬用にも", "desc": "整腸剤などに。", "example_en": "Kaolin is used in some medicines.", "example_ja": "カオリンは一部の薬にも使われる。" }
+    ],
+    "warn": ["発音は /ˈkeɪəlɪn/。白くきめ細かい陶土。", "中国の産地「高嶺(カオリン)」にちなむ地名由来の語。"],
+    "etym_note": "中国江西省の陶土の産地「高嶺（Gāolǐng＝高い峰）」に由来します。フランス語 kaolin を経て、良質な白い陶土を指す語として英語に入りました。",
+    "etym_chain": [
+      { "node": "高嶺 (Gāolǐng)", "sub": "産地の地名", "era": "中国語" },
+      { "node": "kaolin", "sub": "陶土", "era": "18世紀フランス語→英語" },
+      { "node": "kaolin", "sub": "カオリン", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "kaolin clay", "ja": "カオリン粘土" },
+      { "en": "made from kaolin", "ja": "カオリンから作られる" },
+      { "en": "white kaolin", "ja": "白いカオリン" },
+      { "en": "kaolin powder", "ja": "カオリンの粉" },
+      { "en": "porcelain kaolin", "ja": "磁器用カオリン" },
+      { "en": "a kaolin deposit", "ja": "カオリンの鉱床" }
+    ],
+    "related": [
+      { "en": "clay", "ja": "粘土" },
+      { "en": "porcelain", "ja": "磁器" },
+      { "en": "ceramic", "ja": "陶磁器" },
+      { "en": "mineral", "ja": "鉱物" }
+    ],
+    "faq": [
+      { "q": "kaolin とは何ですか？", "a": "白くてきめの細かい粘土で、磁器や陶器の主原料です。紙・化粧品・薬などにも幅広く使われます。" },
+      { "q": "kaolin の名前の由来は？", "a": "良質な陶土がとれた中国の産地「高嶺（カオリン）」という地名に由来します。" }
+    ],
+    "quiz": [
+      { "q": "Fine porcelain is made from a white clay called ___.（上質な磁器はカオリンという白い粘土から作られる）", "A": "kaolin", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "kaolin の主な用途は？", "A": "磁器・陶器の原料", "B": "燃料", "C": "飲み物", "D": "布地", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kapok",
+    "pron": "ˈkeɪpɒk",
+    "kana": "ケイポック",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "マレー語 kapuk（綿状の繊維)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "材料・植物"],
+    "meaning_main": "カポック（木の実から取れる軽い綿状の繊維）",
+    "description": "kapok は「カポック」を表す名詞。熱帯のカポックの木の実から取れる、軽くて水をはじく綿状の繊維です。クッションや枕の詰め物、救命胴衣の浮力材などに使われてきました。",
+    "keywords": ["kapok 意味", "kapok 発音", "kapok カポック", "kapok 繊維 詰め物", "kapok 例文"],
+    "meanings": [
+      { "hinshi": "【名】カポック", "note": "カポックの木の実から取れる軽い綿状の繊維。" }
+    ],
+    "usages": [
+      { "title": "① カポック（繊維）", "desc": "軽い綿状の繊維。", "example_en": "The pillow was stuffed with kapok.", "example_ja": "その枕にはカポックが詰められていた。" },
+      { "title": "② 詰め物・浮力材", "desc": "軽く水をはじく。", "example_en": "Kapok was once used in life jackets.", "example_ja": "カポックはかつて救命胴衣に使われた。" },
+      { "title": "③ 木の実から取る", "desc": "熱帯の木。", "example_en": "Kapok comes from the seed pods of a tropical tree.", "example_ja": "カポックは熱帯の木の実から取れる。" }
+    ],
+    "warn": ["発音は /ˈkeɪpɒk/。木綿(cotton)とは別の、木の実から取れる繊維。", "軽く水をはじくため、かつて救命胴衣や詰め物に使われた。"],
+    "etym_note": "マレー語 kapuk（綿状の繊維）に由来します。東南アジアなど熱帯で採れる、カポックの木の実の繊維を指す語として英語に入りました。",
+    "etym_chain": [
+      { "node": "kapuk", "sub": "綿状の繊維", "era": "マレー語" },
+      { "node": "kapok", "sub": "カポック", "era": "18-19世紀英語" },
+      { "node": "kapok", "sub": "カポック", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "stuffed with kapok", "ja": "カポックを詰めた" },
+      { "en": "a kapok pillow", "ja": "カポックの枕" },
+      { "en": "the kapok tree", "ja": "カポックの木" },
+      { "en": "kapok fiber", "ja": "カポック繊維" },
+      { "en": "kapok filling", "ja": "カポックの詰め物" },
+      { "en": "light as kapok", "ja": "カポックのように軽い" }
+    ],
+    "related": [
+      { "en": "cotton", "ja": "綿・木綿" },
+      { "en": "fiber", "ja": "繊維" },
+      { "en": "stuffing", "ja": "詰め物" },
+      { "en": "tree", "ja": "木" }
+    ],
+    "faq": [
+      { "q": "kapok とは何ですか？", "a": "熱帯のカポックの木の実から取れる、軽くて水をはじく綿状の繊維です。クッションや枕の詰め物、救命胴衣の浮力材などに使われてきました。" },
+      { "q": "kapok と cotton の違いは？", "a": "cotton（木綿）は綿花から取れる繊維ですが、kapok は木の実（種子鞘）から取れる繊維で、より軽く水をはじく性質があります。" }
+    ],
+    "quiz": [
+      { "q": "The old life jacket was filled with buoyant ___.（その古い救命胴衣は浮力のあるカポックで満たされていた）", "A": "kapok", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "kapok はどこから取れる？", "A": "木の実", "B": "動物の毛", "C": "石油", "D": "金属", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kerchief",
+    "pron": "ˈkɜːrtʃɪf",
+    "kana": "カーチフ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 couvrechief（頭を覆うもの)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "衣服・生活"],
+    "meaning_main": "ケルチーフ（頭や首に巻く四角い布）",
+    "description": "kerchief は「ケルチーフ」を表す名詞。頭や首に巻く、または肩にかける四角い布です。古フランス語で「頭を覆うもの」を意味する語が語源で、handkerchief（ハンカチ）の kerchief 部分もこれです。",
+    "keywords": ["kerchief 意味", "kerchief 発音", "kerchief 布", "handkerchief 語源", "kerchief 例文"],
+    "meanings": [
+      { "hinshi": "【名】ケルチーフ", "note": "頭や首に巻く四角い布。" }
+    ],
+    "usages": [
+      { "title": "① 頭に巻く布", "desc": "スカーフのように。", "example_en": "She tied a kerchief over her hair.", "example_ja": "彼女は髪にケルチーフを巻いた。" },
+      { "title": "② 首に巻く", "desc": "首元の布。", "example_en": "He wore a red kerchief around his neck.", "example_ja": "彼は首に赤いケルチーフを巻いていた。" },
+      { "title": "③ handkerchief の語源", "desc": "hand＋kerchief。", "example_en": "\"Handkerchief\" comes from \"hand\" plus \"kerchief.\"", "example_ja": "handkerchief は hand と kerchief から成る。" }
+    ],
+    "warn": ["発音は /ˈkɜːrtʃɪf/。頭・首に巻く四角い布。", "handkerchief（ハンカチ）は hand（手）＋ kerchief。"],
+    "etym_note": "古フランス語 couvrechief（couvrir＝覆う＋chief＝頭）＝「頭を覆うもの」に由来します。これに hand（手）が付いて handkerchief（手で持つ布＝ハンカチ）になりました。",
+    "etym_chain": [
+      { "node": "couvrechief", "sub": "頭を覆うもの", "era": "古フランス語" },
+      { "node": "kerchief", "sub": "頭布", "era": "中英語" },
+      { "node": "kerchief", "sub": "ケルチーフ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a silk kerchief", "ja": "絹のケルチーフ" },
+      { "en": "tie a kerchief", "ja": "ケルチーフを巻く" },
+      { "en": "a neck kerchief", "ja": "首に巻くケルチーフ" },
+      { "en": "a head kerchief", "ja": "頭に巻くケルチーフ" },
+      { "en": "handkerchief", "ja": "ハンカチ" },
+      { "en": "a checked kerchief", "ja": "格子柄のケルチーフ" }
+    ],
+    "related": [
+      { "en": "scarf", "ja": "スカーフ" },
+      { "en": "handkerchief", "ja": "ハンカチ" },
+      { "en": "bandanna", "ja": "バンダナ" },
+      { "en": "cloth", "ja": "布" }
+    ],
+    "faq": [
+      { "q": "kerchief とは何ですか？", "a": "頭や首に巻いたり肩にかけたりする四角い布です。古フランス語で「頭を覆うもの」を意味する語が語源です。" },
+      { "q": "handkerchief と kerchief の関係は？", "a": "handkerchief は hand（手）＋ kerchief で、「手で持つ布＝ハンカチ」を意味します。kerchief がその元の語です。" }
+    ],
+    "quiz": [
+      { "q": "She covered her hair with a colorful ___.（彼女は色鮮やかなケルチーフで髪を覆った）", "A": "kerchief", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "handkerchief は hand ＋ ___。空所は？", "A": "kerchief", "B": "kernel", "C": "kettle", "D": "keeper", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ketamine",
+    "pron": "ˈketəmiːn",
+    "kana": "ケタミン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ketone（ケトン）＋ amine（アミン)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "医療・薬"],
+    "meaning_main": "ケタミン（麻酔薬の一種）",
+    "description": "ketamine は「ケタミン」を表す名詞。医療で使われる麻酔・鎮痛薬の一種です。手術や救急医療、獣医療で用いられるほか、近年は治療抵抗性のうつ病の治療でも研究されています。管理が必要な薬物でもあります。",
+    "keywords": ["ketamine 意味", "ketamine 発音", "ketamine ケタミン", "ketamine 麻酔", "ketamine 例文"],
+    "meanings": [
+      { "hinshi": "【名】ケタミン", "note": "医療で使われる麻酔・鎮痛薬の一種。" }
+    ],
+    "usages": [
+      { "title": "① 麻酔薬として", "desc": "手術・救急で。", "example_en": "Ketamine is used as an anesthetic.", "example_ja": "ケタミンは麻酔薬として使われる。" },
+      { "title": "② 獣医療でも", "desc": "動物の手術に。", "example_en": "Vets sometimes use ketamine on animals.", "example_ja": "獣医は動物にケタミンを使うことがある。" },
+      { "title": "③ うつ病治療の研究", "desc": "近年注目。", "example_en": "Ketamine is being studied for depression.", "example_ja": "ケタミンはうつ病の治療で研究されている。" }
+    ],
+    "warn": ["医療用の麻酔・鎮痛薬。乱用の危険があり、多くの国で規制されている。", "発音は /ˈketəmiːn/。"],
+    "etym_note": "化学構造にちなむ造語で、ketone（ケトン）と amine（アミン）を組み合わせた名です。1960年代に麻酔薬として開発されました。",
+    "etym_chain": [
+      { "node": "ketone + amine", "sub": "ケトン＋アミン", "era": "20世紀" },
+      { "node": "ketamine", "sub": "ケタミン", "era": "1960年代英語" },
+      { "node": "ketamine", "sub": "ケタミン", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "administer ketamine", "ja": "ケタミンを投与する" },
+      { "en": "ketamine anesthesia", "ja": "ケタミン麻酔" },
+      { "en": "a dose of ketamine", "ja": "ケタミンの投与量" },
+      { "en": "ketamine treatment", "ja": "ケタミン治療" },
+      { "en": "under ketamine", "ja": "ケタミンの作用下で" },
+      { "en": "ketamine for depression", "ja": "うつ病へのケタミン" }
+    ],
+    "related": [
+      { "en": "anesthetic", "ja": "麻酔薬" },
+      { "en": "painkiller", "ja": "鎮痛薬" },
+      { "en": "medicine", "ja": "薬" },
+      { "en": "surgery", "ja": "手術" }
+    ],
+    "faq": [
+      { "q": "ketamine とは何ですか？", "a": "医療で使われる麻酔・鎮痛薬の一種です。手術や救急医療、獣医療で用いられ、近年は治療抵抗性のうつ病の治療でも研究されています。" },
+      { "q": "ketamine の名前の由来は？", "a": "化学構造にちなみ、ketone（ケトン）＋ amine（アミン）を組み合わせた造語です。" }
+    ],
+    "quiz": [
+      { "q": "Doctors use ___ as an anesthetic during some surgeries.（医師は一部の手術でケタミンを麻酔薬として使う）", "A": "ketamine", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "ketamine の主な用途は？", "A": "麻酔・鎮痛", "B": "調味料", "C": "洗剤", "D": "燃料", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kedgeree",
+    "pron": "ˈkedʒəriː",
+    "kana": "ケジャリー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ヒンディー語 khichṛī（豆と米の料理)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "食べ物・文化"],
+    "meaning_main": "ケジャリー（米・魚・卵の英国風料理）",
+    "description": "kedgeree は「ケジャリー」を表す名詞。米に、ほぐした魚（多くは燻製の魚）、ゆで卵、香辛料を混ぜて作るイギリスの料理です。インドの米豆料理（キチュリ）をもとに、英国風にアレンジされた朝食料理として知られます。",
+    "keywords": ["kedgeree 意味", "kedgeree 発音", "kedgeree ケジャリー", "kedgeree 料理", "kedgeree 例文"],
+    "meanings": [
+      { "hinshi": "【名】ケジャリー", "note": "米・燻製魚・ゆで卵・香辛料を混ぜた英国風の料理。" }
+    ],
+    "usages": [
+      { "title": "① ケジャリー（料理）", "desc": "米と魚の混ぜご飯風。", "example_en": "We had kedgeree for breakfast.", "example_ja": "私たちは朝食にケジャリーを食べた。" },
+      { "title": "② 燻製魚を使う", "desc": "多くはスモークハドック。", "example_en": "Kedgeree is often made with smoked haddock.", "example_ja": "ケジャリーはよく燻製のタラで作られる。" },
+      { "title": "③ インド料理が起源", "desc": "英国風にアレンジ。", "example_en": "Kedgeree is based on an Indian rice dish.", "example_ja": "ケジャリーはインドの米料理がもとになっている。" }
+    ],
+    "warn": ["発音は /ˈkedʒəriː/。イギリスの朝食料理として知られる。", "インドの米豆料理キチュリ(khichṛī)がもと。"],
+    "etym_note": "ヒンディー語 khichṛī（米と豆を煮た料理）に由来します。イギリスのインド植民地時代に伝わり、魚や卵を加えた英国風の料理としてアレンジされました。",
+    "etym_chain": [
+      { "node": "khichṛī", "sub": "米と豆の料理", "era": "ヒンディー語" },
+      { "node": "kedgeree", "sub": "ケジャリー", "era": "18-19世紀英語" },
+      { "node": "kedgeree", "sub": "ケジャリー", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "make kedgeree", "ja": "ケジャリーを作る" },
+      { "en": "smoked fish kedgeree", "ja": "燻製魚のケジャリー" },
+      { "en": "kedgeree for breakfast", "ja": "朝食のケジャリー" },
+      { "en": "a bowl of kedgeree", "ja": "ケジャリー1杯" },
+      { "en": "spiced kedgeree", "ja": "香辛料入りケジャリー" },
+      { "en": "rice and fish kedgeree", "ja": "米と魚のケジャリー" }
+    ],
+    "related": [
+      { "en": "rice", "ja": "米" },
+      { "en": "haddock", "ja": "タラ(の一種)" },
+      { "en": "curry", "ja": "カレー" },
+      { "en": "breakfast", "ja": "朝食" }
+    ],
+    "faq": [
+      { "q": "kedgeree とはどんな料理ですか？", "a": "米に、ほぐした燻製魚、ゆで卵、香辛料を混ぜて作るイギリスの料理です。特に朝食料理として知られます。" },
+      { "q": "kedgeree の起源は？", "a": "インドの米豆料理「キチュリ（khichṛī）」がもとで、イギリスのインド植民地時代に魚や卵を加えた英国風にアレンジされました。" }
+    ],
+    "quiz": [
+      { "q": "The British ___ combines rice, smoked fish, and eggs.（イギリスのケジャリーは米・燻製魚・卵を合わせる）", "A": "kedgeree", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "kedgeree のもとになった料理はどこの国の？", "A": "インド", "B": "イタリア", "C": "メキシコ", "D": "中国", "correct": "A" }
+    ]
+  },
+  {
+    "english": "keloid",
+    "pron": "ˈkiːlɔɪd",
+    "kana": "キーロイド",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 kēlē（腫れ）＋ -oid（〜状の)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "医療"],
+    "meaning_main": "ケロイド（盛り上がった傷跡）",
+    "description": "keloid は「ケロイド」を表す名詞。傷が治る過程で皮膚組織が過剰に増え、元の傷の範囲を超えて盛り上がってできる傷跡です。医療・皮膚科の用語で、ギリシャ語の「腫れ」＋「〜状の」が語源です。",
+    "keywords": ["keloid 意味", "keloid 発音", "keloid ケロイド", "keloid 傷跡", "keloid 例文"],
+    "meanings": [
+      { "hinshi": "【名】ケロイド", "note": "皮膚組織が過剰に増えて盛り上がった傷跡。" }
+    ],
+    "usages": [
+      { "title": "① ケロイド（傷跡）", "desc": "盛り上がった傷跡。", "example_en": "The burn left a keloid on his arm.", "example_ja": "やけどは彼の腕にケロイドを残した。" },
+      { "title": "② 過剰な組織の増殖", "desc": "傷の範囲を超えて広がる。", "example_en": "A keloid grows beyond the original wound.", "example_ja": "ケロイドは元の傷の範囲を超えて広がる。" },
+      { "title": "③ 皮膚科の治療対象", "desc": "医療で扱う。", "example_en": "Doctors can treat keloids in several ways.", "example_ja": "医師はケロイドをいくつかの方法で治療できる。" }
+    ],
+    "warn": ["医療・皮膚科の用語。発音は /ˈkiːlɔɪd/。", "通常の傷跡(scar)と違い、元の傷の範囲を超えて盛り上がる。"],
+    "etym_note": "ギリシャ語 kēlē（腫れ・こぶ）に、「〜のような・〜状の」を表す接尾辞 -oid を付けた語です。「腫れのようなもの」という意味で、19世紀の医学用語として作られました。",
+    "etym_chain": [
+      { "node": "kēlē + -oid", "sub": "腫れ＋〜状の", "era": "ギリシャ語" },
+      { "node": "keloid", "sub": "ケロイド", "era": "19世紀英語" },
+      { "node": "keloid", "sub": "ケロイド", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "form a keloid", "ja": "ケロイドができる" },
+      { "en": "a keloid scar", "ja": "ケロイド状の傷跡" },
+      { "en": "treat a keloid", "ja": "ケロイドを治療する" },
+      { "en": "prone to keloids", "ja": "ケロイドができやすい" },
+      { "en": "a raised keloid", "ja": "盛り上がったケロイド" },
+      { "en": "keloid formation", "ja": "ケロイドの形成" }
+    ],
+    "related": [
+      { "en": "scar", "ja": "傷跡" },
+      { "en": "wound", "ja": "傷" },
+      { "en": "skin", "ja": "皮膚" },
+      { "en": "tissue", "ja": "組織" }
+    ],
+    "faq": [
+      { "q": "keloid とは何ですか？", "a": "傷が治る過程で皮膚組織が過剰に増え、元の傷の範囲を超えて盛り上がってできる傷跡です。皮膚科で扱う医療用語です。" },
+      { "q": "keloid と普通の傷跡(scar)の違いは？", "a": "普通の傷跡は元の傷の範囲内に収まりますが、keloid（ケロイド）は範囲を超えて盛り上がり、大きく広がるのが特徴です。" }
+    ],
+    "quiz": [
+      { "q": "The scar grew into a raised ___ beyond the wound.（傷跡は傷の範囲を超えて盛り上がったケロイドになった）", "A": "keloid", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "keloid はどの分野の用語？", "A": "医療（皮膚科）", "B": "料理", "C": "音楽", "D": "建築", "correct": "A" }
+    ]
+  }
+]

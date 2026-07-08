@@ -1,0 +1,504 @@
+[
+  {
+    "english": "jujitsu",
+    "pron": "dʒuːˈdʒɪtsuː",
+    "kana": "ジュージツ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "日本語「柔術」（柔よく剛を制す術)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR B2", "スポーツ・文化"],
+    "meaning_main": "柔術（日本の伝統的な組み技の武術）",
+    "description": "jujitsu は日本の武術「柔術」を表す名詞。相手の力を利用して投げたり関節を極めたりする、武器を使わない組み技の武術です。柔道（judo）のもとになった武術で、現在はブラジリアン柔術などとして世界に広まっています。jujutsu / jiu-jitsu とも綴ります。",
+    "keywords": ["jujitsu 意味", "jujitsu 発音", "柔術", "jujitsu 武術", "jujitsu 例文"],
+    "meanings": [
+      { "hinshi": "【名】柔術", "note": "相手の力を利用する武器を使わない組み技の武術。柔道の起源。" }
+    ],
+    "usages": [
+      { "title": "① 柔術（武術）", "desc": "組み技の武術。", "example_en": "He trains in jujitsu every week.", "example_ja": "彼は毎週柔術を練習している。" },
+      { "title": "② 相手の力を利用", "desc": "投げ・関節技。", "example_en": "Jujitsu uses the opponent's strength.", "example_ja": "柔術は相手の力を利用する。" },
+      { "title": "③ 柔道の起源", "desc": "judo のもと。", "example_en": "Judo developed from jujitsu.", "example_ja": "柔道は柔術から発展した。" }
+    ],
+    "warn": ["jujitsu / jujutsu / jiu-jitsu と綴りにゆれがある。", "柔道(judo)のもとになった武術。武器を使わない組み技。"],
+    "etym_note": "日本語の「柔術」に由来し、「柔（しなやかさ）の術」を意味します。武士の時代から伝わる武器を使わない組み技の武術で、柔道のもとになりました。",
+    "etym_chain": [
+      { "node": "柔術 (jūjutsu)", "sub": "柔の術", "era": "日本" },
+      { "node": "jujitsu", "sub": "柔術", "era": "19-20世紀英語" },
+      { "node": "jujitsu", "sub": "柔術", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "practice jujitsu", "ja": "柔術を練習する" },
+      { "en": "a jujitsu master", "ja": "柔術の達人" },
+      { "en": "Brazilian jiu-jitsu", "ja": "ブラジリアン柔術" },
+      { "en": "learn jujitsu", "ja": "柔術を学ぶ" },
+      { "en": "a jujitsu technique", "ja": "柔術の技" },
+      { "en": "traditional jujitsu", "ja": "伝統的な柔術" }
+    ],
+    "related": [
+      { "en": "judo", "ja": "柔道" },
+      { "en": "martial arts", "ja": "武道・格闘技" },
+      { "en": "grappling", "ja": "組み技" },
+      { "en": "wrestling", "ja": "レスリング" }
+    ],
+    "faq": [
+      { "q": "jujitsu とはどんな武術ですか？", "a": "相手の力を利用して投げたり関節を極めたりする、武器を使わない組み技の日本の武術「柔術」です。柔道のもとになりました。" },
+      { "q": "jujitsu と judo の違いは？", "a": "jujitsu（柔術）は武士の時代から伝わる実戦的な組み技の武術で、そこから嘉納治五郎がスポーツとして体系化したのが judo（柔道）です。" }
+    ],
+    "quiz": [
+      { "q": "___ is a martial art that uses an opponent's force against them.（柔術は相手の力を逆に利用する武術だ）", "A": "Jujitsu", "B": "Jam", "C": "Jar", "D": "Jaw", "correct": "A" },
+      { "q": "jujitsu から発展した武道は？", "A": "柔道", "B": "テニス", "C": "水泳", "D": "野球", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jive",
+    "pron": "dʒaɪv",
+    "kana": "ジャイブ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "20世紀アメリカ英語（起源不明）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "音楽・口語"],
+    "meaning_main": "ジャイブ（軽快なスウィングダンス）／(米俗)たわ言",
+    "description": "jive は「ジャイブ」を表す名詞。スウィングジャズに合わせて踊る軽快なダンスや、そのリズミカルな音楽を指します。また、アメリカの俗語で「たわ言・でたらめな話」の意味や、動詞で「(米)一致する・調子を合わせる」の意味でも使われます。",
+    "keywords": ["jive 意味", "jive 発音", "ジャイブ ダンス", "jive たわ言", "jive 例文"],
+    "meanings": [
+      { "hinshi": "【名】ジャイブ", "note": "スウィングに合わせて踊る軽快なダンス・音楽。" },
+      { "hinshi": "【名】(米俗)たわ言・でたらめ", "note": "中身のないでまかせな話。" },
+      { "hinshi": "【動】(米)調子を合わせる・一致する", "note": "jibe と同様の用法。" }
+    ],
+    "usages": [
+      { "title": "① ジャイブ（ダンス）", "desc": "軽快な踊り。", "example_en": "They danced the jive to swing music.", "example_ja": "彼らはスウィング音楽でジャイブを踊った。" },
+      { "title": "② (米俗)たわ言", "desc": "でたらめな話。", "example_en": "Don't give me that jive.", "example_ja": "そんなたわ言はやめてくれ。" },
+      { "title": "③ 一致する（動詞）", "desc": "調子が合う。", "example_en": "Their stories don't jive.", "example_ja": "彼らの話は食い違っている。" }
+    ],
+    "warn": ["ダンス・音楽の意味と、俗語「たわ言」の意味がある。", "jibe（一致する）と混同されることもある口語。"],
+    "etym_note": "20世紀初めのアメリカ英語、特にジャズの世界で生まれた語で、はっきりした語源はわかっていません。ジャズのスラングから、ダンス・音楽・たわ言など複数の意味が生まれました。",
+    "etym_chain": [
+      { "node": "jive", "sub": "ジャズのスラング(起源不明)", "era": "20世紀初めアメリカ英語" },
+      { "node": "jive", "sub": "ジャイブ・たわ言", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "dance the jive", "ja": "ジャイブを踊る" },
+      { "en": "jive music", "ja": "ジャイブの音楽" },
+      { "en": "that's all jive", "ja": "そんなのは全部たわ言だ" },
+      { "en": "jive talk", "ja": "でたらめな話" },
+      { "en": "don't jive me", "ja": "でたらめを言うな" },
+      { "en": "a jive dancer", "ja": "ジャイブの踊り手" }
+    ],
+    "related": [
+      { "en": "swing", "ja": "スウィング" },
+      { "en": "jitterbug", "ja": "ジルバ" },
+      { "en": "dance", "ja": "踊り" },
+      { "en": "nonsense", "ja": "たわ言・ばかげたこと" }
+    ],
+    "faq": [
+      { "q": "jive とは何ですか？", "a": "スウィングジャズに合わせて踊る軽快なダンス「ジャイブ」や、その音楽を指します。また、アメリカの俗語で「たわ言・でたらめな話」の意味もあります。" },
+      { "q": "jive の俗語の意味は？", "a": "「たわ言・でたらめ・中身のないでまかせな話」という意味です。Don't give me that jive.（そんなでたらめはやめて）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "In the 1940s, couples loved to dance the ___.（1940年代、カップルはジャイブを踊るのが大好きだった）", "A": "jive", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jive の俗語の意味は？", "A": "たわ言・でたらめ", "B": "真実", "C": "命令", "D": "感謝", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jejune",
+    "pron": "dʒɪˈdʒuːn",
+    "kana": "ジジューン",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 jejunus（空腹の・不毛の)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "文語的"],
+    "meaning_main": "面白みのない／内容の乏しい／(考えが)未熟な",
+    "description": "jejune は「面白みのない・内容の乏しい」を表す形容詞。中身が薄くて退屈なものや、幼稚で未熟な考えを表します。ラテン語の「空腹の・不毛の」が語源で、「栄養のない＝中身のない」というイメージの、非常にかたい文語的な語です。",
+    "keywords": ["jejune 意味", "jejune 発音", "jejune 面白みのない", "jejune 未熟", "jejune 例文"],
+    "meanings": [
+      { "hinshi": "【形】面白みのない・内容の乏しい", "note": "中身が薄くて退屈な。" },
+      { "hinshi": "【形】(考えが)未熟な・幼稚な", "note": "浅はかで子どもっぽい。" }
+    ],
+    "usages": [
+      { "title": "① 内容の乏しい", "desc": "中身が薄い。", "example_en": "The essay was jejune and dull.", "example_ja": "その小論文は内容が乏しく退屈だった。" },
+      { "title": "② 未熟な・幼稚な", "desc": "浅はかな考え。", "example_en": "His arguments seemed jejune.", "example_ja": "彼の主張は幼稚に思えた。" },
+      { "title": "③ 退屈な・味気ない", "desc": "刺激がない。", "example_en": "The lecture was rather jejune.", "example_ja": "その講義はかなり味気なかった。" }
+    ],
+    "warn": ["非常にかたい文語的な語。日常では dull / naive が普通。", "発音は /dʒɪˈdʒuːn/。ラテン語「空腹の・不毛の」が語源。"],
+    "etym_note": "ラテン語 jejunus（空腹の・断食した・不毛の）に由来します。「栄養のない・満たされない」という意味から、「中身のない・内容の乏しい・未熟な」の意味に発展した文語的な語です。",
+    "etym_chain": [
+      { "node": "jejunus", "sub": "空腹の・不毛の", "era": "ラテン語" },
+      { "node": "jejune", "sub": "内容の乏しい", "era": "17世紀英語" },
+      { "node": "jejune", "sub": "面白みのない・未熟な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a jejune essay", "ja": "内容の乏しい小論文" },
+      { "en": "jejune ideas", "ja": "未熟な考え" },
+      { "en": "jejune and dull", "ja": "味気なく退屈な" },
+      { "en": "a jejune argument", "ja": "浅はかな主張" },
+      { "en": "seem jejune", "ja": "幼稚に思える" },
+      { "en": "jejune writing", "ja": "内容の薄い文章" }
+    ],
+    "related": [
+      { "en": "dull", "ja": "退屈な" },
+      { "en": "naive", "ja": "世間知らずの・素朴な" },
+      { "en": "immature", "ja": "未熟な" },
+      { "en": "insipid", "ja": "味気ない" }
+    ],
+    "faq": [
+      { "q": "jejune とはどんな意味ですか？", "a": "「面白みのない・内容の乏しい」、また「(考えが)未熟な・幼稚な」を表すかたい文語的な形容詞です。ラテン語の「空腹の・不毛の」が語源です。" },
+      { "q": "jejune はよく使う語ですか？", "a": "非常にかたい文語的な語で、日常会話ではまれです。dull（退屈な）や naive（未熟な）の方が普通です。" }
+    ],
+    "quiz": [
+      { "q": "The critic dismissed the novel as ___ and shallow.（批評家はその小説を内容が乏しく浅いと切り捨てた）", "A": "jejune", "B": "jealous", "C": "jumbo", "D": "jolly", "correct": "A" },
+      { "q": "jejune の意味に近いのは？", "A": "面白みのない・未熟な", "B": "深く豊かな", "C": "陽気な", "D": "巨大な", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jell",
+    "pron": "dʒel",
+    "kana": "ジェル",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "jelly（ゼリー）からの逆成",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR B2", "動作・比喩"],
+    "meaning_main": "ゼリー状に固まる／(考え・計画が)まとまる",
+    "description": "jell は「ゼリー状に固まる」を表す動詞。液体が冷えてゼリーのように固まることを指します。比喩的に「(考えや計画がはっきり)まとまる・形になる」、また「(集団が)うまくかみ合う」の意味でよく使われます。gel とも綴ります。",
+    "keywords": ["jell 意味", "jell 発音", "jell 固まる", "jell まとまる", "jell 例文"],
+    "meanings": [
+      { "hinshi": "【動】ゼリー状に固まる", "note": "液体が冷えて固まる。" },
+      { "hinshi": "【動】(考え・計画が)まとまる・形になる", "note": "はっきりした形になる。" },
+      { "hinshi": "【動】(集団が)うまくかみ合う", "note": "チームなどが調和する。" }
+    ],
+    "usages": [
+      { "title": "① ゼリー状に固まる", "desc": "冷えて固まる。", "example_en": "Put it in the fridge until it jells.", "example_ja": "固まるまで冷蔵庫に入れて。" },
+      { "title": "② 考えがまとまる（比喩）", "desc": "形になる。", "example_en": "My ideas started to jell.", "example_ja": "私の考えがまとまり始めた。" },
+      { "title": "③ チームがかみ合う", "desc": "調和する。", "example_en": "The team finally jelled.", "example_ja": "チームはついにうまくかみ合った。" }
+    ],
+    "warn": ["gel とも綴る。比喩の「まとまる・かみ合う」の意味が頻出。", "jelly（ゼリー）から逆にできた動詞。"],
+    "etym_note": "名詞 jelly（ゼリー）から逆にできた動詞（逆成）です。「ゼリーのように固まる」から、比喩的に「考えがまとまる・集団がかみ合う」の意味に広がりました。",
+    "etym_chain": [
+      { "node": "jelly", "sub": "ゼリー", "era": "中英語" },
+      { "node": "jell", "sub": "ゼリー状に固まる", "era": "19世紀アメリカ英語" },
+      { "node": "jell", "sub": "固まる・まとまる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "let it jell", "ja": "固まらせる" },
+      { "en": "ideas jell", "ja": "考えがまとまる" },
+      { "en": "the team jelled", "ja": "チームがかみ合った" },
+      { "en": "start to jell", "ja": "まとまり始める" },
+      { "en": "jell together", "ja": "うまくまとまる" },
+      { "en": "a plan jells", "ja": "計画が形になる" }
+    ],
+    "related": [
+      { "en": "gel", "ja": "固まる・ゲル" },
+      { "en": "set", "ja": "固まる" },
+      { "en": "solidify", "ja": "固まる" },
+      { "en": "come together", "ja": "まとまる" }
+    ],
+    "faq": [
+      { "q": "jell の比喩的な意味は？", "a": "「(考えや計画が)はっきりまとまる・形になる」、また「(チームなどが)うまくかみ合う・調和する」という意味で使われます。" },
+      { "q": "jell と gel の違いは？", "a": "同じ意味で、どちらの綴りも使われます。gel の方が「まとまる・かみ合う」の比喩でよく使われる傾向があります。" }
+    ],
+    "quiz": [
+      { "q": "After a few games, the new players began to ___ as a team.（数試合の後、新しい選手たちはチームとしてかみ合い始めた）", "A": "jell", "B": "jog", "C": "jump", "D": "join", "correct": "A" },
+      { "q": "jell の意味に近いのは？", "A": "固まる・まとまる", "B": "溶ける", "C": "壊れる", "D": "散らばる", "correct": "A" }
+    ]
+  },
+  {
+    "english": "joey",
+    "pron": "ˈdʒoʊi",
+    "kana": "ジョウイー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "オーストラリア英語（起源に諸説)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR B2", "動物"],
+    "meaning_main": "(カンガルー・コアラなどの)赤ちゃん",
+    "description": "joey は「(カンガルーやコアラなど有袋類の)赤ちゃん」を表す名詞。特にカンガルーの子どもを指します。生まれたばかりの joey は、母親のおなかの袋（pouch）の中で育ちます。オーストラリア英語から広まった語です。",
+    "keywords": ["joey 意味", "joey 発音", "joey カンガルー 赤ちゃん", "joey 有袋類", "joey 例文"],
+    "meanings": [
+      { "hinshi": "【名】(有袋類の)赤ちゃん", "note": "特にカンガルーの子ども。袋の中で育つ。" }
+    ],
+    "usages": [
+      { "title": "① カンガルーの赤ちゃん", "desc": "袋の中で育つ。", "example_en": "The joey peeked out of its mother's pouch.", "example_ja": "赤ちゃんカンガルーは母親の袋からのぞいた。" },
+      { "title": "② 有袋類の子", "desc": "コアラなども。", "example_en": "A baby koala is also called a joey.", "example_ja": "赤ちゃんコアラも joey と呼ばれる。" },
+      { "title": "③ 袋で育つ", "desc": "pouch の中。", "example_en": "The joey stays in the pouch for months.", "example_ja": "赤ちゃんは何か月も袋の中で過ごす。" }
+    ],
+    "warn": ["発音は /ˈdʒoʊi/。特にカンガルーの赤ちゃんを指す。", "人名 Joey（Joseph の愛称）と同じ綴り。"],
+    "etym_note": "オーストラリア英語で「小さいもの・若いもの」を指す語に由来するとされますが、はっきりしません。有袋類の赤ちゃんを指す語として定着しました。",
+    "etym_chain": [
+      { "node": "joey", "sub": "小さいもの(諸説)", "era": "19世紀オーストラリア英語" },
+      { "node": "joey", "sub": "有袋類の赤ちゃん", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a baby joey", "ja": "赤ちゃんカンガルー" },
+      { "en": "a joey in the pouch", "ja": "袋の中の赤ちゃん" },
+      { "en": "a kangaroo joey", "ja": "カンガルーの赤ちゃん" },
+      { "en": "a koala joey", "ja": "コアラの赤ちゃん" },
+      { "en": "the joey peeked out", "ja": "赤ちゃんがのぞいた" },
+      { "en": "raise a joey", "ja": "赤ちゃんを育てる" }
+    ],
+    "related": [
+      { "en": "kangaroo", "ja": "カンガルー" },
+      { "en": "pouch", "ja": "袋" },
+      { "en": "koala", "ja": "コアラ" },
+      { "en": "Australia", "ja": "オーストラリア" }
+    ],
+    "faq": [
+      { "q": "joey とは何ですか？", "a": "カンガルーやコアラなど有袋類の赤ちゃんを指す語です。特にカンガルーの子どもを指し、生まれたばかりの joey は母親のおなかの袋（pouch）の中で育ちます。" },
+      { "q": "joey はカンガルー以外にも使いますか？", "a": "はい。コアラやワラビーなど、他の有袋類の赤ちゃんにも使われます。" }
+    ],
+    "quiz": [
+      { "q": "A baby kangaroo, called a ___, lives in its mother's pouch.（赤ちゃんカンガルーはジョーイと呼ばれ、母親の袋の中で暮らす）", "A": "joey", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "joey が指すのは？", "A": "有袋類の赤ちゃん", "B": "大人のライオン", "C": "鳥の卵", "D": "魚", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jockstrap",
+    "pron": "ˈdʒɒkstræp",
+    "kana": "ジョックストラップ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "jock（運動選手の俗語）＋ strap（ひも)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "スポーツ・衣類"],
+    "meaning_main": "(男性運動選手用の)サポーター／局部保護具",
+    "description": "jockstrap は「(男性運動選手用の)サポーター」を表す名詞。スポーツの際に男性の局部を支え、保護するための下着・防具です。特に接触の多いスポーツで、けがを防ぐために着用されます。jock（運動選手の俗語）＋ strap（ひも）でできた語です。",
+    "keywords": ["jockstrap 意味", "jockstrap 発音", "サポーター", "jockstrap スポーツ", "jockstrap 例文"],
+    "meanings": [
+      { "hinshi": "【名】(男性運動選手用の)サポーター・局部保護具", "note": "スポーツで局部を支え保護する下着・防具。" }
+    ],
+    "usages": [
+      { "title": "① 運動用サポーター", "desc": "局部を保護。", "example_en": "Players wear a jockstrap for protection.", "example_ja": "選手は保護のためサポーターを着ける。" },
+      { "title": "② 接触スポーツで", "desc": "けが防止。", "example_en": "A jockstrap is essential in contact sports.", "example_ja": "接触スポーツではサポーターが欠かせない。" },
+      { "title": "③ 保護カップを入れる", "desc": "防具として。", "example_en": "He put a cup in his jockstrap.", "example_ja": "彼はサポーターに保護カップを入れた。" }
+    ],
+    "warn": ["jock（運動選手の俗語）＋ strap（ひも）が語源。", "男性運動選手が局部を保護するために着ける下着・防具を指す。"],
+    "etym_note": "jock（運動選手・体育会系の男子を指す俗語）＋ strap（ひも・ベルト）でできた語です。19世紀末、自転車競技者などの保護具として作られたのが始まりです。",
+    "etym_chain": [
+      { "node": "jock + strap", "sub": "運動選手＋ひも", "era": "19世紀末英語" },
+      { "node": "jockstrap", "sub": "サポーター", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "wear a jockstrap", "ja": "サポーターを着ける" },
+      { "en": "an athletic jockstrap", "ja": "運動用サポーター" },
+      { "en": "a protective jockstrap", "ja": "保護用サポーター" },
+      { "en": "put on a jockstrap", "ja": "サポーターをつける" },
+      { "en": "a jockstrap with a cup", "ja": "カップ付きサポーター" },
+      { "en": "a sports jockstrap", "ja": "スポーツ用サポーター" }
+    ],
+    "related": [
+      { "en": "underwear", "ja": "下着" },
+      { "en": "protector", "ja": "保護具" },
+      { "en": "sport", "ja": "スポーツ" },
+      { "en": "athlete", "ja": "運動選手" }
+    ],
+    "faq": [
+      { "q": "jockstrap とは何ですか？", "a": "スポーツの際に男性の局部を支え、保護するための下着・防具「サポーター」です。特に接触の多いスポーツで、けがを防ぐために着用されます。" },
+      { "q": "jockstrap の語源は？", "a": "jock（運動選手を指す俗語）＋ strap（ひも）です。19世紀末に自転車競技者などの保護具として作られたのが始まりです。" }
+    ],
+    "quiz": [
+      { "q": "Athletes in contact sports wear a ___ for protection.（接触スポーツの選手は保護のためサポーターを着ける）", "A": "jockstrap", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jockstrap は jock ＋ ___ の複合語。空所は？", "A": "strap（ひも）", "B": "shirt", "C": "shoe", "D": "sock", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jerkin",
+    "pron": "ˈdʒɜːrkɪn",
+    "kana": "ジャーキン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "16世紀英語（起源不明）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "衣服・歴史"],
+    "meaning_main": "(昔の)そでなしの革の胴着",
+    "description": "jerkin は「(昔の)そでなしの革の胴着」を表す名詞。16〜17世紀ごろの男性が、シャツの上に着た、体にぴったりしたそでのない上着です。多くは革製で、頑丈で実用的でした。歴史・時代物の文脈で使われる古風な語です。",
+    "keywords": ["jerkin 意味", "jerkin 発音", "jerkin 胴着", "jerkin 革の上着", "jerkin 例文"],
+    "meanings": [
+      { "hinshi": "【名】(昔の)そでなしの革の胴着", "note": "16〜17世紀の男性がシャツの上に着た体にぴったりの上着。" }
+    ],
+    "usages": [
+      { "title": "① 革の胴着", "desc": "昔の上着。", "example_en": "The knight wore a leather jerkin.", "example_ja": "その騎士は革の胴着を着ていた。" },
+      { "title": "② シャツの上に着る", "desc": "そでなし。", "example_en": "A jerkin was worn over a shirt.", "example_ja": "胴着はシャツの上に着られた。" },
+      { "title": "③ 時代物の衣装", "desc": "歴史的な服。", "example_en": "Actors in the play wore jerkins.", "example_ja": "劇の俳優たちは胴着を着ていた。" }
+    ],
+    "warn": ["発音は /ˈdʒɜːrkɪn/。歴史的・時代物の衣服を指す古風な語。", "gherkin（小さいきゅうり・ピクルス）とは別語。"],
+    "etym_note": "16世紀に現れた語で、はっきりした語源はわかっていません。オランダ語との関係が指摘されています。当時の男性の実用的な革の胴着を指しました。",
+    "etym_chain": [
+      { "node": "jerkin", "sub": "革の胴着(起源不明)", "era": "16世紀英語" },
+      { "node": "jerkin", "sub": "そでなしの革の胴着", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a leather jerkin", "ja": "革の胴着" },
+      { "en": "wear a jerkin", "ja": "胴着を着る" },
+      { "en": "a sleeveless jerkin", "ja": "そでなしの胴着" },
+      { "en": "a buff jerkin", "ja": "なめし革の胴着" },
+      { "en": "a soldier's jerkin", "ja": "兵士の胴着" },
+      { "en": "an old jerkin", "ja": "古い胴着" }
+    ],
+    "related": [
+      { "en": "vest", "ja": "ベスト・胴着" },
+      { "en": "jacket", "ja": "上着" },
+      { "en": "leather", "ja": "革" },
+      { "en": "tunic", "ja": "チュニック" }
+    ],
+    "faq": [
+      { "q": "jerkin とはどんな服ですか？", "a": "16〜17世紀ごろの男性が、シャツの上に着た、体にぴったりしたそでのない上着です。多くは革製で頑丈でした。歴史・時代物の文脈で使われる古風な語です。" },
+      { "q": "jerkin と gherkin は関係がありますか？", "a": "いいえ、別の語です。jerkin は「革の胴着」、gherkin は「ピクルス用の小さいきゅうり」で、意味も語源も異なります。" }
+    ],
+    "quiz": [
+      { "q": "The medieval soldier wore a tough leather ___.（中世の兵士は丈夫な革の胴着を着ていた）", "A": "jerkin", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jerkin はどんな衣服？", "A": "そでなしの革の胴着", "B": "帽子", "C": "靴", "D": "手袋", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jenny",
+    "pron": "ˈdʒeni",
+    "kana": "ジェニー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "女性名 Jenny（機械・雌の動物に転用)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "歴史・動物"],
+    "meaning_main": "紡績機（spinning jenny）／雌のロバ",
+    "description": "jenny は主に2つの意味があります。「紡績機（spinning jenny）」は、18世紀の産業革命で綿糸を大量に紡いだ機械です。また「雌のロバ・雌の動物」を指す語でもあります（雄ロバは jack）。もとは女性名 Jenny が機械や動物に転用されたものです。",
+    "keywords": ["jenny 意味", "jenny 発音", "spinning jenny 紡績機", "jenny 雌ロバ", "jenny 例文"],
+    "meanings": [
+      { "hinshi": "【名】紡績機", "note": "spinning jenny。産業革命期に糸を大量に紡いだ機械。" },
+      { "hinshi": "【名】雌のロバ・雌の動物", "note": "雄ロバは jack。" }
+    ],
+    "usages": [
+      { "title": "① spinning jenny（紡績機）", "desc": "産業革命の発明。", "example_en": "The spinning jenny made many threads at once.", "example_ja": "紡績機は一度にたくさんの糸を紡いだ。" },
+      { "title": "② 雌のロバ", "desc": "jack の対。", "example_en": "A jenny is a female donkey.", "example_ja": "ジェニーは雌のロバのことだ。" },
+      { "title": "③ 産業革命の象徴", "desc": "綿工業を発展させた。", "example_en": "The jenny changed the textile industry.", "example_ja": "紡績機は繊維産業を変えた。" }
+    ],
+    "warn": ["紡績機は spinning jenny の形で使う。雌ロバの意味では雄ロバ jack と対。", "女性名 Jenny が機械・動物に転用された語。"],
+    "etym_note": "女性名 Jenny（Jane や Jennifer の愛称）に由来し、機械や雌の動物に転用されました。spinning jenny（多軸紡績機）は18世紀にハーグリーブスが発明し、産業革命を推し進めました。",
+    "etym_chain": [
+      { "node": "Jenny", "sub": "女性名の愛称", "era": "近代英語" },
+      { "node": "jenny", "sub": "紡績機・雌ロバ", "era": "18世紀英語" },
+      { "node": "jenny", "sub": "紡績機・雌ロバ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "spinning jenny", "ja": "多軸紡績機" },
+      { "en": "a jenny donkey", "ja": "雌のロバ" },
+      { "en": "the invention of the jenny", "ja": "紡績機の発明" },
+      { "en": "jack and jenny", "ja": "雄ロバと雌ロバ" },
+      { "en": "operate a jenny", "ja": "紡績機を動かす" },
+      { "en": "a jenny wren", "ja": "雌のミソサザイ" }
+    ],
+    "related": [
+      { "en": "spinning", "ja": "紡績・糸紡ぎ" },
+      { "en": "donkey", "ja": "ロバ" },
+      { "en": "machine", "ja": "機械" },
+      { "en": "textile", "ja": "織物・繊維" }
+    ],
+    "faq": [
+      { "q": "spinning jenny とは何ですか？", "a": "18世紀の産業革命期に発明された、綿糸を一度に大量に紡げる紡績機です。繊維産業を大きく発展させました。" },
+      { "q": "jenny には動物の意味もありますか？", "a": "はい。「雌のロバ・雌の動物」を指す語でもあります。雄のロバは jack（ジャック）と言います。" }
+    ],
+    "quiz": [
+      { "q": "The spinning ___ helped spark the Industrial Revolution.（紡績機は産業革命の火付け役となった）", "A": "jenny", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "雌のロバを表すのは？", "A": "jenny", "B": "jack", "C": "joey", "D": "jockey", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jeroboam",
+    "pron": "ˌdʒerəˈboʊəm",
+    "kana": "ジェロボアム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "聖書の王ヤロブアム（Jeroboam）の名より",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "飲食・文化"],
+    "meaning_main": "ジェロボアム（大型のワイン・シャンパンびん）",
+    "description": "jeroboam は「ジェロボアム」を表す名詞。標準サイズの数本分にあたる、大型のワインやシャンパンのびんを指します。シャンパンでは通常のボトル4本分（3リットル）ほどです。旧約聖書に登場する王ヤロブアムの名にちなんで名づけられました。",
+    "keywords": ["jeroboam 意味", "jeroboam 発音", "ジェロボアム", "jeroboam 大型ボトル", "jeroboam 例文"],
+    "meanings": [
+      { "hinshi": "【名】ジェロボアム", "note": "標準の数本分にあたる大型のワイン・シャンパンびん。" }
+    ],
+    "usages": [
+      { "title": "① 大型のワインびん", "desc": "標準の数本分。", "example_en": "They opened a jeroboam of champagne.", "example_ja": "彼らはジェロボアムのシャンパンを開けた。" },
+      { "title": "② 祝宴で使う", "desc": "大人数向け。", "example_en": "A jeroboam is perfect for a big celebration.", "example_ja": "ジェロボアムは大きな祝宴にぴったりだ。" },
+      { "title": "③ 容量", "desc": "シャンパンで約3L。", "example_en": "A champagne jeroboam holds about three liters.", "example_ja": "シャンパンのジェロボアムは約3リットル入る。" }
+    ],
+    "warn": ["発音は /ˌdʒerəˈboʊəm/。大型のワイン・シャンパンびんを指す。", "聖書の王ヤロブアムの名に由来。大型ボトルには聖書の人物名が付く伝統がある。"],
+    "etym_note": "旧約聖書に登場するイスラエルの王ヤロブアム（Jeroboam）の名にちなみます。「勇者」を意味する名で、大型のワインボトルには聖書の力ある人物の名を付ける伝統があります。",
+    "etym_chain": [
+      { "node": "Jeroboam", "sub": "聖書の王の名", "era": "ヘブライ語・聖書" },
+      { "node": "jeroboam", "sub": "大型ワインびん", "era": "19世紀英語" },
+      { "node": "jeroboam", "sub": "ジェロボアム", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a jeroboam of champagne", "ja": "シャンパンのジェロボアム" },
+      { "en": "a jeroboam of wine", "ja": "ワインのジェロボアム" },
+      { "en": "open a jeroboam", "ja": "ジェロボアムを開ける" },
+      { "en": "a giant jeroboam", "ja": "巨大なジェロボアム" },
+      { "en": "serve from a jeroboam", "ja": "ジェロボアムから注ぐ" },
+      { "en": "a magnum and a jeroboam", "ja": "マグナムとジェロボアム" }
+    ],
+    "related": [
+      { "en": "magnum", "ja": "マグナム(大型びん)" },
+      { "en": "bottle", "ja": "びん" },
+      { "en": "champagne", "ja": "シャンパン" },
+      { "en": "wine", "ja": "ワイン" }
+    ],
+    "faq": [
+      { "q": "jeroboam とは何ですか？", "a": "標準サイズの数本分にあたる、大型のワインやシャンパンのびんです。シャンパンでは通常のボトル4本分（約3リットル）ほどです。旧約聖書の王ヤロブアムの名にちなみます。" },
+      { "q": "なぜ聖書の名前が付いているのですか？", "a": "大型のワインボトルには、jeroboam・methuselah・balthazar など、聖書に登場する力ある人物の名を付ける伝統があるためです。" }
+    ],
+    "quiz": [
+      { "q": "To celebrate, they ordered a huge ___ of champagne.（お祝いに、彼らは巨大なジェロボアムのシャンパンを注文した）", "A": "jeroboam", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jeroboam の名前の由来は？", "A": "聖書の王の名", "B": "地名", "C": "発明者の名", "D": "花の名", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jollity",
+    "pron": "ˈdʒɒləti",
+    "kana": "ジョリティ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "jolly（陽気な）＋ -ity（名詞語尾)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "感情"],
+    "meaning_main": "陽気さ／楽しさ／お祭り騒ぎ",
+    "description": "jollity は「陽気さ・楽しさ」を表す名詞。みんなで笑い、楽しくにぎやかに過ごす様子や、その陽気な雰囲気を指します。形容詞 jolly（陽気な）＋ -ity でできた、やや文語的な語です。祝祭やパーティーの浮かれた楽しさを表します。",
+    "keywords": ["jollity 意味", "jollity 発音", "jollity 陽気さ", "jollity 楽しさ", "jollity 例文"],
+    "meanings": [
+      { "hinshi": "【名】陽気さ・楽しさ・お祭り騒ぎ", "note": "にぎやかで楽しい様子・雰囲気。" }
+    ],
+    "usages": [
+      { "title": "① 陽気さ・楽しさ", "desc": "にぎやかな喜び。", "example_en": "The party was full of jollity.", "example_ja": "パーティーは陽気さに満ちていた。" },
+      { "title": "② お祭り騒ぎ", "desc": "浮かれた雰囲気。", "example_en": "There was much jollity at the feast.", "example_ja": "宴には大いなる楽しさがあった。" },
+      { "title": "③ 笑いと歌", "desc": "楽しいひととき。", "example_en": "Songs and jollity filled the hall.", "example_ja": "歌と陽気さがホールを満たした。" }
+    ],
+    "warn": ["やや文語的な語。jolly（陽気な）＋ -ity の名詞。", "にぎやかで浮かれた楽しさを表す。"],
+    "etym_note": "形容詞 jolly（陽気な）に、状態を表す接尾辞 -ity が付いた名詞です。古フランス語由来の jolly（もとは jolif＝陽気な）から来ています。",
+    "etym_chain": [
+      { "node": "jolly + -ity", "sub": "陽気な＋状態", "era": "中英語" },
+      { "node": "jollity", "sub": "陽気さ", "era": "近代英語" },
+      { "node": "jollity", "sub": "陽気さ・楽しさ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "full of jollity", "ja": "陽気さに満ちて" },
+      { "en": "a night of jollity", "ja": "楽しい一夜" },
+      { "en": "festive jollity", "ja": "祝祭の陽気さ" },
+      { "en": "songs and jollity", "ja": "歌と陽気さ" },
+      { "en": "much jollity", "ja": "大いなる楽しさ" },
+      { "en": "an air of jollity", "ja": "陽気な雰囲気" }
+    ],
+    "related": [
+      { "en": "jolly", "ja": "陽気な" },
+      { "en": "merriment", "ja": "陽気・浮かれ騒ぎ" },
+      { "en": "cheer", "ja": "陽気・喝采" },
+      { "en": "festivity", "ja": "祝祭の楽しさ" }
+    ],
+    "faq": [
+      { "q": "jollity とはどんな意味ですか？", "a": "みんなで笑い、楽しくにぎやかに過ごす「陽気さ・楽しさ・お祭り騒ぎ」を表す名詞です。祝祭やパーティーの浮かれた雰囲気を指します。" },
+      { "q": "jollity の形容詞は？", "a": "jolly（陽気な・楽しい）です。jollity は jolly ＋ -ity でできた名詞形です。" }
+    ],
+    "quiz": [
+      { "q": "The holiday feast was filled with music and ___.（祝日の宴は音楽と陽気さに満ちていた）", "A": "jollity", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jollity は jolly ＋ ___ の名詞。空所は？", "A": "-ity", "B": "-ness", "C": "-ful", "D": "-ly", "correct": "A" }
+    ]
+  }
+]

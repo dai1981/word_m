@@ -1,0 +1,508 @@
+[
+  {
+    "english": "jib",
+    "pron": "dʒɪb",
+    "kana": "ジブ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "英語 jib（船首の三角帆)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR B2", "船・機械"],
+    "meaning_main": "(船首の)三角帆／(クレーンの)腕",
+    "description": "jib は「(船首の)三角帆」を表す名詞。帆船の前方に張る三角形の帆を指します。また、クレーンの水平に突き出た「腕（ジブ）」の意味でもよく使われます。the cut of one's jib（人の見た目・様子）という古い表現でも知られます。",
+    "keywords": ["jib 意味", "jib 発音", "jib 三角帆", "jib クレーン", "jib 例文"],
+    "meanings": [
+      { "hinshi": "【名】(船首の)三角帆", "note": "帆船の前方に張る三角形の帆。" },
+      { "hinshi": "【名】(クレーンの)腕・ジブ", "note": "水平に突き出た腕。" }
+    ],
+    "usages": [
+      { "title": "① 三角帆（船）", "desc": "船首の帆。", "example_en": "The sailors raised the jib.", "example_ja": "船員たちは三角帆を張った。" },
+      { "title": "② クレーンの腕", "desc": "水平に伸びる部分。", "example_en": "The crane's jib swung around.", "example_ja": "クレーンの腕が旋回した。" },
+      { "title": "③ the cut of one's jib", "desc": "人の見た目・様子。", "example_en": "I like the cut of his jib.", "example_ja": "彼の様子（人となり）が気に入った。" }
+    ],
+    "warn": ["発音は /dʒɪb/。船の三角帆、またはクレーンの腕を指す。", "the cut of one's jib は「人の見た目・様子」を表す古い慣用句。"],
+    "etym_note": "17世紀ごろに現れた航海用語で、船首に張る三角帆を指しました。この帆の形や向きで船の様子が分かることから、「人の様子」の比喩にも使われました。",
+    "etym_chain": [
+      { "node": "jib", "sub": "船首の三角帆", "era": "17世紀英語" },
+      { "node": "jib", "sub": "三角帆・クレーンの腕", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "raise the jib", "ja": "三角帆を張る" },
+      { "en": "a crane jib", "ja": "クレーンの腕" },
+      { "en": "the cut of one's jib", "ja": "人の見た目・様子" },
+      { "en": "trim the jib", "ja": "三角帆を調整する" },
+      { "en": "a jib sail", "ja": "ジブ帆" },
+      { "en": "the jib of the crane", "ja": "クレーンのジブ" }
+    ],
+    "related": [
+      { "en": "sail", "ja": "帆" },
+      { "en": "mast", "ja": "帆柱" },
+      { "en": "crane", "ja": "クレーン" },
+      { "en": "boom", "ja": "帆げた・腕" }
+    ],
+    "faq": [
+      { "q": "jib とは何ですか？", "a": "帆船の船首に張る三角形の帆のことです。また、クレーンの水平に突き出た「腕（ジブ）」の意味でも使われます。" },
+      { "q": "the cut of one's jib とは？", "a": "「人の見た目・様子・人となり」を表す古い慣用表現です。帆（jib）の形で船が見分けられたことに由来します。" }
+    ],
+    "quiz": [
+      { "q": "The crew hoisted the ___ at the front of the boat.（船員は船の前方で三角帆を張った）", "A": "jib", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jib が指すものは？", "A": "船の三角帆・クレーンの腕", "B": "エンジン", "C": "いかり", "D": "甲板", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jibe",
+    "pron": "dʒaɪb",
+    "kana": "ジャイブ",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "英語 jibe（起源不明）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "頻出語"],
+    "meaning_main": "(米)一致する／あざける／皮肉",
+    "description": "jibe には主に2つの意味があります。アメリカ英語では「(事実などと)一致する・つじつまが合う」を表す動詞、そして「あざける・皮肉を言う」という動詞、また名詞で「皮肉・あてこすり」を表します。gibe と綴られることもあります。",
+    "keywords": ["jibe 意味", "jibe 発音", "jibe 一致する", "jibe 皮肉", "jibe 例文"],
+    "meanings": [
+      { "hinshi": "【動】(米)一致する・つじつまが合う", "note": "jibe with ~（〜と合う）。" },
+      { "hinshi": "【動】あざける・皮肉を言う", "note": "gibe とも綴る。" },
+      { "hinshi": "【名】皮肉・あてこすり", "note": "ばかにする言葉。" }
+    ],
+    "usages": [
+      { "title": "① 一致する (jibe with ~)", "desc": "米英語。つじつまが合う。", "example_en": "His story doesn't jibe with the facts.", "example_ja": "彼の話は事実と一致しない。" },
+      { "title": "② あざける・皮肉を言う", "desc": "ばかにする。", "example_en": "She jibed at his mistake.", "example_ja": "彼女は彼のミスをあざけった。" },
+      { "title": "③ 皮肉（名詞）", "desc": "あてこすり。", "example_en": "He made a cruel jibe.", "example_ja": "彼は残酷な皮肉を言った。" }
+    ],
+    "warn": ["「一致する」の意味は主にアメリカ英語（jibe with ~）。", "「あざける」の意味は gibe とも綴る。文脈で意味を判断する。"],
+    "etym_note": "はっきりした語源はわかっていません。「あざける」の意味は16世紀ごろから、「一致する」の意味は主にアメリカ英語で使われるようになりました。同じ綴りで別系統の意味を持ちます。",
+    "etym_chain": [
+      { "node": "jibe", "sub": "あざける/一致する(起源不明)", "era": "16-19世紀英語" },
+      { "node": "jibe", "sub": "一致する・皮肉", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "jibe with the facts", "ja": "事実と一致する" },
+      { "en": "not jibe with", "ja": "〜と食い違う" },
+      { "en": "a cruel jibe", "ja": "残酷な皮肉" },
+      { "en": "make a jibe", "ja": "皮肉を言う" },
+      { "en": "jibe at", "ja": "〜をあざける" },
+      { "en": "a cheap jibe", "ja": "安っぽいあてこすり" }
+    ],
+    "related": [
+      { "en": "match", "ja": "一致する" },
+      { "en": "agree", "ja": "一致する" },
+      { "en": "mock", "ja": "あざける" },
+      { "en": "taunt", "ja": "ののしる" }
+    ],
+    "faq": [
+      { "q": "jibe with ~ とはどんな意味ですか？", "a": "主にアメリカ英語で「(事実や別の話と)一致する・つじつまが合う」という意味です。His account jibes with hers.（彼の説明は彼女のと一致する）のように使います。" },
+      { "q": "jibe と gibe の違いは？", "a": "「あざける・皮肉」の意味では jibe / gibe どちらの綴りも使われます。「一致する」の意味は jibe を使います。" }
+    ],
+    "quiz": [
+      { "q": "His explanation doesn't ___ with what we saw.（彼の説明は私たちが見たことと一致しない）", "A": "jibe", "B": "jog", "C": "jump", "D": "join", "correct": "A" },
+      { "q": "jibe with ~ の意味は？", "A": "〜と一致する", "B": "〜を捨てる", "C": "〜を作る", "D": "〜を数える", "correct": "A" }
+    ]
+  },
+  {
+    "english": "joist",
+    "pron": "dʒɔɪst",
+    "kana": "ジョイスト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 giste（横たわるもの)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "建築"],
+    "meaning_main": "根太（ねだ）／(床・天井を支える)横木",
+    "description": "joist は「根太（ねだ）」を表す名詞。床板や天井板を下から支えるために、水平に渡された木や鉄の横木を指します。建物の構造で、床や天井の重さを支える重要な部材です。ふつう複数並べて使われます。",
+    "keywords": ["joist 意味", "joist 発音", "joist 根太", "joist 横木", "joist 例文"],
+    "meanings": [
+      { "hinshi": "【名】根太・横木", "note": "床板や天井板を支える水平の横木。" }
+    ],
+    "usages": [
+      { "title": "① 根太（床の支え）", "desc": "床板を下から支える。", "example_en": "The floor is supported by wooden joists.", "example_ja": "床は木の根太で支えられている。" },
+      { "title": "② 天井の横木", "desc": "天井板を支える。", "example_en": "The ceiling joists run across the room.", "example_ja": "天井の横木が部屋を横切っている。" },
+      { "title": "③ 複数並べて使う", "desc": "等間隔に渡す。", "example_en": "The joists are spaced evenly apart.", "example_ja": "根太は等間隔に配置されている。" }
+    ],
+    "warn": ["発音は /dʒɔɪst/。床・天井を支える水平の横木を指す建築用語。", "柱(post)は垂直、joist(根太)は水平。"],
+    "etym_note": "古フランス語 giste（横たわるもの・支えの梁）に由来し、ラテン語 jacere（横たわる）にさかのぼります。「水平に横たえて支える木」を意味します。",
+    "etym_chain": [
+      { "node": "giste", "sub": "横たわるもの", "era": "古フランス語" },
+      { "node": "joist", "sub": "根太", "era": "中英語" },
+      { "node": "joist", "sub": "根太・横木", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "floor joists", "ja": "床の根太" },
+      { "en": "ceiling joists", "ja": "天井の横木" },
+      { "en": "wooden joists", "ja": "木の根太" },
+      { "en": "steel joists", "ja": "鉄骨の横木" },
+      { "en": "support the joists", "ja": "根太を支える" },
+      { "en": "between the joists", "ja": "根太の間に" }
+    ],
+    "related": [
+      { "en": "beam", "ja": "梁(はり)" },
+      { "en": "floor", "ja": "床" },
+      { "en": "ceiling", "ja": "天井" },
+      { "en": "support", "ja": "支える" }
+    ],
+    "faq": [
+      { "q": "joist とは何ですか？", "a": "床板や天井板を下から支えるために、水平に渡された木や鉄の横木「根太（ねだ）」です。建物の床や天井の重さを支える重要な部材です。" },
+      { "q": "joist と beam の違いは？", "a": "beam（梁）はより大きく建物全体を支える主要な水平材、joist（根太）は床や天井を直接支えるために多数並べる細めの横木です。" }
+    ],
+    "quiz": [
+      { "q": "The wooden floor rests on strong ___.（木の床は丈夫な根太の上に載っている）", "A": "joists", "B": "jams", "C": "jars", "D": "jaws", "correct": "A" },
+      { "q": "joist が支えるのは？", "A": "床や天井", "B": "屋根の瓦だけ", "C": "窓ガラス", "D": "ドア", "correct": "A" }
+    ]
+  },
+  {
+    "english": "journeyman",
+    "pron": "ˈdʒɜːrnimən",
+    "kana": "ジャーニマン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "journey（一日分の仕事）＋ man（人)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "職業"],
+    "meaning_main": "一人前の職人／(比喩)そつのない熟練者",
+    "description": "journeyman は「一人前の職人」を表す名詞。徒弟（apprentice）の修業を終え、親方（master）の下で一人前に働けるようになった職人を指します。比喩的に「特別に優れてはいないが、そつなくこなす熟練者」の意味でも使われます。",
+    "keywords": ["journeyman 意味", "journeyman 発音", "journeyman 職人", "journeyman 熟練", "journeyman 例文"],
+    "meanings": [
+      { "hinshi": "【名】一人前の職人", "note": "徒弟を終え一人前に働ける職人。" },
+      { "hinshi": "【名】(比喩)そつのない熟練者", "note": "並だが安定した実力の人。" }
+    ],
+    "usages": [
+      { "title": "① 一人前の職人", "desc": "徒弟と親方の間。", "example_en": "He became a journeyman carpenter.", "example_ja": "彼は一人前の大工になった。" },
+      { "title": "② そつのない熟練者（比喩）", "desc": "並だが安定。", "example_en": "She is a solid, journeyman actor.", "example_ja": "彼女は堅実でそつのない俳優だ。" },
+      { "title": "③ 経験ある働き手", "desc": "信頼できる実力。", "example_en": "The team needs journeyman players.", "example_ja": "チームには堅実な選手が必要だ。" }
+    ],
+    "warn": ["journey は「一日分の仕事」の意味（日給で働く職人）で、旅とは別。", "比喩では「特別ではないが堅実な」というニュアンス。"],
+    "etym_note": "journey（もとは「一日分の仕事・日給」の意味）＋ man（人）でできた語です。日給をもらって働く一人前の職人を指し、旅の journey とは意味の焦点が異なります。",
+    "etym_chain": [
+      { "node": "journee + man", "sub": "一日分の仕事＋人", "era": "中英語" },
+      { "node": "journeyman", "sub": "一人前の職人", "era": "近代英語" },
+      { "node": "journeyman", "sub": "職人・熟練者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a journeyman carpenter", "ja": "一人前の大工" },
+      { "en": "a journeyman electrician", "ja": "一人前の電気工" },
+      { "en": "a journeyman player", "ja": "堅実な選手" },
+      { "en": "journeyman work", "ja": "そつのない仕事" },
+      { "en": "apprentice and journeyman", "ja": "徒弟と一人前の職人" },
+      { "en": "a solid journeyman", "ja": "堅実な熟練者" }
+    ],
+    "related": [
+      { "en": "apprentice", "ja": "徒弟・見習い" },
+      { "en": "master", "ja": "親方・熟達者" },
+      { "en": "craftsman", "ja": "職人" },
+      { "en": "skilled", "ja": "熟練した" }
+    ],
+    "faq": [
+      { "q": "journeyman とはどんな人ですか？", "a": "徒弟（見習い）の修業を終え、一人前に働けるようになった職人です。比喩的に「特別に優れてはいないが、そつなくこなす堅実な熟練者」の意味でも使います。" },
+      { "q": "journeyman の journey は旅ですか？", "a": "いいえ。ここでの journey は古い意味の「一日分の仕事・日給」です。日給で働く一人前の職人を指し、旅とは意味が異なります。" }
+    ],
+    "quiz": [
+      { "q": "After his apprenticeship, he became a ___ carpenter.（見習いを終えて、彼は一人前の大工になった）", "A": "journeyman", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "journeyman の地位は？", "A": "徒弟と親方の間の一人前の職人", "B": "見習いを始めたばかり", "C": "職を持たない人", "D": "経営者", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jujube",
+    "pron": "ˈdʒuːdʒuːb",
+    "kana": "ジュジューブ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 zizyphon（ナツメ)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "植物・食"],
+    "meaning_main": "ナツメ（の実）／ナツメの木",
+    "description": "jujube は「ナツメ（棗）」を表す名詞。赤茶色の小さな実をつける木で、その実は生でも干しても食べられます。中国や中東で古くから親しまれ、漢方薬やお菓子にも使われます。ナツメ味のグミ菓子の名でもあります。",
+    "keywords": ["jujube 意味", "jujube 発音", "jujube ナツメ", "jujube 実", "jujube 例文"],
+    "meanings": [
+      { "hinshi": "【名】ナツメ（の実・木）", "note": "赤茶色の小さな実をつける木。実は食用・薬用。" }
+    ],
+    "usages": [
+      { "title": "① ナツメの実", "desc": "生でも干しても食べる。", "example_en": "Dried jujubes are sweet and chewy.", "example_ja": "干したナツメは甘くて歯ごたえがある。" },
+      { "title": "② 漢方・料理に", "desc": "薬用にも使う。", "example_en": "Jujube is used in Chinese medicine.", "example_ja": "ナツメは漢方薬に使われる。" },
+      { "title": "③ ナツメの木", "desc": "実のなる木。", "example_en": "A jujube tree grew in the garden.", "example_ja": "ナツメの木が庭に生えていた。" }
+    ],
+    "warn": ["発音は /ˈdʒuːdʒuːb/。ナツメの実・木を指す。", "ナツメ味のグミ菓子の名でもある。"],
+    "etym_note": "ギリシャ語 zizyphon（ナツメ）に由来し、ラテン語・フランス語を経て英語に入りました。中東・アジア原産のナツメの実を指す語です。",
+    "etym_chain": [
+      { "node": "zizyphon", "sub": "ナツメ", "era": "ギリシャ語" },
+      { "node": "jujube", "sub": "ナツメ", "era": "中英語" },
+      { "node": "jujube", "sub": "ナツメ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a jujube tree", "ja": "ナツメの木" },
+      { "en": "dried jujubes", "ja": "干しナツメ" },
+      { "en": "jujube fruit", "ja": "ナツメの実" },
+      { "en": "sweet jujubes", "ja": "甘いナツメ" },
+      { "en": "red jujubes", "ja": "赤いナツメ" },
+      { "en": "jujube tea", "ja": "ナツメ茶" }
+    ],
+    "related": [
+      { "en": "date", "ja": "ナツメヤシの実" },
+      { "en": "fruit", "ja": "果物" },
+      { "en": "tree", "ja": "木" },
+      { "en": "berry", "ja": "実・ベリー" }
+    ],
+    "faq": [
+      { "q": "jujube とは何ですか？", "a": "赤茶色の小さな実をつける木「ナツメ（棗）」です。実は生でも干しても食べられ、中国や中東で古くから親しまれ、漢方薬やお菓子にも使われます。" },
+      { "q": "jujube とデーツ（date）の違いは？", "a": "jujube（ナツメ）はクロウメモドキ科、date（ナツメヤシの実）はヤシ科で、別の植物です。名前は似ていますが異なる果実です。" }
+    ],
+    "quiz": [
+      { "q": "In Chinese cooking, dried ___ add sweetness to soups.（中国料理では干しナツメがスープに甘みを加える）", "A": "jujubes", "B": "jams", "C": "jars", "D": "jaws", "correct": "A" },
+      { "q": "jujube は何を指す？", "A": "ナツメの実・木", "B": "貝", "C": "魚", "D": "鳥", "correct": "A" }
+    ]
+  },
+  {
+    "english": "junket",
+    "pron": "ˈdʒʌŋkɪt",
+    "kana": "ジャンケット",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "イタリア語 giuncata（い草で作った乳菓子)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "社会・食"],
+    "meaning_main": "(公費の)物見遊山的な出張／乳菓子",
+    "description": "junket は主に「(公費で行く)物見遊山的な出張・視察旅行」を表す名詞。特に役人などが公費を使って行う、遊びを兼ねた旅行を指し、しばしば批判的なニュアンスを伴います。もとは牛乳を固めた甘いデザート（ジャンケット）を指す語でした。",
+    "keywords": ["junket 意味", "junket 発音", "junket 視察旅行", "junket 出張", "junket 例文"],
+    "meanings": [
+      { "hinshi": "【名】(公費の)物見遊山的な出張・視察旅行", "note": "公費で行う遊び半分の旅行。しばしば批判的。" },
+      { "hinshi": "【名】乳菓子（ジャンケット）", "note": "牛乳を固めた甘いデザート。" }
+    ],
+    "usages": [
+      { "title": "① 物見遊山的な出張", "desc": "公費の遊び旅行。", "example_en": "The officials were criticized for the expensive junket.", "example_ja": "役人たちは高額な物見遊山の出張を批判された。" },
+      { "title": "② 視察旅行", "desc": "遊びを兼ねた。", "example_en": "The trip was really just a junket.", "example_ja": "その旅は実際はただの遊山旅行だった。" },
+      { "title": "③ 乳菓子（本来の意味）", "desc": "甘いデザート。", "example_en": "Junket is a soft milk pudding.", "example_ja": "ジャンケットは柔らかいミルクプリンだ。" }
+    ],
+    "warn": ["「公費の物見遊山」の意味では批判的なニュアンスがある。", "発音は /ˈdʒʌŋkɪt/。もとは乳菓子の名。"],
+    "etym_note": "イタリア語 giuncata（イグサ＝い草の上で作った乳菓子）に由来します。もとは甘いデザートを指し、「ごちそう・宴会」から「(公費の)遊山旅行」の意味に発展しました。",
+    "etym_chain": [
+      { "node": "giuncata", "sub": "い草の乳菓子", "era": "イタリア語" },
+      { "node": "junket", "sub": "ごちそう・宴会", "era": "中英語" },
+      { "node": "junket", "sub": "物見遊山的な出張", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a political junket", "ja": "政治家の物見遊山旅行" },
+      { "en": "a press junket", "ja": "(映画などの)宣伝招待旅行" },
+      { "en": "go on a junket", "ja": "遊山旅行に行く" },
+      { "en": "an expensive junket", "ja": "高額な視察旅行" },
+      { "en": "a taxpayer-funded junket", "ja": "税金による物見遊山" },
+      { "en": "a luxury junket", "ja": "豪華な遊山旅行" }
+    ],
+    "related": [
+      { "en": "trip", "ja": "旅行" },
+      { "en": "excursion", "ja": "遠足・小旅行" },
+      { "en": "outing", "ja": "外出" },
+      { "en": "expense", "ja": "経費" }
+    ],
+    "faq": [
+      { "q": "junket とはどんな意味ですか？", "a": "主に、役人などが公費を使って行う、遊びを兼ねた「物見遊山的な出張・視察旅行」を指します。批判的なニュアンスを伴うことが多い語です。" },
+      { "q": "press junket とは？", "a": "映画会社などが、宣伝のために記者や評論家を招いて行う「宣伝招待旅行・取材イベント」のことです。" }
+    ],
+    "quiz": [
+      { "q": "The mayor was accused of taking an expensive ___ at public expense.（市長は公費で高額な物見遊山の出張をしたと非難された）", "A": "junket", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "junket の批判的な意味は？", "A": "公費の物見遊山的な出張", "B": "まじめな会議", "C": "無料の奉仕", "D": "厳しい訓練", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jurisprudence",
+    "pron": "ˌdʒʊərɪsˈpruːdəns",
+    "kana": "ジュリスプルーデンス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 jus（法）＋ prudentia（知識)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "法律・学問"],
+    "meaning_main": "法学／法理学／(ある分野の)判例・法体系",
+    "description": "jurisprudence は「法学・法理学」を表す名詞。法律そのものだけでなく、法の原理や理論を研究する学問を指します。また、ある分野で積み重ねられた「判例・法体系」の意味でも使われます。jus（法）＋ prudentia（知識・思慮）が語源です。",
+    "keywords": ["jurisprudence 意味", "jurisprudence 発音", "jurisprudence 法学", "jurisprudence 法理学", "jurisprudence 例文"],
+    "meanings": [
+      { "hinshi": "【名】法学・法理学", "note": "法の原理や理論を研究する学問。" },
+      { "hinshi": "【名】判例・法体系", "note": "ある分野で積み重ねられた法解釈。" }
+    ],
+    "usages": [
+      { "title": "① 法学・法理学", "desc": "法の理論の研究。", "example_en": "She studies jurisprudence at law school.", "example_ja": "彼女は法科大学院で法学を学んでいる。" },
+      { "title": "② 法の原理", "desc": "法哲学的な考察。", "example_en": "Jurisprudence asks what law really is.", "example_ja": "法理学は法とは何かを問う。" },
+      { "title": "③ 判例・法体系", "desc": "積み重ねた解釈。", "example_en": "This ruling shaped constitutional jurisprudence.", "example_ja": "この判決は憲法の法体系を形づくった。" }
+    ],
+    "warn": ["かたい学術語。jus（法）＋ prudentia（知識）が語源。", "law（法律)そのものより、法の『原理・理論』を研究する学問を指す。"],
+    "etym_note": "ラテン語 jus（法・権利）＋ prudentia（知識・思慮＝prudence）を組み合わせた jurisprudentia（法の知識）に由来します。justice や judge と同じ「法」の語源を持ちます。",
+    "etym_chain": [
+      { "node": "jus + prudentia", "sub": "法＋知識", "era": "ラテン語" },
+      { "node": "jurisprudence", "sub": "法学", "era": "近代英語" },
+      { "node": "jurisprudence", "sub": "法学・法理学", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "study jurisprudence", "ja": "法学を学ぶ" },
+      { "en": "legal jurisprudence", "ja": "法理学" },
+      { "en": "constitutional jurisprudence", "ja": "憲法の法体系" },
+      { "en": "medical jurisprudence", "ja": "法医学" },
+      { "en": "a school of jurisprudence", "ja": "法学の学派" },
+      { "en": "modern jurisprudence", "ja": "近代法学" }
+    ],
+    "related": [
+      { "en": "law", "ja": "法律" },
+      { "en": "justice", "ja": "正義" },
+      { "en": "legal", "ja": "法律の" },
+      { "en": "philosophy", "ja": "哲学" }
+    ],
+    "faq": [
+      { "q": "jurisprudence とは何ですか？", "a": "法律そのものだけでなく、法の原理や理論を研究する学問「法学・法理学」です。また、ある分野で積み重ねられた「判例・法体系」の意味でも使われます。" },
+      { "q": "jurisprudence の語源は？", "a": "ラテン語 jus（法）＋ prudentia（知識・思慮）で、「法の知識」を意味します。justice（正義）と同じ「法」の語源です。" }
+    ],
+    "quiz": [
+      { "q": "___ is the study of the theory and principles of law.（法理学は法の理論と原理の研究だ）", "A": "Jurisprudence", "B": "Jam", "C": "Jar", "D": "Jaw", "correct": "A" },
+      { "q": "jurisprudence と同じ語源の語は？", "A": "justice（正義）", "B": "juice（ジュース）", "C": "jungle（密林）", "D": "jacket（上着）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jingoism",
+    "pron": "ˈdʒɪŋɡoʊɪzəm",
+    "kana": "ジンゴイズム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "英語 by jingo（歌の文句）＋ -ism",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "政治・社会"],
+    "meaning_main": "好戦的愛国主義／過激な排外的愛国心",
+    "description": "jingoism は「好戦的愛国主義」を表す名詞。自国を過度に誇り、他国に対して攻撃的・排外的になる極端な愛国心を指します。否定的な語です。19世紀イギリスの流行歌の文句「by jingo」に由来する語です。",
+    "keywords": ["jingoism 意味", "jingoism 発音", "jingoism 好戦的愛国主義", "jingoism 排外", "jingoism 例文"],
+    "meanings": [
+      { "hinshi": "【名】好戦的愛国主義・排外的愛国心", "note": "他国に攻撃的になる極端な愛国心。否定的。" }
+    ],
+    "usages": [
+      { "title": "① 好戦的愛国主義", "desc": "攻撃的な愛国心。", "example_en": "The war was fueled by jingoism.", "example_ja": "その戦争は好戦的愛国主義にあおられた。" },
+      { "title": "② 排外的な風潮", "desc": "他国を敵視。", "example_en": "The speech was full of jingoism.", "example_ja": "その演説は排外的愛国心に満ちていた。" },
+      { "title": "③ 形容詞は jingoistic", "desc": "「好戦的愛国主義の」。", "example_en": "The newspaper took a jingoistic tone.", "example_ja": "その新聞は好戦的な論調をとった。" }
+    ],
+    "warn": ["否定的な語。健全な愛国心 patriotism とは区別される。", "形容詞は jingoistic。19世紀の流行歌が語源。"],
+    "etym_note": "1878年ごろのイギリスで、ロシアとの開戦をあおる流行歌の一節「by jingo（=誓って）」が使われたことに由来します。この歌を歌う好戦的な人々を jingo と呼び、その主義を jingoism と言うようになりました。",
+    "etym_chain": [
+      { "node": "by jingo", "sub": "歌の文句", "era": "19世紀イギリス" },
+      { "node": "jingoism", "sub": "好戦的愛国主義", "era": "19世紀英語" },
+      { "node": "jingoism", "sub": "好戦的愛国主義", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "wartime jingoism", "ja": "戦時の好戦的愛国主義" },
+      { "en": "fueled by jingoism", "ja": "排外的愛国心にあおられて" },
+      { "en": "jingoistic rhetoric", "ja": "好戦的な言説" },
+      { "en": "reject jingoism", "ja": "排外主義を拒む" },
+      { "en": "a wave of jingoism", "ja": "排外的愛国心の高まり" },
+      { "en": "nationalism and jingoism", "ja": "国粋主義と好戦的愛国心" }
+    ],
+    "related": [
+      { "en": "patriotism", "ja": "愛国心" },
+      { "en": "nationalism", "ja": "国粋主義" },
+      { "en": "chauvinism", "ja": "熱狂的愛国主義" },
+      { "en": "xenophobia", "ja": "外国人嫌い" }
+    ],
+    "faq": [
+      { "q": "jingoism とはどんな意味ですか？", "a": "自国を過度に誇り、他国に対して攻撃的・排外的になる極端な愛国心「好戦的愛国主義」です。否定的な語で、健全な愛国心 patriotism とは区別されます。" },
+      { "q": "jingoism の語源は？", "a": "19世紀イギリスの、開戦をあおる流行歌の一節「by jingo（誓って）」に由来します。この歌を歌う好戦的な人々にちなむ語です。" }
+    ],
+    "quiz": [
+      { "q": "The extreme ___ in the media pushed the country toward war.（メディアの過激な好戦的愛国主義が国を戦争へと駆り立てた）", "A": "jingoism", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jingoism のニュアンスは？", "A": "否定的（排外的で好戦的）", "B": "肯定的（穏やかな愛情）", "C": "中立", "D": "喜び", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jackknife",
+    "pron": "ˈdʒæknaɪf",
+    "kana": "ジャックナイフ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "jack（大型の）＋ knife（ナイフ)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "道具・動作"],
+    "meaning_main": "大型の折りたたみナイフ／(車が)くの字に折れる",
+    "description": "jackknife は「大型の折りたたみナイフ」を表す名詞、また「(連結トラックなどが)くの字に折れ曲がる」を表す動詞です。刃を柄に折りたたむナイフや、体を折り曲げる飛び込み（ジャックナイフ）を指します。knife の複数形と同じく、名詞の複数は jackknives。",
+    "keywords": ["jackknife 意味", "jackknife 発音", "jackknife 折りたたみナイフ", "jackknife 折れる", "jackknife 例文"],
+    "meanings": [
+      { "hinshi": "【名】大型の折りたたみナイフ", "note": "刃を柄に折りたためる大きめのナイフ。" },
+      { "hinshi": "【動】(連結車が)くの字に折れ曲がる", "note": "トレーラーなどが折れる事故。" },
+      { "hinshi": "【名】(飛び込みの)ジャックナイフ", "note": "体をくの字に折る飛び込み。" }
+    ],
+    "usages": [
+      { "title": "① 折りたたみナイフ", "desc": "刃をたためる。", "example_en": "He carried a jackknife for camping.", "example_ja": "彼はキャンプ用に折りたたみナイフを持っていた。" },
+      { "title": "② くの字に折れる（動詞）", "desc": "連結車の事故。", "example_en": "The truck jackknifed on the icy road.", "example_ja": "トラックは凍った道でくの字に折れた。" },
+      { "title": "③ 飛び込みのジャックナイフ", "desc": "体を折る。", "example_en": "She did a jackknife dive.", "example_ja": "彼女はジャックナイフの飛び込みをした。" }
+    ],
+    "warn": ["jack（大型の）＋ knife。名詞の複数は jackknives。先頭は発音するが knife の k は黙字。", "動詞は連結トラックが『くの字に折れる』事故に使う。"],
+    "etym_note": "jack（大型・頑丈を表す接頭的な語）＋ knife（ナイフ）でできた語です。刃を柄に折りたたむ大きめのナイフを指し、その折れ曲がる動きから「くの字に折れる」の動詞も生まれました。",
+    "etym_chain": [
+      { "node": "jack + knife", "sub": "大型＋ナイフ", "era": "18世紀英語" },
+      { "node": "jackknife", "sub": "折りたたみナイフ", "era": "近代英語" },
+      { "node": "jackknife", "sub": "折りたたみナイフ・折れ曲がる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a folding jackknife", "ja": "折りたたみナイフ" },
+      { "en": "the truck jackknifed", "ja": "トラックがくの字に折れた" },
+      { "en": "a jackknife dive", "ja": "ジャックナイフの飛び込み" },
+      { "en": "open a jackknife", "ja": "折りたたみナイフを開く" },
+      { "en": "jackknife on ice", "ja": "氷上でくの字に折れる" },
+      { "en": "a pocket jackknife", "ja": "ポケットナイフ" }
+    ],
+    "related": [
+      { "en": "knife", "ja": "ナイフ" },
+      { "en": "blade", "ja": "刃" },
+      { "en": "fold", "ja": "折りたたむ" },
+      { "en": "truck", "ja": "トラック" }
+    ],
+    "faq": [
+      { "q": "jackknife の動詞の意味は？", "a": "連結トラックやトレーラーが、運転席と荷台が「くの字に折れ曲がる」事故を起こすことです。凍結路などで起こります。" },
+      { "q": "jackknife の複数形は？", "a": "jackknives です。knife → knives と同じく、-fe が -ves に変わります。" }
+    ],
+    "quiz": [
+      { "q": "The trailer ___ on the slippery highway.（トレーラーは滑りやすい高速道路でくの字に折れた）", "A": "jackknifed", "B": "jammed", "C": "jogged", "D": "jumped", "correct": "A" },
+      { "q": "jackknife は jack ＋ ___ の複合語。空所は？", "A": "knife", "B": "knee", "C": "knock", "D": "knot", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jubilation",
+    "pron": "ˌdʒuːbɪˈleɪʃən",
+    "kana": "ジュビレイション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 jubilare（歓声をあげる)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "感情"],
+    "meaning_main": "歓喜／大喜び／歓声",
+    "description": "jubilation は「歓喜・大喜び」を表す名詞。勝利や成功などによる、はじけるような大きな喜びを指します。形容詞 jubilant（歓喜に沸く）の名詞形で、jubilee（記念祭）とも同じ語源です。しばしば大勢で喜びを分かち合う場面で使われます。",
+    "keywords": ["jubilation 意味", "jubilation 発音", "jubilation 歓喜", "jubilation 大喜び", "jubilation 例文"],
+    "meanings": [
+      { "hinshi": "【名】歓喜・大喜び・歓声", "note": "はじけるような大きな喜び。不可算。" }
+    ],
+    "usages": [
+      { "title": "① 歓喜", "desc": "大きな喜び。", "example_en": "There was jubilation in the streets.", "example_ja": "街は歓喜に包まれた。" },
+      { "title": "② 勝利の喜び", "desc": "喜びの爆発。", "example_en": "The win was greeted with jubilation.", "example_ja": "その勝利は歓喜で迎えられた。" },
+      { "title": "③ 喜びを分かち合う", "desc": "大勢での歓喜。", "example_en": "Scenes of jubilation followed the announcement.", "example_ja": "発表の後、歓喜の場面が続いた。" }
+    ],
+    "warn": ["原則不可算名詞。形容詞は jubilant（歓喜に沸く）。", "jubilee（記念祭）と同じ語源。"],
+    "etym_note": "ラテン語 jubilare（歓声をあげる・喜び叫ぶ）に由来します。jubilant（歓喜に沸く）や jubilee（記念祭）と同じ語根を持ち、大きな喜びを表します。",
+    "etym_chain": [
+      { "node": "jubilare", "sub": "歓声をあげる", "era": "ラテン語" },
+      { "node": "jubilation", "sub": "歓喜", "era": "中英語" },
+      { "node": "jubilation", "sub": "歓喜・大喜び", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "scenes of jubilation", "ja": "歓喜の場面" },
+      { "en": "with jubilation", "ja": "歓喜とともに" },
+      { "en": "wild jubilation", "ja": "熱狂的な歓喜" },
+      { "en": "cries of jubilation", "ja": "歓喜の叫び" },
+      { "en": "public jubilation", "ja": "民衆の歓喜" },
+      { "en": "a moment of jubilation", "ja": "歓喜の瞬間" }
+    ],
+    "related": [
+      { "en": "jubilant", "ja": "歓喜に沸く" },
+      { "en": "joy", "ja": "喜び" },
+      { "en": "celebration", "ja": "祝賀" },
+      { "en": "elation", "ja": "有頂天・大喜び" }
+    ],
+    "faq": [
+      { "q": "jubilation とはどんな意味ですか？", "a": "勝利や成功などによる、はじけるような大きな喜び「歓喜・大喜び」です。しばしば大勢で喜びを分かち合う場面で使われます。" },
+      { "q": "jubilation の形容詞は？", "a": "jubilant（歓喜に沸く・大喜びの）です。jubilee（記念祭）とも同じ語源を持ちます。" }
+    ],
+    "quiz": [
+      { "q": "There was great ___ when the team won the cup.（チームが優勝すると大きな歓喜が沸き起こった）", "A": "jubilation", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jubilation の形容詞形は？", "A": "jubilant", "B": "jubilee", "C": "jubilating", "D": "jubilous", "correct": "A" }
+    ]
+  }
+]

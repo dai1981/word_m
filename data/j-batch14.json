@@ -1,0 +1,501 @@
+[
+  {
+    "english": "jeopardy",
+    "pron": "ˈdʒepərdi",
+    "kana": "ジェパディ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 jeu parti（五分五分の勝負)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR B2", "頻出語"],
+    "meaning_main": "危険／危機／危うい状態",
+    "description": "jeopardy は「危険・危機」を表す名詞。大切なものが失われたり損なわれたりしそうな、危うい状態を指します。in jeopardy（危険にさらされて）の形で特に頻出します。原則不可算名詞で、ややかたい語です。",
+    "keywords": ["jeopardy 意味", "jeopardy 発音", "jeopardy 危険", "in jeopardy", "jeopardy 例文"],
+    "meanings": [
+      { "hinshi": "【名】危険・危機・危うい状態", "note": "大切なものが損なわれそうな状態。不可算。" }
+    ],
+    "usages": [
+      { "title": "① in jeopardy（危険にさらされて）", "desc": "最頻出の形。", "example_en": "His job is in jeopardy.", "example_ja": "彼の仕事は危うい状態にある。" },
+      { "title": "② 危機に陥る", "desc": "put ~ in jeopardy。", "example_en": "The scandal put the deal in jeopardy.", "example_ja": "そのスキャンダルは取引を危機にさらした。" },
+      { "title": "③ 命の危険", "desc": "深刻な危険。", "example_en": "Their lives were in jeopardy.", "example_ja": "彼らの命は危険にさらされていた。" }
+    ],
+    "warn": ["原則不可算名詞。in jeopardy（危険にさらされて）の形が最も一般的。", "動詞は jeopardize（危険にさらす）。"],
+    "etym_note": "古フランス語 jeu parti（jeu＝ゲーム＋parti＝分けられた＝「勝敗の分からない五分五分の勝負」）に由来します。勝敗が読めない危うい状況から「危険」の意味になりました。",
+    "etym_chain": [
+      { "node": "jeu parti", "sub": "五分五分の勝負", "era": "古フランス語" },
+      { "node": "jeopardy", "sub": "危うい状況", "era": "中英語" },
+      { "node": "jeopardy", "sub": "危険・危機", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "in jeopardy", "ja": "危険にさらされて" },
+      { "en": "put in jeopardy", "ja": "危険にさらす" },
+      { "en": "at jeopardy", "ja": "危機にあって" },
+      { "en": "lives in jeopardy", "ja": "危険にさらされた命" },
+      { "en": "financial jeopardy", "ja": "財政的な危機" },
+      { "en": "place in jeopardy", "ja": "危機に陥れる" }
+    ],
+    "related": [
+      { "en": "danger", "ja": "危険" },
+      { "en": "risk", "ja": "危険・リスク" },
+      { "en": "peril", "ja": "危難" },
+      { "en": "threat", "ja": "脅威" }
+    ],
+    "faq": [
+      { "q": "in jeopardy とはどんな意味ですか？", "a": "「危険にさらされて・危うい状態にある」という意味です。His career is in jeopardy.（彼のキャリアは危機にある）のように使います。" },
+      { "q": "jeopardy の語源は？", "a": "古フランス語 jeu parti（五分五分の勝負）です。勝敗が読めない危うい状況から「危険」の意味になりました。" }
+    ],
+    "quiz": [
+      { "q": "The company's future is in ___ after the scandal.（スキャンダルの後、会社の将来は危うい）", "A": "jeopardy", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jeopardy の意味に近いのは？", "A": "危険・危機", "B": "安全", "C": "喜び", "D": "平和", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jeopardize",
+    "pron": "ˈdʒepərdaɪz",
+    "kana": "ジェパダイズ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "jeopardy（危険）＋ -ize",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR B2", "頻出語"],
+    "meaning_main": "危険にさらす／危うくする／台無しにしかける",
+    "description": "jeopardize は「危険にさらす・危うくする」を表す動詞。大切なものや成功を、危うくしたり損なったりする恐れのある行動をすることを指します。名詞 jeopardy（危険）＋ -ize でできています。イギリス綴りは jeopardise。",
+    "keywords": ["jeopardize 意味", "jeopardize 発音", "jeopardize 危険にさらす", "jeopardize 危うくする", "jeopardize 例文"],
+    "meanings": [
+      { "hinshi": "【動】危険にさらす・危うくする", "note": "大切なものや成功を損なう恐れのある行動をする。" }
+    ],
+    "usages": [
+      { "title": "① 危険にさらす", "desc": "大切なものを。", "example_en": "One mistake could jeopardize the whole project.", "example_ja": "一つのミスが計画全体を危うくしかねない。" },
+      { "title": "② 台無しにしかける", "desc": "成功などを。", "example_en": "Don't jeopardize your career.", "example_ja": "自分のキャリアを危うくしないで。" },
+      { "title": "③ 関係を危うくする", "desc": "損なう恐れ。", "example_en": "His behavior jeopardized their friendship.", "example_ja": "彼のふるまいは二人の友情を危うくした。" }
+    ],
+    "warn": ["名詞 jeopardy（危険）＋ -ize。イギリス綴りは jeopardise。", "「危険にさらす」の意味で endanger / risk と近い。"],
+    "etym_note": "名詞 jeopardy（危険）に、「〜にする」を表す接尾辞 -ize が付いてできた動詞です。「危険な状態にする＝危うくする」を意味します。",
+    "etym_chain": [
+      { "node": "jeopardy + -ize", "sub": "危険＋〜にする", "era": "17世紀英語" },
+      { "node": "jeopardize", "sub": "危険にさらす", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "jeopardize one's career", "ja": "経歴を危うくする" },
+      { "en": "jeopardize safety", "ja": "安全を危険にさらす" },
+      { "en": "jeopardize the deal", "ja": "取引を危うくする" },
+      { "en": "seriously jeopardize", "ja": "深刻に危うくする" },
+      { "en": "jeopardize relations", "ja": "関係を損なう" },
+      { "en": "jeopardize the mission", "ja": "任務を危険にさらす" }
+    ],
+    "related": [
+      { "en": "endanger", "ja": "危険にさらす" },
+      { "en": "risk", "ja": "危険にさらす" },
+      { "en": "threaten", "ja": "脅かす" },
+      { "en": "jeopardy", "ja": "危険" }
+    ],
+    "faq": [
+      { "q": "jeopardize とはどんな意味ですか？", "a": "大切なものや成功を「危険にさらす・危うくする・台無しにしかける」という意味の動詞です。名詞 jeopardy（危険）から来ています。" },
+      { "q": "jeopardize と endanger の違いは？", "a": "ほぼ同じ「危険にさらす」ですが、endanger は命や存在そのものの危険、jeopardize は計画・立場・関係など幅広いものを危うくする、というニュアンスで使われます。" }
+    ],
+    "quiz": [
+      { "q": "Cheating on the test could ___ your whole future.（試験でのカンニングは君の将来全体を危うくしかねない）", "A": "jeopardize", "B": "jog", "C": "jump", "D": "join", "correct": "A" },
+      { "q": "jeopardize は jeopardy ＋ ___ の動詞。空所は？", "A": "-ize", "B": "-ness", "C": "-ly", "D": "-ful", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jerky",
+    "pron": "ˈdʒɜːrki",
+    "kana": "ジャーキー",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ケチュア語 charki（干し肉)／jerk＋-y",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "食べ物・様子"],
+    "meaning_main": "干し肉（ジャーキー）／(形)ぎくしゃくした",
+    "description": "jerky には2つの意味があります。名詞では「干し肉（ジャーキー）」で、肉を薄切りにして干した保存食です。形容詞では jerk（急に動く）＋ -y から「ぎくしゃくした・がくがくした」を表します。ビーフジャーキーの jerky は南米ケチュア語が語源です。",
+    "keywords": ["jerky 意味", "jerky 発音", "ジャーキー 干し肉", "jerky ぎくしゃく", "jerky 例文"],
+    "meanings": [
+      { "hinshi": "【名】干し肉・ジャーキー", "note": "肉を薄切りにして干した保存食。" },
+      { "hinshi": "【形】ぎくしゃくした・がくがくした", "note": "jerk（急に動く）＋ -y。滑らかでない動き。" }
+    ],
+    "usages": [
+      { "title": "① 干し肉（名詞）", "desc": "保存食。", "example_en": "We ate beef jerky on the hike.", "example_ja": "私たちはハイキングでビーフジャーキーを食べた。" },
+      { "title": "② ぎくしゃくした（形容詞）", "desc": "滑らかでない動き。", "example_en": "The old film had jerky movements.", "example_ja": "その古い映画は動きがぎくしゃくしていた。" },
+      { "title": "③ がくがくした運転", "desc": "なめらかでない。", "example_en": "His driving was a bit jerky.", "example_ja": "彼の運転は少しがくがくしていた。" }
+    ],
+    "warn": ["名詞の「干し肉」は南米ケチュア語 charki 由来。形容詞の「ぎくしゃくした」は jerk＋-y。", "同じ綴りで別語源の2つの意味を持つ。"],
+    "etym_note": "干し肉の jerky は南米ケチュア語 charki（干し肉）に由来し、スペイン語 charqui を経て英語になりました。形容詞の「ぎくしゃくした」は動詞 jerk（急に動く）＋ -y でできた別系統の語です。",
+    "etym_chain": [
+      { "node": "charki / jerk+-y", "sub": "干し肉／急に動く", "era": "ケチュア語・英語" },
+      { "node": "jerky", "sub": "干し肉・ぎくしゃくした", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "beef jerky", "ja": "ビーフジャーキー" },
+      { "en": "make jerky", "ja": "ジャーキーを作る" },
+      { "en": "jerky movements", "ja": "ぎくしゃくした動き" },
+      { "en": "a jerky ride", "ja": "がくがくした乗り心地" },
+      { "en": "dried jerky", "ja": "干し肉" },
+      { "en": "jerky and uneven", "ja": "ぎくしゃくして不安定な" }
+    ],
+    "related": [
+      { "en": "jerk", "ja": "急に動く" },
+      { "en": "meat", "ja": "肉" },
+      { "en": "smooth", "ja": "滑らかな" },
+      { "en": "dried", "ja": "干した" }
+    ],
+    "faq": [
+      { "q": "jerky の2つの意味を教えてください。", "a": "名詞では「干し肉（ジャーキー）」、形容詞では「ぎくしゃくした・がくがくした」です。名詞は南米ケチュア語、形容詞は動詞 jerk 由来で、語源が異なります。" },
+      { "q": "beef jerky とは？", "a": "牛肉を薄切りにして味付けし、乾燥させた保存食「ビーフジャーキー」です。かむほどに味わいが出る携行食として人気です。" }
+    ],
+    "quiz": [
+      { "q": "We snacked on beef ___ during the long drive.（長いドライブの間、私たちはビーフジャーキーをつまんだ）", "A": "jerky", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "形容詞 jerky の意味は？", "A": "ぎくしゃくした", "B": "滑らかな", "C": "甘い", "D": "静かな", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jackass",
+    "pron": "ˈdʒækæs",
+    "kana": "ジャッカス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "jack（雄の）＋ ass（ロバ)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "動物・口語"],
+    "meaning_main": "雄のロバ／(口語)ばか者・まぬけ",
+    "description": "jackass は「雄のロバ」を表す名詞です。jack（雄の）＋ ass（ロバ）でできています。そこから転じて、口語で「ばか者・まぬけ」という意味の悪口としても使われます。人をののしる強い語なので使う場面に注意が必要です。",
+    "keywords": ["jackass 意味", "jackass 発音", "jackass ロバ", "jackass ばか", "jackass 例文"],
+    "meanings": [
+      { "hinshi": "【名】雄のロバ", "note": "jack（雄）＋ ass（ロバ）。" },
+      { "hinshi": "【名】(口語)ばか者・まぬけ", "note": "人をののしる悪口。" }
+    ],
+    "usages": [
+      { "title": "① 雄のロバ", "desc": "本来の意味。", "example_en": "A jackass is a male donkey.", "example_ja": "ジャッカスとは雄のロバのことだ。" },
+      { "title": "② (口語)ばか者", "desc": "悪口。", "example_en": "Don't be such a jackass.", "example_ja": "そんなばかなまねをするな。" },
+      { "title": "③ まぬけな行動", "desc": "愚かな行い。", "example_en": "He made a jackass of himself.", "example_ja": "彼は自らばかをさらした。" }
+    ],
+    "warn": ["「ばか者」の意味は失礼な悪口。使う場面に注意。", "jack（雄）＋ ass（ロバ）が語源。雌のロバは jenny。"],
+    "etym_note": "jack（雄の動物を表す語）＋ ass（ロバ）でできた語です。もとは「雄ロバ」を指し、ロバの愚かなイメージから「ばか者」の悪口にもなりました。",
+    "etym_chain": [
+      { "node": "jack + ass", "sub": "雄の＋ロバ", "era": "18世紀英語" },
+      { "node": "jackass", "sub": "雄ロバ", "era": "近代英語" },
+      { "node": "jackass", "sub": "雄ロバ・ばか者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a stubborn jackass", "ja": "頑固な雄ロバ" },
+      { "en": "don't be a jackass", "ja": "ばかなまねをするな" },
+      { "en": "make a jackass of oneself", "ja": "ばかをさらす" },
+      { "en": "act like a jackass", "ja": "ばかな行動をする" },
+      { "en": "a complete jackass", "ja": "とんだばか者" },
+      { "en": "a braying jackass", "ja": "鳴くロバ" }
+    ],
+    "related": [
+      { "en": "donkey", "ja": "ロバ" },
+      { "en": "ass", "ja": "ロバ" },
+      { "en": "fool", "ja": "ばか者" },
+      { "en": "idiot", "ja": "まぬけ" }
+    ],
+    "faq": [
+      { "q": "jackass の本来の意味は？", "a": "「雄のロバ」です。jack（雄の）＋ ass（ロバ）でできています。そこから転じて口語で「ばか者・まぬけ」の悪口にもなりました。" },
+      { "q": "jackass は失礼な言葉ですか？", "a": "「ばか者」の意味で人に使うと、かなり失礼な悪口になります。使う場面には注意が必要です。" }
+    ],
+    "quiz": [
+      { "q": "A ___ is another name for a male donkey.（ジャッカスは雄のロバの別名だ）", "A": "jackass", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jackass は jack ＋ ___ の複合語。空所は？", "A": "ass（ロバ）", "B": "cat", "C": "dog", "D": "fox", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jellybean",
+    "pron": "ˈdʒelibiːn",
+    "kana": "ジェリービーン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "jelly（ゼリー）＋ bean（豆)",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "食べ物"],
+    "meaning_main": "ゼリービーンズ（豆形の砂糖菓子）",
+    "description": "jellybean は「ゼリービーンズ」を表す名詞。豆の形をした、外側が硬く中がゼリー状のカラフルな砂糖菓子です。さまざまな色と味があり、イースターやパーティーでおなじみです。jelly（ゼリー）＋ bean（豆）でできています。",
+    "keywords": ["jellybean 意味", "jellybean 発音", "ゼリービーンズ", "jellybean お菓子", "jellybean 例文"],
+    "meanings": [
+      { "hinshi": "【名】ゼリービーンズ", "note": "豆形で外が硬く中がゼリー状のカラフルな砂糖菓子。" }
+    ],
+    "usages": [
+      { "title": "① ゼリービーンズ（菓子）", "desc": "豆形の砂糖菓子。", "example_en": "The jar was full of colorful jellybeans.", "example_ja": "びんはカラフルなゼリービーンズでいっぱいだった。" },
+      { "title": "② さまざまな味", "desc": "色ごとに味が違う。", "example_en": "Each jellybean has a different flavor.", "example_ja": "ゼリービーンズは色ごとに味が違う。" },
+      { "title": "③ イースターの定番", "desc": "行事のお菓子。", "example_en": "Children get jellybeans at Easter.", "example_ja": "子供たちはイースターにゼリービーンズをもらう。" }
+    ],
+    "warn": ["jelly（ゼリー）＋ bean（豆）の複合語。jelly bean と2語でも書く。", "外側が硬く中がゼリー状の豆形の砂糖菓子。"],
+    "etym_note": "jelly（ゼリー状のもの）＋ bean（豆）でできた語です。豆の形で中がゼリー状であることから名づけられました。19世紀のアメリカで広まりました。",
+    "etym_chain": [
+      { "node": "jelly + bean", "sub": "ゼリー＋豆", "era": "19世紀アメリカ英語" },
+      { "node": "jellybean", "sub": "ゼリービーンズ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "colorful jellybeans", "ja": "カラフルなゼリービーンズ" },
+      { "en": "a bag of jellybeans", "ja": "ゼリービーンズ1袋" },
+      { "en": "eat jellybeans", "ja": "ゼリービーンズを食べる" },
+      { "en": "different flavors", "ja": "さまざまな味" },
+      { "en": "Easter jellybeans", "ja": "イースターのゼリービーンズ" },
+      { "en": "a jar of jellybeans", "ja": "ゼリービーンズのびん" }
+    ],
+    "related": [
+      { "en": "candy", "ja": "キャンディー・菓子" },
+      { "en": "jelly", "ja": "ゼリー" },
+      { "en": "sweet", "ja": "甘いもの・菓子" },
+      { "en": "bean", "ja": "豆" }
+    ],
+    "faq": [
+      { "q": "jellybean とはどんなお菓子ですか？", "a": "豆の形をした、外側が硬く中がゼリー状のカラフルな砂糖菓子です。さまざまな色と味があり、イースターやパーティーでおなじみです。" },
+      { "q": "jellybean は1語ですか？", "a": "jellybean と1語でも、jelly bean と2語でも書かれます。jelly（ゼリー）＋ bean（豆）でできています。" }
+    ],
+    "quiz": [
+      { "q": "The children counted the ___ in the glass jar.（子供たちはガラスびんの中のゼリービーンズを数えた）", "A": "jellybeans", "B": "jams", "C": "jars", "D": "jaws", "correct": "A" },
+      { "q": "jellybean は jelly ＋ ___ の複合語。空所は？", "A": "bean（豆）", "B": "fish", "C": "cake", "D": "cup", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jetliner",
+    "pron": "ˈdʒetlaɪnər",
+    "kana": "ジェットライナー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "jet（ジェット）＋ liner（定期便)",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "乗り物"],
+    "meaning_main": "ジェット旅客機（大型の定期ジェット機）",
+    "description": "jetliner は「ジェット旅客機」を表す名詞。多くの乗客を乗せて定期便を運航する大型のジェット機を指します。jet（ジェット）＋ liner（定期旅客便）でできた語です。ボーイングやエアバスの大型機などがこれにあたります。",
+    "keywords": ["jetliner 意味", "jetliner 発音", "ジェット旅客機", "jetliner 飛行機", "jetliner 例文"],
+    "meanings": [
+      { "hinshi": "【名】ジェット旅客機", "note": "定期便を運航する大型のジェット機。" }
+    ],
+    "usages": [
+      { "title": "① ジェット旅客機", "desc": "大型の定期便。", "example_en": "The jetliner carried 300 passengers.", "example_ja": "そのジェット旅客機は300人の乗客を乗せた。" },
+      { "title": "② 長距離を飛ぶ", "desc": "国際線など。", "example_en": "Jetliners cross oceans in hours.", "example_ja": "ジェット旅客機は数時間で海を越える。" },
+      { "title": "③ 離着陸", "desc": "空港で。", "example_en": "A jetliner took off from the runway.", "example_ja": "ジェット旅客機が滑走路から離陸した。" }
+    ],
+    "warn": ["jet（ジェット）＋ liner（定期旅客便）の複合語。", "多くの乗客を運ぶ大型の定期ジェット機を指す。"],
+    "etym_note": "jet（ジェットエンジン）＋ liner（定期航路の旅客船・旅客機）でできた語です。20世紀半ばにジェット旅客機が登場した時代に広まりました。",
+    "etym_chain": [
+      { "node": "jet + liner", "sub": "ジェット＋定期便", "era": "20世紀英語" },
+      { "node": "jetliner", "sub": "ジェット旅客機", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a commercial jetliner", "ja": "民間ジェット旅客機" },
+      { "en": "a wide-body jetliner", "ja": "ワイドボディ機" },
+      { "en": "board a jetliner", "ja": "ジェット旅客機に乗る" },
+      { "en": "a modern jetliner", "ja": "最新のジェット旅客機" },
+      { "en": "the jetliner landed", "ja": "ジェット旅客機が着陸した" },
+      { "en": "a passenger jetliner", "ja": "旅客用ジェット機" }
+    ],
+    "related": [
+      { "en": "jet", "ja": "ジェット機" },
+      { "en": "airliner", "ja": "旅客機" },
+      { "en": "airplane", "ja": "飛行機" },
+      { "en": "flight", "ja": "飛行・便" }
+    ],
+    "faq": [
+      { "q": "jetliner とは何ですか？", "a": "多くの乗客を乗せて定期便を運航する大型のジェット機「ジェット旅客機」です。jet（ジェット）＋ liner（定期旅客便）でできた語です。" },
+      { "q": "jetliner と jet の違いは？", "a": "jet は「ジェット機」全般（戦闘機や小型機も含む）、jetliner は特に「大型の旅客用ジェット機（定期便）」を指します。" }
+    ],
+    "quiz": [
+      { "q": "The huge ___ can carry hundreds of passengers across the ocean.（その巨大なジェット旅客機は何百人もの乗客を海の向こうへ運べる）", "A": "jetliner", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jetliner は jet ＋ ___ の複合語。空所は？", "A": "liner", "B": "line", "C": "lion", "D": "land", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jigger",
+    "pron": "ˈdʒɪɡər",
+    "kana": "ジガー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "jig（小刻みに動く）＋ -er",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "道具・飲食"],
+    "meaning_main": "ジガー（カクテル用の計量カップ）／小さな道具",
+    "description": "jigger は「ジガー」を表す名詞。バーでカクテルを作るときに使う、小さな砂時計形の計量カップを指します。約45mlの酒を量るのに使います。また、名前の分からない「小さな道具・仕掛け」を指す口語としても使われます。",
+    "keywords": ["jigger 意味", "jigger 発音", "ジガー 計量", "jigger カクテル", "jigger 例文"],
+    "meanings": [
+      { "hinshi": "【名】ジガー（計量カップ）", "note": "カクテル用の小さな砂時計形の計量カップ。約45ml。" },
+      { "hinshi": "【名】(口語)名前の分からない小さな道具", "note": "「例のあれ」的な小物・仕掛け。" }
+    ],
+    "usages": [
+      { "title": "① ジガー（計量カップ）", "desc": "酒を量る。", "example_en": "Measure the gin with a jigger.", "example_ja": "ジガーでジンを量って。" },
+      { "title": "② 一杯分の酒", "desc": "計量の単位。", "example_en": "Add a jigger of rum.", "example_ja": "ラムを1ジガー加えて。" },
+      { "title": "③ (口語)小さな道具", "desc": "名前の分からない小物。", "example_en": "Hand me that little jigger over there.", "example_ja": "そこの小さな道具を取って。" }
+    ],
+    "warn": ["カクテル計量カップの意味では約45ml（1.5オンス）が標準。", "jig（小刻みに動く）＋ -er が語源。口語で「あの小物」の意味もある。"],
+    "etym_note": "jig（小刻みに動く・跳ねる）＋ -er でできた語です。もとは小さく動く道具や仕掛けを指し、そこからカクテルの計量カップなど「小さな道具」の意味に広がりました。",
+    "etym_chain": [
+      { "node": "jig + -er", "sub": "小刻みに動く＋物", "era": "近代英語" },
+      { "node": "jigger", "sub": "小さな道具", "era": "近代英語" },
+      { "node": "jigger", "sub": "計量カップ・小道具", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a jigger of whiskey", "ja": "ウイスキー1ジガー" },
+      { "en": "measure with a jigger", "ja": "ジガーで量る" },
+      { "en": "a double jigger", "ja": "両端の計量カップ" },
+      { "en": "a jigger of rum", "ja": "ラム1ジガー" },
+      { "en": "that little jigger", "ja": "あの小さな道具" },
+      { "en": "fill the jigger", "ja": "ジガーを満たす" }
+    ],
+    "related": [
+      { "en": "measure", "ja": "量る・計量" },
+      { "en": "cocktail", "ja": "カクテル" },
+      { "en": "cup", "ja": "カップ" },
+      { "en": "gadget", "ja": "小道具・仕掛け" }
+    ],
+    "faq": [
+      { "q": "jigger とは何ですか？", "a": "バーでカクテルを作るときに使う、小さな砂時計形の計量カップです。約45mlの酒を量るのに使います。名前の分からない「小さな道具」を指す口語でもあります。" },
+      { "q": "1 jigger はどのくらいですか？", "a": "標準的には約45ml（1.5オンス）です。カクテルのレシピで酒の量を表す単位として使われます。" }
+    ],
+    "quiz": [
+      { "q": "The bartender used a ___ to measure the vodka.（バーテンダーはジガーでウォッカを量った）", "A": "jigger", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jigger（計量カップ）の主な用途は？", "A": "カクテルの酒を量る", "B": "野菜を切る", "C": "音を鳴らす", "D": "服を洗う", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jink",
+    "pron": "dʒɪŋk",
+    "kana": "ジンク",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "スコットランド語 jink（すばやくかわす)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "動作"],
+    "meaning_main": "(すばやく)身をかわす／急に向きを変える",
+    "description": "jink は「(すばやく)身をかわす・急に向きを変える」を表す動詞。追ってくるものや障害を避けるために、素早くひらりと方向を変えることを指します。スポーツで相手をかわすときや、飛行機が敵の攻撃を避けるときなどに使われます。",
+    "keywords": ["jink 意味", "jink 発音", "jink 身をかわす", "jink 方向転換", "jink 例文"],
+    "meanings": [
+      { "hinshi": "【動】(すばやく)身をかわす・急に向きを変える", "note": "素早くひらりと方向を変えて避ける。" }
+    ],
+    "usages": [
+      { "title": "① 身をかわす", "desc": "素早く避ける。", "example_en": "The player jinked past the defender.", "example_ja": "その選手はディフェンダーをひらりとかわした。" },
+      { "title": "② 急に向きを変える", "desc": "ジグザグに動く。", "example_en": "The rabbit jinked to escape the fox.", "example_ja": "ウサギはキツネから逃れようと急に向きを変えた。" },
+      { "title": "③ 攻撃を避ける", "desc": "飛行機など。", "example_en": "The pilot jinked to avoid the missile.", "example_ja": "パイロットはミサイルを避けて急旋回した。" }
+    ],
+    "warn": ["発音は /dʒɪŋk/。素早くひらりと方向転換して避けること。", "スコットランド語由来。dodge（かわす）と近い。"],
+    "etym_note": "スコットランド語 jink（すばやくかわす・ひらりと動く）に由来します。素早く身をかわす動きを表す語として使われるようになりました。",
+    "etym_chain": [
+      { "node": "jink", "sub": "すばやくかわす", "era": "スコットランド語" },
+      { "node": "jink", "sub": "身をかわす", "era": "18世紀英語" },
+      { "node": "jink", "sub": "身をかわす・向きを変える", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "jink past", "ja": "〜をかわして抜く" },
+      { "en": "jink and dodge", "ja": "ひらりとかわす" },
+      { "en": "jink to the left", "ja": "左に急にかわす" },
+      { "en": "jink away", "ja": "さっと身をかわす" },
+      { "en": "jink around", "ja": "ジグザグに動く" },
+      { "en": "a quick jink", "ja": "素早い方向転換" }
+    ],
+    "related": [
+      { "en": "dodge", "ja": "かわす" },
+      { "en": "swerve", "ja": "急にそれる" },
+      { "en": "weave", "ja": "縫うように進む" },
+      { "en": "evade", "ja": "避ける" }
+    ],
+    "faq": [
+      { "q": "jink とはどんな意味ですか？", "a": "追ってくるものや障害を避けるために、素早くひらりと方向を変えることです。スポーツで相手をかわすときや、飛行機が攻撃を避けるときに使われます。" },
+      { "q": "jink と dodge の違いは？", "a": "どちらも「かわす」ですが、jink は特に「素早くジグザグに向きを変えて」かわす動きを強調します。dodge はより一般的な「さっと避ける」です。" }
+    ],
+    "quiz": [
+      { "q": "The winger ___ past two defenders and scored.（ウインガーは2人のディフェンダーをかわして得点した）", "A": "jinked", "B": "jammed", "C": "jogged", "D": "jumped", "correct": "A" },
+      { "q": "jink の意味に近いのは？", "A": "素早く身をかわす", "B": "まっすぐ止まる", "C": "ゆっくり歩く", "D": "眠る", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jury-rig",
+    "pron": "ˈdʒʊərirɪɡ",
+    "kana": "ジュアリリグ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "航海用語 jury（間に合わせの）＋ rig（艤装する)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "動作・技術"],
+    "meaning_main": "間に合わせで作る／急ごしらえで組み立てる",
+    "description": "jury-rig は「(あり合わせの材料で)間に合わせに作る・急ごしらえで組み立てる」を表す動詞。正式な部品や道具がないとき、手近なもので一時的に用が足りるように工夫して作ることを指します。もとは帆船で、折れたマストを応急的に立て直す航海用語でした。",
+    "keywords": ["jury-rig 意味", "jury-rig 発音", "間に合わせ", "急ごしらえ", "jury-rig 例文"],
+    "meanings": [
+      { "hinshi": "【動】間に合わせで作る・急ごしらえで組み立てる", "note": "あり合わせの材料で一時的に用が足りるよう工夫する。" }
+    ],
+    "usages": [
+      { "title": "① 間に合わせで作る", "desc": "あり合わせで。", "example_en": "They jury-rigged a shelter from branches.", "example_ja": "彼らは枝で間に合わせの避難所を作った。" },
+      { "title": "② 急ごしらえで直す", "desc": "応急処置。", "example_en": "He jury-rigged the engine to get home.", "example_ja": "彼は家に帰るためエンジンを応急的に直した。" },
+      { "title": "③ 一時しのぎの装置", "desc": "臨時の工夫。", "example_en": "We jury-rigged an antenna from wire.", "example_ja": "私たちは針金で間に合わせのアンテナを作った。" }
+    ],
+    "warn": ["jury は「陪審」ではなく、航海用語で「間に合わせの」を意味する別語。", "jerry-build（安普請する）とは別。あり合わせで一時的に作ることを指す。"],
+    "etym_note": "航海用語で「間に合わせの」を意味する jury（陪審の jury とは別語源）＋ rig（船を艤装する）でできた語です。帆船で折れたマストを応急的に立て直すことから、「あり合わせで作る」の意味になりました。",
+    "etym_chain": [
+      { "node": "jury + rig", "sub": "間に合わせの＋艤装", "era": "17世紀航海英語" },
+      { "node": "jury-rig", "sub": "応急的に艤装する", "era": "近代英語" },
+      { "node": "jury-rig", "sub": "間に合わせで作る", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "jury-rig a repair", "ja": "応急的に修理する" },
+      { "en": "jury-rig a device", "ja": "間に合わせの装置を作る" },
+      { "en": "a jury-rigged solution", "ja": "急ごしらえの解決策" },
+      { "en": "jury-rig a mast", "ja": "マストを応急的に立てる" },
+      { "en": "jury-rig something together", "ja": "あり合わせで組み立てる" },
+      { "en": "a jury-rigged system", "ja": "間に合わせのシステム" }
+    ],
+    "related": [
+      { "en": "improvise", "ja": "即席で作る" },
+      { "en": "makeshift", "ja": "間に合わせの" },
+      { "en": "rig", "ja": "艤装する・仕組む" },
+      { "en": "patch", "ja": "応急修理する" }
+    ],
+    "faq": [
+      { "q": "jury-rig とはどんな意味ですか？", "a": "正式な部品や道具がないとき、手近なあり合わせの材料で一時的に用が足りるよう工夫して作ることです。「間に合わせで作る・急ごしらえで組み立てる」という意味です。" },
+      { "q": "jury-rig の jury は陪審ですか？", "a": "いいえ。ここでの jury は「間に合わせの」を意味する航海用語で、裁判の jury（陪審）とは別語源です。" }
+    ],
+    "quiz": [
+      { "q": "With no spare parts, they had to ___ a fix for the machine.（予備部品がなく、機械を間に合わせで直すしかなかった）", "A": "jury-rig", "B": "jog", "C": "jump", "D": "join", "correct": "A" },
+      { "q": "jury-rig の意味に近いのは？", "A": "あり合わせで間に合わせに作る", "B": "正式に組み立てる", "C": "捨てる", "D": "数える", "correct": "A" }
+    ]
+  },
+  {
+    "english": "judder",
+    "pron": "ˈdʒʌdər",
+    "kana": "ジャダー",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "英語 judder（shudder の連想による造語)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "動作・英"],
+    "meaning_main": "(機械などが)激しく震える／ガタガタ揺れる",
+    "description": "judder は主にイギリス英語で「(機械・車などが)激しく震える・ガタガタ揺れる」を表す動詞です。エンジンやブレーキ、車体などが不規則に激しく振動することを指します。shudder（身震いする）と似た響きの語で、名詞でも使います。",
+    "keywords": ["judder 意味", "judder 発音", "judder 震える", "judder ガタガタ", "judder 例文"],
+    "meanings": [
+      { "hinshi": "【動】(機械などが)激しく震える・ガタガタ揺れる", "note": "不規則に激しく振動する。英国的な語。" },
+      { "hinshi": "【名】激しい振動", "note": "ガタガタという揺れ。" }
+    ],
+    "usages": [
+      { "title": "① 激しく震える（動詞）", "desc": "機械・車が。", "example_en": "The car juddered to a halt.", "example_ja": "車はガタガタと震えて止まった。" },
+      { "title": "② ブレーキの振動", "desc": "不規則な揺れ。", "example_en": "The brakes juddered on the wet road.", "example_ja": "ブレーキは濡れた道でガタガタ震えた。" },
+      { "title": "③ 激しい振動（名詞）", "desc": "揺れそのもの。", "example_en": "There was a judder as the engine started.", "example_ja": "エンジンがかかると激しい振動があった。" }
+    ],
+    "warn": ["主にイギリス英語。機械・車などの激しく不規則な振動を指す。", "shudder（人が身震いする）と似るが、judder は主に機械の振動。"],
+    "etym_note": "20世紀のイギリス英語で生まれた語で、shudder（身震いする）や judder の響きから作られた擬音的な造語とされます。機械などの激しい振動を表します。",
+    "etym_chain": [
+      { "node": "judder", "sub": "激しく震える(造語)", "era": "20世紀イギリス英語" },
+      { "node": "judder", "sub": "激しく震える・振動", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "judder to a halt", "ja": "ガタガタ震えて止まる" },
+      { "en": "the engine juddered", "ja": "エンジンが激しく震えた" },
+      { "en": "a violent judder", "ja": "激しい振動" },
+      { "en": "the brakes judder", "ja": "ブレーキが震える" },
+      { "en": "judder and shake", "ja": "ガタガタ揺れる" },
+      { "en": "a sudden judder", "ja": "突然の激しい揺れ" }
+    ],
+    "related": [
+      { "en": "shudder", "ja": "身震いする" },
+      { "en": "vibrate", "ja": "振動する" },
+      { "en": "shake", "ja": "揺れる" },
+      { "en": "jolt", "ja": "急に揺れる" }
+    ],
+    "faq": [
+      { "q": "judder とはどんな意味ですか？", "a": "主にイギリス英語で「(機械・車などが)激しく震える・ガタガタ揺れる」という意味です。エンジンやブレーキ、車体などが不規則に激しく振動することを指します。" },
+      { "q": "judder と shudder の違いは？", "a": "judder は主に機械・車などの激しい振動、shudder は主に人が恐怖や寒さで「身震いする」ことを指します。響きは似ていますが使う対象が異なります。" }
+    ],
+    "quiz": [
+      { "q": "The old bus ___ violently as it went over the bumps.（古いバスは段差を越えるとき激しくガタガタ揺れた）", "A": "juddered", "B": "jammed", "C": "jogged", "D": "jumped", "correct": "A" },
+      { "q": "judder は主に何が震えることを指す？", "A": "機械・車", "B": "人の心", "C": "植物", "D": "音楽", "correct": "A" }
+    ]
+  }
+]

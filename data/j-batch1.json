@@ -1,0 +1,510 @@
+[
+  {
+    "english": "jacket",
+    "pron": "ˈdʒækɪt",
+    "kana": "ジャケット",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 jaquet（短い上着)",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "衣服・基本語"],
+    "meaning_main": "上着／ジャケット／(本の)カバー",
+    "description": "jacket は「上着・ジャケット」を表す基本名詞。腰くらいまでの丈の上着を指します。本の「カバー（dust jacket）」や、じゃがいもの「皮」の意味でも使われます。",
+    "keywords": ["jacket 意味", "jacket 発音", "jacket 上着", "jacket ジャケット", "jacket 例文"],
+    "meanings": [
+      { "hinshi": "【名】上着・ジャケット", "note": "腰丈くらいの上着。" },
+      { "hinshi": "【名】(本の)カバー", "note": "dust jacket（本の外装カバー）。" },
+      { "hinshi": "【名】(じゃがいもの)皮", "note": "jacket potato（皮付きポテト）。" }
+    ],
+    "usages": [
+      { "title": "① 上着（衣服）", "desc": "羽織る上着。", "example_en": "He put on his jacket and left.", "example_ja": "彼は上着を着て出かけた。" },
+      { "title": "② 本のカバー", "desc": "dust jacket。", "example_en": "The book's jacket has a nice design.", "example_ja": "その本のカバーは素敵なデザインだ。" },
+      { "title": "③ ライフジャケット", "desc": "life jacket（救命胴衣）。", "example_en": "Always wear a life jacket on the boat.", "example_ja": "船の上では必ず救命胴衣を着なさい。" }
+    ],
+    "warn": ["発音は /ˈdʒækɪt/。最初の j は「ヂャ」の音。", "コート(coat)より短い丈の上着を指すことが多い。"],
+    "etym_note": "古フランス語 jaquet（短い上着）に由来します。農民を指す名 Jacques（ジャック）から来た、庶民が着る短い上着の名だとされます。",
+    "etym_chain": [
+      { "node": "jaquet", "sub": "短い上着", "era": "古フランス語" },
+      { "node": "jacket", "sub": "上着", "era": "中英語" },
+      { "node": "jacket", "sub": "上着・ジャケット", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "put on a jacket", "ja": "上着を着る" },
+      { "en": "a leather jacket", "ja": "革ジャケット" },
+      { "en": "a life jacket", "ja": "救命胴衣" },
+      { "en": "a dust jacket", "ja": "本のカバー" },
+      { "en": "a jacket potato", "ja": "皮付きベイクドポテト" },
+      { "en": "a denim jacket", "ja": "デニムジャケット" }
+    ],
+    "related": [
+      { "en": "coat", "ja": "コート・上着" },
+      { "en": "shirt", "ja": "シャツ" },
+      { "en": "sweater", "ja": "セーター" },
+      { "en": "clothes", "ja": "衣服" }
+    ],
+    "faq": [
+      { "q": "jacket と coat の違いは？", "a": "jacket は腰丈くらいの短い上着、coat はより丈が長く暖かい外套を指すことが多いです。" },
+      { "q": "衣服以外の jacket の意味は？", "a": "本の外装カバー（dust jacket）や、じゃがいもの皮（jacket potato）など、「外側を覆うもの」の意味でも使われます。" }
+    ],
+    "quiz": [
+      { "q": "It's cold, so put on your ___.（寒いから上着を着なさい）", "A": "jacket", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "a life ___ は「救命胴衣」。空所は？", "A": "jacket", "B": "jazz", "C": "jelly", "D": "jet", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jam",
+    "pron": "dʒæm",
+    "kana": "ジャム",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "擬音的な語 jam（押しつぶす)",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "食べ物・基本語"],
+    "meaning_main": "ジャム／混雑／(機械が)詰まる",
+    "description": "jam は「ジャム」を表す基本名詞。果物を砂糖で煮た食品です。また「混雑・渋滞（traffic jam）」や、動詞で「(すきまなく)詰め込む・詰まる」の意味でも使われます。",
+    "keywords": ["jam 意味", "jam 発音", "jam ジャム", "traffic jam 渋滞", "jam 例文"],
+    "meanings": [
+      { "hinshi": "【名】ジャム", "note": "果物を砂糖で煮た食品。パンなどに塗る。" },
+      { "hinshi": "【名】混雑・渋滞", "note": "traffic jam（交通渋滞）。" },
+      { "hinshi": "【動】詰め込む・詰まる", "note": "すきまなく押し込む、動かなくなる。" }
+    ],
+    "usages": [
+      { "title": "① ジャム（食品）", "desc": "パンに塗る。", "example_en": "I like strawberry jam on my toast.", "example_ja": "私はトーストにイチゴジャムを塗るのが好きだ。" },
+      { "title": "② 渋滞 (traffic jam)", "desc": "車が詰まる。", "example_en": "We were stuck in a traffic jam.", "example_ja": "私たちは渋滞にはまった。" },
+      { "title": "③ 詰まる（動詞）", "desc": "機械などが動かなくなる。", "example_en": "The printer jammed again.", "example_ja": "プリンターがまた紙詰まりを起こした。" }
+    ],
+    "warn": ["過去形・-ing 形は m を重ねる: jammed, jamming。", "同音の jamb（ドアの側柱）とは別語。"],
+    "etym_note": "「ぎゅっと押しつぶす」という擬音的な動詞 jam に由来するとされます。果物を煮て「押しつぶした」食品や、物が「詰まる」ことを表します。",
+    "etym_chain": [
+      { "node": "jam", "sub": "押しつぶす", "era": "18世紀英語" },
+      { "node": "jam", "sub": "ジャム・詰まる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "strawberry jam", "ja": "イチゴジャム" },
+      { "en": "a traffic jam", "ja": "交通渋滞" },
+      { "en": "jam on the brakes", "ja": "急ブレーキを踏む" },
+      { "en": "be in a jam", "ja": "苦境にある" },
+      { "en": "a paper jam", "ja": "紙詰まり" },
+      { "en": "jam-packed", "ja": "ぎゅう詰めの" }
+    ],
+    "related": [
+      { "en": "jelly", "ja": "ゼリー・ジャム" },
+      { "en": "bread", "ja": "パン" },
+      { "en": "crowd", "ja": "混雑・群衆" },
+      { "en": "stuck", "ja": "動けない" }
+    ],
+    "faq": [
+      { "q": "jam にはどんな意味がありますか？", "a": "①果物のジャム、②混雑・渋滞（traffic jam）、③動詞で「詰め込む・詰まる」という3つの主な意味があります。" },
+      { "q": "be in a jam とはどんな意味ですか？", "a": "「苦境にある・困った状況にある」という意味の口語表現です。身動きが取れない様子から来ています。" }
+    ],
+    "quiz": [
+      { "q": "We were late because of a traffic ___.（渋滞のせいで遅れた）", "A": "jam", "B": "jacket", "C": "jaw", "D": "jazz", "correct": "A" },
+      { "q": "「イチゴジャム」は strawberry ___。空所は？", "A": "jam", "B": "jet", "C": "jar", "D": "jelly", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jar",
+    "pron": "dʒɑːr",
+    "kana": "ジャー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "アラビア語 jarra（土の器)",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A1", "生活語"],
+    "meaning_main": "びん／広口のびん／つぼ",
+    "description": "jar は「びん・広口のびん」を表す名詞。ジャムやはちみつなどを入れる、口の広いガラスや陶器の容器を指します。a jar of ~（〜1びん）の形でよく使われます。",
+    "keywords": ["jar 意味", "jar 発音", "jar びん", "a jar of", "jar 例文"],
+    "meanings": [
+      { "hinshi": "【名】びん・広口のびん", "note": "口の広いガラス・陶器の容器。" },
+      { "hinshi": "【名】つぼ・かめ", "note": "液体などを入れる器。" }
+    ],
+    "usages": [
+      { "title": "① びん（容器）", "desc": "a jar of ~ で「〜1びん」。", "example_en": "She opened a jar of honey.", "example_ja": "彼女ははちみつのびんを開けた。" },
+      { "title": "② 中身を入れる", "desc": "保存容器として。", "example_en": "Put the cookies in a glass jar.", "example_ja": "クッキーをガラスびんに入れて。" },
+      { "title": "③ 貯金びんなど", "desc": "a coin jar。", "example_en": "He keeps coins in a jar.", "example_ja": "彼は小銭をびんにためている。" }
+    ],
+    "warn": ["口の広い容器を指す。細口のびんは bottle。", "発音は /dʒɑːr/。"],
+    "etym_note": "アラビア語 jarra（土でできた器・かめ）に由来し、古フランス語やスペイン語を経て英語に入りました。もとは液体を入れる素焼きの器を指しました。",
+    "etym_chain": [
+      { "node": "jarra", "sub": "土の器", "era": "アラビア語" },
+      { "node": "jarre", "sub": "つぼ", "era": "古フランス語" },
+      { "node": "jar", "sub": "びん", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a jar of jam", "ja": "ジャム1びん" },
+      { "en": "a glass jar", "ja": "ガラスびん" },
+      { "en": "open a jar", "ja": "びんを開ける" },
+      { "en": "a jam jar", "ja": "ジャムのびん" },
+      { "en": "a cookie jar", "ja": "クッキーの入れ物" },
+      { "en": "a jar lid", "ja": "びんのふた" }
+    ],
+    "related": [
+      { "en": "bottle", "ja": "びん(細口)" },
+      { "en": "container", "ja": "容器" },
+      { "en": "pot", "ja": "つぼ・鍋" },
+      { "en": "lid", "ja": "ふた" }
+    ],
+    "faq": [
+      { "q": "jar と bottle の違いは？", "a": "jar は口の広いびん（ジャムやはちみつの容器など）、bottle は口の細いびん（水やジュースの容器など）を指します。" },
+      { "q": "「ジャム1びん」は英語で？", "a": "a jar of jam と言います。数えるときは a jar of ~（〜1びん）の形を使います。" }
+    ],
+    "quiz": [
+      { "q": "She bought a ___ of honey.（彼女ははちみつを1びん買った）", "A": "jar", "B": "jacket", "C": "jazz", "D": "jet", "correct": "A" },
+      { "q": "口の広いびんを表すのは？", "A": "jar", "B": "bottle", "C": "cup", "D": "plate", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jaw",
+    "pron": "dʒɔː",
+    "kana": "ジョー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 joue（頬)",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "体の部位"],
+    "meaning_main": "あご／あごの骨",
+    "description": "jaw は「あご」を表す体の部位の名詞。歯が並ぶ、口の上下の骨の部分を指します。上あごは upper jaw、下あごは lower jaw。驚きで「あんぐり口を開ける」表現などにも使われます。",
+    "keywords": ["jaw 意味", "jaw 発音", "jaw あご", "jaw drop", "jaw 例文"],
+    "meanings": [
+      { "hinshi": "【名】あご・あごの骨", "note": "歯が並ぶ口の上下の骨。" }
+    ],
+    "usages": [
+      { "title": "① あご（体の部位）", "desc": "口の骨の部分。", "example_en": "He broke his jaw in the accident.", "example_ja": "彼は事故であごを骨折した。" },
+      { "title": "② 驚きの表現 (jaw drops)", "desc": "あんぐり口を開ける。", "example_en": "Her jaw dropped in surprise.", "example_ja": "彼女は驚いてあんぐりと口を開けた。" },
+      { "title": "③ 上あご・下あご", "desc": "upper / lower jaw。", "example_en": "The lower jaw can move up and down.", "example_ja": "下あごは上下に動かせる。" }
+    ],
+    "warn": ["発音は /dʒɔː/。chin（あご先）とは別で、jaw はあご全体の骨。", "「顎（あご）」を指すが、あご先だけなら chin。"],
+    "etym_note": "古フランス語 joue（頬）に由来するとされ、中英語 jowe を経て jaw になりました。口や頬のあたりを指す語から発達しました。",
+    "etym_chain": [
+      { "node": "joue", "sub": "頬", "era": "古フランス語" },
+      { "node": "jowe", "sub": "あご", "era": "中英語" },
+      { "node": "jaw", "sub": "あご", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the lower jaw", "ja": "下あご" },
+      { "en": "one's jaw drops", "ja": "あんぐり口を開ける" },
+      { "en": "a broken jaw", "ja": "骨折したあご" },
+      { "en": "a strong jaw", "ja": "がっしりしたあご" },
+      { "en": "jaw muscles", "ja": "あごの筋肉" },
+      { "en": "clench one's jaw", "ja": "歯を食いしばる" }
+    ],
+    "related": [
+      { "en": "chin", "ja": "あご先" },
+      { "en": "mouth", "ja": "口" },
+      { "en": "teeth", "ja": "歯" },
+      { "en": "face", "ja": "顔" }
+    ],
+    "faq": [
+      { "q": "jaw と chin の違いは？", "a": "jaw は歯が並ぶあご全体の骨、chin はあごの先端（下あごの前の突き出た部分）を指します。" },
+      { "q": "one's jaw drops とはどんな意味ですか？", "a": "驚きのあまり口をあんぐりと開ける様子を表す表現です。「びっくり仰天する」といったニュアンスです。" }
+    ],
+    "quiz": [
+      { "q": "Her ___ dropped when she heard the news.（その知らせを聞いて彼女はあんぐりと口を開けた）", "A": "jaw", "B": "jam", "C": "jar", "D": "jet", "correct": "A" },
+      { "q": "jaw が指す体の部位は？", "A": "あご", "B": "手", "C": "足", "D": "耳", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jazz",
+    "pron": "dʒæz",
+    "kana": "ジャズ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "20世紀アメリカ英語（起源は諸説)",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "音楽"],
+    "meaning_main": "ジャズ（音楽の一種）",
+    "description": "jazz は「ジャズ」を表す名詞。20世紀初めにアメリカで生まれた音楽で、即興演奏（アドリブ）や独特のリズムが特徴です。アフリカ系アメリカ人の文化から発展し、世界中に広まりました。原則不可算名詞です。",
+    "keywords": ["jazz 意味", "jazz 発音", "jazz ジャズ", "jazz 音楽", "jazz 例文"],
+    "meanings": [
+      { "hinshi": "【名】ジャズ", "note": "即興演奏が特徴のアメリカ発祥の音楽。不可算。" }
+    ],
+    "usages": [
+      { "title": "① ジャズ（音楽）", "desc": "アメリカ発祥の音楽。", "example_en": "She loves listening to jazz.", "example_ja": "彼女はジャズを聴くのが大好きだ。" },
+      { "title": "② 即興演奏", "desc": "アドリブが特徴。", "example_en": "Jazz musicians often improvise.", "example_ja": "ジャズ演奏家はよく即興演奏をする。" },
+      { "title": "③ jazz up（活気づける）", "desc": "口語表現。", "example_en": "Let's jazz up the party with music.", "example_ja": "音楽でパーティーを盛り上げよう。" }
+    ],
+    "warn": ["原則不可算名詞。a jazz とは言わない。", "発音は /dʒæz/。zz は「ズ」。"],
+    "etym_note": "20世紀初めのアメリカ英語で生まれた語で、起源には諸説あり、はっきりしていません。スラングから音楽のジャンル名として定着しました。",
+    "etym_chain": [
+      { "node": "jazz", "sub": "スラング(起源諸説)", "era": "20世紀初めアメリカ英語" },
+      { "node": "jazz", "sub": "ジャズ音楽", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "listen to jazz", "ja": "ジャズを聴く" },
+      { "en": "a jazz band", "ja": "ジャズバンド" },
+      { "en": "jazz music", "ja": "ジャズ音楽" },
+      { "en": "a jazz club", "ja": "ジャズクラブ" },
+      { "en": "jazz up", "ja": "活気づける・華やかにする" },
+      { "en": "modern jazz", "ja": "モダンジャズ" }
+    ],
+    "related": [
+      { "en": "music", "ja": "音楽" },
+      { "en": "blues", "ja": "ブルース" },
+      { "en": "rhythm", "ja": "リズム" },
+      { "en": "band", "ja": "バンド・楽団" }
+    ],
+    "faq": [
+      { "q": "jazz とはどんな音楽ですか？", "a": "20世紀初めにアメリカで生まれた音楽で、即興演奏（アドリブ）や独特のリズムが特徴です。アフリカ系アメリカ人の文化から発展し、世界に広まりました。" },
+      { "q": "jazz up とはどんな意味ですか？", "a": "「（物事を）活気づける・華やかにする・面白くする」という口語表現です。" }
+    ],
+    "quiz": [
+      { "q": "We went to a club to listen to live ___.（生のジャズを聴きにクラブへ行った）", "A": "jazz", "B": "jacket", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jazz の特徴は？", "A": "即興演奏（アドリブ）", "B": "楽譜通りのみ", "C": "無音", "D": "歌詞なし限定", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jealous",
+    "pron": "ˈdʒeləs",
+    "kana": "ジェラス",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ギリシャ語 zēlos（熱意・ねたみ)",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "感情"],
+    "meaning_main": "嫉妬した／うらやましい／ねたむ",
+    "description": "jealous は「嫉妬した・うらやましい」を表す形容詞。人が持っているものをうらやむ気持ちや、大切な人を取られそうで不安になる気持ちを表します。be jealous of ~（〜をうらやむ）の形が頻出です。",
+    "keywords": ["jealous 意味", "jealous 発音", "jealous 嫉妬", "be jealous of", "jealous 例文"],
+    "meanings": [
+      { "hinshi": "【形】嫉妬した・ねたんで", "note": "大切な人を取られそうで不安な気持ち。" },
+      { "hinshi": "【形】うらやましい", "note": "他人の持ち物や状況をうらやむ。" }
+    ],
+    "usages": [
+      { "title": "① be jealous of ~（〜をうらやむ）", "desc": "of の後は人や物。", "example_en": "She was jealous of her sister's new bike.", "example_ja": "彼女は姉の新しい自転車をうらやましがった。" },
+      { "title": "② 嫉妬する", "desc": "恋愛などで。", "example_en": "He gets jealous easily.", "example_ja": "彼はすぐに嫉妬する。" },
+      { "title": "③ 名詞は jealousy", "desc": "「嫉妬」。", "example_en": "Her jealousy caused problems.", "example_ja": "彼女の嫉妬が問題を引き起こした。" }
+    ],
+    "warn": ["「〜をうらやむ」は be jealous of ~（前置詞 of）。", "名詞は jealousy（嫉妬）。envious（うらやんで）と近い。"],
+    "etym_note": "ギリシャ語 zēlos（熱意・ねたみ）に由来し、ラテン語・古フランス語を経て英語に入りました。zeal（熱意）と同じ語源で、強い感情を表します。",
+    "etym_chain": [
+      { "node": "zēlos", "sub": "熱意・ねたみ", "era": "ギリシャ語" },
+      { "node": "jalous", "sub": "嫉妬した", "era": "古フランス語" },
+      { "node": "jealous", "sub": "嫉妬した", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be jealous of", "ja": "〜をうらやむ・嫉妬する" },
+      { "en": "a jealous look", "ja": "嫉妬のまなざし" },
+      { "en": "get jealous", "ja": "嫉妬する" },
+      { "en": "jealousy", "ja": "嫉妬" },
+      { "en": "a jealous rival", "ja": "嫉妬深いライバル" },
+      { "en": "madly jealous", "ja": "ひどく嫉妬して" }
+    ],
+    "related": [
+      { "en": "envious", "ja": "うらやんで" },
+      { "en": "jealousy", "ja": "嫉妬" },
+      { "en": "envy", "ja": "ねたみ・うらやむ" },
+      { "en": "proud", "ja": "誇りに思う" }
+    ],
+    "faq": [
+      { "q": "「〜をうらやむ」の前置詞は？", "a": "be jealous of ~ です。She is jealous of him.（彼女は彼をうらやんでいる）のように使います。" },
+      { "q": "jealous と envious の違いは？", "a": "どちらも「うらやむ」ですが、jealous は自分の大切なものを取られる不安も含む一方、envious は他人の持ち物を欲しがる気持ちに重点があります。" }
+    ],
+    "quiz": [
+      { "q": "He was ___ of his friend's success.（彼は友人の成功をうらやんだ）", "A": "jealous", "B": "jam", "C": "jazz", "D": "jet", "correct": "A" },
+      { "q": "jealous の名詞形は？", "A": "jealousy", "B": "jealousness", "C": "jealment", "D": "jeality", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jeans",
+    "pron": "dʒiːnz",
+    "kana": "ジーンズ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "地名ジェノヴァ（Genoa）の綿布より",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "衣服"],
+    "meaning_main": "ジーンズ／ジーパン",
+    "description": "jeans は「ジーンズ」を表す名詞。じょうぶな綿の生地（デニム）で作られたズボンです。ズボンなので常に複数形で使い、数えるときは a pair of jeans（ジーンズ1本）と表します。",
+    "keywords": ["jeans 意味", "jeans 発音", "jeans ジーンズ", "a pair of jeans", "jeans 例文"],
+    "meanings": [
+      { "hinshi": "【名】ジーンズ・ジーパン", "note": "デニム地のズボン。常に複数形。" }
+    ],
+    "usages": [
+      { "title": "① ジーンズ（衣服）", "desc": "常に複数形。", "example_en": "She wore blue jeans and a T-shirt.", "example_ja": "彼女はブルージーンズとTシャツを着ていた。" },
+      { "title": "② a pair of jeans", "desc": "数える言い方。", "example_en": "I bought a new pair of jeans.", "example_ja": "私は新しいジーンズを1本買った。" },
+      { "title": "③ カジュアルな服", "desc": "普段着として。", "example_en": "Jeans are comfortable for everyday wear.", "example_ja": "ジーンズは普段着に快適だ。" }
+    ],
+    "warn": ["常に複数形 jeans。1本でも a jean とは言わず a pair of jeans。", "生地はデニム(denim)。"],
+    "etym_note": "イタリアの港町ジェノヴァ（Genoa）で作られたじょうぶな綿布（フランス語で Gênes）に由来します。この生地で作られたズボンが jeans と呼ばれるようになりました。",
+    "etym_chain": [
+      { "node": "Gênes", "sub": "ジェノヴァ(の布)", "era": "フランス語" },
+      { "node": "jean", "sub": "綿の生地", "era": "近代英語" },
+      { "node": "jeans", "sub": "ジーンズ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a pair of jeans", "ja": "ジーンズ1本" },
+      { "en": "blue jeans", "ja": "ブルージーンズ" },
+      { "en": "skinny jeans", "ja": "スキニージーンズ" },
+      { "en": "wear jeans", "ja": "ジーンズをはく" },
+      { "en": "ripped jeans", "ja": "破れたジーンズ" },
+      { "en": "tight jeans", "ja": "ぴったりしたジーンズ" }
+    ],
+    "related": [
+      { "en": "denim", "ja": "デニム(生地)" },
+      { "en": "trousers", "ja": "ズボン" },
+      { "en": "pants", "ja": "ズボン(米)" },
+      { "en": "clothes", "ja": "衣服" }
+    ],
+    "faq": [
+      { "q": "jeans はなぜ複数形ですか？", "a": "ズボンは左右2本の脚の部分があるため、常に複数形で表します。1本を数えるときは a pair of jeans と言います。" },
+      { "q": "jeans の語源は？", "a": "イタリアの港町ジェノヴァ（Genoa）で作られたじょうぶな綿布に由来します。" }
+    ],
+    "quiz": [
+      { "q": "I bought a pair of ___ at the store.（店でジーンズを1本買った）", "A": "jeans", "B": "jacket", "C": "jam", "D": "jaw", "correct": "A" },
+      { "q": "「ジーンズ1本」は a ___ of jeans。空所は？", "A": "pair", "B": "piece", "C": "cup", "D": "slice", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jelly",
+    "pron": "ˈdʒeli",
+    "kana": "ジェリー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 gelare（凍る・固まる)",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A1", "食べ物"],
+    "meaning_main": "ゼリー／(果物の)ジェリー",
+    "description": "jelly は「ゼリー」を表す名詞。果汁などをゼラチンで固めたぷるぷるの食べ物です。アメリカでは種のない果物のジャム（パンに塗るもの）も jelly と呼びます。ラテン語の「固まる」が語源です。",
+    "keywords": ["jelly 意味", "jelly 発音", "jelly ゼリー", "jelly ジャム", "jelly 例文"],
+    "meanings": [
+      { "hinshi": "【名】ゼリー", "note": "果汁などをゼラチンで固めた食べ物。" },
+      { "hinshi": "【名】(米)果物のジェリー", "note": "パンに塗る種なしのジャム。" }
+    ],
+    "usages": [
+      { "title": "① ゼリー（デザート）", "desc": "ぷるぷるの食べ物。", "example_en": "The children ate orange jelly.", "example_ja": "子供たちはオレンジゼリーを食べた。" },
+      { "title": "② (米)ジェリー（ジャム）", "desc": "パンに塗る。", "example_en": "He spread jelly on his toast.", "example_ja": "彼はトーストにジェリーを塗った。" },
+      { "title": "③ ぷるぷるした様子", "desc": "like jelly。", "example_en": "My legs felt like jelly.", "example_ja": "私の脚はがくがくだった（ゼリーのようだった）。" }
+    ],
+    "warn": ["イギリスの jelly はデザートのゼリー、アメリカの jelly はパンに塗る果物ジャムを指す。", "ゼリー状のデザートは米では Jell-O とも呼ぶ。"],
+    "etym_note": "ラテン語 gelare（凍る・固まる）に由来し、古フランス語 gelee を経て英語に入りました。gel（ゲル）や gelatin（ゼラチン）と同じ語源です。",
+    "etym_chain": [
+      { "node": "gelare", "sub": "固まる", "era": "ラテン語" },
+      { "node": "gelee", "sub": "ゼリー", "era": "古フランス語" },
+      { "node": "jelly", "sub": "ゼリー", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "orange jelly", "ja": "オレンジゼリー" },
+      { "en": "jelly and ice cream", "ja": "ゼリーとアイス" },
+      { "en": "peanut butter and jelly", "ja": "ピーナッツバターとジェリー" },
+      { "en": "like jelly", "ja": "ぷるぷるした・がくがくの" },
+      { "en": "a jelly bean", "ja": "ゼリービーンズ" },
+      { "en": "jellyfish", "ja": "クラゲ" }
+    ],
+    "related": [
+      { "en": "jam", "ja": "ジャム" },
+      { "en": "gelatin", "ja": "ゼラチン" },
+      { "en": "dessert", "ja": "デザート" },
+      { "en": "pudding", "ja": "プリン・プディング" }
+    ],
+    "faq": [
+      { "q": "イギリスとアメリカで jelly の意味が違いますか？", "a": "はい。イギリスの jelly はデザートの「ゼリー」、アメリカの jelly はパンに塗る種なしの「果物ジャム」を主に指します。" },
+      { "q": "jellyfish とは？", "a": "「クラゲ」のことです。jelly（ゼリー状）＋ fish（魚）で、ぷるぷるした体にちなんだ名です。" }
+    ],
+    "quiz": [
+      { "q": "The kids had wobbly orange ___ for dessert.（子供たちはデザートにぷるぷるのオレンジゼリーを食べた）", "A": "jelly", "B": "jacket", "C": "jaw", "D": "jet", "correct": "A" },
+      { "q": "jellyfish の意味は？", "A": "クラゲ", "B": "金魚", "C": "サメ", "D": "貝", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jet",
+    "pron": "dʒet",
+    "kana": "ジェット",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 jactare（投げる)",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "乗り物・科学"],
+    "meaning_main": "ジェット機／噴射／噴出",
+    "description": "jet は「ジェット機」を表す名詞。ジェットエンジンで飛ぶ飛行機を指します。また、水や気体の「噴射・噴出（勢いよく吹き出る流れ）」の意味もあります。ラテン語の「投げる」が語源です。",
+    "keywords": ["jet 意味", "jet 発音", "jet ジェット機", "jet 噴射", "jet 例文"],
+    "meanings": [
+      { "hinshi": "【名】ジェット機", "note": "ジェットエンジンで飛ぶ飛行機。" },
+      { "hinshi": "【名】噴射・噴出", "note": "勢いよく吹き出る水や気体の流れ。" },
+      { "hinshi": "【動】ジェット機で行く・噴出する", "note": "勢いよく移動・吹き出す。" }
+    ],
+    "usages": [
+      { "title": "① ジェット機", "desc": "高速で飛ぶ飛行機。", "example_en": "The jet took off into the sky.", "example_ja": "ジェット機は空へ飛び立った。" },
+      { "title": "② 噴射・噴出", "desc": "水や気体の流れ。", "example_en": "A jet of water shot from the hose.", "example_ja": "ホースから水が勢いよく噴き出した。" },
+      { "title": "③ jet lag（時差ぼけ）", "desc": "長距離飛行の影響。", "example_en": "I have jet lag after the long flight.", "example_ja": "長いフライトの後で時差ぼけだ。" }
+    ],
+    "warn": ["過去形・-ing 形は t を重ねる: jetted, jetting。", "jet lag（時差ぼけ）、jet engine（ジェットエンジン）など複合語も重要。"],
+    "etym_note": "ラテン語 jactare（投げる・放つ）に由来し、フランス語 jeter（投げる）を経て英語に入りました。「勢いよく放たれるもの」から噴射・ジェットの意味になりました。",
+    "etym_chain": [
+      { "node": "jactare", "sub": "投げる", "era": "ラテン語" },
+      { "node": "jeter", "sub": "投げる", "era": "フランス語" },
+      { "node": "jet", "sub": "噴射・ジェット機", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a jet plane", "ja": "ジェット機" },
+      { "en": "a jet engine", "ja": "ジェットエンジン" },
+      { "en": "jet lag", "ja": "時差ぼけ" },
+      { "en": "a jet of water", "ja": "水の噴射" },
+      { "en": "a private jet", "ja": "プライベートジェット" },
+      { "en": "jet-black", "ja": "真っ黒な" }
+    ],
+    "related": [
+      { "en": "plane", "ja": "飛行機" },
+      { "en": "airplane", "ja": "飛行機" },
+      { "en": "engine", "ja": "エンジン" },
+      { "en": "spray", "ja": "噴霧・吹きかける" }
+    ],
+    "faq": [
+      { "q": "jet lag とは何ですか？", "a": "ジェット機で時差の大きい地域へ移動したときに起こる「時差ぼけ」のことです。体内時計がずれて眠気やだるさが生じます。" },
+      { "q": "jet の2つの意味を教えてください。", "a": "①ジェットエンジンで飛ぶ「ジェット機」、②水や気体が勢いよく吹き出る「噴射・噴出」という意味があります。" }
+    ],
+    "quiz": [
+      { "q": "The fighter ___ flew high above the clouds.（そのジェット戦闘機は雲の上高く飛んだ）", "A": "jet", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "「時差ぼけ」は ___ lag。空所は？", "A": "jet", "B": "jazz", "C": "jelly", "D": "jewel", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jewel",
+    "pron": "ˈdʒuːəl",
+    "kana": "ジュエル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 jouel（宝石)",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "宝飾"],
+    "meaning_main": "宝石／貴重なもの",
+    "description": "jewel は「宝石」を表す名詞。ダイヤモンドやルビーなど、美しく高価な石を指します。比喩的に「貴重なもの・宝物」の意味でも使われます。複数の宝石や宝飾品全体は jewelry（宝石類）と言います。",
+    "keywords": ["jewel 意味", "jewel 発音", "jewel 宝石", "jewelry 宝飾品", "jewel 例文"],
+    "meanings": [
+      { "hinshi": "【名】宝石", "note": "美しく高価な石。ダイヤ・ルビーなど。" },
+      { "hinshi": "【名】貴重なもの・宝物", "note": "比喩的に大切な存在。" }
+    ],
+    "usages": [
+      { "title": "① 宝石", "desc": "美しく高価な石。", "example_en": "The crown was covered with jewels.", "example_ja": "その王冠は宝石で覆われていた。" },
+      { "title": "② 貴重なもの（比喩）", "desc": "宝物のような存在。", "example_en": "This old town is a hidden jewel.", "example_ja": "この古い町は知る人ぞ知る宝だ。" },
+      { "title": "③ jewelry（宝飾品）", "desc": "宝石類全般。", "example_en": "She wore expensive jewelry.", "example_ja": "彼女は高価な宝飾品を身につけていた。" }
+    ],
+    "warn": ["宝飾品全体は jewelry（米）/ jewellery（英）。", "発音は /ˈdʒuːəl/。"],
+    "etym_note": "古フランス語 jouel（宝石・貴重品）に由来し、ラテン語 jocus（遊び・楽しみ）にさかのぼるとされます。美しく楽しませるものから「宝石」の意味になりました。",
+    "etym_chain": [
+      { "node": "jouel", "sub": "宝石", "era": "古フランス語" },
+      { "node": "juel", "sub": "宝石", "era": "中英語" },
+      { "node": "jewel", "sub": "宝石", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "precious jewels", "ja": "貴重な宝石" },
+      { "en": "a jewel box", "ja": "宝石箱" },
+      { "en": "the crown jewels", "ja": "王室の宝石" },
+      { "en": "a hidden jewel", "ja": "知られざる宝" },
+      { "en": "jewelry", "ja": "宝飾品" },
+      { "en": "a jewel thief", "ja": "宝石泥棒" }
+    ],
+    "related": [
+      { "en": "gem", "ja": "宝石" },
+      { "en": "diamond", "ja": "ダイヤモンド" },
+      { "en": "jewelry", "ja": "宝飾品" },
+      { "en": "treasure", "ja": "宝物" }
+    ],
+    "faq": [
+      { "q": "jewel と jewelry の違いは？", "a": "jewel は1つ1つの「宝石」、jewelry（英 jewellery）は指輪やネックレスなど宝石を使った「宝飾品全体」を指す不可算名詞です。" },
+      { "q": "jewel は比喩でも使いますか？", "a": "はい。「貴重なもの・宝物」の意味で使い、a hidden jewel（知られざる名所・逸品）のように表現します。" }
+    ],
+    "quiz": [
+      { "q": "The queen's crown sparkled with ___.（女王の王冠は宝石できらめいていた）", "A": "jewels", "B": "jackets", "C": "jars", "D": "jaws", "correct": "A" },
+      { "q": "宝飾品全体を表す語は？", "A": "jewelry", "B": "jewel", "C": "jelly", "D": "jazz", "correct": "A" }
+    ]
+  }
+]

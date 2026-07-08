@@ -1,0 +1,515 @@
+[
+  {
+    "english": "jail",
+    "pron": "dʒeɪl",
+    "kana": "ジェイル",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 cavea（おり)",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "社会"],
+    "meaning_main": "刑務所／留置場／投獄する",
+    "description": "jail は「刑務所・留置場」を表す名詞。罪を犯した人や、裁判を待つ人を閉じ込めておく施設を指します。動詞では「投獄する」。in jail（刑務所に入って）の形でよく使われます。イギリスでは gaol と綴ることもあります。",
+    "keywords": ["jail 意味", "jail 発音", "jail 刑務所", "in jail", "jail 例文"],
+    "meanings": [
+      { "hinshi": "【名】刑務所・留置場", "note": "罪を犯した人などを閉じ込める施設。" },
+      { "hinshi": "【動】投獄する・収監する", "note": "刑務所に入れる。" }
+    ],
+    "usages": [
+      { "title": "① 刑務所 (in jail)", "desc": "「刑務所に入って」。", "example_en": "The thief was put in jail.", "example_ja": "その泥棒は刑務所に入れられた。" },
+      { "title": "② 投獄する（動詞）", "desc": "be jailed。", "example_en": "He was jailed for five years.", "example_ja": "彼は5年間投獄された。" },
+      { "title": "③ 釈放される", "desc": "get out of jail。", "example_en": "She got out of jail last week.", "example_ja": "彼女は先週刑務所を出た。" }
+    ],
+    "warn": ["「刑務所に入って」は in jail（無冠詞のことが多い）。", "イギリス綴りは gaol（発音は同じ /dʒeɪl/）。prison とほぼ同義。"],
+    "etym_note": "ラテン語 cavea（おり・囲い）に由来し、古フランス語 jaiole を経て英語に入りました。cage（おり）と同じ語源です。",
+    "etym_chain": [
+      { "node": "cavea", "sub": "おり", "era": "ラテン語" },
+      { "node": "jaiole", "sub": "牢屋", "era": "古フランス語" },
+      { "node": "jail", "sub": "刑務所", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "in jail", "ja": "刑務所に入って" },
+      { "en": "go to jail", "ja": "刑務所に入る" },
+      { "en": "put in jail", "ja": "投獄する" },
+      { "en": "get out of jail", "ja": "刑務所を出る" },
+      { "en": "a jail sentence", "ja": "実刑判決" },
+      { "en": "break out of jail", "ja": "脱獄する" }
+    ],
+    "related": [
+      { "en": "prison", "ja": "刑務所" },
+      { "en": "cell", "ja": "独房" },
+      { "en": "crime", "ja": "犯罪" },
+      { "en": "prisoner", "ja": "囚人" }
+    ],
+    "faq": [
+      { "q": "jail と prison の違いは？", "a": "ほぼ同じ「刑務所」ですが、アメリカでは jail は比較的短期・裁判待ちの拘置施設、prison は長期の刑を受ける施設を指す区別があります。日常ではほぼ同義です。" },
+      { "q": "gaol とは何ですか？", "a": "jail のイギリス式の古い綴りです。発音は同じ /dʒeɪl/（ジェイル）です。" }
+    ],
+    "quiz": [
+      { "q": "The criminal was sent to ___.（その犯罪者は刑務所に送られた）", "A": "jail", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jail とほぼ同じ意味の語は？", "A": "prison", "B": "palace", "C": "school", "D": "hospital", "correct": "A" }
+    ]
+  },
+  {
+    "english": "joint",
+    "pron": "dʒɔɪnt",
+    "kana": "ジョイント",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 junctus（つながれた)",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "体・頻出語"],
+    "meaning_main": "関節／接合部／共同の",
+    "description": "joint は「関節・接合部」を表す名詞、また「共同の・合同の」を表す形容詞です。体の骨と骨のつなぎ目や、物と物のつなぎ目を指します。形容詞では、複数の人が一緒に行う「共同の」を表します。",
+    "keywords": ["joint 意味", "joint 発音", "joint 関節", "joint 共同の", "joint 例文"],
+    "meanings": [
+      { "hinshi": "【名】関節", "note": "骨と骨のつなぎ目。ひじ・ひざなど。" },
+      { "hinshi": "【名】接合部・つなぎ目", "note": "物と物をつなぐ部分。" },
+      { "hinshi": "【形】共同の・合同の", "note": "複数で一緒に行う。" }
+    ],
+    "usages": [
+      { "title": "① 関節（体）", "desc": "骨のつなぎ目。", "example_en": "My knee joint hurts.", "example_ja": "ひざの関節が痛む。" },
+      { "title": "② 接合部（物）", "desc": "つなぎ目。", "example_en": "The pipe leaks at the joint.", "example_ja": "そのパイプは接合部から漏れている。" },
+      { "title": "③ 共同の（形容詞）", "desc": "a joint effort など。", "example_en": "It was a joint effort by the whole team.", "example_ja": "それはチーム全体の共同作業だった。" }
+    ],
+    "warn": ["名詞の「関節・接合部」と、形容詞の「共同の」の両方がある。", "join（つなぐ）と同じ語源。"],
+    "etym_note": "ラテン語 junctus（jungere＝つなぐ、の過去分詞＝つながれた）に由来し、古フランス語を経て英語に入りました。join（つなぐ）や junction（連結点）と同じ語源です。",
+    "etym_chain": [
+      { "node": "junctus", "sub": "つながれた", "era": "ラテン語" },
+      { "node": "joint", "sub": "つなぎ目", "era": "古フランス語" },
+      { "node": "joint", "sub": "関節・共同の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a knee joint", "ja": "ひざの関節" },
+      { "en": "joint effort", "ja": "共同作業" },
+      { "en": "a joint account", "ja": "共同名義の口座" },
+      { "en": "out of joint", "ja": "関節が外れて・調子が狂って" },
+      { "en": "joint venture", "ja": "合弁事業" },
+      { "en": "joint pain", "ja": "関節痛" }
+    ],
+    "related": [
+      { "en": "join", "ja": "つなぐ" },
+      { "en": "bone", "ja": "骨" },
+      { "en": "connection", "ja": "接続" },
+      { "en": "shared", "ja": "共有の" }
+    ],
+    "faq": [
+      { "q": "joint の名詞と形容詞の意味は？", "a": "名詞では「関節・接合部（つなぎ目）」、形容詞では「共同の・合同の」を表します。a joint effort（共同作業）のように使います。" },
+      { "q": "joint venture とは？", "a": "複数の企業が共同で行う「合弁事業」のことです。joint（共同の）＋ venture（事業）でできています。" }
+    ],
+    "quiz": [
+      { "q": "The elbow is a ___ in the arm.（ひじは腕の関節だ）", "A": "joint", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "a ___ effort は「共同作業」。空所は？", "A": "joint", "B": "junk", "C": "juice", "D": "joke", "correct": "A" }
+    ]
+  },
+  {
+    "english": "journal",
+    "pron": "ˈdʒɜːrnl",
+    "kana": "ジャーナル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 diurnalis（毎日の)",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "頻出語"],
+    "meaning_main": "日記／専門誌／新聞",
+    "description": "journal は「日記・専門誌」を表す名詞。日々の出来事を書き留める「日記」や、特定の分野の学術的な「専門誌・機関誌」を指します。新聞名にも使われます。journey と同じく「一日」を意味するラテン語が語源です。",
+    "keywords": ["journal 意味", "journal 発音", "journal 日記", "journal 専門誌", "journal 例文"],
+    "meanings": [
+      { "hinshi": "【名】日記・日誌", "note": "日々の出来事を書き留めるもの。" },
+      { "hinshi": "【名】専門誌・学術誌", "note": "特定分野の定期刊行物。" },
+      { "hinshi": "【名】新聞", "note": "新聞名にも使われる。" }
+    ],
+    "usages": [
+      { "title": "① 日記・日誌", "desc": "日々の記録。", "example_en": "She keeps a journal of her travels.", "example_ja": "彼女は旅の日記をつけている。" },
+      { "title": "② 専門誌", "desc": "学術的な刊行物。", "example_en": "The study appeared in a science journal.", "example_ja": "その研究は科学の専門誌に掲載された。" },
+      { "title": "③ keep a journal（日記をつける）", "desc": "習慣として書く。", "example_en": "I keep a journal every night.", "example_ja": "私は毎晩日記をつける。" }
+    ],
+    "warn": ["「日記」の意味では diary と近い。journal はより自由な記録・日誌のニュアンス。", "「日記をつける」は keep a journal。"],
+    "etym_note": "ラテン語 diurnalis（毎日の・日々の）に由来し、古フランス語 journal を経て英語に入りました。journey（旅）や diary（日記）と同じ「日」を表す語源です。",
+    "etym_chain": [
+      { "node": "diurnalis", "sub": "毎日の", "era": "ラテン語" },
+      { "node": "journal", "sub": "日々の記録", "era": "古フランス語" },
+      { "node": "journal", "sub": "日記・専門誌", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "keep a journal", "ja": "日記をつける" },
+      { "en": "a scientific journal", "ja": "科学誌" },
+      { "en": "a travel journal", "ja": "旅日記" },
+      { "en": "an academic journal", "ja": "学術誌" },
+      { "en": "a medical journal", "ja": "医学専門誌" },
+      { "en": "write in a journal", "ja": "日誌に書く" }
+    ],
+    "related": [
+      { "en": "diary", "ja": "日記" },
+      { "en": "magazine", "ja": "雑誌" },
+      { "en": "journalist", "ja": "ジャーナリスト・記者" },
+      { "en": "record", "ja": "記録" }
+    ],
+    "faq": [
+      { "q": "journal と diary の違いは？", "a": "どちらも「日記」ですが、diary は日付ごとの個人的な記録、journal はより自由な日誌や思索の記録、また学術的な「専門誌」の意味もあります。" },
+      { "q": "journalist とは？", "a": "journal（新聞・雑誌）に記事を書く人、つまり「ジャーナリスト・記者」のことです。" }
+    ],
+    "quiz": [
+      { "q": "The research was published in a scientific ___.（その研究は科学の専門誌に発表された）", "A": "journal", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "keep a ___ は「日記をつける」。空所は？", "A": "journal", "B": "junk", "C": "juice", "D": "joke", "correct": "A" }
+    ]
+  },
+  {
+    "english": "juggle",
+    "pron": "ˈdʒʌɡl",
+    "kana": "ジャグル",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 joculari（冗談を言う)",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "動作・比喩"],
+    "meaning_main": "ジャグリングする／(複数を)同時にこなす",
+    "description": "juggle は「ジャグリングする」を表す動詞。複数のボールなどを空中に投げてはキャッチし、次々と操ることを指します。比喩的に「(仕事や役割など複数のことを)同時にうまくこなす・やりくりする」の意味でも頻出します。",
+    "keywords": ["juggle 意味", "juggle 発音", "juggle ジャグリング", "juggle やりくり", "juggle 例文"],
+    "meanings": [
+      { "hinshi": "【動】ジャグリングする", "note": "複数の物を投げては受けて操る。" },
+      { "hinshi": "【動】(複数のことを)同時にこなす・やりくりする", "note": "仕事・役割などを両立させる。" }
+    ],
+    "usages": [
+      { "title": "① ジャグリングする", "desc": "物を操る。", "example_en": "He can juggle five balls.", "example_ja": "彼はボール5個をジャグリングできる。" },
+      { "title": "② 同時にこなす（比喩）", "desc": "仕事と家庭など。", "example_en": "She juggles work and family.", "example_ja": "彼女は仕事と家庭を両立させている。" },
+      { "title": "③ やりくりする", "desc": "時間や予定を。", "example_en": "I have to juggle several tasks at once.", "example_ja": "私はいくつもの仕事を同時にこなさねばならない。" }
+    ],
+    "warn": ["過去形・-ing 形は gg のまま: juggled, juggling。", "比喩の「複数を両立させる」は juggle A and B / juggle tasks。"],
+    "etym_note": "ラテン語 joculari（冗談を言う・戯れる）に由来し、joke（冗談）と同じ語源です。もとは「芸をする・手品をする」の意味で、そこから「ジャグリングする・やりくりする」の意味になりました。",
+    "etym_chain": [
+      { "node": "joculari", "sub": "戯れる", "era": "ラテン語" },
+      { "node": "juggle", "sub": "手品をする", "era": "中英語" },
+      { "node": "juggle", "sub": "ジャグリングする・こなす", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "juggle balls", "ja": "ボールをジャグリングする" },
+      { "en": "juggle work and family", "ja": "仕事と家庭を両立する" },
+      { "en": "juggle many tasks", "ja": "多くの仕事をこなす" },
+      { "en": "juggle a busy schedule", "ja": "忙しい予定をやりくりする" },
+      { "en": "juggle responsibilities", "ja": "複数の責任を両立させる" },
+      { "en": "learn to juggle", "ja": "ジャグリングを覚える" }
+    ],
+    "related": [
+      { "en": "balance", "ja": "両立させる・釣り合わせる" },
+      { "en": "manage", "ja": "やりくりする" },
+      { "en": "handle", "ja": "扱う・こなす" },
+      { "en": "toss", "ja": "投げる" }
+    ],
+    "faq": [
+      { "q": "juggle の比喩的な意味は？", "a": "ジャグリングのように複数の物を同時に扱う様子から、「(仕事・家庭・予定など複数のことを)同時にうまくこなす・やりくりする」という意味で使われます。" },
+      { "q": "juggle と joke は関係がありますか？", "a": "はい。どちらもラテン語 joculari（戯れる）に由来する同語源の語です。juggle はもと「芸をする」の意味でした。" }
+    ],
+    "quiz": [
+      { "q": "It's hard to ___ a job and studying at the same time.（仕事と勉強を同時にこなすのは難しい）", "A": "juggle", "B": "jam", "C": "jog", "D": "jump", "correct": "A" },
+      { "q": "juggle のもとの意味は？", "A": "芸をする・手品をする", "B": "眠る", "C": "料理する", "D": "掃除する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "junior",
+    "pron": "ˈdʒuːniər",
+    "kana": "ジュニア",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 junior（より若い)",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "頻出語"],
+    "meaning_main": "年下の／後輩の／下級の",
+    "description": "junior は「年下の・後輩の・下級の」を表す形容詞、また「年少者・後輩」を表す名詞です。地位や年齢が下であることを示します。反対は senior（年上の・先輩の）。名前の後につけて「息子（〜二世）」を表すこともあります。",
+    "keywords": ["junior 意味", "junior 発音", "junior 後輩", "junior senior", "junior 例文"],
+    "meanings": [
+      { "hinshi": "【形】年下の・後輩の・下級の", "note": "地位や年齢が下。反対は senior。" },
+      { "hinshi": "【名】年少者・後輩・下級生", "note": "地位や年齢が下の人。" }
+    ],
+    "usages": [
+      { "title": "① 下級の・後輩の（形容詞）", "desc": "地位が下。", "example_en": "He is a junior member of the team.", "example_ja": "彼はチームの下位のメンバーだ。" },
+      { "title": "② 年少者・後輩（名詞）", "desc": "senior の反対。", "example_en": "She is my junior by two years.", "example_ja": "彼女は私より2歳年下だ。" },
+      { "title": "③ junior high school（中学校）", "desc": "複合語。", "example_en": "My brother is in junior high school.", "example_ja": "弟は中学生だ。" }
+    ],
+    "warn": ["反対語は senior（年上の・上級の）。", "名前の後の Jr.（Junior）は「〜二世・息子」を表す。"],
+    "etym_note": "ラテン語 junior（juvenis＝若い、の比較級＝「より若い」）に由来します。senior（より年上の）と対をなす語で、young（若い）とも関係があります。",
+    "etym_chain": [
+      { "node": "junior", "sub": "より若い", "era": "ラテン語" },
+      { "node": "junior", "sub": "年下の", "era": "近代英語" },
+      { "node": "junior", "sub": "年下の・後輩の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "junior high school", "ja": "中学校" },
+      { "en": "a junior member", "ja": "下位のメンバー" },
+      { "en": "junior and senior", "ja": "後輩と先輩" },
+      { "en": "a junior partner", "ja": "下位の共同経営者" },
+      { "en": "junior staff", "ja": "若手のスタッフ" },
+      { "en": "one's junior", "ja": "〜の年下の者" }
+    ],
+    "related": [
+      { "en": "senior", "ja": "年上の・上級の" },
+      { "en": "young", "ja": "若い" },
+      { "en": "younger", "ja": "より若い" },
+      { "en": "beginner", "ja": "初心者" }
+    ],
+    "faq": [
+      { "q": "junior の反対語は？", "a": "senior（年上の・上級の・先輩の）です。junior は「年下の・下級の」を表します。" },
+      { "q": "名前の後の Jr. とは何ですか？", "a": "Junior の略で、父親と同じ名前の息子を区別するために付けます。「〜二世・息子」という意味です。" }
+    ],
+    "quiz": [
+      { "q": "My sister is in ___ high school.（妹は中学生だ）", "A": "junior", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "junior の反対語は？", "A": "senior", "B": "junk", "C": "juice", "D": "joke", "correct": "A" }
+    ]
+  },
+  {
+    "english": "junk",
+    "pron": "dʒʌŋk",
+    "kana": "ジャンク",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "中英語 jonke（古綱)",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "日常語"],
+    "meaning_main": "がらくた／くず／価値のないもの",
+    "description": "junk は「がらくた・くず」を表す名詞。いらなくなった価値のない物や、質の悪いものを指します。原則不可算名詞です。junk food（ジャンクフード）、junk mail（迷惑メール・広告)などの複合語でも頻出します。",
+    "keywords": ["junk 意味", "junk 発音", "junk がらくた", "junk food", "junk 例文"],
+    "meanings": [
+      { "hinshi": "【名】がらくた・くず", "note": "いらない価値のない物。不可算。" },
+      { "hinshi": "【名】質の悪いもの", "note": "junk food など。" }
+    ],
+    "usages": [
+      { "title": "① がらくた", "desc": "不要な物。", "example_en": "The garage is full of junk.", "example_ja": "ガレージはがらくたでいっぱいだ。" },
+      { "title": "② junk food（ジャンクフード）", "desc": "栄養の乏しい食べ物。", "example_en": "Try not to eat too much junk food.", "example_ja": "ジャンクフードを食べ過ぎないようにね。" },
+      { "title": "③ junk mail（迷惑広告）", "desc": "不要な郵便・メール。", "example_en": "My inbox is full of junk mail.", "example_ja": "受信箱は迷惑メールでいっぱいだ。" }
+    ],
+    "warn": ["原則不可算名詞。数えず a piece of junk などで表す。", "garbage / trash（ごみ）と近いが、junk は『価値のない物』が中心。"],
+    "etym_note": "中英語 jonke（古くなった綱・不要なロープ）に由来するとされます。もとは船で使い古したロープを指し、そこから「不要な物・がらくた」の意味に広がりました。",
+    "etym_chain": [
+      { "node": "jonke", "sub": "古綱", "era": "中英語" },
+      { "node": "junk", "sub": "がらくた", "era": "近代英語" },
+      { "node": "junk", "sub": "がらくた・くず", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "junk food", "ja": "ジャンクフード" },
+      { "en": "junk mail", "ja": "迷惑広告・迷惑メール" },
+      { "en": "a pile of junk", "ja": "がらくたの山" },
+      { "en": "get rid of junk", "ja": "がらくたを処分する" },
+      { "en": "a junk shop", "ja": "がらくた屋・古物店" },
+      { "en": "junk drawer", "ja": "こまごました物を入れる引き出し" }
+    ],
+    "related": [
+      { "en": "trash", "ja": "ごみ" },
+      { "en": "garbage", "ja": "ごみ・生ごみ" },
+      { "en": "rubbish", "ja": "ごみ・くだらないもの" },
+      { "en": "waste", "ja": "廃棄物" }
+    ],
+    "faq": [
+      { "q": "junk と trash の違いは？", "a": "trash / garbage は捨てる「ごみ」全般、junk は「価値がなくなった不要な物・がらくた」を指します。まだ物としては残っているニュアンスがあります。" },
+      { "q": "junk food とは？", "a": "カロリーは高いが栄養に乏しい食べ物（スナック菓子やファストフードなど）を指します。" }
+    ],
+    "quiz": [
+      { "q": "We cleared out all the ___ in the attic.（屋根裏のがらくたを全部片付けた）", "A": "junk", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "___ food は「ジャンクフード」。空所は？", "A": "junk", "B": "juice", "C": "joke", "D": "joint", "correct": "A" }
+    ]
+  },
+  {
+    "english": "just",
+    "pron": "dʒʌst",
+    "kana": "ジャスト",
+    "hinshi": "副詞 / 形容詞",
+    "ld_pos": "副詞",
+    "ld_etym": "ラテン語 justus（正しい)",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "超基本語"],
+    "meaning_main": "ちょうど／たった今／ただ〜だけ／公正な",
+    "description": "just は「ちょうど・たった今・ただ〜だけ」を表す最重要副詞。時間の「ちょうど・今しがた」、程度の「ただ〜だけ・ほんの」など幅広く使われます。形容詞では「公正な・正当な」の意味もあります。",
+    "keywords": ["just 意味", "just 発音", "just ちょうど", "just たった今", "just 例文"],
+    "meanings": [
+      { "hinshi": "【副】ちょうど・まさに", "note": "just right（ちょうどよい）など。" },
+      { "hinshi": "【副】たった今・今しがた", "note": "have just＋過去分詞。" },
+      { "hinshi": "【副】ただ〜だけ・ほんの", "note": "just a little（ほんの少し）。" },
+      { "hinshi": "【形】公正な・正当な", "note": "a just decision（公正な決定）。" }
+    ],
+    "usages": [
+      { "title": "① たった今 (have just done)", "desc": "現在完了と使う。", "example_en": "I have just finished my homework.", "example_ja": "宿題をちょうど終えたところだ。" },
+      { "title": "② ただ〜だけ・ほんの", "desc": "程度を限定。", "example_en": "It's just a small problem.", "example_ja": "それはほんの小さな問題だ。" },
+      { "title": "③ ちょうど・まさに", "desc": "just right など。", "example_en": "This is just what I wanted.", "example_ja": "これはまさに私が欲しかったものだ。" }
+    ],
+    "warn": ["「たった今〜した」は have just＋過去分詞。", "形容詞の「公正な」は justice（正義）と同じ語源。"],
+    "etym_note": "ラテン語 justus（正しい・公正な）に由来します。もとは「正確に・きっちり」の意味で、そこから「ちょうど・ただ〜だけ」など幅広い副詞の意味に発展しました。justice（正義）と同じ語源です。",
+    "etym_chain": [
+      { "node": "justus", "sub": "正しい", "era": "ラテン語" },
+      { "node": "juste", "sub": "正確な", "era": "古フランス語" },
+      { "node": "just", "sub": "ちょうど・ただ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "have just done", "ja": "たった今〜した" },
+      { "en": "just a moment", "ja": "少々お待ちを" },
+      { "en": "just right", "ja": "ちょうどよい" },
+      { "en": "just now", "ja": "たった今・今しがた" },
+      { "en": "just in time", "ja": "ぎりぎり間に合って" },
+      { "en": "just a little", "ja": "ほんの少し" }
+    ],
+    "related": [
+      { "en": "only", "ja": "ただ〜だけ" },
+      { "en": "exactly", "ja": "ちょうど・正確に" },
+      { "en": "simply", "ja": "ただ単に" },
+      { "en": "fair", "ja": "公正な" }
+    ],
+    "faq": [
+      { "q": "have just done とはどんな意味ですか？", "a": "「たった今〜したところだ」という意味です。現在完了形と一緒に使い、直前に完了したことを表します。例: I have just arrived.（今着いたところだ）。" },
+      { "q": "just に「公正な」の意味もありますか？", "a": "はい。形容詞で a just society（公正な社会）のように「公正な・正当な」の意味があります。名詞 justice（正義）と同じ語源です。" }
+    ],
+    "quiz": [
+      { "q": "I have ___ finished eating.（ちょうど食べ終わったところだ）", "A": "just", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "just in ___ は「ぎりぎり間に合って」。空所は？", "A": "time", "B": "junk", "C": "juice", "D": "joke", "correct": "A" }
+    ]
+  },
+  {
+    "english": "justice",
+    "pron": "ˈdʒʌstɪs",
+    "kana": "ジャスティス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 justitia（正義)",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "頻出語"],
+    "meaning_main": "正義／公正／司法",
+    "description": "justice は「正義・公正」を表す名詞。物事が正しく公平に行われることや、法によって罪を裁く「司法」を指します。原則不可算名詞で、反対は injustice（不正・不公平）。裁判官を指すこともあります。",
+    "keywords": ["justice 意味", "justice 発音", "justice 正義", "justice 公正", "justice 例文"],
+    "meanings": [
+      { "hinshi": "【名】正義・公正", "note": "正しく公平であること。不可算。" },
+      { "hinshi": "【名】司法・裁き", "note": "法によって罪を裁くこと。" },
+      { "hinshi": "【名】裁判官・判事", "note": "特に最高裁の判事。" }
+    ],
+    "usages": [
+      { "title": "① 正義・公正", "desc": "正しく公平なこと。", "example_en": "They fought for justice.", "example_ja": "彼らは正義のために戦った。" },
+      { "title": "② 司法・裁き", "desc": "罪を裁く。", "example_en": "The criminal was brought to justice.", "example_ja": "その犯罪者は法の裁きを受けた。" },
+      { "title": "③ 反対は injustice", "desc": "不正・不公平。", "example_en": "We must fight against injustice.", "example_ja": "私たちは不正と戦わねばならない。" }
+    ],
+    "warn": ["原則不可算名詞。反対は injustice（不正）。", "bring ~ to justice で「〜を法で裁く」。"],
+    "etym_note": "ラテン語 justitia（正義・公正）に由来し、justus（正しい）から来ています。just（公正な）や judge（裁く）と同じ語源です。",
+    "etym_chain": [
+      { "node": "justitia", "sub": "正義", "era": "ラテン語" },
+      { "node": "justice", "sub": "正義", "era": "古フランス語" },
+      { "node": "justice", "sub": "正義・司法", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "fight for justice", "ja": "正義のために戦う" },
+      { "en": "bring to justice", "ja": "法で裁く" },
+      { "en": "social justice", "ja": "社会正義" },
+      { "en": "a sense of justice", "ja": "正義感" },
+      { "en": "the justice system", "ja": "司法制度" },
+      { "en": "do justice to", "ja": "〜を正当に評価する" }
+    ],
+    "related": [
+      { "en": "just", "ja": "公正な" },
+      { "en": "fair", "ja": "公平な" },
+      { "en": "law", "ja": "法律" },
+      { "en": "injustice", "ja": "不正" }
+    ],
+    "faq": [
+      { "q": "justice の反対語は？", "a": "injustice（不正・不公平）です。in-（否定）＋ justice でできています。" },
+      { "q": "bring to justice とはどんな意味ですか？", "a": "「(犯罪者を)法の裁きにかける・逮捕して罰する」という意味の表現です。" }
+    ],
+    "quiz": [
+      { "q": "People marched to demand ___ and equality.（人々は正義と平等を求めて行進した）", "A": "justice", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "justice の反対語は？", "A": "injustice", "B": "junk", "C": "juice", "D": "joke", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jewelry",
+    "pron": "ˈdʒuːəlri",
+    "kana": "ジュエルリー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "jewel（宝石）＋ -ry（集合)",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "宝飾"],
+    "meaning_main": "宝飾品／アクセサリー類",
+    "description": "jewelry は「宝飾品・アクセサリー類」を表す名詞。指輪・ネックレス・イヤリングなど、身につける宝石や貴金属の装身具全般を指します。原則不可算名詞で、jewel（宝石）＋ -ry（集合を表す語尾）でできています。イギリス綴りは jewellery。",
+    "keywords": ["jewelry 意味", "jewelry 発音", "jewelry 宝飾品", "jewellery 綴り", "jewelry 例文"],
+    "meanings": [
+      { "hinshi": "【名】宝飾品・アクセサリー類", "note": "身につける宝石・貴金属の装身具全般。不可算。" }
+    ],
+    "usages": [
+      { "title": "① 宝飾品（全般）", "desc": "指輪・ネックレスなど。", "example_en": "She wore beautiful jewelry.", "example_ja": "彼女は美しい宝飾品を身につけていた。" },
+      { "title": "② 不可算名詞", "desc": "a piece of jewelry で1点。", "example_en": "This is an expensive piece of jewelry.", "example_ja": "これは高価な宝飾品の一点だ。" },
+      { "title": "③ jewelry store（宝石店）", "desc": "販売する店。", "example_en": "He bought a ring at the jewelry store.", "example_ja": "彼は宝石店で指輪を買った。" }
+    ],
+    "warn": ["原則不可算名詞。1点は a piece of jewelry。", "アメリカ綴りは jewelry、イギリス綴りは jewellery。"],
+    "etym_note": "jewel（宝石）に、集合や種類を表す接尾辞 -ry が付いた語です。「宝石類全体」を意味します。",
+    "etym_chain": [
+      { "node": "jewel + -ry", "sub": "宝石＋集合", "era": "中英語" },
+      { "node": "jewelry", "sub": "宝飾品", "era": "近代英語" },
+      { "node": "jewelry", "sub": "宝飾品", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "wear jewelry", "ja": "宝飾品を身につける" },
+      { "en": "a piece of jewelry", "ja": "宝飾品1点" },
+      { "en": "gold jewelry", "ja": "金の宝飾品" },
+      { "en": "a jewelry box", "ja": "宝石箱" },
+      { "en": "a jewelry store", "ja": "宝石店" },
+      { "en": "expensive jewelry", "ja": "高価な宝飾品" }
+    ],
+    "related": [
+      { "en": "jewel", "ja": "宝石" },
+      { "en": "ring", "ja": "指輪" },
+      { "en": "necklace", "ja": "ネックレス" },
+      { "en": "accessory", "ja": "アクセサリー" }
+    ],
+    "faq": [
+      { "q": "jewelry は数えられますか？", "a": "原則として不可算名詞です。1点を数えるときは a piece of jewelry（宝飾品1点）のように表します。" },
+      { "q": "jewelry と jewellery の違いは？", "a": "同じ語で、jewelry はアメリカ式、jewellery はイギリス式の綴りです。" }
+    ],
+    "quiz": [
+      { "q": "She keeps her ___ in a wooden box.（彼女は宝飾品を木箱に入れている）", "A": "jewelry", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jewelry の数え方として正しいのは？", "A": "a piece of jewelry", "B": "two jewelries", "C": "a jewelry paper", "D": "many jewelry", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jeep",
+    "pron": "dʒiːp",
+    "kana": "ジープ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "GP（general purpose）の発音より（諸説）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "乗り物"],
+    "meaning_main": "ジープ（悪路に強い四輪駆動車）",
+    "description": "jeep は「ジープ」を表す名詞。でこぼこ道や荒れ地でも走れる、じょうぶで力強い四輪駆動の小型車を指します。もとは軍用車として作られ、後に一般にも広まりました。もともとは商標名ですが、この種の車を指す一般名詞にもなっています。",
+    "keywords": ["jeep 意味", "jeep 発音", "jeep ジープ", "jeep 四輪駆動", "jeep 例文"],
+    "meanings": [
+      { "hinshi": "【名】ジープ", "note": "悪路に強いじょうぶな四輪駆動の小型車。" }
+    ],
+    "usages": [
+      { "title": "① ジープ（乗り物）", "desc": "悪路に強い車。", "example_en": "We drove a jeep across the desert.", "example_ja": "私たちはジープで砂漠を横断した。" },
+      { "title": "② 荒れ地を走る", "desc": "四輪駆動の力強さ。", "example_en": "A jeep can climb steep hills.", "example_ja": "ジープは急な坂も登れる。" },
+      { "title": "③ 軍用車が起源", "desc": "第二次大戦で活躍。", "example_en": "Jeeps were widely used in the war.", "example_ja": "ジープは戦争で広く使われた。" }
+    ],
+    "warn": ["もともとは商標名(Jeep)。この種の車の一般名詞としても使う。", "発音は /dʒiːp/。四輪駆動(4WD)の悪路走行車を指す。"],
+    "etym_note": "第二次世界大戦の軍用車 GP（general purpose＝汎用）を発音した「ジーピー」から来たという説が有力です。じょうぶな四輪駆動車を指す語として広まりました。",
+    "etym_chain": [
+      { "node": "GP", "sub": "汎用(車)", "era": "20世紀・軍" },
+      { "node": "jeep", "sub": "軍用四駆", "era": "20世紀英語" },
+      { "node": "jeep", "sub": "ジープ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "drive a jeep", "ja": "ジープを運転する" },
+      { "en": "an army jeep", "ja": "軍用ジープ" },
+      { "en": "a four-wheel-drive jeep", "ja": "四輪駆動のジープ" },
+      { "en": "an off-road jeep", "ja": "オフロード用ジープ" },
+      { "en": "ride in a jeep", "ja": "ジープに乗る" },
+      { "en": "a rugged jeep", "ja": "頑丈なジープ" }
+    ],
+    "related": [
+      { "en": "car", "ja": "車" },
+      { "en": "truck", "ja": "トラック" },
+      { "en": "vehicle", "ja": "乗り物" },
+      { "en": "off-road", "ja": "オフロードの・悪路の" }
+    ],
+    "faq": [
+      { "q": "jeep とはどんな車ですか？", "a": "でこぼこ道や荒れ地でも走れる、じょうぶで力強い四輪駆動の小型車です。もとは軍用車として作られ、後に一般にも広まりました。" },
+      { "q": "jeep の語源は？", "a": "第二次世界大戦の軍用車 GP（general purpose＝汎用）を発音した「ジーピー」から来たという説が有力です。" }
+    ],
+    "quiz": [
+      { "q": "A ___ can drive over rough, bumpy roads.（ジープはでこぼこの悪路も走れる）", "A": "jeep", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jeep の特徴は？", "A": "悪路に強い四輪駆動", "B": "空を飛ぶ", "C": "水中を進む", "D": "レール上を走る", "correct": "A" }
+    ]
+  }
+]

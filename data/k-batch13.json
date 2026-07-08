@@ -1,0 +1,503 @@
+[
+  {
+    "english": "knockoff",
+    "pron": "ˈnɒkɔːf",
+    "kana": "ノックオフ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "knock off（急いで作る・まねる）より",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "ビジネス"],
+    "meaning_main": "模造品／コピー商品／まがい物",
+    "description": "knockoff は「模造品・コピー商品」を表す名詞。有名ブランドなどをまねて安く作った商品を指します。先頭の k は黙字で /ˈnɒkɔːf/。しばしば違法・粗悪なコピーという否定的なニュアンスがあります。",
+    "keywords": ["knockoff 意味", "knockoff 発音", "knockoff 模造品", "knockoff コピー商品", "knockoff 例文"],
+    "meanings": [
+      { "hinshi": "【名】模造品・コピー商品", "note": "有名品をまねて安く作った商品。" },
+      { "hinshi": "【形】模造の・まがいの", "note": "a knockoff bag（模造バッグ）。" }
+    ],
+    "usages": [
+      { "title": "① 模造品・コピー商品", "desc": "ブランド品のまね。", "example_en": "That handbag is a cheap knockoff.", "example_ja": "そのハンドバッグは安い模造品だ。" },
+      { "title": "② 模造の（形容詞的）", "desc": "名詞の前に置く。", "example_en": "He was selling knockoff watches.", "example_ja": "彼は模造の時計を売っていた。" },
+      { "title": "③ 本物との違い", "desc": "品質が劣ることが多い。", "example_en": "You can tell the knockoff from the real thing.", "example_ja": "模造品と本物は見分けがつく。" }
+    ],
+    "warn": ["先頭の k は黙字。/ˈnɒkɔːf/ と読む。", "名詞は knockoff（1語）、動詞句は knock off（2語）。否定的な語。"],
+    "etym_note": "動詞句 knock off（さっと作り上げる・まねて作る）が名詞化した語です。「急いでコピーして作ったもの」というイメージから「模造品」を意味するようになりました。",
+    "etym_chain": [
+      { "node": "knock off", "sub": "まねて作る", "era": "20世紀英語" },
+      { "node": "knockoff", "sub": "模造品", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a cheap knockoff", "ja": "安い模造品" },
+      { "en": "a knockoff bag", "ja": "模造のバッグ" },
+      { "en": "designer knockoffs", "ja": "ブランドの模造品" },
+      { "en": "sell knockoffs", "ja": "模造品を売る" },
+      { "en": "a knockoff version", "ja": "模造版・まね版" },
+      { "en": "buy a knockoff", "ja": "模造品を買う" }
+    ],
+    "related": [
+      { "en": "counterfeit", "ja": "偽造品" },
+      { "en": "imitation", "ja": "模造・まね" },
+      { "en": "fake", "ja": "偽物" },
+      { "en": "copy", "ja": "コピー" }
+    ],
+    "faq": [
+      { "q": "knockoff と counterfeit の違いは？", "a": "どちらも本物をまねた品ですが、counterfeit はブランド名やロゴまで偽装した「偽造品」、knockoff はデザインをまねた「模造品」で、必ずしも商標を偽らない場合も含みます。" },
+      { "q": "knockoff の k は発音しますか？", "a": "いいえ、黙字です。/ˈnɒkɔːf/ と読みます。knock（叩く）と同じく kn- の k は発音しません。" }
+    ],
+    "quiz": [
+      { "q": "This isn't a real designer bag; it's a ___.（これは本物のブランドバッグではなく模造品だ）", "A": "knockoff", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "knockoff の意味は？", "A": "模造品", "B": "本物", "C": "新製品", "D": "高級品", "correct": "A" }
+    ]
+  },
+  {
+    "english": "know-it-all",
+    "pron": "ˈnoʊɪtɔːl",
+    "kana": "ノウイットオール",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "know（知る）＋ it（それ）＋ all（すべて)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "口語"],
+    "meaning_main": "知ったかぶりをする人／物知り顔の人",
+    "description": "know-it-all は「何でも知っているふりをする人・知ったかぶり」を表す名詞。実際以上に物知りぶって、人の話を聞かない鼻につく人を否定的に指します。know（知る）＋ it（それ）＋ all（すべて）の複合語です。",
+    "keywords": ["know-it-all 意味", "know-it-all 発音", "know-it-all 知ったかぶり", "know-it-all 物知り顔", "know-it-all 例文"],
+    "meanings": [
+      { "hinshi": "【名】知ったかぶりをする人", "note": "何でも知っているふりをする鼻につく人。否定的。" }
+    ],
+    "usages": [
+      { "title": "① 知ったかぶりの人", "desc": "物知り顔で鼻につく人。", "example_en": "Nobody likes a know-it-all.", "example_ja": "知ったかぶりの人は誰にも好かれない。" },
+      { "title": "② 人の話を聞かない", "desc": "自分が一番と思っている。", "example_en": "He's such a know-it-all that he never listens.", "example_ja": "彼はひどい知ったかぶりで、人の話を聞かない。" },
+      { "title": "③ 形容詞的にも", "desc": "a know-it-all attitude。", "example_en": "I hate his know-it-all attitude.", "example_ja": "私は彼の物知り顔の態度が嫌いだ。" }
+    ],
+    "warn": ["否定的な語。相手を非難するニュアンスがある。", "通常ハイフンでつなぐ（know-it-all）。類義に smart aleck。"],
+    "etym_note": "know（知る）＋ it（それ）＋ all（すべて）＝「何でも知っている（つもりの人）」という語句から生まれた複合名詞です。皮肉を込めた口語表現です。",
+    "etym_chain": [
+      { "node": "know it all", "sub": "何でも知っている", "era": "近代英語" },
+      { "node": "know-it-all", "sub": "知ったかぶり", "era": "19-20世紀英語" },
+      { "node": "know-it-all", "sub": "物知り顔の人", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a real know-it-all", "ja": "本当の知ったかぶり" },
+      { "en": "act like a know-it-all", "ja": "知ったかぶりをする" },
+      { "en": "a know-it-all attitude", "ja": "物知り顔の態度" },
+      { "en": "don't be a know-it-all", "ja": "知ったかぶりをするな" },
+      { "en": "a smug know-it-all", "ja": "得意げな知ったかぶり" },
+      { "en": "the class know-it-all", "ja": "クラスの物知り顔" }
+    ],
+    "related": [
+      { "en": "smart aleck", "ja": "生意気な物知り顔" },
+      { "en": "show-off", "ja": "見せびらかす人" },
+      { "en": "arrogant", "ja": "傲慢な" },
+      { "en": "expert", "ja": "専門家" }
+    ],
+    "faq": [
+      { "q": "know-it-all はどんな人を指しますか？", "a": "実際以上に何でも知っているふりをして、人の話を聞かない鼻につく人を、否定的・皮肉を込めて指します。" },
+      { "q": "know-it-all はハイフンで書きますか？", "a": "はい、通常は know-it-all とハイフンでつないで1つの名詞として書きます。" }
+    ],
+    "quiz": [
+      { "q": "He acts like a ___, always correcting everyone.（彼は知ったかぶりで、いつも人の間違いを直す）", "A": "know-it-all", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "know-it-all のニュアンスは？", "A": "否定的（鼻につく）", "B": "肯定的（賢い）", "C": "中立", "D": "同情的", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kingmaker",
+    "pron": "ˈkɪŋmeɪkər",
+    "kana": "キングメイカー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "king（王）＋ maker（作る人)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "政治"],
+    "meaning_main": "キングメーカー／陰の実力者",
+    "description": "kingmaker は「キングメーカー・陰の実力者」を表す名詞。自らは表に立たず、他人を権力の座に就ける大きな影響力を持つ人物を指します。king（王）＋ maker（作る人）＝「王を作る人」が語源です。",
+    "keywords": ["kingmaker 意味", "kingmaker 発音", "kingmaker 陰の実力者", "kingmaker 政治", "kingmaker 例文"],
+    "meanings": [
+      { "hinshi": "【名】キングメーカー・陰の実力者", "note": "他人を権力の座に就ける影響力を持つ人。" }
+    ],
+    "usages": [
+      { "title": "① 陰の実力者", "desc": "権力者を作り出す人。", "example_en": "He was the kingmaker behind the new president.", "example_ja": "彼は新大統領の陰の立役者だった。" },
+      { "title": "② 政治的影響力", "desc": "誰を勝たせるか左右する。", "example_en": "The party leader acts as a kingmaker.", "example_ja": "その党首はキングメーカーの役割を果たす。" },
+      { "title": "③ ビジネスでも", "desc": "後継者を決める人など。", "example_en": "She became a kingmaker in the industry.", "example_ja": "彼女は業界の陰の実力者になった。" }
+    ],
+    "warn": ["king＋maker の複合語。1語で書く。", "自らではなく「他人を権力の座に就ける」影響力を持つ人を指す。"],
+    "etym_note": "king（王）＋ maker（作る人）＝「王を作る人」が語源です。中世イングランドで王位継承に絶大な影響を及ぼした貴族ウォリック伯が『the Kingmaker』と呼ばれたことで広まりました。",
+    "etym_chain": [
+      { "node": "king + maker", "sub": "王＋作る人", "era": "15世紀英語" },
+      { "node": "kingmaker", "sub": "王を作る人", "era": "近代英語" },
+      { "node": "kingmaker", "sub": "陰の実力者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the kingmaker behind", "ja": "〜の陰の立役者" },
+      { "en": "act as a kingmaker", "ja": "キングメーカーとして動く" },
+      { "en": "a political kingmaker", "ja": "政界の陰の実力者" },
+      { "en": "become a kingmaker", "ja": "陰の実力者になる" },
+      { "en": "the party's kingmaker", "ja": "党の実力者" },
+      { "en": "a powerful kingmaker", "ja": "強力な陰の実力者" }
+    ],
+    "related": [
+      { "en": "power broker", "ja": "権力の仲介者" },
+      { "en": "influence", "ja": "影響力" },
+      { "en": "king", "ja": "王" },
+      { "en": "politics", "ja": "政治" }
+    ],
+    "faq": [
+      { "q": "kingmaker とはどんな人ですか？", "a": "自分は表に立たず、他人を権力の座に就けるほどの大きな影響力を持つ「陰の実力者」を指します。政治の世界でよく使われます。" },
+      { "q": "kingmaker の由来は？", "a": "中世イングランドで王位継承に絶大な影響力を持った貴族ウォリック伯が『the Kingmaker（王を作る者）』と呼ばれたことに由来します。" }
+    ],
+    "quiz": [
+      { "q": "Though never president himself, he was the real ___.（彼自身は大統領にならなかったが、真の陰の実力者だった）", "A": "kingmaker", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "kingmaker は king ＋ ___ の複合語。空所は？", "A": "maker", "B": "market", "C": "make", "D": "mark", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kinsman",
+    "pron": "ˈkɪnzmən",
+    "kana": "キンズマン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "kin（親族）＋ man（人)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "文語的"],
+    "meaning_main": "男の親族／血縁の男",
+    "description": "kinsman は「男の親族・血縁の男」を表す文語的な名詞。kin（親族）＋ man（男）でできています。女性の親族は kinswoman。やや古風で、文学や歴史的な文脈で使われます。",
+    "keywords": ["kinsman 意味", "kinsman 発音", "kinsman 男の親族", "kinsman 血縁", "kinsman 例文"],
+    "meanings": [
+      { "hinshi": "【名】男の親族・血縁の男", "note": "血縁関係にある男性。文語的。女性は kinswoman。" }
+    ],
+    "usages": [
+      { "title": "① 男の親族", "desc": "血縁の男性。", "example_en": "He was a distant kinsman of the king.", "example_ja": "彼は王の遠い親戚だった。" },
+      { "title": "② 一族の男", "desc": "文学・歴史的な文脈。", "example_en": "His kinsmen gathered for the funeral.", "example_ja": "彼の親族の男たちが葬儀に集まった。" },
+      { "title": "③ 女性は kinswoman", "desc": "対応する女性形。", "example_en": "She is a kinswoman of the queen.", "example_ja": "彼女は女王の血縁の女性だ。" }
+    ],
+    "warn": ["文語的・古風な語。複数形は kinsmen。女性は kinswoman。", "発音は /ˈkɪnzmən/。man の部分は弱く読む。"],
+    "etym_note": "kin（親族）＋ man（人・男）を合わせた古英語以来の語です。kinsfolk（一族）や kinship（血縁関係）と同じ kin を核に持ちます。",
+    "etym_chain": [
+      { "node": "cynnes mann", "sub": "親族の男", "era": "古英語" },
+      { "node": "kinsman", "sub": "男の親族", "era": "中英語" },
+      { "node": "kinsman", "sub": "男の親族", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a distant kinsman", "ja": "遠い親戚(男性)" },
+      { "en": "a close kinsman", "ja": "近い血縁の男" },
+      { "en": "his kinsmen", "ja": "彼の親族の男たち" },
+      { "en": "a kinsman of the king", "ja": "王の血縁の男" },
+      { "en": "kith and kinsmen", "ja": "友人と親族" },
+      { "en": "a loyal kinsman", "ja": "忠実な一族の男" }
+    ],
+    "related": [
+      { "en": "kin", "ja": "親族" },
+      { "en": "relative", "ja": "親戚" },
+      { "en": "kinswoman", "ja": "女の親族" },
+      { "en": "clan", "ja": "一族" }
+    ],
+    "faq": [
+      { "q": "kinsman の女性形は？", "a": "kinswoman（女の親族）です。kinsman は男性の血縁者、kinswoman は女性の血縁者を指します。" },
+      { "q": "kinsman は日常でよく使いますか？", "a": "やや古風・文語的な語で、日常会話では relative（親戚）が普通です。文学や歴史的な文脈でよく見られます。" }
+    ],
+    "quiz": [
+      { "q": "The lord called on his ___ for support.（領主は支援を求めて一族の男たちに呼びかけた）", "A": "kinsmen", "B": "kettles", "C": "kernels", "D": "keepers", "correct": "A" },
+      { "q": "kinsman は kin ＋ ___ の複合語。空所は？", "A": "man", "B": "men", "C": "kind", "D": "king", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kickboxing",
+    "pron": "ˈkɪkbɒksɪŋ",
+    "kana": "キックボクシング",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "kick（蹴る）＋ boxing（ボクシング)",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "スポーツ"],
+    "meaning_main": "キックボクシング",
+    "description": "kickboxing は「キックボクシング」を表す名詞。パンチに加えて蹴り（キック）も使う格闘技・スポーツです。kick（蹴る）＋ boxing（ボクシング）の複合語で、競技としても運動としても人気があります。",
+    "keywords": ["kickboxing 意味", "kickboxing 発音", "kickboxing キックボクシング", "kickboxing 格闘技", "kickboxing 例文"],
+    "meanings": [
+      { "hinshi": "【名】キックボクシング", "note": "パンチと蹴りを使う格闘技・スポーツ。" }
+    ],
+    "usages": [
+      { "title": "① キックボクシング（競技）", "desc": "パンチと蹴りの格闘技。", "example_en": "He competes in kickboxing.", "example_ja": "彼はキックボクシングの試合に出る。" },
+      { "title": "② 運動として", "desc": "フィットネスにも人気。", "example_en": "She takes a kickboxing class for exercise.", "example_ja": "彼女は運動のためキックボクシング教室に通う。" },
+      { "title": "③ do kickboxing", "desc": "「キックボクシングをする」。", "example_en": "I started doing kickboxing last year.", "example_ja": "私は去年キックボクシングを始めた。" }
+    ],
+    "warn": ["kick＋boxing の複合語。1語で書く。", "ボクシングと違い、蹴り技も認められる。"],
+    "etym_note": "kick（蹴る）＋ boxing（ボクシング）を合わせた20世紀の複合語です。日本の空手やムエタイの影響を受けて発展した、蹴りを取り入れた格闘技を指します。",
+    "etym_chain": [
+      { "node": "kick + boxing", "sub": "蹴る＋ボクシング", "era": "20世紀英語" },
+      { "node": "kickboxing", "sub": "キックボクシング", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "do kickboxing", "ja": "キックボクシングをする" },
+      { "en": "a kickboxing class", "ja": "キックボクシング教室" },
+      { "en": "kickboxing match", "ja": "キックボクシングの試合" },
+      { "en": "practice kickboxing", "ja": "キックボクシングを練習する" },
+      { "en": "cardio kickboxing", "ja": "有酸素キックボクシング" },
+      { "en": "a kickboxing champion", "ja": "キックボクシングの王者" }
+    ],
+    "related": [
+      { "en": "boxing", "ja": "ボクシング" },
+      { "en": "kick", "ja": "蹴る" },
+      { "en": "martial arts", "ja": "格闘技・武道" },
+      { "en": "punch", "ja": "パンチ" }
+    ],
+    "faq": [
+      { "q": "kickboxing とボクシングの違いは？", "a": "ボクシングはパンチのみですが、kickboxing はパンチに加えて蹴り（キック）も使える格闘技です。" },
+      { "q": "「キックボクシングをする」は英語で？", "a": "do kickboxing または practice kickboxing と言います。" }
+    ],
+    "quiz": [
+      { "q": "In ___, fighters use both punches and kicks.（キックボクシングでは選手はパンチと蹴りの両方を使う）", "A": "kickboxing", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "kickboxing は kick ＋ ___ の複合語。空所は？", "A": "boxing", "B": "stand", "C": "back", "D": "off", "correct": "A" }
+    ]
+  },
+  {
+    "english": "karat",
+    "pron": "ˈkærət",
+    "kana": "キャラット",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "アラビア語 qīrāṭ（イナゴマメの種）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "単位"],
+    "meaning_main": "カラット（金の純度の単位）",
+    "description": "karat は「カラット」を表す名詞で、特にアメリカで金の純度を示す単位です。純金が24カラット（24K）で、数値が大きいほど金の含有率が高くなります。宝石の重さの carat と区別されます。",
+    "keywords": ["karat 意味", "karat 発音", "karat カラット", "karat 金 純度", "karat 例文"],
+    "meanings": [
+      { "hinshi": "【名】カラット（金の純度）", "note": "金の含有率の単位。純金＝24カラット。略号 K。" }
+    ],
+    "usages": [
+      { "title": "① 金の純度", "desc": "24分率で表す。", "example_en": "This ring is 18 karat gold.", "example_ja": "この指輪は18金だ。" },
+      { "title": "② 純金 (24 karat)", "desc": "最も純度が高い。", "example_en": "Pure gold is 24 karat.", "example_ja": "純金は24カラットだ。" },
+      { "title": "③ 略号 K", "desc": "18K など。", "example_en": "The necklace is stamped 14K.", "example_ja": "そのネックレスには14Kの刻印がある。" }
+    ],
+    "warn": ["金の純度は karat（米）、宝石の重さは carat。イギリスでは金にも carat を使う。", "純金は24カラット。18カラットは金75%。"],
+    "etym_note": "アラビア語 qīrāṭ（イナゴマメの種＝重さの基準に使われた）に由来します。carat と同語源ですが、アメリカ英語では金の純度を karat、宝石の重さを carat と綴り分けます。",
+    "etym_chain": [
+      { "node": "qīrāṭ", "sub": "イナゴマメの種", "era": "アラビア語" },
+      { "node": "carat/karat", "sub": "重さ・純度の単位", "era": "中英語" },
+      { "node": "karat", "sub": "金の純度", "era": "現代英語(米)" }
+    ],
+    "phrases": [
+      { "en": "24 karat gold", "ja": "24金・純金" },
+      { "en": "18 karat gold", "ja": "18金" },
+      { "en": "karat mark", "ja": "純度の刻印" },
+      { "en": "pure karat gold", "ja": "純度の高い金" },
+      { "en": "14K gold", "ja": "14金" },
+      { "en": "high-karat gold", "ja": "高純度の金" }
+    ],
+    "related": [
+      { "en": "carat", "ja": "カラット(宝石の重さ)" },
+      { "en": "gold", "ja": "金" },
+      { "en": "purity", "ja": "純度" },
+      { "en": "jewelry", "ja": "宝飾品" }
+    ],
+    "faq": [
+      { "q": "karat と carat の違いは？", "a": "アメリカ英語では、karat は「金の純度」、carat は「宝石(ダイヤなど)の重さ」を表します。イギリス英語では金にも carat を使います。" },
+      { "q": "24カラットとはどういう意味ですか？", "a": "金の純度が最も高い「純金（100%）」を意味します。18カラットなら金の含有率が75%（18/24）になります。" }
+    ],
+    "quiz": [
+      { "q": "Pure gold is 24 ___.（純金は24カラットだ）", "A": "karat", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "karat が表すのは？", "A": "金の純度", "B": "銀の重さ", "C": "宝石の色", "D": "金属の硬さ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "knackered",
+    "pron": "ˈnækərd",
+    "kana": "ナッカード",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "knacker（廃馬処理業者）＋ -ed",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "口語・英"],
+    "meaning_main": "(英・口語)くたくたに疲れた／使い古してだめな",
+    "description": "knackered は主にイギリスの口語で「くたくたに疲れ果てた」を表す形容詞。先頭の k は黙字で /ˈnækərd/。物について「使い古してだめになった」の意味でも使われます。とてもくだけた表現です。",
+    "keywords": ["knackered 意味", "knackered 発音", "knackered 疲れた", "knackered 英 口語", "knackered 例文"],
+    "meanings": [
+      { "hinshi": "【形】くたくたに疲れた", "note": "非常に疲れ果てて。英国の口語。" },
+      { "hinshi": "【形】使い古してだめになった", "note": "物が壊れかけて。" }
+    ],
+    "usages": [
+      { "title": "① 疲れ果てた", "desc": "英国のくだけた口語。", "example_en": "I'm absolutely knackered after work.", "example_ja": "仕事の後で私はもうくたくただ。" },
+      { "title": "② 物がだめになった", "desc": "使い古して壊れかけ。", "example_en": "My old car is completely knackered.", "example_ja": "私の古い車はもう完全にだめだ。" },
+      { "title": "③ 強調して", "desc": "absolutely knackered。", "example_en": "After the marathon, she was knackered.", "example_ja": "マラソンの後、彼女はへとへとだった。" }
+    ],
+    "warn": ["先頭の k は黙字。/ˈnækərd/ と読む。", "主にイギリスのくだけた口語。フォーマルには exhausted。"],
+    "etym_note": "knacker（老いた馬や不要な物を処分する業者）に由来します。「廃馬処理場に送られるほど疲れ果てた・使い古した」というイメージから、疲労や消耗を表すようになりました。",
+    "etym_chain": [
+      { "node": "knacker", "sub": "廃馬処理業者", "era": "18世紀英語" },
+      { "node": "knackered", "sub": "疲れ果てた", "era": "20世紀英語" },
+      { "node": "knackered", "sub": "くたくたの", "era": "現代英語(英)" }
+    ],
+    "phrases": [
+      { "en": "absolutely knackered", "ja": "もうくたくたで" },
+      { "en": "feel knackered", "ja": "へとへとに感じる" },
+      { "en": "totally knackered", "ja": "完全に疲れ果てて" },
+      { "en": "a knackered old car", "ja": "使い古してだめな古い車" },
+      { "en": "knackered after work", "ja": "仕事の後くたくたで" },
+      { "en": "look knackered", "ja": "疲れ切って見える" }
+    ],
+    "related": [
+      { "en": "exhausted", "ja": "疲れ果てた" },
+      { "en": "tired", "ja": "疲れた" },
+      { "en": "worn out", "ja": "疲れ切った・使い古した" },
+      { "en": "beat", "ja": "(口語)へとへとの" }
+    ],
+    "faq": [
+      { "q": "knackered はどの英語圏で使いますか？", "a": "主にイギリス英語のくだけた口語で「くたくたに疲れた」を意味します。アメリカ英語では exhausted や beat が普通です。" },
+      { "q": "knackered の語源は？", "a": "knacker（老馬や不要な物を処分する業者）に由来し、「廃馬処理場行きになるほど疲れ果てた・使い古した」というイメージから来ています。" }
+    ],
+    "quiz": [
+      { "q": "After the long hike, we were completely ___.（長いハイキングの後、私たちは完全にくたくただった）", "A": "knackered", "B": "kindly", "C": "keen", "D": "known", "correct": "A" },
+      { "q": "knackered の意味は？", "A": "くたくたに疲れた", "B": "元気いっぱいの", "C": "空腹の", "D": "退屈な", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kludge",
+    "pron": "kluːdʒ",
+    "kana": "クルージ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "20世紀の技術者スラング",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "IT・技術"],
+    "meaning_main": "(IT)その場しのぎの雑な解決策／間に合わせ",
+    "description": "kludge は「その場しのぎの雑な解決策・間に合わせの仕組み」を表す名詞。特にIT・技術分野で、洗練されていないが一応動く応急処置的な作りを指します。kluge とも綴ります。動詞では「間に合わせで作る」の意味です。",
+    "keywords": ["kludge 意味", "kludge 発音", "kludge その場しのぎ", "kludge IT", "kludge 例文"],
+    "meanings": [
+      { "hinshi": "【名】その場しのぎの雑な解決策", "note": "洗練されていないが動く応急処置的な仕組み。" },
+      { "hinshi": "【動】間に合わせで作る", "note": "雑に組み合わせて動かす。" }
+    ],
+    "usages": [
+      { "title": "① 雑な解決策（IT）", "desc": "美しくないが動く作り。", "example_en": "The fix was an ugly kludge.", "example_ja": "その修正は不格好な間に合わせだった。" },
+      { "title": "② 間に合わせで作る（動詞）", "desc": "kludge together。", "example_en": "They kludged together a temporary solution.", "example_ja": "彼らは応急的な解決策を雑に組み上げた。" },
+      { "title": "③ 応急処置的な仕組み", "desc": "後で直す前提。", "example_en": "This code is full of kludges.", "example_ja": "このコードは間に合わせだらけだ。" }
+    ],
+    "warn": ["技術者のスラング。kludge / kluge と綴りがある。", "「動くが美しくない・後で直すべき」という否定的ニュアンス。"],
+    "etym_note": "20世紀半ばの技術者・コンピューター業界のスラングとして生まれた語で、はっきりした語源は不明です。ドイツ語 klug（賢い）を皮肉ったものとも言われます。",
+    "etym_chain": [
+      { "node": "kludge/kluge", "sub": "間に合わせ", "era": "20世紀技術スラング" },
+      { "node": "kludge", "sub": "雑な解決策", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an ugly kludge", "ja": "不格好な間に合わせ" },
+      { "en": "kludge together", "ja": "雑に組み上げる" },
+      { "en": "a temporary kludge", "ja": "一時的な応急処置" },
+      { "en": "full of kludges", "ja": "間に合わせだらけ" },
+      { "en": "a quick kludge", "ja": "手早い間に合わせ" },
+      { "en": "avoid a kludge", "ja": "その場しのぎを避ける" }
+    ],
+    "related": [
+      { "en": "workaround", "ja": "回避策・応急策" },
+      { "en": "hack", "ja": "即席の工夫・改造" },
+      { "en": "patch", "ja": "修正・当て物" },
+      { "en": "makeshift", "ja": "間に合わせの" }
+    ],
+    "faq": [
+      { "q": "kludge とはどんな意味ですか？", "a": "特にIT・技術分野で、洗練されていないが一応動く「その場しのぎの雑な解決策・間に合わせの仕組み」を指します。" },
+      { "q": "kludge と workaround の違いは？", "a": "workaround は問題を避ける「回避策」全般、kludge は特に「不格好で雑だが動く」応急的な作りを指し、より否定的なニュアンスがあります。" }
+    ],
+    "quiz": [
+      { "q": "The program worked, but the code was a real ___.（プログラムは動いたが、コードはひどい間に合わせだった）", "A": "kludge", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "kludge が主に使われる分野は？", "A": "IT・技術", "B": "料理", "C": "音楽", "D": "農業", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kibble",
+    "pron": "ˈkɪbl",
+    "kana": "キブル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "英語 kibble（粗く砕く)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "生活語"],
+    "meaning_main": "(粒状の)ドライペットフード",
+    "description": "kibble は「(粒状の)ドライペットフード」を表す名詞。犬や猫用の、粗く砕いて粒状にした乾燥した餌を指します。原則不可算名詞で、ペットの飼育でおなじみの日常語です。",
+    "keywords": ["kibble 意味", "kibble 発音", "kibble ドライフード", "kibble ペット 餌", "kibble 例文"],
+    "meanings": [
+      { "hinshi": "【名】(粒状の)ドライペットフード", "note": "犬・猫用の乾燥した粒状の餌。不可算。" }
+    ],
+    "usages": [
+      { "title": "① ドライフード（餌）", "desc": "犬猫用の乾燥した粒。", "example_en": "I filled the bowl with kibble.", "example_ja": "私は器にドライフードを入れた。" },
+      { "title": "② ペットにやる", "desc": "feed the dog kibble。", "example_en": "She feeds her cat dry kibble.", "example_ja": "彼女は猫にドライフードを与えている。" },
+      { "title": "③ 不可算名詞", "desc": "some kibble など。", "example_en": "There's not much kibble left.", "example_ja": "ドライフードがあまり残っていない。" }
+    ],
+    "warn": ["原則不可算名詞。数えるときは a bag of kibble など。", "犬猫用の『粒状の乾いた餌』を指す。"],
+    "etym_note": "「粗く砕く（kibble）」という動詞に由来します。穀物などを粗く砕いて粒状にしたものを指し、後にペット用の乾燥した粒状フードを表すようになりました。",
+    "etym_chain": [
+      { "node": "kibble", "sub": "粗く砕く", "era": "19世紀英語" },
+      { "node": "kibble", "sub": "粗く砕いた粒", "era": "近代英語" },
+      { "node": "kibble", "sub": "ドライペットフード", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "dry kibble", "ja": "ドライフード" },
+      { "en": "a bag of kibble", "ja": "ドライフード1袋" },
+      { "en": "dog kibble", "ja": "犬用ドライフード" },
+      { "en": "pour the kibble", "ja": "ドライフードを注ぐ" },
+      { "en": "a bowl of kibble", "ja": "ドライフード1杯" },
+      { "en": "cat kibble", "ja": "猫用ドライフード" }
+    ],
+    "related": [
+      { "en": "pet food", "ja": "ペットフード" },
+      { "en": "dog", "ja": "犬" },
+      { "en": "cat", "ja": "猫" },
+      { "en": "feed", "ja": "餌をやる" }
+    ],
+    "faq": [
+      { "q": "kibble とは何ですか？", "a": "犬や猫用の、粗く砕いて粒状にした乾燥したペットフード（ドライフード）を指す日常語です。" },
+      { "q": "kibble は数えられますか？", "a": "原則として不可算名詞です。数えるときは a bag of kibble（ドライフード1袋）のように表します。" }
+    ],
+    "quiz": [
+      { "q": "The dog eagerly ate its ___.（犬は勢いよくドライフードを食べた）", "A": "kibble", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "kibble は何のための食べ物？", "A": "ペット(犬猫)", "B": "赤ちゃん", "C": "鳥", "D": "魚", "correct": "A" }
+    ]
+  },
+  {
+    "english": "knockdown",
+    "pron": "ˈnɒkdaʊn",
+    "kana": "ノックダウン",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "knock down（打ち倒す）より",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "スポーツ・商売"],
+    "meaning_main": "ノックダウン／(値段が)破格の／組み立て式の",
+    "description": "knockdown は「ノックダウン」を表す名詞。ボクシングで相手を打ち倒すことを指します。形容詞では「(値段が)破格の・思い切り安い」、また「組み立て式の（分解して運べる）」の意味でも使われます。",
+    "keywords": ["knockdown 意味", "knockdown 発音", "knockdown ノックダウン", "knockdown 破格", "knockdown 例文"],
+    "meanings": [
+      { "hinshi": "【名】ノックダウン（打ち倒すこと）", "note": "ボクシングで相手を倒すこと。" },
+      { "hinshi": "【形】(値段が)破格の・掛け値なしの", "note": "a knockdown price（激安価格）。" },
+      { "hinshi": "【形】組み立て式の・分解できる", "note": "分解して運べる家具など。" }
+    ],
+    "usages": [
+      { "title": "① ノックダウン（ボクシング）", "desc": "相手を打ち倒すこと。", "example_en": "The boxer scored a knockdown in round two.", "example_ja": "ボクサーは2ラウンドでノックダウンを奪った。" },
+      { "title": "② 破格の値段 (knockdown price)", "desc": "とても安い価格。", "example_en": "We got it at a knockdown price.", "example_ja": "私たちはそれを破格の値段で手に入れた。" },
+      { "title": "③ 組み立て式の", "desc": "分解して運べる。", "example_en": "The furniture comes in knockdown form.", "example_ja": "その家具は組み立て式で届く。" }
+    ],
+    "warn": ["先頭の k は黙字。/ˈnɒkdaʊn/ と読む。", "名詞・形容詞は knockdown（1語）、動詞句は knock down（2語）。"],
+    "etym_note": "動詞句 knock down（打ち倒す・値切る・分解する）が名詞・形容詞化した語です。「打ち倒す」から「破格に下げた」「分解できる」など複数の意味に広がりました。",
+    "etym_chain": [
+      { "node": "knock down", "sub": "打ち倒す・値切る", "era": "近代英語" },
+      { "node": "knockdown", "sub": "ノックダウン・破格の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "score a knockdown", "ja": "ノックダウンを奪う" },
+      { "en": "a knockdown price", "ja": "破格の値段" },
+      { "en": "at a knockdown price", "ja": "激安価格で" },
+      { "en": "knockdown furniture", "ja": "組み立て式家具" },
+      { "en": "in knockdown form", "ja": "組み立て式で" },
+      { "en": "a knockdown blow", "ja": "打ち倒す一撃" }
+    ],
+    "related": [
+      { "en": "knockout", "ja": "ノックアウト" },
+      { "en": "knock", "ja": "打つ" },
+      { "en": "bargain", "ja": "格安・掘り出し物" },
+      { "en": "assemble", "ja": "組み立てる" }
+    ],
+    "faq": [
+      { "q": "knockdown price とはどんな意味ですか？", "a": "「破格の・掛け値なしのとても安い値段」という意味です。at a knockdown price（激安で）のように使います。" },
+      { "q": "knockdown と knockout の違いは？", "a": "knockdown は相手を「打ち倒す」こと（起き上がれる）、knockout は打ち倒して「戦えなくする（KO）」ことです。ボクシングで区別されます。" }
+    ],
+    "quiz": [
+      { "q": "We bought the sofa at a ___ price.（私たちはそのソファを破格の値段で買った）", "A": "knockdown", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "名詞・形容詞「ノックダウン」の書き方は？", "A": "knock down", "B": "knockdown", "C": "knocks down", "D": "knock-of", "correct": "B" }
+    ]
+  }
+]

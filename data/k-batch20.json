@@ -1,0 +1,502 @@
+[
+  {
+    "english": "Kyoto",
+    "pron": "ˈkjoʊtoʊ",
+    "kana": "キョウトウ",
+    "hinshi": "固有名詞（都市・古都）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "日本語「京都」（みやこ)",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "地理・日本"],
+    "meaning_main": "京都（日本の古都）",
+    "description": "Kyoto は日本の都市「京都」を表す固有名詞。約千年にわたり日本の首都だった古都で、寺社・庭園・伝統文化で知られます。世界遺産も多く、日本を代表する観光都市として世界中に知られています。",
+    "keywords": ["Kyoto 意味", "Kyoto 発音", "京都 英語", "Kyoto 古都", "Kyoto 例文"],
+    "meanings": [
+      { "hinshi": "【固有名詞】京都", "note": "日本の古都。かつての首都で伝統文化の中心。" }
+    ],
+    "usages": [
+      { "title": "① 京都（都市）", "desc": "日本の古都。", "example_en": "Kyoto was the capital of Japan for over a thousand years.", "example_ja": "京都は千年以上にわたり日本の首都だった。" },
+      { "title": "② 寺社・文化", "desc": "多くの世界遺産。", "example_en": "Kyoto is famous for its temples and gardens.", "example_ja": "京都は寺や庭園で有名だ。" },
+      { "title": "③ 観光都市", "desc": "国内外から観光客が集まる。", "example_en": "Millions of tourists visit Kyoto every year.", "example_ja": "毎年何百万もの観光客が京都を訪れる。" }
+    ],
+    "warn": ["固有名詞なので大文字で始める。", "「京都議定書(Kyoto Protocol)」など、地名以外の名にも使われる。"],
+    "etym_note": "日本語の「京都（きょうと）」に由来し、「みやこ（都）」を意味します。794年に平安京として都が置かれ、長く日本の中心でした。",
+    "etym_chain": [
+      { "node": "京都 (Kyōto)", "sub": "みやこ", "era": "日本" },
+      { "node": "Kyoto", "sub": "京都", "era": "近代英語" },
+      { "node": "Kyoto", "sub": "京都", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the city of Kyoto", "ja": "京都市" },
+      { "en": "visit Kyoto", "ja": "京都を訪れる" },
+      { "en": "the temples of Kyoto", "ja": "京都の寺" },
+      { "en": "the Kyoto Protocol", "ja": "京都議定書" },
+      { "en": "ancient Kyoto", "ja": "古都京都" },
+      { "en": "Kyoto in autumn", "ja": "秋の京都" }
+    ],
+    "related": [
+      { "en": "Japan", "ja": "日本" },
+      { "en": "Tokyo", "ja": "東京" },
+      { "en": "temple", "ja": "寺" },
+      { "en": "capital", "ja": "首都" }
+    ],
+    "faq": [
+      { "q": "Kyoto はどんな都市ですか？", "a": "日本の古都で、約千年にわたり首都でした。寺社・庭園・伝統文化で知られ、多くの世界遺産がある日本を代表する観光都市です。" },
+      { "q": "Kyoto Protocol とは？", "a": "1997年に京都で採択された、地球温暖化対策に関する国際的な取り決め「京都議定書」のことです。" }
+    ],
+    "quiz": [
+      { "q": "___ was Japan's capital for over a thousand years.（京都は千年以上日本の首都だった）", "A": "Kyoto", "B": "Kettle", "C": "Kernel", "D": "Keeper", "correct": "A" },
+      { "q": "Kyoto はどの国の都市？", "A": "日本", "B": "中国", "C": "韓国", "D": "タイ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Kenya",
+    "pron": "ˈkenjə",
+    "kana": "ケニャ",
+    "hinshi": "固有名詞（国名）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ケニア山（Mount Kenya）より",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "地理・アフリカ"],
+    "meaning_main": "ケニア（東アフリカの国）",
+    "description": "Kenya は東アフリカの国「ケニア」を表す固有名詞。赤道直下に位置し、サバンナの野生動物やサファリ、マラソン選手の強豪国として知られます。首都はナイロビで、国名は国内にそびえるケニア山に由来します。",
+    "keywords": ["Kenya 意味", "Kenya 発音", "ケニア 英語", "Kenya サファリ", "Kenya 例文"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ケニア", "note": "東アフリカの国。首都ナイロビ。サバンナと野生動物で有名。" }
+    ],
+    "usages": [
+      { "title": "① ケニア（国）", "desc": "東アフリカの国。", "example_en": "Kenya is located in East Africa.", "example_ja": "ケニアは東アフリカにある。" },
+      { "title": "② サファリ・野生動物", "desc": "ライオンやゾウが生息。", "example_en": "Many tourists go on safari in Kenya.", "example_ja": "多くの観光客がケニアでサファリをする。" },
+      { "title": "③ マラソンの強豪", "desc": "長距離走の名選手を輩出。", "example_en": "Kenya is famous for its marathon runners.", "example_ja": "ケニアはマラソン選手で有名だ。" }
+    ],
+    "warn": ["固有名詞なので大文字で始める。首都はナイロビ(Nairobi)。", "発音は /ˈkenjə/。国名はケニア山に由来。"],
+    "etym_note": "国内にそびえるアフリカ第2の高峰「ケニア山（Mount Kenya）」に由来します。現地の言葉で「白く輝く山」といった意味の語がもとになったとされます。",
+    "etym_chain": [
+      { "node": "Mount Kenya", "sub": "ケニア山", "era": "現地の言語" },
+      { "node": "Kenya", "sub": "ケニア", "era": "20世紀英語" },
+      { "node": "Kenya", "sub": "ケニア", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the Republic of Kenya", "ja": "ケニア共和国" },
+      { "en": "safari in Kenya", "ja": "ケニアでのサファリ" },
+      { "en": "Mount Kenya", "ja": "ケニア山" },
+      { "en": "Kenyan runners", "ja": "ケニアの走者" },
+      { "en": "travel to Kenya", "ja": "ケニアへ旅する" },
+      { "en": "the plains of Kenya", "ja": "ケニアの平原" }
+    ],
+    "related": [
+      { "en": "Africa", "ja": "アフリカ" },
+      { "en": "Nairobi", "ja": "ナイロビ" },
+      { "en": "safari", "ja": "サファリ" },
+      { "en": "savanna", "ja": "サバンナ" }
+    ],
+    "faq": [
+      { "q": "Kenya はどこにありますか？", "a": "東アフリカの赤道直下に位置する国です。首都はナイロビで、サバンナの野生動物やサファリで知られます。" },
+      { "q": "Kenya の名前の由来は？", "a": "国内にそびえるアフリカ第2の高峰「ケニア山（Mount Kenya）」に由来します。" }
+    ],
+    "quiz": [
+      { "q": "Tourists visit ___ to see lions and elephants on safari.（観光客はサファリでライオンやゾウを見にケニアを訪れる）", "A": "Kenya", "B": "Kettle", "C": "Kernel", "D": "Keeper", "correct": "A" },
+      { "q": "Kenya はどの大陸の国？", "A": "アフリカ", "B": "アジア", "C": "ヨーロッパ", "D": "南米", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Kabul",
+    "pron": "ˈkɑːbʊl",
+    "kana": "カーブル",
+    "hinshi": "固有名詞（都市・首都）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "地名 Kābul（古くからの都市名)",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "地理・アジア"],
+    "meaning_main": "カブール（アフガニスタンの首都）",
+    "description": "Kabul はアフガニスタンの首都「カブール」を表す固有名詞。中央アジアと南アジアを結ぶ交易路の要衝として古くから栄えた歴史ある都市で、標高の高い山々に囲まれた高地に位置します。",
+    "keywords": ["Kabul 意味", "Kabul 発音", "カブール 英語", "Kabul アフガニスタン", "Kabul 例文"],
+    "meanings": [
+      { "hinshi": "【固有名詞】カブール", "note": "アフガニスタンの首都。交易路の要衝として栄えた古都。" }
+    ],
+    "usages": [
+      { "title": "① カブール（首都）", "desc": "アフガニスタンの首都。", "example_en": "Kabul is the capital of Afghanistan.", "example_ja": "カブールはアフガニスタンの首都だ。" },
+      { "title": "② 交易路の要衝", "desc": "シルクロードの街。", "example_en": "Kabul was an important stop on trade routes.", "example_ja": "カブールは交易路の重要な中継地だった。" },
+      { "title": "③ 高地の都市", "desc": "山々に囲まれる。", "example_en": "Kabul sits high in the mountains.", "example_ja": "カブールは山々に囲まれた高地にある。" }
+    ],
+    "warn": ["固有名詞なので大文字で始める。アフガニスタン(Afghanistan)の首都。", "発音は /ˈkɑːbʊl/。"],
+    "etym_note": "古くから使われてきた地名で、その起源は古代にさかのぼります。中央アジアと南アジアを結ぶ交易路（シルクロード）の要衝として、長い歴史を持つ都市の名です。",
+    "etym_chain": [
+      { "node": "Kābul", "sub": "古代の都市名", "era": "古代" },
+      { "node": "Kabul", "sub": "カブール", "era": "近代英語" },
+      { "node": "Kabul", "sub": "カブール", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the city of Kabul", "ja": "カブール市" },
+      { "en": "Kabul, Afghanistan", "ja": "アフガニスタンのカブール" },
+      { "en": "the capital Kabul", "ja": "首都カブール" },
+      { "en": "the streets of Kabul", "ja": "カブールの街並み" },
+      { "en": "travel to Kabul", "ja": "カブールへ行く" },
+      { "en": "the mountains around Kabul", "ja": "カブールを囲む山々" }
+    ],
+    "related": [
+      { "en": "Afghanistan", "ja": "アフガニスタン" },
+      { "en": "Asia", "ja": "アジア" },
+      { "en": "capital", "ja": "首都" },
+      { "en": "mountain", "ja": "山" }
+    ],
+    "faq": [
+      { "q": "Kabul はどこの首都ですか？", "a": "アフガニスタンの首都です。中央アジアと南アジアを結ぶ交易路の要衝として、古くから栄えた歴史ある都市です。" },
+      { "q": "Kabul はどんな地形にありますか？", "a": "標高の高い山々に囲まれた高地に位置しています。" }
+    ],
+    "quiz": [
+      { "q": "___ is the capital city of Afghanistan.（カブールはアフガニスタンの首都だ）", "A": "Kabul", "B": "Kettle", "C": "Kernel", "D": "Keeper", "correct": "A" },
+      { "q": "Kabul はどの国の首都？", "A": "アフガニスタン", "B": "イラン", "C": "インド", "D": "トルコ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Kilimanjaro",
+    "pron": "ˌkɪlɪmənˈdʒɑːroʊ",
+    "kana": "キリマンジャロ",
+    "hinshi": "固有名詞（山・地名）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "現地の言語（輝く山の意とも)",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "地理・自然"],
+    "meaning_main": "キリマンジャロ（アフリカ最高峰）",
+    "description": "Kilimanjaro はアフリカ最高峰の山「キリマンジャロ」を表す固有名詞。タンザニアにあり、標高約5,895メートル。赤道近くにありながら山頂に雪や氷河をいだく独立峰として知られ、多くの登山者が挑みます。",
+    "keywords": ["Kilimanjaro 意味", "Kilimanjaro 発音", "キリマンジャロ 英語", "Kilimanjaro 山", "Kilimanjaro 例文"],
+    "meanings": [
+      { "hinshi": "【固有名詞】キリマンジャロ", "note": "タンザニアにあるアフリカ最高峰(約5,895m)。" }
+    ],
+    "usages": [
+      { "title": "① キリマンジャロ（山）", "desc": "アフリカ最高峰。", "example_en": "Kilimanjaro is the highest mountain in Africa.", "example_ja": "キリマンジャロはアフリカ最高峰だ。" },
+      { "title": "② 雪をいだく山頂", "desc": "赤道近くでも雪がある。", "example_en": "Snow covers the top of Kilimanjaro.", "example_ja": "キリマンジャロの山頂は雪に覆われている。" },
+      { "title": "③ 登山の名所", "desc": "多くの登山者が挑む。", "example_en": "Climbers come to conquer Kilimanjaro.", "example_ja": "登山者はキリマンジャロ制覇のためにやってくる。" }
+    ],
+    "warn": ["固有名詞なので大文字で始める。タンザニア(Tanzania)にある。", "発音は /ˌkɪlɪmənˈdʒɑːroʊ/。"],
+    "etym_note": "現地の言語（スワヒリ語など）に由来するとされ、「輝く山」「白い山」などの意味という説がありますが、確かな由来は分かっていません。",
+    "etym_chain": [
+      { "node": "Kilimanjaro", "sub": "輝く山(諸説)", "era": "現地の言語" },
+      { "node": "Kilimanjaro", "sub": "キリマンジャロ", "era": "19世紀英語" },
+      { "node": "Kilimanjaro", "sub": "キリマンジャロ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Mount Kilimanjaro", "ja": "キリマンジャロ山" },
+      { "en": "climb Kilimanjaro", "ja": "キリマンジャロに登る" },
+      { "en": "the summit of Kilimanjaro", "ja": "キリマンジャロの山頂" },
+      { "en": "the snows of Kilimanjaro", "ja": "キリマンジャロの雪" },
+      { "en": "Africa's highest peak", "ja": "アフリカ最高峰" },
+      { "en": "the glaciers of Kilimanjaro", "ja": "キリマンジャロの氷河" }
+    ],
+    "related": [
+      { "en": "Tanzania", "ja": "タンザニア" },
+      { "en": "mountain", "ja": "山" },
+      { "en": "Africa", "ja": "アフリカ" },
+      { "en": "summit", "ja": "山頂" }
+    ],
+    "faq": [
+      { "q": "Kilimanjaro はどこにありますか？", "a": "アフリカのタンザニアにある、標高約5,895メートルのアフリカ最高峰です。赤道近くにありながら山頂に雪や氷河をいだく独立峰です。" },
+      { "q": "なぜ赤道近くなのに雪があるのですか？", "a": "標高が非常に高いため、山頂付近の気温が氷点下になるからです。高い山の上ほど気温が下がるためです。" }
+    ],
+    "quiz": [
+      { "q": "___ is the tallest mountain in Africa.（キリマンジャロはアフリカで最も高い山だ）", "A": "Kilimanjaro", "B": "Kettle", "C": "Kernel", "D": "Keeper", "correct": "A" },
+      { "q": "Kilimanjaro があるのはどの国？", "A": "タンザニア", "B": "エジプト", "C": "日本", "D": "ネパール", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Kepler",
+    "pron": "ˈkeplər",
+    "kana": "ケプラー",
+    "hinshi": "固有名詞（人物・科学者）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ドイツ語の姓 Kepler",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "科学・人物"],
+    "meaning_main": "ケプラー（惑星運動の法則を発見した天文学者）",
+    "description": "Kepler はドイツの天文学者「ヨハネス・ケプラー」を表す固有名詞。惑星が太陽のまわりを楕円軌道で回ることなど「惑星運動の3法則」を発見し、近代天文学の基礎を築きました。NASAの宇宙望遠鏡の名にもなっています。",
+    "keywords": ["Kepler 意味", "Kepler 発音", "ケプラー 英語", "Kepler 惑星 法則", "Kepler 例文"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ケプラー", "note": "惑星運動の法則を発見したドイツの天文学者(1571-1630)。" }
+    ],
+    "usages": [
+      { "title": "① ケプラー（天文学者）", "desc": "惑星運動の法則を発見。", "example_en": "Kepler discovered the laws of planetary motion.", "example_ja": "ケプラーは惑星運動の法則を発見した。" },
+      { "title": "② 楕円軌道", "desc": "惑星は楕円で回る。", "example_en": "Kepler showed that planets move in ellipses.", "example_ja": "ケプラーは惑星が楕円を描いて動くことを示した。" },
+      { "title": "③ ケプラー宇宙望遠鏡", "desc": "彼にちなむ名。", "example_en": "The Kepler telescope searched for exoplanets.", "example_ja": "ケプラー望遠鏡は系外惑星を探した。" }
+    ],
+    "warn": ["固有名詞なので大文字で始める。惑星運動の3法則で有名。", "同時代のガリレオ(Galileo)とともに近代科学の礎を築いた。"],
+    "etym_note": "ドイツ語圏の姓 Kepler に由来します。ヨハネス・ケプラー（1571-1630）は、師ティコ・ブラーエの観測データをもとに惑星運動の法則を導きました。",
+    "etym_chain": [
+      { "node": "Kepler (姓)", "sub": "ドイツ語の姓", "era": "16世紀" },
+      { "node": "Kepler", "sub": "天文学者の名", "era": "17世紀" },
+      { "node": "Kepler", "sub": "ケプラー", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Kepler's laws", "ja": "ケプラーの法則" },
+      { "en": "Johannes Kepler", "ja": "ヨハネス・ケプラー" },
+      { "en": "planetary motion", "ja": "惑星の運動" },
+      { "en": "the Kepler telescope", "ja": "ケプラー望遠鏡" },
+      { "en": "an elliptical orbit", "ja": "楕円軌道" },
+      { "en": "Kepler's discovery", "ja": "ケプラーの発見" }
+    ],
+    "related": [
+      { "en": "astronomy", "ja": "天文学" },
+      { "en": "planet", "ja": "惑星" },
+      { "en": "orbit", "ja": "軌道" },
+      { "en": "Galileo", "ja": "ガリレオ" }
+    ],
+    "faq": [
+      { "q": "Kepler は何をした人ですか？", "a": "ドイツの天文学者ヨハネス・ケプラーで、惑星が太陽のまわりを楕円軌道で回ることなど「惑星運動の3法則」を発見し、近代天文学の基礎を築きました。" },
+      { "q": "Kepler telescope とは？", "a": "彼にちなんで名づけられたNASAの宇宙望遠鏡で、太陽系外の惑星（系外惑星）を探すために打ち上げられました。" }
+    ],
+    "quiz": [
+      { "q": "___ discovered that planets orbit the sun in ellipses.（ケプラーは惑星が太陽を楕円軌道で回ることを発見した）", "A": "Kepler", "B": "Kettle", "C": "Kernel", "D": "Keeper", "correct": "A" },
+      { "q": "Kepler の専門分野は？", "A": "天文学", "B": "音楽", "C": "絵画", "D": "文学", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Kant",
+    "pron": "kænt",
+    "kana": "カント",
+    "hinshi": "固有名詞（人物・哲学者）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ドイツ語の姓 Kant",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "哲学・人物"],
+    "meaning_main": "カント（近代哲学を代表するドイツの哲学者）",
+    "description": "Kant はドイツの哲学者「イマヌエル・カント」を表す固有名詞。18世紀に活躍し、認識のしくみや道徳を深く考察して近代哲学に決定的な影響を与えました。『純粋理性批判』などの著作で知られる、西洋哲学の巨人です。",
+    "keywords": ["Kant 意味", "Kant 発音", "カント 英語", "Kant 哲学", "Kant 例文"],
+    "meanings": [
+      { "hinshi": "【固有名詞】カント", "note": "近代哲学を代表するドイツの哲学者(1724-1804)。" }
+    ],
+    "usages": [
+      { "title": "① カント（哲学者）", "desc": "近代哲学の巨人。", "example_en": "Kant was a major German philosopher.", "example_ja": "カントは偉大なドイツの哲学者だった。" },
+      { "title": "② 認識と道徳の考察", "desc": "人間の理性を分析。", "example_en": "Kant explored how we know the world.", "example_ja": "カントは人間がどう世界を認識するかを探究した。" },
+      { "title": "③ 『純粋理性批判』", "desc": "代表的な著作。", "example_en": "Kant wrote the \"Critique of Pure Reason.\"", "example_ja": "カントは『純粋理性批判』を著した。" }
+    ],
+    "warn": ["固有名詞なので大文字で始める。can't（cannot の短縮）と同音なので文脈で区別。", "発音は /kænt/。"],
+    "etym_note": "ドイツ語圏の姓 Kant に由来します。イマヌエル・カント（1724-1804）は東プロイセンのケーニヒスベルクに生涯を過ごし、批判哲学を確立しました。",
+    "etym_chain": [
+      { "node": "Kant (姓)", "sub": "ドイツ語の姓", "era": "18世紀" },
+      { "node": "Kant", "sub": "哲学者の名", "era": "18世紀" },
+      { "node": "Kant", "sub": "カント", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Immanuel Kant", "ja": "イマヌエル・カント" },
+      { "en": "Kant's philosophy", "ja": "カントの哲学" },
+      { "en": "according to Kant", "ja": "カントによれば" },
+      { "en": "Kantian ethics", "ja": "カントの倫理学" },
+      { "en": "the Critique of Pure Reason", "ja": "純粋理性批判" },
+      { "en": "Kant's moral law", "ja": "カントの道徳法則" }
+    ],
+    "related": [
+      { "en": "philosophy", "ja": "哲学" },
+      { "en": "reason", "ja": "理性" },
+      { "en": "ethics", "ja": "倫理学" },
+      { "en": "philosopher", "ja": "哲学者" }
+    ],
+    "faq": [
+      { "q": "Kant はどんな人ですか？", "a": "18世紀ドイツの哲学者イマヌエル・カントで、認識のしくみや道徳を深く考察し、近代哲学に決定的な影響を与えました。『純粋理性批判』などで知られます。" },
+      { "q": "Kant と can't は同じ発音ですか？", "a": "はい、どちらも /kænt/ で同じ発音です。Kant は哲学者の名（固有名詞・大文字）、can't は cannot の短縮形で、文脈で区別します。" }
+    ],
+    "quiz": [
+      { "q": "___ wrote the \"Critique of Pure Reason.\"（カントは『純粋理性批判』を書いた）", "A": "Kant", "B": "Kettle", "C": "Kernel", "D": "Keeper", "correct": "A" },
+      { "q": "Kant の専門分野は？", "A": "哲学", "B": "天文学", "C": "音楽", "D": "生物学", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Kafka",
+    "pron": "ˈkæfkə",
+    "kana": "カフカ",
+    "hinshi": "固有名詞（人物・作家）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "チェコ語の姓 Kafka",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "文学・人物"],
+    "meaning_main": "カフカ（『変身』で知られるチェコ出身の作家）",
+    "description": "Kafka はチェコ出身のドイツ語作家「フランツ・カフカ」を表す固有名詞。ある朝、虫に変わってしまう男を描いた『変身』などで知られます。不条理で悪夢のような世界を描き、その作風は「カフカ的（Kafkaesque）」という形容詞にもなりました。",
+    "keywords": ["Kafka 意味", "Kafka 発音", "カフカ 英語", "Kafka 変身", "Kafka 例文"],
+    "meanings": [
+      { "hinshi": "【固有名詞】カフカ", "note": "『変身』などで知られるチェコ出身の作家(1883-1924)。" }
+    ],
+    "usages": [
+      { "title": "① カフカ（作家）", "desc": "不条理文学の巨匠。", "example_en": "Kafka wrote \"The Metamorphosis.\"", "example_ja": "カフカは『変身』を書いた。" },
+      { "title": "② 悪夢のような世界", "desc": "不条理を描く。", "example_en": "Kafka's stories feel like nightmares.", "example_ja": "カフカの物語は悪夢のようだ。" },
+      { "title": "③ Kafkaesque（カフカ的）", "desc": "彼の名から生まれた形容詞。", "example_en": "The situation was truly Kafkaesque.", "example_ja": "その状況はまさにカフカ的だった。" }
+    ],
+    "warn": ["固有名詞なので大文字で始める。形容詞 Kafkaesque（不条理で悪夢的な）も重要。", "発音は /ˈkæfkə/。"],
+    "etym_note": "チェコ語圏の姓 Kafka に由来します。フランツ・カフカ（1883-1924）はプラハに生まれ、ドイツ語で作品を書きました。生前はほぼ無名でしたが、死後に高く評価されました。",
+    "etym_chain": [
+      { "node": "Kafka (姓)", "sub": "チェコ語の姓", "era": "19世紀" },
+      { "node": "Kafka", "sub": "作家の名", "era": "20世紀" },
+      { "node": "Kafka", "sub": "カフカ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Franz Kafka", "ja": "フランツ・カフカ" },
+      { "en": "Kafka's novels", "ja": "カフカの小説" },
+      { "en": "The Metamorphosis", "ja": "変身" },
+      { "en": "Kafkaesque", "ja": "カフカ的な・不条理な" },
+      { "en": "read Kafka", "ja": "カフカを読む" },
+      { "en": "Kafka's world", "ja": "カフカの世界" }
+    ],
+    "related": [
+      { "en": "literature", "ja": "文学" },
+      { "en": "novel", "ja": "小説" },
+      { "en": "writer", "ja": "作家" },
+      { "en": "Prague", "ja": "プラハ" }
+    ],
+    "faq": [
+      { "q": "Kafka はどんな作家ですか？", "a": "チェコ出身のドイツ語作家フランツ・カフカで、ある朝虫に変わってしまう男を描いた『変身』などで知られます。不条理で悪夢のような世界を描きました。" },
+      { "q": "Kafkaesque とはどんな意味ですか？", "a": "カフカの作風にちなみ、「不条理で悪夢のような・官僚的で理不尽な」状況を表す形容詞です。" }
+    ],
+    "quiz": [
+      { "q": "___ wrote \"The Metamorphosis,\" about a man who turns into an insect.（カフカは虫になる男を描いた『変身』を書いた）", "A": "Kafka", "B": "Kettle", "C": "Kernel", "D": "Keeper", "correct": "A" },
+      { "q": "Kafka の専門分野は？", "A": "文学", "B": "科学", "C": "音楽", "D": "政治", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Klimt",
+    "pron": "klɪmt",
+    "kana": "クリムト",
+    "hinshi": "固有名詞（人物・画家）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ドイツ語圏の姓 Klimt",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "美術・人物"],
+    "meaning_main": "クリムト（『接吻』で知られるオーストリアの画家）",
+    "description": "Klimt はオーストリアの画家「グスタフ・クリムト」を表す固有名詞。金箔をふんだんに使った華やかで装飾的な作風で知られ、代表作『接吻』は世界的に有名です。19〜20世紀のウィーンで活躍した象徴主義・アール・ヌーヴォーの巨匠です。",
+    "keywords": ["Klimt 意味", "Klimt 発音", "クリムト 英語", "Klimt 接吻", "Klimt 例文"],
+    "meanings": [
+      { "hinshi": "【固有名詞】クリムト", "note": "『接吻』で知られるオーストリアの画家(1862-1918)。" }
+    ],
+    "usages": [
+      { "title": "① クリムト（画家）", "desc": "装飾的な作風。", "example_en": "Klimt was a famous Austrian painter.", "example_ja": "クリムトは有名なオーストリアの画家だった。" },
+      { "title": "② 金箔の絵画", "desc": "きらびやかな作品。", "example_en": "Klimt used gold leaf in many of his paintings.", "example_ja": "クリムトは多くの絵に金箔を使った。" },
+      { "title": "③ 代表作『接吻』", "desc": "世界的に有名。", "example_en": "Klimt's \"The Kiss\" is world-famous.", "example_ja": "クリムトの『接吻』は世界的に有名だ。" }
+    ],
+    "warn": ["固有名詞なので大文字で始める。ウィーンで活躍した象徴主義の画家。", "発音は /klɪmt/。代表作は『接吻(The Kiss)』。"],
+    "etym_note": "ドイツ語圏の姓 Klimt に由来します。グスタフ・クリムト（1862-1918）はウィーンで活躍し、「ウィーン分離派」の中心人物として装飾的な絵画を生み出しました。",
+    "etym_chain": [
+      { "node": "Klimt (姓)", "sub": "ドイツ語圏の姓", "era": "19世紀" },
+      { "node": "Klimt", "sub": "画家の名", "era": "19-20世紀" },
+      { "node": "Klimt", "sub": "クリムト", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Gustav Klimt", "ja": "グスタフ・クリムト" },
+      { "en": "Klimt's paintings", "ja": "クリムトの絵画" },
+      { "en": "The Kiss", "ja": "接吻" },
+      { "en": "gold leaf", "ja": "金箔" },
+      { "en": "a Klimt exhibition", "ja": "クリムト展" },
+      { "en": "Klimt's style", "ja": "クリムトの画風" }
+    ],
+    "related": [
+      { "en": "art", "ja": "美術" },
+      { "en": "painter", "ja": "画家" },
+      { "en": "Vienna", "ja": "ウィーン" },
+      { "en": "painting", "ja": "絵画" }
+    ],
+    "faq": [
+      { "q": "Klimt はどんな画家ですか？", "a": "オーストリアの画家グスタフ・クリムトで、金箔を使った華やかで装飾的な作風で知られます。代表作『接吻』は世界的に有名です。" },
+      { "q": "Klimt の代表作は？", "a": "金箔を使い、抱き合う男女を描いた『接吻（The Kiss）』が最も有名です。" }
+    ],
+    "quiz": [
+      { "q": "___ painted \"The Kiss\" using gold leaf.（クリムトは金箔を使って『接吻』を描いた）", "A": "Klimt", "B": "Kettle", "C": "Kernel", "D": "Keeper", "correct": "A" },
+      { "q": "Klimt の専門分野は？", "A": "絵画", "B": "音楽", "C": "文学", "D": "科学", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Kennedy",
+    "pron": "ˈkenədi",
+    "kana": "ケネディ",
+    "hinshi": "固有名詞（人物・政治家）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "アイルランド語系の姓 Kennedy",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "歴史・人物"],
+    "meaning_main": "ケネディ（第35代アメリカ大統領）",
+    "description": "Kennedy はアメリカ合衆国第35代大統領「ジョン・F・ケネディ」を表す固有名詞。若くして大統領となり、宇宙開発や公民権運動の時代を導きましたが、1963年に暗殺されました。JFK の愛称でも広く知られています。",
+    "keywords": ["Kennedy 意味", "Kennedy 発音", "ケネディ 英語", "JFK 大統領", "Kennedy 例文"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ケネディ", "note": "アメリカ第35代大統領ジョン・F・ケネディ(1917-1963)。" }
+    ],
+    "usages": [
+      { "title": "① ケネディ（大統領）", "desc": "第35代米大統領。", "example_en": "Kennedy became president in 1961.", "example_ja": "ケネディは1961年に大統領になった。" },
+      { "title": "② JFK の愛称", "desc": "名前の頭文字。", "example_en": "Kennedy is often called JFK.", "example_ja": "ケネディはよくJFKと呼ばれる。" },
+      { "title": "③ 宇宙開発の推進", "desc": "月着陸を目標に掲げた。", "example_en": "Kennedy set a goal to land on the moon.", "example_ja": "ケネディは月着陸を目標に掲げた。" }
+    ],
+    "warn": ["固有名詞なので大文字で始める。JFK（John F. Kennedy）の愛称で知られる。", "発音は /ˈkenədi/。1963年に暗殺された。"],
+    "etym_note": "アイルランド語系の姓 Kennedy（Ó Cinnéide、「かぶとをかぶった頭」の意とされる）に由来します。ケネディ家はアメリカの著名な政治一家です。",
+    "etym_chain": [
+      { "node": "Ó Cinnéide", "sub": "アイルランド語の姓", "era": "中世" },
+      { "node": "Kennedy", "sub": "姓", "era": "近代" },
+      { "node": "Kennedy", "sub": "ケネディ大統領", "era": "20世紀" }
+    ],
+    "phrases": [
+      { "en": "John F. Kennedy", "ja": "ジョン・F・ケネディ" },
+      { "en": "President Kennedy", "ja": "ケネディ大統領" },
+      { "en": "JFK", "ja": "ケネディ（愛称）" },
+      { "en": "the Kennedy family", "ja": "ケネディ家" },
+      { "en": "Kennedy's speech", "ja": "ケネディの演説" },
+      { "en": "the Kennedy administration", "ja": "ケネディ政権" }
+    ],
+    "related": [
+      { "en": "president", "ja": "大統領" },
+      { "en": "America", "ja": "アメリカ" },
+      { "en": "politics", "ja": "政治" },
+      { "en": "White House", "ja": "ホワイトハウス" }
+    ],
+    "faq": [
+      { "q": "Kennedy はどんな人ですか？", "a": "アメリカ合衆国第35代大統領ジョン・F・ケネディです。若くして大統領となり、宇宙開発や公民権運動の時代を導きましたが、1963年に暗殺されました。" },
+      { "q": "JFK とは何ですか？", "a": "John F. Kennedy（ジョン・フィッツジェラルド・ケネディ）の頭文字で、彼の愛称として広く使われます。空港名などにもなっています。" }
+    ],
+    "quiz": [
+      { "q": "President ___ set the goal of landing a man on the moon.（ケネディ大統領は月に人を着陸させる目標を掲げた）", "A": "Kennedy", "B": "Kettle", "C": "Kernel", "D": "Keeper", "correct": "A" },
+      { "q": "Kennedy はどの国の大統領だった？", "A": "アメリカ", "B": "フランス", "C": "ロシア", "D": "イギリス", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Kolkata",
+    "pron": "kɒlˈkɑːtə",
+    "kana": "コルカタ",
+    "hinshi": "固有名詞（都市）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ベンガル語 Kolikata（地名)",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "地理・アジア"],
+    "meaning_main": "コルカタ（インド東部の大都市。旧称カルカッタ）",
+    "description": "Kolkata はインド東部の大都市「コルカタ」を表す固有名詞。旧称はカルカッタ（Calcutta）で、かつて英領インドの首都でもありました。文学・芸術・映画がさかんな文化の中心地で、ベンガル地方の玄関口として知られます。",
+    "keywords": ["Kolkata 意味", "Kolkata 発音", "コルカタ 英語", "Calcutta カルカッタ", "Kolkata 例文"],
+    "meanings": [
+      { "hinshi": "【固有名詞】コルカタ", "note": "インド東部の大都市。旧称カルカッタ。文化の中心地。" }
+    ],
+    "usages": [
+      { "title": "① コルカタ（都市）", "desc": "インド東部の大都市。", "example_en": "Kolkata is a major city in eastern India.", "example_ja": "コルカタはインド東部の大都市だ。" },
+      { "title": "② 旧称カルカッタ", "desc": "2001年に改称。", "example_en": "Kolkata was formerly called Calcutta.", "example_ja": "コルカタはかつてカルカッタと呼ばれた。" },
+      { "title": "③ 文化の中心", "desc": "文学・映画がさかん。", "example_en": "Kolkata is a center of art and literature.", "example_ja": "コルカタは芸術と文学の中心地だ。" }
+    ],
+    "warn": ["固有名詞なので大文字で始める。旧称は Calcutta（カルカッタ）。", "発音は /kɒlˈkɑːtə/。ベンガル地方の中心都市。"],
+    "etym_note": "ベンガル語の地名 Kolikata に由来します。長く英語では Calcutta（カルカッタ）と呼ばれていましたが、2001年に現地の発音に近い Kolkata に正式改称されました。",
+    "etym_chain": [
+      { "node": "Kolikata", "sub": "地名", "era": "ベンガル語" },
+      { "node": "Calcutta", "sub": "カルカッタ", "era": "英領期" },
+      { "node": "Kolkata", "sub": "コルカタ", "era": "現代英語(2001-)" }
+    ],
+    "phrases": [
+      { "en": "the city of Kolkata", "ja": "コルカタ市" },
+      { "en": "formerly Calcutta", "ja": "旧称カルカッタ" },
+      { "en": "Kolkata, India", "ja": "インドのコルカタ" },
+      { "en": "the streets of Kolkata", "ja": "コルカタの街並み" },
+      { "en": "West Bengal", "ja": "西ベンガル州" },
+      { "en": "travel to Kolkata", "ja": "コルカタへ行く" }
+    ],
+    "related": [
+      { "en": "India", "ja": "インド" },
+      { "en": "Calcutta", "ja": "カルカッタ(旧称)" },
+      { "en": "Bengal", "ja": "ベンガル" },
+      { "en": "city", "ja": "都市" }
+    ],
+    "faq": [
+      { "q": "Kolkata とはどこですか？", "a": "インド東部の大都市で、旧称はカルカッタ（Calcutta）です。かつて英領インドの首都でもあり、文学・芸術・映画がさかんな文化の中心地です。" },
+      { "q": "Kolkata と Calcutta の関係は？", "a": "同じ都市です。2001年に、現地ベンガル語の発音に近い Kolkata へ正式に改称されました。" }
+    ],
+    "quiz": [
+      { "q": "___, formerly Calcutta, is a large city in eastern India.（コルカタ、旧称カルカッタはインド東部の大都市だ）", "A": "Kolkata", "B": "Kettle", "C": "Kernel", "D": "Keeper", "correct": "A" },
+      { "q": "Kolkata の旧称は？", "A": "カルカッタ", "B": "ムンバイ", "C": "デリー", "D": "チェンナイ", "correct": "A" }
+    ]
+  }
+]

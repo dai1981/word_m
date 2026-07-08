@@ -1,0 +1,525 @@
+[
+  {
+    "english": "recommitment",
+    "pron": "ˌriːkəˈmɪtmənt",
+    "kana": "リコミットメント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ commitment（献身・約束）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "ビジネス・一般"],
+    "meaning_main": "再び献身すること・改めての決意・再誓約",
+    "description": "recommitment の意味・発音・例文・語源を解説。目標や関係に「再び献身すること・改めて力を注ぐと誓うこと」という、ビジネスや一般で使う語の使い方を紹介します。動詞 recommit も解説。",
+    "keywords": ["recommitment 意味", "recommitment 発音", "再誓約", "commitment 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再び献身すること・改めての決意・再誓約", "note": "以前の約束・目標・関係などに、改めて力を注ぐと誓い直すこと。a recommitment to quality（品質への改めての取り組み）。動詞は recommit。re-commitment とも綴る。" }
+    ],
+    "usages": [
+      { "title": "① 「目標への再誓約」として", "desc": "改めての決意を表します。", "example_en": "The company announced a recommitment to sustainability.", "example_ja": "その会社は持続可能性への改めての取り組みを表明した。" },
+      { "title": "② 「関係の再誓約」として", "desc": "献身の誓い直しを表します。", "example_en": "The ceremony was a recommitment to their marriage.", "example_ja": "その式は結婚への誓いを新たにするものだった。" }
+    ],
+    "warn": [
+      "recommitment は『再び献身すること・改めての決意・再誓約』。re-＋ commitment。動詞は recommit。",
+      "目標・価値・関係などに『改めて力を注ぐと誓い直す』前向きな文脈で使う。"
+    ],
+    "etym_note": "re-（再び）＋ commitment（commit「委ねる・献身する」、ラテン語 committere「託す・結びつける」、com-＋ mittere「送る」より）から成り、「再び身を委ねること」を意味します。mission（任務）や transmit（送信する）と同じ mittere の系統です。",
+    "etym_chain": [
+      { "node": "committere", "sub": "託す・結びつける", "era": "ラテン語" },
+      { "node": "commitment", "sub": "献身・約束", "era": "近代英語" },
+      { "node": "recommitment", "sub": "再び献身すること・再誓約", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a recommitment to quality", "ja": "品質への改めての取り組み" },
+      { "en": "a recommitment to the cause", "ja": "大義への再誓約" },
+      { "en": "announce a recommitment", "ja": "改めての取り組みを表明する" },
+      { "en": "a recommitment to peace", "ja": "平和への改めての誓い" },
+      { "en": "a recommitment ceremony", "ja": "誓いを新たにする式" },
+      { "en": "renewal and recommitment", "ja": "更新と再誓約" }
+    ],
+    "related": [
+      { "en": "recommit", "ja": "再び献身する・改めて誓う" },
+      { "en": "commitment", "ja": "献身・約束・関与" },
+      { "en": "dedication", "ja": "献身・専念" },
+      { "en": "pledge", "ja": "誓約・誓う" }
+    ],
+    "faq": [
+      { "q": "recommitment とはどんな意味？", "a": "以前の約束・目標・関係などに『再び献身すること・改めて力を注ぐと誓うこと（再誓約）』です。The company announced a recommitment to sustainability.（持続可能性への改めての取り組みを表明した）のように使います。動詞は recommit です。" },
+      { "q": "recommitment はどんな場面で使う？", "a": "企業が価値観や目標に改めて取り組む宣言、夫婦が結婚の誓いを新たにする式（recommitment ceremony）、活動家が大義に再び身を捧げる場面など、前向きな『誓い直し』で使われます。" }
+    ],
+    "quiz": [
+      { "q": "The company announced a ___ to sustainability.（改めての取り組み）", "A": "recommitment", "B": "recommendation の推薦", "C": "recollection の回想", "D": "reconciliation の和解", "correct": "A" },
+      { "q": "recommitment の動詞形はどれ？", "A": "recommit（再び献身する）", "B": "recommend（推薦する）", "C": "recollect（回想する）", "D": "reconcile（和解させる）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reemployment",
+    "pron": "ˌriːɪmˈplɔɪmənt",
+    "kana": "リエンプロイメント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ employment（雇用）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "労働・経済"],
+    "meaning_main": "再雇用・再就職",
+    "description": "reemployment の意味・発音・例文・語源を解説。離職・退職した人の「再雇用・再就職」という、労働や経済で使う語の使い方を紹介します。動詞 reemploy も解説。",
+    "keywords": ["reemployment 意味", "reemployment 発音", "再雇用", "employment 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再雇用・再就職", "note": "離職・失業・退職した人が再び雇われること・仕事に就くこと。reemployment of retirees（定年退職者の再雇用）。動詞は reemploy。re-employment とも綴る。" }
+    ],
+    "usages": [
+      { "title": "① 「退職者の再雇用」として", "desc": "再び雇うことを表します。", "example_en": "The scheme supports the reemployment of older workers.", "example_ja": "その制度は高齢労働者の再雇用を支援する。" },
+      { "title": "② 「失業者の再就職」として", "desc": "仕事への復帰を表します。", "example_en": "Training improves the reemployment of laid-off staff.", "example_ja": "訓練は解雇された社員の再就職を高める。" }
+    ],
+    "warn": [
+      "reemployment は『再雇用・再就職』。re-＋ employment。動詞は reemploy。re-employment とも綴る。",
+      "労働政策（高齢者・失業者の再就職支援）でよく使う。"
+    ],
+    "etym_note": "re-（再び）＋ employment（employ「雇う・使う」、古フランス語 emploier、ラテン語 implicare「巻き込む・従事させる」より）から成り、「再び雇うこと」を意味します。imply（含意する）や employ（雇う）と同じ plicare の系統です。",
+    "etym_chain": [
+      { "node": "implicare", "sub": "巻き込む・従事させる", "era": "ラテン語" },
+      { "node": "employment", "sub": "雇用", "era": "近代英語" },
+      { "node": "reemployment", "sub": "再雇用・再就職", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "reemployment of retirees", "ja": "定年退職者の再雇用" },
+      { "en": "support reemployment", "ja": "再就職を支援する" },
+      { "en": "reemployment rate", "ja": "再就職率" },
+      { "en": "a reemployment program", "ja": "再就職プログラム" },
+      { "en": "reemployment after layoffs", "ja": "解雇後の再就職" },
+      { "en": "reemployment assistance", "ja": "再就職支援" }
+    ],
+    "related": [
+      { "en": "reemploy", "ja": "再雇用する" },
+      { "en": "employment", "ja": "雇用" },
+      { "en": "unemployment", "ja": "失業" },
+      { "en": "rehire", "ja": "再雇用する" }
+    ],
+    "faq": [
+      { "q": "reemployment とはどんな意味？", "a": "離職・失業・退職した人が『再び雇われること・仕事に就くこと（再雇用・再就職）』です。The scheme supports the reemployment of older workers.（高齢労働者の再雇用を支援する）のように使います。動詞は reemploy です。" },
+      { "q": "reemployment と rehire の違いは？", "a": "reemployment は『再雇用・再就職（の状態・過程）』を指す名詞、rehire は『（以前雇っていた人を）再び雇う』という動詞です。意味は近く関連します。" }
+    ],
+    "quiz": [
+      { "q": "The scheme supports the ___ of older workers.（再雇用）", "A": "reemployment", "B": "employment の最初の雇用だけ", "C": "enjoyment の楽しみ", "D": "environment の環境", "correct": "A" },
+      { "q": "reemployment の動詞形はどれ？", "A": "reemploy（再雇用する）", "B": "enjoy（楽しむ）", "C": "employ の最初に雇うだけ", "D": "deploy（配備する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reengagement",
+    "pron": "ˌriːɪnˈɡeɪdʒmənt",
+    "kana": "リエンゲイジメント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ engagement（関与・従事・交戦）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "ビジネス・外交"],
+    "meaning_main": "再び関わること・関与の再開・再交戦",
+    "description": "reengagement の意味・発音・例文・語源を解説。活動や相手に「再び関わること・関与の再開」、また軍事の「再交戦」という、ビジネスや外交で使う語の使い方を紹介します。動詞 reengage も解説。",
+    "keywords": ["reengagement 意味", "reengagement 発音", "関与の再開", "engagement 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再び関わること・関与の再開", "note": "いったん離れた活動・相手・課題に再び積極的に関わること。customer reengagement（顧客の再エンゲージメント＝離れた顧客との関係の再構築）。外交では対話・関与の再開。動詞は reengage。" },
+      { "hinshi": "【名詞】（軍事）再交戦", "note": "退いた後、再び戦闘に入ること。" }
+    ],
+    "usages": [
+      { "title": "① 「関与の再開」として", "desc": "再び積極的に関わることを表します。", "example_en": "The policy called for reengagement with allies.", "example_ja": "その方針は同盟国との関与の再開を求めた。" },
+      { "title": "② マーケ「顧客の再エンゲージメント」として", "desc": "離れた客との関係再構築を表します。", "example_en": "The campaign focused on customer reengagement.", "example_ja": "そのキャンペーンは離反客との関係再構築に注力した。" }
+    ],
+    "warn": [
+      "reengagement は『再び関わること・関与の再開／（軍事）再交戦』。re-＋ engagement。動詞は reengage。re-engagement とも綴る。",
+      "外交（関与政策の再開）、マーケティング（顧客の再エンゲージメント）、軍事（再交戦）で使う。"
+    ],
+    "etym_note": "re-（再び）＋ engagement（engage「従事させる・約束する・交戦する」、古フランス語 engagier「（担保に）入れる・約束する」、en-＋ gage「担保」より）から成り、「再び関わり合うこと」を意味します。gage（担保）や wage（賃金）と語源的につながります。",
+    "etym_chain": [
+      { "node": "engagier", "sub": "約束する・担保に入れる", "era": "古フランス語" },
+      { "node": "engagement", "sub": "関与・従事・交戦", "era": "近代英語" },
+      { "node": "reengagement", "sub": "関与の再開・再交戦", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "reengagement with allies", "ja": "同盟国との関与の再開" },
+      { "en": "customer reengagement", "ja": "顧客の再エンゲージメント" },
+      { "en": "a policy of reengagement", "ja": "関与再開の方針" },
+      { "en": "reengagement with the community", "ja": "地域との再び関わること" },
+      { "en": "diplomatic reengagement", "ja": "外交的な関与の再開" },
+      { "en": "reengagement of the enemy", "ja": "敵との再交戦" }
+    ],
+    "related": [
+      { "en": "reengage", "ja": "再び関わる・再交戦する" },
+      { "en": "engagement", "ja": "関与・従事・交戦・婚約" },
+      { "en": "involvement", "ja": "関与・参加" },
+      { "en": "outreach", "ja": "働きかけ・支援活動" }
+    ],
+    "faq": [
+      { "q": "reengagement とはどんな意味？", "a": "いったん離れた活動・相手・課題に『再び積極的に関わること・関与の再開』です。外交（同盟国との関与の再開）、マーケティング（顧客の再エンゲージメント）、軍事（再交戦）などで使います。The policy called for reengagement with allies.（同盟国との関与の再開を求めた）のように使います。動詞は reengage です。" },
+      { "q": "マーケティングの customer reengagement とは？", "a": "利用が途絶えた・離れてしまった顧客に、メールやキャンペーンなどで再び働きかけ、関係やサービス利用を取り戻すことを指します。" }
+    ],
+    "quiz": [
+      { "q": "The policy called for ___ with allies.（関与の再開）", "A": "reengagement", "B": "arrangement の手配", "C": "management の経営", "D": "encouragement の励まし", "correct": "A" },
+      { "q": "reengagement の動詞形はどれ？", "A": "reengage（再び関わる）", "B": "arrange（手配する）", "C": "manage（経営する）", "D": "encourage（励ます）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reexport",
+    "pron": "ˌriːˈɛkspɔːt",
+    "kana": "リエクスポート",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "re-（再び）＋ export（輸出する・輸出）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "貿易・経済"],
+    "meaning_main": "再輸出（する）（輸入した品を加工せず輸出）",
+    "description": "reexport の意味・発音・例文・語源を解説。輸入した品物をそのまま（またはほとんど手を加えずに）他国へ「再輸出すること」という、貿易や経済で使う語の使い方を紹介します。",
+    "keywords": ["reexport 意味", "reexport 発音", "再輸出", "export 意味"],
+    "meanings": [
+      { "hinshi": "【動詞】再輸出する", "note": "いったん輸入した品を（加工せずに）他国へさらに輸出する。動詞のアクセントは後ろ（リエクスポート）。" },
+      { "hinshi": "【名詞】再輸出（品）", "note": "再輸出される品物や、その取引。中継貿易の中心地で多い。re-export とも綴る。" }
+    ],
+    "usages": [
+      { "title": "① 「再輸出する」として", "desc": "輸入品の再輸出を表します。", "example_en": "The port reexports goods to neighboring countries.", "example_ja": "その港は近隣諸国へ物品を再輸出する。" },
+      { "title": "② 名詞「再輸出」として", "desc": "中継貿易を表します。", "example_en": "Much of the trade consists of reexports.", "example_ja": "その貿易の多くは再輸出から成る。" }
+    ],
+    "warn": [
+      "reexport は『再輸出（する）』。re-＋ export。re-export とも綴る。",
+      "輸入した品を（加工せず）そのまま他国へ売る中継貿易で重要な概念。動詞と名詞でアクセント位置が異なる（動詞は後ろ、名詞は前寄り）。"
+    ],
+    "etym_note": "re-（再び）＋ export（『輸出する』、ラテン語 exportare「運び出す」、ex-（外へ）＋ portare「運ぶ」より）から成り、「再び運び出すこと」を意味します。port（港）や transport（輸送）と同じ portare の系統です。",
+    "etym_chain": [
+      { "node": "exportare", "sub": "運び出す", "era": "ラテン語" },
+      { "node": "export", "sub": "輸出する・輸出", "era": "近代英語" },
+      { "node": "reexport", "sub": "再輸出（する）", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "reexport goods", "ja": "物品を再輸出する" },
+      { "en": "reexport to other countries", "ja": "他国へ再輸出する" },
+      { "en": "a reexport trade", "ja": "再輸出貿易・中継貿易" },
+      { "en": "reexport of raw materials", "ja": "原材料の再輸出" },
+      { "en": "reexport duties", "ja": "再輸出税" },
+      { "en": "a hub for reexports", "ja": "再輸出の拠点" }
+    ],
+    "related": [
+      { "en": "export", "ja": "輸出する・輸出" },
+      { "en": "import", "ja": "輸入する・輸入" },
+      { "en": "entrepôt", "ja": "中継貿易港・保税倉庫" },
+      { "en": "transshipment", "ja": "積み替え・中継" }
+    ],
+    "faq": [
+      { "q": "reexport とはどんな意味？", "a": "いったん輸入した品物を（加工せず）他国へさらに『再輸出すること』です。The port reexports goods to neighboring countries.（その港は近隣諸国へ物品を再輸出する）のように使います。名詞では『再輸出品』も指します。" },
+      { "q": "reexport はどんな場所で多い？", "a": "シンガポールや香港のような中継貿易の拠点（entrepôt）で多く見られます。世界中から輸入した品を集め、加工せずに他国へ再輸出する取引が盛んです。" }
+    ],
+    "quiz": [
+      { "q": "The port ___s goods to neighboring countries.（再輸出する）", "A": "reexport", "B": "export の最初に輸出するだけ", "C": "escort の護衛する", "D": "extort の脅し取る", "correct": "A" },
+      { "q": "reexport の export はどんな意味？", "A": "輸出する", "B": "輸入する", "C": "保管する", "D": "製造する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "resurfacing",
+    "pron": "ˌriːˈsɜːfɪsɪŋ",
+    "kana": "リサーフェシング",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ surfacing（表面を仕上げること）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "土木・一般"],
+    "meaning_main": "（路面などの）舗装し直し・表面の再仕上げ／再浮上",
+    "description": "resurfacing の意味・発音・例文・語源を解説。道路などの「表面を舗装し直すこと」、また潜水艦などが「再び浮上すること」という語の使い方を紹介します。動詞 resurface も解説。",
+    "keywords": ["resurfacing 意味", "resurfacing 発音", "舗装し直し", "resurface 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】（路面などの）舗装し直し・表面の再仕上げ", "note": "道路・コート・スケートリンクなどの表面を新しく張り替え・仕上げ直すこと。road resurfacing（道路の舗装し直し）。" },
+      { "hinshi": "【名詞】再浮上・再び現れること", "note": "潜水艦などが再び水面に浮かぶこと。比喩で問題・話題が『再び表面化すること』。動詞は resurface。" }
+    ],
+    "usages": [
+      { "title": "① 「道路の舗装し直し」として", "desc": "路面の再仕上げを表します。", "example_en": "The road resurfacing will cause delays.", "example_ja": "道路の舗装し直しで渋滞が生じるだろう。" },
+      { "title": "② 「再浮上」として", "desc": "再び現れることを表します。", "example_en": "The resurfacing of old rumors troubled him.", "example_ja": "古いうわさが再び浮上したことが彼を悩ませた。" }
+    ],
+    "warn": [
+      "resurfacing は『（路面などの）舗装し直し・表面の再仕上げ／再浮上・再び現れること』。re-＋ surfacing。動詞は resurface。",
+      "土木（道路・リンクの再舗装）のほか、比喩で『問題・話題の再表面化』にも使う。"
+    ],
+    "etym_note": "re-（再び）＋ surfacing（surface「表面・表面を仕上げる・浮上する」、ラテン語 super-（上）＋ facies「面」より）から成り、「再び表面を仕上げること・再び表面に出ること」を意味します。face（顔・面）と同じ facies の系統です。",
+    "etym_chain": [
+      { "node": "surface", "sub": "表面・浮上する", "era": "近代英語" },
+      { "node": "surfacing", "sub": "表面を仕上げること・浮上", "era": "近代英語" },
+      { "node": "resurfacing", "sub": "舗装し直し・再浮上", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "road resurfacing", "ja": "道路の舗装し直し" },
+      { "en": "resurfacing of the runway", "ja": "滑走路の再舗装" },
+      { "en": "skin resurfacing", "ja": "肌の表面再生（美容医療）" },
+      { "en": "the resurfacing of old problems", "ja": "古い問題の再表面化" },
+      { "en": "need resurfacing", "ja": "舗装し直しが必要だ" },
+      { "en": "ice resurfacing", "ja": "氷面の整備" }
+    ],
+    "related": [
+      { "en": "resurface", "ja": "舗装し直す・再び浮上する" },
+      { "en": "surface", "ja": "表面・浮上する" },
+      { "en": "repaving", "ja": "舗装し直し" },
+      { "en": "reemergence", "ja": "再出現・再浮上" }
+    ],
+    "faq": [
+      { "q": "resurfacing とはどんな意味？", "a": "道路などの『表面を舗装し直すこと・表面の再仕上げ』、また潜水艦などが『再び浮上すること』、比喩で問題が『再び表面化すること』です。The road resurfacing will cause delays.（道路の舗装し直しで渋滞が生じる）のように使います。動詞は resurface です。" },
+      { "q": "美容医療の skin resurfacing とは？", "a": "レーザーなどで肌の表面を整え、しわ・傷跡・色むらを改善する『肌の表面再生』治療を指します。resurfacing の『表面を仕上げ直す』という意味が使われています。" }
+    ],
+    "quiz": [
+      { "q": "The road ___ will cause delays.（舗装し直し）", "A": "resurfacing", "B": "resourcing の資源調達", "C": "referencing の参照", "D": "rehearsing のリハーサル", "correct": "A" },
+      { "q": "resurfacing の動詞形はどれ？", "A": "resurface（舗装し直す・再浮上する）", "B": "reserve（予約する）", "C": "resource（資源を得る）", "D": "rehearse（リハーサルする）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "retraining",
+    "pron": "ˌriːˈtreɪnɪŋ",
+    "kana": "リトレーニング",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ training（訓練）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "労働・教育"],
+    "meaning_main": "再訓練・（新技能の）学び直し",
+    "description": "retraining の意味・発音・例文・語源を解説。新しい仕事や技能のために「再訓練すること・学び直すこと」という、労働や教育で使う語の使い方を紹介します。動詞 retrain も解説。",
+    "keywords": ["retraining 意味", "retraining 発音", "再訓練", "retrain 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】再訓練・学び直し", "note": "新しい仕事・技能・環境に対応するために、改めて訓練・教育を受けること。job retraining（職業再訓練）。動詞は retrain。AIによる技能の再学習（モデルの再訓練）でも使う。" }
+    ],
+    "usages": [
+      { "title": "① 「職業再訓練」として", "desc": "新技能の習得を表します。", "example_en": "The program offers retraining for displaced workers.", "example_ja": "その計画は職を失った労働者への再訓練を提供する。" },
+      { "title": "② 「学び直し」として", "desc": "技能の更新を表します。", "example_en": "Retraining helped her switch to a new career.", "example_ja": "再訓練が彼女の新しい職業への転身を助けた。" }
+    ],
+    "warn": [
+      "retraining は『再訓練・（新技能の）学び直し』。re-＋ training。動詞は retrain。",
+      "労働（配置転換・転職のための再訓練）や教育のほか、AI分野で『モデルの再訓練』にも使う。"
+    ],
+    "etym_note": "re-（再び）＋ training（train「訓練する・仕込む」、古フランス語 trainer「引く・導く」、ラテン語 trahere「引く」より）から成り、「再び訓練すること」を意味します。tractor（トラクター）や attract（引きつける）と同じ trahere の系統です。",
+    "etym_chain": [
+      { "node": "trahere", "sub": "引く", "era": "ラテン語" },
+      { "node": "training", "sub": "訓練", "era": "近代英語" },
+      { "node": "retraining", "sub": "再訓練・学び直し", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "job retraining", "ja": "職業再訓練" },
+      { "en": "offer retraining", "ja": "再訓練を提供する" },
+      { "en": "retraining for new skills", "ja": "新技能のための再訓練" },
+      { "en": "a retraining program", "ja": "再訓練プログラム" },
+      { "en": "retraining of workers", "ja": "労働者の再訓練" },
+      { "en": "undergo retraining", "ja": "再訓練を受ける" }
+    ],
+    "related": [
+      { "en": "retrain", "ja": "再訓練する・学び直す" },
+      { "en": "training", "ja": "訓練" },
+      { "en": "reskilling", "ja": "リスキリング・技能の学び直し" },
+      { "en": "upskilling", "ja": "スキルの向上" }
+    ],
+    "faq": [
+      { "q": "retraining とはどんな意味？", "a": "新しい仕事・技能・環境に対応するために『改めて訓練・教育を受けること（再訓練・学び直し）』です。The program offers retraining for displaced workers.（職を失った労働者への再訓練を提供する）のように使います。動詞は retrain です。" },
+      { "q": "retraining と reskilling の違いは？", "a": "どちらも『技能の学び直し』を指しますが、reskilling は特に『（別の職種のための）新しい技能の習得』、retraining は『（改めて）訓練を受けること』全般を指すことが多いです。" }
+    ],
+    "quiz": [
+      { "q": "The program offers ___ for displaced workers.（再訓練）", "A": "retraining", "B": "remaining の残り", "C": "restraining の抑制", "D": "retaining の保持", "correct": "A" },
+      { "q": "retraining の動詞形はどれ？", "A": "retrain（再訓練する）", "B": "remain（とどまる）", "C": "restrain（抑える）", "D": "retain（保持する）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ripcord",
+    "pron": "ˈrɪpkɔːd",
+    "kana": "リップコード",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rip（引き裂く・勢いよく引く）＋ cord（ひも）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "道具・スカイダイビング"],
+    "meaning_main": "（パラシュートの）開傘索・引き綱",
+    "description": "ripcord の意味・発音・例文・語源を解説。パラシュートを開くために引く「開傘索・引き綱（リップコード）」という、スカイダイビングで使う語の使い方と、比喩表現も紹介します。",
+    "keywords": ["ripcord 意味", "ripcord 発音", "開傘索", "パラシュート ひも"],
+    "meanings": [
+      { "hinshi": "【名詞】（パラシュートの）開傘索・引き綱", "note": "パラシュートを開くために勢いよく引くひも。pull the ripcord（開傘索を引く＝パラシュートを開く）。比喩で『（危機を脱するため）思い切って手を打つこと』にも使う。" }
+    ],
+    "usages": [
+      { "title": "① 「開傘索を引く」として", "desc": "パラシュートを開くことを表します。", "example_en": "She pulled the ripcord and the parachute opened.", "example_ja": "彼女が開傘索を引くとパラシュートが開いた。" },
+      { "title": "② 比喩「思い切って手を打つ」として", "desc": "緊急の決断を表します。", "example_en": "When the deal soured, he pulled the ripcord and walked away.", "example_ja": "取引が悪化すると、彼は思い切って手を引いた。" }
+    ],
+    "warn": [
+      "ripcord は『（パラシュートの）開傘索・引き綱』。rip（勢いよく引く）＋ cord（ひも）。",
+      "pull the ripcord（開傘索を引く）は、比喩で『（危機を脱するため）思い切った行動に出る・手を引く』にも使う。"
+    ],
+    "etym_note": "rip（『引き裂く・勢いよく引く』、由来は不確か）＋ cord（『ひも・綱』、ギリシャ語 chordē「腸・弦」より）から成り、「勢いよく引くひも」を意味します。chord（和音）や cordon（非常線）と同じ chordē の系統です。",
+    "etym_chain": [
+      { "node": "rip + cord", "sub": "勢いよく引く＋ひも", "era": "英語" },
+      { "node": "ripcord", "sub": "開傘索", "era": "20世紀英語" },
+      { "node": "ripcord", "sub": "開傘索・引き綱", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "pull the ripcord", "ja": "開傘索を引く" },
+      { "en": "the parachute ripcord", "ja": "パラシュートの開傘索" },
+      { "en": "yank the ripcord", "ja": "開傘索を勢いよく引く" },
+      { "en": "a backup ripcord", "ja": "予備の開傘索" },
+      { "en": "reach for the ripcord", "ja": "開傘索に手を伸ばす" },
+      { "en": "pull the ripcord on a deal", "ja": "取引から思い切って手を引く" }
+    ],
+    "related": [
+      { "en": "parachute", "ja": "パラシュート・落下傘" },
+      { "en": "cord", "ja": "ひも・綱" },
+      { "en": "skydiving", "ja": "スカイダイビング" },
+      { "en": "deploy", "ja": "（パラシュートを）開く・展開する" }
+    ],
+    "faq": [
+      { "q": "ripcord とはどんな意味？", "a": "パラシュートを開くために勢いよく引くひも『開傘索・引き綱（リップコード）』のことです。She pulled the ripcord and the parachute opened.（開傘索を引くとパラシュートが開いた）のように使います。" },
+      { "q": "pull the ripcord の比喩的な意味は？", "a": "『（危機を脱するため）思い切って決断・行動に出る、または手を引く』という意味でも使われます。パラシュートを開いて緊急脱出するイメージから来ています。" }
+    ],
+    "quiz": [
+      { "q": "She pulled the ___ and the parachute opened.（開傘索）", "A": "ripcord", "B": "record の記録", "C": "cordon の非常線", "D": "chord の和音", "correct": "A" },
+      { "q": "ripcord は何と何を合わせた語？", "A": "rip（勢いよく引く）と cord（ひも）", "B": "rip と code", "C": "ripe と cord", "D": "rib と cord", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rowlock",
+    "pron": "ˈrɒlək",
+    "kana": "ロロック",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "oarlock の変化形（oar「オール」＋ lock「固定具」）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "ボート・道具"],
+    "meaning_main": "（英）オール受け・櫂受け",
+    "description": "rowlock の意味・発音・例文・語源を解説。ボートの縁でオール（櫂）を支える金具「オール受け・櫂受け（ロロック）」という、ボート漕ぎで使う語の使い方を紹介します。米国の oarlock も解説。",
+    "keywords": ["rowlock 意味", "rowlock 発音", "オール受け", "櫂受け"],
+    "meanings": [
+      { "hinshi": "【名詞】（英）オール受け・櫂受け", "note": "ボートの縁（船べり）に取り付けられ、オール（櫂）を支えて漕ぎやすくするU字形・輪形の金具。米国では oarlock。発音はロロック（rowlock）と読む。" }
+    ],
+    "usages": [
+      { "title": "① 「オール受け」として", "desc": "オールを支える金具を表します。", "example_en": "He fitted the oars into the rowlocks.", "example_ja": "彼はオールをオール受けにはめ込んだ。" },
+      { "title": "② 「きしむ音」として", "desc": "漕ぐときの音を表します。", "example_en": "The oars creaked in the rowlocks.", "example_ja": "オールがオール受けの中できしんだ。" }
+    ],
+    "warn": [
+      "rowlock は『（英）オール受け・櫂受け』。米国では oarlock。発音はロロック（row-lock だが慣用でロロック）。",
+      "oarlock（オール＋lock）が変化して rowlock になったとされる。"
+    ],
+    "etym_note": "oarlock（oar「オール・櫂」＋ lock「固定具」）が変化してできた語とされます。row（漕ぐ）との連想で綴りが rowlock になりました。オールを受け止め固定する金具であることから。",
+    "etym_chain": [
+      { "node": "oar + lock", "sub": "オール＋固定具", "era": "古英語系" },
+      { "node": "oarlock", "sub": "オール受け", "era": "近代英語" },
+      { "node": "rowlock", "sub": "オール受け（英）", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "fit the oars into the rowlocks", "ja": "オールをオール受けにはめる" },
+      { "en": "the rowlocks creaked", "ja": "オール受けがきしんだ" },
+      { "en": "a metal rowlock", "ja": "金属のオール受け" },
+      { "en": "a broken rowlock", "ja": "壊れたオール受け" },
+      { "en": "grease the rowlocks", "ja": "オール受けに油をさす" },
+      { "en": "rest the oar in the rowlock", "ja": "オールをオール受けに置く" }
+    ],
+    "related": [
+      { "en": "oarlock", "ja": "（米）オール受け" },
+      { "en": "oar", "ja": "オール・櫂" },
+      { "en": "row", "ja": "（ボートを）漕ぐ" },
+      { "en": "gunwale", "ja": "船べり・ガンネル" }
+    ],
+    "faq": [
+      { "q": "rowlock とはどんな意味？", "a": "ボートの船べりに取り付けられ、オール（櫂）を支えて漕ぎやすくするU字形・輪形の金具『オール受け・櫂受け』のことです。He fitted the oars into the rowlocks.（オールをオール受けにはめ込んだ）のように使います。" },
+      { "q": "rowlock と oarlock の違いは？", "a": "同じ『オール受け』を指しますが、rowlock は主にイギリス英語、oarlock は主にアメリカ英語です。oarlock が変化して rowlock になったとされます。" }
+    ],
+    "quiz": [
+      { "q": "He fitted the oars into the ___s.（オール受け）", "A": "rowlock", "B": "padlock の南京錠", "C": "deadlock の行き詰まり", "D": "gridlock の交通まひ", "correct": "A" },
+      { "q": "rowlock のアメリカでの言い方はどれ？", "A": "oarlock", "B": "warlock", "C": "hemlock", "D": "wedlock", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rulership",
+    "pron": "ˈruːləʃɪp",
+    "kana": "ルーラーシップ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ruler（支配者）＋ -ship（地位・状態）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "政治・歴史"],
+    "meaning_main": "支配・統治・支配者の地位",
+    "description": "rulership の意味・発音・例文・語源を解説。支配者としての「支配・統治・支配者の地位」という、政治や歴史で使う語の使い方を紹介します。",
+    "keywords": ["rulership 意味", "rulership 発音", "支配", "ruler 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】支配・統治・支配者の地位", "note": "支配者（ruler）として国・人々を治めること、またその地位・期間。under his rulership（彼の統治のもとで）。ruler（支配者）＋ -ship（地位・状態）。" }
+    ],
+    "usages": [
+      { "title": "① 「統治」として", "desc": "治めることを表します。", "example_en": "The empire flourished under her rulership.", "example_ja": "その帝国は彼女の統治のもとで栄えた。" },
+      { "title": "② 「支配者の地位」として", "desc": "統治する立場を表します。", "example_en": "He claimed rulership over the whole region.", "example_ja": "彼は全地域の支配権を主張した。" }
+    ],
+    "warn": [
+      "rulership は『支配・統治・支配者の地位』。ruler（支配者）＋ -ship。",
+      "抽象的な『統治・支配（の営み・地位）』を指す。同義に rule（支配）、reign（治世）がある。"
+    ],
+    "etym_note": "ruler（『支配者・定規』、rule「支配する・規則」、ラテン語 regula「基準・まっすぐな棒」より）＋ -ship（『地位・状態・技量』を表す語尾）から成り、「支配者の地位・支配すること」を意味します。regular（規則的な）と同じ regula の系統です。",
+    "etym_chain": [
+      { "node": "regula", "sub": "基準・まっすぐな棒", "era": "ラテン語" },
+      { "node": "ruler", "sub": "支配者", "era": "中英語" },
+      { "node": "rulership", "sub": "支配・統治", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "under his rulership", "ja": "彼の統治のもとで" },
+      { "en": "claim rulership", "ja": "支配権を主張する" },
+      { "en": "years of rulership", "ja": "統治の年月" },
+      { "en": "rulership over the land", "ja": "その土地の支配" },
+      { "en": "seize rulership", "ja": "支配権を奪う" },
+      { "en": "absolute rulership", "ja": "絶対的な支配" }
+    ],
+    "related": [
+      { "en": "ruler", "ja": "支配者・定規" },
+      { "en": "rule", "ja": "支配・支配する" },
+      { "en": "reign", "ja": "治世・君臨する" },
+      { "en": "dominion", "ja": "統治権・領土" }
+    ],
+    "faq": [
+      { "q": "rulership とはどんな意味？", "a": "支配者として国や人々を治めること、またその地位・期間『支配・統治・支配者の地位』です。The empire flourished under her rulership.（帝国は彼女の統治のもとで栄えた）のように使います。" },
+      { "q": "rulership と reign の違いは？", "a": "reign は特に『君主の治世（在位期間）』、rulership は『支配・統治（の営み・地位）』全般を指します。rulership の方がやや抽象的で広く使えます。" }
+    ],
+    "quiz": [
+      { "q": "The empire flourished under her ___.（統治）", "A": "rulership", "B": "membership の会員資格", "C": "friendship の友情", "D": "hardship の苦難", "correct": "A" },
+      { "q": "rulership のもとになった名詞はどれ？", "A": "ruler（支配者）", "B": "rumor（うわさ）", "C": "runner（走者）", "D": "rubber（ゴム）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ragwort",
+    "pron": "ˈræɡwɜːt",
+    "kana": "ラグワート",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rag（ぼろ・裂けた）＋ wort（草・植物）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "植物・自然"],
+    "meaning_main": "ラグワート（黄色い花をつける野草・キク科）",
+    "description": "ragwort の意味・発音・例文・語源を解説。夏に黄色い花を咲かせるキク科の野草「ラグワート（ノボロギク類）」という、植物や自然で使う語の使い方と、家畜への毒性を紹介します。",
+    "keywords": ["ragwort 意味", "ragwort 発音", "ラグワート", "野草"],
+    "meanings": [
+      { "hinshi": "【名詞】ラグワート", "note": "夏にかけて黄色い頭状花を多数つけるキク科の野草。荒れ地や牧草地に生える。家畜（特に馬・牛）には有毒で、駆除の対象になることが多い。rag（裂けた）＋ wort（草）。" }
+    ],
+    "usages": [
+      { "title": "① 「黄色い野草」として", "desc": "夏の野草を表します。", "example_en": "Bright yellow ragwort covered the roadside.", "example_ja": "鮮やかな黄色のラグワートが道端を覆っていた。" },
+      { "title": "② 「家畜に有毒」として", "desc": "毒性を表します。", "example_en": "Ragwort is poisonous to horses and cattle.", "example_ja": "ラグワートは馬や牛に有毒だ。" }
+    ],
+    "warn": [
+      "ragwort は『ラグワート（黄色い花のキク科の野草）』。rag（裂けた）＋ wort（草）。",
+      "-wort は『草・植物』を表す古英語由来の語尾（例：St John's wort＝セイヨウオトギリソウ）。家畜に有毒。"
+    ],
+    "etym_note": "rag（『ぼろ・裂けた』。切れ込みのある葉にちなむ）＋ wort（『草・植物』、古英語 wyrt「草・根」より）から成り、「裂けた葉の草」を意味します。-wort は多くの植物名（liverwort など）に見られます。",
+    "etym_chain": [
+      { "node": "wyrt", "sub": "草・根", "era": "古英語" },
+      { "node": "rag + wort", "sub": "裂けた＋草", "era": "中英語" },
+      { "node": "ragwort", "sub": "ラグワート", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "yellow ragwort", "ja": "黄色いラグワート" },
+      { "en": "common ragwort", "ja": "ノボロギク（普通のラグワート）" },
+      { "en": "ragwort poisoning", "ja": "ラグワート中毒" },
+      { "en": "pull up ragwort", "ja": "ラグワートを引き抜く" },
+      { "en": "ragwort in the pasture", "ja": "牧草地のラグワート" },
+      { "en": "control ragwort", "ja": "ラグワートを駆除する" }
+    ],
+    "related": [
+      { "en": "wort", "ja": "草・植物（語尾）" },
+      { "en": "weed", "ja": "雑草" },
+      { "en": "daisy", "ja": "ヒナギク（キク科）" },
+      { "en": "toxic", "ja": "有毒な" }
+    ],
+    "faq": [
+      { "q": "ragwort とはどんな意味？", "a": "夏に黄色い花を多数つけるキク科の野草『ラグワート（ノボロギク類）』のことです。荒れ地や牧草地に生えます。Bright yellow ragwort covered the roadside.（黄色いラグワートが道端を覆っていた）のように使います。" },
+      { "q": "ragwort はなぜ問題になる？", "a": "馬や牛などの家畜に有毒で、食べると肝臓を害するため、牧草地では駆除の対象になります。乾草に混じっても毒性が残る点が問題視されます。" }
+    ],
+    "quiz": [
+      { "q": "Bright yellow ___ covered the roadside.（ラグワート）", "A": "ragwort", "B": "network のネットワーク", "C": "homework の宿題", "D": "framework の枠組み", "correct": "A" },
+      { "q": "ragwort の -wort はどんな意味？", "A": "草・植物", "B": "価値", "C": "言葉", "D": "働く", "correct": "A" }
+    ]
+  }
+]

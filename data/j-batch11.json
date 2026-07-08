@@ -1,0 +1,505 @@
+[
+  {
+    "english": "joystick",
+    "pron": "ˈdʒɔɪstɪk",
+    "kana": "ジョイスティック",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "joy（喜び）＋ stick（棒)",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "機器・IT"],
+    "meaning_main": "操縦桿／(ゲームの)操作レバー",
+    "description": "joystick は「操縦桿（そうじゅうかん）・操作レバー」を表す名詞。もとは飛行機を操縦するための手で握って動かす棒を指しました。現在ではテレビゲームやコンピューターを操作する棒状の入力装置（ジョイスティック）の意味でよく使われます。",
+    "keywords": ["joystick 意味", "joystick 発音", "joystick 操縦桿", "joystick ゲーム", "joystick 例文"],
+    "meanings": [
+      { "hinshi": "【名】操縦桿", "note": "飛行機を操縦する手で握る棒。" },
+      { "hinshi": "【名】(ゲーム・PCの)操作レバー", "note": "棒を傾けて操作する入力装置。" }
+    ],
+    "usages": [
+      { "title": "① 操縦桿（飛行機）", "desc": "機体を操作する棒。", "example_en": "The pilot pulled back on the joystick.", "example_ja": "パイロットは操縦桿を手前に引いた。" },
+      { "title": "② ゲームの操作レバー", "desc": "傾けて操作。", "example_en": "He controlled the game with a joystick.", "example_ja": "彼はジョイスティックでゲームを操作した。" },
+      { "title": "③ 棒状の入力装置", "desc": "PC・機械の操作。", "example_en": "The drone is flown with a joystick.", "example_ja": "そのドローンはジョイスティックで飛ばす。" }
+    ],
+    "warn": ["joy（喜び）＋ stick（棒）の複合語。1語で書く。", "もとは飛行機の操縦桿。今はゲームの操作レバーの意味が一般的。"],
+    "etym_note": "joy（喜び）＋ stick（棒）を合わせた語で、20世紀初めの飛行機の操縦桿を指したのが始まりです。後にゲームやコンピューターの操作装置の名にも広まりました。",
+    "etym_chain": [
+      { "node": "joy + stick", "sub": "喜び＋棒", "era": "20世紀初め英語" },
+      { "node": "joystick", "sub": "操縦桿", "era": "20世紀英語" },
+      { "node": "joystick", "sub": "操縦桿・操作レバー", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "control with a joystick", "ja": "ジョイスティックで操作する" },
+      { "en": "pull the joystick", "ja": "操縦桿を引く" },
+      { "en": "a game joystick", "ja": "ゲームのジョイスティック" },
+      { "en": "move the joystick", "ja": "操作レバーを動かす" },
+      { "en": "a flight joystick", "ja": "飛行操縦桿" },
+      { "en": "push the joystick forward", "ja": "操縦桿を前に倒す" }
+    ],
+    "related": [
+      { "en": "controller", "ja": "コントローラー" },
+      { "en": "lever", "ja": "レバー" },
+      { "en": "stick", "ja": "棒" },
+      { "en": "control", "ja": "操作する" }
+    ],
+    "faq": [
+      { "q": "joystick とは何ですか？", "a": "もとは飛行機を操縦する手で握る棒「操縦桿」です。現在ではテレビゲームやコンピューターを操作する棒状の入力装置「ジョイスティック」の意味でよく使われます。" },
+      { "q": "joystick の語源は？", "a": "joy（喜び）＋ stick（棒）でできた語です。20世紀初めの飛行機の操縦桿を指したのが始まりです。" }
+    ],
+    "quiz": [
+      { "q": "He moved the ___ to steer the spaceship in the game.（彼はジョイスティックを動かしてゲームの宇宙船を操縦した）", "A": "joystick", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "joystick は joy ＋ ___ の複合語。空所は？", "A": "stick", "B": "board", "C": "hole", "D": "word", "correct": "A" }
+    ]
+  },
+  {
+    "english": "joyride",
+    "pron": "ˈdʒɔɪraɪd",
+    "kana": "ジョイライド",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "joy（楽しみ）＋ ride（乗ること)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR B2", "社会"],
+    "meaning_main": "(無謀な・盗んだ車での)遊び半分のドライブ",
+    "description": "joyride は「(スリルを求めた)遊び半分の無謀なドライブ」を表す名詞。特に、盗んだ車を乗り回して楽しむ違法な行為を指すことが多い語です。joy（楽しみ）＋ ride（乗ること）でできており、しばしば否定的なニュアンスを伴います。",
+    "keywords": ["joyride 意味", "joyride 発音", "joyride 暴走ドライブ", "joyride 盗難車", "joyride 例文"],
+    "meanings": [
+      { "hinshi": "【名】(無謀な・盗んだ車での)遊びのドライブ", "note": "スリルを求めた無謀な乗り回し。しばしば違法。" }
+    ],
+    "usages": [
+      { "title": "① 遊び半分のドライブ", "desc": "スリル目的。", "example_en": "The teenagers took the car for a joyride.", "example_ja": "少年たちはその車を無謀に乗り回した。" },
+      { "title": "② 盗難車での乗り回し", "desc": "違法行為。", "example_en": "They stole a car and went on a joyride.", "example_ja": "彼らは車を盗んで乗り回した。" },
+      { "title": "③ 無謀な楽しみ", "desc": "危険なドライブ。", "example_en": "A joyride can end in a crash.", "example_ja": "無謀なドライブは衝突事故で終わることもある。" }
+    ],
+    "warn": ["joy（楽しみ）＋ ride の複合語。しばしば『盗難車での違法な乗り回し』の否定的意味。", "動詞・人は joyriding / joyrider。"],
+    "etym_note": "joy（楽しみ）＋ ride（乗ること）を合わせた20世紀初めの語です。もとは楽しみのドライブを指しましたが、後に「盗んだ車を無謀に乗り回す」違法行為を指すようになりました。",
+    "etym_chain": [
+      { "node": "joy + ride", "sub": "楽しみ＋乗ること", "era": "20世紀初め英語" },
+      { "node": "joyride", "sub": "遊びのドライブ", "era": "20世紀英語" },
+      { "node": "joyride", "sub": "無謀な乗り回し", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "go on a joyride", "ja": "無謀に乗り回す" },
+      { "en": "take a car for a joyride", "ja": "車を遊びで乗り回す" },
+      { "en": "a stolen-car joyride", "ja": "盗難車での乗り回し" },
+      { "en": "joyriding", "ja": "無謀運転・乗り回し" },
+      { "en": "a joyrider", "ja": "無謀運転する者" },
+      { "en": "a reckless joyride", "ja": "無謀なドライブ" }
+    ],
+    "related": [
+      { "en": "ride", "ja": "乗ること・乗る" },
+      { "en": "drive", "ja": "運転" },
+      { "en": "reckless", "ja": "無謀な" },
+      { "en": "steal", "ja": "盗む" }
+    ],
+    "faq": [
+      { "q": "joyride とはどんな意味ですか？", "a": "スリルを求めた「遊び半分の無謀なドライブ」です。特に、盗んだ車を乗り回して楽しむ違法行為を指すことが多く、否定的なニュアンスを伴います。" },
+      { "q": "joyride の語源は？", "a": "joy（楽しみ）＋ ride（乗ること）です。もとは楽しみのドライブでしたが、後に無謀・違法な乗り回しの意味になりました。" }
+    ],
+    "quiz": [
+      { "q": "The youths stole a car and went for a ___.（若者たちは車を盗んで乗り回した）", "A": "joyride", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "joyride は joy ＋ ___ の複合語。空所は？", "A": "ride", "B": "road", "C": "rope", "D": "rock", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jackdaw",
+    "pron": "ˈdʒækdɔː",
+    "kana": "ジャックドー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "jack（愛称）＋ daw（カラスの一種)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR B2", "動物・鳥"],
+    "meaning_main": "コクマルガラス（カラス科の小型の鳥）",
+    "description": "jackdaw は「コクマルガラス」を表す名詞。ヨーロッパなどにすむカラス科の小型の鳥で、頭が灰色がかっています。とても賢く、光る物を巣に集める習性があることで知られます。jack（人名の愛称）＋ daw（カラスの古い呼び名）でできた語です。",
+    "keywords": ["jackdaw 意味", "jackdaw 発音", "jackdaw コクマルガラス", "jackdaw カラス", "jackdaw 例文"],
+    "meanings": [
+      { "hinshi": "【名】コクマルガラス", "note": "カラス科の小型の鳥。賢く光る物を集める習性。" }
+    ],
+    "usages": [
+      { "title": "① コクマルガラス（鳥）", "desc": "カラス科の小型鳥。", "example_en": "A jackdaw perched on the chimney.", "example_ja": "コクマルガラスが煙突にとまった。" },
+      { "title": "② 光る物を集める", "desc": "巣に集める習性。", "example_en": "Jackdaws like to collect shiny objects.", "example_ja": "コクマルガラスは光る物を集めるのが好きだ。" },
+      { "title": "③ 賢い鳥", "desc": "知能が高い。", "example_en": "Jackdaws are clever birds.", "example_ja": "コクマルガラスは賢い鳥だ。" }
+    ],
+    "warn": ["発音は /ˈdʒækdɔː/。カラス科の小型の鳥を指す。", "crow（カラス）や rook より小型。"],
+    "etym_note": "jack（人名 John の愛称。小さいものや動物に付ける）＋ daw（カラスの古い呼び名）でできた語です。「小さなカラス」を意味します。",
+    "etym_chain": [
+      { "node": "jack + daw", "sub": "愛称＋カラス", "era": "16世紀英語" },
+      { "node": "jackdaw", "sub": "コクマルガラス", "era": "近代英語" },
+      { "node": "jackdaw", "sub": "コクマルガラス", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a chattering jackdaw", "ja": "鳴くコクマルガラス" },
+      { "en": "a flock of jackdaws", "ja": "コクマルガラスの群れ" },
+      { "en": "a clever jackdaw", "ja": "賢いコクマルガラス" },
+      { "en": "the jackdaw's nest", "ja": "コクマルガラスの巣" },
+      { "en": "jackdaws on the roof", "ja": "屋根のコクマルガラス" },
+      { "en": "collect like a jackdaw", "ja": "コクマルガラスのように集める" }
+    ],
+    "related": [
+      { "en": "crow", "ja": "カラス" },
+      { "en": "raven", "ja": "ワタリガラス" },
+      { "en": "rook", "ja": "ミヤマガラス" },
+      { "en": "bird", "ja": "鳥" }
+    ],
+    "faq": [
+      { "q": "jackdaw とはどんな鳥ですか？", "a": "ヨーロッパなどにすむカラス科の小型の鳥「コクマルガラス」です。とても賢く、光る物を巣に集める習性があることで知られます。" },
+      { "q": "jackdaw と crow の違いは？", "a": "どちらもカラス科ですが、jackdaw（コクマルガラス）は crow（カラス）より小型で、頭が灰色がかっています。" }
+    ],
+    "quiz": [
+      { "q": "A ___ is a small crow-like bird that collects shiny things.（コクマルガラスは光る物を集めるカラスに似た小鳥だ）", "A": "jackdaw", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jackdaw は何の仲間の鳥？", "A": "カラス科", "B": "ハト科", "C": "スズメ科", "D": "ワシ科", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jackrabbit",
+    "pron": "ˈdʒækræbɪt",
+    "kana": "ジャックラビット",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "jackass rabbit（ロバのような耳の野ウサギ)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR B2", "動物"],
+    "meaning_main": "ジャックウサギ（北米の大きな野ウサギ）",
+    "description": "jackrabbit は「ジャックウサギ」を表す名詞。北米の乾いた土地にすむ大きな野ウサギで、長い耳と力強い後ろ足を持ち、非常に速く走ります。その耳がロバ（jackass）に似ていることから名づけられました。急発進を jackrabbit start とも言います。",
+    "keywords": ["jackrabbit 意味", "jackrabbit 発音", "jackrabbit ジャックウサギ", "jackrabbit 野ウサギ", "jackrabbit 例文"],
+    "meanings": [
+      { "hinshi": "【名】ジャックウサギ", "note": "北米の長い耳を持つ大きな野ウサギ。とても速く走る。" }
+    ],
+    "usages": [
+      { "title": "① ジャックウサギ（動物）", "desc": "大きな野ウサギ。", "example_en": "A jackrabbit darted across the desert.", "example_ja": "ジャックウサギが砂漠を素早く横切った。" },
+      { "title": "② 長い耳・速い足", "desc": "特徴。", "example_en": "Jackrabbits have very long ears.", "example_ja": "ジャックウサギはとても長い耳を持つ。" },
+      { "title": "③ jackrabbit start（急発進）", "desc": "比喩的に。", "example_en": "The car made a jackrabbit start.", "example_ja": "その車は急発進した。" }
+    ],
+    "warn": ["発音は /ˈdʒækræbɪt/。厳密には野ウサギ(hare)の一種。", "急発進を jackrabbit start と言う比喩もある。"],
+    "etym_note": "jackass rabbit（ロバのような長い耳の野ウサギ）を縮めた語です。長い耳がロバ（jackass）を思わせることから名づけられました。",
+    "etym_chain": [
+      { "node": "jackass rabbit", "sub": "ロバ耳の野ウサギ", "era": "19世紀アメリカ英語" },
+      { "node": "jackrabbit", "sub": "ジャックウサギ", "era": "近代英語" },
+      { "node": "jackrabbit", "sub": "ジャックウサギ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a fast jackrabbit", "ja": "速いジャックウサギ" },
+      { "en": "a jackrabbit start", "ja": "急発進" },
+      { "en": "long-eared jackrabbit", "ja": "長い耳のジャックウサギ" },
+      { "en": "a desert jackrabbit", "ja": "砂漠のジャックウサギ" },
+      { "en": "run like a jackrabbit", "ja": "ジャックウサギのように走る" },
+      { "en": "spot a jackrabbit", "ja": "ジャックウサギを見つける" }
+    ],
+    "related": [
+      { "en": "hare", "ja": "野ウサギ" },
+      { "en": "rabbit", "ja": "ウサギ" },
+      { "en": "desert", "ja": "砂漠" },
+      { "en": "ear", "ja": "耳" }
+    ],
+    "faq": [
+      { "q": "jackrabbit とはどんな動物ですか？", "a": "北米の乾いた土地にすむ大きな野ウサギです。長い耳と力強い後ろ足を持ち、非常に速く走ります。その耳がロバ（jackass）に似ていることから名づけられました。" },
+      { "q": "jackrabbit start とは？", "a": "「急発進」のことです。ジャックウサギが素早く飛び出す様子から、車などが勢いよく発進することを表します。" }
+    ],
+    "quiz": [
+      { "q": "The ___ has long ears and can run very fast.（ジャックウサギは長い耳を持ちとても速く走れる）", "A": "jackrabbit", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jackrabbit の名の由来となった、耳が似ている動物は？", "A": "ロバ", "B": "ネコ", "C": "馬", "D": "犬", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jackboot",
+    "pron": "ˈdʒækbuːt",
+    "kana": "ジャックブーツ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "jack（丈夫な）＋ boot（長靴)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "歴史・比喩"],
+    "meaning_main": "(軍隊の)長靴／(比喩)軍事的な弾圧・強権支配",
+    "description": "jackboot は「(兵士がはく)ひざ上まである丈夫な長靴」を表す名詞。がっしりした軍用ブーツを指します。この長靴が軍隊や独裁のイメージと結びついたことから、比喩的に「軍事的な弾圧・強権的な支配」を表す語としても使われます。",
+    "keywords": ["jackboot 意味", "jackboot 発音", "jackboot 軍靴", "jackboot 弾圧", "jackboot 例文"],
+    "meanings": [
+      { "hinshi": "【名】(軍隊の)長靴", "note": "ひざ上までの丈夫な軍用ブーツ。" },
+      { "hinshi": "【名】(比喩)軍事的な弾圧・強権支配", "note": "力による抑圧の象徴。" }
+    ],
+    "usages": [
+      { "title": "① 軍用の長靴", "desc": "兵士のブーツ。", "example_en": "The soldiers wore heavy jackboots.", "example_ja": "兵士たちは重い軍用長靴をはいていた。" },
+      { "title": "② 強権的な弾圧（比喩）", "desc": "力による支配。", "example_en": "The people suffered under the jackboot of tyranny.", "example_ja": "民衆は圧政の弾圧に苦しんだ。" },
+      { "title": "③ 軍靴の音", "desc": "威圧の象徴。", "example_en": "The sound of jackboots filled the street.", "example_ja": "軍靴の音が通りに響いた。" }
+    ],
+    "warn": ["jack（丈夫な）＋ boot（長靴）の複合語。", "比喩では「軍事的な弾圧・強権支配」を象徴する否定的な語。"],
+    "etym_note": "jack（丈夫・大型を表す語）＋ boot（長靴）でできた語です。もとは頑丈な軍用の長靴を指し、軍隊や独裁のイメージから「弾圧・強権支配」の比喩に使われるようになりました。",
+    "etym_chain": [
+      { "node": "jack + boot", "sub": "丈夫な＋長靴", "era": "17世紀英語" },
+      { "node": "jackboot", "sub": "軍用長靴", "era": "近代英語" },
+      { "node": "jackboot", "sub": "軍靴・弾圧", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "heavy jackboots", "ja": "重い軍用長靴" },
+      { "en": "under the jackboot", "ja": "弾圧のもとで" },
+      { "en": "the jackboot of oppression", "ja": "抑圧の軍靴" },
+      { "en": "jackboot tactics", "ja": "強権的なやり方" },
+      { "en": "polished jackboots", "ja": "磨かれた軍靴" },
+      { "en": "the sound of jackboots", "ja": "軍靴の音" }
+    ],
+    "related": [
+      { "en": "boot", "ja": "長靴・ブーツ" },
+      { "en": "oppression", "ja": "抑圧" },
+      { "en": "tyranny", "ja": "圧政" },
+      { "en": "military", "ja": "軍の" }
+    ],
+    "faq": [
+      { "q": "jackboot とは何ですか？", "a": "兵士がはくひざ上までの丈夫な長靴です。この長靴が軍隊や独裁のイメージと結びつき、比喩的に「軍事的な弾圧・強権的な支配」を表す語としても使われます。" },
+      { "q": "under the jackboot とはどんな意味ですか？", "a": "「(軍事的な)弾圧・強権支配のもとで」という意味の比喩表現です。軍靴に踏みつけられるイメージから来ています。" }
+    ],
+    "quiz": [
+      { "q": "The country lived under the ___ of a brutal dictator.（その国は残忍な独裁者の弾圧のもとで暮らした）", "A": "jackboot", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jackboot の比喩的な意味は？", "A": "軍事的な弾圧・強権支配", "B": "平和な統治", "C": "自由な社会", "D": "楽しい祭り", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jimmy",
+    "pron": "ˈdʒɪmi",
+    "kana": "ジミー",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "人名 Jimmy（Jamesの愛称)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "動作・口語"],
+    "meaning_main": "(バールなどで)こじ開ける／(道具の)バール",
+    "description": "jimmy は「(バールや工具で)こじ開ける」を表す動詞。特にドアや窓を無理やりこじ開けることを指し、しばしば侵入・泥棒の場面で使われます。名詞では「(こじ開けに使う)短いバール」を指します。人名 Jimmy（ジェームズの愛称）が語源です。",
+    "keywords": ["jimmy 意味", "jimmy 発音", "jimmy こじ開ける", "jimmy バール", "jimmy 例文"],
+    "meanings": [
+      { "hinshi": "【動】(バールなどで)こじ開ける", "note": "ドアや窓を無理やり開ける。" },
+      { "hinshi": "【名】(こじ開け用の)短いバール", "note": "泥棒などが使う工具。" }
+    ],
+    "usages": [
+      { "title": "① こじ開ける（動詞）", "desc": "無理やり開ける。", "example_en": "The thief jimmied the lock.", "example_ja": "泥棒は錠をこじ開けた。" },
+      { "title": "② 窓・ドアをこじ開ける", "desc": "侵入の手口。", "example_en": "Someone jimmied the window open.", "example_ja": "誰かが窓をこじ開けた。" },
+      { "title": "③ バール（名詞）", "desc": "こじ開けの工具。", "example_en": "He used a jimmy to force the door.", "example_ja": "彼はバールでドアをこじ開けた。" }
+    ],
+    "warn": ["過去形・-ing は y→i: jimmied, jimmying。", "しばしば不法侵入・こじ開けの文脈で使う。イギリスでは jemmy とも綴る。"],
+    "etym_note": "人名 Jimmy（James の愛称）に由来します。道具に人名をつけて呼ぶ習慣から、こじ開けに使うバールを Jimmy と呼び、動詞「こじ開ける」の意味も生まれました。",
+    "etym_chain": [
+      { "node": "Jimmy", "sub": "Jamesの愛称", "era": "19世紀英語" },
+      { "node": "jimmy", "sub": "バール", "era": "近代英語" },
+      { "node": "jimmy", "sub": "こじ開ける・バール", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "jimmy the lock", "ja": "錠をこじ開ける" },
+      { "en": "jimmy open", "ja": "こじ開ける" },
+      { "en": "jimmy the door", "ja": "ドアをこじ開ける" },
+      { "en": "use a jimmy", "ja": "バールを使う" },
+      { "en": "jimmy a window", "ja": "窓をこじ開ける" },
+      { "en": "jimmy it loose", "ja": "こじって緩める" }
+    ],
+    "related": [
+      { "en": "pry", "ja": "こじ開ける・てこで動かす" },
+      { "en": "crowbar", "ja": "バール・かなてこ" },
+      { "en": "force", "ja": "無理やり開ける" },
+      { "en": "break in", "ja": "押し入る" }
+    ],
+    "faq": [
+      { "q": "jimmy とはどんな意味ですか？", "a": "「(バールや工具で)こじ開ける」という意味の動詞です。特にドアや窓を無理やりこじ開けることを指し、侵入・泥棒の場面でよく使われます。" },
+      { "q": "jimmy の語源は？", "a": "人名 Jimmy（James の愛称）に由来します。道具に人名をつける習慣から、こじ開け用のバールを Jimmy と呼ぶようになりました。" }
+    ],
+    "quiz": [
+      { "q": "The burglar tried to ___ the back door open.（強盗は裏口をこじ開けようとした）", "A": "jimmy", "B": "jog", "C": "jump", "D": "join", "correct": "A" },
+      { "q": "jimmy（名詞）が指す道具は？", "A": "こじ開け用のバール", "B": "料理用の鍋", "C": "楽器", "D": "筆記具", "correct": "A" }
+    ]
+  },
+  {
+    "english": "josh",
+    "pron": "dʒɒʃ",
+    "kana": "ジョッシュ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "19世紀アメリカ英語（起源不明）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "口語"],
+    "meaning_main": "(親しみを込めて)からかう／冗談を言う",
+    "description": "josh は「(親しみを込めて)からかう・冗談を言う」を表すくだけた動詞。悪気なく、仲のよい相手をふざけてからかうことを指します。tease（からかう）に近く、軽い友好的なニュアンスがあります。アメリカ英語の口語です。",
+    "keywords": ["josh 意味", "josh 発音", "josh からかう", "josh 冗談", "josh 例文"],
+    "meanings": [
+      { "hinshi": "【動】(親しみを込めて)からかう・冗談を言う", "note": "悪気なく仲のよい相手をからかう。口語。" }
+    ],
+    "usages": [
+      { "title": "① からかう", "desc": "ふざけて言う。", "example_en": "Don't take it seriously, I'm just joshing you.", "example_ja": "本気にしないで、ただからかってるだけだよ。" },
+      { "title": "② 冗談を言い合う", "desc": "親しい仲で。", "example_en": "The friends joshed each other all night.", "example_ja": "友達どうしは一晩中冗談を言い合った。" },
+      { "title": "③ 軽い冷やかし", "desc": "友好的に。", "example_en": "He was only joshing about your haircut.", "example_ja": "彼は君の髪型を冗談で言っただけだよ。" }
+    ],
+    "warn": ["くだけた口語。tease（からかう）に近く、悪気のない友好的なニュアンス。", "人名 Josh（Joshua の愛称）と同じ綴りだが別。"],
+    "etym_note": "19世紀のアメリカ英語で生まれた語で、はっきりした語源はわかっていません。joke（冗談）と josh（人名）の連想が指摘されています。親しみを込めた冷やかしを表します。",
+    "etym_chain": [
+      { "node": "josh", "sub": "からかう(起源不明)", "era": "19世紀アメリカ英語" },
+      { "node": "josh", "sub": "からかう・冗談を言う", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "just joshing", "ja": "ただの冗談だよ" },
+      { "en": "josh someone", "ja": "〜をからかう" },
+      { "en": "josh around", "ja": "ふざけ合う" },
+      { "en": "no joshing", "ja": "冗談抜きで" },
+      { "en": "josh with friends", "ja": "友達とふざけ合う" },
+      { "en": "a friendly josh", "ja": "友好的なからかい" }
+    ],
+    "related": [
+      { "en": "tease", "ja": "からかう" },
+      { "en": "kid", "ja": "からかう・冗談を言う" },
+      { "en": "joke", "ja": "冗談を言う" },
+      { "en": "banter", "ja": "軽口をたたく" }
+    ],
+    "faq": [
+      { "q": "josh とはどんな意味ですか？", "a": "悪気なく、仲のよい相手をふざけてからかうことです。tease（からかう）に近く、軽くて友好的なニュアンスのあるアメリカ英語の口語です。" },
+      { "q": "josh と tease の違いは？", "a": "ほぼ同じ「からかう」ですが、josh はより口語的で、親しい相手への悪気のない冗談というニュアンスが強めです。" }
+    ],
+    "quiz": [
+      { "q": "Relax, I was only ___ you about your new shoes.（落ち着いて、君の新しい靴をからかっただけだよ）", "A": "joshing", "B": "jogging", "C": "jumping", "D": "joining", "correct": "A" },
+      { "q": "josh の意味に近いのは？", "A": "からかう・冗談を言う", "B": "ののしる", "C": "ほめる", "D": "無視する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "junkie",
+    "pron": "ˈdʒʌŋki",
+    "kana": "ジャンキー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "junk（麻薬の俗語）＋ -ie",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "口語"],
+    "meaning_main": "麻薬中毒者／(口語)〜に夢中な人",
+    "description": "junkie は「麻薬中毒者」を表すくだけた名詞。もとは麻薬（俗語の junk）に依存した人を指しました。そこから転じて、口語で「〜に夢中な人・〜狂」の意味でも広く使われます（例: a coffee junkie＝コーヒー中毒）。junky とも綴ります。",
+    "keywords": ["junkie 意味", "junkie 発音", "junkie 中毒者", "junkie 夢中", "junkie 例文"],
+    "meanings": [
+      { "hinshi": "【名】麻薬中毒者", "note": "麻薬に依存した人。俗語。" },
+      { "hinshi": "【名】(口語)〜に夢中な人・〜狂", "note": "a coffee junkie（コーヒー中毒）など。" }
+    ],
+    "usages": [
+      { "title": "① 麻薬中毒者", "desc": "薬物依存。", "example_en": "The clinic helps recovering junkies.", "example_ja": "その診療所は回復途上の中毒者を助ける。" },
+      { "title": "② 〜に夢中な人（口語）", "desc": "〜狂。", "example_en": "She's a fitness junkie.", "example_ja": "彼女は運動中毒だ。" },
+      { "title": "③ 熱狂的な愛好者", "desc": "のめり込む人。", "example_en": "He's a total news junkie.", "example_ja": "彼は完全なニュース中毒だ。" }
+    ],
+    "warn": ["麻薬中毒者の意味は俗語で強い語。口語の「〜に夢中な人」は軽い意味。", "junk（麻薬の俗語）＋ -ie。junky とも綴る。"],
+    "etym_note": "junk（もとは「がらくた」だが、麻薬の俗語にもなった）＋ 親しみや小ささを表す接尾辞 -ie でできた語です。麻薬中毒者を指す語から、「〜に夢中な人」の口語に広がりました。",
+    "etym_chain": [
+      { "node": "junk + -ie", "sub": "麻薬＋接尾辞", "era": "20世紀アメリカ英語" },
+      { "node": "junkie", "sub": "麻薬中毒者", "era": "20世紀英語" },
+      { "node": "junkie", "sub": "中毒者・〜狂", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a drug junkie", "ja": "麻薬中毒者" },
+      { "en": "a coffee junkie", "ja": "コーヒー中毒" },
+      { "en": "a fitness junkie", "ja": "運動中毒" },
+      { "en": "an adrenaline junkie", "ja": "スリル中毒" },
+      { "en": "a news junkie", "ja": "ニュース中毒" },
+      { "en": "a shopping junkie", "ja": "買い物中毒" }
+    ],
+    "related": [
+      { "en": "addict", "ja": "中毒者・常用者" },
+      { "en": "junk", "ja": "がらくた・(俗)麻薬" },
+      { "en": "addiction", "ja": "中毒・依存" },
+      { "en": "fanatic", "ja": "熱狂者" }
+    ],
+    "faq": [
+      { "q": "junkie とはどんな意味ですか？", "a": "もとは「麻薬中毒者」を指す俗語です。そこから転じて、口語で「〜に夢中な人・〜狂」の意味でも広く使われます（例: a coffee junkie＝コーヒー中毒）。" },
+      { "q": "an adrenaline junkie とは？", "a": "スリルや興奮を強く求める人「スリル中毒・刺激を求める人」のことです。アドレナリンが出るような危険な活動を好む人を指します。" }
+    ],
+    "quiz": [
+      { "q": "He watches the news all day — he's a real news ___.（彼は一日中ニュースを見ている、本物のニュース中毒だ）", "A": "junkie", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "a coffee junkie の意味は？", "A": "コーヒーに夢中な人", "B": "コーヒー農園", "C": "コーヒー店", "D": "コーヒー豆", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jitney",
+    "pron": "ˈdʒɪtni",
+    "kana": "ジトニー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "アメリカ英語 jitney（5セント硬貨の俗語)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "乗り物・歴史"],
+    "meaning_main": "(安い運賃の)乗合バス／相乗りの小型車",
+    "description": "jitney は「(安い運賃の)乗合バス・相乗りの小型車」を表す名詞。決まった路線を安く走る小型の乗合自動車を指します。20世紀初めのアメリカで、運賃が5セント（jitney＝ニッケル硬貨の俗語）だったことに由来する古風な語です。",
+    "keywords": ["jitney 意味", "jitney 発音", "jitney 乗合バス", "jitney 相乗り", "jitney 例文"],
+    "meanings": [
+      { "hinshi": "【名】(安い運賃の)乗合バス・相乗りの小型車", "note": "決まった路線を安く走る小型の乗合車。" }
+    ],
+    "usages": [
+      { "title": "① 乗合バス", "desc": "安く走る小型車。", "example_en": "We took a jitney into town.", "example_ja": "私たちは乗合バスで町へ行った。" },
+      { "title": "② 相乗りの車", "desc": "路線を走る。", "example_en": "A jitney runs along the beach road.", "example_ja": "乗合車が海岸通りを走っている。" },
+      { "title": "③ 5セントが由来", "desc": "昔の運賃。", "example_en": "Jitneys once charged a nickel per ride.", "example_ja": "ジトニーはかつて1回5セントだった。" }
+    ],
+    "warn": ["発音は /ˈdʒɪtni/。やや古風・地域的な語。", "もとは5セント硬貨の俗語 jitney に由来（運賃が5セントだった）。"],
+    "etym_note": "20世紀初めのアメリカ英語で「5セント硬貨（ニッケル）」を意味した俗語 jitney に由来します。運賃が5セントだった安い乗合自動車がこう呼ばれました。",
+    "etym_chain": [
+      { "node": "jitney", "sub": "5セント硬貨(俗語)", "era": "20世紀初めアメリカ英語" },
+      { "node": "jitney", "sub": "安い乗合車", "era": "20世紀英語" },
+      { "node": "jitney", "sub": "乗合バス・相乗り車", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "take a jitney", "ja": "乗合バスに乗る" },
+      { "en": "a jitney service", "ja": "乗合車の運行" },
+      { "en": "a jitney bus", "ja": "乗合バス" },
+      { "en": "ride the jitney", "ja": "乗合車に乗る" },
+      { "en": "a jitney driver", "ja": "乗合車の運転手" },
+      { "en": "a beach jitney", "ja": "海辺の乗合車" }
+    ],
+    "related": [
+      { "en": "bus", "ja": "バス" },
+      { "en": "taxi", "ja": "タクシー" },
+      { "en": "shuttle", "ja": "シャトル" },
+      { "en": "minibus", "ja": "小型バス" }
+    ],
+    "faq": [
+      { "q": "jitney とは何ですか？", "a": "決まった路線を安く走る小型の乗合自動車です。20世紀初めのアメリカで、運賃が5セント（jitney＝5セント硬貨の俗語）だったことに由来する古風な語です。" },
+      { "q": "jitney の語源は？", "a": "20世紀初めのアメリカで「5セント硬貨」を意味した俗語 jitney に由来します。運賃が5セントの安い乗合車がこう呼ばれました。" }
+    ],
+    "quiz": [
+      { "q": "In the old days, a ___ carried passengers for just five cents.（昔、乗合車はわずか5セントで乗客を運んだ）", "A": "jitney", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jitney のもとの意味は？", "A": "5セント硬貨(の俗語)", "B": "大型トラック", "C": "飛行機", "D": "船", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jodhpurs",
+    "pron": "ˈdʒɒdpərz",
+    "kana": "ジョッパーズ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "インドの都市ジョードプル（Jodhpur）より",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "衣服・スポーツ"],
+    "meaning_main": "乗馬ズボン（ももが張り出しふくらはぎが細い）",
+    "description": "jodhpurs は「乗馬ズボン」を表す名詞。乗馬用に作られた、ももの部分がゆったりと張り出し、ひざから下がぴったり細くなったズボンです。常に複数形で使います。インドの都市ジョードプル（Jodhpur）に由来する語です。",
+    "keywords": ["jodhpurs 意味", "jodhpurs 発音", "jodhpurs 乗馬ズボン", "jodhpurs 乗馬", "jodhpurs 例文"],
+    "meanings": [
+      { "hinshi": "【名】乗馬ズボン", "note": "ももが張り出し、ひざ下が細い乗馬用のズボン。常に複数形。" }
+    ],
+    "usages": [
+      { "title": "① 乗馬ズボン（衣服）", "desc": "乗馬用。常に複数形。", "example_en": "She wore jodhpurs for her riding lesson.", "example_ja": "彼女は乗馬のレッスンに乗馬ズボンをはいた。" },
+      { "title": "② ももが張り出す形", "desc": "独特のシルエット。", "example_en": "Jodhpurs flare out at the thighs.", "example_ja": "乗馬ズボンはももの部分が広がっている。" },
+      { "title": "③ 乗馬用ブーツと合わせる", "desc": "乗馬の装い。", "example_en": "He put on jodhpurs and riding boots.", "example_ja": "彼は乗馬ズボンと乗馬靴を身につけた。" }
+    ],
+    "warn": ["常に複数形 jodhpurs。発音は /ˈdʒɒdpərz/。", "インドの都市ジョードプル(Jodhpur)に由来する語。"],
+    "etym_note": "インド北西部の都市ジョードプル（Jodhpur）に由来します。19世紀末、この地の伝統的なズボンをもとにした乗馬ズボンがイギリスで流行し、地名がそのまま衣服の名になりました。",
+    "etym_chain": [
+      { "node": "Jodhpur", "sub": "インドの都市名", "era": "地名" },
+      { "node": "jodhpurs", "sub": "乗馬ズボン", "era": "19世紀末英語" },
+      { "node": "jodhpurs", "sub": "乗馬ズボン", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "wear jodhpurs", "ja": "乗馬ズボンをはく" },
+      { "en": "a pair of jodhpurs", "ja": "乗馬ズボン1本" },
+      { "en": "riding jodhpurs", "ja": "乗馬用ズボン" },
+      { "en": "jodhpurs and boots", "ja": "乗馬ズボンとブーツ" },
+      { "en": "tan jodhpurs", "ja": "茶色の乗馬ズボン" },
+      { "en": "put on jodhpurs", "ja": "乗馬ズボンをはく" }
+    ],
+    "related": [
+      { "en": "trousers", "ja": "ズボン" },
+      { "en": "riding", "ja": "乗馬" },
+      { "en": "horse", "ja": "馬" },
+      { "en": "boots", "ja": "ブーツ" }
+    ],
+    "faq": [
+      { "q": "jodhpurs とはどんな服ですか？", "a": "乗馬用に作られたズボンで、ももの部分がゆったり張り出し、ひざから下がぴったり細くなっています。常に複数形で使います。" },
+      { "q": "jodhpurs の語源は？", "a": "インド北西部の都市ジョードプル（Jodhpur）に由来します。この地の伝統的なズボンをもとにした乗馬ズボンが広まり、地名が衣服の名になりました。" }
+    ],
+    "quiz": [
+      { "q": "Riders often wear ___ that are tight below the knee.（乗り手はよくひざ下が細い乗馬ズボンをはく）", "A": "jodhpurs", "B": "jams", "C": "jars", "D": "jaws", "correct": "A" },
+      { "q": "jodhpurs はどこの地名に由来する？", "A": "インドの都市ジョードプル", "B": "日本の都市", "C": "フランスの村", "D": "アメリカの州", "correct": "A" }
+    ]
+  }
+]

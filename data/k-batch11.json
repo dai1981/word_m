@@ -1,0 +1,507 @@
+[
+  {
+    "english": "karma",
+    "pron": "ˈkɑːrmə",
+    "kana": "カーマ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "サンスクリット語 karman（行為・業)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "宗教・文化"],
+    "meaning_main": "カルマ／業（ごう）／因果応報",
+    "description": "karma は「カルマ・業（ごう）」を表す名詞。仏教やヒンドゥー教の考えで、行いがめぐりめぐって自分に返ってくるという因果の法則を指します。口語では「因果応報・自業自得」の意味でも使われます。",
+    "keywords": ["karma 意味", "karma 発音", "karma カルマ", "karma 業", "karma 例文"],
+    "meanings": [
+      { "hinshi": "【名】カルマ・業（ごう）", "note": "行いが未来に影響するという因果の法則。不可算。" },
+      { "hinshi": "【名】(口語)因果応報・巡り合わせ", "note": "良い行い・悪い行いの報い。" }
+    ],
+    "usages": [
+      { "title": "① 業・因果の法則", "desc": "宗教的な概念。", "example_en": "In Buddhism, karma shapes future lives.", "example_ja": "仏教では、業が来世を形づくる。" },
+      { "title": "② (口語)因果応報", "desc": "行いの報い。", "example_en": "That's karma for being so unkind.", "example_ja": "あんなに意地悪をしたから因果応報だよ。" },
+      { "title": "③ good/bad karma", "desc": "良い・悪い巡り合わせ。", "example_en": "Helping others brings good karma.", "example_ja": "人を助けると良いカルマが返ってくる。" }
+    ],
+    "warn": ["原則不可算名詞。a karma とは通常言わない。", "口語では「自業自得・因果応報」の意味でカジュアルに使う。"],
+    "etym_note": "サンスクリット語 karman（行為・行い・業）に由来します。仏教・ヒンドゥー教の教えとともに西洋に伝わり、19世紀以降に英語に定着しました。",
+    "etym_chain": [
+      { "node": "karman", "sub": "行為・業", "era": "サンスクリット語" },
+      { "node": "karma", "sub": "業・因果", "era": "19世紀英語" },
+      { "node": "karma", "sub": "カルマ・因果応報", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "good karma", "ja": "良いカルマ・善い報い" },
+      { "en": "bad karma", "ja": "悪いカルマ・悪い報い" },
+      { "en": "instant karma", "ja": "即座の因果応報" },
+      { "en": "believe in karma", "ja": "因果応報を信じる" },
+      { "en": "karma will get you", "ja": "いつか報いを受ける" },
+      { "en": "the law of karma", "ja": "業の法則" }
+    ],
+    "related": [
+      { "en": "fate", "ja": "運命" },
+      { "en": "destiny", "ja": "宿命" },
+      { "en": "cause", "ja": "原因" },
+      { "en": "consequence", "ja": "結果・報い" }
+    ],
+    "faq": [
+      { "q": "karma とはどういう意味ですか？", "a": "仏教・ヒンドゥー教の考えで、「行いがめぐりめぐって自分に返ってくる」という因果の法則です。口語では「因果応報・自業自得」の意味で使われます。" },
+      { "q": "good karma / bad karma とは？", "a": "良い行いによって返ってくる良い報いが good karma、悪い行いの報いが bad karma です。" }
+    ],
+    "quiz": [
+      { "q": "Be kind to others — it's good ___.（人に親切にしよう、良いカルマになる）", "A": "karma", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "karma の語源となった言語は？", "A": "サンスクリット語", "B": "ラテン語", "C": "ギリシャ語", "D": "アラビア語", "correct": "A" }
+    ]
+  },
+  {
+    "english": "katana",
+    "pron": "kəˈtɑːnə",
+    "kana": "カターナ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "日本語「刀（かたな）」",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "文化・武器"],
+    "meaning_main": "刀（日本の反りのある長刀）",
+    "description": "katana は「刀（かたな）」を表す名詞。反りのある片刃の日本の長い刀で、武士（samurai）が用いたことで知られます。日本語がそのまま英語になった語で、世界的に「日本刀」の代名詞です。",
+    "keywords": ["katana 意味", "katana 発音", "katana 刀", "katana 日本刀", "katana 例文"],
+    "meanings": [
+      { "hinshi": "【名】刀・日本刀", "note": "反りのある片刃の日本の長刀。武士の武器。" }
+    ],
+    "usages": [
+      { "title": "① 刀（日本刀）", "desc": "武士が使った反りのある刀。", "example_en": "The samurai drew his katana.", "example_ja": "その武士は刀を抜いた。" },
+      { "title": "② 職人の技", "desc": "鍛冶職人が鍛える。", "example_en": "A katana is made by folding steel many times.", "example_ja": "刀は鋼を何度も折り返して作られる。" },
+      { "title": "③ 収集・武道", "desc": "美術品や武道の対象。", "example_en": "He collects antique katanas.", "example_ja": "彼は古い日本刀を収集している。" }
+    ],
+    "warn": ["日本語「刀」が語源。発音は /kəˈtɑːnə/。", "反りのある片刃の長刀を指す。両刃の剣は sword。"],
+    "etym_note": "日本語の「刀（かたな）」に由来します。20世紀に日本文化・武士の文化が広く知られるようになり、日本刀を指す語として英語に定着しました。",
+    "etym_chain": [
+      { "node": "刀 (katana)", "sub": "日本の刀", "era": "日本" },
+      { "node": "katana", "sub": "日本刀", "era": "20世紀英語" },
+      { "node": "katana", "sub": "刀・日本刀", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "draw a katana", "ja": "刀を抜く" },
+      { "en": "a sharp katana", "ja": "よく切れる刀" },
+      { "en": "a samurai's katana", "ja": "武士の刀" },
+      { "en": "forge a katana", "ja": "刀を鍛える" },
+      { "en": "an antique katana", "ja": "古い日本刀" },
+      { "en": "sheathe the katana", "ja": "刀を鞘に納める" }
+    ],
+    "related": [
+      { "en": "samurai", "ja": "武士・侍" },
+      { "en": "sword", "ja": "剣" },
+      { "en": "blade", "ja": "刃" },
+      { "en": "Japan", "ja": "日本" }
+    ],
+    "faq": [
+      { "q": "katana と sword の違いは？", "a": "sword は「剣」全般を指す広い語で、katana は反りのある片刃の「日本刀」を特に指します。" },
+      { "q": "katana は誰が使いましたか？", "a": "主に日本の武士（samurai）が用いました。片刃で反りがあり、切ることに優れた設計になっています。" }
+    ],
+    "quiz": [
+      { "q": "The warrior kept his ___ by his side.（その戦士は刀をそばに置いていた）", "A": "katana", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "katana は何を指す語？", "A": "日本刀", "B": "弓", "C": "盾", "D": "槍", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kabuki",
+    "pron": "kəˈbuːki",
+    "kana": "カブーキ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "日本語「歌舞伎」",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "文化・芸能"],
+    "meaning_main": "歌舞伎（日本の伝統演劇）",
+    "description": "kabuki は「歌舞伎」を表す名詞。派手な衣装・化粧・様式化された演技で知られる日本の伝統的な舞台芸術です。日本語がそのまま英語になり、世界的に日本文化の象徴として知られています。",
+    "keywords": ["kabuki 意味", "kabuki 発音", "kabuki 歌舞伎", "kabuki 演劇", "kabuki 例文"],
+    "meanings": [
+      { "hinshi": "【名】歌舞伎", "note": "派手な衣装と様式的演技の日本の伝統演劇。" },
+      { "hinshi": "【名】(比喩)見せかけの芝居", "note": "実質のない形式的なやり取り。" }
+    ],
+    "usages": [
+      { "title": "① 歌舞伎（伝統演劇）", "desc": "日本の舞台芸術。", "example_en": "We watched a kabuki play in Tokyo.", "example_ja": "私たちは東京で歌舞伎を観た。" },
+      { "title": "② 独特の化粧・衣装", "desc": "様式化された美。", "example_en": "Kabuki actors wear elaborate makeup.", "example_ja": "歌舞伎役者は手の込んだ化粧をする。" },
+      { "title": "③ (比喩)形だけの芝居", "desc": "政治などで使う。", "example_en": "The debate was pure political kabuki.", "example_ja": "その討論はまったくの政治的な茶番だった。" }
+    ],
+    "warn": ["日本語「歌舞伎」が語源。発音は /kəˈbuːki/。", "英語では比喩的に『中身のない形式的な芝居』の意味でも使われる。"],
+    "etym_note": "日本語の「歌舞伎」に由来します。もとは「傾く（かぶく）＝異様な風体をする」から来た語で、江戸時代に発展した舞台芸術を指し、そのまま英語になりました。",
+    "etym_chain": [
+      { "node": "歌舞伎 (kabuki)", "sub": "傾く・派手な芝居", "era": "江戸時代・日本" },
+      { "node": "kabuki", "sub": "歌舞伎", "era": "19-20世紀英語" },
+      { "node": "kabuki", "sub": "歌舞伎・見せかけの芝居", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a kabuki play", "ja": "歌舞伎の演目" },
+      { "en": "kabuki theater", "ja": "歌舞伎劇場" },
+      { "en": "kabuki actor", "ja": "歌舞伎役者" },
+      { "en": "kabuki makeup", "ja": "歌舞伎の化粧(隈取)" },
+      { "en": "political kabuki", "ja": "政治的な茶番" },
+      { "en": "traditional kabuki", "ja": "伝統的な歌舞伎" }
+    ],
+    "related": [
+      { "en": "theater", "ja": "劇場・演劇" },
+      { "en": "drama", "ja": "劇" },
+      { "en": "noh", "ja": "能" },
+      { "en": "Japan", "ja": "日本" }
+    ],
+    "faq": [
+      { "q": "kabuki とはどんな芸術ですか？", "a": "派手な衣装・化粧（隈取）・様式化された演技で知られる、江戸時代に発展した日本の伝統的な舞台芸術です。" },
+      { "q": "kabuki に比喩的な意味はありますか？", "a": "はい。英語では「中身のない、形だけの芝居・儀式的なやり取り」を指して political kabuki（政治的茶番）のように使うことがあります。" }
+    ],
+    "quiz": [
+      { "q": "___ is a traditional form of Japanese theater.（歌舞伎は日本の伝統演劇の一形式だ）", "A": "Kabuki", "B": "Kettle", "C": "Kernel", "D": "Keeper", "correct": "A" },
+      { "q": "kabuki はどこの国の伝統芸能？", "A": "中国", "B": "日本", "C": "韓国", "D": "インド", "correct": "B" }
+    ]
+  },
+  {
+    "english": "kaftan",
+    "pron": "ˈkæftæn",
+    "kana": "カフタン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ペルシャ語 khaftān（長い上着)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "衣服・文化"],
+    "meaning_main": "カフタン（ゆったりした長い上着）",
+    "description": "kaftan は「カフタン」を表す名詞。中東・アジアで着られてきた、ゆったりした丈の長い上着です。近年は女性のリゾートウェアや部屋着としても人気があります。caftan とも綴ります。",
+    "keywords": ["kaftan 意味", "kaftan 発音", "kaftan カフタン", "caftan 綴り", "kaftan 例文"],
+    "meanings": [
+      { "hinshi": "【名】カフタン", "note": "ゆったりした丈の長い上着。中東・アジア由来。" }
+    ],
+    "usages": [
+      { "title": "① カフタン（衣服）", "desc": "ゆるやかで丈が長い。", "example_en": "She wore a flowing kaftan on the beach.", "example_ja": "彼女はビーチでゆったりしたカフタンを着ていた。" },
+      { "title": "② 民族衣装として", "desc": "中東などの伝統衣装。", "example_en": "The kaftan is traditional in many cultures.", "example_ja": "カフタンは多くの文化で伝統的な衣装だ。" },
+      { "title": "③ リゾート・部屋着", "desc": "現代のくつろぎ着。", "example_en": "A kaftan is comfortable in hot weather.", "example_ja": "カフタンは暑い気候で快適だ。" }
+    ],
+    "warn": ["kaftan / caftan と綴りにゆれがある。", "ゆったりした丈長の上着を指す。"],
+    "etym_note": "ペルシャ語 khaftān（長い上着）に由来し、トルコ語を経てヨーロッパに伝わりました。中東・中央アジアの伝統衣装を指す語として英語に入りました。",
+    "etym_chain": [
+      { "node": "khaftān", "sub": "長い上着", "era": "ペルシャ語" },
+      { "node": "kaftan", "sub": "カフタン", "era": "16世紀英語" },
+      { "node": "kaftan", "sub": "カフタン", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a silk kaftan", "ja": "絹のカフタン" },
+      { "en": "a flowing kaftan", "ja": "ゆったりしたカフタン" },
+      { "en": "wear a kaftan", "ja": "カフタンを着る" },
+      { "en": "a beach kaftan", "ja": "ビーチ用カフタン" },
+      { "en": "an embroidered kaftan", "ja": "刺繍入りカフタン" },
+      { "en": "a traditional kaftan", "ja": "伝統的なカフタン" }
+    ],
+    "related": [
+      { "en": "robe", "ja": "ローブ・ガウン" },
+      { "en": "gown", "ja": "ガウン・ドレス" },
+      { "en": "tunic", "ja": "チュニック" },
+      { "en": "dress", "ja": "ドレス・衣服" }
+    ],
+    "faq": [
+      { "q": "kaftan とはどんな服ですか？", "a": "中東・アジア由来の、ゆったりした丈の長い上着です。伝統衣装であると同時に、現代ではリゾートウェアや部屋着としても人気です。" },
+      { "q": "kaftan と caftan は同じですか？", "a": "はい、同じ服を指す綴りのゆれです。kaftan と caftan のどちらも使われます。" }
+    ],
+    "quiz": [
+      { "q": "She relaxed at home in a comfortable ___.（彼女は快適なカフタンを着て家でくつろいだ）", "A": "kaftan", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "kaftan はどんな衣服？", "A": "ゆったりした長い上着", "B": "帽子", "C": "靴", "D": "手袋", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kaput",
+    "pron": "kəˈpʊt",
+    "kana": "カプット",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ドイツ語 kaputt（壊れた)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "口語"],
+    "meaning_main": "(口語)壊れて／だめになって／おしゃかで",
+    "description": "kaput は「壊れて・だめになって」を表すくだけた形容詞。機械が動かなくなったり、計画が失敗したりした状態を表します。ドイツ語 kaputt（壊れた）が語源で、通例 be動詞の後で使います。",
+    "keywords": ["kaput 意味", "kaput 発音", "kaput 壊れて", "kaput だめ", "kaput 例文"],
+    "meanings": [
+      { "hinshi": "【形】壊れて・故障して", "note": "機械などが動かなくなって。叙述用法。" },
+      { "hinshi": "【形】だめになって・終わって", "note": "計画などが失敗して。" }
+    ],
+    "usages": [
+      { "title": "① 機械が壊れて", "desc": "be kaput（故障している）。", "example_en": "My old laptop is finally kaput.", "example_ja": "私の古いノートパソコンはついに壊れた。" },
+      { "title": "② 計画がだめになって", "desc": "失敗・終わり。", "example_en": "Without funding, the project went kaput.", "example_ja": "資金がなくて計画はだめになった。" },
+      { "title": "③ go kaput（おしゃかになる）", "desc": "急にだめになる。", "example_en": "The engine went kaput on the highway.", "example_ja": "エンジンが高速道路でいかれてしまった。" }
+    ],
+    "warn": ["くだけた口語。フォーマルには broken / out of order。", "叙述用法が中心（be/go kaput）。名詞の前には通常置かない。"],
+    "etym_note": "ドイツ語 kaputt（壊れた・だめになった）に由来し、20世紀初めに英語に入りました。もとはフランス語のトランプ用語 capot（全敗）にさかのぼるとされます。",
+    "etym_chain": [
+      { "node": "capot", "sub": "全敗", "era": "フランス語" },
+      { "node": "kaputt", "sub": "壊れた", "era": "ドイツ語" },
+      { "node": "kaput", "sub": "壊れて・だめで", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "go kaput", "ja": "おしゃかになる・壊れる" },
+      { "en": "be kaput", "ja": "壊れている" },
+      { "en": "the TV is kaput", "ja": "テレビが壊れている" },
+      { "en": "completely kaput", "ja": "完全にだめになって" },
+      { "en": "the plan is kaput", "ja": "計画はおじゃんだ" },
+      { "en": "turn out kaput", "ja": "だめに終わる" }
+    ],
+    "related": [
+      { "en": "broken", "ja": "壊れた" },
+      { "en": "dead", "ja": "動かない・電池切れの" },
+      { "en": "ruined", "ja": "だめになった" },
+      { "en": "finished", "ja": "終わった" }
+    ],
+    "faq": [
+      { "q": "kaput はどんな場面で使いますか？", "a": "機械が壊れたり計画がだめになったりしたときに、くだけた口語で使います。The car is kaput.（車が壊れた）のように be動詞の後で使うのが普通です。" },
+      { "q": "kaput の語源は？", "a": "ドイツ語 kaputt（壊れた）に由来します。さらにさかのぼるとフランス語のトランプ用語 capot（全敗）に行き着くとされます。" }
+    ],
+    "quiz": [
+      { "q": "The washing machine is ___ ; we need a new one.（洗濯機が壊れた、新しいのが要る）", "A": "kaput", "B": "kindly", "C": "keen", "D": "known", "correct": "A" },
+      { "q": "kaput の意味は？", "A": "新品の", "B": "壊れて・だめで", "C": "速い", "D": "静かな", "correct": "B" }
+    ]
+  },
+  {
+    "english": "kookaburra",
+    "pron": "ˈkʊkəbʌrə",
+    "kana": "クッカバラ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "先住民語 guuguubarra（鳴き声から)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "動物・鳥"],
+    "meaning_main": "ワライカワセミ（オーストラリアの鳥）",
+    "description": "kookaburra は「ワライカワセミ」を表す名詞。オーストラリアに生息するカワセミの仲間で、人の笑い声のような大きな鳴き声で知られます。名前は先住民語の鳴き声を表す語に由来します。",
+    "keywords": ["kookaburra 意味", "kookaburra 発音", "kookaburra ワライカワセミ", "kookaburra 鳥", "kookaburra 例文"],
+    "meanings": [
+      { "hinshi": "【名】ワライカワセミ", "note": "笑い声のような鳴き声のオーストラリアの鳥。" }
+    ],
+    "usages": [
+      { "title": "① ワライカワセミ（鳥）", "desc": "カワセミの仲間。", "example_en": "A kookaburra sat on the branch.", "example_ja": "ワライカワセミが枝にとまっていた。" },
+      { "title": "② 笑うような鳴き声", "desc": "特徴的な大声。", "example_en": "The kookaburra's call sounds like laughter.", "example_ja": "ワライカワセミの鳴き声は笑い声のように聞こえる。" },
+      { "title": "③ オーストラリアの象徴", "desc": "現地でおなじみの鳥。", "example_en": "Kookaburras are common in Australia.", "example_ja": "ワライカワセミはオーストラリアでよく見られる。" }
+    ],
+    "warn": ["kingfisher（カワセミ）の仲間だが、大型で笑い声のような鳴き声が特徴。", "発音は /ˈkʊkəbʌrə/。最初の音節を強く読む。"],
+    "etym_note": "オーストラリア先住民ワイラダリ語の guuguubarra（鳴き声を模した語）に由来します。その特徴的な笑い声のような鳴き声にちなんで名づけられました。",
+    "etym_chain": [
+      { "node": "guuguubarra", "sub": "鳴き声の語", "era": "先住民語" },
+      { "node": "kookaburra", "sub": "ワライカワセミ", "era": "19世紀英語" },
+      { "node": "kookaburra", "sub": "ワライカワセミ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a laughing kookaburra", "ja": "ワライカワセミ" },
+      { "en": "the kookaburra's call", "ja": "ワライカワセミの鳴き声" },
+      { "en": "hear a kookaburra", "ja": "ワライカワセミの声を聞く" },
+      { "en": "a kookaburra in a tree", "ja": "木にとまるワライカワセミ" },
+      { "en": "the sound of kookaburras", "ja": "ワライカワセミの声" },
+      { "en": "native kookaburra", "ja": "在来のワライカワセミ" }
+    ],
+    "related": [
+      { "en": "kingfisher", "ja": "カワセミ" },
+      { "en": "Australia", "ja": "オーストラリア" },
+      { "en": "bird", "ja": "鳥" },
+      { "en": "laugh", "ja": "笑う" }
+    ],
+    "faq": [
+      { "q": "kookaburra はどんな鳥ですか？", "a": "オーストラリアに住むカワセミの仲間で、人の笑い声のような大きく特徴的な鳴き声で知られる鳥「ワライカワセミ」です。" },
+      { "q": "kookaburra の名前の由来は？", "a": "オーストラリア先住民の言葉で、その鳴き声を模した guuguubarra という語に由来します。" }
+    ],
+    "quiz": [
+      { "q": "The ___ is famous for its laughing call.（ワライカワセミは笑うような鳴き声で有名だ）", "A": "kookaburra", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "kookaburra はどこの国の鳥？", "A": "オーストラリア", "B": "カナダ", "C": "日本", "D": "ブラジル", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kleptomania",
+    "pron": "ˌkleptəˈmeɪniə",
+    "kana": "クレプトメイニア",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ギリシャ語 kleptein（盗む）＋ mania（狂気)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "医療・心理"],
+    "meaning_main": "窃盗癖（盗みたい衝動の病的症状）",
+    "description": "kleptomania は「窃盗癖」を表す名詞。必要でもないのに物を盗みたいという衝動を抑えられない精神的な症状を指します。ギリシャ語の「盗む」＋「狂気（〜への強い衝動）」が語源です。",
+    "keywords": ["kleptomania 意味", "kleptomania 発音", "kleptomania 窃盗癖", "kleptomania 病気", "kleptomania 例文"],
+    "meanings": [
+      { "hinshi": "【名】窃盗癖", "note": "盗みたい衝動を抑えられない病的な症状。不可算。" }
+    ],
+    "usages": [
+      { "title": "① 窃盗癖（症状）", "desc": "衝動を抑えられない。", "example_en": "Kleptomania is a mental disorder.", "example_ja": "窃盗癖は精神の障害だ。" },
+      { "title": "② 必要でないのに盗む", "desc": "利益目的ではない。", "example_en": "People with kleptomania steal things they don't need.", "example_ja": "窃盗癖の人は必要のない物を盗む。" },
+      { "title": "③ 治療の対象", "desc": "医療的なケアが必要。", "example_en": "She sought treatment for her kleptomania.", "example_ja": "彼女は窃盗癖の治療を求めた。" }
+    ],
+    "warn": ["医学用語。単なる「盗み好き」ではなく、衝動を抑えられない病的症状を指す。", "窃盗癖のある人は kleptomaniac。-mania は『〜への病的衝動』を表す。"],
+    "etym_note": "ギリシャ語 kleptein（盗む）と mania（狂気・病的な熱狂）を組み合わせた19世紀の医学用語です。-mania は pyromania（放火癖）などにも使われます。",
+    "etym_chain": [
+      { "node": "kleptein + mania", "sub": "盗む＋狂気", "era": "ギリシャ語" },
+      { "node": "kleptomania", "sub": "窃盗癖", "era": "19世紀英語" },
+      { "node": "kleptomania", "sub": "窃盗癖", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "suffer from kleptomania", "ja": "窃盗癖を患う" },
+      { "en": "a case of kleptomania", "ja": "窃盗癖の症例" },
+      { "en": "kleptomaniac", "ja": "窃盗癖のある人" },
+      { "en": "treat kleptomania", "ja": "窃盗癖を治療する" },
+      { "en": "diagnosed with kleptomania", "ja": "窃盗癖と診断されて" },
+      { "en": "impulse to steal", "ja": "盗みたい衝動" }
+    ],
+    "related": [
+      { "en": "steal", "ja": "盗む" },
+      { "en": "theft", "ja": "窃盗" },
+      { "en": "compulsion", "ja": "強迫衝動" },
+      { "en": "disorder", "ja": "障害・不調" }
+    ],
+    "faq": [
+      { "q": "kleptomania とは何ですか？", "a": "必要でもないのに物を盗みたいという衝動を抑えられない、病的な精神症状「窃盗癖」です。利益目的の窃盗とは区別されます。" },
+      { "q": "-mania はどんな意味ですか？", "a": "ギリシャ語由来で「〜への病的な衝動・熱狂」を表します。pyromania（放火癖）や megalomania（誇大妄想）などにも使われます。" }
+    ],
+    "quiz": [
+      { "q": "___ is an uncontrollable urge to steal.（窃盗癖は抑えられない盗みの衝動だ）", "A": "Kleptomania", "B": "Kettle", "C": "Kernel", "D": "Keeper", "correct": "A" },
+      { "q": "kleptomania の -mania が表す意味は？", "A": "病的な衝動", "B": "喜び", "C": "恐怖", "D": "眠気", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kraken",
+    "pron": "ˈkrɑːkən",
+    "kana": "クラーケン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ノルウェー語 krake（海の怪物)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "神話・伝説"],
+    "meaning_main": "クラーケン（巨大な海の怪物）",
+    "description": "kraken は「クラーケン」を表す名詞。北欧の伝説に登場する巨大なタコやイカのような海の怪物で、船を襲い海へ引きずり込むとされます。映画やゲームでもおなじみの伝説の生き物です。",
+    "keywords": ["kraken 意味", "kraken 発音", "kraken クラーケン", "kraken 海の怪物", "kraken 例文"],
+    "meanings": [
+      { "hinshi": "【名】クラーken（海の怪物）", "note": "北欧伝説の巨大なイカ・タコ状の海の怪物。" }
+    ],
+    "usages": [
+      { "title": "① クラーケン（伝説の怪物）", "desc": "船を襲う巨大生物。", "example_en": "Sailors feared the legendary kraken.", "example_ja": "船乗りたちは伝説のクラーケンを恐れた。" },
+      { "title": "② 物語・映画に登場", "desc": "creativeフィクションで人気。", "example_en": "The kraken appears in many movies.", "example_ja": "クラーケンは多くの映画に登場する。" },
+      { "title": "③ Release the kraken!（決まり文句）", "desc": "映画の有名なせりふ。", "example_en": "\"Release the kraken!\" he shouted.", "example_ja": "「クラーケンを放て！」と彼は叫んだ。" }
+    ],
+    "warn": ["伝説・フィクションの生き物。実在の動物ではない。", "巨大イカ(giant squid)がモデルになったとされる。"],
+    "etym_note": "ノルウェー語 krake（曲がったもの・海の怪物）に由来します。18世紀に北欧の海の伝説とともに英語に紹介され、巨大な海の怪物を指す語になりました。",
+    "etym_chain": [
+      { "node": "krake", "sub": "海の怪物", "era": "ノルウェー語" },
+      { "node": "kraken", "sub": "クラーケン", "era": "18世紀英語" },
+      { "node": "kraken", "sub": "クラーケン", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the legendary kraken", "ja": "伝説のクラーケン" },
+      { "en": "release the kraken", "ja": "クラーケンを放て" },
+      { "en": "a giant kraken", "ja": "巨大なクラーケン" },
+      { "en": "attacked by a kraken", "ja": "クラーケンに襲われて" },
+      { "en": "the myth of the kraken", "ja": "クラーケンの神話" },
+      { "en": "a sea monster", "ja": "海の怪物" }
+    ],
+    "related": [
+      { "en": "monster", "ja": "怪物" },
+      { "en": "squid", "ja": "イカ" },
+      { "en": "myth", "ja": "神話" },
+      { "en": "legend", "ja": "伝説" }
+    ],
+    "faq": [
+      { "q": "kraken とは何ですか？", "a": "北欧の伝説に登場する、巨大なイカやタコのような海の怪物です。船を襲って海に引きずり込むとされ、映画やゲームにもよく登場します。" },
+      { "q": "kraken は実在しますか？", "a": "いいえ、伝説上の生き物です。ただし、実在の巨大イカ（giant squid）がその伝説のモデルになったと考えられています。" }
+    ],
+    "quiz": [
+      { "q": "The ancient legend told of a giant ___ in the sea.（古い伝説は海の巨大なクラーケンを語った）", "A": "kraken", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "kraken はどんな存在？", "A": "伝説の海の怪物", "B": "実在の魚", "C": "海鳥", "D": "貝", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kryptonite",
+    "pron": "ˈkrɪptənaɪt",
+    "kana": "クリプトナイト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "krypton（元素クリプトン）＋ -ite（鉱物語尾)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "文化・比喩"],
+    "meaning_main": "クリプトナイト／(比喩)弱点・泣きどころ",
+    "description": "kryptonite は、スーパーマンの力を奪う架空の鉱物「クリプトナイト」を表す名詞。そこから比喩的に「(強い人の)唯一の弱点・泣きどころ」の意味で日常的に使われるようになりました。",
+    "keywords": ["kryptonite 意味", "kryptonite 発音", "kryptonite 弱点", "kryptonite スーパーマン", "kryptonite 例文"],
+    "meanings": [
+      { "hinshi": "【名】クリプトナイト", "note": "スーパーマンの力を奪う架空の鉱物。" },
+      { "hinshi": "【名】(比喩)弱点・泣きどころ", "note": "強い人でも抗えない弱み。" }
+    ],
+    "usages": [
+      { "title": "① 弱点・泣きどころ（比喩）", "desc": "someone's kryptonite。", "example_en": "Chocolate is my kryptonite.", "example_ja": "チョコレートは私の弱点だ（つい負けてしまう）。" },
+      { "title": "② 抗えないもの", "desc": "誘惑や苦手なもの。", "example_en": "Flattery was his kryptonite.", "example_ja": "お世辞は彼の泣きどころだった。" },
+      { "title": "③ スーパーマンの設定", "desc": "元の意味。", "example_en": "Kryptonite weakens Superman.", "example_ja": "クリプトナイトはスーパーマンを弱らせる。" }
+    ],
+    "warn": ["架空の物質だが、比喩の「弱点」の意味で日常的によく使う。", "「〜の弱点」は someone's kryptonite の形。"],
+    "etym_note": "スーパーマンの故郷の惑星「Krypton（クリプトン）」に、鉱物を表す接尾辞 -ite を付けた造語です。実在の元素 krypton（クリプトン）とは別物です。物語から一般語になりました。",
+    "etym_chain": [
+      { "node": "Krypton", "sub": "スーパーマンの故郷の星", "era": "20世紀・創作" },
+      { "node": "kryptonite", "sub": "弱点の鉱物", "era": "20世紀英語" },
+      { "node": "kryptonite", "sub": "弱点・泣きどころ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "someone's kryptonite", "ja": "〜の弱点・泣きどころ" },
+      { "en": "my kryptonite", "ja": "私の弱点" },
+      { "en": "a piece of kryptonite", "ja": "クリプトナイトのかけら" },
+      { "en": "emotional kryptonite", "ja": "心の弱み" },
+      { "en": "resist one's kryptonite", "ja": "弱点に抗う" },
+      { "en": "expose to kryptonite", "ja": "クリプトナイトにさらす" }
+    ],
+    "related": [
+      { "en": "weakness", "ja": "弱点" },
+      { "en": "flaw", "ja": "欠点" },
+      { "en": "vulnerability", "ja": "弱み・もろさ" },
+      { "en": "temptation", "ja": "誘惑" }
+    ],
+    "faq": [
+      { "q": "kryptonite の比喩的な意味は？", "a": "「(強い人や意志の固い人でも)抗えない唯一の弱点・泣きどころ」という意味です。Sweets are my kryptonite.（甘い物には勝てない）のように使います。" },
+      { "q": "kryptonite の由来は？", "a": "スーパーマンの故郷の惑星「Krypton」に鉱物を表す -ite を付けた造語です。彼の力を奪う設定から、比喩的に「弱点」を指すようになりました。" }
+    ],
+    "quiz": [
+      { "q": "Sweets are my ___ — I just can't say no.（甘い物は私の弱点、断れない）", "A": "kryptonite", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "kryptonite の比喩的な意味は？", "A": "弱点・泣きどころ", "B": "強み", "C": "宝物", "D": "武器", "correct": "A" }
+    ]
+  },
+  {
+    "english": "klaxon",
+    "pron": "ˈklæksən",
+    "kana": "クラクソン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "商標名 Klaxon（ギリシャ語 klazō「叫ぶ」より）",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "機器・音"],
+    "meaning_main": "クラクション／大音量の警報器",
+    "description": "klaxon は「クラクション・大音量の警報器」を表す名詞。もとは自動車や船の警笛の商標名で、けたたましく鳴り響く電気式のホーンを指します。警報や注意喚起の大きな音の器具です。",
+    "keywords": ["klaxon 意味", "klaxon 発音", "klaxon クラクション", "klaxon 警報", "klaxon 例文"],
+    "meanings": [
+      { "hinshi": "【名】クラクション・警笛", "note": "けたたましく鳴る電気式のホーン。" },
+      { "hinshi": "【名】大音量の警報器", "note": "危険を知らせる大きな音の器具。" }
+    ],
+    "usages": [
+      { "title": "① 警笛・クラクション", "desc": "車や船の大きな警笛。", "example_en": "The ship sounded its klaxon.", "example_ja": "船は警笛を鳴らした。" },
+      { "title": "② 警報器", "desc": "危険を知らせる大音量。", "example_en": "A klaxon warned of the fire.", "example_ja": "警報器が火災を知らせた。" },
+      { "title": "③ 鳴り響く", "desc": "the klaxon blared。", "example_en": "The klaxon blared across the factory.", "example_ja": "警報が工場中に鳴り響いた。" }
+    ],
+    "warn": ["もとは商標名。今は大音量の警報・警笛全般を指す。", "発音は /ˈklæksən/。最初の音節を強く読む。"],
+    "etym_note": "20世紀初めに作られた電気警笛の商標名 Klaxon に由来します。ギリシャ語 klazō（叫ぶ・鳴り響く）から名づけられ、後に一般名詞として大音量の警報を指すようになりました。",
+    "etym_chain": [
+      { "node": "klazō", "sub": "叫ぶ・鳴る", "era": "ギリシャ語" },
+      { "node": "Klaxon", "sub": "警笛の商標名", "era": "20世紀英語" },
+      { "node": "klaxon", "sub": "警笛・警報器", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "sound the klaxon", "ja": "警笛を鳴らす" },
+      { "en": "the klaxon blared", "ja": "警報が鳴り響いた" },
+      { "en": "a warning klaxon", "ja": "警告のクラクション" },
+      { "en": "a loud klaxon", "ja": "大音量の警報器" },
+      { "en": "a klaxon went off", "ja": "警報が鳴った" },
+      { "en": "an emergency klaxon", "ja": "緊急警報器" }
+    ],
+    "related": [
+      { "en": "horn", "ja": "警笛・ホーン" },
+      { "en": "siren", "ja": "サイレン" },
+      { "en": "alarm", "ja": "警報" },
+      { "en": "buzzer", "ja": "ブザー" }
+    ],
+    "faq": [
+      { "q": "klaxon とは何ですか？", "a": "けたたましく鳴り響く電気式の警笛・警報器のことです。もとは自動車の警笛の商標名でしたが、今では大音量の警報全般を指します。" },
+      { "q": "klaxon と siren の違いは？", "a": "klaxon は「ビーッ」という電気ホーンのような音、siren は「ウーウー」と音の高さが上下するサイレンを指すことが多いです。どちらも警報用です。" }
+    ],
+    "quiz": [
+      { "q": "A loud ___ warned the workers of danger.（大音量の警報が作業員に危険を知らせた）", "A": "klaxon", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "klaxon はどんな器具？", "A": "大音量の警報器・警笛", "B": "料理道具", "C": "楽器", "D": "照明", "correct": "A" }
+    ]
+  }
+]

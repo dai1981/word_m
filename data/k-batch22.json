@@ -1,0 +1,502 @@
+[
+  {
+    "english": "Kazakhstan",
+    "pron": "ˌkæzəkˈstɑːn",
+    "kana": "カザフスタン",
+    "hinshi": "固有名詞（国名）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "カザフ人＋ペルシャ語 -stan（〜の国)",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "地理・アジア"],
+    "meaning_main": "カザフスタン（中央アジアの大国）",
+    "description": "Kazakhstan は中央アジアの国「カザフスタン」を表す固有名詞。世界最大の内陸国で、広大な草原（ステップ）が広がります。石油や鉱物資源が豊富で、宇宙船の打ち上げ基地バイコヌールがあることでも知られます。",
+    "keywords": ["Kazakhstan 意味", "Kazakhstan 発音", "カザフスタン 英語", "Kazakhstan 内陸国", "Kazakhstan 例文"],
+    "meanings": [
+      { "hinshi": "【固有名詞】カザフスタン", "note": "中央アジアの国。世界最大の内陸国。" }
+    ],
+    "usages": [
+      { "title": "① カザフスタン（国）", "desc": "中央アジアの大国。", "example_en": "Kazakhstan is the largest landlocked country.", "example_ja": "カザフスタンは世界最大の内陸国だ。" },
+      { "title": "② 広大な草原", "desc": "ステップが広がる。", "example_en": "Vast grasslands cover much of Kazakhstan.", "example_ja": "広大な草原がカザフスタンの大部分を覆う。" },
+      { "title": "③ 宇宙基地", "desc": "バイコヌール宇宙基地。", "example_en": "Rockets are launched from Kazakhstan.", "example_ja": "ロケットはカザフスタンから打ち上げられる。" }
+    ],
+    "warn": ["固有名詞なので大文字で始める。首都はアスタナ(Astana)。", "語尾の -stan はペルシャ語で「〜の国」を意味する。"],
+    "etym_note": "民族名「カザフ（Kazakh）」＋ペルシャ語の接尾辞 -stan（〜の土地・国）から成り、「カザフ人の国」を意味します。-stan は Afghanistan, Pakistan などにも共通します。",
+    "etym_chain": [
+      { "node": "Kazakh + -stan", "sub": "カザフ人＋国", "era": "ペルシャ語系" },
+      { "node": "Kazakhstan", "sub": "カザフスタン", "era": "20世紀" },
+      { "node": "Kazakhstan", "sub": "カザフスタン", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the Republic of Kazakhstan", "ja": "カザフスタン共和国" },
+      { "en": "landlocked Kazakhstan", "ja": "内陸国カザフスタン" },
+      { "en": "the steppes of Kazakhstan", "ja": "カザフスタンの草原" },
+      { "en": "travel to Kazakhstan", "ja": "カザフスタンへ行く" },
+      { "en": "Central Asia", "ja": "中央アジア" },
+      { "en": "the Baikonur Cosmodrome", "ja": "バイコヌール宇宙基地" }
+    ],
+    "related": [
+      { "en": "Central Asia", "ja": "中央アジア" },
+      { "en": "steppe", "ja": "ステップ・大草原" },
+      { "en": "landlocked", "ja": "内陸の" },
+      { "en": "country", "ja": "国" }
+    ],
+    "faq": [
+      { "q": "Kazakhstan はどんな国ですか？", "a": "中央アジアの国で、世界最大の内陸国です。広大な草原が広がり、石油や鉱物資源が豊富で、宇宙船の打ち上げ基地バイコヌールがあることでも知られます。" },
+      { "q": "国名の -stan とは何ですか？", "a": "ペルシャ語で「〜の国・土地」を意味する接尾辞です。Kazakhstan は「カザフ人の国」を意味します。" }
+    ],
+    "quiz": [
+      { "q": "___ is the largest landlocked country in the world.（カザフスタンは世界最大の内陸国だ）", "A": "Kazakhstan", "B": "Kettle", "C": "Kernel", "D": "Keeper", "correct": "A" },
+      { "q": "Kazakhstan の -stan の意味は？", "A": "〜の国", "B": "山", "C": "川", "D": "海", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Kingston",
+    "pron": "ˈkɪŋstən",
+    "kana": "キングストン",
+    "hinshi": "固有名詞（都市・首都）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "英語 king's town（王の町)",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "地理・カリブ"],
+    "meaning_main": "キングストン（ジャマイカの首都）",
+    "description": "Kingston はジャマイカの首都「キングストン」を表す固有名詞。カリブ海に面した港湾都市で、レゲエ音楽発祥の地として世界的に知られます。ボブ・マーリーゆかりの街でもあり、活気ある音楽・文化の中心地です。",
+    "keywords": ["Kingston 意味", "Kingston 発音", "キングストン 英語", "Kingston ジャマイカ レゲエ", "Kingston 例文"],
+    "meanings": [
+      { "hinshi": "【固有名詞】キングストン", "note": "ジャマイカの首都。レゲエ音楽発祥の地。" }
+    ],
+    "usages": [
+      { "title": "① キングストン（首都）", "desc": "ジャマイカの首都。", "example_en": "Kingston is the capital of Jamaica.", "example_ja": "キングストンはジャマイカの首都だ。" },
+      { "title": "② レゲエの発祥地", "desc": "音楽の中心。", "example_en": "Reggae music was born in Kingston.", "example_ja": "レゲエ音楽はキングストンで生まれた。" },
+      { "title": "③ カリブ海の港町", "desc": "港湾都市。", "example_en": "Kingston is a port city on the Caribbean.", "example_ja": "キングストンはカリブ海に面した港町だ。" }
+    ],
+    "warn": ["固有名詞なので大文字で始める。ジャマイカ(Jamaica)の首都。", "king's town（王の町）が語源。同名の都市が世界各地にある。"],
+    "etym_note": "英語 king's town（王の町）に由来する地名で、イギリスにちなむ名です。同名の都市は世界各地にありますが、特にジャマイカの首都が有名です。",
+    "etym_chain": [
+      { "node": "king's town", "sub": "王の町", "era": "英語" },
+      { "node": "Kingston", "sub": "キングストン", "era": "近代英語" },
+      { "node": "Kingston", "sub": "キングストン", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Kingston, Jamaica", "ja": "ジャマイカのキングストン" },
+      { "en": "the capital Kingston", "ja": "首都キングストン" },
+      { "en": "reggae from Kingston", "ja": "キングストンのレゲエ" },
+      { "en": "the port of Kingston", "ja": "キングストン港" },
+      { "en": "the streets of Kingston", "ja": "キングストンの街並み" },
+      { "en": "born in Kingston", "ja": "キングストン生まれ" }
+    ],
+    "related": [
+      { "en": "Jamaica", "ja": "ジャマイカ" },
+      { "en": "reggae", "ja": "レゲエ" },
+      { "en": "Caribbean", "ja": "カリブ海" },
+      { "en": "capital", "ja": "首都" }
+    ],
+    "faq": [
+      { "q": "Kingston はどこの首都ですか？", "a": "カリブ海の島国ジャマイカの首都です。港湾都市で、レゲエ音楽発祥の地として世界的に知られます。" },
+      { "q": "Kingston の名前の由来は？", "a": "英語の king's town（王の町）に由来します。同名の都市は世界各地にありますが、ジャマイカの首都が特に有名です。" }
+    ],
+    "quiz": [
+      { "q": "___, the capital of Jamaica, is the birthplace of reggae.（ジャマイカの首都キングストンはレゲエの発祥地だ）", "A": "Kingston", "B": "Kettle", "C": "Kernel", "D": "Keeper", "correct": "A" },
+      { "q": "Kingston で生まれた音楽は？", "A": "レゲエ", "B": "ジャズ", "C": "演歌", "D": "クラシック", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Kashmir",
+    "pron": "ˈkæʃmɪər",
+    "kana": "カシミール",
+    "hinshi": "固有名詞（地域）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "サンスクリット語 Kaśmīra（地名)",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "地理・アジア"],
+    "meaning_main": "カシミール（ヒマラヤ山麓の美しい地域）",
+    "description": "Kashmir はヒマラヤ山脈のふもとに広がる地域「カシミール」を表す固有名詞。湖や渓谷の美しい景観で「地上の楽園」とも称されます。カシミヤ（cashmere）の名の由来にもなった、良質な羊毛の産地としても知られます。",
+    "keywords": ["Kashmir 意味", "Kashmir 発音", "カシミール 英語", "Kashmir カシミヤ", "Kashmir 例文"],
+    "meanings": [
+      { "hinshi": "【固有名詞】カシミール", "note": "ヒマラヤ山麓の美しい地域。カシミヤの名の由来。" }
+    ],
+    "usages": [
+      { "title": "① カシミール（地域）", "desc": "ヒマラヤのふもと。", "example_en": "Kashmir lies at the foot of the Himalayas.", "example_ja": "カシミールはヒマラヤのふもとに位置する。" },
+      { "title": "② 美しい景観", "desc": "湖や渓谷。", "example_en": "Kashmir is famous for its beautiful scenery.", "example_ja": "カシミールは美しい景観で有名だ。" },
+      { "title": "③ カシミヤの由来", "desc": "良質な羊毛の産地。", "example_en": "The word \"cashmere\" comes from Kashmir.", "example_ja": "「カシミヤ」という語はカシミールに由来する。" }
+    ],
+    "warn": ["固有名詞なので大文字で始める。インド・パキスタンにまたがる地域。", "毛織物の cashmere（カシミヤ）はこの地名が語源。"],
+    "etym_note": "サンスクリット語の地名 Kaśmīra に由来します。この地域産の柔らかな山羊の毛を使った織物が、英語の cashmere（カシミヤ）の語源になりました。",
+    "etym_chain": [
+      { "node": "Kaśmīra", "sub": "地名", "era": "サンスクリット語" },
+      { "node": "Kashmir", "sub": "カシミール", "era": "近代英語" },
+      { "node": "Kashmir", "sub": "カシミール", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the valley of Kashmir", "ja": "カシミール渓谷" },
+      { "en": "the beauty of Kashmir", "ja": "カシミールの美" },
+      { "en": "cashmere wool", "ja": "カシミヤの羊毛" },
+      { "en": "the Himalayas", "ja": "ヒマラヤ山脈" },
+      { "en": "a lake in Kashmir", "ja": "カシミールの湖" },
+      { "en": "the mountains of Kashmir", "ja": "カシミールの山々" }
+    ],
+    "related": [
+      { "en": "Himalaya", "ja": "ヒマラヤ" },
+      { "en": "cashmere", "ja": "カシミヤ" },
+      { "en": "India", "ja": "インド" },
+      { "en": "valley", "ja": "渓谷" }
+    ],
+    "faq": [
+      { "q": "Kashmir とはどこですか？", "a": "ヒマラヤ山脈のふもとに広がる地域で、湖や渓谷の美しい景観で「地上の楽園」とも称されます。良質な羊毛の産地でもあります。" },
+      { "q": "Kashmir と cashmere の関係は？", "a": "毛織物「カシミヤ（cashmere）」は、この地域産の柔らかな山羊の毛を使った織物に由来する語です。地名がそのまま素材名になりました。" }
+    ],
+    "quiz": [
+      { "q": "The soft wool \"cashmere\" is named after ___.（柔らかい羊毛カシミヤはカシミールにちなむ）", "A": "Kashmir", "B": "Kettle", "C": "Kernel", "D": "Keeper", "correct": "A" },
+      { "q": "Kashmir はどの山脈のふもと？", "A": "ヒマラヤ", "B": "アルプス", "C": "アンデス", "D": "ロッキー", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Kalahari",
+    "pron": "ˌkæləˈhɑːri",
+    "kana": "カラハリ",
+    "hinshi": "固有名詞（砂漠・地名）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ツワナ語 Kgalagadi（乾いた土地)",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "地理・自然"],
+    "meaning_main": "カラハリ（アフリカ南部の広大な半砂漠）",
+    "description": "Kalahari はアフリカ南部に広がる広大な砂漠「カラハリ」を表す固有名詞。ボツワナやナミビアなどにまたがる乾燥地帯で、雨季には草が茂ることから半砂漠とも呼ばれます。ミーアキャットなど独特の野生動物や、先住民サン人の暮らしで知られます。",
+    "keywords": ["Kalahari 意味", "Kalahari 発音", "カラハリ 英語", "Kalahari 砂漠", "Kalahari 例文"],
+    "meanings": [
+      { "hinshi": "【固有名詞】カラハリ", "note": "アフリカ南部の広大な半砂漠。ボツワナなどにまたがる。" }
+    ],
+    "usages": [
+      { "title": "① カラハリ（砂漠）", "desc": "アフリカ南部の乾燥地帯。", "example_en": "The Kalahari spreads across southern Africa.", "example_ja": "カラハリはアフリカ南部に広がる。" },
+      { "title": "② 半砂漠", "desc": "雨季には草が茂る。", "example_en": "The Kalahari is not a true desert; grass grows in the wet season.", "example_ja": "カラハリは真の砂漠ではなく、雨季には草が生える。" },
+      { "title": "③ 独特の野生動物", "desc": "ミーアキャットなど。", "example_en": "Meerkats live in the Kalahari.", "example_ja": "ミーアキャットはカラハリに生息する。" }
+    ],
+    "warn": ["固有名詞なので大文字で始める。ボツワナ・ナミビア・南アフリカにまたがる。", "発音は /ˌkæləˈhɑːri/。"],
+    "etym_note": "現地のツワナ語 Kgalagadi（乾いた土地・水のない場所）に由来します。乾燥した広大な半砂漠地帯を指す地名です。",
+    "etym_chain": [
+      { "node": "Kgalagadi", "sub": "乾いた土地", "era": "ツワナ語" },
+      { "node": "Kalahari", "sub": "カラハリ", "era": "19世紀英語" },
+      { "node": "Kalahari", "sub": "カラハリ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the Kalahari Desert", "ja": "カラハリ砂漠" },
+      { "en": "the Kalahari sands", "ja": "カラハリの砂" },
+      { "en": "wildlife of the Kalahari", "ja": "カラハリの野生動物" },
+      { "en": "cross the Kalahari", "ja": "カラハリを横断する" },
+      { "en": "southern Africa", "ja": "アフリカ南部" },
+      { "en": "the San people", "ja": "サン人" }
+    ],
+    "related": [
+      { "en": "desert", "ja": "砂漠" },
+      { "en": "Africa", "ja": "アフリカ" },
+      { "en": "Botswana", "ja": "ボツワナ" },
+      { "en": "savanna", "ja": "サバンナ" }
+    ],
+    "faq": [
+      { "q": "Kalahari とは何ですか？", "a": "アフリカ南部に広がる広大な半砂漠で、ボツワナやナミビアなどにまたがります。雨季には草が茂るため半砂漠とも呼ばれ、独特の野生動物や先住民サン人の暮らしで知られます。" },
+      { "q": "Kalahari は本当の砂漠ですか？", "a": "厳密には「半砂漠」です。雨季にはある程度の雨が降り草が茂るため、サハラのような完全な砂漠とは異なります。" }
+    ],
+    "quiz": [
+      { "q": "The ___ is a large semi-desert in southern Africa.（カラハリはアフリカ南部の広大な半砂漠だ）", "A": "Kalahari", "B": "Kettle", "C": "Kernel", "D": "Keeper", "correct": "A" },
+      { "q": "Kalahari があるのはどの地域？", "A": "アフリカ南部", "B": "中央アジア", "C": "南米", "D": "オーストラリア", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Kyushu",
+    "pron": "ˈkjuːʃuː",
+    "kana": "キュウシュウ",
+    "hinshi": "固有名詞（島・地名）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "日本語「九州」（九つの国)",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "地理・日本"],
+    "meaning_main": "九州（日本列島の南西部の大きな島）",
+    "description": "Kyushu は日本列島の南西部にある大きな島「九州」を表す固有名詞。日本の主要4島の一つで、温泉や活火山、豊かな自然で知られます。福岡・熊本・鹿児島などの都市があり、古くからアジアとの交流の窓口でした。",
+    "keywords": ["Kyushu 意味", "Kyushu 発音", "九州 英語", "Kyushu 島 日本", "Kyushu 例文"],
+    "meanings": [
+      { "hinshi": "【固有名詞】九州", "note": "日本の主要4島の一つ。南西部の大きな島。" }
+    ],
+    "usages": [
+      { "title": "① 九州（島）", "desc": "日本の主要4島の一つ。", "example_en": "Kyushu is one of Japan's four main islands.", "example_ja": "九州は日本の主要4島の一つだ。" },
+      { "title": "② 温泉と火山", "desc": "豊かな自然。", "example_en": "Kyushu is known for its hot springs and volcanoes.", "example_ja": "九州は温泉と火山で知られる。" },
+      { "title": "③ アジアの窓口", "desc": "古くから交流。", "example_en": "Kyushu was a gateway to Asia in ancient times.", "example_ja": "九州は古くからアジアへの窓口だった。" }
+    ],
+    "warn": ["固有名詞なので大文字で始める。本州(Honshu)・北海道(Hokkaido)・四国(Shikoku)と並ぶ主要4島の一つ。", "発音は /ˈkjuːʃuː/。"],
+    "etym_note": "日本語の「九州（きゅうしゅう）」に由来し、「九つの国（旧国）」を意味します。かつてこの島が9つの令制国に分かれていたことにちなむ名です。",
+    "etym_chain": [
+      { "node": "九州 (Kyūshū)", "sub": "九つの国", "era": "日本" },
+      { "node": "Kyushu", "sub": "九州", "era": "近代英語" },
+      { "node": "Kyushu", "sub": "九州", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the island of Kyushu", "ja": "九州島" },
+      { "en": "southern Kyushu", "ja": "南九州" },
+      { "en": "hot springs in Kyushu", "ja": "九州の温泉" },
+      { "en": "travel around Kyushu", "ja": "九州を旅する" },
+      { "en": "Fukuoka in Kyushu", "ja": "九州の福岡" },
+      { "en": "the volcanoes of Kyushu", "ja": "九州の火山" }
+    ],
+    "related": [
+      { "en": "Japan", "ja": "日本" },
+      { "en": "Honshu", "ja": "本州" },
+      { "en": "island", "ja": "島" },
+      { "en": "Fukuoka", "ja": "福岡" }
+    ],
+    "faq": [
+      { "q": "Kyushu とはどこですか？", "a": "日本列島の南西部にある大きな島「九州」です。日本の主要4島の一つで、温泉や活火山、豊かな自然で知られます。" },
+      { "q": "Kyushu の名前の由来は？", "a": "「九つの国（旧国）」を意味します。かつてこの島が9つの令制国に分かれていたことにちなみます。" }
+    ],
+    "quiz": [
+      { "q": "___ is one of the four main islands of Japan.（九州は日本の主要4島の一つだ）", "A": "Kyushu", "B": "Kettle", "C": "Kernel", "D": "Keeper", "correct": "A" },
+      { "q": "Kyushu は何の国の島？", "A": "日本", "B": "中国", "C": "韓国", "D": "フィリピン", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Kobe",
+    "pron": "ˈkoʊbeɪ",
+    "kana": "コウベ",
+    "hinshi": "固有名詞（都市）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "日本語「神戸」（神の戸)",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "地理・日本"],
+    "meaning_main": "神戸（日本の港湾都市）",
+    "description": "Kobe は日本の都市「神戸」を表す固有名詞。兵庫県にある美しい港湾都市で、古くから国際貿易港として栄えました。山と海に囲まれた景観や、高級ブランド牛肉「神戸ビーフ」で世界的に知られています。",
+    "keywords": ["Kobe 意味", "Kobe 発音", "神戸 英語", "Kobe beef 神戸牛", "Kobe 例文"],
+    "meanings": [
+      { "hinshi": "【固有名詞】神戸", "note": "日本の港湾都市。国際貿易港・神戸ビーフで有名。" }
+    ],
+    "usages": [
+      { "title": "① 神戸（都市）", "desc": "港湾都市。", "example_en": "Kobe is a port city in Japan.", "example_ja": "神戸は日本の港湾都市だ。" },
+      { "title": "② 国際貿易港", "desc": "古くから栄えた。", "example_en": "Kobe has long been an important port.", "example_ja": "神戸は古くから重要な港だ。" },
+      { "title": "③ 神戸ビーフ", "desc": "高級牛肉。", "example_en": "Kobe beef is famous around the world.", "example_ja": "神戸ビーフは世界中で有名だ。" }
+    ],
+    "warn": ["固有名詞なので大文字で始める。兵庫県(Hyogo)の都市。", "発音は /ˈkoʊbeɪ/。高級牛肉 Kobe beef で有名。"],
+    "etym_note": "日本語の「神戸（こうべ）」に由来し、「神の戸（門）」を意味します。生田神社に神事に従事する家々があったことにちなむ地名とされます。",
+    "etym_chain": [
+      { "node": "神戸 (Kōbe)", "sub": "神の戸", "era": "日本" },
+      { "node": "Kobe", "sub": "神戸", "era": "近代英語" },
+      { "node": "Kobe", "sub": "神戸", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the city of Kobe", "ja": "神戸市" },
+      { "en": "the port of Kobe", "ja": "神戸港" },
+      { "en": "Kobe beef", "ja": "神戸ビーフ・神戸牛" },
+      { "en": "Kobe, Japan", "ja": "日本の神戸" },
+      { "en": "the harbor of Kobe", "ja": "神戸の港" },
+      { "en": "visit Kobe", "ja": "神戸を訪れる" }
+    ],
+    "related": [
+      { "en": "Japan", "ja": "日本" },
+      { "en": "port", "ja": "港" },
+      { "en": "Osaka", "ja": "大阪" },
+      { "en": "beef", "ja": "牛肉" }
+    ],
+    "faq": [
+      { "q": "Kobe はどんな都市ですか？", "a": "日本の兵庫県にある港湾都市です。古くから国際貿易港として栄え、山と海に囲まれた景観や高級牛肉「神戸ビーフ」で世界的に知られます。" },
+      { "q": "Kobe beef とは？", "a": "神戸周辺で育てられた但馬牛から取れる、きめ細かい霜降りが特徴の高級ブランド牛肉です。世界中で高く評価されています。" }
+    ],
+    "quiz": [
+      { "q": "___ is a Japanese port city famous for its beef.（神戸は牛肉で有名な日本の港町だ）", "A": "Kobe", "B": "Kettle", "C": "Kernel", "D": "Keeper", "correct": "A" },
+      { "q": "Kobe はどの国の都市？", "A": "日本", "B": "中国", "C": "韓国", "D": "ベトナム", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Kubrick",
+    "pron": "ˈkuːbrɪk",
+    "kana": "キューブリック",
+    "hinshi": "固有名詞（人物・映画監督）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "姓 Kubrick",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "映画・人物"],
+    "meaning_main": "キューブリック（『2001年宇宙の旅』の映画監督）",
+    "description": "Kubrick はアメリカの映画監督「スタンリー・キューブリック」を表す固有名詞。『2001年宇宙の旅』『時計じかけのオレンジ』『シャイニング』など、革新的で完璧主義的な作品で知られます。映像美と深いテーマで映画史に大きな足跡を残しました。",
+    "keywords": ["Kubrick 意味", "Kubrick 発音", "キューブリック 英語", "2001年宇宙の旅 監督", "Kubrick 例文"],
+    "meanings": [
+      { "hinshi": "【固有名詞】キューブリック", "note": "『2001年宇宙の旅』などで知られるアメリカの映画監督(1928-1999)。" }
+    ],
+    "usages": [
+      { "title": "① キューブリック（映画監督）", "desc": "革新的な巨匠。", "example_en": "Kubrick was a visionary film director.", "example_ja": "キューブリックは先見的な映画監督だった。" },
+      { "title": "② 『2001年宇宙の旅』", "desc": "SF映画の名作。", "example_en": "Kubrick directed \"2001: A Space Odyssey.\"", "example_ja": "キューブリックは『2001年宇宙の旅』を監督した。" },
+      { "title": "③ 完璧主義", "desc": "細部にこだわった。", "example_en": "Kubrick was known for his perfectionism.", "example_ja": "キューブリックは完璧主義で知られた。" }
+    ],
+    "warn": ["固有名詞なので大文字で始める。フルネームはスタンリー・キューブリック(Stanley Kubrick)。", "『2001年宇宙の旅』『シャイニング』などで知られる。"],
+    "etym_note": "中欧系の姓 Kubrick に由来します。スタンリー・キューブリック（1928-1999）はニューヨークに生まれ、後にイギリスを拠点に映画を制作しました。",
+    "etym_chain": [
+      { "node": "Kubrick (姓)", "sub": "中欧系の姓", "era": "近代" },
+      { "node": "Kubrick", "sub": "映画監督の名", "era": "20世紀" },
+      { "node": "Kubrick", "sub": "キューブリック", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Stanley Kubrick", "ja": "スタンリー・キューブリック" },
+      { "en": "2001: A Space Odyssey", "ja": "2001年宇宙の旅" },
+      { "en": "a Kubrick film", "ja": "キューブリックの映画" },
+      { "en": "directed by Kubrick", "ja": "キューブリック監督の" },
+      { "en": "The Shining", "ja": "シャイニング" },
+      { "en": "Kubrick's vision", "ja": "キューブリックの映像世界" }
+    ],
+    "related": [
+      { "en": "film", "ja": "映画" },
+      { "en": "director", "ja": "監督" },
+      { "en": "science fiction", "ja": "SF・空想科学" },
+      { "en": "cinema", "ja": "映画・映画館" }
+    ],
+    "faq": [
+      { "q": "Kubrick はどんな人ですか？", "a": "アメリカの映画監督スタンリー・キューブリックで、『2001年宇宙の旅』『時計じかけのオレンジ』などの革新的な作品で知られます。映像美と深いテーマで映画史に足跡を残しました。" },
+      { "q": "Kubrick の代表作は？", "a": "SF映画『2001年宇宙の旅（2001: A Space Odyssey）』が特に有名です。ほかに『シャイニング』『フルメタル・ジャケット』などがあります。" }
+    ],
+    "quiz": [
+      { "q": "___ directed the science-fiction film \"2001: A Space Odyssey.\"（キューブリックはSF映画『2001年宇宙の旅』を監督した）", "A": "Kubrick", "B": "Kettle", "C": "Kernel", "D": "Keeper", "correct": "A" },
+      { "q": "Kubrick の専門分野は？", "A": "映画", "B": "絵画", "C": "音楽", "D": "建築", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Kasparov",
+    "pron": "kæˈspɑːrɒf",
+    "kana": "カスパロフ",
+    "hinshi": "固有名詞（人物・チェス選手）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ロシア語系の姓 Kasparov",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "スポーツ・人物"],
+    "meaning_main": "カスパロフ（史上最強とされるチェスの世界チャンピオン）",
+    "description": "Kasparov はロシアのチェス選手「ガルリ・カスパロフ」を表す固有名詞。史上最強のチェスプレーヤーの一人とされ、長年世界チャンピオンの座を保ちました。1997年にはIBMのコンピューター「ディープ・ブルー」との対戦でも世界的な話題となりました。",
+    "keywords": ["Kasparov 意味", "Kasparov 発音", "カスパロフ 英語", "Kasparov チェス", "Kasparov 例文"],
+    "meanings": [
+      { "hinshi": "【固有名詞】カスパロフ", "note": "史上最強とされるチェスの世界チャンピオン(1963-)。" }
+    ],
+    "usages": [
+      { "title": "① カスパロフ（チェス選手）", "desc": "世界チャンピオン。", "example_en": "Kasparov was the world chess champion for years.", "example_ja": "カスパロフは長年チェスの世界王者だった。" },
+      { "title": "② 史上最強の一人", "desc": "伝説的なプレーヤー。", "example_en": "Kasparov is considered one of the greatest players.", "example_ja": "カスパロフは史上最高の選手の一人とされる。" },
+      { "title": "③ コンピューターとの対戦", "desc": "ディープ・ブルー戦。", "example_en": "Kasparov played against the computer Deep Blue.", "example_ja": "カスパロフはコンピューター「ディープ・ブルー」と対戦した。" }
+    ],
+    "warn": ["固有名詞なので大文字で始める。フルネームはガルリ・カスパロフ(Garry Kasparov)。", "1997年にIBMのディープ・ブルー(Deep Blue)に敗れたことで知られる。"],
+    "etym_note": "ロシア語系の姓 Kasparov に由来します。ガルリ・カスパロフ（1963-）はアゼルバイジャンのバクーに生まれ、22歳で史上最年少（当時）の世界チャンピオンになりました。",
+    "etym_chain": [
+      { "node": "Kasparov (姓)", "sub": "ロシア語系の姓", "era": "近代" },
+      { "node": "Kasparov", "sub": "チェス選手の名", "era": "20世紀" },
+      { "node": "Kasparov", "sub": "カスパロフ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Garry Kasparov", "ja": "ガルリ・カスパロフ" },
+      { "en": "the world chess champion", "ja": "チェスの世界王者" },
+      { "en": "Kasparov vs Deep Blue", "ja": "カスパロフ対ディープ・ブルー" },
+      { "en": "a chess grandmaster", "ja": "チェスのグランドマスター" },
+      { "en": "Kasparov's games", "ja": "カスパロフの対局" },
+      { "en": "beat Kasparov", "ja": "カスパロフを破る" }
+    ],
+    "related": [
+      { "en": "chess", "ja": "チェス" },
+      { "en": "champion", "ja": "チャンピオン" },
+      { "en": "Russia", "ja": "ロシア" },
+      { "en": "computer", "ja": "コンピューター" }
+    ],
+    "faq": [
+      { "q": "Kasparov はどんな人ですか？", "a": "ロシアのチェス選手ガルリ・カスパロフで、史上最強のプレーヤーの一人とされ、長年世界チャンピオンでした。1997年にIBMのコンピューター「ディープ・ブルー」との対戦でも話題になりました。" },
+      { "q": "Kasparov とコンピューターの対戦の結果は？", "a": "1997年、IBMのチェス専用コンピューター「ディープ・ブルー」に敗れました。人間の世界王者がコンピューターに公式戦で敗れた歴史的な出来事でした。" }
+    ],
+    "quiz": [
+      { "q": "___ was a world chess champion who played against Deep Blue.（カスパロフはディープ・ブルーと対戦したチェスの世界王者だ）", "A": "Kasparov", "B": "Kettle", "C": "Kernel", "D": "Keeper", "correct": "A" },
+      { "q": "Kasparov の専門分野は？", "A": "チェス", "B": "テニス", "C": "音楽", "D": "絵画", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Khrushchev",
+    "pron": "ˈkrʊʃtʃɒf",
+    "kana": "フルシチョフ",
+    "hinshi": "固有名詞（人物・政治家）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ロシア語の姓 Khrushchyov",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "歴史・人物"],
+    "meaning_main": "フルシチョフ（冷戦期のソ連の指導者）",
+    "description": "Khrushchev は旧ソビエト連邦の指導者「ニキータ・フルシチョフ」を表す固有名詞。冷戦のさなかにソ連を率い、スターリン批判や宇宙開発を進めました。1962年のキューバ危機では、核戦争の瀬戸際でアメリカと対峙したことで歴史に名を残しています。",
+    "keywords": ["Khrushchev 意味", "Khrushchev 発音", "フルシチョフ 英語", "Khrushchev ソ連 冷戦", "Khrushchev 例文"],
+    "meanings": [
+      { "hinshi": "【固有名詞】フルシチョフ", "note": "冷戦期のソ連の指導者ニキータ・フルシチョフ(1894-1971)。" }
+    ],
+    "usages": [
+      { "title": "① フルシチョフ（指導者）", "desc": "ソ連を率いた。", "example_en": "Khrushchev led the Soviet Union during the Cold War.", "example_ja": "フルシチョフは冷戦期にソ連を率いた。" },
+      { "title": "② スターリン批判", "desc": "前指導者を批判した。", "example_en": "Khrushchev criticized Stalin's rule.", "example_ja": "フルシチョフはスターリンの統治を批判した。" },
+      { "title": "③ キューバ危機", "desc": "核戦争の瀬戸際。", "example_en": "Khrushchev faced the Cuban Missile Crisis.", "example_ja": "フルシチョフはキューバ危機に直面した。" }
+    ],
+    "warn": ["固有名詞なので大文字で始める。フルネームはニキータ・フルシチョフ(Nikita Khrushchev)。", "綴りが難しい。発音は /ˈkrʊʃtʃɒf/。"],
+    "etym_note": "ロシア語の姓 Khrushchyov に由来します。ニキータ・フルシチョフ（1894-1971）はスターリンの死後にソ連の最高指導者となり、冷戦期の東西対立の中心人物の一人でした。",
+    "etym_chain": [
+      { "node": "Khrushchyov", "sub": "ロシア語の姓", "era": "近代" },
+      { "node": "Khrushchev", "sub": "ソ連指導者の名", "era": "20世紀" },
+      { "node": "Khrushchev", "sub": "フルシチョフ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Nikita Khrushchev", "ja": "ニキータ・フルシチョフ" },
+      { "en": "the Cold War", "ja": "冷戦" },
+      { "en": "the Cuban Missile Crisis", "ja": "キューバ危機" },
+      { "en": "the Soviet Union", "ja": "ソビエト連邦" },
+      { "en": "Khrushchev's reforms", "ja": "フルシチョフの改革" },
+      { "en": "de-Stalinization", "ja": "スターリン批判・非スターリン化" }
+    ],
+    "related": [
+      { "en": "Soviet Union", "ja": "ソビエト連邦" },
+      { "en": "Cold War", "ja": "冷戦" },
+      { "en": "Russia", "ja": "ロシア" },
+      { "en": "politics", "ja": "政治" }
+    ],
+    "faq": [
+      { "q": "Khrushchev はどんな人ですか？", "a": "旧ソビエト連邦の指導者ニキータ・フルシチョフです。冷戦のさなかにソ連を率い、スターリン批判や宇宙開発を進めました。1962年のキューバ危機でも歴史に名を残しています。" },
+      { "q": "キューバ危機とは何ですか？", "a": "1962年、ソ連がキューバに核ミサイルを配備しようとし、アメリカと激しく対立した事件です。核戦争の瀬戸際まで緊張が高まりましたが、最終的に回避されました。" }
+    ],
+    "quiz": [
+      { "q": "___ led the Soviet Union during the Cuban Missile Crisis.（フルシチョフはキューバ危機の時にソ連を率いた）", "A": "Khrushchev", "B": "Kettle", "C": "Kernel", "D": "Keeper", "correct": "A" },
+      { "q": "Khrushchev はどの国の指導者だった？", "A": "ソビエト連邦", "B": "アメリカ", "C": "イギリス", "D": "中国", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Karnak",
+    "pron": "ˈkɑːrnæk",
+    "kana": "カルナック",
+    "hinshi": "固有名詞（遺跡・地名）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "アラビア語 Karnak（要塞化した村)",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "歴史・遺跡"],
+    "meaning_main": "カルナック（エジプトの巨大神殿群）",
+    "description": "Karnak はエジプトにある古代の巨大神殿群「カルナック神殿」を表す固有名詞。ナイル川沿いの古都テーベ（現ルクソール）にあり、数千年をかけて造られました。天まで届くような巨大な石柱が並ぶ大列柱室で知られる、世界最大級の宗教遺跡です。",
+    "keywords": ["Karnak 意味", "Karnak 発音", "カルナック 英語", "Karnak 神殿 エジプト", "Karnak 例文"],
+    "meanings": [
+      { "hinshi": "【固有名詞】カルナック", "note": "エジプト・ルクソールにある古代の巨大神殿群。" }
+    ],
+    "usages": [
+      { "title": "① カルナック（神殿）", "desc": "古代エジプトの神殿群。", "example_en": "Karnak is a huge ancient temple complex in Egypt.", "example_ja": "カルナックはエジプトの巨大な古代神殿群だ。" },
+      { "title": "② 巨大な石柱", "desc": "大列柱室が有名。", "example_en": "Karnak is famous for its giant stone columns.", "example_ja": "カルナックは巨大な石柱で有名だ。" },
+      { "title": "③ 数千年かけて建設", "desc": "何代もの王が造った。", "example_en": "Karnak was built over many centuries.", "example_ja": "カルナックは何世紀もかけて造られた。" }
+    ],
+    "warn": ["固有名詞なので大文字で始める。エジプトのルクソール(Luxor)にある。", "発音は /ˈkɑːrnæk/。古代都市テーベの一部。"],
+    "etym_note": "現在の地名はアラビア語 Karnak（要塞化した村）に由来します。古代エジプトでは主神アメンをまつる聖域で、歴代のファラオが増築を重ねて巨大化しました。",
+    "etym_chain": [
+      { "node": "Karnak", "sub": "要塞化した村", "era": "アラビア語" },
+      { "node": "Karnak", "sub": "カルナック神殿", "era": "近代英語" },
+      { "node": "Karnak", "sub": "カルナック", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the Temple of Karnak", "ja": "カルナック神殿" },
+      { "en": "the columns of Karnak", "ja": "カルナックの石柱" },
+      { "en": "ancient Karnak", "ja": "古代カルナック" },
+      { "en": "visit Karnak", "ja": "カルナックを訪れる" },
+      { "en": "the great hall of Karnak", "ja": "カルナックの大列柱室" },
+      { "en": "Karnak in Luxor", "ja": "ルクソールのカルナック" }
+    ],
+    "related": [
+      { "en": "Egypt", "ja": "エジプト" },
+      { "en": "temple", "ja": "神殿" },
+      { "en": "pharaoh", "ja": "ファラオ" },
+      { "en": "Luxor", "ja": "ルクソール" }
+    ],
+    "faq": [
+      { "q": "Karnak とは何ですか？", "a": "エジプトのルクソール（古代都市テーベ）にある古代の巨大神殿群です。数千年をかけて造られ、巨大な石柱が並ぶ大列柱室で知られる世界最大級の宗教遺跡です。" },
+      { "q": "Karnak はいつ造られましたか？", "a": "一度に造られたのではなく、古代エジプトの歴代のファラオが約2千年にわたって増築を重ねてできあがりました。" }
+    ],
+    "quiz": [
+      { "q": "___ is a vast ancient temple complex in Egypt.（カルナックはエジプトの広大な古代神殿群だ）", "A": "Karnak", "B": "Kettle", "C": "Kernel", "D": "Keeper", "correct": "A" },
+      { "q": "Karnak があるのはどの国？", "A": "エジプト", "B": "ギリシャ", "C": "インド", "D": "メキシコ", "correct": "A" }
+    ]
+  }
+]

@@ -1,0 +1,525 @@
+[
+  {
+    "english": "restroom",
+    "pron": "ˈrɛstruːm",
+    "kana": "レストルーム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rest（休息）＋ room（部屋）",
+    "ld_level": "準1級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "施設・日常"],
+    "meaning_main": "（米）（公共施設の）トイレ・化粧室",
+    "description": "restroom の意味・発音・例文・語源を解説。レストランや店などの公共施設にある「トイレ・化粧室」という、アメリカ英語で使う語の使い方と、英米の言い方の違いを紹介します。",
+    "keywords": ["restroom 意味", "restroom 発音", "トイレ", "化粧室"],
+    "meanings": [
+      { "hinshi": "【名詞】（米）（公共の）トイレ・化粧室", "note": "レストラン・店・空港などの公共施設にあるトイレを丁寧に指す語（主に米）。Where is the restroom?（お手洗いはどこですか）。英国では toilet / loo が一般的。" }
+    ],
+    "usages": [
+      { "title": "① 「お手洗いを尋ねる」として", "desc": "公共施設のトイレを表します。", "example_en": "Excuse me, where is the restroom?", "example_ja": "すみません、お手洗いはどこですか。" },
+      { "title": "② 「化粧室」として", "desc": "施設のトイレを表します。", "example_en": "The restrooms are located near the entrance.", "example_ja": "化粧室は入口の近くにあります。" }
+    ],
+    "warn": [
+      "restroom は『（米）公共施設のトイレ・化粧室』。rest（休息）＋ room。婉曲な言い方。",
+      "英国では toilet / loo、家庭のトイレは bathroom（米）とも言う。restroom は主に公共の場で使う。"
+    ],
+    "etym_note": "rest（『休息』、古英語 rest より）＋ room（『部屋』、古英語 rūm「広い場所」より）から成り、直訳は『休憩室』。『トイレ』を直接言わない婉曲表現として20世紀のアメリカで定着しました。",
+    "etym_chain": [
+      { "node": "rest + room", "sub": "休息＋部屋", "era": "英語" },
+      { "node": "rest room", "sub": "休憩室（婉曲）", "era": "20世紀米英語" },
+      { "node": "restroom", "sub": "トイレ・化粧室", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "where is the restroom?", "ja": "お手洗いはどこですか" },
+      { "en": "the men's restroom", "ja": "男性用トイレ" },
+      { "en": "the women's restroom", "ja": "女性用トイレ" },
+      { "en": "a public restroom", "ja": "公衆トイレ" },
+      { "en": "use the restroom", "ja": "トイレを使う" },
+      { "en": "a restroom sign", "ja": "トイレの標識" }
+    ],
+    "related": [
+      { "en": "bathroom", "ja": "（米）浴室・トイレ" },
+      { "en": "toilet", "ja": "トイレ・便器" },
+      { "en": "washroom", "ja": "（加）洗面所・トイレ" },
+      { "en": "lavatory", "ja": "（改まった）洗面所・トイレ" }
+    ],
+    "faq": [
+      { "q": "restroom とはどんな意味？", "a": "レストランや店、空港などの公共施設にある『トイレ・化粧室』を丁寧に指すアメリカ英語です。Where is the restroom?（お手洗いはどこですか）のように使います。" },
+      { "q": "restroom と bathroom の違いは？", "a": "restroom は主に『公共施設のトイレ』、bathroom（米）は『家庭の浴室・トイレ』を指すことが多いです。英国では toilet や loo が一般的です。" }
+    ],
+    "quiz": [
+      { "q": "Excuse me, where is the ___?（お手洗い）", "A": "restroom", "B": "restore の回復", "C": "restaurant のレストラン", "D": "rest area の休憩所全体", "correct": "A" },
+      { "q": "restroom は何と何を合わせた語？", "A": "rest（休息）と room（部屋）", "B": "rest と broom", "C": "rust と room", "D": "rest と roam", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rung",
+    "pron": "rʌŋ",
+    "kana": "ラング",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 hrung（横木・棒）より",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "日常・比喩"],
+    "meaning_main": "はしごの横木・段／（地位の）段階",
+    "description": "rung の意味・発音・例文・語源を解説。はしごの足をかける「横木・段」、また比喩で「（出世や社会の）段階」という語の使い方を紹介します。ring の過去分詞 rung との違いも解説。",
+    "keywords": ["rung 意味", "rung 発音", "はしごの横木", "段階"],
+    "meanings": [
+      { "hinshi": "【名詞】はしごの横木・段", "note": "はしごや脚立で足をかける横棒。the bottom rung（一番下の段）。" },
+      { "hinshi": "【名詞】（地位・出世の）段階", "note": "比喩で、階層・出世のはしごの一段。climb the career ladder rung by rung（一段ずつ出世していく）。" }
+    ],
+    "usages": [
+      { "title": "① 「はしごの段」として", "desc": "足をかける横木を表します。", "example_en": "He climbed to the top rung of the ladder.", "example_ja": "彼ははしごの一番上の段まで登った。" },
+      { "title": "② 比喩「出世の段階」として", "desc": "階層の一段を表します。", "example_en": "She started on the bottom rung of the company.", "example_ja": "彼女は会社の一番下の段階から始めた。" }
+    ],
+    "warn": [
+      "rung は名詞『はしごの横木・段／（地位の）段階』。ring（鳴る）の過去分詞 rung と同じ綴りだが別語源。",
+      "the top / bottom rung（最上段／最下段）や、比喩で the social ladder（社会の階段）の rung のように使う。"
+    ],
+    "etym_note": "古英語 hrung（『横木・棒』）に由来します。ring（鳴る）の過去分詞 rung（have rung）とは同綴りですが、まったく別の語源です。",
+    "etym_chain": [
+      { "node": "hrung", "sub": "横木・棒", "era": "古英語" },
+      { "node": "rung", "sub": "はしごの横木", "era": "中英語" },
+      { "node": "rung", "sub": "横木・段・段階", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the top rung", "ja": "一番上の段" },
+      { "en": "the bottom rung", "ja": "一番下の段" },
+      { "en": "climb the ladder rung by rung", "ja": "一段ずつ登る" },
+      { "en": "a rung of the ladder", "ja": "はしごの一段" },
+      { "en": "the next rung up", "ja": "一段上" },
+      { "en": "a broken rung", "ja": "壊れた横木" }
+    ],
+    "related": [
+      { "en": "ladder", "ja": "はしご・出世の階段" },
+      { "en": "step", "ja": "段・ステップ" },
+      { "en": "tier", "ja": "階層・段" },
+      { "en": "level", "ja": "水準・段階" }
+    ],
+    "faq": [
+      { "q": "rung とはどんな意味？", "a": "はしごや脚立で足をかける『横木・段』のことです。また比喩で『（出世や社会の）段階』も指します。He climbed to the top rung.（一番上の段まで登った）/ the bottom rung of the company（会社の一番下の段階）のように使います。" },
+      { "q": "rung は ring（鳴る）の過去分詞と同じ？", "a": "綴りは同じ rung ですが別語源です。名詞の rung（はしごの横木）は古英語 hrung に由来し、動詞 ring（have rung）とは無関係です。" }
+    ],
+    "quiz": [
+      { "q": "He climbed to the top ___ of the ladder.（段）", "A": "rung", "B": "lung の肺", "C": "sung（sing の過去分詞）", "D": "hung（hang の過去分詞）", "correct": "A" },
+      { "q": "the bottom rung の比喩的な意味はどれ？", "A": "（組織・社会の）一番下の段階", "B": "最も高い地位", "C": "中間管理職", "D": "退職", "correct": "A" }
+    ]
+  },
+  {
+    "english": "roadwork",
+    "pron": "ˈrəʊdwɜːk",
+    "kana": "ロードワーク",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "road（道路）＋ work（作業）",
+    "ld_level": "準1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "交通・スポーツ"],
+    "meaning_main": "道路工事／（スポーツ）ロードワーク（走り込み）",
+    "description": "roadwork の意味・発音・例文・語源を解説。道路の「工事・補修作業」、またボクサーなどの「走り込み（ロードワーク）」という語の使い方を紹介します。英米での使い方の違いも解説。",
+    "keywords": ["roadwork 意味", "roadwork 発音", "道路工事", "走り込み"],
+    "meanings": [
+      { "hinshi": "【名詞】道路工事・補修作業", "note": "道路の建設・補修の作業。英国では複数形 roadworks で『道路工事（現場）』を指すことが多い。" },
+      { "hinshi": "【名詞】（スポーツ）ロードワーク・走り込み", "note": "ボクサーやランナーが屋外で行う長距離の走り込み訓練。" }
+    ],
+    "usages": [
+      { "title": "① 「道路工事」として", "desc": "工事による渋滞などを表します。", "example_en": "There were delays because of roadwork on the highway.", "example_ja": "幹線道路の工事で遅れが出ていた。" },
+      { "title": "② スポーツ「走り込み」として", "desc": "屋外の走行訓練を表します。", "example_en": "The boxer does roadwork every morning.", "example_ja": "そのボクサーは毎朝ロードワークをする。" }
+    ],
+    "warn": [
+      "roadwork は『道路工事／（スポーツ）走り込み』。road（道路）＋ work（作業）。",
+      "英国では道路工事を roadworks（複数）と言うことが多い。スポーツの『ロードワーク（走り込み）』は不可算。"
+    ],
+    "etym_note": "road（『道路』、古英語 rād より）＋ work（『作業・仕事』、古英語 weorc より）から成り、「道路の作業」を意味します。スポーツの用法は『道（road）を走る訓練』から来ています。",
+    "etym_chain": [
+      { "node": "road + work", "sub": "道路＋作業", "era": "英語" },
+      { "node": "roadwork", "sub": "道路工事", "era": "近代英語" },
+      { "node": "roadwork", "sub": "道路工事・走り込み", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "because of roadwork", "ja": "道路工事のため" },
+      { "en": "roadwork ahead", "ja": "この先道路工事" },
+      { "en": "delays due to roadworks", "ja": "道路工事による遅れ" },
+      { "en": "do roadwork", "ja": "走り込みをする" },
+      { "en": "early-morning roadwork", "ja": "早朝の走り込み" },
+      { "en": "a boxer's roadwork", "ja": "ボクサーの走り込み" }
+    ],
+    "related": [
+      { "en": "construction", "ja": "建設・工事" },
+      { "en": "detour", "ja": "迂回・回り道" },
+      { "en": "training", "ja": "訓練・トレーニング" },
+      { "en": "jogging", "ja": "ジョギング" }
+    ],
+    "faq": [
+      { "q": "roadwork とはどんな意味？", "a": "道路の『工事・補修作業』、またボクサーやランナーの『走り込み（ロードワーク）』のことです。delays because of roadwork（道路工事による遅れ）/ The boxer does roadwork every morning.（毎朝走り込みをする）のように使います。" },
+      { "q": "roadwork と roadworks の違いは？", "a": "アメリカでは道路工事を roadwork（不可算）と言うことが多く、イギリスでは roadworks（複数）で『道路工事（現場）』を指すのが一般的です。" }
+    ],
+    "quiz": [
+      { "q": "The boxer does ___ every morning.（走り込み）", "A": "roadwork", "B": "homework の宿題", "C": "artwork の芸術作品", "D": "network のネットワーク", "correct": "A" },
+      { "q": "roadwork のスポーツでの意味はどれ？", "A": "屋外の走り込み訓練", "B": "筋力トレーニング", "C": "ストレッチ", "D": "水泳", "correct": "A" }
+    ]
+  },
+  {
+    "english": "raceway",
+    "pron": "ˈreɪsweɪ",
+    "kana": "レースウェイ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "race（競走・水路）＋ way（道）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "スポーツ・工業"],
+    "meaning_main": "レース場・（水や電線の）通り道",
+    "description": "raceway の意味・発音・例文・語源を解説。自動車などの「レース場・サーキット」、また水を流す「水路」や配線を通す「配線ダクト」という語の使い方を紹介します。",
+    "keywords": ["raceway 意味", "raceway 発音", "レース場", "水路"],
+    "meanings": [
+      { "hinshi": "【名詞】レース場・競走路", "note": "自動車・オートバイ・馬などのレースを行うコース・サーキット。a dirt raceway（未舗装のレース場）。" },
+      { "hinshi": "【名詞】（水・電線の）通り道", "note": "水を流す水路（水車・養魚場など）、また電線・ケーブルを通す配線ダクト。" }
+    ],
+    "usages": [
+      { "title": "① 「レース場」として", "desc": "競走コースを表します。", "example_en": "The cars roared around the raceway.", "example_ja": "車がレース場を轟音を立てて回った。" },
+      { "title": "② 「配線ダクト」として", "desc": "電線の通り道を表します。", "example_en": "The cables run through a raceway in the wall.", "example_ja": "ケーブルは壁の中の配線ダクトを通っている。" }
+    ],
+    "warn": [
+      "raceway は『レース場・競走路／（水・電線の）通り道』。race（競走・水路）＋ way（道）。",
+      "race には『競走』のほか『（勢いよく流れる）水路』の意味があり、raceway も両方に対応する。"
+    ],
+    "etym_note": "race（『競走』のほか『（水車などの）水路・急流』、古ノルド語 rás「走り・流れ」より）＋ way（『道』、古英語 weg より）から成り、「走る・流れる道」を意味します。",
+    "etym_chain": [
+      { "node": "rás", "sub": "走り・流れ", "era": "古ノルド語" },
+      { "node": "race", "sub": "競走・水路", "era": "中英語" },
+      { "node": "raceway", "sub": "レース場・水路", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "around the raceway", "ja": "レース場を回って" },
+      { "en": "a dirt raceway", "ja": "未舗装のレース場" },
+      { "en": "a motor raceway", "ja": "自動車レース場" },
+      { "en": "a cable raceway", "ja": "配線ダクト" },
+      { "en": "water flows down the raceway", "ja": "水が水路を流れ下る" },
+      { "en": "a fish raceway", "ja": "養魚用の水路" }
+    ],
+    "related": [
+      { "en": "racetrack", "ja": "競走路・サーキット" },
+      { "en": "circuit", "ja": "サーキット・回路" },
+      { "en": "channel", "ja": "水路・経路" },
+      { "en": "conduit", "ja": "導管・配線管" }
+    ],
+    "faq": [
+      { "q": "raceway とはどんな意味？", "a": "自動車などの『レース場・競走路』、また水を流す『水路』や電線を通す『配線ダクト』のことです。The cars roared around the raceway.（車がレース場を回った）のように使います。" },
+      { "q": "なぜ水路も raceway と呼ぶ？", "a": "race には『競走』のほか『（勢いよく流れる）水路・急流』という意味があるためです。水車の水路や養魚場の流水路も raceway と呼ばれます。" }
+    ],
+    "quiz": [
+      { "q": "The cars roared around the ___.（レース場）", "A": "raceway", "B": "railway の鉄道", "C": "runway の滑走路", "D": "gateway の出入口", "correct": "A" },
+      { "q": "raceway が『水路』も指すのはなぜ？", "A": "race に『水路・急流』の意味があるから", "B": "water の略だから", "C": "偶然", "D": "rain に由来するから", "correct": "A" }
+    ]
+  },
+  {
+    "english": "redcurrant",
+    "pron": "ˌrɛdˈkʌrənt",
+    "kana": "レッドカラント",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "red（赤い）＋ currant（（干し）ブドウ・小さな実）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "果物・料理"],
+    "meaning_main": "レッドカラント（赤い房状の小さな酸っぱい実）",
+    "description": "redcurrant の意味・発音・例文・語源を解説。房状に実る赤くて酸っぱい小さな果実「レッドカラント（赤スグリ）」という、果物や料理で使う語の使い方を紹介します。",
+    "keywords": ["redcurrant 意味", "redcurrant 発音", "赤スグリ", "レッドカラント"],
+    "meanings": [
+      { "hinshi": "【名詞】レッドカラント・赤スグリ", "note": "スグリ科の低木になる、透き通った赤い小さな実。房状に実り、酸味が強い。ジャム・ゼリー・ソースや飾りに使う。red（赤い）＋ currant（小さな実）。" }
+    ],
+    "usages": [
+      { "title": "① 「赤い房状の実」として", "desc": "果実を表します。", "example_en": "She topped the tart with fresh redcurrants.", "example_ja": "彼女はタルトに新鮮なレッドカラントを飾った。" },
+      { "title": "② 「ゼリー・ソース」として", "desc": "料理への利用を表します。", "example_en": "Redcurrant jelly is often served with lamb.", "example_ja": "レッドカラントゼリーはよくラム肉に添えられる。" }
+    ],
+    "warn": [
+      "redcurrant は『レッドカラント・赤スグリ（赤い房状の酸っぱい小さな実）』。red＋currant。red currant と2語でも書く。",
+      "currant（カラント）は『干しブドウ』も指すが、redcurrant/blackcurrant は生のスグリの実。"
+    ],
+    "etym_note": "red（『赤い』）＋ currant（『小さな実・（干し）ブドウ』、ギリシャの都市 Corinth「コリント」産の干しブドウ raisins of Corauntz に由来）から成ります。もとはコリント産の干しブドウを指し、のちに似た小さな実（スグリ）にも使われました。",
+    "etym_chain": [
+      { "node": "Corinth", "sub": "コリント（干しブドウの産地）", "era": "地名" },
+      { "node": "currant", "sub": "小さな実・干しブドウ", "era": "中英語" },
+      { "node": "redcurrant", "sub": "赤スグリ", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "fresh redcurrants", "ja": "新鮮なレッドカラント" },
+      { "en": "redcurrant jelly", "ja": "レッドカラントゼリー" },
+      { "en": "a redcurrant bush", "ja": "赤スグリの木" },
+      { "en": "a sprig of redcurrants", "ja": "レッドカラントのひと房" },
+      { "en": "redcurrant sauce", "ja": "レッドカラントソース" },
+      { "en": "tart redcurrants", "ja": "酸っぱいレッドカラント" }
+    ],
+    "related": [
+      { "en": "blackcurrant", "ja": "ブラックカラント・黒スグリ" },
+      { "en": "currant", "ja": "カラント・小さな実" },
+      { "en": "gooseberry", "ja": "グーズベリー・西洋スグリ" },
+      { "en": "berry", "ja": "ベリー・小さな実" }
+    ],
+    "faq": [
+      { "q": "redcurrant とはどんな意味？", "a": "房状に実る、透き通った赤くて酸っぱい小さな果実『レッドカラント（赤スグリ）』のことです。ジャムやゼリー、ソースに使います。Redcurrant jelly is served with lamb.（レッドカラントゼリーはラム肉に添えられる）のように使います。" },
+      { "q": "currant とレーズンの関係は？", "a": "currant はもともとギリシャのコリント産の小さな干しブドウを指しました。のちに、それに似た小さな実（レッドカラント・ブラックカラントなどのスグリ）にも同じ語が使われるようになりました。" }
+    ],
+    "quiz": [
+      { "q": "She topped the tart with fresh ___s.（レッドカラント）", "A": "redcurrant", "B": "restaurant のレストラン", "C": "recurrent の再発する", "D": "redcoat の（英）赤服の兵士", "correct": "A" },
+      { "q": "redcurrant は何と何を合わせた語？", "A": "red（赤い）と currant（小さな実）", "B": "red と current（流れ）", "C": "read と currant", "D": "red と carat", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reedbed",
+    "pron": "ˈriːdbɛd",
+    "kana": "リードベッド",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "reed（アシ）＋ bed（群生地・床）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "自然・環境"],
+    "meaning_main": "アシ原・ヨシ原（アシの群生する湿地）",
+    "description": "reedbed の意味・発音・例文・語源を解説。アシ（ヨシ）が一面に群生する湿地「アシ原・ヨシ原」という、自然や環境で使う語の使い方と、水質浄化への利用を紹介します。",
+    "keywords": ["reedbed 意味", "reedbed 発音", "アシ原", "ヨシ原"],
+    "meanings": [
+      { "hinshi": "【名詞】アシ原・ヨシ原", "note": "アシ（ヨシ）が密に群生する湿地。多くの鳥や生き物のすみか。水を浄化する働きがあり、人工のアシ原（reed bed）は排水処理にも使われる。reed（アシ）＋ bed（群生地）。" }
+    ],
+    "usages": [
+      { "title": "① 「湿地の生息地」として", "desc": "アシの群生地を表します。", "example_en": "Rare birds nest in the reedbed by the lake.", "example_ja": "湖のそばのアシ原に珍しい鳥が巣を作る。" },
+      { "title": "② 「水質浄化」として", "desc": "自然浄化への利用を表します。", "example_en": "A reedbed system filters the wastewater naturally.", "example_ja": "アシ原方式は排水を自然に浄化する。" }
+    ],
+    "warn": [
+      "reedbed は『アシ原・ヨシ原（アシの群生する湿地）』。reed（アシ）＋ bed（群生地・床）。reed bed と2語でも書く。",
+      "ここでの bed は『群生地・（植物が生える）床』の意味（flowerbed＝花壇 と同じ用法）。"
+    ],
+    "etym_note": "reed（『アシ・葦』、古英語 hrēod より）＋ bed（『（植物の）群生地・床』、古英語 bedd より。flowerbed と同じ用法）から成り、「アシの群生地」を意味します。",
+    "etym_chain": [
+      { "node": "reed + bed", "sub": "アシ＋群生地", "era": "英語" },
+      { "node": "reedbed", "sub": "アシ原", "era": "近代英語" },
+      { "node": "reedbed", "sub": "アシ原・ヨシ原", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a reedbed by the lake", "ja": "湖のそばのアシ原" },
+      { "en": "nest in the reedbed", "ja": "アシ原に巣を作る" },
+      { "en": "a reedbed habitat", "ja": "アシ原の生息地" },
+      { "en": "a reedbed system", "ja": "アシ原方式（水質浄化）" },
+      { "en": "restore the reedbed", "ja": "アシ原を再生する" },
+      { "en": "a dense reedbed", "ja": "密生したアシ原" }
+    ],
+    "related": [
+      { "en": "reed", "ja": "アシ・葦" },
+      { "en": "marsh", "ja": "沼地・湿地" },
+      { "en": "wetland", "ja": "湿地" },
+      { "en": "habitat", "ja": "生息地" }
+    ],
+    "faq": [
+      { "q": "reedbed とはどんな意味？", "a": "アシ（ヨシ）が密に群生する湿地『アシ原・ヨシ原』のことです。多くの鳥や生き物のすみかになります。Rare birds nest in the reedbed.（アシ原に珍しい鳥が巣を作る）のように使います。" },
+      { "q": "reedbed の水質浄化とは？", "a": "アシ原には水中の汚れや栄養分を吸収・分解する働きがあり、人工のアシ原（reed bed system）を作って排水を自然に浄化する仕組みにも利用されています。" }
+    ],
+    "quiz": [
+      { "q": "Rare birds nest in the ___ by the lake.（アシ原）", "A": "reedbed", "B": "seabed の海底", "C": "flowerbed の花壇", "D": "riverbed の川底", "correct": "A" },
+      { "q": "reedbed の bed はどんな意味？", "A": "群生地・（植物が生える）床", "B": "寝台だけ", "C": "川", "D": "海", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ryegrass",
+    "pron": "ˈraɪɡrɑːs",
+    "kana": "ライグラス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rye（ライ麦）＋ grass（草）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "植物・農業"],
+    "meaning_main": "ライグラス（牧草・芝に使うイネ科の草）",
+    "description": "ryegrass の意味・発音・例文・語源を解説。牧草や芝生に広く使われるイネ科の草「ライグラス」という、植物や農業で使う語の使い方を紹介します。",
+    "keywords": ["ryegrass 意味", "ryegrass 発音", "ライグラス", "牧草"],
+    "meanings": [
+      { "hinshi": "【名詞】ライグラス", "note": "イネ科ドクムギ属の草。生育が早く丈夫で、牧草・芝生・緑化に広く使われる。perennial ryegrass（ペレニアルライグラス＝多年生）など。rye（ライ麦）＋ grass（草）だが、ライ麦とは別。" }
+    ],
+    "usages": [
+      { "title": "① 「牧草として」として", "desc": "家畜の飼料を表します。", "example_en": "The pasture was sown with ryegrass.", "example_ja": "その牧草地にはライグラスがまかれた。" },
+      { "title": "② 「芝として」として", "desc": "芝生への利用を表します。", "example_en": "Ryegrass is popular for lawns and sports fields.", "example_ja": "ライグラスは芝生や競技場に好んで使われる。" }
+    ],
+    "warn": [
+      "ryegrass は『ライグラス（牧草・芝に使うイネ科の草）』。rye（ライ麦）＋ grass だが、穀物のライ麦（rye）とは別の草。",
+      "生育が早く丈夫なため、牧草・芝生・冬の緑化（オーバーシード）に広く使われる。"
+    ],
+    "etym_note": "rye（『ライ麦』、古英語 ryge より）＋ grass（『草』、古英語 græs より）から成ります。ライ麦に似た穂をつける草であることから名づけられましたが、穀物のライ麦とは別種です。",
+    "etym_chain": [
+      { "node": "rye + grass", "sub": "ライ麦＋草", "era": "英語" },
+      { "node": "ryegrass", "sub": "ライグラス", "era": "近代英語" },
+      { "node": "ryegrass", "sub": "ライグラス（牧草・芝）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "perennial ryegrass", "ja": "ペレニアルライグラス（多年生）" },
+      { "en": "annual ryegrass", "ja": "イタリアンライグラス（一年生）" },
+      { "en": "sow ryegrass", "ja": "ライグラスをまく" },
+      { "en": "a ryegrass pasture", "ja": "ライグラスの牧草地" },
+      { "en": "ryegrass for lawns", "ja": "芝生用のライグラス" },
+      { "en": "overseed with ryegrass", "ja": "ライグラスで追いまきする" }
+    ],
+    "related": [
+      { "en": "grass", "ja": "草・芝" },
+      { "en": "pasture", "ja": "牧草地" },
+      { "en": "turf", "ja": "芝・芝地" },
+      { "en": "forage", "ja": "飼料・まぐさ" }
+    ],
+    "faq": [
+      { "q": "ryegrass とはどんな意味？", "a": "牧草や芝生、緑化に広く使われるイネ科の草『ライグラス』のことです。The pasture was sown with ryegrass.（牧草地にライグラスがまかれた）のように使います。" },
+      { "q": "ryegrass は穀物のライ麦（rye）と同じ？", "a": "いいえ、別の植物です。ライ麦に似た穂をつけることから ryegrass（ライ麦草）と呼ばれますが、穀物のライ麦とは別種の、牧草・芝用の草です。" }
+    ],
+    "quiz": [
+      { "q": "The pasture was sown with ___.（ライグラス）", "A": "ryegrass", "B": "crabgrass のメヒシバ（雑草）とは別で正解", "C": "seagrass の海草", "D": "bluegrass のブルーグラス（別の草・音楽）", "correct": "A" },
+      { "q": "ryegrass はおもに何に使う？", "A": "牧草・芝生", "B": "パンの材料", "C": "染料", "D": "紙の原料", "correct": "A" }
+    ]
+  },
+  {
+    "english": "ratcatcher",
+    "pron": "ˈrætkætʃə",
+    "kana": "ラットキャッチャー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "rat（ネズミ）＋ catcher（捕まえる人）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "職業・歴史"],
+    "meaning_main": "ネズミ捕り（を職業とする人）",
+    "description": "ratcatcher の意味・発音・例文・語源を解説。ネズミを駆除することを職業とする人「ネズミ捕り」という、職業や歴史で使う語の使い方を紹介します。",
+    "keywords": ["ratcatcher 意味", "ratcatcher 発音", "ネズミ捕り", "catcher 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】ネズミ捕り（を職業とする人）", "note": "ネズミを捕らえて駆除することを仕事にする人。かつては都市の衛生を守る職業だった。rat（ネズミ）＋ catcher（捕まえる人）。現代では pest controller（害虫・害獣駆除業者）が一般的。" }
+    ],
+    "usages": [
+      { "title": "① 「駆除の職人」として", "desc": "ネズミ駆除業を表します。", "example_en": "In Victorian times, the ratcatcher was a common trade.", "example_ja": "ビクトリア朝時代、ネズミ捕りはよくある職業だった。" },
+      { "title": "② 「駆除を頼む」として", "desc": "害獣駆除を表します。", "example_en": "They hired a ratcatcher to deal with the infestation.", "example_ja": "彼らは大量発生に対処するためネズミ捕りを雇った。" }
+    ],
+    "warn": [
+      "ratcatcher は『ネズミ捕り（を職業とする人）』。rat（ネズミ）＋ catcher（捕まえる人）。",
+      "歴史的な職業名で、現代では pest controller（害獣・害虫駆除業者）と呼ぶことが多い。"
+    ],
+    "etym_note": "rat（『ネズミ』、古英語 ræt より）＋ catcher（catch「捕まえる」＋ -er「する人」）から成り、「ネズミを捕まえる人」を意味します。",
+    "etym_chain": [
+      { "node": "rat + catcher", "sub": "ネズミ＋捕まえる人", "era": "英語" },
+      { "node": "ratcatcher", "sub": "ネズミ捕り", "era": "中英語" },
+      { "node": "ratcatcher", "sub": "ネズミ捕り（職業）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "hire a ratcatcher", "ja": "ネズミ捕りを雇う" },
+      { "en": "the town ratcatcher", "ja": "町のネズミ捕り" },
+      { "en": "a ratcatcher's trade", "ja": "ネズミ捕りの仕事" },
+      { "en": "work as a ratcatcher", "ja": "ネズミ捕りとして働く" },
+      { "en": "a skilled ratcatcher", "ja": "腕のいいネズミ捕り" },
+      { "en": "the ratcatcher's dog", "ja": "ネズミ捕りの犬" }
+    ],
+    "related": [
+      { "en": "catcher", "ja": "捕まえる人・捕手" },
+      { "en": "pest control", "ja": "害虫・害獣駆除" },
+      { "en": "exterminator", "ja": "駆除業者" },
+      { "en": "vermin", "ja": "害獣・害虫" }
+    ],
+    "faq": [
+      { "q": "ratcatcher とはどんな意味？", "a": "ネズミを捕らえて駆除することを職業とする人『ネズミ捕り』のことです。In Victorian times, the ratcatcher was a common trade.（ビクトリア朝時代、ネズミ捕りはよくある職業だった）のように使います。" },
+      { "q": "現代では ratcatcher を何と呼ぶ？", "a": "現代では pest controller や exterminator（害虫・害獣駆除業者）と呼ぶのが一般的です。ratcatcher は主に歴史的・古風な職業名として使われます。" }
+    ],
+    "quiz": [
+      { "q": "In Victorian times, the ___ was a common trade.（ネズミ捕り）", "A": "ratcatcher", "B": "dogcatcher の野犬捕獲人", "C": "flycatcher のヒタキ（鳥）", "D": "dreamcatcher のドリームキャッチャー", "correct": "A" },
+      { "q": "ratcatcher は何と何を合わせた語？", "A": "rat（ネズミ）と catcher（捕まえる人）", "B": "rate と catcher", "C": "rat と catch のみ", "D": "rat と teacher", "correct": "A" }
+    ]
+  },
+  {
+    "english": "rototiller",
+    "pron": "ˈrəʊtəʊtɪlə",
+    "kana": "ロートティラー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "roto-（回転）＋ tiller（耕す機械）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "農業・園芸"],
+    "meaning_main": "ロータリー耕運機（回転刃で土を耕す機械）",
+    "description": "rototiller の意味・発音・例文・語源を解説。回転する刃で土を掘り起こし砕く機械「ロータリー耕運機（ロートティラー）」という、農業や園芸で使う語の使い方を紹介します。",
+    "keywords": ["rototiller 意味", "rototiller 発音", "耕運機", "till 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】ロータリー耕運機", "note": "エンジンで回転する刃（爪）で土を掘り起こし細かく砕く機械。畑や庭の土づくりに使う。もと商標。roto-（回転）＋ tiller（耕す人・機械）。英国では rotavator とも。" }
+    ],
+    "usages": [
+      { "title": "① 「土を耕す機械」として", "desc": "耕運機を表します。", "example_en": "He used a rototiller to break up the garden soil.", "example_ja": "彼は庭の土を砕くのに耕運機を使った。" },
+      { "title": "② 「畑の準備」として", "desc": "土づくりを表します。", "example_en": "Run the rototiller over the plot before planting.", "example_ja": "植える前にその区画を耕運機でならしなさい。" }
+    ],
+    "warn": [
+      "rototiller は『ロータリー耕運機』。roto-（回転）＋ tiller（耕す機械）。もと商標で、一般名詞化した語。",
+      "till は動詞『（土を）耕す』。tiller は『耕す人・耕す機械』。英国では rotavator とも呼ぶ。"
+    ],
+    "etym_note": "roto-（『回転（する）』、rotary「回転式の」より）＋ tiller（till「（土を）耕す」＋ -er）から成り、「回転して耕す機械」を意味します。rotate（回転する）や till（耕す）と同じ語根です。",
+    "etym_chain": [
+      { "node": "roto- + tiller", "sub": "回転＋耕す機械", "era": "英語" },
+      { "node": "Rototiller", "sub": "ロートティラー（商標）", "era": "20世紀英語" },
+      { "node": "rototiller", "sub": "ロータリー耕運機", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "use a rototiller", "ja": "耕運機を使う" },
+      { "en": "run the rototiller", "ja": "耕運機をかける" },
+      { "en": "till with a rototiller", "ja": "耕運機で耕す" },
+      { "en": "a gas-powered rototiller", "ja": "ガソリン式の耕運機" },
+      { "en": "rent a rototiller", "ja": "耕運機を借りる" },
+      { "en": "break up soil with a rototiller", "ja": "耕運機で土を砕く" }
+    ],
+    "related": [
+      { "en": "till", "ja": "（土を）耕す" },
+      { "en": "tiller", "ja": "耕す人・耕運機" },
+      { "en": "cultivator", "ja": "耕運機・中耕機" },
+      { "en": "plow", "ja": "すき・耕す" }
+    ],
+    "faq": [
+      { "q": "rototiller とはどんな意味？", "a": "エンジンで回転する刃で土を掘り起こし細かく砕く機械『ロータリー耕運機』のことです。He used a rototiller to break up the soil.（土を砕くのに耕運機を使った）のように使います。" },
+      { "q": "rototiller の till はどんな意味？", "a": "動詞 till は『（土を）耕す』という意味です。roto-（回転）＋ tiller（耕す機械）で、『回転して土を耕す機械』を表します。英国では rotavator とも呼ばれます。" }
+    ],
+    "quiz": [
+      { "q": "He used a ___ to break up the garden soil.（耕運機）", "A": "rototiller", "B": "propeller のプロペラ", "C": "caterpillar の毛虫", "D": "sprinkler のスプリンクラー", "correct": "A" },
+      { "q": "rototiller の till はどんな意味？", "A": "（土を）耕す", "B": "レジ", "C": "〜まで", "D": "傾ける", "correct": "A" }
+    ]
+  },
+  {
+    "english": "reshuffling",
+    "pron": "ˌriːˈʃʌflɪŋ",
+    "kana": "リシャッフリング",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "re-（再び）＋ shuffling（かき混ぜること）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "政治・組織"],
+    "meaning_main": "（人員・組織の）改造・再編・入れ替え",
+    "description": "reshuffling の意味・発音・例文・語源を解説。内閣や組織の人員を「入れ替えること・改造・再編」という、政治や組織で使う語の使い方を紹介します。動詞 reshuffle と cabinet reshuffle も解説。",
+    "keywords": ["reshuffling 意味", "reshuffling 発音", "内閣改造", "reshuffle 意味"],
+    "meanings": [
+      { "hinshi": "【名詞】（人員・組織の）改造・再編・入れ替え", "note": "組織の役職・担当・順序などを入れ替えること。特に内閣改造（cabinet reshuffle）で有名。トランプを『切り直す』ように配置を組み替えるイメージ。動詞は reshuffle。" }
+    ],
+    "usages": [
+      { "title": "① 「内閣改造」として", "desc": "閣僚の入れ替えを表します。", "example_en": "The prime minister announced a cabinet reshuffling.", "example_ja": "首相は内閣改造を発表した。" },
+      { "title": "② 「組織の再編」として", "desc": "人員の組み替えを表します。", "example_en": "A management reshuffling changed several key roles.", "example_ja": "経営陣の再編でいくつかの重要な役職が変わった。" }
+    ],
+    "warn": [
+      "reshuffling は『（人員・組織の）改造・再編・入れ替え』。re-＋ shuffling。動詞は reshuffle。名詞 reshuffle も使う。",
+      "a cabinet reshuffle（内閣改造）が定番。トランプを切り直す shuffle が語源のイメージ。"
+    ],
+    "etym_note": "re-（再び）＋ shuffling（shuffle「（トランプを）切る・足を引きずって歩く・かき混ぜる」、由来は不確か）から成り、「再びかき混ぜて並べ替えること」を意味します。",
+    "etym_chain": [
+      { "node": "shuffle", "sub": "（トランプを）切る・かき混ぜる", "era": "近代英語" },
+      { "node": "shuffling", "sub": "かき混ぜること", "era": "近代英語" },
+      { "node": "reshuffling", "sub": "改造・再編・入れ替え", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a cabinet reshuffling", "ja": "内閣改造" },
+      { "en": "a management reshuffling", "ja": "経営陣の再編" },
+      { "en": "announce a reshuffling", "ja": "改造・再編を発表する" },
+      { "en": "a major reshuffling", "ja": "大規模な入れ替え" },
+      { "en": "a reshuffling of staff", "ja": "人員の入れ替え" },
+      { "en": "a reshuffling of priorities", "ja": "優先順位の組み替え" }
+    ],
+    "related": [
+      { "en": "reshuffle", "ja": "改造する・入れ替える（名詞・動詞）" },
+      { "en": "shuffle", "ja": "（トランプを）切る・かき混ぜる" },
+      { "en": "reorganization", "ja": "再編成" },
+      { "en": "shake-up", "ja": "（組織の）大改革・刷新" }
+    ],
+    "faq": [
+      { "q": "reshuffling とはどんな意味？", "a": "組織の役職・担当・人員などを『入れ替えること（改造・再編）』です。特に内閣改造（cabinet reshuffling）で使われます。The prime minister announced a cabinet reshuffling.（首相は内閣改造を発表した）のように使います。動詞は reshuffle です。" },
+      { "q": "なぜ shuffle（トランプを切る）が語源？", "a": "トランプを切り直して並べ替えるように、組織の人員や役職の配置を組み替えることから、reshuffle（再びかき混ぜる）が『改造・再編』の意味になりました。" }
+    ],
+    "quiz": [
+      { "q": "The prime minister announced a cabinet ___.（改造）", "A": "reshuffling", "B": "reshaping の作り直し", "C": "researching の研究", "D": "reserving の予約", "correct": "A" },
+      { "q": "reshuffling のもとになった shuffle の意味はどれ？", "A": "（トランプを）切る・かき混ぜる", "B": "走る", "C": "叫ぶ", "D": "光る", "correct": "A" }
+    ]
+  }
+]

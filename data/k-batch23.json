@@ -1,0 +1,502 @@
+[
+  {
+    "english": "Kremlin",
+    "pron": "ˈkremlɪn",
+    "kana": "クレムリン",
+    "hinshi": "固有名詞（建造物・地名）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ロシア語 kreml（城塞)",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "地理・政治"],
+    "meaning_main": "クレムリン（モスクワの城塞。ロシア政府の象徴）",
+    "description": "Kremlin はロシアの首都モスクワにある城塞「クレムリン」を表す固有名詞。赤い城壁に囲まれた広大な敷地に宮殿や大聖堂が建ち、ロシア政府の中枢が置かれています。転じて「ロシア政府」そのものを指す言葉としても使われます。",
+    "keywords": ["Kremlin 意味", "Kremlin 発音", "クレムリン 英語", "Kremlin モスクワ ロシア", "Kremlin 例文"],
+    "meanings": [
+      { "hinshi": "【固有名詞】クレムリン", "note": "モスクワの城塞。ロシア政府の中枢・象徴。" }
+    ],
+    "usages": [
+      { "title": "① クレムリン（城塞）", "desc": "モスクワの中心。", "example_en": "The Kremlin stands in the center of Moscow.", "example_ja": "クレムリンはモスクワの中心にある。" },
+      { "title": "② ロシア政府の象徴", "desc": "政治の中枢。", "example_en": "The Kremlin is the seat of Russian power.", "example_ja": "クレムリンはロシア権力の中枢だ。" },
+      { "title": "③ 「ロシア政府」の意味でも", "desc": "報道でよく使う。", "example_en": "The Kremlin issued a statement.", "example_ja": "ロシア政府（クレムリン）は声明を発表した。" }
+    ],
+    "warn": ["固有名詞なので大文字で始める。モスクワ(Moscow)にある。", "「ロシア政府」の比喩としても使われる（アメリカのホワイトハウスに似た用法）。"],
+    "etym_note": "ロシア語 kreml（城塞・要塞）に由来します。ロシアの多くの古都に kremlin がありますが、特にモスクワのものが有名で、ロシア政府の象徴となっています。",
+    "etym_chain": [
+      { "node": "kreml", "sub": "城塞", "era": "ロシア語" },
+      { "node": "Kremlin", "sub": "クレムリン", "era": "近代英語" },
+      { "node": "Kremlin", "sub": "クレムリン", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the Moscow Kremlin", "ja": "モスクワのクレムリン" },
+      { "en": "inside the Kremlin", "ja": "クレムリンの中で" },
+      { "en": "the Kremlin walls", "ja": "クレムリンの城壁" },
+      { "en": "a Kremlin spokesman", "ja": "ロシア政府の報道官" },
+      { "en": "Red Square", "ja": "赤の広場" },
+      { "en": "the Kremlin said", "ja": "ロシア政府は述べた" }
+    ],
+    "related": [
+      { "en": "Moscow", "ja": "モスクワ" },
+      { "en": "Russia", "ja": "ロシア" },
+      { "en": "fortress", "ja": "要塞・城塞" },
+      { "en": "government", "ja": "政府" }
+    ],
+    "faq": [
+      { "q": "Kremlin とは何ですか？", "a": "ロシアの首都モスクワにある城塞で、宮殿や大聖堂が建ち、ロシア政府の中枢が置かれています。転じて「ロシア政府」そのものを指す言葉としても使われます。" },
+      { "q": "Kremlin が「ロシア政府」を指すのはなぜ？", "a": "政府の中枢がクレムリン内にあるため、建物の名で政府を表す用法です。アメリカで White House が政権を指すのと同じ仕組みです。" }
+    ],
+    "quiz": [
+      { "q": "The ___ is a famous fortress in Moscow and the seat of Russian government.（クレムリンはモスクワの有名な城塞でロシア政府の中枢だ）", "A": "Kremlin", "B": "Kettle", "C": "Kernel", "D": "Keeper", "correct": "A" },
+      { "q": "Kremlin があるのはどの都市？", "A": "モスクワ", "B": "パリ", "C": "ロンドン", "D": "東京", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Kyiv",
+    "pron": "ˈkiːɪv",
+    "kana": "キーウ",
+    "hinshi": "固有名詞（都市・首都）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ウクライナ語 Kyiv（伝説の建設者キーより)",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "地理・ヨーロッパ"],
+    "meaning_main": "キーウ（ウクライナの首都。旧表記キエフ）",
+    "description": "Kyiv はウクライナの首都「キーウ」を表す固有名詞。ドニプロ川沿いに広がる古都で、千年以上の歴史を持ちます。かつて英語では Kiev（キエフ）と表記されていましたが、近年はウクライナ語の発音に近い Kyiv が使われるようになりました。",
+    "keywords": ["Kyiv 意味", "Kyiv 発音", "キーウ 英語", "Kyiv キエフ ウクライナ", "Kyiv 例文"],
+    "meanings": [
+      { "hinshi": "【固有名詞】キーウ", "note": "ウクライナの首都。旧表記キエフ(Kiev)。" }
+    ],
+    "usages": [
+      { "title": "① キーウ（首都）", "desc": "ウクライナの首都。", "example_en": "Kyiv is the capital of Ukraine.", "example_ja": "キーウはウクライナの首都だ。" },
+      { "title": "② 千年の古都", "desc": "長い歴史を持つ。", "example_en": "Kyiv is over a thousand years old.", "example_ja": "キーウは千年以上の歴史を持つ。" },
+      { "title": "③ 旧表記キエフ", "desc": "近年 Kyiv に。", "example_en": "Kyiv was formerly spelled \"Kiev\" in English.", "example_ja": "キーウは英語でかつて Kiev と表記された。" }
+    ],
+    "warn": ["固有名詞なので大文字で始める。旧英語表記は Kiev（キエフ）。", "発音は /ˈkiːɪv/。ドニプロ川沿いの古都。"],
+    "etym_note": "ウクライナ語 Kyiv に由来し、伝説上の建設者キー（Kyi）にちなむとされます。長く英語ではロシア語経由の Kiev が使われましたが、近年ウクライナ語に基づく Kyiv が広まりました。",
+    "etym_chain": [
+      { "node": "Kyi", "sub": "伝説の建設者", "era": "古代スラブ" },
+      { "node": "Kiev", "sub": "キエフ(旧表記)", "era": "近代英語" },
+      { "node": "Kyiv", "sub": "キーウ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the city of Kyiv", "ja": "キーウ市" },
+      { "en": "Kyiv, Ukraine", "ja": "ウクライナのキーウ" },
+      { "en": "formerly Kiev", "ja": "旧称キエフ" },
+      { "en": "the Dnieper River", "ja": "ドニプロ川" },
+      { "en": "central Kyiv", "ja": "キーウ中心部" },
+      { "en": "ancient Kyiv", "ja": "古都キーウ" }
+    ],
+    "related": [
+      { "en": "Ukraine", "ja": "ウクライナ" },
+      { "en": "capital", "ja": "首都" },
+      { "en": "Europe", "ja": "ヨーロッパ" },
+      { "en": "river", "ja": "川" }
+    ],
+    "faq": [
+      { "q": "Kyiv とはどこですか？", "a": "ウクライナの首都で、ドニプロ川沿いに広がる千年以上の歴史を持つ古都です。かつて英語では Kiev（キエフ）と表記されていました。" },
+      { "q": "Kyiv と Kiev の違いは？", "a": "同じ都市です。Kiev はロシア語経由の旧表記、Kyiv はウクライナ語の発音に近い表記で、近年は Kyiv が使われるようになりました。" }
+    ],
+    "quiz": [
+      { "q": "___, formerly spelled Kiev, is the capital of Ukraine.（旧表記キエフのキーウはウクライナの首都だ）", "A": "Kyiv", "B": "Kettle", "C": "Kernel", "D": "Keeper", "correct": "A" },
+      { "q": "Kyiv はどの国の首都？", "A": "ウクライナ", "B": "ロシア", "C": "ポーランド", "D": "ドイツ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Karachi",
+    "pron": "kəˈrɑːtʃi",
+    "kana": "カラチ",
+    "hinshi": "固有名詞（都市）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "地名 Karachi（漁村の名より)",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "地理・アジア"],
+    "meaning_main": "カラチ（パキスタン最大の都市・港湾都市）",
+    "description": "Karachi はパキスタン最大の都市「カラチ」を表す固有名詞。アラビア海に面した港湾都市で、パキスタンの経済・商業の中心地です。かつては首都でもありました。もとは小さな漁村でしたが、大都市へと発展しました。",
+    "keywords": ["Karachi 意味", "Karachi 発音", "カラチ 英語", "Karachi パキスタン", "Karachi 例文"],
+    "meanings": [
+      { "hinshi": "【固有名詞】カラチ", "note": "パキスタン最大の都市。アラビア海に面した港湾・商業都市。" }
+    ],
+    "usages": [
+      { "title": "① カラチ（都市）", "desc": "パキスタン最大の都市。", "example_en": "Karachi is the largest city in Pakistan.", "example_ja": "カラチはパキスタン最大の都市だ。" },
+      { "title": "② 港湾・商業の中心", "desc": "経済の要。", "example_en": "Karachi is Pakistan's main port and business center.", "example_ja": "カラチはパキスタンの主要な港であり商業の中心だ。" },
+      { "title": "③ かつての首都", "desc": "独立当初の首都。", "example_en": "Karachi was once the capital of Pakistan.", "example_ja": "カラチはかつてパキスタンの首都だった。" }
+    ],
+    "warn": ["固有名詞なので大文字で始める。パキスタン(Pakistan)最大の都市。", "発音は /kəˈrɑːtʃi/。現在の首都はイスラマバード。"],
+    "etym_note": "この地にあった漁村の名に由来するとされます。もとは小さな港町でしたが、19世紀以降の発展を経て、現在ではパキスタン最大の巨大都市になりました。",
+    "etym_chain": [
+      { "node": "Karachi", "sub": "漁村の名", "era": "地元の言語" },
+      { "node": "Karachi", "sub": "カラチ", "era": "19世紀英語" },
+      { "node": "Karachi", "sub": "カラチ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the city of Karachi", "ja": "カラチ市" },
+      { "en": "Karachi, Pakistan", "ja": "パキスタンのカラチ" },
+      { "en": "the port of Karachi", "ja": "カラチ港" },
+      { "en": "the streets of Karachi", "ja": "カラチの街並み" },
+      { "en": "the Arabian Sea", "ja": "アラビア海" },
+      { "en": "travel to Karachi", "ja": "カラチへ行く" }
+    ],
+    "related": [
+      { "en": "Pakistan", "ja": "パキスタン" },
+      { "en": "port", "ja": "港" },
+      { "en": "Asia", "ja": "アジア" },
+      { "en": "city", "ja": "都市" }
+    ],
+    "faq": [
+      { "q": "Karachi はどんな都市ですか？", "a": "パキスタン最大の都市で、アラビア海に面した港湾都市です。パキスタンの経済・商業の中心地で、独立当初は首都でもありました。" },
+      { "q": "Karachi は今も首都ですか？", "a": "いいえ。かつては首都でしたが、現在のパキスタンの首都はイスラマバード（Islamabad）です。" }
+    ],
+    "quiz": [
+      { "q": "___ is the largest city and main port of Pakistan.（カラチはパキスタン最大の都市であり主要な港だ）", "A": "Karachi", "B": "Kettle", "C": "Kernel", "D": "Keeper", "correct": "A" },
+      { "q": "Karachi はどの国の都市？", "A": "パキスタン", "B": "インド", "C": "イラン", "D": "トルコ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Klondike",
+    "pron": "ˈklɒndaɪk",
+    "kana": "クロンダイク",
+    "hinshi": "固有名詞（地名）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "先住民語（川の名より)",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "地理・歴史"],
+    "meaning_main": "クロンダイク（カナダの金鉱地。ゴールドラッシュで有名）",
+    "description": "Klondike はカナダ北西部の地域「クロンダイク」を表す固有名詞。1890年代末、この地で金が発見され、一攫千金を夢見た数万人の人々が押し寄せた「クロンダイク・ゴールドラッシュ」で世界的に有名になりました。転じて「一攫千金の源」を意味することもあります。",
+    "keywords": ["Klondike 意味", "Klondike 発音", "クロンダイク 英語", "Klondike ゴールドラッシュ", "Klondike 例文"],
+    "meanings": [
+      { "hinshi": "【固有名詞】クロンダイク", "note": "カナダの金鉱地。ゴールドラッシュで有名。" }
+    ],
+    "usages": [
+      { "title": "① クロンダイク（地名）", "desc": "カナダの金鉱地。", "example_en": "Gold was found in the Klondike in 1896.", "example_ja": "1896年にクロンダイクで金が発見された。" },
+      { "title": "② ゴールドラッシュ", "desc": "多くの人が殺到。", "example_en": "The Klondike Gold Rush drew thousands of prospectors.", "example_ja": "クロンダイク・ゴールドラッシュは何千もの採掘者を集めた。" },
+      { "title": "③ 一攫千金の象徴", "desc": "比喩的にも使う。", "example_en": "The discovery was a real Klondike for the town.", "example_ja": "その発見は町にとってまさに宝の山だった。" }
+    ],
+    "warn": ["固有名詞なので大文字で始める。カナダのユーコン準州にある。", "発音は /ˈklɒndaɪk/。1896-99年のゴールドラッシュで有名。"],
+    "etym_note": "先住民の言葉で川を指す語（Tr'ondëk など）に由来するとされます。この川の流域で金が見つかったことから、地域全体とゴールドラッシュを指す名になりました。",
+    "etym_chain": [
+      { "node": "Tr'ondëk", "sub": "川の名", "era": "先住民語" },
+      { "node": "Klondike", "sub": "クロンダイク", "era": "19世紀英語" },
+      { "node": "Klondike", "sub": "クロンダイク", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the Klondike Gold Rush", "ja": "クロンダイク・ゴールドラッシュ" },
+      { "en": "gold in the Klondike", "ja": "クロンダイクの金" },
+      { "en": "head for the Klondike", "ja": "クロンダイクへ向かう" },
+      { "en": "a Klondike of ~", "ja": "〜の宝の山" },
+      { "en": "prospectors in the Klondike", "ja": "クロンダイクの採掘者" },
+      { "en": "the Yukon", "ja": "ユーコン" }
+    ],
+    "related": [
+      { "en": "gold", "ja": "金" },
+      { "en": "Canada", "ja": "カナダ" },
+      { "en": "gold rush", "ja": "ゴールドラッシュ" },
+      { "en": "mining", "ja": "採掘" }
+    ],
+    "faq": [
+      { "q": "Klondike とは何ですか？", "a": "カナダ北西部の地域で、1890年代末に金が発見され、一攫千金を夢見た数万人が押し寄せた「クロンダイク・ゴールドラッシュ」で有名になりました。" },
+      { "q": "Klondike は比喩でも使いますか？", "a": "はい。金鉱にちなんで「一攫千金の源・宝の山」といった意味で比喩的に使われることがあります。" }
+    ],
+    "quiz": [
+      { "q": "The ___ Gold Rush drew thousands of people to Canada.（クロンダイク・ゴールドラッシュは何千もの人をカナダへ引き寄せた）", "A": "Klondike", "B": "Kettle", "C": "Kernel", "D": "Keeper", "correct": "A" },
+      { "q": "Klondike で発見されたものは？", "A": "金", "B": "石油", "C": "ダイヤ", "D": "石炭", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Kigali",
+    "pron": "kɪˈɡɑːli",
+    "kana": "キガリ",
+    "hinshi": "固有名詞（都市・首都）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ルワンダの地名（近くの山より)",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR B1", "地理・アフリカ"],
+    "meaning_main": "キガリ（ルワンダの首都）",
+    "description": "Kigali は東アフリカの国ルワンダの首都「キガリ」を表す固有名詞。丘に囲まれた高地に広がる都市で、「千の丘の国」と呼ばれるルワンダの中心地です。近年は清潔で治安のよい、発展著しいアフリカの都市として注目されています。",
+    "keywords": ["Kigali 意味", "Kigali 発音", "キガリ 英語", "Kigali ルワンダ", "Kigali 例文"],
+    "meanings": [
+      { "hinshi": "【固有名詞】キガリ", "note": "ルワンダの首都。丘に囲まれた高地の都市。" }
+    ],
+    "usages": [
+      { "title": "① キガリ（首都）", "desc": "ルワンダの首都。", "example_en": "Kigali is the capital of Rwanda.", "example_ja": "キガリはルワンダの首都だ。" },
+      { "title": "② 丘の都市", "desc": "高地に広がる。", "example_en": "Kigali is built across many hills.", "example_ja": "キガリは多くの丘にまたがって築かれている。" },
+      { "title": "③ 発展する都市", "desc": "清潔で注目される。", "example_en": "Kigali is known as a clean, modern African city.", "example_ja": "キガリは清潔で近代的なアフリカの都市として知られる。" }
+    ],
+    "warn": ["固有名詞なので大文字で始める。ルワンダ(Rwanda)の首都。", "発音は /kɪˈɡɑːli/。「千の丘の国」ルワンダの中心。"],
+    "etym_note": "ルワンダの地名で、近くにあるキガリ山にちなむとされます。20世紀初めに小さな集落として始まり、独立後にルワンダの首都となりました。",
+    "etym_chain": [
+      { "node": "Kigali", "sub": "地名(山の名)", "era": "ルワンダ" },
+      { "node": "Kigali", "sub": "キガリ", "era": "20世紀英語" },
+      { "node": "Kigali", "sub": "キガリ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the city of Kigali", "ja": "キガリ市" },
+      { "en": "Kigali, Rwanda", "ja": "ルワンダのキガリ" },
+      { "en": "the hills of Kigali", "ja": "キガリの丘" },
+      { "en": "central Kigali", "ja": "キガリ中心部" },
+      { "en": "the land of a thousand hills", "ja": "千の丘の国" },
+      { "en": "travel to Kigali", "ja": "キガリへ行く" }
+    ],
+    "related": [
+      { "en": "Rwanda", "ja": "ルワンダ" },
+      { "en": "Africa", "ja": "アフリカ" },
+      { "en": "capital", "ja": "首都" },
+      { "en": "hill", "ja": "丘" }
+    ],
+    "faq": [
+      { "q": "Kigali はどこの首都ですか？", "a": "東アフリカの国ルワンダの首都です。丘に囲まれた高地に広がり、近年は清潔で治安のよい、発展著しいアフリカの都市として注目されています。" },
+      { "q": "ルワンダはなぜ「千の丘の国」と呼ばれるのですか？", "a": "国土に丘が非常に多く、起伏に富んだ地形が広がっているためです。首都キガリも複数の丘にまたがって築かれています。" }
+    ],
+    "quiz": [
+      { "q": "___ is the capital of Rwanda, a country of many hills.（キガリは丘の多い国ルワンダの首都だ）", "A": "Kigali", "B": "Kettle", "C": "Kernel", "D": "Keeper", "correct": "A" },
+      { "q": "Kigali はどの国の首都？", "A": "ルワンダ", "B": "ケニア", "C": "エジプト", "D": "ナイジェリア", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Koch",
+    "pron": "kɒx",
+    "kana": "コッホ",
+    "hinshi": "固有名詞（人物・科学者）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ドイツ語の姓 Koch（料理人)",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "科学・人物"],
+    "meaning_main": "コッホ（結核菌などを発見した細菌学者）",
+    "description": "Koch はドイツの細菌学者「ロベルト・コッホ」を表す固有名詞。結核菌やコレラ菌を発見し、病気が特定の細菌によって引き起こされることを証明しました。近代細菌学の父の一人とされ、その功績でノーベル賞を受賞しました。",
+    "keywords": ["Koch 意味", "Koch 発音", "コッホ 英語", "Koch 結核菌 細菌学", "Koch 例文"],
+    "meanings": [
+      { "hinshi": "【固有名詞】コッホ", "note": "結核菌などを発見したドイツの細菌学者(1843-1910)。" }
+    ],
+    "usages": [
+      { "title": "① コッホ（科学者）", "desc": "細菌学の父。", "example_en": "Koch discovered the bacteria that cause tuberculosis.", "example_ja": "コッホは結核を引き起こす細菌を発見した。" },
+      { "title": "② 病原菌の証明", "desc": "病気と細菌の関係。", "example_en": "Koch showed that germs cause disease.", "example_ja": "コッホは細菌が病気を起こすことを示した。" },
+      { "title": "③ ノーベル賞受賞", "desc": "医学・生理学賞。", "example_en": "Koch won the Nobel Prize for his work.", "example_ja": "コッホはその業績でノーベル賞を受賞した。" }
+    ],
+    "warn": ["固有名詞なので大文字で始める。フルネームはロベルト・コッホ(Robert Koch)。", "発音は /kɒx/（コッホ）。ドイツ語の ch の音に注意。"],
+    "etym_note": "ドイツ語の姓 Koch（「料理人」の意）に由来します。ロベルト・コッホ（1843-1910）は、フランスのパスツールと並ぶ近代細菌学の創始者の一人です。",
+    "etym_chain": [
+      { "node": "Koch (姓)", "sub": "料理人", "era": "ドイツ語" },
+      { "node": "Koch", "sub": "細菌学者の名", "era": "19世紀" },
+      { "node": "Koch", "sub": "コッホ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Robert Koch", "ja": "ロベルト・コッホ" },
+      { "en": "Koch's discovery", "ja": "コッホの発見" },
+      { "en": "the tuberculosis bacterium", "ja": "結核菌" },
+      { "en": "Koch's postulates", "ja": "コッホの原則" },
+      { "en": "bacteriology", "ja": "細菌学" },
+      { "en": "germ theory", "ja": "病原菌説" }
+    ],
+    "related": [
+      { "en": "bacteria", "ja": "細菌" },
+      { "en": "disease", "ja": "病気" },
+      { "en": "Pasteur", "ja": "パスツール" },
+      { "en": "medicine", "ja": "医学" }
+    ],
+    "faq": [
+      { "q": "Koch は何をした人ですか？", "a": "ドイツの細菌学者ロベルト・コッホで、結核菌やコレラ菌を発見し、病気が特定の細菌によって引き起こされることを証明しました。近代細菌学の父の一人です。" },
+      { "q": "Koch の発音は？", "a": "/kɒx/（コッホ）です。語尾はドイツ語の ch の音で、日本語の「ホ」に近い音になります。" }
+    ],
+    "quiz": [
+      { "q": "___ discovered the bacteria that cause tuberculosis.（コッホは結核を引き起こす細菌を発見した）", "A": "Koch", "B": "Kettle", "C": "Kernel", "D": "Keeper", "correct": "A" },
+      { "q": "Koch の専門分野は？", "A": "細菌学", "B": "天文学", "C": "音楽", "D": "文学", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Keynes",
+    "pron": "keɪnz",
+    "kana": "ケインズ",
+    "hinshi": "固有名詞（人物・経済学者）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "英語の姓 Keynes",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "経済・人物"],
+    "meaning_main": "ケインズ（近代経済学に革命をもたらしたイギリスの経済学者）",
+    "description": "Keynes はイギリスの経済学者「ジョン・メイナード・ケインズ」を表す固有名詞。不況のときは政府が積極的に支出して需要を生み出すべきだと説き、20世紀の経済政策に大きな影響を与えました。彼の考え方は「ケインズ経済学」と呼ばれます。",
+    "keywords": ["Keynes 意味", "Keynes 発音", "ケインズ 英語", "Keynes 経済学", "Keynes 例文"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ケインズ", "note": "近代経済学に革命をもたらしたイギリスの経済学者(1883-1946)。" }
+    ],
+    "usages": [
+      { "title": "① ケインズ（経済学者）", "desc": "経済学の巨人。", "example_en": "Keynes was a hugely influential economist.", "example_ja": "ケインズは非常に影響力の大きい経済学者だった。" },
+      { "title": "② 政府支出の重要性", "desc": "不況時の需要創出。", "example_en": "Keynes argued that governments should spend during recessions.", "example_ja": "ケインズは不況時に政府が支出すべきだと論じた。" },
+      { "title": "③ ケインズ経済学", "desc": "彼の理論。", "example_en": "Keynesian economics shaped modern policy.", "example_ja": "ケインズ経済学は現代の政策を形づくった。" }
+    ],
+    "warn": ["固有名詞なので大文字で始める。フルネームはジョン・メイナード・ケインズ(John Maynard Keynes)。", "発音は /keɪnz/（ケインズ）。形容詞は Keynesian（ケインズ的な）。"],
+    "etym_note": "英語圏の姓 Keynes に由来します。ジョン・メイナード・ケインズ（1883-1946）はケンブリッジで学び、主著『雇用・利子および貨幣の一般理論』で経済学に革命をもたらしました。",
+    "etym_chain": [
+      { "node": "Keynes (姓)", "sub": "英語の姓", "era": "近代" },
+      { "node": "Keynes", "sub": "経済学者の名", "era": "20世紀" },
+      { "node": "Keynes", "sub": "ケインズ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "John Maynard Keynes", "ja": "ジョン・メイナード・ケインズ" },
+      { "en": "Keynesian economics", "ja": "ケインズ経済学" },
+      { "en": "government spending", "ja": "政府支出" },
+      { "en": "according to Keynes", "ja": "ケインズによれば" },
+      { "en": "the General Theory", "ja": "一般理論" },
+      { "en": "Keynes's ideas", "ja": "ケインズの考え" }
+    ],
+    "related": [
+      { "en": "economics", "ja": "経済学" },
+      { "en": "economist", "ja": "経済学者" },
+      { "en": "recession", "ja": "不況" },
+      { "en": "government", "ja": "政府" }
+    ],
+    "faq": [
+      { "q": "Keynes はどんな人ですか？", "a": "イギリスの経済学者ジョン・メイナード・ケインズで、不況のときは政府が積極的に支出して需要を生み出すべきだと説き、20世紀の経済政策に大きな影響を与えました。" },
+      { "q": "ケインズ経済学とは？", "a": "不況時には政府が公共事業などで支出を増やし、需要を作り出して経済を立て直すべきだとする考え方です。多くの国の景気対策の理論的な支えになりました。" }
+    ],
+    "quiz": [
+      { "q": "___ argued that governments should spend money to fight recessions.（ケインズは政府が不況と戦うために支出すべきだと論じた）", "A": "Keynes", "B": "Kettle", "C": "Kernel", "D": "Keeper", "correct": "A" },
+      { "q": "Keynes の専門分野は？", "A": "経済学", "B": "医学", "C": "音楽", "D": "絵画", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Klee",
+    "pron": "kleɪ",
+    "kana": "クレー",
+    "hinshi": "固有名詞（人物・画家）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ドイツ語の姓 Klee（クローバー)",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "美術・人物"],
+    "meaning_main": "クレー（詩的で幻想的な作風のスイス系画家）",
+    "description": "Klee はスイス生まれの画家「パウル・クレー」を表す固有名詞。線・色・記号を組み合わせた、詩的で幻想的な独自の作風で知られます。子どものような素朴さと深い思索を併せ持つ絵画で、20世紀の近代美術に大きな影響を与えました。",
+    "keywords": ["Klee 意味", "Klee 発音", "クレー 英語", "Paul Klee 画家", "Klee 例文"],
+    "meanings": [
+      { "hinshi": "【固有名詞】クレー", "note": "詩的で幻想的な作風のスイス系画家パウル・クレー(1879-1940)。" }
+    ],
+    "usages": [
+      { "title": "① クレー（画家）", "desc": "近代美術の巨匠。", "example_en": "Klee was a famous modern painter.", "example_ja": "クレーは有名な近代画家だった。" },
+      { "title": "② 詩的で幻想的", "desc": "線と色の世界。", "example_en": "Klee's paintings are playful and dreamlike.", "example_ja": "クレーの絵は遊び心があり夢のようだ。" },
+      { "title": "③ 記号のような表現", "desc": "独自のスタイル。", "example_en": "Klee used lines, colors, and symbols.", "example_ja": "クレーは線・色・記号を使った。" }
+    ],
+    "warn": ["固有名詞なので大文字で始める。フルネームはパウル・クレー(Paul Klee)。", "発音は /kleɪ/（クレー）。clay（粘土）と似た音だが別語。"],
+    "etym_note": "ドイツ語の姓 Klee（「クローバー」の意）に由来します。パウル・クレー（1879-1940）はスイスに生まれ、ドイツの美術学校バウハウスでも教えました。",
+    "etym_chain": [
+      { "node": "Klee (姓)", "sub": "クローバー", "era": "ドイツ語" },
+      { "node": "Klee", "sub": "画家の名", "era": "19-20世紀" },
+      { "node": "Klee", "sub": "クレー", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Paul Klee", "ja": "パウル・クレー" },
+      { "en": "Klee's paintings", "ja": "クレーの絵画" },
+      { "en": "a work by Klee", "ja": "クレーの作品" },
+      { "en": "modern art", "ja": "近代美術" },
+      { "en": "a Klee exhibition", "ja": "クレー展" },
+      { "en": "line and color", "ja": "線と色" }
+    ],
+    "related": [
+      { "en": "painter", "ja": "画家" },
+      { "en": "art", "ja": "美術" },
+      { "en": "Switzerland", "ja": "スイス" },
+      { "en": "abstract", "ja": "抽象の" }
+    ],
+    "faq": [
+      { "q": "Klee はどんな画家ですか？", "a": "スイス生まれの画家パウル・クレーで、線・色・記号を組み合わせた詩的で幻想的な独自の作風で知られます。20世紀の近代美術に大きな影響を与えました。" },
+      { "q": "Klee の発音は？", "a": "/kleɪ/（クレー）です。clay（粘土）と似た音ですが、別の語（画家の名）です。" }
+    ],
+    "quiz": [
+      { "q": "___ was a modern painter known for his playful, dreamlike art.（クレーは遊び心のある幻想的な絵で知られる近代画家だった）", "A": "Klee", "B": "Kettle", "C": "Kernel", "D": "Keeper", "correct": "A" },
+      { "q": "Klee の専門分野は？", "A": "絵画", "B": "音楽", "C": "文学", "D": "科学", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Keaton",
+    "pron": "ˈkiːtən",
+    "kana": "キートン",
+    "hinshi": "固有名詞（人物・喜劇俳優）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "英語の姓 Keaton",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "映画・人物"],
+    "meaning_main": "キートン（無声映画時代の名喜劇俳優）",
+    "description": "Keaton はアメリカの喜劇俳優・映画監督「バスター・キートン」を表す固有名詞。無声映画時代を代表するコメディアンで、決して笑わない表情（グレート・ストーン・フェイス）と、体を張った危険なスタントで観客を魅了しました。チャップリンと並ぶ喜劇王です。",
+    "keywords": ["Keaton 意味", "Keaton 発音", "キートン 英語", "Buster Keaton 無声映画", "Keaton 例文"],
+    "meanings": [
+      { "hinshi": "【固有名詞】キートン", "note": "無声映画時代を代表する喜劇俳優バスター・キートン(1895-1966)。" }
+    ],
+    "usages": [
+      { "title": "① キートン（喜劇俳優）", "desc": "無声映画の喜劇王。", "example_en": "Keaton was a great silent film comedian.", "example_ja": "キートンは偉大な無声映画の喜劇俳優だった。" },
+      { "title": "② 決して笑わない表情", "desc": "無表情で笑わせる。", "example_en": "Keaton was known as \"The Great Stone Face.\"", "example_ja": "キートンは「グレート・ストーン・フェイス」と呼ばれた。" },
+      { "title": "③ 体を張ったスタント", "desc": "危険な演技。", "example_en": "Keaton performed his own dangerous stunts.", "example_ja": "キートンは危険なスタントを自ら演じた。" }
+    ],
+    "warn": ["固有名詞なので大文字で始める。フルネームはバスター・キートン(Buster Keaton)。", "同時代のチャーリー・チャップリン(Chaplin)と並ぶ喜劇王。"],
+    "etym_note": "英語圏の姓 Keaton に由来します。バスター・キートン（1895-1966）は幼い頃から舞台に立ち、無声映画時代に数々の名作喜劇を残しました。",
+    "etym_chain": [
+      { "node": "Keaton (姓)", "sub": "英語の姓", "era": "近代" },
+      { "node": "Keaton", "sub": "喜劇俳優の名", "era": "20世紀" },
+      { "node": "Keaton", "sub": "キートン", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Buster Keaton", "ja": "バスター・キートン" },
+      { "en": "a silent film comedian", "ja": "無声映画の喜劇俳優" },
+      { "en": "The Great Stone Face", "ja": "グレート・ストーン・フェイス" },
+      { "en": "Keaton's stunts", "ja": "キートンのスタント" },
+      { "en": "a Keaton film", "ja": "キートンの映画" },
+      { "en": "silent comedy", "ja": "無声喜劇" }
+    ],
+    "related": [
+      { "en": "comedian", "ja": "喜劇俳優" },
+      { "en": "Chaplin", "ja": "チャップリン" },
+      { "en": "film", "ja": "映画" },
+      { "en": "comedy", "ja": "喜劇" }
+    ],
+    "faq": [
+      { "q": "Keaton はどんな人ですか？", "a": "アメリカの喜劇俳優・映画監督バスター・キートンで、無声映画時代を代表するコメディアンです。決して笑わない無表情と、体を張った危険なスタントで知られます。" },
+      { "q": "「グレート・ストーン・フェイス」とは？", "a": "キートンのあだ名で、どんなに大変な状況でも無表情を貫いたことに由来します。その無表情がかえって観客の笑いを誘いました。" }
+    ],
+    "quiz": [
+      { "q": "___ was a silent film comedian famous for never smiling.（キートンは決して笑わないことで有名な無声映画の喜劇俳優だった）", "A": "Keaton", "B": "Kettle", "C": "Kernel", "D": "Keeper", "correct": "A" },
+      { "q": "Keaton の専門分野は？", "A": "喜劇・映画", "B": "科学", "C": "絵画", "D": "政治", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Kublai",
+    "pron": "ˈkuːblaɪ",
+    "kana": "クビライ",
+    "hinshi": "固有名詞（人物・皇帝）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "モンゴル語の名 Kublai",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "歴史・人物"],
+    "meaning_main": "クビライ（元王朝を建てたモンゴルの皇帝。フビライ・ハン）",
+    "description": "Kublai は13世紀のモンゴルの皇帝「クビライ（フビライ・ハン）」を表す固有名詞。チンギス・ハンの孫にあたり、中国を統一して元王朝を建てました。マルコ・ポーロが仕えたことでも知られ、日本にも遠征軍（元寇）を送った歴史上の人物です。",
+    "keywords": ["Kublai 意味", "Kublai 発音", "クビライ 英語", "フビライ・ハン 元", "Kublai 例文"],
+    "meanings": [
+      { "hinshi": "【固有名詞】クビライ", "note": "元王朝を建てたモンゴルの皇帝(1215-1294)。フビライ・ハン。" }
+    ],
+    "usages": [
+      { "title": "① クビライ（皇帝）", "desc": "元王朝の創始者。", "example_en": "Kublai Khan founded the Yuan dynasty in China.", "example_ja": "クビライ・ハンは中国に元王朝を建てた。" },
+      { "title": "② チンギス・ハンの孫", "desc": "モンゴル帝国を継ぐ。", "example_en": "Kublai was the grandson of Genghis Khan.", "example_ja": "クビライはチンギス・ハンの孫だった。" },
+      { "title": "③ マルコ・ポーロ", "desc": "彼のもとで仕えた。", "example_en": "Marco Polo served at the court of Kublai Khan.", "example_ja": "マルコ・ポーロはクビライ・ハンの宮廷に仕えた。" }
+    ],
+    "warn": ["固有名詞なので大文字で始める。ふつう Kublai Khan（クビライ・ハン）の形で使う。", "祖父はチンギス・ハン(Genghis Khan)。日本への遠征（元寇）を行った。"],
+    "etym_note": "モンゴル語の名 Kublai に由来します。クビライ（1215-1294）はモンゴル帝国の第5代皇帝（ハン）で、中国全土を支配して元王朝を開きました。",
+    "etym_chain": [
+      { "node": "Kublai", "sub": "モンゴル語の名", "era": "13世紀" },
+      { "node": "Kublai Khan", "sub": "元の皇帝", "era": "13世紀" },
+      { "node": "Kublai", "sub": "クビライ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Kublai Khan", "ja": "クビライ・ハン" },
+      { "en": "the Yuan dynasty", "ja": "元王朝" },
+      { "en": "grandson of Genghis Khan", "ja": "チンギス・ハンの孫" },
+      { "en": "the court of Kublai", "ja": "クビライの宮廷" },
+      { "en": "Marco Polo and Kublai", "ja": "マルコ・ポーロとクビライ" },
+      { "en": "the Mongol Empire", "ja": "モンゴル帝国" }
+    ],
+    "related": [
+      { "en": "Mongol", "ja": "モンゴル人・モンゴルの" },
+      { "en": "emperor", "ja": "皇帝" },
+      { "en": "China", "ja": "中国" },
+      { "en": "Genghis Khan", "ja": "チンギス・ハン" }
+    ],
+    "faq": [
+      { "q": "Kublai はどんな人ですか？", "a": "13世紀のモンゴルの皇帝クビライ（フビライ・ハン）で、チンギス・ハンの孫にあたります。中国を統一して元王朝を建て、マルコ・ポーロが仕えたことでも知られます。" },
+      { "q": "Kublai と日本の関係は？", "a": "クビライは日本に2度にわたって遠征軍を送りました。これが日本でいう「元寇（げんこう）」で、暴風雨などにより失敗に終わりました。" }
+    ],
+    "quiz": [
+      { "q": "___ Khan founded the Yuan dynasty and ruled China.（クビライ・ハンは元王朝を建て中国を治めた）", "A": "Kublai", "B": "Kettle", "C": "Kernel", "D": "Keeper", "correct": "A" },
+      { "q": "Kublai の祖父は誰？", "A": "チンギス・ハン", "B": "始皇帝", "C": "アレクサンドロス", "D": "カエサル", "correct": "A" }
+    ]
+  }
+]

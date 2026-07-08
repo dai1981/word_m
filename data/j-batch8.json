@@ -1,0 +1,505 @@
+[
+  {
+    "english": "judo",
+    "pron": "ˈdʒuːdoʊ",
+    "kana": "ジュードウ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "日本語「柔道」（柔よく剛を制す道)",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "スポーツ・文化"],
+    "meaning_main": "柔道（日本発祥の武道）",
+    "description": "judo は日本発祥の武道「柔道」を表す名詞。相手の力を利用して投げたり抑え込んだりする格闘技で、オリンピック競技にもなっています。日本語の「柔道（柔よく剛を制す道）」がそのまま英語になりました。",
+    "keywords": ["judo 意味", "judo 発音", "judo 柔道", "judo 武道", "judo 例文"],
+    "meanings": [
+      { "hinshi": "【名】柔道", "note": "相手の力を利用して投げ抑える日本発祥の武道。" }
+    ],
+    "usages": [
+      { "title": "① 柔道（武道）", "desc": "do / practice judo で「柔道をする」。", "example_en": "He practices judo three times a week.", "example_ja": "彼は週に3回柔道を練習している。" },
+      { "title": "② 投げ技・抑え込み", "desc": "相手の力を利用。", "example_en": "In judo, you use your opponent's strength.", "example_ja": "柔道では相手の力を利用する。" },
+      { "title": "③ 帯で級・段を表す", "desc": "black belt（黒帯）。", "example_en": "She earned a black belt in judo.", "example_ja": "彼女は柔道で黒帯を取った。" }
+    ],
+    "warn": ["発音は /ˈdʒuːdoʊ/。「柔道をする」は do / practice judo。", "打撃技のない、投げ技・寝技中心の武道。空手(karate)とは異なる。"],
+    "etym_note": "日本語の「柔道」に由来し、「柔（じゅう＝しなやかさ）の道」を意味します。嘉納治五郎が柔術をもとに創始し、20世紀に世界へ広まりオリンピック競技になりました。",
+    "etym_chain": [
+      { "node": "柔道 (jūdō)", "sub": "柔の道", "era": "日本" },
+      { "node": "judo", "sub": "柔道", "era": "20世紀英語" },
+      { "node": "judo", "sub": "柔道", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "do judo", "ja": "柔道をする" },
+      { "en": "practice judo", "ja": "柔道を練習する" },
+      { "en": "a judo throw", "ja": "柔道の投げ技" },
+      { "en": "a black belt in judo", "ja": "柔道の黒帯" },
+      { "en": "a judo match", "ja": "柔道の試合" },
+      { "en": "a judo club", "ja": "柔道部" }
+    ],
+    "related": [
+      { "en": "karate", "ja": "空手" },
+      { "en": "martial arts", "ja": "武道・格闘技" },
+      { "en": "wrestling", "ja": "レスリング" },
+      { "en": "belt", "ja": "帯" }
+    ],
+    "faq": [
+      { "q": "judo とはどんな武道ですか？", "a": "相手の力を利用して投げたり抑え込んだりする、日本発祥の武道です。打撃技はなく、投げ技や寝技が中心で、オリンピック競技にもなっています。" },
+      { "q": "judo と karate の違いは？", "a": "judo（柔道）は投げ技・抑え込みが中心の組み技、karate（空手）は突きや蹴りの打撃技が中心です。" }
+    ],
+    "quiz": [
+      { "q": "In ___, players throw and pin their opponents.（柔道では選手は相手を投げて抑え込む）", "A": "judo", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "judo はどこ発祥の武道？", "A": "日本", "B": "中国", "C": "韓国", "D": "タイ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "juxtapose",
+    "pron": "ˌdʒʌkstəˈpoʊz",
+    "kana": "ジャクスタポウズ",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 juxta（そばに）＋ pose（置く)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "学術"],
+    "meaning_main": "並べて置く／(対比のために)並置する",
+    "description": "juxtapose は「並べて置く・(対比のために)並置する」を表す動詞。2つ以上のものをすぐそばに並べて、その違いや対比を際立たせることを指します。芸術・文学・議論などで使われる、ややかたい学術的な語です。名詞は juxtaposition。",
+    "keywords": ["juxtapose 意味", "juxtapose 発音", "juxtapose 並置", "juxtapose 対比", "juxtapose 例文"],
+    "meanings": [
+      { "hinshi": "【動】並べて置く・並置する", "note": "対比のためにすぐそばに並べる。" }
+    ],
+    "usages": [
+      { "title": "① 並置する（対比）", "desc": "並べて対比する。", "example_en": "The film juxtaposes wealth and poverty.", "example_ja": "その映画は富と貧困を並べて対比している。" },
+      { "title": "② 隣り合わせに置く", "desc": "すぐそばに。", "example_en": "The artist juxtaposed bright and dark colors.", "example_ja": "その画家は明るい色と暗い色を並べて置いた。" },
+      { "title": "③ 名詞 juxtaposition", "desc": "「並置・対比」。", "example_en": "The juxtaposition was striking.", "example_ja": "その対比は印象的だった。" }
+    ],
+    "warn": ["かたい学術語。「対比のために並べる」ニュアンス。", "名詞は juxtaposition（並置・対比）。"],
+    "etym_note": "ラテン語 juxta（〜のそばに）＋ pose（ラテン語 ponere＝置く）を組み合わせた語です。「すぐそばに置く」という意味から「並置する・対比する」を表します。",
+    "etym_chain": [
+      { "node": "juxta + ponere", "sub": "そばに＋置く", "era": "ラテン語" },
+      { "node": "juxtapose", "sub": "並置する", "era": "19世紀英語" },
+      { "node": "juxtapose", "sub": "並べて置く・対比する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "juxtapose A and B", "ja": "AとBを並べて対比する" },
+      { "en": "juxtaposition", "ja": "並置・対比" },
+      { "en": "juxtapose contrasts", "ja": "対照を並べる" },
+      { "en": "juxtapose images", "ja": "画像を並置する" },
+      { "en": "a striking juxtaposition", "ja": "印象的な対比" },
+      { "en": "juxtapose old and new", "ja": "新旧を並べる" }
+    ],
+    "related": [
+      { "en": "contrast", "ja": "対比する" },
+      { "en": "compare", "ja": "比較する" },
+      { "en": "place", "ja": "置く" },
+      { "en": "adjacent", "ja": "隣接した" }
+    ],
+    "faq": [
+      { "q": "juxtapose とはどんな意味ですか？", "a": "2つ以上のものをすぐそばに並べて、その違いや対比を際立たせることです。芸術・文学・議論などで使われる、ややかたい語です。" },
+      { "q": "juxtapose の語源は？", "a": "ラテン語 juxta（〜のそばに）＋ ponere（置く）を組み合わせた語で、「すぐそばに置く＝並置する」という意味です。" }
+    ],
+    "quiz": [
+      { "q": "The writer ___ hope and despair in the story.（作家は物語の中で希望と絶望を並べて対比した）", "A": "juxtaposes", "B": "jams", "C": "jogs", "D": "jumps", "correct": "A" },
+      { "q": "juxtapose の juxta が表す意味は？", "A": "そばに", "B": "上に", "C": "下に", "D": "遠くに", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jurisdiction",
+    "pron": "ˌdʒʊərɪsˈdɪkʃən",
+    "kana": "ジュリスディクション",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 jus（法）＋ dictio（言うこと)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "法律・社会"],
+    "meaning_main": "司法権／管轄権／管轄区域",
+    "description": "jurisdiction は「司法権・管轄権」を表す名詞。裁判所や役所などが、法的な権限を持って物事を扱える範囲を指します。「その権限が及ぶ地域（管轄区域）」の意味でも使われます。jus（法）＋ diction（言うこと）＝「法を告げる権限」が語源です。",
+    "keywords": ["jurisdiction 意味", "jurisdiction 発音", "jurisdiction 管轄", "jurisdiction 司法権", "jurisdiction 例文"],
+    "meanings": [
+      { "hinshi": "【名】司法権・管轄権", "note": "法的な権限を持って扱える範囲。" },
+      { "hinshi": "【名】管轄区域", "note": "その権限が及ぶ地域。" }
+    ],
+    "usages": [
+      { "title": "① 管轄権・権限", "desc": "扱える範囲。", "example_en": "This case is outside our jurisdiction.", "example_ja": "この件は私たちの管轄外だ。" },
+      { "title": "② 管轄区域", "desc": "権限の及ぶ地域。", "example_en": "The crime occurred in another jurisdiction.", "example_ja": "その犯罪は別の管轄区域で起きた。" },
+      { "title": "③ have jurisdiction over ~", "desc": "「〜を管轄する」。", "example_en": "The court has jurisdiction over the area.", "example_ja": "その裁判所はその地域を管轄している。" }
+    ],
+    "warn": ["「〜を管轄する」は have jurisdiction over ~。", "jus（法）＋ diction（言うこと）が語源。justice / judge と同族。"],
+    "etym_note": "ラテン語 jus（法・権利）＋ dictio（言うこと・宣言）を組み合わせた jurisdictio（法を宣言する権限）に由来します。justice（正義）や judge（裁く）と同じ「法」の語源を持ちます。",
+    "etym_chain": [
+      { "node": "jus + dictio", "sub": "法＋言うこと", "era": "ラテン語" },
+      { "node": "jurisdiction", "sub": "司法権", "era": "中英語" },
+      { "node": "jurisdiction", "sub": "管轄権・管轄区域", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "have jurisdiction over", "ja": "〜を管轄する" },
+      { "en": "outside one's jurisdiction", "ja": "管轄外で" },
+      { "en": "within the jurisdiction", "ja": "管轄内で" },
+      { "en": "federal jurisdiction", "ja": "連邦の管轄" },
+      { "en": "legal jurisdiction", "ja": "法的管轄" },
+      { "en": "a different jurisdiction", "ja": "別の管轄区域" }
+    ],
+    "related": [
+      { "en": "authority", "ja": "権限" },
+      { "en": "court", "ja": "裁判所" },
+      { "en": "law", "ja": "法律" },
+      { "en": "control", "ja": "支配・管理" }
+    ],
+    "faq": [
+      { "q": "jurisdiction とはどんな意味ですか？", "a": "裁判所や役所などが、法的な権限を持って物事を扱える「管轄権」や、その権限の及ぶ「管轄区域」を指します。" },
+      { "q": "have jurisdiction over とはどんな意味ですか？", "a": "「〜を管轄する・〜に対する法的権限を持つ」という意味です。The court has jurisdiction over this case.（裁判所はこの件を管轄する）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "That matter is outside the police's ___.（その件は警察の管轄外だ）", "A": "jurisdiction", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jurisdiction と同じ語源の語は？", "A": "justice（正義）", "B": "juice（ジュース）", "C": "jungle（密林）", "D": "jacket（上着）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jugular",
+    "pron": "ˈdʒʌɡjələr",
+    "kana": "ジャギュラー",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 jugulum（のど・鎖骨)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "体・医療"],
+    "meaning_main": "頸静脈（首の太い血管）／急所",
+    "description": "jugular は「頸静脈（けいじょうみゃく）」を表す名詞。首を通る太い血管で、頭部からの血液を心臓へ戻します。急所であることから、go for the jugular（急所を突く・容赦なく攻める）という比喩表現でよく使われます。",
+    "keywords": ["jugular 意味", "jugular 発音", "jugular 頸静脈", "go for the jugular", "jugular 例文"],
+    "meanings": [
+      { "hinshi": "【名】頸静脈", "note": "首を通る太い血管。急所。" },
+      { "hinshi": "【形】首の・のどの", "note": "the jugular vein（頸静脈）。" }
+    ],
+    "usages": [
+      { "title": "① 頸静脈（血管）", "desc": "首の太い血管。", "example_en": "The jugular carries blood from the head.", "example_ja": "頸静脈は頭部から血液を運ぶ。" },
+      { "title": "② go for the jugular（急所を突く）", "desc": "容赦なく攻める。", "example_en": "In the debate, she went for the jugular.", "example_ja": "討論で彼女は相手の急所を突いた。" },
+      { "title": "③ 形容詞（首の）", "desc": "the jugular vein。", "example_en": "The jugular vein is on the side of the neck.", "example_ja": "頸静脈は首の側面にある。" }
+    ],
+    "warn": ["発音は /ˈdʒʌɡjələr/。首の太い血管＝急所を指す。", "go for the jugular は「容赦なく急所を攻める」の比喩。"],
+    "etym_note": "ラテン語 jugulum（のど・鎖骨のくぼみ）に由来します。首を通る重要な血管を指す医学用語として英語に入りました。",
+    "etym_chain": [
+      { "node": "jugulum", "sub": "のど・鎖骨", "era": "ラテン語" },
+      { "node": "jugular", "sub": "頸の", "era": "近代英語" },
+      { "node": "jugular", "sub": "頸静脈・急所", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the jugular vein", "ja": "頸静脈" },
+      { "en": "go for the jugular", "ja": "急所を突く・容赦なく攻める" },
+      { "en": "the jugular", "ja": "頸静脈・急所" },
+      { "en": "aim for the jugular", "ja": "急所を狙う" },
+      { "en": "sever the jugular", "ja": "頸静脈を切る" },
+      { "en": "hit the jugular", "ja": "急所を突く" }
+    ],
+    "related": [
+      { "en": "vein", "ja": "静脈" },
+      { "en": "neck", "ja": "首" },
+      { "en": "artery", "ja": "動脈" },
+      { "en": "throat", "ja": "のど" }
+    ],
+    "faq": [
+      { "q": "jugular とは何ですか？", "a": "首を通る太い血管「頸静脈」です。頭部からの血液を心臓へ戻す重要な血管で、急所でもあります。" },
+      { "q": "go for the jugular とはどんな意味ですか？", "a": "文字通りは「頸静脈（急所）を狙う」ですが、比喩的に「相手の弱点・急所を容赦なく攻める」という意味で使われます。" }
+    ],
+    "quiz": [
+      { "q": "In the argument, he went for the ___ and attacked her weakest point.（議論で彼は急所を突いて彼女の最も弱い点を攻めた）", "A": "jugular", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jugular が指す体の部分は？", "A": "首の血管", "B": "手の骨", "C": "足の筋肉", "D": "耳", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jangle",
+    "pron": "ˈdʒæŋɡl",
+    "kana": "ジャングル",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古フランス語 jangler（ぺちゃくちゃ言う)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR B2", "音"],
+    "meaning_main": "耳障りにガチャガチャ鳴る／(神経を)いらだたせる",
+    "description": "jangle は「(金属などが)耳障りにガチャガチャ鳴る」を表す動詞。鍵束や鎖などが不快な音を立てて鳴る様子を指します。jingle（澄んだチリンという音）と違い、jangle は耳障りな音です。「神経をいらだたせる」の意味でも使われます。",
+    "keywords": ["jangle 意味", "jangle 発音", "jangle ガチャガチャ", "jangle 神経", "jangle 例文"],
+    "meanings": [
+      { "hinshi": "【動】耳障りにガチャガチャ鳴る", "note": "金属などが不快な音を立てる。" },
+      { "hinshi": "【動】(神経を)いらだたせる", "note": "jangle one's nerves。" }
+    ],
+    "usages": [
+      { "title": "① ガチャガチャ鳴る", "desc": "耳障りな金属音。", "example_en": "The keys jangled loudly.", "example_ja": "鍵束がやかましくガチャガチャ鳴った。" },
+      { "title": "② 神経をいらだたせる", "desc": "jangle one's nerves。", "example_en": "The noise jangled my nerves.", "example_ja": "その音は私の神経をいらだたせた。" },
+      { "title": "③ 不快な音（名詞）", "desc": "耳障りな響き。", "example_en": "There was a jangle of chains.", "example_ja": "鎖のガチャガチャという音がした。" }
+    ],
+    "warn": ["jingle（澄んだチリン）と違い、jangle は耳障りなガチャガチャした音。", "「神経をいらだたせる」は jangle one's nerves。"],
+    "etym_note": "古フランス語 jangler（ぺちゃくちゃしゃべる・やかましく言う）に由来します。もとは「口論する」の意味もあり、そこから「耳障りに鳴る」という擬音的な意味になりました。",
+    "etym_chain": [
+      { "node": "jangler", "sub": "やかましく言う", "era": "古フランス語" },
+      { "node": "jangle", "sub": "耳障りに鳴る", "era": "中英語" },
+      { "node": "jangle", "sub": "ガチャガチャ鳴る", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "keys jangle", "ja": "鍵がガチャガチャ鳴る" },
+      { "en": "jangle one's nerves", "ja": "神経をいらだたせる" },
+      { "en": "a jangle of bells", "ja": "鈴の耳障りな音" },
+      { "en": "jangling chains", "ja": "ガチャガチャ鳴る鎖" },
+      { "en": "jangled nerves", "ja": "いらだった神経" },
+      { "en": "jangle discordantly", "ja": "不協和に鳴る" }
+    ],
+    "related": [
+      { "en": "jingle", "ja": "チリンと鳴る" },
+      { "en": "rattle", "ja": "ガタガタ鳴る" },
+      { "en": "clang", "ja": "ガンと鳴る" },
+      { "en": "clatter", "ja": "カタカタ鳴る" }
+    ],
+    "faq": [
+      { "q": "jangle と jingle の違いは？", "a": "jingle は鈴などの澄んだ「チリン」という心地よい音、jangle は鍵束や鎖などの耳障りな「ガチャガチャ」という不快な音を表します。" },
+      { "q": "jangle one's nerves とは？", "a": "「(不快な音などが)神経をいらだたせる・神経に障る」という意味です。" }
+    ],
+    "quiz": [
+      { "q": "The loose chains ___ noisily as he walked.（彼が歩くと緩んだ鎖がやかましくガチャガチャ鳴った）", "A": "jangled", "B": "jammed", "C": "jogged", "D": "jumped", "correct": "A" },
+      { "q": "jangle の音のイメージは？", "A": "耳障りなガチャガチャ音", "B": "澄んだ美しい音", "C": "無音", "D": "やさしいささやき", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jaywalk",
+    "pron": "ˈdʒeɪwɔːk",
+    "kana": "ジェイウォーク",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "jay（おっちょこちょい）＋ walk（歩く)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR B2", "社会・交通"],
+    "meaning_main": "(交通規則を無視して)道路を横断する",
+    "description": "jaywalk は「(信号や横断歩道を無視して)道路を勝手に横断する」を表す動詞。決められた場所や信号を守らずに車道を渡ることを指します。特にアメリカで交通違反とされる行為です。jay（おろか者）＋ walk（歩く）が語源です。",
+    "keywords": ["jaywalk 意味", "jaywalk 発音", "jaywalk 横断", "jaywalking", "jaywalk 例文"],
+    "meanings": [
+      { "hinshi": "【動】(規則を無視して)道路を横断する", "note": "信号・横断歩道を守らず車道を渡る。" }
+    ],
+    "usages": [
+      { "title": "① 勝手に道路を渡る", "desc": "規則違反の横断。", "example_en": "Don't jaywalk; use the crosswalk.", "example_ja": "勝手に渡らないで、横断歩道を使って。" },
+      { "title": "② 交通違反として", "desc": "米では取り締まり対象。", "example_en": "He got a ticket for jaywalking.", "example_ja": "彼は無断横断で切符を切られた。" },
+      { "title": "③ 名詞 jaywalking", "desc": "その行為。", "example_en": "Jaywalking is illegal in many US cities.", "example_ja": "無断横断は多くの米国の都市で違法だ。" }
+    ],
+    "warn": ["特にアメリカで交通違反とされる。名詞・動名詞は jaywalking。", "jay（おろか者・田舎者）＋ walk が語源。"],
+    "etym_note": "jay（おろか者・世間知らずの意の俗語。もとは鳥のカケス）＋ walk（歩く）を合わせた20世紀初めのアメリカの語です。「規則を知らずに道を渡る愚か者」というイメージから生まれました。",
+    "etym_chain": [
+      { "node": "jay + walk", "sub": "おろか者＋歩く", "era": "20世紀初めアメリカ英語" },
+      { "node": "jaywalk", "sub": "無断横断する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "jaywalking", "ja": "無断横断" },
+      { "en": "get a ticket for jaywalking", "ja": "無断横断で切符を切られる" },
+      { "en": "don't jaywalk", "ja": "勝手に渡らないで" },
+      { "en": "a jaywalker", "ja": "無断横断する人" },
+      { "en": "jaywalk across the street", "ja": "通りを無断で横断する" },
+      { "en": "avoid jaywalking", "ja": "無断横断を避ける" }
+    ],
+    "related": [
+      { "en": "crosswalk", "ja": "横断歩道" },
+      { "en": "pedestrian", "ja": "歩行者" },
+      { "en": "cross", "ja": "横断する" },
+      { "en": "traffic", "ja": "交通" }
+    ],
+    "faq": [
+      { "q": "jaywalk とはどんな意味ですか？", "a": "信号や横断歩道を無視して、決められていない場所で車道を勝手に横断することです。特にアメリカで交通違反とされます。" },
+      { "q": "jaywalk の語源は？", "a": "jay（おろか者・世間知らずの俗語）＋ walk（歩く）です。「規則を知らずに道を渡る愚か者」というイメージから生まれました。" }
+    ],
+    "quiz": [
+      { "q": "The police warned him not to ___ across the busy road.（警察は彼に交通量の多い道を無断横断しないよう警告した）", "A": "jaywalk", "B": "jog", "C": "jump", "D": "join", "correct": "A" },
+      { "q": "jaywalk はどんな行為？", "A": "規則を無視した道路横断", "B": "正しい横断", "C": "ジョギング", "D": "運転", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jiggle",
+    "pron": "ˈdʒɪɡl",
+    "kana": "ジグル",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "jog（揺さぶる）＋ wiggle の連想",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B1", "動作"],
+    "meaning_main": "小刻みに揺らす／揺すぶる／ぷるぷる揺れる",
+    "description": "jiggle は「小刻みに揺らす・揺れる」を表す動詞。細かく軽く前後左右に揺れたり揺すったりすることを指します。ゼリーがぷるぷる揺れる様子や、鍵を差し込んで小刻みに動かす様子などに使われます。",
+    "keywords": ["jiggle 意味", "jiggle 発音", "jiggle 揺らす", "jiggle ぷるぷる", "jiggle 例文"],
+    "meanings": [
+      { "hinshi": "【動】小刻みに揺らす・揺すぶる", "note": "細かく軽く揺り動かす。" },
+      { "hinshi": "【動】ぷるぷる揺れる", "note": "小刻みに震える。" }
+    ],
+    "usages": [
+      { "title": "① 小刻みに揺らす", "desc": "軽く揺り動かす。", "example_en": "Jiggle the key to open the lock.", "example_ja": "鍵を小刻みに動かして錠を開けて。" },
+      { "title": "② ぷるぷる揺れる", "desc": "ゼリーなど。", "example_en": "The jelly jiggled on the plate.", "example_ja": "ゼリーが皿の上でぷるぷる揺れた。" },
+      { "title": "③ 貧乏ゆすりなど", "desc": "小刻みに動かす。", "example_en": "He jiggled his leg nervously.", "example_ja": "彼は緊張して貧乏ゆすりをした。" }
+    ],
+    "warn": ["wiggle（くねくね動く）や wobble（ぐらぐら揺れる）と近い。", "小刻みで軽い揺れを表す。"],
+    "etym_note": "jog（軽く揺さぶる）と wiggle（くねくね動く）が混じり合ってできた語だとされます。「小刻みに軽く揺れる」動作を表す擬態的な語です。",
+    "etym_chain": [
+      { "node": "jog + wiggle", "sub": "揺さぶる＋くねくね", "era": "近代英語" },
+      { "node": "jiggle", "sub": "小刻みに揺らす", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "jiggle the handle", "ja": "取っ手を小刻みに揺らす" },
+      { "en": "jiggle up and down", "ja": "上下に小刻みに揺れる" },
+      { "en": "jiggle the key", "ja": "鍵を揺すぶる" },
+      { "en": "jiggle one's leg", "ja": "貧乏ゆすりをする" },
+      { "en": "jiggle loose", "ja": "揺すって緩める" },
+      { "en": "a little jiggle", "ja": "ちょっとした揺れ" }
+    ],
+    "related": [
+      { "en": "wiggle", "ja": "くねくね動く" },
+      { "en": "wobble", "ja": "ぐらぐら揺れる" },
+      { "en": "shake", "ja": "揺らす" },
+      { "en": "wobble", "ja": "ふらつく" }
+    ],
+    "faq": [
+      { "q": "jiggle とはどんな動きですか？", "a": "細かく軽く前後左右に揺れたり揺すったりする動きです。ゼリーがぷるぷる揺れる様子や、鍵を差し込んで小刻みに動かす様子などに使います。" },
+      { "q": "jiggle と wiggle の違いは？", "a": "jiggle は「小刻みに上下・前後に揺れる」、wiggle は「くねくねと左右にくねる」動きを表します。近い語ですが動きのイメージが少し異なります。" }
+    ],
+    "quiz": [
+      { "q": "Sometimes you have to ___ the key to make it work.（鍵をきかせるには小刻みに揺らさないといけないことがある）", "A": "jiggle", "B": "jam", "C": "jog", "D": "jump", "correct": "A" },
+      { "q": "jiggle の動きに近いのは？", "A": "小刻みに揺れる", "B": "まっすぐ止まる", "C": "速く走る", "D": "高く跳ぶ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "juniper",
+    "pron": "ˈdʒuːnɪpər",
+    "kana": "ジュニパー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 juniperus（ネズの木)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR B2", "植物"],
+    "meaning_main": "ネズ（杜松）／ジュニパー（針葉樹）",
+    "description": "juniper は「ネズ（杜松）・ジュニパー」を表す名詞。針のような葉を持つ常緑の針葉樹です。青黒い小さな実（ジュニパーベリー）は、蒸留酒ジンの香りづけや料理のスパイスとして使われることで知られます。",
+    "keywords": ["juniper 意味", "juniper 発音", "juniper ネズ", "juniper berry ジン", "juniper 例文"],
+    "meanings": [
+      { "hinshi": "【名】ネズ（杜松）・ジュニパー", "note": "針葉の常緑樹。実はジンの香りづけに使う。" }
+    ],
+    "usages": [
+      { "title": "① ジュニパー（木）", "desc": "常緑の針葉樹。", "example_en": "A juniper grew on the rocky hillside.", "example_ja": "ネズの木が岩の斜面に生えていた。" },
+      { "title": "② ジュニパーベリー", "desc": "ジンの香りづけ。", "example_en": "Gin gets its flavor from juniper berries.", "example_ja": "ジンはジュニパーベリーから香りを得る。" },
+      { "title": "③ 料理のスパイス", "desc": "肉料理などに。", "example_en": "Juniper berries are used in some meat dishes.", "example_ja": "ジュニパーベリーは一部の肉料理に使われる。" }
+    ],
+    "warn": ["発音は /ˈdʒuːnɪpər/。実(juniper berry)はジンの香りの由来。", "常緑の針葉樹。実は香辛料としても使う。"],
+    "etym_note": "ラテン語 juniperus（ネズの木）に由来します。この木の実（ジュニパーベリー）が蒸留酒ジン（gin）の香りづけに使われることで広く知られています。",
+    "etym_chain": [
+      { "node": "juniperus", "sub": "ネズの木", "era": "ラテン語" },
+      { "node": "juniper", "sub": "ジュニパー", "era": "中英語" },
+      { "node": "juniper", "sub": "ネズ・ジュニパー", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "juniper berries", "ja": "ジュニパーベリー" },
+      { "en": "a juniper tree", "ja": "ネズの木" },
+      { "en": "the scent of juniper", "ja": "ジュニパーの香り" },
+      { "en": "gin and juniper", "ja": "ジンとジュニパー" },
+      { "en": "a juniper bush", "ja": "ネズの低木" },
+      { "en": "juniper oil", "ja": "ジュニパーの精油" }
+    ],
+    "related": [
+      { "en": "pine", "ja": "松" },
+      { "en": "berry", "ja": "実・ベリー" },
+      { "en": "gin", "ja": "ジン(酒)" },
+      { "en": "tree", "ja": "木" }
+    ],
+    "faq": [
+      { "q": "juniper とはどんな木ですか？", "a": "針のような葉を持つ常緑の針葉樹「ネズ（杜松）」です。青黒い小さな実（ジュニパーベリー）は、ジンの香りづけや料理のスパイスに使われます。" },
+      { "q": "juniper とジン（gin）の関係は？", "a": "ジュニパーの実（juniper berry）が、蒸留酒ジンの独特の香りの主な由来です。ジンはジュニパーで香りづけされたお酒です。" }
+    ],
+    "quiz": [
+      { "q": "The drink gin is flavored with ___ berries.（酒のジンはジュニパーの実で香りづけされる）", "A": "juniper", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "juniper の実が香りづけに使われる酒は？", "A": "ジン", "B": "日本酒", "C": "ワイン", "D": "ビール", "correct": "A" }
+    ]
+  },
+  {
+    "english": "julienne",
+    "pron": "ˌdʒuːliˈen",
+    "kana": "ジュリエン",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "フランス語 julienne（人名 Julesより)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR B2", "料理"],
+    "meaning_main": "(野菜を)千切りにする／細切り",
+    "description": "julienne は「(野菜などを)細長い千切りにする」を表す動詞、また「千切り」を表す名詞・形容詞です。料理で、にんじんやきゅうりなどをマッチ棒のような細い棒状に切ることを指します。フランス料理由来の言葉です。",
+    "keywords": ["julienne 意味", "julienne 発音", "julienne 千切り", "julienne 細切り", "julienne 例文"],
+    "meanings": [
+      { "hinshi": "【動】千切りにする・細切りにする", "note": "野菜などを細い棒状に切る。" },
+      { "hinshi": "【名/形】千切り(の)", "note": "マッチ棒状の細切り。" }
+    ],
+    "usages": [
+      { "title": "① 千切りにする（動詞）", "desc": "細長く切る。", "example_en": "Julienne the carrots for the salad.", "example_ja": "サラダ用ににんじんを千切りにして。" },
+      { "title": "② 千切り（名詞・形容詞）", "desc": "細切りの状態。", "example_en": "Add some julienne vegetables.", "example_ja": "千切りの野菜を加えて。" },
+      { "title": "③ 細い棒状に", "desc": "マッチ棒のように。", "example_en": "The cucumber was cut julienne.", "example_ja": "きゅうりは千切りに切られた。" }
+    ],
+    "warn": ["発音は /ˌdʒuːliˈen/（フランス語風）。料理用語で「細長い千切り」を指す。", "さいの目切りは dice、みじん切りは mince。"],
+    "etym_note": "フランス語 julienne に由来し、人名 Jules（ジュール）に関係するとされます。18世紀のフランス料理で、この切り方を使ったスープの名から広まりました。",
+    "etym_chain": [
+      { "node": "julienne", "sub": "人名Julesより", "era": "フランス語" },
+      { "node": "julienne", "sub": "千切り", "era": "18世紀英語" },
+      { "node": "julienne", "sub": "千切りにする", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "julienne the carrots", "ja": "にんじんを千切りにする" },
+      { "en": "julienne vegetables", "ja": "千切りの野菜" },
+      { "en": "cut julienne", "ja": "千切りに切る" },
+      { "en": "julienne strips", "ja": "千切りの細片" },
+      { "en": "a julienne cut", "ja": "千切り" },
+      { "en": "julienne of vegetables", "ja": "野菜の千切り" }
+    ],
+    "related": [
+      { "en": "slice", "ja": "薄切りにする" },
+      { "en": "dice", "ja": "さいの目に切る" },
+      { "en": "chop", "ja": "刻む" },
+      { "en": "shred", "ja": "細切りにする" }
+    ],
+    "faq": [
+      { "q": "julienne とはどんな切り方ですか？", "a": "野菜などをマッチ棒のような細長い棒状（千切り）に切ることです。フランス料理由来の言葉で、動詞・名詞・形容詞として使えます。" },
+      { "q": "julienne と dice の違いは？", "a": "julienne は「細長い千切り」、dice は「さいの目に切る（小さな立方体）」です。切る形が異なります。" }
+    ],
+    "quiz": [
+      { "q": "___ the carrots into thin matchstick strips.（にんじんをマッチ棒状の細い千切りにして）", "A": "Julienne", "B": "Jam", "C": "Jog", "D": "Jump", "correct": "A" },
+      { "q": "julienne はどんな切り方？", "A": "細長い千切り", "B": "さいの目切り", "C": "薄切り", "D": "みじん切り", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jocular",
+    "pron": "ˈdʒɒkjələr",
+    "kana": "ジョキュラー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ラテン語 jocus（冗談)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "様子・文語"],
+    "meaning_main": "冗談好きの／おどけた／ふざけた",
+    "description": "jocular は「冗談好きの・おどけた」を表す形容詞。冗談を言ったり、ふざけて人を笑わせたりするような様子を表します。ややかたい文語的な語で、joke（冗談）と同じラテン語 jocus が語源です。",
+    "keywords": ["jocular 意味", "jocular 発音", "jocular 冗談好き", "jocular おどけた", "jocular 例文"],
+    "meanings": [
+      { "hinshi": "【形】冗談好きの・おどけた・ふざけた", "note": "冗談を言って笑わせるような様子。" }
+    ],
+    "usages": [
+      { "title": "① 冗談好きの（人）", "desc": "ユーモアがある。", "example_en": "He is a jocular man who loves a good laugh.", "example_ja": "彼は大笑いが好きな冗談好きの男だ。" },
+      { "title": "② おどけた口調", "desc": "ふざけた調子。", "example_en": "She spoke in a jocular tone.", "example_ja": "彼女はおどけた口調で話した。" },
+      { "title": "③ ふざけた発言", "desc": "冗談めかした。", "example_en": "His jocular remark made everyone smile.", "example_ja": "彼のおどけた発言はみんなを笑顔にした。" }
+    ],
+    "warn": ["やや文語的な語。joke（冗談）と同じ語源。", "serious（まじめな）の反対のニュアンス。"],
+    "etym_note": "ラテン語 jocus（冗談・遊び）に由来します。joke（冗談）や jocose（おどけた）と同じ語源で、「冗談めいた・おどけた」という意味を持ちます。",
+    "etym_chain": [
+      { "node": "jocus", "sub": "冗談", "era": "ラテン語" },
+      { "node": "jocular", "sub": "おどけた", "era": "17世紀英語" },
+      { "node": "jocular", "sub": "冗談好きの・おどけた", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a jocular tone", "ja": "おどけた口調" },
+      { "en": "a jocular remark", "ja": "ふざけた発言" },
+      { "en": "in a jocular mood", "ja": "冗談を言いたい気分で" },
+      { "en": "a jocular manner", "ja": "おどけた態度" },
+      { "en": "jocular and lighthearted", "ja": "おどけて気楽な" },
+      { "en": "a jocular fellow", "ja": "冗談好きの男" }
+    ],
+    "related": [
+      { "en": "humorous", "ja": "ユーモアのある" },
+      { "en": "playful", "ja": "遊び心のある" },
+      { "en": "witty", "ja": "機知に富んだ" },
+      { "en": "serious", "ja": "まじめな" }
+    ],
+    "faq": [
+      { "q": "jocular とはどんな意味ですか？", "a": "冗談を言ったり、ふざけて人を笑わせたりするような「冗談好きの・おどけた」様子を表す、ややかたい文語的な形容詞です。" },
+      { "q": "jocular と joke は関係がありますか？", "a": "はい。どちらもラテン語 jocus（冗談）に由来する同語源の語です。jocular は「冗談めいた・おどけた」を表します。" }
+    ],
+    "quiz": [
+      { "q": "His ___ comments kept the whole team laughing.（彼のおどけた発言はチーム全員を笑わせ続けた）", "A": "jocular", "B": "jealous", "C": "jaded", "D": "jumbo", "correct": "A" },
+      { "q": "jocular の意味に近いのは？", "A": "冗談好きの・おどけた", "B": "まじめで厳格な", "C": "悲しい", "D": "怒った", "correct": "A" }
+    ]
+  }
+]

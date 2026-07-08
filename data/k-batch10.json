@@ -1,0 +1,505 @@
+[
+  {
+    "english": "kale",
+    "pron": "keɪl",
+    "kana": "ケイル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 cāl（キャベツ類）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "食べ物・野菜"],
+    "meaning_main": "ケール（緑葉野菜）",
+    "description": "kale は「ケール」を表す名詞。キャベツの仲間の緑の葉物野菜で、栄養価が高く「スーパーフード」として人気です。青汁の原料としても知られ、原則不可算名詞です。",
+    "keywords": ["kale 意味", "kale 発音", "kale ケール", "kale 野菜", "kale 例文"],
+    "meanings": [
+      { "hinshi": "【名】ケール", "note": "キャベツ類の緑の葉物野菜。栄養豊富。不可算。" }
+    ],
+    "usages": [
+      { "title": "① ケール（野菜）", "desc": "サラダやスムージーに。", "example_en": "I added kale to my smoothie.", "example_ja": "私はスムージーにケールを入れた。" },
+      { "title": "② 健康食品として", "desc": "栄養価が高い。", "example_en": "Kale is rich in vitamins.", "example_ja": "ケールはビタミンが豊富だ。" },
+      { "title": "③ 不可算名詞", "desc": "数えず some kale などで。", "example_en": "She bought some kale at the market.", "example_ja": "彼女は市場でケールを買った。" }
+    ],
+    "warn": ["原則不可算名詞。数えるときは a bunch of kale など。", "発音は /keɪl/。jail などと母音は同じ。"],
+    "etym_note": "古英語 cāl（キャベツ類の野菜）に由来し、ラテン語 caulis（茎・キャベツ）につながります。cauliflower（カリフラワー）などと同語源です。",
+    "etym_chain": [
+      { "node": "caulis", "sub": "茎・キャベツ", "era": "ラテン語" },
+      { "node": "cāl", "sub": "キャベツ類", "era": "古英語" },
+      { "node": "kale", "sub": "ケール", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a bunch of kale", "ja": "ケール1束" },
+      { "en": "kale salad", "ja": "ケールのサラダ" },
+      { "en": "kale smoothie", "ja": "ケールのスムージー" },
+      { "en": "curly kale", "ja": "縮れ葉ケール" },
+      { "en": "steamed kale", "ja": "蒸したケール" },
+      { "en": "kale chips", "ja": "ケールチップス" }
+    ],
+    "related": [
+      { "en": "cabbage", "ja": "キャベツ" },
+      { "en": "spinach", "ja": "ほうれん草" },
+      { "en": "lettuce", "ja": "レタス" },
+      { "en": "vegetable", "ja": "野菜" }
+    ],
+    "faq": [
+      { "q": "kale はなぜ人気なのですか？", "a": "ビタミンやミネラル、食物繊維が豊富で栄養価が高いため、「スーパーフード」として健康志向の人々に人気があります。" },
+      { "q": "kale は数えられますか？", "a": "原則として不可算名詞です。数えるときは a bunch of kale（ケール1束）のように表します。" }
+    ],
+    "quiz": [
+      { "q": "___ is a healthy leafy green vegetable.（ケールは健康的な緑の葉物野菜だ）", "A": "Kale", "B": "Kettle", "C": "Kernel", "D": "Keeper", "correct": "A" },
+      { "q": "kale は何の仲間の野菜？", "A": "トマト", "B": "キャベツ", "C": "じゃがいも", "D": "きのこ", "correct": "B" }
+    ]
+  },
+  {
+    "english": "kebab",
+    "pron": "kɪˈbæb",
+    "kana": "ケバブ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "アラビア語 kabāb（焼き肉）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "食べ物"],
+    "meaning_main": "ケバブ（串焼き肉・中東の焼き肉料理）",
+    "description": "kebab は「ケバブ」を表す名詞。中東発祥の焼き肉料理で、串に刺して焼いたものや、薄切りにして削ぐものなどがあります。アラビア語で「焼き肉」を意味する語が語源です。",
+    "keywords": ["kebab 意味", "kebab 発音", "kebab ケバブ", "kebab 串焼き", "kebab 例文"],
+    "meanings": [
+      { "hinshi": "【名】ケバブ", "note": "中東発祥の焼き肉料理。串焼きや削ぎ肉。" }
+    ],
+    "usages": [
+      { "title": "① 串焼きケバブ (shish kebab)", "desc": "串に刺して焼く。", "example_en": "We grilled lamb kebabs for dinner.", "example_ja": "私たちは夕食にラムのケバブを焼いた。" },
+      { "title": "② 削ぎ肉のケバブ (doner kebab)", "desc": "回転させて焼き薄く削ぐ。", "example_en": "He bought a doner kebab from the stall.", "example_ja": "彼は屋台でドネルケバブを買った。" },
+      { "title": "③ 野菜と一緒に", "desc": "vegetable kebab など。", "example_en": "These kebabs have meat and vegetables.", "example_ja": "これらのケバブには肉と野菜が入っている。" }
+    ],
+    "warn": ["kebab / kabob など綴りにゆれがある。", "shish kebab（串焼き）と doner kebab（削ぎ肉）は別のタイプ。"],
+    "etym_note": "アラビア語 kabāb（焼いた肉）に由来し、トルコ語 kebap を経て英語に入りました。中東・地中海地域の伝統的な肉料理を指します。",
+    "etym_chain": [
+      { "node": "kabāb", "sub": "焼き肉", "era": "アラビア語" },
+      { "node": "kebap", "sub": "ケバブ", "era": "トルコ語" },
+      { "node": "kebab", "sub": "ケバブ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "shish kebab", "ja": "シシケバブ(串焼き)" },
+      { "en": "doner kebab", "ja": "ドネルケバブ(削ぎ肉)" },
+      { "en": "lamb kebab", "ja": "ラムのケバブ" },
+      { "en": "grill kebabs", "ja": "ケバブを焼く" },
+      { "en": "a kebab shop", "ja": "ケバブ店" },
+      { "en": "chicken kebab", "ja": "チキンケバブ" }
+    ],
+    "related": [
+      { "en": "grill", "ja": "焼く・グリル" },
+      { "en": "skewer", "ja": "串" },
+      { "en": "meat", "ja": "肉" },
+      { "en": "barbecue", "ja": "バーベキュー" }
+    ],
+    "faq": [
+      { "q": "kebab の語源は？", "a": "アラビア語 kabāb（焼き肉）に由来し、トルコ語を経て英語になりました。中東・地中海地域の伝統的な焼き肉料理です。" },
+      { "q": "shish kebab と doner kebab の違いは？", "a": "shish kebab は串に刺して焼く「串焼き」、doner kebab は肉を回転させて焼きながら薄く削ぐタイプです。" }
+    ],
+    "quiz": [
+      { "q": "We put meat and peppers on skewers to make ___.（肉とピーマンを串に刺してケバブを作った）", "A": "kebabs", "B": "kettles", "C": "kernels", "D": "keepers", "correct": "A" },
+      { "q": "kebab はもともとどの地域の料理？", "A": "中東", "B": "北欧", "C": "南米", "D": "東アジア", "correct": "A" }
+    ]
+  },
+  {
+    "english": "keynote",
+    "pron": "ˈkiːnoʊt",
+    "kana": "キーノート",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "key（基調・鍵）＋ note（音・調子)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "ビジネス・音楽"],
+    "meaning_main": "基調／主眼／基調講演",
+    "description": "keynote は「基調・主眼」を表す名詞。key（基調）＋ note（調子）から成り、演説や催しの中心となる考えを指します。keynote speech（基調講演）が特に頻出の表現です。",
+    "keywords": ["keynote 意味", "keynote 発音", "keynote 基調講演", "keynote speech", "keynote 例文"],
+    "meanings": [
+      { "hinshi": "【名】基調・主眼", "note": "考えや方針の中心となるもの。" },
+      { "hinshi": "【名】基調講演", "note": "会議の中心となる主要な講演。" },
+      { "hinshi": "【名】(音楽)主音・基音", "note": "音階の基準となる音。" }
+    ],
+    "usages": [
+      { "title": "① 基調講演 (keynote speech)", "desc": "会議の中心となる講演。", "example_en": "She gave the keynote speech at the conference.", "example_ja": "彼女は会議で基調講演を行った。" },
+      { "title": "② 基調・主眼", "desc": "全体を貫く考え。", "example_en": "Hope was the keynote of his message.", "example_ja": "希望が彼のメッセージの基調だった。" },
+      { "title": "③ 基調講演者 (keynote speaker)", "desc": "中心となる講演者。", "example_en": "The keynote speaker was a famous scientist.", "example_ja": "基調講演者は有名な科学者だった。" }
+    ],
+    "warn": ["key＋note の複合語。1語で書く。", "keynote speech（基調講演）、keynote speaker（基調講演者）はセットで覚える。"],
+    "etym_note": "音楽用語で「音階の基準となる主音（keynote）」を指したのが始まりです。そこから比喩的に「全体の基調・中心となる考え」を意味するようになりました。",
+    "etym_chain": [
+      { "node": "key + note", "sub": "基調＋音", "era": "18世紀英語" },
+      { "node": "keynote", "sub": "主音・基調", "era": "近代英語" },
+      { "node": "keynote", "sub": "基調・基調講演", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "keynote speech", "ja": "基調講演" },
+      { "en": "keynote speaker", "ja": "基調講演者" },
+      { "en": "keynote address", "ja": "基調演説" },
+      { "en": "strike the keynote", "ja": "基調を示す" },
+      { "en": "the keynote of the event", "ja": "催しの主眼" },
+      { "en": "deliver a keynote", "ja": "基調講演を行う" }
+    ],
+    "related": [
+      { "en": "theme", "ja": "テーマ・主題" },
+      { "en": "speech", "ja": "演説" },
+      { "en": "main", "ja": "主要な" },
+      { "en": "tone", "ja": "調子・基調" }
+    ],
+    "faq": [
+      { "q": "keynote speech とは何ですか？", "a": "会議やイベントの「中心となる主要な講演（基調講演）」のことです。その催し全体の方向性やテーマを示す重要な演説です。" },
+      { "q": "keynote の語源は？", "a": "音楽で音階の基準となる「主音（keynote）」が語源です。そこから「全体を貫く基調・中心となる考え」の意味になりました。" }
+    ],
+    "quiz": [
+      { "q": "The CEO delivered the ___ speech at the summit.（CEOは首脳会議で基調講演を行った）", "A": "keynote", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "keynote は key ＋ ___ の複合語。空所は？", "A": "note", "B": "board", "C": "hole", "D": "word", "correct": "A" }
+    ]
+  },
+  {
+    "english": "keypad",
+    "pron": "ˈkiːpæd",
+    "kana": "キーパッド",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "key（キー）＋ pad（板・台)",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "IT・機器"],
+    "meaning_main": "キーパッド（数字などのボタン一式）",
+    "description": "keypad は「キーパッド」を表す名詞。数字や記号のボタンがまとまった小さな入力パネルを指します。電話・電卓・暗証番号入力機などに付いており、key（キー）＋ pad（板）の複合語です。",
+    "keywords": ["keypad 意味", "keypad 発音", "keypad キーパッド", "keypad 暗証番号", "keypad 例文"],
+    "meanings": [
+      { "hinshi": "【名】キーパッド", "note": "数字・記号のボタンがまとまった入力パネル。" }
+    ],
+    "usages": [
+      { "title": "① 数字キーパッド", "desc": "電話や電卓のボタン。", "example_en": "Enter the number on the keypad.", "example_ja": "キーパッドで番号を入力して。" },
+      { "title": "② 暗証番号入力", "desc": "ドアやATMのパネル。", "example_en": "Type your PIN into the keypad.", "example_ja": "キーパッドに暗証番号を入力して。" },
+      { "title": "③ キーボードの数字部分", "desc": "numeric keypad（テンキー）。", "example_en": "The numeric keypad is on the right.", "example_ja": "テンキーは右側にある。" }
+    ],
+    "warn": ["key＋pad の複合語。1語で書く。", "keyboard（キーボード全体）とは違い、数字などの小さなボタン一式を指す。"],
+    "etym_note": "key（キー・ボタン）＋ pad（平たい板・台）を合わせた20世紀の複合語です。電話や電卓の普及とともに使われるようになりました。",
+    "etym_chain": [
+      { "node": "key + pad", "sub": "キー＋台", "era": "20世紀英語" },
+      { "node": "keypad", "sub": "キーパッド", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "numeric keypad", "ja": "数字キーパッド・テンキー" },
+      { "en": "enter on the keypad", "ja": "キーパッドで入力する" },
+      { "en": "a security keypad", "ja": "暗証番号入力パネル" },
+      { "en": "touch keypad", "ja": "タッチ式キーパッド" },
+      { "en": "phone keypad", "ja": "電話のキーパッド" },
+      { "en": "keypad lock", "ja": "暗証番号錠" }
+    ],
+    "related": [
+      { "en": "keyboard", "ja": "キーボード" },
+      { "en": "button", "ja": "ボタン" },
+      { "en": "key", "ja": "キー" },
+      { "en": "PIN", "ja": "暗証番号" }
+    ],
+    "faq": [
+      { "q": "keypad と keyboard の違いは？", "a": "keyboard は文字入力用の大きなキーボード全体、keypad は数字や記号のボタンがまとまった小さなパネルを指します。電話や電卓のボタン部分などです。" },
+      { "q": "numeric keypad とは？", "a": "数字を入力するためのキーパッドで、日本語では「テンキー」とも呼ばれます。キーボードの右側にあることが多いです。" }
+    ],
+    "quiz": [
+      { "q": "Enter your secret code on the ___.（キーパッドに暗証番号を入力して）", "A": "keypad", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "keypad は key ＋ ___ の複合語。空所は？", "A": "pad", "B": "board", "C": "hole", "D": "note", "correct": "A" }
+    ]
+  },
+  {
+    "english": "knowingly",
+    "pron": "ˈnoʊɪŋli",
+    "kana": "ノウイングリー",
+    "hinshi": "副詞",
+    "ld_pos": "副詞",
+    "ld_etym": "knowing（知っている）＋ -ly（副詞語尾)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "頻出語"],
+    "meaning_main": "知りながら／故意に／意味ありげに",
+    "description": "knowingly は「知りながら・故意に」を表す副詞。know（知る）から派生し、事情を承知のうえで行うことを表します。法律の文脈で重要なほか、「意味ありげに」の意味でも使われます。",
+    "keywords": ["knowingly 意味", "knowingly 発音", "knowingly 故意に", "knowingly 知りながら", "knowingly 例文"],
+    "meanings": [
+      { "hinshi": "【副】知りながら・故意に", "note": "事情を承知のうえで。" },
+      { "hinshi": "【副】意味ありげに", "note": "分かっているという表情で。" }
+    ],
+    "usages": [
+      { "title": "① 知りながら・故意に", "desc": "承知のうえで。法律でも重要。", "example_en": "He knowingly broke the rules.", "example_ja": "彼は知っていて規則を破った。" },
+      { "title": "② 意味ありげに", "desc": "分かっている様子で。", "example_en": "She smiled knowingly.", "example_ja": "彼女は意味ありげにほほえんだ。" },
+      { "title": "③ 法律の文脈", "desc": "故意性を示す。", "example_en": "It is illegal to knowingly sell fake goods.", "example_ja": "偽物と知りながら売るのは違法だ。" }
+    ],
+    "warn": ["反対は unknowingly（知らずに）。", "「故意に」は intentionally / deliberately も類義。"],
+    "etym_note": "動詞 know の現在分詞 knowing（知っている）に、副詞をつくる -ly が付いた語です。「知っている状態で行う」という意味を表します。",
+    "etym_chain": [
+      { "node": "knowing", "sub": "知っている", "era": "中英語" },
+      { "node": "knowingly", "sub": "知りながら", "era": "近代英語" },
+      { "node": "knowingly", "sub": "故意に・意味ありげに", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "knowingly break the law", "ja": "承知で法を破る" },
+      { "en": "smile knowingly", "ja": "意味ありげに笑う" },
+      { "en": "knowingly deceive", "ja": "故意にだます" },
+      { "en": "nod knowingly", "ja": "分かった様子でうなずく" },
+      { "en": "knowingly and willingly", "ja": "承知のうえで進んで" },
+      { "en": "not knowingly", "ja": "故意にではなく" }
+    ],
+    "related": [
+      { "en": "deliberately", "ja": "故意に" },
+      { "en": "intentionally", "ja": "意図的に" },
+      { "en": "unknowingly", "ja": "知らずに" },
+      { "en": "consciously", "ja": "意識的に" }
+    ],
+    "faq": [
+      { "q": "knowingly と unknowingly の違いは？", "a": "knowingly は「知りながら・故意に」、unknowingly は「知らずに・無意識に」で反対の意味です。" },
+      { "q": "knowingly は法律でなぜ重要ですか？", "a": "「知っていて（故意に）行ったか」は罪の重さを左右するため、法律の文書で「knowingly（故意に）」という語が重要な意味を持ちます。" }
+    ],
+    "quiz": [
+      { "q": "You cannot ___ sell dangerous products.（危険な製品と知りながら売ってはいけない）", "A": "knowingly", "B": "kindly", "C": "keenly", "D": "kinetic", "correct": "A" },
+      { "q": "knowingly の反対語は？", "A": "unknowingly", "B": "knowledgeable", "C": "known", "D": "knowing", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kingly",
+    "pron": "ˈkɪŋli",
+    "kana": "キングリー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "king（王）＋ -ly（〜のような)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "文語的"],
+    "meaning_main": "王のような／王にふさわしい／堂々とした",
+    "description": "kingly は「王のような・王にふさわしい」を表す形容詞。king（王）＋ -ly でできています。威厳があり堂々としたようすや、王者にふさわしい立派さを表す文語的な語です。",
+    "keywords": ["kingly 意味", "kingly 発音", "kingly 王のような", "kingly 威厳", "kingly 例文"],
+    "meanings": [
+      { "hinshi": "【形】王のような・王にふさわしい", "note": "威厳があり堂々としたようす。" },
+      { "hinshi": "【形】立派な・豪華な", "note": "王者にふさわしい壮麗さ。" }
+    ],
+    "usages": [
+      { "title": "① 王のような・威厳のある", "desc": "堂々とした態度。", "example_en": "He had a kingly bearing.", "example_ja": "彼には王者のような風格があった。" },
+      { "title": "② 王にふさわしい・豪華な", "desc": "立派さを表す。", "example_en": "They gave him a kingly welcome.", "example_ja": "彼らは彼を王のように歓待した。" },
+      { "title": "③ 気前のよい", "desc": "a kingly sum（気前のよい大金）。", "example_en": "She paid a kingly sum for it.", "example_ja": "彼女はそれに大金を支払った。" }
+    ],
+    "warn": ["king＋-ly の形容詞。副詞ではない点に注意（-ly でも形容詞）。", "文語的な語。類義に royal, regal, majestic。"],
+    "etym_note": "king（王）に、「〜のような・〜らしい」を表す接尾辞 -ly が付いた形容詞です。friendly（友好的な）と同じく、-ly でも形容詞になる例です。",
+    "etym_chain": [
+      { "node": "cyninglic", "sub": "王のような", "era": "古英語" },
+      { "node": "kingly", "sub": "王らしい", "era": "中英語" },
+      { "node": "kingly", "sub": "王のような", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a kingly bearing", "ja": "王者のような風格" },
+      { "en": "kingly robes", "ja": "王者の衣" },
+      { "en": "a kingly welcome", "ja": "王のような歓待" },
+      { "en": "kingly dignity", "ja": "王者の威厳" },
+      { "en": "a kingly sum", "ja": "気前のよい大金" },
+      { "en": "look kingly", "ja": "王者らしく見える" }
+    ],
+    "related": [
+      { "en": "royal", "ja": "王の・王室の" },
+      { "en": "regal", "ja": "王者の・堂々とした" },
+      { "en": "majestic", "ja": "威厳のある" },
+      { "en": "noble", "ja": "気高い" }
+    ],
+    "faq": [
+      { "q": "kingly は -ly で終わりますが副詞ですか？", "a": "いいえ、形容詞です。friendly や lovely と同じく、-ly でも形容詞になる語です。「王のような」という意味を表します。" },
+      { "q": "kingly と royal の違いは？", "a": "royal は「王室の・王に属する」という事実を表し、kingly は「王のように威厳がある・立派だ」という様子や性質を表す、より文語的な語です。" }
+    ],
+    "quiz": [
+      { "q": "The old man had a ___ appearance.（その老人は王者のような風貌をしていた）", "A": "kingly", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "kingly は king ＋ ___ の形容詞。空所は？", "A": "-ly", "B": "-ness", "C": "-dom", "D": "-ful", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kilohertz",
+    "pron": "ˈkɪloʊhɜːrts",
+    "kana": "キロヘルツ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "kilo（千）＋ hertz（ヘルツ)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "科学・単位"],
+    "meaning_main": "キロヘルツ（周波数の単位）",
+    "description": "kilohertz は周波数の単位「キロヘルツ」を表す名詞。1キロヘルツ＝1000ヘルツ（1秒間に1000回の振動）です。略号は kHz。ラジオ放送や音の周波数を表すのに使われます。",
+    "keywords": ["kilohertz 意味", "kilohertz 発音", "kilohertz キロヘルツ", "kHz 単位", "kilohertz 例文"],
+    "meanings": [
+      { "hinshi": "【名】キロヘルツ", "note": "周波数の単位。1kHz＝1000Hz。略号 kHz。" }
+    ],
+    "usages": [
+      { "title": "① 周波数を表す", "desc": "音や電波の振動数。", "example_en": "The radio station broadcasts at 720 kilohertz.", "example_ja": "そのラジオ局は720キロヘルツで放送している。" },
+      { "title": "② 音の周波数", "desc": "高い音ほど数値が大きい。", "example_en": "Humans can hear sounds up to about 20 kilohertz.", "example_ja": "人間は約20キロヘルツまでの音を聞ける。" },
+      { "title": "③ 単複同形・略号 kHz", "desc": "単数も複数も kilohertz。", "example_en": "The signal was at 50 kilohertz.", "example_ja": "その信号は50キロヘルツだった。" }
+    ],
+    "warn": ["略号は kHz（k は小文字、Hz の H は大文字）。単複同形。", "1 kilohertz = 1000 hertz。上位は megahertz（MHz）。"],
+    "etym_note": "「千」を表す接頭辞 kilo- と、周波数の単位 hertz を組み合わせた語です。hertz は電磁波を研究した物理学者ハインリヒ・ヘルツにちなんで名づけられました。",
+    "etym_chain": [
+      { "node": "kilo + hertz", "sub": "千＋ヘルツ", "era": "20世紀英語" },
+      { "node": "kilohertz", "sub": "キロヘルツ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "at 500 kilohertz", "ja": "500キロヘルツで" },
+      { "en": "kilohertz range", "ja": "キロヘルツ帯" },
+      { "en": "radio frequency in kHz", "ja": "kHz単位の無線周波数" },
+      { "en": "a few kilohertz", "ja": "数キロヘルツ" },
+      { "en": "megahertz and kilohertz", "ja": "メガヘルツとキロヘルツ" },
+      { "en": "20 kilohertz", "ja": "20キロヘルツ" }
+    ],
+    "related": [
+      { "en": "hertz", "ja": "ヘルツ" },
+      { "en": "megahertz", "ja": "メガヘルツ" },
+      { "en": "frequency", "ja": "周波数" },
+      { "en": "wave", "ja": "波" }
+    ],
+    "faq": [
+      { "q": "1キロヘルツは何ヘルツですか？", "a": "1000ヘルツです。1秒間に1000回の振動を表します。kilo- は「千」を表す接頭辞で、略号は kHz です。" },
+      { "q": "kilohertz は何を表しますか？", "a": "音や電波の「周波数（1秒あたりの振動回数）」の単位です。ラジオの周波数や音の高さを表すのに使われます。" }
+    ],
+    "quiz": [
+      { "q": "The AM radio station is at 900 ___.（そのAMラジオ局は900キロヘルツだ）", "A": "kilohertz", "B": "kilograms", "C": "kilometers", "D": "kilowatts", "correct": "A" },
+      { "q": "kilohertz の略号は？", "A": "kHz", "B": "kg", "C": "kW", "D": "km", "correct": "A" }
+    ]
+  },
+  {
+    "english": "khan",
+    "pron": "kɑːn",
+    "kana": "カーン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "モンゴル・トルコ語 khan（君主・支配者)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "歴史・文化"],
+    "meaning_main": "ハン（中央アジアの君主の称号）",
+    "description": "khan は「ハン」を表す名詞。中央アジアやモンゴルの君主・支配者に与えられた称号です。チンギス・ハン（Genghis Khan）が特に有名で、現在は姓としても広く使われています。",
+    "keywords": ["khan 意味", "khan 発音", "khan ハン", "Genghis Khan", "khan 例文"],
+    "meanings": [
+      { "hinshi": "【名】ハン（君主の称号）", "note": "中央アジア・モンゴルの支配者の称号。" },
+      { "hinshi": "【名】(姓)カーン", "note": "現代では人名の姓としても使われる。" }
+    ],
+    "usages": [
+      { "title": "① ハン（歴史上の称号）", "desc": "遊牧民国家の君主。", "example_en": "Genghis Khan built a vast empire.", "example_ja": "チンギス・ハンは広大な帝国を築いた。" },
+      { "title": "② モンゴル帝国の支配者", "desc": "大ハン（Great Khan）など。", "example_en": "Kublai Khan ruled a huge territory.", "example_ja": "フビライ・ハンは巨大な領土を治めた。" },
+      { "title": "③ 姓としての Khan", "desc": "現代の人名。", "example_en": "The actor's surname is Khan.", "example_ja": "その俳優の姓はカーンだ。" }
+    ],
+    "warn": ["発音は /kɑːn/（カーン）で、con などと母音を区別。", "特定のハンを指すときは Genghis Khan のように大文字。"],
+    "etym_note": "モンゴル・トルコ系の言葉 khan（君主・支配者）に由来します。チンギス・ハンをはじめ遊牧民国家の統治者の称号として使われ、後にヨーロッパにも知られました。",
+    "etym_chain": [
+      { "node": "khan", "sub": "君主・支配者", "era": "モンゴル・トルコ語" },
+      { "node": "khan", "sub": "ハンの称号", "era": "中世英語" },
+      { "node": "khan", "sub": "ハン・姓", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Genghis Khan", "ja": "チンギス・ハン" },
+      { "en": "Kublai Khan", "ja": "フビライ・ハン" },
+      { "en": "the Great Khan", "ja": "大ハン" },
+      { "en": "a Mongol khan", "ja": "モンゴルのハン" },
+      { "en": "the khan's army", "ja": "ハンの軍勢" },
+      { "en": "rule as khan", "ja": "ハンとして治める" }
+    ],
+    "related": [
+      { "en": "emperor", "ja": "皇帝" },
+      { "en": "ruler", "ja": "統治者" },
+      { "en": "Mongol", "ja": "モンゴル人・モンゴルの" },
+      { "en": "empire", "ja": "帝国" }
+    ],
+    "faq": [
+      { "q": "khan とはどんな称号ですか？", "a": "中央アジアやモンゴルの遊牧民国家で、君主・支配者に与えられた称号です。チンギス・ハンが最も有名です。" },
+      { "q": "Khan は姓にもなりますか？", "a": "はい。現代では南アジアや中央アジアを中心に、Khan（カーン）は人名の姓として広く使われています。" }
+    ],
+    "quiz": [
+      { "q": "Genghis ___ founded the Mongol Empire.（チンギス・ハンはモンゴル帝国を建てた）", "A": "Khan", "B": "Kettle", "C": "Kernel", "D": "Keeper", "correct": "A" },
+      { "q": "khan とはもともと何を指す語？", "A": "君主・支配者", "B": "戦士", "C": "商人", "D": "農民", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kohlrabi",
+    "pron": "ˌkoʊlˈrɑːbi",
+    "kana": "コールラビ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ドイツ語 Kohlrabi（キャベツ＋カブ)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "食べ物・野菜"],
+    "meaning_main": "コールラビ（カブに似た野菜）",
+    "description": "kohlrabi は「コールラビ」を表す名詞。キャベツの仲間で、茎の根元がカブのように丸くふくらむ野菜です。ドイツ語で「キャベツ（Kohl）＋カブ（Rabi）」を意味する語が語源です。",
+    "keywords": ["kohlrabi 意味", "kohlrabi 発音", "kohlrabi コールラビ", "kohlrabi 野菜", "kohlrabi 例文"],
+    "meanings": [
+      { "hinshi": "【名】コールラビ", "note": "茎がカブ状にふくらむキャベツ類の野菜。" }
+    ],
+    "usages": [
+      { "title": "① コールラビ（野菜）", "desc": "丸い茎を食べる。", "example_en": "Kohlrabi tastes a bit like broccoli stems.", "example_ja": "コールラビはブロッコリーの茎に少し似た味だ。" },
+      { "title": "② 生でも加熱でも", "desc": "サラダや炒め物に。", "example_en": "You can eat kohlrabi raw or cooked.", "example_ja": "コールラビは生でも加熱しても食べられる。" },
+      { "title": "③ キャベツの仲間", "desc": "アブラナ科の野菜。", "example_en": "Kohlrabi is related to cabbage.", "example_ja": "コールラビはキャベツの仲間だ。" }
+    ],
+    "warn": ["発音は /ˌkoʊlˈrɑːbi/（コールラービ）。", "ドイツ語 Kohl（キャベツ）＋ Rabi（カブ）が語源。"],
+    "etym_note": "ドイツ語 Kohlrabi（Kohl＝キャベツ＋Rabi＝カブ）に由来します。見た目がカブに似たキャベツ類であることを表す名前で、そのまま英語になりました。",
+    "etym_chain": [
+      { "node": "Kohl + Rabi", "sub": "キャベツ＋カブ", "era": "ドイツ語" },
+      { "node": "kohlrabi", "sub": "コールラビ", "era": "19世紀英語" },
+      { "node": "kohlrabi", "sub": "コールラビ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "raw kohlrabi", "ja": "生のコールラビ" },
+      { "en": "kohlrabi salad", "ja": "コールラビのサラダ" },
+      { "en": "a kohlrabi bulb", "ja": "コールラビの球茎" },
+      { "en": "purple kohlrabi", "ja": "紫のコールラビ" },
+      { "en": "slice the kohlrabi", "ja": "コールラビを薄切りにする" },
+      { "en": "steamed kohlrabi", "ja": "蒸したコールラビ" }
+    ],
+    "related": [
+      { "en": "cabbage", "ja": "キャベツ" },
+      { "en": "turnip", "ja": "カブ" },
+      { "en": "broccoli", "ja": "ブロッコリー" },
+      { "en": "vegetable", "ja": "野菜" }
+    ],
+    "faq": [
+      { "q": "kohlrabi はどんな野菜ですか？", "a": "キャベツの仲間で、地上の茎の根元がカブのように丸くふくらむ野菜です。生でも加熱しても食べられ、ほのかに甘みがあります。" },
+      { "q": "kohlrabi の語源は？", "a": "ドイツ語で「キャベツ（Kohl）＋カブ（Rabi）」を意味します。カブに似たキャベツ類であることを表す名前です。" }
+    ],
+    "quiz": [
+      { "q": "___ is a vegetable related to cabbage.（コールラビはキャベツの仲間の野菜だ）", "A": "Kohlrabi", "B": "Kettle", "C": "Kernel", "D": "Keeper", "correct": "A" },
+      { "q": "kohlrabi の語源となった言語は？", "A": "ドイツ語", "B": "フランス語", "C": "日本語", "D": "ラテン語", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kettledrum",
+    "pron": "ˈketldrʌm",
+    "kana": "ケトルドラム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "kettle（釜）＋ drum（太鼓)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "音楽・楽器"],
+    "meaning_main": "ティンパニ（釜形の打楽器）",
+    "description": "kettledrum は「ティンパニ」を表す名詞。大きな釜のような銅製の胴に皮を張った打楽器で、音の高さを調節できます。kettle（釜）＋ drum（太鼓）の複合語で、オーケストラで活躍します。",
+    "keywords": ["kettledrum 意味", "kettledrum 発音", "kettledrum ティンパニ", "kettledrum 楽器", "kettledrum 例文"],
+    "meanings": [
+      { "hinshi": "【名】ティンパニ", "note": "釜形の胴に皮を張った音程のある打楽器。" }
+    ],
+    "usages": [
+      { "title": "① ティンパニ（楽器）", "desc": "オーケストラの打楽器。", "example_en": "The kettledrums thundered at the finale.", "example_ja": "フィナーレでティンパニが轟いた。" },
+      { "title": "② 音程を調節できる", "desc": "皮の張りで音の高さを変える。", "example_en": "A kettledrum can be tuned to different notes.", "example_ja": "ティンパニは違う音程に調律できる。" },
+      { "title": "③ 複数で用いる", "desc": "通常2つ以上組で使う。", "example_en": "The player struck the kettledrums with mallets.", "example_ja": "奏者はマレットでティンパニを打った。" }
+    ],
+    "warn": ["現代のオーケストラでは通常「ティンパニ（timpani）」と呼ぶ。kettledrum はやや古風・説明的な語。", "kettle（釜）＋ drum（太鼓）の複合語。1語で書く。"],
+    "etym_note": "kettle（釜・大鍋）＋ drum（太鼓）を合わせた語です。釜のような半球形の銅の胴を持つことから名づけられました。イタリア語由来の timpani とも呼ばれます。",
+    "etym_chain": [
+      { "node": "kettle + drum", "sub": "釜＋太鼓", "era": "16世紀英語" },
+      { "node": "kettledrum", "sub": "ティンパニ", "era": "近代英語" },
+      { "node": "kettledrum", "sub": "ティンパニ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "play the kettledrum", "ja": "ティンパニを演奏する" },
+      { "en": "a pair of kettledrums", "ja": "1組のティンパニ" },
+      { "en": "tune the kettledrum", "ja": "ティンパニを調律する" },
+      { "en": "the roll of kettledrums", "ja": "ティンパニの連打" },
+      { "en": "beat the kettledrum", "ja": "ティンパニを打つ" },
+      { "en": "kettledrum and timpani", "ja": "ケトルドラムとティンパニ" }
+    ],
+    "related": [
+      { "en": "drum", "ja": "太鼓" },
+      { "en": "timpani", "ja": "ティンパニ" },
+      { "en": "percussion", "ja": "打楽器" },
+      { "en": "orchestra", "ja": "オーケストラ" }
+    ],
+    "faq": [
+      { "q": "kettledrum と timpani は同じですか？", "a": "はい、ほぼ同じ楽器を指します。kettledrum は英語の説明的な呼び名、timpani はイタリア語由来で、現代のオーケストラでは timpani がよく使われます。" },
+      { "q": "kettledrum の名前の由来は？", "a": "釜（kettle）のような半球形の銅の胴に皮を張った太鼓（drum）であることに由来します。" }
+    ],
+    "quiz": [
+      { "q": "The ___ added a dramatic sound to the symphony.（ティンパニが交響曲に劇的な音を加えた）", "A": "kettledrum", "B": "keyboard", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "kettledrum は kettle ＋ ___ の複合語。空所は？", "A": "drum", "B": "board", "C": "hole", "D": "note", "correct": "A" }
+    ]
+  }
+]

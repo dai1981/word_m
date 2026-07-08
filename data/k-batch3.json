@@ -1,0 +1,513 @@
+[
+  {
+    "english": "kingdom",
+    "pron": "ˈkɪŋdəm",
+    "kana": "キングダム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "king（王）＋ -dom（領域・状態）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頻出語"],
+    "meaning_main": "王国／領域／(生物の)界",
+    "description": "kingdom は「王国」を表す名詞。king（王）＋ -dom（領域）の複合語です。生物分類の「界」（動物界など）や、比喩的な「〜の世界」の意味でも使われます。",
+    "keywords": ["kingdom 意味", "kingdom 発音", "kingdom 王国", "the animal kingdom", "kingdom 例文"],
+    "meanings": [
+      { "hinshi": "【名】王国", "note": "王や女王が治める国。" },
+      { "hinshi": "【名】(生物の)界", "note": "the animal kingdom（動物界）など分類の最上位。" },
+      { "hinshi": "【名】領域・世界", "note": "ある物事が支配する範囲。" }
+    ],
+    "usages": [
+      { "title": "① 王国", "desc": "王が治める国。", "example_en": "The king ruled a large kingdom.", "example_ja": "その王は大きな王国を治めていた。" },
+      { "title": "② the United Kingdom（英国）", "desc": "イギリスの正式名称の一部。", "example_en": "London is the capital of the United Kingdom.", "example_ja": "ロンドンはイギリスの首都だ。" },
+      { "title": "③ the animal kingdom（動物界）", "desc": "生物分類の「界」。", "example_en": "Lions are part of the animal kingdom.", "example_ja": "ライオンは動物界の一員だ。" }
+    ],
+    "warn": ["king＋-dom の複合語。-dom は「領域・状態」を表す接尾辞（freedom なども同様）。", "「イギリス」を表す the United Kingdom（略 UK）は固有名詞で大文字。"],
+    "etym_note": "king（王）に、状態や領域を表す古英語の接尾辞 -dōm が付いてできた語です。freedom（自由）や wisdom（知恵）と同じ作り方の名詞です。",
+    "etym_chain": [
+      { "node": "cyningdōm", "sub": "王の領域", "era": "古英語" },
+      { "node": "kingdom", "sub": "王国", "era": "中英語" },
+      { "node": "kingdom", "sub": "王国・界", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the United Kingdom", "ja": "イギリス（連合王国）" },
+      { "en": "the animal kingdom", "ja": "動物界" },
+      { "en": "the plant kingdom", "ja": "植物界" },
+      { "en": "a rich kingdom", "ja": "豊かな王国" },
+      { "en": "rule a kingdom", "ja": "王国を治める" },
+      { "en": "the kingdom of heaven", "ja": "天国" }
+    ],
+    "related": [
+      { "en": "king", "ja": "王" },
+      { "en": "queen", "ja": "女王" },
+      { "en": "country", "ja": "国" },
+      { "en": "empire", "ja": "帝国" }
+    ],
+    "faq": [
+      { "q": "kingdom の -dom は何を表しますか？", "a": "「領域・状態」を表す接尾辞です。freedom（自由）や wisdom（知恵）と同じ働きをします。" },
+      { "q": "the animal kingdom とは？", "a": "生物分類で最上位のグループ「動物界」を指します。植物界は the plant kingdom です。" }
+    ],
+    "quiz": [
+      { "q": "The brave king ruled his ___.（勇敢な王は王国を治めた）", "A": "kingdom", "B": "kitchen", "C": "keyboard", "D": "kettle", "correct": "A" },
+      { "q": "kingdom は king ＋ ___ の複合語。空所は？", "A": "-dom", "B": "-ness", "C": "-ful", "D": "-less", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kitten",
+    "pron": "ˈkɪtn",
+    "kana": "キトゥン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古フランス語 chitoun（子猫）",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A1", "動物"],
+    "meaning_main": "子猫",
+    "description": "kitten は「子猫」を表す名詞。成猫は cat と呼びます。犬の子は puppy であるのと同じように、猫の子を指す専用の語です。",
+    "keywords": ["kitten 意味", "kitten 発音", "kitten 子猫", "cat kitten 違い", "kitten 例文"],
+    "meanings": [
+      { "hinshi": "【名】子猫", "note": "生まれて間もない若い猫。成猫は cat。" }
+    ],
+    "usages": [
+      { "title": "① 子猫", "desc": "若い猫。かわいらしさの象徴。", "example_en": "The kitten is playing with a ball of yarn.", "example_ja": "子猫が毛糸玉で遊んでいる。" },
+      { "title": "② 猫が子を産む (have kittens)", "desc": "「子猫を産む」。", "example_en": "Our cat had five kittens.", "example_ja": "うちの猫は5匹の子猫を産んだ。" },
+      { "title": "③ かわいい存在のたとえ", "desc": "愛らしさを表す。", "example_en": "The puppy and the kitten became friends.", "example_ja": "子犬と子猫は友達になった。" }
+    ],
+    "warn": ["成猫は cat、子猫は kitten と区別する（子犬は puppy）。", "発音は /ˈkɪtn/ で、tt は軽くつまる音。"],
+    "etym_note": "古フランス語 chitoun（子猫）に由来し、中英語 kitoun を経て kitten になりました。cat（猫）とは別系統の語です。",
+    "etym_chain": [
+      { "node": "chitoun", "sub": "子猫", "era": "古フランス語" },
+      { "node": "kitoun", "sub": "子猫", "era": "中英語" },
+      { "node": "kitten", "sub": "子猫", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a cute kitten", "ja": "かわいい子猫" },
+      { "en": "have kittens", "ja": "子猫を産む" },
+      { "en": "a litter of kittens", "ja": "ひと腹の子猫たち" },
+      { "en": "playful kitten", "ja": "遊び好きな子猫" },
+      { "en": "adopt a kitten", "ja": "子猫を引き取る" },
+      { "en": "kitten heel", "ja": "キトゥンヒール（低いヒール）" }
+    ],
+    "related": [
+      { "en": "cat", "ja": "猫（成猫）" },
+      { "en": "puppy", "ja": "子犬" },
+      { "en": "pet", "ja": "ペット" },
+      { "en": "kitty", "ja": "子猫ちゃん（愛称）" }
+    ],
+    "faq": [
+      { "q": "kitten と cat の違いは？", "a": "kitten は「子猫」、cat は「成猫」を指します。犬の puppy（子犬）と dog（成犬）の関係と同じです。" },
+      { "q": "「子猫を産む」は英語で？", "a": "have kittens と言います。The cat had kittens.（猫が子猫を産んだ）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The small ___ chased its tail.（子猫が自分のしっぽを追いかけた）", "A": "kitchen", "B": "kitten", "C": "kettle", "D": "kite", "correct": "B" },
+      { "q": "成猫を表す語は？", "A": "kitten", "B": "puppy", "C": "cat", "D": "cub", "correct": "C" }
+    ]
+  },
+  {
+    "english": "kite",
+    "pron": "kaɪt",
+    "kana": "カイト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 cyta（トビ・猛禽）",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A1", "遊び"],
+    "meaning_main": "凧／(鳥の)トビ",
+    "description": "kite は「凧（たこ）」を表す名詞。fly a kite で「凧をあげる」。もとは鳥の「トビ」を指す語で、空を舞う姿から遊びの凧の名になりました。",
+    "keywords": ["kite 意味", "kite 発音", "kite 凧", "fly a kite", "kite 例文"],
+    "meanings": [
+      { "hinshi": "【名】凧（たこ）", "note": "糸をつけて風で空にあげるおもちゃ。" },
+      { "hinshi": "【名】(鳥の)トビ", "note": "タカ科の猛禽。もとの意味。" }
+    ],
+    "usages": [
+      { "title": "① 凧をあげる (fly a kite)", "desc": "「凧あげをする」。", "example_en": "The children are flying a kite in the park.", "example_ja": "子供たちが公園で凧をあげている。" },
+      { "title": "② 凧が空に舞う", "desc": "風に乗って上がる。", "example_en": "The kite rose high into the sky.", "example_ja": "凧は空高く上がった。" },
+      { "title": "③ 鳥のトビ", "desc": "上空を旋回する猛禽。", "example_en": "A kite circled above the field.", "example_ja": "トビが野原の上空を旋回した。" }
+    ],
+    "warn": ["「凧をあげる」は fly a kite（動詞は fly）。", "発音は /kaɪt/ で、同じ綴りで鳥の「トビ」も表す。"],
+    "etym_note": "古英語 cyta は鳥の「トビ」を指しました。空を舞うトビの姿にちなみ、17世紀ごろから風にあげるおもちゃの「凧」も kite と呼ばれるようになりました。",
+    "etym_chain": [
+      { "node": "cyta", "sub": "トビ（鳥）", "era": "古英語" },
+      { "node": "kyte", "sub": "トビ", "era": "中英語" },
+      { "node": "kite", "sub": "凧・トビ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "fly a kite", "ja": "凧をあげる" },
+      { "en": "a colorful kite", "ja": "色とりどりの凧" },
+      { "en": "kite string", "ja": "凧糸" },
+      { "en": "go fly a kite", "ja": "あっちへ行け（口語）" },
+      { "en": "kite flying", "ja": "凧あげ" },
+      { "en": "high as a kite", "ja": "とても興奮して・ハイになって" }
+    ],
+    "related": [
+      { "en": "wind", "ja": "風" },
+      { "en": "fly", "ja": "飛ぶ・飛ばす" },
+      { "en": "string", "ja": "糸・ひも" },
+      { "en": "sky", "ja": "空" }
+    ],
+    "faq": [
+      { "q": "「凧をあげる」は英語で？", "a": "fly a kite と言います。動詞は fly を使います。過去形は flew a kite です。" },
+      { "q": "kite にはほかの意味がありますか？", "a": "はい、もとは鳥の「トビ」を指す語です。空を舞う姿からおもちゃの「凧」の意味が生まれました。" }
+    ],
+    "quiz": [
+      { "q": "Let's ___ a kite in the wind.（風の中で凧をあげよう）", "A": "keep", "B": "fly", "C": "know", "D": "knock", "correct": "B" },
+      { "q": "kite のもともとの意味は？", "A": "凧", "B": "鳥のトビ", "C": "風", "D": "糸", "correct": "B" }
+    ]
+  },
+  {
+    "english": "knit",
+    "pron": "nɪt",
+    "kana": "ニット",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古英語 cnyttan（結ぶ）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "生活語"],
+    "meaning_main": "編む／ニット（編み物）",
+    "description": "knit は「(毛糸などを)編む」を表す動詞。先頭の k は黙字で /nɪt/。編んだ衣類「ニット」の名詞でも使われ、close-knit（結束の固い）などの表現もあります。",
+    "keywords": ["knit 意味", "knit 発音", "knit 編む", "knit ニット", "knit 例文"],
+    "meanings": [
+      { "hinshi": "【動】編む", "note": "毛糸などを編み針で編むこと。" },
+      { "hinshi": "【動】固く結びつける", "note": "close-knit で「結束の固い」。" },
+      { "hinshi": "【名】ニット・編み物", "note": "編んで作った衣類。" }
+    ],
+    "usages": [
+      { "title": "① 編む", "desc": "セーターやマフラーを編む。", "example_en": "My grandmother knits sweaters for us.", "example_ja": "祖母は私たちにセーターを編んでくれる。" },
+      { "title": "② close-knit（結束の固い）", "desc": "family などと結びつく。", "example_en": "They are a close-knit family.", "example_ja": "彼らは結束の固い家族だ。" },
+      { "title": "③ ニット（衣類）", "desc": "編んで作った服。", "example_en": "She wore a warm knit in winter.", "example_ja": "彼女は冬に暖かいニットを着ていた。" }
+    ],
+    "warn": ["先頭の k は黙字。/nɪt/ と読む。", "過去形・過去分詞は knitted または knit（両方使われる）。"],
+    "etym_note": "古英語 cnyttan（結ぶ・むすぶ）に由来し、knot（結び目）と同じ語根から来ています。「糸を結び合わせる」という意味が「編む」に発展しました。",
+    "etym_chain": [
+      { "node": "cnyttan", "sub": "結ぶ", "era": "古英語" },
+      { "node": "knitten", "sub": "結ぶ・編む", "era": "中英語" },
+      { "node": "knit", "sub": "編む", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "knit a sweater", "ja": "セーターを編む" },
+      { "en": "close-knit", "ja": "結束の固い" },
+      { "en": "knitting needles", "ja": "編み針" },
+      { "en": "knit one's brows", "ja": "眉をひそめる" },
+      { "en": "hand-knit", "ja": "手編みの" },
+      { "en": "a knit hat", "ja": "ニット帽" }
+    ],
+    "related": [
+      { "en": "sew", "ja": "縫う" },
+      { "en": "wool", "ja": "毛糸・羊毛" },
+      { "en": "weave", "ja": "織る" },
+      { "en": "knot", "ja": "結び目" }
+    ],
+    "faq": [
+      { "q": "knit の k は発音しますか？", "a": "いいえ、黙字です。/nɪt/ と読みます。knot や know と同じく kn- の k は発音しません。" },
+      { "q": "close-knit とはどんな意味ですか？", "a": "「結束の固い・親密な」という意味です。a close-knit family（仲のよい家族）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "My aunt likes to ___ scarves in winter.（叔母は冬にマフラーを編むのが好きだ）", "A": "knit", "B": "knock", "C": "know", "D": "kick", "correct": "A" },
+      { "q": "close-___ family は「結束の固い家族」。空所は？", "A": "knit", "B": "knot", "C": "knee", "D": "knife", "correct": "A" }
+    ]
+  },
+  {
+    "english": "knob",
+    "pron": "nɒb",
+    "kana": "ノブ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "中低ドイツ語 knobbe（こぶ・節）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR A2", "生活語"],
+    "meaning_main": "取っ手／つまみ／丸いこぶ",
+    "description": "knob は「(ドアの)取っ手・(機器の)つまみ」を表す名詞。先頭の k は黙字で /nɒb/。丸い突起状のものを指し、door knob（ドアノブ）が代表例です。",
+    "keywords": ["knob 意味", "knob 発音", "knob 取っ手", "door knob", "knob 例文"],
+    "meanings": [
+      { "hinshi": "【名】(ドアの)取っ手・ノブ", "note": "回して開ける丸い取っ手。" },
+      { "hinshi": "【名】(機器の)つまみ", "note": "音量などを調節する丸いつまみ。" },
+      { "hinshi": "【名】丸いこぶ・かたまり", "note": "a knob of butter（バターひとかけ）など。" }
+    ],
+    "usages": [
+      { "title": "① ドアノブ (door knob)", "desc": "回して開ける取っ手。", "example_en": "She turned the door knob and went in.", "example_ja": "彼女はドアノブを回して中に入った。" },
+      { "title": "② つまみ（機器）", "desc": "音量や温度を調節する。", "example_en": "Turn the knob to raise the volume.", "example_ja": "つまみを回して音量を上げて。" },
+      { "title": "③ a knob of butter（バターひとかけ）", "desc": "小さな丸いかたまり。", "example_en": "Add a knob of butter to the pan.", "example_ja": "フライパンにバターをひとかけ加える。" }
+    ],
+    "warn": ["先頭の k は黙字。/nɒb/ と読む。", "「ドアノブ」は door knob と2語または doorknob と1語で書く。"],
+    "etym_note": "中低ドイツ語 knobbe（こぶ・節）に由来し、「丸く突き出たもの」を表しました。knee や knot と同じく先頭の k の音は近代に失われました。",
+    "etym_chain": [
+      { "node": "knobbe", "sub": "こぶ・節", "era": "中低ドイツ語" },
+      { "node": "knobbe", "sub": "丸い突起", "era": "中英語" },
+      { "node": "knob", "sub": "取っ手・つまみ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "door knob", "ja": "ドアノブ" },
+      { "en": "turn the knob", "ja": "つまみ／ノブを回す" },
+      { "en": "volume knob", "ja": "音量つまみ" },
+      { "en": "a knob of butter", "ja": "バターひとかけ" },
+      { "en": "control knob", "ja": "調節つまみ" },
+      { "en": "brass knob", "ja": "真鍮の取っ手" }
+    ],
+    "related": [
+      { "en": "handle", "ja": "取っ手・ハンドル" },
+      { "en": "button", "ja": "ボタン" },
+      { "en": "door", "ja": "ドア" },
+      { "en": "dial", "ja": "ダイヤル" }
+    ],
+    "faq": [
+      { "q": "knob の k は発音しますか？", "a": "いいえ、黙字です。/nɒb/ と読みます。kn- で始まる語の k は発音しません。" },
+      { "q": "knob と handle の違いは？", "a": "knob は丸くて回すタイプの取っ手やつまみ、handle は握って引く棒状・取っ手全般を指します。" }
+    ],
+    "quiz": [
+      { "q": "He turned the door ___ and opened it.（彼はドアノブを回して開けた）", "A": "knob", "B": "knot", "C": "knee", "D": "knife", "correct": "A" },
+      { "q": "a ___ of butter は「バターひとかけ」。空所は？", "A": "key", "B": "knob", "C": "king", "D": "knock", "correct": "B" }
+    ]
+  },
+  {
+    "english": "kidney",
+    "pron": "ˈkɪdni",
+    "kana": "キドニー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "中英語 kidenei（腎臓）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "体・医療"],
+    "meaning_main": "腎臓／(食材の)キドニー",
+    "description": "kidney は「腎臓」を表す体の器官の名詞。血液をろ過して尿を作る臓器で、左右に1つずつあります。豆の一種 kidney bean（いんげん豆）にも使われます。",
+    "keywords": ["kidney 意味", "kidney 発音", "kidney 腎臓", "kidney bean", "kidney 例文"],
+    "meanings": [
+      { "hinshi": "【名】腎臓", "note": "血液をろ過して尿を作る器官。左右に一対。" },
+      { "hinshi": "【名】(食用の)キドニー", "note": "料理に使う動物の腎臓。" }
+    ],
+    "usages": [
+      { "title": "① 腎臓（臓器）", "desc": "体内で血液をろ過する。", "example_en": "The kidney filters waste from the blood.", "example_ja": "腎臓は血液から老廃物をろ過する。" },
+      { "title": "② 腎臓の病気", "desc": "kidney disease（腎臓病）など。", "example_en": "He suffers from kidney disease.", "example_ja": "彼は腎臓病を患っている。" },
+      { "title": "③ kidney bean（いんげん豆）", "desc": "腎臓の形をした赤い豆。", "example_en": "This chili has kidney beans in it.", "example_ja": "このチリにはいんげん豆が入っている。" }
+    ],
+    "warn": ["発音は /ˈkɪdni/ で、d はしっかり発音する。", "複数形は kidneys（-y を -ies にせず、そのまま -s）。"],
+    "etym_note": "中英語 kidenei に由来する語で、語源には諸説あります。「卵（ey）＋腹（kid?）」に由来するという説が知られていますが確定していません。",
+    "etym_chain": [
+      { "node": "kidenei", "sub": "腎臓", "era": "中英語" },
+      { "node": "kidney", "sub": "腎臓", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "kidney disease", "ja": "腎臓病" },
+      { "en": "kidney stone", "ja": "腎臓結石" },
+      { "en": "kidney bean", "ja": "いんげん豆" },
+      { "en": "kidney transplant", "ja": "腎臓移植" },
+      { "en": "kidney failure", "ja": "腎不全" },
+      { "en": "a pair of kidneys", "ja": "左右一対の腎臓" }
+    ],
+    "related": [
+      { "en": "liver", "ja": "肝臓" },
+      { "en": "heart", "ja": "心臓" },
+      { "en": "organ", "ja": "臓器" },
+      { "en": "blood", "ja": "血液" }
+    ],
+    "faq": [
+      { "q": "kidney の複数形は？", "a": "kidneys です。語尾が -ey なので、-y を -ies にはせず、そのまま -s を付けます。" },
+      { "q": "kidney bean とは何ですか？", "a": "腎臓の形をした赤い豆「いんげん豆」のことです。チリコンカンなどの料理に使われます。" }
+    ],
+    "quiz": [
+      { "q": "The ___ removes waste from the blood.（腎臓は血液から老廃物を除く）", "A": "kidney", "B": "kettle", "C": "kitten", "D": "knight", "correct": "A" },
+      { "q": "kidney の複数形は？", "A": "kidnies", "B": "kidneys", "C": "kidney", "D": "kidnys", "correct": "B" }
+    ]
+  },
+  {
+    "english": "kindergarten",
+    "pron": "ˈkɪndərɡɑːrtn",
+    "kana": "キンダーガーテン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ドイツ語 Kinder（子供たち）＋ Garten（庭）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "教育"],
+    "meaning_main": "幼稚園",
+    "description": "kindergarten は「幼稚園」を表す名詞。ドイツ語の Kinder（子供たち）＋ Garten（庭）が語源で、「子供の庭」という意味です。アメリカでは小学校入学前の学年も指します。",
+    "keywords": ["kindergarten 意味", "kindergarten 発音", "kindergarten 幼稚園", "kindergarten 語源", "kindergarten 例文"],
+    "meanings": [
+      { "hinshi": "【名】幼稚園", "note": "小学校入学前の子供が通う施設。" },
+      { "hinshi": "【名】(米)幼稚園年長・就学前学年", "note": "アメリカでは小学校の最初の学年の前段階。" }
+    ],
+    "usages": [
+      { "title": "① 幼稚園（施設）", "desc": "幼い子供が学ぶ場。", "example_en": "My daughter goes to kindergarten.", "example_ja": "私の娘は幼稚園に通っている。" },
+      { "title": "② 幼稚園で（in kindergarten）", "desc": "「幼稚園に在籍して」。", "example_en": "He learned to count in kindergarten.", "example_ja": "彼は幼稚園で数え方を覚えた。" },
+      { "title": "③ 就学前学年（米）", "desc": "アメリカの学制での学年。", "example_en": "She teaches kindergarten in the U.S.", "example_ja": "彼女はアメリカで幼稚園（年長）を教えている。" }
+    ],
+    "warn": ["ドイツ語由来なので garden ではなく garten の綴り。", "発音は /ˈkɪndərɡɑːrtn/。最初の kinder- を強く読む。"],
+    "etym_note": "ドイツ語の Kinder（子供たち）＋ Garten（庭）＝「子供の庭」が語源です。19世紀に教育者フレーベルが作った言葉で、そのまま英語に取り入れられました。",
+    "etym_chain": [
+      { "node": "Kinder + Garten", "sub": "子供＋庭", "era": "19世紀ドイツ語" },
+      { "node": "kindergarten", "sub": "幼稚園", "era": "19世紀英語" },
+      { "node": "kindergarten", "sub": "幼稚園", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "go to kindergarten", "ja": "幼稚園に通う" },
+      { "en": "in kindergarten", "ja": "幼稚園で" },
+      { "en": "kindergarten teacher", "ja": "幼稚園の先生" },
+      { "en": "start kindergarten", "ja": "幼稚園に入る" },
+      { "en": "kindergarten class", "ja": "幼稚園のクラス" },
+      { "en": "preschool and kindergarten", "ja": "保育園と幼稚園" }
+    ],
+    "related": [
+      { "en": "school", "ja": "学校" },
+      { "en": "child", "ja": "子供" },
+      { "en": "nursery", "ja": "託児所・保育園" },
+      { "en": "teacher", "ja": "先生" }
+    ],
+    "faq": [
+      { "q": "kindergarten はなぜ garten と綴るのですか？", "a": "ドイツ語の Garten（庭）がそのまま英語に入ったためです。英語の garden とはスペルが異なります。" },
+      { "q": "kindergarten の語源の意味は？", "a": "ドイツ語で「子供（Kinder）の庭（Garten）」＝子供が育つ庭、という意味です。" }
+    ],
+    "quiz": [
+      { "q": "Children learn to share in ___.（子供は幼稚園で分け合うことを学ぶ）", "A": "kindergarten", "B": "kingdom", "C": "kitchen", "D": "keyboard", "correct": "A" },
+      { "q": "kindergarten の語源となった言語は？", "A": "フランス語", "B": "ドイツ語", "C": "ラテン語", "D": "スペイン語", "correct": "B" }
+    ]
+  },
+  {
+    "english": "kindness",
+    "pron": "ˈkaɪndnəs",
+    "kana": "カインドネス",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "kind（親切な）＋ -ness（名詞語尾）",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "頻出語"],
+    "meaning_main": "親切／優しさ／親切な行い",
+    "description": "kindness は「親切・優しさ」を表す名詞。形容詞 kind（親切な）＋ -ness（性質を表す語尾）でできています。抽象名詞として不可算でも、個々の親切な行為として可算でも使われます。",
+    "keywords": ["kindness 意味", "kindness 発音", "kindness 親切", "kindness 優しさ", "kindness 例文"],
+    "meanings": [
+      { "hinshi": "【名】親切・優しさ", "note": "思いやりのある性質。不可算。" },
+      { "hinshi": "【名】親切な行い", "note": "具体的な親切の行為。可算でも使う。" }
+    ],
+    "usages": [
+      { "title": "① 親切・優しさ（性質）", "desc": "抽象名詞。", "example_en": "She is known for her kindness.", "example_ja": "彼女は優しさで知られている。" },
+      { "title": "② 親切な行い (an act of kindness)", "desc": "具体的な善行。", "example_en": "I will never forget his kindness.", "example_ja": "私は彼の親切を決して忘れない。" },
+      { "title": "③ お礼の表現", "desc": "Thank you for your kindness.", "example_en": "Thank you for your kindness.", "example_ja": "ご親切にありがとうございます。" }
+    ],
+    "warn": ["形容詞 kind ＋ -ness の名詞。反対は unkindness（不親切）。", "「〜への親切」は kindness to ~（前置詞 to）。"],
+    "etym_note": "形容詞 kind（親切な）に、性質・状態を表す接尾辞 -ness が付いた名詞です。happiness（幸福）や sadness（悲しみ）と同じ作り方です。",
+    "etym_chain": [
+      { "node": "kind", "sub": "親切な", "era": "中英語" },
+      { "node": "kindnesse", "sub": "親切さ", "era": "中英語" },
+      { "node": "kindness", "sub": "親切・優しさ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "an act of kindness", "ja": "親切な行い" },
+      { "en": "out of kindness", "ja": "親切心から" },
+      { "en": "thank you for your kindness", "ja": "ご親切にありがとう" },
+      { "en": "show kindness", "ja": "親切を示す" },
+      { "en": "random acts of kindness", "ja": "何気ない親切" },
+      { "en": "human kindness", "ja": "人の情け" }
+    ],
+    "related": [
+      { "en": "kind", "ja": "親切な" },
+      { "en": "gentleness", "ja": "優しさ・穏やかさ" },
+      { "en": "generosity", "ja": "寛大さ" },
+      { "en": "care", "ja": "思いやり" }
+    ],
+    "faq": [
+      { "q": "kindness は kind とどう関係しますか？", "a": "形容詞 kind（親切な）に -ness を付けた名詞形です。「親切さ・優しさ」という性質を表します。" },
+      { "q": "kindness の反対語は？", "a": "unkindness（不親切）や cruelty（残酷さ）が反対の意味になります。" }
+    ],
+    "quiz": [
+      { "q": "I will always remember your ___.（あなたの親切をいつも覚えています）", "A": "kindness", "B": "kingdom", "C": "kitchen", "D": "knight", "correct": "A" },
+      { "q": "kindness は kind ＋ ___ でできた名詞。空所は？", "A": "-ness", "B": "-dom", "C": "-ful", "D": "-ly", "correct": "A" }
+    ]
+  },
+  {
+    "english": "keen",
+    "pron": "kiːn",
+    "kana": "キーン",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "古英語 cēne（勇敢な・鋭い）",
+    "ld_level": "準2級",
+    "badges": ["中学生〜", "英検準2級", "CEFR B1", "頻出語"],
+    "meaning_main": "熱心な／鋭い／〜したがって",
+    "description": "keen は「熱心な・強く望んで」を表す形容詞。be keen on ~（〜に熱心だ）、be keen to ~（〜したがっている）が頻出。また「鋭い（感覚・刃）」の意味もあります。",
+    "keywords": ["keen 意味", "keen 発音", "keen 熱心", "be keen on", "keen 例文"],
+    "meanings": [
+      { "hinshi": "【形】熱心な・強く望んで", "note": "be keen on / to ~ の形が頻出。" },
+      { "hinshi": "【形】(感覚が)鋭い", "note": "a keen sense of smell（鋭い嗅覚）など。" },
+      { "hinshi": "【形】(刃が)鋭い・(競争が)激しい", "note": "keen competition（激しい競争）。" }
+    ],
+    "usages": [
+      { "title": "① be keen on ~（〜に熱心だ・好きだ）", "desc": "on の後は名詞や動名詞。", "example_en": "She is keen on tennis.", "example_ja": "彼女はテニスに熱心だ。" },
+      { "title": "② be keen to ~（〜したがっている）", "desc": "to の後は動詞の原形。", "example_en": "He is keen to learn Japanese.", "example_ja": "彼は日本語を学びたがっている。" },
+      { "title": "③ 鋭い（感覚）", "desc": "a keen eye / keen sense。", "example_en": "Dogs have a keen sense of smell.", "example_ja": "犬は鋭い嗅覚を持っている。" }
+    ],
+    "warn": ["「〜に熱心」は be keen on＋名詞/動名詞、「〜したい」は be keen to＋動詞原形。前置詞を混同しない。", "イギリス英語で「乗り気だ」の意味で特によく使う。"],
+    "etym_note": "古英語 cēne（勇敢な・大胆な）に由来します。もとは「勇ましい」の意味でしたが、「鋭い・熱心な」へと意味が広がりました。",
+    "etym_chain": [
+      { "node": "cēne", "sub": "勇敢な・鋭い", "era": "古英語" },
+      { "node": "kene", "sub": "鋭い・熱心な", "era": "中英語" },
+      { "node": "keen", "sub": "熱心な・鋭い", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "be keen on", "ja": "〜に熱心だ・好きだ" },
+      { "en": "be keen to do", "ja": "〜したがっている" },
+      { "en": "a keen interest", "ja": "強い関心" },
+      { "en": "a keen sense of smell", "ja": "鋭い嗅覚" },
+      { "en": "keen competition", "ja": "激しい競争" },
+      { "en": "a keen eye", "ja": "鋭い目・観察眼" }
+    ],
+    "related": [
+      { "en": "eager", "ja": "熱望して" },
+      { "en": "sharp", "ja": "鋭い" },
+      { "en": "enthusiastic", "ja": "熱心な" },
+      { "en": "interested", "ja": "興味を持って" }
+    ],
+    "faq": [
+      { "q": "be keen on と be keen to の違いは？", "a": "be keen on の後には名詞・動名詞（keen on tennis / swimming）、be keen to の後には動詞の原形（keen to go）が続きます。" },
+      { "q": "keen はどの英語圏でよく使いますか？", "a": "特にイギリス英語で「乗り気だ・したい」の意味で日常的によく使われます。" }
+    ],
+    "quiz": [
+      { "q": "He is keen ___ playing the guitar.（彼はギターを弾くのに熱心だ）", "A": "on", "B": "to", "C": "in", "D": "at", "correct": "A" },
+      { "q": "a keen sense of smell の意味は？", "A": "弱い嗅覚", "B": "鋭い嗅覚", "C": "におい", "D": "味覚", "correct": "B" }
+    ]
+  },
+  {
+    "english": "ketchup",
+    "pron": "ˈketʃəp",
+    "kana": "ケチャップ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "中国語(閩南語) kê-tsiap（魚醤）",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A1", "食べ物"],
+    "meaning_main": "ケチャップ",
+    "description": "ketchup は「ケチャップ」を表す名詞。トマトを主原料とする赤い調味料で、原則として数えられない不可算名詞です。もとはアジアの魚醤を指す語でした。",
+    "keywords": ["ketchup 意味", "ketchup 発音", "ketchup ケチャップ", "ketchup 不可算", "ketchup 例文"],
+    "meanings": [
+      { "hinshi": "【名】ケチャップ", "note": "トマトを主原料とする赤い調味料。不可算名詞。" }
+    ],
+    "usages": [
+      { "title": "① ケチャップ（調味料）", "desc": "フライドポテトなどにかける。", "example_en": "I put ketchup on my fries.", "example_ja": "私はフライドポテトにケチャップをかけた。" },
+      { "title": "② 不可算名詞として", "desc": "some ketchup / a bottle of ketchup。", "example_en": "Could you pass me some ketchup?", "example_ja": "ケチャップを取ってくれる？" },
+      { "title": "③ tomato ketchup", "desc": "「トマトケチャップ」。", "example_en": "This recipe needs tomato ketchup.", "example_ja": "このレシピにはトマトケチャップが必要だ。" }
+    ],
+    "warn": ["不可算名詞。数えるときは a bottle of ketchup のように容器で数える。", "catsup という別綴りもあるが、現在は ketchup が一般的。"],
+    "etym_note": "中国語（閩南語）の kê-tsiap（魚を発酵させた調味料＝魚醤）に由来するとされます。東南アジアを経てヨーロッパに伝わり、19世紀にアメリカでトマトを使ったものが主流になりました。",
+    "etym_chain": [
+      { "node": "kê-tsiap", "sub": "魚醤", "era": "閩南語" },
+      { "node": "ketchup", "sub": "調味料", "era": "18世紀英語" },
+      { "node": "ketchup", "sub": "トマトケチャップ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "tomato ketchup", "ja": "トマトケチャップ" },
+      { "en": "a bottle of ketchup", "ja": "ケチャップ1本" },
+      { "en": "put ketchup on", "ja": "〜にケチャップをかける" },
+      { "en": "ketchup stain", "ja": "ケチャップのしみ" },
+      { "en": "pass the ketchup", "ja": "ケチャップを取って" },
+      { "en": "ketchup and mustard", "ja": "ケチャップとマスタード" }
+    ],
+    "related": [
+      { "en": "mustard", "ja": "マスタード" },
+      { "en": "sauce", "ja": "ソース" },
+      { "en": "tomato", "ja": "トマト" },
+      { "en": "mayonnaise", "ja": "マヨネーズ" }
+    ],
+    "faq": [
+      { "q": "ketchup は数えられますか？", "a": "原則として不可算名詞です。数えるときは a bottle of ketchup（ケチャップ1本）のように容器の単位で表します。" },
+      { "q": "ketchup の意外な語源は？", "a": "もとは中国語（閩南語）で魚を発酵させた調味料 kê-tsiap を指しました。トマト味になったのは後のアメリカでのことです。" }
+    ],
+    "quiz": [
+      { "q": "I like ___ on my hot dog.（ホットドッグにケチャップをかけるのが好き）", "A": "ketchup", "B": "kitchen", "C": "kitten", "D": "kettle", "correct": "A" },
+      { "q": "ketchup の数え方として正しいのは？", "A": "two ketchups", "B": "a bottle of ketchup", "C": "many ketchup", "D": "a ketchup", "correct": "B" }
+    ]
+  }
+]

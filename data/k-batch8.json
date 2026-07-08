@@ -1,0 +1,510 @@
+[
+  {
+    "english": "keel",
+    "pron": "kiːl",
+    "kana": "キール",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古ノルド語 kjǫlr（船の竜骨)",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "船・海"],
+    "meaning_main": "竜骨（船底の中心材）／安定の要",
+    "description": "keel は「竜骨（りゅうこつ）」を表す名詞。船底の中心を通る背骨のような構造材で、船を安定させます。on an even keel（安定して）という比喩表現でも使われます。",
+    "keywords": ["keel 意味", "keel 発音", "keel 竜骨", "on an even keel", "keel 例文"],
+    "meanings": [
+      { "hinshi": "【名】竜骨（船の背骨）", "note": "船底の中心を前後に通る構造材。" },
+      { "hinshi": "【動】keel over（転覆する・倒れる）", "note": "急にひっくり返る・気を失う。" }
+    ],
+    "usages": [
+      { "title": "① 竜骨（船の構造）", "desc": "船を安定させる背骨。", "example_en": "The boat's keel scraped the rocks.", "example_ja": "船の竜骨が岩をこすった。" },
+      { "title": "② on an even keel（安定して）", "desc": "比喩的に「順調に」。", "example_en": "The business is now on an even keel.", "example_ja": "事業は今や安定している。" },
+      { "title": "③ keel over（倒れる・転覆する）", "desc": "急にひっくり返る。", "example_en": "He suddenly keeled over.", "example_ja": "彼は突然ばったり倒れた。" }
+    ],
+    "warn": ["on an even keel は「安定して・平穏に」の比喩表現。", "keel over は「転覆する」「(人が)ばったり倒れる」両方の意味。"],
+    "etym_note": "古ノルド語 kjǫlr（船の竜骨）に由来します。北欧のバイキング船の技術とともに英語に入り、船の最も基本的な構造材を指してきました。",
+    "etym_chain": [
+      { "node": "kjǫlr", "sub": "竜骨", "era": "古ノルド語" },
+      { "node": "kele", "sub": "竜骨", "era": "中英語" },
+      { "node": "keel", "sub": "竜骨", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "on an even keel", "ja": "安定して・平穏に" },
+      { "en": "keel over", "ja": "転覆する・ばったり倒れる" },
+      { "en": "the keel of a ship", "ja": "船の竜骨" },
+      { "en": "lay down the keel", "ja": "起工する・竜骨を据える" },
+      { "en": "a deep keel", "ja": "深い竜骨" },
+      { "en": "keel and hull", "ja": "竜骨と船体" }
+    ],
+    "related": [
+      { "en": "hull", "ja": "船体" },
+      { "en": "ship", "ja": "船" },
+      { "en": "mast", "ja": "帆柱" },
+      { "en": "balance", "ja": "均衡・安定" }
+    ],
+    "faq": [
+      { "q": "on an even keel とはどんな意味ですか？", "a": "船が竜骨を水平に保って安定している様子から、「(生活や事業が)安定して・平穏に進んでいる」という比喩表現です。" },
+      { "q": "keel over の意味は？", "a": "「(船が)転覆する」または「(人が)急にばったり倒れる・気を失う」という意味です。" }
+    ],
+    "quiz": [
+      { "q": "After the crisis, the company is back on an even ___.（危機の後、会社は安定を取り戻した）", "A": "keel", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "keel が指す船の部分は？", "A": "帆", "B": "竜骨（船底の背骨）", "C": "いかり", "D": "甲板", "correct": "B" }
+    ]
+  },
+  {
+    "english": "kinetic",
+    "pron": "kɪˈnetɪk",
+    "kana": "キネティック",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ギリシャ語 kinētikos（動きの)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "科学"],
+    "meaning_main": "運動の／運動による",
+    "description": "kinetic は「運動の・運動による」を表す形容詞。物理でよく使われ、kinetic energy（運動エネルギー）が代表例です。ギリシャ語 kinein（動かす）に由来し、活発で躍動的なようすも表します。",
+    "keywords": ["kinetic 意味", "kinetic 発音", "kinetic 運動エネルギー", "kinetic energy", "kinetic 例文"],
+    "meanings": [
+      { "hinshi": "【形】運動の・運動による", "note": "動きに関する。物理でよく使う。" },
+      { "hinshi": "【形】躍動的な・活気のある", "note": "動きに満ちたようす。" }
+    ],
+    "usages": [
+      { "title": "① kinetic energy（運動エネルギー）", "desc": "物理の重要用語。", "example_en": "A moving car has kinetic energy.", "example_ja": "動いている車は運動エネルギーを持つ。" },
+      { "title": "② 運動に関する", "desc": "動きの性質。", "example_en": "Kinetic art moves or appears to move.", "example_ja": "キネティックアートは動く、または動いて見える。" },
+      { "title": "③ 躍動的な", "desc": "エネルギーに満ちた。", "example_en": "The dance was full of kinetic energy.", "example_ja": "そのダンスは躍動感に満ちていた。" }
+    ],
+    "warn": ["反対は potential（位置の・潜在的な）。kinetic energy ⇔ potential energy。", "発音は /kɪˈnetɪk/。真ん中の -net- を強く読む。"],
+    "etym_note": "ギリシャ語 kinētikos（動きに関する）に由来し、その動詞 kinein（動かす）から来ています。cinema（映画＝動く映像）とも同じ語根です。",
+    "etym_chain": [
+      { "node": "kinein", "sub": "動かす", "era": "ギリシャ語" },
+      { "node": "kinētikos", "sub": "動きの", "era": "ギリシャ語" },
+      { "node": "kinetic", "sub": "運動の", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "kinetic energy", "ja": "運動エネルギー" },
+      { "en": "kinetic art", "ja": "キネティックアート(動く芸術)" },
+      { "en": "kinetic force", "ja": "運動する力" },
+      { "en": "kinetic motion", "ja": "運動・動き" },
+      { "en": "full of kinetic energy", "ja": "躍動感にあふれた" },
+      { "en": "kinetic sculpture", "ja": "動く彫刻" }
+    ],
+    "related": [
+      { "en": "energy", "ja": "エネルギー" },
+      { "en": "motion", "ja": "運動" },
+      { "en": "potential", "ja": "位置の・潜在的な" },
+      { "en": "dynamic", "ja": "動的な" }
+    ],
+    "faq": [
+      { "q": "kinetic energy とは何ですか？", "a": "「運動エネルギー」、つまり動いている物体が持つエネルギーです。速さや質量が大きいほど大きくなります。反対は位置エネルギー（potential energy）です。" },
+      { "q": "kinetic の語源は？", "a": "ギリシャ語 kinein（動かす）に由来します。cinema（映画）と同じ語根で、「動き」が中心の意味です。" }
+    ],
+    "quiz": [
+      { "q": "A rolling ball has ___ energy.（転がるボールは運動エネルギーを持つ）", "A": "kinetic", "B": "kindly", "C": "keen", "D": "known", "correct": "A" },
+      { "q": "kinetic energy の反対は？", "A": "potential energy", "B": "solar energy", "C": "heat energy", "D": "light energy", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kismet",
+    "pron": "ˈkɪzmet",
+    "kana": "キズメット",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "トルコ語 kısmet（運命・割り当て)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "文語的"],
+    "meaning_main": "運命／宿命／さだめ",
+    "description": "kismet は「運命・宿命」を表す名詞。避けられない定めを意味する文学的な語で、トルコ語・アラビア語を経て英語に入りました。fate や destiny とほぼ同じ意味です。",
+    "keywords": ["kismet 意味", "kismet 発音", "kismet 運命", "kismet fate", "kismet 例文"],
+    "meanings": [
+      { "hinshi": "【名】運命・宿命・さだめ", "note": "あらかじめ定められた運命。不可算。" }
+    ],
+    "usages": [
+      { "title": "① 運命・宿命", "desc": "避けられない定め。", "example_en": "Meeting her was kismet.", "example_ja": "彼女と出会ったのは運命だった。" },
+      { "title": "② それが運命だと受け入れる", "desc": "宿命論的なニュアンス。", "example_en": "He believed it was kismet.", "example_ja": "彼はそれを運命だと信じた。" },
+      { "title": "③ 文学的な言い回し", "desc": "fate より詩的・異国的。", "example_en": "Perhaps it was kismet that brought us together.", "example_ja": "私たちを引き合わせたのは運命だったのかもしれない。" }
+    ],
+    "warn": ["文語的・詩的な語。日常では fate や destiny が普通。", "不可算名詞。a kismet とは通常言わない。"],
+    "etym_note": "アラビア語 qisma（割り当て・分け前）に由来し、トルコ語 kısmet（運命）を経て19世紀に英語に入りました。「神から割り当てられた定め」が原義です。",
+    "etym_chain": [
+      { "node": "qisma", "sub": "割り当て", "era": "アラビア語" },
+      { "node": "kısmet", "sub": "運命", "era": "トルコ語" },
+      { "node": "kismet", "sub": "運命・宿命", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "it was kismet", "ja": "それは運命だった" },
+      { "en": "believe in kismet", "ja": "運命を信じる" },
+      { "en": "a matter of kismet", "ja": "運命の問題" },
+      { "en": "kismet brought them together", "ja": "運命が二人を結んだ" },
+      { "en": "accept one's kismet", "ja": "宿命を受け入れる" },
+      { "en": "sheer kismet", "ja": "まったくの運命" }
+    ],
+    "related": [
+      { "en": "fate", "ja": "運命" },
+      { "en": "destiny", "ja": "宿命・運命" },
+      { "en": "fortune", "ja": "運・幸運" },
+      { "en": "luck", "ja": "運" }
+    ],
+    "faq": [
+      { "q": "kismet と fate の違いは？", "a": "意味はほぼ同じ「運命」ですが、kismet はトルコ・アラビア語由来で、より詩的・異国的な響きを持つ文語的な語です。" },
+      { "q": "kismet はよく使われますか？", "a": "日常会話ではまれで、fate や destiny が普通です。kismet は文学的・ロマンチックな文脈で使われます。" }
+    ],
+    "quiz": [
+      { "q": "They met by chance — maybe it was ___.（二人は偶然出会った、運命だったのかも）", "A": "kismet", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "kismet の意味は？", "A": "偶然", "B": "運命", "C": "努力", "D": "失敗", "correct": "B" }
+    ]
+  },
+  {
+    "english": "kitsch",
+    "pron": "kɪtʃ",
+    "kana": "キッチュ",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ドイツ語 kitsch（俗悪な作品)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "芸術・文化"],
+    "meaning_main": "俗っぽい装飾／キッチュ／通俗的な",
+    "description": "kitsch は「俗っぽく安っぽい装飾・作品」を表す名詞・形容詞。芸術性は低いが、あえて楽しむ対象にもなる「通俗的・大衆的なもの」を指します。ドイツ語由来の語です。",
+    "keywords": ["kitsch 意味", "kitsch 発音", "kitsch キッチュ", "kitsch 俗っぽい", "kitsch 例文"],
+    "meanings": [
+      { "hinshi": "【名】俗悪な装飾・通俗的な作品", "note": "安っぽく大衆受けする芸術・品物。" },
+      { "hinshi": "【形】俗っぽい・キッチュな", "note": "けばけばしく通俗的な。" }
+    ],
+    "usages": [
+      { "title": "① 通俗的な品・装飾", "desc": "安っぽくけばけばしいもの。", "example_en": "The shop was full of kitsch.", "example_ja": "その店は俗っぽい飾り物であふれていた。" },
+      { "title": "② キッチュな（形容詞）", "desc": "あえて楽しむ場合も。", "example_en": "The decor was deliberately kitsch.", "example_ja": "その内装はわざと俗っぽくしてあった。" },
+      { "title": "③ 皮肉・愛着を込めて", "desc": "ダサさを味わう。", "example_en": "I love the kitsch charm of old postcards.", "example_ja": "私は古い絵はがきの俗っぽい魅力が好きだ。" }
+    ],
+    "warn": ["発音は /kɪtʃ/（キッチュ）。tch は「チ」。", "「安っぽい・俗悪」だが、あえて愛でる肯定的ニュアンスでも使う。"],
+    "etym_note": "19世紀のドイツ語 kitsch（俗悪な絵・粗製の作品）に由来します。安価に大量生産された装飾品を指す言葉として、20世紀に英語の芸術批評に取り入れられました。",
+    "etym_chain": [
+      { "node": "kitsch", "sub": "俗悪な作品", "era": "19世紀ドイツ語" },
+      { "node": "kitsch", "sub": "通俗的な芸術", "era": "20世紀英語" },
+      { "node": "kitsch", "sub": "キッチュ・俗っぽい", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "pure kitsch", "ja": "まったくの俗悪品" },
+      { "en": "kitsch art", "ja": "通俗的な芸術" },
+      { "en": "retro kitsch", "ja": "レトロで俗っぽい" },
+      { "en": "tacky and kitsch", "ja": "けばけばしくて俗っぽい" },
+      { "en": "kitsch souvenirs", "ja": "俗っぽい土産物" },
+      { "en": "camp and kitsch", "ja": "わざとらしくて俗っぽい" }
+    ],
+    "related": [
+      { "en": "tacky", "ja": "けばけばしい・悪趣味な" },
+      { "en": "gaudy", "ja": "派手で下品な" },
+      { "en": "tasteless", "ja": "趣味の悪い" },
+      { "en": "art", "ja": "芸術" }
+    ],
+    "faq": [
+      { "q": "kitsch は悪い意味ですか？", "a": "基本は「俗悪・安っぽい」という否定的な意味ですが、あえてそのダサさや懐かしさを楽しむ肯定的なニュアンスで使うこともあります。" },
+      { "q": "kitsch の発音は？", "a": "/kɪtʃ/（キッチュ）です。語尾の tch は「チ」の音で、1音節で読みます。" }
+    ],
+    "quiz": [
+      { "q": "The room was decorated with ___ ornaments.（部屋は俗っぽい飾り物で装飾されていた）", "A": "kitsch", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "kitsch はどこの言語に由来しますか？", "A": "ドイツ語", "B": "フランス語", "C": "ラテン語", "D": "日本語", "correct": "A" }
+    ]
+  },
+  {
+    "english": "knave",
+    "pron": "neɪv",
+    "kana": "ネイブ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 cnafa（少年・召使い)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "古語・文学"],
+    "meaning_main": "悪党／ならず者／(トランプの)ジャック",
+    "description": "knave は「悪党・ならず者」を表す古風な名詞。先頭の k は黙字で /neɪv/。もとは「少年・召使い」の意味でしたが、悪い意味に変わりました。トランプのジャック（J）を指すこともあります。",
+    "keywords": ["knave 意味", "knave 発音", "knave 悪党", "knave ジャック", "knave 例文"],
+    "meanings": [
+      { "hinshi": "【名】悪党・ならず者", "note": "ずる賢く不誠実な男。古風・文学的。" },
+      { "hinshi": "【名】(トランプの)ジャック", "note": "英国で jack の古い呼び名。" }
+    ],
+    "usages": [
+      { "title": "① 悪党・ならず者", "desc": "古風・文学的な語。", "example_en": "The knave tricked the honest farmer.", "example_ja": "その悪党は正直な農夫をだました。" },
+      { "title": "② トランプのジャック", "desc": "英国での古い呼び方。", "example_en": "He played the knave of hearts.", "example_ja": "彼はハートのジャックを出した。" },
+      { "title": "③ 物語・古典での用法", "desc": "シェイクスピア作品などに登場。", "example_en": "In the play, the knave deceives the king.", "example_ja": "その劇では悪党が王を欺く。" }
+    ],
+    "warn": ["先頭の k は黙字。/neɪv/ と読み、nave（教会の身廊）と同音。", "古風・文学的な語。現代の日常では rogue や villain が普通。"],
+    "etym_note": "古英語 cnafa（少年・召使いの男）に由来します。中世に「身分の低い召使い」から「不誠実な男・悪党」へと意味が悪化しました（意味の下落）。",
+    "etym_chain": [
+      { "node": "cnafa", "sub": "少年・召使い", "era": "古英語" },
+      { "node": "knave", "sub": "召使い・悪党", "era": "中英語" },
+      { "node": "knave", "sub": "悪党", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a cunning knave", "ja": "ずる賢い悪党" },
+      { "en": "the knave of hearts", "ja": "ハートのジャック" },
+      { "en": "a lying knave", "ja": "うそつきの悪党" },
+      { "en": "knaves and fools", "ja": "悪党と愚か者" },
+      { "en": "play the knave", "ja": "悪事を働く" },
+      { "en": "a young knave", "ja": "若い召使い(古義)" }
+    ],
+    "related": [
+      { "en": "rogue", "ja": "ならず者" },
+      { "en": "villain", "ja": "悪役・悪党" },
+      { "en": "rascal", "ja": "いたずら者・悪党" },
+      { "en": "jack", "ja": "(トランプの)ジャック" }
+    ],
+    "faq": [
+      { "q": "knave と nave は同じ発音ですか？", "a": "はい、どちらも /neɪv/ で同じ発音です。knave は「悪党」、nave は「(教会の)身廊」で、綴りと意味が異なります。" },
+      { "q": "knave の意味はなぜ変わったのですか？", "a": "もとは「少年・召使い」でしたが、身分の低い者への偏見から「不誠実な男・悪党」へと意味が悪化しました。これを『意味の下落』といいます。" }
+    ],
+    "quiz": [
+      { "q": "The clever ___ deceived everyone in the village.（ずる賢い悪党は村の全員をだました）", "A": "knave", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "knave のもとの意味は？", "A": "王", "B": "少年・召使い", "C": "戦士", "D": "商人", "correct": "B" }
+    ]
+  },
+  {
+    "english": "kosher",
+    "pron": "ˈkoʊʃər",
+    "kana": "コウシャー",
+    "hinshi": "形容詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "ヘブライ語 kāshēr（適した・正しい)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "宗教・文化"],
+    "meaning_main": "コーシャの（ユダヤ教の戒律に適した）／(口語)適正な",
+    "description": "kosher は「コーシャの」を表す形容詞。ユダヤ教の食物規定にかなった食べ物や調理法を指します。口語では「正当な・きちんとした」という意味でも使われます。",
+    "keywords": ["kosher 意味", "kosher 発音", "kosher コーシャ", "kosher ユダヤ教", "kosher 例文"],
+    "meanings": [
+      { "hinshi": "【形】コーシャの・戒律に適した", "note": "ユダヤ教の食物規定にかなった。" },
+      { "hinshi": "【形】(口語)正当な・きちんとした", "note": "合法的で問題のない。" }
+    ],
+    "usages": [
+      { "title": "① コーシャの食べ物", "desc": "ユダヤ教の規定に合う。", "example_en": "This restaurant serves kosher food.", "example_ja": "このレストランはコーシャ料理を出す。" },
+      { "title": "② 戒律に従う", "desc": "調理法や食材が規定通り。", "example_en": "The meat must be prepared in a kosher way.", "example_ja": "肉はコーシャの方法で処理されねばならない。" },
+      { "title": "③ (口語)正当な・問題ない", "desc": "合法・きちんとした。", "example_en": "The deal didn't seem quite kosher.", "example_ja": "その取引はどうも真っ当ではなさそうだった。" }
+    ],
+    "warn": ["発音は /ˈkoʊʃər/（コウシャー）。", "口語の「正当な」は、しばしば否定文で「怪しい」を表す（not quite kosher）。"],
+    "etym_note": "ヘブライ語 kāshēr（適した・正しい）に由来します。ユダヤ教の食物規定（カシュルート）にかなうことを表し、イディッシュ語を経て英語に入りました。",
+    "etym_chain": [
+      { "node": "kāshēr", "sub": "適した・正しい", "era": "ヘブライ語" },
+      { "node": "kosher", "sub": "戒律に適した", "era": "イディッシュ語" },
+      { "node": "kosher", "sub": "コーシャの・正当な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "kosher food", "ja": "コーシャ料理" },
+      { "en": "a kosher restaurant", "ja": "コーシャ対応のレストラン" },
+      { "en": "keep kosher", "ja": "コーシャの食習慣を守る" },
+      { "en": "kosher meat", "ja": "コーシャの肉" },
+      { "en": "not quite kosher", "ja": "どうも真っ当でない" },
+      { "en": "strictly kosher", "ja": "厳格にコーシャの" }
+    ],
+    "related": [
+      { "en": "halal", "ja": "ハラール(イスラム教の適正食)" },
+      { "en": "Jewish", "ja": "ユダヤ人の・ユダヤ教の" },
+      { "en": "religion", "ja": "宗教" },
+      { "en": "legitimate", "ja": "合法的な・正当な" }
+    ],
+    "faq": [
+      { "q": "kosher とはどういう意味ですか？", "a": "ユダヤ教の食物規定（カシュルート）にかなった食べ物や調理法を指す形容詞です。イスラム教の halal（ハラール）に似た考え方です。" },
+      { "q": "口語の kosher の使い方は？", "a": "「正当な・きちんとした・合法の」という意味で使います。特に not quite kosher（どうも怪しい）のように否定文でよく用いられます。" }
+    ],
+    "quiz": [
+      { "q": "They only eat ___ food for religious reasons.（彼らは宗教上の理由でコーシャ食品しか食べない）", "A": "kosher", "B": "keen", "C": "kindly", "D": "known", "correct": "A" },
+      { "q": "kosher はどの宗教の食物規定に関する語？", "A": "仏教", "B": "ユダヤ教", "C": "ヒンドゥー教", "D": "神道", "correct": "B" }
+    ]
+  },
+  {
+    "english": "kowtow",
+    "pron": "ˌkaʊˈtaʊ",
+    "kana": "カウタウ",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "中国語「叩頭」（頭を地につける礼)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "文化・比喩"],
+    "meaning_main": "ぺこぺこする／こびへつらう／叩頭する",
+    "description": "kowtow は「(過度に)こびへつらう・ぺこぺこする」を表す動詞。もとは中国で額を地につけて拝む「叩頭（こうとう）」の礼を指し、そこから比喩的に「卑屈に従う」の意味になりました。",
+    "keywords": ["kowtow 意味", "kowtow 発音", "kowtow こびる", "kowtow 叩頭", "kowtow 例文"],
+    "meanings": [
+      { "hinshi": "【動】こびへつらう・卑屈に従う", "note": "kowtow to ~ で「〜にぺこぺこする」。" },
+      { "hinshi": "【動/名】叩頭する・叩頭の礼", "note": "額を地につけて拝む中国の礼。" }
+    ],
+    "usages": [
+      { "title": "① こびへつらう (kowtow to ~)", "desc": "権力者などに卑屈に従う。", "example_en": "He refused to kowtow to his boss.", "example_ja": "彼は上司にぺこぺこするのを拒んだ。" },
+      { "title": "② 過度に従う", "desc": "自分を卑下して迎合する。", "example_en": "The company kowtowed to public pressure.", "example_ja": "会社は世間の圧力に屈して従った。" },
+      { "title": "③ 叩頭（もとの意味）", "desc": "額を地につける敬礼。", "example_en": "Visitors had to kowtow before the emperor.", "example_ja": "訪問者は皇帝の前で叩頭せねばならなかった。" }
+    ],
+    "warn": ["「〜にこびる」は kowtow to ~（前置詞 to）。", "否定的なニュアンス。卑屈に従うことを非難的に表す。"],
+    "etym_note": "中国語の「叩頭（kòutóu）」＝頭を地に打ちつけて拝む礼に由来します。19世紀に英語に入り、比喩的に「卑屈にへつらう」の意味で使われるようになりました。",
+    "etym_chain": [
+      { "node": "叩頭 (kòutóu)", "sub": "頭を地につける礼", "era": "中国語" },
+      { "node": "kowtow", "sub": "叩頭する", "era": "19世紀英語" },
+      { "node": "kowtow", "sub": "こびへつらう", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "kowtow to ~", "ja": "〜にこびへつらう" },
+      { "en": "refuse to kowtow", "ja": "こびるのを拒む" },
+      { "en": "kowtow to authority", "ja": "権力に卑屈に従う" },
+      { "en": "without kowtowing", "ja": "こびることなく" },
+      { "en": "kowtow to pressure", "ja": "圧力に屈する" },
+      { "en": "a low kowtow", "ja": "深い叩頭" }
+    ],
+    "related": [
+      { "en": "grovel", "ja": "はいつくばる・こびる" },
+      { "en": "bow", "ja": "おじぎする" },
+      { "en": "submit", "ja": "服従する" },
+      { "en": "flatter", "ja": "へつらう" }
+    ],
+    "faq": [
+      { "q": "kowtow の語源は？", "a": "中国語の「叩頭（こうとう）」＝頭を地面につけて拝む最敬礼に由来します。そこから比喩的に「卑屈にへつらう」の意味になりました。" },
+      { "q": "kowtow to の意味は？", "a": "「〜にこびへつらう・卑屈に従う」という意味で、否定的なニュアンスがあります。前置詞は to を使います。" }
+    ],
+    "quiz": [
+      { "q": "She would never ___ to anyone in power.（彼女は権力者に決してこびない）", "A": "kowtow", "B": "kindle", "C": "knit", "D": "kick", "correct": "A" },
+      { "q": "kowtow のもとの意味は？", "A": "頭を地につける礼", "B": "手を振る", "C": "拍手する", "D": "抱擁する", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kumquat",
+    "pron": "ˈkʌmkwɒt",
+    "kana": "カムクワット",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "広東語「金橘」（金色のみかん)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "食べ物・果物"],
+    "meaning_main": "キンカン（金柑）",
+    "description": "kumquat は「キンカン（金柑）」を表す名詞。親指ほどの小さなかんきつ類で、皮ごと食べられるのが特徴です。広東語の「金橘（金色のみかん）」が語源です。",
+    "keywords": ["kumquat 意味", "kumquat 発音", "kumquat キンカン", "kumquat 果物", "kumquat 例文"],
+    "meanings": [
+      { "hinshi": "【名】キンカン（金柑）", "note": "皮ごと食べられる小型のかんきつ類。" }
+    ],
+    "usages": [
+      { "title": "① キンカン（果物）", "desc": "小さくて皮ごと食べる。", "example_en": "You can eat a kumquat with its skin.", "example_ja": "キンカンは皮ごと食べられる。" },
+      { "title": "② 甘酸っぱい味", "desc": "皮が甘く中が酸っぱい。", "example_en": "Kumquats are sweet outside and sour inside.", "example_ja": "キンカンは外が甘く中が酸っぱい。" },
+      { "title": "③ 料理・砂糖漬け", "desc": "マーマレードや甘露煮に。", "example_en": "She made marmalade from kumquats.", "example_ja": "彼女はキンカンでマーマレードを作った。" }
+    ],
+    "warn": ["発音は /ˈkʌmkwɒt/（カムクワット）。", "他のかんきつ類と違い、皮ごと食べるのが特徴。"],
+    "etym_note": "広東語の「金橘（gam-gwat）」＝「金色のみかん」に由来します。19世紀に中国から欧米に紹介され、そのまま英語になりました。",
+    "etym_chain": [
+      { "node": "金橘 (gam-gwat)", "sub": "金色のみかん", "era": "広東語" },
+      { "node": "kumquat", "sub": "キンカン", "era": "19世紀英語" },
+      { "node": "kumquat", "sub": "キンカン", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a ripe kumquat", "ja": "熟したキンカン" },
+      { "en": "eat a kumquat whole", "ja": "キンカンを丸ごと食べる" },
+      { "en": "kumquat marmalade", "ja": "キンカンのマーマレード" },
+      { "en": "candied kumquats", "ja": "キンカンの砂糖漬け" },
+      { "en": "a kumquat tree", "ja": "キンカンの木" },
+      { "en": "sweet kumquats", "ja": "甘いキンカン" }
+    ],
+    "related": [
+      { "en": "orange", "ja": "オレンジ" },
+      { "en": "citrus", "ja": "かんきつ類" },
+      { "en": "lemon", "ja": "レモン" },
+      { "en": "fruit", "ja": "果物" }
+    ],
+    "faq": [
+      { "q": "kumquat の特徴は？", "a": "親指ほどの小さなかんきつ類で、他のみかん類と違い皮ごと食べられます。皮が甘く、中の果肉が酸っぱいのが特徴です。" },
+      { "q": "kumquat の語源は？", "a": "広東語の「金橘（金色のみかん）」に由来します。19世紀に中国から欧米へ伝わり、そのまま英語になりました。" }
+    ],
+    "quiz": [
+      { "q": "Unlike oranges, you eat a ___ with the peel.（オレンジと違い、キンカンは皮ごと食べる）", "A": "kumquat", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "kumquat の日本語名は？", "A": "キンカン", "B": "みかん", "C": "レモン", "D": "ゆず", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kimchi",
+    "pron": "ˈkɪmtʃi",
+    "kana": "キムチ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "韓国語「김치（キムチ）」",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "食べ物・文化"],
+    "meaning_main": "キムチ（韓国の発酵漬物）",
+    "description": "kimchi は「キムチ」を表す名詞。白菜などの野菜を唐辛子・ニンニクなどで漬けた韓国の発酵食品です。辛くて酸味があり、韓国料理に欠かせない一品として世界に広まりました。",
+    "keywords": ["kimchi 意味", "kimchi 発音", "kimchi キムチ", "kimchi 韓国", "kimchi 例文"],
+    "meanings": [
+      { "hinshi": "【名】キムチ", "note": "野菜を唐辛子などで漬けた韓国の発酵漬物。不可算。" }
+    ],
+    "usages": [
+      { "title": "① キムチ（食べ物）", "desc": "辛い発酵漬物。", "example_en": "Korean meals often come with kimchi.", "example_ja": "韓国料理にはよくキムチが付く。" },
+      { "title": "② 料理に使う", "desc": "kimchi fried rice など。", "example_en": "I love kimchi fried rice.", "example_ja": "私はキムチチャーハンが大好きだ。" },
+      { "title": "③ 発酵食品", "desc": "乳酸発酵で酸味が出る。", "example_en": "Kimchi is a fermented food.", "example_ja": "キムチは発酵食品だ。" }
+    ],
+    "warn": ["原則不可算名詞。数えるときは a dish of kimchi など。", "発音は /ˈkɪmtʃi/（キムチ）。"],
+    "etym_note": "韓国語の「김치（キムチ）」に由来します。もとは野菜の塩漬けを指す言葉で、後に唐辛子を使った現在のスタイルが広まり、そのまま英語になりました。",
+    "etym_chain": [
+      { "node": "김치 (kimchi)", "sub": "野菜の漬物", "era": "韓国" },
+      { "node": "kimchi", "sub": "キムチ", "era": "20世紀英語" },
+      { "node": "kimchi", "sub": "キムチ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "make kimchi", "ja": "キムチを作る" },
+      { "en": "kimchi fried rice", "ja": "キムチチャーハン" },
+      { "en": "spicy kimchi", "ja": "辛いキムチ" },
+      { "en": "a jar of kimchi", "ja": "キムチの瓶詰め" },
+      { "en": "cabbage kimchi", "ja": "白菜キムチ" },
+      { "en": "fermented kimchi", "ja": "発酵したキムチ" }
+    ],
+    "related": [
+      { "en": "Korea", "ja": "韓国" },
+      { "en": "pickle", "ja": "漬物・ピクルス" },
+      { "en": "cabbage", "ja": "白菜・キャベツ" },
+      { "en": "spicy", "ja": "辛い" }
+    ],
+    "faq": [
+      { "q": "kimchi とは何ですか？", "a": "白菜などの野菜を唐辛子・ニンニク・塩などで漬けた韓国の発酵食品です。辛くて酸味があり、韓国料理の定番です。" },
+      { "q": "kimchi は数えられますか？", "a": "原則として不可算名詞です。数えるときは a jar of kimchi（キムチ1瓶）のように容器の単位で表します。" }
+    ],
+    "quiz": [
+      { "q": "___ is a spicy fermented dish from Korea.（キムチは韓国の辛い発酵料理だ）", "A": "Kimchi", "B": "Kettle", "C": "Kernel", "D": "Keeper", "correct": "A" },
+      { "q": "kimchi はどこの国の食べ物？", "A": "日本", "B": "韓国", "C": "中国", "D": "タイ", "correct": "B" }
+    ]
+  },
+  {
+    "english": "kink",
+    "pron": "kɪŋk",
+    "kana": "キンク",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "オランダ語 kink（ロープのよじれ)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "頻出語"],
+    "meaning_main": "よじれ／もつれ／(計画の)問題点",
+    "description": "kink は「(ひも・髪などの)よじれ・もつれ」を表す名詞。比喩的に「計画の小さな問題点・欠陥」の意味でも使われます。iron out the kinks（問題点を解消する）が代表的な表現です。",
+    "keywords": ["kink 意味", "kink 発音", "kink よじれ", "iron out the kinks", "kink 例文"],
+    "meanings": [
+      { "hinshi": "【名】よじれ・もつれ・急な曲がり", "note": "ひもや管などのねじれ・折れ曲がり。" },
+      { "hinshi": "【名】(計画などの)問題点・欠陥", "note": "うまくいかない小さな箇所。" },
+      { "hinshi": "【動】よじれる・よじる", "note": "ねじれて折れ曲がる。" }
+    ],
+    "usages": [
+      { "title": "① よじれ・もつれ", "desc": "ホースやひものねじれ。", "example_en": "There is a kink in the garden hose.", "example_ja": "庭のホースがよじれている。" },
+      { "title": "② iron out the kinks（問題点を解消する）", "desc": "計画の不具合を直す。", "example_en": "We need to iron out the kinks in the plan.", "example_ja": "計画の問題点を解消する必要がある。" },
+      { "title": "③ 首などのこり", "desc": "a kink in one's neck（首の寝違え）。", "example_en": "I woke up with a kink in my neck.", "example_ja": "首を寝違えて目が覚めた。" }
+    ],
+    "warn": ["「問題点を解消する」は iron out the kinks（決まった言い回し）。", "発音は /kɪŋk/。ng の鼻音に注意。"],
+    "etym_note": "オランダ語 kink（ロープのよじれ）に由来する航海用語でした。「ひものねじれ」から比喩的に「計画のもつれ・小さな問題点」を指すようになりました。",
+    "etym_chain": [
+      { "node": "kink", "sub": "ロープのよじれ", "era": "オランダ語" },
+      { "node": "kink", "sub": "よじれ", "era": "18世紀英語" },
+      { "node": "kink", "sub": "よじれ・問題点", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "iron out the kinks", "ja": "問題点を解消する" },
+      { "en": "a kink in the hose", "ja": "ホースのよじれ" },
+      { "en": "a kink in one's neck", "ja": "首の寝違え・こり" },
+      { "en": "work out the kinks", "ja": "不具合を直す" },
+      { "en": "a kink in the plan", "ja": "計画の問題点" },
+      { "en": "straighten out a kink", "ja": "よじれをまっすぐにする" }
+    ],
+    "related": [
+      { "en": "twist", "ja": "ねじれ・ひねる" },
+      { "en": "bend", "ja": "曲がり・曲げる" },
+      { "en": "flaw", "ja": "欠陥" },
+      { "en": "tangle", "ja": "もつれ" }
+    ],
+    "faq": [
+      { "q": "iron out the kinks とはどんな意味ですか？", "a": "「(計画やシステムの)問題点・不具合を解消する」という意味の慣用表現です。しわ(kink)をアイロンで伸ばすイメージから来ています。" },
+      { "q": "kink には比喩的な意味もありますか？", "a": "はい。物理的な「よじれ」のほか、「計画や仕組みの小さな問題点・欠陥」を指す比喩的な使い方があります。" }
+    ],
+    "quiz": [
+      { "q": "The water stopped because of a ___ in the hose.（ホースのよじれで水が止まった）", "A": "kink", "B": "kettle", "C": "kernel", "D": "keeper", "correct": "A" },
+      { "q": "iron out the ___ は「問題点を解消する」。空所は？", "A": "kinks", "B": "kings", "C": "kites", "D": "keys", "correct": "A" }
+    ]
+  }
+]

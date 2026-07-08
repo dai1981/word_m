@@ -1,0 +1,514 @@
+[
+  {
+    "english": "job",
+    "pron": "dʒɒb",
+    "kana": "ジョブ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "英語 job（ひとまとまりの仕事)",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "超基本語"],
+    "meaning_main": "仕事／職／役目",
+    "description": "job は「仕事・職」を表す最重要基本名詞。給料をもらう「職業・勤め口」や、するべき「作業・役目」を指します。数えられる名詞で、a good job（よい仕事）のように使います。",
+    "keywords": ["job 意味", "job 発音", "job 仕事", "job 職業", "job 例文"],
+    "meanings": [
+      { "hinshi": "【名】仕事・職・勤め口", "note": "給料をもらう職業。数えられる。" },
+      { "hinshi": "【名】するべき作業・役目", "note": "個々の仕事・任務。" }
+    ],
+    "usages": [
+      { "title": "① 職・勤め口", "desc": "職業を指す。", "example_en": "She got a new job at a bank.", "example_ja": "彼女は銀行で新しい仕事を得た。" },
+      { "title": "② 作業・役目", "desc": "個々の仕事。", "example_en": "Cleaning the kitchen is my job.", "example_ja": "台所を掃除するのは私の役目だ。" },
+      { "title": "③ Good job!（よくやった！）", "desc": "ほめ言葉。", "example_en": "Good job! You did it.", "example_ja": "よくやった！できたね。" }
+    ],
+    "warn": ["数えられる名詞。work（不可算）と違い a job / jobs と数える。", "「仕事に就いている」は have a job。"],
+    "etym_note": "「ひとまとまりの仕事・作業」を意味する語として近代英語で使われるようになりました。もとは「小さなかたまり」を指す語だったとされます。",
+    "etym_chain": [
+      { "node": "job", "sub": "ひとまとまりの仕事", "era": "近代英語" },
+      { "node": "job", "sub": "仕事・職", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "get a job", "ja": "仕事を得る" },
+      { "en": "a full-time job", "ja": "常勤の仕事" },
+      { "en": "a part-time job", "ja": "アルバイト" },
+      { "en": "Good job!", "ja": "よくやった！" },
+      { "en": "lose one's job", "ja": "職を失う" },
+      { "en": "a job interview", "ja": "就職面接" }
+    ],
+    "related": [
+      { "en": "work", "ja": "仕事(不可算)" },
+      { "en": "task", "ja": "作業・課題" },
+      { "en": "career", "ja": "経歴・職業" },
+      { "en": "employment", "ja": "雇用" }
+    ],
+    "faq": [
+      { "q": "job と work の違いは？", "a": "job は数えられる名詞で「職・勤め口」、work は数えられない名詞で「働くこと・仕事全般」を指します。a job とは言えますが a work とは言いません。" },
+      { "q": "Good job! はどんな時に使いますか？", "a": "相手が何かをうまくやり遂げたときに「よくやった！・お見事！」とほめる表現です。" }
+    ],
+    "quiz": [
+      { "q": "He is looking for a new ___.（彼は新しい仕事を探している）", "A": "job", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "数えられるのはどちら？", "A": "job", "B": "work", "C": "どちらも不可算", "D": "どちらも数えない", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jog",
+    "pron": "dʒɒɡ",
+    "kana": "ジョグ",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "中英語 joggen（揺さぶる)",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "運動"],
+    "meaning_main": "ジョギングする／ゆっくり走る",
+    "description": "jog は「ジョギングする・ゆっくり走る」を表す動詞。健康や運動のために、無理のない速さで走ることを指します。go jogging（ジョギングに行く）の形や、jog one's memory（記憶を呼び起こす）という表現でも使われます。",
+    "keywords": ["jog 意味", "jog 発音", "jog ジョギング", "go jogging", "jog 例文"],
+    "meanings": [
+      { "hinshi": "【動】ジョギングする・ゆっくり走る", "note": "運動のために無理なく走る。" },
+      { "hinshi": "【動】(記憶を)呼び起こす", "note": "jog one's memory。" },
+      { "hinshi": "【名】ジョギング・ひと走り", "note": "go for a jog。" }
+    ],
+    "usages": [
+      { "title": "① ジョギングする", "desc": "運動のために走る。", "example_en": "I jog in the park every morning.", "example_ja": "私は毎朝公園でジョギングをする。" },
+      { "title": "② go jogging / for a jog", "desc": "「走りに行く」。", "example_en": "Let's go for a jog.", "example_ja": "ジョギングに行こう。" },
+      { "title": "③ jog one's memory（記憶を呼び起こす）", "desc": "思い出させる。", "example_en": "This photo might jog your memory.", "example_ja": "この写真で思い出すかもしれない。" }
+    ],
+    "warn": ["過去形・-ing 形は g を重ねる: jogged, jogging。", "run（速く走る）より遅い、運動としての走り。"],
+    "etym_note": "中英語 joggen（軽く揺さぶる・小突く）に由来します。「ゆさゆさと体を揺らして進む」動きから「ゆっくり走る」の意味になりました。",
+    "etym_chain": [
+      { "node": "joggen", "sub": "揺さぶる", "era": "中英語" },
+      { "node": "jog", "sub": "軽く走る", "era": "近代英語" },
+      { "node": "jog", "sub": "ジョギングする", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "go jogging", "ja": "ジョギングに行く" },
+      { "en": "go for a jog", "ja": "ひと走りする" },
+      { "en": "jog one's memory", "ja": "記憶を呼び起こす" },
+      { "en": "jog along", "ja": "ゆっくり進む" },
+      { "en": "a morning jog", "ja": "朝のジョギング" },
+      { "en": "jog around the park", "ja": "公園を走る" }
+    ],
+    "related": [
+      { "en": "run", "ja": "走る" },
+      { "en": "exercise", "ja": "運動" },
+      { "en": "walk", "ja": "歩く" },
+      { "en": "sprint", "ja": "全力疾走する" }
+    ],
+    "faq": [
+      { "q": "jog と run の違いは？", "a": "run は速く走ること全般、jog は運動のために無理のないゆっくりした速さで走ることを指します。" },
+      { "q": "jog one's memory とは？", "a": "「(何かのきっかけで)記憶を呼び起こす・思い出させる」という意味の慣用表現です。" }
+    ],
+    "quiz": [
+      { "q": "She likes to ___ in the park before work.（彼女は仕事前に公園でジョギングするのが好きだ）", "A": "jog", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jog one's ___ は「記憶を呼び起こす」。空所は？", "A": "memory", "B": "job", "C": "joke", "D": "juice", "correct": "A" }
+    ]
+  },
+  {
+    "english": "join",
+    "pron": "dʒɔɪn",
+    "kana": "ジョイン",
+    "hinshi": "動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "ラテン語 jungere（つなぐ)",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "超基本語"],
+    "meaning_main": "加わる／参加する／つなぐ",
+    "description": "join は「加わる・参加する・つなぐ」を表す基本動詞。クラブや集団に「入る」、人の輪に「加わる」、また2つのものを「つなぎ合わせる」という意味で使われます。join in（参加する）などの句動詞も頻出です。",
+    "keywords": ["join 意味", "join 発音", "join 参加する", "join in", "join 例文"],
+    "meanings": [
+      { "hinshi": "【動】(団体などに)加わる・入る", "note": "クラブや会に参加する。" },
+      { "hinshi": "【動】(人に)加わる・合流する", "note": "人の輪に入る。" },
+      { "hinshi": "【動】つなぐ・結び合わせる", "note": "2つのものを一つにする。" }
+    ],
+    "usages": [
+      { "title": "① (団体に)加わる", "desc": "クラブなどに入る。", "example_en": "She joined the tennis club.", "example_ja": "彼女はテニス部に入った。" },
+      { "title": "② (人に)加わる・合流する", "desc": "人の輪に入る。", "example_en": "Come and join us for dinner.", "example_ja": "私たちと夕食をご一緒しませんか。" },
+      { "title": "③ つなぐ (join A and B)", "desc": "結び合わせる。", "example_en": "Join the two ropes together.", "example_ja": "2本のロープをつなぎなさい。" }
+    ],
+    "warn": ["「〜に加わる」は join＋目的語（前置詞は不要）。join the club が正しい。", "「(活動に)参加する」は join in ~ の形も使う。"],
+    "etym_note": "ラテン語 jungere（つなぐ・結ぶ）に由来し、古フランス語 joindre を経て英語に入りました。joint（関節・接合部）や junction（連結点）と同じ語源です。",
+    "etym_chain": [
+      { "node": "jungere", "sub": "つなぐ", "era": "ラテン語" },
+      { "node": "joindre", "sub": "つなぐ", "era": "古フランス語" },
+      { "node": "join", "sub": "加わる・つなぐ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "join a club", "ja": "クラブに入る" },
+      { "en": "join in", "ja": "参加する" },
+      { "en": "join us", "ja": "私たちに加わる" },
+      { "en": "join a company", "ja": "会社に入る" },
+      { "en": "join hands", "ja": "手をつなぐ・協力する" },
+      { "en": "join the army", "ja": "軍隊に入る" }
+    ],
+    "related": [
+      { "en": "connect", "ja": "つなぐ" },
+      { "en": "participate", "ja": "参加する" },
+      { "en": "attach", "ja": "取り付ける" },
+      { "en": "member", "ja": "会員" }
+    ],
+    "faq": [
+      { "q": "join の後に前置詞は要りますか？", "a": "「〜に加わる」は前置詞なしで join＋目的語です（join the team）。ただし「(活動に)参加する」は join in ~ のように in を使うこともあります。" },
+      { "q": "join と attend の違いは？", "a": "join は「メンバーとして加わる・参加する」、attend は「(会議やイベントに)出席する」という意味です。" }
+    ],
+    "quiz": [
+      { "q": "Would you like to ___ our team?（私たちのチームに加わりませんか）", "A": "join", "B": "jam", "C": "jog", "D": "jar", "correct": "A" },
+      { "q": "「クラブに入る」は join ___ club。空所は？", "A": "the", "B": "to", "C": "in the", "D": "at", "correct": "A" }
+    ]
+  },
+  {
+    "english": "joke",
+    "pron": "dʒoʊk",
+    "kana": "ジョウク",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 jocus（冗談・遊び)",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A1", "日常語"],
+    "meaning_main": "冗談／ジョーク／冗談を言う",
+    "description": "joke は「冗談・ジョーク」を表す名詞。人を笑わせるための面白い話やことばを指します。動詞では「冗談を言う」。tell a joke（冗談を言う）、be joking（冗談を言っている）などの形で使われます。",
+    "keywords": ["joke 意味", "joke 発音", "joke 冗談", "tell a joke", "joke 例文"],
+    "meanings": [
+      { "hinshi": "【名】冗談・ジョーク", "note": "人を笑わせる面白い話やことば。" },
+      { "hinshi": "【動】冗談を言う・ふざける", "note": "面白いことを言う。" }
+    ],
+    "usages": [
+      { "title": "① 冗談 (tell a joke)", "desc": "「冗談を言う」。", "example_en": "He told a funny joke.", "example_ja": "彼は面白い冗談を言った。" },
+      { "title": "② 冗談を言う（動詞）", "desc": "Are you joking? など。", "example_en": "Are you joking?", "example_ja": "冗談でしょ？" },
+      { "title": "③ It's a joke.（冗談だよ）", "desc": "本気でないと伝える。", "example_en": "Don't be angry, it's just a joke.", "example_ja": "怒らないで、ただの冗談だよ。" }
+    ],
+    "warn": ["「冗談を言う」は tell a joke（make ではなく tell）。", "kid（からかう）と近いが、joke は笑わせる話・ふざける意味が中心。"],
+    "etym_note": "ラテン語 jocus（冗談・遊び・楽しみ）に由来します。jewel（宝石）とも語源的につながり、「楽しませるもの」という意味が根底にあります。",
+    "etym_chain": [
+      { "node": "jocus", "sub": "冗談・遊び", "era": "ラテン語" },
+      { "node": "joke", "sub": "冗談", "era": "17世紀英語" },
+      { "node": "joke", "sub": "冗談・ジョーク", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "tell a joke", "ja": "冗談を言う" },
+      { "en": "Are you joking?", "ja": "冗談でしょ？" },
+      { "en": "just a joke", "ja": "ただの冗談" },
+      { "en": "play a joke on", "ja": "〜にいたずらをする" },
+      { "en": "a practical joke", "ja": "いたずら・悪ふざけ" },
+      { "en": "make a joke", "ja": "冗談を言う" }
+    ],
+    "related": [
+      { "en": "funny", "ja": "面白い" },
+      { "en": "laugh", "ja": "笑う" },
+      { "en": "humor", "ja": "ユーモア" },
+      { "en": "kid", "ja": "からかう" }
+    ],
+    "faq": [
+      { "q": "「冗談を言う」は英語で？", "a": "tell a joke が一般的です。動詞の joke を使って I'm joking.（冗談だよ）のようにも言えます。" },
+      { "q": "practical joke とは？", "a": "言葉ではなく行動で人をかつぐ「いたずら・悪ふざけ」のことです。play a practical joke on ~（〜にいたずらをする）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "Everyone laughed at his ___.（みんな彼の冗談に笑った）", "A": "joke", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "「冗談を言う」の動詞は？", "A": "tell a joke", "B": "do a joke", "C": "put a joke", "D": "take a joke", "correct": "A" }
+    ]
+  },
+  {
+    "english": "journey",
+    "pron": "ˈdʒɜːrni",
+    "kana": "ジャーニー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 diurnum（一日の行程)",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "頻出語"],
+    "meaning_main": "旅／旅行／(長い)道のり",
+    "description": "journey は「旅・旅行」を表す名詞。ある場所から別の場所への移動、特に長い距離の旅を指します。比喩的に「人生の道のり・過程」の意味でも使われます。ラテン語の「一日の行程」が語源です。",
+    "keywords": ["journey 意味", "journey 発音", "journey 旅", "journey trip 違い", "journey 例文"],
+    "meanings": [
+      { "hinshi": "【名】旅・旅行", "note": "ある場所から別の場所への移動。特に長い旅。" },
+      { "hinshi": "【名】(人生などの)道のり・過程", "note": "比喩的な歩み。" }
+    ],
+    "usages": [
+      { "title": "① 旅・旅行", "desc": "長い移動。", "example_en": "The journey took three days.", "example_ja": "その旅は3日かかった。" },
+      { "title": "② 道のり（移動）", "desc": "AからBへの行程。", "example_en": "It's a long journey by train.", "example_ja": "電車で長い道のりだ。" },
+      { "title": "③ 人生の道のり（比喩）", "desc": "life's journey。", "example_en": "Learning is a lifelong journey.", "example_ja": "学びは生涯にわたる道のりだ。" }
+    ],
+    "warn": ["trip（往復や短い旅行）より、片道の長い『行程』を指すことが多い。", "「旅をする」は go on a journey / make a journey。"],
+    "etym_note": "ラテン語 diurnum（一日の行程・その日の分）に由来し、古フランス語 journee（一日・一日の旅）を経て英語に入りました。journal（日記）や diary と同じ語源です。",
+    "etym_chain": [
+      { "node": "diurnum", "sub": "一日の行程", "era": "ラテン語" },
+      { "node": "journee", "sub": "一日の旅", "era": "古フランス語" },
+      { "node": "journey", "sub": "旅", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "go on a journey", "ja": "旅に出る" },
+      { "en": "a long journey", "ja": "長い旅" },
+      { "en": "a safe journey", "ja": "安全な旅" },
+      { "en": "the journey home", "ja": "帰りの道のり" },
+      { "en": "life's journey", "ja": "人生の道のり" },
+      { "en": "a train journey", "ja": "電車の旅" }
+    ],
+    "related": [
+      { "en": "trip", "ja": "旅行" },
+      { "en": "travel", "ja": "旅行する" },
+      { "en": "voyage", "ja": "航海" },
+      { "en": "tour", "ja": "周遊旅行" }
+    ],
+    "faq": [
+      { "q": "journey と trip の違いは？", "a": "journey は片道の長い「行程・道のり」を指すことが多く、trip は往復や比較的短い「旅行」を指すことが多いです。" },
+      { "q": "「良いご旅行を」は英語で？", "a": "Have a safe journey!（安全な旅を）や Have a good trip! と言います。" }
+    ],
+    "quiz": [
+      { "q": "The ___ from Tokyo to London is very long.（東京からロンドンへの旅はとても長い）", "A": "journey", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "journey の語源の意味は？", "A": "一日の行程", "B": "海", "C": "山", "D": "夜", "correct": "A" }
+    ]
+  },
+  {
+    "english": "joy",
+    "pron": "dʒɔɪ",
+    "kana": "ジョイ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 gaudium（喜び)",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "感情"],
+    "meaning_main": "喜び／うれしさ／楽しみ",
+    "description": "joy は「喜び・うれしさ」を表す名詞。心から湧き上がる大きな幸福感を指します。happiness よりも強く、はずむような喜びを表すことが多い語です。動詞 enjoy（楽しむ）にも含まれています。",
+    "keywords": ["joy 意味", "joy 発音", "joy 喜び", "joy 幸せ", "joy 例文"],
+    "meanings": [
+      { "hinshi": "【名】喜び・うれしさ", "note": "心から湧き上がる大きな幸福感。" },
+      { "hinshi": "【名】喜びの源・楽しみ", "note": "喜びを与えるもの。" }
+    ],
+    "usages": [
+      { "title": "① 喜び・うれしさ", "desc": "大きな幸福感。", "example_en": "Her heart was full of joy.", "example_ja": "彼女の心は喜びで満ちていた。" },
+      { "title": "② 喜びの源", "desc": "楽しみを与えるもの。", "example_en": "The baby is a joy to the family.", "example_ja": "その赤ちゃんは家族の喜びだ。" },
+      { "title": "③ jump for joy（喜びで跳ねる）", "desc": "大喜びする。", "example_en": "She jumped for joy when she won.", "example_ja": "彼女は勝って喜びで飛び跳ねた。" }
+    ],
+    "warn": ["joy は happiness より強くはずむような喜びを表す。", "動詞 enjoy（楽しむ）は en-＋joy でできている。"],
+    "etym_note": "ラテン語 gaudium（喜び）に由来し、古フランス語 joie を経て英語に入りました。enjoy（楽しむ）や rejoice（喜ぶ）と同じ語源です。",
+    "etym_chain": [
+      { "node": "gaudium", "sub": "喜び", "era": "ラテン語" },
+      { "node": "joie", "sub": "喜び", "era": "古フランス語" },
+      { "node": "joy", "sub": "喜び", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "full of joy", "ja": "喜びに満ちて" },
+      { "en": "jump for joy", "ja": "喜びで飛び跳ねる" },
+      { "en": "tears of joy", "ja": "うれし涙" },
+      { "en": "a joy to watch", "ja": "見ていて楽しい" },
+      { "en": "bring joy", "ja": "喜びをもたらす" },
+      { "en": "joy and happiness", "ja": "喜びと幸せ" }
+    ],
+    "related": [
+      { "en": "happiness", "ja": "幸福" },
+      { "en": "delight", "ja": "大喜び" },
+      { "en": "pleasure", "ja": "楽しみ" },
+      { "en": "enjoy", "ja": "楽しむ" }
+    ],
+    "faq": [
+      { "q": "joy と happiness の違いは？", "a": "どちらも「喜び・幸福」ですが、joy の方がより強く、心からはずむような一時的な喜びを表すことが多いです。happiness はより穏やかで持続的な幸福感を指します。" },
+      { "q": "joy と enjoy は関係がありますか？", "a": "はい。enjoy は en-（〜にする）＋ joy（喜び）＝「喜びを味わう＝楽しむ」でできた語です。同じ語源を持ちます。" }
+    ],
+    "quiz": [
+      { "q": "The children shouted with ___ when they saw the snow.（子供たちは雪を見て喜びの声をあげた）", "A": "joy", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jump for ___ は「喜びで飛び跳ねる」。空所は？", "A": "joy", "B": "job", "C": "juice", "D": "jet", "correct": "A" }
+    ]
+  },
+  {
+    "english": "judge",
+    "pron": "dʒʌdʒ",
+    "kana": "ジャッジ",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 judex（裁く人)",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "頻出語"],
+    "meaning_main": "裁判官／審査員／判断する",
+    "description": "judge は「裁判官・審査員」を表す名詞、また「判断する・評価する」を表す動詞です。裁判で判決を下す人や、コンテストの審査員を指します。動詞では物事を見極めて判断することを表します。",
+    "keywords": ["judge 意味", "judge 発音", "judge 裁判官", "judge 判断する", "judge 例文"],
+    "meanings": [
+      { "hinshi": "【名】裁判官", "note": "裁判で判決を下す人。" },
+      { "hinshi": "【名】審査員・審判", "note": "コンテストなどで判定する人。" },
+      { "hinshi": "【動】判断する・評価する", "note": "見極めて結論を出す。" }
+    ],
+    "usages": [
+      { "title": "① 裁判官", "desc": "判決を下す人。", "example_en": "The judge listened to both sides.", "example_ja": "裁判官は双方の主張を聞いた。" },
+      { "title": "② 審査員", "desc": "コンテストの判定者。", "example_en": "She was a judge at the contest.", "example_ja": "彼女はコンテストの審査員だった。" },
+      { "title": "③ 判断する（動詞）", "desc": "見極める。", "example_en": "Don't judge people by their looks.", "example_ja": "見た目で人を判断してはいけない。" }
+    ],
+    "warn": ["「見た目で判断する」は judge ~ by ...（前置詞 by）。", "名詞「判断・判決」は judgment（英 judgement）。"],
+    "etym_note": "ラテン語 judex（jus＝法＋dicere＝言う＝「法を告げる人」）に由来し、古フランス語 juge を経て英語に入りました。justice（正義）と同じ語源です。",
+    "etym_chain": [
+      { "node": "judex", "sub": "裁く人", "era": "ラテン語" },
+      { "node": "juge", "sub": "裁判官", "era": "古フランス語" },
+      { "node": "judge", "sub": "裁判官・判断する", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a fair judge", "ja": "公平な裁判官" },
+      { "en": "judge by", "ja": "〜で判断する" },
+      { "en": "judgment", "ja": "判断・判決" },
+      { "en": "Don't judge a book by its cover.", "ja": "見かけで判断するな" },
+      { "en": "a panel of judges", "ja": "審査員団" },
+      { "en": "judge for yourself", "ja": "自分で判断する" }
+    ],
+    "related": [
+      { "en": "court", "ja": "法廷" },
+      { "en": "law", "ja": "法律" },
+      { "en": "decide", "ja": "決める" },
+      { "en": "jury", "ja": "陪審" }
+    ],
+    "faq": [
+      { "q": "Don't judge a book by its cover. とは？", "a": "「表紙で本を判断するな＝見かけで中身を判断してはいけない」という有名なことわざです。" },
+      { "q": "judge の名詞「判断」は？", "a": "judgment（イギリス綴りでは judgement）です。make a judgment（判断を下す）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The ___ made a fair decision in court.（裁判官は法廷で公平な判決を下した）", "A": "judge", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "「見た目で人を判断する」は judge ~ ___ appearance。空所は？", "A": "by", "B": "on", "C": "in", "D": "at", "correct": "A" }
+    ]
+  },
+  {
+    "english": "juice",
+    "pron": "dʒuːs",
+    "kana": "ジュース",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 jus（汁・スープ)",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "飲み物・基本語"],
+    "meaning_main": "ジュース／果汁／(肉などの)汁",
+    "description": "juice は「ジュース・果汁」を表す基本名詞。果物や野菜をしぼった液体を指します。原則不可算名詞で、数えるときは a glass of juice（ジュース1杯）と表します。肉や野菜から出る「汁」の意味もあります。",
+    "keywords": ["juice 意味", "juice 発音", "juice ジュース", "orange juice", "juice 例文"],
+    "meanings": [
+      { "hinshi": "【名】ジュース・果汁", "note": "果物や野菜をしぼった液体。不可算。" },
+      { "hinshi": "【名】(肉・野菜の)汁", "note": "食材から出る液。" }
+    ],
+    "usages": [
+      { "title": "① ジュース（飲み物）", "desc": "a glass of juice で数える。", "example_en": "I drink orange juice every morning.", "example_ja": "私は毎朝オレンジジュースを飲む。" },
+      { "title": "② 果汁", "desc": "しぼった液。", "example_en": "Add the juice of one lemon.", "example_ja": "レモン1個分の果汁を加えて。" },
+      { "title": "③ 肉の汁", "desc": "調理で出る汁。", "example_en": "The juices from the meat made a tasty sauce.", "example_ja": "肉から出た汁でおいしいソースができた。" }
+    ],
+    "warn": ["原則不可算名詞。数えるときは a glass of juice / two juices（注文時）。", "英語の juice は果汁が中心。炭酸飲料は soda / soft drink。"],
+    "etym_note": "ラテン語 jus（汁・スープ・煮汁）に由来し、古フランス語 jus を経て英語に入りました。もとは料理の「汁」を指す語でした。",
+    "etym_chain": [
+      { "node": "jus", "sub": "汁・スープ", "era": "ラテン語" },
+      { "node": "jus", "sub": "汁", "era": "古フランス語" },
+      { "node": "juice", "sub": "ジュース・果汁", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "orange juice", "ja": "オレンジジュース" },
+      { "en": "a glass of juice", "ja": "ジュース1杯" },
+      { "en": "apple juice", "ja": "リンゴジュース" },
+      { "en": "fresh juice", "ja": "しぼりたてのジュース" },
+      { "en": "lemon juice", "ja": "レモン汁" },
+      { "en": "fruit juice", "ja": "果物ジュース" }
+    ],
+    "related": [
+      { "en": "drink", "ja": "飲み物・飲む" },
+      { "en": "fruit", "ja": "果物" },
+      { "en": "water", "ja": "水" },
+      { "en": "squeeze", "ja": "しぼる" }
+    ],
+    "faq": [
+      { "q": "juice は数えられますか？", "a": "原則として不可算名詞です。数えるときは a glass of juice（ジュース1杯）のように表します。注文時に two juices と言うこともあります。" },
+      { "q": "英語の juice に炭酸飲料は含まれますか？", "a": "いいえ。juice は主に果物・野菜の果汁を指します。コーラなどの炭酸飲料は soda や soft drink と呼びます。" }
+    ],
+    "quiz": [
+      { "q": "Can I have a glass of orange ___?（オレンジジュースを1杯もらえますか）", "A": "juice", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "juice の数え方として正しいのは？", "A": "a glass of juice", "B": "a juice paper", "C": "many juice", "D": "a slice of juice", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jump",
+    "pron": "dʒʌmp",
+    "kana": "ジャンプ",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "擬音的な語 jump（跳ぶ音)",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "超基本語"],
+    "meaning_main": "跳ぶ／跳ねる／急上昇する",
+    "description": "jump は「跳ぶ・跳ねる」を表す最重要基本動詞。地面をけって体を空中に上げる動作を指します。比喩的に「(数値などが)急上昇する」の意味でも使われます。jump into / jump up などの句動詞も頻出です。",
+    "keywords": ["jump 意味", "jump 発音", "jump 跳ぶ", "jump up", "jump 例文"],
+    "meanings": [
+      { "hinshi": "【動】跳ぶ・跳ねる", "note": "地面をけって空中に上がる。" },
+      { "hinshi": "【動】急上昇する・跳ね上がる", "note": "数値などが急に増える。" },
+      { "hinshi": "【名】跳躍・ジャンプ", "note": "1回の跳ぶ動作。" }
+    ],
+    "usages": [
+      { "title": "① 跳ぶ・跳ねる", "desc": "空中に上がる。", "example_en": "The cat jumped onto the table.", "example_ja": "猫がテーブルの上に跳び乗った。" },
+      { "title": "② 急上昇する", "desc": "数値が跳ね上がる。", "example_en": "Prices jumped last month.", "example_ja": "先月、物価が急上昇した。" },
+      { "title": "③ jump up / into", "desc": "跳び上がる・跳び込む。", "example_en": "He jumped into the pool.", "example_ja": "彼はプールに飛び込んだ。" }
+    ],
+    "warn": ["過去形・過去分詞は jumped（規則変化）。", "jump rope（縄跳び）、jump for joy（喜んで跳ねる）など複合表現も多い。"],
+    "etym_note": "16世紀ごろに現れた語で、跳ぶときの音を模した擬音的な語だと考えられています。はっきりした語源はありません。",
+    "etym_chain": [
+      { "node": "jump", "sub": "跳ぶ音(擬音)", "era": "16世紀英語" },
+      { "node": "jump", "sub": "跳ぶ・跳ねる", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "jump up", "ja": "跳び上がる" },
+      { "en": "jump into", "ja": "〜に飛び込む" },
+      { "en": "jump over", "ja": "〜を跳び越える" },
+      { "en": "jump rope", "ja": "縄跳び" },
+      { "en": "jump for joy", "ja": "喜びで跳ねる" },
+      { "en": "a long jump", "ja": "走り幅跳び" }
+    ],
+    "related": [
+      { "en": "leap", "ja": "跳躍する" },
+      { "en": "hop", "ja": "片足で跳ぶ" },
+      { "en": "skip", "ja": "スキップする" },
+      { "en": "bounce", "ja": "はずむ" }
+    ],
+    "faq": [
+      { "q": "jump into と jump over の違いは？", "a": "jump into は「〜の中に飛び込む」（jump into the pool）、jump over は「〜を跳び越える」（jump over the fence）という意味です。" },
+      { "q": "jump は数値にも使いますか？", "a": "はい。「(価格や数値が)急上昇する・跳ね上がる」という比喩的な意味でも使います。Prices jumped.（物価が急上昇した）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "The children love to ___ on the trampoline.（子供たちはトランポリンで跳ぶのが大好きだ）", "A": "jump", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jump ___ は「縄跳び」。空所は？", "A": "rope", "B": "juice", "C": "joke", "D": "jelly", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jungle",
+    "pron": "ˈdʒʌŋɡl",
+    "kana": "ジャングル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ヒンディー語 jangal（森・荒れ地)",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A2", "自然"],
+    "meaning_main": "ジャングル／密林",
+    "description": "jungle は「ジャングル・密林」を表す名詞。熱帯地方の、木や草が生い茂った深い森を指します。比喩的に「無秩序で厳しい世界（都会のジャングルなど）」の意味でも使われます。ヒンディー語の「森・荒れ地」が語源です。",
+    "keywords": ["jungle 意味", "jungle 発音", "jungle ジャングル", "jungle 密林", "jungle 例文"],
+    "meanings": [
+      { "hinshi": "【名】ジャングル・密林", "note": "熱帯の木や草が生い茂った深い森。" },
+      { "hinshi": "【名】(比喩)無秩序で厳しい世界", "note": "the concrete jungle（都会の混沌）。" }
+    ],
+    "usages": [
+      { "title": "① ジャングル（密林）", "desc": "熱帯の深い森。", "example_en": "Many animals live in the jungle.", "example_ja": "多くの動物がジャングルにすむ。" },
+      { "title": "② 生い茂った場所", "desc": "うっそうとした森。", "example_en": "They hacked through the thick jungle.", "example_ja": "彼らは深い密林を切り開いて進んだ。" },
+      { "title": "③ (比喩)厳しい世界", "desc": "the concrete jungle。", "example_en": "The city can be a jungle.", "example_ja": "都会は弱肉強食の世界になりうる。" }
+    ],
+    "warn": ["発音は /ˈdʒʌŋɡl/。ng の鼻音に注意。", "熱帯の密林を指す。forest（森）より暑くうっそうとしたイメージ。"],
+    "etym_note": "ヒンディー語 jangal（森・荒れ地・未開の地）に由来し、サンスクリット語にさかのぼります。イギリスのインド統治を通じて英語に取り入れられました。",
+    "etym_chain": [
+      { "node": "jangala", "sub": "荒れ地・森", "era": "サンスクリット語" },
+      { "node": "jangal", "sub": "森・荒れ地", "era": "ヒンディー語" },
+      { "node": "jungle", "sub": "ジャングル", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "in the jungle", "ja": "ジャングルの中で" },
+      { "en": "a tropical jungle", "ja": "熱帯のジャングル" },
+      { "en": "the concrete jungle", "ja": "コンクリートジャングル(都会)" },
+      { "en": "the law of the jungle", "ja": "弱肉強食の掟" },
+      { "en": "a dense jungle", "ja": "深い密林" },
+      { "en": "jungle animals", "ja": "ジャングルの動物" }
+    ],
+    "related": [
+      { "en": "forest", "ja": "森" },
+      { "en": "rainforest", "ja": "熱帯雨林" },
+      { "en": "wild", "ja": "野生の" },
+      { "en": "tropical", "ja": "熱帯の" }
+    ],
+    "faq": [
+      { "q": "jungle と forest の違いは？", "a": "forest は「森」全般ですが、jungle は特に熱帯地方の、木や草がうっそうと生い茂った暑く湿った「密林」を指します。" },
+      { "q": "the law of the jungle とは？", "a": "「弱肉強食の掟」という意味です。ジャングルで強い者が生き残る様子から、競争の厳しい世界を表す表現です。" }
+    ],
+    "quiz": [
+      { "q": "Tigers and monkeys live in the ___.（トラやサルはジャングルにすむ）", "A": "jungle", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "the concrete ___ は「都会の混沌」。空所は？", "A": "jungle", "B": "juice", "C": "joke", "D": "jelly", "correct": "A" }
+    ]
+  }
+]

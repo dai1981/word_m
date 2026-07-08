@@ -1,0 +1,522 @@
+[
+  {
+    "english": "Rome",
+    "pron": "rəʊm",
+    "kana": "ローム／ローマ",
+    "hinshi": "固有名詞（都市・古代帝国）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ラテン語 Roma より（建国者ロムルスにちなむ伝説）",
+    "ld_level": "準1級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "地理・歴史"],
+    "meaning_main": "ローマ（イタリアの首都／古代ローマ帝国の中心）",
+    "description": "Rome（ローマ）の意味・発音・語源を解説。イタリアの首都であり、古代ローマ帝国の中心、カトリック教会の総本山バチカンがある都市について、英語での使い方を紹介します。",
+    "keywords": ["Rome 意味", "Rome 発音", "ローマ", "イタリア 首都"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ローマ", "note": "イタリアの首都。古代にはローマ帝国の中心として地中海世界を支配した。市内にはローマ・カトリック教会の総本山であるバチカン市国がある。『永遠の都（the Eternal City）』とも呼ばれる。" }
+    ],
+    "usages": [
+      { "title": "① 「イタリアの首都」として", "desc": "都市を表します。", "example_en": "Rome is the capital of Italy.", "example_ja": "ローマはイタリアの首都だ。" },
+      { "title": "② 「古代帝国」として", "desc": "歴史を表します。", "example_en": "Ancient Rome ruled much of Europe.", "example_ja": "古代ローマはヨーロッパの多くを支配した。" }
+    ],
+    "warn": [
+      "Rome は固有名詞『ローマ』。発音はローム（英語では二重母音）。形容詞・住民は Roman（ローマの・ローマ人）。",
+      "ことわざ Rome wasn't built in a day.（ローマは一日にして成らず）、When in Rome, do as the Romans do.（郷に入っては郷に従え）で有名。"
+    ],
+    "etym_note": "ラテン語 Roma に由来します。伝説では建国者ロムルス（Romulus）にちなむとされますが、地名が先にあったという説もあります。",
+    "etym_chain": [
+      { "node": "Roma", "sub": "ローマ", "era": "ラテン語" },
+      { "node": "Rome", "sub": "ローマ", "era": "英語" },
+      { "node": "Rome", "sub": "イタリアの首都・古代帝国", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the city of Rome", "ja": "ローマの街" },
+      { "en": "ancient Rome", "ja": "古代ローマ" },
+      { "en": "the Roman Empire", "ja": "ローマ帝国" },
+      { "en": "Rome wasn't built in a day", "ja": "ローマは一日にして成らず" },
+      { "en": "When in Rome, do as the Romans do", "ja": "郷に入っては郷に従え" },
+      { "en": "All roads lead to Rome", "ja": "すべての道はローマに通ず" }
+    ],
+    "related": [
+      { "en": "Roman", "ja": "ローマの・ローマ人" },
+      { "en": "Italy", "ja": "イタリア" },
+      { "en": "Vatican", "ja": "バチカン" },
+      { "en": "empire", "ja": "帝国" }
+    ],
+    "faq": [
+      { "q": "Rome とはどんな意味？", "a": "イタリアの首都『ローマ』のことです。古代にはローマ帝国の中心として地中海世界を支配し、市内にはカトリック教会の総本山バチカンがあります。Rome is the capital of Italy.（ローマはイタリアの首都だ）のように使います。" },
+      { "q": "Rome を使ったことわざは？", "a": "Rome wasn't built in a day.（ローマは一日にして成らず＝大事業は時間がかかる）、All roads lead to Rome.（すべての道はローマに通ず）、When in Rome, do as the Romans do.（郷に入っては郷に従え）などが有名です。" }
+    ],
+    "quiz": [
+      { "q": "___ is the capital of Italy.（ローマ）", "A": "Rome", "B": "Paris のパリ", "C": "Madrid のマドリード", "D": "Berlin のベルリン", "correct": "A" },
+      { "q": "「ローマは一日にして成らず」の英語はどれ？", "A": "Rome wasn't built in a day", "B": "Rome is far away", "C": "Rome never sleeps", "D": "Rome is burning", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Russia",
+    "pron": "ˈrʌʃə",
+    "kana": "ラシャ／ロシア",
+    "hinshi": "固有名詞（国名）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "中世ラテン語 Russia、ルーシ（Rus'）より",
+    "ld_level": "準1級",
+    "badges": ["中学生〜", "英検2級", "CEFR B1", "地理・国名"],
+    "meaning_main": "ロシア（世界最大の面積を持つ国・首都モスクワ）",
+    "description": "Russia（ロシア）の意味・発音・語源を解説。ヨーロッパからアジアにまたがる世界最大の面積を持つ国「ロシア」について、英語での使い方と、形容詞 Russian を紹介します。",
+    "keywords": ["Russia 意味", "Russia 発音", "ロシア", "国名"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ロシア", "note": "ヨーロッパ東部からアジア北部にまたがる、世界最大の面積を持つ国。首都はモスクワ。公用語はロシア語。形容詞・国民・言語は Russian（ロシアの・ロシア人・ロシア語）。" }
+    ],
+    "usages": [
+      { "title": "① 「国名」として", "desc": "国を表します。", "example_en": "Russia is the largest country in the world by area.", "example_ja": "ロシアは面積で世界最大の国だ。" },
+      { "title": "② 「ロシア語・ロシア人」として", "desc": "派生語を表します。", "example_en": "She is learning Russian.", "example_ja": "彼女はロシア語を学んでいる。" }
+    ],
+    "warn": [
+      "Russia は固有名詞『ロシア（国名）』。形容詞・国民・言語は Russian。発音はラシャに近い。",
+      "首都はモスクワ（Moscow）。旧ソ連（the Soviet Union）の中心だった。"
+    ],
+    "etym_note": "中世ラテン語 Russia に由来し、さらに中世の東スラブ国家『ルーシ（Rus'）』にさかのぼります。Rus' はスカンジナビア由来の語ともいわれます。",
+    "etym_chain": [
+      { "node": "Rus'", "sub": "ルーシ（中世の国）", "era": "古東スラブ語" },
+      { "node": "Russia", "sub": "ロシア", "era": "中世ラテン語" },
+      { "node": "Russia", "sub": "ロシア（国名）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the Russian language", "ja": "ロシア語" },
+      { "en": "a Russian citizen", "ja": "ロシア国民" },
+      { "en": "travel to Russia", "ja": "ロシアへ旅行する" },
+      { "en": "the largest country, Russia", "ja": "最大の国ロシア" },
+      { "en": "Russian literature", "ja": "ロシア文学" },
+      { "en": "Russian roulette", "ja": "ロシアンルーレット" }
+    ],
+    "related": [
+      { "en": "Russian", "ja": "ロシアの・ロシア人・ロシア語" },
+      { "en": "Moscow", "ja": "モスクワ" },
+      { "en": "Soviet Union", "ja": "ソビエト連邦" },
+      { "en": "Siberia", "ja": "シベリア" }
+    ],
+    "faq": [
+      { "q": "Russia とはどんな意味？", "a": "ヨーロッパ東部からアジア北部にまたがる、世界最大の面積を持つ国『ロシア』のことです。首都はモスクワです。Russia is the largest country in the world by area.（ロシアは面積で世界最大の国だ）のように使います。" },
+      { "q": "Russia の形容詞形は？", "a": "Russian です。『ロシアの』という形容詞、『ロシア人』『ロシア語』の意味でも使います。Russian literature（ロシア文学）、a Russian citizen（ロシア国民）のように使います。" }
+    ],
+    "quiz": [
+      { "q": "___ is the largest country in the world by area.（ロシア）", "A": "Russia", "B": "Canada のカナダ", "C": "China の中国", "D": "Brazil のブラジル", "correct": "A" },
+      { "q": "Russia の形容詞・言語を表す語はどれ？", "A": "Russian", "B": "Russish", "C": "Russese", "D": "Russic", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Romania",
+    "pron": "ruˈmeɪniə",
+    "kana": "ルメイニア／ルーマニア",
+    "hinshi": "固有名詞（国名）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ラテン語 Romanus（ローマの）より（『ローマ人の国』）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "地理・国名"],
+    "meaning_main": "ルーマニア（東欧の国・首都ブカレスト）",
+    "description": "Romania（ルーマニア）の意味・発音・語源を解説。東ヨーロッパの国「ルーマニア」について、ラテン語系の言語や、ドラキュラで知られるトランシルバニア地方とともに、英語での使い方を紹介します。",
+    "keywords": ["Romania 意味", "Romania 発音", "ルーマニア", "国名"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ルーマニア", "note": "東ヨーロッパ、バルカン半島北部の国。首都はブカレスト。周囲をスラブ系の国に囲まれながら、ラテン語系のルーマニア語を話す。ドラキュラ伝説で知られるトランシルバニア地方がある。形容詞・国民は Romanian。" }
+    ],
+    "usages": [
+      { "title": "① 「東欧の国」として", "desc": "国を表します。", "example_en": "Romania is a country in Eastern Europe.", "example_ja": "ルーマニアは東ヨーロッパの国だ。" },
+      { "title": "② 「ラテン系の言語」として", "desc": "言語の特徴を表します。", "example_en": "Romanian is a Romance language.", "example_ja": "ルーマニア語はロマンス語（ラテン系の言語）だ。" }
+    ],
+    "warn": [
+      "Romania は固有名詞『ルーマニア（国名）』。形容詞・国民・言語は Romanian。首都はブカレスト（Bucharest）。",
+      "名は『ローマ人の国』の意で、スラブ系の国々に囲まれながらラテン語系の言語を保つ点が特徴。"
+    ],
+    "etym_note": "ラテン語 Romanus（『ローマの・ローマ人の』、Roma「ローマ」より）に由来し、『ローマ人の（子孫の）国』を意味します。古代ローマの属州ダキアが起源で、ラテン語系の言語を今に伝えます。",
+    "etym_chain": [
+      { "node": "Romanus", "sub": "ローマの・ローマ人の", "era": "ラテン語" },
+      { "node": "România", "sub": "ルーマニア", "era": "ルーマニア語" },
+      { "node": "Romania", "sub": "ルーマニア（国名）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the country of Romania", "ja": "ルーマニアという国" },
+      { "en": "the Romanian language", "ja": "ルーマニア語" },
+      { "en": "travel to Romania", "ja": "ルーマニアへ旅する" },
+      { "en": "Transylvania in Romania", "ja": "ルーマニアのトランシルバニア" },
+      { "en": "the capital of Romania", "ja": "ルーマニアの首都" },
+      { "en": "a Romanian citizen", "ja": "ルーマニア国民" }
+    ],
+    "related": [
+      { "en": "Romanian", "ja": "ルーマニアの・ルーマニア人・ルーマニア語" },
+      { "en": "Bucharest", "ja": "ブカレスト" },
+      { "en": "Transylvania", "ja": "トランシルバニア" },
+      { "en": "Balkans", "ja": "バルカン半島" }
+    ],
+    "faq": [
+      { "q": "Romania とはどんな意味？", "a": "東ヨーロッパ・バルカン半島北部の国『ルーマニア』のことです。首都はブカレスト。ドラキュラ伝説で知られるトランシルバニア地方があります。Romania is a country in Eastern Europe.（ルーマニアは東ヨーロッパの国だ）のように使います。" },
+      { "q": "ルーマニア語はどんな言語？", "a": "スラブ系の国々に囲まれながら、ラテン語系（ロマンス語）の言語です。国名 Romania が『ローマ人の国』を意味する通り、古代ローマの影響を今に伝えています。" }
+    ],
+    "quiz": [
+      { "q": "___ is a country in Eastern Europe with a Latin-based language.（ルーマニア）", "A": "Romania", "B": "Norway のノルウェー", "C": "Ireland のアイルランド", "D": "Greece のギリシャ", "correct": "A" },
+      { "q": "Romania の名前のもとになった意味はどれ？", "A": "ローマ人の（国）", "B": "北の国", "C": "山の国", "D": "海の国", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Rwanda",
+    "pron": "ruˈɑːndə",
+    "kana": "ルワーンダ／ルワンダ",
+    "hinshi": "固有名詞（国名）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "現地語（キニアルワンダ）Rwanda より",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "地理・国名"],
+    "meaning_main": "ルワンダ（東アフリカの内陸国・首都キガリ）",
+    "description": "Rwanda（ルワンダ）の意味・発音・語源を解説。東アフリカの内陸国「ルワンダ」について、『千の丘の国』という別名や1994年の悲劇とその後の復興とともに、英語での使い方を紹介します。",
+    "keywords": ["Rwanda 意味", "Rwanda 発音", "ルワンダ", "アフリカ 国名"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ルワンダ", "note": "東アフリカの内陸にある小さな国。首都はキガリ。丘陵地が多く『千の丘の国（Land of a Thousand Hills）』と呼ばれる。1994年に大規模な虐殺（ジェノサイド）が起きたが、その後めざましい復興を遂げた。形容詞・国民は Rwandan。" }
+    ],
+    "usages": [
+      { "title": "① 「アフリカの国」として", "desc": "国を表します。", "example_en": "Rwanda is a small landlocked country in East Africa.", "example_ja": "ルワンダは東アフリカの小さな内陸国だ。" },
+      { "title": "② 「復興」として", "desc": "近年の発展を表します。", "example_en": "Rwanda has made a remarkable recovery in recent decades.", "example_ja": "ルワンダは近年めざましい復興を遂げた。" }
+    ],
+    "warn": [
+      "Rwanda は固有名詞『ルワンダ（国名）』。形容詞・国民は Rwandan。首都はキガリ（Kigali）。",
+      "1994年のジェノサイド（大虐殺）と、その後の復興・和解の取り組みで知られる。"
+    ],
+    "etym_note": "現地の言葉キニアルワンダ（Kinyarwanda）による国名 Rwanda に由来します。丘陵の多い地形から『千の丘の国』とも呼ばれます。",
+    "etym_chain": [
+      { "node": "Rwanda", "sub": "ルワンダ", "era": "キニアルワンダ" },
+      { "node": "Rwanda", "sub": "ルワンダ（国名）", "era": "現代英語" },
+      { "node": "Land of a Thousand Hills", "sub": "千の丘の国（別名）", "era": "英語" }
+    ],
+    "phrases": [
+      { "en": "the country of Rwanda", "ja": "ルワンダという国" },
+      { "en": "the capital of Rwanda", "ja": "ルワンダの首都" },
+      { "en": "the Land of a Thousand Hills", "ja": "千の丘の国" },
+      { "en": "a Rwandan citizen", "ja": "ルワンダ国民" },
+      { "en": "recovery in Rwanda", "ja": "ルワンダの復興" },
+      { "en": "landlocked Rwanda", "ja": "内陸国ルワンダ" }
+    ],
+    "related": [
+      { "en": "Rwandan", "ja": "ルワンダの・ルワンダ人" },
+      { "en": "Kigali", "ja": "キガリ" },
+      { "en": "Africa", "ja": "アフリカ" },
+      { "en": "landlocked", "ja": "内陸の・海に面しない" }
+    ],
+    "faq": [
+      { "q": "Rwanda とはどんな意味？", "a": "東アフリカの内陸にある小さな国『ルワンダ』のことです。首都はキガリ。丘陵地が多く『千の丘の国』と呼ばれます。Rwanda is a small landlocked country in East Africa.（東アフリカの小さな内陸国だ）のように使います。" },
+      { "q": "Rwanda はなぜ『千の丘の国』と呼ばれる？", "a": "国土に丘陵地が多く、緑の丘が連なる地形をしているためです。英語では the Land of a Thousand Hills（千の丘の国）という愛称で知られています。" }
+    ],
+    "quiz": [
+      { "q": "___ is a small landlocked country in East Africa.（ルワンダ）", "A": "Rwanda", "B": "Egypt のエジプト", "C": "Nigeria のナイジェリア", "D": "Morocco のモロッコ", "correct": "A" },
+      { "q": "Rwanda の別名はどれ？", "A": "千の丘の国（Land of a Thousand Hills）", "B": "太陽の国", "C": "氷の国", "D": "砂の国", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Rembrandt",
+    "pron": "ˈrɛmbrænt",
+    "kana": "レンブラント",
+    "hinshi": "固有名詞（人物・画家）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "オランダの人名 Rembrandt van Rijn より",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "美術・歴史"],
+    "meaning_main": "レンブラント（17世紀オランダの巨匠画家）",
+    "description": "Rembrandt（レンブラント）の意味・発音・語源を解説。光と影を巧みに使った17世紀オランダ黄金時代の画家「レンブラント」について、代表作『夜警』とともに、英語での使い方を紹介します。",
+    "keywords": ["Rembrandt 意味", "Rembrandt 発音", "レンブラント", "オランダ 画家"],
+    "meanings": [
+      { "hinshi": "【固有名詞】レンブラント", "note": "17世紀オランダ黄金時代を代表する画家（Rembrandt van Rijn、1606–1669）。光と影の劇的な対比（明暗法）と、深い人間味あふれる肖像画・自画像で知られる。代表作は『夜警（The Night Watch）』。" }
+    ],
+    "usages": [
+      { "title": "① 「巨匠画家」として", "desc": "画家を表します。", "example_en": "Rembrandt is one of the greatest painters of the Dutch Golden Age.", "example_ja": "レンブラントはオランダ黄金時代の最も偉大な画家の一人だ。" },
+      { "title": "② 「作品」として", "desc": "絵画を表します。", "example_en": "The museum owns several Rembrandts.", "example_ja": "その美術館はレンブラントの作品を数点所蔵している。" }
+    ],
+    "warn": [
+      "Rembrandt は固有名詞『レンブラント（オランダの画家）』。作品を指して a Rembrandt（レンブラントの絵）とも言う。",
+      "光と影の劇的な対比（明暗法・キアロスクーロ）の名手。多くの自画像を残したことでも有名。"
+    ],
+    "etym_note": "オランダの人名 Rembrandt van Rijn（レンブラント・ファン・レイン）に由来します。ファーストネームの Rembrandt だけで、この画家を指すのが一般的です。",
+    "etym_chain": [
+      { "node": "Rembrandt van Rijn", "sub": "画家の本名", "era": "17世紀オランダ" },
+      { "node": "Rembrandt", "sub": "レンブラント", "era": "英語" },
+      { "node": "a Rembrandt", "sub": "レンブラントの作品", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a painting by Rembrandt", "ja": "レンブラントの絵" },
+      { "en": "a Rembrandt self-portrait", "ja": "レンブラントの自画像" },
+      { "en": "in the style of Rembrandt", "ja": "レンブラント風に" },
+      { "en": "Rembrandt's Night Watch", "ja": "レンブラントの『夜警』" },
+      { "en": "a genuine Rembrandt", "ja": "本物のレンブラント作品" },
+      { "en": "Rembrandt lighting", "ja": "レンブラント・ライティング（写真の技法）" }
+    ],
+    "related": [
+      { "en": "Vermeer", "ja": "フェルメール（オランダの画家）" },
+      { "en": "chiaroscuro", "ja": "明暗法・キアロスクーロ" },
+      { "en": "self-portrait", "ja": "自画像" },
+      { "en": "Dutch Golden Age", "ja": "オランダ黄金時代" }
+    ],
+    "faq": [
+      { "q": "Rembrandt とはどんな意味？", "a": "17世紀オランダ黄金時代を代表する画家『レンブラント（1606–1669）』のことです。光と影の劇的な対比と、深い人間味あふれる肖像画で知られます。代表作は『夜警』です。Rembrandt is one of the greatest painters of the Dutch Golden Age.のように使います。" },
+      { "q": "「Rembrandt lighting」とは？", "a": "レンブラントの絵のように、顔の片側を光で照らし、反対側の頬に三角形の光をつくる、写真・映画の照明技法です。彼の明暗の使い方にちなんで名づけられました。" }
+    ],
+    "quiz": [
+      { "q": "___ is one of the greatest painters of the Dutch Golden Age.（レンブラント）", "A": "Rembrandt", "B": "Beethoven のベートーベン（作曲家）", "C": "Shakespeare のシェイクスピア（劇作家）", "D": "Einstein のアインシュタイン（科学者）", "correct": "A" },
+      { "q": "レンブラントの代表作はどれ？", "A": "『夜警（The Night Watch）』", "B": "『モナ・リザ』", "C": "『ひまわり』", "D": "『最後の晩餐』", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Roosevelt",
+    "pron": "ˈrəʊzəvɛlt",
+    "kana": "ローズベルト／ルーズベルト",
+    "hinshi": "固有名詞（人物・米大統領）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "オランダ系の姓 Roosevelt（roosevelt「バラの野」より）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "歴史・政治"],
+    "meaning_main": "ルーズベルト（2人の米大統領の姓）",
+    "description": "Roosevelt（ルーズベルト）の意味・発音・語源を解説。アメリカの2人の大統領、セオドア・ルーズベルトとフランクリン・D・ルーズベルトの姓「ルーズベルト」について、英語での使い方を紹介します。",
+    "keywords": ["Roosevelt 意味", "Roosevelt 発音", "ルーズベルト", "アメリカ大統領"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ルーズベルト", "note": "アメリカの著名な2人の大統領の姓。①セオドア・ルーズベルト（Theodore Roosevelt、第26代、テディベアの由来）、②フランクリン・D・ルーズベルト（Franklin D. Roosevelt＝FDR、第32代、ニューディール政策・第二次大戦を指導）。遠い親戚同士。" }
+    ],
+    "usages": [
+      { "title": "① 「大統領」として", "desc": "人物を表します。", "example_en": "Franklin D. Roosevelt led the United States during World War II.", "example_ja": "フランクリン・D・ルーズベルトは第二次大戦中のアメリカを率いた。" },
+      { "title": "② 「政策」として", "desc": "歴史を表します。", "example_en": "Roosevelt's New Deal aimed to fight the Great Depression.", "example_ja": "ルーズベルトのニューディール政策は大恐慌に立ち向かうものだった。" }
+    ],
+    "warn": [
+      "Roosevelt は固有名詞『ルーズベルト（姓）』。発音は英語ではローズベルトに近い。",
+      "同じ姓の大統領が2人いる：セオドア（第26代）とフランクリン・D（FDR、第32代）。区別に注意。"
+    ],
+    "etym_note": "オランダ系の姓 Roosevelt に由来し、オランダ語で『バラの野（roosen「バラ」＋ veld「野原」）』を意味します。一族の祖先はオランダからの入植者でした。",
+    "etym_chain": [
+      { "node": "roosen + veld", "sub": "バラ＋野原", "era": "オランダ語" },
+      { "node": "Roosevelt", "sub": "ルーズベルト（姓）", "era": "オランダ系姓" },
+      { "node": "Roosevelt", "sub": "米大統領の姓", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "President Roosevelt", "ja": "ルーズベルト大統領" },
+      { "en": "Theodore Roosevelt", "ja": "セオドア・ルーズベルト" },
+      { "en": "Franklin D. Roosevelt (FDR)", "ja": "フランクリン・D・ルーズベルト" },
+      { "en": "Roosevelt's New Deal", "ja": "ルーズベルトのニューディール政策" },
+      { "en": "the Roosevelt family", "ja": "ルーズベルト家" },
+      { "en": "named after Roosevelt", "ja": "ルーズベルトにちなんで名づけられた" }
+    ],
+    "related": [
+      { "en": "president", "ja": "大統領" },
+      { "en": "New Deal", "ja": "ニューディール政策" },
+      { "en": "teddy bear", "ja": "テディベア（セオドアにちなむ）" },
+      { "en": "the White House", "ja": "ホワイトハウス" }
+    ],
+    "faq": [
+      { "q": "Roosevelt とはどんな意味？", "a": "アメリカの著名な2人の大統領の姓『ルーズベルト』です。セオドア・ルーズベルト（第26代、テディベアの由来）と、フランクリン・D・ルーズベルト（FDR、第32代、ニューディール政策と第二次大戦を指導）がいます。" },
+      { "q": "2人のルーズベルトの関係は？", "a": "遠い親戚（またいとこ）同士です。セオドア（共和党）とフランクリン・D（民主党）で、活躍した時代も所属政党も異なります。フランクリンの妻エレノアはセオドアの姪でした。" }
+    ],
+    "quiz": [
+      { "q": "Franklin D. ___ led the United States during World War II.（ルーズベルト）", "A": "Roosevelt", "B": "Lincoln のリンカーン", "C": "Washington のワシントン", "D": "Kennedy のケネディ", "correct": "A" },
+      { "q": "テディベアの名の由来になったルーズベルトはどちら？", "A": "セオドア・ルーズベルト", "B": "フランクリン・D・ルーズベルト", "C": "エレノア・ルーズベルト", "D": "どちらでもない", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Raphael",
+    "pron": "ˈræfeɪəl",
+    "kana": "ラファエル／ラファエロ",
+    "hinshi": "固有名詞（人物・画家）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ヘブライ語 Rəp̄āʾēl（神は癒やす）より",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "美術・歴史"],
+    "meaning_main": "ラファエロ（イタリア・ルネサンスの巨匠画家）",
+    "description": "Raphael（ラファエロ）の意味・発音・語源を解説。レオナルド・ミケランジェロと並ぶルネサンス盛期の三大巨匠の一人「ラファエロ」について、代表作『アテナイの学堂』とともに、英語での使い方を紹介します。",
+    "keywords": ["Raphael 意味", "Raphael 発音", "ラファエロ", "ルネサンス 画家"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ラファエロ", "note": "イタリア・ルネサンス盛期の画家・建築家（Raffaello Sanzio、1483–1520）。レオナルド・ダ・ヴィンチ、ミケランジェロと並ぶ三大巨匠の一人。調和のとれた優美な聖母子像や、代表作『アテナイの学堂（The School of Athens）』で知られる。天使ラファエルの名でもある。" }
+    ],
+    "usages": [
+      { "title": "① 「巨匠画家」として", "desc": "画家を表します。", "example_en": "Raphael was a master of the High Renaissance.", "example_ja": "ラファエロはルネサンス盛期の巨匠だった。" },
+      { "title": "② 「作品」として", "desc": "絵画を表します。", "example_en": "Raphael painted many gentle images of the Madonna.", "example_ja": "ラファエロは多くの優美な聖母像を描いた。" }
+    ],
+    "warn": [
+      "Raphael は固有名詞。美術では画家『ラファエロ（伊: Raffaello）』を指す。英語読みはラファエル。",
+      "元はヘブライ語で天使ラファエル（大天使の一人）の名。人名としても広く使われる。"
+    ],
+    "etym_note": "ヘブライ語 Rəp̄āʾēl（『神は癒やす』、rāp̄āʾ「癒やす」＋ ʾēl「神」）に由来し、旧約聖書の大天使の一人ラファエルの名です。画家のイタリア語名は Raffaello Sanzio。",
+    "etym_chain": [
+      { "node": "Rəp̄āʾēl", "sub": "神は癒やす", "era": "ヘブライ語" },
+      { "node": "Raffaello", "sub": "ラファエロ", "era": "イタリア語" },
+      { "node": "Raphael", "sub": "ラファエロ・ラファエル", "era": "英語" }
+    ],
+    "phrases": [
+      { "en": "a painting by Raphael", "ja": "ラファエロの絵" },
+      { "en": "Raphael's Madonnas", "ja": "ラファエロの聖母像" },
+      { "en": "The School of Athens by Raphael", "ja": "ラファエロの『アテナイの学堂』" },
+      { "en": "the High Renaissance and Raphael", "ja": "盛期ルネサンスとラファエロ" },
+      { "en": "in the manner of Raphael", "ja": "ラファエロ風に" },
+      { "en": "the angel Raphael", "ja": "天使ラファエル" }
+    ],
+    "related": [
+      { "en": "Leonardo da Vinci", "ja": "レオナルド・ダ・ヴィンチ" },
+      { "en": "Michelangelo", "ja": "ミケランジェロ" },
+      { "en": "Renaissance", "ja": "ルネサンス" },
+      { "en": "Madonna", "ja": "聖母マリア（の像）" }
+    ],
+    "faq": [
+      { "q": "Raphael とはどんな意味？", "a": "美術では、イタリア・ルネサンス盛期の巨匠画家『ラファエロ（1483–1520）』を指します。レオナルド、ミケランジェロと並ぶ三大巨匠の一人で、優美な聖母子像や『アテナイの学堂』で知られます。" },
+      { "q": "Raphael は画家以外の意味もある？", "a": "はい。元はヘブライ語で『神は癒やす』を意味する、旧約聖書の大天使ラファエルの名です。そこから人名としても広く使われ、画家ラファエロの名もこれに由来します。" }
+    ],
+    "quiz": [
+      { "q": "___ was a master of the High Renaissance, along with Leonardo and Michelangelo.（ラファエロ）", "A": "Raphael", "B": "Picasso のピカソ", "C": "Monet のモネ", "D": "Van Gogh のゴッホ", "correct": "A" },
+      { "q": "Raphael の名のもとになったヘブライ語の意味はどれ？", "A": "神は癒やす", "B": "神は王なり", "C": "光あれ", "D": "永遠の都", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Ramadan",
+    "pron": "ˌræməˈdɑːn",
+    "kana": "ラマダーン／ラマダン",
+    "hinshi": "固有名詞（宗教・暦）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "アラビア語 Ramaḍān（灼熱の月）より",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "宗教・文化"],
+    "meaning_main": "ラマダン（イスラム教の断食月）",
+    "description": "Ramadan（ラマダン）の意味・発音・語源を解説。イスラム教徒が日中の断食を行う神聖な月「ラマダン」について、その習慣や意義とともに、英語での使い方を紹介します。",
+    "keywords": ["Ramadan 意味", "Ramadan 発音", "ラマダン", "イスラム 断食"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ラマダン", "note": "イスラム暦の第9月。イスラム教徒（ムスリム）はこの月の間、夜明けから日没まで飲食を断つ断食（sawm）を行う。信仰を深め、自制心や貧しい人への共感を養う神聖な月とされる。月末は祝祭（イード）で祝う。" }
+    ],
+    "usages": [
+      { "title": "① 「断食月」として", "desc": "宗教的な月を表します。", "example_en": "During Ramadan, Muslims fast from dawn to sunset.", "example_ja": "ラマダンの間、イスラム教徒は夜明けから日没まで断食する。" },
+      { "title": "② 「あいさつ」として", "desc": "祝いの言葉を表します。", "example_en": "People greet each other with 'Ramadan Mubarak.'", "example_ja": "人々は『ラマダン・ムバラク（よきラマダンを）』とあいさつを交わす。" }
+    ],
+    "warn": [
+      "Ramadan は固有名詞『ラマダン（イスラム教の断食月）』。日中の断食（sawm）を行う神聖な月。",
+      "イスラム暦（太陰暦）に基づくため、太陽暦での時期は毎年少しずつ早まる。月末の祝祭は Eid（イード）。"
+    ],
+    "etym_note": "アラビア語 Ramaḍān（『灼熱・焼けつく暑さ』、ramiḍa「焼ける」より）に由来します。もとは酷暑の時期にあたる月だったことにちなむとされます。",
+    "etym_chain": [
+      { "node": "ramiḍa", "sub": "焼ける・灼熱", "era": "アラビア語" },
+      { "node": "Ramaḍān", "sub": "灼熱の月", "era": "アラビア語" },
+      { "node": "Ramadan", "sub": "ラマダン（断食月）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "during Ramadan", "ja": "ラマダンの間" },
+      { "en": "fast during Ramadan", "ja": "ラマダンに断食する" },
+      { "en": "observe Ramadan", "ja": "ラマダンを守る" },
+      { "en": "the holy month of Ramadan", "ja": "神聖な月ラマダン" },
+      { "en": "Ramadan Mubarak", "ja": "ラマダン・ムバラク（よきラマダンを）" },
+      { "en": "the end of Ramadan", "ja": "ラマダンの終わり（イード）" }
+    ],
+    "related": [
+      { "en": "Islam", "ja": "イスラム教" },
+      { "en": "Muslim", "ja": "イスラム教徒・ムスリム" },
+      { "en": "fasting", "ja": "断食" },
+      { "en": "Eid", "ja": "イード（ラマダン明けの祝祭）" }
+    ],
+    "faq": [
+      { "q": "Ramadan とはどんな意味？", "a": "イスラム暦の第9月『ラマダン』のことです。イスラム教徒はこの月の間、夜明けから日没まで飲食を断つ断食を行い、信仰を深めます。During Ramadan, Muslims fast from dawn to sunset.（ラマダンの間、夜明けから日没まで断食する）のように使います。" },
+      { "q": "ラマダンの時期が毎年変わるのはなぜ？", "a": "イスラム暦が月の満ち欠けに基づく太陰暦のためです。太陽暦（1年約365日）より約11日短いので、ラマダンの時期は毎年少しずつ早まっていきます。" }
+    ],
+    "quiz": [
+      { "q": "During ___, Muslims fast from dawn to sunset.（ラマダン）", "A": "Ramadan", "B": "Carnival のカーニバル", "C": "Halloween のハロウィン", "D": "Passover の過越祭", "correct": "A" },
+      { "q": "Ramadan に行われる主な宗教行為はどれ？", "A": "日中の断食", "B": "24時間の睡眠", "C": "沈黙の行", "D": "巡礼の禁止", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Reformation",
+    "pron": "ˌrɛfəˈmeɪʃən",
+    "kana": "レフォメイション／宗教改革",
+    "hinshi": "固有名詞（歴史・出来事）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "reform（改革）＋ -ation（the Reformation で歴史的事件）",
+    "ld_level": "1級",
+    "badges": ["高校生〜", "英検準1級", "CEFR B2", "歴史・宗教"],
+    "meaning_main": "宗教改革（16世紀ヨーロッパのキリスト教改革運動）",
+    "description": "the Reformation（宗教改革）の意味・発音・語源を解説。16世紀にマルティン・ルターらが起こしたキリスト教の改革運動「宗教改革」について、プロテスタントの成立とともに、英語での使い方を紹介します。",
+    "keywords": ["Reformation 意味", "Reformation 発音", "宗教改革", "ルター"],
+    "meanings": [
+      { "hinshi": "【固有名詞】（the Reformation で）宗教改革", "note": "16世紀のヨーロッパで起きたキリスト教の改革運動。1517年、マルティン・ルターがローマ・カトリック教会の腐敗（免罪符の販売など）を批判したことに始まる。結果としてカトリックから分かれた『プロテスタント』諸派が生まれた。定冠詞をつけて the Reformation。" }
+    ],
+    "usages": [
+      { "title": "① 「歴史的事件」として", "desc": "改革運動を表します。", "example_en": "The Reformation split Western Christianity.", "example_ja": "宗教改革は西方キリスト教を分裂させた。" },
+      { "title": "② 「ルターの役割」として", "desc": "始まりを表します。", "example_en": "Martin Luther began the Reformation in 1517.", "example_ja": "マルティン・ルターは1517年に宗教改革を始めた。" }
+    ],
+    "warn": [
+      "Reformation は歴史では大文字＋定冠詞 the Reformation で『（16世紀の）宗教改革』を指す。小文字の reformation は一般語『改良・改革』。",
+      "カトリック側の対抗運動は Counter-Reformation（対抗宗教改革）。"
+    ],
+    "etym_note": "reform（『改革する』、ラテン語 reformare「作り直す」より）＋ -ation から成り、「作り直すこと・改革」を意味します。歴史的には the Reformation で16世紀の教会改革を指します。form（形）と同じ語根です。",
+    "etym_chain": [
+      { "node": "reformare", "sub": "作り直す", "era": "ラテン語" },
+      { "node": "reformation", "sub": "改革", "era": "中英語" },
+      { "node": "the Reformation", "sub": "宗教改革", "era": "近代英語" }
+    ],
+    "phrases": [
+      { "en": "the Protestant Reformation", "ja": "プロテスタントの宗教改革" },
+      { "en": "the start of the Reformation", "ja": "宗教改革の始まり" },
+      { "en": "Luther and the Reformation", "ja": "ルターと宗教改革" },
+      { "en": "the Counter-Reformation", "ja": "対抗宗教改革" },
+      { "en": "during the Reformation", "ja": "宗教改革の時代に" },
+      { "en": "the impact of the Reformation", "ja": "宗教改革の影響" }
+    ],
+    "related": [
+      { "en": "Martin Luther", "ja": "マルティン・ルター" },
+      { "en": "Protestant", "ja": "プロテスタント" },
+      { "en": "Catholic", "ja": "カトリック" },
+      { "en": "Counter-Reformation", "ja": "対抗宗教改革" }
+    ],
+    "faq": [
+      { "q": "the Reformation とはどんな意味？", "a": "16世紀のヨーロッパで起きたキリスト教の改革運動『宗教改革』のことです。1517年にマルティン・ルターがカトリック教会の腐敗を批判したことに始まり、プロテスタント諸派が生まれました。The Reformation split Western Christianity.（宗教改革は西方キリスト教を分裂させた）のように使います。" },
+      { "q": "宗教改革のきっかけは？", "a": "1517年、マルティン・ルターがローマ・カトリック教会の免罪符（贖宥状）の販売などの腐敗を批判し、『95か条の論題』を掲げたことがきっかけとされます。" }
+    ],
+    "quiz": [
+      { "q": "Martin Luther began the ___ in 1517.（宗教改革）", "A": "Reformation", "B": "Renaissance のルネサンス", "C": "Revolution の革命", "D": "Restoration の王政復古", "correct": "A" },
+      { "q": "宗教改革の結果生まれたキリスト教の一派はどれ？", "A": "プロテスタント", "B": "仏教", "C": "ヒンドゥー教", "D": "イスラム教", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Rousseau",
+    "pron": "ruːˈsəʊ",
+    "kana": "ルソー",
+    "hinshi": "固有名詞（人物・思想家）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "フランス語の姓 Rousseau より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "思想・歴史"],
+    "meaning_main": "ルソー（18世紀の啓蒙思想家・『社会契約論』）",
+    "description": "Rousseau（ルソー）の意味・発音・語源を解説。18世紀の啓蒙思想家ジャン＝ジャック・ルソーについて、『社会契約論』や『人間は生まれながらに自由』という思想とともに、英語での使い方を紹介します。",
+    "keywords": ["Rousseau 意味", "Rousseau 発音", "ルソー", "社会契約論"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ルソー", "note": "ジャン＝ジャック・ルソー（Jean-Jacques Rousseau、1712–1778）。ジュネーヴ生まれの啓蒙思想家・哲学者・作家。主著『社会契約論（The Social Contract）』で人民主権を説き、『エミール』で教育論を展開。フランス革命や近代民主主義に大きな影響を与えた。" }
+    ],
+    "usages": [
+      { "title": "① 「思想家」として", "desc": "哲学者を表します。", "example_en": "Rousseau argued that people are born free.", "example_ja": "ルソーは人間は生まれながらに自由だと論じた。" },
+      { "title": "② 「著作」として", "desc": "主著を表します。", "example_en": "Rousseau's The Social Contract influenced modern democracy.", "example_ja": "ルソーの『社会契約論』は近代民主主義に影響を与えた。" }
+    ],
+    "warn": [
+      "Rousseau は固有名詞『ルソー（思想家）』。発音はルソー（語尾の -eau はオー）。",
+      "同じ姓で画家アンリ・ルソー（Henri Rousseau）もいるが、単に Rousseau といえばふつう思想家ジャン＝ジャックを指す。"
+    ],
+    "etym_note": "フランス語の姓 Rousseau に由来します（roux「赤毛の」の指小形とされ、『赤毛の人』が起源という説があります）。啓蒙思想家ジャン＝ジャック・ルソーの名で広く知られます。",
+    "etym_chain": [
+      { "node": "roux", "sub": "赤毛の（推定）", "era": "フランス語" },
+      { "node": "Rousseau", "sub": "ルソー（姓）", "era": "フランス語" },
+      { "node": "Rousseau", "sub": "ルソー（思想家）", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Jean-Jacques Rousseau", "ja": "ジャン＝ジャック・ルソー" },
+      { "en": "Rousseau's philosophy", "ja": "ルソーの哲学" },
+      { "en": "The Social Contract by Rousseau", "ja": "ルソーの『社会契約論』" },
+      { "en": "according to Rousseau", "ja": "ルソーによれば" },
+      { "en": "Rousseau's idea of freedom", "ja": "ルソーの自由の思想" },
+      { "en": "the influence of Rousseau", "ja": "ルソーの影響" }
+    ],
+    "related": [
+      { "en": "Enlightenment", "ja": "啓蒙思想・啓蒙時代" },
+      { "en": "social contract", "ja": "社会契約" },
+      { "en": "philosopher", "ja": "哲学者・思想家" },
+      { "en": "French Revolution", "ja": "フランス革命" }
+    ],
+    "faq": [
+      { "q": "Rousseau とはどんな意味？", "a": "18世紀の啓蒙思想家『ジャン＝ジャック・ルソー（1712–1778）』のことです。主著『社会契約論』で人民主権を説き、フランス革命や近代民主主義に大きな影響を与えました。Rousseau argued that people are born free.（人間は生まれながらに自由だと論じた）のように使います。" },
+      { "q": "ルソーの代表的な思想は？", "a": "『社会契約論』で、政治権力は人民の合意（社会契約）に基づくべきだという人民主権を説きました。『人間は自由なものとして生まれた』という言葉でも知られ、近代民主主義の礎となりました。" }
+    ],
+    "quiz": [
+      { "q": "___ argued that people are born free, in The Social Contract.（ルソー）", "A": "Rousseau", "B": "Newton のニュートン（科学者）", "C": "Mozart のモーツァルト（作曲家）", "D": "Columbus のコロンブス（探検家）", "correct": "A" },
+      { "q": "ルソーの主著はどれ？", "A": "『社会契約論（The Social Contract）』", "B": "『種の起源』", "C": "『資本論』", "D": "『国富論』", "correct": "A" }
+    ]
+  }
+]

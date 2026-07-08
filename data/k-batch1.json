@@ -1,0 +1,523 @@
+[
+  {
+    "english": "keep",
+    "pron": "kiːp",
+    "kana": "キープ",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古英語 cēpan（つかむ・保つ）",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "超基本語"],
+    "meaning_main": "保つ／〜し続ける／取っておく",
+    "description": "keep は「保つ・持ち続ける・〜し続ける」を表す最重要基本動詞。keep -ing で「〜し続ける」の形が特に頻出です。",
+    "keywords": ["keep 意味", "keep 使い方", "keep ing 用法", "keep 例文", "keep 発音"],
+    "meanings": [
+      { "hinshi": "【動】保つ・保管する", "note": "ある状態や物をそのまま維持すること。" },
+      { "hinshi": "【動】〜し続ける", "note": "keep + -ing の形で「継続」を表す。最頻出。" },
+      { "hinshi": "【動】取っておく・守る", "note": "keep a promise（約束を守る）など。" },
+      { "hinshi": "【名】生計・維持費", "note": "earn one's keep で「食い扶持を稼ぐ」。" }
+    ],
+    "usages": [
+      { "title": "① 〜し続ける (keep + -ing)", "desc": "動作の継続を表す最重要パターン。", "example_en": "She kept talking for an hour.", "example_ja": "彼女は1時間しゃべり続けた。" },
+      { "title": "② ある状態に保つ (keep + 目的語 + 形容詞)", "desc": "「〜を…の状態にしておく」。", "example_en": "Please keep the door open.", "example_ja": "ドアを開けたままにしておいてください。" },
+      { "title": "③ 取っておく・持っておく", "desc": "物を手放さずに保管する。", "example_en": "You can keep the change.", "example_ja": "おつりは取っておいていいですよ。" }
+    ],
+    "warn": ["keep -ing（動名詞）が正しく、keep to do とは言わない。", "「保つ」の意味では過去形・過去分詞は kept（不規則変化）。"],
+    "etym_note": "古英語の cēpan（つかむ・注意を払う）に由来し、「しっかり手元に置く」という中心イメージから「保つ・維持する」の意味に発展しました。",
+    "etym_chain": [
+      { "node": "cēpan", "sub": "つかむ・見張る", "era": "古英語" },
+      { "node": "kepen", "sub": "保つ", "era": "中英語" },
+      { "node": "keep", "sub": "保つ・続ける", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "keep on", "ja": "〜し続ける" },
+      { "en": "keep up", "ja": "維持する・遅れずについていく" },
+      { "en": "keep away", "ja": "近づけない・遠ざける" },
+      { "en": "keep in touch", "ja": "連絡を取り合う" },
+      { "en": "keep a secret", "ja": "秘密を守る" },
+      { "en": "keep an eye on", "ja": "〜を見張る・注意する" },
+      { "en": "keep calm", "ja": "落ち着いたままでいる" }
+    ],
+    "related": [
+      { "en": "hold", "ja": "持つ・保持する" },
+      { "en": "maintain", "ja": "維持する" },
+      { "en": "save", "ja": "取っておく・救う" },
+      { "en": "store", "ja": "蓄える" }
+    ],
+    "faq": [
+      { "q": "keep の過去形は？", "a": "kept です。原形 keep → 過去形 kept → 過去分詞 kept という不規則変化をします。" },
+      { "q": "keep -ing と continue -ing の違いは？", "a": "どちらも「〜し続ける」ですが、keep の方が口語的で日常会話で多用されます。continue はやや硬い表現です。" }
+    ],
+    "quiz": [
+      { "q": "She kept ___ even after everyone left.（彼女はみんなが帰った後も歌い続けた）", "A": "sing", "B": "to sing", "C": "singing", "D": "sang", "correct": "C" },
+      { "q": "keep の過去形として正しいのは？", "A": "keeped", "B": "kept", "C": "kepped", "D": "keept", "correct": "B" }
+    ]
+  },
+  {
+    "english": "key",
+    "pron": "kiː",
+    "kana": "キー",
+    "hinshi": "名詞 / 形容詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 cǣg（鍵）",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "超基本語"],
+    "meaning_main": "鍵／かぎとなるもの／重要な",
+    "description": "key は「鍵」という具体的な意味から、「解決のかぎ・重要な」という比喩的な意味まで幅広く使われる基本語です。",
+    "keywords": ["key 意味", "key 使い方", "key 鍵", "key 重要な", "key 例文"],
+    "meanings": [
+      { "hinshi": "【名】鍵・かぎ", "note": "ドアや錠を開ける道具。" },
+      { "hinshi": "【名】解決の手がかり", "note": "the key to success（成功のかぎ）など比喩的に。" },
+      { "hinshi": "【名】(キーボードなどの)キー", "note": "楽器やパソコンの押しボタン。" },
+      { "hinshi": "【形】重要な・主要な", "note": "a key person（キーパーソン）など。" }
+    ],
+    "usages": [
+      { "title": "① 鍵（物理的）", "desc": "ドアや車などの鍵。", "example_en": "I lost my house key.", "example_ja": "家の鍵をなくしてしまった。" },
+      { "title": "② 〜のかぎ (the key to ~)", "desc": "「〜への解決策・秘訣」。to の後は名詞や動名詞。", "example_en": "Practice is the key to improvement.", "example_ja": "練習こそが上達のかぎだ。" },
+      { "title": "③ 重要な（形容詞）", "desc": "名詞の前に置いて「主要な」。", "example_en": "He played a key role in the project.", "example_ja": "彼はそのプロジェクトで重要な役割を果たした。" }
+    ],
+    "warn": ["「〜のかぎ」は the key to ~ で、前置詞は of ではなく to を使う。", "形容詞の key は比較変化しない（more key とは通常言わない）。"],
+    "etym_note": "古英語 cǣg に由来し、古くから「錠を開ける道具」を指しました。そこから「問題を開く=解決する手がかり」という比喩的用法が生まれました。",
+    "etym_chain": [
+      { "node": "cǣg", "sub": "鍵", "era": "古英語" },
+      { "node": "keye", "sub": "鍵", "era": "中英語" },
+      { "node": "key", "sub": "鍵・かぎ・重要な", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the key to success", "ja": "成功のかぎ" },
+      { "en": "key point", "ja": "要点・重要な点" },
+      { "en": "car key", "ja": "車の鍵" },
+      { "en": "key role", "ja": "重要な役割" },
+      { "en": "keyboard", "ja": "キーボード・鍵盤" },
+      { "en": "master key", "ja": "マスターキー・親鍵" }
+    ],
+    "related": [
+      { "en": "lock", "ja": "錠・鍵をかける" },
+      { "en": "door", "ja": "ドア・扉" },
+      { "en": "main", "ja": "主要な" },
+      { "en": "clue", "ja": "手がかり" }
+    ],
+    "faq": [
+      { "q": "「成功のかぎ」は the key of success ですか？", "a": "いいえ、the key to success が正しいです。key（かぎ）とセットになる前置詞は to だと覚えましょう。" },
+      { "q": "key は形容詞にもなりますか？", "a": "はい。a key factor（重要な要因）のように名詞の前で「主要な・重要な」を表します。" }
+    ],
+    "quiz": [
+      { "q": "Hard work is the key ___ success.（努力が成功のかぎだ）", "A": "of", "B": "for", "C": "to", "D": "in", "correct": "C" },
+      { "q": "a ___ role は「重要な役割」。空所に入るのは？", "A": "key", "B": "lock", "C": "door", "D": "car", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kick",
+    "pron": "kɪk",
+    "kana": "キック",
+    "hinshi": "動詞 / 名詞",
+    "ld_pos": "動詞",
+    "ld_etym": "中英語 kiken（蹴る）",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "スポーツ"],
+    "meaning_main": "蹴る／キックする／蹴り",
+    "description": "kick は「(足で)蹴る」を表す基本動詞。サッカーなどスポーツの場面や、kick off（開始する）などの句動詞でも頻出します。",
+    "keywords": ["kick 意味", "kick 使い方", "kick 蹴る", "kick off 意味", "kick 例文"],
+    "meanings": [
+      { "hinshi": "【動】蹴る", "note": "足で物や人を打つこと。" },
+      { "hinshi": "【動】(悪習などを)やめる", "note": "kick a habit で「悪癖をやめる」。" },
+      { "hinshi": "【名】蹴り・キック", "note": "1回の蹴る動作。" },
+      { "hinshi": "【名】(口語)興奮・スリル", "note": "get a kick out of ~ で「〜で興奮する」。" }
+    ],
+    "usages": [
+      { "title": "① (足で)蹴る", "desc": "ボールなどを蹴る基本の動作。", "example_en": "He kicked the ball into the goal.", "example_ja": "彼はボールをゴールに蹴り込んだ。" },
+      { "title": "② kick off（開始する）", "desc": "試合やイベントが始まる／を始める。", "example_en": "The festival kicks off at noon.", "example_ja": "そのお祭りは正午に始まる。" },
+      { "title": "③ kick a habit（悪習をやめる）", "desc": "たばこなどの悪い習慣を断つ。", "example_en": "He finally kicked the habit of smoking.", "example_ja": "彼はついに喫煙の習慣をやめた。" }
+    ],
+    "warn": ["過去形・過去分詞は kicked（規則変化）。", "kick off はサッカー由来だが、今では「物事の開始」全般に使う。"],
+    "etym_note": "中英語 kiken に由来する語で、語源ははっきりしませんが、古くから「足で打つ」動作を表してきました。",
+    "etym_chain": [
+      { "node": "kiken", "sub": "蹴る", "era": "中英語" },
+      { "node": "kick", "sub": "蹴る・キック", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "kick off", "ja": "開始する・キックオフする" },
+      { "en": "kick out", "ja": "追い出す" },
+      { "en": "free kick", "ja": "フリーキック" },
+      { "en": "kick a habit", "ja": "悪癖をやめる" },
+      { "en": "kick the ball", "ja": "ボールを蹴る" },
+      { "en": "get a kick out of", "ja": "〜で興奮する・楽しむ" }
+    ],
+    "related": [
+      { "en": "hit", "ja": "打つ・叩く" },
+      { "en": "strike", "ja": "打つ" },
+      { "en": "ball", "ja": "ボール" },
+      { "en": "punch", "ja": "(こぶしで)殴る" }
+    ],
+    "faq": [
+      { "q": "kick off はどんな時に使いますか？", "a": "元はサッカーの「キックオフ」ですが、会議・イベント・キャンペーンなどが「始まる／を始める」意味でも広く使われます。" },
+      { "q": "kick の過去形は？", "a": "kicked です。規則変化なので -ed をつけるだけです。" }
+    ],
+    "quiz": [
+      { "q": "The soccer game ___ off at 3 p.m.（試合は午後3時に始まる）", "A": "keeps", "B": "kicks", "C": "takes", "D": "puts", "correct": "B" },
+      { "q": "kick a ___ は「悪習をやめる」。空所に入るのは？", "A": "ball", "B": "goal", "C": "habit", "D": "leg", "correct": "C" }
+    ]
+  },
+  {
+    "english": "kid",
+    "pron": "kɪd",
+    "kana": "キッド",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古ノルド語 kið（子ヤギ）",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "日常会話"],
+    "meaning_main": "子供／(口語)からかう／子ヤギ",
+    "description": "kid は「子供」を表すくだけた語で、child よりも口語的。動詞では「からかう・冗談を言う」の意味でも頻出します。",
+    "keywords": ["kid 意味", "kid 使い方", "kid 子供", "kidding 意味", "kid 例文"],
+    "meanings": [
+      { "hinshi": "【名】子供", "note": "child のくだけた言い方。日常会話で非常によく使う。" },
+      { "hinshi": "【動】からかう・冗談を言う", "note": "Just kidding!（冗談だよ！）が定番。" },
+      { "hinshi": "【名】子ヤギ", "note": "本来の意味。ヤギの子ども。" }
+    ],
+    "usages": [
+      { "title": "① 子供（口語）", "desc": "child のくだけた表現。複数は kids。", "example_en": "The kids are playing in the park.", "example_ja": "子供たちが公園で遊んでいる。" },
+      { "title": "② からかう・冗談を言う", "desc": "Are you kidding? で「冗談でしょ？」。", "example_en": "Don't worry, I'm just kidding.", "example_ja": "心配しないで、ただの冗談だよ。" },
+      { "title": "③ No kidding!（本当に！／まさか！）", "desc": "驚きや同意を表す口語表現。", "example_en": "No kidding! I can't believe it.", "example_ja": "まさか！信じられないよ。" }
+    ],
+    "warn": ["kid は口語的なので、フォーマルな文章では child を使う方が無難。", "「冗談を言う」の意味では kid + -ding のように d を重ねる（kidding）。"],
+    "etym_note": "古ノルド語 kið（子ヤギ）に由来します。まず「子ヤギ」を指し、16世紀ごろから比喩的に人間の「子供」の意味で使われるようになりました。",
+    "etym_chain": [
+      { "node": "kið", "sub": "子ヤギ", "era": "古ノルド語" },
+      { "node": "kid", "sub": "子ヤギ・子供", "era": "中英語" },
+      { "node": "kid", "sub": "子供・からかう", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Just kidding!", "ja": "冗談だよ！" },
+      { "en": "No kidding!", "ja": "まさか！／本当に！" },
+      { "en": "Are you kidding?", "ja": "冗談でしょ？" },
+      { "en": "kids these days", "ja": "近ごろの子は" },
+      { "en": "a kid brother", "ja": "弟（口語）" },
+      { "en": "when I was a kid", "ja": "子供のころ" }
+    ],
+    "related": [
+      { "en": "child", "ja": "子供（一般語）" },
+      { "en": "baby", "ja": "赤ちゃん" },
+      { "en": "youngster", "ja": "若者・子供" },
+      { "en": "joke", "ja": "冗談" }
+    ],
+    "faq": [
+      { "q": "kid と child の違いは？", "a": "意味はほぼ同じ「子供」ですが、kid は口語的でカジュアル、child はより丁寧で正式な語です。書き言葉では child が無難です。" },
+      { "q": "Just kidding はどんな意味ですか？", "a": "「ただの冗談だよ」という意味で、言ったことが本気でないと伝えるときの定番フレーズです。" }
+    ],
+    "quiz": [
+      { "q": "\"I won a million dollars!\" \"___ !\"（まさか！）", "A": "No kidding", "B": "No keeping", "C": "No kicking", "D": "No key", "correct": "A" },
+      { "q": "kid のより丁寧な同義語は？", "A": "baby", "B": "child", "C": "adult", "D": "goat", "correct": "B" }
+    ]
+  },
+  {
+    "english": "kind",
+    "pron": "kaɪnd",
+    "kana": "カインド",
+    "hinshi": "形容詞 / 名詞",
+    "ld_pos": "形容詞",
+    "ld_etym": "古英語 gecynde（生まれつきの・自然な）",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "超基本語"],
+    "meaning_main": "親切な／優しい／種類",
+    "description": "kind は「親切な・優しい」という形容詞と、「種類」という名詞の2つの重要な意味を持つ基本語です。kind of ~ の形も頻出。",
+    "keywords": ["kind 意味", "kind 使い方", "kind 親切", "kind of 意味", "kind 種類"],
+    "meanings": [
+      { "hinshi": "【形】親切な・優しい", "note": "人の性格や行いについて。be kind to ~ で「〜に親切だ」。" },
+      { "hinshi": "【名】種類・タイプ", "note": "a kind of ~ で「一種の〜」。" },
+      { "hinshi": "【副】kind of（口語）", "note": "「ちょっと・なんだか」ぼかす表現。" }
+    ],
+    "usages": [
+      { "title": "① 親切な (be kind to ~)", "desc": "「〜に対して優しい」。前置詞は to。", "example_en": "She is always kind to everyone.", "example_ja": "彼女はいつもみんなに親切だ。" },
+      { "title": "② 種類 (a kind of ~)", "desc": "「一種の〜・〜の類」。", "example_en": "What kind of music do you like?", "example_ja": "どんな種類の音楽が好きですか？" },
+      { "title": "③ kind of（なんだか・ちょっと）", "desc": "口語で程度をやわらげる。", "example_en": "I'm kind of tired today.", "example_ja": "今日はなんだか疲れているんだ。" }
+    ],
+    "warn": ["「親切だ」の対象は be kind to ~（前置詞 to）。", "What kind of ~? の質問では kind は単数形が普通。"],
+    "etym_note": "古英語 gecynde（生まれつきの・自然な）に由来します。「同じ生まれ・同族」という意味から名詞の「種類」が、また「生まれの良い→思いやりある」から形容詞「親切な」が生まれました。",
+    "etym_chain": [
+      { "node": "gecynde", "sub": "生まれつきの", "era": "古英語" },
+      { "node": "kinde", "sub": "自然な・親切な", "era": "中英語" },
+      { "node": "kind", "sub": "親切な・種類", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "kind of", "ja": "ちょっと・一種の" },
+      { "en": "be kind to", "ja": "〜に親切にする" },
+      { "en": "what kind of", "ja": "どんな種類の" },
+      { "en": "all kinds of", "ja": "あらゆる種類の" },
+      { "en": "kind-hearted", "ja": "心の優しい" },
+      { "en": "That's very kind of you.", "ja": "ご親切にどうも。" }
+    ],
+    "related": [
+      { "en": "gentle", "ja": "優しい・穏やかな" },
+      { "en": "nice", "ja": "親切な・すてきな" },
+      { "en": "type", "ja": "型・種類" },
+      { "en": "sort", "ja": "種類・分類する" }
+    ],
+    "faq": [
+      { "q": "kind の2つの意味を教えてください。", "a": "形容詞で「親切な」、名詞で「種類」という2つの重要な意味があります。文脈で判断しましょう。" },
+      { "q": "kind of はどんな時に使いますか？", "a": "口語で「なんだか・ちょっと」と程度をやわらげたり、a kind of ~ で「一種の〜」と言うときに使います。" }
+    ],
+    "quiz": [
+      { "q": "She is very kind ___ animals.（彼女は動物にとても優しい）", "A": "for", "B": "to", "C": "with", "D": "of", "correct": "B" },
+      { "q": "What ___ of food do you like?（どんな食べ物が好き？）空所は？", "A": "kind", "B": "key", "C": "keep", "D": "kick", "correct": "A" }
+    ]
+  },
+  {
+    "english": "king",
+    "pron": "kɪŋ",
+    "kana": "キング",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 cyning（一族の長）",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "超基本語"],
+    "meaning_main": "王／国王／第一人者",
+    "description": "king は「王・国王」を表す基本名詞。トランプやチェスの「キング」、比喩的な「〜界の王者」の意味でも使われます。",
+    "keywords": ["king 意味", "king 使い方", "king 王", "king 国王", "king 例文"],
+    "meanings": [
+      { "hinshi": "【名】王・国王", "note": "国を治める男性の君主。" },
+      { "hinshi": "【名】第一人者・王者", "note": "the king of ~ で「〜界の王」。" },
+      { "hinshi": "【名】(トランプ・チェスの)キング", "note": "ゲームの駒やカード。" }
+    ],
+    "usages": [
+      { "title": "① 王・国王", "desc": "国を治める君主。女性は queen。", "example_en": "The king ruled the country for 40 years.", "example_ja": "その王は40年間国を治めた。" },
+      { "title": "② 〜界の王 (the king of ~)", "desc": "ある分野で最も優れた存在。", "example_en": "The lion is called the king of animals.", "example_ja": "ライオンは百獣の王と呼ばれる。" },
+      { "title": "③ ゲームのキング", "desc": "チェスやトランプの駒・カード。", "example_en": "He moved his king to safety.", "example_ja": "彼はキングを安全な位置に動かした。" }
+    ],
+    "warn": ["女性の君主は queen。king は基本的に男性を指す。", "固有の王を指すときは King Charles のように大文字にする。"],
+    "etym_note": "古英語 cyning に由来し、「一族(cynn)の長」という意味が語源です。ゲルマン語の「血縁・種族」を表す語根と結びついています。",
+    "etym_chain": [
+      { "node": "cyning", "sub": "一族の長", "era": "古英語" },
+      { "node": "king", "sub": "王", "era": "中英語" },
+      { "node": "king", "sub": "王・王者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the King of England", "ja": "イングランド王" },
+      { "en": "king and queen", "ja": "王と女王" },
+      { "en": "the king of pop", "ja": "ポップの王" },
+      { "en": "kingdom", "ja": "王国" },
+      { "en": "king-size", "ja": "特大サイズの" },
+      { "en": "crowned king", "ja": "戴冠した王" }
+    ],
+    "related": [
+      { "en": "queen", "ja": "女王" },
+      { "en": "prince", "ja": "王子" },
+      { "en": "kingdom", "ja": "王国" },
+      { "en": "ruler", "ja": "統治者" }
+    ],
+    "faq": [
+      { "q": "king の女性形はありますか？", "a": "女性の君主は queen（女王）です。また王の妻も queen と呼びます。" },
+      { "q": "king を大文字にするのはどんな時？", "a": "King Charles のように特定の王の称号として使うときは大文字にします。一般名詞として使うときは小文字です。" }
+    ],
+    "quiz": [
+      { "q": "The lion is the ___ of animals.（ライオンは百獣の王）", "A": "kind", "B": "key", "C": "king", "D": "kid", "correct": "C" },
+      { "q": "king の女性形は？", "A": "queen", "B": "prince", "C": "lady", "D": "girl", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kiss",
+    "pron": "kɪs",
+    "kana": "キス",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "動詞",
+    "ld_etym": "古英語 cyssan（キスする）",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "日常語"],
+    "meaning_main": "キス／口づけ／キスする",
+    "description": "kiss は「キス・口づけ」を表す基本語で、名詞・動詞の両方で使えます。愛情や挨拶を示す動作を指します。",
+    "keywords": ["kiss 意味", "kiss 使い方", "kiss キス", "kiss 動詞", "kiss 例文"],
+    "meanings": [
+      { "hinshi": "【動】キスする・口づけする", "note": "唇で触れて愛情や敬意を示す。" },
+      { "hinshi": "【名】キス・口づけ", "note": "1回のキスの動作。" },
+      { "hinshi": "【名】(比喩)軽く触れること", "note": "the kiss of the breeze のように詩的にも。" }
+    ],
+    "usages": [
+      { "title": "① キスする（動詞）", "desc": "目的語を直接とる。", "example_en": "She kissed her baby on the cheek.", "example_ja": "彼女は赤ちゃんのほおにキスをした。" },
+      { "title": "② キス（名詞）", "desc": "give someone a kiss で「〜にキスをする」。", "example_en": "He gave her a good-night kiss.", "example_ja": "彼は彼女におやすみのキスをした。" },
+      { "title": "③ blow a kiss（投げキスをする）", "desc": "手のひらにキスして相手に送るしぐさ。", "example_en": "The star blew a kiss to her fans.", "example_ja": "そのスターはファンに投げキスをした。" }
+    ],
+    "warn": ["過去形・過去分詞は kissed（規則変化）。", "「ほおにキスする」は kiss ~ on the cheek のように on を使う。"],
+    "etym_note": "古英語 cyssan に由来し、ゲルマン語系の同種の語（ドイツ語 küssen など）と共通します。おそらく口づけの音を模した語とされます。",
+    "etym_chain": [
+      { "node": "cyssan", "sub": "キスする", "era": "古英語" },
+      { "node": "kissen", "sub": "キスする", "era": "中英語" },
+      { "node": "kiss", "sub": "キス・キスする", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "give a kiss", "ja": "キスをする" },
+      { "en": "blow a kiss", "ja": "投げキスをする" },
+      { "en": "good-night kiss", "ja": "おやすみのキス" },
+      { "en": "first kiss", "ja": "ファーストキス" },
+      { "en": "kiss on the cheek", "ja": "ほおへのキス" },
+      { "en": "French kiss", "ja": "ディープキス" }
+    ],
+    "related": [
+      { "en": "hug", "ja": "抱きしめる" },
+      { "en": "love", "ja": "愛・愛する" },
+      { "en": "cheek", "ja": "ほお" },
+      { "en": "embrace", "ja": "抱擁する" }
+    ],
+    "faq": [
+      { "q": "kiss は名詞と動詞どちらで使えますか？", "a": "両方で使えます。動詞は kiss someone、名詞は give someone a kiss のように使います。" },
+      { "q": "「投げキス」は英語で何と言いますか？", "a": "blow a kiss と言います。手にキスをして相手に向けて送るしぐさを表します。" }
+    ],
+    "quiz": [
+      { "q": "He ___ her on the cheek.（彼は彼女のほおにキスした）", "A": "kicked", "B": "kissed", "C": "kept", "D": "kidded", "correct": "B" },
+      { "q": "「投げキスをする」は blow a ___ 。空所は？", "A": "kiss", "B": "king", "C": "key", "D": "kid", "correct": "A" }
+    ]
+  },
+  {
+    "english": "kitchen",
+    "pron": "ˈkɪtʃɪn",
+    "kana": "キチン",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 coquere（料理する）",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "生活語"],
+    "meaning_main": "台所／キッチン／調理場",
+    "description": "kitchen は「台所・キッチン」を表す生活の基本名詞。料理をする部屋を指し、家庭や飲食店で日常的に使われます。",
+    "keywords": ["kitchen 意味", "kitchen 使い方", "kitchen 台所", "kitchen 発音", "kitchen 例文"],
+    "meanings": [
+      { "hinshi": "【名】台所・キッチン", "note": "食事を作る部屋。" },
+      { "hinshi": "【名】(店の)調理場・厨房", "note": "レストランなどで料理をする場所。" }
+    ],
+    "usages": [
+      { "title": "① 台所（家庭）", "desc": "料理をする部屋。in the kitchen で「台所で」。", "example_en": "My mother is cooking in the kitchen.", "example_ja": "母は台所で料理をしている。" },
+      { "title": "② 厨房（飲食店）", "desc": "レストランなどの調理場。", "example_en": "The chef runs a busy kitchen.", "example_ja": "そのシェフは忙しい厨房を仕切っている。" },
+      { "title": "③ kitchen + 名詞（台所用の〜）", "desc": "複合語をつくる。kitchen knife（包丁）など。", "example_en": "Be careful with the kitchen knife.", "example_ja": "包丁の扱いには気をつけて。" }
+    ],
+    "warn": ["発音は「キッチン」で、第1音節に強勢がある /ˈkɪtʃɪn/。", "「台所で」は in the kitchen（前置詞 in）。"],
+    "etym_note": "ラテン語 coquere（料理する）に由来する俗ラテン語 coquīna が古英語に入って cycene となり、現在の kitchen になりました。cook（料理する）と同じ語源です。",
+    "etym_chain": [
+      { "node": "coquīna", "sub": "料理場", "era": "俗ラテン語" },
+      { "node": "cycene", "sub": "台所", "era": "古英語" },
+      { "node": "kitchen", "sub": "台所", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "in the kitchen", "ja": "台所で" },
+      { "en": "kitchen knife", "ja": "包丁" },
+      { "en": "kitchen sink", "ja": "台所の流し" },
+      { "en": "kitchen table", "ja": "台所のテーブル" },
+      { "en": "kitchen garden", "ja": "家庭菜園" },
+      { "en": "soup kitchen", "ja": "炊き出し所" }
+    ],
+    "related": [
+      { "en": "cook", "ja": "料理する・料理人" },
+      { "en": "stove", "ja": "コンロ" },
+      { "en": "room", "ja": "部屋" },
+      { "en": "chef", "ja": "シェフ・料理長" }
+    ],
+    "faq": [
+      { "q": "kitchen の発音のコツは？", "a": "/ˈkɪtʃɪn/ と最初の「キ」を強く読みます。ch は「チ」の音です。" },
+      { "q": "kitchen と cook は関係がありますか？", "a": "はい、どちらもラテン語 coquere（料理する）に由来する同語源の語です。" }
+    ],
+    "quiz": [
+      { "q": "My father is washing dishes in the ___.（父は台所で皿を洗っている）", "A": "kitchen", "B": "king", "C": "kid", "D": "key", "correct": "A" },
+      { "q": "kitchen knife の意味は？", "A": "台所の窓", "B": "包丁", "C": "台所の椅子", "D": "冷蔵庫", "correct": "B" }
+    ]
+  },
+  {
+    "english": "knee",
+    "pron": "niː",
+    "kana": "ニー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 cnēow（ひざ）",
+    "ld_level": "4級",
+    "badges": ["小学生〜", "英検4級", "CEFR A1", "体の部位"],
+    "meaning_main": "ひざ／膝関節",
+    "description": "knee は「ひざ」を表す体の部位の名詞。先頭の k は発音しない黙字（サイレントレター）で、/niː/ と読みます。",
+    "keywords": ["knee 意味", "knee 発音", "knee ひざ", "knee サイレント", "knee 例文"],
+    "meanings": [
+      { "hinshi": "【名】ひざ・膝関節", "note": "太ももとすねの間の曲がる関節。" },
+      { "hinshi": "【動】ひざで突く", "note": "まれに動詞で「ひざげりする」。" }
+    ],
+    "usages": [
+      { "title": "① ひざ（体の部位）", "desc": "on one's knees で「ひざまずいて」。", "example_en": "He hurt his knee while running.", "example_ja": "彼は走っている時にひざを痛めた。" },
+      { "title": "② ひざまずく (on one's knees)", "desc": "床にひざをついた状態。", "example_en": "She fell on her knees and cried.", "example_ja": "彼女はひざをついて泣いた。" },
+      { "title": "③ ひざの上に (on one's knee)", "desc": "子供などをひざに乗せる。", "example_en": "The child sat on his father's knee.", "example_ja": "その子は父のひざの上に座った。" }
+    ],
+    "warn": ["先頭の k は発音しない（黙字）。/niː/ と読む。", "複数形は knees。両ひざは on one's knees。"],
+    "etym_note": "古英語 cnēow に由来します。かつては先頭の k も発音されていましたが、17世紀ごろに k の音が失われ、綴りだけが残りました。",
+    "etym_chain": [
+      { "node": "cnēow", "sub": "ひざ", "era": "古英語" },
+      { "node": "kne", "sub": "ひざ", "era": "中英語" },
+      { "node": "knee", "sub": "ひざ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "on one's knees", "ja": "ひざまずいて" },
+      { "en": "knee-deep", "ja": "ひざまでの深さの" },
+      { "en": "bend one's knees", "ja": "ひざを曲げる" },
+      { "en": "knee pain", "ja": "ひざの痛み" },
+      { "en": "weak in the knees", "ja": "ひざががくがくする" },
+      { "en": "kneecap", "ja": "ひざのお皿・膝蓋骨" }
+    ],
+    "related": [
+      { "en": "leg", "ja": "脚" },
+      { "en": "ankle", "ja": "足首" },
+      { "en": "elbow", "ja": "ひじ" },
+      { "en": "kneel", "ja": "ひざまずく" }
+    ],
+    "faq": [
+      { "q": "knee の k は発音しますか？", "a": "いいえ、発音しません。kn- で始まる語（knee, knife, know など）の k は黙字で、/niː/ と読みます。" },
+      { "q": "「ひざまずく」は英語で？", "a": "動詞なら kneel、状態を表すなら on one's knees と言います。" }
+    ],
+    "quiz": [
+      { "q": "knee の正しい発音は？", "A": "クニー", "B": "ニー", "C": "ケニー", "D": "クネエ", "correct": "B" },
+      { "q": "He hurt his ___ while playing soccer.（サッカー中にひざを痛めた）", "A": "key", "B": "knee", "C": "king", "D": "kid", "correct": "B" }
+    ]
+  },
+  {
+    "english": "knife",
+    "pron": "naɪf",
+    "kana": "ナイフ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 cnīf（ナイフ）",
+    "ld_level": "5級",
+    "badges": ["小学生〜", "英検5級", "CEFR A1", "生活語"],
+    "meaning_main": "ナイフ／包丁／小刀",
+    "description": "knife は「ナイフ・包丁」を表す生活の基本名詞。先頭の k は黙字で /naɪf/ と読みます。複数形が knives になる点にも注意。",
+    "keywords": ["knife 意味", "knife 発音", "knife ナイフ", "knife 複数形", "knives 例文"],
+    "meanings": [
+      { "hinshi": "【名】ナイフ・小刀", "note": "食事や作業で使う刃物。" },
+      { "hinshi": "【名】包丁", "note": "料理用の刃物。kitchen knife。" },
+      { "hinshi": "【動】ナイフで刺す", "note": "まれに動詞で「刃物で刺す」。" }
+    ],
+    "usages": [
+      { "title": "① ナイフ（食事用）", "desc": "knife and fork で「ナイフとフォーク」。", "example_en": "Cut the meat with a knife.", "example_ja": "ナイフで肉を切りなさい。" },
+      { "title": "② 包丁（料理用）", "desc": "kitchen knife。", "example_en": "This knife is very sharp.", "example_ja": "このナイフはとてもよく切れる。" },
+      { "title": "③ 複数形 knives", "desc": "-fe → -ves と変化する。", "example_en": "Please put the knives in the drawer.", "example_ja": "ナイフを引き出しに入れてください。" }
+    ],
+    "warn": ["先頭の k は発音しない（黙字）。/naɪf/ と読む。", "複数形は knifes ではなく knives。-fe → -ves の変化に注意。"],
+    "etym_note": "古英語 cnīf に由来し、古ノルド語 knīfr とも関係があります。knee などと同様、かつて発音されていた先頭の k は近代に失われました。",
+    "etym_chain": [
+      { "node": "cnīf", "sub": "ナイフ", "era": "古英語" },
+      { "node": "knif", "sub": "ナイフ", "era": "中英語" },
+      { "node": "knife", "sub": "ナイフ・包丁", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "knife and fork", "ja": "ナイフとフォーク" },
+      { "en": "kitchen knife", "ja": "包丁" },
+      { "en": "pocket knife", "ja": "ポケットナイフ・折りたたみ小刀" },
+      { "en": "sharp knife", "ja": "よく切れるナイフ" },
+      { "en": "bread knife", "ja": "パン切りナイフ" },
+      { "en": "under the knife", "ja": "手術を受けて" }
+    ],
+    "related": [
+      { "en": "fork", "ja": "フォーク" },
+      { "en": "spoon", "ja": "スプーン" },
+      { "en": "blade", "ja": "刃" },
+      { "en": "cut", "ja": "切る" }
+    ],
+    "faq": [
+      { "q": "knife の複数形は？", "a": "knives です。語尾の -fe が -ves に変わります（同じ変化の例: life→lives, wife→wives）。" },
+      { "q": "knife の k は発音しますか？", "a": "発音しません。kn- の k は黙字で、/naɪf/（ナイフ）と読みます。" }
+    ],
+    "quiz": [
+      { "q": "knife の複数形は？", "A": "knifes", "B": "knives", "C": "knifs", "D": "knife", "correct": "B" },
+      { "q": "We eat steak with a ___ and fork.（ナイフとフォークでステーキを食べる）", "A": "knee", "B": "knife", "C": "king", "D": "kiss", "correct": "B" }
+    ]
+  }
+]

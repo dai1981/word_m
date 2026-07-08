@@ -1,0 +1,502 @@
+[
+  {
+    "english": "jellyfish",
+    "pron": "ˈdʒelifɪʃ",
+    "kana": "ジェリフィッシュ",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "jelly（ゼリー）＋ fish（魚)",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "動物・海"],
+    "meaning_main": "クラゲ",
+    "description": "jellyfish は「クラゲ」を表す名詞。ぷるぷるとした透明な体を持ち、海を漂って生きる生き物です。触手には毒を持つものもいます。jelly（ゼリー状）＋ fish（魚）でできた語で、単複同形（1匹も複数も jellyfish）で使われます。",
+    "keywords": ["jellyfish 意味", "jellyfish 発音", "jellyfish クラゲ", "jellyfish 毒", "jellyfish 例文"],
+    "meanings": [
+      { "hinshi": "【名】クラゲ", "note": "ぷるぷるした体で海を漂う生き物。単複同形。" }
+    ],
+    "usages": [
+      { "title": "① クラゲ（生き物）", "desc": "海を漂う。", "example_en": "A jellyfish floated near the surface.", "example_ja": "クラゲが水面近くを漂っていた。" },
+      { "title": "② 毒を持つ触手", "desc": "刺されると痛い。", "example_en": "Some jellyfish can sting you.", "example_ja": "クラゲの中には刺すものもいる。" },
+      { "title": "③ 単複同形", "desc": "複数も jellyfish。", "example_en": "We saw many jellyfish in the sea.", "example_ja": "私たちは海でたくさんのクラゲを見た。" }
+    ],
+    "warn": ["単数・複数とも jellyfish（jellyfishes とも言えるが単複同形が普通）。", "jelly（ゼリー状）＋ fish の複合語。実際は魚ではない。"],
+    "etym_note": "jelly（ゼリー状のもの）＋ fish（魚）を合わせた複合語です。ぷるぷるした体が「ゼリーのような魚」に見えることから名づけられました。実際には魚類ではありません。",
+    "etym_chain": [
+      { "node": "jelly + fish", "sub": "ゼリー＋魚", "era": "18世紀英語" },
+      { "node": "jellyfish", "sub": "クラゲ", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a stinging jellyfish", "ja": "刺すクラゲ" },
+      { "en": "a swarm of jellyfish", "ja": "クラゲの大群" },
+      { "en": "get stung by a jellyfish", "ja": "クラゲに刺される" },
+      { "en": "a giant jellyfish", "ja": "巨大なクラゲ" },
+      { "en": "jellyfish tentacles", "ja": "クラゲの触手" },
+      { "en": "a transparent jellyfish", "ja": "透明なクラゲ" }
+    ],
+    "related": [
+      { "en": "jelly", "ja": "ゼリー" },
+      { "en": "sea", "ja": "海" },
+      { "en": "tentacle", "ja": "触手" },
+      { "en": "sting", "ja": "刺す" }
+    ],
+    "faq": [
+      { "q": "jellyfish は魚ですか？", "a": "いいえ。名前に fish（魚）が入っていますが、実際には魚類ではありません。ぷるぷるした体が「ゼリーのような魚」に見えることから名づけられました。" },
+      { "q": "jellyfish の複数形は？", "a": "jellyfish のまま（単複同形）が一般的です。jellyfishes とも言えますが、あまり使いません。" }
+    ],
+    "quiz": [
+      { "q": "Be careful — a ___ can sting you in the water.（気をつけて、水中でクラゲに刺されるかも）", "A": "jellyfish", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jellyfish は jelly ＋ ___ の複合語。空所は？", "A": "fish", "B": "food", "C": "field", "D": "farm", "correct": "A" }
+    ]
+  },
+  {
+    "english": "joule",
+    "pron": "dʒuːl",
+    "kana": "ジュール",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "物理学者ジュール（Joule）の名より",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR B2", "科学・単位"],
+    "meaning_main": "ジュール（エネルギーの単位）",
+    "description": "joule はエネルギーや仕事の単位「ジュール」を表す名詞。記号は J。1ジュールは、1ニュートンの力で物を1メートル動かすときの仕事の量です。イギリスの物理学者ジェームズ・プレスコット・ジュールにちなんで名づけられました。",
+    "keywords": ["joule 意味", "joule 発音", "joule ジュール", "joule エネルギー 単位", "joule 例文"],
+    "meanings": [
+      { "hinshi": "【名】ジュール", "note": "エネルギー・仕事の単位。記号 J。" }
+    ],
+    "usages": [
+      { "title": "① エネルギーの単位", "desc": "仕事・熱量を表す。", "example_en": "Energy is measured in joules.", "example_ja": "エネルギーはジュールで測られる。" },
+      { "title": "② 熱量・カロリーとの関係", "desc": "1カロリー≒4.2ジュール。", "example_en": "One calorie is about 4.2 joules.", "example_ja": "1カロリーは約4.2ジュールだ。" },
+      { "title": "③ 記号 J", "desc": "科学で使う。", "example_en": "The label shows the energy in joules.", "example_ja": "そのラベルはエネルギーをジュールで示している。" }
+    ],
+    "warn": ["記号は J。発音は /dʒuːl/（jewel と似るが別語）。", "物理学者ジュールにちなむ単位。"],
+    "etym_note": "イギリスの物理学者ジェームズ・プレスコット・ジュール（1818-1889）の名にちなみます。彼が熱と仕事（エネルギー）の関係を研究したことを記念して、エネルギーの単位名になりました。",
+    "etym_chain": [
+      { "node": "Joule (人名)", "sub": "物理学者", "era": "19世紀" },
+      { "node": "joule", "sub": "エネルギーの単位", "era": "19世紀英語" },
+      { "node": "joule", "sub": "ジュール", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "measured in joules", "ja": "ジュールで測られる" },
+      { "en": "a thousand joules", "ja": "1000ジュール" },
+      { "en": "kilojoule", "ja": "キロジュール" },
+      { "en": "energy in joules", "ja": "ジュール単位のエネルギー" },
+      { "en": "joules of energy", "ja": "エネルギーのジュール数" },
+      { "en": "convert to joules", "ja": "ジュールに換算する" }
+    ],
+    "related": [
+      { "en": "energy", "ja": "エネルギー" },
+      { "en": "calorie", "ja": "カロリー" },
+      { "en": "watt", "ja": "ワット" },
+      { "en": "work", "ja": "仕事(物理)" }
+    ],
+    "faq": [
+      { "q": "joule とは何の単位ですか？", "a": "エネルギーや仕事の単位です。記号は J。1ジュールは、1ニュートンの力で物を1メートル動かすときの仕事の量です。" },
+      { "q": "joule の名前の由来は？", "a": "イギリスの物理学者ジェームズ・プレスコット・ジュールにちなみます。熱と仕事の関係を研究した功績を記念した単位名です。" }
+    ],
+    "quiz": [
+      { "q": "Scientists measure energy in units called ___.（科学者はエネルギーをジュールという単位で測る）", "A": "joules", "B": "jams", "C": "jars", "D": "jaws", "correct": "A" },
+      { "q": "joule は何の単位？", "A": "エネルギー", "B": "長さ", "C": "重さ", "D": "時間", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jumper",
+    "pron": "ˈdʒʌmpər",
+    "kana": "ジャンパー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "jump（跳ぶ）＋ -er／(衣服は別語源)",
+    "ld_level": "3級",
+    "badges": ["中学生〜", "英検3級", "CEFR A2", "衣服・頻出語"],
+    "meaning_main": "(英)セーター／跳ぶ人・跳ぶもの",
+    "description": "jumper は主にイギリス英語で「セーター」を表す名詞。頭からかぶって着る、そでのある編み物の上着を指します。また jump（跳ぶ）＋ -er で「跳ぶ人・跳躍選手」の意味もあり、アメリカでは「ジャンパースカート」を指すこともあります。",
+    "keywords": ["jumper 意味", "jumper 発音", "jumper セーター", "jumper 英", "jumper 例文"],
+    "meanings": [
+      { "hinshi": "【名】(英)セーター", "note": "頭からかぶる編み物の上着。米では sweater。" },
+      { "hinshi": "【名】跳ぶ人・跳躍選手", "note": "jump＋-er。high jumper（走り高跳び選手）など。" }
+    ],
+    "usages": [
+      { "title": "① セーター（英）", "desc": "編み物の上着。", "example_en": "She wore a warm woolen jumper.", "example_ja": "彼女は暖かいウールのセーターを着ていた。" },
+      { "title": "② 跳躍選手", "desc": "jump＋-er。", "example_en": "He is a talented high jumper.", "example_ja": "彼は才能ある走り高跳び選手だ。" },
+      { "title": "③ 米では別の意味", "desc": "ジャンパースカート。", "example_en": "In the US, a jumper is a sleeveless dress.", "example_ja": "アメリカでは jumper はそでなしのワンピースを指す。" }
+    ],
+    "warn": ["「セーター」の意味は主にイギリス英語。アメリカでは sweater。", "アメリカの jumper は「ジャンパースカート」を指すので注意。"],
+    "etym_note": "セーターの意味の jumper は、ゆったりした上着を指す古い語 jump に由来するとされ、跳躍とは別語源です。「跳ぶ人」の jumper は jump（跳ぶ）＋ -er でできています。",
+    "etym_chain": [
+      { "node": "jump / jump + -er", "sub": "上着／跳ぶ＋人", "era": "近代英語" },
+      { "node": "jumper", "sub": "セーター・跳ぶ人", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a woolen jumper", "ja": "ウールのセーター(英)" },
+      { "en": "a high jumper", "ja": "走り高跳び選手" },
+      { "en": "a long jumper", "ja": "走り幅跳び選手" },
+      { "en": "put on a jumper", "ja": "セーターを着る(英)" },
+      { "en": "a knitted jumper", "ja": "編みのセーター" },
+      { "en": "a bungee jumper", "ja": "バンジージャンプをする人" }
+    ],
+    "related": [
+      { "en": "sweater", "ja": "セーター(米)" },
+      { "en": "jump", "ja": "跳ぶ" },
+      { "en": "pullover", "ja": "プルオーバー" },
+      { "en": "cardigan", "ja": "カーディガン" }
+    ],
+    "faq": [
+      { "q": "jumper はどの国で「セーター」の意味ですか？", "a": "主にイギリス英語で「セーター」を意味します。アメリカ英語では sweater が普通で、jumper は「ジャンパースカート」を指します。" },
+      { "q": "jumper に「跳ぶ人」の意味もありますか？", "a": "はい。jump（跳ぶ）＋ -er で「跳ぶ人・跳躍選手」も表します。high jumper（走り高跳び選手）などです。" }
+    ],
+    "quiz": [
+      { "q": "In Britain, she put on a warm ___ to keep out the cold.（イギリスでは彼女は寒さを防ぐため暖かいセーターを着た）", "A": "jumper", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "イギリス英語で jumper が指すのは？", "A": "セーター", "B": "ズボン", "C": "帽子", "D": "靴", "correct": "A" }
+    ]
+  },
+  {
+    "english": "joust",
+    "pron": "dʒaʊst",
+    "kana": "ジャウスト",
+    "hinshi": "名詞 / 動詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 juxtare（近づく・ぶつかる)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR B2", "歴史・文化"],
+    "meaning_main": "馬上槍試合／(比喩)競い合う",
+    "description": "joust は「馬上槍試合」を表す名詞、また「馬上で槍を交える・(比喩的に)competeする」を表す動詞です。中世ヨーロッパの騎士が、馬に乗って長い槍で相手を突き落とそうとする一騎打ちの競技を指します。jostle（押し合う）と同じ語源です。",
+    "keywords": ["joust 意味", "joust 発音", "joust 馬上槍試合", "joust 騎士", "joust 例文"],
+    "meanings": [
+      { "hinshi": "【名】馬上槍試合", "note": "中世の騎士が馬上で槍を交える一騎打ちの競技。" },
+      { "hinshi": "【動】馬上で槍を交える・(比喩)競い合う", "note": "一騎打ちする、議論などで張り合う。" }
+    ],
+    "usages": [
+      { "title": "① 馬上槍試合（名詞）", "desc": "騎士の一騎打ち。", "example_en": "Knights competed in a joust.", "example_ja": "騎士たちは馬上槍試合で競った。" },
+      { "title": "② 馬上で槍を交える（動詞）", "desc": "一騎打ちする。", "example_en": "The two knights jousted before the king.", "example_ja": "2人の騎士は王の前で一騎打ちをした。" },
+      { "title": "③ (比喩)言い争う・張り合う", "desc": "議論で競う。", "example_en": "The politicians jousted in the debate.", "example_ja": "政治家たちは討論で舌戦を交わした。" }
+    ],
+    "warn": ["発音は /dʒaʊst/。中世の騎士の競技を指す。", "jostle（押し合う）と同じ語源。"],
+    "etym_note": "ラテン語 juxtare（そばに近づく・ぶつかる）に由来し、古フランス語 jouster を経て英語に入りました。jostle（押し合う）と同じ語源で、「ぶつかり合う」が中心の意味です。",
+    "etym_chain": [
+      { "node": "juxtare", "sub": "近づく・ぶつかる", "era": "ラテン語" },
+      { "node": "jouster", "sub": "馬上で戦う", "era": "古フランス語" },
+      { "node": "joust", "sub": "馬上槍試合", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a medieval joust", "ja": "中世の馬上槍試合" },
+      { "en": "a jousting tournament", "ja": "馬上槍試合の大会" },
+      { "en": "joust with lances", "ja": "槍で一騎打ちする" },
+      { "en": "joust verbally", "ja": "言葉で張り合う" },
+      { "en": "a knight jousting", "ja": "一騎打ちする騎士" },
+      { "en": "win a joust", "ja": "馬上槍試合に勝つ" }
+    ],
+    "related": [
+      { "en": "knight", "ja": "騎士" },
+      { "en": "lance", "ja": "槍" },
+      { "en": "tournament", "ja": "トーナメント・大会" },
+      { "en": "jostle", "ja": "押し合う" }
+    ],
+    "faq": [
+      { "q": "joust とは何ですか？", "a": "中世ヨーロッパの騎士が、馬に乗って長い槍で相手を突き落とそうとする一騎打ちの競技「馬上槍試合」です。比喩的に「議論などで張り合う」意味でも使います。" },
+      { "q": "joust と jostle は関係がありますか？", "a": "はい。どちらもラテン語 juxtare（ぶつかる）に由来する同語源の語です。jostle は「押し合う」、joust は「馬上で槍を交える」を表します。" }
+    ],
+    "quiz": [
+      { "q": "In the Middle Ages, knights would ___ on horseback with long lances.（中世では騎士は馬上で長い槍を使って一騎打ちをした）", "A": "joust", "B": "jog", "C": "jump", "D": "join", "correct": "A" },
+      { "q": "joust はどんな競技？", "A": "騎士の馬上槍試合", "B": "水泳", "C": "料理対決", "D": "歌合戦", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jute",
+    "pron": "dʒuːt",
+    "kana": "ジュート",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ベンガル語 jhuto（麻繊維)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR B2", "材料・植物"],
+    "meaning_main": "ジュート（黄麻）／麻袋の繊維",
+    "description": "jute は「ジュート（黄麻）」を表す名詞。植物から取れるじょうぶな天然繊維で、麻袋（gunny sack）やロープ、じゅうたんの裏地などに使われます。原則不可算名詞で、南アジアが主な産地です。",
+    "keywords": ["jute 意味", "jute 発音", "jute ジュート 黄麻", "jute 麻袋", "jute 例文"],
+    "meanings": [
+      { "hinshi": "【名】ジュート・黄麻", "note": "植物から取れるじょうぶな天然繊維。麻袋などに使う。不可算。" }
+    ],
+    "usages": [
+      { "title": "① ジュート（繊維）", "desc": "じょうぶな天然繊維。", "example_en": "The bags are made of jute.", "example_ja": "その袋はジュートで作られている。" },
+      { "title": "② 麻袋・ロープに", "desc": "丈夫で安価。", "example_en": "Jute is used for sacks and ropes.", "example_ja": "ジュートは袋やロープに使われる。" },
+      { "title": "③ 環境にやさしい素材", "desc": "自然に分解される。", "example_en": "Jute is a natural, eco-friendly fiber.", "example_ja": "ジュートは自然で環境にやさしい繊維だ。" }
+    ],
+    "warn": ["原則不可算名詞。発音は /dʒuːt/。", "麻の一種で、麻袋やロープの材料。南アジアが主産地。"],
+    "etym_note": "ベンガル語やヒンディー語で麻繊維を指す語（jhuto など）に由来します。インド・バングラデシュを中心に生産される、じょうぶな植物繊維を指す語として英語に入りました。",
+    "etym_chain": [
+      { "node": "jhuto", "sub": "麻繊維", "era": "ベンガル語" },
+      { "node": "jute", "sub": "ジュート", "era": "19世紀英語" },
+      { "node": "jute", "sub": "ジュート・黄麻", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a jute bag", "ja": "ジュートの袋" },
+      { "en": "jute rope", "ja": "ジュートのロープ" },
+      { "en": "made of jute", "ja": "ジュートでできた" },
+      { "en": "jute fiber", "ja": "ジュート繊維" },
+      { "en": "a jute sack", "ja": "麻袋" },
+      { "en": "natural jute", "ja": "天然のジュート" }
+    ],
+    "related": [
+      { "en": "hemp", "ja": "麻・大麻繊維" },
+      { "en": "fiber", "ja": "繊維" },
+      { "en": "sack", "ja": "袋" },
+      { "en": "cotton", "ja": "綿" }
+    ],
+    "faq": [
+      { "q": "jute とは何ですか？", "a": "植物から取れるじょうぶな天然繊維「ジュート（黄麻）」です。麻袋やロープ、じゅうたんの裏地などに使われ、南アジアが主な産地です。" },
+      { "q": "jute の利点は？", "a": "じょうぶで安価なうえ、天然繊維なので自然に分解され環境にやさしい点です。近年エコ素材として注目されています。" }
+    ],
+    "quiz": [
+      { "q": "The eco-friendly shopping bags were made of ___.（環境にやさしい買い物袋はジュートで作られていた）", "A": "jute", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jute はどんな素材？", "A": "じょうぶな天然繊維", "B": "金属", "C": "ガラス", "D": "プラスチック", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jasper",
+    "pron": "ˈdʒæspər",
+    "kana": "ジャスパー",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ペルシャ語 yašp（斑点のある石)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR B2", "宝石・鉱物"],
+    "meaning_main": "碧玉（へきぎょく）／ジャスパー（模様のある石）",
+    "description": "jasper は「碧玉（へきぎょく）・ジャスパー」を表す名詞。赤・茶・黄・緑などの色を持つ、不透明で模様のある石英の一種です。古くから装飾品や印章、彫刻に使われてきました。人名（ジャスパー）にもなっています。",
+    "keywords": ["jasper 意味", "jasper 発音", "jasper 碧玉", "jasper 石", "jasper 例文"],
+    "meanings": [
+      { "hinshi": "【名】碧玉・ジャスパー", "note": "赤・茶・緑などの模様のある不透明な石英。" }
+    ],
+    "usages": [
+      { "title": "① ジャスパー（石）", "desc": "模様のある石。", "example_en": "The bowl was carved from red jasper.", "example_ja": "その鉢は赤い碧玉から彫られていた。" },
+      { "title": "② 装飾・彫刻に", "desc": "古くから使われる。", "example_en": "Jasper has been used for jewelry since ancient times.", "example_ja": "碧玉は古代から装身具に使われてきた。" },
+      { "title": "③ さまざまな色", "desc": "赤・緑・黄など。", "example_en": "Jasper comes in many colors.", "example_ja": "碧玉には多くの色がある。" }
+    ],
+    "warn": ["発音は /ˈdʒæspər/。不透明で模様のある石英を指す。", "透明な宝石ではなく、装飾用の石。人名でもある。"],
+    "etym_note": "ペルシャ語 yašp（斑点のある石）に由来し、ギリシャ語・ラテン語を経て英語に入りました。古代から世界各地で装飾に使われてきた石を指します。",
+    "etym_chain": [
+      { "node": "yašp", "sub": "斑点のある石", "era": "ペルシャ語" },
+      { "node": "jasper", "sub": "碧玉", "era": "中英語" },
+      { "node": "jasper", "sub": "碧玉・ジャスパー", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "red jasper", "ja": "赤い碧玉" },
+      { "en": "a jasper stone", "ja": "碧玉の石" },
+      { "en": "green jasper", "ja": "緑の碧玉" },
+      { "en": "carved jasper", "ja": "彫られた碧玉" },
+      { "en": "a jasper seal", "ja": "碧玉の印章" },
+      { "en": "polished jasper", "ja": "磨かれた碧玉" }
+    ],
+    "related": [
+      { "en": "quartz", "ja": "石英" },
+      { "en": "stone", "ja": "石" },
+      { "en": "gem", "ja": "宝石" },
+      { "en": "agate", "ja": "めのう" }
+    ],
+    "faq": [
+      { "q": "jasper とは何ですか？", "a": "赤・茶・黄・緑などの色を持つ、不透明で模様のある石英の一種「碧玉（へきぎょく）」です。古くから装飾品や印章、彫刻に使われてきました。" },
+      { "q": "jasper は透明な宝石ですか？", "a": "いいえ。ダイヤやルビーのような透明な宝石ではなく、不透明で模様のある装飾用の石です。" }
+    ],
+    "quiz": [
+      { "q": "The ancient ring was set with a piece of red ___.（その古代の指輪には赤い碧玉がはめ込まれていた）", "A": "jasper", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jasper はどんな石？", "A": "模様のある不透明な石", "B": "透明なダイヤ", "C": "金属", "D": "液体", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jowl",
+    "pron": "dʒaʊl",
+    "kana": "ジャウル",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "古英語 ceafl（あご)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "体の部位"],
+    "meaning_main": "(たるんだ)ほお／あご／下あごの肉",
+    "description": "jowl は「(たるんだ)ほお・下あごの肉」を表す名詞。特に年齢とともに垂れ下がった、あご下やほおのたるんだ肉を指します。動物では、犬などの垂れた頬も表します。しばしば複数形 jowls で使われます。",
+    "keywords": ["jowl 意味", "jowl 発音", "jowl ほお", "jowls たるみ", "jowl 例文"],
+    "meanings": [
+      { "hinshi": "【名】(たるんだ)ほお・下あごの肉", "note": "垂れ下がったあご下・ほおの肉。しばしば複数形。" }
+    ],
+    "usages": [
+      { "title": "① たるんだほお", "desc": "垂れた肉。", "example_en": "The old man had heavy jowls.", "example_ja": "その老人はたるんだほおをしていた。" },
+      { "title": "② 犬などの垂れた頬", "desc": "動物にも。", "example_en": "The bulldog's jowls hung loosely.", "example_ja": "ブルドッグの頬はだらりと垂れていた。" },
+      { "title": "③ cheek by jowl（すぐ隣り合って）", "desc": "慣用表現。", "example_en": "The houses stood cheek by jowl.", "example_ja": "家々は密接して立っていた。" }
+    ],
+    "warn": ["発音は /dʒaʊl/。しばしば複数形 jowls。", "cheek by jowl は「すぐ隣り合って・密接して」の慣用句。"],
+    "etym_note": "古英語 ceafl（あご・ほお）に由来します。もとはあごや口のあたりを指す語で、後に「たるんだほおの肉」を表すようになりました。",
+    "etym_chain": [
+      { "node": "ceafl", "sub": "あご・ほお", "era": "古英語" },
+      { "node": "jowl", "sub": "ほお・あご", "era": "中英語" },
+      { "node": "jowl", "sub": "たるんだほお", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "heavy jowls", "ja": "たるんだほお" },
+      { "en": "sagging jowls", "ja": "垂れ下がったほお" },
+      { "en": "cheek by jowl", "ja": "すぐ隣り合って・密接して" },
+      { "en": "a dog's jowls", "ja": "犬の垂れた頬" },
+      { "en": "double chin and jowls", "ja": "二重あごとたるみ" },
+      { "en": "loose jowls", "ja": "たるんだほお" }
+    ],
+    "related": [
+      { "en": "cheek", "ja": "ほお" },
+      { "en": "jaw", "ja": "あご" },
+      { "en": "chin", "ja": "あご先" },
+      { "en": "face", "ja": "顔" }
+    ],
+    "faq": [
+      { "q": "jowl とは何ですか？", "a": "特に年齢とともに垂れ下がった、あご下やほおのたるんだ肉を指します。犬など動物の垂れた頬も表し、しばしば複数形 jowls で使います。" },
+      { "q": "cheek by jowl とはどんな意味ですか？", "a": "「すぐ隣り合って・非常に接近して」という意味の慣用表現です。ほおとあごが接するほど近い様子から来ています。" }
+    ],
+    "quiz": [
+      { "q": "The old bulldog had droopy ___.（その年老いたブルドッグは垂れた頬をしていた）", "A": "jowls", "B": "jams", "C": "jars", "D": "jaws", "correct": "A" },
+      { "q": "cheek by jowl の意味は？", "A": "すぐ隣り合って", "B": "遠く離れて", "C": "上と下に", "D": "前と後ろに", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jamb",
+    "pron": "dʒæm",
+    "kana": "ジャム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "フランス語 jambe（脚)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "建築"],
+    "meaning_main": "(ドア・窓の)側柱／わくの縦の部分",
+    "description": "jamb は「(ドアや窓の)側柱・縦わく」を表す名詞。ドアや窓の開口部の左右にある、縦の枠の部分を指します。発音は jam（ジャム）と同じ /dʒæm/ で、末尾の b は発音しません。フランス語の「脚」が語源です。",
+    "keywords": ["jamb 意味", "jamb 発音", "jamb 側柱", "door jamb", "jamb 例文"],
+    "meanings": [
+      { "hinshi": "【名】(ドア・窓の)側柱・縦わく", "note": "ドアや窓の開口部の左右の縦の枠。" }
+    ],
+    "usages": [
+      { "title": "① ドアの側柱 (door jamb)", "desc": "ドア枠の縦部分。", "example_en": "He leaned against the door jamb.", "example_ja": "彼はドアの側柱にもたれた。" },
+      { "title": "② 窓のわく", "desc": "窓枠の縦部分。", "example_en": "The window jamb needs painting.", "example_ja": "窓の縦わくは塗装が必要だ。" },
+      { "title": "③ ちょうつがいを付ける部分", "desc": "ドアを支える枠。", "example_en": "The hinges are attached to the jamb.", "example_ja": "ちょうつがいは側柱に取り付けられている。" }
+    ],
+    "warn": ["末尾の b は発音しない。/dʒæm/ で jam（ジャム）と同音。", "ドア・窓のわくの『縦』の部分を指す。"],
+    "etym_note": "フランス語 jambe（脚）に由来します。ドアや窓のわくの「脚」のように立つ縦の部分を指すことから、この意味になりました。",
+    "etym_chain": [
+      { "node": "jambe", "sub": "脚", "era": "フランス語" },
+      { "node": "jambe", "sub": "側柱", "era": "中英語" },
+      { "node": "jamb", "sub": "側柱・縦わく", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a door jamb", "ja": "ドアの側柱" },
+      { "en": "a window jamb", "ja": "窓の縦わく" },
+      { "en": "lean against the jamb", "ja": "側柱にもたれる" },
+      { "en": "the door jambs", "ja": "ドアわくの両側柱" },
+      { "en": "paint the jamb", "ja": "側柱を塗る" },
+      { "en": "a wooden jamb", "ja": "木の側柱" }
+    ],
+    "related": [
+      { "en": "frame", "ja": "わく・フレーム" },
+      { "en": "door", "ja": "ドア" },
+      { "en": "threshold", "ja": "敷居" },
+      { "en": "hinge", "ja": "ちょうつがい" }
+    ],
+    "faq": [
+      { "q": "jamb とは何ですか？", "a": "ドアや窓の開口部の左右にある、縦の枠の部分（側柱）です。ちょうつがいなどが取り付けられる、ドアを支える縦の枠を指します。" },
+      { "q": "jamb と jam は発音が同じですか？", "a": "はい、どちらも /dʒæm/ で同音です。jamb は末尾の b を発音しません。jamb は「側柱」、jam は「ジャム・渋滞」で意味が異なります。" }
+    ],
+    "quiz": [
+      { "q": "She stood in the doorway, leaning on the door ___.（彼女は戸口に立ち、ドアの側柱にもたれた）", "A": "jamb", "B": "jar", "C": "jaw", "D": "jazz", "correct": "A" },
+      { "q": "jamb と同じ発音の語は？", "A": "jam", "B": "jazz", "C": "jail", "D": "jog", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jetsam",
+    "pron": "ˈdʒetsəm",
+    "kana": "ジェツァム",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "jettison（投げ捨てる）の短縮",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "海・法律"],
+    "meaning_main": "(船から)投げ荷／海に捨てられた漂着物",
+    "description": "jetsam は「(危険を避けるため船から)投げ捨てられた荷物」を表す名詞。海に捨てられて浜辺などに流れ着いた物を指します。しばしば flotsam and jetsam（漂流物と投げ荷＝がらくた・寄る辺ない人々）という決まった表現で使われます。",
+    "keywords": ["jetsam 意味", "jetsam 発音", "jetsam 投げ荷", "flotsam and jetsam", "jetsam 例文"],
+    "meanings": [
+      { "hinshi": "【名】(船からの)投げ荷・漂着物", "note": "危険を避けるため船から捨てられ流れ着いた物。" }
+    ],
+    "usages": [
+      { "title": "① 投げ荷・漂着物", "desc": "海に捨てられた物。", "example_en": "The beach was littered with jetsam.", "example_ja": "浜辺は漂着物で散らかっていた。" },
+      { "title": "② flotsam and jetsam", "desc": "決まった言い回し。", "example_en": "We found all sorts of flotsam and jetsam on the shore.", "example_ja": "私たちは岸辺であらゆる漂着物を見つけた。" },
+      { "title": "③ (比喩)がらくた・寄る辺ない人々", "desc": "取るに足らないもの。", "example_en": "The old shed was full of jetsam.", "example_ja": "その古い小屋はがらくたでいっぱいだった。" }
+    ],
+    "warn": ["jettison（投げ捨てる）から生まれた語。flotsam（漂流物）とセットで使うことが多い。", "flotsam は自然に流れた物、jetsam は意図的に投げ捨てた物。"],
+    "etym_note": "jettison（船から投げ捨てる）が短くなってできた語です。「船から意図的に投げ捨てられた荷物」を意味し、自然に流れ出た flotsam（漂流物）と対で使われます。",
+    "etym_chain": [
+      { "node": "jettison", "sub": "投げ捨てる", "era": "近代英語" },
+      { "node": "jetsam", "sub": "投げ荷", "era": "16世紀英語" },
+      { "node": "jetsam", "sub": "投げ荷・漂着物", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "flotsam and jetsam", "ja": "漂流物と投げ荷・がらくた" },
+      { "en": "wash up as jetsam", "ja": "投げ荷として流れ着く" },
+      { "en": "jetsam on the beach", "ja": "浜辺の漂着物" },
+      { "en": "collect jetsam", "ja": "漂着物を集める" },
+      { "en": "the jetsam of the sea", "ja": "海の投げ荷" },
+      { "en": "old jetsam", "ja": "古いがらくた" }
+    ],
+    "related": [
+      { "en": "flotsam", "ja": "漂流物" },
+      { "en": "debris", "ja": "残骸・がれき" },
+      { "en": "wreckage", "ja": "難破物" },
+      { "en": "cargo", "ja": "積荷" }
+    ],
+    "faq": [
+      { "q": "jetsam とは何ですか？", "a": "危険を避けるために船から投げ捨てられ、海に流れ着いた荷物のことです。flotsam（自然に流れ出た漂流物）と対で使われます。" },
+      { "q": "flotsam and jetsam とはどんな意味ですか？", "a": "文字通りは「漂流物と投げ荷」ですが、比喩的に「がらくた・取るに足らないもの」や「寄る辺ない人々」を指す決まった表現です。" }
+    ],
+    "quiz": [
+      { "q": "After the storm, the beach was covered with ___ from ships.（嵐の後、浜辺は船からの投げ荷で覆われていた）", "A": "jetsam", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jetsam のもとになった語は？", "A": "jettison（投げ捨てる）", "B": "jump（跳ぶ）", "C": "join（つなぐ）", "D": "joke（冗談）", "correct": "A" }
+    ]
+  },
+  {
+    "english": "jurist",
+    "pron": "ˈdʒʊərɪst",
+    "kana": "ジュリスト",
+    "hinshi": "名詞",
+    "ld_pos": "名詞",
+    "ld_etym": "ラテン語 jus（法）＋ -ist（人)",
+    "ld_level": "1級",
+    "badges": ["大学〜", "英検1級", "CEFR C1", "法律・職業"],
+    "meaning_main": "法学者／法律の専門家",
+    "description": "jurist は「法学者・法律の専門家」を表す名詞。法律を深く研究する学者や、法律に精通した専門家を指します。アメリカでは裁判官を指すこともあります。jus（法）＋ -ist（人）でできており、justice や judge と同じ語源です。",
+    "keywords": ["jurist 意味", "jurist 発音", "jurist 法学者", "jurist 法律家", "jurist 例文"],
+    "meanings": [
+      { "hinshi": "【名】法学者・法律の専門家", "note": "法律を研究する学者や法に精通した専門家。" }
+    ],
+    "usages": [
+      { "title": "① 法学者", "desc": "法律を研究する学者。", "example_en": "He is a respected jurist.", "example_ja": "彼は尊敬される法学者だ。" },
+      { "title": "② 法律の専門家", "desc": "法に精通した人。", "example_en": "The jurist wrote many books on law.", "example_ja": "その法学者は法律に関する多くの本を書いた。" },
+      { "title": "③ (米)裁判官", "desc": "文脈による。", "example_en": "The jurist gave a fair ruling.", "example_ja": "その法律家は公正な裁定を下した。" }
+    ],
+    "warn": ["jus（法）＋ -ist（人）でできた語。justice / judge と同語源。", "lawyer（弁護士）と違い、jurist は主に法律の学者・研究者を指す。"],
+    "etym_note": "ラテン語 jus（法・権利）に、「〜する人」を表す接尾辞 -ist が付いた語です。justice（正義）や judge（裁く）と同じ「法」の語源を持ち、「法律の専門家」を意味します。",
+    "etym_chain": [
+      { "node": "jus + -ist", "sub": "法＋人", "era": "ラテン語系" },
+      { "node": "jurist", "sub": "法学者", "era": "近代英語" },
+      { "node": "jurist", "sub": "法学者・法律家", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "a distinguished jurist", "ja": "著名な法学者" },
+      { "en": "a legal jurist", "ja": "法律の専門家" },
+      { "en": "a respected jurist", "ja": "尊敬される法学者" },
+      { "en": "a leading jurist", "ja": "一流の法学者" },
+      { "en": "the jurist's opinion", "ja": "法学者の見解" },
+      { "en": "an eminent jurist", "ja": "傑出した法学者" }
+    ],
+    "related": [
+      { "en": "lawyer", "ja": "弁護士" },
+      { "en": "judge", "ja": "裁判官" },
+      { "en": "justice", "ja": "正義・判事" },
+      { "en": "law", "ja": "法律" }
+    ],
+    "faq": [
+      { "q": "jurist とはどんな人ですか？", "a": "法律を深く研究する学者や、法律に精通した専門家を指します。アメリカでは裁判官を指すこともあります。" },
+      { "q": "jurist と lawyer の違いは？", "a": "lawyer は依頼人のために働く「弁護士」など実務家、jurist は主に法律を研究する「法学者・法律の専門家」を指します。" }
+    ],
+    "quiz": [
+      { "q": "The famous ___ wrote important books about the law.（その有名な法学者は法律に関する重要な本を書いた）", "A": "jurist", "B": "jam", "C": "jar", "D": "jaw", "correct": "A" },
+      { "q": "jurist と同じ語源の語は？", "A": "justice（正義）", "B": "juice（ジュース）", "C": "jungle（密林）", "D": "jacket（上着）", "correct": "A" }
+    ]
+  }
+]
