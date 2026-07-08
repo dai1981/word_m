@@ -1,0 +1,496 @@
+[
+  {
+    "english": "Joseph",
+    "pron": "ˈdʒoʊzəf",
+    "kana": "ヂョウゼフ",
+    "hinshi": "固有名詞（人名・聖書）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ヘブライ語 Yosef（神が加えられる）より",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "聖書・人名"],
+    "meaning_main": "ヨセフ（旧約聖書の人物）／男性名ジョゼフ",
+    "description": "Joseph（ヂョウゼフ）は旧約聖書でヤコブの子ヨセフ。兄弟に売られエジプトで宰相となる物語で知られ、英語圏では一般的な男性名でもあります。",
+    "keywords": ["Joseph 意味", "ヨセフ 聖書", "夢占い ヨセフ", "男性名 Joseph"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ヨセフ", "note": "ヤコブの子。兄弟に売られエジプトで出世し、飢饉から一族を救う。" },
+      { "hinshi": "【固有名詞】男性名ジョゼフ", "note": "英語圏で広く使われる男性名。愛称は Joe。" }
+    ],
+    "usages": [
+      { "title": "① 聖書のヨセフ", "desc": "旧約の人物を指す。", "example_en": "Joseph interpreted the Pharaoh's dreams.", "example_ja": "ヨセフはファラオの夢を解き明かした。" },
+      { "title": "② 現代の男性名", "desc": "人名として使う。", "example_en": "Joseph, or Joe, is a common English name.", "example_ja": "ジョゼフ（愛称ジョー）はよくある英語名だ。" }
+    ],
+    "warn": ["新約にも、イエスの養父ヨセフ（大工）が登場する。別人として区別する。愛称は Joe。"],
+    "etym_note": "ヘブライ語 Yosef（「（神が子を）加えてくださる」）に由来し、ギリシャ語 Iōsēph、ラテン語 Ioseph を経て英語 Joseph になりました。",
+    "etym_chain": [
+      { "node": "Yosef", "sub": "神が加える", "era": "ヘブライ語" },
+      { "node": "Ioseph", "sub": "ラテン語形", "era": "古代" },
+      { "node": "Joseph", "sub": "英語名", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Joseph and his brothers", "ja": "ヨセフと兄弟たち" },
+      { "en": "Joseph's coat of many colors", "ja": "ヨセフの多彩な上着" },
+      { "en": "Joseph in Egypt", "ja": "エジプトのヨセフ" },
+      { "en": "Saint Joseph", "ja": "聖ヨセフ" },
+      { "en": "named Joseph", "ja": "ジョゼフという名の" },
+      { "en": "Joe for short", "ja": "略してジョー" }
+    ],
+    "related": [
+      { "en": "Jacob", "ja": "ヤコブ（父）" },
+      { "en": "Egypt", "ja": "エジプト" },
+      { "en": "Pharaoh", "ja": "ファラオ" },
+      { "en": "Joe", "ja": "ジョー（愛称）" }
+    ],
+    "faq": [
+      { "q": "旧約と新約のヨセフは同じ人？", "a": "別人です。旧約はヤコブの子ヨセフ、新約はイエスの養父である大工ヨセフを指します。" },
+      { "q": "Joseph の愛称は？", "a": "Joe（ジョー）が一般的です。" }
+    ],
+    "quiz": [
+      { "q": "旧約のヨセフが宰相となった国は？", "A": "バビロン", "B": "エジプト", "C": "ペルシャ", "D": "ローマ", "correct": "B" },
+      { "q": "Joseph の一般的な愛称は？", "A": "Jack", "B": "Joe", "C": "Jim", "D": "John", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Joshua",
+    "pron": "ˈdʒɒʃuə",
+    "kana": "ヂョシュア",
+    "hinshi": "固有名詞（人名・聖書）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ヘブライ語 Yehoshua（ヤハウェは救い）より",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "聖書・人名"],
+    "meaning_main": "ヨシュア（モーセの後継者）／男性名ジョシュア",
+    "description": "Joshua（ヂョシュア）は旧約聖書でモーセの後を継ぎイスラエルの民をカナンへ導いた指導者。エリコ攻略で知られ、Jesus と同語源の名でもあります。",
+    "keywords": ["Joshua 意味", "ヨシュア 聖書", "モーセ 後継者", "エリコ 攻略"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ヨシュア", "note": "モーセの後継者。イスラエルの民を約束の地カナンへ導いた。" },
+      { "hinshi": "【固有名詞】男性名ジョシュア", "note": "英語圏で人気の男性名。愛称は Josh。" }
+    ],
+    "usages": [
+      { "title": "① 聖書の指導者ヨシュア", "desc": "旧約の人物を指す。", "example_en": "Joshua led the Israelites into the Promised Land.", "example_ja": "ヨシュアはイスラエルの民を約束の地へ導いた。" },
+      { "title": "② 現代の男性名", "desc": "人名として使う。", "example_en": "Joshua, often called Josh, is a popular name.", "example_ja": "ジョシュア（愛称ジョシュ）は人気の名前だ。" }
+    ],
+    "warn": ["Jesus（イエス）と同じヘブライ語源を持つ。米西部のジョシュア・ツリー（ヨシュアの木）は彼にちなむ植物名。"],
+    "etym_note": "ヘブライ語 Yehoshua（「ヤハウェは救い」）に由来し、これが短縮された Yeshua が Jesus の語源でもあります。つまり Joshua と Jesus は同源です。",
+    "etym_chain": [
+      { "node": "Yehoshua", "sub": "ヤハウェは救い", "era": "ヘブライ語" },
+      { "node": "Iesous/Joshua", "sub": "分化した形", "era": "古代〜" },
+      { "node": "Joshua", "sub": "英語名", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the Book of Joshua", "ja": "ヨシュア記" },
+      { "en": "Joshua and Jericho", "ja": "ヨシュアとエリコ" },
+      { "en": "the Promised Land", "ja": "約束の地" },
+      { "en": "Joshua tree", "ja": "ヨシュアの木" },
+      { "en": "named Joshua", "ja": "ジョシュアという名の" },
+      { "en": "Josh for short", "ja": "略してジョシュ" }
+    ],
+    "related": [
+      { "en": "Moses", "ja": "モーセ" },
+      { "en": "Jericho", "ja": "エリコ" },
+      { "en": "Jesus", "ja": "イエス（同語源）" },
+      { "en": "Canaan", "ja": "カナン" }
+    ],
+    "faq": [
+      { "q": "Joshua と Jesus は関係ある？", "a": "はい。どちらもヘブライ語 Yehoshua/Yeshua（ヤハウェは救い）に由来する同語源の名前です。" },
+      { "q": "ジョシュア・ツリーとは？", "a": "米西部の砂漠に生える木で、その形が祈るヨシュアの姿に見えたことから名付けられたと言われます。" }
+    ],
+    "quiz": [
+      { "q": "Joshua が後を継いだ指導者は？", "A": "アブラハム", "B": "モーセ", "C": "ダビデ", "D": "ソロモン", "correct": "B" },
+      { "q": "Joshua と同語源の名前は？", "A": "Jacob", "B": "Jesus", "C": "James", "D": "John", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Jeremiah",
+    "pron": "ˌdʒerɪˈmaɪə",
+    "kana": "ヂェレマイア",
+    "hinshi": "固有名詞（人名・聖書）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ヘブライ語 Yirmeyahu（ヤハウェが高める）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "聖書・人物"],
+    "meaning_main": "エレミヤ（旧約の「嘆きの預言者」）",
+    "description": "Jeremiah（ヂェレマイア）は旧約聖書の預言者エレミヤ。国の滅亡を嘆き警告したことから「嘆きの預言者」と呼ばれ、jeremiad（長い嘆き）の語源です。",
+    "keywords": ["Jeremiah 意味", "エレミヤ 預言者", "嘆きの預言者", "jeremiad 語源"],
+    "meanings": [
+      { "hinshi": "【固有名詞】エレミヤ", "note": "旧約聖書の預言者。エルサレム陥落を嘆き警告した。" },
+      { "hinshi": "【固有名詞】男性名ジェレマイア", "note": "英語圏の男性名。愛称は Jerry。" }
+    ],
+    "usages": [
+      { "title": "① 嘆きの預言者", "desc": "旧約の人物を指す。", "example_en": "Jeremiah warned of the fall of Jerusalem.", "example_ja": "エレミヤはエルサレムの陥落を警告した。" },
+      { "title": "② 語源としての言及", "desc": "jeremiad（長い嘆き節）の由来。", "example_en": "The word 'jeremiad' comes from Jeremiah.", "example_ja": "jeremiad（嘆き節）という語はエレミヤに由来する。" }
+    ],
+    "warn": ["旧約の『哀歌（Lamentations）』は伝統的にエレミヤの作とされる。jeremiad は「長々とした不平・嘆き」を指す普通名詞。"],
+    "etym_note": "ヘブライ語 Yirmeyahu（「ヤハウェが高める・立てる」）に由来。彼の悲嘆に満ちた預言から、英語 jeremiad（長い嘆き・悲観的な非難）が生まれました。",
+    "etym_chain": [
+      { "node": "Yirmeyahu", "sub": "ヤハウェが高める", "era": "ヘブライ語" },
+      { "node": "Jeremiah", "sub": "預言者名", "era": "現代英語" },
+      { "node": "jeremiad", "sub": "長い嘆き", "era": "派生語" }
+    ],
+    "phrases": [
+      { "en": "the Book of Jeremiah", "ja": "エレミヤ書" },
+      { "en": "the prophet Jeremiah", "ja": "預言者エレミヤ" },
+      { "en": "the weeping prophet", "ja": "嘆きの預言者" },
+      { "en": "Jeremiah's lament", "ja": "エレミヤの嘆き" },
+      { "en": "a modern jeremiad", "ja": "現代の嘆き節" },
+      { "en": "named Jeremiah", "ja": "ジェレマイアという名の" }
+    ],
+    "related": [
+      { "en": "Lamentations", "ja": "哀歌" },
+      { "en": "jeremiad", "ja": "長い嘆き（普通名詞）" },
+      { "en": "prophet", "ja": "預言者" },
+      { "en": "Jerusalem", "ja": "エルサレム" }
+    ],
+    "faq": [
+      { "q": "なぜ「嘆きの預言者」？", "a": "国の堕落と滅亡を嘆き、繰り返し警告し続けたためです。悲嘆に満ちた預言で知られます。" },
+      { "q": "jeremiad とは？", "a": "エレミヤに由来する普通名詞で、「長々とした嘆き・悲観的な非難の演説」を意味します。" }
+    ],
+    "quiz": [
+      { "q": "Jeremiah の別名は？", "A": "笑う預言者", "B": "嘆きの預言者", "C": "眠る預言者", "D": "戦う預言者", "correct": "B" },
+      { "q": "Jeremiah に由来する普通名詞は？", "A": "jamboree", "B": "jeremiad", "C": "jubilee", "D": "journal", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Judas",
+    "pron": "ˈdʒuːdəs",
+    "kana": "ヂューダス",
+    "hinshi": "固有名詞（人名・聖書）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ヘブライ語 Yehudah（ユダ）のギリシャ語形",
+    "ld_level": "準1級",
+    "badges": ["大学生〜", "英検準1級", "CEFR C1", "聖書・比喩"],
+    "meaning_main": "ユダ（イエスを裏切った弟子）／裏切り者",
+    "description": "Judas（ヂューダス）は新約聖書でイエスを裏切った弟子ユダ（イスカリオテのユダ）。転じて「裏切り者」の代名詞として使われる固有名詞です。",
+    "keywords": ["Judas 意味", "イスカリオテのユダ", "裏切り者 英語", "銀貨30枚"],
+    "meanings": [
+      { "hinshi": "【固有名詞】イスカリオテのユダ", "note": "イエスの十二使徒の一人。銀貨30枚でイエスを引き渡した。" },
+      { "hinshi": "【名詞】(比喩) 裏切り者", "note": "信頼を裏切る者を a Judas と呼ぶ。" }
+    ],
+    "usages": [
+      { "title": "① イエスを裏切った弟子", "desc": "新約の人物を指す。", "example_en": "Judas betrayed Jesus for thirty pieces of silver.", "example_ja": "ユダは銀貨30枚でイエスを裏切った。" },
+      { "title": "② 裏切り者の比喩", "desc": "信頼を裏切る者を指す。", "example_en": "They called him a Judas for informing on his friends.", "example_ja": "仲間を密告した彼は裏切り者と呼ばれた。" }
+    ],
+    "warn": ["旧約の族長 Judah とは別綴り・別人。Judas kiss（ユダの接吻）は「偽りの友好・裏切りの行為」を指す慣用句。"],
+    "etym_note": "ヘブライ語 Yehudah（ユダ）のギリシャ語形 Ioudas に由来します。裏切りの逸話から、英語で「裏切り者」の代名詞となりました。",
+    "etym_chain": [
+      { "node": "Yehudah", "sub": "ユダ", "era": "ヘブライ語" },
+      { "node": "Ioudas", "sub": "ギリシャ語形", "era": "古代ギリシャ語" },
+      { "node": "Judas", "sub": "裏切り者", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Judas Iscariot", "ja": "イスカリオテのユダ" },
+      { "en": "a Judas kiss", "ja": "ユダの接吻（裏切り）" },
+      { "en": "thirty pieces of silver", "ja": "銀貨30枚" },
+      { "en": "play the Judas", "ja": "裏切り者を演じる" },
+      { "en": "betray like Judas", "ja": "ユダのように裏切る" },
+      { "en": "a Judas among us", "ja": "身内の裏切り者" }
+    ],
+    "related": [
+      { "en": "betrayal", "ja": "裏切り" },
+      { "en": "traitor", "ja": "裏切り者" },
+      { "en": "Jesus", "ja": "イエス" },
+      { "en": "apostle", "ja": "使徒" }
+    ],
+    "faq": [
+      { "q": "Judas と Judah の違いは？", "a": "別人です。Judas は新約でイエスを裏切った弟子、Judah は旧約の族長・ユダ王国を指します。綴りも異なります。" },
+      { "q": "Judas kiss とは？", "a": "ユダが接吻の合図でイエスを敵に引き渡した逸話から、「偽りの友好・裏切りの行為」を意味する慣用句です。" }
+    ],
+    "quiz": [
+      { "q": "Judas がイエスを裏切った代償は？", "A": "金貨100枚", "B": "銀貨30枚", "C": "土地", "D": "王位", "correct": "B" },
+      { "q": "a Judas kiss の意味は？", "A": "祝福", "B": "裏切りの行為", "C": "感謝", "D": "和解", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Jesse",
+    "pron": "ˈdʒesi",
+    "kana": "ヂェシー",
+    "hinshi": "固有名詞（人名・聖書）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ヘブライ語 Yishai（贈り物・存在）より",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "聖書・人名"],
+    "meaning_main": "エッサイ（ダビデ王の父）／男性名ジェシー",
+    "description": "Jesse（ヂェシー）は旧約聖書でダビデ王の父エッサイ。「エッサイの木」（キリストの系図）で知られ、陸上のジェシー・オーエンスなど人名でも有名です。",
+    "keywords": ["Jesse 意味", "エッサイ ダビデ", "エッサイの木", "ジェシー・オーエンス"],
+    "meanings": [
+      { "hinshi": "【固有名詞】エッサイ", "note": "旧約でダビデ王の父。キリストの系図の起点とされる。" },
+      { "hinshi": "【固有名詞】男性名ジェシー", "note": "英語圏の男性名。ジェシー・オーエンス、ジェシー・ジェームズなど。" }
+    ],
+    "usages": [
+      { "title": "① ダビデの父エッサイ", "desc": "旧約の人物を指す。", "example_en": "David was the youngest son of Jesse.", "example_ja": "ダビデはエッサイの末子だった。" },
+      { "title": "② 人名としてのジェシー", "desc": "歴史上の人物名として使う。", "example_en": "Jesse Owens won four gold medals in 1936.", "example_ja": "ジェシー・オーエンスは1936年に金メダル4個を獲得した。" }
+    ],
+    "warn": ["「エッサイの木（Tree of Jesse）」はエッサイからキリストに至る系図を樹木で表した図像・美術主題。"],
+    "etym_note": "ヘブライ語 Yishai（「贈り物」「（神は）存在する」などの解釈がある）に由来します。ダビデ、そしてキリストへと続く系図の起点として重要な名です。",
+    "etym_chain": [
+      { "node": "Yishai", "sub": "贈り物・存在", "era": "ヘブライ語" },
+      { "node": "Jesse", "sub": "人名", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "Jesse, father of David", "ja": "ダビデの父エッサイ" },
+      { "en": "the Tree of Jesse", "ja": "エッサイの木" },
+      { "en": "the root of Jesse", "ja": "エッサイの根" },
+      { "en": "Jesse Owens", "ja": "ジェシー・オーエンス" },
+      { "en": "Jesse James", "ja": "ジェシー・ジェームズ" },
+      { "en": "named Jesse", "ja": "ジェシーという名の" }
+    ],
+    "related": [
+      { "en": "David", "ja": "ダビデ（子）" },
+      { "en": "Bethlehem", "ja": "ベツレヘム" },
+      { "en": "genealogy", "ja": "系図" },
+      { "en": "Owens", "ja": "オーエンス（陸上選手）" }
+    ],
+    "faq": [
+      { "q": "エッサイは誰の父？", "a": "イスラエルの王ダビデの父です。ダビデはエッサイの末の息子でした。" },
+      { "q": "「エッサイの木」とは？", "a": "エッサイからキリストに至る系図を、横たわるエッサイから伸びる樹木として描いた美術主題です。" }
+    ],
+    "quiz": [
+      { "q": "Jesse は誰の父？", "A": "ソロモン", "B": "ダビデ", "C": "サウル", "D": "モーセ", "correct": "B" },
+      { "q": "1936年に金メダル4個を取った Jesse は？", "A": "ジェシー・ジェームズ", "B": "ジェシー・オーエンス", "C": "ジェシー・ジャクソン", "D": "ジェシー・エッサイ", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Jeju",
+    "pron": "ˈdʒeɪdʒuː",
+    "kana": "チェジュ",
+    "hinshi": "固有名詞（島）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "朝鮮語「済州（渡し場の州）」より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "地理・観光"],
+    "meaning_main": "済州島（韓国の火山島リゾート）",
+    "description": "Jeju（チェジュ／済州島）は韓国最大の島で火山島。中央にそびえる漢拏山（ハルラ山）や海女文化で知られ、世界自然遺産にも登録された人気リゾートです。",
+    "keywords": ["Jeju 意味", "済州島 韓国", "チェジュ島 観光", "漢拏山 火山島"],
+    "meanings": [
+      { "hinshi": "【固有名詞】済州島（チェジュ島）", "note": "韓国最大の島で火山島。世界自然遺産。韓国の代表的リゾート。" },
+      { "hinshi": "【固有名詞】済州特別自治道", "note": "島全体が特別自治道を構成する。" }
+    ],
+    "usages": [
+      { "title": "① 韓国の火山リゾート島", "desc": "島そのものを指す。", "example_en": "Jeju is a popular resort island south of the Korean Peninsula.", "example_ja": "済州島は朝鮮半島の南にある人気のリゾート島だ。" },
+      { "title": "② 自然遺産としての言及", "desc": "火山地形が評価されている。", "example_en": "Jeju's volcanic landscape is a World Heritage Site.", "example_ja": "済州島の火山地形は世界遺産だ。" }
+    ],
+    "warn": ["英語表記は Jeju だが読みは「チェジュ」に近い。島の中心にある韓国最高峰は漢拏山（Hallasan）。"],
+    "etym_note": "朝鮮語の地名「済州（제주）」の音を英語表記したものです。火山活動で形成された島で、独特の玄武岩地形が広がります。",
+    "etym_chain": [
+      { "node": "済州", "sub": "地名", "era": "朝鮮" },
+      { "node": "Jeju", "sub": "英語表記", "era": "現代" }
+    ],
+    "phrases": [
+      { "en": "Jeju Island", "ja": "済州島" },
+      { "en": "fly to Jeju", "ja": "済州島へ飛ぶ" },
+      { "en": "the haenyeo of Jeju", "ja": "済州の海女" },
+      { "en": "Hallasan on Jeju", "ja": "済州の漢拏山" },
+      { "en": "Jeju's volcanic rocks", "ja": "済州の火山岩" },
+      { "en": "honeymoon in Jeju", "ja": "済州島での新婚旅行" }
+    ],
+    "related": [
+      { "en": "Korea", "ja": "韓国" },
+      { "en": "Hallasan", "ja": "漢拏山（最高峰）" },
+      { "en": "haenyeo", "ja": "海女" },
+      { "en": "volcano", "ja": "火山" }
+    ],
+    "faq": [
+      { "q": "済州島はどこにある？", "a": "朝鮮半島の南方海上にある韓国最大の島です。火山活動で形成されました。" },
+      { "q": "済州島の海女とは？", "a": "素潜りで貝や海藻を採る女性の潜水漁師「海女（ヘニョ）」で、その文化はユネスコ無形文化遺産に登録されています。" }
+    ],
+    "quiz": [
+      { "q": "Jeju はどの国の島？", "A": "日本", "B": "韓国", "C": "中国", "D": "台湾", "correct": "B" },
+      { "q": "済州島の中央にそびえる山は？", "A": "白頭山", "B": "漢拏山", "C": "金剛山", "D": "雪岳山", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Jaffa",
+    "pron": "ˈdʒæfə",
+    "kana": "ヂャファ",
+    "hinshi": "固有名詞（都市・港）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ヘブライ語 Yafo（美しい）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "地理・歴史"],
+    "meaning_main": "ヤッファ（古代からの地中海港町）／ジャファオレンジ",
+    "description": "Jaffa（ヂャファ）は現在のイスラエル・テルアビブの一部をなす古代からの港町ヤッファ。良質なオレンジ「ジャファオレンジ」の名でも知られます。",
+    "keywords": ["Jaffa 意味", "ヤッファ 港町", "テルアビブ ヤッファ", "ジャファオレンジ"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ヤッファ（ヤーフォ）", "note": "地中海に面する古代からの港町。現在はテルアビブと合併。" },
+      { "hinshi": "【固有名詞】ジャファオレンジ", "note": "この地で栽培された良質なオレンジの品種・ブランド名。" }
+    ],
+    "usages": [
+      { "title": "① 古代からの港町", "desc": "歴史的な港を指す。", "example_en": "Jaffa is one of the oldest ports in the world.", "example_ja": "ヤッファは世界で最も古い港の一つだ。" },
+      { "title": "② オレンジの産地", "desc": "ブランド果実として言及される。", "example_en": "Jaffa oranges were once a famous export.", "example_ja": "ジャファオレンジはかつて有名な輸出品だった。" }
+    ],
+    "warn": ["正式には Tel Aviv-Yafo（テルアビブ・ヤーフォ）として一つの市を構成する。旧約の預言者ヨナが船出した港とも伝わる。"],
+    "etym_note": "ヘブライ語 Yafo（「美しい」の意）に由来します。ギリシャ・ラテン語では Joppa とも綴られ、聖書にも登場する古代の港町です。",
+    "etym_chain": [
+      { "node": "Yafo", "sub": "美しい", "era": "ヘブライ語" },
+      { "node": "Joppa/Jaffa", "sub": "港町名", "era": "古代〜" }
+    ],
+    "phrases": [
+      { "en": "the old port of Jaffa", "ja": "ヤッファの古い港" },
+      { "en": "Tel Aviv-Jaffa", "ja": "テルアビブ・ヤッファ" },
+      { "en": "Jaffa oranges", "ja": "ジャファオレンジ" },
+      { "en": "the alleys of Jaffa", "ja": "ヤッファの路地" },
+      { "en": "ancient Jaffa", "ja": "古代ヤッファ" },
+      { "en": "sail from Jaffa", "ja": "ヤッファから船出する" }
+    ],
+    "related": [
+      { "en": "Tel Aviv", "ja": "テルアビブ" },
+      { "en": "Israel", "ja": "イスラエル" },
+      { "en": "Mediterranean", "ja": "地中海" },
+      { "en": "Jonah", "ja": "ヨナ（船出した港）" }
+    ],
+    "faq": [
+      { "q": "ヤッファとテルアビブの関係は？", "a": "古い港町ヤッファと近代都市テルアビブが合併し、現在は「テルアビブ・ヤーフォ」として一つの市を構成しています。" },
+      { "q": "ジャファオレンジとは？", "a": "この地で栽培された種なしで甘い良質なオレンジの品種・ブランドで、かつて主要な輸出品でした。" }
+    ],
+    "quiz": [
+      { "q": "Jaffa は現在どの都市の一部？", "A": "エルサレム", "B": "テルアビブ", "C": "ハイファ", "D": "ガザ", "correct": "B" },
+      { "q": "Jaffa の名で知られる果物は？", "A": "レモン", "B": "オレンジ", "C": "ブドウ", "D": "リンゴ", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Jalisco",
+    "pron": "hɑˈliːskoʊ",
+    "kana": "ハリスコ",
+    "hinshi": "固有名詞（地名）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ナワトル語 Xalixco（砂の表面の地）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "地理・文化"],
+    "meaning_main": "ハリスコ州（メキシコ；テキーラとマリアチの故郷）",
+    "description": "Jalisco（ハリスコ）はメキシコ西部の州。州都グアダラハラを擁し、テキーラ、マリアチ音楽、メキシコらしい文化の発祥地として知られます。",
+    "keywords": ["Jalisco 意味", "ハリスコ州 メキシコ", "テキーラ 産地", "マリアチ 発祥"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ハリスコ州", "note": "メキシコ西部の州。州都はグアダラハラ。" },
+      { "hinshi": "【固有名詞】メキシコ文化の故郷", "note": "テキーラ、マリアチ、チャロ（カウボーイ）文化の発祥地。" }
+    ],
+    "usages": [
+      { "title": "① メキシコ西部の州", "desc": "行政区画を指す。", "example_en": "Jalisco is a state on Mexico's Pacific coast.", "example_ja": "ハリスコはメキシコ太平洋岸の州だ。" },
+      { "title": "② テキーラ・マリアチの故郷", "desc": "文化の発祥地として言及される。", "example_en": "Tequila and mariachi both come from Jalisco.", "example_ja": "テキーラもマリアチもハリスコが発祥だ。" }
+    ],
+    "warn": ["スペイン語読みで J は「ハ」の音、「ハリスコ」と読む。テキーラの町（Tequila）もこの州にある。"],
+    "etym_note": "先住民ナワトル語の Xalixco（「砂の表面の上」の意）に由来します。スペイン語で J の綴りとなり、Jalisco になりました。",
+    "etym_chain": [
+      { "node": "Xalixco", "sub": "砂の表面の地", "era": "ナワトル語" },
+      { "node": "Jalisco", "sub": "州名", "era": "現代スペイン語" }
+    ],
+    "phrases": [
+      { "en": "the state of Jalisco", "ja": "ハリスコ州" },
+      { "en": "Guadalajara, Jalisco", "ja": "ハリスコ州グアダラハラ" },
+      { "en": "tequila from Jalisco", "ja": "ハリスコ産テキーラ" },
+      { "en": "mariachi of Jalisco", "ja": "ハリスコのマリアチ" },
+      { "en": "born in Jalisco", "ja": "ハリスコ生まれ" },
+      { "en": "the coast of Jalisco", "ja": "ハリスコの海岸" }
+    ],
+    "related": [
+      { "en": "Guadalajara", "ja": "グアダラハラ（州都）" },
+      { "en": "Mexico", "ja": "メキシコ" },
+      { "en": "tequila", "ja": "テキーラ" },
+      { "en": "mariachi", "ja": "マリアチ" }
+    ],
+    "faq": [
+      { "q": "Jalisco はどう読む？", "a": "スペイン語では J を「ハ」と発音し、「ハリスコ」と読みます。" },
+      { "q": "Jalisco が発祥のものは？", "a": "蒸留酒テキーラ、マリアチ音楽、チャロ（メキシコのカウボーイ）文化など、メキシコを象徴する文化の多くがハリスコ発祥です。" }
+    ],
+    "quiz": [
+      { "q": "Jalisco はどの国の州？", "A": "スペイン", "B": "メキシコ", "C": "アルゼンチン", "D": "コロンビア", "correct": "B" },
+      { "q": "Jalisco が発祥の蒸留酒は？", "A": "ラム", "B": "テキーラ", "C": "ウォッカ", "D": "ジン", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Janacek",
+    "pron": "ˈjænətʃek",
+    "kana": "ヤナーチェク",
+    "hinshi": "固有名詞（人名）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "チェコ語の姓 Janáček（Jan の指小形）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "音楽・人物"],
+    "meaning_main": "ヤナーチェク（チェコの作曲家）",
+    "description": "Janacek（ヤナーチェク）はチェコを代表する作曲家レオシュ・ヤナーチェク。モラヴィアの民謡や話し言葉の抑揚を生かした独自の音楽で知られます。",
+    "keywords": ["Janacek 意味", "ヤナーチェク 作曲家", "チェコ 音楽", "モラヴィア 民謡"],
+    "meanings": [
+      { "hinshi": "【固有名詞】レオシュ・ヤナーチェク", "note": "チェコ（モラヴィア）の作曲家（1854〜1928）。オペラや管弦楽曲で有名。" },
+      { "hinshi": "【固有名詞】姓 Janáček", "note": "チェコ語圏の姓。Jan（ヤン）の指小形。" }
+    ],
+    "usages": [
+      { "title": "① チェコの作曲家", "desc": "音楽家その人を指す。", "example_en": "Janacek drew on Moravian folk music in his works.", "example_ja": "ヤナーチェクは作品にモラヴィアの民謡を取り入れた。" },
+      { "title": "② 代表作への言及", "desc": "オペラや管弦楽で語られる。", "example_en": "His Sinfonietta is one of Janacek's best-known pieces.", "example_ja": "『シンフォニエッタ』はヤナーチェクの代表作の一つだ。" }
+    ],
+    "warn": ["原語では Leoš Janáček。発音は「ヤナーチェク」でJは Y の音。スメタナ、ドヴォルザークと並ぶチェコ音楽の巨匠。"],
+    "etym_note": "チェコ語の姓 Janáček で、Jan（ヨハネに当たる名）の指小形（「小さなヤン」の意）にあたります。19〜20世紀のチェコ国民楽派を代表する作曲家です。",
+    "etym_chain": [
+      { "node": "Jan", "sub": "ヨハネ（名）", "era": "チェコ語" },
+      { "node": "Janáček", "sub": "小さなヤン（姓）", "era": "チェコ語" }
+    ],
+    "phrases": [
+      { "en": "Leos Janacek", "ja": "レオシュ・ヤナーチェク" },
+      { "en": "Janacek's Sinfonietta", "ja": "ヤナーチェクの『シンフォニエッタ』" },
+      { "en": "Janacek's operas", "ja": "ヤナーチェクのオペラ" },
+      { "en": "Moravian folk songs", "ja": "モラヴィアの民謡" },
+      { "en": "a Janacek quartet", "ja": "ヤナーチェクの四重奏曲" },
+      { "en": "listen to Janacek", "ja": "ヤナーチェクを聴く" }
+    ],
+    "related": [
+      { "en": "Dvorak", "ja": "ドヴォルザーク" },
+      { "en": "Smetana", "ja": "スメタナ" },
+      { "en": "Moravia", "ja": "モラヴィア" },
+      { "en": "composer", "ja": "作曲家" }
+    ],
+    "faq": [
+      { "q": "ヤナーチェクはどこの国の作曲家？", "a": "チェコ（当時のオーストリア＝ハンガリー領モラヴィア地方）の作曲家です。スメタナ、ドヴォルザークに続くチェコ音楽の巨匠です。" },
+      { "q": "Janacek の発音は？", "a": "「ヤナーチェク」です。チェコ語では J を Y の音で読みます。" }
+    ],
+    "quiz": [
+      { "q": "Janacek の職業は？", "A": "画家", "B": "作曲家", "C": "詩人", "D": "建築家", "correct": "B" },
+      { "q": "Janacek の出身国は？", "A": "ポーランド", "B": "チェコ", "C": "ハンガリー", "D": "オーストリア", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Jiangsu",
+    "pron": "dʒjɑːŋˈsuː",
+    "kana": "ヂャンスー",
+    "hinshi": "固有名詞（地名）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "江寧（南京）+ 蘇州の頭字を合わせた省名",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "地理・中国"],
+    "meaning_main": "江蘇省（中国東部の経済先進地域）",
+    "description": "Jiangsu（ヂャンスー／江蘇省）は中国東部の沿海省。省都は南京で、蘇州・無錫など経済的に豊かな都市を擁し、中国有数の先進地域です。",
+    "keywords": ["Jiangsu 意味", "江蘇省 中国", "南京 省都", "蘇州 江蘇"],
+    "meanings": [
+      { "hinshi": "【固有名詞】江蘇省", "note": "中国東部・長江下流の沿海省。省都は南京。" },
+      { "hinshi": "【固有名詞】経済先進地域", "note": "蘇州・無錫など工業・IT産業が発達した豊かな省。" }
+    ],
+    "usages": [
+      { "title": "① 中国東部の省", "desc": "行政区画を指す。", "example_en": "Jiangsu is a coastal province in eastern China.", "example_ja": "江蘇省は中国東部の沿海省だ。" },
+      { "title": "② 経済的に豊かな地域", "desc": "産業・経済の文脈で登場する。", "example_en": "Jiangsu has one of the highest GDPs among Chinese provinces.", "example_ja": "江蘇省は中国の省の中でも屈指のGDPを誇る。" }
+    ],
+    "warn": ["省都は南京（Nanjing）。上海に隣接し、長江デルタ経済圏の中核をなす。蘇州は「東洋のヴェネツィア」と呼ばれる水郷都市。"],
+    "etym_note": "清代に江寧府（現在の南京）の「江」と蘇州府の「蘇」を組み合わせて名付けられた省名です。長江（揚子江）の下流域に位置します。",
+    "etym_chain": [
+      { "node": "江寧 + 蘇州", "sub": "二都市の頭字", "era": "清代" },
+      { "node": "江蘇 / Jiangsu", "sub": "省名", "era": "現代" }
+    ],
+    "phrases": [
+      { "en": "Jiangsu Province", "ja": "江蘇省" },
+      { "en": "Nanjing, capital of Jiangsu", "ja": "江蘇省都の南京" },
+      { "en": "Suzhou in Jiangsu", "ja": "江蘇省の蘇州" },
+      { "en": "the economy of Jiangsu", "ja": "江蘇省の経済" },
+      { "en": "the Yangtze Delta", "ja": "長江デルタ" },
+      { "en": "eastern Jiangsu", "ja": "江蘇省東部" }
+    ],
+    "related": [
+      { "en": "Nanjing", "ja": "南京（省都）" },
+      { "en": "Suzhou", "ja": "蘇州" },
+      { "en": "Shanghai", "ja": "上海（隣接）" },
+      { "en": "Yangtze", "ja": "長江（揚子江）" }
+    ],
+    "faq": [
+      { "q": "江蘇省の省都は？", "a": "南京（Nanjing）です。歴史的にも中国の古都の一つとして知られます。" },
+      { "q": "江蘇省の有名な都市は？", "a": "水郷で「東洋のヴェネツィア」と呼ばれる蘇州、工業都市の無錫、常州などがあり、経済的に豊かな地域です。" }
+    ],
+    "quiz": [
+      { "q": "Jiangsu はどの国の省？", "A": "日本", "B": "中国", "C": "ベトナム", "D": "韓国", "correct": "B" },
+      { "q": "江蘇省の省都は？", "A": "上海", "B": "南京", "C": "蘇州", "D": "杭州", "correct": "B" }
+    ]
+  }
+]
