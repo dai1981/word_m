@@ -1,0 +1,494 @@
+[
+  {
+    "english": "Johnson",
+    "pron": "ˈdʒɒnsən",
+    "kana": "ヂョンソン",
+    "hinshi": "固有名詞（人名）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "英語の父称姓「John の子」より",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "人名"],
+    "meaning_main": "ジョンソン（英語圏で非常に多い姓）",
+    "description": "Johnson（ヂョンソン）は英語圏で最も多い姓の一つ。辞書編纂者サミュエル・ジョンソンや米大統領、英首相など多くの著名人の姓です。",
+    "keywords": ["Johnson 意味", "サミュエル・ジョンソン", "ジョンソン 大統領", "英語 多い姓"],
+    "meanings": [
+      { "hinshi": "【固有名詞】姓ジョンソン", "note": "「John の子」を意味する英語圏の代表的な姓。" },
+      { "hinshi": "【固有名詞】著名なジョンソンたち", "note": "辞書編纂のサミュエル、米大統領のアンドリュー／リンドン、英首相のボリスなど。" }
+    ],
+    "usages": [
+      { "title": "① 辞書編纂者サミュエル・ジョンソン", "desc": "英文学史の人物を指す。", "example_en": "Samuel Johnson compiled a famous English dictionary.", "example_ja": "サミュエル・ジョンソンは有名な英語辞典を編纂した。" },
+      { "title": "② 政治家の姓", "desc": "大統領・首相の姓として使う。", "example_en": "Lyndon Johnson became president in 1963.", "example_ja": "リンドン・ジョンソンは1963年に大統領となった。" }
+    ],
+    "warn": ["非常に多い姓なので、文脈でどの Johnson かを判断する。「John の子」を意味する父称姓。"],
+    "etym_note": "「John（ジョン）の子」を意味する英語の父称姓です。John がありふれた名だったため、Johnson も英語圏で最も一般的な姓の一つになりました。",
+    "etym_chain": [
+      { "node": "John", "sub": "ジョン（名）", "era": "中世" },
+      { "node": "Johnson", "sub": "ジョンの子", "era": "姓の成立" }
+    ],
+    "phrases": [
+      { "en": "Samuel Johnson", "ja": "サミュエル・ジョンソン" },
+      { "en": "Lyndon B. Johnson", "ja": "リンドン・B・ジョンソン" },
+      { "en": "Andrew Johnson", "ja": "アンドリュー・ジョンソン" },
+      { "en": "Boris Johnson", "ja": "ボリス・ジョンソン" },
+      { "en": "Dr. Johnson's dictionary", "ja": "ジョンソン博士の辞書" },
+      { "en": "named Johnson", "ja": "ジョンソンという姓の" }
+    ],
+    "related": [
+      { "en": "John", "ja": "ジョン（元の名）" },
+      { "en": "Jackson", "ja": "ジャクソン（同型の姓）" },
+      { "en": "president", "ja": "大統領" },
+      { "en": "dictionary", "ja": "辞書" }
+    ],
+    "faq": [
+      { "q": "Johnson は誰を指す？", "a": "文脈によります。辞書のサミュエル・ジョンソン、米大統領のアンドリュー／リンドン・ジョンソン、英首相ボリス・ジョンソンなど多数います。" },
+      { "q": "Johnson の語源は？", "a": "「John の子」を意味する父称姓です。John が非常に一般的な名だったため、姓としても広まりました。" }
+    ],
+    "quiz": [
+      { "q": "有名な英語辞典を編纂した Johnson は？", "A": "リンドン", "B": "サミュエル", "C": "アンドリュー", "D": "ボリス", "correct": "B" },
+      { "q": "Johnson の語源は「誰の子」？", "A": "James", "B": "John", "C": "Joseph", "D": "Jacob", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Janus",
+    "pron": "ˈdʒeɪnəs",
+    "kana": "ヤヌス",
+    "hinshi": "固有名詞（神）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ラテン語 Ianus（門・出入口）より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "神話"],
+    "meaning_main": "ヤヌス（ローマ神話の門と始まりの双面神）",
+    "description": "Janus（ヤヌス）はローマ神話で門・出入口と物事の始まりを司る神。前後に二つの顔を持ち、過去と未来を同時に見つめます。1月 January の語源です。",
+    "keywords": ["Janus 意味", "ヤヌス 双面神", "門の神", "January 語源"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ヤヌス", "note": "ローマ神話の門・始まり・変化の神。前後に二つの顔を持つ。" },
+      { "hinshi": "【形容詞的】Janus-faced", "note": "「二面性のある・裏表のある」を表す比喩。" }
+    ],
+    "usages": [
+      { "title": "① 門と始まりの神", "desc": "神そのものを指す。", "example_en": "Janus was the Roman god of doorways and beginnings.", "example_ja": "ヤヌスは門と始まりを司るローマの神だった。" },
+      { "title": "② 二面性の比喩", "desc": "Janus-faced で「裏表のある」を表す。", "example_en": "His Janus-faced policy pleased no one.", "example_ja": "彼の二面的な政策は誰も満足させなかった。" }
+    ],
+    "warn": ["1月 January はヤヌスにちなむ（一年の門＝始まり）。前後の顔で「過去と未来」を象徴する。"],
+    "etym_note": "ラテン語 Ianus（門・出入口）に由来します。物事の入口・始まりを司ることから、一年の入口である1月 January（ラテン語 Ianuarius）の語源になりました。",
+    "etym_chain": [
+      { "node": "ianua", "sub": "門・扉", "era": "ラテン語" },
+      { "node": "Ianus", "sub": "門の神", "era": "ローマ神話" },
+      { "node": "January", "sub": "1月", "era": "派生語" }
+    ],
+    "phrases": [
+      { "en": "the god Janus", "ja": "神ヤヌス" },
+      { "en": "Janus-faced", "ja": "二面性のある" },
+      { "en": "the two faces of Janus", "ja": "ヤヌスの二つの顔" },
+      { "en": "the temple of Janus", "ja": "ヤヌス神殿" },
+      { "en": "Janus and January", "ja": "ヤヌスと1月" },
+      { "en": "looking both ways like Janus", "ja": "ヤヌスのように両方を見る" }
+    ],
+    "related": [
+      { "en": "January", "ja": "1月（語源）" },
+      { "en": "Jupiter", "ja": "ユピテル" },
+      { "en": "Roman mythology", "ja": "ローマ神話" },
+      { "en": "doorway", "ja": "戸口・門" }
+    ],
+    "faq": [
+      { "q": "なぜヤヌスは二つの顔を持つ？", "a": "門は「入る方向」と「出る方向」の両方に開くため、過去と未来を同時に見る象徴として前後に顔を持つとされます。" },
+      { "q": "1月 January と関係ある？", "a": "はい。一年の入口・始まりの月として、門と始まりの神ヤヌス（Janus）にちなんで名付けられました。" }
+    ],
+    "quiz": [
+      { "q": "Janus はどんな神？", "A": "海の神", "B": "門と始まりの神", "C": "戦いの神", "D": "農業の神", "correct": "B" },
+      { "q": "Janus に由来する月は？", "A": "1月", "B": "6月", "C": "7月", "D": "3月", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Jehovah",
+    "pron": "dʒɪˈhoʊvə",
+    "kana": "ヂホーヴァ",
+    "hinshi": "固有名詞（宗教）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "ヘブライ語の神名 YHWH の読み方の一つ",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "宗教"],
+    "meaning_main": "エホバ（旧約聖書における神の名の一表記）",
+    "description": "Jehovah（ヂホーヴァ）は旧約聖書の神の固有名 YHWH をラテン文字化した表記の一つ「エホバ」。ユダヤ・キリスト教における唯一神の名として使われます。",
+    "keywords": ["Jehovah 意味", "エホバ 神の名", "YHWH 読み方", "旧約 神"],
+    "meanings": [
+      { "hinshi": "【固有名詞】エホバ", "note": "旧約聖書の神名 YHWH（テトラグラマトン）の伝統的なラテン文字表記。" },
+      { "hinshi": "【固有名詞】神の名としての用法", "note": "英語圏のキリスト教で神を指す名として用いられる。" }
+    ],
+    "usages": [
+      { "title": "① 旧約の神の名", "desc": "唯一神の固有名として使う。", "example_en": "In some Bibles, God's name is rendered as Jehovah.", "example_ja": "一部の聖書では神の名がエホバと表記される。" },
+      { "title": "② 教派名への言及", "desc": "エホバの証人などの名に含まれる。", "example_en": "Jehovah's Witnesses use this name for God.", "example_ja": "エホバの証人はこの名を神の呼称に用いる。" }
+    ],
+    "warn": ["元のヘブライ語 YHWH は子音のみで母音が伝わらず、Jehovah は後世の読み方の一つ。学術的には Yahweh（ヤハウェ）とも表記される。"],
+    "etym_note": "ヘブライ語の神名 YHWH（テトラグラマトン）に、別語 Adonai の母音を当てて読んだ結果生まれた表記が Jehovah です。同じ神名は Yahweh とも復元されます。",
+    "etym_chain": [
+      { "node": "YHWH", "sub": "神の固有名", "era": "古代ヘブライ語" },
+      { "node": "Jehovah", "sub": "ラテン文字表記", "era": "中世〜" }
+    ],
+    "phrases": [
+      { "en": "the name Jehovah", "ja": "エホバという名" },
+      { "en": "Jehovah's Witnesses", "ja": "エホバの証人" },
+      { "en": "worship Jehovah", "ja": "エホバを礼拝する" },
+      { "en": "Jehovah-Jireh", "ja": "エホバ・エレ（備え給う主）" },
+      { "en": "the God of Israel", "ja": "イスラエルの神" },
+      { "en": "Yahweh or Jehovah", "ja": "ヤハウェまたはエホバ" }
+    ],
+    "related": [
+      { "en": "Yahweh", "ja": "ヤハウェ" },
+      { "en": "YHWH", "ja": "テトラグラマトン" },
+      { "en": "God", "ja": "神" },
+      { "en": "Judaism", "ja": "ユダヤ教" }
+    ],
+    "faq": [
+      { "q": "Jehovah と Yahweh は同じ？", "a": "はい、どちらも同じヘブライ語の神名 YHWH の読み方・復元です。Jehovah は伝統的表記、Yahweh は学術的な復元とされます。" },
+      { "q": "なぜ読み方が確定しないの？", "a": "古代ヘブライ語は子音のみで書かれ、神名の母音が伝えられなかったためです。" }
+    ],
+    "quiz": [
+      { "q": "Jehovah が表すのは？", "A": "預言者の名", "B": "旧約聖書の神の名", "C": "都市名", "D": "天使の名", "correct": "B" },
+      { "q": "Jehovah と同じ神名の学術的表記は？", "A": "Yahweh", "B": "Yeshua", "C": "Elohim のみ", "D": "Adonai のみ", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Jesuit",
+    "pron": "ˈdʒezuɪt",
+    "kana": "ヂェズイット",
+    "hinshi": "固有名詞（宗教・組織）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "Jesus（イエス）+ -it（会員を表す）",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "宗教・歴史"],
+    "meaning_main": "イエズス会士（カトリックの修道会の会員）",
+    "description": "Jesuit（ヂェズイット）はカトリックの修道会「イエズス会（Society of Jesus）」の会員。教育・宣教で知られ、日本に来たフランシスコ・ザビエルもその一人です。",
+    "keywords": ["Jesuit 意味", "イエズス会", "ザビエル 宣教師", "カトリック 修道会"],
+    "meanings": [
+      { "hinshi": "【固有名詞】イエズス会士", "note": "カトリックの修道会イエズス会（1540年設立）の会員。" },
+      { "hinshi": "【形容詞】イエズス会の", "note": "Jesuit school（イエズス会系の学校）など。" }
+    ],
+    "usages": [
+      { "title": "① イエズス会の会員", "desc": "修道会士を指す。", "example_en": "Francis Xavier was a Jesuit missionary.", "example_ja": "フランシスコ・ザビエルはイエズス会の宣教師だった。" },
+      { "title": "② 教育機関への言及", "desc": "イエズス会系の学校を指す。", "example_en": "Many Jesuit universities are known for their academics.", "example_ja": "多くのイエズス会系大学は学術で知られる。" }
+    ],
+    "warn": ["創設者はイグナチオ・デ・ロヨラ。日本にキリスト教を伝えたザビエルもイエズス会士。上智大学などがイエズス会系。"],
+    "etym_note": "会の名 Society of Jesus（イエスの会）にちなみ、Jesus に会員を表す接尾辞が付いて Jesuit となりました。1540年にイグナチオ・デ・ロヨラらが設立しました。",
+    "etym_chain": [
+      { "node": "Jesus", "sub": "イエス", "era": "宗教" },
+      { "node": "Societas Iesu", "sub": "イエスの会", "era": "1540年" },
+      { "node": "Jesuit", "sub": "会員", "era": "現代英語" }
+    ],
+    "phrases": [
+      { "en": "the Jesuit order", "ja": "イエズス会" },
+      { "en": "a Jesuit priest", "ja": "イエズス会の司祭" },
+      { "en": "Jesuit missionaries", "ja": "イエズス会の宣教師" },
+      { "en": "Jesuit education", "ja": "イエズス会の教育" },
+      { "en": "the Society of Jesus", "ja": "イエズス会（正式名）" },
+      { "en": "a Jesuit university", "ja": "イエズス会系大学" }
+    ],
+    "related": [
+      { "en": "Xavier", "ja": "ザビエル" },
+      { "en": "Loyola", "ja": "ロヨラ（創設者）" },
+      { "en": "Catholic", "ja": "カトリック" },
+      { "en": "missionary", "ja": "宣教師" }
+    ],
+    "faq": [
+      { "q": "イエズス会とは？", "a": "1540年にイグナチオ・デ・ロヨラらが設立したカトリックの修道会で、教育と海外宣教に力を注いだことで知られます。" },
+      { "q": "日本と関係ある？", "a": "はい。日本にキリスト教を伝えたフランシスコ・ザビエルはイエズス会士で、上智大学などもイエズス会系です。" }
+    ],
+    "quiz": [
+      { "q": "Jesuit が属するのは何教会？", "A": "正教会", "B": "カトリック教会", "C": "聖公会", "D": "ルター派", "correct": "B" },
+      { "q": "日本に来たイエズス会士は？", "A": "ルター", "B": "ザビエル", "C": "カルヴァン", "D": "ウェスレー", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Juba",
+    "pron": "ˈdʒuːbə",
+    "kana": "ヂューバ",
+    "hinshi": "固有名詞（都市・首都）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "現地の地名に由来",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "地理・首都"],
+    "meaning_main": "ジュバ（南スーダンの首都）",
+    "description": "Juba（ヂューバ）は世界で最も新しい国の一つ、南スーダンの首都。白ナイル沿いに位置し、2011年の独立とともに首都となった若い都市です。",
+    "keywords": ["Juba 意味", "ジュバ 南スーダン", "南スーダン 首都", "白ナイル 都市"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ジュバ", "note": "南スーダン共和国の首都。白ナイル沿岸に位置する。" },
+      { "hinshi": "【固有名詞】最も新しい首都の一つ", "note": "2011年の南スーダン独立に伴い首都となった。" }
+    ],
+    "usages": [
+      { "title": "① 南スーダンの首都", "desc": "首都としての用法。", "example_en": "Juba is the capital of South Sudan.", "example_ja": "ジュバは南スーダンの首都だ。" },
+      { "title": "② 新独立国の中心", "desc": "独立の文脈で登場する。", "example_en": "Juba became a capital when South Sudan gained independence in 2011.", "example_ja": "南スーダンが2011年に独立した際、ジュバは首都となった。" }
+    ],
+    "warn": ["南スーダン（South Sudan）はスーダン（Sudan、首都ハルツーム）から2011年に分離独立した別の国。首都を混同しないこと。"],
+    "etym_note": "現地の地名に由来します。白ナイル沿いに位置し、2011年に南スーダンが独立すると、その首都となりました。",
+    "etym_chain": [
+      { "node": "Juba", "sub": "現地の地名", "era": "以前から" },
+      { "node": "Juba", "sub": "首都", "era": "2011年〜" }
+    ],
+    "phrases": [
+      { "en": "the city of Juba", "ja": "ジュバ市" },
+      { "en": "Juba, South Sudan", "ja": "南スーダンのジュバ" },
+      { "en": "capital of South Sudan", "ja": "南スーダンの首都" },
+      { "en": "on the White Nile", "ja": "白ナイル沿いの" },
+      { "en": "fly to Juba", "ja": "ジュバへ飛ぶ" },
+      { "en": "the streets of Juba", "ja": "ジュバの街路" }
+    ],
+    "related": [
+      { "en": "South Sudan", "ja": "南スーダン" },
+      { "en": "Sudan", "ja": "スーダン（別の国）" },
+      { "en": "White Nile", "ja": "白ナイル" },
+      { "en": "Africa", "ja": "アフリカ" }
+    ],
+    "faq": [
+      { "q": "ジュバはどの国の首都？", "a": "2011年に独立した南スーダン共和国の首都です。世界で最も新しい国の一つです。" },
+      { "q": "スーダンの首都と同じ？", "a": "いいえ。スーダンの首都はハルツーム、南スーダンの首都がジュバです。別々の国の首都です。" }
+    ],
+    "quiz": [
+      { "q": "Juba はどの国の首都？", "A": "スーダン", "B": "南スーダン", "C": "エチオピア", "D": "チャド", "correct": "B" },
+      { "q": "南スーダンが独立した年は？", "A": "1991年", "B": "2001年", "C": "2011年", "D": "2021年", "correct": "C" }
+    ]
+  },
+  {
+    "english": "Jhansi",
+    "pron": "ˈdʒɑːnsi",
+    "kana": "ヂャーンシー",
+    "hinshi": "固有名詞（都市）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "地元の言い伝えに由来する地名",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "地理・歴史"],
+    "meaning_main": "ジャーンシー（インドの都市；抵抗の女王の街）",
+    "description": "Jhansi（ヂャーンシー）はインド中部ウッタル・プラデーシュ州の都市。1857年のインド大反乱で英国に抗した「ジャーンシーの女王」ラクシュミー・バーイーで有名です。",
+    "keywords": ["Jhansi 意味", "ジャーンシー 女王", "インド大反乱 1857", "ラクシュミー・バーイー"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ジャーンシー", "note": "インド中部の都市。堅固な城塞で知られる。" },
+      { "hinshi": "【固有名詞】抵抗の象徴", "note": "1857年の大反乱で英国に抵抗した女王の街として有名。" }
+    ],
+    "usages": [
+      { "title": "① インド中部の城塞都市", "desc": "都市そのものを指す。", "example_en": "Jhansi is known for its historic hilltop fort.", "example_ja": "ジャーンシーは丘の上の歴史的な城塞で知られる。" },
+      { "title": "② 女王の抵抗の物語", "desc": "独立史の文脈で登場する。", "example_en": "The Rani of Jhansi led resistance against the British in 1857.", "example_ja": "ジャーンシーの女王は1857年に英国への抵抗を率いた。" }
+    ],
+    "warn": ["「ジャーンシーの女王（Rani of Jhansi）」ラクシュミー・バーイーは、インド独立運動の英雄として今も敬愛される。"],
+    "etym_note": "地名の由来には地元の言い伝えがあります。ラージプートやマラーター勢力の要衝として栄え、19世紀に女王ラクシュミー・バーイーの抵抗で歴史に名を刻みました。",
+    "etym_chain": [
+      { "node": "Jhansi", "sub": "地名", "era": "中世〜" },
+      { "node": "Jhansi", "sub": "抵抗の街", "era": "19世紀" }
+    ],
+    "phrases": [
+      { "en": "the Rani of Jhansi", "ja": "ジャーンシーの女王" },
+      { "en": "Jhansi Fort", "ja": "ジャーンシー城塞" },
+      { "en": "the city of Jhansi", "ja": "ジャーンシーの街" },
+      { "en": "the siege of Jhansi", "ja": "ジャーンシーの攻囲" },
+      { "en": "Jhansi, Uttar Pradesh", "ja": "ウッタル・プラデーシュ州ジャーンシー" },
+      { "en": "the revolt of 1857", "ja": "1857年の大反乱" }
+    ],
+    "related": [
+      { "en": "India", "ja": "インド" },
+      { "en": "Lakshmibai", "ja": "ラクシュミー・バーイー" },
+      { "en": "Indian Rebellion", "ja": "インド大反乱" },
+      { "en": "Uttar Pradesh", "ja": "ウッタル・プラデーシュ州" }
+    ],
+    "faq": [
+      { "q": "ジャーンシーはなぜ有名？", "a": "1857年のインド大反乱で、英国の支配に抵抗した「ジャーンシーの女王」ラクシュミー・バーイーの街として有名です。" },
+      { "q": "ジャーンシーの女王とは？", "a": "ラクシュミー・バーイーのことで、若くして反乱を率いて戦死し、インド独立運動の英雄として讃えられています。" }
+    ],
+    "quiz": [
+      { "q": "Jhansi はどの国の都市？", "A": "ネパール", "B": "インド", "C": "パキスタン", "D": "バングラデシュ", "correct": "B" },
+      { "q": "ジャーンシーの女王が抵抗した相手は？", "A": "ムガル帝国", "B": "イギリス", "C": "ポルトガル", "D": "フランス", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Jiangxi",
+    "pron": "dʒjɑːŋˈʃiː",
+    "kana": "ヂャンシー",
+    "hinshi": "固有名詞（地名）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "「江南西道」の略に由来する省名",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "地理・中国"],
+    "meaning_main": "江西省（中国南東部；陶磁器と革命史の地）",
+    "description": "Jiangxi（ヂャンシー／江西省）は中国南東部の内陸省。省都は南昌。陶磁器の都・景徳鎮や、中国共産党初期の革命拠点・井崗山で知られます。",
+    "keywords": ["Jiangxi 意味", "江西省 中国", "景徳鎮 陶磁器", "南昌 省都"],
+    "meanings": [
+      { "hinshi": "【固有名詞】江西省", "note": "中国南東部の内陸省。省都は南昌（ナンチャン）。" },
+      { "hinshi": "【固有名詞】陶磁器・革命の地", "note": "陶都・景徳鎮や、革命根拠地・井崗山を擁する。" }
+    ],
+    "usages": [
+      { "title": "① 中国南東部の省", "desc": "行政区画を指す。", "example_en": "Jiangxi is an inland province in southeastern China.", "example_ja": "江西は中国南東部の内陸省だ。" },
+      { "title": "② 陶磁器・革命史の文脈", "desc": "景徳鎮や革命拠点として登場する。", "example_en": "Jingdezhen in Jiangxi is famous for porcelain.", "example_ja": "江西省の景徳鎮は磁器で有名だ。" }
+    ],
+    "warn": ["江蘇省（Jiangsu）と紛らわしいが別の省。江西の省都は南昌、江蘇の省都は南京。"],
+    "etym_note": "唐代の行政区「江南西道」の略に由来する省名です。長江の南（江南）の西部にあたることにちなみます。",
+    "etym_chain": [
+      { "node": "江南西道", "sub": "唐代の行政区", "era": "唐代" },
+      { "node": "江西 / Jiangxi", "sub": "省名", "era": "現代" }
+    ],
+    "phrases": [
+      { "en": "Jiangxi Province", "ja": "江西省" },
+      { "en": "Nanchang, capital of Jiangxi", "ja": "江西省都の南昌" },
+      { "en": "Jingdezhen porcelain", "ja": "景徳鎮の磁器" },
+      { "en": "Jinggang Mountains", "ja": "井崗山" },
+      { "en": "southeastern China", "ja": "中国南東部" },
+      { "en": "the hills of Jiangxi", "ja": "江西の丘陵" }
+    ],
+    "related": [
+      { "en": "Nanchang", "ja": "南昌（省都）" },
+      { "en": "Jingdezhen", "ja": "景徳鎮" },
+      { "en": "Jiangsu", "ja": "江蘇省（別の省）" },
+      { "en": "China", "ja": "中国" }
+    ],
+    "faq": [
+      { "q": "江西省の省都は？", "a": "南昌（ナンチャン）です。中国共産党の武装蜂起（南昌起義）でも知られます。" },
+      { "q": "江西省と江蘇省の違いは？", "a": "別々の省です。江西の省都は南昌、江蘇の省都は南京で、位置も歴史も異なります。" }
+    ],
+    "quiz": [
+      { "q": "Jiangxi の省都は？", "A": "南京", "B": "南昌", "C": "武漢", "D": "長沙", "correct": "B" },
+      { "q": "江西省にある陶磁器で有名な都市は？", "A": "景徳鎮", "B": "蘇州", "C": "杭州", "D": "洛陽", "correct": "A" }
+    ]
+  },
+  {
+    "english": "Jimi",
+    "pron": "ˈdʒɪmi",
+    "kana": "ヂミ",
+    "hinshi": "固有名詞（人名）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "男性名 Jimmy（James の愛称）の異綴り",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "音楽・人物"],
+    "meaning_main": "ジミ（ジミ・ヘンドリックス；伝説的ギタリスト）",
+    "description": "Jimi（ヂミ）は史上最も影響力のあるギタリストとされるジミ・ヘンドリックスの名。革新的な奏法でロック・ギターの表現を一変させた人物です。",
+    "keywords": ["Jimi 意味", "ジミ・ヘンドリックス", "伝説 ギタリスト", "ロック ギター"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ジミ・ヘンドリックス", "note": "アメリカのギタリスト（1942〜1970）。ロック史に残る革新者。" },
+      { "hinshi": "【固有名詞】名 Jimi", "note": "Jimmy（James の愛称）の独特の綴り。" }
+    ],
+    "usages": [
+      { "title": "① 伝説的ギタリスト", "desc": "音楽家その人を指す。", "example_en": "Jimi Hendrix changed the sound of the electric guitar.", "example_ja": "ジミ・ヘンドリックスはエレキギターの音を一変させた。" },
+      { "title": "② 音楽史への言及", "desc": "ロックの革新者として語られる。", "example_en": "Many guitarists cite Jimi as their greatest influence.", "example_ja": "多くのギタリストがジミを最大の影響源に挙げる。" }
+    ],
+    "warn": ["フルネームは Jimi Hendrix。綴りは通常の Jimmy ではなく Jimi。27歳で早世した「27クラブ」の一人。"],
+    "etym_note": "男性名 Jimmy（James の愛称）の独特の綴りです。ジミ・ヘンドリックスの活躍により、この綴りが音楽史に刻まれました。",
+    "etym_chain": [
+      { "node": "James", "sub": "元の名", "era": "英語" },
+      { "node": "Jimmy/Jimi", "sub": "愛称・異綴り", "era": "現代" }
+    ],
+    "phrases": [
+      { "en": "Jimi Hendrix", "ja": "ジミ・ヘンドリックス" },
+      { "en": "the guitar of Jimi", "ja": "ジミのギター" },
+      { "en": "Jimi's solos", "ja": "ジミのソロ" },
+      { "en": "influenced by Jimi", "ja": "ジミに影響を受けた" },
+      { "en": "the Jimi Hendrix Experience", "ja": "ジミ・ヘンドリックス・エクスペリエンス" },
+      { "en": "a Jimi riff", "ja": "ジミのリフ" }
+    ],
+    "related": [
+      { "en": "Hendrix", "ja": "ヘンドリックス（姓）" },
+      { "en": "guitar", "ja": "ギター" },
+      { "en": "rock music", "ja": "ロック音楽" },
+      { "en": "Jimmy", "ja": "ジミー（元の綴り）" }
+    ],
+    "faq": [
+      { "q": "ジミ・ヘンドリックスはなぜ有名？", "a": "フィードバックやワウなどを駆使した革新的な奏法で、エレキギターの表現を根底から変えた伝説的ギタリストだからです。" },
+      { "q": "Jimi の綴りは普通と違う？", "a": "はい。一般的には Jimmy ですが、彼は Jimi という独特の綴りを用いました。" }
+    ],
+    "quiz": [
+      { "q": "Jimi Hendrix の楽器は？", "A": "ピアノ", "B": "ギター", "C": "ドラム", "D": "サックス", "correct": "B" },
+      { "q": "Jimi はどんな音楽で有名？", "A": "クラシック", "B": "ロック", "C": "演歌", "D": "オペラ", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Jansky",
+    "pron": "ˈdʒænski",
+    "kana": "ヤンスキー",
+    "hinshi": "固有名詞（人名・単位）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "チェコ系の姓 Jánský より",
+    "ld_level": "1級",
+    "badges": ["大学生〜", "英検1級", "CEFR C1", "科学・天文"],
+    "meaning_main": "ジャンスキー（電波天文学の父／電波強度の単位）",
+    "description": "Jansky（ヤンスキー）は宇宙から届く電波を初めて捉えたアメリカの技術者カール・ジャンスキー。電波天文学の父とされ、電波の強さの単位「ジャンスキー（Jy）」に名を残します。",
+    "keywords": ["Jansky 意味", "カール・ジャンスキー", "電波天文学の父", "ジャンスキー 単位"],
+    "meanings": [
+      { "hinshi": "【固有名詞】カール・ジャンスキー", "note": "アメリカの技術者（1905〜1950）。宇宙電波を初めて検出した。" },
+      { "hinshi": "【単位】ジャンスキー（Jy）", "note": "電波源の強さ（フラックス密度）を表す単位。彼にちなむ。" }
+    ],
+    "usages": [
+      { "title": "① 電波天文学の父", "desc": "科学者その人を指す。", "example_en": "Jansky discovered radio waves coming from the Milky Way.", "example_ja": "ジャンスキーは天の川から届く電波を発見した。" },
+      { "title": "② 電波強度の単位", "desc": "天文学の単位として使う。", "example_en": "The source has a flux of a few janskys.", "example_ja": "その電波源の強さは数ジャンスキーだ。" }
+    ],
+    "warn": ["単位としての jansky（記号 Jy）は小文字で書く。発音は原音に近く「ヤンスキー」とも「ジャンスキー」とも。"],
+    "etym_note": "チェコ系の姓 Jánský に由来します。カール・ジャンスキーが1930年代に宇宙からの電波を初めて捉え、その功績から電波強度の単位に名が付けられました。",
+    "etym_chain": [
+      { "node": "Jánský", "sub": "チェコ系の姓", "era": "以前から" },
+      { "node": "Jansky", "sub": "人名・単位", "era": "20世紀" }
+    ],
+    "phrases": [
+      { "en": "Karl Jansky", "ja": "カール・ジャンスキー" },
+      { "en": "the father of radio astronomy", "ja": "電波天文学の父" },
+      { "en": "one jansky", "ja": "1ジャンスキー" },
+      { "en": "flux in janskys", "ja": "ジャンスキー単位のフラックス" },
+      { "en": "Jansky's antenna", "ja": "ジャンスキーのアンテナ" },
+      { "en": "cosmic radio waves", "ja": "宇宙電波" }
+    ],
+    "related": [
+      { "en": "radio astronomy", "ja": "電波天文学" },
+      { "en": "flux density", "ja": "フラックス密度" },
+      { "en": "Milky Way", "ja": "天の川" },
+      { "en": "antenna", "ja": "アンテナ" }
+    ],
+    "faq": [
+      { "q": "ジャンスキーは何を発見した？", "a": "1930年代に、宇宙（天の川の方向）から届く電波を初めて検出しました。これが電波天文学の始まりです。" },
+      { "q": "単位のジャンスキーとは？", "a": "電波源の明るさ（フラックス密度）を表す天文学の単位で、記号は Jy です。カール・ジャンスキーにちなみます。" }
+    ],
+    "quiz": [
+      { "q": "Jansky が創始した分野は？", "A": "電波天文学", "B": "遺伝学", "C": "地質学", "D": "気象学", "correct": "A" },
+      { "q": "電波強度の単位ジャンスキーの記号は？", "A": "Hz", "B": "Jy", "C": "Wb", "D": "Sv", "correct": "B" }
+    ]
+  },
+  {
+    "english": "Jacuzzi",
+    "pron": "dʒəˈkuːzi",
+    "kana": "ヂャクージー",
+    "hinshi": "固有名詞（商標・姓）",
+    "ld_pos": "固有名詞",
+    "ld_etym": "イタリア系の姓 Jacuzzi（創業家の名）より",
+    "ld_level": "2級",
+    "badges": ["高校生〜", "英検2級", "CEFR B2", "商標・生活"],
+    "meaning_main": "ジャクージ（気泡風呂の商標／広く泡風呂）",
+    "description": "Jacuzzi（ヂャクージー）は水流と気泡を出す「ジェット付き風呂」の商標。もとはイタリア系の一家の姓で、その名が泡風呂の代名詞として広まりました。",
+    "keywords": ["Jacuzzi 意味", "ジャクージ 風呂", "気泡風呂 英語", "ジェットバス"],
+    "meanings": [
+      { "hinshi": "【固有名詞】ジャクージ（商標）", "note": "水流ジェットで気泡を出す入浴設備のブランド名。" },
+      { "hinshi": "【名詞】(一般化) 泡風呂", "note": "同種のジェット付き浴槽を広く指す語として使われる。" }
+    ],
+    "usages": [
+      { "title": "① 気泡ジェット付きの風呂", "desc": "設備・製品を指す。", "example_en": "The hotel room had a private Jacuzzi.", "example_ja": "そのホテルの部屋には専用のジャクージがあった。" },
+      { "title": "② くつろぎの象徴として", "desc": "リラックスの場面で登場する。", "example_en": "They relaxed in the Jacuzzi after skiing.", "example_ja": "彼らはスキーの後、ジャクージでくつろいだ。" }
+    ],
+    "warn": ["本来は商標。同種の製品は一般に whirlpool bath / hot tub とも呼ぶ。もとはイタリア移民ジャクージ一家の姓。"],
+    "etym_note": "20世紀初頭に米国へ渡ったイタリア系のジャクージ（Jacuzzi）兄弟が水流ポンプを開発し、気泡風呂を商品化しました。その姓が製品名・泡風呂の代名詞になりました。",
+    "etym_chain": [
+      { "node": "Jacuzzi", "sub": "イタリア系の姓", "era": "20世紀初頭" },
+      { "node": "Jacuzzi", "sub": "気泡風呂の商標", "era": "20世紀半ば〜" }
+    ],
+    "phrases": [
+      { "en": "relax in the Jacuzzi", "ja": "ジャクージでくつろぐ" },
+      { "en": "a private Jacuzzi", "ja": "専用のジャクージ" },
+      { "en": "Jacuzzi jets", "ja": "ジャクージの水流噴射" },
+      { "en": "an outdoor Jacuzzi", "ja": "屋外のジャクージ" },
+      { "en": "get into the Jacuzzi", "ja": "ジャクージに入る" },
+      { "en": "a hotel Jacuzzi", "ja": "ホテルのジャクージ" }
+    ],
+    "related": [
+      { "en": "hot tub", "ja": "ホットタブ（泡風呂）" },
+      { "en": "whirlpool bath", "ja": "ジェットバス" },
+      { "en": "spa", "ja": "スパ・湯治場" },
+      { "en": "bath", "ja": "風呂" }
+    ],
+    "faq": [
+      { "q": "Jacuzzi は普通名詞？", "a": "本来は商標（ブランド名）ですが、日常では同種の泡風呂を広く指す語として一般化しています。正式には whirlpool bath や hot tub と呼びます。" },
+      { "q": "名前の由来は？", "a": "米国に移住したイタリア系のジャクージ一家の姓です。彼らが水流ポンプ付きの浴槽を開発しました。" }
+    ],
+    "quiz": [
+      { "q": "Jacuzzi とは何？", "A": "気泡ジェット付きの風呂", "B": "冷蔵庫", "C": "掃除機", "D": "暖炉", "correct": "A" },
+      { "q": "Jacuzzi はもともと何だった？", "A": "山の名", "B": "一家の姓（商標）", "C": "川の名", "D": "神の名", "correct": "B" }
+    ]
+  }
+]
