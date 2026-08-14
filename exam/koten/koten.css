@@ -11,6 +11,9 @@ body{background:var(--k-bg);color:var(--k-ink);
   font-family:-apple-system,BlinkMacSystemFont,"Hiragino Kaku Gothic ProN","Yu Gothic",Meiryo,sans-serif;
   line-height:1.75;}
 
+/* 検索バー（koten-search.js が中に窓を描画） */
+.k-searchbar{margin:2px 0 4px;}
+
 /* パンくず */
 .k-breadcrumb{font-size:.82rem;color:var(--k-sub);padding-top:14px;}
 .k-breadcrumb a{color:var(--k-accent);text-decoration:none;}
