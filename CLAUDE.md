@@ -142,9 +142,9 @@ kanren 2〜4 / faq 2〜3 / quiz 2。`point` と `goro` は受験生に刺さる�
 
 ### 出力先・固定値
 - 出力: `exam/koten/{id}.html`（実サイトの `/exam/koten/` に対応）
-- canonical: `/exam/koten/{id}.html`
+- canonical: `https://www.eigo-duke.com/exam/koten/{id}.html`
 - ハブ: `/exam/kotenindex`（**既存。生成・上書きしない**。各ページからリンクのみ）
-- GA4: `G-MKNGEYPKNJ`、AdSense: `ca-pub-3234684892462480`、JSON-LD set URL: `https://eigo-duke.com/exam/kotenindex`
+- GA4: `G-MKNGEYPKNJ`、AdSense: `ca-pub-3234684892462480`、JSON-LD set URL: `https://www.eigo-duke.com/exam/kotenindex`
 - ページ用資産: `exam/koten/koten.css`・`exam/koten/koten.js`（手動管理の静的ファイル）
 
 ## 注意
