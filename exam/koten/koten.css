@@ -1,0 +1,112 @@
+/* 古文単語辞典 ページ用スタイル（大学受験向け・モバイルファースト） */
+:root{
+  --k-bg:#f7f4ee; --k-card:#fffdf8; --k-ink:#2b2620; --k-sub:#6f665a;
+  --k-line:#e7ddcd; --k-accent:#7c5c2e; --k-accent2:#a8843f;
+  --k-max:#c0392b; --k-high:#d68910; --k-std:#5b8a72; --k-adv:#5b6bbf;
+  --k-honbun:#3a3128; --k-goro:#8a5a00; --k-goro-bg:#fff6dd;
+  --k-point:#8a2f22; --k-point-bg:#fdeeeb;
+}
+.k-wrap,.k-breadcrumb{max-width:760px;margin:0 auto;padding:0 14px;}
+body{background:var(--k-bg);color:var(--k-ink);
+  font-family:-apple-system,BlinkMacSystemFont,"Hiragino Kaku Gothic ProN","Yu Gothic",Meiryo,sans-serif;
+  line-height:1.75;}
+
+/* パンくず */
+.k-breadcrumb{font-size:.82rem;color:var(--k-sub);padding-top:14px;}
+.k-breadcrumb a{color:var(--k-accent);text-decoration:none;}
+.k-breadcrumb a:hover{text-decoration:underline;}
+.k-bc-sep{margin:0 .3em;color:var(--k-line);}
+.k-bc-cur{color:var(--k-ink);}
+
+/* 見出しカード */
+.k-title-card{background:linear-gradient(135deg,#fffdf8,#f3ead8);
+  border:1px solid var(--k-line);border-radius:16px;padding:20px 20px 18px;margin:14px 0 18px;
+  box-shadow:0 4px 18px rgba(124,92,46,.08);}
+.k-title-row{display:flex;align-items:center;gap:12px;flex-wrap:wrap;}
+.k-midashi{font-family:"Hiragino Mincho ProN","Yu Mincho",serif;
+  font-size:2.4rem;font-weight:700;margin:0;letter-spacing:.02em;color:var(--k-ink);}
+.k-level{font-size:.74rem;font-weight:700;color:#fff;border-radius:999px;padding:3px 12px;white-space:nowrap;}
+.k-level-max{background:var(--k-max);} .k-level-high{background:var(--k-high);}
+.k-level-std{background:var(--k-std);} .k-level-adv{background:var(--k-adv);}
+.k-kana{font-size:.9rem;color:var(--k-sub);margin-top:8px;}
+.k-hinshi{display:inline-block;margin-top:8px;font-size:.82rem;color:var(--k-accent);
+  border:1px solid var(--k-accent2);border-radius:8px;padding:2px 10px;}
+.k-tags{margin-top:10px;display:flex;flex-wrap:wrap;gap:6px;}
+.k-tag{font-size:.72rem;background:#efe6d4;color:var(--k-accent);border-radius:6px;padding:3px 9px;}
+.k-core{margin:14px 0 0;font-size:1.06rem;font-weight:600;color:var(--k-ink);
+  background:#fbf6ea;border-left:4px solid var(--k-accent2);border-radius:0 8px 8px 0;padding:10px 14px;}
+
+/* 汎用カード */
+.k-card{background:var(--k-card);border:1px solid var(--k-line);border-radius:14px;
+  padding:16px 18px;margin:0 0 16px;box-shadow:0 2px 10px rgba(124,92,46,.05);}
+.k-card-label{display:inline-block;font-size:.95rem;font-weight:700;margin:0 0 12px;
+  color:var(--k-accent);border-bottom:2px solid var(--k-line);padding-bottom:4px;}
+
+/* 意味 */
+.k-meaning-list{list-style:none;margin:0;padding:0;}
+.k-meaning-list li{display:flex;gap:12px;padding:9px 0;border-bottom:1px dashed var(--k-line);}
+.k-meaning-list li:last-child{border-bottom:none;}
+.k-mnum{flex:0 0 auto;width:26px;height:26px;border-radius:50%;background:var(--k-accent);
+  color:#fff;font-size:.82rem;font-weight:700;display:flex;align-items:center;justify-content:center;}
+.k-mbody{display:flex;flex-direction:column;}
+.k-gendai{font-weight:700;font-size:1.02rem;}
+.k-note{font-size:.9rem;color:var(--k-sub);margin-top:2px;}
+
+/* 例文 */
+.k-ex{margin:0 0 14px;padding:0;}
+.k-ex:last-child{margin-bottom:0;}
+.k-honbun{font-family:"Hiragino Mincho ProN","Yu Mincho",serif;font-size:1.1rem;
+  color:var(--k-honbun);background:#faf5ea;border-left:4px solid var(--k-accent2);
+  border-radius:0 8px 8px 0;padding:12px 14px;margin:0;line-height:2;}
+.k-yaku{margin:8px 0 2px;font-size:.96rem;}
+.k-yaku-label{display:inline-block;font-size:.7rem;font-weight:700;color:#fff;background:var(--k-std);
+  border-radius:5px;padding:1px 7px;margin-right:8px;vertical-align:middle;}
+.k-shutten{margin:0;font-size:.82rem;color:var(--k-sub);text-align:right;}
+
+/* 識別・注意点 */
+.k-point{background:var(--k-point-bg);border-color:#f0cfc8;}
+.k-lb-point{color:var(--k-point);border-color:#f0cfc8;}
+.k-point-text{margin:0;font-size:.97rem;}
+
+/* ゴロ */
+.k-goro{background:var(--k-goro-bg);border-color:#f0e0b0;}
+.k-lb-goro{color:var(--k-goro);border-color:#f0e0b0;}
+.k-goro-text{margin:0;font-size:1.02rem;font-weight:600;color:var(--k-goro);}
+
+.k-gogen-text{margin:0;font-size:.95rem;color:var(--k-ink);}
+
+/* 関連語チップ */
+.k-chips{display:flex;flex-wrap:wrap;gap:8px;}
+.k-chip{display:flex;flex-direction:column;text-decoration:none;background:#f3ead8;
+  border:1px solid var(--k-line);border-radius:10px;padding:8px 12px;min-width:96px;color:var(--k-ink);}
+a.k-chip:hover{background:#ece0c8;border-color:var(--k-accent2);}
+.k-chip-go{font-weight:700;font-family:"Hiragino Mincho ProN","Yu Mincho",serif;}
+.k-chip-imi{font-size:.78rem;color:var(--k-sub);margin-top:2px;}
+
+/* FAQ */
+.k-faq-item{padding:10px 0;border-bottom:1px dashed var(--k-line);}
+.k-faq-item:last-child{border-bottom:none;}
+.k-q{font-weight:700;margin:0 0 4px;color:var(--k-accent);}
+.k-a{margin:0;font-size:.94rem;color:var(--k-ink);}
+
+/* クイズ */
+.k-quiz-q{margin-bottom:16px;}
+.k-quiz-stem{font-size:.98rem;margin-bottom:10px;}
+.k-quiz-choices{display:flex;gap:8px;flex-wrap:wrap;}
+.k-quiz-choice{width:44px;height:44px;border-radius:10px;border:2px solid var(--k-line);
+  background:#fff;font-weight:700;cursor:pointer;transition:.15s;}
+.k-quiz-choice:hover{border-color:var(--k-accent2);}
+.k-quiz-choice.correct{background:var(--k-std);color:#fff;border-color:var(--k-std);}
+.k-quiz-choice.wrong{background:var(--k-max);color:#fff;border-color:var(--k-max);}
+.k-quiz-feedback{margin-top:8px;font-size:.9rem;font-weight:700;min-height:1.2em;}
+
+/* 戻る */
+.k-back{text-align:center;margin:6px 0 18px;}
+.k-back-btn{display:inline-block;text-decoration:none;background:var(--k-accent);color:#fff;
+  border-radius:999px;padding:10px 22px;font-size:.92rem;font-weight:700;}
+.k-back-btn:hover{background:var(--k-accent2);color:#fff;}
+
+@media (max-width:480px){
+  .k-midashi{font-size:2rem;}
+  .k-honbun{font-size:1.02rem;}
+}

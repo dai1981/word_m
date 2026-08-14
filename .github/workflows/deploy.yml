@@ -20,7 +20,10 @@ jobs:
       - name: HTML を生成（data/*.json -> word/word/*.html）
         run: python3 generate.py
 
-      - name: ロリポップへ FTP アップロード
+      - name: 古典HTMLを生成（koten_data/*.json -> exam/koten/*.html）
+        run: python3 generate_koten.py
+
+      - name: ロリポップへ FTP アップロード（英単語 /word/word/）
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
           server:   ftp.lolipop.jp
@@ -30,3 +33,14 @@ jobs:
           local-dir: ./word/word/
           server-dir: /word/word/
           state-name: .ftp-deploy-r.json   # ★r-専用の状態ファイル（s-とは別名）
+
+      - name: ロリポップへ FTP アップロード（古典 /exam/koten/）
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server:   ftp.lolipop.jp
+          username: lolipop.jp-dp07302908
+          password: 2021eigoduke
+          protocol: ftps
+          local-dir: ./exam/koten/
+          server-dir: /exam/koten/
+          state-name: .ftp-deploy-koten.json  # ★古典専用の状態ファイル（英単語・kotenindexとは別名）
