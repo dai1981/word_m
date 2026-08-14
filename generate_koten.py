@@ -4,17 +4,19 @@
 古文・古典 用語集ジェネレータ（英単語系 generate.py とは独立）
 
   koten_data/*.json  ->  exam/koten/{id}.html
-  さらに exam/koten/_links_snippet.html（既存 kotenindex へ貼るリンク集）を出力。
+  併せて次も出力:
+    exam/koten/koten-index.json   … 検索用インデックス（koten-search.js が読む）
+    exam/koten/_links_snippet.html … 既存 kotenindex へ貼るリンク集
 
-- ハブページ /exam/kotenindex は « 既存 » なので生成・上書きしない。
-- 各ページは /exam/kotenindex へ相互リンク（パンくず＋一覧へ戻る）。
+- ハブページ /exam/kotenindex.html は « 既存 » なので生成・上書きしない。
+- 各ページは /exam/kotenindex.html へ相互リンク（パンくず＋一覧へ戻る）＋検索窓を設置。
 - 依存なし（標準ライブラリのみ）。
 """
 import json, html, os, glob
 
 OUT = "exam/koten"
 SITE = "https://www.eigo-duke.com"
-INDEX_PATH = "/exam/kotenindex"          # 既存ハブ（相対リンク用）
+INDEX_PATH = "/exam/kotenindex.html"     # 既存ハブ（相対リンク用）
 INDEX_URL = SITE + INDEX_PATH            # JSON-LD 用の絶対URL
 SET_NAME = "古文単語辞典"
 GA = "G-MKNGEYPKNJ"
@@ -168,6 +170,7 @@ def build(d):
 '<div id="header" style="min-height:40px"></div>\n\n'
 '<nav class="k-breadcrumb" aria-label="パンくずリスト">\n'
 '  <a href="%s">古文単語索引</a> <span class="k-bc-sep">＞</span> <span class="k-bc-cur">%s</span>\n</nav>\n\n'
+'<div class="k-searchbar"><div id="koten-search"></div></div>\n\n'
 '<main class="k-wrap">\n\n'
 '  <header class="k-title-card">\n    <div class="k-title-row">\n      <h1 class="k-midashi">%s</h1>\n'
 '      <span class="k-level k-level-%s">%s</span>\n    </div>\n'
@@ -182,6 +185,7 @@ def build(d):
 '  <script>(adsbygoogle=window.adsbygoogle||[]).push({});</script>\n\n'
 '</main>\n\n<div id="footer"></div>\n\n'
 '<script src="/exam/koten/koten.js"></script>\n'
+'<script src="/exam/koten/koten-search.js"></script>\n'
 '<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" crossorigin="anonymous"></script>\n'
 '<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" crossorigin="anonymous"></script>\n'
 '</body>\n</html>\n'
@@ -233,6 +237,23 @@ def write_links_snippet(words):
         f.write("\n".join(parts) + "\n")
 
 
+def write_search_index(words):
+    """検索用インデックス（koten-search.js が fetch する）。五十音順。"""
+    idx = []
+    for d in sorted(words, key=lambda x: x.get("yomi", x["id"])):
+        idx.append({
+            "id": d["id"],
+            "midashi": d["midashi"],
+            "yomi": d.get("yomi", ""),
+            "kana": d.get("gendai_kana", ""),
+            "core": d.get("core", ""),
+            "level": d.get("level", ""),
+            "means": [m.get("gendai", "") for m in d.get("meanings", [])],
+        })
+    with open(os.path.join(OUT, "koten-index.json"), "w", encoding="utf-8") as f:
+        json.dump(idx, f, ensure_ascii=False, separators=(",", ":"))
+
+
 if __name__ == "__main__":
     os.makedirs(OUT, exist_ok=True)
     words = load_words()
@@ -249,6 +270,7 @@ if __name__ == "__main__":
         made.append(os.path.basename(p))
     if words:
         write_links_snippet(words)
+        write_search_index(words)
     print(f"{len(made)} ページを生成しました -> {OUT}/")
     for n in made:
         print("  ", n)

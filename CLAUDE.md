@@ -143,9 +143,12 @@ kanren 2〜4 / faq 2〜3 / quiz 2。`point` と `goro` は受験生に刺さる�
 ### 出力先・固定値
 - 出力: `exam/koten/{id}.html`（実サイトの `/exam/koten/` に対応）
 - canonical: `https://www.eigo-duke.com/exam/koten/{id}.html`
-- ハブ: `/exam/kotenindex`（**既存。生成・上書きしない**。各ページからリンクのみ）
+- ハブ: `/exam/kotenindex.html`（**既存。生成・上書きしない**。各ページからリンク＋検索窓で連携）
 - GA4: `G-MKNGEYPKNJ`、AdSense: `ca-pub-3234684892462480`、JSON-LD set URL: `https://www.eigo-duke.com/exam/kotenindex`
-- ページ用資産: `exam/koten/koten.css`・`exam/koten/koten.js`（手動管理の静的ファイル）
+- ページ用資産: `exam/koten/koten.css`・`exam/koten/koten.js`・`exam/koten/koten-search.js`（手動管理の静的ファイル）
+- 検索: `generate_koten.py` が `exam/koten/koten-index.json` を自動生成。各ページ上部と
+  `kotenindex.html` に `<div id="koten-search"></div>`＋`koten-search.js` を置けば全語検索が可能
+  （見出し・現代仮名遣い・読み・意味で部分一致 → `/exam/koten/{id}.html` へ遷移）
 
 ## 注意
 - `id` は半角英数で一意に（重複禁止。ローマ字読みが基本、衝突時は語義で区別）。
