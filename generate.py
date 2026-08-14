@@ -4,7 +4,8 @@ import json, html, os, zipfile
 
 OUT = "word/word"
 GA = "G-MKNGEYPKNJ"
-LD_SET_URL = "https://eigo-duke.com/word/word.html"
+SITE = "https://www.eigo-duke.com"
+LD_SET_URL = "https://www.eigo-duke.com/word/word.html"
 
 SPK = ('<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">'
        '<path d="M3 9v6h4l5 5V4L7 9H3z"/>'
@@ -134,7 +135,7 @@ def build(d):
 '<title>%s の意味・使い方・語源・例文 | 英単語辞書</title>\n'
 '<meta name="description" content="%s">\n'
 '<meta name="keywords" content="%s">\n'
-'<link rel="canonical" href="/word/word/%s.html">\n'
+'<link rel="canonical" href="https://www.eigo-duke.com/word/word/%s.html">\n'
 '<meta property="og:type" content="article">\n'
 '<meta property="og:title" content="%s の意味・使い方・語源・例文 | 英単語辞書">\n'
 '<meta property="og:description" content="%s">\n'

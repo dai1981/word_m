@@ -13,7 +13,7 @@
 import json, html, os, glob
 
 OUT = "exam/koten"
-SITE = "https://eigo-duke.com"
+SITE = "https://www.eigo-duke.com"
 INDEX_PATH = "/exam/kotenindex"          # 既存ハブ（相対リンク用）
 INDEX_URL = SITE + INDEX_PATH            # JSON-LD 用の絶対URL
 SET_NAME = "古文単語辞典"
@@ -34,7 +34,8 @@ def build(d):
     kw    = ea("，".join(d.get("keywords", [])))
     lvl   = d.get("level", "")
     lvlc  = LEVEL_CLASS.get(lvl, "std")
-    canon = "/exam/koten/%s.html" % wid
+    path  = "/exam/koten/%s.html" % wid
+    canon = SITE + path
 
     # --- JSON-LD: DefinedTerm ---
     ld_term = {
@@ -54,7 +55,7 @@ def build(d):
         "@context": "https://schema.org", "@type": "BreadcrumbList",
         "itemListElement": [
             {"@type": "ListItem", "position": 1, "name": "古文単語索引", "item": INDEX_URL},
-            {"@type": "ListItem", "position": 2, "name": d["midashi"], "item": SITE + canon},
+            {"@type": "ListItem", "position": 2, "name": d["midashi"], "item": canon},
         ],
     }
     # --- JSON-LD: FAQPage ---
