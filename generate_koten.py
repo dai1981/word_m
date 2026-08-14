@@ -178,7 +178,7 @@ def build(d):
 '    <p class="k-core">%s</p>\n  </header>\n\n'
 '  <section class="k-card">\n    <h2 class="k-card-label k-lb-meaning">📖 意味</h2>\n    <ol class="k-meaning-list">\n%s\n    </ol>\n  </section>\n\n'
 '%s%s%s%s%s%s%s'
-'  <div class="k-back">\n    <a href="%s" class="k-back-btn">← 古文単語一覧へ戻る</a>\n  </div>\n\n'
+'  <div class="k-back">\n    <a href="%s" class="k-back-btn">← 古文・古典合格メニューへもどる</a>\n  </div>\n\n'
 '  <ins class="adsbygoogle" style="display:block" data-ad-format="autorelaxed" data-ad-client="%s" data-ad-slot="3522844244"></ins>\n'
 '  <script>(adsbygoogle=window.adsbygoogle||[]).push({});</script>\n\n'
 '</main>\n\n<div id="footer"></div>\n\n'
