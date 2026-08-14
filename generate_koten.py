@@ -168,8 +168,6 @@ def build(d):
 'window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag("js",new Date());gtag("config","%s");\n</script>\n'
 '</head>\n<body>\n\n'
 '<div id="header" style="min-height:40px"></div>\n\n'
-'<nav class="k-breadcrumb" aria-label="パンくずリスト">\n'
-'  <a href="%s">古文単語索引</a> <span class="k-bc-sep">＞</span> <span class="k-bc-cur">%s</span>\n</nav>\n\n'
 '<div class="k-searchbar"><div id="koten-search"></div></div>\n\n'
 '<main class="k-wrap">\n\n'
 '  <header class="k-title-card">\n    <div class="k-title-row">\n      <h1 class="k-midashi">%s</h1>\n'
@@ -195,7 +193,6 @@ def build(d):
         json.dumps(ld_bc, ensure_ascii=False, indent=2),
         ld_faq_block,
         GA, ADSENSE, GA,
-        INDEX_PATH, mid,
         mid, lvlc, e(lvl),
         e(d.get("gendai_kana", "")), e(d.get("yomi", "")),
         e(d.get("hinshi", "")), tags, e(d.get("core", "")),
