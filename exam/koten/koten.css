@@ -7,7 +7,10 @@
   --k-point:#8a2f22; --k-point-bg:#fdeeeb;
 }
 .k-wrap,.k-breadcrumb{max-width:760px;margin:0 auto;padding:0 14px;}
-body{background:var(--k-bg);color:var(--k-ink);
+/* 背景色のみ body に適用。フォント・行間は #header(headermaster/Bootstrap navbar)へ
+   漏れて .nav-link の高さや hm-top の1行固定を崩さないよう、本文 .k-wrap に限定する。 */
+body{background:var(--k-bg);color:var(--k-ink);}
+.k-wrap{
   font-family:-apple-system,BlinkMacSystemFont,"Hiragino Kaku Gothic ProN","Yu Gothic",Meiryo,sans-serif;
   line-height:1.75;}
 
