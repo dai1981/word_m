@@ -37,6 +37,18 @@
 
 /* ---------- 5. ハブ（kanbunindex.html）---------- */
 body.kanbun-index{background:#f7f4ec;font-family:"Noto Serif JP",system-ui,-apple-system,"Hiragino Kaku Gothic ProN",Meiryo,sans-serif;}
+
+/* ---------- ★ ヘッダー保護（#header = headermaster の共通ナビ）----------
+   ハブは body.kanbun-index に "Noto Serif JP" を当てるため、その書体が
+   #header 内のナビ（Bootstrap navbar）へ継承され、.nav-link 等の文字が
+   大きく／太く見える不具合が出る。koten は「フォント・行間は本文(.k-wrap)に
+   限定し #header へ漏らさない」方針（exam/koten/koten.css 参照）。
+   漢文も同方針に合わせ、#header だけサイト共通のサンセリフに戻す
+   （font-size / line-height は Bootstrap・mainstyle に任せ、ここでは触らない）。 */
+#header,#header *{
+  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Hiragino Kaku Gothic ProN","Yu Gothic",Meiryo,sans-serif;
+  letter-spacing:normal;
+}
 .kanbun-banner{max-width:980px;width:100%;margin:8px auto 0;background:#4a1f1f;color:#fff;font-size:18px;font-weight:700;border-radius:12px 12px 0 0;text-align:center;padding:8px 6px;line-height:1.5;}
 .kanbun-banner .hl{color:#ffe08a;font-weight:900;}
 .kanbun-frame{max-width:980px;margin:0 auto;border:3px solid #4a1f1f;border-top:none;border-radius:0 0 10px 10px;padding:18px 12px 10px;}
