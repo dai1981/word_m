@@ -178,7 +178,8 @@ h1.kanbun-banner{line-height:1.5;}
 body.kanbun-dict{background:var(--k-bg);color:var(--k-ink);}
 .kanbun-dict .k-wrap{max-width:760px;margin:0 auto;padding:0 14px;
   font-family:-apple-system,BlinkMacSystemFont,"Hiragino Kaku Gothic ProN","Yu Gothic",Meiryo,sans-serif;line-height:1.75;}
-.kanbun-dict .k-searchbar{margin:2px 0 4px;}
+/* 検索窓の余白：辞書ページ・ハブ(kanbunindex)の両方で効くよう無スコープ（koten.css と同じ） */
+.k-searchbar{margin:2px 0 4px;}
 
 .kanbun-dict .k-title-card{background:linear-gradient(135deg,#ffffff,#f2e7dc);
   border:1px solid var(--k-line);border-radius:16px;padding:20px 20px 18px;margin:14px 0 18px;
