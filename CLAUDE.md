@@ -1,15 +1,18 @@
-# eigo-duke コンテンツ生成キット（2系統）
+# eigo-duke コンテンツ生成キット（3系統）
 
-このリポジトリは、次の **2系統** のページを量産します。どちらも `python3` の生成スクリプトで
+このリポジトリは、次の **3系統** のページを量産します。どれも `python3` の生成スクリプトで
 JSON → HTML を作り、GitHub Actions からロリポップへFTPアップロードします。
 
 | 系統 | データ | 生成スクリプト | 出力先 / 実サイト |
 |------|--------|----------------|-------------------|
 | ① 英単語（r-） | `data/*.json` | `generate.py` | `word/word/{単語}.html` → `/word/word/` |
 | ② 古文単語 | `koten_data/*.json` | `generate_koten.py` | `exam/koten/{id}.html` → `/exam/koten/` |
+| ③ 漢文用語 | `kanbun_data/*.json` | `generate_kanbun.py` | `exam/kanbun/{id}.html` → `/exam/kanbun/` |
 
-「**次の10単語**」と言われたら、直近で作業している系統のバッチを1つ作ります。
-系統を切り替えたいときはユーザーが明示します（例:「次は古文にしよう」）。
+「**次の10単語**」「**次の20**」と言われたら、直近で作業している系統のバッチを1つ作ります。
+系統を切り替えたいときはユーザーが明示します（例:「次は古文にしよう」「次は漢文にしよう」）。
+デプロイはそれぞれ独立（`.ftp-deploy-koten.json` / `.ftp-deploy-kanbun.json` の別 state、
+`/exam/koten/`・`/exam/kanbun/` へアップロードのみ）で、互いに触りません。
 
 ---
 
@@ -157,3 +160,83 @@ kanren 2〜4 / faq 2〜3 / quiz 2。`point` と `goro` は受験生に刺さる�
 - ハブ `kotenindex` は既存を尊重し、リンク追加は `_links_snippet.html` を貼る運用。
 - デプロイは `/exam/koten/` へアップロードのみ（別 state ファイル `.ftp-deploy-koten.json`）。
   `/exam/kotenindex` や他の `/exam` 配下は触らない。
+
+---
+
+# ③ 漢文用語辞典 生成キット（大学受験向け）
+
+**漢文の重要用語**（句法・再読文字・助字・重要語・故事成語 など）の詳細ページを
+`exam/kanbun/{id}.html` に量産し、ハブページ `/exam/kanbunindex` からリンクさせます。
+対象読者は **大学受験生**。②古文と完全並列で、同じ「分かりやすい・覚えやすい・
+情報量が多い・SEO/AIに強い」ページを目指します。
+
+## 使い方（Claude への指示）
+
+> **次の20**
+
+このとき Claude が行うこと:
+
+1. 既存の `kanbun_data/*.json` を見て、**まだ作っていない漢文重要用語**を20個決める
+2. 新しいバッチを `kanbun_data/kanbun-batchN.json` として下記スキーマで作成
+3. `python3 generate_kanbun.py` を実行して `exam/kanbun/*.html` を生成
+4. 生成された HTML と追加した JSON をコミット
+5. `exam/kanbun/_links_snippet.html`（自動生成）を確認し、既存 `kanbunindex` へ貼るリンクを知らせる
+
+### 1バッチの配分（バランス型）
+句法・再読文字を軸に、助字・重要語（多義/特殊訓）・故事成語をまぜて20項目。
+目安: 句法7／再読文字4／助字3／重要語3／故事成語3（ジャンルは `bunrui` と `tags` で分類）。
+再読文字は9字（未・将・且・当・応・宜・須・猶・盍）を最優先で網羅。
+
+## データのスキーマ（1項目 = 1オブジェクト・②古文ベース＋漢文用に拡張）
+
+```json
+{
+  "id": "shieki",                       // 半角英数のファイル名/URL（例: exam/kanbun/shieki.html）
+  "midashi": "使・令（使役）",             // 見出し（句形／漢字／故事成語）
+  "yomi": "しム／〜をして…しむ",           // 読み方（訓読）
+  "kana": "シエキ",                      // 検索用カナ（gendai_kana相当）
+  "bunrui": "句法",                      // 分類: 句法/再読文字/助字/重要語/故事成語/文学史
+  "level": "最重要",                     // 入試頻出度: 最重要 / 重要 / 標準 / 発展
+  "tags": ["使役","句形","頻出"],
+  "core": "AをしてB(せ)しむ＝AにBさせる",   // 一言コア
+  "description": "meta description (70〜120字)",
+  "keywords": ["使役 漢文","使 しむ 意味"],
+  "meanings": [{ "gendai": "現代語訳・用法", "note": "補足" }],
+  "examples": [{                         // ★白文→書き下し→訳→出典 の3段（漢文の要）
+      "hakubun": "天帝使我長百獣",         // 白文（原文・返り点なし）
+      "kakikudashi": "天帝我をして百獣に長たら使む", // 書き下し文（訓読）
+      "yaku": "天の神は、私を百獣の王とさせた。",
+      "shutten": "戦国策"                 // 出典（確かなもの。不確かなら「例文」）
+  }],
+  "kunten": "返り点・送り仮名・読む順序のポイント（訓読）", // ★漢文用の新フィールド
+  "point": "識別・注意点（句形の見分け、置き字か読むか、再読の読み方）",
+  "goro": "覚え方・ゴロ",
+  "gogen": "由来・成り立ち（故事成語は元の故事／漢字の成り立ち）",
+  "kanren": [{ "go": "見・被（受身）", "imi": "AがBされる", "id": "ukemi(任意:あればリンク化)" }],
+  "faq": [{ "q": "質問", "a": "回答" }],
+  "quiz": [{ "q": "問題文", "A": "..","B": "..","C": "..","D": "..","correct": "A" }]
+}
+```
+
+### 推奨の分量
+meanings 1〜4 / examples 1〜2（**白文・書き下し・訳・出典をそろえる**。史記・戦国策・論語・孟子・
+韓非子・荀子・漢書 など。出典が不確かなら `shutten:"例文"`）/ kanren 2〜4 / faq 1〜3 / quiz 1〜2。
+`point`・`kunten`・`goro` は受験生に刺さる要なので特に丁寧に。
+
+### 出力先・固定値
+- 出力: `exam/kanbun/{id}.html`（実サイトの `/exam/kanbun/` に対応）
+- canonical: `https://www.eigo-duke.com/exam/kanbun/{id}.html`
+- ハブ: `/exam/kanbunindex.html`（**生成・上書きしない**。各ページからリンク＋検索窓で連携）
+- GA4: `G-MKNGEYPKNJ`、AdSense: `ca-pub-3234684892462480`
+- ページ用資産: `exam/kanbun/kanbun.css`・`exam/kanbun/kanbun.js`・`exam/kanbun/kanbun-search.js`（手動管理）
+- 検索: `generate_kanbun.py` が `exam/kanbun/kanbun-index.json` を自動生成。各ページ上部と
+  `kanbunindex.html` に `<div id="kanbun-search"></div>`＋`kanbun-search.js` を置けば全語検索が可能。
+
+## 注意
+- `id` は半角英数で一意に（重複禁止。ローマ字読み・語義が基本、衝突時は区別）。
+- `kanbun_data/*.json` は追記式。過去バッチは消さないこと。
+- **出典・白文・書き下しは正確に**。返り点/送り仮名・作品名の取り違えに注意（公開前に目視確認）。
+- 白文・書き下しにローマ字を混入しない（説明中の A/B などの記号は可）。
+- ハブ `kanbunindex` は既存を尊重し、リンク追加は `_links_snippet.html` を貼る運用。
+- デプロイは `/exam/kanbun/` へアップロードのみ（別 state ファイル `.ftp-deploy-kanbun.json`、
+  ワークフロー `.github/workflows/deploy-kanbun.yml`）。`/exam/kanbunindex` や他の `/exam` 配下は触らない。
