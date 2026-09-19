@@ -186,7 +186,7 @@ def build(d):
 '<script src="/common/js/common.js"></script>\n'
 '<script>\n$(function(){ $("#header").load("/headermaster.html",function(){viewauth();}); setTimeout(function(){$("#footer").load("/footer.html");},1200); });\n'
 'window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag("js",new Date());gtag("config","%s");\n</script>\n'
-'</head>\n<body>\n\n'
+'</head>\n<body class="kanbun-page kanbun-dict">\n\n'
 '<div id="header" style="min-height:40px"></div>\n\n'
 '<div class="k-searchbar"><div id="kanbun-search"></div></div>\n\n'
 '<main class="k-wrap">\n\n'

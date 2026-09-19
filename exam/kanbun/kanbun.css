@@ -1,133 +1,284 @@
-/* 漢文用語辞典 ページ用スタイル（大学受験向け・モバイルファースト）
-   古文(koten.css)と同じ k-* クラスを使用。配色は「藍＋朱」の漢籍テイスト。 */
-:root{
-  --k-bg:#f4f5f8; --k-card:#ffffff; --k-ink:#22272e; --k-sub:#5f6b78;
-  --k-line:#dbe1ea; --k-accent:#35507a; --k-accent2:#5878a8;
-  --k-max:#c0392b; --k-high:#c77a1a; --k-std:#3f8f6e; --k-adv:#5b6bbf;
-  --k-honbun:#2a3340; --k-goro:#8a5a00; --k-goro-bg:#fff6dd;
+@charset "UTF-8";
+/* =====================================================================
+   漢文セクション共通CSS  /exam/kanbun/kanbun.css
+   読み込み先：kanbunindex.html / kanbun.html / kanbun1〜12.html / kanbunword.html
+   ・body に class="kanbun-page" を付けたページだけに効く指定は .kanbun-page で囲む
+   ===================================================================== */
+
+/* ---------- 1. 訓点（横書き）：字の右上＝送り仮名、右下＝返り点 ----------
+   HTML例：<span class="kbn"><span class="kbc">読<span class="kbs"><span class="ok">ム</span><span class="kt">レ</span></span></span>…</span>
+   ・再読文字の2回目の送り仮名は .kt の中に返り点より前に書く（例：<span class="kt">ズレ</span>）
+   ・問題文(question)・選択肢(answer1〜4)・解答後の訳(answer2_wrong)で使用可
+   ・bunporemark / remark はテキスト表示される箇所があるのでタグ禁止 */
+.kbn{font-family:"Hiragino Mincho ProN","Yu Mincho","Noto Serif JP",serif;font-size:1.3em;line-height:1.9;letter-spacing:.02em;}
+.kbc{display:inline-flex;align-items:center;white-space:nowrap;line-height:1.1;vertical-align:middle;}
+.kbs{display:inline-flex;flex-direction:column;justify-content:space-between;height:2.5em;font-size:.48em;line-height:1;margin:0 .1em 0 .03em;min-width:.5em;}
+.kbs .ok{color:#444;}
+.kbs .kt{color:#b0271c;font-weight:700;}
+.kbn .oki{color:#999;}                 /* 置き字を薄く見せたいときに .kbc に追加 */
+.kaki{font-family:"Hiragino Mincho ProN","Yu Mincho","Noto Serif JP",serif;} /* 書き下し文 */
+
+/* ---------- 2. 音声（漢文ではTTSを使わない）---------- */
+.kanbun-page .quiz-autosound,
+.kanbun-page .quiz-soundfull img[src*="speaker"],
+.kanbun-page .tangotable .btn5{display:none !important;}
+.kanbun-page .quiz-soundfull{cursor:default !important;}
+
+/* ---------- 3. 単語ページ（kanbun.html）の導入文 ---------- */
+.kanbun-intro{max-width:973px;margin:0 auto 8px;text-align:left;font-weight:normal;color:#243;}
+.kanbun-intro .kanbun-lead{font-size:15px;line-height:1.9;margin:0 0 16px;}
+.kanbun-intro .kanbun-lead b{color:#006633;}
+.kanbun-intro .kanbun-h2{font-size:17px;font-weight:800;color:#006633;margin:18px 0 8px;padding-bottom:6px;border-bottom:2px solid #bfe3c4;}
+.kanbun-intro p{font-size:14.5px;line-height:1.85;margin:0 0 12px;}
+.kanbun-intro .kanbun-ex{margin:0 0 12px;padding-left:1.2em;}
+.kanbun-intro .kanbun-ex li{font-size:14.5px;line-height:1.8;margin-bottom:5px;}
+.kanbun-intro .kanbun-ex b{color:#0A7F3A;}
+
+
+/* ---------- 5. ハブ（kanbunindex.html）---------- */
+body.kanbun-index{background:#f7f4ec;font-family:"Noto Serif JP",system-ui,-apple-system,"Hiragino Kaku Gothic ProN",Meiryo,sans-serif;}
+.kanbun-banner{max-width:980px;width:100%;margin:8px auto 0;background:#4a1f1f;color:#fff;font-size:18px;font-weight:700;border-radius:12px 12px 0 0;text-align:center;padding:8px 6px;line-height:1.5;}
+.kanbun-banner .hl{color:#ffe08a;font-weight:900;}
+.kanbun-frame{max-width:980px;margin:0 auto;border:3px solid #4a1f1f;border-top:none;border-radius:0 0 10px 10px;padding:18px 12px 10px;}
+a.kb-card-link{display:block;max-width:640px;margin:0 auto 18px;text-decoration:none;color:#6b2f2f;}
+a.kb-card-link:hover{text-decoration:none;opacity:.96;}
+.simple-card{padding:14px 20px;border-radius:14px;background:#fff;color:#6b2f2f;box-shadow:0 6px 16px rgba(0,0,0,.08);text-align:center;cursor:pointer;}
+.simple-card h2{font-size:22px;font-weight:800;margin:0 0 8px;letter-spacing:.02em;}
+.simple-card p{margin:0 0 12px;color:#7a6a5f;font-size:14px;}
+.simple-card__cta{display:inline-block;padding:10px 26px;border-radius:999px;font-size:16px;font-weight:800;background:#006633;color:#fff;user-select:none;}
+
+.kb-toc{background:#fff7ad;color:#000;border:2px solid #e8d87a;border-radius:14px;padding:12px 14px;margin:14px auto;max-width:860px;box-shadow:0 6px 14px rgba(0,0,0,.06);}
+.kb-toc-title{font-weight:900;font-size:18px;margin-bottom:8px;}
+.kb-toc a{display:inline-block;margin:6px 6px 0 0;padding:8px 12px;border-radius:999px;border:1px solid #cdbf9a;background:#fff;color:#000;font-weight:800;font-size:14px;text-decoration:none;}
+.kb-toc a:hover{background:#fffbe0;text-decoration:none;}
+.kb-toc small{display:block;font-size:12px;color:#333;margin-top:6px;}
+
+.kb-practice-head{max-width:860px;margin:18px auto;background:#fff;border:2px solid #e8e2d8;border-radius:14px;padding:16px;box-shadow:0 6px 14px rgba(0,0,0,.04);scroll-margin-top:90px;}
+.kb-practice-head h2{margin:0 0 6px;font-size:22px;font-weight:900;color:#000;}
+.kb-practice-head p{margin:0;line-height:1.7;}
+.kb-topics{max-width:860px;margin:0 auto;display:grid;grid-template-columns:1fr;gap:0 16px;}
+@media (min-width:768px){.kb-topics{grid-template-columns:1fr 1fr;}.kb-topics .kb-topic.wide{grid-column:1 / -1;}}
+a.kb-topic{display:block;position:relative;text-decoration:none;color:#3b2b22;background:#fff;border:1px solid #e8e2d8;border-radius:12px;padding:14px 116px 14px 14px;margin:6px 0;box-shadow:0 4px 10px rgba(0,0,0,.04);transition:box-shadow .15s,border-color .15s;}
+a.kb-topic:hover{text-decoration:none;box-shadow:0 8px 16px rgba(0,0,0,.08);border-color:#c9b9a3;}
+a.kb-topic .num{display:inline-block;background:#ead9c3;color:#6b2f2f;font-weight:800;font-size:12px;padding:2px 8px;border-radius:999px;margin-right:6px;}
+a.kb-topic small{display:block;color:#7a6a5f;font-weight:600;margin-top:4px;}
+a.kb-topic .cta{position:absolute;right:12px;top:50%;transform:translateY(-50%);padding:6px 10px;border-radius:999px;background:#f6f1e8;color:#6b2f2f;font-weight:800;font-size:12px;border:1px solid #e8e2d8;}
+a.kb-topic:hover .cta{background:#0C9108;color:#fff;}
+
+.kb-section{max-width:860px;margin:16px auto 0;color:#000;background:#fff;border:1px solid #e8e2d8;border-radius:12px;padding:18px;scroll-margin-top:90px;text-align:left;}
+.kb-section h2{font-size:20px;font-weight:900;margin:0 0 10px;color:#4a1f1f;}
+.kb-section h3{font-size:16px;font-weight:800;margin:16px 0 6px;color:#4a1f1f;}
+.kb-section p{line-height:1.9;margin:0 0 10px;font-size:15px;}
+.kb-section .must{color:#c00;}
+.kb-app{max-width:980px;margin:24px auto 0;border-radius:10px;background:lightyellow;color:#006633;text-align:center;padding:14px 8px;}
+.kb-back{display:block;max-width:860px;margin:16px auto;height:40px;line-height:25px;}
+
+/* h1 化したバナー（見た目はバナーのまま） */
+h1.kanbun-banner{line-height:1.5;}
+.kb-table .kbn{font-size:1.15em;}
+
+/* =====================================================================
+   解説ブロック／FAQ／関連ページ／作成者表示（古文・漢文で同じ内容）
+   ※ koten.css と kanbun.css の両方に同じものを入れている。直すときは両方直す
+   ===================================================================== */
+
+/* ---------- 解説ブロック ---------- */
+.kb-lesson{max-width:760px;margin:10px auto 24px;padding:0 12px;text-align:left;color:#222;font-weight:normal;}
+.kb-lesson h1{font-size:21px;font-weight:900;color:#006633;margin:6px 0 4px;}
+.kb-lesson h2{font-size:17px;font-weight:800;color:#006633;margin:22px 0 8px;padding-bottom:6px;border-bottom:2px solid #bfe3c4;}
+.kb-lesson h3{font-size:15.5px;font-weight:800;color:#14571f;margin:16px 0 6px;}
+.kb-lesson p{font-size:14.5px;line-height:1.9;margin:0 0 10px;}
+.kb-lesson .kb-lead{font-size:15px;}
+.kb-box{background:#fff;border:1px solid #e8e2d8;border-radius:12px;padding:12px 14px;margin:10px 0;box-shadow:0 4px 10px rgba(0,0,0,.04);}
+.kb-box .kb-label{display:inline-block;font-size:12px;font-weight:800;color:#fff;background:#6b2f2f;border-radius:999px;padding:2px 10px;margin-bottom:6px;}
+.kb-row{margin:4px 0;font-size:14.5px;line-height:1.9;}
+.kb-row .kb-k{display:inline-block;min-width:6em;font-size:12px;font-weight:700;color:#6b2f2f;}
+.kb-table-wrap{overflow-x:auto;-webkit-overflow-scrolling:touch;margin:8px 0;}
+.kb-table{width:100%;border-collapse:collapse;background:#fff;font-size:14px;}
+.kb-table th{background:#6b2f2f;color:#fff;font-weight:700;padding:7px 8px;text-align:left;}
+.kb-table td{border-top:1px solid #efe9df;padding:8px;vertical-align:top;line-height:1.7;}
+.kb-table .kb-sec td{background:#faf7f2;font-weight:700;}
+@media (max-width:480px){.kb-table{font-size:13px;}.kb-table th,.kb-table td{padding:6px 5px;}}
+.kb-steps{margin:0 0 10px;padding-left:1.4em;}
+.kb-steps li{font-size:14.5px;line-height:1.85;margin-bottom:6px;}
+.kb-note{font-size:12.5px;color:#666;}
+
+/* ---------- 作成者・更新日 ---------- */
+.ex-byline{font-size:12px;color:#6f665a;margin:0 0 12px;}
+.ex-byline time{color:#6f665a;}
+
+/* ---------- FAQ ---------- */
+.ex-faq{max-width:760px;margin:20px auto;text-align:left;padding:0 12px;font-weight:normal;}
+.ex-faq h2{font-size:17px;font-weight:800;color:#006633;margin:0 0 10px;padding-bottom:6px;border-bottom:2px solid #bfe3c4;}
+.ex-faq details{background:#fff;border:1px solid #d6e4da;border-radius:10px;margin-bottom:9px;padding:2px 14px;}
+.ex-faq summary{font-size:14.5px;font-weight:700;color:#14571f;padding:11px 0;cursor:pointer;}
+.ex-faq .ex-a{font-size:14px;line-height:1.85;color:#334;padding:0 0 12px;}
+
+/* ---------- 関連ページ（静的リンク：クローラーにもサイト構造を伝える） ---------- */
+.ex-related{max-width:760px;margin:18px auto 8px;padding:0 12px;text-align:left;font-weight:normal;}
+.ex-related h2{font-size:17px;font-weight:800;color:#006633;margin:0 0 10px;padding-bottom:6px;border-bottom:2px solid #bfe3c4;}
+.ex-pn{display:flex;gap:8px;margin:0 0 12px;}
+.ex-pn a{flex:1;display:block;background:#fff;border:1px solid #e8e2d8;border-radius:10px;padding:10px 12px;text-decoration:none;color:#3b2b22;font-size:14px;line-height:1.5;}
+.ex-pn a:hover{border-color:#c9b9a3;text-decoration:none;box-shadow:0 4px 10px rgba(0,0,0,.06);}
+.ex-pn a small{display:block;font-size:11px;color:#7a6a5f;font-weight:700;}
+.ex-pn .ex-next{text-align:right;}
+.ex-pn span.ex-empty{flex:1;}
+.ex-links{list-style:none;margin:0 0 10px;padding:0;display:grid;grid-template-columns:1fr;gap:6px;}
+@media (min-width:600px){.ex-links{grid-template-columns:1fr 1fr;}}
+.ex-links li a{display:block;background:#fff;border:1px solid #e8e2d8;border-radius:8px;padding:8px 10px;font-size:13.5px;color:#3b2b22;text-decoration:none;line-height:1.5;}
+.ex-links li a:hover{border-color:#c9b9a3;text-decoration:none;}
+.ex-links li a[aria-current="page"]{background:#f3ead8;font-weight:700;pointer-events:none;}
+.ex-related h3{font-size:14.5px;font-weight:800;color:#14571f;margin:12px 0 6px;}
+
+
+/* =====================================================================
+   アイコン行（ユーザー／コイン帯／プレゼント／勉強法）の位置合わせ
+   ・アイコンの img は position:absolute だが top 指定が無く、静的位置で
+     置かれるため左右で 17px ほど縦にずれていた。
+   ・#messagebar（コイン帯）は margin:12px 0 0 37px で右下にずれていた。
+   ・#messageclose（プレゼント）は帯の下にはみ出していた。
+   ・コインの絵と数字はベースライン揃えで 3px ずれていた。
+   ・.mb-5 にアイコン分の高さ(60px)を持たせ、下の余白を上とそろえる。
+   ※ fukidashi.css は変更しない。詳細度と読み込み順でこちらが優先される
+   ※ koten.css と kanbun.css の両方に同じものを入れている。直すときは両方直す
+   ===================================================================== */
+.quiz_area .mb-5{ position:relative; height:60px; margin-bottom:0 !important; }
+/* アイコンの下の余白を上とそろえる（44px→22px）。
+   吹き出しの箱は中身が隠れているので詰めてよい */
+.quiz_area .mb-5 + .popup-wrapper{ height:10px !important; }
+
+.quiz_area .mb-5 > #user img{ top:0; left:0 !important; }
+.quiz_area .mb-5 > .open-btn img{ top:1px; right:0 !important; margin-left:0 !important; }
+
+/* コイン帯：ユーザーアイコンの中心（幅60pxの半分＝30px）から始める */
+.quiz_area .mb-5 > #messagebar{ top:30px; left:30px; margin:0; transform:translateY(-50%); }
+/* コインの絵と数字を横並びで上下中央にそろえる */
+.quiz_area .mb-5 > #messagebar > #coin{ display:inline-flex; align-items:center; gap:2px; }
+.quiz_area .mb-5 > #messagebar > #coin img{ margin:0 !important; }
+/* プレゼントアイコン：帯の上下中央に置く。line-height/font-size を 0 にして
+   ラベル由来の余分な行の高さ(6px)を消さないと中心が 3px ずれる */
+.quiz_area .mb-5 > #messagebar > #present{ top:50%; transform:translateY(-50%); line-height:0; font-size:0; }
+.quiz_area .mb-5 > #messagebar #messageclose{ position:static !important; margin:0 !important; display:block; }
+
+/* =====================================================================
+   ★ 漢文用語辞典ページ（generate_kanbun.py が生成）用スタイル
+   ・body に class="kanbun-page kanbun-dict" が付く。辞書ページ限定の指定は
+     .kanbun-dict で囲み、既存のハブ/講義ページに影響しないようにする。
+   ・クラスは k-*（既存の kb-* / ex-* / kanbun-* とは衝突しない）。
+   ・配色は既存漢文セクションに合わせて「朱(#6b2f2f/#b0271c)＋緑(#006633)」。
+   ===================================================================== */
+.kanbun-dict{
+  --k-bg:#f7f4ec; --k-card:#ffffff; --k-ink:#2b2620; --k-sub:#6f665a;
+  --k-line:#e6ddce; --k-accent:#6b2f2f; --k-accent2:#4a1f1f; --k-green:#006633;
+  --k-max:#c0392b; --k-high:#c77a1a; --k-std:#006633; --k-adv:#4a1f1f;
+  --k-haku:#b0271c; --k-haku-bg:#fbf1ef; --k-kaki:#4a1f1f; --k-kaki-bg:#f6efe6;
+  --k-kunten:#1f6f8b; --k-kunten-bg:#e9f5f8; --k-goro:#8a5a00; --k-goro-bg:#fff6dd;
   --k-point:#8a2f22; --k-point-bg:#fdeeeb;
-  --k-haku:#b03a2e; --k-haku-bg:#fbf1ef; --k-kaki:#35507a; --k-kaki-bg:#eef2f8;
-  --k-kunten:#1f6f8b; --k-kunten-bg:#e9f5f8;
 }
-.k-wrap,.k-breadcrumb{max-width:760px;margin:0 auto;padding:0 14px;}
-/* 背景色のみ body に適用。フォント・行間は #header へ漏れないよう本文 .k-wrap に限定。 */
-body{background:var(--k-bg);color:var(--k-ink);}
-.k-wrap{
-  font-family:-apple-system,BlinkMacSystemFont,"Hiragino Kaku Gothic ProN","Yu Gothic",Meiryo,sans-serif;
-  line-height:1.75;}
+body.kanbun-dict{background:var(--k-bg);color:var(--k-ink);}
+.kanbun-dict .k-wrap{max-width:760px;margin:0 auto;padding:0 14px;
+  font-family:-apple-system,BlinkMacSystemFont,"Hiragino Kaku Gothic ProN","Yu Gothic",Meiryo,sans-serif;line-height:1.75;}
+.kanbun-dict .k-searchbar{margin:2px 0 4px;}
 
-/* 検索バー（kanbun-search.js が中に窓を描画） */
-.k-searchbar{margin:2px 0 4px;}
-
-/* パンくず */
-.k-breadcrumb{font-size:.82rem;color:var(--k-sub);padding-top:14px;}
-.k-breadcrumb a{color:var(--k-accent);text-decoration:none;}
-.k-breadcrumb a:hover{text-decoration:underline;}
-.k-bc-sep{margin:0 .3em;color:var(--k-line);}
-.k-bc-cur{color:var(--k-ink);}
-
-/* 見出しカード */
-.k-title-card{background:linear-gradient(135deg,#ffffff,#e9eef6);
+.kanbun-dict .k-title-card{background:linear-gradient(135deg,#ffffff,#f2e7dc);
   border:1px solid var(--k-line);border-radius:16px;padding:20px 20px 18px;margin:14px 0 18px;
-  box-shadow:0 4px 18px rgba(53,80,122,.10);}
-.k-title-row{display:flex;align-items:center;gap:12px;flex-wrap:wrap;}
-.k-midashi{font-family:"Hiragino Mincho ProN","Yu Mincho",serif;
-  font-size:2.3rem;font-weight:700;margin:0;letter-spacing:.02em;color:var(--k-ink);}
-.k-level{font-size:.74rem;font-weight:700;color:#fff;border-radius:999px;padding:3px 12px;white-space:nowrap;}
-.k-level-max{background:var(--k-max);} .k-level-high{background:var(--k-high);}
-.k-level-std{background:var(--k-std);} .k-level-adv{background:var(--k-adv);}
-.k-kana{font-size:.9rem;color:var(--k-sub);margin-top:8px;}
-.k-hinshi{display:inline-block;margin-top:8px;font-size:.82rem;color:var(--k-accent);
-  border:1px solid var(--k-accent2);border-radius:8px;padding:2px 10px;}
-.k-tags{margin-top:10px;display:flex;flex-wrap:wrap;gap:6px;}
-.k-tag{font-size:.72rem;background:#e6ecf5;color:var(--k-accent);border-radius:6px;padding:3px 9px;}
-.k-core{margin:14px 0 0;font-size:1.06rem;font-weight:600;color:var(--k-ink);
-  background:#eef2f8;border-left:4px solid var(--k-accent2);border-radius:0 8px 8px 0;padding:10px 14px;}
+  box-shadow:0 4px 18px rgba(74,31,31,.10);}
+.kanbun-dict .k-title-row{display:flex;align-items:center;gap:12px;flex-wrap:wrap;}
+.kanbun-dict .k-midashi{font-family:"Hiragino Mincho ProN","Yu Mincho","Noto Serif JP",serif;
+  font-size:2.1rem;font-weight:700;margin:0;letter-spacing:.02em;color:var(--k-accent2);}
+.kanbun-dict .k-level{font-size:.74rem;font-weight:700;color:#fff;border-radius:999px;padding:3px 12px;white-space:nowrap;}
+.kanbun-dict .k-level-max{background:var(--k-max);} .kanbun-dict .k-level-high{background:var(--k-high);}
+.kanbun-dict .k-level-std{background:var(--k-std);} .kanbun-dict .k-level-adv{background:var(--k-adv);}
+.kanbun-dict .k-kana{font-size:.9rem;color:var(--k-sub);margin-top:8px;}
+.kanbun-dict .k-hinshi{display:inline-block;margin-top:8px;font-size:.82rem;color:var(--k-green);
+  border:1px solid #9ecbb0;border-radius:8px;padding:2px 10px;}
+.kanbun-dict .k-tags{margin-top:10px;display:flex;flex-wrap:wrap;gap:6px;}
+.kanbun-dict .k-tag{font-size:.72rem;background:#efe6d4;color:var(--k-accent);border-radius:6px;padding:3px 9px;}
+.kanbun-dict .k-core{margin:14px 0 0;font-size:1.06rem;font-weight:600;color:var(--k-ink);
+  background:#f6efe6;border-left:4px solid var(--k-accent);border-radius:0 8px 8px 0;padding:10px 14px;}
 
-/* 汎用カード */
-.k-card{background:var(--k-card);border:1px solid var(--k-line);border-radius:14px;
-  padding:16px 18px;margin:0 0 16px;box-shadow:0 2px 10px rgba(53,80,122,.06);}
-.k-card-label{display:inline-block;font-size:.95rem;font-weight:700;margin:0 0 12px;
+.kanbun-dict .k-card{background:var(--k-card);border:1px solid var(--k-line);border-radius:14px;
+  padding:16px 18px;margin:0 0 16px;box-shadow:0 2px 10px rgba(74,31,31,.05);}
+.kanbun-dict .k-card-label{display:inline-block;font-size:.95rem;font-weight:700;margin:0 0 12px;
   color:var(--k-accent);border-bottom:2px solid var(--k-line);padding-bottom:4px;}
 
-/* 意味 */
-.k-meaning-list{list-style:none;margin:0;padding:0;}
-.k-meaning-list li{display:flex;gap:12px;padding:9px 0;border-bottom:1px dashed var(--k-line);}
-.k-meaning-list li:last-child{border-bottom:none;}
-.k-mnum{flex:0 0 auto;width:26px;height:26px;border-radius:50%;background:var(--k-accent);
+.kanbun-dict .k-meaning-list{list-style:none;margin:0;padding:0;}
+.kanbun-dict .k-meaning-list li{display:flex;gap:12px;padding:9px 0;border-bottom:1px dashed var(--k-line);}
+.kanbun-dict .k-meaning-list li:last-child{border-bottom:none;}
+.kanbun-dict .k-mnum{flex:0 0 auto;width:26px;height:26px;border-radius:50%;background:var(--k-accent);
   color:#fff;font-size:.82rem;font-weight:700;display:flex;align-items:center;justify-content:center;}
-.k-mbody{display:flex;flex-direction:column;}
-.k-gendai{font-weight:700;font-size:1.02rem;}
-.k-note{font-size:.9rem;color:var(--k-sub);margin-top:2px;}
+.kanbun-dict .k-mbody{display:flex;flex-direction:column;}
+.kanbun-dict .k-gendai{font-weight:700;font-size:1.02rem;}
+.kanbun-dict .k-note{font-size:.9rem;color:var(--k-sub);margin-top:2px;}
 
 /* 例文（白文→書き下し→訳） */
-.k-ex{margin:0 0 16px;padding:0;}
-.k-ex:last-child{margin-bottom:0;}
-.k-ex-label{display:inline-block;font-size:.68rem;font-weight:700;color:#fff;
+.kanbun-dict .k-ex{margin:0 0 16px;padding:0;}
+.kanbun-dict .k-ex:last-child{margin-bottom:0;}
+.kanbun-dict .k-ex-label{display:inline-block;font-size:.68rem;font-weight:700;color:#fff;
   border-radius:5px;padding:1px 7px;margin-right:8px;vertical-align:middle;}
-.k-lbl-haku{background:var(--k-haku);}
-.k-lbl-kaki{background:var(--k-kaki);}
-.k-hakubun{font-family:"Hiragino Mincho ProN","Yu Mincho",serif;font-size:1.12rem;
-  color:var(--k-honbun);background:var(--k-haku-bg);border-left:4px solid var(--k-haku);
+.kanbun-dict .k-lbl-haku{background:var(--k-haku);}
+.kanbun-dict .k-lbl-kaki{background:var(--k-kaki);}
+.kanbun-dict .k-hakubun{font-family:"Hiragino Mincho ProN","Yu Mincho","Noto Serif JP",serif;font-size:1.12rem;
+  color:#2a3340;background:var(--k-haku-bg);border-left:4px solid var(--k-haku);
   border-radius:0 8px 8px 0;padding:11px 14px;margin:0 0 6px;line-height:2;letter-spacing:.04em;}
-.k-kakikudashi{font-family:"Hiragino Mincho ProN","Yu Mincho",serif;font-size:1.06rem;
-  color:var(--k-honbun);background:var(--k-kaki-bg);border-left:4px solid var(--k-kaki);
+.kanbun-dict .k-kakikudashi{font-family:"Hiragino Mincho ProN","Yu Mincho","Noto Serif JP",serif;font-size:1.06rem;
+  color:#2a3340;background:var(--k-kaki-bg);border-left:4px solid var(--k-kaki);
   border-radius:0 8px 8px 0;padding:11px 14px;margin:0 0 6px;line-height:2;}
-.k-yaku{margin:6px 0 2px;font-size:.96rem;}
-.k-yaku-label{display:inline-block;font-size:.7rem;font-weight:700;color:#fff;background:var(--k-std);
+.kanbun-dict .k-yaku{margin:6px 0 2px;font-size:.96rem;}
+.kanbun-dict .k-yaku-label{display:inline-block;font-size:.7rem;font-weight:700;color:#fff;background:var(--k-green);
   border-radius:5px;padding:1px 7px;margin-right:8px;vertical-align:middle;}
-.k-shutten{margin:0;font-size:.82rem;color:var(--k-sub);text-align:right;}
+.kanbun-dict .k-shutten{margin:0;font-size:.82rem;color:var(--k-sub);text-align:right;}
 
 /* 訓読のポイント */
-.k-kunten{background:var(--k-kunten-bg);border-color:#bfe2ea;}
-.k-lb-kunten{color:var(--k-kunten);border-color:#bfe2ea;}
-.k-kunten-text{margin:0;font-size:.97rem;}
+.kanbun-dict .k-kunten{background:var(--k-kunten-bg);border-color:#bfe2ea;}
+.kanbun-dict .k-lb-kunten{color:var(--k-kunten);border-color:#bfe2ea;}
+.kanbun-dict .k-kunten-text{margin:0;font-size:.97rem;}
 
 /* 識別・注意点 */
-.k-point{background:var(--k-point-bg);border-color:#f0cfc8;}
-.k-lb-point{color:var(--k-point);border-color:#f0cfc8;}
-.k-point-text{margin:0;font-size:.97rem;}
+.kanbun-dict .k-point{background:var(--k-point-bg);border-color:#f0cfc8;}
+.kanbun-dict .k-lb-point{color:var(--k-point);border-color:#f0cfc8;}
+.kanbun-dict .k-point-text{margin:0;font-size:.97rem;}
 
 /* ゴロ */
-.k-goro{background:var(--k-goro-bg);border-color:#f0e0b0;}
-.k-lb-goro{color:var(--k-goro);border-color:#f0e0b0;}
-.k-goro-text{margin:0;font-size:1.02rem;font-weight:600;color:var(--k-goro);}
+.kanbun-dict .k-goro{background:var(--k-goro-bg);border-color:#f0e0b0;}
+.kanbun-dict .k-lb-goro{color:var(--k-goro);border-color:#f0e0b0;}
+.kanbun-dict .k-goro-text{margin:0;font-size:1.02rem;font-weight:600;color:var(--k-goro);}
 
-.k-gogen-text{margin:0;font-size:.95rem;color:var(--k-ink);}
+.kanbun-dict .k-gogen-text{margin:0;font-size:.95rem;color:var(--k-ink);}
 
 /* 関連チップ */
-.k-chips{display:flex;flex-wrap:wrap;gap:8px;}
-.k-chip{display:flex;flex-direction:column;text-decoration:none;background:#e9eef6;
+.kanbun-dict .k-chips{display:flex;flex-wrap:wrap;gap:8px;}
+.kanbun-dict .k-chip{display:flex;flex-direction:column;text-decoration:none;background:#f3ead8;
   border:1px solid var(--k-line);border-radius:10px;padding:8px 12px;min-width:96px;color:var(--k-ink);}
-a.k-chip:hover{background:#dde5f1;border-color:var(--k-accent2);}
-.k-chip-go{font-weight:700;font-family:"Hiragino Mincho ProN","Yu Mincho",serif;}
-.k-chip-imi{font-size:.78rem;color:var(--k-sub);margin-top:2px;}
+.kanbun-dict a.k-chip:hover{background:#ece0c8;border-color:var(--k-accent);}
+.kanbun-dict .k-chip-go{font-weight:700;font-family:"Hiragino Mincho ProN","Yu Mincho","Noto Serif JP",serif;}
+.kanbun-dict .k-chip-imi{font-size:.78rem;color:var(--k-sub);margin-top:2px;}
 
-/* FAQ */
-.k-faq-item{padding:10px 0;border-bottom:1px dashed var(--k-line);}
-.k-faq-item:last-child{border-bottom:none;}
-.k-q{font-weight:700;margin:0 0 4px;color:var(--k-accent);}
-.k-a{margin:0;font-size:.94rem;color:var(--k-ink);}
+/* FAQ（辞書ページ内） */
+.kanbun-dict .k-faq-item{padding:10px 0;border-bottom:1px dashed var(--k-line);}
+.kanbun-dict .k-faq-item:last-child{border-bottom:none;}
+.kanbun-dict .k-q{font-weight:700;margin:0 0 4px;color:var(--k-accent);}
+.kanbun-dict .k-a{margin:0;font-size:.94rem;color:var(--k-ink);}
 
 /* クイズ */
-.k-quiz-q{margin-bottom:16px;}
-.k-quiz-stem{font-size:.98rem;margin-bottom:10px;}
-.k-quiz-choices{display:flex;gap:8px;flex-wrap:wrap;}
-.k-quiz-choice{width:44px;height:44px;border-radius:10px;border:2px solid var(--k-line);
+.kanbun-dict .k-quiz-q{margin-bottom:16px;}
+.kanbun-dict .k-quiz-stem{font-size:.98rem;margin-bottom:10px;}
+.kanbun-dict .k-quiz-choices{display:flex;gap:8px;flex-wrap:wrap;}
+.kanbun-dict .k-quiz-choice{width:44px;height:44px;border-radius:10px;border:2px solid var(--k-line);
   background:#fff;font-weight:700;cursor:pointer;transition:.15s;}
-.k-quiz-choice:hover{border-color:var(--k-accent2);}
-.k-quiz-choice.correct{background:var(--k-std);color:#fff;border-color:var(--k-std);}
-.k-quiz-choice.wrong{background:var(--k-max);color:#fff;border-color:var(--k-max);}
-.k-quiz-feedback{margin-top:8px;font-size:.9rem;font-weight:700;min-height:1.2em;}
+.kanbun-dict .k-quiz-choice:hover{border-color:var(--k-accent);}
+.kanbun-dict .k-quiz-choice.correct{background:var(--k-green);color:#fff;border-color:var(--k-green);}
+.kanbun-dict .k-quiz-choice.wrong{background:var(--k-max);color:#fff;border-color:var(--k-max);}
+.kanbun-dict .k-quiz-feedback{margin-top:8px;font-size:.9rem;font-weight:700;min-height:1.2em;}
 
 /* 戻る */
-.k-back{text-align:center;margin:6px 0 18px;}
-.k-back-btn{display:inline-block;text-decoration:none;background:var(--k-accent);color:#fff;
+.kanbun-dict .k-back{text-align:center;margin:6px 0 18px;}
+.kanbun-dict .k-back-btn{display:inline-block;text-decoration:none;background:var(--k-accent);color:#fff;
   border-radius:999px;padding:10px 22px;font-size:.92rem;font-weight:700;}
-.k-back-btn:hover{background:var(--k-accent2);color:#fff;}
+.kanbun-dict .k-back-btn:hover{background:var(--k-accent2);color:#fff;}
 
 @media (max-width:480px){
-  .k-midashi{font-size:1.9rem;}
-  .k-hakubun{font-size:1.02rem;}
-  .k-kakikudashi{font-size:1rem;}
+  .kanbun-dict .k-midashi{font-size:1.8rem;}
+  .kanbun-dict .k-hakubun{font-size:1.02rem;}
+  .kanbun-dict .k-kakikudashi{font-size:1rem;}
 }

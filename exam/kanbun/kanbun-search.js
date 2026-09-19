@@ -14,7 +14,7 @@
   window.__kanbunSearchInit = true;
 
   var INDEX_URL = "/exam/kanbun/kanbun-index.json";
-  var LEVEL_COLOR = { "最重要": "#c0392b", "重要": "#c77a1a", "標準": "#3f8f6e", "発展": "#5b6bbf" };
+  var LEVEL_COLOR = { "最重要": "#c0392b", "重要": "#c77a1a", "標準": "#006633", "発展": "#5b6bbf" };
   var MAX = 12;
 
   // カタカナ→ひらがな＋小文字化（ひらがな入力でも読み(カナ)にヒット）
@@ -34,9 +34,9 @@
       + '.ks-wrap{position:relative;max-width:520px;margin:14px auto 0;padding:0 14px;font-family:-apple-system,BlinkMacSystemFont,"Hiragino Kaku Gothic ProN","Yu Gothic",Meiryo,sans-serif;}'
       + '.ks-form{display:flex;gap:8px;}'
       + '.ks-input{flex:1;min-width:0;padding:11px 14px;font-size:16px;border:2px solid #c3cfe0;border-radius:12px;background:#fbfcff;color:#22272e;outline:none;}'
-      + '.ks-input:focus{border-color:#5878a8;box-shadow:0 0 0 3px rgba(88,120,168,.18);}'
-      + '.ks-btn{flex:0 0 auto;padding:0 16px;border:none;border-radius:12px;background:#35507a;color:#fff;font-weight:700;font-size:15px;cursor:pointer;}'
-      + '.ks-btn:hover{background:#5878a8;}'
+      + '.ks-input:focus{border-color:#8a4a3a;box-shadow:0 0 0 3px rgba(107,47,47,.18);}'
+      + '.ks-btn{flex:0 0 auto;padding:0 16px;border:none;border-radius:12px;background:#6b2f2f;color:#fff;font-weight:700;font-size:15px;cursor:pointer;}'
+      + '.ks-btn:hover{background:#8a4a3a;}'
       + '.ks-box{display:none;position:absolute;left:14px;right:14px;top:100%;margin-top:6px;background:#fff;border:1px solid #dbe1ea;border-radius:12px;box-shadow:0 12px 30px rgba(30,50,90,.22);overflow:hidden;max-height:66vh;overflow-y:auto;z-index:400;}'
       + '.ks-item{display:flex;align-items:center;gap:10px;padding:10px 14px;text-decoration:none;color:#22272e;border-bottom:1px solid #eef2f8;cursor:pointer;}'
       + '.ks-item:last-child{border-bottom:none;}'
